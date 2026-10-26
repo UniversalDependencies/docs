@@ -10,10 +10,10 @@ This feature is universal.
 It occurs with 8 different values: `Art`, `Dem`, `Ind`, `Int`, `Neg`, `Prs`, `Rel`, `Tot`.
 Some words have combined values of the feature; 1 combinations have been observed: `Ind|Neg`.
 
-9777 tokens (22%) have a non-empty value of `PronType`.
+9786 tokens (22%) have a non-empty value of `PronType`.
 261 types (5%) occur at least once with a non-empty value of `PronType`.
-96 lemmas (2%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 5 part-of-speech tags: <tt><a href="wo_wtb-pos-PRON.html">PRON</a></tt> (6203; 14% instances), <tt><a href="wo_wtb-pos-DET.html">DET</a></tt> (3146; 7% instances), <tt><a href="wo_wtb-pos-ADV.html">ADV</a></tt> (395; 1% instances), <tt><a href="wo_wtb-pos-AUX.html">AUX</a></tt> (32; 0% instances), <tt><a href="wo_wtb-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+97 lemmas (2%) occur at least once with a non-empty value of `PronType`.
+The feature is used with 5 part-of-speech tags: <tt><a href="wo_wtb-pos-PRON.html">PRON</a></tt> (6203; 14% instances), <tt><a href="wo_wtb-pos-DET.html">DET</a></tt> (3155; 7% instances), <tt><a href="wo_wtb-pos-ADV.html">ADV</a></tt> (395; 1% instances), <tt><a href="wo_wtb-pos-AUX.html">AUX</a></tt> (32; 0% instances), <tt><a href="wo_wtb-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 ### `PRON`
 
@@ -34,6 +34,10 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 
 <table>
   <tr><th>Paradigm <i>bu</i></th><th><tt>Int</tt></th><th><tt>Rel</tt></th><th><tt>Tot</tt></th></tr>
+  <tr><td><tt><tt><a href="wo_wtb-feat-ExtPos.html">ExtPos</a></tt><tt>=ADV</tt>|<tt><a href="wo_wtb-feat-NounClass.html">NounClass</a></tt><tt>=Wol1</tt>|<tt><a href="wo_wtb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="wo_wtb-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td><em>Ku</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="wo_wtb-feat-ExtPos.html">ExtPos</a></tt><tt>=ADV</tt>|<tt><a href="wo_wtb-feat-NounClass.html">NounClass</a></tt><tt>=Wol5</tt>|<tt><a href="wo_wtb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="wo_wtb-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td><em>bu</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="wo_wtb-feat-ExtPos.html">ExtPos</a></tt><tt>=ADV</tt>|<tt><a href="wo_wtb-feat-NounClass.html">NounClass</a></tt><tt>=Wol7</tt></tt></td><td><em>Lu</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="wo_wtb-feat-ExtPos.html">ExtPos</a></tt><tt>=ADV</tt>|<tt><a href="wo_wtb-feat-NounClass.html">NounClass</a></tt><tt>=Wol7</tt>|<tt><a href="wo_wtb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="wo_wtb-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>lu</em></td><td><em>lu</em></td><td></td></tr>
   <tr><td><tt><tt><a href="wo_wtb-feat-NounClass.html">NounClass</a></tt><tt>=Wol10</tt>|<tt><a href="wo_wtb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="wo_wtb-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td><em>wu</em></td><td></td></tr>
   <tr><td><tt><tt><a href="wo_wtb-feat-NounClass.html">NounClass</a></tt><tt>=Wol1</tt>|<tt><a href="wo_wtb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>ku</em></td><td></td></tr>
   <tr><td><tt><tt><a href="wo_wtb-feat-NounClass.html">NounClass</a></tt><tt>=Wol1</tt>|<tt><a href="wo_wtb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="wo_wtb-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>ku</em></td><td><em>ku</em></td><td></td></tr>
@@ -46,7 +50,6 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
   <tr><td><tt><tt><a href="wo_wtb-feat-NounClass.html">NounClass</a></tt><tt>=Wol5</tt>|<tt><a href="wo_wtb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>bu</em></td></tr>
   <tr><td><tt><tt><a href="wo_wtb-feat-NounClass.html">NounClass</a></tt><tt>=Wol5</tt>|<tt><a href="wo_wtb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="wo_wtb-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td><em>bu</em></td><td></td></tr>
   <tr><td><tt><tt><a href="wo_wtb-feat-NounClass.html">NounClass</a></tt><tt>=Wol6</tt>|<tt><a href="wo_wtb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="wo_wtb-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td><em>mu</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="wo_wtb-feat-NounClass.html">NounClass</a></tt><tt>=Wol7</tt></tt></td><td><em>Lu</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="wo_wtb-feat-NounClass.html">NounClass</a></tt><tt>=Wol7</tt>|<tt><a href="wo_wtb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="wo_wtb-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>lu</em></td><td><em>lu</em></td><td></td></tr>
   <tr><td><tt><tt><a href="wo_wtb-feat-NounClass.html">NounClass</a></tt><tt>=Wol8</tt>|<tt><a href="wo_wtb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="wo_wtb-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td><em>yu</em></td><td></td></tr>
   <tr><td><tt><tt><a href="wo_wtb-feat-NounClass.html">NounClass</a></tt><tt>=Wol9</tt>|<tt><a href="wo_wtb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="wo_wtb-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td><em>su</em></td><td></td></tr>
@@ -54,20 +57,19 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 
 ### `DET`
 
-3146 <tt><a href="wo_wtb-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
+3155 <tt><a href="wo_wtb-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="wo_wtb-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (2800; 89%), <tt><a href="wo_wtb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (2797; 89%), <tt><a href="wo_wtb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2092; 66%).
+The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="wo_wtb-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (2809; 89%), <tt><a href="wo_wtb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (2806; 89%), <tt><a href="wo_wtb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2100; 67%).
 
 `DET` tokens may have the following values of `PronType`:
 
-* `Art` (2297; 73% of non-empty `PronType`): <em>yi, bi, ay, ag, gi, mi, ab, wi, i, si</em>
+* `Art` (2306; 73% of non-empty `PronType`): <em>yi, bi, ay, ag, gi, mi, ab, wi, i, si</em>
 * `Dem` (312; 10% of non-empty `PronType`): <em>boobu, yooyu, bii, yii, jii, gii, googu, moomu, woowu, jooju</em>
 * `Ind` (64; 2% of non-empty `PronType`): <em>yeneen, beneen, geneen, weneen, meneen, jeneen, Leneen</em>
 * `Ind,Neg` (7; 0% of non-empty `PronType`): <em>benn</em>
 * `Int` (6; 0% of non-empty `PronType`): <em>Yan, wan, Jan</em>
 * `Prs` (346; 11% of non-empty `PronType`): <em>seen, sunu, sa, sama, seeni, seenug, samay, say, saa</em>
 * `Tot` (114; 4% of non-empty `PronType`): <em>yépp, bépp, gépp, lépp, sépp, ñépp, mépp, jépp, wépp, Képp</em>
-* `EMPTY` (9): <em>Le, les</em>
 
 <table>
   <tr><th>Paradigm <i>benn</i></th><th><tt>Ind,Neg</tt></th><th><tt>Art</tt></th></tr>
@@ -82,7 +84,7 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
   <tr><td><tt><tt><a href="wo_wtb-feat-NounClass.html">NounClass</a></tt><tt>=Wol5</tt>|<tt><a href="wo_wtb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>benn</em></td><td></td></tr>
 </table>
 
-`PronType` seems to be **lexical feature** of `DET`. 97% lemmas (36) occur only with one value of `PronType`.
+`PronType` seems to be **lexical feature** of `DET`. 97% lemmas (37) occur only with one value of `PronType`.
 
 ### `ADV`
 
@@ -135,7 +137,6 @@ The 10 most frequent relations where parent and child node agree in `PronType`:
 <tt>PRON --[<tt><a href="wo_wtb-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (8; 57%),
 <tt>ADV --[<tt><a href="wo_wtb-dep-conj.html">conj</a></tt>]--> ADV</tt> (2; 100%),
 <tt>ADV --[<tt><a href="wo_wtb-dep-dislocated.html">dislocated</a></tt>]--> PRON</tt> (1; 100%),
-<tt>DET --[<tt><a href="wo_wtb-dep-flat.html">flat</a></tt>]--> ADP</tt> (1; 100%),
 <tt>PRON --[<tt><a href="wo_wtb-dep-acl-relcl.html">acl:relcl</a></tt>]--> PRON</tt> (1; 100%),
 <tt>PRON --[<tt><a href="wo_wtb-dep-advcl.html">advcl</a></tt>]--> PRON</tt> (1; 100%),
 <tt>PRON --[<tt><a href="wo_wtb-dep-appos.html">appos</a></tt>]--> PRON</tt> (1; 100%).

@@ -27,10 +27,10 @@ The following 29 pairs of parts of speech are connected with `conj`: <tt><a href
 3	Internet	Internet	NOUN	NN	Gender=Masc|Number=Sing	7	nsubj	_	_
 4	non	non	ADV	RB	Polarity=Neg	7	advmod	_	_
 5	è	essere	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	7	cop	_	_
-6	un	uno	DET	DT	Gender=Masc|Number=Sing	7	det	_	_
+6	un	uno	DET	DT	Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
 7	lusso	lusso	NOUN	NN	Gender=Masc|Number=Sing	0	root	_	_
 8	ma	ma	CCONJ	CC	_	10	cc	_	_
-9	uno	uno	DET	DT	Gender=Masc|Number=Sing	10	det	_	_
+9	uno	uno	DET	DT	Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
 10	strumento	strumento	NOUN	NN	Gender=Masc|Number=Sing	7	conj	_	_
 11	essenziale	essenziale	ADJ	JJ	Gender=Masc|Number=Sing	10	amod	_	SpaceAfter=No
 12	.	.	PUNCT	.	_	7	punct	_	_
@@ -72,7 +72,7 @@ The following 29 pairs of parts of speech are connected with `conj`: <tt><a href
 4	con	con	ADP	IN	_	5	case	_	_
 5	premi	premio	NOUN	NN	Gender=Masc|Number=Plur	3	obl	_	_
 6	per	per	ADP	IN	_	8	case	_	_
-7	la	il	DET	DT	Gender=Fem|Number=Sing	8	det	_	_
+7	la	il	DET	DT	Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
 8	letteratura	letteratura	NOUN	NN	Gender=Fem|Number=Sing	5	nmod	_	_
 9	da	da	ADP	IN	_	11	case	_	_
 10	le	il	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	11	det	_	_

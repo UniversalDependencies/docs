@@ -120,4 +120,4 @@ Passive Participles:
 - _<b>kúpeno</b>_ "bought" 
 - _<b>amýto</b>_ "washed" 
 
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:42 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:54 CEST -->

@@ -7,93 +7,52 @@ udver: '2'
 ## Treebank Statistics: UD_French-Rhapsodie: Relations: `dislocated`
 
 This relation is universal.
+There are 4 language-specific subtypes of `dislocated`: <tt><a href="fr_rhapsodie-dep-dislocated-mod.html">dislocated:mod</a></tt>, <tt><a href="fr_rhapsodie-dep-dislocated-obj.html">dislocated:obj</a></tt>, <tt><a href="fr_rhapsodie-dep-dislocated-obl.html">dislocated:obl</a></tt>, <tt><a href="fr_rhapsodie-dep-dislocated-subj.html">dislocated:subj</a></tt>.
 
-280 nodes (1%) are attached to their parents as `dislocated`.
+2 nodes (0%) are attached to their parents as `dislocated`.
 
-237 instances of `dislocated` (85%) are right-to-left (child precedes parent).
-Average distance between parent and child is 7.05357142857143.
+2 instances of `dislocated` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 6.5.
 
-The following 30 pairs of parts of speech are connected with `dislocated`: <tt><a href="fr_rhapsodie-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_rhapsodie-pos-PRON.html">PRON</a></tt> (78; 28% instances), <tt><a href="fr_rhapsodie-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_rhapsodie-pos-NOUN.html">NOUN</a></tt> (71; 25% instances), <tt><a href="fr_rhapsodie-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_rhapsodie-pos-PRON.html">PRON</a></tt> (27; 10% instances), <tt><a href="fr_rhapsodie-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_rhapsodie-pos-NOUN.html">NOUN</a></tt> (25; 9% instances), <tt><a href="fr_rhapsodie-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_rhapsodie-pos-NOUN.html">NOUN</a></tt> (13; 5% instances), <tt><a href="fr_rhapsodie-pos-AUX.html">AUX</a></tt>-<tt><a href="fr_rhapsodie-pos-PRON.html">PRON</a></tt> (10; 4% instances), <tt><a href="fr_rhapsodie-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_rhapsodie-pos-PRON.html">PRON</a></tt> (8; 3% instances), <tt><a href="fr_rhapsodie-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_rhapsodie-pos-PROPN.html">PROPN</a></tt> (8; 3% instances), <tt><a href="fr_rhapsodie-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_rhapsodie-pos-NOUN.html">NOUN</a></tt> (4; 1% instances), <tt><a href="fr_rhapsodie-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_rhapsodie-pos-PROPN.html">PROPN</a></tt> (4; 1% instances), <tt><a href="fr_rhapsodie-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_rhapsodie-pos-PRON.html">PRON</a></tt> (4; 1% instances), <tt><a href="fr_rhapsodie-pos-AUX.html">AUX</a></tt>-<tt><a href="fr_rhapsodie-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="fr_rhapsodie-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_rhapsodie-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="fr_rhapsodie-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_rhapsodie-pos-ADP.html">ADP</a></tt> (3; 1% instances), <tt><a href="fr_rhapsodie-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_rhapsodie-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="fr_rhapsodie-pos-DET.html">DET</a></tt>-<tt><a href="fr_rhapsodie-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="fr_rhapsodie-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_rhapsodie-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="fr_rhapsodie-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_rhapsodie-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="fr_rhapsodie-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_rhapsodie-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="fr_rhapsodie-pos-AUX.html">AUX</a></tt>-<tt><a href="fr_rhapsodie-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="fr_rhapsodie-pos-INTJ.html">INTJ</a></tt>-<tt><a href="fr_rhapsodie-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="fr_rhapsodie-pos-INTJ.html">INTJ</a></tt>-<tt><a href="fr_rhapsodie-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="fr_rhapsodie-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_rhapsodie-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="fr_rhapsodie-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_rhapsodie-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="fr_rhapsodie-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_rhapsodie-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="fr_rhapsodie-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_rhapsodie-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="fr_rhapsodie-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_rhapsodie-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="fr_rhapsodie-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_rhapsodie-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="fr_rhapsodie-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_rhapsodie-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="fr_rhapsodie-pos-X.html">X</a></tt>-<tt><a href="fr_rhapsodie-pos-PRON.html">PRON</a></tt> (1; 0% instances).
-
-
-~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 14	bgColor:blue
-# visual-style 14	fgColor:white
-# visual-style 14 6 dislocated	color:blue
-1	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
-2	vois	voir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	14	discourse	_	SpaceAfter=No
-3	,	,	PUNCT	_	_	4	punct	_	_
-4	euh	euh	INTJ	_	_	2	discourse	_	SpaceAfter=No
-5	,	,	PUNCT	_	_	2	punct	_	_
-6	moi	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	14	dislocated	_	SpaceAfter=No
-7	,	,	PUNCT	_	_	6	punct	_	_
-8	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
-9	fac	fac	NOUN	_	Gender=Fem|Number=Sing	14	dislocated	_	SpaceAfter=No
-10	,	,	PUNCT	_	_	9	punct	_	_
-11	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	14	nsubj	_	_
-12	m'	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	14	iobj	_	SpaceAfter=No
-13	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	aux:tense	_	_
-14	fait	faire	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
-15	beaucoup	beaucoup	ADV	_	_	14	obj	_	_
-16	de	de	ADP	_	_	17	case	_	_
-17	bien	bien	NOUN	_	Gender=Masc|Number=Sing	15	obl:arg	_	SpaceAfter=No
-18	.	.	PUNCT	_	_	14	punct	_	_
-
-~~~
+The following 2 pairs of parts of speech are connected with `dislocated`: <tt><a href="fr_rhapsodie-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_rhapsodie-pos-PRON.html">PRON</a></tt> (1; 50% instances), <tt><a href="fr_rhapsodie-pos-INTJ.html">INTJ</a></tt>-<tt><a href="fr_rhapsodie-pos-NOUN.html">NOUN</a></tt> (1; 50% instances).
 
 
 ~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
-# visual-style 14	bgColor:blue
-# visual-style 14	fgColor:white
-# visual-style 14 9 dislocated	color:blue
-1	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
-2	vois	voir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	14	discourse	_	SpaceAfter=No
-3	,	,	PUNCT	_	_	4	punct	_	_
-4	euh	euh	INTJ	_	_	2	discourse	_	SpaceAfter=No
-5	,	,	PUNCT	_	_	2	punct	_	_
-6	moi	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	14	dislocated	_	SpaceAfter=No
-7	,	,	PUNCT	_	_	6	punct	_	_
-8	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
-9	fac	fac	NOUN	_	Gender=Fem|Number=Sing	14	dislocated	_	SpaceAfter=No
-10	,	,	PUNCT	_	_	9	punct	_	_
-11	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	14	nsubj	_	_
-12	m'	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	14	iobj	_	SpaceAfter=No
-13	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	aux:tense	_	_
-14	fait	faire	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
-15	beaucoup	beaucoup	ADV	_	_	14	obj	_	_
-16	de	de	ADP	_	_	17	case	_	_
-17	bien	bien	NOUN	_	Gender=Masc|Number=Sing	15	obl:arg	_	SpaceAfter=No
-18	.	.	PUNCT	_	_	14	punct	_	_
+# visual-style 9 1 dislocated	color:blue
+1	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	9	dislocated	_	AlignBegin=28933|AlignEnd=29153|Exponence[Gender]=Inherent|Exponence[Number]=Inherent|Exponence[Person]=Inherent|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	AlignBegin=29153|AlignEnd=29153
+3	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	4	det	_	AlignBegin=29153|AlignEnd=29333|HasSpokenGender=OnlySingExceptWithLiaison
+4	livres	livre	NOUN	_	Gender=Masc|Number=Plur	1	appos	_	AlignBegin=29333|AlignEnd=29545|Exponence[Gender]=Inherent|Exponence[Number]=Absent
+5	politiques	politique	ADJ	_	Gender=Masc|Number=Plur	4	amod	_	AlignBegin=29847|AlignEnd=30548|Exponence[Gender]=Absent|Exponence[Number]=Absent|HasSpokenGender=No|HasSpokenNumber=OnlyWithLiaison|SpaceAfter=No
+6	,	,	PUNCT	_	_	7	punct	_	AlignBegin=30548|AlignEnd=31178
+7	enfin	enfin	ADV	_	_	5	discourse	_	AlignBegin=31178|AlignEnd=31393|SpaceAfter=No
+8	,	,	PUNCT	_	_	1	punct	_	AlignBegin=31393|AlignEnd=31393
+9	non	non	ADV	_	Polarity=Neg	0	root	_	AlignBegin=31393|AlignEnd=31513|SpaceAfter=No
+10	.	.	PUNCT	_	_	9	punct	_	AlignBegin=31513|AlignEnd=31513
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 3 dislocated	color:blue
-1	donc	donc	ADV	_	_	8	advmod	_	SpaceAfter=No
-2	,	,	PUNCT	_	_	1	punct	_	_
-3	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	8	dislocated	_	SpaceAfter=No
-4	,	,	PUNCT	_	_	3	punct	_	_
-5	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	8	nsubj	_	SpaceAfter=No
-6	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
-7	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
-8	endroit	endroit	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
-9	que	que	PRON	_	PronType=Rel	11	obj	_	_
-10	j'	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	11	nsubj	_	SpaceAfter=No
-11	aime	aimer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	acl:relcl	_	_
-12	pas	pas	ADV	_	Polarity=Neg	13	advmod	_	_
-13	trop	trop	ADV	_	_	11	advmod	_	SpaceAfter=No
-14	,	,	PUNCT	_	_	15	punct	_	_
-15	euh	euh	INTJ	_	_	13	discourse	_	SpaceAfter=No
-16	.	.	PUNCT	_	_	8	punct	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 4 dislocated	color:blue
+1	ensuite	ensuite	ADV	_	_	9	advmod	_	AlignBegin=148128|AlignEnd=148543|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	AlignBegin=148543|AlignEnd=148543
+3	nos	son	DET	_	Number=Plur|Number[psor]=Plur|Person[psor]=1|Poss=Yes|PronType=Prs	4	det	_	AlignBegin=148543|AlignEnd=148673|HasSpokenGender=OnlySingExceptWithLiaison
+4	chaussures	chaussure	NOUN	_	Gender=Fem|Number=Plur	9	dislocated	_	AlignBegin=148673|AlignEnd=149113|Exponence[Gender]=Inherent|Exponence[Number]=Absent
+5	qui	qui	PRON	_	PronType=Rel	6	nsubj	_	AlignBegin=149113|AlignEnd=149193
+6	sont	être	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	AlignBegin=149193|AlignEnd=149403
+7	ici	ici	ADV	_	_	6	obl:arg	_	AlignBegin=149403|AlignEnd=149770|SpaceAfter=No
+8	,	,	PUNCT	_	_	4	punct	_	AlignBegin=149770|AlignEnd=150068
+9	waouh	waouh	INTJ	_	_	0	root	_	AlignBegin=150068|AlignEnd=150870|SpaceAfter=No
+10	.	.	PUNCT	_	_	9	punct	_	AlignBegin=150870|AlignEnd=150870
 
 ~~~
 

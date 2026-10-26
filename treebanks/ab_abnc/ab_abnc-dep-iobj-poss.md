@@ -1,0 +1,36 @@
+---
+layout: base
+title:  'Statistics of iobj:poss in UD_Abkhaz-AbNC'
+udver: '2'
+---
+
+## Treebank Statistics: UD_Abkhaz-AbNC: Relations: `iobj:poss`
+
+This relation is a language-specific subtype of <tt><a href="ab_abnc-dep-iobj.html">iobj</a></tt>.
+There are also 4 other language-specific subtypes of `iobj`: <tt><a href="ab_abnc-dep-iobj-cs.html">iobj:cs</a></tt>, <tt><a href="ab_abnc-dep-iobj-lo.html">iobj:lo</a></tt>, <tt><a href="ab_abnc-dep-iobj-po.html">iobj:po</a></tt>, <tt><a href="ab_abnc-dep-iobj-ro.html">iobj:ro</a></tt>.
+
+2 nodes (0%) are attached to their parents as `iobj:poss`.
+
+1 instances of `iobj:poss` (50%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.
+
+The following 1 pairs of parts of speech are connected with `iobj:poss`: <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt> (2; 100% instances).
+
+
+~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 6 iobj:poss	color:blue
+1	–	–	PUNCT	Punct_Dash	_	5	punct	_	LMSeg:–
+2	Шәара	шәара́	PRON	Pron_Pers_2Pl	Number=Plur|Person=2|PronType=Prs	5	obl	_	LMSeg:шәара́
+3	шәаасҭа	а́асҭа	ADP	PP_Poss:2Pl	Number[psor]=Plur|Person[psor]=2	2	case	_	LMSeg:а́асҭа
+4	сара	сара́	PRON	Pron_Pers_1Sg	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	LMSeg:сара́
+5	сихәарҭоуп	а-хәарҭа́	VERB	Adj_Sg_Pred_Fin_Pres_S:1Sg_Poss:3SgM	Dyn=No|Gender[psor]=Masc|Mood=Ind|Number=Sing|Number[psor]=Sing|Number[subj]=Sing|Person[psor]=3|Person[subj]=1|Tense=Pres|VerbForm=Fin	0	root	_	LMSeg:а-хәарҭа́
+6	ҳаҧшәма	а́-ҧшәма	NOUN	Noun_H_Sg_Poss:1Pl	Animacy=Hum|Number=Sing|Number[psor]=Plur|Person[psor]=1	5	iobj:poss	_	LMSeg:а́-ҧшәма|SpaceAfter=No
+7	.	.	PUNCT	Punct_Period	_	5	punct	_	LMSeg:.
+
+~~~
+
+

@@ -7,6 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Russian-GSD: Relations: `parataxis`
 
 This relation is universal.
+There are 1 language-specific subtypes of `parataxis`: <tt><a href="ru_gsd-dep-parataxis-discourse.html">parataxis:discourse</a></tt>.
 
 839 nodes (1%) are attached to their parents as `parataxis`.
 

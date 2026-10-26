@@ -9,24 +9,24 @@ udver: '2'
 This feature is universal.
 It occurs with 4 different values: `Cnd`, `Des`, `Imp`, `Ind`.
 
-710 tokens (7%) have a non-empty value of `Mood`.
-400 types (10%) occur at least once with a non-empty value of `Mood`.
+711 tokens (7%) have a non-empty value of `Mood`.
+401 types (10%) occur at least once with a non-empty value of `Mood`.
 216 lemmas (9%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 2 part-of-speech tags: <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt> (599; 6% instances), <tt><a href="bxr_bdt-pos-AUX.html">AUX</a></tt> (111; 1% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt> (600; 6% instances), <tt><a href="bxr_bdt-pos-AUX.html">AUX</a></tt> (111; 1% instances).
 
 ### `VERB`
 
-599 <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt> tokens (39% of all `VERB` tokens) have a non-empty value of `Mood`.
+600 <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt> tokens (39% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="bxr_bdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (417; 70%), <tt><a href="bxr_bdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (414; 69%), <tt><a href="bxr_bdt-feat-Person.html">Person</a></tt><tt>=3</tt> (401; 67%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="bxr_bdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (418; 70%), <tt><a href="bxr_bdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (414; 69%), <tt><a href="bxr_bdt-feat-Person.html">Person</a></tt><tt>=3</tt> (401; 67%).
 
 `VERB` tokens may have the following values of `Mood`:
 
 * `Cnd` (8; 1% of non-empty `Mood`): <em>болобол, гэбэл, байбал, оруулбал, хэлэбэл, шиидхэбэл</em>
 * `Des` (172; 29% of non-empty `Mood`): <em>эхилээ, ябаа, болоо, гараад, абаад, болоод, гараа, золгооб, хэлээ, үнгэрөө</em>
 * `Imp` (72; 12% of non-empty `Mood`): <em>бии, бэлэй, гээшэ, угаа, баатай, бай, хэ, ябаарай, абарыт, байлсаатай</em>
-* `Ind` (347; 58% of non-empty `Mood`): <em>байна, ерээ, ерээд, түрэһэн, ябаһан, байһан, болоно, табигдаһан, ажаһууна, болоһон</em>
-* `EMPTY` (931): <em>гэжэ, байгаа, ажаһуудаг, хэжэ, ябаха, боложо, гэхэдэ, гээшэб, ошожо, хэлсэдэг</em>
+* `Ind` (348; 58% of non-empty `Mood`): <em>байна, ерээ, ерээд, түрэһэн, ябаһан, байһан, болоно, табигдаһан, ажаһууна, болоһон</em>
+* `EMPTY` (930): <em>гэжэ, байгаа, ажаһуудаг, хэжэ, ябаха, боложо, гэхэдэ, гээшэб, ошожо, хэлсэдэг</em>
 
 <table>
   <tr><th>Paradigm <i>бай</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Cnd</tt></th></tr>

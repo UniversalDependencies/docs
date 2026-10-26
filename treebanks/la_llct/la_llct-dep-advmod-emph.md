@@ -27,7 +27,7 @@ The following 19 pairs of parts of speech are connected with `advmod:emph`: <tt>
 2	et	et	CCONJ	d|d|-|-|-|-|-|-|-|-	_	4	advmod:emph	_	_
 3	mihi	ego	PRON	p|p|1|s|-|-|-|m|d|-	Case=Dat|Number=Sing|Person=1|PronType=Prs	4	obl:arg	_	_
 4	dedisti	do	VERB	v|v|2|s|r|i|a|-|-|-	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	TraditionalMood=Indicativus|TraditionalTense=Perfectum
-5	id	is	PRON	p|p|-|s|-|-|-|n|n|-	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	8	advmod:emph	_	_
+5	id	is	PRON	p|p|-|s|-|-|-|n|n|-	Case=Nom|ExtPos=CCONJ|Gender=Neut|Number=Sing|Person=3|PronType=Prs	8	advmod:emph	_	_
 6	est	sum	AUX	v|v|3|s|p|i|a|-|-|-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	fixed	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
 7	duo	duo	NUM	a|a|-|p|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Plur|NumForm=Word|NumType=Card	8	nummod	_	_
 8	petie	petia	NOUN	n|n|-|p|-|-|-|f|n|-	Case=Nom|Gender=Fem|Number=Plur	4	obj	_	_

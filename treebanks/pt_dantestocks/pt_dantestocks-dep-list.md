@@ -39,7 +39,7 @@ The following 5 pairs of parts of speech are connected with `list`: <tt><a href=
 15	CIEL3	CIEL3	PROPN	_	_	13	conj	_	_
 16	40,23	40,23	NUM	_	NumType=Card	15	nmod	_	_
 17	MRFG3	MRFG3	PROPN	_	_	13	conj	_	_
-18	4,91	4,91	NUM	_	NumType=Card	17	nmod	_	SpaceAfter=No
+18	4,91	4,91	NUM	_	NumType=Card	17	nmod	_	_
 
 ~~~
 
@@ -80,7 +80,7 @@ The following 5 pairs of parts of speech are connected with `list`: <tt><a href=
 28	%	%	SYM	_	_	26	nmod	_	_
 29	R$	R$	SYM	_	_	26	nmod	_	SpaceAfter=No
 30	19,37	19,37	NUM	_	NumType=Card	29	nummod	_	SpaceAfter=No
-31	.	.	PUNCT	_	_	6	punct	_	SpaceAfter=No
+31	.	.	PUNCT	_	_	6	punct	_	_
 
 ~~~
 
@@ -114,7 +114,7 @@ The following 5 pairs of parts of speech are connected with `list`: <tt><a href=
 21	Petrobras	Petrobras	PROPN	_	_	2	parataxis	_	_
 22	PETR4	PETR4	PROPN	_	_	21	flat:name	_	SpaceAfter=No
 23	...	...	PUNCT	_	_	2	punct	_	_
-24	http://t.co/gSdgOFzDCy	http://t.co/gSdgOFzDCy	SYM	_	_	2	parataxis	_	SpaceAfter=No
+24	http://t.co/gSdgOFzDCy	http://t.co/gSdgOFzDCy	SYM	_	_	2	parataxis	_	_
 
 ~~~
 

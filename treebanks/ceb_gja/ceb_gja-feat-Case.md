@@ -16,14 +16,14 @@ The feature is used with 2 part-of-speech tags: <tt><a href="ceb_gja-pos-ADP.htm
 
 ### `ADP`
 
-178 <tt><a href="ceb_gja-pos-ADP.html">ADP</a></tt> tokens (85% of all `ADP` tokens) have a non-empty value of `Case`.
+178 <tt><a href="ceb_gja-pos-ADP.html">ADP</a></tt> tokens (83% of all `ADP` tokens) have a non-empty value of `Case`.
 
 `ADP` tokens may have the following values of `Case`:
 
 * `Dat` (58; 33% of non-empty `Case`): <em>sa, kang, ug, -g</em>
 * `Gen` (46; 26% of non-empty `Case`): <em>ni, -g, ug, sa, og</em>
 * `Nom` (74; 42% of non-empty `Case`): <em>ang, si, -g, -ng</em>
-* `EMPTY` (31): <em>ang, para, -g, sa, nga, og, ug, -ng, alang, bahin</em>
+* `EMPTY` (37): <em>ang, og, para, -g, sa, si, nga, ug, -ng, alang</em>
 
 <table>
   <tr><th>Paradigm <i>sa</i></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th></tr>

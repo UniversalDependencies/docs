@@ -11,9 +11,43 @@ This relation is universal.
 10 nodes (0%) are attached to their parents as `iobj`.
 
 10 instances of `iobj` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.4.
+Average distance between parent and child is 1.5.
 
-The following 3 pairs of parts of speech are connected with `iobj`: <tt><a href="en_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (4; 40% instances), <tt><a href="en_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="en_pud-pos-PRON.html">PRON</a></tt> (3; 30% instances), <tt><a href="en_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt> (3; 30% instances).
+The following 3 pairs of parts of speech are connected with `iobj`: <tt><a href="en_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt> (4; 40% instances), <tt><a href="en_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (3; 30% instances), <tt><a href="en_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="en_pud-pos-PRON.html">PRON</a></tt> (3; 30% instances).
+
+
+~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 5 iobj	color:blue
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	2:det	_
+2	company	company	NOUN	NN	Number=Sing	3	nsubj	3:nsubj	_
+3	told	tell	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	5:det	_
+5	BBC	BBC	PROPN	NNP	Abbr=Yes|Number=Sing	3	iobj	3:iobj	_
+6	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	10	nsubj	10:nsubj	_
+7	would	would	AUX	MD	VerbForm=Fin	10	aux	10:aux	_
+8	be	be	AUX	VB	VerbForm=Inf	10	cop	10:cop	_
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	10:det	_
+10	responsibility	responsibility	NOUN	NN	Number=Sing	3	ccomp	3:ccomp	_
+11	of	of	ADP	IN	_	14	case	14:case	_
+12	each	each	DET	DT	PronType=Tot	14	det	14:det	_
+13	airline	airline	NOUN	NN	Number=Sing	14	compound	14:compound	_
+14	brand	brand	NOUN	NN	Number=Sing	10	nmod	10:nmod:of	_
+15	to	to	PART	TO	_	16	mark	16:mark	_
+16	decide	decide	VERB	VB	VerbForm=Inf	10	acl	10:acl:to	_
+17	whether	whether	SCONJ	IN	_	19	mark	19:mark	_
+18	to	to	PART	TO	_	19	mark	19:mark	_
+19	charge	charge	VERB	VB	VerbForm=Inf	16	xcomp	16:xcomp	_
+20	passengers	passenger	NOUN	NNS	Number=Plur	19	iobj	19:iobj	_
+21	an	a	DET	DT	Definite=Ind|PronType=Art	23	det	23:det	_
+22	access	access	NOUN	NN	Number=Sing	23	compound	23:compound	_
+23	fee	fee	NOUN	NN	Number=Sing	19	obj	19:obj	SpaceAfter=No
+24	.	.	PUNCT	.	_	3	punct	3:punct	_
+
+~~~
 
 
 ~~~ conllu
@@ -84,40 +118,6 @@ The following 3 pairs of parts of speech are connected with `iobj`: <tt><a href=
 36	a	a	DET	DT	Definite=Ind|PronType=Art	37	det	37:det	_
 37	child	child	NOUN	NN	Number=Sing	34	obl	34:obl:as	SpaceAfter=No
 38	.	.	PUNCT	.	_	3	punct	3:punct	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 5 iobj	color:blue
-1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	2:det	_
-2	company	company	NOUN	NN	Number=Sing	3	nsubj	3:nsubj	_
-3	told	tell	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
-4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	5:det	_
-5	BBC	BBC	PROPN	NNP	Abbr=Yes|Number=Sing	3	iobj	3:iobj	_
-6	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	10	nsubj	10:nsubj	_
-7	would	would	AUX	MD	VerbForm=Fin	10	aux	10:aux	_
-8	be	be	AUX	VB	VerbForm=Inf	10	cop	10:cop	_
-9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	10:det	_
-10	responsibility	responsibility	NOUN	NN	Number=Sing	3	ccomp	3:ccomp	_
-11	of	of	ADP	IN	_	14	case	14:case	_
-12	each	each	DET	DT	PronType=Tot	14	det	14:det	_
-13	airline	airline	NOUN	NN	Number=Sing	14	compound	14:compound	_
-14	brand	brand	NOUN	NN	Number=Sing	10	nmod	10:nmod:of	_
-15	to	to	PART	TO	_	16	mark	16:mark	_
-16	decide	decide	VERB	VB	VerbForm=Inf	10	acl	10:acl:to	_
-17	whether	whether	SCONJ	IN	_	19	mark	19:mark	_
-18	to	to	PART	TO	_	19	mark	19:mark	_
-19	charge	charge	VERB	VB	VerbForm=Inf	16	xcomp	16:xcomp	_
-20	passengers	passenger	NOUN	NNS	Number=Plur	19	iobj	19:iobj	_
-21	an	a	DET	DT	Definite=Ind|PronType=Art	23	det	23:det	_
-22	access	access	NOUN	NN	Number=Sing	23	compound	23:compound	_
-23	fee	fee	NOUN	NN	Number=Sing	19	obj	19:obj	SpaceAfter=No
-24	.	.	PUNCT	.	_	3	punct	3:punct	_
 
 ~~~
 

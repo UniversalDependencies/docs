@@ -22,13 +22,13 @@ The following 1 pairs of parts of speech are connected with `orphan`: <tt><a hre
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 2 orphan	color:blue
-1	Yaptığım	yap	ADJ	_	_	2	acl	_	_
-2	işte	iş	NOUN	_	Case=Loc|Number=Sing|Person=3	7	orphan	_	_
+1	Yaptığım	yap	VERB	_	Aspect=Perf|Number[psor]=Sing|Person[psor]=1|Polarity=Pos|Tense=Past|VerbForm=Part	2	acl	_	_
+2	işte	iş	NOUN	_	Case=Loc|Number=Sing	7	orphan	_	_
 3	ciddi	ciddi	ADJ	_	_	5	amod	_	_
 4	bir	bir	DET	_	Definite=Ind|PronType=Art	5	det	_	_
-5	meblağ	meblağ	NOUN	_	Case=Nom|Number=Sing|Person=3	7	obj	_	_
-6	iktisap	iktisap	NOUN	_	Case=Nom|Number=Sing|Person=3	7	compound	_	_
-7	ettim	et	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Past|VerbForm=Fin	0	root	_	_
+5	meblağ	meblağ	NOUN	_	Case=Nom|Number=Sing	7	obj	_	_
+6	iktisap	iktisap	NOUN	_	Case=Nom|Number=Sing	7	compound	_	_
+7	ettim	et	VERB	_	Aspect=Perf|Evident=Fh|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Past|VerbForm=Fin	0	root	_	_
 8	.	.	PUNCT	_	_	7	punct	_	_
 
 ~~~

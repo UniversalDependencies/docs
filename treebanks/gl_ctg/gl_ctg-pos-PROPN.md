@@ -6,8 +6,8 @@ udver: '2'
 
 ## Treebank Statistics: UD_Galician-CTG: POS Tags: `PROPN`
 
-There are 957 `PROPN` lemmas (9%), 962 `PROPN` types (6%) and 1904 `PROPN` tokens (1%).
-Out of 16 observed tags, the rank of `PROPN` is: 4 in number of lemmas, 4 in number of types and 12 in number of tokens.
+There are 953 `PROPN` lemmas (9%), 958 `PROPN` types (6%) and 1897 `PROPN` tokens (1%).
+Out of 17 observed tags, the rank of `PROPN` is: 4 in number of lemmas, 4 in number of types and 12 in number of tokens.
 
 The 10 most frequent `PROPN` lemmas: <em>galicia, españa, coruña, lugo, santiago, europa, ourense, pontevedra, galiza, internet</em>
 
@@ -34,7 +34,7 @@ The 10 most frequent ambiguous types:  <em>et</em> (<tt><a href="gl_ctg-pos-PROP
   * <tt><a href="gl_ctg-pos-PROPN.html">PROPN</a></tt> 5: <em>Com todos os matizes que se quigerem ( e que se devem ) pôr , os diferentes projectos <b>em</b> pugna en a Galiza de hoje bogam numha ou en outra direcçom .</em>
   * <tt><a href="gl_ctg-pos-ADP.html">ADP</a></tt> 1: <em>Imaginemos um encarecimento relativo de a terra em relaçom a os fertilizantes , aparecendo umha nova relaçom de prezos ZZ : isto é , a terra volta-se escassa <b>em</b> relaçom con os fertilizantes .</em>
 * <em>35</em>
-  * <tt><a href="gl_ctg-pos-PROPN.html">PROPN</a></tt> 5: <em>En esta data , xa foran executadas ou estaban en fase de execución un total de <b>35</b> depuradoras fronte ás trece existentes en o período anterior .</em>
+  * <tt><a href="gl_ctg-pos-PROPN.html">PROPN</a></tt> 5: <em>En esta data , xa foran executadas ou estaban en fase de execución un total de <b>35</b> depuradoras fronte a as trece existentes en o período anterior .</em>
   * <tt><a href="gl_ctg-pos-NUM.html">NUM</a></tt> 2: <em>Aproximadamente unhas dúas terceiras partes de os falecementos por accidentes antes de os <b>35</b> anos en a UE son debidos a o tráfico con unha maior incidencia en os países de o sur , entre eles España .</em>
   * <tt><a href="gl_ctg-pos-ADJ.html">ADJ</a></tt> 1: <em>Respecto a a idade , a análise realizada amosa que o uso preferente ou exclusivo de o castelán está asociado a os grupos de 16 a <b>35</b> anos e , en menor medida , a os de 36 a 45 .</em>
 * <em>km</em>
@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>et</em> (<tt><a href="gl_ctg-pos-PROP
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.005225 (the average of all parts of speech is 1.523050).
+The form / lemma ratio of `PROPN` is 1.005247 (the average of all parts of speech is 1.522661).
 
 The 1st highest number of forms (2) was observed with the lemma “españa”: <em>ESPAÑA, España</em>.
 
@@ -61,32 +61,32 @@ The 2nd highest number of forms (2) was observed with the lemma “fenosa”: <e
 
 The 3rd highest number of forms (2) was observed with the lemma “fernández”: <em>FERNÁNDEZ, Fernández</em>.
 
-`PROPN` occurs with 1 features: <tt><a href="gl_ctg-feat-Foreign.html">Foreign</a></tt> (15; 1% instances)
+`PROPN` occurs with 1 features: <tt><a href="gl_ctg-feat-Foreign.html">Foreign</a></tt> (18; 1% instances)
 
 `PROPN` occurs with 1 feature-value pairs: `Foreign=Yes`
 
 `PROPN` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (1889 tokens).
+The most frequent feature combination is `_` (1879 tokens).
 Examples: <em>Galicia, España, Coruña, Lugo, Santiago, Europa, Ourense, Pontevedra, Galiza, internet</em>
 
 
 ## Relations
 
-`PROPN` nodes are attached to their parents using 13 different relations: <tt><a href="gl_ctg-dep-nmod.html">nmod</a></tt> (1195; 63% instances), <tt><a href="gl_ctg-dep-nsubj.html">nsubj</a></tt> (237; 12% instances), <tt><a href="gl_ctg-dep-obl.html">obl</a></tt> (213; 11% instances), <tt><a href="gl_ctg-dep-dep.html">dep</a></tt> (149; 8% instances), <tt><a href="gl_ctg-dep-obj.html">obj</a></tt> (47; 2% instances), <tt><a href="gl_ctg-dep-flat.html">flat</a></tt> (17; 1% instances), <tt><a href="gl_ctg-dep-ccomp.html">ccomp</a></tt> (16; 1% instances), <tt><a href="gl_ctg-dep-root.html">root</a></tt> (13; 1% instances), <tt><a href="gl_ctg-dep-amod.html">amod</a></tt> (8; 0% instances), <tt><a href="gl_ctg-dep-conj.html">conj</a></tt> (4; 0% instances), <tt><a href="gl_ctg-dep-xcomp.html">xcomp</a></tt> (3; 0% instances), <tt><a href="gl_ctg-dep-appos.html">appos</a></tt> (1; 0% instances), <tt><a href="gl_ctg-dep-parataxis.html">parataxis</a></tt> (1; 0% instances)
+`PROPN` nodes are attached to their parents using 18 different relations: <tt><a href="gl_ctg-dep-nmod.html">nmod</a></tt> (1123; 59% instances), <tt><a href="gl_ctg-dep-obl.html">obl</a></tt> (219; 12% instances), <tt><a href="gl_ctg-dep-nsubj.html">nsubj</a></tt> (178; 9% instances), <tt><a href="gl_ctg-dep-conj.html">conj</a></tt> (131; 7% instances), <tt><a href="gl_ctg-dep-dep.html">dep</a></tt> (85; 4% instances), <tt><a href="gl_ctg-dep-obj.html">obj</a></tt> (55; 3% instances), <tt><a href="gl_ctg-dep-flat.html">flat</a></tt> (31; 2% instances), <tt><a href="gl_ctg-dep-root.html">root</a></tt> (15; 1% instances), <tt><a href="gl_ctg-dep-ccomp.html">ccomp</a></tt> (12; 1% instances), <tt><a href="gl_ctg-dep-iobj.html">iobj</a></tt> (12; 1% instances), <tt><a href="gl_ctg-dep-advcl.html">advcl</a></tt> (7; 0% instances), <tt><a href="gl_ctg-dep-amod.html">amod</a></tt> (7; 0% instances), <tt><a href="gl_ctg-dep-nsubj-outer.html">nsubj:outer</a></tt> (7; 0% instances), <tt><a href="gl_ctg-dep-xcomp.html">xcomp</a></tt> (6; 0% instances), <tt><a href="gl_ctg-dep-appos.html">appos</a></tt> (4; 0% instances), <tt><a href="gl_ctg-dep-parataxis.html">parataxis</a></tt> (3; 0% instances), <tt><a href="gl_ctg-dep-acl-relcl.html">acl:relcl</a></tt> (1; 0% instances), <tt><a href="gl_ctg-dep-discourse.html">discourse</a></tt> (1; 0% instances)
 
-Parents of `PROPN` nodes belong to 10 different parts of speech: <tt><a href="gl_ctg-pos-NOUN.html">NOUN</a></tt> (1008; 53% instances), <tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt> (455; 24% instances), <tt><a href="gl_ctg-pos-PROPN.html">PROPN</a></tt> (259; 14% instances), <tt><a href="gl_ctg-pos-ADJ.html">ADJ</a></tt> (56; 3% instances), <tt><a href="gl_ctg-pos-NUM.html">NUM</a></tt> (45; 2% instances), <tt><a href="gl_ctg-pos-ADP.html">ADP</a></tt> (43; 2% instances),  (13; 1% instances), <tt><a href="gl_ctg-pos-PRON.html">PRON</a></tt> (11; 1% instances), <tt><a href="gl_ctg-pos-ADV.html">ADV</a></tt> (10; 1% instances), <tt><a href="gl_ctg-pos-DET.html">DET</a></tt> (4; 0% instances)
+Parents of `PROPN` nodes belong to 10 different parts of speech: <tt><a href="gl_ctg-pos-NOUN.html">NOUN</a></tt> (1021; 54% instances), <tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt> (453; 24% instances), <tt><a href="gl_ctg-pos-PROPN.html">PROPN</a></tt> (277; 15% instances), <tt><a href="gl_ctg-pos-ADJ.html">ADJ</a></tt> (59; 3% instances), <tt><a href="gl_ctg-pos-NUM.html">NUM</a></tt> (46; 2% instances),  (15; 1% instances), <tt><a href="gl_ctg-pos-PRON.html">PRON</a></tt> (12; 1% instances), <tt><a href="gl_ctg-pos-ADV.html">ADV</a></tt> (11; 1% instances), <tt><a href="gl_ctg-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="gl_ctg-pos-ADP.html">ADP</a></tt> (1; 0% instances)
 
-420 (22%) `PROPN` nodes are leaves.
+306 (16%) `PROPN` nodes are leaves.
 
-741 (39%) `PROPN` nodes have one child.
+799 (42%) `PROPN` nodes have one child.
 
-436 (23%) `PROPN` nodes have two children.
+488 (26%) `PROPN` nodes have two children.
 
-307 (16%) `PROPN` nodes have three or more children.
+304 (16%) `PROPN` nodes have three or more children.
 
 The highest child degree of a `PROPN` node is 15.
 
-Children of `PROPN` nodes are attached using 21 different relations: <tt><a href="gl_ctg-dep-case.html">case</a></tt> (875; 32% instances), <tt><a href="gl_ctg-dep-punct.html">punct</a></tt> (547; 20% instances), <tt><a href="gl_ctg-dep-nmod.html">nmod</a></tt> (445; 16% instances), <tt><a href="gl_ctg-dep-det.html">det</a></tt> (401; 15% instances), <tt><a href="gl_ctg-dep-dep.html">dep</a></tt> (157; 6% instances), <tt><a href="gl_ctg-dep-cc.html">cc</a></tt> (120; 4% instances), <tt><a href="gl_ctg-dep-amod.html">amod</a></tt> (89; 3% instances), <tt><a href="gl_ctg-dep-ccomp.html">ccomp</a></tt> (52; 2% instances), <tt><a href="gl_ctg-dep-flat.html">flat</a></tt> (12; 0% instances), <tt><a href="gl_ctg-dep-nsubj.html">nsubj</a></tt> (11; 0% instances), <tt><a href="gl_ctg-dep-cop.html">cop</a></tt> (9; 0% instances), <tt><a href="gl_ctg-dep-advmod.html">advmod</a></tt> (8; 0% instances), <tt><a href="gl_ctg-dep-mark.html">mark</a></tt> (8; 0% instances), <tt><a href="gl_ctg-dep-nummod.html">nummod</a></tt> (8; 0% instances), <tt><a href="gl_ctg-dep-obj.html">obj</a></tt> (6; 0% instances), <tt><a href="gl_ctg-dep-conj.html">conj</a></tt> (4; 0% instances), <tt><a href="gl_ctg-dep-list.html">list</a></tt> (3; 0% instances), <tt><a href="gl_ctg-dep-xcomp.html">xcomp</a></tt> (3; 0% instances), <tt><a href="gl_ctg-dep-aux.html">aux</a></tt> (2; 0% instances), <tt><a href="gl_ctg-dep-obl.html">obl</a></tt> (2; 0% instances), <tt><a href="gl_ctg-dep-iobj.html">iobj</a></tt> (1; 0% instances)
+Children of `PROPN` nodes are attached using 25 different relations: <tt><a href="gl_ctg-dep-case.html">case</a></tt> (933; 32% instances), <tt><a href="gl_ctg-dep-punct.html">punct</a></tt> (550; 19% instances), <tt><a href="gl_ctg-dep-det.html">det</a></tt> (423; 15% instances), <tt><a href="gl_ctg-dep-nmod.html">nmod</a></tt> (412; 14% instances), <tt><a href="gl_ctg-dep-cc.html">cc</a></tt> (128; 4% instances), <tt><a href="gl_ctg-dep-conj.html">conj</a></tt> (119; 4% instances), <tt><a href="gl_ctg-dep-dep.html">dep</a></tt> (93; 3% instances), <tt><a href="gl_ctg-dep-amod.html">amod</a></tt> (91; 3% instances), <tt><a href="gl_ctg-dep-ccomp.html">ccomp</a></tt> (48; 2% instances), <tt><a href="gl_ctg-dep-flat.html">flat</a></tt> (25; 1% instances), <tt><a href="gl_ctg-dep-nummod.html">nummod</a></tt> (15; 1% instances), <tt><a href="gl_ctg-dep-advmod.html">advmod</a></tt> (11; 0% instances), <tt><a href="gl_ctg-dep-mark.html">mark</a></tt> (11; 0% instances), <tt><a href="gl_ctg-dep-cop.html">cop</a></tt> (10; 0% instances), <tt><a href="gl_ctg-dep-nsubj.html">nsubj</a></tt> (8; 0% instances), <tt><a href="gl_ctg-dep-obj.html">obj</a></tt> (6; 0% instances), <tt><a href="gl_ctg-dep-advcl.html">advcl</a></tt> (5; 0% instances), <tt><a href="gl_ctg-dep-acl-relcl.html">acl:relcl</a></tt> (3; 0% instances), <tt><a href="gl_ctg-dep-appos.html">appos</a></tt> (2; 0% instances), <tt><a href="gl_ctg-dep-aux.html">aux</a></tt> (2; 0% instances), <tt><a href="gl_ctg-dep-discourse.html">discourse</a></tt> (2; 0% instances), <tt><a href="gl_ctg-dep-iobj.html">iobj</a></tt> (1; 0% instances), <tt><a href="gl_ctg-dep-list.html">list</a></tt> (1; 0% instances), <tt><a href="gl_ctg-dep-parataxis.html">parataxis</a></tt> (1; 0% instances), <tt><a href="gl_ctg-dep-xcomp.html">xcomp</a></tt> (1; 0% instances)
 
-Children of `PROPN` nodes belong to 14 different parts of speech: <tt><a href="gl_ctg-pos-ADP.html">ADP</a></tt> (878; 32% instances), <tt><a href="gl_ctg-pos-PUNCT.html">PUNCT</a></tt> (547; 20% instances), <tt><a href="gl_ctg-pos-DET.html">DET</a></tt> (401; 15% instances), <tt><a href="gl_ctg-pos-PROPN.html">PROPN</a></tt> (259; 9% instances), <tt><a href="gl_ctg-pos-NOUN.html">NOUN</a></tt> (243; 9% instances), <tt><a href="gl_ctg-pos-NUM.html">NUM</a></tt> (117; 4% instances), <tt><a href="gl_ctg-pos-CCONJ.html">CCONJ</a></tt> (116; 4% instances), <tt><a href="gl_ctg-pos-ADJ.html">ADJ</a></tt> (94; 3% instances), <tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt> (45; 2% instances), <tt><a href="gl_ctg-pos-PRON.html">PRON</a></tt> (20; 1% instances), <tt><a href="gl_ctg-pos-SYM.html">SYM</a></tt> (12; 0% instances), <tt><a href="gl_ctg-pos-AUX.html">AUX</a></tt> (11; 0% instances), <tt><a href="gl_ctg-pos-ADV.html">ADV</a></tt> (10; 0% instances), <tt><a href="gl_ctg-pos-SCONJ.html">SCONJ</a></tt> (10; 0% instances)
+Children of `PROPN` nodes belong to 14 different parts of speech: <tt><a href="gl_ctg-pos-ADP.html">ADP</a></tt> (932; 32% instances), <tt><a href="gl_ctg-pos-PUNCT.html">PUNCT</a></tt> (550; 19% instances), <tt><a href="gl_ctg-pos-DET.html">DET</a></tt> (425; 15% instances), <tt><a href="gl_ctg-pos-PROPN.html">PROPN</a></tt> (277; 10% instances), <tt><a href="gl_ctg-pos-NOUN.html">NOUN</a></tt> (248; 9% instances), <tt><a href="gl_ctg-pos-NUM.html">NUM</a></tt> (127; 4% instances), <tt><a href="gl_ctg-pos-CCONJ.html">CCONJ</a></tt> (123; 4% instances), <tt><a href="gl_ctg-pos-ADJ.html">ADJ</a></tt> (96; 3% instances), <tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt> (48; 2% instances), <tt><a href="gl_ctg-pos-PRON.html">PRON</a></tt> (25; 1% instances), <tt><a href="gl_ctg-pos-ADV.html">ADV</a></tt> (14; 0% instances), <tt><a href="gl_ctg-pos-SYM.html">SYM</a></tt> (13; 0% instances), <tt><a href="gl_ctg-pos-AUX.html">AUX</a></tt> (12; 0% instances), <tt><a href="gl_ctg-pos-SCONJ.html">SCONJ</a></tt> (11; 0% instances)
 

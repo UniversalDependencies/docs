@@ -12,21 +12,21 @@ Some words have combined values of the feature; 1 combinations have been observe
 
 1919 tokens (8%) have a non-empty value of `Mood`.
 1050 types (18%) occur at least once with a non-empty value of `Mood`.
-514 lemmas (12%) occur at least once with a non-empty value of `Mood`.
+513 lemmas (12%) occur at least once with a non-empty value of `Mood`.
 The feature is used with 2 part-of-speech tags: <tt><a href="gl_pud-pos-VERB.html">VERB</a></tt> (1496; 6% instances), <tt><a href="gl_pud-pos-AUX.html">AUX</a></tt> (423; 2% instances).
 
 ### `VERB`
 
 1496 <tt><a href="gl_pud-pos-VERB.html">VERB</a></tt> tokens (66% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="gl_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1496; 100%), <tt><a href="gl_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (1491; 100%), <tt><a href="gl_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (1370; 92%), <tt><a href="gl_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1090; 73%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="gl_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1496; 100%), <tt><a href="gl_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (1491; 100%), <tt><a href="gl_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (1369; 92%), <tt><a href="gl_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1090; 73%).
 
 `VERB` tokens may have the following values of `Mood`:
 
 * `Cnd,Ind` (34; 2% of non-empty `Mood`): <em>crearían, debería, resultaría, sería, Sorprendería, afectaría, axudaría, caracterizarían, deixaría, descoñecerían</em>
-* `Ind` (1374; 92% of non-empty `Mood`): <em>hai, dixo, ten, tivo, comezou, fixo, declarou, é, tiña, afirmou</em>
-* `Sub` (88; 6% of non-empty `Mood`): <em>fixese, introducise, produzan, teñan, tivese, Fosen, acabase, actuasen, acudisen, adopte</em>
-* `EMPTY` (761): <em>facer, ver, ter, manter, axudar, debido, deixar, enviar, establecer, partir</em>
+* `Ind` (1375; 92% of non-empty `Mood`): <em>hai, dixo, ten, tivo, comezou, fixo, declarou, é, tiña, afirmou</em>
+* `Sub` (87; 6% of non-empty `Mood`): <em>fixese, introducise, produzan, teñan, tivese, Fosen, acabase, actuasen, acudisen, adopte</em>
+* `EMPTY` (762): <em>facer, ver, ter, manter, axudar, debido, deixar, enviar, establecer, partir</em>
 
 <table>
   <tr><th>Paradigm <i>ter</i></th><th><tt>Cnd,Ind</tt></th><th><tt>Ind</tt></th><th><tt>Sub</tt></th></tr>

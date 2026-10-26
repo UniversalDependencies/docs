@@ -32,7 +32,7 @@ The following 5 pairs of parts of speech are connected with `orphan`: <tt><a hre
 8	,	,	PUNCT	_	_	10	punct	_	_
 9	z	z	ADP	_	_	10	case	_	_
 10	předměstami	předměsto	NOUN	_	Case=Ins|Gender=Neut|Number=Plur	2	conj	_	_
-11	wjace	wjele	ADV	_	Degree=Cmp|NumType=Card|PronType=Ind	13	advmod	_	_
+11	wjace	wjele	ADV	_	Degree=Cmp|ExtPos=ADV|NumType=Card|PronType=Ind	13	advmod	_	_
 12	hač	hač	SCONJ	_	_	11	fixed	_	_
 13	2	2	NUM	_	NumType=Card	16	nummod:gov	_	SpaceAfter=No
 14	,	,	PUNCT	_	_	13	punct	_	SpaceAfter=No

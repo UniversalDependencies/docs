@@ -23,5 +23,5 @@ The most frequent other feature values with which `PRON` and `Polite` co-occurre
 `PRON` tokens may have the following values of `Polite`:
 
 * `Form` (143; 100% of non-empty `Polite`): <em>însul, svinția, măriei, înșii, Măriia, dumitale, dumneavoastră, mării, svințiile, -ți</em>
-* `EMPTY` (64485): <em>să, ce, lui, el, -i, -l, s-, lor, ei, carele</em>
+* `EMPTY` (64484): <em>să, ce, lui, el, -i, -l, s-, lor, ei, carele</em>
 

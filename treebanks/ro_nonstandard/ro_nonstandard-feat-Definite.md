@@ -9,21 +9,21 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Def`, `Ind`.
 
-134887 tokens (24%) have a non-empty value of `Definite`.
+134886 tokens (24%) have a non-empty value of `Definite`.
 21212 types (67%) occur at least once with a non-empty value of `Definite`.
 9344 lemmas (76%) occur at least once with a non-empty value of `Definite`.
-The feature is used with 6 part-of-speech tags: <tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt> (96782; 17% instances), <tt><a href="ro_nonstandard-pos-PROPN.html">PROPN</a></tt> (19968; 3% instances), <tt><a href="ro_nonstandard-pos-ADJ.html">ADJ</a></tt> (11426; 2% instances), <tt><a href="ro_nonstandard-pos-DET.html">DET</a></tt> (3246; 1% instances), <tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (2607; 0% instances), <tt><a href="ro_nonstandard-pos-NUM.html">NUM</a></tt> (858; 0% instances).
+The feature is used with 6 part-of-speech tags: <tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt> (96781; 17% instances), <tt><a href="ro_nonstandard-pos-PROPN.html">PROPN</a></tt> (19968; 3% instances), <tt><a href="ro_nonstandard-pos-ADJ.html">ADJ</a></tt> (11426; 2% instances), <tt><a href="ro_nonstandard-pos-DET.html">DET</a></tt> (3246; 1% instances), <tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (2607; 0% instances), <tt><a href="ro_nonstandard-pos-NUM.html">NUM</a></tt> (858; 0% instances).
 
 ### `NOUN`
 
-96782 <tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Definite`.
+96781 <tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `NOUN` and `Definite` co-occurred: <tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=Acc,Nom</tt> (87450; 90%), <tt><a href="ro_nonstandard-feat-Number.html">Number</a></tt><tt>=Sing</tt> (71135; 74%), <tt><a href="ro_nonstandard-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (49597; 51%).
+The most frequent other feature values with which `NOUN` and `Definite` co-occurred: <tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=Acc,Nom</tt> (87449; 90%), <tt><a href="ro_nonstandard-feat-Number.html">Number</a></tt><tt>=Sing</tt> (71134; 73%), <tt><a href="ro_nonstandard-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (49597; 51%).
 
 `NOUN` tokens may have the following values of `Definite`:
 
 * `Def` (44543; 46% of non-empty `Definite`): <em>domnul, țara, omul, domnului, cuvîntul, împăratul, turcii, oamenii, numele, fiiul</em>
-* `Ind` (52239; 54% of non-empty `Definite`): <em>vodă, doamne, țară, om, oaste, lume, oameni, pace, parte, bani</em>
+* `Ind` (52238; 54% of non-empty `Definite`): <em>vodă, doamne, țară, om, oaste, lume, oameni, pace, parte, bani</em>
 * `EMPTY` (1): <em>neamure</em>
 
 <table>
@@ -102,7 +102,7 @@ The most frequent other feature values with which `PRON` and `Definite` co-occur
 `PRON` tokens may have the following values of `Definite`:
 
 * `Def` (2607; 100% of non-empty `Definite`): <em>carele, carii, carea, unii, totul, alții, toții, unul, toțîi, alțîi</em>
-* `EMPTY` (62021): <em>să, ce, lui, el, -i, -l, s-, lor, ei, le</em>
+* `EMPTY` (62020): <em>să, ce, lui, el, -i, -l, s-, lor, ei, le</em>
 
 `Definite` seems to be **lexical feature** of `PRON`. 100% lemmas (10) occur only with one value of `Definite`.
 
@@ -116,7 +116,7 @@ The most frequent other feature values with which `NUM` and `Definite` co-occurr
 
 * `Def` (133; 16% of non-empty `Definite`): <em>doilea, treile, doa, treilea, doile, triile, întîia, întîiul, patrulea, un</em>
 * `Ind` (725; 84% of non-empty `Definite`): <em>mii, doao, mie, sute, doo, sută, un, giumătate, întîi, întăi</em>
-* `EMPTY` (4315): <em>trei, doi, 2, cinci, patru, 3, întîiu, treia, 4, 7</em>
+* `EMPTY` (4314): <em>trei, doi, 2, cinci, patru, 3, întîiu, treia, 4, 7</em>
 
 <table>
   <tr><th>Paradigm <i>doi</i></th><th><tt>Ind</tt></th><th><tt>Def</tt></th></tr>
@@ -131,11 +131,11 @@ The most frequent other feature values with which `NUM` and `Definite` co-occurr
 ## Relations with Agreement in `Definite`
 
 The 10 most frequent relations where parent and child node agree in `Definite`:
-<tt>NOUN --[<tt><a href="ro_nonstandard-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (8673; 75%),
+<tt>NOUN --[<tt><a href="ro_nonstandard-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (8747; 75%),
 <tt>NOUN --[<tt><a href="ro_nonstandard-dep-conj.html">conj</a></tt>]--> NOUN</tt> (5774; 85%),
 <tt>NOUN --[<tt><a href="ro_nonstandard-dep-amod.html">amod</a></tt>]--> ADJ</tt> (4401; 58%),
-<tt>PROPN --[<tt><a href="ro_nonstandard-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1931; 64%),
-<tt>NOUN --[<tt><a href="ro_nonstandard-dep-appos.html">appos</a></tt>]--> NOUN</tt> (769; 73%),
+<tt>PROPN --[<tt><a href="ro_nonstandard-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1933; 64%),
+<tt>NOUN --[<tt><a href="ro_nonstandard-dep-appos.html">appos</a></tt>]--> NOUN</tt> (770; 73%),
 <tt>PROPN --[<tt><a href="ro_nonstandard-dep-conj.html">conj</a></tt>]--> PROPN</tt> (751; 75%),
 <tt>PROPN --[<tt><a href="ro_nonstandard-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (708; 66%),
 <tt>ADJ --[<tt><a href="ro_nonstandard-dep-conj.html">conj</a></tt>]--> ADJ</tt> (640; 99%),

@@ -245,4 +245,4 @@ The usual pattern is `(ADP|PART)? NOUN CCONJ` but there are others.
 | _an uair_, _'n uair_ | when | PART NOUN | SCONJ ||
 | _aon uair 's_ | when | NUM NOUN CCONJ | SCONJ ||
 
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:54 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:08 CEST -->

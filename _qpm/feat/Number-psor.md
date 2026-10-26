@@ -24,4 +24,4 @@ The `Number[psor]` feature captures the possessor's number.
 * _<b>nášoso</b> kúče_ "our own dog" [lit: the our dog] `Number[psor]=Plur|Number=Sing`
 * _<b>nášyse</b> kúčeta_ "our own dogs" [lit: the our dogs] "`Number[psor]=Plur|Number=Plur`
 
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:53 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:06 CEST -->

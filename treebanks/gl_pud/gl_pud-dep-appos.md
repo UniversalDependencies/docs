@@ -47,7 +47,7 @@ The following 19 pairs of parts of speech are connected with `appos`: <tt><a hre
 # visual-style 7 10 appos	color:blue
 1	E	e	CCONJ	CC	_	6	discourse	_	SpaceAfter=No
 2	,	,	PUNCT	Fc	_	3	punct	_	_
-3	por	por	ADP	SP	AdpType=Prep	6	discourse	_	_
+3	por	por	ADP	SP	AdpType=Prep|ExtPos=ADV	6	discourse	_	_
 4	suposto	suposto	NOUN	NCMS000	Gender=Masc|Number=Sing	3	fixed	_	SpaceAfter=No
 5	,	,	PUNCT	Fc	_	3	punct	_	_
 6	está	estar	VERB	VMIP3S0	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_

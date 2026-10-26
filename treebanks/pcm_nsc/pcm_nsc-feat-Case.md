@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Acc`, `Gen`, `Nom`.
 
-14747 tokens (10%) have a non-empty value of `Case`.
-67 types (1%) occur at least once with a non-empty value of `Case`.
-40 lemmas (1%) occur at least once with a non-empty value of `Case`.
-The feature is used with 7 part-of-speech tags: <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> (14725; 10% instances), <tt><a href="pcm_nsc-pos-X.html">X</a></tt> (6; 0% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (5; 0% instances), <tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt> (5; 0% instances), <tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+14742 tokens (10%) have a non-empty value of `Case`.
+62 types (1%) occur at least once with a non-empty value of `Case`.
+35 lemmas (1%) occur at least once with a non-empty value of `Case`.
+The feature is used with 7 part-of-speech tags: <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> (14725; 10% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (5; 0% instances), <tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt> (5; 0% instances), <tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-X.html">X</a></tt> (1; 0% instances).
 
 ### `PRON`
 
@@ -24,21 +24,12 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 
 * `Acc` (2840; 19% of non-empty `Case`): <em>am, me, dem, us, una, her, yourself, mysef, oursef, yoursef</em>
 * `Nom` (11885; 81% of non-empty `Case`): <em>I, you, e, we, de, im, dem, me, she, una</em>
-* `EMPTY` (3636): <em>my, your, wetin, dat, our, deir, dis, everybody, all, her</em>
+* `EMPTY` (3641): <em>my, your, wetin, dat, our, deir, dis, everybody, all, her</em>
 
 <table>
   <tr><th>Paradigm <i>you</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th></tr>
   <tr><td><tt></tt></td><td><em>you</em></td><td><em>you</em></td></tr>
 </table>
-
-### `X`
-
-6 <tt><a href="pcm_nsc-pos-X.html">X</a></tt> tokens (0% of all `X` tokens) have a non-empty value of `Case`.
-
-`X` tokens may have the following values of `Case`:
-
-* `Nom` (6; 100% of non-empty `Case`): <em>>+, [, de, {, ||, }</em>
-* `EMPTY` (40240): <em>#, //, <, {, }, [, |c, ||, ], >+</em>
 
 ### `NOUN`
 
@@ -69,7 +60,7 @@ The most frequent other feature values with which `AUX` and `Case` co-occurred: 
 `AUX` tokens may have the following values of `Case`:
 
 * `Nom` (4; 100% of non-empty `Case`): <em>'m, Don, be</em>
-* `EMPTY` (13720): <em>dey, go, na, no, con, don, be, make, fit, come</em>
+* `EMPTY` (13717): <em>dey, go, na, no, con, don, be, make, fit, come</em>
 
 ### `PART`
 
@@ -90,6 +81,15 @@ The most frequent other feature values with which `PART` and `Case` co-occurred:
 
 * `Nom` (1; 100% of non-empty `Case`): <em>sey</em>
 * `EMPTY` (4929): <em>sey, wey, if, because, make, so, dat, wen, meh, take</em>
+
+### `X`
+
+1 <tt><a href="pcm_nsc-pos-X.html">X</a></tt> tokens (0% of all `X` tokens) have a non-empty value of `Case`.
+
+`X` tokens may have the following values of `Case`:
+
+* `Nom` (1; 100% of non-empty `Case`): <em>de</em>
+* `EMPTY` (543): <em>X, s~, f~, d~, ma, wo~, b~, a~, be~, co~</em>
 
 ## Relations with Agreement in `Case`
 

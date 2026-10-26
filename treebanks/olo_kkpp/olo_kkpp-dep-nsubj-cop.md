@@ -65,7 +65,7 @@ The following 8 pairs of parts of speech are connected with `nsubj:cop`: <tt><a 
 3	kirjaine	kirjaine	NOUN	NOUN	Case=Acc|Number=Sing	0	root	_	_
 4	Peteras	Peter	PROPN	PROPN	Case=Ela|Number=Sing	3	obl	_	_
 5	da	da	CCONJ	CCONJ	_	6	cc	_	_
-6	se	se	PRON	PRON	Case=Nom|Number=Sing	7	nsubj	_	_
+6	se	se	PRON	PRON	Case=Nom|Number=Sing|PronType=Dem	7	nsubj	_	_
 7	tuodih	tuvva	VERB	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	_
 8	egläi	egläi	ADV	ADV	_	7	advmod	_	SpaceAfter=No|PronType=Temp
 9	.	.	PUNCT	PUNCT	_	3	punct	_	_

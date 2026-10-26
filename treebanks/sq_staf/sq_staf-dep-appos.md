@@ -51,7 +51,7 @@ The following 6 pairs of parts of speech are connected with `appos`: <tt><a href
 4	Berti	Berti	PROPN	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	3	appos	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	3	punct	_	_
 6	pasi	pasi	SCONJ	_	_	7	mark	_	_
-7	gjerbi	gjerb	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	22	advcl	_	_
+7	gjerbi	gjerb	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	22	advcl	_	_
 8	edhe	edhe	ADV	_	_	9	advmod	_	_
 9	gllënjkën	gllënjkë	NOUN	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	7	obj	_	_
 10	e	e	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Art	11	det:adj	_	_
@@ -59,20 +59,20 @@ The following 6 pairs of parts of speech are connected with `appos`: <tt><a href
 12	të	të	DET	_	Gender=Fem|Number=Sing	13	det	_	_
 13	verës	verë	NOUN	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	9	nmod:poss	_	_
 14	dhe	dhe	CCONJ	_	_	15	cc	_	_
-15	uli	ul	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	7	conj	_	_
+15	uli	ul	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	7	conj	_	_
 16	gotën	gotë	NOUN	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	15	obj	_	_
 17	e	e	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Art	18	det:adj	_	_
 18	qelqtë	qelqtë	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	16	amod	_	_
 19	mbi	mbi	ADP	_	_	20	case	_	_
 20	tryezë	tryezë	NOUN	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	15	obl	_	SpaceAfter=No
 21	,	,	PUNCT	_	_	7	punct	_	_
-22	tha	them	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
+22	tha	them	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 23	se	se	SCONJ	_	_	30	mark	_	SpaceAfter=No
 24	,	,	PUNCT	_	_	23	punct	_	_
 25	tekefundit	tekefundit	ADV	_	_	30	advmod	_	SpaceAfter=No
 26	,	,	PUNCT	_	_	25	punct	_	_
 27	nuk	nuk	PART	_	_	30	advmod	_	_
-28	ishte	jam	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	30	cop	_	_
+28	ishte	jam	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	30	cop	_	_
 29	një	një	DET	_	_	30	det	_	_
 30	ide	ide	NOUN	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	22	ccomp	_	_
 31	e	e	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Art	32	det:adj	_	_
@@ -82,12 +82,12 @@ The following 6 pairs of parts of speech are connected with `appos`: <tt><a href
 35	nuk	nuk	PART	_	_	38	advmod	_	_
 36	do	do	PART	_	_	38	mark	_	_
 37	u	u	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	38	iobj	_	_
-38	kushtonte	kushtoj	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	30	conj	_	_
+38	kushtonte	kushtoj	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	30	conj	_	_
 39	asgjë	asgjë	PRON	_	PronType=Ind	38	obj	_	SpaceAfter=No
 40	,	,	PUNCT	_	_	38	punct	_	_
 41	nëse	nëse	SCONJ	_	_	43	mark	_	_
 42	e	e	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	43	obj	_	_
-43	mbanin	mbaj	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	38	advcl	_	_
+43	mbanin	mbaj	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	38	advcl	_	_
 44	parasysh	parasysh	ADV	_	_	43	advmod	_	_
 45	si	si	ADP	_	_	47	case	_	_
 46	një	një	DET	_	_	47	det	_	_
@@ -104,7 +104,7 @@ The following 6 pairs of parts of speech are connected with `appos`: <tt><a href
 # visual-style 5	fgColor:white
 # visual-style 5 6 appos	color:blue
 1	Siç	siç	SCONJ	_	_	2	mark	_	end_char=573|start_char=570
-2	bante	ban	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	end_char=579|start_char=574
+2	bante	ban	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	end_char=579|start_char=574
 3	dikur	dikoj	ADV	_	AdvType=Tim	2	advmod	_	end_char=585|start_char=580
 4	i	i	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	5	det:adj	_	end_char=587|start_char=586
 5	urti	urt	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	end_char=592|start_char=588

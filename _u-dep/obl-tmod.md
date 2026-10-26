@@ -7,6 +7,9 @@ udver: '2'
 
 A temporal modifier is a subtype of the [obl]() relation: if the modifier is specifying a time, it is labeled as `tmod`.
 
+**⚠️ Beginning with the version 2.15 release, most English corpora use the new [obl:unmarked]() relation instead.
+So the examples below do not reflect current practice for English. ⚠️**
+
 ~~~ sdparse
 Last night , I swam in the pool
 obl:tmod(swam, night)
@@ -17,4 +20,4 @@ You need to turn in your homework by next week
 obl:tmod(turn, week)
 ~~~
 
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:11:22 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:37 CEST -->

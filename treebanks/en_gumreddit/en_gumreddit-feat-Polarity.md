@@ -25,13 +25,13 @@ The feature is used with 4 part-of-speech tags: <tt><a href="en_gumreddit-pos-PA
 
 ### `INTJ`
 
-18 <tt><a href="en_gumreddit-pos-INTJ.html">INTJ</a></tt> tokens (31% of all `INTJ` tokens) have a non-empty value of `Polarity`.
+18 <tt><a href="en_gumreddit-pos-INTJ.html">INTJ</a></tt> tokens (30% of all `INTJ` tokens) have a non-empty value of `Polarity`.
 
 `INTJ` tokens may have the following values of `Polarity`:
 
 * `Neg` (9; 50% of non-empty `Polarity`): <em>_</em>
 * `Pos` (9; 50% of non-empty `Polarity`): <em>_</em>
-* `EMPTY` (41): <em>_</em>
+* `EMPTY` (42): <em>_</em>
 
 ### `ADV`
 
@@ -42,7 +42,7 @@ The most frequent other feature values with which `ADV` and `Polarity` co-occurr
 `ADV` tokens may have the following values of `Polarity`:
 
 * `Neg` (3; 100% of non-empty `Polarity`): <em>_</em>
-* `EMPTY` (1104): <em>_</em>
+* `EMPTY` (1102): <em>_</em>
 
 ### `CCONJ`
 
@@ -51,5 +51,5 @@ The most frequent other feature values with which `ADV` and `Polarity` co-occurr
 `CCONJ` tokens may have the following values of `Polarity`:
 
 * `Neg` (2; 100% of non-empty `Polarity`): <em>_</em>
-* `EMPTY` (519): <em>_</em>
+* `EMPTY` (520): <em>_</em>
 

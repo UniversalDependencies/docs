@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Finnish-OOD: POS Tags: `X`
 
-There are 63 `X` lemmas (1%), 65 `X` types (1%) and 89 `X` tokens (0%).
+There are 64 `X` lemmas (1%), 66 `X` types (1%) and 90 `X` tokens (0%).
 Out of 15 observed tags, the rank of `X` is: 9 in number of lemmas, 11 in number of types and 14 in number of tokens.
 
 The 10 most frequent `X` lemmas: <em>LIST, All, Inclusive, _, author, baimbai, quote, time, #cmoref1, #nature</em>
 
 The 10 most frequent `X` types:  <em>LIST, All, Inclusive, author, baimbai, quote, time, #cmoref1, #nature, Nix</em>
 
-The 10 most frequent ambiguous lemmas: <em>rausim</em> (<tt><a href="fi_ood-pos-VERB.html">VERB</a></tt> 1, <tt><a href="fi_ood-pos-X.html">X</a></tt> 1)
+The 10 most frequent ambiguous lemmas: 
 
 The 10 most frequent ambiguous types:  <em>on</em> (<tt><a href="fi_ood-pos-AUX.html">AUX</a></tt> 277, <tt><a href="fi_ood-pos-VERB.html">VERB</a></tt> 1, <tt><a href="fi_ood-pos-X.html">X</a></tt> 1)
 
@@ -25,7 +25,7 @@ The 10 most frequent ambiguous types:  <em>on</em> (<tt><a href="fi_ood-pos-AUX.
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.031746 (the average of all parts of speech is 1.566190).
+The form / lemma ratio of `X` is 1.031250 (the average of all parts of speech is 1.565977).
 
 The 1st highest number of forms (3) was observed with the lemma “_”: <em>pap, stä, ’n</em>.
 
@@ -33,32 +33,32 @@ The 2nd highest number of forms (1) was observed with the lemma “#CmoreF1”: 
 
 The 3rd highest number of forms (1) was observed with the lemma “#ESLOneCologne”: <em>#ESLOneCologne</em>.
 
-`X` occurs with 3 features: <tt><a href="fi_ood-feat-Foreign.html">Foreign</a></tt> (67; 75% instances), <tt><a href="fi_ood-feat-Case.html">Case</a></tt> (4; 4% instances), <tt><a href="fi_ood-feat-Number.html">Number</a></tt> (4; 4% instances)
+`X` occurs with 3 features: <tt><a href="fi_ood-feat-Foreign.html">Foreign</a></tt> (70; 78% instances), <tt><a href="fi_ood-feat-Case.html">Case</a></tt> (1; 1% instances), <tt><a href="fi_ood-feat-Number.html">Number</a></tt> (1; 1% instances)
 
 `X` occurs with 3 feature-value pairs: `Case=Nom`, `Foreign=Yes`, `Number=Sing`
 
 `X` occurs with 3 feature combinations.
-The most frequent feature combination is `Foreign=Yes` (67 tokens).
+The most frequent feature combination is `Foreign=Yes` (70 tokens).
 Examples: <em>LIST, All, Inclusive, author, baimbai, quote, time, #nature, Nix, pekato</em>
 
 
 ## Relations
 
-`X` nodes are attached to their parents using 12 different relations: <tt><a href="fi_ood-dep-flat-foreign.html">flat:foreign</a></tt> (28; 31% instances), <tt><a href="fi_ood-dep-discourse.html">discourse</a></tt> (24; 27% instances), <tt><a href="fi_ood-dep-root.html">root</a></tt> (19; 21% instances), <tt><a href="fi_ood-dep-compound-nn.html">compound:nn</a></tt> (5; 6% instances), <tt><a href="fi_ood-dep-goeswith.html">goeswith</a></tt> (3; 3% instances), <tt><a href="fi_ood-dep-nsubj.html">nsubj</a></tt> (2; 2% instances), <tt><a href="fi_ood-dep-obl.html">obl</a></tt> (2; 2% instances), <tt><a href="fi_ood-dep-parataxis.html">parataxis</a></tt> (2; 2% instances), <tt><a href="fi_ood-dep-appos.html">appos</a></tt> (1; 1% instances), <tt><a href="fi_ood-dep-conj.html">conj</a></tt> (1; 1% instances), <tt><a href="fi_ood-dep-dep.html">dep</a></tt> (1; 1% instances), <tt><a href="fi_ood-dep-flat-name.html">flat:name</a></tt> (1; 1% instances)
+`X` nodes are attached to their parents using 11 different relations: <tt><a href="fi_ood-dep-flat-foreign.html">flat:foreign</a></tt> (29; 32% instances), <tt><a href="fi_ood-dep-discourse.html">discourse</a></tt> (24; 27% instances), <tt><a href="fi_ood-dep-root.html">root</a></tt> (19; 21% instances), <tt><a href="fi_ood-dep-compound.html">compound</a></tt> (5; 6% instances), <tt><a href="fi_ood-dep-goeswith.html">goeswith</a></tt> (3; 3% instances), <tt><a href="fi_ood-dep-obl.html">obl</a></tt> (3; 3% instances), <tt><a href="fi_ood-dep-nsubj.html">nsubj</a></tt> (2; 2% instances), <tt><a href="fi_ood-dep-parataxis.html">parataxis</a></tt> (2; 2% instances), <tt><a href="fi_ood-dep-appos.html">appos</a></tt> (1; 1% instances), <tt><a href="fi_ood-dep-conj.html">conj</a></tt> (1; 1% instances), <tt><a href="fi_ood-dep-dep.html">dep</a></tt> (1; 1% instances)
 
-Parents of `X` nodes belong to 9 different parts of speech: <tt><a href="fi_ood-pos-X.html">X</a></tt> (29; 33% instances),  (19; 21% instances), <tt><a href="fi_ood-pos-NOUN.html">NOUN</a></tt> (15; 17% instances), <tt><a href="fi_ood-pos-VERB.html">VERB</a></tt> (13; 15% instances), <tt><a href="fi_ood-pos-PROPN.html">PROPN</a></tt> (8; 9% instances), <tt><a href="fi_ood-pos-NUM.html">NUM</a></tt> (2; 2% instances), <tt><a href="fi_ood-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="fi_ood-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="fi_ood-pos-PRON.html">PRON</a></tt> (1; 1% instances)
+Parents of `X` nodes belong to 9 different parts of speech: <tt><a href="fi_ood-pos-X.html">X</a></tt> (30; 33% instances),  (19; 21% instances), <tt><a href="fi_ood-pos-NOUN.html">NOUN</a></tt> (15; 17% instances), <tt><a href="fi_ood-pos-VERB.html">VERB</a></tt> (13; 14% instances), <tt><a href="fi_ood-pos-PROPN.html">PROPN</a></tt> (8; 9% instances), <tt><a href="fi_ood-pos-NUM.html">NUM</a></tt> (2; 2% instances), <tt><a href="fi_ood-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="fi_ood-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="fi_ood-pos-PRON.html">PRON</a></tt> (1; 1% instances)
 
-68 (76%) `X` nodes are leaves.
+69 (77%) `X` nodes are leaves.
 
-9 (10%) `X` nodes have one child.
+8 (9%) `X` nodes have one child.
 
-4 (4%) `X` nodes have two children.
+5 (6%) `X` nodes have two children.
 
 8 (9%) `X` nodes have three or more children.
 
 The highest child degree of a `X` node is 12.
 
-Children of `X` nodes are attached using 12 different relations: <tt><a href="fi_ood-dep-flat-foreign.html">flat:foreign</a></tt> (33; 41% instances), <tt><a href="fi_ood-dep-punct.html">punct</a></tt> (28; 35% instances), <tt><a href="fi_ood-dep-obl.html">obl</a></tt> (6; 7% instances), <tt><a href="fi_ood-dep-discourse.html">discourse</a></tt> (4; 5% instances), <tt><a href="fi_ood-dep-cop.html">cop</a></tt> (2; 2% instances), <tt><a href="fi_ood-dep-nsubj-cop.html">nsubj:cop</a></tt> (2; 2% instances), <tt><a href="fi_ood-dep-advmod.html">advmod</a></tt> (1; 1% instances), <tt><a href="fi_ood-dep-cc.html">cc</a></tt> (1; 1% instances), <tt><a href="fi_ood-dep-conj.html">conj</a></tt> (1; 1% instances), <tt><a href="fi_ood-dep-flat-name.html">flat:name</a></tt> (1; 1% instances), <tt><a href="fi_ood-dep-parataxis.html">parataxis</a></tt> (1; 1% instances), <tt><a href="fi_ood-dep-vocative.html">vocative</a></tt> (1; 1% instances)
+Children of `X` nodes are attached using 13 different relations: <tt><a href="fi_ood-dep-flat-foreign.html">flat:foreign</a></tt> (29; 35% instances), <tt><a href="fi_ood-dep-punct.html">punct</a></tt> (28; 34% instances), <tt><a href="fi_ood-dep-obl.html">obl</a></tt> (9; 11% instances), <tt><a href="fi_ood-dep-discourse.html">discourse</a></tt> (4; 5% instances), <tt><a href="fi_ood-dep-cop.html">cop</a></tt> (2; 2% instances), <tt><a href="fi_ood-dep-nsubj-cop.html">nsubj:cop</a></tt> (2; 2% instances), <tt><a href="fi_ood-dep-nummod.html">nummod</a></tt> (2; 2% instances), <tt><a href="fi_ood-dep-advmod.html">advmod</a></tt> (1; 1% instances), <tt><a href="fi_ood-dep-cc.html">cc</a></tt> (1; 1% instances), <tt><a href="fi_ood-dep-conj.html">conj</a></tt> (1; 1% instances), <tt><a href="fi_ood-dep-nmod.html">nmod</a></tt> (1; 1% instances), <tt><a href="fi_ood-dep-parataxis.html">parataxis</a></tt> (1; 1% instances), <tt><a href="fi_ood-dep-vocative.html">vocative</a></tt> (1; 1% instances)
 
-Children of `X` nodes belong to 11 different parts of speech: <tt><a href="fi_ood-pos-X.html">X</a></tt> (29; 36% instances), <tt><a href="fi_ood-pos-PUNCT.html">PUNCT</a></tt> (28; 35% instances), <tt><a href="fi_ood-pos-NOUN.html">NOUN</a></tt> (6; 7% instances), <tt><a href="fi_ood-pos-NUM.html">NUM</a></tt> (6; 7% instances), <tt><a href="fi_ood-pos-SYM.html">SYM</a></tt> (4; 5% instances), <tt><a href="fi_ood-pos-AUX.html">AUX</a></tt> (2; 2% instances), <tt><a href="fi_ood-pos-INTJ.html">INTJ</a></tt> (2; 2% instances), <tt><a href="fi_ood-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="fi_ood-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="fi_ood-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="fi_ood-pos-PROPN.html">PROPN</a></tt> (1; 1% instances)
+Children of `X` nodes belong to 11 different parts of speech: <tt><a href="fi_ood-pos-X.html">X</a></tt> (30; 37% instances), <tt><a href="fi_ood-pos-PUNCT.html">PUNCT</a></tt> (28; 34% instances), <tt><a href="fi_ood-pos-NOUN.html">NOUN</a></tt> (6; 7% instances), <tt><a href="fi_ood-pos-NUM.html">NUM</a></tt> (6; 7% instances), <tt><a href="fi_ood-pos-SYM.html">SYM</a></tt> (4; 5% instances), <tt><a href="fi_ood-pos-AUX.html">AUX</a></tt> (2; 2% instances), <tt><a href="fi_ood-pos-INTJ.html">INTJ</a></tt> (2; 2% instances), <tt><a href="fi_ood-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="fi_ood-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="fi_ood-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="fi_ood-pos-PROPN.html">PROPN</a></tt> (1; 1% instances)
 

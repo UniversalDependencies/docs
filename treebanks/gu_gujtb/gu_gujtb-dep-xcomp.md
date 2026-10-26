@@ -22,17 +22,17 @@ The following 2 pairs of parts of speech are connected with `xcomp`: <tt><a href
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 8 xcomp	color:blue
-1	સ્ટાફ	સ્ટાફ	NOUN	_	_	2	nsubj	_	_
-2	મૈત્રીપૂર્ણ	મૈત્રીપૂર્ણ	NOUN	_	_	0	root	_	_
-3	અને	અને	CCONJ	_	_	9	cc	_	_
-4	હંમેશા	હંમેશા	ADV	_	_	8	advmod	_	_
-5	મહેમાનો	મહેમાનો	NOUN	_	_	8	obl	_	_
-6	માટે	માટે	ADP	_	_	5	case	_	_
-7	મદદ	મદદ	NOUN	_	_	8	compound:lvc	_	_
-8	કરવા	કરવા	VERB	_	_	9	xcomp	_	_
-9	તૈયાર	તૈયાર	ADJ	_	_	2	conj	_	_
-10	છે	છે	AUX	_	_	2	cop	_	SpaceAfter=No
-11	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
+1	સ્ટાફ	સ્ટાફ	NOUN	_	_	2	nsubj	_	LTranslit=sṭāpha|Translit=sṭāpha
+2	મૈત્રીપૂર્ણ	મૈત્રીપૂર્ણ	NOUN	_	_	0	root	_	LTranslit=maitrīpūrṇa|Translit=maitrīpūrṇa
+3	અને	અને	CCONJ	_	_	9	cc	_	LTranslit=ane|Translit=ane
+4	હંમેશા	હંમેશા	ADV	_	_	8	advmod	_	LTranslit=haṁmeśā|Translit=haṁmeśā
+5	મહેમાનો	મહેમાનો	NOUN	_	_	8	obl	_	LTranslit=mahemāno|Translit=mahemāno
+6	માટે	માટે	ADP	_	_	5	case	_	LTranslit=māṭe|Translit=māṭe
+7	મદદ	મદદ	NOUN	_	_	8	compound:lvc	_	LTranslit=madada|Translit=madada
+8	કરવા	કરવા	VERB	_	_	9	xcomp	_	LTranslit=karavā|Translit=karavā
+9	તૈયાર	તૈયાર	ADJ	_	_	2	conj	_	LTranslit=taiyāra|Translit=taiyāra
+10	છે	છે	AUX	_	_	2	cop	_	LTranslit=che|SpaceAfter=No|Translit=che
+11	.	.	PUNCT	_	_	2	punct	_	LTranslit=.|SpaceAfter=No|Translit=.
 
 ~~~
 
@@ -43,21 +43,21 @@ The following 2 pairs of parts of speech are connected with `xcomp`: <tt><a href
 # visual-style 14	bgColor:blue
 # visual-style 14	fgColor:white
 # visual-style 14 11 xcomp	color:blue
-1	પારિવારિક	પારિવારિક	ADJ	_	_	2	amod	_	_
-2	સદસ્યો	સદસ્ય	NOUN	_	Number=Plur	6	obl	_	_
-3	ના	ના	ADP	_	_	2	case	_	_
-4	સાથે	સાથે	ADP	_	_	3	fixed	_	_
-5	મતભેદ	મતભેદ	NOUN	_	_	6	obj	_	_
-6	થઇ	થઇ	VERB	_	_	0	root	_	_
-7	શકે	શકવું	AUX	_	_	6	aux	_	_
-8	છે	છે	AUX	_	_	6	aux	_	_
-9	ઝગડા	ઝગડાથી	NOUN	_	Typo=Yes	11	obl	_	_
-10	થી	_	X	_	_	9	goeswith	_	_
-11	_	બચવા	VERB	_	_	14	xcomp	_	_
-12	_	નો	ADP	_	_	11	case	_	_
-13	પ્રયાસ	પ્રયાસ	NOUN	_	_	14	compound:lvc	_	_
-14	કરો	કરો	VERB	_	_	6	parataxis	_	SpaceAfter=No
-15	.	.	PUNCT	_	_	6	punct	_	SpaceAfter=No
+1	પારિવારિક	પારિવારિક	ADJ	_	_	2	amod	_	LTranslit=pārivārika|Translit=pārivārika
+2	સદસ્યો	સદસ્ય	NOUN	_	_	6	obl	_	LTranslit=sadasya|Translit=sadasyo
+3	ના	ના	ADP	_	ExtPos=ADP	2	case	_	LTranslit=nā|Translit=nā
+4	સાથે	સાથે	ADP	_	_	3	fixed	_	LTranslit=sāthe|Translit=sāthe
+5	મતભેદ	મતભેદ	NOUN	_	_	6	obj	_	LTranslit=matabheda|Translit=matabheda
+6	થઇ	થઇ	VERB	_	_	0	root	_	LTranslit=thai|Translit=thai
+7	શકે	શકવું	AUX	_	_	6	aux	_	LTranslit=śakavuṁ|Translit=śake
+8	છે	છે	AUX	_	_	6	aux	_	LTranslit=che|Translit=che
+9	ઝગડા	ઝગડાથી	NOUN	_	Typo=Yes	11	obl	_	LTranslit=jhagaḍāthī|Translit=jhagaḍā
+10	થી	_	X	_	_	9	goeswith	_	Translit=thī
+11	_	બચવા	VERB	_	_	14	xcomp	_	LTranslit=bacavā
+12	_	નો	ADP	_	_	11	case	_	LTranslit=no
+13	પ્રયાસ	પ્રયાસ	NOUN	_	_	14	compound:lvc	_	LTranslit=prayāsa|Translit=prayāsa
+14	કરો	કરો	VERB	_	_	6	parataxis	_	LTranslit=karo|SpaceAfter=No|Translit=karo
+15	.	.	PUNCT	_	_	6	punct	_	LTranslit=.|SpaceAfter=No|Translit=.
 
 ~~~
 

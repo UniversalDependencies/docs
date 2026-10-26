@@ -11,7 +11,7 @@ It occurs with 1 different values: `Yes`.
 
 21 tokens (0%) have a non-empty value of `Foreign`.
 15 types (0%) occur at least once with a non-empty value of `Foreign`.
-15 lemmas (1%) occur at least once with a non-empty value of `Foreign`.
+15 lemmas (0%) occur at least once with a non-empty value of `Foreign`.
 The feature is used with 1 part-of-speech tags: <tt><a href="xcl_caval-pos-X.html">X</a></tt> (21; 0% instances).
 
 ### `X`

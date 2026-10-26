@@ -42,7 +42,7 @@ The 10 most frequent ambiguous types:  <em>гү</em> (<tt><a href="bxr_bdt-pos-P
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.333333 (the average of all parts of speech is 1.638355).
+The form / lemma ratio of `PART` is 1.333333 (the average of all parts of speech is 1.638739).
 
 The 1st highest number of forms (7) was observed with the lemma “_”: <em>hаа, hэм, hэн, бэлэй, гэжэ, гээбы, гээшэмнай</em>.
 

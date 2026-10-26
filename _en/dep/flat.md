@@ -7,6 +7,8 @@ udver: '2'
 
 Up-to-date guidelines for `flat`, including English examples, can be found under the [universal `flat` guidelines](/u/dep/flat).
 
+Further documentation for some corner cases is available with the English-specific guidelines for [nmod:desc]().
+
 <!--
 `flat` is one of the three relations for compounding in UD (together
 with [compound]() and [fixed]()).
@@ -83,4 +85,4 @@ San Francisco
 flat(San, Francisco)
 ~~~
 -->
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:55 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:09 CEST -->

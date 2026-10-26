@@ -11,21 +11,21 @@ It occurs with 2 different values: `Plur`, `Sing`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="gl_pud-feat-Number.html">Number</a></tt>, <tt><a href="gl_pud-feat-Number-psor.html">Number[psor]</a></tt>.
 
-10833 tokens (46%) have a non-empty value of `Number`.
+10832 tokens (46%) have a non-empty value of `Number`.
 3626 types (61%) occur at least once with a non-empty value of `Number`.
-2453 lemmas (55%) occur at least once with a non-empty value of `Number`.
-The feature is used with 8 part-of-speech tags: <tt><a href="gl_pud-pos-NOUN.html">NOUN</a></tt> (4537; 19% instances), <tt><a href="gl_pud-pos-DET.html">DET</a></tt> (3787; 16% instances), <tt><a href="gl_pud-pos-VERB.html">VERB</a></tt> (1747; 7% instances), <tt><a href="gl_pud-pos-AUX.html">AUX</a></tt> (423; 2% instances), <tt><a href="gl_pud-pos-PRON.html">PRON</a></tt> (281; 1% instances), <tt><a href="gl_pud-pos-ADJ.html">ADJ</a></tt> (53; 0% instances), <tt><a href="gl_pud-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="gl_pud-pos-NUM.html">NUM</a></tt> (2; 0% instances).
+2451 lemmas (55%) occur at least once with a non-empty value of `Number`.
+The feature is used with 8 part-of-speech tags: <tt><a href="gl_pud-pos-NOUN.html">NOUN</a></tt> (4538; 19% instances), <tt><a href="gl_pud-pos-DET.html">DET</a></tt> (3784; 16% instances), <tt><a href="gl_pud-pos-VERB.html">VERB</a></tt> (1748; 7% instances), <tt><a href="gl_pud-pos-AUX.html">AUX</a></tt> (423; 2% instances), <tt><a href="gl_pud-pos-PRON.html">PRON</a></tt> (281; 1% instances), <tt><a href="gl_pud-pos-ADJ.html">ADJ</a></tt> (53; 0% instances), <tt><a href="gl_pud-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="gl_pud-pos-NUM.html">NUM</a></tt> (2; 0% instances).
 
 ### `NOUN`
 
-4537 <tt><a href="gl_pud-pos-NOUN.html">NOUN</a></tt> tokens (99% of all `NOUN` tokens) have a non-empty value of `Number`.
+4538 <tt><a href="gl_pud-pos-NOUN.html">NOUN</a></tt> tokens (99% of all `NOUN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="gl_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (2442; 54%).
+The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="gl_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (2441; 54%).
 
 `NOUN` tokens may have the following values of `Number`:
 
-* `Plur` (1333; 29% of non-empty `Number`): <em>anos, persoas, millóns, estados, países, veces, eleccións, datos, dólares, empresas</em>
-* `Sing` (3204; 71% of non-empty `Number`): <em>lugar, ano, guerra, parte, estado, cidade, goberno, mar, día, mundo</em>
+* `Plur` (1332; 29% of non-empty `Number`): <em>anos, persoas, millóns, estados, países, veces, eleccións, datos, dólares, empresas</em>
+* `Sing` (3206; 71% of non-empty `Number`): <em>lugar, ano, guerra, parte, estado, cidade, goberno, mar, día, mundo</em>
 * `EMPTY` (38): <em>Estados, San, Punta, cápita, mil, Asociación, C, Cidade, Comúns, Escola</em>
 
 <table>
@@ -35,14 +35,14 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 
 ### `DET`
 
-3787 <tt><a href="gl_pud-pos-DET.html">DET</a></tt> tokens (99% of all `DET` tokens) have a non-empty value of `Number`.
+3784 <tt><a href="gl_pud-pos-DET.html">DET</a></tt> tokens (99% of all `DET` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="gl_pud-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (3431; 91%), <tt><a href="gl_pud-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (3116; 82%), <tt><a href="gl_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (2119; 56%).
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="gl_pud-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (3428; 91%), <tt><a href="gl_pud-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (3113; 82%), <tt><a href="gl_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (2119; 56%).
 
 `DET` tokens may have the following values of `Number`:
 
 * `Plur` (876; 23% of non-empty `Number`): <em>os, as, súas, seus, moitos, outros, varias, algúns, uns, estas</em>
-* `Sing` (2911; 77% of non-empty `Number`): <em>o, a, un, unha, súa, seu, este, esta, todo, mesmo</em>
+* `Sing` (2908; 77% of non-empty `Number`): <em>o, a, un, unha, súa, seu, este, esta, todo, mesmo</em>
 * `EMPTY` (31): <em>cada, calquera, que, o, a, quenquera</em>
 
 <table>
@@ -54,13 +54,13 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 
 ### `VERB`
 
-1747 <tt><a href="gl_pud-pos-VERB.html">VERB</a></tt> tokens (77% of all `VERB` tokens) have a non-empty value of `Number`.
+1748 <tt><a href="gl_pud-pos-VERB.html">VERB</a></tt> tokens (77% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="gl_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1503; 86%), <tt><a href="gl_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (1493; 85%), <tt><a href="gl_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (1377; 79%), <tt><a href="gl_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1374; 79%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="gl_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1504; 86%), <tt><a href="gl_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (1493; 85%), <tt><a href="gl_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (1377; 79%), <tt><a href="gl_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1375; 79%).
 
 `VERB` tokens may have the following values of `Number`:
 
-* `Plur` (499; 29% of non-empty `Number`): <em>teñen, inclúen, tiñan, acabaron, están, tiveron, adoitan, afirman, atopan, baseadas</em>
+* `Plur` (500; 29% of non-empty `Number`): <em>teñen, inclúen, tiñan, acabaron, están, tiveron, adoitan, afirman, atopan, baseadas</em>
 * `Sing` (1248; 71% of non-empty `Number`): <em>hai, dixo, ten, tivo, comezou, fixo, declarou, é, tiña, afirmou</em>
 * `EMPTY` (510): <em>facer, ver, ter, manter, axudar, deixar, enviar, establecer, partir, pensar</em>
 
@@ -119,7 +119,7 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 * `Plur` (73; 26% of non-empty `Number`): <em>eles, nos, lles, os, ambos, estes, outros, cales, moitas, que</em>
 * `Sing` (208; 74% of non-empty `Number`): <em>lle, o, el, un, a, ela, me, todo, unha, cal</em>
-* `EMPTY` (660): <em>se, que, isto, iso, quen, alguén, algo, o, nada, ninguén</em>
+* `EMPTY` (661): <em>se, que, isto, iso, quen, alguén, algo, o, nada, ninguén</em>
 
 <table>
   <tr><th>Paradigm <i>que</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -136,7 +136,7 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 * `Plur` (13; 25% of non-empty `Number`): <em>aqueménidas, autosómicos, centrais, confidenciais, conservacionistas, iézidis, legais, minoristas, novos, poboacionais</em>
 * `Sing` (40; 75% of non-empty `Number`): <em>gran, per, Buena, anterior, argumentativo, austro, bancaria, conservador, distinto, dixital</em>
-* `EMPTY` (1380): <em>gran, maior, Unidos, grandes, nacional, nova, novo, últimos, novos, longo</em>
+* `EMPTY` (1378): <em>gran, maior, Unidos, grandes, nacional, nova, novo, últimos, novos, longo</em>
 
 `Number` seems to be **lexical feature** of `ADJ`. 100% lemmas (51) occur only with one value of `Number`.
 
@@ -163,11 +163,11 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="gl_pud-dep-det.html">det</a></tt>]--> DET</tt> (3336; 98%),
-<tt>NOUN --[<tt><a href="gl_pud-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (751; 61%),
+<tt>NOUN --[<tt><a href="gl_pud-dep-det.html">det</a></tt>]--> DET</tt> (3338; 98%),
+<tt>NOUN --[<tt><a href="gl_pud-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (753; 61%),
 <tt>VERB --[<tt><a href="gl_pud-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (542; 89%),
 <tt>VERB --[<tt><a href="gl_pud-dep-obl.html">obl</a></tt>]--> NOUN</tt> (487; 50%),
-<tt>NOUN --[<tt><a href="gl_pud-dep-acl.html">acl</a></tt>]--> VERB</tt> (242; 69%),
+<tt>NOUN --[<tt><a href="gl_pud-dep-acl.html">acl</a></tt>]--> VERB</tt> (243; 69%),
 <tt>NOUN --[<tt><a href="gl_pud-dep-conj.html">conj</a></tt>]--> NOUN</tt> (195; 78%),
 <tt>VERB --[<tt><a href="gl_pud-dep-conj.html">conj</a></tt>]--> VERB</tt> (137; 81%),
 <tt>NOUN --[<tt><a href="gl_pud-dep-cop.html">cop</a></tt>]--> AUX</tt> (105; 80%),

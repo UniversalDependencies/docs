@@ -93,7 +93,7 @@ The following 2 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 3	nos	nos	PRON	p|p|1|p|-|-|-|m|n|-	Case=Nom|Number=Plur|Person=1|PronType=Prs	5	det	_	_
 4	supradictis	supradictus	ADJ	a|a|-|p|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Plur	5	amod	_	_
 5	germanis	germanus	NOUN	n|n|-|p|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Plur	2	nsubj	_	_
-6	una	una	ADV	d|d|-|-|-|-|-|-|-|-	_	9	case	_	_
+6	una	una	ADV	d|d|-|-|-|-|-|-|-|-	ExtPos=ADP	9	case	_	_
 7	cum	cum	ADP	r|r|-|-|-|-|-|-|-|-	_	6	fixed	_	_
 8	nostris	noster	DET	a|a|1|p|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Plur|Number[psor]=Plur|Person[psor]=1|Poss=Yes|PronType=Prs	9	det	_	_
 9	heredibus	heres	NOUN	n|n|-|p|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Plur	2	obl	_	_

@@ -21,19 +21,19 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 6.500000 (the average of all parts of speech is 1.742503).
+The form / lemma ratio of `AUX` is 6.500000 (the average of all parts of speech is 1.977290).
 
 The 1st highest number of forms (10) was observed with the lemma “mi”: <em>mi, mi?, misin, miydim, mu, musun, muydu, mü, mı, mı?</em>.
 
 The 2nd highest number of forms (3) was observed with the lemma “değil”: <em>değil, değildi, değilim</em>.
 
-`AUX` occurs with 7 features: <tt><a href="tr_framenet-feat-PronType.html">PronType</a></tt> (20; 71% instances), <tt><a href="tr_framenet-feat-Mood.html">Mood</a></tt> (2; 7% instances), <tt><a href="tr_framenet-feat-Number.html">Number</a></tt> (2; 7% instances), <tt><a href="tr_framenet-feat-Person.html">Person</a></tt> (2; 7% instances), <tt><a href="tr_framenet-feat-Tense.html">Tense</a></tt> (2; 7% instances), <tt><a href="tr_framenet-feat-VerbForm.html">VerbForm</a></tt> (2; 7% instances), <tt><a href="tr_framenet-feat-Aspect.html">Aspect</a></tt> (1; 4% instances)
+`AUX` occurs with 7 features: <tt><a href="tr_framenet-feat-Number.html">Number</a></tt> (22; 79% instances), <tt><a href="tr_framenet-feat-Person.html">Person</a></tt> (22; 79% instances), <tt><a href="tr_framenet-feat-Tense.html">Tense</a></tt> (22; 79% instances), <tt><a href="tr_framenet-feat-PronType.html">PronType</a></tt> (20; 71% instances), <tt><a href="tr_framenet-feat-Polarity.html">Polarity</a></tt> (8; 29% instances), <tt><a href="tr_framenet-feat-Aspect.html">Aspect</a></tt> (3; 11% instances), <tt><a href="tr_framenet-feat-Evident.html">Evident</a></tt> (3; 11% instances)
 
-`AUX` occurs with 10 feature-value pairs: `Aspect=Perf`, `Mood=Gen`, `Mood=Ind`, `Number=Sing`, `Person=1`, `Person=3`, `PronType=Int`, `Tense=Past`, `Tense=Pres`, `VerbForm=Fin`
+`AUX` occurs with 10 feature-value pairs: `Aspect=Perf`, `Evident=Fh`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Polarity=Neg`, `PronType=Int`, `Tense=Past`, `Tense=Pres`
 
-`AUX` occurs with 4 feature combinations.
-The most frequent feature combination is `PronType=Int` (20 tokens).
-Examples: <em>mı, mu, mi, musun, mi?, misin, miydim, muydu, mü, mı?</em>
+`AUX` occurs with 7 feature combinations.
+The most frequent feature combination is `Number=Sing|Person=3|PronType=Int|Tense=Pres` (15 tokens).
+Examples: <em>mı, mu, mi, mi?, mü, mı?</em>
 
 
 ## Relations

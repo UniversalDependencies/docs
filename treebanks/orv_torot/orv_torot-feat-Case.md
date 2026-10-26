@@ -13,7 +13,7 @@ Some words have combined values of the feature; 1 combinations have been observe
 132570 tokens (54%) have a non-empty value of `Case`.
 40764 types (76%) occur at least once with a non-empty value of `Case`.
 11006 lemmas (81%) occur at least once with a non-empty value of `Case`.
-The feature is used with 8 part-of-speech tags: <tt><a href="orv_torot-pos-NOUN.html">NOUN</a></tt> (53587; 22% instances), <tt><a href="orv_torot-pos-PRON.html">PRON</a></tt> (24105; 10% instances), <tt><a href="orv_torot-pos-ADJ.html">ADJ</a></tt> (17956; 7% instances), <tt><a href="orv_torot-pos-VERB.html">VERB</a></tt> (13029; 5% instances), <tt><a href="orv_torot-pos-PROPN.html">PROPN</a></tt> (12924; 5% instances), <tt><a href="orv_torot-pos-DET.html">DET</a></tt> (8708; 4% instances), <tt><a href="orv_torot-pos-NUM.html">NUM</a></tt> (1311; 1% instances), <tt><a href="orv_torot-pos-AUX.html">AUX</a></tt> (950; 0% instances).
+The feature is used with 8 part-of-speech tags: <tt><a href="orv_torot-pos-NOUN.html">NOUN</a></tt> (53587; 22% instances), <tt><a href="orv_torot-pos-PRON.html">PRON</a></tt> (24104; 10% instances), <tt><a href="orv_torot-pos-ADJ.html">ADJ</a></tt> (17956; 7% instances), <tt><a href="orv_torot-pos-VERB.html">VERB</a></tt> (13029; 5% instances), <tt><a href="orv_torot-pos-PROPN.html">PROPN</a></tt> (12924; 5% instances), <tt><a href="orv_torot-pos-DET.html">DET</a></tt> (8709; 4% instances), <tt><a href="orv_torot-pos-NUM.html">NUM</a></tt> (1311; 1% instances), <tt><a href="orv_torot-pos-AUX.html">AUX</a></tt> (950; 0% instances).
 
 ### `NOUN`
 
@@ -41,13 +41,13 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 
 ### `PRON`
 
-24105 <tt><a href="orv_torot-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Case`.
+24104 <tt><a href="orv_torot-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="orv_torot-feat-Number.html">Number</a></tt><tt>=Sing</tt> (18875; 78%), <tt><a href="orv_torot-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (18328; 76%), <tt><a href="orv_torot-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (16475; 68%), <tt><a href="orv_torot-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (14049; 58%), <tt><a href="orv_torot-feat-Person.html">Person</a></tt><tt>=3</tt> (12294; 51%).
+The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="orv_torot-feat-Number.html">Number</a></tt><tt>=Sing</tt> (18874; 78%), <tt><a href="orv_torot-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (18327; 76%), <tt><a href="orv_torot-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (16475; 68%), <tt><a href="orv_torot-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (14049; 58%), <tt><a href="orv_torot-feat-Person.html">Person</a></tt><tt>=3</tt> (12294; 51%).
 
 `PRON` tokens may have the following values of `Case`:
 
-* `Acc` (8220; 34% of non-empty `Case`): <em>сѧ, и, ся, сꙗ, что, мѧ, с, то, се, тѧ</em>
+* `Acc` (8219; 34% of non-empty `Case`): <em>сѧ, и, ся, сꙗ, что, мѧ, с, то, се, тѧ</em>
 * `Dat` (4249; 18% of non-empty `Case`): <em>имъ, ѥму, мнѣ, ми, ему, ти, намъ, ѥмѹ, емѹ, си</em>
 * `Gen` (5051; 21% of non-empty `Case`): <em>его, ѥго, ихъ, меня, того, него, их, нас, мене, сего</em>
 * `Ins` (1086; 5% of non-empty `Case`): <em>ними, собою, тѣмь, ним, мною, тобою, нами, нимь, нимъ, тѣм</em>
@@ -161,13 +161,13 @@ The most frequent other feature values with which `PROPN` and `Case` co-occurred
 
 ### `DET`
 
-8708 <tt><a href="orv_torot-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Case`.
+8709 <tt><a href="orv_torot-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="orv_torot-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (6501; 75%), <tt><a href="orv_torot-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6221; 71%), <tt><a href="orv_torot-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (4602; 53%), <tt><a href="orv_torot-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (4602; 53%).
+The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="orv_torot-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (6502; 75%), <tt><a href="orv_torot-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6222; 71%), <tt><a href="orv_torot-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (4603; 53%), <tt><a href="orv_torot-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (4603; 53%).
 
 `DET` tokens may have the following values of `Case`:
 
-* `Acc` (2607; 30% of non-empty `Case`): <em>свою, свои, всѧ, то, тож҃, всю, своя, се, все, свое</em>
+* `Acc` (2608; 30% of non-empty `Case`): <em>свою, свои, всѧ, то, тож҃, всю, своя, се, все, свое</em>
 * `Dat` (821; 9% of non-empty `Case`): <em>своимъ, всѣмъ, своему, своѥму, своеи, всѣм, всеи, томѹ, нашемѹ, нашимъ</em>
 * `Gen` (2161; 25% of non-empty `Case`): <em>своѥго, сего, своего, того, нашего, своихъ, тог҃же, всѣхъ, моѥго, своих</em>
 * `Ins` (651; 7% of non-empty `Case`): <em>своими, своимъ, своею, всѣми, своим, своима, всею, своѥю, своимь, всѣмъ</em>
@@ -277,14 +277,14 @@ The most frequent other feature values with which `AUX` and `Case` co-occurred: 
 ## Relations with Agreement in `Case`
 
 The 10 most frequent relations where parent and child node agree in `Case`:
-<tt>NOUN --[<tt><a href="orv_torot-dep-amod.html">amod</a></tt>]--> ADJ</tt> (10830; 97%),
-<tt>NOUN --[<tt><a href="orv_torot-dep-det.html">det</a></tt>]--> DET</tt> (7765; 97%),
-<tt>NOUN --[<tt><a href="orv_torot-dep-conj.html">conj</a></tt>]--> NOUN</tt> (5254; 92%),
+<tt>NOUN --[<tt><a href="orv_torot-dep-amod.html">amod</a></tt>]--> ADJ</tt> (10831; 97%),
+<tt>NOUN --[<tt><a href="orv_torot-dep-det.html">det</a></tt>]--> DET</tt> (7760; 97%),
+<tt>NOUN --[<tt><a href="orv_torot-dep-conj.html">conj</a></tt>]--> NOUN</tt> (5255; 92%),
 <tt>NOUN --[<tt><a href="orv_torot-dep-appos.html">appos</a></tt>]--> PROPN</tt> (1853; 91%),
 <tt>VERB --[<tt><a href="orv_torot-dep-conj.html">conj</a></tt>]--> VERB</tt> (1242; 58%),
 <tt>NOUN --[<tt><a href="orv_torot-dep-appos.html">appos</a></tt>]--> NOUN</tt> (1194; 85%),
 <tt>PROPN --[<tt><a href="orv_torot-dep-conj.html">conj</a></tt>]--> PROPN</tt> (966; 95%),
-<tt>ADJ --[<tt><a href="orv_torot-dep-conj.html">conj</a></tt>]--> ADJ</tt> (851; 99%),
+<tt>ADJ --[<tt><a href="orv_torot-dep-conj.html">conj</a></tt>]--> ADJ</tt> (852; 99%),
 <tt>PROPN --[<tt><a href="orv_torot-dep-appos.html">appos</a></tt>]--> NOUN</tt> (834; 87%),
 <tt>PROPN --[<tt><a href="orv_torot-dep-amod.html">amod</a></tt>]--> ADJ</tt> (818; 98%).
 

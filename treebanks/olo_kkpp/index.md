@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.5 release.
 The following people have contributed to making this treebank part of UD: Tommi A Pirinen.
 
 Repository: [UD_Livvi-KKPP](https://github.com/UniversalDependencies/UD_Livvi-KKPP)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udolo_kkpp215)<br />
-Download all treebanks: [UD 2.15](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udolo_kkpp218)<br />
+Download all treebanks: [UD 2.18](/#download)
 
 License: CC BY-SA 4.0
 
@@ -84,11 +84,11 @@ these can be found in the training set.
 
 ## Features
 
-[AdpType](olo_kkpp-feat-AdpType.html) – [Case](olo_kkpp-feat-Case.html) – [Clitic](olo_kkpp-feat-Clitic.html) – [Connegative](olo_kkpp-feat-Connegative.html) – [Degree](olo_kkpp-feat-Degree.html) – [Foreign](olo_kkpp-feat-Foreign.html) – [Mood](olo_kkpp-feat-Mood.html) – [Number](olo_kkpp-feat-Number.html) – [Number[psor]](olo_kkpp-feat-Number-psor.html) – [NumType](olo_kkpp-feat-NumType.html) – [Person](olo_kkpp-feat-Person.html) – [Person[psor]](olo_kkpp-feat-Person-psor.html) – [Polarity](olo_kkpp-feat-Polarity.html) – [PronType](olo_kkpp-feat-PronType.html) – [Reflex](olo_kkpp-feat-Reflex.html) – [Tense](olo_kkpp-feat-Tense.html) – [Typo](olo_kkpp-feat-Typo.html) – [VerbForm](olo_kkpp-feat-VerbForm.html) – [Voice](olo_kkpp-feat-Voice.html)
+[AdpType](olo_kkpp-feat-AdpType.html) – [Case](olo_kkpp-feat-Case.html) – [Clitic](olo_kkpp-feat-Clitic.html) – [Connegative](olo_kkpp-feat-Connegative.html) – [Degree](olo_kkpp-feat-Degree.html) – [ExtPos](olo_kkpp-feat-ExtPos.html) – [Foreign](olo_kkpp-feat-Foreign.html) – [Mood](olo_kkpp-feat-Mood.html) – [Number](olo_kkpp-feat-Number.html) – [Number[psor]](olo_kkpp-feat-Number-psor.html) – [NumType](olo_kkpp-feat-NumType.html) – [Person](olo_kkpp-feat-Person.html) – [Person[psor]](olo_kkpp-feat-Person-psor.html) – [Polarity](olo_kkpp-feat-Polarity.html) – [PronType](olo_kkpp-feat-PronType.html) – [Reflex](olo_kkpp-feat-Reflex.html) – [Tense](olo_kkpp-feat-Tense.html) – [Typo](olo_kkpp-feat-Typo.html) – [VerbForm](olo_kkpp-feat-VerbForm.html) – [Voice](olo_kkpp-feat-Voice.html)
 
 ## Relations
 
-[acl](olo_kkpp-dep-acl.html) – [acl:relcl](olo_kkpp-dep-acl-relcl.html) – [advcl](olo_kkpp-dep-advcl.html) – [advmod](olo_kkpp-dep-advmod.html) – [amod](olo_kkpp-dep-amod.html) – [appos](olo_kkpp-dep-appos.html) – [aux](olo_kkpp-dep-aux.html) – [case](olo_kkpp-dep-case.html) – [cc](olo_kkpp-dep-cc.html) – [ccomp](olo_kkpp-dep-ccomp.html) – [compound](olo_kkpp-dep-compound.html) – [compound:nn](olo_kkpp-dep-compound-nn.html) – [conj](olo_kkpp-dep-conj.html) – [cop](olo_kkpp-dep-cop.html) – [cop:own](olo_kkpp-dep-cop-own.html) – [csubj:cop](olo_kkpp-dep-csubj-cop.html) – [det](olo_kkpp-dep-det.html) – [discourse](olo_kkpp-dep-discourse.html) – [fixed](olo_kkpp-dep-fixed.html) – [flat:foreign](olo_kkpp-dep-flat-foreign.html) – [flat:name](olo_kkpp-dep-flat-name.html) – [goeswith](olo_kkpp-dep-goeswith.html) – [mark](olo_kkpp-dep-mark.html) – [nmod](olo_kkpp-dep-nmod.html) – [nmod:poss](olo_kkpp-dep-nmod-poss.html) – [nsubj](olo_kkpp-dep-nsubj.html) – [nsubj:cop](olo_kkpp-dep-nsubj-cop.html) – [nummod](olo_kkpp-dep-nummod.html) – [obj](olo_kkpp-dep-obj.html) – [obl](olo_kkpp-dep-obl.html) – [orphan](olo_kkpp-dep-orphan.html) – [parataxis](olo_kkpp-dep-parataxis.html) – [punct](olo_kkpp-dep-punct.html) – [root](olo_kkpp-dep-root.html) – [vocative](olo_kkpp-dep-vocative.html) – [xcomp](olo_kkpp-dep-xcomp.html) – [xcomp:ds](olo_kkpp-dep-xcomp-ds.html)
+[acl](olo_kkpp-dep-acl.html) – [acl:relcl](olo_kkpp-dep-acl-relcl.html) – [advcl](olo_kkpp-dep-advcl.html) – [advmod](olo_kkpp-dep-advmod.html) – [amod](olo_kkpp-dep-amod.html) – [appos](olo_kkpp-dep-appos.html) – [aux](olo_kkpp-dep-aux.html) – [case](olo_kkpp-dep-case.html) – [cc](olo_kkpp-dep-cc.html) – [ccomp](olo_kkpp-dep-ccomp.html) – [compound](olo_kkpp-dep-compound.html) – [compound:nn](olo_kkpp-dep-compound-nn.html) – [compound:prt](olo_kkpp-dep-compound-prt.html) – [conj](olo_kkpp-dep-conj.html) – [cop](olo_kkpp-dep-cop.html) – [cop:own](olo_kkpp-dep-cop-own.html) – [csubj:cop](olo_kkpp-dep-csubj-cop.html) – [det](olo_kkpp-dep-det.html) – [discourse](olo_kkpp-dep-discourse.html) – [fixed](olo_kkpp-dep-fixed.html) – [flat:foreign](olo_kkpp-dep-flat-foreign.html) – [flat:name](olo_kkpp-dep-flat-name.html) – [goeswith](olo_kkpp-dep-goeswith.html) – [mark](olo_kkpp-dep-mark.html) – [nmod](olo_kkpp-dep-nmod.html) – [nmod:poss](olo_kkpp-dep-nmod-poss.html) – [nsubj](olo_kkpp-dep-nsubj.html) – [nsubj:cop](olo_kkpp-dep-nsubj-cop.html) – [nummod](olo_kkpp-dep-nummod.html) – [obj](olo_kkpp-dep-obj.html) – [obl](olo_kkpp-dep-obl.html) – [orphan](olo_kkpp-dep-orphan.html) – [parataxis](olo_kkpp-dep-parataxis.html) – [punct](olo_kkpp-dep-punct.html) – [root](olo_kkpp-dep-root.html) – [vocative](olo_kkpp-dep-vocative.html) – [xcomp](olo_kkpp-dep-xcomp.html) – [xcomp:ds](olo_kkpp-dep-xcomp-ds.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -136,11 +136,11 @@ these can be found in the training set.
 </ul>
 
 <ul>
-<li>This corpus contains 6 lemmas tagged as auxiliaries (AUX): ei, olla, pidiä, rotie, suaha, voija</li>
+<li>This corpus contains 5 lemmas tagged as auxiliaries (AUX): ei, olla, pidiä, rotie, voija</li>
 </ul>
 
 <ul>
-<li>Out of the above, 4 lemmas occurred sometimes as AUX and sometimes as VERB: olla, pidiä, suaha, voija</li>
+<li>Out of the above, 3 lemmas occurred sometimes as AUX and sometimes as VERB: olla, pidiä, voija</li>
 </ul>
 
 <ul>
@@ -152,7 +152,7 @@ these can be found in the training set.
   <ul>
     <li>AUX: oli, on, ollah, voibi, ole, olen, Ongo, olis, pidänyh, voidas</li>
     <li>NOUN: sualis</li>
-    <li>VERB: sanoi, rodieu, sanoo, kuulimo, kuulittogo, pietäh, sanottih, tiezimö, tiezittö, istui</li>
+    <li>VERB: sanoi, pietäh, rodieu, sanoo, kuulimo, kuulittogo, sanottih, tiezimö, tiezittö, istui</li>
   </ul>
   </li>
 </ul>
@@ -178,8 +178,7 @@ these can be found in the training set.
 <ul>
   <li>Part
   <ul>
-    <li>AUX: suannuh</li>
-    <li>VERB: käynnyh, mennyt, tundiettu, järjestäjänny, kehitynnyh, koskijoi, mainittuloin, sanottuu, tulluot</li>
+    <li>VERB: käynnyh, mennyt, tundiettu, järjestäjänny, kehitynnyh, koskijoi, mainittuloin, sanottuu, suannuh, tulluot</li>
   </ul>
   </li>
 </ul>
@@ -204,7 +203,7 @@ these can be found in the training set.
       <li>NUM: kaksi, kolmet</li>
       <li>PRON: hyö, net, sidä, Heil, Minun, Niilöin, heidy, kai, kudamat, kuduat</li>
       <li>PROPN: Petroskois, Petroskoispäi</li>
-      <li>VERB-Fin: kuulimo, kuulittogo, sanottih, tiezimö, tiezittö, lähtiettih, näimö, saneltih, torvittih, avvutetah</li>
+      <li>VERB-Fin: pietäh, kuulimo, kuulittogo, sanottih, tiezimö, tiezittö, lähtiettih, näimö, saneltih, torvittih</li>
       <li>VERB-Part: koskijoi, mainittuloin, tulluot</li>
       <li>X: d’engaa, puččii</li>
     </ul>
@@ -216,9 +215,8 @@ these can be found in the training set.
     <ul>
       <li>ADJ: mustal, valgiel, Toine, bohattu, hyväs, jygei, semmostu, suuri, 30., Arbuamatoi</li>
       <li>ADP: hyväkse</li>
-      <li>AUX: oli, ei, on, voibi, olen, En, Ongo, suannuh, voinoo, voit</li>
+      <li>AUX: oli, ei, on, voibi, olen, En, Ongo, voinoo, voit</li>
       <li>AUX-Fin: oli, on, voibi, olen, Ongo, voinoo, voit</li>
-      <li>AUX-Part: suannuh</li>
       <li>NOUN: virstaa, saari, bobuli-briha, briha, piduhuttu, saaraa, taatto, Arbaituksen, bohattu, häkki</li>
       <li>NOUN-Fin: sualis</li>
       <li>NUM: kolme, seičče, 2010-2014, 2017, kaksi, kolmas, yksi</li>
@@ -226,7 +224,7 @@ these can be found in the training set.
       <li>PROPN: Tverin, Karjalan, Anuksen, Mustonen, Peter, Petroskoin, Suomes, Anuksenlinnas, Karjalah, Karjalas</li>
       <li>VERB: sanoi, rodieu, sanoo, istui, kraassi, kyzyy, menöö, olen, oli, on</li>
       <li>VERB-Fin: sanoi, rodieu, sanoo, istui, kraassi, kyzyy, menöö, olen, oli, on</li>
-      <li>VERB-Part: järjestäjänny, kehitynnyh, sanottuu, tundiettu</li>
+      <li>VERB-Part: järjestäjänny, kehitynnyh, sanottuu, suannuh, tundiettu</li>
       <li>X: piduhuttu</li>
     </ul>
   </li>
@@ -479,8 +477,7 @@ these can be found in the training set.
       <li>AUX: oli, on, ollah, voibi, ei, ole, olen, Ongo, pidänyh, voidu</li>
       <li>AUX-Fin: oli, on, ollah, voibi, ole, olen, Ongo, pidänyh, voit</li>
       <li>NOUN-Fin: sualis</li>
-      <li>VERB: sanoi, pietäh, rodieu, sanoo, kuulimo, kuulittogo, sanottih, tiezimö, tiezittö, istui</li>
-      <li>VERB-Fin: sanoi, rodieu, sanoo, kuulimo, kuulittogo, pietäh, sanottih, tiezimö, tiezittö, istui</li>
+      <li>VERB-Fin: sanoi, pietäh, rodieu, sanoo, kuulimo, kuulittogo, sanottih, tiezimö, tiezittö, istui</li>
       <li>VERB-Part: käynnyh</li>
     </ul>
   </li>
@@ -502,11 +499,10 @@ these can be found in the training set.
 <ul>
   <li>Past
     <ul>
-      <li>AUX: oli, pidänyh, suannuh, voidu</li>
+      <li>AUX: oli, pidänyh, voidu</li>
       <li>AUX-Fin: oli, pidänyh</li>
-      <li>AUX-Part: suannuh</li>
       <li>VERB-Fin: sanoi, sanottih, istui, kraassi, kuulittogo, kuulluh, lähtiettih, oli, saneltih, tiezittö</li>
-      <li>VERB-Part: käynnyh, tundiettu, kehitynnyh, mainittuloin, sanottuu, tulluot</li>
+      <li>VERB-Part: käynnyh, tundiettu, kehitynnyh, mainittuloin, sanottuu, suannuh, tulluot</li>
     </ul>
   </li>
 </ul>
@@ -518,7 +514,7 @@ these can be found in the training set.
       <li>AUX-Fin: on, ollah, voibi, ole, olen, Ongo, olis, voidas, voit</li>
       <li>NOUN-Fin: sualis</li>
       <li>VERB: pietäh, rodieu, sanoo, kyzyy, olen, on, sanou, tulou, avvutetah, ečitäh</li>
-      <li>VERB-Fin: rodieu, pietäh, sanoo, kyzyy, olen, on, sanou, tulou, avvutetah, ečitäh</li>
+      <li>VERB-Fin: pietäh, rodieu, sanoo, kyzyy, olen, on, sanou, tulou, avvutetah, ečitäh</li>
       <li>VERB-Part: järjestäjänny</li>
     </ul>
   </li>
@@ -542,9 +538,6 @@ these can be found in the training set.
 <ul>
   <li>Pass
     <ul>
-      <li>AUX: voidu</li>
-      <li>VERB: pietäh, tundiettu, ečitäh, järjestetäh, kannatetah, kuunneltes, mainittuloin, sanottuu</li>
-      <li>VERB-Fin: pietäh, ečitäh, kannatetah</li>
       <li>VERB-Ger: kuunneltes</li>
       <li>VERB-Part: tundiettu, mainittuloin, sanottuu</li>
     </ul>
@@ -562,7 +555,7 @@ these can be found in the training set.
 <ul>
   <li>Dem
     <ul>
-      <li>PRON: tämän, se, tämä, net, Niilöin, Tädä, niidy, nämmis, sen, sil</li>
+      <li>PRON: tämän, se, tämä, net, sidä, Niilöin, Tädä, niidy, nämmis, sen</li>
     </ul>
   </li>
 </ul>
@@ -570,7 +563,15 @@ these can be found in the training set.
 <ul>
   <li>Ind
     <ul>
-      <li>PRON: mondu, nimidä</li>
+      <li>PRON: toine, toizel, toizen, mondu, nimidä</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Int
+    <ul>
+      <li>PRON: midä, Midäbo, ken, kus, mis, mit</li>
     </ul>
   </li>
 </ul>
@@ -578,7 +579,7 @@ these can be found in the training set.
 <ul>
   <li>Prs
     <ul>
-      <li>PRON: häi, minun, minul, hyö, minä, Heil, Hänel, heidy, händy, hänele</li>
+      <li>PRON: häi, minun, minul, hyö, iče, minä, Heil, Hänel, heidy, händy</li>
     </ul>
   </li>
 </ul>
@@ -587,6 +588,14 @@ these can be found in the training set.
   <li>Rel
     <ul>
       <li>PRON: kudamat, kudamua, kuduan, kuduat</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Tot
+    <ul>
+      <li>PRON: kai</li>
     </ul>
   </li>
 </ul>
@@ -662,13 +671,13 @@ these can be found in the training set.
 <ul>
   <li>3
     <ul>
-      <li>AUX: oli, ei, on, ollah, voibi, Ongo, voidas, voinoo</li>
+      <li>AUX: oli, ei, on, ollah, voibi, Ongo, voidas, voidu, voinoo</li>
       <li>AUX-Fin: oli, on, ollah, voibi, Ongo, voidas, voinoo</li>
       <li>CCONJ: eigo</li>
       <li>NOUN-Fin: sualis</li>
       <li>PRON: häi, hyö, Heil, Hänel, heidy, händy, hänele, hänen, hänes</li>
-      <li>VERB: sanoi, rodieu, sanoo, sanottih, istui, kraassi, kyzyy, lähtiettih, menöö, oli</li>
-      <li>VERB-Fin: sanoi, rodieu, sanoo, sanottih, istui, kraassi, kyzyy, lähtiettih, menöö, oli</li>
+      <li>VERB: sanoi, pietäh, rodieu, sanoo, sanottih, istui, kraassi, kyzyy, lähtiettih, menöö</li>
+      <li>VERB-Fin: sanoi, pietäh, rodieu, sanoo, sanottih, istui, kraassi, kyzyy, lähtiettih, menöö</li>
     </ul>
   </li>
 </ul>
@@ -742,6 +751,18 @@ these can be found in the training set.
 </ul>
 
 <ul>
+  <li><a>ExtPos</a>
+    <ul>
+      <li>ADV
+        <ul>
+          <li>ADV: sen, Paiči</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li><a>Foreign</a>
     <ul>
       <li>Yes
@@ -796,11 +817,11 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN-Nom (2)</li>
+      <li>VERB--NOUN-Nom (1)</li>
       <li>VERB--PRON-Nom (1)</li>
       <li>VERB-Fin--NOUN (2)</li>
       <li>VERB-Fin--NOUN-Acc (4)</li>
-      <li>VERB-Fin--NOUN-Nom (59)</li>
+      <li>VERB-Fin--NOUN-Nom (61)</li>
       <li>VERB-Fin--NOUN-Par (5)</li>
       <li>VERB-Fin--PRON-Nom (26)</li>
       <li>VERB-Inf--NOUN-Acc (1)</li>
@@ -815,16 +836,16 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN-Par (2)</li>
+      <li>VERB--NOUN-Par (1)</li>
       <li>VERB-Fin--NOUN-Acc (10)</li>
       <li>VERB-Fin--NOUN-Gen (2)</li>
-      <li>VERB-Fin--NOUN-Nom (6)</li>
+      <li>VERB-Fin--NOUN-Nom (5)</li>
       <li>VERB-Fin--NOUN-Par (27)</li>
       <li>VERB-Fin--PRON-Acc (1)</li>
       <li>VERB-Fin--PRON-Gen (6)</li>
       <li>VERB-Fin--PRON-Nom (1)</li>
       <li>VERB-Fin--PRON-Par (9)</li>
-      <li>VERB-Inf--NOUN-Acc (2)</li>
+      <li>VERB-Inf--NOUN-Acc (1)</li>
       <li>VERB-Inf--NOUN-Gen (1)</li>
       <li>VERB-Inf--NOUN-Par (14)</li>
       <li>VERB-Inf--PRON-Par (1)</li>
@@ -847,7 +868,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 9 relation subtypes: <a>acl:relcl</a>, <a>compound:nn</a>, <a>cop:own</a>, <a>csubj:cop</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>nmod:poss</a>, <a>nsubj:cop</a>, <a>xcomp:ds</a></li>
+<li>This corpus uses 10 relation subtypes: <a>acl:relcl</a>, <a>compound:nn</a>, <a>compound:prt</a>, <a>cop:own</a>, <a>csubj:cop</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>nmod:poss</a>, <a>nsubj:cop</a>, <a>xcomp:ds</a></li>
 <li>The following 2 main types are not used alone, they are always subtyped: <a>csubj</a>, <a>flat</a></li>
 <li>The following 7 relation types are not used in this corpus at all: <a>iobj</a>, <a>expl</a>, <a>dislocated</a>, <a>clf</a>, <a>list</a>, <a>reparandum</a>, <a>dep</a></li>
 </ul>

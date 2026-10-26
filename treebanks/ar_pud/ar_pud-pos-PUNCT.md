@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  ـ (<tt><a href="ar_pud-pos-SYM.html">SYM
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 1.381137).
+The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 1.380334).
 
 The 1st highest number of forms (1) was observed with the lemma “"”: ".
 
@@ -39,7 +39,7 @@ The 3rd highest number of forms (1) was observed with the lemma “(”: (.
 
 `PUNCT` nodes are attached to their parents using 1 different relations: <tt><a href="ar_pud-dep-punct.html">punct</a></tt> (2226; 100% instances)
 
-Parents of `PUNCT` nodes belong to 10 different parts of speech: <tt><a href="ar_pud-pos-VERB.html">VERB</a></tt> (1181; 53% instances), <tt><a href="ar_pud-pos-NOUN.html">NOUN</a></tt> (500; 22% instances), <tt><a href="ar_pud-pos-PROPN.html">PROPN</a></tt> (236; 11% instances), <tt><a href="ar_pud-pos-ADJ.html">ADJ</a></tt> (120; 5% instances), <tt><a href="ar_pud-pos-ADP.html">ADP</a></tt> (74; 3% instances), <tt><a href="ar_pud-pos-ADV.html">ADV</a></tt> (49; 2% instances), <tt><a href="ar_pud-pos-PRON.html">PRON</a></tt> (37; 2% instances), <tt><a href="ar_pud-pos-NUM.html">NUM</a></tt> (24; 1% instances), <tt><a href="ar_pud-pos-CCONJ.html">CCONJ</a></tt> (4; 0% instances), <tt><a href="ar_pud-pos-PART.html">PART</a></tt> (1; 0% instances)
+Parents of `PUNCT` nodes belong to 9 different parts of speech: <tt><a href="ar_pud-pos-VERB.html">VERB</a></tt> (1182; 53% instances), <tt><a href="ar_pud-pos-NOUN.html">NOUN</a></tt> (499; 22% instances), <tt><a href="ar_pud-pos-PROPN.html">PROPN</a></tt> (238; 11% instances), <tt><a href="ar_pud-pos-ADJ.html">ADJ</a></tt> (121; 5% instances), <tt><a href="ar_pud-pos-ADP.html">ADP</a></tt> (71; 3% instances), <tt><a href="ar_pud-pos-ADV.html">ADV</a></tt> (49; 2% instances), <tt><a href="ar_pud-pos-PRON.html">PRON</a></tt> (38; 2% instances), <tt><a href="ar_pud-pos-NUM.html">NUM</a></tt> (24; 1% instances), <tt><a href="ar_pud-pos-CCONJ.html">CCONJ</a></tt> (4; 0% instances)
 
 2226 (100%) `PUNCT` nodes are leaves.
 

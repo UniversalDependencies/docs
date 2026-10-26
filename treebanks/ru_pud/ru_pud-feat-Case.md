@@ -116,12 +116,12 @@ The most frequent other feature values with which `DET` and `Case` co-occurred: 
 
 `DET` tokens may have the following values of `Case`:
 
-* `Acc` (86; 23% of non-empty `Case`): <em>свои, свою, то, этот, это, эту, свой, эти, все, всю</em>
+* `Acc` (87; 23% of non-empty `Case`): <em>свои, свою, то, этот, это, эту, свой, эти, все, всю</em>
 * `Dat` (19; 5% of non-empty `Case`): <em>всему, этой, своей, своим, этому, Никаким, всей, нашей, своему, таким</em>
 * `Gen` (100; 27% of non-empty `Case`): <em>н., этого, этих, таких, всех, своего, своей, тех, этой, всего</em>
 * `Ins` (29; 8% of non-empty `Case`): <em>своей, таким, тем, своими, нашей, своим, Какими, Моей, каждой, каким</em>
 * `Loc` (53; 14% of non-empty `Case`): <em>своей, том, своем, этой, этом, своих, всех, некоторой, некоторых, таком</em>
-* `Nom` (88; 23% of non-empty `Case`): <em>такие, этот, это, некоторые, эта, эти, все, каждый, мой, наше</em>
+* `Nom` (87; 23% of non-empty `Case`): <em>этот, такие, это, некоторые, эта, эти, все, каждый, мой, наше</em>
 * `EMPTY` (118): <em>его, их, ее, её, Каковы</em>
 
 <table>
@@ -184,7 +184,7 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
 
 The 10 most frequent relations where parent and child node agree in `Case`:
 <tt>NOUN --[<tt><a href="ru_pud-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1476; 88%),
-<tt>NOUN --[<tt><a href="ru_pud-dep-det.html">det</a></tt>]--> DET</tt> (336; 73%),
+<tt>NOUN --[<tt><a href="ru_pud-dep-det.html">det</a></tt>]--> DET</tt> (327; 73%),
 <tt>NOUN --[<tt><a href="ru_pud-dep-conj.html">conj</a></tt>]--> NOUN</tt> (236; 96%),
 <tt>NOUN --[<tt><a href="ru_pud-dep-acl.html">acl</a></tt>]--> VERB</tt> (166; 86%),
 <tt>PROPN --[<tt><a href="ru_pud-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (102; 99%),

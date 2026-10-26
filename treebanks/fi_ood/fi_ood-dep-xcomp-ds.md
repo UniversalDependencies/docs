@@ -57,7 +57,7 @@ The following 7 pairs of parts of speech are connected with `xcomp:ds`: <tt><a h
 # visual-style 3 4 xcomp:ds	color:blue
 1	Nyt	nyt	ADV	_	_	3	advmod	_	_
 2	on	olla	AUX	_	Mood=Ind|Number=Sing|Person=0|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	_
-3	aika	aika	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
+3	aika	aika	NOUN	_	Case=Nom|Number=Sing	0	root	_	candidate=nsubj:exist
 4	tarttua	tarttua	VERB	_	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act	3	xcomp:ds	_	_
 5	huipputeoksiin	huippu#teos	NOUN	_	Case=Ill|Number=Plur	4	obl	_	SpaceAfter=No
 6	!	!	PUNCT	_	_	3	punct	_	_

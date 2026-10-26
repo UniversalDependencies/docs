@@ -25,7 +25,7 @@ The following 9 pairs of parts of speech are connected with `amod`: <tt><a href=
 1	Banyak	banyak	DET	DT	Number=Plur|PronType=Ind	2	det	_	_
 2	olahragawan	olahragawan	NOUN	NN	Number=Sing	4	nsubj	_	_
 3	terkenal	kenal	ADJ	JJ	_	2	amod	_	_
-4	melakukan	laku	VERB	VB	Mood=Ind|Voice=Act	0	root	_	_
+4	melakukan	laku	VERB	VB	Voice=Act	0	root	_	_
 5	nya	nya	PRON	PRP	Number=Sing|Person=3|PronType=Prs	4	obj	_	_
 6	.	.	PUNCT	.	_	4	punct	_	_
 
@@ -43,7 +43,7 @@ The following 9 pairs of parts of speech are connected with `amod`: <tt><a href=
 3	Plant	Plant	X	FW	Foreign=Yes	2	flat:foreign	_	_
 4	baru	baru	ADJ	JJ	_	2	amod	_	_
 5	akan	akan	AUX	MD	_	6	aux	_	_
-6	beroperasi	operasi	VERB	VB	Mood=Ind|Voice=Act	0	root	_	_
+6	beroperasi	operasi	VERB	VB	Voice=Act	0	root	_	_
 7	pada	pada	ADP	IN	_	9	case	_	_
 8	akhir	akhir	NOUN	NN	Number=Sing	9	nummod	_	_
 9	2009	2009	NUM	CD	NumType=Card	6	obl	_	_
@@ -52,7 +52,7 @@ The following 9 pairs of parts of speech are connected with `amod`: <tt><a href=
 12	2010	2010	NUM	CD	NumType=Card	9	conj	_	_
 13	pembangunan	bangun	NOUN	NN	Number=Sing	9	nmod	_	_
 14	untuk	untuk	SCONJ	IN	_	15	mark	_	_
-15	mengantisipasi	antisipasi	VERB	VB	Mood=Ind|Voice=Act	6	advcl	_	_
+15	mengantisipasi	antisipasi	VERB	VB	Voice=Act	6	advcl	_	_
 16	mahal	mahal	ADJ	JJ	_	15	advcl	_	_
 17	nya	nya	DET	DT	Definite=Def|PronType=Art	16	det	_	_
 18	harga	harga	NOUN	NN	Number=Sing	16	nsubj	_	_
@@ -60,7 +60,7 @@ The following 9 pairs of parts of speech are connected with `amod`: <tt><a href=
 20	mentah	mentah	ADJ	JJ	_	19	amod	_	SpaceAfter=No
 21	,	,	PUNCT	,	_	6	punct	_	SpaceAfter=No
 22	"	"	PUNCT	''	_	6	punct	_	_
-23	kata	kata	VERB	VB	Mood=Ind|Voice=Act	6	parataxis	_	_
+23	kata	kata	VERB	VB	Voice=Act	6	parataxis	_	_
 24	nya	nya	PRON	PRP	Number=Sing|Person=3|PronType=Prs	23	nsubj	_	_
 25	.	.	PUNCT	.	_	6	punct	_	_
 
@@ -75,7 +75,7 @@ The following 9 pairs of parts of speech are connected with `amod`: <tt><a href=
 # visual-style 4 5 amod	color:blue
 1	Bank	bank	NOUN	NN	Number=Sing	3	nsubj	_	_
 2	Mandiri	Mandiri	PROPN	NNP	_	1	flat:name	_	_
-3	menyumbang	sumbang	VERB	VB	Mood=Ind|Voice=Act	0	root	_	_
+3	menyumbang	sumbang	VERB	VB	Voice=Act	0	root	_	_
 4	NPL	NPL	PROPN	NNP	_	3	obj	_	_
 5	terbanyak	banyak	ADJ	JJ	Degree=Sup	4	amod	_	_
 6	sebesar	sebesar	NOUN	NN	Number=Sing	4	nmod	_	_

@@ -12,7 +12,7 @@ Some words have combined values of the feature; 1 combinations have been observe
 
 116861 tokens (38%) have a non-empty value of `Number`.
 24247 types (75%) occur at least once with a non-empty value of `Number`.
-16080 lemmas (69%) occur at least once with a non-empty value of `Number`.
+16077 lemmas (69%) occur at least once with a non-empty value of `Number`.
 The feature is used with 6 part-of-speech tags: <tt><a href="no_bokmaal-pos-NOUN.html">NOUN</a></tt> (55823; 18% instances), <tt><a href="no_bokmaal-pos-ADJ.html">ADJ</a></tt> (22541; 7% instances), <tt><a href="no_bokmaal-pos-PRON.html">PRON</a></tt> (20916; 7% instances), <tt><a href="no_bokmaal-pos-DET.html">DET</a></tt> (13821; 4% instances), <tt><a href="no_bokmaal-pos-NUM.html">NUM</a></tt> (3759; 1% instances), <tt><a href="no_bokmaal-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 ### `NOUN`
@@ -52,7 +52,7 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 <table>
   <tr><th>Paradigm <i>mye</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
   <tr><td><tt><tt><a href="no_bokmaal-feat-Definite.html">Definite</a></tt><tt>=Def</tt></tt></td><td><em>mye</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="no_bokmaal-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="no_bokmaal-feat-Gender.html">Gender</a></tt><tt>=Fem,Masc</tt></tt></td><td><em>mye</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="no_bokmaal-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="no_bokmaal-feat-Gender.html">Gender</a></tt><tt>=Com</tt></tt></td><td><em>mye</em></td><td></td></tr>
   <tr><td><tt><tt><a href="no_bokmaal-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="no_bokmaal-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>mye</em></td><td></td></tr>
   <tr><td><tt></tt></td><td></td><td><em>mye</em></td></tr>
 </table>
@@ -80,6 +80,8 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 ### `DET`
 
 13821 <tt><a href="no_bokmaal-pos-DET.html">DET</a></tt> tokens (96% of all `DET` tokens) have a non-empty value of `Number`.
+
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="no_bokmaal-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (10121; 73%).
 
 `DET` tokens may have the following values of `Number`:
 
@@ -130,10 +132,10 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>NOUN --[<tt><a href="no_bokmaal-dep-det.html">det</a></tt>]--> DET</tt> (11796; 96%),
-<tt>NOUN --[<tt><a href="no_bokmaal-dep-amod.html">amod</a></tt>]--> ADJ</tt> (11490; 84%),
+<tt>NOUN --[<tt><a href="no_bokmaal-dep-amod.html">amod</a></tt>]--> ADJ</tt> (11491; 84%),
 <tt>NOUN --[<tt><a href="no_bokmaal-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (5687; 58%),
 <tt>NOUN --[<tt><a href="no_bokmaal-dep-conj.html">conj</a></tt>]--> NOUN</tt> (2862; 72%),
-<tt>NOUN --[<tt><a href="no_bokmaal-dep-det.html">det</a></tt>]--> PRON</tt> (2017; 99%),
+<tt>NOUN --[<tt><a href="no_bokmaal-dep-nmod-poss.html">nmod:poss</a></tt>]--> PRON</tt> (2009; 99%),
 <tt>NOUN --[<tt><a href="no_bokmaal-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (2002; 91%),
 <tt>ADJ --[<tt><a href="no_bokmaal-dep-advmod.html">advmod</a></tt>]--> ADJ</tt> (993; 50%),
 <tt>ADJ --[<tt><a href="no_bokmaal-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (820; 79%),

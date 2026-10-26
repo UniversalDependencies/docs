@@ -39,12 +39,12 @@ The following 3 pairs of parts of speech are connected with `xcomp`: <tt><a href
 # visual-style 5	fgColor:white
 # visual-style 5 8 xcomp	color:blue
 1	A	a	CCONJ	_	_	5	cc	_	_
-2	vodel	voz'	NOUN	_	Case=Ade|Number=Sing	5	obl	_	_
+2	vodel	vozʼ	NOUN	_	Case=Ade|Number=Sing	5	obl	_	_
 3	2017	2017	NUM	_	Case=Nom|NumForm=Digit|NumType=Card	2	nummod	_	_
 4	mindai	minä	PRON	_	Case=Par|Number=Sing|Person=1|PronType=Prs	5	obj	_	_
 5	valitihe	valita	VERB	_	Case=Ill|VerbForm=Sup|Voice=Pass	0	root	_	_
 6	Vepsän	vepsän	PROPN	_	Case=Gen|Number=Sing	7	nmod	_	_
-7	kul'tursebran	kul'tursebr	NOUN	_	Case=Gen|Number=Sing	8	nmod	_	_
+7	kulʼtursebran	kulʼtursebr	NOUN	_	Case=Gen|Number=Sing	8	nmod	_	_
 8	pämeheks	pämes	NOUN	_	Case=Tra|Number=Sing	5	xcomp	_	_
 9	.	.	PUNCT	_	_	5	punct	_	_
 
@@ -60,7 +60,7 @@ The following 3 pairs of parts of speech are connected with `xcomp`: <tt><a href
 1	Todeks	todeks	ADV	_	_	2	advmod	_	_
 2	sanuda	sanuda	VERB	_	VerbForm=Inf	4	advcl	_	_
 3	,	,	PUNCT	_	_	4	punct	_	_
-4	siš	sid'	ADV	_	_	0	root	_	_
+4	siš	sidʼ	ADV	_	_	0	root	_	_
 5	om	olda	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	_
 6	midä	mi	PRON	_	Case=Par|Number=Sing|PronType=Int	4	nsubj:cop	_	_
 7	kacta	kacta	VERB	_	VerbForm=Inf	4	xcomp	_	_

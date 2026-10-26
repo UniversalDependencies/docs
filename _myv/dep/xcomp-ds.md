@@ -19,4 +19,4 @@ nsubj(кадызь-2, Атятне-1)
 obj(кадызь-2, Миколонь-3)
 xcomp:ds(кадызь-2, оймсеме-4)
 ~~~
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:11:31 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:45 CEST -->

@@ -42,7 +42,7 @@ The following 4 pairs of parts of speech are connected with `aux`: <tt><a href="
 # visual-style 15 13 aux	color:blue
 1	Paprastai	paprastai	ADV	RB	Degree=Pos	15	advmod	_	En=usually|SpaceAfter=No
 2	,	,	PUNCT	PUNCT	_	6	punct	_	En=,
-3	kai	kai	SCONJ	UH	_	6	advmod	_	En=when
+3	kai	kai	SCONJ	UH	ExtPos=ADV	6	advmod	_	En=when
 4	į	į	ADP	UH	_	3	fixed	_	En=to
 5	lėktuvai	lėktuvas	NOUN	NN	Case=Nom|Gender=Masc|Number=Plur	6	nsubj	_	En=airplane
 6	nukrenta	nukristi	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	15	advcl	_	En=drop

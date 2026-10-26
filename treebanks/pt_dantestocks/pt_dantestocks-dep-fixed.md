@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-269 nodes (0%) are attached to their parents as `fixed`.
+281 nodes (0%) are attached to their parents as `fixed`.
 
-269 instances of `fixed` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.15241635687732.
+281 instances of `fixed` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.14590747330961.
 
-The following 22 pairs of parts of speech are connected with `fixed`: <tt><a href="pt_dantestocks-pos-ADV.html">ADV</a></tt>-<tt><a href="pt_dantestocks-pos-ADP.html">ADP</a></tt> (63; 23% instances), <tt><a href="pt_dantestocks-pos-PRON.html">PRON</a></tt>-<tt><a href="pt_dantestocks-pos-PRON.html">PRON</a></tt> (60; 22% instances), <tt><a href="pt_dantestocks-pos-ADP.html">ADP</a></tt>-<tt><a href="pt_dantestocks-pos-NOUN.html">NOUN</a></tt> (30; 11% instances), <tt><a href="pt_dantestocks-pos-ADP.html">ADP</a></tt>-<tt><a href="pt_dantestocks-pos-SCONJ.html">SCONJ</a></tt> (19; 7% instances), <tt><a href="pt_dantestocks-pos-ADP.html">ADP</a></tt>-<tt><a href="pt_dantestocks-pos-PRON.html">PRON</a></tt> (17; 6% instances), <tt><a href="pt_dantestocks-pos-DET.html">DET</a></tt>-<tt><a href="pt_dantestocks-pos-NOUN.html">NOUN</a></tt> (13; 5% instances), <tt><a href="pt_dantestocks-pos-ADP.html">ADP</a></tt>-<tt><a href="pt_dantestocks-pos-ADV.html">ADV</a></tt> (10; 4% instances), <tt><a href="pt_dantestocks-pos-ADP.html">ADP</a></tt>-<tt><a href="pt_dantestocks-pos-ADP.html">ADP</a></tt> (8; 3% instances), <tt><a href="pt_dantestocks-pos-ADV.html">ADV</a></tt>-<tt><a href="pt_dantestocks-pos-SCONJ.html">SCONJ</a></tt> (8; 3% instances), <tt><a href="pt_dantestocks-pos-ADV.html">ADV</a></tt>-<tt><a href="pt_dantestocks-pos-ADV.html">ADV</a></tt> (7; 3% instances), <tt><a href="pt_dantestocks-pos-ADV.html">ADV</a></tt>-<tt><a href="pt_dantestocks-pos-PRON.html">PRON</a></tt> (6; 2% instances), <tt><a href="pt_dantestocks-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="pt_dantestocks-pos-AUX.html">AUX</a></tt> (6; 2% instances), <tt><a href="pt_dantestocks-pos-DET.html">DET</a></tt>-<tt><a href="pt_dantestocks-pos-SCONJ.html">SCONJ</a></tt> (5; 2% instances), <tt><a href="pt_dantestocks-pos-ADP.html">ADP</a></tt>-<tt><a href="pt_dantestocks-pos-ADJ.html">ADJ</a></tt> (3; 1% instances), <tt><a href="pt_dantestocks-pos-ADP.html">ADP</a></tt>-<tt><a href="pt_dantestocks-pos-DET.html">DET</a></tt> (3; 1% instances), <tt><a href="pt_dantestocks-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="pt_dantestocks-pos-ADV.html">ADV</a></tt> (3; 1% instances), <tt><a href="pt_dantestocks-pos-PRON.html">PRON</a></tt>-<tt><a href="pt_dantestocks-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="pt_dantestocks-pos-X.html">X</a></tt>-<tt><a href="pt_dantestocks-pos-X.html">X</a></tt> (2; 1% instances), <tt><a href="pt_dantestocks-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="pt_dantestocks-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="pt_dantestocks-pos-DET.html">DET</a></tt>-<tt><a href="pt_dantestocks-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="pt_dantestocks-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="pt_dantestocks-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="pt_dantestocks-pos-SYM.html">SYM</a></tt>-<tt><a href="pt_dantestocks-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+The following 22 pairs of parts of speech are connected with `fixed`: <tt><a href="pt_dantestocks-pos-ADV.html">ADV</a></tt>-<tt><a href="pt_dantestocks-pos-ADP.html">ADP</a></tt> (63; 22% instances), <tt><a href="pt_dantestocks-pos-PRON.html">PRON</a></tt>-<tt><a href="pt_dantestocks-pos-PRON.html">PRON</a></tt> (58; 21% instances), <tt><a href="pt_dantestocks-pos-ADP.html">ADP</a></tt>-<tt><a href="pt_dantestocks-pos-NOUN.html">NOUN</a></tt> (30; 11% instances), <tt><a href="pt_dantestocks-pos-ADP.html">ADP</a></tt>-<tt><a href="pt_dantestocks-pos-PRON.html">PRON</a></tt> (21; 7% instances), <tt><a href="pt_dantestocks-pos-ADP.html">ADP</a></tt>-<tt><a href="pt_dantestocks-pos-SCONJ.html">SCONJ</a></tt> (19; 7% instances), <tt><a href="pt_dantestocks-pos-ADP.html">ADP</a></tt>-<tt><a href="pt_dantestocks-pos-DET.html">DET</a></tt> (15; 5% instances), <tt><a href="pt_dantestocks-pos-DET.html">DET</a></tt>-<tt><a href="pt_dantestocks-pos-NOUN.html">NOUN</a></tt> (13; 5% instances), <tt><a href="pt_dantestocks-pos-ADP.html">ADP</a></tt>-<tt><a href="pt_dantestocks-pos-ADV.html">ADV</a></tt> (10; 4% instances), <tt><a href="pt_dantestocks-pos-ADP.html">ADP</a></tt>-<tt><a href="pt_dantestocks-pos-ADP.html">ADP</a></tt> (8; 3% instances), <tt><a href="pt_dantestocks-pos-ADV.html">ADV</a></tt>-<tt><a href="pt_dantestocks-pos-PRON.html">PRON</a></tt> (8; 3% instances), <tt><a href="pt_dantestocks-pos-ADV.html">ADV</a></tt>-<tt><a href="pt_dantestocks-pos-SCONJ.html">SCONJ</a></tt> (8; 3% instances), <tt><a href="pt_dantestocks-pos-ADV.html">ADV</a></tt>-<tt><a href="pt_dantestocks-pos-ADV.html">ADV</a></tt> (7; 2% instances), <tt><a href="pt_dantestocks-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="pt_dantestocks-pos-AUX.html">AUX</a></tt> (6; 2% instances), <tt><a href="pt_dantestocks-pos-ADP.html">ADP</a></tt>-<tt><a href="pt_dantestocks-pos-ADJ.html">ADJ</a></tt> (3; 1% instances), <tt><a href="pt_dantestocks-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="pt_dantestocks-pos-ADV.html">ADV</a></tt> (3; 1% instances), <tt><a href="pt_dantestocks-pos-PRON.html">PRON</a></tt>-<tt><a href="pt_dantestocks-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="pt_dantestocks-pos-X.html">X</a></tt>-<tt><a href="pt_dantestocks-pos-X.html">X</a></tt> (2; 1% instances), <tt><a href="pt_dantestocks-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="pt_dantestocks-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="pt_dantestocks-pos-DET.html">DET</a></tt>-<tt><a href="pt_dantestocks-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="pt_dantestocks-pos-DET.html">DET</a></tt>-<tt><a href="pt_dantestocks-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="pt_dantestocks-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="pt_dantestocks-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="pt_dantestocks-pos-SYM.html">SYM</a></tt>-<tt><a href="pt_dantestocks-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -30,11 +30,11 @@ The following 22 pairs of parts of speech are connected with `fixed`: <tt><a hre
 6	de	de	ADP	_	_	7	case	_	_
 7	fechamento	fechamento	NOUN	_	Gender=Masc|Number=Sing	5	nmod	_	_
 8	caindo	cair	VERB	_	VerbForm=Ger	2	advcl	_	_
-9	mais	mais	ADV	_	_	11	advmod	_	_
+9	mais	mais	ADV	_	ExtPos=ADV	11	advmod	_	_
 10	de	de	ADP	_	_	9	fixed	_	_
 11	10	10	NUM	_	NumType=Card	12	nummod	_	SpaceAfter=No
 12	%	%	SYM	_	_	8	obj	_	SpaceAfter=No
-13	...	...	PUNCT	_	_	2	punct	_	SpaceAfter=No
+13	...	...	PUNCT	_	_	2	punct	_	_
 
 ~~~
 
@@ -46,13 +46,13 @@ The following 22 pairs of parts of speech are connected with `fixed`: <tt><a hre
 # visual-style 2	fgColor:white
 # visual-style 2 3 fixed	color:blue
 1	@garimpodeacoes	@garimpodeacoes	PROPN	_	_	4	vocative	_	_
-2	O	o	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	4	obj	_	_
+2	O	o	PRON	_	ExtPos=PRON|Gender=Masc|Number=Sing|Person=3|PronType=Dem	4	obj	_	_
 3	que	que	PRON	_	PronType=Rel	2	fixed	_	_
 4	aconteceu	acontecer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 5	com	com	ADP	_	_	7	case	_	_
 6	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
 7	oibr4	oibr4	PROPN	_	_	4	obl	_	SpaceAfter=No
-8	?	?	PUNCT	_	_	4	punct	_	SpaceAfter=No
+8	?	?	PUNCT	_	_	4	punct	_	_
 
 ~~~
 
@@ -63,7 +63,7 @@ The following 22 pairs of parts of speech are connected with `fixed`: <tt><a hre
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 fixed	color:blue
-1	de	de	ADP	_	_	3	advmod	_	_
+1	de	de	ADP	_	ExtPos=ADV	3	advmod	_	_
 2	novo	novo	NOUN	_	Gender=Masc|Number=Sing	1	fixed	_	_
 3	testando	testar	VERB	_	VerbForm=Ger	0	root	_	_
 4	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
@@ -77,7 +77,7 @@ The following 22 pairs of parts of speech are connected with `fixed`: <tt><a hre
 12	ou	ou	CCONJ	_	_	13	cc	_	_
 13	volta	voltar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	conj	_	_
 14	?	?	PUNCT	_	_	11	punct	_	_
-15	#PETR4	#PETR4	PROPN	_	_	3	parataxis	_	SpaceAfter=No
+15	#PETR4	#PETR4	PROPN	_	_	3	parataxis	_	_
 
 ~~~
 

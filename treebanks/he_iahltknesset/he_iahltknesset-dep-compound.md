@@ -47,7 +47,7 @@ The following 27 pairs of parts of speech are connected with `compound`: <tt><a 
 1	ה	ה	DET	DET	Definite=Def|PronType=Art	2	det	_	_
 2	נושא	נושא	NOUN	NOUN	Gender=Masc|Number=Sing	3	nsubj:pass	_	_
 3	נבדק	נבדק	VERB	VERB	Gender=Masc|HebBinyan=NIFAL|Number=Sing|Person=3|Tense=Past|Voice=Pass	0	root	_	_
-4	על	על	ADP	ADP	_	7	case	_	SpaceAfter=No
+4	על	על	ADP	ADP	ExtPos=ADP	7	case	_	SpaceAfter=No
 5	-	-	PUNCT	PUNCT	_	4	punct	_	SpaceAfter=No
 6	ידי	יד	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Plur	4	fixed	_	_
 7	מפקד	מפקד	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	3	obl	_	_
@@ -67,7 +67,7 @@ The following 27 pairs of parts of speech are connected with `compound`: <tt><a 
 1	ה	ה	DET	DET	Definite=Def|PronType=Art	2	det	_	_
 2	נושא	נושא	NOUN	NOUN	Gender=Masc|Number=Sing	3	nsubj:pass	_	_
 3	נבדק	נבדק	VERB	VERB	Gender=Masc|HebBinyan=NIFAL|Number=Sing|Person=3|Tense=Past|Voice=Pass	0	root	_	_
-4	על	על	ADP	ADP	_	7	case	_	SpaceAfter=No
+4	על	על	ADP	ADP	ExtPos=ADP	7	case	_	SpaceAfter=No
 5	-	-	PUNCT	PUNCT	_	4	punct	_	SpaceAfter=No
 6	ידי	יד	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Plur	4	fixed	_	_
 7	מפקד	מפקד	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	3	obl	_	_

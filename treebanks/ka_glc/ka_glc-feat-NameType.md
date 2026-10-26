@@ -9,20 +9,20 @@ udver: '2'
 This feature is language-specific.
 It occurs with 3 different values: `Geo`, `Prs`, `Sur`.
 
-1566 tokens (3%) have a non-empty value of `NameType`.
-933 types (6%) occur at least once with a non-empty value of `NameType`.
+1559 tokens (3%) have a non-empty value of `NameType`.
+930 types (6%) occur at least once with a non-empty value of `NameType`.
 797 lemmas (9%) occur at least once with a non-empty value of `NameType`.
-The feature is used with 1 part-of-speech tags: <tt><a href="ka_glc-pos-PROPN.html">PROPN</a></tt> (1566; 3% instances).
+The feature is used with 1 part-of-speech tags: <tt><a href="ka_glc-pos-PROPN.html">PROPN</a></tt> (1559; 3% instances).
 
 ### `PROPN`
 
-1566 <tt><a href="ka_glc-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `NameType`.
+1559 <tt><a href="ka_glc-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `NameType`.
 
-The most frequent other feature values with which `PROPN` and `NameType` co-occurred: <tt><a href="ka_glc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1548; 99%).
+The most frequent other feature values with which `PROPN` and `NameType` co-occurred: <tt><a href="ka_glc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1541; 99%).
 
 `PROPN` tokens may have the following values of `NameType`:
 
-* `Geo` (694; 44% of non-empty `NameType`): <em>საქართველოს, საქართველო, თბილისის, ევროპა, აზერბაიჯანის, ამერიკის, თბილის, კავკასიის, ამერიკა, გერმანია</em>
+* `Geo` (687; 44% of non-empty `NameType`): <em>საქართველოს, საქართველო, თბილისის, ევროპა, აზერბაიჯანის, ამერიკის, თბილის, კავკასიის, ამერიკა, გერმანია</em>
 * `Prs` (500; 32% of non-empty `NameType`): <em>ალექსანდრე, გიორგი, ვახტანგ, ჯონ, არისტოტელე, არისტოტელეს, დე, კონფუცის, მაგმური, გივი</em>
 * `Sur` (372; 24% of non-empty `NameType`): <em>ნიუტონის, რუსთაველის, ტიურინგის, გალილეის, კლარკის, ტოლკინის, ჯანდიერის, გოგინაშვილი, გოგინაშვილის, თუმანიშვილის</em>
 
@@ -40,5 +40,5 @@ The most frequent other feature values with which `PROPN` and `NameType` co-occu
 
 The 10 most frequent relations where parent and child node agree in `NameType`:
 <tt>PROPN --[<tt><a href="ka_glc-dep-conj.html">conj</a></tt>]--> PROPN</tt> (122; 92%),
-<tt>PROPN --[<tt><a href="ka_glc-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (10; 63%).
+<tt>PROPN --[<tt><a href="ka_glc-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (7; 54%).
 

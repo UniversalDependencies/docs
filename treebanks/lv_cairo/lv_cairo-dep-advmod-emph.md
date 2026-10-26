@@ -23,7 +23,7 @@ The following 2 pairs of parts of speech are connected with `advmod:emph`: <tt><
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 7 advmod:emph	color:blue
-1	Viņai	viņa	PRON	pp3fsdn	Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	obl	2:obl:dat	LvtbNodeId=a-c70-Cairo-p17s1w1
+1	Viņai	viņa	PRON	pp3fsdn	Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	2:nsubj|3:nsubj	LvtbNodeId=a-c70-Cairo-p17s1w1
 2	vajadzēja	vajadzēt	VERB	vonisi330an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-c70-Cairo-p17s1w2
 3	apgriezt	apgriezt	VERB	vmnn0t1000n	Polarity=Pos|VerbForm=Inf	2	xcomp	2:xcomp	LvtbNodeId=a-c70-Cairo-p17s1w3
 4	matus	mats	NOUN	ncmpa1	Case=Acc|Gender=Masc|Number=Plur	3	obj	3:obj	LvtbNodeId=a-c70-Cairo-p17s1w4|SpaceAfter=No

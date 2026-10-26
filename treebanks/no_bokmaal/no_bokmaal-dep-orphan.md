@@ -25,12 +25,12 @@ The following 1 pairs of parts of speech are connected with `orphan`: <tt><a hre
 1	Hvis	hvis	SCONJ	sbu	_	2	orphan	_	_
 2	ikke	ikke	PART	adv	Polarity=Neg	9	advcl	_	_
 3	må	måtte	AUX	verb	Mood=Ind|Tense=Pres|VerbForm=Fin	9	aux	_	_
-4	den	den	DET	det	Gender=Masc|Number=Sing|PronType=Dem	6	det	_	_
+4	den	den	DET	det	Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
 5	avbildede	avbilde	ADJ	adj	Definite=Def|Number=Sing|VerbForm=Part	6	amod	_	_
 6	kaffen	kaffe	NOUN	subst	Definite=Def|Gender=Masc|Number=Sing	9	nsubj	_	_
 7	være	være	AUX	verb	VerbForm=Inf	9	cop	_	_
 8	veldig	veldig	ADJ	adj	Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	9	advmod	_	_
-9	kald	kald	ADJ	adj	Definite=Ind|Degree=Pos|Gender=Fem,Masc|Number=Sing	0	root	_	SpaceAfter=No
+9	kald	kald	ADJ	adj	Definite=Ind|Degree=Pos|Gender=Com|Number=Sing	0	root	_	SpaceAfter=No
 10	.	$.	PUNCT	clb	_	9	punct	_	_
 
 ~~~

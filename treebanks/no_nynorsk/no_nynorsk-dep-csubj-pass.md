@@ -26,7 +26,7 @@ The following 1 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 1	Korleis	korleis	ADV	adv	_	3	advmod	_	_
 2	livet	liv	NOUN	subst	Gender=Neut	3	nsubj	_	_
 3	var	vere	VERB	verb	Mood=Ind|Tense=Past|VerbForm=Fin	14	csubj:pass	_	_
-4	den	den	DET	det	Gender=Masc|PronType=Dem	5	det	_	_
+4	den	den	DET	det	Gender=Masc|PronType=Art	5	det	_	_
 5	gongen	gong	NOUN	subst	Gender=Masc	3	obl	_	_
 6	når	når	SCONJ	sbu	_	8	mark	_	_
 7	det	det	PRON	pron	Gender=Neut|Person=3|PronType=Prs	8	expl	_	_

@@ -11,4 +11,4 @@ The subtype `parataxis:rt` is used in TwittIrish for retweets. The 'RT' marker, 
 RT @user: Féile Charn Tóchair ag dul ó neart go neart http://t.co/Faooonw2jx
 parataxis:rt(Féile, RT) 
 ~~~
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:11:26 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:41 CEST -->

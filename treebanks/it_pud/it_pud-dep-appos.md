@@ -30,7 +30,7 @@ The following 13 pairs of parts of speech are connected with `appos`: <tt><a hre
 6	è	essere	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	_
 7	Bob	Bob	PROPN	NNP	Gender=Masc|Number=Sing	6	nsubj	_	SpaceAfter=No
 8	,	,	PUNCT	,	_	7	punct	_	_
-9	una	uno	DET	DT	Gender=Fem|Number=Sing	10	det	_	_
+9	una	uno	DET	DT	Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
 10	fonte	fonte	NOUN	NN	Gender=Fem|Number=Sing	7	appos	_	_
 11	costante	costante	ADJ	JJ	Gender=Fem|Number=Sing	10	amod	_	_
 12	di	di	ADP	IN	_	13	case	_	_
@@ -54,7 +54,7 @@ The following 13 pairs of parts of speech are connected with `appos`: <tt><a hre
 6	Elaine	Elaine	PROPN	NNP	Gender=Fem|Number=Sing	4	appos	_	SpaceAfter=No
 7	,	,	PUNCT	,	_	4	punct	_	_
 8	durante	durante	ADP	IN	_	10	case	_	_
-9	le	il	DET	DT	Gender=Fem|Number=Plur	10	det	_	_
+9	le	il	DET	DT	Gender=Fem|Number=Plur|PronType=Art	10	det	_	_
 10	riprese	ripresa	NOUN	NN	Gender=Fem|Number=Plur	2	obl	_	_
 11	di	di	ADP	IN	_	12	case	_	_
 12	That	That	PROPN	NNP	Gender=Masc|Number=Sing	10	nmod	_	_
@@ -73,7 +73,7 @@ The following 13 pairs of parts of speech are connected with `appos`: <tt><a hre
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 10 appos	color:blue
-1	Il	il	DET	DT	Gender=Masc|Number=Sing	4	det	_	_
+1	Il	il	DET	DT	Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
 2	suo	suo	PRON	DTP$	Gender=Masc|Number=Sing|Number[psor]=Sing|Person=3|PronType=Prs	4	det:poss	_	_
 3	ultimo	ultimo	ADJ	JJ	Gender=Masc|Number=Sing	4	amod	_	_
 4	saggio	saggio	NOUN	NN	Gender=Masc|Number=Sing	7	nsubj	_	_

@@ -21,7 +21,7 @@ The morphological tokenization of the treebank involves "non-standard" units. We
 
 ### <a name="Aff">`Aff`</a>: affix
 
-Token that starts or ends with a dash occupying the positions of [pronoun](pos/PRON), [particle](pos/PART), [subordinating conjunction](pos/SCONJ) or [other](pos/X), depending on the syntactic function.
+Token that starts or ends with a dash occupying the positions of [pronoun](bej-pos/PRON), [particle](bej-pos/PART), [subordinating conjunction](bej-pos/SCONJ) or [other](bej-pos/X), depending on the syntactic function.
 
 #### Examples
 
@@ -29,7 +29,7 @@ Token that starts or ends with a dash occupying the positions of [pronoun](pos/P
 
 ### <a name="Clit">`Clit`</a>: clitic
 
-Token that starts or ends with a equal sign occupying the positions of [pronoun](pos/PRON), [determiner](pos/DET), [subordinating conjunction](pos/SCONJ), [coordinating conjunction](pos/CCONJ) or [adposition](pos/ADP), depending on the syntactic function
+Token that starts or ends with a equal sign occupying the positions of [pronoun](bej-pos/PRON), [determiner](bej-pos/DET), [subordinating conjunction](bej-pos/SCONJ), [coordinating conjunction](bej-pos/CCONJ) or [adposition](bej-pos/ADP), depending on the syntactic function
 
 #### Examples
 - _=i_ (`PRON`; Case Nominative; Possessive)
@@ -50,4 +50,4 @@ Token which is unfinished like false starts, marked by the hash sign.
 #### Examples
 
 - _aː#_ (False start `DET`)
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:08 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:21 CEST -->

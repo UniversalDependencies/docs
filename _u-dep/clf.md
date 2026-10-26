@@ -33,10 +33,10 @@ Here are some examples from Mandarin/Putonghua Chinese:
 
 Analogous examples from Thai:
 
-* นักเรียนสามคน nâkríán sám gʰn = “three students”, literally “student three [human-classifier]”
-* ต้นไม้สามต้น t²nmai² sám t²n = “three trees”, literally “tree three [tree-classifier]”
-* นกสามตัว nk sám túá = “three birds”, literally “bird three [animal-classifier]”
-* แม่น้ำสามสาย mǽ¹nã² sám sáy = “three rivers”, literally “river three [river-classifier]”
+* นักเรียนสามคน nạkriaːn saːm gʰn = “three students”, literally “student three [human-classifier]”
+* ต้นไม้สามต้น tə̂nmạî saːm tə̂n = “three trees”, literally “tree three [tree-classifier]”
+* นกสามตัว nk saːm tuaː = “three birds”, literally “bird three [animal-classifier]”
+* แม่น้ำสามสาย mæ̀ːnã̂ː saːm saːy = “three rivers”, literally “river three [river-classifier]”
 
 Syntactically, the classifier groups with the numeral rather than the noun and we therefore treat
 classifiers as functional dependents of numerals (or possessives) using the new `clf` relation. (This
@@ -55,11 +55,11 @@ clf(three, CLF)
 ~~~
 
 ~~~ sdparse
-แมว/NOUN สาม/NUM ตัว/NOUN \n mǽw sám túá \n cat three CLF
+แมว/NOUN สาม/NUM ตัว/NOUN \n mæːw saːm tuaː \n cat three CLF
 nummod(แมว, สาม)
 clf(สาม, ตัว)
-nummod(mǽw, sám)
-clf(sám, túá)
+nummod(mæːw, saːm)
+clf(saːm, tuaː)
 nummod(cat, three)
 clf(three, CLF)
 ~~~
@@ -77,6 +77,28 @@ clf(zhè, liàng)
 obj(Take, bus)
 det(bus, this)
 clf(this, CLF)
+~~~
+
+Similarly in Thai: “Physicians don't have these tools.”
+<!-- UD_Thai-PUD sentence n01041018 -->
+
+~~~ sdparse
+แพทย์ ไม่ มี เครื่องมือ เหล่า นี้ \n bʰæːdʰy mạì miː gʰeːrǜː'ŋmüː' heːlàː nîː \n physician not have tool CLF this
+nsubj(มี, แพทย์)
+advmod(มี, ไม่)
+obj(มี, เครื่องมือ)
+clf(นี้, เหล่า)
+det(เครื่องมือ, นี้)
+nsubj(miː, bʰæːdʰy)
+advmod(miː, mạì)
+obj(miː, gʰeːrǜː'ŋmüː')
+clf(nîː, heːlàː)
+det(gʰeːrǜː'ŋmüː', nîː)
+nsubj(have, physician)
+advmod(have, not)
+obj(have, tool)
+clf(this, CLF)
+det(tool, this)
 ~~~
 
 Classifier words also occur in various other constructions, and so it is important to distinguish the word in a particular
@@ -118,4 +140,4 @@ nummod(cups, three)
 amod(oats, rolled)
 nmod(cups, oats)
 ~~~
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:36 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:49 CEST -->

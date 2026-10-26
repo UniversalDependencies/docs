@@ -10,10 +10,10 @@ This relation is universal.
 
 499 nodes (1%) are attached to their parents as `xcomp`.
 
-497 instances of `xcomp` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.54709418837675.
+496 instances of `xcomp` (99%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.55110220440882.
 
-The following 10 pairs of parts of speech are connected with `xcomp`: <tt><a href="pt_dantestocks-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_dantestocks-pos-VERB.html">VERB</a></tt> (402; 81% instances), <tt><a href="pt_dantestocks-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_dantestocks-pos-ADJ.html">ADJ</a></tt> (54; 11% instances), <tt><a href="pt_dantestocks-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_dantestocks-pos-NOUN.html">NOUN</a></tt> (20; 4% instances), <tt><a href="pt_dantestocks-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_dantestocks-pos-ADV.html">ADV</a></tt> (8; 2% instances), <tt><a href="pt_dantestocks-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_dantestocks-pos-AUX.html">AUX</a></tt> (5; 1% instances), <tt><a href="pt_dantestocks-pos-AUX.html">AUX</a></tt>-<tt><a href="pt_dantestocks-pos-VERB.html">VERB</a></tt> (4; 1% instances), <tt><a href="pt_dantestocks-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_dantestocks-pos-PROPN.html">PROPN</a></tt> (3; 1% instances), <tt><a href="pt_dantestocks-pos-PRON.html">PRON</a></tt>-<tt><a href="pt_dantestocks-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="pt_dantestocks-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_dantestocks-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="pt_dantestocks-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_dantestocks-pos-X.html">X</a></tt> (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `xcomp`: <tt><a href="pt_dantestocks-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_dantestocks-pos-VERB.html">VERB</a></tt> (402; 81% instances), <tt><a href="pt_dantestocks-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_dantestocks-pos-ADJ.html">ADJ</a></tt> (54; 11% instances), <tt><a href="pt_dantestocks-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_dantestocks-pos-NOUN.html">NOUN</a></tt> (20; 4% instances), <tt><a href="pt_dantestocks-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_dantestocks-pos-ADV.html">ADV</a></tt> (8; 2% instances), <tt><a href="pt_dantestocks-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_dantestocks-pos-AUX.html">AUX</a></tt> (5; 1% instances), <tt><a href="pt_dantestocks-pos-AUX.html">AUX</a></tt>-<tt><a href="pt_dantestocks-pos-VERB.html">VERB</a></tt> (4; 1% instances), <tt><a href="pt_dantestocks-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_dantestocks-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="pt_dantestocks-pos-PRON.html">PRON</a></tt>-<tt><a href="pt_dantestocks-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="pt_dantestocks-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_dantestocks-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="pt_dantestocks-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_dantestocks-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="pt_dantestocks-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_dantestocks-pos-X.html">X</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -35,7 +35,7 @@ The following 10 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 11	R$	R$	SYM	_	_	8	nmod	_	SpaceAfter=No
 12	13	13	NUM	_	NumType=Card	11	nummod	_	_
 13	?	?	PUNCT	_	_	2	punct	_	_
-14	=)	=)	SYM	_	_	2	discourse	_	SpaceAfter=No
+14	=)	=)	SYM	_	_	2	discourse	_	_
 
 ~~~
 
@@ -57,7 +57,7 @@ The following 10 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 9	atentos	atento	ADJ	_	Gender=Masc|Number=Plur	8	xcomp	_	SpaceAfter=No
 10	!	!	PUNCT	_	_	8	punct	_	SpaceAfter=No
 11	!	!	PUNCT	_	_	8	punct	_	SpaceAfter=No
-12	!	!	PUNCT	_	_	8	punct	_	SpaceAfter=No
+12	!	!	PUNCT	_	_	8	punct	_	_
 
 ~~~
 
@@ -76,7 +76,7 @@ The following 10 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 6	e	e	CCONJ	_	_	7	cc	_	_
 7	Dividendos	dividendo	NOUN	_	Gender=Masc|Number=Plur	5	conj	_	_
 8	hoje	hoje	ADV	_	_	2	advmod	_	SpaceAfter=No
-9	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	2	punct	_	_
 
 ~~~
 

@@ -23,17 +23,17 @@ The following 58 pairs of parts of speech are connected with `obl`: <tt><a href=
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 6 obl	color:blue
-1	et	et	CCONJ	C-	_	7	cc	_	ref=MATT_5.41
-2	quicumque	quicumque	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	4	nsubj	_	ref=MATT_5.41
-3	te	tu	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	obj	_	ref=MATT_5.41
-4	angariaverit	angario	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	7	dislocated	_	ref=MATT_5.41
-5	mille	mille	NUM	Ma	_	6	nummod	_	ref=MATT_5.41
-6	passus	passus	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	4	obl	_	ref=MATT_5.41
-7	vade	vado	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_5.41
-8	cum	cum	ADP	R-	_	9	case	_	ref=MATT_5.41
-9	illo	ille	PRON	Pd	Case=Abl|Gender=Masc|Number=Sing	7	obl	_	ref=MATT_5.41
-10	alia	alius	PRON	Px	Case=Acc|Gender=Neut|Number=Plur	7	obl	_	ref=MATT_5.41
-11	duo	duo	NUM	Ma	Case=Acc|Gender=Neut|Number=Plur	10	nummod	_	ref=MATT_5.41
+1	et	et	CCONJ	C-	_	7	cc	_	Ref=MATT_5.41
+2	quicumque	quicumque	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	4	nsubj	_	Ref=MATT_5.41
+3	te	tu	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	obj	_	Ref=MATT_5.41
+4	angariaverit	angario	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	7	dislocated	_	Ref=MATT_5.41
+5	mille	mille	NUM	Ma	_	6	nummod	_	Ref=MATT_5.41
+6	passus	passus	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	4	obl	_	Ref=MATT_5.41
+7	vade	vado	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_5.41
+8	cum	cum	ADP	R-	_	9	case	_	Ref=MATT_5.41
+9	illo	ille	PRON	Pd	Case=Abl|Gender=Masc|Number=Sing	7	obl	_	Ref=MATT_5.41
+10	alia	alius	PRON	Px	Case=Acc|Gender=Neut|Number=Plur	7	obl	_	Ref=MATT_5.41
+11	duo	duo	NUM	Ma	Case=Acc|Gender=Neut|Number=Plur	10	nummod	_	Ref=MATT_5.41
 
 ~~~
 
@@ -44,17 +44,17 @@ The following 58 pairs of parts of speech are connected with `obl`: <tt><a href=
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 9 obl	color:blue
-1	et	et	CCONJ	C-	_	7	cc	_	ref=MATT_5.41
-2	quicumque	quicumque	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	4	nsubj	_	ref=MATT_5.41
-3	te	tu	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	obj	_	ref=MATT_5.41
-4	angariaverit	angario	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	7	dislocated	_	ref=MATT_5.41
-5	mille	mille	NUM	Ma	_	6	nummod	_	ref=MATT_5.41
-6	passus	passus	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	4	obl	_	ref=MATT_5.41
-7	vade	vado	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_5.41
-8	cum	cum	ADP	R-	_	9	case	_	ref=MATT_5.41
-9	illo	ille	PRON	Pd	Case=Abl|Gender=Masc|Number=Sing	7	obl	_	ref=MATT_5.41
-10	alia	alius	PRON	Px	Case=Acc|Gender=Neut|Number=Plur	7	obl	_	ref=MATT_5.41
-11	duo	duo	NUM	Ma	Case=Acc|Gender=Neut|Number=Plur	10	nummod	_	ref=MATT_5.41
+1	et	et	CCONJ	C-	_	7	cc	_	Ref=MATT_5.41
+2	quicumque	quicumque	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	4	nsubj	_	Ref=MATT_5.41
+3	te	tu	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	obj	_	Ref=MATT_5.41
+4	angariaverit	angario	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	7	dislocated	_	Ref=MATT_5.41
+5	mille	mille	NUM	Ma	_	6	nummod	_	Ref=MATT_5.41
+6	passus	passus	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	4	obl	_	Ref=MATT_5.41
+7	vade	vado	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_5.41
+8	cum	cum	ADP	R-	_	9	case	_	Ref=MATT_5.41
+9	illo	ille	PRON	Pd	Case=Abl|Gender=Masc|Number=Sing	7	obl	_	Ref=MATT_5.41
+10	alia	alius	PRON	Px	Case=Acc|Gender=Neut|Number=Plur	7	obl	_	Ref=MATT_5.41
+11	duo	duo	NUM	Ma	Case=Acc|Gender=Neut|Number=Plur	10	nummod	_	Ref=MATT_5.41
 
 ~~~
 
@@ -65,10 +65,10 @@ The following 58 pairs of parts of speech are connected with `obl`: <tt><a href=
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 4 obl	color:blue
-1	et	et	CCONJ	C-	_	2	cc	_	ref=MARK_5.15
-2	veniunt	venio	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MARK_5.15
-3	ad	ad	ADP	R-	_	4	case	_	ref=MARK_5.15
-4	Iesum	Iesus	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	2	obl	_	ref=MARK_5.15
+1	et	et	CCONJ	C-	_	2	cc	_	Ref=MARK_5.15
+2	veniunt	venio	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MARK_5.15
+3	ad	ad	ADP	R-	_	4	case	_	Ref=MARK_5.15
+4	Iesum	Iesus	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	2	obl	_	Ref=MARK_5.15
 
 ~~~
 

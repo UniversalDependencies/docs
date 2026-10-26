@@ -40,7 +40,7 @@ The following 27 pairs of parts of speech are connected with `advmod:emph`: <tt>
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 3 advmod:emph	color:blue
-1	?	ne	PRON	Ques	Case=Nom|Number=Sing|Person=3	0	root	_	_
+1	?	ne	PRON	Ques	Case=Nom|Number=Sing|Person=3|PronType=Int	0	root	_	_
 2	eydi	i	AUX	Zero	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past	1	cop	_	_
 3	ki	ki	CCONJ	Conj	_	1	advmod:emph	_	_
 4	onlar	o	PRON	Demons	Case=Nom|Number=Plur|Person=3|PronType=Dem	1	nsubj	_	SpaceAfter=No

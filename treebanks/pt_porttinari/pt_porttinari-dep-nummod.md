@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1793 nodes (1%) are attached to their parents as `nummod`.
+1794 nodes (1%) are attached to their parents as `nummod`.
 
-1628 instances of `nummod` (91%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.08533184606804.
+1629 instances of `nummod` (91%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.08528428093645.
 
-The following 5 pairs of parts of speech are connected with `nummod`: <tt><a href="pt_porttinari-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_porttinari-pos-NUM.html">NUM</a></tt> (1340; 75% instances), <tt><a href="pt_porttinari-pos-SYM.html">SYM</a></tt>-<tt><a href="pt_porttinari-pos-NUM.html">NUM</a></tt> (429; 24% instances), <tt><a href="pt_porttinari-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_porttinari-pos-NUM.html">NUM</a></tt> (16; 1% instances), <tt><a href="pt_porttinari-pos-NUM.html">NUM</a></tt>-<tt><a href="pt_porttinari-pos-NUM.html">NUM</a></tt> (5; 0% instances), <tt><a href="pt_porttinari-pos-X.html">X</a></tt>-<tt><a href="pt_porttinari-pos-NUM.html">NUM</a></tt> (3; 0% instances).
+The following 5 pairs of parts of speech are connected with `nummod`: <tt><a href="pt_porttinari-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_porttinari-pos-NUM.html">NUM</a></tt> (1336; 74% instances), <tt><a href="pt_porttinari-pos-SYM.html">SYM</a></tt>-<tt><a href="pt_porttinari-pos-NUM.html">NUM</a></tt> (429; 24% instances), <tt><a href="pt_porttinari-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_porttinari-pos-NUM.html">NUM</a></tt> (16; 1% instances), <tt><a href="pt_porttinari-pos-X.html">X</a></tt>-<tt><a href="pt_porttinari-pos-NUM.html">NUM</a></tt> (7; 0% instances), <tt><a href="pt_porttinari-pos-NUM.html">NUM</a></tt>-<tt><a href="pt_porttinari-pos-NUM.html">NUM</a></tt> (6; 0% instances).
 
 
 ~~~ conllu
@@ -38,7 +38,7 @@ The following 5 pairs of parts of speech are connected with `nummod`: <tt><a hre
 14	duas	dois	NUM	_	Gender=Fem|NumType=Card	15	nummod	15:nummod	_
 15	vezes	vez	NOUN	_	Gender=Fem|Number=Plur	13	obl	13:obl	SpaceAfter=No
 16	"	"	PUNCT	_	_	13	punct	13:punct	SpaceAfter=No
-17	.	.	PUNCT	_	_	10	punct	10:punct	SpaceAfter=No
+17	.	.	PUNCT	_	_	10	punct	10:punct	_
 
 ~~~
 
@@ -56,7 +56,7 @@ The following 5 pairs of parts of speech are connected with `nummod`: <tt><a hre
 5	de	de	ADP	_	_	7	case	7:case	_
 6	as	o	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	7:det	_
 7	preferências	preferência	NOUN	_	Gender=Fem|Number=Plur	4	nmod	4:nmod:de	SpaceAfter=No
-8	.	.	PUNCT	_	_	2	punct	2:punct	SpaceAfter=No
+8	.	.	PUNCT	_	_	2	punct	2:punct	_
 
 ~~~
 
@@ -80,7 +80,7 @@ The following 5 pairs of parts of speech are connected with `nummod`: <tt><a hre
 11	de	de	ADP	_	_	13	case	13:case	_
 12	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	13:det	_
 13	Sul	Sul	PROPN	_	_	10	nmod	10:nmod:de	SpaceAfter=No
-14	.	.	PUNCT	_	_	3	punct	3:punct	SpaceAfter=No
+14	.	.	PUNCT	_	_	3	punct	3:punct	_
 
 ~~~
 

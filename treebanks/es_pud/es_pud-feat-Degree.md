@@ -23,7 +23,7 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
 `ADV` tokens may have the following values of `Degree`:
 
 * `Cmp` (114; 100% of non-empty `Degree`): <em>más, menos</em>
-* `EMPTY` (779): <em>no, también, cuando, después, ya, muy, tanto, antes, donde, solo</em>
+* `EMPTY` (765): <em>no, también, cuando, después, ya, muy, antes, donde, solo, tanto</em>
 
 ### `ADJ`
 
@@ -37,7 +37,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 * `Cmp` (31; 79% of non-empty `Degree`): <em>mayor, mejores, mejor, mayores, peor, Stranger, menor, menores, peores</em>
 * `Pos` (2; 5% of non-empty `Degree`): <em>American, Talking</em>
 * `Sup` (5; 13% of non-empty `Degree`): <em>máxima, pésimo</em>
-* `EMPTY` (1441): <em>gran, primera, nueva, nacional, grandes, primer, últimos, británica, nuevos, Unidos</em>
+* `EMPTY` (1446): <em>gran, primera, nueva, nacional, grandes, primer, últimos, británica, nuevos, Unidos</em>
 
 `Degree` seems to be **lexical feature** of `ADJ`. 100% lemmas (10) occur only with one value of `Degree`.
 

@@ -7,13 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Swedish-PUD: Relations: `nsubj:pass`
 
 This relation is a language-specific subtype of <tt><a href="sv_pud-dep-nsubj.html">nsubj</a></tt>.
+There are also 1 other language-specific subtypes of `nsubj`: <tt><a href="sv_pud-dep-nsubj-outer.html">nsubj:outer</a></tt>.
 
-254 nodes (1%) are attached to their parents as `nsubj:pass`.
+252 nodes (1%) are attached to their parents as `nsubj:pass`.
 
-213 instances of `nsubj:pass` (84%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.14173228346457.
+212 instances of `nsubj:pass` (84%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.1468253968254.
 
-The following 8 pairs of parts of speech are connected with `nsubj:pass`: <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt> (123; 48% instances), <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> (91; 36% instances), <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt> (34; 13% instances), <tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sv_pud-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_pud-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The following 5 pairs of parts of speech are connected with `nsubj:pass`: <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt> (123; 49% instances), <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> (93; 37% instances), <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt> (34; 13% instances), <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_pud-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -68,7 +69,7 @@ The following 8 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 4	oktober	oktober	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	2	obl	2:obl	_
 5	1832	1832	NUM	RG|NOM	Case=Nom	4	nummod	4:nummod	_
 6	i	i	ADP	PP	_	8	case	8:case	_
-7	en	en	DET	DT|UTR|SIN|IND	Definite=Ind|Gender=Com|Number=Sing	8	det	8:det	_
+7	en	en	DET	DT|UTR|SIN|IND	Definite=Ind|Gender=Com|Number=Sing|PronType=Art	8	det	8:det	_
 8	by	by	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	2	obl	2:obl:i	_
 9	nära	nära	ADP	PP	_	10	case	10:case	_
 10	Sunderland	Sunderland	PROPN	PM|NOM	Case=Nom	8	nmod	8:nmod:nära	SpaceAfter=No

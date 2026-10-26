@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-122 nodes (0%) are attached to their parents as `vocative`.
+123 nodes (0%) are attached to their parents as `vocative`.
 
-91 instances of `vocative` (75%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.88524590163934.
+92 instances of `vocative` (75%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.89430894308943.
 
-The following 10 pairs of parts of speech are connected with `vocative`: <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt>-<tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> (61; 50% instances), <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt>-<tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (19; 16% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> (16; 13% instances), <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt>-<tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> (8; 7% instances), <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt>-<tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (6; 5% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (4; 3% instances), <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> (3; 2% instances), <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> (2; 2% instances), <tt><a href="gd_arcosg-pos-X.html">X</a></tt>-<tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> (2; 2% instances), <tt><a href="gd_arcosg-pos-INTJ.html">INTJ</a></tt>-<tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
+The following 10 pairs of parts of speech are connected with `vocative`: <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt>-<tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> (62; 50% instances), <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt>-<tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (19; 15% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> (16; 13% instances), <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt>-<tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> (8; 7% instances), <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt>-<tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (6; 5% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (4; 3% instances), <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> (3; 2% instances), <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> (2; 2% instances), <tt><a href="gd_arcosg-pos-X.html">X</a></tt>-<tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> (2; 2% instances), <tt><a href="gd_arcosg-pos-INTJ.html">INTJ</a></tt>-<tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -30,8 +30,8 @@ The following 10 pairs of parts of speech are connected with `vocative`: <tt><a 
 6	sandwiches	sandwiches	NOUN	Xfe	Foreign=Yes	3	obj	_	_
 7	aig	aig	ADP	Sp	_	8	case	_	_
 8	thu	thu	PRON	Pp2s	Number=Sing|Person=2|PronType=Prs	6	nmod	_	_
-9	an-diugh	an-diugh	ADV	Rt	_	3	advmod	_	_
-10	[Name]	[Name]	PROPN	Nn-mv	Case=Voc|Gender=Masc	3	vocative	_	Anonymised=Yes|SpaceAfter=No
+9	an-diugh	an-diugh	ADV	Rt	AdvType=Tim	3	advmod	_	_
+10	[Name]	[Name]	PROPN	Nn-mv	Case=Voc|Gender=Masc|NounType=Prs	3	vocative	_	Anonymised=Yes|SpaceAfter=No
 11	?	?	PUNCT	Fg	_	3	punct	_	_
 
 ~~~
@@ -68,14 +68,14 @@ The following 10 pairs of parts of speech are connected with `vocative`: <tt><a 
 4	cnatan	cnatan	NOUN	Ncsmn	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
 5	air	air	ADP	Sp	_	6	case	_	_
 6	duine	duine	NOUN	Ncsmd	Case=Dat|Gender=Masc|Number=Sing	2	xcomp:pred	_	_
-7	sam	sam	ADJ	Aq	_	6	amod	_	_
+7	sam	sam	ADJ	Aq	ExtPos=ADJ	6	amod	_	_
 8	bith	bi	ADJ	Aq	_	7	fixed	_	_
 9	eile	eile	ADJ	Aq-smd	Case=Dat|Gender=Masc|Number=Sing	6	amod	_	_
-10	thall	thall	ADV	Rs	_	11	advmod	_	_
-11	an	an	ADV	Rs	_	6	advmod	_	_
-12	sin	sin	ADV	Rs	_	11	fixed	_	_
+10	thall	thall	ADV	Rs	AdvType=Loc	11	advmod	_	_
+11	an	an	ADV	Rs	AdvType=Loc|ExtPos=ADV	6	advmod	_	_
+12	sin	sin	ADV	Rs	AdvType=Loc	11	fixed	_	_
 13	a	a	PART	Uv	PartType=Voc	14	case:voc	_	_
-14	[Name]	[Name]	PROPN	Nn-mv	Case=Voc|Gender=Masc	6	vocative	_	Anonymised=Yes|SpaceAfter=No
+14	[Name]	[Name]	PROPN	Nn-mv	Case=Voc|Gender=Masc|NounType=Prs	6	vocative	_	Anonymised=Yes|SpaceAfter=No
 15	?	?	PUNCT	Fg	_	2	punct	_	_
 
 ~~~

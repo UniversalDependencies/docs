@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-214 nodes (4%) are attached to their parents as `case`.
+212 nodes (4%) are attached to their parents as `case`.
 
-212 instances of `case` (99%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.44859813084112.
+210 instances of `case` (99%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.43867924528302.
 
-The following 16 pairs of parts of speech are connected with `case`: <tt><a href="uz_ut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uz_ut-pos-ADP.html">ADP</a></tt> (128; 60% instances), <tt><a href="uz_ut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uz_ut-pos-NOUN.html">NOUN</a></tt> (27; 13% instances), <tt><a href="uz_ut-pos-VERB.html">VERB</a></tt>-<tt><a href="uz_ut-pos-ADP.html">ADP</a></tt> (22; 10% instances), <tt><a href="uz_ut-pos-PRON.html">PRON</a></tt>-<tt><a href="uz_ut-pos-ADP.html">ADP</a></tt> (16; 7% instances), <tt><a href="uz_ut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uz_ut-pos-VERB.html">VERB</a></tt> (5; 2% instances), <tt><a href="uz_ut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="uz_ut-pos-ADP.html">ADP</a></tt> (5; 2% instances), <tt><a href="uz_ut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uz_ut-pos-ADP.html">ADP</a></tt> (2; 1% instances), <tt><a href="uz_ut-pos-ADV.html">ADV</a></tt>-<tt><a href="uz_ut-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="uz_ut-pos-NUM.html">NUM</a></tt>-<tt><a href="uz_ut-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="uz_ut-pos-NUM.html">NUM</a></tt>-<tt><a href="uz_ut-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="uz_ut-pos-PRON.html">PRON</a></tt>-<tt><a href="uz_ut-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="uz_ut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="uz_ut-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="uz_ut-pos-VERB.html">VERB</a></tt>-<tt><a href="uz_ut-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="uz_ut-pos-VERB.html">VERB</a></tt>-<tt><a href="uz_ut-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="uz_ut-pos-VERB.html">VERB</a></tt>-<tt><a href="uz_ut-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="uz_ut-pos-VERB.html">VERB</a></tt>-<tt><a href="uz_ut-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The following 16 pairs of parts of speech are connected with `case`: <tt><a href="uz_ut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uz_ut-pos-ADP.html">ADP</a></tt> (121; 57% instances), <tt><a href="uz_ut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uz_ut-pos-NOUN.html">NOUN</a></tt> (27; 13% instances), <tt><a href="uz_ut-pos-VERB.html">VERB</a></tt>-<tt><a href="uz_ut-pos-ADP.html">ADP</a></tt> (27; 13% instances), <tt><a href="uz_ut-pos-PRON.html">PRON</a></tt>-<tt><a href="uz_ut-pos-ADP.html">ADP</a></tt> (16; 8% instances), <tt><a href="uz_ut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uz_ut-pos-VERB.html">VERB</a></tt> (5; 2% instances), <tt><a href="uz_ut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="uz_ut-pos-ADP.html">ADP</a></tt> (5; 2% instances), <tt><a href="uz_ut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uz_ut-pos-ADP.html">ADP</a></tt> (2; 1% instances), <tt><a href="uz_ut-pos-ADV.html">ADV</a></tt>-<tt><a href="uz_ut-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="uz_ut-pos-NUM.html">NUM</a></tt>-<tt><a href="uz_ut-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="uz_ut-pos-NUM.html">NUM</a></tt>-<tt><a href="uz_ut-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="uz_ut-pos-PRON.html">PRON</a></tt>-<tt><a href="uz_ut-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="uz_ut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="uz_ut-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="uz_ut-pos-VERB.html">VERB</a></tt>-<tt><a href="uz_ut-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="uz_ut-pos-VERB.html">VERB</a></tt>-<tt><a href="uz_ut-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="uz_ut-pos-VERB.html">VERB</a></tt>-<tt><a href="uz_ut-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="uz_ut-pos-VERB.html">VERB</a></tt>-<tt><a href="uz_ut-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -22,14 +22,14 @@ The following 16 pairs of parts of speech are connected with `case`: <tt><a href
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 3 case	color:blue
-1	Toshkentda	Toshkent	PROPN	_	Case=Loc|Number=Sing	6	obl	_	_
+1	Toshkentda	Toshkent	PROPN	_	Case=Loc|Number=Sing	7	obl	_	_
 2	dzyudo	dzyudo	NOUN	_	Case=Nom|Number=Sing	5	obl	_	_
-3	bo‘yicha	bo‘yicha	ADP	_	_	2	case	_	_
+3	boʻyicha	boʻyicha	ADP	_	_	2	case	_	_
 4	Gran-pri	gran-pri	NOUN	_	Case=Nom|Number=Sing	5	nmod	_	_
-5	musobaqasi	musobaqa	NOUN	_	Case=Nom|Number=Sing	6	nsubj	_	_
-6	bo‘lib	bo‘l	VERB	_	VerbForm=Conv	0	root	_	_
-7	o‘tmoqda	o‘t	VERB	_	Aspect=Prog|Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	6	compound	_	SpaceAfter=No
-8	.	.	PUNCT	_	_	6	punct	_	_
+5	musobaqasi	musobaqa	NOUN	_	Case=Nom|Number=Sing	7	nsubj	_	_
+6	boʻlib	boʻl	VERB	_	VerbForm=Conv	7	compound:svc	_	_
+7	oʻtmoqda	oʻt	VERB	_	Aspect=Prog|Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	7	punct	_	_
 
 ~~~
 
@@ -41,7 +41,7 @@ The following 16 pairs of parts of speech are connected with `case`: <tt><a href
 # visual-style 5	fgColor:white
 # visual-style 5 6 case	color:blue
 1	Jang	jang	NOUN	_	Case=Nom|Number=Sing	7	nsubj	_	_
-2	to‘liqligicha	to‘liq	ADV	_	_	5	advmod	_	_
+2	toʻliqligicha	toʻliq	ADV	_	_	5	advmod	_	_
 3	Bahodir	Bahodir	PROPN	_	Case=Nom|Number=Sing	5	nmod	_	_
 4	Jalolovning	Jalolov	PROPN	_	Case=Gen|Number=Sing|Poss=Yes	3	flat	_	_
 5	ustunligi	ustunlik	NOUN	_	Case=Nom|Number=Sing	7	obl	_	_
@@ -64,7 +64,7 @@ The following 16 pairs of parts of speech are connected with `case`: <tt><a href
 4	yerni	yer	NOUN	_	Case=Nom|Number=Sing	5	obj	_	_
 5	olish	ol	VERB	_	VerbForm=Vnoun	10	advcl	_	_
 6	uchun	uchun	ADP	_	_	5	case	_	_
-7	o‘z	o‘z	PRON	_	Case=Gen|Number=Sing|Person=3|Poss=Yes|PronType=Prs	8	nmod	_	_
+7	oʻz	oʻz	PRON	_	Case=Gen|Number=Sing|Person=3|Poss=Yes|PronType=Prs	8	nmod	_	_
 8	kuchini	kuch	NOUN	_	Case=Acc|Number=Sing	10	obj	_	_
 9	safarbar	safarbar	NOUN	_	Case=Nom|Number=Sing	10	compound:lvc	_	_
 10	qilmoqda	qil	VERB	_	Aspect=Prog|Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No

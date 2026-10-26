@@ -11,7 +11,7 @@ It occurs with 1 different values: `Neg`.
 
 18723 tokens (1%) have a non-empty value of `Polarity`.
 2 types (0%) occur at least once with a non-empty value of `Polarity`.
-2 lemmas (0%) occur at least once with a non-empty value of `Polarity`.
+1 lemmas (0%) occur at least once with a non-empty value of `Polarity`.
 The feature is used with 1 part-of-speech tags: <tt><a href="de_hdt-pos-PART.html">PART</a></tt> (18723; 1% instances).
 
 ### `PART`

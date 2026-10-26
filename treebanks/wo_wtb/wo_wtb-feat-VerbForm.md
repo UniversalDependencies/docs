@@ -18,7 +18,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="wo_wtb-pos-VERB.htm
 
 7918 <tt><a href="wo_wtb-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="wo_wtb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (6541; 83%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="wo_wtb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (6542; 83%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
@@ -29,6 +29,7 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
   <tr><th>Paradigm <i>am</i></th><th><tt>Fin</tt></th><th><tt>Inf</tt></th></tr>
   <tr><td><tt>_</tt></td><td></td><td><em>am, amal, ame</em></td></tr>
   <tr><td><tt><tt><a href="wo_wtb-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="wo_wtb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt></tt></td><td><em>amee</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="wo_wtb-feat-ExtPos.html">ExtPos</a></tt><tt>=ADV</tt>|<tt><a href="wo_wtb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt></tt></td><td><em>Am</em></td><td></td></tr>
   <tr><td><tt><tt><a href="wo_wtb-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="wo_wtb-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>amkoon</em></td><td></td></tr>
   <tr><td><tt><tt><a href="wo_wtb-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="wo_wtb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="wo_wtb-feat-Person.html">Person</a></tt><tt>=2</tt></tt></td><td><em>Amal, am</em></td><td></td></tr>
   <tr><td><tt><tt><a href="wo_wtb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt></tt></td><td><em>am, ame, amee, amal, amati</em></td><td></td></tr>
@@ -68,7 +69,7 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
 
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
 <tt>VERB --[<tt><a href="wo_wtb-dep-conj.html">conj</a></tt>]--> VERB</tt> (717; 91%),
-<tt>VERB --[<tt><a href="wo_wtb-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (577; 74%),
+<tt>VERB --[<tt><a href="wo_wtb-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (577; 73%),
 <tt>VERB --[<tt><a href="wo_wtb-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (534; 84%),
 <tt>VERB --[<tt><a href="wo_wtb-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (254; 92%),
 <tt>VERB --[<tt><a href="wo_wtb-dep-compound-svc.html">compound:svc</a></tt>]--> VERB</tt> (61; 81%),

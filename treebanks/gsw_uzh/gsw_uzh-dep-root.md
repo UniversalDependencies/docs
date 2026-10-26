@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of root in UD_Swiss_German-UZH'
+title:  'Statistics of root in UD_Alemannic-UZH'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Swiss_German-UZH: Relations: `root`
+## Treebank Statistics: UD_Alemannic-UZH: Relations: `root`
 
 This relation is universal.
 

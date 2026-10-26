@@ -36,18 +36,20 @@ The most frequent other feature values with which `NOUN` and `Abbr` co-occurred:
 `NOUN` tokens may have the following values of `Abbr`:
 
 * `Yes` (196; 100% of non-empty `Abbr`): <em>x, x:n, y, klo, A, mk, A:n, Oy:n, B, B:n</em>
-* `EMPTY` (36837): <em>mies, vuoden, vuotta, asia, aikaa, äiti, vuonna, kertaa, osa, markkaa</em>
+* `EMPTY` (36845): <em>mies, vuoden, vuotta, asia, aikaa, äiti, vuonna, kertaa, osa, markkaa</em>
 
 `Abbr` seems to be **lexical feature** of `NOUN`. 100% lemmas (53) occur only with one value of `Abbr`.
 
 ### `PART`
 
-86 <tt><a href="fi_ftb-pos-PART.html">PART</a></tt> tokens (2% of all `PART` tokens) have a non-empty value of `Abbr`.
+86 <tt><a href="fi_ftb-pos-PART.html">PART</a></tt> tokens (3% of all `PART` tokens) have a non-empty value of `Abbr`.
+
+The most frequent other feature values with which `PART` and `Abbr` co-occurred: <tt><a href="fi_ftb-feat-Style.html">Style</a></tt><tt>=EMPTY</tt> (86; 100%).
 
 `PART` tokens may have the following values of `Abbr`:
 
 * `Yes` (86; 100% of non-empty `Abbr`): <em>mm., ns., esim., n., OK, jne, km/h, 70,00%, em., mk/kg</em>
-* `EMPTY` (5596): <em>niin, jo, myös, vielä, vain, kyllä, ihan, enää, nyt, kuitenkin</em>
+* `EMPTY` (2375): <em>niin, sitten, edes, ni, siis, juuri, kai, yhä, vaikka, aika</em>
 
 `Abbr` seems to be **lexical feature** of `PART`. 100% lemmas (34) occur only with one value of `Abbr`.
 
@@ -60,7 +62,7 @@ The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: 
 `ADJ` tokens may have the following values of `Abbr`:
 
 * `Yes` (1; 100% of non-empty `Abbr`): <em>huumorintaj.</em>
-* `EMPTY` (10488): <em>koko, hyvä, viime, ensi, hyvää, uusi, oma, ensimmäinen, uutta, uuden</em>
+* `EMPTY` (10487): <em>koko, hyvä, viime, ensi, hyvää, uusi, oma, ensimmäinen, uutta, uuden</em>
 
 ## Relations with Agreement in `Abbr`
 

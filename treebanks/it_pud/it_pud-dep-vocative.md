@@ -52,7 +52,7 @@ The following 2 pairs of parts of speech are connected with `vocative`: <tt><a h
 3	,	,	PUNCT	,	_	4	punct	_	_
 4	qualcuno	qualcuno	NOUN	NN	Gender=Masc|Number=Sing	12	nsubj	_	_
 5	presso	presso	ADP	IN	_	7	case	_	_
-6	la	il	DET	DT	Gender=Fem|Number=Sing	7	det	_	_
+6	la	il	DET	DT	Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
 7	sede	sede	NOUN	NN	Gender=Fem|Number=Sing	4	nmod	_	_
 8	australiana	australiano	ADJ	JJ	Gender=Fem|Number=Sing	7	amod	_	_
 9	di	di	ADP	IN	_	10	case	_	_

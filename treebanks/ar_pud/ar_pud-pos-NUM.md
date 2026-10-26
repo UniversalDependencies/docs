@@ -47,7 +47,7 @@ The 10 most frequent ambiguous types:  عشر (<tt><a href="ar_pud-pos-NUM.html"
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.000000 (the average of all parts of speech is 1.381137).
+The form / lemma ratio of `NUM` is 1.000000 (the average of all parts of speech is 1.380334).
 
 The 1st highest number of forms (1) was observed with the lemma “1”: 1.
 
@@ -66,7 +66,7 @@ Examples: 1، 10، 3، 100، 2015، 11، 20، 2010، 2017، 31
 
 ## Relations
 
-`NUM` nodes are attached to their parents using 8 different relations: <tt><a href="ar_pud-dep-nummod.html">nummod</a></tt> (149; 40% instances), <tt><a href="ar_pud-dep-obl.html">obl</a></tt> (102; 27% instances), <tt><a href="ar_pud-dep-nmod.html">nmod</a></tt> (71; 19% instances), <tt><a href="ar_pud-dep-obl-tmod.html">obl:tmod</a></tt> (20; 5% instances), <tt><a href="ar_pud-dep-conj.html">conj</a></tt> (11; 3% instances), <tt><a href="ar_pud-dep-nsubj.html">nsubj</a></tt> (8; 2% instances), <tt><a href="ar_pud-dep-obj.html">obj</a></tt> (7; 2% instances), <tt><a href="ar_pud-dep-appos.html">appos</a></tt> (3; 1% instances)
+`NUM` nodes are attached to their parents using 8 different relations: <tt><a href="ar_pud-dep-nummod.html">nummod</a></tt> (149; 40% instances), <tt><a href="ar_pud-dep-obl.html">obl</a></tt> (102; 27% instances), <tt><a href="ar_pud-dep-nmod.html">nmod</a></tt> (87; 23% instances), <tt><a href="ar_pud-dep-conj.html">conj</a></tt> (11; 3% instances), <tt><a href="ar_pud-dep-nsubj.html">nsubj</a></tt> (8; 2% instances), <tt><a href="ar_pud-dep-obj.html">obj</a></tt> (7; 2% instances), <tt><a href="ar_pud-dep-obl-tmod.html">obl:tmod</a></tt> (4; 1% instances), <tt><a href="ar_pud-dep-appos.html">appos</a></tt> (3; 1% instances)
 
 Parents of `NUM` nodes belong to 6 different parts of speech: <tt><a href="ar_pud-pos-NOUN.html">NOUN</a></tt> (184; 50% instances), <tt><a href="ar_pud-pos-ADV.html">ADV</a></tt> (76; 20% instances), <tt><a href="ar_pud-pos-NUM.html">NUM</a></tt> (36; 10% instances), <tt><a href="ar_pud-pos-VERB.html">VERB</a></tt> (36; 10% instances), <tt><a href="ar_pud-pos-PROPN.html">PROPN</a></tt> (26; 7% instances), <tt><a href="ar_pud-pos-ADJ.html">ADJ</a></tt> (13; 4% instances)
 

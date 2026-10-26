@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `csubj`: <tt><a href="ja_gsdluw-dep-csubj-outer.html">csubj:outer</a></tt>.
 
-158 nodes (0%) are attached to their parents as `csubj`.
+155 nodes (0%) are attached to their parents as `csubj`.
 
-158 instances of `csubj` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 6.05696202531646.
+155 instances of `csubj` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 6.00645161290323.
 
-The following 12 pairs of parts of speech are connected with `csubj`: <tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_gsdluw-pos-VERB.html">VERB</a></tt> (89; 56% instances), <tt><a href="ja_gsdluw-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_gsdluw-pos-VERB.html">VERB</a></tt> (19; 12% instances), <tt><a href="ja_gsdluw-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_gsdluw-pos-VERB.html">VERB</a></tt> (14; 9% instances), <tt><a href="ja_gsdluw-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_gsdluw-pos-VERB.html">VERB</a></tt> (11; 7% instances), <tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_gsdluw-pos-ADJ.html">ADJ</a></tt> (8; 5% instances), <tt><a href="ja_gsdluw-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_gsdluw-pos-VERB.html">VERB</a></tt> (7; 4% instances), <tt><a href="ja_gsdluw-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_gsdluw-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="ja_gsdluw-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_gsdluw-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="ja_gsdluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_gsdluw-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="ja_gsdluw-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_gsdluw-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="ja_gsdluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
+The following 10 pairs of parts of speech are connected with `csubj`: <tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_gsdluw-pos-VERB.html">VERB</a></tt> (89; 57% instances), <tt><a href="ja_gsdluw-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_gsdluw-pos-VERB.html">VERB</a></tt> (19; 12% instances), <tt><a href="ja_gsdluw-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_gsdluw-pos-VERB.html">VERB</a></tt> (14; 9% instances), <tt><a href="ja_gsdluw-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_gsdluw-pos-VERB.html">VERB</a></tt> (11; 7% instances), <tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_gsdluw-pos-ADJ.html">ADJ</a></tt> (8; 5% instances), <tt><a href="ja_gsdluw-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_gsdluw-pos-VERB.html">VERB</a></tt> (7; 5% instances), <tt><a href="ja_gsdluw-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_gsdluw-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="ja_gsdluw-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_gsdluw-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="ja_gsdluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_gsdluw-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="ja_gsdluw-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_gsdluw-pos-ADJ.html">ADJ</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -86,7 +86,7 @@ The following 12 pairs of parts of speech are connected with `csubj`: <tt><a hre
 13	66・0%	66・0%	NUM	名詞-数詞	_	16	compound	_	BunsetuBILabel=I|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=ロク;ロク;;ゼロ;パーセント,六;六;・;ゼロ;パーセント,6;6;・;0;%,6;6;・;0;%,ロク;ロク;;ゼロ;パーセント,;;;;,;;;;,ロク;ロク;;ゼロ;パーセント,ロクロクゼロパーセント,66・0%
 14	、	、	PUNCT	補助記号-読点	_	13	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|SpaceAfter=No|UnidicInfo=,、,、,、,,,,,,、
 15	仙台	仙台	PROPN	名詞-固有名詞-地名-一般	_	16	compound	_	BunsetuBILabel=B|BunsetuPositionType=CONT|SpaceAfter=No|UnidicInfo=センダイ,センダイ,仙台,仙台,センダイ,,,センダイ,センダイ,仙台
-16	39・6%	39・6%	NUM	名詞-数詞	_	20	compound	_	BunsetuBILabel=I|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=サン;キュウ;;ロク;パーセント,三;九;・;六;パーセント,3;9;・;6;%,3;9;・;6;%,サン;キュー;;ロク;パーセント,;;;;,;;;;,サン;キュウ;;ロク;パーセント,サンキュウロクパーセント,39・6%
+16	39・6%	39・6%	NUM	名詞-数詞	_	20	obl	_	BunsetuBILabel=I|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=サン;キュウ;;ロク;パーセント,三;九;・;六;パーセント,3;9;・;6;%,3;9;・;6;%,サン;キュー;;ロク;パーセント,;;;;,;;;;,サン;キュウ;;ロク;パーセント,サンキュウロクパーセント,39・6%
 17	と	と	ADP	助詞-格助詞	_	16	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=ト,と,と,と,ト,,,ト,ト,と
 18	地域差	地域差	NOUN	名詞-普通名詞-一般	_	20	nsubj	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=チイキ;サ,地域;差,地域;差,地域;差,チイキ;サ,;,;,チイキ;サ,チイキサ,地域差
 19	が	が	ADP	助詞-格助詞	_	18	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=ガ,が,が,が,ガ,,,ガ,ガ,が

@@ -8,7 +8,7 @@ udver: '2'
 
 The tenth column in the [CoNLL-U format](format.html#miscellaneous) is labeled MISC,
 standing for “miscellaneous”. It is intended for any additional annotation that data
-providers want to store at the token level. With very few exceptions, its contents is
+providers want to store at the token level. With the exception of the [SpaceAfter](#mandatory-misc-attribute-spaceafter) attribute, its contents are
 optional from the UD perspective. Nevertheless, certain types of annotation are used
 in multiple UD treebanks, and it is desirable that they are annotated in the same
 fashion as much as possible. This page serves as a notice board to raise awareness
@@ -41,12 +41,93 @@ however, it may not be obvious what “leaving intact” means if you have unnam
 or multiple instances of the same attribute where the order of the instances is significant
 for you. It is thus safer to avoid such practices.
 
-## Known attributes
+## Mandatory MISC attribute: SpaceAfter
 
-MISC attributes already attested in UD treebanks are listed here in alphabetical order
-together with brief documentation (and possibly with links to additional information).
+See also [SpacesAfter](#spacesafter) and [SpacesBefore](#spacesbefore).
+
+This attribute is necessary to allow correct reconstruction of the input text and is therefore checked by the official UD validator (unlike other MISC attributes which are optional and therefore not checked). The tokens in the numbered lines of the CoNLL format are assumed to be space-separated in the underlying untokenized text present in the `text` attribute. `SpaceAfter=No` is used to signal that in the underlying untokenized text there is no space between
+the current and the next token (which for instance can be the case with some punctation signs). For multi-word tokens, this attribute is placed in the MISC column of the MWT line
+and not at the last word of the token. `SpaceAfter=No` may occur also at the end of
+sentence, but not at the end of paragraph or document (if paragraph or document boundaries
+are annotated in the file).
+
+    # sent_id = 1
+    # text = I have no clue.
+    1   I       I       PRON    _   _   2   nsubj   _   _
+    2   have    have    VERB    _   _   0   root    _   _
+    3   no      no      DET     _   _   4   det     _   _
+    4   clue    clue    NOUN    _   _   2   obj     _   SpaceAfter=No
+    5   .       .       PUNCT   _   _   2   punct   _   _
+
+<a href="http://tables.grew.fr/?data=ud_feats/MISC&cols=^SpaceAfter$"><button>Table for <code>SpaceAfter</code> feature</button></a>
+
+## Survey of optional attributes
+
+In contrast to FEATS features, the MISC attributes are less standardized.
+Some are widely used; others are experimental or only included in a small number of treebanks.
+We encourage treebank developers to review the <a href="https://universaldependencies.org/survey-misc.html">comprehensive list</a> of MISC attributes and values occurring in data, which can help identify errors.
+A table linked to searchable instances can be obtained as well:
 
 <a href="http://tables.grew.fr/?data=ud_feats/MISC"><button title="Large table listing MISC attributes and Treebanks">Table for MISC attributes</button></a>
+
+### Attributes documented on this page
+
+A selection of the MISC attributes in use in UD treebanks are summarized below.
+They are grouped thematically in the following table, then given in alphabetical order
+with brief documentation.
+More attributes may be added to this documentation in the future.
+
+<table class="typeindex" border="1">
+    <tr style="background-color:cornflowerblue;color:white">
+        <td colspan="2"><strong>Surface format</strong></td>
+        <td colspan="3"><strong>Data language/source</strong></td>
+    </tr>
+    <tr><td><tt><a href="#correctfeature">Correct{Feature}</a></tt></td><td><tt><a href="#newpar">NewPar</a></tt></td>  <td><tt><a href="#gloss">Gloss</a></tt></td><td><tt><a href="#mgloss">MGloss</a></tt></td><td><tt><a href="#vform">Vform</a></tt></td></tr>
+    <tr><td><tt><a href="#correctform">CorrectForm</a></tt></td><td><tt><a href="#spacesafter">SpacesAfter</a></tt></td>  <td><tt><a href="#lang">Lang</a></tt></td><td><tt><a href="#origlang">OrigLang</a></tt></td></tr>
+    <tr><td><tt><a href="#correctspaceafter">CorrectSpaceAfter</a></tt></td><td><tt><a href="#spacesbefore">SpacesBefore</a></tt></td>  <td><tt><a href="#lgloss">LGloss</a></tt></td><td><tt><a href="#ref">Ref</a></tt></td></tr>   
+    <tr><td><tt><a href="#modernform">ModernForm</a></tt></td><td><tt><a href="#xml">XML</a></tt></td>  <td><tt><a href="#ltranslit">LTranslit</a></tt></td><td><tt><a href="#translit">Translit</a></tt></td></tr>
+    <tr style="background-color:cornflowerblue;color:white">
+        <td colspan="2"><strong>Morphology</strong></td>
+        <td colspan="3"><strong>Tense/aspect/modality/polarity</strong></td>
+    </tr>
+    <tr><td><tt><a href="#analysis">Analysis</a></tt> = <tt><a href="#morf">Morf</a></tt></td><td><tt><a href="#lnumvalue">LNumValue</a></tt></td>    <td><tt><a href="#stype">SType</a></tt></td><td><tt><a href="#traditionaltense">TraditionalTense</a></tt></td></tr>
+    <tr><td><tt><a href="#lderiv">LDeriv</a></tt></td><td><tt><a href="#mseg">MSeg</a></tt></td>    <td><tt><a href="#tam">Tam</a></tt></td><td><tt><a href="#vib">Vib</a></tt></td></tr>
+    <tr><td><tt><a href="#lid">LId</a></tt></td><td><tt><a href="#root">Root</a></tt></td>    <td><tt><a href="#traditionalmood">TraditionalMood</a></tt></td></tr>
+    <tr style="background-color:cornflowerblue;color:white">
+        <td colspan="2"><strong>Multi-word expressions/named entities</strong></td>
+        <td colspan="2"><strong>Discourse/coreference</strong></td>
+        <td colspan="1"><strong>Syntactic relations/constructions</strong></td>
+    </tr>
+    <tr><td><tt><a href="#mwe">MWE</a></tt></td><td><tt><a href="#namedentity">NamedEntity</a></tt></td>  <td><tt><a href="#bridge">Bridge</a></tt></td><td><tt><a href="#pdtb">PDTB</a></tt></td>  <td><tt><a href="#reduplication">Reduplication</a></tt></td></tr>
+    <tr><td><tt><a href="#mwepos">MWEPOS</a></tt></td><td><tt><a href="#proper">Proper</a></tt></td>  <td><tt><a href="#discourse">Discourse</a></tt></td><td><tt><a href="#split">Split</a></tt></td>   <td><tt><a href="#subject">Subject</a></tt></td></tr>
+    <tr><td colspan="2"></td>  <td><tt><a href="#entity">Entity</a></tt></td></tr>
+</table>
+
+<!--
+#### Attributes pertaining to surface format
+[Correct{Feature}](#correctfeature), [CorrectForm](#correctform), [CorrectSpaceAfter](#correctspaceafter), [ModernForm](#modernform), [NewPar](#newpar), [SpacesAfter](#spacesafter), [SpacesBefore](#spacesbefore), [XML](#xml)
+
+#### Attributes pertaining to data language and source
+[Gloss](#gloss), [Lang](#lang), [LGloss](#lgloss), [LTranslit](#ltranslit), [MGloss](#mgloss), [OrigLang](#origlang), [Ref](#ref), [Translit](#translit), [Vform](#vform)
+
+#### Attributes pertaining to morphology
+[Analysis](#analysis) = [Morf](#morf), [LDeriv](#lderiv), [LId](#lid), [LNumValue](#lnumvalue), [MSeg](#mseg), [Root](#root)
+
+#### Attributes pertaining to Tense, Aspect, Modality, Polarity
+[SType](#stype), [Tam](#tam), [TraditionalMood](#traditionalmood), [TraditionalTense](#traditionaltense), [Vib](#vib)
+
+#### Attributes linked to multi-word expressions and named entities
+[MWE](#mwe), [MWEPOS](#mwepos), [NamedEntity](#namedentity), [Proper](#proper)
+
+#### Attributes pertaining to discourse/coreference
+[Bridge](#bridge), [Discourse](#discourse), [Entity](#entity), [PDTB](#pdtb), [Split](#split)
+
+#### Attributes linked to syntactic relations and constructions
+[Reduplication](#reduplication), [Subject](#subject) 
+-->
+
+
+## Alphabetical list of features
 
 ### Analysis
 
@@ -102,6 +183,7 @@ Used in conjunction with [Entity](#Entity) to indicate bridging anaphora, by cre
 Here "the first" (entity number 144) and "the second" (entity number 146) are volumes of a "translation" (entity number 142), hence we have `Bridge=142<144` and `Bridge=142<146`, indicating that the identity of 144 and 146 is resolvable by reference to entity 142. See more information in the [Entity](#Entity) notation section and the documentation from the [Universal Anaphora format specifications](https://github.com/UniversalAnaphora/UniversalAnaphora/blob/main/documents/UA_CONLL_U_proposal_compact.md)
 
 <a href="http://tables.grew.fr/?data=ud_feats/MISC&cols=^Bridge$"><button>Table for <code>Bridge</code> feature</button></a>
+
 ### Correct{FEATURE}
 
 For instance: `CorrectCase`, `CorrectDegree`, `CorrectGender`, `CorrectMood`, `CorrectNumber`,
@@ -143,7 +225,7 @@ column contains `Typo=Yes`, as described in the [guidelines for typos](u/overvie
 <a href="http://tables.grew.fr/?data=ud_feats/MISC&cols=^CorrectForm$"><button>Table for <code>CorrectForm</code> feature</button></a>
 ### CorrectSpaceAfter
 
-See also [CorrectForm](#correctform), [Correct{FEATURE}](#correctfeature) and [SpaceAfter](#spaceafter).
+See also [CorrectForm](#correctform), [Correct{FEATURE}](#correctfeature) and [SpaceAfter](#mandatory-misc-attribute-spaceafter).
 
 `CorrectSpaceAfter=Yes` indicates that a space between two tokens is missing by error
 (hence it accompanies a `SpaceAfter=No`).
@@ -288,7 +370,7 @@ The value is the ISO 639 language code, as registered for the language in UD (ei
 from ISO 639-1, or three letters from ISO 639-3, lowercased!) The validation script will take
 this attribute into account when validating language-specific annotation guidelines (hence it
 is one of the very few MISC attributes that are considered during
-[validation](https://universaldependencies.org/release_checklist.html#validation)).
+[validation](/contributing/validation.html)).
 Note that annotation following the foreign language rules is optional. The alternative is that
 the annotators tag the foreign words with UPOS [X]() and `Foreign=Yes`, and they connect them
 using the [flat]()`:foreign` relation. In such cases, no `Lang` attribute is placed in MISC.
@@ -874,31 +956,9 @@ Used e.g. in Arabic PADT and Assyrian AS.
 
 <a href="http://tables.grew.fr/?data=ud_feats/MISC&cols=^Root$"><button>Table for <code>Root</code> feature</button></a>
 
-### SpaceAfter
-
-See also [SpacesAfter](#spacesafter) and [SpacesBefore](#spacesbefore).
-
-`SpaceAfter=No` signals that in the underlying untokenized text, there is no space between
-the current and the next token. Unlike most MISC attributes, this one is even checked by
-the official UD validator. Its presence must correspond to the spaces in the sentence-level
-`text` attribute. For multi-word tokens this attribute is placed in MISC of the MWT line
-and not at the last word of the token. `SpaceAfter=No` may occur also at the end of
-sentence, but not at the end of paragraph or document (if paragraph or document boundaries
-are annotated in the file).
-
-    # sent_id = 1
-    # text = I have no clue.
-    1   I       I       PRON    _   _   2   nsubj   _   _
-    2   have    have    VERB    _   _   0   root    _   _
-    3   no      no      DET     _   _   4   det     _   _
-    4   clue    clue    NOUN    _   _   2   obj     _   SpaceAfter=No
-    5   .       .       PUNCT   _   _   2   punct   _   _
-
-<a href="http://tables.grew.fr/?data=ud_feats/MISC&cols=^SpaceAfter$"><button>Table for <code>SpaceAfter</code> feature</button></a>
-
 ### SpacesAfter
 
-See also [SpaceAfter](#spaceafter), [SpacesBefore](#spacesbefore), [CorrectSpaceAfter](#correctspaceafter) and [NewPar](#newpar).
+See also [SpaceAfter](#mandatory-misc-attribute-spaceafter), [SpacesBefore](#spacesbefore), [CorrectSpaceAfter](#correctspaceafter) and [NewPar](#newpar).
 
 The mandatory attribute `SpaceAfter=No` only specifies whether there was at least one space
 between two tokens of a sentence. It cannot truly preserve the untokenized text if there
@@ -915,7 +975,7 @@ UD treebanks, e.g., Belarusian HSE, Bhojpuri BHTB or Classical Chinese Kyoto.
 
 ### SpacesBefore
 
-See also [SpaceAfter](#spaceafter) and [SpacesAfter](#spacesafter).
+See also [SpaceAfter](#mandatory-misc-attribute-spaceafter) and [SpacesAfter](#spacesafter).
 
 This attribute is used similarly to `SpacesAfter`, with the same values and escaping, but
 it encodes characters before the first token of the sentence. Therefore, it should only occur

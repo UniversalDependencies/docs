@@ -63,11 +63,11 @@ The 2nd highest number of forms (5) was observed with the lemma “este”: <em>
 
 The 3rd highest number of forms (4) was observed with the lemma “el”: <em>el, ela, elas, eles</em>.
 
-`PRON` occurs with 9 features: <tt><a href="gl_treegal-feat-PronType.html">PronType</a></tt> (1372; 100% instances), <tt><a href="gl_treegal-feat-Gender.html">Gender</a></tt> (1359; 99% instances), <tt><a href="gl_treegal-feat-Number.html">Number</a></tt> (1110; 81% instances), <tt><a href="gl_treegal-feat-Person.html">Person</a></tt> (635; 46% instances), <tt><a href="gl_treegal-feat-Clitic.html">Clitic</a></tt> (471; 34% instances), <tt><a href="gl_treegal-feat-Case.html">Case</a></tt> (255; 19% instances), <tt><a href="gl_treegal-feat-Number-psor.html">Number[psor]</a></tt> (3; 0% instances), <tt><a href="gl_treegal-feat-Poss.html">Poss</a></tt> (3; 0% instances), <tt><a href="gl_treegal-feat-Definite.html">Definite</a></tt> (1; 0% instances)
+`PRON` occurs with 10 features: <tt><a href="gl_treegal-feat-PronType.html">PronType</a></tt> (1372; 100% instances), <tt><a href="gl_treegal-feat-Gender.html">Gender</a></tt> (1359; 99% instances), <tt><a href="gl_treegal-feat-Number.html">Number</a></tt> (1110; 81% instances), <tt><a href="gl_treegal-feat-Person.html">Person</a></tt> (635; 46% instances), <tt><a href="gl_treegal-feat-Clitic.html">Clitic</a></tt> (471; 34% instances), <tt><a href="gl_treegal-feat-Case.html">Case</a></tt> (255; 19% instances), <tt><a href="gl_treegal-feat-ExtPos.html">ExtPos</a></tt> (4; 0% instances), <tt><a href="gl_treegal-feat-Number-psor.html">Number[psor]</a></tt> (3; 0% instances), <tt><a href="gl_treegal-feat-Poss.html">Poss</a></tt> (3; 0% instances), <tt><a href="gl_treegal-feat-Definite.html">Definite</a></tt> (1; 0% instances)
 
-`PRON` occurs with 23 feature-value pairs: `Case=Acc`, `Case=Dat`, `Case=Nom`, `Clitic=Yes`, `Definite=Def`, `Gender=Com`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Number=Plur`, `Number=Sing`, `Number[psor]=Plur`, `Number[psor]=Sing`, `Person=1`, `Person=2`, `Person=3`, `Poss=Yes`, `PronType=Art`, `PronType=Dem`, `PronType=Ind`, `PronType=Int`, `PronType=Prs`, `PronType=Rel`
+`PRON` occurs with 25 feature-value pairs: `Case=Acc`, `Case=Dat`, `Case=Nom`, `Clitic=Yes`, `Definite=Def`, `ExtPos=ADV`, `ExtPos=PRON`, `Gender=Com`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Number=Plur`, `Number=Sing`, `Number[psor]=Plur`, `Number[psor]=Sing`, `Person=1`, `Person=2`, `Person=3`, `Poss=Yes`, `PronType=Art`, `PronType=Dem`, `PronType=Ind`, `PronType=Int`, `PronType=Prs`, `PronType=Rel`
 
-`PRON` occurs with 74 feature combinations.
+`PRON` occurs with 76 feature combinations.
 The most frequent feature combination is `Clitic=Yes|Gender=Com|Person=3|PronType=Prs` (234 tokens).
 Examples: <em>se</em>
 

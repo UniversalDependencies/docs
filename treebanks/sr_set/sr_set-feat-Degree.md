@@ -96,7 +96,7 @@ The most frequent other feature values with which `DET` and `Degree` co-occurred
 * `Cmp` (33; 22% of non-empty `Degree`): <em>više, manje</em>
 * `Pos` (115; 77% of non-empty `Degree`): <em>nekoliko, puno, mnogo, koliko, malo, odsto, toliko, Oko, previše, Pola</em>
 * `Sup` (1; 1% of non-empty `Degree`): <em>najviše</em>
-* `EMPTY` (3490): <em>koji, to, koje, koja, svoje, ove, sve, toga, koju, taj</em>
+* `EMPTY` (3488): <em>koji, to, koje, koja, svoje, ove, sve, toga, koju, taj</em>
 
 <table>
   <tr><th>Paradigm <i>mnogo</i></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>

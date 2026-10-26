@@ -75,9 +75,9 @@ Examples: <em>mūsų, savo, jo, jų, jos, mano, tavo, šių, tam, tuos</em>
 
 Parents of `DET` nodes belong to 8 different parts of speech: <tt><a href="lt_hse-pos-NOUN.html">NOUN</a></tt> (136; 82% instances), <tt><a href="lt_hse-pos-VERB.html">VERB</a></tt> (9; 5% instances), <tt><a href="lt_hse-pos-ADJ.html">ADJ</a></tt> (5; 3% instances), <tt><a href="lt_hse-pos-PROPN.html">PROPN</a></tt> (5; 3% instances), <tt><a href="lt_hse-pos-PRON.html">PRON</a></tt> (4; 2% instances), <tt><a href="lt_hse-pos-SCONJ.html">SCONJ</a></tt> (3; 2% instances), <tt><a href="lt_hse-pos-ADP.html">ADP</a></tt> (2; 1% instances), <tt><a href="lt_hse-pos-DET.html">DET</a></tt> (2; 1% instances)
 
-144 (87%) `DET` nodes are leaves.
+145 (87%) `DET` nodes are leaves.
 
-19 (11%) `DET` nodes have one child.
+18 (11%) `DET` nodes have one child.
 
 1 (1%) `DET` nodes have two children.
 
@@ -85,7 +85,7 @@ Parents of `DET` nodes belong to 8 different parts of speech: <tt><a href="lt_hs
 
 The highest child degree of a `DET` node is 4.
 
-Children of `DET` nodes are attached using 10 different relations: <tt><a href="lt_hse-dep-advmod.html">advmod</a></tt> (6; 21% instances), <tt><a href="lt_hse-dep-punct.html">punct</a></tt> (6; 21% instances), <tt><a href="lt_hse-dep-acl-relcl.html">acl:relcl</a></tt> (3; 11% instances), <tt><a href="lt_hse-dep-case.html">case</a></tt> (3; 11% instances), <tt><a href="lt_hse-dep-fixed.html">fixed</a></tt> (3; 11% instances), <tt><a href="lt_hse-dep-acl.html">acl</a></tt> (2; 7% instances), <tt><a href="lt_hse-dep-cc.html">cc</a></tt> (2; 7% instances), <tt><a href="lt_hse-dep-advmod-emph.html">advmod:emph</a></tt> (1; 4% instances), <tt><a href="lt_hse-dep-conj.html">conj</a></tt> (1; 4% instances), <tt><a href="lt_hse-dep-parataxis.html">parataxis</a></tt> (1; 4% instances)
+Children of `DET` nodes are attached using 10 different relations: <tt><a href="lt_hse-dep-advmod.html">advmod</a></tt> (6; 22% instances), <tt><a href="lt_hse-dep-punct.html">punct</a></tt> (6; 22% instances), <tt><a href="lt_hse-dep-case.html">case</a></tt> (3; 11% instances), <tt><a href="lt_hse-dep-fixed.html">fixed</a></tt> (3; 11% instances), <tt><a href="lt_hse-dep-acl.html">acl</a></tt> (2; 7% instances), <tt><a href="lt_hse-dep-acl-relcl.html">acl:relcl</a></tt> (2; 7% instances), <tt><a href="lt_hse-dep-cc.html">cc</a></tt> (2; 7% instances), <tt><a href="lt_hse-dep-advmod-emph.html">advmod:emph</a></tt> (1; 4% instances), <tt><a href="lt_hse-dep-conj.html">conj</a></tt> (1; 4% instances), <tt><a href="lt_hse-dep-parataxis.html">parataxis</a></tt> (1; 4% instances)
 
-Children of `DET` nodes belong to 11 different parts of speech: <tt><a href="lt_hse-pos-PUNCT.html">PUNCT</a></tt> (6; 21% instances), <tt><a href="lt_hse-pos-PART.html">PART</a></tt> (5; 18% instances), <tt><a href="lt_hse-pos-ADV.html">ADV</a></tt> (3; 11% instances), <tt><a href="lt_hse-pos-VERB.html">VERB</a></tt> (3; 11% instances), <tt><a href="lt_hse-pos-ADP.html">ADP</a></tt> (2; 7% instances), <tt><a href="lt_hse-pos-CCONJ.html">CCONJ</a></tt> (2; 7% instances), <tt><a href="lt_hse-pos-DET.html">DET</a></tt> (2; 7% instances), <tt><a href="lt_hse-pos-NOUN.html">NOUN</a></tt> (2; 7% instances), <tt><a href="lt_hse-pos-ADJ.html">ADJ</a></tt> (1; 4% instances), <tt><a href="lt_hse-pos-PRON.html">PRON</a></tt> (1; 4% instances), <tt><a href="lt_hse-pos-SCONJ.html">SCONJ</a></tt> (1; 4% instances)
+Children of `DET` nodes belong to 11 different parts of speech: <tt><a href="lt_hse-pos-PUNCT.html">PUNCT</a></tt> (6; 22% instances), <tt><a href="lt_hse-pos-PART.html">PART</a></tt> (5; 19% instances), <tt><a href="lt_hse-pos-ADV.html">ADV</a></tt> (3; 11% instances), <tt><a href="lt_hse-pos-ADP.html">ADP</a></tt> (2; 7% instances), <tt><a href="lt_hse-pos-CCONJ.html">CCONJ</a></tt> (2; 7% instances), <tt><a href="lt_hse-pos-DET.html">DET</a></tt> (2; 7% instances), <tt><a href="lt_hse-pos-NOUN.html">NOUN</a></tt> (2; 7% instances), <tt><a href="lt_hse-pos-VERB.html">VERB</a></tt> (2; 7% instances), <tt><a href="lt_hse-pos-ADJ.html">ADJ</a></tt> (1; 4% instances), <tt><a href="lt_hse-pos-PRON.html">PRON</a></tt> (1; 4% instances), <tt><a href="lt_hse-pos-SCONJ.html">SCONJ</a></tt> (1; 4% instances)
 

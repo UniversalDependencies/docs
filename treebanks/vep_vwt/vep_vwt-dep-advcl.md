@@ -50,11 +50,11 @@ The following 5 pairs of parts of speech are connected with `advcl`: <tt><a href
 8	kanzas	kanz	NOUN	_	Case=Ine|Number=Sing	9	obl	_	_
 9	pagištihe	pagišta	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Pass	4	advcl	_	_
 10	vepsän	vepsän	ADJ	_	Case=Gen|Number=Sing	11	amod	_	_
-11	kelel	kel'	NOUN	_	Case=Ade|Number=Sing	9	obl	_	_
+11	kelel	kelʼ	NOUN	_	Case=Ade|Number=Sing	9	obl	_	_
 12	,	,	PUNCT	_	_	15	punct	_	_
 13	ka	ka	ADV	_	_	15	advmod	_	_
 14	hän	hän	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	_
-15	el'genzi	el'geta	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	advcl	_	_
+15	elʼgenzi	elʼgeta	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	advcl	_	_
 16	lujas	lujas	ADV	_	_	17	advmod	_	_
 17	hüvin	hüvin	ADV	_	_	15	obl	_	_
 18	.	.	PUNCT	_	_	4	punct	_	_
@@ -71,7 +71,7 @@ The following 5 pairs of parts of speech are connected with `advcl`: <tt><a href
 1	Todeks	todeks	ADV	_	_	2	advmod	_	_
 2	sanuda	sanuda	VERB	_	VerbForm=Inf	4	advcl	_	_
 3	,	,	PUNCT	_	_	4	punct	_	_
-4	siš	sid'	ADV	_	_	0	root	_	_
+4	siš	sidʼ	ADV	_	_	0	root	_	_
 5	om	olda	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	_
 6	midä	mi	PRON	_	Case=Par|Number=Sing|PronType=Int	4	nsubj:cop	_	_
 7	kacta	kacta	VERB	_	VerbForm=Inf	4	xcomp	_	_

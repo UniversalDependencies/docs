@@ -64,16 +64,16 @@ The following 14 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 10 acl:relcl	color:blue
-1	Svart	svart	ADJ	adj	Definite=Ind|Degree=Pos|Gender=Fem,Masc	2	amod	_	_
+1	Svart	svart	ADJ	adj	Definite=Ind|Degree=Pos|Gender=Com	2	amod	_	_
 2	tv	tv	NOUN	subst	Definite=Ind|Gender=Masc	0	root	_	_
 3	og	og	CCONJ	konj	_	5	cc	_	_
-4	kvit	kvit	ADJ	adj	Definite=Ind|Degree=Pos|Gender=Fem,Masc	5	amod	_	_
+4	kvit	kvit	ADJ	adj	Definite=Ind|Degree=Pos|Gender=Com	5	amod	_	_
 5	tv	tv	NOUN	subst	Definite=Ind|Gender=Masc	2	conj	_	SpaceAfter=No
 6	,	$,	PUNCT	<komma>	_	10	punct	_	_
 7	som	som	SCONJ	sbu	_	10	mark	_	_
 8	er	vere	AUX	verb	Mood=Ind|Tense=Pres|VerbForm=Fin	10	cop	_	_
 9	heilt	heil	ADJ	adj	Definite=Ind|Degree=Pos|Gender=Neut	10	advmod	_	_
-10	lik	lik	ADJ	adj	Definite=Ind|Degree=Pos|Gender=Fem,Masc	5	acl:relcl	_	SpaceAfter=No
+10	lik	lik	ADJ	adj	Definite=Ind|Degree=Pos|Gender=Com	5	acl:relcl	_	SpaceAfter=No
 11	.	$.	PUNCT	clb	_	2	punct	_	_
 
 ~~~

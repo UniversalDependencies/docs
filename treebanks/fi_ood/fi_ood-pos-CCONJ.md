@@ -13,7 +13,7 @@ The 10 most frequent `CCONJ` lemmas: <em>ja, mutta, tai, sekä, vaan, eli, vai, 
 
 The 10 most frequent `CCONJ` types:  <em>ja, mutta, tai, sekä, vaan, eli, vai, mut, että, ja/tai</em>
 
-The 10 most frequent ambiguous lemmas: <em>vaan</em> (<tt><a href="fi_ood-pos-ADV.html">ADV</a></tt> 11, <tt><a href="fi_ood-pos-CCONJ.html">CCONJ</a></tt> 11), <em>eli</em> (<tt><a href="fi_ood-pos-CCONJ.html">CCONJ</a></tt> 8, <tt><a href="fi_ood-pos-VERB.html">VERB</a></tt> 1), <em>että</em> (<tt><a href="fi_ood-pos-SCONJ.html">SCONJ</a></tt> 114, <tt><a href="fi_ood-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="fi_ood-pos-INTJ.html">INTJ</a></tt> 1), <em>kuin</em> (<tt><a href="fi_ood-pos-SCONJ.html">SCONJ</a></tt> 46, <tt><a href="fi_ood-pos-CCONJ.html">CCONJ</a></tt> 2), <em>niin</em> (<tt><a href="fi_ood-pos-ADV.html">ADV</a></tt> 60, <tt><a href="fi_ood-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="fi_ood-pos-SCONJ.html">SCONJ</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>vaan</em> (<tt><a href="fi_ood-pos-ADV.html">ADV</a></tt> 11, <tt><a href="fi_ood-pos-CCONJ.html">CCONJ</a></tt> 11), <em>eli</em> (<tt><a href="fi_ood-pos-CCONJ.html">CCONJ</a></tt> 8, <tt><a href="fi_ood-pos-VERB.html">VERB</a></tt> 1), <em>että</em> (<tt><a href="fi_ood-pos-SCONJ.html">SCONJ</a></tt> 114, <tt><a href="fi_ood-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="fi_ood-pos-INTJ.html">INTJ</a></tt> 1), <em>kuin</em> (<tt><a href="fi_ood-pos-SCONJ.html">SCONJ</a></tt> 48, <tt><a href="fi_ood-pos-CCONJ.html">CCONJ</a></tt> 2), <em>niin</em> (<tt><a href="fi_ood-pos-ADV.html">ADV</a></tt> 60, <tt><a href="fi_ood-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="fi_ood-pos-SCONJ.html">SCONJ</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>vaan</em> (<tt><a href="fi_ood-pos-CCONJ.html">CCONJ</a></tt> 10, <tt><a href="fi_ood-pos-ADV.html">ADV</a></tt> 9), <em>eli</em> (<tt><a href="fi_ood-pos-CCONJ.html">CCONJ</a></tt> 4, <tt><a href="fi_ood-pos-VERB.html">VERB</a></tt> 2), <em>että</em> (<tt><a href="fi_ood-pos-SCONJ.html">SCONJ</a></tt> 110, <tt><a href="fi_ood-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="fi_ood-pos-INTJ.html">INTJ</a></tt> 1), <em>kuin</em> (<tt><a href="fi_ood-pos-SCONJ.html">SCONJ</a></tt> 44, <tt><a href="fi_ood-pos-CCONJ.html">CCONJ</a></tt> 2), <em>niin</em> (<tt><a href="fi_ood-pos-ADV.html">ADV</a></tt> 48, <tt><a href="fi_ood-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="fi_ood-pos-SCONJ.html">SCONJ</a></tt> 1)
 
@@ -38,7 +38,7 @@ The 10 most frequent ambiguous types:  <em>vaan</em> (<tt><a href="fi_ood-pos-CC
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.071429 (the average of all parts of speech is 1.566190).
+The form / lemma ratio of `CCONJ` is 1.071429 (the average of all parts of speech is 1.565977).
 
 The 1st highest number of forms (2) was observed with the lemma “mutta”: <em>mut, mutta</em>.
 

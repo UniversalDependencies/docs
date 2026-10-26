@@ -11,7 +11,7 @@ This relation is a language-specific subtype of <tt><a href="ro_rrt-dep-aux.html
 1757 nodes (1%) are attached to their parents as `aux:pass`.
 
 1754 instances of `aux:pass` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.10244735344337.
+Average distance between parent and child is 1.1018782014798.
 
 The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> (1728; 98% instances), <tt><a href="ro_rrt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> (25; 1% instances), <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> (4; 0% instances).
 
@@ -30,7 +30,7 @@ The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 6	notat	nota	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
 7	ca	ca	ADP	Spsa	AdpType=Prep|Case=Acc	9	case	_	_
 8	„	„	PUNCT	DBLQ	_	9	punct	_	SpaceAfter=No
-9	dangereux	dangereux	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	6	xcomp	_	_
+9	dangereux	dangereux	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	6	xcomp	_	SpaceAfter=No
 10	”	”	PUNCT	DBLQ	_	9	punct	_	SpaceAfter=No
 11	.	.	PUNCT	PERIOD	_	6	punct	_	_
 
@@ -52,7 +52,7 @@ The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 7	luat	lua	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	3	conj	_	SpaceAfter=No
 8	,	,	PUNCT	COMMA	_	12	punct	_	_
 9	fie	fi	AUX	Vasp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	12	aux:pass	_	_
-10	numele	nume	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	12	nsubj:pass	_	_
+10	numele	nume	NOUN	Nc--ry	Case=Acc,Nom|Definite=Def	12	nsubj:pass	_	_
 11	Domnului	domn	NOUN	Ncmsoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Sing	10	nmod	_	_
 12	binecuvântat	binecuvântat	ADJ	Afpms-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	3	conj	_	SpaceAfter=No
 13	.	.	PUNCT	PERIOD	_	3	punct	_	_

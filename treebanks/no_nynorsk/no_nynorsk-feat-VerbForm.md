@@ -65,7 +65,7 @@ The most frequent other feature values with which `ADJ` and `VerbForm` co-occurr
 `ADJ` tokens may have the following values of `VerbForm`:
 
 * `Part` (4283; 100% of non-empty `VerbForm`): <em>sett, auka, lagt, samla, gjort, manglande, avgjerande, følgjande, aukande, komande</em>
-* `EMPTY` (24818): <em>meir, mange, fleire, mykje, nye, store, heile, godt, heilt, norske</em>
+* `EMPTY` (24816): <em>meir, mange, fleire, mykje, nye, store, heile, godt, heilt, norske</em>
 
 `VerbForm` seems to be **lexical feature** of `ADJ`. 100% lemmas (1164) occur only with one value of `VerbForm`.
 

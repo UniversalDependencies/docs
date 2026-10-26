@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-332 nodes (9%) are attached to their parents as `det`.
+331 nodes (9%) are attached to their parents as `det`.
 
-331 instances of `det` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.32228915662651.
+330 instances of `det` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.32326283987915.
 
-The following 10 pairs of parts of speech are connected with `det`: <tt><a href="qfn_fame-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qfn_fame-pos-DET.html">DET</a></tt> (259; 78% instances), <tt><a href="qfn_fame-pos-PROPN.html">PROPN</a></tt>-<tt><a href="qfn_fame-pos-DET.html">DET</a></tt> (39; 12% instances), <tt><a href="qfn_fame-pos-VERB.html">VERB</a></tt>-<tt><a href="qfn_fame-pos-DET.html">DET</a></tt> (9; 3% instances), <tt><a href="qfn_fame-pos-ADJ.html">ADJ</a></tt>-<tt><a href="qfn_fame-pos-DET.html">DET</a></tt> (7; 2% instances), <tt><a href="qfn_fame-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qfn_fame-pos-PRON.html">PRON</a></tt> (7; 2% instances), <tt><a href="qfn_fame-pos-PRON.html">PRON</a></tt>-<tt><a href="qfn_fame-pos-DET.html">DET</a></tt> (5; 2% instances), <tt><a href="qfn_fame-pos-VERB.html">VERB</a></tt>-<tt><a href="qfn_fame-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="qfn_fame-pos-ADJ.html">ADJ</a></tt>-<tt><a href="qfn_fame-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="qfn_fame-pos-AUX.html">AUX</a></tt>-<tt><a href="qfn_fame-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="qfn_fame-pos-NUM.html">NUM</a></tt>-<tt><a href="qfn_fame-pos-DET.html">DET</a></tt> (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `det`: <tt><a href="qfn_fame-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qfn_fame-pos-DET.html">DET</a></tt> (258; 78% instances), <tt><a href="qfn_fame-pos-PROPN.html">PROPN</a></tt>-<tt><a href="qfn_fame-pos-DET.html">DET</a></tt> (39; 12% instances), <tt><a href="qfn_fame-pos-VERB.html">VERB</a></tt>-<tt><a href="qfn_fame-pos-DET.html">DET</a></tt> (9; 3% instances), <tt><a href="qfn_fame-pos-ADJ.html">ADJ</a></tt>-<tt><a href="qfn_fame-pos-DET.html">DET</a></tt> (7; 2% instances), <tt><a href="qfn_fame-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qfn_fame-pos-PRON.html">PRON</a></tt> (7; 2% instances), <tt><a href="qfn_fame-pos-PRON.html">PRON</a></tt>-<tt><a href="qfn_fame-pos-DET.html">DET</a></tt> (5; 2% instances), <tt><a href="qfn_fame-pos-VERB.html">VERB</a></tt>-<tt><a href="qfn_fame-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="qfn_fame-pos-ADJ.html">ADJ</a></tt>-<tt><a href="qfn_fame-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="qfn_fame-pos-AUX.html">AUX</a></tt>-<tt><a href="qfn_fame-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="qfn_fame-pos-NUM.html">NUM</a></tt>-<tt><a href="qfn_fame-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

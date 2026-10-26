@@ -23,7 +23,7 @@ The most frequent other feature values with which `NOUN` and `Foreign` co-occurr
 `NOUN` tokens may have the following values of `Foreign`:
 
 * `Yes` (86; 100% of non-empty `Foreign`): <em>sanyakusse, basho, sanyaku, komusubi, bashoks, komusubiks, maegashirasse, ozekide, point, rikishi</em>
-* `EMPTY` (17994): <em>asi, aasta, teema, aru, auto, inimesed, inimene, aastat, raha, aega</em>
+* `EMPTY` (17986): <em>asi, aasta, teema, aru, auto, inimesed, inimene, aastat, raha, aega</em>
 
 `Foreign` seems to be **lexical feature** of `NOUN`. 100% lemmas (47) occur only with one value of `Foreign`.
 
@@ -34,7 +34,7 @@ The most frequent other feature values with which `NOUN` and `Foreign` co-occurr
 `X` tokens may have the following values of `Foreign`:
 
 * `Yes` (58; 100% of non-empty `Foreign`): <em>to, Enthusiasistic, offtopic, da, know, n6u, no, offence, u, E</em>
-* `EMPTY` (127): <em>to, 000, s, ga, NOOOT, a, olla, st, tehas, u</em>
+* `EMPTY` (128): <em>to, 000, s, ga, NOOOT, a, olla, st, tehas, u</em>
 
 `Foreign` seems to be **lexical feature** of `X`. 100% lemmas (45) occur only with one value of `Foreign`.
 
@@ -47,7 +47,7 @@ The most frequent other feature values with which `PROPN` and `Foreign` co-occur
 `PROPN` tokens may have the following values of `Foreign`:
 
 * `Yes` (5; 100% of non-empty `Foreign`): <em>My, music, appstorest</em>
-* `EMPTY` (3933): <em>eesti, saku, eestis, Jumal, ViinaMuri, Neeme, le, tartu, d2xz, tallinna</em>
+* `EMPTY` (3935): <em>eesti, saku, eestis, Jumal, ViinaMuri, Neeme, le, tartu, d2xz, tallinna</em>
 
 ### `ADV`
 
@@ -56,7 +56,7 @@ The most frequent other feature values with which `PROPN` and `Foreign` co-occur
 `ADV` tokens may have the following values of `Foreign`:
 
 * `Yes` (4; 100% of non-empty `Foreign`): <em>bolshe, maybe, tohhujaa, a'la</em>
-* `EMPTY` (12671): <em>ka, siis, nii, kas, ikka, veel, ju, mitte, juba, ära</em>
+* `EMPTY` (12665): <em>ka, siis, nii, kas, ikka, veel, ju, mitte, juba, ära</em>
 
 ### `INTJ`
 
@@ -76,7 +76,7 @@ The most frequent other feature values with which `ADJ` and `Foreign` co-occurre
 `ADJ` tokens may have the following values of `Foreign`:
 
 * `Yes` (1; 100% of non-empty `Foreign`): <em>ultimagte</em>
-* `EMPTY` (5256): <em>hea, suur, võimalik, õige, huvitav, head, parem, vana, uus, esimene</em>
+* `EMPTY` (5255): <em>hea, suur, võimalik, õige, huvitav, head, parem, vana, uus, esimene</em>
 
 ## Relations with Agreement in `Foreign`
 

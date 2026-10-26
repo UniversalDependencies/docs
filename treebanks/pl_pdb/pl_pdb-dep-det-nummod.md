@@ -70,7 +70,7 @@ The following 4 pairs of parts of speech are connected with `det:nummod`: <tt><a
 3	tej	ten	DET	adj:sg:loc:f:pos	Case=Loc|Gender=Fem|Number=Sing|PronType=Dem	4	det	4:det	_
 4	branży	branża	NOUN	subst:sg:loc:f	Case=Loc|Gender=Fem|Number=Sing	12	obl	12:obl	SpaceAfter=No
 5	,	,	PUNCT	interp	PunctType=Comm	10	punct	10:punct	_
-6	jak	jak	CCONJ	conj	_	10	cc	10:cc	_
+6	jak	jak	CCONJ	conj	ExtPos=CCONJ	10	cc	10:cc	_
 7	i	i	PART	part	_	6	fixed	6:fixed	_
 8	w	w	ADP	prep:loc:nwok	AdpType=Prep|Variant=Short	10	case	10:case	Case=Loc
 9	kilku	kilka	DET	num:pl:loc:f:congr:ncol	Case=Loc|Gender=Fem|Number=Plur|PronType=Ind	10	det:nummod	10:det:nummod	_

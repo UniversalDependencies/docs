@@ -37,7 +37,7 @@ The most frequent other feature values with which `PROPN` and `NameType` co-occu
 ## Relations with Agreement in `NameType`
 
 The 10 most frequent relations where parent and child node agree in `NameType`:
-<tt>PROPN --[<tt><a href="lzh_kyoto-dep-conj.html">conj</a></tt>]--> PROPN</tt> (2539; 93%),
+<tt>PROPN --[<tt><a href="lzh_kyoto-dep-conj.html">conj</a></tt>]--> PROPN</tt> (2540; 93%),
 <tt>PROPN --[<tt><a href="lzh_kyoto-dep-list.html">list</a></tt>]--> PROPN</tt> (17; 77%),
 <tt>PROPN --[<tt><a href="lzh_kyoto-dep-nsubj-outer.html">nsubj:outer</a></tt>]--> PROPN</tt> (16; 62%),
 <tt>PROPN --[<tt><a href="lzh_kyoto-dep-amod.html">amod</a></tt>]--> PROPN</tt> (3; 75%),

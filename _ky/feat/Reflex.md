@@ -22,4 +22,4 @@ column. (Which means that empty value has the `No` meaning.)
 * _өзүмүз_ "ourselves"
 
 
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:04 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:16 CEST -->

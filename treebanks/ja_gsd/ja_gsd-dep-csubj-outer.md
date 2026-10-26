@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="ja_gsd-dep-csubj.html">csubj</a></tt>.
 
-8 nodes (0%) are attached to their parents as `csubj:outer`.
+7 nodes (0%) are attached to their parents as `csubj:outer`.
 
-8 instances of `csubj:outer` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 16.75.
+7 instances of `csubj:outer` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 17.5714285714286.
 
-The following 4 pairs of parts of speech are connected with `csubj:outer`: <tt><a href="ja_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> (3; 38% instances), <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> (3; 38% instances), <tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt> (1; 13% instances), <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> (1; 13% instances).
+The following 3 pairs of parts of speech are connected with `csubj:outer`: <tt><a href="ja_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> (3; 43% instances), <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> (3; 43% instances), <tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt> (1; 14% instances).
 
 
 ~~~ conllu

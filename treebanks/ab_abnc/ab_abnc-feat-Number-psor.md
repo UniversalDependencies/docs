@@ -11,93 +11,98 @@ It occurs with 2 different values: `Plur`, `Sing`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="ab_abnc-feat-Number.html">Number</a></tt>, <tt><a href="ab_abnc-feat-Number-cs.html">Number[cs]</a></tt>, <tt><a href="ab_abnc-feat-Number-io.html">Number[io]</a></tt>, <tt><a href="ab_abnc-feat-Number-lo.html">Number[lo]</a></tt>, <tt><a href="ab_abnc-feat-Number-obj.html">Number[obj]</a></tt>, <tt><a href="ab_abnc-feat-Number-po.html">Number[po]</a></tt>, <tt><a href="ab_abnc-feat-Number-psor.html">Number[psor]</a></tt>, <tt><a href="ab_abnc-feat-Number-refl.html">Number[refl]</a></tt>, <tt><a href="ab_abnc-feat-Number-ro.html">Number[ro]</a></tt>, <tt><a href="ab_abnc-feat-Number-subj.html">Number[subj]</a></tt>.
 
-527 tokens (8%) have a non-empty value of `Number[psor]`.
-355 types (13%) occur at least once with a non-empty value of `Number[psor]`.
-189 lemmas (15%) occur at least once with a non-empty value of `Number[psor]`.
-The feature is used with 7 part-of-speech tags: <tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt> (290; 5% instances), <tt><a href="ab_abnc-pos-ADP.html">ADP</a></tt> (164; 3% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> (47; 1% instances), <tt><a href="ab_abnc-pos-ADV.html">ADV</a></tt> (11; 0% instances), <tt><a href="ab_abnc-pos-ADJ.html">ADJ</a></tt> (7; 0% instances), <tt><a href="ab_abnc-pos-NUM.html">NUM</a></tt> (4; 0% instances), <tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt> (4; 0% instances).
+1225 tokens (9%) have a non-empty value of `Number[psor]`.
+723 types (14%) occur at least once with a non-empty value of `Number[psor]`.
+347 lemmas (16%) occur at least once with a non-empty value of `Number[psor]`.
+The feature is used with 9 part-of-speech tags: <tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt> (753; 6% instances), <tt><a href="ab_abnc-pos-ADP.html">ADP</a></tt> (325; 2% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> (89; 1% instances), <tt><a href="ab_abnc-pos-ADV.html">ADV</a></tt> (26; 0% instances), <tt><a href="ab_abnc-pos-ADJ.html">ADJ</a></tt> (18; 0% instances), <tt><a href="ab_abnc-pos-NUM.html">NUM</a></tt> (6; 0% instances), <tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt> (6; 0% instances), <tt><a href="ab_abnc-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="ab_abnc-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-290 <tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt> tokens (26% of all `NOUN` tokens) have a non-empty value of `Number[psor]`.
+753 <tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt> tokens (31% of all `NOUN` tokens) have a non-empty value of `Number[psor]`.
 
-The most frequent other feature values with which `NOUN` and `Number[psor]` co-occurred: <tt><a href="ab_abnc-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (290; 100%), <tt><a href="ab_abnc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (263; 91%), <tt><a href="ab_abnc-feat-Animacy.html">Animacy</a></tt><tt>=Nhum</tt> (237; 82%), <tt><a href="ab_abnc-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt> (168; 58%).
+The most frequent other feature values with which `NOUN` and `Number[psor]` co-occurred: <tt><a href="ab_abnc-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (753; 100%), <tt><a href="ab_abnc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (669; 89%), <tt><a href="ab_abnc-feat-Animacy.html">Animacy</a></tt><tt>=Nhum</tt> (590; 78%), <tt><a href="ab_abnc-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt> (509; 68%).
 
 `NOUN` tokens may have the following values of `Number[psor]`:
 
 
 <table>
-  <tr><th>Paradigm <i>а-уа́да</i></th><th><tt>Plur</tt></th><th><tt>Sing</tt></th></tr>
-  <tr><td><tt><tt><a href="ab_abnc-feat-Case.html">Case</a></tt><tt>=Ine</tt>|<tt><a href="ab_abnc-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=Masc</tt>|<tt><a href="ab_abnc-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ab_abnc-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="ab_abnc-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td></td><td><em>иуадаҿы</em></td></tr>
-  <tr><td><tt><tt><a href="ab_abnc-feat-Case.html">Case</a></tt><tt>=Ine</tt>|<tt><a href="ab_abnc-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=Fem</tt>|<tt><a href="ab_abnc-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ab_abnc-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="ab_abnc-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td></td><td><em>луадаҿы</em></td></tr>
-  <tr><td><tt><tt><a href="ab_abnc-feat-Case.html">Case</a></tt><tt>=Ine</tt>|<tt><a href="ab_abnc-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ab_abnc-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="ab_abnc-feat-Person-psor.html">Person[psor]</a></tt><tt>=1</tt></tt></td><td></td><td><em>Суадаҿы</em></td></tr>
-  <tr><td><tt><tt><a href="ab_abnc-feat-Case.html">Case</a></tt><tt>=Lat</tt>|<tt><a href="ab_abnc-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=Masc</tt>|<tt><a href="ab_abnc-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ab_abnc-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="ab_abnc-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td></td><td><em>иуадахь</em></td></tr>
-  <tr><td><tt><tt><a href="ab_abnc-feat-Case.html">Case</a></tt><tt>=Lat</tt>|<tt><a href="ab_abnc-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=Fem</tt>|<tt><a href="ab_abnc-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ab_abnc-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="ab_abnc-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td></td><td><em>луадахь</em></td></tr>
-  <tr><td><tt><tt><a href="ab_abnc-feat-Case.html">Case</a></tt><tt>=Lat</tt>|<tt><a href="ab_abnc-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ab_abnc-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="ab_abnc-feat-Person-psor.html">Person[psor]</a></tt><tt>=1</tt></tt></td><td></td><td><em>суадахь</em></td></tr>
-  <tr><td><tt><tt><a href="ab_abnc-feat-Case.html">Case</a></tt><tt>=Lat</tt>|<tt><a href="ab_abnc-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ab_abnc-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt>|<tt><a href="ab_abnc-feat-Person-psor.html">Person[psor]</a></tt><tt>=1</tt></tt></td><td><em>ҳуадахь</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ab_abnc-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=Fem</tt>|<tt><a href="ab_abnc-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ab_abnc-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="ab_abnc-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td></td><td><em>луада</em></td></tr>
-  <tr><td><tt><tt><a href="ab_abnc-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=Fem</tt>|<tt><a href="ab_abnc-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ab_abnc-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="ab_abnc-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td></td><td><em>луадақәа</em></td></tr>
-  <tr><td><tt><tt><a href="ab_abnc-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ab_abnc-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt>|<tt><a href="ab_abnc-feat-Person-psor.html">Person[psor]</a></tt><tt>=2</tt></tt></td><td><em>Шәуада</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ab_abnc-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ab_abnc-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt>|<tt><a href="ab_abnc-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td><em>Руада</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ab_abnc-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ab_abnc-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt>|<tt><a href="ab_abnc-feat-Person-psor.html">Person[psor]</a></tt><tt>=2</tt></tt></td><td><em>Шәуадақәа</em></td><td></td></tr>
+  <tr><th>Paradigm <i>а-гәы́</i></th><th><tt>Plur</tt></th><th><tt>Sing</tt></th></tr>
+  <tr><td><tt><tt><a href="ab_abnc-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="ab_abnc-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ab_abnc-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt>|<tt><a href="ab_abnc-feat-Person-psor.html">Person[psor]</a></tt><tt>=1</tt></tt></td><td><em>Ҳгәала</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ab_abnc-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=Masc</tt>|<tt><a href="ab_abnc-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ab_abnc-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="ab_abnc-feat-Person-psor.html">Person[psor]</a></tt><tt>=2</tt></tt></td><td></td><td><em>угәы</em></td></tr>
+  <tr><td><tt><tt><a href="ab_abnc-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=Masc</tt>|<tt><a href="ab_abnc-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ab_abnc-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="ab_abnc-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td></td><td><em>игәы, Игәгьы</em></td></tr>
+  <tr><td><tt><tt><a href="ab_abnc-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=Fem</tt>|<tt><a href="ab_abnc-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ab_abnc-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="ab_abnc-feat-Person-psor.html">Person[psor]</a></tt><tt>=2</tt></tt></td><td></td><td><em>бгәы</em></td></tr>
+  <tr><td><tt><tt><a href="ab_abnc-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=Fem</tt>|<tt><a href="ab_abnc-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ab_abnc-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="ab_abnc-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td></td><td><em>лгәы, лгәи</em></td></tr>
+  <tr><td><tt><tt><a href="ab_abnc-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=Neut</tt>|<tt><a href="ab_abnc-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ab_abnc-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="ab_abnc-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td></td><td><em>агәы</em></td></tr>
+  <tr><td><tt><tt><a href="ab_abnc-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ab_abnc-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="ab_abnc-feat-Person-psor.html">Person[psor]</a></tt><tt>=1</tt></tt></td><td></td><td><em>сгәы, сыгәгьы</em></td></tr>
+  <tr><td><tt><tt><a href="ab_abnc-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ab_abnc-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt>|<tt><a href="ab_abnc-feat-Person-psor.html">Person[psor]</a></tt><tt>=1</tt></tt></td><td><em>ҳгәы</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ab_abnc-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ab_abnc-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt>|<tt><a href="ab_abnc-feat-Person-psor.html">Person[psor]</a></tt><tt>=2</tt></tt></td><td><em>шәгәы</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ab_abnc-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ab_abnc-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt>|<tt><a href="ab_abnc-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td><em>ргәы</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ab_abnc-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ab_abnc-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt>|<tt><a href="ab_abnc-feat-Person-psor.html">Person[psor]</a></tt><tt>=1</tt></tt></td><td><em>ҳагәқәа</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ab_abnc-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ab_abnc-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt>|<tt><a href="ab_abnc-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td><em>рыгәқәа</em></td><td></td></tr>
 </table>
 
 ### `ADP`
 
-164 <tt><a href="ab_abnc-pos-ADP.html">ADP</a></tt> tokens (95% of all `ADP` tokens) have a non-empty value of `Number[psor]`.
+325 <tt><a href="ab_abnc-pos-ADP.html">ADP</a></tt> tokens (95% of all `ADP` tokens) have a non-empty value of `Number[psor]`.
 
-The most frequent other feature values with which `ADP` and `Number[psor]` co-occurred: <tt><a href="ab_abnc-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt> (139; 85%), <tt><a href="ab_abnc-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=Neut</tt> (100; 61%).
+The most frequent other feature values with which `ADP` and `Number[psor]` co-occurred: <tt><a href="ab_abnc-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt> (289; 89%), <tt><a href="ab_abnc-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=Neut</tt> (206; 63%).
 
 `ADP` tokens may have the following values of `Number[psor]`:
 
 
 <table>
   <tr><th>Paradigm <i>а́иҧш</i></th><th><tt>Plur</tt></th><th><tt>Sing</tt></th></tr>
-  <tr><td><tt><tt><a href="ab_abnc-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=Masc</tt>|<tt><a href="ab_abnc-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>иеиҧш</em></td></tr>
-  <tr><td><tt><tt><a href="ab_abnc-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=Fem</tt>|<tt><a href="ab_abnc-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>леиҧш</em></td></tr>
-  <tr><td><tt><tt><a href="ab_abnc-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=Neut</tt>|<tt><a href="ab_abnc-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>еиҧш</em></td></tr>
-  <tr><td><tt><tt><a href="ab_abnc-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt></tt></td><td><em>реиҧш, реиҧшҵәҟьа</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ab_abnc-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=Masc</tt>|<tt><a href="ab_abnc-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="ab_abnc-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td></td><td><em>иеиҧш</em></td></tr>
+  <tr><td><tt><tt><a href="ab_abnc-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=Fem</tt>|<tt><a href="ab_abnc-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="ab_abnc-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td></td><td><em>леиҧш</em></td></tr>
+  <tr><td><tt><tt><a href="ab_abnc-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=Neut</tt>|<tt><a href="ab_abnc-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="ab_abnc-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td></td><td><em>еиҧш</em></td></tr>
+  <tr><td><tt><tt><a href="ab_abnc-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="ab_abnc-feat-Person-psor.html">Person[psor]</a></tt><tt>=1</tt></tt></td><td></td><td><em>сеиҧш</em></td></tr>
+  <tr><td><tt><tt><a href="ab_abnc-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt>|<tt><a href="ab_abnc-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td><em>реиҧш, реиҧшҵәҟьа</em></td><td></td></tr>
 </table>
 
 ### `VERB`
 
-47 <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> tokens (2% of all `VERB` tokens) have a non-empty value of `Number[psor]`.
+89 <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> tokens (2% of all `VERB` tokens) have a non-empty value of `Number[psor]`.
 
-The most frequent other feature values with which `VERB` and `Number[psor]` co-occurred: <tt><a href="ab_abnc-feat-Person-obj.html">Person[obj]</a></tt><tt>=EMPTY</tt> (47; 100%), <tt><a href="ab_abnc-feat-Gender-lo.html">Gender[lo]</a></tt><tt>=EMPTY</tt> (46; 98%), <tt><a href="ab_abnc-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (46; 98%), <tt><a href="ab_abnc-feat-Number-lo.html">Number[lo]</a></tt><tt>=EMPTY</tt> (46; 98%), <tt><a href="ab_abnc-feat-RelType.html">RelType</a></tt><tt>=EMPTY</tt> (46; 98%), <tt><a href="ab_abnc-feat-Person-io.html">Person[io]</a></tt><tt>=EMPTY</tt> (45; 96%), <tt><a href="ab_abnc-feat-Person-lo.html">Person[lo]</a></tt><tt>=EMPTY</tt> (45; 96%), <tt><a href="ab_abnc-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (43; 91%), <tt><a href="ab_abnc-feat-Gender-subj.html">Gender[subj]</a></tt><tt>=EMPTY</tt> (35; 74%), <tt><a href="ab_abnc-feat-Dyn.html">Dyn</a></tt><tt>=Yes</tt> (31; 66%).
+The most frequent other feature values with which `VERB` and `Number[psor]` co-occurred: <tt><a href="ab_abnc-feat-Person-obj.html">Person[obj]</a></tt><tt>=EMPTY</tt> (89; 100%), <tt><a href="ab_abnc-feat-Person-io.html">Person[io]</a></tt><tt>=EMPTY</tt> (88; 99%), <tt><a href="ab_abnc-feat-Person-lo.html">Person[lo]</a></tt><tt>=EMPTY</tt> (87; 98%), <tt><a href="ab_abnc-feat-RelType.html">RelType</a></tt><tt>=EMPTY</tt> (86; 97%), <tt><a href="ab_abnc-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (82; 92%), <tt><a href="ab_abnc-feat-Gender-subj.html">Gender[subj]</a></tt><tt>=EMPTY</tt> (68; 76%), <tt><a href="ab_abnc-feat-Dyn.html">Dyn</a></tt><tt>=Yes</tt> (60; 67%), <tt><a href="ab_abnc-feat-Number-subj.html">Number[subj]</a></tt><tt>=EMPTY</tt> (55; 62%), <tt><a href="ab_abnc-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (49; 55%).
 
 `VERB` tokens may have the following values of `Number[psor]`:
 
 
 <table>
   <tr><th>Paradigm <i>а-ҿы́нахара</i></th><th><tt>Plur</tt></th><th><tt>Sing</tt></th></tr>
-  <tr><td><tt><tt><a href="ab_abnc-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=Neut</tt>|<tt><a href="ab_abnc-feat-Gender-subj.html">Gender[subj]</a></tt><tt>=Neut</tt>|<tt><a href="ab_abnc-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="ab_abnc-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="ab_abnc-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt>|<tt><a href="ab_abnc-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt>|<tt><a href="ab_abnc-feat-Tense.html">Tense</a></tt><tt>=Aor</tt>|<tt><a href="ab_abnc-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>аҿынанахеит</em></td></tr>
-  <tr><td><tt><tt><a href="ab_abnc-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=Neut</tt>|<tt><a href="ab_abnc-feat-Gender-subj.html">Gender[subj]</a></tt><tt>=Neut</tt>|<tt><a href="ab_abnc-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="ab_abnc-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="ab_abnc-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt>|<tt><a href="ab_abnc-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt>|<tt><a href="ab_abnc-feat-Tense.html">Tense</a></tt><tt>=Imp</tt>|<tt><a href="ab_abnc-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>аҿынанахон</em></td></tr>
+  <tr><td><tt><tt><a href="ab_abnc-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=Masc</tt>|<tt><a href="ab_abnc-feat-Gender-subj.html">Gender[subj]</a></tt><tt>=Masc</tt>|<tt><a href="ab_abnc-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ab_abnc-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="ab_abnc-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="ab_abnc-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt>|<tt><a href="ab_abnc-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt>|<tt><a href="ab_abnc-feat-Tense.html">Tense</a></tt><tt>=Aor</tt>|<tt><a href="ab_abnc-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>иҿынеихеит</em></td></tr>
+  <tr><td><tt><tt><a href="ab_abnc-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=Masc</tt>|<tt><a href="ab_abnc-feat-Gender-subj.html">Gender[subj]</a></tt><tt>=Masc</tt>|<tt><a href="ab_abnc-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ab_abnc-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="ab_abnc-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="ab_abnc-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt>|<tt><a href="ab_abnc-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt>|<tt><a href="ab_abnc-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="ab_abnc-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>иҿынеихан</em></td></tr>
+  <tr><td><tt><tt><a href="ab_abnc-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=Fem</tt>|<tt><a href="ab_abnc-feat-Gender-subj.html">Gender[subj]</a></tt><tt>=Fem</tt>|<tt><a href="ab_abnc-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ab_abnc-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="ab_abnc-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="ab_abnc-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt>|<tt><a href="ab_abnc-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt>|<tt><a href="ab_abnc-feat-Tense.html">Tense</a></tt><tt>=Aor</tt>|<tt><a href="ab_abnc-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>лҿыналхеит</em></td></tr>
+  <tr><td><tt><tt><a href="ab_abnc-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=Neut</tt>|<tt><a href="ab_abnc-feat-Gender-subj.html">Gender[subj]</a></tt><tt>=Neut</tt>|<tt><a href="ab_abnc-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ab_abnc-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="ab_abnc-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="ab_abnc-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt>|<tt><a href="ab_abnc-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt>|<tt><a href="ab_abnc-feat-Tense.html">Tense</a></tt><tt>=Aor</tt>|<tt><a href="ab_abnc-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>аҿынанахеит</em></td></tr>
+  <tr><td><tt><tt><a href="ab_abnc-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=Neut</tt>|<tt><a href="ab_abnc-feat-Gender-subj.html">Gender[subj]</a></tt><tt>=Neut</tt>|<tt><a href="ab_abnc-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ab_abnc-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="ab_abnc-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="ab_abnc-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt>|<tt><a href="ab_abnc-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt>|<tt><a href="ab_abnc-feat-Tense.html">Tense</a></tt><tt>=Imp</tt>|<tt><a href="ab_abnc-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>аҿынанахон</em></td></tr>
+  <tr><td><tt><tt><a href="ab_abnc-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ab_abnc-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="ab_abnc-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="ab_abnc-feat-Person-psor.html">Person[psor]</a></tt><tt>=1</tt>|<tt><a href="ab_abnc-feat-Person-subj.html">Person[subj]</a></tt><tt>=1</tt>|<tt><a href="ab_abnc-feat-Tense.html">Tense</a></tt><tt>=Aor</tt>|<tt><a href="ab_abnc-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>сҿынасхеит</em></td></tr>
+  <tr><td><tt><tt><a href="ab_abnc-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ab_abnc-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt>|<tt><a href="ab_abnc-feat-Number-subj.html">Number[subj]</a></tt><tt>=Plur</tt>|<tt><a href="ab_abnc-feat-Person-psor.html">Person[psor]</a></tt><tt>=1</tt>|<tt><a href="ab_abnc-feat-Person-subj.html">Person[subj]</a></tt><tt>=1</tt>|<tt><a href="ab_abnc-feat-Tense.html">Tense</a></tt><tt>=Aor</tt>|<tt><a href="ab_abnc-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>ҳҿынаҳхеит</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ab_abnc-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ab_abnc-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt>|<tt><a href="ab_abnc-feat-Number-subj.html">Number[subj]</a></tt><tt>=Plur</tt>|<tt><a href="ab_abnc-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt>|<tt><a href="ab_abnc-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt>|<tt><a href="ab_abnc-feat-Tense.html">Tense</a></tt><tt>=Aor</tt>|<tt><a href="ab_abnc-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>рҿынархеит</em></td><td></td></tr>
   <tr><td><tt><tt><a href="ab_abnc-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="ab_abnc-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="ab_abnc-feat-Person-psor.html">Person[psor]</a></tt><tt>=1</tt>|<tt><a href="ab_abnc-feat-Person-subj.html">Person[subj]</a></tt><tt>=1</tt>|<tt><a href="ab_abnc-feat-RelType.html">RelType</a></tt><tt>=Tmp</tt>|<tt><a href="ab_abnc-feat-Tense.html">Tense</a></tt><tt>=Aor</tt>|<tt><a href="ab_abnc-feat-VerbForm.html">VerbForm</a></tt><tt>=NonFin</tt></tt></td><td></td><td><em>сҿанынасха</em></td></tr>
-  <tr><td><tt><tt><a href="ab_abnc-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="ab_abnc-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="ab_abnc-feat-Person-psor.html">Person[psor]</a></tt><tt>=1</tt>|<tt><a href="ab_abnc-feat-Person-subj.html">Person[subj]</a></tt><tt>=1</tt>|<tt><a href="ab_abnc-feat-Tense.html">Tense</a></tt><tt>=Aor</tt>|<tt><a href="ab_abnc-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>сҿынасхеит</em></td></tr>
-  <tr><td><tt><tt><a href="ab_abnc-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt>|<tt><a href="ab_abnc-feat-Number-subj.html">Number[subj]</a></tt><tt>=Plur</tt>|<tt><a href="ab_abnc-feat-Person-psor.html">Person[psor]</a></tt><tt>=1</tt>|<tt><a href="ab_abnc-feat-Person-subj.html">Person[subj]</a></tt><tt>=1</tt>|<tt><a href="ab_abnc-feat-Tense.html">Tense</a></tt><tt>=Aor</tt>|<tt><a href="ab_abnc-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>ҳҿынаҳхеит</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ab_abnc-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt>|<tt><a href="ab_abnc-feat-Number-subj.html">Number[subj]</a></tt><tt>=Plur</tt>|<tt><a href="ab_abnc-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt>|<tt><a href="ab_abnc-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt>|<tt><a href="ab_abnc-feat-Tense.html">Tense</a></tt><tt>=Aor</tt>|<tt><a href="ab_abnc-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>рҿынархеит</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ab_abnc-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt>|<tt><a href="ab_abnc-feat-Number-subj.html">Number[subj]</a></tt><tt>=Plur</tt>|<tt><a href="ab_abnc-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt>|<tt><a href="ab_abnc-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt>|<tt><a href="ab_abnc-feat-RelType.html">RelType</a></tt><tt>=Tmp</tt>|<tt><a href="ab_abnc-feat-Tense.html">Tense</a></tt><tt>=Aor</tt>|<tt><a href="ab_abnc-feat-VerbForm.html">VerbForm</a></tt><tt>=NonFin</tt></tt></td><td><em>рҿанынарха</em></td><td></td></tr>
 </table>
-
-`Number[psor]` seems to be **lexical feature** of `VERB`. 92% lemmas (22) occur only with one value of `Number[psor]`.
 
 ### `ADV`
 
-11 <tt><a href="ab_abnc-pos-ADV.html">ADV</a></tt> tokens (2% of all `ADV` tokens) have a non-empty value of `Number[psor]`.
+26 <tt><a href="ab_abnc-pos-ADV.html">ADV</a></tt> tokens (3% of all `ADV` tokens) have a non-empty value of `Number[psor]`.
 
 `ADV` tokens may have the following values of `Number[psor]`:
 
 
 <table>
-  <tr><th>Paradigm <i>а-зхара́</i></th><th><tt>Plur</tt></th><th><tt>Sing</tt></th></tr>
-  <tr><td><tt><tt><a href="ab_abnc-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=Masc</tt>|<tt><a href="ab_abnc-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="ab_abnc-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td></td><td><em>изхара</em></td></tr>
-  <tr><td><tt><tt><a href="ab_abnc-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=Neut</tt>|<tt><a href="ab_abnc-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="ab_abnc-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td></td><td><em>азхараҵәҟьа</em></td></tr>
-  <tr><td><tt><tt><a href="ab_abnc-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt>|<tt><a href="ab_abnc-feat-Person-psor.html">Person[psor]</a></tt><tt>=2</tt></tt></td><td><em>шәызхараҵәҟьа</em></td><td></td></tr>
+  <tr><th>Paradigm <i>ха́ла</i></th><th><tt>Plur</tt></th><th><tt>Sing</tt></th></tr>
+  <tr><td><tt><tt><a href="ab_abnc-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=Masc</tt>|<tt><a href="ab_abnc-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="ab_abnc-feat-Person-psor.html">Person[psor]</a></tt><tt>=2</tt></tt></td><td></td><td><em>ухала</em></td></tr>
+  <tr><td><tt><tt><a href="ab_abnc-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=Masc</tt>|<tt><a href="ab_abnc-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="ab_abnc-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td></td><td><em>ихала</em></td></tr>
+  <tr><td><tt><tt><a href="ab_abnc-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=Neut</tt>|<tt><a href="ab_abnc-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="ab_abnc-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td></td><td><em>ахала</em></td></tr>
+  <tr><td><tt><tt><a href="ab_abnc-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="ab_abnc-feat-Person-psor.html">Person[psor]</a></tt><tt>=1</tt></tt></td><td></td><td><em>схала</em></td></tr>
+  <tr><td><tt><tt><a href="ab_abnc-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt>|<tt><a href="ab_abnc-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td><em>Рхала</em></td><td></td></tr>
 </table>
 
 ### `ADJ`
 
-7 <tt><a href="ab_abnc-pos-ADJ.html">ADJ</a></tt> tokens (9% of all `ADJ` tokens) have a non-empty value of `Number[psor]`.
+18 <tt><a href="ab_abnc-pos-ADJ.html">ADJ</a></tt> tokens (10% of all `ADJ` tokens) have a non-empty value of `Number[psor]`.
 
-The most frequent other feature values with which `ADJ` and `Number[psor]` co-occurred: <tt><a href="ab_abnc-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (7; 100%).
+The most frequent other feature values with which `ADJ` and `Number[psor]` co-occurred: <tt><a href="ab_abnc-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (18; 100%), <tt><a href="ab_abnc-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt> (12; 67%).
 
 `ADJ` tokens may have the following values of `Number[psor]`:
 
@@ -106,28 +111,48 @@ The most frequent other feature values with which `ADJ` and `Number[psor]` co-oc
   <tr><th>Paradigm <i>а-хатәы́</i></th><th><tt>Plur</tt></th><th><tt>Sing</tt></th></tr>
   <tr><td><tt><tt><a href="ab_abnc-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=Masc</tt>|<tt><a href="ab_abnc-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="ab_abnc-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td></td><td><em>ихатә</em></td></tr>
   <tr><td><tt><tt><a href="ab_abnc-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt>|<tt><a href="ab_abnc-feat-Person-psor.html">Person[psor]</a></tt><tt>=2</tt></tt></td><td><em>Шәхатә</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ab_abnc-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt>|<tt><a href="ab_abnc-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td><em>рхатәы</em></td><td></td></tr>
 </table>
+
+`Number[psor]` seems to be **lexical feature** of `ADJ`. 92% lemmas (12) occur only with one value of `Number[psor]`.
 
 ### `NUM`
 
-4 <tt><a href="ab_abnc-pos-NUM.html">NUM</a></tt> tokens (13% of all `NUM` tokens) have a non-empty value of `Number[psor]`.
+6 <tt><a href="ab_abnc-pos-NUM.html">NUM</a></tt> tokens (10% of all `NUM` tokens) have a non-empty value of `Number[psor]`.
 
-The most frequent other feature values with which `NUM` and `Number[psor]` co-occurred: <tt><a href="ab_abnc-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (4; 100%), <tt><a href="ab_abnc-feat-Animacy.html">Animacy</a></tt><tt>=Hum</tt> (3; 75%).
+The most frequent other feature values with which `NUM` and `Number[psor]` co-occurred: <tt><a href="ab_abnc-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (6; 100%), <tt><a href="ab_abnc-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (6; 100%), <tt><a href="ab_abnc-feat-Animacy.html">Animacy</a></tt><tt>=Hum</tt> (5; 83%).
 
 `NUM` tokens may have the following values of `Number[psor]`:
 
 
 ### `PRON`
 
-4 <tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt> tokens (1% of all `PRON` tokens) have a non-empty value of `Number[psor]`.
+6 <tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt> tokens (1% of all `PRON` tokens) have a non-empty value of `Number[psor]`.
 
-The most frequent other feature values with which `PRON` and `Number[psor]` co-occurred: <tt><a href="ab_abnc-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="ab_abnc-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="ab_abnc-feat-Animacy.html">Animacy</a></tt><tt>=Nhum</tt> (3; 75%), <tt><a href="ab_abnc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3; 75%), <tt><a href="ab_abnc-feat-PronType.html">PronType</a></tt><tt>=Ind</tt> (3; 75%).
+The most frequent other feature values with which `PRON` and `Number[psor]` co-occurred: <tt><a href="ab_abnc-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (6; 100%), <tt><a href="ab_abnc-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (6; 100%), <tt><a href="ab_abnc-feat-PronType.html">PronType</a></tt><tt>=Ind</tt> (6; 100%), <tt><a href="ab_abnc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5; 83%).
 
 `PRON` tokens may have the following values of `Number[psor]`:
+
+
+### `INTJ`
+
+1 <tt><a href="ab_abnc-pos-INTJ.html">INTJ</a></tt> tokens (5% of all `INTJ` tokens) have a non-empty value of `Number[psor]`.
+
+`INTJ` tokens may have the following values of `Number[psor]`:
+
+
+### `PROPN`
+
+1 <tt><a href="ab_abnc-pos-PROPN.html">PROPN</a></tt> tokens (0% of all `PROPN` tokens) have a non-empty value of `Number[psor]`.
+
+The most frequent other feature values with which `PROPN` and `Number[psor]` co-occurred: <tt><a href="ab_abnc-feat-NameType.html">NameType</a></tt><tt>=Prs</tt> (1; 100%).
+
+`PROPN` tokens may have the following values of `Number[psor]`:
 
 
 ## Relations with Agreement in `Number[psor]`
 
 The 10 most frequent relations where parent and child node agree in `Number[psor]`:
-<tt>NOUN --[<tt><a href="ab_abnc-dep-conj.html">conj</a></tt>]--> NOUN</tt> (3; 100%).
+<tt>NOUN --[<tt><a href="ab_abnc-dep-conj.html">conj</a></tt>]--> NOUN</tt> (17; 89%),
+<tt>NOUN --[<tt><a href="ab_abnc-dep-nmod.html">nmod</a></tt>]--> ADV</tt> (1; 100%).
 

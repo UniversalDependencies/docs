@@ -9,61 +9,68 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `mark`: <tt><a href="fro_profiterole-dep-mark-advmod.html">mark:advmod</a></tt>.
 
-8810 nodes (4%) are attached to their parents as `mark`.
+8609 nodes (4%) are attached to their parents as `mark`.
 
-8796 instances of `mark` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.34858115777526.
+8591 instances of `mark` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.43779765361831.
 
-The following 23 pairs of parts of speech are connected with `mark`: <tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_profiterole-pos-SCONJ.html">SCONJ</a></tt> (6439; 73% instances), <tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_profiterole-pos-ADP.html">ADP</a></tt> (1113; 13% instances), <tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fro_profiterole-pos-SCONJ.html">SCONJ</a></tt> (426; 5% instances), <tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt> (318; 4% instances), <tt><a href="fro_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fro_profiterole-pos-SCONJ.html">SCONJ</a></tt> (170; 2% instances), <tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="fro_profiterole-pos-SCONJ.html">SCONJ</a></tt> (124; 1% instances), <tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt> (62; 1% instances), <tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="fro_profiterole-pos-SCONJ.html">SCONJ</a></tt> (59; 1% instances), <tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt> (16; 0% instances), <tt><a href="fro_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt> (14; 0% instances), <tt><a href="fro_profiterole-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fro_profiterole-pos-SCONJ.html">SCONJ</a></tt> (14; 0% instances), <tt><a href="fro_profiterole-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt> (12; 0% instances), <tt><a href="fro_profiterole-pos-AUX.html">AUX</a></tt>-<tt><a href="fro_profiterole-pos-SCONJ.html">SCONJ</a></tt> (9; 0% instances), <tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt> (8; 0% instances), <tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_profiterole-pos-X.html">X</a></tt> (8; 0% instances), <tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fro_profiterole-pos-ADP.html">ADP</a></tt> (5; 0% instances), <tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_profiterole-pos-CCONJ.html">CCONJ</a></tt> (4; 0% instances), <tt><a href="fro_profiterole-pos-DET.html">DET</a></tt>-<tt><a href="fro_profiterole-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="fro_profiterole-pos-AUX.html">AUX</a></tt>-<tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="fro_profiterole-pos-DET.html">DET</a></tt>-<tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fro_profiterole-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="fro_profiterole-pos-NUM.html">NUM</a></tt>-<tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="fro_profiterole-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="fro_profiterole-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+The following 24 pairs of parts of speech are connected with `mark`: <tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_profiterole-pos-SCONJ.html">SCONJ</a></tt> (5886; 68% instances), <tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_profiterole-pos-ADP.html">ADP</a></tt> (1155; 13% instances), <tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt> (691; 8% instances), <tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fro_profiterole-pos-SCONJ.html">SCONJ</a></tt> (386; 4% instances), <tt><a href="fro_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fro_profiterole-pos-SCONJ.html">SCONJ</a></tt> (159; 2% instances), <tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="fro_profiterole-pos-SCONJ.html">SCONJ</a></tt> (122; 1% instances), <tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt> (54; 1% instances), <tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="fro_profiterole-pos-SCONJ.html">SCONJ</a></tt> (48; 1% instances), <tt><a href="fro_profiterole-pos-AUX.html">AUX</a></tt>-<tt><a href="fro_profiterole-pos-SCONJ.html">SCONJ</a></tt> (21; 0% instances), <tt><a href="fro_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt> (20; 0% instances), <tt><a href="fro_profiterole-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fro_profiterole-pos-SCONJ.html">SCONJ</a></tt> (13; 0% instances), <tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt> (10; 0% instances), <tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fro_profiterole-pos-ADP.html">ADP</a></tt> (8; 0% instances), <tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_profiterole-pos-X.html">X</a></tt> (8; 0% instances), <tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt> (7; 0% instances), <tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="fro_profiterole-pos-ADP.html">ADP</a></tt> (6; 0% instances), <tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_profiterole-pos-CCONJ.html">CCONJ</a></tt> (5; 0% instances), <tt><a href="fro_profiterole-pos-AUX.html">AUX</a></tt>-<tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="fro_profiterole-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="fro_profiterole-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="fro_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fro_profiterole-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="fro_profiterole-pos-DET.html">DET</a></tt>-<tt><a href="fro_profiterole-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fro_profiterole-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="fro_profiterole-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="fro_profiterole-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 4 mark	color:blue
-1	Sa	_	DET	DETpos	Poss=Yes	2	det	_	XmlId=w_58_01207
-2	custume	_	NOUN	NOMcom	_	6	nsubj:outer	_	XmlId=w_58_01208
-3	est	_	AUX	VERcjg	VerbForm=Fin	6	cop	_	XmlId=w_58_01209
-4	qu'	_	SCONJ	CONsub	_	6	mark	_	SpaceAfter=No|XmlId=w_58_01210
-5	il	_	PRON	PROper	PronType=Prs	6	nsubj	_	XmlId=w_58_01211
-6	parolet	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_01212
-7	a	_	ADP	PRE	_	8	case	_	XmlId=w_58_01213
-8	leisir	_	NOUN	NOMcom	_	6	obl	_	SpaceAfter=No|XmlId=w_58_01214
-9	.	_	PUNCT	PONfrt	_	6	punct	_	XmlId=w_58_01215
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 4 mark	color:blue
+1	Nes	ne1.se1	PRON	ADVneg.PROper	Polarity=Neg|PronType=Prs	3	expl	_	XmlId=w_58_00072
+2	poet	pouvoir	AUX	VERcjg	VerbForm=Fin	3	aux	_	XmlId=w_58_00073
+3	guarder	garder	VERB	VERinf	VerbForm=Inf	0	root	_	XmlId=w_58_00074
+4	que	que	SCONJ	CONsub	_	9	mark	_	XmlId=w_58_00075
+5	mals	mal1	NOUN	NOMcom	_	9	nsubj	_	XmlId=w_58_00076
+6	ne	ne1	ADV	ADVneg	Polarity=Neg	9	advmod	_	XmlId=w_58_00077
+7	l'	le	PRON	PROper	PronType=Prs	9	obj	_	SpaceAfter=No|XmlId=w_58_00078
+8	i	y2	ADV	PROadv	PronType=Dem	9	obl:mod	_	XmlId=w_58_00079
+9	ateignet	atteindre	VERB	VERcjg	VerbForm=Fin	3	ccomp	_	SpaceAfter=No|XmlId=w_58_00080
+10	.	.	PUNCT	PONfrt	_	3	punct	_	XmlId=w_58_00081
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 4 3 mark	color:blue
-1	si	_	ADV	ADVgen	_	2	advmod	_	XmlId=w_58_01184
-2	cumencet	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_01185
-3	a	_	ADP	PRE	_	4	mark	_	XmlId=w_58_01186
-4	penser	_	VERB	VERinf	VerbForm=Inf	2	xcomp	_	SpaceAfter=No|XmlId=w_58_01187
-5	.	_	PUNCT	PONfrt	_	2	punct	_	XmlId=w_58_01188
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 4 mark	color:blue
+1	Prozdom	prudhomme	NOUN	NOMcom	_	3	obj	_	XmlId=w_58_00219
+2	i	y2	ADV	PROadv	PronType=Dem	3	obl:mod	_	XmlId=w_58_00220
+3	out	avoir	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_00221
+4	pur	pour	ADP	PRE	_	7	mark	_	XmlId=w_58_00222
+5	sun	son4	DET	DETpos	Poss=Yes	6	det	_	XmlId=w_58_00223
+6	seignur	seigneur	NOUN	NOMcom	_	7	obj	_	XmlId=w_58_00224
+7	aider	aider	VERB	VERinf	VerbForm=Inf	3	advcl	_	SpaceAfter=No|XmlId=w_58_00225
+8	,	,	PUNCT	PONfbl	_	3	punct	_	XmlId=w_58_00226
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 3 mark	color:blue
-1	Conseilez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_00171
-2	mei	_	PRON	PROper	PronType=Prs	1	obj	_	XmlId=w_58_00172
-3	cume	_	SCONJ	CONsub	_	6	mark	_	XmlId=w_58_00173
-4	mi	_	DET	DETpos	Poss=Yes	6	det	_	XmlId=w_58_00174
-5	savie	_	ADJ	ADJqua	_	6	amod	_	XmlId=w_58_00175
-6	hume	_	NOUN	NOMcom	_	1	obl	_	SpaceAfter=No|XmlId=w_58_00176
-7	,	_	PUNCT	PONfbl	_	1	punct	_	XmlId=w_58_00177
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 5 mark	color:blue
+1	Saveir	savoir1	NOUN	NOMcom	VerbForm=Inf	3	obj	_	XmlId=w_58_02036
+2	i	y2	ADV	PROadv	PronType=Dem	3	obl	_	XmlId=w_58_02037
+3	ad	avoir	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_58_02038
+4	,	,	PUNCT	PONfbl	_	3	punct	_	XmlId=w_58_02039
+5	mais	mais1	ADV	ADVgen	_	9	mark	_	XmlId=w_58_02040
+6	qu'	que	SCONJ	CONsub	_	5	fixed	_	SpaceAfter=No|XmlId=w_58_02041
+7	il	il	PRON	PROper	PronType=Prs	9	nsubj:pass	_	XmlId=w_58_02042
+8	seit	estre	AUX	VERcjg	VerbForm=Fin	9	aux:pass	_	XmlId=w_58_02043
+9	entendud	entendre	VERB	VERppe	Tense=Past|VerbForm=Part	3	advcl	_	SpaceAfter=No|XmlId=w_58_02044
+10	.	.	PUNCT	PONfrt	_	3	punct	_	XmlId=w_58_02045
 
 ~~~
 

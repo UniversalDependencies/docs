@@ -97,7 +97,7 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 ## Relations with Agreement in `Mood`
 
 The 10 most frequent relations where parent and child node agree in `Mood`:
-<tt>VERB --[<tt><a href="orv_torot-dep-conj.html">conj</a></tt>]--> VERB</tt> (1983; 69%),
+<tt>VERB --[<tt><a href="orv_torot-dep-conj.html">conj</a></tt>]--> VERB</tt> (1984; 69%),
 <tt>VERB --[<tt><a href="orv_torot-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (86; 51%),
 <tt>AUX --[<tt><a href="orv_torot-dep-conj.html">conj</a></tt>]--> VERB</tt> (27; 63%),
 <tt>VERB --[<tt><a href="orv_torot-dep-conj.html">conj</a></tt>]--> AUX</tt> (21; 75%),

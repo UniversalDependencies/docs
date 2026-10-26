@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-9 nodes (0%) are attached to their parents as `list`.
+11 nodes (0%) are attached to their parents as `list`.
 
-9 instances of `list` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.44444444444444.
+11 instances of `list` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 9.
 
-The following 6 pairs of parts of speech are connected with `list`: <tt><a href="orv_ruthenian-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (3; 33% instances), <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt> (2; 22% instances), <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (1; 11% instances), <tt><a href="orv_ruthenian-pos-NUM.html">NUM</a></tt>-<tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (1; 11% instances), <tt><a href="orv_ruthenian-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_ruthenian-pos-PROPN.html">PROPN</a></tt> (1; 11% instances), <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (1; 11% instances).
+The following 8 pairs of parts of speech are connected with `list`: <tt><a href="orv_ruthenian-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (3; 27% instances), <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt> (2; 18% instances), <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (1; 9% instances), <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_ruthenian-pos-PROPN.html">PROPN</a></tt> (1; 9% instances), <tt><a href="orv_ruthenian-pos-NUM.html">NUM</a></tt>-<tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (1; 9% instances), <tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (1; 9% instances), <tt><a href="orv_ruthenian-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_ruthenian-pos-PROPN.html">PROPN</a></tt> (1; 9% instances), <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (1; 9% instances).
 
 
 ~~~ conllu
@@ -58,9 +58,9 @@ The following 6 pairs of parts of speech are connected with `list`: <tt><a href=
 # visual-style 11	fgColor:white
 # visual-style 11 12 list	color:blue
 1	І	и	CCONJ	_	_	2	cc	_	wf="И"
-2	мешкали	мѣшкати	VERB	_	Aspect=Imp|Number=Plur|Tense=Past|VerbForm=PartRes|Voice=Act	0	root	_	wf="мешкали"|SpaceAfter=No
+2	мешкали	мешкати	VERB	_	Aspect=Imp|Number=Plur|Tense=Past|VerbForm=PartRes|Voice=Act	0	root	_	wf="мешкали"|SpaceAfter=No
 3	,	,	PUNCT	_	_	4	punct	_	wf=","
-4	мови(т)	мовити	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	2	parataxis:discourse	_	wf="мовит"|SpaceAfter=No
+4	мови(т)	мовити	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	parataxis:discourse	_	wf="мовит"|SpaceAfter=No
 5	,	,	PUNCT	_	_	4	punct	_	wf=","
 6	[	[	PUNCT	_	_	7	punct	_	wf="["|NoIndex=Yes|SpaceAfter=No
 7	глоса	глоса	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	2	parataxis	_	wf="глоса"|NoIndex=Yes

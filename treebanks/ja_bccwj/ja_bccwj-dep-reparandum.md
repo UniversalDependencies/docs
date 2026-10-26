@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-17 nodes (0%) are attached to their parents as `reparandum`.
+16 nodes (0%) are attached to their parents as `reparandum`.
 
-16 instances of `reparandum` (94%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.17647058823529.
+15 instances of `reparandum` (94%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.25.
 
-The following 7 pairs of parts of speech are connected with `reparandum`: <tt><a href="ja_bccwj-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_bccwj-pos-X.html">X</a></tt> (4; 24% instances), <tt><a href="ja_bccwj-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_bccwj-pos-X.html">X</a></tt> (4; 24% instances), <tt><a href="ja_bccwj-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_bccwj-pos-X.html">X</a></tt> (4; 24% instances), <tt><a href="ja_bccwj-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_bccwj-pos-X.html">X</a></tt> (2; 12% instances), <tt><a href="ja_bccwj-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_bccwj-pos-X.html">X</a></tt> (1; 6% instances), <tt><a href="ja_bccwj-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ja_bccwj-pos-X.html">X</a></tt> (1; 6% instances), <tt><a href="ja_bccwj-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_bccwj-pos-SYM.html">SYM</a></tt> (1; 6% instances).
+The following 7 pairs of parts of speech are connected with `reparandum`: <tt><a href="ja_bccwj-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_bccwj-pos-X.html">X</a></tt> (4; 25% instances), <tt><a href="ja_bccwj-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_bccwj-pos-X.html">X</a></tt> (4; 25% instances), <tt><a href="ja_bccwj-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_bccwj-pos-X.html">X</a></tt> (4; 25% instances), <tt><a href="ja_bccwj-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_bccwj-pos-X.html">X</a></tt> (1; 6% instances), <tt><a href="ja_bccwj-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_bccwj-pos-X.html">X</a></tt> (1; 6% instances), <tt><a href="ja_bccwj-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ja_bccwj-pos-X.html">X</a></tt> (1; 6% instances), <tt><a href="ja_bccwj-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_bccwj-pos-ADP.html">ADP</a></tt> (1; 6% instances).
 
 
 ~~~ conllu
@@ -40,7 +40,7 @@ The following 7 pairs of parts of speech are connected with `reparandum`: <tt><a
 16	_	_	SCONJ	_	_	14	mark	_	BBIL=I|BPT=3|LBIL=B|LPOS=9|SpaceAfter=No|UI=8
 17	_	_	SYM	_	_	14	dep	_	BBIL=I|BPT=0|LBIL=B|LPOS=19|SpaceAfter=No|UI=87
 18	_	_	SYM	_	_	14	dep	_	BBIL=I|BPT=0|LBIL=B|LPOS=19|SpaceAfter=No|UI=87
-19	_	_	PUNCT	_	_	14	punct	_	BBIL=I|BPT=0|LBIL=B|LPOS=5|SpaceAfter=No|UI=46
+19	_	_	PUNCT	_	_	14	punct	_	BBIL=I|BPT=0|LBIL=B|LPOS=5|UI=46
 
 ~~~
 
@@ -80,7 +80,7 @@ The following 7 pairs of parts of speech are connected with `reparandum`: <tt><a
 4	_	_	VERB	_	_	0	root	_	BBIL=B|BPT=4|LBIL=B|LPOS=60|SpaceAfter=No|UI=4190
 5	_	_	AUX	_	_	4	aux	_	BBIL=I|BPT=2|LBIL=I|LPOS=60|SpaceAfter=No|UI=4091
 6	_	_	AUX	_	Polarity=Neg	4	aux	_	BBIL=I|BPT=3|LBIL=I|LPOS=60|PUDL=ぬ|SpaceAfter=No|UI=4175
-7	_	_	PUNCT	_	_	4	punct	_	BBIL=I|BPT=0|LBIL=B|LPOS=13|SpaceAfter=No|UI=14
+7	_	_	PUNCT	_	_	4	punct	_	BBIL=I|BPT=0|LBIL=B|LPOS=13|UI=14
 
 ~~~
 

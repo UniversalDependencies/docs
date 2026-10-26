@@ -67,7 +67,7 @@ The following 5 pairs of parts of speech are connected with `list`: <tt><a href=
 26	(	(	PUNCT	PUNCT	_	28	punct	_	SpaceAfter=No
 27	ה	ה	DET	DET	Definite=Def|PronType=Art	28	det	_	Entity=(WOA
 28	בשורה	בשורה	PROPN	PROPN	_	19	parataxis	_	_
-29	על	על	ADP	ADP	_	32	case	_	SpaceAfter=No
+29	על	על	ADP	ADP	ExtPos=ADP	32	case	_	SpaceAfter=No
 30	-	-	PUNCT	PUNCT	_	31	punct	_	SpaceAfter=No
 31	פי	פה	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	29	fixed	_	_
 32	מתי	מתי	PROPN	PROPN	_	28	nmod	_	Entity=WOA)|SpaceAfter=No

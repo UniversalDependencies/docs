@@ -111,7 +111,7 @@ The most frequent other feature values with which `ADV` and `VerbForm` co-occurr
 `ADV` tokens may have the following values of `VerbForm`:
 
 * `Conv` (472; 100% of non-empty `VerbForm`): <em>uključujući, zahvaljujući, govoreći, ističući, dodajući, ukazujući, tražeći, opisujući, pozivajući, sudeći</em>
-* `EMPTY` (7956): <em>samo, još, više, također, već, posto, kada, sada, međutim, tako</em>
+* `EMPTY` (7967): <em>samo, još, više, također, posto, već, kada, sada, međutim, tako</em>
 
 `VerbForm` seems to be **lexical feature** of `ADV`. 100% lemmas (222) occur only with one value of `VerbForm`.
 

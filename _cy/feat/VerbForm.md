@@ -41,4 +41,4 @@ The only non finite form of Welsh verbs is the verb noun. It functions as a noun
 
 
 
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:10 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:23 CEST -->

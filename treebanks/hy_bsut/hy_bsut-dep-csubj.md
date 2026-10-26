@@ -7,14 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Armenian-BSUT: Relations: `csubj`
 
 This relation is universal.
-There are 1 language-specific subtypes of `csubj`: <tt><a href="hy_bsut-dep-csubj-pass.html">csubj:pass</a></tt>.
+There are 2 language-specific subtypes of `csubj`: <tt><a href="hy_bsut-dep-csubj-outer.html">csubj:outer</a></tt>, <tt><a href="hy_bsut-dep-csubj-pass.html">csubj:pass</a></tt>.
 
-151 nodes (0%) are attached to their parents as `csubj`.
+162 nodes (0%) are attached to their parents as `csubj`.
 
-127 instances of `csubj` (84%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.45695364238411.
+137 instances of `csubj` (85%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.67901234567901.
 
-The following 14 pairs of parts of speech are connected with `csubj`: <tt><a href="hy_bsut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt> (95; 63% instances), <tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt> (29; 19% instances), <tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt> (12; 8% instances), <tt><a href="hy_bsut-pos-ADV.html">ADV</a></tt>-<tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt> (4; 3% instances), <tt><a href="hy_bsut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hy_bsut-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="hy_bsut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="hy_bsut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hy_bsut-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_bsut-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="hy_bsut-pos-PRON.html">PRON</a></tt>-<tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_bsut-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_bsut-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_bsut-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
+The following 13 pairs of parts of speech are connected with `csubj`: <tt><a href="hy_bsut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt> (101; 62% instances), <tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt> (32; 20% instances), <tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt> (13; 8% instances), <tt><a href="hy_bsut-pos-ADV.html">ADV</a></tt>-<tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt> (5; 3% instances), <tt><a href="hy_bsut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hy_bsut-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_bsut-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="hy_bsut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="hy_bsut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hy_bsut-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="hy_bsut-pos-PRON.html">PRON</a></tt>-<tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_bsut-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_bsut-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_bsut-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -25,12 +25,12 @@ The following 14 pairs of parts of speech are connected with `csubj`: <tt><a hre
 # visual-style 6 7 csubj	color:blue
 1	Փաստերի	փաստ	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Plur	2	nmod:poss	_	Translit=P’asteri|LTranslit=p’ast
 2	ստուգման	ստուգում	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	4	nmod:poss	_	Translit=stowgman|LTranslit=stowgowm
-3	ամենապարզ	պարզ	ADJ	_	Degree=Pos	4	amod	_	Translit=amenaparz|LTranslit=parz
+3	ամենապարզ	պարզ	ADJ	_	Degree=Sup	4	amod	_	Translit=amenaparz|LTranslit=parz
 4	կանոններն	կանոն	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Plur	7	obj	_	Translit=kanonnern|LTranslit=kanon
 5	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	6	cop	_	Translit=ē|LTranslit=em
 6	պետք	պետք	ADJ	_	_	0	root	_	Translit=petk’|LTranslit=petk’
 7	օգտագործել	օգտագործել	VERB	_	Polarity=Pos|Subcat=Tran|VerbForm=Inf|Voice=Act	6	csubj	_	Translit=ògtagorçel|LTranslit=ògtagorçel|SpaceAfter=No
-8	.	.	PUNCT	_	_	6	punct	_	Translit=.|LTranslit=.
+8	.	.	PUNCT	_	Foreign=Yes	6	punct	_	Translit=.|LTranslit=.
 
 ~~~
 
@@ -61,21 +61,24 @@ The following 14 pairs of parts of speech are connected with `csubj`: <tt><a hre
 
 
 ~~~ conllu
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 8 csubj	color:blue
-1	«	«	PUNCT	_	_	5	punct	_	Translit=«|LTranslit=«|SpaceAfter=No
-2	Ինչ	ինչ	PART	_	_	5	discourse	_	Translit=Inč|LTranslit=inč
-3	՜	՜	PUNCT	_	_	2	punct	_	Translit=!|LTranslit=!
-4	լավ	լավ	ADJ	_	Degree=Pos	5	amod	_	Translit=lav|LTranslit=lav
-5	բան	բան	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	0	root	_	Translit=ban|LTranslit=ban
-6	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	5	cop	_	Translit=ē|LTranslit=em
-7	ծեր	ծեր	ADJ	_	Degree=Pos	8	xcomp	_	Translit=çer|LTranslit=çer
-8	լինելը	լինել	VERB	_	Case=Nom|Definite=Def|Polarity=Pos|Subcat=Intr|VerbForm=Inf|Voice=Mid	5	csubj	_	Translit=linelë|LTranslit=linel|SpaceAfter=No
-9	»	»	PUNCT	_	_	5	punct	_	Translit=»|LTranslit=»|SpaceAfter=No
-10	:	:	PUNCT	_	Foreign=Yes	5	punct	_	Translit=.|LTranslit=.
+# visual-style 8 11 csubj	color:blue
+1	Եվ	և	CCONJ	_	_	2	cc	_	Translit=Ev|LTranslit=ew
+2	կրկնեց	կրկնել	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Subcat=Tran|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=krknec’|LTranslit=krknel|SpaceAfter=No
+3	.	.	PUNCT	_	Foreign=Yes	8	punct	_	Translit=.|LTranslit=.
+4	«	«	PUNCT	_	_	8	punct	_	Translit=«|LTranslit=«|SpaceAfter=No
+5	Ինչ	ինչ	DET	_	PronType=Exc	8	det	_	Translit=Inč|LTranslit=inč
+6	՜	՜	PUNCT	_	_	5	punct	_	Translit=!|LTranslit=!
+7	լավ	լավ	ADJ	_	Degree=Pos	8	amod	_	Translit=lav|LTranslit=lav
+8	բան	բան	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	2	ccomp	_	Translit=ban|LTranslit=ban
+9	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	8	cop	_	Translit=ē|LTranslit=em
+10	ծեր	ծեր	ADJ	_	Degree=Pos	11	xcomp	_	Translit=çer|LTranslit=çer
+11	լինելը	լինել	VERB	_	Case=Nom|Definite=Def|Polarity=Pos|Subcat=Intr|VerbForm=Inf|Voice=Mid	8	csubj	_	Translit=linelë|LTranslit=linel|SpaceAfter=No
+12	»	»	PUNCT	_	_	8	punct	_	Translit=»|LTranslit=»|SpaceAfter=No
+13	:	:	PUNCT	_	Foreign=Yes	2	punct	_	Translit=.|LTranslit=.
 
 ~~~
 

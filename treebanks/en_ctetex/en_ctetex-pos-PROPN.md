@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_English-CTeTex: POS Tags: `PROPN`
 
-There are 1 `PROPN` lemmas (6%), 152 `PROPN` types (7%) and 293 `PROPN` tokens (3%).
-Out of 17 observed tags, the rank of `PROPN` is: 12 in number of lemmas, 4 in number of types and 9 in number of tokens.
+There are 152 `PROPN` lemmas (8%), 152 `PROPN` types (7%) and 293 `PROPN` tokens (3%).
+Out of 17 observed tags, the rank of `PROPN` is: 4 in number of lemmas, 4 in number of types and 9 in number of tokens.
 
-The 10 most frequent `PROPN` lemmas: <em>_</em>
+The 10 most frequent `PROPN` lemmas: <em>NPAC, HATS, TCS, ASPERA-3, AC-130U, MEX, NDE, EIRENE, FPMS, MC-130H</em>
 
 The 10 most frequent `PROPN` types:  <em>NPAC, HATS, TCS, ASPERA-3, AC-130U, MEX, NDE, EIRENE, FPMS, MC-130H</em>
 
-The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="en_ctetex-pos-NOUN.html">NOUN</a></tt> 2649, <tt><a href="en_ctetex-pos-PUNCT.html">PUNCT</a></tt> 1455, <tt><a href="en_ctetex-pos-DET.html">DET</a></tt> 936, <tt><a href="en_ctetex-pos-ADP.html">ADP</a></tt> 781, <tt><a href="en_ctetex-pos-VERB.html">VERB</a></tt> 721, <tt><a href="en_ctetex-pos-ADJ.html">ADJ</a></tt> 647, <tt><a href="en_ctetex-pos-AUX.html">AUX</a></tt> 492, <tt><a href="en_ctetex-pos-NUM.html">NUM</a></tt> 317, <tt><a href="en_ctetex-pos-PROPN.html">PROPN</a></tt> 293, <tt><a href="en_ctetex-pos-CCONJ.html">CCONJ</a></tt> 267, <tt><a href="en_ctetex-pos-ADV.html">ADV</a></tt> 185, <tt><a href="en_ctetex-pos-PART.html">PART</a></tt> 165, <tt><a href="en_ctetex-pos-SCONJ.html">SCONJ</a></tt> 163, <tt><a href="en_ctetex-pos-SYM.html">SYM</a></tt> 98, <tt><a href="en_ctetex-pos-PRON.html">PRON</a></tt> 83, <tt><a href="en_ctetex-pos-X.html">X</a></tt> 17, <tt><a href="en_ctetex-pos-INTJ.html">INTJ</a></tt> 4)
+The 10 most frequent ambiguous lemmas: 
 
 The 10 most frequent ambiguous types:  <em>VIL</em> (<tt><a href="en_ctetex-pos-PROPN.html">PROPN</a></tt> 3, <tt><a href="en_ctetex-pos-NOUN.html">NOUN</a></tt> 1), <em>SOA</em> (<tt><a href="en_ctetex-pos-NOUN.html">NOUN</a></tt> 4, <tt><a href="en_ctetex-pos-PROPN.html">PROPN</a></tt> 2), <em>FCP</em> (<tt><a href="en_ctetex-pos-NOUN.html">NOUN</a></tt> 14, <tt><a href="en_ctetex-pos-PROPN.html">PROPN</a></tt> 1), <em>OA</em> (<tt><a href="en_ctetex-pos-NOUN.html">NOUN</a></tt> 4, <tt><a href="en_ctetex-pos-PROPN.html">PROPN</a></tt> 1), <em>Shunting</em> (<tt><a href="en_ctetex-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="en_ctetex-pos-PROPN.html">PROPN</a></tt> 1)
 
@@ -36,9 +36,13 @@ The 10 most frequent ambiguous types:  <em>VIL</em> (<tt><a href="en_ctetex-pos-
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 152.000000 (the average of all parts of speech is 125.235294).
+The form / lemma ratio of `PROPN` is 1.000000 (the average of all parts of speech is 1.138503).
 
-The 1st highest number of forms (152) was observed with the lemma “_”: <em>100BaseT, AC-130U, ALQ-172, APAF, ASHRAE, ASPERA-3, C, CIWS, CMIP, CSCIs, DH, DTMF, DigitalHome, DoC, EDR, EIRENE, ESPC, ETCS, EVLA, F, FCP, FEA, FL-Lower, FL-Upper, FPMS, FTP, Fahrenheit, Fourier, GDMO, GPS, GSM-R, Glass, Google, HATS, HH681MPCC1, HVAC, IADE, IBIT, ICAO, IDE, IEEE, IP, ISA, ISO, Java, LTA, Linux, MC-130H, MEX, MIL-STD-464, MMC, MPCC01, MultiMahjongClient, MultiMahjongServer, NAS, NDE, NESDIS, NOAA, NPA, NPA-NXX, NPA-NXX-xxxx, NPAC, NPOESS, OA, OIW, OM, OMB, PCI, PHIN, Poisson, R6-28.1, R6-28.2, R6-29.1, R6-29.2, RR3-137.1, RR3-137.2, RR3-137.3, RR3-137.4, RVS, RVSM, Radstone, SDLC, SLDC, SOA, SQL, SRS015, SRS035, SRS043, SRS044, SRS064, SRS091, SRS093, SRS094, SRS095, SRS096, SRS097, SRS098, SRS101, SRS102, SRS104, SRS117, SRS173, SRS178, SRS181, SRS184, SRS187, SRS208, SRS215, SRS234, SRS245, SRS254, SRS256, SRS257, SRS275, SRS283, SRS284, SSS017, SSS024, SSS025, SSS026, SSS027, SSS028, SSS031, SSS037, SSS075, SSS083, SSS084, SSS085, SSS086, SSS087, SSS090, SSS222, SSS223, SSS224, SSS225, SSS542, SSS554, SV-423.3, SV-515, Shunting, Solaris, Sun, TCS, TGF, THEMAS, UDP, USSD, VIL, VxWorks, Windows, YD681MPCC1, zip</em>.
+The 1st highest number of forms (1) was observed with the lemma “100BaseT”: <em>100BaseT</em>.
+
+The 2nd highest number of forms (1) was observed with the lemma “AC-130U”: <em>AC-130U</em>.
+
+The 3rd highest number of forms (1) was observed with the lemma “ALQ-172”: <em>ALQ-172</em>.
 
 `PROPN` does not occur with any features.
 

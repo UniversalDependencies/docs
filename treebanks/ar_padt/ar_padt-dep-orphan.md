@@ -53,7 +53,7 @@ The following 29 pairs of parts of speech are connected with `orphan`: <tt><a hr
 4	مباراتان	مُبَارَاة	NOUN	N------D1I	Case=Nom|Definite=Ind|Number=Dual	2	nsubj:pass	2:nsubj:pass	Vform=مُبَارَاتَانِ|Gloss=match,game,competition|Root=b r y|Translit=mubārātāni|LTranslit=mubārāt
 5	هامشيتان	هَامِشِيّ	ADJ	A-----FD1I	Case=Nom|Definite=Ind|Gender=Fem|Number=Dual	4	amod	4:amod	Vform=هَامِشِيَّتَانِ|Gloss=peripheral,marginal,sidelined|Root=h m ^s|Translit=hāmišīyatāni|LTranslit=hāmišīy
 6	في	فِي	ADP	P---------	AdpType=Prep	7	case	7:case	Vform=فِي|Gloss=in|Root=fI|Translit=fī|LTranslit=fī
-7	الفردي	فَردِيّ	ADJ	A-----MS2D	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	4	amod	4:amod	Vform=اَلفَردِيِّ|Gloss=individual,single|Root=f r d|Translit=al-fardīyi|LTranslit=fardīy
+7	الفردي	فَردِيّ	ADJ	A-----MS2D	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	4	nmod	4:nmod:فِي:gen	Vform=اَلفَردِيِّ|Gloss=individual,single|Root=f r d|Translit=al-fardīyi|LTranslit=fardīy
 8	لن	لَن	PART	F---------	_	9	advmod	9:advmod	Vform=لَن|Gloss=not|Root=lan|Translit=lan|LTranslit=lan
 9	تؤثر	أَثَّر	VERB	VISA-3FS--	Aspect=Imp|Gender=Fem|Mood=Sub|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	4	acl	4:acl	Vform=تُؤَثِّرَ|Gloss=affect,influence|Root=' _t r|Translit=tuʾaṯṯira|LTranslit=ʾaṯṯar
 10	نتيجة	نَتِيجَة	NOUN	N------S1R	Case=Nom|Definite=Cons|Number=Sing	9	nsubj	9:nsubj	Gloss=result,consequence|LTranslit=natīǧat|Root=n t ^g|Translit=natīǧatu|Vform=نَتِيجَةُ
@@ -89,9 +89,9 @@ The following 29 pairs of parts of speech are connected with `orphan`: <tt><a hr
 4	السعودية	سَعُودِيَّة	NOUN	N------S1D	Case=Nom|Definite=Def|Number=Sing	3	nsubj	3:nsubj	Vform=اَلسَّعُودِيَّةُ|Gloss=Saudi_Arabia|Root=s ` d|Translit=as-saʿūdīyatu|LTranslit=saʿūdīyat
 5	تسعة	تِسعَة	NUM	QV----M-4I	Case=Acc|Definite=Ind|Gender=Masc|NumForm=Word|NumValue=3	3	obj	3:obj	Vform=تِسعَةً|Gloss=nine|Root=t s `|Translit=tisʿatan|LTranslit=tisʿat
 6	في	فِي	ADP	P---------	AdpType=Prep	7	case	7:case	Vform=فِي|Gloss=in|Root=fI|Translit=fī|LTranslit=fī
-7	المائة	مِائَة	NUM	QC-----S2D	Case=Gen|Definite=Def|Number=Sing|NumForm=Word	5	nummod	5:nummod	Vform=اَلمِائَةِ|Gloss=hundred|Root=m ' y|Translit=al-miʾati|LTranslit=miʾat
+7	المائة	مِائَة	NUM	QC-----S2D	Case=Gen|Definite=Def|Number=Sing|NumForm=Word	5	nmod	5:nmod:فِي:gen	Vform=اَلمِائَةِ|Gloss=hundred|Root=m ' y|Translit=al-miʾati|LTranslit=miʾat
 8	من	مِن	ADP	P---------	AdpType=Prep	9	case	9:case	Vform=مِن|Gloss=from|Root=min|Translit=min|LTranslit=min
-9	مجموع	مَجمُوع	ADJ	A-----MS2R	Case=Gen|Definite=Cons|Gender=Masc|Number=Sing	5	amod	5:amod	Vform=مَجمُوعِ|Gloss=gathered,total|Root=^g m `|Translit=maǧmūʿi|LTranslit=maǧmūʿ
+9	مجموع	مَجمُوع	ADJ	A-----MS2R	Case=Gen|Definite=Cons|Gender=Masc|Number=Sing	5	nmod	5:nmod:مِن:gen	Vform=مَجمُوعِ|Gloss=gathered,total|Root=^g m `|Translit=maǧmūʿi|LTranslit=maǧmūʿ
 10	سكان	سَاكِن	NOUN	N------P2R	Case=Gen|Definite=Cons|Number=Plur	9	nmod	9:nmod:gen	Vform=سُكَّانِ|Gloss=resident,inhabitant|Root=s k n|Translit=sukkāni|LTranslit=sākin
 11	العالم	عَالَم	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	10	nmod	10:nmod:gen	Vform=اَلعَالَمِ|Gloss=world|Root=` l m|Translit=al-ʿālami|LTranslit=ʿālam
 12	العربي	عَرَبِيّ	ADJ	A-----MS2D	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	11	amod	11:amod	Vform=اَلعَرَبِيِّ|Gloss=Arabic,Arab|Root=` r b|Translit=al-ʿarabīyi|LTranslit=ʿarabīy
@@ -106,7 +106,7 @@ The following 29 pairs of parts of speech are connected with `orphan`: <tt><a hr
 21	نحو	نَحوَ	ADP	PI------4-	AdpType=Prep|Case=Acc	22	case	22:case	Vform=نَحوَ|Gloss=towards,approximately|Root=n .h w|Translit=naḥwa|LTranslit=naḥwa
 22	ثمانية	ثَمَانِيَة	NUM	QV----M-2I	Case=Gen|Definite=Ind|Gender=Masc|NumForm=Word|NumValue=3	14	orphan	14.1:dep	Vform=ثَمَانِيَةٍ|Gloss=eight|Root=_t m n|Translit=ṯamāniyatin|LTranslit=ṯamāniyat
 23	في	فِي	ADP	P---------	AdpType=Prep	24	case	24:case	Vform=فِي|Gloss=in|Root=fI|Translit=fī|LTranslit=fī
-24	المائة	مِائَة	NUM	QC-----S2D	Case=Gen|Definite=Def|Number=Sing|NumForm=Word	22	nummod	22:nummod	SpaceAfter=No|Vform=اَلمِائَةِ|Gloss=hundred|Root=m ' y|Translit=al-miʾati|LTranslit=miʾat
+24	المائة	مِائَة	NUM	QC-----S2D	Case=Gen|Definite=Def|Number=Sing|NumForm=Word	22	nmod	22:nmod:فِي:gen	SpaceAfter=No|Vform=اَلمِائَةِ|Gloss=hundred|Root=m ' y|Translit=al-miʾati|LTranslit=miʾat
 25	.	.	PUNCT	G---------	_	1	punct	1:punct	Vform=.|Translit=.
 
 ~~~

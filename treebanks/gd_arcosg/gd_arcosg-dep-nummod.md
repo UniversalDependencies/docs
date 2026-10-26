@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-743 nodes (1%) are attached to their parents as `nummod`.
+734 nodes (1%) are attached to their parents as `nummod`.
 
-729 instances of `nummod` (98%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.19380888290713.
+728 instances of `nummod` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.19073569482289.
 
-The following 9 pairs of parts of speech are connected with `nummod`: <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt> (679; 91% instances), <tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt>-<tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt> (50; 7% instances), <tt><a href="gd_arcosg-pos-SYM.html">SYM</a></tt>-<tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt> (5; 1% instances), <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt>-<tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="gd_arcosg-pos-SYM.html">SYM</a></tt>-<tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt>-<tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="gd_arcosg-pos-X.html">X</a></tt>-<tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `nummod`: <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt> (672; 92% instances), <tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt>-<tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt> (49; 7% instances), <tt><a href="gd_arcosg-pos-SYM.html">SYM</a></tt>-<tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt> (4; 1% instances), <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt>-<tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="gd_arcosg-pos-SYM.html">SYM</a></tt>-<tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt>-<tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="gd_arcosg-pos-X.html">X</a></tt>-<tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -22,10 +22,10 @@ The following 9 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
 # visual-style 11 10 nummod	color:blue
-1	‘s	's	CCONJ	Cc	_	3	cc	_	_
+1	‘s	is	CCONJ	Cc	_	3	cc	_	_
 2	an	an	PART	Qq	PartType=Vb|PronType=Int	3	mark:prt	_	_
 3	robh	bi	VERB	V-s--d	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
-4	a	a	DET	Dq	PronType=Art	6	det	_	_
+4	a	a	DET	Dq	ExtPos=DET|PronType=Art	6	det	_	_
 5	h-uile	uile	DET	Dq	PronType=Art	4	fixed	_	_
 6	duine	duine	NOUN	Ncsmn	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
 7	eile	eile	ADJ	Aq-smn	Case=Nom|Gender=Masc|Number=Sing	6	amod	_	_
@@ -61,8 +61,8 @@ The following 9 pairs of parts of speech are connected with `nummod`: <tt><a hre
 13	e	e	PRON	Pp3sm	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nmod	_	_
 14	bho	bho	ADP	Sp	_	16	case	_	_
 15	an	an	DET	Tds	Definite=Def|Number=Sing|PronType=Art	16	det	_	_
-16	Roinn	Roinn	PROPN	Nt	_	8	obl	_	_
-17	Eòrpa	Eòrpa	PROPN	Nt	_	16	flat	_	SpaceAfter=No
+16	Roinn	Roinn	PROPN	Nt	NounType=Top	8	obl	_	_
+17	Eòrpa	Eòrpa	PROPN	Nt	NounType=Top	16	flat:name	_	FlatType=Top|SpaceAfter=No
 18	.	.	PUNCT	Fe	_	1	punct	_	_
 
 ~~~
@@ -89,8 +89,8 @@ The following 9 pairs of parts of speech are connected with `nummod`: <tt><a hre
 13	e	e	PRON	Pp3sm	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nmod	_	_
 14	bho	bho	ADP	Sp	_	16	case	_	_
 15	an	an	DET	Tds	Definite=Def|Number=Sing|PronType=Art	16	det	_	_
-16	Roinn	Roinn	PROPN	Nt	_	8	obl	_	_
-17	Eòrpa	Eòrpa	PROPN	Nt	_	16	flat	_	SpaceAfter=No
+16	Roinn	Roinn	PROPN	Nt	NounType=Top	8	obl	_	_
+17	Eòrpa	Eòrpa	PROPN	Nt	NounType=Top	16	flat:name	_	FlatType=Top|SpaceAfter=No
 18	.	.	PUNCT	Fe	_	1	punct	_	_
 
 ~~~

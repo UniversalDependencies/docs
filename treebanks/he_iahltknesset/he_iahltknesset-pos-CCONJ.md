@@ -60,14 +60,20 @@ The 2nd highest number of forms (1) was observed with the lemma “אבל”: א
 
 The 3rd highest number of forms (1) was observed with the lemma “אגב”: אגב.
 
-`CCONJ` does not occur with any features.
+`CCONJ` occurs with 1 features: <tt><a href="he_iahltknesset-feat-ExtPos.html">ExtPos</a></tt> (4; 0% instances)
+
+`CCONJ` occurs with 2 feature-value pairs: `ExtPos=CCONJ`, `ExtPos=SCONJ`
+
+`CCONJ` occurs with 3 feature combinations.
+The most frequent feature combination is `_` (2463 tokens).
+Examples: ו, אבל, או, אלא, אך, אילו, אף, למשל, אגב, אולם
 
 
 ## Relations
 
 `CCONJ` nodes are attached to their parents using 11 different relations: <tt><a href="he_iahltknesset-dep-cc.html">cc</a></tt> (2438; 99% instances), <tt><a href="he_iahltknesset-dep-fixed.html">fixed</a></tt> (13; 1% instances), <tt><a href="he_iahltknesset-dep-advmod.html">advmod</a></tt> (3; 0% instances), <tt><a href="he_iahltknesset-dep-conj.html">conj</a></tt> (3; 0% instances), <tt><a href="he_iahltknesset-dep-mark.html">mark</a></tt> (3; 0% instances), <tt><a href="he_iahltknesset-dep-nmod-poss.html">nmod:poss</a></tt> (2; 0% instances), <tt><a href="he_iahltknesset-dep-case.html">case</a></tt> (1; 0% instances), <tt><a href="he_iahltknesset-dep-dep.html">dep</a></tt> (1; 0% instances), <tt><a href="he_iahltknesset-dep-parataxis.html">parataxis</a></tt> (1; 0% instances), <tt><a href="he_iahltknesset-dep-reparandum.html">reparandum</a></tt> (1; 0% instances), <tt><a href="he_iahltknesset-dep-root.html">root</a></tt> (1; 0% instances)
 
-Parents of `CCONJ` nodes belong to 16 different parts of speech: <tt><a href="he_iahltknesset-pos-VERB.html">VERB</a></tt> (1255; 51% instances), <tt><a href="he_iahltknesset-pos-NOUN.html">NOUN</a></tt> (772; 31% instances), <tt><a href="he_iahltknesset-pos-ADJ.html">ADJ</a></tt> (186; 8% instances), <tt><a href="he_iahltknesset-pos-PROPN.html">PROPN</a></tt> (80; 3% instances), <tt><a href="he_iahltknesset-pos-ADV.html">ADV</a></tt> (75; 3% instances), <tt><a href="he_iahltknesset-pos-PRON.html">PRON</a></tt> (48; 2% instances), <tt><a href="he_iahltknesset-pos-NUM.html">NUM</a></tt> (23; 1% instances), <tt><a href="he_iahltknesset-pos-DET.html">DET</a></tt> (7; 0% instances), <tt><a href="he_iahltknesset-pos-AUX.html">AUX</a></tt> (5; 0% instances), <tt><a href="he_iahltknesset-pos-CCONJ.html">CCONJ</a></tt> (5; 0% instances), <tt><a href="he_iahltknesset-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="he_iahltknesset-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="he_iahltknesset-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="he_iahltknesset-pos-INTJ.html">INTJ</a></tt> (1; 0% instances),  (1; 0% instances), <tt><a href="he_iahltknesset-pos-SYM.html">SYM</a></tt> (1; 0% instances)
+Parents of `CCONJ` nodes belong to 16 different parts of speech: <tt><a href="he_iahltknesset-pos-VERB.html">VERB</a></tt> (1255; 51% instances), <tt><a href="he_iahltknesset-pos-NOUN.html">NOUN</a></tt> (771; 31% instances), <tt><a href="he_iahltknesset-pos-ADJ.html">ADJ</a></tt> (186; 8% instances), <tt><a href="he_iahltknesset-pos-PROPN.html">PROPN</a></tt> (80; 3% instances), <tt><a href="he_iahltknesset-pos-ADV.html">ADV</a></tt> (75; 3% instances), <tt><a href="he_iahltknesset-pos-PRON.html">PRON</a></tt> (48; 2% instances), <tt><a href="he_iahltknesset-pos-NUM.html">NUM</a></tt> (23; 1% instances), <tt><a href="he_iahltknesset-pos-DET.html">DET</a></tt> (7; 0% instances), <tt><a href="he_iahltknesset-pos-AUX.html">AUX</a></tt> (5; 0% instances), <tt><a href="he_iahltknesset-pos-CCONJ.html">CCONJ</a></tt> (5; 0% instances), <tt><a href="he_iahltknesset-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="he_iahltknesset-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="he_iahltknesset-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="he_iahltknesset-pos-INTJ.html">INTJ</a></tt> (1; 0% instances),  (1; 0% instances), <tt><a href="he_iahltknesset-pos-SYM.html">SYM</a></tt> (1; 0% instances)
 
 2429 (98%) `CCONJ` nodes are leaves.
 

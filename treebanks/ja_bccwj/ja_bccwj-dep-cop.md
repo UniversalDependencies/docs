@@ -37,7 +37,7 @@ The following 3 pairs of parts of speech are connected with `cop`: <tt><a href="
 13	_	_	NOUN	_	_	14	compound	_	BBIL=B|BPT=0|LBIL=B|LPOS=0|SpaceAfter=No|UI=5805
 14	_	_	NOUN	_	_	19	obj	_	BBIL=I|BPT=1|LBIL=I|LPOS=0|SpaceAfter=No|UI=6076
 15	_	_	ADP	_	_	14	case	_	BBIL=I|BPT=2|LBIL=B|LPOS=1|SpaceAfter=No|UI=3
-16	_	_	NOUN	_	_	19	advcl	_	BBIL=B|BPT=1|LBIL=B|LPOS=15|SpaceAfter=No|UI=4392
+16	_	_	NOUN	_	_	19	obl	_	BBIL=B|BPT=1|LBIL=B|LPOS=15|SpaceAfter=No|UI=4392
 17	_	_	PART	_	_	16	mark	_	BBIL=I|BPT=2|LBIL=I|LPOS=15|SpaceAfter=No|UI=4385
 18	_	_	AUX	_	_	16	cop	_	BBIL=I|BPT=3|LBIL=B|LPOS=8|SpaceAfter=No|UI=21
 19	_	_	VERB	_	_	22	advcl	_	BBIL=B|BPT=1|LBIL=B|LPOS=3|SpaceAfter=No|UI=211
@@ -78,7 +78,7 @@ The following 3 pairs of parts of speech are connected with `cop`: <tt><a href="
 20	_	_	AUX	_	_	19	aux	_	BBIL=I|BPT=2|LBIL=B|LPOS=58|SpaceAfter=No|UI=515
 21	_	_	VERB	_	_	0	root	_	BBIL=B|BPT=4|LBIL=B|LPOS=11|PUDL=なる|SpaceAfter=No|UI=58
 22	_	_	AUX	_	_	21	aux	_	BBIL=I|BPT=2|LBIL=B|LPOS=24|PUDL=だ|SpaceAfter=No|UI=1379
-23	_	_	PUNCT	_	_	21	punct	_	BBIL=I|BPT=0|LBIL=B|LPOS=13|SpaceAfter=No|UI=14
+23	_	_	PUNCT	_	_	21	punct	_	BBIL=I|BPT=0|LBIL=B|LPOS=13|UI=14
 
 ~~~
 
@@ -111,7 +111,7 @@ The following 3 pairs of parts of speech are connected with `cop`: <tt><a href="
 20	_	_	AUX	_	_	19	aux	_	BBIL=I|BPT=2|LBIL=B|LPOS=58|SpaceAfter=No|UI=515
 21	_	_	VERB	_	_	0	root	_	BBIL=B|BPT=4|LBIL=B|LPOS=11|PUDL=なる|SpaceAfter=No|UI=58
 22	_	_	AUX	_	_	21	aux	_	BBIL=I|BPT=2|LBIL=B|LPOS=24|PUDL=だ|SpaceAfter=No|UI=1379
-23	_	_	PUNCT	_	_	21	punct	_	BBIL=I|BPT=0|LBIL=B|LPOS=13|SpaceAfter=No|UI=14
+23	_	_	PUNCT	_	_	21	punct	_	BBIL=I|BPT=0|LBIL=B|LPOS=13|UI=14
 
 ~~~
 

@@ -14,8 +14,31 @@ A verb typically denotes events and actions, can constitute a minimal predicate 
 Τhe uninflected form that is used with the auxiliary *έχω* to form periphrastic tenses (e.g. *έχω γράψει* "I have written", *είχα γράψει* "I had written", *θα έχω γράψει* "I will have written") is assigned the VerbForm=Inf feature-value pair. Mood=... and VerbForm=Inf are mutually exclusive feature-value pairs. *έχω* is also used as a main verb, e.g., in possession denoting structures: *έχω ένα αυτοκίνητο* `I have a car.'
 
 
-Participles in *-μένος* are productive in Modern Greek. These and the participles in *-θείς*  are assigned the tag VERB, the lemma in *-μένος*  and *-θείς*,  and the features Case=...|Gender=...|Number=...VerbForm=Part|Voice=Pass. 
-Ηowever, there are formations in *-μένος* not related to a verb in use, e.g., *χιλιοτραγουδισμένος* / *chiliotragoudismenos* “storied”, *ξακουσμένος* / _ksakousmenos_ “famous”, etc; these are assigned the  tag [ADJ]().
+In UD.v2, the form of the verb that traditional grammars categorise as “participle” may be assigned one of the following two parts of speech (POS: [VERB]() or [ADJ]()). In GUD and the Greek dialect treebanks, unless otherwise specified, for the participle to be assigned the POS [VERB](), two conditions must be met: 
+1) a verb with the same meaning as the participle is in use synchronically
+2) the participle inherits the verb’s argument structure 
+
+e.g. Consider the form *αποφασισμένος* that is the passive participle of the (active) verb *αποφασίζω* “to decide”.  
+
+a. *Kαθορίστηκε και ένα συντονιστικό, αποφασισμένο από όλα τα σχήματα* 
+"Α coordinating body was specified that was decided by all the parties"
+
+b. *Ο Γιάννης είναι αποφασισμένος*
+“John is determined”
+
+Example A illustrates a participle that preserves the meaning of the morphologically related verb that is in use synchronically. This participle is assigned the POS [VERB]().
+
+Example B illustrates a participle that has a meaning different from the meaning of the synchronically used verb that is morphologically related to it. This participle is assigned the POS [ADJ]().
+
+
+e.g. *Kερδισμένος* comes from the passive voice of the verb *κερδίζω* “to win”. 
+
+a. *Κερδισμένος ο πόντος από τον Γιάννη* “the point won.participle by John”
+
+b. *Κερδισμένος ο Γιάννης από τη διαμάχη* “John won.participle the argument”
+
+In the first sentence, we have the transfer of the verb's argument structure to the participle, whereas in the second sentence, we do not. Additionally, there is a different meaning in the two usage cases. In the first sentence, the meaning of the verb is preserved, while in the second, it is not. Therefore, in the first case we tag the participle as VERB and in the second as ADJ.
+
 
 <!-- *είμαι* "to be" is assigned the tag [AUX]() when it supports a participle or an adjective and otherwise the tag [VERB](). -->
 
@@ -32,10 +55,16 @@ Non-inflecting verb forms ending in *-όντας, -ώντας* (adverbial partic
 
 Occassionally, only a few or unique members of the inflectional paradigm of a verb are used, e.g.
 - *άει* in many fixed and productive expressions, e.g., *άει πάγαινε*, *άει στο καλό*, *άει στο διάολο*, etc. It is assigned the lemma "άει".
-  
+----------
+**Cretan**
+
+Occassionally, only a few or unique members of the inflectional paradigm of a verb are used, e.g.
+- *γιάε* is an emphatic form of imperative “Look”, e.g. *γιάε μούτρα το μπεγιράκι* “Look at the face of the little horse”. It is assigned the lemma "γιάε" and the features [Mood=Imp](), [Person=2](), [Voice=Act]()
+
+---------------
 ### References
  
 Τζάρτζανος, Αχιλλέας, 2002. *Νεοελληνική Σύνταξις της Κοινής Δημοτικής*. Αθήνα: Εκδόσεις Κυριακίδη. σελ. 225.
 https://www.greek-language.gr/greekLang/modern_greek/tools/lexica/triantafyllides/
 
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:28 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:39 CEST -->

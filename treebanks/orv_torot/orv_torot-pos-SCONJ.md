@@ -58,7 +58,7 @@ The 10 most frequent ambiguous types:  <em>аще</em> (<tt><a href="orv_torot-p
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 2.054545 (the average of all parts of speech is 3.947827).
+The form / lemma ratio of `SCONJ` is 2.054545 (the average of all parts of speech is 3.947403).
 
 The 1st highest number of forms (10) was observed with the lemma “доньдеже”: <em>донʼдеже, донде, дондеж, дондеже, дондѣ, дондѣже, донъдеже, доньдеже, дон꙽деже, дѡнʼдеже</em>.
 

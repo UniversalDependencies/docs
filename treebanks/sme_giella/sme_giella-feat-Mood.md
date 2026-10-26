@@ -12,19 +12,19 @@ It occurs with 4 different values: `Cnd`, `Imp`, `Ind`, `Pot`.
 4812 tokens (18%) have a non-empty value of `Mood`.
 1597 types (21%) occur at least once with a non-empty value of `Mood`.
 579 lemmas (13%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 2 part-of-speech tags: <tt><a href="sme_giella-pos-VERB.html">VERB</a></tt> (2890; 11% instances), <tt><a href="sme_giella-pos-AUX.html">AUX</a></tt> (1922; 7% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="sme_giella-pos-VERB.html">VERB</a></tt> (2889; 11% instances), <tt><a href="sme_giella-pos-AUX.html">AUX</a></tt> (1923; 7% instances).
 
 ### `VERB`
 
-2890 <tt><a href="sme_giella-pos-VERB.html">VERB</a></tt> tokens (67% of all `VERB` tokens) have a non-empty value of `Mood`.
+2889 <tt><a href="sme_giella-pos-VERB.html">VERB</a></tt> tokens (67% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="sme_giella-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (2890; 100%), <tt><a href="sme_giella-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2890; 100%), <tt><a href="sme_giella-feat-Person.html">Person</a></tt><tt>=3</tt> (2036; 70%), <tt><a href="sme_giella-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1689; 58%), <tt><a href="sme_giella-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1595; 55%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="sme_giella-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (2889; 100%), <tt><a href="sme_giella-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2889; 100%), <tt><a href="sme_giella-feat-Person.html">Person</a></tt><tt>=3</tt> (2035; 70%), <tt><a href="sme_giella-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1689; 58%), <tt><a href="sme_giella-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1595; 55%).
 
 `VERB` tokens may have the following values of `Mood`:
 
 * `Cnd` (30; 1% of non-empty `Mood`): <em>boađášii, livččii, Dieđálin, Gillešeiddet, Gorošii, adnojuvvošii, barggašeimme, barggašii, bisošedje, boađáše</em>
 * `Imp` (143; 5% of non-empty `Mood`): <em>boađe, mana, váldde, bija, geahča, Gula, Oahpa, Addet, Atte, Bidjet</em>
-* `Ind` (2659; 92% of non-empty `Mood`): <em>lea, leat, lei, ledje, bođii, boahtá, manai, lohká, dieđe, lean</em>
+* `Ind` (2658; 92% of non-empty `Mood`): <em>lea, leat, lei, ledje, bođii, boahtá, manai, lohká, dieđe, lean</em>
 * `Pot` (58; 2% of non-empty `Mood`): <em>bođeža, leažžá, bođežit, Bođežehpet, Leaččan, bođežeaba, dagažit, eležat, Boraža, Boražeaba</em>
 * `EMPTY` (1420): <em>leat, vuolgit, boahtit, oaidnán, ožžon, boahtán, bargat, leamaš, mannat, geahččat</em>
 
@@ -52,15 +52,15 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 
 ### `AUX`
 
-1922 <tt><a href="sme_giella-pos-AUX.html">AUX</a></tt> tokens (96% of all `AUX` tokens) have a non-empty value of `Mood`.
+1923 <tt><a href="sme_giella-pos-AUX.html">AUX</a></tt> tokens (96% of all `AUX` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="sme_giella-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1922; 100%), <tt><a href="sme_giella-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (1498; 78%), <tt><a href="sme_giella-feat-Person.html">Person</a></tt><tt>=3</tt> (1408; 73%), <tt><a href="sme_giella-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1197; 62%), <tt><a href="sme_giella-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1175; 61%).
+The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="sme_giella-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1923; 100%), <tt><a href="sme_giella-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (1499; 78%), <tt><a href="sme_giella-feat-Person.html">Person</a></tt><tt>=3</tt> (1409; 73%), <tt><a href="sme_giella-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1197; 62%), <tt><a href="sme_giella-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1175; 61%).
 
 `AUX` tokens may have the following values of `Mood`:
 
 * `Cnd` (44; 2% of non-empty `Mood`): <em>livččii, livčče, galggaše, galggašii, sáhtášii, berrešii, livččen, áiggošin, Sáhtášeidde, Sáhtášeigga</em>
 * `Imp` (20; 1% of non-empty `Mood`): <em>ale, allet, Leage, Lehket</em>
-* `Ind` (1842; 96% of non-empty `Mood`): <em>lea, leat, ii, lei, eai, ledje, galgá, lean, sáhttá, in</em>
+* `Ind` (1843; 96% of non-empty `Mood`): <em>lea, leat, ii, lei, eai, ledje, galgá, lean, sáhttá, in</em>
 * `Pot` (16; 1% of non-empty `Mood`): <em>leažžá, leaččan, sáhtežan, Leaččat, leažžat, ležže, sáhtežetne, sáhtežit</em>
 * `EMPTY` (72): <em>leat, leamaš, beassat, sáhttit, amadet, amas, amaset, amat, beassan, berren</em>
 

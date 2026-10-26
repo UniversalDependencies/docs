@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-134 nodes (1%) are attached to their parents as `ccomp`.
+178 nodes (1%) are attached to their parents as `ccomp`.
 
-128 instances of `ccomp` (96%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.73134328358209.
+132 instances of `ccomp` (74%) are left-to-right (parent precedes child).
+Average distance between parent and child is 7.97191011235955.
 
-The following 8 pairs of parts of speech are connected with `ccomp`: <tt><a href="en_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (92; 69% instances), <tt><a href="en_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (14; 10% instances), <tt><a href="en_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> (13; 10% instances), <tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (8; 6% instances), <tt><a href="en_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="en_pud-pos-AUX.html">AUX</a></tt> (3; 2% instances), <tt><a href="en_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="en_pud-pos-AUX.html">AUX</a></tt>-<tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (1; 1% instances).
+The following 9 pairs of parts of speech are connected with `ccomp`: <tt><a href="en_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (123; 69% instances), <tt><a href="en_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (21; 12% instances), <tt><a href="en_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> (16; 9% instances), <tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (8; 4% instances), <tt><a href="en_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="en_pud-pos-AUX.html">AUX</a></tt> (5; 3% instances), <tt><a href="en_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="en_pud-pos-AUX.html">AUX</a></tt>-<tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="en_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="en_pud-pos-ADP.html">ADP</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -54,7 +54,7 @@ The following 8 pairs of parts of speech are connected with `ccomp`: <tt><a href
 8	note	note	NOUN	NN	Number=Sing	5	obl	5:obl:in	SpaceAfter=No
 9	,	,	PUNCT	,	_	5	punct	5:punct	_
 10	that	that	SCONJ	IN	_	15	mark	15:mark	_
-11	there	there	PRON	EX	_	15	expl	15:expl	_
+11	there	there	PRON	EX	PronType=Dem	15	expl	15:expl	_
 12	will	will	AUX	MD	VerbForm=Fin	15	aux	15:aux	_
 13	be	be	AUX	VB	VerbForm=Inf	15	cop	15:cop	_
 14	no	no	DET	DT	PronType=Neg	15	det	15:det	_
@@ -64,8 +64,8 @@ The following 8 pairs of parts of speech are connected with `ccomp`: <tt><a href
 18	,	,	PUNCT	,	_	15	punct	15:punct	_
 19	for	for	ADP	IN	_	20	case	20:case	_
 20	2017	2017	NUM	CD	NumForm=Digit|NumType=Card	15	nmod	15:nmod:for	_
-21	at	at	ADV	RB	_	22	case	22:case	_
-22	least	least	ADV	RBS	Degree=Sup	20	nmod	20:nmod:at	SpaceAfter=No
+21	at	at	ADP	IN	_	22	case	22:case	_
+22	least	least	ADJ	JJS	Degree=Sup	20	nmod	20:nmod:at	SpaceAfter=No
 23	.	.	PUNCT	.	_	5	punct	5:punct	_
 
 ~~~

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-21 nodes (0%) are attached to their parents as `vocative`.
+23 nodes (0%) are attached to their parents as `vocative`.
 
-12 instances of `vocative` (57%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.95238095238095.
+14 instances of `vocative` (61%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.73913043478261.
 
-The following 4 pairs of parts of speech are connected with `vocative`: <tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt> (10; 48% instances), <tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_bsut-pos-PROPN.html">PROPN</a></tt> (8; 38% instances), <tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt> (2; 10% instances), <tt><a href="hy_bsut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hy_bsut-pos-PROPN.html">PROPN</a></tt> (1; 5% instances).
+The following 5 pairs of parts of speech are connected with `vocative`: <tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt> (12; 52% instances), <tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_bsut-pos-PROPN.html">PROPN</a></tt> (8; 35% instances), <tt><a href="hy_bsut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt> (1; 4% instances), <tt><a href="hy_bsut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hy_bsut-pos-PROPN.html">PROPN</a></tt> (1; 4% instances), <tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt> (1; 4% instances).
 
 
 ~~~ conllu
@@ -51,21 +51,23 @@ The following 4 pairs of parts of speech are connected with `vocative`: <tt><a h
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 4 8 vocative	color:blue
-1	Ինչ	ինչ	DET	_	PronType=Exc	4	det	_	Translit=Inč|LTranslit=inč
-2	՜	՜	PUNCT	_	_	1	punct	_	Translit=!|LTranslit=!
-3	հանդիսավոր	հանդիսավոր	ADJ	_	Degree=Pos	4	amod	_	Translit=handisavor|LTranslit=handisavor
-4	արարողություն	արարողություն	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	0	root	_	Translit=araroġowt’yown|LTranslit=araroġowt’yown
-5	էր	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VerbForm=Fin	4	cop	_	Translit=ēr|LTranslit=em
-6	դա	դա	PRON	_	Case=Nom|Deixis=Med|Number=Sing|PronType=Dem	4	nsubj	_	Translit=da|LTranslit=da|SpaceAfter=No
-7	,	,	PUNCT	_	_	8	punct	_	Translit=,|LTranslit=,
-8	Աստված	աստված	NOUN	_	Animacy=Hum|Case=Nom|Definite=Ind|Number=Sing	4	vocative	_	Translit=Astvaç|LTranslit=astvaç
-9	իմ	ես	DET	_	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	8	det:poss	_	Translit=im|LTranslit=es|SpaceAfter=No
-10	:	:	PUNCT	_	Foreign=Yes	4	punct	_	Translit=.|LTranslit=.
+# visual-style 4 6 vocative	color:blue
+1	Այո	այո	INTJ	_	_	4	discourse	_	Translit=Ayo|LTranslit=ayo|SpaceAfter=No
+2	,	,	PUNCT	_	_	4	punct	_	Translit=,|LTranslit=,
+3	դուք	դուք	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	4	nsubj	_	Translit=dowk’|LTranslit=dowk’
+4	ճիշտ	ճիշտ	ADJ	_	Degree=Pos	0	root	_	Translit=č̣išt|LTranslit=č̣išt
+5	եք	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin	4	cop	_	Translit=ek’|LTranslit=em
+6	սիրելիներս	սիրելի	NOUN	_	Animacy=Hum|Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=1	4	vocative	_	Translit=sireliners|LTranslit=sireli|SpaceAfter=No
+7	՝	՝	PUNCT	_	_	10	punct	_	Translit=,|LTranslit=,
+8	ամեն	ամեն	DET	_	ExtPos=PRON|PronType=Tot	10	nsubj	_	Translit=amen|LTranslit=amen
+9	ինչ	ինչ	PRON	_	Case=Nom|Definite=Ind|Number=Sing|PronType=Ind	8	fixed	_	Translit=inč|LTranslit=inč
+10	պարզ	պարզ	ADJ	_	Degree=Pos	4	conj	_	Translit=parz|LTranslit=parz
+11	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	10	cop	_	Translit=ē|LTranslit=em|SpaceAfter=No
+12	:	:	PUNCT	_	Foreign=Yes	4	punct	_	Translit=.|LTranslit=.
 
 ~~~
 

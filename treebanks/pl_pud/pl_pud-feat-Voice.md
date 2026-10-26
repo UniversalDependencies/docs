@@ -63,14 +63,14 @@ The most frequent other feature values with which `AUX` and `Voice` co-occurred:
 ## Relations with Agreement in `Voice`
 
 The 10 most frequent relations where parent and child node agree in `Voice`:
-<tt>VERB --[<tt><a href="pl_pud-dep-conj.html">conj</a></tt>]--> VERB</tt> (161; 99%),
+<tt>VERB --[<tt><a href="pl_pud-dep-conj.html">conj</a></tt>]--> VERB</tt> (150; 99%),
 <tt>VERB --[<tt><a href="pl_pud-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (149; 88%),
 <tt>VERB --[<tt><a href="pl_pud-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (133; 98%),
 <tt>VERB --[<tt><a href="pl_pud-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (38; 93%),
 <tt>VERB --[<tt><a href="pl_pud-dep-parataxis-obj.html">parataxis:obj</a></tt>]--> VERB</tt> (30; 91%),
 <tt>VERB --[<tt><a href="pl_pud-dep-ccomp-obj.html">ccomp:obj</a></tt>]--> VERB</tt> (29; 97%),
+<tt>VERB --[<tt><a href="pl_pud-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (10; 100%),
 <tt>VERB --[<tt><a href="pl_pud-dep-advcl-relcl.html">advcl:relcl</a></tt>]--> VERB</tt> (3; 100%),
 <tt>VERB --[<tt><a href="pl_pud-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (3; 100%),
-<tt>VERB --[<tt><a href="pl_pud-dep-parataxis-insert.html">parataxis:insert</a></tt>]--> VERB</tt> (3; 60%),
-<tt>VERB --[<tt><a href="pl_pud-dep-advmod-emph.html">advmod:emph</a></tt>]--> VERB</tt> (1; 100%).
+<tt>VERB --[<tt><a href="pl_pud-dep-parataxis-insert.html">parataxis:insert</a></tt>]--> VERB</tt> (3; 60%).
 

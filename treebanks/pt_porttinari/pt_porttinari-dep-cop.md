@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-2883 nodes (2%) are attached to their parents as `cop`.
+2876 nodes (2%) are attached to their parents as `cop`.
 
-2811 instances of `cop` (98%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.85327783558793.
+2804 instances of `cop` (97%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.8567454798331.
 
-The following 9 pairs of parts of speech are connected with `cop`: <tt><a href="pt_porttinari-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_porttinari-pos-AUX.html">AUX</a></tt> (1272; 44% instances), <tt><a href="pt_porttinari-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pt_porttinari-pos-AUX.html">AUX</a></tt> (988; 34% instances), <tt><a href="pt_porttinari-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_porttinari-pos-AUX.html">AUX</a></tt> (193; 7% instances), <tt><a href="pt_porttinari-pos-PRON.html">PRON</a></tt>-<tt><a href="pt_porttinari-pos-AUX.html">AUX</a></tt> (166; 6% instances), <tt><a href="pt_porttinari-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_porttinari-pos-AUX.html">AUX</a></tt> (89; 3% instances), <tt><a href="pt_porttinari-pos-ADV.html">ADV</a></tt>-<tt><a href="pt_porttinari-pos-AUX.html">AUX</a></tt> (87; 3% instances), <tt><a href="pt_porttinari-pos-NUM.html">NUM</a></tt>-<tt><a href="pt_porttinari-pos-AUX.html">AUX</a></tt> (61; 2% instances), <tt><a href="pt_porttinari-pos-SYM.html">SYM</a></tt>-<tt><a href="pt_porttinari-pos-AUX.html">AUX</a></tt> (22; 1% instances), <tt><a href="pt_porttinari-pos-X.html">X</a></tt>-<tt><a href="pt_porttinari-pos-AUX.html">AUX</a></tt> (5; 0% instances).
+The following 9 pairs of parts of speech are connected with `cop`: <tt><a href="pt_porttinari-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_porttinari-pos-AUX.html">AUX</a></tt> (1268; 44% instances), <tt><a href="pt_porttinari-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pt_porttinari-pos-AUX.html">AUX</a></tt> (989; 34% instances), <tt><a href="pt_porttinari-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_porttinari-pos-AUX.html">AUX</a></tt> (186; 6% instances), <tt><a href="pt_porttinari-pos-PRON.html">PRON</a></tt>-<tt><a href="pt_porttinari-pos-AUX.html">AUX</a></tt> (157; 5% instances), <tt><a href="pt_porttinari-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_porttinari-pos-AUX.html">AUX</a></tt> (89; 3% instances), <tt><a href="pt_porttinari-pos-ADV.html">ADV</a></tt>-<tt><a href="pt_porttinari-pos-AUX.html">AUX</a></tt> (86; 3% instances), <tt><a href="pt_porttinari-pos-NUM.html">NUM</a></tt>-<tt><a href="pt_porttinari-pos-AUX.html">AUX</a></tt> (70; 2% instances), <tt><a href="pt_porttinari-pos-SYM.html">SYM</a></tt>-<tt><a href="pt_porttinari-pos-AUX.html">AUX</a></tt> (22; 1% instances), <tt><a href="pt_porttinari-pos-X.html">X</a></tt>-<tt><a href="pt_porttinari-pos-AUX.html">AUX</a></tt> (9; 0% instances).
 
 
 ~~~ conllu
@@ -28,7 +28,7 @@ The following 9 pairs of parts of speech are connected with `cop`: <tt><a href="
 4	,	,	PUNCT	_	_	3	punct	3:punct	_
 5	é	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	6:cop	_
 6	crise	crise	NOUN	_	Gender=Fem|Number=Sing	0	root	0:root	SpaceAfter=No
-7	.	.	PUNCT	_	_	6	punct	6:punct	SpaceAfter=No
+7	.	.	PUNCT	_	_	6	punct	6:punct	_
 
 ~~~
 
@@ -51,7 +51,7 @@ The following 9 pairs of parts of speech are connected with `cop`: <tt><a href="
 10	favorável	favorável	ADJ	_	Number=Sing	0	root	0:root	_
 11	a	a	ADP	_	_	12	case	12:case	_
 12	Aécio	Aécio	PROPN	_	_	10	obl	10:obl:a	SpaceAfter=No
-13	.	.	PUNCT	_	_	10	punct	10:punct	SpaceAfter=No
+13	.	.	PUNCT	_	_	10	punct	10:punct	_
 
 ~~~
 
@@ -73,7 +73,7 @@ The following 9 pairs of parts of speech are connected with `cop`: <tt><a href="
 9	fazer	fazer	VERB	_	VerbForm=Inf	3	parataxis	3:parataxis	_
 10	o	o	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	9	obj	9:obj	_
 11	melhor	melhor	ADJ	_	Number=Sing	10	amod	10:amod	SpaceAfter=No
-12	.	.	PUNCT	_	_	3	punct	3:punct	SpaceAfter=No
+12	.	.	PUNCT	_	_	3	punct	3:punct	_
 
 ~~~
 

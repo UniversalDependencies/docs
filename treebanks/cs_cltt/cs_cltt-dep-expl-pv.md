@@ -125,7 +125,7 @@ The following 4 pairs of parts of speech are connected with `expl:pv`: <tt><a hr
 48	nebo	nebo	CCONJ	J^-------------	_	44	cc	44:cc	_
 49	do	do	ADP	RR--2----------	AdpType=Prep|Case=Gen	51	case	51:case	LId=do-1
 50	posledního	poslední	ADJ	AAIS2----1A----	Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	51	amod	51:amod	_
-51	dne	den	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	44	obl	44:obl:do:gen	_
+51	dne	den	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	44	nmod	44:nmod:do:gen	_
 52	účetního	účetní	ADJ	AANS2----1A----	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos	53	amod	53:amod	LId=účetní-1
 53	období	období	NOUN	NNNS2-----A----	Case=Gen|Gender=Neut|Number=Sing	51	nmod	51:nmod:gen|58:obl:v:loc	SpaceAfter=No
 54	,	,	PUNCT	Z:-------------	_	58	punct	58:punct	_

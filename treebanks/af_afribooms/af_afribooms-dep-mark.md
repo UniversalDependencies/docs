@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1050 nodes (2%) are attached to their parents as `mark`.
+1049 nodes (2%) are attached to their parents as `mark`.
 
-953 instances of `mark` (91%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.30666666666667.
+952 instances of `mark` (91%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.3069590085796.
 
-The following 8 pairs of parts of speech are connected with `mark`: <tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt>-<tt><a href="af_afribooms-pos-PART.html">PART</a></tt> (1000; 95% instances), <tt><a href="af_afribooms-pos-ADJ.html">ADJ</a></tt>-<tt><a href="af_afribooms-pos-PART.html">PART</a></tt> (17; 2% instances), <tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt>-<tt><a href="af_afribooms-pos-PART.html">PART</a></tt> (14; 1% instances), <tt><a href="af_afribooms-pos-AUX.html">AUX</a></tt>-<tt><a href="af_afribooms-pos-PART.html">PART</a></tt> (8; 1% instances), <tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt>-<tt><a href="af_afribooms-pos-SCONJ.html">SCONJ</a></tt> (6; 1% instances), <tt><a href="af_afribooms-pos-ADJ.html">ADJ</a></tt>-<tt><a href="af_afribooms-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt>-<tt><a href="af_afribooms-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="af_afribooms-pos-PRON.html">PRON</a></tt>-<tt><a href="af_afribooms-pos-PART.html">PART</a></tt> (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `mark`: <tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt>-<tt><a href="af_afribooms-pos-PART.html">PART</a></tt> (1000; 95% instances), <tt><a href="af_afribooms-pos-ADJ.html">ADJ</a></tt>-<tt><a href="af_afribooms-pos-PART.html">PART</a></tt> (17; 2% instances), <tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt>-<tt><a href="af_afribooms-pos-PART.html">PART</a></tt> (13; 1% instances), <tt><a href="af_afribooms-pos-AUX.html">AUX</a></tt>-<tt><a href="af_afribooms-pos-PART.html">PART</a></tt> (8; 1% instances), <tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt>-<tt><a href="af_afribooms-pos-SCONJ.html">SCONJ</a></tt> (6; 1% instances), <tt><a href="af_afribooms-pos-ADJ.html">ADJ</a></tt>-<tt><a href="af_afribooms-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt>-<tt><a href="af_afribooms-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="af_afribooms-pos-PRON.html">PRON</a></tt>-<tt><a href="af_afribooms-pos-PART.html">PART</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

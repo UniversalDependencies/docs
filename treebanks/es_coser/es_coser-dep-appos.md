@@ -27,10 +27,10 @@ The following 10 pairs of parts of speech are connected with `appos`: <tt><a hre
 3	pero	pero	CCONJ	cc	_	5	cc	_	_
 4	en	en	ADP	sps00	_	5	case	_	_
 5	casa	casa	NOUN	ncfs000	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
-6	,	,	PUNCT	fc	PunctType=Comm	5	punct	_	_
+6	,	,	PUNCT	fc	PunctType=Comm	8	punct	_	_
 7	los	el	DET	da0mp0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
 8	padres	padre	NOUN	ncmp000	Gender=Masc|Number=Plur	5	appos	_	SpaceAfter=No
-9	,	,	PUNCT	fc	PunctType=Comm	8	punct	_	_
+9	,	,	PUNCT	fc	PunctType=Comm	13	punct	_	_
 10	no	no	ADV	rn	Polarity=Neg	13	advmod	_	_
 11	en	en	ADP	sps00	_	13	case	_	_
 12	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
@@ -60,7 +60,7 @@ The following 10 pairs of parts of speech are connected with `appos`: <tt><a hre
 12	de	de	ADP	sps00	_	14	case	_	_
 13	mi	mi	DET	dp1css	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	14	det	_	_
 14	madre	madre	NOUN	ncfs000	Gender=Fem|Number=Sing	11	nmod	_	SpaceAfter=No
-15	,	,	PUNCT	fc	PunctType=Comm	11	punct	_	_
+15	,	,	PUNCT	fc	PunctType=Comm	17	punct	_	_
 16	porque	porque	SCONJ	cs	_	17	mark	_	_
 17	yo	yo	PRON	pp1csn00	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	parataxis	_	_
 18	no	no	ADV	rn	Polarity=Neg	17	advmod	_	SpaceAfter=No

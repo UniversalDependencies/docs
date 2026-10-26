@@ -29,4 +29,4 @@ Compare with the corresponding sentence in the Aorist (without negation):
 4	.	.	PUNCT	_	_	2	punct	_	LMSeg:.
 
 ~~~
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:11:14 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:33 CEST -->

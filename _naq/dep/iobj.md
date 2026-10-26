@@ -23,9 +23,9 @@ iobj(give, him)
 
 When verbs occur with one object, it is `iobj` if:
 
-    * Another, more patient-like object may be inserted into the clause without affecting the morphosyntax of the object in question
+* Another, more patient-like object may be inserted into the clause without affecting the morphosyntax of the object in question
     
-    * The verb licenses the object in combination with a [ccomp](naq-dep/ccomp) (the [ccomp](naq-dep/ccomp) may be analyzed as taking the place of an [obj](naq-dep/obj))
+* The verb licenses the object in combination with a [ccomp](naq-dep/ccomp) (the [ccomp](naq-dep/ccomp) may be analyzed as taking the place of an [obj](naq-dep/obj))
     
 For example, the verb _ǁkhāǁkhā_ "teach" may occur with [obj](naq-dep/obj), `iobj`, or both:
 
@@ -51,17 +51,18 @@ obj(teach, economics)
 
 ~~~ sdparse
 ǁîb ge ǁîna ra ǁkhāǁkhā , mati i ǀaena ra nî ǀaere sa . \n He DECL them IPFV teach , how it firewood IPFV will collect NMLZ.OBL .
-ccomp(ǁkhāǁkhā, ǀaeresa)
+ccomp(ǁkhāǁkhā, ǀaere sa)
 iobj(ǁkhāǁkhā, ǁîna)
 ccomp(teach, collect)
 iobj(teach, them)
 ~~~
 
 
-For the indirect object of verb with applicative voice is used [iobj:appl](naq-dep/iobj-appl) sub-relation.
+For the indirect object of a verb in the applicative voice the [iobj:appl]() sub-relation is used.
 
 ~~~ sdparse
 ǁGuiǃāba te re . \n Explain_for me IPFV .
 iobj(ǁGuiǃāba, te)
 iobj(Explain_for, me)
 ~~~
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:12 CEST -->

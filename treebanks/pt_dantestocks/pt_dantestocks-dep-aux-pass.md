@@ -33,7 +33,7 @@ The following 1 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 9	já	já	ADV	_	_	11	advmod	_	_
 10	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	aux:pass	_	_
 11	esperado	esperar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	7	ccomp	_	SpaceAfter=No
-12	.	.	PUNCT	_	_	4	punct	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	4	punct	_	_
 
 ~~~
 

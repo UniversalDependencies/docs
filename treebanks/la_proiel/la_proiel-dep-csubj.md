@@ -23,13 +23,13 @@ The following 22 pairs of parts of speech are connected with `csubj`: <tt><a hre
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 5 csubj	color:blue
-1	iam	iam	ADV	Df	_	4	advmod	_	ref=LUKE_15.21
-2	non	non	ADV	Df	Polarity=Neg	4	advmod	_	ref=LUKE_15.21
-3	sum	sum	AUX	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	ref=LUKE_15.21
-4	dignus	dignus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	ref=LUKE_15.21
-5	vocari	voco	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Pass	4	csubj	_	ref=LUKE_15.21
-6	filius	filius	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	5	xcomp	_	ref=LUKE_15.21
-7	tuus	tuus	DET	Ps	Case=Nom|Gender=Masc|Number=Sing|Person=2|Poss=Yes	6	det	_	ref=LUKE_15.21
+1	iam	iam	ADV	Df	_	4	advmod	_	Ref=LUKE_15.21
+2	non	non	ADV	Df	Polarity=Neg	4	advmod	_	Ref=LUKE_15.21
+3	sum	sum	AUX	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	Ref=LUKE_15.21
+4	dignus	dignus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	Ref=LUKE_15.21
+5	vocari	voco	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Pass	4	csubj	_	Ref=LUKE_15.21
+6	filius	filius	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	5	xcomp	_	Ref=LUKE_15.21
+7	tuus	tuus	DET	Ps	Case=Nom|Gender=Masc|Number=Sing|Person=2|Poss=Yes	6	det	_	Ref=LUKE_15.21
 
 ~~~
 
@@ -40,12 +40,12 @@ The following 22 pairs of parts of speech are connected with `csubj`: <tt><a hre
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 4 csubj	color:blue
-1	Sed	sed	CCONJ	C-	_	3	cc	_	ref=3.12.3
-2	erit	sum	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	3	cop	_	ref=3.12.3
-3	sapientis	sapiens	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	0	root	_	ref=3.12.3
-4	aestimare	aestimo	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	3	csubj	_	ref=3.12.3
-5	uim	vis	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	4	obj	_	ref=3.12.3
-6	uitis	vitis	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	ref=3.12.3
+1	Sed	sed	CCONJ	C-	_	3	cc	_	Ref=3.12.3
+2	erit	sum	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	3	cop	_	Ref=3.12.3
+3	sapientis	sapiens	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	0	root	_	Ref=3.12.3
+4	aestimare	aestimo	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	3	csubj	_	Ref=3.12.3
+5	uim	vis	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	4	obj	_	Ref=3.12.3
+6	uitis	vitis	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	Ref=3.12.3
 
 ~~~
 
@@ -56,16 +56,16 @@ The following 22 pairs of parts of speech are connected with `csubj`: <tt><a hre
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 10 csubj	color:blue
-1	Quo	qui	PRON	Pr	Case=Abl|Gender=Neut|Number=Sing|PronType=Rel	2	advcl	_	ref=1.26
-2	magis	magis	ADV	Df	Degree=Cmp	3	advcl	_	ref=1.26
-3	cavendum	caveo	VERB	V-	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Gdv	0	root	_	ref=1.26
-4	est	sum	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	ref=1.26
-5	ne	ne	SCONJ	G-	_	10	mark	_	ref=1.26
-6	quid	quis	PRON	Px	Case=Nom|Gender=Neut|Number=Sing	10	nsubj:pass	_	ref=1.26
-7	in	in	ADP	R-	_	9	case	_	ref=1.26
-8	eo	is	DET	Pd	Case=Abl|Gender=Masc,Neut|Number=Sing	9	det	_	ref=1.26
-9	genere	genus	NOUN	Nb	Case=Abl|Gender=Neut|Number=Sing	10	obl	_	ref=1.26
-10	peccetur	pecco	VERB	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	3	csubj	_	ref=1.26
+1	Quo	qui	PRON	Pr	Case=Abl|Gender=Neut|Number=Sing|PronType=Rel	2	advcl	_	Ref=1.26
+2	magis	magis	ADV	Df	Degree=Cmp	3	advcl	_	Ref=1.26
+3	cavendum	caveo	VERB	V-	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Gdv	0	root	_	Ref=1.26
+4	est	sum	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	Ref=1.26
+5	ne	ne	SCONJ	G-	_	10	mark	_	Ref=1.26
+6	quid	quis	PRON	Px	Case=Nom|Gender=Neut|Number=Sing	10	nsubj:pass	_	Ref=1.26
+7	in	in	ADP	R-	_	9	case	_	Ref=1.26
+8	eo	is	DET	Pd	Case=Abl|Gender=Masc,Neut|Number=Sing	9	det	_	Ref=1.26
+9	genere	genus	NOUN	Nb	Case=Abl|Gender=Neut|Number=Sing	10	obl	_	Ref=1.26
+10	peccetur	pecco	VERB	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	3	csubj	_	Ref=1.26
 
 ~~~
 

@@ -4,18 +4,21 @@ title:  'Comparison of Treebank Statistics'
 udver: '2'
 ---
 
+<style>thead th {position: sticky; top: 0; background-color: white;}</style>
 <table>
+  <thead>
   <tr>
-    <td width="33%" valign="top">
+    <th width="33%" valign="top">
       <h1>UD_Indonesian-CSUI</h1>
-    </td>
-    <td width="33%" valign="top">
+    </th>
+    <th width="33%" valign="top">
       <h1>UD_Indonesian-GSD</h1>
-    </td>
-    <td width="33%" valign="top">
+    </th>
+    <th width="33%" valign="top">
       <h1>UD_Indonesian-PUD</h1>
-    </td>
+    </th>
   </tr>
+  </thead>
   <tr>
     <td width="33%" valign="top">
       <h2>Tokenization and Word Segmentation</h2>
@@ -186,7 +189,7 @@ udver: '2'
     </td>
     <td width="33%" valign="top">
       <ul>
-      <li>This corpus contains 52 lemmas tagged as determiners (DET): PRON, aneka, banyak, beberapa, begini, begitu, berbagai, berdua, berikut, buah, demikian, dia, dibeberapa, ini, itu, jumlah, kebanyakan, kelompok, keseluruhan, masing, nya, orang, para, per, ragam, rangkai, sang, seantero, sebagian, seekor, segala, segenap, sejumlah, sekelompok, sekumpulan, seluruh, semacam, semua, sendiri, sepucuk, serangkaian, sesuatu, setiap, si, suatu, tadi, tersebut, tertentu, tesebut, tiap, tsb, yang</li>
+      <li>This corpus contains 54 lemmas tagged as determiners (DET): PRON, aneka, banyak, beberapa, begini, begitu, berbagai, berdua, berikut, buah, demikian, dia, dibeberapa, ini, itu, jumlah, kebanyakan, kelompok, keseluruhan, macam, masing, nya, orang, para, per, ragam, rangkai, sang, seantero, sebagian, seekor, segala, segenap, sejumlah, sekelompok, sekumpulan, seluruh, semacam, semua, sendiri, sepucuk, serangkaian, sesuatu, setiap, si, suatu, tadi, tersebut, tertentu, tesebut, the, tiap, tsb, yang</li>
       </ul>
     </td>
     <td width="33%" valign="top">
@@ -616,65 +619,13 @@ udver: '2'
   </tr>
   <tr>
     <td width="33%" valign="top">
-      <ul>
-        <li><a>Mood</a></li>
-      </ul>
+
     </td>
-    <td width="33%" valign="top">
-      <ul>
-        <li><a>Mood</a></li>
-      </ul>
-    </td>
-    <td width="33%" valign="top">
-      <ul>
-        <li><a>Mood</a></li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
     <td width="33%" valign="top">
 
     </td>
     <td width="33%" valign="top">
-      <ul>
-        <li>Imp
-          <ul>
-            <li>VERB: Amankan, Ijinkan, Sukseskan</li>
-          </ul>
-        </li>
-      </ul>
-    </td>
-    <td width="33%" valign="top">
 
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
-      <ul>
-        <li>Ind
-          <ul>
-            <li>VERB: kata, menjadi, mencapai, mengatakan, ada, meningkat, naik, dibandingkan, lalu, merupakan</li>
-          </ul>
-        </li>
-      </ul>
-    </td>
-    <td width="33%" valign="top">
-      <ul>
-        <li>Ind
-          <ul>
-            <li>VERB: menjadi, memiliki, terletak, digunakan, berada, menggunakan, dikenal, terjadi, membuat, disebut</li>
-          </ul>
-        </li>
-      </ul>
-    </td>
-    <td width="33%" valign="top">
-      <ul>
-        <li>Ind
-          <ul>
-            <li>VERB: menjadi, ada, memiliki, membuat, mulai, mengatakan, merupakan, ujar, digunakan, mendapatkan</li>
-          </ul>
-        </li>
-      </ul>
     </td>
   </tr>
   <tr>
@@ -719,7 +670,7 @@ udver: '2'
       <ul>
         <li>Act
           <ul>
-            <li>VERB: menjadi, memiliki, berada, menggunakan, membuat, bermain, mulai, melakukan, kembali, adanya</li>
+            <li>VERB: menjadi, memiliki, berada, menggunakan, membuat, bermain, mulai, melakukan, kembali, berasal</li>
           </ul>
         </li>
       </ul>
@@ -816,7 +767,7 @@ udver: '2'
       <ul>
         <li>Art
           <ul>
-            <li>DET: sebuah, nya, seorang, suatu, sang, si, seekor, yang, Sauatu, sepucuk</li>
+            <li>DET: sebuah, nya, seorang, suatu, sang, si, yang, seekor, The, Sauatu</li>
           </ul>
         </li>
       </ul>
@@ -910,7 +861,7 @@ udver: '2'
           <ul>
             <li>ADV: banyak</li>
             <li>DET: beberapa, para, berbagai, banyak, sejumlah, sekelompok, kebanyakan, sebagian, semacam, serangkaian</li>
-            <li>PRON: seseorang, sesuatu, seorang, sejumlah, beberapa, Banyak</li>
+            <li>PRON: seseorang, sesuatu, seorang, sejumlah, beberapa, Banyak, nya</li>
           </ul>
         </li>
       </ul>
@@ -1003,6 +954,7 @@ udver: '2'
         <li>Rel
           <ul>
             <li>ADV: bagaimana, berapa, mengapa, kapan</li>
+            <li>DET: yang</li>
             <li>PRON: yang, siapa, yg, apa</li>
           </ul>
         </li>
@@ -1488,6 +1440,92 @@ udver: '2'
   <tr>
     <td width="33%" valign="top">
       <ul>
+        <li><a>ExtPos</a>
+          <ul>
+            <li>ADV
+              <ul>
+                <li>ADJ: lebih, sama, kurang</li>
+                <li>ADP: Selain, Oleh</li>
+                <li>ADV: Sementara, Namun, lebih, Lagi, baru-baru</li>
+                <li>CCONJ: Namun</li>
+              </ul>
+            </li>
+            <li>SCONJ
+              <ul>
+                <li>ADP: di, antara</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <ul>
+        <li><a>ExtPos</a>
+          <ul>
+            <li>ADP
+              <ul>
+                <li>ADP: antara, di, oleh</li>
+                <li>SCONJ: antara</li>
+              </ul>
+            </li>
+            <li>ADV
+              <ul>
+                <li>ADJ: sama</li>
+                <li>ADP: oleh, dengan, serta</li>
+                <li>ADV: kurang, terlebih, Meskipun, Demikian, Walaupun, Sementara, Baru, Hanya, Lebih, Meski</li>
+                <li>AUX: akan</li>
+                <li>CCONJ: Namun</li>
+                <li>PRON: begitu</li>
+                <li>SCONJ: Sementara, Maka</li>
+              </ul>
+            </li>
+            <li>CCONJ
+              <ul>
+                <li>AUX: akan</li>
+              </ul>
+            </li>
+            <li>SCONJ
+              <ul>
+                <li>ADP: di, antara, oleh</li>
+                <li>PRON: yang</li>
+                <li>SCONJ: maka</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <ul>
+        <li><a>ExtPos</a>
+          <ul>
+            <li>ADP
+              <ul>
+                <li>ADP: antara</li>
+              </ul>
+            </li>
+            <li>ADV
+              <ul>
+                <li>ADJ: sama</li>
+                <li>ADP: Oleh</li>
+                <li>ADV: lebih, sering, Sementara, Lagi, kurang, Kadang</li>
+              </ul>
+            </li>
+            <li>SCONJ
+              <ul>
+                <li>ADP: di</li>
+                <li>PRON: yang</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <ul>
         <li><a>Foreign</a>
           <ul>
             <li>Yes
@@ -1536,17 +1574,17 @@ udver: '2'
           <ul>
             <li>Yes
               <ul>
-                <li>ADJ: ke5</li>
-                <li>ADP: dibawah, dimana, diatas, didalam, diluar, dibelakang, dimuka</li>
-                <li>ADV: bagaimanasebuah, kira2, Kemana</li>
+                <li>ADJ: keabu, kebiru, pecah, sehari, terhuyung, ke5</li>
+                <li>ADP: dibawah, dimana, diatas, didalam, diluar, dibelakang, dimuka, s</li>
+                <li>ADV: berturut, bersama, berulang, perlahan, bagaimanasebuah, berkali, kira2, rata, selama, selang</li>
                 <li>CCONJ: dam</li>
-                <li>DET: Sauatu, berberapa, dibeberapa</li>
-                <li>NOUN: 141an, 1960an, dihati, dijaren, disini, gayab, kedepan, kedunia, didunia, manusa</li>
-                <li>NUM: Delapn, satu</li>
+                <li>DET: bermacam, Sauatu, berberapa, dibeberapa</li>
+                <li>NOUN: bertahun, gerak, perundang, asal, 141an, 1960an, berbulan, berpikul, dihati, dijaren</li>
+                <li>NUM: beribu, Delapn, satu</li>
                 <li>PROPN: Co</li>
                 <li>SCONJ: dimana, darimana</li>
-                <li>VERB: di, kerje, dititik</li>
-                <li>X: do, pendukun</li>
+                <li>VERB: di, berbeda, berpura, bersama, berubah, dibayang, ke, kerje, terombang, terus</li>
+                <li>X: do</li>
               </ul>
             </li>
           </ul>
@@ -1635,15 +1673,14 @@ udver: '2'
       <ul>
         <li><a>nsubj</a>
           <ul>
-            <li>VERB--NOUN (1590)</li>
+            <li>VERB--NOUN (1591)</li>
             <li>VERB--NOUN-ADP(dalam) (1)</li>
             <li>VERB--NOUN-ADP(di) (1)</li>
             <li>VERB--NOUN-ADP(karena) (1)</li>
             <li>VERB--NOUN-ADP(saat) (1)</li>
             <li>VERB--NOUN-ADP(seperti) (1)</li>
             <li>VERB--NOUN-ADP(untuk) (1)</li>
-            <li>VERB--PRON (2094)</li>
-            <li>VERB--PRON-ADP(di) (1)</li>
+            <li>VERB--PRON (2125)</li>
           </ul>
         </li>
       </ul>
@@ -1677,7 +1714,7 @@ udver: '2'
       <ul>
         <li><a>obj</a>
           <ul>
-            <li>VERB--NOUN (4280)</li>
+            <li>VERB--NOUN (4268)</li>
             <li>VERB--NOUN-ADP(akan) (2)</li>
             <li>VERB--NOUN-ADP(atas) (2)</li>
             <li>VERB--NOUN-ADP(bahkan) (1)</li>
@@ -1696,7 +1733,7 @@ udver: '2'
             <li>VERB--NOUN-ADP(seperti) (4)</li>
             <li>VERB--NOUN-ADP(untuk) (2)</li>
             <li>VERB--NOUN-ADP(yaitu) (1)</li>
-            <li>VERB--PRON (537)</li>
+            <li>VERB--PRON (480)</li>
           </ul>
         </li>
       </ul>
@@ -1727,8 +1764,8 @@ udver: '2'
       <ul>
         <li><a>iobj</a>
           <ul>
-            <li>VERB--NOUN (6)</li>
-            <li>VERB--PRON (2)</li>
+            <li>VERB--NOUN (8)</li>
+            <li>VERB--PRON (7)</li>
           </ul>
         </li>
       </ul>

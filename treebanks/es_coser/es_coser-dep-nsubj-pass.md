@@ -56,7 +56,7 @@ The following 2 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 10	mucho	mucho	ADV	rg	_	7	advmod	_	SpaceAfter=No
 11	,	,	PUNCT	fc	PunctType=Comm	10	punct	_	_
 12	mucho	mucho	ADV	rg	_	7	advmod	_	SpaceAfter=No
-13	,	,	PUNCT	fc	PunctType=Comm	12	punct	_	_
+13	,	,	PUNCT	fc	PunctType=Comm	15	punct	_	_
 14	pero	pero	CCONJ	cc	_	15	cc	_	_
 15	mucho	mucho	ADV	rg	_	7	advmod	_	SpaceAfter=No
 16	.	.	PUNCT	fp	PunctType=Peri	7	punct	_	_

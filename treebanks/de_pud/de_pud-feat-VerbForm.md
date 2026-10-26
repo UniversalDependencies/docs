@@ -22,10 +22,9 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 
 `VERB` tokens may have the following values of `VerbForm`:
 
-* `Fin` (1; 1% of non-empty `VerbForm`): <em>bleiben</em>
-* `Inf` (48; 69% of non-empty `VerbForm`): <em>finden, abzuschreiben, arbeiten, aufrechtzuerhalten, aufzutreten, begrenzen, behandeln, bekommen, beschäftigen, besuchen</em>
+* `Inf` (49; 70% of non-empty `VerbForm`): <em>finden, abzuschreiben, arbeiten, aufrechtzuerhalten, aufzutreten, begrenzen, behandeln, bekommen, beschäftigen, besuchen</em>
 * `Part` (21; 30% of non-empty `VerbForm`): <em>abgesehen, basierend, gefolgt, gesagt, Breaking, Geformt, abgehärtet, angeklagt, begründet, bekannt</em>
-* `EMPTY` (1908): <em>sagte, ist, an, hat, haben, gibt, wurde, sagt, auf, begann</em>
+* `EMPTY` (1800): <em>sagte, ist, hat, haben, gibt, wurde, sagt, begann, war, hatte</em>
 
 <table>
   <tr><th>Paradigm <i>schreiben</i></th><th><tt>Inf</tt></th><th><tt>Part</tt></th></tr>

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-762 nodes (3%) are attached to their parents as `acl`.
+775 nodes (3%) are attached to their parents as `acl`.
 
-758 instances of `acl` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.36089238845144.
+771 instances of `acl` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.36774193548387.
 
-The following 10 pairs of parts of speech are connected with `acl`: <tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt> (684; 90% instances), <tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt>-<tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt> (52; 7% instances), <tt><a href="ky_ktmu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt> (10; 1% instances), <tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt>-<tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt> (7; 1% instances), <tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="ky_ktmu-pos-PRON.html">PRON</a></tt>-<tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="ky_ktmu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ky_ktmu-pos-ADP.html">ADP</a></tt>-<tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ky_ktmu-pos-ADV.html">ADV</a></tt>-<tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ky_ktmu-pos-NUM.html">NUM</a></tt>-<tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `acl`: <tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt> (697; 90% instances), <tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt>-<tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt> (53; 7% instances), <tt><a href="ky_ktmu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt> (10; 1% instances), <tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt>-<tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt> (7; 1% instances), <tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="ky_ktmu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ky_ktmu-pos-ADP.html">ADP</a></tt>-<tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ky_ktmu-pos-ADV.html">ADV</a></tt>-<tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ky_ktmu-pos-NUM.html">NUM</a></tt>-<tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ky_ktmu-pos-PRON.html">PRON</a></tt>-<tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -29,7 +29,7 @@ The following 10 pairs of parts of speech are connected with `acl`: <tt><a href=
 5	кээде	кээде	ADV	ADV	_	8	advmod	_	_
 6	топ	топ	NOUN	NN	Case=Nom|Number=Sing|Person=3	8	obj	_	_
 7	жасап	жаса	VERB	VB	Person=3|Polarity=Pos|Tense=Pres	8	advcl	_	_
-8	ойношот	ойно	VERB	VB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres	0	root	_	SpaceAfter=No
+8	ойношот	ойно	VERB	VB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 9	.	.	PUNCT	PCT	_	8	punct	_	_
 
 ~~~
@@ -47,7 +47,7 @@ The following 10 pairs of parts of speech are connected with `acl`: <tt><a href=
 4	,	,	PUNCT	PCT	_	3	punct	_	_
 5	бир	бир	NUM	NUM	NumType=Card	7	nummod	_	_
 6	да	да	CCONJ	CCONJ	_	5	mark	_	_
-7	дан	дан	NOUN	NN	Case=Nom|Number=Sing|Person=3	8	obj	_	_
+7	дан	дан	NOUN	NN	Case=Nom|Number=Sing|Person=3	8	nmod	_	_
 8	жок	жок	VERB	VB	Aspect=Perf|Mood=Ind|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 9	.	.	PUNCT	PCT	_	8	punct	_	_
 

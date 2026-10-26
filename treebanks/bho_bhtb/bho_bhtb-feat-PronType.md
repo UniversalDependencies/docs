@@ -54,7 +54,7 @@ The most frequent other feature values with which `NOUN` and `PronType` co-occur
 
 * `Int` (2; 5% of non-empty `PronType`): बहिन, कब
 * `Prs` (39; 95% of non-empty `PronType`): जब, तब, अब, उहाँ, जहाँ, खराब, गरीब, सब, गाना, परब
-* `EMPTY` (1813): लोग, बिआह, जी, रंग, देश, भाषा, आजु, आदमी, साल, बात
+* `EMPTY` (1814): लोग, बिआह, जी, रंग, देश, भाषा, आजु, आदमी, साल, बात
 
 `PronType` seems to be **lexical feature** of `NOUN`. 100% lemmas (13) occur only with one value of `PronType`.
 
@@ -80,7 +80,7 @@ The most frequent other feature values with which `PART` and `PronType` co-occur
 * `Dem` (1; 9% of non-empty `PronType`): भलही
 * `Neg` (8; 73% of non-empty `PronType`): ना, नइखे
 * `Prs` (2; 18% of non-empty `PronType`): सँ
-* `EMPTY` (181): त, ना, नइखे, बहुते, भर, बस, अतना, खाली, गमगमावे, घटना
+* `EMPTY` (180): त, ना, नइखे, बहुते, भर, बस, अतना, खाली, गमगमावे, घटना
 
 ### `VERB`
 

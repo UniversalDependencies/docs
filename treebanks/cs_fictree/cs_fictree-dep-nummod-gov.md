@@ -38,7 +38,7 @@ The following 2 pairs of parts of speech are connected with `nummod:gov`: <tt><a
 1	Ale	ale	CCONJ	J^-------------	_	10	cc	10:cc	_
 2	jen	jen	PART	TT-------------	_	3	advmod:emph	3:advmod:emph	_
 3	pár	pár	NUM	Cn-S1----------	Case=Nom|Number=Sing|NumForm=Word|NumType=Card	4	nummod:gov	4:nummod:gov	_
-4	jich	on	PRON	PPMP2--3-------	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	10	nsubj	10:nsubj	_
+4	jich	on	PRON	PPMP2--3-------	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur|Person=3|PrepCase=Npr|PronType=Prs	10	nsubj	10:nsubj	_
 5	toho	ten	DET	PDIS2----------	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	8	det	8:det	_
 6	"	"	PUNCT	Z:-------------	_	8	punct	8:punct	SpaceAfter=No
 7	odpadního	odpadní	ADJ	AAIS2----1A----	Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	8	amod	8:amod	_

@@ -8,12 +8,27 @@ udver: '2'
 
 This relation is universal.
 
-80 nodes (0%) are attached to their parents as `compound`.
+147 nodes (0%) are attached to their parents as `compound`.
 
-79 instances of `compound` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.5.
+146 instances of `compound` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.27210884353742.
 
-The following 9 pairs of parts of speech are connected with `compound`: <tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_ruthenian-pos-NUM.html">NUM</a></tt> (32; 40% instances), <tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (22; 28% instances), <tt><a href="orv_ruthenian-pos-NUM.html">NUM</a></tt>-<tt><a href="orv_ruthenian-pos-SYM.html">SYM</a></tt> (9; 11% instances), <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_ruthenian-pos-PROPN.html">PROPN</a></tt> (7; 9% instances), <tt><a href="orv_ruthenian-pos-NUM.html">NUM</a></tt>-<tt><a href="orv_ruthenian-pos-NUM.html">NUM</a></tt> (4; 5% instances), <tt><a href="orv_ruthenian-pos-NUM.html">NUM</a></tt>-<tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (2; 3% instances), <tt><a href="orv_ruthenian-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (2; 3% instances), <tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_ruthenian-pos-SYM.html">SYM</a></tt> (1; 1% instances), <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_ruthenian-pos-NUM.html">NUM</a></tt> (1; 1% instances).
+The following 9 pairs of parts of speech are connected with `compound`: <tt><a href="orv_ruthenian-pos-NUM.html">NUM</a></tt>-<tt><a href="orv_ruthenian-pos-SYM.html">SYM</a></tt> (74; 50% instances), <tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_ruthenian-pos-NUM.html">NUM</a></tt> (34; 23% instances), <tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (22; 15% instances), <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_ruthenian-pos-PROPN.html">PROPN</a></tt> (7; 5% instances), <tt><a href="orv_ruthenian-pos-NUM.html">NUM</a></tt>-<tt><a href="orv_ruthenian-pos-NUM.html">NUM</a></tt> (4; 3% instances), <tt><a href="orv_ruthenian-pos-NUM.html">NUM</a></tt>-<tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="orv_ruthenian-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_ruthenian-pos-SYM.html">SYM</a></tt> (1; 1% instances), <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_ruthenian-pos-NUM.html">NUM</a></tt> (1; 1% instances).
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 2 compound	color:blue
+1	[	[	PUNCT	_	_	3	punct	_	wf="["|before="<p>"|SpaceAfter=No
+2	№	№	SYM	_	_	3	compound	_	wf="№"
+3	2	2	NUM	_	Case=Nom|Gender=Masc|NumForm=Digit|NumType=Card	0	root	_	wf="2"|SpaceAfter=No
+4	.	.	PUNCT	_	_	3	punct	_	wf="."|SpaceAfter=No
+5	]	]	PUNCT	_	_	3	punct	_	wf="]"|after="</p>"
+
+~~~
 
 
 ~~~ conllu
@@ -63,21 +78,6 @@ The following 9 pairs of parts of speech are connected with `compound`: <tt><a h
 20	єго	онъ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	21	det	_	wf="єго"
 21	ближшии	ближший	ADJ	_	Case=Nom|Degree=Sup|Gender=Masc|Number=Sing	16	conj	_	wf="ближшии"|SpaceAfter=No
 22	.	.	PUNCT	_	_	3	punct	_	wf="."
-
-~~~
-
-
-~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 2 compound	color:blue
-1	[	[	PUNCT	_	_	3	punct	_	wf="["|before="<p>"|SpaceAfter=No
-2	№	№	SYM	_	_	3	compound	_	wf="№"
-3	2	2	NUM	_	Case=Nom|Gender=Masc|NumForm=Digit|NumType=Card	0	root	_	wf="2"|SpaceAfter=No
-4	.	.	PUNCT	_	_	3	punct	_	wf="."|SpaceAfter=No
-5	]	]	PUNCT	_	_	3	punct	_	wf="]"|after="</p>"
 
 ~~~
 

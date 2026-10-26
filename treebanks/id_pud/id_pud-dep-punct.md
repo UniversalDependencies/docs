@@ -25,7 +25,7 @@ The following 15 pairs of parts of speech are connected with `punct`: <tt><a hre
 1	Pengeluaran	keluar	NOUN	_	Number=Sing	4	nsubj:pass	_	_
 2	baru	baru	ADJ	_	_	1	amod	_	_
 3	ini	ini	DET	_	PronType=Dem	1	det	_	_
-4	dipasok	pasok	VERB	_	Mood=Ind|Voice=Pass	0	root	_	_
+4	dipasok	pasok	VERB	_	Voice=Pass	0	root	_	_
 5	oleh	oleh	ADP	_	_	6	case	_	_
 6	rekening	rekening	NOUN	_	Number=Sing	4	obl:agent	_	_
 7	bank	bank	NOUN	_	Number=Sing	6	nmod	_	_
@@ -42,7 +42,7 @@ The following 15 pairs of parts of speech are connected with `punct`: <tt><a hre
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 6 punct	color:blue
-1	Kadang	kadang	ADV	_	PronType=Ind	4	advmod	_	_
+1	Kadang	kadang	ADV	_	ExtPos=ADV|PronType=Ind	4	advmod	_	_
 2	kala	kala	NOUN	_	Number=Sing	1	fixed	_	_
 3	seperti	seperti	ADP	_	_	4	case	_	_
 4	kekuatan	kuat	NOUN	_	Number=Sing	0	root	_	_

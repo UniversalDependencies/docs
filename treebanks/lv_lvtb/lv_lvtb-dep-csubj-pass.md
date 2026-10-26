@@ -46,7 +46,7 @@ The following 7 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 # visual-style 11	fgColor:white
 # visual-style 11 21 csubj:pass	color:blue
 1	Tajā	tas	DET	pd3msln	Case=Loc|Gender=Masc|Number=Sing|Person=3|PronType=Dem	3	det	3:det	LvtbNodeId=a-s93-p5s3w1
-2	pašā	pats	DET	pg0msln	Case=Loc|Gender=Masc|Number=Sing|PronType=Tot	1	fixed	1:fixed	LvtbNodeId=a-s93-p5s3w2
+2	pašā	pats	DET	pg0msln	Case=Loc|Gender=Masc|Number=Sing|PronType=Tot	1	flat	1:flat	LvtbNodeId=a-s93-p5s3w2
 3	laikā	laiks	NOUN	ncmsl1	Case=Loc|Gender=Masc|Number=Sing	5	obl	5:obl:loc	LvtbNodeId=a-s93-p5s3w3
 4	mēs	mēs	PRON	pp10pnn	Case=Nom|Number=Plur|Person=1|PronType=Prs	5	nsubj	5:nsubj	LvtbNodeId=a-s93-p5s3w4
 5	zinām	zināt	VERB	vmnipt31pan	Evident=Fh|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-s93-p5s3w5|SpaceAfter=No
@@ -80,7 +80,7 @@ The following 7 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 1	Secināts	secināt	VERB	vmnpdmsnpsnpn	Aspect=Perf|Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	LvtbNodeId=a-z25-p37s1w1|SpaceAfter=No
 2	,	,	PUNCT	zc	_	19	punct	19:punct	LvtbNodeId=a-z25-p37s1w2
 3	ka	ka	SCONJ	cs	_	19	mark	19:mark	CorrectionType=InsertedPunctAfter|LvtbNodeId=a-z25-p37s1w3
-4	kaut	kaut	SCONJ	cs	_	9	mark	9:mark	LvtbNodeId=a-z25-p37s1w5
+4	kaut	kaut	SCONJ	cs	ExtPos=SCONJ	9	mark	9:mark	LvtbNodeId=a-z25-p37s1w5
 5	gan	gan	PART	q	_	4	fixed	4:fixed	LvtbNodeId=a-z25-p37s1w6
 6	gaļas	gaļa	NOUN	ncfsg4	Case=Gen|Gender=Fem|Number=Sing	7	nmod	7:nmod:gen	LvtbNodeId=a-z25-p37s1w7
 7	liellopu	liellops	NOUN	ncmpg1	Case=Gen|Gender=Masc|Number=Plur	8	nmod	8:nmod:gen	LvtbNodeId=a-z25-p37s1w8

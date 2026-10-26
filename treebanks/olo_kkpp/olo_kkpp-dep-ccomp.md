@@ -47,7 +47,7 @@ The following 2 pairs of parts of speech are connected with `ccomp`: <tt><a href
 6	kerras	kerras	ADV	ADV	_	7	advmod	_	_
 7	arvata	arvata	VERB	VERB	VerbForm=Inf	5	xcomp	_	SpaceAfter=No
 8	,	,	PUNCT	PUNCT	_	11	punct	_	_
-9	mis	mi	PRON	PRON	Case=Ine|Number=Sing	11	obl	_	PronType=Interr
+9	mis	mi	PRON	PRON	Case=Ine|Number=Sing|PronType=Int	11	obl	_	PronType=Interr
 10	on	olla	AUX	AUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	cop	_	_
 11	pagin	pagin	NOUN	NOUN	Case=Nom|Number=Sing	7	ccomp	_	_
 12	vahnas	vahnu	ADJ	ADJ	Case=Ine|Number=Sing	13	amod	_	_
@@ -60,7 +60,7 @@ The following 2 pairs of parts of speech are connected with `ccomp`: <tt><a href
 19	sanottu	sanuo	VERB	VERB	Connegative=Yes|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	11	conj	_	_
 20	kohti	kohti	ADV	ADV	_	19	advmod	_	_
 21	da	da	CCONJ	CCONJ	_	22	cc	_	_
-22	sen	sen	ADV	ADV	_	24	advmod	_	_
+22	sen	sen	ADV	ADV	ExtPos=ADV	24	advmod	_	_
 23	ližäkse	ližäkse	ADV	ADV	_	22	fixed	_	_
 24	käytettih	käyttiä	VERB	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	19	conj	_	_
 25	erilazii	erilaine	ADJ	ADJ	Case=Par|Number=Plur	26	amod	_	_

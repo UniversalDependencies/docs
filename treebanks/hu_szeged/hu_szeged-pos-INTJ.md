@@ -27,7 +27,7 @@ The 10 most frequent ambiguous types:  <em>persze</em> (<tt><a href="hu_szeged-p
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.503840).
+The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.504111).
 
 The 1st highest number of forms (1) was observed with the lemma “igen”: <em>igen</em>.
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-91 nodes (0%) are attached to their parents as `goeswith`.
+92 nodes (0%) are attached to their parents as `goeswith`.
 
-91 instances of `goeswith` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.05494505494505.
+92 instances of `goeswith` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.05434782608696.
 
-The following 9 pairs of parts of speech are connected with `goeswith`: <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-X.html">X</a></tt> (32; 35% instances), <tt><a href="et_ewt-pos-NUM.html">NUM</a></tt>-<tt><a href="et_ewt-pos-X.html">X</a></tt> (22; 24% instances), <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_ewt-pos-X.html">X</a></tt> (9; 10% instances), <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt>-<tt><a href="et_ewt-pos-X.html">X</a></tt> (9; 10% instances), <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="et_ewt-pos-X.html">X</a></tt> (8; 9% instances), <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_ewt-pos-X.html">X</a></tt> (6; 7% instances), <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="et_ewt-pos-X.html">X</a></tt> (3; 3% instances), <tt><a href="et_ewt-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="et_ewt-pos-X.html">X</a></tt> (1; 1% instances), <tt><a href="et_ewt-pos-DET.html">DET</a></tt>-<tt><a href="et_ewt-pos-X.html">X</a></tt> (1; 1% instances).
+The following 9 pairs of parts of speech are connected with `goeswith`: <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-X.html">X</a></tt> (32; 35% instances), <tt><a href="et_ewt-pos-NUM.html">NUM</a></tt>-<tt><a href="et_ewt-pos-X.html">X</a></tt> (22; 24% instances), <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt>-<tt><a href="et_ewt-pos-X.html">X</a></tt> (10; 11% instances), <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_ewt-pos-X.html">X</a></tt> (9; 10% instances), <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="et_ewt-pos-X.html">X</a></tt> (8; 9% instances), <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_ewt-pos-X.html">X</a></tt> (6; 7% instances), <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="et_ewt-pos-X.html">X</a></tt> (3; 3% instances), <tt><a href="et_ewt-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="et_ewt-pos-X.html">X</a></tt> (1; 1% instances), <tt><a href="et_ewt-pos-DET.html">DET</a></tt>-<tt><a href="et_ewt-pos-X.html">X</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -54,31 +54,21 @@ The following 9 pairs of parts of speech are connected with `goeswith`: <tt><a h
 
 
 ~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 2 goeswith	color:blue
-1	Auto	auto_sõbralik	ADJ	A	Case=Nom|Degree=Pos|Number=Sing|Typo=Yes	3	amod	3:amod	CorrectForm=autosõbralik
-2	sõbralik	_	X	_	_	1	goeswith	1:goeswith	_
-3	rada	rada	NOUN	S	Case=Nom|Number=Sing	8	nsubj:cop	8:nsubj	_
-4	on	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	cop	8:cop	_
-5	nüüd	nüüd	ADV	D	_	8	advmod	8:advmod	_
-6	ju	ju	ADV	D	_	8	advmod	8:advmod	_
-7	ka	ka	ADV	D	_	8	advmod	8:advmod	_
-8	Laitses	Laitse	PROPN	S	Case=Ine|Number=Sing	0	root	0:root	NE=B-Loc|SpaceAfter=No
-9	,	,	PUNCT	Z	_	13	punct	13:punct	_
-10	kui	kui	SCONJ	J	_	13	mark	13:mark	_
-11	ma	mina	PRON	P	Case=Nom|Number=Sing|Person=1|PronType=Prs	13	nsubj	13:nsubj	_
-12	ei	ei	AUX	V	Polarity=Neg	13	aux	13:aux	_
-13	eksi	eksima	VERB	V	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	16	advcl	16:advcl	SpaceAfter=No
-14	,	,	PUNCT	Z	_	16	punct	16:punct	_
-15	siis	siis	ADV	D	_	16	advmod	16:advmod	_
-16	pandi	panema	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Pass	8	conj	0:root|8:conj	_
-17	kõik	kõik	PRON	P	Case=Nom|Number=Sing|PronType=Tot	16	obj	16:obj	_
-18	asfalti	asfalt	NOUN	S	Case=Gen|Number=Sing|Typo=Yes	16	obl	16:obl	CorrectForm=asfaldi
-19	alla	alla	ADP	K	AdpType=Post	18	case	18:case	SpaceAfter=No
-20	.	.	PUNCT	Z	_	8	punct	8:punct	_
+# visual-style 2 3 goeswith	color:blue
+1	Ma	mina	PRON	P	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	4:nsubj|8:nsubj	_
+2	üle	ülehomme	ADV	D	Typo=Yes	4	advmod	4:advmod	CorrectForm=ülehomme
+3	homme	_	X	_	_	2	goeswith	2:goeswith	_
+4	näen	nägema	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
+5	teda	tema	PRON	P	Case=Par|Number=Sing|Person=3|PronType=Prs	4	obj	4:obj	SpaceAfter=No
+6	,	,	PUNCT	Z	_	8	punct	8:punct	_
+7	siis	siis	ADV	D	_	8	advmod	8:advmod	_
+8	räägin	rääkima	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	0:root|4:conj	_
+9	temaga	tema	PRON	P	Case=Com|Number=Sing|Person=3|PronType=Prs	8	obl	8:obl	SpaceAfter=No
+10	.	.	PUNCT	Z	_	4	punct	4:punct	_
 
 ~~~
 

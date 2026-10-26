@@ -25,12 +25,12 @@ The following 11 pairs of parts of speech are connected with `parataxis`: <tt><a
 1	"	"	PUNCT	_	_	4	punct	_	SpaceAfter=No
 2	Suara	suara	NOUN	_	Number=Sing	4	nsubj	_	_
 3	nya	nya	PRON	_	Number=Sing|Person=3|PronType=Prs	2	nmod:poss	_	_
-4	menjangkau	jangkau	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
+4	menjangkau	jangkau	VERB	_	Voice=Act	0	root	_	_
 5	seluruh	seluruh	DET	_	PronType=Tot	6	det	_	_
 6	dunia	dunia	NOUN	_	Number=Sing	4	obj	_	SpaceAfter=No
 7	,	,	PUNCT	_	_	4	punct	_	SpaceAfter=No
 8	"	"	PUNCT	_	_	4	punct	_	_
-9	kata	kata	VERB	_	Mood=Ind|Voice=Act	4	parataxis	_	_
+9	kata	kata	VERB	_	Voice=Act	4	parataxis	_	_
 10	Leive	Leive	PROPN	_	_	9	nsubj	_	SpaceAfter=No
 11	.	.	PUNCT	_	_	4	punct	_	_
 
@@ -46,7 +46,7 @@ The following 11 pairs of parts of speech are connected with `parataxis`: <tt><a
 1	Federico	Federico	PROPN	_	_	4	nsubj	_	_
 2	Fellini	Fellini	PROPN	_	_	1	flat:name	_	_
 3	pernah	pernah	ADV	_	_	4	advmod	_	_
-4	mengatakan	kata	VERB	_	Mood=Ind|Voice=Act	0	root	_	SpaceAfter=No
+4	mengatakan	kata	VERB	_	Voice=Act	0	root	_	SpaceAfter=No
 5	:	:	PUNCT	_	_	14	punct	_	_
 6	"	"	PUNCT	_	_	14	punct	_	SpaceAfter=No
 7	Seperti	seperti	ADP	_	_	8	case	_	_
@@ -83,7 +83,7 @@ The following 11 pairs of parts of speech are connected with `parataxis`: <tt><a
 10	kami	kami	PRON	_	Clusivity=Ex|Number=Plur|Person=1|PronType=Prs	8	nmod	_	SpaceAfter=No
 11	,	,	PUNCT	_	_	6	punct	_	SpaceAfter=No
 12	"	"	PUNCT	_	_	6	punct	_	_
-13	ujar	ujar	VERB	_	Mood=Ind|Voice=Act	6	parataxis	_	_
+13	ujar	ujar	VERB	_	Voice=Act	6	parataxis	_	_
 14	Dündar	Dündar	PROPN	_	_	13	nsubj	_	SpaceAfter=No
 15	.	.	PUNCT	_	_	6	punct	_	_
 

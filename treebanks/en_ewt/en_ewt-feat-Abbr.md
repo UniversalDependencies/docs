@@ -9,36 +9,36 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-503 tokens (0%) have a non-empty value of `Abbr`.
-149 types (1%) occur at least once with a non-empty value of `Abbr`.
-97 lemmas (1%) occur at least once with a non-empty value of `Abbr`.
-The feature is used with 14 part-of-speech tags: <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (121; 0% instances), <tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt> (121; 0% instances), <tt><a href="en_ewt-pos-NUM.html">NUM</a></tt> (84; 0% instances), <tt><a href="en_ewt-pos-ADP.html">ADP</a></tt> (43; 0% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> (27; 0% instances), <tt><a href="en_ewt-pos-PART.html">PART</a></tt> (26; 0% instances), <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> (23; 0% instances), <tt><a href="en_ewt-pos-PRON.html">PRON</a></tt> (22; 0% instances), <tt><a href="en_ewt-pos-SCONJ.html">SCONJ</a></tt> (11; 0% instances), <tt><a href="en_ewt-pos-AUX.html">AUX</a></tt> (9; 0% instances), <tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt> (6; 0% instances), <tt><a href="en_ewt-pos-INTJ.html">INTJ</a></tt> (4; 0% instances), <tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="en_ewt-pos-DET.html">DET</a></tt> (3; 0% instances).
+552 tokens (0%) have a non-empty value of `Abbr`.
+165 types (1%) occur at least once with a non-empty value of `Abbr`.
+109 lemmas (1%) occur at least once with a non-empty value of `Abbr`.
+The feature is used with 15 part-of-speech tags: <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (135; 0% instances), <tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt> (126; 0% instances), <tt><a href="en_ewt-pos-NUM.html">NUM</a></tt> (84; 0% instances), <tt><a href="en_ewt-pos-ADP.html">ADP</a></tt> (43; 0% instances), <tt><a href="en_ewt-pos-SYM.html">SYM</a></tt> (29; 0% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> (27; 0% instances), <tt><a href="en_ewt-pos-PART.html">PART</a></tt> (26; 0% instances), <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> (23; 0% instances), <tt><a href="en_ewt-pos-PRON.html">PRON</a></tt> (22; 0% instances), <tt><a href="en_ewt-pos-SCONJ.html">SCONJ</a></tt> (11; 0% instances), <tt><a href="en_ewt-pos-AUX.html">AUX</a></tt> (9; 0% instances), <tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt> (6; 0% instances), <tt><a href="en_ewt-pos-INTJ.html">INTJ</a></tt> (5; 0% instances), <tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="en_ewt-pos-DET.html">DET</a></tt> (3; 0% instances).
 
 ### `NOUN`
 
-121 <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Abbr`.
+135 <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `NOUN` and `Abbr` co-occurred: <tt><a href="en_ewt-feat-Number.html">Number</a></tt><tt>=Plur</tt> (92; 76%).
+The most frequent other feature values with which `NOUN` and `Abbr` co-occurred: <tt><a href="en_ewt-feat-Number.html">Number</a></tt><tt>=Plur</tt> (95; 70%).
 
 `NOUN` tokens may have the following values of `Abbr`:
 
-* `Yes` (121; 100% of non-empty `Abbr`): <em>etc, etc., mins, No., b, luv, ppl, thanx, yrs, UV</em>
-* `EMPTY` (42969): <em>time, people, service, place, thanks, food, way, year, day, number</em>
+* `Yes` (135; 100% of non-empty `Abbr`): <em>etc, etc., mins, thx, No., b, gtee, luv, ppl, thanx</em>
+* `EMPTY` (42949): <em>time, people, service, place, thanks, food, way, year, day, number</em>
 
-`Abbr` seems to be **lexical feature** of `NOUN`. 100% lemmas (23) occur only with one value of `Abbr`.
+`Abbr` seems to be **lexical feature** of `NOUN`. 100% lemmas (32) occur only with one value of `Abbr`.
 
 ### `PROPN`
 
-121 <tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt> tokens (1% of all `PROPN` tokens) have a non-empty value of `Abbr`.
+126 <tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt> tokens (1% of all `PROPN` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `PROPN` and `Abbr` co-occurred: <tt><a href="en_ewt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (120; 99%).
+The most frequent other feature values with which `PROPN` and `Abbr` co-occurred: <tt><a href="en_ewt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (125; 99%).
 
 `PROPN` tokens may have the following values of `Abbr`:
 
-* `Yes` (121; 100% of non-empty `Abbr`): <em>Sept., Dec., Oct, Oct., feb, Jan, Nov, Nov., Sat., Fri</em>
-* `EMPTY` (16438): <em>bush, US, al, Iraq, enron, Iran, China, states, John, Qaeda</em>
+* `Yes` (126; 100% of non-empty `Abbr`): <em>Sept., Dec., Oct, Oct., feb, Jan, Nov, Nov., Sat., Fri</em>
+* `EMPTY` (16436): <em>bush, US, al, Iraq, enron, Iran, China, states, John, Qaeda</em>
 
-`Abbr` seems to be **lexical feature** of `PROPN`. 100% lemmas (21) occur only with one value of `Abbr`.
+`Abbr` seems to be **lexical feature** of `PROPN`. 100% lemmas (24) occur only with one value of `Abbr`.
 
 ### `NUM`
 
@@ -49,7 +49,7 @@ The most frequent other feature values with which `NUM` and `Abbr` co-occurred: 
 `NUM` tokens may have the following values of `Abbr`:
 
 * `Yes` (84; 100% of non-empty `Abbr`): <em>m, k, b, bn, t</em>
-* `EMPTY` (4968): <em>one, two, 2, 1, 3, 5, 4, 10, three, 20</em>
+* `EMPTY` (4967): <em>one, two, 2, 1, 3, 5, 4, 10, three, 20</em>
 
 ### `ADP`
 
@@ -58,9 +58,20 @@ The most frequent other feature values with which `NUM` and `Abbr` co-occurred: 
 `ADP` tokens may have the following values of `Abbr`:
 
 * `Yes` (43; 100% of non-empty `Abbr`): <em>o, thru, vs, w, ta, f, a, w/, 2, 4</em>
-* `EMPTY` (21764): <em>of, in, to, for, on, with, at, from, by, as</em>
+* `EMPTY` (21734): <em>of, in, to, for, on, with, at, from, by, as</em>
 
 `Abbr` seems to be **lexical feature** of `ADP`. 100% lemmas (10) occur only with one value of `Abbr`.
+
+### `SYM`
+
+29 <tt><a href="en_ewt-pos-SYM.html">SYM</a></tt> tokens (3% of all `SYM` tokens) have a non-empty value of `Abbr`.
+
+The most frequent other feature values with which `SYM` and `Abbr` co-occurred: <tt><a href="en_ewt-feat-ExtPos.html">ExtPos</a></tt><tt>=ADP</tt> (29; 100%), <tt><a href="en_ewt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (29; 100%).
+
+`SYM` tokens may have the following values of `Abbr`:
+
+* `Yes` (29; 100% of non-empty `Abbr`): <em>@</em>
+* `EMPTY` (911): <em>$, /, -, :), #, %, +, :(, :-), A</em>
 
 ### `VERB`
 
@@ -71,7 +82,7 @@ The most frequent other feature values with which `VERB` and `Abbr` co-occurred:
 `VERB` tokens may have the following values of `Abbr`:
 
 * `Yes` (27; 100% of non-empty `Abbr`): <em>gon, wan, hav, Arrv., xferring, OK'd, SMS, b., est, findin</em>
-* `EMPTY` (27862): <em>have, get, know, had, go, do, want, said, see, going</em>
+* `EMPTY` (27861): <em>have, get, know, had, go, do, want, said, see, going</em>
 
 `Abbr` seems to be **lexical feature** of `VERB`. 100% lemmas (10) occur only with one value of `Abbr`.
 
@@ -95,7 +106,7 @@ The most frequent other feature values with which `ADV` and `Abbr` co-occurred: 
 `ADV` tokens may have the following values of `Abbr`:
 
 * `Yes` (23; 100% of non-empty `Abbr`): <em>asap, 4-ever, aka, ie, ovr, Def, deffly, eg, eg., prolly</em>
-* `EMPTY` (12501): <em>so, just, when, very, also, how, now, even, then, there</em>
+* `EMPTY` (12572): <em>so, just, when, very, also, how, now, even, then, there</em>
 
 ### `PRON`
 
@@ -114,8 +125,8 @@ The most frequent other feature values with which `PRON` and `Abbr` co-occurred:
 
 `SCONJ` tokens may have the following values of `Abbr`:
 
-* `Yes` (11; 100% of non-empty `Abbr`): <em>b/c, 4, bc, cos, cus, tho, w/out, coz</em>
-* `EMPTY` (4592): <em>that, if, as, because, for, of, since, before, like, while</em>
+* `Yes` (11; 100% of non-empty `Abbr`): <em>b/c, 4, bc, tho, w/out, cos, coz, cus</em>
+* `EMPTY` (4589): <em>that, if, as, because, for, of, since, before, like, while</em>
 
 ### `AUX`
 
@@ -135,18 +146,18 @@ The most frequent other feature values with which `AUX` and `Abbr` co-occurred: 
 `CCONJ` tokens may have the following values of `Abbr`:
 
 * `Yes` (6; 100% of non-empty `Abbr`): <em>n, 'n</em>
-* `EMPTY` (8196): <em>and, but, or, &, both, either, nor, plus, yet, neither</em>
+* `EMPTY` (8197): <em>and, but, or, &, both, either, nor, plus, yet, neither</em>
 
 ### `INTJ`
 
-4 <tt><a href="en_ewt-pos-INTJ.html">INTJ</a></tt> tokens (0% of all `INTJ` tokens) have a non-empty value of `Abbr`.
+5 <tt><a href="en_ewt-pos-INTJ.html">INTJ</a></tt> tokens (1% of all `INTJ` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `INTJ` and `Abbr` co-occurred: <tt><a href="en_ewt-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (4; 100%).
+The most frequent other feature values with which `INTJ` and `Abbr` co-occurred: <tt><a href="en_ewt-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (5; 100%).
 
 `INTJ` tokens may have the following values of `Abbr`:
 
-* `Yes` (4; 100% of non-empty `Abbr`): <em>pls, wel, plllz</em>
-* `EMPTY` (927): <em>please, yes, well, no, hi, like, ok, lol, hey, oh</em>
+* `Yes` (5; 100% of non-empty `Abbr`): <em>pls, sry, wel, plllz</em>
+* `EMPTY` (926): <em>please, yes, well, no, hi, like, ok, lol, hey, oh</em>
 
 ### `ADJ`
 
@@ -157,7 +168,7 @@ The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: 
 `ADJ` tokens may have the following values of `Abbr`:
 
 * `Yes` (3; 100% of non-empty `Abbr`): <em>d, gud, lil</em>
-* `EMPTY` (16850): <em>good, great, new, other, best, many, more, last, same, few</em>
+* `EMPTY` (16786): <em>good, great, new, other, best, many, more, last, same, few</em>
 
 ### `DET`
 
@@ -168,13 +179,12 @@ The most frequent other feature values with which `DET` and `Abbr` co-occurred: 
 `DET` tokens may have the following values of `Abbr`:
 
 * `Yes` (3; 100% of non-empty `Abbr`): <em>da, dat, sm</em>
-* `EMPTY` (20092): <em>the, a, this, an, all, some, any, no, that, these</em>
+* `EMPTY` (20093): <em>the, a, this, an, all, some, any, no, that, these</em>
 
 ## Relations with Agreement in `Abbr`
 
 The 10 most frequent relations where parent and child node agree in `Abbr`:
-<tt>PROPN --[<tt><a href="en_ewt-dep-appos.html">appos</a></tt>]--> PROPN</tt> (15; 58%),
-<tt>PROPN --[<tt><a href="en_ewt-dep-conj.html">conj</a></tt>]--> PROPN</tt> (6; 86%),
+<tt>PROPN --[<tt><a href="en_ewt-dep-conj.html">conj</a></tt>]--> PROPN</tt> (6; 100%),
 <tt>PROPN --[<tt><a href="en_ewt-dep-list.html">list</a></tt>]--> PROPN</tt> (2; 67%),
 <tt>ADJ --[<tt><a href="en_ewt-dep-fixed.html">fixed</a></tt>]--> ADP</tt> (1; 100%),
 <tt>NUM --[<tt><a href="en_ewt-dep-conj.html">conj</a></tt>]--> NUM</tt> (1; 100%).

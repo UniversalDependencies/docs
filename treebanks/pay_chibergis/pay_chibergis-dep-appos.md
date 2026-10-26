@@ -45,7 +45,7 @@ The following 4 pairs of parts of speech are connected with `appos`: <tt><a href
 5	=yã	=yã	ADP	POST	_	4	case	_	AlignBegin=134688|AlignEnd=135035|Gloss==LOC|MGloss==LOC|MSeg==yã|nWord=5|RX=[POST]|TokenType=Clit|Word=ɲã
 6	ã	ã	PRON	PRO	_	4	reparandum	_	AlignBegin=135035|AlignEnd=135382|Gloss=DIST.DEM|MGloss=DIST.DEM|MSeg=ã|nWord=6|RX=[PRO]|TokenType=Root|Word=ã
 7	=yã	=yã	ADP	POST	_	6	case	_	AlignBegin=135382|AlignEnd=135729|Gloss==LOC|MGloss==LOC|MSeg==yã|nWord=7|RX=[POST]|TokenType=Clit|Word=ɲã
-8	ke	ke	ADV	ADV	_	6	advmod	_	AlignBegin=135729|AlignEnd=136076|Gloss=already|MGloss=already|MSeg=ke|nWord=8|RX=[ADV]|TokenType=Root|Word=ke
+8	ke	ke	ADV	ADV	_	6	obl:tmod	_	AlignBegin=135729|AlignEnd=136076|Gloss=already|MGloss=already|MSeg=ke|nWord=8|RX=[ADV]|TokenType=Root|Word=ke
 9	ĩ	ĩ	PRON	PRO	_	11	obj	_	AlignBegin=136076|AlignEnd=136423|Gloss=PROX.DEM|MGloss=PROX.DEM|MSeg=ĩ|nWord=9|RX=[PRO]|TokenType=Root|Word=ĩ
 10	=ɲa	=ɲa	DET	PRT	_	9	compound	_	AlignBegin=136423|AlignEnd=136770|Gloss==INDF|MGloss==INDF|MSeg==ɲa|nWord=10|RX=[PRT]|TokenType=Clit|Word=ɲãh
 11	artʃuiʃ	tʃuiʃ	VERB	V:ANY	VerbForm=Inf|Voice=Appl	12	compound:svc	_	AlignBegin=136770|AlignEnd=136977|Gloss=learn|MGloss=O3SG- APPL.P- learn|MSeg=a-r-tʃuiʃ|nWord=11|RX=[V]|TokenType=Root|Word=artʃuiʃnãa|wordform=a-r-tʃuiʃ

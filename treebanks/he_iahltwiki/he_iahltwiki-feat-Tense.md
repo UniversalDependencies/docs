@@ -29,6 +29,7 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 <table>
   <tr><th>Paradigm <i>כלל</i></th><th><tt>Pres</tt></th><th><tt>Fut</tt></th><th><tt>Past</tt></th></tr>
+  <tr><td><tt><tt><a href="he_iahltwiki-feat-ExtPos.html">ExtPos</a></tt><tt>=ADP</tt>|<tt><a href="he_iahltwiki-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="he_iahltwiki-feat-HebBinyan.html">HebBinyan</a></tt><tt>=PAAL</tt>|<tt><a href="he_iahltwiki-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="he_iahltwiki-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="he_iahltwiki-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td>כולל</td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="he_iahltwiki-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="he_iahltwiki-feat-HebBinyan.html">HebBinyan</a></tt><tt>=PAAL</tt>|<tt><a href="he_iahltwiki-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="he_iahltwiki-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="he_iahltwiki-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td>כולל, כלל</td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="he_iahltwiki-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="he_iahltwiki-feat-HebBinyan.html">HebBinyan</a></tt><tt>=PAAL</tt>|<tt><a href="he_iahltwiki-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="he_iahltwiki-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="he_iahltwiki-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td>כלול</td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="he_iahltwiki-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="he_iahltwiki-feat-HebBinyan.html">HebBinyan</a></tt><tt>=PAAL</tt>|<tt><a href="he_iahltwiki-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="he_iahltwiki-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td>יכלול</td><td>כלל</td></tr>
@@ -77,7 +78,7 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 The 10 most frequent relations where parent and child node agree in `Tense`:
 <tt>VERB --[<tt><a href="he_iahltwiki-dep-conj.html">conj</a></tt>]--> VERB</tt> (1184; 86%),
 <tt>VERB --[<tt><a href="he_iahltwiki-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (91; 65%),
-<tt>VERB --[<tt><a href="he_iahltwiki-dep-obl.html">obl</a></tt>]--> VERB</tt> (23; 57%),
+<tt>VERB --[<tt><a href="he_iahltwiki-dep-obl.html">obl</a></tt>]--> VERB</tt> (23; 59%),
 <tt>VERB --[<tt><a href="he_iahltwiki-dep-nsubj.html">nsubj</a></tt>]--> VERB</tt> (4; 57%),
 <tt>AUX --[<tt><a href="he_iahltwiki-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (2; 100%),
 <tt>AUX --[<tt><a href="he_iahltwiki-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (1; 100%),

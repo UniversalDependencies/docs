@@ -19,13 +19,13 @@ The 10 most frequent ambiguous types:  <em>hač</em> (<tt><a href="hsb_ufal-pos-
 
 
 * <em>hač</em>
-  * <tt><a href="hsb_ufal-pos-SCONJ.html">SCONJ</a></tt> 17: <em>W Indiskej so wjace <b>hač</b> 400 rěčow rěči .</em>
+  * <tt><a href="hsb_ufal-pos-SCONJ.html">SCONJ</a></tt> 17: <em>Jeho znutřkowna cona je tróšku jasniši <b>hač</b> zwonkowny .</em>
   * <tt><a href="hsb_ufal-pos-ADV.html">ADV</a></tt> 11: <em>Kraj podleži <b>hač</b> do 1960 francoskemu kolonialnemu knjejstwu .</em>
-  * <tt><a href="hsb_ufal-pos-CCONJ.html">CCONJ</a></tt> 7: <em>Wón je dołho - špindlojty <b>hač</b> krótko - boblojty .</em>
+  * <tt><a href="hsb_ufal-pos-CCONJ.html">CCONJ</a></tt> 7: <em>Płone symjenja sedźa zwjetša po jednym <b>hač</b> po dwěmaj we łušćinach .</em>
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.418889).
+The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.419479).
 
 The 1st highest number of forms (1) was observed with the lemma “chibazo”: <em>chibazo</em>.
 
@@ -33,7 +33,13 @@ The 2nd highest number of forms (1) was observed with the lemma “dokelž”: <
 
 The 3rd highest number of forms (1) was observed with the lemma “doniž”: <em>doniž</em>.
 
-`SCONJ` does not occur with any features.
+`SCONJ` occurs with 1 features: <tt><a href="hsb_ufal-feat-ExtPos.html">ExtPos</a></tt> (9; 6% instances)
+
+`SCONJ` occurs with 2 feature-value pairs: `ExtPos=ADP`, `ExtPos=CCONJ`
+
+`SCONJ` occurs with 3 feature combinations.
+The most frequent feature combination is `_` (138 tokens).
+Examples: <em>jako, zo, kaž, hač, dokelž, Jeli, hdyž, doniž, li, Hačrunjež</em>
 
 
 ## Relations

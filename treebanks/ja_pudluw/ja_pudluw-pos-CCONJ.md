@@ -36,7 +36,7 @@ The 10 most frequent ambiguous types:  また (<tt><a href="ja_pudluw-pos-CCONJ.
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.050000 (the average of all parts of speech is 1.079803).
+The form / lemma ratio of `CCONJ` is 1.050000 (the average of all parts of speech is 1.079832).
 
 The 1st highest number of forms (2) was observed with the lemma “及び”: および, 及び.
 

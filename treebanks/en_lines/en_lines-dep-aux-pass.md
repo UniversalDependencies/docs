@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="en_lines-dep-aux.html">aux</a></tt>.
 
-765 nodes (1%) are attached to their parents as `aux:pass`.
+853 nodes (1%) are attached to their parents as `aux:pass`.
 
-764 instances of `aux:pass` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.29673202614379.
+852 instances of `aux:pass` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.28604923798359.
 
-The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a href="en_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (763; 100% instances), <tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="en_lines-pos-AUX.html">AUX</a></tt>-<tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a href="en_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (848; 99% instances), <tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="en_lines-pos-AUX.html">AUX</a></tt>-<tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -26,7 +26,7 @@ The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 2	information	information	NOUN	SG-NOM	Number=Sing	7	nsubj:pass	_	_
 3	about	about	ADP	_	_	4	case	_	_
 4	XML	XML	PROPN	SG-NOM	Number=Sing	2	nmod	_	_
-5	can	can	AUX	PRES-AUX	VerbForm=Fin	7	aux	_	_
+5	can	can	AUX	PRES-AUX	Mood=Ind|VerbForm=Fin	7	aux	_	_
 6	be	be	AUX	INF	VerbForm=Inf	7	aux:pass	_	_
 7	found	find	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
 8	on	on	ADP	_	_	11	case	_	_
@@ -45,9 +45,9 @@ The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 # visual-style 5	fgColor:white
 # visual-style 5 3 aux:pass	color:blue
 1	She	she	PRON	PERS-SG-NOM	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	nsubj:pass	_	_
-2	would	would	AUX	PAST-AUX	VerbForm=Fin	5	aux	_	_
+2	would	would	AUX	PAST-AUX	Mood=Ind|VerbForm=Fin	5	aux	_	_
 3	be	be	AUX	INF	VerbForm=Inf	5	aux:pass	_	_
-4	poetically	poetical	ADV	_	_	5	advmod	_	_
+4	poetically	poetically	ADV	_	_	5	advmod	_	_
 5	besocked	besocked	ADJ	POS	Degree=Pos	0	root	_	_
 6	and	and	CCONJ	_	_	7	cc	_	_
 7	sandalled	sandalled	ADJ	POS	Degree=Pos	5	conj	_	SpaceAfter=No
@@ -94,7 +94,7 @@ The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 21	so	so	SCONJ	_	_	25	mark	_	_
 22	that	that	SCONJ	_	_	21	fixed	_	_
 23	they	they	PRON	PERS-PL-NOM	Case=Nom|Number=Plur|Person=3|PronType=Prs	25	nsubj	_	_
-24	could	could	AUX	PAST-AUX	VerbForm=Fin	25	aux	_	_
+24	could	could	AUX	PAST-AUX	Mood=Ind|VerbForm=Fin	25	aux	_	_
 25	earn	earn	VERB	INF	VerbForm=Inf	10	advcl	_	_
 26	percentages	percentage	NOUN	PL-NOM	Number=Plur	25	obj	_	SpaceAfter=No
 27	.	.	PUNCT	Period	_	7	punct	_	_

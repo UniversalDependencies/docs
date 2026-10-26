@@ -24,5 +24,5 @@ Max s' en tirait facilement \n Max got off easily
 expl:comp(tirait,en)
 ~~~
 
-**NB**: Due to conversion from [SUD](https://surfacesyntacticud.github.io/), these cases are annotated [dep:comp]() in **UD_French-GSD** and in **UD_French-Spoken**.
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:53 CET -->
+**NB**: Due to conversion from [SUD](https://surfacesyntacticud.org/), these cases are annotated [dep:comp]() in **UD_French-GSD** and in **UD_French-Spoken**.
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:07 CEST -->

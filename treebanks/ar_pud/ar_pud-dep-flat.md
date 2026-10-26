@@ -53,7 +53,7 @@ The following 2 pairs of parts of speech are connected with `flat`: <tt><a href=
 4	عشر	عَشَر	ADJ	JJ	Case=Gen|Definite=Ind|Gender=Masc|Number=Plur|NumType=Ord	3	flat	_	Gloss=tenth|LId=عَشَر_1|SpaceAfter=No
 5	,	,	PUNCT	,	_	2	punct	_	LId=,_0
 6	استخدم	اِستَخدَم	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	LId=ٱِسْتَخْدَم_1
-7	بعض	بَعض	DET	PDT	Case=Nom	8	det	_	LId=بَعْض_1
+7	بعض	بَعض	DET	PDT	Case=Nom|PronType=Ind	8	det	_	LId=بَعْض_1
 8	الكتاب	كاتِب	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	6	nsubj	_	LId=كاتِب_1
 9	اسم	اِسم	NOUN	NN	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	6	obj	_	LId=ٱِسْم_1
 10	بوليا	بَولِيّ	PROPN	NNP	Gender=Fem|Number=Sing	9	nmod	_	LId=بَوْلِيّ_1

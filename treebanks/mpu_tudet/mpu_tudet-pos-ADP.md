@@ -35,7 +35,7 @@ The 2nd highest number of forms (1) was observed with the lemma “pe”: <em>pe
 
 ## Relations
 
-`ADP` nodes are attached to their parents using 2 different relations: <tt><a href="mpu_tudet-dep-case.html">case</a></tt> (4; 67% instances), <tt><a href="mpu_tudet-dep-obl.html">obl</a></tt> (2; 33% instances)
+`ADP` nodes are attached to their parents using 1 different relations: <tt><a href="mpu_tudet-dep-case.html">case</a></tt> (6; 100% instances)
 
 Parents of `ADP` nodes belong to 2 different parts of speech: <tt><a href="mpu_tudet-pos-NOUN.html">NOUN</a></tt> (4; 67% instances), <tt><a href="mpu_tudet-pos-DET.html">DET</a></tt> (2; 33% instances)
 

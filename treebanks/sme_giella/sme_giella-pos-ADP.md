@@ -65,9 +65,9 @@ The 3rd highest number of forms (2) was observed with the lemma “rádjai”: <
 
 ## Relations
 
-`ADP` nodes are attached to their parents using 4 different relations: <tt><a href="sme_giella-dep-case.html">case</a></tt> (478; 95% instances), <tt><a href="sme_giella-dep-nmod.html">nmod</a></tt> (19; 4% instances), <tt><a href="sme_giella-dep-obl.html">obl</a></tt> (4; 1% instances), <tt><a href="sme_giella-dep-appos.html">appos</a></tt> (1; 0% instances)
+`ADP` nodes are attached to their parents using 4 different relations: <tt><a href="sme_giella-dep-case.html">case</a></tt> (480; 96% instances), <tt><a href="sme_giella-dep-nmod.html">nmod</a></tt> (19; 4% instances), <tt><a href="sme_giella-dep-obl.html">obl</a></tt> (2; 0% instances), <tt><a href="sme_giella-dep-appos.html">appos</a></tt> (1; 0% instances)
 
-Parents of `ADP` nodes belong to 7 different parts of speech: <tt><a href="sme_giella-pos-NOUN.html">NOUN</a></tt> (346; 69% instances), <tt><a href="sme_giella-pos-PRON.html">PRON</a></tt> (89; 18% instances), <tt><a href="sme_giella-pos-PROPN.html">PROPN</a></tt> (25; 5% instances), <tt><a href="sme_giella-pos-VERB.html">VERB</a></tt> (23; 5% instances), <tt><a href="sme_giella-pos-NUM.html">NUM</a></tt> (13; 3% instances), <tt><a href="sme_giella-pos-ADJ.html">ADJ</a></tt> (5; 1% instances), <tt><a href="sme_giella-pos-ADV.html">ADV</a></tt> (1; 0% instances)
+Parents of `ADP` nodes belong to 7 different parts of speech: <tt><a href="sme_giella-pos-NOUN.html">NOUN</a></tt> (347; 69% instances), <tt><a href="sme_giella-pos-PRON.html">PRON</a></tt> (89; 18% instances), <tt><a href="sme_giella-pos-PROPN.html">PROPN</a></tt> (24; 5% instances), <tt><a href="sme_giella-pos-VERB.html">VERB</a></tt> (23; 5% instances), <tt><a href="sme_giella-pos-NUM.html">NUM</a></tt> (13; 3% instances), <tt><a href="sme_giella-pos-ADJ.html">ADJ</a></tt> (5; 1% instances), <tt><a href="sme_giella-pos-ADV.html">ADV</a></tt> (1; 0% instances)
 
 482 (96%) `ADP` nodes are leaves.
 

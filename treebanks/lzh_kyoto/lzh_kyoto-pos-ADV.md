@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Classical_Chinese-Kyoto: POS Tags: `ADV`
 
-There are 1263 `ADV` lemmas (9%), 1281 `ADV` types (9%) and 42224 `ADV` tokens (10%).
+There are 1263 `ADV` lemmas (9%), 1281 `ADV` types (9%) and 42227 `ADV` tokens (10%).
 Out of 14 observed tags, the rank of `ADV` is: 4 in number of lemmas, 4 in number of types and 4 in number of tokens.
 
 The 10 most frequent `ADV` lemmas: 不、 以、 則、 必、 皆、 故、 乃、 非、 亦、 未
@@ -71,7 +71,7 @@ The 2nd highest number of forms (2) was observed with the lemma “倂”: 併, 
 
 The 3rd highest number of forms (2) was observed with the lemma “偽”: 偽, 僞.
 
-`ADV` occurs with 6 features: <tt><a href="lzh_kyoto-feat-VerbForm.html">VerbForm</a></tt> (13475; 32% instances), <tt><a href="lzh_kyoto-feat-Polarity.html">Polarity</a></tt> (12355; 29% instances), <tt><a href="lzh_kyoto-feat-AdvType.html">AdvType</a></tt> (7295; 17% instances), <tt><a href="lzh_kyoto-feat-Degree.html">Degree</a></tt> (4837; 11% instances), <tt><a href="lzh_kyoto-feat-Tense.html">Tense</a></tt> (1126; 3% instances), <tt><a href="lzh_kyoto-feat-Aspect.html">Aspect</a></tt> (811; 2% instances)
+`ADV` occurs with 6 features: <tt><a href="lzh_kyoto-feat-VerbForm.html">VerbForm</a></tt> (13478; 32% instances), <tt><a href="lzh_kyoto-feat-Polarity.html">Polarity</a></tt> (12355; 29% instances), <tt><a href="lzh_kyoto-feat-AdvType.html">AdvType</a></tt> (7295; 17% instances), <tt><a href="lzh_kyoto-feat-Degree.html">Degree</a></tt> (4837; 11% instances), <tt><a href="lzh_kyoto-feat-Tense.html">Tense</a></tt> (1126; 3% instances), <tt><a href="lzh_kyoto-feat-Aspect.html">Aspect</a></tt> (811; 2% instances)
 
 `ADV` occurs with 13 feature-value pairs: `AdvType=Cau`, `AdvType=Deg`, `AdvType=Tim`, `Aspect=Perf`, `Degree=Cmp`, `Degree=Equ`, `Degree=Pos`, `Degree=Sup`, `Polarity=Neg`, `Tense=Fut`, `Tense=Past`, `Tense=Pres`, `VerbForm=Conv`
 
@@ -82,11 +82,11 @@ Examples: 不、 非、 未、 弗、 莫、 無、 毋、 勿、 匪、 微
 
 ## Relations
 
-`ADV` nodes are attached to their parents using 15 different relations: <tt><a href="lzh_kyoto-dep-advmod.html">advmod</a></tt> (41056; 97% instances), <tt><a href="lzh_kyoto-dep-amod.html">amod</a></tt> (903; 2% instances), <tt><a href="lzh_kyoto-dep-root.html">root</a></tt> (83; 0% instances), <tt><a href="lzh_kyoto-dep-parataxis.html">parataxis</a></tt> (43; 0% instances), <tt><a href="lzh_kyoto-dep-cc.html">cc</a></tt> (42; 0% instances), <tt><a href="lzh_kyoto-dep-flat-vv.html">flat:vv</a></tt> (28; 0% instances), <tt><a href="lzh_kyoto-dep-conj.html">conj</a></tt> (18; 0% instances), <tt><a href="lzh_kyoto-dep-obj.html">obj</a></tt> (16; 0% instances), <tt><a href="lzh_kyoto-dep-nsubj.html">nsubj</a></tt> (13; 0% instances), <tt><a href="lzh_kyoto-dep-ccomp.html">ccomp</a></tt> (10; 0% instances), <tt><a href="lzh_kyoto-dep-compound-redup.html">compound:redup</a></tt> (6; 0% instances), <tt><a href="lzh_kyoto-dep-acl.html">acl</a></tt> (2; 0% instances), <tt><a href="lzh_kyoto-dep-advcl.html">advcl</a></tt> (2; 0% instances), <tt><a href="lzh_kyoto-dep-nsubj-outer.html">nsubj:outer</a></tt> (1; 0% instances), <tt><a href="lzh_kyoto-dep-obl-lmod.html">obl:lmod</a></tt> (1; 0% instances)
+`ADV` nodes are attached to their parents using 15 different relations: <tt><a href="lzh_kyoto-dep-advmod.html">advmod</a></tt> (41062; 97% instances), <tt><a href="lzh_kyoto-dep-amod.html">amod</a></tt> (901; 2% instances), <tt><a href="lzh_kyoto-dep-root.html">root</a></tt> (83; 0% instances), <tt><a href="lzh_kyoto-dep-parataxis.html">parataxis</a></tt> (43; 0% instances), <tt><a href="lzh_kyoto-dep-cc.html">cc</a></tt> (42; 0% instances), <tt><a href="lzh_kyoto-dep-flat-vv.html">flat:vv</a></tt> (28; 0% instances), <tt><a href="lzh_kyoto-dep-conj.html">conj</a></tt> (18; 0% instances), <tt><a href="lzh_kyoto-dep-obj.html">obj</a></tt> (15; 0% instances), <tt><a href="lzh_kyoto-dep-nsubj.html">nsubj</a></tt> (13; 0% instances), <tt><a href="lzh_kyoto-dep-ccomp.html">ccomp</a></tt> (10; 0% instances), <tt><a href="lzh_kyoto-dep-compound-redup.html">compound:redup</a></tt> (6; 0% instances), <tt><a href="lzh_kyoto-dep-acl.html">acl</a></tt> (2; 0% instances), <tt><a href="lzh_kyoto-dep-advcl.html">advcl</a></tt> (2; 0% instances), <tt><a href="lzh_kyoto-dep-nsubj-outer.html">nsubj:outer</a></tt> (1; 0% instances), <tt><a href="lzh_kyoto-dep-obl-lmod.html">obl:lmod</a></tt> (1; 0% instances)
 
-Parents of `ADV` nodes belong to 12 different parts of speech: <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> (38066; 90% instances), <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (1805; 4% instances), <tt><a href="lzh_kyoto-pos-AUX.html">AUX</a></tt> (1734; 4% instances), <tt><a href="lzh_kyoto-pos-ADV.html">ADV</a></tt> (141; 0% instances), <tt><a href="lzh_kyoto-pos-NUM.html">NUM</a></tt> (130; 0% instances), <tt><a href="lzh_kyoto-pos-PART.html">PART</a></tt> (109; 0% instances), <tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt> (101; 0% instances),  (83; 0% instances), <tt><a href="lzh_kyoto-pos-PRON.html">PRON</a></tt> (41; 0% instances), <tt><a href="lzh_kyoto-pos-ADP.html">ADP</a></tt> (11; 0% instances), <tt><a href="lzh_kyoto-pos-INTJ.html">INTJ</a></tt> (2; 0% instances), <tt><a href="lzh_kyoto-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
+Parents of `ADV` nodes belong to 12 different parts of speech: <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> (38069; 90% instances), <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (1805; 4% instances), <tt><a href="lzh_kyoto-pos-AUX.html">AUX</a></tt> (1734; 4% instances), <tt><a href="lzh_kyoto-pos-ADV.html">ADV</a></tt> (141; 0% instances), <tt><a href="lzh_kyoto-pos-NUM.html">NUM</a></tt> (130; 0% instances), <tt><a href="lzh_kyoto-pos-PART.html">PART</a></tt> (109; 0% instances), <tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt> (101; 0% instances),  (83; 0% instances), <tt><a href="lzh_kyoto-pos-PRON.html">PRON</a></tt> (41; 0% instances), <tt><a href="lzh_kyoto-pos-ADP.html">ADP</a></tt> (11; 0% instances), <tt><a href="lzh_kyoto-pos-INTJ.html">INTJ</a></tt> (2; 0% instances), <tt><a href="lzh_kyoto-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
 
-41097 (97%) `ADV` nodes are leaves.
+41100 (97%) `ADV` nodes are leaves.
 
 1002 (2%) `ADV` nodes have one child.
 

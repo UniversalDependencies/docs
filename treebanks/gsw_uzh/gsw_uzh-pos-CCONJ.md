@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of CCONJ in UD_Swiss_German-UZH'
+title:  'Statistics of CCONJ in UD_Alemannic-UZH'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Swiss_German-UZH: POS Tags: `CCONJ`
+## Treebank Statistics: UD_Alemannic-UZH: POS Tags: `CCONJ`
 
 There are 1 `CCONJ` lemmas (7%), 9 `CCONJ` types (1%) and 47 `CCONJ` tokens (3%).
 Out of 15 observed tags, the rank of `CCONJ` is: 5 in number of lemmas, 13 in number of types and 11 in number of tokens.

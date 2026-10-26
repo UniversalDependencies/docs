@@ -26,7 +26,7 @@ The following 1 pairs of parts of speech are connected with `vocative`: <tt><a h
 2	itu	itu	PRON	_	PronType=Dem	0	root	_	_
 3	yang	yang	PRON	_	PronType=Rel	5	obj	_	_
 4	kita	kita	PRON	_	Clusivity=In|Number=Plur|Person=1|PronType=Prs	5	nsubj	_	_
-5	butuhkan	butuh	VERB	_	Mood=Ind|Voice=Act	2	csubj	_	_
+5	butuhkan	butuh	VERB	_	Voice=Act	2	csubj	_	_
 6	di	di	ADP	_	_	7	case	_	_
 7	negara	negara	NOUN	_	Number=Sing	5	obl	_	_
 8	ini	ini	DET	_	PronType=Dem	7	det	_	SpaceAfter=No

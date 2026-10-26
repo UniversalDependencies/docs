@@ -23,20 +23,20 @@ The following 1 pairs of parts of speech are connected with `compound:redup`: <t
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
 # visual-style 11 13 compound:redup	color:blue
-1	Cələsə	cələsə	NOUN	_	_	3	nsubj	_	_
-2	elam	elam	NOUN	_	_	3	compound:lvc	_	_
-3	olanda	ol	AUX	_	_	7	advcl	_	_
-4	o	o	PRON	_	_	7	obl	_	_
+1	Cələsə	cələsə	NOUN	_	Case=Nom|Number=Sing	3	nsubj	_	_
+2	elam	elam	NOUN	_	Case=Nom|Number=Sing	3	compound:lvc	_	_
+3	olanda	ol	AUX	_	Case=Loc|VerbForm=Part	7	advcl	_	_
+4	o	o	PRON	_	PronType=Dem	7	obl	_	_
 5	qədər	qədər	ADP	_	_	4	case	_	_
-6	təəccüb	təəccüb	NOUN	_	_	7	compound:lvc	_	_
-7	eləmişdi	elə	VERB	_	_	0	root	_	_
+6	təəccüb	təəccüb	NOUN	_	Case=Nom|Number=Sing	7	compound:lvc	_	_
+7	eləmişdi	elə	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
 8	ki	ki	SCONJ	_	_	14	mark	_	_
-9	mənə	mən	NOUN	_	_	14	obl	_	_
+9	mənə	mən	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	14	obl	_	_
 10	elə	elə	ADV	_	_	14	advmod	_	_
 11	mat	mat	ADV	_	_	14	advmod	_	SpaceAfter=No
 12	-	-	PUNCT	_	_	11	punct	_	SpaceAfter=No
 13	mat	mat	ADV	_	_	11	compound:redup	_	_
-14	baxırdı	bax	VERB	_	_	7	advcl	_	SpaceAfter=No
+14	baxırdı	bax	VERB	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Tense=Past	7	advcl	_	SpaceAfter=No
 15	.	.	PUNCT	_	_	7	punct	_	_
 
 ~~~

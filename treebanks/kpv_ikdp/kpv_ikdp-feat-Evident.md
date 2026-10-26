@@ -18,7 +18,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="kpv_ikdp-pos-VERB.h
 
 25 <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt> tokens (7% of all `VERB` tokens) have a non-empty value of `Evident`.
 
-The most frequent other feature values with which `VERB` and `Evident` co-occurred: <tt><a href="kpv_ikdp-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (25; 100%), <tt><a href="kpv_ikdp-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (25; 100%), <tt><a href="kpv_ikdp-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (25; 100%), <tt><a href="kpv_ikdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (24; 96%), <tt><a href="kpv_ikdp-feat-Person.html">Person</a></tt><tt>=3</tt> (24; 96%).
+The most frequent other feature values with which `VERB` and `Evident` co-occurred: <tt><a href="kpv_ikdp-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (25; 100%), <tt><a href="kpv_ikdp-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (25; 100%), <tt><a href="kpv_ikdp-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (25; 100%), <tt><a href="kpv_ikdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (24; 96%), <tt><a href="kpv_ikdp-feat-Person.html">Person</a></tt><tt>=3</tt> (24; 96%).
 
 `VERB` tokens may have the following values of `Evident`:
 

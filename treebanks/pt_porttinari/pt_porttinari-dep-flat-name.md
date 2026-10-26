@@ -30,7 +30,7 @@ The following 2 pairs of parts of speech are connected with `flat:name`: <tt><a 
 5	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	6:det	_
 6	Stunt	Stunt	PROPN	_	_	0	root	0:root	_
 7	Burger	Burger	PROPN	_	_	6	flat:name	6:flat:name	SpaceAfter=No
-8	.	.	PUNCT	_	_	6	punct	6:punct	SpaceAfter=No
+8	.	.	PUNCT	_	_	6	punct	6:punct	_
 
 ~~~
 
@@ -75,7 +75,7 @@ The following 2 pairs of parts of speech are connected with `flat:name`: <tt><a 
 32	de	de	ADP	_	_	33	case	33:case	_
 33	aparições	aparição	NOUN	_	Gender=Fem|Number=Plur	31	nmod	31:nmod:de	_
 34	sobrenaturais	sobrenatural	ADJ	_	Number=Plur	33	amod	33:amod	SpaceAfter=No
-35	.	.	PUNCT	_	_	3	punct	3:punct	SpaceAfter=No
+35	.	.	PUNCT	_	_	3	punct	3:punct	_
 
 ~~~
 

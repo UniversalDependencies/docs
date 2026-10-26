@@ -55,7 +55,7 @@ The following 8 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 2	fgColor:white
 # visual-style 2 3 cop	color:blue
 1	Sen	sen	PRON	Pers	Case=Nom|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	_
-2	?	nere	PRON	Ques	Case=Loc|Number=Sing|Person=3	5	ccomp	_	_
+2	?	nere	PRON	Ques	Case=Loc|Number=Sing|Person=3|PronType=Int	5	ccomp	_	_
 3	eredesin	i	AUX	Zero	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Pres	2	cop	_	_
 4	diye	diye	ADP	PCNom	_	2	case	_	_
 5	sordum	sor	VERB	Verb	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Past	0	root	_	SpaceAfter=No

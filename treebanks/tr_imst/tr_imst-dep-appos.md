@@ -47,7 +47,7 @@ The following 14 pairs of parts of speech are connected with `appos`: <tt><a hre
 6	l	l	NOUN	Noun	Case=Nom|Number=Sing|Person=3	4	compound	_	SpaceAfter=No
 7	.	.	PUNCT	Punc	_	11	punct	_	SpaceAfter=No
 8	)	)	PUNCT	Punc	_	7	punct	_	_
-9	bu	bu	DET	Det	_	10	det	_	_
+9	bu	bu	DET	Det	PronType=Dem	10	det	_	_
 10	adla	ad	NOUN	Noun	Case=Ins|Number=Sing|Person=3	11	nmod	_	_
 11	anıyorlardı	an	VERB	Verb	Aspect=Prog|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Polite=Infm|Tense=Past	0	root	_	SpaceAfter=No
 12	.	.	PUNCT	Punc	_	11	punct	_	_

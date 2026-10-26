@@ -52,7 +52,7 @@ The following 3 pairs of parts of speech are connected with `ccomp`: <tt><a href
 6	,	,	PUNCT	_	_	24	punct	_	_
 7	zo	zo	SCONJ	_	_	24	mark	_	_
 8	Germanojo	German	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	24	nsubj	_	_
-9	ale	ale	CCONJ	_	_	11	cc	_	_
+9	ale	ale	CCONJ	_	ExtPos=CCONJ	11	cc	_	_
 10	tež	tež	ADV	_	_	9	fixed	_	_
 11	Keltojo	Kelt	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	8	conj	_	_
 12	su	być	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	24	aux	_	_
@@ -116,9 +116,9 @@ The following 3 pairs of parts of speech are connected with `ccomp`: <tt><a href
 29	změnu	změna	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	36	nmod	_	_
 30	hydrologiskeho	hydrologiski	ADJ	_	Case=Gen|Gender=Masc|Number=Sing	31	amod	_	_
 31	systema	system	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	29	nmod	_	_
-32	w	w	ADP	_	_	29	nmod	_	_
+32	w	w	ADP	_	ExtPos=ADP	34	case	_	_
 33	času	čas	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	32	fixed	_	_
-34	knjejstwa	knjejstwo	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	32	nmod	_	_
+34	knjejstwa	knjejstwo	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	29	nmod	_	_
 35	Samsuiluny	Samsuiluna	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	34	nmod	_	_
 36	zwjazane	zwjazany	ADJ	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass	22	ccomp	_	SpaceAfter=No
 37	.	.	PUNCT	_	_	20	punct	_	_

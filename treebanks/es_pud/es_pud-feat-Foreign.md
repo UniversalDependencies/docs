@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-63 tokens (0%) have a non-empty value of `Foreign`.
-55 types (1%) occur at least once with a non-empty value of `Foreign`.
-53 lemmas (1%) occur at least once with a non-empty value of `Foreign`.
-The feature is used with 15 part-of-speech tags: <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> (25; 0% instances), <tt><a href="es_pud-pos-VERB.html">VERB</a></tt> (7; 0% instances), <tt><a href="es_pud-pos-DET.html">DET</a></tt> (6; 0% instances), <tt><a href="es_pud-pos-PRON.html">PRON</a></tt> (6; 0% instances), <tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="es_pud-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="es_pud-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="es_pud-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="es_pud-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="es_pud-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="es_pud-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="es_pud-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="es_pud-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), <tt><a href="es_pud-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="es_pud-pos-X.html">X</a></tt> (1; 0% instances).
+67 tokens (0%) have a non-empty value of `Foreign`.
+57 types (1%) occur at least once with a non-empty value of `Foreign`.
+55 lemmas (1%) occur at least once with a non-empty value of `Foreign`.
+The feature is used with 15 part-of-speech tags: <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> (27; 0% instances), <tt><a href="es_pud-pos-VERB.html">VERB</a></tt> (7; 0% instances), <tt><a href="es_pud-pos-DET.html">DET</a></tt> (6; 0% instances), <tt><a href="es_pud-pos-PRON.html">PRON</a></tt> (6; 0% instances), <tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="es_pud-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="es_pud-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="es_pud-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="es_pud-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="es_pud-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="es_pud-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="es_pud-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="es_pud-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), <tt><a href="es_pud-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="es_pud-pos-X.html">X</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-25 <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> tokens (1% of all `NOUN` tokens) have a non-empty value of `Foreign`.
+27 <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> tokens (1% of all `NOUN` tokens) have a non-empty value of `Foreign`.
 
-The most frequent other feature values with which `NOUN` and `Foreign` co-occurred: <tt><a href="es_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (25; 100%), <tt><a href="es_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (17; 68%).
+The most frequent other feature values with which `NOUN` and `Foreign` co-occurred: <tt><a href="es_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (27; 100%), <tt><a href="es_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (17; 63%).
 
 `NOUN` tokens may have the following values of `Foreign`:
 
-* `Yes` (25; 100% of non-empty `Foreign`): <em>News, Approach, Brands, Company, Dead, Engagement, Father, Forums, Ground, Hack</em>
-* `EMPTY` (4790): <em>años, año, guerra, lugar, parte, gobierno, ciudad, mar, estado, millones</em>
+* `Yes` (27; 100% of non-empty `Foreign`): <em>cápita, News, Approach, Brands, Company, Dead, Engagement, Father, Forums, Ground</em>
+* `EMPTY` (4780): <em>años, año, guerra, lugar, parte, gobierno, ciudad, mar, estado, millones</em>
 
-`Foreign` seems to be **lexical feature** of `NOUN`. 100% lemmas (23) occur only with one value of `Foreign`.
+`Foreign` seems to be **lexical feature** of `NOUN`. 100% lemmas (24) occur only with one value of `Foreign`.
 
 ### `VERB`
 
@@ -36,7 +36,7 @@ The most frequent other feature values with which `VERB` and `Foreign` co-occurr
 `VERB` tokens may have the following values of `Foreign`:
 
 * `Yes` (7; 100% of non-empty `Foreign`): <em>Breaking, Buck, Controlled, Go, Knuck, Like, Love</em>
-* `EMPTY` (2258): <em>dijo, tiene, es, hacer, hay, hace, tener, está, tienen, debido</em>
+* `EMPTY` (2263): <em>dijo, tiene, es, hacer, hay, hace, tener, está, tienen, debido</em>
 
 ### `DET`
 
@@ -47,7 +47,7 @@ The most frequent other feature values with which `DET` and `Foreign` co-occurre
 `DET` tokens may have the following values of `Foreign`:
 
 * `Yes` (6; 100% of non-empty `Foreign`): <em>The, Le</em>
-* `EMPTY` (3333): <em>el, la, los, un, las, una, este, esta, cada, esto</em>
+* `EMPTY` (3332): <em>el, la, los, un, las, una, este, esta, cada, esto</em>
 
 ### `PRON`
 
@@ -58,7 +58,7 @@ The most frequent other feature values with which `PRON` and `Foreign` co-occurr
 `PRON` tokens may have the following values of `Foreign`:
 
 * `Yes` (6; 100% of non-empty `Foreign`): <em>My, You, Her, Me</em>
-* `EMPTY` (1033): <em>se, que, su, lo, sus, le, cual, ellos, me, él</em>
+* `EMPTY` (1040): <em>se, que, su, lo, sus, le, cual, ellos, me, él</em>
 
 ### `ADJ`
 
@@ -69,7 +69,16 @@ The most frequent other feature values with which `ADJ` and `Foreign` co-occurre
 `ADJ` tokens may have the following values of `Foreign`:
 
 * `Yes` (3; 100% of non-empty `Foreign`): <em>American, Stranger, Talking</em>
-* `EMPTY` (1477): <em>gran, primera, mayor, nueva, nacional, grandes, primer, últimos, británica, nuevos</em>
+* `EMPTY` (1482): <em>gran, primera, mayor, nueva, nacional, grandes, primer, últimos, británica, nuevos</em>
+
+### `ADP`
+
+3 <tt><a href="es_pud-pos-ADP.html">ADP</a></tt> tokens (0% of all `ADP` tokens) have a non-empty value of `Foreign`.
+
+`ADP` tokens may have the following values of `Foreign`:
+
+* `Yes` (3; 100% of non-empty `Foreign`): <em>Over, per</em>
+* `EMPTY` (3952): <em>de, en, a, por, con, para, como, que, entre, durante</em>
 
 ### `ADV`
 
@@ -80,7 +89,7 @@ The most frequent other feature values with which `ADV` and `Foreign` co-occurre
 `ADV` tokens may have the following values of `Foreign`:
 
 * `Yes` (3; 100% of non-empty `Foreign`): <em>Really, Anyway</em>
-* `EMPTY` (890): <em>no, más, también, cuando, después, ya, muy, tanto, antes, donde</em>
+* `EMPTY` (876): <em>no, más, también, cuando, después, ya, muy, antes, donde, solo</em>
 
 ### `PROPN`
 
@@ -91,7 +100,7 @@ The most frequent other feature values with which `PROPN` and `Foreign` co-occur
 `PROPN` tokens may have the following values of `Foreign`:
 
 * `Yes` (3; 100% of non-empty `Foreign`): <em>Decca, Scotsman, Wall</em>
-* `EMPTY` (1250): <em>China, Trump, C., mediterráneo, Europa, Hong, Italia, Kong, Albania, Australia</em>
+* `EMPTY` (1249): <em>China, Trump, C., mediterráneo, Europa, Hong, Italia, Kong, Albania, Australia</em>
 
 ### `AUX`
 
@@ -114,15 +123,6 @@ The most frequent other feature values with which `NUM` and `Foreign` co-occurre
 
 * `Yes` (2; 100% of non-empty `Foreign`): <em>Five, Nine</em>
 * `EMPTY` (433): <em>dos, tres, 1, 10, cuatro, 3, mil, seis, 70, 100</em>
-
-### `ADP`
-
-1 <tt><a href="es_pud-pos-ADP.html">ADP</a></tt> tokens (0% of all `ADP` tokens) have a non-empty value of `Foreign`.
-
-`ADP` tokens may have the following values of `Foreign`:
-
-* `Yes` (1; 100% of non-empty `Foreign`): <em>Over</em>
-* `EMPTY` (3962): <em>de, en, a, por, con, para, como, que, entre, durante</em>
 
 ### `INTJ`
 
@@ -161,16 +161,16 @@ The most frequent other feature values with which `PUNCT` and `Foreign` co-occur
 `SCONJ` tokens may have the following values of `Foreign`:
 
 * `Yes` (1; 100% of non-empty `Foreign`): <em>If</em>
-* `EMPTY` (260): <em>que, si, como, aunque, porque, a, mientras, de, hasta, para</em>
+* `EMPTY` (278): <em>que, si, mientras, como, aunque, porque, a, de, hasta, para</em>
 
 ### `X`
 
-1 <tt><a href="es_pud-pos-X.html">X</a></tt> tokens (9% of all `X` tokens) have a non-empty value of `Foreign`.
+1 <tt><a href="es_pud-pos-X.html">X</a></tt> tokens (14% of all `X` tokens) have a non-empty value of `Foreign`.
 
 `X` tokens may have the following values of `Foreign`:
 
 * `Yes` (1; 100% of non-empty `Foreign`): <em>maiorum</em>
-* `EMPTY` (10): <em>cápita, per, Ey, Oblast, bjórr, kven, meänkieli, mos</em>
+* `EMPTY` (6): <em>Ey, Oblast, bjórr, kven, meänkieli, mos</em>
 
 ## Relations with Agreement in `Foreign`
 

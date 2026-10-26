@@ -30,7 +30,7 @@ The following 12 pairs of parts of speech are connected with `fixed`: <tt><a hre
 6	бъ	бы	SCONJ	_	Mood=Cnd	5	fixed	_	wf="бъ"|addr="129:_Внутренняя_сторона,_начало_грамоты:10а"|_
 7	не	не	PART	_	_	8	advmod	_	wf="не"|addr="129: Внутренняя сторона,_начало_грамоты:10а"|_
 8	б<lbr/>лодила	блудити	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	2	ccomp	_	wf="блодила"|tense=perf|addr="129:_Внутренняя_сторона,_начало_грамоты:10а"|_
-9	цого	что	PRON	_	Case=Gen|PronType=Ind	8	advmod	_	wf="цого"|addr="129:_Внутренняя_сторона,_начало_грамоты:11а"|line_id=11а|_
+9	цого	что	PRON	_	Case=Gen|ExtPos=ADV|PronType=Ind	8	advmod	_	wf="цого"|addr="129:_Внутренняя_сторона,_начало_грамоты:11а"|line_id=11а|_
 10	зрѧ	зрѣти	VERB	_	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	9	fixed	_	wf="зрѧ"|comment="tense_nonpast"|comment=adverbial|meaning="смотреть"|addr="129:_Внутренняя_сторона,_начало_грамоты:11а"|_
 
 ~~~

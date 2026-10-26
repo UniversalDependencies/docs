@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="zh_gsdsimp-dep-mark.html">mark</a></tt>.
 There are also 1 other language-specific subtypes of `mark`: <tt><a href="zh_gsdsimp-dep-mark-adv.html">mark:adv</a></tt>.
 
-2427 nodes (2%) are attached to their parents as `mark:rel`.
+2426 nodes (2%) are attached to their parents as `mark:rel`.
 
-2427 instances of `mark:rel` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.18252987227029.
+2426 instances of `mark:rel` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.18178070898599.
 
-The following 7 pairs of parts of speech are connected with `mark:rel`: <tt><a href="zh_gsdsimp-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_gsdsimp-pos-SCONJ.html">SCONJ</a></tt> (1662; 68% instances), <tt><a href="zh_gsdsimp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="zh_gsdsimp-pos-SCONJ.html">SCONJ</a></tt> (731; 30% instances), <tt><a href="zh_gsdsimp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_gsdsimp-pos-SCONJ.html">SCONJ</a></tt> (15; 1% instances), <tt><a href="zh_gsdsimp-pos-PART.html">PART</a></tt>-<tt><a href="zh_gsdsimp-pos-SCONJ.html">SCONJ</a></tt> (12; 0% instances), <tt><a href="zh_gsdsimp-pos-ADP.html">ADP</a></tt>-<tt><a href="zh_gsdsimp-pos-SCONJ.html">SCONJ</a></tt> (5; 0% instances), <tt><a href="zh_gsdsimp-pos-AUX.html">AUX</a></tt>-<tt><a href="zh_gsdsimp-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="zh_gsdsimp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="zh_gsdsimp-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `mark:rel`: <tt><a href="zh_gsdsimp-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_gsdsimp-pos-SCONJ.html">SCONJ</a></tt> (1661; 68% instances), <tt><a href="zh_gsdsimp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="zh_gsdsimp-pos-SCONJ.html">SCONJ</a></tt> (730; 30% instances), <tt><a href="zh_gsdsimp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_gsdsimp-pos-SCONJ.html">SCONJ</a></tt> (15; 1% instances), <tt><a href="zh_gsdsimp-pos-PART.html">PART</a></tt>-<tt><a href="zh_gsdsimp-pos-SCONJ.html">SCONJ</a></tt> (12; 0% instances), <tt><a href="zh_gsdsimp-pos-ADP.html">ADP</a></tt>-<tt><a href="zh_gsdsimp-pos-SCONJ.html">SCONJ</a></tt> (5; 0% instances), <tt><a href="zh_gsdsimp-pos-ADV.html">ADV</a></tt>-<tt><a href="zh_gsdsimp-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="zh_gsdsimp-pos-AUX.html">AUX</a></tt>-<tt><a href="zh_gsdsimp-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="zh_gsdsimp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="zh_gsdsimp-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

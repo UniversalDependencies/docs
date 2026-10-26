@@ -28,7 +28,7 @@ The following 1 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 4	in	in	ADP	IN	_	6	case	_	_
 5	che	che	DET	WDT	Gender=Masc|Number=Sing	6	det	_	_
 6	modo	modo	NOUN	NN	Gender=Masc|Number=Sing	12	obl	_	_
-7	i	il	DET	DT	Gender=Masc|Number=Plur	9	det	_	_
+7	i	il	DET	DT	Gender=Masc|Number=Plur|PronType=Art	9	det	_	_
 8	due	due	NUM	CD	_	9	nummod	_	_
 9	drammaturghi	drammaturgo	NOUN	NN	Gender=Masc|Number=Plur	12	nsubj	_	_
 10	abbiano	avere	AUX	VBC	Mood=Sub|Number=Plur|Person=3|Tense=Pres|Voice=Act	12	aux	_	_

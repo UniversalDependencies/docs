@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-3748 nodes (16%) are attached to their parents as `det`.
+3749 nodes (16%) are attached to their parents as `det`.
 
-3748 instances of `det` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.18143009605123.
+3749 instances of `det` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.18164843958389.
 
-The following 12 pairs of parts of speech are connected with `det`: <tt><a href="gl_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_pud-pos-DET.html">DET</a></tt> (3398; 91% instances), <tt><a href="gl_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gl_pud-pos-DET.html">DET</a></tt> (168; 4% instances), <tt><a href="gl_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="gl_pud-pos-DET.html">DET</a></tt> (75; 2% instances), <tt><a href="gl_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="gl_pud-pos-DET.html">DET</a></tt> (41; 1% instances), <tt><a href="gl_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gl_pud-pos-DET.html">DET</a></tt> (29; 1% instances), <tt><a href="gl_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_pud-pos-DET.html">DET</a></tt> (18; 0% instances), <tt><a href="gl_pud-pos-SYM.html">SYM</a></tt>-<tt><a href="gl_pud-pos-DET.html">DET</a></tt> (14; 0% instances), <tt><a href="gl_pud-pos-ADP.html">ADP</a></tt>-<tt><a href="gl_pud-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="gl_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="gl_pud-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="gl_pud-pos-DET.html">DET</a></tt>-<tt><a href="gl_pud-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="gl_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_pud-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="gl_pud-pos-X.html">X</a></tt>-<tt><a href="gl_pud-pos-DET.html">DET</a></tt> (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `det`: <tt><a href="gl_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_pud-pos-DET.html">DET</a></tt> (3400; 91% instances), <tt><a href="gl_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gl_pud-pos-DET.html">DET</a></tt> (168; 4% instances), <tt><a href="gl_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="gl_pud-pos-DET.html">DET</a></tt> (75; 2% instances), <tt><a href="gl_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="gl_pud-pos-DET.html">DET</a></tt> (41; 1% instances), <tt><a href="gl_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gl_pud-pos-DET.html">DET</a></tt> (29; 1% instances), <tt><a href="gl_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_pud-pos-DET.html">DET</a></tt> (18; 0% instances), <tt><a href="gl_pud-pos-SYM.html">SYM</a></tt>-<tt><a href="gl_pud-pos-DET.html">DET</a></tt> (14; 0% instances), <tt><a href="gl_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="gl_pud-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="gl_pud-pos-DET.html">DET</a></tt>-<tt><a href="gl_pud-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="gl_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_pud-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="gl_pud-pos-X.html">X</a></tt>-<tt><a href="gl_pud-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

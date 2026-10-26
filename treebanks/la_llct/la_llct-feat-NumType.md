@@ -56,7 +56,7 @@ The most frequent other feature values with which `DET` and `NumType` co-occurre
 
 355 <tt><a href="la_llct-pos-ADV.html">ADV</a></tt> tokens (4% of all `ADV` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `ADV` and `NumType` co-occurred: <tt><a href="la_llct-feat-AdvType.html">AdvType</a></tt><tt>=EMPTY</tt> (355; 100%), <tt><a href="la_llct-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (335; 94%).
+The most frequent other feature values with which `ADV` and `NumType` co-occurred: <tt><a href="la_llct-feat-AdvType.html">AdvType</a></tt><tt>=EMPTY</tt> (355; 100%), <tt><a href="la_llct-feat-ExtPos.html">ExtPos</a></tt><tt>=EMPTY</tt> (355; 100%), <tt><a href="la_llct-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (335; 94%).
 
 `ADV` tokens may have the following values of `NumType`:
 

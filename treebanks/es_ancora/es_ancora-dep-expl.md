@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 3 language-specific subtypes of `expl`: <tt><a href="es_ancora-dep-expl-impers.html">expl:impers</a></tt>, <tt><a href="es_ancora-dep-expl-pass.html">expl:pass</a></tt>, <tt><a href="es_ancora-dep-expl-pv.html">expl:pv</a></tt>.
 
-294 nodes (0%) are attached to their parents as `expl`.
+253 nodes (0%) are attached to their parents as `expl`.
 
-251 instances of `expl` (85%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.23469387755102.
+215 instances of `expl` (85%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.22924901185771.
 
-The following 2 pairs of parts of speech are connected with `expl`: <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> (291; 99% instances), <tt><a href="es_ancora-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> (3; 1% instances).
+The following 2 pairs of parts of speech are connected with `expl`: <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> (250; 99% instances), <tt><a href="es_ancora-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> (3; 1% instances).
 
 
 ~~~ conllu
@@ -33,7 +33,7 @@ The following 2 pairs of parts of speech are connected with `expl`: <tt><a href=
 8	le	él	PRON	pp3csd00	Case=Dat|Number=Sing|Person=3|PronType=Prs	9	expl	9:expl	ArgTem=arg2:ben
 9	entrega	entregar	VERB	vmip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 10	un	uno	DET	di0ms0	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	11:det	_
-11	cupón	cupón	NOUN	ncms000	Gender=Masc|Number=Sing	9	nsubj	9:nsubj	SpaceAfter=No|ArgTem=arg1:pat
+11	cupón	cupón	NOUN	ncms000	Gender=Masc|Number=Sing	9	nsubj	9:nsubj	ArgTem=arg1:pat|SpaceAfter=No
 12	.	.	PUNCT	fp	PunctType=Peri	9	punct	9:punct	_
 
 ~~~
@@ -57,7 +57,7 @@ The following 2 pairs of parts of speech are connected with `expl`: <tt><a href=
 10	compartir	compartir	VERB	vmn0000	VerbForm=Inf	9	csubj	9:csubj	ArgTem=arg1:tem
 11	tan	tanto	ADV	rg	_	12	advmod	12:advmod	_
 12	sana	sano	ADJ	aq0fs0	Gender=Fem|Number=Sing	13	amod	13:amod	_
-13	hilaridad	hilaridad	NOUN	ncfs000	Gender=Fem|Number=Sing	10	obj	10:obj	SpaceAfter=No|ArgTem=arg1:pat
+13	hilaridad	hilaridad	NOUN	ncfs000	Gender=Fem|Number=Sing	10	obj	10:obj	ArgTem=arg1:pat|SpaceAfter=No
 14	.	.	PUNCT	fp	PunctType=Peri	9	punct	9:punct	_
 
 ~~~

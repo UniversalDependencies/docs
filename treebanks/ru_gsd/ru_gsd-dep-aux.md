@@ -62,7 +62,7 @@ The following 3 pairs of parts of speech are connected with `aux`: <tt><a href="
 10	,	,	PUNCT	,	_	13	punct	_	_
 11	пока	пока	SCONJ	IN	_	13	mark	_	_
 12	не	не	PART	NEG	Polarity=Neg	13	advmod	_	_
-13	начнутся	начаться	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	8	acl	_	_
+13	начнутся	начаться	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	9	acl	_	_
 14	тесты	тест	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	13	nsubj	_	SpaceAfter=No
 15	.	.	PUNCT	.	_	2	punct	_	_
 

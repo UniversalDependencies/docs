@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="la_perseus-dep-det.html">det</a></tt>.
 
-1 nodes (0%) are attached to their parents as `det:numgov`.
+2 nodes (0%) are attached to their parents as `det:numgov`.
 
-1 instances of `det:numgov` (100%) are right-to-left (child precedes parent).
+2 instances of `det:numgov` (100%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.
 
-The following 1 pairs of parts of speech are connected with `det:numgov`: <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_perseus-pos-DET.html">DET</a></tt> (1; 100% instances).
+The following 1 pairs of parts of speech are connected with `det:numgov`: <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_perseus-pos-DET.html">DET</a></tt> (2; 100% instances).
 
 
 ~~~ conllu

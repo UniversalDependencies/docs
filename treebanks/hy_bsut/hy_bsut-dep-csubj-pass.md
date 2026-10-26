@@ -7,6 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Armenian-BSUT: Relations: `csubj:pass`
 
 This relation is a language-specific subtype of <tt><a href="hy_bsut-dep-csubj.html">csubj</a></tt>.
+There are also 1 other language-specific subtypes of `csubj`: <tt><a href="hy_bsut-dep-csubj-outer.html">csubj:outer</a></tt>.
 
 15 nodes (0%) are attached to their parents as `csubj:pass`.
 
@@ -25,7 +26,7 @@ The following 2 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 1	Թույլատրվեցին	թույլատրել	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Subcat=Intr|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	Translit=T’owylatrvec’in|LTranslit=t’owylatrel
 2	դահլիճներում	դահլիճ	NOUN	_	Animacy=Nhum|Case=Loc|Definite=Ind|Number=Plur	3	obl	_	Translit=dahlič̣nerowm|LTranslit=dahlič̣
 3	լսել	լսել	VERB	_	Polarity=Pos|Subcat=Tran|VerbForm=Inf|Voice=Act	1	csubj:pass	_	Translit=lsel|LTranslit=lsel
-4	մեր	մենք	DET	_	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	7	det:poss	_	Translit=mer|LTranslit=menk’
+4	մեր	մեր	DET	_	Number=Plur|Person=1|Poss=Yes|PronType=Prs	7	det:poss	_	Translit=mer|LTranslit=mer
 5	հոգևոր	հոգևոր	ADJ	_	_	7	amod	_	Translit=hogewor|LTranslit=hogewor
 6	սքանչելի	սքանչելի	ADJ	_	Degree=Pos	7	amod	_	Translit=sk’ančeli|LTranslit=sk’ančeli
 7	երաժշտությունը	երաժշտություն	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	3	obj	_	Translit=eražštowt’yownë|LTranslit=eražštowt’yown|SpaceAfter=No

@@ -80,7 +80,7 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
 ## Relations with Agreement in `Degree`
 
 The 10 most frequent relations where parent and child node agree in `Degree`:
-<tt>ADJ --[<tt><a href="orv_torot-dep-conj.html">conj</a></tt>]--> ADJ</tt> (834; 98%),
+<tt>ADJ --[<tt><a href="orv_torot-dep-conj.html">conj</a></tt>]--> ADJ</tt> (835; 98%),
 <tt>ADJ --[<tt><a href="orv_torot-dep-amod.html">amod</a></tt>]--> ADJ</tt> (64; 93%),
 <tt>ADJ --[<tt><a href="orv_torot-dep-fixed.html">fixed</a></tt>]--> ADJ</tt> (54; 100%),
 <tt>ADJ --[<tt><a href="orv_torot-dep-appos.html">appos</a></tt>]--> ADJ</tt> (25; 89%),

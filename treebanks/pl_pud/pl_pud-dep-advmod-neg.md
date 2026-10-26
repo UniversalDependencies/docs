@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Polish-PUD: Relations: `advmod:neg`
 
 This relation is a language-specific subtype of <tt><a href="pl_pud-dep-advmod.html">advmod</a></tt>.
-There are also 2 other language-specific subtypes of `advmod`: <tt><a href="pl_pud-dep-advmod-arg.html">advmod:arg</a></tt>, <tt><a href="pl_pud-dep-advmod-emph.html">advmod:emph</a></tt>.
+There are also 3 other language-specific subtypes of `advmod`: <tt><a href="pl_pud-dep-advmod-arg.html">advmod:arg</a></tt>, <tt><a href="pl_pud-dep-advmod-cmp.html">advmod:cmp</a></tt>, <tt><a href="pl_pud-dep-advmod-emph.html">advmod:emph</a></tt>.
 
 121 nodes (1%) are attached to their parents as `advmod:neg`.
 
@@ -44,7 +44,7 @@ The following 9 pairs of parts of speech are connected with `advmod:neg`: <tt><a
 1	Internet	Internet	PROPN	subst:sg:nom:m3	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	6	nsubj	6:nsubj|10:nsubj	_
 2	nie	nie	PART	part	Polarity=Neg	3	advmod:neg	3:advmod:neg	_
 3	jest	być	AUX	fin:sg:ter:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	cop	6:cop	_
-4	w	w	ADP	prep:loc:nwok	AdpType=Prep|Variant=Short	6	advmod	6:advmod	Case=Loc
+4	w	w	ADP	prep:loc:nwok	AdpType=Prep|ExtPos=ADV|Variant=Short	6	advmod	6:advmod	Case=Loc
 5	końcu	koniec	NOUN	subst:sg:loc:m3	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	4	fixed	4:fixed	_
 6	luksusem	luksus	NOUN	subst:sg:inst:m3	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	0	root	0:root	SpaceAfter=No
 7	,	,	PUNCT	interp	PunctType=Comm	10	punct	10:punct	_

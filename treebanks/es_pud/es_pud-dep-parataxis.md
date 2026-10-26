@@ -47,7 +47,7 @@ The following 8 pairs of parts of speech are connected with `parataxis`: <tt><a 
 # visual-style 3 11 parataxis	color:blue
 1	Fue	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	cop	_	_
 2	muy	muy	ADV	RB	_	3	advmod	_	_
-3	amable	amable	ADJ	JJ	Gender=Masc|Number=Sing	0	root	_	_
+3	amable	amable	ADJ	JJ	Number=Sing	0	root	_	_
 4	y	y	CCONJ	CC	_	6	cc	_	_
 5	lo	él	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	6	obj	_	_
 6	aceptó	aceptar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	conj	_	_
@@ -58,7 +58,7 @@ The following 8 pairs of parts of speech are connected with `parataxis`: <tt><a 
 11	estoy	estar	VERB	VBC	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	parataxis	_	_
 12	más	más	ADV	RBR	Degree=Cmp	11	advmod	_	_
 13	que	que	ADP	IN	_	14	case	_	_
-14	enfadado	enfadado	ADJ	JJ	Gender=Masc|Number=Sing	12	obl	_	SpaceAfter=No
+14	enfadado	enfadado	ADJ	JJ	Gender=Masc|Number=Sing|VerbForm=Part	12	obl	_	SpaceAfter=No
 15	.	.	PUNCT	.	PunctType=Peri	3	punct	_	_
 
 ~~~

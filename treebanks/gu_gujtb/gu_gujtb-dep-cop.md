@@ -22,15 +22,15 @@ The following 4 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 8 cop	color:blue
-1	શું	શું	AUX	_	_	7	aux	_	_
-2	ઇગુઆઝુ	ઇગુઆઝુ	PROPN	_	_	7	nsubj	_	_
-3	એક	એક	DET	_	_	4	det	_	_
-4	મોટો	મોટો	ADJ	_	_	7	amod	_	_
-5	કે	કે	CCONJ	_	_	6	cc	_	_
-6	નાનો	નાનો	ADJ	_	_	4	conj	_	_
-7	દેશ	દેશ	NOUN	_	_	0	root	_	_
-8	છે	છે	AUX	_	_	7	cop	_	_
-9	?	?	PUNCT	_	_	7	punct	_	SpaceAfter=No
+1	શું	શું	AUX	_	_	7	aux	_	LTranslit=śuṁ|Translit=śuṁ
+2	ઇગુઆઝુ	ઇગુઆઝુ	PROPN	_	_	7	nsubj	_	LTranslit=iguājhu|Translit=iguājhu
+3	એક	એક	DET	_	_	4	det	_	LTranslit=eka|Translit=eka
+4	મોટો	મોટો	ADJ	_	_	7	amod	_	LTranslit=moṭo|Translit=moṭo
+5	કે	કે	CCONJ	_	_	6	cc	_	LTranslit=ke|Translit=ke
+6	નાનો	નાનો	ADJ	_	_	4	conj	_	LTranslit=nāno|Translit=nāno
+7	દેશ	દેશ	NOUN	_	_	0	root	_	LTranslit=deśa|Translit=deśa
+8	છે	છે	AUX	_	_	7	cop	_	LTranslit=che|Translit=che
+9	?	?	PUNCT	_	_	7	punct	_	LTranslit=?|SpaceAfter=No|Translit=?
 
 ~~~
 
@@ -41,15 +41,15 @@ The following 4 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 8 cop	color:blue
-1	મારા	હું	PRON	_	_	2	nmod	_	_
-2	પપ્પા	પપ્પા	NOUN	_	_	7	nsubj	_	_
-3	તારા	તું	PRON	_	_	4	nmod	_	_
-4	પપ્પા	પપ્પા	NOUN	_	_	7	obl	_	_
-5	કરતાં	કરતાં	ADP	_	_	4	case	_	_
-6	વધારે	વધારે	ADV	_	_	7	advmod	_	_
-7	કૂલ	કૂલ	ADJ	_	_	0	root	_	_
-8	છે	છે	AUX	_	_	7	cop	_	SpaceAfter=No
-9	.	.	PUNCT	_	_	7	punct	_	SpaceAfter=No
+1	મારા	હું	PRON	_	_	2	nmod	_	LTranslit=huṁ|Translit=mārā
+2	પપ્પા	પપ્પા	NOUN	_	_	7	nsubj	_	LTranslit=pappā|Translit=pappā
+3	તારા	તું	PRON	_	_	4	nmod	_	LTranslit=tuṁ|Translit=tārā
+4	પપ્પા	પપ્પા	NOUN	_	_	7	obl	_	LTranslit=pappā|Translit=pappā
+5	કરતાં	કરતાં	ADP	_	_	4	case	_	LTranslit=karatāṁ|Translit=karatāṁ
+6	વધારે	વધારે	ADV	_	_	7	advmod	_	LTranslit=vadhāre|Translit=vadhāre
+7	કૂલ	કૂલ	ADJ	_	_	0	root	_	LTranslit=kūla|Translit=kūla
+8	છે	છે	AUX	_	_	7	cop	_	LTranslit=che|SpaceAfter=No|Translit=che
+9	.	.	PUNCT	_	_	7	punct	_	LTranslit=.|SpaceAfter=No|Translit=.
 
 ~~~
 
@@ -60,12 +60,12 @@ The following 4 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 5 cop	color:blue
-1	જેમાંથી	જેમાંથી	PRON	_	_	2	nmod	_	_
-2	આ	આ	PRON	_	_	4	nsubj	_	_
-3	પણ	પણ	PART	_	_	2	discourse	_	_
-4	એક	એક	NUM	_	_	0	root	_	_
-5	હતો	છે	AUX	_	_	4	cop	_	SpaceAfter=No
-6	.	.	PUNCT	_	_	4	punct	_	SpaceAfter=No
+1	જેમાંથી	જેમાંથી	PRON	_	_	2	nmod	_	LTranslit=jemāṁthī|Translit=jemāṁthī
+2	આ	આ	PRON	_	_	4	nsubj	_	LTranslit=ā|Translit=ā
+3	પણ	પણ	PART	_	_	2	discourse	_	LTranslit=paṇa|Translit=paṇa
+4	એક	એક	NUM	_	_	0	root	_	LTranslit=eka|Translit=eka
+5	હતો	છે	AUX	_	_	4	cop	_	LTranslit=che|SpaceAfter=No|Translit=hato
+6	.	.	PUNCT	_	_	4	punct	_	LTranslit=.|SpaceAfter=No|Translit=.
 
 ~~~
 

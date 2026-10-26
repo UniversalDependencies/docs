@@ -18,12 +18,12 @@ The feature is used with 1 part-of-speech tags: <tt><a href="tr_framenet-pos-PRO
 
 34 <tt><a href="tr_framenet-pos-PRON.html">PRON</a></tt> tokens (6% of all `PRON` tokens) have a non-empty value of `Reflex`.
 
-The most frequent other feature values with which `PRON` and `Reflex` co-occurred: <tt><a href="tr_framenet-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (34; 100%).
+The most frequent other feature values with which `PRON` and `Reflex` co-occurred: <tt><a href="tr_framenet-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (34; 100%), <tt><a href="tr_framenet-feat-Number.html">Number</a></tt><tt>=Sing</tt> (33; 97%), <tt><a href="tr_framenet-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt> (33; 97%), <tt><a href="tr_framenet-feat-Person.html">Person</a></tt><tt>=3</tt> (29; 85%), <tt><a href="tr_framenet-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt> (29; 85%).
 
 `PRON` tokens may have the following values of `Reflex`:
 
 * `Yes` (34; 100% of non-empty `Reflex`): <em>kendi, kendine, kendime, kendini, kendisi, kendisini, kendisine, Kendimi, kendimize</em>
-* `EMPTY` (551): <em>bu, onu, onun, ona, o, ben, bana, beni, sen, biz</em>
+* `EMPTY` (553): <em>bu, onu, onun, ona, o, ben, bana, beni, sen, biz</em>
 
 ## Relations with Agreement in `Reflex`
 

@@ -22,8 +22,8 @@ The following 16 pairs of parts of speech are connected with `amod`: <tt><a href
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 amod	color:blue
-1	ПЪСЛОМЪ	псалъмъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	0	root	_	ref=76.1
-2	АСАФОВЪ	асафовъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	1	amod	_	ref=76.1
+1	ПЪСЛОМЪ	псалъмъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	0	root	_	Ref=76.1
+2	АСАФОВЪ	асафовъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	1	amod	_	Ref=76.1
 
 ~~~
 
@@ -34,15 +34,15 @@ The following 16 pairs of parts of speech are connected with `amod`: <tt><a href
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 8 amod	color:blue
-1	И	и	CCONJ	C-	_	2	cc	_	ref=105.16
-2	прогнѣвашѩ	прогнѣвати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=105.16
-3	мосѣа	моси	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	2	obj	_	ref=105.16
-4	въ	въ	ADP	R-	_	5	case	_	ref=105.16
-5	стану	станъ	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	2	obl	_	ref=105.16
-6	и	и	CCONJ	C-	_	7	cc	_	ref=105.16
-7	аарѡна	аронъ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	3	conj	_	ref=105.16
-8	ст҃аго	свѧтъ	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	ref=105.16
-9	гн҃ѣ	господьнь	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	7	amod	_	ref=105.16
+1	И	и	CCONJ	C-	_	2	cc	_	Ref=105.16
+2	прогнѣвашѩ	прогнѣвати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=105.16
+3	мосѣа	моси	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	2	obj	_	Ref=105.16
+4	въ	въ	ADP	R-	_	5	case	_	Ref=105.16
+5	стану	станъ	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	2	obl	_	Ref=105.16
+6	и	и	CCONJ	C-	_	7	cc	_	Ref=105.16
+7	аарѡна	аронъ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	3	conj	_	Ref=105.16
+8	ст҃аго	свѧтъ	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	Ref=105.16
+9	гн҃ѣ	господьнь	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	7	amod	_	Ref=105.16
 
 ~~~
 
@@ -53,10 +53,10 @@ The following 16 pairs of parts of speech are connected with `amod`: <tt><a href
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 3 amod	color:blue
-1	ї	и	CCONJ	C-	_	4	cc	_	ref=77.41
-2	ст҃аго	свѧтъ	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	4	obj	_	ref=77.41
-3	їил҃ева	издраиль	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	2	amod	_	ref=77.41
-4	прогнѣвашѩ	прогнѣвати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=77.41
+1	ї	и	CCONJ	C-	_	4	cc	_	Ref=77.41
+2	ст҃аго	свѧтъ	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	4	obj	_	Ref=77.41
+3	їил҃ева	издраиль	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	2	amod	_	Ref=77.41
+4	прогнѣвашѩ	прогнѣвати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=77.41
 
 ~~~
 

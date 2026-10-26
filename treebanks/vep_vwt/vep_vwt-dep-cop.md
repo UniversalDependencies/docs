@@ -23,7 +23,7 @@ The following 6 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 5	fgColor:white
 # visual-style 5 4 cop	color:blue
 1	Tatan	tat	NOUN	_	Case=Gen|Number=Sing	5	nmod	_	_
-2	polespäi	pol'	NOUN	_	Case=Ela|Number=Sing	5	obl	_	_
+2	polespäi	polʼ	NOUN	_	Case=Ela|Number=Sing	5	obl	_	_
 3	kaik	kaik	PRON	_	Case=Nom|Number=Sing|PronType=Tot	5	nsubj:cop	_	_
 4	oma	olda	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	_
 5	vepsläižed	vepsläine	NOUN	_	Case=Nom|Number=Plur	0	root	_	_
@@ -39,10 +39,10 @@ The following 6 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 2	fgColor:white
 # visual-style 2 1 cop	color:blue
 1	Om	olda	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	cop	_	_
-2	sel'ged	sel'ge	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	0	root	_	_
+2	selʼged	selʼge	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	0	root	_	_
 3	,	,	PUNCT	_	_	8	punct	_	_
 4	miše	miše	SCONJ	_	_	8	mark	_	_
-5	meiden	mö	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	7	nmod	_	_
+5	meiden	minä	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	7	nmod	_	_
 6	vepsän	vepsän	ADJ	_	Case=Gen|Number=Sing	7	amod	_	_
 7	mal	ma	NOUN	_	Case=Ade|Number=Sing	8	obl	_	_
 8	eläba	eläda	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	acl	_	_
@@ -62,8 +62,8 @@ The following 6 pairs of parts of speech are connected with `cop`: <tt><a href="
 1	Natalja	Natalja	PROPN	_	Case=Nom|Number=Sing	5	nsubj:cop	_	_
 2	Silakova	Silakova	PROPN	_	Case=Nom|Number=Sing	1	flat	_	_
 3	om	olda	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	_
-4	üks'	üks'	NUM	_	Case=Nom|NumForm=Word|NumType=Card	5	nummod	_	_
-5	heišpäi	hö	PRON	_	Case=Ela|Number=Plur|Person=3|PronType=Prs	0	root	_	_
+4	üksʼ	üksʼ	NUM	_	Case=Nom|NumForm=Word|NumType=Card	5	nummod	_	_
+5	heišpäi	hän	PRON	_	Case=Ela|Number=Plur|Person=3|PronType=Prs	0	root	_	_
 6	.	.	PUNCT	_	_	5	punct	_	_
 
 ~~~

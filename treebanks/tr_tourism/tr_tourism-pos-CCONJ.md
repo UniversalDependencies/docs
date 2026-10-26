@@ -6,74 +6,79 @@ udver: '2'
 
 ## Treebank Statistics: UD_Turkish-Tourism: POS Tags: `CCONJ`
 
-There are 21 `CCONJ` lemmas (1%), 25 `CCONJ` types (0%) and 2123 `CCONJ` tokens (2%).
-Out of 15 observed tags, the rank of `CCONJ` is: 7 in number of lemmas, 8 in number of types and 7 in number of tokens.
+There are 20 `CCONJ` lemmas (1%), 24 `CCONJ` types (0%) and 2117 `CCONJ` tokens (2%).
+Out of 15 observed tags, the rank of `CCONJ` is: 7 in number of lemmas, 8 in number of types and 8 in number of tokens.
 
 The 10 most frequent `CCONJ` lemmas: <em>ve, ile, ama, de, da, fakat, hatta, veya, çünkü, ancak</em>
 
-The 10 most frequent `CCONJ` types:  <em>VE, İLE, AMA, DE, DA, FAKAT, HATTA, VEYA, ÇÜNKÜ, ANCAK</em>
+The 10 most frequent `CCONJ` types:  <em>ve, ile, ama, de, da, fakat, hatta, veya, çünkü, ancak</em>
 
-The 10 most frequent ambiguous lemmas: <em>ile</em> (<tt><a href="tr_tourism-pos-CCONJ.html">CCONJ</a></tt> 481, <tt><a href="tr_tourism-pos-ADP.html">ADP</a></tt> 53), <em>de</em> (<tt><a href="tr_tourism-pos-CCONJ.html">CCONJ</a></tt> 90, <tt><a href="tr_tourism-pos-VERB.html">VERB</a></tt> 24, <tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt> 6, <tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> 3, <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt> 2), <em>hatta</em> (<tt><a href="tr_tourism-pos-CCONJ.html">CCONJ</a></tt> 17, <tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> 16), <em>ancak</em> (<tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> 7, <tt><a href="tr_tourism-pos-CCONJ.html">CCONJ</a></tt> 7), <em>ne</em> (<tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> 28, <tt><a href="tr_tourism-pos-CCONJ.html">CCONJ</a></tt> 6, <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="tr_tourism-pos-PRON.html">PRON</a></tt> 1), <em>hem</em> (<tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> 16, <tt><a href="tr_tourism-pos-CCONJ.html">CCONJ</a></tt> 4), <em>dahi</em> (<tt><a href="tr_tourism-pos-CCONJ.html">CCONJ</a></tt> 3, <tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt> 3), <em>gerek</em> (<tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt> 11, <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt> 8, <tt><a href="tr_tourism-pos-VERB.html">VERB</a></tt> 7, <tt><a href="tr_tourism-pos-CCONJ.html">CCONJ</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>ile</em> (<tt><a href="tr_tourism-pos-CCONJ.html">CCONJ</a></tt> 480, <tt><a href="tr_tourism-pos-ADP.html">ADP</a></tt> 54), <em>de</em> (<tt><a href="tr_tourism-pos-CCONJ.html">CCONJ</a></tt> 90, <tt><a href="tr_tourism-pos-VERB.html">VERB</a></tt> 35), <em>hatta</em> (<tt><a href="tr_tourism-pos-CCONJ.html">CCONJ</a></tt> 17, <tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> 16), <em>ancak</em> (<tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> 7, <tt><a href="tr_tourism-pos-CCONJ.html">CCONJ</a></tt> 7), <em>ne</em> (<tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> 28, <tt><a href="tr_tourism-pos-CCONJ.html">CCONJ</a></tt> 6, <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="tr_tourism-pos-PRON.html">PRON</a></tt> 1), <em>hem</em> (<tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> 16, <tt><a href="tr_tourism-pos-CCONJ.html">CCONJ</a></tt> 4), <em>gerek</em> (<tt><a href="tr_tourism-pos-VERB.html">VERB</a></tt> 18, <tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt> 8, <tt><a href="tr_tourism-pos-CCONJ.html">CCONJ</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>İLE</em> (<tt><a href="tr_tourism-pos-CCONJ.html">CCONJ</a></tt> 479, <tt><a href="tr_tourism-pos-ADP.html">ADP</a></tt> 53), <em>DE</em> (<tt><a href="tr_tourism-pos-CCONJ.html">CCONJ</a></tt> 90, <tt><a href="tr_tourism-pos-X.html">X</a></tt> 10), <em>DA</em> (<tt><a href="tr_tourism-pos-CCONJ.html">CCONJ</a></tt> 89, <tt><a href="tr_tourism-pos-X.html">X</a></tt> 14, <tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt> 3), <em>HATTA</em> (<tt><a href="tr_tourism-pos-CCONJ.html">CCONJ</a></tt> 17, <tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> 16), <em>ANCAK</em> (<tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> 7, <tt><a href="tr_tourism-pos-CCONJ.html">CCONJ</a></tt> 7), <em>YA</em> (<tt><a href="tr_tourism-pos-CCONJ.html">CCONJ</a></tt> 7, <tt><a href="tr_tourism-pos-X.html">X</a></tt> 1), <em>NE</em> (<tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> 28, <tt><a href="tr_tourism-pos-CCONJ.html">CCONJ</a></tt> 6, <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="tr_tourism-pos-PRON.html">PRON</a></tt> 1), <em>HEM</em> (<tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> 16, <tt><a href="tr_tourism-pos-CCONJ.html">CCONJ</a></tt> 4), <em>İSE</em> (<tt><a href="tr_tourism-pos-CCONJ.html">CCONJ</a></tt> 4, <tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="tr_tourism-pos-VERB.html">VERB</a></tt> 1), <em>BEYE</em> (<tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt> 42, <tt><a href="tr_tourism-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="tr_tourism-pos-VERB.html">VERB</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>ile</em> (<tt><a href="tr_tourism-pos-CCONJ.html">CCONJ</a></tt> 478, <tt><a href="tr_tourism-pos-ADP.html">ADP</a></tt> 54), <em>de</em> (<tt><a href="tr_tourism-pos-CCONJ.html">CCONJ</a></tt> 90, <tt><a href="tr_tourism-pos-X.html">X</a></tt> 10), <em>da</em> (<tt><a href="tr_tourism-pos-CCONJ.html">CCONJ</a></tt> 88, <tt><a href="tr_tourism-pos-X.html">X</a></tt> 15, <tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt> 3), <em>hatta</em> (<tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> 7, <tt><a href="tr_tourism-pos-CCONJ.html">CCONJ</a></tt> 4), <em>ancak</em> (<tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> 7, <tt><a href="tr_tourism-pos-CCONJ.html">CCONJ</a></tt> 7), <em>ya</em> (<tt><a href="tr_tourism-pos-CCONJ.html">CCONJ</a></tt> 5, <tt><a href="tr_tourism-pos-X.html">X</a></tt> 1), <em>ne</em> (<tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> 25, <tt><a href="tr_tourism-pos-CCONJ.html">CCONJ</a></tt> 3, <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="tr_tourism-pos-PRON.html">PRON</a></tt> 1), <em>hem</em> (<tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> 8, <tt><a href="tr_tourism-pos-CCONJ.html">CCONJ</a></tt> 2), <em>Gerek</em> (<tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt> 4, <tt><a href="tr_tourism-pos-CCONJ.html">CCONJ</a></tt> 1), <em>beye</em> (<tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt> 42, <tt><a href="tr_tourism-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="tr_tourism-pos-VERB.html">VERB</a></tt> 1)
 
 
-* <em>İLE</em>
-  * <tt><a href="tr_tourism-pos-CCONJ.html">CCONJ</a></tt> 479: <em>TEK KELİME <b>İLE</b> MUHTEŞEM .</em>
-  * <tt><a href="tr_tourism-pos-ADP.html">ADP</a></tt> 53: <em>İSMAİL BEY <b>İLE</b> GÖRÜŞÜLDÜ .</em>
-* <em>DE</em>
-  * <tt><a href="tr_tourism-pos-CCONJ.html">CCONJ</a></tt> 90: <em>İLK DEFA BİTSE <b>DE</b> KURTULSAK DİYE DÜŞÜNDÜĞÜM BİR TATİL .</em>
-  * <tt><a href="tr_tourism-pos-X.html">X</a></tt> 10: <em>ÇALIŞANLARIN HEPSİ CAHİL VE AŞIRI DERECE <b>DE</b> PİSLER .</em>
-* <em>DA</em>
-  * <tt><a href="tr_tourism-pos-CCONJ.html">CCONJ</a></tt> 89: <em>KONUMU <b>DA</b> GÜZELDİ .</em>
-  * <tt><a href="tr_tourism-pos-X.html">X</a></tt> 14: <em>BODRUM <b>DA</b> AĞAÇLARLA ÇEVRİLİ BÖYLESİNE YEŞİL BİR OTEL BULMAK İMKANSIZ .</em>
-  * <tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt> 3: <em>DEKORASYON <b>DA</b> ODA DA İYİYDİ .</em>
-* <em>HATTA</em>
-  * <tt><a href="tr_tourism-pos-CCONJ.html">CCONJ</a></tt> 17: <em><b>HATTA</b> 10 PUAN BİLE VEREBİLİRİM .</em>
-  * <tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> 16: <em><b>HATTA</b> 5'İN ÜSTÜNDE PUAN VERİYORUM .</em>
-* <em>ANCAK</em>
-  * <tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> 7: <em>ODA ESKİYDİ <b>ANCAK</b> TEMİZDİ .</em>
-  * <tt><a href="tr_tourism-pos-CCONJ.html">CCONJ</a></tt> 7: <em>ÇEŞİT VARDI <b>ANCAK</b> LEZZET YOKTU .</em>
-* <em>YA</em>
-  * <tt><a href="tr_tourism-pos-CCONJ.html">CCONJ</a></tt> 7: <em><b>YA</b> YAZMAYA KALKSAM SAATLERCE YAZABİLİRİM .</em>
-  * <tt><a href="tr_tourism-pos-X.html">X</a></tt> 1: <em>ODAMIZLA İLGİLENEN PINAR KARACA <b>YA</b> GÖL EVLERİ BARMENİ EROL ANA RESTORANTTA BALIKLARI KIVAMINDA PİŞİREN AŞÇI BATUHAN VE GARSON ALİ KARDEŞİME AYRIYETEN TEŞEKKÜRLER .</em>
-* <em>NE</em>
-  * <tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> 28: <em>ÇOK İYİ FATURAMI <b>NE</b> ZAMAN ALABİLİRİM .</em>
-  * <tt><a href="tr_tourism-pos-CCONJ.html">CCONJ</a></tt> 6: <em><b>NE</b> İYİ <b>NE</b> KÖTÜ .</em>
-  * <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt> 1: <em>HER ŞEY DAHİL TESİSLERDE <b>NE</b> YİYECEĞİNİ ŞAŞIRIYOR İNSAN AMA BURADA GERÇEKTEN YİYEBİLECEĞİN AZ ÖZ YEMEK ÇEŞİDİ İLE BİZE YETTİ DE ARTTI BİLE .</em>
-  * <tt><a href="tr_tourism-pos-PRON.html">PRON</a></tt> 1: <em>FATURAMI <b>NE</b> ZAMAN ALABİLİRİM .</em>
-* <em>HEM</em>
-  * <tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> 16: <em><b>HEM</b> ÇEŞİT <b>HEM</b> LEZZET YETERSİZDİ .</em>
-  * <tt><a href="tr_tourism-pos-CCONJ.html">CCONJ</a></tt> 4: <em><b>HEM</b> LEZZET <b>HEM</b> ÇEŞİT AÇISINDAN BEĞENMEDİM .</em>
-* <em>İSE</em>
-  * <tt><a href="tr_tourism-pos-CCONJ.html">CCONJ</a></tt> 4: <em>ODALAR <b>İSE</b> GERÇEKTEN GÜZEL .</em>
-  * <tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt> 2: <em>PERSONELLER <b>İSE</b> TAMAMEN ASIK SURATLI YAVAŞ ÇÜNKÜ ÇOK İNSAN VAR ONLAR DA HAKLI YETİŞEMİYORLAR .</em>
-  * <tt><a href="tr_tourism-pos-VERB.html">VERB</a></tt> 1: <em>AİLE İÇİN <b>İSE</b> BULUNMAZ OTEL .</em>
-* <em>BEYE</em>
-  * <tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt> 42: <em>SAMET <b>BEYE</b> 5 PUAN VERİRİM .</em>
-  * <tt><a href="tr_tourism-pos-CCONJ.html">CCONJ</a></tt> 1: <em>PERSONEL ÇOK SAMİMİ HALKLA İLİŞKİLERDEKİ KUBİLAY BEY BİZİMLE YAKINDAN ALAKADAR OLDU İKRAMLAR İÇİN KENDİSİNE VE KAYA <b>BEYE</b> ÇOK TEŞEKKÜR EDERİZ OTELİ KESİNLİKLE TAVSİYE EDERİM .</em>
-  * <tt><a href="tr_tourism-pos-VERB.html">VERB</a></tt> 1: <em>ONLARA VE HARUN <b>BEYE</b> TEŞEKKÜRLER .</em>
+* <em>ile</em>
+  * <tt><a href="tr_tourism-pos-CCONJ.html">CCONJ</a></tt> 478: <em>Tek kelime <b>ile</b> muhteşem .</em>
+  * <tt><a href="tr_tourism-pos-ADP.html">ADP</a></tt> 54: <em>İsmail Bey <b>ile</b> görüşüldü .</em>
+* <em>de</em>
+  * <tt><a href="tr_tourism-pos-CCONJ.html">CCONJ</a></tt> 90: <em>İlk defa bitse <b>de</b> kurtulsak diye düşündüğüm bir tatil .</em>
+  * <tt><a href="tr_tourism-pos-X.html">X</a></tt> 10: <em>Çalışanların hepsi cahil ve aşırı derece <b>de</b> pisler .</em>
+* <em>da</em>
+  * <tt><a href="tr_tourism-pos-CCONJ.html">CCONJ</a></tt> 88: <em>Konumu <b>da</b> güzeldi .</em>
+  * <tt><a href="tr_tourism-pos-X.html">X</a></tt> 15: <em>Bodrum <b>da</b> ağaçlarla çevrili böylesine yeşil bir otel bulmak imkansız .</em>
+  * <tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt> 3: <em>Dekorasyon <b>da</b> oda da iyiydi .</em>
+* <em>hatta</em>
+  * <tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> 7: <em>10 puan veririm <b>hatta</b> .</em>
+  * <tt><a href="tr_tourism-pos-CCONJ.html">CCONJ</a></tt> 4: <em>10 puan veriyorum <b>hatta</b> .</em>
+* <em>ancak</em>
+  * <tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> 7: <em>Oda eskiydi <b>ancak</b> temizdi .</em>
+  * <tt><a href="tr_tourism-pos-CCONJ.html">CCONJ</a></tt> 7: <em>Çeşit vardı <b>ancak</b> lezzet yoktu .</em>
+* <em>ya</em>
+  * <tt><a href="tr_tourism-pos-CCONJ.html">CCONJ</a></tt> 5: <em>7 ve <b>ya</b> 8 kez gelişimiz .</em>
+  * <tt><a href="tr_tourism-pos-X.html">X</a></tt> 1: <em>Odamızla ilgilenen Pınar karaca <b>ya</b> göl evleri barmeni Erol ana restorantta balıkları kıvamında pişiren aşçı Batuhan ve garson Ali kardeşime ayrıyeten teşekkürler .</em>
+* <em>ne</em>
+  * <tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> 25: <em>Çok iyi faturamı <b>ne</b> zaman alabilirim .</em>
+  * <tt><a href="tr_tourism-pos-CCONJ.html">CCONJ</a></tt> 3: <em>Ne iyi <b>ne</b> kötü .</em>
+  * <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt> 1: <em>Her şey dahil tesislerde <b>ne</b> yiyeceğini şaşırıyor insan ama burada gerçekten yiyebileceğin az öz yemek çeşidi ile bize yetti de arttı bile .</em>
+  * <tt><a href="tr_tourism-pos-PRON.html">PRON</a></tt> 1: <em>Faturamı <b>ne</b> zaman alabilirim .</em>
+* <em>hem</em>
+  * <tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> 8: <em>Hem çeşit <b>hem</b> lezzet yetersizdi .</em>
+  * <tt><a href="tr_tourism-pos-CCONJ.html">CCONJ</a></tt> 2: <em>Hem lezzet <b>hem</b> çeşit açısından beğenmedim .</em>
+* <em>Gerek</em>
+  * <tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt> 4: <em><b>Gerek</b> yok .</em>
+  * <tt><a href="tr_tourism-pos-CCONJ.html">CCONJ</a></tt> 1: <em><b>Gerek</b> duymadık .</em>
+* <em>beye</em>
+  * <tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt> 42: <em>Samet <b>beye</b> 5 puan veririm .</em>
+  * <tt><a href="tr_tourism-pos-CCONJ.html">CCONJ</a></tt> 1: <em>Personel çok samimi halkla ilişkilerdeki Kubilay Bey bizimle yakından alakadar oldu ikramlar için kendisine ve kaya <b>beye</b> çok teşekkür ederiz oteli kesinlikle tavsiye ederim .</em>
+  * <tt><a href="tr_tourism-pos-VERB.html">VERB</a></tt> 1: <em>Onlara ve Harun <b>beye</b> teşekkürler .</em>
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.190476 (the average of all parts of speech is 1.825646).
+The form / lemma ratio of `CCONJ` is 1.200000 (the average of all parts of speech is 2.231287).
 
-The 1st highest number of forms (3) was observed with the lemma “ile”: <em>İLE, İLGİLİ, İŞ</em>.
+The 1st highest number of forms (3) was observed with the lemma “ile”: <em>ile, ilgili, İş</em>.
 
-The 2nd highest number of forms (2) was observed with the lemma “ama”: <em>AMA, İŞLE</em>.
+The 2nd highest number of forms (2) was observed with the lemma “ama”: <em>ama, İşle</em>.
 
-The 3rd highest number of forms (2) was observed with the lemma “ve”: <em>BEYE, VE</em>.
+The 3rd highest number of forms (2) was observed with the lemma “ve”: <em>beye, ve</em>.
 
-`CCONJ` does not occur with any features.
+`CCONJ` occurs with 1 features: <tt><a href="tr_tourism-feat-ExtPos.html">ExtPos</a></tt> (1; 0% instances)
+
+`CCONJ` occurs with 1 feature-value pairs: `ExtPos=CCONJ`
+
+`CCONJ` occurs with 2 feature combinations.
+The most frequent feature combination is `_` (2116 tokens).
+Examples: <em>ve, ile, ama, de, da, fakat, hatta, veya, çünkü, ancak</em>
 
 
 ## Relations
 
-`CCONJ` nodes are attached to their parents using 16 different relations: <tt><a href="tr_tourism-dep-cc.html">cc</a></tt> (1455; 69% instances), <tt><a href="tr_tourism-dep-case.html">case</a></tt> (476; 22% instances), <tt><a href="tr_tourism-dep-advmod.html">advmod</a></tt> (83; 4% instances), <tt><a href="tr_tourism-dep-discourse.html">discourse</a></tt> (45; 2% instances), <tt><a href="tr_tourism-dep-mark.html">mark</a></tt> (33; 2% instances), <tt><a href="tr_tourism-dep-nsubj.html">nsubj</a></tt> (7; 0% instances), <tt><a href="tr_tourism-dep-conj.html">conj</a></tt> (5; 0% instances), <tt><a href="tr_tourism-dep-fixed.html">fixed</a></tt> (5; 0% instances), <tt><a href="tr_tourism-dep-compound.html">compound</a></tt> (4; 0% instances), <tt><a href="tr_tourism-dep-amod.html">amod</a></tt> (2; 0% instances), <tt><a href="tr_tourism-dep-nmod.html">nmod</a></tt> (2; 0% instances), <tt><a href="tr_tourism-dep-root.html">root</a></tt> (2; 0% instances), <tt><a href="tr_tourism-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="tr_tourism-dep-dep.html">dep</a></tt> (1; 0% instances), <tt><a href="tr_tourism-dep-list.html">list</a></tt> (1; 0% instances), <tt><a href="tr_tourism-dep-obl.html">obl</a></tt> (1; 0% instances)
+`CCONJ` nodes are attached to their parents using 16 different relations: <tt><a href="tr_tourism-dep-cc.html">cc</a></tt> (1454; 69% instances), <tt><a href="tr_tourism-dep-case.html">case</a></tt> (472; 22% instances), <tt><a href="tr_tourism-dep-advmod.html">advmod</a></tt> (82; 4% instances), <tt><a href="tr_tourism-dep-discourse.html">discourse</a></tt> (45; 2% instances), <tt><a href="tr_tourism-dep-mark.html">mark</a></tt> (33; 2% instances), <tt><a href="tr_tourism-dep-nsubj.html">nsubj</a></tt> (7; 0% instances), <tt><a href="tr_tourism-dep-conj.html">conj</a></tt> (5; 0% instances), <tt><a href="tr_tourism-dep-fixed.html">fixed</a></tt> (5; 0% instances), <tt><a href="tr_tourism-dep-compound.html">compound</a></tt> (4; 0% instances), <tt><a href="tr_tourism-dep-amod.html">amod</a></tt> (2; 0% instances), <tt><a href="tr_tourism-dep-nmod.html">nmod</a></tt> (2; 0% instances), <tt><a href="tr_tourism-dep-root.html">root</a></tt> (2; 0% instances), <tt><a href="tr_tourism-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="tr_tourism-dep-dep.html">dep</a></tt> (1; 0% instances), <tt><a href="tr_tourism-dep-list.html">list</a></tt> (1; 0% instances), <tt><a href="tr_tourism-dep-obl.html">obl</a></tt> (1; 0% instances)
 
-Parents of `CCONJ` nodes belong to 11 different parts of speech: <tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt> (1157; 54% instances), <tt><a href="tr_tourism-pos-VERB.html">VERB</a></tt> (495; 23% instances), <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt> (340; 16% instances), <tt><a href="tr_tourism-pos-PROPN.html">PROPN</a></tt> (43; 2% instances), <tt><a href="tr_tourism-pos-PRON.html">PRON</a></tt> (35; 2% instances), <tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> (30; 1% instances), <tt><a href="tr_tourism-pos-DET.html">DET</a></tt> (11; 1% instances), <tt><a href="tr_tourism-pos-CCONJ.html">CCONJ</a></tt> (5; 0% instances), <tt><a href="tr_tourism-pos-NUM.html">NUM</a></tt> (4; 0% instances),  (2; 0% instances), <tt><a href="tr_tourism-pos-ADP.html">ADP</a></tt> (1; 0% instances)
+Parents of `CCONJ` nodes belong to 11 different parts of speech: <tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt> (1044; 49% instances), <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt> (619; 29% instances), <tt><a href="tr_tourism-pos-VERB.html">VERB</a></tt> (216; 10% instances), <tt><a href="tr_tourism-pos-PROPN.html">PROPN</a></tt> (163; 8% instances), <tt><a href="tr_tourism-pos-PRON.html">PRON</a></tt> (35; 2% instances), <tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> (15; 1% instances), <tt><a href="tr_tourism-pos-DET.html">DET</a></tt> (11; 1% instances), <tt><a href="tr_tourism-pos-NUM.html">NUM</a></tt> (6; 0% instances), <tt><a href="tr_tourism-pos-CCONJ.html">CCONJ</a></tt> (5; 0% instances),  (2; 0% instances), <tt><a href="tr_tourism-pos-ADP.html">ADP</a></tt> (1; 0% instances)
 
-2108 (99%) `CCONJ` nodes are leaves.
+2102 (99%) `CCONJ` nodes are leaves.
 
 12 (1%) `CCONJ` nodes have one child.
 

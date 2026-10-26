@@ -24,14 +24,14 @@ The following 3 pairs of parts of speech are connected with `dep`: <tt><a href="
 # visual-style 10 9 dep	color:blue
 1	11	11	NUM	_	NumType=Card	2	nummod	_	_
 2	Kasım	kasım	PROPN	_	Case=Nom|Number=Sing	3	nmod	_	_
-3	10'dan	10	NOUN	_	Case=Abl|Number=Sing|Person=3	10	nmod:tmod	_	_
+3	10'dan	10	NUM	_	Case=Abl|Number=Sing|NumType=Card	10	nmod:tmod	_	_
 4	önce	önce	ADP	_	_	3	case	_	_
 5	Boston	boston	PROPN	_	Case=Nom|Number=Sing	6	nmod	_	_
 6	Washington	washington	PROPN	_	Case=Nom|Number=Sing	8	nmod	_	_
 7	DC	dc	PROPN	_	Case=Nom|Number=Sing	6	flat	_	_
-8	arasındaki	ara	ADJ	_	_	10	amod	_	_
-9	tüm	tüm	DET	_	PronType=Art	10	dep	_	_
-10	uçuşlar	uç	NOUN	_	Case=Nom|Number=Plur|Person=3	0	root	_	_
+8	arasındaki	ara	NOUN	_	_	10	amod	_	_
+9	tüm	tüm	DET	_	Definite=Def|PronType=Ind	10	dep	_	_
+10	uçuşlar	uçuş	NOUN	_	Case=Nom|Number=Plur	0	root	_	_
 
 ~~~
 
@@ -43,16 +43,16 @@ The following 3 pairs of parts of speech are connected with `dep`: <tt><a href="
 # visual-style 11	fgColor:white
 # visual-style 11 1 dep	color:blue
 1	Lütfen	lütfen	ADV	_	_	11	dep	_	_
-2	bana	ben	PRON	_	PronType=Prs	11	obl	_	_
+2	bana	ben	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	11	obl	_	_
 3	Long	long	PROPN	_	Case=Nom|Number=Sing	6	nmod	_	_
 4	Beach	beach	PROPN	_	Case=Nom|Number=Sing	3	flat	_	_
 5	California'dan	california	PROPN	_	Case=Abl|Number=Sing	4	flat	_	_
 6	Memphis	memphis	PROPN	_	Case=Nom|Number=Sing	8	obl	_	_
 7	Tennessee'ye	tennessee	PROPN	_	Case=Dat|Number=Sing	6	flat	_	_
-8	olan	ol	ADJ	_	_	10	acl	_	_
-9	tüm	tüm	DET	_	PronType=Art	10	det	_	_
-10	uçuşları	uç	NOUN	_	Case=Nom|Number=Plur|Number[psor]=Sing|Person=3|Person[psor]=3	11	obj	_	_
-11	göster	göster	VERB	_	Mood=Imp|Number=Sing|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	olan	ol	VERB	_	Polarity=Pos|Tense=Pres|VerbForm=Part	10	acl	_	_
+9	tüm	tüm	DET	_	Definite=Def|PronType=Ind	10	det	_	_
+10	uçuşları	uçuş	NOUN	_	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	11	obj	_	_
+11	göster	göster	VERB	_	Mood=Imp|Number=Sing|Person=2|Polarity=Pos|VerbForm=Fin	0	root	_	_
 
 ~~~
 
@@ -64,11 +64,11 @@ The following 3 pairs of parts of speech are connected with `dep`: <tt><a href="
 # visual-style 4	fgColor:white
 # visual-style 4 6 dep	color:blue
 1	Memphis'ten	memphis	PROPN	_	Case=Abl|Number=Sing	2	nmod	_	_
-2	Tacoma'ya	tacoma	PROPN	_	Case=Dat|Number=Sing	3	obl	_	_
-3	uçuş	uç	NOUN	_	Case=Nom|Number=Sing|Person=3	4	obj	_	_
-4	bul	bul	VERB	_	Mood=Imp|Number=Sing|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	_
-5	akşam	akşam	NOUN	_	Case=Nom|Number=Sing|Person=3	6	nmod	_	_
-6	yemeği	yemek	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	4	dep	_	_
+2	Tacoma'ya	tacoma	PROPN	_	Case=Dat|Number=Sing	3	nmod	_	_
+3	uçuş	uçuş	NOUN	_	Case=Nom|Number=Sing	4	obj	_	_
+4	bul	bul	VERB	_	Mood=Imp|Number=Sing|Person=2|Polarity=Pos|VerbForm=Fin	0	root	_	_
+5	akşam	akşam	NOUN	_	Case=Nom|Number=Sing	6	nmod	_	_
+6	yemeği	yemek	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	4	dep	_	_
 
 ~~~
 

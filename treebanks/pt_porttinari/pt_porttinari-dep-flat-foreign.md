@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="pt_porttinari-dep-flat.html">flat</a></tt>.
 There are also 1 other language-specific subtypes of `flat`: <tt><a href="pt_porttinari-dep-flat-name.html">flat:name</a></tt>.
 
-68 nodes (0%) are attached to their parents as `flat:foreign`.
+70 nodes (0%) are attached to their parents as `flat:foreign`.
 
-68 instances of `flat:foreign` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.16176470588235.
+70 instances of `flat:foreign` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.17142857142857.
 
-The following 1 pairs of parts of speech are connected with `flat:foreign`: <tt><a href="pt_porttinari-pos-X.html">X</a></tt>-<tt><a href="pt_porttinari-pos-X.html">X</a></tt> (68; 100% instances).
+The following 1 pairs of parts of speech are connected with `flat:foreign`: <tt><a href="pt_porttinari-pos-X.html">X</a></tt>-<tt><a href="pt_porttinari-pos-X.html">X</a></tt> (70; 100% instances).
 
 
 ~~~ conllu
@@ -37,7 +37,7 @@ The following 1 pairs of parts of speech are connected with `flat:foreign`: <tt>
 12	cidade	cidade	NOUN	_	Gender=Fem|Number=Sing	7	nmod	7:nmod:de	_
 13	são	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	aux:pass	14:aux:pass	_
 14	disputados	disputar	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass	0	root	0:root	SpaceAfter=No
-15	.	.	PUNCT	_	_	14	punct	14:punct	SpaceAfter=No
+15	.	.	PUNCT	_	_	14	punct	14:punct	_
 
 ~~~
 

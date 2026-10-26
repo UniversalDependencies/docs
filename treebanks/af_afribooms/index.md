@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.1 release.
 The following people have contributed to making this treebank part of UD: Peter Dirix, Liesbeth Augustinus, Daniel van Niekerk.
 
 Repository: [UD_Afrikaans-AfriBooms](https://github.com/UniversalDependencies/UD_Afrikaans-AfriBooms)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udaf_afribooms215)<br />
-Download all treebanks: [UD 2.15](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udaf_afribooms218)<br />
+Download all treebanks: [UD 2.18](/#download)
 
 License: CC BY-SA 4.0
 
@@ -29,7 +29,7 @@ Genre: legal, nonfiction
 Questions, comments?
 General annotation questions (either Afrikaans-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
 You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Afrikaans-AfriBooms/issues).
-If you want to collaborate, please contact [peter&nbsp;•&nbsp;dirix&nbsp;(æt)&nbsp;kuleuven&nbsp;•&nbsp;be, liesbeth&nbsp;•&nbsp;augustinus&nbsp;(æt)&nbsp;kuleuven&nbsp;•&nbsp;be].
+If you want to collaborate, please contact [peter&nbsp;•&nbsp;dirix&nbsp;(æt)&nbsp;kuleuven&nbsp;•&nbsp;be, peedirix&nbsp;(æt)&nbsp;gmail&nbsp;•&nbsp;com, liesbeth&nbsp;•&nbsp;augustinus&nbsp;(æt)&nbsp;gmail&nbsp;•&nbsp;com].
 Development of the treebank happens directly in the UD repository, so you may submit bug fixes as pull requests against the dev branch.
 
 | Annotation | Source |
@@ -66,7 +66,7 @@ The new conversion has been performed by Peter Dirix and Liesbeth Augustinus at 
 
 ## Features
 
-[AdjType](af_afribooms-feat-AdjType.html) – [AdpType](af_afribooms-feat-AdpType.html) – [Case](af_afribooms-feat-Case.html) – [Definite](af_afribooms-feat-Definite.html) – [Degree](af_afribooms-feat-Degree.html) – [Number](af_afribooms-feat-Number.html) – [PartType](af_afribooms-feat-PartType.html) – [Person](af_afribooms-feat-Person.html) – [Poss](af_afribooms-feat-Poss.html) – [PronType](af_afribooms-feat-PronType.html) – [Reflex](af_afribooms-feat-Reflex.html) – [Subcat](af_afribooms-feat-Subcat.html) – [Tense](af_afribooms-feat-Tense.html) – [VerbForm](af_afribooms-feat-VerbForm.html) – [VerbType](af_afribooms-feat-VerbType.html)
+[AdjType](af_afribooms-feat-AdjType.html) – [AdpType](af_afribooms-feat-AdpType.html) – [Case](af_afribooms-feat-Case.html) – [Definite](af_afribooms-feat-Definite.html) – [Degree](af_afribooms-feat-Degree.html) – [ExtPos](af_afribooms-feat-ExtPos.html) – [Number](af_afribooms-feat-Number.html) – [PartType](af_afribooms-feat-PartType.html) – [Person](af_afribooms-feat-Person.html) – [Poss](af_afribooms-feat-Poss.html) – [PronType](af_afribooms-feat-PronType.html) – [Reflex](af_afribooms-feat-Reflex.html) – [Subcat](af_afribooms-feat-Subcat.html) – [Tense](af_afribooms-feat-Tense.html) – [VerbForm](af_afribooms-feat-VerbForm.html) – [VerbType](af_afribooms-feat-VerbType.html)
 
 ## Relations
 
@@ -76,7 +76,7 @@ The new conversion has been performed by Peter Dirix and Liesbeth Augustinus at 
 
 
 <ul>
-<li>This corpus contains 1934 sentences and 49260 tokens.</li>
+<li>This corpus contains 1934 sentences and 49258 tokens.</li>
 </ul>
 
 <ul>
@@ -84,7 +84,7 @@ The new conversion has been performed by Peter Dirix and Liesbeth Augustinus at 
 </ul>
 
 <ul>
-<li>This corpus does not contain words with spaces.</li>
+<li>This corpus contains 2 types of words with spaces. Examples: 3 000, 3 500</li>
 </ul>
 
 <ul>
@@ -128,14 +128,14 @@ The new conversion has been performed by Peter Dirix and Liesbeth Augustinus at 
 </ul>
 
 <ul>
-<li>There are 3 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+<li>There are 4 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
 </ul>
 
 <ul>
   <li>Fin
   <ul>
-    <li>AUX: is, was, moes, sou, kon, gewees, wees, wou</li>
-    <li>VERB: gelyk, het</li>
+    <li>AUX: is, was, moes, sou, kon, gewees, wou</li>
+    <li>VERB: het</li>
   </ul>
   </li>
 </ul>
@@ -145,6 +145,14 @@ The new conversion has been performed by Peter Dirix and Liesbeth Augustinus at 
   <ul>
     <li>AUX: word, is, sal, het, moet, kan, wees, wil, mag, behoort</li>
     <li>VERB: doen, maak, gebruik, verbeter, het, verseker, stel, betaal, verskaf, gaan</li>
+  </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Inf
+  <ul>
+    <li>AUX: wees</li>
   </ul>
   </li>
 </ul>
@@ -291,8 +299,8 @@ The new conversion has been performed by Peter Dirix and Liesbeth Augustinus at 
 <ul>
   <li>Past
     <ul>
-      <li>AUX-Fin: is, was, moes, sou, kon, gewees, wees, wou</li>
-      <li>VERB-Fin: gelyk</li>
+      <li>AUX-Fin: is, was, moes, sou, kon, gewees, wou</li>
+      <li>AUX-Inf: wees</li>
       <li>VERB-Part: gemaak, gedoen, gestel, uitgereik, geneem, geregistreer, ingedien, ingevul, gebaseer, ingevoer</li>
     </ul>
   </li>
@@ -463,6 +471,23 @@ The new conversion has been performed by Peter Dirix and Liesbeth Augustinus at 
 </ul>
 
 <ul>
+  <li><a>ExtPos</a>
+    <ul>
+      <li>ADP
+        <ul>
+          <li>ADP: bo</li>
+        </ul>
+      </li>
+      <li>CCONJ
+        <ul>
+          <li>CCONJ: en</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li><a>PartType</a>
     <ul>
       <li>Gen
@@ -500,7 +525,7 @@ The new conversion has been performed by Peter Dirix and Liesbeth Augustinus at 
       </li>
       <li>Tran
         <ul>
-          <li>VERB-Fin: gelyk, het</li>
+          <li>VERB-Fin: het</li>
           <li>VERB-Fin,Inf: doen, gebruik, maak, verbeter, verseker, stel, het, verskaf, betaal, bereik</li>
           <li>VERB-Part: gemaak, gedoen, gestel, uitgereik, geneem, geregistreer, ingedien, ingevul, gebaseer, gegee</li>
         </ul>
@@ -531,8 +556,9 @@ The new conversion has been performed by Peter Dirix and Liesbeth Augustinus at 
       </li>
       <li>Pas
         <ul>
-          <li>AUX-Fin: is, wees</li>
+          <li>AUX-Fin: is</li>
           <li>AUX-Fin,Inf: word, wees</li>
+          <li>AUX-Inf: wees</li>
         </ul>
       </li>
     </ul>
@@ -559,15 +585,14 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>nsubj</a>
     <ul>
       <li>VERB-Fin--NOUN (1)</li>
-      <li>VERB-Fin--PRON (1)</li>
       <li>VERB-Fin,Inf--NOUN (655)</li>
-      <li>VERB-Fin,Inf--PRON (384)</li>
+      <li>VERB-Fin,Inf--PRON (385)</li>
       <li>VERB-Fin,Inf--PRON-ADP(aan) (1)</li>
       <li>VERB-Fin,Inf--PRON-ADP(in) (1)</li>
       <li>VERB-Fin,Inf--PRON-ADP(oor) (1)</li>
       <li>VERB-Fin,Inf--PRON-ADP(van) (1)</li>
-      <li>VERB-Fin,Inf--PRON-Acc,Nom (447)</li>
-      <li>VERB-Fin,Inf--PRON-Nom (361)</li>
+      <li>VERB-Fin,Inf--PRON-Acc,Nom (446)</li>
+      <li>VERB-Fin,Inf--PRON-Nom (362)</li>
       <li>VERB-Part--NOUN (142)</li>
       <li>VERB-Part--PRON (110)</li>
       <li>VERB-Part--PRON-ADP(oor) (1)</li>
@@ -582,16 +607,16 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>obj</a>
     <ul>
       <li>VERB-Fin--NOUN (1)</li>
-      <li>VERB-Fin,Inf--NOUN (1947)</li>
+      <li>VERB-Fin,Inf--NOUN (1935)</li>
       <li>VERB-Fin,Inf--NOUN-ADP(om) (1)</li>
       <li>VERB-Fin,Inf--NOUN-ADP(se) (1)</li>
       <li>VERB-Fin,Inf--NOUN-ADP(van) (1)</li>
       <li>VERB-Fin,Inf--NOUN-ADP(voor) (1)</li>
-      <li>VERB-Fin,Inf--PRON (100)</li>
-      <li>VERB-Fin,Inf--PRON-Acc (15)</li>
-      <li>VERB-Fin,Inf--PRON-Acc,Nom (52)</li>
-      <li>VERB-Fin,Inf--PRON-Nom (83)</li>
-      <li>VERB-Part--NOUN (258)</li>
+      <li>VERB-Fin,Inf--PRON (96)</li>
+      <li>VERB-Fin,Inf--PRON-Acc (14)</li>
+      <li>VERB-Fin,Inf--PRON-Acc,Nom (51)</li>
+      <li>VERB-Fin,Inf--PRON-Nom (82)</li>
+      <li>VERB-Part--NOUN (253)</li>
       <li>VERB-Part--NOUN-ADP(se) (1)</li>
       <li>VERB-Part--PRON (51)</li>
       <li>VERB-Part--PRON-Acc,Nom (10)</li>
@@ -603,7 +628,11 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
+      <li>VERB-Fin,Inf--NOUN (3)</li>
       <li>VERB-Fin,Inf--NOUN-ADP(aan) (43)</li>
+      <li>VERB-Fin,Inf--PRON-Acc (1)</li>
+      <li>VERB-Fin,Inf--PRON-Acc,Nom (1)</li>
+      <li>VERB-Part--NOUN (1)</li>
       <li>VERB-Part--NOUN-ADP(aan) (16)</li>
     </ul>
   </li>

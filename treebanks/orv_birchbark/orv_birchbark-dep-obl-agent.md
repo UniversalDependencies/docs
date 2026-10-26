@@ -7,6 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Old_East_Slavic-Birchbark: Relations: `obl:agent`
 
 This relation is a language-specific subtype of <tt><a href="orv_birchbark-dep-obl.html">obl</a></tt>.
+There are also 1 other language-specific subtypes of `obl`: <tt><a href="orv_birchbark-dep-obl-float.html">obl:float</a></tt>.
 
 2 nodes (0%) are attached to their parents as `obl:agent`.
 
@@ -22,13 +23,13 @@ The following 2 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 # visual-style 18	bgColor:blue
 # visual-style 18	fgColor:white
 # visual-style 18 21 obl:agent	color:blue
-1	цто	что	PRON	_	Case=Acc|PronType=Int	7	det	_	wf="цто"|addr="370:2"|line_id=2|_
+1	цто	что	PRON	_	Case=Acc|PronType=Int	7	obj	_	wf="цто"|addr="370:2"|line_id=2|_
 2	ѥси	быти	AUX	_	Analyt=Yes|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	3	aux	_	wf="ѥси"|addr="370:2"|_
 3	даль	дати	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	12	dislocated	_	wf="даль"|tense=perf|addr="370:2"|_
 4	·	·	PUNCT	_	_	5	punct	_	wf="·"|_
 5	намъ	мы	PRON	_	Case=Dat|Number=Plur|Person=1	3	iobj	_	wf="намъ"|comment="clitic_ton"|addr="370:2"|_
 6	за	за	ADP	_	_	7	case	_	wf="за"|addr="370:2"|_
-7	клуцка	ключникъ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	3	obj	_	wf="клуцка"|addr="370:2"|_
+7	клуцка	ключникъ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	3	obl	_	wf="клуцка"|addr="370:2"|_
 8	·	·	PUNCT	_	_	3	punct	_	wf="·"|_
 9	за	за	ADP	_	_	10	case	_	wf="за"|addr="370:2"|_
 10	насъ	мы	PRON	_	Case=Acc|Number=Plur|Person=1	12	obl	_	wf="насъ"|comment="clitic_ton"|addr="370:2"|_

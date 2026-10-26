@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `advmod`: <tt><a href="ky_ktmu-dep-advmod-emph.html">advmod:emph</a></tt>.
 
-779 nodes (3%) are attached to their parents as `advmod`.
+812 nodes (3%) are attached to their parents as `advmod`.
 
-486 instances of `advmod` (62%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.71758664955071.
+502 instances of `advmod` (62%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.73522167487685.
 
-The following 11 pairs of parts of speech are connected with `advmod`: <tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ky_ktmu-pos-ADV.html">ADV</a></tt> (399; 51% instances), <tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt>-<tt><a href="ky_ktmu-pos-ADV.html">ADV</a></tt> (284; 36% instances), <tt><a href="ky_ktmu-pos-NUM.html">NUM</a></tt>-<tt><a href="ky_ktmu-pos-ADV.html">ADV</a></tt> (47; 6% instances), <tt><a href="ky_ktmu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ky_ktmu-pos-ADV.html">ADV</a></tt> (25; 3% instances), <tt><a href="ky_ktmu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ky_ktmu-pos-ADV.html">ADV</a></tt> (10; 1% instances), <tt><a href="ky_ktmu-pos-ADV.html">ADV</a></tt>-<tt><a href="ky_ktmu-pos-ADV.html">ADV</a></tt> (5; 1% instances), <tt><a href="ky_ktmu-pos-PRON.html">PRON</a></tt>-<tt><a href="ky_ktmu-pos-ADV.html">ADV</a></tt> (4; 1% instances), <tt><a href="ky_ktmu-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ky_ktmu-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ky_ktmu-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ky_ktmu-pos-SYM.html">SYM</a></tt>-<tt><a href="ky_ktmu-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt>-<tt><a href="ky_ktmu-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `advmod`: <tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ky_ktmu-pos-ADV.html">ADV</a></tt> (404; 50% instances), <tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt>-<tt><a href="ky_ktmu-pos-ADV.html">ADV</a></tt> (304; 37% instances), <tt><a href="ky_ktmu-pos-NUM.html">NUM</a></tt>-<tt><a href="ky_ktmu-pos-ADV.html">ADV</a></tt> (49; 6% instances), <tt><a href="ky_ktmu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ky_ktmu-pos-ADV.html">ADV</a></tt> (27; 3% instances), <tt><a href="ky_ktmu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ky_ktmu-pos-ADV.html">ADV</a></tt> (10; 1% instances), <tt><a href="ky_ktmu-pos-PRON.html">PRON</a></tt>-<tt><a href="ky_ktmu-pos-ADV.html">ADV</a></tt> (7; 1% instances), <tt><a href="ky_ktmu-pos-ADV.html">ADV</a></tt>-<tt><a href="ky_ktmu-pos-ADV.html">ADV</a></tt> (6; 1% instances), <tt><a href="ky_ktmu-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ky_ktmu-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ky_ktmu-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ky_ktmu-pos-SYM.html">SYM</a></tt>-<tt><a href="ky_ktmu-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt>-<tt><a href="ky_ktmu-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -28,7 +28,7 @@ The following 11 pairs of parts of speech are connected with `advmod`: <tt><a hr
 3	лыжа	лыжа	NOUN	NN	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	5	nmod	_	_
 4	спорту	спорт	NOUN	NN	Case=Acc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	7	nmod	_	_
 5	боюнча	боюнча	ADV	ADV	_	4	advmod	_	_
-6	өлкөнүн	өлкө	NOUN	NN	Case=Gen|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	7	obl	_	_
+6	өлкөнүн	өлкө	NOUN	NN	Case=Gen|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	7	nmod	_	_
 7	чемпионаты	чемпионат	NOUN	NN	Case=Acc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	8	nsubj	_	_
 8	өттү	өт	VERB	VB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 9	.	.	PUNCT	PCT	_	8	punct	_	_
@@ -70,7 +70,7 @@ The following 11 pairs of parts of speech are connected with `advmod`: <tt><a hr
 5	салык	салык	NOUN	NN	Case=Nom|Number=Sing|Person=3	6	nmod	_	_
 6	төлөөчү	төлөөчү	NOUN	NN	Case=Nom|Number=Sing|Person=3	7	nmod	_	_
 7	декларация	декларация	NOUN	NN	Case=Nom|Number=Sing|Person=3	8	nsubj	_	_
-8	тапшырды	тапшыр	VERB	VB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past	0	root	_	SpaceAfter=No
+8	тапшырды	тапшыр	VERB	VB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 9	.	.	PUNCT	PCT	_	8	punct	_	_
 
 ~~~

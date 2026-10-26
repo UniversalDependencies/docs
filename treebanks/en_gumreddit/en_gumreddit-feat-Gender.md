@@ -30,5 +30,5 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 ## Relations with Agreement in `Gender`
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
-<tt>PRON --[<tt><a href="en_gumreddit-dep-dep.html">dep</a></tt>]--> PRON</tt> (1; 100%).
+<tt>PRON --[<tt><a href="en_gumreddit-dep-reparandum.html">reparandum</a></tt>]--> PRON</tt> (1; 100%).
 

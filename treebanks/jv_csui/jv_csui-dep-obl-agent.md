@@ -23,12 +23,12 @@ The following 3 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 5 obl:agent	color:blue
-1	Lintang	_	PROPN	_	_	4	nsubj:pass	_	_
-2	jebul	_	ADV	_	_	4	advmod	_	_
-3	arep	_	AUX	_	Polite=Infm	4	aux	_	_
-4	dirabi	_	VERB	_	Mood=Ind|Polite=Infm|Voice=Pass	0	root	_	_
-5	Ryan	_	PROPN	_	_	4	obl:agent	_	SpaceAfter=No
-6	.	_	PUNCT	_	_	4	punct	_	SpacesAfter=\s\n
+1	Lintang	lintang	PROPN	_	_	4	nsubj:pass	_	_
+2	jebul	jebul	ADV	_	_	4	advmod	_	_
+3	arep	arep	AUX	_	Polite=Infm	4	aux	_	_
+4	dirabi	rabi	VERB	_	Polite=Infm|Voice=Pass	0	root	_	_
+5	Ryan	ryan	PROPN	_	_	4	obl:agent	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\s\n
 
 ~~~
 
@@ -39,17 +39,17 @@ The following 3 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 9 obl:agent	color:blue
-1	Iki	_	PRON	_	Polite=Infm|PronType=Dem	2	nsubj	_	_
-2	wujud	_	NOUN	_	Number=Sing	0	root	_	_
-3	jinis	_	NOUN	_	Number=Sing	2	nmod	_	_
-4	kanker	_	NOUN	_	Number=Sing	3	nmod	_	_
-5	paling	_	ADV	_	_	6	advmod	_	_
-6	umum	_	ADJ	_	_	3	amod	_	_
-7	kang	_	PRON	_	Polite=Infm|PronType=Rel	8	nsubj:pass	_	_
-8	ditandhang	_	VERB	_	Mood=Ind|Voice=Pass	6	advcl	_	_
-9	kaum	_	NOUN	_	Number=Sing	8	obl:agent	_	_
-10	wanita	_	NOUN	_	Number=Sing	9	nmod	_	SpaceAfter=No
-11	.	_	PUNCT	_	_	2	punct	_	_
+1	Iki	iki	PRON	_	Polite=Infm|PronType=Dem	2	nsubj	_	_
+2	wujud	wujud	NOUN	_	Number=Sing	0	root	_	_
+3	jinis	jinis	NOUN	_	Number=Sing	2	nmod	_	_
+4	kanker	kanker	NOUN	_	Number=Sing	3	nmod	_	_
+5	paling	paling	ADV	_	_	6	advmod	_	_
+6	umum	umum	ADJ	_	_	3	amod	_	_
+7	kang	kang	PRON	_	Polite=Infm|PronType=Rel	8	nsubj:pass	_	_
+8	ditandhang	tandhang	VERB	_	Voice=Pass	6	advcl	_	_
+9	kaum	kaum	NOUN	_	Number=Sing	8	obl:agent	_	_
+10	wanita	wanita	NOUN	_	Number=Sing	9	nmod	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	2	punct	_	_
 
 ~~~
 
@@ -60,10 +60,10 @@ The following 3 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 1 obl:agent	color:blue
-1	Mbok	_	PRON	_	Number=Sing|Person=2|Polite=Infm|PronType=Prs	3	obl:agent	_	_
-2	aku	_	PRON	_	Number=Sing|Person=1|Polite=Infm|PronType=Prs	3	nsubj:pass	_	_
-3	ditepangne	_	VERB	_	Mood=Ind|Voice=Act	0	root	_	SpaceAfter=No
-4	?	_	PUNCT	_	_	3	punct	_	_
+1	Mbok	mbok	PRON	_	Number=Sing|Person=2|Polite=Infm|PronType=Prs	3	obl:agent	_	_
+2	aku	aku	PRON	_	Number=Sing|Person=1|Polite=Infm|PronType=Prs	3	nsubj:pass	_	_
+3	ditepangne	tepang	VERB	_	Voice=Act	0	root	_	SpaceAfter=No
+4	?	?	PUNCT	_	_	3	punct	_	_
 
 ~~~
 

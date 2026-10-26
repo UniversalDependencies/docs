@@ -9,65 +9,70 @@ udver: '2'
 This feature is universal but the values `CauInc`, `CauPass` are language-specific.
 It occurs with 4 different values: `Cau`, `CauInc`, `CauPass`, `Pass`.
 
-268 tokens (4%) have a non-empty value of `Voice`.
-193 types (10%) occur at least once with a non-empty value of `Voice`.
-146 lemmas (15%) occur at least once with a non-empty value of `Voice`.
-The feature is used with 4 part-of-speech tags: <tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt> (242; 3% instances), <tt><a href="bor_bdt-pos-PRON.html">PRON</a></tt> (13; 0% instances), <tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> (11; 0% instances), <tt><a href="bor_bdt-pos-ADV.html">ADV</a></tt> (2; 0% instances).
+4200 tokens (3%) have a non-empty value of `Voice`.
+1143 types (9%) occur at least once with a non-empty value of `Voice`.
+909 lemmas (9%) occur at least once with a non-empty value of `Voice`.
+The feature is used with 4 part-of-speech tags: <tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt> (3848; 2% instances), <tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> (316; 0% instances), <tt><a href="bor_bdt-pos-PRON.html">PRON</a></tt> (31; 0% instances), <tt><a href="bor_bdt-pos-ADV.html">ADV</a></tt> (5; 0% instances).
 
 ### `VERB`
 
-242 <tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt> tokens (17% of all `VERB` tokens) have a non-empty value of `Voice`.
+3848 <tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt> tokens (14% of all `VERB` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="bor_bdt-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (212; 88%).
+The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="bor_bdt-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (3606; 94%), <tt><a href="bor_bdt-feat-Person.html">Person</a></tt><tt>=3</tt> (1995; 52%).
 
 `VERB` tokens may have the following values of `Voice`:
 
-* `Cau` (202; 83% of non-empty `Voice`): <em>bito, pemegado, kododydo, parudo, bytydo, iado, ebito, baiado, etagedydo, iorydywado</em>
-* `CauInc` (3; 1% of non-empty `Voice`): <em>Boigodynure, iririgo, rirygodynure</em>
-* `CauPass` (24; 10% of non-empty `Voice`): <em>Maragodydodyre, akudody, badody, epadody, kododyre, Badodymodykare, Cedaiwoiadody, Inagoridody, Maragodydodykare, Maragodydodykarewu</em>
-* `Pass` (13; 5% of non-empty `Voice`): <em>Makydy, Makydyiagu, Makydykaiagu, Makydykarewu, Makydykawo, Makydymode, Makydymodykare, Makydyrewu, Makydywo, makudure</em>
-* `EMPTY` (1186): <em>akore, to, egore, makore, emagore, kabi, maky, aregodyre, bito, kowuje</em>
+* `Cau` (3675; 96% of non-empty `Voice`): <em>pemegado, kogudo, bito, pagado, kurido, butudo, etudo, pegado, kado, awadudo</em>
+* `CauInc` (9; 0% of non-empty `Voice`): <em>etaregodure, irego, imago</em>
+* `CauPass` (110; 3% of non-empty `Voice`): <em>kododure, kode, kododu, maidodu, paradodu, Tagorigodu, kadodu, braredodu, cinorudodu, pegododu</em>
+* `Pass` (54; 1% of non-empty `Voice`): <em>makudure, Kudu, Cenudu, Cere'parina'kudu, Ikudu, Inogwamagudu, 8Taerduwo, Cenogwamaguduwo, Jorduwo, Makudumode</em>
+* `EMPTY` (23209): <em>akore, egore, inagore, tugu, aregodure, maku, eture, makore, uture, bu</em>
 
-`Voice` seems to be **lexical feature** of `VERB`. 95% lemmas (126) occur only with one value of `Voice`.
+<table>
+  <tr><th>Paradigm <i>kado</i></th><th><tt>Pass</tt></th><th><tt>Cau</tt></th><th><tt>CauPass</tt></th></tr>
+  <tr><td><tt>_</tt></td><td></td><td></td><td><em>kadodu</em></td></tr>
+  <tr><td><tt><tt><a href="bor_bdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="bor_bdt-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td><em>kado, kadoto</em></td><td><em>kadodu</em></td></tr>
+  <tr><td><tt><tt><a href="bor_bdt-feat-Purp.html">Purp</a></tt><tt>=Yes</tt></tt></td><td><em>kadoduwo</em></td><td></td><td></td></tr>
+</table>
 
-### `PRON`
-
-13 <tt><a href="bor_bdt-pos-PRON.html">PRON</a></tt> tokens (2% of all `PRON` tokens) have a non-empty value of `Voice`.
-
-The most frequent other feature values with which `PRON` and `Voice` co-occurred: <tt><a href="bor_bdt-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (13; 100%), <tt><a href="bor_bdt-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (12; 92%), <tt><a href="bor_bdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9; 69%), <tt><a href="bor_bdt-feat-Person.html">Person</a></tt><tt>=3</tt> (8; 62%), <tt><a href="bor_bdt-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (8; 62%).
-
-`PRON` tokens may have the following values of `Voice`:
-
-* `Cau` (13; 100% of non-empty `Voice`): <em>udo, ado, edo, Tado, ido, pado, tywo, ure</em>
-* `EMPTY` (586): <em>ure, ere, imi, awo, ire, imode, are, ukare, inure, pamode</em>
+`Voice` seems to be **lexical feature** of `VERB`. 99% lemmas (828) occur only with one value of `Voice`.
 
 ### `NOUN`
 
-11 <tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> tokens (1% of all `NOUN` tokens) have a non-empty value of `Voice`.
+316 <tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> tokens (1% of all `NOUN` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `NOUN` and `Voice` co-occurred: <tt><a href="bor_bdt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (8; 73%), <tt><a href="bor_bdt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (7; 64%).
+The most frequent other feature values with which `NOUN` and `Voice` co-occurred: <tt><a href="bor_bdt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (216; 68%), <tt><a href="bor_bdt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (216; 68%).
 
 `NOUN` tokens may have the following values of `Voice`:
 
-* `Cau` (8; 73% of non-empty `Voice`): <em>codo, kurido, kurodo, kurudo, mototody, akeragu, etupegago, ibaidogedo</em>
-* `CauPass` (3; 27% of non-empty `Voice`): <em>rodody, aogwadodyrewy, itaiwodody</em>
-* `EMPTY` (1816): <em>boe, kuiada, karo, pobo, imedy, aroe, bai, baru, areme, iere</em>
+* `Cau` (230; 73% of non-empty `Voice`): <em>Aredo, boedo, emago, erego, edo, marido, redo, kuido, epemegago, kurido</em>
+* `CauPass` (86; 27% of non-empty `Voice`): <em>kododu, uruguiadodu, amirewu, kadodu, rerudodu, itorodu, pegadodu, porododu, urugudodu, aogejewu</em>
+* `EMPTY` (36235): <em>boe, aroe, Jesus, Pao, du, moto, pemegarewu, rogu, imedu, tugeragu</em>
 
-`Voice` seems to be **lexical feature** of `NOUN`. 100% lemmas (11) occur only with one value of `Voice`.
+<table>
+  <tr><th>Paradigm <i>mori</i></th><th><tt>Cau</tt></th><th><tt>CauPass</tt></th></tr>
+  <tr><td><tt></tt></td><td><em>morido</em></td><td><em>moridodu</em></td></tr>
+</table>
+
+`Voice` seems to be **lexical feature** of `NOUN`. 97% lemmas (121) occur only with one value of `Voice`.
+
+### `PRON`
+
+31 <tt><a href="bor_bdt-pos-PRON.html">PRON</a></tt> tokens (0% of all `PRON` tokens) have a non-empty value of `Voice`.
+
+The most frequent other feature values with which `PRON` and `Voice` co-occurred: <tt><a href="bor_bdt-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (31; 100%), <tt><a href="bor_bdt-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (31; 100%), <tt><a href="bor_bdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (28; 90%), <tt><a href="bor_bdt-feat-Person.html">Person</a></tt><tt>=3</tt> (16; 52%).
+
+`PRON` tokens may have the following values of `Voice`:
+
+* `Cau` (31; 100% of non-empty `Voice`): <em>udo, ado, pado, Tado</em>
+* `EMPTY` (9028): <em>ure, ere, ire, cere, umode, ema, pui, imode, tuwo, imi</em>
 
 ### `ADV`
 
-2 <tt><a href="bor_bdt-pos-ADV.html">ADV</a></tt> tokens (0% of all `ADV` tokens) have a non-empty value of `Voice`.
-
-The most frequent other feature values with which `ADV` and `Voice` co-occurred: <tt><a href="bor_bdt-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (2; 100%).
+5 <tt><a href="bor_bdt-pos-ADV.html">ADV</a></tt> tokens (0% of all `ADV` tokens) have a non-empty value of `Voice`.
 
 `ADV` tokens may have the following values of `Voice`:
 
-* `Cau` (2; 100% of non-empty `Voice`): <em>pemegado</em>
-* `EMPTY` (679): <em>icare, pugeje, oino, ty, toro, Dykeje, oinore, woe, mato, jii</em>
-
-## Relations with Agreement in `Voice`
-
-The 10 most frequent relations where parent and child node agree in `Voice`:
-<tt>NOUN --[<tt><a href="bor_bdt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1; 100%).
+* `Cau` (5; 100% of non-empty `Voice`): <em>kogado, brigado, obrigado, ukigado</em>
+* `EMPTY` (20503): <em>icare, pugeje, tu, jamedu, oino, toro, du, rugadu, je, jii</em>
 

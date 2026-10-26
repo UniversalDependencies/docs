@@ -23,7 +23,7 @@ The most frequent other feature values with which `PRON` and `Poss` co-occurred:
 `PRON` tokens may have the following values of `Poss`:
 
 * `Yes` (1505; 100% of non-empty `Poss`): <em>си, му, ни, й, им, ми, ви, ти</em>
-* `EMPTY` (8589): <em>се, това, той, които, го, те, си, който, тя, която</em>
+* `EMPTY` (8590): <em>се, това, той, които, го, те, си, който, тя, която</em>
 
 ### `DET`
 
@@ -34,7 +34,7 @@ The most frequent other feature values with which `DET` and `Poss` co-occurred: 
 `DET` tokens may have the following values of `Poss`:
 
 * `Yes` (512; 100% of non-empty `Poss`): <em>нашите, своите, своя, нашата, техните, наши, неговата, своята, своето, тяхното</em>
-* `EMPTY` (1921): <em>тази, този, тези, това, всички, един, какво, една, всеки, всяка</em>
+* `EMPTY` (1920): <em>тази, този, тези, това, всички, един, какво, една, всеки, всяка</em>
 
 ## Relations with Agreement in `Poss`
 

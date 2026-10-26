@@ -23,7 +23,7 @@ The most frequent other feature values with which `AUX` and `Polarity` co-occurr
 `AUX` tokens may have the following values of `Polarity`:
 
 * `Neg` (16; 100% of non-empty `Polarity`): <em>ei, emmogo, En</em>
-* `EMPTY` (54): <em>oli, on, ollah, voibi, ei, ole, olen, pidää, Ongo, olis</em>
+* `EMPTY` (53): <em>oli, on, ollah, voibi, ei, ole, olen, pidää, Ongo, olis</em>
 
 ### `CCONJ`
 

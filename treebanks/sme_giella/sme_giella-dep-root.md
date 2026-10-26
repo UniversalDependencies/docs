@@ -11,7 +11,7 @@ This relation is universal.
 3122 nodes (12%) are attached to their parents as `root`.
 
 3122 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.31710442024343.
+Average distance between parent and child is 3.31742472773863.
 
 The following 6 pairs of parts of speech are connected with `root`: -<tt><a href="sme_giella-pos-VERB.html">VERB</a></tt> (2603; 83% instances), -<tt><a href="sme_giella-pos-NOUN.html">NOUN</a></tt> (249; 8% instances), -<tt><a href="sme_giella-pos-ADJ.html">ADJ</a></tt> (231; 7% instances), -<tt><a href="sme_giella-pos-PRON.html">PRON</a></tt> (20; 1% instances), -<tt><a href="sme_giella-pos-PROPN.html">PROPN</a></tt> (15; 0% instances), -<tt><a href="sme_giella-pos-NUM.html">NUM</a></tt> (4; 0% instances).
 

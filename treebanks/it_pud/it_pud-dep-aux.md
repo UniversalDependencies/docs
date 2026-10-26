@@ -26,11 +26,11 @@ The following 7 pairs of parts of speech are connected with `aux`: <tt><a href="
 1	In	in	ADP	IN	_	2	case	_	_
 2	precedenza	precedenza	NOUN	NN	Gender=Fem|Number=Sing	7	obl	_	_
 3	solo	solo	ADV	RB	_	5	advmod	_	_
-4	i	il	DET	DT	Gender=Masc|Number=Plur	5	det	_	_
+4	i	il	DET	DT	Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
 5	blogger	blogger	NOUN	NN	Gender=Masc|Number=Plur	7	nsubj	_	_
 6	avevano	avere	AUX	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|Voice=Act	7	aux	_	_
 7	visto	vedere	VERB	VBN	Tense=Past	0	root	_	_
-8	i	il	DET	DT	Gender=Masc|Number=Plur	9	det	_	_
+8	i	il	DET	DT	Gender=Masc|Number=Plur|PronType=Art	9	det	_	_
 9	jet	jet	NOUN	NN	Gender=Masc|Number=Plur	7	obj	_	SpaceAfter=No
 10	.	.	PUNCT	.	_	7	punct	_	_
 
@@ -43,7 +43,7 @@ The following 7 pairs of parts of speech are connected with `aux`: <tt><a href="
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 4 aux	color:blue
-1	Il	il	DET	DT	Gender=Masc|Number=Sing	3	det	_	_
+1	Il	il	DET	DT	Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
 2	suo	suo	PRON	DTP$	Gender=Masc|Number=Sing|Number[psor]=Sing|Person=3|PronType=Prs	3	det:poss	_	_
 3	gioco	gioco	NOUN	NN	Gender=Masc|Number=Sing	6	nsubj	_	_
 4	può	potere	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	6	aux	_	_
@@ -66,11 +66,11 @@ The following 7 pairs of parts of speech are connected with `aux`: <tt><a href="
 # visual-style 15	fgColor:white
 # visual-style 15 11 aux	color:blue
 1	Da	da	ADP	IN	Gender=Masc|Number=Plur	3	case	_	_
-2	gli	il	DET	DT	Gender=Masc|Number=Plur	3	det	_	_
+2	gli	il	DET	DT	Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
 3	anni	anno	NOUN	NN	Gender=Masc|Number=Plur	15	obl	_	_
 4	'60	'60	NUM	CD	_	3	nmod	_	SpaceAfter=No
 5	,	,	PUNCT	,	_	3	punct	_	_
-6	l'	il	DET	DT	Gender=Fem|Number=Sing	7	det	_	SpaceAfter=No
+6	l'	il	DET	DT	Gender=Fem|Number=Sing|PronType=Art	7	det	_	SpaceAfter=No
 7	economia	economia	NOUN	NN	Gender=Fem|Number=Sing	15	nsubj	_	_
 8	di	di	ADP	IN	_	10	case	_	_
 9	la	il	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_

@@ -25,7 +25,7 @@ The following 11 pairs of parts of speech are connected with `punct`: <tt><a hre
 1	Banyak	banyak	DET	DT	Number=Plur|PronType=Ind	2	det	_	_
 2	olahragawan	olahragawan	NOUN	NN	Number=Sing	4	nsubj	_	_
 3	terkenal	kenal	ADJ	JJ	_	2	amod	_	_
-4	melakukan	laku	VERB	VB	Mood=Ind|Voice=Act	0	root	_	_
+4	melakukan	laku	VERB	VB	Voice=Act	0	root	_	_
 5	nya	nya	PRON	PRP	Number=Sing|Person=3|PronType=Prs	4	obj	_	_
 6	.	.	PUNCT	.	_	4	punct	_	_
 
@@ -40,7 +40,7 @@ The following 11 pairs of parts of speech are connected with `punct`: <tt><a hre
 # visual-style 5 7 punct	color:blue
 1	Baru	baru	ADV	RB	_	3	advmod	_	_
 2	kemudian	kemudian	ADV	RB	_	3	advmod	_	_
-3	berturut-turut	turut	VERB	VB	Mood=Ind|Voice=Act	0	root	_	_
+3	berturut-turut	turut	VERB	VB	Voice=Act	0	root	_	_
 4	dengan	dengan	ADP	IN	_	5	case	_	_
 5	Malaysia	Malaysia	PROPN	NNP	_	3	obl	_	_
 6	2005	2005	NUM	CD	NumType=Card	5	nummod	_	SpaceAfter=No
@@ -64,7 +64,7 @@ The following 11 pairs of parts of speech are connected with `punct`: <tt><a hre
 2	,	,	PUNCT	,	_	3	punct	_	_
 3	panutan	panutan	NOUN	NN	Number=Sing	1	conj	_	_
 4	dan	dan	CCONJ	CC	_	5	cc	_	_
-5	merokok	rokok	VERB	VB	Mood=Ind|Voice=Act	1	conj	_	_
+5	merokok	rokok	VERB	VB	Voice=Act	1	conj	_	_
 
 ~~~
 

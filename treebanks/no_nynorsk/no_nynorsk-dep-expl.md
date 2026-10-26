@@ -31,7 +31,7 @@ The following 11 pairs of parts of speech are connected with `expl`: <tt><a href
 7	og	og	CCONJ	konj	_	10	cc	_	_
 8	den	den	PRON	pron	Gender=Fem,Masc|Person=3|PronType=Prs	10	nsubj:pass	_	_
 9	vert	verte	AUX	verb	Mood=Ind|Tense=Pres|VerbForm=Fin	10	aux:pass	_	_
-10	brukt	bruke	ADJ	adj	Definite=Ind|Gender=Fem,Masc|VerbForm=Part	4	conj	_	_
+10	brukt	bruke	ADJ	adj	Definite=Ind|Gender=Com|VerbForm=Part	4	conj	_	_
 11	rett	rett	ADJ	adj	Definite=Ind|Degree=Pos|Gender=Neut	10	advmod	_	_
 12	som	som	SCONJ	sbu	_	14	mark	_	_
 13	det	det	PRON	pron	Gender=Neut|Person=3|PronType=Prs	14	expl	_	_

@@ -63,7 +63,7 @@ The following 2 pairs of parts of speech are connected with `nummod:gov`: <tt><a
 18	panaudota	panaudoti	VERB	vksm.dlv.neveik.būt.mot.vns.V.	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Pass	2	advcl	2:advcl:kad	_
 19	nė	nė	PRON	sampl.įv.mot.vns.V.	Case=Nom|Definite=Ind|Gender=Fem|Hyph=Yes|Number=Sing|PronType=Ind	21	nmod	21:nmod:nom	_
 20	viena	vienas	X	tęs.	Hyph=Yes	19	nmod	19:nmod	_
-21	knyga	knyga	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	18	nsubj	18:nsubj	SpaceAfter=No
+21	knyga	knyga	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	18	dep	18:dep	SpaceAfter=No
 22	,	,	PUNCT	skyr.	_	18	punct	18:punct	_
 23	būtų	būti	AUX	vksm.asm.tar.3.	Mood=Cnd|Person=3|Polarity=Pos|VerbForm=Fin	24	cop	24:cop	_
 24	nekorektiška	nekorektiškas	ADJ	bdv.nelygin.bev.	Definite=Ind|Degree=Pos|Gender=Neut	0	root	0:root	SpaceAfter=No

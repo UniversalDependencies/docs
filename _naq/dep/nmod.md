@@ -11,11 +11,11 @@ The `nmod` relation is used for nominal dependents of another noun or noun phras
 Marias ǃoagu sunub \n Maria opposite side
 nmod(sanub, Marias)
 case(Marias, ǃoagu)
-nmod(side, Maria)
+nmod(side, Marias)
 case(Maria, opposite)
 ~~~
 
-For nominal modifiers representing possession, both with and without possessive [postposition](naq-pos/ADP) _di_, the subtype [nmod:poss](naq-dep/nmod-poss) is used.
+For nominal modifiers representing possession, both with and without possessive [postposition](naq-pos/ADP) _di_, the subtype [nmod:poss]() is used.
 
 ~~~ sdparse
 Amob (di) ǂkhanis \n Amos ('s) book
@@ -24,3 +24,4 @@ case(Amob, (di))
 nmod:poss(book, Amos)
 case(Amos, ('s))
 ~~~
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:16 CEST -->

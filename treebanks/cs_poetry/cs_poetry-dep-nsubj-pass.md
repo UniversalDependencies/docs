@@ -45,8 +45,8 @@ The following 3 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 5	rytíř	rytíř	NOUN	NNMS1-----A----	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
 6	dostává	dostávat	VERB	VB-S---3P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	_
 7	co	co	PRON	PQ--4----------	Animacy=Inan|Case=Acc|PronType=Int	6	obj	_	_
-8	pro	pro	ADP	RR--4----------	AdpType=Prep|Case=Acc	7	fixed	_	_
-9	to	ten	DET	PDNS4----------	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	7	fixed	_	SpaceAfter=No
+8	pro	pro	ADP	RR--4----------	AdpType=Prep|Case=Acc	9	case	_	_
+9	to	ten	DET	PDNS4----------	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	7	nmod	_	SpaceAfter=No
 10	.	.	PUNCT	Z:-------------	_	3	punct	_	_
 
 ~~~

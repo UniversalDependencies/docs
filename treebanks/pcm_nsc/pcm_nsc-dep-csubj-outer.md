@@ -28,13 +28,13 @@ The following 1 pairs of parts of speech are connected with `csubj:outer`: <tt><
 4	am	am	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	3	obj	_	AlignBegin=289870|AlignEnd=289950|Gloss=ACC.SG.3
 5	be	be	AUX	_	PartType=Cop	10	cop	_	AlignBegin=289950|AlignEnd=290050|Gloss=be
 6	sey	sey	SCONJ	_	_	10	mark	_	AlignBegin=290050|AlignEnd=290190|Gloss=COMP
-7	[	[	X	_	_	10	dep	_	AlignBegin=290190|AlignEnd=290190|Gloss=PUNCT
+7	[	[	PUNCT	_	_	10	punct	_	AlignBegin=290190|AlignEnd=290190|Gloss=PUNCT
 8	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	AlignBegin=290190|AlignEnd=290280|Gloss=NOM.SG.1
 9	don	don	AUX	_	Aspect=Perf	10	aux	_	AlignBegin=290280|AlignEnd=290390|Gloss=PRF
 10	wrap	wrap	VERB	_	_	0	root	_	AlignBegin=290390|AlignEnd=290620|Gloss=wrap
 11	am	am	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	10	obj	_	AlignBegin=290620|AlignEnd=290810|Gloss=ACC.SG.3
-12	]	]	X	_	_	10	dep	_	AlignBegin=290810|AlignEnd=290810|Gloss=PUNCT
-13	//	//	X	_	_	10	dep	_	AlignBegin=290780|AlignEnd=290810|Gloss=PUNCT
+12	]	]	PUNCT	_	_	10	punct	_	AlignBegin=290810|AlignEnd=290810|Gloss=PUNCT
+13	//	//	PUNCT	_	_	10	punct	_	AlignBegin=290780|AlignEnd=290810|Gloss=PUNCT
 
 ~~~
 

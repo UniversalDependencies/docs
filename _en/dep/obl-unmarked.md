@@ -60,4 +60,4 @@ obl:unmarked(significant, itself)
 and (v) certain other absolutive nominal constructions.
 
 **History:** Prior to release 2.15, temporal adverbials (see (i)) had a separate subtype called [obl:tmod](), and [obl:npmod]() was used for the non-temporal ones.
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:11:22 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:37 CEST -->

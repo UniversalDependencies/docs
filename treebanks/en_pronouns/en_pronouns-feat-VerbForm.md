@@ -12,17 +12,17 @@ It occurs with 4 different values: `Fin`, `Ger`, `Inf`, `Part`.
 375 tokens (22%) have a non-empty value of `VerbForm`.
 34 types (44%) occur at least once with a non-empty value of `VerbForm`.
 24 lemmas (38%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 2 part-of-speech tags: <tt><a href="en_pronouns-pos-VERB.html">VERB</a></tt> (265; 16% instances), <tt><a href="en_pronouns-pos-AUX.html">AUX</a></tt> (110; 6% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="en_pronouns-pos-VERB.html">VERB</a></tt> (260; 15% instances), <tt><a href="en_pronouns-pos-AUX.html">AUX</a></tt> (115; 7% instances).
 
 ### `VERB`
 
-265 <tt><a href="en_pronouns-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
+260 <tt><a href="en_pronouns-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="en_pronouns-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (200; 75%), <tt><a href="en_pronouns-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (175; 66%), <tt><a href="en_pronouns-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (140; 53%), <tt><a href="en_pronouns-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (135; 51%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="en_pronouns-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (195; 75%), <tt><a href="en_pronouns-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (175; 67%), <tt><a href="en_pronouns-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (140; 54%), <tt><a href="en_pronouns-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (135; 52%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
-* `Fin` (210; 79% of non-empty `VerbForm`): <em>cleaned, like, drove, sold, gave, is, knew, liked, Take, accelerated</em>
+* `Fin` (205; 79% of non-empty `VerbForm`): <em>cleaned, like, drove, sold, gave, knew, liked, Take, accelerated, broke</em>
 * `Ger` (5; 2% of non-empty `VerbForm`): <em>using</em>
 * `Inf` (5; 2% of non-empty `VerbForm`): <em>clean</em>
 * `Part` (45; 17% of non-empty `VerbForm`): <em>cleaned, seeing, cleaning, painted</em>
@@ -41,13 +41,13 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 
 ### `AUX`
 
-110 <tt><a href="en_pronouns-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `VerbForm`.
+115 <tt><a href="en_pronouns-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="en_pronouns-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (105; 95%), <tt><a href="en_pronouns-feat-Number.html">Number</a></tt><tt>=Sing</tt> (105; 95%), <tt><a href="en_pronouns-feat-Person.html">Person</a></tt><tt>=3</tt> (91; 83%), <tt><a href="en_pronouns-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (80; 73%).
+The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="en_pronouns-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (110; 96%), <tt><a href="en_pronouns-feat-Number.html">Number</a></tt><tt>=Sing</tt> (110; 96%), <tt><a href="en_pronouns-feat-Person.html">Person</a></tt><tt>=3</tt> (96; 83%), <tt><a href="en_pronouns-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (85; 74%).
 
 `AUX` tokens may have the following values of `VerbForm`:
 
-* `Fin` (110; 100% of non-empty `VerbForm`): <em>'s, is, was, 'll, ai</em>
+* `Fin` (115; 100% of non-empty `VerbForm`): <em>'s, is, was, 'll, ai</em>
 
 ## Relations with Agreement in `VerbForm`
 

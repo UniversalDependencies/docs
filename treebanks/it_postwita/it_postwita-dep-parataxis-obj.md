@@ -51,8 +51,8 @@ The following 7 pairs of parts of speech are connected with `parataxis:obj`: <tt
 4	ALIENO	alieno	NOUN	S	Gender=Masc|Number=Sing	1	appos	_	SpaceAfter=No
 5	:	:	PUNCT	FC	_	4	punct	_	_
 6	GODETE	godere	VERB	V	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
-7	VE	ve	PRON	PC	Clitic=Yes|Number=Plur|Person=2|PronType=Prs	6	iobj	_	_
-8	LO	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obj	_	_
+7	VE	ve	PRON	PC	Number=Plur|Person=2|PronType=Prs	6	iobj	_	Clitic=Yes
+8	LO	lo	PRON	PC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obj	_	Clitic=Yes
 9	ANCORA	ancora	ADV	B	_	6	advmod	_	_
 10	PER	per	ADP	E	_	11	case	_	_
 11	POCO	poco	ADV	B	_	6	advmod	_	_

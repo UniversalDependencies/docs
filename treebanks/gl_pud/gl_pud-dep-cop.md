@@ -26,7 +26,7 @@ The following 8 pairs of parts of speech are connected with `cop`: <tt><a href="
 2	como	como	ADP	SP	_	4	case	_	_
 3	un	un	DET	DI0MS0	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
 4	superpoder	superpoder	NOUN	NCMS000	Gender=Masc|Number=Sing	0	root	_	_
-5	a	a	ADP	SP	AdpType=Prep	4	obl	_	_
+5	a	a	ADP	SP	AdpType=Prep|ExtPos=ADV	4	obl	_	_
 6	as	o	DET	DA0FP0	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	fixed	_	_
 7	veces	vez	NOUN	NCFP000	Gender=Fem|Number=Plur	5	fixed	_	SpaceAfter=No
 8	.	.	PUNCT	Fp	_	4	punct	_	_
@@ -40,7 +40,7 @@ The following 8 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 7 cop	color:blue
-1	Se	se	SCONJ	CS	_	9	advmod	_	_
+1	Se	se	SCONJ	CS	ExtPos=ADV	9	advmod	_	_
 2	cadra	cadrar	VERB	VMIP3S0	Mood=Ind|Number=Sing|Person=3|Tense=Pres	1	fixed	_	_
 3	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
 4	código	código	NOUN	NCMS000	Gender=Masc|Number=Sing	9	nsubj	_	_

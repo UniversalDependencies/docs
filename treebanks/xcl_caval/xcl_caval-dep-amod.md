@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-838 nodes (1%) are attached to their parents as `amod`.
+1240 nodes (1%) are attached to their parents as `amod`.
 
-485 instances of `amod` (58%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.5799522673031.
+621 instances of `amod` (50%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.70403225806452.
 
-The following 20 pairs of parts of speech are connected with `amod`: <tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt> (697; 83% instances), <tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt> (44; 5% instances), <tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt>-<tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt> (25; 3% instances), <tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt>-<tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt> (24; 3% instances), <tt><a href="xcl_caval-pos-PROPN.html">PROPN</a></tt>-<tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt> (17; 2% instances), <tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt> (8; 1% instances), <tt><a href="xcl_caval-pos-NUM.html">NUM</a></tt>-<tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt> (5; 1% instances), <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xcl_caval-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt>-<tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt>-<tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt>-<tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="xcl_caval-pos-DET.html">DET</a></tt>-<tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xcl_caval-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xcl_caval-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="xcl_caval-pos-NUM.html">NUM</a></tt>-<tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt>-<tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt>-<tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The following 25 pairs of parts of speech are connected with `amod`: <tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt> (990; 80% instances), <tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt> (59; 5% instances), <tt><a href="xcl_caval-pos-PROPN.html">PROPN</a></tt>-<tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt> (43; 3% instances), <tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt>-<tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt> (42; 3% instances), <tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt>-<tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt> (40; 3% instances), <tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt> (19; 2% instances), <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt> (12; 1% instances), <tt><a href="xcl_caval-pos-NUM.html">NUM</a></tt>-<tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt> (6; 0% instances), <tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xcl_caval-pos-PROPN.html">PROPN</a></tt> (4; 0% instances), <tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt>-<tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="xcl_caval-pos-DET.html">DET</a></tt>-<tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xcl_caval-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt>-<tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="xcl_caval-pos-PROPN.html">PROPN</a></tt>-<tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt>-<tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt>-<tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xcl_caval-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xcl_caval-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xcl_caval-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="xcl_caval-pos-NUM.html">NUM</a></tt>-<tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt>-<tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt>-<tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="xcl_caval-pos-PROPN.html">PROPN</a></tt>-<tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -24,7 +24,7 @@ The following 20 pairs of parts of speech are connected with `amod`: <tt><a href
 # visual-style 7 8 amod	color:blue
 1	ամենայն	ամենայն	DET	_	Case=Nom|Number=Sing|PronType=Tot	2	det	_	Translit=amenayn|LTranslit=amenayn|Gloss=all
 2	ծառ	ծառ	NOUN	_	Case=Nom|Number=Sing	10	nsubj:pass	_	Translit=caṙ|LTranslit=caṙ|Gloss=tree
-3	որ	որ	PRON	_	Case=Nom|Number=Sing|PronType=Rel	5	nsubj	_	Translit=or|LTranslit=or|Gloss=which
+3	որ	որ	PRON	_	Case=Nom|Number=Sing|PronType=Rel	5	nsubj	_	Translit=or|LTranslit=or|Gloss=who
 4	ոչ	ոչ	PART	_	Polarity=Neg	5	advmod	_	Translit=očʻ|LTranslit=očʻ|Gloss=not
 5	առնիցէ	առնել	VERB	_	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	2	acl	_	Translit=aṙnicʻē|LTranslit=aṙnel|Gloss=make
 6	զ	զ	ADP	_	Definite=Def	7	case	_	SpaceAfter=No|Translit=z|LTranslit=z
@@ -53,9 +53,8 @@ The following 20 pairs of parts of speech are connected with `amod`: <tt><a href
 4	անգիր	անգիր	ADJ	_	Case=Nom|Number=Sing	7	amod	_	Translit=angir|LTranslit=angir|Gloss=unwritten
 5	հին	հին	ADJ	_	Case=Acc|Number=Sing	7	amod	_	Translit=hin|LTranslit=hin|Gloss=old
 6	ասացեալ	ասել	VERB	_	Case=Nom|Number=Sing|Tense=Past|VerbForm=Part	7	amod	_	Translit=asacʻeal|LTranslit=asel|Gloss=say
-7	զրոյց	զրոյց	NOUN	_	Case=Acc|Number=Plur	2	obj	_	SpaceAfter=No|Translit=zroycʻ|LTranslit=zroycʻ|Gloss=conversation
-8	ս	ս	DET	_	Definite=Def|Deixis=Prox|PronType=Art	7	det	_	SpaceAfter=No|Translit=s|LTranslit=s|Gloss=this
-9	:	:	PUNCT	_	_	2	punct	_	Translit=.|LTranslit=.
+7	զրոյցս	զրոյց	NOUN	_	Case=Acc|Number=Plur	2	obj	_	SpaceAfter=No|Translit=zroycʻs|LTranslit=zroycʻ|Gloss=conversation
+8	:	:	PUNCT	_	_	2	punct	_	Translit=.|LTranslit=.
 
 ~~~
 
@@ -63,19 +62,18 @@ The following 20 pairs of parts of speech are connected with `amod`: <tt><a href
 ~~~ conllu
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 7 amod	color:blue
-1	Յայնժամ	յայնժամ	ADV	_	_	2	advmod	_	Translit=Yaynžam|LTranslit=yaynžam|Gloss=then
-2	մատուցաւ	մատուցանել	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=CauPass	0	root	_	Translit=matowcʻaw|LTranslit=matowcʻanel|Gloss=offer
-3	առ	առ	ADP	_	_	4	case	_	Translit=aṙ|LTranslit=aṙ|Gloss=by
-4	նա	նա	PRON	_	Case=Acc|Deixis=Remt|Number=Sing|PronType=Dem	2	obl	_	Translit=na|LTranslit=na|Gloss=he/she/it/that
-5	դիւահար	դիւահար	ADJ	_	Case=Nom|Number=Sing	2	nsubj:pass	_	Translit=diwahar|LTranslit=diwahar|Gloss=possessed
-6	մի	մի	DET	_	Case=Nom|Definite=Spec|Number=Sing	5	det	_	Translit=mi|LTranslit=mi|Gloss=certain
-7	կոյր	կոյր	ADJ	_	Case=Nom|Number=Sing	5	amod	_	Translit=koyr|LTranslit=koyr|Gloss=blind
-8	եւ	եւ	CCONJ	_	_	9	cc	_	Translit=ew|LTranslit=ew|Gloss=and
-9	համր	համր	ADJ	_	Case=Nom|Number=Sing	7	conj	_	SpaceAfter=No|Translit=hamr|LTranslit=hamr|Gloss=dumb
-10	.	.	PUNCT	_	_	2	punct	_	Translit=:|LTranslit=:
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 7 amod	color:blue
+1	անդ	անդ	ADV	_	Deixis=Remt|PronType=Dem	0	root	_	Translit=and|LTranslit=and|Gloss=there
+2	էր	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	cop	_	Translit=ēr|LTranslit=em|Gloss=be
+3	Մարիամ	Մարիամ	PROPN	_	Case=Nom|Number=Sing	1	nsubj	_	Translit=Mariam|LTranslit=Mariam|Gloss=Mariam
+4	Մակդաղէնացի	Մակդաղէնացի	PROPN	_	Case=Nom|Number=Sing	3	flat	_	SpaceAfter=No|Translit=Makdałēnacʻi|LTranslit=Makdałēnacʻi|Gloss=Makdałēnacʻi
+5	,	,	PUNCT	_	_	8	punct	_	Translit=,|LTranslit=,
+6	եւ	եւ	CCONJ	_	_	8	cc	_	Translit=ew|LTranslit=ew|Gloss=and
+7	միւս	միւս	ADJ	_	Case=Nom|Number=Sing	8	amod	_	Translit=miws|LTranslit=miws|Gloss=the_other
+8	Մարիամ	Մարիամ	PROPN	_	Case=Nom|Number=Sing	3	conj	_	SpaceAfter=No|Translit=Mariam|LTranslit=Mariam|Gloss=Mariam
+9	ն	ն	DET	_	Definite=Def|Deixis=Remt|PronType=Art	8	det	_	Translit=n|LTranslit=n|Gloss=that
 
 ~~~
 

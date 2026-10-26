@@ -69,7 +69,7 @@ The following 6 pairs of parts of speech are connected with `det`: <tt><a href="
 7	30.	30.	ADJ	.	Case=Dat|Gender=Masc|Number=Sing|NumType=Ord	8	amod	_	InflectionType=Weak
 8	April	April	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing	4	obl:tmod	_	_
 9	1955	1955	NUM	CD	NumType=Card	8	nummod	_	_
-10	statt	statt	VERB	DC	_	4	compound:prt	_	SpaceAfter=No
+10	statt	statt	ADP	DC	_	4	compound:prt	_	SpaceAfter=No
 11	.	.	PUNCT	.	_	4	punct	_	_
 
 ~~~

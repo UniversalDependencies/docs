@@ -16,11 +16,11 @@ Family: IE
 
 This treebank has been part of Universal Dependencies since the UD v1.1 release.
 
-The following people have contributed to making this treebank part of UD: Kiril Simov, Petya Osenova, Martin Popel.
+The following people have contributed to making this treebank part of UD: Kiril Simov, Petya Osenova, Martin Popel, Daniel Zeman.
 
 Repository: [UD_Bulgarian-BTB](https://github.com/UniversalDependencies/UD_Bulgarian-BTB)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udbg_btb215)<br />
-Download all treebanks: [UD 2.15](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udbg_btb218)<br />
+Download all treebanks: [UD 2.18](/#download)
 
 License: CC BY-NC-SA 3.0
 
@@ -88,7 +88,7 @@ We also would like to thank our annotator and validator to the treebank UD versi
 
 ## Features
 
-[Animacy](bg_btb-feat-Animacy.html) – [Aspect](bg_btb-feat-Aspect.html) – [Case](bg_btb-feat-Case.html) – [Definite](bg_btb-feat-Definite.html) – [Degree](bg_btb-feat-Degree.html) – [Foreign](bg_btb-feat-Foreign.html) – [Gender](bg_btb-feat-Gender.html) – [Mood](bg_btb-feat-Mood.html) – [Number](bg_btb-feat-Number.html) – [NumType](bg_btb-feat-NumType.html) – [Person](bg_btb-feat-Person.html) – [Polarity](bg_btb-feat-Polarity.html) – [Poss](bg_btb-feat-Poss.html) – [PronType](bg_btb-feat-PronType.html) – [Reflex](bg_btb-feat-Reflex.html) – [Tense](bg_btb-feat-Tense.html) – [VerbForm](bg_btb-feat-VerbForm.html) – [Voice](bg_btb-feat-Voice.html)
+[Animacy](bg_btb-feat-Animacy.html) – [Aspect](bg_btb-feat-Aspect.html) – [Case](bg_btb-feat-Case.html) – [Definite](bg_btb-feat-Definite.html) – [Degree](bg_btb-feat-Degree.html) – [ExtPos](bg_btb-feat-ExtPos.html) – [Foreign](bg_btb-feat-Foreign.html) – [Gender](bg_btb-feat-Gender.html) – [Mood](bg_btb-feat-Mood.html) – [Number](bg_btb-feat-Number.html) – [NumType](bg_btb-feat-NumType.html) – [Person](bg_btb-feat-Person.html) – [Polarity](bg_btb-feat-Polarity.html) – [Poss](bg_btb-feat-Poss.html) – [PronType](bg_btb-feat-PronType.html) – [Reflex](bg_btb-feat-Reflex.html) – [Tense](bg_btb-feat-Tense.html) – [VerbForm](bg_btb-feat-VerbForm.html) – [Voice](bg_btb-feat-Voice.html)
 
 ## Relations
 
@@ -402,7 +402,7 @@ We also would like to thank our annotator and validator to the treebank UD versi
     <ul>
       <li>ADJ: други, народното, българската, нова, другите, нови, европейската, последните, 2001, друг</li>
       <li>ADJ-Part: миналата, следващата, въоръжените, останалите, свързани, миналия, управляващите, определени, следващите, следващия</li>
-      <li>ADV: още, вчера, само, вече, обаче, сега, много, все, днес, също</li>
+      <li>ADV: още, вчера, само, вече, обаче, сега, много, днес, все, също</li>
       <li>PROPN: Велико, Стара, Косовска, Нови, Голяма, Камен, Малко, Нова, Южен, Южна</li>
       <li>VERB-Part: Уволнените, останалите, отличените</li>
     </ul>
@@ -564,7 +564,7 @@ We also would like to thank our annotator and validator to the treebank UD versi
 <ul>
   <li>Dem
     <ul>
-      <li>ADV: така, тук, тъй, тогава, там, толкова, иначе, оттам, нататък, оттук</li>
+      <li>ADV: така, тук, тогава, там, тъй, толкова, иначе, оттам, нататък, оттук</li>
       <li>DET: тази, този, тези, това, такива, такъв, такава, тая, тия, тоя</li>
       <li>PRON: това, Тази</li>
     </ul>
@@ -614,8 +614,8 @@ We also would like to thank our annotator and validator to the treebank UD versi
   <li>Rel
     <ul>
       <li>ADV: когато, както, където, колкото, откакто, откак, дето, доколкото, откъдето, гдето</li>
-      <li>DET: чийто, каквото, чиито, каквато, чието, който, какъвто, чиято, каквито, Която</li>
-      <li>PRON: които, който, която, което, когото, каквото, дето, що</li>
+      <li>DET: чийто, чиито, каквото, каквато, чието, който, чиято, какъвто, Която, що</li>
+      <li>PRON: които, който, която, което, каквото, когото, дето, що</li>
     </ul>
   </li>
 </ul>
@@ -722,6 +722,53 @@ We also would like to thank our annotator and validator to the treebank UD versi
 
 
 <ul>
+  <li><a>ExtPos</a>
+    <ul>
+      <li>ADP
+        <ul>
+          <li>ADP: по, в, във, за, от, с, въз, Вследствие, благодарение, независимо</li>
+          <li>ADV: заедно</li>
+          <li>NOUN: благодарение</li>
+        </ul>
+      </li>
+      <li>ADV
+        <ul>
+          <li>ADP: От, при</li>
+          <li>ADV: все, едва</li>
+          <li>SCONJ: като</li>
+          <li>VERB-Fin: може</li>
+        </ul>
+      </li>
+      <li>CCONJ
+        <ul>
+          <li>ADV: само</li>
+        </ul>
+      </li>
+      <li>DET
+        <ul>
+          <li>DET: каквито, каквото, какъвто</li>
+        </ul>
+      </li>
+      <li>PRON
+        <ul>
+          <li>PRON: себе, когото, с..., се</li>
+        </ul>
+      </li>
+      <li>SCONJ
+        <ul>
+          <li>ADP: за, след, въпреки, освен, макар, при</li>
+          <li>ADV: тъй, както, така, само, независимо</li>
+          <li>AUX: да</li>
+          <li>DET: каквото</li>
+          <li>PART: Ето</li>
+          <li>SCONJ: като, щом</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li><a>Foreign</a>
     <ul>
       <li>Yes
@@ -784,10 +831,10 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-ADP(през) (1)</li>
       <li>VERB-Fin--NOUN-ADP(с) (6)</li>
       <li>VERB-Fin--NOUN-ADP(със) (3)</li>
-      <li>VERB-Fin--PRON (17)</li>
+      <li>VERB-Fin--PRON (16)</li>
       <li>VERB-Fin--PRON-Acc (715)</li>
       <li>VERB-Fin--PRON-Acc-ADP(за) (1)</li>
-      <li>VERB-Fin--PRON-Nom (269)</li>
+      <li>VERB-Fin--PRON-Nom (268)</li>
       <li>VERB-Fin--PRON-Nom-ADP(до) (1)</li>
       <li>VERB-Part--NOUN (503)</li>
       <li>VERB-Part--NOUN-ADP(в) (2)</li>
@@ -841,7 +888,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-ADP(със) (32)</li>
       <li>VERB-Fin--NOUN-ADP(у) (1)</li>
       <li>VERB-Fin--NOUN-ADP(чрез) (1)</li>
-      <li>VERB-Fin--PRON (1)</li>
+      <li>VERB-Fin--PRON (2)</li>
       <li>VERB-Fin--PRON-Acc (3)</li>
       <li>VERB-Fin--PRON-Acc-ADP(без) (1)</li>
       <li>VERB-Fin--PRON-Acc-ADP(в) (14)</li>
@@ -866,6 +913,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--PRON-Dat (369)</li>
       <li>VERB-Fin--PRON-Dat-ADP(на) (1)</li>
       <li>VERB-Fin--PRON-Dat-ADP(подире) (3)</li>
+      <li>VERB-Fin--PRON-Nom (1)</li>
       <li>VERB-Fin--PRON-Nom-ADP(в) (16)</li>
       <li>VERB-Fin--PRON-Nom-ADP(върху) (1)</li>
       <li>VERB-Fin--PRON-Nom-ADP(до) (1)</li>

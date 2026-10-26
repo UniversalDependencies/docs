@@ -32,7 +32,13 @@ The 1st highest number of forms (1) was observed with the lemma “No”: <em>No
 
 The 2nd highest number of forms (1) was observed with the lemma “no”: <em>no</em>.
 
-`PART` does not occur with any features.
+`PART` occurs with 1 features: <tt><a href="es_ancora-feat-ExtPos.html">ExtPos</a></tt> (135; 88% instances)
+
+`PART` occurs with 3 feature-value pairs: `ExtPos=ADV`, `ExtPos=CCONJ`, `ExtPos=SCONJ`
+
+`PART` occurs with 4 feature combinations.
+The most frequent feature combination is `ExtPos=ADV` (76 tokens).
+Examples: <em>no</em>
 
 
 ## Relations

@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Yoruba-YTB: POS Tags: `NUM`
 
-There are 36 `NUM` lemmas (2%), 36 `NUM` types (2%) and 75 `NUM` tokens (1%).
+There are 39 `NUM` lemmas (2%), 39 `NUM` types (2%) and 78 `NUM` tokens (1%).
 Out of 17 observed tags, the rank of `NUM` is: 8 in number of lemmas, 8 in number of types and 14 in number of tokens.
 
 The 10 most frequent `NUM` lemmas: <em>kan, méjì, 3, 000, 2004, 2005, mẹ́rin, Ọ̀kan, 10, 1520</em>
@@ -37,7 +37,7 @@ The 10 most frequent ambiguous types:  <em>kan</em> (<tt><a href="yo_ytb-pos-NUM
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.000000 (the average of all parts of speech is 1.007344).
+The form / lemma ratio of `NUM` is 1.000000 (the average of all parts of speech is 1.007366).
 
 The 1st highest number of forms (1) was observed with the lemma “000”: <em>000</em>.
 
@@ -45,32 +45,32 @@ The 2nd highest number of forms (1) was observed with the lemma “10”: <em>10
 
 The 3rd highest number of forms (1) was observed with the lemma “1520”: <em>1520</em>.
 
-`NUM` occurs with 5 features: <tt><a href="yo_ytb-feat-NumType.html">NumType</a></tt> (74; 99% instances), <tt><a href="yo_ytb-feat-Case.html">Case</a></tt> (1; 1% instances), <tt><a href="yo_ytb-feat-Number.html">Number</a></tt> (1; 1% instances), <tt><a href="yo_ytb-feat-Person.html">Person</a></tt> (1; 1% instances), <tt><a href="yo_ytb-feat-PronType.html">PronType</a></tt> (1; 1% instances)
+`NUM` occurs with 5 features: <tt><a href="yo_ytb-feat-NumType.html">NumType</a></tt> (77; 99% instances), <tt><a href="yo_ytb-feat-Case.html">Case</a></tt> (1; 1% instances), <tt><a href="yo_ytb-feat-Number.html">Number</a></tt> (1; 1% instances), <tt><a href="yo_ytb-feat-Person.html">Person</a></tt> (1; 1% instances), <tt><a href="yo_ytb-feat-PronType.html">PronType</a></tt> (1; 1% instances)
 
 `NUM` occurs with 5 feature-value pairs: `Case=Acc`, `NumType=Card`, `Number=Sing`, `Person=1`, `PronType=Prs`
 
 `NUM` occurs with 2 feature combinations.
-The most frequent feature combination is `NumType=Card` (74 tokens).
+The most frequent feature combination is `NumType=Card` (77 tokens).
 Examples: <em>kan, méjì, 3, 000, 2004, 2005, mẹ́rin, Ọ̀kan, 10, 1520</em>
 
 
 ## Relations
 
-`NUM` nodes are attached to their parents using 10 different relations: <tt><a href="yo_ytb-dep-nmod.html">nmod</a></tt> (24; 32% instances), <tt><a href="yo_ytb-dep-nummod.html">nummod</a></tt> (24; 32% instances), <tt><a href="yo_ytb-dep-nsubj.html">nsubj</a></tt> (7; 9% instances), <tt><a href="yo_ytb-dep-conj.html">conj</a></tt> (5; 7% instances), <tt><a href="yo_ytb-dep-obl.html">obl</a></tt> (5; 7% instances), <tt><a href="yo_ytb-dep-fixed.html">fixed</a></tt> (3; 4% instances), <tt><a href="yo_ytb-dep-obj.html">obj</a></tt> (3; 4% instances), <tt><a href="yo_ytb-dep-acl.html">acl</a></tt> (2; 3% instances), <tt><a href="yo_ytb-dep-compound-svc.html">compound:svc</a></tt> (1; 1% instances), <tt><a href="yo_ytb-dep-root.html">root</a></tt> (1; 1% instances)
+`NUM` nodes are attached to their parents using 10 different relations: <tt><a href="yo_ytb-dep-nummod.html">nummod</a></tt> (27; 35% instances), <tt><a href="yo_ytb-dep-nmod.html">nmod</a></tt> (24; 31% instances), <tt><a href="yo_ytb-dep-nsubj.html">nsubj</a></tt> (7; 9% instances), <tt><a href="yo_ytb-dep-obl.html">obl</a></tt> (6; 8% instances), <tt><a href="yo_ytb-dep-conj.html">conj</a></tt> (4; 5% instances), <tt><a href="yo_ytb-dep-fixed.html">fixed</a></tt> (3; 4% instances), <tt><a href="yo_ytb-dep-obj.html">obj</a></tt> (3; 4% instances), <tt><a href="yo_ytb-dep-acl.html">acl</a></tt> (2; 3% instances), <tt><a href="yo_ytb-dep-compound-svc.html">compound:svc</a></tt> (1; 1% instances), <tt><a href="yo_ytb-dep-root.html">root</a></tt> (1; 1% instances)
 
-Parents of `NUM` nodes belong to 6 different parts of speech: <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (50; 67% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (16; 21% instances), <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> (5; 7% instances), <tt><a href="yo_ytb-pos-NUM.html">NUM</a></tt> (2; 3% instances), <tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt> (1; 1% instances),  (1; 1% instances)
+Parents of `NUM` nodes belong to 6 different parts of speech: <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (52; 67% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (17; 22% instances), <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> (5; 6% instances), <tt><a href="yo_ytb-pos-NUM.html">NUM</a></tt> (2; 3% instances), <tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt> (1; 1% instances),  (1; 1% instances)
 
-51 (68%) `NUM` nodes are leaves.
+52 (67%) `NUM` nodes are leaves.
 
-15 (20%) `NUM` nodes have one child.
+17 (22%) `NUM` nodes have one child.
 
-5 (7%) `NUM` nodes have two children.
+5 (6%) `NUM` nodes have two children.
 
 4 (5%) `NUM` nodes have three or more children.
 
 The highest child degree of a `NUM` node is 6.
 
-Children of `NUM` nodes are attached using 13 different relations: <tt><a href="yo_ytb-dep-case.html">case</a></tt> (9; 21% instances), <tt><a href="yo_ytb-dep-punct.html">punct</a></tt> (7; 16% instances), <tt><a href="yo_ytb-dep-acl.html">acl</a></tt> (5; 12% instances), <tt><a href="yo_ytb-dep-nsubj.html">nsubj</a></tt> (4; 9% instances), <tt><a href="yo_ytb-dep-advmod.html">advmod</a></tt> (3; 7% instances), <tt><a href="yo_ytb-dep-conj.html">conj</a></tt> (3; 7% instances), <tt><a href="yo_ytb-dep-cc.html">cc</a></tt> (2; 5% instances), <tt><a href="yo_ytb-dep-cop.html">cop</a></tt> (2; 5% instances), <tt><a href="yo_ytb-dep-fixed.html">fixed</a></tt> (2; 5% instances), <tt><a href="yo_ytb-dep-mark.html">mark</a></tt> (2; 5% instances), <tt><a href="yo_ytb-dep-nmod.html">nmod</a></tt> (2; 5% instances), <tt><a href="yo_ytb-dep-det.html">det</a></tt> (1; 2% instances), <tt><a href="yo_ytb-dep-parataxis.html">parataxis</a></tt> (1; 2% instances)
+Children of `NUM` nodes are attached using 13 different relations: <tt><a href="yo_ytb-dep-case.html">case</a></tt> (11; 24% instances), <tt><a href="yo_ytb-dep-punct.html">punct</a></tt> (8; 18% instances), <tt><a href="yo_ytb-dep-acl.html">acl</a></tt> (5; 11% instances), <tt><a href="yo_ytb-dep-nsubj.html">nsubj</a></tt> (4; 9% instances), <tt><a href="yo_ytb-dep-advmod.html">advmod</a></tt> (3; 7% instances), <tt><a href="yo_ytb-dep-conj.html">conj</a></tt> (3; 7% instances), <tt><a href="yo_ytb-dep-cc.html">cc</a></tt> (2; 4% instances), <tt><a href="yo_ytb-dep-cop.html">cop</a></tt> (2; 4% instances), <tt><a href="yo_ytb-dep-fixed.html">fixed</a></tt> (2; 4% instances), <tt><a href="yo_ytb-dep-mark.html">mark</a></tt> (2; 4% instances), <tt><a href="yo_ytb-dep-det.html">det</a></tt> (1; 2% instances), <tt><a href="yo_ytb-dep-nmod.html">nmod</a></tt> (1; 2% instances), <tt><a href="yo_ytb-dep-parataxis.html">parataxis</a></tt> (1; 2% instances)
 
-Children of `NUM` nodes belong to 13 different parts of speech: <tt><a href="yo_ytb-pos-ADP.html">ADP</a></tt> (7; 16% instances), <tt><a href="yo_ytb-pos-PUNCT.html">PUNCT</a></tt> (7; 16% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (6; 14% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (6; 14% instances), <tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> (3; 7% instances), <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> (3; 7% instances), <tt><a href="yo_ytb-pos-AUX.html">AUX</a></tt> (2; 5% instances), <tt><a href="yo_ytb-pos-NUM.html">NUM</a></tt> (2; 5% instances), <tt><a href="yo_ytb-pos-PART.html">PART</a></tt> (2; 5% instances), <tt><a href="yo_ytb-pos-SCONJ.html">SCONJ</a></tt> (2; 5% instances), <tt><a href="yo_ytb-pos-CCONJ.html">CCONJ</a></tt> (1; 2% instances), <tt><a href="yo_ytb-pos-DET.html">DET</a></tt> (1; 2% instances), <tt><a href="yo_ytb-pos-SYM.html">SYM</a></tt> (1; 2% instances)
+Children of `NUM` nodes belong to 13 different parts of speech: <tt><a href="yo_ytb-pos-ADP.html">ADP</a></tt> (8; 18% instances), <tt><a href="yo_ytb-pos-PUNCT.html">PUNCT</a></tt> (8; 18% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (6; 13% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (5; 11% instances), <tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> (3; 7% instances), <tt><a href="yo_ytb-pos-PART.html">PART</a></tt> (3; 7% instances), <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> (3; 7% instances), <tt><a href="yo_ytb-pos-AUX.html">AUX</a></tt> (2; 4% instances), <tt><a href="yo_ytb-pos-NUM.html">NUM</a></tt> (2; 4% instances), <tt><a href="yo_ytb-pos-SCONJ.html">SCONJ</a></tt> (2; 4% instances), <tt><a href="yo_ytb-pos-CCONJ.html">CCONJ</a></tt> (1; 2% instances), <tt><a href="yo_ytb-pos-DET.html">DET</a></tt> (1; 2% instances), <tt><a href="yo_ytb-pos-SYM.html">SYM</a></tt> (1; 2% instances)
 

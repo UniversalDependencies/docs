@@ -36,7 +36,7 @@ The following 4 pairs of parts of speech are connected with `goeswith`: <tt><a h
 12	Awditur	_	NOUN	NOUN	_	10	nsubj	_	_
 13	Ġenerali	_	ADJ	ADJ	_	12	amod	_	_
 14	fil-	_	ADP	PREP_DEF	_	15	case:det	_	SpaceAfter=No
-15	follow	_	NOUN	NOUN	_	10	obl	_	_
+15	follow	_	NOUN	NOUN	Typo=Yes	10	obl	_	_
 16	up	_	X	X_ENG	_	15	goeswith	_	_
 17	li	_	SCONJ	COMP	_	19	mark	_	_
 18	kien	_	AUX	KIEN	_	19	aux	_	_
@@ -71,7 +71,7 @@ The following 4 pairs of parts of speech are connected with `goeswith`: <tt><a h
 17	aktar	_	ADV	ADV	_	15	conj	_	_
 18	meta	_	SCONJ	CONJ_SUB	_	29	mark	_	_
 19	fuq	_	ADP	PREP	_	20	case	_	_
-20	quddiem	_	ADV	ADV	_	29	advmod	_	_
+20	quddiem	_	ADV	ADV	Typo=Yes	29	advmod	_	_
 21	nett	_	X	X_BOR	_	20	goeswith	_	_
 22	fit-	_	ADP	PREP_DEF	_	23	case:det	_	SpaceAfter=No
 23	twaqqif	_	NOUN	NOUN	_	29	obl	_	_
@@ -129,7 +129,7 @@ The following 4 pairs of parts of speech are connected with `goeswith`: <tt><a h
 20	daru	_	VERB	VERB	_	19	xcomp	_	_
 21	fuqhom	_	PRON	PREP_PRON	_	20	obl:arg	_	_
 22	ta'	_	ADP	GEN	_	23	case	_	_
-23	gonzi-	_	PROPN	NOUN_PROP	_	20	nsubj	_	_
+23	gonzi-	_	PROPN	NOUN_PROP	Typo=Yes	20	nsubj	_	_
 24	pn	_	X	X_BOR	_	23	goeswith	_	_
 25	biex	_	SCONJ	CONJ_SUB	_	26	mark	_	_
 26	jagħmlulhom	_	VERB	VERB	_	20	advcl	_	_

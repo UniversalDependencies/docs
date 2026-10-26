@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-195 nodes (14%) are attached to their parents as `case`.
+201 nodes (14%) are attached to their parents as `case`.
 
-195 instances of `case` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.4974358974359.
+201 instances of `case` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.48258706467662.
 
-The following 8 pairs of parts of speech are connected with `case`: <tt><a href="ceb_gja-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ceb_gja-pos-ADP.html">ADP</a></tt> (125; 64% instances), <tt><a href="ceb_gja-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ceb_gja-pos-ADP.html">ADP</a></tt> (50; 26% instances), <tt><a href="ceb_gja-pos-VERB.html">VERB</a></tt>-<tt><a href="ceb_gja-pos-ADP.html">ADP</a></tt> (11; 6% instances), <tt><a href="ceb_gja-pos-ADV.html">ADV</a></tt>-<tt><a href="ceb_gja-pos-ADP.html">ADP</a></tt> (3; 2% instances), <tt><a href="ceb_gja-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ceb_gja-pos-SCONJ.html">SCONJ</a></tt> (2; 1% instances), <tt><a href="ceb_gja-pos-PRON.html">PRON</a></tt>-<tt><a href="ceb_gja-pos-ADP.html">ADP</a></tt> (2; 1% instances), <tt><a href="ceb_gja-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ceb_gja-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="ceb_gja-pos-NUM.html">NUM</a></tt>-<tt><a href="ceb_gja-pos-ADP.html">ADP</a></tt> (1; 1% instances).
+The following 8 pairs of parts of speech are connected with `case`: <tt><a href="ceb_gja-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ceb_gja-pos-ADP.html">ADP</a></tt> (127; 63% instances), <tt><a href="ceb_gja-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ceb_gja-pos-ADP.html">ADP</a></tt> (54; 27% instances), <tt><a href="ceb_gja-pos-VERB.html">VERB</a></tt>-<tt><a href="ceb_gja-pos-ADP.html">ADP</a></tt> (11; 5% instances), <tt><a href="ceb_gja-pos-ADV.html">ADV</a></tt>-<tt><a href="ceb_gja-pos-ADP.html">ADP</a></tt> (3; 1% instances), <tt><a href="ceb_gja-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ceb_gja-pos-SCONJ.html">SCONJ</a></tt> (2; 1% instances), <tt><a href="ceb_gja-pos-PRON.html">PRON</a></tt>-<tt><a href="ceb_gja-pos-ADP.html">ADP</a></tt> (2; 1% instances), <tt><a href="ceb_gja-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ceb_gja-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ceb_gja-pos-NUM.html">NUM</a></tt>-<tt><a href="ceb_gja-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

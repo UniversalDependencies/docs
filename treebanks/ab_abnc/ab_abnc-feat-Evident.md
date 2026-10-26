@@ -9,20 +9,28 @@ udver: '2'
 This feature is universal but the values `Nfh2` are language-specific.
 It occurs with 2 different values: `Nfh`, `Nfh2`.
 
-3 tokens (0%) have a non-empty value of `Evident`.
-3 types (0%) occur at least once with a non-empty value of `Evident`.
-3 lemmas (0%) occur at least once with a non-empty value of `Evident`.
-The feature is used with 1 part-of-speech tags: <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> (3; 0% instances).
+14 tokens (0%) have a non-empty value of `Evident`.
+13 types (0%) occur at least once with a non-empty value of `Evident`.
+12 lemmas (1%) occur at least once with a non-empty value of `Evident`.
+The feature is used with 1 part-of-speech tags: <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> (14; 0% instances).
 
 ### `VERB`
 
-3 <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Evident`.
+14 <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Evident`.
 
-The most frequent other feature values with which `VERB` and `Evident` co-occurred: <tt><a href="ab_abnc-feat-Dyn.html">Dyn</a></tt><tt>=Yes</tt> (3; 100%), <tt><a href="ab_abnc-feat-Gender-lo.html">Gender[lo]</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="ab_abnc-feat-Gender-subj.html">Gender[subj]</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="ab_abnc-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="ab_abnc-feat-Number-lo.html">Number[lo]</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="ab_abnc-feat-Person-lo.html">Person[lo]</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="ab_abnc-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt> (3; 100%), <tt><a href="ab_abnc-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="ab_abnc-feat-RelType.html">RelType</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="ab_abnc-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (3; 100%).
+The most frequent other feature values with which `VERB` and `Evident` co-occurred: <tt><a href="ab_abnc-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (14; 100%), <tt><a href="ab_abnc-feat-RelType.html">RelType</a></tt><tt>=EMPTY</tt> (14; 100%), <tt><a href="ab_abnc-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (14; 100%), <tt><a href="ab_abnc-feat-Person-lo.html">Person[lo]</a></tt><tt>=EMPTY</tt> (13; 93%), <tt><a href="ab_abnc-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt> (13; 93%), <tt><a href="ab_abnc-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (13; 93%), <tt><a href="ab_abnc-feat-Gender-subj.html">Gender[subj]</a></tt><tt>=EMPTY</tt> (12; 86%), <tt><a href="ab_abnc-feat-Person-io.html">Person[io]</a></tt><tt>=EMPTY</tt> (12; 86%), <tt><a href="ab_abnc-feat-Person-obj.html">Person[obj]</a></tt><tt>=EMPTY</tt> (11; 79%), <tt><a href="ab_abnc-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (9; 64%).
 
 `VERB` tokens may have the following values of `Evident`:
 
-* `Nfh` (2; 67% of non-empty `Evident`): <em>иауазаап, иаҳазаап</em>
-* `Nfh2` (1; 33% of non-empty `Evident`): <em>шәырфахьазаарын</em>
-* `EMPTY` (1912): <em>аҳәеит, иҳәеит, анакәха, иалагеит, аҳәан, аҿынанахеит, иаҿын, лҳәеит, дцеит, рҳәеит</em>
+* `Nfh` (8; 57% of non-empty `Evident`): <em>дааргазаап, дхәыҷызаап, иауазаап, иаҳазаап, иҟазаап, иҟалазаап, кыдгылазаап, Ҳиашамзаап</em>
+* `Nfh2` (6; 43% of non-empty `Evident`): <em>хәыҷызаарын, дишьҭазаарын, дырҭихьазаарын, игылазаарын, шәырфахьазаарын</em>
+* `EMPTY` (3984): <em>иҳәеит, аҳәеит, иҳәан, иалагеит, лҳәеит, далагеит, дцеит, иҟаз, рҳәеит, ҿаанаҭит</em>
+
+<table>
+  <tr><th>Paradigm <i>а-хәыҷы́</i></th><th><tt>Nfh</tt></th><th><tt>Nfh2</tt></th></tr>
+  <tr><td><tt><tt><a href="ab_abnc-feat-Gender-subj.html">Gender[subj]</a></tt><tt>=Com</tt>|<tt><a href="ab_abnc-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt></tt></td><td><em>дхәыҷызаап</em></td><td></td></tr>
+  <tr><td><tt></tt></td><td></td><td><em>хәыҷызаарын</em></td></tr>
+</table>
+
+`Evident` seems to be **lexical feature** of `VERB`. 92% lemmas (11) occur only with one value of `Evident`.
 

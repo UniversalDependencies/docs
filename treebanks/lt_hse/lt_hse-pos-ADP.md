@@ -38,7 +38,13 @@ The 2nd highest number of forms (1) was observed with the lemma “anot”: <em>
 
 The 3rd highest number of forms (1) was observed with the lemma “ant”: <em>ant</em>.
 
-`ADP` does not occur with any features.
+`ADP` occurs with 1 features: <tt><a href="lt_hse-feat-ExtPos.html">ExtPos</a></tt> (6; 3% instances)
+
+`ADP` occurs with 1 feature-value pairs: `ExtPos=ADV`
+
+`ADP` occurs with 2 feature combinations.
+The most frequent feature combination is `_` (187 tokens).
+Examples: <em>su, į, apie, iš, be, nuo, už, prieš, ligi, anot</em>
 
 
 ## Relations

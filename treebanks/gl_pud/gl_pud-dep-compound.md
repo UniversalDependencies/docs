@@ -74,7 +74,7 @@ The following 8 pairs of parts of speech are connected with `compound`: <tt><a h
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 5 compound	color:blue
-1	Xa	xa	ADV	RG	_	11	mark	_	_
+1	Xa	xa	ADV	RG	ExtPos=SCONJ	11	mark	_	_
 2	que	que	SCONJ	CS	_	1	fixed	_	_
 3	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
 4	serie	serie	NOUN	NCFS000	Gender=Fem|Number=Sing	11	nsubj	_	_

@@ -8,68 +8,58 @@ udver: '2'
 
 This relation is universal.
 
-267 nodes (1%) are attached to their parents as `appos`.
+568 nodes (1%) are attached to their parents as `appos`.
 
-267 instances of `appos` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.19475655430712.
+568 instances of `appos` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.16021126760563.
 
-The following 33 pairs of parts of speech are connected with `appos`: <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (96; 36% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt> (22; 8% instances), <tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (19; 7% instances), <tt><a href="hy_armtdp-pos-PRON.html">PRON</a></tt>-<tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (16; 6% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_armtdp-pos-X.html">X</a></tt> (13; 5% instances), <tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt>-<tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (12; 4% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt> (10; 4% instances), <tt><a href="hy_armtdp-pos-PRON.html">PRON</a></tt>-<tt><a href="hy_armtdp-pos-PRON.html">PRON</a></tt> (8; 3% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_armtdp-pos-NUM.html">NUM</a></tt> (6; 2% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_armtdp-pos-PRON.html">PRON</a></tt> (6; 2% instances), <tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt> (6; 2% instances), <tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (5; 2% instances), <tt><a href="hy_armtdp-pos-PRON.html">PRON</a></tt>-<tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt> (5; 2% instances), <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (5; 2% instances), <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt> (4; 1% instances), <tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt> (3; 1% instances), <tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt>-<tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt> (3; 1% instances), <tt><a href="hy_armtdp-pos-DET.html">DET</a></tt>-<tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt> (3; 1% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_armtdp-pos-SYM.html">SYM</a></tt> (3; 1% instances), <tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="hy_armtdp-pos-DET.html">DET</a></tt>-<tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="hy_armtdp-pos-PRON.html">PRON</a></tt>-<tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_armtdp-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt>-<tt><a href="hy_armtdp-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="hy_armtdp-pos-DET.html">DET</a></tt>-<tt><a href="hy_armtdp-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="hy_armtdp-pos-DET.html">DET</a></tt>-<tt><a href="hy_armtdp-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_armtdp-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="hy_armtdp-pos-NUM.html">NUM</a></tt>-<tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="hy_armtdp-pos-X.html">X</a></tt>-<tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="hy_armtdp-pos-X.html">X</a></tt>-<tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+The following 41 pairs of parts of speech are connected with `appos`: <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (211; 37% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt> (92; 16% instances), <tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (30; 5% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_armtdp-pos-NUM.html">NUM</a></tt> (29; 5% instances), <tt><a href="hy_armtdp-pos-PRON.html">PRON</a></tt>-<tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (28; 5% instances), <tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt>-<tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (15; 3% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt> (15; 3% instances), <tt><a href="hy_armtdp-pos-NUM.html">NUM</a></tt>-<tt><a href="hy_armtdp-pos-NUM.html">NUM</a></tt> (14; 2% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_armtdp-pos-X.html">X</a></tt> (12; 2% instances), <tt><a href="hy_armtdp-pos-PRON.html">PRON</a></tt>-<tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt> (10; 2% instances), <tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt> (9; 2% instances), <tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt> (8; 1% instances), <tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (8; 1% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_armtdp-pos-PRON.html">PRON</a></tt> (8; 1% instances), <tt><a href="hy_armtdp-pos-PRON.html">PRON</a></tt>-<tt><a href="hy_armtdp-pos-PRON.html">PRON</a></tt> (7; 1% instances), <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (7; 1% instances), <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt> (7; 1% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt> (5; 1% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt> (5; 1% instances), <tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hy_armtdp-pos-NUM.html">NUM</a></tt> (5; 1% instances), <tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt>-<tt><a href="hy_armtdp-pos-NUM.html">NUM</a></tt> (4; 1% instances), <tt><a href="hy_armtdp-pos-DET.html">DET</a></tt>-<tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt> (4; 1% instances), <tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt> (3; 1% instances), <tt><a href="hy_armtdp-pos-DET.html">DET</a></tt>-<tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="hy_armtdp-pos-NUM.html">NUM</a></tt>-<tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="hy_armtdp-pos-PRON.html">PRON</a></tt>-<tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt> (3; 1% instances), <tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hy_armtdp-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hy_armtdp-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt>-<tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="hy_armtdp-pos-DET.html">DET</a></tt>-<tt><a href="hy_armtdp-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="hy_armtdp-pos-PART.html">PART</a></tt>-<tt><a href="hy_armtdp-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_armtdp-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="hy_armtdp-pos-X.html">X</a></tt>-<tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="hy_armtdp-pos-DET.html">DET</a></tt>-<tt><a href="hy_armtdp-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_armtdp-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="hy_armtdp-pos-SYM.html">SYM</a></tt>-<tt><a href="hy_armtdp-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="hy_armtdp-pos-X.html">X</a></tt>-<tt><a href="hy_armtdp-pos-X.html">X</a></tt> (1; 0% instances).
+
+
+~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 4 appos	color:blue
+1	ԳԻՆԸ	գին	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	0	root	_	Translit=GINË|LTranslit=gin|SpaceAfter=No
+2	՝	՝	PUNCT	_	_	4	punct	_	Translit=,|LTranslit=,
+3	5	5	NUM	_	NumForm=Digit|NumType=Card	4	nummod	_	Translit=5|LTranslit=5
+4	ԿՈՊ	կոպ.	NOUN	_	Abbr=Yes|Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	1	appos	_	Translit=KOP|LTranslit=kop.|SpaceAfter=No
+5	.	.	PUNCT	_	Foreign=Yes	4	punct	_	Translit=.|LTranslit=.
+
+~~~
+
+
+~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 5 appos	color:blue
+1	Գլխավոր	գլխավոր	ADJ	_	Degree=Pos	2	amod	_	Translit=Glxavor|LTranslit=glxavor
+2	խմբագրի	խմբագիր	NOUN	_	Animacy=Hum|Case=Dat|Definite=Ind|Number=Sing	3	nmod:poss	_	Translit=xmbagri|LTranslit=xmbagir
+3	տեղակալ	տեղակալ	NOUN	_	Animacy=Hum|Case=Nom|Definite=Ind|Number=Sing	0	root	_	Translit=teġakal|LTranslit=teġakal|SpaceAfter=No
+4	՝	՝	PUNCT	_	_	5	punct	_	Translit=,|LTranslit=,
+5	ՌԱՖԱՅԵԼ	Ռաֆայել	PROPN	_	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Giv|Number=Sing	3	appos	_	Translit=ṘAFAYEL|LTranslit=Ṙafayel
+6	ՂԱԶԱՆՉՅԱՆ	Ղազանչյան	PROPN	_	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Sur|Number=Sing	5	flat:name	_	Translit=ĠAZANČYAN|LTranslit=Ġazančyan
+
+~~~
 
 
 ~~~ conllu
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 7 appos	color:blue
-1	Հետո	հետո	ADV	_	_	2	advmod	_	Translit=Heto|LTranslit=heto
-2	գալիս	գալ	VERB	_	Aspect=Imp|Subcat=Intr|VerbForm=Part|Voice=Mid	0	root	_	Translit=galis|LTranslit=gal
-3	են	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	2	aux	_	Translit=en|LTranslit=em
-4	վերջին	վերջին	ADJ	_	Degree=Pos	5	amod	_	Translit=verǰin|LTranslit=verǰin
-5	որսորդները	որսորդ	NOUN	_	Animacy=Hum|Case=Nom|Definite=Def|Number=Plur	2	nsubj	_	Translit=orsordnerë|LTranslit=orsord|SpaceAfter=No
-6	՝	՝	PUNCT	_	_	7	punct	_	Translit=,|LTranslit=,
-7	դագաղագործն	դագաղագործ	NOUN	_	Animacy=Hum|Case=Nom|Definite=Def|Number=Sing	5	appos	_	Translit=dagaġagorçn|LTranslit=dagaġagorç
-8	ու	ու	CCONJ	_	_	10	cc	_	Translit=ow|LTranslit=ow
-9	փոս	փոս	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	10	compound:lvc	_	Translit=p’os|LTranslit=p’os
-10	փորողը	փորող	NOUN	_	Animacy=Hum|Case=Nom|Definite=Def|Number=Sing	7	conj	_	Translit=p’oroġë|LTranslit=p’oroġ|SpaceAfter=No
-11	։	։	PUNCT	_	_	2	punct	_	Translit=.|LTranslit=.
-
-~~~
-
-
-~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 1 2 appos	color:blue
-1	ՆԱԽԱԳԱՀՈՂ	նախագահող	NOUN	_	Animacy=Hum|Case=Nom|Definite=Ind|Number=Sing	0	root	_	Translit=NAXAGAHOĠ|LTranslit=naxagahoġ
-2	Գ	Գ	PROPN	_	Abbr=Yes|Animacy=Hum|Case=Nom|Definite=Ind|NameType=Giv|Number=Sing	1	appos	_	Translit=G|LTranslit=G|SpaceAfter=No
-3	.	.	PUNCT	_	_	2	punct	_	Translit=.|LTranslit=.
-4	ՀԱՐՈՒԹՅՈՒՆՅԱՆ	Հարությունյան	PROPN	_	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Sur|Number=Sing	2	flat	_	Translit=HAROWT’YOWNYAN|LTranslit=Harowt’yownyan
-
-~~~
-
-
-~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 6 appos	color:blue
-1	Ինչ	ինչ	DET	_	PronType=Exc	3	det	_	Translit=Inč|LTranslit=inč
-2	՜	՜	PUNCT	_	_	1	punct	_	Translit=!|LTranslit=!
-3	Լևոն	Լևոն	PROPN	_	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Giv|Number=Sing	0	root	_	Translit=Lewon|LTranslit=Lewon
-4	աղա	աղա	NOUN	_	Animacy=Hum|Case=Nom|Definite=Ind|Number=Sing	3	flat	_	Translit=aġa|LTranslit=aġa|SpaceAfter=No
-5	՝	՝	PUNCT	_	_	6	punct	_	Translit=,|LTranslit=,
-6	քար	քար	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	3	appos	_	Translit=k’ar|LTranslit=k’ar
-7	՛	՛	PUNCT	_	_	6	punct	_	Translit=՛|LTranslit=՛
-8	,	,	PUNCT	_	_	9	punct	_	Translit=,|LTranslit=,
-9	քար	քար	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	6	conj	_	Translit=k’ar|LTranslit=k’ar
-10	՛	՛	PUNCT	_	_	9	punct	_	Translit=՛|LTranslit=՛
-11	,	,	PUNCT	_	_	12	punct	_	Translit=,|LTranslit=,
-12	որձաքար	որձաքար	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	6	conj	_	Translit=orjak’ar|LTranslit=orjak’ar|SpaceAfter=No
-13	։	։	PUNCT	_	_	3	punct	_	Translit=.|LTranslit=.
+# visual-style 1 7 appos	color:blue
+1	ԷՐԻԽ	Էրիխ	PROPN	_	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Giv|Number=Sing	0	root	_	Translit=ĒRIX|LTranslit=Ērix
+2	ՀՈՆԵԿԵՐ	Հոնեկեր	PROPN	_	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Sur|Number=Sing	1	flat:name	_	Translit=HONEKER|LTranslit=Honeker
+3	ԳՍՄԿ	ԳՍՄԿ	PROPN	_	Abbr=Yes|Animacy=Nhum|Case=Nom|Definite=Ind|NameType=Com|Number=Sing	5	nmod	_	Translit=GSMK|LTranslit=GSMK
+4	Կենտրոնական	կենտրոնական	ADJ	_	_	5	amod	_	Translit=Kentronakan|LTranslit=kentronakan
+5	կոմիտեի	կոմիտե	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	7	nmod:poss	_	Translit=komitei|LTranslit=komite
+6	գլխավոր	գլխավոր	ADJ	_	Degree=Pos	7	amod	_	Translit=glxavor|LTranslit=glxavor
+7	քարտուղար	քարտուղար	NOUN	_	Animacy=Hum|Case=Nom|Definite=Ind|Number=Sing	1	appos	_	Translit=k’artowġar|LTranslit=k’artowġar
 
 ~~~
 

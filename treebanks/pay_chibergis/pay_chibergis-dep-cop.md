@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-40 nodes (2%) are attached to their parents as `cop`.
+71 nodes (2%) are attached to their parents as `cop`.
 
-38 instances of `cop` (95%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.425.
+69 instances of `cop` (97%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.52112676056338.
 
-The following 7 pairs of parts of speech are connected with `cop`: <tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pay_chibergis-pos-AUX.html">AUX</a></tt> (27; 68% instances), <tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt>-<tt><a href="pay_chibergis-pos-AUX.html">AUX</a></tt> (6; 15% instances), <tt><a href="pay_chibergis-pos-PART.html">PART</a></tt>-<tt><a href="pay_chibergis-pos-AUX.html">AUX</a></tt> (2; 5% instances), <tt><a href="pay_chibergis-pos-X.html">X</a></tt>-<tt><a href="pay_chibergis-pos-AUX.html">AUX</a></tt> (2; 5% instances), <tt><a href="pay_chibergis-pos-ADV.html">ADV</a></tt>-<tt><a href="pay_chibergis-pos-AUX.html">AUX</a></tt> (1; 3% instances), <tt><a href="pay_chibergis-pos-NUM.html">NUM</a></tt>-<tt><a href="pay_chibergis-pos-AUX.html">AUX</a></tt> (1; 3% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-AUX.html">AUX</a></tt> (1; 3% instances).
+The following 7 pairs of parts of speech are connected with `cop`: <tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pay_chibergis-pos-AUX.html">AUX</a></tt> (46; 65% instances), <tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt>-<tt><a href="pay_chibergis-pos-AUX.html">AUX</a></tt> (12; 17% instances), <tt><a href="pay_chibergis-pos-X.html">X</a></tt>-<tt><a href="pay_chibergis-pos-AUX.html">AUX</a></tt> (5; 7% instances), <tt><a href="pay_chibergis-pos-ADV.html">ADV</a></tt>-<tt><a href="pay_chibergis-pos-AUX.html">AUX</a></tt> (3; 4% instances), <tt><a href="pay_chibergis-pos-PART.html">PART</a></tt>-<tt><a href="pay_chibergis-pos-AUX.html">AUX</a></tt> (2; 3% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-AUX.html">AUX</a></tt> (2; 3% instances), <tt><a href="pay_chibergis-pos-NUM.html">NUM</a></tt>-<tt><a href="pay_chibergis-pos-AUX.html">AUX</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -23,7 +23,7 @@ The following 7 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 2	fgColor:white
 # visual-style 2 3 cop	color:blue
 1	tas	tas	PRON	PRO	_	2	nsubj	_	AlignBegin=27840|AlignEnd=28721|Gloss=PRO1|MGloss=PRO1|MSeg=tas|nWord=1|RX=[PRO]|TokenType=Root|Word=tas
-2	ye	ye	NOUN	N	_	7	advcl	_	AlignBegin=28721|AlignEnd=29602|Gloss=small|MGloss=small|MSeg=ye|nWord=2|RX=[N]|TokenType=Root|Word=ye
+2	ye	ye	NOUN	N	_	7	obl:tmod	_	AlignBegin=28721|AlignEnd=29602|Gloss=small|MGloss=small|MSeg=ye|nWord=2|RX=[N]|TokenType=Root|Word=ye
 3	=rira	r	AUX	COP	_	2	cop	_	AlignBegin=29602|AlignEnd=30483|Gloss==COP:S1SG:PST|MGloss==COP:S1SG:PST|MSeg==rira|nWord=3|RX=[COP]|TokenType=Clit|Word=rira
 4	=mã	=mã	SCONJ	PRT	_	2	mark	_	AlignBegin=30483|AlignEnd=31364|Gloss==when|MGloss==when|MSeg==mã|nWord=4|RX=[PRT]|TokenType=Clit|Word=mã
 5	tasuwa	suwa	NOUN	N	_	7	obl:arg	_	AlignBegin=31364|AlignEnd=32245|Gloss=grandmother|MGloss=POSS1- grandmother|MSeg=ta-suwa|nWord=5|RX=[N]|TokenType=Root|Word=tasuwa|wordform=ta-suwa
@@ -56,21 +56,23 @@ The following 7 pairs of parts of speech are connected with `cop`: <tt><a href="
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 8 cop	color:blue
-1	ĩka	ĩka	CCONJ	COORDCONN	_	9	discourse	_	AlignBegin=376800|AlignEnd=377160|Gloss=and|MGloss=and|MSeg=ĩka|nWord=1|RX=[COORDCONN]|TokenType=Root|Word=ĩka
-2	tʃena	tʃena	NOUN	N	_	9	nsubj	_	AlignBegin=377160|AlignEnd=377520|Gloss=sick|MGloss=sick|MSeg=tʃena|nWord=2|RX=[N]|TokenType=Root|Word=tʃenã
-3	as	as	DET	DET	_	2	det	_	AlignBegin=377520|AlignEnd=377880|Gloss=INDF.ART|MGloss=INDF.ART|MSeg=as|nWord=3|RX=[DET]|TokenType=Root|Word=as
-4	patasã	sã	NOUN	N	Clusivity=In	9	obl	_	AlignBegin=378240|AlignEnd=378600|Gloss=head|MGloss=INCL- POSS1- head|MSeg=pa-ta-sã|nWord=5|RX=[N]|TokenType=Root|Word=patasã|wordform=pa-ta-sã
-5	pataya	ya	NOUN	N	Clusivity=In	4	reparandum	_	AlignBegin=378960|AlignEnd=379320|Gloss=belly|MGloss=INCL- POSS1- belly|MSeg=pa-ta-ya|nWord=7|RX=[N]|TokenType=Root|Word=pataya|wordform=pa-ta-ya
-6	sa	sa	ADP	POST	_	4	case	_	AlignBegin=379320|AlignEnd=379680|Gloss=in|MGloss=in|MSeg=sa|nWord=8|RX=[POST]|TokenType=Root|Word=sa
-7	=yã	=yã	ADP	POST	_	4	case	_	AlignBegin=379680|AlignEnd=380040|Gloss==LOC|MGloss==LOC|MSeg==yã|nWord=9|RX=[POST]|TokenType=Clit|Word=yã
-8	tʃaui	_	AUX	V:ANY	_	9	cop	_	AlignBegin=380040|AlignEnd=380400|Gloss=be.there|MGloss=be.there -S3SG -HAB -PST|MSeg=tʃa-Ø-u-i|nWord=10|RX=[VI]|TokenType=Root|Word=tʃũ|wordform=tʃa-Ø-u-i
-9	=kan	=kan	PART	SUBORDCONN	_	0	root	_	AlignBegin=380400|AlignEnd=380760|Gloss==DBT|MGloss==DBT|MSeg==kan|nWord=11|RX=[SUBORDCONN]|TokenType=Clit|Word=kã
-10	=yã	=yã	ADP	POST	_	9	mark	_	AlignBegin=380760|AlignEnd=381126|Gloss==LOC|MGloss==LOC|MSeg==yã|nWord=12|RX=[POST]|TokenType=Clit|Word=ɲã
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 4 cop	color:blue
+1	tas	tas	PRON	PRO	_	2	nsubj	_	AlignBegin=20533|AlignEnd=20888|Gloss=PRO1|MGloss=PRO1|MSeg=tas|nWord=1|RX=[PRO]|TokenType=Root|Word=tas
+2	yeʔriʃ	yeʔriʃ	X	_	_	0	root	_	AlignBegin=20888|AlignEnd=21243|Gloss=HES|MGloss=HES|MSeg=yeʔriʃ|nWord=2|TokenType=Root|Word=yeʔriʃ
+3	ye	ye	NOUN	N	_	2	reparandum	_	AlignBegin=21243|AlignEnd=21598|Gloss=small|MGloss=small|MSeg=ye|nWord=3|RX=[N]|TokenType=Root|Word=ye
+4	=rira	r	AUX	COP	_	2	cop	_	AlignBegin=21598|AlignEnd=21953|Gloss==COP:S1SG:PST|MGloss==COP:S1SG:PST|MSeg==rira|nWord=4|RX=[COP]|TokenType=Clit|Word=rira
+5	=mã	=mã	SCONJ	PRT	_	2	mark	_	AlignBegin=21953|AlignEnd=22306|Gloss==when|MGloss==when|MSeg==mã|nWord=5|RX=[PRT]|TokenType=Clit|Word=mã
+6	que	que	X	<NOT_SURE>	_	2	obl	_	AlignBegin=23860|AlignEnd=24119|Gloss=SPA_that|MGloss=SPA_that|MSeg=que|nWord=6|RX=[<NOT_SURE>]|TokenType=Root|Word=que
+7	significo	significo	X	<NOT_SURE>	_	6	nmod	_	AlignBegin=24119|AlignEnd=24378|Gloss=SPA_mean|MGloss=SPA_mean|MSeg=significo|nWord=7|RX=[<NOT_SURE>]|TokenType=Root|Word=significo
+8	yo	yo	X	<NOT_SURE>	_	7	nmod	_	AlignBegin=24378|AlignEnd=24637|Gloss=SPA_I|MGloss=SPA_I|MSeg=yo|nWord=8|RX=[<NOT_SURE>]|TokenType=Root|Word=yo
+9	que	que	X	<NOT_SURE>	_	6	nmod	_	AlignBegin=24637|AlignEnd=24896|Gloss=SPA_that|MGloss=SPA_that|MSeg=que|nWord=9|RX=[<NOT_SURE>]|TokenType=Root|Word=que
+10	significo	significo	X	<NOT_SURE>	_	9	nmod	_	AlignBegin=24896|AlignEnd=25155|Gloss=SPA_mean|MGloss=SPA_mean|MSeg=significo|nWord=10|RX=[<NOT_SURE>]|TokenType=Root|Word=significo
+11	yo	yo	X	<NOT_SURE>	_	10	nmod	_	AlignBegin=25155|AlignEnd=25414|Gloss=SPA_I|MGloss=SPA_I|MSeg=yo|nWord=11|RX=[<NOT_SURE>]|TokenType=Root|Word=yo
+12	?	?	PUNCT	_	_	2	punct	_	AlignBegin=25414|AlignEnd=25673|MSeg=?|nWord=12|Word=?
 
 ~~~
 

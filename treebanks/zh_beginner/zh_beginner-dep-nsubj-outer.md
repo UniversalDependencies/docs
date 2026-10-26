@@ -22,8 +22,8 @@ The following 6 pairs of parts of speech are connected with `nsubj:outer`: <tt><
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 3 nsubj:outer	color:blue
-1	这	这	DET	_	_	2	det	_	Gloss=DEM.PROX|SpaceAfter=No|Tone=4|Translit=zhè
-2	本	本	NOUN	_	_	3	clf	_	Gloss=CLF|SpaceAfter=No|Tone=3|Translit=běn
+1	这	这	DET	_	_	3	det	_	Gloss=DEM.PROX|SpaceAfter=No|Tone=4|Translit=zhè
+2	本	本	NOUN	_	_	1	clf	_	Gloss=CLF|SpaceAfter=No|Tone=3|Translit=běn
 3	书	书	NOUN	_	_	6	nsubj:outer	_	SpaceAfter=No|Tone=1|Translit=shū
 4	是	是	AUX	_	_	6	cop	_	SpaceAfter=No|Tone=4|Translit=shì
 5	谁	谁	PRON	_	PronType=Int	6	nsubj	_	SpaceAfter=No|Tone=2|Translit=shúi
@@ -43,8 +43,8 @@ The following 6 pairs of parts of speech are connected with `nsubj:outer`: <tt><
 # visual-style 8	fgColor:white
 # visual-style 8 4 nsubj:outer	color:blue
 1	这	这	DET	_	_	2	det	_	Gloss=DEM.PROX|SpaceAfter=No|Tone=4|Translit=zhè
-2	两	两	NUM	_	NumType=Card	3	nummod	_	SpaceAfter=No|Tone=3|Translit=liǎng
-3	个	个	NOUN	_	_	4	clf	_	Gloss=CLF|SpaceAfter=No|Tone=4|Translit=gè
+2	两	两	NUM	_	NumType=Card	4	nummod	_	SpaceAfter=No|Tone=3|Translit=liǎng
+3	个	个	NOUN	_	_	2	clf	_	Gloss=CLF|SpaceAfter=No|Tone=4|Translit=gè
 4	银行	银行	NOUN	_	_	8	nsubj:outer	_	SpaceAfter=No|Tone=2_2|Translit=yín_xíng
 5	哪	哪	PRON	_	PronType=Int	6	nmod	_	SpaceAfter=No|Tone=3|Translit=nǎ
 6	个	个	NOUN	_	_	8	nsubj	_	Gloss=CLF|SpaceAfter=No|Tone=4|Translit=gè
@@ -61,8 +61,8 @@ The following 6 pairs of parts of speech are connected with `nsubj:outer`: <tt><
 # visual-style 14	bgColor:blue
 # visual-style 14	fgColor:white
 # visual-style 14 3 nsubj:outer	color:blue
-1	这	这	DET	_	_	2	det	_	Gloss=DEM.PROX|SpaceAfter=No|Tone=4|Translit=zhè
-2	辆	辆	NOUN	_	_	3	clf	_	SpaceAfter=No|Tone=4|Translit=liàng
+1	这	这	DET	_	_	3	det	_	Gloss=DEM.PROX|SpaceAfter=No|Tone=4|Translit=zhè
+2	辆	辆	NOUN	_	_	1	clf	_	SpaceAfter=No|Tone=4|Translit=liàng
 3	车	车	NOUN	_	_	14	nsubj:outer	_	SpaceAfter=No|Tone=1|Translit=chē
 4	没	没	ADV	_	_	6	advmod	_	Gloss=NEG|SpaceAfter=No|Tone=2|Translit=méi
 5	什么	什么	ADV	_	_	6	advmod	_	SpaceAfter=No|Tone=2_5|Translit=shén_me

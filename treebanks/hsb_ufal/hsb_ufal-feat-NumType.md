@@ -35,7 +35,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 
 * `Mult` (2; 4% of non-empty `NumType`): <em>dwójnu, trójnu</em>
 * `Ord` (50; 96% of non-empty `NumType`): <em>prěni, prěnje, druhe, druhich, Třećeho, druhi, druhej, 50tych, Druheje, Druhu</em>
-* `EMPTY` (1369): <em>serbski, najwjetše, serbskeje, Serbskeho, wulke, wulki, wulku, ablawtowych, dalše, wjacore</em>
+* `EMPTY` (1367): <em>serbski, najwjetše, serbskeje, Serbskeho, wulki, ablawtowych, dalše, wjacore, wotpowědne, wulke</em>
 
 `NumType` seems to be **lexical feature** of `ADJ`. 100% lemmas (13) occur only with one value of `NumType`.
 
@@ -59,7 +59,7 @@ The most frequent other feature values with which `DET` and `NumType` co-occurre
 `DET` tokens may have the following values of `NumType`:
 
 * `Card` (20; 100% of non-empty `NumType`): <em>wjele, mnoho, Wobě, mjenje, najwjace, tróšku, tójšto, wjace</em>
-* `EMPTY` (307): <em>n, kotrež, tute, jeho, jich, kotryž, kotraž, tutón, swoje, tuta</em>
+* `EMPTY` (306): <em>n, kotrež, jeho, jich, tute, kotryž, kotraž, tutón, swoje, tuta</em>
 
 ### `NOUN`
 
@@ -68,7 +68,7 @@ The most frequent other feature values with which `DET` and `NumType` co-occurre
 `NOUN` tokens may have the following values of `NumType`:
 
 * `Card` (2; 100% of non-empty `NumType`): <em>stopjeń, třoch</em>
-* `EMPTY` (2541): <em>l, př, město, rěč, woda, rěčow, lěta, stolica, lěće, kilometrow</em>
+* `EMPTY` (2535): <em>l, př, město, rěč, woda, rěčow, lěta, stolica, lěće, kilometrow</em>
 
 ## Relations with Agreement in `NumType`
 

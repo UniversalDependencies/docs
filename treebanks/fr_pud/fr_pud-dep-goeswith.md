@@ -27,12 +27,12 @@ The following 3 pairs of parts of speech are connected with `goeswith`: <tt><a h
 3	de	de	ADP	IN	_	5	case	_	_
 4	l'	le	DET	DT	Definite=Def|Number=Sing|PronType=Art	5	det	_	SpaceAfter=No
 5	AKP	AKP	PROPN	NNP	Number=Sing	2	nmod	_	_
-6	se	se	PRON	PRP	Person=3|PronType=Prs	7	obj	_	_
+6	se	soi	PRON	PRP	Person=3|PronType=Prs|Reflex=Yes	7	expl:pv	_	_
 7	servent	servir	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 8	aujourd	aujourd'hui	ADV	RB	Typo=Yes	7	obl:mod	_	CorrectForm=aujourd'hui
 9	hui	_	X	GW	_	8	goeswith	_	_
 10	de	de	ADP	IN	_	12	case	_	_
-11	ce	ce	DET	DT	Gender=Masc|Number=Sing	12	det	_	_
+11	ce	ce	DET	DT	Gender=Masc|Number=Sing|PronType=Dem	12	det	_	_
 12	refus	refus	NOUN	NN	Gender=Masc|Number=Sing	7	obl	_	_
 13	pour	pour	ADP	IN	_	14	mark	_	_
 14	justifier	justifier	VERB	VB	VerbForm=Inf	7	advcl	_	_
@@ -54,19 +54,19 @@ The following 3 pairs of parts of speech are connected with `goeswith`: <tt><a h
 3	parc	parc	NOUN	NN	Gender=Masc|Number=Sing	19	obl	_	_
 4	de	de	ADP	IN	_	6	case	_	_
 5	la	le	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
-6	Porte-d’	Porte-d’Or	NOUN	NN	Gender=Fem|Number=Sing|Typo=Yes	3	nmod	_	CorrectForm=porte-d’or|Proper=True
+6	Porte-d'	Porte-d'Or	NOUN	NN	Gender=Fem|Number=Sing|Typo=Yes	3	nmod	_	CorrectForm=porte-d'or|Proper=True
 7	Or	_	X	GW	_	6	goeswith	_	SpaceAfter=No
 8	,	,	PUNCT	,	_	11	punct	_	_
 9	qui	qui	PRON	WP	PronType=Rel	11	nsubj	_	_
 10	est	être	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
 11	long	long	ADJ	JJ	Gender=Masc|Number=Sing	3	acl:relcl	_	_
-12	de	de	ADP	IN	_	16	case	_	_
-13	plus	plus	ADV	RBR	_	15	advmod	_	_
-14	de	de	ADP	IN	_	13	fixed	_	_
+12	de	de	ADP	IN	_	13	case	_	_
+13	plus	plus	ADV	RBR	ExtPos=PRON	11	nmod	_	_
+14	de	de	ADP	IN	_	16	case	_	_
 15	quatre	quatre	NUM	CD	_	16	nummod	_	_
-16	kilomètres	kilomètre	NOUN	NN	Gender=Masc|Number=Plur	11	obl	_	SpaceAfter=No
+16	kilomètres	kilomètre	NOUN	NN	Gender=Masc|Number=Plur	13	obl:arg	_	SpaceAfter=No
 17	,	,	PUNCT	,	_	11	punct	_	_
-18	se	se	PRON	PRP	Person=3|PronType=Prs	19	obj	_	_
+18	se	soi	PRON	PRP	Person=3|PronType=Prs|Reflex=Yes	19	expl:pv	_	_
 19	trouvent	trouver	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 20	un	un	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
 21	jardin	jardin	NOUN	NN	Gender=Masc|Number=Sing	19	nsubj	_	_
@@ -92,12 +92,12 @@ The following 3 pairs of parts of speech are connected with `goeswith`: <tt><a h
 # visual-style 13	bgColor:blue
 # visual-style 13	fgColor:white
 # visual-style 13 14 goeswith	color:blue
-1	L’	le	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	SpaceAfter=No|wordform=l'
+1	L'	le	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	SpaceAfter=No|wordform=l'
 2	hôtel	hôtel	NOUN	NN	Gender=Masc|Number=Sing	19	nsubj:pass	_	_
 3	de	de	ADP	IN	_	4	case	_	_
 4	ville	ville	NOUN	NN	Gender=Fem|Number=Sing	2	nmod	_	_
 5	historique	historique	ADJ	JJ	Gender=Masc|Number=Sing	2	amod	_	_
-6	d’	de	ADP	IN	_	7	case	_	SpaceAfter=No|wordform=d'
+6	d'	de	ADP	IN	_	7	case	_	SpaceAfter=No
 7	Obermarsberg	Obermarsberg	PROPN	NNP	Number=Sing	2	nmod	_	SpaceAfter=No
 8	,	,	PUNCT	,	_	10	punct	_	_
 9	qui	qui	PRON	WP	PronType=Rel	10	nsubj	_	_

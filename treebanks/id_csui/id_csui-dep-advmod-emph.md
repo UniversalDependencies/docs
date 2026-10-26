@@ -25,13 +25,13 @@ The following 8 pairs of parts of speech are connected with `advmod:emph`: <tt><
 1	Jamrud	jamrud	NOUN	NN	Number=Sing	4	nsubj	_	_
 2	itu	itu	DET	DT	PronType=Dem	1	det	_	_
 3	akhirnya	akhirnya	ADV	RB	_	4	advmod	_	_
-4	sampai	sampai	VERB	VB	Mood=Ind|Voice=Act	0	root	_	_
+4	sampai	sampai	VERB	VB	Voice=Act	0	root	_	_
 5	ke	ke	ADP	IN	_	6	case	_	_
 6	Amerika	Amerika	PROPN	NNP	_	4	obl	_	SpaceAfter=No
 7	,	,	PUNCT	,	_	4	punct	_	_
 8	meski	meski	SCONJ	IN	_	10	mark	_	_
 9	pun	pun	PART	RP	_	8	advmod:emph	_	_
-10	setiba	tiba	VERB	VB	Mood=Ind|Voice=Act	15	advcl	_	_
+10	setiba	tiba	VERB	VB	Voice=Act	15	advcl	_	_
 11	nya	nya	PRON	PRP	Number=Sing|Person=3|PronType=Prs	10	nsubj	_	_
 12	di	di	ADP	IN	_	13	case	_	_
 13	Amerika	Amerika	PROPN	NNP	_	10	obl	_	_
@@ -58,12 +58,12 @@ The following 8 pairs of parts of speech are connected with `advmod:emph`: <tt><
 5	kah	kah	PART	RP	_	8	advmod:emph	_	_
 6	kita	kita	PRON	PRP	Clusivity=In|Number=Plur|Person=1|PronType=Prs	8	nsubj	_	_
 7	masih	masih	ADV	RB	_	8	advmod	_	_
-8	meneruskan	terus	VERB	VB	Mood=Ind|Voice=Act	0	root	_	_
+8	meneruskan	terus	VERB	VB	Voice=Act	0	root	_	_
 9	tim	tim	NOUN	NN	Number=Sing	8	obj	_	_
 10	itu	itu	DET	DT	PronType=Dem	9	det	_	SpaceAfter=No
 11	,	,	PUNCT	,	_	8	punct	_	SpaceAfter=No
 12	"	"	PUNCT	''	_	8	punct	_	_
-13	kata	kata	VERB	VB	Mood=Ind|Voice=Act	8	parataxis	_	_
+13	kata	kata	VERB	VB	Voice=Act	8	parataxis	_	_
 14	Gubernur	Gubernur	NOUN	NN	Number=Sing	13	nsubj	_	SpaceAfter=No
 15	.	.	PUNCT	.	_	8	punct	_	_
 
@@ -80,14 +80,14 @@ The following 8 pairs of parts of speech are connected with `advmod:emph`: <tt><
 2	Ini	ini	PRON	PRP	PronType=Dem	0	root	_	_
 3	lah	lah	PART	RP	_	2	advmod:emph	_	_
 4	yang	yang	PRON	IN	PronType=Rel	5	nsubj:pass	_	_
-5	terjadi	jadi	VERB	VB	Mood=Ind|Voice=Pass	2	acl:relcl	_	_
+5	terjadi	jadi	VERB	VB	Voice=Pass	2	acl:relcl	_	_
 6	kalau	kalau	SCONJ	IN	_	7	mark	_	_
 7	siaran	siar	NOUN	NN	Number=Sing	5	advcl	_	_
 8	TV	TV	NOUN	NN	Number=Sing	7	nmod	_	_
 9	langsung	langsung	ADJ	JJ	_	7	amod	_	SpaceAfter=No
 10	,	,	PUNCT	,	_	2	punct	_	SpaceAfter=No
 11	"	"	PUNCT	''	_	2	punct	_	_
-12	kata	kata	VERB	VB	Mood=Ind|Voice=Act	2	parataxis	_	_
+12	kata	kata	VERB	VB	Voice=Act	2	parataxis	_	_
 13	Sarah	Sarah	PROPN	NNP	_	12	nsubj	_	_
 14	Murdoch	Murdoch	PROPN	NNP	_	13	flat:name	_	SpaceAfter=No
 15	.	.	PUNCT	.	_	2	punct	_	_

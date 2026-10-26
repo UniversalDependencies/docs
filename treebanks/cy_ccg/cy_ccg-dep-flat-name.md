@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="cy_ccg-dep-flat.html">flat</a></tt>.
 
-341 nodes (1%) are attached to their parents as `flat:name`.
+356 nodes (1%) are attached to their parents as `flat:name`.
 
-341 instances of `flat:name` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.21407624633431.
+356 instances of `flat:name` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.21067415730337.
 
-The following 5 pairs of parts of speech are connected with `flat:name`: <tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt> (305; 89% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt> (23; 7% instances), <tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (5; 1% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (4; 1% instances), <tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt> (4; 1% instances).
+The following 5 pairs of parts of speech are connected with `flat:name`: <tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt> (319; 90% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt> (24; 7% instances), <tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (5; 1% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (4; 1% instances), <tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt> (4; 1% instances).
 
 
 ~~~ conllu
@@ -26,7 +26,7 @@ The following 5 pairs of parts of speech are connected with `flat:name`: <tt><a 
 2	'n	yn	PART	pred	_	3	case:pred	_	_
 3	fab	mab	NOUN	noun	Gender=Masc|Mutation=SM|Number=Sing	0	root	_	_
 4	i	i	ADP	prep	_	6	case	_	SpaceAfter=No
-5	'r	y	DET	art	_	6	det	_	_
+5	'r	y	DET	art	PronType=Art	6	det	_	_
 6	hanesydd	hanesydd	NOUN	noun	Gender=Masc|Number=Sing	3	nmod	_	_
 7	Richard	Richard	PROPN	person	_	6	flat	_	_
 8	Cyril	Cyril	PROPN	person	_	7	flat:name	_	_

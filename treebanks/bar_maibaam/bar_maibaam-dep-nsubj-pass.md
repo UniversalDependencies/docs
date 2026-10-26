@@ -24,7 +24,7 @@ The following 4 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 # visual-style 6 5 nsubj:pass	color:blue
 1	Bei	_	ADP	_	_	3	case	_	GermanLemma=bei
 2	m	_	DET	_	_	3	det	_	GermanLemma=der
-3	Haberertanz	_	PROPN	_	_	6	obl	_	GermanLemma=Haberertanz
+3	Haberertanz	_	NOUN	_	_	6	obl	_	GermanLemma=Haberertanz
 4	wean	_	AUX	_	_	6	aux:pass	_	GermanLemma=werden
 5	Hassgfui	_	NOUN	_	_	6	nsubj:pass	_	GermanLemma=Hassgefühle
 6	ausdruckt	_	VERB	_	_	0	root	_	GermanLemma=ausdrücken|SpaceAfter=No

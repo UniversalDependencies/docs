@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-136 nodes (2%) are attached to their parents as `expl`.
+159 nodes (2%) are attached to their parents as `expl`.
 
-136 instances of `expl` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.49264705882353.
+159 instances of `expl` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.54716981132075.
 
-The following 5 pairs of parts of speech are connected with `expl`: <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> (127; 93% instances), <tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> (3; 2% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> (3; 2% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt>-<tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> (1; 1% instances).
+The following 5 pairs of parts of speech are connected with `expl`: <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> (149; 94% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> (4; 3% instances), <tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> (3; 2% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt>-<tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -40,6 +40,36 @@ The following 5 pairs of parts of speech are connected with `expl`: <tt><a href=
 16	sì	sì	CCONJ	_	_	17	cc	_	Gloss=and|Ref=GEN_1.3
 17	wà	wà	VERB	_	_	3	conj	_	Gloss=was|Ref=GEN_1.3|SpaceAfter=No
 18	.	.	PUNCT	_	_	3	punct	_	Gloss=.|Ref=GEN_1.3
+
+~~~
+
+
+~~~ conllu
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 14	bgColor:blue
+# visual-style 14	fgColor:white
+# visual-style 14 11 expl	color:blue
+1	Obìnrin	Obìnrin	NOUN	_	_	4	nsubj	_	Gloss=woman|Ref=MARK_5.25
+2	kan	kan	NUM	_	NumType=Card	1	nmod	_	Gloss=a|Ref=MARK_5.25
+3	sì	sì	CCONJ	_	_	4	cc	_	Gloss=and|Ref=MARK_5.25
+4	wà	wà	VERB	_	_	0	root	_	Gloss=was|Ref=MARK_5.25
+5	láàrin	láàrin	ADP	_	_	7	case	_	Gloss=among|Ref=MARK_5.25
+6	ọ̀pọ̀	ọ̀pọ̀	ADJ	_	_	7	amod	_	Gloss=many|Ref=MARK_5.25
+7	ènìyàn	ènìyàn	NOUN	_	_	4	obl	_	Gloss=people|Ref=MARK_5.25
+8	náà	náà	DET	_	_	7	det	_	Gloss=the|Ref=MARK_5.25|SpaceAfter=No
+9	,	,	PUNCT	_	_	14	punct	_	Gloss=,|Ref=MARK_5.25
+10	tí	tí	PRON	_	PronType=Rel	14	nsubj	_	Gloss=that|Ref=MARK_5.25
+11	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	14	expl	_	Gloss=he|Ref=MARK_5.25
+12	ti	ti	AUX	_	_	13	aux	_	Gloss=have|Ref=MARK_5.25
+13	ní	ní	VERB	_	_	14	ccomp	_	Gloss=had|Ref=MARK_5.25
+14	ìsun	ìsun	NOUN	_	_	4	obj	_	Gloss=issue|Ref=MARK_5.25
+15	ẹ̀jẹ̀	ẹ̀jẹ̀	NOUN	_	_	14	nmod	_	Gloss=blood|Ref=MARK_5.25
+16	fún	fún	ADP	_	_	17	case	_	Gloss=unto|Ref=MARK_5.25
+17	odidi	odidi	ADJ	_	_	18	amod	_	Gloss=the|Ref=MARK_5.25
+18	ọdún	ọdún	NOUN	_	_	14	obl	_	Gloss=years|Ref=MARK_5.25
+19	méjìlá	méjìlá	ADJ	_	_	17	amod	_	Gloss=twelve|Ref=MARK_5.25|SpaceAfter=No
+20	.	.	PUNCT	_	_	4	punct	_	Gloss=.|Ref=MARK_5.25
 
 ~~~
 
@@ -83,36 +113,6 @@ The following 5 pairs of parts of speech are connected with `expl`: <tt><a href=
 31	jù	jù	VERB	_	_	30	compound:svc	_	Gloss=pass|Ref=PS_131.1
 32	mí	mí	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	31	obj	_	Gloss=me|Ref=PS_131.1
 33	lọ	lọ	VERB	_	_	31	compound:svc	_	Gloss=go|Ref=PS_131.1
-
-~~~
-
-
-~~~ conllu
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 14	bgColor:blue
-# visual-style 14	fgColor:white
-# visual-style 14 11 expl	color:blue
-1	Obìnrin	Obìnrin	NOUN	_	_	4	nsubj	_	Gloss=woman|Ref=MARK_5.25
-2	kan	kan	NUM	_	NumType=Card	1	nmod	_	Gloss=a|Ref=MARK_5.25
-3	sì	sì	CCONJ	_	_	4	cc	_	Gloss=and|Ref=MARK_5.25
-4	wà	wà	VERB	_	_	0	root	_	Gloss=was|Ref=MARK_5.25
-5	láàrin	láàrin	ADP	_	_	7	case	_	Gloss=among|Ref=MARK_5.25
-6	ọ̀pọ̀	ọ̀pọ̀	ADJ	_	_	7	amod	_	Gloss=many|Ref=MARK_5.25
-7	ènìyàn	ènìyàn	NOUN	_	_	4	obl	_	Gloss=people|Ref=MARK_5.25
-8	náà	náà	DET	_	_	7	det	_	Gloss=the|Ref=MARK_5.25|SpaceAfter=No
-9	,	,	PUNCT	_	_	14	punct	_	Gloss=,|Ref=MARK_5.25
-10	tí	tí	PRON	_	PronType=Rel	14	nsubj	_	Gloss=that|Ref=MARK_5.25
-11	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	14	expl	_	Gloss=he|Ref=MARK_5.25
-12	ti	ti	AUX	_	_	13	aux	_	Gloss=have|Ref=MARK_5.25
-13	ní	ní	VERB	_	_	14	ccomp	_	Gloss=had|Ref=MARK_5.25
-14	ìsun	ìsun	NOUN	_	_	4	obj	_	Gloss=issue|Ref=MARK_5.25
-15	ẹ̀jẹ̀	ẹ̀jẹ̀	NOUN	_	_	14	nmod	_	Gloss=blood|Ref=MARK_5.25
-16	fún	fún	ADP	_	_	17	case	_	Gloss=unto|Ref=MARK_5.25
-17	odidi	odidi	ADJ	_	_	18	amod	_	Gloss=the|Ref=MARK_5.25
-18	ọdún	ọdún	NOUN	_	_	14	obl	_	Gloss=years|Ref=MARK_5.25
-19	méjìlá	méjìlá	ADJ	_	_	17	amod	_	Gloss=twelve|Ref=MARK_5.25|SpaceAfter=No
-20	.	.	PUNCT	_	_	4	punct	_	Gloss=.|Ref=MARK_5.25
 
 ~~~
 

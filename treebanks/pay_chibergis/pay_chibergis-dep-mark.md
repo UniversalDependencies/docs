@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-100 nodes (4%) are attached to their parents as `mark`.
+152 nodes (4%) are attached to their parents as `mark`.
 
-100 instances of `mark` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.34.
+152 instances of `mark` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.36842105263158.
 
-The following 9 pairs of parts of speech are connected with `mark`: <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-SCONJ.html">SCONJ</a></tt> (58; 58% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-PART.html">PART</a></tt> (25; 25% instances), <tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pay_chibergis-pos-SCONJ.html">SCONJ</a></tt> (5; 5% instances), <tt><a href="pay_chibergis-pos-PART.html">PART</a></tt>-<tt><a href="pay_chibergis-pos-ADP.html">ADP</a></tt> (4; 4% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-ADP.html">ADP</a></tt> (3; 3% instances), <tt><a href="pay_chibergis-pos-PART.html">PART</a></tt>-<tt><a href="pay_chibergis-pos-PART.html">PART</a></tt> (2; 2% instances), <tt><a href="pay_chibergis-pos-ADV.html">ADV</a></tt>-<tt><a href="pay_chibergis-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pay_chibergis-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="pay_chibergis-pos-X.html">X</a></tt>-<tt><a href="pay_chibergis-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances).
+The following 10 pairs of parts of speech are connected with `mark`: <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-SCONJ.html">SCONJ</a></tt> (91; 60% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-PART.html">PART</a></tt> (37; 24% instances), <tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pay_chibergis-pos-SCONJ.html">SCONJ</a></tt> (7; 5% instances), <tt><a href="pay_chibergis-pos-PART.html">PART</a></tt>-<tt><a href="pay_chibergis-pos-ADP.html">ADP</a></tt> (4; 3% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-ADP.html">ADP</a></tt> (4; 3% instances), <tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pay_chibergis-pos-PART.html">PART</a></tt> (3; 2% instances), <tt><a href="pay_chibergis-pos-PART.html">PART</a></tt>-<tt><a href="pay_chibergis-pos-PART.html">PART</a></tt> (3; 2% instances), <tt><a href="pay_chibergis-pos-ADV.html">ADV</a></tt>-<tt><a href="pay_chibergis-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt>-<tt><a href="pay_chibergis-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="pay_chibergis-pos-X.html">X</a></tt>-<tt><a href="pay_chibergis-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -35,18 +35,15 @@ The following 9 pairs of parts of speech are connected with `mark`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 6 mark	color:blue
-1	toʔ	toʔ	PRON	_	_	3	det	_	AlignBegin=52315|AlignEnd=52525|Gloss=MED.DEM|MGloss=MED.DEM|MSeg=toʔ|nWord=1|RX=[PRO]|TokenType=Root|Word=toʔ
-2	=ma	=ma	PART	_	_	3	case	_	AlignBegin=52525|AlignEnd=52735|Gloss==TOP|MGloss==TOP|MSeg==ma|nWord=2|RX=[PRT]|TokenType=Clit|Word=ma
-3	apar	par	NOUN	_	_	5	obj	_	AlignBegin=52735|AlignEnd=52945|Gloss=tail|MGloss=POSS3SG- tail|MSeg=a-par|nWord=3|RX=[N]|TokenType=Root|Word=apar|wordform=a-par
-4	=pero	=pero	PART	_	_	3	advmod	_	AlignBegin=52945|AlignEnd=53155|Gloss==only|MGloss==only|MSeg==pero|nWord=4|RX=[PRT]|TokenType=Clit|Word=pero
-5	ʃãeri	ʃã	VERB	_	_	0	root	_	AlignBegin=53155|AlignEnd=53365|Gloss=see|MGloss=O3SG- see -S3PL -PST|MSeg=Ø-ʃã-er-i|nWord=5|RX=[VT]|TokenType=Root|Word=ʃẽri|wordform=Ø-ʃã-er-i
-6	=na	=na	PART	_	_	5	mark	_	AlignBegin=53365|AlignEnd=53575|Gloss==REP|MGloss==REP|MSeg==na|nWord=6|RX=[PRT]|TokenType=Clit|Word=na
-7	.	_	PUNCT	_	_	5	punct	_	AlignBegin=53575|AlignEnd=53785|Gloss=.|MGloss=.|MSeg=.|nWord=7|Word=.
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 mark	color:blue
+1	iʃkerpi	iʃk	VERB	_	_	3	advcl	_	AlignBegin=15083|AlignEnd=15526|Gloss=make|MGloss=O3SG- make -S3PL -FUT|MSeg=Ø-iʃk-er-pi|nWord=1|RX=[VT]|TokenType=Root|wordform=Ø-iʃk-er-pi
+2	=kan	_	PART	_	_	1	mark	_	AlignBegin=15526|AlignEnd=15969|Gloss==SIM|MGloss==SIM|MSeg==kan|nWord=2|RX=[PRT]|TokenType=Clit
+3	ʃairwa	tʃa	VERB	_	_	0	root	_	AlignBegin=15969|AlignEnd=16412|Gloss=be.there|MGloss=be.there -S3PL -PFV|MSeg=ʃa-ir-wa|nWord=3|RX=[VI]|TokenType=Root|wordform=ʃa-ir-wa
+4	.	_	PUNCT	_	_	3	punct	_	AlignBegin=16412|AlignEnd=16855|Gloss=.|MGloss=.|MSeg=.|nWord=4
 
 ~~~
 
@@ -58,7 +55,7 @@ The following 9 pairs of parts of speech are connected with `mark`: <tt><a href=
 # visual-style 2	fgColor:white
 # visual-style 2 4 mark	color:blue
 1	tas	tas	PRON	PRO	_	2	nsubj	_	AlignBegin=27840|AlignEnd=28721|Gloss=PRO1|MGloss=PRO1|MSeg=tas|nWord=1|RX=[PRO]|TokenType=Root|Word=tas
-2	ye	ye	NOUN	N	_	7	advcl	_	AlignBegin=28721|AlignEnd=29602|Gloss=small|MGloss=small|MSeg=ye|nWord=2|RX=[N]|TokenType=Root|Word=ye
+2	ye	ye	NOUN	N	_	7	obl:tmod	_	AlignBegin=28721|AlignEnd=29602|Gloss=small|MGloss=small|MSeg=ye|nWord=2|RX=[N]|TokenType=Root|Word=ye
 3	=rira	r	AUX	COP	_	2	cop	_	AlignBegin=29602|AlignEnd=30483|Gloss==COP:S1SG:PST|MGloss==COP:S1SG:PST|MSeg==rira|nWord=3|RX=[COP]|TokenType=Clit|Word=rira
 4	=mã	=mã	SCONJ	PRT	_	2	mark	_	AlignBegin=30483|AlignEnd=31364|Gloss==when|MGloss==when|MSeg==mã|nWord=4|RX=[PRT]|TokenType=Clit|Word=mã
 5	tasuwa	suwa	NOUN	N	_	7	obl:arg	_	AlignBegin=31364|AlignEnd=32245|Gloss=grandmother|MGloss=POSS1- grandmother|MSeg=ta-suwa|nWord=5|RX=[N]|TokenType=Root|Word=tasuwa|wordform=ta-suwa

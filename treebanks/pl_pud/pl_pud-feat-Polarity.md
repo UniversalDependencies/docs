@@ -44,7 +44,7 @@ The most frequent other feature values with which `NOUN` and `Polarity` co-occur
 `NOUN` tokens may have the following values of `Polarity`:
 
 * `Pos` (220; 100% of non-empty `Polarity`): <em>zniszczenie, kręcenia, ograniczaniu, ograniczenia, opuszczenia, otwarcie, poszukiwaniu, powstrzymania, przejęcia, przekroczenie</em>
-* `EMPTY` (4426): <em>r, lat, roku, %, części, miejsce, wojny, latach, p.n.e, ludzi</em>
+* `EMPTY` (4412): <em>r, lat, roku, %, części, miejsce, wojny, latach, p.n.e, ludzi</em>
 
 `Polarity` seems to be **lexical feature** of `NOUN`. 100% lemmas (160) occur only with one value of `Polarity`.
 
@@ -55,10 +55,11 @@ The most frequent other feature values with which `NOUN` and `Polarity` co-occur
 `PART` tokens may have the following values of `Polarity`:
 
 * `Neg` (123; 100% of non-empty `Polarity`): <em>nie</em>
-* `EMPTY` (290): <em>również, tylko, już, jednak, czy, około, jeszcze, może, ponad, nawet</em>
+* `EMPTY` (289): <em>również, tylko, już, jednak, czy, około, jeszcze, może, ponad, nawet</em>
 
 ## Relations with Agreement in `Polarity`
 
 The 10 most frequent relations where parent and child node agree in `Polarity`:
-<tt>ADJ --[<tt><a href="pl_pud-dep-conj.html">conj</a></tt>]--> ADJ</tt> (9; 56%).
+<tt>ADJ --[<tt><a href="pl_pud-dep-conj.html">conj</a></tt>]--> ADJ</tt> (8; 53%),
+<tt>ADJ --[<tt><a href="pl_pud-dep-parataxis.html">parataxis</a></tt>]--> ADJ</tt> (1; 100%).
 

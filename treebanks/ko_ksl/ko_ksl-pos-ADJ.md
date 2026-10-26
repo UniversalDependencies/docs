@@ -6,85 +6,87 @@ udver: '2'
 
 ## Treebank Statistics: UD_Korean-KSL: POS Tags: `ADJ`
 
-There are 852 `ADJ` lemmas (5%), 837 `ADJ` types (5%) and 3228 `ADJ` tokens (5%).
-Out of 15 observed tags, the rank of `ADJ` is: 4 in number of lemmas, 4 in number of types and 5 in number of tokens.
+There are 3778 `ADJ` lemmas (12%), 3790 `ADJ` types (12%) and 14289 `ADJ` tokens (9%).
+Out of 16 observed tags, the rank of `ADJ` is: 4 in number of lemmas, 4 in number of types and 5 in number of tokens.
 
-The 10 most frequent `ADJ` lemmas: 있+다, 있+습니다, 많+다, 다른, 좋+은, 없+다, 크+ㄴ, 좋+다, 많+은, 다르+ㄴ
+The 10 most frequent `ADJ` lemmas: 다르+ㄴ, 것+이+ㅂ니다, 좋+은, 것+이+다, 많+은, 크+ㄴ, 아니+라, 많+다, 때문+이+다, 좋+다
 
-The 10 most frequent `ADJ` types:  있다, 다른, 있습니다, 많다, 좋은, 없다, 큰, 좋다, 많은, 많습니다
+The 10 most frequent `ADJ` types:  다른, 겁니다, 좋은, 것이다, 많은, 큰, 아니라, 많다, 때문이다, 좋다
 
-The 10 most frequent ambiguous lemmas: 있+다 (<tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> 401, <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> 24), 있+습니다 (<tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> 117, <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> 21), 많+다 (<tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> 94, <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> 2), 좋+은 (<tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> 88, <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> 56, <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> 1), 없+다 (<tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> 72, <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> 1), 크+ㄴ (<tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> 70, <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> 1), 많+은 (<tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> 59, <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> 21, <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> 6), 있+어요 (<tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> 45, <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> 4), 있+었+다 (<tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> 37, <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> 4), 아름답+ㄴ (<tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> 35, <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> 3)
+The 10 most frequent ambiguous lemmas: 다르+ㄴ (<tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> 513, <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> 1), 좋+은 (<tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> 450, <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> 1), 많+은 (<tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> 291, <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> 6), 때문+이+다 (<tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> 188, <tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt> 1), 없+다 (<tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> 96, <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> 85), 없+는 (<tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> 83, <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> 52), 없+어서 (<tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> 72, <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> 2), 것+이+에요 (<tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> 70, <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> 1), 없+고 (<tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> 57, <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> 4), 많+고 (<tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> 54, <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> 1)
 
-The 10 most frequent ambiguous types:  있다 (<tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> 402, <tt><a href="ko_ksl-pos-AUX.html">AUX</a></tt> 104, <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> 24), 있습니다 (<tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> 117, <tt><a href="ko_ksl-pos-AUX.html">AUX</a></tt> 31, <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> 21), 많다 (<tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> 94, <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> 2), 좋은 (<tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> 88, <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> 56, <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> 1), 없다 (<tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> 72, <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> 1), 큰 (<tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> 70, <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> 1), 많은 (<tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> 59, <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> 21, <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> 6), 있어요 (<tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> 45, <tt><a href="ko_ksl-pos-AUX.html">AUX</a></tt> 8, <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> 4), 있었다 (<tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> 37, <tt><a href="ko_ksl-pos-AUX.html">AUX</a></tt> 17, <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> 4), 아름다운 (<tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> 35, <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> 3)
+The 10 most frequent ambiguous types:  다른 (<tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> 513, <tt><a href="ko_ksl-pos-DET.html">DET</a></tt> 91, <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> 1), 좋은 (<tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> 450, <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> 1), 많은 (<tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> 291, <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> 6, <tt><a href="ko_ksl-pos-X.html">X</a></tt> 1), 때문이다 (<tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> 188, <tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt> 1), 같은 (<tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> 118, <tt><a href="ko_ksl-pos-X.html">X</a></tt> 2), 없다 (<tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> 96, <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> 85), 없는 (<tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> 83, <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> 53), 없어서 (<tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> 72, <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> 2), 없고 (<tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> 57, <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> 4), 많고 (<tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> 54, <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> 1)
 
 
-* 있다
-  * <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> 402: 또한 다른 지역이나 다른 나라에 역사에 대해서 알 수 <b>있다</b> .
-  * <tt><a href="ko_ksl-pos-AUX.html">AUX</a></tt> 104: 요즘 사형제도를 폐지하는 나라가 많아지고 <b>있다</b> .
-  * <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> 24: 그 공연이 지금까지 몇개 월에 지내지만 그 때 받았던 감동적인 느낌을 <b>있다</b> .
-* 있습니다
-  * <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> 117: 학교에 학생 식당 <b>있습니다</b> .
-  * <tt><a href="ko_ksl-pos-AUX.html">AUX</a></tt> 31: 먼저 , 저는 일찍 자고 , 일찍 일어나기 위해 노력하고 <b>있습니다</b>
-  * <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> 21: 여의도공원이 여의도역 3번 출구 옆에 <b>있습니다</b> .
-* 많다
-  * <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> 94: 실제로 한국에 아니라 외국에서 한국어를 잘 배우는 사람도 아주 <b>많다</b> .
-  * <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> 2: 우리 이제부터 환경오염을 줄이기로 하면 너무 늦지 <b>많다</b> .
+* 다른
+  * <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> 513: 음식 습관은 <b>다른</b> 것보다 쉬운 유지하고 매일 꼭 하기 때문에 건강을 하고 싶은 사람에게 추천합니다 .
+  * <tt><a href="ko_ksl-pos-DET.html">DET</a></tt> 91: <b>다른</b> 나라 도 갈 수 있다 .
+  * <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> 1: 제가 <b>다른</b> 사람과 진짜로 협동할 기회 별로 없으니까 경쟁은 경험이 더 많아요 .
 * 좋은
-  * <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> 88: 등산을 <b>좋은</b> 운동을 하지만 사신의 안성 꼭 보증해야 한다 .
-  * <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> 56: 댄스가 생각보다 <b>좋은</b> 취미니까 시간이 있으면 앞으로도 게속 할 것이다 .
+  * <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> 450: 빨리 걸어서 저의 건강을 유지하는 것에 대해 <b>좋은</b> 효과가 있습니다 .
   * <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> 1: 아무래도 건간에 <b>좋은</b> 종요합니다 .
-* 없다
-  * <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> 72: 이번달도 여행을 가려고 한는데 가고 싶은 곳이 <b>없다</b> .
-  * <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> 1: 그러므로 우리는 환경 문제를 미룰 수 <b>없다</b> 앞으로 사람들이 나무를 메는 상황을 줄여야 된다 .
-* 큰
-  * <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> 70: 하지만 3년이 지난후에 회복되는 희망이 없는 것이 제일 <b>큰</b> 문제이다 .
-  * <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> 1: 윤택전도 가장 키가 <b>큰</b> 사람이다 .
 * 많은
-  * <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> 59: 또한 훠꿔를 먹을 때 <b>많은</b> 사람과 함께 먹을 수 있기 때문에 친분을 쌓이려면 훠꿔를 먹는 것이 좋다 .
-  * <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> 21: 올해 더 <b>많은</b> 좋은 소재로 만든 드라마를 볼 수 있었으면 좋겠다 .
-  * <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> 6: 그 샹그리라는 중국에 소속민족이 <b>많은</b> 있는데 특생 문화 많다 .
-* 있어요
-  * <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> 45: 그리고 지금 요코라는 일본에서 혼자 좀 배워서 한국에 오면 선생님께서 가르치면 한국어 실력은 빨리 좋아해 질 수 <b>있어요</b> !
-  * <tt><a href="ko_ksl-pos-AUX.html">AUX</a></tt> 8: 한국에서 한국어를 계속 공부하게 되면 잘 할 수 있다고 생각으로 한국에 왔지만 그 언어에 낙심하고 <b>있어요</b> .
-  * <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> 4: 이런 생각이 도 <b>있어요</b> .
-* 있었다
-  * <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> 37: 취미가 같아서 나는 말이 많이 없는 사람이지만 우리는 많이 즐겁게 이야기를 할 수 <b>있었다</b> .
-  * <tt><a href="ko_ksl-pos-AUX.html">AUX</a></tt> 17: 표를 한첨전에 예매해 놓아서 기대를 많이 하고 <b>있었다</b> .
-  * <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> 4: 이 영화의 포스터 처음 봤을때 꼭 봤야겠는생각이 <b>있었다</b> .
-* 아름다운
-  * <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> 35: 홍도는 <b>아름다운</b> 섬인데 해마다 수십만의 관광객이 몰려든다 .
-  * <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> 3: 설악산은 <b>아름다운</b> 곳입니다 .
+  * <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> 291: 기억에 남는 날은 많이 있지만 그 날은 제 입시 공부를 응원해 주셨던 <b>많은</b> 사람들에게 감사한 날이어서 그 날을 선택했다 .
+  * <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> 6: 이 호수도 내 기억에 <b>많은</b> 남는 곳이 되었다 .
+  * <tt><a href="ko_ksl-pos-X.html">X</a></tt> 1: 우리는 그런 역사를 배우고 두번다시 같은 사건을 발생하지 않도록 수 <b>많은</b> 노력이나 대책을 새워야 한다 .
+* 때문이다
+  * <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> 188: 이유는 4세 아이가 김치를 다 먹을 수 없어서 선생님이 아이를 때렸기 <b>때문이다</b> .
+  * <tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt> 1: 왜냐하면 땀이 나오며 운동하는 시간이 별로 없으면 도움이 되기 <b>때문이다</b> .
+* 같은
+  * <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> 118: 유코씨 <b>같은</b> 사람은 꼭 한국에 와서 한국말을 공부하는 것이 나아요 .
+  * <tt><a href="ko_ksl-pos-X.html">X</a></tt> 2: 모든 사람들이 똑 <b>같은</b> 성격을 가지고 있는 세상이 상상해 보세요 .
+* 없다
+  * <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> 96: 사랑하는 법을 배웠는데 사랑하는 사람들이 곁에 없고 다시 만날 수 도 <b>없다</b> .
+  * <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> 85: 별로 월금이 한달 동안에는 모두 쓸 수 <b>없다</b> .
+* 없는
+  * <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> 83: 이 가족은 정기적으로 경제인 문제 견디고 있어서 안락사는 가족에게 어쩔 수 <b>없는</b> 해결하는 방법이라고 생각한다 .
+  * <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> 53: 옛날에 짓어진 사영식 곤물이 많아서 이국적인 분의기가 있어서 일상생활에서는 느낄 수 <b>없는</b> 역사를 느껴서 간동했다 .
+* 없어서
+  * <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> 72: 여행을 좋아하지만 돈이 <b>없어서</b> 서울에서만 구경합니다 .
+  * <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> 2: 그래서 가끔 고향음식을 먹고 싶을때도 먹을 수 없고 친구들을 초대도 할 수 <b>없어서</b> 불편한 다고 생각한다 .
+* 없고
+  * <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> 57: 사랑하는 법을 배웠는데 사랑하는 사람들이 곁에 <b>없고</b> 다시 만날 수 도 없다 .
+  * <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> 4: 하지만 안락사를 하면 그기족조차 생길 수 <b>없고</b> 가족들이 이제 포기했다라는 것에 된다 .
+* 많고
+  * <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> 54: 해양공원은 해양동물도 많이 있다 틀별한 물고기 <b>많고</b> 다른나라 동물도 많았다
+  * <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> 1: 나 차를 사고 싶은데 돈이 없어서 부자가 돈이 <b>많고</b> 되고 싶다 .
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 0.982394 (the average of all parts of speech is 1.004265).
+The form / lemma ratio of `ADJ` is 1.003176 (the average of all parts of speech is 1.008073).
 
-The 1st highest number of forms (2) was observed with the lemma “아니+다”: 아니다, 아닌다.
+The 1st highest number of forms (3) was observed with the lemma “것+이+ㅂ니다”: 겁니다, 것, 것입니다.
 
-The 2nd highest number of forms (2) was observed with the lemma “아름답+었+다”: 아름다었다, 아름다웠다.
+The 2nd highest number of forms (3) was observed with the lemma “것+이+에요”: 거에요, 거예요, 것이에요.
 
-The 3rd highest number of forms (2) was observed with the lemma “예쁘+ㅂ니다”: 에쁩니다, 예쁩니다.
+The 3rd highest number of forms (2) was observed with the lemma “40+명+이+었+다”: 40명이었다, 40명이였다.
 
-`ADJ` does not occur with any features.
+`ADJ` occurs with 1 features: <tt><a href="ko_ksl-feat-Typo.html">Typo</a></tt> (400; 3% instances)
+
+`ADJ` occurs with 1 feature-value pairs: `Typo=Yes`
+
+`ADJ` occurs with 2 feature combinations.
+The most frequent feature combination is `_` (13889 tokens).
+Examples: 다른, 겁니다, 좋은, 것이다, 많은, 큰, 아니라, 많다, 때문이다, 좋다
 
 
 ## Relations
 
-`ADJ` nodes are attached to their parents using 15 different relations: <tt><a href="ko_ksl-dep-root.html">root</a></tt> (1757; 54% instances), <tt><a href="ko_ksl-dep-amod.html">amod</a></tt> (1156; 36% instances), <tt><a href="ko_ksl-dep-conj.html">conj</a></tt> (215; 7% instances), <tt><a href="ko_ksl-dep-acl.html">acl</a></tt> (70; 2% instances), <tt><a href="ko_ksl-dep-advcl.html">advcl</a></tt> (7; 0% instances), <tt><a href="ko_ksl-dep-obl.html">obl</a></tt> (7; 0% instances), <tt><a href="ko_ksl-dep-parataxis.html">parataxis</a></tt> (4; 0% instances), <tt><a href="ko_ksl-dep-nmod.html">nmod</a></tt> (3; 0% instances), <tt><a href="ko_ksl-dep-nsubj.html">nsubj</a></tt> (3; 0% instances), <tt><a href="ko_ksl-dep-advmod.html">advmod</a></tt> (1; 0% instances), <tt><a href="ko_ksl-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="ko_ksl-dep-discourse.html">discourse</a></tt> (1; 0% instances), <tt><a href="ko_ksl-dep-fixed.html">fixed</a></tt> (1; 0% instances), <tt><a href="ko_ksl-dep-nmod-poss.html">nmod:poss</a></tt> (1; 0% instances), <tt><a href="ko_ksl-dep-obj.html">obj</a></tt> (1; 0% instances)
+`ADJ` nodes are attached to their parents using 17 different relations: <tt><a href="ko_ksl-dep-root.html">root</a></tt> (5731; 40% instances), <tt><a href="ko_ksl-dep-amod.html">amod</a></tt> (3545; 25% instances), <tt><a href="ko_ksl-dep-advcl.html">advcl</a></tt> (1959; 14% instances), <tt><a href="ko_ksl-dep-acl.html">acl</a></tt> (1145; 8% instances), <tt><a href="ko_ksl-dep-ccomp.html">ccomp</a></tt> (808; 6% instances), <tt><a href="ko_ksl-dep-conj.html">conj</a></tt> (673; 5% instances), <tt><a href="ko_ksl-dep-obl.html">obl</a></tt> (132; 1% instances), <tt><a href="ko_ksl-dep-nmod.html">nmod</a></tt> (86; 1% instances), <tt><a href="ko_ksl-dep-flat.html">flat</a></tt> (84; 1% instances), <tt><a href="ko_ksl-dep-obj.html">obj</a></tt> (52; 0% instances), <tt><a href="ko_ksl-dep-nsubj.html">nsubj</a></tt> (37; 0% instances), <tt><a href="ko_ksl-dep-parataxis.html">parataxis</a></tt> (17; 0% instances), <tt><a href="ko_ksl-dep-list.html">list</a></tt> (12; 0% instances), <tt><a href="ko_ksl-dep-csubj.html">csubj</a></tt> (4; 0% instances), <tt><a href="ko_ksl-dep-dislocated.html">dislocated</a></tt> (2; 0% instances), <tt><a href="ko_ksl-dep-appos.html">appos</a></tt> (1; 0% instances), <tt><a href="ko_ksl-dep-dep.html">dep</a></tt> (1; 0% instances)
 
-Parents of `ADJ` nodes belong to 6 different parts of speech:  (1757; 54% instances), <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (920; 29% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> (356; 11% instances), <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> (191; 6% instances), <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="ko_ksl-pos-PRON.html">PRON</a></tt> (1; 0% instances)
+Parents of `ADJ` nodes belong to 10 different parts of speech:  (5731; 40% instances), <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (3497; 24% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> (2302; 16% instances), <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> (1795; 13% instances), <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> (732; 5% instances), <tt><a href="ko_ksl-pos-AUX.html">AUX</a></tt> (215; 2% instances), <tt><a href="ko_ksl-pos-PRON.html">PRON</a></tt> (9; 0% instances), <tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="ko_ksl-pos-DET.html">DET</a></tt> (2; 0% instances)
 
-1102 (34%) `ADJ` nodes are leaves.
+3558 (25%) `ADJ` nodes are leaves.
 
-168 (5%) `ADJ` nodes have one child.
+2768 (19%) `ADJ` nodes have one child.
 
-413 (13%) `ADJ` nodes have two children.
+3007 (21%) `ADJ` nodes have two children.
 
-1545 (48%) `ADJ` nodes have three or more children.
+4956 (35%) `ADJ` nodes have three or more children.
 
 The highest child degree of a `ADJ` node is 8.
 
-Children of `ADJ` nodes are attached using 22 different relations: <tt><a href="ko_ksl-dep-punct.html">punct</a></tt> (1941; 30% instances), <tt><a href="ko_ksl-dep-nsubj.html">nsubj</a></tt> (1658; 25% instances), <tt><a href="ko_ksl-dep-advcl.html">advcl</a></tt> (883; 14% instances), <tt><a href="ko_ksl-dep-advmod.html">advmod</a></tt> (644; 10% instances), <tt><a href="ko_ksl-dep-obl.html">obl</a></tt> (639; 10% instances), <tt><a href="ko_ksl-dep-cc.html">cc</a></tt> (348; 5% instances), <tt><a href="ko_ksl-dep-dislocated.html">dislocated</a></tt> (273; 4% instances), <tt><a href="ko_ksl-dep-obj.html">obj</a></tt> (55; 1% instances), <tt><a href="ko_ksl-dep-case.html">case</a></tt> (11; 0% instances), <tt><a href="ko_ksl-dep-acl.html">acl</a></tt> (8; 0% instances), <tt><a href="ko_ksl-dep-csubj.html">csubj</a></tt> (8; 0% instances), <tt><a href="ko_ksl-dep-goeswith.html">goeswith</a></tt> (7; 0% instances), <tt><a href="ko_ksl-dep-ccomp.html">ccomp</a></tt> (6; 0% instances), <tt><a href="ko_ksl-dep-conj.html">conj</a></tt> (6; 0% instances), <tt><a href="ko_ksl-dep-nmod.html">nmod</a></tt> (6; 0% instances), <tt><a href="ko_ksl-dep-mark.html">mark</a></tt> (5; 0% instances), <tt><a href="ko_ksl-dep-nmod-poss.html">nmod:poss</a></tt> (5; 0% instances), <tt><a href="ko_ksl-dep-parataxis.html">parataxis</a></tt> (5; 0% instances), <tt><a href="ko_ksl-dep-appos.html">appos</a></tt> (3; 0% instances), <tt><a href="ko_ksl-dep-vocative.html">vocative</a></tt> (3; 0% instances), <tt><a href="ko_ksl-dep-nummod.html">nummod</a></tt> (2; 0% instances), <tt><a href="ko_ksl-dep-amod.html">amod</a></tt> (1; 0% instances)
+Children of `ADJ` nodes are attached using 29 different relations: <tt><a href="ko_ksl-dep-nsubj.html">nsubj</a></tt> (6549; 25% instances), <tt><a href="ko_ksl-dep-punct.html">punct</a></tt> (5804; 22% instances), <tt><a href="ko_ksl-dep-advmod.html">advmod</a></tt> (2857; 11% instances), <tt><a href="ko_ksl-dep-advcl.html">advcl</a></tt> (2709; 10% instances), <tt><a href="ko_ksl-dep-obl.html">obl</a></tt> (2280; 9% instances), <tt><a href="ko_ksl-dep-acl.html">acl</a></tt> (1767; 7% instances), <tt><a href="ko_ksl-dep-cc.html">cc</a></tt> (972; 4% instances), <tt><a href="ko_ksl-dep-conj.html">conj</a></tt> (676; 3% instances), <tt><a href="ko_ksl-dep-dislocated.html">dislocated</a></tt> (607; 2% instances), <tt><a href="ko_ksl-dep-nmod.html">nmod</a></tt> (459; 2% instances), <tt><a href="ko_ksl-dep-amod.html">amod</a></tt> (355; 1% instances), <tt><a href="ko_ksl-dep-aux.html">aux</a></tt> (289; 1% instances), <tt><a href="ko_ksl-dep-obj.html">obj</a></tt> (257; 1% instances), <tt><a href="ko_ksl-dep-mark.html">mark</a></tt> (188; 1% instances), <tt><a href="ko_ksl-dep-nmod-poss.html">nmod:poss</a></tt> (167; 1% instances), <tt><a href="ko_ksl-dep-case.html">case</a></tt> (163; 1% instances), <tt><a href="ko_ksl-dep-list.html">list</a></tt> (55; 0% instances), <tt><a href="ko_ksl-dep-ccomp.html">ccomp</a></tt> (46; 0% instances), <tt><a href="ko_ksl-dep-goeswith.html">goeswith</a></tt> (35; 0% instances), <tt><a href="ko_ksl-dep-det.html">det</a></tt> (23; 0% instances), <tt><a href="ko_ksl-dep-csubj.html">csubj</a></tt> (15; 0% instances), <tt><a href="ko_ksl-dep-vocative.html">vocative</a></tt> (15; 0% instances), <tt><a href="ko_ksl-dep-flat.html">flat</a></tt> (13; 0% instances), <tt><a href="ko_ksl-dep-nummod.html">nummod</a></tt> (7; 0% instances), <tt><a href="ko_ksl-dep-appos.html">appos</a></tt> (6; 0% instances), <tt><a href="ko_ksl-dep-parataxis.html">parataxis</a></tt> (6; 0% instances), <tt><a href="ko_ksl-dep-discourse.html">discourse</a></tt> (2; 0% instances), <tt><a href="ko_ksl-dep-compound.html">compound</a></tt> (1; 0% instances), <tt><a href="ko_ksl-dep-dep.html">dep</a></tt> (1; 0% instances)
 
-Children of `ADJ` nodes belong to 11 different parts of speech: <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (2045; 31% instances), <tt><a href="ko_ksl-pos-PUNCT.html">PUNCT</a></tt> (1941; 30% instances), <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> (1487; 23% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> (929; 14% instances), <tt><a href="ko_ksl-pos-PRON.html">PRON</a></tt> (75; 1% instances), <tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt> (25; 0% instances), <tt><a href="ko_ksl-pos-X.html">X</a></tt> (7; 0% instances), <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="ko_ksl-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="ko_ksl-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances)
+Children of `ADJ` nodes belong to 14 different parts of speech: <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (7913; 30% instances), <tt><a href="ko_ksl-pos-PUNCT.html">PUNCT</a></tt> (5804; 22% instances), <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> (4369; 17% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> (3826; 15% instances), <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> (1795; 7% instances), <tt><a href="ko_ksl-pos-CCONJ.html">CCONJ</a></tt> (972; 4% instances), <tt><a href="ko_ksl-pos-AUX.html">AUX</a></tt> (652; 2% instances), <tt><a href="ko_ksl-pos-PRON.html">PRON</a></tt> (489; 2% instances), <tt><a href="ko_ksl-pos-SCONJ.html">SCONJ</a></tt> (188; 1% instances), <tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt> (176; 1% instances), <tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt> (66; 0% instances), <tt><a href="ko_ksl-pos-DET.html">DET</a></tt> (37; 0% instances), <tt><a href="ko_ksl-pos-X.html">X</a></tt> (36; 0% instances), <tt><a href="ko_ksl-pos-PART.html">PART</a></tt> (1; 0% instances)
 

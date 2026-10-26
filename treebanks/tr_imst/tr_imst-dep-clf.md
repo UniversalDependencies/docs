@@ -22,7 +22,7 @@ The following 3 pairs of parts of speech are connected with `clf`: <tt><a href="
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 clf	color:blue
-1	Bir	bir	DET	ANum	_	2	det	_	_
+1	Bir	bir	DET	ANum	PronType=Ind	3	det	_	_
 2	bardak	bardak	NOUN	Noun	Case=Nom|Number=Sing|Person=3	3	clf	_	_
 3	su	su	NOUN	Noun	Case=Nom|Number=Sing|Person=3	4	nsubj	_	_
 4	var	var	ADJ	Adj	_	8	ccomp	_	_
@@ -44,7 +44,7 @@ The following 3 pairs of parts of speech are connected with `clf`: <tt><a href="
 1	Neyse	neyse	ADV	Adverb	_	3	discourse	_	SpaceAfter=No
 2	,	,	PUNCT	Punc	_	3	punct	_	_
 3	buldum	bul	VERB	Verb	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Past	0	root	_	_
-4	bir	bir	NUM	ANum	NumType=Card	5	nummod	_	_
+4	bir	bir	NUM	ANum	NumType=Card	6	nummod	_	_
 5	şişe	şişe	NOUN	Noun	Case=Nom|Number=Sing|Person=3	6	clf	_	_
 6	tonik	tonik	ADJ	NAdj	Case=Nom|Number=Sing|Person=3	3	obj	_	SpaceAfter=No
 7	.	.	PUNCT	Punc	_	3	punct	_	_
@@ -66,14 +66,14 @@ The following 3 pairs of parts of speech are connected with `clf`: <tt><a href="
 6	ile	ile	CCONJ	Conj	_	7	nmod	_	_
 7	karşılaşan	karşılaş	VERB	Verb	Aspect=Perf|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Part	8	acl	_	_
 8	okuyucudan	okuyucu	NOUN	Noun	Case=Abl|Number=Sing|Person=3	12	nsubj	_	_
-9	bu	bu	DET	Det	_	10	det	_	_
+9	bu	bu	DET	Det	PronType=Dem	10	det	_	_
 10	paragrafın	paragraf	NOUN	Noun	Case=Gen|Number=Sing|Person=3	11	nmod:poss	_	_
 11	başına	baş	NOUN	Noun	Case=Dat|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	12	obl	_	_
 12	dönüp	dön	VERB	Verb	Aspect=Perf|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Conv	19	advcl	_	SpaceAfter=No
 13	,	,	PUNCT	Punc	_	12	punct	_	_
 14	bilimsel	bilimsel	ADJ	Adj	_	15	amod	_	_
 15	ölçütü	ölçüt	NOUN	Noun	Case=Acc|Number=Sing|Person=3	19	obj	_	_
-16	bir	bir	NUM	ANum	NumType=Card	17	nummod	_	_
+16	bir	bir	NUM	ANum	NumType=Card	18	nummod	_	_
 17	kez	kez	NOUN	Noun	Case=Nom|Number=Sing|Person=3	18	clf	_	_
 18	daha	daha	ADV	Adverb	_	19	advmod	_	_
 19	okumasını	oku	VERB	Verb	Aspect=Perf|Case=Acc|Mood=Ind|Number[psor]=Sing|Person[psor]=3|Polarity=Pos|Tense=Pres|VerbForm=Vnoun	20	obj	_	_

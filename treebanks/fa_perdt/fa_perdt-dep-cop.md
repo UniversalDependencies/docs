@@ -22,15 +22,15 @@ The following 8 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 8 cop	color:blue
-1	ساعت	ساعت	NOUN	N_IANM	Number=Sing	3	nsubj	_	SpaceAfter=No
-2	،	،	PUNCT	PUNC	_	1	punct	_	_
-3	چهار	چهار	NOUN	N_IANM	Number=Sing	0	root	_	_
-4	یا	یا	CCONJ	CONJ	_	5	cc	_	_
-5	چهار	چهار	NOUN	N_IANM	Number=Sing	3	conj	_	_
-6	و	و	CCONJ	CONJ	_	7	cc	_	_
-7	نیم	نیم	NOUN	N_IANM	Number=Sing	3	conj	_	_
-8	است	است	AUX	AUX	Number=Sing|Person=3	3	cop	_	OrigLemma=#است|SpaceAfter=No
-9	.	.	PUNCT	PUNC	_	3	punct	_	_
+1	ساعت	ساعت	NOUN	N_IANM	Number=Sing	3	nsubj	_	LTranslit=sāʿt|SpaceAfter=No|Translit=sāʿt
+2	،	،	PUNCT	PUNC	_	1	punct	_	LTranslit=,|Translit=,
+3	چهار	چهار	NOUN	N_IANM	Number=Sing	0	root	_	LTranslit=čhār|Translit=čhār
+4	یا	یا	CCONJ	CONJ	_	5	cc	_	LTranslit=īā|Translit=īā
+5	چهار	چهار	NOUN	N_IANM	Number=Sing	3	conj	_	LTranslit=čhār|Translit=čhār
+6	و	و	CCONJ	CONJ	_	7	cc	_	LTranslit=ū|Translit=ū
+7	نیم	نیم	NOUN	N_IANM	Number=Sing	3	conj	_	LTranslit=nīm|Translit=nīm
+8	است	است	AUX	AUX	Number=Sing|Person=3	3	cop	_	LTranslit=āst|OrigLemma=#است|SpaceAfter=No|Translit=āst
+9	.	.	PUNCT	PUNC	_	3	punct	_	LTranslit=.|Translit=.
 
 ~~~
 
@@ -41,18 +41,18 @@ The following 8 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 11 cop	color:blue
-1	برای	برای	ADP	PREP	_	2	case	_	_
-2	او	او	PRON	PR_SEPER	Number=Sing|Person=3	10	obl	_	_
-3	تعریف	تعریف	NOUN	N_IANM	Number=Sing	10	nsubj	_	_
-4	و	و	CCONJ	CONJ	_	5	cc	_	_
-5	تمجید	تمجید	NOUN	N_IANM	Number=Sing	3	conj	_	_
-6	روشنفکران	روشنفکر	NOUN	N_ANM	Number=Plur	3	nmod	_	_
-7	و	و	CCONJ	CONJ	_	8	cc	_	_
-8	منتقدان	منتقد	NOUN	N_ANM	Number=Plur	6	conj	_	_
-9	چندان	چندان	ADV	ADV_SADV	_	10	advmod	_	_
-10	مهم	مهم	ADJ	ADJ_AJP	_	0	root	_	_
-11	نبود	بود	AUX	AUX	Number=Sing|Person=3|Polarity=Neg	10	cop	_	OrigLemma=بود#باش|SpaceAfter=No
-12	.	.	PUNCT	PUNC	_	10	punct	_	_
+1	برای	برای	ADP	PREP	_	2	case	_	LTranslit=brāī|Translit=brāī
+2	او	او	PRON	PR_SEPER	Number=Sing|Person=3|PronType=Prs	10	obl	_	LTranslit=āū|Translit=āū
+3	تعریف	تعریف	NOUN	N_IANM	Number=Sing	10	nsubj	_	LTranslit=tʿrīf|Translit=tʿrīf
+4	و	و	CCONJ	CONJ	_	5	cc	_	LTranslit=ū|Translit=ū
+5	تمجید	تمجید	NOUN	N_IANM	Number=Sing	3	conj	_	LTranslit=tmjīd|Translit=tmjīd
+6	روشنفکران	روشنفکر	NOUN	N_ANM	Number=Plur	3	nmod	_	LTranslit=rūšnfkr|Translit=rūšnfkrān
+7	و	و	CCONJ	CONJ	_	8	cc	_	LTranslit=ū|Translit=ū
+8	منتقدان	منتقد	NOUN	N_ANM	Number=Plur	6	conj	_	LTranslit=mntqd|Translit=mntqdān
+9	چندان	چندان	ADV	ADV_SADV	_	10	advmod	_	LTranslit=čndān|Translit=čndān
+10	مهم	مهم	ADJ	ADJ_AJP	_	0	root	_	LTranslit=mhm|Translit=mhm
+11	نبود	بود	AUX	AUX	Number=Sing|Person=3|Polarity=Neg	10	cop	_	LTranslit=būd|OrigLemma=بود#باش|SpaceAfter=No|Translit=nbūd
+12	.	.	PUNCT	PUNC	_	10	punct	_	LTranslit=.|Translit=.
 
 ~~~
 
@@ -63,11 +63,11 @@ The following 8 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 4 cop	color:blue
-1	پس	پس	ADV	ADV_SADV	_	3	advmod	_	_
-2	مشکل	مشکل	NOUN	N_IANM	Number=Sing	3	nsubj	_	_
-3	چی	چه	PRON	PR_INTG	Number=Sing	0	root	_	_
-4	ست	است	AUX	AUX	Number=Sing|Person=3	3	cop	_	OrigLemma=#است
-5	؟	؟	PUNCT	PUNC	_	3	punct	_	_
+1	پس	پس	ADV	ADV_SADV	_	3	advmod	_	LTranslit=ps|Translit=ps
+2	مشکل	مشکل	NOUN	N_IANM	Number=Sing	3	nsubj	_	LTranslit=mškl|Translit=mškl
+3	چی	چه	PRON	PR_INTG	Number=Sing	0	root	_	LTranslit=čh|Translit=čī
+4	ست	است	AUX	AUX	Number=Sing|Person=3	3	cop	_	LTranslit=āst|OrigLemma=#است|Translit=st
+5	؟	؟	PUNCT	PUNC	_	3	punct	_	LTranslit=?|Translit=?
 
 ~~~
 

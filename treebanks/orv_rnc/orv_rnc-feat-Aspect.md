@@ -24,7 +24,7 @@ The most frequent other feature values with which `VERB` and `Aspect` co-occurre
 
 * `Imp` (1928; 23% of non-empty `Aspect`): <em>стоитъ, сказывают, называют, сбирать, давать, давали, давати, служити, стоит, владѣти</em>
 * `Perf` (6464; 77% of non-empty `Aspect`): <em>взято, пожаловал, дал, принето, послал, написано, пошли, дано, приложил, дати</em>
-* `EMPTY` (6460): <em>смерено, велел, писал, велѣлъ, бысть, велѣно, имати, велено, бью, бьет</em>
+* `EMPTY` (6461): <em>смерено, велел, писал, велѣлъ, бысть, велѣно, имати, велено, бью, бьет</em>
 
 <table>
   <tr><th>Paradigm <i>изволити</i></th><th><tt>Imp</tt></th><th><tt>Perf</tt></th></tr>

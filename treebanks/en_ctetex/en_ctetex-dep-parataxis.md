@@ -22,26 +22,26 @@ The following 16 pairs of parts of speech are connected with `parataxis`: <tt><a
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 16 parataxis	color:blue
-1	The	_	DET	_	_	2	det	_	_
-2	map	_	NOUN	_	_	5	nsubj	_	_
-3	shall	_	AUX	_	_	5	aux	_	_
-4	be	_	AUX	_	_	5	aux	_	_
-5	capable	_	ADJ	_	_	0	root	_	_
-6	of	_	SCONJ	_	_	7	mark	_	_
-7	displaying	_	VERB	_	_	5	xcomp	_	_
-8	the	_	DET	_	_	9	det	_	_
-9	following	_	NOUN	_	_	7	obj	_	_
-10	for	_	ADP	_	_	12	case	_	_
-11	a	_	DET	_	_	12	det	_	_
-12	DMS	_	NOUN	_	_	7	obl	_	SpaceAfter=No
-13	:	_	PUNCT	_	_	16	punct	_	LineAfter=Yes
-14	1	_	NUM	_	_	16	nummod	_	SpaceAfter=No
-15	.	_	PUNCT	_	_	14	punct	_	_
-16	Location	_	NOUN	_	_	7	parataxis	_	LineAfter=Yes
-17	2	_	NUM	_	_	20	nummod	_	SpaceAfter=No
-18	.	_	PUNCT	_	_	17	punct	_	_
-19	Current	_	ADJ	_	_	20	amod	_	_
-20	Message	_	NOUN	_	_	16	list	_	_
+1	The	the	DET	_	_	2	det	_	_
+2	map	map	NOUN	_	Number=Sing	5	nsubj	_	_
+3	shall	shall	AUX	_	_	5	aux	_	_
+4	be	be	AUX	_	Number=Sing|Tense=Pres	5	aux	_	_
+5	capable	capable	ADJ	_	_	0	root	_	_
+6	of	of	SCONJ	_	_	7	mark	_	_
+7	displaying	display	VERB	_	Tense=Past	5	xcomp	_	_
+8	the	the	DET	_	_	9	det	_	_
+9	following	following	NOUN	_	Number=Sing	7	obj	_	_
+10	for	for	ADP	_	_	12	case	_	_
+11	a	a	DET	_	_	12	det	_	_
+12	DMS	dms	NOUN	_	Number=Sing	7	obl	_	SpaceAfter=No
+13	:	:	PUNCT	_	_	16	punct	_	LineAfter=Yes
+14	1	1	NUM	_	_	16	nummod	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	14	punct	_	_
+16	Location	location	NOUN	_	Number=Sing	7	parataxis	_	LineAfter=Yes
+17	2	2	NUM	_	_	20	nummod	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	17	punct	_	_
+19	Current	current	ADJ	_	_	20	amod	_	_
+20	Message	message	NOUN	_	Number=Sing	16	list	_	_
 
 ~~~
 
@@ -52,37 +52,37 @@ The following 16 pairs of parts of speech are connected with `parataxis`: <tt><a
 # visual-style 26	bgColor:blue
 # visual-style 26	fgColor:white
 # visual-style 26 28 parataxis	color:blue
-1	The	_	DET	_	_	3	det	_	_
-2	color	_	NOUN	_	_	3	compound	_	_
-3	coding	_	NOUN	_	_	5	nsubj	_	_
-4	shall	_	AUX	_	_	5	aux	_	_
-5	be	_	VERB	_	_	0	root	_	_
-6	as	_	SCONJ	_	_	7	mark	_	_
-7	follows	_	VERB	_	_	5	advcl	_	SpaceAfter=No
-8	:	_	PUNCT	_	_	10	punct	_	_
-9	·	_	PUNCT	_	_	10	punct	_	_
-10	Green	_	NOUN	_	_	5	parataxis	_	_
-11	-	_	PUNCT	_	_	10	punct	_	_
-12	speeds	_	NOUN	_	_	10	parataxis	_	_
-13	>	_	SYM	_	_	14	advmod	_	_
-14	TBD	_	NUM	_	_	15	nummod	_	_
-15	MPH	_	NOUN	_	_	12	nmod	_	_
-16	·	_	PUNCT	_	_	17	punct	_	_
-17	Yellow	_	NOUN	_	_	10	list	_	_
-18	-	_	PUNCT	_	_	17	punct	_	_
-19	speeds	_	NOUN	_	_	17	parataxis	_	_
-20	between	_	ADP	_	_	24	case	_	_
-21	TBD	_	NUM	_	_	24	nummod	_	_
-22	and	_	CCONJ	_	_	23	cc	_	_
-23	TBD	_	NUM	_	_	21	conj	_	_
-24	MPH	_	NOUN	_	_	19	nmod	_	_
-25	·	_	PUNCT	_	_	26	punct	_	_
-26	Red	_	NOUN	_	_	10	list	_	_
-27	–	_	PUNCT	_	_	26	punct	_	_
-28	speeds	_	NOUN	_	_	26	parataxis	_	_
-29	below	_	ADP	_	_	31	case	_	_
-30	TBD	_	NUM	_	_	31	nummod	_	_
-31	MPH	_	NOUN	_	_	28	nmod	_	_
+1	The	the	DET	_	_	3	det	_	_
+2	color	color	NOUN	_	Number=Sing	3	compound	_	_
+3	coding	coding	NOUN	_	Number=Sing	5	nsubj	_	_
+4	shall	shall	AUX	_	_	5	aux	_	_
+5	be	be	VERB	_	_	0	root	_	_
+6	as	as	SCONJ	_	_	7	mark	_	_
+7	follows	follow	VERB	_	Number=Sing	5	advcl	_	SpaceAfter=No
+8	:	:	PUNCT	_	_	10	punct	_	_
+9	·	·	PUNCT	_	_	10	punct	_	_
+10	Green	green	NOUN	_	Number=Sing	5	parataxis	_	_
+11	-	-	PUNCT	_	_	10	punct	_	_
+12	speeds	speed	NOUN	_	Number=Plur	10	parataxis	_	_
+13	>	>	SYM	_	_	14	advmod	_	_
+14	TBD	TBD	NUM	_	_	15	nummod	_	_
+15	MPH	mph	NOUN	_	Number=Sing	12	nmod	_	_
+16	·	·	PUNCT	_	_	17	punct	_	_
+17	Yellow	yellow	NOUN	_	Number=Sing	10	list	_	_
+18	-	-	PUNCT	_	_	17	punct	_	_
+19	speeds	speed	NOUN	_	Number=Plur	17	parataxis	_	_
+20	between	between	ADP	_	_	24	case	_	_
+21	TBD	TBD	NUM	_	_	24	nummod	_	_
+22	and	and	CCONJ	_	_	23	cc	_	_
+23	TBD	TBD	NUM	_	_	21	conj	_	_
+24	MPH	mph	NOUN	_	Number=Sing	19	nmod	_	_
+25	·	·	PUNCT	_	_	26	punct	_	_
+26	Red	red	NOUN	_	Number=Sing	10	list	_	_
+27	–	–	PUNCT	_	_	26	punct	_	_
+28	speeds	speed	NOUN	_	Number=Plur	26	parataxis	_	_
+29	below	below	ADP	_	_	31	case	_	_
+30	TBD	TBD	NUM	_	_	31	nummod	_	_
+31	MPH	mph	NOUN	_	Number=Sing	28	nmod	_	_
 
 ~~~
 
@@ -93,20 +93,20 @@ The following 16 pairs of parts of speech are connected with `parataxis`: <tt><a
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 7 parataxis	color:blue
-1	Data	_	NOUN	_	_	0	root	_	_
-2	Invalid	_	ADJ	_	_	1	amod	_	_
-3	–	_	PUNCT	_	_	1	punct	_	_
-4	The	_	DET	_	_	5	det	_	_
-5	BE	_	NOUN	_	_	7	nsubj	_	_
-6	shall	_	AUX	_	_	7	aux	_	_
-7	replace	_	VERB	_	_	1	parataxis	_	_
-8	all	_	DET	_	_	10	det	_	_
-9	invalid	_	ADJ	_	_	10	amod	_	_
-10	data	_	NOUN	_	_	7	obj	_	_
-11	with	_	ADP	_	_	13	case	_	_
-12	zero	_	NUM	_	_	13	compound	_	_
-13	values	_	NOUN	_	_	10	nmod	_	SpaceAfter=No
-14	.	_	PUNCT	_	_	1	punct	_	_
+1	Data	data	NOUN	_	Number=Sing	0	root	_	_
+2	Invalid	invalid	ADJ	_	_	1	amod	_	_
+3	–	–	PUNCT	_	_	1	punct	_	_
+4	The	the	DET	_	_	5	det	_	_
+5	BE	be	NOUN	_	Number=Sing	7	nsubj	_	_
+6	shall	shall	AUX	_	_	7	aux	_	_
+7	replace	replace	VERB	_	_	1	parataxis	_	_
+8	all	all	DET	_	_	10	det	_	_
+9	invalid	invalid	ADJ	_	_	10	amod	_	_
+10	data	data	NOUN	_	Number=Sing	7	obj	_	_
+11	with	with	ADP	_	_	13	case	_	_
+12	zero	zero	NUM	_	_	13	compound	_	_
+13	values	value	NOUN	_	Number=Plur	10	nmod	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	1	punct	_	_
 
 ~~~
 

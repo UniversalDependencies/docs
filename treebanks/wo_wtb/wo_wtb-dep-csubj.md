@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `csubj`: <tt><a href="wo_wtb-dep-csubj-outer.html">csubj:outer</a></tt>.
 
-48 nodes (0%) are attached to their parents as `csubj`.
+41 nodes (0%) are attached to their parents as `csubj`.
 
-47 instances of `csubj` (98%) are right-to-left (child precedes parent).
-Average distance between parent and child is 5.60416666666667.
+40 instances of `csubj` (98%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.75609756097561.
 
-The following 5 pairs of parts of speech are connected with `csubj`: <tt><a href="wo_wtb-pos-VERB.html">VERB</a></tt>-<tt><a href="wo_wtb-pos-VERB.html">VERB</a></tt> (41; 85% instances), <tt><a href="wo_wtb-pos-PRON.html">PRON</a></tt>-<tt><a href="wo_wtb-pos-VERB.html">VERB</a></tt> (3; 6% instances), <tt><a href="wo_wtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="wo_wtb-pos-VERB.html">VERB</a></tt> (2; 4% instances), <tt><a href="wo_wtb-pos-VERB.html">VERB</a></tt>-<tt><a href="wo_wtb-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="wo_wtb-pos-VERB.html">VERB</a></tt>-<tt><a href="wo_wtb-pos-PROPN.html">PROPN</a></tt> (1; 2% instances).
+The following 4 pairs of parts of speech are connected with `csubj`: <tt><a href="wo_wtb-pos-VERB.html">VERB</a></tt>-<tt><a href="wo_wtb-pos-VERB.html">VERB</a></tt> (35; 85% instances), <tt><a href="wo_wtb-pos-PRON.html">PRON</a></tt>-<tt><a href="wo_wtb-pos-VERB.html">VERB</a></tt> (3; 7% instances), <tt><a href="wo_wtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="wo_wtb-pos-VERB.html">VERB</a></tt> (2; 5% instances), <tt><a href="wo_wtb-pos-VERB.html">VERB</a></tt>-<tt><a href="wo_wtb-pos-PROPN.html">PROPN</a></tt> (1; 2% instances).
 
 
 ~~~ conllu

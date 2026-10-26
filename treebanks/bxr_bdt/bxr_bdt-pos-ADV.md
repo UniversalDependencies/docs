@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  <em>гэһэн</em> (<tt><a href="bxr_bdt
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.089928 (the average of all parts of speech is 1.638355).
+The form / lemma ratio of `ADV` is 1.089928 (the average of all parts of speech is 1.638739).
 
 The 1st highest number of forms (4) was observed with the lemma “_”: <em>hэрюун, Одоол, Үргэлжэ, Үшөөл</em>.
 
@@ -62,12 +62,12 @@ The 2nd highest number of forms (4) was observed with the lemma “тэндэ”
 
 The 3rd highest number of forms (3) was observed with the lemma “бэшэ”: <em>бэшэ, бэшэб, бэшэшье</em>.
 
-`ADV` occurs with 4 features: <tt><a href="bxr_bdt-feat-PronType.html">PronType</a></tt> (18; 2% instances), <tt><a href="bxr_bdt-feat-Case.html">Case</a></tt> (4; 1% instances), <tt><a href="bxr_bdt-feat-Number-psor.html">Number[psor]</a></tt> (4; 1% instances), <tt><a href="bxr_bdt-feat-Person-psor.html">Person[psor]</a></tt> (4; 1% instances)
+`ADV` occurs with 5 features: <tt><a href="bxr_bdt-feat-PronType.html">PronType</a></tt> (18; 2% instances), <tt><a href="bxr_bdt-feat-Case.html">Case</a></tt> (4; 1% instances), <tt><a href="bxr_bdt-feat-ExtPos.html">ExtPos</a></tt> (4; 1% instances), <tt><a href="bxr_bdt-feat-Number-psor.html">Number[psor]</a></tt> (4; 1% instances), <tt><a href="bxr_bdt-feat-Person-psor.html">Person[psor]</a></tt> (4; 1% instances)
 
-`ADV` occurs with 4 feature-value pairs: `Case=Nom`, `Number[psor]=Sing`, `Person[psor]=3`, `PronType=Int`
+`ADV` occurs with 5 feature-value pairs: `Case=Nom`, `ExtPos=ADV`, `Number[psor]=Sing`, `Person[psor]=3`, `PronType=Int`
 
-`ADV` occurs with 4 feature combinations.
-The most frequent feature combination is `_` (750 tokens).
+`ADV` occurs with 5 feature combinations.
+The most frequent feature combination is `_` (746 tokens).
 Examples: <em>ехэ, мүнөө, гэһэн, бэшэ, һайхан, эндэ, эгээл, хадаа, үшөө, ганса</em>
 
 

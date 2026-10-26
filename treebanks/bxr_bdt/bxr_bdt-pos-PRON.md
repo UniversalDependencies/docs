@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>бидэ</em> (<tt><a href="bxr_bdt-p
 
 ## Morphology
 
-The form / lemma ratio of `PRON` is 3.147059 (the average of all parts of speech is 1.638355).
+The form / lemma ratio of `PRON` is 3.147059 (the average of all parts of speech is 1.638739).
 
 The 1st highest number of forms (12) was observed with the lemma “тэрэ”: <em>Тэрээнһээ, тэрэ, тэрэмни, тэрэниие, тэрэнтэй, тэрэнэй, тэрэнээ, тэрэшни, тэрээн, тэрээндэ, тэрээндэнь, тэрээниие</em>.
 
@@ -59,11 +59,11 @@ The 2nd highest number of forms (10) was observed with the lemma “бидэ”:
 
 The 3rd highest number of forms (9) was observed with the lemma “тэдэ”: <em>Тэдэ, Тэдэнэй, Тэдэнэрэй, тэдэмнай, тэдэнэйнь, тэдэнэр, тэдэнээ, тэдээндэ, тэдээнтэй</em>.
 
-`PRON` occurs with 7 features: <tt><a href="bxr_bdt-feat-Case.html">Case</a></tt> (260; 90% instances), <tt><a href="bxr_bdt-feat-PronType.html">PronType</a></tt> (235; 82% instances), <tt><a href="bxr_bdt-feat-Number.html">Number</a></tt> (155; 54% instances), <tt><a href="bxr_bdt-feat-Person.html">Person</a></tt> (132; 46% instances), <tt><a href="bxr_bdt-feat-Reflex.html">Reflex</a></tt> (27; 9% instances), <tt><a href="bxr_bdt-feat-Number-psor.html">Number[psor]</a></tt> (6; 2% instances), <tt><a href="bxr_bdt-feat-Person-psor.html">Person[psor]</a></tt> (6; 2% instances)
+`PRON` occurs with 8 features: <tt><a href="bxr_bdt-feat-Case.html">Case</a></tt> (260; 90% instances), <tt><a href="bxr_bdt-feat-PronType.html">PronType</a></tt> (235; 82% instances), <tt><a href="bxr_bdt-feat-Number.html">Number</a></tt> (155; 54% instances), <tt><a href="bxr_bdt-feat-Person.html">Person</a></tt> (132; 46% instances), <tt><a href="bxr_bdt-feat-Reflex.html">Reflex</a></tt> (27; 9% instances), <tt><a href="bxr_bdt-feat-Number-psor.html">Number[psor]</a></tt> (6; 2% instances), <tt><a href="bxr_bdt-feat-Person-psor.html">Person[psor]</a></tt> (6; 2% instances), <tt><a href="bxr_bdt-feat-ExtPos.html">ExtPos</a></tt> (2; 1% instances)
 
-`PRON` occurs with 17 feature-value pairs: `Case=Abl`, `Case=Acc`, `Case=Com`, `Case=Dat`, `Case=Gen`, `Case=Nom`, `Number=Plur`, `Number=Sing`, `Number[psor]=Sing`, `Person=1`, `Person=2`, `Person[psor]=3`, `PronType=Dem`, `PronType=Ind`, `PronType=Int`, `PronType=Prs`, `Reflex=Yes`
+`PRON` occurs with 18 feature-value pairs: `Case=Abl`, `Case=Acc`, `Case=Com`, `Case=Dat`, `Case=Gen`, `Case=Nom`, `ExtPos=ADV`, `Number=Plur`, `Number=Sing`, `Number[psor]=Sing`, `Person=1`, `Person=2`, `Person[psor]=3`, `PronType=Dem`, `PronType=Ind`, `PronType=Int`, `PronType=Prs`, `Reflex=Yes`
 
-`PRON` occurs with 43 feature combinations.
+`PRON` occurs with 45 feature combinations.
 The most frequent feature combination is `Case=Nom|Number=Sing|Person=1|PronType=Prs` (46 tokens).
 Examples: <em>би, Бишье</em>
 

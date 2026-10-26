@@ -31,6 +31,8 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 
 2 <tt><a href="am_att-pos-DET.html">DET</a></tt> tokens (0% of all `DET` tokens) have a non-empty value of `Person`.
 
+The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="am_att-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (2; 100%).
+
 `DET` tokens may have the following values of `Person`:
 
 * `3` (2; 100% of non-empty `Person`): ው

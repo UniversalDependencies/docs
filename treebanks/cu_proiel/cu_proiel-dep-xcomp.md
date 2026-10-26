@@ -22,12 +22,12 @@ The following 15 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 3 xcomp	color:blue
-1	Ѡтъвръже	отъврѣщи	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=76.3
-2	сѩ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	1	expl:pv	_	ref=76.3
-3	оутѣшіті	оутѣшити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	1	xcomp	_	ref=76.3
-4	сѩ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	3	expl:pv	_	ref=76.3
-5	дш҃а	доуша	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	1	nsubj	_	ref=76.3
-6	моѣ	мои	DET	Ps	Case=Nom|Gender=Fem|Number=Sing|Person=1|Poss=Yes	5	det	_	ref=76.3
+1	Ѡтъвръже	отъврѣщи	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=76.3
+2	сѩ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	1	expl:pv	_	Ref=76.3
+3	оутѣшіті	оутѣшити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	1	xcomp	_	Ref=76.3
+4	сѩ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	3	expl:pv	_	Ref=76.3
+5	дш҃а	доуша	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	1	nsubj	_	Ref=76.3
+6	моѣ	мои	DET	Ps	Case=Nom|Gender=Fem|Number=Sing|Person=1|Poss=Yes	5	det	_	Ref=76.3
 
 ~~~
 
@@ -38,10 +38,10 @@ The following 15 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 xcomp	color:blue
-1	На	на	ADP	R-	_	2	case	_	ref=103.6
-2	горахъ	гора	NOUN	Nb	Case=Loc|Gender=Fem|Number=Plur	3	xcomp	_	ref=103.6
-3	станѫтъ	стати	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=103.6
-4	въдъі	вода	NOUN	Nb	Case=Nom|Gender=Fem|Number=Plur	3	nsubj	_	ref=103.6
+1	На	на	ADP	R-	_	2	case	_	Ref=103.6
+2	горахъ	гора	NOUN	Nb	Case=Loc|Gender=Fem|Number=Plur	3	xcomp	_	Ref=103.6
+3	станѫтъ	стати	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=103.6
+4	въдъі	вода	NOUN	Nb	Case=Nom|Gender=Fem|Number=Plur	3	nsubj	_	Ref=103.6
 
 ~~~
 
@@ -52,15 +52,15 @@ The following 15 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 6 xcomp	color:blue
-1	о҅вогда	овогда	ADV	Df	_	3	advmod	_	ref=8
-2	о̑убо	оубо	ADV	Df	_	5	discourse	_	ref=8
-3	видѣти	видѣти	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	5	ccomp	_	ref=8
-4	и	и	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	ref=8
-5	бѣа҅ше	бꙑти	AUX	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=8
-6	сѣда	сѣдъ	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	3	xcomp	_	ref=8
-7	о҅вогда	овогда	ADV	Df	_	3	conj	_	ref=8
-8	же	же	ADV	Df	_	7	discourse	_	ref=8
-9	о҅трока	отрокъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	7	orphan	_	ref=8
+1	о҅вогда	овогда	ADV	Df	_	3	advmod	_	Ref=8
+2	о̑убо	оубо	ADV	Df	_	5	discourse	_	Ref=8
+3	видѣти	видѣти	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	5	ccomp	_	Ref=8
+4	и	и	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	Ref=8
+5	бѣа҅ше	бꙑти	AUX	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=8
+6	сѣда	сѣдъ	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	3	xcomp	_	Ref=8
+7	о҅вогда	овогда	ADV	Df	_	3	conj	_	Ref=8
+8	же	же	ADV	Df	_	7	discourse	_	Ref=8
+9	о҅трока	отрокъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	7	orphan	_	Ref=8
 
 ~~~
 

@@ -11,7 +11,7 @@ This relation is universal.
 1070 nodes (7%) are attached to their parents as `root`.
 
 1070 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.75046728971963.
+Average distance between parent and child is 5.75140186915888.
 
 The following 10 pairs of parts of speech are connected with `root`: -<tt><a href="bar_maibaam-pos-VERB.html">VERB</a></tt> (859; 80% instances), -<tt><a href="bar_maibaam-pos-NOUN.html">NOUN</a></tt> (103; 10% instances), -<tt><a href="bar_maibaam-pos-ADJ.html">ADJ</a></tt> (54; 5% instances), -<tt><a href="bar_maibaam-pos-ADV.html">ADV</a></tt> (35; 3% instances), -<tt><a href="bar_maibaam-pos-PROPN.html">PROPN</a></tt> (6; 1% instances), -<tt><a href="bar_maibaam-pos-DET.html">DET</a></tt> (5; 0% instances), -<tt><a href="bar_maibaam-pos-PRON.html">PRON</a></tt> (4; 0% instances), -<tt><a href="bar_maibaam-pos-NUM.html">NUM</a></tt> (2; 0% instances), -<tt><a href="bar_maibaam-pos-ADP.html">ADP</a></tt> (1; 0% instances), -<tt><a href="bar_maibaam-pos-INTJ.html">INTJ</a></tt> (1; 0% instances).
 
@@ -46,7 +46,7 @@ The following 10 pairs of parts of speech are connected with `root`: -<tt><a hre
 # visual-style 0	fgColor:white
 # visual-style 0 6 root	color:blue
 1	Da	_	DET	_	_	2	det	_	GermanLemma=der
-2	Watschntanz	_	PROPN	_	_	6	nsubj	_	GermanLemma=Watschntanz
+2	Watschntanz	_	NOUN	_	_	6	nsubj	_	GermanLemma=Watschntanz
 3	is	_	AUX	_	_	6	cop	_	GermanLemma=sein
 4	aa	_	DET	_	_	6	det	_	GermanLemma=ein
 5	entfernta	_	ADJ	_	_	6	amod	_	GermanLemma=entfernt

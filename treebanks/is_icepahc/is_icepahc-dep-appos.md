@@ -66,7 +66,7 @@ The following 76 pairs of parts of speech are connected with `appos`: <tt><a hre
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 3 appos	color:blue
-1	Skildust	skilja	VERB	VBDI	Case=Dat|Definite=Ind|Gender=Fem|Number=Plur	0	root	_	IFD_tag=nvfþ
+1	Skildust	skilja	VERB	VBDI	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	IFD_tag=sfm3fþ
 2	þeir	hann	PRON	PRO-N	Case=Nom|Gender=Masc|Number=Plur|PronType=Prs	1	nsubj	_	IFD_tag=fpkfn
 3	Aðalsteinn	Aðalsteinn	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	2	appos	_	IFD_tag=nken-s
 4	konungur	konungur	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	3	flat:name	_	IFD_tag=nken

@@ -23,7 +23,7 @@ The most frequent other feature values with which `ADV` and `Polarity` co-occurr
 `ADV` tokens may have the following values of `Polarity`:
 
 * `Neg` (12355; 100% of non-empty `Polarity`): 不、 非、 未、 弗、 莫、 無、 毋、 勿、 匪、 微
-* `EMPTY` (29869): 以、 則、 必、 皆、 故、 乃、 亦、 又、 大、 相
+* `EMPTY` (29872): 以、 則、 必、 皆、 故、 乃、 亦、 又、 大、 相
 
 `Polarity` seems to be **lexical feature** of `ADV`. 100% lemmas (14) occur only with one value of `Polarity`.
 
@@ -36,7 +36,7 @@ The most frequent other feature values with which `VERB` and `Polarity` co-occur
 `VERB` tokens may have the following values of `Polarity`:
 
 * `Neg` (2050; 100% of non-empty `Polarity`): 無、 微、 靡、 末、 罔
-* `EMPTY` (135310): 曰、 以、 有、 大、 謂、 使、 如、 得、 為、 至
+* `EMPTY` (135308): 曰、 以、 有、 大、 謂、 使、 如、 得、 為、 至
 
 ## Relations with Agreement in `Polarity`
 

@@ -25,7 +25,7 @@ conj(Watters-7, Cowan-9)
 conj(Watters-7, Donovan-11)
 ~~~
 
-A conjunct relation is also used with the the additional _tsî_ "and" + person-gender-number clitic.
+A conjunct relation is also used with the additional _tsî_ "and" + person-gender-number clitic.
 
 ~~~ sdparse
 Maras tsî Saras tsî ra ge ra ǀaere . \n Mara and Sara and 3F.DU DECL IPFV collect_firewood .
@@ -47,3 +47,4 @@ cc(lose, and)
 
 See [universal/conj](u-dep/conj) for more details on various coordination-related issues.
 
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:54 CEST -->

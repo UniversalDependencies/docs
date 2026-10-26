@@ -43,8 +43,8 @@ The following 4 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 2	barget	bargat	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	sihke	sihke	ADV	Adv	_	4	cc:preconj	_	_
 4	Kárášjogas	Kárášjohka	PROPN	N	Case=Loc|Number=Sing	2	obl	_	_
-5	ja	ja	CCONJ	CC	_	4	cc	_	_
-6	Guovdageainnus	Guovdageaidnu	PROPN	N	Case=Loc|Number=Sing	4	obl	_	SpaceAfter=No
+5	ja	ja	CCONJ	CC	_	6	cc	_	_
+6	Guovdageainnus	Guovdageaidnu	PROPN	N	Case=Loc|Number=Sing	4	conj	_	SpaceAfter=No
 7	.	.	PUNCT	CLB	_	2	punct	_	_
 
 ~~~

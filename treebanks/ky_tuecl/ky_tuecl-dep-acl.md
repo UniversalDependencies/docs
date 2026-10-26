@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `acl`: <tt><a href="ky_tuecl-dep-acl-relcl.html">acl:relcl</a></tt>.
 
-11 nodes (1%) are attached to their parents as `acl`.
+14 nodes (1%) are attached to their parents as `acl`.
 
-11 instances of `acl` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.36363636363636.
+14 instances of `acl` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.28571428571429.
 
-The following 2 pairs of parts of speech are connected with `acl`: <tt><a href="ky_tuecl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ky_tuecl-pos-VERB.html">VERB</a></tt> (10; 91% instances), <tt><a href="ky_tuecl-pos-PRON.html">PRON</a></tt>-<tt><a href="ky_tuecl-pos-VERB.html">VERB</a></tt> (1; 9% instances).
+The following 2 pairs of parts of speech are connected with `acl`: <tt><a href="ky_tuecl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ky_tuecl-pos-VERB.html">VERB</a></tt> (11; 79% instances), <tt><a href="ky_tuecl-pos-PRON.html">PRON</a></tt>-<tt><a href="ky_tuecl-pos-VERB.html">VERB</a></tt> (3; 21% instances).
 
 
 ~~~ conllu
@@ -43,7 +43,7 @@ The following 2 pairs of parts of speech are connected with `acl`: <tt><a href="
 # visual-style 2 1 acl	color:blue
 1	Окуган	оку	VERB	_	_	2	acl	_	_
 2	дарын	_	PRON	_	_	3	obj	_	_
-3	түшүнбѳй	түшүн	VERB	_	_	0	root	_	_
+3	түшүнбөй	түшүн	VERB	_	_	0	root	_	_
 4	жатат	жат	AUX	_	_	3	aux	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	3	punct	_	_
 

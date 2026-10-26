@@ -41,7 +41,7 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 
 170 <tt><a href="sa_ufal-pos-PRON.html">PRON</a></tt> tokens (95% of all `PRON` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="sa_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt> (147; 86%), <tt><a href="sa_ufal-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (103; 61%).
+The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="sa_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt> (147; 86%), <tt><a href="sa_ufal-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (102; 60%).
 
 `PRON` tokens may have the following values of `Case`:
 
@@ -59,8 +59,8 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
   <tr><td><tt><tt><a href="sa_ufal-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="sa_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="sa_ufal-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="sa_ufal-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td></td><td></td><td></td><td>तस्य</td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="sa_ufal-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="sa_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="sa_ufal-feat-Poss.html">Poss</a></tt><tt>=Yes</tt>|<tt><a href="sa_ufal-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td></td><td></td><td></td><td>तस्य</td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="sa_ufal-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="sa_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="sa_ufal-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td>स, सः, सह्</td><td>तम्</td><td>तस्मै</td><td>तस्य</td><td>तेन</td><td>तस्मात्</td></tr>
-  <tr><td><tt><tt><a href="sa_ufal-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="sa_ufal-feat-Number.html">Number</a></tt><tt>=Dual</tt></tt></td><td>तौ</td><td></td><td></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="sa_ufal-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="sa_ufal-feat-Number.html">Number</a></tt><tt>=Dual</tt>|<tt><a href="sa_ufal-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="sa_ufal-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td>तौ</td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="sa_ufal-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="sa_ufal-feat-Number.html">Number</a></tt><tt>=Dual</tt>|<tt><a href="sa_ufal-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="sa_ufal-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td>तौ</td><td></td><td></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="sa_ufal-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="sa_ufal-feat-Number.html">Number</a></tt><tt>=Dual</tt>|<tt><a href="sa_ufal-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td></td><td></td><td></td><td>तयोर्</td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="sa_ufal-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="sa_ufal-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="sa_ufal-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td>ते</td><td>तान्</td><td></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="sa_ufal-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="sa_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="sa_ufal-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td>सा</td><td></td><td></td><td></td><td>तया</td><td>तस्याः</td></tr>
@@ -73,7 +73,7 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 
 98 <tt><a href="sa_ufal-pos-VERB.html">VERB</a></tt> tokens (31% of all `VERB` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="sa_ufal-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (98; 100%), <tt><a href="sa_ufal-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (98; 100%), <tt><a href="sa_ufal-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (97; 99%), <tt><a href="sa_ufal-feat-Voice.html">Voice</a></tt><tt>=Pass</tt> (88; 90%), <tt><a href="sa_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt> (82; 84%), <tt><a href="sa_ufal-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (67; 68%), <tt><a href="sa_ufal-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (59; 60%).
+The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="sa_ufal-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (98; 100%), <tt><a href="sa_ufal-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (98; 100%), <tt><a href="sa_ufal-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (98; 100%), <tt><a href="sa_ufal-feat-Voice.html">Voice</a></tt><tt>=Pass</tt> (88; 90%), <tt><a href="sa_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt> (82; 84%), <tt><a href="sa_ufal-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (67; 68%), <tt><a href="sa_ufal-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (59; 60%).
 
 `VERB` tokens may have the following values of `Case`:
 
@@ -221,12 +221,12 @@ The most frequent other feature values with which `PART` and `Case` co-occurred:
 
 The 10 most frequent relations where parent and child node agree in `Case`:
 <tt>NOUN --[<tt><a href="sa_ufal-dep-det.html">det</a></tt>]--> DET</tt> (45; 90%),
-<tt>NOUN --[<tt><a href="sa_ufal-dep-amod.html">amod</a></tt>]--> ADJ</tt> (36; 61%),
+<tt>NOUN --[<tt><a href="sa_ufal-dep-amod.html">amod</a></tt>]--> ADJ</tt> (36; 60%),
 <tt>NOUN --[<tt><a href="sa_ufal-dep-conj.html">conj</a></tt>]--> NOUN</tt> (25; 81%),
 <tt>PROPN --[<tt><a href="sa_ufal-dep-conj.html">conj</a></tt>]--> PROPN</tt> (13; 65%),
 <tt>NOUN --[<tt><a href="sa_ufal-dep-acl.html">acl</a></tt>]--> VERB</tt> (12; 75%),
 <tt>NOUN --[<tt><a href="sa_ufal-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (11; 52%),
-<tt>NOUN --[<tt><a href="sa_ufal-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (8; 67%),
+<tt>NOUN --[<tt><a href="sa_ufal-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (8; 62%),
 <tt>ADJ --[<tt><a href="sa_ufal-dep-conj.html">conj</a></tt>]--> ADJ</tt> (5; 71%),
 <tt>VERB --[<tt><a href="sa_ufal-dep-conj.html">conj</a></tt>]--> VERB</tt> (5; 71%),
 <tt>NOUN --[<tt><a href="sa_ufal-dep-conj.html">conj</a></tt>]--> PROPN</tt> (4; 100%).

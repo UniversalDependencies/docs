@@ -46,11 +46,6 @@ compound(երեք, քառորդ)
 compound(three, quarters)
 ~~~
 
-~~~ sdparse
-չորս-հինգ/NUM[NumForm=Word|NumType=Range] ժամ/NOUN \n four-five hours
-nummod(ժամ, չորս-հինգ)
-nummod(hours, four-five)
-~~~
 
 ~~~ sdparse
 տասից/NOUN[Animacy=Nhum|Case=Abl|Definite=Ind|Number=Sing|NumForm=Word] տասնհինգ/NOUN[Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing|NumForm=Word] ժամ/NOUN \n from-ten to-fifteen hours
@@ -61,4 +56,4 @@ nummod(hours, from-ten)
 ~~~
 
 `compound` in Armenian is used also for serial verbs (with the subtype [compound:svc]()), for light verbs (with the subtype [compound:lvc]()) and for a range of reduplicated forms (with the subtype [compound:redup]()).
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:36 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:49 CEST -->

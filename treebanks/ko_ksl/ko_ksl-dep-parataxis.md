@@ -8,75 +8,71 @@ udver: '2'
 
 This relation is universal.
 
-39 nodes (0%) are attached to their parents as `parataxis`.
+48 nodes (0%) are attached to their parents as `parataxis`.
 
-39 instances of `parataxis` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 6.84615384615385.
+39 instances of `parataxis` (81%) are right-to-left (child precedes parent).
+Average distance between parent and child is 6.14583333333333.
 
-The following 8 pairs of parts of speech are connected with `parataxis`: <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> (24; 62% instances), <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> (4; 10% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> (3; 8% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (3; 8% instances), <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> (2; 5% instances), <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> (1; 3% instances), <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt>-<tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> (1; 3% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> (1; 3% instances).
+The following 10 pairs of parts of speech are connected with `parataxis`: <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> (20; 42% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> (12; 25% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (5; 10% instances), <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> (4; 8% instances), <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> (2; 4% instances), <tt><a href="ko_ksl-pos-AUX.html">AUX</a></tt>-<tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-AUX.html">AUX</a></tt> (1; 2% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-INTJ.html">INTJ</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 6 parataxis	color:blue
-1	이	이	DET	MM	_	2	det	_	_
-2	영화에서	영화+에서	ADV	NNG+JKB	_	9	obl	_	_
-3	사랑들이	사랑+들+이	NOUN	NNG+XSN+JKS	_	9	nsubj	_	_
-4	우리보고	우리+보고	VERB	NP+JX	_	9	obl	_	_
-5	좋은	좋+은	ADJ	VA+ETM	_	6	amod	_	_
-6	때다	때+이+다	VERB	NNG+VCP+EF	_	8	parataxis	_	_
-7	좋을	좋+을	VERB	VA+ETM	_	8	acl	_	_
-8	때다	때+이+다	VERB	NNG+VCP+EF	_	9	ccomp	_	_
-9	그러는데	그러+는데	VERB	VV+EC	_	12	advcl	_	_
-10	애매하기	애매+하+기	NOUN	NNG+XSA+ETN	_	12	obl	_	_
-11	뭐가	뭐+가	NOUN	NP+JKS	_	12	nsubj	_	_
-12	없이	없이	VERB	MAG	_	0	root	_	SpaceAfter=No
-13	.	.	PUNCT	SF	_	12	punct	_	_
+# visual-style 6 3 parataxis	color:blue
+1	넌	너+ㄴ	PRON	NP+JX	PronType=Prs	3	nsubj	_	_
+2	많이	많이	ADV	MAG	_	3	advmod	_	_
+3	걱정하지마	걱정+하+지+말+어	VERB	NNG+XSV+EC+VX+EF	_	6	parataxis	_	_
+4	열심히	열심히	ADV	MAG	_	5	advmod	_	_
+5	공부하면	공부+하+면	VERB	NNG+XSV+EC	_	6	advcl	_	_
+6	돼	되+어	VERB	VX+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 6 parataxis	color:blue
-1	한국에	한국+에	ADV	NNP+JKB	_	2	obl	_	_
-2	와서	오+아서	VERB	VV+EC	_	10	advcl	_	_
-3	별로	별로	ADV	MAG	_	5	advmod	_	_
-4	노래방에	노래방+에	ADV	NNG+JKB	_	6	obl	_	_
-5	못	못	ADV	MAG	_	6	advmod	_	_
-6	갔다	가+았+다	VERB	VV+EP+EF	_	10	parataxis	_	_
-7	그렇기	그렇+기	NOUN	VA+ETN	_	8	nmod	_	_
-8	때문에	때문+에	ADP	NNB+JKB	_	10	obl	_	_
-9	스트레스가	스트레스+가	NOUN	NNG+JKS	_	10	nsubj	_	_
-10	많다	많+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
-11	.	.	PUNCT	SF	_	10	punct	_	_
-
-~~~
-
-
-~~~ conllu
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 4 parataxis	color:blue
-1	호수에서는	호수+에서+는	ADV	NNG+JKB+JX	_	3	obl	_	_
-2	야경이	야경+이	NOUN	NNG+JKS	_	4	nsubj	_	_
-3	반쩍반쩍도록	반쩍+반쩍+도록	VERB	NA+NA+EC	_	4	advcl	_	_
-4	예뻤다	예쁘+었+다	ADJ	VA+EP+EC	_	10	parataxis	_	_
-5	다음날에	다음+날+에	ADV	NNG+NNG+JKB	_	10	obl	_	_
-6	우리는	우리+는	PRON	NP+JX	_	10	nsubj	_	_
-7	배도	배+도	NOUN	NNG+JX	_	8	obj	_	_
-8	타고	타+고	VERB	VV+EC	_	0	root	_	_
-9	양숴로	양숴+로	ADV	NNP+JKB	_	10	obl	_	_
-10	갔다	가+았+다	VERB	VV+EP+EF	_	8	conj	_	SpaceAfter=No
-11	.	.	PUNCT	SF	_	10	punct	_	_
+# visual-style 4 7 parataxis	color:blue
+1	해양공원은	해양+공원+은	NOUN	NNG+NNG+JX	_	4	dislocated	_	_
+2	해양동물도	해양+동물+도	NOUN	NNG+NNG+JX	_	4	nsubj	_	_
+3	많이	많이	ADV	MAG	_	4	advmod	_	_
+4	있다	있+다	VERB	VV+EC	_	0	root	_	_
+5	틀별한	틀별+하+ㄴ	ADJ	NF+XSA+ETM	Typo=Yes	6	amod	_	_
+6	물고기	물고기	NOUN	NNG	_	7	nsubj	_	_
+7	많고	많+고	ADJ	VA+EC	_	4	parataxis	_	_
+8	다른나라	다른+나라	ADJ	MAG+NNG	_	9	amod	_	_
+9	동물도	동물+도	NOUN	NNG+JX	_	10	nsubj	_	_
+10	많았다	많+았+다	ADJ	VA+EP+EF	_	7	conj	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 13 3 parataxis	color:blue
+1	나의	나+의	PRON	NP+JKG	PronType=Prs	2	nmod:poss	_	_
+2	취미는	취미+는	NOUN	NNG+JX	_	3	nsubj	_	_
+3	노래방	노래방	NOUN	NNG	_	13	parataxis	_	_
+4	이다	이+다	ADP	VCP+EF	_	3	case	_	_
+5	취미가	취미+가	NOUN	NNG+JKS	_	6	nsubj	_	_
+6	노래방이지만	노래방+이+지만	ADJ	NNG+VCP+EC	_	13	advcl	_	_
+7	옛날에는	옛날+에+는	ADV	NNG+JKB+JX	_	13	obl	_	_
+8	노래를	노래+를	NOUN	NNG+JKO	_	9	obj	_	_
+9	부르는	부르+는	VERB	VV+ETM	_	10	acl	_	_
+10	것을	것+을	NOUN	NNB+JKO	_	13	obj	_	_
+11	잘	잘	ADV	MAG	_	13	advmod	_	_
+12	못	못	ADV	MAG	_	13	advmod	_	_
+13	했다	하+았+다	VERB	VV+EP+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
 
 ~~~
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-11 nodes (0%) are attached to their parents as `flat`.
+9 nodes (0%) are attached to their parents as `flat`.
 
-11 instances of `flat` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.45454545454545.
+9 instances of `flat` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.55555555555556.
 
-The following 2 pairs of parts of speech are connected with `flat`: <tt><a href="es_coser-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_coser-pos-PROPN.html">PROPN</a></tt> (7; 64% instances), <tt><a href="es_coser-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_coser-pos-PROPN.html">PROPN</a></tt> (4; 36% instances).
+The following 2 pairs of parts of speech are connected with `flat`: <tt><a href="es_coser-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_coser-pos-PROPN.html">PROPN</a></tt> (5; 56% instances), <tt><a href="es_coser-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_coser-pos-PROPN.html">PROPN</a></tt> (4; 44% instances).
 
 
 ~~~ conllu
@@ -27,7 +27,7 @@ The following 2 pairs of parts of speech are connected with `flat`: <tt><a href=
 3	fiestas	fiesta	NOUN	_	Gender=Fem|Number=Plur	11	nsubj	_	_
 4	patronales	patronal	ADJ	_	Number=Plur	3	amod	_	_
 5	en	en	ADP	_	_	6	case	_	_
-6	Rio	Rio	PROPN	_	_	3	obl	_	_
+6	Rio	Rio	PROPN	_	_	3	nmod	_	_
 7	de	de	ADP	_	_	8	case	_	_
 8	Oro	Oro	PROPN	_	_	6	flat	_	_
 9	(	(	PUNCT	_	PunctSide=Ini|PunctType=Brck	11	punct	_	SpaceAfter=No
@@ -60,7 +60,7 @@ The following 2 pairs of parts of speech are connected with `flat`: <tt><a href=
 8	casa	casa	NOUN	ncfs000	Gender=Fem|Number=Sing	2	obl	_	_
 9	de	de	ADP	sps00	_	10	case	_	_
 10	NP	NP	PROPN	_	_	8	nmod	_	SpaceAfter=No
-11	,	,	PUNCT	fc	PunctType=Comm	2	punct	_	_
+11	,	,	PUNCT	fc	PunctType=Comm	12	punct	_	_
 12	tuvo	estar	VERB	vmis3s0	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	Ortho=estuvo
 13	don	don	NOUN	ncms000	Gender=Masc|Number=Sing	12	nsubj	_	MWE=don_NP|MWEPOS=PROPN
 14	NP	NP	PROPN	_	_	13	flat	_	_

@@ -8,83 +8,82 @@ udver: '2'
 
 This relation is universal.
 
-25 nodes (0%) are attached to their parents as `appos`.
+32 nodes (0%) are attached to their parents as `appos`.
 
-25 instances of `appos` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.08.
+32 instances of `appos` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.3125.
 
-The following 12 pairs of parts of speech are connected with `appos`: <tt><a href="el_gud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_gud-pos-NOUN.html">NOUN</a></tt> (8; 32% instances), <tt><a href="el_gud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="el_gud-pos-NOUN.html">NOUN</a></tt> (4; 16% instances), <tt><a href="el_gud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_gud-pos-VERB.html">VERB</a></tt> (3; 12% instances), <tt><a href="el_gud-pos-PRON.html">PRON</a></tt>-<tt><a href="el_gud-pos-NOUN.html">NOUN</a></tt> (2; 8% instances), <tt><a href="el_gud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="el_gud-pos-NOUN.html">NOUN</a></tt> (1; 4% instances), <tt><a href="el_gud-pos-ADV.html">ADV</a></tt>-<tt><a href="el_gud-pos-ADV.html">ADV</a></tt> (1; 4% instances), <tt><a href="el_gud-pos-INTJ.html">INTJ</a></tt>-<tt><a href="el_gud-pos-PROPN.html">PROPN</a></tt> (1; 4% instances), <tt><a href="el_gud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_gud-pos-ADJ.html">ADJ</a></tt> (1; 4% instances), <tt><a href="el_gud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_gud-pos-PRON.html">PRON</a></tt> (1; 4% instances), <tt><a href="el_gud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_gud-pos-PROPN.html">PROPN</a></tt> (1; 4% instances), <tt><a href="el_gud-pos-NUM.html">NUM</a></tt>-<tt><a href="el_gud-pos-PROPN.html">PROPN</a></tt> (1; 4% instances), <tt><a href="el_gud-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gud-pos-DET.html">DET</a></tt> (1; 4% instances).
-
-
-~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 9 appos	color:blue
-1	«	«	PUNCT	OPUNCT	PunctType=Quot	3	punct	_	_
-2	Δε	δεν	PART	PtNg	Polarity=Neg	3	advmod	_	_
-3	χωράμε	χωρώ	VERB	VbMn	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-4	πια	πια	ADV	AdBa	_	3	advmod	_	_
-5	σ	σε	ADP	AsPpSp	_	7	case	_	_
-6	το	ο	DET	AtDf	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	7	det	_	_
-7	δυάρι	δυάρι	NOUN	NoCm	Case=Acc|Gender=Neut|Number=Sing	3	obl	_	_
-8	,	,	PUNCT	PUNCT	PunctType=Comm	9	punct	_	_
-9	μαμά	μαμά	NOUN	NoCm	Case=Voc|Gender=Fem|Number=Sing	7	appos	_	_
-10	»	»	PUNCT	CPUNCT	PunctType=Quot	3	punct	_	_
-11	της	εγώ	PRON	PnPe	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	12	iobj	_	_
-12	εξηγεί	εξηγώ	VERB	VbMn	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	parataxis	_	_
-13	η	ο	DET	AtDf	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
-14	Κατερίνα	Κατερίνα	PROPN	NoPr	Case=Nom|Gender=Fem|Number=Sing	12	nsubj	_	_
-15	»	»	PUNCT	CPUNCT	PunctType=Quot	3	punct	_	SpaceAfter=No
-16	.	.	PUNCT	PTERMP	PunctType=Peri	3	punct	_	_
-
-~~~
+The following 15 pairs of parts of speech are connected with `appos`: <tt><a href="el_gud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="el_gud-pos-NOUN.html">NOUN</a></tt> (6; 19% instances), <tt><a href="el_gud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_gud-pos-ADV.html">ADV</a></tt> (5; 16% instances), <tt><a href="el_gud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_gud-pos-NOUN.html">NOUN</a></tt> (5; 16% instances), <tt><a href="el_gud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_gud-pos-VERB.html">VERB</a></tt> (3; 9% instances), <tt><a href="el_gud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_gud-pos-ADJ.html">ADJ</a></tt> (2; 6% instances), <tt><a href="el_gud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_gud-pos-DET.html">DET</a></tt> (2; 6% instances), <tt><a href="el_gud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="el_gud-pos-DET.html">DET</a></tt> (1; 3% instances), <tt><a href="el_gud-pos-ADV.html">ADV</a></tt>-<tt><a href="el_gud-pos-ADV.html">ADV</a></tt> (1; 3% instances), <tt><a href="el_gud-pos-ADV.html">ADV</a></tt>-<tt><a href="el_gud-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="el_gud-pos-DET.html">DET</a></tt>-<tt><a href="el_gud-pos-ADV.html">ADV</a></tt> (1; 3% instances), <tt><a href="el_gud-pos-DET.html">DET</a></tt>-<tt><a href="el_gud-pos-INTJ.html">INTJ</a></tt> (1; 3% instances), <tt><a href="el_gud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_gud-pos-PROPN.html">PROPN</a></tt> (1; 3% instances), <tt><a href="el_gud-pos-NUM.html">NUM</a></tt>-<tt><a href="el_gud-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="el_gud-pos-PRON.html">PRON</a></tt>-<tt><a href="el_gud-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="el_gud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="el_gud-pos-ADV.html">ADV</a></tt> (1; 3% instances).
 
 
 ~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 4 appos	color:blue
-1	«	«	PUNCT	OPUNCT	PunctType=Quot	2	punct	_	_
-2	Παπαδιάς	Παπαδιάς	PROPN	NoPr	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
-3	,	,	PUNCT	PUNCT	PunctType=Comm	4	punct	_	_
-4	διοικητής	διοικητής	NOUN	NoCm	Case=Nom|Gender=Masc|Number=Sing	2	appos	_	_
-5	του	ο	DET	AtDf	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	7	det	_	_
-6	αστυνομικού	αστυνομικός	ADJ	AjBa	Case=Gen|Gender=Neut|Number=Sing	7	amod	_	_
-7	τμήματος	τμήμα	NOUN	NoCm	Case=Gen|Gender=Neut|Number=Sing	4	nmod	_	_
-8	Ηλιούπολης	Ηλιούπολη	PROPN	NoPr	Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	_
-9	,	,	PUNCT	PUNCT	PunctType=Comm	11	punct	_	_
-10	κύριε	κύριος	ADJ	NoCm	Case=Voc|Gender=Masc|Number=Sing	11	nmod	_	_
-11	συνάδελφε	συνάδελφος	NOUN	NoCm	Case=Voc|Gender=Masc|Number=Sing	2	conj	_	_
-12	»	»	PUNCT	CPUNCT	PunctType=Quot	2	punct	_	SpaceAfter=No
-13	.	.	PUNCT	PTERMP	PunctType=Peri	2	punct	_	_
+# visual-style 4 6 appos	color:blue
+1	«	«	PUNCT	_	_	2	punct	_	PunctType=Quot|SpaceAfter=No
+2	Μπράβο	μπράβο	INTJ	_	_	9	ccomp	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	4	punct	_	PunctType=Comm
+4	Ούλι	Ούλι	PROPN	_	_	2	vocative	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	6	punct	_	PunctType=Comm
+6	παιδί	παιδί	NOUN	_	Case=Voc|Gender=Neut|Number=Sing	4	appos	_	_
+7	μου	εγώ	PRON	_	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	6	nmod	_	SpaceAfter=No
+8	»	»	PUNCT	_	_	6	punct	_	PunctType=Quot
+9	ενθουσιάζεται	ενθουσιάζω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+10	η	ο	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	Αδριανή	Αδριανή	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	9	punct	_	PunctType=Peri
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 11 appos	color:blue
-1	Σ	σε	ADP	AsPpSp	_	3	case	_	_
-2	το	ο	DET	AtDf	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	3	det	_	_
-3	τέλος	τέλος	NOUN	NoCm	Case=Acc|Gender=Neut|Number=Sing	5	obl	_	_
-4	θα	θα	AUX	PtFu	Tense=Fut	5	aux	_	_
-5	μπει	μπαίνω	VERB	VbMn	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Voice=Act	0	root	_	_
-6	το	ο	DET	AtDf	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	8	det	_	_
-7	γνωστό	γνωστός	ADJ	AjBa	Case=Nom|Gender=Neut|Number=Sing	8	amod	_	_
-8	ερώτημα	ερώτημα	NOUN	NoCm	Case=Nom|Gender=Neut|Number=Sing	5	nsubj	_	_
-9	:	:	PUNCT	PTERM	PunctType=Colo	8	punct	_	_
-10	τι	τι	PRON	PnIr	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	11	obj	_	_
-11	κάνει	κάνω	VERB	VbMn	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	appos	_	_
-12	η	ο	DET	AtDf	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
-13	αστυνομία	αστυνομία	NOUN	NoCm	Case=Nom|Gender=Fem|Number=Sing	11	nsubj	_	_
-14	;	;	PUNCT	PTERM	PunctType=Qest	5	punct	_	_
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 7 appos	color:blue
+1	Η	ο	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+2	αγαπημένη	αγαπημένος	VERB	_	Case=Nom|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	3	amod	_	_
+3	θέση	θέση	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	13	nsubj	_	_
+4	του	ο	DET	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	Ζήση	Ζήσης	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	7	punct	_	PunctType=Comm
+7	δίπλα	δίπλα	ADV	_	_	3	appos	_	_
+8	σ	σε	ADP	_	_	10	case	_	_
+9	την	ο	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	είσοδο	είσοδος	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	7	obl	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	10	punct	_	PunctType=Comm
+12	είναι	είμαι	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	_
+13	άδεια	άδειος	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	13	punct	_	PunctType=Peri
+
+~~~
+
+
+~~~ conllu
+# visual-style 15	bgColor:blue
+# visual-style 15	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 15 appos	color:blue
+1	Αυτός	αυτός	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	6	nsubj	_	_
+2	είναι	είμαι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+3	ο	ο	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+4	πιο	πιο	ADV	_	Degree=Cmp	5	advmod	_	_
+5	αποτελεσματικός	αποτελεσματικός	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	6	amod	_	_
+6	τρόπος	τρόπος	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+7	διαφυγής	διαφυγή	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	9	punct	_	PunctType=Comm
+9	μετά	μετά	ADV	_	_	6	advmod	_	_
+10	από	από	ADP	_	_	12	case	_	_
+11	τέτοιο	τέτοιος	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	12	det	_	_
+12	έγκλημα	έγκλημα	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	9	obl	_	SpaceAfter=No
+13	:	:	PUNCT	_	_	15	punct	_	PunctType=Colo
+14	το	ο	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	15	det	_	_
+15	μηχανάκι	μηχανάκι	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	6	appos	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	6	punct	_	PunctType=Peri
 
 ~~~
 

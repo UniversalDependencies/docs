@@ -25,13 +25,13 @@ The following 18 pairs of parts of speech are connected with `advcl`: <tt><a hre
 1	"	"	PUNCT	``	_	4	punct	_	SpaceAfter=No
 2	Mereka	mereka	PRON	PRP	Number=Plur|Person=3|PronType=Prs	4	nsubj	_	_
 3	akan	akan	AUX	MD	_	4	aux	_	_
-4	mulai	mulai	VERB	VB	Mood=Ind|Voice=Act	0	root	_	_
-5	merokok	rokok	VERB	VB	Mood=Ind|Voice=Act	4	xcomp	_	_
+4	mulai	mulai	VERB	VB	Voice=Act	0	root	_	_
+5	merokok	rokok	VERB	VB	Voice=Act	4	xcomp	_	_
 6	kalau	kalau	SCONJ	IN	_	7	mark	_	_
-7	melihat	lihat	VERB	VB	Mood=Ind|Voice=Act	5	advcl	_	_
+7	melihat	lihat	VERB	VB	Voice=Act	5	advcl	_	_
 8	idola	idola	NOUN	NN	Number=Sing	10	nsubj	_	_
 9	mereka	mereka	PRON	PRP	Number=Plur|Person=3|PronType=Prs	8	nmod:poss	_	_
-10	merokok	rokok	VERB	VB	Mood=Ind|Voice=Act	7	ccomp	_	SpaceAfter=No
+10	merokok	rokok	VERB	VB	Voice=Act	7	ccomp	_	SpaceAfter=No
 11	.	.	PUNCT	.	_	4	punct	_	SpaceAfter=No
 12	"	"	PUNCT	''	_	4	punct	_	_
 
@@ -47,7 +47,7 @@ The following 18 pairs of parts of speech are connected with `advcl`: <tt><a hre
 1	Kita	kita	PRON	PRP	Clusivity=In|Number=Plur|Person=1|PronType=Prs	4	nsubj	_	_
 2	kan	kan	ADV	RB	_	1	advmod	_	_
 3	sudah	sudah	AUX	MD	_	4	aux	_	_
-4	masuk	masuk	VERB	VB	Mood=Ind|Voice=Act	0	root	_	_
+4	masuk	masuk	VERB	VB	Voice=Act	0	root	_	_
 5	'	'	PUNCT	``	_	6	punct	_	SpaceAfter=No
 6	middle	middle	X	FW	Foreign=Yes	4	obj	_	_
 7	income	income	X	FW	Foreign=Yes	6	flat:foreign	_	_
@@ -71,7 +71,7 @@ The following 18 pairs of parts of speech are connected with `advcl`: <tt><a hre
 1	"	"	PUNCT	``	_	10	punct	_	SpaceAfter=No
 2	Kalau	Kalau	SCONJ	IN	_	4	mark	_	_
 3	itu	itu	PRON	PRP	PronType=Dem	4	nsubj:pass	_	_
-4	dimasukkan	masuk	VERB	VB	Mood=Ind|Voice=Pass	10	advcl	_	_
+4	dimasukkan	masuk	VERB	VB	Voice=Pass	10	advcl	_	_
 5	mungkin	mungkin	AUX	MD	_	10	aux	_	_
 6	pendapatan	dapat	NOUN	NN	Number=Sing	10	nsubj	_	_
 7	nya	nya	PRON	PRP$	Number=Sing|Person=3|PronType=Prs	6	nmod:poss	_	_
@@ -81,7 +81,7 @@ The following 18 pairs of parts of speech are connected with `advcl`: <tt><a hre
 11	lagi	lagi	ADV	RB	_	10	advmod	_	SpaceAfter=No
 12	,	,	PUNCT	,	_	10	punct	_	SpaceAfter=No
 13	"	"	PUNCT	''	_	10	punct	_	_
-14	kata	kata	VERB	VB	Mood=Ind|Voice=Act	10	parataxis	_	_
+14	kata	kata	VERB	VB	Voice=Act	10	parataxis	_	_
 15	Roekman	Roekman	PROPN	NNP	_	14	nsubj	_	SpaceAfter=No
 16	.	.	PUNCT	.	_	10	punct	_	_
 

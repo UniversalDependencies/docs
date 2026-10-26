@@ -61,7 +61,7 @@ The 10 most frequent ambiguous types:  <em>evet</em> (<tt><a href="tr_boun-pos-N
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 0.991228 (the average of all parts of speech is 2.412899).
+The form / lemma ratio of `INTJ` is 0.991228 (the average of all parts of speech is 2.413877).
 
 The 1st highest number of forms (2) was observed with the lemma “A”: <em>Aaaaaaaa, a</em>.
 
@@ -69,12 +69,18 @@ The 2nd highest number of forms (2) was observed with the lemma “Alo”: <em>A
 
 The 3rd highest number of forms (2) was observed with the lemma “hayır”: <em>Hayırdır, hayır</em>.
 
-`INTJ` does not occur with any features.
+`INTJ` occurs with 1 features: <tt><a href="tr_boun-feat-ExtPos.html">ExtPos</a></tt> (1; 0% instances)
+
+`INTJ` occurs with 1 feature-value pairs: `ExtPos=INTJ`
+
+`INTJ` occurs with 2 feature combinations.
+The most frequent feature combination is `_` (252 tokens).
+Examples: <em>evet, Aman, hayır, İşte, hadi, a, ha, Haydi, filan, işte</em>
 
 
 ## Relations
 
-`INTJ` nodes are attached to their parents using 14 different relations: <tt><a href="tr_boun-dep-discourse.html">discourse</a></tt> (190; 75% instances), <tt><a href="tr_boun-dep-conj.html">conj</a></tt> (11; 4% instances), <tt><a href="tr_boun-dep-root.html">root</a></tt> (10; 4% instances), <tt><a href="tr_boun-dep-obl.html">obl</a></tt> (9; 4% instances), <tt><a href="tr_boun-dep-flat.html">flat</a></tt> (6; 2% instances), <tt><a href="tr_boun-dep-compound-redup.html">compound:redup</a></tt> (5; 2% instances), <tt><a href="tr_boun-dep-nmod-poss.html">nmod:poss</a></tt> (5; 2% instances), <tt><a href="tr_boun-dep-obj.html">obj</a></tt> (4; 2% instances), <tt><a href="tr_boun-dep-vocative.html">vocative</a></tt> (4; 2% instances), <tt><a href="tr_boun-dep-ccomp.html">ccomp</a></tt> (3; 1% instances), <tt><a href="tr_boun-dep-advcl.html">advcl</a></tt> (2; 1% instances), <tt><a href="tr_boun-dep-parataxis.html">parataxis</a></tt> (2; 1% instances), <tt><a href="tr_boun-dep-acl.html">acl</a></tt> (1; 0% instances), <tt><a href="tr_boun-dep-compound.html">compound</a></tt> (1; 0% instances)
+`INTJ` nodes are attached to their parents using 15 different relations: <tt><a href="tr_boun-dep-discourse.html">discourse</a></tt> (190; 75% instances), <tt><a href="tr_boun-dep-conj.html">conj</a></tt> (11; 4% instances), <tt><a href="tr_boun-dep-root.html">root</a></tt> (10; 4% instances), <tt><a href="tr_boun-dep-flat.html">flat</a></tt> (6; 2% instances), <tt><a href="tr_boun-dep-compound-redup.html">compound:redup</a></tt> (5; 2% instances), <tt><a href="tr_boun-dep-nmod-poss.html">nmod:poss</a></tt> (5; 2% instances), <tt><a href="tr_boun-dep-obl.html">obl</a></tt> (5; 2% instances), <tt><a href="tr_boun-dep-nmod.html">nmod</a></tt> (4; 2% instances), <tt><a href="tr_boun-dep-obj.html">obj</a></tt> (4; 2% instances), <tt><a href="tr_boun-dep-vocative.html">vocative</a></tt> (4; 2% instances), <tt><a href="tr_boun-dep-ccomp.html">ccomp</a></tt> (3; 1% instances), <tt><a href="tr_boun-dep-advcl.html">advcl</a></tt> (2; 1% instances), <tt><a href="tr_boun-dep-parataxis.html">parataxis</a></tt> (2; 1% instances), <tt><a href="tr_boun-dep-acl.html">acl</a></tt> (1; 0% instances), <tt><a href="tr_boun-dep-compound.html">compound</a></tt> (1; 0% instances)
 
 Parents of `INTJ` nodes belong to 9 different parts of speech: <tt><a href="tr_boun-pos-VERB.html">VERB</a></tt> (141; 56% instances), <tt><a href="tr_boun-pos-NOUN.html">NOUN</a></tt> (51; 20% instances), <tt><a href="tr_boun-pos-INTJ.html">INTJ</a></tt> (23; 9% instances), <tt><a href="tr_boun-pos-ADJ.html">ADJ</a></tt> (10; 4% instances),  (10; 4% instances), <tt><a href="tr_boun-pos-PROPN.html">PROPN</a></tt> (7; 3% instances), <tt><a href="tr_boun-pos-AUX.html">AUX</a></tt> (4; 2% instances), <tt><a href="tr_boun-pos-PRON.html">PRON</a></tt> (4; 2% instances), <tt><a href="tr_boun-pos-ADV.html">ADV</a></tt> (3; 1% instances)
 

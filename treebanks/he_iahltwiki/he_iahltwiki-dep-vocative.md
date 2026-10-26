@@ -22,7 +22,7 @@ The following 1 pairs of parts of speech are connected with `vocative`: <tt><a h
 # visual-style 16	bgColor:blue
 # visual-style 16	fgColor:white
 # visual-style 16 14 vocative	color:blue
-1	מתחת	מתחת	ADP	ADP	_	3	case	_	_
+1	מתחת	מתחת	ADP	ADP	ExtPos=ADP	3	case	_	_
 2	ל	ל	ADP	ADP	Definite=Def|PronType=Art	1	fixed	_	_
 3	ספינה	ספינה	NOUN	NOUN	Gender=Fem|Number=Sing	4	obl	_	_
 4	מופיעה	הופיע	VERB	VERB	Gender=Fem|HebBinyan=HIFIL|Number=Sing|Person=3|Tense=Pres|VerbForm=Part|Voice=Act	0	root	_	_

@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of X in UD_Swiss_German-UZH'
+title:  'Statistics of X in UD_Alemannic-UZH'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Swiss_German-UZH: POS Tags: `X`
+## Treebank Statistics: UD_Alemannic-UZH: POS Tags: `X`
 
 There are 1 `X` lemmas (7%), 3 `X` types (0%) and 3 `X` tokens (0%).
 Out of 15 observed tags, the rank of `X` is: 15 in number of lemmas, 15 in number of types and 15 in number of tokens.

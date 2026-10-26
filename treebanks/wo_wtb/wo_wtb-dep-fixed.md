@@ -22,7 +22,7 @@ The following 25 pairs of parts of speech are connected with `fixed`: <tt><a hre
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 fixed	color:blue
-1	Ci	ci	ADP	PREP	_	3	case	_	_
+1	Ci	ci	ADP	PREP	ExtPos=ADP	3	case	_	_
 2	biir	biir	NOUN	NOUN	_	1	fixed	_	_
 3	loolu	boobu	PRON	PRON	Deixis=Prox|DeixisRef=2|NounClass=Wol7|Number=Sing|PronType=Dem	14	obl	_	_
 4	ag	ab	DET	DET	Definite=Ind|NounClass=Wol3|Number=Sing|PronType=Art	5	det	_	_
@@ -47,7 +47,7 @@ The following 25 pairs of parts of speech are connected with `fixed`: <tt><a hre
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 fixed	color:blue
-1	Bu	bu	PRON	PRON	NounClass=Wol5|Number=Sing|Person=3|PronType=Rel	16	advmod	_	_
+1	Bu	bu	PRON	PRON	ExtPos=ADV|NounClass=Wol5|Number=Sing|Person=3|PronType=Rel	16	advmod	_	_
 2	jëkk	jëkk	VERB	VERB	Mood=Ind|VerbForm=Fin	1	fixed	_	SpaceAfter=No
 3	,	,	PUNCT	COMMA	_	4	punct	_	_
 4	nguur	nguur	NOUN	NOUN	_	16	dislocated	_	_
@@ -75,7 +75,7 @@ The following 25 pairs of parts of speech are connected with `fixed`: <tt><a hre
 # visual-style 2	fgColor:white
 # visual-style 2 3 fixed	color:blue
 1	Lenn	benn	PRON	PRON	NounClass=Wol7|Number=Sing|PronType=Ind,Neg	5	nsubj	_	_
-2	lu	lu	ADP	PREP	_	4	case	_	_
+2	lu	lu	ADP	PREP	ExtPos=ADP	4	case	_	_
 3	dul	dul	ADP	PREP	_	2	fixed	_	_
 4	ne-ne	ne-ne	NOUN	NOUN	_	1	nmod	_	_
 5	amul	am	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|VerbForm=Fin	0	root	_	SpaceAfter=No

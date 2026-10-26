@@ -86,13 +86,7 @@ udver: '2'
 
 ## Treebanks
 
-This is the first treebank in Kyrgyz.
+There currently [2](/treebanks/ky-comparison.html) Kyrgyz treebanks in UD:
+- [UD_Kyrgyz-KTMU](/treebanks/ky_ktmu/)
+- [UD_Kyrgyz-TueCL](/treebanks/ky_tuecl/)
 
- 
-
----
-**Instruction**: Treebank-specific pages are generated automatically from the README file in the treebank repository and
-from the data in the latest release. Link to the respective '*-index.html' page in the 'treebanks' folder, using the language code
-and the treebank code in the file name.
-
----

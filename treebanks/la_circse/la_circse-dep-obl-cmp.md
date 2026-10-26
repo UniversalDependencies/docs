@@ -9,27 +9,25 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="la_circse-dep-obl.html">obl</a></tt>.
 There are also 4 other language-specific subtypes of `obl`: <tt><a href="la_circse-dep-obl-agent.html">obl:agent</a></tt>, <tt><a href="la_circse-dep-obl-arg.html">obl:arg</a></tt>, <tt><a href="la_circse-dep-obl-lmod.html">obl:lmod</a></tt>, <tt><a href="la_circse-dep-obl-tmod.html">obl:tmod</a></tt>.
 
-14 nodes (0%) are attached to their parents as `obl:cmp`.
+27 nodes (0%) are attached to their parents as `obl:cmp`.
 
-9 instances of `obl:cmp` (64%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.78571428571429.
+14 instances of `obl:cmp` (52%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.22222222222222.
 
-The following 5 pairs of parts of speech are connected with `obl:cmp`: <tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt> (10; 71% instances), <tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_circse-pos-DET.html">DET</a></tt> (1; 7% instances), <tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_circse-pos-PROPN.html">PROPN</a></tt> (1; 7% instances), <tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_circse-pos-VERB.html">VERB</a></tt> (1; 7% instances), <tt><a href="la_circse-pos-ADV.html">ADV</a></tt>-<tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt> (1; 7% instances).
+The following 7 pairs of parts of speech are connected with `obl:cmp`: <tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt> (14; 52% instances), <tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_circse-pos-DET.html">DET</a></tt> (5; 19% instances), <tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_circse-pos-PRON.html">PRON</a></tt> (2; 7% instances), <tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_circse-pos-PROPN.html">PROPN</a></tt> (2; 7% instances), <tt><a href="la_circse-pos-ADV.html">ADV</a></tt>-<tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt> (2; 7% instances), <tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt> (1; 4% instances), <tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_circse-pos-VERB.html">VERB</a></tt> (1; 4% instances).
 
 
 ~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 1 obl:cmp	color:blue
-1	sceptro	sceptrum	NOUN	A2	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Sing	6	obl:cmp	_	LiLaflcat=n2
-2	ne	ne	PART	O	PartType=Int	6	discourse	_	LASLAVariant=2|LiLaflcat=i
-3	nostro	noster	DET	F	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Sing|Number[psor]=Plur|Person[psor]=1|Poss=Yes|PronType=Prs	1	det	_	LiLaflcat=n6
-4	famulus	famulus	NOUN	A2	Case=Nom|Gender=Masc|InflClass=IndEurO|Number=Sing	6	nsubj	_	LASLAVariant=1|LiLaflcat=n2
-5	est	sum	AUX	B6	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	LASLAVariant=1|LiLaflcat=v6
-6	potior	potis	ADJ	C6	Case=Nom|Degree=Cmp|Gender=Fem,Masc|InflClass=IndEurX|Number=Sing	0	root	_	LiLaflcat=n7
-7	tibi	tu	PRON	E	Case=Dat|InflClass=LatAnom|Number=Sing|Person=2|PronType=Prs	6	obl:arg	_	LiLaflcat=p
+# visual-style 1 3 obl:cmp	color:blue
+1	nobilius	nobilis	ADJ	C4	Case=Acc|Degree=Cmp|Gender=Neut|InflClass=IndEurX|Number=Sing	2	amod	_	LASLAVariant=2|LiLaflcat=n7
+2	aliquid	aliquis	PRON	L	Case=Acc|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Ind	5	obj	_	LiLaflcat=p
+3	genere	genus	NOUN	A3	Case=Abl|Gender=Neut|InflClass=IndEurX|Number=Sing	1	obl:cmp	_	LASLAVariant=1|LiLaflcat=n3
+4	regali	regalis	ADJ	C4	Case=Abl|Degree=Pos|Gender=Neut|InflClass=IndEurI|Number=Sing	3	amod	_	LiLaflcat=n7
+5	appetis	appeto	VERB	B3	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LiLaflcat=v3
 
 ~~~
 
@@ -54,19 +52,28 @@ The following 5 pairs of parts of speech are connected with `obl:cmp`: <tt><a hr
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 3 obl:cmp	color:blue
-1	et	et	CCONJ	S	_	4	cc	_	LASLAVariant=2|LiLaflcat=i
-2	cur	cur	ADV	O	PronType=Int	4	advmod	_	LiLaflcat=i
-3	Atrida	atrides	PROPN	A1	Case=Abl|InflClass=IndEurA|NameType=Giv|Number=Sing	5	obl:cmp	_	LASLAVariant=N|LiLaflcat=n1
-4	uideor	uideo	VERB	B2	Aspect=Imp|InflClass=LatE|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	LiLaflcat=v2
-5	inferior	inferus	ADJ	C1	Case=Nom|Degree=Cmp|Gender=Masc|InflClass=IndEurX|Number=Sing	4	advcl:pred	_	LiLaflcat=n7
-6	tibi	tu	PRON	E	Case=Dat|InflClass=LatAnom|Number=Sing|Person=2|PronType=Prs	4	obl	_	LiLaflcat=p
-7	gnatus	natus	NOUN	A2	Case=Nom|Gender=Masc|InflClass=IndEurO|Number=Sing	4	nsubj:pass	_	LASLAVariant=1|LiLaflcat=n2
-8	Thyestae	thyestes	PROPN	A1	Case=Gen|InflClass=IndEurA|NameType=Giv|Number=Sing	7	nmod	_	LASLAVariant=N|LiLaflcat=n1
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 10 obl:cmp	color:blue
+1	tumet	tumeo	VERB	B2	Aspect=Imp|InflClass=LatE|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	animus	animus	NOUN	A2	Case=Nom|Gender=Masc|InflClass=IndEurO|Number=Sing	1	nsubj	_	_
+3	ira	ira	NOUN	A1	Case=Abl|Gender=Fem|InflClass=IndEurA|Number=Sing	1	obl	_	_
+4	feruet	ferueo	VERB	B2	Aspect=Imp|InflClass=LatE|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	_
+5	immensus	immensus	ADJ	C1	Case=Nom|Degree=Pos|Gender=Masc|InflClass=IndEurO|Number=Sing	6	amod	_	_
+6	dolor	dolor	NOUN	A3	Case=Nom|Gender=Masc|InflClass=IndEurX|Number=Sing	4	nsubj	_	_
+7	maius	magnus	ADJ	C1	Case=Acc|Degree=Cmp|Gender=Neut|InflClass=IndEurX|Number=Sing	16	amod	_	_
+8	que	que	CCONJ	S	_	17	cc	_	_
+9	quam	quam	SCONJ	N	PronType=Rel	10	mark	_	_
+10	quod	qui	PRON	J	Case=Acc|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Rel	7	obl:cmp	_	_
+11	casus	casus	NOUN	A4	Case=Nom|Gender=Masc|InflClass=IndEurU|Number=Sing	15	nsubj	_	_
+12	et	et	CCONJ	S	_	14	cc	_	_
+13	iuuenum	iuuenis	NOUN	A3	Case=Gen|Gender=Fem,Masc|InflClass=IndEurI|Number=Plur	14	nmod	_	_
+14	furor	furor	NOUN	A3	Case=Nom|Gender=Masc|InflClass=IndEurX|Number=Sing	11	conj	_	_
+15	conatur	conor	VERB	B1	Aspect=Imp|InflClass=LatA|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	10	acl:relcl	_	_
+16	aliquid	aliquis	PRON	L	Case=Acc|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Ind	17	obj	_	_
+17	cupio	cupio	VERB	B5	Aspect=Imp|InflClass=LatI2|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	_
 
 ~~~
 

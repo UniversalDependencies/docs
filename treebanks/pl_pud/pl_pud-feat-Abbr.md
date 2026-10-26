@@ -23,7 +23,7 @@ The most frequent other feature values with which `NOUN` and `Abbr` co-occurred:
 `NOUN` tokens may have the following values of `Abbr`:
 
 * `Yes` (165; 100% of non-empty `Abbr`): <em>r, %, p.n.e, w, mld, n.e, °C, dr, mln, tys</em>
-* `EMPTY` (4481): <em>lat, roku, części, miejsce, wojny, latach, ludzi, raz, wieku, większość</em>
+* `EMPTY` (4467): <em>lat, roku, części, miejsce, wojny, latach, ludzi, raz, wieku, większość</em>
 
 `Abbr` seems to be **lexical feature** of `NOUN`. 100% lemmas (10) occur only with one value of `Abbr`.
 
@@ -47,7 +47,7 @@ The most frequent other feature values with which `ADV` and `Abbr` co-occurred: 
 `ADV` tokens may have the following values of `Abbr`:
 
 * `Yes` (2; 100% of non-empty `Abbr`): <em>ws</em>
-* `EMPTY` (495): <em>kiedy, jak, tak, bardzo, tam, często, wciąż, bardziej, gdzie, następnie</em>
+* `EMPTY` (494): <em>kiedy, jak, tak, bardzo, tam, często, wciąż, bardziej, gdzie, następnie</em>
 
 ### `ADP`
 
@@ -58,7 +58,7 @@ The most frequent other feature values with which `ADP` and `Abbr` co-occurred: 
 `ADP` tokens may have the following values of `Abbr`:
 
 * `Yes` (1; 100% of non-empty `Abbr`): <em>ds</em>
-* `EMPTY` (2049): <em>w, na, z, do, o, po, przez, od, dla, za</em>
+* `EMPTY` (2047): <em>w, na, z, do, o, po, przez, od, dla, za</em>
 
 ### `PROPN`
 
@@ -69,7 +69,7 @@ The most frequent other feature values with which `PROPN` and `Abbr` co-occurred
 `PROPN` tokens may have the following values of `Abbr`:
 
 * `Yes` (1; 100% of non-empty `Abbr`): <em>Z</em>
-* `EMPTY` (1348): <em>USA, Brytanii, Clinton, Morze, Chiny, Trumpa, Azji, BBC, Danevirke, Europy</em>
+* `EMPTY` (1339): <em>USA, Brytanii, Clinton, Morze, Chiny, Trumpa, Azji, BBC, Danevirke, Europy</em>
 
 ## Relations with Agreement in `Abbr`
 

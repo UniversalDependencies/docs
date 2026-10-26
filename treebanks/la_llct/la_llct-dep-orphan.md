@@ -116,7 +116,7 @@ The following 8 pairs of parts of speech are connected with `orphan`: <tt><a hre
 2	offero	offero	VERB	v|v|1|s|p|i|a|-|-|-	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
 3	in	in	ADP	r|r|-|-|-|-|-|-|-|-	_	7	case	_	_
 4	iam	iam	ADV	d|d|-|-|-|-|-|-|-|-	AdvType=Tim	5	advmod:tmod	_	_
-5	predicto	praedictus	DET	a|a|-|s|-|-|-|n|b|-	Case=Abl|Gender=Neut|Number=Sing|PronType=Dem	7	det	_	_
+5	predicto	praedictus	DET	a|a|-|s|-|-|-|n|b|-	Case=Abl|Gender=Neut|Number=Sing|PronType=Dem	7	amod	_	_
 6	Dei	Deus	PROPN	Propn|n|-|s|-|-|-|m|g|-	Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	_
 7	oraculum	oraculum	NOUN	n|n|-|s|-|-|-|n|b|-	Case=Abl|Gender=Neut|Number=Sing	2	obl:arg	_	_
 8	una	unus	DET	a|a|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|InflClass=LatPron|Number=Sing|NumType=Card|NumValue=1|PronType=Ind	9	det	_	_
@@ -229,7 +229,7 @@ The following 8 pairs of parts of speech are connected with `orphan`: <tt><a hre
 2	offero	offero	VERB	v|v|1|s|p|i|a|-|-|-	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
 3	in	in	ADP	r|r|-|-|-|-|-|-|-|-	_	7	case	_	_
 4	iam	iam	ADV	d|d|-|-|-|-|-|-|-|-	AdvType=Tim	5	advmod:tmod	_	_
-5	predicto	praedictus	DET	a|a|-|s|-|-|-|n|b|-	Case=Abl|Gender=Neut|Number=Sing|PronType=Dem	7	det	_	_
+5	predicto	praedictus	DET	a|a|-|s|-|-|-|n|b|-	Case=Abl|Gender=Neut|Number=Sing|PronType=Dem	7	amod	_	_
 6	Dei	Deus	PROPN	Propn|n|-|s|-|-|-|m|g|-	Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	_
 7	oraculum	oraculum	NOUN	n|n|-|s|-|-|-|n|b|-	Case=Abl|Gender=Neut|Number=Sing	2	obl:arg	_	_
 8	una	unus	DET	a|a|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|InflClass=LatPron|Number=Sing|NumType=Card|NumValue=1|PronType=Ind	9	det	_	_

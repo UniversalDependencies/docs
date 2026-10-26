@@ -30,7 +30,7 @@ The most frequent other feature values with which `VERB` and `Connegative` co-oc
 
 5 <tt><a href="olo_kkpp-pos-AUX.html">AUX</a></tt> tokens (7% of all `AUX` tokens) have a non-empty value of `Connegative`.
 
-The most frequent other feature values with which `AUX` and `Connegative` co-occurred: <tt><a href="olo_kkpp-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="olo_kkpp-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="olo_kkpp-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (4; 80%), <tt><a href="olo_kkpp-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (4; 80%), <tt><a href="olo_kkpp-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (4; 80%), <tt><a href="olo_kkpp-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (4; 80%), <tt><a href="olo_kkpp-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (3; 60%).
+The most frequent other feature values with which `AUX` and `Connegative` co-occurred: <tt><a href="olo_kkpp-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="olo_kkpp-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (4; 80%), <tt><a href="olo_kkpp-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (4; 80%), <tt><a href="olo_kkpp-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (4; 80%), <tt><a href="olo_kkpp-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (4; 80%), <tt><a href="olo_kkpp-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (4; 80%), <tt><a href="olo_kkpp-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (3; 60%).
 
 `AUX` tokens may have the following values of `Connegative`:
 

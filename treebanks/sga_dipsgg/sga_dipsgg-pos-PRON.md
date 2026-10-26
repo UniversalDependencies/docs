@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Old_Irish-DipSGG: POS Tags: `PRON`
 
 There are 11 `PRON` lemmas (5%), 14 `PRON` types (5%) and 22 `PRON` tokens (5%).
-Out of 16 observed tags, the rank of `PRON` is: 7 in number of lemmas, 7 in number of types and 8 in number of tokens.
+Out of 16 observed tags, the rank of `PRON` is: 7 in number of lemmas, 6 in number of types and 8 in number of tokens.
 
 The 10 most frequent `PRON` lemmas: <em>a, m, mo, so, do, mé, sa, som, sí, t_1</em>
 

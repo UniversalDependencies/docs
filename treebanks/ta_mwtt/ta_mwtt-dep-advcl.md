@@ -39,7 +39,7 @@ The following 5 pairs of parts of speech are connected with `advcl`: <tt><a href
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 3 advcl	color:blue
-1	குமாருக்குச்	குமார்	PROPN	_	Case=Dat|Number=Sing|Person=3	3	nsubj:nc	_	Translit=kumārukkuc|LTranslit=kumār
+1	குமாருக்குச்	குமார்	PROPN	_	Case=Dat|Number=Sing|Person=3	3	obl	_	Translit=kumārukkuc|LTranslit=kumār|OrigDeprel=nsubj:nc
 2	சம்பளம்	சம்பளம்	NOUN	_	Case=Nom|Number=Sing|Person=3	3	nsubj	_	Translit=campaḷam|LTranslit=campaḷam
 3	போதாமல்	போது	VERB	_	Polarity=Neg|VerbForm=Conv	4	advcl	_	Translit=pōtāmal|LTranslit=pōtu
 4	கஷ்ட	கஷ்டம்	NOUN	_	Number=Sing|Person=3	0	root	_	LTranslit=kaṣṭam|Translit=kaṣṭap

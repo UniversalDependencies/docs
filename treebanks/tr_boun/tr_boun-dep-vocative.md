@@ -26,9 +26,9 @@ The following 21 pairs of parts of speech are connected with `vocative`: <tt><a 
 2	Peki	peki	ADV	_	_	8	discourse	_	_
 3	dedeciğim	dedecik	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=1	8	vocative	_	DerivedFrom=dede|SpaceAfter=No
 4	,	,	PUNCT	Comma	_	8	punct	_	_
-5	bu	bu	DET	Det	_	6	det	_	_
+5	bu	bu	DET	Det	PronType=Dem	6	det	_	_
 6	çadırı	çadır	NOUN	_	Case=Acc|Number=Sing|Person=3	8	obj	_	_
-7	nereye	nere	PRON	Ques	Case=Dat|Number=Sing|Person=3	8	obl	_	_
+7	nereye	nere	PRON	Ques	Case=Dat|Number=Sing|Person=3|PronType=Int	8	obl	_	_
 8	kuracağız	kur	VERB	_	Aspect=Imp|Number=Plur|Person=1|Polarity=Pos|Tense=Fut	0	root	_	SpaceAfter=No
 9	?	?	PUNCT	Ques	_	8	punct	_	SpacesAfter=\n
 

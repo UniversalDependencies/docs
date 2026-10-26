@@ -18,18 +18,22 @@ The following 1 pairs of parts of speech are connected with `expl:pass`: <tt><a 
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 3 expl:pass	color:blue
-1	W	w	ADP	_	_	2	case	_	_
-2	Etiopiskej	Etiopiska	PROPN	_	Case=Loc|Gender=Fem|Number=Sing	4	obl	_	_
-3	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	4	expl:pass	_	_
-4	rěči	rěčeć	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-5	84	84	NUM	_	NumType=Card	6	nummod:gov	_	_
-6	rěčow	rěč	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	4	nsubj	_	SpaceAfter=No
-7	.	.	PUNCT	_	_	4	punct	_	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 5 expl:pass	color:blue
+1	W	w	ADP	_	_	3	case	_	_
+2	snadnej	snadny	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	_
+3	měrje	měra	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	10	obl	_	_
+4	su	być	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	_
+5	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	10	expl:pass	_	_
+6	tež	tež	ADV	_	_	10	advmod	_	_
+7	konje	kóń	NOUN	_	Animacy=Nhum|Case=Nom|Gender=Masc|Number=Plur	10	nsubj	_	_
+8	a	a	CCONJ	_	_	9	cc	_	_
+9	wozy	wóz	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	7	conj	_	_
+10	wužiwali	wužiwać	VERB	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	10	punct	_	_
 
 ~~~
 

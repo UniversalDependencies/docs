@@ -27,7 +27,7 @@ The following 3 pairs of parts of speech are connected with `aux`: <tt><a href="
 3	saya	saya	PRON	_	Number=Sing|Person=1|Polite=Form|PronType=Prs	6	nsubj	_	_
 4	tetap	tetap	ADV	_	_	6	advmod	_	_
 5	akan	akan	AUX	_	_	6	aux	_	_
-6	masuk	masuk	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
+6	masuk	masuk	VERB	_	Voice=Act	0	root	_	_
 7	penjara	penjara	NOUN	_	Number=Sing	6	obl	_	SpaceAfter=No
 8	,	,	PUNCT	_	_	10	punct	_	_
 9	semoga	moga	ADV	_	_	10	advmod	_	_
@@ -44,7 +44,7 @@ The following 3 pairs of parts of speech are connected with `aux`: <tt><a href="
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 6 aux	color:blue
-1	Mengandung	kandung	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
+1	Mengandung	kandung	VERB	_	Voice=Act	0	root	_	_
 2	satu	satu	NUM	_	NumType=Card	3	nummod	_	_
 3	laguna	laguna	NOUN	_	Number=Sing	1	obj	_	_
 4	kecil	kecil	ADJ	_	_	3	amod	_	_
@@ -64,7 +64,7 @@ The following 3 pairs of parts of speech are connected with `aux`: <tt><a href="
 # visual-style 14 10 aux	color:blue
 1	Ketika	ketika	ADV	_	PronType=Rel	3	advmod	_	_
 2	orang	orang	NOUN	_	Number=Sing	3	nsubj	_	_
-3	meninggal	tinggal	VERB	_	Mood=Ind|Voice=Act	14	advcl	_	_
+3	meninggal	tinggal	VERB	_	Voice=Act	14	advcl	_	_
 4	karena	karena	ADP	_	_	5	case	_	_
 5	usia	usia	NOUN	_	Number=Sing	3	obl	_	_
 6	tua	tua	ADJ	_	_	5	amod	_	_

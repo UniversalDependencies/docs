@@ -32,7 +32,13 @@ The 2nd highest number of forms (1) was observed with the lemma “ή”: <em>ή
 
 The 3rd highest number of forms (1) was observed with the lemma “αλλά”: <em>αλλά</em>.
 
-`CCONJ` does not occur with any features.
+`CCONJ` occurs with 1 features: <tt><a href="el_gdt-feat-ExtPos.html">ExtPos</a></tt> (1; 0% instances)
+
+`CCONJ` occurs with 1 feature-value pairs: `ExtPos=CCONJ`
+
+`CCONJ` occurs with 2 feature combinations.
+The most frequent feature combination is `_` (2049 tokens).
+Examples: <em>και, αλλά, ή, ωστόσο, όμως, ούτε, είτε, κι, παρά, οπότε</em>
 
 
 ## Relations

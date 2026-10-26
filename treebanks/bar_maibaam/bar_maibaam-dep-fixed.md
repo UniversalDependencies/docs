@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-39 nodes (0%) are attached to their parents as `fixed`.
+36 nodes (0%) are attached to their parents as `fixed`.
 
-39 instances of `fixed` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.02564102564103.
+36 instances of `fixed` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.02777777777778.
 
-The following 11 pairs of parts of speech are connected with `fixed`: <tt><a href="bar_maibaam-pos-DET.html">DET</a></tt>-<tt><a href="bar_maibaam-pos-ADV.html">ADV</a></tt> (11; 28% instances), <tt><a href="bar_maibaam-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="bar_maibaam-pos-SCONJ.html">SCONJ</a></tt> (7; 18% instances), <tt><a href="bar_maibaam-pos-DET.html">DET</a></tt>-<tt><a href="bar_maibaam-pos-ADJ.html">ADJ</a></tt> (5; 13% instances), <tt><a href="bar_maibaam-pos-ADV.html">ADV</a></tt>-<tt><a href="bar_maibaam-pos-ADP.html">ADP</a></tt> (4; 10% instances), <tt><a href="bar_maibaam-pos-DET.html">DET</a></tt>-<tt><a href="bar_maibaam-pos-DET.html">DET</a></tt> (3; 8% instances), <tt><a href="bar_maibaam-pos-ADP.html">ADP</a></tt>-<tt><a href="bar_maibaam-pos-DET.html">DET</a></tt> (2; 5% instances), <tt><a href="bar_maibaam-pos-ADV.html">ADV</a></tt>-<tt><a href="bar_maibaam-pos-ADV.html">ADV</a></tt> (2; 5% instances), <tt><a href="bar_maibaam-pos-ADV.html">ADV</a></tt>-<tt><a href="bar_maibaam-pos-SCONJ.html">SCONJ</a></tt> (2; 5% instances), <tt><a href="bar_maibaam-pos-ADP.html">ADP</a></tt>-<tt><a href="bar_maibaam-pos-ADP.html">ADP</a></tt> (1; 3% instances), <tt><a href="bar_maibaam-pos-DET.html">DET</a></tt>-<tt><a href="bar_maibaam-pos-SCONJ.html">SCONJ</a></tt> (1; 3% instances), <tt><a href="bar_maibaam-pos-PRON.html">PRON</a></tt>-<tt><a href="bar_maibaam-pos-PRON.html">PRON</a></tt> (1; 3% instances).
+The following 9 pairs of parts of speech are connected with `fixed`: <tt><a href="bar_maibaam-pos-DET.html">DET</a></tt>-<tt><a href="bar_maibaam-pos-ADV.html">ADV</a></tt> (11; 31% instances), <tt><a href="bar_maibaam-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="bar_maibaam-pos-SCONJ.html">SCONJ</a></tt> (7; 19% instances), <tt><a href="bar_maibaam-pos-DET.html">DET</a></tt>-<tt><a href="bar_maibaam-pos-ADJ.html">ADJ</a></tt> (5; 14% instances), <tt><a href="bar_maibaam-pos-ADV.html">ADV</a></tt>-<tt><a href="bar_maibaam-pos-ADP.html">ADP</a></tt> (4; 11% instances), <tt><a href="bar_maibaam-pos-DET.html">DET</a></tt>-<tt><a href="bar_maibaam-pos-DET.html">DET</a></tt> (3; 8% instances), <tt><a href="bar_maibaam-pos-ADV.html">ADV</a></tt>-<tt><a href="bar_maibaam-pos-ADV.html">ADV</a></tt> (2; 6% instances), <tt><a href="bar_maibaam-pos-ADV.html">ADV</a></tt>-<tt><a href="bar_maibaam-pos-SCONJ.html">SCONJ</a></tt> (2; 6% instances), <tt><a href="bar_maibaam-pos-ADP.html">ADP</a></tt>-<tt><a href="bar_maibaam-pos-ADP.html">ADP</a></tt> (1; 3% instances), <tt><a href="bar_maibaam-pos-DET.html">DET</a></tt>-<tt><a href="bar_maibaam-pos-SCONJ.html">SCONJ</a></tt> (1; 3% instances).
 
 
 ~~~ conllu

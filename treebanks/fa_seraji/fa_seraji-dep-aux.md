@@ -23,18 +23,18 @@ The following 7 pairs of parts of speech are connected with `aux`: <tt><a href="
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
 # visual-style 11 7 aux	color:blue
-1	در	در	ADP	P	_	2	case	_	Translit=dr|LTranslit=dr
-2	برخورد	برخورد	NOUN	N_SING	Number=Sing	11	obl	_	Translit=brḫūrd|LTranslit=brḫūrd
-3	با	با	ADP	P	_	5	case	_	Translit=bā|LTranslit=bā
-4	این	این	DET	DET	_	5	det	_	Translit=āīn|LTranslit=āīn
-5	بحران‌آفرینی	بحران‌آفرینی	NOUN	N_SING	Number=Sing	2	nmod	_	Translit=bḥrānĀfrīnī|LTranslit=bḥrānĀfrīnī
-6	تنها	تنها	ADV	ADV	_	11	advmod	_	Translit=tnhā|LTranslit=tnhā
-7	نمی‌توان	توان	AUX	V_AUX	_	11	aux	_	Translit=nmītūān|LTranslit=tūān
-8	به	به	ADP	P	_	9	case	_	Translit=bh|LTranslit=bh
-9	تحلیل	تحلیل	NOUN	N_SING	Number=Sing	11	obl	_	Translit=tḥlīl|LTranslit=tḥlīl
-10	بسنده	بسنده	ADJ	ADJ	Degree=Pos	11	compound:lvc	_	Translit=bsndh|LTranslit=bsndh
-11	کرد	کرد	VERB	V_PA	Number=Sing|Person=3|Tense=Past	0	root	_	OrigLemma=کرد#کن|SpaceAfter=No|Translit=krd|LTranslit=krd
-12	.	.	PUNCT	DELM	_	11	punct	_	Translit=.|LTranslit=.
+1	در	در	ADP	P	_	2	case	_	LTranslit=dr|Translit=dr
+2	برخورد	برخورد	NOUN	N_SING	Number=Sing	11	obl	_	LTranslit=brḫūrd|Translit=brḫūrd
+3	با	با	ADP	P	_	5	case	_	LTranslit=bā|Translit=bā
+4	این	این	DET	DET	_	5	det	_	LTranslit=āīn|Translit=āīn
+5	بحران‌آفرینی	بحران‌آفرینی	NOUN	N_SING	Number=Sing	2	nmod	_	LTranslit=bḥrānĀfrīnī|Translit=bḥrānĀfrīnī
+6	تنها	تنها	ADV	ADV	_	11	advmod	_	LTranslit=tnhā|Translit=tnhā
+7	نمی‌توان	توان	AUX	V_AUX	_	11	aux	_	LTranslit=tūān|Translit=nmītūān
+8	به	به	ADP	P	_	9	case	_	LTranslit=bh|Translit=bh
+9	تحلیل	تحلیل	NOUN	N_SING	Number=Sing	11	obl	_	LTranslit=tḥlīl|Translit=tḥlīl
+10	بسنده	بسنده	ADJ	ADJ	Degree=Pos	11	compound:lvc	_	LTranslit=bsndh|Translit=bsndh
+11	کرد	کرد	VERB	V_PA	Number=Sing|Person=3|Tense=Past	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=krd
+12	.	.	PUNCT	DELM	_	11	punct	_	LTranslit=.|Translit=.
 
 ~~~
 
@@ -45,14 +45,14 @@ The following 7 pairs of parts of speech are connected with `aux`: <tt><a href="
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 6 aux	color:blue
-1	اگر	اگر	SCONJ	CON	_	3	mark	_	Translit=āgr|LTranslit=āgr
-2	بیعت	بیعت	NOUN	N_SING	Number=Sing	3	compound:lvc	_	Translit=bīʿt|LTranslit=bīʿt
-3	کنی	کرد	VERB	V_SUB	Mood=Sub|Number=Sing|Person=2|Tense=Pres	4	advcl	_	OrigLemma=کرد#کن|Translit=knī|LTranslit=krd
-4	موجب	موجب	NOUN	N_SING	Number=Sing	0	root	_	Translit=mūjb|LTranslit=mūjb
-5	سپاس	سپاس	NOUN	N_SING	Number=Sing	4	nmod:poss	_	Translit=spās|LTranslit=spās
-6	خواهد	خواست	AUX	V_AUX	Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	4	aux	_	OrigLemma=خواست#خواه|Translit=ḫūāhd|LTranslit=ḫūāst
-7	بود	بود	AUX	V_PA	Number=Sing|Person=3|Tense=Past	4	cop	_	SpaceAfter=No|Translit=būd|LTranslit=būd
-8	.	.	PUNCT	DELM	_	4	punct	_	Translit=.|LTranslit=.
+1	اگر	اگر	SCONJ	CON	_	3	mark	_	LTranslit=āgr|Translit=āgr
+2	بیعت	بیعت	NOUN	N_SING	Number=Sing	3	compound:lvc	_	LTranslit=bīʿt|Translit=bīʿt
+3	کنی	کرد	VERB	V_SUB	Mood=Sub|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	advcl	_	LTranslit=krd|OrigLemma=کرد#کن|Translit=knī
+4	موجب	موجب	NOUN	N_SING	Number=Sing	0	root	_	LTranslit=mūjb|Translit=mūjb
+5	سپاس	سپاس	NOUN	N_SING	Number=Sing	4	nmod:poss	_	LTranslit=spās|Translit=spās
+6	خواهد	خواست	AUX	V_AUX	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	4	aux	_	LTranslit=ḫūāst|OrigLemma=خواست#خواه|Translit=ḫūāhd
+7	بود	بود	AUX	V_PA	Number=Sing|Person=3|Tense=Past	4	cop	_	LTranslit=būd|SpaceAfter=No|Translit=būd
+8	.	.	PUNCT	DELM	_	4	punct	_	LTranslit=.|Translit=.
 
 ~~~
 
@@ -63,20 +63,20 @@ The following 7 pairs of parts of speech are connected with `aux`: <tt><a href="
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 13 aux	color:blue
-1	از	از	ADP	P	_	2	case	_	Translit=āz|LTranslit=āz
-2	بنی‌هاشم	بنی‌هاشم	NOUN	N_SING	Number=Sing	7	nmod	_	Translit=bnīhāšm|LTranslit=bnīhāšm
-3	هم	هم	SCONJ	CON	_	7	mark	_	Translit=hm|LTranslit=hm
-4	حتی	حتی	ADV	ADV	_	7	advmod	_	Translit=ḥtī|LTranslit=ḥtī
-5	یک	یک	NUM	NUM	NumType=Card	6	nummod	_	Translit=īk|LTranslit=īk
-6	نفر	نفر	NOUN	N_SING	Number=Sing	7	nsubj	_	Translit=nfr|LTranslit=nfr
-7	حاضر	حاضر	ADJ	ADJ	Degree=Pos	0	root	_	Translit=ḥāḍr|LTranslit=ḥāḍr
-8	به	به	ADP	P	_	9	case	_	Translit=bh|LTranslit=bh
-9	بیعت	بیعت	NOUN	N_SING	Number=Sing	7	nmod	_	Translit=bīʿt|LTranslit=bīʿt
-10	با	با	ADP	P	_	11	case	_	Translit=bā|LTranslit=bā
-11	یزید	یزید	NOUN	N_SING	Number=Sing	9	nmod	_	Translit=īzīd|LTranslit=īzīd
-12	نشده	کرد	VERB	V_PP	Number=Sing|Person=3|Polarity=Neg|VerbForm=Part	7	compound	_	OrigLemma=کرد#کن|Translit=nšdh|LTranslit=krd
-13	است	است	AUX	V_PRS	Number=Sing|Person=3|Tense=Pres	7	aux	_	SpaceAfter=No|Translit=āst|LTranslit=āst
-14	.	.	PUNCT	DELM	_	7	punct	_	Translit=.|LTranslit=.
+1	از	از	ADP	P	_	2	case	_	LTranslit=āz|Translit=āz
+2	بنی‌هاشم	بنی‌هاشم	NOUN	N_SING	Number=Sing	7	nmod	_	LTranslit=bnīhāšm|Translit=bnīhāšm
+3	هم	هم	SCONJ	CON	_	7	mark	_	LTranslit=hm|Translit=hm
+4	حتی	حتی	ADV	ADV	_	7	advmod	_	LTranslit=ḥtī|Translit=ḥtī
+5	یک	یک	NUM	NUM	NumType=Card	6	nummod	_	LTranslit=īk|Translit=īk
+6	نفر	نفر	NOUN	N_SING	Number=Sing	7	nsubj	_	LTranslit=nfr|Translit=nfr
+7	حاضر	حاضر	ADJ	ADJ	Degree=Pos	0	root	_	LTranslit=ḥāḍr|Translit=ḥāḍr
+8	به	به	ADP	P	_	9	case	_	LTranslit=bh|Translit=bh
+9	بیعت	بیعت	NOUN	N_SING	Number=Sing	7	nmod	_	LTranslit=bīʿt|Translit=bīʿt
+10	با	با	ADP	P	_	11	case	_	LTranslit=bā|Translit=bā
+11	یزید	یزید	NOUN	N_SING	Number=Sing	9	nmod	_	LTranslit=īzīd|Translit=īzīd
+12	نشده	کرد	VERB	V_PP	Number=Sing|Person=3|Polarity=Neg|VerbForm=Part	7	compound	_	LTranslit=krd|OrigLemma=کرد#کن|Translit=nšdh
+13	است	است	AUX	V_PRS	Number=Sing|Person=3|Tense=Pres	7	aux	_	LTranslit=āst|SpaceAfter=No|Translit=āst
+14	.	.	PUNCT	DELM	_	7	punct	_	LTranslit=.|Translit=.
 
 ~~~
 

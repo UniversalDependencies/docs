@@ -13,7 +13,7 @@ This relation is universal.
 360 instances of `parataxis` (88%) are left-to-right (parent precedes child).
 Average distance between parent and child is 13.7592137592138.
 
-The following 22 pairs of parts of speech are connected with `parataxis`: <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="id_gsd-pos-VERB.html">VERB</a></tt> (253; 62% instances), <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_gsd-pos-VERB.html">VERB</a></tt> (43; 11% instances), <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> (38; 9% instances), <tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id_gsd-pos-VERB.html">VERB</a></tt> (14; 3% instances), <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> (13; 3% instances), <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> (11; 3% instances), <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="id_gsd-pos-PRON.html">PRON</a></tt> (9; 2% instances), <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> (4; 1% instances), <tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> (4; 1% instances), <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="id_gsd-pos-ADJ.html">ADJ</a></tt> (3; 1% instances), <tt><a href="id_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="id_gsd-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id_gsd-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="id_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="id_gsd-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="id_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="id_gsd-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_gsd-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_gsd-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_gsd-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="id_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="id_gsd-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="id_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="id_gsd-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id_gsd-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="id_gsd-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 23 pairs of parts of speech are connected with `parataxis`: <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="id_gsd-pos-VERB.html">VERB</a></tt> (253; 62% instances), <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_gsd-pos-VERB.html">VERB</a></tt> (43; 11% instances), <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> (38; 9% instances), <tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id_gsd-pos-VERB.html">VERB</a></tt> (14; 3% instances), <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> (13; 3% instances), <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> (11; 3% instances), <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="id_gsd-pos-PRON.html">PRON</a></tt> (9; 2% instances), <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> (4; 1% instances), <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="id_gsd-pos-ADJ.html">ADJ</a></tt> (3; 1% instances), <tt><a href="id_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="id_gsd-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id_gsd-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id_gsd-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="id_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="id_gsd-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="id_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="id_gsd-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_gsd-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_gsd-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_gsd-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="id_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="id_gsd-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="id_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="id_gsd-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id_gsd-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="id_gsd-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -25,15 +25,15 @@ The following 22 pairs of parts of speech are connected with `parataxis`: <tt><a
 1	Tuh	tuh	X	X--	Foreign=Yes	4	dep	_	SpaceAfter=No|Morf=^tuh<x>_X--$
 2	,	,	PUNCT	Z--	_	1	punct	_	Morf=^,<z>_Z--$
 3	kamu	kamu	PRON	PS2	Number=Sing|Person=2|Polite=Infm|PronType=Prs	4	nsubj	_	Morf=^kamu<p>_PS2$
-4	lupa	lupa	VERB	VSA	Mood=Ind|Voice=Act	0	root	_	Morf=^lupa<v>_VSA$
+4	lupa	lupa	VERB	VSA	Voice=Act	0	root	_	Morf=^lupa<v>_VSA$
 5	lagi	lagi	ADV	D--	_	4	advmod	_	Morf=^lagi<d>_D--$
 6	kan	bukan	PART	F--	Abbr=Yes|Polarity=Neg	4	amod	_	SpaceAfter=No|Morf=^kan<f>_F--$
 7	?	?	PUNCT	Z--	_	4	punct	_	Morf=^?<z>_Z--$
 8	-	-	PUNCT	Z--	_	9	punct	_	Morf=^-<z>_Z--$
-9	Lihat	lihat	VERB	VSA	Mood=Ind|Voice=Act	4	parataxis	_	SpaceAfter=No|Morf=^lihat<v>_VSA$
+9	Lihat	lihat	VERB	VSA	Voice=Act	4	parataxis	_	SpaceAfter=No|Morf=^lihat<v>_VSA$
 10	,	,	PUNCT	Z--	_	12	punct	_	Morf=^,<z>_Z--$
 11	kamu	kamu	PRON	PS2	Number=Sing|Person=2|Polite=Infm|PronType=Prs	12	nsubj	_	Morf=^kamu<p>_PS2$
-12	lupa	lupa	VERB	VSA	Mood=Ind|Voice=Act	4	parataxis	_	Morf=^lupa<v>_VSA$
+12	lupa	lupa	VERB	VSA	Voice=Act	4	parataxis	_	Morf=^lupa<v>_VSA$
 13	lagi	lagi	ADV	D--	_	12	advmod	_	Morf=^lagi<d>_D--$
 14	bukan	bukan	PART	G--	Polarity=Neg	12	advmod	_	SpaceAfter=No|Morf=^bukan<g>_G--$
 15	?	?	PUNCT	Z--	_	4	punct	_	Morf=^?<z>_Z--$
@@ -52,7 +52,7 @@ The following 22 pairs of parts of speech are connected with `parataxis`: <tt><a
 3	arti	arti	NOUN	NSD	Number=Sing	1	acl	_	Morf=^arti<n>_NSD$
 4	nya	dia	PRON	PS3	Number=Sing|Person=3|PronType=Prs	3	nmod:poss	_	Morf=^dia<p>_PS3$
 5	tidak	tidak	PART	G--	Polarity=Neg	6	advmod	_	Morf=^tidak<g>_G--$
-6	beroperasi	operasi	VERB	VSA	Mood=Ind|Voice=Act	3	parataxis	_	Morf=^ber+operasi<n>_VSA$
+6	beroperasi	operasi	VERB	VSA	Voice=Act	3	parataxis	_	Morf=^ber+operasi<n>_VSA$
 7	hari	hari	NOUN	NSD	Number=Sing	6	obj	_	Morf=^hari<n>_NSD$
 8	sabtu	sabtu	PROPN	NSD	_	7	nmod	_	SpaceAfter=No|Morf=^sabtu<n>_NSD$
 9	,	,	PUNCT	Z--	_	10	punct	_	Morf=^,<z>_Z--$
@@ -73,7 +73,7 @@ The following 22 pairs of parts of speech are connected with `parataxis`: <tt><a
 1	Sesudah	sesudah	ADP	D--	_	2	case	_	Morf=^sesudah<d>_D--$
 2	itu	itu	PRON	B--	PronType=Dem	4	obl	_	Morf=^itu<b>_B--$
 3	aku	aku	PRON	PS1	Number=Sing|Person=1|Polite=Infm|PronType=Prs	4	nsubj	_	Morf=^aku<p>_PS1$
-4	bertanya	tanya	VERB	VSA	Mood=Ind|Voice=Act	0	root	_	Morf=^ber+tanya<v>_VSA$
+4	bertanya	tanya	VERB	VSA	Voice=Act	0	root	_	Morf=^ber+tanya<v>_VSA$
 5	kepada	kepada	ADP	R--	_	6	case	_	Morf=^kepada<r>_R--$
 6	nya	dia	PRON	PS3	Number=Sing|Person=3|PronType=Prs	4	obl	_	Morf=^dia<p>_PS3$
 7	:	:	PUNCT	Z--	_	8	punct	_	Morf=^:<z>_Z--$

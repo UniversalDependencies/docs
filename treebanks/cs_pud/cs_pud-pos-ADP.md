@@ -46,7 +46,7 @@ The 10 most frequent ambiguous types:  <em>s</em> (<tt><a href="cs_pud-pos-ADP.h
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.104167 (the average of all parts of speech is 1.426331).
+The form / lemma ratio of `ADP` is 1.104167 (the average of all parts of speech is 1.426064).
 
 The 1st highest number of forms (2) was observed with the lemma “k”: <em>k, ke</em>.
 
@@ -54,32 +54,32 @@ The 2nd highest number of forms (2) was observed with the lemma “před”: <em
 
 The 3rd highest number of forms (2) was observed with the lemma “s”: <em>s, se</em>.
 
-`ADP` occurs with 5 features: <tt><a href="cs_pud-feat-AdpType.html">AdpType</a></tt> (1840; 100% instances), <tt><a href="cs_pud-feat-Case.html">Case</a></tt> (1833; 100% instances), <tt><a href="cs_pud-feat-Foreign.html">Foreign</a></tt> (12; 1% instances), <tt><a href="cs_pud-feat-Abbr.html">Abbr</a></tt> (11; 1% instances), <tt><a href="cs_pud-feat-NameType.html">NameType</a></tt> (1; 0% instances)
+`ADP` occurs with 6 features: <tt><a href="cs_pud-feat-AdpType.html">AdpType</a></tt> (1840; 100% instances), <tt><a href="cs_pud-feat-Case.html">Case</a></tt> (1833; 100% instances), <tt><a href="cs_pud-feat-ExtPos.html">ExtPos</a></tt> (35; 2% instances), <tt><a href="cs_pud-feat-Foreign.html">Foreign</a></tt> (12; 1% instances), <tt><a href="cs_pud-feat-Abbr.html">Abbr</a></tt> (11; 1% instances), <tt><a href="cs_pud-feat-NameType.html">NameType</a></tt> (1; 0% instances)
 
-`ADP` occurs with 12 feature-value pairs: `Abbr=Yes`, `AdpType=Comprep`, `AdpType=Prep`, `AdpType=Voc`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Ins`, `Case=Loc`, `Case=Nom`, `Foreign=Yes`, `NameType=Geo,Giv,Sur`
+`ADP` occurs with 14 feature-value pairs: `Abbr=Yes`, `AdpType=Comprep`, `AdpType=Prep`, `AdpType=Voc`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Ins`, `Case=Loc`, `Case=Nom`, `ExtPos=ADP`, `ExtPos=ADV`, `Foreign=Yes`, `NameType=Geo,Giv,Sur`
 
-`ADP` occurs with 16 feature combinations.
-The most frequent feature combination is `AdpType=Prep|Case=Loc` (677 tokens).
+`ADP` occurs with 22 feature combinations.
+The most frequent feature combination is `AdpType=Prep|Case=Loc` (653 tokens).
 Examples: <em>v, na, po, o, při, a</em>
 
 
 ## Relations
 
-`ADP` nodes are attached to their parents using 8 different relations: <tt><a href="cs_pud-dep-case.html">case</a></tt> (1811; 98% instances), <tt><a href="cs_pud-dep-fixed.html">fixed</a></tt> (15; 1% instances), <tt><a href="cs_pud-dep-flat.html">flat</a></tt> (8; 0% instances), <tt><a href="cs_pud-dep-nsubj.html">nsubj</a></tt> (3; 0% instances), <tt><a href="cs_pud-dep-nmod.html">nmod</a></tt> (2; 0% instances), <tt><a href="cs_pud-dep-advmod.html">advmod</a></tt> (1; 0% instances), <tt><a href="cs_pud-dep-advmod-emph.html">advmod:emph</a></tt> (1; 0% instances), <tt><a href="cs_pud-dep-nsubj-pass.html">nsubj:pass</a></tt> (1; 0% instances)
+`ADP` nodes are attached to their parents using 7 different relations: <tt><a href="cs_pud-dep-case.html">case</a></tt> (1813; 98% instances), <tt><a href="cs_pud-dep-fixed.html">fixed</a></tt> (14; 1% instances), <tt><a href="cs_pud-dep-flat.html">flat</a></tt> (8; 0% instances), <tt><a href="cs_pud-dep-nsubj.html">nsubj</a></tt> (3; 0% instances), <tt><a href="cs_pud-dep-nmod.html">nmod</a></tt> (2; 0% instances), <tt><a href="cs_pud-dep-advmod.html">advmod</a></tt> (1; 0% instances), <tt><a href="cs_pud-dep-nsubj-pass.html">nsubj:pass</a></tt> (1; 0% instances)
 
-Parents of `ADP` nodes belong to 10 different parts of speech: <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> (1421; 77% instances), <tt><a href="cs_pud-pos-PROPN.html">PROPN</a></tt> (224; 12% instances), <tt><a href="cs_pud-pos-PRON.html">PRON</a></tt> (73; 4% instances), <tt><a href="cs_pud-pos-DET.html">DET</a></tt> (58; 3% instances), <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> (27; 1% instances), <tt><a href="cs_pud-pos-NUM.html">NUM</a></tt> (13; 1% instances), <tt><a href="cs_pud-pos-ADP.html">ADP</a></tt> (11; 1% instances), <tt><a href="cs_pud-pos-SYM.html">SYM</a></tt> (7; 0% instances), <tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="cs_pud-pos-VERB.html">VERB</a></tt> (3; 0% instances)
+Parents of `ADP` nodes belong to 10 different parts of speech: <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> (1421; 77% instances), <tt><a href="cs_pud-pos-PROPN.html">PROPN</a></tt> (224; 12% instances), <tt><a href="cs_pud-pos-PRON.html">PRON</a></tt> (75; 4% instances), <tt><a href="cs_pud-pos-DET.html">DET</a></tt> (58; 3% instances), <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> (27; 1% instances), <tt><a href="cs_pud-pos-NUM.html">NUM</a></tt> (13; 1% instances), <tt><a href="cs_pud-pos-ADP.html">ADP</a></tt> (10; 1% instances), <tt><a href="cs_pud-pos-SYM.html">SYM</a></tt> (7; 0% instances), <tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="cs_pud-pos-VERB.html">VERB</a></tt> (2; 0% instances)
 
-1790 (97%) `ADP` nodes are leaves.
+1791 (97%) `ADP` nodes are leaves.
 
 42 (2%) `ADP` nodes have one child.
 
 8 (0%) `ADP` nodes have two children.
 
-2 (0%) `ADP` nodes have three or more children.
+1 (0%) `ADP` nodes have three or more children.
 
 The highest child degree of a `ADP` node is 5.
 
-Children of `ADP` nodes are attached using 4 different relations: <tt><a href="cs_pud-dep-fixed.html">fixed</a></tt> (45; 68% instances), <tt><a href="cs_pud-dep-punct.html">punct</a></tt> (11; 17% instances), <tt><a href="cs_pud-dep-flat.html">flat</a></tt> (9; 14% instances), <tt><a href="cs_pud-dep-nmod.html">nmod</a></tt> (1; 2% instances)
+Children of `ADP` nodes are attached using 4 different relations: <tt><a href="cs_pud-dep-fixed.html">fixed</a></tt> (42; 67% instances), <tt><a href="cs_pud-dep-punct.html">punct</a></tt> (11; 17% instances), <tt><a href="cs_pud-dep-flat.html">flat</a></tt> (9; 14% instances), <tt><a href="cs_pud-dep-nmod.html">nmod</a></tt> (1; 2% instances)
 
-Children of `ADP` nodes belong to 7 different parts of speech: <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> (35; 53% instances), <tt><a href="cs_pud-pos-ADP.html">ADP</a></tt> (11; 17% instances), <tt><a href="cs_pud-pos-PUNCT.html">PUNCT</a></tt> (11; 17% instances), <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> (3; 5% instances), <tt><a href="cs_pud-pos-PROPN.html">PROPN</a></tt> (3; 5% instances), <tt><a href="cs_pud-pos-PRON.html">PRON</a></tt> (2; 3% instances), <tt><a href="cs_pud-pos-CCONJ.html">CCONJ</a></tt> (1; 2% instances)
+Children of `ADP` nodes belong to 6 different parts of speech: <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> (35; 56% instances), <tt><a href="cs_pud-pos-PUNCT.html">PUNCT</a></tt> (11; 17% instances), <tt><a href="cs_pud-pos-ADP.html">ADP</a></tt> (10; 16% instances), <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> (3; 5% instances), <tt><a href="cs_pud-pos-PROPN.html">PROPN</a></tt> (3; 5% instances), <tt><a href="cs_pud-pos-CCONJ.html">CCONJ</a></tt> (1; 2% instances)
 

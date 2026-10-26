@@ -27,7 +27,7 @@ The following 19 pairs of parts of speech are connected with `obl`: <tt><a href=
 2	dana	dana	NOUN	NN	Number=Sing	5	nsubj:pass	_	_
 3	tersebut	sebut	DET	DT	PronType=Dem	2	det	_	_
 4	baru	baru	ADV	RB	_	5	advmod	_	_
-5	terpakai	pakai	VERB	VB	Mood=Ind|Voice=Pass	0	root	_	_
+5	terpakai	pakai	VERB	VB	Voice=Pass	0	root	_	_
 6	168	168	NUM	CD	NumType=Card	8	nummod	_	_
 7	juta	juta	NUM	CD	NumType=Card	6	flat	_	_
 8	dolar	dolar	NOUN	NN	Number=Sing	5	obl	_	_
@@ -43,7 +43,7 @@ The following 19 pairs of parts of speech are connected with `obl`: <tt><a href=
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 5 obl	color:blue
-1	Membaca	baca	VERB	VB	Mood=Ind|Voice=Act	0	root	_	_
+1	Membaca	baca	VERB	VB	Voice=Act	0	root	_	_
 2	Don	Don	PROPN	NNP	_	1	obj	_	_
 3	Quixote	Quixote	PROPN	NNP	_	2	flat:name	_	_
 4	untuk	untuk	ADP	IN	_	5	case	_	_

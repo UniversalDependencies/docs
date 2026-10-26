@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of SCONJ in UD_Swiss_German-UZH'
+title:  'Statistics of SCONJ in UD_Alemannic-UZH'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Swiss_German-UZH: POS Tags: `SCONJ`
+## Treebank Statistics: UD_Alemannic-UZH: POS Tags: `SCONJ`
 
 There are 1 `SCONJ` lemmas (7%), 14 `SCONJ` types (2%) and 26 `SCONJ` tokens (2%).
 Out of 15 observed tags, the rank of `SCONJ` is: 13 in number of lemmas, 10 in number of types and 13 in number of tokens.

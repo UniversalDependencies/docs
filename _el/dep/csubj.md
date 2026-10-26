@@ -17,14 +17,14 @@ mark(απολύθηκαν, ότι)
 ~~~ sdparse
 Δεν με πειράζει να το πουν
 csubj(πειράζει, πουν)
-dobj(πειράζει, με)
+obj(πειράζει, με)
 aux(πειράζει, να)
 ~~~
 
 ~~~ sdparse
 Με στεναχωρεί που έρχεται ο χειμώνας
 csubj(στεναχωρεί, έρχεται)
-dobj(στεναχωρεί, Με)
+obj(στεναχωρεί, Με)
 mark(έρχεται, που)
 ~~~
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:43 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:56 CEST -->

@@ -8,10 +8,8 @@ udver: '2'
 
 ## Tokenization and Word Segmentation
 
-* In general, words are delimited by whitespace characters. Description of exceptions follows.
-* According to typographical rules, some punctuation marks (e.g., comma) are attached to a neighboring word,
-  while others (e.g., the sentence-terminating danda) are not.
-  We tokenize punctuation as separate tokens (words).
+* ​Similar to other Indian languages, words are separated by whitespace characters​ in Odia.
+* Following typographical guidelines, certain punctuation marks (like commas) are connected to adjacent words, whereas others (such as period marks) are separate. We treat punctuation as distinct tokens (words).
 
 
 ## Morphology
@@ -19,41 +17,34 @@ udver: '2'
 ### Tags
 
 * Odia uses all 17 universal POS categories, including particles ([PART]()).
+* Odia’s verb morphology is rich with a three-tier tense system, person, number, and honorific markers.
+* Odia nominal morphology differentiates between plural and singular numbers, case marking on nouns, and first, second, and third-person pronouns. However, it does not have grammatical gender marking, which reduces the complexity of learning the language.
 * Odia has the following auxiliary verbs ([AUX]()):
 
----
-**Instruction**: Specify any unused tags. Explain what words are tagged as PART. Describe how the AUX-VERB and DET-PRON distinctions are drawn, and specify whether there are (de)verbal forms tagged as ADJ, ADV or NOUN. Include links to language-specific tag definitions if any.
-
----
+* Primary Auxiliaries: 
+	 - Present tense ଅଛ୍ - ଅଛି, ଅଛନ୍ତି, ଅଛ, ଅଛୁ
+	- Past tense ଥ - ଥିଲା, ଥିଲେ, ଥିଲୁ, ଥିଲି 
+	- Future tense ଥ - ଥିବ, ଥିବୁ, ଥିବେ, ଥିବି, ଥିବା, ଥିବି
+	- Hypothetical tense ଥା - ଥାଆନ୍ତି, ଥାଆନ୍ତା, ଥାଆନ୍ତୁ
+                             
+ * Modal Auxiliaries ପାର୍ : - ପାରେ ,ପାରିବି, ପାରିଲି, ପାରିବ, ପାରୁ, ପାରିବେ, ପାର, ପାରନ୍ତି, ପାରିଥାନ୍ତି, ପାରୁଥାଆନ୍ତି, ପାରୁଥିଲା, ପାରୁଥିଲେ, ପାରୁଥିବି, ପାରୁଥିଲି, ପାରୁଥିବେ, ପାରୁଥିବ
 
 ### Features
 
-*
-
----
-**Instruction**: Describe inherent and inflectional features for major word classes (at least NOUN and VERB). Describe other noteworthy features. Include links to language-specific feature definitions if any.
-
----
+The morphological features haven't been used in the current Odia treebank. We will add this feature in the next edition.
 
 ## Syntax
 
-*
-
----
-**Instruction**: Give criteria for identifying core arguments (subjects and objects), and describe the range of copula constructions in nonverbal clauses. List all subtype relations used. Include links to language-specific relations definitions if any.
-
----
+* Odia is an agglutinative language, and it follows the subject-object-verb order. 
+* The major word classes found in Odia are nouns, pronouns, verbs, adjectives, and postpositions. Minor categories, like classifiers, complementizers, and conjunctions, are also found. 
+* The objects occur between the subject and the verb; the Indirect Object precedes the Direct Object. The modifier precedes the item it modifies: the adjective precedes the substantive it qualifies, and the adverb precedes the verb. Although scrambling is allowed, usually, the word order sticks to the V-final constructions except for poetic inversion.
+* Odia has two numbers: singular and plural; and three persons: 1st person, 2nd person, and 3rd person.
+* The subject NP agrees with the verb in person, number, and honorific. Honorificity goes along with person and number and it is marked in various word classes like nouns, pronouns, verbs, and, interestingly enough, with some of the post-positions that function as genitive, locative, and ablative markers.
+* Odia has eight cases: nominative, accusative, instrumental, dative, ablative, genitive, locative, and vocative. Except for the nominative case, all the other cases are marked morphologically.
+* Adverbs: Like English and Hindi, Odia also has Time, Place, and Manner adverbials.
 
 ## Treebanks
 
-There are [N](../treebanks/or-comparison.html) Odia UD treebanks:
+There is only one Odia UD treebank at present:
 
-  * [Odia-A](../treebanks/or_a/index.html)
-  * [Odia-B](../treebanks/or_b/index.html)
-
----
-**Instruction**: Treebank-specific pages are generated automatically from the README file in the treebank repository and
-from the data in the latest release. Link to the respective `*-index.html` page in the `treebanks` folder, using the language code
-and the treebank code in the file name.
-
----
+  * [Odia-ODTB](../treebanks/or_odtb/index.html)

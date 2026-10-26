@@ -23,7 +23,7 @@ The most frequent other feature values with which `PROPN` and `Foreign` co-occur
 `PROPN` tokens may have the following values of `Foreign`:
 
 * `Yes` (111; 100% of non-empty `Foreign`): <em>USA, Danevirke, CNN, Aviva, Company, George, Investors, Joseph, Mount, Multi</em>
-* `EMPTY` (980): <em>Čína, Francie, Čching, Albánie, BBC, Británii, Clintonové, Evropě, Itálii, Trump</em>
+* `EMPTY` (981): <em>Čína, Francie, Čching, Albánie, BBC, Británii, Clintonové, Evropě, Itálii, Trump</em>
 
 `Foreign` seems to be **lexical feature** of `PROPN`. 100% lemmas (84) occur only with one value of `Foreign`.
 
@@ -36,7 +36,7 @@ The most frequent other feature values with which `NOUN` and `Foreign` co-occurr
 `NOUN` tokens may have the following values of `Foreign`:
 
 * `Yes` (35; 100% of non-empty `Foreign`): <em>Blood, Breaking, Buck, Business, City, Consumer, Heritage, Hospitals, International, La</em>
-* `EMPTY` (4448): <em>roce, roku, let, století, letech, době, území, období, oblasti, l</em>
+* `EMPTY` (4447): <em>roce, roku, let, století, letech, době, území, období, oblasti, l</em>
 
 `Foreign` seems to be **lexical feature** of `NOUN`. 100% lemmas (33) occur only with one value of `Foreign`.
 
@@ -71,7 +71,7 @@ The most frequent other feature values with which `ADP` and `Foreign` co-occurre
 `CCONJ` tokens may have the following values of `Foreign`:
 
 * `Yes` (4; 100% of non-empty `Foreign`): <em>and, If</em>
-* `EMPTY` (656): <em>a, ale, i, nebo, však, avšak, nicméně, až, ani, tedy</em>
+* `EMPTY` (657): <em>a, ale, i, nebo, však, avšak, nicméně, až, ani, tedy</em>
 
 ### `PRON`
 
@@ -93,7 +93,7 @@ The most frequent other feature values with which `ADV` and `Foreign` co-occurre
 `ADV` tokens may have the following values of `Foreign`:
 
 * `Yes` (1; 100% of non-empty `Foreign`): <em>cca</em>
-* `EMPTY` (836): <em>tak, také, jak, poté, už, kde, více, pouze, stejně, ještě</em>
+* `EMPTY` (832): <em>tak, také, jak, poté, už, kde, více, pouze, stejně, ještě</em>
 
 ## Relations with Agreement in `Foreign`
 

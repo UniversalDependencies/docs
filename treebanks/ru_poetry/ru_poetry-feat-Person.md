@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `1`, `2`, `3`.
 
-6520 tokens (10%) have a non-empty value of `Person`.
+6519 tokens (10%) have a non-empty value of `Person`.
 2471 types (14%) occur at least once with a non-empty value of `Person`.
 1438 lemmas (15%) occur at least once with a non-empty value of `Person`.
-The feature is used with 3 part-of-speech tags: <tt><a href="ru_poetry-pos-VERB.html">VERB</a></tt> (3682; 6% instances), <tt><a href="ru_poetry-pos-PRON.html">PRON</a></tt> (2746; 4% instances), <tt><a href="ru_poetry-pos-AUX.html">AUX</a></tt> (92; 0% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="ru_poetry-pos-VERB.html">VERB</a></tt> (3682; 6% instances), <tt><a href="ru_poetry-pos-PRON.html">PRON</a></tt> (2745; 4% instances), <tt><a href="ru_poetry-pos-AUX.html">AUX</a></tt> (92; 0% instances).
 
 ### `VERB`
 
@@ -25,7 +25,7 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 * `1` (731; 20% of non-empty `Person`): <em>знаю, люблю, вижу, могу, хочу, иду, помню, жду, стою, смотрю</em>
 * `2` (736; 20% of non-empty `Person`): <em>прости, хочешь, дай, смотри, знаешь, видишь, молчи, скажи, Глядишь, Спи</em>
 * `3` (2215; 60% of non-empty `Person`): <em>может, стоит, есть, поет, кажется, проходят, знает, пахнет, проходит, будет</em>
-* `EMPTY` (4552): <em>нет, надо, быть, жить, стал, был, видел, любить, можно, сказал</em>
+* `EMPTY` (4554): <em>нет, надо, быть, жить, стал, был, видел, любить, можно, сказал</em>
 
 <table>
   <tr><th>Paradigm <i>знать</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -37,16 +37,16 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 
 ### `PRON`
 
-2746 <tt><a href="ru_poetry-pos-PRON.html">PRON</a></tt> tokens (78% of all `PRON` tokens) have a non-empty value of `Person`.
+2745 <tt><a href="ru_poetry-pos-PRON.html">PRON</a></tt> tokens (78% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="ru_poetry-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (2746; 100%), <tt><a href="ru_poetry-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (2746; 100%), <tt><a href="ru_poetry-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2283; 83%), <tt><a href="ru_poetry-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2163; 79%), <tt><a href="ru_poetry-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1551; 56%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="ru_poetry-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (2745; 100%), <tt><a href="ru_poetry-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (2745; 100%), <tt><a href="ru_poetry-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2282; 83%), <tt><a href="ru_poetry-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2163; 79%), <tt><a href="ru_poetry-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1551; 57%).
 
 `PRON` tokens may have the following values of `Person`:
 
 * `1` (1448; 53% of non-empty `Person`): <em>я, мне, мы, меня, нам, нас, мной, нами, мною</em>
 * `2` (674; 25% of non-empty `Person`): <em>ты, тебя, тебе, тобой, вы, вас, вам, тобою, вами, те</em>
-* `3` (624; 23% of non-empty `Person`): <em>он, она, них, их, ней, они, его, им, ей, ним</em>
-* `EMPTY` (787): <em>что, все, это, кто, всё, то, себе, себя, чем, всем</em>
+* `3` (623; 23% of non-empty `Person`): <em>он, она, них, ней, их, они, его, им, ей, ним</em>
+* `EMPTY` (786): <em>что, все, это, кто, всё, то, себе, себя, чем, всем</em>
 
 ### `AUX`
 

@@ -58,7 +58,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 
 * `Card` (8; 1% of non-empty `NumType`): <em>21, 22, 3, одна, одно, одной, ѡдиною</em>
 * `Ord` (1167; 99% of non-empty `NumType`): <em>178-г(о), 1, 205, 23, 160-го, 2, 18, 21, 22, 29</em>
-* `EMPTY` (12375): <em>великого, великому, великий, великии, государеву, государева, оржанои, пречистые, государевы, вытным</em>
+* `EMPTY` (12376): <em>великого, великому, великий, великии, государеву, государева, оржанои, пречистые, государевы, вытным</em>
 
 <table>
   <tr><th>Paradigm <i>21</i></th><th><tt>Card</tt></th><th><tt>Ord</tt></th></tr>

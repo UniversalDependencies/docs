@@ -30,7 +30,7 @@ The following 9 pairs of parts of speech are connected with `aux`: <tt><a href="
 5	fylt	fyle	VERB	verb	VerbForm=Part	0	root	_	_
 6	dei	dei	PRON	pron	Animacy=Hum|Case=Acc|Number=Plur|Person=3|PronType=Prs	5	obj	_	_
 7	med	med	ADP	prep	_	9	case	_	_
-8	steikt	steikje	ADJ	adj	Definite=Ind|Gender=Fem,Masc|VerbForm=Part	9	amod	_	_
+8	steikt	steikje	ADJ	adj	Definite=Ind|Gender=Com|VerbForm=Part	9	amod	_	_
 9	kyllingkjøtdeig	kyllingkjøtdeig	NOUN	subst	Definite=Ind|Gender=Masc	5	obl	_	SpaceAfter=No
 10	.	$.	PUNCT	clb	_	5	punct	_	_
 
@@ -48,7 +48,7 @@ The following 9 pairs of parts of speech are connected with `aux`: <tt><a href="
 3	ikkje	ikkje	PART	adv	Polarity=Neg	6	advmod	_	_
 4	vere	vere	AUX	verb	VerbForm=Inf	6	cop	_	_
 5	for	for	ADV	adv	_	6	advmod	_	_
-6	fast	fast	ADJ	adj	Definite=Ind|Degree=Pos|Gender=Fem,Masc	0	root	_	SpaceAfter=No
+6	fast	fast	ADJ	adj	Definite=Ind|Degree=Pos|Gender=Com	0	root	_	SpaceAfter=No
 7	,	$,	PUNCT	<komma>	_	9	punct	_	_
 8	då	då	ADV	adv	_	9	advmod	_	_
 9	vert	verte	VERB	verb	Mood=Ind|Tense=Pres|VerbForm=Fin	6	conj	_	_
@@ -71,7 +71,7 @@ The following 9 pairs of parts of speech are connected with `aux`: <tt><a href="
 2	Stortinget	Stortinget	PROPN	subst	Gender=Neut	7	nsubj	_	_
 3	skal	skulle	AUX	verb	Mood=Ind|Tense=Pres|VerbForm=Fin	7	aux	_	_
 4	vere	vere	AUX	verb	VerbForm=Inf	7	cop	_	_
-5	den	den	DET	det	Gender=Fem|PronType=Dem	7	det	_	_
+5	den	den	DET	det	Gender=Fem|PronType=Art	7	det	_	_
 6	lovgjevande	lovgjevande	ADJ	adj	Degree=Pos	7	amod	_	_
 7	makta	makt	NOUN	subst	Gender=Fem	0	root	_	_
 8	i	i	ADP	prep	_	9	case	_	_

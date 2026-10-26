@@ -22,15 +22,15 @@ The following 53 pairs of parts of speech are connected with `orphan`: <tt><a hr
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 6 orphan	color:blue
-1	μήτε	μήτε	CCONJ	C-	_	4	cc	_	ref=MATT_5.34
-2	ἐν	ἐν	ADP	R-	_	4	case	_	ref=MATT_5.34
-3	τῷ	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	4	det	_	ref=MATT_5.34
-4	οὐρανῷ	οὐρανός	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	0	root	_	ref=MATT_5.34
-5	ὅτι	ὅτι	SCONJ	G-	_	6	mark	_	ref=MATT_5.34
-6	θρόνος	θρόνος	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	4	orphan	_	ref=MATT_5.34
-7	ἐστὶν	εἰμί	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	cop	_	ref=MATT_5.34|LId=1
-8	τοῦ	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	9	det	_	ref=MATT_5.34
-9	θεοῦ	θεός	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	ref=MATT_5.34
+1	μήτε	μήτε	CCONJ	C-	_	4	cc	_	Ref=MATT_5.34
+2	ἐν	ἐν	ADP	R-	_	4	case	_	Ref=MATT_5.34
+3	τῷ	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	4	det	_	Ref=MATT_5.34
+4	οὐρανῷ	οὐρανός	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	0	root	_	Ref=MATT_5.34
+5	ὅτι	ὅτι	SCONJ	G-	_	6	mark	_	Ref=MATT_5.34
+6	θρόνος	θρόνος	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	4	orphan	_	Ref=MATT_5.34
+7	ἐστὶν	εἰμί	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	cop	_	LId=1|Ref=MATT_5.34
+8	τοῦ	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	9	det	_	Ref=MATT_5.34
+9	θεοῦ	θεός	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	Ref=MATT_5.34
 
 ~~~
 
@@ -41,14 +41,14 @@ The following 53 pairs of parts of speech are connected with `orphan`: <tt><a hr
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 8 orphan	color:blue
-1	καὶ	καί	ADV	Df	_	4	advmod	_	ref=1.138.2|LId=1
-2	τὰς	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Dem	4	det	_	ref=1.138.2
-3	λευκὰς	λευκός	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	4	amod	_	ref=1.138.2
-4	περιστεράς	περιστερά	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	0	root	_	ref=1.138.2
-5	τὴν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	7	det	_	ref=1.138.2
-6	αὐτὴν	αὐτός	DET	Pd	Case=Acc|Gender=Fem|Number=Sing	7	det	_	ref=1.138.2
-7	αἰτίην	αἰτία	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	8	obl	_	ref=1.138.2
-8	ἐπιφέροντες	ἐπιφέρω	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	4	orphan	_	ref=1.138.2
+1	καὶ	καί	ADV	Df	_	4	advmod	_	LId=1|Ref=1.138.2
+2	τὰς	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Dem	4	det	_	Ref=1.138.2
+3	λευκὰς	λευκός	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	4	amod	_	Ref=1.138.2
+4	περιστεράς	περιστερά	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	0	root	_	Ref=1.138.2
+5	τὴν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	7	det	_	Ref=1.138.2
+6	αὐτὴν	αὐτός	DET	Pd	Case=Acc|Gender=Fem|Number=Sing	7	det	_	Ref=1.138.2
+7	αἰτίην	αἰτία	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	8	obl	_	Ref=1.138.2
+8	ἐπιφέροντες	ἐπιφέρω	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	4	orphan	_	Ref=1.138.2
 
 ~~~
 
@@ -59,17 +59,17 @@ The following 53 pairs of parts of speech are connected with `orphan`: <tt><a hr
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
 # visual-style 11 6 orphan	color:blue
-1	κεῖται	κεῖμαι	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	ref=1.14.3
-2	δὲ	δέ	ADV	Df	_	1	discourse	_	ref=1.14.3
-3	ὁ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	5	det	_	ref=1.14.3
-4	θρόνος	θρόνος	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	ref=1.14.3
-5	οὗτος	οὗτος	DET	Pd	Case=Nom|Gender=Masc|Number=Sing	4	det	_	ref=1.14.3
-6	ἔνθα	ἔνθα	ADV	Dq	PronType=Rel	11	orphan	_	ref=1.14.3
-7	περ	πέρ	ADV	Df	_	6	discourse	_	ref=1.14.3
-8	οἱ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	11	det	_	ref=1.14.3
-9	τοῦ	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	10	det	_	ref=1.14.3
-10	Γύγεω	Γύγης	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	ref=1.14.3
-11	κρητῆρες	κρατήρ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	1	obl:arg	_	ref=1.14.3
+1	κεῖται	κεῖμαι	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	Ref=1.14.3
+2	δὲ	δέ	ADV	Df	_	1	discourse	_	Ref=1.14.3
+3	ὁ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	5	det	_	Ref=1.14.3
+4	θρόνος	θρόνος	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	Ref=1.14.3
+5	οὗτος	οὗτος	DET	Pd	Case=Nom|Gender=Masc|Number=Sing	4	det	_	Ref=1.14.3
+6	ἔνθα	ἔνθα	ADV	Dq	PronType=Rel	11	orphan	_	Ref=1.14.3
+7	περ	πέρ	ADV	Df	_	6	discourse	_	Ref=1.14.3
+8	οἱ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	11	det	_	Ref=1.14.3
+9	τοῦ	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	10	det	_	Ref=1.14.3
+10	Γύγεω	Γύγης	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	Ref=1.14.3
+11	κρητῆρες	κρατήρ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	1	obl:arg	_	Ref=1.14.3
 
 ~~~
 

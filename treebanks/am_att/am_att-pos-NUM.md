@@ -32,7 +32,7 @@ The 10 most frequent ambiguous types:  አንድ (<tt><a href="am_att-pos-NUM.ht
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.000000 (the average of all parts of speech is 1.029841).
+The form / lemma ratio of `NUM` is 1.000000 (the average of all parts of speech is 1.029860).
 
 The 1st highest number of forms (1) was observed with the lemma “1.85”: 1.85.
 
@@ -51,7 +51,7 @@ Examples: አንድ, ሁለት, ሦስት, ብዙ, አስር, 1.85, ስምንት
 
 ## Relations
 
-`NUM` nodes are attached to their parents using 6 different relations: <tt><a href="am_att-dep-nummod.html">nummod</a></tt> (34; 85% instances), <tt><a href="am_att-dep-obj.html">obj</a></tt> (2; 5% instances), <tt><a href="am_att-dep-nsubj.html">nsubj</a></tt> (1; 3% instances), <tt><a href="am_att-dep-obl.html">obl</a></tt> (1; 3% instances), <tt><a href="am_att-dep-root.html">root</a></tt> (1; 3% instances), <tt><a href="am_att-dep-xcomp.html">xcomp</a></tt> (1; 3% instances)
+`NUM` nodes are attached to their parents using 6 different relations: <tt><a href="am_att-dep-nummod.html">nummod</a></tt> (34; 85% instances), <tt><a href="am_att-dep-obj.html">obj</a></tt> (2; 5% instances), <tt><a href="am_att-dep-nmod.html">nmod</a></tt> (1; 3% instances), <tt><a href="am_att-dep-nsubj.html">nsubj</a></tt> (1; 3% instances), <tt><a href="am_att-dep-root.html">root</a></tt> (1; 3% instances), <tt><a href="am_att-dep-xcomp.html">xcomp</a></tt> (1; 3% instances)
 
 Parents of `NUM` nodes belong to 4 different parts of speech: <tt><a href="am_att-pos-NOUN.html">NOUN</a></tt> (33; 83% instances), <tt><a href="am_att-pos-VERB.html">VERB</a></tt> (5; 13% instances), <tt><a href="am_att-pos-NUM.html">NUM</a></tt> (1; 3% instances),  (1; 3% instances)
 

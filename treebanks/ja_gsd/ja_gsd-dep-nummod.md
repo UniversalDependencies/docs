@@ -58,7 +58,7 @@ The following 6 pairs of parts of speech are connected with `nummod`: <tt><a hre
 4	しばしば	屡	ADV	副詞	_	10	advmod	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=副詞|SpaceAfter=No|UnidicInfo=シバシバ,屡,しばしば,しばしば,シバシバ,,,シバシバ,シバシバ,屡
 5	『	『	PUNCT	補助記号-括弧開	_	7	punct	_	BunsetuBILabel=B|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=補助記号-括弧開|SpaceAfter=No|UnidicInfo=,『,『,『,,,,,,『
 6	さん	三	NUM	名詞-数詞	_	7	nummod	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=名詞-数詞|SpaceAfter=No|UnidicInfo=サン,三,さん,さん,サン,,,サン,サンパチ,三八
-7	ぱち	八	NUM	名詞-数詞	_	10	compound	_	BunsetuBILabel=I|BunsetuPositionType=SEM_HEAD|LUWBILabel=I|LUWPOS=名詞-数詞|SpaceAfter=No|UnidicInfo=ハチ,八,ぱち,ぱち,パチ,,,ハチ,サンパチ,三八
+7	ぱち	八	NUM	名詞-数詞	_	10	obl	_	BunsetuBILabel=I|BunsetuPositionType=SEM_HEAD|LUWBILabel=I|LUWPOS=名詞-数詞|SpaceAfter=No|UnidicInfo=ハチ,八,ぱち,ぱち,パチ,,,ハチ,サンパチ,三八
 8	』	』	PUNCT	補助記号-括弧閉	_	7	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=補助記号-括弧閉|SpaceAfter=No|UnidicInfo=,』,』,』,,,,,,』
 9	と	と	ADP	助詞-格助詞	_	7	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-格助詞|SpaceAfter=No|UnidicInfo=ト,と,と,と,ト,,,ト,ト,と
 10	呼ば	呼ぶ	VERB	動詞-一般-五段-バ行	_	0	root	_	BunsetuBILabel=B|BunsetuPositionType=ROOT|LUWBILabel=B|LUWPOS=動詞-一般-五段-バ行|SpaceAfter=No|UnidicInfo=ヨブ,呼ぶ,呼ば,呼ぶ,ヨバ,,,ヨブ,ヨブ,呼ぶ

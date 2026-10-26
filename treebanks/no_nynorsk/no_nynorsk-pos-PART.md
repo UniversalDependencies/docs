@@ -38,7 +38,7 @@ The 10 most frequent ambiguous types:  <em>å</em> (<tt><a href="no_nynorsk-pos-
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.250000 (the average of all parts of speech is 1.346455).
+The form / lemma ratio of `PART` is 1.250000 (the average of all parts of speech is 1.346300).
 
 The 1st highest number of forms (2) was observed with the lemma “å”: <em>og, å</em>.
 
@@ -59,7 +59,7 @@ Examples: <em>å, og, ei</em>
 
 `PART` nodes are attached to their parents using 9 different relations: <tt><a href="no_nynorsk-dep-mark.html">mark</a></tt> (4162; 62% instances), <tt><a href="no_nynorsk-dep-advmod.html">advmod</a></tt> (2469; 37% instances), <tt><a href="no_nynorsk-dep-nmod.html">nmod</a></tt> (37; 1% instances), <tt><a href="no_nynorsk-dep-conj.html">conj</a></tt> (15; 0% instances), <tt><a href="no_nynorsk-dep-flat-name.html">flat:name</a></tt> (6; 0% instances), <tt><a href="no_nynorsk-dep-advcl.html">advcl</a></tt> (5; 0% instances), <tt><a href="no_nynorsk-dep-root.html">root</a></tt> (3; 0% instances), <tt><a href="no_nynorsk-dep-cc.html">cc</a></tt> (1; 0% instances), <tt><a href="no_nynorsk-dep-reparandum.html">reparandum</a></tt> (1; 0% instances)
 
-Parents of `PART` nodes belong to 13 different parts of speech: <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt> (5488; 82% instances), <tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt> (632; 9% instances), <tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt> (336; 5% instances), <tt><a href="no_nynorsk-pos-ADV.html">ADV</a></tt> (116; 2% instances), <tt><a href="no_nynorsk-pos-PRON.html">PRON</a></tt> (38; 1% instances), <tt><a href="no_nynorsk-pos-ADP.html">ADP</a></tt> (35; 1% instances), <tt><a href="no_nynorsk-pos-PROPN.html">PROPN</a></tt> (25; 0% instances), <tt><a href="no_nynorsk-pos-DET.html">DET</a></tt> (14; 0% instances), <tt><a href="no_nynorsk-pos-NUM.html">NUM</a></tt> (7; 0% instances),  (3; 0% instances), <tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="no_nynorsk-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="no_nynorsk-pos-INTJ.html">INTJ</a></tt> (1; 0% instances)
+Parents of `PART` nodes belong to 13 different parts of speech: <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt> (5488; 82% instances), <tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt> (633; 9% instances), <tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt> (339; 5% instances), <tt><a href="no_nynorsk-pos-ADV.html">ADV</a></tt> (116; 2% instances), <tt><a href="no_nynorsk-pos-PRON.html">PRON</a></tt> (38; 1% instances), <tt><a href="no_nynorsk-pos-ADP.html">ADP</a></tt> (35; 1% instances), <tt><a href="no_nynorsk-pos-PROPN.html">PROPN</a></tt> (25; 0% instances), <tt><a href="no_nynorsk-pos-DET.html">DET</a></tt> (10; 0% instances), <tt><a href="no_nynorsk-pos-NUM.html">NUM</a></tt> (7; 0% instances),  (3; 0% instances), <tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="no_nynorsk-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="no_nynorsk-pos-INTJ.html">INTJ</a></tt> (1; 0% instances)
 
 6594 (98%) `PART` nodes are leaves.
 

@@ -16,7 +16,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="de_pud-pos-VERB.htm
 
 ### `VERB`
 
-1083 <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> tokens (55% of all `VERB` tokens) have a non-empty value of `Mood`.
+1083 <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> tokens (58% of all `VERB` tokens) have a non-empty value of `Mood`.
 
 The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="de_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (1033; 95%), <tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (794; 73%), <tt><a href="de_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (604; 56%).
 
@@ -25,7 +25,7 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 * `Imp` (4; 0% of non-empty `Mood`): <em>Knuck, Lass, Metti, Schauen</em>
 * `Ind` (1066; 98% of non-empty `Mood`): <em>sagte, ist, hat, gibt, wurde, sagt, begann, war, hatte, führte</em>
 * `Sub` (13; 1% of non-empty `Mood`): <em>Knew, ausschlösse, beeinflusse, habe, handelten, kämen, laste, leisteten, liege, täten</em>
-* `EMPTY` (895): <em>an, auf, aus, zurück, haben, ab, machen, verwendet, werden, genutzt</em>
+* `EMPTY` (787): <em>haben, machen, verwendet, werden, genutzt, veröffentlicht, errichtet, finden, geben, gegeben</em>
 
 <table>
   <tr><th>Paradigm <i>haben</i></th><th><tt>Ind</tt></th><th><tt>Sub</tt></th></tr>

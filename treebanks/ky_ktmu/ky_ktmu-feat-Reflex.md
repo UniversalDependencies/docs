@@ -18,12 +18,12 @@ The feature is used with 2 part-of-speech tags: <tt><a href="ky_ktmu-pos-PRON.ht
 
 19 <tt><a href="ky_ktmu-pos-PRON.html">PRON</a></tt> tokens (8% of all `PRON` tokens) have a non-empty value of `Reflex`.
 
-The most frequent other feature values with which `PRON` and `Reflex` co-occurred: <tt><a href="ky_ktmu-feat-Number.html">Number</a></tt><tt>=Sing</tt> (17; 89%), <tt><a href="ky_ktmu-feat-Case.html">Case</a></tt><tt>=Nom</tt> (14; 74%), <tt><a href="ky_ktmu-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (14; 74%), <tt><a href="ky_ktmu-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (14; 74%).
+The most frequent other feature values with which `PRON` and `Reflex` co-occurred: <tt><a href="ky_ktmu-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (19; 100%), <tt><a href="ky_ktmu-feat-Number.html">Number</a></tt><tt>=Sing</tt> (17; 89%), <tt><a href="ky_ktmu-feat-Case.html">Case</a></tt><tt>=Nom</tt> (14; 74%), <tt><a href="ky_ktmu-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (14; 74%).
 
 `PRON` tokens may have the following values of `Reflex`:
 
 * `Yes` (19; 100% of non-empty `Reflex`): <em>өз, Өзүм, өзү, өзүн, өзүнүн, өзүнөн, өзүңөр</em>
-* `EMPTY` (218): <em>кандай, мен, аны, ал, сен, анын, алар, ким, сага, эмне</em>
+* `EMPTY` (206): <em>кандай, мен, аны, ал, сен, анын, алар, ким, сага, эмне</em>
 
 ### `NOUN`
 
@@ -34,5 +34,5 @@ The most frequent other feature values with which `NOUN` and `Reflex` co-occurre
 `NOUN` tokens may have the following values of `Reflex`:
 
 * `Yes` (3; 100% of non-empty `Reflex`): <em>балдарга, өз, өзүн</em>
-* `EMPTY` (9092): <em>сом, шаарында, эл, салык, банк, жыл, иштери, суу, айда, жол</em>
+* `EMPTY` (9302): <em>сом, шаарында, эл, салык, иштери, банк, жыл, суу, айда, жол</em>
 

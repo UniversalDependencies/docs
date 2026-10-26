@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `iobj`: <tt><a href="wo_wtb-dep-iobj-appl.html">iobj:appl</a></tt>.
 
-298 nodes (1%) are attached to their parents as `iobj`.
+299 nodes (1%) are attached to their parents as `iobj`.
 
-243 instances of `iobj` (82%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.52348993288591.
+244 instances of `iobj` (82%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.51839464882943.
 
-The following 4 pairs of parts of speech are connected with `iobj`: <tt><a href="wo_wtb-pos-VERB.html">VERB</a></tt>-<tt><a href="wo_wtb-pos-NOUN.html">NOUN</a></tt> (170; 57% instances), <tt><a href="wo_wtb-pos-VERB.html">VERB</a></tt>-<tt><a href="wo_wtb-pos-PRON.html">PRON</a></tt> (76; 26% instances), <tt><a href="wo_wtb-pos-VERB.html">VERB</a></tt>-<tt><a href="wo_wtb-pos-PROPN.html">PROPN</a></tt> (51; 17% instances), <tt><a href="wo_wtb-pos-VERB.html">VERB</a></tt>-<tt><a href="wo_wtb-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 4 pairs of parts of speech are connected with `iobj`: <tt><a href="wo_wtb-pos-VERB.html">VERB</a></tt>-<tt><a href="wo_wtb-pos-NOUN.html">NOUN</a></tt> (171; 57% instances), <tt><a href="wo_wtb-pos-VERB.html">VERB</a></tt>-<tt><a href="wo_wtb-pos-PRON.html">PRON</a></tt> (76; 25% instances), <tt><a href="wo_wtb-pos-VERB.html">VERB</a></tt>-<tt><a href="wo_wtb-pos-PROPN.html">PROPN</a></tt> (51; 17% instances), <tt><a href="wo_wtb-pos-VERB.html">VERB</a></tt>-<tt><a href="wo_wtb-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

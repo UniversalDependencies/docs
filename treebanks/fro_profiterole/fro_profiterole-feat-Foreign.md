@@ -11,7 +11,7 @@ It occurs with 1 different values: `Yes`.
 
 12 tokens (0%) have a non-empty value of `Foreign`.
 8 types (0%) occur at least once with a non-empty value of `Foreign`.
-2 lemmas (0%) occur at least once with a non-empty value of `Foreign`.
+5 lemmas (0%) occur at least once with a non-empty value of `Foreign`.
 The feature is used with 4 part-of-speech tags: <tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt> (6; 0% instances), <tt><a href="fro_profiterole-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="fro_profiterole-pos-X.html">X</a></tt> (1; 0% instances).
 
 ### `NOUN`
@@ -21,18 +21,16 @@ The feature is used with 4 part-of-speech tags: <tt><a href="fro_profiterole-pos
 `NOUN` tokens may have the following values of `Foreign`:
 
 * `Yes` (6; 100% of non-empty `Foreign`): <em>corpus, domini, damno, verbe</em>
-* `EMPTY` (31700): <em>sire, rois, roi, gent, cors, dame, empereres, chevaliers, terre, seignor</em>
+* `EMPTY` (31694): <em>sire, rois, roi, gent, cors, dame, empereres, chevaliers, terre, seignor</em>
 
 ### `ADP`
 
 3 <tt><a href="fro_profiterole-pos-ADP.html">ADP</a></tt> tokens (0% of all `ADP` tokens) have a non-empty value of `Foreign`.
 
-The most frequent other feature values with which `ADP` and `Foreign` co-occurred: <tt><a href="fro_profiterole-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="fro_profiterole-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (3; 100%).
-
 `ADP` tokens may have the following values of `Foreign`:
 
 * `Yes` (3; 100% of non-empty `Foreign`): <em>in, en</em>
-* `EMPTY` (19957): <em>de, a, en, par, d', por, au, des, as, del</em>
+* `EMPTY` (19970): <em>de, a, en, par, d', por, an, devant, á, pur</em>
 
 ### `ADV`
 
@@ -43,7 +41,7 @@ The most frequent other feature values with which `ADV` and `Foreign` co-occurre
 `ADV` tokens may have the following values of `Foreign`:
 
 * `Yes` (2; 100% of non-empty `Foreign`): <em>illo</em>
-* `EMPTY` (25165): <em>si, ne, en, n', i, tant, bien, plus, ja, or</em>
+* `EMPTY` (25132): <em>si, ne, en, n', i, tant, bien, plus, or, ja</em>
 
 ### `X`
 

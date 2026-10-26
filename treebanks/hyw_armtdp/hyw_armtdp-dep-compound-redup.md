@@ -26,7 +26,7 @@ The following 11 pairs of parts of speech are connected with `compound:redup`: <
 1	Բառ	բառ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	5	obl	_	Translit=Baṙ|LTranslit=baṙ
 2	առ	առ	ADP	_	AdpType=Prep	3	case	_	Translit=aṙ|LTranslit=aṙ
 3	բառ	բառ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	1	compound:redup	_	Translit=baṙ|LTranslit=baṙ
-4	իմ	ես	DET	_	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	5	det:poss	_	Translit=im|LTranslit=es
+4	իմ	իմ	DET	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs	5	det:poss	_	Translit=im|LTranslit=im
 5	պատմութիւնս	պատմութիւն	NOUN	_	Animacy=Nhum|Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=1	0	root	_	Translit=patmowt’iwns|LTranslit=patmowt’iwn
 6	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	5	cop	_	Translit=ē|LTranslit=em
 7	աս	աս	PRON	_	Case=Nom|Deixis=Prox|Number=Sing|PronType=Dem	5	nsubj	_	Translit=as|LTranslit=as|SpaceAfter=No

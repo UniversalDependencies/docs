@@ -67,7 +67,7 @@ The following 7 pairs of parts of speech are connected with `cop`: <tt><a href="
 3	jest	być	AUX	fin:sg:ter:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	aux	4:aux	_
 4	takie	taki	DET	adj:sg:nom:n:pos	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	0	root	0:root	_
 5	jak	jak	SCONJ	comp	ConjType=Comp	6	mark	6:mark	_
-6	supermoc	supermoc	NOUN	subst:sg:nom:f	Case=Nom|Gender=Fem|Number=Sing	4	obl:cmpr	4:obl:cmpr	SpaceAfter=No
+6	supermoc	supermoc	NOUN	subst:sg:nom:f	Case=Nom|Gender=Fem|Number=Sing	4	advcl:cmp	4:advcl:cmp	SpaceAfter=No
 7	.	.	PUNCT	interp	PunctType=Peri	4	punct	4:punct	_
 
 ~~~

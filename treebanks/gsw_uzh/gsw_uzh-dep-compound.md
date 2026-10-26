@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of compound in UD_Swiss_German-UZH'
+title:  'Statistics of compound in UD_Alemannic-UZH'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Swiss_German-UZH: Relations: `compound`
+## Treebank Statistics: UD_Alemannic-UZH: Relations: `compound`
 
 This relation is universal.
 There are 1 language-specific subtypes of `compound`: <tt><a href="gsw_uzh-dep-compound-prt.html">compound:prt</a></tt>.

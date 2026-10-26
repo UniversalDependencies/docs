@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-3461 nodes (7%) are attached to their parents as `det`.
+3639 nodes (7%) are attached to their parents as `det`.
 
-3334 instances of `det` (96%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.058942502167.
+3507 instances of `det` (96%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.05743336081341.
 
-The following 11 pairs of parts of speech are connected with `det`: <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-DET.html">DET</a></tt> (3027; 87% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt> (156; 5% instances), <tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cy_ccg-pos-DET.html">DET</a></tt> (150; 4% instances), <tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cy_ccg-pos-DET.html">DET</a></tt> (38; 1% instances), <tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt>-<tt><a href="cy_ccg-pos-DET.html">DET</a></tt> (33; 1% instances), <tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt>-<tt><a href="cy_ccg-pos-DET.html">DET</a></tt> (28; 1% instances), <tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt>-<tt><a href="cy_ccg-pos-DET.html">DET</a></tt> (21; 1% instances), <tt><a href="cy_ccg-pos-ADV.html">ADV</a></tt>-<tt><a href="cy_ccg-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt>-<tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="cy_ccg-pos-AUX.html">AUX</a></tt>-<tt><a href="cy_ccg-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="cy_ccg-pos-SYM.html">SYM</a></tt>-<tt><a href="cy_ccg-pos-DET.html">DET</a></tt> (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `det`: <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-DET.html">DET</a></tt> (3180; 87% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt> (164; 5% instances), <tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cy_ccg-pos-DET.html">DET</a></tt> (162; 4% instances), <tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cy_ccg-pos-DET.html">DET</a></tt> (40; 1% instances), <tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt>-<tt><a href="cy_ccg-pos-DET.html">DET</a></tt> (33; 1% instances), <tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt>-<tt><a href="cy_ccg-pos-DET.html">DET</a></tt> (30; 1% instances), <tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt>-<tt><a href="cy_ccg-pos-DET.html">DET</a></tt> (22; 1% instances), <tt><a href="cy_ccg-pos-ADV.html">ADV</a></tt>-<tt><a href="cy_ccg-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt>-<tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="cy_ccg-pos-AUX.html">AUX</a></tt>-<tt><a href="cy_ccg-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="cy_ccg-pos-SYM.html">SYM</a></tt>-<tt><a href="cy_ccg-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -26,7 +26,7 @@ The following 11 pairs of parts of speech are connected with `det`: <tt><a href=
 2	ôl	ôl	NOUN	noun	Gender=Masc|Number=Sing	8	obl	_	_
 3	cyfnod	cyfnod	NOUN	noun	Gender=Masc|Number=Sing	2	nmod	_	_
 4	yn	yn	ADP	prep	_	6	case	_	_
-5	yr	y	DET	art	_	6	det	_	_
+5	yr	y	DET	art	PronType=Art	6	det	_	_
 6	ysgol	ysgol	NOUN	noun	Gender=Fem|Number=Sing	3	nmod	_	_
 7	leol	lleol	ADJ	pos	Degree=Pos|Mutation=SM	6	amod	_	_
 8	gweithiodd	gweithio	VERB	verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
@@ -48,7 +48,7 @@ The following 11 pairs of parts of speech are connected with `det`: <tt><a href=
 # visual-style 4 5 det	color:blue
 1	Yn	yn	AUX	impf	_	2	aux	_	_
 2	dilyn	dilyn	NOUN	verbnoun	Number=Sing|VerbForm=Vnoun	7	advcl	_	_
-3	y	y	DET	art	_	4	det	_	_
+3	y	y	DET	art	PronType=Art	4	det	_	_
 4	gynhadledd	cynhadledd	NOUN	noun	Gender=Fem|Mutation=SM|Number=Sing	2	obj	_	_
 5	hon	hon	PRON	dem	Gender=Fem|PronType=Dem	4	det	_	SpaceAfter=No
 6	,	,	PUNCT	punct	_	7	punct	_	_
@@ -76,7 +76,7 @@ The following 11 pairs of parts of speech are connected with `det`: <tt><a href=
 7	ôl	ôl	NOUN	noun	Gender=Masc|Number=Sing	1	obl	_	_
 8	i	i	ADP	prep	_	9	case	_	_
 9	Oes	oes	NOUN	noun	Gender=Fem|Number=Sing	7	nmod	_	_
-10	yr	y	DET	art	_	11	det	_	_
+10	yr	y	DET	art	PronType=Art	11	det	_	_
 11	Efydd	Efydd	PROPN	place	Gender=Fem|Number=Sing	9	nmod	_	SpaceAfter=No
 12	.	.	PUNCT	punct	_	1	punct	_	SpacesAfter=\n
 

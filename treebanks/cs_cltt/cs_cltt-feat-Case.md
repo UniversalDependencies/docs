@@ -80,6 +80,7 @@ The most frequent other feature values with which `ADP` and `Case` co-occurred: 
 <table>
   <tr><th>Paradigm <i>za</i></th><th><tt>Acc</tt></th><th><tt>Gen</tt></th><th><tt>Ins</tt></th></tr>
   <tr><td><tt></tt></td><td><em>za</em></td><td><em>za</em></td><td><em>za</em></td></tr>
+  <tr><td><tt><tt><a href="cs_cltt-feat-ExtPos.html">ExtPos</a></tt><tt>=ADP</tt></tt></td><td></td><td></td><td><em>za</em></td></tr>
 </table>
 
 ### `DET`
@@ -163,14 +164,14 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
 ## Relations with Agreement in `Case`
 
 The 10 most frequent relations where parent and child node agree in `Case`:
-<tt>NOUN --[<tt><a href="cs_cltt-dep-amod.html">amod</a></tt>]--> ADJ</tt> (5857; 98%),
-<tt>NOUN --[<tt><a href="cs_cltt-dep-case.html">case</a></tt>]--> ADP</tt> (3139; 93%),
-<tt>NOUN --[<tt><a href="cs_cltt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1467; 82%),
-<tt>NOUN --[<tt><a href="cs_cltt-dep-det.html">det</a></tt>]--> DET</tt> (442; 70%),
+<tt>NOUN --[<tt><a href="cs_cltt-dep-amod.html">amod</a></tt>]--> ADJ</tt> (5847; 99%),
+<tt>NOUN --[<tt><a href="cs_cltt-dep-case.html">case</a></tt>]--> ADP</tt> (3140; 93%),
+<tt>NOUN --[<tt><a href="cs_cltt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1465; 82%),
+<tt>NOUN --[<tt><a href="cs_cltt-dep-det.html">det</a></tt>]--> DET</tt> (441; 71%),
 <tt>ADP --[<tt><a href="cs_cltt-dep-fixed.html">fixed</a></tt>]--> NOUN</tt> (251; 100%),
-<tt>ADJ --[<tt><a href="cs_cltt-dep-conj.html">conj</a></tt>]--> ADJ</tt> (181; 88%),
+<tt>ADJ --[<tt><a href="cs_cltt-dep-conj.html">conj</a></tt>]--> ADJ</tt> (180; 88%),
 <tt>DET --[<tt><a href="cs_cltt-dep-case.html">case</a></tt>]--> ADP</tt> (110; 94%),
 <tt>PRON --[<tt><a href="cs_cltt-dep-case.html">case</a></tt>]--> ADP</tt> (79; 100%),
 <tt>NOUN --[<tt><a href="cs_cltt-dep-appos.html">appos</a></tt>]--> NOUN</tt> (40; 63%),
-<tt>NOUN --[<tt><a href="cs_cltt-dep-xcomp.html">xcomp</a></tt>]--> NOUN</tt> (21; 68%).
+<tt>NOUN --[<tt><a href="cs_cltt-dep-advcl-pred.html">advcl:pred</a></tt>]--> NOUN</tt> (23; 70%).
 

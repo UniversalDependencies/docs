@@ -46,7 +46,7 @@ The following 3 pairs of parts of speech are connected with `det:nummod`: <tt><a
 3	nic	nic	PRON	PW--1----------	Case=Nom|PronType=Neg	2	obj	2:obj	_
 4	víc	víc	DET	Ca--1----------	Case=Nom|NumType=Card|PronType=Ind	3	det:nummod	3:det:nummod	_
 5	než	než	SCONJ	J,-------------	_	6	mark	6:mark	_
-6	vrčení	vrčení	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Number=Sing	4	advcl	4:advcl:než	_
+6	vrčení	vrčení	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Number=Sing	3	advcl	3:advcl:než	_
 7	mašiny	mašina	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing	6	nmod	6:nmod:gen	_
 8	odkudsi	odkudsi	ADV	Db-------------	PronType=Ind	9	advmod	9:advmod	_
 9	zezadu	zezadu	ADV	Db-------------	_	6	advmod	6:advmod	SpaceAfter=No
@@ -82,7 +82,7 @@ The following 3 pairs of parts of speech are connected with `det:nummod`: <tt><a
 19	jeho	jeho	DET	PSIP1IS3-------	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	20	det	20:det	_
 20	otisky	otisk	NOUN	NNIP1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	18	nsubj	18:nsubj	_
 21	jako	jako	SCONJ	J,-------------	_	22	mark	22:mark	_
-22	stovky	stovka	NOUN	NNFP1-----A----	Case=Nom|Gender=Fem|Number=Plur	20	xcomp	20:xcomp	_
+22	stovky	stovka	NOUN	NNFP1-----A----	Case=Nom|Gender=Fem|Number=Plur	20	advcl:pred	20:advcl:pred:jako	_
 23	malých	malý	ADJ	AAFP2----1A----	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	24	amod	24:amod	_
 24	jizviček	jizvička	NOUN	NNFP2-----A----	Case=Gen|Gender=Fem|Number=Plur	22	nmod	22:nmod:gen	SpaceAfter=No
 25	.	.	PUNCT	Z:-------------	_	3	punct	3:punct	_

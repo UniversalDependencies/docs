@@ -20,7 +20,7 @@ When other phrases or sentences are used as names, the component words retain th
 
 ### Τypical modifiers of propern nouns with shortened versions
 
-The words *κύριος, κυρία* / *kirios, kiria* 'mister, madam'  and their shortened version *κυρ΄, κυρα*  receive the same lemma *κύριος, κυρία*,  are assigned the tag <code>ADJ</code> and depend with the [amod]() dependency on the proper noun they modify; however, when *Κύριος* is used with the meaning "the Lord" (see examples), it is assigned the tag <code>PROPN</code>, e.g.,  *ο*.DET *κύριος*.ADJ *Χαρδάκος*.PROPN, *ένας*.DET *κύριος*.ADJ
+The words *κύριος, κυρία* / *kirios, kiria* 'mister, madam'  and their shortened version *κυρ΄, κυρα, κ., κα, κος*  receive the same lemma *κύριος, κυρία*,  are assigned the tag <code>ADJ</code> and depend with the [amod]() dependency on the proper noun they modify; however, when *Κύριος* is used with the meaning "the Lord" (see examples), it is assigned the tag <code>PROPN</code>, e.g.,  *ο*.DET *κύριος*.ADJ *Χαρδάκος*.PROPN, *ένας*.DET *κύριος*.ADJ
 
 The adjective *Άγιος* 'Saint' (all genders) and its shortened version *Αη* receive the same lemma  *Άγιος*, are assigned the tag <code>ADJ</code> and depend with the [amod]() dependency on the proper noun it modifies, e.g. *ο*.DET *Αγιος*.ADJ *Νικόλαος*.PROPN, *ο*.DET *Άη*.ADJ *Νικόλας*.PROPN. 
 
@@ -59,4 +59,4 @@ Also when acronyms are spelled out, e.g.,  #μου-μου-ε* (spelling out of t
     - Avenue/motorway names consting of two place names in the genitive case (starting-ending places), e.g., *Αθηνών-Κορίνθου* "Athens to Corinth Avenue".  These are productive compounds. Each part of the compound is assigned the tag [PROPN]() and the second proper noun depends on the first one with the  relation <code>compound</code>; the first proper noun is considered the head of the compound. 
 
 Surnames in the GENitive case, like *Κανέλλου* / *Kanelou*  (feminine)  and  *Δημητρίου* /  *Dimitriou* (masculine/femnine), do not inflect and are assigned their own form as a lemma, e.g., the lemma is *Κανέλλου*.  
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:25 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:38 CEST -->

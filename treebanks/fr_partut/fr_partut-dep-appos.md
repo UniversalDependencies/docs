@@ -36,7 +36,7 @@ The following 12 pairs of parts of speech are connected with `appos`: <tt><a hre
 12	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
 13	base	base	NOUN	S	Gender=Fem|Number=Sing	3	nmod	_	_
 14	jusqu'	jusque	ADP	E	_	17	case	_	SpaceAfter=No
-15	à	à	ADP	E	_	14	fixed	_	_
+15	à	à	ADP	E	_	17	case	_	_
 16	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
 17	sommet	sommet	NOUN	S	Gender=Masc|Number=Sing	13	nmod	_	SpaceAfter=No
 18	,	,	PUNCT	FF	_	3	punct	_	_
@@ -72,7 +72,7 @@ The following 12 pairs of parts of speech are connected with `appos`: <tt><a hre
 12	devrait	devoir	VERB	VM	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 13	continuer	continuer	VERB	V	VerbForm=Inf	12	xcomp	_	_
 14	à	à	ADP	E	_	16	mark	_	_
-15	se	se	PRON	P	Person=3|PronType=Prs	16	expl	_	_
+15	se	soi	PRON	P	Person=3|PronType=Prs|Reflex=Yes	16	expl:pass	_	_
 16	développer	développer	VERB	V	VerbForm=Inf	13	xcomp	_	SpaceAfter=No
 17	,	,	PUNCT	FF	_	13	punct	_	_
 18	ce	ce	PRON	PD	Number=Sing|Person=3|PronType=Dem	13	appos	_	_
@@ -111,7 +111,7 @@ The following 12 pairs of parts of speech are connected with `appos`: <tt><a hre
 13	CPM	CPM	PROPN	SP	_	11	appos	_	SpaceAfter=No
 14	)	)	PUNCT	FB	_	13	punct	_	_
 15	de	de	ADP	E	_	17	case	_	_
-16	votre	votre	DET	AP	Gender=Fem|Number=Sing|PronType=Prs	17	det	_	_
+16	votre	son	DET	AP	Gender=Fem|Number=Sing|PronType=Prs	17	det	_	_
 17	publicité	publicité	NOUN	S	Gender=Fem|Number=Sing	11	nmod	_	SpaceAfter=No
 18	.	.	PUNCT	FS	_	1	punct	_	_
 

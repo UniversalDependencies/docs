@@ -22,16 +22,16 @@ The following 9 pairs of parts of speech are connected with `case`: <tt><a href=
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 9 case	color:blue
-1	gaudete	gaudeo	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_5.12
-2	et	et	CCONJ	C-	_	3	cc	_	ref=MATT_5.12
-3	exultate	ex(s)ulto	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	ref=MATT_5.12
-4	quoniam	quoniam	SCONJ	G-	_	7	mark	_	ref=MATT_5.12
-5	merces	merces	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	ref=MATT_5.12
-6	vestra	vester	DET	Ps	Case=Nom|Gender=Fem|Number=Sing|Person=2|Poss=Yes	5	det	_	ref=MATT_5.12
-7	copiosa	copiosus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	1	advcl	_	ref=MATT_5.12
-8	est	sum	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	cop	_	ref=MATT_5.12
-9	in	in	ADP	R-	_	10	case	_	ref=MATT_5.12
-10	caelis	caelum	NOUN	Nb	Case=Abl|Gender=Neut|Number=Plur	5	nmod	_	ref=MATT_5.12
+1	gaudete	gaudeo	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_5.12
+2	et	et	CCONJ	C-	_	3	cc	_	Ref=MATT_5.12
+3	exultate	ex(s)ulto	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	Ref=MATT_5.12
+4	quoniam	quoniam	SCONJ	G-	_	7	mark	_	Ref=MATT_5.12
+5	merces	merces	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	Ref=MATT_5.12
+6	vestra	vester	DET	Ps	Case=Nom|Gender=Fem|Number=Sing|Person=2|Poss=Yes	5	det	_	Ref=MATT_5.12
+7	copiosa	copiosus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	1	advcl	_	Ref=MATT_5.12
+8	est	sum	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	cop	_	Ref=MATT_5.12
+9	in	in	ADP	R-	_	10	case	_	Ref=MATT_5.12
+10	caelis	caelum	NOUN	Nb	Case=Abl|Gender=Neut|Number=Plur	5	nmod	_	Ref=MATT_5.12
 
 ~~~
 
@@ -42,15 +42,15 @@ The following 9 pairs of parts of speech are connected with `case`: <tt><a href=
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 8 case	color:blue
-1	sic	sic	ADV	Df	_	3	advmod	_	ref=MATT_5.12
-2	enim	enim	ADV	Df	_	3	discourse	_	ref=MATT_5.12
-3	persecuti	persequor	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	ref=MATT_5.12
-4	sunt	sum	AUX	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	aux	_	ref=MATT_5.12
-5	prophetas	propheta	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	3	obj	_	ref=MATT_5.12
-6	qui	qui	PRON	Pr	Case=Nom|Gender=Masc|Number=Plur|PronType=Rel	9	nsubj	_	ref=MATT_5.12
-7	fuerunt	sum	AUX	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	9	cop	_	ref=MATT_5.12
-8	ante	ante	ADP	R-	_	9	case	_	ref=MATT_5.12
-9	vos	vos	PRON	Pp	Case=Acc|Gender=Masc|Number=Plur|Person=2|PronType=Prs	5	acl	_	ref=MATT_5.12
+1	sic	sic	ADV	Df	_	3	advmod	_	Ref=MATT_5.12
+2	enim	enim	ADV	Df	_	3	discourse	_	Ref=MATT_5.12
+3	persecuti	persequor	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	Ref=MATT_5.12
+4	sunt	sum	AUX	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	aux	_	Ref=MATT_5.12
+5	prophetas	propheta	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	3	obj	_	Ref=MATT_5.12
+6	qui	qui	PRON	Pr	Case=Nom|Gender=Masc|Number=Plur|PronType=Rel	9	nsubj	_	Ref=MATT_5.12
+7	fuerunt	sum	AUX	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	9	cop	_	Ref=MATT_5.12
+8	ante	ante	ADP	R-	_	9	case	_	Ref=MATT_5.12
+9	vos	vos	PRON	Pp	Case=Acc|Gender=Masc|Number=Plur|Person=2|PronType=Prs	5	acl	_	Ref=MATT_5.12
 
 ~~~
 
@@ -61,10 +61,10 @@ The following 9 pairs of parts of speech are connected with `case`: <tt><a href=
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 3 case	color:blue
-1	et	et	CCONJ	C-	_	2	cc	_	ref=MARK_5.15
-2	veniunt	venio	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MARK_5.15
-3	ad	ad	ADP	R-	_	4	case	_	ref=MARK_5.15
-4	Iesum	Iesus	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	2	obl	_	ref=MARK_5.15
+1	et	et	CCONJ	C-	_	2	cc	_	Ref=MARK_5.15
+2	veniunt	venio	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MARK_5.15
+3	ad	ad	ADP	R-	_	4	case	_	Ref=MARK_5.15
+4	Iesum	Iesus	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	2	obl	_	Ref=MARK_5.15
 
 ~~~
 

@@ -8,12 +8,45 @@ udver: '2'
 
 This relation is universal.
 
-3 nodes (0%) are attached to their parents as `dislocated`.
+39 nodes (0%) are attached to their parents as `dislocated`.
 
-3 instances of `dislocated` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 6.33333333333333.
+39 instances of `dislocated` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.94871794871795.
 
-The following 2 pairs of parts of speech are connected with `dislocated`: <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt> (2; 67% instances), <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> (1; 33% instances).
+The following 6 pairs of parts of speech are connected with `dislocated`: <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> (20; 51% instances), <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt> (15; 38% instances), <tt><a href="es_ancora-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="es_ancora-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> (1; 3% instances), <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="es_ancora-pos-ADV.html">ADV</a></tt> (1; 3% instances), <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="es_ancora-pos-NUM.html">NUM</a></tt> (1; 3% instances).
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 15	bgColor:blue
+# visual-style 15	fgColor:white
+# visual-style 15 2 dislocated	color:blue
+1	Y	y	CCONJ	cc	_	15	cc	15:cc	_
+2	nada	nada	PRON	pi0cs000	Number=Sing|PronType=Neg	15	dislocated	15:dislocated	_
+3	de	de	ADP	sps00	_	4	case	4:case	_
+4	imaginación	imaginación	NOUN	ncfs000	Gender=Fem|Number=Sing	2	nmod	2:nmod	SpaceAfter=No
+5	,	,	PUNCT	fc	PunctType=Comm	2	punct	2:punct	_
+6	porque	porque	SCONJ	cs	_	15	mark	15:mark	_
+7	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	8:det	Entity=(CESSCASTP2000020221_bc50--2-gstype:gen,HomoDD
+8	imaginación	imaginación	NOUN	ncfs000	Gender=Fem|Number=Sing	15	nsubj	15:nsubj	ArgTem=arg0:agt|SpaceAfter=No
+9	,	,	PUNCT	fc	PunctType=Comm	13	punct	13:punct	_
+10	que	que	PRON	pr0cn000	PronType=Rel	13	nsubj	13:nsubj	ArgTem=arg1:tem|Entity=(CESSCASTP2000020221_bc50--1-CorefType:ident,gstype:gen)
+11	es	ser	AUX	vsip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	13:cop	_
+12	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	13:det	Entity=(CESSCASTP2000020221_bc49--2-CorefType:ident,gstype:gen,HomoDD
+13	libertad	libertad	NOUN	ncfs000	Gender=Fem|Number=Sing	8	acl:relcl	8:acl:relcl	ArgTem=arg2:atr|Entity=CESSCASTP2000020221_bc49)|SpaceAfter=No
+14	,	,	PUNCT	fc	PunctType=Comm	13	punct	13:punct	Entity=CESSCASTP2000020221_bc50)
+15	pone	poner	VERB	vmip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	MWE=pone_en_tela_de_juicio|MWEPOS=VERB
+16	en	en	ADP	_	_	17	case	17:case	_
+17	tela	tela	NOUN	ncfs000	Gender=Fem|Number=Sing	15	obl	15:obl	_
+18	de	de	ADP	_	_	19	case	19:case	_
+19	juicio	juicio	NOUN	ncms000	Gender=Masc|Number=Sing	17	nmod	17:nmod	_
+20	las	el	DET	da0fp0	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	21	det	21:det	Entity=(NOCOREF:Gen--3-gstype:gen,HomoDD
+21	demás	demás	PRON	pi0cp000	Number=Plur|PronType=Ind	22	nmod	22:nmod	_
+22	cosas	cosa	NOUN	ncfp000	Gender=Fem|Number=Plur	15	obj	15:obj	ArgTem=arg1:pat|Entity=NOCOREF:Gen)|SpaceAfter=No
+23	.	.	PUNCT	fp	PunctType=Peri	15	punct	15:punct	_
+
+~~~
 
 
 ~~~ conllu
@@ -41,53 +74,33 @@ The following 2 pairs of parts of speech are connected with `dislocated`: <tt><a
 
 
 ~~~ conllu
-# visual-style 14	bgColor:blue
-# visual-style 14	fgColor:white
-# visual-style 23	bgColor:blue
-# visual-style 23	fgColor:white
-# visual-style 23 14 dislocated	color:blue
-1	Los	el	DET	da0mp0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	2:det	_
-2	fusiles	fusil	NOUN	ncmp000	Gender=Masc|Number=Plur	0	root	0:root	SpaceAfter=No|ArgTem=arg1:pat
-3	,	,	PUNCT	fc	PunctType=Comm	5	punct	5:punct	_
-4	las	el	DET	da0fp0	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	5:det	_
-5	ametralladoras	ametralladora	NOUN	ncfp000	Gender=Fem|Number=Plur	2	appos	2:appos	SpaceAfter=No
-6	,	,	PUNCT	fc	PunctType=Comm	7	punct	7:punct	_
-7	granadas	granada	NOUN	ncfp000	Gender=Fem|Number=Plur	2	appos	2:appos	_
-8	y	y	CCONJ	cc	_	10	cc	10:cc	_
-9	buena	buen	ADJ	aq0fs0	Gender=Fem|Number=Sing	10	amod	10:amod	_
-10	parte	parte	NOUN	ncfs000	Gender=Fem|Number=Sing	2	conj	2:conj	_
-11	de	de	ADP	sps00	_	13	case	13:case	_
-12	los	el	DET	da0mp0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	13:det	_
-13	artefactos	artefacto	NOUN	ncmp000	Gender=Masc|Number=Plur	10	nmod	10:nmod	_
-14	que	que	PRON	pr0cn000	PronType=Rel	23	dislocated	23:dislocated	ArgTem=arg1:pat
-15	los	el	DET	da0mp0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	16:det	_
-16	guerrilleros	guerrillero	NOUN	ncmp000	Gender=Masc|Number=Plur	23	dislocated	23:dislocated	ArgTem=arg0:agt
-17	de	de	ADP	spcms	_	19	case	19:case	_
-18	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	19:det	_
-19	CRS	CRS	PROPN	np0000o	_	16	nmod	16:nmod	Entity=(NOCOREF:Spec.organization-organization-1-gstype:spec)
-20	que	que	PRON	pr0cn000	PronType=Rel	23	nsubj:pass	23:nsubj:pass	_
-21	se	él	PRON	pp3cn000	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	20	expl:pass	20:expl:pass	_
-22	han	haber	AUX	vaip3p0	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	23	aux	23:aux	_
-23	usado	usar	VERB	vmp00sm	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	13	acl:relcl	13:acl:relcl	_
-24	para	para	ADP	sps00	_	25	mark	25:mark	_
-25	luchar	luchar	VERB	vmn0000	VerbForm=Inf	23	advcl	23:advcl	ArgTem=argM:fin
-26	contra	contra	ADP	sps00	_	28	case	28:case	_
-27	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	28	det	28:det	Entity=(NOCOREF:Spec.organization-organization-2-gstype:spec
-28	Ejército	Ejército	PROPN	np0000o	_	25	obl:arg	25:obl:arg	ArgTem=arg1:tem
-29	colombiano	colombiano	ADJ	aq0ms0	Gender=Masc|Number=Sing	28	amod	28:amod	Entity=NOCOREF:Spec.organization)
-30	que	que	PRON	pr0cn000	PronType=Rel	32	nsubj	32:nsubj	ArgTem=arg1:pat
-31	serán	ser	AUX	vsif3p0	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	32	aux	32:aux	_
-32	convertidas	convertir	VERB	vmp00pf	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	2	acl:relcl	2:acl:relcl	_
-33	en	en	ADP	sps00	_	34	case	34:case	_
-34	campanas	campana	NOUN	ncfp000	Gender=Fem|Number=Plur	32	obl:arg	32:obl:arg	ArgTem=arg2:efi
-35	para	para	ADP	sps00	_	37	case	37:case	_
-36	las	el	DET	da0fp0	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	37	det	37:det	_
-37	parroquias	parroquia	NOUN	ncfp000	Gender=Fem|Number=Plur	34	nmod	34:nmod	_
-38	de	de	ADP	spcms	_	40	case	40:case	_
-39	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	40	det	40:det	_
-40	municipio	municipio	NOUN	ncms000	Gender=Masc|Number=Sing	37	nmod	37:nmod	Entity=(NOCOREF:Spec.location-place-1-gstype:spec
-41	Sucre	Sucre	PROPN	np0000l	_	40	appos	40:appos	SpaceAfter=No|Entity=(NOCOREF:Spec.location-place-1-gstype:spec)NOCOREF:Spec.location)
-42	.	.	PUNCT	fp	PunctType=Peri	2	punct	2:punct	_
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 12 1 dislocated	color:blue
+1	Año	año	NOUN	ncms000	Gender=Masc|Number=Sing	12	dislocated	12:dislocated	Entity=(CESSCASTA2000122317865c38--1|SpaceAfter=No
+2	,	,	PUNCT	fc	PunctType=Comm	3	punct	3:punct	_
+3	siglo	siglo	NOUN	ncms000	Gender=Masc|Number=Sing	1	conj	1:conj	_
+4	y	y	CCONJ	cc	_	5	cc	5:cc	_
+5	milenio	milenio	NOUN	ncms000	Gender=Masc|Number=Sing	1	conj	1:conj	_
+6	viejos	viejo	ADJ	aq0mp0	Gender=Masc|Number=Plur	1	amod	1:amod	SpaceAfter=No
+7	,	,	PUNCT	fc	PunctType=Comm	1	punct	1:punct	Entity=CESSCASTA2000122317865c38)
+8	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	9:det	Entity=(NOCOREF:Spec.date-time-2-gstype:spec
+9	1	1	NUM	_	NumForm=Digit|NumType=Card	12	obj	12:obj	MWE=1_de_enero|MWEPOS=NOUN
+10	de	de	ADP	_	_	11	case	11:case	_
+11	enero	enero	NOUN	_	_	9	nmod	9:nmod	Entity=NOCOREF:Spec.date)
+12	muertos	muerto	ADJ	aq0mpp	Gender=Masc|Number=Plur|VerbForm=Part	0	root	0:root	SpaceAfter=No
+13	,	,	PUNCT	fc	PunctType=Comm	18	punct	18:punct	_
+14	pero	pero	CCONJ	cc	_	18	cc	18:cc	_
+15	ellos	él	PRON	pp3mp000	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	18	nsubj	18:nsubj	ArgTem=arg1:tem|Entity=(CESSCASTA2000122317865c38--1-CorefType:ident)
+16	sólo	sólo	ADV	rg	_	18	advmod	18:advmod	_
+17	son	ser	AUX	vsip3p0	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	18	cop	18:cop	_
+18	fechas	fecha	NOUN	ncfp000	Gender=Fem|Number=Plur	12	conj	12:conj	ArgTem=arg2:atr|SpaceAfter=No
+19	,	,	PUNCT	fc	PunctType=Comm	20	punct	20:punct	_
+20	números	número	NOUN	ncmp000	Gender=Masc|Number=Plur	18	conj	18:conj	_
+21	inanes	inane	ADJ	aq0cp0	Number=Plur	18	amod	18:amod	SpaceAfter=No
+22	.	.	PUNCT	fp	PunctType=Peri	12	punct	12:punct	_
 
 ~~~
 

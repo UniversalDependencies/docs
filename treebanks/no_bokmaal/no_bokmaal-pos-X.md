@@ -6,18 +6,21 @@ udver: '2'
 
 ## Treebank Statistics: UD_Norwegian-Bokmaal: POS Tags: `X`
 
-There are 437 `X` lemmas (2%), 437 `X` types (1%) and 725 `X` tokens (0%).
+There are 467 `X` lemmas (2%), 467 `X` types (1%) and 795 `X` tokens (0%).
 Out of 17 observed tags, the rank of `X` is: 6 in number of lemmas, 6 in number of types and 15 in number of tokens.
 
-The 10 most frequent `X` lemmas: <em>the, of, and, in, to, you, a, is, for, i</em>
+The 10 most frequent `X` lemmas: <em>$,, the, of, and, in, to, you, a, i, is</em>
 
-The 10 most frequent `X` types:  <em>the, of, and, in, to, you, a, is, for, i</em>
+The 10 most frequent `X` types:  <em>,, the, of, and, in, to, you, a, i, is</em>
 
-The 10 most frequent ambiguous lemmas: <em>the</em> (<tt><a href="no_bokmaal-pos-X.html">X</a></tt> 31, <tt><a href="no_bokmaal-pos-DET.html">DET</a></tt> 4), <em>of</em> (<tt><a href="no_bokmaal-pos-X.html">X</a></tt> 25, <tt><a href="no_bokmaal-pos-ADV.html">ADV</a></tt> 1), <em>and</em> (<tt><a href="no_bokmaal-pos-X.html">X</a></tt> 20, <tt><a href="no_bokmaal-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="no_bokmaal-pos-NOUN.html">NOUN</a></tt> 1), <em>in</em> (<tt><a href="no_bokmaal-pos-X.html">X</a></tt> 16, <tt><a href="no_bokmaal-pos-ADJ.html">ADJ</a></tt> 2), <em>to</em> (<tt><a href="no_bokmaal-pos-NUM.html">NUM</a></tt> 356, <tt><a href="no_bokmaal-pos-X.html">X</a></tt> 11), <em>you</em> (<tt><a href="no_bokmaal-pos-X.html">X</a></tt> 9, <tt><a href="no_bokmaal-pos-PRON.html">PRON</a></tt> 1), <em>a</em> (<tt><a href="no_bokmaal-pos-X.html">X</a></tt> 8, <tt><a href="no_bokmaal-pos-NOUN.html">NOUN</a></tt> 7, <tt><a href="no_bokmaal-pos-INTJ.html">INTJ</a></tt> 1), <em>is</em> (<tt><a href="no_bokmaal-pos-NOUN.html">NOUN</a></tt> 13, <tt><a href="no_bokmaal-pos-X.html">X</a></tt> 7, <tt><a href="no_bokmaal-pos-VERB.html">VERB</a></tt> 1), <em>for</em> (<tt><a href="no_bokmaal-pos-ADP.html">ADP</a></tt> 3674, <tt><a href="no_bokmaal-pos-ADV.html">ADV</a></tt> 184, <tt><a href="no_bokmaal-pos-CCONJ.html">CCONJ</a></tt> 99, <tt><a href="no_bokmaal-pos-X.html">X</a></tt> 7), <em>i</em> (<tt><a href="no_bokmaal-pos-ADP.html">ADP</a></tt> 8577, <tt><a href="no_bokmaal-pos-ADV.html">ADV</a></tt> 54, <tt><a href="no_bokmaal-pos-X.html">X</a></tt> 3, <tt><a href="no_bokmaal-pos-PROPN.html">PROPN</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>$,</em> (<tt><a href="no_bokmaal-pos-PUNCT.html">PUNCT</a></tt> 11516, <tt><a href="no_bokmaal-pos-X.html">X</a></tt> 34), <em>the</em> (<tt><a href="no_bokmaal-pos-X.html">X</a></tt> 31, <tt><a href="no_bokmaal-pos-DET.html">DET</a></tt> 4), <em>of</em> (<tt><a href="no_bokmaal-pos-X.html">X</a></tt> 25, <tt><a href="no_bokmaal-pos-ADV.html">ADV</a></tt> 1), <em>and</em> (<tt><a href="no_bokmaal-pos-X.html">X</a></tt> 20, <tt><a href="no_bokmaal-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="no_bokmaal-pos-NOUN.html">NOUN</a></tt> 1), <em>in</em> (<tt><a href="no_bokmaal-pos-X.html">X</a></tt> 16, <tt><a href="no_bokmaal-pos-ADJ.html">ADJ</a></tt> 2), <em>to</em> (<tt><a href="no_bokmaal-pos-NUM.html">NUM</a></tt> 356, <tt><a href="no_bokmaal-pos-X.html">X</a></tt> 11), <em>you</em> (<tt><a href="no_bokmaal-pos-X.html">X</a></tt> 9, <tt><a href="no_bokmaal-pos-PRON.html">PRON</a></tt> 1), <em>a</em> (<tt><a href="no_bokmaal-pos-X.html">X</a></tt> 8, <tt><a href="no_bokmaal-pos-NOUN.html">NOUN</a></tt> 7, <tt><a href="no_bokmaal-pos-INTJ.html">INTJ</a></tt> 1), <em>i</em> (<tt><a href="no_bokmaal-pos-ADP.html">ADP</a></tt> 8577, <tt><a href="no_bokmaal-pos-ADV.html">ADV</a></tt> 54, <tt><a href="no_bokmaal-pos-X.html">X</a></tt> 3, <tt><a href="no_bokmaal-pos-PROPN.html">PROPN</a></tt> 1), <em>is</em> (<tt><a href="no_bokmaal-pos-NOUN.html">NOUN</a></tt> 13, <tt><a href="no_bokmaal-pos-X.html">X</a></tt> 7, <tt><a href="no_bokmaal-pos-VERB.html">VERB</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>the</em> (<tt><a href="no_bokmaal-pos-X.html">X</a></tt> 31, <tt><a href="no_bokmaal-pos-DET.html">DET</a></tt> 4), <em>of</em> (<tt><a href="no_bokmaal-pos-X.html">X</a></tt> 25, <tt><a href="no_bokmaal-pos-ADV.html">ADV</a></tt> 1), <em>and</em> (<tt><a href="no_bokmaal-pos-X.html">X</a></tt> 20, <tt><a href="no_bokmaal-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="no_bokmaal-pos-NOUN.html">NOUN</a></tt> 1), <em>in</em> (<tt><a href="no_bokmaal-pos-X.html">X</a></tt> 16, <tt><a href="no_bokmaal-pos-ADJ.html">ADJ</a></tt> 2), <em>to</em> (<tt><a href="no_bokmaal-pos-NUM.html">NUM</a></tt> 331, <tt><a href="no_bokmaal-pos-X.html">X</a></tt> 11), <em>you</em> (<tt><a href="no_bokmaal-pos-X.html">X</a></tt> 9, <tt><a href="no_bokmaal-pos-PRON.html">PRON</a></tt> 1), <em>a</em> (<tt><a href="no_bokmaal-pos-X.html">X</a></tt> 8, <tt><a href="no_bokmaal-pos-ADJ.html">ADJ</a></tt> 5, <tt><a href="no_bokmaal-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="no_bokmaal-pos-INTJ.html">INTJ</a></tt> 1), <em>is</em> (<tt><a href="no_bokmaal-pos-X.html">X</a></tt> 7, <tt><a href="no_bokmaal-pos-NOUN.html">NOUN</a></tt> 4, <tt><a href="no_bokmaal-pos-VERB.html">VERB</a></tt> 1), <em>for</em> (<tt><a href="no_bokmaal-pos-ADP.html">ADP</a></tt> 3507, <tt><a href="no_bokmaal-pos-ADV.html">ADV</a></tt> 179, <tt><a href="no_bokmaal-pos-CCONJ.html">CCONJ</a></tt> 44, <tt><a href="no_bokmaal-pos-X.html">X</a></tt> 7), <em>i</em> (<tt><a href="no_bokmaal-pos-ADP.html">ADP</a></tt> 7800, <tt><a href="no_bokmaal-pos-ADV.html">ADV</a></tt> 53, <tt><a href="no_bokmaal-pos-X.html">X</a></tt> 3)
+The 10 most frequent ambiguous types:  <em>,</em> (<tt><a href="no_bokmaal-pos-PUNCT.html">PUNCT</a></tt> 11516, <tt><a href="no_bokmaal-pos-X.html">X</a></tt> 34), <em>the</em> (<tt><a href="no_bokmaal-pos-X.html">X</a></tt> 31, <tt><a href="no_bokmaal-pos-DET.html">DET</a></tt> 4), <em>of</em> (<tt><a href="no_bokmaal-pos-X.html">X</a></tt> 25, <tt><a href="no_bokmaal-pos-ADV.html">ADV</a></tt> 1), <em>and</em> (<tt><a href="no_bokmaal-pos-X.html">X</a></tt> 20, <tt><a href="no_bokmaal-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="no_bokmaal-pos-NOUN.html">NOUN</a></tt> 1), <em>in</em> (<tt><a href="no_bokmaal-pos-X.html">X</a></tt> 16, <tt><a href="no_bokmaal-pos-ADJ.html">ADJ</a></tt> 2), <em>to</em> (<tt><a href="no_bokmaal-pos-NUM.html">NUM</a></tt> 331, <tt><a href="no_bokmaal-pos-X.html">X</a></tt> 11), <em>you</em> (<tt><a href="no_bokmaal-pos-X.html">X</a></tt> 9, <tt><a href="no_bokmaal-pos-PRON.html">PRON</a></tt> 1), <em>a</em> (<tt><a href="no_bokmaal-pos-X.html">X</a></tt> 8, <tt><a href="no_bokmaal-pos-ADJ.html">ADJ</a></tt> 5, <tt><a href="no_bokmaal-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="no_bokmaal-pos-INTJ.html">INTJ</a></tt> 1), <em>i</em> (<tt><a href="no_bokmaal-pos-ADP.html">ADP</a></tt> 7800, <tt><a href="no_bokmaal-pos-ADV.html">ADV</a></tt> 53, <tt><a href="no_bokmaal-pos-X.html">X</a></tt> 3), <em>is</em> (<tt><a href="no_bokmaal-pos-X.html">X</a></tt> 7, <tt><a href="no_bokmaal-pos-NOUN.html">NOUN</a></tt> 4, <tt><a href="no_bokmaal-pos-VERB.html">VERB</a></tt> 1)
 
 
+* <em>,</em>
+  * <tt><a href="no_bokmaal-pos-PUNCT.html">PUNCT</a></tt> 11516: <em>Som vi spør <b>,</b> vil vi også få svar .</em>
+  * <tt><a href="no_bokmaal-pos-X.html">X</a></tt> 34: <em>What lies beyond <b>,</b> and what lay before ?</em>
 * <em>the</em>
   * <tt><a href="no_bokmaal-pos-X.html">X</a></tt> 31: <em>Willie Nelson med « On <b>the</b> road again » ?</em>
   * <tt><a href="no_bokmaal-pos-DET.html">DET</a></tt> 4: <em>Men et sted å begynne debatten er « follow <b>the</b> money » .</em>
@@ -42,50 +45,51 @@ The 10 most frequent ambiguous types:  <em>the</em> (<tt><a href="no_bokmaal-pos
   * <tt><a href="no_bokmaal-pos-ADJ.html">ADJ</a></tt> 5: <em>Den gir følgelig hjemmel for bestemmelser bl <b>a</b> om fredning , jakt , fangst og fiske , turisme og ymse næringsvirksomhet .</em>
   * <tt><a href="no_bokmaal-pos-NOUN.html">NOUN</a></tt> 2: <em>5 Saltvannsfiskeloven ( lov 3 juni 1983 nr 40 om saltvannsfiske m.v. ) gjelder i fiskerisonen ved Jan Mayen ( jf lovens § 1 første ledd bokstav <b>a</b> ) .</em>
   * <tt><a href="no_bokmaal-pos-INTJ.html">INTJ</a></tt> 1: <em>Og da var det sånn « <b>a</b> , hvordan står det til med tingene ellers i livet , har du noen utestående regninger og sånn ? »</em>
-* <em>is</em>
-  * <tt><a href="no_bokmaal-pos-X.html">X</a></tt> 7: <em>« My gay brother <b>is</b> an outcast » , uttalte broren John .</em>
-  * <tt><a href="no_bokmaal-pos-NOUN.html">NOUN</a></tt> 4: <em>Han bestikker jentene med <b>is</b> så han får snakke om sine favorittemaer , baking og kunst .</em>
-  * <tt><a href="no_bokmaal-pos-VERB.html">VERB</a></tt> 1: <em>- Men der moten søker balanse , virker det som om det er « more <b>is</b> more » som gjelder for danserne .</em>
-* <em>for</em>
-  * <tt><a href="no_bokmaal-pos-ADP.html">ADP</a></tt> 3507: <em>Man bryter anstendighet <b>for</b> å si seg enig i det alle er enige om .</em>
-  * <tt><a href="no_bokmaal-pos-ADV.html">ADV</a></tt> 179: <em>Men kjente at kroppen var <b>for</b> tung .</em>
-  * <tt><a href="no_bokmaal-pos-CCONJ.html">CCONJ</a></tt> 44: <em>Fardal ville sitte her , ikke i sofaen , <b>for</b> her er hun mer på alerten .</em>
-  * <tt><a href="no_bokmaal-pos-X.html">X</a></tt> 7: <em>Bånn gass i nye « Need <b>for</b> Speed »</em>
 * <em>i</em>
   * <tt><a href="no_bokmaal-pos-ADP.html">ADP</a></tt> 7800: <em>Det blir et spark som straff , <b>i</b> moralens navn og på vegne av oss alle .</em>
   * <tt><a href="no_bokmaal-pos-ADV.html">ADV</a></tt> 53: <em>Selve vår sivilisasjon er blitt det museet vi bor <b>i</b> .</em>
   * <tt><a href="no_bokmaal-pos-X.html">X</a></tt> 3: <em>- Åh , no blir eg varm <b>i</b> håvve !</em>
+* <em>is</em>
+  * <tt><a href="no_bokmaal-pos-X.html">X</a></tt> 7: <em>« My gay brother <b>is</b> an outcast » , uttalte broren John .</em>
+  * <tt><a href="no_bokmaal-pos-NOUN.html">NOUN</a></tt> 4: <em>Han bestikker jentene med <b>is</b> så han får snakke om sine favorittemaer , baking og kunst .</em>
+  * <tt><a href="no_bokmaal-pos-VERB.html">VERB</a></tt> 1: <em>- Men der moten søker balanse , virker det som om det er « more <b>is</b> more » som gjelder for danserne .</em>
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.381699).
+The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.381641).
 
-The 1st highest number of forms (1) was observed with the lemma “32”: <em>32</em>.
+The 1st highest number of forms (1) was observed with the lemma “$,”: <em>,</em>.
 
-The 2nd highest number of forms (1) was observed with the lemma “34”: <em>34</em>.
+The 2nd highest number of forms (1) was observed with the lemma “$-”: <em>-</em>.
 
-The 3rd highest number of forms (1) was observed with the lemma “Annan”: <em>Annan</em>.
+The 3rd highest number of forms (1) was observed with the lemma “$.”: <em>.</em>.
 
-`X` does not occur with any features.
+`X` occurs with 1 features: <tt><a href="no_bokmaal-feat-Foreign.html">Foreign</a></tt> (696; 88% instances)
+
+`X` occurs with 1 feature-value pairs: `Foreign=Yes`
+
+`X` occurs with 2 feature combinations.
+The most frequent feature combination is `Foreign=Yes` (696 tokens).
+Examples: <em>,, the, and, in, to, you, of, a, i, it</em>
 
 
 ## Relations
 
-`X` nodes are attached to their parents using 12 different relations: <tt><a href="no_bokmaal-dep-flat-foreign.html">flat:foreign</a></tt> (452; 62% instances), <tt><a href="no_bokmaal-dep-flat-name.html">flat:name</a></tt> (178; 25% instances), <tt><a href="no_bokmaal-dep-root.html">root</a></tt> (41; 6% instances), <tt><a href="no_bokmaal-dep-ccomp.html">ccomp</a></tt> (10; 1% instances), <tt><a href="no_bokmaal-dep-compound.html">compound</a></tt> (9; 1% instances), <tt><a href="no_bokmaal-dep-obj.html">obj</a></tt> (8; 1% instances), <tt><a href="no_bokmaal-dep-appos.html">appos</a></tt> (6; 1% instances), <tt><a href="no_bokmaal-dep-nmod.html">nmod</a></tt> (6; 1% instances), <tt><a href="no_bokmaal-dep-obl.html">obl</a></tt> (6; 1% instances), <tt><a href="no_bokmaal-dep-xcomp.html">xcomp</a></tt> (5; 1% instances), <tt><a href="no_bokmaal-dep-conj.html">conj</a></tt> (2; 0% instances), <tt><a href="no_bokmaal-dep-nsubj.html">nsubj</a></tt> (2; 0% instances)
+`X` nodes are attached to their parents using 13 different relations: <tt><a href="no_bokmaal-dep-flat-foreign.html">flat:foreign</a></tt> (590; 74% instances), <tt><a href="no_bokmaal-dep-flat-name.html">flat:name</a></tt> (79; 10% instances), <tt><a href="no_bokmaal-dep-root.html">root</a></tt> (47; 6% instances), <tt><a href="no_bokmaal-dep-obl.html">obl</a></tt> (14; 2% instances), <tt><a href="no_bokmaal-dep-obj.html">obj</a></tt> (13; 2% instances), <tt><a href="no_bokmaal-dep-ccomp.html">ccomp</a></tt> (10; 1% instances), <tt><a href="no_bokmaal-dep-nsubj.html">nsubj</a></tt> (10; 1% instances), <tt><a href="no_bokmaal-dep-compound.html">compound</a></tt> (9; 1% instances), <tt><a href="no_bokmaal-dep-xcomp.html">xcomp</a></tt> (8; 1% instances), <tt><a href="no_bokmaal-dep-appos.html">appos</a></tt> (6; 1% instances), <tt><a href="no_bokmaal-dep-nmod.html">nmod</a></tt> (6; 1% instances), <tt><a href="no_bokmaal-dep-conj.html">conj</a></tt> (2; 0% instances), <tt><a href="no_bokmaal-dep-nsubj-pass.html">nsubj:pass</a></tt> (1; 0% instances)
 
-Parents of `X` nodes belong to 8 different parts of speech: <tt><a href="no_bokmaal-pos-X.html">X</a></tt> (478; 66% instances), <tt><a href="no_bokmaal-pos-PROPN.html">PROPN</a></tt> (156; 22% instances),  (41; 6% instances), <tt><a href="no_bokmaal-pos-VERB.html">VERB</a></tt> (29; 4% instances), <tt><a href="no_bokmaal-pos-NOUN.html">NOUN</a></tt> (18; 2% instances), <tt><a href="no_bokmaal-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="no_bokmaal-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="no_bokmaal-pos-DET.html">DET</a></tt> (1; 0% instances)
+Parents of `X` nodes belong to 8 different parts of speech: <tt><a href="no_bokmaal-pos-X.html">X</a></tt> (590; 74% instances), <tt><a href="no_bokmaal-pos-PROPN.html">PROPN</a></tt> (83; 10% instances), <tt><a href="no_bokmaal-pos-VERB.html">VERB</a></tt> (54; 7% instances),  (47; 6% instances), <tt><a href="no_bokmaal-pos-NOUN.html">NOUN</a></tt> (18; 2% instances), <tt><a href="no_bokmaal-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="no_bokmaal-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="no_bokmaal-pos-DET.html">DET</a></tt> (1; 0% instances)
 
-591 (82%) `X` nodes are leaves.
+666 (84%) `X` nodes are leaves.
 
-53 (7%) `X` nodes have one child.
+18 (2%) `X` nodes have one child.
 
-7 (1%) `X` nodes have two children.
+8 (1%) `X` nodes have two children.
 
-74 (10%) `X` nodes have three or more children.
+103 (13%) `X` nodes have three or more children.
 
-The highest child degree of a `X` node is 41.
+The highest child degree of a `X` node is 46.
 
-Children of `X` nodes are attached using 12 different relations: <tt><a href="no_bokmaal-dep-flat-foreign.html">flat:foreign</a></tt> (452; 62% instances), <tt><a href="no_bokmaal-dep-punct.html">punct</a></tt> (219; 30% instances), <tt><a href="no_bokmaal-dep-flat-name.html">flat:name</a></tt> (29; 4% instances), <tt><a href="no_bokmaal-dep-case.html">case</a></tt> (11; 2% instances), <tt><a href="no_bokmaal-dep-advmod.html">advmod</a></tt> (3; 0% instances), <tt><a href="no_bokmaal-dep-conj.html">conj</a></tt> (3; 0% instances), <tt><a href="no_bokmaal-dep-appos.html">appos</a></tt> (2; 0% instances), <tt><a href="no_bokmaal-dep-nmod.html">nmod</a></tt> (2; 0% instances), <tt><a href="no_bokmaal-dep-acl-relcl.html">acl:relcl</a></tt> (1; 0% instances), <tt><a href="no_bokmaal-dep-amod.html">amod</a></tt> (1; 0% instances), <tt><a href="no_bokmaal-dep-mark.html">mark</a></tt> (1; 0% instances), <tt><a href="no_bokmaal-dep-obl.html">obl</a></tt> (1; 0% instances)
+Children of `X` nodes are attached using 17 different relations: <tt><a href="no_bokmaal-dep-flat-foreign.html">flat:foreign</a></tt> (590; 64% instances), <tt><a href="no_bokmaal-dep-punct.html">punct</a></tt> (217; 24% instances), <tt><a href="no_bokmaal-dep-flat-name.html">flat:name</a></tt> (55; 6% instances), <tt><a href="no_bokmaal-dep-case.html">case</a></tt> (21; 2% instances), <tt><a href="no_bokmaal-dep-appos.html">appos</a></tt> (4; 0% instances), <tt><a href="no_bokmaal-dep-nmod-poss.html">nmod:poss</a></tt> (4; 0% instances), <tt><a href="no_bokmaal-dep-obl.html">obl</a></tt> (4; 0% instances), <tt><a href="no_bokmaal-dep-advmod.html">advmod</a></tt> (3; 0% instances), <tt><a href="no_bokmaal-dep-conj.html">conj</a></tt> (3; 0% instances), <tt><a href="no_bokmaal-dep-nmod.html">nmod</a></tt> (3; 0% instances), <tt><a href="no_bokmaal-dep-acl-relcl.html">acl:relcl</a></tt> (2; 0% instances), <tt><a href="no_bokmaal-dep-amod.html">amod</a></tt> (2; 0% instances), <tt><a href="no_bokmaal-dep-cop.html">cop</a></tt> (2; 0% instances), <tt><a href="no_bokmaal-dep-nsubj.html">nsubj</a></tt> (2; 0% instances), <tt><a href="no_bokmaal-dep-cc.html">cc</a></tt> (1; 0% instances), <tt><a href="no_bokmaal-dep-det.html">det</a></tt> (1; 0% instances), <tt><a href="no_bokmaal-dep-mark.html">mark</a></tt> (1; 0% instances)
 
-Children of `X` nodes belong to 9 different parts of speech: <tt><a href="no_bokmaal-pos-X.html">X</a></tt> (478; 66% instances), <tt><a href="no_bokmaal-pos-PUNCT.html">PUNCT</a></tt> (219; 30% instances), <tt><a href="no_bokmaal-pos-ADP.html">ADP</a></tt> (11; 2% instances), <tt><a href="no_bokmaal-pos-NOUN.html">NOUN</a></tt> (5; 1% instances), <tt><a href="no_bokmaal-pos-PROPN.html">PROPN</a></tt> (5; 1% instances), <tt><a href="no_bokmaal-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="no_bokmaal-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="no_bokmaal-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="no_bokmaal-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
+Children of `X` nodes belong to 13 different parts of speech: <tt><a href="no_bokmaal-pos-X.html">X</a></tt> (590; 64% instances), <tt><a href="no_bokmaal-pos-PUNCT.html">PUNCT</a></tt> (217; 24% instances), <tt><a href="no_bokmaal-pos-PROPN.html">PROPN</a></tt> (59; 6% instances), <tt><a href="no_bokmaal-pos-ADP.html">ADP</a></tt> (22; 2% instances), <tt><a href="no_bokmaal-pos-NOUN.html">NOUN</a></tt> (11; 1% instances), <tt><a href="no_bokmaal-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="no_bokmaal-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="no_bokmaal-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="no_bokmaal-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="no_bokmaal-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="no_bokmaal-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="no_bokmaal-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="no_bokmaal-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
 

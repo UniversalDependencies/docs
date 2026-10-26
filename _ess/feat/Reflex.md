@@ -19,4 +19,4 @@ column. (Which means that empty value has the `No` meaning.)
 
 * [ess] _Naaka kakiiq <b>ellnginaghmi</b>._ "My mother sewed <b>alone</b>." The quantifier-qualifier construction _ellnginagh-mi_ "alone" inflects for third person singular reflexive `Number=Sing|Person=3|Reflex=Yes` to refer to the third person singular subject _naaka_ "my mother".
 
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:04 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:16 CEST -->

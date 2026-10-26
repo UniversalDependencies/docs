@@ -42,7 +42,7 @@ The following 2 pairs of parts of speech are connected with `nmod:agent`: <tt><a
 # visual-style 6	fgColor:white
 # visual-style 6 8 nmod:agent	color:blue
 1	Mae	bod	VERB	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
-2	'r	y	DET	art	_	3	det	_	_
+2	'r	y	DET	art	PronType=Art	3	det	_	_
 3	geiriau	gair	NOUN	noun	Gender=Masc|Number=Plur	1	nsubj	_	_
 4	wedi	wedi	AUX	ante	_	6	aux	_	_
 5	eu	hwy	PRON	dep	Number=Plur|Person=3|PronType=Prs	6	obj	_	_

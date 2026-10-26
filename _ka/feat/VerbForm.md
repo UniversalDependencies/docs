@@ -5,6 +5,13 @@ shortdef: 'form of verb'
 udver: '2'
 ---
 
+### <a name="Fin">`Fin`</a>: finite verb
+
+#### Examples
+
+* _დაწერს_ 'will write'
+* _გამიკეთებია_ 'I have done it'
+
 ### <a name="Part">`Part`</a>: participle
 
 #### Examples
@@ -25,4 +32,4 @@ udver: '2'
 
 * _ჩამოსვლისას_ 'while coming here'
 
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:10 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:23 CEST -->

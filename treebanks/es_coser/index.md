@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.14 release
 The following people have contributed to making this treebank part of UD: Johnatan Bonilla.
 
 Repository: [UD_Spanish-COSER](https://github.com/UniversalDependencies/UD_Spanish-COSER)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udes_coser215)<br />
-Download all treebanks: [UD 2.15](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udes_coser218)<br />
+Download all treebanks: [UD 2.18](/#download)
 
 License: CC BY-SA 4.0
 
@@ -59,7 +59,7 @@ Daniel Zeman (guidelines consulting)
 
 ## Key reference
 
-*Bonilla, J. E. (submitted). Development of the first spoken spanish treebank within the universal dependencies framework: A multi-regional approach.
+* Bonilla, J. E. (submitted). Development of the first spoken spanish treebank within the universal dependencies framework: A multi-regional approach.
 
 ## References
 * Fernández-Ordóñez, I. (Ed.). (2005-present). Corpus Oral y Sonoro del Español Rural. Retrieved April 15, 2022, from http://www.corpusrural.es/
@@ -74,7 +74,7 @@ Daniel Zeman (guidelines consulting)
 
 ## Features
 
-[Case](es_coser-feat-Case.html) – [Definite](es_coser-feat-Definite.html) – [Degree](es_coser-feat-Degree.html) – [Gender](es_coser-feat-Gender.html) – [Mood](es_coser-feat-Mood.html) – [Number](es_coser-feat-Number.html) – [Number[psor]](es_coser-feat-Number-psor.html) – [NumForm](es_coser-feat-NumForm.html) – [NumType](es_coser-feat-NumType.html) – [Person](es_coser-feat-Person.html) – [Polarity](es_coser-feat-Polarity.html) – [Polite](es_coser-feat-Polite.html) – [Poss](es_coser-feat-Poss.html) – [PrepCase](es_coser-feat-PrepCase.html) – [PronType](es_coser-feat-PronType.html) – [PunctSide](es_coser-feat-PunctSide.html) – [PunctType](es_coser-feat-PunctType.html) – [Reflex](es_coser-feat-Reflex.html) – [Tense](es_coser-feat-Tense.html) – [VerbForm](es_coser-feat-VerbForm.html)
+[Case](es_coser-feat-Case.html) – [Definite](es_coser-feat-Definite.html) – [Degree](es_coser-feat-Degree.html) – [ExtPos](es_coser-feat-ExtPos.html) – [Gender](es_coser-feat-Gender.html) – [Mood](es_coser-feat-Mood.html) – [Number](es_coser-feat-Number.html) – [Number[psor]](es_coser-feat-Number-psor.html) – [NumForm](es_coser-feat-NumForm.html) – [NumType](es_coser-feat-NumType.html) – [Person](es_coser-feat-Person.html) – [Polarity](es_coser-feat-Polarity.html) – [Polite](es_coser-feat-Polite.html) – [Poss](es_coser-feat-Poss.html) – [PrepCase](es_coser-feat-PrepCase.html) – [PronType](es_coser-feat-PronType.html) – [PunctSide](es_coser-feat-PunctSide.html) – [PunctType](es_coser-feat-PunctType.html) – [Reflex](es_coser-feat-Reflex.html) – [Tense](es_coser-feat-Tense.html) – [VerbForm](es_coser-feat-VerbForm.html)
 
 ## Relations
 
@@ -200,8 +200,8 @@ Daniel Zeman (guidelines consulting)
 <ul>
   <li>Masc
     <ul>
-      <li>ADJ: buen, bueno, criollo, mismo, Enrazao, alto, bonito, duro, enterrao, espesito</li>
-      <li>ADJ-Part: Enrazao, enterrao, sentao, Enrazado, aficionao, asao, asustado, delgao, delicado, dicho</li>
+      <li>ADJ: buen, bueno, criollo, mismo, Enrazao, San, alto, bonito, duro, enterrao</li>
+      <li>ADJ-Part: Enrazao, enterrao, sentao, Enrazado, aficionao, asao, asustado, delgao, dicho, educado</li>
       <li>AUX-Part: sío, estado, sido</li>
       <li>DET: el, un, los, todo, unos, otro, mucho, to, todos, muchos</li>
       <li>NOUN: años, días, día, pueblo, hijos, marido, ejemplo, aceite, año, cerdo</li>
@@ -236,8 +236,8 @@ Daniel Zeman (guidelines consulting)
 <ul>
   <li>Sing
     <ul>
-      <li>ADJ: grande, natural, buen, diferente, joven, buena, bueno, igual, criollo, mismo</li>
-      <li>ADJ-Part: Enrazao, enterrao, sentao, Enrazado, aficionao, asao, asustado, delgao, delicado, dicho</li>
+      <li>ADJ: grande, natural, buen, diferente, joven, buena, bueno, criollo, igual, mismo</li>
+      <li>ADJ-Part: Enrazao, enterrao, sentao, Enrazado, aficionao, asao, asustado, delgao, dicho, dá</li>
       <li>AUX-Fin: es, era, ha, he, sea, está, estaba, fue, fui, eres</li>
       <li>AUX-Part: sío, estado, sido</li>
       <li>DET: la, el, un, una, mi, todo, mucha, otra, su, esta</li>
@@ -490,7 +490,7 @@ Daniel Zeman (guidelines consulting)
 <ul>
   <li>Art
     <ul>
-      <li>DET: la, el, un, una, las, los, unos, unas, l</li>
+      <li>DET: la, el, un, una, las, los, unos, unas, l, lo</li>
     </ul>
   </li>
 </ul>
@@ -527,7 +527,6 @@ Daniel Zeman (guidelines consulting)
       <li>ADV: cuándo</li>
       <li>DET: Cuántos, cuantos</li>
       <li>PRON: cómo, qué, dónde, cuándo, quién, Cuántos</li>
-      <li>SCONJ: como</li>
     </ul>
   </li>
 </ul>
@@ -700,6 +699,43 @@ Daniel Zeman (guidelines consulting)
 
 
 <ul>
+  <li><a>ExtPos</a>
+    <ul>
+      <li>ADP
+        <ul>
+          <li>ADP: a</li>
+          <li>NOUN: respecto</li>
+        </ul>
+      </li>
+      <li>ADV
+        <ul>
+          <li>ADP: a, por, de, en</li>
+          <li>ADV: na, ahora, Aparte, aun, después, Más</li>
+          <li>DET: un</li>
+          <li>NOUN: Tal</li>
+          <li>PRON: na, una</li>
+        </ul>
+      </li>
+      <li>CCONJ
+        <ul>
+          <li>ADV: así</li>
+          <li>CCONJ: o</li>
+        </ul>
+      </li>
+      <li>SCONJ
+        <ul>
+          <li>ADJ: igual</li>
+          <li>ADP: de, en</li>
+          <li>ADV: Así, Asín</li>
+          <li>DET: una</li>
+          <li>PRON: Na</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li><a>NumForm</a>
     <ul>
       <li>Digit
@@ -799,7 +835,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN (96)</li>
       <li>VERB-Fin--PRON (59)</li>
       <li>VERB-Fin--PRON-ADP(con) (1)</li>
-      <li>VERB-Fin--PRON-Acc (1)</li>
+      <li>VERB-Fin--PRON-Acc (2)</li>
       <li>VERB-Fin--PRON-Acc,Nom (28)</li>
       <li>VERB-Fin--PRON-Acc,Nom-ADP(por) (1)</li>
       <li>VERB-Fin--PRON-Acc-ADP(de) (1)</li>

@@ -28,7 +28,7 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 * `Prs` (325; 28% of non-empty `PronType`): <em>hän, hänen, he, heidän, hänet, häntä, hänelle, heillä, meidän, hänellä</em>
 * `Rcp` (11; 1% of non-empty `PronType`): <em>toinen, toisiaan, toiseen, toisen, toisensa, toisesta, toiset, toista, toisten</em>
 * `Rel` (231; 20% of non-empty `PronType`): <em>joka, jotka, jossa, jonka, jota, joissa, joita, jolla, mikä, joiden</em>
-* `EMPTY` (4): <em>itse, itsensä, itsestään, itseään</em>
+* `EMPTY` (3): <em>itsensä, itsestään, itseään</em>
 
 <table>
   <tr><th>Paradigm <i>mikä</i></th><th><tt>Int</tt></th><th><tt>Rel</tt></th></tr>

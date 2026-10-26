@@ -26,6 +26,7 @@ You may also want to announce your tool in the
     * [WebAnno](#webanno)
     * [DgAnnotator](#dgannotator)
     * [UD Annotatrix](#ud-annotatrix)
+    * [UD Enhanced Graph Visualiser](#ud-enhanced-graph-visualiser)
     * [Tred](#tred)
     * [ArboratorGrew](#arboratorgrew)
     * [LightTag](#lighttag)
@@ -50,6 +51,7 @@ You may also want to announce your tool in the
     * [UDAPI](#udapi)
     * [UDon2](#udon2)
     * [ACoLi CoNLL Libraries](#acoli-conll-libraries)
+    * [EUD Annotation for Portuguese](#eud-annotation-for-portuguese)
   * Visualization tools
     * [Deptreeviz](#deptreeviz)
     * [CoNLL-U viewer](#conll-u-viewer)
@@ -86,7 +88,7 @@ Among others, there are scripts for
 #### brat rapid annotation tool
 
 <img style="width: 40%; float:right" src="http://universaldependencies.org/img/brat.png"/>
-**brat** is a browser-based tool for text annotation. The brat [visualization](visualization.html) component is used in the [UD documentation system](https://spyysalo.github.io/annodoc/) and the tool comes with a [custom configuration](https://github.com/nlplab/brat/tree/master/configurations/Universal-Dependencies) allowing it to be used for UD annotation .
+**brat** is a browser-based tool for text annotation. The brat [visualization](/contributing/visualization.html) component is used in the [UD documentation system](https://spyysalo.github.io/annodoc/) and the tool comes with a [custom configuration](https://github.com/nlplab/brat/tree/master/configurations/Universal-Dependencies) allowing it to be used for UD annotation .
 
 * Category: manual annotation tool
 * Platform: any (browser-based)
@@ -137,6 +139,19 @@ WebAnno 3.0.0 does not support the CoNLL-U 2.0 format at this time.
 * References:  Tyers, F. M., Sheyanova, M. and Washington, J. N. (2018) "UD Annotatrix: An annotation tool for Universal Dependencies". Proceedings of the 16th Conference on Treebanks and Linguistic Theories
 
 
+#### UD Enhanced Graph Visualiser
+
+<img style="float:right" src="http://universaldependencies.org/img/eud-graph-visualiser.png">
+**UD Enhanced Graph Visualiser** ia a browser-based tool designed to visualize and edit syntactic graphs within the Universal Dependencies framework, supporting both basic dependency trees and Enhanced Universal Dependencies (EUD) graphs. The tool is hosted online as an open-source client-side application requiring no dedicated backend, relying solely on HTML and JavaScript. The tool accepts individual sentences or complete corpora in the CoNLL-U format, which can be provided via file upload or plain-text input. For customization and workflow management, annotations can be edited directly as free text or within a tabular interface, reducing the risk of modifying incorrect CoNLL-U columns. In terms of visualization, users can highlight specific tokens, isolate basic or enhanced dependencies, and contrast both representations simultaneously using distinct edge colors. This tool is a fork from an early version of <a href="https://github.com/jonorthwash/jonorthwash.github.io" target="_blank">UD Annotatrix</a>.
+
+* Category: manual annotation tool
+* Platform: Any
+* Implementation: JavaScript
+* License: GPL-3.0 (open source)
+* Homepage: <https://souelvis.dev/enhanced-graph-visualiser/visualise.html>
+* References: Elvis de Souza
+
+
 #### Tred
 
 <img style="float:right" src="http://universaldependencies.org/img/tred.png"/>
@@ -153,13 +168,13 @@ WebAnno 3.0.0 does not support the CoNLL-U 2.0 format at this time.
 #### ArboratorGrew
 
 <img style="float:right" src="http://universaldependencies.org/img/arborator.PNG"/>
-** ArboratorGrew ** is a comprehensive, open-source, web-based tool designed for dependency treebank annotation. It supports a user-friendly drag-and-drop interface, along with social login features. Its project management capabilities allow for multiple users to collaborate simultaneously and compare trees for efficient and collaborative annotation efforts. The tool is equipped with a teacher mode and class-sourcing capabilities, making it suitable for both research and educational settings. It incorporates search and replace functions based on the Grew formalism, and an integrated neural bi-affine parser for quick bootstrapping. Additionally, it supports various annotation schemes, including UD, SUD, and custom-made schemes.  <https://arboratorgrew.elizia.net>
+** ArboratorGrew ** is a comprehensive, open-source, web-based tool designed for dependency treebank annotation. It supports a user-friendly drag-and-drop interface, along with social login features. Its project management capabilities allow for multiple users to collaborate simultaneously and compare trees for efficient and collaborative annotation efforts. The tool is equipped with a teacher mode and class-sourcing capabilities, making it suitable for both research and educational settings. It incorporates search and replace functions based on the Grew formalism, and an integrated neural bi-affine parser for quick bootstrapping. Additionally, it supports various annotation schemes, including UD, SUD, and custom-made schemes.  <https://arborator.grew.fr/>
 
 * Category: manual annotation tool
 * Platform: Any
 * Implementation: Python, JavaScript
 * License: AGPL-3.0 (open source)
-* Homepage: <https://arboratorgrew.elizia.net/>
+* Homepage: <https://arborator.grew.fr/>
 * References: Guibon, G., Courtin, M., Gerdes, K. and Guillaume, B., 2020, May. When collaborative treebank curation meets graph grammars. In LREC 2020-12th Language Resources and Evaluation Conference.
 
 
@@ -240,13 +255,13 @@ The editor provides the following functionalities:
 
 #### BoAT
 
-BoAT (Boğaziçi University Annotation Tool) is a collaborative grammatical annotation tool. It supports annotating CoNLL-U files. Some of its features are autocompletion, UD validation, visualization of dependency graphs and advanced search. It's capable of serving multiple treebanks and annotators.
+BoAT (Boğaziçi University Annotation Tool) is a collaborative annotation tool for Universal Dependencies treebanks. It supports sentence-by-sentence CoNLL-U annotation with dependency graph visualization, autocompletion, UD validation, advanced search, inter-annotator agreement, and multi-treebank/multi-annotator management. BoAT is available as both a web application and a desktop app (via Tauri), with the desktop app supporting offline annotation of local CoNLL-U files.
 
 * Category: manual annotation tool
-* Platform: any (browser-based)
-* Implementation: Python (server), JavaScript (client)
+* Platform: any (browser-based); desktop app for Linux, macOS, Windows
+* Implementation: Python/FastAPI (server), SvelteKit/TypeScript (client), Rust/Tauri (desktop)
 * License: MIT (open source)
-* Homepage: [github.com/furkanakkurt1335/boat](https://github.com/furkanakkurt1335/boat)
+* Homepage: [gitlab.com/furkan5204/boat](https://gitlab.com/furkan5204/boat)
 * References: [Akkurt et al. (2022)](https://ceur-ws.org/Vol-3315/paper01.pdf)
 * Contact: Furkan Akkurt (furkan.akkurt@bogazici.edu.tr)
 
@@ -467,6 +482,17 @@ None of these operations are limited to CoNLL-U, but CoNLL-U and CoNLL-U Plus ar
 * Homepage: https://github.com/acoli-repo/conll
 * References: [Chiarcos and Schenk (2018)](https://aclanthology.org/L18-1090/)
 
+#### EUD Annotation for Portuguese
+
+It is a specialized web-based pipeline for producing Enhanced Universal Dependencies (EUD) annotations in Portuguese. Users can either provide pre-parsed CoNLL-U files containing basic UD annotations or input raw text directly, selecting an underlying model provided via the UDPipe API to generate the initial syntactic layer. The tool is accessible through a web interface and can also be deployed locally using the provided Dockerfile following the repository documentation. EUD annotation is driven by Portuguese-specific conversion rules adapted from the universal rule set originally developed for the EUD parsing shared task using Grew, a graph rewriting tool ([Guillaume and Perrier, 2021](https://aclanthology.org/2021.iwpt-1.18/)). Other set of rules can be used instead of the Portuguese ones.
+
+* Category: online tool for EUD annotation, library, shell
+* Platform: Web-browser / any OS that runs Docker
+* Implementation: Python, JavaScript
+* License: MIT license
+* Homepage: https://eud-portugues.souelvis.dev/
+* References: [De Souza et al., 2024](https://aclanthology.org/2024.stil-1.3.pdf)
+
 ### Visualization tools
 
 #### Deptreeviz
@@ -517,3 +543,5 @@ Due to its ease of use it is a useful tool for the community of linguists who wa
 * Implementation: Python
 * Credit: Luca Brigada Villa
 * [Homepage here](https://unipv-larl.github.io/udeasy/)
+
+<!-- test -->

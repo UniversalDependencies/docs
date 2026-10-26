@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-54 nodes (1%) are attached to their parents as `obl`.
+56 nodes (1%) are attached to their parents as `obl`.
 
-38 instances of `obl` (70%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.18518518518519.
+40 instances of `obl` (71%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.16071428571429.
 
-The following 6 pairs of parts of speech are connected with `obl`: <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bxr_bdt-pos-NOUN.html">NOUN</a></tt> (38; 70% instances), <tt><a href="bxr_bdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="bxr_bdt-pos-NOUN.html">NOUN</a></tt> (8; 15% instances), <tt><a href="bxr_bdt-pos-ADV.html">ADV</a></tt>-<tt><a href="bxr_bdt-pos-NOUN.html">NOUN</a></tt> (5; 9% instances), <tt><a href="bxr_bdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="bxr_bdt-pos-PROPN.html">PROPN</a></tt> (1; 2% instances), <tt><a href="bxr_bdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bxr_bdt-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bxr_bdt-pos-PROPN.html">PROPN</a></tt> (1; 2% instances).
+The following 6 pairs of parts of speech are connected with `obl`: <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bxr_bdt-pos-NOUN.html">NOUN</a></tt> (40; 71% instances), <tt><a href="bxr_bdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="bxr_bdt-pos-NOUN.html">NOUN</a></tt> (8; 14% instances), <tt><a href="bxr_bdt-pos-ADV.html">ADV</a></tt>-<tt><a href="bxr_bdt-pos-NOUN.html">NOUN</a></tt> (5; 9% instances), <tt><a href="bxr_bdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="bxr_bdt-pos-PROPN.html">PROPN</a></tt> (1; 2% instances), <tt><a href="bxr_bdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bxr_bdt-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bxr_bdt-pos-PROPN.html">PROPN</a></tt> (1; 2% instances).
 
 
 ~~~ conllu

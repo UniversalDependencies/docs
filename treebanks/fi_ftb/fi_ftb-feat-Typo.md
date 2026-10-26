@@ -9,10 +9,10 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Yes`.
 
-7 tokens (0%) have a non-empty value of `Typo`.
-7 types (0%) occur at least once with a non-empty value of `Typo`.
-7 lemmas (0%) occur at least once with a non-empty value of `Typo`.
-The feature is used with 2 part-of-speech tags: <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> (5; 0% instances), <tt><a href="fi_ftb-pos-ADJ.html">ADJ</a></tt> (2; 0% instances).
+9 tokens (0%) have a non-empty value of `Typo`.
+9 types (0%) occur at least once with a non-empty value of `Typo`.
+9 lemmas (0%) occur at least once with a non-empty value of `Typo`.
+The feature is used with 4 part-of-speech tags: <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> (5; 0% instances), <tt><a href="fi_ftb-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="fi_ftb-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
@@ -33,4 +33,24 @@ The most frequent other feature values with which `ADJ` and `Typo` co-occurred: 
 `ADJ` tokens may have the following values of `Typo`:
 
 * `Yes` (2; 100% of non-empty `Typo`): <em>ruokaruoka, sika</em>
+
+### `ADV`
+
+1 <tt><a href="fi_ftb-pos-ADV.html">ADV</a></tt> tokens (0% of all `ADV` tokens) have a non-empty value of `Typo`.
+
+The most frequent other feature values with which `ADV` and `Typo` co-occurred: <tt><a href="fi_ftb-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (1; 100%).
+
+`ADV` tokens may have the following values of `Typo`:
+
+* `Yes` (1; 100% of non-empty `Typo`): <em>päin</em>
+
+### `PRON`
+
+1 <tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> tokens (0% of all `PRON` tokens) have a non-empty value of `Typo`.
+
+The most frequent other feature values with which `PRON` and `Typo` co-occurred: <tt><a href="fi_ftb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1; 100%), <tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%), <tt><a href="fi_ftb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="fi_ftb-feat-PronType.html">PronType</a></tt><tt>=Ind</tt> (1; 100%).
+
+`PRON` tokens may have the following values of `Typo`:
+
+* `Yes` (1; 100% of non-empty `Typo`): <em>jompi</em>
 

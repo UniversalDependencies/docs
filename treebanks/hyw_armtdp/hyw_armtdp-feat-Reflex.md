@@ -9,31 +9,31 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-908 tokens (1%) have a non-empty value of `Reflex`.
-38 types (0%) occur at least once with a non-empty value of `Reflex`.
-13 lemmas (0%) occur at least once with a non-empty value of `Reflex`.
-The feature is used with 3 part-of-speech tags: <tt><a href="hyw_armtdp-pos-DET.html">DET</a></tt> (723; 1% instances), <tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt> (164; 0% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> (21; 0% instances).
+905 tokens (1%) have a non-empty value of `Reflex`.
+39 types (0%) occur at least once with a non-empty value of `Reflex`.
+16 lemmas (0%) occur at least once with a non-empty value of `Reflex`.
+The feature is used with 3 part-of-speech tags: <tt><a href="hyw_armtdp-pos-DET.html">DET</a></tt> (721; 1% instances), <tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt> (163; 0% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> (21; 0% instances).
 
 ### `DET`
 
-723 <tt><a href="hyw_armtdp-pos-DET.html">DET</a></tt> tokens (11% of all `DET` tokens) have a non-empty value of `Reflex`.
+721 <tt><a href="hyw_armtdp-pos-DET.html">DET</a></tt> tokens (11% of all `DET` tokens) have a non-empty value of `Reflex`.
 
-The most frequent other feature values with which `DET` and `Reflex` co-occurred: <tt><a href="hyw_armtdp-feat-Case.html">Case</a></tt><tt>=Gen</tt> (723; 100%), <tt><a href="hyw_armtdp-feat-Deixis.html">Deixis</a></tt><tt>=EMPTY</tt> (723; 100%), <tt><a href="hyw_armtdp-feat-Person.html">Person</a></tt><tt>=3</tt> (723; 100%), <tt><a href="hyw_armtdp-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (723; 100%), <tt><a href="hyw_armtdp-feat-PronType.html">PronType</a></tt><tt>=Emp</tt> (723; 100%), <tt><a href="hyw_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (500; 69%).
+The most frequent other feature values with which `DET` and `Reflex` co-occurred: <tt><a href="hyw_armtdp-feat-Deixis.html">Deixis</a></tt><tt>=EMPTY</tt> (721; 100%), <tt><a href="hyw_armtdp-feat-Person.html">Person</a></tt><tt>=3</tt> (721; 100%), <tt><a href="hyw_armtdp-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (721; 100%), <tt><a href="hyw_armtdp-feat-PronType.html">PronType</a></tt><tt>=Emp</tt> (721; 100%), <tt><a href="hyw_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (499; 69%).
 
 `DET` tokens may have the following values of `Reflex`:
 
-* `Yes` (723; 100% of non-empty `Reflex`): <em>իր, իրենց</em>
-* `EMPTY` (5975): <em>մը, այս, այդ, մեր, իր, ամէն, այն, բոլոր, մըն, քանի</em>
+* `Yes` (721; 100% of non-empty `Reflex`): <em>իր, իրենց</em>
+* `EMPTY` (5965): <em>մը, այս, այդ, մեր, իր, ամէն, այն, բոլոր, մըն, քանի</em>
 
 ### `PRON`
 
-164 <tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt> tokens (4% of all `PRON` tokens) have a non-empty value of `Reflex`.
+163 <tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt> tokens (4% of all `PRON` tokens) have a non-empty value of `Reflex`.
 
-The most frequent other feature values with which `PRON` and `Reflex` co-occurred: <tt><a href="hyw_armtdp-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (164; 100%), <tt><a href="hyw_armtdp-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (164; 100%), <tt><a href="hyw_armtdp-feat-Deixis.html">Deixis</a></tt><tt>=EMPTY</tt> (164; 100%), <tt><a href="hyw_armtdp-feat-PronType.html">PronType</a></tt><tt>=Emp</tt> (164; 100%), <tt><a href="hyw_armtdp-feat-Person.html">Person</a></tt><tt>=3</tt> (136; 83%), <tt><a href="hyw_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (113; 69%).
+The most frequent other feature values with which `PRON` and `Reflex` co-occurred: <tt><a href="hyw_armtdp-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (163; 100%), <tt><a href="hyw_armtdp-feat-Deixis.html">Deixis</a></tt><tt>=EMPTY</tt> (163; 100%), <tt><a href="hyw_armtdp-feat-PronType.html">PronType</a></tt><tt>=Emp</tt> (163; 100%), <tt><a href="hyw_armtdp-feat-Person.html">Person</a></tt><tt>=3</tt> (130; 80%), <tt><a href="hyw_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (113; 69%).
 
 `PRON` tokens may have the following values of `Reflex`:
 
-* `Yes` (164; 100% of non-empty `Reflex`): <em>իր, իրենց, իրեն, ինքզինք, ինքն, իրենք, ինքզինքը, ինքնիրեն, ինքզինքին, ինքզինքիս</em>
+* `Yes` (163; 100% of non-empty `Reflex`): <em>իր, իրենց, իրեն, ինքզինք, ինքն, իրենք, ինքզինքը, ինքնիրեն, ինքզինքին, ինքզինքիս</em>
 * `EMPTY` (3878): <em>որ, ինչ, որոնք, ան, որուն, անոր, ես, անոնք, մենք, մէկը</em>
 
 ### `VERB`
@@ -45,11 +45,11 @@ The most frequent other feature values with which `VERB` and `Reflex` co-occurre
 `VERB` tokens may have the following values of `Reflex`:
 
 * `Yes` (21; 100% of non-empty `Reflex`): <em>հագուած, ածիլուած, զարդարուած, շպարուած, լոգնալ, լոգնալը, լուացուելէ, լուացուէին, լուացուիլ, լուացուիմ</em>
-* `EMPTY` (15470): <em>կայ, ըսէ, ըսաւ, կրնայ, ունի, եղած, ըլլայ, կրնար, ունեցած, գիտեր</em>
+* `EMPTY` (15450): <em>կայ, ըսէ, կրնայ, ըսաւ, ունի, եղած, ըլլայ, կրնար, ունեցած, գիտեր</em>
 
 ## Relations with Agreement in `Reflex`
 
 The 10 most frequent relations where parent and child node agree in `Reflex`:
-<tt>PRON --[<tt><a href="hyw_armtdp-dep-fixed.html">fixed</a></tt>]--> PRON</tt> (14; 100%),
-<tt>PRON --[<tt><a href="hyw_armtdp-dep-fixed.html">fixed</a></tt>]--> DET</tt> (4; 100%).
+<tt>PRON --[<tt><a href="hyw_armtdp-dep-fixed.html">fixed</a></tt>]--> PRON</tt> (15; 100%),
+<tt>PRON --[<tt><a href="hyw_armtdp-dep-fixed.html">fixed</a></tt>]--> DET</tt> (1; 100%).
 

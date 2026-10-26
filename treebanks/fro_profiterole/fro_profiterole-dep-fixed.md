@@ -8,12 +8,32 @@ udver: '2'
 
 This relation is universal.
 
-178 nodes (0%) are attached to their parents as `fixed`.
+951 nodes (0%) are attached to their parents as `fixed`.
 
-178 instances of `fixed` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.19101123595506.
+951 instances of `fixed` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.09148264984227.
 
-The following 9 pairs of parts of speech are connected with `fixed`: <tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="fro_profiterole-pos-SCONJ.html">SCONJ</a></tt> (145; 81% instances), <tt><a href="fro_profiterole-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt> (25; 14% instances), <tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="fro_profiterole-pos-ADP.html">ADP</a></tt>-<tt><a href="fro_profiterole-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="fro_profiterole-pos-ADP.html">ADP</a></tt>-<tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="fro_profiterole-pos-ADP.html">ADP</a></tt>-<tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="fro_profiterole-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="fro_profiterole-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances).
+The following 15 pairs of parts of speech are connected with `fixed`: <tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="fro_profiterole-pos-SCONJ.html">SCONJ</a></tt> (702; 74% instances), <tt><a href="fro_profiterole-pos-ADP.html">ADP</a></tt>-<tt><a href="fro_profiterole-pos-ADP.html">ADP</a></tt> (92; 10% instances), <tt><a href="fro_profiterole-pos-ADP.html">ADP</a></tt>-<tt><a href="fro_profiterole-pos-SCONJ.html">SCONJ</a></tt> (52; 5% instances), <tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt> (46; 5% instances), <tt><a href="fro_profiterole-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt> (29; 3% instances), <tt><a href="fro_profiterole-pos-ADP.html">ADP</a></tt>-<tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt> (10; 1% instances), <tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="fro_profiterole-pos-ADP.html">ADP</a></tt> (7; 1% instances), <tt><a href="fro_profiterole-pos-ADP.html">ADP</a></tt>-<tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="fro_profiterole-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="fro_profiterole-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="fro_profiterole-pos-DET.html">DET</a></tt>-<tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="fro_profiterole-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="fro_profiterole-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="fro_profiterole-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_profiterole-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+
+
+~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 6 fixed	color:blue
+1	Saveir	savoir1	NOUN	NOMcom	VerbForm=Inf	3	obj	_	XmlId=w_58_02036
+2	i	y2	ADV	PROadv	PronType=Dem	3	obl	_	XmlId=w_58_02037
+3	ad	avoir	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_58_02038
+4	,	,	PUNCT	PONfbl	_	3	punct	_	XmlId=w_58_02039
+5	mais	mais1	ADV	ADVgen	_	9	mark	_	XmlId=w_58_02040
+6	qu'	que	SCONJ	CONsub	_	5	fixed	_	SpaceAfter=No|XmlId=w_58_02041
+7	il	il	PRON	PROper	PronType=Prs	9	nsubj:pass	_	XmlId=w_58_02042
+8	seit	estre	AUX	VERcjg	VerbForm=Fin	9	aux:pass	_	XmlId=w_58_02043
+9	entendud	entendre	VERB	VERppe	Tense=Past|VerbForm=Part	3	advcl	_	SpaceAfter=No|XmlId=w_58_02044
+10	.	.	PUNCT	PONfrt	_	3	punct	_	XmlId=w_58_02045
+
+~~~
 
 
 ~~~ conllu
@@ -22,92 +42,38 @@ The following 9 pairs of parts of speech are connected with `fixed`: <tt><a href
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 fixed	color:blue
-1	Si	_	ADV	ADVgen	_	6	mark	_	XmlId=w_28_03519
-2	comme	_	SCONJ	CONsub	_	1	fixed	_	XmlId=w_28_03520
-3	il	_	PRON	PROper	PronType=Prs	6	nsubj	_	XmlId=w_28_03521
-4	furent	_	AUX	VERcjg	VerbForm=Fin	6	aux	_	XmlId=w_28_03522
-5	la	_	ADV	ADVgen	_	6	advmod	_	XmlId=w_28_03523
-6	venu	_	VERB	VERppe	Tense=Past|VerbForm=Part	10	advcl	_	SpaceAfter=No|XmlId=w_28_03524
-7	,	_	PUNCT	PONfbl	_	10	punct	_	XmlId=w_28_03525
-8	si	_	ADV	ADVgen	_	10	advmod	_	XmlId=w_28_03526
-9	leur	_	PRON	PROper	PronType=Prs	10	iobj	_	XmlId=w_28_03527
-10	dist	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_03528
-11	li	_	DET	DETdef	Definite=Def|PronType=Art	12	det	_	XmlId=w_28_03529
-12	dux	_	NOUN	NOMcom	_	10	nsubj	_	XmlId=w_28_03530
-13	:	_	PUNCT	PONfbl	_	10	punct	_	XmlId=w_28_03531
+1	Tresqu'	tresque	ADP	PRE	_	4	case	_	SpaceAfter=No|XmlId=w_58_00018
+2	en	en1	ADP	PRE	_	1	fixed	_	XmlId=w_58_00019
+3	la	le	DET	DETdef	Definite=Def|PronType=Art	4	det	_	XmlId=w_58_00020
+4	mer	mer	NOUN	NOMcom	_	5	obl	_	XmlId=w_58_00021
+5	cunquist	conquérir	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_00022
+6	la	le	DET	DETdef	Definite=Def|PronType=Art	7	det	_	XmlId=w_58_00023
+7	tere	terre1	NOUN	NOMcom	_	5	obj	_	XmlId=w_58_00024
+8	altaigne	hautain	ADJ	ADJqua	_	7	amod	_	SpaceAfter=No|XmlId=w_58_00025
+9	.	.	PUNCT	PONfrt	_	5	punct	_	XmlId=w_58_00026
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 11 fixed	color:blue
-1	‘	_	PUNCT	PONpga	_	2	punct	_	XmlId=w_qgraal_cm_1901
-2	Ja	_	ADV	ADVgen	_	6	advmod	_	XmlId=w_qgraal_cm_1902
-3	nus	_	PRON	PROind	PronType=Ind	6	nsubj	_	XmlId=w_qgraal_cm_1903
-4	ne	_	ADV	ADVneg	Polarity=Neg	6	advmod	_	XmlId=w_qgraal_cm_1904
-5	m'	_	PRON	PROper	PronType=Prs	6	obj	_	SpaceAfter=No|XmlId=w_qgraal_cm_1905
-6	ostera	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qgraal_cm_1906
-7	de	_	ADP	PRE	_	8	case	_	XmlId=w_qgraal_cm_1907
-8	ci	_	ADV	ADVgen	_	6	advmod	_	XmlId=w_qgraal_cm_1908
-9	se	_	SCONJ	CONsub	_	10	mark	_	XmlId=w_qgraal_cm_1909
-10	cil	_	PRON	PROdem	PronType=Dem	3	amod	_	XmlId=w_qgraal_cm_1910
-11	non	_	ADV	ADVgen	_	9	fixed	_	XmlId=w_qgraal_cm_1911
-12	a	_	ADP	PRE	_	14	case	_	XmlId=w_qgraal_cm_1912
-13	qui	_	PRON	PROrel	PronType=Prs,Rel	14	nmod	_	XmlId=w_qgraal_cm_1913
-14	costé	_	NOUN	NOMcom	_	16	obl	_	XmlId=w_qgraal_cm_1914
-15	je	_	PRON	PROper	PronType=Prs	16	nsubj	_	XmlId=w_qgraal_cm_1915
-16	pendrai	_	VERB	VERcjg	VerbForm=Fin	10	acl	_	SpaceAfter=No|XmlId=w_qgraal_cm_1916
-17	,	_	PUNCT	PONfbl	_	16	punct	_	XmlId=w_qgraal_cm_1917
-
-~~~
-
-
-~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 3 fixed	color:blue
-1	car	_	CCONJ	CONcoo	_	17	cc:nc	_	XmlId=w_28_03127
-2	si	_	ADV	ADVgen	_	8	mark	_	XmlId=w_28_03128
-3	tost	_	ADV	ADVgen	_	2	fixed	_	XmlId=w_28_03129
-4	comme	_	SCONJ	CONsub	_	2	fixed	_	XmlId=w_28_03130
-5	vo	_	DET	DETpos	Poss=Yes	6	det	_	XmlId=w_28_03131
-6	message	_	NOUN	NOMcom	_	8	nsubj	_	XmlId=w_28_03132
-7	eurent	_	AUX	VERcjg	VerbForm=Fin	8	aux	_	XmlId=w_28_03133
-8	fait	_	VERB	VERppe	Tense=Past|VerbForm=Part	17	advcl	_	XmlId=w_28_03134
-9	convent	_	NOUN	NOMcom	_	8	obj	_	XmlId=w_28_03135
-10	a	_	ADP	PRE	_	11	case	_	XmlId=w_28_03136
-11	mi	_	PRON	PROper	PronType=Prs	8	obl	_	XmlId=w_28_03137
-12	et	_	CCONJ	CONcoo	_	15	cc	_	XmlId=w_28_03138
-13	a	_	ADP	PRE	_	15	case	_	XmlId=w_28_03139
-14	me	_	DET	DETpos	Poss=Yes	15	det	_	XmlId=w_28_03140
-15	gent	_	NOUN	NOMcom	_	11	conj	_	SpaceAfter=No|XmlId=w_28_03141
-16	,	_	PUNCT	PONfbl	_	17	punct	_	XmlId=w_28_03142
-17	kemandai	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_03143
-18	jou	_	PRON	PROper	PronType=Prs	17	nsubj	_	XmlId=w_28_03144
-19	par	_	ADP	PRE	_	22	case	_	XmlId=w_28_03145
-20	tote	_	DET	DETind	PronType=Ind	22	det	_	XmlId=w_28_03146
-21	me	_	DET	DETpos	Poss=Yes	22	det	_	XmlId=w_28_03147
-22	tere	_	NOUN	NOMcom	_	17	obl	_	XmlId=w_28_03148
-23	que	_	SCONJ	CONsub	_	27	mark	_	XmlId=w_28_03149
-24	nus	_	DET	DETind	PronType=Ind	25	det	_	XmlId=w_28_03150
-25	marcaans	_	NOUN	NOMcom	_	27	nsubj	_	XmlId=w_28_03151
-26	n'	_	ADV	ADVneg	Polarity=Neg	27	advmod	_	SpaceAfter=No|XmlId=w_28_03152
-27	alast	_	VERB	VERcjg	VerbForm=Fin	17	ccomp	_	XmlId=w_28_03153
-28	marcaander	_	VERB	VERinf	VerbForm=Inf	27	xcomp	_	SpaceAfter=No|XmlId=w_28_03154
-29	,	_	PUNCT	PONfbl	_	31	punct	_	XmlId=w_28_03155
-30	ains	_	ADV	ADVgen	_	31	advmod	_	XmlId=w_28_03156
-31	aidast	_	VERB	VERcjg	VerbForm=Fin	27	conj	_	XmlId=w_28_03157
-32	a	_	ADP	PRE	_	33	mark	_	XmlId=w_28_03158
-33	apareillier	_	VERB	VERinf	VerbForm=Inf	31	xcomp	_	XmlId=w_28_03159
-34	cheste	_	DET	DETdem	PronType=Dem	35	det	_	XmlId=w_28_03160
-35	navie	_	NOUN	NOMcom	_	33	obj	_	SpaceAfter=No|XmlId=w_28_03161
-36	,	_	PUNCT	PONfbl	_	17	punct	_	XmlId=w_28_03162
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 8 fixed	color:blue
+1	Ja	jà	ADV	ADVgen	_	6	advmod	_	XmlId=w_qgraal_cm_10256
+2	nul	nul	PRON	PROind	PronType=Ind	6	obj	_	XmlId=w_qgraal_cm_10257
+3	ceenz	céans	ADV	ADVgen	_	6	advmod	_	XmlId=w_qgraal_cm_10258
+4	n'	ne1	ADV	ADVneg	Polarity=Neg	6	advmod	_	SpaceAfter=No|XmlId=w_qgraal_cm_10259
+5	en	en2	ADV	PROadv	PronType=Dem	2	nmod	_	XmlId=w_qgraal_cm_10260
+6	prendrai	prendre	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qgraal_cm_10261
+7	devant	devant	ADP	PRE	_	12	mark	_	XmlId=w_qgraal_cm_10262
+8	que	que	SCONJ	CONsub	_	7	fixed	_	XmlId=w_qgraal_cm_10263
+9	aventure	aventure	NOUN	NOMcom	_	12	nsubj	_	XmlId=w_qgraal_cm_10264
+10	le	le	PRON	PROper	PronType=Prs	12	obj	_	XmlId=w_qgraal_cm_10265
+11	m'	me	PRON	PROper	PronType=Prs	12	iobj	_	SpaceAfter=No|XmlId=w_qgraal_cm_10266
+12	ameint	aimer	VERB	VERcjg	VerbForm=Fin	6	advcl	_	SpaceAfter=No|XmlId=w_qgraal_cm_10267
+13	.	.	PUNCT	PONfrt	_	6	punct	_	XmlId=w_qgraal_cm_10268
 
 ~~~
 

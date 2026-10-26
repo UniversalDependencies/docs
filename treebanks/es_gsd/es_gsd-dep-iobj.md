@@ -37,9 +37,9 @@ The following 1 pairs of parts of speech are connected with `iobj`: <tt><a href=
 13	grupo	grupo	NOUN	_	Gender=Masc|Number=Sing	8	nmod	_	SpaceAfter=No
 14	,	,	PUNCT	_	PunctType=Comm	21	punct	_	_
 15	y	y	CCONJ	_	_	21	cc	_	_
-16	a	a	ADP	_	_	18	case	_	_
+16	a	a	ADP	_	_	18	mark	_	_
 17	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
-18	hacer	hacer	VERB	_	Gender=Masc|Number=Sing|VerbForm=Fin	21	advcl	_	_
+18	hacer	hacer	VERB	_	VerbForm=Inf	21	advcl	_	_
 19	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	18	obj	_	_
 20	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	21	expl:pv	_	_
 21	obtenía	obtener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	conj	_	_
@@ -72,7 +72,7 @@ The following 1 pairs of parts of speech are connected with `iobj`: <tt><a href=
 48	"	"	PUNCT	_	PunctType=Quot	42	punct	_	_
 49	y	y	CCONJ	_	_	51	cc	_	_
 50	"	"	PUNCT	_	PunctType=Quot	51	punct	_	SpaceAfter=No
-51	Helena	helena	PROPN	_	_	42	conj	_	SpaceAfter=No
+51	Helena	Helena	PROPN	_	_	42	conj	_	SpaceAfter=No
 52	"	"	PUNCT	_	PunctType=Quot	51	punct	_	SpaceAfter=No
 53	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
 

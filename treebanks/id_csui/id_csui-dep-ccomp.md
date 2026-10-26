@@ -25,13 +25,13 @@ The following 5 pairs of parts of speech are connected with `ccomp`: <tt><a href
 1	"	"	PUNCT	``	_	4	punct	_	SpaceAfter=No
 2	Mereka	mereka	PRON	PRP	Number=Plur|Person=3|PronType=Prs	4	nsubj	_	_
 3	akan	akan	AUX	MD	_	4	aux	_	_
-4	mulai	mulai	VERB	VB	Mood=Ind|Voice=Act	0	root	_	_
-5	merokok	rokok	VERB	VB	Mood=Ind|Voice=Act	4	xcomp	_	_
+4	mulai	mulai	VERB	VB	Voice=Act	0	root	_	_
+5	merokok	rokok	VERB	VB	Voice=Act	4	xcomp	_	_
 6	kalau	kalau	SCONJ	IN	_	7	mark	_	_
-7	melihat	lihat	VERB	VB	Mood=Ind|Voice=Act	5	advcl	_	_
+7	melihat	lihat	VERB	VB	Voice=Act	5	advcl	_	_
 8	idola	idola	NOUN	NN	Number=Sing	10	nsubj	_	_
 9	mereka	mereka	PRON	PRP	Number=Plur|Person=3|PronType=Prs	8	nmod:poss	_	_
-10	merokok	rokok	VERB	VB	Mood=Ind|Voice=Act	7	ccomp	_	SpaceAfter=No
+10	merokok	rokok	VERB	VB	Voice=Act	7	ccomp	_	SpaceAfter=No
 11	.	.	PUNCT	.	_	4	punct	_	SpaceAfter=No
 12	"	"	PUNCT	''	_	4	punct	_	_
 
@@ -46,7 +46,7 @@ The following 5 pairs of parts of speech are connected with `ccomp`: <tt><a href
 # visual-style 3 11 ccomp	color:blue
 1	Bank	bank	PROPN	NNP	_	3	nsubj	_	_
 2	Indonesia	Indonesia	PROPN	NNP	_	1	flat:name	_	_
-3	memperkirakan	kira	VERB	VB	Mood=Ind|Voice=Act	0	root	_	_
+3	memperkirakan	kira	VERB	VB	Voice=Act	0	root	_	_
 4	pertumbuhan	tumbuh	NOUN	NN	Number=Sing	11	nsubj	_	_
 5	kredit	kredit	NOUN	NN	Number=Sing	4	nmod	_	_
 6	perbankan	bank	NOUN	NN	Number=Sing	4	nmod	_	_
@@ -55,7 +55,7 @@ The following 5 pairs of parts of speech are connected with `ccomp`: <tt><a href
 9	akan	akan	AUX	MD	_	11	aux	_	_
 10	lebih	lebih	ADV	RB	_	11	advmod	_	_
 11	tinggi	tinggi	ADJ	JJ	_	3	ccomp	_	_
-12	dibanding	banding	VERB	VB	Mood=Ind|Voice=Pass	11	advcl	_	_
+12	dibanding	banding	VERB	VB	Voice=Pass	11	advcl	_	_
 13	target	target	NOUN	NN	Number=Sing	12	obl	_	_
 14	perbankan	bank	NOUN	NN	Number=Sing	13	nmod	_	_
 15	pada	pada	ADP	IN	_	16	case	_	_
@@ -76,7 +76,7 @@ The following 5 pairs of parts of speech are connected with `ccomp`: <tt><a href
 # visual-style 2	fgColor:white
 # visual-style 2 8 ccomp	color:blue
 1	Pemerintah	perintah	NOUN	NN	Number=Sing	2	nsubj	_	_
-2	menargetkan	target	VERB	VB	Mood=Ind|Voice=Act	0	root	_	_
+2	menargetkan	target	VERB	VB	Voice=Act	0	root	_	_
 3	inflasi	inflasi	NOUN	NN	Number=Sing	8	nsubj	_	_
 4	pada	pada	ADP	IN	_	5	case	_	_
 5	2007	2007	NUM	CD	NumType=Card	3	nmod	_	SpaceAfter=No
@@ -86,7 +86,7 @@ The following 5 pairs of parts of speech are connected with `ccomp`: <tt><a href
 9	,	,	PUNCT	,	_	8	punct	_	_
 10	sementara	sementara	SCONJ	IN	_	12	mark	_	_
 11	BI	BI	PROPN	NNP	_	12	nsubj	_	_
-12	menargetkan	target	VERB	VB	Mood=Ind|Voice=Act	2	advcl	_	_
+12	menargetkan	target	VERB	VB	Voice=Act	2	advcl	_	_
 13	6	6	NUM	CD	NumType=Card	16	nummod	_	_
 14	plus	plus	ADJ	JJ	_	15	advmod	_	_
 15	minus	minus	ADJ	JJ	_	16	acl:relcl	_	_

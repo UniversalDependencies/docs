@@ -30,10 +30,10 @@ The following 5 pairs of parts of speech are connected with `acl:relcl`: <tt><a 
 6	,	,	PUNCT	_	_	5	punct	_	end_char=473|start_char=472
 7	por	por	CCONJ	_	_	12	mark	_	end_char=477|start_char=474
 8	që	që	PRON	_	PronType=Rel	9	nsubj	_	end_char=480|start_char=478
-9	shpresoj	shpresoj	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	2	acl:relcl	_	end_char=489|start_char=481
+9	shpresoj	shpresoj	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	2	acl:relcl	_	end_char=489|start_char=481
 10	të	të	PART	_	_	12	mark	_	end_char=492|start_char=490
 11	të	të	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	12	obj	_	end_char=495|start_char=493
-12	ndihmojë	ndihmoj	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act	9	ccomp	_	end_char=504|start_char=496
+12	ndihmojë	ndihmoj	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	ccomp	_	end_char=504|start_char=496
 13	sado	sado	ADV	_	AdvType=Deg	14	advmod	_	end_char=509|start_char=505
 14	pak	pak	ADV	_	AdvType=Deg	12	advmod	_	end_char=513|start_char=510
 15	në	në	ADP	_	_	17	case	_	end_char=516|start_char=514
@@ -54,18 +54,18 @@ The following 5 pairs of parts of speech are connected with `acl:relcl`: <tt><a 
 # visual-style 12 14 acl:relcl	color:blue
 1	Asi	asi	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	end_char=780|start_char=777
 2	që	që	PRON	_	PronType=Rel	3	nsubj	_	end_char=783|start_char=781
-3	prijnë	prij	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	1	acl:relcl	_	end_char=790|start_char=784
+3	prijnë	prij	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	acl:relcl	_	end_char=790|start_char=784
 4	teposhtë	teposhtë	ADV	_	AdvType=Tim	3	advmod	_	end_char=799|start_char=791
-5	ka	kam	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	6	aux	_	end_char=802|start_char=800
+5	ka	kam	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	aux	_	end_char=802|start_char=800
 6	shumë	shumë	PRON	_	PronType=Ind	0	root	_	end_char=808|SpaceAfter=No|start_char=803
 7	;	;	PUNCT	_	_	8	punct	_	end_char=809|start_char=808
 8	njerëzve	njeri	NOUN	_	Case=Dat|Definite=Def|Gender=Masc|Number=Plur	11	iobj	_	end_char=818|start_char=810
 9	i	i	PRON	_	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Prs	11	iobj	_	end_char=820|start_char=819
 10	u	u	AUX	_	_	11	aux	_	end_char=821|start_char=820
-11	duhen	duhet	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Mid	6	parataxis	_	end_char=827|start_char=822
+11	duhen	duhet	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	6	parataxis	_	end_char=827|start_char=822
 12	asi	asi	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Prs	11	nsubj	_	end_char=831|start_char=828
 13	që	që	PRON	_	PronType=Rel	14	nsubj	_	end_char=834|start_char=832
-14	prijnë	prij	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	12	acl:relcl	_	end_char=841|start_char=835
+14	prijnë	prij	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	acl:relcl	_	end_char=841|start_char=835
 15	tenaltë	tenaltë	NOUN	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	14	obj	_	end_char=849|SpaceAfter=No|start_char=842
 16	!	!	PUNCT	_	_	11	punct	_	end_char=850|start_char=849
 
@@ -79,7 +79,7 @@ The following 5 pairs of parts of speech are connected with `acl:relcl`: <tt><a 
 # visual-style 35	fgColor:white
 # visual-style 35 37 acl:relcl	color:blue
 1	Por	por	SCONJ	_	_	3	mark	_	_
-2	kisha	jam	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|Voice=Act	3	aux	_	_
+2	kisha	jam	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	3	aux	_	_
 3	kuptuar	kuptoj	VERB	_	VerbForm=Part	0	root	_	_
 4	vetëm	vetëm	ADV	_	_	3	advmod	_	_
 5	një	nje	DET	_	Definite=Ind	6	det	_	_
@@ -90,12 +90,12 @@ The following 5 pairs of parts of speech are connected with `acl:relcl`: <tt><a 
 10	,	,	PUNCT	_	_	3	punct	_	_
 11	kjo	kjo	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	14	nsubj	_	_
 12	nuk	nuk	PART	_	_	14	advmod	_	_
-13	ishte	jam	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	14	cop	_	_
+13	ishte	jam	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	14	cop	_	_
 14	shtëpia	shtëpi	NOUN	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	3	ccomp	_	_
 15	e	e	PART	_	_	16	case	_	_
 16	fëmijërisë	fëmijëri	NOUN	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	14	nmod:poss	_	SpaceAfter=No
 17	,	,	PUNCT	_	_	14	punct	_	_
-18	ishte	jam	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	20	cop	_	_
+18	ishte	jam	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	20	cop	_	_
 19	një	një	DET	_	Definite=Ind	20	det	_	_
 20	vilë	vilë	NOUN	_	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	14	parataxis	_	_
 21	me	me	ADP	_	_	23	case	_	_
@@ -114,7 +114,7 @@ The following 5 pairs of parts of speech are connected with `acl:relcl`: <tt><a 
 34	katin	kat	NOUN	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	28	conj	_	_
 35	sipër	sipër	ADJ	_	_	34	amod	_	_
 36	ku	ku	ADV	_	_	37	advmod	_	_
-37	gjendesha	gjendesoj	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|Voice=Mid	35	acl:relcl	_	_
+37	gjendesha	gjendesoj	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Mid	35	acl:relcl	_	_
 38	unë	unë	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	37	nsubj	_	SpaceAfter=No
 39	,	,	PUNCT	_	_	41	punct	_	_
 40	i	i	PART	_	_	41	mark	_	_

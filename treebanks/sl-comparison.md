@@ -4,15 +4,18 @@ title:  'Comparison of Treebank Statistics'
 udver: '2'
 ---
 
+<style>thead th {position: sticky; top: 0; background-color: white;}</style>
 <table>
+  <thead>
   <tr>
-    <td width="50%" valign="top">
+    <th width="50%" valign="top">
       <h1>UD_Slovenian-SSJ</h1>
-    </td>
-    <td width="50%" valign="top">
+    </th>
+    <th width="50%" valign="top">
       <h1>UD_Slovenian-SST</h1>
-    </td>
+    </th>
   </tr>
+  </thead>
   <tr>
     <td width="50%" valign="top">
       <h2>Tokenization and Word Segmentation</h2>
@@ -29,7 +32,7 @@ udver: '2'
     </td>
     <td width="50%" valign="top">
       <ul>
-      <li>This corpus contains 6108 sentences and 98393 tokens.</li>
+      <li>This corpus contains 6121 sentences and 98393 tokens.</li>
       </ul>
     </td>
   </tr>
@@ -2127,7 +2130,7 @@ udver: '2'
             <li>VERB-Fin--PRON-Gen (50)</li>
             <li>VERB-Fin--PRON-Nom (7)</li>
             <li>VERB-Inf--NOUN-Acc (682)</li>
-            <li>VERB-Inf--NOUN-Dat (23)</li>
+            <li>VERB-Inf--NOUN-Dat (22)</li>
             <li>VERB-Inf--NOUN-Gen (220)</li>
             <li>VERB-Inf--NOUN-Nom (3)</li>
             <li>VERB-Inf--PRON (8)</li>
@@ -2209,7 +2212,7 @@ udver: '2'
             <li>VERB-Fin--PRON-Acc (30)</li>
             <li>VERB-Fin--PRON-Dat (289)</li>
             <li>VERB-Inf--NOUN-Acc (15)</li>
-            <li>VERB-Inf--NOUN-Dat (67)</li>
+            <li>VERB-Inf--NOUN-Dat (68)</li>
             <li>VERB-Inf--NOUN-Gen (2)</li>
             <li>VERB-Inf--PRON (1)</li>
             <li>VERB-Inf--PRON-Acc (5)</li>

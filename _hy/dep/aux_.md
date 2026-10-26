@@ -8,11 +8,11 @@ redirect_from: "hy/dep/aux.html"
 udver: '2'
 ---
 
-An auxiliary of a clause is a form of the [auxiliary verbs](AUX) _եմ_ “be”, and its variants (with separate lemma) _լինեմ (լինել)_ “be repeatedly / habitually” used to construct the periphrastic and the “secondary extended” tenses (in several moods).
+An auxiliary of a clause is a form of the [auxiliary verbs](AUX) _եմ_/_em_ “be”, and its variants (with separate lemma) _լինեմ (լինել)_/_linem (linel)_ “be repeatedly / habitually” used to construct the periphrastic and the “secondary extended” tenses (in several moods).
 
-Besides `aux`, the verb _եմ_ may also act as a [copula](cop).
+Besides `aux`, the verb _եմ_/_em_ may also act as a [copula](cop).
 
-Note that in Armenian auxiliary verb _տալ_ used to construct causative constructions is labeled [aux:caus](). We use [aux:ex]() for finite form of existentials _կամ&nbsp;_ “be, exist” and _ունեմ&nbsp;_ “have” in combination with resultative participle.
+Note that in Armenian auxiliary verb _տալ_/_tal_ used to construct causative constructions is labeled [aux:caus](). We use [aux:ex]() for finite form of existentials _կամ_/_kam_ “be, exist” and _ունեմ_/_ownem_ “have” in combination with resultative participle.
 
 ~~~ sdparse
 Երեկ եմ հասել ։ \n Yesterday I-have arrived .
@@ -27,4 +27,4 @@ aux(think, You-are)
 aux(գնացած, կլինի)
 aux(gone, will-have)
 ~~~
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:27 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:43 CEST -->

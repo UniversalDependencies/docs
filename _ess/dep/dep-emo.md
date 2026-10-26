@@ -18,4 +18,4 @@ qugina k a nka . \n spooked to-feel-R-toward Ind.Trns 1Sg.3Pl .
 dep:emo(k, qugina)
 dep:emo(to-feel-R-toward, spooked)
 ~~~
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:47 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:00 CEST -->

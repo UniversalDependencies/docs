@@ -7,6 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Livvi-KKPP: Relations: `compound:nn`
 
 This relation is a language-specific subtype of <tt><a href="olo_kkpp-dep-compound.html">compound</a></tt>.
+There are also 1 other language-specific subtypes of `compound`: <tt><a href="olo_kkpp-dep-compound-prt.html">compound:prt</a></tt>.
 
 3 nodes (0%) are attached to their parents as `compound:nn`.
 
@@ -73,7 +74,7 @@ The following 2 pairs of parts of speech are connected with `compound:nn`: <tt><
 20	vepsän	vepsä	NOUN	NOUN	Case=Gen|Number=Sing	18	conj	_	_
 21	da	da	CCONJ	CCONJ	_	22	cc	_	_
 22	suomen	suomi	NOUN	NOUN	Case=Gen|Number=Sing	18	conj	_	_
-23	kieldy	kieli	NOUN	NOUN	Case=Par|Number=Sing	3	obj	_	_
+23	kieldy	kieli	NOUN	NOUN	Case=Par|Number=Sing	24	nmod	_	_
 24	maltajien	maltai	NOUN	NOUN	Case=Gen|Number=Plur	25	nmod:poss	_	_
 25	kilbu	kilbu	NOUN	NOUN	Case=Acc|Number=Sing	9	conj	_	SpaceAfter=No
 26	.	.	PUNCT	PUNCT	_	3	punct	_	SpaceAfter=No

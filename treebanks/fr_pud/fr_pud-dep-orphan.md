@@ -55,7 +55,7 @@ The following 4 pairs of parts of speech are connected with `orphan`: <tt><a hre
 # visual-style 13	bgColor:blue
 # visual-style 13	fgColor:white
 # visual-style 13 15 orphan	color:blue
-1	Il	il	PRON	PRP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	wordform=il
+1	Il	lui	PRON	PRP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	wordform=il
 2	a	avoir	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux:tense	_	_
 3	également	également	ADV	RB	_	4	advmod	_	_
 4	construit	construire	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
@@ -83,7 +83,7 @@ The following 4 pairs of parts of speech are connected with `orphan`: <tt><a hre
 # visual-style 8 11 orphan	color:blue
 1	Durán	Durán	PROPN	NNP	Gender=Masc|Number=Sing	2	nsubj	_	_
 2	agit	agir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	en	en	ADP	IN	_	6	case	_	_
+3	en	en	ADP	IN	ExtPos=ADP	6	case	_	_
 4	tant	tant	ADV	RB	_	3	fixed	_	_
 5	que	que	SCONJ	IN	_	3	fixed	_	_
 6	porte-parole	porte-parole	NOUN	NN	Gender=Masc|Number=Sing	2	obl	_	_

@@ -26,11 +26,11 @@ The following 32 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 1	In	in	ADP	IN	_	2	case	_	_
 2	precedenza	precedenza	NOUN	NN	Gender=Fem|Number=Sing	7	obl	_	_
 3	solo	solo	ADV	RB	_	5	advmod	_	_
-4	i	il	DET	DT	Gender=Masc|Number=Plur	5	det	_	_
+4	i	il	DET	DT	Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
 5	blogger	blogger	NOUN	NN	Gender=Masc|Number=Plur	7	nsubj	_	_
 6	avevano	avere	AUX	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|Voice=Act	7	aux	_	_
 7	visto	vedere	VERB	VBN	Tense=Past	0	root	_	_
-8	i	il	DET	DT	Gender=Masc|Number=Plur	9	det	_	_
+8	i	il	DET	DT	Gender=Masc|Number=Plur|PronType=Art	9	det	_	_
 9	jet	jet	NOUN	NN	Gender=Masc|Number=Plur	7	obj	_	SpaceAfter=No
 10	.	.	PUNCT	.	_	7	punct	_	_
 
@@ -47,12 +47,12 @@ The following 32 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 2	chiedo	chiedere	VERB	VBC	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	0	root	_	_
 3	anche	anche	ADV	RB	_	2	advmod	_	_
 4	se	se	ADP	IN	_	9	mark	_	_
-5	la	il	DET	DT	Gender=Fem|Number=Sing	6	det	_	_
+5	la	il	DET	DT	Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
 6	Coppa	Coppa	PROPN	NN	Gender=Fem|Number=Sing	9	nsubj	_	_
 7	Davis	Davis	PROPN	NNP	Gender=Fem|Number=Sing	6	flat	_	_
 8	abbia	avere	AUX	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act	9	aux	_	_
 9	svolto	svolgere	VERB	VBN	Tense=Past	2	ccomp	_	_
-10	un	uno	DET	DT	Gender=Masc|Number=Sing	11	det	_	_
+10	un	uno	DET	DT	Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
 11	ruolo	ruolo	NOUN	NN	Gender=Masc|Number=Sing	9	obj	_	SpaceAfter=No
 12	.	.	PUNCT	.	_	2	punct	_	_
 

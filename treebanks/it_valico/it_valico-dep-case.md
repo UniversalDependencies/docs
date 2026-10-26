@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-494 nodes (7%) are attached to their parents as `case`.
+495 nodes (7%) are attached to their parents as `case`.
 
-493 instances of `case` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.84817813765182.
+494 instances of `case` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.84848484848485.
 
-The following 10 pairs of parts of speech are connected with `case`: <tt><a href="it_valico-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_valico-pos-ADP.html">ADP</a></tt> (408; 83% instances), <tt><a href="it_valico-pos-PRON.html">PRON</a></tt>-<tt><a href="it_valico-pos-ADP.html">ADP</a></tt> (37; 7% instances), <tt><a href="it_valico-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_valico-pos-ADP.html">ADP</a></tt> (21; 4% instances), <tt><a href="it_valico-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_valico-pos-ADP.html">ADP</a></tt> (11; 2% instances), <tt><a href="it_valico-pos-ADV.html">ADV</a></tt>-<tt><a href="it_valico-pos-ADP.html">ADP</a></tt> (7; 1% instances), <tt><a href="it_valico-pos-DET.html">DET</a></tt>-<tt><a href="it_valico-pos-ADP.html">ADP</a></tt> (3; 1% instances), <tt><a href="it_valico-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_valico-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="it_valico-pos-NUM.html">NUM</a></tt>-<tt><a href="it_valico-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="it_valico-pos-PRON.html">PRON</a></tt>-<tt><a href="it_valico-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="it_valico-pos-SYM.html">SYM</a></tt>-<tt><a href="it_valico-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `case`: <tt><a href="it_valico-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_valico-pos-ADP.html">ADP</a></tt> (409; 83% instances), <tt><a href="it_valico-pos-PRON.html">PRON</a></tt>-<tt><a href="it_valico-pos-ADP.html">ADP</a></tt> (38; 8% instances), <tt><a href="it_valico-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_valico-pos-ADP.html">ADP</a></tt> (21; 4% instances), <tt><a href="it_valico-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_valico-pos-ADP.html">ADP</a></tt> (11; 2% instances), <tt><a href="it_valico-pos-ADV.html">ADV</a></tt>-<tt><a href="it_valico-pos-ADP.html">ADP</a></tt> (7; 1% instances), <tt><a href="it_valico-pos-DET.html">DET</a></tt>-<tt><a href="it_valico-pos-ADP.html">ADP</a></tt> (3; 1% instances), <tt><a href="it_valico-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_valico-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="it_valico-pos-NUM.html">NUM</a></tt>-<tt><a href="it_valico-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="it_valico-pos-PRON.html">PRON</a></tt>-<tt><a href="it_valico-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="it_valico-pos-SYM.html">SYM</a></tt>-<tt><a href="it_valico-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -70,7 +70,7 @@ The following 10 pairs of parts of speech are connected with `case`: <tt><a href
 5	lanciato	lanciare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 6	su	su	ADP	E	_	7	case	_	_
 7	Luca	Luca	PROPN	SP	_	5	obl	_	_
-8	così	così	SCONJ	CS	_	10	mark	_	_
+8	così	così	SCONJ	CS	ExtPos=ADV	10	mark	_	_
 9	che	che	SCONJ	CS	_	8	fixed	_	_
 10	cadeva	cadere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	advcl	_	_
 11	su	su	ADP	E	_	13	case	_	_

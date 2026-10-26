@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-8 nodes (1%) are attached to their parents as `csubj`.
+11 nodes (1%) are attached to their parents as `csubj`.
 
-8 instances of `csubj` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.75.
+11 instances of `csubj` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.36363636363636.
 
-The following 2 pairs of parts of speech are connected with `csubj`: <tt><a href="ky_tuecl-pos-VERB.html">VERB</a></tt>-<tt><a href="ky_tuecl-pos-VERB.html">VERB</a></tt> (5; 63% instances), <tt><a href="ky_tuecl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ky_tuecl-pos-VERB.html">VERB</a></tt> (3; 38% instances).
+The following 2 pairs of parts of speech are connected with `csubj`: <tt><a href="ky_tuecl-pos-VERB.html">VERB</a></tt>-<tt><a href="ky_tuecl-pos-VERB.html">VERB</a></tt> (6; 55% instances), <tt><a href="ky_tuecl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ky_tuecl-pos-VERB.html">VERB</a></tt> (5; 45% instances).
 
 
 ~~~ conllu

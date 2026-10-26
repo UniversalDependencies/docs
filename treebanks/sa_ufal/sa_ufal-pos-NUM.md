@@ -43,7 +43,7 @@ Examples: अशीति, एक, त्रि, षट्, सप्त
 
 ## Relations
 
-`NUM` nodes are attached to their parents using 4 different relations: <tt><a href="sa_ufal-dep-nummod.html">nummod</a></tt> (13; 72% instances), <tt><a href="sa_ufal-dep-obl.html">obl</a></tt> (3; 17% instances), <tt><a href="sa_ufal-dep-nsubj.html">nsubj</a></tt> (1; 6% instances), <tt><a href="sa_ufal-dep-nummod-gov.html">nummod:gov</a></tt> (1; 6% instances)
+`NUM` nodes are attached to their parents using 4 different relations: <tt><a href="sa_ufal-dep-nummod.html">nummod</a></tt> (14; 78% instances), <tt><a href="sa_ufal-dep-obl.html">obl</a></tt> (2; 11% instances), <tt><a href="sa_ufal-dep-nsubj.html">nsubj</a></tt> (1; 6% instances), <tt><a href="sa_ufal-dep-nummod-gov.html">nummod:gov</a></tt> (1; 6% instances)
 
 Parents of `NUM` nodes belong to 2 different parts of speech: <tt><a href="sa_ufal-pos-NOUN.html">NOUN</a></tt> (15; 83% instances), <tt><a href="sa_ufal-pos-VERB.html">VERB</a></tt> (3; 17% instances)
 

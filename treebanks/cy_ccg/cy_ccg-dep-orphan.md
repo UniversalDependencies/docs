@@ -28,7 +28,7 @@ The following 1 pairs of parts of speech are connected with `orphan`: <tt><a hre
 4	dysgu	dysgu	NOUN	verbnoun	Number=Sing|VerbForm=Vnoun	1	xcomp	_	_
 5	pwnc	pwnc	NOUN	noun	Gender=Masc|Number=Sing	4	obj	_	_
 6	drwy	drwy	ADP	prep	_	7	case	_	_
-7	iaith	iaith	NOUN	noun	Gender=Fem|Number=Sing	4	obl	_	_
+7	iaith	iaith	NOUN	noun	Gender=Fem|Number=Sing	4	nmod	_	_
 8	Ewropeaidd	Ewropeaidd	ADJ	pos	Degree=Pos	7	amod	_	_
 9	fawr	mawr	ADJ	pos	Degree=Pos|Mutation=SM	7	amod	_	_
 10	fel	fel	ADP	prep	_	11	case	_	_

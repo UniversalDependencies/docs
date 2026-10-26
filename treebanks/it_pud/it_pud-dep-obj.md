@@ -25,11 +25,11 @@ The following 14 pairs of parts of speech are connected with `obj`: <tt><a href=
 1	In	in	ADP	IN	_	2	case	_	_
 2	precedenza	precedenza	NOUN	NN	Gender=Fem|Number=Sing	7	obl	_	_
 3	solo	solo	ADV	RB	_	5	advmod	_	_
-4	i	il	DET	DT	Gender=Masc|Number=Plur	5	det	_	_
+4	i	il	DET	DT	Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
 5	blogger	blogger	NOUN	NN	Gender=Masc|Number=Plur	7	nsubj	_	_
 6	avevano	avere	AUX	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|Voice=Act	7	aux	_	_
 7	visto	vedere	VERB	VBN	Tense=Past	0	root	_	_
-8	i	il	DET	DT	Gender=Masc|Number=Plur	9	det	_	_
+8	i	il	DET	DT	Gender=Masc|Number=Plur|PronType=Art	9	det	_	_
 9	jet	jet	NOUN	NN	Gender=Masc|Number=Plur	7	obj	_	SpaceAfter=No
 10	.	.	PUNCT	.	_	7	punct	_	_
 
@@ -63,7 +63,7 @@ The following 14 pairs of parts of speech are connected with `obj`: <tt><a href=
 # visual-style 1 5 obj	color:blue
 1	Dichiaro	dichiarare	VERB	VBC	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	0	root	_	_
 2	chiusi	chiudere	ADJ	JJ	Gender=Masc|Number=Plur	1	xcomp	_	_
-3	i	il	DET	DT	Gender=Masc|Number=Plur	5	det	_	_
+3	i	il	DET	DT	Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
 4	primi	primo	ADJ	JJ	Gender=Masc|Number=Plur	5	amod	_	_
 5	Giochi	Giochi	PROPN	NN	Gender=Masc|Number=Plur	1	obj	_	_
 6	olimpici	olimpico	ADJ	JJ	Gender=Masc|Number=Plur	5	amod	_	Proper=True

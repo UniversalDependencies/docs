@@ -22,17 +22,17 @@ The following 19 pairs of parts of speech are connected with `orphan`: <tt><a hr
 # visual-style 13	bgColor:blue
 # visual-style 13	fgColor:white
 # visual-style 13 5 orphan	color:blue
-1	Şu	şu	DET	Det	_	2	det	_	_
+1	Şu	şu	DET	Det	PronType=Dem	2	det	_	_
 2	dağın	dağ	NOUN	_	Case=Gen|Number=Sing|Person=3	3	nmod:poss	_	_
-3	eteğinde	etek	NOUN	_	Case=Loc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	5	obl	_	_
-4	bir	bir	DET	Indef	_	5	det	_	_
+3	eteğinde	etek	NOUN	_	Case=Loc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	5	nmod	_	_
+4	bir	bir	DET	Indef	PronType=Ind	5	det	_	_
 5	köy	köy	NOUN	_	Case=Nom|Number=Sing|Person=3	13	orphan	_	SpaceAfter=No
 6	,	,	PUNCT	Comma	_	13	punct	_	_
 7	köyün	köy	NOUN	_	Case=Gen|Number=Sing|Person=3	12	nmod:poss	_	_
 8	de	de	PART	Emph	_	7	advmod:emph	_	_
 9	deli	del	ADJ	Adj	_	12	amod	_	DerivedFrom=de
 10	dolu	dolu	ADJ	Adj	_	9	compound:redup	_	DerivedFrom=do
-11	bir	bir	DET	Indef	_	12	det	_	_
+11	bir	bir	DET	Indef	PronType=Ind	12	det	_	_
 12	çobanı	çoban	NOUN	_	Case=Acc|Number=Sing|Person=3	13	nsubj	_	_
 13	varmış	var	NOUN	Exist	Case=Nom|Number=Sing|Person=3|Polarity=Pos	0	root	_	_
 14	mış	y	AUX	Zero	Evident=Nfh|Number=Sing|Person=3|Polarity=Pos|Tense=Past	13	cop	_	_
@@ -70,7 +70,7 @@ The following 19 pairs of parts of speech are connected with `orphan`: <tt><a hr
 # visual-style 29 26 orphan	color:blue
 1	Örneğin	örnek	ADV	_	_	30	advmod	_	_
 2	1600	1600	NUM	NNum	Case=Nom|Number=Sing|NumType=Card|Person=3	3	nummod	_	_
-3	senesinde	sene	NOUN	_	Case=Loc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	5	obl:tmod	_	_
+3	senesinde	sene	NOUN	_	Case=Loc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	5	nmod:tmod	_	_
 4	500	500	NUM	ANum	NumType=Card	5	nummod	_	_
 5	milyon	milyon	NUM	NNum	Case=Nom|Number=Sing|NumType=Card|Person=3	8	acl	_	_
 6	olan	ol	AUX	Ptcp	Polarity=Pos|Tense=Pres|VerbForm=Part	5	cop	_	_
@@ -82,19 +82,19 @@ The following 19 pairs of parts of speech are connected with `orphan`: <tt><a hr
 12	milyara	milyar	NOUN	_	Case=Dat|Number=Sing|Person=3	30	obj	_	SpaceAfter=No
 13	,	,	PUNCT	Comma	_	17	punct	_	_
 14	1952	1952	NUM	Year	Number=Sing|Person=3	17	orphan	_	typo=yes
-15	de	de	PART	Separ	_	14	fixed	_	typo=yes
+15	de	de	PART	Separ	_	14	case	_	typo=yes
 16	1	1	NUM	ANum	NumType=Card	17	nummod	_	_
 17	milyar	milyar	NUM	NNum	Case=Nom|Number=Sing|NumType=Card|Person=3	12	conj	_	_
 18	600	600	NUM	ANum	NumType=Card	19	nummod	_	_
 19	milyona	milyon	NUM	NNum	Case=Dat|Number=Sing|NumType=Card|Person=3	17	flat	_	SpaceAfter=No
 20	,	,	PUNCT	Comma	_	24	punct	_	_
 21	1962	1962	NUM	Year	Number=Sing|Person=3	24	orphan	_	typo=yes
-22	de	de	PART	Separ	_	21	fixed	_	typo=yes
+22	de	de	PART	Separ	_	21	case	_	typo=yes
 23	3	3	NUM	ANum	NumType=Card	24	nummod	_	_
 24	milyara	milyar	NUM	_	Case=Dat|Number=Sing|NumType=Card|Person=3	12	conj	_	SpaceAfter=No
 25	,	,	PUNCT	Comma	_	29	punct	_	_
 26	1980	1980	NUM	Year	Number=Sing|Person=3	29	orphan	_	typo=yes
-27	de	de	PART	Separ	_	26	fixed	_	typo=yes
+27	de	de	PART	Separ	_	26	case	_	typo=yes
 28	4	4	NUM	ANum	NumType=Card	29	nummod	_	_
 29	milyara	milyar	NUM	NNum	Case=Dat|Number=Sing|NumType=Card|Person=3	12	conj	_	_
 30	ulaşmıştır	ulaş	VERB	_	Aspect=Perf|Mood=Gen|Number=Sing|Person=3|Polarity=Pos|Tense=Past	0	root	_	SpaceAfter=No

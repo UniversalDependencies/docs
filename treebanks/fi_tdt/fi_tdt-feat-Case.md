@@ -9,16 +9,16 @@ udver: '2'
 This feature is universal.
 It occurs with 15 different values: `Abe`, `Abl`, `Acc`, `Ade`, `All`, `Com`, `Ela`, `Ess`, `Gen`, `Ill`, `Ine`, `Ins`, `Nom`, `Par`, `Tra`.
 
-106588 tokens (53%) have a non-empty value of `Case`.
-47527 types (88%) occur at least once with a non-empty value of `Case`.
-22166 lemmas (85%) occur at least once with a non-empty value of `Case`.
-The feature is used with 8 part-of-speech tags: <tt><a href="fi_tdt-pos-NOUN.html">NOUN</a></tt> (56392; 28% instances), <tt><a href="fi_tdt-pos-PRON.html">PRON</a></tt> (13476; 7% instances), <tt><a href="fi_tdt-pos-ADJ.html">ADJ</a></tt> (13279; 7% instances), <tt><a href="fi_tdt-pos-PROPN.html">PROPN</a></tt> (12110; 6% instances), <tt><a href="fi_tdt-pos-VERB.html">VERB</a></tt> (9466; 5% instances), <tt><a href="fi_tdt-pos-NUM.html">NUM</a></tt> (1285; 1% instances), <tt><a href="fi_tdt-pos-AUX.html">AUX</a></tt> (578; 0% instances), <tt><a href="fi_tdt-pos-SYM.html">SYM</a></tt> (2; 0% instances).
+106579 tokens (53%) have a non-empty value of `Case`.
+47522 types (88%) occur at least once with a non-empty value of `Case`.
+22161 lemmas (85%) occur at least once with a non-empty value of `Case`.
+The feature is used with 8 part-of-speech tags: <tt><a href="fi_tdt-pos-NOUN.html">NOUN</a></tt> (56389; 28% instances), <tt><a href="fi_tdt-pos-PRON.html">PRON</a></tt> (13470; 7% instances), <tt><a href="fi_tdt-pos-ADJ.html">ADJ</a></tt> (13279; 7% instances), <tt><a href="fi_tdt-pos-PROPN.html">PROPN</a></tt> (12111; 6% instances), <tt><a href="fi_tdt-pos-VERB.html">VERB</a></tt> (9466; 5% instances), <tt><a href="fi_tdt-pos-NUM.html">NUM</a></tt> (1284; 1% instances), <tt><a href="fi_tdt-pos-AUX.html">AUX</a></tt> (578; 0% instances), <tt><a href="fi_tdt-pos-SYM.html">SYM</a></tt> (2; 0% instances).
 
 ### `NOUN`
 
-56392 <tt><a href="fi_tdt-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Case`.
+56389 <tt><a href="fi_tdt-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="fi_tdt-feat-Derivation.html">Derivation</a></tt><tt>=EMPTY</tt> (48908; 87%), <tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (42618; 76%).
+The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="fi_tdt-feat-Derivation.html">Derivation</a></tt><tt>=EMPTY</tt> (48904; 87%), <tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (42616; 76%).
 
 `NOUN` tokens may have the following values of `Case`:
 
@@ -27,16 +27,16 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 * `Ade` (2441; 4% of non-empty `Case`): <em>perusteella, tavalla, avulla, alueella, hetkellä, puolella, matkalla, tasolla, kaudella, markkinoilla</em>
 * `All` (1426; 3% of non-empty `Case`): <em>komissiolle, jäsenvaltioille, puolelle, paikalle, markkinoille, alueelle, lattialle, pihalle, sijalle, ihmisille</em>
 * `Com` (36; 0% of non-empty `Case`): <em>poikineen, postikuluineen, ajatuksineni, allekirjoittajineen, asenteineen, eduskuntakäsittelyineenkin, herkkuineen, hihoineen, iloineen, jalanjälkineen</em>
-* `Ela` (3186; 6% of non-empty `Case`): <em>vuodesta, mielestäni, asiasta, syystä, mielestä, suhteista, maasta, alusta, asioista, muuttamisesta</em>
+* `Ela` (3185; 6% of non-empty `Case`): <em>vuodesta, mielestäni, asiasta, syystä, mielestä, suhteista, maasta, alusta, asioista, muuttamisesta</em>
 * `Ess` (1634; 3% of non-empty `Case`): <em>vuonna, päivänä, aikana, vuosina, tarkoituksena, osana, tiistaina, perjantaina, keskiviikkona, lauantaina</em>
-* `Gen` (14258; 25% of non-empty `Case`): <em>vuoden, yhteisön, komission, yliopiston, artiklan, asetuksen, neuvoston, ajan, jäsenvaltioiden, maan</em>
+* `Gen` (14259; 25% of non-empty `Case`): <em>vuoden, yhteisön, komission, yliopiston, artiklan, asetuksen, neuvoston, ajan, jäsenvaltioiden, maan</em>
 * `Ill` (3519; 6% of non-empty `Case`): <em>huomioon, aikaan, käyttöön, vuoteen, kotiin, suuntaan, loppuun, maahan, asiaan, joukkoon</em>
 * `Ine` (3765; 7% of non-empty `Case`): <em>yhteydessä, artiklassa, liitteessä, vaiheessa, kyseessä, maassa, tapauksessa, käytännössä, alussa, asetuksessa</em>
 * `Ins` (158; 0% of non-empty `Case`): <em>tavoin, osin, käsin, välein, keinoin, mielin, silmin, voimin, turvin, lain</em>
-* `Nom` (15014; 27% of non-empty `Case`): <em>mies, komissio, artikla, N:o, osa, asia, puhemies, professori, ihmiset, jäsen</em>
-* `Par` (9540; 17% of non-empty `Case`): <em>prosenttia, vuotta, aikaa, euroa, kertaa, kesäkuuta, mieltä, jäsentä, tietoa, joulukuuta</em>
+* `Nom` (15009; 27% of non-empty `Case`): <em>mies, komissio, artikla, N:o, osa, asia, puhemies, professori, ihmiset, jäsen</em>
+* `Par` (9542; 17% of non-empty `Case`): <em>prosenttia, vuotta, aikaa, euroa, kertaa, kesäkuuta, mieltä, jäsentä, tietoa, joulukuuta</em>
 * `Tra` (780; 1% of non-empty `Case`): <em>hetkeksi, osaksi, kohteeksi, varmistamiseksi, ajaksi, jäseneksi, avuksi, päätteeksi, ven., parantamiseksi</em>
-* `EMPTY` (62): <em>eaa., perus-, etu-, sosiaali-, EN, asuin-, 1dl, 200mm, A., B.</em>
+* `EMPTY` (61): <em>eaa., perus-, etu-, sosiaali-, EN, asuin-, 1dl, 200mm, A., B.</em>
 
 <table>
   <tr><th>Paradigm <i>päivä</i></th><th><tt>Nom</tt></th><th><tt>Gen</tt></th><th><tt>Par</tt></th><th><tt>Ess</tt></th><th><tt>Tra</tt></th><th><tt>Ine</tt></th><th><tt>Ill</tt></th><th><tt>Ela</tt></th><th><tt>Ade</tt></th><th><tt>All</tt></th><th><tt>Abl</tt></th></tr>
@@ -50,9 +50,9 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 
 ### `PRON`
 
-13476 <tt><a href="fi_tdt-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Case`.
+13470 <tt><a href="fi_tdt-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="fi_tdt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (10687; 79%), <tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (10160; 75%).
+The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="fi_tdt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (10681; 79%), <tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (10154; 75%).
 
 `PRON` tokens may have the following values of `Case`:
 
@@ -63,12 +63,12 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 * `Com` (5; 0% of non-empty `Case`): <em>kaikkine, Näine, muineen</em>
 * `Ela` (877; 7% of non-empty `Case`): <em>siitä, tästä, niistä, josta, joista, mistä, hänestä, kaikista, minusta, näistä</em>
 * `Ess` (101; 1% of non-empty `Case`): <em>tänä, samana, eräänä, jona, sinä, jonakin, yhtenä, jokaisena, muuna, niinä</em>
-* `Gen` (2668; 20% of non-empty `Case`): <em>sen, tämän, hänen, jonka, niiden, meidän, heidän, minun, joiden, muiden</em>
+* `Gen` (2663; 20% of non-empty `Case`): <em>sen, tämän, hänen, jonka, niiden, meidän, heidän, minun, joiden, muiden</em>
 * `Ill` (550; 4% of non-empty `Case`): <em>siihen, tähän, johon, samaan, mihin, joihin, niihin, toiseen, muihin, näihin</em>
-* `Ine` (893; 7% of non-empty `Case`): <em>jossa, tässä, siinä, joissa, missä, kaikissa, jossain, niissä, näissä, jossakin</em>
+* `Ine` (892; 7% of non-empty `Case`): <em>jossa, tässä, siinä, joissa, missä, kaikissa, jossain, niissä, näissä, jossakin</em>
 * `Ins` (11; 0% of non-empty `Case`): <em>monin, samoin, kaikin, molemmin, minkä</em>
-* `Nom` (4994; 37% of non-empty `Case`): <em>se, hän, joka, tämä, ne, jotka, kaikki, minä, he, mikä</em>
-* `Par` (1982; 15% of non-empty `Case`): <em>sitä, mitä, tätä, niitä, mitään, joita, jota, jotain, muita, minua</em>
+* `Nom` (4995; 37% of non-empty `Case`): <em>se, hän, joka, tämä, ne, jotka, kaikki, minä, he, mikä</em>
+* `Par` (1981; 15% of non-empty `Case`): <em>sitä, mitä, tätä, niitä, mitään, joita, jota, jotain, muita, minua</em>
 * `Tra` (12; 0% of non-empty `Case`): <em>ainoaksi, täksi, jokaiseksi, miksi, moneksi, muutamaksi, samaksi, siksi, toiseksi, yhdeksi</em>
 * `EMPTY` (5): <em>joka, jonne</em>
 
@@ -125,9 +125,9 @@ The most frequent other feature values with which `ADJ` and `Case` co-occurred: 
 
 ### `PROPN`
 
-12110 <tt><a href="fi_tdt-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `Case`.
+12111 <tt><a href="fi_tdt-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PROPN` and `Case` co-occurred: <tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (11845; 98%).
+The most frequent other feature values with which `PROPN` and `Case` co-occurred: <tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (11846; 98%).
 
 `PROPN` tokens may have the following values of `Case`:
 
@@ -141,7 +141,7 @@ The most frequent other feature values with which `PROPN` and `Case` co-occurred
 * `Ill` (247; 2% of non-empty `Case`): <em>Suomeen, Helsinkiin, Turkuun, Roomaan, Arduinoon, Brysseliin, Eurooppaan, Japaniin, Kuivajärveen, Kuopioon</em>
 * `Ine` (747; 6% of non-empty `Case`): <em>Suomessa, Helsingissä, Euroopassa, Brysselissä, Yhdysvalloissa, Ruotsissa, Turussa, Irakissa, Kiinassa, Italiassa</em>
 * `Ins` (1; 0% of non-empty `Case`): <em>Helmin</em>
-* `Nom` (6299; 52% of non-empty `Case`): <em>the, EY, Mithridates, Pekka, New, of, Mårten, Suomi, Eurooppa, Kaijasilta</em>
+* `Nom` (6300; 52% of non-empty `Case`): <em>the, EY, Mithridates, Pekka, New, of, Mårten, Suomi, Eurooppa, Kaijasilta</em>
 * `Par` (262; 2% of non-empty `Case`): <em>Eurooppaa, suomea, SDP:tä, risperidonia, Mollaa, Yhdysvaltoja, Bysanttia, Hypatiaa, Jarzembowskia, Nokiaa</em>
 * `Tra` (11; 0% of non-empty `Case`): <em>COO:ksi, Cunninghamiksi, Hopeeksi, Jaakoksi, Monteverdiksi, Pyroksi, Radioheadiksi, Runkuks, Stiletiks, Stilsuks</em>
 * `EMPTY` (11): <em>MTV3, Energia, Jr., O.V., Pekkka, Sr., kännitzer</em>
@@ -172,7 +172,7 @@ The most frequent other feature values with which `VERB` and `Case` co-occurred:
 * `Nom` (3966; 42% of non-empty `Case`): <em>tehty, saanut, tullut, s., tehnyt, annettu, koskevat, oleva, olevat, antanut</em>
 * `Par` (799; 8% of non-empty `Case`): <em>liittyviä, olevia, koskevia, olevaa, kuluttua, koskevaa, tarkoitettua, tehtyä, liittyvää, säädettyä</em>
 * `Tra` (229; 2% of non-empty `Case`): <em>saadakseen, käsiteltäväksi, varmistaakseen, alkavaksi, hyväksytyksi, kuultavaksi, käsittääkseni, käytettäväksi, luettavaksi, saadakseni</em>
-* `EMPTY` (17876): <em>ottaa, tulee, saa, sai, tuli, on, tehdä, sanoi, antaa, pitää</em>
+* `EMPTY` (17875): <em>ottaa, tulee, saa, sai, tuli, on, tehdä, sanoi, antaa, pitää</em>
 
 <table>
   <tr><th>Paradigm <i>käyttää</i></th><th><tt>Nom</tt></th><th><tt>Gen</tt></th><th><tt>Ins</tt></th><th><tt>Par</tt></th><th><tt>Ess</tt></th><th><tt>Tra</tt></th><th><tt>Abe</tt></th><th><tt>Ine</tt></th><th><tt>Ill</tt></th><th><tt>Ela</tt></th><th><tt>Ade</tt></th><th><tt>All</tt></th></tr>
@@ -196,9 +196,9 @@ The most frequent other feature values with which `VERB` and `Case` co-occurred:
 
 ### `NUM`
 
-1285 <tt><a href="fi_tdt-pos-NUM.html">NUM</a></tt> tokens (26% of all `NUM` tokens) have a non-empty value of `Case`.
+1284 <tt><a href="fi_tdt-pos-NUM.html">NUM</a></tt> tokens (26% of all `NUM` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NUM` and `Case` co-occurred: <tt><a href="fi_tdt-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (1253; 98%), <tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1228; 96%).
+The most frequent other feature values with which `NUM` and `Case` co-occurred: <tt><a href="fi_tdt-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (1252; 98%), <tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1227; 96%).
 
 `NUM` tokens may have the following values of `Case`:
 
@@ -211,7 +211,7 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
 * `Ill` (83; 6% of non-empty `Case`): <em>miljoonaan, kahteen, viiteen, yhteen, kolmeen, neljään, 6:een, kahdeksaan, kuuteen, kymmeneen</em>
 * `Ine` (35; 3% of non-empty `Case`): <em>yhdessä, kahdessa, 1:ssä, kolmessa, puolessa, kahdeksassa, 30:ssä, 37:ssä, 3:ssakin, kolmessatoista</em>
 * `Ins` (1; 0% of non-empty `Case`): <em>kaksin</em>
-* `Nom` (558; 43% of non-empty `Case`): <em>kaksi, kolme, yksi, viisi, neljä, pari, yhdeksän, kuusi, kymmenen, puoli</em>
+* `Nom` (557; 43% of non-empty `Case`): <em>kaksi, kolme, yksi, viisi, neljä, pari, yhdeksän, kuusi, kymmenen, puoli</em>
 * `Par` (158; 12% of non-empty `Case`): <em>miljoonaa, yhtä, tuhansia, kahta, miljardia, kymmeniä, kymmentä, satoja, kaksikymmentä, miljoonia</em>
 * `Tra` (11; 1% of non-empty `Case`): <em>yhdeksi, kuudeksi, kolmeksi, kymmeneksi, pariksi, viideksitoista, yhdeksäksi</em>
 * `EMPTY` (3694): <em>1, 2, 2009, 3, 5, 4, 10, 2006, 6, 2008</em>
@@ -289,10 +289,10 @@ The most frequent other feature values with which `AUX` and `Case` co-occurred: 
 ## Relations with Agreement in `Case`
 
 The 10 most frequent relations where parent and child node agree in `Case`:
-<tt>NOUN --[<tt><a href="fi_tdt-dep-amod.html">amod</a></tt>]--> ADJ</tt> (9215; 94%),
-<tt>NOUN --[<tt><a href="fi_tdt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (3451; 87%),
-<tt>NOUN --[<tt><a href="fi_tdt-dep-det.html">det</a></tt>]--> PRON</tt> (3061; 96%),
-<tt>NOUN --[<tt><a href="fi_tdt-dep-acl.html">acl</a></tt>]--> VERB</tt> (2987; 88%),
+<tt>NOUN --[<tt><a href="fi_tdt-dep-amod.html">amod</a></tt>]--> ADJ</tt> (9220; 94%),
+<tt>NOUN --[<tt><a href="fi_tdt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (3456; 87%),
+<tt>NOUN --[<tt><a href="fi_tdt-dep-det.html">det</a></tt>]--> PRON</tt> (3063; 96%),
+<tt>NOUN --[<tt><a href="fi_tdt-dep-acl.html">acl</a></tt>]--> VERB</tt> (2988; 88%),
 <tt>PROPN --[<tt><a href="fi_tdt-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (1819; 73%),
 <tt>PROPN --[<tt><a href="fi_tdt-dep-conj.html">conj</a></tt>]--> PROPN</tt> (818; 93%),
 <tt>PROPN --[<tt><a href="fi_tdt-dep-compound-nn.html">compound:nn</a></tt>]--> NOUN</tt> (609; 85%),

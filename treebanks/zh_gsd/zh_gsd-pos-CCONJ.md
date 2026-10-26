@@ -59,7 +59,7 @@ The 10 most frequent ambiguous types:  和 (<tt><a href="zh_gsd-pos-CCONJ.html">
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.004819).
+The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.004732).
 
 The 1st highest number of forms (1) was observed with the lemma “且”: 且.
 

@@ -57,7 +57,7 @@ The following 3 pairs of parts of speech are connected with `csubj`: <tt><a href
 7	jüged	jüged	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	1	ccomp	_	_
 8	opetas	opetas	VERB	_	VerbForm=Inf	7	csubj	_	_
 9	,	,	PUNCT	_	_	10	punct	_	_
-10	el'geta	el'geta	VERB	_	VerbForm=Inf	8	conj	_	_
+10	elʼgeta	elʼgeta	VERB	_	VerbForm=Inf	8	conj	_	_
 11	da	da	CCONJ	_	_	12	cc	_	_
 12	panda	panda	VERB	_	VerbForm=Inf	8	conj	_	_
 13	muštho	mušt	NOUN	_	Case=Ill|Number=Sing	12	obl	_	_
@@ -76,7 +76,7 @@ The following 3 pairs of parts of speech are connected with `csubj`: <tt><a href
 # visual-style 6 2 csubj	color:blue
 1	Ken	ken	PRON	_	Case=Nom|Number=Sing|PronType=Int	2	nsubj	_	_
 2	tuleb	tulda	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	csubj	_	_
-3	Päžarvehe	Päžar'	PROPN	_	Case=Ill|Number=Sing	2	obl	_	_
+3	Päžarvehe	Päžarʼ	PROPN	_	Case=Ill|Number=Sing	2	obl	_	_
 4	,	,	PUNCT	_	_	2	punct	_	_
 5	ka	ka	ADV	_	_	6	advmod	_	_
 6	kaičeb	kaita	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_

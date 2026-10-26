@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>много</em> (<tt><a href="ru_poet
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.420000 (the average of all parts of speech is 1.831021).
+The form / lemma ratio of `NUM` is 1.420000 (the average of all parts of speech is 1.831486).
 
 The 1st highest number of forms (6) was observed with the lemma “один”: <em>один, одна, одним, одно, одной, одну</em>.
 
@@ -59,11 +59,11 @@ The 2nd highest number of forms (4) was observed with the lemma “два”: <e
 
 The 3rd highest number of forms (4) was observed with the lemma “три”: <em>тремя, трех, три, трёх</em>.
 
-`NUM` occurs with 7 features: <tt><a href="ru_poetry-feat-NumForm.html">NumForm</a></tt> (252; 100% instances), <tt><a href="ru_poetry-feat-NumType.html">NumType</a></tt> (252; 100% instances), <tt><a href="ru_poetry-feat-Case.html">Case</a></tt> (206; 82% instances), <tt><a href="ru_poetry-feat-Gender.html">Gender</a></tt> (54; 21% instances), <tt><a href="ru_poetry-feat-Number.html">Number</a></tt> (22; 9% instances), <tt><a href="ru_poetry-feat-Animacy.html">Animacy</a></tt> (15; 6% instances), <tt><a href="ru_poetry-feat-Degree.html">Degree</a></tt> (1; 0% instances)
+`NUM` occurs with 7 features: <tt><a href="ru_poetry-feat-NumForm.html">NumForm</a></tt> (252; 100% instances), <tt><a href="ru_poetry-feat-NumType.html">NumType</a></tt> (252; 100% instances), <tt><a href="ru_poetry-feat-Case.html">Case</a></tt> (206; 82% instances), <tt><a href="ru_poetry-feat-Gender.html">Gender</a></tt> (61; 24% instances), <tt><a href="ru_poetry-feat-Number.html">Number</a></tt> (22; 9% instances), <tt><a href="ru_poetry-feat-Animacy.html">Animacy</a></tt> (15; 6% instances), <tt><a href="ru_poetry-feat-Degree.html">Degree</a></tt> (1; 0% instances)
 
 `NUM` occurs with 17 feature-value pairs: `Animacy=Anim`, `Animacy=Inan`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Ins`, `Case=Loc`, `Case=Nom`, `Degree=Cmp`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `NumForm=Digit`, `NumForm=Word`, `NumType=Card`, `NumType=Sets`, `Number=Sing`
 
-`NUM` occurs with 30 feature combinations.
+`NUM` occurs with 35 feature combinations.
 The most frequent feature combination is `Case=Nom|NumForm=Word|NumType=Card` (76 tokens).
 Examples: <em>много, три, сколько, четыре, сто, шесть, Пять, мало, немного, семнадцать</em>
 

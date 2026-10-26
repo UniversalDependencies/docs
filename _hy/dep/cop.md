@@ -5,16 +5,13 @@ shortdef: 'copula'
 udver: '2'
 ---
 
-A copula is the relation between the nominal predicate _(ստորոգելի)_ and
-the copular verb _<b>եմ</b>,_ “to be”. The verbs _դառնալ, թվալ, երևալ, ձևանալ, մնալ, հաշվել_ etc. “to become”, despite being counted among copular verbs by some authors (_վերադրառու բայեր, ստորոգելիական վերադիր_),
-are not analyzed as `cop`.
+A copula is the relation between a nominal predicate _(ստորոգելի)_ and the copular verb _<b>եմ</b>_ “to be”. The verbs _դառնալ_/_daṙnal_ “to become”, _թվալ_/_tʼval_ “to seem”, _երևալ_/_ereval_ “to appear”, _ձևանալ_/_jevanal_ “to pretend”, _մնալ_/_mnal_ “to stay”, _հաշվել_/_hašowel_ “to consider” etc., despite being counted among copular verbs by some authors (_վերադրառու բայեր, ստորոգելիական վերադիր_), are not analyzed as `cop`.
 
-We normally take a copula as a dependent of its complement (the nominal predicate).
-The nominal predicate is usually a [noun](NOUN), an [adjective](ADJ), a [pronoun](PRON)
-or a <a href="../feat/VerbForm.html#Part">participle</a>.
+We normally take a copula as a dependent of its complement, i.e. the nominal predicate.
+The nominal predicate is usually a [noun](NOUN), a [pronoun](PRON), an [adjective](ADJ), an [adverb](ADV), or an <a href="../feat/VerbForm.html#inf-infinitive">infinitive</a>.
 
 ~~~ sdparse
-Արամը ազնիվ մարդ է ։ \n Aram is honest man .
+Արամը ազնիվ մարդ է ։ \n Aram is an honest man .
 cop(մարդ, է)
 cop(man, is)
 ~~~
@@ -47,12 +44,12 @@ aux(բանաստեղծ, եղել)
 aux(poet, has)
 ~~~
 
-Note that subject participle and infinitive can also be used as nominal predicate with copula.
+Note that infinitive can also be used as nominal predicate with copula.
 
 ~~~ sdparse
-Նա հարբեցող է ։ \n He is a-drunkard .
-cop(հարբեցող, է)
-cop(a-drunkard, is)
+Որոնց նպատակը դիմացինին ոչնչացնելն է ։ \n Whose goal is to destroy the other person .
+cop(ոչնչացնելն, է)
+cop(to-destroy, is)
 ~~~
 
 The nominal predicate may also be expressed using a prepositional phrase, in which the nominal part is the head of the clause.
@@ -135,4 +132,4 @@ nsubj(the-table, The-book)
 case(սեղանի, վրա)
 case(the-table, on)
 ~~~
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:42 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:55 CEST -->

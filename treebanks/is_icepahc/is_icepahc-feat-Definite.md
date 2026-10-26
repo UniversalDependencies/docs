@@ -9,21 +9,21 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Def`, `Ind`.
 
-234817 tokens (24%) have a non-empty value of `Definite`.
-54002 types (82%) occur at least once with a non-empty value of `Definite`.
-29132 lemmas (83%) occur at least once with a non-empty value of `Definite`.
-The feature is used with 16 part-of-speech tags: <tt><a href="is_icepahc-pos-NOUN.html">NOUN</a></tt> (142559; 14% instances), <tt><a href="is_icepahc-pos-PROPN.html">PROPN</a></tt> (38212; 4% instances), <tt><a href="is_icepahc-pos-ADJ.html">ADJ</a></tt> (33565; 3% instances), <tt><a href="is_icepahc-pos-DET.html">DET</a></tt> (7581; 1% instances), <tt><a href="is_icepahc-pos-VERB.html">VERB</a></tt> (6945; 1% instances), <tt><a href="is_icepahc-pos-ADV.html">ADV</a></tt> (2955; 0% instances), <tt><a href="is_icepahc-pos-PRON.html">PRON</a></tt> (1318; 0% instances), <tt><a href="is_icepahc-pos-AUX.html">AUX</a></tt> (821; 0% instances), <tt><a href="is_icepahc-pos-NUM.html">NUM</a></tt> (414; 0% instances), <tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (180; 0% instances), <tt><a href="is_icepahc-pos-X.html">X</a></tt> (159; 0% instances), <tt><a href="is_icepahc-pos-CCONJ.html">CCONJ</a></tt> (56; 0% instances), <tt><a href="is_icepahc-pos-INTJ.html">INTJ</a></tt> (20; 0% instances), <tt><a href="is_icepahc-pos-SCONJ.html">SCONJ</a></tt> (18; 0% instances), <tt><a href="is_icepahc-pos-PART.html">PART</a></tt> (7; 0% instances), <tt><a href="is_icepahc-pos-PUNCT.html">PUNCT</a></tt> (7; 0% instances).
+234115 tokens (24%) have a non-empty value of `Definite`.
+53722 types (82%) occur at least once with a non-empty value of `Definite`.
+29028 lemmas (83%) occur at least once with a non-empty value of `Definite`.
+The feature is used with 16 part-of-speech tags: <tt><a href="is_icepahc-pos-NOUN.html">NOUN</a></tt> (142557; 14% instances), <tt><a href="is_icepahc-pos-PROPN.html">PROPN</a></tt> (38212; 4% instances), <tt><a href="is_icepahc-pos-ADJ.html">ADJ</a></tt> (33568; 3% instances), <tt><a href="is_icepahc-pos-DET.html">DET</a></tt> (7581; 1% instances), <tt><a href="is_icepahc-pos-VERB.html">VERB</a></tt> (6244; 1% instances), <tt><a href="is_icepahc-pos-ADV.html">ADV</a></tt> (2954; 0% instances), <tt><a href="is_icepahc-pos-PRON.html">PRON</a></tt> (1316; 0% instances), <tt><a href="is_icepahc-pos-AUX.html">AUX</a></tt> (821; 0% instances), <tt><a href="is_icepahc-pos-NUM.html">NUM</a></tt> (415; 0% instances), <tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (180; 0% instances), <tt><a href="is_icepahc-pos-X.html">X</a></tt> (159; 0% instances), <tt><a href="is_icepahc-pos-CCONJ.html">CCONJ</a></tt> (56; 0% instances), <tt><a href="is_icepahc-pos-INTJ.html">INTJ</a></tt> (20; 0% instances), <tt><a href="is_icepahc-pos-SCONJ.html">SCONJ</a></tt> (18; 0% instances), <tt><a href="is_icepahc-pos-PART.html">PART</a></tt> (7; 0% instances), <tt><a href="is_icepahc-pos-PUNCT.html">PUNCT</a></tt> (7; 0% instances).
 
 ### `NOUN`
 
-142559 <tt><a href="is_icepahc-pos-NOUN.html">NOUN</a></tt> tokens (98% of all `NOUN` tokens) have a non-empty value of `Definite`.
+142557 <tt><a href="is_icepahc-pos-NOUN.html">NOUN</a></tt> tokens (98% of all `NOUN` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `NOUN` and `Definite` co-occurred: <tt><a href="is_icepahc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (105590; 74%).
+The most frequent other feature values with which `NOUN` and `Definite` co-occurred: <tt><a href="is_icepahc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (105589; 74%).
 
 `NOUN` tokens may have the following values of `Definite`:
 
 * `Def` (28826; 20% of non-empty `Definite`): <em>daginn, fólkið, veturinn, keisarinn, maðurinn, nóttina, borginni, málið, höfuðið, landið</em>
-* `Ind` (113733; 80% of non-empty `Definite`): <em>menn, maður, konungur, manna, biskup, mönnum, orð, dag, móti, tíma</em>
+* `Ind` (113731; 80% of non-empty `Definite`): <em>menn, maður, konungur, manna, biskup, mönnum, orð, dag, móti, tíma</em>
 * `EMPTY` (3322): <em>stundum, móti, mót, megin, sinn, hundruð, sökum, kap., heima, sakir</em>
 
 <table>
@@ -70,19 +70,19 @@ The most frequent other feature values with which `PROPN` and `Definite` co-occu
   <tr><td><tt><tt><a href="is_icepahc-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="is_icepahc-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="is_icepahc-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>Guðin</em></td></tr>
 </table>
 
-`Definite` seems to be **lexical feature** of `PROPN`. 96% lemmas (4460) occur only with one value of `Definite`.
+`Definite` seems to be **lexical feature** of `PROPN`. 96% lemmas (4458) occur only with one value of `Definite`.
 
 ### `ADJ`
 
-33565 <tt><a href="is_icepahc-pos-ADJ.html">ADJ</a></tt> tokens (90% of all `ADJ` tokens) have a non-empty value of `Definite`.
+33568 <tt><a href="is_icepahc-pos-ADJ.html">ADJ</a></tt> tokens (90% of all `ADJ` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `ADJ` and `Definite` co-occurred: <tt><a href="is_icepahc-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (27202; 81%), <tt><a href="is_icepahc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (25859; 77%), <tt><a href="is_icepahc-feat-Case.html">Case</a></tt><tt>=Nom</tt> (18213; 54%).
+The most frequent other feature values with which `ADJ` and `Definite` co-occurred: <tt><a href="is_icepahc-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (27205; 81%), <tt><a href="is_icepahc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (25860; 77%), <tt><a href="is_icepahc-feat-Case.html">Case</a></tt><tt>=Nom</tt> (18213; 54%).
 
 `ADJ` tokens may have the following values of `Definite`:
 
 * `Def` (7241; 22% of non-empty `Definite`): <em>fyrsta, fyrstu, þriðja, næsta, betra, heilaga, sæla, góða, fyrri, gamla</em>
-* `Ind` (26324; 78% of non-empty `Definite`): <em>gott, satt, góður, stór, góð, góðum, gamall, góða, dauður, góðan</em>
-* `EMPTY` (3593): <em>sama, sömu, eigin, sami, nær, 1., eins, langt, víst, lengi</em>
+* `Ind` (26327; 78% of non-empty `Definite`): <em>gott, satt, góður, stór, góð, góðum, gamall, góða, dauður, góðan</em>
+* `EMPTY` (3595): <em>sama, sömu, eigin, sami, nær, 1., eins, langt, víst, lengi</em>
 
 <table>
   <tr><th>Paradigm <i>góður</i></th><th><tt>Ind</tt></th><th><tt>Def</tt></th></tr>
@@ -182,15 +182,15 @@ The most frequent other feature values with which `DET` and `Definite` co-occurr
 
 ### `VERB`
 
-6945 <tt><a href="is_icepahc-pos-VERB.html">VERB</a></tt> tokens (5% of all `VERB` tokens) have a non-empty value of `Definite`.
+6244 <tt><a href="is_icepahc-pos-VERB.html">VERB</a></tt> tokens (5% of all `VERB` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `VERB` and `Definite` co-occurred: <tt><a href="is_icepahc-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (6945; 100%), <tt><a href="is_icepahc-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (6945; 100%), <tt><a href="is_icepahc-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (6945; 100%), <tt><a href="is_icepahc-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (6945; 100%), <tt><a href="is_icepahc-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (6945; 100%), <tt><a href="is_icepahc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5375; 77%), <tt><a href="is_icepahc-feat-Case.html">Case</a></tt><tt>=Nom</tt> (4430; 64%).
+The most frequent other feature values with which `VERB` and `Definite` co-occurred: <tt><a href="is_icepahc-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (6244; 100%), <tt><a href="is_icepahc-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (6244; 100%), <tt><a href="is_icepahc-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (6244; 100%), <tt><a href="is_icepahc-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (6244; 100%), <tt><a href="is_icepahc-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (6244; 100%), <tt><a href="is_icepahc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4939; 79%), <tt><a href="is_icepahc-feat-Case.html">Case</a></tt><tt>=Nom</tt> (3945; 63%).
 
 `VERB` tokens may have the following values of `Definite`:
 
-* `Def` (850; 12% of non-empty `Definite`): <em>orðið, heitið, liðið, boðið, kunni, orðin, svarið, blessaða, heita, sagða</em>
-* `Ind` (6095; 88% of non-empty `Definite`): <em>búið, búinn, segjandi, búin, búnir, höggur, fallinn, leið, kömur, ger</em>
-* `EMPTY` (121743): <em>sagði, segir, kom, mælti, fór, tók, varð, gekk, fara, sjá</em>
+* `Def` (779; 12% of non-empty `Definite`): <em>orðið, heitið, liðið, boðið, kunni, orðin, blessaða, heita, sagða, svarið</em>
+* `Ind` (5465; 88% of non-empty `Definite`): <em>búið, búinn, segjandi, búin, búnir, fallinn, höggur, leið, ger, búnu</em>
+* `EMPTY` (122445): <em>sagði, segir, kom, mælti, fór, tók, varð, gekk, fara, sjá</em>
 
 <table>
   <tr><th>Paradigm <i>segja</i></th><th><tt>Ind</tt></th><th><tt>Def</tt></th></tr>
@@ -203,7 +203,6 @@ The most frequent other feature values with which `VERB` and `Definite` co-occur
   <tr><td><tt><tt><a href="is_icepahc-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="is_icepahc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="is_icepahc-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>segjanda</em></td><td></td></tr>
   <tr><td><tt><tt><a href="is_icepahc-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="is_icepahc-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="is_icepahc-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>sögu, sögðu</em></td><td></td></tr>
   <tr><td><tt><tt><a href="is_icepahc-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="is_icepahc-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="is_icepahc-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>segi</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="is_icepahc-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="is_icepahc-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="is_icepahc-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>segða</em></td><td></td></tr>
   <tr><td><tt><tt><a href="is_icepahc-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="is_icepahc-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="is_icepahc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="is_icepahc-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>sögðu</em></td></tr>
   <tr><td><tt><tt><a href="is_icepahc-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="is_icepahc-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="is_icepahc-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="is_icepahc-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>sagða</em></td></tr>
   <tr><td><tt><tt><a href="is_icepahc-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="is_icepahc-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="is_icepahc-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="is_icepahc-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>sagða</em></td></tr>
@@ -213,13 +212,13 @@ The most frequent other feature values with which `VERB` and `Definite` co-occur
 
 ### `ADV`
 
-2955 <tt><a href="is_icepahc-pos-ADV.html">ADV</a></tt> tokens (4% of all `ADV` tokens) have a non-empty value of `Definite`.
+2954 <tt><a href="is_icepahc-pos-ADV.html">ADV</a></tt> tokens (4% of all `ADV` tokens) have a non-empty value of `Definite`.
 
 `ADV` tokens may have the following values of `Definite`:
 
 * `Def` (609; 21% of non-empty `Definite`): <em>fyrri, einnin, hverninn, einasta, eina, hvörnin, hvörninn, þannin, þanninn, næsta</em>
-* `Ind` (2346; 79% of non-empty `Definite`): <em>aldri, aldregi, mikið, langt, mikill, einn, braut, hart, jafnsnart, hvörsu</em>
-* `EMPTY` (76064): <em>þá, svo, þar, ekki, nú, eigi, þó, hér, síðan, og</em>
+* `Ind` (2345; 79% of non-empty `Definite`): <em>aldri, aldregi, mikið, langt, mikill, einn, braut, hart, jafnsnart, hvörsu</em>
+* `EMPTY` (76065): <em>þá, svo, þar, ekki, nú, eigi, þó, hér, síðan, og</em>
 
 <table>
   <tr><th>Paradigm <i>vel</i></th><th><tt>Ind</tt></th><th><tt>Def</tt></th></tr>
@@ -232,15 +231,15 @@ The most frequent other feature values with which `VERB` and `Definite` co-occur
 
 ### `PRON`
 
-1318 <tt><a href="is_icepahc-pos-PRON.html">PRON</a></tt> tokens (1% of all `PRON` tokens) have a non-empty value of `Definite`.
+1316 <tt><a href="is_icepahc-pos-PRON.html">PRON</a></tt> tokens (1% of all `PRON` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `PRON` and `Definite` co-occurred: <tt><a href="is_icepahc-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1318; 100%), <tt><a href="is_icepahc-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (1318; 100%), <tt><a href="is_icepahc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (844; 64%).
+The most frequent other feature values with which `PRON` and `Definite` co-occurred: <tt><a href="is_icepahc-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1316; 100%), <tt><a href="is_icepahc-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (1316; 100%), <tt><a href="is_icepahc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (842; 64%).
 
 `PRON` tokens may have the following values of `Definite`:
 
 * `Def` (125; 9% of non-empty `Definite`): <em>minni, soddan, minna, þeirra, vorar, Sjálfan, min, okkarn, soddann, svoddan</em>
-* `Ind` (1193; 91% of non-empty `Definite`): <em>hönum, vor, hvör, mitt, vorum, sinni, soddan, vær, annað, þeira</em>
-* `EMPTY` (119019): <em>hann, það, þeir, því, þú, eg, ég, honum, hans, hún</em>
+* `Ind` (1191; 91% of non-empty `Definite`): <em>hönum, vor, hvör, mitt, vorum, sinni, soddan, vær, annað, þeira</em>
+* `EMPTY` (119021): <em>hann, það, þeir, því, þú, eg, ég, honum, hans, hún</em>
 
 <table>
   <tr><th>Paradigm <i>hann</i></th><th><tt>Ind</tt></th><th><tt>Def</tt></th></tr>
@@ -274,7 +273,7 @@ The most frequent other feature values with which `AUX` and `Definite` co-occurr
 
 * `Def` (67; 8% of non-empty `Definite`): <em>vilið, hafið, vóru, vilda, verðið, væra, myni, mynið, séið, fingu</em>
 * `Ind` (754; 92% of non-empty `Definite`): <em>mun, em, skyldu, vera, vóru, var, vilja, skyli, muni, vil</em>
-* `EMPTY` (50430): <em>var, er, voru, hafði, vera, væri, hafa, eru, verið, mun</em>
+* `EMPTY` (50423): <em>var, er, voru, hafði, vera, væri, hafa, eru, verið, mun</em>
 
 <table>
   <tr><th>Paradigm <i>vera</i></th><th><tt>Ind</tt></th><th><tt>Def</tt></th></tr>
@@ -310,14 +309,14 @@ The most frequent other feature values with which `AUX` and `Definite` co-occurr
 
 ### `NUM`
 
-414 <tt><a href="is_icepahc-pos-NUM.html">NUM</a></tt> tokens (9% of all `NUM` tokens) have a non-empty value of `Definite`.
+415 <tt><a href="is_icepahc-pos-NUM.html">NUM</a></tt> tokens (9% of all `NUM` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `NUM` and `Definite` co-occurred: <tt><a href="is_icepahc-feat-NumType.html">NumType</a></tt><tt>=EMPTY</tt> (414; 100%), <tt><a href="is_icepahc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (312; 75%).
+The most frequent other feature values with which `NUM` and `Definite` co-occurred: <tt><a href="is_icepahc-feat-NumType.html">NumType</a></tt><tt>=EMPTY</tt> (415; 100%), <tt><a href="is_icepahc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (312; 75%).
 
 `NUM` tokens may have the following values of `Definite`:
 
 * `Def` (31; 7% of non-empty `Definite`): <em>hvorntveggja, hálfa, hvortveggi, þrjátigi, 1., 11., 4., 8., 9., Hvortveggja</em>
-* `Ind` (383; 93% of non-empty `Definite`): <em>hálft, hvorirtveggju, hálfan, hálfum, ij, hálfu, iij, hálfa, hálfs, hálfur</em>
+* `Ind` (384; 93% of non-empty `Definite`): <em>hálft, hvorirtveggju, hálfan, hálfum, ij, hálfu, iij, hálfa, hálfs, hálfur</em>
 * `EMPTY` (3998): <em>tveir, tólf, tvo, fimm, tvö, sex, þrír, þrjú, sjö, þrjá</em>
 
 <table>
@@ -327,6 +326,7 @@ The most frequent other feature values with which `NUM` and `Definite` co-occurr
   <tr><td><tt><tt><a href="is_icepahc-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="is_icepahc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="is_icepahc-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>iiii</em></td><td></td></tr>
   <tr><td><tt><tt><a href="is_icepahc-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="is_icepahc-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="is_icepahc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="is_icepahc-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>fjögra</em></td><td></td></tr>
   <tr><td><tt><tt><a href="is_icepahc-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="is_icepahc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="is_icepahc-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>fjögra</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="is_icepahc-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="is_icepahc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="is_icepahc-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>iiijar</em></td><td></td></tr>
   <tr><td><tt><tt><a href="is_icepahc-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="is_icepahc-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="is_icepahc-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>Fjóra</em></td><td></td></tr>
   <tr><td><tt><tt><a href="is_icepahc-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="is_icepahc-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="is_icepahc-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>iiij</em></td><td></td></tr>
 </table>
@@ -380,7 +380,7 @@ The most frequent other feature values with which `X` and `Definite` co-occurred
   <tr><td><tt><tt><a href="is_icepahc-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="is_icepahc-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>sanktus, sankti</em></td><td></td></tr>
 </table>
 
-`Definite` seems to be **lexical feature** of `X`. 96% lemmas (110) occur only with one value of `Definite`.
+`Definite` seems to be **lexical feature** of `X`. 96% lemmas (109) occur only with one value of `Definite`.
 
 ### `CCONJ`
 
@@ -419,7 +419,7 @@ The most frequent other feature values with which `X` and `Definite` co-occurred
 `SCONJ` tokens may have the following values of `Definite`:
 
 * `Ind` (18; 100% of non-empty `Definite`): <em>hvört, hvör, ein, em, er, hvatki, hvörju, hvörjum, hvörn, hvörri</em>
-* `EMPTY` (41871): <em>að, sem, er, en, ef, þegar, þó, nema, hvort, meðan</em>
+* `EMPTY` (41873): <em>að, sem, er, en, ef, þegar, þó, nema, hvort, meðan</em>
 
 ### `PART`
 
@@ -443,14 +443,14 @@ The most frequent other feature values with which `X` and `Definite` co-occurred
 ## Relations with Agreement in `Definite`
 
 The 10 most frequent relations where parent and child node agree in `Definite`:
-<tt>NOUN --[<tt><a href="is_icepahc-dep-amod.html">amod</a></tt>]--> ADJ</tt> (10681; 67%),
-<tt>NOUN --[<tt><a href="is_icepahc-dep-conj.html">conj</a></tt>]--> NOUN</tt> (8252; 91%),
+<tt>NOUN --[<tt><a href="is_icepahc-dep-amod.html">amod</a></tt>]--> ADJ</tt> (10686; 67%),
+<tt>NOUN --[<tt><a href="is_icepahc-dep-conj.html">conj</a></tt>]--> NOUN</tt> (8288; 91%),
 <tt>NOUN --[<tt><a href="is_icepahc-dep-nmod-poss.html">nmod:poss</a></tt>]--> NOUN</tt> (4642; 62%),
 <tt>NOUN --[<tt><a href="is_icepahc-dep-nmod-poss.html">nmod:poss</a></tt>]--> PROPN</tt> (3579; 85%),
-<tt>NOUN --[<tt><a href="is_icepahc-dep-obl.html">obl</a></tt>]--> NOUN</tt> (3311; 73%),
+<tt>NOUN --[<tt><a href="is_icepahc-dep-obl.html">obl</a></tt>]--> NOUN</tt> (3307; 73%),
 <tt>PROPN --[<tt><a href="is_icepahc-dep-appos.html">appos</a></tt>]--> NOUN</tt> (3230; 90%),
 <tt>PROPN --[<tt><a href="is_icepahc-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (2887; 89%),
 <tt>ADJ --[<tt><a href="is_icepahc-dep-amod.html">amod</a></tt>]--> ADJ</tt> (2058; 88%),
-<tt>ADJ --[<tt><a href="is_icepahc-dep-obl.html">obl</a></tt>]--> NOUN</tt> (1326; 67%),
+<tt>ADJ --[<tt><a href="is_icepahc-dep-obl.html">obl</a></tt>]--> NOUN</tt> (1325; 67%),
 <tt>PROPN --[<tt><a href="is_icepahc-dep-dep.html">dep</a></tt>]--> PROPN</tt> (1077; 89%).
 

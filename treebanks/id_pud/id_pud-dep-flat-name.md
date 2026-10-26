@@ -25,7 +25,7 @@ The following 1 pairs of parts of speech are connected with `flat:name`: <tt><a 
 # visual-style 7 8 flat:name	color:blue
 1	Ia	ia	PRON	_	Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
 2	lalu	lalu	SCONJ	_	_	3	mark	_	_
-3	bekerja	kerja	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
+3	bekerja	kerja	VERB	_	Voice=Act	0	root	_	_
 4	empat	empat	NUM	_	NumType=Card	5	nummod	_	_
 5	tahun	tahun	NOUN	_	Number=Sing	3	obl:tmod	_	_
 6	di	di	ADP	_	_	7	case	_	_

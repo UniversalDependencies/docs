@@ -6,16 +6,16 @@ udver: '2'
 
 ## Treebank Statistics: UD_French-ParTUT: POS Tags: `AUX`
 
-There are 3 `AUX` lemmas (0%), 44 `AUX` types (1%) and 847 `AUX` tokens (3%).
-Out of 17 observed tags, the rank of `AUX` is: 14 in number of lemmas, 10 in number of types and 10 in number of tokens.
+There are 3 `AUX` lemmas (0%), 44 `AUX` types (1%) and 849 `AUX` tokens (3%).
+Out of 17 observed tags, the rank of `AUX` is: 14 in number of lemmas, 8 in number of types and 10 in number of tokens.
 
 The 10 most frequent `AUX` lemmas: <em>être, avoir, faire</em>
 
-The 10 most frequent `AUX` types:  <em>est, a, sont, être, été, ont, sera, soit, soient, étaient</em>
+The 10 most frequent `AUX` types:  <em>est, a, sont, être, été, ont, soit, sera, soient, étaient</em>
 
-The 10 most frequent ambiguous lemmas: <em>être</em> (<tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> 595, <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> 36, <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> 2), <em>avoir</em> (<tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> 239, <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> 114), <em>faire</em> (<tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> 68, <tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> 13, <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>être</em> (<tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> 597, <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> 34, <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> 2), <em>avoir</em> (<tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> 239, <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> 114), <em>faire</em> (<tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> 68, <tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> 13, <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>est</em> (<tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> 224, <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> 23, <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> 2), <em>a</em> (<tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> 114, <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> 56, <tt><a href="fr_partut-pos-ADP.html">ADP</a></tt> 1, <tt><a href="fr_partut-pos-X.html">X</a></tt> 1), <em>sont</em> (<tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> 90, <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> 1), <em>être</em> (<tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> 72, <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> 3), <em>été</em> (<tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> 70, <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> 2), <em>ont</em> (<tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> 60, <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> 17), <em>soit</em> (<tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> 18, <tt><a href="fr_partut-pos-CCONJ.html">CCONJ</a></tt> 6, <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> 3), <em>suis</em> (<tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> 13, <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> 1), <em>était</em> (<tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> 13, <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> 1), <em>étant</em> (<tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> 8, <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> 2)
+The 10 most frequent ambiguous types:  <em>est</em> (<tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> 224, <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> 23, <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> 2), <em>a</em> (<tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> 114, <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> 56, <tt><a href="fr_partut-pos-ADP.html">ADP</a></tt> 1, <tt><a href="fr_partut-pos-X.html">X</a></tt> 1), <em>sont</em> (<tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> 90, <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> 1), <em>être</em> (<tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> 72, <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> 3), <em>été</em> (<tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> 70, <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> 2), <em>ont</em> (<tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> 60, <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> 17), <em>soit</em> (<tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> 20, <tt><a href="fr_partut-pos-CCONJ.html">CCONJ</a></tt> 6, <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> 1), <em>suis</em> (<tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> 13, <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> 1), <em>était</em> (<tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> 13, <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> 1), <em>étant</em> (<tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> 8, <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> 2)
 
 
 * <em>est</em>
@@ -40,9 +40,9 @@ The 10 most frequent ambiguous types:  <em>est</em> (<tt><a href="fr_partut-pos-
   * <tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> 60: <em>Et ils <b>ont</b> existé pendant des dizaines de millions d' années .</em>
   * <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> 17: <em>Les champignons <b>ont</b> une croissance très rapide .</em>
 * <em>soit</em>
-  * <tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> 18: <em>C' est pourquoi j' ai proposé que la limite <b>soit</b> abaissée à -40º .</em>
+  * <tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> 20: <em>C' est pourquoi j' ai proposé que la limite <b>soit</b> abaissée à -40º .</em>
   * <tt><a href="fr_partut-pos-CCONJ.html">CCONJ</a></tt> 6: <em>Elles vont <b>soit</b> se débarrasser de leur cargaison , <b>soit</b> elles vont la mélanger avec d' autres cargaisons , ce qui engendre une série de problèmes .</em>
-  * <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> 3: <em>Tout individu a droit à la liberté d' opinion et d' expression , ce qui implique le droit de ne pas être inquiété pour ses opinions et celui de chercher , de recevoir et de répandre , sans considérations de frontières , les informations et les idées par quelque moyen d' expression que ce <b>soit</b> .</em>
+  * <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> 1: <em>Tout individu a droit à la liberté d' opinion et d' expression , ce qui implique le droit de ne pas être inquiété pour ses opinions et celui de chercher , de recevoir et de répandre , sans considérations de frontières , les informations et les idées par quelque moyen d' expression que ce <b>soit</b> .</em>
 * <em>suis</em>
   * <tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> 13: <em>Je <b>suis</b> amoureux de les forêts anciennes , et je <b>suis</b> un patriote américain parce que nous en avons .</em>
   * <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> 1: <em>Et franchement , je <b>suis</b> face à un obstacle majeur :</em>
@@ -55,7 +55,7 @@ The 10 most frequent ambiguous types:  <em>est</em> (<tt><a href="fr_partut-pos-
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 14.666667 (the average of all parts of speech is 1.455030).
+The form / lemma ratio of `AUX` is 14.666667 (the average of all parts of speech is 1.464850).
 
 The 1st highest number of forms (20) was observed with the lemma “avoir”: <em>a, ai, aient, ait, aurai, aurais, aurait, aurions, aurons, auront, avaient, avais, avait, avez, avions, avoir, avons, ayant, ayons, ont</em>.
 
@@ -63,7 +63,7 @@ The 2nd highest number of forms (18) was observed with the lemma “être”: <e
 
 The 3rd highest number of forms (6) was observed with the lemma “faire”: <em>Faites, faire, faisaient, faisant, fait, font</em>.
 
-`AUX` occurs with 6 features: <tt><a href="fr_partut-feat-VerbForm.html">VerbForm</a></tt> (846; 100% instances), <tt><a href="fr_partut-feat-Tense.html">Tense</a></tt> (763; 90% instances), <tt><a href="fr_partut-feat-Number.html">Number</a></tt> (750; 89% instances), <tt><a href="fr_partut-feat-Person.html">Person</a></tt> (677; 80% instances), <tt><a href="fr_partut-feat-Mood.html">Mood</a></tt> (676; 80% instances), <tt><a href="fr_partut-feat-Gender.html">Gender</a></tt> (70; 8% instances)
+`AUX` occurs with 6 features: <tt><a href="fr_partut-feat-VerbForm.html">VerbForm</a></tt> (848; 100% instances), <tt><a href="fr_partut-feat-Tense.html">Tense</a></tt> (765; 90% instances), <tt><a href="fr_partut-feat-Number.html">Number</a></tt> (752; 89% instances), <tt><a href="fr_partut-feat-Person.html">Person</a></tt> (679; 80% instances), <tt><a href="fr_partut-feat-Mood.html">Mood</a></tt> (678; 80% instances), <tt><a href="fr_partut-feat-Gender.html">Gender</a></tt> (70; 8% instances)
 
 `AUX` occurs with 17 feature-value pairs: `Gender=Masc`, `Mood=Cnd`, `Mood=Imp`, `Mood=Ind`, `Mood=Sub`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Tense=Fut`, `Tense=Imp`, `Tense=Past`, `Tense=Pres`, `VerbForm=Fin`, `VerbForm=Inf`, `VerbForm=Part`
 
@@ -74,21 +74,21 @@ Examples: <em>est, a, fait</em>
 
 ## Relations
 
-`AUX` nodes are attached to their parents using 5 different relations: <tt><a href="fr_partut-dep-cop.html">cop</a></tt> (307; 36% instances), <tt><a href="fr_partut-dep-aux.html">aux</a></tt> (285; 34% instances), <tt><a href="fr_partut-dep-aux-pass.html">aux:pass</a></tt> (241; 28% instances), <tt><a href="fr_partut-dep-aux-caus.html">aux:caus</a></tt> (13; 2% instances), <tt><a href="fr_partut-dep-acl-relcl.html">acl:relcl</a></tt> (1; 0% instances)
+`AUX` nodes are attached to their parents using 5 different relations: <tt><a href="fr_partut-dep-cop.html">cop</a></tt> (311; 37% instances), <tt><a href="fr_partut-dep-aux.html">aux</a></tt> (283; 33% instances), <tt><a href="fr_partut-dep-aux-pass.html">aux:pass</a></tt> (241; 28% instances), <tt><a href="fr_partut-dep-aux-caus.html">aux:caus</a></tt> (13; 2% instances), <tt><a href="fr_partut-dep-acl-relcl.html">acl:relcl</a></tt> (1; 0% instances)
 
-Parents of `AUX` nodes belong to 8 different parts of speech: <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> (534; 63% instances), <tt><a href="fr_partut-pos-ADJ.html">ADJ</a></tt> (143; 17% instances), <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> (140; 17% instances), <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> (24; 3% instances), <tt><a href="fr_partut-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="fr_partut-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="fr_partut-pos-NUM.html">NUM</a></tt> (1; 0% instances)
+Parents of `AUX` nodes belong to 8 different parts of speech: <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> (532; 63% instances), <tt><a href="fr_partut-pos-ADJ.html">ADJ</a></tt> (146; 17% instances), <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> (140; 16% instances), <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> (24; 3% instances), <tt><a href="fr_partut-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="fr_partut-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="fr_partut-pos-NUM.html">NUM</a></tt> (1; 0% instances)
 
-836 (99%) `AUX` nodes are leaves.
+840 (99%) `AUX` nodes are leaves.
 
 8 (1%) `AUX` nodes have one child.
 
 0 (0%) `AUX` nodes have two children.
 
-3 (0%) `AUX` nodes have three or more children.
+1 (0%) `AUX` nodes have three or more children.
 
 The highest child degree of a `AUX` node is 3.
 
-Children of `AUX` nodes are attached using 6 different relations: <tt><a href="fr_partut-dep-fixed.html">fixed</a></tt> (6; 35% instances), <tt><a href="fr_partut-dep-advmod.html">advmod</a></tt> (4; 24% instances), <tt><a href="fr_partut-dep-punct.html">punct</a></tt> (4; 24% instances), <tt><a href="fr_partut-dep-aux.html">aux</a></tt> (1; 6% instances), <tt><a href="fr_partut-dep-conj.html">conj</a></tt> (1; 6% instances), <tt><a href="fr_partut-dep-nsubj-pass.html">nsubj:pass</a></tt> (1; 6% instances)
+Children of `AUX` nodes are attached using 5 different relations: <tt><a href="fr_partut-dep-advmod.html">advmod</a></tt> (4; 36% instances), <tt><a href="fr_partut-dep-punct.html">punct</a></tt> (4; 36% instances), <tt><a href="fr_partut-dep-aux.html">aux</a></tt> (1; 9% instances), <tt><a href="fr_partut-dep-conj.html">conj</a></tt> (1; 9% instances), <tt><a href="fr_partut-dep-nsubj-pass.html">nsubj:pass</a></tt> (1; 9% instances)
 
-Children of `AUX` nodes belong to 8 different parts of speech: <tt><a href="fr_partut-pos-ADP.html">ADP</a></tt> (4; 24% instances), <tt><a href="fr_partut-pos-PART.html">PART</a></tt> (4; 24% instances), <tt><a href="fr_partut-pos-PUNCT.html">PUNCT</a></tt> (4; 24% instances), <tt><a href="fr_partut-pos-ADJ.html">ADJ</a></tt> (1; 6% instances), <tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> (1; 6% instances), <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> (1; 6% instances), <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> (1; 6% instances), <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> (1; 6% instances)
+Children of `AUX` nodes belong to 5 different parts of speech: <tt><a href="fr_partut-pos-PART.html">PART</a></tt> (4; 36% instances), <tt><a href="fr_partut-pos-PUNCT.html">PUNCT</a></tt> (4; 36% instances), <tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> (1; 9% instances), <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> (1; 9% instances), <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> (1; 9% instances)
 

@@ -11,23 +11,23 @@ It occurs with 5 different values: `Fut`, `Imp`, `Past`, `Pqp`, `Pres`.
 
 1860 tokens (8%) have a non-empty value of `Tense`.
 1014 types (17%) occur at least once with a non-empty value of `Tense`.
-509 lemmas (11%) occur at least once with a non-empty value of `Tense`.
+508 lemmas (11%) occur at least once with a non-empty value of `Tense`.
 The feature is used with 2 part-of-speech tags: <tt><a href="gl_pud-pos-VERB.html">VERB</a></tt> (1464; 6% instances), <tt><a href="gl_pud-pos-AUX.html">AUX</a></tt> (396; 2% instances).
 
 ### `VERB`
 
 1464 <tt><a href="gl_pud-pos-VERB.html">VERB</a></tt> tokens (65% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="gl_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1462; 100%), <tt><a href="gl_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (1457; 100%), <tt><a href="gl_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1374; 94%), <tt><a href="gl_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (1339; 91%), <tt><a href="gl_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1067; 73%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="gl_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1462; 100%), <tt><a href="gl_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (1457; 100%), <tt><a href="gl_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1375; 94%), <tt><a href="gl_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (1338; 91%), <tt><a href="gl_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1067; 73%).
 
 `VERB` tokens may have the following values of `Tense`:
 
 * `Fut` (32; 2% of non-empty `Tense`): <em>haberá, reducirá, terá, Avaliaremos, Botará, Xogarán, activarán, asistirán, axudará, cambiará</em>
 * `Imp` (203; 14% of non-empty `Tense`): <em>tiña, era, tiñan, había, quería, aparecía, dependía, dicía, entendía, estaba</em>
-* `Past` (651; 44% of non-empty `Tense`): <em>dixo, tivo, comezou, fixo, declarou, afirmou, converteu, lanzou, permitiu, decidiu</em>
-* `Pqp` (50; 3% of non-empty `Tense`): <em>deixaran, perdera, salvara, Conmovera, adestraran, afastara, anticiparan, aparecera, asinara, atacara</em>
+* `Past` (652; 45% of non-empty `Tense`): <em>dixo, tivo, comezou, fixo, declarou, afirmou, converteu, lanzou, permitiu, decidiu</em>
+* `Pqp` (49; 3% of non-empty `Tense`): <em>deixaran, perdera, salvara, Conmovera, adestraran, afastara, anticiparan, aparecera, asinara, atacara</em>
 * `Pres` (528; 36% of non-empty `Tense`): <em>hai, ten, é, teñen, di, inclúen, afirma, atopa, axuda, contén</em>
-* `EMPTY` (793): <em>facer, ver, ter, manter, axudar, debido, deixar, enviar, establecer, partir</em>
+* `EMPTY` (794): <em>facer, ver, ter, manter, axudar, debido, deixar, enviar, establecer, partir</em>
 
 <table>
   <tr><th>Paradigm <i>ter</i></th><th><tt>Pres</tt></th><th><tt>Fut</tt></th><th><tt>Past</tt></th><th><tt>Imp</tt></th><th><tt>Pqp</tt></th></tr>

@@ -34,7 +34,7 @@ The following 7 pairs of parts of speech are connected with `obl:arg`: <tt><a hr
 9	Beerdigung	Beerdigung	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing	6	obl:arg	_	_
 10	seines	sein	DET	DTP$	Case=Gen|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	11	det:poss	_	_
 11	Vaters	Vater	NOUN	NN	Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	_
-12	bei	bei	VERB	DC	_	6	compound:prt	_	SpaceAfter=No
+12	bei	bei	ADP	DC	_	6	compound:prt	_	SpaceAfter=No
 13	.	.	PUNCT	.	_	6	punct	_	_
 
 ~~~

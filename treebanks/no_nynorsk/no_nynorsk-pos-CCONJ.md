@@ -63,7 +63,7 @@ The 10 most frequent ambiguous types:  <em>og</em> (<tt><a href="no_nynorsk-pos-
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.176471 (the average of all parts of speech is 1.346455).
+The form / lemma ratio of `CCONJ` is 1.176471 (the average of all parts of speech is 1.346300).
 
 The 1st highest number of forms (4) was observed with the lemma “og”: <em>go, og, å, òg</em>.
 
@@ -84,15 +84,15 @@ Examples: <em>og, men, eller, både, så, for, anten, korkje, verken, &</em>
 
 `CCONJ` nodes are attached to their parents using 7 different relations: <tt><a href="no_nynorsk-dep-cc.html">cc</a></tt> (10848; 98% instances), <tt><a href="no_nynorsk-dep-flat-name.html">flat:name</a></tt> (227; 2% instances), <tt><a href="no_nynorsk-dep-root.html">root</a></tt> (5; 0% instances), <tt><a href="no_nynorsk-dep-conj.html">conj</a></tt> (4; 0% instances), <tt><a href="no_nynorsk-dep-flat.html">flat</a></tt> (2; 0% instances), <tt><a href="no_nynorsk-dep-compound.html">compound</a></tt> (1; 0% instances), <tt><a href="no_nynorsk-dep-parataxis.html">parataxis</a></tt> (1; 0% instances)
 
-Parents of `CCONJ` nodes belong to 15 different parts of speech: <tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt> (3980; 36% instances), <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt> (3849; 35% instances), <tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt> (1769; 16% instances), <tt><a href="no_nynorsk-pos-PROPN.html">PROPN</a></tt> (995; 9% instances), <tt><a href="no_nynorsk-pos-PRON.html">PRON</a></tt> (133; 1% instances), <tt><a href="no_nynorsk-pos-DET.html">DET</a></tt> (88; 1% instances), <tt><a href="no_nynorsk-pos-ADV.html">ADV</a></tt> (85; 1% instances), <tt><a href="no_nynorsk-pos-ADP.html">ADP</a></tt> (81; 1% instances), <tt><a href="no_nynorsk-pos-NUM.html">NUM</a></tt> (73; 1% instances), <tt><a href="no_nynorsk-pos-PART.html">PART</a></tt> (15; 0% instances), <tt><a href="no_nynorsk-pos-INTJ.html">INTJ</a></tt> (8; 0% instances),  (5; 0% instances), <tt><a href="no_nynorsk-pos-X.html">X</a></tt> (5; 0% instances), <tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="no_nynorsk-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances)
+Parents of `CCONJ` nodes belong to 15 different parts of speech: <tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt> (3982; 36% instances), <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt> (3849; 35% instances), <tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt> (1769; 16% instances), <tt><a href="no_nynorsk-pos-PROPN.html">PROPN</a></tt> (992; 9% instances), <tt><a href="no_nynorsk-pos-PRON.html">PRON</a></tt> (133; 1% instances), <tt><a href="no_nynorsk-pos-DET.html">DET</a></tt> (86; 1% instances), <tt><a href="no_nynorsk-pos-ADV.html">ADV</a></tt> (85; 1% instances), <tt><a href="no_nynorsk-pos-ADP.html">ADP</a></tt> (81; 1% instances), <tt><a href="no_nynorsk-pos-NUM.html">NUM</a></tt> (73; 1% instances), <tt><a href="no_nynorsk-pos-PART.html">PART</a></tt> (15; 0% instances), <tt><a href="no_nynorsk-pos-INTJ.html">INTJ</a></tt> (8; 0% instances), <tt><a href="no_nynorsk-pos-X.html">X</a></tt> (8; 0% instances),  (5; 0% instances), <tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="no_nynorsk-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances)
 
-11061 (100%) `CCONJ` nodes are leaves.
+11060 (100%) `CCONJ` nodes are leaves.
 
-27 (0%) `CCONJ` nodes have one child.
+28 (0%) `CCONJ` nodes have one child.
 
 The highest child degree of a `CCONJ` node is 1.
 
-Children of `CCONJ` nodes are attached using 3 different relations: <tt><a href="no_nynorsk-dep-punct.html">punct</a></tt> (25; 93% instances), <tt><a href="no_nynorsk-dep-cc.html">cc</a></tt> (1; 4% instances), <tt><a href="no_nynorsk-dep-conj.html">conj</a></tt> (1; 4% instances)
+Children of `CCONJ` nodes are attached using 3 different relations: <tt><a href="no_nynorsk-dep-punct.html">punct</a></tt> (26; 93% instances), <tt><a href="no_nynorsk-dep-cc.html">cc</a></tt> (1; 4% instances), <tt><a href="no_nynorsk-dep-conj.html">conj</a></tt> (1; 4% instances)
 
-Children of `CCONJ` nodes belong to 3 different parts of speech: <tt><a href="no_nynorsk-pos-PUNCT.html">PUNCT</a></tt> (25; 93% instances), <tt><a href="no_nynorsk-pos-CCONJ.html">CCONJ</a></tt> (1; 4% instances), <tt><a href="no_nynorsk-pos-SYM.html">SYM</a></tt> (1; 4% instances)
+Children of `CCONJ` nodes belong to 3 different parts of speech: <tt><a href="no_nynorsk-pos-PUNCT.html">PUNCT</a></tt> (26; 93% instances), <tt><a href="no_nynorsk-pos-CCONJ.html">CCONJ</a></tt> (1; 4% instances), <tt><a href="no_nynorsk-pos-SYM.html">SYM</a></tt> (1; 4% instances)
 

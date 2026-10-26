@@ -9,10 +9,10 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Yes`.
 
-4 tokens (0%) have a non-empty value of `Typo`.
-4 types (0%) occur at least once with a non-empty value of `Typo`.
-4 lemmas (0%) occur at least once with a non-empty value of `Typo`.
-The feature is used with 3 part-of-speech tags: <tt><a href="gu_gujtb-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="gu_gujtb-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="gu_gujtb-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
+3 tokens (0%) have a non-empty value of `Typo`.
+3 types (0%) occur at least once with a non-empty value of `Typo`.
+3 lemmas (0%) occur at least once with a non-empty value of `Typo`.
+The feature is used with 2 part-of-speech tags: <tt><a href="gu_gujtb-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="gu_gujtb-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
@@ -21,14 +21,6 @@ The feature is used with 3 part-of-speech tags: <tt><a href="gu_gujtb-pos-NOUN.h
 `NOUN` tokens may have the following values of `Typo`:
 
 * `Yes` (2; 100% of non-empty `Typo`): <em>ઝગડા, પ્રેમ</em>
-
-### `ADJ`
-
-1 <tt><a href="gu_gujtb-pos-ADJ.html">ADJ</a></tt> tokens (1% of all `ADJ` tokens) have a non-empty value of `Typo`.
-
-`ADJ` tokens may have the following values of `Typo`:
-
-* `Yes` (1; 100% of non-empty `Typo`): <em>ઘાસવાળો</em>
 
 ### `CCONJ`
 

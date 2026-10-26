@@ -22,11 +22,11 @@ The following 5 pairs of parts of speech are connected with `parataxis`: <tt><a 
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 6 parataxis	color:blue
-1	Elle	elle	PRON	PE	Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	nsubj:pass	_	_
+1	Elle	lui	PRON	PE	Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	nsubj:pass	_	_
 2	sera	être	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	8	aux:pass	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	2	punct	_	_
-4	je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
-5	l'	le	PRON	P	Number=Sing|Person=3|PronType=Prs	6	obj	_	SpaceAfter=No
+4	je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
+5	l'	lui	PRON	P	Number=Sing|Person=3|PronType=Prs	6	obj	_	SpaceAfter=No
 6	espère	espérer	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	parataxis	_	SpaceAfter=No
 7	,	,	PUNCT	FF	_	6	punct	_	_
 8	examinée	examiner	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
@@ -50,7 +50,7 @@ The following 5 pairs of parts of speech are connected with `parataxis`: <tt><a 
 3	après	après	ADP	E	_	5	mark	_	_
 4	avoir	avoir	AUX	VA	VerbForm=Inf	5	aux	_	_
 5	sevré	sevrer	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	acl	_	_
-6	leur	leur	DET	AP	Gender=Masc|Number=Sing|PronType=Prs	7	det	_	_
+6	leur	son	DET	AP	Gender=Masc|Number=Sing|PronType=Prs	7	det	_	_
 7	petit	petit	NOUN	S	Gender=Masc|Number=Sing	5	obj	_	SpaceAfter=No
 8	,	,	PUNCT	FF	_	2	punct	_	_
 9	une	un	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
@@ -69,7 +69,7 @@ The following 5 pairs of parts of speech are connected with `parataxis`: <tt><a 
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 11 parataxis	color:blue
-1	Certains	certain	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	5	nsubj	_	_
+1	Certains	certains	PRON	DI	Gender=Masc|Number=Plur|PronType=Ind	5	nsubj	_	_
 2	étaient	être	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
 3	de	de	ADP	E	_	5	case	_	_
 4	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_

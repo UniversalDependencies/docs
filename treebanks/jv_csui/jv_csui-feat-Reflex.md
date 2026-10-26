@@ -11,7 +11,7 @@ It occurs with 1 different values: `Yes`.
 
 3 tokens (0%) have a non-empty value of `Reflex`.
 2 types (0%) occur at least once with a non-empty value of `Reflex`.
-1 lemmas (0) occur at least once with a non-empty value of `Reflex`.
+2 lemmas (0%) occur at least once with a non-empty value of `Reflex`.
 The feature is used with 1 part-of-speech tags: <tt><a href="jv_csui-pos-PRON.html">PRON</a></tt> (3; 0% instances).
 
 ### `PRON`
@@ -23,5 +23,5 @@ The most frequent other feature values with which `PRON` and `Reflex` co-occurre
 `PRON` tokens may have the following values of `Reflex`:
 
 * `Yes` (3; 100% of non-empty `Reflex`): <em>diri, dhekne</em>
-* `EMPTY` (958): <em>sing, e, kang, aku, ku, ingkang, dak, dheweke, apa, mu</em>
+* `EMPTY` (957): <em>sing, e, kang, aku, ku, ingkang, dak, dheweke, apa, mu</em>
 

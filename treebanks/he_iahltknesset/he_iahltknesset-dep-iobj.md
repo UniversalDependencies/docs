@@ -8,91 +8,75 @@ udver: '2'
 
 This relation is universal.
 
-1 nodes (0%) are attached to their parents as `iobj`.
+7 nodes (0%) are attached to their parents as `iobj`.
 
-1 instances of `iobj` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.
+7 instances of `iobj` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.85714285714286.
 
-The following 1 pairs of parts of speech are connected with `iobj`: <tt><a href="he_iahltknesset-pos-VERB.html">VERB</a></tt>-<tt><a href="he_iahltknesset-pos-PRON.html">PRON</a></tt> (1; 100% instances).
+The following 2 pairs of parts of speech are connected with `iobj`: <tt><a href="he_iahltknesset-pos-VERB.html">VERB</a></tt>-<tt><a href="he_iahltknesset-pos-PRON.html">PRON</a></tt> (6; 86% instances), <tt><a href="he_iahltknesset-pos-VERB.html">VERB</a></tt>-<tt><a href="he_iahltknesset-pos-NOUN.html">NOUN</a></tt> (1; 14% instances).
 
 
 ~~~ conllu
-# visual-style 45	bgColor:blue
-# visual-style 45	fgColor:white
-# visual-style 44	bgColor:blue
-# visual-style 44	fgColor:white
-# visual-style 44 45 iobj	color:blue
-1	היא	הוא	PRON	PRON	Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
-2	גם	גם	ADV	ADV	_	3	advmod	_	_
-3	איבדה	איבד	VERB	VERB	Gender=Fem|HebBinyan=PIEL|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
-4	חלק	חלק	NOUN	NOUN	Gender=Masc|Number=Sing	3	obj	_	_
-5	נכבד	נכבד	ADJ	ADJ	Gender=Masc|Number=Sing	4	amod	_	_
-6	מ	מ	ADP	ADP	_	7	case	_	_
-7	משפחת	משפחה	NOUN	NOUN	Gender=Fem|Number=Sing	4	nmod	_	_
-8	ה	הוא	PRON	PRON	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	7	nmod:poss	_	_
-9	ב	ב	ADP	ADP	_	10	case	_	Entity=(GPE
-10	טרבלינקה	טרבלינקה	PROPN	PROPN	_	3	obl	_	Entity=GPE)
-11	ו	ו	CCONJ	CCONJ	_	13	cc	_	Entity=(GPE
-12	ב	ב	ADP	ADP	_	13	case	_	_
-13	מיידנק	מיידנק	PROPN	PROPN	_	10	conj	_	Entity=GPE)
-14	,	,	PUNCT	PUNCT	_	31	punct	_	_
-15	ו	ו	CCONJ	CCONJ	_	31	cc	_	_
-16	אף	אף	ADV	ADV	_	22	case	_	_
-17	-	-	PUNCT	PUNCT	_	16	punct	_	SpaceAfter=No
-18	על	על	ADP	ADP	_	16	fixed	_	SpaceAfter=No
-19	-	-	PUNCT	PUNCT	_	16	punct	_	SpaceAfter=No
-20	פי	פה	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	16	fixed	_	SpaceAfter=No
-21	-	-	PUNCT	PUNCT	_	22	punct	_	SpaceAfter=No
-22	כן	כן	PRON	PRON	Person=3|PronType=Dem	31	obl	_	SpaceAfter=No
-23	,	,	PUNCT	PUNCT	_	22	punct	_	_
-24	מ	מ	ADP	ADP	_	25	case	_	_
-25	רמץ	רמץ	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	31	obl	_	_
-26	ה	ה	DET	DET	Definite=Def|PronType=Art	27	det	_	_
-27	אפר	אפר	NOUN	NOUN	Gender=Masc|Number=Sing	25	compound	_	_
-28	ה	ה	DET	DET	Definite=Def|PronType=Art	29	det	_	_
-29	זה	זה	PRON	PRON	Gender=Masc|Number=Sing|Person=3|PronType=Dem	25	det	_	_
-30	היא	הוא	PRON	PRON	Gender=Fem|Number=Sing|Person=3|PronType=Prs	31	nsubj	_	_
-31	קמה	קם	VERB	VERB	Gender=Fem|HebBinyan=PAAL|Number=Sing|Person=3|Tense=Past|Voice=Act	3	conj	_	_
-32	בחזרה	בחזרה	ADV	ADV	_	31	advmod	_	SpaceAfter=No
-33	,	,	PUNCT	PUNCT	_	40	punct	_	_
-34	ו	ו	CCONJ	CCONJ	_	40	cc	_	_
-35	ב	ב	ADP	ADP	_	36	case	_	_
-36	ארץ	ארץ	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Sing	40	obl	_	_
-37	ה	ה	DET	DET	Definite=Def|PronType=Art	38	det	_	_
-38	חיים	חיים	NOUN	NOUN	Gender=Masc|Number=Plur	36	compound	_	_
-39	כאן	כאן	ADV	ADV	_	36	advmod	_	_
-40	הצליחה	הצליח	VERB	VERB	Gender=Fem|HebBinyan=HIFIL|Number=Sing|Person=3|Tense=Past|Voice=Act	31	conj	_	_
-41	לקבץ	קיבץ	VERB	VERB	HebBinyan=PIEL|VerbForm=Inf|Voice=Act	40	xcomp	_	_
-42	בנות	בת	NOUN	NOUN	Gender=Fem|Number=Plur	41	obj	_	_
-43	ו	ו	CCONJ	CCONJ	_	44	cc	_	_
-44	להשמיע	השמיע	VERB	VERB	HebBinyan=HIFIL|VerbForm=Inf|Voice=Act	41	conj	_	_
-45	ן	הוא	PRON	PRON	Case=Acc|Gender=Fem|Number=Plur|Person=3|PronType=Prs	44	iobj	_	_
-46	תורה	תורה	PROPN	PROPN	_	44	obj	_	Entity=(WOA)
-47	ו	ו	CCONJ	CCONJ	_	48	cc	_	_
-48	לחנך	חינך	VERB	VERB	HebBinyan=PIEL|VerbForm=Inf|Voice=Act	44	conj	_	_
-49	אות	את	ADP	ADP	Case=Acc	50	case	_	_
-50	ן	הוא	PRON	PRON	Gender=Fem|Number=Plur|Person=3|PronType=Prs	48	obj	_	_
-51	ל	ל	ADP	ADP	_	52	case	_	_
-52	תורה	תורה	PROPN	PROPN	_	48	obl	_	_
-53	ו	ו	CCONJ	CCONJ	_	54	cc	_	_
-54	טהרה	טהרה	NOUN	NOUN	Gender=Fem|Number=Sing	52	conj	_	_
-55	,	,	PUNCT	PUNCT	_	57	punct	_	_
-56	ו	ו	CCONJ	CCONJ	_	57	cc	_	_
-57	לזעוק	זעק	VERB	VERB	HebBinyan=PAAL|VerbForm=Inf|Voice=Act	48	conj	_	_
-58	:	:	PUNCT	PUNCT	_	63	punct	_	_
-59	מי	מי	PRON	PRON	PronType=Rel	63	nsubj	_	_
-60	ל	ל	ADP	ADP	_	61	case	_	_
-61	ה'	ה'	PROPN	PROPN	_	59	acl:relcl	_	_
-62	אל	אל	ADP	ADP	_	63	case	_	_
-63	י	הוא	PRON	PRON	Gender=Fem|Number=Sing|Person=1|PronType=Prs	57	ccomp	_	_
-64	–	–	PUNCT	PUNCT	_	65	punct	_	_
-65	כאן	כאן	ADV	ADV	_	57	advmod	_	SpaceAfter=No
-66	,	,	PUNCT	PUNCT	_	68	punct	_	_
-67	ב	ב	ADP	ADP	_	68	case	_	_
-68	ארץ	ארץ	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Sing	57	obl	_	_
-69	ה	ה	DET	DET	Definite=Def|PronType=Art	70	det	_	_
-70	קודש	קודש	NOUN	NOUN	Gender=Masc|Number=Sing	68	compound	_	_
-71	.	.	PUNCT	PUNCT	_	3	punct	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 6 iobj	color:blue
+1	אתה	הוא	PRON	PRON	Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	_
+2	לא	לא	ADV	ADV	Polarity=Neg	4	advmod	_	_
+3	יכול	יכל	AUX	AUX	Gender=Masc|HebBinyan=PAAL|Number=Sing|Person=3|VerbForm=Part|VerbType=Mod	4	aux	_	_
+4	לשאול	שאל	VERB	VERB	HebBinyan=PAAL|VerbForm=Inf|Voice=Act	0	root	_	_
+5	אות	את	ADP	ADP	Case=Acc	6	case	_	_
+6	ו	הוא	PRON	PRON	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	iobj	_	_
+7	עכשיו	עכשיו	ADV	ADV	_	4	advmod	_	_
+8	שאלה	שאלה	NOUN	NOUN	Gender=Fem|Number=Sing	4	obj	_	SpaceAfter=No
+9	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 5 iobj	color:blue
+1	אני	הוא	PRON	PRON	Gender=Masc|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	רוצה	רצה	VERB	VERB	Gender=Masc|HebBinyan=PAAL|Number=Sing|Person=1|Tense=Pres|VerbForm=Part|Voice=Act	0	root	_	_
+3	לשאול	שאל	VERB	VERB	HebBinyan=PAAL|VerbForm=Inf|Voice=Act	2	xcomp	_	_
+4	את	את	ADP	ADP	Case=Acc	5	case	_	_
+5	מפקד	מפקד	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	3	iobj	_	Entity=(TTL
+6	ה	ה	DET	DET	Definite=Def|PronType=Art	7	det	_	_
+7	מרחב	מרחב	NOUN	NOUN	Gender=Masc|Number=Sing	5	compound	_	Entity=TTL)
+8	,	,	PUNCT	PUNCT	_	10	punct	_	_
+9	אני	הוא	PRON	PRON	Gender=Masc|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	_
+10	מבקש	ביקש	VERB	VERB	Gender=Masc|HebBinyan=PIEL|Number=Sing|Person=1|Tense=Pres|VerbForm=Part|Voice=Act	2	parataxis	_	_
+11	לדעת	ידע	VERB	VERB	HebBinyan=PAAL|VerbForm=Inf|Voice=Act	10	xcomp	_	SpaceAfter=No
+12	,	,	PUNCT	PUNCT	_	13	punct	_	_
+13	ידוע	ידע	VERB	VERB	Gender=Masc|HebBinyan=PAAL|Number=Sing|Person=3|Tense=Pres|VerbForm=Part|Voice=Pass	2	parataxis	_	_
+14	ל	ל	ADP	ADP	_	15	case	_	_
+15	י	הוא	PRON	PRON	Gender=Fem,Masc|Number=Sing|Person=1|PronType=Prs	13	obl	_	_
+16	,	,	PUNCT	PUNCT	_	13	punct	_	_
+17	אולי	אולי	ADV	ADV	_	19	advmod	_	_
+18	אני	הוא	PRON	PRON	Gender=Fem,Masc|Number=Sing|Person=1|PronType=Prs	19	nsubj	_	_
+19	טועה	טעה	VERB	VERB	Gender=Masc|HebBinyan=PAAL|Number=Sing|Person=1|Tense=Pres|VerbForm=Part|Voice=Act	13	parataxis	_	SpaceAfter=No
+20	,	,	PUNCT	PUNCT	_	26	punct	_	_
+21	ש	ש	SCONJ	SCONJ	_	26	mark	_	_
+22	ב	ב	ADP	ADP	Definite=Def|PronType=Art	23	case	_	_
+23	שנתיים	שנה	NOUN	NOUN	Gender=Fem|Number=Dual	26	obl	_	_
+24	ה	ה	DET	DET	Definite=Def|PronType=Art	25	det	_	_
+25	אחרונות	אחרון	ADJ	ADJ	Gender=Fem|Number=Plur	23	amod	_	_
+26	היו	היה	VERB	VERB	Gender=Masc|HebBinyan=PAAL|Number=Plur|Person=3|Tense=Past|Voice=Act	13	csubj:pass	_	_
+27	פה	פה	ADV	ADV	_	26	advmod	_	_
+28	23	23	NUM	NUM	_	29	nummod	_	_
+29	מקרי	מקרה	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Plur	26	nsubj	_	_
+30	רצח	רצח	NOUN	NOUN	Gender=Masc|Number=Sing	29	compound	_	SpaceAfter=No
+31	,	,	PUNCT	PUNCT	_	32	punct	_	_
+32	כמה	כמה	DET	DET	PronType=Rel	35	nsubj:pass	_	_
+33	מתוכ	מתוך	NOUN	NOUN	Gender=Fem|Number=Sing	34	case	_	_
+34	ם	הוא	PRON	PRON	Gender=Masc|Number=Plur|Person=3|PronType=Prs	32	nmod	_	_
+35	פוענחו	פוענח	VERB	VERB	Gender=Fem,Masc|HebBinyan=NIFAL|Number=Plur|Person=3|Tense=Past|Voice=Mid,Pass	3	ccomp	_	SpaceAfter=No
+36	.	.	PUNCT	PUNCT	_	2	punct	_	_
 
 ~~~
 

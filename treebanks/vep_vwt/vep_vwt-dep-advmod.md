@@ -26,7 +26,7 @@ The following 8 pairs of parts of speech are connected with `advmod`: <tt><a hre
 2	ei	ei	AUX	_	Number=Sing|Person=3|Polarity=Neg	4	aux	_	_
 3	sand	sada	AUX	_	Connegative=Yes|Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	4	aux	_	_
 4	pagišta	pagišta	VERB	_	VerbForm=Inf	0	root	_	_
-5	sil	sid'	ADV	_	_	4	advmod	_	_
+5	sil	sidʼ	ADV	_	_	4	advmod	_	_
 6	.	.	PUNCT	_	_	4	punct	_	_
 
 ~~~
@@ -38,16 +38,16 @@ The following 8 pairs of parts of speech are connected with `advmod`: <tt><a hre
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 3 advmod	color:blue
-1	Mö	mö	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
+1	Mö	minä	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
 2	pagižem	pagišta	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-3	sil	sid'	ADV	_	_	6	advmod	_	_
+3	sil	sidʼ	ADV	_	_	6	advmod	_	_
 4	kut	kut	ADV	_	_	6	advmod	_	_
 5	vepsän	vepsän	ADJ	_	Case=Gen|Number=Sing	6	amod	_	_
-6	kelel	kel'	NOUN	_	Case=Ade|Number=Sing	2	obl	_	_
+6	kelel	kelʼ	NOUN	_	Case=Ade|Number=Sing	2	obl	_	_
 7	,	,	PUNCT	_	_	10	punct	_	_
 8	muga	muga	ADV	_	_	10	advmod	_	_
 9	venän-ki	venä	NOUN	_	Case=Gen|Clitic=Ki|Number=Sing	10	nmod	_	_
-10	kelel	kel'	NOUN	_	Case=Ade|Number=Sing	6	conj	_	_
+10	kelel	kelʼ	NOUN	_	Case=Ade|Number=Sing	6	conj	_	_
 11	.	.	PUNCT	_	_	2	punct	_	_
 
 ~~~

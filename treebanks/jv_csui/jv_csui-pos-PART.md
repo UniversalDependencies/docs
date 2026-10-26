@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Javanese-CSUI: POS Tags: `PART`
 
-There are 1 `PART` lemmas (6%), 19 `PART` types (0%) and 234 `PART` tokens (2%).
-Out of 17 observed tags, the rank of `PART` is: 10 in number of lemmas, 14 in number of types and 14 in number of tokens.
+There are 18 `PART` lemmas (1%), 19 `PART` types (0%) and 234 `PART` tokens (2%).
+Out of 17 observed tags, the rank of `PART` is: 14 in number of lemmas, 14 in number of types and 14 in number of tokens.
 
-The 10 most frequent `PART` lemmas: <em>_</em>
+The 10 most frequent `PART` lemmas: <em>ora, ya, durung, ta, gek, ra, aja, mboten, ning, dudu</em>
 
 The 10 most frequent `PART` types:  <em>ora, ya, durung, ta, gek, nora, ra, aja, mboten, ning</em>
 
-The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="jv_csui-pos-NOUN.html">NOUN</a></tt> 2867, <tt><a href="jv_csui-pos-PUNCT.html">PUNCT</a></tt> 2233, <tt><a href="jv_csui-pos-VERB.html">VERB</a></tt> 1952, <tt><a href="jv_csui-pos-PROPN.html">PROPN</a></tt> 1565, <tt><a href="jv_csui-pos-PRON.html">PRON</a></tt> 961, <tt><a href="jv_csui-pos-ADV.html">ADV</a></tt> 798, <tt><a href="jv_csui-pos-ADP.html">ADP</a></tt> 748, <tt><a href="jv_csui-pos-ADJ.html">ADJ</a></tt> 736, <tt><a href="jv_csui-pos-DET.html">DET</a></tt> 700, <tt><a href="jv_csui-pos-NUM.html">NUM</a></tt> 362, <tt><a href="jv_csui-pos-AUX.html">AUX</a></tt> 340, <tt><a href="jv_csui-pos-SCONJ.html">SCONJ</a></tt> 314, <tt><a href="jv_csui-pos-CCONJ.html">CCONJ</a></tt> 306, <tt><a href="jv_csui-pos-PART.html">PART</a></tt> 234, <tt><a href="jv_csui-pos-X.html">X</a></tt> 183, <tt><a href="jv_csui-pos-INTJ.html">INTJ</a></tt> 32, <tt><a href="jv_csui-pos-SYM.html">SYM</a></tt> 12)
+The 10 most frequent ambiguous lemmas: <em>ya</em> (<tt><a href="jv_csui-pos-PART.html">PART</a></tt> 37, <tt><a href="jv_csui-pos-PROPN.html">PROPN</a></tt> 5, <tt><a href="jv_csui-pos-INTJ.html">INTJ</a></tt> 2), <em>durung</em> (<tt><a href="jv_csui-pos-PART.html">PART</a></tt> 17, <tt><a href="jv_csui-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="jv_csui-pos-ADV.html">ADV</a></tt> 2), <em>ning</em> (<tt><a href="jv_csui-pos-ADP.html">ADP</a></tt> 4, <tt><a href="jv_csui-pos-PART.html">PART</a></tt> 4), <em>mbok</em> (<tt><a href="jv_csui-pos-PRON.html">PRON</a></tt> 10, <tt><a href="jv_csui-pos-PART.html">PART</a></tt> 3), <em>kok</em> (<tt><a href="jv_csui-pos-ADV.html">ADV</a></tt> 19, <tt><a href="jv_csui-pos-PRON.html">PRON</a></tt> 4, <tt><a href="jv_csui-pos-PART.html">PART</a></tt> 2), <em>genten</em> (<tt><a href="jv_csui-pos-VERB.html">VERB</a></tt> 2, <tt><a href="jv_csui-pos-PART.html">PART</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>ning</em> (<tt><a href="jv_csui-pos-ADP.html">ADP</a></tt> 4, <tt><a href="jv_csui-pos-PART.html">PART</a></tt> 3), <em>mbok</em> (<tt><a href="jv_csui-pos-PRON.html">PRON</a></tt> 9, <tt><a href="jv_csui-pos-PART.html">PART</a></tt> 2), <em>Kok</em> (<tt><a href="jv_csui-pos-ADV.html">ADV</a></tt> 2, <tt><a href="jv_csui-pos-PART.html">PART</a></tt> 2)
 
@@ -30,9 +30,13 @@ The 10 most frequent ambiguous types:  <em>ning</em> (<tt><a href="jv_csui-pos-A
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 19.000000 (the average of all parts of speech is 238.352941).
+The form / lemma ratio of `PART` is 1.055556 (the average of all parts of speech is 1.145928).
 
-The 1st highest number of forms (19) was observed with the lemma “_”: <em>Kok, aja, boten, dudu, durung, gek, genten, lah, lak, mbok, mboten, ning, nora, ora, pun, ra, ta, tan, ya</em>.
+The 1st highest number of forms (2) was observed with the lemma “ora”: <em>nora, ora</em>.
+
+The 2nd highest number of forms (1) was observed with the lemma “aja”: <em>aja</em>.
+
+The 3rd highest number of forms (1) was observed with the lemma “boten”: <em>boten</em>.
 
 `PART` occurs with 3 features: <tt><a href="jv_csui-feat-Polite.html">Polite</a></tt> (165; 71% instances), <tt><a href="jv_csui-feat-Polarity.html">Polarity</a></tt> (161; 69% instances), <tt><a href="jv_csui-feat-Abbr.html">Abbr</a></tt> (6; 3% instances)
 

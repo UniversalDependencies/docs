@@ -11,9 +11,9 @@ This relation is universal.
 2273 nodes (8%) are attached to their parents as `root`.
 
 2273 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.8702155741311.
+Average distance between parent and child is 5.8688957325121.
 
-The following 7 pairs of parts of speech are connected with `root`: -<tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> (2082; 92% instances), -<tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt> (91; 4% instances), -<tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt> (71; 3% instances), -<tt><a href="la_perseus-pos-DET.html">DET</a></tt> (16; 1% instances), -<tt><a href="la_perseus-pos-PRON.html">PRON</a></tt> (8; 0% instances), -<tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> (3; 0% instances), -<tt><a href="la_perseus-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances).
+The following 7 pairs of parts of speech are connected with `root`: -<tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> (2082; 92% instances), -<tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt> (91; 4% instances), -<tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt> (72; 3% instances), -<tt><a href="la_perseus-pos-DET.html">DET</a></tt> (16; 1% instances), -<tt><a href="la_perseus-pos-PRON.html">PRON</a></tt> (8; 0% instances), -<tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> (3; 0% instances), -<tt><a href="la_perseus-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -44,7 +44,7 @@ The following 7 pairs of parts of speech are connected with `root`: -<tt><a href
 2	fuit	sum	AUX	v3sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	cop	_	LId=sum1|TraditionalMood=Indicativus|TraditionalTense=Perfectum
 3	ipsa	ipse	DET	p-s---fn-	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	4	det	_	LId=ipse1
 4	infamia	infamia	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	1	nsubj	_	LId=infamia1
-5	vero	verum	NOUN	n-s---nb-	Case=Abl|Gender=Neut|Number=Sing	4	obl	_	SpaceAfter=No|LId=verum1
+5	vero	verum	NOUN	n-s---nb-	Case=Abl|Gender=Neut|Number=Sing	1	obl:cmp	_	SpaceAfter=No|LId=verum1
 6	.	.	PUNCT	u--------	_	1	punct	_	LId=punc1
 
 ~~~

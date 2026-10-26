@@ -342,17 +342,26 @@ The rest of this section expands on the linguistic basis of these choices, and m
 
 #### The definition of core arguments
 
-The core/oblique distinction is ultimately an information packaging distinction. All or nearly all languages have a basic way of expressing the one or two arguments of most verbs (intransitive and transitive verbs), and this unmarked form of argument expression is as a core argument. If additional arguments can appear that are treated similarly to these arguments, they may also be regarded as core arguments. (Some languages have no additional core arguments, while other languages allow multiple object arguments, for instance.) Status as a core argument is decoupled from the semantic roles of participants. Normally, depending on the meaning of a verb, many different semantic roles can be expressed by the same means of encoding core arguments. Nevertheless, there is a correlation: agent and patient or theme roles of predicates in their unmarked valence are normally realized as core arguments.
+The core/oblique distinction is ultimately an information packaging distinction.
+All or nearly all languages have a basic way of expressing the one or two arguments of most verbs (intransitive and transitive verbs), and this unmarked form of argument expression is as a core argument.
+If additional arguments can appear that are treated similarly to these arguments, they may also be regarded as core arguments.
+(Some languages have no additional core arguments, while other languages allow multiple object arguments, for instance.)
+Status as a core argument is decoupled from the semantic roles of participants.
+Normally, depending on the meaning of a verb, many different semantic roles can be expressed by the same means of encoding core arguments.
+Nevertheless, there is a correlation: agent and patient or theme roles of predicates in their unmarked valence are normally realized as core arguments.
 
-Syntactically, there is not a single criterion which can be used crosslinguistically to distinguish core arguments from obliques, though there are often good and useful criteria for particular languages. These include:
+Syntactically, there is not a single criterion which can be used crosslinguistically to distinguish core arguments from obliques, though there are often good and useful criteria for particular languages.
+These include:
 
 * Verbs usually only agree with core arguments
-* Oblique arguments may usually or always appear marked by an adposition while core arguments appear as bare nominals
-* Certain cases, traditionally called nominative, accusative, and absolutive typically mark core arguments
+* Oblique arguments may often or always appear marked by an adposition while core arguments appear as bare nominals
+* Certain morphological cases, traditionally called nominative, accusative, and absolutive typically mark core arguments
 * Core arguments in many languages occupy special positions in the clause, often adjacent to the verb
 * Syntactic phenomena such as being the controller of a subordinate clause argument or the target of relativization are limited to core arguments in some languages
 
-At the end of the day, the distinction must be drawn and documented on language particular grounds. For example, many languages have certain verbs which take arguments in oblique cases such as dative or an experiencer case, but these arguments should be regarded as core arguments based on their syntactic behavior being parallel to the arguments of other transitive verbs.
+At the end of the day, the distinction must be drawn and documented on language particular grounds.
+For example, many languages have certain verbs which take arguments in oblique cases such as dative or an experiencer case,
+but if these arguments are regarded as core arguments, it should be based on their syntactic behavior being parallel to the arguments of other transitive verbs.
 
 #### Avoiding an argument/adjunct distinction
 

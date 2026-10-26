@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Acc`, `Gen`, `Nom`.
 
-1008 tokens (12%) have a non-empty value of `Case`.
-87 types (6%) occur at least once with a non-empty value of `Case`.
-84 lemmas (6%) occur at least once with a non-empty value of `Case`.
-The feature is used with 9 part-of-speech tags: <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> (990; 12% instances), <tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt> (5; 0% instances), <tt><a href="yo_ytb-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="yo_ytb-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="yo_ytb-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="yo_ytb-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="yo_ytb-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+1005 tokens (12%) have a non-empty value of `Case`.
+85 types (6%) occur at least once with a non-empty value of `Case`.
+82 lemmas (6%) occur at least once with a non-empty value of `Case`.
+The feature is used with 9 part-of-speech tags: <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> (988; 12% instances), <tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="yo_ytb-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="yo_ytb-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="yo_ytb-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="yo_ytb-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="yo_ytb-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 ### `PRON`
 
-990 <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> tokens (73% of all `PRON` tokens) have a non-empty value of `Case`.
+988 <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> tokens (73% of all `PRON` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="yo_ytb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (990; 100%), <tt><a href="yo_ytb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (659; 67%), <tt><a href="yo_ytb-feat-Person.html">Person</a></tt><tt>=3</tt> (600; 61%).
+The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="yo_ytb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (988; 100%), <tt><a href="yo_ytb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (657; 66%), <tt><a href="yo_ytb-feat-Person.html">Person</a></tt><tt>=3</tt> (599; 61%).
 
 `PRON` tokens may have the following values of `Case`:
 
-* `Acc` (208; 21% of non-empty `Case`): <em>wọn, mi, ẹ, i, wọ́n, ọ́, ọ, mí, wa, bíi</em>
+* `Acc` (207; 21% of non-empty `Case`): <em>wọn, mi, ẹ, i, wọ́n, ọ́, ọ, mí, wa, bíi</em>
 * `Gen` (233; 24% of non-empty `Case`): <em>rẹ̀, yín, rẹ, un, tirẹ̀, á, òun, tiwọn, ọ, ú</em>
-* `Nom` (549; 55% of non-empty `Case`): <em>ó, a, wọn, wọ́n, ìwọ, ẹ, èmi, ẹ̀yin, mo, òun</em>
-* `EMPTY` (367): <em>tí, ẹni, ara, èyí, náà, ẹnikẹ́ni, wọ́n, àwọn, ti, ẹ</em>
+* `Nom` (548; 55% of non-empty `Case`): <em>ó, a, wọn, wọ́n, ìwọ, ẹ, èmi, ẹ̀yin, mo, òun</em>
+* `EMPTY` (366): <em>tí, ẹni, ara, èyí, náà, ẹnikẹ́ni, wọ́n, àwọn, ti, ẹ</em>
 
 <table>
   <tr><th>Paradigm <i>a</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Gen</tt></th></tr>
@@ -36,13 +36,12 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 
 ### `ADJ`
 
-5 <tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt> tokens (3% of all `ADJ` tokens) have a non-empty value of `Case`.
+4 <tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt> tokens (2% of all `ADJ` tokens) have a non-empty value of `Case`.
 
 `ADJ` tokens may have the following values of `Case`:
 
-* `Acc` (4; 80% of non-empty `Case`): <em>gidi, tíkòsi´</em>
-* `Nom` (1; 20% of non-empty `Case`): <em>Bìrìtìkó</em>
-* `EMPTY` (191): <em>ọ̀pọ̀, ńlá, Alábùkún, dára, irú, àìmọ́, rere, mìíràn, tósòro, náà</em>
+* `Acc` (4; 100% of non-empty `Case`): <em>gidi, tíkòsi´</em>
+* `EMPTY` (189): <em>ọ̀pọ̀, ńlá, Alábùkún, dára, irú, àìmọ́, rere, mìíràn, tósòro, náà</em>
 
 ### `AUX`
 
@@ -60,7 +59,7 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 `ADP` tokens may have the following values of `Case`:
 
 * `Acc` (2; 100% of non-empty `Case`): <em>Ni, bíi</em>
-* `EMPTY` (691): <em>ní, fún, sí, láti, nínú, ti, inú, kúrò, lẹ́yìn, nípa</em>
+* `EMPTY` (689): <em>ní, fún, sí, láti, nínú, ti, inú, kúrò, lẹ́yìn, nípa</em>
 
 ### `NOUN`
 
@@ -70,7 +69,7 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 
 * `Acc` (1; 50% of non-empty `Case`): <em>Nnaji</em>
 * `Nom` (1; 50% of non-empty `Case`): <em>Omi</em>
-* `EMPTY` (1514): <em>Ọlọ́run, ènìyàn, ohun, ọmọ, ilẹ̀, ilé, ọ̀run, ojú, ojúewé, àgùntàn</em>
+* `EMPTY` (1509): <em>Ọlọ́run, ènìyàn, ohun, ọmọ, ilẹ̀, ilé, ọ̀run, ojú, ojúewé, àgùntàn</em>
 
 ### `PROPN`
 
@@ -80,7 +79,7 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 
 * `Acc` (1; 50% of non-empty `Case`): <em>Alhaji</em>
 * `Nom` (1; 50% of non-empty `Case`): <em>Naijiria</em>
-* `EMPTY` (163): <em>Jésù, olúwa, Júù, Màríà, Wikipédíà, Mátà, Lásárù, Jáírù, Yorùbá, Jòhánù</em>
+* `EMPTY` (182): <em>Jésù, olúwa, Wikipédíà, Júù, Màríà, Mátà, Lásárù, Jáírù, Yorùbá, Genevieve</em>
 
 ### `CCONJ`
 
@@ -100,7 +99,7 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
 `NUM` tokens may have the following values of `Case`:
 
 * `Acc` (1; 100% of non-empty `Case`): <em>2i</em>
-* `EMPTY` (74): <em>kan, méjì, 3, 000, 2004, 2005, mẹ́rin, Ọ̀kan, 10, 1520</em>
+* `EMPTY` (77): <em>kan, méjì, 3, 000, 2004, 2005, mẹ́rin, Ọ̀kan, 10, 1520</em>
 
 ### `SCONJ`
 

@@ -24,7 +24,7 @@ The following 3 pairs of parts of speech are connected with `dislocated`: <tt><a
 # visual-style 3 6 dislocated	color:blue
 1	Тэнэ	тэ	PRON	Pron	Case=Acc|Number=Sing|Person=2|PronType=Prs	3	obj	_	GTtags=Pers,Sg2,Err/Dial,Acc
 2	сыа	сійӧ	PRON	Pron	PronType=Dem	3	nsubj	_	GTtags=Err/Dial,Dem
-3	интересуйтэ	интересуйтны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	GTtags=Ind,Prs,Err/Dial,Sg3
+3	интересуйтэ	интересуйтны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	GTtags=Ind,Prs,Err/Dial,Sg3
 4	сэтшем	сэтшӧм	ADJ	A	Case=Nom|Number=Sing|PronType=Dem	6	amod	_	GTtags=Err/Dial,Det,Dem,Sg,Nom
 5	восточнэй	восточнӧй	ADJ	A	Case=Nom|Number=Sing	6	amod	_	GTtags=Err/Dial,Sg,Nom
 6	культураыс	культура	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	3	dislocated	_	GTtags=Sg,Nom,PxSg3|SpaceAfter=No
@@ -42,14 +42,14 @@ The following 3 pairs of parts of speech are connected with `dislocated`: <tt><a
 # visual-style 10	fgColor:white
 # visual-style 10 13 dislocated	color:blue
 1	И	и	CCONJ	CC	_	2	cc	_	_
-2	сы	сійӧ	PRON	Pron	PronType=Dem	10	obl:lmp	_	GTtags=Dem
+2	сы	сійӧ	PRON	Pron	Case=Adp|PronType=Dem	10	obl	_	GTtags=Dem
 3	кузя	кузя	ADP	Adp	AdpType=Post	2	case	_	GTtags=Po
-4	нин	нин	ADV	Adv	AdvType=Tim	2	advmod:tmod	_	GTtags=Sem/Time|SpaceAfter=No
+4	нин	нин	ADV	Adv	AdvType=Tim	2	advmod	_	GTtags=Sem/Time|SpaceAfter=No
 5	,	,	PUNCT	PUNCT	_	7	punct	_	_
 6	сыа	сійӧ	PRON	Pron	PronType=Dem	7	det	_	GTtags=Err/Dial,Dem
 7	тема	тема	NOUN	N	Case=Nom|Number=Sing	2	appos	_	GTtags=Sg,Nom
 8	кузяыс	кузя	ADP	Adp	AdpType=Post|Number[psor]=Sing|Person[psor]=3	7	case	_	GTtags=Po,PxSg3
-9	водзе	водзӧ	ADV	Adv	_	10	advmod:lmod	_	GTtags=Err/Dial
+9	водзе	водзӧ	ADV	Adv	AdvType=Loc|Case=Ill	10	advmod	_	GTtags=Err/Dial
 10	мунны	мунны	VERB	V	VerbForm=Inf	0	root	_	GTtags=Inf|SpaceAfter=No
 11	,	,	PUNCT	PUNCT	_	13	punct	_	_
 12	научнэй	научнӧй	ADJ	A	Case=Nom|Number=Sing	13	amod	_	GTtags=Err/Dial,Sg,Nom
@@ -69,24 +69,24 @@ The following 3 pairs of parts of speech are connected with `dislocated`: <tt><a
 1	Но	но	CCONJ	CC	_	6	cc	_	_
 2	вот	вот	ADV	Adv	_	6	discourse	_	GTtags=Parenthetic
 3	сыа	сійӧ	PRON	Pron	PronType=Dem	6	nsubj	_	GTtags=Err/Dial,Dem
-4	сэтысь	сэтысь	ADV	Adv	Case=Ela	6	advmod:lmod	_	GTtags=Ela
+4	сэтысь	сэтысь	ADV	Adv	AdvType=Loc|Case=Ela	6	advmod	_	GTtags=Ela
 5	и	и	ADV	Adv	_	6	advmod	_	_
-6	петіс	петны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt1,Sg3|SpaceAfter=No
+6	петіс	петны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	GTtags=Ind,Prt1,Sg3|SpaceAfter=No
 7	,	,	PUNCT	PUNCT	_	13	punct	_	_
 8	мый	мый	SCONJ	CS	_	13	mark	_	_
 9	ми	ме	PRON	Pron	Case=Nom|Number=Plur|Person=1|PronType=Prs	13	nsubj	_	GTtags=Pers,Pl1,Nom|SpaceAfter=No
 10	,	,	PUNCT	PUNCT	_	11	punct	_	_
 11	изьватасыс	изьватас	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	9	appos	_	GTtags=Sg,Nom,PxSg3|SpaceAfter=No
 12	,	,	PUNCT	PUNCT	_	11	punct	_	_
-13	кӧсъям	кӧсйыны	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres	6	dislocated	_	GTtags=Ind,Prs,Pl1
+13	кӧсъям	кӧсйыны	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	6	dislocated	_	GTtags=Ind,Prs,Pl1
 14	босьны	босьтны	VERB	V	VerbForm=Inf	13	xcomp	_	GTtags=Inf
 15	статус	статус	NOUN	N	Case=Nom|Number=Sing	14	obj	_	GTtags=Sg,Nom
-16	«	_	PUNCT	PUNCT	_	17	punct	_	SpaceAfter=No
+16	«	«	PUNCT	PUNCT	_	17	punct	_	SpaceAfter=No
 17	коренного	коренного	X	A	Foreign=Yes	15	appos	_	GTtags=F
 18	малочисленного	малочисленного	X	A	Foreign=Yes	17	flat:foreign	_	GTtags=F
 19	народа	народа	X	N	Foreign=Yes	17	flat:foreign	_	GTtags=Sg,Der,Der/ProprietiveMod,A,Sg,Nom
 20	Севера	Севера	X	N	Foreign=Yes	17	flat:foreign	_	GTtags=Prop,Sg,Der,Der/ProprietiveMod,A,Sg,Nom|SpaceAfter=No
-21	»	_	PUNCT	PUNCT	_	17	punct	_	SpaceAfter=No
+21	»	»	PUNCT	PUNCT	_	17	punct	_	SpaceAfter=No
 22	.	.	PUNCT	PUNCT	_	6	punct	_	_
 
 ~~~

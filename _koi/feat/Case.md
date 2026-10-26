@@ -266,4 +266,4 @@ In the central dialects it is often distinguished from the prolative in nouns.
 * [koi] _<b>таті</b>_ "this way"
 
 
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:33 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:44 CEST -->

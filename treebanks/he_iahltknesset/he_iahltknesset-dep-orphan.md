@@ -59,7 +59,7 @@ The following 9 pairs of parts of speech are connected with `orphan`: <tt><a hre
 35	,	,	PUNCT	PUNCT	_	37	punct	_	_
 36	ו	ו	CCONJ	CCONJ	_	37	cc	_	_
 37	הפעם	הפעם	ADV	ADV	_	32	conj	_	_
-38	על	על	ADP	ADP	_	41	case	_	SpaceAfter=No
+38	על	על	ADP	ADP	ExtPos=ADP	41	case	_	SpaceAfter=No
 39	-	-	PUNCT	PUNCT	_	38	punct	_	SpaceAfter=No
 40	ידי	יד	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Plur	38	fixed	_	_
 41	חקיקה	חקיקה	NOUN	NOUN	Gender=Fem|Number=Sing	37	orphan	_	SpaceAfter=No
@@ -189,7 +189,7 @@ The following 9 pairs of parts of speech are connected with `orphan`: <tt><a hre
 49	ניסיון	ניסיון	NOUN	NOUN	Gender=Masc|Number=Sing	36	parataxis	_	_
 50	ש	ש	SCONJ	SCONJ	_	51	mark	_	_
 51	נבלם	נבלם	VERB	VERB	Gender=Masc|HebBinyan=NIFAL|Number=Sing|Person=3|Tense=Past|Voice=Pass	49	acl:relcl	_	_
-52	על	על	ADP	ADP	_	56	case	_	SpaceAfter=No
+52	על	על	ADP	ADP	ExtPos=ADP	56	case	_	SpaceAfter=No
 53	-	-	PUNCT	PUNCT	_	52	punct	_	SpaceAfter=No
 54	ידי	יד	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Plur	52	fixed	_	_
 55	ה	ה	DET	DET	Definite=Def|PronType=Art	56	det	_	_

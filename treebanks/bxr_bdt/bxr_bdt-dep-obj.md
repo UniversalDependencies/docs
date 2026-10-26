@@ -11,7 +11,7 @@ This relation is universal.
 446 nodes (4%) are attached to their parents as `obj`.
 
 441 instances of `obj` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.7152466367713.
+Average distance between parent and child is 1.71300448430493.
 
 The following 9 pairs of parts of speech are connected with `obj`: <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bxr_bdt-pos-NOUN.html">NOUN</a></tt> (388; 87% instances), <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bxr_bdt-pos-PRON.html">PRON</a></tt> (34; 8% instances), <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bxr_bdt-pos-PROPN.html">PROPN</a></tt> (10; 2% instances), <tt><a href="bxr_bdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="bxr_bdt-pos-NOUN.html">NOUN</a></tt> (7; 2% instances), <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bxr_bdt-pos-ADV.html">ADV</a></tt> (3; 1% instances), <tt><a href="bxr_bdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="bxr_bdt-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="bxr_bdt-pos-PART.html">PART</a></tt>-<tt><a href="bxr_bdt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bxr_bdt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bxr_bdt-pos-DET.html">DET</a></tt> (1; 0% instances).
 

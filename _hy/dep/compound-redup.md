@@ -6,8 +6,7 @@ udver: '2'
 ---
 
 This subtype of [compound]() covers a range of reduplicated forms in Armenian.
-Reduplication is a common process especially for [adverbs](ADV) and [adjectives](ADJ),
-but it is also used for reduplicated [noun](NOUN) and [verb](VERB) forms. They can have additional feature of [Echo]().
+Reduplication is a common process especially for [adverbs](ADV) and [adjectives](ADJ), but it is also used for reduplicated [noun](NOUN) and [verb](VERB) forms. They can have additional feature of [Echo]().
 
 ~~~ sdparse
 Եղած - չեղած , մի հաշիվ է ։ \n Existing - not-existing , is the same .
@@ -44,4 +43,4 @@ compound:redup(from-hand, to-hand)
 obl(անցնում, ձեռքից)
 obl(passed, from-hand)
 ~~~
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:39 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:52 CEST -->

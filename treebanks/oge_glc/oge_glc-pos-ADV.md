@@ -1,0 +1,90 @@
+---
+layout: base
+title:  'Statistics of ADV in UD_Old_Georgian-GLC'
+udver: '2'
+---
+
+## Treebank Statistics: UD_Old_Georgian-GLC: POS Tags: `ADV`
+
+There are 161 `ADV` lemmas (9%), 163 `ADV` types (6%) and 410 `ADV` tokens (6%).
+Out of 14 observed tags, the rank of `ADV` is: 4 in number of lemmas, 5 in number of types and 7 in number of tokens.
+
+The 10 most frequent `ADV` lemmas: <em>უკუე, კეთილად, ღმრთივ, ესრეთ, ჯერ, კუალად, აწ, ყოვლად, ამიერ, ეგრეთვე</em>
+
+The 10 most frequent `ADV` types:  <em>უკუე, კეთილად, ღმრთივ, ესრეთ, ჯერ, კუალად, აწ, ყოვლად, ეგრეთვე, ვინაჲთ</em>
+
+The 10 most frequent ambiguous lemmas: <em>ვინაჲთ</em> (<tt><a href="oge_glc-pos-PRON.html">PRON</a></tt> 11, <tt><a href="oge_glc-pos-ADV.html">ADV</a></tt> 8), <em>თანა</em> (<tt><a href="oge_glc-pos-ADP.html">ADP</a></tt> 32, <tt><a href="oge_glc-pos-ADV.html">ADV</a></tt> 7), <em>შემდგომად</em> (<tt><a href="oge_glc-pos-ADV.html">ADV</a></tt> 7, <tt><a href="oge_glc-pos-ADP.html">ADP</a></tt> 3), <em>უწინარეს</em> (<tt><a href="oge_glc-pos-ADV.html">ADV</a></tt> 5, <tt><a href="oge_glc-pos-ADP.html">ADP</a></tt> 1), <em>ზედა</em> (<tt><a href="oge_glc-pos-ADP.html">ADP</a></tt> 25, <tt><a href="oge_glc-pos-ADV.html">ADV</a></tt> 2), <em>სამღდელო</em> (<tt><a href="oge_glc-pos-ADJ.html">ADJ</a></tt> 8, <tt><a href="oge_glc-pos-NOUN.html">NOUN</a></tt> 8, <tt><a href="oge_glc-pos-ADV.html">ADV</a></tt> 2), <em>არღარა</em> (<tt><a href="oge_glc-pos-ADV.html">ADV</a></tt> 1, <tt><a href="oge_glc-pos-PART.html">PART</a></tt> 1), <em>ვინაჲცა</em> (<tt><a href="oge_glc-pos-SCONJ.html">SCONJ</a></tt> 2, <tt><a href="oge_glc-pos-ADV.html">ADV</a></tt> 1), <em>ოდეს</em> (<tt><a href="oge_glc-pos-ADV.html">ADV</a></tt> 1, <tt><a href="oge_glc-pos-SCONJ.html">SCONJ</a></tt> 1), <em>ჟამი</em> (<tt><a href="oge_glc-pos-NOUN.html">NOUN</a></tt> 14, <tt><a href="oge_glc-pos-ADV.html">ADV</a></tt> 1)
+
+The 10 most frequent ambiguous types:  <em>ვინაჲთ</em> (<tt><a href="oge_glc-pos-PRON.html">PRON</a></tt> 12, <tt><a href="oge_glc-pos-ADV.html">ADV</a></tt> 8), <em>თანა</em> (<tt><a href="oge_glc-pos-ADP.html">ADP</a></tt> 29, <tt><a href="oge_glc-pos-ADV.html">ADV</a></tt> 7), <em>შემდგომად</em> (<tt><a href="oge_glc-pos-ADV.html">ADV</a></tt> 7, <tt><a href="oge_glc-pos-ADP.html">ADP</a></tt> 3), <em>ამიერით</em> (<tt><a href="oge_glc-pos-ADV.html">ADV</a></tt> 6, <tt><a href="oge_glc-pos-PRON.html">PRON</a></tt> 1), <em>პირველ</em> (<tt><a href="oge_glc-pos-ADV.html">ADV</a></tt> 5, <tt><a href="oge_glc-pos-NUM.html">NUM</a></tt> 1), <em>უწინარეს</em> (<tt><a href="oge_glc-pos-ADV.html">ADV</a></tt> 5, <tt><a href="oge_glc-pos-ADP.html">ADP</a></tt> 1), <em>ცხად</em> (<tt><a href="oge_glc-pos-ADV.html">ADV</a></tt> 4, <tt><a href="oge_glc-pos-ADJ.html">ADJ</a></tt> 1), <em>ზედა</em> (<tt><a href="oge_glc-pos-ADP.html">ADP</a></tt> 25, <tt><a href="oge_glc-pos-ADV.html">ADV</a></tt> 2), <em>მარადის</em> (<tt><a href="oge_glc-pos-ADV.html">ADV</a></tt> 2, <tt><a href="oge_glc-pos-ADJ.html">ADJ</a></tt> 1), <em>ამისთჳს</em> (<tt><a href="oge_glc-pos-ADV.html">ADV</a></tt> 1, <tt><a href="oge_glc-pos-NOUN.html">NOUN</a></tt> 1)
+
+
+* <em>ვინაჲთ</em>
+  * <tt><a href="oge_glc-pos-PRON.html">PRON</a></tt> 12: <em>თეოფილე ეპისკოპოსმან ალექსანდრიისამან თქუა : წარსრულთა და მიცვალებულთა ზედა არა ჯერ არს , არცა შესაძლებელ არს განჩინებასა ბრალობისასა დადებაჲ , <b>ვინაჲთ</b> გან აწ არა მყოფნი აქა ეგერა საქმით დასჯილ არიან იგინი .</em>
+  * <tt><a href="oge_glc-pos-ADV.html">ADV</a></tt> 8: <em>და ესევე დაიცვებოდედ სხუათაცა სამღდელოთა დასთა ზედა , <b>ვინაჲთ</b> გან მსოფლიოთა პატივთასა უვაღრეს არიან სულიერნი .</em>
+* <em>თანა</em>
+  * <tt><a href="oge_glc-pos-ADP.html">ADP</a></tt> 29: <em>კდ(24) არა უჴმს სამღდელოსა მწყობრსა <b>თანა</b> აღრაცხილსა ვისმე ანუ მონაზონსა მისლვაჲ იპოდრომად ანუ ხუმრობითთა სახიობათა ხილვაჲ .</em>
+  * <tt><a href="oge_glc-pos-ADV.html">ADV</a></tt> 7: <em>და მას თანა ნესტორცა და დიოსკორე , ერთი იგი განყოფისა , ხოლო მეორე შერევნისა <b>თანა</b> მოღუაწე და წინამბრძოლი და ურთიერთას წინააღმდგომობითა ბოროტად მსახურებისაჲთა ერთსა მთხრებლსა წარწყმედისა და უღმრთოებისასა შთაბნეულნი , განფხურნეს .</em>
+* <em>შემდგომად</em>
+  * <tt><a href="oge_glc-pos-ADV.html">ADV</a></tt> 7: <em>ხოლო ამიერით გან ამას განვასაზღვრებთ და ესრეთ მეტყუელსა მას კანონსა განვაახლებთ , ვითარმედ ორგზის ქორწინებულსა <b>შემდგომად</b> ნათლისღებისა ანუ ხარჭისა მომგებელსა ვერ ჴელეწიფების , რაჲთა იქმნეს ეპისკოპოს , ანუ ხუცეს , ანუ დიაკონ , ანუ რაჲთურთით რომელსაცა სამღდელოსა დასსა თანა შეერთოს .</em>
+  * <tt><a href="oge_glc-pos-ADP.html">ADP</a></tt> 3: <em>ხოლო უკუეთუ განყრილ იყვნენ ვიეთნიმე განკანონებითა ცოდვათა რათმე ზედა , ამისსა <b>შემდგომად</b> ეგულებოდის სიკუდილი და იყვნენ იგინი კათაკუმეველნი , მიეცინ მათ მადლი ნათლისღებისაჲ და .</em>
+* <em>ამიერით</em>
+  * <tt><a href="oge_glc-pos-ADV.html">ADV</a></tt> 6: <em>ამის თჳს ვინაჲთ გან ფრიადი მოსწრაფებაჲ გუაქუნდა ჩუენ , რაჲთა ყოველივე სარგებელად ჴელმწიფებასას ჩუენსა ქუეშე მყოფისა სამწყსოჲსა იქმნებოდის , განვაჩინეთ , რაჲთა <b>ამიერით</b> გან არღარა იქმნეს ესევითარი .</em>
+  * <tt><a href="oge_glc-pos-PRON.html">PRON</a></tt> 1: <em>ნეტარი ეპისკოპოსმან კოსტანტინოპილისამან თქუა : საღმრთოდ სჯულიერთა განწესებათა და სჯულთა კეთილისა წესიერებისა შედგომილად არა მიზეზითა პირთა ვიეთთაჲთამე ქმნილად უწყით ჩუენ ესევითართა ამათ სჯულიმდებელობაჲ , რამეთუ ვითარ იგი უფროჲსად წმიდამან ეპისკოპოსმან არაბიანოს და წარმოთქუა შემდგომითი შემდგომად ყოფადთა განკრძალვისა ნებებითა და მსგავსადვე მისსა და კაცთმოყუარედ ყოვლად ღირსისა ეპისკოპოსისა თეოფილეს განჩინებამან განასაზღვრა , ნუღარამცა ქმნილ არს <b>ამიერით</b> გან ნუცა ორთა გან , ნუცა სამთა განსაკითხავისა ეპისკოპოსისა განკუეთაჲ , არამედ უფროჲსისა კრებისა ბჭობითა და მის სამთავროჲსა ეპისკოპოსთა განჩინებითა , ვითარცა სამოციქულომან განასაზღვრა კანონმან .</em>
+* <em>პირველ</em>
+  * <tt><a href="oge_glc-pos-ADV.html">ADV</a></tt> 5: <em>ვინაჲცა უკუეთუ ქმნილ არს რაჲმე ესევითარი , უეჭუელად მაშინ აღწერილთა მოსაჴსენებელთა სიმტკიცე ამხილებს მას და ანუ თანამდებად ზედადასხმულთა მისდა ბრალობათად გამოაჩინებს და არარად უტევებს მას თქუმად , ვითარცა მიმძლავრებულსა , ანუ თავისუფალ ჰყოფს მათ გან და კუალად ჴელთ უდებს ეკლესიასა თჳსსა , რომელი <b>პირველ</b> ხუედრებულ იყო მისდა .</em>
+  * <tt><a href="oge_glc-pos-NUM.html">NUM</a></tt> 1: <em>ხოლო სიკეთესა პირველისა ბრწყინვალებისასა ამპარტავანებისა მიერ წარმწყმედელი პირველი იგი ვეშაპი , გონებაჲ იგი დიდი ასურასტანელი <b>პირველ</b> მის მიერ ტყუექმნულთა მათ გან ცალიერ იქმნა და ძლიერებითა განჴორციელებულისა სიტყჳსაჲთა ყოვლისა ძალისა თჳისა გან უცხო იქმნა , ვითარცა წერილ არს , ვითარმედ : „ მტერისა მახჳლნი მოაკლდეს სრულიად “ .</em>
+* <em>უწინარეს</em>
+  * <tt><a href="oge_glc-pos-ADV.html">ADV</a></tt> 5: <em>არამედ უკუეთუ ვისმე ენებოს მღდელობად მომავალთა განსა სჯულითა ქორწინებისაჲთა შეყოფაჲ მეუღლისაჲ <b>უწინარეს</b> მიღებისა ჴელთდასხმასა კერძო-დიაკონობისასა , ანუ დიაკონობისა , ანუ ხუცობისასა , ეზრახენინ იგი ქორწილსა .</em>
+  * <tt><a href="oge_glc-pos-ADP.html">ADP</a></tt> 1: <em>კოსტანტინოპოლის შინა კრებისა მიერ ქმნილთა მოსაჴსენებლთა გან აღაპის თჳს და ვაღადისა თჳს , რომელნი უჴდებოდის ურთიერთას საეპისკოპოსოსა ზედა ბოსტრისასა ჳპატოსობასა კეთილად მსახურთა და ღმრთისმოყუარეთა მეფეთა ჩუენთასა ფლავიოჲს არკადი ავღჳსტოსისა მესამესა და ონორისსა მეორესა <b>უწინარეს</b> რვათა კალანდათა ოკტომბერისათა სანათლოსა შინა კოსტანტინოპოლისა წმიდისა კათოლიკე ეკლესიისასა დასხდეს წმიდანი ეპისკოპოსნი : ნეკტარი თჳთ მის კოსტანტინეპოლისაჲ , თეოფილე ალექსადრიისაჲ , ფლაბიანე ანტიოქიისაჲ , ელლადი კესარია კაპპადუკისაჲ , გელასი კესარია პალესტინისაჲ , გრიგოლი ნჳსიისაჲ , ამფილოქე იკონიისაჲ , პავლე ირაკლიისაჲ , არაბიანე ანკჳრიისაჲ , ამმონოს ანდრიანოპოლისაჲ , ფალერი ტარსუნისაჲ , ლუკიოს იერაპოლისაჲ , ელპიდი ლაოდიკიისაჲ , პავლე ქსეოჲსაჲ , დიოსკორე ერმუპოლისაჲ , პროვატი ვერონიკიისა , თეოდორე მომფსუეტისაჲ , ვიზუ სელეკიისაჲ , იპაღათუ მარკიანუპოლისაჲ , გერონტი კლავდიუპოლისაჲ და სხუანი თითოეულნი ეპისკოპოსნი და ყოველი სამღდელოჲ მწყობრი .</em>
+* <em>ცხად</em>
+  * <tt><a href="oge_glc-pos-ADV.html">ADV</a></tt> 4: <em>ხოლო ესე <b>ცხად</b> იყავნ , ვითარმედ ეგევითარისა მის უწესოჲსა ქორწილისა მუნთქუესვე დაჴსნაჲ სათანადო არს და რაჲთა არცა ერთი თანამკჳდრობითი ზიარებაჲ აქუნდეს კაცსა მას მისა მიმართ , რომლისა ძლით სამღდელოჲსა მოქმედებისა გან ჴუებულ იქმნა .</em>
+  * <tt><a href="oge_glc-pos-ADJ.html">ADJ</a></tt> 1: <em>და რამეთუ ჯერეთ არღასადა არცა ერთი ვინ იყო ეპისკოპოსი , არამედ მხოლოდ მოციქულნი ოდენ , ვინაჲ ცა არცა დიაკონთა და არცა ხუცესთა ყოფად ვჰგონებ სახელსა ამას და ესე <b>ცხად</b> არს და საჩინო , ამათ თანა უკუე ვქადაგებთ ჩუენცა , ვითარმედ შჳდნი პირველჴსენებულნი ესე დიაკონნი არა მათ განნი არიან , რომელნი შეწირვასა საიდუმლოთასა ჰმსახურებენ პირველთარგმანებულისა ამის მოძღურებისა ებრ , არამედ მაშინ შეკრებულთა .</em>
+* <em>ზედა</em>
+  * <tt><a href="oge_glc-pos-ADP.html">ADP</a></tt> 25: <em>და ესევე იქმენინ ეკლესიასა მისისა მპყრობელისა ეპისკოპოსისაცა <b>ზედა</b> .</em>
+  * <tt><a href="oge_glc-pos-ADV.html">ADV</a></tt> 2: <em>ხოლო ვინაჲთ გან არარაჲ ქმნილ არს ესევითარი , <b>ზედა</b> დაჰჴმობს იგი საქმესა მას და გამოუთქუმელისა უსამართლოებისა მოწევნასა მის ზედა და უწესოდ განდევნილობასა თჳსსა იტყჳს , რომლისა თანა ამასცა დაჰრთავს , ვითარმედ წარტაცებაჲ შეემთხჳა ყოველთავე ქონებულთა მისდა საჴმართაჲ .</em>
+* <em>მარადის</em>
+  * <tt><a href="oge_glc-pos-ADV.html">ADV</a></tt> 2: <em>არამედ ქალაქსაცა შინა ეფესელთასა თევდოსის ზე არკადის ძისა , მეფისა ჩუენისა პირველად შეკრებულთა ღმრთივ შემოსილთა ორასთა მამათა ჩუენთა მიერ დასხმულთა მოძღურებათა , ვითარცა განურღუეველთა სიმტკიცეთა კეთილად მსახურებისათა დავჰბეჭდავთ ერთად ქრისტედ ძედ ღმრთისად მქადაგებელნი უფლისანი შემდგომად განჴორციელებისაცა და უთესლოდ მშობელისა მისისა , უხრწნელისა <b>მარადის</b> ქალწულისა საკუთრად და ჭეშმარიტად ღმრთისმშობელად აღმსაარებელნი და მცბიერისა ნისტორის განყოფისა , ვითარცა საღმრთოჲსა ნაწილისა გან უცხოქმნილისა შორს წარმდევნელნი , რომელი იგი განთჳსებულად კაცად და განთჳსებულად ღმრთად ერთსა და მასვე ქრისტესა სჯულისმდებლობდა და ჰურიაებრსა ბოროტად მადიდებლობასა განაახლებდა .</em>
+  * <tt><a href="oge_glc-pos-ADJ.html">ADJ</a></tt> 1: <em>ა(1) წესი რჩეული ყოვლისავე სიტყუად და საქმედ დამწყებელისაჲ ღმრთისა გან დაწყებაჲ და ღმრთისა თანა განსუენებაჲ არს ჴმისაებრ ღმრთისმეტყუელისა , ვინაჲცა ჩუენ მიერ ეგერა ბრწყინვალედ ქადაგებულისა კეთილად მსახურებისა და ქრისტეს ზედა დაფუძნებულისა ეკლესიისა <b>მარადის</b> აღორძინებისა და წარმატებისა მოსწრაფენი ვიდრე ნაძუთა ლიბანისათა ზეშთა აღმატებად მდე მისსა .</em>
+* <em>ამისთჳს</em>
+  * <tt><a href="oge_glc-pos-ADV.html">ADV</a></tt> 1: <em>და სამოთხე საშუებელისაჲ ყოველთა თჳს განეღების და დასასრულსა იქმნებიან ყოველნივე ახალ , არამედ ვინაჲთ გან კაცისმკლველი ეშმაკი განლაღნა ერთგზის წინააღმდგომად ყოვლისა მპყრობელისა უფლისა და ელმოდა და შვა ტკივილი განდგომიელბისაჲ , ვერ თავს იდებდა , რაჲთამცა მიხილნა ჩუენ აღდგომილნი მის დაცემისა გან , რომლისა მიზეზ იქმნა პირველ იგი გარდასლვაჲ და ზეცად აღსრულნი დასაბამისა მიერ ჩუენისა , რომელ არს ქრისტე , რომელმან იგი მისცა თავი თჳი საჴსრად ჩუენდა , <b>ამისთჳს</b> არა დასცხრა სისრად ისართა სიბოროტისათა და მარადის წყლვად მორწმუნეთა ვნებათა მიერ , რაჲთამცა განაშორნა იგინი მიცემულისა გან მათდა სულიერისა მოქმედებისა და პატივისა გან და მადლისა , არამედ არცა სახიერმან ღუაწლის დამდებელმან ჩუენმან და ცხორებისა წინამძღუარმან ღმერთმან შეუწევნელად დამიტევნა ჩუენ , არამედ თითოეულისა ნათესავსა შინა საჭურველითა კეთილთად მსახურებისა თჳსისაჲთა აღჭურვილნი და მისა მიმართისა ბრძოლისა მოღუაწენი სტადიონსა შინა ამის საწუთოჲსასა წინააღმდგომით ბრძოლად მისსა განაწყვნა , რომელთა იგი მახჳი სულისაჲ რომელ არს სიტყუაჲ ღმრთისა სიმჴნით იჴადეს და ესრეთ ეკუეთნეს ბოროტსა მას და ჩუენდა მომართ მძლავრებაჲ მისი დაჰჴსნეს და წინამძღუარ სამწყსოთა ღმრთისათა იქმნნეს და წრფელ ყვნეს გზანი უფლისანი ერისათჳს მისისა , რაჲთა არა შეჰბრკოლდებოდინ და კაპანთა მიმართ უსჯულოებისათა უმეცრებითა უმჯობესისაჲთა შთაიბნეოდინ , რამეთუ უჴმდა მას , რომელმან იგი ყოფაჲ მოგუმადლა ჩუენ და ესოდენ მაღლითა თანა შთამოსლვითა და დამდაბლებითა ნათესავი ჩუენი განაახლა და თავისა მიმართ თჳსისა აღუწოდა და აღიყვანა , რაჲთა კეთილად ყოფისა მიმართნიცა ალაგნი გჳჩუენნეს ჩუენ მნათობთა მიერ და მოძღუართა ეკლესიისათა და განანათლნეს მათ მიერ საღმრთონი სლვანი ჩუენნი და სახარებისა მიმართ გზა მიყოს , რომელთა ესე მოქალაქობაჲ ცათა შინა არს საღმრთოჲსაებრ მოციქულისა , რომლისა თჳს აწ ჩუენდა თჳსისა ცხორებისა უდებებით გარდამჴდელთა და უქმებითა გულისსიტყუათაჲთა მძინარეთა , რაჲთა არა განუკრძალველთა მომართ მოვიდეს გზასა ზედა მდგომარე მტერი და მცირედ მცირედ წარპარვითა სათნოებისაჲთა სიბოროტე შემომართუას ნაცვალად .</em>
+  * <tt><a href="oge_glc-pos-NOUN.html">NOUN</a></tt> 1: <em>ხოლო ყოფადისა და მომავალისა ჟამისათჳს მეშინოდა მე და <b>ამისთჳს</b> შემოვიღე შორის კითხვაჲ .</em>
+
+## Morphology
+
+The form / lemma ratio of `ADV` is 1.012422 (the average of all parts of speech is 1.566123).
+
+The 1st highest number of forms (3) was observed with the lemma “ამიერ”: <em>ამიერ, ამიერით, ამიერცა</em>.
+
+The 2nd highest number of forms (2) was observed with the lemma “მერმე”: <em>მერმე, მერმეცა</em>.
+
+The 3rd highest number of forms (2) was observed with the lemma “პირველ”: <em>პირველ, პირველვე</em>.
+
+`ADV` occurs with 3 features: <tt><a href="oge_glc-feat-AdvType.html">AdvType</a></tt> (324; 79% instances), <tt><a href="oge_glc-feat-PartType.html">PartType</a></tt> (13; 3% instances), <tt><a href="oge_glc-feat-ExtPos.html">ExtPos</a></tt> (1; 0% instances)
+
+`ADV` occurs with 8 feature-value pairs: `AdvType=Cau`, `AdvType=Loc`, `AdvType=Man`, `AdvType=Rel`, `AdvType=Tim`, `ExtPos=ADV`, `PartType=Emp`, `PartType=Neg`
+
+`ADV` occurs with 12 feature combinations.
+The most frequent feature combination is `AdvType=Man` (214 tokens).
+Examples: <em>კეთილად, ღმრთივ, ესრეთ, ყოვლად, ეგრეთვე, მხოლოდ, ოდენ, ბოროტად, წმიდად, ამიერ</em>
+
+
+## Relations
+
+`ADV` nodes are attached to their parents using 13 different relations: <tt><a href="oge_glc-dep-advmod.html">advmod</a></tt> (370; 90% instances), <tt><a href="oge_glc-dep-conj.html">conj</a></tt> (18; 4% instances), <tt><a href="oge_glc-dep-advcl.html">advcl</a></tt> (3; 1% instances), <tt><a href="oge_glc-dep-fixed.html">fixed</a></tt> (3; 1% instances), <tt><a href="oge_glc-dep-parataxis.html">parataxis</a></tt> (3; 1% instances), <tt><a href="oge_glc-dep-xcomp.html">xcomp</a></tt> (3; 1% instances), <tt><a href="oge_glc-dep-ccomp.html">ccomp</a></tt> (2; 0% instances), <tt><a href="oge_glc-dep-compound.html">compound</a></tt> (2; 0% instances), <tt><a href="oge_glc-dep-root.html">root</a></tt> (2; 0% instances), <tt><a href="oge_glc-dep-acl-relcl.html">acl:relcl</a></tt> (1; 0% instances), <tt><a href="oge_glc-dep-mark.html">mark</a></tt> (1; 0% instances), <tt><a href="oge_glc-dep-nmod.html">nmod</a></tt> (1; 0% instances), <tt><a href="oge_glc-dep-obl.html">obl</a></tt> (1; 0% instances)
+
+Parents of `ADV` nodes belong to 11 different parts of speech: <tt><a href="oge_glc-pos-VERB.html">VERB</a></tt> (231; 56% instances), <tt><a href="oge_glc-pos-NOUN.html">NOUN</a></tt> (100; 24% instances), <tt><a href="oge_glc-pos-ADV.html">ADV</a></tt> (26; 6% instances), <tt><a href="oge_glc-pos-ADJ.html">ADJ</a></tt> (20; 5% instances), <tt><a href="oge_glc-pos-PRON.html">PRON</a></tt> (11; 3% instances), <tt><a href="oge_glc-pos-AUX.html">AUX</a></tt> (10; 2% instances), <tt><a href="oge_glc-pos-ADP.html">ADP</a></tt> (4; 1% instances), <tt><a href="oge_glc-pos-NUM.html">NUM</a></tt> (3; 1% instances), <tt><a href="oge_glc-pos-PART.html">PART</a></tt> (2; 0% instances),  (2; 0% instances), <tt><a href="oge_glc-pos-PROPN.html">PROPN</a></tt> (1; 0% instances)
+
+300 (73%) `ADV` nodes are leaves.
+
+60 (15%) `ADV` nodes have one child.
+
+27 (7%) `ADV` nodes have two children.
+
+23 (6%) `ADV` nodes have three or more children.
+
+The highest child degree of a `ADV` node is 9.
+
+Children of `ADV` nodes are attached using 21 different relations: <tt><a href="oge_glc-dep-cc.html">cc</a></tt> (28; 13% instances), <tt><a href="oge_glc-dep-obl.html">obl</a></tt> (28; 13% instances), <tt><a href="oge_glc-dep-advmod.html">advmod</a></tt> (19; 9% instances), <tt><a href="oge_glc-dep-punct.html">punct</a></tt> (19; 9% instances), <tt><a href="oge_glc-dep-conj.html">conj</a></tt> (17; 8% instances), <tt><a href="oge_glc-dep-case.html">case</a></tt> (15; 7% instances), <tt><a href="oge_glc-dep-cop.html">cop</a></tt> (14; 7% instances), <tt><a href="oge_glc-dep-advmod-neg.html">advmod:neg</a></tt> (13; 6% instances), <tt><a href="oge_glc-dep-nsubj.html">nsubj</a></tt> (13; 6% instances), <tt><a href="oge_glc-dep-mark.html">mark</a></tt> (9; 4% instances), <tt><a href="oge_glc-dep-nmod.html">nmod</a></tt> (9; 4% instances), <tt><a href="oge_glc-dep-advcl.html">advcl</a></tt> (5; 2% instances), <tt><a href="oge_glc-dep-amod.html">amod</a></tt> (5; 2% instances), <tt><a href="oge_glc-dep-obj.html">obj</a></tt> (5; 2% instances), <tt><a href="oge_glc-dep-xcomp.html">xcomp</a></tt> (3; 1% instances), <tt><a href="oge_glc-dep-acl-relcl.html">acl:relcl</a></tt> (2; 1% instances), <tt><a href="oge_glc-dep-dep.html">dep</a></tt> (2; 1% instances), <tt><a href="oge_glc-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="oge_glc-dep-csubj.html">csubj</a></tt> (1; 0% instances), <tt><a href="oge_glc-dep-fixed.html">fixed</a></tt> (1; 0% instances), <tt><a href="oge_glc-dep-parataxis.html">parataxis</a></tt> (1; 0% instances)
+
+Children of `ADV` nodes belong to 13 different parts of speech: <tt><a href="oge_glc-pos-NOUN.html">NOUN</a></tt> (40; 19% instances), <tt><a href="oge_glc-pos-CCONJ.html">CCONJ</a></tt> (28; 13% instances), <tt><a href="oge_glc-pos-ADV.html">ADV</a></tt> (26; 12% instances), <tt><a href="oge_glc-pos-PUNCT.html">PUNCT</a></tt> (19; 9% instances), <tt><a href="oge_glc-pos-ADP.html">ADP</a></tt> (18; 9% instances), <tt><a href="oge_glc-pos-VERB.html">VERB</a></tt> (16; 8% instances), <tt><a href="oge_glc-pos-AUX.html">AUX</a></tt> (14; 7% instances), <tt><a href="oge_glc-pos-PART.html">PART</a></tt> (14; 7% instances), <tt><a href="oge_glc-pos-PRON.html">PRON</a></tt> (13; 6% instances), <tt><a href="oge_glc-pos-SCONJ.html">SCONJ</a></tt> (9; 4% instances), <tt><a href="oge_glc-pos-ADJ.html">ADJ</a></tt> (7; 3% instances), <tt><a href="oge_glc-pos-NUM.html">NUM</a></tt> (3; 1% instances), <tt><a href="oge_glc-pos-PROPN.html">PROPN</a></tt> (3; 1% instances)
+

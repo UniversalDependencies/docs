@@ -49,7 +49,7 @@ The most frequent other feature values with which `PRON` and `Polarity` co-occur
 
 12 <tt><a href="la_llct-pos-ADV.html">ADV</a></tt> tokens (0% of all `ADV` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `ADV` and `Polarity` co-occurred: <tt><a href="la_llct-feat-AdvType.html">AdvType</a></tt><tt>=EMPTY</tt> (12; 100%).
+The most frequent other feature values with which `ADV` and `Polarity` co-occurred: <tt><a href="la_llct-feat-AdvType.html">AdvType</a></tt><tt>=EMPTY</tt> (12; 100%), <tt><a href="la_llct-feat-ExtPos.html">ExtPos</a></tt><tt>=EMPTY</tt> (12; 100%).
 
 `ADV` tokens may have the following values of `Polarity`:
 

@@ -100,7 +100,7 @@ The most frequent other feature values with which `PART` and `Abbr` co-occurred:
 ## Relations with Agreement in `Abbr`
 
 The 10 most frequent relations where parent and child node agree in `Abbr`:
-<tt>NOUN --[<tt><a href="la_ittb-dep-nmod.html">nmod</a></tt>]--> ADJ</tt> (30; 81%),
+<tt>NOUN --[<tt><a href="la_ittb-dep-nmod.html">nmod</a></tt>]--> ADJ</tt> (32; 82%),
 <tt>ADJ --[<tt><a href="la_ittb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (24; 100%),
 <tt>PROPN --[<tt><a href="la_ittb-dep-nmod.html">nmod</a></tt>]--> ADJ</tt> (23; 79%),
 <tt>NOUN --[<tt><a href="la_ittb-dep-conj.html">conj</a></tt>]--> NOUN</tt> (22; 92%),
@@ -108,6 +108,6 @@ The 10 most frequent relations where parent and child node agree in `Abbr`:
 <tt>ADJ --[<tt><a href="la_ittb-dep-conj.html">conj</a></tt>]--> NOUN</tt> (3; 100%),
 <tt>PROPN --[<tt><a href="la_ittb-dep-conj.html">conj</a></tt>]--> PROPN</tt> (3; 100%),
 <tt>NOUN --[<tt><a href="la_ittb-dep-nmod.html">nmod</a></tt>]--> VERB</tt> (2; 100%),
-<tt>NOUN --[<tt><a href="la_ittb-dep-obl.html">obl</a></tt>]--> ADJ</tt> (2; 67%),
-<tt>NOUN --[<tt><a href="la_ittb-dep-conj.html">conj</a></tt>]--> ADJ</tt> (1; 100%).
+<tt>NOUN --[<tt><a href="la_ittb-dep-conj.html">conj</a></tt>]--> ADJ</tt> (1; 100%),
+<tt>NOUN --[<tt><a href="la_ittb-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (1; 100%).
 

@@ -45,13 +45,7 @@ The 2nd highest number of forms (3) was observed with the lemma “મોદી�
 
 The 3rd highest number of forms (1) was observed with the lemma “CRPFએ”: <em>CRPFએ</em>.
 
-`PROPN` occurs with 1 features: <tt><a href="gu_gujtb-feat-Case.html">Case</a></tt> (14; 10% instances)
-
-`PROPN` occurs with 6 feature-value pairs: `Case=Abl`, `Case=Cmp`, `Case=Dat`, `Case=Erg`, `Case=Loc`, `Case=Nom`
-
-`PROPN` occurs with 7 feature combinations.
-The most frequent feature combination is `_` (131 tokens).
-Examples: <em>_, મગન, પીટર, કપૂર, નરેન્દ્ર, ભાજપ, મેરી, મોદી, યહોવાહ, વડાપ્રધાન</em>
+`PROPN` does not occur with any features.
 
 
 ## Relations

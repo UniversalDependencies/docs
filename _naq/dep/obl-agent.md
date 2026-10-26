@@ -10,10 +10,11 @@ The relation `obl:agent` is used for agents of passive verbs. Agents of passive 
 ~~~ sdparse
 Petrub ge Marias xa ge mîǁamhe . \n Petru DECL Maria by PST be_offended .
 nsubj:pass(mîǁamhe, Petrub)
-obl:agend(mîǁamhe, Marias)
+obl:agent(mîǁamhe, Marias)
 case(Marias, xa)
 nsubj:pass(be_offended, Petru)
 obl:agent(be_offended, Maria)
 case(Maria, by)
 ~~~
 
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:31 CEST -->

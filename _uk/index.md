@@ -159,6 +159,7 @@ This is an overview only. For more detailed discussion and examples, see the lis
 
 ## Treebanks
 
-Currently there is a single Ukrainian UD treebank:
+Currently there are two Ukrainian UD treebanks:
 
   * [Ukrainian-IU](../treebanks/uk_iu/index.html)
+  * [Ukrainian-ParlaMint](../treebanks/uk_parlamint/index.html)

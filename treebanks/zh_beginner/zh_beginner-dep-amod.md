@@ -10,8 +10,8 @@ This relation is universal.
 
 157 nodes (1%) are attached to their parents as `amod`.
 
-150 instances of `amod` (96%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.15923566878981.
+151 instances of `amod` (96%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.1656050955414.
 
 The following 5 pairs of parts of speech are connected with `amod`: <tt><a href="zh_beginner-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_beginner-pos-ADJ.html">ADJ</a></tt> (150; 96% instances), <tt><a href="zh_beginner-pos-ADJ.html">ADJ</a></tt>-<tt><a href="zh_beginner-pos-ADJ.html">ADJ</a></tt> (3; 2% instances), <tt><a href="zh_beginner-pos-NUM.html">NUM</a></tt>-<tt><a href="zh_beginner-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="zh_beginner-pos-PRON.html">PRON</a></tt>-<tt><a href="zh_beginner-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="zh_beginner-pos-PROPN.html">PROPN</a></tt>-<tt><a href="zh_beginner-pos-ADJ.html">ADJ</a></tt> (1; 1% instances).
 

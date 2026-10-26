@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  <em>=</em> (<tt><a href="fi_ood-pos-PUNCT
 
 ## Morphology
 
-The form / lemma ratio of `SYM` is 1.008621 (the average of all parts of speech is 1.566190).
+The form / lemma ratio of `SYM` is 1.008621 (the average of all parts of speech is 1.565977).
 
 The 1st highest number of forms (2) was observed with the lemma “https”: <em>https://t.co/O7y8YXnXJM, https://t.co/l4w6clYexv</em>.
 
@@ -37,7 +37,7 @@ The 3rd highest number of forms (1) was observed with the lemma “%”: <em>%</
 
 ## Relations
 
-`SYM` nodes are attached to their parents using 15 different relations: <tt><a href="fi_ood-dep-discourse.html">discourse</a></tt> (141; 72% instances), <tt><a href="fi_ood-dep-nmod-poss.html">nmod:poss</a></tt> (10; 5% instances), <tt><a href="fi_ood-dep-obl.html">obl</a></tt> (8; 4% instances), <tt><a href="fi_ood-dep-cc.html">cc</a></tt> (7; 4% instances), <tt><a href="fi_ood-dep-advmod.html">advmod</a></tt> (5; 3% instances), <tt><a href="fi_ood-dep-conj.html">conj</a></tt> (4; 2% instances), <tt><a href="fi_ood-dep-parataxis.html">parataxis</a></tt> (4; 2% instances), <tt><a href="fi_ood-dep-root.html">root</a></tt> (4; 2% instances), <tt><a href="fi_ood-dep-appos.html">appos</a></tt> (3; 2% instances), <tt><a href="fi_ood-dep-flat-foreign.html">flat:foreign</a></tt> (3; 2% instances), <tt><a href="fi_ood-dep-nummod.html">nummod</a></tt> (2; 1% instances), <tt><a href="fi_ood-dep-orphan.html">orphan</a></tt> (2; 1% instances), <tt><a href="fi_ood-dep-case.html">case</a></tt> (1; 1% instances), <tt><a href="fi_ood-dep-nmod.html">nmod</a></tt> (1; 1% instances), <tt><a href="fi_ood-dep-obj.html">obj</a></tt> (1; 1% instances)
+`SYM` nodes are attached to their parents using 14 different relations: <tt><a href="fi_ood-dep-discourse.html">discourse</a></tt> (141; 72% instances), <tt><a href="fi_ood-dep-obl.html">obl</a></tt> (11; 6% instances), <tt><a href="fi_ood-dep-nmod-poss.html">nmod:poss</a></tt> (10; 5% instances), <tt><a href="fi_ood-dep-cc.html">cc</a></tt> (7; 4% instances), <tt><a href="fi_ood-dep-advmod.html">advmod</a></tt> (5; 3% instances), <tt><a href="fi_ood-dep-conj.html">conj</a></tt> (4; 2% instances), <tt><a href="fi_ood-dep-parataxis.html">parataxis</a></tt> (4; 2% instances), <tt><a href="fi_ood-dep-root.html">root</a></tt> (4; 2% instances), <tt><a href="fi_ood-dep-appos.html">appos</a></tt> (3; 2% instances), <tt><a href="fi_ood-dep-nummod.html">nummod</a></tt> (2; 1% instances), <tt><a href="fi_ood-dep-orphan.html">orphan</a></tt> (2; 1% instances), <tt><a href="fi_ood-dep-case.html">case</a></tt> (1; 1% instances), <tt><a href="fi_ood-dep-nmod.html">nmod</a></tt> (1; 1% instances), <tt><a href="fi_ood-dep-obj.html">obj</a></tt> (1; 1% instances)
 
 Parents of `SYM` nodes belong to 12 different parts of speech: <tt><a href="fi_ood-pos-VERB.html">VERB</a></tt> (93; 47% instances), <tt><a href="fi_ood-pos-NOUN.html">NOUN</a></tt> (50; 26% instances), <tt><a href="fi_ood-pos-PROPN.html">PROPN</a></tt> (14; 7% instances), <tt><a href="fi_ood-pos-NUM.html">NUM</a></tt> (10; 5% instances), <tt><a href="fi_ood-pos-ADJ.html">ADJ</a></tt> (7; 4% instances), <tt><a href="fi_ood-pos-PRON.html">PRON</a></tt> (5; 3% instances), <tt><a href="fi_ood-pos-SYM.html">SYM</a></tt> (5; 3% instances),  (4; 2% instances), <tt><a href="fi_ood-pos-X.html">X</a></tt> (4; 2% instances), <tt><a href="fi_ood-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="fi_ood-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="fi_ood-pos-INTJ.html">INTJ</a></tt> (1; 1% instances)
 

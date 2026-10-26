@@ -26,8 +26,8 @@ The following 14 pairs of parts of speech are connected with `advcl`: <tt><a hre
 2	semua	semua	DET	_	PronType=Tot	3	det	_	_
 3	orang	orang	NOUN	_	Number=Sing	5	nsubj	_	_
 4	bisa	bisa	AUX	_	_	5	aux	_	_
-5	beranjak	anjak	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
-6	melampaui	lampau	VERB	_	Mood=Ind|Voice=Act	5	advcl	_	_
+5	beranjak	anjak	VERB	_	Voice=Act	0	root	_	_
+6	melampaui	lampau	VERB	_	Voice=Act	5	advcl	_	_
 7	itu	itu	PRON	_	PronType=Dem	6	obj	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	5	punct	_	_
 
@@ -46,8 +46,8 @@ The following 14 pairs of parts of speech are connected with `advcl`: <tt><a hre
 4	Manusia	manusia	NOUN	_	Number=Sing	7	nsubj	_	_
 5	bisa	bisa	AUX	_	_	7	aux	_	_
 6	lebih	lebih	ADV	_	_	7	advmod	_	_
-7	bertanggung	tanggung	VERB	_	Mood=Ind|Voice=Act	2	advcl	_	_
-8	jawab	jawab	VERB	_	Mood=Ind|Voice=Act	7	xcomp	_	_
+7	bertanggung	tanggung	VERB	_	Voice=Act	2	advcl	_	_
+8	jawab	jawab	VERB	_	Voice=Act	7	xcomp	_	_
 9	dalam	dalam	ADP	_	_	10	case	_	_
 10	hal	hal	NOUN	_	Number=Sing	7	obl	_	_
 11	kontrasepsi	kontrasepsi	NOUN	_	Number=Sing	10	nmod	_	SpaceAfter=No
@@ -64,7 +64,7 @@ The following 14 pairs of parts of speech are connected with `advcl`: <tt><a hre
 # visual-style 3 8 advcl	color:blue
 1	Von	Von	PROPN	_	_	3	nsubj	_	_
 2	Beust	Beust	PROPN	_	_	1	flat:name	_	_
-3	membenarkan	benar	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
+3	membenarkan	benar	VERB	_	Voice=Act	0	root	_	_
 4	peningkatan	tingkat	NOUN	_	Number=Sing	3	obj	_	_
 5	biaya	biaya	NOUN	_	Number=Sing	4	nmod	_	_
 6	itu	itu	DET	_	PronType=Dem	4	det	_	_
@@ -72,7 +72,7 @@ The following 14 pairs of parts of speech are connected with `advcl`: <tt><a hre
 8	kurang	kurang	ADJ	_	_	3	advcl	_	_
 9	nya	nya	DET	_	Definite=Def|PronType=Art	8	det	_	_
 10	perencanaan	rencana	NOUN	_	Number=Sing	8	nsubj	_	_
-11	terperinci	perinci	VERB	_	Mood=Ind|Voice=Pass	10	acl	_	SpaceAfter=No
+11	terperinci	perinci	VERB	_	Voice=Pass	10	acl	_	SpaceAfter=No
 12	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~

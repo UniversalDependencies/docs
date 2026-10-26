@@ -130,7 +130,7 @@ The most frequent other feature values with which `ADV` and `VerbForm` co-occurr
 
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
 <tt>VERB --[<tt><a href="sl_sst-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (851; 75%),
-<tt>VERB --[<tt><a href="sl_sst-dep-conj.html">conj</a></tt>]--> VERB</tt> (724; 80%),
+<tt>VERB --[<tt><a href="sl_sst-dep-conj.html">conj</a></tt>]--> VERB</tt> (721; 79%),
 <tt>VERB --[<tt><a href="sl_sst-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (398; 66%),
 <tt>VERB --[<tt><a href="sl_sst-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (294; 53%),
 <tt>VERB --[<tt><a href="sl_sst-dep-parataxis-discourse.html">parataxis:discourse</a></tt>]--> VERB</tt> (266; 66%),

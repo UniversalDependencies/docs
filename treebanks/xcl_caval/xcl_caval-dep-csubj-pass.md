@@ -24,7 +24,7 @@ The following 1 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 # visual-style 8	fgColor:white
 # visual-style 8 3 csubj:pass	color:blue
 1	Եւ	եւ	CCONJ	_	_	8	cc	_	Translit=Ew|LTranslit=ew|Gloss=and
-2	որ	որ	PRON	_	Case=Nom|Number=Sing|PronType=Rel	3	nsubj	_	Translit=or|LTranslit=or|Gloss=which
+2	որ	որ	PRON	_	Case=Nom|Number=Sing|PronType=Rel	3	nsubj	_	Translit=or|LTranslit=or|Gloss=who
 3	սիրէ	սիրել	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	csubj:pass	_	SpaceAfter=No|Translit=sirē|LTranslit=sirel|Gloss=love
 4	ն	ն	DET	_	Definite=Def|Deixis=Remt|PronType=Art	2	det	_	Translit=n|LTranslit=n|Gloss=that
 5	զ	զ	ADP	_	Definite=Def	6	case	_	SpaceAfter=No|Translit=z|LTranslit=z
@@ -39,11 +39,11 @@ The following 1 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 14	ես	ես	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	15	nsubj	_	Translit=es|LTranslit=es|Gloss=I
 15	սիրեցից	սիրել	VERB	_	Aspect=Perf|Mood=Sub|Number=Sing|Person=1|VerbForm=Fin|Voice=Act	8	conj	_	Translit=sirecʻicʻ|LTranslit=sirel|Gloss=love
 16	զ	զ	ADP	_	Definite=Def	17	case	_	SpaceAfter=No|Translit=z|LTranslit=z
-17	նա	նա	PRON	_	Case=Acc|Deixis=Remt|Number=Sing|PronType=Dem	15	obj	_	SpaceAfter=No|Translit=na|LTranslit=na|Gloss=he/she/it/that
+17	նա	նա	PRON	_	Case=Acc|Deixis=Remt|Number=Sing|PronType=Dem	15	obj	_	SpaceAfter=No|Translit=na|LTranslit=na|Gloss=he/she/it
 18	.	.	PUNCT	_	_	20	punct	_	Translit=:|LTranslit=:
 19	եւ	եւ	CCONJ	_	_	20	cc	_	Translit=ew|LTranslit=ew|Gloss=and
 20	երեւեցուցից	երեւեցուցանել	VERB	_	Aspect=Perf|Mood=Sub|Number=Sing|Person=1|VerbForm=Fin|Voice=Cau	8	conj	_	Translit=erewecʻowcʻicʻ|LTranslit=erewecʻowcʻanel|Gloss=imagine
-21	նմա	նա	PRON	_	Case=Dat|Deixis=Remt|Number=Sing|PronType=Dem	20	iobj	_	Translit=nma|LTranslit=na|Gloss=he/she/it/that
+21	նմա	նա	PRON	_	Case=Dat|Deixis=Remt|Number=Sing|PronType=Dem	20	iobj	_	Translit=nma|LTranslit=na|Gloss=he/she/it
 22	զ	զ	ADP	_	Definite=Def	23	case	_	SpaceAfter=No|Translit=z|LTranslit=z
 23	իս	ես	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	20	obj	_	SpaceAfter=No|Translit=is|LTranslit=es|Gloss=I
 24	:	:	PUNCT	_	_	8	punct	_	Translit=.|LTranslit=.

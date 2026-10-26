@@ -14,7 +14,7 @@ udver: '2'
 </tr>
 </table>
 
-In Khoekhoe, `Aspect` is a feature of [auxiliaries](naq-pos/AUX_). Aspect is a feature that specifies duration of the action in time, whether the action has been completed or not.
+In Khoekhoe, `Aspect` is a feature of [auxiliaries](naq-pos/AUX). Aspect is a feature that specifies duration of the action in time, whether the action has been completed or not.
 
 ### <a name="Imp">`Imp`</a>: imperfective aspect
 
@@ -42,6 +42,7 @@ The action took / takes / will take place in a clearly bounded short period of t
 
 #### Examples
 
-* _Tita ge xrat dīsisa ge <b>a</b> ǂnûǃgau._ "I failled grade ten."
+* _Tita ge xrat dīsisa ge <b>a</b> ǂnûǃgau._ "I failed grade ten."
 
 * _Funi ge ge ǂgâ oms ǃnâ o ǁîsa <b>a</b> ǂoa._ "Fun entered the house, then she came out."
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:43 CEST -->

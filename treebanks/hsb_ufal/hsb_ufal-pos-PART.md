@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.418889).
+The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.419479).
 
 The 1st highest number of forms (1) was observed with the lemma “hakle”: <em>hakle</em>.
 
@@ -29,11 +29,11 @@ The 2nd highest number of forms (1) was observed with the lemma “jenož”: <e
 
 The 3rd highest number of forms (1) was observed with the lemma “nic”: <em>nic</em>.
 
-`PART` occurs with 1 features: <tt><a href="hsb_ufal-feat-Polarity.html">Polarity</a></tt> (10; 42% instances)
+`PART` occurs with 2 features: <tt><a href="hsb_ufal-feat-Polarity.html">Polarity</a></tt> (10; 42% instances), <tt><a href="hsb_ufal-feat-ExtPos.html">ExtPos</a></tt> (3; 13% instances)
 
-`PART` occurs with 1 feature-value pairs: `Polarity=Neg`
+`PART` occurs with 3 feature-value pairs: `ExtPos=ADV`, `ExtPos=CCONJ`, `Polarity=Neg`
 
-`PART` occurs with 2 feature combinations.
+`PART` occurs with 4 feature combinations.
 The most frequent feature combination is `_` (14 tokens).
 Examples: <em>jenož, hakle</em>
 

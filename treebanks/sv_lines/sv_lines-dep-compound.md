@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `compound`: <tt><a href="sv_lines-dep-compound-prt.html">compound:prt</a></tt>.
 
-50 nodes (0%) are attached to their parents as `compound`.
+57 nodes (0%) are attached to their parents as `compound`.
 
-49 instances of `compound` (98%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.74.
+56 instances of `compound` (98%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.63157894736842.
 
-The following 5 pairs of parts of speech are connected with `compound`: <tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt> (29; 58% instances), <tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_lines-pos-PROPN.html">PROPN</a></tt> (16; 32% instances), <tt><a href="sv_lines-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sv_lines-pos-PROPN.html">PROPN</a></tt> (3; 6% instances), <tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> (1; 2% instances).
+The following 6 pairs of parts of speech are connected with `compound`: <tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt> (31; 54% instances), <tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_lines-pos-PROPN.html">PROPN</a></tt> (20; 35% instances), <tt><a href="sv_lines-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sv_lines-pos-PROPN.html">PROPN</a></tt> (3; 5% instances), <tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_lines-pos-X.html">X</a></tt> (1; 2% instances), <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -35,21 +35,22 @@ The following 5 pairs of parts of speech are connected with `compound`: <tt><a h
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
-# visual-style 9 7 compound	color:blue
+# visual-style 9 8 compound	color:blue
 1	Den	den	DET	SG-DEF	Definite=Def|Gender=Com|Number=Sing|PronType=Art	3	det	_	_
 2	konverterade	konverterad	ADJ	AD-DEF	Case=Nom|Definite=Def|Degree=Pos|Tense=Past|VerbForm=Part	3	amod	_	_
 3	informationen	information	NOUN	SG-DEF-NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing	4	nsubj:pass	_	_
 4	visas	visa	VERB	PRES-PASS	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
-5	som	som	ADP	_	_	7	case	_	_
-6	Mom's	mom	NOUN	SG-GEN-FGN	_	7	nmod:poss	_	_
-7	Boston	Boston	PROPN	SG-NOM	Case=Nom	9	compound	_	_
-8	Crab	crab	NOUN	SG-NOM-FGN	_	9	compound	_	_
-9	Meat	meat	NOUN	SG-NOM-FGN	_	4	obl	_	SpaceAfter=No
-10	.	.	PUNCT	Period	_	4	punct	_	_
+5	som	som	ADP	_	_	10	case	_	_
+6	Mom	mom	NOUN	SG-GEN-FGN	Case=Nom	10	nmod:poss	_	SpaceAfter=No
+7	's	's	PART	FGN	_	6	case	_	_
+8	Boston	Boston	PROPN	SG-NOM	Case=Nom	9	compound	_	_
+9	Crab	crab	NOUN	SG-NOM-FGN	Foreign=Yes|Number=Sing	10	compound	_	_
+10	Meat	meat	NOUN	SG-NOM-FGN	Foreign=Yes|Number=Sing	4	obl	_	SpaceAfter=No
+11	.	.	PUNCT	Period	_	4	punct	_	_
 
 ~~~
 

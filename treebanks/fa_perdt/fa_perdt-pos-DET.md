@@ -63,7 +63,7 @@ The 10 most frequent ambiguous types:  این (<tt><a href="fa_perdt-pos-DET.htm
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 0.950000 (the average of all parts of speech is 1.486663).
+The form / lemma ratio of `DET` is 0.950000 (the average of all parts of speech is 1.486683).
 
 The 1st highest number of forms (2) was observed with the lemma “آن”: آن, ان.
 
@@ -71,12 +71,18 @@ The 2nd highest number of forms (2) was observed with the lemma “این”: ا
 
 The 3rd highest number of forms (2) was observed with the lemma “همه”: همه, همهٔ.
 
-`DET` does not occur with any features.
+`DET` occurs with 1 features: <tt><a href="fa_perdt-feat-PronType.html">PronType</a></tt> (7267; 70% instances)
+
+`DET` occurs with 3 feature-value pairs: `PronType=Dem`, `PronType=Exc`, `PronType=Int`
+
+`DET` occurs with 4 feature combinations.
+The most frequent feature combination is `PronType=Dem` (6760 tokens).
+Examples: این، آن، همان، همین، چنین، ین، چنان، ان، هر، ابن
 
 
 ## Relations
 
-`DET` nodes are attached to their parents using 10 different relations: <tt><a href="fa_perdt-dep-det.html">det</a></tt> (10273; 98% instances), <tt><a href="fa_perdt-dep-nmod.html">nmod</a></tt> (126; 1% instances), <tt><a href="fa_perdt-dep-conj.html">conj</a></tt> (11; 0% instances), <tt><a href="fa_perdt-dep-obl.html">obl</a></tt> (10; 0% instances), <tt><a href="fa_perdt-dep-obl-arg.html">obl:arg</a></tt> (7; 0% instances), <tt><a href="fa_perdt-dep-nsubj.html">nsubj</a></tt> (5; 0% instances), <tt><a href="fa_perdt-dep-amod.html">amod</a></tt> (2; 0% instances), <tt><a href="fa_perdt-dep-obj.html">obj</a></tt> (2; 0% instances), <tt><a href="fa_perdt-dep-root.html">root</a></tt> (1; 0% instances), <tt><a href="fa_perdt-dep-xcomp.html">xcomp</a></tt> (1; 0% instances)
+`DET` nodes are attached to their parents using 10 different relations: <tt><a href="fa_perdt-dep-det.html">det</a></tt> (10273; 98% instances), <tt><a href="fa_perdt-dep-nmod.html">nmod</a></tt> (129; 1% instances), <tt><a href="fa_perdt-dep-conj.html">conj</a></tt> (11; 0% instances), <tt><a href="fa_perdt-dep-obl.html">obl</a></tt> (8; 0% instances), <tt><a href="fa_perdt-dep-obl-arg.html">obl:arg</a></tt> (6; 0% instances), <tt><a href="fa_perdt-dep-nsubj.html">nsubj</a></tt> (5; 0% instances), <tt><a href="fa_perdt-dep-amod.html">amod</a></tt> (2; 0% instances), <tt><a href="fa_perdt-dep-obj.html">obj</a></tt> (2; 0% instances), <tt><a href="fa_perdt-dep-root.html">root</a></tt> (1; 0% instances), <tt><a href="fa_perdt-dep-xcomp.html">xcomp</a></tt> (1; 0% instances)
 
 Parents of `DET` nodes belong to 12 different parts of speech: <tt><a href="fa_perdt-pos-NOUN.html">NOUN</a></tt> (10235; 98% instances), <tt><a href="fa_perdt-pos-ADJ.html">ADJ</a></tt> (80; 1% instances), <tt><a href="fa_perdt-pos-PROPN.html">PROPN</a></tt> (29; 0% instances), <tt><a href="fa_perdt-pos-NUM.html">NUM</a></tt> (27; 0% instances), <tt><a href="fa_perdt-pos-PRON.html">PRON</a></tt> (18; 0% instances), <tt><a href="fa_perdt-pos-ADV.html">ADV</a></tt> (16; 0% instances), <tt><a href="fa_perdt-pos-DET.html">DET</a></tt> (15; 0% instances), <tt><a href="fa_perdt-pos-VERB.html">VERB</a></tt> (12; 0% instances), <tt><a href="fa_perdt-pos-INTJ.html">INTJ</a></tt> (3; 0% instances), <tt><a href="fa_perdt-pos-ADP.html">ADP</a></tt> (1; 0% instances),  (1; 0% instances), <tt><a href="fa_perdt-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
 

@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Indonesian-GSD: POS Tags: `SYM`
 
 There are 21 `SYM` lemmas (0%), 21 `SYM` types (0%) and 153 `SYM` tokens (0%).
-Out of 17 observed tags, the rank of `SYM` is: 14 in number of lemmas, 14 in number of types and 15 in number of tokens.
+Out of 17 observed tags, the rank of `SYM` is: 14 in number of lemmas, 14 in number of types and 16 in number of tokens.
 
 The 10 most frequent `SYM` lemmas: <em>%, =, °, #, +, $, ', ′, €, //www.anayasa.gen.tr/1961constitution-text.pdf</em>
 
@@ -26,7 +26,7 @@ The 10 most frequent ambiguous types:  <em>'</em> (<tt><a href="id_gsd-pos-PUNCT
 
 ## Morphology
 
-The form / lemma ratio of `SYM` is 1.000000 (the average of all parts of speech is 1.120343).
+The form / lemma ratio of `SYM` is 1.000000 (the average of all parts of speech is 1.122107).
 
 The 1st highest number of forms (1) was observed with the lemma “#”: <em>#</em>.
 

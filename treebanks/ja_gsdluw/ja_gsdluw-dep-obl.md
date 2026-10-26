@@ -8,25 +8,25 @@ udver: '2'
 
 This relation is universal.
 
-12011 nodes (8%) are attached to their parents as `obl`.
+12153 nodes (8%) are attached to their parents as `obl`.
 
-12011 instances of `obl` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 5.21188910165681.
+12153 instances of `obl` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 5.21739488192216.
 
-The following 32 pairs of parts of speech are connected with `obl`: <tt><a href="ja_gsdluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt> (8803; 73% instances), <tt><a href="ja_gsdluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_gsdluw-pos-PROPN.html">PROPN</a></tt> (929; 8% instances), <tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt> (548; 5% instances), <tt><a href="ja_gsdluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_gsdluw-pos-NUM.html">NUM</a></tt> (527; 4% instances), <tt><a href="ja_gsdluw-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt> (509; 4% instances), <tt><a href="ja_gsdluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_gsdluw-pos-PRON.html">PRON</a></tt> (283; 2% instances), <tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_gsdluw-pos-NUM.html">NUM</a></tt> (93; 1% instances), <tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_gsdluw-pos-PROPN.html">PROPN</a></tt> (87; 1% instances), <tt><a href="ja_gsdluw-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_gsdluw-pos-PROPN.html">PROPN</a></tt> (41; 0% instances), <tt><a href="ja_gsdluw-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt> (30; 0% instances), <tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_gsdluw-pos-VERB.html">VERB</a></tt> (29; 0% instances), <tt><a href="ja_gsdluw-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_gsdluw-pos-PRON.html">PRON</a></tt> (28; 0% instances), <tt><a href="ja_gsdluw-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt> (23; 0% instances), <tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_gsdluw-pos-PRON.html">PRON</a></tt> (14; 0% instances), <tt><a href="ja_gsdluw-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_gsdluw-pos-PROPN.html">PROPN</a></tt> (12; 0% instances), <tt><a href="ja_gsdluw-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_gsdluw-pos-PROPN.html">PROPN</a></tt> (8; 0% instances), <tt><a href="ja_gsdluw-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt> (8; 0% instances), <tt><a href="ja_gsdluw-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_gsdluw-pos-NUM.html">NUM</a></tt> (5; 0% instances), <tt><a href="ja_gsdluw-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_gsdluw-pos-PRON.html">PRON</a></tt> (5; 0% instances), <tt><a href="ja_gsdluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_gsdluw-pos-VERB.html">VERB</a></tt> (5; 0% instances), <tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_gsdluw-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="ja_gsdluw-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_gsdluw-pos-NUM.html">NUM</a></tt> (4; 0% instances), <tt><a href="ja_gsdluw-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_gsdluw-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="ja_gsdluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_gsdluw-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="ja_gsdluw-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_gsdluw-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="ja_gsdluw-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_gsdluw-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="ja_gsdluw-pos-AUX.html">AUX</a></tt>-<tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ja_gsdluw-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ja_gsdluw-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_gsdluw-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ja_gsdluw-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_gsdluw-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="ja_gsdluw-pos-SYM.html">SYM</a></tt>-<tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ja_gsdluw-pos-SYM.html">SYM</a></tt>-<tt><a href="ja_gsdluw-pos-SYM.html">SYM</a></tt> (1; 0% instances).
+The following 33 pairs of parts of speech are connected with `obl`: <tt><a href="ja_gsdluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt> (8786; 72% instances), <tt><a href="ja_gsdluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_gsdluw-pos-PROPN.html">PROPN</a></tt> (947; 8% instances), <tt><a href="ja_gsdluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_gsdluw-pos-NUM.html">NUM</a></tt> (683; 6% instances), <tt><a href="ja_gsdluw-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt> (508; 4% instances), <tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt> (466; 4% instances), <tt><a href="ja_gsdluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_gsdluw-pos-PRON.html">PRON</a></tt> (288; 2% instances), <tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_gsdluw-pos-NUM.html">NUM</a></tt> (88; 1% instances), <tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_gsdluw-pos-PROPN.html">PROPN</a></tt> (75; 1% instances), <tt><a href="ja_gsdluw-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt> (43; 0% instances), <tt><a href="ja_gsdluw-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_gsdluw-pos-PROPN.html">PROPN</a></tt> (42; 0% instances), <tt><a href="ja_gsdluw-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt> (29; 0% instances), <tt><a href="ja_gsdluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_gsdluw-pos-ADJ.html">ADJ</a></tt> (29; 0% instances), <tt><a href="ja_gsdluw-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_gsdluw-pos-PRON.html">PRON</a></tt> (28; 0% instances), <tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_gsdluw-pos-VERB.html">VERB</a></tt> (26; 0% instances), <tt><a href="ja_gsdluw-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_gsdluw-pos-NUM.html">NUM</a></tt> (24; 0% instances), <tt><a href="ja_gsdluw-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_gsdluw-pos-NUM.html">NUM</a></tt> (18; 0% instances), <tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_gsdluw-pos-PRON.html">PRON</a></tt> (14; 0% instances), <tt><a href="ja_gsdluw-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_gsdluw-pos-PROPN.html">PROPN</a></tt> (12; 0% instances), <tt><a href="ja_gsdluw-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_gsdluw-pos-PROPN.html">PROPN</a></tt> (10; 0% instances), <tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_gsdluw-pos-ADJ.html">ADJ</a></tt> (6; 0% instances), <tt><a href="ja_gsdluw-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_gsdluw-pos-PRON.html">PRON</a></tt> (5; 0% instances), <tt><a href="ja_gsdluw-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_gsdluw-pos-PROPN.html">PROPN</a></tt> (5; 0% instances), <tt><a href="ja_gsdluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_gsdluw-pos-VERB.html">VERB</a></tt> (5; 0% instances), <tt><a href="ja_gsdluw-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_gsdluw-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="ja_gsdluw-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="ja_gsdluw-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_gsdluw-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="ja_gsdluw-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_gsdluw-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="ja_gsdluw-pos-AUX.html">AUX</a></tt>-<tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ja_gsdluw-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_gsdluw-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ja_gsdluw-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_gsdluw-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ja_gsdluw-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_gsdluw-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="ja_gsdluw-pos-SYM.html">SYM</a></tt>-<tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ja_gsdluw-pos-SYM.html">SYM</a></tt>-<tt><a href="ja_gsdluw-pos-SYM.html">SYM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
 # visual-style 14	bgColor:blue
 # visual-style 14	fgColor:white
-# visual-style 14 5 obl	color:blue
+# visual-style 14 3 obl	color:blue
 1	多彩	多彩	ADJ	形状詞-一般	_	3	acl	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=タサイ,多彩,多彩,多彩,タサイ,,,タサイ,タサイ,多彩
 2	な	だ	AUX	助動詞-助動詞-ダ	_	1	aux	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=ダ,だ,な,だ,ナ,,,ダ,ダ,だ
-3	ライブアクト	ライブアクト	NOUN	名詞-普通名詞-一般	_	5	nmod	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=ライブ;アクト,ライブ;アクト,ライブ;アクト,ライブ;アクト,ライブ;アクト,;,;,ライブ;アクト,ライブアクト,ライブアクト
+3	ライブアクト	ライブアクト	NOUN	名詞-普通名詞-一般	_	14	obl	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=ライブ;アクト,ライブ;アクト,ライブ;アクト,ライブ;アクト,ライブ;アクト,;,;,ライブ;アクト,ライブアクト,ライブアクト
 4	と	と	ADP	助詞-格助詞	_	3	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=ト,と,と,と,ト,,,ト,ト,と
-5	とも	共	NOUN	名詞-普通名詞-一般	_	14	obl	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=トモ,共,とも,とも,トモ,,,トモ,トモ,共
+5	とも	共	NOUN	名詞-普通名詞-一般	_	3	conj	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=トモ,共,とも,とも,トモ,,,トモ,トモ,共
 6	に	に	ADP	助詞-格助詞	_	5	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=ニ,に,に,に,ニ,,,ニ,ニ,に
 7	、	、	PUNCT	補助記号-読点	_	5	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|SpaceAfter=No|UnidicInfo=,、,、,、,,,,,,、
 8	祝日前	祝日前	NOUN	名詞-普通名詞-一般	_	12	nmod	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=シュクジツ;マエ,祝日;前,祝日;前,祝日;前,シュクジツ;マエ,;,;,シュクジツ;マエ,シュクジツマエ,祝日前
@@ -52,9 +52,9 @@ The following 32 pairs of parts of speech are connected with `obl`: <tt><a href=
 # visual-style 10 8 obl	color:blue
 1	同僚教師	同僚教師	NOUN	名詞-普通名詞-一般	_	3	nmod	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=ドウリョウ;キョウシ,同僚;教師,同僚;教師,同僚;教師,ドーリョー;キョーシ,;,;,ドウリョウ;キョウシ,ドウリョウキョウシ,同僚教師
 2	の	の	ADP	助詞-格助詞	_	1	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=ノ,の,の,の,ノ,,,ノ,ノ,の
-3	すみれ	すみれ	PROPN	名詞-固有名詞-人名-名	_	5	nmod	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=スミレ,スミレ,すみれ,すみれ,スミレ,,,スミレ,スミレ,すみれ
+3	すみれ	すみれ	PROPN	名詞-固有名詞-人名-名	_	10	nsubj	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=スミレ,スミレ,すみれ,すみれ,スミレ,,,スミレ,スミレ,すみれ
 4	と	と	ADP	助詞-格助詞	_	3	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=ト,と,と,と,ト,,,ト,ト,と
-5	彩	彩	PROPN	名詞-固有名詞-人名-名	_	10	nsubj	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=アヤ,アヤ,彩,彩,アヤ,,,アヤ,アヤ,彩
+5	彩	彩	PROPN	名詞-固有名詞-人名-名	_	3	conj	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=アヤ,アヤ,彩,彩,アヤ,,,アヤ,アヤ,彩
 6	は	は	ADP	助詞-係助詞	_	5	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=ハ,は,は,は,ワ,,,ハ,ハ,は
 7	そんな	そんな	PRON	連体詞	_	8	nmod	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=ソンナ,そんな,そんな,そんな,ソンナ,,,ソンナ,ソンナ,そんな
 8	夕子	夕子	PROPN	名詞-固有名詞-人名-名	_	10	obl	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=ユウコ,ユウコ,夕子,夕子,ユーコ,,,ユウコ,ユウコ,夕子
@@ -65,7 +65,7 @@ The following 32 pairs of parts of speech are connected with `obl`: <tt><a href=
 13	を	を	ADP	助詞-格助詞	_	12	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=ヲ,を,を,を,オ,,,ヲ,ヲ,を
 14	解決する	解決する	VERB	動詞-一般-サ行変格	_	15	acl	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=カイケツ;スル,解決;為る,解決;する,解決;する,カイケツ;スル,;,;,カイケツ;スル,カイケツスル,解決する
 15	ため	為	NOUN	名詞-普通名詞-一般	_	20	obl	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=タメ,為,ため,ため,タメ,,,タメ,タメ,為
-16	行動	行動	NOUN	名詞-普通名詞-一般	_	20	obj	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=コウドウ,行動,行動,行動,コードー,,,コウドウ,コウドウ,行動
+16	行動	行動	NOUN	名詞-普通名詞-一般	_	20	iobj	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=コウドウ,行動,行動,行動,コードー,,,コウドウ,コウドウ,行動
 17	を	を	ADP	助詞-格助詞	_	16	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=ヲ,を,を,を,オ,,,ヲ,ヲ,を
 18	共	共	NOUN	名詞-普通名詞-一般	_	20	obl	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=トモ,共,共,共,トモ,,,トモ,トモ,共
 19	に	に	ADP	助詞-格助詞	_	18	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=ニ,に,に,に,ニ,,,ニ,ニ,に
@@ -76,28 +76,24 @@ The following 32 pairs of parts of speech are connected with `obl`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 3 obl	color:blue
-1	ただし	但し	CCONJ	接続詞	_	14	cc	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=タダシ,但し,ただし,ただし,タダシ,,,タダシ,タダシ,但し
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 11 9 obl	color:blue
+1	また	又	CCONJ	接続詞	_	11	cc	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=マタ,又,また,また,マタ,,,マタ,マタ,又
 2	、	、	PUNCT	補助記号-読点	_	1	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|SpaceAfter=No|UnidicInfo=,、,、,、,,,,,,、
-3	50周年ソング	50周年ソング	NOUN	名詞-普通名詞-一般	_	5	obl	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=ゴジュウ;シュウネン;ソング,五十;周年;ソング,50;周年;ソング,50;周年;ソング,ゴジッ;シューネン;ソング,;;,;;,ゴジュウ;シュウネン;ソング,ゴジッシュウネンソング,50周年ソング
-4	に	に	ADP	助詞-格助詞	_	3	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=ニ,に,に,に,ニ,,,ニ,ニ,に
-5	変更後	変更後	NOUN	名詞-普通名詞-一般	_	14	nsubj:outer	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=ヘンコウ;ゴ,変更;後,変更;後,変更;後,ヘンコー;ゴ,;,;,ヘンコウ;ゴ,ヘンコウゴ,変更後
-6	は	は	ADP	助詞-係助詞	_	5	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=ハ,は,は,は,ワ,,,ハ,ハ,は
-7	、	、	PUNCT	補助記号-読点	_	5	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|SpaceAfter=No|UnidicInfo=,、,、,、,,,,,,、
-8	ED	ED	NOUN	名詞-普通名詞-一般	_	14	nsubj:outer	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=イーディー,ＥＤ,ED,ED,イーディー,,,イーディー,イーディー,ED
-9	も	も	ADP	助詞-係助詞	_	8	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=モ,も,も,も,モ,,,モ,モ,も
-10	歌つき	歌付き	NOUN	名詞-普通名詞-一般	_	12	nmod	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=ウタ;ツキ,歌;付き,歌;つき,歌;つき,ウタ;ツキ,;,;,ウタ;ツキ,ウタツキ,歌付き
-11	の	の	ADP	助詞-格助詞	_	10	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=ノ,の,の,の,ノ,,,ノ,ノ,の
-12	もの	物	NOUN	名詞-普通名詞-一般	_	14	nsubj	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=モノ,物,もの,もの,モノ,,,モノ,モノ,物
-13	が	が	ADP	助詞-格助詞	_	12	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=ガ,が,が,が,ガ,,,ガ,ガ,が
-14	使わ	使う	VERB	動詞-一般-五段-ワア行	_	0	root	_	BunsetuBILabel=B|BunsetuPositionType=ROOT|SpaceAfter=No|UnidicInfo=ツカウ,使う,使わ,使う,ツカワ,,,ツカウ,ツカウ,使う
-15	れ	れる	AUX	助動詞-助動詞-レル	_	14	aux	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=レル,れる,れ,れる,レ,,,レル,レル,れる
-16	た	た	AUX	助動詞-助動詞-タ	_	14	aux	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|SpaceAfter=No|UnidicInfo=タ,た,た,た,タ,,,タ,タ,た
-17	。	。	PUNCT	補助記号-句点	_	14	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|UnidicInfo=,。,。,。,,,,,,。
+3	前年	前年	NOUN	名詞-普通名詞-一般	_	4	compound	_	BunsetuBILabel=B|BunsetuPositionType=CONT|SpaceAfter=No|UnidicInfo=ゼンネン,前年,前年,前年,ゼンネン,,,ゼンネン,ゼンネン,前年
+4	16本	16本	NUM	名詞-数詞	_	7	compound	_	BunsetuBILabel=I|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=イチ;ロク;ホン,一;六;本,1;6;本,1;6;本,イチ;ロッ;ポン,;;,;;,イチ;ロク;ホン,イチロッポン,16本
+5	だっ	だ	AUX	助動詞-助動詞-ダ	_	4	aux	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=ダ,だ,だっ,だ,ダッ,,,ダ,ダ,だ
+6	た	た	AUX	助動詞-助動詞-タ	_	4	aux	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|SpaceAfter=No|UnidicInfo=タ,た,た,た,タ,,,タ,タ,た
+7	ホームラン	ホームラン	NOUN	名詞-普通名詞-一般	_	11	nsubj	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=ホーム;ラン,ホーム;ラン,ホーム;ラン,ホーム;ラン,ホーム;ラン,;,;,ホーム;ラン,ホームラン,ホームラン
+8	は	は	ADP	助詞-係助詞	_	7	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=ハ,は,は,は,ワ,,,ハ,ハ,は
+9	19本	19本	NUM	名詞-数詞	_	11	obl	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=イチ;キュウ;ホン,一;九;本,1;9;本,1;9;本,イチ;キュー;ホン,;;,;;,イチ;キュウ;ホン,イチキュウホン,19本
+10	まで	まで	ADP	助詞-副助詞	_	9	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=マデ,まで,まで,まで,マデ,,,マデ,マデ,まで
+11	増え	増える	VERB	動詞-一般-下一段-ア行	_	0	root	_	BunsetuBILabel=B|BunsetuPositionType=ROOT|SpaceAfter=No|UnidicInfo=フエル,増える,増え,増える,フエ,,,フエル,フエル,増える
+12	た	た	AUX	助動詞-助動詞-タ	_	11	aux	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=タ,た,た,た,タ,,,タ,タ,た
+13	。	。	PUNCT	補助記号-句点	_	11	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|UnidicInfo=,。,。,。,,,,,,。
 
 ~~~
 

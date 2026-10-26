@@ -71,7 +71,7 @@ The following 3 pairs of parts of speech are connected with `advmod:lmod`: <tt><
 4	Hispanias	Hispania	PROPN	n-p---fa-	Case=Acc|Gender=Fem|Number=Plur	12	obl	_	_
 5	expeditionem	expeditio	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	12	obj	_	_
 6	in	in	ADP	r--------	_	7	case	_	_
-7	Dacos	Daci	PROPN	n-p---ma-	Case=Acc|Gender=Masc|Number=Plur	5	obl	_	_
+7	Dacos	Daci	PROPN	n-p---ma-	Case=Acc|Gender=Masc|Number=Plur	5	nmod	_	_
 8	et	et	CCONJ	c--------	_	11	cc	_	_
 9	inde	inde	ADV	d--------	AdvType=Loc	11	advmod:lmod	_	_
 10	in	in	ADP	r--------	_	11	case	_	_

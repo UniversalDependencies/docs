@@ -41,7 +41,7 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 
 * `Art` (103; 8% of non-empty `PronType`): <em>o, a, os, as</em>
 * `Dem` (58; 4% of non-empty `PronType`): <em>iso, isto, este, estes, esta, aqueles, Ese, aquel, aquela, esa</em>
-* `Ind` (153; 11% of non-empty `PronType`): <em>algo, todo, un, nada, algúns, unha, outros, outro, alguén, mesmo</em>
+* `Ind` (153; 11% of non-empty `PronType`): <em>algo, todo, un, algúns, nada, unha, outros, outro, alguén, mesmo</em>
 * `Int` (25; 2% of non-empty `PronType`): <em>que, Cal, Quen, canto, Cales, Cantos</em>
 * `Prs` (536; 39% of non-empty `PronType`): <em>se, lle, nos, o, me, lo, lles, a, elas, nós</em>
 * `Rel` (497; 36% of non-empty `PronType`): <em>que, quen, cales, cantos</em>

@@ -61,12 +61,12 @@ The 2nd highest number of forms (12) was observed with the lemma “kam”: <em>
 
 The 3rd highest number of forms (2) was observed with the lemma “duhet”: <em>Duhej, duhet</em>.
 
-`AUX` occurs with 6 features: <tt><a href="sq_staf-feat-Number.html">Number</a></tt> (108; 78% instances), <tt><a href="sq_staf-feat-Person.html">Person</a></tt> (108; 78% instances), <tt><a href="sq_staf-feat-Mood.html">Mood</a></tt> (107; 78% instances), <tt><a href="sq_staf-feat-Tense.html">Tense</a></tt> (107; 78% instances), <tt><a href="sq_staf-feat-Voice.html">Voice</a></tt> (104; 75% instances), <tt><a href="sq_staf-feat-Aspect.html">Aspect</a></tt> (1; 1% instances)
+`AUX` occurs with 7 features: <tt><a href="sq_staf-feat-Number.html">Number</a></tt> (108; 78% instances), <tt><a href="sq_staf-feat-Person.html">Person</a></tt> (108; 78% instances), <tt><a href="sq_staf-feat-Mood.html">Mood</a></tt> (107; 78% instances), <tt><a href="sq_staf-feat-Tense.html">Tense</a></tt> (107; 78% instances), <tt><a href="sq_staf-feat-VerbForm.html">VerbForm</a></tt> (107; 78% instances), <tt><a href="sq_staf-feat-Voice.html">Voice</a></tt> (104; 75% instances), <tt><a href="sq_staf-feat-Aspect.html">Aspect</a></tt> (1; 1% instances)
 
-`AUX` occurs with 11 feature-value pairs: `Aspect=Imp`, `Mood=Ind`, `Mood=Sub`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Tense=Past`, `Tense=Pres`, `Voice=Act`
+`AUX` occurs with 12 feature-value pairs: `Aspect=Imp`, `Mood=Ind`, `Mood=Sub`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Tense=Past`, `Tense=Pres`, `VerbForm=Fin`, `Voice=Act`
 
 `AUX` occurs with 15 feature combinations.
-The most frequent feature combination is `Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act` (38 tokens).
+The most frequent feature combination is `Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act` (38 tokens).
 Examples: <em>ishte, kishte</em>
 
 

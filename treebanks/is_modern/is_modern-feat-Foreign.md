@@ -29,12 +29,12 @@ The most frequent other feature values with which `PROPN` and `Foreign` co-occur
 
 ### `X`
 
-59 <tt><a href="is_modern-pos-X.html">X</a></tt> tokens (65% of all `X` tokens) have a non-empty value of `Foreign`.
+59 <tt><a href="is_modern-pos-X.html">X</a></tt> tokens (66% of all `X` tokens) have a non-empty value of `Foreign`.
 
 `X` tokens may have the following values of `Foreign`:
 
 * `Yes` (59; 100% of non-empty `Foreign`): <em>Molde, 2016, Eidur, FK, i, se, your, 22, 3, 8</em>
-* `EMPTY` (32): <em>að, Damörku, Danmörki, EM, Hafnfirðingur, a.m.k., brimbreti, final-four, horfið, hryðjuverkaárásana</em>
+* `EMPTY` (31): <em>að, Damörku, Danmörki, EM, Hafnfirðingur, a.m.k., brimbreti, final-four, horfið, hryðjuverkaárásana</em>
 
 `Foreign` seems to be **lexical feature** of `X`. 100% lemmas (50) occur only with one value of `Foreign`.
 
@@ -47,7 +47,7 @@ The most frequent other feature values with which `ADV` and `Foreign` co-occurre
 `ADV` tokens may have the following values of `Foreign`:
 
 * `Yes` (2; 100% of non-empty `Foreign`): <em>Djokovic, Millar</em>
-* `EMPTY` (6958): <em>ekki, þá, svo, hér, bara, eins, þar, nú, þannig, mjög</em>
+* `EMPTY` (6957): <em>ekki, þá, svo, hér, bara, eins, þar, nú, þannig, mjög</em>
 
 ## Relations with Agreement in `Foreign`
 

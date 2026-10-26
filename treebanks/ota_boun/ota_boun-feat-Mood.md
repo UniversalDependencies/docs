@@ -9,27 +9,27 @@ udver: '2'
 This feature is universal.
 It occurs with 7 different values: `Cnd`, `Des`, `Imp`, `Ind`, `Nec`, `Opt`, `Pot`.
 
-115 tokens (1%) have a non-empty value of `Mood`.
+116 tokens (1%) have a non-empty value of `Mood`.
 85 types (2%) occur at least once with a non-empty value of `Mood`.
-49 lemmas (2%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 2 part-of-speech tags: <tt><a href="ota_boun-pos-VERB.html">VERB</a></tt> (97; 1% instances), <tt><a href="ota_boun-pos-AUX.html">AUX</a></tt> (18; 0% instances).
+51 lemmas (2%) occur at least once with a non-empty value of `Mood`.
+The feature is used with 2 part-of-speech tags: <tt><a href="ota_boun-pos-VERB.html">VERB</a></tt> (98; 1% instances), <tt><a href="ota_boun-pos-AUX.html">AUX</a></tt> (18; 0% instances).
 
 ### `VERB`
 
-97 <tt><a href="ota_boun-pos-VERB.html">VERB</a></tt> tokens (7% of all `VERB` tokens) have a non-empty value of `Mood`.
+98 <tt><a href="ota_boun-pos-VERB.html">VERB</a></tt> tokens (7% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="ota_boun-feat-Evident.html">Evident</a></tt><tt>=EMPTY</tt> (95; 98%), <tt><a href="ota_boun-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (95; 98%), <tt><a href="ota_boun-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (95; 98%), <tt><a href="ota_boun-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (94; 97%), <tt><a href="ota_boun-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (93; 96%), <tt><a href="ota_boun-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (87; 90%), <tt><a href="ota_boun-feat-Number.html">Number</a></tt><tt>=Sing</tt> (76; 78%), <tt><a href="ota_boun-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (75; 77%), <tt><a href="ota_boun-feat-Person.html">Person</a></tt><tt>=3</tt> (69; 71%), <tt><a href="ota_boun-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (52; 54%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="ota_boun-feat-Evident.html">Evident</a></tt><tt>=EMPTY</tt> (96; 98%), <tt><a href="ota_boun-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (96; 98%), <tt><a href="ota_boun-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (96; 98%), <tt><a href="ota_boun-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (94; 96%), <tt><a href="ota_boun-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (94; 96%), <tt><a href="ota_boun-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (88; 90%), <tt><a href="ota_boun-feat-Number.html">Number</a></tt><tt>=Sing</tt> (77; 79%), <tt><a href="ota_boun-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (76; 78%), <tt><a href="ota_boun-feat-Person.html">Person</a></tt><tt>=3</tt> (70; 71%), <tt><a href="ota_boun-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (53; 54%).
 
 `VERB` tokens may have the following values of `Mood`:
 
 * `Cnd` (14; 14% of non-empty `Mood`): <em>ederse, olursa, binenlerse, bıkarlarsa, düşersen, esiyorsa, istersen, olmazsa, olursak, söylense</em>
-* `Des` (12; 12% of non-empty `Mood`): <em>olsa, anlatsam, demeseydi, edilse, mümkünse, olacaksa, olsak, olsaydı, çıkılsa</em>
-* `Imp` (20; 21% of non-empty `Mood`): <em>ediniz, git, veriniz, batarken, bağışlasın, bürünmesin, dinlene, doğarken, doğrayabilsin, ederken</em>
+* `Des` (13; 13% of non-empty `Mood`): <em>olsa, edilse, anlatsam, demeseydi, mümkünse, olacaksa, olsak, olsaydı, çıkılsa</em>
+* `Imp` (20; 20% of non-empty `Mood`): <em>ediniz, git, veriniz, batarken, bağışlasın, bürünmesin, dinlene, doğarken, doğrayabilsin, ederken</em>
 * `Ind` (7; 7% of non-empty `Mood`): <em>demişlerse, döküyordu, görünüyordu, koşuyordu, parlıyordu, uçuyordu, veriyordu</em>
 * `Nec` (4; 4% of non-empty `Mood`): <em>doyurmalı, etmemelidir, getirmeliyiz, hazırlamalı</em>
-* `Opt` (17; 18% of non-empty `Mood`): <em>titreye, inleye, sulana, süzüle, Pekiyiyim, bakayım, damlaya, gelelim, gideyim, çağıralım</em>
-* `Pot` (23; 24% of non-empty `Mood`): <em>olabilir, olamaz, Denilebilir, bulunabilirler, bulunacağın, doğabileceğini, edebildi, edebilecek, edebileceğini, edebilir</em>
-* `EMPTY` (1243): <em>eden, olan, olduğu, etmek, görmek, bilir, başladı, edecek, ettiği, ediyor</em>
+* `Opt` (17; 17% of non-empty `Mood`): <em>titreye, inleye, sulana, süzüle, Pekiyiyim, bakayım, damlaya, gelelim, gideyim, çağıralım</em>
+* `Pot` (23; 23% of non-empty `Mood`): <em>olabilir, olamaz, Denilebilir, bulunabilirler, bulunacağın, doğabileceğini, edebildi, edebilecek, edebileceğini, edebilir</em>
+* `EMPTY` (1251): <em>eden, olan, olduğu, etmek, görmek, bilir, başladı, edecek, ettiği, oldu</em>
 
 <table>
   <tr><th>Paradigm <i>et</i></th><th><tt>Imp</tt></th><th><tt>Cnd</tt></th><th><tt>Pot</tt></th><th><tt>Des</tt></th><th><tt>Nec</tt></th></tr>

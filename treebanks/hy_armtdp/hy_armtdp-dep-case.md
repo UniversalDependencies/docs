@@ -9,33 +9,30 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `case`: <tt><a href="hy_armtdp-dep-case-loc.html">case:loc</a></tt>.
 
-1553 nodes (3%) are attached to their parents as `case`.
+2920 nodes (3%) are attached to their parents as `case`.
 
-1292 instances of `case` (83%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.57179652285898.
+2483 instances of `case` (85%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.66301369863014.
 
-The following 12 pairs of parts of speech are connected with `case`: <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_armtdp-pos-ADP.html">ADP</a></tt> (1093; 70% instances), <tt><a href="hy_armtdp-pos-PRON.html">PRON</a></tt>-<tt><a href="hy_armtdp-pos-ADP.html">ADP</a></tt> (218; 14% instances), <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_armtdp-pos-ADP.html">ADP</a></tt> (135; 9% instances), <tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hy_armtdp-pos-ADP.html">ADP</a></tt> (80; 5% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_armtdp-pos-SCONJ.html">SCONJ</a></tt> (10; 1% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (5; 0% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_armtdp-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances), <tt><a href="hy_armtdp-pos-DET.html">DET</a></tt>-<tt><a href="hy_armtdp-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="hy_armtdp-pos-PRON.html">PRON</a></tt>-<tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="hy_armtdp-pos-X.html">X</a></tt>-<tt><a href="hy_armtdp-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hy_armtdp-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+The following 22 pairs of parts of speech are connected with `case`: <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_armtdp-pos-ADP.html">ADP</a></tt> (1780; 61% instances), <tt><a href="hy_armtdp-pos-PRON.html">PRON</a></tt>-<tt><a href="hy_armtdp-pos-ADP.html">ADP</a></tt> (314; 11% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (296; 10% instances), <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_armtdp-pos-ADP.html">ADP</a></tt> (240; 8% instances), <tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hy_armtdp-pos-ADP.html">ADP</a></tt> (112; 4% instances), <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (48; 2% instances), <tt><a href="hy_armtdp-pos-PRON.html">PRON</a></tt>-<tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (44; 2% instances), <tt><a href="hy_armtdp-pos-NUM.html">NUM</a></tt>-<tt><a href="hy_armtdp-pos-ADP.html">ADP</a></tt> (31; 1% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt> (26; 1% instances), <tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (6; 0% instances), <tt><a href="hy_armtdp-pos-NUM.html">NUM</a></tt>-<tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (5; 0% instances), <tt><a href="hy_armtdp-pos-PRON.html">PRON</a></tt>-<tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt> (4; 0% instances), <tt><a href="hy_armtdp-pos-DET.html">DET</a></tt>-<tt><a href="hy_armtdp-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_armtdp-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hy_armtdp-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hy_armtdp-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_armtdp-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_armtdp-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="hy_armtdp-pos-SYM.html">SYM</a></tt>-<tt><a href="hy_armtdp-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="hy_armtdp-pos-X.html">X</a></tt>-<tt><a href="hy_armtdp-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="hy_armtdp-pos-X.html">X</a></tt>-<tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 3 case	color:blue
-1	Ու	ու	CCONJ	_	_	12	cc	_	Translit=OW|LTranslit=ow
-2	բարոյականության	բարոյականություն	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Coll	12	obl	_	Translit=baroyakanowt’yan|LTranslit=baroyakanowt’yown
-3	հետ	հետ	ADP	_	AdpType=Post	2	case	_	Translit=het|LTranslit=het
-4	էս	այս	DET	_	Deixis=Prox|PronType=Dem|Style=Coll	5	det	_	Translit=ēs|LTranslit=ays
-5	ամենը	ամենը	PRON	_	Case=Nom|PronType=Tot	12	nsubj	_	Translit=amenë|LTranslit=amenë|SpaceAfter=No
-6	,	,	PUNCT	_	_	8	punct	_	Translit=,|LTranslit=,
-7	ոնց	ինչպես	SCONJ	_	Style=Coll	8	mark	_	Translit=onc’|LTranslit=inčpes
-8	խաղի	խաղ	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	12	parataxis	_	Translit=xaġi|LTranslit=xaġ
-9	մեջ	մեջ	ADP	_	AdpType=Post|Case=Nom	8	case	_	Translit=meǰ|LTranslit=meǰ|SpaceAfter=No
-10	,	,	PUNCT	_	_	8	punct	_	Translit=,|LTranslit=,
-11	կապ	կապ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	12	compound:lvc	_	Translit=kap|LTranslit=kap
-12	չունի	ունեմ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=čowni|LTranslit=ownem|SpaceAfter=No
-13	։	։	PUNCT	_	_	12	punct	_	Translit=.|LTranslit=.
+# visual-style 3 4 case	color:blue
+1	Այդ	այդ	DET	_	Deixis=Med|PronType=Dem	2	det	_	Translit=Ayd|LTranslit=ayd
+2	հարցի	հարց	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	3	nmod:poss	_	Translit=harc’i|LTranslit=harc’
+3	պատասխանի	պատասխան	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	5	obl	_	Translit=patasxani|LTranslit=patasxan
+4	համար	համար	ADP	_	AdpType=Post	3	case	_	Translit=hamar|LTranslit=hamar
+5	գնանք	գնալ	VERB	_	Aspect=Prosp|Mood=Sub|Number=Plur|Person=1|Polarity=Pos|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	Translit=gnank’|LTranslit=gnal
+6	մի	մի	DET	_	ExtPos=DET|PronType=Art	8	det	_	Translit=mi|LTranslit=mi
+7	քանի	քանի	DET	_	PronType=Int	6	fixed	_	Translit=k’ani|LTranslit=k’ani
+8	դար	դար	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	9	obl	_	Translit=dar|LTranslit=dar
+9	հետ	հետ	ADV	_	_	5	advmod	_	Translit=het|LTranslit=het|SpaceAfter=No
+10	...	...	PUNCT	_	_	5	punct	_	Translit=...|LTranslit=...
 
 ~~~
 
@@ -53,25 +50,25 @@ The following 12 pairs of parts of speech are connected with `case`: <tt><a href
 5	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	4	cop	_	Translit=ē|LTranslit=em
 6	և	և	CCONJ	_	_	7	cc	_	Translit=ew|LTranslit=ew
 7	ալեկսիա	ալեքսիա	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Coll|Typo=Yes	4	conj	_	Translit=aleksia|LTranslit=alek’sia|SpaceAfter=No
-8	:	:	PUNCT	_	_	4	punct	_	Translit=.|LTranslit=.
+8	:	:	PUNCT	_	Foreign=Yes	4	punct	_	Translit=.|LTranslit=.
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 3 case	color:blue
-1	Գեղեցկությանը	գեղեցկություն	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Def|Number=Sing	2	obl	_	Translit=Geġec’kowt’yanë|LTranslit=geġec’kowt’yown
-2	հասնելու	հասնել	VERB	_	Case=Dat|Definite=Ind|Number=Coll|Polarity=Pos|Subcat=Intr|VerbForm=Gdv|Voice=Mid	4	obl	_	Translit=hasnelow|LTranslit=hasnel
-3	համար	համար	ADP	_	AdpType=Post	2	case	_	Translit=hamar|LTranslit=hamar
-4	պետք	պետք	ADJ	_	_	0	root	_	Translit=petk’|LTranslit=petk’
-5	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	4	cop	_	Translit=ē|LTranslit=em
-6	գեղեցիկ	գեղեցիկ	ADJ	_	Degree=Pos	7	xcomp	_	Translit=geġec’ik|LTranslit=geġec’ik
-7	լինել	լինել	VERB	_	Polarity=Pos|Subcat=Intr|VerbForm=Inf|Voice=Mid	4	csubj	_	Translit=linel|LTranslit=linel|SpaceAfter=No
-8	:	:	PUNCT	_	_	4	punct	_	Translit=.|LTranslit=.
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 7 case	color:blue
+1	Անհայտ	անհայտ	ADV	_	Degree=Pos	2	advmod	_	Translit=Anhayt|LTranslit=anhayt
+2	կորել	կորել|կորչել	VERB	_	Aspect=Perf|Subcat=Intr|VerbForm=Part|Voice=Mid	0	root	_	Translit=korel|LTranslit=korel|korčel
+3	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	2	aux	_	Translit=ē|LTranslit=em
+4	Հայրենական	հայրենական	ADJ	_	_	6	amod	_	Translit=Hayrenakan|LTranslit=hayrenakan
+5	մեծ	մեծ	ADJ	_	Degree=Pos	6	amod	_	Translit=meç|LTranslit=meç
+6	պատերազմի	պատերազմ	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	2	obl	_	Translit=paterazmi|LTranslit=paterazm
+7	ժամանակ	ժամանակ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|ExtPos=ADP|Number=Sing	6	case	_	Translit=žamanak|LTranslit=žamanak|SpaceAfter=No
+8	:	:	PUNCT	_	Foreign=Yes	2	punct	_	Translit=.|LTranslit=.
 
 ~~~
 

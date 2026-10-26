@@ -8,48 +8,41 @@ udver: '2'
 
 This relation is universal.
 
-29 nodes (4%) are attached to their parents as `advcl`.
+971 nodes (4%) are attached to their parents as `advcl`.
 
-29 instances of `advcl` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 5.79310344827586.
+958 instances of `advcl` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.72193614830072.
 
-The following 5 pairs of parts of speech are connected with `advcl`: <tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt>-<tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt> (18; 62% instances), <tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt> (5; 17% instances), <tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt>-<tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt> (4; 14% instances), <tt><a href="ota_dudu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt> (1; 3% instances), <tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt>-<tt><a href="ota_dudu-pos-ADV.html">ADV</a></tt> (1; 3% instances).
+The following 16 pairs of parts of speech are connected with `advcl`: <tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt>-<tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt> (385; 40% instances), <tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt> (201; 21% instances), <tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt>-<tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt> (135; 14% instances), <tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt> (92; 9% instances), <tt><a href="ota_dudu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt> (51; 5% instances), <tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt>-<tt><a href="ota_dudu-pos-ADJ.html">ADJ</a></tt> (48; 5% instances), <tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ota_dudu-pos-ADJ.html">ADJ</a></tt> (25; 3% instances), <tt><a href="ota_dudu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt> (18; 2% instances), <tt><a href="ota_dudu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ota_dudu-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt>-<tt><a href="ota_dudu-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="ota_dudu-pos-AUX.html">AUX</a></tt>-<tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ota_dudu-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="ota_dudu-pos-PRON.html">PRON</a></tt>-<tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ota_dudu-pos-PRON.html">PRON</a></tt>-<tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ota_dudu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt>-<tt><a href="ota_dudu-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 2 advcl	color:blue
-1	yerse	yer	VERB	_	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	compound	_	_
-2	yesün	ye	VERB	_	Mood=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	5	advcl	_	_
-3	yemezse	ye	VERB	_	Aspect=Hab|Mood=Cnd|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	5	advcl	_	_
-4	ṭursun	ṭur	VERB	_	Mood=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	5	compound	_	_
-5	getsün	get	VERB	_	Mood=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 4 advcl	color:blue
+1	baʿdehū	baʿdehū	ADV	_	_	6	advmod	_	_
+2	eski	eski	ADJ	Adj	_	3	amod	_	_
+3	sarāya	sarāy	NOUN	_	Case=Dat|Number=Sing|Person=3	4	obl	_	_
+4	varup	var	VERB	Conv	Polarity=Pos|VerbForm=Conv	6	advcl	_	_
+5	istirāḥat	istirāḥat	NOUN	_	Case=Nom|Number=Sing|Person=3	6	obj	_	_
+6	buyurdılar	buyur	VERB	_	Aspect=Perf|Evident=Fh|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	0	root	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 7 advcl	color:blue
-1	waldteufelin	waldteufel	PROPN	_	Case=Gen|Number=Sing|Person=3	4	nmod:poss	_	_
-2	bu	bu	DET	Demons	_	4	det	_	_
-3	meşhûr	meşhûr	ADJ	Adj	_	4	amod	_	_
-4	valsini	vals	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	7	obj	_	_
-5	ne	ne	PRON	Ques	Case=Nom|Number=Sing|Person=3|PronType=Int	6	obl	_	_
-6	vaḳt	vaḳt	NOUN	_	Case=Nom|Number=Sing|Person=3	7	obl	_	_
-7	dinlese	dinle	VERB	_	Mood=Des|Number=Sing|Person=3|Polarity=Pos	10	advcl	_	_
-8	bütün	bütün	ADJ	Adj	_	9	amod	_	_
-9	hayali	hayal	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	10	obj	_	_
-10	inkişâf	inkişâf	NOUN	_	Case=Nom|Number=Sing|Person=3	0	root	_	_
-11	eder	et	VERB	Ptcp	Aspect=Hab|Polarity=Pos|VerbForm=Part	10	compound:lvc	_	_
-12	di	y	AUX	Zero	Evident=Fh|Number=Sing|Person=3|Polarity=Pos|Tense=Past	10	cop	_	_
-13	.	.	PUNCT	Stop	_	10	punct	_	_
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 1 advcl	color:blue
+1	gelip	gel	VERB	Conv	Polarity=Pos|VerbForm=Conv	4	advcl	_	_
+2	melik	melik	NOUN	_	Case=Nom|Number=Sing|Person=3	3	nmod	_	_
+3	züheyre	züheyr	PROPN	Pers	Case=Dat|Gender=Masc|NameType=Prs|Number=Sing|Person=3	4	obl	_	_
+4	ḫaber	ḫaber	NOUN	_	Case=Nom|Number=Sing|Person=3	0	root	_	_
+5	virdiler	vir	VERB	_	Aspect=Perf|Evident=Fh|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	4	compound	_	_
 
 ~~~
 
@@ -57,16 +50,16 @@ The following 5 pairs of parts of speech are connected with `advcl`: <tt><a href
 ~~~ conllu
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 2 advcl	color:blue
-1	sen	sen	PRON	_	PronType=Prs	2	nsubj	_	_
-2	var	var	NOUN	_	Number=Sing|Person=3|Polarity=Pos	5	advcl	_	_
-3	iken	iken	ADV	_	_	2	case	_	_
-4	av	av	NOUN	_	Case=Nom|Number=Sing|Person=3	5	obj	_	_
-5	avladı	avla	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	0	root	_	_
-6	ḳuş	ḳuş	NOUN	_	Case=Nom|Number=Sing|Person=3	7	obj	_	_
-7	ḳuşladı	ḳuşla	VERB	_	Aspect=Perf|Evident=Fh|Number=Sing|Person=3|Polarity=Pos|Tense=Past	5	conj	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 2 advcl	color:blue
+1	ḥattā	ḥattā	ADV	_	_	2	advmod	_	_
+2	ṭayerān	ṭayerān	NOUN	_	Case=Nom|Number=Sing|Person=3	4	advcl	_	_
+3	iderek	ider	VERB	Conv	Aspect=Prog|Polarity=Pos|VerbForm=Conv	2	compound:lvc	_	_
+4	gelüp	gel	VERB	Conv	Polarity=Pos|VerbForm=Conv	7	advcl	_	_
+5	ʿizz-i	ʿizz	NOUN	_	Case=Nom|Number=Sing|Person=3	7	obl	_	_
+6	ḥużūrına	ḥużūr	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	5	nmod:poss	_	_
+7	yitdiler	yit	VERB	_	Aspect=Perf|Evident=Fh|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	0	root	_	_
 
 ~~~
 

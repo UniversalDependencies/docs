@@ -62,7 +62,13 @@ The 2nd highest number of forms (2) was observed with the lemma “за”: <em>
 
 The 3rd highest number of forms (2) was observed with the lemma “на”: <em>на, нам</em>.
 
-`ADP` does not occur with any features.
+`ADP` occurs with 1 features: <tt><a href="ru_gsd-feat-ExtPos.html">ExtPos</a></tt> (3; 0% instances)
+
+`ADP` occurs with 1 feature-value pairs: `ExtPos=ADV`
+
+`ADP` occurs with 2 feature combinations.
+The most frequent feature combination is `_` (10629 tokens).
+Examples: <em>в, на, с, по, из, к, от, для, за, до</em>
 
 
 ## Relations

@@ -11,7 +11,7 @@ It occurs with 1 different values: `Perf`.
 
 62615 tokens (2%) have a non-empty value of `Aspect`.
 3788 types (2%) occur at least once with a non-empty value of `Aspect`.
-3191 lemmas (5%) occur at least once with a non-empty value of `Aspect`.
+3191 lemmas (2%) occur at least once with a non-empty value of `Aspect`.
 The feature is used with 2 part-of-speech tags: <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt> (59655; 2% instances), <tt><a href="de_hdt-pos-AUX.html">AUX</a></tt> (2960; 0% instances).
 
 ### `VERB`
@@ -23,7 +23,7 @@ The most frequent other feature values with which `VERB` and `Aspect` co-occurre
 `VERB` tokens may have the following values of `Aspect`:
 
 * `Perf` (59655; 100% of non-empty `Aspect`): <em>angekündigt, gegeben, gemacht, geplant, erwartet, entwickelt, betroffen, gestellt, vorgestellt, verkauft</em>
-* `EMPTY` (203931): <em>sagte, gibt, lassen, machen, kommen, geht, steht, bietet, erklärte, kommt</em>
+* `EMPTY` (203932): <em>sagte, gibt, lassen, machen, kommen, geht, steht, bietet, erklärte, kommt</em>
 
 `Aspect` seems to be **lexical feature** of `VERB`. 100% lemmas (3187) occur only with one value of `Aspect`.
 

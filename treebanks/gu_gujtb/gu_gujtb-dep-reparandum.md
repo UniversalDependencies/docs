@@ -22,12 +22,12 @@ The following 1 pairs of parts of speech are connected with `reparandum`: <tt><a
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 reparandum	color:blue
-1	ઘર	ઘર	NOUN	_	_	5	nsubj	_	_
-2	ડાબ-	ડાબ-	ADJ	_	_	3	reparandum	_	_
-3	જમણી	જમણી	ADJ	_	_	4	amod	_	_
-4	બાજું	બાજું	NOUN	_	_	5	obl	_	_
-5	આવશે	આવશે	VERB	_	_	0	root	_	SpaceAfter=No
-6	.	.	PUNCT	_	_	5	punct	_	SpaceAfter=No
+1	ઘર	ઘર	NOUN	_	_	5	nsubj	_	LTranslit=ghara|Translit=ghara
+2	ડાબ-	ડાબ-	ADJ	_	_	3	reparandum	_	LTranslit=ḍāba-|Translit=ḍāba-
+3	જમણી	જમણી	ADJ	_	_	4	amod	_	LTranslit=jamaṇī|Translit=jamaṇī
+4	બાજું	બાજું	NOUN	_	_	5	obl	_	LTranslit=bājuṁ|Translit=bājuṁ
+5	આવશે	આવશે	VERB	_	_	0	root	_	LTranslit=āvaśe|SpaceAfter=No|Translit=āvaśe
+6	.	.	PUNCT	_	_	5	punct	_	LTranslit=.|SpaceAfter=No|Translit=.
 
 ~~~
 

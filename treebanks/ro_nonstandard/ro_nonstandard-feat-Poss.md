@@ -34,5 +34,5 @@ The most frequent other feature values with which `PRON` and `Poss` co-occurred:
 `PRON` tokens may have the following values of `Poss`:
 
 * `Yes` (6; 100% of non-empty `Poss`): <em>ta, meu, nostru, tău</em>
-* `EMPTY` (64622): <em>să, ce, lui, el, -i, -l, s-, lor, ei, carele</em>
+* `EMPTY` (64621): <em>să, ce, lui, el, -i, -l, s-, lor, ei, carele</em>
 

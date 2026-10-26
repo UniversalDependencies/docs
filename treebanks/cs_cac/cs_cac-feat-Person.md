@@ -18,7 +18,7 @@ The feature is used with 4 part-of-speech tags: <tt><a href="cs_cac-pos-VERB.htm
 
 21014 <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> tokens (54% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (21014; 100%), <tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (21014; 100%), <tt><a href="cs_cac-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (20566; 98%), <tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (20566; 98%), <tt><a href="cs_cac-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (20534; 98%), <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (19075; 91%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (12565; 60%), <tt><a href="cs_cac-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (11530; 55%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (21014; 100%), <tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (21014; 100%), <tt><a href="cs_cac-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (20566; 98%), <tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (20566; 98%), <tt><a href="cs_cac-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (20534; 98%), <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (19075; 91%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (12565; 60%), <tt><a href="cs_cac-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (11532; 55%).
 
 `VERB` tokens may have the following values of `Person`:
 
@@ -81,7 +81,7 @@ The most frequent other feature values with which `DET` and `Person` co-occurred
 * `1` (1193; 30% of non-empty `Person`): <em>naší, naše, našeho, našich, našem, naši, náš, naším, mého, můj</em>
 * `2` (90; 2% of non-empty `Person`): <em>vaše, vaší, vašeho, vaši, váš, vašich, vašem, vašemu, Vašimi, tvoje</em>
 * `3` (2648; 67% of non-empty `Person`): <em>jejich, jeho, její, jehož, jejichž, jejíž, jejím, jejího, jejích, jejímž</em>
-* `EMPTY` (15880): <em>to, které, který, která, tím, této, své, těchto, tyto, tom</em>
+* `EMPTY` (15879): <em>to, které, který, která, tím, této, své, těchto, tyto, tom</em>
 
 ### `PRON`
 
@@ -101,7 +101,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 The 10 most frequent relations where parent and child node agree in `Person`:
 <tt>VERB --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> VERB</tt> (2562; 80%),
 <tt>AUX --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> VERB</tt> (16; 73%),
-<tt>VERB --[<tt><a href="cs_cac-dep-advcl.html">advcl</a></tt>]--> AUX</tt> (16; 80%),
+<tt>VERB --[<tt><a href="cs_cac-dep-advcl.html">advcl</a></tt>]--> AUX</tt> (15; 79%),
 <tt>VERB --[<tt><a href="cs_cac-dep-appos.html">appos</a></tt>]--> VERB</tt> (12; 75%),
 <tt>AUX --[<tt><a href="cs_cac-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (8; 62%),
 <tt>VERB --[<tt><a href="cs_cac-dep-acl.html">acl</a></tt>]--> VERB</tt> (5; 56%),

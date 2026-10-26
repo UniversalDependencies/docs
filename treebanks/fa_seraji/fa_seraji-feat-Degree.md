@@ -11,7 +11,7 @@ It occurs with 3 different values: `Cmp`, `Pos`, `Sup`.
 
 13433 tokens (9%) have a non-empty value of `Degree`.
 3022 types (20%) occur at least once with a non-empty value of `Degree`.
-2726 lemmas (26%) occur at least once with a non-empty value of `Degree`.
+2726 lemmas (25%) occur at least once with a non-empty value of `Degree`.
 The feature is used with 1 part-of-speech tags: <tt><a href="fa_seraji-pos-ADJ.html">ADJ</a></tt> (13433; 9% instances).
 
 ### `ADJ`

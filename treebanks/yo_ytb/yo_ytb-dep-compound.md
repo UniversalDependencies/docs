@@ -14,7 +14,7 @@ There are 2 language-specific subtypes of `compound`: <tt><a href="yo_ytb-dep-co
 74 instances of `compound` (96%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.48051948051948.
 
-The following 11 pairs of parts of speech are connected with `compound`: <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-SCONJ.html">SCONJ</a></tt> (30; 39% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (16; 21% instances), <tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yo_ytb-pos-ADP.html">ADP</a></tt> (8; 10% instances), <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt>-<tt><a href="yo_ytb-pos-PART.html">PART</a></tt> (6; 8% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (6; 8% instances), <tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt> (3; 4% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt> (2; 3% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> (2; 3% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-PART.html">PART</a></tt> (2; 3% instances), <tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt>-<tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> (1; 1% instances).
+The following 12 pairs of parts of speech are connected with `compound`: <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-SCONJ.html">SCONJ</a></tt> (30; 39% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (15; 19% instances), <tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yo_ytb-pos-ADP.html">ADP</a></tt> (8; 10% instances), <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt>-<tt><a href="yo_ytb-pos-PART.html">PART</a></tt> (6; 8% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (6; 8% instances), <tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt> (3; 4% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt> (2; 3% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> (2; 3% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-PART.html">PART</a></tt> (2; 3% instances), <tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt>-<tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -46,24 +46,30 @@ The following 11 pairs of parts of speech are connected with `compound`: <tt><a 
 
 
 ~~~ conllu
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 11 compound	color:blue
-1	Wọ́n	Wọ́n	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	7	nsubj	_	_
-2	bí	bí	SCONJ	_	_	7	mark	_	_
-3	Ẹ̀bùn	Ẹ̀bùn	NOUN	_	_	7	nsubj	_	_
-4	Olóyèdé	Olóyèdé	NOUN	_	_	3	nmod	_	_
-5	ní	ní	ADP	_	_	6	case	_	_
-6	ilú	ilú	NOUN	_	_	3	nmod	_	_
-7	Kẹ́nta	Kẹ́nta	ADV	_	_	0	root	_	SpaceAfter=No
-8	,	,	PUNCT	_	_	9	punct	_	_
-9	Òkè	òkè	NOUN	_	_	7	conj	_	SpaceAfter=No
-10	-	-	PUNCT	_	_	11	punct	_	SpaceAfter=No
-11	Èjìgbò	Èjìgbò	NOUN	_	_	9	compound	_	_
-12	Abẹ́òkúta	Abẹ́òkúta	NOUN	_	_	9	nmod	_	SpaceAfter=No
-13	.	.	PUNCT	_	_	7	punct	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 4 compound	color:blue
+1	Àdírẹ́ẹ̀sì	Àdírẹ́ẹ̀sì	NOUN	_	_	7	nsubj	_	_
+2	e	e	NOUN	_	_	1	nmod	_	SpaceAfter=No
+3	-	-	PUNCT	_	_	4	punct	_	SpaceAfter=No
+4	mail	mail	NOUN	_	_	2	compound	_	_
+5	yín	yín	PRON	_	Case=Gen|Number=Plur|Person=2|PronType=Prs	1	nmod	_	_
+6	kò	kò	PART	_	_	7	advmod	_	_
+7	ní	ní	VERB	_	_	0	root	_	_
+8	hàn	hàn	NOUN	_	_	7	xcomp	_	_
+9	síta	síta	ADV	_	_	7	advmod	_	_
+10	nígbà	nígbà	ADV	_	_	18	advmod	_	_
+11	tí	tí	PRON	_	PronType=Rel	10	fixed	_	_
+12	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	13	det	_	_
+13	oníṣe	oníṣe	NOUN	_	_	18	nsubj	_	_
+14	míràn	míràn	ADJ	_	_	13	amod	_	_
+15	bá	bá	SCONJ	_	_	18	mark	_	_
+16	a	a	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	18	expl	_	_
+17	yín	yín	PRON	_	Case=Gen|Number=Plur|Person=2|PronType=Prs	18	obj	_	_
+18	pàdé	pàdé	VERB	_	_	7	advcl	_	SpaceAfter=No
+19	.	.	PUNCT	_	_	7	punct	_	_
 
 ~~~
 

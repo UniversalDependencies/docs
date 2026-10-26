@@ -22,11 +22,11 @@ The following 1 pairs of parts of speech are connected with `vocative`: <tt><a h
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 1 vocative	color:blue
-1	સેમ	સેમ	NOUN	_	_	4	vocative	_	_
-2	,	,	PUNCT	_	_	4	punct	_	_
-3	બારી	બારી	NOUN	_	_	4	obj	_	_
-4	ઉઘાડ	ઉઘાડવું	VERB	_	_	0	root	_	_
-5	!	!	PUNCT	_	_	4	punct	_	SpaceAfter=No
+1	સેમ	સેમ	NOUN	_	_	4	vocative	_	LTranslit=sema|Translit=sema
+2	,	,	PUNCT	_	_	4	punct	_	LTranslit=,|Translit=,
+3	બારી	બારી	NOUN	_	_	4	obj	_	LTranslit=bārī|Translit=bārī
+4	ઉઘાડ	ઉઘાડવું	VERB	_	_	0	root	_	LTranslit=ughāḍavuṁ|Translit=ughāḍa
+5	!	!	PUNCT	_	_	4	punct	_	LTranslit=!|SpaceAfter=No|Translit=!
 
 ~~~
 

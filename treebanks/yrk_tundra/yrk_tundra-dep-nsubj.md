@@ -1,0 +1,64 @@
+---
+layout: base
+title:  'Statistics of nsubj in UD_Nenets-Tundra'
+udver: '2'
+---
+
+## Treebank Statistics: UD_Nenets-Tundra: Relations: `nsubj`
+
+This relation is universal.
+There are 1 language-specific subtypes of `nsubj`: <tt><a href="yrk_tundra-dep-nsubj-outer.html">nsubj:outer</a></tt>.
+
+54 nodes (4%) are attached to their parents as `nsubj`.
+
+52 instances of `nsubj` (96%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.38888888888889.
+
+The following 7 pairs of parts of speech are connected with `nsubj`: <tt><a href="yrk_tundra-pos-VERB.html">VERB</a></tt>-<tt><a href="yrk_tundra-pos-NOUN.html">NOUN</a></tt> (38; 70% instances), <tt><a href="yrk_tundra-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yrk_tundra-pos-NOUN.html">NOUN</a></tt> (7; 13% instances), <tt><a href="yrk_tundra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrk_tundra-pos-PRON.html">PRON</a></tt> (3; 6% instances), <tt><a href="yrk_tundra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrk_tundra-pos-NOUN.html">NOUN</a></tt> (2; 4% instances), <tt><a href="yrk_tundra-pos-VERB.html">VERB</a></tt>-<tt><a href="yrk_tundra-pos-PRON.html">PRON</a></tt> (2; 4% instances), <tt><a href="yrk_tundra-pos-AUX.html">AUX</a></tt>-<tt><a href="yrk_tundra-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="yrk_tundra-pos-VERB.html">VERB</a></tt>-<tt><a href="yrk_tundra-pos-ADJ.html">ADJ</a></tt> (1; 2% instances).
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 3 nsubj	color:blue
+1	яхаʼ	яха	NOUN	_	_	2	nmod:poss	_	AlignBegin=37398.4418421|AlignEnd=37600.8987442|LTranslit=jaxa|MGloss=river-gen|MSeg=яха-ʼ|Translit=jaxaʔ
+2	иканя	иˮ	NOUN	_	_	4	obl:mod	_	AlignBegin=37600.8987442|AlignEnd=37971.2933848|LTranslit=iʡ|MGloss=water-loc|MSeg=и-каня|Translit=ikańa
+3	халяˮ	халя	NOUN	_	_	4	nsubj	_	AlignBegin=37971.2933848|AlignEnd=38377.1749371|LTranslit=xaľa|MGloss=fish-pl|MSeg=халя-ˮ|Translit=xaľaʡ
+4	танявыˮ	таня-	VERB	_	Number=Sing|Person=3	0	root	_	AlignBegin=38377.1749371|AlignEnd=38922.7862041|LTranslit=tańa-|MGloss=exist-infr.3sg-3pl|MSeg=таня-вы-ˮ|Translit=tańawiʡ
+5	<p>	<p>	PUNCT	_	_	4	punct	_	AlignBegin=38922.7862041|AlignEnd=40110.4887792|Gloss=SIL|LTranslit=<p>|Translit=<p>
+
+~~~
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 1 nsubj	color:blue
+1	махалэйда	махалы	NOUN	_	_	6	nsubj	_	AlignBegin=55656.9591005|AlignEnd=56532.7236527|LTranslit=maxali|MGloss=roof-poss.3sg|MSeg=махалэй-да|Translit=maxalæjda
+2	<p>	<p>	X	_	_	6	discourse	_	AlignBegin=56532.7236527|AlignEnd=56759.2741872|Gloss=PAUSE|LTranslit=<p>|Translit=<p>
+3	тюˮуʼ	тюˮуʼ	ADV	_	_	6	advmod	_	AlignBegin=56759.2741872|AlignEnd=57090.4130081|Gloss=upwards|LTranslit=ťuʡuʔ|Translit=ťuʡuʔ
+4	няʼ	няʼ	ADP	_	_	3	case	_	AlignBegin=57090.4130081|AlignEnd=57374.2032003|Gloss=at.abl|LTranslit=ńaʔ|Translit=ńaʔ
+5	мятревʼ	мя	ADV	_	_	6	advmod	_	AlignBegin=57374.2032003|AlignEnd=58124.2201368|Gloss=tent.equ|LTranslit=ḿa|Translit=ḿatŕewʔ
+6	саблюй	саблюй	ADJ	_	_	0	root	_	AlignBegin=58124.2201368|AlignEnd=58927.4585285|Gloss=peak|LTranslit=sabľuj|Translit=sabľuj
+7	<p>	<p>	PUNCT	_	_	6	punct	_	AlignBegin=58927.4585285|AlignEnd=60628.7794315|Gloss=SIL|LTranslit=<p>|Translit=<p>
+
+~~~
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 nsubj	color:blue
+1	та	та	PRON	_	PronType=Dem	2	nsubj	_	AlignBegin=352673.037541|AlignEnd=352958.799848|Gloss=this|LTranslit=ta|Translit=ta
+2	валакада	валак	NOUN	_	_	0	root	_	AlignBegin=352958.799848|AlignEnd=353424.55805|LTranslit=walak|MGloss=end-poss.3sg|MSeg=валака-да|Translit=walakada
+3	<p>	<p>	PUNCT	_	_	2	punct	_	AlignBegin=353424.55805|AlignEnd=354163.544352|Gloss=SIL|LTranslit=<p>|Translit=<p>
+
+~~~
+
+

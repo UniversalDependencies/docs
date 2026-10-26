@@ -37,7 +37,7 @@ The following 1 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 12	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	13:det	_
 13	busca	busca	NOUN	_	Gender=Fem|Number=Sing	11	obj	11:obj	_
 14	pessoal	pessoal	ADJ	_	Number=Sing	13	amod	13:amod	SpaceAfter=No
-15	.	.	PUNCT	_	_	6	punct	6:punct	SpaceAfter=No
+15	.	.	PUNCT	_	_	6	punct	6:punct	_
 
 ~~~
 

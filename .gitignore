@@ -1,3 +1,6 @@
 *~
 .DS_Store
 gen_index/_corpus_data
+_site/
+.jekyll-metadata
+

@@ -61,7 +61,7 @@ The 10 most frequent ambiguous types:  ን (<tt><a href="am_att-pos-PART.html">P
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.029841).
+The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.029860).
 
 The 1st highest number of forms (1) was observed with the lemma “ም”: ም.
 

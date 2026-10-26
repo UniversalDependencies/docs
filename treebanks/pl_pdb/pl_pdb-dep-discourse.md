@@ -24,7 +24,7 @@ The following 2 pairs of parts of speech are connected with `discourse`: <tt><a 
 # visual-style 2	fgColor:white
 # visual-style 2 9 discourse	color:blue
 1	Nie	nie	PART	part	Polarity=Neg	2	advmod:neg	2:advmod:neg	_
-2	ma	mieć	VERB	fin:sg:ter:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
+2	ma	mieć	VERB	fin:sg:ter:imperf	Aspect=Imp|ExtPos=VERB|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
 3	co	co	PART	part	_	2	fixed	2:fixed	_
 4	dramatyzować	dramatyzować	VERB	inf:imperf	Aspect=Imp|VerbForm=Inf|Voice=Act	2	xcomp	2:xcomp	SpaceAfter=No
 5	,	,	PUNCT	interp	PunctType=Comm	6	punct	6:punct	_
@@ -56,11 +56,11 @@ The following 2 pairs of parts of speech are connected with `discourse`: <tt><a 
 12	poprzeć	poprzeć	VERB	inf:perf	Aspect=Perf|VerbForm=Inf|Voice=Act	5	conj	1:xcomp|5:conj	_
 13	to	to	PRON	subst:sg:acc:n:ncol	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	12	obj	12:obj	_
 14	argumentami	argument	NOUN	subst:pl:inst:m3	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	12	iobj	12:iobj	SpaceAfter=No
-15	:	:	PUNCT	interp	PunctType=Colo	12	punct	12:punct	_
+15	:	:	PUNCT	interp	PunctType=Colo	14	punct	14:punct	_
 16	jesteś	być	AUX	fin:sg:sec:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	18	cop	18:cop	_
 17	Wiesiu	Wiesio	PROPN	subst:sg:voc:m1	Animacy=Hum|Case=Voc|Gender=Masc|Number=Sing	18	vocative	18:vocative	_
-18	ssakiem	ssak	NOUN	subst:sg:inst:m2	Animacy=Nhum|Case=Ins|Gender=Masc|Number=Sing	12	parataxis:obj	12:parataxis:obj	_
-19	i	i	PART	part	_	22	advmod:emph	22:advmod:emph	_
+18	ssakiem	ssak	NOUN	subst:sg:inst:m2	Animacy=Nhum|Case=Ins|Gender=Masc|Number=Sing	14	acl	14:acl	_
+19	i	i	PART	part	ExtPos=PART	22	advmod:emph	22:advmod:emph	_
 20	to	to	PART	part	_	19	fixed	19:fixed	_
 21	mocno	mocno	ADV	adv:pos	Degree=Pos	22	advmod	22:advmod	_
 22	otyłym	otyły	ADJ	adj:sg:inst:m2:pos	Animacy=Nhum|Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	18	amod	18:amod	SpaceAfter=No

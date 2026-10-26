@@ -29,9 +29,9 @@ The following 8 pairs of parts of speech are connected with `parataxis`: <tt><a 
 5	deu	dar	VERB	VMIS3S0	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
 6	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
 7	volta	volta	NOUN	NCFS000	Gender=Fem|Number=Sing	5	obj	_	_
-8	a	a	ADP	SP	AdpType=Prep	7	fixed	_	_
-9	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	fixed	_	_
-10	mundo	mundo	NOUN	NCMS000	Gender=Masc|Number=Sing	7	fixed	_	SpaceAfter=No
+8	a	a	ADP	SP	AdpType=Prep	10	case	_	_
+9	o	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	mundo	mundo	NOUN	NCMS000	Gender=Masc|Number=Sing	7	nmod	_	SpaceAfter=No
 11	"	"	PUNCT	Fe	_	5	punct	_	SpaceAfter=No
 12	,	,	PUNCT	Fc	_	13	punct	_	_
 13	dixo	dicir	VERB	VMIS3S0	Mood=Ind|Number=Sing|Person=3|Tense=Past	5	parataxis	_	_

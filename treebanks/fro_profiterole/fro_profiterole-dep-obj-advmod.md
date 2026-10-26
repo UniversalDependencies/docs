@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="fro_profiterole-dep-obj.html">obj</a></tt>.
 There are also 2 other language-specific subtypes of `obj`: <tt><a href="fro_profiterole-dep-obj-advneg.html">obj:advneg</a></tt>, <tt><a href="fro_profiterole-dep-obj-obl.html">obj:obl</a></tt>.
 
-11 nodes (0%) are attached to their parents as `obj:advmod`.
+40 nodes (0%) are attached to their parents as `obj:advmod`.
 
-11 instances of `obj:advmod` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.09090909090909.
+39 instances of `obj:advmod` (98%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.35.
 
-The following 2 pairs of parts of speech are connected with `obj:advmod`: <tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt> (10; 91% instances), <tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt> (1; 9% instances).
+The following 2 pairs of parts of speech are connected with `obj:advmod`: <tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt> (38; 95% instances), <tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt> (2; 5% instances).
 
 
 ~~~ conllu
@@ -23,17 +23,18 @@ The following 2 pairs of parts of speech are connected with `obj:advmod`: <tt><a
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 obj:advmod	color:blue
-1	Nel	_	PRON	ADVneg.PROper	Polarity=Neg|PronType=Prs	2	obj:advmod	_	XmlId=w_58_05322
-2	di	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_05323
-3	por	_	ADP	PRE	_	4	case	_	XmlId=w_58_05324
-4	ço	_	PRON	PROdem	PronType=Dem	2	obl	_	SpaceAfter=No|XmlId=w_58_05325
-5	,	_	PUNCT	PONfbl	_	2	punct	_	XmlId=w_58_05326
-6	des	_	ADP	PRE.DETdef	Definite=Def|PronType=Art	7	case:det	_	XmlId=w_58_05327
-7	voz	_	PRON	PROpos	Poss=Yes|PronType=Prs	10	nmod	_	XmlId=w_58_05328
-8	iert	_	VERB	VERcjg	VerbForm=Fin	2	dislocated	_	XmlId=w_58_05329
-9	la	_	DET	DETdef	Definite=Def|PronType=Art	10	det	_	XmlId=w_58_05330
-10	martirie	_	NOUN	NOMcom	_	8	nsubj	_	SpaceAfter=No|XmlId=w_58_05331
-11	.	_	PUNCT	PONfrt	_	2	punct	_	XmlId=w_58_05332
+1	Nel	ne1.le	PRON	ADVneg.PROper	Polarity=Neg|PronType=Prs	2	obj:advmod	_	XmlId=w_58_05322
+2	di	dire1	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_05323
+3	por	pour	ADP	PRE	_	4	case	_	XmlId=w_58_05324
+4	ço	ce1	PRON	PROdem	PronType=Dem	2	obl	_	SpaceAfter=No|XmlId=w_58_05325
+5	,	,	PUNCT	PONfbl	_	2	punct	_	XmlId=w_58_05326
+6	de	_	ADP	_	_	8	case	_	_
+7	les	_	DET	_	Definite=Def|PronType=Art	8	det	_	_
+8	voz	votre	PRON	PROpos	Poss=Yes|PronType=Prs	11	nmod	_	XmlId=w_58_05328
+9	iert	estre	VERB	VERcjg	VerbForm=Fin	2	dislocated	_	XmlId=w_58_05329
+10	la	le	DET	DETdef	Definite=Def|PronType=Art	11	det	_	XmlId=w_58_05330
+11	martirie	martire	NOUN	NOMcom	_	9	nsubj	_	SpaceAfter=No|XmlId=w_58_05331
+12	.	.	PUNCT	PONfrt	_	2	punct	_	XmlId=w_58_05332
 
 ~~~
 

@@ -24,7 +24,7 @@ The following 25 pairs of parts of speech are connected with `conj`: <tt><a href
 # visual-style 6 8 conj	color:blue
 1	Skema	skema	NOUN	_	Number=Sing	3	nsubj	_	_
 2	ini	ini	DET	_	PronType=Dem	1	det	_	_
-3	menghasilkan	hasil	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
+3	menghasilkan	hasil	VERB	_	Voice=Act	0	root	_	_
 4	uang	uang	NOUN	_	Number=Sing	3	obj	_	_
 5	melalui	lalu	ADP	_	_	6	case	_	_
 6	sponsor	sponsor	NOUN	_	Number=Sing	3	obl	_	_
@@ -42,12 +42,12 @@ The following 25 pairs of parts of speech are connected with `conj`: <tt><a href
 # visual-style 2	fgColor:white
 # visual-style 2 7 conj	color:blue
 1	Tidak	tidak	PART	_	Polarity=Neg	2	advmod	_	_
-2	ada	ada	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
+2	ada	ada	VERB	_	Voice=Act	0	root	_	_
 3	parade	parade	NOUN	_	Number=Sing	2	nsubj	_	_
 4	dan	dan	CCONJ	_	_	7	cc	_	_
 5	tidak	tidak	PART	_	Polarity=Neg	7	advmod	_	_
 6	pernah	pernah	ADV	_	_	7	advmod	_	_
-7	ada	ada	VERB	_	Mood=Ind|Voice=Act	2	conj	_	SpaceAfter=No
+7	ada	ada	VERB	_	Voice=Act	2	conj	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	2	punct	_	_
 
 ~~~

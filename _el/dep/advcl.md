@@ -74,7 +74,7 @@ advcl(στέκεται, αμίλητος)
 
 *που* may introduce ascriptive relative clauses  with a clause as antecedent (rather than a nominal): *Πρέπει να κοιμήθηκα ένα δεκάωρο περίπου,* <b>που</b> *για μένα είναι το απόλυτο θαύμα.* "It is likely that I slept for about 10 hours --- which  is an absolute miracle in my case." Here, the clause introduced by *που* depends with the relation [advcl:relcl]() on the clause headed by *κοιμήθηκα* "slept".
 
-
+~~~
 
 <!---
 TODO: επιρρηματικές αναφορικές όπως/καθώς/όταν/σαν/όσο σου είπα
@@ -83,4 +83,4 @@ TODO: επιρρηματικά κατηγορούμενα έφυγε σκυφτ�
 
 -->
 
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:15 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:27 CEST -->

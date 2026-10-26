@@ -145,7 +145,7 @@ The most frequent other feature values with which `VERB` and `Gender` co-occurre
 
 8470 <tt><a href="la_llct-pos-PRON.html">PRON</a></tt> tokens (46% of all `PRON` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="la_llct-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6140; 72%), <tt><a href="la_llct-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (5218; 62%).
+The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="la_llct-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6140; 72%), <tt><a href="la_llct-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (5220; 62%).
 
 `PRON` tokens may have the following values of `Gender`:
 
@@ -209,14 +209,14 @@ The most frequent other feature values with which `AUX` and `Gender` co-occurred
 ## Relations with Agreement in `Gender`
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
-<tt>NOUN --[<tt><a href="la_llct-dep-det.html">det</a></tt>]--> DET</tt> (15932; 100%),
+<tt>NOUN --[<tt><a href="la_llct-dep-det.html">det</a></tt>]--> DET</tt> (15674; 100%),
 <tt>PROPN --[<tt><a href="la_llct-dep-appos.html">appos</a></tt>]--> NOUN</tt> (7052; 100%),
 <tt>NOUN --[<tt><a href="la_llct-dep-amod.html">amod</a></tt>]--> ADJ</tt> (6355; 100%),
-<tt>NOUN --[<tt><a href="la_llct-dep-conj.html">conj</a></tt>]--> NOUN</tt> (3823; 69%),
+<tt>NOUN --[<tt><a href="la_llct-dep-conj.html">conj</a></tt>]--> NOUN</tt> (3825; 69%),
 <tt>PROPN --[<tt><a href="la_llct-dep-amod.html">amod</a></tt>]--> ADJ</tt> (2261; 70%),
 <tt>NOUN --[<tt><a href="la_llct-dep-acl.html">acl</a></tt>]--> VERB</tt> (1843; 78%),
 <tt>PROPN --[<tt><a href="la_llct-dep-acl.html">acl</a></tt>]--> VERB</tt> (1824; 96%),
 <tt>VERB --[<tt><a href="la_llct-dep-obl-arg.html">obl:arg</a></tt>]--> PROPN</tt> (1796; 71%),
-<tt>PROPN --[<tt><a href="la_llct-dep-det.html">det</a></tt>]--> DET</tt> (1529; 100%),
+<tt>PROPN --[<tt><a href="la_llct-dep-det.html">det</a></tt>]--> DET</tt> (1527; 100%),
 <tt>PROPN --[<tt><a href="la_llct-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1240; 69%).
 

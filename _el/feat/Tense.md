@@ -76,5 +76,27 @@ the finite verbal formations of Modern Greek; the latter preserve their normal t
 * _θα έχω γραφτεί.INF_ "Ι will have been written"
 * _θα είχα γραφτεί.INF_ "Ι would have been written"
 
+---------------------------
+**Cretan**
 
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:07 CET -->
+-The (Eastern) Cretan dialect uses a distinctive periphrastic structure to express the future tense, which is not found in Standard Modern Greek (SMG). We annotated these structures as follows:
+e.g.
+*να πάω θέλει* “I will go”
+
+Annotation:
+aux(πάω, να)
+aux(θέλει, πάω)
+
+In this structure:
+The particle *να* does not carry any morphological features.
+The auxiliary *θέλει* is annotated with the morphological features [Tense=Fut]()|[VerbForm=Inf]().
+
+-The perfect tense is also expressed with the following structure:
+auxiliary verb *έχω* ‘have’ + passive participle
+
+e.g. *το έχει λεομένο* “He/she has said it”
+
+Here, the participle is assigned the tag [VERB]() and the feature-value pair [VerbForm=Part]().
+
+----------------------------
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:20 CEST -->

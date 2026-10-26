@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-11 nodes (2%) are attached to their parents as `amod`.
+14 nodes (2%) are attached to their parents as `amod`.
 
-9 instances of `amod` (82%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.27272727272727.
+12 instances of `amod` (86%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.28571428571429.
 
-The following 2 pairs of parts of speech are connected with `amod`: <tt><a href="cpg_amgic-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cpg_amgic-pos-ADJ.html">ADJ</a></tt> (10; 91% instances), <tt><a href="cpg_amgic-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cpg_amgic-pos-ADJ.html">ADJ</a></tt> (1; 9% instances).
+The following 3 pairs of parts of speech are connected with `amod`: <tt><a href="cpg_amgic-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cpg_amgic-pos-ADJ.html">ADJ</a></tt> (12; 86% instances), <tt><a href="cpg_amgic-pos-NUM.html">NUM</a></tt>-<tt><a href="cpg_amgic-pos-ADJ.html">ADJ</a></tt> (1; 7% instances), <tt><a href="cpg_amgic-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cpg_amgic-pos-ADJ.html">ADJ</a></tt> (1; 7% instances).
 
 
 ~~~ conllu
@@ -22,17 +22,42 @@ The following 2 pairs of parts of speech are connected with `amod`: <tt><a href=
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 1 amod	color:blue
-1	fikirsúzis	fikirsúzis	ADJ	ADJ	Case=Voc|Gender=Masc|Number=Sing	3	amod	_	OrigLang=tr|#Turkish_fikirsiz_derivative_morph_copied?
+1	fikirsúzis	fikirsúzis	ADJ	ADJ	Case=Voc|Gender=Masc|Number=Sing	3	amod	_	Orig=fikirsiz|OrigLang=tr
 2	mu	(e)γó	PRON	PRON	Case=Gen|Clitic=Yes|Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	nmod	_	_
 3	ádras	ádras	NOUN	NOUN	Case=Voc|Gender=Masc|Number=Sing	8	vocative	_	_
-4	tiyá	tiás	DET	DET	Case=Acc|Gender=Neut|Number=Sing	5	det	_	_
+4	tiyá	tiás	DET	DET	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	5	det	_	_
 5	kalaǰí	kalaǰí	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	8	obj	_	_
-6	ne	ne	PRON	Ques	_	7	obl	_	Foreign=Yes|Lang=tr
+6	ne	ne	PRON	Ques	PronType=Int	7	obl	_	Foreign=Yes|Lang=tr
 7	deyí	deyí	ADP	_	_	8	case	_	Foreign=Yes|Lang=tr
-8	ípis	léghu	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-9	ta	(e)γó	PRON	PRON	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	8	obj	_	#weak_clitic_form_double_cliting
-10	mi	mi	AUX	_	_	8	aux:q	_	LC=YES|MorphSynC=Part,FrGrEl,QPart|Orig=mI|OrigLang=tr|SpaceAfter=No
+8	ípis	léγu	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+9	ta	(e)γó	PRON	PRON	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	8	expl	_	#weak_clitic_form_double_cliting
+10	mi	mi	AUX	_	_	8	aux:q	_	LC=Yes|MorphSynC=FrGrEl|MorphSynSC=QPart|Orig=mI|OrigLang=tr|SpaceAfter=No
 11	?	?	PUNCT	PUNCT	_	8	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 11 9 amod	color:blue
+1	Ce	ce	CCONJ	CCONJ	_	2	cc	_	_
+2	eksévin	(ekvéno)	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	éna	ís	DET	DET	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	5	det	_	_
+4	Dunyá	Dunyá	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	5	nmod	_	Orig=dünya|OrigLang=tr
+5	Güzelí	Güzelí	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	Orig=güzel|OrigLang=tr|SpaceAfter=No
+6	,	,	PUNCT	PUNCT	_	2	punct	_	_
+7	ce	ce	CCONJ	CCONJ	_	13	cc	_	_
+8	as'	aso	ADP	ADP	_	11	case	_	cf. Cap. Lex.:απ' το > αθ' το > ασ' τό
+9	ála	álos	ADJ	ADJ	Case=Acc|Gender=Neut|Number=Plur	11	amod	_	_
+10	sa	o	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	11	det	_	<τα?
+11	δyo	δyo	NUM	NUM	NumType=Card	13	obl	_	_
+12	daχá	daχá	ADV	ADV	_	13	advmod	_	LC=Yes|MorphSynC=FrGrEl|MorphSynSC=Quant|Orig=daha|OrigLang=tr
+13	güzél	güzél	ADJ	ADJ	_	2	conj	_	Orig=güzel|OrigLang=tr
+14	'ton	ímu	AUX	AUX	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	obl	_	LC=Yes|MorphSynC=SynIn|MorphSynSC=EnCop|SpaceAfter=No
+15	.	.	PUNCT	PUNCT	_	2	punct	_	_
 
 ~~~
 
@@ -48,19 +73,19 @@ The following 2 pairs of parts of speech are connected with `amod`: <tt><a href=
 3	yerasméni	yerasménos	ADJ	ADJ	Case=Nom|Gender=Fem|Number=Sing	4	amod	_	_
 4	néka	(e)néka	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	1	nsubj	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	1	punct	_	_
-6	léi	léghu	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	parataxis	_	SpaceAfter=No
+6	léi	léγu	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	parataxis	_	SpaceAfter=No
 7	,	,	PUNCT	PUNCT	_	6	punct	_	_
 8	ǰaním	ǰaním	NOUN	_	Case=Voc|Number=Sing	12	vocative	_	Orig=canım|OrigLang=tr|SpaceAfter=No
 9	,	,	PUNCT	PUNCT	_	8	punct	_	_
-10	A	ághius	ADJ	ADJ	Case=Voc|Gender=Masc|Number=Sing	12	amod	_	SpaceAfter=No
+10	A	áγius	ADJ	ADJ	Case=Voc|Gender=Masc|Number=Sing	12	amod	_	SpaceAfter=No
 11	-	-	PUNCT	PUNCT	_	12	punct	_	SpaceAfter=No
 12	Yóryis	Yóryis	PROPN	PROPN	Case=Voc|Gender=Masc|Number=Sing	15	vocative	_	_
 13	mu	(e)γó	PRON	PRON	Case=Gen|Clitic=Yes|Number=Sing|Person=1|Poss=Yes|PronType=Prs	12	nmod	_	SpaceAfter=No
 14	,	,	PUNCT	PUNCT	_	12	punct	_	_
-15	írtis	érkhumu	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	6	parataxis	_	#non_embedded
+15	írtis	érχumu	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	6	parataxis	_	#non_embedded
 16	ro	ro	ADV	ADV	_	15	advmod	_	_
-17	m'	mi	AUX	_	_	15	aux:q	_	LC=YES|MorphSynC=FrGrM|MorphSynSC=QPart|Orig=mI|OrigLang=tr
-18	ki	ki	ADV	_	_	15	advmod:emph	_	LC=YES|MorphSynC=FrGrM|MorphSynSC=EmphPart|SpaceAfter=No
+17	m'	mi	AUX	_	_	15	aux:q	_	LC=Yes|MorphSynC=FrGrM|MorphSynSC=QPart|Orig=mI|OrigLang=tr
+18	ki	ki	ADV	_	_	15	advmod:emph	_	LC=Yes|MorphSynC=FrGrM|MorphSynSC=EmphPart|SpaceAfter=No
 19	?	?	PUNCT	PUNCT	_	15	punct	_	_
 
 ~~~

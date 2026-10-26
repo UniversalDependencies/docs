@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-133 nodes (17%) are attached to their parents as `root`.
+202 nodes (17%) are attached to their parents as `root`.
 
-133 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.18045112781955.
+202 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.33168316831683.
 
-The following 3 pairs of parts of speech are connected with `root`: -<tt><a href="xum_ikuvina-pos-VERB.html">VERB</a></tt> (129; 97% instances), -<tt><a href="xum_ikuvina-pos-NOUN.html">NOUN</a></tt> (3; 2% instances), -<tt><a href="xum_ikuvina-pos-ADV.html">ADV</a></tt> (1; 1% instances).
+The following 4 pairs of parts of speech are connected with `root`: -<tt><a href="xum_ikuvina-pos-VERB.html">VERB</a></tt> (197; 98% instances), -<tt><a href="xum_ikuvina-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), -<tt><a href="xum_ikuvina-pos-ADV.html">ADV</a></tt> (1; 0% instances), -<tt><a href="xum_ikuvina-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -22,7 +22,7 @@ The following 3 pairs of parts of speech are connected with `root`: -<tt><a href
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 5 root	color:blue
-1	este	_	PRON	_	Case=Acc|Gender=Neut|Number=Sing	2	det	_	_
+1	este	_	DET	_	Case=Acc|Gender=Neut|Number=Sing	2	det	_	_
 2	persklum	_	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	5	obj	_	_
 3	aves	_	NOUN	_	Case=Abl|Number=Plur	5	obl	_	_
 4	anzeriates	_	VERB	_	Case=Abl|Number=Plur|Tense=Past|VerbForm=Part	3	acl	_	_

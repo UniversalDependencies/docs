@@ -34,8 +34,16 @@ nmod(ανταποκρίσεις, συμβάν)
 case(συμβάν, για)
 ~~~
 
+In SMG the following elliptical structure is common, where the head of the prepositional phrase is omitted, e.g., Ο φτωχός μια φουρνιά κουτσούβελα “The poor man with a bunch of chicks”
+
+~~~ sdparse
+Ο φτωχός μια φουρνιά κουτσούβελα
+root(ROOT, φτωχός)
+nmod(φτωχός, φουρνιά)
+nmod(φουρνιά, κουτσούβελα)
+~~~
 
 
 
 
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:11:02 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:16 CEST -->

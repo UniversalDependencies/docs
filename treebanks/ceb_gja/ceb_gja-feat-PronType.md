@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Dem`, `Int`, `Prs`.
 
-186 tokens (14%) have a non-empty value of `PronType`.
+186 tokens (13%) have a non-empty value of `PronType`.
 51 types (10%) occur at least once with a non-empty value of `PronType`.
 20 lemmas (5%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 2 part-of-speech tags: <tt><a href="ceb_gja-pos-PRON.html">PRON</a></tt> (173; 13% instances), <tt><a href="ceb_gja-pos-ADV.html">ADV</a></tt> (13; 1% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="ceb_gja-pos-PRON.html">PRON</a></tt> (173; 12% instances), <tt><a href="ceb_gja-pos-ADV.html">ADV</a></tt> (13; 1% instances).
 
 ### `PRON`
 

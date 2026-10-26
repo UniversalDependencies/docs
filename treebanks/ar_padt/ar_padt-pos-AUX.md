@@ -55,7 +55,7 @@ The 10 most frequent ambiguous types:  س (<tt><a href="ar_padt-pos-AUX.html">AU
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 2.545455 (the average of all parts of speech is 1.761966).
+The form / lemma ratio of `AUX` is 2.545455 (the average of all parts of speech is 1.761981).
 
 The 1st highest number of forms (14) was observed with the lemma “كَان”: أكون, اكون, تكن, تكون, تكونون, كان, كانت, كانوا, كن, كنت, نكون, يكن, يكون, يكونا.
 

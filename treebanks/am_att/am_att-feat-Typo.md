@@ -22,7 +22,7 @@ The most frequent other feature values with which `PRON` and `Typo` co-occurred:
 
 `PRON` tokens may have the following values of `Typo`:
 
-* `Yes` (9; 100% of non-empty `Typo`): ምንድ, ኧ, ምን
+* `Yes` (9; 100% of non-empty `Typo`): ኧ, ምንድ, ምን
 
 ### `CCONJ`
 

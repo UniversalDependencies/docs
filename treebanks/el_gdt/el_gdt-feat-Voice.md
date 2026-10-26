@@ -12,18 +12,18 @@ It occurs with 2 different values: `Act`, `Pass`.
 6931 tokens (11%) have a non-empty value of `Voice`.
 2994 types (26%) occur at least once with a non-empty value of `Voice`.
 954 lemmas (15%) occur at least once with a non-empty value of `Voice`.
-The feature is used with 2 part-of-speech tags: <tt><a href="el_gdt-pos-VERB.html">VERB</a></tt> (5866; 9% instances), <tt><a href="el_gdt-pos-AUX.html">AUX</a></tt> (1065; 2% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="el_gdt-pos-VERB.html">VERB</a></tt> (6099; 10% instances), <tt><a href="el_gdt-pos-AUX.html">AUX</a></tt> (832; 1% instances).
 
 ### `VERB`
 
-5866 <tt><a href="el_gdt-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `Voice`.
+6099 <tt><a href="el_gdt-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="el_gdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (5398; 92%), <tt><a href="el_gdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (5378; 92%), <tt><a href="el_gdt-feat-Person.html">Person</a></tt><tt>=3</tt> (4276; 73%), <tt><a href="el_gdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3314; 56%), <tt><a href="el_gdt-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (2969; 51%).
+The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="el_gdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (5631; 92%), <tt><a href="el_gdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (5611; 92%), <tt><a href="el_gdt-feat-Person.html">Person</a></tt><tt>=3</tt> (4509; 74%), <tt><a href="el_gdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3547; 58%), <tt><a href="el_gdt-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (3130; 51%).
 
 `VERB` tokens may have the following values of `Voice`:
 
-* `Act` (4072; 69% of non-empty `Voice`): <em>μπορεί, αφορά, έχει, αποτελεί, έχουν, δήλωσε, υπάρχει, ήθελα, πιστεύω, μπορούν</em>
-* `Pass` (1794; 31% of non-empty `Voice`): <em>βρίσκεται, πρόκειται, γίνει, γίνεται, βρίσκονται, έγινε, γίνουν, τεθεί, φαίνεται, χρειάζεται</em>
+* `Act` (4305; 71% of non-empty `Voice`): <em>πρέπει, μπορεί, αφορά, έχει, αποτελεί, έχουν, δήλωσε, υπάρχει, ήθελα, πιστεύω</em>
+* `Pass` (1794; 29% of non-empty `Voice`): <em>βρίσκεται, πρόκειται, γίνει, γίνεται, βρίσκονται, έγινε, γίνουν, τεθεί, φαίνεται, χρειάζεται</em>
 
 <table>
   <tr><th>Paradigm <i>αποτελώ</i></th><th><tt>Act</tt></th><th><tt>Pass</tt></th></tr>
@@ -40,26 +40,25 @@ The most frequent other feature values with which `VERB` and `Voice` co-occurred
 
 ### `AUX`
 
-1065 <tt><a href="el_gdt-pos-AUX.html">AUX</a></tt> tokens (35% of all `AUX` tokens) have a non-empty value of `Voice`.
+832 <tt><a href="el_gdt-pos-AUX.html">AUX</a></tt> tokens (30% of all `AUX` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `AUX` and `Voice` co-occurred: <tt><a href="el_gdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1064; 100%), <tt><a href="el_gdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1064; 100%), <tt><a href="el_gdt-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (1051; 99%), <tt><a href="el_gdt-feat-Person.html">Person</a></tt><tt>=3</tt> (1010; 95%), <tt><a href="el_gdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (848; 80%), <tt><a href="el_gdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (823; 77%).
+The most frequent other feature values with which `AUX` and `Voice` co-occurred: <tt><a href="el_gdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (831; 100%), <tt><a href="el_gdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (831; 100%), <tt><a href="el_gdt-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (818; 98%), <tt><a href="el_gdt-feat-Person.html">Person</a></tt><tt>=3</tt> (777; 93%), <tt><a href="el_gdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (627; 75%), <tt><a href="el_gdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (590; 71%).
 
 `AUX` tokens may have the following values of `Voice`:
 
-* `Act` (466; 44% of non-empty `Voice`): <em>πρέπει, έχει, έχουν, είχε, είχαν, έπρεπε, έχουμε, έχω, έχετε, έχοντας</em>
-* `Pass` (599; 56% of non-empty `Voice`): <em>είναι, ήταν, είμαστε, είμαι, ήμασταν, είσαστε, ήσαν</em>
+* `Act` (233; 28% of non-empty `Voice`): <em>έχει, έχουν, είχε, είχαν, έχουμε, έχω, έχετε, έχοντας, είχαμε, είχατε</em>
+* `Pass` (599; 72% of non-empty `Voice`): <em>είναι, ήταν, είμαστε, είμαι, ήμασταν, είσαστε, ήσαν</em>
 * `EMPTY` (1954): <em>να, θα, ας, ν'</em>
 
 ## Relations with Agreement in `Voice`
 
 The 10 most frequent relations where parent and child node agree in `Voice`:
-<tt>VERB --[<tt><a href="el_gdt-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (404; 71%),
-<tt>VERB --[<tt><a href="el_gdt-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (397; 61%),
-<tt>VERB --[<tt><a href="el_gdt-dep-conj.html">conj</a></tt>]--> VERB</tt> (346; 66%),
+<tt>VERB --[<tt><a href="el_gdt-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (421; 74%),
+<tt>VERB --[<tt><a href="el_gdt-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (400; 61%),
+<tt>VERB --[<tt><a href="el_gdt-dep-conj.html">conj</a></tt>]--> VERB</tt> (348; 66%),
 <tt>VERB --[<tt><a href="el_gdt-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (284; 74%),
-<tt>VERB --[<tt><a href="el_gdt-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (40; 53%),
-<tt>VERB --[<tt><a href="el_gdt-dep-cop.html">cop</a></tt>]--> AUX</tt> (30; 79%),
-<tt>VERB --[<tt><a href="el_gdt-dep-csubj-pass.html">csubj:pass</a></tt>]--> VERB</tt> (22; 52%),
+<tt>VERB --[<tt><a href="el_gdt-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (169; 57%),
+<tt>VERB --[<tt><a href="el_gdt-dep-cop.html">cop</a></tt>]--> AUX</tt> (29; 76%),
 <tt>VERB --[<tt><a href="el_gdt-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (22; 73%),
 <tt>VERB --[<tt><a href="el_gdt-dep-obl.html">obl</a></tt>]--> VERB</tt> (2; 100%).
 

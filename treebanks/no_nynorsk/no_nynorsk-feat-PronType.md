@@ -10,10 +10,10 @@ This feature is universal.
 It occurs with 7 different values: `Art`, `Dem`, `Ind`, `Int`, `Prs`, `Rcp`, `Tot`.
 Some words have combined values of the feature; 3 combinations have been observed: `Art|Prs`, `Ind|Prs`, `Prs|Tot`.
 
-34189 tokens (11%) have a non-empty value of `PronType`.
-170 types (1%) occur at least once with a non-empty value of `PronType`.
-75 lemmas (0%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 3 part-of-speech tags: <tt><a href="no_nynorsk-pos-PRON.html">PRON</a></tt> (19338; 6% instances), <tt><a href="no_nynorsk-pos-DET.html">DET</a></tt> (14850; 5% instances), <tt><a href="no_nynorsk-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+34188 tokens (11%) have a non-empty value of `PronType`.
+169 types (1%) occur at least once with a non-empty value of `PronType`.
+74 lemmas (0%) occur at least once with a non-empty value of `PronType`.
+The feature is used with 3 part-of-speech tags: <tt><a href="no_nynorsk-pos-PRON.html">PRON</a></tt> (19338; 6% instances), <tt><a href="no_nynorsk-pos-DET.html">DET</a></tt> (14849; 5% instances), <tt><a href="no_nynorsk-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 ### `PRON`
 
@@ -35,27 +35,27 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 
 ### `DET`
 
-14850 <tt><a href="no_nynorsk-pos-DET.html">DET</a></tt> tokens (99% of all `DET` tokens) have a non-empty value of `PronType`.
+14849 <tt><a href="no_nynorsk-pos-DET.html">DET</a></tt> tokens (99% of all `DET` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="no_nynorsk-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (11936; 80%).
+The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="no_nynorsk-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (11935; 80%).
 
 `DET` tokens may have the following values of `PronType`:
 
-* `Art` (5931; 40% of non-empty `PronType`): <em>ein, eit, ei, eitt, en, eir</em>
-* `Dem` (7036; 47% of non-empty `PronType`): <em>den, dei, det, andre, same, denne, anna, dette, desse, neste</em>
+* `Art` (10707; 72% of non-empty `PronType`): <em>ein, den, eit, dei, ei, det, eitt, en, eir, dét</em>
+* `Dem` (2260; 15% of non-empty `PronType`): <em>andre, same, denne, anna, dette, desse, neste, slike, slik, annan</em>
 * `Ind` (431; 3% of non-empty `PronType`): <em>noko, nokre, nokon, noka, nokor, noe</em>
 * `Int` (106; 1% of non-empty `PronType`): <em>kva</em>
-* `Prs` (513; 3% of non-empty `PronType`): <em>sjølv, sjølve, eigen, eige, eigne, eiga, the, II, III, et</em>
+* `Prs` (512; 3% of non-empty `PronType`): <em>sjølv, sjølve, eigen, eige, eigne, eiga, the, II, III, et</em>
 * `Tot` (833; 6% of non-empty `PronType`): <em>alle, kvar, kvart, all, alt, begge, einkvar, eitkvart</em>
 * `EMPTY` (138): <em>ingen, inga</em>
 
 <table>
-  <tr><th>Paradigm <i>det</i></th><th><tt>Prs</tt></th><th><tt>Dem</tt></th></tr>
-  <tr><td><tt><tt><a href="no_nynorsk-feat-Case.html">Case</a></tt><tt>=Gen</tt></tt></td><td></td><td><em>dets</em></td></tr>
-  <tr><td><tt></tt></td><td><em>det</em></td><td><em>det, dét</em></td></tr>
+  <tr><th>Paradigm <i>det</i></th><th><tt>Prs</tt></th><th><tt>Art</tt></th><th><tt>Dem</tt></th></tr>
+  <tr><td><tt><tt><a href="no_nynorsk-feat-Case.html">Case</a></tt><tt>=Gen</tt></tt></td><td></td><td></td><td><em>dets</em></td></tr>
+  <tr><td><tt></tt></td><td><em>det</em></td><td><em>det, dét</em></td><td></td></tr>
 </table>
 
-`PronType` seems to be **lexical feature** of `DET`. 98% lemmas (42) occur only with one value of `PronType`.
+`PronType` seems to be **lexical feature** of `DET`. 95% lemmas (40) occur only with one value of `PronType`.
 
 ### `NUM`
 
@@ -66,13 +66,12 @@ The most frequent other feature values with which `NUM` and `PronType` co-occurr
 `NUM` tokens may have the following values of `PronType`:
 
 * `Dem` (1; 100% of non-empty `PronType`): <em>fem-seks</em>
-* `EMPTY` (4049): <em>to, tre, fire, ti, fem, 20, 1, seks, 2005, 2006</em>
+* `EMPTY` (4047): <em>to, tre, fire, ti, fem, 20, 1, seks, 2005, 2006</em>
 
 ## Relations with Agreement in `PronType`
 
 The 10 most frequent relations where parent and child node agree in `PronType`:
 <tt>PRON --[<tt><a href="no_nynorsk-dep-det.html">det</a></tt>]--> DET</tt> (122; 67%),
-<tt>DET --[<tt><a href="no_nynorsk-dep-det.html">det</a></tt>]--> DET</tt> (90; 60%),
 <tt>PRON --[<tt><a href="no_nynorsk-dep-expl.html">expl</a></tt>]--> PRON</tt> (57; 80%),
 <tt>PRON --[<tt><a href="no_nynorsk-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (38; 72%),
 <tt>PRON --[<tt><a href="no_nynorsk-dep-conj.html">conj</a></tt>]--> PRON</tt> (22; 96%),

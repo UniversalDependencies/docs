@@ -45,7 +45,7 @@ The following 4 pairs of parts of speech are connected with `cop:own`: <tt><a hr
 3	poliisilla	poliisi	NOUN	_	Case=Ade|Number=Sing	0	root	_	_
 4	ole	olla	AUX	_	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop:own	_	_
 5	mitään	mikään	PRON	_	Case=Par|Number=Sing|PronType=Ind	6	det	_	_
-6	säilytystilaa	säilytys#tila	NOUN	_	Case=Par|Number=Sing	3	nsubj:cop	_	_
+6	säilytystilaa	säilytys#tila	NOUN	_	Case=Par|Number=Sing	3	nsubj:cop	_	candidate=nsubj:exist
 7	niille	se	PRON	_	Case=All|Number=Plur|PronType=Dem	3	obl	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\n
 
@@ -64,7 +64,7 @@ The following 4 pairs of parts of speech are connected with `cop:own`: <tt><a hr
 4	ole	olla	AUX	_	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop:own	_	_
 5	mitään	mikään	PRON	_	Case=Par|Number=Sing|PronType=Ind	7	det	_	_
 6	numero	numero	NOUN	_	Case=Nom|Number=Sing	7	compound:nn	_	_
-7	tietoa	tieto	NOUN	_	Case=Par|Number=Sing	3	nsubj:cop	_	_
+7	tietoa	tieto	NOUN	_	Case=Par|Number=Sing	3	nsubj:cop	_	candidate=nsubj:exist
 8	heittää	heittää	VERB	_	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act	3	xcomp:ds	_	_
 9	tähän	tämä	PRON	_	Case=Ill|Number=Sing|PronType=Dem	8	obl	_	_
 10	enkä	ei	AUX	_	Clitic=Ka|Number=Sing|Person=1|Polarity=Neg|VerbForm=Fin|Voice=Act	13	aux	_	_
@@ -72,7 +72,7 @@ The following 4 pairs of parts of speech are connected with `cop:own`: <tt><a hr
 12	varmuudella	varmuus	NOUN	_	Case=Ade|Derivation=Vs|Number=Sing	13	obl	_	_
 13	sanoa	sanoa	VERB	_	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act	3	conj	_	_
 14	mikä	mikä	PRON	_	Case=Nom|Number=Sing|PronType=Rel	15	det	_	_
-15	kielitilanne	kieli#tilanne	NOUN	_	Case=Nom|Number=Sing	16	nsubj:cop	_	_
+15	kielitilanne	kieli#tilanne	NOUN	_	Case=Nom|Number=Sing	16	nsubj:cop	_	candidate=nsubj:exist
 16	alueella	alue	NOUN	_	Case=Ade|Number=Sing	13	ccomp	_	_
 17	oli	olla	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	16	cop	_	_
 18	esim.	esim.	ADV	_	Abbr=Yes	20	advmod	_	_

@@ -38,13 +38,13 @@ The following 4 pairs of parts of speech are connected with `flat:frac`: <tt><a 
 13	հազիւ	հազիւ	ADV	_	_	14	advmod	_	Translit=haziw|LTranslit=haziw
 14	կտրեցինք	կտրել	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Subcat=Tran|Tense=Past|VerbForm=Fin|Voice=Act	6	conj	_	Translit=ktrec’ink’|LTranslit=ktrel|SpaceAfter=No
 15	,	,	PUNCT	_	_	19	punct	_	Translit=,|LTranslit=,
-16	չնայած	չնայած	SCONJ	_	_	19	mark	_	Translit=čnayaç|LTranslit=čnayaç
+16	չնայած	նայիլ	VERB	_	Aspect=Perf|ExtPos=SCONJ|Polarity=Neg|Subcat=Intr|VerbForm=Part|Voice=Mid	19	mark	_	Translit=čnayaç|LTranslit=nayil
 17	հիմա	հիմա	ADV	_	_	19	advmod	_	Translit=hima|LTranslit=hima
 18	ճամբան	ճամբայ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	19	nsubj	_	Translit=č̣amban|LTranslit=č̣ambay
 19	ուղիղ	ուղիղ	ADJ	_	Degree=Pos	6	advcl	_	Translit=owġiġ|LTranslit=owġiġ
 20	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	19	cop	_	Translit=ē|LTranslit=em
-21	քիչ	քիչ	ADV	_	_	19	advmod	_	Translit=k’ič|LTranslit=k’ič
-22	մը	մը	DET	_	PronType=Art	21	det	_	Translit=më|LTranslit=më|SpaceAfter=No
+21	քիչ	քիչ	ADV	_	ExtPos=ADV	19	advmod	_	Translit=k’ič|LTranslit=k’ič
+22	մը	մը	DET	_	PronType=Art	21	fixed	_	Translit=më|LTranslit=më|SpaceAfter=No
 23	,	,	PUNCT	_	_	25	punct	_	Translit=,|LTranslit=,
 24	աւելի	աւելի	ADV	_	Degree=Cmp	25	advmod	_	Translit=aweli|LTranslit=aweli
 25	դիւրին	դիւրին	ADJ	_	Degree=Pos	19	conj	_	Translit=diwrin|LTranslit=diwrin|SpaceAfter=No

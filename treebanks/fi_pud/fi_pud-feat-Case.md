@@ -9,16 +9,16 @@ udver: '2'
 This feature is universal.
 It occurs with 15 different values: `Abe`, `Abl`, `Acc`, `Ade`, `All`, `Com`, `Ela`, `Ess`, `Gen`, `Ill`, `Ine`, `Ins`, `Nom`, `Par`, `Tra`.
 
-8765 tokens (55%) have a non-empty value of `Case`.
-6237 types (82%) occur at least once with a non-empty value of `Case`.
-4086 lemmas (83%) occur at least once with a non-empty value of `Case`.
-The feature is used with 9 part-of-speech tags: <tt><a href="fi_pud-pos-NOUN.html">NOUN</a></tt> (4207; 27% instances), <tt><a href="fi_pud-pos-PROPN.html">PROPN</a></tt> (1504; 10% instances), <tt><a href="fi_pud-pos-PRON.html">PRON</a></tt> (1160; 7% instances), <tt><a href="fi_pud-pos-ADJ.html">ADJ</a></tt> (1083; 7% instances), <tt><a href="fi_pud-pos-VERB.html">VERB</a></tt> (629; 4% instances), <tt><a href="fi_pud-pos-NUM.html">NUM</a></tt> (124; 1% instances), <tt><a href="fi_pud-pos-AUX.html">AUX</a></tt> (52; 0% instances), <tt><a href="fi_pud-pos-SYM.html">SYM</a></tt> (4; 0% instances), <tt><a href="fi_pud-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances).
+8761 tokens (55%) have a non-empty value of `Case`.
+6234 types (82%) occur at least once with a non-empty value of `Case`.
+4084 lemmas (83%) occur at least once with a non-empty value of `Case`.
+The feature is used with 9 part-of-speech tags: <tt><a href="fi_pud-pos-NOUN.html">NOUN</a></tt> (4205; 27% instances), <tt><a href="fi_pud-pos-PROPN.html">PROPN</a></tt> (1503; 10% instances), <tt><a href="fi_pud-pos-PRON.html">PRON</a></tt> (1159; 7% instances), <tt><a href="fi_pud-pos-ADJ.html">ADJ</a></tt> (1083; 7% instances), <tt><a href="fi_pud-pos-VERB.html">VERB</a></tt> (629; 4% instances), <tt><a href="fi_pud-pos-NUM.html">NUM</a></tt> (124; 1% instances), <tt><a href="fi_pud-pos-AUX.html">AUX</a></tt> (52; 0% instances), <tt><a href="fi_pud-pos-SYM.html">SYM</a></tt> (4; 0% instances), <tt><a href="fi_pud-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances).
 
 ### `NOUN`
 
-4207 <tt><a href="fi_pud-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Case`.
+4205 <tt><a href="fi_pud-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="fi_pud-feat-Derivation.html">Derivation</a></tt><tt>=EMPTY</tt> (3687; 88%), <tt><a href="fi_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3136; 75%).
+The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="fi_pud-feat-Derivation.html">Derivation</a></tt><tt>=EMPTY</tt> (3685; 88%), <tt><a href="fi_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3134; 75%).
 
 `NOUN` tokens may have the following values of `Case`:
 
@@ -31,9 +31,9 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 * `Ess` (215; 5% of non-empty `Case`): <em>vuonna, aikana, päivänä, tuloksena, osana, tarkoituksena, tiistaina, vuosina, aamuna, kokonaisuutena</em>
 * `Gen` (1078; 26% of non-empty `Case`): <em>vuoden, kaupungin, alueen, sodan, hallituksen, maailman, ajan, päivän, sopimuksen, maan</em>
 * `Ill` (279; 7% of non-empty `Case`): <em>vuoteen, aikaan, käyttöön, kouluun, osaan, aikoihin, etelään, golf-turnaukseen, juutalaisuuteen, kapinaan</em>
-* `Ine` (281; 7% of non-empty `Case`): <em>heinäkuussa, huhtikuussa, lokakuussa, tapauksessa, tutkimuksessa, haastattelussa, joukossa, kyseessä, käytössä, puolivälissä</em>
+* `Ine` (280; 7% of non-empty `Case`): <em>heinäkuussa, huhtikuussa, lokakuussa, tapauksessa, tutkimuksessa, haastattelussa, joukossa, kyseessä, käytössä, puolivälissä</em>
 * `Ins` (8; 0% of non-empty `Case`): <em>osin, hengin, mielin, määrin, perustein</em>
-* `Nom` (1039; 25% of non-empty `Case`): <em>osa, ihmiset, alue, armeija, hallitus, sopimus, kuningas, presidentti, aika, elokuva</em>
+* `Nom` (1038; 25% of non-empty `Case`): <em>osa, ihmiset, alue, armeija, hallitus, sopimus, kuningas, presidentti, aika, elokuva</em>
 * `Par` (695; 17% of non-empty `Case`): <em>kertaa, vuotta, ihmisiä, dollaria, puntaa, euroa, maata, mahdollisuutta, henkeä, lokakuuta</em>
 * `Tra` (39; 1% of non-empty `Case`): <em>lähettilääksi, -hahmoiksi, Tanskaksi, ajaksi, autoksi, avionrikkojaksi, elokuvaksi, fasistiksi, hallitsijaksi, huvitukseksi</em>
 * `EMPTY` (16): <em>eKr., jKr., eaa., uutis-</em>
@@ -46,9 +46,9 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 
 ### `PROPN`
 
-1504 <tt><a href="fi_pud-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `Case`.
+1503 <tt><a href="fi_pud-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PROPN` and `Case` co-occurred: <tt><a href="fi_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1458; 97%).
+The most frequent other feature values with which `PROPN` and `Case` co-occurred: <tt><a href="fi_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1457; 97%).
 
 `PROPN` tokens may have the following values of `Case`:
 
@@ -60,7 +60,7 @@ The most frequent other feature values with which `PROPN` and `Case` co-occurred
 * `Gen` (469; 31% of non-empty `Case`): <em>Ranskan, Australian, Kiinan, Venäjän, Yhdysvaltain, Euroopan, Britannian, Kongin, Makedonian, Välimeren</em>
 * `Ill` (43; 3% of non-empty `Case`): <em>Aasiaan, Adrianmereen, Agoraan, Albaniaan, Albanyyn, Amerikkoihin, Amurruun, Angelesiin, Belgradiin, Britanniaan</em>
 * `Ine` (67; 4% of non-empty `Case`): <em>Isossa-Britanniassa, Saksassa, Ukrainassa, Aasiassa, Abbotsfordissa, Afrikassa, Alankomaissa, Alaskassa, Australiassa, Badarpurissa</em>
-* `Nom` (792; 53% of non-empty `Case`): <em>of, Hong, de, the, Donald, Joseph, Kiina, Qing, North, Trump</em>
+* `Nom` (791; 53% of non-empty `Case`): <em>of, Hong, de, the, Donald, Joseph, Kiina, Qing, North, Trump</em>
 * `Par` (43; 3% of non-empty `Case`): <em>Andya, Italiaa, Mongoliaa, Abakumovia, Antarktista, Brandsia, Chrisiä, Churchillia, Danevirkea, Etelä-Amerikkaa</em>
 
 <table>
@@ -70,9 +70,9 @@ The most frequent other feature values with which `PROPN` and `Case` co-occurred
 
 ### `PRON`
 
-1160 <tt><a href="fi_pud-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Case`.
+1159 <tt><a href="fi_pud-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="fi_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (856; 74%), <tt><a href="fi_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (835; 72%).
+The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="fi_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (855; 74%), <tt><a href="fi_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (834; 72%).
 
 `PRON` tokens may have the following values of `Case`:
 
@@ -85,7 +85,7 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 * `Gen` (268; 23% of non-empty `Case`): <em>sen, hänen, heidän, jonka, tämän, niiden, joiden, meidän, muiden, näiden</em>
 * `Ill` (38; 3% of non-empty `Case`): <em>samaan, siihen, tähän, muihin, joihin, niihin, Kaikkiin, Tuohon, johon, moniin</em>
 * `Ine` (52; 4% of non-empty `Case`): <em>jossa, joissa, missä, Tässä, missään, näissä, siinä, Eräässä, hänessä, joissain</em>
-* `Nom` (509; 44% of non-empty `Case`): <em>hän, joka, se, jotka, tämä, he, kaikki, monet, ne, nämä</em>
+* `Nom` (508; 44% of non-empty `Case`): <em>hän, joka, se, jotka, tämä, he, kaikki, monet, ne, nämä</em>
 * `Par` (127; 11% of non-empty `Case`): <em>sitä, jota, mitä, häntä, joita, monta, niitä, tätä, muuta, näitä</em>
 * `Tra` (1; 0% of non-empty `Case`): <em>yhdeksi</em>
 

@@ -38,7 +38,7 @@ The following 6 pairs of parts of speech are connected with `ccomp:speech`: <tt>
 14	diz	dizer	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 15	Embraer	Embraer	PROPN	_	_	14	nsubj	_	_
 16	-	-	PUNCT	_	_	17	punct	_	_
-17	http://t.co/IC95fnGo6k	http://t.co/IC95fnGo6k	SYM	_	_	14	parataxis	_	SpaceAfter=No
+17	http://t.co/IC95fnGo6k	http://t.co/IC95fnGo6k	SYM	_	_	14	parataxis	_	_
 
 ~~~
 
@@ -49,7 +49,7 @@ The following 6 pairs of parts of speech are connected with `ccomp:speech`: <tt>
 # visual-style 18	bgColor:blue
 # visual-style 18	fgColor:white
 # visual-style 18 10 ccomp:speech	color:blue
-1	Qto	quanto	ADV	_	_	3	mark	_	_
+1	Qto	quanto	ADV	_	ExtPos=SCONJ	3	mark	_	_
 2	mais	mais	ADV	_	_	1	fixed	_	_
 3	mexe	mexer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	3	punct	_	_
@@ -68,7 +68,7 @@ The following 6 pairs of parts of speech are connected with `ccomp:speech`: <tt>
 17	,	,	PUNCT	_	_	10	punct	_	_
 18	diz	dizer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	parataxis	_	_
 19	Marina	Marina	PROPN	_	_	18	nsubj	_	_
-20	http://t.co/APome9qgES	http://t.co/APome9qgES	SYM	_	_	7	parataxis	_	SpaceAfter=No
+20	http://t.co/APome9qgES	http://t.co/APome9qgES	SYM	_	_	7	parataxis	_	_
 
 ~~~
 
@@ -116,7 +116,7 @@ The following 6 pairs of parts of speech are connected with `ccomp:speech`: <tt>
 35	é	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	37	cop	_	_
 36	outra	outro	DET	_	Gender=Fem|Number=Sing|PronType=Ind	37	det	_	_
 37	coisa	coisa	NOUN	_	Gender=Fem|Number=Sing	13	parataxis	_	SpaceAfter=No
-38	!	!	PUNCT	_	_	37	punct	_	SpaceAfter=No
+38	!	!	PUNCT	_	_	37	punct	_	_
 
 ~~~
 

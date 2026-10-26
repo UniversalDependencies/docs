@@ -22,9 +22,9 @@ The following 4 pairs of parts of speech are connected with `orphan`: <tt><a hre
 # visual-style 14	bgColor:blue
 # visual-style 14	fgColor:white
 # visual-style 14 16 orphan	color:blue
-1	كما	كَما	PART	RP	_	4	compound:prt	_	LId=كَما_1
+1	كما	كَما	PART	RP	ExtPos=CCONJ	4	cc	_	LId=كَما_1
 2	أن	أَنَّ	PART	RP	_	1	fixed	_	LId=أَنَّ_1|SpaceAfter=No
-3	ه	هُوَ	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3	4	nsubj:pass	_	_
+3	ه	هُوَ	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj:pass	_	_
 4	شيد	شَاد	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Pass	0	root	_	LId=شَيَّد_1
 5	و	وَ	CCONJ	CC	_	6	cc	_	SpaceAfter=No
 6	جدد	جَدَّد	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	4	conj	_	LId=جَدَّد_1
@@ -51,7 +51,7 @@ The following 4 pairs of parts of speech are connected with `orphan`: <tt><a hre
 # visual-style 21	fgColor:white
 # visual-style 21 19 orphan	color:blue
 1	كانوا	كَان	AUX	VBC	Aspect=Perf|Gender=Masc|Number=Plur|Person=3|Tense=Past|Voice=Act	2	aux	_	LId=كان-ُ_1
-2	يتناولون	تَناوَل	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	0	root	_	Gloss=take|LId=تَناوَل_1
+2	يتناولون	تَناوَل	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Gloss=take|LId=تَناوَل_1
 3	المشروبات	مَشرُوب	NOUN	NN	Case=Acc|Definite=Def|Gender=Masc|Number=Plur	2	obj	_	Gloss=beverage|LId=مَشْرُوب_1
 4	الكحولية	كُحُولِيّ	ADJ	JJ	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	3	amod	_	Gloss=alcoholic|LId=كُحُولِيّ_1
 5	مثل	مِثلَ	ADP	IN	_	6	case	_	Gloss=like|LId=مِثْل_1
@@ -83,7 +83,7 @@ The following 4 pairs of parts of speech are connected with `orphan`: <tt><a hre
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 9 orphan	color:blue
-1	يعمل	عَمِل	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	LId=عَمِل-َ_1
+1	يعمل	عَمِل	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LId=عَمِل-َ_1
 2	دوران	دَوَران	PROPN	NNP	Gender=Masc|Number=Sing	1	nsubj	_	LId=دَوَران_1
 3	ك	كَ	ADP	IN	_	4	case	_	SpaceAfter=No
 4	متحدثٍ	مُتَحَدِّث	NOUN	NN	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	1	obl	_	LId=مُتَحَدِّث_1

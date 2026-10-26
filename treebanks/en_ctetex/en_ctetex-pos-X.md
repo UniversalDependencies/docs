@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_English-CTeTex: POS Tags: `X`
 
-There are 1 `X` lemmas (6%), 11 `X` types (1%) and 17 `X` tokens (0%).
-Out of 17 observed tags, the rank of `X` is: 17 in number of lemmas, 14 in number of types and 16 in number of tokens.
+There are 5 `X` lemmas (0%), 11 `X` types (1%) and 17 `X` tokens (0%).
+Out of 17 observed tags, the rank of `X` is: 16 in number of lemmas, 14 in number of types and 16 in number of tokens.
 
-The 10 most frequent `X` lemmas: <em>_</em>
+The 10 most frequent `X` lemmas: <em>_, s, VP, capita, per</em>
 
 The 10 most frequent `X` types:  <em>s, By, VP, capita, down, h, off, per, player, tight</em>
 
-The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="en_ctetex-pos-NOUN.html">NOUN</a></tt> 2649, <tt><a href="en_ctetex-pos-PUNCT.html">PUNCT</a></tt> 1455, <tt><a href="en_ctetex-pos-DET.html">DET</a></tt> 936, <tt><a href="en_ctetex-pos-ADP.html">ADP</a></tt> 781, <tt><a href="en_ctetex-pos-VERB.html">VERB</a></tt> 721, <tt><a href="en_ctetex-pos-ADJ.html">ADJ</a></tt> 647, <tt><a href="en_ctetex-pos-AUX.html">AUX</a></tt> 492, <tt><a href="en_ctetex-pos-NUM.html">NUM</a></tt> 317, <tt><a href="en_ctetex-pos-PROPN.html">PROPN</a></tt> 293, <tt><a href="en_ctetex-pos-CCONJ.html">CCONJ</a></tt> 267, <tt><a href="en_ctetex-pos-ADV.html">ADV</a></tt> 185, <tt><a href="en_ctetex-pos-PART.html">PART</a></tt> 165, <tt><a href="en_ctetex-pos-SCONJ.html">SCONJ</a></tt> 163, <tt><a href="en_ctetex-pos-SYM.html">SYM</a></tt> 98, <tt><a href="en_ctetex-pos-PRON.html">PRON</a></tt> 83, <tt><a href="en_ctetex-pos-X.html">X</a></tt> 17, <tt><a href="en_ctetex-pos-INTJ.html">INTJ</a></tt> 4)
+The 10 most frequent ambiguous lemmas: <em>s</em> (<tt><a href="en_ctetex-pos-X.html">X</a></tt> 7, <tt><a href="en_ctetex-pos-NOUN.html">NOUN</a></tt> 1), <em>capita</em> (<tt><a href="en_ctetex-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="en_ctetex-pos-X.html">X</a></tt> 1), <em>per</em> (<tt><a href="en_ctetex-pos-ADP.html">ADP</a></tt> 6, <tt><a href="en_ctetex-pos-X.html">X</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>s</em> (<tt><a href="en_ctetex-pos-X.html">X</a></tt> 7, <tt><a href="en_ctetex-pos-NOUN.html">NOUN</a></tt> 1), <em>capita</em> (<tt><a href="en_ctetex-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="en_ctetex-pos-X.html">X</a></tt> 1), <em>down</em> (<tt><a href="en_ctetex-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="en_ctetex-pos-ADP.html">ADP</a></tt> 1, <tt><a href="en_ctetex-pos-ADV.html">ADV</a></tt> 1, <tt><a href="en_ctetex-pos-X.html">X</a></tt> 1), <em>h</em> (<tt><a href="en_ctetex-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="en_ctetex-pos-X.html">X</a></tt> 1), <em>off</em> (<tt><a href="en_ctetex-pos-ADV.html">ADV</a></tt> 3, <tt><a href="en_ctetex-pos-X.html">X</a></tt> 1), <em>per</em> (<tt><a href="en_ctetex-pos-ADP.html">ADP</a></tt> 4, <tt><a href="en_ctetex-pos-X.html">X</a></tt> 1), <em>water</em> (<tt><a href="en_ctetex-pos-NOUN.html">NOUN</a></tt> 14, <tt><a href="en_ctetex-pos-X.html">X</a></tt> 1)
 
@@ -44,9 +44,13 @@ The 10 most frequent ambiguous types:  <em>s</em> (<tt><a href="en_ctetex-pos-X.
 
 ## Morphology
 
-The form / lemma ratio of `X` is 11.000000 (the average of all parts of speech is 125.235294).
+The form / lemma ratio of `X` is 2.200000 (the average of all parts of speech is 1.138503).
 
-The 1st highest number of forms (11) was observed with the lemma “_”: <em>By, VP, capita, down, h, off, per, player, s, tight, water</em>.
+The 1st highest number of forms (7) was observed with the lemma “_”: <em>By, down, h, off, player, tight, water</em>.
+
+The 2nd highest number of forms (1) was observed with the lemma “VP”: <em>VP</em>.
+
+The 3rd highest number of forms (1) was observed with the lemma “capita”: <em>capita</em>.
 
 `X` does not occur with any features.
 

@@ -17,4 +17,4 @@ nsubj:ifoc(wrote.with, typewriter)
 
 “John wrote Mary a letter on the typewriter.”
 
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:11:09 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:24 CEST -->

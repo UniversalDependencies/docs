@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of nsubj in UD_Swiss_German-UZH'
+title:  'Statistics of nsubj in UD_Alemannic-UZH'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Swiss_German-UZH: Relations: `nsubj`
+## Treebank Statistics: UD_Alemannic-UZH: Relations: `nsubj`
 
 This relation is universal.
 There are 1 language-specific subtypes of `nsubj`: <tt><a href="gsw_uzh-dep-nsubj-pass.html">nsubj:pass</a></tt>.

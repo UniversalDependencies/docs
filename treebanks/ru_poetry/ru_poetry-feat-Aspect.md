@@ -24,7 +24,7 @@ The most frequent other feature values with which `VERB` and `Aspect` co-occurre
 
 * `Imp` (4442; 56% of non-empty `Aspect`): <em>знаю, может, стоит, жить, люблю, вижу, могу, поет, хочу, иду</em>
 * `Perf` (3507; 44% of non-empty `Aspect`): <em>прости, стал, сказал, станет, дай, забыл, найти, придет, сказать, стала</em>
-* `EMPTY` (285): <em>нет, надо, быть, есть, был, можно, будет, пора, было, нельзя</em>
+* `EMPTY` (287): <em>нет, надо, быть, есть, был, можно, будет, пора, было, нельзя</em>
 
 <table>
   <tr><th>Paradigm <i>любить</i></th><th><tt>Imp</tt></th><th><tt>Perf</tt></th></tr>
@@ -50,9 +50,9 @@ The most frequent other feature values with which `VERB` and `Aspect` co-occurre
 ## Relations with Agreement in `Aspect`
 
 The 10 most frequent relations where parent and child node agree in `Aspect`:
-<tt>VERB --[<tt><a href="ru_poetry-dep-conj.html">conj</a></tt>]--> VERB</tt> (1416; 75%),
+<tt>VERB --[<tt><a href="ru_poetry-dep-conj.html">conj</a></tt>]--> VERB</tt> (1415; 75%),
 <tt>VERB --[<tt><a href="ru_poetry-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (417; 63%),
-<tt>VERB --[<tt><a href="ru_poetry-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (172; 54%),
+<tt>VERB --[<tt><a href="ru_poetry-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (172; 53%),
 <tt>VERB --[<tt><a href="ru_poetry-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (68; 52%),
 <tt>VERB --[<tt><a href="ru_poetry-dep-nsubj.html">nsubj</a></tt>]--> VERB</tt> (7; 64%),
 <tt>VERB --[<tt><a href="ru_poetry-dep-acl.html">acl</a></tt>]--> VERB</tt> (2; 67%),

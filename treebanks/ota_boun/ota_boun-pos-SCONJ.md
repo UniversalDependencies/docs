@@ -7,24 +7,24 @@ udver: '2'
 ## Treebank Statistics: UD_Ottoman_Turkish-BOUN: POS Tags: `SCONJ`
 
 There are 1 `SCONJ` lemmas (0%), 1 `SCONJ` types (0%) and 25 `SCONJ` tokens (0%).
-Out of 16 observed tags, the rank of `SCONJ` is: 16 in number of lemmas, 16 in number of types and 15 in number of tokens.
+Out of 16 observed tags, the rank of `SCONJ` is: 15 in number of lemmas, 16 in number of types and 15 in number of tokens.
 
 The 10 most frequent `SCONJ` lemmas: <em>ki</em>
 
 The 10 most frequent `SCONJ` types:  <em>ki</em>
 
-The 10 most frequent ambiguous lemmas: <em>ki</em> (<tt><a href="ota_boun-pos-SCONJ.html">SCONJ</a></tt> 25, <tt><a href="ota_boun-pos-PART.html">PART</a></tt> 11)
+The 10 most frequent ambiguous lemmas: <em>ki</em> (<tt><a href="ota_boun-pos-SCONJ.html">SCONJ</a></tt> 25, <tt><a href="ota_boun-pos-PART.html">PART</a></tt> 10)
 
-The 10 most frequent ambiguous types:  <em>ki</em> (<tt><a href="ota_boun-pos-SCONJ.html">SCONJ</a></tt> 25, <tt><a href="ota_boun-pos-PART.html">PART</a></tt> 11)
+The 10 most frequent ambiguous types:  <em>ki</em> (<tt><a href="ota_boun-pos-SCONJ.html">SCONJ</a></tt> 25, <tt><a href="ota_boun-pos-PART.html">PART</a></tt> 10)
 
 
 * <em>ki</em>
   * <tt><a href="ota_boun-pos-SCONJ.html">SCONJ</a></tt> 25: <em>Aşikârdır <b>ki</b> kadınların hepsi hassastır .</em>
-  * <tt><a href="ota_boun-pos-PART.html">PART</a></tt> 11: <em>Günah değil mi <b>ki</b> ?</em>
+  * <tt><a href="ota_boun-pos-PART.html">PART</a></tt> 10: <em>Günah değil mi <b>ki</b> ?</em>
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.568406).
+The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.583924).
 
 The 1st highest number of forms (1) was observed with the lemma “ki”: <em>ki</em>.
 

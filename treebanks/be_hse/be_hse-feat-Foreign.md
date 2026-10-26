@@ -34,7 +34,7 @@ The most frequent other feature values with which `NOUN` and `Foreign` co-occurr
 `NOUN` tokens may have the following values of `Foreign`:
 
 * `Yes` (194; 100% of non-empty `Foreign`): <em>Арт, TV, ART, АРТ, е-mail, -TV, @AlesSneg, @kgbfiles, N, č</em>
-* `EMPTY` (72492): <em>дзень, людзей, чалавек, годзе, гадоў, час, людзі, года, год, году</em>
+* `EMPTY` (72502): <em>дзень, людзей, чалавек, годзе, гадоў, час, людзі, года, год, году</em>
 
 `Foreign` seems to be **lexical feature** of `NOUN`. 100% lemmas (21) occur only with one value of `Foreign`.
 
@@ -60,7 +60,7 @@ The most frequent other feature values with which `ADJ` and `Foreign` co-occurre
 `ADJ` tokens may have the following values of `Foreign`:
 
 * `Yes` (2; 100% of non-empty `Foreign`): <em>XVII, фрэндлі</em>
-* `EMPTY` (26814): <em>беларускай, новы, надзвычайных, беларускіх, беларускую, беларускі, беларуская, беларускія, першы, беларускага</em>
+* `EMPTY` (26815): <em>беларускай, новы, надзвычайных, беларускіх, беларускую, беларускі, беларуская, беларускія, першы, беларускага</em>
 
 ### `SYM`
 

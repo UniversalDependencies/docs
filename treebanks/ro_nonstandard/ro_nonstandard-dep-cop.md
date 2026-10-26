@@ -44,7 +44,7 @@ The following 12 pairs of parts of speech are connected with `cop`: <tt><a href=
 3	Iisus	Iisus	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	1	nsubj	_	Ref=MATT17.26|SpaceAfter=No
 4	:	:	PUNCT	COLON	_	8	punct	_	Ref=MATT17.26
 5	Dară	dar	CCONJ	Ccssp	Polarity=Pos	8	cc	_	Ref=MATT17.26|SpaceAfter=No
-6	,	,	PUNCT	COMMA	_	8	punct	_	Ref=MATT17.26
+6	,	,	PUNCT	COMMA	_	5	punct	_	Ref=MATT17.26
 7	feciorii	fecior	NOUN	Ncmpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	8	nsubj	_	Ref=MATT17.26
 8	slobozi	slobod	ADJ	Afpmp-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	1	parataxis	_	Ref=MATT17.26
 9	sînt	fi	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres	8	cop	_	Ref=MATT17.26|SpaceAfter=No

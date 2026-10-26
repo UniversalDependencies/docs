@@ -9,34 +9,34 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-159 tokens (0%) have a non-empty value of `Foreign`.
-119 types (1%) occur at least once with a non-empty value of `Foreign`.
-118 lemmas (1%) occur at least once with a non-empty value of `Foreign`.
-The feature is used with 9 part-of-speech tags: <tt><a href="en_gum-pos-X.html">X</a></tt> (81; 0% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (62; 0% instances), <tt><a href="en_gum-pos-PUNCT.html">PUNCT</a></tt> (8; 0% instances), <tt><a href="en_gum-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="en_gum-pos-SYM.html">SYM</a></tt> (2; 0% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+187 tokens (0%) have a non-empty value of `Foreign`.
+136 types (1%) occur at least once with a non-empty value of `Foreign`.
+135 lemmas (1%) occur at least once with a non-empty value of `Foreign`.
+The feature is used with 10 part-of-speech tags: <tt><a href="en_gum-pos-X.html">X</a></tt> (96; 0% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (74; 0% instances), <tt><a href="en_gum-pos-PUNCT.html">PUNCT</a></tt> (8; 0% instances), <tt><a href="en_gum-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="en_gum-pos-SYM.html">SYM</a></tt> (2; 0% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 ### `X`
 
-81 <tt><a href="en_gum-pos-X.html">X</a></tt> tokens (22% of all `X` tokens) have a non-empty value of `Foreign`.
+96 <tt><a href="en_gum-pos-X.html">X</a></tt> tokens (23% of all `X` tokens) have a non-empty value of `Foreign`.
 
 `X` tokens may have the following values of `Foreign`:
 
-* `Yes` (81; 100% of non-empty `Foreign`): <em>de, alcalde, 樋口, Ciao, Información, Montejo, Módulo, Palacio, Paseo, Turística</em>
-* `EMPTY` (280): <em>et, al., 1, 1., 2., in, situ, 2, 3, 4</em>
+* `Yes` (96; 100% of non-empty `Foreign`): <em>de, alcalde, 樋口, Ciao, Información, Montejo, Módulo, Palacio, Paseo, Shobha-</em>
+* `EMPTY` (323): <em>et, al., 1, 1., 2., in, 2, 3, situ, 3.</em>
 
-`Foreign` seems to be **lexical feature** of `X`. 100% lemmas (63) occur only with one value of `Foreign`.
+`Foreign` seems to be **lexical feature** of `X`. 100% lemmas (76) occur only with one value of `Foreign`.
 
 ### `PROPN`
 
-62 <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> tokens (1% of all `PROPN` tokens) have a non-empty value of `Foreign`.
+74 <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> tokens (1% of all `PROPN` tokens) have a non-empty value of `Foreign`.
 
-The most frequent other feature values with which `PROPN` and `Foreign` co-occurred: <tt><a href="en_gum-feat-Number.html">Number</a></tt><tt>=Sing</tt> (61; 98%).
+The most frequent other feature values with which `PROPN` and `Foreign` co-occurred: <tt><a href="en_gum-feat-Number.html">Number</a></tt><tt>=Sing</tt> (73; 99%).
 
 `PROPN` tokens may have the following values of `Foreign`:
 
-* `Yes` (62; 100% of non-empty `Foreign`): <em>de, Cérebro, Escola, do, et, Catarin, Federal, Jim, Jules, La</em>
-* `EMPTY` (12122): <em>States, University, President, York, New, America, Warhol, figure, south, Scientology</em>
+* `Yes` (74; 100% of non-empty `Foreign`): <em>Shobhajatra, Mangal, de, Cérebro, Escola, do, et, Catarin, Conservatoire, Federal</em>
+* `EMPTY` (14472): <em>States, University, President, America, U.S., York, New, south, north, Americans</em>
 
-`Foreign` seems to be **lexical feature** of `PROPN`. 100% lemmas (44) occur only with one value of `Foreign`.
+`Foreign` seems to be **lexical feature** of `PROPN`. 100% lemmas (47) occur only with one value of `Foreign`.
 
 ### `PUNCT`
 
@@ -45,7 +45,7 @@ The most frequent other feature values with which `PROPN` and `Foreign` co-occur
 `PUNCT` tokens may have the following values of `Foreign`:
 
 * `Yes` (8; 100% of non-empty `Foreign`): <em>!, ,, -, ?, “, ”</em>
-* `EMPTY` (28947): <em>,, ., -, ", ?, (, ), —, [, :</em>
+* `EMPTY` (34496): <em>,, ., -, ", ?, (, ), —, :, [</em>
 
 ### `ADV`
 
@@ -56,16 +56,18 @@ The most frequent other feature values with which `ADV` and `Foreign` co-occurre
 `ADV` tokens may have the following values of `Foreign`:
 
 * `Yes` (2; 100% of non-empty `Foreign`): <em>Ne, pas</em>
-* `EMPTY` (10101): <em>so, when, just, then, also, how, now, more, here, really</em>
+* `EMPTY` (12204): <em>so, just, when, then, also, how, now, more, here, where</em>
 
 ### `SYM`
 
 2 <tt><a href="en_gum-pos-SYM.html">SYM</a></tt> tokens (1% of all `SYM` tokens) have a non-empty value of `Foreign`.
 
+The most frequent other feature values with which `SYM` and `Foreign` co-occurred: <tt><a href="en_gum-feat-ExtPos.html">ExtPos</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="en_gum-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (2; 100%).
+
 `SYM` tokens may have the following values of `Foreign`:
 
 * `Yes` (2; 100% of non-empty `Foreign`): <em>33A, 56A</em>
-* `EMPTY` (315): <em>/, –, $, -, %, +, =, DKK, €, £</em>
+* `EMPTY` (359): <em>/, $, –, -, %, +, =, DKK, €, #</em>
 
 ### `ADJ`
 
@@ -76,7 +78,7 @@ The most frequent other feature values with which `ADJ` and `Foreign` co-occurre
 `ADJ` tokens may have the following values of `Foreign`:
 
 * `Yes` (1; 100% of non-empty `Foreign`): <em>National</em>
-* `EMPTY` (13960): <em>other, first, new, many, good, little, more, different, such, same</em>
+* `EMPTY` (16636): <em>other, first, new, many, good, little, more, same, such, different</em>
 
 ### `ADP`
 
@@ -85,7 +87,7 @@ The most frequent other feature values with which `ADJ` and `Foreign` co-occurre
 `ADP` tokens may have the following values of `Foreign`:
 
 * `Yes` (1; 100% of non-empty `Foreign`): <em>x</em>
-* `EMPTY` (20169): <em>of, in, to, for, on, with, at, from, by, as</em>
+* `EMPTY` (24423): <em>of, in, to, for, on, with, at, from, by, as</em>
 
 ### `DET`
 
@@ -96,30 +98,41 @@ The most frequent other feature values with which `DET` and `Foreign` co-occurre
 `DET` tokens may have the following values of `Foreign`:
 
 * `Yes` (1; 100% of non-empty `Foreign`): <em>Une</em>
-* `EMPTY` (17330): <em>the, a, this, an, all, some, that, these, no, any</em>
+* `EMPTY` (21036): <em>the, a, this, an, all, some, that, these, no, any</em>
 
-### `NOUN`
+### `INTJ`
 
-1 <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Foreign`.
+1 <tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> tokens (0% of all `INTJ` tokens) have a non-empty value of `Foreign`.
 
-The most frequent other feature values with which `NOUN` and `Foreign` co-occurred: <tt><a href="en_gum-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%).
+The most frequent other feature values with which `INTJ` and `Foreign` co-occurred: <tt><a href="en_gum-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (1; 100%).
 
-`NOUN` tokens may have the following values of `Foreign`:
+`INTJ` tokens may have the following values of `Foreign`:
 
-* `Yes` (1; 100% of non-empty `Foreign`): <em>Comédie</em>
-* `EMPTY` (35506): <em>people, time, day, way, years, life, world, year, city, today</em>
+* `Yes` (1; 100% of non-empty `Foreign`): <em>sh-</em>
+* `EMPTY` (2479): <em>like, yeah, uh, oh, um, well, so, no, okay, yes</em>
+
+### `NUM`
+
+1 <tt><a href="en_gum-pos-NUM.html">NUM</a></tt> tokens (0% of all `NUM` tokens) have a non-empty value of `Foreign`.
+
+The most frequent other feature values with which `NUM` and `Foreign` co-occurred: <tt><a href="en_gum-feat-NumForm.html">NumForm</a></tt><tt>=Digit</tt> (1; 100%), <tt><a href="en_gum-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (1; 100%).
+
+`NUM` tokens may have the following values of `Foreign`:
+
+* `Yes` (1; 100% of non-empty `Foreign`): <em>62</em>
+* `EMPTY` (4625): <em>one, two, 1, three, 2, 3, five, four, 4, 10</em>
 
 ## Relations with Agreement in `Foreign`
 
 The 10 most frequent relations where parent and child node agree in `Foreign`:
-<tt>PROPN --[<tt><a href="en_gum-dep-flat.html">flat</a></tt>]--> PROPN</tt> (38; 100%),
-<tt>X --[<tt><a href="en_gum-dep-flat.html">flat</a></tt>]--> X</tt> (29; 100%),
-<tt>X --[<tt><a href="en_gum-dep-compound.html">compound</a></tt>]--> X</tt> (10; 100%),
+<tt>PROPN --[<tt><a href="en_gum-dep-flat.html">flat</a></tt>]--> PROPN</tt> (43; 100%),
+<tt>X --[<tt><a href="en_gum-dep-flat.html">flat</a></tt>]--> X</tt> (37; 100%),
+<tt>X --[<tt><a href="en_gum-dep-case.html">case</a></tt>]--> X</tt> (4; 100%),
+<tt>X --[<tt><a href="en_gum-dep-compound.html">compound</a></tt>]--> X</tt> (4; 100%),
 <tt>X --[<tt><a href="en_gum-dep-nmod.html">nmod</a></tt>]--> X</tt> (4; 100%),
 <tt>PROPN --[<tt><a href="en_gum-dep-compound.html">compound</a></tt>]--> X</tt> (3; 100%),
-<tt>X --[<tt><a href="en_gum-dep-case.html">case</a></tt>]--> X</tt> (3; 100%),
 <tt>X --[<tt><a href="en_gum-dep-advmod.html">advmod</a></tt>]--> ADV</tt> (2; 67%),
 <tt>X --[<tt><a href="en_gum-dep-dep.html">dep</a></tt>]--> X</tt> (2; 100%),
-<tt>NOUN --[<tt><a href="en_gum-dep-flat.html">flat</a></tt>]--> PROPN</tt> (1; 100%),
-<tt>PROPN --[<tt><a href="en_gum-dep-compound.html">compound</a></tt>]--> PROPN</tt> (1; 100%).
+<tt>PROPN --[<tt><a href="en_gum-dep-compound.html">compound</a></tt>]--> PROPN</tt> (1; 100%),
+<tt>PROPN --[<tt><a href="en_gum-dep-flat.html">flat</a></tt>]--> ADJ</tt> (1; 100%).
 

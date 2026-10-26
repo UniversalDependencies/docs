@@ -4,119 +4,154 @@ title:  'Comparison of Treebank Statistics'
 udver: '2'
 ---
 
+<style>thead th {position: sticky; top: 0; background-color: white;}</style>
 <table>
+  <thead>
   <tr>
-    <td width="33%" valign="top">
+    <th width="25%" valign="top">
       <h1>UD_Hebrew-HTB</h1>
-    </td>
-    <td width="33%" valign="top">
+    </th>
+    <th width="25%" valign="top">
       <h1>UD_Hebrew-IAHLTknesset</h1>
-    </td>
-    <td width="33%" valign="top">
+    </th>
+    <th width="25%" valign="top">
       <h1>UD_Hebrew-IAHLTwiki</h1>
+    </th>
+    <th width="25%" valign="top">
+      <h1>UD_Hebrew-PostRab</h1>
+    </th>
+  </tr>
+  </thead>
+  <tr>
+    <td width="25%" valign="top">
+      <h2>Tokenization and Word Segmentation</h2>
+    </td>
+    <td width="25%" valign="top">
+      <h2>Tokenization and Word Segmentation</h2>
+    </td>
+    <td width="25%" valign="top">
+      <h2>Tokenization and Word Segmentation</h2>
+    </td>
+    <td width="25%" valign="top">
+      <h2>Tokenization and Word Segmentation</h2>
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
-      <h2>Tokenization and Word Segmentation</h2>
-    </td>
-    <td width="33%" valign="top">
-      <h2>Tokenization and Word Segmentation</h2>
-    </td>
-    <td width="33%" valign="top">
-      <h2>Tokenization and Word Segmentation</h2>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
       <li>This corpus contains 6143 sentences, 114648 tokens and 160195 syntactic words.</li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
       <li>This corpus contains 2883 sentences, 50499 tokens and 67007 syntactic words.</li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
       <li>This corpus contains 5039 sentences, 103395 tokens and 140961 syntactic words.</li>
       </ul>
     </td>
+    <td width="25%" valign="top">
+      <ul>
+      <li>This corpus contains 296 sentences, 5288 tokens and 8029 syntactic words.</li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
       <li>This corpus contains 19293 tokens (17%) that are not followed by a space.</li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
       <li>This corpus contains 8181 tokens (16%) that are not followed by a space.</li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
       <li>This corpus contains 17851 tokens (17%) that are not followed by a space.</li>
       </ul>
     </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
-      <li>This corpus does not contain words with spaces.</li>
-      </ul>
-    </td>
-    <td width="33%" valign="top">
-      <ul>
-      <li>This corpus does not contain words with spaces.</li>
-      </ul>
-    </td>
-    <td width="33%" valign="top">
-      <ul>
-      <li>This corpus does not contain words with spaces.</li>
+      <li>All tokens in this corpus are followed by a space.</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+      <li>This corpus does not contain words with spaces.</li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+      <ul>
+      <li>This corpus does not contain words with spaces.</li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+      <ul>
+      <li>This corpus does not contain words with spaces.</li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+      <ul>
+      <li>This corpus does not contain words with spaces.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" valign="top">
       <ul>
       <li>This corpus contains 1014 types of words that contain both letters and punctuation. Examples: ה_, _של_, _הוא, _הם, _היא, ל_, ב_, את_, של_, _הן, _אני, _אנחנו, ש"ח, על_, מן_, ארה"ב, יו"ר, אל_, צה"ל, _אתה, מנכ"ל, ח"כ, עם_, יד_, שם_, דבר_, בין_, בית_, חבר_, בית"ר, בריה"ם, תפקיד_, ד"ר, פנים_, דרך_, חיים_, חלק_, חו"ל, מוות_, עו"ד, ראש_, לפי_, פה_, _אתם, בן_, מ"ר, מד"א, סוף_, עין_, איש_</li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
       <li>This corpus contains 88 types of words that contain both letters and punctuation. Examples: צה"ל, ווד"לים, מע"מ, שיח', בג"ץ, חבר'ה, מנכ"ל, רמטכ"ל, ערוץ-7, ש"ס, שב"כ, אש"ף, א', ד"ר, דו"ח, ה', חו"ל, חל"ת, יו"ר, יש"ע, איו"ש, אל"ף, אלמ"בים, ב', בג"צים, ג'יהאד, כו', כנ"ר, ל"ג, מטכ"ל, מל"ג, ממ"ז, פרופ', צד"ל, תקש"ח, 120(ב)(2, vis-a-vis, אב"י, אי-מיילים, אל-חק, אלמ"ב, בית"ר, בית"רי, ג'ון, ג'סטות, גוז'נסקי, ד', דז'ה, ואל-חורייה, וות"ת</li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
       <li>This corpus contains 320 types of words that contain both letters and punctuation. Examples: אונר"א, או"ם, מק"ם, צה"ל, בג"ץ, דו"ח, מעו"ף, ש"ח, ד"ר, מז'ור, פרופ', ג'ון, נ"ט, צ'רצ'ילים, ק"מ, א"י, חו"ל, mg/dl, אצ"ל, יו"ר, ע"פ, צ'יין, ג'ודו, ג'ודוקא, ח"כ, מנכ"ל, עות'מאנית, ק"ג, יענקל'ה, מח"ט, מפ"ם, עו"ד, פק"ם, תנ"ך, 236ב1(ב, אברג'יל, ב', ד', ה', חר"ג, יש"ע, עות'מאני, ABA', ABABA', אברמוביץ', אולארצ'יק, ג', ג'וחדר, ג'יימס, דו"חות</li>
       </ul>
     </td>
+    <td width="25%" valign="top">
+      <ul>
+      <li>This corpus contains 27 types of words that contain both letters and punctuation. Examples: ה', י', הקב"ה, י"ב, א', ד', חי"ת, כו', רמב"ן, ש"ס, ב', ג', ג׳, דל"ת, דלי"ת, ה"י, וכו', י"א, יו"ד, לע"ז, מהרי"ל, ק"ך, רמ"א, שד"י, שי"ח, שי"ן, ת"ר</li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
       <li>This corpus contains 36783 multi-word tokens. On average, one multi-word token consists of 2.24 syntactic words.</li>
       <li>There are 15653 types of multi-word tokens. Examples: לו, שהוא, בו, המשפט, המשטרה, אותו, שלו, ביום, בבית, הפועל, בכל, הממשלה, החברה, ולא, שלא, להם, לכל, הזה, האוצר, לי, בישראל, שהיה, הבחירות, לה, שיש, הראשון, הביטחון, שבו, בה, בארץ, בדרך, בירושלים, העבודה, אותה, ועל, אותם, בהם, במסגרת, הארץ, השבוע, וגם, בימים, המדינה, הראשונה, לכך, העובדים, מהם, המשחק, שהם, האחרונים.</li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
       <li>This corpus contains 15377 multi-word tokens. On average, one multi-word token consists of 2.07 syntactic words.</li>
       <li>There are 6084 types of multi-word tokens. Examples: הכנסת, הזה, הזאת, הממשלה, אדוני, לי, ואני, היושב, ולא, להם, שיש, החוק, לנו, שלא, שהוא, שזה, בכל, וגם, האלה, לו, המדינה, הוועדה, אותו, שאני, שאנחנו, שהם, אותם, לכם, השר, בכנסת, לך, הדברים, שלנו, הציבור, שלו, וזה, בו, במדינת, שצריך, בנושא, בישראל, הזמן, היום, שאין, שלי, הבית, הדבר, היהודי, האוצר, החינוך.</li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
       <li>This corpus contains 34692 multi-word tokens. On average, one multi-word token consists of 2.08 syntactic words.</li>
       <li>There are 13068 types of multi-word tokens. Examples: המשפט, בשנת, העליון, הראשון, בו, בישראל, בבית, הוועדה, הבנקים, הכנסת, באופן, המדינה, באותה, בשם, המנדט, במהלך, הכנסייה, האלבום, מסוג, היהודי, וכן, השיר, בדם, הברית, בארץ, הקבר, הממשלה, החוק, העולם, שלא, באזור, בה, ושומרון, הבריטי, המאה, שבו, ולא, הארץ, שלו, אותו, הבנק, הבריטים, החולים, הראשונה, השופט, לכך, באלבום, בסוף, ועל, לו.</li>
       </ul>
     </td>
+    <td width="25%" valign="top">
+      <ul>
+      <li>This corpus contains 2438 multi-word tokens. On average, one multi-word token consists of 2.12 syntactic words.</li>
+      <li>There are 1563 types of multi-word tokens. Examples: לו, ולא, בו, שהוא, ואם, ואין, לה, שיש, שלא, וכל, שאין, בכל, הגט, והוא, עליו, ביום, הכנסת, ועל, אותו, בבית, בזה, במקום, העולם, ויש, להם, בה, הבית, לי, המעות, השליח, התורה, ואינו, ואמר, מהם, עליהם, עמו, שהיא, שלו, בהם, בהן, הזה, המצות, וגם, אביו, אותם, אינו, בדבר, בסלע, בשעת, הארץ.</li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <h2>Morphology</h2>
       
       <h3>Tags</h3>
@@ -126,7 +161,7 @@ udver: '2'
       <li>This corpus does not use the following tags: PART, SYM</li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <h2>Morphology</h2>
       
       <h3>Tags</h3>
@@ -136,7 +171,7 @@ udver: '2'
       <li>This corpus does not use the following tags: PART</li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <h2>Morphology</h2>
       
       <h3>Tags</h3>
@@ -146,125 +181,169 @@ udver: '2'
       <li>This corpus does not use the following tags: PART</li>
       </ul>
     </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+      <h2>Morphology</h2>
+      
+      <h3>Tags</h3>
+      
       <ul>
-      </ul>
-    </td>
-    <td width="33%" valign="top">
-      <ul>
-      </ul>
-    </td>
-    <td width="33%" valign="top">
-      <ul>
+      <li>This corpus uses 13 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PRON</a>, <a>PROPN</a>, <a>SCONJ</a>, <a>VERB</a></li>
+      <li>This corpus does not use the following tags: PART, SYM, PUNCT, X</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+      <ul>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+      <ul>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+      <ul>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" valign="top">
       <ul>
       <li>This corpus contains 23 lemmas tagged as pronouns (PRON): _, אותו, איזה, אלה, אלו, הוא, הללו, הם, הן, הנו, זאת, זה, זהו, זו, כך, כלשהו, כן, מה, מי, מישהו, עצמו, שניים, שתיים</li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
       <li>This corpus contains 26 lemmas tagged as pronouns (PRON): אותו, איזה, איך, אינו, אנוכי, אני, אנכי, ה, הוא, הזה, היות, הינו, הללו, זה, זהו, י, יי, כולו, כך, כן, מה, מי, מישהו, מתי, עצמו, עצמכם</li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
       <li>This corpus contains 33 lemmas tagged as pronouns (PRON): You, Your, ַזֶּה, אותה, אותו, איזה, אילו, אלה, אנוכי, דם, דנן, ה, הוא, הלה, הללו, ו, זה, זהו, כולו, כך, כלשהו, כמה, כן, לה, מה, מי, מישהו, משהו, נאום, ספר, עלי, עצמו, ערך</li>
       </ul>
     </td>
+    <td width="25%" valign="top">
+      <ul>
+      <li>This corpus contains 10 lemmas tagged as pronouns (PRON): אותו, אלה, הא, הוא, הללו, זה, כך, מה, מי, עצמו</li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
       <li>This corpus contains 21 lemmas tagged as determiners (DET): _, איזה, אף, די, ה, ה_, המון, הרבה, יתר, כול, כלל, כמה, מספיק, מספר, מעט, מרב, מרבית, קצת, רוב, שאר, שום</li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
       <li>This corpus contains 22 lemmas tagged as determiners (DET): איזה, איזשהו, אף, ה, המון, הרבה, כול, כלל, כלשהו, כמה, לא, מדי, מין, מיני, מספיק, מספר, מעט, עוד, קצת, רוב, שאר, שום</li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
       <li>This corpus contains 37 lemmas tagged as determiners (DET): a, the, ְהַ, א, איזה, אילו, אל, אף, ב, ה, הַ, הָ, הוא, הרבה, יותר, יתר, כול, כולו, כל, כלל, כמה, כמות, לא, לה, מדי, מחצית, מיטב, מירב, מספיק, מספר, מעט, מרבית, עוד, רוב, שאר, שום, שורה</li>
       </ul>
     </td>
+    <td width="25%" valign="top">
+      <ul>
+      <li>This corpus contains 15 lemmas tagged as determiners (DET): אותו, ה, הרבה, יותר, כדי, כל, כמה, מעט, מקצת, עוד, קצת, רב, רוב, שאר, שום</li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
       <li>Out of the above, 2 lemmas occurred sometimes as PRON and sometimes as DET: _, איזה</li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
       <li>Out of the above, 2 lemmas occurred sometimes as PRON and sometimes as DET: איזה, ה</li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
       <li>Out of the above, 7 lemmas occurred sometimes as PRON and sometimes as DET: איזה, אילו, ה, הוא, כולו, כמה, לה</li>
       </ul>
     </td>
+    <td width="25%" valign="top">
+      <ul>
+      <li>Out of the above, 1 lemmas occurred sometimes as PRON and sometimes as DET: אותו</li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
       <li>This corpus contains 4 lemmas tagged as auxiliaries (AUX): _, אינו, היה, הינו</li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
       <li>This corpus contains 14 lemmas tagged as auxiliaries (AUX): אינו, איננו, אמור, היה, זכאי, חייב, יכל, מוכן, מוכרח, מסוגל, עלול, עשוי, עתיד, צריך</li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
       <li>This corpus contains 16 lemmas tagged as auxiliaries (AUX): אינו, אמור, היה, זכאי, חייב, יכל, מוכן, מוכרח, מועד, מסוגל, עלול, עשוי, עתיד, צפוי, צריך, רשאי</li>
       </ul>
     </td>
+    <td width="25%" valign="top">
+      <ul>
+      <li>This corpus contains 6 lemmas tagged as auxiliaries (AUX): אמר, היה, יכל, עשוי, עתיד, צריך</li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
       <li>Out of the above, 2 lemmas occurred sometimes as AUX and sometimes as VERB: _, היה</li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
       <li>Out of the above, 5 lemmas occurred sometimes as AUX and sometimes as VERB: אמור, היה, חייב, יכל, צריך</li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
       <li>Out of the above, 8 lemmas occurred sometimes as AUX and sometimes as VERB: אמור, היה, זכאי, חייב, יכל, מוכן, עשוי, צריך</li>
       </ul>
     </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
-      <li>There are 2 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
-      </ul>
-    </td>
-    <td width="33%" valign="top">
-      <ul>
-      <li>There are 2 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
-      </ul>
-    </td>
-    <td width="33%" valign="top">
-      <ul>
-      <li>There are 2 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+      <li>Out of the above, 2 lemmas occurred sometimes as AUX and sometimes as VERB: אמר, היה</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+      <li>There are 2 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+      <ul>
+      <li>There are 2 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+      <ul>
+      <li>There are 2 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+      <ul>
+      <li>There are 2 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" valign="top">
       <ul>
         <li>Inf
         <ul>
@@ -274,7 +353,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Inf
         <ul>
@@ -284,7 +363,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Inf
         <ul>
@@ -294,9 +373,19 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="25%" valign="top">
+      <ul>
+        <li>Inf
+        <ul>
+          <li>AUX: בהיות</li>
+          <li>VERB: ליתן, לעשות, לומר, להתפלל, לכתוב, להגיד, להניח, להפסיק, לילך, ללמוד</li>
+        </ul>
+        </li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Part
         <ul>
@@ -306,7 +395,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Part
         <ul>
@@ -316,7 +405,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Part
         <ul>
@@ -326,37 +415,56 @@ udver: '2'
         </li>
       </ul>
     </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>Nominal Features</h3>
-    </td>
-    <td width="33%" valign="top">
-      <h3>Nominal Features</h3>
-    </td>
-    <td width="33%" valign="top">
-      <h3>Nominal Features</h3>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
-        <li><a>Gender</a></li>
-      </ul>
-    </td>
-    <td width="33%" valign="top">
-      <ul>
-        <li><a>Gender</a></li>
-      </ul>
-    </td>
-    <td width="33%" valign="top">
-      <ul>
-        <li><a>Gender</a></li>
+        <li>Part
+        <ul>
+          <li>ADJ: מכוון, ראוי, באין, בטל, דבוק, חייב, חלוקה, להוטים, מוכן, מחולקין</li>
+          <li>AUX: צריך, יכול, יכולה, צריכים, צריכין</li>
+          <li>VERB: אומר, אומרים, אוכל, מגורשת, קורא, נותן, רוצה, הולך, יוצא, יודע</li>
+        </ul>
+        </li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+      <h3>Nominal Features</h3>
+    </td>
+    <td width="25%" valign="top">
+      <h3>Nominal Features</h3>
+    </td>
+    <td width="25%" valign="top">
+      <h3>Nominal Features</h3>
+    </td>
+    <td width="25%" valign="top">
+      <h3>Nominal Features</h3>
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" valign="top">
+      <ul>
+        <li><a>Gender</a></li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+      <ul>
+        <li><a>Gender</a></li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+      <ul>
+        <li><a>Gender</a></li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+      <ul>
+        <li><a>Gender</a></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" valign="top">
       <ul>
         <li>Fem
           <ul>
@@ -372,7 +480,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Fem
           <ul>
@@ -390,7 +498,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Fem
           <ul>
@@ -408,9 +516,28 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="25%" valign="top">
+      <ul>
+        <li>Fem
+          <ul>
+            <li>ADJ: אחרות, זרה, חדשות, קטנה, אחרת, נקיות, פשוטה, רצויה, אחרונה, אלהית</li>
+            <li>ADJ-Part: חלוקה</li>
+            <li>AUX: היתה, יכולה, עתידה, תהא, תהיה</li>
+            <li>AUX-Part: יכולה</li>
+            <li>DET: ה</li>
+            <li>NOUN: ארץ, יד, שנה, מעות, תורה, דרך, כנסת, תפלה, ידי, מצוה</li>
+            <li>NUM: ארבע, אחת, מאות, עשר, עשרה, שלוש, שש, שתי, שתים, ראשונה</li>
+            <li>PRON: ה, היא, זו, זאת, נה, הן, ן, ך, אותן, אן</li>
+            <li>PROPN: שרה, חובה, חנוכה, ירושלים, שמע</li>
+            <li>VERB: מגורשת, עמדה, אמרה, יודעת, נכנסת, סולדת, אומרת, באה, הגיעה, הוחזקה</li>
+            <li>VERB-Part: מגורשת, יודעת, נכנסת, סולדת, אומרת, באה, הורגת, חוששת, מגיירת, מדלקת</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Fem,Masc
           <ul>
@@ -425,7 +552,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Fem,Masc
           <ul>
@@ -438,7 +565,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Fem,Masc
           <ul>
@@ -451,9 +578,23 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="25%" valign="top">
+      <ul>
+        <li>Fem,Masc
+          <ul>
+            <li>AUX: היו, יהיו, אמרתי, הייתי</li>
+            <li>NOUN: דרכי</li>
+            <li>NUM: עשרים</li>
+            <li>PRON: י, אלו, נו, אני, אנו, אלה, הללו, אנחנו, אנכי, הן</li>
+            <li>VERB: נהגו, ידעו, ימכרו, נ, נאבדו, ראו, ראיתי, אדרוש, אמרו, אעשה</li>
+            <li>VERB-Part: בא</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Masc
           <ul>
@@ -470,7 +611,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Masc
           <ul>
@@ -489,7 +630,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Masc
           <ul>
@@ -509,37 +650,65 @@ udver: '2'
         </li>
       </ul>
     </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
-
-    </td>
-    <td width="33%" valign="top">
-
-    </td>
-    <td width="33%" valign="top">
-
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
-        <li><a>Number</a></li>
-      </ul>
-    </td>
-    <td width="33%" valign="top">
-      <ul>
-        <li><a>Number</a></li>
-      </ul>
-    </td>
-    <td width="33%" valign="top">
-      <ul>
-        <li><a>Number</a></li>
+        <li>Masc
+          <ul>
+            <li>ADJ: אחר, מותר, אסור, ברוך, גדול, אחרים, קדוש, גבוה, זול, חייב</li>
+            <li>ADJ-Part: מכוון, ראוי, באין, בטל, דבוק, חייב, להוטים, מוכן, מחולקין, סמוכים</li>
+            <li>AUX: היה, צריך, יכול, יהיה, יהא, יהיו, עתידין, צריכים, יוכל, עשויים</li>
+            <li>AUX-Part: צריך, יכול, צריכים, צריכין</li>
+            <li>DET: שאר, אותו, ה, מעט, רוב</li>
+            <li>NOUN: בית, מקום, יום, גט, ראש, זמן, בעל, שליח, בני, ימי</li>
+            <li>NUM: אחד, שני, ראשון, שניה, שנים, ארבעה, מחצה, עשר, עשרה, רביעי</li>
+            <li>PRON: ו, הוא, ם, הם, זה, ך, הו, נו, אתה, ה</li>
+            <li>PROPN: ניסן, אברהם, נח, ישראל, אדם, ה', הקב"ה, משה, עמרם, קהת</li>
+            <li>VERB: אמר, אומר, אומרים, אוכל, יצא, נאמר, קורא, בא, נותן, נתנ</li>
+            <li>VERB-Inf: זכור, שמור</li>
+            <li>VERB-Part: אומר, אומרים, אוכל, קורא, נותן, רוצה, הולך, יוצא, יודע, יודעים</li>
+          </ul>
+        </li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+
+    </td>
+    <td width="25%" valign="top">
+
+    </td>
+    <td width="25%" valign="top">
+
+    </td>
+    <td width="25%" valign="top">
+
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" valign="top">
+      <ul>
+        <li><a>Number</a></li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+      <ul>
+        <li><a>Number</a></li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+      <ul>
+        <li><a>Number</a></li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+      <ul>
+        <li><a>Number</a></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" valign="top">
       <ul>
         <li>Dual
           <ul>
@@ -549,7 +718,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Dual
           <ul>
@@ -558,7 +727,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Dual
           <ul>
@@ -568,9 +737,19 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="25%" valign="top">
+      <ul>
+        <li>Dual
+          <ul>
+            <li>NOUN: אפיים, פעמים, שנתים</li>
+            <li>NUM: שני, שניה, שנים, שתי, שתים, תרין</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Dual,Plur
           <ul>
@@ -579,15 +758,18 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
 
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+
+    </td>
+    <td width="25%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Plur
           <ul>
@@ -603,7 +785,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Plur
           <ul>
@@ -622,7 +804,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Plur
           <ul>
@@ -641,9 +823,28 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="25%" valign="top">
+      <ul>
+        <li>Plur
+          <ul>
+            <li>ADJ: אחרים, אחרות, חדשות, קדומים, כשרים, נקיות, ראשונים, רבים, אמורות, אמצעיים</li>
+            <li>ADJ-Part: באין, להוטים, מחולקין, סמוכים, צריכים</li>
+            <li>AUX: היו, יהיו, עתידין, צריכים, עשויים, צריכין</li>
+            <li>AUX-Part: צריכים, צריכין</li>
+            <li>DET: ה</li>
+            <li>NOUN: בני, ימי, מעות, עדים, ידי, דברי, חכמים, פירות, שמות, דברים</li>
+            <li>NUM: עשרה, ארבעה, מאות, ק"ך, שלשה, שמונה, שמונים, ארבע, חמישים, עשרים</li>
+            <li>PRON: הם, ם, נו, אלו, הן, ן, אנו, כם, תם, אלה</li>
+            <li>PROPN: נוצרים</li>
+            <li>VERB: אומרים, נהגו, ידעו, יודעים, ימכרו, מכניסי, נאבדו, נוהגין, קורין, ראו</li>
+            <li>VERB-Part: אומרים, יודעים, מכניסי, נוהגין, קורין, חותמים, יוצאים, כותבין, מורים, מתפללים</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Plur,Sing
           <ul>
@@ -653,7 +854,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Plur,Sing
           <ul>
@@ -663,7 +864,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Plur,Sing
           <ul>
@@ -673,9 +874,12 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="25%" valign="top">
+
+    </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Sing
           <ul>
@@ -691,7 +895,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Sing
           <ul>
@@ -710,7 +914,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Sing
           <ul>
@@ -730,36 +934,59 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="25%" valign="top">
+      <ul>
+        <li>Sing
+          <ul>
+            <li>ADJ: אחר, מותר, אסור, ברוך, גדול, קדוש, גבוה, זול, חייב, ראשון</li>
+            <li>ADJ-Part: מכוון, ראוי, בטל, דבוק, חייב, חלוקה, מוכן, קרוע, רשאי</li>
+            <li>AUX: היה, צריך, היתה, יכול, יהיה, יהא, יכולה, אמרתי, הייתי, יוכל</li>
+            <li>AUX-Part: צריך, יכול, יכולה</li>
+            <li>DET: ה, אותו, מעט, רוב</li>
+            <li>NOUN: בית, מקום, יום, גט, ראש, זמן, ארץ, בעל, יד, שליח</li>
+            <li>NUM: אחד, ארבע, אחת, עשר, ראשון, מחצה, שני, שש, חד, חמישי</li>
+            <li>PRON: ו, ה, הוא, זה, י, ך, היא, זו, הו, זאת</li>
+            <li>PROPN: ה', ניסן, אברהם, נח, ישראל, שם, אדם, הקב"ה, משה, עמרם</li>
+            <li>VERB: אמר, אומר, אוכל, מגורשת, בא, יצא, נאמר, קורא, נותן, נתנ</li>
+            <li>VERB-Inf: זכור, שמור</li>
+            <li>VERB-Part: אומר, אוכל, מגורשת, קורא, נותן, רוצה, הולך, יוצא, יודע, כופר</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li><a>Case</a></li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li><a>Case</a></li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li><a>Case</a></li>
       </ul>
+    </td>
+    <td width="25%" valign="top">
+
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Acc
           <ul>
-            <li>ADP: את, את_, אתכם, אתו, אתם</li>
+            <li>ADP: את, את_, אתכם, אתם</li>
             <li>PRON: _הוא, _הם, _היא, _הן, _אני, _אתה, _אתם</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Acc
           <ul>
@@ -769,7 +996,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Acc
           <ul>
@@ -779,9 +1006,12 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="25%" valign="top">
+
+    </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Gen
           <ul>
@@ -791,7 +1021,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Gen
           <ul>
@@ -801,7 +1031,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Gen
           <ul>
@@ -811,9 +1041,12 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="25%" valign="top">
+
+    </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Tem
           <ul>
@@ -824,43 +1057,54 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
 
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
 
     </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
-
-    </td>
-    <td width="33%" valign="top">
-
-    </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+
+    </td>
+    <td width="25%" valign="top">
+
+    </td>
+    <td width="25%" valign="top">
+
+    </td>
+    <td width="25%" valign="top">
+
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" valign="top">
       <ul>
         <li><a>Definite</a></li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li><a>Definite</a></li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li><a>Definite</a></li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li><a>Definite</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Cons
           <ul>
@@ -873,7 +1117,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Cons
           <ul>
@@ -886,7 +1130,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Cons
           <ul>
@@ -899,9 +1143,12 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="25%" valign="top">
+
+    </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Def
           <ul>
@@ -912,7 +1159,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Def
           <ul>
@@ -923,7 +1170,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Def
           <ul>
@@ -934,48 +1181,66 @@ udver: '2'
         </li>
       </ul>
     </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>Degree and Polarity</h3>
-    </td>
-    <td width="33%" valign="top">
-      <h3>Degree and Polarity</h3>
-    </td>
-    <td width="33%" valign="top">
-      <h3>Degree and Polarity</h3>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
-
-    </td>
-    <td width="33%" valign="top">
-
-    </td>
-    <td width="33%" valign="top">
-
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
-        <li><a>Polarity</a></li>
-      </ul>
-    </td>
-    <td width="33%" valign="top">
-      <ul>
-        <li><a>Polarity</a></li>
-      </ul>
-    </td>
-    <td width="33%" valign="top">
-      <ul>
-        <li><a>Polarity</a></li>
+        <li>Def
+          <ul>
+            <li>ADP: ב, ל, כ</li>
+          </ul>
+        </li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+      <h3>Degree and Polarity</h3>
+    </td>
+    <td width="25%" valign="top">
+      <h3>Degree and Polarity</h3>
+    </td>
+    <td width="25%" valign="top">
+      <h3>Degree and Polarity</h3>
+    </td>
+    <td width="25%" valign="top">
+      <h3>Degree and Polarity</h3>
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" valign="top">
+
+    </td>
+    <td width="25%" valign="top">
+
+    </td>
+    <td width="25%" valign="top">
+
+    </td>
+    <td width="25%" valign="top">
+
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" valign="top">
+      <ul>
+        <li><a>Polarity</a></li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+      <ul>
+        <li><a>Polarity</a></li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+      <ul>
+        <li><a>Polarity</a></li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" valign="top">
       <ul>
         <li>Neg
           <ul>
@@ -985,7 +1250,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Neg
           <ul>
@@ -997,7 +1262,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Neg
           <ul>
@@ -1009,9 +1274,12 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="25%" valign="top">
+
+    </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Pos
           <ul>
@@ -1024,7 +1292,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Pos
           <ul>
@@ -1035,7 +1303,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Pos
           <ul>
@@ -1048,49 +1316,61 @@ udver: '2'
         </li>
       </ul>
     </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
-
-    </td>
-    <td width="33%" valign="top">
-
-    </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+
+    </td>
+    <td width="25%" valign="top">
+
+    </td>
+    <td width="25%" valign="top">
+
+    </td>
+    <td width="25%" valign="top">
+
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" valign="top">
       <h3>Verbal Features</h3>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <h3>Verbal Features</h3>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+      <h3>Verbal Features</h3>
+    </td>
+    <td width="25%" valign="top">
       <h3>Verbal Features</h3>
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
 
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li><a>Aspect</a></li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li><a>Aspect</a></li>
       </ul>
     </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
 
     </td>
-    <td width="33%" valign="top">
+  </tr>
+  <tr>
+    <td width="25%" valign="top">
+
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li>Prog
           <ul>
@@ -1100,7 +1380,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Prog
           <ul>
@@ -1110,26 +1390,34 @@ udver: '2'
         </li>
       </ul>
     </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
-      <ul>
-        <li><a>Mood</a></li>
-      </ul>
-    </td>
-    <td width="33%" valign="top">
-      <ul>
-        <li><a>Mood</a></li>
-      </ul>
-    </td>
-    <td width="33%" valign="top">
-      <ul>
-        <li><a>Mood</a></li>
-      </ul>
+    <td width="25%" valign="top">
+
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li><a>Mood</a></li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+      <ul>
+        <li><a>Mood</a></li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+      <ul>
+        <li><a>Mood</a></li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+      <ul>
+        <li><a>Mood</a></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" valign="top">
       <ul>
         <li>Imp
           <ul>
@@ -1139,7 +1427,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Imp
           <ul>
@@ -1148,7 +1436,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Imp
           <ul>
@@ -1157,12 +1445,21 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="25%" valign="top">
+      <ul>
+        <li>Imp
+          <ul>
+            <li>VERB: צא, תן, חשוב, חתמו, המיתו, התהלך, חלל, כתבו, עשה, עשו</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
 
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Irr
           <ul>
@@ -1174,29 +1471,37 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+
+    </td>
+    <td width="25%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li><a>Tense</a></li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li><a>Tense</a></li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li><a>Tense</a></li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li><a>Tense</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Fut
           <ul>
@@ -1206,7 +1511,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Fut
           <ul>
@@ -1217,7 +1522,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Fut
           <ul>
@@ -1229,9 +1534,19 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="25%" valign="top">
+      <ul>
+        <li>Fut
+          <ul>
+            <li>AUX: יהיו, יהיה, יהא, יוכל, תהא, תהיה</li>
+            <li>VERB: יכתוב, יקרא, יבא, יביא, יבוא, יחזיר, ימכרו, יעשה, ירצה, יתבאר</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Past
           <ul>
@@ -1241,7 +1556,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Past
           <ul>
@@ -1252,7 +1567,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Past
           <ul>
@@ -1263,12 +1578,22 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="25%" valign="top">
+      <ul>
+        <li>Past
+          <ul>
+            <li>AUX: היה, היו, היתה, אמרתי, הייתי</li>
+            <li>VERB: אמר, נאמר, יצא, בא, נתנ, כתב, נתן, חזר, מכר, נ</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
 
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Pres
           <ul>
@@ -1279,7 +1604,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Pres
           <ul>
@@ -1292,26 +1617,39 @@ udver: '2'
         </li>
       </ul>
     </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
-        <li><a>Voice</a></li>
-      </ul>
-    </td>
-    <td width="33%" valign="top">
-      <ul>
-        <li><a>Voice</a></li>
-      </ul>
-    </td>
-    <td width="33%" valign="top">
-      <ul>
-        <li><a>Voice</a></li>
+        <li>Pres
+          <ul>
+            <li>VERB: אוכל, אין, כותבין, מוטל, בא, גורע, חוצבו, חותך, יודעים, יוצא</li>
+            <li>VERB-Part: אוכל, כותבין, מוטל, בא, גורע, חותך, יודעים, יוצא, יוצאין, כופר</li>
+          </ul>
+        </li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li><a>Voice</a></li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+      <ul>
+        <li><a>Voice</a></li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+      <ul>
+        <li><a>Voice</a></li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" valign="top">
       <ul>
         <li>Act
           <ul>
@@ -1322,7 +1660,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Act
           <ul>
@@ -1333,7 +1671,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Act
           <ul>
@@ -1344,12 +1682,15 @@ udver: '2'
         </li>
       </ul>
     </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
 
     </td>
-    <td width="33%" valign="top">
+  </tr>
+  <tr>
+    <td width="25%" valign="top">
+
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li>Act,Mid
           <ul>
@@ -1358,12 +1699,15 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+
+    </td>
+    <td width="25%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Mid
           <ul>
@@ -1374,7 +1718,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Mid
           <ul>
@@ -1385,7 +1729,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Mid
           <ul>
@@ -1396,12 +1740,15 @@ udver: '2'
         </li>
       </ul>
     </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
 
     </td>
-    <td width="33%" valign="top">
+  </tr>
+  <tr>
+    <td width="25%" valign="top">
+
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li>Mid,Pass
           <ul>
@@ -1410,12 +1757,15 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+
+    </td>
+    <td width="25%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Pass
           <ul>
@@ -1425,7 +1775,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Pass
           <ul>
@@ -1436,7 +1786,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Pass
           <ul>
@@ -1447,48 +1797,60 @@ udver: '2'
         </li>
       </ul>
     </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
-
-    </td>
-    <td width="33%" valign="top">
-
-    </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+
+    </td>
+    <td width="25%" valign="top">
+
+    </td>
+    <td width="25%" valign="top">
+
+    </td>
+    <td width="25%" valign="top">
+
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" valign="top">
       <h3>Pronouns, Determiners, Quantifiers</h3>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <h3>Pronouns, Determiners, Quantifiers</h3>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+      <h3>Pronouns, Determiners, Quantifiers</h3>
+    </td>
+    <td width="25%" valign="top">
       <h3>Pronouns, Determiners, Quantifiers</h3>
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li><a>PronType</a></li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li><a>PronType</a></li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li><a>PronType</a></li>
       </ul>
+    </td>
+    <td width="25%" valign="top">
+
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Art
           <ul>
@@ -1497,7 +1859,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Art
           <ul>
@@ -1507,7 +1869,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Art
           <ul>
@@ -1517,9 +1879,12 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="25%" valign="top">
+
+    </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Dem
           <ul>
@@ -1528,7 +1893,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Dem
           <ul>
@@ -1537,7 +1902,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Dem
           <ul>
@@ -1546,9 +1911,12 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="25%" valign="top">
+
+    </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Emp
           <ul>
@@ -1557,7 +1925,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Emp
           <ul>
@@ -1566,7 +1934,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Emp
           <ul>
@@ -1575,9 +1943,12 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="25%" valign="top">
+
+    </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -1586,7 +1957,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -1596,7 +1967,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -1605,9 +1976,12 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="25%" valign="top">
+
+    </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Int
           <ul>
@@ -1617,18 +1991,18 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Int
           <ul>
-            <li>ADV: איך, למה, האם, איפה, מדוע, מה, כיצד, לאן, היכן, מתי</li>
+            <li>ADV: איך, למה, האם, איפה, מדוע, מה, כיצד, לאן, מתי, היכן</li>
             <li>DET: איזו, אלו, כמה</li>
             <li>PRON: מה, מי, מתי, מהי, מהם, מיהו</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Int
           <ul>
@@ -1638,12 +2012,15 @@ udver: '2'
         </li>
       </ul>
     </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
 
     </td>
-    <td width="33%" valign="top">
+  </tr>
+  <tr>
+    <td width="25%" valign="top">
+
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li>Neg
           <ul>
@@ -1652,7 +2029,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Neg
           <ul>
@@ -1660,10 +2037,13 @@ udver: '2'
           </ul>
         </li>
       </ul>
+    </td>
+    <td width="25%" valign="top">
+
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Prs
           <ul>
@@ -1672,7 +2052,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Prs
           <ul>
@@ -1681,7 +2061,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Prs
           <ul>
@@ -1690,12 +2070,15 @@ udver: '2'
         </li>
       </ul>
     </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
 
     </td>
-    <td width="33%" valign="top">
+  </tr>
+  <tr>
+    <td width="25%" valign="top">
+
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li>Rel
           <ul>
@@ -1706,15 +2089,18 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+
+    </td>
+    <td width="25%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
 
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Tot
           <ul>
@@ -1723,7 +2109,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Tot
           <ul>
@@ -1732,27 +2118,33 @@ udver: '2'
         </li>
       </ul>
     </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
 
     </td>
-    <td width="33%" valign="top">
+  </tr>
+  <tr>
+    <td width="25%" valign="top">
+
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li><a>NumType</a></li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li><a>NumType</a></li>
       </ul>
     </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
 
     </td>
-    <td width="33%" valign="top">
+  </tr>
+  <tr>
+    <td width="25%" valign="top">
+
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li>Card
           <ul>
@@ -1761,7 +2153,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Card
           <ul>
@@ -1770,12 +2162,15 @@ udver: '2'
         </li>
       </ul>
     </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
 
     </td>
-    <td width="33%" valign="top">
+  </tr>
+  <tr>
+    <td width="25%" valign="top">
+
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li>Ord
           <ul>
@@ -1784,7 +2179,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Ord
           <ul>
@@ -1793,27 +2188,33 @@ udver: '2'
         </li>
       </ul>
     </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
 
     </td>
-    <td width="33%" valign="top">
+  </tr>
+  <tr>
+    <td width="25%" valign="top">
+
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li><a>Poss</a></li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li><a>Poss</a></li>
       </ul>
     </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
 
     </td>
-    <td width="33%" valign="top">
+  </tr>
+  <tr>
+    <td width="25%" valign="top">
+
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li>Yes
           <ul>
@@ -1822,7 +2223,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Yes
           <ul>
@@ -1831,26 +2232,34 @@ udver: '2'
         </li>
       </ul>
     </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
-      <ul>
-        <li><a>Reflex</a></li>
-      </ul>
-    </td>
-    <td width="33%" valign="top">
-      <ul>
-        <li><a>Reflex</a></li>
-      </ul>
-    </td>
-    <td width="33%" valign="top">
-      <ul>
-        <li><a>Reflex</a></li>
-      </ul>
+    <td width="25%" valign="top">
+
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li><a>Reflex</a></li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+      <ul>
+        <li><a>Reflex</a></li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+      <ul>
+        <li><a>Reflex</a></li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+      <ul>
+        <li><a>Reflex</a></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" valign="top">
       <ul>
         <li>Yes
           <ul>
@@ -1859,7 +2268,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Yes
           <ul>
@@ -1868,7 +2277,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>Yes
           <ul>
@@ -1877,26 +2286,40 @@ udver: '2'
         </li>
       </ul>
     </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
-        <li><a>Person</a></li>
-      </ul>
-    </td>
-    <td width="33%" valign="top">
-      <ul>
-        <li><a>Person</a></li>
-      </ul>
-    </td>
-    <td width="33%" valign="top">
-      <ul>
-        <li><a>Person</a></li>
+        <li>Yes
+          <ul>
+            <li>PRON: עצמו, עצמה, עצמן</li>
+          </ul>
+        </li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+      <ul>
+        <li><a>Person</a></li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+      <ul>
+        <li><a>Person</a></li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+      <ul>
+        <li><a>Person</a></li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+      <ul>
+        <li><a>Person</a></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" valign="top">
       <ul>
         <li>1
           <ul>
@@ -1909,7 +2332,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>1
           <ul>
@@ -1922,7 +2345,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>1
           <ul>
@@ -1934,9 +2357,20 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="25%" valign="top">
+      <ul>
+        <li>1
+          <ul>
+            <li>AUX: אמרתי, הייתי</li>
+            <li>PRON: י, נו, אני, אנו, ני, אנחנו, אנכי, ו, תיך</li>
+            <li>VERB: נ, ראיתי, אדרוש, אעשה, בינותי, ידעתי, מצינו, שמעתי, אאריך, אבאר</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>1,2,3
           <ul>
@@ -1945,15 +2379,27 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
 
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
 
+    </td>
+    <td width="25%" valign="top">
+      <ul>
+        <li>1,2,3
+          <ul>
+            <li>AUX: צריך, יכול, יכולה, צריכים, צריכין</li>
+            <li>AUX-Part: צריך, יכול, יכולה, צריכים, צריכין</li>
+            <li>VERB: אומר, אומרים, אוכל, קורא, נותן, רוצה, יוצא, מגורשת, הולך, יודע</li>
+            <li>VERB-Part: אומר, אומרים, אוכל, קורא, נותן, רוצה, יוצא, מגורשת, הולך, יודע</li>
+          </ul>
+        </li>
+      </ul>
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>2
           <ul>
@@ -1965,7 +2411,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>2
           <ul>
@@ -1978,7 +2424,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>2
           <ul>
@@ -1990,9 +2436,19 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="25%" valign="top">
+      <ul>
+        <li>2
+          <ul>
+            <li>PRON: ך, אתה, כם, אתם</li>
+            <li>VERB: צא, תן, חשוב, חתמו, נתפללת, אעש, הכניסו, התהלך, חלל, כתבו</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>3
           <ul>
@@ -2005,7 +2461,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>3
           <ul>
@@ -2018,7 +2474,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li>3
           <ul>
@@ -2032,53 +2488,76 @@ udver: '2'
         </li>
       </ul>
     </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
-
-    </td>
-    <td width="33%" valign="top">
-
-    </td>
-    <td width="33%" valign="top">
-
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
-
-    </td>
-    <td width="33%" valign="top">
-
-    </td>
-    <td width="33%" valign="top">
-
+    <td width="25%" valign="top">
+      <ul>
+        <li>3
+          <ul>
+            <li>AUX: היה, היו, יהיו, היתה, יהיה, יהא, יוכל, עתידה, תהא, תהיה</li>
+            <li>PRON: ו, ה, הוא, ם, הם, זה, היא, זו, אלו, הן</li>
+            <li>VERB: אמר, יצא, נאמר, בא, נתנ, יכתוב, יקרא, כתב, נתן, חזר</li>
+          </ul>
+        </li>
+      </ul>
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
 
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
 
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+
+    </td>
+    <td width="25%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+
+    </td>
+    <td width="25%" valign="top">
+
+    </td>
+    <td width="25%" valign="top">
+
+    </td>
+    <td width="25%" valign="top">
+
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" valign="top">
+
+    </td>
+    <td width="25%" valign="top">
+
+    </td>
+    <td width="25%" valign="top">
+
+    </td>
+    <td width="25%" valign="top">
+
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" valign="top">
       <h3>Other Features</h3>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <h3>Other Features</h3>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+      <h3>Other Features</h3>
+    </td>
+    <td width="25%" valign="top">
       <h3>Other Features</h3>
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li><a>Abbr</a>
           <ul>
@@ -2098,7 +2577,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li><a>Abbr</a>
           <ul>
@@ -2114,7 +2593,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li><a>Abbr</a>
           <ul>
@@ -2131,12 +2610,133 @@ udver: '2'
         </li>
       </ul>
     </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
 
     </td>
-    <td width="33%" valign="top">
+  </tr>
+  <tr>
+    <td width="25%" valign="top">
+
+    </td>
+    <td width="25%" valign="top">
+      <ul>
+        <li><a>ExtPos</a>
+          <ul>
+            <li>ADP
+              <ul>
+                <li>ADJ: נכון</li>
+                <li>ADP: על, ב, מעבר, תוך, עד, מחוץ, אחר, בניגוד, מ, קודם</li>
+                <li>ADV: יחד, אף, מסביב, ביחד, פחות</li>
+              </ul>
+            </li>
+            <li>ADV
+              <ul>
+                <li>ADV: יותר, קודם, ב, למעלה, סוף, אט, עוד, פחות, אף, בוודאי</li>
+                <li>DET: כל</li>
+                <li>NOUN: דרך</li>
+              </ul>
+            </li>
+            <li>CCONJ
+              <ul>
+                <li>CCONJ: ו</li>
+              </ul>
+            </li>
+            <li>DET
+              <ul>
+                <li>PRON: איזה</li>
+              </ul>
+            </li>
+            <li>SCONJ
+              <ul>
+                <li>ADP: כדי, עד, בגלל, כמו, למרות, אחרי, לפני, על, בזמן, בעוד</li>
+                <li>ADV: כך, בייחוד, מה, היכן</li>
+                <li>CCONJ: אף</li>
+                <li>DET: כל, כמה</li>
+                <li>PRON: מה</li>
+                <li>SCONJ: כפי, משום, ככל, מכיוון, היות, אם, כיוון, מאחר, בהינתן, בזמן</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+      <ul>
+        <li><a>ExtPos</a>
+          <ul>
+            <li>ADP
+              <ul>
+                <li>ADJ: נכון, סמוך</li>
+                <li>ADP: על, ב, מ, עד, מתחת, אל, ל, בניגוד, החל, תוך</li>
+                <li>ADV: יחד, במקביל, נכון, ב, יותר, יחסית, פחות</li>
+                <li>NOUN: מעבר</li>
+                <li>SCONJ: אשר, כש, מכיוון</li>
+                <li>VERB-Inf: להבדיל, בהתחשב</li>
+                <li>VERB-Part: כולל</li>
+              </ul>
+            </li>
+            <li>ADV
+              <ul>
+                <li>ADJ: נוסף, יתרה, קל, קרוב</li>
+                <li>ADP: ב, ל, כמו, לאחר, על, מ, עד, קרוב, אחר, בין</li>
+                <li>ADV: קודם, יותר, מאוחר, ב, עד, פחות, למעלה, על, אי, כ</li>
+                <li>DET: כל</li>
+                <li>NOUN: בד, סך</li>
+                <li>SCONJ: ככל, אי, אם</li>
+                <li>X: דה</li>
+              </ul>
+            </li>
+            <li>CCONJ
+              <ul>
+                <li>ADP: כמו</li>
+                <li>CCONJ: ו</li>
+              </ul>
+            </li>
+            <li>SCONJ
+              <ul>
+                <li>ADP: על, עד, לאחר, ב, אחרי, בעוד, לפני, מ, תוך, כדי</li>
+                <li>ADV: כך, אף, מאז</li>
+                <li>CCONJ: אף, אלא, קרי</li>
+                <li>PRON: מה</li>
+                <li>SCONJ: כפי, כיוון, אם, ככל, מאחר, משום, מכיוון, אף, בעוד, היות</li>
+                <li>VERB: היה</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+      <ul>
+        <li><a>ExtPos</a>
+          <ul>
+            <li>ADP
+              <ul>
+                <li>ADJ: סמוך</li>
+              </ul>
+            </li>
+            <li>ADV
+              <ul>
+                <li>ADP: אחר, על</li>
+                <li>DET: כל</li>
+                <li>NOUN: פנים, שתי</li>
+              </ul>
+            </li>
+            <li>SCONJ
+              <ul>
+                <li>DET: כל</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" valign="top">
+
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li><a>Foreign</a>
           <ul>
@@ -2149,7 +2749,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li><a>Foreign</a>
           <ul>
@@ -2162,9 +2762,12 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="25%" valign="top">
+
+    </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li><a>HebBinyan</a>
           <ul>
@@ -2219,7 +2822,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li><a>HebBinyan</a>
           <ul>
@@ -2294,7 +2897,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li><a>HebBinyan</a>
           <ul>
@@ -2359,9 +2962,12 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="25%" valign="top">
+
+    </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li><a>HebExistential</a>
           <ul>
@@ -2374,15 +2980,18 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
 
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+
+    </td>
+    <td width="25%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li><a>Prefix</a>
           <ul>
@@ -2395,7 +3004,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li><a>Prefix</a>
           <ul>
@@ -2408,7 +3017,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li><a>Prefix</a>
           <ul>
@@ -2422,53 +3031,52 @@ udver: '2'
         </li>
       </ul>
     </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
 
     </td>
-    <td width="33%" valign="top">
+  </tr>
+  <tr>
+    <td width="25%" valign="top">
+
+    </td>
+    <td width="25%" valign="top">
       <ul>
         <li><a>Typo</a>
           <ul>
             <li>Yes
               <ul>
                 <li>ADJ: פרד</li>
-                <li>ADP: בפנ, הם, כמן, לידי, ה</li>
-                <li>ADV: הינה, מדיי</li>
+                <li>ADP: הם, כמן</li>
+                <li>ADV: מדיי</li>
                 <li>DET: איזושהי, אלו</li>
-                <li>NOUN: אימא, ועדת, חבר, יד, כפ, כשרויות, עינ, שמים, תופעות</li>
-                <li>PRON: ה</li>
-                <li>PROPN: ד', מפשטים</li>
+                <li>NOUN: אימא, ועדת, כשרויות, תופעות</li>
+                <li>PROPN: ד'</li>
                 <li>SCONJ: כשאשר, מאיו</li>
-                <li>VERB: ייצאו, היתה, הרמת, לתבוע, מחייב, מציע, נהייה, נקבע, נקראה</li>
+                <li>VERB: ייצאו, היתה, לתבוע, מציע, נקראה</li>
                 <li>VERB-Inf: לתבוע</li>
-                <li>VERB-Part: מחייב, מציע, נהייה</li>
+                <li>VERB-Part: מציע</li>
               </ul>
             </li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li><a>Typo</a>
           <ul>
             <li>Yes
               <ul>
-                <li>ADJ: אורינטליסטית, אמריקני, מונומטאלי, מזרחית, מינהלית, מקומית, עולמי, קשה, ששית</li>
-                <li>ADP: אחר, לפני, עמ</li>
-                <li>ADV: מיד, מינהלית, מספיקות</li>
+                <li>ADJ: מונומטאלי, מקומית, עולמי, קשה</li>
+                <li>ADP: לפני, אחר</li>
+                <li>ADV: מינהלית, מספיקות</li>
                 <li>AUX: הייתה, היה, אמור</li>
                 <li>CCONJ: אלה</li>
-                <li>DET: ב</li>
-                <li>NOUN: כל, לדה, מסים, מעין, נייטרון, נייטרליות, צד, אב, אמר, דוחו"ת</li>
-                <li>NUM: ארבע</li>
-                <li>PRON: הם, זה, אותם, ה, ו, ם, ן</li>
-                <li>PROPN: דפטריה, קרית</li>
+                <li>NOUN: נייטרון, נייטרליות, אב, דוחו"ת, המקמת, וועידה, יד, יוצרים, ישוב, כללי</li>
+                <li>PRON: זה</li>
                 <li>PUNCT: '</li>
-                <li>VERB: איפשר, איפשרה, איפשרו, אירע, בוצע, הגיע, הובהר, הופרדה, היקנו, יאלצו</li>
-                <li>VERB-Part: מעידה, מקנה, נתמך</li>
+                <li>VERB: איפשר, איפשרה, איפשרו, אירע, הובהר, הופרדה, יהנה, מעידה, ניכנס, נכלל</li>
+                <li>VERB-Part: מעידה, נתמך</li>
                 <li>X: א</li>
               </ul>
             </li>
@@ -2476,9 +3084,12 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="25%" valign="top">
+
+    </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li><a>VerbType</a>
           <ul>
@@ -2493,7 +3104,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li><a>VerbType</a>
           <ul>
@@ -2510,7 +3121,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li><a>VerbType</a>
           <ul>
@@ -2532,9 +3143,12 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="25%" valign="top">
+
+    </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <h2>Syntax</h2>
       
       <h3>Auxiliary Verbs and Copula</h3>
@@ -2543,7 +3157,7 @@ udver: '2'
       <li>This corpus uses 6 lemmas as copulas (<a>cop</a>). Examples: היה, הוא, אינו, _, זה, הינו.</li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <h2>Syntax</h2>
       
       <h3>Auxiliary Verbs and Copula</h3>
@@ -2552,7 +3166,7 @@ udver: '2'
       <li>This corpus uses 5 lemmas as copulas (<a>cop</a>). Examples: היה, הוא, זה, אינו, איננו.</li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <h2>Syntax</h2>
       
       <h3>Auxiliary Verbs and Copula</h3>
@@ -2561,26 +3175,40 @@ udver: '2'
       <li>This corpus uses 4 lemmas as copulas (<a>cop</a>). Examples: היה, הוא, אינו, זה.</li>
       </ul>
     </td>
+    <td width="25%" valign="top">
+      <h2>Syntax</h2>
+      
+      <h3>Auxiliary Verbs and Copula</h3>
+      
+      <ul>
+      <li>This corpus uses 2 lemmas as copulas (<a>cop</a>). Examples: היה, הוא.</li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
       <li>This corpus does not contain auxiliaries.</li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
       <li>This corpus uses 14 lemmas as auxiliaries (<a>aux</a>). Examples: יכל, צריך, היה, חייב, אינו, אמור, מוכן, מוכרח, עלול, מסוגל, איננו, עתיד, זכאי, עשוי.</li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
       <li>This corpus uses 16 lemmas as auxiliaries (<a>aux</a>). Examples: אינו, יכל, היה, עלול, צריך, עשוי, אמור, רשאי, מסוגל, מוכן, צפוי, חייב, זכאי, מוכרח, מועד, עתיד.</li>
       </ul>
     </td>
+    <td width="25%" valign="top">
+      <ul>
+      <li>This corpus uses 5 lemmas as auxiliaries (<a>aux</a>). Examples: היה, יכל, עתיד, אמר, עשוי.</li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
       
       Here we consider only relations between verbs (parent) and nouns or pronouns (child).
@@ -2603,7 +3231,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
       
       Here we consider only relations between verbs (parent) and nouns or pronouns (child).
@@ -2616,7 +3244,6 @@ udver: '2'
             <li>VERB--NOUN-ADP(מעל) (1)</li>
             <li>VERB--PRON (397)</li>
             <li>VERB--PRON-ADP(כ) (2)</li>
-            <li>VERB--PRON-ADP(מתוך) (1)</li>
             <li>VERB-Inf--NOUN (89)</li>
             <li>VERB-Inf--PRON (144)</li>
             <li>VERB-Part--NOUN (366)</li>
@@ -2626,64 +3253,82 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
       
       Here we consider only relations between verbs (parent) and nouns or pronouns (child).
       <ul>
         <li><a>nsubj</a>
           <ul>
-            <li>VERB--NOUN (2264)</li>
+            <li>VERB--NOUN (2267)</li>
             <li>VERB--NOUN-ADP(את) (3)</li>
             <li>VERB--NOUN-ADP(מ) (1)</li>
             <li>VERB--NOUN-ADP(משום) (1)</li>
             <li>VERB--PRON (217)</li>
             <li>VERB-Inf--NOUN (115)</li>
             <li>VERB-Inf--PRON (19)</li>
-            <li>VERB-Part--NOUN (820)</li>
+            <li>VERB-Part--NOUN (821)</li>
             <li>VERB-Part--PRON (159)</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+      <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
+      
+      Here we consider only relations between verbs (parent) and nouns or pronouns (child).
+      <ul>
+        <li><a>nsubj</a>
+          <ul>
+            <li>VERB--NOUN (114)</li>
+            <li>VERB--NOUN-ADP(אחר) (1)</li>
+            <li>VERB--PRON (30)</li>
+            <li>VERB-Inf--NOUN (6)</li>
+            <li>VERB-Inf--NOUN-ADP(ב) (1)</li>
+            <li>VERB-Inf--PRON (2)</li>
+            <li>VERB-Part--NOUN (62)</li>
+            <li>VERB-Part--PRON (52)</li>
           </ul>
         </li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li><a>obj</a>
           <ul>
-            <li>VERB--NOUN (1391)</li>
+            <li>VERB--NOUN (1387)</li>
             <li>VERB--NOUN-ADP(ב) (1)</li>
             <li>VERB--NOUN-ADP(כ) (9)</li>
             <li>VERB--NOUN-ADP(מ) (6)</li>
-            <li>VERB--PRON (162)</li>
+            <li>VERB--PRON (161)</li>
             <li>VERB--PRON-Acc-ADP(את) (8)</li>
             <li>VERB-Inf--NOUN (1007)</li>
             <li>VERB-Inf--NOUN-ADP(כ) (1)</li>
-            <li>VERB-Inf--PRON (91)</li>
+            <li>VERB-Inf--PRON (90)</li>
             <li>VERB-Inf--PRON-Acc-ADP(את) (38)</li>
-            <li>VERB-Part--NOUN (755)</li>
+            <li>VERB-Part--NOUN (753)</li>
             <li>VERB-Part--NOUN-ADP(כ) (2)</li>
-            <li>VERB-Part--PRON (97)</li>
+            <li>VERB-Part--PRON (96)</li>
             <li>VERB-Part--PRON-Acc-ADP(את) (2)</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li><a>obj</a>
           <ul>
             <li>VERB--NOUN (248)</li>
-            <li>VERB--NOUN-ADP(את) (237)</li>
+            <li>VERB--NOUN-ADP(את) (236)</li>
             <li>VERB--PRON (23)</li>
-            <li>VERB--PRON-ADP(את) (116)</li>
+            <li>VERB--PRON-ADP(את) (114)</li>
             <li>VERB--PRON-Acc (3)</li>
-            <li>VERB--PRON-Acc-ADP(את) (1)</li>
             <li>VERB-Inf--NOUN (306)</li>
-            <li>VERB-Inf--NOUN-ADP(את) (277)</li>
+            <li>VERB-Inf--NOUN-ADP(את) (274)</li>
             <li>VERB-Inf--PRON (20)</li>
-            <li>VERB-Inf--PRON-ADP(את) (145)</li>
+            <li>VERB-Inf--PRON-ADP(את) (143)</li>
             <li>VERB-Inf--PRON-Acc (6)</li>
             <li>VERB-Part--NOUN (198)</li>
             <li>VERB-Part--NOUN-ADP(את) (201)</li>
@@ -2695,30 +3340,28 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li><a>obj</a>
           <ul>
-            <li>VERB--NOUN (758)</li>
+            <li>VERB--NOUN (755)</li>
             <li>VERB--NOUN-ADP(אֶת) (1)</li>
             <li>VERB--NOUN-ADP(את) (571)</li>
             <li>VERB--NOUN-ADP(ב) (1)</li>
             <li>VERB--NOUN-ADP(יותר) (1)</li>
-            <li>VERB--NOUN-ADP(כמו)-ADP(את) (1)</li>
-            <li>VERB--NOUN-ADP(ל) (1)</li>
             <li>VERB--NOUN-ADP(מ) (2)</li>
             <li>VERB--PRON (13)</li>
             <li>VERB--PRON-ADP(את) (70)</li>
             <li>VERB--PRON-Acc (7)</li>
             <li>VERB--PRON-Acc-ADP(יד) (1)</li>
             <li>VERB--PRON-Gen-ADP(את) (2)</li>
-            <li>VERB-Inf--NOUN (354)</li>
-            <li>VERB-Inf--NOUN-ADP(את) (349)</li>
+            <li>VERB-Inf--NOUN (353)</li>
+            <li>VERB-Inf--NOUN-ADP(את) (348)</li>
             <li>VERB-Inf--NOUN-ADP(את)-ADP(כ) (1)</li>
             <li>VERB-Inf--PRON (21)</li>
             <li>VERB-Inf--PRON-ADP(את) (31)</li>
             <li>VERB-Inf--PRON-Acc (29)</li>
-            <li>VERB-Part--NOUN (304)</li>
+            <li>VERB-Part--NOUN (303)</li>
             <li>VERB-Part--NOUN-ADP(את) (238)</li>
             <li>VERB-Part--NOUN-ADP(ל) (1)</li>
             <li>VERB-Part--NOUN-ADP(מ) (1)</li>
@@ -2728,26 +3371,56 @@ udver: '2'
         </li>
       </ul>
     </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
-        <li><a>iobj</a>
+        <li><a>obj</a>
           <ul>
+            <li>VERB--NOUN (115)</li>
+            <li>VERB--NOUN-ADP(אלא) (1)</li>
+            <li>VERB--NOUN-ADP(את) (4)</li>
+            <li>VERB--NOUN-ADP(ב) (2)</li>
+            <li>VERB--PRON (67)</li>
+            <li>VERB--PRON-ADP(את) (4)</li>
+            <li>VERB--PRON-ADP(את)-ADP(של) (1)</li>
+            <li>VERB-Inf--NOUN (52)</li>
+            <li>VERB-Inf--PRON (20)</li>
+            <li>VERB-Inf--PRON-ADP(על) (1)</li>
+            <li>VERB-Part--NOUN (53)</li>
+            <li>VERB-Part--NOUN-ADP(את) (2)</li>
+            <li>VERB-Part--NOUN-ADP(ל) (1)</li>
+            <li>VERB-Part--PRON (9)</li>
+            <li>VERB-Part--PRON-ADP(את) (12)</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+  </tr>
+  <tr>
+    <td width="25%" valign="top">
       <ul>
         <li><a>iobj</a>
           <ul>
+            <li>VERB--PRON (1)</li>
+            <li>VERB-Part--NOUN (2)</li>
+            <li>VERB-Part--PRON (1)</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+      <ul>
+        <li><a>iobj</a>
+          <ul>
+            <li>VERB--PRON-ADP(את) (2)</li>
+            <li>VERB--PRON-Acc-ADP(את) (1)</li>
+            <li>VERB-Inf--NOUN-ADP(את) (1)</li>
+            <li>VERB-Inf--PRON-ADP(את) (2)</li>
             <li>VERB-Inf--PRON-Acc (1)</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <ul>
         <li><a>iobj</a>
           <ul>
@@ -2755,38 +3428,53 @@ udver: '2'
         </li>
       </ul>
     </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
-
-    </td>
-    <td width="33%" valign="top">
-
-    </td>
-    <td width="33%" valign="top">
-
+    <td width="25%" valign="top">
+      <ul>
+        <li><a>iobj</a>
+          <ul>
+            <li>VERB--PRON (1)</li>
+          </ul>
+        </li>
+      </ul>
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
 
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
 
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+
+    </td>
+    <td width="25%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+
+    </td>
+    <td width="25%" valign="top">
+
+    </td>
+    <td width="25%" valign="top">
+
+    </td>
+    <td width="25%" valign="top">
+
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" valign="top">
       <h3>Verbs with Reflexive Core Objects</h3>
       
       <ul>
         <li>This corpus contains 29 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: מצא עצמו, הצדיק עצמה, העמיד עצמו, מצא עצמה, ראה עצמה, ראה עצמו, הביא עצמו, הגדיר עצמו, הגדיר עצמי, הוליך עצמם, הלעיט עצמן, הסגיר עצמנו, העלה עצמם, העמיד עצמה, הקריב עצמם, השים עצמם, השלה עצמו, זיהה עצמה, חיפש עצמו, חש עצמו, חשף עצמם, ייסר עצמו, כינה עצמם, כפה עצמם, עטף עצמם, ראה עצמנו, שאל עצמה, שאל עצמם, תיאר עצמו</li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <h3>Verbs with Reflexive Core Objects</h3>
       
       <ul>
@@ -2796,25 +3484,32 @@ udver: '2'
           </ul>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <h3>Verbs with Reflexive Core Objects</h3>
       
       <ul>
         <li>This corpus contains 11 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: העמיד עצמו, הציג עצמו, הקריב עצמה, הקריב עצמו, חש עצמם, טמן עצמו, כיבד עצמה, מצא עצמו, מצא עצמם, שכפל עצמה, תפש עצמו</li>
       </ul>
     </td>
+    <td width="25%" valign="top">
+      <h3>Verbs with Reflexive Core Objects</h3>
+      
+      <ul>
+        <li>This corpus contains 3 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: הכין עצמן, הראה עצמה, סמך עצמו</li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <h3>Relations Overview</h3>
       
       <ul>
       <li>This corpus uses 10 relation subtypes: <a>acl:relcl</a>, <a>case:acc</a>, <a>case:gen</a>, <a>compound:affix</a>, <a>compound:smixut</a>, <a>flat:name</a>, <a>mark:q</a>, <a>nmod:poss</a>, <a>nsubj:cop</a>, <a>nsubj:outer</a></li>
       <li>The following 1 main types are not used alone, they are always subtyped: <a>compound</a></li>
-      <li>The following 9 relation types are not used in this corpus at all: <a>iobj</a>, <a>vocative</a>, <a>expl</a>, <a>aux</a>, <a>clf</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
+      <li>The following 8 relation types are not used in this corpus at all: <a>vocative</a>, <a>expl</a>, <a>aux</a>, <a>clf</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <h3>Relations Overview</h3>
       
       <ul>
@@ -2822,12 +3517,21 @@ udver: '2'
       <li>The following 2 relation types are not used in this corpus at all: <a>clf</a>, <a>goeswith</a></li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <h3>Relations Overview</h3>
       
       <ul>
       <li>This corpus uses 9 relation subtypes: <a>acl:relcl</a>, <a>compound:affix</a>, <a>csubj:outer</a>, <a>csubj:pass</a>, <a>nmod:poss</a>, <a>nmod:unmarked</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a>, <a>obl:unmarked</a></li>
       <li>The following 2 relation types are not used in this corpus at all: <a>iobj</a>, <a>clf</a></li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+      <h3>Relations Overview</h3>
+      
+      <ul>
+      <li>This corpus uses 13 relation subtypes: <a>acl:relcl</a>, <a>case:acc</a>, <a>case:gen</a>, <a>compound:redup</a>, <a>compound:smixut</a>, <a>compound:svc</a>, <a>nmod:poss</a>, <a>nmod:tmod</a>, <a>nmod:unmarked</a>, <a>nsubj:cop</a>, <a>nsubj:outer</a>, <a>obl:tmod</a>, <a>obl:unmarked</a></li>
+      <li>The following 1 main types are not used alone, they are always subtyped: <a>compound</a></li>
+      <li>The following 7 relation types are not used in this corpus at all: <a>vocative</a>, <a>expl</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a>, <a>punct</a></li>
       </ul>
     </td>
   </tr>

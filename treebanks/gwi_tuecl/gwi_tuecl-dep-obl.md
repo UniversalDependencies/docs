@@ -11,9 +11,9 @@ This relation is universal.
 41 nodes (4%) are attached to their parents as `obl`.
 
 41 instances of `obl` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.63414634146341.
+Average distance between parent and child is 2.65853658536585.
 
-The following 6 pairs of parts of speech are connected with `obl`: <tt><a href="gwi_tuecl-pos-VERB.html">VERB</a></tt>-<tt><a href="gwi_tuecl-pos-NOUN.html">NOUN</a></tt> (22; 54% instances), <tt><a href="gwi_tuecl-pos-VERB.html">VERB</a></tt>-<tt><a href="gwi_tuecl-pos-ADP.html">ADP</a></tt> (8; 20% instances), <tt><a href="gwi_tuecl-pos-VERB.html">VERB</a></tt>-<tt><a href="gwi_tuecl-pos-PROPN.html">PROPN</a></tt> (7; 17% instances), <tt><a href="gwi_tuecl-pos-VERB.html">VERB</a></tt>-<tt><a href="gwi_tuecl-pos-ADV.html">ADV</a></tt> (2; 5% instances), <tt><a href="gwi_tuecl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gwi_tuecl-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="gwi_tuecl-pos-VERB.html">VERB</a></tt>-<tt><a href="gwi_tuecl-pos-PRON.html">PRON</a></tt> (1; 2% instances).
+The following 5 pairs of parts of speech are connected with `obl`: <tt><a href="gwi_tuecl-pos-VERB.html">VERB</a></tt>-<tt><a href="gwi_tuecl-pos-NOUN.html">NOUN</a></tt> (23; 56% instances), <tt><a href="gwi_tuecl-pos-VERB.html">VERB</a></tt>-<tt><a href="gwi_tuecl-pos-ADP.html">ADP</a></tt> (8; 20% instances), <tt><a href="gwi_tuecl-pos-VERB.html">VERB</a></tt>-<tt><a href="gwi_tuecl-pos-PROPN.html">PROPN</a></tt> (7; 17% instances), <tt><a href="gwi_tuecl-pos-VERB.html">VERB</a></tt>-<tt><a href="gwi_tuecl-pos-ADV.html">ADV</a></tt> (2; 5% instances), <tt><a href="gwi_tuecl-pos-VERB.html">VERB</a></tt>-<tt><a href="gwi_tuecl-pos-PRON.html">PRON</a></tt> (1; 2% instances).
 
 
 ~~~ conllu

@@ -41,7 +41,7 @@ The following 2 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 # visual-style 9	fgColor:white
 # visual-style 9 8 aux:pass	color:blue
 1	Les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	2	det	_	_
-2	stocks	stock	NOUN	S	Gender=Fem|Number=Plur	9	nsubj:pass	_	_
+2	stocks	stock	NOUN	S	Gender=Masc|Number=Plur	9	nsubj:pass	_	_
 3	visés	viser	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	2	acl	_	_
 4	à	à	ADP	E	_	6	case	_	_
 5	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
@@ -57,7 +57,7 @@ The following 2 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 15	report	report	NOUN	S	Gender=Masc|Number=Sing	13	obj	_	_
 16	normal	normal	ADJ	A	Gender=Masc|Number=Sing	15	amod	_	_
 17	de	de	ADP	E	_	18	case	_	_
-18	stocks	stock	NOUN	S	Gender=Masc|Number=Plur	15	obl	_	SpaceAfter=No
+18	stocks	stock	NOUN	S	Gender=Masc|Number=Plur	15	nmod	_	SpaceAfter=No
 19	.	.	PUNCT	FS	_	9	punct	_	_
 
 ~~~

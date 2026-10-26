@@ -40,7 +40,7 @@ Examples: <em>tu</em>
 
 ## Relations
 
-`PRON` nodes are attached to their parents using 3 different relations: <tt><a href="lv_cairo-dep-nsubj.html">nsubj</a></tt> (11; 65% instances), <tt><a href="lv_cairo-dep-obl.html">obl</a></tt> (5; 29% instances), <tt><a href="lv_cairo-dep-nmod.html">nmod</a></tt> (1; 6% instances)
+`PRON` nodes are attached to their parents using 3 different relations: <tt><a href="lv_cairo-dep-nsubj.html">nsubj</a></tt> (12; 71% instances), <tt><a href="lv_cairo-dep-obl.html">obl</a></tt> (4; 24% instances), <tt><a href="lv_cairo-dep-nmod.html">nmod</a></tt> (1; 6% instances)
 
 Parents of `PRON` nodes belong to 2 different parts of speech: <tt><a href="lv_cairo-pos-VERB.html">VERB</a></tt> (16; 94% instances), <tt><a href="lv_cairo-pos-NOUN.html">NOUN</a></tt> (1; 6% instances)
 

@@ -23,5 +23,5 @@ The most frequent other feature values with which `PART` and `Polarity` co-occur
 `PART` tokens may have the following values of `Polarity`:
 
 * `Neg` (8; 100% of non-empty `Polarity`): ना, नइखे
-* `EMPTY` (184): त, ना, नइखे, बहुते, भर, बस, अतना, खाली, गमगमावे, घटना
+* `EMPTY` (183): त, ना, नइखे, बहुते, भर, बस, अतना, खाली, गमगमावे, घटना
 

@@ -22,14 +22,14 @@ The following 23 pairs of parts of speech are connected with `advcl:cmp`: <tt><a
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 8 advcl:cmp	color:blue
-1	bidjandans	bidjan	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Strength=Weak|Tense=Pres|VerbForm=Part|Voice=Act	5	advcl	_	ref=MATT_6.7
-2	uþ	-uh	CCONJ	C-	_	5	cc	_	ref=MATT_6.7
-3	þan	þan	ADV	Df	_	5	discourse	_	ref=MATT_6.7
-4	ni	ni	ADV	Df	Polarity=Neg	5	advmod	_	ref=MATT_6.7
-5	filuwaurdjaiþ	filu-waurdjan	VERB	V-	Mood=Opt|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_6.7
-6	swaswe	swaswe	ADV	Df	_	8	mark	_	ref=MATT_6.7
-7	þai	sa	DET	Pd	Case=Nom|Gender=Masc|Number=Plur	8	det	_	ref=MATT_6.7
-8	þiudo	þiuda	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	5	advcl:cmp	_	ref=MATT_6.7
+1	bidjandans	bidjan	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Strength=Weak|Tense=Pres|VerbForm=Part|Voice=Act	5	advcl	_	Ref=MATT_6.7
+2	uþ	-uh	CCONJ	C-	_	5	cc	_	Ref=MATT_6.7
+3	þan	þan	ADV	Df	_	5	discourse	_	Ref=MATT_6.7
+4	ni	ni	ADV	Df	Polarity=Neg	5	advmod	_	Ref=MATT_6.7
+5	filuwaurdjaiþ	filu-waurdjan	VERB	V-	Mood=Opt|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_6.7
+6	swaswe	swaswe	ADV	Df	_	8	mark	_	Ref=MATT_6.7
+7	þai	sa	DET	Pd	Case=Nom|Gender=Masc|Number=Plur	8	det	_	Ref=MATT_6.7
+8	þiudo	þiuda	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	5	advcl:cmp	_	Ref=MATT_6.7
 
 ~~~
 
@@ -40,14 +40,14 @@ The following 23 pairs of parts of speech are connected with `advcl:cmp`: <tt><a
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 8 advcl:cmp	color:blue
-1	jah	jah	CCONJ	C-	_	5	cc	_	ref=MATT_6.5
-2	þan	þan	SCONJ	G-	_	3	mark	_	ref=MATT_6.5
-3	bidjaiþ	bidjan	VERB	V-	Mood=Opt|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	5	advcl	_	ref=MATT_6.5
-4	ni	ni	ADV	Df	Polarity=Neg	5	advmod	_	ref=MATT_6.5
-5	sijaiþ	wisan	VERB	V-	Mood=Opt|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_6.5|LId=1
-6	swaswe	swaswe	ADV	Df	_	8	mark	_	ref=MATT_6.5
-7	þai	sa	DET	Pd	Case=Nom|Gender=Masc|Number=Plur	8	det	_	ref=MATT_6.5
-8	liutans	liuts	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	5	advcl:cmp	_	ref=MATT_6.5
+1	jah	jah	CCONJ	C-	_	5	cc	_	Ref=MATT_6.5
+2	þan	þan	SCONJ	G-	_	3	mark	_	Ref=MATT_6.5
+3	bidjaiþ	bidjan	VERB	V-	Mood=Opt|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	5	advcl	_	Ref=MATT_6.5
+4	ni	ni	ADV	Df	Polarity=Neg	5	advmod	_	Ref=MATT_6.5
+5	sijaiþ	wisan	VERB	V-	Mood=Opt|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LId=1|Ref=MATT_6.5
+6	swaswe	swaswe	ADV	Df	_	8	mark	_	Ref=MATT_6.5
+7	þai	sa	DET	Pd	Case=Nom|Gender=Masc|Number=Plur	8	det	_	Ref=MATT_6.5
+8	liutans	liuts	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	5	advcl:cmp	_	Ref=MATT_6.5
 
 ~~~
 
@@ -58,16 +58,16 @@ The following 23 pairs of parts of speech are connected with `advcl:cmp`: <tt><a
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 10 advcl:cmp	color:blue
-1	jabai	jabai	SCONJ	G-	_	4	mark	_	ref=PHILEM_1.17
-2	nu	nu	ADV	Df	_	7	discourse	_	ref=PHILEM_1.17
-3	mik	ik	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=1|PronType=Prs	4	obj	_	ref=PHILEM_1.17
-4	habais	haban	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	7	advcl	_	ref=PHILEM_1.17
-5	du	du	ADP	R-	_	6	case	_	ref=PHILEM_1.17
-6	gamana	gaman	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	4	xcomp	_	ref=PHILEM_1.17
-7	andnim	and-niman	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=PHILEM_1.17
-8	þana	sa	PRON	Pd	Case=Acc|Gender=Masc|Number=Sing	7	obj	_	ref=PHILEM_1.17
-9	swe	swe	ADV	Df	_	10	mark	_	ref=PHILEM_1.17
-10	mik	ik	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=1|PronType=Prs	7	advcl:cmp	_	ref=PHILEM_1.17
+1	jabai	jabai	SCONJ	G-	_	4	mark	_	Ref=PHILEM_1.17
+2	nu	nu	ADV	Df	_	7	discourse	_	Ref=PHILEM_1.17
+3	mik	ik	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=1|PronType=Prs	4	obj	_	Ref=PHILEM_1.17
+4	habais	haban	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	7	advcl	_	Ref=PHILEM_1.17
+5	du	du	ADP	R-	_	6	case	_	Ref=PHILEM_1.17
+6	gamana	gaman	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	4	xcomp	_	Ref=PHILEM_1.17
+7	andnim	and-niman	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=PHILEM_1.17
+8	þana	sa	PRON	Pd	Case=Acc|Gender=Masc|Number=Sing	7	obj	_	Ref=PHILEM_1.17
+9	swe	swe	ADV	Df	_	10	mark	_	Ref=PHILEM_1.17
+10	mik	ik	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=1|PronType=Prs	7	advcl:cmp	_	Ref=PHILEM_1.17
 
 ~~~
 

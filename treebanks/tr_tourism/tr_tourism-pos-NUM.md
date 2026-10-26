@@ -6,76 +6,76 @@ udver: '2'
 
 ## Treebank Statistics: UD_Turkish-Tourism: POS Tags: `NUM`
 
-There are 56 `NUM` lemmas (2%), 67 `NUM` types (1%) and 784 `NUM` tokens (1%).
-Out of 15 observed tags, the rank of `NUM` is: 6 in number of lemmas, 7 in number of types and 12 in number of tokens.
+There are 57 `NUM` lemmas (2%), 77 `NUM` types (1%) and 802 `NUM` tokens (1%).
+Out of 15 observed tags, the rank of `NUM` is: 6 in number of lemmas, 6 in number of types and 12 in number of tokens.
 
-The 10 most frequent `NUM` lemmas: <em>5, 10, 3, 6, 1, 4, 100, 2, bir, beş</em>
+The 10 most frequent `NUM` lemmas: <em>5, 10, 3, 6, 1, 4, 100, 2, beş, bir</em>
 
-The 10 most frequent `NUM` types:  <em>5, 10, 3, 6, 1, 100, BİR, BEŞ, 2, 4</em>
+The 10 most frequent `NUM` types:  <em>5, 10, 3, 6, 1, 100, bir, beş, 2, 4</em>
 
-The 10 most frequent ambiguous lemmas: <em>5</em> (<tt><a href="tr_tourism-pos-NUM.html">NUM</a></tt> 200, <tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt> 2), <em>bir</em> (<tt><a href="tr_tourism-pos-DET.html">DET</a></tt> 1904, <tt><a href="tr_tourism-pos-NUM.html">NUM</a></tt> 22, <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt> 11, <tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> 3, <tt><a href="tr_tourism-pos-VERB.html">VERB</a></tt> 1), <em>beş</em> (<tt><a href="tr_tourism-pos-NUM.html">NUM</a></tt> 21, <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt> 2), <em>on</em> (<tt><a href="tr_tourism-pos-NUM.html">NUM</a></tt> 16, <tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt> 1), <em>7</em> (<tt><a href="tr_tourism-pos-NUM.html">NUM</a></tt> 11, <tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt> 1), <em>dörtlük</em> (<tt><a href="tr_tourism-pos-NUM.html">NUM</a></tt> 7, <tt><a href="tr_tourism-pos-VERB.html">VERB</a></tt> 7, <tt><a href="tr_tourism-pos-DET.html">DET</a></tt> 3, <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt> 2), <em>yüz</em> (<tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt> 123, <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt> 93, <tt><a href="tr_tourism-pos-VERB.html">VERB</a></tt> 59, <tt><a href="tr_tourism-pos-NUM.html">NUM</a></tt> 6), <em>iki</em> (<tt><a href="tr_tourism-pos-NUM.html">NUM</a></tt> 3, <tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt> 1), <em>üç</em> (<tt><a href="tr_tourism-pos-NUM.html">NUM</a></tt> 2, <tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>bir</em> (<tt><a href="tr_tourism-pos-DET.html">DET</a></tt> 1904, <tt><a href="tr_tourism-pos-NUM.html">NUM</a></tt> 22, <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt> 11, <tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> 3), <em>dörtlük</em> (<tt><a href="tr_tourism-pos-NUM.html">NUM</a></tt> 14, <tt><a href="tr_tourism-pos-DET.html">DET</a></tt> 3, <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt> 2), <em>yüz</em> (<tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt> 163, <tt><a href="tr_tourism-pos-VERB.html">VERB</a></tt> 94, <tt><a href="tr_tourism-pos-NUM.html">NUM</a></tt> 9), <em>üç</em> (<tt><a href="tr_tourism-pos-NUM.html">NUM</a></tt> 2, <tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>BİR</em> (<tt><a href="tr_tourism-pos-DET.html">DET</a></tt> 1903, <tt><a href="tr_tourism-pos-NUM.html">NUM</a></tt> 22, <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt> 11, <tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> 3), <em>DÖRT</em> (<tt><a href="tr_tourism-pos-NUM.html">NUM</a></tt> 18, <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt> 1), <em>DÖRTLÜK</em> (<tt><a href="tr_tourism-pos-NUM.html">NUM</a></tt> 7, <tt><a href="tr_tourism-pos-DET.html">DET</a></tt> 3, <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt> 2), <em>YÜZ</em> (<tt><a href="tr_tourism-pos-NUM.html">NUM</a></tt> 6, <tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt> 5), <em>ALTI</em> (<tt><a href="tr_tourism-pos-NUM.html">NUM</a></tt> 4, <tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt> 3), <em>ÜÇ</em> (<tt><a href="tr_tourism-pos-NUM.html">NUM</a></tt> 2, <tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>bir</em> (<tt><a href="tr_tourism-pos-DET.html">DET</a></tt> 1824, <tt><a href="tr_tourism-pos-NUM.html">NUM</a></tt> 10, <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt> 5, <tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> 2), <em>dört</em> (<tt><a href="tr_tourism-pos-NUM.html">NUM</a></tt> 5, <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt> 1), <em>dörtlük</em> (<tt><a href="tr_tourism-pos-NUM.html">NUM</a></tt> 7, <tt><a href="tr_tourism-pos-DET.html">DET</a></tt> 3, <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt> 2), <em>yüz</em> (<tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt> 5, <tt><a href="tr_tourism-pos-NUM.html">NUM</a></tt> 4), <em>üç</em> (<tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> 1, <tt><a href="tr_tourism-pos-NUM.html">NUM</a></tt> 1), <em>Onlar</em> (<tt><a href="tr_tourism-pos-PRON.html">PRON</a></tt> 24, <tt><a href="tr_tourism-pos-NUM.html">NUM</a></tt> 1)
 
 
-* <em>BİR</em>
-  * <tt><a href="tr_tourism-pos-DET.html">DET</a></tt> 1903: <em>TEMİZ <b>BİR</b> TESİSTİ PERSONEL .</em>
-  * <tt><a href="tr_tourism-pos-NUM.html">NUM</a></tt> 22: <em>SADECE <b>BİR</b> DEFA GÖRDÜM .</em>
-  * <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt> 11: <em><b>BİR</b> DAHA GİTMEYİ ASLA DÜŞÜNMÜYORUM VE KİMSEYE DE TAVSİYE ETMİYORUM .</em>
-  * <tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> 3: <em>HAVLU ÇARŞAF 3 GÜNDE <b>BİR</b> DEĞİŞTİRİLDİ .</em>
-* <em>DÖRT</em>
-  * <tt><a href="tr_tourism-pos-NUM.html">NUM</a></tt> 18: <em><b>DÖRT</b> DÖRTLÜK BİR TESİS .</em>
-  * <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt> 1: <em>HİZMET OLARAK <b>DÖRT</b> DÖRTLÜKTÜ .</em>
-* <em>DÖRTLÜK</em>
-  * <tt><a href="tr_tourism-pos-NUM.html">NUM</a></tt> 7: <em>DÖRT <b>DÖRTLÜK</b> .</em>
-  * <tt><a href="tr_tourism-pos-DET.html">DET</a></tt> 3: <em>DÖRT <b>DÖRTLÜK</b> BİR TESİS .</em>
-  * <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt> 2: <em>DÖRT <b>DÖRTLÜK</b> OLMADI İYİYDİ .</em>
-* <em>YÜZ</em>
-  * <tt><a href="tr_tourism-pos-NUM.html">NUM</a></tt> 6: <em><b>YÜZ</b> PUAN VERİRİM .</em>
-  * <tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt> 5: <em>ÇOK İLGİLİLERDİ VE GÜLER <b>YÜZ</b> VARDI .</em>
-* <em>ALTI</em>
-  * <tt><a href="tr_tourism-pos-NUM.html">NUM</a></tt> 4: <em><b>ALTI</b> PUAN VERİRİM .</em>
-  * <tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt> 3: <em>KUM ALAN 10 METRE VE ÇAKILLARLA DOLU VE <b>ALTI</b> GÜNEŞ <b>ALTI</b> .</em>
-* <em>ÜÇ</em>
-  * <tt><a href="tr_tourism-pos-NUM.html">NUM</a></tt> 2: <em><b>ÜÇ</b> PUAN VERMEK İSTEDİM .</em>
-  * <tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> 1: <em>TÜM SAMİMİYETİMLE SÖYLEYEBİLİRİM Kİ <b>ÜÇ</b> KURUŞ DAHA FAZLA VERİP DAHA KONFORLU VE GÜVENİLİR BİR OTELE GİDİN .</em>
+* <em>bir</em>
+  * <tt><a href="tr_tourism-pos-DET.html">DET</a></tt> 1824: <em>Temiz <b>bir</b> tesisti personel .</em>
+  * <tt><a href="tr_tourism-pos-NUM.html">NUM</a></tt> 10: <em>Sadece <b>bir</b> defa gördüm .</em>
+  * <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt> 5: <em>Öyle <b>bir</b> aktivite yok .</em>
+  * <tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> 2: <em>Havlu çarşaf 3 günde <b>bir</b> değiştirildi .</em>
+* <em>dört</em>
+  * <tt><a href="tr_tourism-pos-NUM.html">NUM</a></tt> 5: <em>Hepsi <b>dört</b> dörtlüktü .</em>
+  * <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt> 1: <em>Hizmet olarak <b>dört</b> dörtlüktü .</em>
+* <em>dörtlük</em>
+  * <tt><a href="tr_tourism-pos-NUM.html">NUM</a></tt> 7: <em>Dört <b>dörtlük</b> .</em>
+  * <tt><a href="tr_tourism-pos-DET.html">DET</a></tt> 3: <em>Dört <b>dörtlük</b> bir tesis .</em>
+  * <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt> 2: <em>Dört <b>dörtlük</b> olmadı iyiydi .</em>
+* <em>yüz</em>
+  * <tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt> 5: <em>Çok ilgililerdi ve güler <b>yüz</b> vardı .</em>
+  * <tt><a href="tr_tourism-pos-NUM.html">NUM</a></tt> 4: <em>Yüzde <b>yüz</b> tercih ederim .</em>
+* <em>üç</em>
+  * <tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> 1: <em>Tüm samimiyetimle söyleyebilirim ki <b>üç</b> kuruş daha fazla verip daha konforlu ve güvenilir bir otele gidin .</em>
+  * <tt><a href="tr_tourism-pos-NUM.html">NUM</a></tt> 1: <em>Ortalama <b>üç</b> puan vermek istiyorum .</em>
+* <em>Onlar</em>
+  * <tt><a href="tr_tourism-pos-PRON.html">PRON</a></tt> 24: <em><b>Onlar</b> ilgiliydi .</em>
+  * <tt><a href="tr_tourism-pos-NUM.html">NUM</a></tt> 1: <em><b>Onlar</b> da güzeldi .</em>
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.196429 (the average of all parts of speech is 1.825646).
+The form / lemma ratio of `NUM` is 1.350877 (the average of all parts of speech is 2.231287).
 
-The 1st highest number of forms (3) was observed with the lemma “5”: <em>05., 5, 5.</em>.
+The 1st highest number of forms (5) was observed with the lemma “5”: <em>05., 5, 5'in, 5'ten, 5.</em>.
 
-The 2nd highest number of forms (3) was observed with the lemma “7”: <em>7, 7'DEN, 7.</em>.
+The 2nd highest number of forms (4) was observed with the lemma “7”: <em>7, 7'de, 7'den, 7.</em>.
 
 The 3rd highest number of forms (2) was observed with the lemma “2”: <em>2, 2.</em>.
 
-`NUM` occurs with 2 features: <tt><a href="tr_tourism-feat-NumType.html">NumType</a></tt> (784; 100% instances), <tt><a href="tr_tourism-feat-Typo.html">Typo</a></tt> (3; 0% instances)
+`NUM` occurs with 8 features: <tt><a href="tr_tourism-feat-NumType.html">NumType</a></tt> (802; 100% instances), <tt><a href="tr_tourism-feat-Number.html">Number</a></tt> (16; 2% instances), <tt><a href="tr_tourism-feat-Case.html">Case</a></tt> (9; 1% instances), <tt><a href="tr_tourism-feat-Aspect.html">Aspect</a></tt> (7; 1% instances), <tt><a href="tr_tourism-feat-Person.html">Person</a></tt> (7; 1% instances), <tt><a href="tr_tourism-feat-Typo.html">Typo</a></tt> (3; 0% instances), <tt><a href="tr_tourism-feat-Number-psor.html">Number[psor]</a></tt> (1; 0% instances), <tt><a href="tr_tourism-feat-Person-psor.html">Person[psor]</a></tt> (1; 0% instances)
 
-`NUM` occurs with 3 feature-value pairs: `NumType=Card`, `NumType=Ord`, `Typo=Yes`
+`NUM` occurs with 13 feature-value pairs: `Aspect=Perf`, `Case=Abl`, `Case=Gen`, `Case=Loc`, `Case=Nom`, `NumType=Card`, `NumType=Ord`, `Number=Plur`, `Number=Sing`, `Number[psor]=Sing`, `Person=3`, `Person[psor]=3`, `Typo=Yes`
 
-`NUM` occurs with 3 feature combinations.
-The most frequent feature combination is `NumType=Card` (725 tokens).
-Examples: <em>5, 10, 3, 6, 1, 100, BİR, BEŞ, 2, 4</em>
+`NUM` occurs with 9 feature combinations.
+The most frequent feature combination is `NumType=Card` (727 tokens).
+Examples: <em>5, 10, 3, 6, 1, 100, bir, beş, 2, 4</em>
 
 
 ## Relations
 
-`NUM` nodes are attached to their parents using 11 different relations: <tt><a href="tr_tourism-dep-nummod.html">nummod</a></tt> (639; 82% instances), <tt><a href="tr_tourism-dep-obj.html">obj</a></tt> (57; 7% instances), <tt><a href="tr_tourism-dep-root.html">root</a></tt> (28; 4% instances), <tt><a href="tr_tourism-dep-compound.html">compound</a></tt> (22; 3% instances), <tt><a href="tr_tourism-dep-nsubj.html">nsubj</a></tt> (12; 2% instances), <tt><a href="tr_tourism-dep-amod.html">amod</a></tt> (7; 1% instances), <tt><a href="tr_tourism-dep-nmod.html">nmod</a></tt> (5; 1% instances), <tt><a href="tr_tourism-dep-parataxis.html">parataxis</a></tt> (5; 1% instances), <tt><a href="tr_tourism-dep-conj.html">conj</a></tt> (4; 1% instances), <tt><a href="tr_tourism-dep-obl.html">obl</a></tt> (4; 1% instances), <tt><a href="tr_tourism-dep-dep.html">dep</a></tt> (1; 0% instances)
+`NUM` nodes are attached to their parents using 11 different relations: <tt><a href="tr_tourism-dep-nummod.html">nummod</a></tt> (641; 80% instances), <tt><a href="tr_tourism-dep-obj.html">obj</a></tt> (57; 7% instances), <tt><a href="tr_tourism-dep-root.html">root</a></tt> (35; 4% instances), <tt><a href="tr_tourism-dep-compound.html">compound</a></tt> (25; 3% instances), <tt><a href="tr_tourism-dep-nsubj.html">nsubj</a></tt> (14; 2% instances), <tt><a href="tr_tourism-dep-amod.html">amod</a></tt> (8; 1% instances), <tt><a href="tr_tourism-dep-nmod.html">nmod</a></tt> (7; 1% instances), <tt><a href="tr_tourism-dep-obl.html">obl</a></tt> (5; 1% instances), <tt><a href="tr_tourism-dep-parataxis.html">parataxis</a></tt> (5; 1% instances), <tt><a href="tr_tourism-dep-conj.html">conj</a></tt> (4; 0% instances), <tt><a href="tr_tourism-dep-dep.html">dep</a></tt> (1; 0% instances)
 
-Parents of `NUM` nodes belong to 9 different parts of speech: <tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt> (558; 71% instances), <tt><a href="tr_tourism-pos-VERB.html">VERB</a></tt> (102; 13% instances), <tt><a href="tr_tourism-pos-NUM.html">NUM</a></tt> (44; 6% instances), <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt> (32; 4% instances),  (28; 4% instances), <tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> (13; 2% instances), <tt><a href="tr_tourism-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="tr_tourism-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="tr_tourism-pos-PRON.html">PRON</a></tt> (1; 0% instances)
+Parents of `NUM` nodes belong to 9 different parts of speech: <tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt> (571; 71% instances), <tt><a href="tr_tourism-pos-VERB.html">VERB</a></tt> (98; 12% instances), <tt><a href="tr_tourism-pos-NUM.html">NUM</a></tt> (54; 7% instances),  (35; 4% instances), <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt> (34; 4% instances), <tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="tr_tourism-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="tr_tourism-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="tr_tourism-pos-PRON.html">PRON</a></tt> (1; 0% instances)
 
-622 (79%) `NUM` nodes are leaves.
+628 (78%) `NUM` nodes are leaves.
 
-139 (18%) `NUM` nodes have one child.
+144 (18%) `NUM` nodes have one child.
 
-17 (2%) `NUM` nodes have two children.
+19 (2%) `NUM` nodes have two children.
 
-6 (1%) `NUM` nodes have three or more children.
+11 (1%) `NUM` nodes have three or more children.
 
 The highest child degree of a `NUM` node is 4.
 
-Children of `NUM` nodes are attached using 18 different relations: <tt><a href="tr_tourism-dep-amod.html">amod</a></tt> (48; 25% instances), <tt><a href="tr_tourism-dep-punct.html">punct</a></tt> (26; 14% instances), <tt><a href="tr_tourism-dep-nummod.html">nummod</a></tt> (25; 13% instances), <tt><a href="tr_tourism-dep-nmod.html">nmod</a></tt> (21; 11% instances), <tt><a href="tr_tourism-dep-advmod.html">advmod</a></tt> (20; 10% instances), <tt><a href="tr_tourism-dep-compound.html">compound</a></tt> (14; 7% instances), <tt><a href="tr_tourism-dep-case.html">case</a></tt> (7; 4% instances), <tt><a href="tr_tourism-dep-conj.html">conj</a></tt> (6; 3% instances), <tt><a href="tr_tourism-dep-obl.html">obl</a></tt> (6; 3% instances), <tt><a href="tr_tourism-dep-nsubj.html">nsubj</a></tt> (4; 2% instances), <tt><a href="tr_tourism-dep-aux.html">aux</a></tt> (3; 2% instances), <tt><a href="tr_tourism-dep-cc.html">cc</a></tt> (3; 2% instances), <tt><a href="tr_tourism-dep-goeswith.html">goeswith</a></tt> (3; 2% instances), <tt><a href="tr_tourism-dep-discourse.html">discourse</a></tt> (2; 1% instances), <tt><a href="tr_tourism-dep-acl.html">acl</a></tt> (1; 1% instances), <tt><a href="tr_tourism-dep-advcl.html">advcl</a></tt> (1; 1% instances), <tt><a href="tr_tourism-dep-dep.html">dep</a></tt> (1; 1% instances), <tt><a href="tr_tourism-dep-parataxis.html">parataxis</a></tt> (1; 1% instances)
+Children of `NUM` nodes are attached using 18 different relations: <tt><a href="tr_tourism-dep-amod.html">amod</a></tt> (50; 23% instances), <tt><a href="tr_tourism-dep-punct.html">punct</a></tt> (33; 15% instances), <tt><a href="tr_tourism-dep-nummod.html">nummod</a></tt> (26; 12% instances), <tt><a href="tr_tourism-dep-advmod.html">advmod</a></tt> (21; 10% instances), <tt><a href="tr_tourism-dep-nmod.html">nmod</a></tt> (21; 10% instances), <tt><a href="tr_tourism-dep-compound.html">compound</a></tt> (20; 9% instances), <tt><a href="tr_tourism-dep-case.html">case</a></tt> (8; 4% instances), <tt><a href="tr_tourism-dep-conj.html">conj</a></tt> (6; 3% instances), <tt><a href="tr_tourism-dep-nsubj.html">nsubj</a></tt> (6; 3% instances), <tt><a href="tr_tourism-dep-obl.html">obl</a></tt> (6; 3% instances), <tt><a href="tr_tourism-dep-advcl.html">advcl</a></tt> (5; 2% instances), <tt><a href="tr_tourism-dep-aux.html">aux</a></tt> (3; 1% instances), <tt><a href="tr_tourism-dep-cc.html">cc</a></tt> (3; 1% instances), <tt><a href="tr_tourism-dep-goeswith.html">goeswith</a></tt> (3; 1% instances), <tt><a href="tr_tourism-dep-discourse.html">discourse</a></tt> (2; 1% instances), <tt><a href="tr_tourism-dep-acl.html">acl</a></tt> (1; 0% instances), <tt><a href="tr_tourism-dep-dep.html">dep</a></tt> (1; 0% instances), <tt><a href="tr_tourism-dep-parataxis.html">parataxis</a></tt> (1; 0% instances)
 
-Children of `NUM` nodes belong to 10 different parts of speech: <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt> (49; 26% instances), <tt><a href="tr_tourism-pos-NUM.html">NUM</a></tt> (44; 23% instances), <tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt> (42; 22% instances), <tt><a href="tr_tourism-pos-PUNCT.html">PUNCT</a></tt> (26; 14% instances), <tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> (19; 10% instances), <tt><a href="tr_tourism-pos-CCONJ.html">CCONJ</a></tt> (4; 2% instances), <tt><a href="tr_tourism-pos-AUX.html">AUX</a></tt> (3; 2% instances), <tt><a href="tr_tourism-pos-X.html">X</a></tt> (3; 2% instances), <tt><a href="tr_tourism-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="tr_tourism-pos-PROPN.html">PROPN</a></tt> (1; 1% instances)
+Children of `NUM` nodes belong to 12 different parts of speech: <tt><a href="tr_tourism-pos-NUM.html">NUM</a></tt> (54; 25% instances), <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt> (47; 22% instances), <tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt> (44; 20% instances), <tt><a href="tr_tourism-pos-PUNCT.html">PUNCT</a></tt> (33; 15% instances), <tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> (19; 9% instances), <tt><a href="tr_tourism-pos-CCONJ.html">CCONJ</a></tt> (6; 3% instances), <tt><a href="tr_tourism-pos-VERB.html">VERB</a></tt> (4; 2% instances), <tt><a href="tr_tourism-pos-AUX.html">AUX</a></tt> (3; 1% instances), <tt><a href="tr_tourism-pos-X.html">X</a></tt> (3; 1% instances), <tt><a href="tr_tourism-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="tr_tourism-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="tr_tourism-pos-PROPN.html">PROPN</a></tt> (1; 0% instances)
 

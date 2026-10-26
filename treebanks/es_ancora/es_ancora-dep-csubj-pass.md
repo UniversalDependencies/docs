@@ -44,22 +44,22 @@ The following 1 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 20	las	el	DET	da0fp0	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	21	det	21:det	Entity=(CESSCASTP2002040196c3--2-gstype:gen,HomoDD
 21	personas	persona	NOUN	ncfp000	Gender=Fem|Number=Plur	18	obl	18:obl	ArgTem=argM:adv
 22	que	que	PRON	pr0cn000	PronType=Rel	23	nsubj	23:nsubj	ArgTem=arg1:tem|Entity=(CESSCASTP2002040196c3--1-CorefType:ident,gstype:gen)
-23	conviven	convivir	VERB	vmip3p0	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	21	acl	21:acl	_
+23	conviven	convivir	VERB	vmip3p0	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	21	acl:relcl	21:acl:relcl	_
 24	con	con	ADP	sps00	_	26	case	26:case	_
 25	un	uno	DET	di0ms0	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	26	det	26:det	Entity=(CESSCASTP2002040196c4--2-gstype:gen
-26	problema	problema	NOUN	ncms000	Gender=Masc|Number=Sing	23	obl	23:obl	SpaceAfter=No|ArgTem=argM:adv
+26	problema	problema	NOUN	ncms000	Gender=Masc|Number=Sing	23	obl	23:obl	ArgTem=argM:adv|SpaceAfter=No
 27	,	,	PUNCT	fc	PunctType=Comm	28	punct	28:punct	_
-28	que	que	PRON	pr0cn000	PronType=Rel	38	nsubj	38:nsubj	SpaceAfter=No|ArgTem=arg1:pat|Entity=(CESSCASTP2002040196c4--1-CorefType:ident,gstype:gen)
+28	que	que	PRON	pr0cn000	PronType=Rel	38	nsubj	38:nsubj	ArgTem=arg1:pat|Entity=(CESSCASTP2002040196c4--1-CorefType:ident,gstype:gen)|SpaceAfter=No
 29	,	,	PUNCT	fc	PunctType=Comm	32	punct	32:punct	_
 30	por	por	ADP	sps00	_	32	case	32:case	_
 31	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	32	det	32:det	Entity=(NOCOREF:Gen--2-gstype:gen,HomoDD
-32	momento	momento	NOUN	ncms000	Gender=Masc|Number=Sing	36	obl	36:obl	SpaceAfter=No|ArgTem=argM:tmp|Entity=NOCOREF:Gen)
+32	momento	momento	NOUN	ncms000	Gender=Masc|Number=Sing	36	obl	36:obl	ArgTem=argM:tmp|Entity=NOCOREF:Gen)|SpaceAfter=No
 33	,	,	PUNCT	fc	PunctType=Comm	32	punct	32:punct	_
 34	no	no	ADV	rn	Polarity=Neg	36	advmod	36:advmod	_
 35	se	él	PRON	p0000000	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	36	expl:pass	36:expl:pass	_
 36	sabe	saber	VERB	vmip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	26	acl:relcl	26:acl:relcl	_
 37	cuándo	cuándo	ADV	pt000000	PronType=Int	38	advmod	38:advmod	ArgTem=argM:tmp|CxnElt=38:Interrogative-WHInfo-Indirect.WHWord
-38	acabará	acabar	VERB	vmif3s0	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	36	csubj:pass	36:csubj:pass	SpaceAfter=No|ArgTem=arg1:pat|Entity=CESSCASTP2002040196c4)CESSCASTP2002040196c3)|Cxn=Interrogative-WHInfo-Indirect|CxnElt=38:Interrogative-WHInfo-Indirect.Clause
+38	acabará	acabar	VERB	vmif3s0	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	36	csubj:pass	36:csubj:pass	ArgTem=arg1:pat|Cxn=Interrogative-WHInfo-Indirect|CxnElt=38:Interrogative-WHInfo-Indirect.Clause|Entity=CESSCASTP2002040196c4)CESSCASTP2002040196c3)|SpaceAfter=No
 39	.	.	PUNCT	fp	PunctType=Peri	10	punct	10:punct	_
 
 ~~~

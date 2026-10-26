@@ -11,7 +11,7 @@ It occurs with 3 different values: `Circ`, `Post`, `Prep`.
 
 365228 tokens (11%) have a non-empty value of `AdpType`.
 193 types (0%) occur at least once with a non-empty value of `AdpType`.
-192 lemmas (0%) occur at least once with a non-empty value of `AdpType`.
+117 lemmas (0%) occur at least once with a non-empty value of `AdpType`.
 The feature is used with 1 part-of-speech tags: <tt><a href="de_hdt-pos-ADP.html">ADP</a></tt> (365228; 11% instances).
 
 ### `ADP`
@@ -31,8 +31,6 @@ The most frequent other feature values with which `ADP` and `AdpType` co-occurre
   <tr><td><tt>_</tt></td><td><em>wegen</em></td><td></td><td><em>wegen</em></td></tr>
   <tr><td><tt><tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=Gen</tt></tt></td><td></td><td><em>wegen</em></td><td><em>wegen</em></td></tr>
 </table>
-
-`AdpType` seems to be **lexical feature** of `ADP`. 93% lemmas (179) occur only with one value of `AdpType`.
 
 ## Relations with Agreement in `AdpType`
 

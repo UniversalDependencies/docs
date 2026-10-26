@@ -56,7 +56,7 @@ The following 5 pairs of parts of speech are connected with `advcl:relcl`: <tt><
 4	paruit	pareo	VERB	v|v|3|s|r|i|a|-|-|-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	TraditionalMood=Indicativus|TraditionalTense=Perfectum
 5	esse	sum	AUX	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Inf	6	cop	_	_
 6	rectum	rectus	ADJ	a|a|-|s|-|-|-|n|n|-	Case=Nom|Gender=Neut|Number=Sing	4	xcomp	_	_
-7	una	una	ADV	d|d|-|-|-|-|-|-|-|-	_	12	mark	_	_
+7	una	una	ADV	d|d|-|-|-|-|-|-|-|-	ExtPos=ADP	12	mark	_	_
 8	cum	cum	ADP	r|r|-|-|-|-|-|-|-|-	_	7	fixed	_	_
 9	omnibus	omnis	DET	a|a|-|p|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Plur|PronType=Tot	12	det	_	_
 10	nobiscum	nobiscum	NOUN	p|p|-|p|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Plur	12	obl	_	_

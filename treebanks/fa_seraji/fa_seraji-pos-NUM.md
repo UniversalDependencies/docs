@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  یک (<tt><a href="fa_seraji-pos-NUM.html
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.010178 (the average of all parts of speech is 1.409222).
+The form / lemma ratio of `NUM` is 1.010178 (the average of all parts of speech is 1.372220).
 
 The 1st highest number of forms (3) was observed with the lemma “هزار”: هزار, هزاران, هزارها.
 

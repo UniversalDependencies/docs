@@ -11,9 +11,9 @@ This relation is universal.
 275 nodes (1%) are attached to their parents as `nummod`.
 
 198 instances of `nummod` (72%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.2.
+Average distance between parent and child is 1.20363636363636.
 
-The following 6 pairs of parts of speech are connected with `nummod`: <tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_pud-pos-NUM.html">NUM</a></tt> (248; 90% instances), <tt><a href="sv_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="sv_pud-pos-NUM.html">NUM</a></tt> (12; 4% instances), <tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sv_pud-pos-NUM.html">NUM</a></tt> (11; 4% instances), <tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sv_pud-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="sv_pud-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_pud-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 6 pairs of parts of speech are connected with `nummod`: <tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_pud-pos-NUM.html">NUM</a></tt> (248; 90% instances), <tt><a href="sv_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="sv_pud-pos-NUM.html">NUM</a></tt> (11; 4% instances), <tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sv_pud-pos-NUM.html">NUM</a></tt> (11; 4% instances), <tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sv_pud-pos-NUM.html">NUM</a></tt> (3; 1% instances), <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="sv_pud-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_pud-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -65,7 +65,7 @@ The following 6 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 8	fgColor:white
 # visual-style 8 9 nummod	color:blue
 1	I	i	ADP	PP	_	3	case	3:case	_
-2	sin	sin	PRON	PS|UTR|SIN|DEF	Definite=Def|Gender=Com|Number=Sing|Poss=Yes	3	nmod:poss	3:nmod:poss	_
+2	sin	sig	PRON	PS|UTR|SIN|DEF	Definite=Def|Gender=Com|Number=Sing|Poss=Yes|PronType=Prs	3	nmod:poss	3:nmod:poss	_
 3	hast	hast	NOUN	NN|-|-|-|-	_	7	obl	7:obl:i	_
 4	att	att	PART	IE	_	5	mark	5:mark	_
 5	erövra	erövra	VERB	VB|INF|AKT	VerbForm=Inf|Voice=Act	3	acl	3:acl:att	_
@@ -73,7 +73,7 @@ The following 6 pairs of parts of speech are connected with `nummod`: <tt><a hre
 7	begick	begå	VERB	VB|PRT|AKT	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
 8	Ramses	Ramses	PROPN	PM|NOM	Case=Nom	7	nsubj	7:nsubj	_
 9	II	2	NUM	RG|NOM	Case=Nom	8	nummod	8:nummod	_
-10	ett	en	DET	DT|NEU|SIN|IND	Definite=Ind|Gender=Neut|Number=Sing	13	det	13:det	_
+10	ett	en	DET	DT|NEU|SIN|IND	Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	13	det	13:det	_
 11	stort	stor	ADJ	JJ|POS|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	13	amod	13:amod	_
 12	taktiskt	taktisk	ADJ	JJ|POS|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	13	amod	13:amod	_
 13	misstag	misstag	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	7	obj	7:obj	SpaceAfter=No

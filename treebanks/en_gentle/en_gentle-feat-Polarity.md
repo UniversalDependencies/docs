@@ -32,7 +32,7 @@ The most frequent other feature values with which `ADV` and `Polarity` co-occurr
 `ADV` tokens may have the following values of `Polarity`:
 
 * `Neg` (5; 100% of non-empty `Polarity`): <em>no</em>
-* `EMPTY` (724): <em>then, just, so, here, also, thus, well, how, where, now</em>
+* `EMPTY` (731): <em>then, just, so, here, also, thus, well, how, where, now</em>
 
 ### `CCONJ`
 

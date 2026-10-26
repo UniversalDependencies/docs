@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-324 nodes (1%) are attached to their parents as `parataxis`.
+323 nodes (1%) are attached to their parents as `parataxis`.
 
-300 instances of `parataxis` (93%) are left-to-right (parent precedes child).
-Average distance between parent and child is 7.16049382716049.
+299 instances of `parataxis` (93%) are left-to-right (parent precedes child).
+Average distance between parent and child is 7.17956656346749.
 
-The following 9 pairs of parts of speech are connected with `parataxis`: <tt><a href="sme_giella-pos-VERB.html">VERB</a></tt>-<tt><a href="sme_giella-pos-VERB.html">VERB</a></tt> (244; 75% instances), <tt><a href="sme_giella-pos-VERB.html">VERB</a></tt>-<tt><a href="sme_giella-pos-NOUN.html">NOUN</a></tt> (30; 9% instances), <tt><a href="sme_giella-pos-VERB.html">VERB</a></tt>-<tt><a href="sme_giella-pos-ADJ.html">ADJ</a></tt> (18; 6% instances), <tt><a href="sme_giella-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sme_giella-pos-VERB.html">VERB</a></tt> (17; 5% instances), <tt><a href="sme_giella-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sme_giella-pos-VERB.html">VERB</a></tt> (7; 2% instances), <tt><a href="sme_giella-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sme_giella-pos-NOUN.html">NOUN</a></tt> (5; 2% instances), <tt><a href="sme_giella-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sme_giella-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="sme_giella-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sme_giella-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="sme_giella-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sme_giella-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `parataxis`: <tt><a href="sme_giella-pos-VERB.html">VERB</a></tt>-<tt><a href="sme_giella-pos-VERB.html">VERB</a></tt> (243; 75% instances), <tt><a href="sme_giella-pos-VERB.html">VERB</a></tt>-<tt><a href="sme_giella-pos-NOUN.html">NOUN</a></tt> (30; 9% instances), <tt><a href="sme_giella-pos-VERB.html">VERB</a></tt>-<tt><a href="sme_giella-pos-ADJ.html">ADJ</a></tt> (18; 6% instances), <tt><a href="sme_giella-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sme_giella-pos-VERB.html">VERB</a></tt> (17; 5% instances), <tt><a href="sme_giella-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sme_giella-pos-VERB.html">VERB</a></tt> (7; 2% instances), <tt><a href="sme_giella-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sme_giella-pos-NOUN.html">NOUN</a></tt> (5; 2% instances), <tt><a href="sme_giella-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sme_giella-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="sme_giella-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sme_giella-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="sme_giella-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sme_giella-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

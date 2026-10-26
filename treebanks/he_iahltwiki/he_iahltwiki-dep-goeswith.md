@@ -94,7 +94,7 @@ The following 1 pairs of parts of speech are connected with `goeswith`: <tt><a h
 70	,	,	PUNCT	PUNCT	_	72	punct	_	_
 71	ה	ה	SCONJ	SCONJ	_	72	mark	_	_
 72	מוחזקת	הוחזק	VERB	VERB	Gender=Fem|HebBinyan=HUFAL|Number=Sing|Person=3|Tense=Pres|VerbForm=Part|Voice=Pass	59	acl:relcl	_	_
-73	על	על	ADP	ADP	_	75	case	_	_
+73	על	על	ADP	ADP	ExtPos=ADP	75	case	_	_
 74	ידי	יד	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Plur	73	fixed	_	_
 75	ישראל	ישראל	PROPN	PROPN	_	72	obl	_	Entity=(GPE)
 76	ב	ב	ADP	ADP	_	77	case	_	_

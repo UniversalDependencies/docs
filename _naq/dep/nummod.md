@@ -14,9 +14,9 @@ nummod(people, five)
 ~~~
 
 ~~~ sdparse
-ǁîb ge 5 khoega ge ǂgâu . \n He DECL five 5 PST hit .
-nummod(khoega, 5)
-nummod(people, 5)
+ǁîb ge 5 khoega ge ǂgâu . \n He DECL 5 people PST hit .
+nummod(khoega, 5-3)
+nummod(people, 5-11)
 ~~~
 
 Note that indefinite quantifiers such as _ǀoro_ "few", _ǂgui_ "many" are tagged [DET](naq-pos/DET) rather than [NUM](naq-pos/NUM). Therefore their relation to the quantified noun is not `nummod` but [det](naq-dep/det):
@@ -26,3 +26,4 @@ Note that indefinite quantifiers such as _ǀoro_ "few", _ǂgui_ "many" are tagge
 det(khoega, ǂgui)
 de(people, many)
 ~~~
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:27 CEST -->

@@ -14,4 +14,4 @@ amod(görüşmeler, off)
 flat:foreign(off, the)
 flat:foreign(off, record)
 ~~~
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:56 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:10 CEST -->

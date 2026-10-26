@@ -68,7 +68,7 @@ The 10 most frequent ambiguous types:  <em>i</em> (<tt><a href="no_bokmaal-pos-A
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.060000 (the average of all parts of speech is 1.381699).
+The form / lemma ratio of `ADP` is 1.060000 (the average of all parts of speech is 1.381641).
 
 The 1st highest number of forms (4) was observed with the lemma “med”: <em>at, med, meg, men</em>.
 
@@ -89,7 +89,7 @@ Examples: <em>i, på, til, for, av, med, om, som, fra, etter</em>
 
 `ADP` nodes are attached to their parents using 14 different relations: <tt><a href="no_bokmaal-dep-case.html">case</a></tt> (37360; 98% instances), <tt><a href="no_bokmaal-dep-nmod.html">nmod</a></tt> (284; 1% instances), <tt><a href="no_bokmaal-dep-conj.html">conj</a></tt> (93; 0% instances), <tt><a href="no_bokmaal-dep-flat-name.html">flat:name</a></tt> (84; 0% instances), <tt><a href="no_bokmaal-dep-root.html">root</a></tt> (76; 0% instances), <tt><a href="no_bokmaal-dep-xcomp.html">xcomp</a></tt> (51; 0% instances), <tt><a href="no_bokmaal-dep-advcl.html">advcl</a></tt> (25; 0% instances), <tt><a href="no_bokmaal-dep-ccomp.html">ccomp</a></tt> (14; 0% instances), <tt><a href="no_bokmaal-dep-compound.html">compound</a></tt> (12; 0% instances), <tt><a href="no_bokmaal-dep-reparandum.html">reparandum</a></tt> (11; 0% instances), <tt><a href="no_bokmaal-dep-csubj.html">csubj</a></tt> (5; 0% instances), <tt><a href="no_bokmaal-dep-flat.html">flat</a></tt> (5; 0% instances), <tt><a href="no_bokmaal-dep-dislocated.html">dislocated</a></tt> (2; 0% instances), <tt><a href="no_bokmaal-dep-cc.html">cc</a></tt> (1; 0% instances)
 
-Parents of `ADP` nodes belong to 12 different parts of speech: <tt><a href="no_bokmaal-pos-NOUN.html">NOUN</a></tt> (25010; 66% instances), <tt><a href="no_bokmaal-pos-PROPN.html">PROPN</a></tt> (5003; 13% instances), <tt><a href="no_bokmaal-pos-VERB.html">VERB</a></tt> (3643; 10% instances), <tt><a href="no_bokmaal-pos-PRON.html">PRON</a></tt> (1853; 5% instances), <tt><a href="no_bokmaal-pos-ADJ.html">ADJ</a></tt> (994; 3% instances), <tt><a href="no_bokmaal-pos-NUM.html">NUM</a></tt> (785; 2% instances), <tt><a href="no_bokmaal-pos-DET.html">DET</a></tt> (302; 1% instances), <tt><a href="no_bokmaal-pos-ADV.html">ADV</a></tt> (293; 1% instances),  (76; 0% instances), <tt><a href="no_bokmaal-pos-ADP.html">ADP</a></tt> (50; 0% instances), <tt><a href="no_bokmaal-pos-X.html">X</a></tt> (11; 0% instances), <tt><a href="no_bokmaal-pos-SYM.html">SYM</a></tt> (3; 0% instances)
+Parents of `ADP` nodes belong to 12 different parts of speech: <tt><a href="no_bokmaal-pos-NOUN.html">NOUN</a></tt> (25015; 66% instances), <tt><a href="no_bokmaal-pos-PROPN.html">PROPN</a></tt> (4992; 13% instances), <tt><a href="no_bokmaal-pos-VERB.html">VERB</a></tt> (3643; 10% instances), <tt><a href="no_bokmaal-pos-PRON.html">PRON</a></tt> (1853; 5% instances), <tt><a href="no_bokmaal-pos-ADJ.html">ADJ</a></tt> (994; 3% instances), <tt><a href="no_bokmaal-pos-NUM.html">NUM</a></tt> (785; 2% instances), <tt><a href="no_bokmaal-pos-DET.html">DET</a></tt> (297; 1% instances), <tt><a href="no_bokmaal-pos-ADV.html">ADV</a></tt> (293; 1% instances),  (76; 0% instances), <tt><a href="no_bokmaal-pos-ADP.html">ADP</a></tt> (50; 0% instances), <tt><a href="no_bokmaal-pos-X.html">X</a></tt> (22; 0% instances), <tt><a href="no_bokmaal-pos-SYM.html">SYM</a></tt> (3; 0% instances)
 
 37708 (99%) `ADP` nodes are leaves.
 

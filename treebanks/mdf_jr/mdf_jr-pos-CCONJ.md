@@ -6,20 +6,20 @@ udver: '2'
 
 ## Treebank Statistics: UD_Moksha-JR: POS Tags: `CCONJ`
 
-There are 6 `CCONJ` lemmas (0%), 6 `CCONJ` types (0%) and 151 `CCONJ` tokens (3%).
-Out of 16 observed tags, the rank of `CCONJ` is: 15 in number of lemmas, 15 in number of types and 8 in number of tokens.
+There are 7 `CCONJ` lemmas (0%), 7 `CCONJ` types (0%) and 163 `CCONJ` tokens (4%).
+Out of 16 observed tags, the rank of `CCONJ` is: 14 in number of lemmas, 14 in number of types and 8 in number of tokens.
 
-The 10 most frequent `CCONJ` lemmas: <em>и, а, но, да, или, мес</em>
+The 10 most frequent `CCONJ` lemmas: <em>и, а, но, или, да, али, мес</em>
 
-The 10 most frequent `CCONJ` types:  <em>и, а, но, да, или, мес</em>
+The 10 most frequent `CCONJ` types:  <em>и, а, но, или, да, али, мес</em>
 
-The 10 most frequent ambiguous lemmas: <em>и</em> (<tt><a href="mdf_jr-pos-CCONJ.html">CCONJ</a></tt> 77, <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> 1, <tt><a href="mdf_jr-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="mdf_jr-pos-PART.html">PART</a></tt> 1), <em>или</em> (<tt><a href="mdf_jr-pos-CCONJ.html">CCONJ</a></tt> 8, <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> 1), <em>мес</em> (<tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> 7, <tt><a href="mdf_jr-pos-CCONJ.html">CCONJ</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>и</em> (<tt><a href="mdf_jr-pos-CCONJ.html">CCONJ</a></tt> 81, <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> 1, <tt><a href="mdf_jr-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="mdf_jr-pos-PART.html">PART</a></tt> 1), <em>или</em> (<tt><a href="mdf_jr-pos-CCONJ.html">CCONJ</a></tt> 9, <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> 1), <em>мес</em> (<tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> 7, <tt><a href="mdf_jr-pos-CCONJ.html">CCONJ</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>и</em> (<tt><a href="mdf_jr-pos-CCONJ.html">CCONJ</a></tt> 70, <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> 1, <tt><a href="mdf_jr-pos-PART.html">PART</a></tt> 1), <em>мес</em> (<tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> 4, <tt><a href="mdf_jr-pos-CCONJ.html">CCONJ</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>и</em> (<tt><a href="mdf_jr-pos-CCONJ.html">CCONJ</a></tt> 74, <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> 1, <tt><a href="mdf_jr-pos-PART.html">PART</a></tt> 1), <em>мес</em> (<tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> 4, <tt><a href="mdf_jr-pos-CCONJ.html">CCONJ</a></tt> 1)
 
 
 * <em>и</em>
-  * <tt><a href="mdf_jr-pos-CCONJ.html">CCONJ</a></tt> 70: <em>Алязтиге азондыне арьсеманень , а сон пеедезевсь <b>и</b> корхтай :</em>
+  * <tt><a href="mdf_jr-pos-CCONJ.html">CCONJ</a></tt> 74: <em>Алязтиге азондыне арьсеманень , а сон пеедезевсь <b>и</b> корхтай :</em>
   * <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> 1: <em>А ушесь пародонга пароль , хоть <b>и</b> август , а ульцясь июленнекс пси .</em>
   * <tt><a href="mdf_jr-pos-PART.html">PART</a></tt> 1: <em>Тяфта <b>и</b> тиень .</em>
 * <em>мес</em>
@@ -28,30 +28,36 @@ The 10 most frequent ambiguous types:  <em>и</em> (<tt><a href="mdf_jr-pos-CCON
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.550071).
+The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.563574).
 
 The 1st highest number of forms (1) was observed with the lemma “А”: <em>А</em>.
 
 The 2nd highest number of forms (1) was observed with the lemma “а”: <em>а</em>.
 
-The 3rd highest number of forms (1) was observed with the lemma “да”: <em>да</em>.
+The 3rd highest number of forms (1) was observed with the lemma “али”: <em>али</em>.
 
-`CCONJ` does not occur with any features.
+`CCONJ` occurs with 1 features: <tt><a href="mdf_jr-feat-ExtPos.html">ExtPos</a></tt> (2; 1% instances)
+
+`CCONJ` occurs with 1 feature-value pairs: `ExtPos=CCONJ`
+
+`CCONJ` occurs with 2 feature combinations.
+The most frequent feature combination is `_` (161 tokens).
+Examples: <em>и, а, но, или, да, али, мес</em>
 
 
 ## Relations
 
-`CCONJ` nodes are attached to their parents using 4 different relations: <tt><a href="mdf_jr-dep-cc.html">cc</a></tt> (144; 95% instances), <tt><a href="mdf_jr-dep-cc-preconj.html">cc:preconj</a></tt> (3; 2% instances), <tt><a href="mdf_jr-dep-fixed.html">fixed</a></tt> (2; 1% instances), <tt><a href="mdf_jr-dep-mark.html">mark</a></tt> (2; 1% instances)
+`CCONJ` nodes are attached to their parents using 4 different relations: <tt><a href="mdf_jr-dep-cc.html">cc</a></tt> (155; 95% instances), <tt><a href="mdf_jr-dep-cc-preconj.html">cc:preconj</a></tt> (3; 2% instances), <tt><a href="mdf_jr-dep-mark.html">mark</a></tt> (3; 2% instances), <tt><a href="mdf_jr-dep-fixed.html">fixed</a></tt> (2; 1% instances)
 
-Parents of `CCONJ` nodes belong to 9 different parts of speech: <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (101; 67% instances), <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> (24; 16% instances), <tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt> (11; 7% instances), <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> (8; 5% instances), <tt><a href="mdf_jr-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="mdf_jr-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="mdf_jr-pos-INTJ.html">INTJ</a></tt> (1; 1% instances), <tt><a href="mdf_jr-pos-NUM.html">NUM</a></tt> (1; 1% instances)
+Parents of `CCONJ` nodes belong to 9 different parts of speech: <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (108; 66% instances), <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> (26; 16% instances), <tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt> (12; 7% instances), <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> (8; 5% instances), <tt><a href="mdf_jr-pos-AUX.html">AUX</a></tt> (3; 2% instances), <tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt> (3; 2% instances), <tt><a href="mdf_jr-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="mdf_jr-pos-INTJ.html">INTJ</a></tt> (1; 1% instances), <tt><a href="mdf_jr-pos-NUM.html">NUM</a></tt> (1; 1% instances)
 
-149 (99%) `CCONJ` nodes are leaves.
+159 (98%) `CCONJ` nodes are leaves.
 
-2 (1%) `CCONJ` nodes have one child.
+4 (2%) `CCONJ` nodes have one child.
 
 The highest child degree of a `CCONJ` node is 1.
 
-Children of `CCONJ` nodes are attached using 1 different relations: <tt><a href="mdf_jr-dep-fixed.html">fixed</a></tt> (2; 100% instances)
+Children of `CCONJ` nodes are attached using 2 different relations: <tt><a href="mdf_jr-dep-fixed.html">fixed</a></tt> (2; 50% instances), <tt><a href="mdf_jr-dep-punct.html">punct</a></tt> (2; 50% instances)
 
-Children of `CCONJ` nodes belong to 2 different parts of speech: <tt><a href="mdf_jr-pos-CCONJ.html">CCONJ</a></tt> (1; 50% instances), <tt><a href="mdf_jr-pos-SCONJ.html">SCONJ</a></tt> (1; 50% instances)
+Children of `CCONJ` nodes belong to 3 different parts of speech: <tt><a href="mdf_jr-pos-PUNCT.html">PUNCT</a></tt> (2; 50% instances), <tt><a href="mdf_jr-pos-CCONJ.html">CCONJ</a></tt> (1; 25% instances), <tt><a href="mdf_jr-pos-SCONJ.html">SCONJ</a></tt> (1; 25% instances)
 

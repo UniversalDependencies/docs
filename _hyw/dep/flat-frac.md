@@ -1,6 +1,6 @@
 ---
 layout: relation
-title: 'flat:range'
+title: 'flat:frac'
 shortdef: 'fraction'
 udver: '2'
 ---
@@ -22,4 +22,4 @@ Western Armenian uses `flat:frac` for numerical fractions or just the denominato
 11	վերաբերի	վերաբերիլ	VERB	_	Aspect=Prosp|Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	Translit=veraberi|LTranslit=veraberil
 
 ~~~
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:56 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:10 CEST -->

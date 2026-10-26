@@ -11,23 +11,23 @@ It occurs with 4 different values: `0`, `1`, `2`, `3`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="fi_tdt-feat-Person.html">Person</a></tt>, <tt><a href="fi_tdt-feat-Person-psor.html">Person[psor]</a></tt>.
 
-24779 tokens (12%) have a non-empty value of `Person`.
-4688 types (9%) occur at least once with a non-empty value of `Person`.
+24778 tokens (12%) have a non-empty value of `Person`.
+4687 types (9%) occur at least once with a non-empty value of `Person`.
 1650 lemmas (6%) occur at least once with a non-empty value of `Person`.
-The feature is used with 3 part-of-speech tags: <tt><a href="fi_tdt-pos-VERB.html">VERB</a></tt> (11684; 6% instances), <tt><a href="fi_tdt-pos-AUX.html">AUX</a></tt> (10306; 5% instances), <tt><a href="fi_tdt-pos-PRON.html">PRON</a></tt> (2789; 1% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="fi_tdt-pos-VERB.html">VERB</a></tt> (11683; 6% instances), <tt><a href="fi_tdt-pos-AUX.html">AUX</a></tt> (10306; 5% instances), <tt><a href="fi_tdt-pos-PRON.html">PRON</a></tt> (2789; 1% instances).
 
 ### `VERB`
 
-11684 <tt><a href="fi_tdt-pos-VERB.html">VERB</a></tt> tokens (43% of all `VERB` tokens) have a non-empty value of `Person`.
+11683 <tt><a href="fi_tdt-pos-VERB.html">VERB</a></tt> tokens (43% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="fi_tdt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (11684; 100%), <tt><a href="fi_tdt-feat-InfForm.html">InfForm</a></tt><tt>=EMPTY</tt> (11684; 100%), <tt><a href="fi_tdt-feat-PartForm.html">PartForm</a></tt><tt>=EMPTY</tt> (11684; 100%), <tt><a href="fi_tdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (11684; 100%), <tt><a href="fi_tdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (11684; 100%), <tt><a href="fi_tdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (10709; 92%), <tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9410; 81%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="fi_tdt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (11683; 100%), <tt><a href="fi_tdt-feat-InfForm.html">InfForm</a></tt><tt>=EMPTY</tt> (11683; 100%), <tt><a href="fi_tdt-feat-PartForm.html">PartForm</a></tt><tt>=EMPTY</tt> (11683; 100%), <tt><a href="fi_tdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (11683; 100%), <tt><a href="fi_tdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (11683; 100%), <tt><a href="fi_tdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (10709; 92%), <tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9409; 81%).
 
 `VERB` tokens may have the following values of `Person`:
 
-* `0` (407; 3% of non-empty `Person`): <em>on, saa, tulee, tuli, ei, tuntuu, sai, kannattaa, oli, tulisi</em>
+* `0` (406; 3% of non-empty `Person`): <em>on, saa, tulee, tuli, ei, tuntuu, sai, kannattaa, oli, tulisi</em>
 * `1` (1997; 17% of non-empty `Person`): <em>haluaisin, haluan, sain, huomasin, toivon, ajattelin, näin, ostin, sanoin, kävin</em>
 * `2` (576; 5% of non-empty `Person`): <em>lisää, ota, et, haluat, keitä, paista, saat, leikkaa, lue, tee</em>
-* `3` (8704; 74% of non-empty `Person`): <em>sai, tulee, tuli, sanoi, ottaa, on, kertoo, sanoo, kertoi, alkoi</em>
+* `3` (8704; 75% of non-empty `Person`): <em>sai, tulee, tuli, sanoi, ottaa, on, kertoo, sanoo, kertoi, alkoi</em>
 * `EMPTY` (15658): <em>tehdä, tehty, saada, ottaa, saanut, olevan, tullut, käyttää, saa, antaa</em>
 
 <table>
@@ -129,7 +129,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 * `1` (1046; 38% of non-empty `Person`): <em>minä, meidän, mä, me, minun, minua, meillä, minulla, minut, minulle</em>
 * `2` (254; 9% of non-empty `Person`): <em>sinä, sä, sinun, teitä, te, sinua, sinulle, teille, sinulla, sinut</em>
 * `3` (1489; 53% of non-empty `Person`): <em>hän, hänen, he, heidän, hänet, häntä, hänelle, hänellä, hänestä, heitä</em>
-* `EMPTY` (10692): <em>se, sen, joka, sitä, siitä, tämän, tämä, ne, jotka, kaikki</em>
+* `EMPTY` (10686): <em>se, sen, joka, sitä, siitä, tämän, tämä, ne, jotka, kaikki</em>
 
 ## Relations with Agreement in `Person`
 

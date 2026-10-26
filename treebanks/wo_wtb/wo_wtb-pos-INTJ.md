@@ -55,7 +55,13 @@ The 2nd highest number of forms (1) was observed with the lemma “Ah”: <em>Ah
 
 The 3rd highest number of forms (1) was observed with the lemma “Akbar”: <em>Akbar</em>.
 
-`INTJ` does not occur with any features.
+`INTJ` occurs with 1 features: <tt><a href="wo_wtb-feat-ExtPos.html">ExtPos</a></tt> (7; 11% instances)
+
+`INTJ` occurs with 1 feature-value pairs: `ExtPos=INTJ`
+
+`INTJ` occurs with 2 feature combinations.
+The most frequent feature combination is `_` (57 tokens).
+Examples: <em>waaw, Yàlla, ndeysaan, Waawaaw, aah, déedéet, Ah, Yalla, waay, Aaah</em>
 
 
 ## Relations

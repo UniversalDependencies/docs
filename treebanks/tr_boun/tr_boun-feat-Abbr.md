@@ -23,7 +23,7 @@ The most frequent other feature values with which `PROPN` and `Abbr` co-occurred
 `PROPN` tokens may have the following values of `Abbr`:
 
 * `Yes` (83; 100% of non-empty `Abbr`): <em>ABD, ABD'nin, AKP'nin, ABD'de, ABD'li, CHP, DYP'li, TBMM, 'İngiltere'ye, 20.00'de</em>
-* `EMPTY` (7798): <em>Türk, Türkiye, Türkiye'de, Türkiye'nin, Mehmet, Atatürk, Avrupa, Ali, İstanbul, Mustafa</em>
+* `EMPTY` (7800): <em>Türk, Türkiye, Türkiye'de, Türkiye'nin, Mehmet, Atatürk, Avrupa, Ali, İstanbul, Mustafa</em>
 
 `Abbr` seems to be **lexical feature** of `PROPN`. 100% lemmas (53) occur only with one value of `Abbr`.
 
@@ -36,7 +36,7 @@ The most frequent other feature values with which `NOUN` and `Abbr` co-occurred:
 `NOUN` tokens may have the following values of `Abbr`:
 
 * `Yes` (13; 100% of non-empty `Abbr`): <em>AVM, Borec, HES, Lady, P'nin, PC, TV, YTL, cm, gr</em>
-* `EMPTY` (38338): <em>var, yok, zaman, gün, şey, içinde, yıl, arasında, yer, üzerine</em>
+* `EMPTY` (38352): <em>var, yok, zaman, gün, şey, içinde, yıl, arasında, yer, üzerine</em>
 
 `Abbr` seems to be **lexical feature** of `NOUN`. 100% lemmas (11) occur only with one value of `Abbr`.
 

@@ -6,16 +6,16 @@ udver: '2'
 
 ## Treebank Statistics: UD_Italian-Valico: POS Tags: `ADV`
 
-There are 94 `ADV` lemmas (9%), 99 `ADV` types (7%) and 390 `ADV` tokens (6%).
+There are 94 `ADV` lemmas (9%), 99 `ADV` types (7%) and 391 `ADV` tokens (6%).
 Out of 16 observed tags, the rank of `ADV` is: 4 in number of lemmas, 4 in number of types and 8 in number of tokens.
 
 The 10 most frequent `ADV` lemmas: <em>non, molto, ieri, poi, come, più, così, anche, invece, subito</em>
 
 The 10 most frequent `ADV` types:  <em>non, molto, Ieri, poi, come, più, anche, così, invece, subito</em>
 
-The 10 most frequent ambiguous lemmas: <em>non</em> (<tt><a href="it_valico-pos-ADV.html">ADV</a></tt> 87, <tt><a href="it_valico-pos-SCONJ.html">SCONJ</a></tt> 1), <em>molto</em> (<tt><a href="it_valico-pos-ADV.html">ADV</a></tt> 38, <tt><a href="it_valico-pos-DET.html">DET</a></tt> 5, <tt><a href="it_valico-pos-PRON.html">PRON</a></tt> 1), <em>come</em> (<tt><a href="it_valico-pos-ADV.html">ADV</a></tt> 13, <tt><a href="it_valico-pos-SCONJ.html">SCONJ</a></tt> 7), <em>così</em> (<tt><a href="it_valico-pos-ADV.html">ADV</a></tt> 10, <tt><a href="it_valico-pos-SCONJ.html">SCONJ</a></tt> 1), <em>anche</em> (<tt><a href="it_valico-pos-ADV.html">ADV</a></tt> 9, <tt><a href="it_valico-pos-SCONJ.html">SCONJ</a></tt> 1), <em>dopo</em> (<tt><a href="it_valico-pos-ADV.html">ADV</a></tt> 6, <tt><a href="it_valico-pos-ADP.html">ADP</a></tt> 5, <tt><a href="it_valico-pos-SCONJ.html">SCONJ</a></tt> 3), <em>no</em> (<tt><a href="it_valico-pos-ADV.html">ADV</a></tt> 5, <tt><a href="it_valico-pos-INTJ.html">INTJ</a></tt> 2), <em>solo</em> (<tt><a href="it_valico-pos-ADV.html">ADV</a></tt> 5, <tt><a href="it_valico-pos-ADJ.html">ADJ</a></tt> 2), <em>perchè</em> (<tt><a href="it_valico-pos-SCONJ.html">SCONJ</a></tt> 11, <tt><a href="it_valico-pos-ADV.html">ADV</a></tt> 4, <tt><a href="it_valico-pos-NOUN.html">NOUN</a></tt> 1), <em>bene</em> (<tt><a href="it_valico-pos-ADV.html">ADV</a></tt> 3, <tt><a href="it_valico-pos-INTJ.html">INTJ</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>non</em> (<tt><a href="it_valico-pos-ADV.html">ADV</a></tt> 87, <tt><a href="it_valico-pos-SCONJ.html">SCONJ</a></tt> 1), <em>molto</em> (<tt><a href="it_valico-pos-ADV.html">ADV</a></tt> 38, <tt><a href="it_valico-pos-DET.html">DET</a></tt> 5, <tt><a href="it_valico-pos-PRON.html">PRON</a></tt> 1), <em>come</em> (<tt><a href="it_valico-pos-ADV.html">ADV</a></tt> 13, <tt><a href="it_valico-pos-SCONJ.html">SCONJ</a></tt> 7), <em>così</em> (<tt><a href="it_valico-pos-ADV.html">ADV</a></tt> 10, <tt><a href="it_valico-pos-SCONJ.html">SCONJ</a></tt> 1), <em>anche</em> (<tt><a href="it_valico-pos-ADV.html">ADV</a></tt> 9, <tt><a href="it_valico-pos-SCONJ.html">SCONJ</a></tt> 1), <em>dopo</em> (<tt><a href="it_valico-pos-ADV.html">ADV</a></tt> 6, <tt><a href="it_valico-pos-ADP.html">ADP</a></tt> 5, <tt><a href="it_valico-pos-SCONJ.html">SCONJ</a></tt> 3), <em>no</em> (<tt><a href="it_valico-pos-ADV.html">ADV</a></tt> 5, <tt><a href="it_valico-pos-INTJ.html">INTJ</a></tt> 2), <em>solo</em> (<tt><a href="it_valico-pos-ADV.html">ADV</a></tt> 5, <tt><a href="it_valico-pos-ADJ.html">ADJ</a></tt> 2), <em>perchè</em> (<tt><a href="it_valico-pos-SCONJ.html">SCONJ</a></tt> 11, <tt><a href="it_valico-pos-ADV.html">ADV</a></tt> 4, <tt><a href="it_valico-pos-NOUN.html">NOUN</a></tt> 1), <em>li</em> (<tt><a href="it_valico-pos-PRON.html">PRON</a></tt> 9, <tt><a href="it_valico-pos-ADV.html">ADV</a></tt> 3)
 
-The 10 most frequent ambiguous types:  <em>come</em> (<tt><a href="it_valico-pos-ADV.html">ADV</a></tt> 11, <tt><a href="it_valico-pos-SCONJ.html">SCONJ</a></tt> 7), <em>così</em> (<tt><a href="it_valico-pos-ADV.html">ADV</a></tt> 9, <tt><a href="it_valico-pos-SCONJ.html">SCONJ</a></tt> 1), <em>prima</em> (<tt><a href="it_valico-pos-ADV.html">ADV</a></tt> 6, <tt><a href="it_valico-pos-ADJ.html">ADJ</a></tt> 1), <em>dopo</em> (<tt><a href="it_valico-pos-ADV.html">ADV</a></tt> 4, <tt><a href="it_valico-pos-ADP.html">ADP</a></tt> 1, <tt><a href="it_valico-pos-SCONJ.html">SCONJ</a></tt> 1), <em>no</em> (<tt><a href="it_valico-pos-ADV.html">ADV</a></tt> 5, <tt><a href="it_valico-pos-INTJ.html">INTJ</a></tt> 1), <em>solo</em> (<tt><a href="it_valico-pos-ADV.html">ADV</a></tt> 5, <tt><a href="it_valico-pos-ADJ.html">ADJ</a></tt> 1), <em>bene</em> (<tt><a href="it_valico-pos-ADV.html">ADV</a></tt> 3, <tt><a href="it_valico-pos-INTJ.html">INTJ</a></tt> 1), <em>li</em> (<tt><a href="it_valico-pos-PRON.html">PRON</a></tt> 9, <tt><a href="it_valico-pos-ADV.html">ADV</a></tt> 3), <em>perchè</em> (<tt><a href="it_valico-pos-SCONJ.html">SCONJ</a></tt> 11, <tt><a href="it_valico-pos-ADV.html">ADV</a></tt> 1, <tt><a href="it_valico-pos-NOUN.html">NOUN</a></tt> 1), <em>per</em> (<tt><a href="it_valico-pos-ADP.html">ADP</a></tt> 49, <tt><a href="it_valico-pos-ADV.html">ADV</a></tt> 2, <tt><a href="it_valico-pos-SCONJ.html">SCONJ</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>come</em> (<tt><a href="it_valico-pos-ADV.html">ADV</a></tt> 11, <tt><a href="it_valico-pos-SCONJ.html">SCONJ</a></tt> 7), <em>così</em> (<tt><a href="it_valico-pos-ADV.html">ADV</a></tt> 9, <tt><a href="it_valico-pos-SCONJ.html">SCONJ</a></tt> 1), <em>prima</em> (<tt><a href="it_valico-pos-ADV.html">ADV</a></tt> 6, <tt><a href="it_valico-pos-ADJ.html">ADJ</a></tt> 1), <em>dopo</em> (<tt><a href="it_valico-pos-ADV.html">ADV</a></tt> 4, <tt><a href="it_valico-pos-ADP.html">ADP</a></tt> 1, <tt><a href="it_valico-pos-SCONJ.html">SCONJ</a></tt> 1), <em>no</em> (<tt><a href="it_valico-pos-ADV.html">ADV</a></tt> 5, <tt><a href="it_valico-pos-INTJ.html">INTJ</a></tt> 1), <em>solo</em> (<tt><a href="it_valico-pos-ADV.html">ADV</a></tt> 5, <tt><a href="it_valico-pos-ADJ.html">ADJ</a></tt> 1), <em>li</em> (<tt><a href="it_valico-pos-PRON.html">PRON</a></tt> 9, <tt><a href="it_valico-pos-ADV.html">ADV</a></tt> 3), <em>perchè</em> (<tt><a href="it_valico-pos-SCONJ.html">SCONJ</a></tt> 11, <tt><a href="it_valico-pos-ADV.html">ADV</a></tt> 1, <tt><a href="it_valico-pos-NOUN.html">NOUN</a></tt> 1), <em>per</em> (<tt><a href="it_valico-pos-ADP.html">ADP</a></tt> 49, <tt><a href="it_valico-pos-ADV.html">ADV</a></tt> 2, <tt><a href="it_valico-pos-SCONJ.html">SCONJ</a></tt> 1), <em>a</em> (<tt><a href="it_valico-pos-ADP.html">ADP</a></tt> 163, <tt><a href="it_valico-pos-AUX.html">AUX</a></tt> 4, <tt><a href="it_valico-pos-SCONJ.html">SCONJ</a></tt> 2, <tt><a href="it_valico-pos-ADV.html">ADV</a></tt> 1)
 
 
 * <em>come</em>
@@ -37,9 +37,6 @@ The 10 most frequent ambiguous types:  <em>come</em> (<tt><a href="it_valico-pos
 * <em>solo</em>
   * <tt><a href="it_valico-pos-ADV.html">ADV</a></tt> 5: <em>Giacomo non ha capito niente e ha detto : « Ma <b>solo</b> ti ho aiutato ! »</em>
   * <tt><a href="it_valico-pos-ADJ.html">ADJ</a></tt> 1: <em>Per salvare la ragazza di l' uomo che stà per prender la , un uomo <b>solo</b> , che stava per leggere il suo giornale viene per regolare la situazione .</em>
-* <em>bene</em>
-  * <tt><a href="it_valico-pos-ADV.html">ADV</a></tt> 3: <em>Ho visto <b>bene</b> a il uomo e non era così muscoloso come pensavo prima .</em>
-  * <tt><a href="it_valico-pos-INTJ.html">INTJ</a></tt> 1: <em>Va <b>bene</b> continuerò , è stato sufficiente di scrivire su il carattere di questo ragazzo che a la fine non fa un' altra cosa che lggere il giornale in cerca di lavoro , proprio stupido , chi cerca lavoro in questi tempi ?</em>
 * <em>li</em>
   * <tt><a href="it_valico-pos-PRON.html">PRON</a></tt> 9: <em>Lui era un ragazzo buono e ardito : si è alzato , e <b>li</b> è seguito ; quando se <b>li</b> ruscito , ha detto : « Lascia gle la »</em>
   * <tt><a href="it_valico-pos-ADV.html">ADV</a></tt> 3: <em>Un altra uomo , si trova <b>li</b> , seduto su il un panchino di il parco , leggendo un giornale con i suoi occhiali .</em>
@@ -51,10 +48,15 @@ The 10 most frequent ambiguous types:  <em>come</em> (<tt><a href="it_valico-pos
   * <tt><a href="it_valico-pos-ADP.html">ADP</a></tt> 49: <em>Ho seguito loro <b>per</b> due strade e gli ho raggiunto .</em>
   * <tt><a href="it_valico-pos-ADV.html">ADV</a></tt> 2: <em>A il parco , non lo so <b>per</b> chè , un ragazzo pazzo e bruto ha pichiatto a il mio ragazzo ...</em>
   * <tt><a href="it_valico-pos-SCONJ.html">SCONJ</a></tt> 1: <em>﻿Ieri a il parco ha suceso un distrasto <b>per</b> che una donna è andata a il parco con il suo marito ma in il parco aveva una gelateria e hanno comprato un gelato ma la donna ci ha lasciato la sua borsa lì .</em>
+* <em>a</em>
+  * <tt><a href="it_valico-pos-ADP.html">ADP</a></tt> 163: <em>L' uomo cade <b>a</b> il suolo , con la sua lingua fuori , e senza spirito .</em>
+  * <tt><a href="it_valico-pos-AUX.html">AUX</a></tt> 4: <em>finalmente un bel uomo con occhiali si e interposato e <b>a</b> fatto cadere l' uomo brutto per salvare la donna .</em>
+  * <tt><a href="it_valico-pos-SCONJ.html">SCONJ</a></tt> 2: <em>Il fatto era che l' uomo robusto aveva portato a la spalla sua « moglie » perchè lei stava litigando fortemente con una povera impiegata di un negozio di scarpe vecino a il parco perchè non l' aveva fatto il discaount di il 10 % <b>a</b> tal punto che il marito aveva dovuto prender la educatamente .</em>
+  * <tt><a href="it_valico-pos-ADV.html">ADV</a></tt> 1: <em>Questo mi sembrava più carino e gentile ma <b>a</b> il invece , quando ha ascolto la donna gridare , si alzava a l' uomo che sembrava più forte ma neanche caduti a terra .</em>
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.053191 (the average of all parts of speech is 1.389210).
+The form / lemma ratio of `ADV` is 1.053191 (the average of all parts of speech is 1.391304).
 
 The 1st highest number of forms (3) was observed with the lemma “molto”: <em>moltissimo, moltissomo, molto</em>.
 
@@ -62,26 +64,26 @@ The 2nd highest number of forms (2) was observed with the lemma “così”: <em
 
 The 3rd highest number of forms (2) was observed with the lemma “giù”: <em>GIU, giù</em>.
 
-`ADV` occurs with 5 features: <tt><a href="it_valico-feat-PronType.html">PronType</a></tt> (92; 24% instances), <tt><a href="it_valico-feat-Degree.html">Degree</a></tt> (4; 1% instances), <tt><a href="it_valico-feat-Typo.html">Typo</a></tt> (3; 1% instances), <tt><a href="it_valico-feat-Gender.html">Gender</a></tt> (1; 0% instances), <tt><a href="it_valico-feat-Polarity.html">Polarity</a></tt> (1; 0% instances)
+`ADV` occurs with 6 features: <tt><a href="it_valico-feat-PronType.html">PronType</a></tt> (92; 24% instances), <tt><a href="it_valico-feat-ExtPos.html">ExtPos</a></tt> (5; 1% instances), <tt><a href="it_valico-feat-Degree.html">Degree</a></tt> (4; 1% instances), <tt><a href="it_valico-feat-Typo.html">Typo</a></tt> (3; 1% instances), <tt><a href="it_valico-feat-Gender.html">Gender</a></tt> (1; 0% instances), <tt><a href="it_valico-feat-Polarity.html">Polarity</a></tt> (1; 0% instances)
 
-`ADV` occurs with 5 feature-value pairs: `Degree=Abs`, `Gender=Masc`, `Polarity=Neg`, `PronType=Neg`, `Typo=Yes`
+`ADV` occurs with 6 feature-value pairs: `Degree=Abs`, `ExtPos=ADV`, `Gender=Masc`, `Polarity=Neg`, `PronType=Neg`, `Typo=Yes`
 
-`ADV` occurs with 6 feature combinations.
-The most frequent feature combination is `_` (290 tokens).
-Examples: <em>molto, Ieri, poi, come, più, anche, così, invece, subito, prima</em>
+`ADV` occurs with 7 feature combinations.
+The most frequent feature combination is `_` (286 tokens).
+Examples: <em>molto, Ieri, poi, come, più, anche, così, subito, invece, via</em>
 
 
 ## Relations
 
-`ADV` nodes are attached to their parents using 10 different relations: <tt><a href="it_valico-dep-advmod.html">advmod</a></tt> (375; 96% instances), <tt><a href="it_valico-dep-case.html">case</a></tt> (4; 1% instances), <tt><a href="it_valico-dep-conj.html">conj</a></tt> (2; 1% instances), <tt><a href="it_valico-dep-mark.html">mark</a></tt> (2; 1% instances), <tt><a href="it_valico-dep-obl.html">obl</a></tt> (2; 1% instances), <tt><a href="it_valico-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="it_valico-dep-discourse.html">discourse</a></tt> (1; 0% instances), <tt><a href="it_valico-dep-fixed.html">fixed</a></tt> (1; 0% instances), <tt><a href="it_valico-dep-parataxis.html">parataxis</a></tt> (1; 0% instances), <tt><a href="it_valico-dep-root.html">root</a></tt> (1; 0% instances)
+`ADV` nodes are attached to their parents using 10 different relations: <tt><a href="it_valico-dep-advmod.html">advmod</a></tt> (377; 96% instances), <tt><a href="it_valico-dep-case.html">case</a></tt> (3; 1% instances), <tt><a href="it_valico-dep-conj.html">conj</a></tt> (2; 1% instances), <tt><a href="it_valico-dep-mark.html">mark</a></tt> (2; 1% instances), <tt><a href="it_valico-dep-obl.html">obl</a></tt> (2; 1% instances), <tt><a href="it_valico-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="it_valico-dep-discourse.html">discourse</a></tt> (1; 0% instances), <tt><a href="it_valico-dep-fixed.html">fixed</a></tt> (1; 0% instances), <tt><a href="it_valico-dep-parataxis.html">parataxis</a></tt> (1; 0% instances), <tt><a href="it_valico-dep-root.html">root</a></tt> (1; 0% instances)
 
-Parents of `ADV` nodes belong to 9 different parts of speech: <tt><a href="it_valico-pos-VERB.html">VERB</a></tt> (245; 63% instances), <tt><a href="it_valico-pos-ADJ.html">ADJ</a></tt> (86; 22% instances), <tt><a href="it_valico-pos-NOUN.html">NOUN</a></tt> (39; 10% instances), <tt><a href="it_valico-pos-ADV.html">ADV</a></tt> (8; 2% instances), <tt><a href="it_valico-pos-PRON.html">PRON</a></tt> (8; 2% instances), <tt><a href="it_valico-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="it_valico-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="it_valico-pos-PROPN.html">PROPN</a></tt> (1; 0% instances),  (1; 0% instances)
+Parents of `ADV` nodes belong to 8 different parts of speech: <tt><a href="it_valico-pos-VERB.html">VERB</a></tt> (247; 63% instances), <tt><a href="it_valico-pos-ADJ.html">ADJ</a></tt> (86; 22% instances), <tt><a href="it_valico-pos-NOUN.html">NOUN</a></tt> (39; 10% instances), <tt><a href="it_valico-pos-ADV.html">ADV</a></tt> (9; 2% instances), <tt><a href="it_valico-pos-PRON.html">PRON</a></tt> (7; 2% instances), <tt><a href="it_valico-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="it_valico-pos-PROPN.html">PROPN</a></tt> (1; 0% instances),  (1; 0% instances)
 
-348 (89%) `ADV` nodes are leaves.
+350 (90%) `ADV` nodes are leaves.
 
-34 (9%) `ADV` nodes have one child.
+32 (8%) `ADV` nodes have one child.
 
-4 (1%) `ADV` nodes have two children.
+5 (1%) `ADV` nodes have two children.
 
 4 (1%) `ADV` nodes have three or more children.
 
@@ -89,5 +91,5 @@ The highest child degree of a `ADV` node is 5.
 
 Children of `ADV` nodes are attached using 12 different relations: <tt><a href="it_valico-dep-punct.html">punct</a></tt> (23; 40% instances), <tt><a href="it_valico-dep-advmod.html">advmod</a></tt> (7; 12% instances), <tt><a href="it_valico-dep-case.html">case</a></tt> (7; 12% instances), <tt><a href="it_valico-dep-fixed.html">fixed</a></tt> (6; 11% instances), <tt><a href="it_valico-dep-cc.html">cc</a></tt> (3; 5% instances), <tt><a href="it_valico-dep-goeswith.html">goeswith</a></tt> (3; 5% instances), <tt><a href="it_valico-dep-cop.html">cop</a></tt> (2; 4% instances), <tt><a href="it_valico-dep-obl.html">obl</a></tt> (2; 4% instances), <tt><a href="it_valico-dep-csubj.html">csubj</a></tt> (1; 2% instances), <tt><a href="it_valico-dep-det.html">det</a></tt> (1; 2% instances), <tt><a href="it_valico-dep-mark.html">mark</a></tt> (1; 2% instances), <tt><a href="it_valico-dep-nsubj.html">nsubj</a></tt> (1; 2% instances)
 
-Children of `ADV` nodes belong to 10 different parts of speech: <tt><a href="it_valico-pos-PUNCT.html">PUNCT</a></tt> (23; 40% instances), <tt><a href="it_valico-pos-ADP.html">ADP</a></tt> (13; 23% instances), <tt><a href="it_valico-pos-ADV.html">ADV</a></tt> (8; 14% instances), <tt><a href="it_valico-pos-CCONJ.html">CCONJ</a></tt> (3; 5% instances), <tt><a href="it_valico-pos-X.html">X</a></tt> (3; 5% instances), <tt><a href="it_valico-pos-AUX.html">AUX</a></tt> (2; 4% instances), <tt><a href="it_valico-pos-NOUN.html">NOUN</a></tt> (2; 4% instances), <tt><a href="it_valico-pos-DET.html">DET</a></tt> (1; 2% instances), <tt><a href="it_valico-pos-SCONJ.html">SCONJ</a></tt> (1; 2% instances), <tt><a href="it_valico-pos-VERB.html">VERB</a></tt> (1; 2% instances)
+Children of `ADV` nodes belong to 10 different parts of speech: <tt><a href="it_valico-pos-PUNCT.html">PUNCT</a></tt> (23; 40% instances), <tt><a href="it_valico-pos-ADP.html">ADP</a></tt> (11; 19% instances), <tt><a href="it_valico-pos-ADV.html">ADV</a></tt> (9; 16% instances), <tt><a href="it_valico-pos-CCONJ.html">CCONJ</a></tt> (3; 5% instances), <tt><a href="it_valico-pos-X.html">X</a></tt> (3; 5% instances), <tt><a href="it_valico-pos-AUX.html">AUX</a></tt> (2; 4% instances), <tt><a href="it_valico-pos-DET.html">DET</a></tt> (2; 4% instances), <tt><a href="it_valico-pos-NOUN.html">NOUN</a></tt> (2; 4% instances), <tt><a href="it_valico-pos-SCONJ.html">SCONJ</a></tt> (1; 2% instances), <tt><a href="it_valico-pos-VERB.html">VERB</a></tt> (1; 2% instances)
 

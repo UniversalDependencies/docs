@@ -175,7 +175,7 @@ The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>VERB --[<tt><a href="ta_mwtt-dep-obl.html">obl</a></tt>]--> NOUN</tt> (87; 82%),
 <tt>VERB --[<tt><a href="ta_mwtt-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (62; 60%),
 <tt>VERB --[<tt><a href="ta_mwtt-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (51; 73%),
-<tt>VERB --[<tt><a href="ta_mwtt-dep-nsubj-nc.html">nsubj:nc</a></tt>]--> PROPN</tt> (20; 71%),
+<tt>VERB --[<tt><a href="ta_mwtt-dep-nsubj-nc.html">nsubj:nc</a></tt>]--> PROPN</tt> (20; 74%),
 <tt>NOUN --[<tt><a href="ta_mwtt-dep-nmod-poss.html">nmod:poss</a></tt>]--> PRON</tt> (18; 72%),
 <tt>VERB --[<tt><a href="ta_mwtt-dep-obl-tmod.html">obl:tmod</a></tt>]--> NOUN</tt> (18; 69%),
 <tt>VERB --[<tt><a href="ta_mwtt-dep-iobj.html">iobj</a></tt>]--> NOUN</tt> (16; 94%),

@@ -7,6 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Polish-PUD: Relations: `acl:relcl`
 
 This relation is a language-specific subtype of <tt><a href="pl_pud-dep-acl.html">acl</a></tt>.
+There are also 1 other language-specific subtypes of `acl`: <tt><a href="pl_pud-dep-acl-cmp.html">acl:cmp</a></tt>.
 
 179 nodes (1%) are attached to their parents as `acl:relcl`.
 

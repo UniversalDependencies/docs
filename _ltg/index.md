@@ -6,7 +6,7 @@ udver: '2'
 
 # UD for Latgalian <span class="flagspan"><img class="flag" src="../../flags/svg/LV-LTG.svg" /></span>
 
-It is important to note that currently UD guidelines for annotating Latgalian is in a very early stage as not much text has been annotated yet.
+It is important to note that currently UD guidelines for annotating Latgalian is in a very early stage as not much text has been annotated yet. Currently these guidelines are strongly based on Latvian guidelines and everything not described here is assumed to be annotated similarly as Latvian. **NB!** This is subject to change when more texts will be annotated.
 
 
 ## Tokenization and Word Segmentation
@@ -54,6 +54,10 @@ Verbs with modal meaning are not considered auxiliary in Latgalian.
 #### Deverbal Nouns, Participles, Coverbs
 
 Latgalian features rich set of deverbal derivations and not everything has been analized to align with UD guidelines yet. However, deverbal nouns with endings _-šona_, _-šonuos_ (_skrīšona_ "running") are tagged as [NOUN](). Most converbs with endings _-ūt_,  _-ūts_, _-ūte_, _-ūtīs_, _-om_, _-omīs_, _-dams_, _-dama_, _-damīs_, _-damuos_ are tagged as `VERB` or `AUX`. Most adjectival participles (_radzams_, _aizguojs_, _nagaideits_, _valkūšs_) are tagged as `VERB`.  Exceptions are lexicalized uses with separate meaning, like _prūtams_ "of course", _acimradzūt_ "obvious", which are tagged as `PART`, and _īspiejams_ "possible", which is tagged as `ADJ`.
+
+#### Nouns and Proper Nouns
+
+In Latgalian proper nouns are generally capitalized, when used in the midle of the sentence. Days of the week (_pyrmūdīne_ "Monday", _ūtardīne_ "Tuesday", _trešdīne_ "Wednesday", _catūrtdīne_ "Thursday", _pīktdīne_ "Friday", _sastdīne_ "Saturday", _svātdīne_ "Sunday") and months (_janvars_ "January", _februars_ "February", _marts_ "March", _apreļs_ "April", _majs_ "May", _juņs_ "June", _juļs_ "July", _augusts_ "August", _septembris_ "September", _oktobris_ "October", _novembris_ "November", _decembris_ "December") are common nouns, i.e., `NOUN`. Some names of the months can be also used as person names (first names _Marts_ and _Augusts_), then they are always capitalized and annotated `PROPN`.
 
 
 ### Features
@@ -104,6 +108,10 @@ Latgalian features rich set of deverbal derivations and not everything has been 
     * As a cross-reference to subject, person is also marked on finite verbs (`VERB`, [AUX]()).
 * [Foreign]() is annotated `Yes` for foreign words [X]().
 * [Abbr]() is annotated `Yes` for abbreviations, which can be nouns [NOUN]() (_DJ_), [PROPN]() (_NATO_), `ADJ` (_gūd._ "honored"), `VERB` (_sal._ "compare"), `ADV` (_p.Kr._ "anno Domini"), `SYM` (_v.tml._ "etc.").
+
+#### ExtPos
+
+[ExtPos]() is currently used for annotating `fixed` constructions. See [ExtPos]() for Latgalian for currently used values and examples.
 
 #### Unused Features
 

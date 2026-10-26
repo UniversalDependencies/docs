@@ -16,12 +16,14 @@ The feature is used with 2 part-of-speech tags: <tt><a href="pay_chibergis-pos-A
 
 ### `ADP`
 
-1 <tt><a href="pay_chibergis-pos-ADP.html">ADP</a></tt> tokens (1% of all `ADP` tokens) have a non-empty value of `PronType`.
+1 <tt><a href="pay_chibergis-pos-ADP.html">ADP</a></tt> tokens (0% of all `ADP` tokens) have a non-empty value of `PronType`.
+
+The most frequent other feature values with which `ADP` and `PronType` co-occurred: <tt><a href="pay_chibergis-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1; 100%).
 
 `ADP` tokens may have the following values of `PronType`:
 
 * `Int` (1; 100% of non-empty `PronType`): <em>=kanki</em>
-* `EMPTY` (173): <em>=yã, =yo, =ma, =ra, =kan, =ya, =ken, =ri, =mã, =ni</em>
+* `EMPTY` (261): <em>=yã, =yo, =ra, =ri, =ma, =ya, =ken, =ro, =kan, =re</em>
 
 ### `PART`
 
@@ -30,5 +32,5 @@ The feature is used with 2 part-of-speech tags: <tt><a href="pay_chibergis-pos-A
 `PART` tokens may have the following values of `PronType`:
 
 * `Int` (1; 100% of non-empty `PronType`): <em>=kanka</em>
-* `EMPTY` (316): <em>=ma, =kan, =na, =pe, =hã, ãma, =ras, =sa, =mã, =pra</em>
+* `EMPTY` (556): <em>=ma, =kan, =hã, =na, =pe, ãma, =ras, =ken, =sa, ĩka</em>
 

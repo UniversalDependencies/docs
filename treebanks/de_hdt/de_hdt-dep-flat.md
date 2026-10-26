@@ -61,7 +61,7 @@ The following 9 pairs of parts of speech are connected with `flat`: <tt><a href=
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 3 flat	color:blue
-1	Deutsche	deutsch	ADJ	ADJA	Degree=Pos|Gender=Fem|Number=Sing	2	amod	_	_
+1	Deutsche	deutsch	ADJ	ADJA	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	2	amod	_	_
 2	Bank	Bank	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	_
 3	24	24	NUM	CARD	Number=Plur|NumType=Card	2	flat	_	_
 4	und	und	CCONJ	KON	_	5	cc	_	_

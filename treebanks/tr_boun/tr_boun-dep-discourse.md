@@ -59,9 +59,9 @@ The following 50 pairs of parts of speech are connected with `discourse`: <tt><a
 # visual-style 8 1 discourse	color:blue
 1	Hey	hey	INTJ	_	_	8	discourse	_	SpaceAfter=No
 2	,	,	PUNCT	Comma	_	8	punct	_	_
-3	bizim	biz	PRON	Pers	Case=Gen|Number=Plur|Person=1	7	nmod:poss	_	_
+3	bizim	biz	PRON	Pers	Case=Gen|Number=Plur|Person=1|PronType=Prs	7	nmod:poss	_	_
 4	de	de	CCONJ	Conj	_	3	advmod:emph	_	_
-5	bir	bir	DET	Indef	_	7	det	_	_
+5	bir	bir	DET	Indef	PronType=Ind	7	det	_	_
 6	pop	pop	NOUN	_	Case=Nom|Number=Sing|Person=3	7	compound	_	_
 7	geçmişimiz	geçmiş	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Plur|Person=3|Person[psor]=1	8	nsubj	_	_
 8	var	var	NOUN	Exist	Number=Sing|Person=3|Polarity=Pos	0	root	_	SpaceAfter=No

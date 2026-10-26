@@ -9,10 +9,10 @@ udver: '2'
 This feature is language-specific.
 It occurs with 4 different values: `Combi`, `Digit`, `Roman`, `Word`.
 
-525 tokens (2%) have a non-empty value of `NumForm`.
-244 types (5%) occur at least once with a non-empty value of `NumForm`.
-235 lemmas (5%) occur at least once with a non-empty value of `NumForm`.
-The feature is used with 4 part-of-speech tags: <tt><a href="en_pud-pos-NUM.html">NUM</a></tt> (464; 2% instances), <tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> (56; 0% instances), <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="en_pud-pos-DET.html">DET</a></tt> (1; 0% instances).
+544 tokens (3%) have a non-empty value of `NumForm`.
+254 types (5%) occur at least once with a non-empty value of `NumForm`.
+245 lemmas (5%) occur at least once with a non-empty value of `NumForm`.
+The feature is used with 5 part-of-speech tags: <tt><a href="en_pud-pos-NUM.html">NUM</a></tt> (464; 2% instances), <tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> (61; 0% instances), <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (14; 0% instances), <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="en_pud-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 ### `NUM`
 
@@ -30,16 +30,28 @@ The most frequent other feature values with which `NUM` and `NumForm` co-occurre
 
 ### `ADJ`
 
-56 <tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> tokens (4% of all `ADJ` tokens) have a non-empty value of `NumForm`.
+61 <tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> tokens (4% of all `ADJ` tokens) have a non-empty value of `NumForm`.
 
-The most frequent other feature values with which `ADJ` and `NumForm` co-occurred: <tt><a href="en_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (56; 100%).
+The most frequent other feature values with which `ADJ` and `NumForm` co-occurred: <tt><a href="en_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (61; 100%).
 
 `ADJ` tokens may have the following values of `NumForm`:
 
-* `Combi` (18; 32% of non-empty `NumForm`): <em>8th, 16th, 20th, 3rd, 5th, 13th, 14th, 15th, 1st, 45th</em>
-* `Word` (38; 68% of non-empty `NumForm`): <em>first, second, third, fourth</em>
+* `Combi` (18; 30% of non-empty `NumForm`): <em>8th, 16th, 20th, 3rd, 5th, 13th, 14th, 15th, 1st, 45th</em>
+* `Word` (43; 70% of non-empty `NumForm`): <em>first, second, third, fourth</em>
 
 `NumForm` seems to be **lexical feature** of `ADJ`. 100% lemmas (18) occur only with one value of `NumForm`.
+
+### `NOUN`
+
+14 <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `NumForm`.
+
+The most frequent other feature values with which `NOUN` and `NumForm` co-occurred: <tt><a href="en_pud-feat-Number.html">Number</a></tt><tt>=Ptan</tt> (14; 100%).
+
+`NOUN` tokens may have the following values of `NumForm`:
+
+* `Combi` (14; 100% of non-empty `NumForm`): <em>1960s, 1970s, 1990s, 1350s, 1950s, 1980s, 2000s, 60s, mid-1970s, mid-1980s</em>
+
+`NumForm` seems to be **lexical feature** of `NOUN`. 100% lemmas (10) occur only with one value of `NumForm`.
 
 ### `ADV`
 
@@ -64,8 +76,8 @@ The most frequent other feature values with which `DET` and `NumForm` co-occurre
 ## Relations with Agreement in `NumForm`
 
 The 10 most frequent relations where parent and child node agree in `NumForm`:
+<tt>NUM --[<tt><a href="en_pud-dep-nmod-unmarked.html">nmod:unmarked</a></tt>]--> NUM</tt> (11; 100%),
 <tt>NUM --[<tt><a href="en_pud-dep-conj.html">conj</a></tt>]--> NUM</tt> (7; 100%),
-<tt>NUM --[<tt><a href="en_pud-dep-nmod.html">nmod</a></tt>]--> NUM</tt> (5; 83%),
-<tt>NUM --[<tt><a href="en_pud-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (4; 67%),
+<tt>NUM --[<tt><a href="en_pud-dep-nmod.html">nmod</a></tt>]--> NUM</tt> (7; 88%),
 <tt>NUM --[<tt><a href="en_pud-dep-compound.html">compound</a></tt>]--> DET</tt> (1; 100%).
 

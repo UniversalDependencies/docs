@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Kyrgyz-TueCL: POS Tags: `PART`
 
-There are 3 `PART` lemmas (1%), 7 `PART` types (2%) and 24 `PART` tokens (2%).
-Out of 15 observed tags, the rank of `PART` is: 14 in number of lemmas, 9 in number of types and 9 in number of tokens.
+There are 3 `PART` lemmas (1%), 8 `PART` types (2%) and 28 `PART` tokens (2%).
+Out of 16 observed tags, the rank of `PART` is: 14 in number of lemmas, 8 in number of types and 9 in number of tokens.
 
 The 10 most frequent `PART` lemmas: <em>бы, тур, ээ</em>
 
-The 10 most frequent `PART` types:  <em>би, бы, б, бү, пу, тургандыгы, ээ</em>
+The 10 most frequent `PART` types:  <em>би, бы, б, бү, бу, пу, тургандыгы, ээ</em>
 
-The 10 most frequent ambiguous lemmas: <em>тур</em> (<tt><a href="ky_tuecl-pos-AUX.html">AUX</a></tt> 2, <tt><a href="ky_tuecl-pos-PART.html">PART</a></tt> 1), <em>ээ</em> (<tt><a href="ky_tuecl-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="ky_tuecl-pos-PART.html">PART</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>тур</em> (<tt><a href="ky_tuecl-pos-AUX.html">AUX</a></tt> 3, <tt><a href="ky_tuecl-pos-PART.html">PART</a></tt> 1), <em>ээ</em> (<tt><a href="ky_tuecl-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="ky_tuecl-pos-PART.html">PART</a></tt> 1)
 
 The 10 most frequent ambiguous types:  
 
@@ -21,9 +21,9 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 2.333333 (the average of all parts of speech is 1.466899).
+The form / lemma ratio of `PART` is 2.666667 (the average of all parts of speech is 1.492355).
 
-The 1st highest number of forms (5) was observed with the lemma “бы”: <em>б, би, бы, бү, пу</em>.
+The 1st highest number of forms (6) was observed with the lemma “бы”: <em>б, би, бу, бы, бү, пу</em>.
 
 The 2nd highest number of forms (1) was observed with the lemma “тур”: <em>тургандыгы</em>.
 
@@ -34,11 +34,11 @@ The 3rd highest number of forms (1) was observed with the lemma “ээ”: <em>
 
 ## Relations
 
-`PART` nodes are attached to their parents using 3 different relations: <tt><a href="ky_tuecl-dep-discourse.html">discourse</a></tt> (22; 92% instances), <tt><a href="ky_tuecl-dep-fixed.html">fixed</a></tt> (1; 4% instances), <tt><a href="ky_tuecl-dep-parataxis.html">parataxis</a></tt> (1; 4% instances)
+`PART` nodes are attached to their parents using 3 different relations: <tt><a href="ky_tuecl-dep-discourse.html">discourse</a></tt> (26; 93% instances), <tt><a href="ky_tuecl-dep-fixed.html">fixed</a></tt> (1; 4% instances), <tt><a href="ky_tuecl-dep-parataxis.html">parataxis</a></tt> (1; 4% instances)
 
-Parents of `PART` nodes belong to 3 different parts of speech: <tt><a href="ky_tuecl-pos-VERB.html">VERB</a></tt> (15; 63% instances), <tt><a href="ky_tuecl-pos-ADJ.html">ADJ</a></tt> (5; 21% instances), <tt><a href="ky_tuecl-pos-NOUN.html">NOUN</a></tt> (4; 17% instances)
+Parents of `PART` nodes belong to 3 different parts of speech: <tt><a href="ky_tuecl-pos-VERB.html">VERB</a></tt> (15; 54% instances), <tt><a href="ky_tuecl-pos-ADJ.html">ADJ</a></tt> (7; 25% instances), <tt><a href="ky_tuecl-pos-NOUN.html">NOUN</a></tt> (6; 21% instances)
 
-23 (96%) `PART` nodes are leaves.
+27 (96%) `PART` nodes are leaves.
 
 1 (4%) `PART` nodes have one child.
 

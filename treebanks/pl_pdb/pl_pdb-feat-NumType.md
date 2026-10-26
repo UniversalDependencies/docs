@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Card`, `Ord`, `Sets`.
 
-3359 tokens (1%) have a non-empty value of `NumType`.
-669 types (1%) occur at least once with a non-empty value of `NumType`.
-613 lemmas (2%) occur at least once with a non-empty value of `NumType`.
-The feature is used with 5 part-of-speech tags: <tt><a href="pl_pdb-pos-NUM.html">NUM</a></tt> (1333; 0% instances), <tt><a href="pl_pdb-pos-ADJ.html">ADJ</a></tt> (1159; 0% instances), <tt><a href="pl_pdb-pos-NOUN.html">NOUN</a></tt> (725; 0% instances), <tt><a href="pl_pdb-pos-DET.html">DET</a></tt> (136; 0% instances), <tt><a href="pl_pdb-pos-PROPN.html">PROPN</a></tt> (6; 0% instances).
+3361 tokens (1%) have a non-empty value of `NumType`.
+671 types (1%) occur at least once with a non-empty value of `NumType`.
+615 lemmas (2%) occur at least once with a non-empty value of `NumType`.
+The feature is used with 5 part-of-speech tags: <tt><a href="pl_pdb-pos-NUM.html">NUM</a></tt> (1333; 0% instances), <tt><a href="pl_pdb-pos-ADJ.html">ADJ</a></tt> (1159; 0% instances), <tt><a href="pl_pdb-pos-NOUN.html">NOUN</a></tt> (727; 0% instances), <tt><a href="pl_pdb-pos-DET.html">DET</a></tt> (136; 0% instances), <tt><a href="pl_pdb-pos-PROPN.html">PROPN</a></tt> (6; 0% instances).
 
 ### `NUM`
 
@@ -37,28 +37,28 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 `ADJ` tokens may have the following values of `NumType`:
 
 * `Ord` (1159; 100% of non-empty `NumType`): <em>1, II, 2008, 2000, 2009, 2, 15, 1995, 20, XIX</em>
-* `EMPTY` (34769): <em>innych, jeden, sam, inne, europejskiej, pierwszy, różnych, jednym, cały, nowych</em>
+* `EMPTY` (34767): <em>innych, jeden, sam, inne, europejskiej, pierwszy, różnych, jednym, cały, nowych</em>
 
 `NumType` seems to be **lexical feature** of `ADJ`. 100% lemmas (271) occur only with one value of `NumType`.
 
 ### `NOUN`
 
-725 <tt><a href="pl_pdb-pos-NOUN.html">NOUN</a></tt> tokens (1% of all `NOUN` tokens) have a non-empty value of `NumType`.
+727 <tt><a href="pl_pdb-pos-NOUN.html">NOUN</a></tt> tokens (1% of all `NOUN` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `NOUN` and `NumType` co-occurred: <tt><a href="pl_pdb-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (725; 100%), <tt><a href="pl_pdb-feat-Gender.html">Gender</a></tt><tt>=Neut</tt> (725; 100%), <tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Plur</tt> (436; 60%).
+The most frequent other feature values with which `NOUN` and `NumType` co-occurred: <tt><a href="pl_pdb-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (727; 100%), <tt><a href="pl_pdb-feat-Gender.html">Gender</a></tt><tt>=Neut</tt> (727; 100%), <tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Plur</tt> (437; 60%).
 
 `NOUN` tokens may have the following values of `NumType`:
 
-* `Sets` (725; 100% of non-empty `NumType`): <em>dzieci, dziecko, oczy, dziecka, oczach, dzieckiem, oczami, zwierząt, dziećmi, oczu</em>
-* `EMPTY` (87909): <em>mężczyzna, roku, pan, kobieta, lat, r, człowiek, pracy, chłopiec, osób</em>
+* `Sets` (727; 100% of non-empty `NumType`): <em>dzieci, dziecko, oczy, dziecka, oczach, dzieckiem, oczami, zwierząt, dziećmi, oczu</em>
+* `EMPTY` (87890): <em>mężczyzna, roku, pan, kobieta, lat, r, człowiek, pracy, chłopiec, osób</em>
 
-`NumType` seems to be **lexical feature** of `NOUN`. 100% lemmas (16) occur only with one value of `NumType`.
+`NumType` seems to be **lexical feature** of `NOUN`. 100% lemmas (18) occur only with one value of `NumType`.
 
 ### `DET`
 
 136 <tt><a href="pl_pdb-pos-DET.html">DET</a></tt> tokens (1% of all `DET` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `DET` and `NumType` co-occurred: <tt><a href="pl_pdb-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (136; 100%), <tt><a href="pl_pdb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (136; 100%), <tt><a href="pl_pdb-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (136; 100%), <tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Plur</tt> (116; 85%), <tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=Acc</tt> (90; 66%), <tt><a href="pl_pdb-feat-PronType.html">PronType</a></tt><tt>=Int</tt> (79; 58%), <tt><a href="pl_pdb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (78; 57%).
+The most frequent other feature values with which `DET` and `NumType` co-occurred: <tt><a href="pl_pdb-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (136; 100%), <tt><a href="pl_pdb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (136; 100%), <tt><a href="pl_pdb-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (136; 100%), <tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Plur</tt> (115; 85%), <tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=Acc</tt> (89; 65%), <tt><a href="pl_pdb-feat-PronType.html">PronType</a></tt><tt>=Int</tt> (79; 58%), <tt><a href="pl_pdb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (78; 57%).
 
 `DET` tokens may have the following values of `NumType`:
 
@@ -75,7 +75,7 @@ The most frequent other feature values with which `PROPN` and `NumType` co-occur
 `PROPN` tokens may have the following values of `NumType`:
 
 * `Sets` (6; 100% of non-empty `NumType`): <em>Hedestad, INE, Lakis, Plovdiv, Poste, SUD</em>
-* `EMPTY` (11994): <em>Polsce, Polski, UE, Europy, Andrzej, Polska, Europie, Warszawie, Jerzy, SLD</em>
+* `EMPTY` (11950): <em>Polsce, Polski, UE, Europy, Andrzej, Polska, Europie, Warszawie, Jerzy, SLD</em>
 
 ## Relations with Agreement in `NumType`
 

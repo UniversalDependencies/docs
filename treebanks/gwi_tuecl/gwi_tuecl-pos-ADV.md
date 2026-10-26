@@ -42,7 +42,7 @@ The 3rd highest number of forms (1) was observed with the lemma “chan”: <em>
 
 `ADV` nodes are attached to their parents using 3 different relations: <tt><a href="gwi_tuecl-dep-advmod.html">advmod</a></tt> (37; 93% instances), <tt><a href="gwi_tuecl-dep-obl.html">obl</a></tt> (2; 5% instances), <tt><a href="gwi_tuecl-dep-case.html">case</a></tt> (1; 3% instances)
 
-Parents of `ADV` nodes belong to 3 different parts of speech: <tt><a href="gwi_tuecl-pos-VERB.html">VERB</a></tt> (35; 88% instances), <tt><a href="gwi_tuecl-pos-NOUN.html">NOUN</a></tt> (4; 10% instances), <tt><a href="gwi_tuecl-pos-PROPN.html">PROPN</a></tt> (1; 3% instances)
+Parents of `ADV` nodes belong to 3 different parts of speech: <tt><a href="gwi_tuecl-pos-VERB.html">VERB</a></tt> (36; 90% instances), <tt><a href="gwi_tuecl-pos-NOUN.html">NOUN</a></tt> (3; 8% instances), <tt><a href="gwi_tuecl-pos-PROPN.html">PROPN</a></tt> (1; 3% instances)
 
 36 (90%) `ADV` nodes are leaves.
 

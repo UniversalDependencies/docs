@@ -13,7 +13,7 @@ This relation is universal.
 1800 instances of `root` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 8.37111111111111.
 
-The following 9 pairs of parts of speech are connected with `root`: -<tt><a href="hu_szeged-pos-VERB.html">VERB</a></tt> (1461; 81% instances), -<tt><a href="hu_szeged-pos-ADJ.html">ADJ</a></tt> (145; 8% instances), -<tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt> (130; 7% instances), -<tt><a href="hu_szeged-pos-PRON.html">PRON</a></tt> (23; 1% instances), -<tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> (18; 1% instances), -<tt><a href="hu_szeged-pos-PROPN.html">PROPN</a></tt> (13; 1% instances), -<tt><a href="hu_szeged-pos-NUM.html">NUM</a></tt> (5; 0% instances), -<tt><a href="hu_szeged-pos-DET.html">DET</a></tt> (3; 0% instances), -<tt><a href="hu_szeged-pos-INTJ.html">INTJ</a></tt> (2; 0% instances).
+The following 9 pairs of parts of speech are connected with `root`: -<tt><a href="hu_szeged-pos-VERB.html">VERB</a></tt> (1461; 81% instances), -<tt><a href="hu_szeged-pos-ADJ.html">ADJ</a></tt> (145; 8% instances), -<tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt> (130; 7% instances), -<tt><a href="hu_szeged-pos-PRON.html">PRON</a></tt> (23; 1% instances), -<tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> (19; 1% instances), -<tt><a href="hu_szeged-pos-PROPN.html">PROPN</a></tt> (13; 1% instances), -<tt><a href="hu_szeged-pos-NUM.html">NUM</a></tt> (4; 0% instances), -<tt><a href="hu_szeged-pos-DET.html">DET</a></tt> (3; 0% instances), -<tt><a href="hu_szeged-pos-INTJ.html">INTJ</a></tt> (2; 0% instances).
 
 
 ~~~ conllu

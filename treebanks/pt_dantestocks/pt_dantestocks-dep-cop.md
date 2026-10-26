@@ -25,7 +25,7 @@ The following 9 pairs of parts of speech are connected with `cop`: <tt><a href="
 1	#llxl3	#llxl3	PROPN	_	_	4	nmod	_	_
 2	Tô	estar	AUX	_	Abbr=Yes|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	cop	_	FullForm=estou
 3	de	de	ADP	_	_	4	case	_	_
-4	olho	olho	NOUN	_	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+4	olho	olho	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
 
 ~~~
 
@@ -43,7 +43,7 @@ The following 9 pairs of parts of speech are connected with `cop`: <tt><a href="
 5	@	@	SYM	_	_	6	case	_	_
 6	R$	R$	SYM	_	_	4	nmod	_	SpaceAfter=No
 7	13,65	13,65	NUM	_	NumType=Card	6	nummod	_	_
-8	@Live_Trade	@Live_Trade	PROPN	_	_	2	vocative	_	SpaceAfter=No
+8	@Live_Trade	@Live_Trade	PROPN	_	_	2	vocative	_	_
 
 ~~~
 
@@ -63,7 +63,7 @@ The following 9 pairs of parts of speech are connected with `cop`: <tt><a href="
 7	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
 8	Diario	diário	NOUN	_	Gender=Masc|Number=Sing|Typo=Yes	5	obl	_	CorrectForm=Diário
 9	...	...	PUNCT	_	_	5	punct	_	_
-10	http://t.co/pqz98ODAEn	http://t.co/pqz98ODAEn	SYM	_	_	5	parataxis	_	SpaceAfter=No
+10	http://t.co/pqz98ODAEn	http://t.co/pqz98ODAEn	SYM	_	_	5	parataxis	_	_
 
 ~~~
 

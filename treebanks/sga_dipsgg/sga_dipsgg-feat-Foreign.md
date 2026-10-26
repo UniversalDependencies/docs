@@ -23,7 +23,7 @@ The most frequent other feature values with which `NOUN` and `Foreign` co-occurr
 `NOUN` tokens may have the following values of `Foreign`:
 
 * `Yes` (9; 100% of non-empty `Foreign`): <em>animalis, femininum, nomen, pedo, sona, vesíca, ᚃᚓᚏᚔᚐ, ᚆᚑᚇᚔᚓ, accentus</em>
-* `EMPTY` (109): <em>ᚉᚑᚉᚐᚏᚈ, dia, dias, ingen, ainm, airdircus, aite, aithne, anmmain, bachal</em>
+* `EMPTY` (110): <em>ᚉᚑᚉᚐᚏᚈ, dia, dias, ingen, ainm, airdircus, aite, aithne, anmmain, bachal</em>
 
 ### `VERB`
 
@@ -91,14 +91,14 @@ The most frequent other feature values with which `ADJ` and `Foreign` co-occurre
 
 ### `PROPN`
 
-1 <tt><a href="sga_dipsgg-pos-PROPN.html">PROPN</a></tt> tokens (6% of all `PROPN` tokens) have a non-empty value of `Foreign`.
+1 <tt><a href="sga_dipsgg-pos-PROPN.html">PROPN</a></tt> tokens (7% of all `PROPN` tokens) have a non-empty value of `Foreign`.
 
 The most frequent other feature values with which `PROPN` and `Foreign` co-occurred: <tt><a href="sga_dipsgg-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="sga_dipsgg-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1; 100%).
 
 `PROPN` tokens may have the following values of `Foreign`:
 
 * `Yes` (1; 100% of non-empty `Foreign`): <em>isidorus</em>
-* `EMPTY` (15): <em>brigtae, choirbbre, dongus, donngvs, ferguso, finguine, lothlind, maddoc, mail, máel</em>
+* `EMPTY` (14): <em>brigtae, choirbbre, dongus, donngvs, ferguso, finguine, lothlind, maddoc, máel, máelecán</em>
 
 ## Relations with Agreement in `Foreign`
 

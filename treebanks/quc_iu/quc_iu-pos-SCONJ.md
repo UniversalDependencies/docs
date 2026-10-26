@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Kiche-IU: POS Tags: `SCONJ`
 
 There are 12 `SCONJ` lemmas (1%), 11 `SCONJ` types (0%) and 150 `SCONJ` tokens (1%).
-Out of 15 observed tags, the rank of `SCONJ` is: 10 in number of lemmas, 10 in number of types and 12 in number of tokens.
+Out of 16 observed tags, the rank of `SCONJ` is: 10 in number of lemmas, 10 in number of types and 12 in number of tokens.
 
 The 10 most frequent `SCONJ` lemmas: <em>chi, we¹, rech, taq, we², chiʼ, pine, le, rumal, are</em>
 
@@ -56,7 +56,7 @@ The 10 most frequent ambiguous types:  <em>chi</em> (<tt><a href="quc_iu-pos-ADP
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 0.916667 (the average of all parts of speech is 1.617880).
+The form / lemma ratio of `SCONJ` is 0.916667 (the average of all parts of speech is 1.617435).
 
 The 1st highest number of forms (1) was observed with the lemma “are”: <em>Are</em>.
 

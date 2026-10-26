@@ -69,7 +69,7 @@ The following 2 pairs of parts of speech are connected with `dep`: <tt><a href="
 11	край	край	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	6	conj	_	SpaceAfter=No
 12	*	*	SYM	_	_	11	dep	_	SpaceAfter=No
 13	,	,	PUNCT	_	_	17	punct	_	_
-14	потому	потому	ADV	_	Degree=Pos|PronType=Dem	17	mark	_	_
+14	потому	потому	ADV	_	Degree=Pos|ExtPos=SCONJ|PronType=Dem	17	mark	_	_
 15	что	что	SCONJ	_	_	14	fixed	_	_
 16	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	17	nsubj	_	_
 17	отвечают	отвечать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	advcl	_	before=<rhyme-zone/>|after=<br/>
@@ -82,7 +82,7 @@ The following 2 pairs of parts of speech are connected with `dep`: <tt><a href="
 24	иному	иной	DET	_	Case=Dat|Gender=Masc|Number=Sing|PronType=Tot	23	det	_	before=<rhyme-zone/>
 25	--	--	PUNCT	_	_	27	punct	_	<br/>
 26	такому	такой	DET	_	Case=Dat|Gender=Masc|Number=Sing|PronType=Dem	27	det	_	before=<line_meter="Аф4м 1*2*2*2*0"/>
-27	иному	иной	DET	_	Case=Dat|Gender=Masc|Number=Sing|PronType=Tot	23	det	_	SpaceAfter=No
+27	иному	иной	DET	_	Case=Dat|Gender=Masc|Number=Sing|PronType=Tot	24	conj	_	SpaceAfter=No
 28	,	,	PUNCT	_	_	32	punct	_	_
 29	что	что	SCONJ	_	_	32	mark	_	_
 30	впрямь	впрямь	ADV	_	Degree=Pos	32	advmod	_	_

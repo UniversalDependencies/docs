@@ -48,7 +48,7 @@ The following 13 pairs of parts of speech are connected with `dislocated`: <tt><
 # visual-style 8	fgColor:white
 # visual-style 8 9 dislocated	color:blue
 1	אבל	אבל	CCONJ	CCONJ	_	8	cc	_	_
-2	מאחר	מאחר	SCONJ	SCONJ	_	4	mark	_	_
+2	מאחר	מאחר	SCONJ	SCONJ	ExtPos=SCONJ	4	mark	_	_
 3	ש	ש	SCONJ	SCONJ	_	2	fixed	_	_
 4	יש	יש	VERB	VERB	Polarity=Pos	8	advcl	_	Cxn=Existential-ExistPred-VblPart
 5	מלחמה	מלחמה	NOUN	NOUN	Gender=Fem|Number=Sing	4	nsubj	_	CxnElt=4:Existential-ExistPred-VblPart.Pivot|SpaceAfter=No

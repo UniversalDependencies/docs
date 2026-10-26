@@ -9,24 +9,24 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Def`, `Ind`.
 
-3136 tokens (7%) have a non-empty value of `Definite`.
+3145 tokens (7%) have a non-empty value of `Definite`.
 61 types (1%) occur at least once with a non-empty value of `Definite`.
-19 lemmas (0%) occur at least once with a non-empty value of `Definite`.
-The feature is used with 4 part-of-speech tags: <tt><a href="wo_wtb-pos-DET.html">DET</a></tt> (2294; 5% instances), <tt><a href="wo_wtb-pos-PRON.html">PRON</a></tt> (840; 2% instances), <tt><a href="wo_wtb-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="wo_wtb-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+20 lemmas (0%) occur at least once with a non-empty value of `Definite`.
+The feature is used with 4 part-of-speech tags: <tt><a href="wo_wtb-pos-DET.html">DET</a></tt> (2303; 5% instances), <tt><a href="wo_wtb-pos-PRON.html">PRON</a></tt> (840; 2% instances), <tt><a href="wo_wtb-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="wo_wtb-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 ### `DET`
 
-2294 <tt><a href="wo_wtb-pos-DET.html">DET</a></tt> tokens (73% of all `DET` tokens) have a non-empty value of `Definite`.
+2303 <tt><a href="wo_wtb-pos-DET.html">DET</a></tt> tokens (73% of all `DET` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `DET` and `Definite` co-occurred: <tt><a href="wo_wtb-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (2294; 100%), <tt><a href="wo_wtb-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (2294; 100%), <tt><a href="wo_wtb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (2293; 100%), <tt><a href="wo_wtb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1466; 64%), <tt><a href="wo_wtb-feat-Deixis.html">Deixis</a></tt><tt>=Prox</tt> (1242; 54%).
+The most frequent other feature values with which `DET` and `Definite` co-occurred: <tt><a href="wo_wtb-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (2303; 100%), <tt><a href="wo_wtb-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (2303; 100%), <tt><a href="wo_wtb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (2302; 100%), <tt><a href="wo_wtb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1474; 64%), <tt><a href="wo_wtb-feat-Deixis.html">Deixis</a></tt><tt>=Prox</tt> (1242; 54%).
 
 `DET` tokens may have the following values of `Definite`:
 
-* `Def` (1439; 63% of non-empty `Definite`): <em>yi, bi, gi, mi, wi, si, ba, ji, ñi, ga</em>
+* `Def` (1448; 63% of non-empty `Definite`): <em>yi, bi, gi, mi, wi, si, ba, ji, ñi, ga</em>
 * `Ind` (855; 37% of non-empty `Definite`): <em>ay, ag, ab, i, benn, am, aw, as, genn, yenn</em>
-* `EMPTY` (861): <em>seen, sunu, sa, boobu, sama, yooyu, yépp, bii, yii, yeneen</em>
+* `EMPTY` (852): <em>seen, sunu, sa, boobu, sama, yooyu, yépp, bii, yii, yeneen</em>
 
-`Definite` seems to be **lexical feature** of `DET`. 100% lemmas (17) occur only with one value of `Definite`.
+`Definite` seems to be **lexical feature** of `DET`. 100% lemmas (18) occur only with one value of `Definite`.
 
 ### `PRON`
 

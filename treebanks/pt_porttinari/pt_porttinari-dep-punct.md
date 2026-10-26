@@ -10,10 +10,10 @@ This relation is universal.
 
 22316 nodes (13%) are attached to their parents as `punct`.
 
-14601 instances of `punct` (65%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.66252912708371.
+14602 instances of `punct` (65%) are left-to-right (parent precedes child).
+Average distance between parent and child is 6.66270837067575.
 
-The following 15 pairs of parts of speech are connected with `punct`: <tt><a href="pt_porttinari-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_porttinari-pos-PUNCT.html">PUNCT</a></tt> (10709; 48% instances), <tt><a href="pt_porttinari-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_porttinari-pos-PUNCT.html">PUNCT</a></tt> (5516; 25% instances), <tt><a href="pt_porttinari-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_porttinari-pos-PUNCT.html">PUNCT</a></tt> (2162; 10% instances), <tt><a href="pt_porttinari-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pt_porttinari-pos-PUNCT.html">PUNCT</a></tt> (1259; 6% instances), <tt><a href="pt_porttinari-pos-NUM.html">NUM</a></tt>-<tt><a href="pt_porttinari-pos-PUNCT.html">PUNCT</a></tt> (815; 4% instances), <tt><a href="pt_porttinari-pos-ADV.html">ADV</a></tt>-<tt><a href="pt_porttinari-pos-PUNCT.html">PUNCT</a></tt> (794; 4% instances), <tt><a href="pt_porttinari-pos-PRON.html">PRON</a></tt>-<tt><a href="pt_porttinari-pos-PUNCT.html">PUNCT</a></tt> (422; 2% instances), <tt><a href="pt_porttinari-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="pt_porttinari-pos-PUNCT.html">PUNCT</a></tt> (209; 1% instances), <tt><a href="pt_porttinari-pos-SYM.html">SYM</a></tt>-<tt><a href="pt_porttinari-pos-PUNCT.html">PUNCT</a></tt> (162; 1% instances), <tt><a href="pt_porttinari-pos-X.html">X</a></tt>-<tt><a href="pt_porttinari-pos-PUNCT.html">PUNCT</a></tt> (123; 1% instances), <tt><a href="pt_porttinari-pos-ADP.html">ADP</a></tt>-<tt><a href="pt_porttinari-pos-PUNCT.html">PUNCT</a></tt> (83; 0% instances), <tt><a href="pt_porttinari-pos-INTJ.html">INTJ</a></tt>-<tt><a href="pt_porttinari-pos-PUNCT.html">PUNCT</a></tt> (37; 0% instances), <tt><a href="pt_porttinari-pos-AUX.html">AUX</a></tt>-<tt><a href="pt_porttinari-pos-PUNCT.html">PUNCT</a></tt> (14; 0% instances), <tt><a href="pt_porttinari-pos-DET.html">DET</a></tt>-<tt><a href="pt_porttinari-pos-PUNCT.html">PUNCT</a></tt> (6; 0% instances), <tt><a href="pt_porttinari-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="pt_porttinari-pos-PUNCT.html">PUNCT</a></tt> (5; 0% instances).
+The following 15 pairs of parts of speech are connected with `punct`: <tt><a href="pt_porttinari-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_porttinari-pos-PUNCT.html">PUNCT</a></tt> (10653; 48% instances), <tt><a href="pt_porttinari-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_porttinari-pos-PUNCT.html">PUNCT</a></tt> (5500; 25% instances), <tt><a href="pt_porttinari-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_porttinari-pos-PUNCT.html">PUNCT</a></tt> (2162; 10% instances), <tt><a href="pt_porttinari-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pt_porttinari-pos-PUNCT.html">PUNCT</a></tt> (1297; 6% instances), <tt><a href="pt_porttinari-pos-NUM.html">NUM</a></tt>-<tt><a href="pt_porttinari-pos-PUNCT.html">PUNCT</a></tt> (847; 4% instances), <tt><a href="pt_porttinari-pos-ADV.html">ADV</a></tt>-<tt><a href="pt_porttinari-pos-PUNCT.html">PUNCT</a></tt> (793; 4% instances), <tt><a href="pt_porttinari-pos-PRON.html">PRON</a></tt>-<tt><a href="pt_porttinari-pos-PUNCT.html">PUNCT</a></tt> (403; 2% instances), <tt><a href="pt_porttinari-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="pt_porttinari-pos-PUNCT.html">PUNCT</a></tt> (209; 1% instances), <tt><a href="pt_porttinari-pos-SYM.html">SYM</a></tt>-<tt><a href="pt_porttinari-pos-PUNCT.html">PUNCT</a></tt> (162; 1% instances), <tt><a href="pt_porttinari-pos-X.html">X</a></tt>-<tt><a href="pt_porttinari-pos-PUNCT.html">PUNCT</a></tt> (145; 1% instances), <tt><a href="pt_porttinari-pos-ADP.html">ADP</a></tt>-<tt><a href="pt_porttinari-pos-PUNCT.html">PUNCT</a></tt> (83; 0% instances), <tt><a href="pt_porttinari-pos-INTJ.html">INTJ</a></tt>-<tt><a href="pt_porttinari-pos-PUNCT.html">PUNCT</a></tt> (37; 0% instances), <tt><a href="pt_porttinari-pos-AUX.html">AUX</a></tt>-<tt><a href="pt_porttinari-pos-PUNCT.html">PUNCT</a></tt> (14; 0% instances), <tt><a href="pt_porttinari-pos-DET.html">DET</a></tt>-<tt><a href="pt_porttinari-pos-PUNCT.html">PUNCT</a></tt> (6; 0% instances), <tt><a href="pt_porttinari-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="pt_porttinari-pos-PUNCT.html">PUNCT</a></tt> (5; 0% instances).
 
 
 ~~~ conllu
@@ -37,7 +37,7 @@ The following 15 pairs of parts of speech are connected with `punct`: <tt><a hre
 13	em	em	ADP	_	_	15	case	15:case	_
 14	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	15:det	_
 15	mão	mão	NOUN	_	Gender=Fem|Number=Sing	12	nmod	12:nmod:em	SpaceAfter=No
-16	.	.	PUNCT	_	_	1	punct	1:punct	SpaceAfter=No
+16	.	.	PUNCT	_	_	1	punct	1:punct	_
 
 ~~~
 
@@ -63,7 +63,7 @@ The following 15 pairs of parts of speech are connected with `punct`: <tt><a hre
 13	em	em	ADP	_	_	15	case	15:case	_
 14	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	15:det	_
 15	mão	mão	NOUN	_	Gender=Fem|Number=Sing	12	nmod	12:nmod:em	SpaceAfter=No
-16	.	.	PUNCT	_	_	1	punct	1:punct	SpaceAfter=No
+16	.	.	PUNCT	_	_	1	punct	1:punct	_
 
 ~~~
 
@@ -81,7 +81,7 @@ The following 15 pairs of parts of speech are connected with `punct`: <tt><a hre
 5	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	6:det	_
 6	Stunt	Stunt	PROPN	_	_	0	root	0:root	_
 7	Burger	Burger	PROPN	_	_	6	flat:name	6:flat:name	SpaceAfter=No
-8	.	.	PUNCT	_	_	6	punct	6:punct	SpaceAfter=No
+8	.	.	PUNCT	_	_	6	punct	6:punct	_
 
 ~~~
 

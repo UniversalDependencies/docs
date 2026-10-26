@@ -47,7 +47,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 * `1` (16; 7% of non-empty `Person`): <em>ja, mnie, mi, mną, nam, nas, my</em>
 * `2` (2; 1% of non-empty `Person`): <em>Ty, was</em>
 * `3` (208; 92% of non-empty `Person`): <em>jego, jej, ich, go, ją, mu, nich, im, je, niego</em>
-* `EMPTY` (413): <em>się, to, tym, co, tego, siebie, sobie, ktoś, coś, temu</em>
+* `EMPTY` (412): <em>się, to, tym, co, tego, siebie, sobie, ktoś, coś, temu</em>
 
 ### `AUX`
 
@@ -83,11 +83,11 @@ The most frequent other feature values with which `DET` and `Person` co-occurred
 
 * `1` (14; 93% of non-empty `Person`): <em>Nasze, mój, naszych, naszym, Moim, moja, mojej, nasz, naszą</em>
 * `2` (1; 7% of non-empty `Person`): <em>waszych</em>
-* `EMPTY` (495): <em>które, który, tym, ten, która, wiele, więcej, tych, swojej, tego</em>
+* `EMPTY` (496): <em>które, który, tym, ten, która, wiele, więcej, tych, swojej, tego</em>
 
 ## Relations with Agreement in `Person`
 
 The 10 most frequent relations where parent and child node agree in `Person`:
-<tt>VERB --[<tt><a href="pl_pud-dep-conj.html">conj</a></tt>]--> VERB</tt> (48; 64%),
+<tt>VERB --[<tt><a href="pl_pud-dep-conj.html">conj</a></tt>]--> VERB</tt> (47; 67%),
 <tt>VERB --[<tt><a href="pl_pud-dep-conj.html">conj</a></tt>]--> PRON</tt> (1; 100%).
 

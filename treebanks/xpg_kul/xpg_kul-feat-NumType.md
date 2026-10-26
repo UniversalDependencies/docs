@@ -16,9 +16,10 @@ The feature is used with 1 part-of-speech tags: <tt><a href="xpg_kul-pos-NUM.htm
 
 ### `NUM`
 
-1 <tt><a href="xpg_kul-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumType`.
+1 <tt><a href="xpg_kul-pos-NUM.html">NUM</a></tt> tokens (11% of all `NUM` tokens) have a non-empty value of `NumType`.
 
 `NUM` tokens may have the following values of `NumType`:
 
 * `Ord` (1; 100% of non-empty `NumType`): <em>πινκε</em>
+* `EMPTY` (8): <em>30?, 40?</em>
 

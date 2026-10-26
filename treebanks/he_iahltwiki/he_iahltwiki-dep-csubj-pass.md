@@ -85,7 +85,7 @@ The following 4 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 14	כנסת	כנסת	PROPN	PROPN	_	10	nmod:poss	_	Entity=ORG)
 15	לחוקק	חוקק	VERB	VERB	HebBinyan=PIEL|VerbForm=Inf|Voice=Act	10	csubj	_	_
 16	חוק	חוק	NOUN	NOUN	Gender=Masc|Number=Sing	15	obj	_	_
-17	אף	אף	ADV	ADV	_	22	mark	_	_
+17	אף	אף	ADV	ADV	ExtPos=SCONJ	22	mark	_	_
 18	על	על	ADP	ADP	_	17	fixed	_	_
 19	פי	פה	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	17	fixed	_	_
 20	ש	ש	SCONJ	SCONJ	_	17	fixed	_	_

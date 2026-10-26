@@ -23,7 +23,7 @@ The most frequent other feature values with which `NUM` and `NumForm` co-occurre
 `NUM` tokens may have the following values of `NumForm`:
 
 * `Digit` (5; 45% of non-empty `NumForm`): <em>40, 15, 2017, 23.</em>
-* `Word` (6; 55% of non-empty `NumForm`): <em>kahesa, kaht, kaks', koume, ühtes, üks'</em>
+* `Word` (6; 55% of non-empty `NumForm`): <em>kahesa, kaht, kaksʼ, koume, ühtes, üksʼ</em>
 
 ### `ADJ`
 

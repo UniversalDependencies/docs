@@ -12,7 +12,7 @@ It occurs with 2 different values: `Plur`, `Sing`.
 41196 tokens (65%) have a non-empty value of `Number`.
 10347 types (91%) occur at least once with a non-empty value of `Number`.
 4944 lemmas (79%) occur at least once with a non-empty value of `Number`.
-The feature is used with 9 part-of-speech tags: <tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt> (12926; 20% instances), <tt><a href="el_gdt-pos-DET.html">DET</a></tt> (12119; 19% instances), <tt><a href="el_gdt-pos-VERB.html">VERB</a></tt> (5521; 9% instances), <tt><a href="el_gdt-pos-ADJ.html">ADJ</a></tt> (5109; 8% instances), <tt><a href="el_gdt-pos-PRON.html">PRON</a></tt> (2293; 4% instances), <tt><a href="el_gdt-pos-PROPN.html">PROPN</a></tt> (1840; 3% instances), <tt><a href="el_gdt-pos-AUX.html">AUX</a></tt> (1064; 2% instances), <tt><a href="el_gdt-pos-NUM.html">NUM</a></tt> (322; 1% instances), <tt><a href="el_gdt-pos-ADP.html">ADP</a></tt> (2; 0% instances).
+The feature is used with 9 part-of-speech tags: <tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt> (12926; 20% instances), <tt><a href="el_gdt-pos-DET.html">DET</a></tt> (12119; 19% instances), <tt><a href="el_gdt-pos-VERB.html">VERB</a></tt> (5754; 9% instances), <tt><a href="el_gdt-pos-ADJ.html">ADJ</a></tt> (5109; 8% instances), <tt><a href="el_gdt-pos-PRON.html">PRON</a></tt> (2293; 4% instances), <tt><a href="el_gdt-pos-PROPN.html">PROPN</a></tt> (1840; 3% instances), <tt><a href="el_gdt-pos-AUX.html">AUX</a></tt> (831; 1% instances), <tt><a href="el_gdt-pos-NUM.html">NUM</a></tt> (322; 1% instances), <tt><a href="el_gdt-pos-ADP.html">ADP</a></tt> (2; 0% instances).
 
 ### `NOUN`
 
@@ -37,7 +37,7 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 
 12119 <tt><a href="el_gdt-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="el_gdt-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (9847; 81%), <tt><a href="el_gdt-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (9379; 77%), <tt><a href="el_gdt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (6593; 54%).
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="el_gdt-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (11515; 95%), <tt><a href="el_gdt-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (11047; 91%), <tt><a href="el_gdt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (6593; 54%).
 
 `DET` tokens may have the following values of `Number`:
 
@@ -46,32 +46,29 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 
 <table>
   <tr><th>Paradigm <i>ο</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt><tt><a href="el_gdt-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="el_gdt-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="el_gdt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="el_gdt-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>τον, το</em></td><td><em>τους</em></td></tr>
-  <tr><td><tt><tt><a href="el_gdt-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="el_gdt-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="el_gdt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="el_gdt-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>την, τη</em></td><td><em>τις</em></td></tr>
-  <tr><td><tt><tt><a href="el_gdt-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="el_gdt-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="el_gdt-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="el_gdt-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>το, τα</em></td><td><em>τα</em></td></tr>
   <tr><td><tt><tt><a href="el_gdt-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="el_gdt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>τον, το</em></td><td><em>τους</em></td></tr>
   <tr><td><tt><tt><a href="el_gdt-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="el_gdt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>την, τη</em></td><td><em>τις</em></td></tr>
-  <tr><td><tt><tt><a href="el_gdt-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="el_gdt-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>το</em></td><td><em>τα</em></td></tr>
-  <tr><td><tt><tt><a href="el_gdt-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="el_gdt-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="el_gdt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="el_gdt-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>τη</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="el_gdt-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="el_gdt-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="el_gdt-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="el_gdt-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>τω</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="el_gdt-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="el_gdt-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="el_gdt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="el_gdt-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>του</em></td><td><em>των</em></td></tr>
-  <tr><td><tt><tt><a href="el_gdt-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="el_gdt-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="el_gdt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="el_gdt-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>της, τις</em></td><td><em>των</em></td></tr>
-  <tr><td><tt><tt><a href="el_gdt-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="el_gdt-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="el_gdt-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="el_gdt-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>του</em></td><td><em>των</em></td></tr>
-  <tr><td><tt><tt><a href="el_gdt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="el_gdt-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="el_gdt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="el_gdt-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>ο, O, το</em></td><td><em>οι</em></td></tr>
-  <tr><td><tt><tt><a href="el_gdt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="el_gdt-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="el_gdt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="el_gdt-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>η</em></td><td><em>οι</em></td></tr>
-  <tr><td><tt><tt><a href="el_gdt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="el_gdt-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="el_gdt-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="el_gdt-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>το</em></td><td><em>τα</em></td></tr>
+  <tr><td><tt><tt><a href="el_gdt-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="el_gdt-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>το, τα</em></td><td><em>τα</em></td></tr>
+  <tr><td><tt><tt><a href="el_gdt-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="el_gdt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>τη</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="el_gdt-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="el_gdt-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>τω</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="el_gdt-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="el_gdt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>του</em></td><td><em>των</em></td></tr>
+  <tr><td><tt><tt><a href="el_gdt-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="el_gdt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>της, τις</em></td><td><em>των</em></td></tr>
+  <tr><td><tt><tt><a href="el_gdt-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="el_gdt-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>του</em></td><td><em>των</em></td></tr>
+  <tr><td><tt><tt><a href="el_gdt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="el_gdt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>ο, O, το</em></td><td><em>οι</em></td></tr>
+  <tr><td><tt><tt><a href="el_gdt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="el_gdt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>η</em></td><td><em>οι</em></td></tr>
+  <tr><td><tt><tt><a href="el_gdt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="el_gdt-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>το</em></td><td><em>τα</em></td></tr>
 </table>
 
 ### `VERB`
 
-5521 <tt><a href="el_gdt-pos-VERB.html">VERB</a></tt> tokens (94% of all `VERB` tokens) have a non-empty value of `Number`.
+5754 <tt><a href="el_gdt-pos-VERB.html">VERB</a></tt> tokens (94% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="el_gdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (5398; 98%), <tt><a href="el_gdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (5378; 97%), <tt><a href="el_gdt-feat-Person.html">Person</a></tt><tt>=3</tt> (4276; 77%), <tt><a href="el_gdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (3839; 70%), <tt><a href="el_gdt-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (2795; 51%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="el_gdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (5631; 98%), <tt><a href="el_gdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (5611; 98%), <tt><a href="el_gdt-feat-Person.html">Person</a></tt><tt>=3</tt> (4509; 78%), <tt><a href="el_gdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (4072; 71%), <tt><a href="el_gdt-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (3028; 53%).
 
 `VERB` tokens may have the following values of `Number`:
 
-* `Plur` (2207; 40% of non-empty `Number`): <em>έχουν, μπορούν, έχουμε, μπορούμε, υπάρχουν, βρίσκονται, κάνουμε, αποτελούν, θέλουμε, αφορούν</em>
-* `Sing` (3314; 60% of non-empty `Number`): <em>μπορεί, αφορά, έχει, αποτελεί, δήλωσε, υπάρχει, ήθελα, βρίσκεται, πρόκειται, πιστεύω</em>
+* `Plur` (2207; 38% of non-empty `Number`): <em>έχουν, μπορούν, έχουμε, μπορούμε, υπάρχουν, βρίσκονται, κάνουμε, αποτελούν, θέλουμε, αφορούν</em>
+* `Sing` (3547; 62% of non-empty `Number`): <em>πρέπει, μπορεί, αφορά, έχει, αποτελεί, δήλωσε, υπάρχει, ήθελα, βρίσκεται, πρόκειται</em>
 * `EMPTY` (345): <em>λέγοντας, γίνει, λάβει, προκαλώντας, έχοντας, ακολουθώντας, δημιουργήσει, επιτύχει, πει, συλληφθεί</em>
 
 <table>
@@ -153,14 +150,14 @@ The most frequent other feature values with which `PROPN` and `Number` co-occurr
 
 ### `AUX`
 
-1064 <tt><a href="el_gdt-pos-AUX.html">AUX</a></tt> tokens (35% of all `AUX` tokens) have a non-empty value of `Number`.
+831 <tt><a href="el_gdt-pos-AUX.html">AUX</a></tt> tokens (30% of all `AUX` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="el_gdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1064; 100%), <tt><a href="el_gdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1064; 100%), <tt><a href="el_gdt-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (1050; 99%), <tt><a href="el_gdt-feat-Person.html">Person</a></tt><tt>=3</tt> (1010; 95%), <tt><a href="el_gdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (848; 80%), <tt><a href="el_gdt-feat-Voice.html">Voice</a></tt><tt>=Pass</tt> (599; 56%).
+The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="el_gdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (831; 100%), <tt><a href="el_gdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (831; 100%), <tt><a href="el_gdt-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (817; 98%), <tt><a href="el_gdt-feat-Person.html">Person</a></tt><tt>=3</tt> (777; 94%), <tt><a href="el_gdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (627; 75%), <tt><a href="el_gdt-feat-Voice.html">Voice</a></tt><tt>=Pass</tt> (599; 72%).
 
 `AUX` tokens may have the following values of `Number`:
 
-* `Plur` (241; 23% of non-empty `Number`): <em>είναι, έχουν, είχαν, ήταν, είμαστε, έχουμε, έχετε, ήμασταν, είσαστε, ήσαν</em>
-* `Sing` (823; 77% of non-empty `Number`): <em>είναι, πρέπει, ήταν, έχει, είχε, έπρεπε, είμαι, έχω</em>
+* `Plur` (241; 29% of non-empty `Number`): <em>είναι, έχουν, είχαν, ήταν, είμαστε, έχουμε, έχετε, ήμασταν, είσαστε, ήσαν</em>
+* `Sing` (590; 71% of non-empty `Number`): <em>είναι, ήταν, έχει, είχε, είμαι, έχω</em>
 * `EMPTY` (1955): <em>να, θα, ας, ν', έχοντας</em>
 
 <table>
@@ -208,12 +205,12 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>NOUN --[<tt><a href="el_gdt-dep-det.html">det</a></tt>]--> DET</tt> (9122; 95%),
 <tt>NOUN --[<tt><a href="el_gdt-dep-amod.html">amod</a></tt>]--> ADJ</tt> (3952; 99%),
-<tt>NOUN --[<tt><a href="el_gdt-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (2468; 57%),
+<tt>NOUN --[<tt><a href="el_gdt-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (2469; 57%),
 <tt>VERB --[<tt><a href="el_gdt-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (1299; 89%),
 <tt>PROPN --[<tt><a href="el_gdt-dep-det.html">det</a></tt>]--> DET</tt> (1270; 100%),
-<tt>VERB --[<tt><a href="el_gdt-dep-obl.html">obl</a></tt>]--> NOUN</tt> (1227; 50%),
+<tt>VERB --[<tt><a href="el_gdt-dep-obl.html">obl</a></tt>]--> NOUN</tt> (1236; 50%),
 <tt>VERB --[<tt><a href="el_gdt-dep-obj.html">obj</a></tt>]--> NOUN</tt> (969; 52%),
 <tt>NOUN --[<tt><a href="el_gdt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (689; 77%),
-<tt>NOUN --[<tt><a href="el_gdt-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (609; 74%),
+<tt>NOUN --[<tt><a href="el_gdt-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (607; 74%),
 <tt>VERB --[<tt><a href="el_gdt-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (510; 94%).
 

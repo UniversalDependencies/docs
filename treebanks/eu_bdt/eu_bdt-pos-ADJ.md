@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>lehen</em> (<tt><a href="eu_bdt-pos-A
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 2.077283 (the average of all parts of speech is 2.170132).
+The form / lemma ratio of `ADJ` is 2.077283 (the average of all parts of speech is 2.170046).
 
 The 1st highest number of forms (41) was observed with the lemma “handi”: <em>handi, handia, handiagatik, handiagoa, handiagoak, handiagoarekin, handiagoaren, handiagoetan, handiagoko, handiagora, handiak, handian, handiarekin, handiegi, handiegia, handiek, handiekin, handien, handiena, handienak, handienaz, handienek, handieneko, handienetariko, handiengatik, handietako, handietan, handiko, handikoak, handikoen, handikotzat, handirentzat, handirik, handitan, handitarako, handiz, haundi, haundia, haundiagoa, haundiagoak, haundirik</em>.
 

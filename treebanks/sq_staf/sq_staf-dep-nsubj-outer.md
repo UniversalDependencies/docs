@@ -25,11 +25,11 @@ The following 1 pairs of parts of speech are connected with `nsubj:outer`: <tt><
 # visual-style 8 2 nsubj:outer	color:blue
 1	Dhe	dhe	CCONJ	_	_	8	cc	_	end_char=1108|start_char=1105
 2	shkaku	shkak	NOUN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	8	nsubj:outer	_	end_char=1115|start_char=1109
-3	ishte	jam	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	8	aux	_	end_char=1121|start_char=1116
+3	ishte	jam	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	8	aux	_	end_char=1121|start_char=1116
 4	se	se	SCONJ	_	_	8	mark	_	end_char=1124|start_char=1122
 5	atij	ai	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	iobj	_	end_char=1129|start_char=1125
 6	i	i	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obj	_	end_char=1131|start_char=1130
-7	ishte	jam	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	8	aux	_	end_char=1137|start_char=1132
+7	ishte	jam	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	8	aux	_	end_char=1137|start_char=1132
 8	dukur	dukem	VERB	_	VerbForm=Part	0	root	_	end_char=1143|start_char=1138
 9	gjithmonë	gjithmonë	ADV	_	AdvType=Tim	8	advmod	_	end_char=1153|start_char=1144
 10	se	se	SCONJ	_	_	16	mark	_	end_char=1156|start_char=1154
@@ -38,7 +38,7 @@ The following 1 pairs of parts of speech are connected with `nsubj:outer`: <tt><
 13	tij	tij	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	11	det:poss	_	end_char=1170|start_char=1167
 14	mund	mund	PART	_	_	16	mark	_	end_char=1175|start_char=1171
 15	të	të	PART	_	_	16	mark	_	end_char=1178|start_char=1176
-16	kryhej	kryej	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Mid	8	ccomp	_	end_char=1185|start_char=1179
+16	kryhej	kryej	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	8	ccomp	_	end_char=1185|start_char=1179
 17	vetëm	vetëm	PART	_	_	16	advmod	_	end_char=1191|start_char=1186
 18	në	në	ADP	_	_	19	case	_	end_char=1194|start_char=1192
 19	shi	shi	NOUN	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	16	obl	_	SpaceAfter=No

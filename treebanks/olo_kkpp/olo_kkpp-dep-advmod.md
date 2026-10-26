@@ -54,7 +54,7 @@ The following 4 pairs of parts of speech are connected with `advmod`: <tt><a hre
 10	rukki	rukki	NOUN	NOUN	Case=Nom|Number=Sing	4	conj	_	_
 11	da	da	CCONJ	CCONJ	_	12	cc	_	_
 12	äijy	äijy	ADV	ADV	_	14	advmod	_	_
-13	midä	mi	PRON	PRON	Case=Par|Number=Sing	14	nmod	_	PronType=Interr
+13	midä	mi	PRON	PRON	Case=Par|Number=Sing|PronType=Int	14	nmod	_	PronType=Interr
 14	muudu	muu	ADJ	ADJ	Case=Par|Number=Sing	4	conj	_	SpaceAfter=No
 15	.	.	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No
 
@@ -68,7 +68,7 @@ The following 4 pairs of parts of speech are connected with `advmod`: <tt><a hre
 # visual-style 4	fgColor:white
 # visual-style 4 3 advmod	color:blue
 1	Oli	olla	AUX	AUX	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	cop	_	_
-2	sie	se	PRON	PRON	Case=Ade|Number=Plur	4	obl	_	_
+2	sie	se	PRON	PRON	Case=Ade|PronType=Dem	4	obl	_	_
 3	enne	enne	ADV	ADV	_	4	advmod	_	PronType=Temp
 4	saari	saari	NOUN	NOUN	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	PUNCT	_	4	punct	_	SpaceAfter=No

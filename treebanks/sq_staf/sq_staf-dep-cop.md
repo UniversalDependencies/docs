@@ -24,11 +24,11 @@ The following 5 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 4 3 cop	color:blue
 1	Pra	Pra	SCONJ	_	_	4	mark	_	SpaceAfter=No
 2	,	,	PUNCT	_	_	1	punct	_	_
-3	ishte	jam	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	4	cop	_	end_char=645|start_char=640
+3	ishte	jam	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	cop	_	end_char=645|start_char=640
 4	vjeshtë	vjeshtë	NOUN	_	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	0	root	_	end_char=653|start_char=646
 5	dhe	dhe	CCONJ	_	_	7	cc	_	end_char=657|start_char=654
 6	shiu	shi	NOUN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	7	nsubj	_	end_char=662|start_char=658
-7	kishte	kam	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	4	conj	_	end_char=669|start_char=663
+7	kishte	kam	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	end_char=669|start_char=663
 8	kohën	kohë	NOUN	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	7	obl	_	end_char=675|start_char=670
 9	e	e	DET	_	Gender=Fem|Number=Sing	10	det	_	end_char=677|start_char=676
 10	tij	tij	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	8	nmod:poss	_	SpaceAfter=No
@@ -46,12 +46,12 @@ The following 5 pairs of parts of speech are connected with `cop`: <tt><a href="
 1	Kjo	ky	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	3	det	_	_
 2	e	e	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Art	3	det:adj	_	_
 3	fundit	fundit	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	4	nsubj	_	_
-4	ka	kam	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	_
+4	ka	kam	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 5	të	të	PART	_	_	6	mark	_	_
 6	ngjarë	ngjar	VERB	_	VerbForm=Part	4	xcomp	_	_
 7	të	të	PART	_	_	11	mark	_	_
 8	mos	mos	PART	_	_	11	advmod	_	_
-9	jetë	jam	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act	11	cop	_	_
+9	jetë	jam	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	cop	_	_
 10	e	e	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Art	11	det:adj	_	_
 11	vërtetë	vërtëte	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	6	xcomp	_	SpaceAfter=No
 12	.	_	PUNCT	_	_	4	punct	_	_
@@ -66,7 +66,7 @@ The following 5 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 3	fgColor:white
 # visual-style 3 2 cop	color:blue
 1	Kush	kush	PRON	_	PronType=Int	3	nsubj	_	end_char=1586|start_char=1582
-2	je	jam	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|Voice=Act	3	cop	_	end_char=1589|start_char=1587
+2	je	jam	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	end_char=1589|start_char=1587
 3	ti	ti	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	0	root	_	SpaceAfter=No
 4	?	?	PUNCT	_	_	3	punct	_	end_char=1593|start_char=1592
 

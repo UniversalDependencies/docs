@@ -26,7 +26,7 @@ The following 13 pairs of parts of speech are connected with `advmod:emph`: <tt>
 2	apa	apa	ADV	W--	PronType=Int	1	advmod	_	Morf=^apa<w>_W--$
 3	kah	kah	PART	T--	_	2	advmod:emph	_	Morf=^kah<t>_T--$
 4	yang	yang	PRON	S--	PronType=Rel	5	nsubj:pass	_	Morf=^yang<s>_S--$
-5	tercium	cium	VERB	VSP	Mood=Ind|Voice=Pass	1	acl:relcl	_	Morf=^ter+cium<v>_VSP$
+5	tercium	cium	VERB	VSP	Voice=Pass	1	acl:relcl	_	Morf=^ter+cium<v>_VSP$
 6	oleh	oleh	ADP	R--	_	7	case	_	Morf=^oleh<r>_R--$
 7	ku	aku	PRON	PS1	Number=Sing|Person=1|Polite=Infm|PronType=Prs	5	obl	_	Morf=^aku<p>_PS1$
 8	?	?	PUNCT	Z--	_	1	punct	_	Morf=^?<z>_Z--$
@@ -40,7 +40,7 @@ The following 13 pairs of parts of speech are connected with `advmod:emph`: <tt>
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 advmod:emph	color:blue
-1	Berpaling	paling	VERB	VSA	Mood=Ind|Voice=Act	0	root	_	Morf=^ber+paling<v>_VSA$
+1	Berpaling	paling	VERB	VSA	Voice=Act	0	root	_	Morf=^ber+paling<v>_VSA$
 2	kah	kah	PART	T--	_	1	advmod:emph	_	Morf=^kah<t>_T--$
 3	engkau	engkau	PRON	PS2	Number=Sing|Person=2|Polite=Infm|PronType=Prs	1	nsubj	_	Morf=^engkau<p>_PS2$
 4	dari	dari	ADP	R--	_	5	case	_	Morf=^dari<r>_R--$
@@ -63,7 +63,7 @@ The following 13 pairs of parts of speech are connected with `advmod:emph`: <tt>
 2	kah	kah	PART	T--	_	1	advmod:emph	_	Morf=^kah<t>_T--$
 3	yang	yang	PRON	S--	PronType=Rel	5	nsubj:pass	_	Morf=^yang<s>_S--$
 4	akan	akan	AUX	M--	_	5	aux	_	Morf=^akan<m>_M--$
-5	terjadi	terjadi	VERB	VSP	Mood=Ind|Voice=Pass	1	acl:relcl	_	Morf=^terjadi<v>_VSP$
+5	terjadi	terjadi	VERB	VSP	Voice=Pass	1	acl:relcl	_	Morf=^terjadi<v>_VSP$
 6	selanjutnya	selanjutnya	ADJ	D--	_	5	amod	_	SpaceAfter=No|Morf=^selanjutnya<d>_D--$
 7	?	?	PUNCT	Z--	_	1	punct	_	Morf=^?<z>_Z--$
 

@@ -58,12 +58,12 @@ The most frequent other feature values with which `AUX` and `Voice` co-occurred:
 The 10 most frequent relations where parent and child node agree in `Voice`:
 <tt>VERB --[<tt><a href="ar_padt-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (2410; 92%),
 <tt>VERB --[<tt><a href="ar_padt-dep-conj.html">conj</a></tt>]--> VERB</tt> (2381; 93%),
-<tt>VERB --[<tt><a href="ar_padt-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (1025; 91%),
-<tt>VERB --[<tt><a href="ar_padt-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (620; 96%),
-<tt>VERB --[<tt><a href="ar_padt-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (240; 72%),
-<tt>VERB --[<tt><a href="ar_padt-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (236; 94%),
-<tt>VERB --[<tt><a href="ar_padt-dep-acl.html">acl</a></tt>]--> VERB</tt> (33; 97%),
+<tt>VERB --[<tt><a href="ar_padt-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (1021; 91%),
+<tt>VERB --[<tt><a href="ar_padt-dep-advcl-pred.html">advcl:pred</a></tt>]--> VERB</tt> (620; 96%),
+<tt>VERB --[<tt><a href="ar_padt-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (238; 94%),
+<tt>VERB --[<tt><a href="ar_padt-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (184; 68%),
+<tt>VERB --[<tt><a href="ar_padt-dep-dep.html">dep</a></tt>]--> VERB</tt> (40; 83%),
+<tt>VERB --[<tt><a href="ar_padt-dep-acl.html">acl</a></tt>]--> VERB</tt> (27; 96%),
 <tt>VERB --[<tt><a href="ar_padt-dep-appos.html">appos</a></tt>]--> VERB</tt> (9; 100%),
-<tt>AUX --[<tt><a href="ar_padt-dep-conj.html">conj</a></tt>]--> VERB</tt> (2; 100%),
-<tt>VERB --[<tt><a href="ar_padt-dep-orphan.html">orphan</a></tt>]--> VERB</tt> (2; 100%).
+<tt>AUX --[<tt><a href="ar_padt-dep-conj.html">conj</a></tt>]--> VERB</tt> (2; 100%).
 

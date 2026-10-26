@@ -177,12 +177,14 @@ as well as Armenian-specific examples scattered across the documentation of cons
   * [compound:lvc]() for light compound verbs
   * [compound:redup]() for reduplicated compounds
   * [compound:svc]() for serial compound verbs
+  * [csubj:outer]() for outer clause clausal subject
   * [csubj:pass]() for clausal subjects of passive verbs
   * [det:poss]() for possessive determiners
   * [iobj:agent]() for agentive indirect objects of causative verbs
   * [nmod:npmod]() for noun phrases
   * [nmod:poss]() for possessive modifiers
   * [nsubj:caus]() for nominal subjects of causative verbs
+  * [nsubj:outer]() for outer clause nominal subject
   * [nsubj:pass]() for nominal subjects of passive verbs
   * [obl:agent]() for agents of passive verbs
 * The following relation types are not used in Armenian at all: [clf]()

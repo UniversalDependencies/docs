@@ -10,7 +10,7 @@ This feature indicates the effective UPOS of an expression when it differs from 
 In Komi-Permyak, only heads of a [`fixed`](https://universaldependencies.org/en/dep/fixed.html) relation 
 employ the feature, though in the future it may be broadened.
 
-`ExtPos` is also used in the [SUD](https://surfacesyntacticud.github.io/) framework.
+`ExtPos` is also used in the [SUD](https://surfacesyntacticud.org/) framework.
 
 ### <a name="ADV">`ADV`</a>: adverb-like expression
 
@@ -31,4 +31,4 @@ employ the feature, though in the future it may be broadened.
 * _Ме эг вермы сійӧ вӧтны, <b>сідз кыдз</b> сія ӧддьӧн чожа котӧртіс._ (_сідз_ = `ADV`)
 
 
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:40 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:52 CEST -->

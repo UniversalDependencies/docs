@@ -39,7 +39,7 @@ The following 3 pairs of parts of speech are connected with `dislocated`: <tt><a
 # visual-style 29	fgColor:white
 # visual-style 29 20 dislocated	color:blue
 1	«	«	PUNCT	``	_	29	punct	_	_
-2	Alors	alors	ADV	RB	_	12	mark	_	wordform=alors
+2	Alors	alors	ADV	RB	ExtPos=SCONJ	12	mark	_	wordform=alors
 3	que	que	SCONJ	IN	_	2	fixed	_	_
 4	la	le	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
 5	plus	plus	ADV	RBR	_	6	advmod	_	_
@@ -63,10 +63,10 @@ The following 3 pairs of parts of speech are connected with `dislocated`: <tt><a
 23	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	24	det	_	_
 24	pouvoir	pouvoir	NOUN	NN	Gender=Masc|Number=Sing	20	nmod	_	SpaceAfter=No
 25	,	,	PUNCT	,	_	26	punct	_	_
-26	elle	il	PRON	PRP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	29	nsubj	_	SpaceAfter=No
+26	elle	lui	PRON	PRP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	29	nsubj	_	SpaceAfter=No
 27	,	,	PUNCT	,	_	26	punct	_	_
 28	ne	ne	ADV	RB	Polarity=Neg	29	advmod	_	_
-29	l'	le	PRON	PRP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	35	parataxis	_	SpaceAfter=No
+29	l'	lui	PRON	PRP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	35	parataxis	_	SpaceAfter=No
 30	est	être	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	29	cop	_	_
 31	pas	pas	ADV	RB	Polarity=Neg	29	advmod	_	SpaceAfter=No
 32	,	,	PUNCT	,	_	29	punct	_	SpaceAfter=No
@@ -84,7 +84,7 @@ The following 3 pairs of parts of speech are connected with `dislocated`: <tt><a
 44	dans	dans	ADP	IN	_	46	case	_	_
 45	un	un	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	46	det	_	_
 46	blog	blog	NOUN	NN	Gender=Masc|Number=Sing	35	obl	_	_
-47	ce	ce	DET	DT	Gender=Masc|Number=Sing	48	det	_	_
+47	ce	ce	DET	DT	Gender=Masc|Number=Sing|PronType=Dem	48	det	_	_
 48	lundi	lundi	NOUN	NNP	Gender=Masc|Number=Sing	35	obl:mod	_	SpaceAfter=No
 49	.	.	PUNCT	.	_	35	punct	_	_
 
@@ -100,8 +100,8 @@ The following 3 pairs of parts of speech are connected with `dislocated`: <tt><a
 1	Ça	ça	PRON	PDEM	PronType=Dem	2	nsubj	_	wordform=ça
 2	marche	marcher	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	pour	pour	ADP	IN	_	4	case	_	_
-4	toi	soi	PRON	PRP	Number=Sing|Person=2|PronType=Prs	2	obl	_	_
-5	jusqu’	jusqu’	ADP	IN	_	7	case	_	SpaceAfter=No|wordform=jusqu'
+4	toi	toi	PRON	PRP	Number=Sing|Person=2|PronType=Prs	2	obl	_	_
+5	jusqu'	jusqu'	ADP	IN	_	7	case	_	SpaceAfter=No
 6	à	à	ADP	IN	_	7	case	_	_
 7	présent	présent	NOUN	NN	Gender=Masc|Number=Sing	2	obl	_	SpaceAfter=No
 8	,	,	PUNCT	,	_	11	punct	_	_

@@ -6,12 +6,12 @@ udver: '2'
 
 ## Treebank Statistics: UD_Greek-GDT: POS Tags: `AUX`
 
-There are 6 `AUX` lemmas (0%), 23 `AUX` types (0%) and 3019 `AUX` tokens (5%).
+There are 5 `AUX` lemmas (0%), 21 `AUX` types (0%) and 2786 `AUX` tokens (4%).
 Out of 16 observed tags, the rank of `AUX` is: 14 in number of lemmas, 11 in number of types and 7 in number of tokens.
 
-The 10 most frequent `AUX` lemmas: <em>να, είμαι, θα, έχω, πρέπει, ας</em>
+The 10 most frequent `AUX` lemmas: <em>να, είμαι, θα, έχω, ας</em>
 
-The 10 most frequent `AUX` types:  <em>να, θα, είναι, πρέπει, ήταν, έχει, έχουν, είχε, είχαν, είμαστε</em>
+The 10 most frequent `AUX` types:  <em>να, θα, είναι, ήταν, έχει, έχουν, είχε, είχαν, είμαστε, έχουμε</em>
 
 The 10 most frequent ambiguous lemmas: <em>έχω</em> (<tt><a href="el_gdt-pos-AUX.html">AUX</a></tt> 233, <tt><a href="el_gdt-pos-VERB.html">VERB</a></tt> 173)
 
@@ -48,7 +48,7 @@ The 10 most frequent ambiguous types:  <em>έχει</em> (<tt><a href="el_gdt-po
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 3.833333 (the average of all parts of speech is 1.783262).
+The form / lemma ratio of `AUX` is 4.200000 (the average of all parts of speech is 1.783262).
 
 The 1st highest number of forms (10) was observed with the lemma “έχω”: <em>έχει, έχετε, έχοντας, έχουμε, έχουν, έχω, είχαμε, είχαν, είχατε, είχε</em>.
 
@@ -56,7 +56,7 @@ The 2nd highest number of forms (7) was observed with the lemma “είμαι”
 
 The 3rd highest number of forms (2) was observed with the lemma “να”: <em>ν', να</em>.
 
-`AUX` occurs with 7 features: <tt><a href="el_gdt-feat-Aspect.html">Aspect</a></tt> (1065; 35% instances), <tt><a href="el_gdt-feat-VerbForm.html">VerbForm</a></tt> (1065; 35% instances), <tt><a href="el_gdt-feat-Voice.html">Voice</a></tt> (1065; 35% instances), <tt><a href="el_gdt-feat-Mood.html">Mood</a></tt> (1064; 35% instances), <tt><a href="el_gdt-feat-Number.html">Number</a></tt> (1064; 35% instances), <tt><a href="el_gdt-feat-Person.html">Person</a></tt> (1064; 35% instances), <tt><a href="el_gdt-feat-Tense.html">Tense</a></tt> (1064; 35% instances)
+`AUX` occurs with 7 features: <tt><a href="el_gdt-feat-Aspect.html">Aspect</a></tt> (832; 30% instances), <tt><a href="el_gdt-feat-VerbForm.html">VerbForm</a></tt> (832; 30% instances), <tt><a href="el_gdt-feat-Voice.html">Voice</a></tt> (832; 30% instances), <tt><a href="el_gdt-feat-Mood.html">Mood</a></tt> (831; 30% instances), <tt><a href="el_gdt-feat-Number.html">Number</a></tt> (831; 30% instances), <tt><a href="el_gdt-feat-Person.html">Person</a></tt> (831; 30% instances), <tt><a href="el_gdt-feat-Tense.html">Tense</a></tt> (831; 30% instances)
 
 `AUX` occurs with 14 feature-value pairs: `Aspect=Imp`, `Aspect=Perf`, `Mood=Ind`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Tense=Past`, `Tense=Pres`, `VerbForm=Conv`, `VerbForm=Fin`, `Voice=Act`, `Voice=Pass`
 
@@ -67,11 +67,11 @@ Examples: <em>να, θα, ας, ν'</em>
 
 ## Relations
 
-`AUX` nodes are attached to their parents using 2 different relations: <tt><a href="el_gdt-dep-aux.html">aux</a></tt> (2420; 80% instances), <tt><a href="el_gdt-dep-cop.html">cop</a></tt> (599; 20% instances)
+`AUX` nodes are attached to their parents using 2 different relations: <tt><a href="el_gdt-dep-aux.html">aux</a></tt> (2187; 78% instances), <tt><a href="el_gdt-dep-cop.html">cop</a></tt> (599; 22% instances)
 
-Parents of `AUX` nodes belong to 8 different parts of speech: <tt><a href="el_gdt-pos-VERB.html">VERB</a></tt> (2363; 78% instances), <tt><a href="el_gdt-pos-ADJ.html">ADJ</a></tt> (333; 11% instances), <tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt> (264; 9% instances), <tt><a href="el_gdt-pos-PRON.html">PRON</a></tt> (22; 1% instances), <tt><a href="el_gdt-pos-ADV.html">ADV</a></tt> (20; 1% instances), <tt><a href="el_gdt-pos-NUM.html">NUM</a></tt> (9; 0% instances), <tt><a href="el_gdt-pos-PROPN.html">PROPN</a></tt> (5; 0% instances), <tt><a href="el_gdt-pos-X.html">X</a></tt> (3; 0% instances)
+Parents of `AUX` nodes belong to 8 different parts of speech: <tt><a href="el_gdt-pos-VERB.html">VERB</a></tt> (2146; 77% instances), <tt><a href="el_gdt-pos-ADJ.html">ADJ</a></tt> (325; 12% instances), <tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt> (258; 9% instances), <tt><a href="el_gdt-pos-PRON.html">PRON</a></tt> (22; 1% instances), <tt><a href="el_gdt-pos-ADV.html">ADV</a></tt> (18; 1% instances), <tt><a href="el_gdt-pos-NUM.html">NUM</a></tt> (9; 0% instances), <tt><a href="el_gdt-pos-PROPN.html">PROPN</a></tt> (5; 0% instances), <tt><a href="el_gdt-pos-X.html">X</a></tt> (3; 0% instances)
 
-3019 (100%) `AUX` nodes are leaves.
+2786 (100%) `AUX` nodes are leaves.
 
 The highest child degree of a `AUX` node is 0.
 

@@ -47,10 +47,10 @@ The following 1 pairs of parts of speech are connected with `iobj`: <tt><a href=
 23	i	i	ADP	prep	_	24	mark	_	_
 24	ddod	dod	NOUN	verbnoun	Mutation=SM|Number=Sing|VerbForm=Vnoun	22	acl	_	_
 25	â	â	ADP	prep	_	26	case	_	_
-26	therfyn	terfyn	NOUN	noun	Gender=Masc|Mutation=AM|Number=Sing	24	obl	_	_
+26	therfyn	terfyn	NOUN	noun	Gender=Masc|Mutation=AM|Number=Sing	24	nmod	_	_
 27	i	i	ADP	prep	_	29	case	_	SpaceAfter=No
-28	'r	y	DET	art	_	29	det	_	_
-29	rhyfel	rhyfel	NOUN	noun	Gender=Masc|Number=Sing	24	obl	_	_
+28	'r	y	DET	art	PronType=Art	29	det	_	_
+29	rhyfel	rhyfel	NOUN	noun	Gender=Masc|Number=Sing	24	nmod	_	_
 30	mor	mor	ADV	adv	_	31	advmod	_	_
 31	gynted	cynnar	ADJ	eq	Degree=Equ|Mutation=SM	24	advcl	_	_
 32	ag	â	ADP	prep	_	35	case	_	_
@@ -63,12 +63,12 @@ The following 1 pairs of parts of speech are connected with `iobj`: <tt><a href=
 39	i	i	ADP	iprep	_	40	case	_	_
 40	e	e	PRON	indep	Gender=Masc|Number=Sing|Person=3|PronType=Prs	41	nsubj	_	_
 41	wneud	gwneud	NOUN	verbnoun	Mutation=SM|Number=Sing|VerbForm=Vnoun	38	acl	_	_
-42	nifer	nifer	NOUN	noun	Gender=Masc|Number=Sing	41	obl	_	_
+42	nifer	nifer	NOUN	noun	Gender=Masc|Number=Sing	41	nmod	_	_
 43	o	o	ADP	prep	_	44	case	_	_
 44	gonsesiynau	consesiwn	NOUN	noun	Gender=Masc|Mutation=SM|Number=Plur	42	nmod	_	_
 45	i	i	ADP	prep	_	47	case	_	SpaceAfter=No
-46	'r	y	DET	art	_	47	det	_	_
-47	FLN	FLN	PROPN	org	Abbr=Yes|Gender=Masc	41	obl	_	SpaceAfter=No
+46	'r	y	DET	art	PronType=Art	47	det	_	_
+47	FLN	FLN	PROPN	org	Abbr=Yes|Gender=Masc	41	nmod	_	SpaceAfter=No
 48	.	.	PUNCT	punct	_	38	punct	_	SpacesAfter=\n
 
 ~~~

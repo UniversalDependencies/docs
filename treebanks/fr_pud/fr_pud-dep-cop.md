@@ -23,7 +23,7 @@ The following 7 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 8	fgColor:white
 # visual-style 8 6 cop	color:blue
 1	Peut-être	peut-être	ADV	RB	_	8	advmod	_	wordform=peut-être
-2	que	que	ADP	IN	_	1	fixed	_	_
+2	que	que	SCONJ	IN	_	8	mark	_	_
 3	le	le	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
 4	code	code	NOUN	NN	Gender=Masc|Number=Sing	8	nsubj	_	_
 5	vestimentaire	vestimentaire	ADJ	JJ	Gender=Masc|Number=Sing	4	amod	_	_
@@ -59,7 +59,7 @@ The following 7 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 1 2 cop	color:blue
 1	Qui	qui	PRON	WP	PronType=Int	0	root	_	wordform=qui
 2	sont	être	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	SpaceAfter=No
-3	-ils	il	PRON	PRP	Gender=Masc|Number=Plur|Person=3|PronType=Prs	1	nsubj	_	_
+3	-ils	lui	PRON	PRP	Gender=Masc|Number=Plur|Person=3|PronType=Prs	1	nsubj	_	_
 4	?	?	PUNCT	.	_	1	punct	_	_
 
 ~~~

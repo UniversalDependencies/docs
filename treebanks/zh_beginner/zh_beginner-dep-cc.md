@@ -24,14 +24,14 @@ The following 14 pairs of parts of speech are connected with `cc`: <tt><a href="
 # visual-style 8 7 cc	color:blue
 1	她	她	PRON	_	Person=3	2	nsubj	_	SpaceAfter=No|Tone=1|Translit=tā
 2	有	有	VERB	_	_	0	root	_	SpaceAfter=No|Tone=3|Translit=yǒu
-3	一	一	NUM	_	NumType=Card	4	nummod	_	Gloss=one|SpaceAfter=No|Tone=1|Translit=yī
-4	个	个	NOUN	_	_	5	clf	_	Gloss=CLF|SpaceAfter=No|Tone=4|Translit=gè
+3	一	一	NUM	_	NumType=Card	5	nummod	_	Gloss=one|SpaceAfter=No|Tone=1|Translit=yī
+4	个	个	NOUN	_	_	3	clf	_	Gloss=CLF|SpaceAfter=No|Tone=4|Translit=gè
 5	弟弟	弟弟	NOUN	_	_	2	obj	_	SpaceAfter=No|Tone=4_4|Translit=dì_dì
 6	，	，	PUNCT	_	_	8	punct	_	SpaceAfter=No|Translit=，
 7	还	还	SCONJ	_	_	8	cc	_	Grammar_Target=Yes|SpaceAfter=No|Tone=2|Translit=huán
 8	有	有	VERB	_	_	2	conj	_	SpaceAfter=No|Tone=3|Translit=yǒu
-9	一	一	NUM	_	NumType=Card	10	nummod	_	Gloss=one|SpaceAfter=No|Tone=1|Translit=yī
-10	个	个	NOUN	_	_	11	clf	_	Gloss=CLF|SpaceAfter=No|Tone=4|Translit=gè
+9	一	一	NUM	_	NumType=Card	11	nummod	_	Gloss=one|SpaceAfter=No|Tone=1|Translit=yī
+10	个	个	NOUN	_	_	9	clf	_	Gloss=CLF|SpaceAfter=No|Tone=4|Translit=gè
 11	妹妹	妹妹	NOUN	_	_	8	obj	_	SpaceAfter=No|Tone=4_4|Translit=mèi_mèi
 12	。	。	PUNCT	_	_	2	punct	_	SpaceAfter=No|Translit=。
 

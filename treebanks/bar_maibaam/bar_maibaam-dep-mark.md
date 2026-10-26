@@ -11,7 +11,7 @@ This relation is universal.
 343 nodes (2%) are attached to their parents as `mark`.
 
 340 instances of `mark` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.49271137026239.
+Average distance between parent and child is 4.48979591836735.
 
 The following 12 pairs of parts of speech are connected with `mark`: <tt><a href="bar_maibaam-pos-VERB.html">VERB</a></tt>-<tt><a href="bar_maibaam-pos-SCONJ.html">SCONJ</a></tt> (247; 72% instances), <tt><a href="bar_maibaam-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bar_maibaam-pos-PART.html">PART</a></tt> (24; 7% instances), <tt><a href="bar_maibaam-pos-ADJ.html">ADJ</a></tt>-<tt><a href="bar_maibaam-pos-SCONJ.html">SCONJ</a></tt> (23; 7% instances), <tt><a href="bar_maibaam-pos-VERB.html">VERB</a></tt>-<tt><a href="bar_maibaam-pos-PART.html">PART</a></tt> (18; 5% instances), <tt><a href="bar_maibaam-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bar_maibaam-pos-SCONJ.html">SCONJ</a></tt> (15; 4% instances), <tt><a href="bar_maibaam-pos-ADV.html">ADV</a></tt>-<tt><a href="bar_maibaam-pos-SCONJ.html">SCONJ</a></tt> (7; 2% instances), <tt><a href="bar_maibaam-pos-AUX.html">AUX</a></tt>-<tt><a href="bar_maibaam-pos-SCONJ.html">SCONJ</a></tt> (3; 1% instances), <tt><a href="bar_maibaam-pos-VERB.html">VERB</a></tt>-<tt><a href="bar_maibaam-pos-ADP.html">ADP</a></tt> (2; 1% instances), <tt><a href="bar_maibaam-pos-DET.html">DET</a></tt>-<tt><a href="bar_maibaam-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="bar_maibaam-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bar_maibaam-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="bar_maibaam-pos-PRON.html">PRON</a></tt>-<tt><a href="bar_maibaam-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="bar_maibaam-pos-PROPN.html">PROPN</a></tt>-<tt><a href="bar_maibaam-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
@@ -49,7 +49,7 @@ The following 12 pairs of parts of speech are connected with `mark`: <tt><a href
 5	wos	_	PRON	_	_	8	nsubj	_	GermanLemma=was
 6	zu	_	PART	_	_	8	mark	_	GermanLemma=zu
 7	m	_	DET	_	_	8	det	_	GermanLemma=das
-8	Tuan	_	NOUN	_	_	2	ccomp	_	GermanLemma=Tun
+8	Tuan	_	NOUN	_	_	2	ccomp	_	GermanLemma=tun
 9	is	_	AUX	_	_	8	cop	_	GermanLemma=sein|SpaceAfter=No
 10	,	_	PUNCT	_	_	13	punct	_	GermanLemma=,
 11	und	_	CCONJ	_	_	13	cc	_	GermanLemma=und
@@ -68,12 +68,12 @@ The following 12 pairs of parts of speech are connected with `mark`: <tt><a href
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 3 mark	color:blue
-1	Fir	_	ADP	_	_	6	advmod	_	GermanLemma=für
-2	des	_	DET	_	_	1	fixed	_	GermanLemma=das
+1	Fir	_	ADP	_	_	2	case	_	GermanLemma=für
+2	des	_	PRON	_	_	13	obl	_	GermanLemma=das
 3	das	_	SCONJ	_	_	6	mark	_	GermanLemma=dass|SpaceAfter=No
 4	'a	_	PRON	_	_	6	nsubj	_	GermanLemma=er
 5	su	_	ADV	_	_	6	advmod	_	GermanLemma=so
-6	olt	_	ADJ	_	_	13	advcl	_	GermanLemma=alt
+6	olt	_	ADJ	_	_	2	ccomp	_	GermanLemma=alt
 7	is	_	AUX	_	_	6	cop	_	GermanLemma=sein|SpaceAfter=No
 8	,	_	PUNCT	_	_	6	punct	_	GermanLemma=,
 9	is	_	AUX	_	_	13	cop	_	GermanLemma=sein|SpaceAfter=No

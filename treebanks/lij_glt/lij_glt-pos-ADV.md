@@ -63,12 +63,12 @@ The 2nd highest number of forms (2) was observed with the lemma “cian”: <em>
 
 The 3rd highest number of forms (2) was observed with the lemma “comme”: <em>comm', comme</em>.
 
-`ADV` occurs with 1 features: <tt><a href="lij_glt-feat-Degree.html">Degree</a></tt> (2; 0% instances)
+`ADV` occurs with 2 features: <tt><a href="lij_glt-feat-Degree.html">Degree</a></tt> (2; 0% instances), <tt><a href="lij_glt-feat-ExtPos.html">ExtPos</a></tt> (1; 0% instances)
 
-`ADV` occurs with 1 feature-value pairs: `Degree=Cmp`
+`ADV` occurs with 2 feature-value pairs: `Degree=Cmp`, `ExtPos=DET`
 
-`ADV` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (457 tokens).
+`ADV` occurs with 3 feature combinations.
+The most frequent feature combination is `_` (456 tokens).
 Examples: <em>no, ciù, ben, tanto, chì, coscì, gh', lì, ascì, insemme</em>
 
 

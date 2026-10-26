@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-18 nodes (0%) are attached to their parents as `dep`.
+16 nodes (0%) are attached to their parents as `dep`.
 
-9 instances of `dep` (50%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.44444444444444.
+9 instances of `dep` (56%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.625.
 
-The following 10 pairs of parts of speech are connected with `dep`: <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (4; 22% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_edt-pos-X.html">X</a></tt> (4; 22% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (2; 11% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_edt-pos-VERB.html">VERB</a></tt> (2; 11% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_edt-pos-SCONJ.html">SCONJ</a></tt> (1; 6% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (1; 6% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_edt-pos-PRON.html">PRON</a></tt> (1; 6% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> (1; 6% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_edt-pos-PRON.html">PRON</a></tt> (1; 6% instances), <tt><a href="et_edt-pos-X.html">X</a></tt>-<tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (1; 6% instances).
+The following 8 pairs of parts of speech are connected with `dep`: <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (4; 25% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_edt-pos-X.html">X</a></tt> (4; 25% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (2; 13% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_edt-pos-VERB.html">VERB</a></tt> (2; 13% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_edt-pos-SCONJ.html">SCONJ</a></tt> (1; 6% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_edt-pos-PRON.html">PRON</a></tt> (1; 6% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> (1; 6% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_edt-pos-PRON.html">PRON</a></tt> (1; 6% instances).
 
 
 ~~~ conllu
@@ -31,7 +31,7 @@ The following 10 pairs of parts of speech are connected with `dep`: <tt><a href=
 7	:	:	PUNCT	Z	_	8	punct	8:punct	_
 8	tööraha	töö_raha	NOUN	S	Case=Nom|Number=Sing	6	appos	6:appos	_
 9	pluss	pluss	NOUN	S	Case=Nom|Number=Sing	13	dep	13:dep	_
-10	Feeri	Feer	PROPN	S	Case=Gen|Number=Sing	12	obl	12:obl	NE=B-Org
+10	Feeri	Feer	PROPN	S	Case=Gen|Number=Sing	12	obl:agent	12:obl:agent	NE=B-Org
 11	poolt	poolt	ADP	K	AdpType=Post	10	case	10:case	_
 12	lisatud	lisa=tud	ADJ	A	Degree=Pos|Tense=Past|VerbForm=Part|Voice=Pass	13	acl	13:acl	_
 13	protsendid	protsent	NOUN	S	Case=Nom|Number=Plur	8	conj	8:conj	SpaceAfter=No
@@ -46,7 +46,7 @@ The following 10 pairs of parts of speech are connected with `dep`: <tt><a href=
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 11 dep	color:blue
-1	Lõpuks	lõpuks	ADV	D	_	4	advmod	4:advmod	_
+1	Lõpuks	lõpuks	ADV	D	_	4	advmod:tmod	4:advmod	_
 2	on	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	aux	4:aux	_
 3	välja	välja	ADV	D	_	4	compound:prt	4:compound	_
 4	toodud	tooma	VERB	V	Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	_
@@ -89,7 +89,7 @@ The following 10 pairs of parts of speech are connected with `dep`: <tt><a href=
 8	stepp	stepp	NOUN	S	Case=Nom|Number=Sing	5	dep	5:dep	SpaceAfter=No
 9	,	,	PUNCT	Z	_	10	punct	10:punct	_
 10	see	see	PRON	P	Case=Nom|Number=Sing|PronType=Dem	12	nsubj:cop	12:nsubj:cop	_
-11	on	olema	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	cop	12:cop	_
+11	on	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	cop	12:cop	_
 12	aeroobikasuund	aeroobika_suund	NOUN	S	Case=Nom|Number=Sing	8	acl	8:acl	_
 13	-	-	PUNCT	Z	_	12	punct	12:punct	_
 14	steppaeroobika	stepp_aeroobika	NOUN	S	Case=Nom|Number=Sing	12	appos	12:appos	SpaceAfter=No

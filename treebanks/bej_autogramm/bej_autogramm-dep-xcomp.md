@@ -8,34 +8,32 @@ udver: '2'
 
 This relation is universal.
 
-48 nodes (0%) are attached to their parents as `xcomp`.
+51 nodes (0%) are attached to their parents as `xcomp`.
 
-48 instances of `xcomp` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.97916666666667.
+51 instances of `xcomp` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.92156862745098.
 
-The following 5 pairs of parts of speech are connected with `xcomp`: <tt><a href="bej_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="bej_autogramm-pos-NOUN.html">NOUN</a></tt> (41; 85% instances), <tt><a href="bej_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="bej_autogramm-pos-ADJ.html">ADJ</a></tt> (3; 6% instances), <tt><a href="bej_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="bej_autogramm-pos-INTJ.html">INTJ</a></tt> (2; 4% instances), <tt><a href="bej_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="bej_autogramm-pos-ADP.html">ADP</a></tt> (1; 2% instances), <tt><a href="bej_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="bej_autogramm-pos-X.html">X</a></tt> (1; 2% instances).
+The following 5 pairs of parts of speech are connected with `xcomp`: <tt><a href="bej_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="bej_autogramm-pos-NOUN.html">NOUN</a></tt> (44; 86% instances), <tt><a href="bej_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="bej_autogramm-pos-ADJ.html">ADJ</a></tt> (3; 6% instances), <tt><a href="bej_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="bej_autogramm-pos-INTJ.html">INTJ</a></tt> (2; 4% instances), <tt><a href="bej_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="bej_autogramm-pos-ADP.html">ADP</a></tt> (1; 2% instances), <tt><a href="bej_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="bej_autogramm-pos-X.html">X</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 1 xcomp	color:blue
-1	ʃakeː	_	NOUN	N	Gender=Masc	3	xcomp	_	AlignBegin=163445|AlignEnd=163631|Gloss=precipice|RX=[N].[M]|TokenType=Root
-2	=b	_	DET	DET	Case=Acc|Gender=Masc	1	det	_	AlignBegin=163631|AlignEnd=163816|Gloss==INDF.M.ACC|RX==[DET]|TokenType=Clit
-3	akaːt	_	VERB	V1	Gender=Fem|VerbClass=1	5	acl	_	AlignBegin=163816|AlignEnd=164187|Gloss=become|MGloss=become-CVB.MNR-INDF.F|MSeg=ak-aː-t|RX=[V1].[IRG]-[DET]|TokenType=Root
-4	t=	_	DET	DET	Definite=Def|Gender=Fem	5	det	_	AlignBegin=164187|AlignEnd=164261|Gloss=DEF.F=|RX=[DET]=|TokenType=Clit
-5	ʔabaː	_	NOUN	N	Gender=Fem	0	root	_	AlignBegin=164261|AlignEnd=164335|Gloss=river_branch|RX=[N].[F]|TokenType=Root
-6	=t	_	DET	DET	Gender=Fem	5	det	_	AlignBegin=164335|AlignEnd=164409|Gloss==INDF.F|RX==[DET]|TokenType=Clit
-7	=u	_	AUX	N.COP	Number=Sing|Person=3|VerbType=Cop	5	cop	_	AlignBegin=164409|AlignEnd=164483|Gloss==COP.3SG|RX==[PRED].[N]|TokenType=Clit
-8	=it	_	SCONJ	CONJ	_	5	dep	_	AlignBegin=164483|AlignEnd=164558|Gloss==CSL|RX==[CONJ]|TokenType=Clit
-9	//	_	PUNCT	_	_	5	punct	_	AlignBegin=164558|AlignEnd=164928|Gloss=//|TokenType=Break
-10	t=	_	DET	DET	Definite=Def|Gender=Fem	11	det	_	AlignBegin=165241|AlignEnd=165315|Gloss=DEF.F=|RX=[DET]=|TokenType=Clit
-11	ʔabaː	_	NOUN	N	Gender=Fem	13	dep:comp	_	AlignBegin=165315|AlignEnd=165389|Gloss=river_branch|RX=[N].[F]|TokenType=Root
-12	=t	_	DET	DET	Gender=Fem	11	det	_	AlignBegin=165389|AlignEnd=165463|Gloss==INDF.F|RX==[DET]|TokenType=Clit
-13	=iːb	_	ADP	POSTP	Case=Loc|Number=Sing	5	obl:arg	_	AlignBegin=165463|AlignEnd=165537|Gloss==LOC.SG|RX==[POSTP]|TokenType=Clit
-14	//	_	PUNCT	_	_	5	punct	_	AlignBegin=165537|AlignEnd=165832|Gloss=//|TokenType=Break
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 11 10 xcomp	color:blue
+1	manniima	_	VERB	N	Gender=Masc|Number=Sing	2	ccomp	_	AlignBegin=292160|AlignEnd=292498|Gloss=wish|MGloss=wish-MID-IMP.SG.M|MSeg=manni-im-a|RX=[N].[M]-[V2].[DER]-[TAM].[PNG]|TokenType=Root
+2	ini	_	VERB	V1	Gender=Masc|Number=Sing|VerbClass=1	3	dep:comp	_	AlignBegin=292498|AlignEnd=292724|Gloss=say|MGloss=3SG.M-say|MSeg=i-ni|RX=[PNG]-[V1].[IRG]|TokenType=Root
+3	=jeːb	_	SCONJ	CONJ.REL	Gender=Masc|Number=Sing	6	dep:comp	_	AlignBegin=292724|AlignEnd=292836|Gloss==REL.SG.M|RX==[CONJ]|TokenType=Clit
+4	/	_	PUNCT	PUNCT	_	3	punct	_	AlignBegin=292836|AlignEnd=293175|Gloss=/|TokenType=Break
+5	i=	_	DET	DET	Definite=Def|Gender=Masc	6	det	_	AlignBegin=293175|AlignEnd=293269|Gloss=DEF.M=|RX=[DET]=|TokenType=Clit
+6	manniimti	_	NOUN	N.V	_	7	dep:comp	_	AlignBegin=293269|AlignEnd=293551|Gloss=wish|MGloss=wish-MID-N.AC|MSeg=manni-im-ti|RX=[V2]-[V2].[DER]-[N].[V]|TokenType=Root
+7	=iː	_	ADP	POSTP	Case=Abl|Number=Sing	8	obl:arg	_	AlignBegin=293551|AlignEnd=293645|Gloss==ABL.SG|RX==[POSTP]|TokenType=Clit
+8	imri	_	VERB	V1	Aspect=Perf|Gender=Masc|Number=Sing|VerbClass=1	9	dep:comp	_	AlignBegin=293645|AlignEnd=293881|Gloss=find\PFV|MGloss=3SG.M-find\PFV|MSeg=i-mri|RelRole=Obj|RX=[PNG]-[V1]|TokenType=Root
+9	=jeː	_	SCONJ	CONJ.REL	PronType=Rel	10	acl:relcl	_	AlignBegin=293881|AlignEnd=293999|Gloss==REL|RX==[CONJ]|TokenType=Clit
+10	=na	_	NOUN	CONJ	_	11	xcomp	_	AlignBegin=293999|AlignEnd=294115|Gloss==thing|RX==[CONJ]|TokenType=Clit
+11	tikati	_	VERB	V1	Gender=Fem|Number=Sing|VerbClass=1	0	root	_	AlignBegin=294115|AlignEnd=294585|Gloss=become|MGloss=3SG.F-become|MSeg=ti-kati|RX=[PNG]-[V1].[IRG]|TokenType=Root
+12	//	_	PUNCT	PUNCT	_	11	punct	_	AlignBegin=294585|AlignEnd=295055|Gloss=//|TokenType=Break
 
 ~~~
 

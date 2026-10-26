@@ -13,7 +13,7 @@ This relation is universal.
 7506 instances of `cop` (97%) are right-to-left (child precedes parent).
 Average distance between parent and child is 2.22388831437435.
 
-The following 10 pairs of parts of speech are connected with `cop`: <tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> (3740; 48% instances), <tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> (2714; 35% instances), <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt>-<tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> (379; 5% instances), <tt><a href="no_nynorsk-pos-ADV.html">ADV</a></tt>-<tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> (221; 3% instances), <tt><a href="no_nynorsk-pos-PRON.html">PRON</a></tt>-<tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> (216; 3% instances), <tt><a href="no_nynorsk-pos-ADP.html">ADP</a></tt>-<tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> (197; 3% instances), <tt><a href="no_nynorsk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> (121; 2% instances), <tt><a href="no_nynorsk-pos-DET.html">DET</a></tt>-<tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> (98; 1% instances), <tt><a href="no_nynorsk-pos-NUM.html">NUM</a></tt>-<tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> (46; 1% instances), <tt><a href="no_nynorsk-pos-X.html">X</a></tt>-<tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> (4; 0% instances).
+The following 10 pairs of parts of speech are connected with `cop`: <tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> (3740; 48% instances), <tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> (2714; 35% instances), <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt>-<tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> (379; 5% instances), <tt><a href="no_nynorsk-pos-ADV.html">ADV</a></tt>-<tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> (221; 3% instances), <tt><a href="no_nynorsk-pos-PRON.html">PRON</a></tt>-<tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> (216; 3% instances), <tt><a href="no_nynorsk-pos-ADP.html">ADP</a></tt>-<tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> (197; 3% instances), <tt><a href="no_nynorsk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> (120; 2% instances), <tt><a href="no_nynorsk-pos-DET.html">DET</a></tt>-<tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> (98; 1% instances), <tt><a href="no_nynorsk-pos-NUM.html">NUM</a></tt>-<tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> (46; 1% instances), <tt><a href="no_nynorsk-pos-X.html">X</a></tt>-<tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> (5; 0% instances).
 
 
 ~~~ conllu
@@ -54,9 +54,9 @@ The following 10 pairs of parts of speech are connected with `cop`: <tt><a href=
 6	,	$,	PUNCT	<komma>	_	12	punct	_	_
 7	og	og	CCONJ	konj	_	12	cc	_	_
 8	er	vere	AUX	verb	Mood=Ind|Tense=Pres|VerbForm=Fin	12	cop	_	_
-9	proteinrik	proteinrik	ADJ	adj	Definite=Ind|Degree=Pos|Gender=Fem,Masc	12	amod	_	_
+9	proteinrik	proteinrik	ADJ	adj	Definite=Ind|Degree=Pos|Gender=Com	12	amod	_	_
 10	og	og	CCONJ	konj	_	11	cc	_	_
-11	god	god	ADJ	adj	Definite=Ind|Degree=Pos|Gender=Fem,Masc	9	conj	_	_
+11	god	god	ADJ	adj	Definite=Ind|Degree=Pos|Gender=Com	9	conj	_	_
 12	mat	mat	NOUN	subst	Definite=Ind|Gender=Masc	5	conj	_	SpaceAfter=No
 13	.	$.	PUNCT	clb	_	5	punct	_	_
 

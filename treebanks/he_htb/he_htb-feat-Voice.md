@@ -33,7 +33,7 @@ The most frequent other feature values with which `VERB` and `Voice` co-occurred
 
 The 10 most frequent relations where parent and child node agree in `Voice`:
 <tt>VERB --[<tt><a href="he_htb-dep-conj.html">conj</a></tt>]--> VERB</tt> (769; 50%),
-<tt>VERB --[<tt><a href="he_htb-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (566; 54%),
-<tt>VERB --[<tt><a href="he_htb-dep-dep.html">dep</a></tt>]--> VERB</tt> (73; 57%),
+<tt>VERB --[<tt><a href="he_htb-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (567; 54%),
+<tt>VERB --[<tt><a href="he_htb-dep-dep.html">dep</a></tt>]--> VERB</tt> (72; 57%),
 <tt>VERB --[<tt><a href="he_htb-dep-obj.html">obj</a></tt>]--> VERB</tt> (22; 71%).
 

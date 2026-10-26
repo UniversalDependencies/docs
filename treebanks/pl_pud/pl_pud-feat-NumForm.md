@@ -42,7 +42,7 @@ The most frequent other feature values with which `NUM` and `NumForm` co-occurre
 
 ### `X`
 
-21 <tt><a href="pl_pud-pos-X.html">X</a></tt> tokens (27% of all `X` tokens) have a non-empty value of `NumForm`.
+21 <tt><a href="pl_pud-pos-X.html">X</a></tt> tokens (20% of all `X` tokens) have a non-empty value of `NumForm`.
 
 The most frequent other feature values with which `X` and `NumForm` co-occurred: <tt><a href="pl_pud-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (21; 100%).
 

@@ -23,7 +23,7 @@ The most frequent other feature values with which `VERB` and `Polarity` co-occur
 `VERB` tokens may have the following values of `Polarity`:
 
 * `Neg` (31; 100% of non-empty `Polarity`): <em>njesłuša, njeje, Njejsu, Njewědźeše, Njewěm, njeběchu, njeda, njefunguja, njeliča, njeliči</em>
-* `EMPTY` (791): <em>ma, leži, móže, wobsahuje, móžeš, su, hlej, maja, rěči, běchu</em>
+* `EMPTY` (787): <em>ma, leži, móže, wobsahuje, móžeš, su, hlej, maja, rěči, běchu</em>
 
 `Polarity` seems to be **lexical feature** of `VERB`. 100% lemmas (19) occur only with one value of `Polarity`.
 
@@ -36,7 +36,7 @@ The most frequent other feature values with which `AUX` and `Polarity` co-occurr
 `AUX` tokens may have the following values of `Polarity`:
 
 * `Neg` (17; 100% of non-empty `Polarity`): <em>njeje, njejsu, njebuchu, njesu</em>
-* `EMPTY` (272): <em>je, su, bu, bě, buchu, by, běchu, buštej, stej, bychu</em>
+* `EMPTY` (271): <em>je, su, bu, bě, buchu, by, běchu, buštej, stej, bychu</em>
 
 ### `ADJ`
 
@@ -47,13 +47,15 @@ The most frequent other feature values with which `ADJ` and `Polarity` co-occurr
 `ADJ` tokens may have the following values of `Polarity`:
 
 * `Neg` (11; 100% of non-empty `Polarity`): <em>njedemokratiska, njeparujomna, njeparujomny, njeprawe, njepřizjewjene, njerozpušćomny, njewonjaty, njewotemrěne, njewotwisnych, njeznate</em>
-* `EMPTY` (1410): <em>serbski, druhe, druhich, najwjetše, prěni, prěnje, serbskeje, Serbskeho, wulke, wulki</em>
+* `EMPTY` (1408): <em>serbski, druhe, druhich, najwjetše, prěni, prěnje, serbskeje, Serbskeho, wulki, ablawtowych</em>
 
 `Polarity` seems to be **lexical feature** of `ADJ`. 100% lemmas (10) occur only with one value of `Polarity`.
 
 ### `PART`
 
 10 <tt><a href="hsb_ufal-pos-PART.html">PART</a></tt> tokens (42% of all `PART` tokens) have a non-empty value of `Polarity`.
+
+The most frequent other feature values with which `PART` and `Polarity` co-occurred: <tt><a href="hsb_ufal-feat-ExtPos.html">ExtPos</a></tt><tt>=EMPTY</tt> (7; 70%).
 
 `PART` tokens may have the following values of `Polarity`:
 

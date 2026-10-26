@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `csubj`: <tt><a href="zh_gsd-dep-csubj-pass.html">csubj:pass</a></tt>.
 
-374 nodes (0%) are attached to their parents as `csubj`.
+369 nodes (0%) are attached to their parents as `csubj`.
 
-374 instances of `csubj` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 6.44919786096257.
+369 instances of `csubj` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 6.34688346883469.
 
-The following 21 pairs of parts of speech are connected with `csubj`: <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> (221; 59% instances), <tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> (49; 13% instances), <tt><a href="zh_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> (24; 6% instances), <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_gsd-pos-ADJ.html">ADJ</a></tt> (23; 6% instances), <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt> (20; 5% instances), <tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt> (12; 3% instances), <tt><a href="zh_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> (4; 1% instances), <tt><a href="zh_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> (4; 1% instances), <tt><a href="zh_gsd-pos-ADP.html">ADP</a></tt>-<tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="zh_gsd-pos-PART.html">PART</a></tt>-<tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="zh_gsd-pos-PART.html">PART</a></tt>-<tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_gsd-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="zh_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="zh_gsd-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="zh_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="zh_gsd-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="zh_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="zh_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="zh_gsd-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="zh_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="zh_gsd-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="zh_gsd-pos-AUX.html">AUX</a></tt>-<tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="zh_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_gsd-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="zh_gsd-pos-X.html">X</a></tt>-<tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The following 21 pairs of parts of speech are connected with `csubj`: <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> (217; 59% instances), <tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> (49; 13% instances), <tt><a href="zh_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> (24; 7% instances), <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_gsd-pos-ADJ.html">ADJ</a></tt> (23; 6% instances), <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt> (20; 5% instances), <tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt> (11; 3% instances), <tt><a href="zh_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> (4; 1% instances), <tt><a href="zh_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> (4; 1% instances), <tt><a href="zh_gsd-pos-ADP.html">ADP</a></tt>-<tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="zh_gsd-pos-PART.html">PART</a></tt>-<tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="zh_gsd-pos-PART.html">PART</a></tt>-<tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_gsd-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="zh_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="zh_gsd-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="zh_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="zh_gsd-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="zh_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="zh_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="zh_gsd-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="zh_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="zh_gsd-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="zh_gsd-pos-AUX.html">AUX</a></tt>-<tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="zh_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_gsd-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="zh_gsd-pos-X.html">X</a></tt>-<tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -64,8 +64,8 @@ The following 21 pairs of parts of speech are connected with `csubj`: <tt><a hre
 15	的	的	PART	DEC	Case=Gen	14	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 16	高度	高度	NOUN	NN	_	12	obj	_	SpaceAfter=No|Translit=gāodù|LTranslit=gāodù
 17	，	，	PUNCT	,	_	12	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-18	這	這	DET	DT	_	19	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-19	條	條	NOUN	NNB	_	20	clf	_	SpaceAfter=No|Translit=tiáo|LTranslit=tiáo
+18	這	這	DET	DT	_	20	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+19	條	條	NOUN	NNB	_	18	clf	_	SpaceAfter=No|Translit=tiáo|LTranslit=tiáo
 20	線	線	NOUN	NN	_	21	nsubj	_	SpaceAfter=No|Translit=xiàn|LTranslit=xiàn
 21	代表	代表	VERB	VV	_	26	csubj	_	SpaceAfter=No|Translit=dàibiǎo|LTranslit=dàibiǎo
 22	的	的	SCONJ	DEC	_	21	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
@@ -86,7 +86,7 @@ The following 21 pairs of parts of speech are connected with `csubj`: <tt><a hre
 # visual-style 15 12 csubj	color:blue
 1	直接	直接	ADV	RB	_	3	advmod	_	SpaceAfter=No|Translit=zhíjiē|LTranslit=zhíjiē
 2	結晶	結晶	VERB	VV	_	3	advcl	_	SpaceAfter=No|Translit=jiéjīng|LTranslit=jiéjīng
-3	拆分	拆分	VERB	VV	_	6	csubj	_	SpaceAfter=No|Translit=chāifēn|LTranslit=chāifēn
+3	拆分	拆分	VERB	VV	_	5	acl:relcl	_	SpaceAfter=No|Translit=chāifēn|LTranslit=chāifēn
 4	的	的	SCONJ	DEC	_	3	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 5	方法	方法	NOUN	NN	_	6	nsubj	_	SpaceAfter=No|Translit=fāngfǎ|LTranslit=fāngfǎ
 6	有	有	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=yǒu|LTranslit=yǒu

@@ -31,4 +31,4 @@ nsubj(okuttu, Öğretmen)
 Note that the above is ambiguous.
 It may also mean "The teacher made someone to read the book to/for Ali".
 In that case [nmod]() should be used.
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:11:03 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:17 CEST -->

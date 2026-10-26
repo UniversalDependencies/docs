@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-460 nodes (2%) are attached to their parents as `xcomp`.
+464 nodes (2%) are attached to their parents as `xcomp`.
 
-460 instances of `xcomp` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.19347826086957.
+464 instances of `xcomp` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.19396551724138.
 
-The following 5 pairs of parts of speech are connected with `xcomp`: <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> (362; 79% instances), <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_partut-pos-ADJ.html">ADJ</a></tt> (75; 16% instances), <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> (16; 3% instances), <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_partut-pos-PROPN.html">PROPN</a></tt> (5; 1% instances), <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> (2; 0% instances).
+The following 8 pairs of parts of speech are connected with `xcomp`: <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> (362; 78% instances), <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_partut-pos-ADJ.html">ADJ</a></tt> (75; 16% instances), <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> (15; 3% instances), <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_partut-pos-PROPN.html">PROPN</a></tt> (5; 1% instances), <tt><a href="fr_partut-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> (3; 1% instances), <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="fr_partut-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_partut-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_partut-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -46,7 +46,7 @@ The following 5 pairs of parts of speech are connected with `xcomp`: <tt><a href
 4	des	un	DET	RI	Definite=Ind|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
 5	oeuvres	œuvre	NOUN	S	Gender=Fem|Number=Plur	1	obj	_	_
 6	dites	dire	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	5	acl	_	_
-7	derivées	dérivé	ADJ	A	Gender=Fem|Number=Plur	6	xcomp	_	SpaceAfter=No
+7	derivées	dérivé	ADJ	A	Gender=Fem|Number=Plur	6	xcomp	_	_
 8	;	;	PUNCT	FC	_	1	punct	_	_
 
 ~~~

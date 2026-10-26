@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-205 nodes (4%) are attached to their parents as `conj`.
+208 nodes (4%) are attached to their parents as `conj`.
 
-205 instances of `conj` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.98536585365854.
+208 instances of `conj` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.08173076923077.
 
-The following 17 pairs of parts of speech are connected with `conj`: <tt><a href="uz_ut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uz_ut-pos-NOUN.html">NOUN</a></tt> (107; 52% instances), <tt><a href="uz_ut-pos-VERB.html">VERB</a></tt>-<tt><a href="uz_ut-pos-VERB.html">VERB</a></tt> (32; 16% instances), <tt><a href="uz_ut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uz_ut-pos-ADJ.html">ADJ</a></tt> (16; 8% instances), <tt><a href="uz_ut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="uz_ut-pos-PROPN.html">PROPN</a></tt> (16; 8% instances), <tt><a href="uz_ut-pos-VERB.html">VERB</a></tt>-<tt><a href="uz_ut-pos-NOUN.html">NOUN</a></tt> (11; 5% instances), <tt><a href="uz_ut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uz_ut-pos-VERB.html">VERB</a></tt> (5; 2% instances), <tt><a href="uz_ut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uz_ut-pos-NOUN.html">NOUN</a></tt> (4; 2% instances), <tt><a href="uz_ut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uz_ut-pos-VERB.html">VERB</a></tt> (4; 2% instances), <tt><a href="uz_ut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="uz_ut-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="uz_ut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uz_ut-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="uz_ut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uz_ut-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="uz_ut-pos-NUM.html">NUM</a></tt>-<tt><a href="uz_ut-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="uz_ut-pos-PART.html">PART</a></tt>-<tt><a href="uz_ut-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="uz_ut-pos-PRON.html">PRON</a></tt>-<tt><a href="uz_ut-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="uz_ut-pos-PRON.html">PRON</a></tt>-<tt><a href="uz_ut-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="uz_ut-pos-VERB.html">VERB</a></tt>-<tt><a href="uz_ut-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="uz_ut-pos-VERB.html">VERB</a></tt>-<tt><a href="uz_ut-pos-PART.html">PART</a></tt> (1; 0% instances).
+The following 15 pairs of parts of speech are connected with `conj`: <tt><a href="uz_ut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uz_ut-pos-NOUN.html">NOUN</a></tt> (108; 52% instances), <tt><a href="uz_ut-pos-VERB.html">VERB</a></tt>-<tt><a href="uz_ut-pos-VERB.html">VERB</a></tt> (44; 21% instances), <tt><a href="uz_ut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uz_ut-pos-ADJ.html">ADJ</a></tt> (16; 8% instances), <tt><a href="uz_ut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="uz_ut-pos-PROPN.html">PROPN</a></tt> (16; 8% instances), <tt><a href="uz_ut-pos-VERB.html">VERB</a></tt>-<tt><a href="uz_ut-pos-NOUN.html">NOUN</a></tt> (7; 3% instances), <tt><a href="uz_ut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uz_ut-pos-VERB.html">VERB</a></tt> (6; 3% instances), <tt><a href="uz_ut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uz_ut-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="uz_ut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="uz_ut-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="uz_ut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uz_ut-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="uz_ut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uz_ut-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="uz_ut-pos-NUM.html">NUM</a></tt>-<tt><a href="uz_ut-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="uz_ut-pos-PART.html">PART</a></tt>-<tt><a href="uz_ut-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="uz_ut-pos-PRON.html">PRON</a></tt>-<tt><a href="uz_ut-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="uz_ut-pos-PRON.html">PRON</a></tt>-<tt><a href="uz_ut-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="uz_ut-pos-VERB.html">VERB</a></tt>-<tt><a href="uz_ut-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -43,9 +43,9 @@ The following 17 pairs of parts of speech are connected with `conj`: <tt><a href
 2	bunga	bu	PRON	_	Case=Dat|PronType=Dem	3	obj	_	_
 3	ishonib	ishon	VERB	_	VerbForm=Conv	0	root	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	6	punct	_	_
-5	ko‘chaga	ko‘cha	NOUN	_	Case=Dat|Number=Sing	6	obl	_	_
+5	koʻchaga	koʻcha	NOUN	_	Case=Dat|Number=Sing	6	obl	_	_
 6	chiqib	chiq	VERB	_	VerbForm=Conv	3	conj	_	_
-7	ketishyapti	ket	VERB	_	Aspect=Prog|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	compound	_	SpaceAfter=No
+7	ketishyapti	ket	VERB	_	Aspect=Prog|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	compound:svc	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~

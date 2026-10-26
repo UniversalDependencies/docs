@@ -65,13 +65,13 @@ The 2nd highest number of forms (3) was observed with the lemma “את”: או
 
 The 3rd highest number of forms (3) was observed with the lemma “בין”: בין, בינ, ביני.
 
-`ADP` occurs with 4 features: <tt><a href="he_iahltknesset-feat-Case.html">Case</a></tt> (1989; 22% instances), <tt><a href="he_iahltknesset-feat-Definite.html">Definite</a></tt> (1338; 15% instances), <tt><a href="he_iahltknesset-feat-PronType.html">PronType</a></tt> (1338; 15% instances), <tt><a href="he_iahltknesset-feat-Typo.html">Typo</a></tt> (5; 0% instances)
+`ADP` occurs with 5 features: <tt><a href="he_iahltknesset-feat-Case.html">Case</a></tt> (1989; 22% instances), <tt><a href="he_iahltknesset-feat-Definite.html">Definite</a></tt> (1338; 15% instances), <tt><a href="he_iahltknesset-feat-PronType.html">PronType</a></tt> (1338; 15% instances), <tt><a href="he_iahltknesset-feat-ExtPos.html">ExtPos</a></tt> (243; 3% instances), <tt><a href="he_iahltknesset-feat-Typo.html">Typo</a></tt> (2; 0% instances)
 
-`ADP` occurs with 5 feature-value pairs: `Case=Acc`, `Case=Gen`, `Definite=Def`, `PronType=Art`, `Typo=Yes`
+`ADP` occurs with 7 feature-value pairs: `Case=Acc`, `Case=Gen`, `Definite=Def`, `ExtPos=ADP`, `ExtPos=SCONJ`, `PronType=Art`, `Typo=Yes`
 
-`ADP` occurs with 6 feature combinations.
-The most frequent feature combination is `_` (5735 tokens).
-Examples: ב, ל, על, מ, עם, כ, בין, את, עד, כמו
+`ADP` occurs with 7 feature combinations.
+The most frequent feature combination is `_` (5494 tokens).
+Examples: ב, ל, מ, על, עם, כ, בין, את, עלי, כמו
 
 
 ## Relations

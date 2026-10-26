@@ -9,10 +9,10 @@ udver: '2'
 This feature is language-specific.
 It occurs with 2 different values: `Cop`, `Disc`.
 
-4065 tokens (3%) have a non-empty value of `PartType`.
-23 types (0%) occur at least once with a non-empty value of `PartType`.
-20 lemmas (0%) occur at least once with a non-empty value of `PartType`.
-The feature is used with 9 part-of-speech tags: <tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (2787; 2% instances), <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> (986; 1% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (276; 0% instances), <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (7; 0% instances), <tt><a href="pcm_nsc-pos-X.html">X</a></tt> (4; 0% instances), <tt><a href="pcm_nsc-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="pcm_nsc-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+4060 tokens (3%) have a non-empty value of `PartType`.
+18 types (0%) occur at least once with a non-empty value of `PartType`.
+15 lemmas (0%) occur at least once with a non-empty value of `PartType`.
+The feature is used with 7 part-of-speech tags: <tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (2787; 2% instances), <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> (986; 1% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (276; 0% instances), <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (7; 0% instances), <tt><a href="pcm_nsc-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="pcm_nsc-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 ### `AUX`
 
@@ -51,14 +51,6 @@ The most frequent other feature values with which `PART` and `PartType` co-occur
 
 * `Disc` (7; 100% of non-empty `PartType`): <em>kuma</em>
 
-### `X`
-
-4 <tt><a href="pcm_nsc-pos-X.html">X</a></tt> tokens (0% of all `X` tokens) have a non-empty value of `PartType`.
-
-`X` tokens may have the following values of `PartType`:
-
-* `Cop` (4; 100% of non-empty `PartType`): <em>#, [, ], |c</em>
-
 ### `SCONJ`
 
 2 <tt><a href="pcm_nsc-pos-SCONJ.html">SCONJ</a></tt> tokens (0% of all `SCONJ` tokens) have a non-empty value of `PartType`.
@@ -74,16 +66,6 @@ The most frequent other feature values with which `PART` and `PartType` co-occur
 `INTJ` tokens may have the following values of `PartType`:
 
 * `Cop` (1; 100% of non-empty `PartType`): <em>wa</em>
-
-### `NOUN`
-
-1 <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `PartType`.
-
-The most frequent other feature values with which `NOUN` and `PartType` co-occurred: <tt><a href="pcm_nsc-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1; 100%).
-
-`NOUN` tokens may have the following values of `PartType`:
-
-* `Cop` (1; 100% of non-empty `PartType`): <em>feminist</em>
 
 ### `PROPN`
 

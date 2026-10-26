@@ -39,7 +39,7 @@ The following 5 pairs of parts of speech are connected with `xcomp:ds`: <tt><a h
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 4 xcomp:ds	color:blue
-1	pankkitoiminnassa	pankkitoiminta	NOUN	N,Sg,Ine	Case=Ine|Number=Sing	3	nmod	_	Alt=3_nmod
+1	pankkitoiminnassa	pankkitoiminta	NOUN	N,Sg,Ine	Case=Ine|Number=Sing	3	obl	_	Alt=3_nmod
 2	on	olla	AUX	V,Act,Ind,Pres,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	Alt=3_cop
 3	tärkeätä	tärkeä	ADJ	A,Sg,Par	Case=Par|Number=Sing	0	root	_	Alt=0_root|FTB-Rel=modal
 4	tavata	tavata	VERB	V,Act,InfA,Lat	Case=Lat|InfForm=1|VerbForm=Inf|Voice=Act	3	xcomp:ds	_	Alt=3_xcomp:ds

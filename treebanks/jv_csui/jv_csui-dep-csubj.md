@@ -23,12 +23,12 @@ The following 7 pairs of parts of speech are connected with `csubj`: <tt><a href
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 1 csubj	color:blue
-1	Maca	_	VERB	_	Mood=Ind|Voice=Act	4	csubj	_	_
-2	kuwi	_	DET	_	Polite=Infm|PronType=Dem	1	det	_	_
-3	bisa	_	AUX	_	Polite=Infm	4	aux	_	_
-4	mjembarake	_	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
-5	kawruh	_	NOUN	_	Number=Sing	4	obj	_	SpaceAfter=No
-6	.	_	PUNCT	_	_	4	punct	_	_
+1	Maca	waca	VERB	_	Voice=Act	4	csubj	_	_
+2	kuwi	kuwi	DET	_	Polite=Infm|PronType=Dem	1	det	_	_
+3	bisa	bisa	AUX	_	Polite=Infm	4	aux	_	_
+4	mjembarake	jembar	VERB	_	Voice=Act	0	root	_	_
+5	kawruh	kawruh	NOUN	_	Number=Sing	4	obj	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	4	punct	_	_
 
 ~~~
 
@@ -39,14 +39,14 @@ The following 7 pairs of parts of speech are connected with `csubj`: <tt><a href
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 6 csubj	color:blue
-1	Yu	_	PROPN	_	_	4	nsubj	_	_
-2	Tuminah	_	PROPN	_	_	1	flat:name	_	_
-3	banjur	_	ADV	_	Polite=Infm	4	advmod	_	_
-4	mbacutake	_	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
-5	sing	_	PRON	_	Polite=Infm|PronType=Rel	6	nsubj	_	_
-6	mindah	_	VERB	_	Mood=Ind|Voice=Act	7	csubj	_	_
-7	blek	_	NOUN	_	Number=Sing	4	obj	_	SpaceAfter=No
-8	.	_	PUNCT	_	_	4	punct	_	_
+1	Yu	yu	PROPN	_	_	4	nsubj	_	_
+2	Tuminah	tuminah	PROPN	_	_	1	flat:name	_	_
+3	banjur	banjur	ADV	_	Polite=Infm	4	advmod	_	_
+4	mbacutake	bacut	VERB	_	Voice=Act	0	root	_	_
+5	sing	sing	PRON	_	Polite=Infm|PronType=Rel	6	nsubj	_	_
+6	mindah	pindah	VERB	_	Voice=Act	7	csubj	_	_
+7	blek	blek	NOUN	_	Number=Sing	4	obj	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	4	punct	_	_
 
 ~~~
 
@@ -57,15 +57,15 @@ The following 7 pairs of parts of speech are connected with `csubj`: <tt><a href
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 1 csubj	color:blue
-1	Entuk	_	VERB	_	Mood=Ind|Voice=Act	8	csubj	_	_
-2	dhuwit	_	NOUN	_	Number=Sing	1	obj	_	_
-3	nanging	_	CCONJ	_	Polite=Infm	6	cc	_	_
-4	raga	_	NOUN	_	Number=Sing	6	nsubj	_	_
-5	mu	_	PRON	_	Number=Sing|Person=2|Polite=Infm|PronType=Prs	4	nmod:poss	_	_
-6	rusak	_	NUM	_	NumType=Card	1	conj	_	_
-7	ora	_	PART	_	Polarity=Neg|Polite=Infm	8	advmod	_	_
-8	becik	_	ADJ	_	_	0	root	_	SpaceAfter=No
-9	.	_	PUNCT	_	_	8	punct	_	_
+1	Entuk	entuk	VERB	_	Voice=Act	8	csubj	_	_
+2	dhuwit	dhuwit	NOUN	_	Number=Sing	1	obj	_	_
+3	nanging	nanging	CCONJ	_	Polite=Infm	6	cc	_	_
+4	raga	raga	NOUN	_	Number=Sing	6	nsubj	_	_
+5	mu	mu	PRON	_	Number=Sing|Person=2|Polite=Infm|PronType=Prs	4	nmod:poss	_	_
+6	rusak	rusak	NUM	_	NumType=Card	1	conj	_	_
+7	ora	ora	PART	_	Polarity=Neg|Polite=Infm	8	advmod	_	_
+8	becik	becik	ADJ	_	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	8	punct	_	_
 
 ~~~
 

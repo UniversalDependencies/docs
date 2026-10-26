@@ -9,24 +9,24 @@ udver: '2'
 This feature is universal but the values `Hab` are language-specific.
 It occurs with 4 different values: `Hab`, `Imp`, `Perf`, `Prog`.
 
-120 tokens (1%) have a non-empty value of `Aspect`.
-81 types (2%) occur at least once with a non-empty value of `Aspect`.
-62 lemmas (3%) occur at least once with a non-empty value of `Aspect`.
-The feature is used with 2 part-of-speech tags: <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt> (100; 1% instances), <tt><a href="bxr_bdt-pos-AUX.html">AUX</a></tt> (20; 0% instances).
+121 tokens (1%) have a non-empty value of `Aspect`.
+82 types (2%) occur at least once with a non-empty value of `Aspect`.
+63 lemmas (3%) occur at least once with a non-empty value of `Aspect`.
+The feature is used with 2 part-of-speech tags: <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt> (101; 1% instances), <tt><a href="bxr_bdt-pos-AUX.html">AUX</a></tt> (20; 0% instances).
 
 ### `VERB`
 
-100 <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt> tokens (7% of all `VERB` tokens) have a non-empty value of `Aspect`.
+101 <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt> tokens (7% of all `VERB` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="bxr_bdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (100; 100%), <tt><a href="bxr_bdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (100; 100%), <tt><a href="bxr_bdt-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (70; 70%).
+The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="bxr_bdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (101; 100%), <tt><a href="bxr_bdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (101; 100%), <tt><a href="bxr_bdt-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (71; 70%).
 
 `VERB` tokens may have the following values of `Aspect`:
 
 * `Hab` (21; 21% of non-empty `Aspect`): <em>мартадаггүй, оролдодогби, хандуулдаг, абадагби, амардагби, буулгуулдаг, гарадаггүй, гаргадаггүй, дабтагдадагшье, ерэдэггүй</em>
 * `Imp` (38; 38% of non-empty `Aspect`): <em>ерээ, ерээд, байгааш, гүйгээб, хэлээгүй, ажаһуугаад, багтаагүй, байгаад, бодхоогоод, бүтээгээд</em>
-* `Perf` (32; 32% of non-empty `Aspect`): <em>абаба, хэлэбэ, оробо, хүртэбэ, асарба, баалаба, бая-суулба, болобо, гараба, дэлгэбэ</em>
+* `Perf` (33; 33% of non-empty `Aspect`): <em>абаба, хэлэбэ, оробо, хүртэбэ, асарба, баалаба, бая-суулба, болобо, бэшэбэ, гараба</em>
 * `Prog` (9; 9% of non-empty `Aspect`): <em>байнабди, гэлдэнэбди, дурданабди, мэдэрнэбди, хаанабши, харанабши, хатарнабди, хэнэбди</em>
-* `EMPTY` (1430): <em>гэжэ, бии, байгаа, бэлэй, гээшэ, ажаһуудаг, эхилээ, ябаа, байна, хэжэ</em>
+* `EMPTY` (1429): <em>гэжэ, бии, байгаа, бэлэй, гээшэ, ажаһуудаг, эхилээ, ябаа, байна, хэжэ</em>
 
 <table>
   <tr><th>Paradigm <i>хэ</i></th><th><tt>Imp</tt></th><th><tt>Perf</tt></th><th><tt>Prog</tt></th></tr>

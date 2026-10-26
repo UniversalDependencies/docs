@@ -23,5 +23,5 @@ The most frequent other feature values with which `DET` and `Poss` co-occurred: 
 `DET` tokens may have the following values of `Poss`:
 
 * `Yes` (80; 100% of non-empty `Poss`): <em>swojej, swoich, swoje, swojego, swoim, swoją, swój, Nasze, mój, naszych</em>
-* `EMPTY` (430): <em>które, który, tym, ten, która, wiele, więcej, tych, tego, którzy</em>
+* `EMPTY` (431): <em>które, który, tym, ten, która, wiele, więcej, tych, tego, którzy</em>
 

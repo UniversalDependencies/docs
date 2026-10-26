@@ -51,7 +51,7 @@ The following 10 pairs of parts of speech are connected with `vocative`: <tt><a 
 5	u	u	ADP	Sl	Case=Loc	6	case	_	_
 6	montaži	montaža	NOUN	Ncfsl	Case=Loc|Gender=Fem|Number=Sing	7	obl	_	_
 7	dodan	dodati	ADJ	Appmsnn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	0	root	_	_
-8	njegov	njegov	DET	Ps3msn	Case=Nom|Gender=Masc|Gender[psor]=Masc,Neut|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	9	det	_	_
+8	njegov	njegov	DET	Ps3msn	Case=Nom|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	9	det	_	Gender[psor]=Masc,Neut
 9	glas	glas	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	_
 10	koji	koji	DET	Pi-msn	Case=Nom|Gender=Masc|Number=Sing|PronType=Int,Rel	11	nsubj	_	_
 11	kaže	kazati	VERB	Vmr3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	acl	_	SpaceAfter=No

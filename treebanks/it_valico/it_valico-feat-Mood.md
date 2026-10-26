@@ -51,7 +51,7 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 * `Imp` (14; 4% of non-empty `Mood`): <em>lascia, scusi, aspetti, scusate, smetti, vada, vai</em>
 * `Ind` (335; 93% of non-empty `Mood`): <em>era, portava, aveva, sembrava, leggeva, gridava, pensava, amo, pensavo, piace</em>
 * `Sub` (5; 1% of non-empty `Mood`): <em>desse, dicesse, lasciasse, riceva, senta</em>
-* `EMPTY` (607): <em>detto, visto, fatto, leggendo, pensato, sentito, seduto, cominciato, fare, andare</em>
+* `EMPTY` (608): <em>detto, visto, fatto, leggendo, pensato, sentito, seduto, cominciato, fare, andare</em>
 
 <table>
   <tr><th>Paradigm <i>lasciare</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Cnd</tt></th><th><tt>Sub</tt></th></tr>

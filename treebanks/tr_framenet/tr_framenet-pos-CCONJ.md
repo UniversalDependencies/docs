@@ -13,7 +13,7 @@ The 10 most frequent `CCONJ` lemmas: <em>de, ve, da, ama, ne, yoksa, fakat, anca
 
 The 10 most frequent `CCONJ` types:  <em>de, ve, da, ama, ne, yoksa, fakat, ancak, ile, hatta</em>
 
-The 10 most frequent ambiguous lemmas: <em>de</em> (<tt><a href="tr_framenet-pos-CCONJ.html">CCONJ</a></tt> 70, <tt><a href="tr_framenet-pos-VERB.html">VERB</a></tt> 16, <tt><a href="tr_framenet-pos-NOUN.html">NOUN</a></tt> 5, <tt><a href="tr_framenet-pos-ADV.html">ADV</a></tt> 2), <em>ne</em> (<tt><a href="tr_framenet-pos-ADV.html">ADV</a></tt> 17, <tt><a href="tr_framenet-pos-ADJ.html">ADJ</a></tt> 12, <tt><a href="tr_framenet-pos-CCONJ.html">CCONJ</a></tt> 8, <tt><a href="tr_framenet-pos-PRON.html">PRON</a></tt> 7, <tt><a href="tr_framenet-pos-VERB.html">VERB</a></tt> 1), <em>ancak</em> (<tt><a href="tr_framenet-pos-CCONJ.html">CCONJ</a></tt> 3, <tt><a href="tr_framenet-pos-ADV.html">ADV</a></tt> 1), <em>ile</em> (<tt><a href="tr_framenet-pos-ADP.html">ADP</a></tt> 22, <tt><a href="tr_framenet-pos-CCONJ.html">CCONJ</a></tt> 3), <em>ya</em> (<tt><a href="tr_framenet-pos-INTJ.html">INTJ</a></tt> 2, <tt><a href="tr_framenet-pos-CCONJ.html">CCONJ</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>de</em> (<tt><a href="tr_framenet-pos-CCONJ.html">CCONJ</a></tt> 70, <tt><a href="tr_framenet-pos-VERB.html">VERB</a></tt> 25), <em>ne</em> (<tt><a href="tr_framenet-pos-ADV.html">ADV</a></tt> 17, <tt><a href="tr_framenet-pos-ADJ.html">ADJ</a></tt> 12, <tt><a href="tr_framenet-pos-CCONJ.html">CCONJ</a></tt> 8, <tt><a href="tr_framenet-pos-PRON.html">PRON</a></tt> 7, <tt><a href="tr_framenet-pos-X.html">X</a></tt> 1), <em>ancak</em> (<tt><a href="tr_framenet-pos-CCONJ.html">CCONJ</a></tt> 3, <tt><a href="tr_framenet-pos-ADV.html">ADV</a></tt> 1), <em>ile</em> (<tt><a href="tr_framenet-pos-ADP.html">ADP</a></tt> 22, <tt><a href="tr_framenet-pos-CCONJ.html">CCONJ</a></tt> 3), <em>ya</em> (<tt><a href="tr_framenet-pos-INTJ.html">INTJ</a></tt> 2, <tt><a href="tr_framenet-pos-CCONJ.html">CCONJ</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>ne</em> (<tt><a href="tr_framenet-pos-ADV.html">ADV</a></tt> 11, <tt><a href="tr_framenet-pos-ADJ.html">ADJ</a></tt> 8, <tt><a href="tr_framenet-pos-CCONJ.html">CCONJ</a></tt> 5, <tt><a href="tr_framenet-pos-PRON.html">PRON</a></tt> 4), <em>ancak</em> (<tt><a href="tr_framenet-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="tr_framenet-pos-ADV.html">ADV</a></tt> 1), <em>ile</em> (<tt><a href="tr_framenet-pos-ADP.html">ADP</a></tt> 22, <tt><a href="tr_framenet-pos-CCONJ.html">CCONJ</a></tt> 3), <em>ya</em> (<tt><a href="tr_framenet-pos-INTJ.html">INTJ</a></tt> 2, <tt><a href="tr_framenet-pos-CCONJ.html">CCONJ</a></tt> 1)
 
@@ -35,7 +35,7 @@ The 10 most frequent ambiguous types:  <em>ne</em> (<tt><a href="tr_framenet-pos
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.742503).
+The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.977290).
 
 The 1st highest number of forms (1) was observed with the lemma “ama”: <em>ama</em>.
 
@@ -50,7 +50,7 @@ The 3rd highest number of forms (1) was observed with the lemma “ancak”: <em
 
 `CCONJ` nodes are attached to their parents using 9 different relations: <tt><a href="tr_framenet-dep-cc.html">cc</a></tt> (115; 44% instances), <tt><a href="tr_framenet-dep-advmod.html">advmod</a></tt> (83; 32% instances), <tt><a href="tr_framenet-dep-case.html">case</a></tt> (31; 12% instances), <tt><a href="tr_framenet-dep-mark.html">mark</a></tt> (11; 4% instances), <tt><a href="tr_framenet-dep-compound.html">compound</a></tt> (7; 3% instances), <tt><a href="tr_framenet-dep-discourse.html">discourse</a></tt> (7; 3% instances), <tt><a href="tr_framenet-dep-fixed.html">fixed</a></tt> (4; 2% instances), <tt><a href="tr_framenet-dep-amod.html">amod</a></tt> (1; 0% instances), <tt><a href="tr_framenet-dep-obl.html">obl</a></tt> (1; 0% instances)
 
-Parents of `CCONJ` nodes belong to 8 different parts of speech: <tt><a href="tr_framenet-pos-VERB.html">VERB</a></tt> (102; 39% instances), <tt><a href="tr_framenet-pos-NOUN.html">NOUN</a></tt> (99; 38% instances), <tt><a href="tr_framenet-pos-PRON.html">PRON</a></tt> (30; 12% instances), <tt><a href="tr_framenet-pos-ADV.html">ADV</a></tt> (14; 5% instances), <tt><a href="tr_framenet-pos-PROPN.html">PROPN</a></tt> (7; 3% instances), <tt><a href="tr_framenet-pos-ADJ.html">ADJ</a></tt> (5; 2% instances), <tt><a href="tr_framenet-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="tr_framenet-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances)
+Parents of `CCONJ` nodes belong to 9 different parts of speech: <tt><a href="tr_framenet-pos-VERB.html">VERB</a></tt> (114; 44% instances), <tt><a href="tr_framenet-pos-NOUN.html">NOUN</a></tt> (87; 33% instances), <tt><a href="tr_framenet-pos-PRON.html">PRON</a></tt> (30; 12% instances), <tt><a href="tr_framenet-pos-ADV.html">ADV</a></tt> (10; 4% instances), <tt><a href="tr_framenet-pos-ADJ.html">ADJ</a></tt> (8; 3% instances), <tt><a href="tr_framenet-pos-PROPN.html">PROPN</a></tt> (7; 3% instances), <tt><a href="tr_framenet-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="tr_framenet-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="tr_framenet-pos-NUM.html">NUM</a></tt> (1; 0% instances)
 
 255 (98%) `CCONJ` nodes are leaves.
 

@@ -17,11 +17,6 @@ Particles are function words that must be associated with another word or phrase
 
 * Negation particle _tama_
 
-* Emphatic markers (e.g. _kha_ emphatic interrogative marker)
+* Negative tag question particle tame-e
 
-* Negative tag question particle _tama-e_
-
-* Temporal genitive linker _kam_
-
-
-
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:37 CEST -->

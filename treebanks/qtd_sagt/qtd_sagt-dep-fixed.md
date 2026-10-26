@@ -66,7 +66,7 @@ The following 15 pairs of parts of speech are connected with `fixed`: <tt><a hre
 3	önce	önce	NOUN	_	Case=Nom|Number=Sing	2	obl	_	CSID=TR|Lang=tr
 4	kendi	kendi	DET	_	_	5	det	_	CSID=TR|Lang=tr
 5	dilleri	dil	NOUN	_	Case=Acc|Number=Plur	0	root	_	CSID=TR|Lang=tr
-6	ondan	o	PRON	_	Case=Abl|Number=Sing|Person=3|PronType=Prs	9	advmod	_	CSID=TR|Lang=tr
+6	ondan	o	PRON	_	Case=Abl|ExtPos=ADV|Number=Sing|Person=3|PronType=Prs	9	advmod	_	CSID=TR|Lang=tr
 7	sonra	sonra	ADP	_	_	6	fixed	_	CSID=TR|Lang=tr
 8	eh	eh	INTJ	_	_	9	discourse	_	CSID=TR|Lang=tr
 9	Englisch	Englisch	PROPN	_	Case=Nom|Gender=Neut|Number=Sing	5	conj	_	CSID=DE|Lang=de|SpaceAfter=No

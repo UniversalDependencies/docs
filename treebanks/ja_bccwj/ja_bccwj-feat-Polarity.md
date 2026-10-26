@@ -21,7 +21,7 @@ The feature is used with 3 part-of-speech tags: <tt><a href="ja_bccwj-pos-AUX.ht
 `AUX` tokens may have the following values of `Polarity`:
 
 * `Neg` (7876; 100% of non-empty `Polarity`): _
-* `EMPTY` (114313): _
+* `EMPTY` (114257): _
 
 ### `NOUN`
 
@@ -30,7 +30,7 @@ The feature is used with 3 part-of-speech tags: <tt><a href="ja_bccwj-pos-AUX.ht
 `NOUN` tokens may have the following values of `Polarity`:
 
 * `Neg` (927; 100% of non-empty `Polarity`): _
-* `EMPTY` (365763): _
+* `EMPTY` (365352): _
 
 ### `SCONJ`
 

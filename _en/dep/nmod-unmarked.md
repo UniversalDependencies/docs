@@ -49,7 +49,19 @@ Einstein himself was in attendance .
 nmod:unmarked(Einstein, himself)
 ~~~
 
-(v) "a couple" as pre-head quantifier
+(v) category descriptor or quantifier following a personal pronoun
+
+~~~ sdparse
+It 's a significant burden for us students .
+nmod:unmarked(us, students)
+~~~
+
+~~~ sdparse
+See you all in the morning .
+nmod:unmarked(you, all)
+~~~
+
+(vi) "a couple" as pre-head quantifier
 
 ~~~ sdparse
 You can have a couple/NOUN cookies .
@@ -57,7 +69,7 @@ det(couple, a)
 nmod:unmarked(cookies, couple)
 ~~~
 
-(vi) scientific scale postmodifiers
+(vii) scientific scale postmodifiers
 
 ~~~ sdparse
 7/NUM degrees/NOUN Fahrenheit/PROPN
@@ -66,8 +78,6 @@ nmod:unmarked(degrees, Fahrenheit)
 ~~~
 
 ## Locations
-
-** DRAFT - NOT YET IMPLEMENTED **
 
 _For discussion of multiword place names like <b>Lake Mead</b> and <b>Route 66</b>, see [nmod:desc]()._
 
@@ -192,4 +202,4 @@ nmod:unmarked(12:30:00, PM)
 **History:** Prior to release 2.15, case (i) (temporal modifiers)
 had a separate subtype called [nmod:tmod](), and [nmod:npmod]()
 was used for the non-temporal ones.
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:11:06 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:21 CEST -->

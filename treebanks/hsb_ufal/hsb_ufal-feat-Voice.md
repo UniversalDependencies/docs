@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Act`, `Pass`.
 
-285 tokens (3%) have a non-empty value of `Voice`.
+287 tokens (3%) have a non-empty value of `Voice`.
 221 types (5%) occur at least once with a non-empty value of `Voice`.
 174 lemmas (6%) occur at least once with a non-empty value of `Voice`.
-The feature is used with 3 part-of-speech tags: <tt><a href="hsb_ufal-pos-ADJ.html">ADJ</a></tt> (189; 2% instances), <tt><a href="hsb_ufal-pos-VERB.html">VERB</a></tt> (51; 0% instances), <tt><a href="hsb_ufal-pos-AUX.html">AUX</a></tt> (45; 0% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="hsb_ufal-pos-ADJ.html">ADJ</a></tt> (191; 2% instances), <tt><a href="hsb_ufal-pos-VERB.html">VERB</a></tt> (51; 0% instances), <tt><a href="hsb_ufal-pos-AUX.html">AUX</a></tt> (45; 0% instances).
 
 ### `ADJ`
 
-189 <tt><a href="hsb_ufal-pos-ADJ.html">ADJ</a></tt> tokens (13% of all `ADJ` tokens) have a non-empty value of `Voice`.
+191 <tt><a href="hsb_ufal-pos-ADJ.html">ADJ</a></tt> tokens (13% of all `ADJ` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `ADJ` and `Voice` co-occurred: <tt><a href="hsb_ufal-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (189; 100%), <tt><a href="hsb_ufal-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (184; 97%), <tt><a href="hsb_ufal-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (158; 84%), <tt><a href="hsb_ufal-feat-Case.html">Case</a></tt><tt>=Nom</tt> (132; 70%), <tt><a href="hsb_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt> (107; 57%).
+The most frequent other feature values with which `ADJ` and `Voice` co-occurred: <tt><a href="hsb_ufal-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (191; 100%), <tt><a href="hsb_ufal-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (186; 97%), <tt><a href="hsb_ufal-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (156; 82%), <tt><a href="hsb_ufal-feat-Case.html">Case</a></tt><tt>=Nom</tt> (132; 69%), <tt><a href="hsb_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt> (107; 56%).
 
 `ADJ` tokens may have the following values of `Voice`:
 
 * `Act` (25; 13% of non-empty `Voice`): <em>přiběracu, wušłe, Bywša, Přiběrace, Rozrostowace, Slědowace, běžace, dalokosahace, ekspandowaceho, florěrowace</em>
-* `Pass` (164; 87% of non-empty `Voice`): <em>mjenowany, mjenowanych, namakane, rozdźělene, Zjednoćenych, listowany, mjenowane, natwarjene, pisane, přełožena</em>
-* `EMPTY` (1232): <em>serbski, druhe, druhich, najwjetše, prěni, prěnje, serbskeje, Serbskeho, wulke, wulki</em>
+* `Pass` (166; 87% of non-empty `Voice`): <em>mj, mjenowany, mjenowanych, namakane, rozdźělene, Zjednoćenych, listowany, mjenowane, natwarjene, pisane</em>
+* `EMPTY` (1228): <em>serbski, druhe, druhich, najwjetše, prěni, prěnje, serbskeje, Serbskeho, wulki, ablawtowych</em>
 
 `Voice` seems to be **lexical feature** of `ADJ`. 100% lemmas (132) occur only with one value of `Voice`.
 
@@ -38,7 +38,7 @@ The most frequent other feature values with which `VERB` and `Voice` co-occurred
 
 * `Act` (50; 98% of non-empty `Voice`): <em>přewzali, wužiwali, započał, změnili, dodźeržała, eksistowali, ilustrował, kontrolowali, mał, mjenował</em>
 * `Pass` (1; 2% of non-empty `Voice`): <em>bu</em>
-* `EMPTY` (771): <em>ma, leži, móže, wobsahuje, móžeš, su, hlej, maja, rěči, běchu</em>
+* `EMPTY` (767): <em>ma, leži, móže, wobsahuje, móžeš, su, hlej, maja, rěči, běchu</em>
 
 `Voice` seems to be **lexical feature** of `VERB`. 100% lemmas (42) occur only with one value of `Voice`.
 
@@ -52,7 +52,7 @@ The most frequent other feature values with which `AUX` and `Voice` co-occurred:
 
 * `Act` (2; 4% of non-empty `Voice`): <em>był, była</em>
 * `Pass` (43; 96% of non-empty `Voice`): <em>bu, buchu, buštej</em>
-* `EMPTY` (244): <em>je, su, bě, by, njeje, njejsu, běchu, stej, bu, bychu</em>
+* `EMPTY` (243): <em>je, su, bě, by, njeje, njejsu, běchu, stej, bu, bychu</em>
 
 <table>
   <tr><th>Paradigm <i>być</i></th><th><tt>Act</tt></th><th><tt>Pass</tt></th></tr>

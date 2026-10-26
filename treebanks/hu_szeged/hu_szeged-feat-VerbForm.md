@@ -96,7 +96,7 @@ The most frequent other feature values with which `ADV` and `VerbForm` co-occurr
 `ADV` tokens may have the following values of `VerbForm`:
 
 * `Conv` (81; 100% of non-empty `VerbForm`): <em>hivatkozva, mondván, írva, hozzátéve, lévén, megszüntetve, nyilatkozva, számolva, szólva, zárva</em>
-* `EMPTY` (3030): <em>nem, már, még, csak, ki, el, sem, is, fel, úgy</em>
+* `EMPTY` (3054): <em>nem, már, még, csak, ki, el, sem, is, fel, úgy</em>
 
 `VerbForm` seems to be **lexical feature** of `ADV`. 100% lemmas (62) occur only with one value of `VerbForm`.
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-25 nodes (2%) are attached to their parents as `advcl`.
+38 nodes (3%) are attached to their parents as `advcl`.
 
-24 instances of `advcl` (96%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.84.
+34 instances of `advcl` (89%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.89473684210526.
 
-The following 2 pairs of parts of speech are connected with `advcl`: <tt><a href="ky_tuecl-pos-VERB.html">VERB</a></tt>-<tt><a href="ky_tuecl-pos-VERB.html">VERB</a></tt> (24; 96% instances), <tt><a href="ky_tuecl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ky_tuecl-pos-ADV.html">ADV</a></tt> (1; 4% instances).
+The following 4 pairs of parts of speech are connected with `advcl`: <tt><a href="ky_tuecl-pos-VERB.html">VERB</a></tt>-<tt><a href="ky_tuecl-pos-VERB.html">VERB</a></tt> (35; 92% instances), <tt><a href="ky_tuecl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ky_tuecl-pos-VERB.html">VERB</a></tt> (1; 3% instances), <tt><a href="ky_tuecl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ky_tuecl-pos-ADV.html">ADV</a></tt> (1; 3% instances), <tt><a href="ky_tuecl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ky_tuecl-pos-VERB.html">VERB</a></tt> (1; 3% instances).
 
 
 ~~~ conllu
@@ -22,12 +22,33 @@ The following 2 pairs of parts of speech are connected with `advcl`: <tt><a href
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 4 advcl	color:blue
-1	Жамгыр	жамгыр	NOUN	_	_	2	nsubj	_	_
+1	Жамгыр	жамгыр	NOUN	_	Case=Nom|Number=Sing	2	nsubj	_	_
 2	жаап	жап	VERB	_	_	4	ccomp	_	_
 3	жатат	жат	AUX	_	_	2	aux	_	_
 4	деп	де	VERB	_	_	5	advcl	_	_
 5	ойлойм	ойло	VERB	_	_	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	5	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 8 advcl	color:blue
+1	Балдарга	бала	NOUN	_	_	3	obl	_	_
+2	китеп	китеп	NOUN	_	_	3	obj	_	_
+3	окуп	оку	VERB	_	_	10	csubj	_	_
+4	берүү	бер	AUX	_	_	3	aux	_	_
+5	алардын	алар	PRON	_	_	6	nmod:poss	_	_
+6	өсүп	өс	VERB	_	_	8	advcl	_	SpaceAfter=No
+7	-	-	PUNCT	_	_	6	punct	_	SpaceAfter=No
+8	өнүгүүсү	өнүк	VERB	_	_	10	advcl	_	_
+9	үчүн	үчүн	ADP	_	_	8	case	_	_
+10	маанилүү	маанилүү	ADJ	_	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	10	punct	_	_
 
 ~~~
 

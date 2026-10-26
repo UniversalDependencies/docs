@@ -9,7 +9,7 @@ This feature indicates, for the head of a [fixed expression](https://universalde
 effective UPOS of the full expression when it differs from the UPOS of
 the word itself. 
 
-`ExtPos` is used in the [SUD](https://surfacesyntacticud.github.io/)
+`ExtPos` is used in the [SUD](https://surfacesyntacticud.org/)
 framework and appears in the MISC column of some UD treebanks. Its
 inclusion in FEATS is currently specific to some treebanks, and only
 heads of the `fixed` relation, though in the future it may be
@@ -94,6 +94,6 @@ non-fixed relations should not use this feature.
 * _<b>O que</b> você quer?_
 
 * _Esse é o número para <b>o qual</b> eu telefonei._
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:41 CET -->
 
 
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:52 CEST -->

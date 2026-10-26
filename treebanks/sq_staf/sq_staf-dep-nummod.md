@@ -25,7 +25,7 @@ The following 1 pairs of parts of speech are connected with `nummod`: <tt><a hre
 1	Edhe	edhe	PART	_	_	4	advmod	_	end_char=507|start_char=503
 2	dy	dy	NUM	_	NumType=Card	3	nummod	_	end_char=510|start_char=508
 3	ditë	ditë	NOUN	_	Case=Nom|Definite=Ind|Gender=Fem|Number=Plur	4	nsubj	_	end_char=515|start_char=511
-4	mungonin	mungoj	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|Voice=Act	0	root	_	end_char=524|start_char=516
+4	mungonin	mungoj	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	end_char=524|start_char=516
 5	nga	nga	ADP	_	_	6	case	_	end_char=528|start_char=525
 6	ditëlindja	ditëlindje	NOUN	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	4	obl	_	end_char=539|start_char=529
 7	ime	ime	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=1|Poss=Yes|PronType=Prs	6	det:poss	_	SpaceAfter=No

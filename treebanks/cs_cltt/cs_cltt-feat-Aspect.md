@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Imp`.
 
-907 tokens (3%) have a non-empty value of `Aspect`.
-102 types (2%) occur at least once with a non-empty value of `Aspect`.
-52 lemmas (2%) occur at least once with a non-empty value of `Aspect`.
-The feature is used with 3 part-of-speech tags: <tt><a href="cs_cltt-pos-AUX.html">AUX</a></tt> (619; 2% instances), <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> (287; 1% instances), <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+912 tokens (3%) have a non-empty value of `Aspect`.
+105 types (2%) occur at least once with a non-empty value of `Aspect`.
+53 lemmas (2%) occur at least once with a non-empty value of `Aspect`.
+The feature is used with 3 part-of-speech tags: <tt><a href="cs_cltt-pos-AUX.html">AUX</a></tt> (619; 2% instances), <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> (292; 1% instances), <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 ### `AUX`
 
@@ -26,16 +26,16 @@ The most frequent other feature values with which `AUX` and `Aspect` co-occurred
 
 ### `ADJ`
 
-287 <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> tokens (4% of all `ADJ` tokens) have a non-empty value of `Aspect`.
+292 <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> tokens (4% of all `ADJ` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `ADJ` and `Aspect` co-occurred: <tt><a href="cs_cltt-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (287; 100%), <tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (285; 99%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (177; 62%), <tt><a href="cs_cltt-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (172; 60%).
+The most frequent other feature values with which `ADJ` and `Aspect` co-occurred: <tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (290; 99%), <tt><a href="cs_cltt-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (287; 98%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (179; 61%), <tt><a href="cs_cltt-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (173; 59%).
 
 `ADJ` tokens may have the following values of `Aspect`:
 
-* `Imp` (287; 100% of non-empty `Aspect`): <em>konsolidující, zanikající, následujícího, související, předcházejícímu, týkající, přejímající, předcházející, souvisejících, řídících</em>
-* `EMPTY` (6356): <em>účetní, účetních, účetního, konsolidované, finanční, účetním, povinny, právní, výroční, ostatní</em>
+* `Imp` (292; 100% of non-empty `Aspect`): <em>konsolidující, zanikající, následujícího, související, předcházejícímu, týkající, přejímající, předcházející, souvisejících, řídících</em>
+* `EMPTY` (6351): <em>účetní, účetních, účetního, konsolidované, finanční, účetním, povinny, právní, výroční, ostatní</em>
 
-`Aspect` seems to be **lexical feature** of `ADJ`. 100% lemmas (50) occur only with one value of `Aspect`.
+`Aspect` seems to be **lexical feature** of `ADJ`. 100% lemmas (51) occur only with one value of `Aspect`.
 
 ### `VERB`
 

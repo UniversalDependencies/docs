@@ -42,43 +42,53 @@ Personal pronouns for the first and the second person and reflexive personal pro
     <b>Direct</b><br/>
     <b>(Vocative)</b>
   </td>
-  <td align="middle">زۀ zë</td>
-  <td align="middle", rowspan=3>موږ muǧ<br/>مونږ munǧ</td>
-  <td align="middle">تۀ të</td>
-  <td align="middle", rowspan=3>تاسو tấso<br/>تاسې tấse</td>
-  <td align="middle", rowspan=2>ځان żân</td>
-  <td align="middle">ځانونه żânúna</td>
+  <td align="middle" style="background-color:lightgreen">زۀ zë</td>
+  <td align="middle" style="background-color:pink">موږ muǧ<br/>مونږ munǧ</td>
+  <td align="middle" style="background-color:lightgreen">تۀ të</td>
+  <td align="middle" style="background-color:pink">تاسو tấso<br/>تاسې tấse</td>
+  <td align="middle" style="background-color:lightgreen">ځان żân</td>
+  <td align="middle" style="background-color:pink">ځانونه żânúna</td>
 </tr>
 <tr>
   <td align="left">
+    <b>Locative</b><br/>
     <b>Oblique</b><br/>
-    <b>Local</b><br/>
   </td>
-  <td align="middle", rowspan=2>ما mâ</td>
-  <td align="middle", rowspan=2>تا tâ</td>
-  <td align="middle", rowspan=2>ځانونو żânúno</td>
+  <td align="middle" style="background-color:lightblue">ما mâ</td>
+  <td align="middle" style="background-color:pink"></td>
+  <td align="middle" style="background-color:lightblue">تا tâ</td>
+  <td align="middle" style="background-color:pink"></td>
+  <td align="middle" style="background-color:lightgreen"></td>
+  <td align="middle" style="background-color:yellow">ځانونو żânúno</td>
 </tr>
 <tr>
   <td align="left">
     <b>Ablative</b>
   </td>
-  <td align="middle">ځانه żấna</td>
+  <td align="middle" style="background-color:lightblue"></td>
+  <td align="middle" style="background-color:pink"></td>
+  <td align="middle" style="background-color:lightblue"></td>
+  <td align="middle" style="background-color:pink"></td>
+  <td align="middle" style="background-color:lightblue">ځانه żấna</td>
+  <td align="middle" style="background-color:yellow"></td>
 </tr>
 <tr>
   <td align="left"><b>Genitive</b></td>
   <td align="middle">زما zmâ</td>
   <td align="middle">زموږ zmuǧ<br/>زمونږ zmunǧ</td>
   <td align="middle">ستا stâ</td>
-  <td align="middle", rowspan=2>ستاسو stấso<br/>ستاسې stấse</td>
-  <td align="middle", colspan=2>(خپل xpël) **</td>
+  <td align="middle">ستاسو stấso<br/>ستاسې stấse</td>
+  <td align="middle">(خپل xpël) **</td>
+  <td align="middle">⇐</td>
 </tr>
 </table>
-** Instead of a genitive form of the reflexive pronoun ځان <i>żân</i>, the reflexive possessive خپل <i>xpël</i> is used instead, which declines like common adjectives in agreement with the possessed object.
+
+** Instead of a genitive form of the reflexive pronouns ځان <i>żân</i> / ځانونه <i>żânúna</i>, the reflexive possessive خپل <i>xpël</i> is used, which declines like common adjectives in agreement with the possessed object.
 
 The reflexive pronouns ځان _żân_ and ځانونه _żânúna_ are used for refering to the subject regardless of the person (i.e. it is used for all three persons).
 
 Instead of the genitive forms, the preposition د <i>dë</i> followed by the oblique case can be used, although the genitive forms are more frequent.
-The genitive forms are actually developed from the prepositional construction.
+The genitive forms have actually developed from the prepositional construction.
 
 #### Examples
 
@@ -91,9 +101,13 @@ Personal pronouns for the third person vary depending on deixis:
 <tr>
   <td align="middle"></td>
   <td align="middle"></td>
-  <td align="middle", colspan=3><b>remote</b></td>
+  <td align="middle"><b></b></td>
+  <td align="middle"><b>remote</b></td>
+  <td align="middle"><b></b></td>
   <td align="middle"></td>
-  <td align="middle", colspan=3><b>proximate</b></td>
+  <td align="middle"><b></b></td>
+  <td align="middle"><b>proximate</b></td>
+  <td align="middle"><b></b></td>
 </tr>
 <tr>
   <td align="middle"></td>
@@ -122,30 +136,35 @@ Personal pronouns for the third person vary depending on deixis:
     <b>Direct</b><br/>
   </td>
   <td align="middle"></td>
-  <td align="middle", colspan=2>هغه haġá</td>
-  <td align="middle", rowspan=2>هغوى haġúy</td>
+  <td align="middle" style="background-color:lightgreen">هغه haġá</td>
+  <td align="middle" style="background-color:lightgreen"></td>
+  <td align="middle" style="background-color:yellow">هغوى haġúy</td>
   <td align="middle"></td>
-  <td align="middle">دی day</td>
-  <td align="middle">دا dâ</td>
-  <td align="middle", rowspan=2>دوی duy</td>
+  <td align="middle" style="background-color:lightgreen">دی day</td>
+  <td align="middle" style="background-color:violet">دا dâ</td>
+  <td align="middle" style="background-color:yellow">دوی duy</td>
 </tr>
 <tr>
   <td align="left">
+    <b>Locative</b><br/>
     <b>Oblique</b><br/>
-    <b>Local</b><br/>
     <b>Ablative</b>
   </td>
   <td align="middle"></td>
-  <td align="middle">هغۀ haġë́</td>
-  <td align="middle">هغې haġé</td>
+  <td align="middle" style="background-color:lightblue">هغۀ haġë́</td>
+  <td align="middle" style="background-color:pink">هغې haġé</td>
+  <td align="middle" style="background-color:yellow"></td>
   <td align="middle"></td>
-  <td align="middle">دۀ dë</td>
-  <td align="middle">دې de</td>
+  <td align="middle" style="background-color:lightblue">دۀ dë</td>
+  <td align="middle" style="background-color:pink">دې de</td>
+  <td align="middle" style="background-color:yellow"></td>
 </tr>
 <tr>
   <td align="left"><b>Genitive</b></td>
   <td align="middle"></td>
-  <td align="middle", colspan=3></td>
+  <td align="middle"></td>
+  <td align="middle"></td>
+  <td align="middle"></td>
   <td align="middle"></td>
   <td align="middle">ددۀ dadë́</td>
   <td align="middle">ددې dëdé</td>
@@ -173,16 +192,18 @@ They are also used in contracted forms (which are separeted in UD annotation) wi
 </tr>
 <tr>
   <td align="middle"><b>1</b></td>
-  <td align="middle">مې me</td>
-  <td align="middle", rowspan=2>مو mu</td>
+  <td align="middle" style="background-color:lightblue">مې me</td>
+  <td align="middle" style="background-color:yellow">مو mu</td>
 </tr>
 <tr>
   <td align="middle"><b>2</b></td>
-  <td align="middle">دې de</td>
+  <td align="middle" style="background-color:pink">دې de</td>
+  <td align="middle" style="background-color:yellow"></td>
 </tr>
 <tr>
   <td align="middle"><b>3</b></td>
-  <td align="middle", colspan=2>يې ye</td>
+  <td align="middle" style="background-color:lightgreen">يې ye</td>
+  <td align="middle" style="background-color:lightgreen"></td>
 </tr>
 </table>
 
@@ -222,11 +243,15 @@ The long proximate pronouns bear the feature `Variant=Long`.
 <tr>
   <td align="middle"></td>
   <td align="middle"></td>
-  <td align="middle", colspan=3><b>remote</b></td>
+  <td align="middle"><b></b></td>
+  <td align="middle"><b>remote</b></td>
+  <td align="middle"><b></b></td>
   <td align="middle"></td>
-  <td align="middle", colspan=3><b>proximate<br/>long variant</b></td>
+  <td align="middle"><b></b></td>
+  <td align="middle"><b>proximate<br/>long variant</b></td>
+  <td align="middle"><b></b></td>
   <td align="middle"></td>
-  <td align="middle", colspan=3><b>proximate</b></td>
+  <td align="middle"><b>proximate</b></td>
 </tr>
 <tr>
   <td align="middle"></td>
@@ -259,43 +284,66 @@ The long proximate pronouns bear the feature `Variant=Long`.
     <b>Direct</b><br/>
   </td>
   <td align="middle"></td>
-  <td align="middle", colspan=3>هغه háġa</td>
+  <td align="middle" style="background-color:lightgreen"></td>
+  <td align="middle" style="background-color:lightgreen">هغه háġa</td>
+  <td align="middle" style="background-color:lightgreen"></td>
   <td align="middle"></td>
-  <td align="middle", colspan=3>دغه dáġa</td>
+  <td align="middle" style="background-color:lightgreen"></td>
+  <td align="middle" style="background-color:lightgreen">دغه dáġa</td>
+  <td align="middle" style="background-color:lightgreen"></td>
   <td align="middle"></td>
-  <td align="middle">دا dâ</td>
+  <td align="middle" style="background-color:lightgreen">دا dâ</td>
+</tr>
+<tr>
+  <td align="left">
+    <b>Locative</b><br/>
+  </td>
+  <td align="middle"></td>
+  <td align="middle" style="background-color:lightblue">هغۀ háġë</td>
+  <td align="middle" style="background-color:lightgreen"></td>
+  <td align="middle" style="background-color:yellow">هغو háġo</td>
+  <td align="middle"></td>
+  <td align="middle" style="background-color:lightblue">دغۀ dáġë</td>
+  <td align="middle" style="background-color:lightgreen"></td>
+  <td align="middle" style="background-color:yellow">دغو dáġo</td>
+  <td align="middle"></td>
+  <td align="middle" style="background-color:yellow">دې de</td>
 </tr>
 <tr>
   <td align="left">
     <b>Oblique</b><br/>
-    <b>Local</b><br/>
     <b>Ablative</b>
   </td>
   <td align="middle"></td>
-  <td align="middle">هغۀ háġë</td>
-  <td align="middle">هغې háġe</td>
-  <td align="middle">هغو háġo</td>
+  <td align="middle" style="background-color:lightblue"></td>
+  <td align="middle" style="background-color:pink">هغې háġe</td>
+  <td align="middle" style="background-color:yellow"></td>
   <td align="middle"></td>
-  <td align="middle">دغۀ dáġë</td>
-  <td align="middle">دغې dáġe</td>
-  <td align="middle">دغو dáġo</td>
+  <td align="middle" style="background-color:lightblue"></td>
+  <td align="middle" style="background-color:pink">دغې dáġe</td>
+  <td align="middle" style="background-color:yellow"></td>
   <td align="middle"></td>
-  <td align="middle">دې de</td>
+  <td align="middle" style="background-color:yellow"></td>
 </tr>
 </table>
 
 The remote series is stressed on the first syllable, not on the second one like its demonstrative counterpart.
 
+The prefix -همـ _ham-_ provides the meaning of identity “same”:
 
 <table class="typeindex" border="1">
 <tr>
   <td align="middle"></td>
   <td align="middle"></td>
-  <td align="middle", colspan=3><b>remote</b></td>
+  <td align="middle"><b></b></td>
+  <td align="middle"><b>remote</b></td>
+  <td align="middle"><b></b></td>
   <td align="middle"></td>
-  <td align="middle", colspan=3><b>proximate<br/>long variant</b></td>
+  <td align="middle"><b></b></td>
+  <td align="middle"><b>proximate<br/>long variant</b></td>
+  <td align="middle"><b></b></td>
   <td align="middle"></td>
-  <td align="middle", colspan=3><b>proximate</b></td>
+  <td align="middle"><b>proximate</b></td>
 </tr>
 <tr>
   <td align="middle"></td>
@@ -328,71 +376,78 @@ The remote series is stressed on the first syllable, not on the second one like 
     <b>Direct</b><br/>
   </td>
   <td align="middle"></td>
-  <td align="middle", colspan=3>هماغه hamấġa</td>
+  <td align="middle" style="background-color:lightgreen"></td>
+  <td align="middle" style="background-color:lightgreen">هماغه hamấġa</td>
+  <td align="middle" style="background-color:lightgreen"></td>
   <td align="middle"></td>
-  <td align="middle", colspan=3>همدغه hamdáġa</td>
+  <td align="middle" style="background-color:lightgreen"></td>
+  <td align="middle" style="background-color:lightgreen">همدغه hamdáġa</td>
+  <td align="middle" style="background-color:lightgreen"></td>
   <td align="middle"></td>
-  <td align="middle">همدا hamdâ</td>
+  <td align="middle" style="background-color:lightgreen">همدا hamdâ</td>
+</tr>
+<tr>
+  <td align="left">
+    <b>Locative</b><br/>
+  </td>
+  <td align="middle"></td>
+  <td align="middle" style="background-color:lightblue">هماغۀ hamấġë</td>
+  <td align="middle" style="background-color:lightgreen"></td>
+  <td align="middle" style="background-color:yellow">هماغو hamấġo</td>
+  <td align="middle"></td>
+  <td align="middle" style="background-color:lightblue">همدغۀ hamdáġë</td>
+  <td align="middle" style="background-color:lightgreen"></td>
+  <td align="middle" style="background-color:yellow">همدغو hamdáġo</td>
+  <td align="middle"></td>
+  <td align="middle" style="background-color:yellow">همدې hamdé</td>
 </tr>
 <tr>
   <td align="left">
     <b>Oblique</b><br/>
-    <b>Local</b><br/>
     <b>Ablative</b>
   </td>
   <td align="middle"></td>
-  <td align="middle">هماغۀ hamấġë</td>
-  <td align="middle">هماغې hamấġe</td>
-  <td align="middle">هماغو hamấġo</td>
+  <td align="middle" style="background-color:lightblue"></td>
+  <td align="middle" style="background-color:pink">هماغې hamấġe</td>
+  <td align="middle" style="background-color:yellow"></td>
   <td align="middle"></td>
-  <td align="middle">همدغۀ hamdáġë</td>
-  <td align="middle">همدغې hamdáġe</td>
-  <td align="middle">همدغو hamdáġo</td>
+  <td align="middle" style="background-color:lightblue"></td>
+  <td align="middle" style="background-color:pink">همدغې hamdáġe</td>
+  <td align="middle" style="background-color:yellow"></td>
   <td align="middle"></td>
-  <td align="middle">همدې hamdé</td>
+  <td align="middle" style="background-color:yellow"></td>
 </tr>
 </table>
 
+The suffix ـسې- _-se_ provides the meaning of comparison “like this/these/that/those”.
+It can be combined also with the prefix -همـ _ham-_ “same”.
+These forms are indeclinable.
 
 <table class="typeindex" border="1">
 <tr>
-  <td align="middle"></td>
   <td align="middle"><b>remote</b></td>
   <td align="middle"><b>proximate<br/>long variant</b></td>
   <td align="middle"><b>proximate</b></td>
 </tr>
 <tr>
-  <td align="middle"></td>
   <td align="middle"><i>such like that/those</i></td>
-  <td align="middle", colspan=2><i>such like this/these</i></td>
+  <td align="middle" style="background-color:lightgray"><i>such like this/these</i></td>
+  <td align="middle" style="background-color:lightgray"><i></i></td>
 </tr>
 <tr>
-  <td align="left">
-    <b>indeclinable</b><br/>
-  </td>
   <td align="middle">هغسې háġase</td>
   <td align="middle">دغسې dáġase</td>
   <td align="middle">داسې dấse</td>
 </tr>
-</table>
-
-
-<table class="typeindex" border="1">
 <tr>
-  <td align="middle"></td>
-  <td align="middle"><b>remote</b></td>
-  <td align="middle"><b>proximate<br/>long variant</b></td>
-  <td align="middle"><b>proximate</b></td>
+  <td/><td/><td/>
 </tr>
 <tr>
-  <td align="middle"></td>
   <td align="middle"><i>same like that/those</i></td>
-  <td align="middle", colspan=2><i>same like this/these</i></td>
+  <td align="middle" style="background-color:lightgray"><i>same like this/these</i></td>
+  <td align="middle" style="background-color:lightgray"><i></i></td>
 </tr>
 <tr>
-  <td align="left">
-    <b>indeclinable</b><br/>
-  </td>
   <td align="middle">هماغسې hamấġase</td>
   <td align="middle">همدغسې hamdáġase</td>
   <td align="middle">همداسې hamdấse</td>
@@ -419,16 +474,17 @@ The remote series is stressed on the first syllable, not on the second one like 
   <td align="left">
     <b>Direct</b><br/>
   </td>
-  <td align="middle">څوک cok</td>
-  <td align="middle", rowspan=2>څۀ cë</td>
+  <td align="middle" style="background-color:lightblue">څوک cok</td>
+  <td align="middle" style="background-color:lightgreen">څۀ cë</td>
 </tr>
 <tr>
   <td align="left">
+    <b>Locative</b><br/>
     <b>Oblique</b><br/>
-    <b>Local</b><br/>
     <b>Ablative</b>
   </td>
-  <td align="middle">چا čâ</td>
+  <td align="middle" style="background-color:pink">چا čâ</td>
+  <td align="middle" style="background-color:lightgreen"></td>
 </tr>
 </table>
 
@@ -471,16 +527,17 @@ The only reciprocal pronoun in Pashto is indeclinable یوبل <i>yë́wbël</i>
   <td align="left">
     <b>Direct</b><br/>
   </td>
-  <td align="middle">ځینې żíne</td>
-  <td align="middle", rowspan=2>څو co</td>
+  <td align="middle" style="background-color:lightblue">ځینې żíne</td>
+  <td align="middle" style="background-color:lightgreen">څو co</td>
 </tr>
 <tr>
   <td align="left">
+    <b>Locative</b><br/>
     <b>Oblique</b><br/>
-    <b>Local</b><br/>
     <b>Ablative</b>
   </td>
-  <td align="middle">ځینو żíno</td>
+  <td align="middle" style="background-color:pink">ځینو żíno</td>
+  <td align="middle" style="background-color:lightgreen"></td>
 </tr>
 </table>
 
@@ -509,16 +566,17 @@ It is used usually in negative sentences. It can mean also “which” (marked a
   <td align="left">
     <b>Direct</b><br/>
   </td>
-  <td align="middle">هرڅوک harcók</td>
-  <td align="middle", rowspan=2>هرڅۀ harcë́</td>
+  <td align="middle" style="background-color:lightblue">هرڅوک harcók</td>
+  <td align="middle" style="background-color:lightgreen">هرڅۀ harcë́</td>
 </tr>
 <tr>
   <td align="left">
+    <b>Locative</b><br/>
     <b>Oblique</b><br/>
-    <b>Local</b><br/>
     <b>Ablative</b>
   </td>
-  <td align="middle">هرچا harčấ</td>
+  <td align="middle" style="background-color:pink">هرچا harčấ</td>
+  <td align="middle" style="background-color:lightgreen"></td>
 </tr>
 </table>
 
@@ -541,16 +599,19 @@ The latter can be used also separately as a pronoun.
   <td align="left">
     <b>Direct</b><br/>
   </td>
-  <td align="middle">هیڅوک hicók</td>
-  <td align="middle", colspan=2, rowspan=2>هیڅ hic</td>
+  <td align="middle" style="background-color:lightblue">هیڅوک hicók</td>
+  <td align="middle" style="background-color:lightgreen">هیڅ hic</td>
+  <td align="middle" style="background-color:lightgreen"></td>
 </tr>
 <tr>
   <td align="left">
+    <b>Locative</b><br/>
     <b>Oblique</b><br/>
-    <b>Local</b><br/>
     <b>Ablative</b>
   </td>
-  <td align="middle">هیچا hičấ</td>
+  <td align="middle" style="background-color:pink">هیچا hičấ</td>
+  <td align="middle" style="background-color:lightgreen"></td>
+  <td align="middle" style="background-color:lightgreen"></td>
 </tr>
 </table>
 
@@ -560,4 +621,4 @@ The determiner هیڅ _hic_ “no” is used only in singular.
 
 
 
-<!-- Interlanguage links updated Ne 5. května 2024, 18:20:26 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:14 CEST -->

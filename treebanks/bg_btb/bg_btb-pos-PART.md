@@ -65,20 +65,20 @@ The 2nd highest number of forms (1) was observed with the lemma “ами”: <e
 
 The 3rd highest number of forms (1) was observed with the lemma “бе”: <em>бе</em>.
 
-`PART` occurs with 1 features: <tt><a href="bg_btb-feat-Polarity.html">Polarity</a></tt> (1452; 67% instances)
+`PART` occurs with 2 features: <tt><a href="bg_btb-feat-Polarity.html">Polarity</a></tt> (1452; 67% instances), <tt><a href="bg_btb-feat-ExtPos.html">ExtPos</a></tt> (4; 0% instances)
 
-`PART` occurs with 1 feature-value pairs: `Polarity=Neg`
+`PART` occurs with 2 feature-value pairs: `ExtPos=SCONJ`, `Polarity=Neg`
 
-`PART` occurs with 2 feature combinations.
+`PART` occurs with 3 feature combinations.
 The most frequent feature combination is `Polarity=Neg` (1452 tokens).
 Examples: <em>не, нито</em>
 
 
 ## Relations
 
-`PART` nodes are attached to their parents using 9 different relations: <tt><a href="bg_btb-dep-advmod.html">advmod</a></tt> (1422; 66% instances), <tt><a href="bg_btb-dep-discourse.html">discourse</a></tt> (584; 27% instances), <tt><a href="bg_btb-dep-root.html">root</a></tt> (73; 3% instances), <tt><a href="bg_btb-dep-fixed.html">fixed</a></tt> (67; 3% instances), <tt><a href="bg_btb-dep-advcl.html">advcl</a></tt> (6; 0% instances), <tt><a href="bg_btb-dep-cc.html">cc</a></tt> (5; 0% instances), <tt><a href="bg_btb-dep-conj.html">conj</a></tt> (5; 0% instances), <tt><a href="bg_btb-dep-mark.html">mark</a></tt> (4; 0% instances), <tt><a href="bg_btb-dep-parataxis.html">parataxis</a></tt> (1; 0% instances)
+`PART` nodes are attached to their parents using 9 different relations: <tt><a href="bg_btb-dep-advmod.html">advmod</a></tt> (1423; 66% instances), <tt><a href="bg_btb-dep-discourse.html">discourse</a></tt> (584; 27% instances), <tt><a href="bg_btb-dep-root.html">root</a></tt> (73; 3% instances), <tt><a href="bg_btb-dep-fixed.html">fixed</a></tt> (66; 3% instances), <tt><a href="bg_btb-dep-advcl.html">advcl</a></tt> (6; 0% instances), <tt><a href="bg_btb-dep-cc.html">cc</a></tt> (5; 0% instances), <tt><a href="bg_btb-dep-conj.html">conj</a></tt> (5; 0% instances), <tt><a href="bg_btb-dep-mark.html">mark</a></tt> (4; 0% instances), <tt><a href="bg_btb-dep-parataxis.html">parataxis</a></tt> (1; 0% instances)
 
-Parents of `PART` nodes belong to 13 different parts of speech: <tt><a href="bg_btb-pos-VERB.html">VERB</a></tt> (1560; 72% instances), <tt><a href="bg_btb-pos-NOUN.html">NOUN</a></tt> (169; 8% instances), <tt><a href="bg_btb-pos-ADV.html">ADV</a></tt> (123; 6% instances), <tt><a href="bg_btb-pos-ADJ.html">ADJ</a></tt> (100; 5% instances),  (73; 3% instances), <tt><a href="bg_btb-pos-PRON.html">PRON</a></tt> (54; 2% instances), <tt><a href="bg_btb-pos-AUX.html">AUX</a></tt> (32; 1% instances), <tt><a href="bg_btb-pos-DET.html">DET</a></tt> (27; 1% instances), <tt><a href="bg_btb-pos-NUM.html">NUM</a></tt> (15; 1% instances), <tt><a href="bg_btb-pos-PROPN.html">PROPN</a></tt> (6; 0% instances), <tt><a href="bg_btb-pos-SCONJ.html">SCONJ</a></tt> (6; 0% instances), <tt><a href="bg_btb-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="bg_btb-pos-PART.html">PART</a></tt> (1; 0% instances)
+Parents of `PART` nodes belong to 13 different parts of speech: <tt><a href="bg_btb-pos-VERB.html">VERB</a></tt> (1561; 72% instances), <tt><a href="bg_btb-pos-NOUN.html">NOUN</a></tt> (169; 8% instances), <tt><a href="bg_btb-pos-ADV.html">ADV</a></tt> (123; 6% instances), <tt><a href="bg_btb-pos-ADJ.html">ADJ</a></tt> (100; 5% instances),  (73; 3% instances), <tt><a href="bg_btb-pos-PRON.html">PRON</a></tt> (54; 2% instances), <tt><a href="bg_btb-pos-AUX.html">AUX</a></tt> (31; 1% instances), <tt><a href="bg_btb-pos-DET.html">DET</a></tt> (27; 1% instances), <tt><a href="bg_btb-pos-NUM.html">NUM</a></tt> (15; 1% instances), <tt><a href="bg_btb-pos-PROPN.html">PROPN</a></tt> (6; 0% instances), <tt><a href="bg_btb-pos-SCONJ.html">SCONJ</a></tt> (6; 0% instances), <tt><a href="bg_btb-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="bg_btb-pos-PART.html">PART</a></tt> (1; 0% instances)
 
 2030 (94%) `PART` nodes are leaves.
 

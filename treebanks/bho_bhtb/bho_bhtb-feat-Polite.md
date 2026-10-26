@@ -71,7 +71,7 @@ The most frequent other feature values with which `NOUN` and `Polite` co-occurre
 `NOUN` tokens may have the following values of `Polite`:
 
 * `Form` (1; 100% of non-empty `Polite`): साहित्ये
-* `EMPTY` (1853): लोग, बिआह, जी, रंग, देश, जब, भाषा, आजु, आदमी, साल
+* `EMPTY` (1854): लोग, बिआह, जी, रंग, देश, जब, भाषा, आजु, आदमी, साल
 
 ## Relations with Agreement in `Polite`
 

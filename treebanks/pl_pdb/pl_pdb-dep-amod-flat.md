@@ -7,6 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Polish-PDB: Relations: `amod:flat`
 
 This relation is a language-specific subtype of <tt><a href="pl_pdb-dep-amod.html">amod</a></tt>.
+There are also 1 other language-specific subtypes of `amod`: <tt><a href="pl_pdb-dep-amod-cmp.html">amod:cmp</a></tt>.
 
 1778 nodes (1%) are attached to their parents as `amod:flat`.
 
@@ -63,7 +64,7 @@ The following 4 pairs of parts of speech are connected with `amod:flat`: <tt><a 
 4	15	15	ADJ	adj:sg:gen:m3:pos	Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|NumForm=Digit|NumType=Ord	2	nmod	2:nmod	_
 5	IV	IV	ADJ	adj:sg:gen:m3:pos	Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|NumForm=Roman|NumType=Ord	4	amod:flat	4:amod:flat	_
 6	do	do	ADP	prep:gen	AdpType=Prep	7	case	7:case	Case=Gen
-7	15	15	ADJ	adj:sg:gen:m3:pos	Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|NumForm=Digit|NumType=Ord	2	nmod	2:nmod	_
+7	15	15	ADJ	adj:sg:gen:m3:pos	Animacy=Inan|Case=Gen|Degree=Pos|ExtPos=ADJ|Gender=Masc|Number=Sing|NumForm=Digit|NumType=Ord	2	nmod	2:nmod	_
 8	X	X	ADJ	adj:sg:gen:m3:pos	Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|NumForm=Roman|NumType=Ord	7	fixed	7:fixed	_
 9	od	od	ADP	prep:gen:nwok	AdpType=Prep|Variant=Short	10	case	10:case	Case=Gen
 10	wtorku	wtorek	NOUN	subst:sg:gen:m3	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	obl	2:obl	_

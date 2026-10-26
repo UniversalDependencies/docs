@@ -63,13 +63,13 @@ The 2nd highest number of forms (1) was observed with the lemma “ABA'”: ABA'
 
 The 3rd highest number of forms (1) was observed with the lemma “ABABA”: ABABA.
 
-`X` occurs with 2 features: <tt><a href="he_iahltwiki-feat-Foreign.html">Foreign</a></tt> (118; 39% instances), <tt><a href="he_iahltwiki-feat-Typo.html">Typo</a></tt> (1; 0% instances)
+`X` occurs with 3 features: <tt><a href="he_iahltwiki-feat-Foreign.html">Foreign</a></tt> (118; 39% instances), <tt><a href="he_iahltwiki-feat-ExtPos.html">ExtPos</a></tt> (4; 1% instances), <tt><a href="he_iahltwiki-feat-Typo.html">Typo</a></tt> (1; 0% instances)
 
-`X` occurs with 2 feature-value pairs: `Foreign=Yes`, `Typo=Yes`
+`X` occurs with 3 feature-value pairs: `ExtPos=ADV`, `Foreign=Yes`, `Typo=Yes`
 
-`X` occurs with 3 feature combinations.
-The most frequent feature combination is `_` (186 tokens).
-Examples: דו, מז'ור, מינור, סטטוס, קוו, GCS, ABA', ABABA', במול, דה
+`X` occurs with 4 feature combinations.
+The most frequent feature combination is `_` (182 tokens).
+Examples: דו, מז'ור, מינור, סטטוס, קוו, GCS, ABA', ABABA', במול, מי
 
 
 ## Relations

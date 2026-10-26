@@ -47,7 +47,7 @@ The following 6 pairs of parts of speech are connected with `iobj`: <tt><a href=
 2	deigen	deig	NOUN	subst	Gender=Masc	1	iobj	_	_
 3	heve	heve	VERB	verb	VerbForm=Inf	1	xcomp	_	_
 4	til	til	ADP	prep	_	6	case	_	_
-5	dobbel	dobbel	ADJ	adj	Definite=Ind|Degree=Pos|Gender=Fem,Masc	6	amod	_	_
+5	dobbel	dobbel	ADJ	adj	Definite=Ind|Degree=Pos|Gender=Com	6	amod	_	_
 6	storleik	storleik	NOUN	subst	Definite=Ind|Gender=Masc	3	obl	_	SpaceAfter=No
 7	,	$,	PUNCT	<komma>	_	10	punct	_	_
 8	ca.	ca.	ADV	adv	Abbr=Yes	10	advmod	_	_

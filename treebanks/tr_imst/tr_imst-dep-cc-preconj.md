@@ -29,10 +29,10 @@ The following 3 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 5	başka	başka	ADJ	Adj	_	6	amod	_	_
 6	türlü	türlü	ADJ	NAdj	Case=Nom|Number=Sing|Person=3	2	conj	_	_
 7	olmasını	ol	VERB	Verb	Aspect=Perf|Case=Acc|Mood=Ind|Number[psor]=Sing|Person[psor]=3|Polarity=Pos|Tense=Pres|VerbForm=Vnoun	12	obj	_	_
-8	ne	ne	PRON	Ques	Case=Nom|Number=Sing|Person=3	12	nsubj	_	_
+8	ne	ne	PRON	Ques	Case=Nom|Number=Sing|Person=3|PronType=Int	12	nsubj	_	_
 9	ya	ya	CCONJ	Conj	_	11	cc:preconj	_	_
 10	da	da	CCONJ	Conj	_	11	advmod:emph	_	_
-11	kim	kim	PRON	Ques	Case=Nom|Number=Sing|Person=3	8	conj	_	_
+11	kim	kim	PRON	Ques	Case=Nom|Number=Sing|Person=3|PronType=Int	8	conj	_	_
 12	sağlıyor	sağla	VERB	Verb	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Polite=Infm|Tense=Pres	0	root	_	SpaceAfter=No
 13	,	,	PUNCT	Punc	_	15	punct	_	_
 14	bu	bu	PRON	Demons	Case=Nom|Number=Sing|Person=3|PronType=Dem	15	det	_	_
@@ -58,10 +58,10 @@ The following 3 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 5	başka	başka	ADJ	Adj	_	6	amod	_	_
 6	türlü	türlü	ADJ	NAdj	Case=Nom|Number=Sing|Person=3	2	conj	_	_
 7	olmasını	ol	VERB	Verb	Aspect=Perf|Case=Acc|Mood=Ind|Number[psor]=Sing|Person[psor]=3|Polarity=Pos|Tense=Pres|VerbForm=Vnoun	12	obj	_	_
-8	ne	ne	PRON	Ques	Case=Nom|Number=Sing|Person=3	12	nsubj	_	_
+8	ne	ne	PRON	Ques	Case=Nom|Number=Sing|Person=3|PronType=Int	12	nsubj	_	_
 9	ya	ya	CCONJ	Conj	_	11	cc:preconj	_	_
 10	da	da	CCONJ	Conj	_	11	advmod:emph	_	_
-11	kim	kim	PRON	Ques	Case=Nom|Number=Sing|Person=3	8	conj	_	_
+11	kim	kim	PRON	Ques	Case=Nom|Number=Sing|Person=3|PronType=Int	8	conj	_	_
 12	sağlıyor	sağla	VERB	Verb	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Polite=Infm|Tense=Pres	0	root	_	SpaceAfter=No
 13	,	,	PUNCT	Punc	_	15	punct	_	_
 14	bu	bu	PRON	Demons	Case=Nom|Number=Sing|Person=3|PronType=Dem	15	det	_	_

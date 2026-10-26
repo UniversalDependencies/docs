@@ -35,8 +35,8 @@ The following 1 pairs of parts of speech are connected with `iobj`: <tt><a href=
 11	只	只	ADV	_	_	12	advmod	_	SpaceAfter=No|Tone=3|Translit=zhǐ
 12	有	有	VERB	_	_	2	flat	_	SpaceAfter=No|Tone=3|Translit=yǒu
 13	你	你	PRON	_	Person=2	12	iobj	_	SpaceAfter=No|Tone=3|Translit=nǐ
-14	一	一	NUM	_	NumType=Card	15	nummod	_	Gloss=one|SpaceAfter=No|Tone=1|Translit=yī
-15	个	个	NOUN	_	_	16	clf	_	Gloss=CLF|SpaceAfter=No|Tone=4|Translit=gè
+14	一	一	NUM	_	NumType=Card	16	nummod	_	Gloss=one|SpaceAfter=No|Tone=1|Translit=yī
+15	个	个	NOUN	_	_	14	clf	_	Gloss=CLF|SpaceAfter=No|Tone=4|Translit=gè
 16	朋友	朋友	NOUN	_	_	13	appos	_	SpaceAfter=No|Tone=2_3|Translit=péng_yǒu
 17	！	！	PUNCT	_	_	12	punct	_	SpaceAfter=No|Translit=！
 

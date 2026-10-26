@@ -35,4 +35,4 @@ amod(түс-3, жылы-2)
 punct(түс-3, .-4)
 ~~~
 
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:11:07 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:22 CEST -->

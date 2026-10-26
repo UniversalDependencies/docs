@@ -45,7 +45,7 @@ The most frequent other feature values with which `AUX` and `Abbr` co-occurred: 
 `ADV` tokens may have the following values of `Abbr`:
 
 * `Yes` (98; 100% of non-empty `Abbr`): <em>hj, ñ, tb, n, enqt, eqnnt, msm, mt, mto, qdo</em>
-* `EMPTY` (2588): <em>agora, mais, não, hoje, só, ainda, já, ontem, muito, bem</em>
+* `EMPTY` (2590): <em>agora, mais, não, hoje, só, ainda, já, ontem, muito, bem</em>
 
 ### `ADJ`
 

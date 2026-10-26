@@ -48,7 +48,7 @@ The following 2 pairs of parts of speech are connected with `det:poss`: <tt><a h
 4	,	,	PUNCT	,	_	3	punct	_	_
 5	nahmen	nehmen	VERB	VBC	Mood=Ind|Number=Plur|Person=1|Tense=Past	0	root	_	_
 6	wir	wir	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	5	nsubj	_	_
-7	an	an	VERB	DC	_	5	compound:prt	_	SpaceAfter=No
+7	an	an	ADP	DC	_	5	compound:prt	_	SpaceAfter=No
 8	,	,	PUNCT	,	_	21	punct	_	_
 9	wir	wir	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	21	nsubj	_	_
 10	hätten	haben	AUX	VBC	Mood=Sub|Number=Plur|Person=1|Tense=Past	21	aux	_	_

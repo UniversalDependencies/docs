@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.0 release.
 The following people have contributed to making this treebank part of UD: Cristina Bosco, Manuela Sanguinetti.
 
 Repository: [UD_English-ParTUT](https://github.com/UniversalDependencies/UD_English-ParTUT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uden_partut215)<br />
-Download all treebanks: [UD 2.15](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uden_partut218)<br />
+Download all treebanks: [UD 2.18](/#download)
 
 License: CC BY-NC-SA 4.0
 
@@ -95,21 +95,21 @@ In Proceedings of the 13th Workshop on Treebanks and Linguistic Theories (TLT-13
 
 ## Features
 
-[Definite](en_partut-feat-Definite.html) – [Degree](en_partut-feat-Degree.html) – [Foreign](en_partut-feat-Foreign.html) – [Gender](en_partut-feat-Gender.html) – [Mood](en_partut-feat-Mood.html) – [Number](en_partut-feat-Number.html) – [NumType](en_partut-feat-NumType.html) – [Person](en_partut-feat-Person.html) – [Polarity](en_partut-feat-Polarity.html) – [Poss](en_partut-feat-Poss.html) – [PronType](en_partut-feat-PronType.html) – [Reflex](en_partut-feat-Reflex.html) – [Tense](en_partut-feat-Tense.html) – [VerbForm](en_partut-feat-VerbForm.html)
+[Definite](en_partut-feat-Definite.html) – [Degree](en_partut-feat-Degree.html) – [ExtPos](en_partut-feat-ExtPos.html) – [Foreign](en_partut-feat-Foreign.html) – [Gender](en_partut-feat-Gender.html) – [Mood](en_partut-feat-Mood.html) – [Number](en_partut-feat-Number.html) – [NumForm](en_partut-feat-NumForm.html) – [NumType](en_partut-feat-NumType.html) – [Person](en_partut-feat-Person.html) – [Polarity](en_partut-feat-Polarity.html) – [Poss](en_partut-feat-Poss.html) – [PronType](en_partut-feat-PronType.html) – [Reflex](en_partut-feat-Reflex.html) – [Tense](en_partut-feat-Tense.html) – [VerbForm](en_partut-feat-VerbForm.html)
 
 ## Relations
 
-[acl](en_partut-dep-acl.html) – [acl:relcl](en_partut-dep-acl-relcl.html) – [advcl](en_partut-dep-advcl.html) – [advmod](en_partut-dep-advmod.html) – [amod](en_partut-dep-amod.html) – [appos](en_partut-dep-appos.html) – [aux](en_partut-dep-aux.html) – [aux:pass](en_partut-dep-aux-pass.html) – [case](en_partut-dep-case.html) – [cc](en_partut-dep-cc.html) – [ccomp](en_partut-dep-ccomp.html) – [compound](en_partut-dep-compound.html) – [compound:prt](en_partut-dep-compound-prt.html) – [conj](en_partut-dep-conj.html) – [cop](en_partut-dep-cop.html) – [csubj](en_partut-dep-csubj.html) – [csubj:pass](en_partut-dep-csubj-pass.html) – [dep](en_partut-dep-dep.html) – [det](en_partut-dep-det.html) – [det:predet](en_partut-dep-det-predet.html) – [discourse](en_partut-dep-discourse.html) – [dislocated](en_partut-dep-dislocated.html) – [expl](en_partut-dep-expl.html) – [fixed](en_partut-dep-fixed.html) – [flat](en_partut-dep-flat.html) – [flat:foreign](en_partut-dep-flat-foreign.html) – [iobj](en_partut-dep-iobj.html) – [mark](en_partut-dep-mark.html) – [nmod](en_partut-dep-nmod.html) – [nmod:poss](en_partut-dep-nmod-poss.html) – [nmod:unmarked](en_partut-dep-nmod-unmarked.html) – [nsubj](en_partut-dep-nsubj.html) – [nsubj:pass](en_partut-dep-nsubj-pass.html) – [nummod](en_partut-dep-nummod.html) – [obj](en_partut-dep-obj.html) – [obl](en_partut-dep-obl.html) – [orphan](en_partut-dep-orphan.html) – [parataxis](en_partut-dep-parataxis.html) – [punct](en_partut-dep-punct.html) – [root](en_partut-dep-root.html) – [vocative](en_partut-dep-vocative.html) – [xcomp](en_partut-dep-xcomp.html)
+[acl](en_partut-dep-acl.html) – [acl:relcl](en_partut-dep-acl-relcl.html) – [advcl](en_partut-dep-advcl.html) – [advmod](en_partut-dep-advmod.html) – [amod](en_partut-dep-amod.html) – [appos](en_partut-dep-appos.html) – [aux](en_partut-dep-aux.html) – [aux:pass](en_partut-dep-aux-pass.html) – [case](en_partut-dep-case.html) – [cc](en_partut-dep-cc.html) – [ccomp](en_partut-dep-ccomp.html) – [compound](en_partut-dep-compound.html) – [compound:prt](en_partut-dep-compound-prt.html) – [conj](en_partut-dep-conj.html) – [cop](en_partut-dep-cop.html) – [csubj](en_partut-dep-csubj.html) – [csubj:pass](en_partut-dep-csubj-pass.html) – [dep](en_partut-dep-dep.html) – [det](en_partut-dep-det.html) – [det:predet](en_partut-dep-det-predet.html) – [discourse](en_partut-dep-discourse.html) – [dislocated](en_partut-dep-dislocated.html) – [expl](en_partut-dep-expl.html) – [fixed](en_partut-dep-fixed.html) – [flat](en_partut-dep-flat.html) – [flat:foreign](en_partut-dep-flat-foreign.html) – [iobj](en_partut-dep-iobj.html) – [mark](en_partut-dep-mark.html) – [nmod](en_partut-dep-nmod.html) – [nmod:desc](en_partut-dep-nmod-desc.html) – [nmod:poss](en_partut-dep-nmod-poss.html) – [nmod:unmarked](en_partut-dep-nmod-unmarked.html) – [nsubj](en_partut-dep-nsubj.html) – [nsubj:pass](en_partut-dep-nsubj-pass.html) – [nummod](en_partut-dep-nummod.html) – [obj](en_partut-dep-obj.html) – [obl](en_partut-dep-obl.html) – [obl:unmarked](en_partut-dep-obl-unmarked.html) – [orphan](en_partut-dep-orphan.html) – [parataxis](en_partut-dep-parataxis.html) – [punct](en_partut-dep-punct.html) – [root](en_partut-dep-root.html) – [vocative](en_partut-dep-vocative.html) – [xcomp](en_partut-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 2090 sentences, 49601 tokens and 49632 syntactic words.</li>
+<li>This corpus contains 2090 sentences, 49033 tokens and 49478 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 6460 tokens (13%) that are not followed by a space.</li>
+<li>This corpus contains 5894 tokens (12%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -117,12 +117,12 @@ In Proceedings of the 13th Workshop on Treebanks and Linguistic Theories (TLT-13
 </ul>
 
 <ul>
-<li>This corpus contains 87 types of words that contain both letters and punctuation. Examples: 's, 're, so-called, 'm, 've, cost-effective, long-term, ’s, hi-tech, self-regulation, 'd, 'll, D', G., Mid-1590s, R&D, S., T., e.g., etc., i.e., late-1990, medium-sized, p., part-time, real-time, son-in-law, A., African-American, C., Co-operation, D., Fine-tune, H., L', M., Mr., Self-destructive, St., W., W.H., above-mentioned, avant-garde, back-up, best-selling, blow-ups, case-by-case, co-financing, co-ordination, cost-effectiveness</li>
+<li>This corpus contains 111 types of words that contain both letters and punctuation. Examples: 's, n't, 're, so-called, 92/42/EEC, 'm, 've, cost-effective, long-term, ’s, hi-tech, self-regulation, 'd, 'll, 1990's, 2000/55/EC, 78/170/EEC, 94/55/EC, 96/57/EC, D', G., Mid-1590s, R&D, S., T., e.g., etc., i.e., late-1990's, medium-sized, p., part-time, real-time, son-in-law, 158-C5-0004/1999-1999/0083, 1600/2002/EC, 1980's, 2000's, 2001/923/EC, 2002/91/EC, 2002/95/EC, 2002/96/EC, 2005/32/EC, 30's, 76/769/EEC, 90/396/EEC, 92/75/EEC, 93/465/EEC, 95/35/EC, A.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 31 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
-<li>There are 8 types of multi-word tokens. Examples: cannot, don't, ain't, can't, won't, aren't, des, shouldn't.</li>
+<li>This corpus contains 445 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+<li>There are 185 types of multi-word tokens. Examples: Shakespeare's, Balzac's, cannot, Ukraine's, China's, Commission's, King's, Parliament's, Africa's, don't, that's, Europe's, Korea's, today's, women's, world's, I'm, Marx's, Putin's, citizens', country's, it's, people's, America's, Chamberlain's, Greene's, countries', minute's, mother's, sector's, there's, they're, what's, woman's, you're, you've, Fed's, Fund's, Germany's, Hamlet's, India's, Jonson's, Joyce's, Lover's, Lucien's, Night's, Schauble's, States', ain't, author's.</li>
 </ul>
 
 <h2>Morphology</h2>
@@ -134,15 +134,15 @@ In Proceedings of the 13th Workshop on Treebanks and Linguistic Theories (TLT-13
 </ul>
 
 <ul>
-<li>This corpus contains 4 word types tagged as particles (PART): ', 's, not, to</li>
+<li>This corpus contains 7 word types tagged as particles (PART): ', 's, n't, not, to, ’, ’s</li>
 </ul>
 
 <ul>
-<li>This corpus contains 45 lemmas tagged as pronouns (PRON): above, all, anyone, both, each, everyone, everything, first, he, her, his, i, it, latter, many, most, much, nobody, none, nothing, one, other, second, several, she, some, someone, something, that, them, themselves, there, they, third, this, us, we, what, when, where, whereby, which, who, whose, you</li>
+<li>This corpus contains 44 lemmas tagged as pronouns (PRON): above, all, anyone, both, each, everyone, everything, first, he, her, his, i, it, latter, many, most, much, nobody, none, nothing, one, other, second, several, she, some, someone, something, that, them, themselves, there, they, third, this, us, we, what, when, whereby, which, who, whose, you</li>
 </ul>
 
 <ul>
-<li>This corpus contains 34 lemmas tagged as determiners (DET): Les, a, all, another, any, both, certain, each, every, her, his, its, le, many, more, my, neither, no, numerous, one, several, some, such, that, the, their, this, uno, us, what, whatever, which, you, ’s</li>
+<li>This corpus contains 33 lemmas tagged as determiners (DET): Les, a, all, another, any, both, certain, each, every, her, his, its, le, many, more, my, neither, no, numerous, one, several, some, such, that, the, their, this, uno, us, what, whatever, which, you</li>
 </ul>
 
 <ul>
@@ -164,7 +164,7 @@ In Proceedings of the 13th Workshop on Treebanks and Linguistic Theories (TLT-13
 <ul>
   <li>Fin
   <ul>
-    <li>AUX: is, are, was, has, would, should, have, can, will, shall</li>
+    <li>AUX: is, are, was, has, would, should, have, can, shall, will</li>
     <li>VERB: is, has, have, wrote, know, are, had, believe, need, made</li>
   </ul>
   </li>
@@ -174,7 +174,7 @@ In Proceedings of the 13th Workshop on Treebanks and Linguistic Theories (TLT-13
   <li>Ger
   <ul>
     <li>AUX: being, having</li>
-    <li>VERB: including, according, establishing, improving, increasing, using, making, considering, creating, doing</li>
+    <li>VERB: including, establishing, improving, increasing, using, making, considering, creating, doing, encouraging</li>
   </ul>
   </li>
 </ul>
@@ -182,7 +182,7 @@ In Proceedings of the 13th Workshop on Treebanks and Linguistic Theories (TLT-13
 <ul>
   <li>Inf
   <ul>
-    <li>AUX: be, have, shall, can</li>
+    <li>AUX: be, have, shall, ca</li>
     <li>VERB: like, make, take, have, ensure, do, see, ask, be, continue</li>
   </ul>
   </li>
@@ -231,9 +231,18 @@ In Proceedings of the 13th Workshop on Treebanks and Linguistic Theories (TLT-13
       <li>AUX: are, have, were, do, 're, 've, be</li>
       <li>AUX-Fin: are, have, were, do, 're, 've</li>
       <li>DET: these, those, Many, les</li>
-      <li>NOUN: countries, people, states, plays, years, rights, terms, measures, requirements, works</li>
+      <li>NOUN: countries, people, states, years, plays, rights, terms, measures, requirements, works</li>
       <li>PRON: we, they, them, those, us, others, these, Many, ourselves, themselves</li>
+      <li>PROPN: Commons, Catholics, Funds</li>
       <li>VERB-Fin: have, are, know, need, see, include, remain, like, believe, create</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Ptan
+    <ul>
+      <li>NOUN: means, savings, thanks, 1590s, 1950s, 1990's, Mid-1590s, late-1990's, specifics, supplies</li>
     </ul>
   </li>
 </ul>
@@ -243,9 +252,10 @@ In Proceedings of the 13th Workshop on Treebanks and Linguistic Theories (TLT-13
     <ul>
       <li>AUX-Fin: is, was, has, does, were, 's, have, am, do, 'm</li>
       <li>AUX-Part: being</li>
-      <li>DET: a, this, an, its, my, that, another, each, every, one</li>
+      <li>DET: a, this, an, its, my, that, each, another, every, one</li>
       <li>NOUN: work, Commission, time, Parliament, President, member, Mr, license, growth, Directive</li>
-      <li>PRON: it, I, he, this, him, everyone, one, what, she, that</li>
+      <li>PRON: it, I, he, this, him, everyone, one, that, what, she</li>
+      <li>PROPN: South, Korea, 92/42/EEC, Commons, War, World, 2000/55/EC, 78/170/EEC, 94/55/EC, 96/57/EC</li>
       <li>VERB-Fin: is, has, makes, believe, provides, think, appears, comes, remains, seems</li>
       <li>VERB-Part: including, emerging, regarding, concerning, developing, following, rising, amending, arising, growing</li>
     </ul>
@@ -261,7 +271,7 @@ In Proceedings of the 13th Workshop on Treebanks and Linguistic Theories (TLT-13
 <ul>
   <li>Def
     <ul>
-      <li>DET: the, ’s, les, une</li>
+      <li>DET: the, les, une</li>
     </ul>
   </li>
 </ul>
@@ -284,7 +294,7 @@ In Proceedings of the 13th Workshop on Treebanks and Linguistic Theories (TLT-13
 <ul>
   <li>Cmp
     <ul>
-      <li>ADJ: more, greater, better, higher, later, lower, bigger, closer, larger, smaller</li>
+      <li>ADJ: greater, more, better, higher, later, lower, bigger, closer, larger, smaller</li>
       <li>ADV: more, less, later, longer</li>
     </ul>
   </li>
@@ -293,8 +303,8 @@ In Proceedings of the 13th Workshop on Treebanks and Linguistic Theories (TLT-13
 <ul>
   <li>Pos
     <ul>
-      <li>ADJ: other, new, European, economic, financial, social, many, important, own, first</li>
-      <li>ADV: real-time</li>
+      <li>ADJ: other, European, new, economic, financial, social, many, important, own, first</li>
+      <li>ADV: well, long, far, much, large, real-time</li>
     </ul>
   </li>
 </ul>
@@ -302,7 +312,7 @@ In Proceedings of the 13th Workshop on Treebanks and Linguistic Theories (TLT-13
 <ul>
   <li>Sup
     <ul>
-      <li>ADJ: most, best, greatest, largest, highest, earliest, finest, latest, strongest, biggest</li>
+      <li>ADJ: least, most, best, greatest, largest, highest, earliest, finest, latest, strongest</li>
       <li>ADV: least</li>
     </ul>
   </li>
@@ -316,7 +326,7 @@ In Proceedings of the 13th Workshop on Treebanks and Linguistic Theories (TLT-13
   <li>Neg
     <ul>
       <li>ADV: no</li>
-      <li>PART: not</li>
+      <li>PART: not, n't</li>
     </ul>
   </li>
 </ul>
@@ -342,7 +352,7 @@ In Proceedings of the 13th Workshop on Treebanks and Linguistic Theories (TLT-13
 <ul>
   <li>Ind
     <ul>
-      <li>AUX-Fin: is, are, was, has, would, should, have, can, shall, will</li>
+      <li>AUX-Fin: is, are, was, has, would, should, have, shall, can, will</li>
       <li>VERB-Fin: is, has, have, wrote, know, are, had, believe, need, made</li>
       <li>VERB-Part: annexed</li>
     </ul>
@@ -376,12 +386,12 @@ In Proceedings of the 13th Workshop on Treebanks and Linguistic Theories (TLT-13
 <ul>
   <li>Pres
     <ul>
-      <li>AUX: is, are, has, have, can, will, shall, may, do, must</li>
-      <li>AUX-Fin: is, are, has, have, can, will, shall, may, do, must</li>
+      <li>AUX: is, are, has, have, can, shall, will, may, do, must</li>
+      <li>AUX-Fin: is, are, has, have, can, shall, will, may, do, must</li>
       <li>AUX-Part: being</li>
       <li>VERB-Fin: is, has, have, know, are, believe, need, think, makes, see</li>
       <li>VERB-Inf: live, look</li>
-      <li>VERB-Part: including, emerging, developing, regarding, concerning, following, rising, relating, amending, arising</li>
+      <li>VERB-Part: including, emerging, according, developing, regarding, concerning, following, rising, relating, amending</li>
     </ul>
   </li>
 </ul>
@@ -398,7 +408,7 @@ In Proceedings of the 13th Workshop on Treebanks and Linguistic Theories (TLT-13
 <ul>
   <li>Art
     <ul>
-      <li>DET: the, a, an, another, ’s, Le, les, une</li>
+      <li>DET: the, a, an, another, Le, les, une</li>
     </ul>
   </li>
 </ul>
@@ -407,7 +417,7 @@ In Proceedings of the 13th Workshop on Treebanks and Linguistic Theories (TLT-13
   <li>Dem
     <ul>
       <li>DET: this, such, these, that, those</li>
-      <li>PRON: this, that, those, these</li>
+      <li>PRON: there, this, that, those, these</li>
     </ul>
   </li>
 </ul>
@@ -423,8 +433,8 @@ In Proceedings of the 13th Workshop on Treebanks and Linguistic Theories (TLT-13
 <ul>
   <li>Ind
     <ul>
-      <li>DET: any, no, some, each, both, every, whatever, certain, numerous, Many</li>
-      <li>PRON: all, some, others, each, nothing, Many, other, one, Much, both</li>
+      <li>DET: any, no, some, each, both, every, whatever, another, certain, numerous</li>
+      <li>PRON: all, some, others, each, nothing, Many, one, other, Much, both</li>
     </ul>
   </li>
 </ul>
@@ -432,6 +442,7 @@ In Proceedings of the 13th Workshop on Treebanks and Linguistic Theories (TLT-13
 <ul>
   <li>Int
     <ul>
+      <li>ADV: where</li>
       <li>DET: what, which</li>
       <li>PRON: what, who</li>
     </ul>
@@ -456,10 +467,20 @@ In Proceedings of the 13th Workshop on Treebanks and Linguistic Theories (TLT-13
 </ul>
 
 <ul>
+  <li>Rcp
+    <ul>
+      <li>DET: each, another</li>
+      <li>PRON: one</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li>Rel
     <ul>
+      <li>ADV: where</li>
       <li>DET: which</li>
-      <li>PRON: which, that, who, what, where, whom, whose, when, whereby</li>
+      <li>PRON: which, that, who, what, whom, whose, when, whereby</li>
     </ul>
   </li>
 </ul>
@@ -479,7 +500,16 @@ In Proceedings of the 13th Workshop on Treebanks and Linguistic Theories (TLT-13
 <ul>
   <li>Card
     <ul>
-      <li>NUM: two, one, 1, three, 2, four, 18, 3, 6, five</li>
+      <li>NOUN: 1590s, 1950s, 1990's, Mid-1590s, late-1990's, 1980's, 1980s, 1990s, 2000's, 30's</li>
+      <li>NUM: two, one, 1, three, 2, four, 3, 6, five, 18</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Frac
+    <ul>
+      <li>NOUN: third</li>
     </ul>
   </li>
 </ul>
@@ -487,7 +517,7 @@ In Proceedings of the 13th Workshop on Treebanks and Linguistic Theories (TLT-13
 <ul>
   <li>Ord
     <ul>
-      <li>ADJ: first, last, second, third, II, III, sixth, I, IV, VI</li>
+      <li>ADJ: first, last, second, third, 18th, 19th, sixth, 17th, 20th, 16th</li>
       <li>PRON: first, third, latter, second</li>
     </ul>
   </li>
@@ -545,7 +575,7 @@ In Proceedings of the 13th Workshop on Treebanks and Linguistic Theories (TLT-13
 <ul>
   <li>3
     <ul>
-      <li>AUX-Fin: is, was, has, would, should, can, shall, will, may, had</li>
+      <li>AUX-Fin: is, was, has, would, should, shall, can, will, may, had</li>
       <li>AUX-Ger: being</li>
       <li>PRON: it, he, they, them, him, everyone, one, she, himself, itself</li>
       <li>VERB-Fin: is, has, wrote, had, made, became, makes, began, provides, did</li>
@@ -562,11 +592,79 @@ In Proceedings of the 13th Workshop on Treebanks and Linguistic Theories (TLT-13
 
 
 <ul>
+  <li><a>ExtPos</a>
+    <ul>
+      <li>ADP
+        <ul>
+          <li>ADJ: such, due, prior</li>
+          <li>ADP: because, as</li>
+          <li>ADV: instead</li>
+          <li>VERB-Part: according</li>
+        </ul>
+      </li>
+      <li>ADV
+        <ul>
+          <li>ADJ: more, less</li>
+          <li>ADP: of, up</li>
+          <li>ADV: as, more</li>
+          <li>DET: all</li>
+          <li>PRON: that</li>
+        </ul>
+      </li>
+      <li>CCONJ
+        <ul>
+          <li>ADV: as, rather</li>
+          <li>VERB-Inf: let</li>
+        </ul>
+      </li>
+      <li>PRON
+        <ul>
+          <li>DET: each</li>
+          <li>PRON: one</li>
+        </ul>
+      </li>
+      <li>SCONJ
+        <ul>
+          <li>ADP: in</li>
+          <li>ADV: instead</li>
+          <li>SCONJ: so</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li><a>Foreign</a>
     <ul>
       <li>Yes
         <ul>
           <li>X: la, Comédie, humaine, de, Le, Illusions, Perdues, Chagrin, Peau, Père</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>NumForm</a>
+    <ul>
+      <li>Combi
+        <ul>
+          <li>ADJ: 18th, 19th, 17th, 20th, 16th, 21st</li>
+          <li>NOUN: 1590s, 1950s, 1990's, Mid-1590s, late-1990's, 1980's, 1980s, 1990s, 2000's, 30's</li>
+        </ul>
+      </li>
+      <li>Roman
+        <ul>
+          <li>NOUN: VIII</li>
+          <li>NUM: II, III, I, VI, IX, V, VIII</li>
+        </ul>
+      </li>
+      <li>Word
+        <ul>
+          <li>ADJ: nineteenth</li>
+          <li>NOUN: third, twenties</li>
         </ul>
       </li>
     </ul>
@@ -592,14 +690,15 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB-Fin--NOUN (564)</li>
+      <li>VERB-Fin--NOUN (547)</li>
       <li>VERB-Fin--PRON (617)</li>
       <li>VERB-Ger--NOUN (36)</li>
       <li>VERB-Ger--PRON (46)</li>
-      <li>VERB-Inf--NOUN (189)</li>
-      <li>VERB-Inf--PRON (237)</li>
-      <li>VERB-Part--NOUN (135)</li>
-      <li>VERB-Part--PRON (93)</li>
+      <li>VERB-Inf--NOUN (187)</li>
+      <li>VERB-Inf--PRON (238)</li>
+      <li>VERB-Part--NOUN (129)</li>
+      <li>VERB-Part--NOUN-ADP(such) (1)</li>
+      <li>VERB-Part--PRON (92)</li>
     </ul>
   </li>
 </ul>
@@ -607,15 +706,14 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB-Fin--NOUN (628)</li>
-      <li>VERB-Fin--NOUN-ADP(up) (1)</li>
-      <li>VERB-Fin--PRON (120)</li>
-      <li>VERB-Ger--NOUN (261)</li>
+      <li>VERB-Fin--NOUN (630)</li>
+      <li>VERB-Fin--PRON (119)</li>
+      <li>VERB-Ger--NOUN (260)</li>
       <li>VERB-Ger--PRON (17)</li>
-      <li>VERB-Inf--NOUN (579)</li>
+      <li>VERB-Inf--NOUN (569)</li>
       <li>VERB-Inf--PRON (78)</li>
-      <li>VERB-Part--NOUN (213)</li>
-      <li>VERB-Part--NOUN-ADP('s) (1)</li>
+      <li>VERB-Inf--PRON-ADP(towards) (1)</li>
+      <li>VERB-Part--NOUN (212)</li>
       <li>VERB-Part--PRON (21)</li>
     </ul>
   </li>
@@ -642,6 +740,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 9 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>compound:prt</a>, <a>csubj:pass</a>, <a>det:predet</a>, <a>flat:foreign</a>, <a>nmod:poss</a>, <a>nmod:unmarked</a>, <a>nsubj:pass</a></li>
+<li>This corpus uses 11 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>compound:prt</a>, <a>csubj:pass</a>, <a>det:predet</a>, <a>flat:foreign</a>, <a>nmod:desc</a>, <a>nmod:poss</a>, <a>nmod:unmarked</a>, <a>nsubj:pass</a>, <a>obl:unmarked</a></li>
 <li>The following 4 relation types are not used in this corpus at all: <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>

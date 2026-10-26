@@ -66,7 +66,7 @@ The following 4 pairs of parts of speech are connected with `goeswith`: <tt><a h
 6	sua	seu	DET	_	Gender=Fem|Number=Sing|PronType=Prs	7	det	_	_
 7	estrutura	estrutura	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	SpaceAfter=No
 8	,	,	PUNCT	_	_	7	punct	_	_
-9	além	além	ADV	_	_	12	cc	_	MWEPOS=CCONJ
+9	além	além	ADV	_	ExtPos=CCONJ	12	cc	_	_
 10	de	de	ADP	_	_	9	fixed	_	_
 11	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
 12	introdução	introdução	NOUN	_	Gender=Fem|Number=Sing	3	conj	_	SpaceAfter=No

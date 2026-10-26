@@ -9,34 +9,24 @@ udver: '2'
 ## Tokenization and Word Segmentation
 
 Middle French tokenization is mostly based on whitespaces and punctuation.
-Some work is still needed for a complete analysis of fused forms such as "dudit" = "de ledit" (ADP+DET) along the UD guidelines. 
+Some work is still needed for a complete analysis of fused forms such as "dudit" = "de ledit" (ADP+DET) along the UD guidelines.
 
----
-**Instruction**: Describe the general rules for delimiting words (for example, based on whitespace and punctuation) and exceptions to these rules. Specify whether words with spaces and/or multiword tokens occur. Include links to further language-specific documentation if available.
-
----
 
 ## Morphology
 
 ### Tags
 
-* ``PART`` is unused in Middle French.
-  
-* Participles are tagged as ``VERB``.
+* All UD tags are allowed but ``PART`` is not used in Middle French.
 
----
-**Instruction**: Specify any unused tags. Explain what words are tagged as PART. Describe how the AUX-VERB and DET-PRON distinctions are drawn, and specify whether there are (de)verbal forms tagged as ADJ, ADV or NOUN. Include links to language-specific tag definitions if any.
+* Participles are tagged as ``VERB`` even when they do not have dependents.
 
----
 
 ### Features
 
 * Morphological annotation is not complete yet. Features that were automatically derivable from the original CATTEX tags are included in the morphological features. Those includes ``PronType``, ``NumType``, ``Tense``, ``VerbForm``, ``Poss`` and ``Definite``. However, ``Number``, ``Gender`` and ``Person`` that are important features in Middle French are not yet annotated.
 
----
-**Instruction**: Describe inherent and inflectional features for major word classes (at least NOUN and VERB). Describe other noteworthy features. Include links to language-specific feature definitions if any.
+* In the [Middle French-ALTM](https://github.com/UniversalDependencies/UD_Middle_French-ALTM) treebank, verbs and auxiliaries are annotated in verb forms (VerbForm): Inf (infinitive), Fin (conjugated) and Part (participle). Congujated forms are annotated in Person (1, 2 or 3) and Number (Sing or Masc). Participles are annotated in Tense (Past or Present) Pronouns are annotated in type (PronType: Dem for demonstrative, Ind for indefinite, Prs for personal and Rel for relative). Reflexive and possessive pronouns are also tagged (Reflexive=Yes and Poss=Yes). Determiners are tagged using PronType (Art for article, Dem for demonstrative, Ind for indefinite); possessive determiners have Poss=Yes. Ordinal numerals (tagged as ADJ) bear the feature NumType=Ord, cardinal numerals (annotated as NUM) are tagged NumType=Card.
 
----
 
 ## Syntax
 
@@ -44,20 +34,17 @@ Some work is still needed for a complete analysis of fused forms such as "dudit"
   "... le jour de Pasques, qui furent le Ve jour d'avril ..." (the day of Easter, that were the 5th day of April),
 because Pasques (Easter) is a plural even though the syntactic subject "jour" is a singular.
 
----
-**Instruction**: Give criteria for identifying core arguments (subjects and objects), and describe the range of copula constructions in nonverbal clauses. List all subtype relations used. Include links to language-specific relations definitions if any.
+* A noun may have two determiners, e.g. when an indefinite determiner is used together with an article or a possessive determiner
 
----
+~~~ sdparse
+tout son ost
+det(ost, tout)
+det(ost, son)
+~~~
 
 ## Treebanks
 
-There are [1](../treebanks/frm-comparison.html) Middle French UD treebanks:
+There are [2](../treebanks/frm-comparison.html) Middle French UD treebanks:
 
   * [Middle French-PROFITEROLE](../treebanks/frm_profiterole/index.html)
-
----
-**Instruction**: Treebank-specific pages are generated automatically from the README file in the treebank repository and
-from the data in the latest release. Link to the respective `*-index.html` page in the `treebanks` folder, using the language code
-and the treebank code in the file name.
-
----
+  * [Middle French-ALTM](../treebanks/frm_altm/index.html)

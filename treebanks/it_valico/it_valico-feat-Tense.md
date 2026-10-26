@@ -26,7 +26,7 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 * `Imp` (215; 29% of non-empty `Tense`): <em>era, portava, aveva, sembrava, leggeva, gridava, pensava, pensavo, faceva, sapeva</em>
 * `Past` (396; 53% of non-empty `Tense`): <em>detto, visto, fatto, pensato, sentito, seduto, cominciato, andato, gridato, salvato</em>
 * `Pres` (129; 17% of non-empty `Tense`): <em>amo, lascia, piace, fa, farebbe, ha, ho, penso, scusi, sta</em>
-* `EMPTY` (223): <em>leggendo, fare, andare, leggere, aiutar, portando, salvare, aiutare, gridando, chiamare</em>
+* `EMPTY` (224): <em>leggendo, fare, andare, leggere, aiutar, portando, salvare, aiutare, gridando, chiamare</em>
 
 <table>
   <tr><th>Paradigm <i>fare</i></th><th><tt>Pres</tt></th><th><tt>Fut</tt></th><th><tt>Past</tt></th><th><tt>Imp</tt></th></tr>

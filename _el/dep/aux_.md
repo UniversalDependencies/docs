@@ -77,9 +77,23 @@ aux(φάει, να)
 ~~~
 -->
 
+------------------------
+**Cretan**
+
+The (Eastern) Cretan dialect uses a distinctive periphrastic structure to express the future tense, which is not found in Standard Modern Greek (SMG).
+
+e.g.
+*να πάω θέλει* “I will go”
+
+~~~ sdparse
+να πάω θέλει
+aux(πάω, να)
+aux(θέλει, πάω)
+~~~
+------------------------
 
 <!--
 TODO
 Include φαίνεται πρόκειται?
 -->
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:27 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:43 CEST -->

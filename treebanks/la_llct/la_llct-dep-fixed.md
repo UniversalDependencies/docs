@@ -24,7 +24,7 @@ The following 17 pairs of parts of speech are connected with `fixed`: <tt><a hre
 # visual-style 3 4 fixed	color:blue
 1	+	+	PUNCT	SYM	_	9	punct	_	_
 2	Ego	ego	PRON	p|p|1|s|-|-|-|m|n|-	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	det	_	_
-3	qui	qui	DET	p|p|-|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	5	det	_	_
+3	qui	qui	DET	p|p|-|s|-|-|-|m|n|-	Case=Nom|ExtPos=DET|Gender=Masc|Number=Sing|PronType=Ind	5	det	_	_
 4	supra	supra	ADV	d|d|-|-|-|-|-|-|-|-	_	3	fixed	_	_
 5	Lupo	lupus	PROPN	Propn|n|-|s|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Sing	9	nsubj	_	_
 6	scriptor	scriptor	NOUN	n|n|-|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing	5	appos	_	_
@@ -43,7 +43,7 @@ The following 17 pairs of parts of speech are connected with `fixed`: <tt><a hre
 # visual-style 2	fgColor:white
 # visual-style 2 3 fixed	color:blue
 1	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	9	cc	_	_
-2	usque	usque	ADV	d|d|-|-|-|-|-|-|-|-	_	4	case	_	_
+2	usque	usque	ADV	d|d|-|-|-|-|-|-|-|-	ExtPos=ADP	4	case	_	_
 3	ad	ad	ADP	r|r|-|-|-|-|-|-|-|-	_	2	fixed	_	_
 4	Roselle	Rosella	PROPN	Propn|n|-|p|-|-|-|f|n|-	Case=Nom|Gender=Fem|Number=Plur	8	obl	_	_
 5	animalia	animal	NOUN	n|n|-|p|-|-|-|n|a|-	Case=Acc|Gender=Neut|Number=Plur	8	obj	_	_
@@ -71,7 +71,7 @@ The following 17 pairs of parts of speech are connected with `fixed`: <tt><a hre
 7	nos	nos	PRON	p|p|1|p|-|-|-|m|a|-	Case=Acc|Number=Plur|Person=1|PronType=Prs	5	obl	_	_
 8	testimonia	testimonium	NOUN	n|n|-|p|-|-|-|n|a|-	Case=Acc|Gender=Neut|Number=Plur	5	obj	_	SpaceAfter=No
 9	,	,	PUNCT	Punc	_	12	punct	_	_
-10	id	is	PRON	p|p|-|s|-|-|-|n|n|-	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	12	cc	_	_
+10	id	is	PRON	p|p|-|s|-|-|-|n|n|-	Case=Nom|ExtPos=CCONJ|Gender=Neut|Number=Sing|Person=3|PronType=Prs	12	cc	_	_
 11	est	sum	AUX	v|v|3|s|p|i|a|-|-|-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	fixed	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
 12	Popo	Popus	PROPN	Propn|n|-|s|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Sing	8	conj	_	SpaceAfter=No
 13	,	,	PUNCT	Punc	_	14	punct	_	_

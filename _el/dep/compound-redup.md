@@ -5,9 +5,9 @@ shortdef: 'reduplicated compounds'
 udver: '2'
 ---
 
-Reduplication of adverbs is productive in Modern Greek and is a way of intensification of the meaning of the adverb. 
-Each adverb is assigned the tag [ADV]() and first one is assigned the feature [Degree=Aug](). The second adverb 
-depends on the first one with the [compound:redup]() dependency. 
+Reduplication of adverbs, adjectives and nouns is productive in Modern Greek and is a way of intensification of the meaning. 
+Each word in a reduplication pair is assigned its corresponding POS. The first word in the pair is assigned the feature [Degree=Aug](). The second word depends on the first one with the [compound:redup]() dependency.
+ 
 - *πάνω πάνω* Lit. *up up* "on the very top"
 - *πίσω πίσω* Lit. *back back* "at the very back", *σιγά σιγά* Lit. *slowly slowly* "very very slowly"
 - *πονηρά πονηρά* Lit. *cuningly cuningly* "very very cunningly". 
@@ -19,4 +19,25 @@ compound:redup(πάνω-2, πάνω-1)
 ~~~
 
 For lexicalized multi-word items with repetition, e.g. *τσίμα τσίμα* we use [fixed]().
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:39 CET -->
+
+----------------
+**Cretan**
+
+Μια όρθα είχανε ούλη κι ούλη “They had just one chicken, and that was all.”
+
+~~~ sdparse~~~
+Μια όρθα είχανε ούλη κι ούλη
+advcl(είχανε, ούλη)
+compound:redup(ούλη, ούλη)
+~~~
+
+Πατούλιες πατούλιες κινήσαμε την παραμονή “In groups, we set out on the eve.”
+~~~ sdparse~~~
+Πατούλιες πατούλιες κινήσαμε την παραμονή 
+advcl(κινήσαμε, πατούλιες)
+compound:redup(πατούλιες, πατούλιες)
+~~~
+
+--------------------
+
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:52 CEST -->

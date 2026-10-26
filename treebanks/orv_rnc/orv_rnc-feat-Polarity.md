@@ -41,7 +41,7 @@ The most frequent other feature values with which `VERB` and `Polarity` co-occur
 `VERB` tokens may have the following values of `Polarity`:
 
 * `Neg` (140; 100% of non-empty `Polarity`): <em>нет, нѣтъ, нѣт, нетъ, нельзя, нелзе, негде, нелзя, нелзѣ, нѣту</em>
-* `EMPTY` (14712): <em>смерено, взято, велел, пожаловал, дал, писал, сказал, велѣлъ, принето, послал</em>
+* `EMPTY` (14713): <em>смерено, взято, велел, пожаловал, дал, писал, сказал, велѣлъ, принето, послал</em>
 
 `Polarity` seems to be **lexical feature** of `VERB`. 100% lemmas (14) occur only with one value of `Polarity`.
 
@@ -54,5 +54,5 @@ The most frequent other feature values with which `AUX` and `Polarity` co-occurr
 `AUX` tokens may have the following values of `Polarity`:
 
 * `Neg` (1; 100% of non-empty `Polarity`): <em>несть</em>
-* `EMPTY` (1472): <em>бы, было, будет, есть, были, есми, бысть, б, будетъ, былъ</em>
+* `EMPTY` (1471): <em>бы, было, будет, есть, были, есми, бысть, б, будетъ, былъ</em>
 

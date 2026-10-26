@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-108 nodes (4%) are attached to their parents as `obj`.
+156 nodes (4%) are attached to their parents as `obj`.
 
-99 instances of `obj` (92%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.10185185185185.
+142 instances of `obj` (91%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.17948717948718.
 
-The following 11 pairs of parts of speech are connected with `obj`: <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt> (61; 56% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt> (23; 21% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-X.html">X</a></tt> (8; 7% instances), <tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt> (6; 6% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt> (3; 3% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-PART.html">PART</a></tt> (2; 2% instances), <tt><a href="pay_chibergis-pos-ADV.html">ADV</a></tt>-<tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-INTJ.html">INTJ</a></tt> (1; 1% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="pay_chibergis-pos-X.html">X</a></tt>-<tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
+The following 13 pairs of parts of speech are connected with `obj`: <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt> (80; 51% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt> (40; 26% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-X.html">X</a></tt> (12; 8% instances), <tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt> (7; 4% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-NUM.html">NUM</a></tt> (4; 3% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt> (3; 2% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="pay_chibergis-pos-X.html">X</a></tt>-<tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="pay_chibergis-pos-X.html">X</a></tt>-<tt><a href="pay_chibergis-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="pay_chibergis-pos-ADV.html">ADV</a></tt>-<tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-INTJ.html">INTJ</a></tt> (1; 1% instances), <tt><a href="pay_chibergis-pos-X.html">X</a></tt>-<tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -56,7 +56,7 @@ The following 11 pairs of parts of speech are connected with `obj`: <tt><a href=
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
 # visual-style 11 8 obj	color:blue
-1	ã	ã	PRON	PRO	_	11	obl:mod	_	AlignBegin=503240|AlignEnd=503722|Gloss=DIST.DEM|MGloss=DIST.DEM|MSeg=ã|nWord=1|RX=[PRO]|TokenType=Root|Word=ã
+1	ã	ã	PRON	PRO	_	11	obl:tmod	_	AlignBegin=503240|AlignEnd=503722|Gloss=DIST.DEM|MGloss=DIST.DEM|MSeg=ã|nWord=1|RX=[PRO]|TokenType=Root|Word=ã
 2	=yã	=yã	ADP	POST	_	1	case	_	AlignBegin=503722|AlignEnd=504204|Gloss==LOC|MGloss==LOC|MSeg==yã|nWord=2|RX=[POST]|TokenType=Clit|Word=yã
 3	ʔãã	ʔãã	INTJ	<NOT_SURE>	_	1	discourse	_	AlignBegin=504204|AlignEnd=504686|Gloss=HES|MGloss=HES|MSeg=ʔãã|nWord=3|RX=[<NOT_SURE>]|TokenType=Root|Word=ʔãã
 4	ũtas	tas	PRON	PRO	Clusivity=Ex	8	reparandum	_	AlignBegin=504686|AlignEnd=505168|Gloss=PRO1|MGloss=EXCL- PRO1|MSeg=ũ-tas|nWord=4|RX=[PRO]|TokenType=Root|Word=ũtas|wordform=ũ-tas

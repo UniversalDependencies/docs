@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 2 language-specific subtypes of `obl`: <tt><a href="apu_ufpa-dep-obl-lmod.html">obl:lmod</a></tt>, <tt><a href="apu_ufpa-dep-obl-tmod.html">obl:tmod</a></tt>.
 
-21 nodes (2%) are attached to their parents as `obl`.
+44 nodes (4%) are attached to their parents as `obl`.
 
-11 instances of `obl` (52%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.28571428571429.
+24 instances of `obl` (55%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.93181818181818.
 
-The following 2 pairs of parts of speech are connected with `obl`: <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt>-<tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt> (15; 71% instances), <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt>-<tt><a href="apu_ufpa-pos-PRON.html">PRON</a></tt> (6; 29% instances).
+The following 3 pairs of parts of speech are connected with `obl`: <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt>-<tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt> (31; 70% instances), <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt>-<tt><a href="apu_ufpa-pos-PRON.html">PRON</a></tt> (11; 25% instances), <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt>-<tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt> (2; 5% instances).
 
 
 ~~~ conllu
@@ -26,9 +26,9 @@ The following 2 pairs of parts of speech are connected with `obl`: <tt><a href="
 1	Inhinhiã	inhinhiã	ADV	Adv	_	4	advmod	_	_
 2	ywa	ywa	PRON	Pron	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	GTtags=Pers,Sg3,Msc,Nom
 3	apikumunhi	apiku	ADV	Adv	Case=Dat	4	advmod	_	GTtags=Dat
-4	ysa	sa	VERB	V	Gender[subj]=Masc|Number[subj]=Sing|Person[subj]=3	0	root	_	GTtags=ScSg3M
+4	ysa	sa	VERB	V	Gender[subj]=Masc|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past,Pres|VerbForm=Fin	0	root	_	GTtags=ScSg3M
 5	iãkynykata	iãkyny	NOUN	N	Case=Com|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person[psor]=3	4	obl	_	GTtags=Msc,Sg,PxSg3M,Com
-6	apukary	apuka	VERB	V	Gender[obj]=Masc|Gender[subj]=Masc|Number[obj]=Plur,Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3	4	conj	_	GTtags=Pred,ScSg3M,Oc3M
+6	apukary	apuka	VERB	V	Gender[obj]=Masc|Gender[subj]=Masc|Mood=Ind|Number[obj]=Plur,Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Tense=Past,Pres|VerbForm=Fin	4	conj	_	GTtags=Pred,ScSg3M,Oc3M
 7	uky	uky	NOUN	N	Case=Nom|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person[psor]=3|Possessed=Yes	6	obj	_	GTtags=Msc,Sg,PxSg3M,Nom|SpaceAfter=No
 8	.	.	PUNCT	CLB	_	4	punct	_	_
 
@@ -45,6 +45,23 @@ The following 2 pairs of parts of speech are connected with `obl`: <tt><a href="
 2	papuxukunyry	puxuku	VERB	XPOS=ATRIB.INTENS-ser.alegre-PL	_	0	root	_	gloss[pt]=ATRIB.INTENS-ser.alegre-PL
 3	awinhinã	awinhi	VERB	XPOS=3PL-casa.de-3PL	_	2	nsubj	_	gloss[pt]=3PL-casa.de-3PL|SpaceAfter=No
 4	.	.	PUNCT	_	_	2	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 5 obl	color:blue
+1	Ypusatuku	ypusatuku	ADV	Adv	_	3	advmod	_	_
+2	xamyna	xamyna	NOUN	N	Case=Nom|Gender=Masc|Number=Sing|Possessed=No	3	obj	_	GTtags=Msc,Sg,NPossd,Nom
+3	itxirata	txirata	VERB	V	Gender[subj]=Masc|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past,Pres|VerbForm=Fin	0	root	_	GTtags=TV,ScSg3M,NFut
+4	kumyrype	kumyrype	NOUN	N	Case=Nom|Number=Sing	5	obj	_	GTtags=?
+5	ykukytinhi	kukyta	VERB	V	Case=Nom|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person[psor]=3|Possessed=Yes|VerbForm=Vnoun	3	obl	_	GTtags=TV,Der,Der/NomAct,N,Msc,Sg,PxSg3M,Possd,Nom
+6	ĩkapane	ĩkapanhi	ADP	Po	AdpType=Post	5	case	_	GTtags=Po|SpaceAfter=No
+7	.	.	PUNCT	CLB	_	3	punct	_	GTtags=CLB
 
 ~~~
 

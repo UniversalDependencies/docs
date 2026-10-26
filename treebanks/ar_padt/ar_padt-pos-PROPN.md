@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  بن (<tt><a href="ar_padt-pos-PROPN.html
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.057143 (the average of all parts of speech is 1.761966).
+The form / lemma ratio of `PROPN` is 1.057143 (the average of all parts of speech is 1.761981).
 
 The 1st highest number of forms (3) was observed with the lemma “أَبُوظَبِي”: أبوظبي, ابوظبى, ابوظبي.
 
@@ -73,7 +73,7 @@ Examples: بن، عبدالله، عبدالعزيز، طه، بورسعيد، �
 
 ## Relations
 
-`PROPN` nodes are attached to their parents using 11 different relations: <tt><a href="ar_padt-dep-nmod.html">nmod</a></tt> (177; 72% instances), <tt><a href="ar_padt-dep-conj.html">conj</a></tt> (30; 12% instances), <tt><a href="ar_padt-dep-nsubj.html">nsubj</a></tt> (22; 9% instances), <tt><a href="ar_padt-dep-obl.html">obl</a></tt> (4; 2% instances), <tt><a href="ar_padt-dep-root.html">root</a></tt> (4; 2% instances), <tt><a href="ar_padt-dep-dep.html">dep</a></tt> (2; 1% instances), <tt><a href="ar_padt-dep-obj.html">obj</a></tt> (2; 1% instances), <tt><a href="ar_padt-dep-appos.html">appos</a></tt> (1; 0% instances), <tt><a href="ar_padt-dep-dislocated.html">dislocated</a></tt> (1; 0% instances), <tt><a href="ar_padt-dep-obl-arg.html">obl:arg</a></tt> (1; 0% instances), <tt><a href="ar_padt-dep-orphan.html">orphan</a></tt> (1; 0% instances)
+`PROPN` nodes are attached to their parents using 10 different relations: <tt><a href="ar_padt-dep-nmod.html">nmod</a></tt> (179; 73% instances), <tt><a href="ar_padt-dep-conj.html">conj</a></tt> (30; 12% instances), <tt><a href="ar_padt-dep-nsubj.html">nsubj</a></tt> (21; 9% instances), <tt><a href="ar_padt-dep-root.html">root</a></tt> (4; 2% instances), <tt><a href="ar_padt-dep-dep.html">dep</a></tt> (3; 1% instances), <tt><a href="ar_padt-dep-appos.html">appos</a></tt> (2; 1% instances), <tt><a href="ar_padt-dep-obj.html">obj</a></tt> (2; 1% instances), <tt><a href="ar_padt-dep-obl.html">obl</a></tt> (2; 1% instances), <tt><a href="ar_padt-dep-dislocated.html">dislocated</a></tt> (1; 0% instances), <tt><a href="ar_padt-dep-orphan.html">orphan</a></tt> (1; 0% instances)
 
 Parents of `PROPN` nodes belong to 8 different parts of speech: <tt><a href="ar_padt-pos-NOUN.html">NOUN</a></tt> (103; 42% instances), <tt><a href="ar_padt-pos-X.html">X</a></tt> (92; 38% instances), <tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> (19; 8% instances), <tt><a href="ar_padt-pos-PROPN.html">PROPN</a></tt> (17; 7% instances), <tt><a href="ar_padt-pos-ADJ.html">ADJ</a></tt> (5; 2% instances),  (4; 2% instances), <tt><a href="ar_padt-pos-CCONJ.html">CCONJ</a></tt> (3; 1% instances), <tt><a href="ar_padt-pos-NUM.html">NUM</a></tt> (2; 1% instances)
 
@@ -81,13 +81,13 @@ Parents of `PROPN` nodes belong to 8 different parts of speech: <tt><a href="ar_
 
 79 (32%) `PROPN` nodes have one child.
 
-66 (27%) `PROPN` nodes have two children.
+65 (27%) `PROPN` nodes have two children.
 
-11 (4%) `PROPN` nodes have three or more children.
+12 (5%) `PROPN` nodes have three or more children.
 
 The highest child degree of a `PROPN` node is 5.
 
-Children of `PROPN` nodes are attached using 11 different relations: <tt><a href="ar_padt-dep-nmod.html">nmod</a></tt> (173; 70% instances), <tt><a href="ar_padt-dep-cc.html">cc</a></tt> (31; 13% instances), <tt><a href="ar_padt-dep-case.html">case</a></tt> (21; 8% instances), <tt><a href="ar_padt-dep-punct.html">punct</a></tt> (8; 3% instances), <tt><a href="ar_padt-dep-amod.html">amod</a></tt> (4; 2% instances), <tt><a href="ar_padt-dep-acl.html">acl</a></tt> (3; 1% instances), <tt><a href="ar_padt-dep-conj.html">conj</a></tt> (3; 1% instances), <tt><a href="ar_padt-dep-dep.html">dep</a></tt> (2; 1% instances), <tt><a href="ar_padt-dep-acl-relcl.html">acl:relcl</a></tt> (1; 0% instances), <tt><a href="ar_padt-dep-mark.html">mark</a></tt> (1; 0% instances), <tt><a href="ar_padt-dep-nummod.html">nummod</a></tt> (1; 0% instances)
+Children of `PROPN` nodes are attached using 11 different relations: <tt><a href="ar_padt-dep-nmod.html">nmod</a></tt> (173; 69% instances), <tt><a href="ar_padt-dep-cc.html">cc</a></tt> (31; 12% instances), <tt><a href="ar_padt-dep-case.html">case</a></tt> (21; 8% instances), <tt><a href="ar_padt-dep-punct.html">punct</a></tt> (10; 4% instances), <tt><a href="ar_padt-dep-amod.html">amod</a></tt> (4; 2% instances), <tt><a href="ar_padt-dep-acl.html">acl</a></tt> (3; 1% instances), <tt><a href="ar_padt-dep-conj.html">conj</a></tt> (3; 1% instances), <tt><a href="ar_padt-dep-dep.html">dep</a></tt> (2; 1% instances), <tt><a href="ar_padt-dep-acl-relcl.html">acl:relcl</a></tt> (1; 0% instances), <tt><a href="ar_padt-dep-mark.html">mark</a></tt> (1; 0% instances), <tt><a href="ar_padt-dep-nummod.html">nummod</a></tt> (1; 0% instances)
 
-Children of `PROPN` nodes belong to 9 different parts of speech: <tt><a href="ar_padt-pos-X.html">X</a></tt> (138; 56% instances), <tt><a href="ar_padt-pos-CCONJ.html">CCONJ</a></tt> (29; 12% instances), <tt><a href="ar_padt-pos-NOUN.html">NOUN</a></tt> (23; 9% instances), <tt><a href="ar_padt-pos-ADP.html">ADP</a></tt> (22; 9% instances), <tt><a href="ar_padt-pos-PROPN.html">PROPN</a></tt> (17; 7% instances), <tt><a href="ar_padt-pos-PUNCT.html">PUNCT</a></tt> (8; 3% instances), <tt><a href="ar_padt-pos-ADJ.html">ADJ</a></tt> (5; 2% instances), <tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> (4; 2% instances), <tt><a href="ar_padt-pos-NUM.html">NUM</a></tt> (2; 1% instances)
+Children of `PROPN` nodes belong to 9 different parts of speech: <tt><a href="ar_padt-pos-X.html">X</a></tt> (138; 55% instances), <tt><a href="ar_padt-pos-CCONJ.html">CCONJ</a></tt> (29; 12% instances), <tt><a href="ar_padt-pos-NOUN.html">NOUN</a></tt> (23; 9% instances), <tt><a href="ar_padt-pos-ADP.html">ADP</a></tt> (22; 9% instances), <tt><a href="ar_padt-pos-PROPN.html">PROPN</a></tt> (17; 7% instances), <tt><a href="ar_padt-pos-PUNCT.html">PUNCT</a></tt> (10; 4% instances), <tt><a href="ar_padt-pos-ADJ.html">ADJ</a></tt> (5; 2% instances), <tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> (4; 2% instances), <tt><a href="ar_padt-pos-NUM.html">NUM</a></tt> (2; 1% instances)
 

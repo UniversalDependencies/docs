@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Kiche-IU: POS Tags: `PRON`
 
 There are 23 `PRON` lemmas (2%), 25 `PRON` types (1%) and 219 `PRON` tokens (2%).
-Out of 15 observed tags, the rank of `PRON` is: 7 in number of lemmas, 8 in number of types and 10 in number of tokens.
+Out of 16 observed tags, the rank of `PRON` is: 7 in number of lemmas, 8 in number of types and 10 in number of tokens.
 
 The 10 most frequent `PRON` lemmas: <em>in, jas, la, e, areʼ, riʼ, jachin, laʼ, waʼ, le</em>
 
@@ -58,7 +58,7 @@ The 10 most frequent ambiguous types:  <em>jas</em> (<tt><a href="quc_iu-pos-PRO
 
 ## Morphology
 
-The form / lemma ratio of `PRON` is 1.086957 (the average of all parts of speech is 1.617880).
+The form / lemma ratio of `PRON` is 1.086957 (the average of all parts of speech is 1.617435).
 
 The 1st highest number of forms (2) was observed with the lemma “areʼ”: <em>are, areʼ</em>.
 
@@ -71,13 +71,13 @@ The 3rd highest number of forms (1) was observed with the lemma “alaq”: <em>
 `PRON` occurs with 12 feature-value pairs: `Animacy=Anim`, `Clitic=Yes`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Polite=Form`, `PronType=Dem`, `PronType=Int`, `PronType=Prs`, `PronType=Rel`
 
 `PRON` occurs with 18 feature combinations.
-The most frequent feature combination is `PronType=Dem` (40 tokens).
-Examples: <em>riʼ, laʼ, waʼ, weriʼ, we</em>
+The most frequent feature combination is `PronType=Int` (40 tokens).
+Examples: <em>jas, jachin, su, Jachike</em>
 
 
 ## Relations
 
-`PRON` nodes are attached to their parents using 9 different relations: <tt><a href="quc_iu-dep-nsubj.html">nsubj</a></tt> (73; 33% instances), <tt><a href="quc_iu-dep-dep-agr.html">dep:agr</a></tt> (65; 30% instances), <tt><a href="quc_iu-dep-obj.html">obj</a></tt> (34; 16% instances), <tt><a href="quc_iu-dep-det.html">det</a></tt> (19; 9% instances), <tt><a href="quc_iu-dep-nmod.html">nmod</a></tt> (18; 8% instances), <tt><a href="quc_iu-dep-root.html">root</a></tt> (4; 2% instances), <tt><a href="quc_iu-dep-dep.html">dep</a></tt> (2; 1% instances), <tt><a href="quc_iu-dep-dislocated.html">dislocated</a></tt> (2; 1% instances), <tt><a href="quc_iu-dep-fixed.html">fixed</a></tt> (2; 1% instances)
+`PRON` nodes are attached to their parents using 9 different relations: <tt><a href="quc_iu-dep-nsubj.html">nsubj</a></tt> (73; 33% instances), <tt><a href="quc_iu-dep-dep-agr.html">dep:agr</a></tt> (65; 30% instances), <tt><a href="quc_iu-dep-obj.html">obj</a></tt> (34; 16% instances), <tt><a href="quc_iu-dep-nmod.html">nmod</a></tt> (19; 9% instances), <tt><a href="quc_iu-dep-det.html">det</a></tt> (18; 8% instances), <tt><a href="quc_iu-dep-root.html">root</a></tt> (4; 2% instances), <tt><a href="quc_iu-dep-dep.html">dep</a></tt> (2; 1% instances), <tt><a href="quc_iu-dep-dislocated.html">dislocated</a></tt> (2; 1% instances), <tt><a href="quc_iu-dep-fixed.html">fixed</a></tt> (2; 1% instances)
 
 Parents of `PRON` nodes belong to 8 different parts of speech: <tt><a href="quc_iu-pos-VERB.html">VERB</a></tt> (108; 49% instances), <tt><a href="quc_iu-pos-NOUN.html">NOUN</a></tt> (69; 32% instances), <tt><a href="quc_iu-pos-PART.html">PART</a></tt> (21; 10% instances), <tt><a href="quc_iu-pos-ADJ.html">ADJ</a></tt> (12; 5% instances),  (4; 2% instances), <tt><a href="quc_iu-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="quc_iu-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="quc_iu-pos-NUM.html">NUM</a></tt> (1; 0% instances)
 

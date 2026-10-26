@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-111 nodes (0%) are attached to their parents as `fixed`.
+108 nodes (0%) are attached to their parents as `fixed`.
 
-111 instances of `fixed` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.04504504504505.
+108 instances of `fixed` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.0462962962963.
 
-The following 14 pairs of parts of speech are connected with `fixed`: <tt><a href="la_ittb-pos-ADV.html">ADV</a></tt>-<tt><a href="la_ittb-pos-SCONJ.html">SCONJ</a></tt> (86; 77% instances), <tt><a href="la_ittb-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="la_ittb-pos-SCONJ.html">SCONJ</a></tt> (6; 5% instances), <tt><a href="la_ittb-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="la_ittb-pos-ADV.html">ADV</a></tt> (3; 3% instances), <tt><a href="la_ittb-pos-ADP.html">ADP</a></tt>-<tt><a href="la_ittb-pos-SCONJ.html">SCONJ</a></tt> (2; 2% instances), <tt><a href="la_ittb-pos-ADV.html">ADV</a></tt>-<tt><a href="la_ittb-pos-ADV.html">ADV</a></tt> (2; 2% instances), <tt><a href="la_ittb-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="la_ittb-pos-SCONJ.html">SCONJ</a></tt> (2; 2% instances), <tt><a href="la_ittb-pos-PRON.html">PRON</a></tt>-<tt><a href="la_ittb-pos-AUX.html">AUX</a></tt> (2; 2% instances), <tt><a href="la_ittb-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> (2; 2% instances), <tt><a href="la_ittb-pos-ADP.html">ADP</a></tt>-<tt><a href="la_ittb-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="la_ittb-pos-ADP.html">ADP</a></tt>-<tt><a href="la_ittb-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="la_ittb-pos-ADV.html">ADV</a></tt>-<tt><a href="la_ittb-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="la_ittb-pos-PART.html">PART</a></tt>-<tt><a href="la_ittb-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="la_ittb-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="la_ittb-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="la_ittb-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="la_ittb-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances).
+The following 11 pairs of parts of speech are connected with `fixed`: <tt><a href="la_ittb-pos-ADV.html">ADV</a></tt>-<tt><a href="la_ittb-pos-SCONJ.html">SCONJ</a></tt> (86; 80% instances), <tt><a href="la_ittb-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="la_ittb-pos-SCONJ.html">SCONJ</a></tt> (6; 6% instances), <tt><a href="la_ittb-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="la_ittb-pos-ADV.html">ADV</a></tt> (3; 3% instances), <tt><a href="la_ittb-pos-ADP.html">ADP</a></tt>-<tt><a href="la_ittb-pos-SCONJ.html">SCONJ</a></tt> (2; 2% instances), <tt><a href="la_ittb-pos-ADV.html">ADV</a></tt>-<tt><a href="la_ittb-pos-ADV.html">ADV</a></tt> (2; 2% instances), <tt><a href="la_ittb-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="la_ittb-pos-SCONJ.html">SCONJ</a></tt> (2; 2% instances), <tt><a href="la_ittb-pos-PRON.html">PRON</a></tt>-<tt><a href="la_ittb-pos-AUX.html">AUX</a></tt> (2; 2% instances), <tt><a href="la_ittb-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> (2; 2% instances), <tt><a href="la_ittb-pos-ADP.html">ADP</a></tt>-<tt><a href="la_ittb-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="la_ittb-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="la_ittb-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="la_ittb-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="la_ittb-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -25,7 +25,7 @@ The following 14 pairs of parts of speech are connected with `fixed`: <tt><a hre
 1	uno	unus	DET	F1|grn1|casF|gen1	Case=Abl|Gender=Masc|InflClass=LatPron|Number=Sing|NumType=Card|NumValue=1|PronType=Ind	2	det	_	_
 2	modo	modus	NOUN	B1|grn1|casF|gen1	Case=Abl|Gender=Masc|InflClass=IndEurO|Number=Sing	0	root	_	SpaceAfter=No
 3	,	,	PUNCT	Punc	_	10	punct	_	_
-4	ita	ita	ADV	O4	_	10	mark	_	_
+4	ita	ita	ADV	O4	ExtPos=SCONJ	10	mark	_	_
 5	quod	quod	SCONJ	O4	_	4	fixed	_	_
 6	illud	ille	DET	F1|grn1|casA|gen3	Case=Nom|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Dem	10	nsubj	_	_
 7	primum	primus	ADJ	B1|grn1|casA|gen3	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing|NumType=Ord	6	amod	_	_
@@ -49,7 +49,7 @@ The following 14 pairs of parts of speech are connected with `fixed`: <tt><a hre
 4	azymos	azymus	ADJ	B1|grn1|casM|gen1|vgr1	Case=Acc|Gender=Masc|InflClass=IndEurO|Number=Plur	5	amod	_	_
 5	panes	panis	NOUN	C1|grn1|casM|gen1	Case=Acc|Gender=Masc|InflClass=IndEurX|Number=Plur	3	obj	_	SpaceAfter=No
 6	,	,	PUNCT	Punc	_	14	punct	_	_
-7	propterea	propterea	SCONJ	O4	Compound=Yes	14	mark	_	_
+7	propterea	propterea	SCONJ	O4	Compound=Yes|ExtPos=SCONJ	14	mark	_	_
 8	quod	quod	SCONJ	O4	_	7	fixed	_	_
 9	dominus	dominus	NOUN	B1|grn1|casA|gen1	Case=Nom|Gender=Masc|InflClass=IndEurO|Number=Sing	14	nsubj	_	_
 10	sine	sine	ADP	S4	_	12	case	_	_
@@ -76,7 +76,7 @@ The following 14 pairs of parts of speech are connected with `fixed`: <tt><a hre
 6	significatur	significo	VERB	J3|modJ|tem1|gen6	Aspect=Imp|Compound=Yes|InflClass=LatA|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
 7	essentia	essentia	NOUN	A1|grn1|casA|gen2|vgr1	Case=Nom|Gender=Fem|InflClass=IndEurA|Number=Sing	6	nsubj:pass	_	SpaceAfter=No
 8	,	,	PUNCT	Punc	_	9	punct	_	_
-9	ut	ut	SCONJ	O4|vgr1	PronType=Rel	12	mark	_	_
+9	ut	ut	SCONJ	O4|vgr1	ExtPos=ADV|PronType=Rel	12	mark	_	_
 10	puta	puta	ADV	J3|modC|tem1|gen5	VerbForm=Fin	9	fixed	_	SpaceAfter=No
 11	,	,	PUNCT	Punc	_	9	punct	_	_
 12	humanitas	humanitas	NOUN	C1|grn1|casA|gen2	Case=Nom|Gender=Fem|InflClass=IndEurX|Number=Sing	7	nmod	_	SpaceAfter=No

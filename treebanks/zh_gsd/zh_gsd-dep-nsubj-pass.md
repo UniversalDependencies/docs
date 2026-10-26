@@ -7,13 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Chinese-GSD: Relations: `nsubj:pass`
 
 This relation is a language-specific subtype of <tt><a href="zh_gsd-dep-nsubj.html">nsubj</a></tt>.
+There are also 1 other language-specific subtypes of `nsubj`: <tt><a href="zh_gsd-dep-nsubj-outer.html">nsubj:outer</a></tt>.
 
-275 nodes (0%) are attached to their parents as `nsubj:pass`.
+277 nodes (0%) are attached to their parents as `nsubj:pass`.
 
-275 instances of `nsubj:pass` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 5.93454545454545.
+277 instances of `nsubj:pass` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 5.92057761732852.
 
-The following 6 pairs of parts of speech are connected with `nsubj:pass`: <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt> (157; 57% instances), <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_gsd-pos-PROPN.html">PROPN</a></tt> (60; 22% instances), <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_gsd-pos-PART.html">PART</a></tt> (28; 10% instances), <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_gsd-pos-PRON.html">PRON</a></tt> (27; 10% instances), <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_gsd-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_gsd-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 6 pairs of parts of speech are connected with `nsubj:pass`: <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt> (159; 57% instances), <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_gsd-pos-PROPN.html">PROPN</a></tt> (60; 22% instances), <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_gsd-pos-PRON.html">PRON</a></tt> (29; 10% instances), <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_gsd-pos-PART.html">PART</a></tt> (26; 9% instances), <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_gsd-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_gsd-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -35,7 +36,7 @@ The following 6 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 11	亦	亦	SCONJ	RB	_	16	mark	_	SpaceAfter=No|Translit=yì|LTranslit=yì
 12	被	被	AUX	BB	Voice=Pass	16	aux:pass	_	SpaceAfter=No|Translit=bèi|LTranslit=bèi
 13	投機	投機	VERB	VV	_	14	compound	_	SpaceAfter=No|Translit=tóujī|LTranslit=tóujī
-14	者	者	PART	SFN	_	16	nsubj	_	SpaceAfter=No|Translit=zhě|LTranslit=zhě
+14	者	者	PART	SFN	_	16	obl:agent	_	SpaceAfter=No|Translit=zhě|LTranslit=zhě
 15	所	所	SCONJ	RB	_	16	mark	_	SpaceAfter=No|Translit=suǒ|LTranslit=suǒ
 16	覬覦	覬覦	VERB	VV	_	4	parataxis	_	SpaceAfter=No|Translit=覬覦|LTranslit=覬覦
 17	。	。	PUNCT	.	_	4	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
@@ -57,7 +58,7 @@ The following 6 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 6	神聖	神聖	ADJ	JJ	_	8	amod	_	SpaceAfter=No|Translit=shénshèng|LTranslit=shénshèng
 7	羅馬	羅馬	PROPN	NNP	_	8	nmod	_	SpaceAfter=No|Translit=luómǎ|LTranslit=luómǎ
 8	帝國	帝國	NOUN	NN	_	9	nmod	_	SpaceAfter=No|Translit=dìguó|LTranslit=dìguó
-9	皇帝	皇帝	NOUN	NN	_	12	nsubj	_	SpaceAfter=No|Translit=huángdì|LTranslit=huángdì
+9	皇帝	皇帝	NOUN	NN	_	12	obl:agent	_	SpaceAfter=No|Translit=huángdì|LTranslit=huángdì
 10	查理	查理	PROPN	NNP	_	9	appos	_	SpaceAfter=No|Translit=chálǐ|LTranslit=chálǐ
 11	四世	四世	PROPN	NNP	_	10	flat:name	_	SpaceAfter=No|Translit=sìshì|LTranslit=sìshì
 12	升	升	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=shēng|LTranslit=shēng
@@ -70,33 +71,33 @@ The following 6 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 4 nsubj:pass	color:blue
-1	數百萬	數百萬	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|Translit=shùbǎiwàn|LTranslit=shùbǎiwàn
-2	的	的	PART	DEC	Case=Gen	1	case	_	SpaceAfter=No|Translit=de|LTranslit=de
-3	巧克力	巧克力	NOUN	NN	_	4	compound	_	SpaceAfter=No|Translit=qiǎokèlì|LTranslit=qiǎokèlì
-4	棒	棒	PART	SFN	_	6	nsubj:pass	_	SpaceAfter=No|Translit=bàng|LTranslit=bàng
-5	被	被	AUX	BB	Voice=Pass	6	aux:pass	_	SpaceAfter=No|Translit=bèi|LTranslit=bèi
-6	撤下	撤下	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=chèxià|LTranslit=chèxià
-7	櫃檯	櫃檯	NOUN	NN	_	6	obj	_	SpaceAfter=No|Translit=櫃檯|LTranslit=櫃檯
-8	，	，	PUNCT	,	_	12	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-9	而	而	SCONJ	RB	_	12	mark	_	SpaceAfter=No|Translit='ér|LTranslit='ér
-10	瑪氏	瑪氏	PROPN	NNP	_	12	nsubj	_	SpaceAfter=No|Translit=mǎshì|LTranslit=mǎshì
-11	則	則	SCONJ	RB	_	12	mark	_	SpaceAfter=No|Translit=zé|LTranslit=zé
-12	中斷	中斷	VERB	VV	_	6	parataxis	_	SpaceAfter=No|Translit=zhōngduàn|LTranslit=zhōngduàn
-13	了	了	AUX	AS	Aspect=Perf	12	aux	_	SpaceAfter=No|Translit=le|LTranslit=le
-14	生產	生產	NOUN	NN	_	12	obj	_	SpaceAfter=No|Translit=shēngchǎn|LTranslit=shēngchǎn
-15	，	，	PUNCT	,	_	18	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-16	公司	公司	NOUN	NN	_	17	nmod	_	SpaceAfter=No|Translit=gōngsī|LTranslit=gōngsī
-17	損失	損失	NOUN	NN	_	18	nsubj	_	SpaceAfter=No|Translit=sǔnshī|LTranslit=sǔnshī
-18	達	達	VERB	VV	_	6	parataxis	_	SpaceAfter=No|Translit=dá|LTranslit=dá
-19	四百五十萬	四百五十萬	NUM	CD	NumType=Card	21	nummod	_	SpaceAfter=No|Translit=sìbǎiwǔshíwàn|LTranslit=sìbǎiwǔshíwàn
-20	美	美	PROPN	NNP	_	21	nmod	_	SpaceAfter=No|Translit=měi|LTranslit=měi
-21	元	元	NOUN	NNB	_	18	obj	_	SpaceAfter=No|Translit=yuán|LTranslit=yuán
-22	。	。	PUNCT	.	_	6	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
+# visual-style 14	bgColor:blue
+# visual-style 14	fgColor:white
+# visual-style 21	bgColor:blue
+# visual-style 21	fgColor:white
+# visual-style 21 14 nsubj:pass	color:blue
+1	吳	吳	PROPN	NNP	_	3	nmod	_	SpaceAfter=No|Translit=吳|LTranslit=吳
+2	之	之	PART	DEC	Case=Gen	1	case	_	SpaceAfter=No|Translit=zhī|LTranslit=zhī
+3	父親	父親	NOUN	NN	_	6	nsubj	_	SpaceAfter=No|Translit=fùqīn|LTranslit=fùqīn
+4	將	將	ADP	BB	_	5	case	_	SpaceAfter=No|Translit=jiāng|LTranslit=jiāng
+5	其	其	PRON	PRP	Person=3	6	obl:patient	_	SpaceAfter=No|Translit=qí|LTranslit=qí
+6	送往	送往	VERB	VV	_	10	advcl	_	SpaceAfter=No|Translit=sòngwǎng|LTranslit=sòngwǎng
+7	英國	英國	PROPN	NNP	_	9	nmod	_	SpaceAfter=No|Translit=yīngguó|LTranslit=yīngguó
+8	寄宿	寄宿	NOUN	NN	_	9	nmod	_	SpaceAfter=No|Translit=jìsù|LTranslit=jìsù
+9	學校	學校	NOUN	NN	_	6	iobj	_	SpaceAfter=No|Translit=xuéxiào|LTranslit=xuéxiào
+10	讀	讀	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=dú|LTranslit=dú
+11	高中	高中	NOUN	NN	_	10	obj	_	SpaceAfter=No|Translit=gāozhōng|LTranslit=gāozhōng
+12	，	，	PUNCT	,	_	21	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
+13	但	但	SCONJ	RB	_	21	mark	_	SpaceAfter=No|Translit=dàn|LTranslit=dàn
+14	他	他	PRON	PRP	Person=3	21	nsubj:pass	_	SpaceAfter=No|Translit=tā|LTranslit=tā
+15	又	又	SCONJ	RB	_	21	mark	_	SpaceAfter=No|Translit=yòu|LTranslit=yòu
+16	因	因	ADP	IN	_	17	case	_	SpaceAfter=No|Translit=yīn|LTranslit=yīn
+17	偷竊	偷竊	VERB	VV	_	21	xcomp	_	SpaceAfter=No|Translit=tōuqiè|LTranslit=tōuqiè
+18	而	而	SCONJ	RB	_	21	mark	_	SpaceAfter=No|Translit='ér|LTranslit='ér
+19	被	被	AUX	BB	Voice=Pass	21	aux:pass	_	SpaceAfter=No|Translit=bèi|LTranslit=bèi
+20	學校	學校	NOUN	NN	_	21	obl:agent	_	SpaceAfter=No|Translit=xuéxiào|LTranslit=xuéxiào
+21	開除	開除	VERB	VV	_	10	parataxis	_	SpaceAfter=No|Translit=kāichú|LTranslit=kāichú
+22	。	。	PUNCT	.	_	10	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 ~~~
 

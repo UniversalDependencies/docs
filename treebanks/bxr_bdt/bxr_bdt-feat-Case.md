@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 6 different values: `Abl`, `Acc`, `Com`, `Dat`, `Gen`, `Nom`.
 
-4058 tokens (40%) have a non-empty value of `Case`.
-2334 types (57%) occur at least once with a non-empty value of `Case`.
+4060 tokens (40%) have a non-empty value of `Case`.
+2335 types (57%) occur at least once with a non-empty value of `Case`.
 1351 lemmas (55%) occur at least once with a non-empty value of `Case`.
-The feature is used with 8 part-of-speech tags: <tt><a href="bxr_bdt-pos-NOUN.html">NOUN</a></tt> (2950; 29% instances), <tt><a href="bxr_bdt-pos-PROPN.html">PROPN</a></tt> (700; 7% instances), <tt><a href="bxr_bdt-pos-PRON.html">PRON</a></tt> (260; 3% instances), <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt> (121; 1% instances), <tt><a href="bxr_bdt-pos-NUM.html">NUM</a></tt> (9; 0% instances), <tt><a href="bxr_bdt-pos-ADJ.html">ADJ</a></tt> (8; 0% instances), <tt><a href="bxr_bdt-pos-AUX.html">AUX</a></tt> (6; 0% instances), <tt><a href="bxr_bdt-pos-ADV.html">ADV</a></tt> (4; 0% instances).
+The feature is used with 8 part-of-speech tags: <tt><a href="bxr_bdt-pos-NOUN.html">NOUN</a></tt> (2952; 29% instances), <tt><a href="bxr_bdt-pos-PROPN.html">PROPN</a></tt> (700; 7% instances), <tt><a href="bxr_bdt-pos-PRON.html">PRON</a></tt> (260; 3% instances), <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt> (121; 1% instances), <tt><a href="bxr_bdt-pos-NUM.html">NUM</a></tt> (9; 0% instances), <tt><a href="bxr_bdt-pos-ADJ.html">ADJ</a></tt> (8; 0% instances), <tt><a href="bxr_bdt-pos-AUX.html">AUX</a></tt> (6; 0% instances), <tt><a href="bxr_bdt-pos-ADV.html">ADV</a></tt> (4; 0% instances).
 
 ### `NOUN`
 
-2950 <tt><a href="bxr_bdt-pos-NOUN.html">NOUN</a></tt> tokens (95% of all `NOUN` tokens) have a non-empty value of `Case`.
+2952 <tt><a href="bxr_bdt-pos-NOUN.html">NOUN</a></tt> tokens (95% of all `NOUN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="bxr_bdt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (2586; 88%).
+The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="bxr_bdt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (2588; 88%).
 
 `NOUN` tokens may have the following values of `Case`:
 
 * `Abl` (67; 2% of non-empty `Case`): <em>нютагһаа, наһанһаа, онһоо, утаһаар, багаһаа, зүрхэнһөө, сагһаа, хотоһоо, үндэһэнһөө, һууринһаа</em>
-* `Acc` (130; 4% of non-empty `Case`): <em>бэеэ, зааниие, хүниие, зониие, поэзии, хүбүүе, үхибүүниинь, үхибүүдые, Сэхыень, арадуудые</em>
+* `Acc` (131; 4% of non-empty `Case`): <em>бэеэ, зааниие, хүниие, зониие, поэзии, хүбүүе, үхибүүниинь, үхибүүдые, Сэхыень, арадуудые</em>
 * `Com` (90; 3% of non-empty `Case`): <em>хэрэгтэй, наһатай, бэлигтэй, соёлтой, шадабаритай, артистнартай, нэрэтэй, түүхэтэй, удхатай, үхибүүтэй</em>
-* `Dat` (393; 13% of non-empty `Case`): <em>үедэ, ондо, нютагта, хотодо, һургуулида, туршада, хүндэ, сагта, жэлдэ, гэртээ</em>
+* `Dat` (394; 13% of non-empty `Case`): <em>үедэ, ондо, нютагта, хотодо, һургуулида, туршада, хүндэ, сагта, жэлдэ, гэртээ</em>
 * `Gen` (529; 18% of non-empty `Case`): <em>аймагай, соёлой, жэлэй, театрай, хэлэнэй, хүнэй, һургуулиин, зоной, нютагай, буряадай</em>
 * `Nom` (1741; 59% of non-empty `Case`): <em>хүн, зон, гэр, хэлэ, ажал, хэлэн, Буряад, бэлиг, нютаг, соёл</em>
 * `EMPTY` (162): <em>түмэр, угаараа, хэлээр, аймагаар, багшаар, барилдаагаар, дүнгүүдээр, замаар, машинаар, наһаараа</em>
@@ -74,6 +74,7 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 
 <table>
   <tr><th>Paradigm <i>тэрэ</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Com</tt></th><th><tt>Abl</tt></th></tr>
+  <tr><td><tt><tt><a href="bxr_bdt-feat-ExtPos.html">ExtPos</a></tt><tt>=ADV</tt></tt></td><td><em>тэрэ</em></td><td></td><td></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="bxr_bdt-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="bxr_bdt-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td></td><td></td><td><em>тэрээндэнь</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt></tt></td><td><em>тэрэ, тэрэшни, тэрээн, тэрэмни</em></td><td><em>тэрэниие, тэрээниие</em></td><td><em>тэрээндэ</em></td><td><em>тэрэнэй</em></td><td><em>тэрэнтэй</em></td><td><em>Тэрээнһээ</em></td></tr>
 </table>

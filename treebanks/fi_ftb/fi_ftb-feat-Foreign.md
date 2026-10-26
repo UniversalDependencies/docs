@@ -21,7 +21,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="fi_ftb-pos-X.html">
 `X` tokens may have the following values of `Foreign`:
 
 * `Yes` (129; 100% of non-empty `Foreign`): <em>in, the, Lilla, Pretty, Royal, Super, Woman, aquis, beat, boken</em>
-* `EMPTY` (182): <em>70-, sosiaali-, Kauppa-, ala-, keng-, maa-, 50-, Vesi-, e-, kieli-</em>
+* `EMPTY` (184): <em>70-, sosiaali-, Kauppa-, ala-, keng-, maa-, 50-, Vesi-, e-, kieli-</em>
 
 `Foreign` seems to be **lexical feature** of `X`. 100% lemmas (114) occur only with one value of `Foreign`.
 

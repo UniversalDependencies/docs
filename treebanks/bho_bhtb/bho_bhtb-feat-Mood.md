@@ -63,7 +63,7 @@ The most frequent other feature values with which `NOUN` and `Mood` co-occurred:
 `NOUN` tokens may have the following values of `Mood`:
 
 * `Sub` (6; 100% of non-empty `Mood`): पहिले, कहले, जनले, बिआहे
-* `EMPTY` (1848): लोग, बिआह, जी, रंग, देश, जब, भाषा, आजु, आदमी, साल
+* `EMPTY` (1849): लोग, बिआह, जी, रंग, देश, जब, भाषा, आजु, आदमी, साल
 
 ### `PRON`
 

@@ -16,4 +16,4 @@ other UPOSes, like [NOUN]() or [PROPN]().
 * [fi] _$_, _:-)_, _☺_, _<3_, _♡_
 * [fi] _www.google.fi:ssä_ "in www.google.fi"
 
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:27 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:39 CEST -->

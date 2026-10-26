@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="ru_taiga-dep-csubj.html">csubj</a></tt>.
 There are also 1 other language-specific subtypes of `csubj`: <tt><a href="ru_taiga-dep-csubj-outer.html">csubj:outer</a></tt>.
 
-1 nodes (0%) are attached to their parents as `csubj:pass`.
+47 nodes (0%) are attached to their parents as `csubj:pass`.
 
-1 instances of `csubj:pass` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.
+32 instances of `csubj:pass` (68%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.36170212765957.
 
-The following 1 pairs of parts of speech are connected with `csubj:pass`: <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt> (1; 100% instances).
+The following 1 pairs of parts of speech are connected with `csubj:pass`: <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt> (47; 100% instances).
 
 
 ~~~ conllu

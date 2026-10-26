@@ -39,15 +39,6 @@ udver: '2'
   * 하 _ha_ (“must, should”) is a necessitative modal auxiliary.
   * 싶 _sip_ (“will, to want”) is a desiderative modal auxiliary.
 
-### Features
-
-*
-
----
-**Instruction**: Describe inherent and inflectional features for major word classes (at least NOUN and VERB). Describe other noteworthy features. Include links to language-specific feature definitions if any.
-
----
-
 ## Syntax
 
 ### Core Arguments, Oblique Arguments and Adjuncts

@@ -7,28 +7,28 @@ udver: '2'
 ## Treebank Statistics: UD_Kyrgyz-TueCL: POS Tags: `SCONJ`
 
 There are 4 `SCONJ` lemmas (1%), 4 `SCONJ` types (1%) and 5 `SCONJ` tokens (0%).
-Out of 15 observed tags, the rank of `SCONJ` is: 13 in number of lemmas, 14 in number of types and 14 in number of tokens.
+Out of 16 observed tags, the rank of `SCONJ` is: 13 in number of lemmas, 14 in number of types and 14 in number of tokens.
 
 The 10 most frequent `SCONJ` lemmas: <em>менен, анткени, жана, эгер</em>
 
 The 10 most frequent `SCONJ` types:  <em>менен, Эгер, анткени, жана</em>
 
-The 10 most frequent ambiguous lemmas: <em>менен</em> (<tt><a href="ky_tuecl-pos-ADP.html">ADP</a></tt> 7, <tt><a href="ky_tuecl-pos-CCONJ.html">CCONJ</a></tt> 3, <tt><a href="ky_tuecl-pos-SCONJ.html">SCONJ</a></tt> 2), <em>жана</em> (<tt><a href="ky_tuecl-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="ky_tuecl-pos-SCONJ.html">SCONJ</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>менен</em> (<tt><a href="ky_tuecl-pos-ADP.html">ADP</a></tt> 9, <tt><a href="ky_tuecl-pos-CCONJ.html">CCONJ</a></tt> 4, <tt><a href="ky_tuecl-pos-SCONJ.html">SCONJ</a></tt> 2), <em>жана</em> (<tt><a href="ky_tuecl-pos-CCONJ.html">CCONJ</a></tt> 3, <tt><a href="ky_tuecl-pos-SCONJ.html">SCONJ</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>менен</em> (<tt><a href="ky_tuecl-pos-ADP.html">ADP</a></tt> 7, <tt><a href="ky_tuecl-pos-CCONJ.html">CCONJ</a></tt> 3, <tt><a href="ky_tuecl-pos-SCONJ.html">SCONJ</a></tt> 2), <em>жана</em> (<tt><a href="ky_tuecl-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="ky_tuecl-pos-SCONJ.html">SCONJ</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>менен</em> (<tt><a href="ky_tuecl-pos-ADP.html">ADP</a></tt> 9, <tt><a href="ky_tuecl-pos-CCONJ.html">CCONJ</a></tt> 4, <tt><a href="ky_tuecl-pos-SCONJ.html">SCONJ</a></tt> 2), <em>жана</em> (<tt><a href="ky_tuecl-pos-CCONJ.html">CCONJ</a></tt> 3, <tt><a href="ky_tuecl-pos-SCONJ.html">SCONJ</a></tt> 1)
 
 
 * <em>менен</em>
-  * <tt><a href="ky_tuecl-pos-ADP.html">ADP</a></tt> 7: <em>Эртеңки күндү чыдамсыздык <b>менен</b> күтүп жатам .</em>
-  * <tt><a href="ky_tuecl-pos-CCONJ.html">CCONJ</a></tt> 3: <em>Дениз эжеси <b>менен</b> жарашты .</em>
-  * <tt><a href="ky_tuecl-pos-SCONJ.html">SCONJ</a></tt> 2: <em>Питер <b>менен</b> Мэри кучакташты , андан соң бѳлмѳдѳн чыгып кетишти .</em>
+  * <tt><a href="ky_tuecl-pos-ADP.html">ADP</a></tt> 9: <em>Дениз өзү <b>менен</b> өзү болууну жакшы көрөт .</em>
+  * <tt><a href="ky_tuecl-pos-CCONJ.html">CCONJ</a></tt> 4: <em>Дениз эжеси <b>менен</b> жарашты .</em>
+  * <tt><a href="ky_tuecl-pos-SCONJ.html">SCONJ</a></tt> 2: <em>Питер <b>менен</b> Мэри кучакташты , андан соң бөлмөдөн чыгып кетишти .</em>
 * <em>жана</em>
-  * <tt><a href="ky_tuecl-pos-CCONJ.html">CCONJ</a></tt> 2: <em>Тамеки чегүүнү <b>жана</b> арак ичүүнү токтотууга аракет кылды .</em>
+  * <tt><a href="ky_tuecl-pos-CCONJ.html">CCONJ</a></tt> 3: <em>Ал тамеки чегүүнү <b>жана</b> арак ичүүнү токтотууга аракет кылды .</em>
   * <tt><a href="ky_tuecl-pos-SCONJ.html">SCONJ</a></tt> 1: <em>Бул кат Питерден <b>жана</b> ал кечээ келди .</em>
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.466899).
+The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.492355).
 
 The 1st highest number of forms (1) was observed with the lemma “анткени”: <em>анткени</em>.
 

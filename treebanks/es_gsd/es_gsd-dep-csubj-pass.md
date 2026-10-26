@@ -22,7 +22,7 @@ The following 2 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
 # visual-style 11 17 csubj:pass	color:blue
-1	En	en	ADP	_	_	5	case	_	_
+1	En	en	ADP	_	ExtPos=ADP	5	case	_	_
 2	cuanto	cuanto	ADV	_	_	1	fixed	_	_
 3	a	a	ADP	_	_	1	fixed	_	_
 4	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
@@ -53,7 +53,7 @@ The following 2 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 11 csubj:pass	color:blue
-1	Sabido	sabido	VERB	_	VerbForm=Fin	0	root	_	_
+1	Sabido	saber	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
 2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	aux:pass	_	_
 3	que	que	SCONJ	_	_	11	mark	_	_
 4	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_

@@ -65,8 +65,6 @@ one or more children attached via the [fixed]() relation).
 
 ### <a name="PART">`PART`</a>: multiword particle
 
-All words in the construction are [PART]().
-
 #### Examples
 
 * _te bija <b>it kā</b> maza būdiņa_ "there was ??? a little hut". _it 
@@ -93,3 +91,4 @@ is wrong.
 
 * _viņš atgriezās, <b>lai gan</b> tas nebija vajadzīgs_ "he returned even
   though it was not necessary" (_lai_ = [SCONJ](), _gan_ = [PART]())
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:52 CEST -->

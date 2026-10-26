@@ -27,7 +27,7 @@ The following 19 pairs of parts of speech are connected with `amod`: <tt><a href
 3	ניתן	ניתן	VERB	VERB	Gender=Masc|HebBinyan=NIFAL|Number=Sing|Person=3|Tense=Pres|VerbForm=Part|Voice=Pass	0	root	_	_
 4	ל	ל	ADP	ADP	Definite=Def|PronType=Art	5	case	_	_
 5	רוב	רוב	NOUN	NOUN	Gender=Masc|Number=Sing	3	obl	_	_
-6	על	על	ADP	ADP	_	8	case	_	_
+6	על	על	ADP	ADP	ExtPos=ADP	8	case	_	_
 7	ידי	יד	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Plur	6	fixed	_	_
 8	הזרקה	הזרקה	NOUN	NOUN	Gender=Fem|Number=Sing	3	obl	_	_
 9	תוך	תוך	ADV	ADV	_	10	compound:affix	_	_

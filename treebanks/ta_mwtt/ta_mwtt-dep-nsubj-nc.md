@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="ta_mwtt-dep-nsubj.html">nsubj</a></tt>.
 There are also 1 other language-specific subtypes of `nsubj`: <tt><a href="ta_mwtt-dep-nsubj-pass.html">nsubj:pass</a></tt>.
 
-47 nodes (2%) are attached to their parents as `nsubj:nc`.
+46 nodes (2%) are attached to their parents as `nsubj:nc`.
 
-47 instances of `nsubj:nc` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.12765957446809.
+46 instances of `nsubj:nc` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.1304347826087.
 
-The following 6 pairs of parts of speech are connected with `nsubj:nc`: <tt><a href="ta_mwtt-pos-VERB.html">VERB</a></tt>-<tt><a href="ta_mwtt-pos-PROPN.html">PROPN</a></tt> (28; 60% instances), <tt><a href="ta_mwtt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ta_mwtt-pos-PROPN.html">PROPN</a></tt> (9; 19% instances), <tt><a href="ta_mwtt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ta_mwtt-pos-PRON.html">PRON</a></tt> (4; 9% instances), <tt><a href="ta_mwtt-pos-VERB.html">VERB</a></tt>-<tt><a href="ta_mwtt-pos-PRON.html">PRON</a></tt> (3; 6% instances), <tt><a href="ta_mwtt-pos-VERB.html">VERB</a></tt>-<tt><a href="ta_mwtt-pos-NOUN.html">NOUN</a></tt> (2; 4% instances), <tt><a href="ta_mwtt-pos-ADV.html">ADV</a></tt>-<tt><a href="ta_mwtt-pos-PROPN.html">PROPN</a></tt> (1; 2% instances).
+The following 6 pairs of parts of speech are connected with `nsubj:nc`: <tt><a href="ta_mwtt-pos-VERB.html">VERB</a></tt>-<tt><a href="ta_mwtt-pos-PROPN.html">PROPN</a></tt> (27; 59% instances), <tt><a href="ta_mwtt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ta_mwtt-pos-PROPN.html">PROPN</a></tt> (9; 20% instances), <tt><a href="ta_mwtt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ta_mwtt-pos-PRON.html">PRON</a></tt> (4; 9% instances), <tt><a href="ta_mwtt-pos-VERB.html">VERB</a></tt>-<tt><a href="ta_mwtt-pos-PRON.html">PRON</a></tt> (3; 7% instances), <tt><a href="ta_mwtt-pos-VERB.html">VERB</a></tt>-<tt><a href="ta_mwtt-pos-NOUN.html">NOUN</a></tt> (2; 4% instances), <tt><a href="ta_mwtt-pos-ADV.html">ADV</a></tt>-<tt><a href="ta_mwtt-pos-PROPN.html">PROPN</a></tt> (1; 2% instances).
 
 
 ~~~ conllu

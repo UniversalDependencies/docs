@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-3183 nodes (1%) are attached to their parents as `xcomp`.
+3184 nodes (1%) are attached to their parents as `xcomp`.
 
-2670 instances of `xcomp` (84%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.24033930254477.
+2671 instances of `xcomp` (84%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.24026381909548.
 
-The following 10 pairs of parts of speech are connected with `xcomp`: <tt><a href="orv_torot-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_torot-pos-VERB.html">VERB</a></tt> (2329; 73% instances), <tt><a href="orv_torot-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_torot-pos-NOUN.html">NOUN</a></tt> (382; 12% instances), <tt><a href="orv_torot-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_torot-pos-ADJ.html">ADJ</a></tt> (192; 6% instances), <tt><a href="orv_torot-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_torot-pos-PROPN.html">PROPN</a></tt> (103; 3% instances), <tt><a href="orv_torot-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_torot-pos-PRON.html">PRON</a></tt> (76; 2% instances), <tt><a href="orv_torot-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_torot-pos-NUM.html">NUM</a></tt> (50; 2% instances), <tt><a href="orv_torot-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_torot-pos-AUX.html">AUX</a></tt> (25; 1% instances), <tt><a href="orv_torot-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_torot-pos-ADV.html">ADV</a></tt> (24; 1% instances), <tt><a href="orv_torot-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_torot-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="orv_torot-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_torot-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `xcomp`: <tt><a href="orv_torot-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_torot-pos-VERB.html">VERB</a></tt> (2329; 73% instances), <tt><a href="orv_torot-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_torot-pos-NOUN.html">NOUN</a></tt> (383; 12% instances), <tt><a href="orv_torot-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_torot-pos-ADJ.html">ADJ</a></tt> (192; 6% instances), <tt><a href="orv_torot-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_torot-pos-PROPN.html">PROPN</a></tt> (103; 3% instances), <tt><a href="orv_torot-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_torot-pos-PRON.html">PRON</a></tt> (76; 2% instances), <tt><a href="orv_torot-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_torot-pos-NUM.html">NUM</a></tt> (50; 2% instances), <tt><a href="orv_torot-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_torot-pos-AUX.html">AUX</a></tt> (25; 1% instances), <tt><a href="orv_torot-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_torot-pos-ADV.html">ADV</a></tt> (24; 1% instances), <tt><a href="orv_torot-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_torot-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="orv_torot-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_torot-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

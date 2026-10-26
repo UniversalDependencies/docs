@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>é</em> (<tt><a href="gl_pud-pos-AUX.
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 7.100000 (the average of all parts of speech is 1.319483).
+The form / lemma ratio of `AUX` is 7.100000 (the average of all parts of speech is 1.320042).
 
 The 1st highest number of forms (19) was observed with the lemma “ser”: <em>era, eramos, eran, foi, fora, foran, foron, fose, fosen, sendo, ser, será, sería, serían, sexa, sexan, somos, son, é</em>.
 
@@ -75,9 +75,9 @@ Examples: <em>é, está, pode, ten, debe, parece, vai</em>
 
 Parents of `AUX` nodes belong to 11 different parts of speech: <tt><a href="gl_pud-pos-VERB.html">VERB</a></tt> (208; 45% instances), <tt><a href="gl_pud-pos-NOUN.html">NOUN</a></tt> (131; 29% instances), <tt><a href="gl_pud-pos-ADJ.html">ADJ</a></tt> (87; 19% instances), <tt><a href="gl_pud-pos-PRON.html">PRON</a></tt> (15; 3% instances), <tt><a href="gl_pud-pos-PROPN.html">PROPN</a></tt> (7; 2% instances), <tt><a href="gl_pud-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="gl_pud-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="gl_pud-pos-NUM.html">NUM</a></tt> (2; 0% instances),  (2; 0% instances), <tt><a href="gl_pud-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="gl_pud-pos-SYM.html">SYM</a></tt> (1; 0% instances)
 
-449 (98%) `AUX` nodes are leaves.
+450 (98%) `AUX` nodes are leaves.
 
-4 (1%) `AUX` nodes have one child.
+3 (1%) `AUX` nodes have one child.
 
 0 (0%) `AUX` nodes have two children.
 
@@ -85,7 +85,7 @@ Parents of `AUX` nodes belong to 11 different parts of speech: <tt><a href="gl_p
 
 The highest child degree of a `AUX` node is 5.
 
-Children of `AUX` nodes are attached using 11 different relations: <tt><a href="gl_pud-dep-cc.html">cc</a></tt> (5; 21% instances), <tt><a href="gl_pud-dep-nsubj.html">nsubj</a></tt> (4; 17% instances), <tt><a href="gl_pud-dep-punct.html">punct</a></tt> (3; 13% instances), <tt><a href="gl_pud-dep-advmod.html">advmod</a></tt> (2; 8% instances), <tt><a href="gl_pud-dep-aux.html">aux</a></tt> (2; 8% instances), <tt><a href="gl_pud-dep-obl.html">obl</a></tt> (2; 8% instances), <tt><a href="gl_pud-dep-xcomp.html">xcomp</a></tt> (2; 8% instances), <tt><a href="gl_pud-dep-amod.html">amod</a></tt> (1; 4% instances), <tt><a href="gl_pud-dep-conj.html">conj</a></tt> (1; 4% instances), <tt><a href="gl_pud-dep-fixed.html">fixed</a></tt> (1; 4% instances), <tt><a href="gl_pud-dep-iobj.html">iobj</a></tt> (1; 4% instances)
+Children of `AUX` nodes are attached using 10 different relations: <tt><a href="gl_pud-dep-cc.html">cc</a></tt> (5; 22% instances), <tt><a href="gl_pud-dep-nsubj.html">nsubj</a></tt> (4; 17% instances), <tt><a href="gl_pud-dep-punct.html">punct</a></tt> (3; 13% instances), <tt><a href="gl_pud-dep-advmod.html">advmod</a></tt> (2; 9% instances), <tt><a href="gl_pud-dep-aux.html">aux</a></tt> (2; 9% instances), <tt><a href="gl_pud-dep-obl.html">obl</a></tt> (2; 9% instances), <tt><a href="gl_pud-dep-xcomp.html">xcomp</a></tt> (2; 9% instances), <tt><a href="gl_pud-dep-amod.html">amod</a></tt> (1; 4% instances), <tt><a href="gl_pud-dep-conj.html">conj</a></tt> (1; 4% instances), <tt><a href="gl_pud-dep-iobj.html">iobj</a></tt> (1; 4% instances)
 
-Children of `AUX` nodes belong to 10 different parts of speech: <tt><a href="gl_pud-pos-CCONJ.html">CCONJ</a></tt> (5; 21% instances), <tt><a href="gl_pud-pos-NOUN.html">NOUN</a></tt> (4; 17% instances), <tt><a href="gl_pud-pos-ADV.html">ADV</a></tt> (3; 13% instances), <tt><a href="gl_pud-pos-PUNCT.html">PUNCT</a></tt> (3; 13% instances), <tt><a href="gl_pud-pos-VERB.html">VERB</a></tt> (3; 13% instances), <tt><a href="gl_pud-pos-AUX.html">AUX</a></tt> (2; 8% instances), <tt><a href="gl_pud-pos-ADP.html">ADP</a></tt> (1; 4% instances), <tt><a href="gl_pud-pos-NUM.html">NUM</a></tt> (1; 4% instances), <tt><a href="gl_pud-pos-PRON.html">PRON</a></tt> (1; 4% instances), <tt><a href="gl_pud-pos-PROPN.html">PROPN</a></tt> (1; 4% instances)
+Children of `AUX` nodes belong to 9 different parts of speech: <tt><a href="gl_pud-pos-CCONJ.html">CCONJ</a></tt> (5; 22% instances), <tt><a href="gl_pud-pos-NOUN.html">NOUN</a></tt> (4; 17% instances), <tt><a href="gl_pud-pos-ADV.html">ADV</a></tt> (3; 13% instances), <tt><a href="gl_pud-pos-PUNCT.html">PUNCT</a></tt> (3; 13% instances), <tt><a href="gl_pud-pos-VERB.html">VERB</a></tt> (3; 13% instances), <tt><a href="gl_pud-pos-AUX.html">AUX</a></tt> (2; 9% instances), <tt><a href="gl_pud-pos-NUM.html">NUM</a></tt> (1; 4% instances), <tt><a href="gl_pud-pos-PRON.html">PRON</a></tt> (1; 4% instances), <tt><a href="gl_pud-pos-PROPN.html">PROPN</a></tt> (1; 4% instances)
 

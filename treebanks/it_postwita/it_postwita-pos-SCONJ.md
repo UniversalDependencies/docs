@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Italian-PoSTWITA: POS Tags: `SCONJ`
 
-There are 30 `SCONJ` lemmas (0%), 41 `SCONJ` types (0%) and 1590 `SCONJ` tokens (1%).
+There are 33 `SCONJ` lemmas (0%), 44 `SCONJ` types (0%) and 1593 `SCONJ` tokens (1%).
 Out of 16 observed tags, the rank of `SCONJ` is: 14 in number of lemmas, 15 in number of types and 13 in number of tokens.
 
 The 10 most frequent `SCONJ` lemmas: <em>che, se, perché, quando, come, mentre, dopo, appena, siccome, perche</em>
@@ -62,7 +62,7 @@ The 10 most frequent ambiguous types:  <em>che</em> (<tt><a href="it_postwita-po
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.366667 (the average of all parts of speech is 1.310684).
+The form / lemma ratio of `SCONJ` is 1.333333 (the average of all parts of speech is 1.310689).
 
 The 1st highest number of forms (10) was observed with the lemma “perché”: <em>Xk, per, perche, perche', perchè, perché, xche', xchè, xché, xké</em>.
 
@@ -70,24 +70,24 @@ The 2nd highest number of forms (3) was observed with the lemma “quando”: <e
 
 The 3rd highest number of forms (2) was observed with the lemma “che”: <em>che, ke</em>.
 
-`SCONJ` occurs with 1 features: <tt><a href="it_postwita-feat-Typo.html">Typo</a></tt> (1; 0% instances)
+`SCONJ` occurs with 2 features: <tt><a href="it_postwita-feat-ExtPos.html">ExtPos</a></tt> (3; 0% instances), <tt><a href="it_postwita-feat-Typo.html">Typo</a></tt> (1; 0% instances)
 
-`SCONJ` occurs with 1 feature-value pairs: `Typo=Yes`
+`SCONJ` occurs with 2 feature-value pairs: `ExtPos=ADV`, `Typo=Yes`
 
-`SCONJ` occurs with 2 feature combinations.
+`SCONJ` occurs with 3 feature combinations.
 The most frequent feature combination is `_` (1589 tokens).
 Examples: <em>che, se, quando, perché, come, perchè, mentre, dopo, perche', ke</em>
 
 
 ## Relations
 
-`SCONJ` nodes are attached to their parents using 12 different relations: <tt><a href="it_postwita-dep-mark.html">mark</a></tt> (1549; 97% instances), <tt><a href="it_postwita-dep-fixed.html">fixed</a></tt> (24; 2% instances), <tt><a href="it_postwita-dep-case.html">case</a></tt> (3; 0% instances), <tt><a href="it_postwita-dep-dep.html">dep</a></tt> (3; 0% instances), <tt><a href="it_postwita-dep-advcl.html">advcl</a></tt> (2; 0% instances), <tt><a href="it_postwita-dep-ccomp.html">ccomp</a></tt> (2; 0% instances), <tt><a href="it_postwita-dep-discourse.html">discourse</a></tt> (2; 0% instances), <tt><a href="it_postwita-dep-compound.html">compound</a></tt> (1; 0% instances), <tt><a href="it_postwita-dep-nmod.html">nmod</a></tt> (1; 0% instances), <tt><a href="it_postwita-dep-nsubj.html">nsubj</a></tt> (1; 0% instances), <tt><a href="it_postwita-dep-obj.html">obj</a></tt> (1; 0% instances), <tt><a href="it_postwita-dep-reparandum.html">reparandum</a></tt> (1; 0% instances)
+`SCONJ` nodes are attached to their parents using 12 different relations: <tt><a href="it_postwita-dep-mark.html">mark</a></tt> (1555; 98% instances), <tt><a href="it_postwita-dep-fixed.html">fixed</a></tt> (21; 1% instances), <tt><a href="it_postwita-dep-case.html">case</a></tt> (3; 0% instances), <tt><a href="it_postwita-dep-dep.html">dep</a></tt> (3; 0% instances), <tt><a href="it_postwita-dep-advcl.html">advcl</a></tt> (2; 0% instances), <tt><a href="it_postwita-dep-ccomp.html">ccomp</a></tt> (2; 0% instances), <tt><a href="it_postwita-dep-discourse.html">discourse</a></tt> (2; 0% instances), <tt><a href="it_postwita-dep-compound.html">compound</a></tt> (1; 0% instances), <tt><a href="it_postwita-dep-nmod.html">nmod</a></tt> (1; 0% instances), <tt><a href="it_postwita-dep-nsubj.html">nsubj</a></tt> (1; 0% instances), <tt><a href="it_postwita-dep-obj.html">obj</a></tt> (1; 0% instances), <tt><a href="it_postwita-dep-reparandum.html">reparandum</a></tt> (1; 0% instances)
 
-Parents of `SCONJ` nodes belong to 12 different parts of speech: <tt><a href="it_postwita-pos-VERB.html">VERB</a></tt> (1168; 73% instances), <tt><a href="it_postwita-pos-NOUN.html">NOUN</a></tt> (196; 12% instances), <tt><a href="it_postwita-pos-ADJ.html">ADJ</a></tt> (100; 6% instances), <tt><a href="it_postwita-pos-ADV.html">ADV</a></tt> (39; 2% instances), <tt><a href="it_postwita-pos-PRON.html">PRON</a></tt> (26; 2% instances), <tt><a href="it_postwita-pos-PROPN.html">PROPN</a></tt> (23; 1% instances), <tt><a href="it_postwita-pos-SYM.html">SYM</a></tt> (15; 1% instances), <tt><a href="it_postwita-pos-X.html">X</a></tt> (11; 1% instances), <tt><a href="it_postwita-pos-AUX.html">AUX</a></tt> (6; 0% instances), <tt><a href="it_postwita-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="it_postwita-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="it_postwita-pos-INTJ.html">INTJ</a></tt> (2; 0% instances)
+Parents of `SCONJ` nodes belong to 12 different parts of speech: <tt><a href="it_postwita-pos-VERB.html">VERB</a></tt> (1171; 74% instances), <tt><a href="it_postwita-pos-NOUN.html">NOUN</a></tt> (199; 12% instances), <tt><a href="it_postwita-pos-ADJ.html">ADJ</a></tt> (100; 6% instances), <tt><a href="it_postwita-pos-ADV.html">ADV</a></tt> (37; 2% instances), <tt><a href="it_postwita-pos-PRON.html">PRON</a></tt> (25; 2% instances), <tt><a href="it_postwita-pos-PROPN.html">PROPN</a></tt> (23; 1% instances), <tt><a href="it_postwita-pos-SYM.html">SYM</a></tt> (15; 1% instances), <tt><a href="it_postwita-pos-X.html">X</a></tt> (11; 1% instances), <tt><a href="it_postwita-pos-AUX.html">AUX</a></tt> (6; 0% instances), <tt><a href="it_postwita-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="it_postwita-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="it_postwita-pos-INTJ.html">INTJ</a></tt> (2; 0% instances)
 
 1542 (97%) `SCONJ` nodes are leaves.
 
-44 (3%) `SCONJ` nodes have one child.
+47 (3%) `SCONJ` nodes have one child.
 
 2 (0%) `SCONJ` nodes have two children.
 
@@ -95,7 +95,7 @@ Parents of `SCONJ` nodes belong to 12 different parts of speech: <tt><a href="it
 
 The highest child degree of a `SCONJ` node is 3.
 
-Children of `SCONJ` nodes are attached using 6 different relations: <tt><a href="it_postwita-dep-advmod.html">advmod</a></tt> (40; 74% instances), <tt><a href="it_postwita-dep-conj.html">conj</a></tt> (6; 11% instances), <tt><a href="it_postwita-dep-case.html">case</a></tt> (3; 6% instances), <tt><a href="it_postwita-dep-fixed.html">fixed</a></tt> (3; 6% instances), <tt><a href="it_postwita-dep-cc.html">cc</a></tt> (1; 2% instances), <tt><a href="it_postwita-dep-goeswith.html">goeswith</a></tt> (1; 2% instances)
+Children of `SCONJ` nodes are attached using 6 different relations: <tt><a href="it_postwita-dep-advmod.html">advmod</a></tt> (40; 70% instances), <tt><a href="it_postwita-dep-conj.html">conj</a></tt> (6; 11% instances), <tt><a href="it_postwita-dep-fixed.html">fixed</a></tt> (6; 11% instances), <tt><a href="it_postwita-dep-case.html">case</a></tt> (3; 5% instances), <tt><a href="it_postwita-dep-cc.html">cc</a></tt> (1; 2% instances), <tt><a href="it_postwita-dep-goeswith.html">goeswith</a></tt> (1; 2% instances)
 
-Children of `SCONJ` nodes belong to 7 different parts of speech: <tt><a href="it_postwita-pos-ADV.html">ADV</a></tt> (40; 74% instances), <tt><a href="it_postwita-pos-CCONJ.html">CCONJ</a></tt> (5; 9% instances), <tt><a href="it_postwita-pos-ADP.html">ADP</a></tt> (3; 6% instances), <tt><a href="it_postwita-pos-INTJ.html">INTJ</a></tt> (2; 4% instances), <tt><a href="it_postwita-pos-VERB.html">VERB</a></tt> (2; 4% instances), <tt><a href="it_postwita-pos-SYM.html">SYM</a></tt> (1; 2% instances), <tt><a href="it_postwita-pos-X.html">X</a></tt> (1; 2% instances)
+Children of `SCONJ` nodes belong to 7 different parts of speech: <tt><a href="it_postwita-pos-ADV.html">ADV</a></tt> (40; 70% instances), <tt><a href="it_postwita-pos-ADP.html">ADP</a></tt> (6; 11% instances), <tt><a href="it_postwita-pos-CCONJ.html">CCONJ</a></tt> (5; 9% instances), <tt><a href="it_postwita-pos-INTJ.html">INTJ</a></tt> (2; 4% instances), <tt><a href="it_postwita-pos-VERB.html">VERB</a></tt> (2; 4% instances), <tt><a href="it_postwita-pos-SYM.html">SYM</a></tt> (1; 2% instances), <tt><a href="it_postwita-pos-X.html">X</a></tt> (1; 2% instances)
 

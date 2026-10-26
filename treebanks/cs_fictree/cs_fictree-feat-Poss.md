@@ -11,7 +11,7 @@ It occurs with 1 different values: `Yes`.
 
 2365 tokens (1%) have a non-empty value of `Poss`.
 275 types (1%) occur at least once with a non-empty value of `Poss`.
-91 lemmas (1%) occur at least once with a non-empty value of `Poss`.
+93 lemmas (1%) occur at least once with a non-empty value of `Poss`.
 The feature is used with 2 part-of-speech tags: <tt><a href="cs_fictree-pos-DET.html">DET</a></tt> (2144; 1% instances), <tt><a href="cs_fictree-pos-ADJ.html">ADJ</a></tt> (221; 0% instances).
 
 ### `DET`
@@ -24,6 +24,8 @@ The most frequent other feature values with which `DET` and `Poss` co-occurred: 
 
 * `Yes` (2144; 100% of non-empty `Poss`): <em>jeho, své, její, jejich, moje, svou, svého, můj, svým, svůj</em>
 * `EMPTY` (6291): <em>to, který, ten, které, která, tom, všechno, toho, tím, té</em>
+
+`Poss` seems to be **lexical feature** of `DET`. 100% lemmas (10) occur only with one value of `Poss`.
 
 ### `ADJ`
 

@@ -49,7 +49,7 @@ The following 17 pairs of parts of speech are connected with `cc`: <tt><a href="
 2	programa	programa	NOUN	NCMS000	Gender=Masc|Number=Sing	3	nsubj	_	_
 3	gaña	gañar	VERB	VMIP3S0	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
 4	diñeiro	diñeiro	NOUN	NCMS000	Gender=Masc|Number=Sing	3	obj	_	_
-5	a	a	ADP	SP	AdpType=Prep	8	case	_	_
+5	a	a	ADP	SP	AdpType=Prep|ExtPos=ADP	8	case	_	_
 6	través	través	NOUN	NCMS000	Gender=Masc|Number=Sing	5	fixed	_	_
 7	de	de	ADP	SP	AdpType=Prep	5	fixed	_	_
 8	patrocinios	patrocinio	NOUN	NCMP000	Gender=Masc|Number=Plur	3	obl	_	_

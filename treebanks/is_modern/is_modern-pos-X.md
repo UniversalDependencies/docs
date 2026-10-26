@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Icelandic-Modern: POS Tags: `X`
 
-There are 81 `X` lemmas (1%), 82 `X` types (1%) and 91 `X` tokens (0%).
+There are 80 `X` lemmas (1%), 81 `X` types (1%) and 90 `X` tokens (0%).
 Out of 16 observed tags, the rank of `X` is: 7 in number of lemmas, 10 in number of types and 15 in number of tokens.
 
 The 10 most frequent `X` lemmas: <em>molde, 2016, að, eidur, fk, i, se, your, zijn, 22</em>
@@ -57,7 +57,7 @@ The 10 most frequent ambiguous types:  <em>Molde</em> (<tt><a href="is_modern-po
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.012346 (the average of all parts of speech is 1.738114).
+The form / lemma ratio of `X` is 1.012500 (the average of all parts of speech is 1.738233).
 
 The 1st highest number of forms (2) was observed with the lemma “zijn”: <em>is, zijn</em>.
 
@@ -65,26 +65,26 @@ The 2nd highest number of forms (1) was observed with the lemma “2016”: <em>
 
 The 3rd highest number of forms (1) was observed with the lemma “22”: <em>22</em>.
 
-`X` occurs with 11 features: <tt><a href="is_modern-feat-Foreign.html">Foreign</a></tt> (59; 65% instances), <tt><a href="is_modern-feat-Number.html">Number</a></tt> (4; 4% instances), <tt><a href="is_modern-feat-Case.html">Case</a></tt> (3; 3% instances), <tt><a href="is_modern-feat-Definite.html">Definite</a></tt> (3; 3% instances), <tt><a href="is_modern-feat-Gender.html">Gender</a></tt> (3; 3% instances), <tt><a href="is_modern-feat-Degree.html">Degree</a></tt> (1; 1% instances), <tt><a href="is_modern-feat-Mood.html">Mood</a></tt> (1; 1% instances), <tt><a href="is_modern-feat-Person.html">Person</a></tt> (1; 1% instances), <tt><a href="is_modern-feat-Tense.html">Tense</a></tt> (1; 1% instances), <tt><a href="is_modern-feat-VerbForm.html">VerbForm</a></tt> (1; 1% instances), <tt><a href="is_modern-feat-Voice.html">Voice</a></tt> (1; 1% instances)
+`X` occurs with 11 features: <tt><a href="is_modern-feat-Foreign.html">Foreign</a></tt> (59; 66% instances), <tt><a href="is_modern-feat-Number.html">Number</a></tt> (3; 3% instances), <tt><a href="is_modern-feat-Case.html">Case</a></tt> (2; 2% instances), <tt><a href="is_modern-feat-Definite.html">Definite</a></tt> (2; 2% instances), <tt><a href="is_modern-feat-Gender.html">Gender</a></tt> (2; 2% instances), <tt><a href="is_modern-feat-Degree.html">Degree</a></tt> (1; 1% instances), <tt><a href="is_modern-feat-Mood.html">Mood</a></tt> (1; 1% instances), <tt><a href="is_modern-feat-Person.html">Person</a></tt> (1; 1% instances), <tt><a href="is_modern-feat-Tense.html">Tense</a></tt> (1; 1% instances), <tt><a href="is_modern-feat-VerbForm.html">VerbForm</a></tt> (1; 1% instances), <tt><a href="is_modern-feat-Voice.html">Voice</a></tt> (1; 1% instances)
 
-`X` occurs with 17 feature-value pairs: `Case=Dat`, `Case=Gen`, `Case=Nom`, `Definite=Def`, `Definite=Ind`, `Degree=Pos`, `Foreign=Yes`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Mood=Ind`, `Number=Plur`, `Number=Sing`, `Person=3`, `Tense=Past`, `VerbForm=Fin`, `Voice=Act`
+`X` occurs with 14 feature-value pairs: `Case=Dat`, `Case=Nom`, `Definite=Ind`, `Degree=Pos`, `Foreign=Yes`, `Gender=Masc`, `Gender=Neut`, `Mood=Ind`, `Number=Plur`, `Number=Sing`, `Person=3`, `Tense=Past`, `VerbForm=Fin`, `Voice=Act`
 
-`X` occurs with 6 feature combinations.
+`X` occurs with 5 feature combinations.
 The most frequent feature combination is `Foreign=Yes` (59 tokens).
 Examples: <em>Molde, 2016, Eidur, FK, i, se, your, 22, 3, 8</em>
 
 
 ## Relations
 
-`X` nodes are attached to their parents using 9 different relations: <tt><a href="is_modern-dep-dep.html">dep</a></tt> (42; 46% instances), <tt><a href="is_modern-dep-flat-foreign.html">flat:foreign</a></tt> (34; 37% instances), <tt><a href="is_modern-dep-obl.html">obl</a></tt> (6; 7% instances), <tt><a href="is_modern-dep-root.html">root</a></tt> (3; 3% instances), <tt><a href="is_modern-dep-conj.html">conj</a></tt> (2; 2% instances), <tt><a href="is_modern-dep-advcl.html">advcl</a></tt> (1; 1% instances), <tt><a href="is_modern-dep-amod.html">amod</a></tt> (1; 1% instances), <tt><a href="is_modern-dep-appos.html">appos</a></tt> (1; 1% instances), <tt><a href="is_modern-dep-ccomp.html">ccomp</a></tt> (1; 1% instances)
+`X` nodes are attached to their parents using 9 different relations: <tt><a href="is_modern-dep-dep.html">dep</a></tt> (41; 46% instances), <tt><a href="is_modern-dep-flat-foreign.html">flat:foreign</a></tt> (34; 38% instances), <tt><a href="is_modern-dep-obl.html">obl</a></tt> (6; 7% instances), <tt><a href="is_modern-dep-root.html">root</a></tt> (3; 3% instances), <tt><a href="is_modern-dep-conj.html">conj</a></tt> (2; 2% instances), <tt><a href="is_modern-dep-advcl.html">advcl</a></tt> (1; 1% instances), <tt><a href="is_modern-dep-amod.html">amod</a></tt> (1; 1% instances), <tt><a href="is_modern-dep-appos.html">appos</a></tt> (1; 1% instances), <tt><a href="is_modern-dep-ccomp.html">ccomp</a></tt> (1; 1% instances)
 
-Parents of `X` nodes belong to 12 different parts of speech: <tt><a href="is_modern-pos-X.html">X</a></tt> (38; 42% instances), <tt><a href="is_modern-pos-VERB.html">VERB</a></tt> (14; 15% instances), <tt><a href="is_modern-pos-ADV.html">ADV</a></tt> (13; 14% instances), <tt><a href="is_modern-pos-NOUN.html">NOUN</a></tt> (12; 13% instances), <tt><a href="is_modern-pos-PROPN.html">PROPN</a></tt> (3; 3% instances),  (3; 3% instances), <tt><a href="is_modern-pos-ADP.html">ADP</a></tt> (2; 2% instances), <tt><a href="is_modern-pos-PRON.html">PRON</a></tt> (2; 2% instances), <tt><a href="is_modern-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="is_modern-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="is_modern-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="is_modern-pos-NUM.html">NUM</a></tt> (1; 1% instances)
+Parents of `X` nodes belong to 12 different parts of speech: <tt><a href="is_modern-pos-X.html">X</a></tt> (38; 42% instances), <tt><a href="is_modern-pos-VERB.html">VERB</a></tt> (14; 16% instances), <tt><a href="is_modern-pos-ADV.html">ADV</a></tt> (13; 14% instances), <tt><a href="is_modern-pos-NOUN.html">NOUN</a></tt> (11; 12% instances), <tt><a href="is_modern-pos-PROPN.html">PROPN</a></tt> (3; 3% instances),  (3; 3% instances), <tt><a href="is_modern-pos-ADP.html">ADP</a></tt> (2; 2% instances), <tt><a href="is_modern-pos-PRON.html">PRON</a></tt> (2; 2% instances), <tt><a href="is_modern-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="is_modern-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="is_modern-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="is_modern-pos-NUM.html">NUM</a></tt> (1; 1% instances)
 
-63 (69%) `X` nodes are leaves.
+62 (69%) `X` nodes are leaves.
 
 17 (19%) `X` nodes have one child.
 
-5 (5%) `X` nodes have two children.
+5 (6%) `X` nodes have two children.
 
 6 (7%) `X` nodes have three or more children.
 

@@ -10,8 +10,8 @@ This relation is universal.
 
 1 nodes (0%) are attached to their parents as `dislocated`.
 
-1 instances of `dislocated` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 26.
+1 instances of `dislocated` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.
 
 The following 1 pairs of parts of speech are connected with `dislocated`: <tt><a href="ja_bccwj-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_bccwj-pos-NOUN.html">NOUN</a></tt> (1; 100% instances).
 
@@ -19,15 +19,15 @@ The following 1 pairs of parts of speech are connected with `dislocated`: <tt><a
 ~~~ conllu
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
-# visual-style 32	bgColor:blue
-# visual-style 32	fgColor:white
-# visual-style 32 6 dislocated	color:blue
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 6 dislocated	color:blue
 1	_	_	SYM	_	_	32	dep	_	BBIL=B|BPT=4|LBIL=B|LPOS=19|SpaceAfter=No|UI=577
 2	_	_	NOUN	_	_	3	compound	_	BBIL=B|BPT=0|LBIL=B|LPOS=0|SpaceAfter=No|UI=135116
 3	_	_	NOUN	_	_	32	nmod	_	BBIL=I|BPT=1|LBIL=I|LPOS=0|SpaceAfter=No|UI=167870
 4	_	_	ADP	_	_	3	case	_	BBIL=I|BPT=2|LBIL=B|LPOS=1|SpaceAfter=No|UI=0
 5	_	_	PUNCT	_	_	6	punct	_	BBIL=B|BPT=0|LBIL=B|LPOS=14|SpaceAfter=No|UI=13
-6	_	_	NOUN	_	_	32	dislocated	_	BBIL=I|BPT=1|LBIL=B|LPOS=133|SpaceAfter=No|UI=14634
+6	_	_	NOUN	_	_	3	dislocated	_	BBIL=I|BPT=1|LBIL=B|LPOS=133|SpaceAfter=No|UI=14634
 7	_	_	PUNCT	_	_	6	punct	_	BBIL=I|BPT=0|LBIL=B|LPOS=13|SpaceAfter=No|UI=14
 8	_	_	ADP	_	_	6	fixed	_	BBIL=I|BPT=3|LBIL=B|LPOS=6|SpaceAfter=No|UI=4
 9	_	_	PUNCT	_	_	6	punct	_	BBIL=I|BPT=0|LBIL=B|LPOS=2|SpaceAfter=No|UI=1
@@ -54,7 +54,7 @@ The following 1 pairs of parts of speech are connected with `dislocated`: <tt><a
 30	_	_	ADP	_	_	28	case	_	BBIL=I|BPT=3|LBIL=B|LPOS=16|SpaceAfter=No|UI=33
 31	_	_	ADP	_	_	28	case	_	BBIL=I|BPT=3|LBIL=B|LPOS=1|SpaceAfter=No|UI=0
 32	_	_	NOUN	_	_	0	root	_	BBIL=B|BPT=4|LBIL=B|LPOS=0|SpaceAfter=No|UI=6156
-33	_	_	PUNCT	_	_	32	punct	_	BBIL=I|BPT=0|LBIL=B|LPOS=5|SpaceAfter=No|UI=2
+33	_	_	PUNCT	_	_	32	punct	_	BBIL=I|BPT=0|LBIL=B|LPOS=5|UI=2
 
 ~~~
 

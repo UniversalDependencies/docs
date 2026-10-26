@@ -8,12 +8,56 @@ udver: '2'
 
 This relation is universal.
 
-13 nodes (2%) are attached to their parents as `case`.
+526 nodes (2%) are attached to their parents as `case`.
 
-12 instances of `case` (92%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.
+520 instances of `case` (99%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.33840304182509.
 
-The following 5 pairs of parts of speech are connected with `case`: <tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ota_dudu-pos-ADP.html">ADP</a></tt> (5; 38% instances), <tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt>-<tt><a href="ota_dudu-pos-ADP.html">ADP</a></tt> (3; 23% instances), <tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ota_dudu-pos-ADV.html">ADV</a></tt> (2; 15% instances), <tt><a href="ota_dudu-pos-PRON.html">PRON</a></tt>-<tt><a href="ota_dudu-pos-ADP.html">ADP</a></tt> (2; 15% instances), <tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ota_dudu-pos-CCONJ.html">CCONJ</a></tt> (1; 8% instances).
+The following 15 pairs of parts of speech are connected with `case`: <tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ota_dudu-pos-ADP.html">ADP</a></tt> (200; 38% instances), <tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ota_dudu-pos-CCONJ.html">CCONJ</a></tt> (124; 24% instances), <tt><a href="ota_dudu-pos-PRON.html">PRON</a></tt>-<tt><a href="ota_dudu-pos-ADP.html">ADP</a></tt> (96; 18% instances), <tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt>-<tt><a href="ota_dudu-pos-ADP.html">ADP</a></tt> (58; 11% instances), <tt><a href="ota_dudu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ota_dudu-pos-ADP.html">ADP</a></tt> (11; 2% instances), <tt><a href="ota_dudu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ota_dudu-pos-ADP.html">ADP</a></tt> (10; 2% instances), <tt><a href="ota_dudu-pos-ADV.html">ADV</a></tt>-<tt><a href="ota_dudu-pos-ADP.html">ADP</a></tt> (7; 1% instances), <tt><a href="ota_dudu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ota_dudu-pos-CCONJ.html">CCONJ</a></tt> (6; 1% instances), <tt><a href="ota_dudu-pos-PRON.html">PRON</a></tt>-<tt><a href="ota_dudu-pos-CCONJ.html">CCONJ</a></tt> (3; 1% instances), <tt><a href="ota_dudu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ota_dudu-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="ota_dudu-pos-DET.html">DET</a></tt>-<tt><a href="ota_dudu-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ota_dudu-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt>-<tt><a href="ota_dudu-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="ota_dudu-pos-PRON.html">PRON</a></tt>-<tt><a href="ota_dudu-pos-PART.html">PART</a></tt> (1; 0% instances).
+
+
+~~~ conllu
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 10 case	color:blue
+1	cemīʿ	cemīʿ	ADJ	Adj	_	2	amod	_	_
+2	ḳuvveti	ḳuvvet	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	12	nsubj	_	_
+3	ve	ve	CCONJ	_	_	4	cc	_	_
+4	aʿżāsı	aʿżā	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	2	conj	_	_
+5	ve	ve	CCONJ	_	_	6	cc	_	_
+6	ʿaḳlı	ʿaḳl	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	4	conj	_	_
+7	ve	ve	CCONJ	_	_	8	cc	_	_
+8	fikri	fikr	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	6	conj	_	_
+9	geregi	gerek	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	12	obl	_	_
+10	gibi	gibi	ADP	PCNom	_	9	case	_	_
+11	kemāl	kemāl	NOUN	_	Case=Nom|Number=Sing|Person=3	12	obj	_	_
+12	buldı	bul	VERB	_	Aspect=Perf|Evident=Fh|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	0	root	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 4 case	color:blue
+1	bu	bu	DET	Demons	Definite=Def|PronType=Art	2	det	_	_
+2	deñlü	deñlü	ADJ	Adj	_	3	amod	_	_
+3	fażl	fażl	NOUN	_	Case=Nom|Number=Sing|Person=3	8	obl	_	_
+4	ile	ile	CCONJ	_	_	3	case	_	_
+5	ol	ol	DET	Demons	Definite=Def|PronType=Art	7	det	_	_
+6	faḫr-ı	faḫr	NOUN	_	Case=Nom|Number=Sing|Person=3	8	nsubj	_	_
+7	ʿālem	ʿālem	NOUN	_	Case=Nom|Number=Sing|Person=3	6	nmod:poss	_	_
+8	tevāżuʿ	tevāżuʿ	NOUN	_	Case=Nom|Number=Sing|Person=3	0	root	_	_
+9	eyler-idi	eyle	VERB	_	Aspect=Hab|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	8	compound:lvc	_	_
+10	ḫalḳa	ḫalḳ	NOUN	_	Case=Dat|Number=Sing|Person=3	8	obl	_	_
+11	her	her	DET	Det	Definite=Def|PronType=Art	12	det	_	_
+12	dem	dem	NOUN	_	Case=Nom|Number=Sing|Person=3	8	obl:tmod	_	_
+
+~~~
 
 
 ~~~ conllu
@@ -22,48 +66,14 @@ The following 5 pairs of parts of speech are connected with `case`: <tt><a href=
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 case	color:blue
-1	ḥalḳa	ḥalḳ	NOUN	_	Case=Dat|Number=Sing|Person=3	3	obl	_	_
-2	doġru	doġru	ADP	PCDat	_	1	case	_	_
-3	gitmenin	git	VERB	Vnoun	Case=Gen|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	5	nmod:poss	_	_
-4	ikinci	iki	NUM	NNum	Case=Nom|Number=Sing|NumType=Ord|Person=3	5	amod	_	_
-5	vazîfesi	vazîfe	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	9	nsubj	_	_
-6	de	de	PART	Emph	_	5	advmod:emph	_	_
-7	ḥalḳa	ḥalḳ	NOUN	_	Case=Dat|Number=Sing|Person=3	9	obl	_	_
-8	medeniyyet	medeniyyet	NOUN	_	Case=Acc|Number=Sing|Person=3	9	obj	_	_
-9	götürmek	götür	VERB	Vnoun	Case=Nom|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	0	root	_	_
-10	tir	i	AUX	Zero	Aspect=Perf|Number=Sing|Person=3|Tense=Pres	9	cop	_	_
-11	.	.	PUNCT	Stop	_	9	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 3 case	color:blue
-1	ne	ne	ADV	_	PronType=Int	2	obj	_	_
-2	eyleyelüm	eyle	VERB	_	Mood=Opt|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	4	advcl	_	_
-3	deyü	diye	ADP	PCNom	_	2	case	_	_
-4	ṭanışdılar	ṭanış	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	0	root	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 3 case	color:blue
-1	sen	sen	PRON	_	PronType=Prs	2	nsubj	_	_
-2	var	var	NOUN	_	Number=Sing|Person=3|Polarity=Pos	5	advcl	_	_
-3	iken	iken	ADV	_	_	2	case	_	_
-4	av	av	NOUN	_	Case=Nom|Number=Sing|Person=3	5	obj	_	_
-5	avladı	avla	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	0	root	_	_
-6	ḳuş	ḳuş	NOUN	_	Case=Nom|Number=Sing|Person=3	7	obj	_	_
-7	ḳuşladı	ḳuşla	VERB	_	Aspect=Perf|Evident=Fh|Number=Sing|Person=3|Polarity=Pos|Tense=Past	5	conj	_	_
+1	andan	o	PRON	Demons	Case=Abl|Number=Sing|Person=3|PronType=Dem	3	obl	_	_
+2	ṣoñra	ṣoñra	ADP	PCAbl	_	1	case	_	_
+3	varıp	var	VERB	Conv	Polarity=Pos|VerbForm=Conv	7	advcl	_	_
+4	ol	ol	DET	Demons	Definite=Def|PronType=Art	5	det	_	_
+5	kāġıdı	kāġıd	NOUN	_	Case=Acc|Number=Sing|Person=3	6	obj	_	_
+6	istemege	iste	VERB	Vnoun	Case=Dat|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	7	ccomp	_	_
+7	perrān	perrān	ADJ	Adj	_	0	root	_	_
+8	oldılar	ol	VERB	_	Aspect=Perf|Evident=Fh|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	7	compound:lvc	_	_
 
 ~~~
 

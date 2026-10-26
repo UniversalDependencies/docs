@@ -66,7 +66,13 @@ The 2nd highest number of forms (1) was observed with the lemma “אִם”: א
 
 The 3rd highest number of forms (1) was observed with the lemma “אי”: אי.
 
-`SCONJ` does not occur with any features.
+`SCONJ` occurs with 1 features: <tt><a href="he_iahltwiki-feat-ExtPos.html">ExtPos</a></tt> (132; 3% instances)
+
+`SCONJ` occurs with 3 feature-value pairs: `ExtPos=ADP`, `ExtPos=ADV`, `ExtPos=SCONJ`
+
+`SCONJ` occurs with 4 feature combinations.
+The most frequent feature combination is `_` (4187 tokens).
+Examples: ש, ה, כי, אשר, כאשר, כדי, אם, כש, האם, ו
 
 
 ## Relations

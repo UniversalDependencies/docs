@@ -64,16 +64,16 @@ The following 10 pairs of parts of speech are connected with `nummod`: <tt><a hr
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 8 nummod	color:blue
-1	Vsakič	vsakič	ADV	Rgp	Degree=Pos	7	advmod	_	_
-2	ko	ko	SCONJ	Cs	_	4	mark	_	_
-3	ji	on	PRON	Pp3fsd--y	Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs|Variant=Short	4	iobj	_	_
-4	odrežejo	odrezati	VERB	Vmer3p	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	_	_
-5	glavo	glava	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	4	obj	_	SpaceAfter=No
-6	,	,	PUNCT	Z	_	4	punct	_	_
-7	zrasteta	zrasti	VERB	Vmer3d	Aspect=Perf|Mood=Ind|Number=Dual|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-8	dve	dva	NUM	Mlcfdn	Case=Nom|Gender=Fem|Number=Dual|NumForm=Word|NumType=Card	9	nummod	_	_
-9	novi	nov	ADJ	Agpfdn	Case=Nom|Degree=Pos|Gender=Fem|Number=Dual	7	nsubj	_	SpaceAfter=No
-10	.	.	PUNCT	Z	_	7	punct	_	_
+1	Vsakič	vsakič	ADV	Rgp	Degree=Pos	7	advmod	_	NER=O
+2	ko	ko	SCONJ	Cs	_	4	mark	_	NER=O
+3	ji	on	PRON	Pp3fsd--y	Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs|Variant=Short	4	iobj	_	NER=O
+4	odrežejo	odrezati	VERB	Vmer3p	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	_	NER=O
+5	glavo	glava	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	4	obj	_	SpaceAfter=No|NER=O
+6	,	,	PUNCT	Z	_	4	punct	_	NER=O
+7	zrasteta	zrasti	VERB	Vmer3d	Aspect=Perf|Mood=Ind|Number=Dual|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	NER=O
+8	dve	dva	NUM	Mlcfdn	Case=Nom|Gender=Fem|Number=Dual|NumForm=Word|NumType=Card	9	nummod	_	NER=O
+9	novi	nov	ADJ	Agpfdn	Case=Nom|Degree=Pos|Gender=Fem|Number=Dual	7	nsubj	_	SpaceAfter=No|NER=O
+10	.	.	PUNCT	Z	_	7	punct	_	NER=O
 
 ~~~
 

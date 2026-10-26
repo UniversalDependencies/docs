@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-2617 nodes (5%) are attached to their parents as `root`.
+2717 nodes (5%) are attached to their parents as `root`.
 
-2617 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.53343523118074.
+2717 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.54876702245123.
 
-The following 9 pairs of parts of speech are connected with `root`: -<tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt> (1785; 68% instances), -<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (523; 20% instances), -<tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt> (213; 8% instances), -<tt><a href="cy_ccg-pos-AUX.html">AUX</a></tt> (42; 2% instances), -<tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt> (20; 1% instances), -<tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt> (16; 1% instances), -<tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt> (12; 0% instances), -<tt><a href="cy_ccg-pos-ADV.html">ADV</a></tt> (5; 0% instances), -<tt><a href="cy_ccg-pos-PART.html">PART</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `root`: -<tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt> (1848; 68% instances), -<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (553; 20% instances), -<tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt> (219; 8% instances), -<tt><a href="cy_ccg-pos-AUX.html">AUX</a></tt> (42; 2% instances), -<tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt> (20; 1% instances), -<tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt> (16; 1% instances), -<tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt> (13; 0% instances), -<tt><a href="cy_ccg-pos-ADV.html">ADV</a></tt> (5; 0% instances), -<tt><a href="cy_ccg-pos-PART.html">PART</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -59,7 +59,7 @@ The following 9 pairs of parts of speech are connected with `root`: -<tt><a href
 # visual-style 0 7 root	color:blue
 1	Yr	y	PART	aff	_	7	advmod	_	_
 2	oedd	bod	AUX	aux	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	7	cop	_	_
-3	yr	y	DET	art	_	4	det	_	_
+3	yr	y	DET	art	PronType=Art	4	det	_	_
 4	wythnos	wythnos	NOUN	noun	Gender=Fem|Number=Sing	7	nsubj	_	_
 5	gyntaf	cynnar	ADJ	ord	Degree=Sup|Mutation=SM|NumType=Ord	4	advmod	_	_
 6	yn	yn	PART	pred	_	7	case:pred	_	_

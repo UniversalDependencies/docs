@@ -25,7 +25,7 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 * `Acc` (728; 13% of non-empty `Case`): عاماً، وفقاً، العديد، بدءاً، بدلاً، اسم، الأمر، المزيد، نجاحاً، نفس
 * `Gen` (3832; 70% of non-empty `Case`): عام، شكلٍ، الوقت، القرن، أجل، النسبة، شأن، العالم، منطقة، نهاية
 * `Nom` (883; 16% of non-empty `Case`): الأمر، العديد، اسم، الملك، رئيس، الجزء، الشركة، المستثمرون، زيادة، سبب
-* `EMPTY` (135): الإنترنت، يورو، م، وضع، البولونيوم، عمل، ألبوم، الدراما، اللورد، التكنولوجيا
+* `EMPTY` (132): الإنترنت، يورو، م، وضع، البولونيوم، عمل، ألبوم، الدراما، اللورد، التكنولوجيا
 
 <table>
   <tr><th>Paradigm <i>عَام</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Gen</tt></th></tr>
@@ -46,7 +46,7 @@ The most frequent other feature values with which `ADJ` and `Case` co-occurred: 
 * `Acc` (370; 18% of non-empty `Case`): أكثر، كبيراً، أكبر، الخاصة، جديداً، قائلاً، خاصة، كبيرة، أول، الأولى
 * `Gen` (1230; 61% of non-empty `Case`): الأول، الخاصة، المتحدة، أكثر، أخرى، الثاني، الأولى، أول، إسترليني، كبير
 * `Nom` (414; 21% of non-empty `Case`): أكثر، الأول، كبيرة، الثاني، الخاص، الخاصة، آخر، الأكثر، الأمريكية، الأهم
-* `EMPTY` (12): أحدث، 16، 96، آمن، أفضل، ألحقا، الـ36، سافر، عادل، م
+* `EMPTY` (11): أحدث، 16، 96، آمن، ألحقا، الـ36، سافر، عادل، م، وايلد
 
 <table>
   <tr><th>Paradigm <i>أَوَّل</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Gen</tt></th></tr>
@@ -63,13 +63,13 @@ The most frequent other feature values with which `ADJ` and `Case` co-occurred: 
 
 1252 <tt><a href="ar_pud-pos-PRON.html">PRON</a></tt> tokens (96% of all `PRON` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="ar_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1001; 80%), <tt><a href="ar_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (718; 57%), <tt><a href="ar_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (658; 53%).
+The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="ar_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1001; 80%), <tt><a href="ar_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (788; 63%), <tt><a href="ar_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (718; 57%), <tt><a href="ar_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (658; 53%).
 
 `PRON` tokens may have the following values of `Case`:
 
-* `Acc` (234; 19% of non-empty `Case`): ه، ها، ما، هذا، الذي، هم، نا، التي، هذه، ذلك
-* `Gen` (863; 69% of non-empty `Case`): ه، ها، هم، التي، ما، ذلك، الذي، هذه، نا، هذا
-* `Nom` (155; 12% of non-empty `Case`): هذا، التي، الذي، ما، هو، هذه، هي، من، أنا، ذلك
+* `Acc` (234; 19% of non-empty `Case`): ه، ها، هذا، الذي، هم، نا، التي، ما، هذه، ذلك
+* `Gen` (863; 69% of non-empty `Case`): ه، ها، هم، التي، ذلك، ما، الذي، هذه، نا، هذا
+* `Nom` (155; 12% of non-empty `Case`): هذا، التي، الذي، هو، هذه، هي، ما، أنا، ذلك، تلك
 * `EMPTY` (47): هو، هي، ه، ها، هما
 
 <table>
@@ -130,6 +130,8 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
 
 162 <tt><a href="ar_pud-pos-DET.html">DET</a></tt> tokens (98% of all `DET` tokens) have a non-empty value of `Case`.
 
+The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="ar_pud-feat-PronType.html">PronType</a></tt><tt>=Ind</tt> (108; 67%).
+
 `DET` tokens may have the following values of `Case`:
 
 * `Acc` (37; 23% of non-empty `Case`): كل، عدة، آخر، أي، بعض، أحد، شبه، غالبية، إحدى، بقية
@@ -146,20 +148,20 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
 
 8 <tt><a href="ar_pud-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="ar_pud-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (8; 100%), <tt><a href="ar_pud-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (8; 100%), <tt><a href="ar_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (8; 100%), <tt><a href="ar_pud-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (8; 100%), <tt><a href="ar_pud-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (7; 88%), <tt><a href="ar_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (6; 75%).
+The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="ar_pud-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (8; 100%), <tt><a href="ar_pud-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (8; 100%), <tt><a href="ar_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (8; 100%), <tt><a href="ar_pud-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (8; 100%), <tt><a href="ar_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (8; 100%), <tt><a href="ar_pud-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (7; 88%), <tt><a href="ar_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (6; 75%).
 
 `VERB` tokens may have the following values of `Case`:
 
 * `Acc` (2; 25% of non-empty `Case`): أملاً، انتقادات
 * `Gen` (4; 50% of non-empty `Case`): إلباس، اعتبار، جعل، ذكرا
 * `Nom` (2; 25% of non-empty `Case`): الغاية، مهتمٌ
-* `EMPTY` (1742): يمكن، كان، قال، كانت، يكون، تم، بدأت، قالت، يكن، بدأ
+* `EMPTY` (1746): يمكن، كان، قال، كانت، يكون، تم، بدأت، قالت، يكن، بدأ
 
 ### `AUX`
 
 2 <tt><a href="ar_pud-pos-AUX.html">AUX</a></tt> tokens (1% of all `AUX` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `AUX` and `Case` co-occurred: <tt><a href="ar_pud-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="ar_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (2; 100%), <tt><a href="ar_pud-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="ar_pud-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="ar_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="ar_pud-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="ar_pud-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (2; 100%).
+The most frequent other feature values with which `AUX` and `Case` co-occurred: <tt><a href="ar_pud-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="ar_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (2; 100%), <tt><a href="ar_pud-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="ar_pud-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="ar_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="ar_pud-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="ar_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="ar_pud-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (2; 100%).
 
 `AUX` tokens may have the following values of `Case`:
 
@@ -178,12 +180,12 @@ The most frequent other feature values with which `AUX` and `Case` co-occurred: 
 ## Relations with Agreement in `Case`
 
 The 10 most frequent relations where parent and child node agree in `Case`:
-<tt>NOUN --[<tt><a href="ar_pud-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1349; 99%),
-<tt>NOUN --[<tt><a href="ar_pud-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1229; 65%),
+<tt>NOUN --[<tt><a href="ar_pud-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1350; 99%),
+<tt>NOUN --[<tt><a href="ar_pud-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1247; 65%),
 <tt>NOUN --[<tt><a href="ar_pud-dep-conj.html">conj</a></tt>]--> NOUN</tt> (253; 96%),
-<tt>NOUN --[<tt><a href="ar_pud-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (249; 59%),
+<tt>NOUN --[<tt><a href="ar_pud-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (253; 60%),
 <tt>PROPN --[<tt><a href="ar_pud-dep-amod.html">amod</a></tt>]--> ADJ</tt> (176; 73%),
-<tt>NOUN --[<tt><a href="ar_pud-dep-det.html">det</a></tt>]--> PRON</tt> (97; 96%),
+<tt>NOUN --[<tt><a href="ar_pud-dep-det.html">det</a></tt>]--> PRON</tt> (96; 96%),
 <tt>NOUN --[<tt><a href="ar_pud-dep-ccomp.html">ccomp</a></tt>]--> ADJ</tt> (89; 93%),
 <tt>NOUN --[<tt><a href="ar_pud-dep-det.html">det</a></tt>]--> DET</tt> (69; 53%),
 <tt>ADJ --[<tt><a href="ar_pud-dep-conj.html">conj</a></tt>]--> ADJ</tt> (29; 88%),

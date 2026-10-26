@@ -33,7 +33,7 @@ The 10 most frequent ambiguous types:  <em>Баянгаза</em> (<tt><a href="b
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.189189 (the average of all parts of speech is 1.638355).
+The form / lemma ratio of `PROPN` is 1.189189 (the average of all parts of speech is 1.638739).
 
 The 1st highest number of forms (5) was observed with the lemma “Цыпелма”: <em>Цыпелма, Цыпелмаае, Цыпелмагай, Цыпелмада, Цыпелмае</em>.
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1509 nodes (1%) are attached to their parents as `det`.
+1458 nodes (1%) are attached to their parents as `det`.
 
-1509 instances of `det` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.78462557985421.
+1458 instances of `det` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.94513031550069.
 
-The following 9 pairs of parts of speech are connected with `det`: <tt><a href="zh_gsdsimp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_gsdsimp-pos-DET.html">DET</a></tt> (1120; 74% instances), <tt><a href="zh_gsdsimp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_gsdsimp-pos-PRON.html">PRON</a></tt> (249; 17% instances), <tt><a href="zh_gsdsimp-pos-PART.html">PART</a></tt>-<tt><a href="zh_gsdsimp-pos-DET.html">DET</a></tt> (83; 6% instances), <tt><a href="zh_gsdsimp-pos-PART.html">PART</a></tt>-<tt><a href="zh_gsdsimp-pos-PRON.html">PRON</a></tt> (19; 1% instances), <tt><a href="zh_gsdsimp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="zh_gsdsimp-pos-DET.html">DET</a></tt> (17; 1% instances), <tt><a href="zh_gsdsimp-pos-NUM.html">NUM</a></tt>-<tt><a href="zh_gsdsimp-pos-DET.html">DET</a></tt> (15; 1% instances), <tt><a href="zh_gsdsimp-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_gsdsimp-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="zh_gsdsimp-pos-X.html">X</a></tt>-<tt><a href="zh_gsdsimp-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="zh_gsdsimp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="zh_gsdsimp-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `det`: <tt><a href="zh_gsdsimp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_gsdsimp-pos-DET.html">DET</a></tt> (1104; 76% instances), <tt><a href="zh_gsdsimp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_gsdsimp-pos-PRON.html">PRON</a></tt> (215; 15% instances), <tt><a href="zh_gsdsimp-pos-PART.html">PART</a></tt>-<tt><a href="zh_gsdsimp-pos-DET.html">DET</a></tt> (82; 6% instances), <tt><a href="zh_gsdsimp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="zh_gsdsimp-pos-DET.html">DET</a></tt> (20; 1% instances), <tt><a href="zh_gsdsimp-pos-PART.html">PART</a></tt>-<tt><a href="zh_gsdsimp-pos-PRON.html">PRON</a></tt> (17; 1% instances), <tt><a href="zh_gsdsimp-pos-NUM.html">NUM</a></tt>-<tt><a href="zh_gsdsimp-pos-DET.html">DET</a></tt> (15; 1% instances), <tt><a href="zh_gsdsimp-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_gsdsimp-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="zh_gsdsimp-pos-X.html">X</a></tt>-<tt><a href="zh_gsdsimp-pos-DET.html">DET</a></tt> (2; 0% instances).
 
 
 ~~~ conllu

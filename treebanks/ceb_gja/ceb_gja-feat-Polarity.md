@@ -32,7 +32,7 @@ The most frequent other feature values with which `VERB` and `Polarity` co-occur
 `VERB` tokens may have the following values of `Polarity`:
 
 * `Neg` (6; 100% of non-empty `Polarity`): <em>wala</em>
-* `EMPTY` (181): <em>gusto, may, moadto, ganahan, gibuhat, tabangan, Gisulayan, Gitawag, Kinahanglan, Liguon</em>
+* `EMPTY` (182): <em>gusto, may, moadto, ganahan, gibuhat, tabangan, Gisulayan, Gitawag, Kinahanglan, Liguon</em>
 
 ### `ADV`
 

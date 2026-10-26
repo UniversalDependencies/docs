@@ -51,7 +51,7 @@ The following 5 pairs of parts of speech are connected with `list`: <tt><a href=
 # visual-style 23	bgColor:blue
 # visual-style 23	fgColor:white
 # visual-style 23 30 list	color:blue
-1	על	על	ADP	ADP	_	4	case	_	SpaceAfter=No
+1	על	על	ADP	ADP	ExtPos=ADP	4	case	_	SpaceAfter=No
 2	-	-	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No
 3	פי	פה	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	1	fixed	_	_
 4	חוק	חוק	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	18	obl	_	_

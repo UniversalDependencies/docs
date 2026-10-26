@@ -16,10 +16,10 @@ The feature is used with 1 part-of-speech tags: <tt><a href="ky_tuecl-pos-VERB.h
 
 ### `VERB`
 
-1 <tt><a href="ky_tuecl-pos-VERB.html">VERB</a></tt> tokens (1% of all `VERB` tokens) have a non-empty value of `Evident`.
+1 <tt><a href="ky_tuecl-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Evident`.
 
 `VERB` tokens may have the following values of `Evident`:
 
 * `Nfh` (1; 100% of non-empty `Evident`): <em>такылдатыптыр</em>
-* `EMPTY` (185): <em>берди, алып, кетти, окуп, уктап, барыптыр, болот, болчу, деп, келип</em>
+* `EMPTY` (243): <em>берди, окуп, алып, кетти, көрөт, окуган, болчу, деп, келип, уктап</em>
 

@@ -25,7 +25,7 @@ The following 3 pairs of parts of speech are connected with `goeswith`: <tt><a h
 1	„	_	PUNCT	_	_	2	punct	_	GermanLemma=„|SpaceAfter=No
 2	Schau	_	VERB	_	_	0	root	_	GermanLemma=schauen|SpaceAfter=No
 3	,	_	PUNCT	_	_	6	punct	_	GermanLemma=,
-4	dass	_	SCONJ	_	_	6	mark	_	GermanLemma=dass
+4	dass	_	SCONJ	_	Typo=Yes	6	mark	_	GermanLemma=dass
 5	d‘	_	X	_	_	4	goeswith	_	_
 6	weidakummst	_	VERB	_	_	2	ccomp	_	GermanLemma=weiterkommen|SpaceAfter=No
 7	!	_	PUNCT	_	_	2	punct	_	GermanLemma=!|SpaceAfter=No
@@ -54,7 +54,7 @@ The following 3 pairs of parts of speech are connected with `goeswith`: <tt><a h
 12	Fich	_	NOUN	_	_	9	nmod	_	GermanLemma=Vieh
 13	realisdisch	_	ADJ	_	_	7	advmod	_	GermanLemma=realistisch
 14	(	_	PUNCT	_	_	17	punct	_	GermanLemma=(|SpaceAfter=No
-15	zu	_	ADV	_	_	17	advmod	_	CorrectForm=zumindest|GermanLemma=zumindest
+15	zu	_	ADV	_	Typo=Yes	17	advmod	_	CorrectForm=zumindest|GermanLemma=zumindest
 16	mindest	_	X	_	_	15	goeswith	_	_
 17	deoretisch	_	ADJ	_	_	7	parataxis	_	GermanLemma=theoretisch|SpaceAfter=No
 18	)	_	PUNCT	_	_	17	punct	_	GermanLemma=)
@@ -77,7 +77,7 @@ The following 3 pairs of parts of speech are connected with `goeswith`: <tt><a h
 7	Leid	_	NOUN	_	_	8	obj	_	GermanLemma=Leute
 8	mocha	_	VERB	_	_	0	root	_	GermanLemma=machen
 9	oda	_	CCONJ	_	_	13	cc	_	GermanLemma=oder
-10	irgánd	_	DET	_	_	12	det	_	CorrectForm=irgándán|GermanLemma=irgendein
+10	irgánd	_	DET	_	Typo=Yes	12	det	_	CorrectForm=irgándán|GermanLemma=irgendein
 11	án	_	X	_	_	10	goeswith	_	_
 12	Zeig	_	NOUN	_	_	13	obj	_	GermanLemma=Zeug
 13	erfoáschn	_	VERB	_	_	8	conj	_	GermanLemma=erforschen

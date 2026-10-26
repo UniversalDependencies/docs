@@ -68,16 +68,16 @@ The following 4 pairs of parts of speech are connected with `compound:prt`: <tt>
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 11 compound:prt	color:blue
-1	Run	run	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	0:root	_
+1	Run	run	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	0:root	MWECat=V.VID|MWELemma=run for the hill|MWELen=4|MWEString=Run for the hills|Supersense=v.motion
 2	for	for	ADP	IN	_	4	case	4:case	_
 3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	4:det	_
 4	hills	hill	NOUN	NNS	Number=Plur	1	obl	1:obl:for	_
 5	...	...	PUNCT	,	_	10	punct	10:punct	_
 6	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	10	nsubj	10:nsubj	_
 7	'll	will	AUX	MD	VerbForm=Fin	10	aux	10:aux	_
-8	be	be	AUX	VB	VerbForm=Inf	10	cop	10:cop	_
+8	be	be	AUX	VB	VerbForm=Inf	10	cop	10:cop	Supersense=v.stative
 9	much	much	ADV	RB	_	10	advmod	10:advmod	_
-10	better	good	ADJ	JJR	Degree=Cmp	1	parataxis	1:parataxis	_
+10	better	good	ADJ	JJR	Degree=Cmp	1	parataxis	1:parataxis	MWECat=ADJ|MWELemma=good off|MWELen=2|MWEString=better off
 11	off	off	ADP	RP	_	10	compound:prt	10:compound:prt	SpaceAfter=No
 12	!	!	PUNCT	.	_	1	punct	1:punct	_
 

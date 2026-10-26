@@ -26,11 +26,11 @@ The following 4 pairs of parts of speech are connected with `acl`: <tt><a href="
 1	Këtë	këtë	PRON	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	4	nsubj	_	end_char=4963|start_char=4959
 2	më	më	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	4	iobj	_	end_char=4966|start_char=4964
 3	e	e	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	4	obj	_	end_char=4966|start_char=4964
-4	përforcuan	përforcoj	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|Voice=Act	0	root	_	end_char=4977|start_char=4967
+4	përforcuan	përforcoj	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	end_char=4977|start_char=4967
 5	edhe	edhe	ADV	_	_	6	advmod	_	end_char=4982|start_char=4978
 6	fashat	fashë	NOUN	_	Case=Nom|Definite=Def|Gender=Fem|Number=Plur	4	obl	_	end_char=4989|start_char=4983
 7	e	e	DET	_	Gender=Fem|Number=Plur|PronType=Art	8	det	_	end_char=4991|start_char=4990
-8	mbështjella	mbështjelloj	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|Voice=Act	6	acl	_	end_char=5003|start_char=4992
+8	mbështjella	mbështjelloj	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	6	acl	_	end_char=5003|start_char=4992
 9	në	në	ADP	_	_	10	case	_	end_char=5006|start_char=5004
 10	kokë	kokë	NOUN	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	8	obl	_	SpaceAfter=No
 11	.	.	PUNCT	_	_	4	punct	_	end_char=5012|start_char=5011
@@ -55,7 +55,7 @@ The following 4 pairs of parts of speech are connected with `acl`: <tt><a href="
 9	heshtjen	heshtje	NOUN	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	12	nsubj:pass	_	end_char=982|start_char=974
 10	vërtet	vërtet	ADV	_	AdvType=Man	12	advmod	_	end_char=989|start_char=983
 11	e	ai	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	12	obj	_	end_char=991|start_char=990
-12	prishin	prish	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	0	root	_	end_char=999|start_char=992
+12	prishin	prish	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	end_char=999|start_char=992
 13	në	në	ADP	_	_	14	case	_	end_char=1002|start_char=1000
 14	mënyrë	mënyrë	NOUN	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	12	obl	_	end_char=1009|start_char=1003
 15	alternative	alternat	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	14	amod	_	end_char=1021|start_char=1010
@@ -122,9 +122,9 @@ The following 4 pairs of parts of speech are connected with `acl`: <tt><a href="
 16	aty	aty	ADV	_	AdvType=Loc	15	acl	_	end_char=4918|start_char=4915
 17	pranë	pranë	ADV	_	AdvType=Tim	16	advmod	_	SpaceAfter=No
 18	,	,	PUNCT	_	_	19	punct	_	end_char=4925|start_char=4924
-19	dyshova	dyshovë	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past	0	root	_	end_char=4933|start_char=4926
+19	dyshova	dyshovë	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	end_char=4933|start_char=4926
 20	mos	mos	PART	_	_	21	mark	_	end_char=4937|start_char=4934
-21	ndodhesha	ndodhem	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Mid	19	xcomp	_	end_char=4947|start_char=4938
+21	ndodhesha	ndodhem	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	19	xcomp	_	end_char=4947|start_char=4938
 22	në	në	ADP	_	_	23	case	_	end_char=4950|start_char=4948
 23	spital	spital	NOUN	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	21	obl	_	SpaceAfter=No
 24	.	.	PUNCT	_	_	21	punct	_	end_char=4958|start_char=4957

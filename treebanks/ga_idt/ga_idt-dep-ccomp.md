@@ -59,7 +59,7 @@ The following 32 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 8	ghlaoigh	glaoigh	VERB	VTI	Form=Len|Mood=Ind|Tense=Past	2	ccomp	_	_
 9	sé	sé	PRON	Pers	Gender=Masc|Number=Sing|Person=3	8	nsubj	_	_
 10	ar	ar	ADP	Simp	_	11	case	_	_
-11	Melissa	Melissa	PROPN	Noun	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	8	obl	_	SpaceAfter=No
+11	Melissa	Melissa	PROPN	Noun	Case=Nom|Definite=Def|Foreign=Yes|Gender=Fem|Number=Sing	8	obl	_	SpaceAfter=No
 12	.	.	PUNCT	.	_	2	punct	_	_
 
 ~~~

@@ -30,7 +30,7 @@ The 10 most frequent ambiguous types:  <em>pozor</em> (<tt><a href="sk_snk-pos-N
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.027027 (the average of all parts of speech is 1.802472).
+The form / lemma ratio of `INTJ` is 1.027027 (the average of all parts of speech is 1.802691).
 
 The 1st highest number of forms (2) was observed with the lemma “bum”: <em>BUM, Bum</em>.
 

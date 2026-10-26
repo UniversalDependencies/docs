@@ -17,4 +17,4 @@ We follow Sasaki Mitsuya Sasaki (2011) *Classical Nahuatl Locatives in Typologic
 
 * [nci] _In <b>tlalticpac</b> quiza_ ""
 
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:50 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:02 CEST -->

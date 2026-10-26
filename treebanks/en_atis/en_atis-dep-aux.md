@@ -53,7 +53,7 @@ The following 7 pairs of parts of speech are connected with `aux`: <tt><a href="
 10	early	early	ADJ	_	Degree=Pos	13	amod	_	_
 11	in	in	ADP	_	_	13	case	_	_
 12	the	the	DET	_	PronType=Art	13	det	_	_
-13	morning	morning	NOUN	_	Number=Sing	5	obl:tmod	_	_
+13	morning	morning	NOUN	_	Number=Sing	5	obl:unmarked	_	_
 
 ~~~
 

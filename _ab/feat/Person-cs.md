@@ -32,4 +32,4 @@ This feature marks person agreement of the verb with the causee.
 * [ab] _и-з-сы-р-бо_ [DO.3-Causee.Rel-Subj.1Sg-CAUS-see.Pres.NonFin] ‘to whom I show it’ `Dyn=Yes|Number[subj]=Sing|Person[cs]=Rel|Person[obj]=3|Person[subj]=1|Tense=Pres|Trans=Yes|VerbForm=NonFin|Voice=Cau`
 
 
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:56 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:09 CEST -->

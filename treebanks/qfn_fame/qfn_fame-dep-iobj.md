@@ -76,7 +76,7 @@ The following 4 pairs of parts of speech are connected with `iobj`: <tt><a href=
 10	pastory	_	NOUN	_	_	7	advcl	_	Lang=fy
 11	niks	_	PRON	_	_	10	nmod	_	Lang=nl
 12	foar	_	ADP	_	_	13	case	_	Lang=fy
-13	my	_	PRON	_	_	11	obl	_	Lang=fy
+13	my	_	PRON	_	_	10	nmod	_	Lang=fy
 14	wie	_	AUX	_	_	10	cop	_	Lang=fy
 
 ~~~

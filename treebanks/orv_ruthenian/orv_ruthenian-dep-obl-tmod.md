@@ -7,14 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Old_East_Slavic-Ruthenian: Relations: `obl:tmod`
 
 This relation is a language-specific subtype of <tt><a href="orv_ruthenian-dep-obl.html">obl</a></tt>.
-There are also 3 other language-specific subtypes of `obl`: <tt><a href="orv_ruthenian-dep-obl-agent.html">obl:agent</a></tt>, <tt><a href="orv_ruthenian-dep-obl-depict.html">obl:depict</a></tt>, <tt><a href="orv_ruthenian-dep-obl-float.html">obl:float</a></tt>.
+There are also 4 other language-specific subtypes of `obl`: <tt><a href="orv_ruthenian-dep-obl-agent.html">obl:agent</a></tt>, <tt><a href="orv_ruthenian-dep-obl-depict.html">obl:depict</a></tt>, <tt><a href="orv_ruthenian-dep-obl-float.html">obl:float</a></tt>, <tt><a href="orv_ruthenian-dep-obl-pronmod.html">obl:pronmod</a></tt>.
 
-141 nodes (0%) are attached to their parents as `obl:tmod`.
+214 nodes (0%) are attached to their parents as `obl:tmod`.
 
-77 instances of `obl:tmod` (55%) are right-to-left (child precedes parent).
-Average distance between parent and child is 5.22695035460993.
+138 instances of `obl:tmod` (64%) are right-to-left (child precedes parent).
+Average distance between parent and child is 7.19158878504673.
 
-The following 7 pairs of parts of speech are connected with `obl:tmod`: <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (126; 89% instances), <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (6; 4% instances), <tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (5; 4% instances), <tt><a href="orv_ruthenian-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="orv_ruthenian-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt> (1; 1% instances).
+The following 10 pairs of parts of speech are connected with `obl:tmod`: <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (189; 88% instances), <tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (8; 4% instances), <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (5; 2% instances), <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt> (5; 2% instances), <tt><a href="orv_ruthenian-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="orv_ruthenian-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="orv_ruthenian-pos-AUX.html">AUX</a></tt>-<tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="orv_ruthenian-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -35,6 +35,31 @@ The following 7 pairs of parts of speech are connected with `obl:tmod`: <tt><a h
 10	индикт	индиктъ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	8	nmod	_	wf="инди<i>к</i>(т)"
 11	13	13	ADJ	ORD	NumForm=Digit|NumType=Ord	10	amod	_	wf="13"|SpaceAfter=No
 12	.	.	PUNCT	_	_	2	punct	_	wf="."
+
+~~~
+
+
+~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 11 5 obl:tmod	color:blue
+1	А	а	CCONJ	СС	_	11	cc	_	wf="А"
+2	самъ	самъ	DET	DT	Case=Nom|Gender=Masc|Number=Sing|PronType=Emp	11	nsubj	_	wf="самъ"
+3	есми	быти	AUX	VBC	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	11	cop	_	wf="есми"
+4	сими	сей	DET	DT	Case=Ins|Gender=Masc|Number=Plur|PronType=Dem	5	det	_	wf="сими"
+5	часы	часъ	NOUN	NNI	Case=Ins|Gender=Masc|Number=Plur	11	obl:tmod	_	wf="часы"|SpaceAfter=No
+6	,	,	PUNCT	-COMMA-	_	8	punct	_	_
+7	ещо	еще	ADV	RB	Degree=Pos	8	advmod	_	wf="ещо"
+8	дал	дати	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	11	parataxis	_	wf="дал"
+9	Б(ог)ъ	богъ	NOUN	NNA	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	wf="Богъ"|SpaceAfter=No
+10	,	,	PUNCT	-COMMA-	_	8	punct	_	_
+11	живъ	живый	ADJ	JJH	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	0	root	_	wf="живъ"
+12	до	до	ADP	IN	_	14	case	_	wf="до"
+13	Б(о)жьи	божий	ADJ	JJH	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	14	amod	_	wf="Божьи"
+14	воли	воля	NOUN	NNI	Case=Gen|Gender=Fem|Number=Sing	11	obl	_	wf="воли"|SpaceAfter=No
+15	.	.	PUNCT	-PERIOD-	_	11	punct	_	_
 
 ~~~
 
@@ -74,31 +99,6 @@ The following 7 pairs of parts of speech are connected with `obl:tmod`: <tt><a h
 27	немало	немало	NUM	_	Case=Acc|NumForm=Word|NumType=Card	28	nummod:gov	_	wf="немало"
 28	лѣтъ	лѣто	NOUN	_	Case=Gen|Gender=Neut|Number=Plur	22	obl:tmod	_	wf="лѣтъ"|SpaceAfter=No
 29	.	.	PUNCT	_	_	2	punct	_	wf="."
-
-~~~
-
-
-~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 11 5 obl:tmod	color:blue
-1	А	а	CCONJ	СС	_	11	cc	_	wf="А"
-2	самъ	самъ	DET	DT	Case=Nom|Gender=Masc|Number=Sing|PronType=Emp	11	nsubj	_	wf="самъ"
-3	есми	быти	AUX	VBC	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	11	cop	_	wf="есми"
-4	сими	сей	DET	DT	Case=Ins|Gender=Masc|Number=Plur|PronType=Dem	5	det	_	wf="сими"
-5	часы	часъ	NOUN	NNI	Case=Ins|Gender=Masc|Number=Plur	11	obl:tmod	_	wf="часы"|SpaceAfter=No
-6	,	,	PUNCT	-COMMA-	_	8	punct	_	_
-7	ещо	еще	ADV	RB	Degree=Pos	8	advmod	_	wf="ещо"
-8	дал	дати	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	11	parataxis	_	wf="дал"
-9	Б(ог)ъ	богъ	NOUN	NNA	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	wf="Богъ"|SpaceAfter=No
-10	,	,	PUNCT	-COMMA-	_	8	punct	_	_
-11	живъ	живый	ADJ	JJH	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	0	root	_	wf="живъ"
-12	до	до	ADP	IN	_	14	case	_	wf="до"
-13	Б(о)жьи	божий	ADJ	JJH	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	14	amod	_	wf="Божьи"
-14	воли	воля	NOUN	NNI	Case=Gen|Gender=Fem|Number=Sing	11	obl	_	wf="воли"|SpaceAfter=No
-15	.	.	PUNCT	-PERIOD-	_	11	punct	_	_
 
 ~~~
 

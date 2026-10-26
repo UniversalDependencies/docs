@@ -8,30 +8,29 @@ udver: '2'
 
 This relation is universal.
 
-898 nodes (1%) are attached to their parents as `case`.
+2033 nodes (1%) are attached to their parents as `case`.
 
-883 instances of `case` (98%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.24276169265033.
+2015 instances of `case` (99%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.19626168224299.
 
-The following 30 pairs of parts of speech are connected with `case`: <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt> (576; 64% instances), <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (72; 8% instances), <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> (62; 7% instances), <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> (39; 4% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> (26; 3% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt> (25; 3% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> (22; 2% instances), <tt><a href="ko_ksl-pos-PRON.html">PRON</a></tt>-<tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt> (9; 1% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (9; 1% instances), <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt>-<tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt> (7; 1% instances), <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt>-<tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> (7; 1% instances), <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt> (5; 1% instances), <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-CCONJ.html">CCONJ</a></tt> (5; 1% instances), <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> (4; 0% instances), <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt>-<tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="ko_ksl-pos-PRON.html">PRON</a></tt>-<tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt>-<tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="ko_ksl-pos-PRON.html">PRON</a></tt>-<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="ko_ksl-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt>-<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="ko_ksl-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko_ksl-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt>-<tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ko_ksl-pos-DET.html">DET</a></tt>-<tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ko_ksl-pos-DET.html">DET</a></tt>-<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt>-<tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ko_ksl-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ko_ksl-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="ko_ksl-pos-SYM.html">SYM</a></tt>-<tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-PART.html">PART</a></tt> (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `case`: <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt> (1388; 68% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt> (380; 19% instances), <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt> (163; 8% instances), <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt>-<tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt> (27; 1% instances), <tt><a href="ko_ksl-pos-PRON.html">PRON</a></tt>-<tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt> (25; 1% instances), <tt><a href="ko_ksl-pos-AUX.html">AUX</a></tt>-<tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt> (21; 1% instances), <tt><a href="ko_ksl-pos-DET.html">DET</a></tt>-<tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt> (14; 1% instances), <tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt>-<tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt> (12; 1% instances), <tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt>-<tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ko_ksl-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ko_ksl-pos-PART.html">PART</a></tt>-<tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 2 3 case	color:blue
-1	하지만	하지만	ADV	MAJ	_	9	cc	_	_
-2	초등학교	초등학교	NOUN	NNG	_	9	obl	_	_
-3	때	때	ADP	NNG	_	2	case	_	_
-4	부모님은	부모+님+은	NOUN	NNG+XSN+JX	_	5	obj	_	_
-5	이해할	이해+하+ㄹ	VERB	NNG+XSV+ETM	_	6	acl	_	_
-6	수	수	NOUN	NNB	_	7	nsubj	_	_
-7	없어서	없+어서	VERB	VA+EC	_	9	advcl	_	_
-8	자주	자주	ADV	MAG	_	9	advmod	_	_
-9	싸웠다	싸우+었+다	VERB	VV+EP+EF	_	0	root	_	SpaceAfter=No
-10	.	.	PUNCT	SF	_	9	punct	_	_
+# visual-style 2 4 case	color:blue
+1	마지막으로	마지막+으로	ADV	NNG+JKB	_	8	obl	_	_
+2	오후	오후	NOUN	NNG	_	3	nmod	_	_
+3	9시	9+시	NOUN	SN+NNB	_	6	obl	_	_
+4	이후에는	이후+에+는	ADP	NNG+JKB+JX	_	2	case	_	_
+5	식사를	식사+를	NOUN	NNG+JKO	_	6	obj	_	_
+6	삼가해야	삼가+하+아야	VERB	VV+XSV+EC	_	8	acl	_	_
+7	한다는	하	AUX	VX+ETM	_	6	aux	_	_
+8	것입니다	것+이+ㅂ니다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
 
 ~~~
 
@@ -42,37 +41,37 @@ The following 30 pairs of parts of speech are connected with `case`: <tt><a href
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 6 case	color:blue
-1	홍상을	홍상+을	NOUN	NF+JKO	_	2	obj	_	_
-2	먹은	먹+은	VERB	VV+ETM	_	11	advcl	_	_
-3	후에	후+에	ADV	NNG+JKB	_	2	mark	_	_
-4	피로와	피로+와	NOUN	NNG+JC	_	10	nsubj	_	_
-5	스트레스	스트레스	NOUN	NNG	_	4	conj	_	_
-6	등	등	NOUN	NNB	_	5	case	_	_
-7	나쁜	나쁘+ㄴ	ADJ	VA+ETM	_	8	amod	_	_
-8	것이	것+이	NOUN	NNB+JKS	_	4	appos	_	_
-9	점점	점점	ADV	MAG	_	10	advmod	_	_
-10	사러져	사러지+어	VERB	NV+EC	_	11	advcl	_	_
-11	없습니다	없+습니다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
-12	.	.	PUNCT	SF	_	11	punct	_	_
+1	그래서	그래서	CCONJ	MAJ	_	12	cc	_	_
+2	재가	재+가	NOUN	NF+JKS	Typo=Yes	5	nsubj	_	_
+3	한국에	한국+에	ADV	NNP+JKB	_	5	obl	_	_
+4	저음	저음	ADV	NF	Typo=Yes	5	advmod	_	_
+5	왔을때	오+았+을+때	VERB	VV+EP+ETM+NNG	_	12	advcl	_	_
+6	부터	부터	ADP	JX	_	5	case	_	_
+7	한국	한국	NOUN	NNP	_	8	nmod	_	_
+8	식당에	식당+에	ADV	NNG+JKB	_	9	obl	_	_
+9	있는	있+는	VERB	VV+ETM	_	10	acl	_	_
+10	가레이라이스	가레이라이스	NOUN	NF	Typo=Yes	12	obj	_	_
+11	맛있게	맛+있+게	ADV	NNG+VA+EC	_	12	advmod	_	_
+12	먹었다	먹+었+다	VERB	VV+EP+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 4 5 case	color:blue
-1	그래서	그래서	ADV	MAJ	_	8	cc	_	_
-2	영어를	영어+를	NOUN	NNP+JKO	_	3	obj	_	_
-3	배우고	배우+고	VERB	VV+EC	_	0	root	_	_
-4	세계	세계	NOUN	NNG	_	7	nmod:poss	_	_
-5	하고	하고	VERB	JC	_	4	case	_	_
-6	영어의	영어+의	NOUN	NNP+JKG	_	4	conj	_	_
-7	관계도	관계+도	NOUN	NNG+JX	_	8	obj	_	_
-8	배운다	배우+ㄴ다	VERB	VV+EF	_	3	conj	_	SpaceAfter=No
-9	.	.	PUNCT	SF	_	8	punct	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 4 case	color:blue
+1	작년	작년	NOUN	NNG	_	2	nmod	_	_
+2	겨울에는	겨울+에+는	ADV	NNG+JKB+JX	_	3	nmod	_	_
+3	방학이기	방학+이+기	ADJ	NNG+VCP+ETN	_	7	obl	_	_
+4	때문에	때문+에	ADP	NNB+JKB	_	3	case	_	_
+5	여행하러	여행+하+러	VERB	NNG+XSV+EC	_	7	advcl	_	_
+6	대구에	대구+에	ADV	NNP+JKB	_	7	obl	_	_
+7	갔어요	가+았+어요	VERB	VV+EP+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
 
 ~~~
 

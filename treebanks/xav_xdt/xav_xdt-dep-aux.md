@@ -8,28 +8,24 @@ udver: '2'
 
 This relation is universal.
 
-29 nodes (2%) are attached to their parents as `aux`.
+95 nodes (4%) are attached to their parents as `aux`.
 
-27 instances of `aux` (93%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.48275862068966.
+93 instances of `aux` (98%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.69473684210526.
 
-The following 2 pairs of parts of speech are connected with `aux`: <tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt>-<tt><a href="xav_xdt-pos-AUX.html">AUX</a></tt> (28; 97% instances), <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xav_xdt-pos-AUX.html">AUX</a></tt> (1; 3% instances).
+The following 2 pairs of parts of speech are connected with `aux`: <tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt>-<tt><a href="xav_xdt-pos-AUX.html">AUX</a></tt> (94; 99% instances), <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xav_xdt-pos-AUX.html">AUX</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 2 aux	color:blue
-1	Ti'ra	'ra	NOUN	n	Person=3	3	obj	_	son,daughter;filho,filha
-2	tete	te	AUX	aux	Number=Sing|Person=3	3	aux	_	_
-3	tsabu	tsabu	VERB	v	_	6	advcl	_	see,take.care.of;ver,enxergar,olhar,cuidar
-4	da	da	ADP	posp	_	3	mark	_	for,in.order.to,so.that;para,afim.de,para.que
-5	ma	ma	PART	prcl	Htp=Yes|Tense=Past	6	dep	_	heterophoric.marker.perfective.aspect;marcardor.heterofórico.aspecto.perfectivo
-6	wei	we	X	x	_	0	root	_	hither;para.cá
-7	wi	wi	ADP	posp	_	6	obl	_	far.from;longe.de
-8	.	.	PUNCT	punct	_	6	punct	_	_
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 1 aux	color:blue
+1	te	te	AUX	aux	Person=Non1|Tense=Pres	4	aux	_	_
+2	te	te	AUX	aux	Ergative=Yes	4	aux	_	_
+3	're	're	X	x	Tense=Imp	4	dep	_	_
+4	ĩ'ahöri	'ahöri	VERB	vt	LongForm=Yes|Number=Sing|Person=1	0	root	_	_
 
 ~~~
 

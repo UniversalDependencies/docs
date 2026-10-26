@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal but the values `Sbl` are language-specific.
 It occurs with 22 different values: `Abl`, `Abs`, `Acc`, `Ade`, `All`, `Cau`, `Dat`, `Del`, `Dis`, `Ela`, `Ess`, `Gen`, `Ill`, `Ine`, `Ins`, `Loc`, `Nom`, `Sbl`, `Sup`, `Tem`, `Ter`, `Tra`.
 
-20572 tokens (49%) have a non-empty value of `Case`.
-11049 types (82%) occur at least once with a non-empty value of `Case`.
+20542 tokens (49%) have a non-empty value of `Case`.
+11048 types (82%) occur at least once with a non-empty value of `Case`.
 7226 lemmas (82%) occur at least once with a non-empty value of `Case`.
-The feature is used with 6 part-of-speech tags: <tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt> (9689; 23% instances), <tt><a href="hu_szeged-pos-ADJ.html">ADJ</a></tt> (5543; 13% instances), <tt><a href="hu_szeged-pos-PROPN.html">PROPN</a></tt> (2718; 6% instances), <tt><a href="hu_szeged-pos-PRON.html">PRON</a></tt> (1380; 3% instances), <tt><a href="hu_szeged-pos-NUM.html">NUM</a></tt> (1115; 3% instances), <tt><a href="hu_szeged-pos-DET.html">DET</a></tt> (127; 0% instances).
+The feature is used with 6 part-of-speech tags: <tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt> (9689; 23% instances), <tt><a href="hu_szeged-pos-ADJ.html">ADJ</a></tt> (5543; 13% instances), <tt><a href="hu_szeged-pos-PROPN.html">PROPN</a></tt> (2718; 6% instances), <tt><a href="hu_szeged-pos-PRON.html">PRON</a></tt> (1386; 3% instances), <tt><a href="hu_szeged-pos-NUM.html">NUM</a></tt> (1077; 3% instances), <tt><a href="hu_szeged-pos-DET.html">DET</a></tt> (129; 0% instances).
 
 ### `NOUN`
 
@@ -119,30 +119,31 @@ The most frequent other feature values with which `PROPN` and `Case` co-occurred
 
 ### `PRON`
 
-1380 <tt><a href="hu_szeged-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Case`.
+1386 <tt><a href="hu_szeged-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="hu_szeged-feat-Person.html">Person</a></tt><tt>=3</tt> (1322; 96%), <tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1220; 88%).
+The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="hu_szeged-feat-Person.html">Person</a></tt><tt>=3</tt> (1322; 95%), <tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1223; 88%).
 
 `PRON` tokens may have the following values of `Case`:
 
 * `Abl` (19; 1% of non-empty `Case`): <em>attól, ettől, tőle, akiktől, amelyiktől, amitől, magától, tőlük</em>
-* `Acc` (246; 18% of non-empty `Case`): <em>azt, ezt, amit, őket, magát, akit, őt, amelyet, magukat, mit</em>
+* `Acc` (247; 18% of non-empty `Case`): <em>azt, ezt, amit, őket, magát, akit, őt, amelyet, magukat, mit</em>
 * `Ade` (11; 1% of non-empty `Case`): <em>nálunk, ennél</em>
 * `All` (31; 2% of non-empty `Case`): <em>hozzá, ahhoz, amihez, ehhez, amelyhez, hozzájuk, magához, mindazokhoz</em>
-* `Cau` (17; 1% of non-empty `Case`): <em>azért, amiért, magáért, valamiért, érte, értük</em>
+* `Cau` (18; 1% of non-empty `Case`): <em>azért, amiért, magáért, többért, valamiért, érte, értük</em>
 * `Dat` (53; 4% of non-empty `Case`): <em>nekem, annak, neki, akiknek, mindenkinek, nekik, maguknak, magának, magáénak, ennek</em>
 * `Del` (34; 2% of non-empty `Case`): <em>arról, erről, melyről, magáról, másikról, róla, rólam, önről</em>
 * `Ela` (15; 1% of non-empty `Case`): <em>ebből, amelyből, belőlük, abból, amiből, azokból, melyből, miből</em>
-* `Ess` (2; 0% of non-empty `Case`): <em>ennyien, mindannyian</em>
+* `Ess` (3; 0% of non-empty `Case`): <em>ennyien, mindannyian, többen</em>
 * `Gen` (96; 7% of non-empty `Case`): <em>annak, amelynek, ennek, akinek, melynek, akiknek, amelyeknek, amiknek, egyikének</em>
 * `Ill` (10; 1% of non-empty `Case`): <em>bele, egymásba, abba, ebbe, mindenbe, semmibe</em>
 * `Ine` (50; 4% of non-empty `Case`): <em>amelyben, abban, benne, ebben, melyben, ezekben, önmagában, amelyekben, amiben, amilyenben</em>
 * `Ins` (64; 5% of non-empty `Case`): <em>ezzel, azzal, vele, egymással, amellyel, velem, velük, akivel, amivel, annyival</em>
-* `Nom` (637; 46% of non-empty `Case`): <em>az, aki, ez, amely, ami, ő, egyik, én, maga, akik</em>
-* `Sbl` (72; 5% of non-empty `Case`): <em>arra, erre, rá, magára, rájuk, amire, mire, Rám, akire, amelyre</em>
+* `Nom` (639; 46% of non-empty `Case`): <em>az, aki, ez, amely, ami, ő, egyik, én, maga, akik</em>
+* `Sbl` (73; 5% of non-empty `Case`): <em>arra, erre, rá, magára, rájuk, amire, mire, Rám, akire, amelyre</em>
 * `Sup` (21; 2% of non-empty `Case`): <em>azon, amelyen, ezen, rajta, amin, melyen, némelyikén</em>
 * `Ter` (1; 0% of non-empty `Case`): <em>addig</em>
 * `Tra` (1; 0% of non-empty `Case`): <em>magukévá</em>
+* `EMPTY` (4): <em>többek</em>
 
 <table>
   <tr><th>Paradigm <i>az</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Ins</tt></th><th><tt>Ine</tt></th><th><tt>Ill</tt></th><th><tt>Ela</tt></th><th><tt>All</tt></th><th><tt>Abl</tt></th><th><tt>Sup</tt></th><th><tt>Del</tt></th><th><tt>Ter</tt></th><th><tt>Cau</tt></th><th><tt>Sbl</tt></th></tr>
@@ -152,24 +153,24 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 
 ### `NUM`
 
-1115 <tt><a href="hu_szeged-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `Case`.
+1077 <tt><a href="hu_szeged-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NUM` and `Case` co-occurred: <tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1112; 100%), <tt><a href="hu_szeged-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (1003; 90%).
+The most frequent other feature values with which `NUM` and `Case` co-occurred: <tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1076; 100%), <tt><a href="hu_szeged-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (965; 90%).
 
 `NUM` tokens may have the following values of `Case`:
 
 * `Abl` (7; 1% of non-empty `Case`): <em>1-től, 1948-tól, 1957-től, 1996-tól, 1997-től, 2000-től, egytől</em>
 * `Acc` (13; 1% of non-empty `Case`): <em>hatot, 12-t, 35-öt, egyet, ezret, hétszázat, keveset, milliárdot, milliót, mindkettőt</em>
 * `Ade` (1; 0% of non-empty `Case`): <em>11-nél</em>
-* `Cau` (2; 0% of non-empty `Case`): <em>millióért, többért</em>
+* `Cau` (1; 0% of non-empty `Case`): <em>millióért</em>
 * `Del` (4; 0% of non-empty `Case`): <em>1984-ről, 28-ról, 3-ról, 4-ről</em>
 * `Ela` (1; 0% of non-empty `Case`): <em>17-ből</em>
-* `Ess` (7; 1% of non-empty `Case`): <em>ezren, húszezren, kevesebben, millióan, negyvenen, tízen, többen</em>
+* `Ess` (6; 1% of non-empty `Case`): <em>ezren, húszezren, kevesebben, millióan, negyvenen, tízen</em>
 * `Gen` (1; 0% of non-empty `Case`): <em>kettőnek</em>
 * `Ine` (48; 4% of non-empty `Case`): <em>1991-ben, 1997-ben, 1992-ben, 1995-ben, 1998-ban, 1964-ben, 1990-ben, 1996-ban, 1999-ben, 2000-ben</em>
 * `Ins` (8; 1% of non-empty `Case`): <em>milliárddal, 8,9-del, ezerrel, kétharmaddal, millióval, tizeddel, tízmillióval</em>
-* `Nom` (1005; 90% of non-empty `Case`): <em>két, milliárd, millió, egy, három, több, ezer, négy, 30, 10</em>
-* `Sbl` (10; 1% of non-empty `Case`): <em>2000-re, 1991-re, 2002-re, 3500-ra, 47-re, 76,8-ra, egyre, tizedére, többre</em>
+* `Nom` (970; 90% of non-empty `Case`): <em>két, milliárd, millió, egy, három, ezer, négy, 30, 10, fél</em>
+* `Sbl` (9; 1% of non-empty `Case`): <em>2000-re, 1991-re, 2002-re, 3500-ra, 47-re, 76,8-ra, egyre, tizedére</em>
 * `Tem` (1; 0% of non-empty `Case`): <em>tízkor</em>
 * `Ter` (7; 1% of non-empty `Case`): <em>1998-ig, 10-ig, 1996-ig, 2007-ig, 5-ig, egyig</em>
 
@@ -180,14 +181,14 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
 
 ### `DET`
 
-127 <tt><a href="hu_szeged-pos-DET.html">DET</a></tt> tokens (2% of all `DET` tokens) have a non-empty value of `Case`.
+129 <tt><a href="hu_szeged-pos-DET.html">DET</a></tt> tokens (2% of all `DET` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="hu_szeged-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (115; 91%), <tt><a href="hu_szeged-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (115; 91%).
+The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="hu_szeged-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (118; 91%), <tt><a href="hu_szeged-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (115; 89%).
 
 `DET` tokens may have the following values of `Case`:
 
 * `Abl` (1; 1% of non-empty `Case`): <em>Ettől</em>
-* `Acc` (37; 29% of non-empty `Case`): <em>ezt, azt, azokat, sokat, többet, ezeket, keveset, legtöbbet, sokakat</em>
+* `Acc` (36; 28% of non-empty `Case`): <em>ezt, azt, azokat, sokat, ezeket, többet, keveset, legtöbbet, sokakat</em>
 * `All` (1; 1% of non-empty `Case`): <em>ehhez</em>
 * `Dat` (2; 2% of non-empty `Case`): <em>azoknak, sokaknak</em>
 * `Del` (1; 1% of non-empty `Case`): <em>erről</em>
@@ -196,10 +197,10 @@ The most frequent other feature values with which `DET` and `Case` co-occurred: 
 * `Ill` (2; 2% of non-empty `Case`): <em>abba, sokba</em>
 * `Ine` (13; 10% of non-empty `Case`): <em>ebben, azokban, ezekben</em>
 * `Ins` (4; 3% of non-empty `Case`): <em>azzal, azokkal, ezekkel</em>
-* `Nom` (42; 33% of non-empty `Case`): <em>ez, ilyen, e, az, olyan, ezek, Mindaz, akkora, ezen</em>
+* `Nom` (45; 35% of non-empty `Case`): <em>ez, ilyen, e, az, olyan, több, ezek, Mindaz, akkora, ezen</em>
 * `Sbl` (5; 4% of non-empty `Case`): <em>arra, ezekre</em>
 * `Sup` (8; 6% of non-empty `Case`): <em>ezen, ezeken</em>
-* `EMPTY` (5148): <em>a, az, egy, több, minden, egyik, néhány, sok, más, másik</em>
+* `EMPTY` (5150): <em>a, az, egy, több, minden, egyik, néhány, sok, más, másik</em>
 
 <table>
   <tr><th>Paradigm <i>ez</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Gen</tt></th><th><tt>Ins</tt></th><th><tt>Ine</tt></th><th><tt>Ela</tt></th><th><tt>All</tt></th><th><tt>Abl</tt></th><th><tt>Sup</tt></th><th><tt>Del</tt></th><th><tt>Sbl</tt></th></tr>

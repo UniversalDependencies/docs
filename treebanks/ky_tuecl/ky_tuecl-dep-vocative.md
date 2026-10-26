@@ -22,10 +22,10 @@ The following 1 pairs of parts of speech are connected with `vocative`: <tt><a h
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 1 vocative	color:blue
-1	Сэм	Сэм	PROPN	_	_	4	vocative	_	SpaceAfter=No
+1	Сэм	Сэм	PROPN	_	Case=Nom|Number=Sing	4	vocative	_	SpaceAfter=No
 2	,	,	PUNCT	_	_	1	punct	_	_
-3	терезени	терезе	NOUN	_	_	4	obj	_	_
-4	ач	ач	VERB	_	_	0	root	_	SpaceAfter=No
+3	терезени	терезе	NOUN	_	Case=Acc|Number=Sing	4	obj	_	_
+4	ач	ач	VERB	_	Mood=Imp|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 5	!	!	PUNCT	_	_	4	punct	_	_
 
 ~~~

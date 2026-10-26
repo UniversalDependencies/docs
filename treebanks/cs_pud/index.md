@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.1 release.
 The following people have contributed to making this treebank part of UD: Václava Kettnerová, Jan Hajič jr., Silvie Cinková, Zdeňka Urešová, Milan Straka, Jan Hajič, Jaroslava Hlaváčová, Daniel Zeman.
 
 Repository: [UD_Czech-PUD](https://github.com/UniversalDependencies/UD_Czech-PUD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udcs_pud215)<br />
-Download all treebanks: [UD 2.15](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udcs_pud218)<br />
+Download all treebanks: [UD 2.18](/#download)
 
 License: CC BY-SA 4.0
 
@@ -49,20 +49,19 @@ Universal Dependencies](http://universaldependencies.org/conll17/).
 
 
 
-There are
-1000 sentences in each language, always in the same order. (The sentence
-alignment is 1-1 but occasionally a sentence-level segment actually consists
-of two real sentences.) The sentences are taken from the news domain (sentence
-id starts in ‘n’) and from Wikipedia (sentence id starts with ‘w’). There are
-usually only a few sentences from each document, selected randomly, not
-necessarily adjacent. The digits on the second and third position in the
+There are 1000 sentences in each language, always in the same order. (The
+sentence alignment is 1-1 but occasionally a sentence-level segment actually
+consists of two real sentences.) The sentences are taken from the news domain
+(sentence id starts in ‘n’) and from Wikipedia (sentence id starts with ‘w’).
+There are usually only a few sentences from each document, selected randomly,
+not necessarily adjacent. The digits on the second and third position in the
 sentence ids encode the original language of the sentence. The first 750
 sentences are originally English (01). The remaining 250 sentences are
 originally German (02), French (03), Italian (04) or Spanish (05) and they
 were translated to other languages via English. Translation into German,
-French, Italian, Spanish, Arabic, Hindi, Chinese, Indonesian, Japanese,
-Korean, Portuguese, Russian, Thai and Turkish has been provided by DFKI and
-performed (except for German) by professional translators. Then the data has
+French, Italian, Spanish, Arabic, Hindi, Chinese, Indonesian, Japanese, Korean,
+Portuguese, Russian, Thai and Turkish has been provided by DFKI and performed
+(except for German) by professional translators. Then the data has
 been annotated morphologically and syntactically by Google according to Google
 universal annotation guidelines; finally, it has been converted by members of
 the UD community to UD v2 guidelines.
@@ -86,17 +85,17 @@ employ ten-fold cross-validation.
 
 ## Features
 
-[Abbr](cs_pud-feat-Abbr.html) – [AdpType](cs_pud-feat-AdpType.html) – [Animacy](cs_pud-feat-Animacy.html) – [Aspect](cs_pud-feat-Aspect.html) – [Case](cs_pud-feat-Case.html) – [Degree](cs_pud-feat-Degree.html) – [Foreign](cs_pud-feat-Foreign.html) – [Gender](cs_pud-feat-Gender.html) – [Gender[psor]](cs_pud-feat-Gender-psor.html) – [Hyph](cs_pud-feat-Hyph.html) – [Mood](cs_pud-feat-Mood.html) – [NameType](cs_pud-feat-NameType.html) – [Number](cs_pud-feat-Number.html) – [Number[psor]](cs_pud-feat-Number-psor.html) – [NumForm](cs_pud-feat-NumForm.html) – [NumType](cs_pud-feat-NumType.html) – [Person](cs_pud-feat-Person.html) – [Polarity](cs_pud-feat-Polarity.html) – [Poss](cs_pud-feat-Poss.html) – [PrepCase](cs_pud-feat-PrepCase.html) – [PronType](cs_pud-feat-PronType.html) – [Reflex](cs_pud-feat-Reflex.html) – [Style](cs_pud-feat-Style.html) – [Tense](cs_pud-feat-Tense.html) – [Variant](cs_pud-feat-Variant.html) – [VerbForm](cs_pud-feat-VerbForm.html) – [Voice](cs_pud-feat-Voice.html)
+[Abbr](cs_pud-feat-Abbr.html) – [AdpType](cs_pud-feat-AdpType.html) – [Animacy](cs_pud-feat-Animacy.html) – [Aspect](cs_pud-feat-Aspect.html) – [Case](cs_pud-feat-Case.html) – [Degree](cs_pud-feat-Degree.html) – [ExtPos](cs_pud-feat-ExtPos.html) – [Foreign](cs_pud-feat-Foreign.html) – [Gender](cs_pud-feat-Gender.html) – [Gender[psor]](cs_pud-feat-Gender-psor.html) – [Hyph](cs_pud-feat-Hyph.html) – [Mood](cs_pud-feat-Mood.html) – [NameType](cs_pud-feat-NameType.html) – [Number](cs_pud-feat-Number.html) – [Number[psor]](cs_pud-feat-Number-psor.html) – [NumForm](cs_pud-feat-NumForm.html) – [NumType](cs_pud-feat-NumType.html) – [Person](cs_pud-feat-Person.html) – [Polarity](cs_pud-feat-Polarity.html) – [Poss](cs_pud-feat-Poss.html) – [PrepCase](cs_pud-feat-PrepCase.html) – [PronType](cs_pud-feat-PronType.html) – [Reflex](cs_pud-feat-Reflex.html) – [Style](cs_pud-feat-Style.html) – [Tense](cs_pud-feat-Tense.html) – [Variant](cs_pud-feat-Variant.html) – [VerbForm](cs_pud-feat-VerbForm.html) – [Voice](cs_pud-feat-Voice.html)
 
 ## Relations
 
-[acl](cs_pud-dep-acl.html) – [acl:relcl](cs_pud-dep-acl-relcl.html) – [advcl](cs_pud-dep-advcl.html) – [advmod](cs_pud-dep-advmod.html) – [advmod:emph](cs_pud-dep-advmod-emph.html) – [amod](cs_pud-dep-amod.html) – [appos](cs_pud-dep-appos.html) – [aux](cs_pud-dep-aux.html) – [aux:pass](cs_pud-dep-aux-pass.html) – [case](cs_pud-dep-case.html) – [cc](cs_pud-dep-cc.html) – [ccomp](cs_pud-dep-ccomp.html) – [compound](cs_pud-dep-compound.html) – [conj](cs_pud-dep-conj.html) – [cop](cs_pud-dep-cop.html) – [csubj](cs_pud-dep-csubj.html) – [csubj:pass](cs_pud-dep-csubj-pass.html) – [det](cs_pud-dep-det.html) – [det:numgov](cs_pud-dep-det-numgov.html) – [det:nummod](cs_pud-dep-det-nummod.html) – [discourse](cs_pud-dep-discourse.html) – [expl:pass](cs_pud-dep-expl-pass.html) – [expl:pv](cs_pud-dep-expl-pv.html) – [fixed](cs_pud-dep-fixed.html) – [flat](cs_pud-dep-flat.html) – [iobj](cs_pud-dep-iobj.html) – [mark](cs_pud-dep-mark.html) – [nmod](cs_pud-dep-nmod.html) – [nsubj](cs_pud-dep-nsubj.html) – [nsubj:pass](cs_pud-dep-nsubj-pass.html) – [nummod](cs_pud-dep-nummod.html) – [nummod:gov](cs_pud-dep-nummod-gov.html) – [obj](cs_pud-dep-obj.html) – [obl](cs_pud-dep-obl.html) – [obl:agent](cs_pud-dep-obl-agent.html) – [obl:arg](cs_pud-dep-obl-arg.html) – [orphan](cs_pud-dep-orphan.html) – [parataxis](cs_pud-dep-parataxis.html) – [punct](cs_pud-dep-punct.html) – [root](cs_pud-dep-root.html) – [vocative](cs_pud-dep-vocative.html) – [xcomp](cs_pud-dep-xcomp.html)
+[acl](cs_pud-dep-acl.html) – [acl:relcl](cs_pud-dep-acl-relcl.html) – [advcl](cs_pud-dep-advcl.html) – [advcl:relcl](cs_pud-dep-advcl-relcl.html) – [advmod](cs_pud-dep-advmod.html) – [advmod:emph](cs_pud-dep-advmod-emph.html) – [amod](cs_pud-dep-amod.html) – [appos](cs_pud-dep-appos.html) – [aux](cs_pud-dep-aux.html) – [aux:pass](cs_pud-dep-aux-pass.html) – [case](cs_pud-dep-case.html) – [cc](cs_pud-dep-cc.html) – [ccomp](cs_pud-dep-ccomp.html) – [compound](cs_pud-dep-compound.html) – [conj](cs_pud-dep-conj.html) – [cop](cs_pud-dep-cop.html) – [csubj](cs_pud-dep-csubj.html) – [csubj:pass](cs_pud-dep-csubj-pass.html) – [det](cs_pud-dep-det.html) – [det:numgov](cs_pud-dep-det-numgov.html) – [det:nummod](cs_pud-dep-det-nummod.html) – [discourse](cs_pud-dep-discourse.html) – [expl:pass](cs_pud-dep-expl-pass.html) – [expl:pv](cs_pud-dep-expl-pv.html) – [fixed](cs_pud-dep-fixed.html) – [flat](cs_pud-dep-flat.html) – [iobj](cs_pud-dep-iobj.html) – [mark](cs_pud-dep-mark.html) – [nmod](cs_pud-dep-nmod.html) – [nsubj](cs_pud-dep-nsubj.html) – [nsubj:pass](cs_pud-dep-nsubj-pass.html) – [nummod](cs_pud-dep-nummod.html) – [nummod:gov](cs_pud-dep-nummod-gov.html) – [obj](cs_pud-dep-obj.html) – [obl](cs_pud-dep-obl.html) – [obl:agent](cs_pud-dep-obl-agent.html) – [obl:arg](cs_pud-dep-obl-arg.html) – [orphan](cs_pud-dep-orphan.html) – [parataxis](cs_pud-dep-parataxis.html) – [punct](cs_pud-dep-punct.html) – [root](cs_pud-dep-root.html) – [vocative](cs_pud-dep-vocative.html) – [xcomp](cs_pud-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 1000 sentences, 18565 tokens and 18610 syntactic words.</li>
+<li>This corpus contains 1000 sentences, 18564 tokens and 18609 syntactic words.</li>
 </ul>
 
 <ul>
@@ -126,7 +125,7 @@ employ ten-fold cross-validation.
 </ul>
 
 <ul>
-<li>This corpus contains 12 word types tagged as particles (PART): Bohužel, Koneckonců, asi, ať, až, jen, jenom, ne, no, ovšem, snad, vůbec</li>
+<li>This corpus contains 13 word types tagged as particles (PART): Bohužel, Koneckonců, asi, ať, až, jen, jenom, ne, no, ovšem, snad, to, vůbec</li>
 </ul>
 
 <ul>
@@ -268,7 +267,7 @@ employ ten-fold cross-validation.
     <ul>
       <li>DET: toho, tím, tohoto, n, svého, tomu, její, tom, svém, svým</li>
       <li>NUM: jedním, jednoho, jednom</li>
-      <li>PRON: ho, mu, něj, ním, něm, jím, něhož, jehož, něho, němu</li>
+      <li>PRON: ho, mu, něj, ním, něm, jím, něhož, jehož, němu</li>
     </ul>
   </li>
 </ul>
@@ -285,7 +284,7 @@ employ ten-fold cross-validation.
       <li>NUM: jedno</li>
       <li>PRON: je</li>
       <li>PROPN: CNN, Mongolsko, Německo, Řecko, Brisbane, Mexiko, Nizozemí, Norsku, Ontaria, Rusku</li>
-      <li>VERB-Part: mohlo, mělo, začalo, došlo, konalo, podařilo, poskytovalo, vedlo, vyšlo, způsobilo</li>
+      <li>VERB-Part: mělo, začalo, došlo, mohlo, konalo, podařilo, poskytovalo, vedlo, vyšlo, způsobilo</li>
     </ul>
   </li>
 </ul>
@@ -313,7 +312,7 @@ employ ten-fold cross-validation.
   <li>Inan
     <ul>
       <li>ADJ: Spojených, nové, další, nový, první, vládní, dalších, dalším, hlavní, nejvyšší</li>
-      <li>ADJ-Part: Spojených, Spojené, Spojeným, považovány, Konzultované, Vynucený, agregované, aktivovány, budovány, chráněný</li>
+      <li>ADJ-Part: Spojených, Spojené, Spojeným, považovány, Konzultované, Vynucený, agregované, aktivovány, budoucího, budovány</li>
       <li>AUX-Part: byly, nebyly</li>
       <li>DET: které, svůj, který, každý, tento, tyto, ty, její, naše, náš</li>
       <li>NOUN: roce, roku, l, rok, případě, dolarů, důsledku, film, den, stát</li>
@@ -375,13 +374,13 @@ employ ten-fold cross-validation.
       <li>ADJ: první, druhé, jižní, severní, další, hlavní, velká, větší, nové, velké</li>
       <li>ADJ-Part: řečeno, propuštěn, nabídnuto, následující, otevřenou, otevřená, označen, používán, považováno, probíhající</li>
       <li>AUX-Fin: je, bude, jsem, není, nebude, budu, bych, bývá, nebudu</li>
-      <li>AUX-Part: byl, bylo, nebyl, nebylo, byla</li>
+      <li>AUX-Part: byl, bylo, nebyl, byla, nebylo</li>
       <li>CCONJ: i</li>
       <li>DET: to, který, která, toho, tím, její, tento, tohoto, své, toto</li>
       <li>NOUN: roce, roku, století, době, oblasti, l, moře, války, území, místo</li>
       <li>NOUN-Vnoun: omezení, rozhodnutí, chování, oddělení, hlasování, jednání, oblečení, umění, uznání, učení</li>
       <li>NUM: jedné, jeden, deset, jedna, jedním, jedno, jednoho, jednu, šest, devět</li>
-      <li>PRON: ho, ní, jí, mu, mě, ji, něj, ním, jenž, níž</li>
+      <li>PRON: ho, ní, jí, mu, mě, něj, ji, ním, jenž, níž</li>
       <li>PROPN: Čína, Francie, Albánie, Británii, Clintonové, Evropě, Itálii, Trump, Trumpa, Ameriky</li>
       <li>VERB-Conv: Počínaje, redukujíc</li>
       <li>VERB-Fin: má, může, říká, lze, obsahuje, pomáhá, ukazuje, nelze, stojí, zdá</li>
@@ -400,7 +399,7 @@ employ ten-fold cross-validation.
       <li>ADJ: další, první, vlastní, jiné, novou, nové, hlavní, dlouhé, druhou, nový</li>
       <li>ADJ-Part: sestávající, vytvořenou, agregované, danou, dané, hanobící, inspirovaná, kreslené, napsané, neomezený</li>
       <li>ADP: na, pro, za, o, v, po, mimo, přes, ve, mezi</li>
-      <li>DET: to, své, svůj, svou, které, několik, který, kterou, mnoho, toto</li>
+      <li>DET: své, to, svůj, svou, které, několik, který, kterou, mnoho, toto</li>
       <li>NOUN: místo, den, rok, část, roky, většinu, dluhopisy, lidi, možnost, měsíc</li>
       <li>NOUN-Vnoun: rozhodnutí, jednání, opatření, použití, tažení, zranění, brnění, cestování, chování, dobytí</li>
       <li>NUM: dva, deset, dvě, čtyři, tři, jedno, jednu, šest, osm, jeden</li>
@@ -430,7 +429,7 @@ employ ten-fold cross-validation.
   <li>Gen
     <ul>
       <li>ADJ: jiných, nových, prvního, Spojených, amerického, dalších, druhé, nové, první, různých</li>
-      <li>ADJ-Part: Spojených, kvalifikovaných, studujících, dobytých, dospívající, dospívajícího, konané, konvertovaných, namířených, naneseného</li>
+      <li>ADJ-Part: Spojených, kvalifikovaných, studujících, budoucího, dobytých, dospívající, dospívajícího, konané, konvertovaných, namířených</li>
       <li>ADP: z, do, od, ze, během, podle, u, kolem, bez, kromě</li>
       <li>DET: toho, tohoto, svého, svých, těchto, své, mnoha, té, všech, jejích</li>
       <li>NOUN: roku, let, století, války, lidí, dolarů, společnosti, doby, eur, liber</li>
@@ -620,7 +619,7 @@ employ ten-fold cross-validation.
 <ul>
   <li>Imp
     <ul>
-      <li>ADJ-Part: vedoucí, následující, používán, považováno, považovány, probíhající, sestávající, studujících, aktivovány, budovány</li>
+      <li>ADJ-Part: vedoucí, následující, používán, považováno, považovány, probíhající, sestávající, studujících, aktivovány, budoucího</li>
       <li>AUX-Fin: je, by, jsou, bude, jsem, není, jsme, budou, nebude, budeme</li>
       <li>AUX-Inf: být</li>
       <li>AUX-Part: byl, bylo, byla, byly, byli, nebyly, nebyla, nebyl, nebylo</li>
@@ -636,7 +635,7 @@ employ ten-fold cross-validation.
 <ul>
   <li>Perf
     <ul>
-      <li>ADJ-Part: nabídnuto, označen, prodán, rozděleno, vytvořen, vytvořena, založena, zamítnuto, zvolen, dovoleno</li>
+      <li>ADJ-Part: nabídnuto, označen, prodán, rozděleno, vytvořen, vytvořena, založena, zamítnuto, dovoleno, namontován</li>
       <li>VERB-Conv: redukujíc</li>
       <li>VERB-Fin: Polož, Skončíte, Zhodnotíme, koupím, naučí, navrhnu, navštíví, nedovolí, neobjeví, nerozvodní</li>
       <li>VERB-Inf: opustit, získat, udělat, vytvořit, zrušit, naučit, odhalit, překročit, vrátit, zajistit</li>
@@ -681,6 +680,7 @@ employ ten-fold cross-validation.
 <ul>
   <li>Fut
     <ul>
+      <li>ADJ-Part: budoucího</li>
       <li>AUX-Fin: bude, budou, nebude, budeme, budu, nebudou, nebudu</li>
       <li>VERB-Fin: půjde, neporoste, povede</li>
     </ul>
@@ -716,7 +716,7 @@ employ ten-fold cross-validation.
 <ul>
   <li>Act
     <ul>
-      <li>ADJ-Part: vedoucí, následující, probíhající, sestávající, studujících, dosluhující, dospívající, dospívajícího, dívající, hanobící</li>
+      <li>ADJ-Part: vedoucí, následující, probíhající, sestávající, studujících, budoucího, dosluhující, dospívající, dospívajícího, dívající</li>
       <li>AUX-Fin: je, jsou, bude, jsem, není, jsme, budou, nebude, budeme, budu</li>
       <li>AUX-Part: byl, bylo, byla, byly, byli, nebyly, nebyla, nebyl, nebylo</li>
       <li>NOUN-Part: vedoucích</li>
@@ -747,7 +747,7 @@ employ ten-fold cross-validation.
 <ul>
   <li>Dem
     <ul>
-      <li>ADV: tak, tam, teď, nyní, tentokrát, to, tu, zde, dosud, tady</li>
+      <li>ADV: tak, tam, teď, nyní, tentokrát, tu, zde, dosud, tady, tehdy</li>
       <li>DET: to, toho, tím, tento, tohoto, toto, této, tomu, tyto, tato</li>
     </ul>
   </li>
@@ -765,7 +765,7 @@ employ ten-fold cross-validation.
   <li>Ind
     <ul>
       <li>ADV: někdy, kdykoli, málokdy, několikrát, mnohokrát</li>
-      <li>DET: mnoho, několik, mnoha, někteří, některé, některých, několika, některá, jakoukoli, jakoukoliv</li>
+      <li>DET: mnoho, několik, více, mnoha, někteří, některé, některých, víc, několika, některá</li>
       <li>PRON: něco, někdo, kdokoli, kdokoliv, někoho, něčem, něčemu, něčím</li>
     </ul>
   </li>
@@ -776,7 +776,7 @@ employ ten-fold cross-validation.
     <ul>
       <li>ADV: jak, kde, kdy, proč, odkud, kam</li>
       <li>DET: který, které, která, kteří, kterou, kterého, kterém, kterých, jaké, jakým</li>
-      <li>PRON: co, kdo, koho, čím</li>
+      <li>PRON: co, kdo, koho</li>
     </ul>
   </li>
 </ul>
@@ -795,7 +795,7 @@ employ ten-fold cross-validation.
   <li>Prs
     <ul>
       <li>DET: jeho, jejich, své, její, n, svou, svého, svůj, svých, svým</li>
-      <li>PRON: se, si, ho, nich, ní, jí, mu, mě, ji, něj</li>
+      <li>PRON: se, si, ho, nich, ní, jí, mu, mě, něj, ji</li>
     </ul>
   </li>
 </ul>
@@ -915,7 +915,7 @@ employ ten-fold cross-validation.
     <ul>
       <li>AUX-Fin: je, jsou, bude, není, budou, nebude, nebudou, nejsou, bývají, bývá</li>
       <li>DET: jeho, jejich, její, jejichž, jejím, jehož, jejích, jejího, jejíž</li>
-      <li>PRON: ho, nich, ní, jí, mu, ji, něj, jim, ním, je</li>
+      <li>PRON: ho, nich, ní, jí, mu, něj, ji, jim, ním, je</li>
       <li>VERB-Fin: má, může, říká, mohou, mají, lze, obsahuje, pomáhá, ukazuje, existují</li>
     </ul>
   </li>
@@ -1007,6 +1007,35 @@ employ ten-fold cross-validation.
       <li>Voc
         <ul>
           <li>ADP: ve, ze, se, ke, skrze, za</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>ExtPos</a>
+    <ul>
+      <li>ADP
+        <ul>
+          <li>ADP: v, na, vzhledem, s, ve, bez, z</li>
+          <li>ADV: spolu, společně</li>
+        </ul>
+      </li>
+      <li>ADV
+        <ul>
+          <li>ADP: mimo</li>
+          <li>ADV: více, víc, stejně</li>
+        </ul>
+      </li>
+      <li>CCONJ
+        <ul>
+          <li>CCONJ: a</li>
+        </ul>
+      </li>
+      <li>SCONJ
+        <ul>
+          <li>CCONJ: i</li>
         </ul>
       </li>
     </ul>
@@ -1261,7 +1290,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 12 relation subtypes: <a>acl:relcl</a>, <a>advmod:emph</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>det:numgov</a>, <a>det:nummod</a>, <a>expl:pass</a>, <a>expl:pv</a>, <a>nsubj:pass</a>, <a>nummod:gov</a>, <a>obl:agent</a>, <a>obl:arg</a></li>
+<li>This corpus uses 13 relation subtypes: <a>acl:relcl</a>, <a>advcl:relcl</a>, <a>advmod:emph</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>det:numgov</a>, <a>det:nummod</a>, <a>expl:pass</a>, <a>expl:pv</a>, <a>nsubj:pass</a>, <a>nummod:gov</a>, <a>obl:agent</a>, <a>obl:arg</a></li>
 <li>The following 1 main types are not used alone, they are always subtyped: <a>expl</a></li>
 <li>The following 6 relation types are not used in this corpus at all: <a>dislocated</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
 </ul>

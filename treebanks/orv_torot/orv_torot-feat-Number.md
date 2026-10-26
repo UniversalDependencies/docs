@@ -12,7 +12,7 @@ It occurs with 3 different values: `Dual`, `Plur`, `Sing`.
 159293 tokens (65%) have a non-empty value of `Number`.
 50283 types (94%) occur at least once with a non-empty value of `Number`.
 12158 lemmas (90%) occur at least once with a non-empty value of `Number`.
-The feature is used with 8 part-of-speech tags: <tt><a href="orv_torot-pos-NOUN.html">NOUN</a></tt> (53587; 22% instances), <tt><a href="orv_torot-pos-VERB.html">VERB</a></tt> (35595; 14% instances), <tt><a href="orv_torot-pos-PRON.html">PRON</a></tt> (24105; 10% instances), <tt><a href="orv_torot-pos-ADJ.html">ADJ</a></tt> (17956; 7% instances), <tt><a href="orv_torot-pos-PROPN.html">PROPN</a></tt> (12924; 5% instances), <tt><a href="orv_torot-pos-DET.html">DET</a></tt> (8708; 4% instances), <tt><a href="orv_torot-pos-AUX.html">AUX</a></tt> (5107; 2% instances), <tt><a href="orv_torot-pos-NUM.html">NUM</a></tt> (1311; 1% instances).
+The feature is used with 8 part-of-speech tags: <tt><a href="orv_torot-pos-NOUN.html">NOUN</a></tt> (53587; 22% instances), <tt><a href="orv_torot-pos-VERB.html">VERB</a></tt> (35595; 14% instances), <tt><a href="orv_torot-pos-PRON.html">PRON</a></tt> (24104; 10% instances), <tt><a href="orv_torot-pos-ADJ.html">ADJ</a></tt> (17956; 7% instances), <tt><a href="orv_torot-pos-PROPN.html">PROPN</a></tt> (12924; 5% instances), <tt><a href="orv_torot-pos-DET.html">DET</a></tt> (8709; 4% instances), <tt><a href="orv_torot-pos-AUX.html">AUX</a></tt> (5107; 2% instances), <tt><a href="orv_torot-pos-NUM.html">NUM</a></tt> (1311; 1% instances).
 
 ### `NOUN`
 
@@ -93,15 +93,15 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 ### `PRON`
 
-24105 <tt><a href="orv_torot-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Number`.
+24104 <tt><a href="orv_torot-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="orv_torot-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (18328; 76%), <tt><a href="orv_torot-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (16475; 68%), <tt><a href="orv_torot-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (14049; 58%), <tt><a href="orv_torot-feat-Person.html">Person</a></tt><tt>=3</tt> (12294; 51%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="orv_torot-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (18327; 76%), <tt><a href="orv_torot-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (16475; 68%), <tt><a href="orv_torot-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (14049; 58%), <tt><a href="orv_torot-feat-Person.html">Person</a></tt><tt>=3</tt> (12294; 51%).
 
 `PRON` tokens may have the following values of `Number`:
 
 * `Dual` (245; 1% of non-empty `Number`): <em>има, ею, ваю, нима, наю, нама, я, ѡна, вѣ, ѥю</em>
 * `Plur` (4985; 21% of non-empty `Number`): <em>ихъ, имъ, их, мы, намъ, вы, нас, ны, них, ѡни</em>
-* `Sing` (18875; 78% of non-empty `Number`): <em>сѧ, его, ѥго, и, ся, что, ѥму, то, мнѣ, сꙗ</em>
+* `Sing` (18874; 78% of non-empty `Number`): <em>сѧ, его, ѥго, и, ся, что, ѥму, то, мнѣ, сꙗ</em>
 * `EMPTY` (46): <em>елико, ѥлико, ели, колико, ѿколе</em>
 
 <table>
@@ -197,15 +197,15 @@ The most frequent other feature values with which `PROPN` and `Number` co-occurr
 
 ### `DET`
 
-8708 <tt><a href="orv_torot-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Number`.
+8709 <tt><a href="orv_torot-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="orv_torot-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (6501; 75%), <tt><a href="orv_torot-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (4602; 53%), <tt><a href="orv_torot-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (4602; 53%).
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="orv_torot-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (6502; 75%), <tt><a href="orv_torot-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (4603; 53%), <tt><a href="orv_torot-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (4603; 53%).
 
 `DET` tokens may have the following values of `Number`:
 
 * `Dual` (153; 2% of non-empty `Number`): <em>своима, свои, своею, мои, своꙗ, моима, наши, своѧ, твоею, твои</em>
 * `Plur` (2334; 27% of non-empty `Number`): <em>всѧ, вси, своими, своихъ, всѣхъ, своя, своих, тѣхъ, всѣ, всѣми</em>
-* `Sing` (6221; 71% of non-empty `Number`): <em>свою, своѥго, то, свои, сего, своего, мои, того, тож҃, все</em>
+* `Sing` (6222; 71% of non-empty `Number`): <em>свою, своѥго, то, свои, сего, своего, мои, того, тож҃, все</em>
 * `EMPTY` (2): <em>от, отъ</em>
 
 <table>
@@ -359,13 +359,13 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="orv_torot-dep-amod.html">amod</a></tt>]--> ADJ</tt> (10979; 99%),
-<tt>NOUN --[<tt><a href="orv_torot-dep-det.html">det</a></tt>]--> DET</tt> (7903; 99%),
-<tt>VERB --[<tt><a href="orv_torot-dep-obl.html">obl</a></tt>]--> NOUN</tt> (7605; 54%),
+<tt>NOUN --[<tt><a href="orv_torot-dep-amod.html">amod</a></tt>]--> ADJ</tt> (10980; 99%),
+<tt>NOUN --[<tt><a href="orv_torot-dep-det.html">det</a></tt>]--> DET</tt> (7890; 99%),
+<tt>VERB --[<tt><a href="orv_torot-dep-obl.html">obl</a></tt>]--> NOUN</tt> (7608; 54%),
 <tt>VERB --[<tt><a href="orv_torot-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (5476; 90%),
 <tt>VERB --[<tt><a href="orv_torot-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (4762; 76%),
 <tt>NOUN --[<tt><a href="orv_torot-dep-conj.html">conj</a></tt>]--> NOUN</tt> (4467; 78%),
-<tt>VERB --[<tt><a href="orv_torot-dep-conj.html">conj</a></tt>]--> VERB</tt> (3774; 90%),
+<tt>VERB --[<tt><a href="orv_torot-dep-conj.html">conj</a></tt>]--> VERB</tt> (3775; 90%),
 <tt>VERB --[<tt><a href="orv_torot-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (3151; 90%),
 <tt>VERB --[<tt><a href="orv_torot-dep-expl-pv.html">expl:pv</a></tt>]--> PRON</tt> (2893; 58%),
 <tt>VERB --[<tt><a href="orv_torot-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (2402; 92%).

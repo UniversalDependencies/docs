@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-15 nodes (1%) are attached to their parents as `aux`.
+25 nodes (1%) are attached to their parents as `aux`.
 
-15 instances of `aux` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.
+25 instances of `aux` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.04.
 
-The following 2 pairs of parts of speech are connected with `aux`: <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-AUX.html">AUX</a></tt> (14; 93% instances), <tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pay_chibergis-pos-AUX.html">AUX</a></tt> (1; 7% instances).
+The following 3 pairs of parts of speech are connected with `aux`: <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-AUX.html">AUX</a></tt> (23; 92% instances), <tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pay_chibergis-pos-AUX.html">AUX</a></tt> (1; 4% instances), <tt><a href="pay_chibergis-pos-X.html">X</a></tt>-<tt><a href="pay_chibergis-pos-AUX.html">AUX</a></tt> (1; 4% instances).
 
 
 ~~~ conllu
@@ -47,11 +47,27 @@ The following 2 pairs of parts of speech are connected with `aux`: <tt><a href="
 7	=ma	=ma	PART	_	_	6	case	_	AlignBegin=173585|AlignEnd=174064|Gloss==TOP|MGloss==TOP|MSeg==ma|nWord=7|RX=[PRT]|TokenType=Clit|Word=ma
 8	tʃawa	tʃa	VERB	_	_	2	csubj	_	AlignBegin=174064|AlignEnd=174543|Gloss=be.there|MGloss=be.there -S3SG -PFV|MSeg=tʃa-Ø-wa|nWord=8|RX=[VI]|TokenType=Root|Word=tʃu|wordform=tʃa-Ø-wa
 9	=na	=na	PART	_	_	2	mark	_	AlignBegin=174543|AlignEnd=175022|Gloss==REP|MGloss==REP|MSeg==na|nWord=9|RX=[PRT]|TokenType=Clit|Word=na
-10	tewataʔ	tewataʔ	ADV	_	_	8	advmod	_	AlignBegin=175022|AlignEnd=175501|Gloss=still|MGloss=still|MSeg=tewataʔ|nWord=10|RX=[ADV]|TokenType=Root|Word=tewataʔ
+10	tewataʔ	tewataʔ	ADV	_	_	8	obl:tmod	_	AlignBegin=175022|AlignEnd=175501|Gloss=still|MGloss=still|MSeg=tewataʔ|nWord=10|RX=[ADV]|TokenType=Root|Word=tewataʔ
 11	toʔ	toʔ	PRON	_	_	12	det	_	AlignBegin=175501|AlignEnd=175980|Gloss=MED.DEM|MGloss=MED.DEM|MSeg=toʔ|nWord=11|RX=[PRO]|TokenType=Root|Word=toʔ
 12	akawa	kawa	NOUN	_	_	13	orphan	_	AlignBegin=175980|AlignEnd=176459|Gloss=spouse|MGloss=POSS3SG- spouse|MSeg=a-kawa|nWord=12|RX=[N]|TokenType=Root|Word=akawa|wordform=a-kawa
 13	=na	=na	PART	_	_	2	parataxis	_	AlignBegin=176459|AlignEnd=176938|Gloss==REP|MGloss==REP|MSeg==na|nWord=13|RX=[PRT]|TokenType=Clit|Word=na
 14	.	_	PUNCT	_	_	13	punct	_	AlignBegin=176938|AlignEnd=177411|Gloss=.|MGloss=.|MSeg=.|nWord=14|Word=.
+
+~~~
+
+
+~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 5 aux	color:blue
+1	ateʃ	ateʃ	ADV	_	_	3	advmod	_	AlignBegin=164790|AlignEnd=165315|Gloss=further|MGloss=further|MSeg=ateʃ|nWord=1|RX=[ADV]|TokenType=Root
+2	teʃ	teʃ	VERB	_	_	1	advcl	_	AlignBegin=165315|AlignEnd=165840|Gloss=get.away|MGloss=get.away|MSeg=teʃ|nWord=2|RX=[VI]|TokenType=Root
+3	teʔx	teʔx	X	_	_	0	root	_	AlignBegin=165840|AlignEnd=166365|MSeg=teʔx|nWord=3
+4	teʔ	teʔ	VERB	_	_	3	reparandum	_	AlignBegin=166365|AlignEnd=166470|Gloss=come|MGloss=come|MSeg=teʔ|nWord=4|RX=[VI]|TokenType=Root
+5	aʔkiwã	ak	AUX	_	_	3	aux	_	AlignBegin=166470|AlignEnd=166890|Gloss=be.in.state|MGloss=be.in.state -S3SG -PST -PFV|MSeg=aʔk-Ø-i-wã|nWord=4|RX=[VI]|TokenType=Root|wordform=aʔk-Ø-i-wã
+6	.	_	PUNCT	_	_	3	punct	_	AlignBegin=166890|AlignEnd=167415|Gloss=.|MGloss=.|MSeg=.|nWord=5|TokenType=Root
 
 ~~~
 

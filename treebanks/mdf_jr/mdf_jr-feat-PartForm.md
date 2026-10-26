@@ -9,20 +9,20 @@ udver: '2'
 This feature is language-specific.
 It occurs with 2 different values: `NegConvPrc`, `Past`.
 
-13 tokens (0%) have a non-empty value of `PartForm`.
-10 types (0%) occur at least once with a non-empty value of `PartForm`.
-8 lemmas (1%) occur at least once with a non-empty value of `PartForm`.
-The feature is used with 2 part-of-speech tags: <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (9; 0% instances), <tt><a href="mdf_jr-pos-AUX.html">AUX</a></tt> (4; 0% instances).
+14 tokens (0%) have a non-empty value of `PartForm`.
+11 types (0%) occur at least once with a non-empty value of `PartForm`.
+9 lemmas (1%) occur at least once with a non-empty value of `PartForm`.
+The feature is used with 2 part-of-speech tags: <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (10; 0% instances), <tt><a href="mdf_jr-pos-AUX.html">AUX</a></tt> (4; 0% instances).
 
 ### `VERB`
 
-9 <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> tokens (1% of all `VERB` tokens) have a non-empty value of `PartForm`.
+10 <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> tokens (1% of all `VERB` tokens) have a non-empty value of `PartForm`.
 
-The most frequent other feature values with which `VERB` and `PartForm` co-occurred: <tt><a href="mdf_jr-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (9; 100%), <tt><a href="mdf_jr-feat-Number-obj.html">Number[obj]</a></tt><tt>=EMPTY</tt> (9; 100%), <tt><a href="mdf_jr-feat-Person-obj.html">Person[obj]</a></tt><tt>=EMPTY</tt> (9; 100%), <tt><a href="mdf_jr-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (9; 100%), <tt><a href="mdf_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=EMPTY</tt> (5; 56%), <tt><a href="mdf_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=EMPTY</tt> (5; 56%), <tt><a href="mdf_jr-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (5; 56%).
+The most frequent other feature values with which `VERB` and `PartForm` co-occurred: <tt><a href="mdf_jr-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (10; 100%), <tt><a href="mdf_jr-feat-Number-obj.html">Number[obj]</a></tt><tt>=EMPTY</tt> (10; 100%), <tt><a href="mdf_jr-feat-Person-obj.html">Person[obj]</a></tt><tt>=EMPTY</tt> (10; 100%), <tt><a href="mdf_jr-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (10; 100%), <tt><a href="mdf_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=EMPTY</tt> (6; 60%), <tt><a href="mdf_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=EMPTY</tt> (6; 60%), <tt><a href="mdf_jr-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (6; 60%).
 
 `VERB` tokens may have the following values of `PartForm`:
 
-* `Past` (9; 100% of non-empty `PartForm`): <em>мяляфтан, Кундафнень, мяляфтат, праф, сафат, сюдофокс, эцеф, юкстафокс</em>
+* `Past` (10; 100% of non-empty `PartForm`): <em>мяляфтан, Кундафнень, мяляфтат, праф, сафат, сюдофокс, эряфть, эцеф, юкстафокс</em>
 
 ### `AUX`
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-350 nodes (4%) are attached to their parents as `aux`.
+349 nodes (4%) are attached to their parents as `aux`.
 
-333 instances of `aux` (95%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.50571428571429.
+332 instances of `aux` (95%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.50429799426934.
 
-The following 6 pairs of parts of speech are connected with `aux`: <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-AUX.html">AUX</a></tt> (331; 95% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-AUX.html">AUX</a></tt> (7; 2% instances), <tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yo_ytb-pos-AUX.html">AUX</a></tt> (5; 1% instances), <tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt>-<tt><a href="yo_ytb-pos-AUX.html">AUX</a></tt> (3; 1% instances), <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt>-<tt><a href="yo_ytb-pos-AUX.html">AUX</a></tt> (3; 1% instances), <tt><a href="yo_ytb-pos-PART.html">PART</a></tt>-<tt><a href="yo_ytb-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 6 pairs of parts of speech are connected with `aux`: <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-AUX.html">AUX</a></tt> (330; 95% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-AUX.html">AUX</a></tt> (7; 2% instances), <tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yo_ytb-pos-AUX.html">AUX</a></tt> (5; 1% instances), <tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt>-<tt><a href="yo_ytb-pos-AUX.html">AUX</a></tt> (3; 1% instances), <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt>-<tt><a href="yo_ytb-pos-AUX.html">AUX</a></tt> (3; 1% instances), <tt><a href="yo_ytb-pos-PART.html">PART</a></tt>-<tt><a href="yo_ytb-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

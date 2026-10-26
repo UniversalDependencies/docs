@@ -23,7 +23,7 @@ The most frequent other feature values with which `NOUN` and `Polite` co-occurre
 `NOUN` tokens may have the following values of `Polite`:
 
 * `Depr` (12; 100% of non-empty `Polite`): <em>chłopaki, nastolatki, Chłopy, Kamraty, Wykształciuchy, goście, niedobitki, zombie, łajzy</em>
-* `EMPTY` (88622): <em>mężczyzna, roku, pan, kobieta, lat, r, człowiek, pracy, chłopiec, osób</em>
+* `EMPTY` (88605): <em>mężczyzna, roku, pan, kobieta, lat, r, człowiek, pracy, chłopiec, osób</em>
 
 ### `PROPN`
 
@@ -34,5 +34,5 @@ The most frequent other feature values with which `PROPN` and `Polite` co-occurr
 `PROPN` tokens may have the following values of `Polite`:
 
 * `Depr` (2; 100% of non-empty `Polite`): <em>Jerze, VIP-y</em>
-* `EMPTY` (11998): <em>Polsce, Polski, UE, Europy, Andrzej, Polska, Europie, Warszawie, Jerzy, SLD</em>
+* `EMPTY` (11954): <em>Polsce, Polski, UE, Europy, Andrzej, Polska, Europie, Warszawie, Jerzy, SLD</em>
 

@@ -36,13 +36,13 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 ## Relations with Agreement in `Mood`
 
 The 10 most frequent relations where parent and child node agree in `Mood`:
-<tt>VERB --[<tt><a href="am_att-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (216; 88%),
+<tt>VERB --[<tt><a href="am_att-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (217; 88%),
 <tt>VERB --[<tt><a href="am_att-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (73; 97%),
 <tt>VERB --[<tt><a href="am_att-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (54; 92%),
 <tt>VERB --[<tt><a href="am_att-dep-conj.html">conj</a></tt>]--> VERB</tt> (23; 92%),
 <tt>VERB --[<tt><a href="am_att-dep-compound.html">compound</a></tt>]--> VERB</tt> (17; 100%),
-<tt>VERB --[<tt><a href="am_att-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (4; 67%),
 <tt>VERB --[<tt><a href="am_att-dep-acl.html">acl</a></tt>]--> VERB</tt> (3; 75%),
+<tt>VERB --[<tt><a href="am_att-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (3; 60%),
 <tt>VERB --[<tt><a href="am_att-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (3; 75%),
 <tt>VERB --[<tt><a href="am_att-dep-discourse.html">discourse</a></tt>]--> VERB</tt> (2; 100%),
 <tt>VERB --[<tt><a href="am_att-dep-obl.html">obl</a></tt>]--> VERB</tt> (2; 100%).

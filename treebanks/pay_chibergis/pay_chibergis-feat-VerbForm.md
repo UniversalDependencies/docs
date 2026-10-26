@@ -18,10 +18,10 @@ The feature is used with 1 part-of-speech tags: <tt><a href="pay_chibergis-pos-V
 
 1 <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="pay_chibergis-feat-Voice.html">Voice</a></tt><tt>=Appl</tt> (1; 100%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="pay_chibergis-feat-Clusivity.html">Clusivity</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="pay_chibergis-feat-Voice.html">Voice</a></tt><tt>=Appl</tt> (1; 100%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
 * `Inf` (1; 100% of non-empty `VerbForm`): <em>artʃuiʃ</em>
-* `EMPTY` (565): <em>tVki, tVerwa, artʃuiʃkari, nãi, nã, nẽerwa, teʔ, taõʃi, nẽ, peʔkawa</em>
+* `EMPTY` (955): <em>tVki, teʔ, tVerwa, tVktaiiwã, nã, nẽ, nãi, artʃuiʃkari, taõʃi, nẽerwa</em>
 

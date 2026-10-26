@@ -23,14 +23,14 @@ The following 66 pairs of parts of speech are connected with `advcl`: <tt><a hre
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 5 advcl	color:blue
-1	nolite	nolo	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_5.17
-2	putare	puto	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	1	xcomp	_	ref=MATT_5.17
-3	quoniam	quoniam	SCONJ	G-	_	4	mark	_	ref=MATT_5.17
-4	veni	venio	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	2	ccomp	_	ref=MATT_5.17
-5	solvere	solvo	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	4	advcl	_	ref=MATT_5.17
-6	legem	lex	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	5	obj	_	ref=MATT_5.17
-7	aut	aut	CCONJ	C-	_	8	cc	_	ref=MATT_5.17
-8	prophetas	propheta	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	6	conj	_	ref=MATT_5.17
+1	nolite	nolo	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_5.17
+2	putare	puto	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	1	xcomp	_	Ref=MATT_5.17
+3	quoniam	quoniam	SCONJ	G-	_	4	mark	_	Ref=MATT_5.17
+4	veni	venio	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	2	ccomp	_	Ref=MATT_5.17
+5	solvere	solvo	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	4	advcl	_	Ref=MATT_5.17
+6	legem	lex	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	5	obj	_	Ref=MATT_5.17
+7	aut	aut	CCONJ	C-	_	8	cc	_	Ref=MATT_5.17
+8	prophetas	propheta	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	6	conj	_	Ref=MATT_5.17
 
 ~~~
 
@@ -41,13 +41,13 @@ The following 66 pairs of parts of speech are connected with `advcl`: <tt><a hre
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 advcl	color:blue
-1	ut	ut	ADV	Dq	PronType=Rel	2	advcl	_	ref=LUKE_5.4
-2	cessavit	cesso	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	advcl	_	ref=LUKE_5.4
-3	autem	autem	ADV	Df	_	5	discourse	_	ref=LUKE_5.4
-4	loqui	loquor	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Pass	2	xcomp	_	ref=LUKE_5.4
-5	dixit	dico	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=LUKE_5.4
-6	ad	ad	ADP	R-	_	7	case	_	ref=LUKE_5.4
-7	Simonem	Simon	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	5	obl	_	ref=LUKE_5.4
+1	ut	ut	ADV	Dq	PronType=Rel	2	advcl	_	Ref=LUKE_5.4
+2	cessavit	cesso	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	advcl	_	Ref=LUKE_5.4
+3	autem	autem	ADV	Df	_	5	discourse	_	Ref=LUKE_5.4
+4	loqui	loquor	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Pass	2	xcomp	_	Ref=LUKE_5.4
+5	dixit	dico	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=LUKE_5.4
+6	ad	ad	ADP	R-	_	7	case	_	Ref=LUKE_5.4
+7	Simonem	Simon	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	5	obl	_	Ref=LUKE_5.4
 
 ~~~
 
@@ -58,15 +58,15 @@ The following 66 pairs of parts of speech are connected with `advcl`: <tt><a hre
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 8 advcl	color:blue
-1	et	et	CCONJ	C-	_	3	cc	_	ref=ACTS_6.10
-2	non	non	ADV	Df	Polarity=Neg	3	advmod	_	ref=ACTS_6.10
-3	poterant	possum	VERB	V-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=ACTS_6.10
-4	resistere	resisto	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	3	xcomp	_	ref=ACTS_6.10
-5	sapientiae	sapientia	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	4	obl:arg	_	ref=ACTS_6.10
-6	et	et	CCONJ	C-	_	7	cc	_	ref=ACTS_6.10
-7	Spiritui	spiritus	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	5	conj	_	ref=ACTS_6.10
-8	quo	qui	PRON	Pr	Case=Dat|Gender=Masc|Number=Sing|PronType=Rel	9	advcl	_	ref=ACTS_6.10
-9	loquebatur	loquor	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	7	acl	_	ref=ACTS_6.10
+1	et	et	CCONJ	C-	_	3	cc	_	Ref=ACTS_6.10
+2	non	non	ADV	Df	Polarity=Neg	3	advmod	_	Ref=ACTS_6.10
+3	poterant	possum	VERB	V-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=ACTS_6.10
+4	resistere	resisto	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	3	xcomp	_	Ref=ACTS_6.10
+5	sapientiae	sapientia	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	4	obl:arg	_	Ref=ACTS_6.10
+6	et	et	CCONJ	C-	_	7	cc	_	Ref=ACTS_6.10
+7	Spiritui	spiritus	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	5	conj	_	Ref=ACTS_6.10
+8	quo	qui	PRON	Pr	Case=Dat|Gender=Masc|Number=Sing|PronType=Rel	9	advcl	_	Ref=ACTS_6.10
+9	loquebatur	loquor	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	7	acl	_	Ref=ACTS_6.10
 
 ~~~
 

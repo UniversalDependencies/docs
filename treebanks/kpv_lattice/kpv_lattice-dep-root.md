@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-663 nodes (8%) are attached to their parents as `root`.
+673 nodes (8%) are attached to their parents as `root`.
 
-663 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.64102564102564.
+673 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.67161961367013.
 
-The following 8 pairs of parts of speech are connected with `root`: -<tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (521; 79% instances), -<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (54; 8% instances), -<tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt> (51; 8% instances), -<tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> (23; 3% instances), -<tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> (8; 1% instances), -<tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> (3; 0% instances), -<tt><a href="kpv_lattice-pos-INTJ.html">INTJ</a></tt> (2; 0% instances), -<tt><a href="kpv_lattice-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `root`: -<tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (527; 78% instances), -<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (58; 9% instances), -<tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt> (51; 8% instances), -<tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> (23; 3% instances), -<tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> (8; 1% instances), -<tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> (3; 0% instances), -<tt><a href="kpv_lattice-pos-INTJ.html">INTJ</a></tt> (2; 0% instances), -<tt><a href="kpv_lattice-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -24,11 +24,11 @@ The following 8 pairs of parts of speech are connected with `root`: -<tt><a href
 # visual-style 0 3 root	color:blue
 1	Бур	бур	ADJ	A	Case=Nom|Number=Sing	2	amod	_	_
 2	урожай	урожай	NOUN	N	Case=Nom|Number=Sing	3	nsubj	_	OrigLang=ru
-3	воис	воны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
-4	таво	таво	ADV	Adv	_	3	advmod:tmod	_	_
+3	воис	воны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	таво	таво	ADV	Adv	_	3	advmod	_	_
 5	миян	ми	PRON	Pron	Case=Gen|Number=Plur|Person=1|PronType=Prs	7	nmod	_	_
 6	районувса	районувса	ADJ	A	Case=Nom|Number=Sing	7	amod	_	OrigLang=ru
-7	колхозъясын	колхоз	NOUN	N	Case=Ine|Number=Plur	3	obl:lmod	_	OrigLang=ru|SpaceAfter=No
+7	колхозъясын	колхоз	NOUN	N	Case=Ine|Number=Plur	3	obl	_	OrigLang=ru|SpaceAfter=No
 8	.	.	PUNCT	CLB	_	3	punct	_	_
 
 ~~~
@@ -47,7 +47,7 @@ The following 8 pairs of parts of speech are connected with `root`: -<tt><a href
 5	сезоннӧй	сезоннӧй	ADJ	A	Case=Nom|Number=Sing	4	amod	_	OrigLang=ru|SpaceAfter=No
 6	,	,	PUNCT	CLB	_	9	punct	_	_
 7	сійӧ	сійӧ	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	_
-8	оз	оз	AUX	V	Mood=Ind|Person=3|Polarity=Neg|Tense=Pres	9	aux	_	_
+8	оз	оз	AUX	V	Mood=Ind|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	9	aux	_	_
 9	виччысь	виччыны	VERB	V	Connegative=Yes	5	conj	_	_
 10	некутшӧм	некутшӧм	ADJ	A	Case=Nom|Number=Sing|Polarity=Neg	11	amod	_	_
 11	нюжмасьӧм	нюжмасьны	VERB	V	Case=Nom|Number=Sing|Tense=Past|VerbForm=Part	9	obj	_	SpaceAfter=No

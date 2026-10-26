@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.2 release.
 The following people have contributed to making this treebank part of UD: Marco Passarotti, Marinella Testori, Daniel Zeman, Berta González Saavedra, Flavio Massimiliano Cecchini.
 
 Repository: [UD_Latin-ITTB](https://github.com/UniversalDependencies/UD_Latin-ITTB)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udla_ittb215)<br />
-Download all treebanks: [UD 2.15](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udla_ittb218)<br />
+Download all treebanks: [UD 2.18](/#download)
 
 License: CC BY-NC-SA 3.0
 
@@ -29,7 +29,7 @@ Genre: nonfiction
 Questions, comments?
 General annotation questions (either Latin-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
 You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Latin-ITTB/issues).
-If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&nbsp;mff&nbsp;•&nbsp;cuni&nbsp;•&nbsp;cz].
+If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&nbsp;mff&nbsp;•&nbsp;cuni&nbsp;•&nbsp;cz, marco&nbsp;•&nbsp;passarotti&nbsp;(æt)&nbsp;unicatt&nbsp;•&nbsp;it].
 Development of the treebank happens outside the UD repository.
 If there are bugs, either the original data source or the conversion procedure must be fixed.
 Do not submit pull requests against the UD repository.
@@ -102,11 +102,11 @@ year = {2010}
 
 ## Features
 
-[Abbr](la_ittb-feat-Abbr.html) – [AdvType](la_ittb-feat-AdvType.html) – [Aspect](la_ittb-feat-Aspect.html) – [Case](la_ittb-feat-Case.html) – [Compound](la_ittb-feat-Compound.html) – [Degree](la_ittb-feat-Degree.html) – [Foreign](la_ittb-feat-Foreign.html) – [Form](la_ittb-feat-Form.html) – [Gender](la_ittb-feat-Gender.html) – [InflClass](la_ittb-feat-InflClass.html) – [InflClass[nominal]](la_ittb-feat-InflClass-nominal.html) – [Mood](la_ittb-feat-Mood.html) – [NameType](la_ittb-feat-NameType.html) – [Number](la_ittb-feat-Number.html) – [Number[psor]](la_ittb-feat-Number-psor.html) – [NumForm](la_ittb-feat-NumForm.html) – [NumType](la_ittb-feat-NumType.html) – [NumValue](la_ittb-feat-NumValue.html) – [Person](la_ittb-feat-Person.html) – [Person[psor]](la_ittb-feat-Person-psor.html) – [Polarity](la_ittb-feat-Polarity.html) – [Poss](la_ittb-feat-Poss.html) – [PronType](la_ittb-feat-PronType.html) – [Proper](la_ittb-feat-Proper.html) – [Reflex](la_ittb-feat-Reflex.html) – [Tense](la_ittb-feat-Tense.html) – [Variant](la_ittb-feat-Variant.html) – [VerbForm](la_ittb-feat-VerbForm.html) – [Voice](la_ittb-feat-Voice.html)
+[Abbr](la_ittb-feat-Abbr.html) – [AdvType](la_ittb-feat-AdvType.html) – [Aspect](la_ittb-feat-Aspect.html) – [Case](la_ittb-feat-Case.html) – [Compound](la_ittb-feat-Compound.html) – [Degree](la_ittb-feat-Degree.html) – [ExtPos](la_ittb-feat-ExtPos.html) – [Foreign](la_ittb-feat-Foreign.html) – [Form](la_ittb-feat-Form.html) – [Gender](la_ittb-feat-Gender.html) – [InflClass](la_ittb-feat-InflClass.html) – [InflClass[nominal]](la_ittb-feat-InflClass-nominal.html) – [Mood](la_ittb-feat-Mood.html) – [NameType](la_ittb-feat-NameType.html) – [Number](la_ittb-feat-Number.html) – [Number[psor]](la_ittb-feat-Number-psor.html) – [NumForm](la_ittb-feat-NumForm.html) – [NumType](la_ittb-feat-NumType.html) – [NumValue](la_ittb-feat-NumValue.html) – [Person](la_ittb-feat-Person.html) – [Person[psor]](la_ittb-feat-Person-psor.html) – [Polarity](la_ittb-feat-Polarity.html) – [Poss](la_ittb-feat-Poss.html) – [PronType](la_ittb-feat-PronType.html) – [Proper](la_ittb-feat-Proper.html) – [Reflex](la_ittb-feat-Reflex.html) – [Tense](la_ittb-feat-Tense.html) – [Variant](la_ittb-feat-Variant.html) – [VerbForm](la_ittb-feat-VerbForm.html) – [Voice](la_ittb-feat-Voice.html)
 
 ## Relations
 
-[acl](la_ittb-dep-acl.html) – [acl:relcl](la_ittb-dep-acl-relcl.html) – [advcl](la_ittb-dep-advcl.html) – [advcl:abs](la_ittb-dep-advcl-abs.html) – [advcl:cmp](la_ittb-dep-advcl-cmp.html) – [advcl:pred](la_ittb-dep-advcl-pred.html) – [advcl:relcl](la_ittb-dep-advcl-relcl.html) – [advmod](la_ittb-dep-advmod.html) – [advmod:emph](la_ittb-dep-advmod-emph.html) – [advmod:lmod](la_ittb-dep-advmod-lmod.html) – [advmod:neg](la_ittb-dep-advmod-neg.html) – [advmod:tmod](la_ittb-dep-advmod-tmod.html) – [amod](la_ittb-dep-amod.html) – [appos](la_ittb-dep-appos.html) – [aux](la_ittb-dep-aux.html) – [aux:pass](la_ittb-dep-aux-pass.html) – [case](la_ittb-dep-case.html) – [cc](la_ittb-dep-cc.html) – [ccomp](la_ittb-dep-ccomp.html) – [ccomp:relcl](la_ittb-dep-ccomp-relcl.html) – [ccomp:reported](la_ittb-dep-ccomp-reported.html) – [compound](la_ittb-dep-compound.html) – [conj](la_ittb-dep-conj.html) – [conj:expl](la_ittb-dep-conj-expl.html) – [cop](la_ittb-dep-cop.html) – [cop:outer](la_ittb-dep-cop-outer.html) – [csubj](la_ittb-dep-csubj.html) – [csubj:cleft](la_ittb-dep-csubj-cleft.html) – [csubj:pass](la_ittb-dep-csubj-pass.html) – [csubj:relcl](la_ittb-dep-csubj-relcl.html) – [csubj:reported](la_ittb-dep-csubj-reported.html) – [det](la_ittb-dep-det.html) – [discourse](la_ittb-dep-discourse.html) – [dislocated:advcl](la_ittb-dep-dislocated-advcl.html) – [dislocated:ccomp](la_ittb-dep-dislocated-ccomp.html) – [dislocated:csubj](la_ittb-dep-dislocated-csubj.html) – [dislocated:nsubj](la_ittb-dep-dislocated-nsubj.html) – [dislocated:obl](la_ittb-dep-dislocated-obl.html) – [fixed](la_ittb-dep-fixed.html) – [flat](la_ittb-dep-flat.html) – [mark](la_ittb-dep-mark.html) – [nmod](la_ittb-dep-nmod.html) – [nsubj](la_ittb-dep-nsubj.html) – [nsubj:outer](la_ittb-dep-nsubj-outer.html) – [nsubj:pass](la_ittb-dep-nsubj-pass.html) – [nummod](la_ittb-dep-nummod.html) – [obj](la_ittb-dep-obj.html) – [obl](la_ittb-dep-obl.html) – [obl:agent](la_ittb-dep-obl-agent.html) – [obl:arg](la_ittb-dep-obl-arg.html) – [obl:cmp](la_ittb-dep-obl-cmp.html) – [obl:lmod](la_ittb-dep-obl-lmod.html) – [obl:tmod](la_ittb-dep-obl-tmod.html) – [orphan](la_ittb-dep-orphan.html) – [parataxis](la_ittb-dep-parataxis.html) – [parataxis:rep](la_ittb-dep-parataxis-rep.html) – [punct](la_ittb-dep-punct.html) – [reparandum](la_ittb-dep-reparandum.html) – [root](la_ittb-dep-root.html) – [vocative](la_ittb-dep-vocative.html) – [xcomp](la_ittb-dep-xcomp.html)
+[acl](la_ittb-dep-acl.html) – [acl:relcl](la_ittb-dep-acl-relcl.html) – [advcl](la_ittb-dep-advcl.html) – [advcl:abs](la_ittb-dep-advcl-abs.html) – [advcl:cmp](la_ittb-dep-advcl-cmp.html) – [advcl:pred](la_ittb-dep-advcl-pred.html) – [advcl:relcl](la_ittb-dep-advcl-relcl.html) – [advmod](la_ittb-dep-advmod.html) – [advmod:emph](la_ittb-dep-advmod-emph.html) – [advmod:lmod](la_ittb-dep-advmod-lmod.html) – [advmod:neg](la_ittb-dep-advmod-neg.html) – [advmod:tmod](la_ittb-dep-advmod-tmod.html) – [amod](la_ittb-dep-amod.html) – [appos](la_ittb-dep-appos.html) – [aux](la_ittb-dep-aux.html) – [aux:pass](la_ittb-dep-aux-pass.html) – [case](la_ittb-dep-case.html) – [cc](la_ittb-dep-cc.html) – [ccomp](la_ittb-dep-ccomp.html) – [ccomp:relcl](la_ittb-dep-ccomp-relcl.html) – [ccomp:reported](la_ittb-dep-ccomp-reported.html) – [compound](la_ittb-dep-compound.html) – [conj](la_ittb-dep-conj.html) – [conj:expl](la_ittb-dep-conj-expl.html) – [cop](la_ittb-dep-cop.html) – [cop:outer](la_ittb-dep-cop-outer.html) – [csubj](la_ittb-dep-csubj.html) – [csubj:cleft](la_ittb-dep-csubj-cleft.html) – [csubj:pass](la_ittb-dep-csubj-pass.html) – [csubj:relcl](la_ittb-dep-csubj-relcl.html) – [csubj:reported](la_ittb-dep-csubj-reported.html) – [det](la_ittb-dep-det.html) – [discourse](la_ittb-dep-discourse.html) – [dislocated:advcl](la_ittb-dep-dislocated-advcl.html) – [dislocated:ccomp](la_ittb-dep-dislocated-ccomp.html) – [dislocated:csubj](la_ittb-dep-dislocated-csubj.html) – [dislocated:nsubj](la_ittb-dep-dislocated-nsubj.html) – [dislocated:obl](la_ittb-dep-dislocated-obl.html) – [fixed](la_ittb-dep-fixed.html) – [flat](la_ittb-dep-flat.html) – [iobj](la_ittb-dep-iobj.html) – [mark](la_ittb-dep-mark.html) – [nmod](la_ittb-dep-nmod.html) – [nsubj](la_ittb-dep-nsubj.html) – [nsubj:outer](la_ittb-dep-nsubj-outer.html) – [nsubj:pass](la_ittb-dep-nsubj-pass.html) – [nummod](la_ittb-dep-nummod.html) – [obj](la_ittb-dep-obj.html) – [obl](la_ittb-dep-obl.html) – [obl:agent](la_ittb-dep-obl-agent.html) – [obl:arg](la_ittb-dep-obl-arg.html) – [obl:cmp](la_ittb-dep-obl-cmp.html) – [obl:lmod](la_ittb-dep-obl-lmod.html) – [obl:tmod](la_ittb-dep-obl-tmod.html) – [orphan](la_ittb-dep-orphan.html) – [parataxis](la_ittb-dep-parataxis.html) – [parataxis:rep](la_ittb-dep-parataxis-rep.html) – [punct](la_ittb-dep-punct.html) – [reparandum](la_ittb-dep-reparandum.html) – [root](la_ittb-dep-root.html) – [vocative](la_ittb-dep-vocative.html) – [xcomp](la_ittb-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -898,6 +898,36 @@ year = {2010}
 </ul>
 
 <ul>
+  <li><a>ExtPos</a>
+    <ul>
+      <li>ADV
+        <ul>
+          <li>ADV: puta, tunc</li>
+          <li>ADV-Fin: puta</li>
+          <li>CCONJ: scilicet</li>
+          <li>SCONJ: ut, puta</li>
+          <li>SCONJ-Fin: puta</li>
+        </ul>
+      </li>
+      <li>CCONJ
+        <ul>
+          <li>PRON: id</li>
+        </ul>
+      </li>
+      <li>SCONJ
+        <ul>
+          <li>ADP: in</li>
+          <li>ADV: ita, simul, sic, statim, utpote, etiam, tamen</li>
+          <li>CCONJ: uel</li>
+          <li>PRON: quod</li>
+          <li>SCONJ: quod, propterea, si</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li><a>Foreign</a>
     <ul>
       <li>Yes
@@ -1217,7 +1247,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>nsubj</a>
     <ul>
       <li>VERB-Fin--NOUN (73)</li>
-      <li>VERB-Fin--NOUN-Acc (52)</li>
+      <li>VERB-Fin--NOUN-Acc (53)</li>
       <li>VERB-Fin--NOUN-Nom (8919)</li>
       <li>VERB-Fin--PRON (203)</li>
       <li>VERB-Fin--PRON-Acc (39)</li>
@@ -1225,7 +1255,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--NOUN (9)</li>
       <li>VERB-Inf--NOUN-Acc (315)</li>
       <li>VERB-Inf--NOUN-Nom (26)</li>
-      <li>VERB-Inf--PRON-Acc (112)</li>
+      <li>VERB-Inf--PRON-Acc (113)</li>
       <li>VERB-Inf--PRON-Nom (8)</li>
       <li>VERB-Part--NOUN (13)</li>
       <li>VERB-Part--NOUN-Abl (221)</li>
@@ -1243,13 +1273,13 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>obj</a>
     <ul>
       <li>VERB-Fin--NOUN (260)</li>
-      <li>VERB-Fin--NOUN-Acc (5414)</li>
+      <li>VERB-Fin--NOUN-Acc (5401)</li>
       <li>VERB-Fin--PRON (64)</li>
-      <li>VERB-Fin--PRON-Acc (2189)</li>
+      <li>VERB-Fin--PRON-Acc (2182)</li>
       <li>VERB-Inf--NOUN (22)</li>
       <li>VERB-Inf--NOUN-Acc (1038)</li>
       <li>VERB-Inf--PRON (20)</li>
-      <li>VERB-Inf--PRON-Acc (319)</li>
+      <li>VERB-Inf--PRON-Acc (318)</li>
       <li>VERB-Part--NOUN (35)</li>
       <li>VERB-Part--NOUN-Acc (973)</li>
       <li>VERB-Part--PRON (6)</li>
@@ -1261,6 +1291,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
+      <li>VERB-Fin--NOUN-Acc (2)</li>
+      <li>VERB-Fin--PRON-Acc (4)</li>
     </ul>
   </li>
 </ul>
@@ -1270,7 +1302,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Verbs with Reflexive Core Objects</h3>
 
 <ul>
-  <li>This corpus contains 125 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: habeo se, extendo se, moueo seipsum, intellego seipsum, cognosco seipsum, uolo se, intellego se, moueo seipsa, exinanio semetipsum, moueo se, cognosco se, cognosco seipsam, subicio se, amo se, teneo se, ago se, amo seipsum, contineo se, conuerto se, diligo se, impedio se, moueo seipsam, ago seipsa, consequor se, dico se, educo se, iuuo se, ago seipsum, expello se, exspecto se, facio se, offero se, subdo se, uolo seipsum, aestimo se, dirigo seipsa, exhibeo se, expono seipsum, guberno se, humilio semetipsum, intellego seipsam, moueo seipsas, nosco seipsam, ordino se, praeparo se, uideo seipsum, adduco seipsum, ago seipsas, altero se, amo seipsam</li>
+  <li>This corpus contains 124 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: habeo se, extendo se, moueo seipsum, intellego seipsum, cognosco seipsum, uolo se, intellego se, moueo seipsa, exinanio semetipsum, moueo se, cognosco se, cognosco seipsam, subicio se, amo se, teneo se, ago se, amo seipsum, contineo se, conuerto se, diligo se, impedio se, moueo seipsam, ago seipsa, consequor se, educo se, iuuo se, ago seipsum, dico se, expello se, exspecto se, facio se, offero se, subdo se, uolo seipsum, aestimo se, dirigo seipsa, exhibeo se, expono seipsum, guberno se, humilio semetipsum, intellego seipsam, moueo seipsas, nosco seipsam, ordino se, praeparo se, uideo seipsum, adduco seipsum, ago seipsas, altero se, amo seipsam</li>
 </ul>
 
 <h3>Relations Overview</h3>
@@ -1278,5 +1310,5 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
 <li>This corpus uses 31 relation subtypes: <a>acl:relcl</a>, <a>advcl:abs</a>, <a>advcl:cmp</a>, <a>advcl:pred</a>, <a>advcl:relcl</a>, <a>advmod:emph</a>, <a>advmod:lmod</a>, <a>advmod:neg</a>, <a>advmod:tmod</a>, <a>aux:pass</a>, <a>ccomp:relcl</a>, <a>ccomp:reported</a>, <a>conj:expl</a>, <a>cop:outer</a>, <a>csubj:cleft</a>, <a>csubj:pass</a>, <a>csubj:relcl</a>, <a>csubj:reported</a>, <a>dislocated:advcl</a>, <a>dislocated:ccomp</a>, <a>dislocated:csubj</a>, <a>dislocated:nsubj</a>, <a>dislocated:obl</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>obl:arg</a>, <a>obl:cmp</a>, <a>obl:lmod</a>, <a>obl:tmod</a>, <a>parataxis:rep</a></li>
 <li>The following 1 main types are not used alone, they are always subtyped: <a>dislocated</a></li>
-<li>The following 6 relation types are not used in this corpus at all: <a>iobj</a>, <a>expl</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>dep</a></li>
+<li>The following 5 relation types are not used in this corpus at all: <a>expl</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>dep</a></li>
 </ul>

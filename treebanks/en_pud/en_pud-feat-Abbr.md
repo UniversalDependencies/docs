@@ -23,7 +23,7 @@ The most frequent other feature values with which `PROPN` and `Abbr` co-occurred
 `PROPN` tokens may have the following values of `Abbr`:
 
 * `Yes` (70; 100% of non-empty `Abbr`): <em>U.S., UK, BBC, CNN, EU, US, USA, B.C., GCA, GOP</em>
-* `EMPTY` (1653): <em>China, Sea, October, Trump, North, War, America, April, Europe, France</em>
+* `EMPTY` (1649): <em>China, North, Sea, October, Trump, War, South, America, April, Europe</em>
 
 `Abbr` seems to be **lexical feature** of `PROPN`. 100% lemmas (42) occur only with one value of `Abbr`.
 
@@ -36,7 +36,7 @@ The most frequent other feature values with which `NUM` and `Abbr` co-occurred: 
 `NUM` tokens may have the following values of `Abbr`:
 
 * `Yes` (4; 100% of non-empty `Abbr`): <em>bn</em>
-* `EMPTY` (461): <em>one, two, three, million, 10, four, 1, six, 3, I</em>
+* `EMPTY` (460): <em>one, two, three, million, 10, four, 1, six, 3, I</em>
 
 ### `NOUN`
 
@@ -47,5 +47,5 @@ The most frequent other feature values with which `NOUN` and `Abbr` co-occurred:
 `NOUN` tokens may have the following values of `Abbr`:
 
 * `Yes` (1; 100% of non-empty `Abbr`): <em>BC</em>
-* `EMPTY` (4018): <em>time, people, years, year, government, city, state, century, world, day</em>
+* `EMPTY` (4014): <em>time, people, years, year, government, city, state, century, world, day</em>
 

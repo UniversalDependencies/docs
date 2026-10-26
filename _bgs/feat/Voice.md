@@ -1,0 +1,66 @@
+---
+layout: feature
+title: 'Voice'
+shortdef: 'voice'
+udver: '2'
+---
+
+<table class="typeindex" border="1">
+<tr>
+  <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
+  <td><a href="#Act">Act</a></td>
+  <td><a href="#Ifoc">Ifoc</a></td>
+  <td><a href="#Lfoc">Lfoc</a></td>
+  <td><a href="#Pass">Pass</a></td>
+</tr>
+</table>
+
+Voice is typically a feature of [verbs](u-pos/VERB).
+It may also occur with other parts of speech
+([nouns](u-pos/NOUN), [adjectives](u-pos/ADJ), [adverbs](u-pos/ADV)),
+depending on whether borderline word forms such as gerunds and participles
+are classified as verbs or as the other category.
+
+For Indo-European speakers, voice means mainly the active-passive
+distinction. In other languages, other shades of verb meaning are
+categorized as voice.
+
+### <a name="Act">`Act`</a>: active or actor-focus voice
+
+The subject of the verb is the doer of the action (agent), the object
+is affected by the action (patient). This label is also used for the
+actor-focus voice of Austronesian languages. <!-- which is labeled AGFOC in UniMorph -->
+
+#### Examples
+
+* [bgs] _<b>Igambak</b> to asa duton ka bintana._ “The dog <b>jumped</b> out the window.”
+
+### <a name="Pass">`Pass`</a>: passive or patient-focus voice
+
+The subject of the verb is affected by the action (patient). The doer
+(agent) is either unexpressed or it appears as an oblique dependent
+or an object of the verb. This label is also used for the patient-focus
+voice of Austronesian languages. <!-- which is labeled PFOC in UniMorph -->
+
+#### Examples
+
+* [bgs] _<b>Igtawar</b> ni Maria to bata._ “Maria <b>called</b> the child.”
+
+### <a name="Lfoc">`Lfoc`</a>: location-focus voice
+
+The subject of the verb indicates location or direction, while the
+doer and the undergoer/theme are coded as objects.
+
+#### Examples
+
+* [bgs] _<b>Pamulaan</b> ni Nena ni tana e kasila._ “Nena <b>will plant</b> sweet potatoes in this land.”
+
+### <a name="Ifoc">`Ifoc`</a>: instrument-focus voice
+
+The subject of the verb indicates the instrument, while the
+doer and the undergoer/theme are coded as objects.
+
+#### Examples
+
+* [bgs] _Sam, <b>abrihi</b> no to bintana!._ “Sam, <b>open</b> the door!”
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:23 CEST -->

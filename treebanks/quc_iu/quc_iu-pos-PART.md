@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Kiche-IU: POS Tags: `PART`
 
 There are 20 `PART` lemmas (1%), 38 `PART` types (2%) and 830 `PART` tokens (8%).
-Out of 15 observed tags, the rank of `PART` is: 8 in number of lemmas, 6 in number of types and 5 in number of tokens.
+Out of 16 observed tags, the rank of `PART` is: 8 in number of lemmas, 6 in number of types and 5 in number of tokens.
 
 The 10 most frequent `PART` lemmas: <em>ik, kʼo, u, na, man, are, wi, la, oq, uʼ</em>
 
@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>ik</em> (<tt><a href="quc_iu-pos-PART
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.900000 (the average of all parts of speech is 1.617880).
+The form / lemma ratio of `PART` is 1.900000 (the average of all parts of speech is 1.617435).
 
 The 1st highest number of forms (5) was observed with the lemma “u”: <em>ilo, lo, o, tiko, u</em>.
 
@@ -78,15 +78,15 @@ Parents of `PART` nodes belong to 7 different parts of speech: <tt><a href="quc_
 
 686 (83%) `PART` nodes are leaves.
 
-20 (2%) `PART` nodes have one child.
+19 (2%) `PART` nodes have one child.
 
-24 (3%) `PART` nodes have two children.
+25 (3%) `PART` nodes have two children.
 
 100 (12%) `PART` nodes have three or more children.
 
 The highest child degree of a `PART` node is 6.
 
-Children of `PART` nodes are attached using 20 different relations: <tt><a href="quc_iu-dep-nsubj.html">nsubj</a></tt> (113; 27% instances), <tt><a href="quc_iu-dep-punct.html">punct</a></tt> (112; 27% instances), <tt><a href="quc_iu-dep-obl.html">obl</a></tt> (65; 16% instances), <tt><a href="quc_iu-dep-advmod.html">advmod</a></tt> (38; 9% instances), <tt><a href="quc_iu-dep-dep-agr.html">dep:agr</a></tt> (20; 5% instances), <tt><a href="quc_iu-dep-fixed.html">fixed</a></tt> (13; 3% instances), <tt><a href="quc_iu-dep-aux.html">aux</a></tt> (9; 2% instances), <tt><a href="quc_iu-dep-mark.html">mark</a></tt> (9; 2% instances), <tt><a href="quc_iu-dep-advmod-neg.html">advmod:neg</a></tt> (8; 2% instances), <tt><a href="quc_iu-dep-discourse.html">discourse</a></tt> (8; 2% instances), <tt><a href="quc_iu-dep-parataxis.html">parataxis</a></tt> (8; 2% instances), <tt><a href="quc_iu-dep-advcl.html">advcl</a></tt> (6; 1% instances), <tt><a href="quc_iu-dep-dep-ss.html">dep:ss</a></tt> (2; 0% instances), <tt><a href="quc_iu-dep-dislocated.html">dislocated</a></tt> (2; 0% instances), <tt><a href="quc_iu-dep-conj.html">conj</a></tt> (1; 0% instances), <tt><a href="quc_iu-dep-csubj.html">csubj</a></tt> (1; 0% instances), <tt><a href="quc_iu-dep-dep.html">dep</a></tt> (1; 0% instances), <tt><a href="quc_iu-dep-nmod.html">nmod</a></tt> (1; 0% instances), <tt><a href="quc_iu-dep-obj.html">obj</a></tt> (1; 0% instances), <tt><a href="quc_iu-dep-vocative.html">vocative</a></tt> (1; 0% instances)
+Children of `PART` nodes are attached using 20 different relations: <tt><a href="quc_iu-dep-nsubj.html">nsubj</a></tt> (114; 27% instances), <tt><a href="quc_iu-dep-punct.html">punct</a></tt> (112; 27% instances), <tt><a href="quc_iu-dep-obl.html">obl</a></tt> (65; 15% instances), <tt><a href="quc_iu-dep-advmod.html">advmod</a></tt> (38; 9% instances), <tt><a href="quc_iu-dep-dep-agr.html">dep:agr</a></tt> (20; 5% instances), <tt><a href="quc_iu-dep-fixed.html">fixed</a></tt> (13; 3% instances), <tt><a href="quc_iu-dep-aux.html">aux</a></tt> (9; 2% instances), <tt><a href="quc_iu-dep-mark.html">mark</a></tt> (9; 2% instances), <tt><a href="quc_iu-dep-advmod-neg.html">advmod:neg</a></tt> (8; 2% instances), <tt><a href="quc_iu-dep-discourse.html">discourse</a></tt> (8; 2% instances), <tt><a href="quc_iu-dep-parataxis.html">parataxis</a></tt> (8; 2% instances), <tt><a href="quc_iu-dep-advcl.html">advcl</a></tt> (6; 1% instances), <tt><a href="quc_iu-dep-dep-ss.html">dep:ss</a></tt> (2; 0% instances), <tt><a href="quc_iu-dep-dislocated.html">dislocated</a></tt> (2; 0% instances), <tt><a href="quc_iu-dep-conj.html">conj</a></tt> (1; 0% instances), <tt><a href="quc_iu-dep-csubj.html">csubj</a></tt> (1; 0% instances), <tt><a href="quc_iu-dep-dep.html">dep</a></tt> (1; 0% instances), <tt><a href="quc_iu-dep-nmod.html">nmod</a></tt> (1; 0% instances), <tt><a href="quc_iu-dep-obj.html">obj</a></tt> (1; 0% instances), <tt><a href="quc_iu-dep-vocative.html">vocative</a></tt> (1; 0% instances)
 
-Children of `PART` nodes belong to 12 different parts of speech: <tt><a href="quc_iu-pos-NOUN.html">NOUN</a></tt> (178; 42% instances), <tt><a href="quc_iu-pos-PUNCT.html">PUNCT</a></tt> (112; 27% instances), <tt><a href="quc_iu-pos-ADV.html">ADV</a></tt> (34; 8% instances), <tt><a href="quc_iu-pos-PART.html">PART</a></tt> (28; 7% instances), <tt><a href="quc_iu-pos-PRON.html">PRON</a></tt> (21; 5% instances), <tt><a href="quc_iu-pos-SCONJ.html">SCONJ</a></tt> (18; 4% instances), <tt><a href="quc_iu-pos-VERB.html">VERB</a></tt> (10; 2% instances), <tt><a href="quc_iu-pos-AUX.html">AUX</a></tt> (9; 2% instances), <tt><a href="quc_iu-pos-ADJ.html">ADJ</a></tt> (4; 1% instances), <tt><a href="quc_iu-pos-PROPN.html">PROPN</a></tt> (3; 1% instances), <tt><a href="quc_iu-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="quc_iu-pos-NUM.html">NUM</a></tt> (1; 0% instances)
+Children of `PART` nodes belong to 12 different parts of speech: <tt><a href="quc_iu-pos-NOUN.html">NOUN</a></tt> (179; 43% instances), <tt><a href="quc_iu-pos-PUNCT.html">PUNCT</a></tt> (112; 27% instances), <tt><a href="quc_iu-pos-ADV.html">ADV</a></tt> (34; 8% instances), <tt><a href="quc_iu-pos-PART.html">PART</a></tt> (28; 7% instances), <tt><a href="quc_iu-pos-PRON.html">PRON</a></tt> (21; 5% instances), <tt><a href="quc_iu-pos-SCONJ.html">SCONJ</a></tt> (18; 4% instances), <tt><a href="quc_iu-pos-VERB.html">VERB</a></tt> (10; 2% instances), <tt><a href="quc_iu-pos-AUX.html">AUX</a></tt> (9; 2% instances), <tt><a href="quc_iu-pos-ADJ.html">ADJ</a></tt> (4; 1% instances), <tt><a href="quc_iu-pos-PROPN.html">PROPN</a></tt> (3; 1% instances), <tt><a href="quc_iu-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="quc_iu-pos-NUM.html">NUM</a></tt> (1; 0% instances)
 

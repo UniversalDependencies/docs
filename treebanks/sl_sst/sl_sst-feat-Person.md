@@ -107,7 +107,7 @@ The most frequent other feature values with which `DET` and `Person` co-occurred
 ## Relations with Agreement in `Person`
 
 The 10 most frequent relations where parent and child node agree in `Person`:
-<tt>VERB --[<tt><a href="sl_sst-dep-conj.html">conj</a></tt>]--> VERB</tt> (339; 56%),
+<tt>VERB --[<tt><a href="sl_sst-dep-conj.html">conj</a></tt>]--> VERB</tt> (338; 56%),
 <tt>VERB --[<tt><a href="sl_sst-dep-reparandum.html">reparandum</a></tt>]--> VERB</tt> (52; 84%),
 <tt>AUX --[<tt><a href="sl_sst-dep-reparandum.html">reparandum</a></tt>]--> AUX</tt> (18; 95%),
 <tt>PRON --[<tt><a href="sl_sst-dep-reparandum.html">reparandum</a></tt>]--> PRON</tt> (13; 93%),

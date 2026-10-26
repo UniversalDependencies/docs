@@ -7,26 +7,25 @@ udver: '2'
 ## Treebank Statistics: UD_Armenian-ArmTDP: Features: `AdpType`
 
 This feature is language-specific.
-It occurs with 3 different values: `Comadp`, `Post`, `Prep`.
+It occurs with 4 different values: `Ambi`, `Comadp`, `Post`, `Prep`.
 
-1633 tokens (3%) have a non-empty value of `AdpType`.
-108 types (1%) occur at least once with a non-empty value of `AdpType`.
-70 lemmas (1%) occur at least once with a non-empty value of `AdpType`.
-The feature is used with 1 part-of-speech tags: <tt><a href="hy_armtdp-pos-ADP.html">ADP</a></tt> (1633; 3% instances).
+2679 tokens (3%) have a non-empty value of `AdpType`.
+121 types (1%) occur at least once with a non-empty value of `AdpType`.
+63 lemmas (1%) occur at least once with a non-empty value of `AdpType`.
+The feature is used with 1 part-of-speech tags: <tt><a href="hy_armtdp-pos-ADP.html">ADP</a></tt> (2679; 3% instances).
 
 ### `ADP`
 
-1633 <tt><a href="hy_armtdp-pos-ADP.html">ADP</a></tt> tokens (100% of all `ADP` tokens) have a non-empty value of `AdpType`.
-
-The most frequent other feature values with which `ADP` and `AdpType` co-occurred: <tt><a href="hy_armtdp-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1199; 73%).
+2679 <tt><a href="hy_armtdp-pos-ADP.html">ADP</a></tt> tokens (100% of all `ADP` tokens) have a non-empty value of `AdpType`.
 
 `ADP` tokens may have the following values of `AdpType`:
 
-* `Comadp` (4; 0% of non-empty `AdpType`): <em>դեմս, հեճուկս</em>
-* `Post` (1357; 83% of non-empty `AdpType`): <em>համար, հետ, մասին, մեջ, հետո, վրա, պես, նկատմամբ, կողմից, ընթացքում</em>
-* `Prep` (272; 17% of non-empty `AdpType`): <em>որպես, մինչև, ի, առանց, դեպի, բացի, ըստ, ինչպես, առ, մինչ</em>
+* `Ambi` (30; 1% of non-empty `AdpType`): <em>շնորհիվ, անկախ, Հակառակ, համապատասխան</em>
+* `Comadp` (1; 0% of non-empty `AdpType`): <em>հեճուկս</em>
+* `Post` (2156; 80% of non-empty `AdpType`): <em>համար, հետ, մեջ, մասին, վրա, հետո, առաջ, մոտ, տակ, կողմից</em>
+* `Prep` (492; 18% of non-empty `AdpType`): <em>որպես, մինչև, առանց, դեպի, քան, ի, բացի, ըստ, մինչ, առ</em>
 
-`AdpType` seems to be **lexical feature** of `ADP`. 100% lemmas (70) occur only with one value of `AdpType`.
+`AdpType` seems to be **lexical feature** of `ADP`. 100% lemmas (63) occur only with one value of `AdpType`.
 
 ## Relations with Agreement in `AdpType`
 

@@ -12,7 +12,7 @@ There are 1 language-specific subtypes of `acl`: <tt><a href="el_gdt-dep-acl-rel
 279 nodes (0%) are attached to their parents as `acl`.
 
 269 instances of `acl` (96%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.3584229390681.
+Average distance between parent and child is 4.30824372759857.
 
 The following 13 pairs of parts of speech are connected with `acl`: <tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_gdt-pos-VERB.html">VERB</a></tt> (221; 79% instances), <tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt> (19; 7% instances), <tt><a href="el_gdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="el_gdt-pos-VERB.html">VERB</a></tt> (12; 4% instances), <tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_gdt-pos-ADJ.html">ADJ</a></tt> (9; 3% instances), <tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_gdt-pos-PROPN.html">PROPN</a></tt> (6; 2% instances), <tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_gdt-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="el_gdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="el_gdt-pos-VERB.html">VERB</a></tt> (3; 1% instances), <tt><a href="el_gdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_gdt-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_gdt-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="el_gdt-pos-NUM.html">NUM</a></tt>-<tt><a href="el_gdt-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="el_gdt-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gdt-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="el_gdt-pos-X.html">X</a></tt>-<tt><a href="el_gdt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
 
@@ -48,7 +48,7 @@ The following 13 pairs of parts of speech are connected with `acl`: <tt><a href=
 # visual-style 11	fgColor:white
 # visual-style 11 13 acl	color:blue
 1	Σ	σε	ADP	ADP	_	3	case	_	_
-2	τις	ο	DET	DET	Case=Acc|Gender=Fem|Number=Plur	3	det	_	_
+2	τις	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	_
 3	επιτροπές	επιτροπή	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Plur	6	obl	_	_
 4	οι	ο	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
 5	βουλευτές	βουλευτής	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Plur	6	nsubj	_	_
@@ -77,7 +77,7 @@ The following 13 pairs of parts of speech are connected with `acl`: <tt><a href=
 4	τη	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 5	διαγωγή	διαγωγή	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	3	obj	_	_
 6	σ	σε	ADP	ADP	_	8	case	_	_
-7	την	ο	DET	DET	Case=Acc|Gender=Fem|Number=Sing	8	det	_	_
+7	την	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
 8	τάξη	τάξη	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	5	nmod	_	SpaceAfter=No
 9	,	,	PUNCT	PUNCT	_	2	punct	_	_
 10	δεν	δεν	PART	PART	_	12	advmod	_	_

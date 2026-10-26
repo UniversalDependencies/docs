@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-30 nodes (0%) are attached to their parents as `fixed`.
+28 nodes (0%) are attached to their parents as `fixed`.
 
-30 instances of `fixed` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.26666666666667.
+28 instances of `fixed` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.28571428571429.
 
-The following 8 pairs of parts of speech are connected with `fixed`: <tt><a href="it_valico-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="it_valico-pos-SCONJ.html">SCONJ</a></tt> (11; 37% instances), <tt><a href="it_valico-pos-ADP.html">ADP</a></tt>-<tt><a href="it_valico-pos-ADP.html">ADP</a></tt> (7; 23% instances), <tt><a href="it_valico-pos-ADV.html">ADV</a></tt>-<tt><a href="it_valico-pos-ADP.html">ADP</a></tt> (6; 20% instances), <tt><a href="it_valico-pos-INTJ.html">INTJ</a></tt>-<tt><a href="it_valico-pos-INTJ.html">INTJ</a></tt> (2; 7% instances), <tt><a href="it_valico-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_valico-pos-SCONJ.html">SCONJ</a></tt> (1; 3% instances), <tt><a href="it_valico-pos-ADP.html">ADP</a></tt>-<tt><a href="it_valico-pos-ADV.html">ADV</a></tt> (1; 3% instances), <tt><a href="it_valico-pos-ADP.html">ADP</a></tt>-<tt><a href="it_valico-pos-DET.html">DET</a></tt> (1; 3% instances), <tt><a href="it_valico-pos-ADP.html">ADP</a></tt>-<tt><a href="it_valico-pos-NUM.html">NUM</a></tt> (1; 3% instances).
+The following 7 pairs of parts of speech are connected with `fixed`: <tt><a href="it_valico-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="it_valico-pos-SCONJ.html">SCONJ</a></tt> (12; 43% instances), <tt><a href="it_valico-pos-ADP.html">ADP</a></tt>-<tt><a href="it_valico-pos-ADP.html">ADP</a></tt> (8; 29% instances), <tt><a href="it_valico-pos-ADV.html">ADV</a></tt>-<tt><a href="it_valico-pos-ADP.html">ADP</a></tt> (4; 14% instances), <tt><a href="it_valico-pos-ADP.html">ADP</a></tt>-<tt><a href="it_valico-pos-NUM.html">NUM</a></tt> (1; 4% instances), <tt><a href="it_valico-pos-ADV.html">ADV</a></tt>-<tt><a href="it_valico-pos-ADV.html">ADV</a></tt> (1; 4% instances), <tt><a href="it_valico-pos-ADV.html">ADV</a></tt>-<tt><a href="it_valico-pos-DET.html">DET</a></tt> (1; 4% instances), <tt><a href="it_valico-pos-INTJ.html">INTJ</a></tt>-<tt><a href="it_valico-pos-INTJ.html">INTJ</a></tt> (1; 4% instances).
 
 
 ~~~ conllu
@@ -29,7 +29,7 @@ The following 8 pairs of parts of speech are connected with `fixed`: <tt><a href
 5	lanciato	lanciare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 6	su	su	ADP	E	_	7	case	_	_
 7	Luca	Luca	PROPN	SP	_	5	obl	_	_
-8	così	così	SCONJ	CS	_	10	mark	_	_
+8	così	così	SCONJ	CS	ExtPos=ADV	10	mark	_	_
 9	che	che	SCONJ	CS	_	8	fixed	_	_
 10	cadeva	cadere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	advcl	_	_
 11	su	su	ADP	E	_	13	case	_	_
@@ -48,7 +48,7 @@ The following 8 pairs of parts of speech are connected with `fixed`: <tt><a href
 # visual-style 3 4 fixed	color:blue
 1	Ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	aux	_	_
 2	camminato	camminare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
-3	sopra	sopra	ADP	E	_	6	case	_	_
+3	sopra	sopra	ADP	E	ExtPos=ADP	6	case	_	_
 4	a	a	ADP	E	_	3	fixed	_	_
 5	l'	lo	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
 6	uomo	uomo	NOUN	S	Gender=Masc|Number=Sing	2	obl	_	_
@@ -73,7 +73,7 @@ The following 8 pairs of parts of speech are connected with `fixed`: <tt><a href
 2	la	la	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
 3	donna	donna	NOUN	S	Gender=Fem|Number=Sing	11	nsubj	_	SpaceAfter=No
 4	,	,	PUNCT	FF	_	3	punct	_	_
-5	invece	invece	ADV	B	_	7	mark	_	_
+5	invece	invece	ADV	B	ExtPos=ADV	7	mark	_	_
 6	di	di	ADP	E	_	5	fixed	_	_
 7	ringraziar	ringraziare	VERB	V	VerbForm=Inf	3	acl	_	_
 8	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obj	_	_

@@ -16,11 +16,11 @@ The feature is used with 1 part-of-speech tags: <tt><a href="tr_kenet-pos-ADV.ht
 
 ### `ADV`
 
-774 <tt><a href="tr_kenet-pos-ADV.html">ADV</a></tt> tokens (7% of all `ADV` tokens) have a non-empty value of `Degree`.
+774 <tt><a href="tr_kenet-pos-ADV.html">ADV</a></tt> tokens (10% of all `ADV` tokens) have a non-empty value of `Degree`.
 
 `ADV` tokens may have the following values of `Degree`:
 
 * `Cmp` (446; 58% of non-empty `Degree`): <em>daha, dah</em>
 * `Sup` (328; 42% of non-empty `Degree`): <em>en</em>
-* `EMPTY` (10252): <em>sonra, bir, bile, çok, içinde, ne, şimdi, hiç, artık, pek</em>
+* `EMPTY` (7206): <em>sonra, bile, bir, çok, ne, içinde, şimdi, hiç, artık, pek</em>
 

@@ -55,7 +55,7 @@ Alphabetical listing
 (This is not the list of all relation types used in all languages.
 It is the list of relations that happen to have a documentation page available globally, as opposed to language-specific pages.
 So it contains all main types plus the semi-mandatory subtypes discussed above, plus an arbitrary selection of other subtypes.
-To see all subtypes that occurred in the most recent UD release, go to [Relation Subtypes in the Data](https://universaldependencies.org/ext-dep-index.html).)
+To see all subtypes that occurred in the most recent UD release, go to [Relation Subtypes in the Data](/survey-deprel.html).)
 
 {% assign sorted = site.u-dep | sort: 'title' %}{% for p in sorted %}
 * [{{ p.title }}](): {{ p.shortdef }}{% endfor %}

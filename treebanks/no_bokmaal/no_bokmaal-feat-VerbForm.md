@@ -31,7 +31,7 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 <table>
   <tr><th>Paradigm <i>overraske</i></th><th><tt>Fin</tt></th><th><tt>Fin,Part</tt></th><th><tt>Inf</tt></th><th><tt>Part</tt></th></tr>
   <tr><td><tt>_</tt></td><td></td><td></td><td><em>overraske</em></td><td><em>overrasket</em></td></tr>
-  <tr><td><tt><tt><a href="no_bokmaal-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="no_bokmaal-feat-Gender.html">Gender</a></tt><tt>=Fem,Masc</tt>|<tt><a href="no_bokmaal-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="no_bokmaal-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="no_bokmaal-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td><em>overrasket</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="no_bokmaal-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="no_bokmaal-feat-Gender.html">Gender</a></tt><tt>=Com</tt>|<tt><a href="no_bokmaal-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="no_bokmaal-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="no_bokmaal-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td><em>overrasket</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="no_bokmaal-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="no_bokmaal-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>overrasket</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="no_bokmaal-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="no_bokmaal-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>overrasker</em></td><td></td><td></td><td></td></tr>
 </table>
@@ -75,6 +75,7 @@ The 10 most frequent relations where parent and child node agree in `VerbForm`:
 <tt>VERB --[<tt><a href="no_bokmaal-dep-conj.html">conj</a></tt>]--> VERB</tt> (2575; 76%),
 <tt>VERB --[<tt><a href="no_bokmaal-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (1279; 67%),
 <tt>VERB --[<tt><a href="no_bokmaal-dep-dislocated.html">dislocated</a></tt>]--> VERB</tt> (9; 53%),
+<tt>VERB --[<tt><a href="no_bokmaal-dep-csubj-pass.html">csubj:pass</a></tt>]--> VERB</tt> (5; 63%),
 <tt>AUX --[<tt><a href="no_bokmaal-dep-conj.html">conj</a></tt>]--> VERB</tt> (1; 100%),
 <tt>VERB --[<tt><a href="no_bokmaal-dep-iobj.html">iobj</a></tt>]--> VERB</tt> (1; 100%),
 <tt>VERB --[<tt><a href="no_bokmaal-dep-nsubj.html">nsubj</a></tt>]--> AUX</tt> (1; 100%).

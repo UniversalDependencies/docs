@@ -22,10 +22,10 @@ The following 18 pairs of parts of speech are connected with `discourse`: <tt><a
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 1 discourse	color:blue
-1	їбо	ибо	ADV	Df	_	4	discourse	_	ref=76.18
-2	стрѣлꙑ	стрѣла	NOUN	Nb	Case=Nom|Gender=Fem|Number=Plur	4	nsubj	_	ref=76.18
-3	твоѩ	твои	DET	Ps	Case=Nom|Gender=Fem|Number=Plur|Person=2|Poss=Yes	2	det	_	ref=76.18
-4	прѣходѩтъ	прѣходити	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=76.18
+1	їбо	ибо	ADV	Df	_	4	discourse	_	Ref=76.18
+2	стрѣлꙑ	стрѣла	NOUN	Nb	Case=Nom|Gender=Fem|Number=Plur	4	nsubj	_	Ref=76.18
+3	твоѩ	твои	DET	Ps	Case=Nom|Gender=Fem|Number=Plur|Person=2|Poss=Yes	2	det	_	Ref=76.18
+4	прѣходѩтъ	прѣходити	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=76.18
 
 ~~~
 
@@ -36,12 +36,12 @@ The following 18 pairs of parts of speech are connected with `discourse`: <tt><a
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 2 discourse	color:blue
-1	и҅	и	CCONJ	C-	_	6	cc	_	ref=8
-2	се	сь	INTJ	I-	_	6	discourse	_	ref=8
-3	лице	лице	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	ref=8
-4	ѥ҅го	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	det	_	ref=8
-5	о҅браꙁꙑ	образъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	6	obj	_	ref=8
-6	и҅ꙁмѣнꙗше	измѣнꙗти	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=8
+1	и҅	и	CCONJ	C-	_	6	cc	_	Ref=8
+2	се	сь	INTJ	I-	_	6	discourse	_	Ref=8
+3	лице	лице	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	Ref=8
+4	ѥ҅го	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	det	_	Ref=8
+5	о҅браꙁꙑ	образъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	6	obj	_	Ref=8
+6	и҅ꙁмѣнꙗше	измѣнꙗти	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=8
 
 ~~~
 
@@ -52,11 +52,11 @@ The following 18 pairs of parts of speech are connected with `discourse`: <tt><a
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 1 discourse	color:blue
-1	Ѣко	ꙗко	ADV	Df	_	3	discourse	_	ref=105.1|LId=2
-2	вь	въ	ADP	R-	_	3	case	_	ref=105.1
-3	вѣкъ	вѣкъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	0	root	_	ref=105.1
-4	мілостъ	милость	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	ref=105.1
-5	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	det	_	ref=105.1
+1	Ѣко	ꙗко	ADV	Df	_	3	discourse	_	LId=2|Ref=105.1
+2	вь	въ	ADP	R-	_	3	case	_	Ref=105.1
+3	вѣкъ	вѣкъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	0	root	_	Ref=105.1
+4	мілостъ	милость	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	Ref=105.1
+5	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	det	_	Ref=105.1
 
 ~~~
 

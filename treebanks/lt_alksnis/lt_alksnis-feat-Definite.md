@@ -246,9 +246,9 @@ The 10 most frequent relations where parent and child node agree in `Definite`:
 <tt>NUM --[<tt><a href="lt_alksnis-dep-conj.html">conj</a></tt>]--> NUM</tt> (82; 99%),
 <tt>ADJ --[<tt><a href="lt_alksnis-dep-obl-arg.html">obl:arg</a></tt>]--> PRON</tt> (48; 100%),
 <tt>ADJ --[<tt><a href="lt_alksnis-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (44; 100%),
-<tt>ADJ --[<tt><a href="lt_alksnis-dep-det.html">det</a></tt>]--> DET</tt> (31; 100%),
+<tt>PRON --[<tt><a href="lt_alksnis-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (33; 100%),
 <tt>ADJ --[<tt><a href="lt_alksnis-dep-nsubj.html">nsubj</a></tt>]--> DET</tt> (31; 100%),
-<tt>PRON --[<tt><a href="lt_alksnis-dep-det.html">det</a></tt>]--> DET</tt> (22; 100%),
+<tt>ADJ --[<tt><a href="lt_alksnis-dep-det.html">det</a></tt>]--> DET</tt> (28; 100%),
 <tt>PRON --[<tt><a href="lt_alksnis-dep-conj.html">conj</a></tt>]--> PRON</tt> (21; 100%),
-<tt>VERB --[<tt><a href="lt_alksnis-dep-nsubj-pass.html">nsubj:pass</a></tt>]--> PRON</tt> (21; 100%).
+<tt>PRON --[<tt><a href="lt_alksnis-dep-det.html">det</a></tt>]--> DET</tt> (21; 100%).
 

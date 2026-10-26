@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-100 nodes (0%) are attached to their parents as `xcomp`.
+103 nodes (0%) are attached to their parents as `xcomp`.
 
-88 instances of `xcomp` (88%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.61.
+91 instances of `xcomp` (88%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.56310679611651.
 
-The following 7 pairs of parts of speech are connected with `xcomp`: <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt> (88; 88% instances), <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt> (5; 5% instances), <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_birchbark-pos-ADJ.html">ADJ</a></tt> (3; 3% instances), <tt><a href="orv_birchbark-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_birchbark-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="orv_birchbark-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_birchbark-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_birchbark-pos-X.html">X</a></tt> (1; 1% instances).
+The following 8 pairs of parts of speech are connected with `xcomp`: <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt> (89; 86% instances), <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt> (5; 5% instances), <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_birchbark-pos-ADJ.html">ADJ</a></tt> (4; 4% instances), <tt><a href="orv_birchbark-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_birchbark-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="orv_birchbark-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="orv_birchbark-pos-AUX.html">AUX</a></tt>-<tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_birchbark-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_birchbark-pos-X.html">X</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -52,24 +52,15 @@ The following 7 pairs of parts of speech are connected with `xcomp`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 9 xcomp	color:blue
-1	реклъ	речи	VERB	_	Analyt=Yes|Gender=Masc|Number=Sing|Tense=Pqp|VerbForm=PartRes|Voice=Act	0	root	_	wf="реклъ"|addr="195:1"|_
-2	ѥси	быти	AUX	_	Analyt=Yes|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	1	aux	_	wf="ѥси"|addr="195:1"|_
-3	былъ	быти	AUX	_	Analyt=Yes|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	1	aux	_	wf="былъ"|tense=perf|addr="195:1"|_
-4	во	въ	ADP	_	_	6	case	_	wf="во"|addr="195:2"|line_id=2|_
-5	своѥмь	свои	DET	_	Case=Loc|Gender=Neut|Number=Sing	6	det	_	wf="своѥмь"|addr="195:2"|_
-6	селѣ	село	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	1	obl	_	wf="селѣ"|addr="195:2"|_
-7	верши	вершь	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	1	obj	_	wf="верши"|meaning="хлеб_в_скирдах,_зерно"|addr="195:2"|_
-8	всѣ	весь	DET	_	Case=Acc|Gender=Fem|Number=Plur	7	det	_	wf="всѣ"|addr="195:2"|_
-9	добрꙑ	добрыи	ADJ	_	Case=Acc|Gender=Fem|Number=Plur|Variant=Short	1	xcomp	_	wf="добрꙑ"|addr="195:2"|_
-10	и	и	CCONJ	_	_	12	cc	_	wf="и"|addr="195:2"|_
-11	ѧраѧ	ꙗрыи	ADJ	_	Case=Acc|Gender=Neut|Number=Plur	12	amod	_	wf="ѧраѧ"|addr="195:2"|_
-12	жита	жито	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	7	conj	_	wf="жита"|addr="195:2"|_
-13	…	…	PUNCT	_	_	1	punct	_	wf="…"|line_id=3|_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 4 xcomp	color:blue
+1	а	а	CCONJ	_	_	3	cc	_	wf="а"|addr="129: Внутренняя сторона,_начало_грамоты:16а"|_
+2	па(къ	пакы	PART	_	_	3	advmod	_	wf="пакъ"|addr="129:_Внутренняя_сторона,_начало_грамоты:16а"|_
+3	творѧ)<lbr/>ть	творити	VERB	_	Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	wf="творѧть"|meaning="считать_(чем),_утверждать_(про_кого_что)"|addr="129:_Внутренняя_сторона,_начало_грамоты:16а"|_
+4	виновату	виноватыи	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	3	xcomp	_	wf="виновату"|addr="129:_Внешняя_сторона:1б"|page_id=129: Внешняя сторона|line_id=1б|_
 
 ~~~
 

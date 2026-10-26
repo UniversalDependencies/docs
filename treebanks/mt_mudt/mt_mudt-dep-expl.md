@@ -22,7 +22,7 @@ The following 5 pairs of parts of speech are connected with `expl`: <tt><a href=
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 3 expl	color:blue
-1	Sa	_	ADP	PREP	_	4	mark	_	_
+1	Sa	_	ADP	PREP	ExtPos=SCONJ	4	mark	_	_
 2	fejn	_	PRON	PRON_INT	_	1	fixed	_	_
 3	hu	_	PRON	PRON_PERS	_	4	expl	_	_
 4	magħruf	_	VERB	PART_PASS	_	10	advcl	_	SpaceAfter=No

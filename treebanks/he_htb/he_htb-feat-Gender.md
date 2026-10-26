@@ -176,7 +176,7 @@ The 10 most frequent relations where parent and child node agree in `Gender`:
 <tt>NOUN --[<tt><a href="he_htb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (2755; 52%),
 <tt>NOUN --[<tt><a href="he_htb-dep-nmod-poss.html">nmod:poss</a></tt>]--> PRON</tt> (1338; 50%),
 <tt>NOUN --[<tt><a href="he_htb-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (1321; 65%),
-<tt>NOUN --[<tt><a href="he_htb-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1209; 60%),
+<tt>NOUN --[<tt><a href="he_htb-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1212; 60%),
 <tt>VERB --[<tt><a href="he_htb-dep-conj.html">conj</a></tt>]--> VERB</tt> (1034; 72%),
 <tt>VERB --[<tt><a href="he_htb-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (763; 75%),
 <tt>NOUN --[<tt><a href="he_htb-dep-det.html">det</a></tt>]--> PRON</tt> (617; 90%),

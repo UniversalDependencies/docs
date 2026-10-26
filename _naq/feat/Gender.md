@@ -18,7 +18,7 @@ In Khoekhoe, `Gender` is a feature of nominals: [nouns](naq-pos/NOUN), [proper n
 
 ### <a name="Masc">`Masc`</a>: masculine gender
 
-Nouns denoting male persons are masculine. Nominals may be also grammatically masculine, without any relation to sex.
+Nouns denoting male persons are masculine. Nominals may also be grammatically masculine, without any relation to sex.
 
 #### Examples
 
@@ -74,3 +74,4 @@ This third gender (called common) is for nouns that are neither masculine nor fe
   _sam_ "we two(dual incl.)", _sase_ "we (plur. incl.)" ,
   _saro_ "you (dual)", _sadu_ "you (plur.)",
   _ǁî-i_ "it", _ǁîra_ "they" (dual), _ǁîn_ "they (plur.)"
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:54 CEST -->

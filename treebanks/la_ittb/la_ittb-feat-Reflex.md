@@ -18,7 +18,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="la_ittb-pos-PRON.ht
 
 2528 <tt><a href="la_ittb-pos-PRON.html">PRON</a></tt> tokens (11% of all `PRON` tokens) have a non-empty value of `Reflex`.
 
-The most frequent other feature values with which `PRON` and `Reflex` co-occurred: <tt><a href="la_ittb-feat-Person.html">Person</a></tt><tt>=3</tt> (2528; 100%), <tt><a href="la_ittb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (2528; 100%), <tt><a href="la_ittb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2037; 81%), <tt><a href="la_ittb-feat-InflClass.html">InflClass</a></tt><tt>=LatAnom</tt> (2037; 81%), <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (2037; 81%), <tt><a href="la_ittb-feat-Compound.html">Compound</a></tt><tt>=EMPTY</tt> (2029; 80%), <tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Acc</tt> (1673; 66%).
+The most frequent other feature values with which `PRON` and `Reflex` co-occurred: <tt><a href="la_ittb-feat-Person.html">Person</a></tt><tt>=3</tt> (2528; 100%), <tt><a href="la_ittb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (2528; 100%), <tt><a href="la_ittb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2037; 81%), <tt><a href="la_ittb-feat-InflClass.html">InflClass</a></tt><tt>=LatAnom</tt> (2037; 81%), <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (2037; 81%), <tt><a href="la_ittb-feat-Compound.html">Compound</a></tt><tt>=EMPTY</tt> (2029; 80%), <tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Acc</tt> (1672; 66%).
 
 `PRON` tokens may have the following values of `Reflex`:
 

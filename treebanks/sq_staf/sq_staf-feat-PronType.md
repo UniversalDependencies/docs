@@ -29,7 +29,7 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 * `Prs` (251; 64% of non-empty `PronType`): <em>e, i, më, unë, ai, tij, ajo, im, na, mua</em>
 * `Rel` (27; 7% of non-empty `PronType`): <em>që, cilët, ç', cili, cilën, cilës</em>
 * `Tot` (2; 1% of non-empty `PronType`): <em>kaq, gjitha</em>
-* `EMPTY` (39): <em>më, e, i, që, tim, Ç', Asnjeri, ai, asnjë, aso</em>
+* `EMPTY` (40): <em>e, më, i, që, tim, Ç', Asnjeri, ai, asnjë, aso</em>
 
 <table>
   <tr><th>Paradigm <i>ai</i></th><th><tt>Prs</tt></th><th><tt>Dem</tt></th></tr>
@@ -52,14 +52,14 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 
 ### `DET`
 
-157 <tt><a href="sq_staf-pos-DET.html">DET</a></tt> tokens (52% of all `DET` tokens) have a non-empty value of `PronType`.
+157 <tt><a href="sq_staf-pos-DET.html">DET</a></tt> tokens (53% of all `DET` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="sq_staf-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (157; 100%), <tt><a href="sq_staf-feat-Number.html">Number</a></tt><tt>=Sing</tt> (125; 80%), <tt><a href="sq_staf-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (92; 59%).
+The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="sq_staf-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (157; 100%), <tt><a href="sq_staf-feat-Number.html">Number</a></tt><tt>=Sing</tt> (125; 80%), <tt><a href="sq_staf-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (93; 59%).
 
 `DET` tokens may have the following values of `PronType`:
 
 * `Art` (157; 100% of non-empty `PronType`): <em>e, të, i, së</em>
-* `EMPTY` (143): <em>një, e, të, i, së, nja, pak</em>
+* `EMPTY` (142): <em>një, e, të, i, së, nja, pak</em>
 
 ## Relations with Agreement in `PronType`
 

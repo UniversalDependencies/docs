@@ -23,7 +23,7 @@ The following 7 pairs of parts of speech are connected with `root`: -<tt><a href
 # visual-style 0	fgColor:white
 # visual-style 0 2 root	color:blue
 1	Мама	мама	NOUN	N	Case=Nom|Number=Sing	2	nsubj	_	OrigLang=ru
-2	уджалӧ	уджавны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+2	уджалӧ	уджавны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	колхозын	колхоз	NOUN	N	Case=Ine|Number=Sing	2	obl	_	OrigLang=ru|SpaceAfter=No
 4	.	.	PUNCT	CLB	_	2	punct	_	_
 

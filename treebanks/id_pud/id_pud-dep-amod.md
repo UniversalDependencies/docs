@@ -25,7 +25,7 @@ The following 8 pairs of parts of speech are connected with `amod`: <tt><a href=
 1	Pengeluaran	keluar	NOUN	_	Number=Sing	4	nsubj:pass	_	_
 2	baru	baru	ADJ	_	_	1	amod	_	_
 3	ini	ini	DET	_	PronType=Dem	1	det	_	_
-4	dipasok	pasok	VERB	_	Mood=Ind|Voice=Pass	0	root	_	_
+4	dipasok	pasok	VERB	_	Voice=Pass	0	root	_	_
 5	oleh	oleh	ADP	_	_	6	case	_	_
 6	rekening	rekening	NOUN	_	Number=Sing	4	obl:agent	_	_
 7	bank	bank	NOUN	_	Number=Sing	6	nmod	_	_
@@ -45,8 +45,8 @@ The following 8 pairs of parts of speech are connected with `amod`: <tt><a href=
 1	Pertandingan	Pertandingan	PROPN	_	_	4	nsubj:pass	_	_
 2	Olimpiade	Olimpiade	PROPN	_	_	1	flat:name	_	_
 3	terakhir	akhir	ADJ	_	Degree=Sup	1	amod	_	_
-4	diyakini	yakin	VERB	_	Mood=Ind|Voice=Pass	0	root	_	_
-5	diadakan	ada	VERB	_	Mood=Ind|Voice=Pass	4	xcomp	_	_
+4	diyakini	yakin	VERB	_	Voice=Pass	0	root	_	_
+5	diadakan	ada	VERB	_	Voice=Pass	4	xcomp	_	_
 6	pada	pada	ADP	_	_	7	case	_	_
 7	tahun	tahun	NOUN	_	Number=Sing	5	obl:tmod	_	_
 8	393	393	NUM	_	NumType=Card	7	nummod	_	SpaceAfter=No
@@ -64,7 +64,7 @@ The following 8 pairs of parts of speech are connected with `amod`: <tt><a href=
 1	Beberapa	berapa	DET	_	PronType=Ind	2	det	_	_
 2	cendekiawan	cendekiawan	NOUN	_	Number=Sing	4	nsubj	_	_
 3	Kristen	Kristen	PROPN	_	_	2	nmod	_	_
-4	mengkritik	kritik	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
+4	mengkritik	kritik	VERB	_	Voice=Act	0	root	_	_
 5	pengajaran	ajar	NOUN	_	Number=Sing	4	obj	_	_
 6	Tolle	Tolle	PROPN	_	_	5	nmod:poss	_	SpaceAfter=No
 7	,	,	PUNCT	_	_	12	punct	_	_
@@ -72,7 +72,7 @@ The following 8 pairs of parts of speech are connected with `amod`: <tt><a href=
 9	yang	yang	PRON	_	PronType=Rel	12	nsubj	_	_
 10	lain	lain	ADJ	_	_	9	amod	_	_
 11	nya	nya	DET	_	Definite=Def|PronType=Art	9	det	_	_
-12	memuji	puji	VERB	_	Mood=Ind|Voice=Act	4	conj	_	_
+12	memuji	puji	VERB	_	Voice=Act	4	conj	_	_
 13	nya	nya	PRON	_	Number=Sing|Person=3|PronType=Prs	12	obj	_	_
 14	.	.	PUNCT	_	_	4	punct	_	_
 

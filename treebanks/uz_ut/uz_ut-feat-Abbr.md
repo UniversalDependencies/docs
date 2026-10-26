@@ -23,7 +23,7 @@ The most frequent other feature values with which `PROPN` and `Abbr` co-occurred
 `PROPN` tokens may have the following values of `Abbr`:
 
 * `Yes` (10; 100% of non-empty `Abbr`): <em>A., BBC, AQSH, AQSHdagi, AQSHga, AQSh, AQShga, KXDR, MDH, Oʻzbekistonga</em>
-* `EMPTY` (298): <em>O‘zbekiston, Toshkent, Rossiya, Ukraina, Koreya, Samarqand, Toshkentda, Amerika, Asqar, Buxoro</em>
+* `EMPTY` (298): <em>Oʻzbekiston, Toshkent, Rossiya, Ukraina, Koreya, Samarqand, Toshkentda, Amerika, Asqar, Buxoro</em>
 
 ### `NOUN`
 
@@ -34,7 +34,7 @@ The most frequent other feature values with which `NOUN` and `Abbr` co-occurred:
 `NOUN` tokens may have the following values of `Abbr`:
 
 * `Yes` (7; 100% of non-empty `Abbr`): <em>AJ, IIBB, IShID, JKning, OAV, OKMK, ZTE</em>
-* `EMPTY` (2124): <em>nafar, kuni, yil, davlat, odam, prezidenti, davom, doirasida, qishloq, ishlar</em>
+* `EMPTY` (2145): <em>nafar, kuni, yil, davlat, odam, prezidenti, davom, doirasida, qishloq, ishlar</em>
 
 ### `NUM`
 
@@ -45,5 +45,5 @@ The most frequent other feature values with which `NUM` and `Abbr` co-occurred: 
 `NUM` tokens may have the following values of `Abbr`:
 
 * `Yes` (3; 100% of non-empty `Abbr`): <em>mln</em>
-* `EMPTY` (207): <em>bir, biri, ikki, 12, birinchi, 1, 10, 2020, 4, 100</em>
+* `EMPTY` (211): <em>bir, biri, ikki, 12, 10, 4, birinchi, 1, 2020, yetti</em>
 

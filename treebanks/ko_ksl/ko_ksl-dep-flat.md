@@ -8,70 +8,63 @@ udver: '2'
 
 This relation is universal.
 
-526 nodes (1%) are attached to their parents as `flat`.
+1247 nodes (1%) are attached to their parents as `flat`.
 
-526 instances of `flat` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.44106463878327.
+1247 instances of `flat` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.24458700882117.
 
-The following 18 pairs of parts of speech are connected with `flat`: <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (377; 72% instances), <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> (66; 13% instances), <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> (28; 5% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> (10; 2% instances), <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt>-<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (9; 2% instances), <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt> (6; 1% instances), <tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt>-<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (6; 1% instances), <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt>-<tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> (4; 1% instances), <tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt>-<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-PROPN.html">PROPN</a></tt> (3; 1% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt>-<tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt>-<tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="ko_ksl-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="ko_ksl-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ko_ksl-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 32 pairs of parts of speech are connected with `flat`: <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (906; 73% instances), <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> (149; 12% instances), <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> (77; 6% instances), <tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt>-<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (14; 1% instances), <tt><a href="ko_ksl-pos-DET.html">DET</a></tt>-<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (13; 1% instances), <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> (10; 1% instances), <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt>-<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (8; 1% instances), <tt><a href="ko_ksl-pos-DET.html">DET</a></tt>-<tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> (7; 1% instances), <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt> (5; 0% instances), <tt><a href="ko_ksl-pos-PRON.html">PRON</a></tt>-<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (5; 0% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-AUX.html">AUX</a></tt> (5; 0% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> (5; 0% instances), <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt>-<tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="ko_ksl-pos-PRON.html">PRON</a></tt>-<tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko_ksl-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt>-<tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt>-<tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko_ksl-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko_ksl-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt>-<tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt>-<tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ko_ksl-pos-AUX.html">AUX</a></tt>-<tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ko_ksl-pos-DET.html">DET</a></tt>-<tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 flat	color:blue
+1	2008년	2008+년	NOUN	SN+NNB	_	5	obl	_	_
+2	12월	12+월	NOUN	SN+NNB	_	1	flat	_	_
+3	24일에	24+일+에	ADV	SN+NNB+JKB	_	1	flat	_	_
+4	KTX로	KTX+로	ADV	SL+JKB	_	5	obl	_	_
+5	출발하고	출발+하+고	VERB	NNG+XSV+EC	_	0	root	_	_
+6	12월	12+월	NOUN	SN+NNB	_	8	obl	_	_
+7	25일에	25+일+에	ADV	SN+NNB+JKB	_	6	flat	_	_
+8	도착하겠는다	도착+하+겠+는다	VERB	NNG+XSV+EP+EF	_	5	conj	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 3 flat	color:blue
+1	저는	저+는	PRON	NP+JX	PronType=Prs	5	nsubj	_	_
+2	6월	6+월	NOUN	SN+NNB	_	5	obl	_	_
+3	20일에	20+일+에	ADV	SN+NNB+JKB	_	2	flat	_	_
+4	여행을	여행+을	NOUN	NNG+JKO	_	5	obj	_	_
+5	가고	가+고	VERB	VV+EC	_	0	root	_	_
+6	싶습니다	싶	AUX	VX+EF	_	5	aux	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	5	punct	_	_
+
+~~~
 
 
 ~~~ conllu
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 6 flat	color:blue
-1	내가	내+가	PRON	NP+JKS	_	2	nsubj	_	_
-2	좋아하는	좋아하+는	VERB	VV+ETM	_	3	acl	_	_
-3	장소	장소	NOUN	NNG	_	4	nmod	_	_
-4	이름은	이름+은	NOUN	NNG+JX	_	5	nsubj	_	_
-5	샹그리라	샹그리라	NOUN	NNP	_	0	root	_	_
-6	중국	중국	NOUN	NNP	_	5	flat	_	_
-7	윈남성	윈남성	NOUN	NNP	_	5	flat	_	_
-8	디칭장족자지주이있다	디칭장족자지주+이+있+다	VERB	NNP+JKS+VV+EF	_	5	flat	_	SpaceAfter=No
-9	.	.	PUNCT	SF	_	5	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 10 flat	color:blue
-1	조사	조사	NOUN	NNG	_	2	nmod	_	_
-2	결과는	결과+는	NOUN	NNG+JX	_	11	nsubj	_	_
-3	만족	만족	NOUN	NNG	_	10	list	_	_
-4	103명	103+명	NOUN	SN+NNB	_	3	flat	_	SpaceAfter=No
-5	,	,	PUNCT	SP	_	4	punct	_	_
-6	불만족	불+만족	NOUN	XPN+NNG	_	10	list	_	_
-7	54명	54+명	NOUN	SN+NNB	_	6	flat	_	SpaceAfter=No
-8	,	,	PUNCT	SP	_	7	punct	_	_
-9	무음답	무+음답	NOUN	XPN+NF	_	11	obl	_	_
-10	40명으로	40+명+으로	ADV	SN+NNB+JKB	_	9	flat	_	_
-11	나왔다	나오+았+다	VERB	VV+EP+EF	_	0	root	_	SpaceAfter=No
-12	.	.	PUNCT	SF	_	11	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 8 flat	color:blue
-1	내가	내+가	PRON	NP+JKS	_	2	nsubj	_	_
-2	좋아하는	좋아하+는	VERB	VV+ETM	_	3	acl	_	_
-3	장소	장소	NOUN	NNG	_	4	nmod	_	_
-4	이름은	이름+은	NOUN	NNG+JX	_	5	nsubj	_	_
-5	샹그리라	샹그리라	NOUN	NNP	_	0	root	_	_
-6	중국	중국	NOUN	NNP	_	5	flat	_	_
-7	윈남성	윈남성	NOUN	NNP	_	5	flat	_	_
-8	디칭장족자지주이있다	디칭장족자지주+이+있+다	VERB	NNP+JKS+VV+EF	_	5	flat	_	SpaceAfter=No
-9	.	.	PUNCT	SF	_	5	punct	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 6 flat	color:blue
+1	겨울은	겨울+은	NOUN	NNG+JX	_	4	nsubj	_	_
+2	12월	12+월	NOUN	SN+NNB	_	4	nmod	_	_
+3	부터	부터	ADP	JX	_	2	case	_	_
+4	2월	2+월	NOUN	SN+NNB	_	0	root	_	_
+5	까지	까지	ADP	JX	_	4	case	_	_
+6	입니다	이+ㅂ니다	ADJ	VCP+EF	_	4	flat	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	4	punct	_	_
 
 ~~~
 

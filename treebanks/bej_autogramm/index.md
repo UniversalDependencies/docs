@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.8 release.
 The following people have contributed to making this treebank part of UD: Martine Vanhove, Rayan Ziane, Sylvain Kahane, Bruno Guillaume.
 
 Repository: [UD_Beja-Autogramm](https://github.com/UniversalDependencies/UD_Beja-Autogramm)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udbej_autogramm215)<br />
-Download all treebanks: [UD 2.15](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udbej_autogramm218)<br />
+Download all treebanks: [UD 2.18](/#download)
 
 License: CC BY-SA 4.0
 
@@ -76,13 +76,13 @@ This treebank has been done in collaboration between Vanhove Martine, Ziane Raya
 
 ## Relations
 
-[acl](bej_autogramm-dep-acl.html) – [acl:relcl](bej_autogramm-dep-acl-relcl.html) – [advcl](bej_autogramm-dep-advcl.html) – [advmod](bej_autogramm-dep-advmod.html) – [amod](bej_autogramm-dep-amod.html) – [appos](bej_autogramm-dep-appos.html) – [aux](bej_autogramm-dep-aux.html) – [cc](bej_autogramm-dep-cc.html) – [ccomp](bej_autogramm-dep-ccomp.html) – [compound:svc](bej_autogramm-dep-compound-svc.html) – [cop](bej_autogramm-dep-cop.html) – [dep](bej_autogramm-dep-dep.html) – [dep:comp](bej_autogramm-dep-dep-comp.html) – [dep:conj](bej_autogramm-dep-dep-conj.html) – [dep:flat](bej_autogramm-dep-dep-flat.html) – [dep:redup](bej_autogramm-dep-dep-redup.html) – [det](bej_autogramm-dep-det.html) – [discourse](bej_autogramm-dep-discourse.html) – [dislocated](bej_autogramm-dep-dislocated.html) – [dislocated:mod](bej_autogramm-dep-dislocated-mod.html) – [dislocated:obj](bej_autogramm-dep-dislocated-obj.html) – [dislocated:subj](bej_autogramm-dep-dislocated-subj.html) – [fixed](bej_autogramm-dep-fixed.html) – [iobj](bej_autogramm-dep-iobj.html) – [nmod](bej_autogramm-dep-nmod.html) – [nmod:poss](bej_autogramm-dep-nmod-poss.html) – [nsubj](bej_autogramm-dep-nsubj.html) – [nsubj:outer](bej_autogramm-dep-nsubj-outer.html) – [nummod](bej_autogramm-dep-nummod.html) – [obj](bej_autogramm-dep-obj.html) – [obl](bej_autogramm-dep-obl.html) – [obl:arg](bej_autogramm-dep-obl-arg.html) – [obl:mod](bej_autogramm-dep-obl-mod.html) – [parataxis](bej_autogramm-dep-parataxis.html) – [parataxis:insert](bej_autogramm-dep-parataxis-insert.html) – [parataxis:mod](bej_autogramm-dep-parataxis-mod.html) – [parataxis:parenth](bej_autogramm-dep-parataxis-parenth.html) – [punct](bej_autogramm-dep-punct.html) – [reparandum](bej_autogramm-dep-reparandum.html) – [root](bej_autogramm-dep-root.html) – [vocative](bej_autogramm-dep-vocative.html) – [xcomp](bej_autogramm-dep-xcomp.html)
+[acl](bej_autogramm-dep-acl.html) – [acl:relcl](bej_autogramm-dep-acl-relcl.html) – [advcl](bej_autogramm-dep-advcl.html) – [advmod](bej_autogramm-dep-advmod.html) – [amod](bej_autogramm-dep-amod.html) – [appos](bej_autogramm-dep-appos.html) – [aux](bej_autogramm-dep-aux.html) – [case](bej_autogramm-dep-case.html) – [cc](bej_autogramm-dep-cc.html) – [ccomp](bej_autogramm-dep-ccomp.html) – [compound:svc](bej_autogramm-dep-compound-svc.html) – [cop](bej_autogramm-dep-cop.html) – [dep](bej_autogramm-dep-dep.html) – [dep:comp](bej_autogramm-dep-dep-comp.html) – [dep:conj](bej_autogramm-dep-dep-conj.html) – [dep:flat](bej_autogramm-dep-dep-flat.html) – [dep:redup](bej_autogramm-dep-dep-redup.html) – [det](bej_autogramm-dep-det.html) – [det:poss](bej_autogramm-dep-det-poss.html) – [discourse](bej_autogramm-dep-discourse.html) – [dislocated](bej_autogramm-dep-dislocated.html) – [dislocated:mod](bej_autogramm-dep-dislocated-mod.html) – [dislocated:obj](bej_autogramm-dep-dislocated-obj.html) – [dislocated:subj](bej_autogramm-dep-dislocated-subj.html) – [fixed](bej_autogramm-dep-fixed.html) – [iobj](bej_autogramm-dep-iobj.html) – [nmod](bej_autogramm-dep-nmod.html) – [nmod:poss](bej_autogramm-dep-nmod-poss.html) – [nsubj](bej_autogramm-dep-nsubj.html) – [nsubj:outer](bej_autogramm-dep-nsubj-outer.html) – [nummod](bej_autogramm-dep-nummod.html) – [obj](bej_autogramm-dep-obj.html) – [obl](bej_autogramm-dep-obl.html) – [obl:arg](bej_autogramm-dep-obl-arg.html) – [obl:mod](bej_autogramm-dep-obl-mod.html) – [parataxis](bej_autogramm-dep-parataxis.html) – [parataxis:insert](bej_autogramm-dep-parataxis-insert.html) – [parataxis:mod](bej_autogramm-dep-parataxis-mod.html) – [parataxis:parenth](bej_autogramm-dep-parataxis-parenth.html) – [punct](bej_autogramm-dep-punct.html) – [reparandum](bej_autogramm-dep-reparandum.html) – [root](bej_autogramm-dep-root.html) – [vocative](bej_autogramm-dep-vocative.html) – [xcomp](bej_autogramm-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 763 sentences and 11951 tokens.</li>
+<li>This corpus contains 763 sentences and 11948 tokens.</li>
 </ul>
 
 <ul>
@@ -94,7 +94,7 @@ This treebank has been done in collaboration between Vanhove Martine, Ziane Raya
 </ul>
 
 <ul>
-<li>This corpus contains 47 types of words that contain both letters and punctuation. Examples: {laughter}, -t, e#, a#, aː#, dh#, -a, -aː, -b, aa#, aaa#, aaaj#, aga#, ago#, am#, aw#, aːn#, eː#, fira#, firar#, ha#, hahadn#, har#, ifi#, igam#, istaːf#, kaː#, rif#, sima#, simas#, ti#, tʔanoː#, uʔeː#, w#, wauːːː#, weːːː#, {noise}, əddew#, əgəg#, əl#, ət#, ʃibi#, ʃɛːka#, ʃʔibaː#, ʔa#, ʔo#, ʔuweːːːh#</li>
+<li>This corpus contains 49 types of words that contain both letters and punctuation. Examples: {laughter}, -t, e#, a#, aː#, dh#, -a, -aː, -b, -i, -ji, aa#, aaa#, aaaj#, aga#, ago#, am#, aw#, aːn#, eː#, fira#, firar#, ha#, hahadn#, har#, ifi#, igam#, istaːf#, kaː#, rif#, sima#, simas#, ti#, tʔanoː#, uʔeː#, w#, wauːːː#, weːːː#, {noise}, əddew#, əgəg#, əl#, ət#, ʃibi#, ʃɛːka#, ʃʔibaː#, ʔa#, ʔo#, ʔuweːːːh#</li>
 </ul>
 
 <ul>
@@ -162,7 +162,7 @@ This treebank has been done in collaboration between Vanhove Martine, Ziane Raya
       <li>NOUN: naː, lhaweː, na, takat, giɖʔa, sala, mʔari, ʃiha, ʔabaː, ʔaba</li>
       <li>NUM: gaːt</li>
       <li>PRON: ti=, -t, t=, ambataː, =oːki, imbateː, ombatoː</li>
-      <li>SCONJ: =eːt, =jeːt, =t, ti=</li>
+      <li>SCONJ: =eːt, =jeːt, =t, ti=, t=</li>
       <li>VERB: tindi, tini, tidi, tiːd, tiːfi, akai, ʔeːta, tikati, ʔeːti, ʔabkin</li>
     </ul>
   </li>
@@ -177,8 +177,8 @@ This treebank has been done in collaboration between Vanhove Martine, Ziane Raya
       <li>INTJ: jhaː</li>
       <li>NOUN: tak, doːr, mhiːn, jhaːm, mijʔat, dhaj, kʷiːkʷʔaːj, gaw, haˈwaːd, ʔar</li>
       <li>PART: ʔaʃaj</li>
-      <li>PRON: wi=, baruːk, umbaruːk, i=, w=, baroːk, baruː, baraː, barhi, barijoːk</li>
-      <li>SCONJ: =eːb, =jeːb, =b, ji=</li>
+      <li>PRON: wi=, baruːk, umbaruːk, i=, baroːk, w=, baruː, ji=, baraː, barhi</li>
+      <li>SCONJ: =eːb, =jeːb, =b</li>
       <li>VERB: indi, ini, jʔi, iːfi, iːbri, ikati, jʔiːni, id, isni, iːkti</li>
     </ul>
   </li>
@@ -203,12 +203,11 @@ This treebank has been done in collaboration between Vanhove Martine, Ziane Raya
       <li>ADJ: raw, dabaloːjaː, naʃʃalama, daːwliloːja</li>
       <li>ADP: =eːb, =eː, =jeː, =jeːb, =eːt, =jeːt</li>
       <li>AUX: =a, nijad, ijajna, =jaː, eːdna, idʔana, ijadna, iːdna, ndi, ikatin</li>
-      <li>DET: eːn, aː=, aːn, eː=, eːt, teː=, j=, taː=, aːt, -aː</li>
+      <li>DET: eːn, aː=, aːn, eː=, eːt, teː=, taː=, aːt, -aː, =eː</li>
       <li>NOUN: ʔar, jam, kam, nda, iːjʔaː, wari, ʔarit, far, ʔaraw, fatiːra</li>
       <li>NUM: gali</li>
       <li>PART: malia</li>
       <li>PRON: =eː, =oːn, =uːn, hinin, =aː, =hoːn, =eːk, =jeː, =aːn, =oːkna</li>
-      <li>SCONJ: ji=</li>
       <li>VERB: eːn, jʔeːn, akeːna, eːdna, hiːna, jʔeːna, ijadna, imoːra~rimna, iːfiina, jʔaʃiʃn</li>
       <li>X: malaːʔik</li>
     </ul>
@@ -282,7 +281,7 @@ This treebank has been done in collaboration between Vanhove Martine, Ziane Raya
 <ul>
   <li>Gen
     <ul>
-      <li>ADP: =i, =ji, =eː, =jeː</li>
+      <li>ADP: =i, =ji, =eː, =jeː, -i, -ji</li>
       <li>DET: oːnaːj, baliːnaːj</li>
       <li>PRON: =iji, =ijoː, =ihi, =iheː, =ji, =eːhi, =eːheː, =hi, =ijoːk, =joː</li>
     </ul>
@@ -325,7 +324,7 @@ This treebank has been done in collaboration between Vanhove Martine, Ziane Raya
     <ul>
       <li>DET: i=, oː=, w=, ti=, uː=, t=, j=, toː=, aː=, tuː=</li>
       <li>PRON: ti=, i=, w=, t=</li>
-      <li>SCONJ: ti=</li>
+      <li>SCONJ: t=, ti=</li>
     </ul>
   </li>
 </ul>
@@ -399,7 +398,7 @@ This treebank has been done in collaboration between Vanhove Martine, Ziane Raya
 <ul>
   <li>Aor
     <ul>
-      <li>AUX: iːdna, iːha, iːdn, tiːha, tiːjha</li>
+      <li>AUX: iːdna, iːha, iːd, iːdn, tiːha, tiːjha</li>
       <li>VERB: iːfi, iːbri, tiːd, tiːfi, iːd, iːkti, iːfiina, ʔeːti, iːdn, hiːn</li>
     </ul>
   </li>
@@ -408,7 +407,7 @@ This treebank has been done in collaboration between Vanhove Martine, Ziane Raya
 <ul>
   <li>Imp
     <ul>
-      <li>AUX: andi, dannʔi, nijad, ijajna, indi, eːdna, ijadna, iniːn, aniːw, idʔana</li>
+      <li>AUX: andi, dannʔi, nijad, ijajna, indi, eːdna, ijadna, iniːn, akati, aniːw</li>
       <li>PART: ka=, ki=</li>
       <li>VERB: indi, tindi, ikati, eːdna, manri, eːbi, dannʔi, ijadna, imoːra~rimna, tikati</li>
     </ul>
@@ -505,8 +504,8 @@ This treebank has been done in collaboration between Vanhove Martine, Ziane Raya
 <ul>
   <li>Rel
     <ul>
-      <li>PRON: ti=, wi=, i=, w=, t=, ji=, wʔi=</li>
-      <li>SCONJ: =eːb, =eː, =i, =jeːb, =jeː, =eːt, =jeːt, =ji, =t, =b</li>
+      <li>PRON: ti=, wi=, i=, w=, ji=, t=</li>
+      <li>SCONJ: =eːb, =i, =eː, =jeːb, =eːt, =jeː, =jeːt, =ji, =t, =b</li>
     </ul>
   </li>
 </ul>
@@ -544,7 +543,7 @@ This treebank has been done in collaboration between Vanhove Martine, Ziane Raya
   <li>1
     <ul>
       <li>AUX: =u, =i, =a, ʔeːnaj</li>
-      <li>PRON: =heːb, =i, ani, =oːn, aneːb, =oː, =eː, =ji, =uːn, hinin</li>
+      <li>PRON: =heːb, =i, ani, =oːn, aneːb, =oː, =ji, =uːn, hinin, =eː</li>
       <li>VERB: ʔagar, dannʔi, hagil, hagit, haːra~riw, manri, ʔanbiːk</li>
     </ul>
   </li>
@@ -674,7 +673,7 @@ This treebank has been done in collaboration between Vanhove Martine, Ziane Raya
     <ul>
       <li>1
         <ul>
-          <li>AUX: iki, aki, nʔati, tiki, ani, anʔa, idʔana, ini, inʔakʷn, taki</li>
+          <li>AUX: iki, aki, nʔati, tiki, ani, anʔa, idʔana, ini, inʔakʷn, iːd</li>
           <li>VERB: eːn, indi, ini, iːfi, tindi, diːtiːt, akajeː, difeː, iːbri, akeːna</li>
           <li>VERB-Conv: diːt, diːtiːt, hajiːd</li>
         </ul>
@@ -726,7 +725,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>nsubj</a>
     <ul>
       <li>VERB--NOUN (320)</li>
-      <li>VERB--PRON (14)</li>
+      <li>VERB--PRON (13)</li>
       <li>VERB--PRON-Acc (1)</li>
       <li>VERB--PRON-Nom (71)</li>
     </ul>
@@ -736,10 +735,10 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN (545)</li>
-      <li>VERB--PRON (111)</li>
-      <li>VERB--PRON-Acc (111)</li>
-      <li>VERB--PRON-Nom (8)</li>
+      <li>VERB--NOUN (519)</li>
+      <li>VERB--PRON (92)</li>
+      <li>VERB--PRON-Acc (82)</li>
+      <li>VERB--PRON-Nom (7)</li>
     </ul>
   </li>
 </ul>
@@ -747,9 +746,11 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB--PRON (26)</li>
-      <li>VERB--PRON-Acc (2)</li>
+      <li>VERB--NOUN (19)</li>
+      <li>VERB--PRON (45)</li>
+      <li>VERB--PRON-Acc (25)</li>
       <li>VERB--PRON-Dat (3)</li>
+      <li>VERB--PRON-Nom (1)</li>
     </ul>
   </li>
 </ul>
@@ -765,7 +766,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 16 relation subtypes: <a>acl:relcl</a>, <a>compound:svc</a>, <a>dep:comp</a>, <a>dep:conj</a>, <a>dep:flat</a>, <a>dep:redup</a>, <a>dislocated:mod</a>, <a>dislocated:obj</a>, <a>dislocated:subj</a>, <a>nmod:poss</a>, <a>nsubj:outer</a>, <a>obl:arg</a>, <a>obl:mod</a>, <a>parataxis:insert</a>, <a>parataxis:mod</a>, <a>parataxis:parenth</a></li>
+<li>This corpus uses 17 relation subtypes: <a>acl:relcl</a>, <a>compound:svc</a>, <a>dep:comp</a>, <a>dep:conj</a>, <a>dep:flat</a>, <a>dep:redup</a>, <a>det:poss</a>, <a>dislocated:mod</a>, <a>dislocated:obj</a>, <a>dislocated:subj</a>, <a>nmod:poss</a>, <a>nsubj:outer</a>, <a>obl:arg</a>, <a>obl:mod</a>, <a>parataxis:insert</a>, <a>parataxis:mod</a>, <a>parataxis:parenth</a></li>
 <li>The following 1 main types are not used alone, they are always subtyped: <a>compound</a></li>
-<li>The following 10 relation types are not used in this corpus at all: <a>csubj</a>, <a>expl</a>, <a>mark</a>, <a>clf</a>, <a>case</a>, <a>conj</a>, <a>flat</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a></li>
+<li>The following 9 relation types are not used in this corpus at all: <a>csubj</a>, <a>expl</a>, <a>mark</a>, <a>clf</a>, <a>conj</a>, <a>flat</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a></li>
 </ul>

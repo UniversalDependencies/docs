@@ -22,7 +22,7 @@ The following 6 pairs of parts of speech are connected with `appos`: <tt><a href
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 9 appos	color:blue
-1	Sen	sen	ADV	ADV	_	6	advmod	_	_
+1	Sen	sen	ADV	ADV	ExtPos=ADV	6	advmod	_	_
 2	ližäkse	ližäkse	ADV	ADV	_	1	fixed	_	_
 3	suuri	suuri	ADJ	ADJ	Case=Nom|Number=Sing	4	amod	_	_
 4	vuitti	vuitti	NOUN	NOUN	Case=Nom|Number=Sing	6	nsubj	_	_

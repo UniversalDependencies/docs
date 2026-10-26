@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="ky_tuecl-dep-obl.html">obl</a></tt>.
 There are also 1 other language-specific subtypes of `obl`: <tt><a href="ky_tuecl-dep-obl-cau.html">obl:cau</a></tt>.
 
-6 nodes (1%) are attached to their parents as `obl:tmod`.
+8 nodes (1%) are attached to their parents as `obl:tmod`.
 
-6 instances of `obl:tmod` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.33333333333333.
+8 instances of `obl:tmod` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.375.
 
-The following 2 pairs of parts of speech are connected with `obl:tmod`: <tt><a href="ky_tuecl-pos-VERB.html">VERB</a></tt>-<tt><a href="ky_tuecl-pos-NOUN.html">NOUN</a></tt> (5; 83% instances), <tt><a href="ky_tuecl-pos-VERB.html">VERB</a></tt>-<tt><a href="ky_tuecl-pos-ADV.html">ADV</a></tt> (1; 17% instances).
+The following 2 pairs of parts of speech are connected with `obl:tmod`: <tt><a href="ky_tuecl-pos-VERB.html">VERB</a></tt>-<tt><a href="ky_tuecl-pos-NOUN.html">NOUN</a></tt> (7; 88% instances), <tt><a href="ky_tuecl-pos-VERB.html">VERB</a></tt>-<tt><a href="ky_tuecl-pos-ADV.html">ADV</a></tt> (1; 13% instances).
 
 
 ~~~ conllu
@@ -25,7 +25,7 @@ The following 2 pairs of parts of speech are connected with `obl:tmod`: <tt><a h
 # visual-style 5 2 obl:tmod	color:blue
 1	Дениз	Дениз	PROPN	_	_	5	nsubj	_	_
 2	кечинде	кеч	NOUN	_	_	5	obl:tmod	_	_
-3	үйдѳ	үй	NOUN	_	_	5	obl	_	_
+3	үйдө	үй	NOUN	_	_	5	obl	_	_
 4	китеп	китеп	NOUN	_	_	5	obj	_	_
 5	окуйт	оку	VERB	_	_	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	5	punct	_	_

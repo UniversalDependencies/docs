@@ -24,7 +24,7 @@ The following 9 pairs of parts of speech are connected with `root`: -<tt><a href
 # visual-style 0 14 root	color:blue
 1	ただし	但し	CCONJ	接続詞	_	14	cc	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=タダシ,但し,ただし,ただし,タダシ,,,タダシ,タダシ,但し
 2	、	、	PUNCT	補助記号-読点	_	1	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|SpaceAfter=No|UnidicInfo=,、,、,、,,,,,,、
-3	50周年ソング	50周年ソング	NOUN	名詞-普通名詞-一般	_	5	obl	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=ゴジュウ;シュウネン;ソング,五十;周年;ソング,50;周年;ソング,50;周年;ソング,ゴジッ;シューネン;ソング,;;,;;,ゴジュウ;シュウネン;ソング,ゴジッシュウネンソング,50周年ソング
+3	50周年ソング	50周年ソング	NOUN	名詞-普通名詞-一般	_	5	nmod	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=ゴジュウ;シュウネン;ソング,五十;周年;ソング,50;周年;ソング,50;周年;ソング,ゴジッ;シューネン;ソング,;;,;;,ゴジュウ;シュウネン;ソング,ゴジッシュウネンソング,50周年ソング
 4	に	に	ADP	助詞-格助詞	_	3	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=ニ,に,に,に,ニ,,,ニ,ニ,に
 5	変更後	変更後	NOUN	名詞-普通名詞-一般	_	14	nsubj:outer	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=ヘンコウ;ゴ,変更;後,変更;後,変更;後,ヘンコー;ゴ,;,;,ヘンコウ;ゴ,ヘンコウゴ,変更後
 6	は	は	ADP	助詞-係助詞	_	5	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=ハ,は,は,は,ワ,,,ハ,ハ,は

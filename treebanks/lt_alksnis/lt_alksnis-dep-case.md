@@ -47,7 +47,7 @@ The following 13 pairs of parts of speech are connected with `case`: <tt><a href
 2	tik	tik	PART	dll.	_	3	advmod:emph	3:advmod:emph	_
 3	pusė	pusė	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	6	nsubj	6:nsubj	_
 4	iš	iš	ADP	prl.K.	AdpType=Prep|Case=Gen	5	case	5:case	_
-5	jų	jis	PRON	įv.vyr.dgs.K.	Case=Gen|Definite=Ind|Gender=Masc|Number=Plur|Person=3|PronType=Prs	3	obl:arg	3:obl:arg:iš:gen	_
+5	jų	jis	PRON	įv.vyr.dgs.K.	Case=Gen|Definite=Ind|Gender=Masc|Number=Plur|Person=3|PronType=Prs	3	nmod	3:nmod:iš:gen	_
 6	svarsto	svarstyti	VERB	vksm.asm.tiesiog.es.vns.3.	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 7	apie	apie	ADP	prl.G.	AdpType=Prep|Case=Acc	9	case	9:case	_
 8	šią	šis	DET	įv.mot.vns.G.	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Dem	9	det	9:det	_

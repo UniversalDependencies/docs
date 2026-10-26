@@ -27,7 +27,7 @@ The following 7 pairs of parts of speech are connected with `flat`: <tt><a href=
 3	on	olla	AUX	V,Act,Ind,Pres,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	aux	_	_
 4	saattanut	saattaa	VERB	V,Act,PcpNut,Sg,Nom	Case=Nom|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	0	root	_	_
 5	seppouden	seppous	NOUN	N,Sg,Gen	Case=Gen|Number=Sing	4	obj	_	_
-6	lakipisteeseen	lakipiste	NOUN	N,Sg,Ill	Case=Ill|Number=Sing	4	nmod	_	_
+6	lakipisteeseen	lakipiste	NOUN	N,Sg,Ill	Case=Ill|Number=Sing	4	obl	_	_
 7	.	.	PUNCT	Pun	_	6	punct	_	_
 
 ~~~
@@ -43,11 +43,11 @@ The following 7 pairs of parts of speech are connected with `flat`: <tt><a href=
 2	nukkuukin	nukkua	VERB	V,Act,Ind,Pres,Sg3,Kin	Clitic=Kin|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 3	alasti	alasti	ADV	Adv	_	2	advmod	_	_
 4	,	,	PUNCT	Pun	_	3	punct	_	_
-5	vain	vain	PART	Pcle	_	8	advmod	_	_
+5	vain	vain	ADV	Adv,Pcle	_	8	advmod	_	_
 6	Chanel	chanel	PROPN	N,Prop,Sg,Nom	Case=Nom|Number=Sing	8	nmod	_	Alt=name
 7	viitosen	viitonen	NOUN	N,Sg,Gen	Case=Gen|Number=Sing	6	flat	_	_
 8	tuoksu	tuoksu	NOUN	N,Sg,Nom	Case=Nom|Number=Sing	9	nmod	_	_
-9	peittonaan	peitto	NOUN	N,Sg,Ess,Px3	Case=Ess|Number=Sing|Person[psor]=3	2	nmod	_	_
+9	peittonaan	peitto	NOUN	N,Sg,Ess,Px3	Case=Ess|Number=Sing|Person[psor]=3	2	obl	_	_
 10	.	.	PUNCT	Pun	_	9	punct	_	_
 
 ~~~
@@ -59,7 +59,7 @@ The following 7 pairs of parts of speech are connected with `flat`: <tt><a href=
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 8 flat	color:blue
-1	Viimeisenä	viimeinen	ADJ	A,Sg,Ess	Case=Ess|Number=Sing	2	nmod	_	_
+1	Viimeisenä	viimeinen	ADJ	A,Sg,Ess	Case=Ess|Number=Sing	2	obl	_	_
 2	kuuntelin	kuunnella	VERB	V,Act,Ind,Past,Sg1	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 3	Bach	bach	PROPN	N,Prop,Sg,Nom	Case=Nom|Number=Sing	6	nmod	_	Alt=name
 4	Organ	organ	PROPN	N,Prop,Sg,Nom	Case=Nom|Number=Sing	3	flat	_	Alt=name

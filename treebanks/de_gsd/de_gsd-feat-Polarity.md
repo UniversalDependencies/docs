@@ -21,5 +21,5 @@ The feature is used with 1 part-of-speech tags: <tt><a href="de_gsd-pos-PART.htm
 `PART` tokens may have the following values of `Polarity`:
 
 * `Neg` (1102; 100% of non-empty `Polarity`): <em>nicht, Nein, garnicht, nich</em>
-* `EMPTY` (1047): <em>zu, aus, ja, an, nein, 's, hin, her, wie, Bitte</em>
+* `EMPTY` (1046): <em>zu, aus, ja, an, nein, 's, hin, her, wie, Bitte</em>
 

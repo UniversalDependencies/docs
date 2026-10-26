@@ -9,6 +9,7 @@ udver: '2'
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Ag">Ag</a></td>
+  <td><a href="#Loc">Loc</a></td>
   
 
 </tr>
@@ -25,8 +26,17 @@ The agent nominalizer, previously indicated by `Derivation=NomAg` or `VerbForm=N
 * _<b>чергӧд-ысь</b>&nbsp;_ “ Kill-er”
 
   
+### <a name="Loc">`Loc`</a>: Location
+
+The location nominalizer, previously indicated by `Derivation=Anin` has been migrated here. 
+
+#### Examples
+
+* _<b>пет-анін</b>&nbsp;_ “ exit-place (place where one exits)”
+
+  
 </tr>
 </table>
 
 
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:49 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:02 CEST -->

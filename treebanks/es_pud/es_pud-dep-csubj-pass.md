@@ -53,7 +53,7 @@ The following 2 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 7	es	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
 8	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
 9	agente	agente	NOUN	NN	Gender=Masc|Number=Sing	5	csubj:pass	_	_
-10	encubierto	encubierto	ADJ	JJ	Gender=Masc|Number=Sing	9	amod	_	_
+10	encubierto	encubierto	ADJ	JJ	Gender=Masc|Number=Sing|VerbForm=Part	9	amod	_	_
 11	cuyo	cuyo	DET	DTP$	Gender=Masc|Number=Sing|Poss=Yes|PronType=Rel	12	det	_	_
 12	objetivo	objetivo	NOUN	NN	Gender=Masc|Number=Sing	9	acl:relcl	_	_
 13	es	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_

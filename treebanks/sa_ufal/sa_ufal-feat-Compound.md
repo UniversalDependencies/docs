@@ -66,11 +66,11 @@ The most frequent other feature values with which `VERB` and `Compound` co-occur
 
 9 <tt><a href="sa_ufal-pos-PRON.html">PRON</a></tt> tokens (5% of all `PRON` tokens) have a non-empty value of `Compound`.
 
-The most frequent other feature values with which `PRON` and `Compound` co-occurred: <tt><a href="sa_ufal-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (9; 100%), <tt><a href="sa_ufal-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (9; 100%), <tt><a href="sa_ufal-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (9; 100%), <tt><a href="sa_ufal-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (6; 67%).
+The most frequent other feature values with which `PRON` and `Compound` co-occurred: <tt><a href="sa_ufal-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (9; 100%), <tt><a href="sa_ufal-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (9; 100%), <tt><a href="sa_ufal-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (8; 89%), <tt><a href="sa_ufal-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (7; 78%).
 
 `PRON` tokens may have the following values of `Compound`:
 
-* `Yes` (9; 100% of non-empty `Compound`): त्वत्, अस्मत्, तत्, भवत्, मत्, मद्, सर्व
+* `Yes` (9; 100% of non-empty `Compound`): अस्मत्, त्वत्, तत्, भवत्, मत्, मद्, सर्व
 
 ### `ADV`
 

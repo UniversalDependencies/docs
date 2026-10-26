@@ -23,12 +23,12 @@ The following 6 pairs of parts of speech are connected with `dislocated`: <tt><a
 # visual-style 10	fgColor:white
 # visual-style 10 1 dislocated	color:blue
 1	Moi	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	10	dislocated	_	_
-2	non	non	ADV	BN	PronType=Neg	1	advmod	_	_
+2	non	non	ADV	BN	ExtPos=ADV|PronType=Neg	1	advmod	_	_
 3	plus	plus	ADV	B	_	2	fixed	_	SpaceAfter=No
 4	,	,	PUNCT	FF	_	1	punct	_	_
 5	vous	vous	PRON	PE	Number=Plur|Person=2|PronType=Prs	10	nsubj	_	_
 6	ne	ne	PART	PART	Polarity=Neg	10	advmod	_	_
-7	m'	me	PRON	P	Person=1|PronType=Prs	10	iobj	_	SpaceAfter=No
+7	m'	moi	PRON	P	Person=1|PronType=Prs	10	iobj	_	SpaceAfter=No
 8	avez	avoir	AUX	VA	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	10	aux	_	_
 9	pas	pas	ADV	BN	Polarity=Neg	10	advmod	_	_
 10	donné	donner	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
@@ -67,7 +67,7 @@ The following 6 pairs of parts of speech are connected with `dislocated`: <tt><a
 1	Ces	ce	DET	DD	Number=Plur|PronType=Dem	2	det	_	_
 2	femelles	femelle	NOUN	S	Gender=Fem|Number=Plur	7	dislocated	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	2	punct	_	_
-4	elles	elle	PRON	PE	Gender=Fem|Number=Plur|Person=3|PronType=Prs	7	nsubj	_	_
+4	elles	lui	PRON	PE	Gender=Fem|Number=Plur|Person=3|PronType=Prs	7	nsubj	_	_
 5	n'	ne	PART	PART	Polarity=Neg	7	advmod	_	SpaceAfter=No
 6	y	y	ADV	B	_	7	advmod	_	_
 7	sont	être	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_

@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Cebuano-GJA: POS Tags: `ADV`
 
-There are 41 `ADV` lemmas (9%), 48 `ADV` types (9%) and 76 `ADV` tokens (6%).
+There are 41 `ADV` lemmas (9%), 48 `ADV` types (9%) and 76 `ADV` tokens (5%).
 Out of 14 observed tags, the rank of `ADV` is: 3 in number of lemmas, 3 in number of types and 7 in number of tokens.
 
 The 10 most frequent `ADV` lemmas: <em>na, karon, pila, ngano, wala, kaayo, tua, didto, dugay, labi</em>
@@ -43,7 +43,7 @@ The 10 most frequent ambiguous types:  <em>na</em> (<tt><a href="ceb_gja-pos-ADV
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.170732 (the average of all parts of speech is 1.162162).
+The form / lemma ratio of `ADV` is 1.170732 (the average of all parts of speech is 1.162584).
 
 The 1st highest number of forms (3) was observed with the lemma “pila”: <em>Pila, Pilay, Tagpila</em>.
 
@@ -70,13 +70,13 @@ Parents of `ADV` nodes belong to 7 different parts of speech: <tt><a href="ceb_g
 
 15 (20%) `ADV` nodes have one child.
 
-6 (8%) `ADV` nodes have two children.
+5 (7%) `ADV` nodes have two children.
 
-5 (7%) `ADV` nodes have three or more children.
+6 (8%) `ADV` nodes have three or more children.
 
 The highest child degree of a `ADV` node is 4.
 
-Children of `ADV` nodes are attached using 8 different relations: <tt><a href="ceb_gja-dep-punct.html">punct</a></tt> (10; 23% instances), <tt><a href="ceb_gja-dep-mark.html">mark</a></tt> (9; 21% instances), <tt><a href="ceb_gja-dep-advmod.html">advmod</a></tt> (7; 16% instances), <tt><a href="ceb_gja-dep-nsubj.html">nsubj</a></tt> (7; 16% instances), <tt><a href="ceb_gja-dep-nmod.html">nmod</a></tt> (4; 9% instances), <tt><a href="ceb_gja-dep-case.html">case</a></tt> (3; 7% instances), <tt><a href="ceb_gja-dep-obl.html">obl</a></tt> (2; 5% instances), <tt><a href="ceb_gja-dep-obj.html">obj</a></tt> (1; 2% instances)
+Children of `ADV` nodes are attached using 8 different relations: <tt><a href="ceb_gja-dep-punct.html">punct</a></tt> (10; 23% instances), <tt><a href="ceb_gja-dep-mark.html">mark</a></tt> (9; 20% instances), <tt><a href="ceb_gja-dep-advmod.html">advmod</a></tt> (7; 16% instances), <tt><a href="ceb_gja-dep-nsubj.html">nsubj</a></tt> (7; 16% instances), <tt><a href="ceb_gja-dep-nmod.html">nmod</a></tt> (4; 9% instances), <tt><a href="ceb_gja-dep-case.html">case</a></tt> (3; 7% instances), <tt><a href="ceb_gja-dep-obl.html">obl</a></tt> (3; 7% instances), <tt><a href="ceb_gja-dep-obj.html">obj</a></tt> (1; 2% instances)
 
-Children of `ADV` nodes belong to 8 different parts of speech: <tt><a href="ceb_gja-pos-PART.html">PART</a></tt> (11; 26% instances), <tt><a href="ceb_gja-pos-NOUN.html">NOUN</a></tt> (10; 23% instances), <tt><a href="ceb_gja-pos-PUNCT.html">PUNCT</a></tt> (10; 23% instances), <tt><a href="ceb_gja-pos-ADP.html">ADP</a></tt> (4; 9% instances), <tt><a href="ceb_gja-pos-ADV.html">ADV</a></tt> (3; 7% instances), <tt><a href="ceb_gja-pos-PRON.html">PRON</a></tt> (2; 5% instances), <tt><a href="ceb_gja-pos-PROPN.html">PROPN</a></tt> (2; 5% instances), <tt><a href="ceb_gja-pos-SCONJ.html">SCONJ</a></tt> (1; 2% instances)
+Children of `ADV` nodes belong to 8 different parts of speech: <tt><a href="ceb_gja-pos-NOUN.html">NOUN</a></tt> (11; 25% instances), <tt><a href="ceb_gja-pos-PART.html">PART</a></tt> (11; 25% instances), <tt><a href="ceb_gja-pos-PUNCT.html">PUNCT</a></tt> (10; 23% instances), <tt><a href="ceb_gja-pos-ADP.html">ADP</a></tt> (4; 9% instances), <tt><a href="ceb_gja-pos-ADV.html">ADV</a></tt> (3; 7% instances), <tt><a href="ceb_gja-pos-PRON.html">PRON</a></tt> (2; 5% instances), <tt><a href="ceb_gja-pos-PROPN.html">PROPN</a></tt> (2; 5% instances), <tt><a href="ceb_gja-pos-SCONJ.html">SCONJ</a></tt> (1; 2% instances)
 

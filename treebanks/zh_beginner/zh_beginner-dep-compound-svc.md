@@ -44,8 +44,8 @@ The following 2 pairs of parts of speech are connected with `compound:svc`: <tt>
 4	美国	美国	PROPN	_	_	3	obj	_	SpaceAfter=No|Tone=3_2|Translit=měi_guó
 5	工作	工作	NOUN	_	_	3	compound:svc	_	SpaceAfter=No|Tone=1_4|Translit=gōng_zuò
 6	了	了	AUX	_	_	5	aux	_	Gloss=PFV|SpaceAfter=No|Tone=5|Translit=le
-7	几	几	NUM	_	NumType=Card	8	nummod	_	SpaceAfter=No|Tone=1|Translit=jī
-8	个	个	NOUN	_	_	9	clf	_	Gloss=CLF|SpaceAfter=No|Tone=4|Translit=gè
+7	几	几	NUM	_	NumType=Card	9	nummod	_	SpaceAfter=No|Tone=1|Translit=jī
+8	个	个	NOUN	_	_	7	clf	_	Gloss=CLF|SpaceAfter=No|Tone=4|Translit=gè
 9	月	月	NOUN	_	_	3	obl	_	SpaceAfter=No|Tone=4|Translit=yuè
 10	。	。	PUNCT	_	_	3	punct	_	SpaceAfter=No|Translit=。
 

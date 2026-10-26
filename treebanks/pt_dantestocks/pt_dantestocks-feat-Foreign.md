@@ -20,7 +20,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="pt_dantestocks-pos-
 
 `X` tokens may have the following values of `Foreign`:
 
-* `Yes` (118; 100% of non-empty `Foreign`): <em>Webcast, #Whoknows, loss, shooting, star, stop, top, by, ha, picks</em>
+* `Yes` (118; 100% of non-empty `Foreign`): <em>Webcast, #Whoknows, loss, shooting, star, stop, top, ha, picks, by</em>
 * `EMPTY` (1636): <em>RT, #vale5, #infomoney, #petr4, $LIGT3, #ibov, rsrsr, #bovespa, #BR, #PETR3</em>
 
 `Foreign` seems to be **lexical feature** of `X`. 100% lemmas (75) occur only with one value of `Foreign`.

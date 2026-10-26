@@ -24,7 +24,7 @@ The most frequent other feature values with which `VERB` and `Voice` co-occurred
 
 * `Mid` (39; 98% of non-empty `Voice`): <em>tifirʔa, ameːsa~sʔeː, asʔa, ikan, ʔagar, agam, akan, eːstʔi, agar, akteːn</em>
 * `Pass` (1; 3% of non-empty `Voice`): <em>agam</em>
-* `EMPTY` (2370): <em>eːn, indi, ini, jʔi, tindi, iːfi, jʔeːn, jʔeːtiːt, iːbri, akeːna</em>
+* `EMPTY` (2368): <em>eːn, indi, ini, jʔi, tindi, iːfi, jʔeːn, jʔeːtiːt, iːbri, akeːna</em>
 
 ## Relations with Agreement in `Voice`
 

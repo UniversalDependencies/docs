@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-216 nodes (16%) are attached to their parents as `punct`.
+219 nodes (16%) are attached to their parents as `punct`.
 
-208 instances of `punct` (96%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.58796296296296.
+209 instances of `punct` (95%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.62100456621005.
 
-The following 7 pairs of parts of speech are connected with `punct`: <tt><a href="ceb_gja-pos-VERB.html">VERB</a></tt>-<tt><a href="ceb_gja-pos-PUNCT.html">PUNCT</a></tt> (155; 72% instances), <tt><a href="ceb_gja-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ceb_gja-pos-PUNCT.html">PUNCT</a></tt> (19; 9% instances), <tt><a href="ceb_gja-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ceb_gja-pos-PUNCT.html">PUNCT</a></tt> (13; 6% instances), <tt><a href="ceb_gja-pos-PRON.html">PRON</a></tt>-<tt><a href="ceb_gja-pos-PUNCT.html">PUNCT</a></tt> (12; 6% instances), <tt><a href="ceb_gja-pos-ADV.html">ADV</a></tt>-<tt><a href="ceb_gja-pos-PUNCT.html">PUNCT</a></tt> (10; 5% instances), <tt><a href="ceb_gja-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ceb_gja-pos-PUNCT.html">PUNCT</a></tt> (6; 3% instances), <tt><a href="ceb_gja-pos-PART.html">PART</a></tt>-<tt><a href="ceb_gja-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `punct`: <tt><a href="ceb_gja-pos-VERB.html">VERB</a></tt>-<tt><a href="ceb_gja-pos-PUNCT.html">PUNCT</a></tt> (156; 71% instances), <tt><a href="ceb_gja-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ceb_gja-pos-PUNCT.html">PUNCT</a></tt> (19; 9% instances), <tt><a href="ceb_gja-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ceb_gja-pos-PUNCT.html">PUNCT</a></tt> (12; 5% instances), <tt><a href="ceb_gja-pos-PRON.html">PRON</a></tt>-<tt><a href="ceb_gja-pos-PUNCT.html">PUNCT</a></tt> (12; 5% instances), <tt><a href="ceb_gja-pos-ADV.html">ADV</a></tt>-<tt><a href="ceb_gja-pos-PUNCT.html">PUNCT</a></tt> (10; 5% instances), <tt><a href="ceb_gja-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ceb_gja-pos-PUNCT.html">PUNCT</a></tt> (9; 4% instances), <tt><a href="ceb_gja-pos-PART.html">PART</a></tt>-<tt><a href="ceb_gja-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

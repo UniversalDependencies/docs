@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Paumari-TueCL: POS Tags: `NOUN`
 
-There are 2 `NOUN` lemmas (10%), 70 `NOUN` types (26%) and 93 `NOUN` tokens (18%).
-Out of 13 observed tags, the rank of `NOUN` is: 4 in number of lemmas, 2 in number of types and 3 in number of tokens.
+There are 1 `NOUN` lemmas (8%), 70 `NOUN` types (26%) and 93 `NOUN` tokens (18%).
+Out of 13 observed tags, the rank of `NOUN` is: 7 in number of lemmas, 2 in number of types and 3 in number of tokens.
 
-The 10 most frequent `NOUN` lemmas: <em>_, hand</em>
+The 10 most frequent `NOUN` lemmas: <em>_</em>
 
 The 10 most frequent `NOUN` types:  <em>gora, hado, isai, ihi'ai, makari, mamai, bajarona, kaasi, kodiisai, paha</em>
 
-The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="pad_tuecl-pos-PUNCT.html">PUNCT</a></tt> 116, <tt><a href="pad_tuecl-pos-VERB.html">VERB</a></tt> 115, <tt><a href="pad_tuecl-pos-NOUN.html">NOUN</a></tt> 92, <tt><a href="pad_tuecl-pos-DET.html">DET</a></tt> 48, <tt><a href="pad_tuecl-pos-PRON.html">PRON</a></tt> 41, <tt><a href="pad_tuecl-pos-AUX.html">AUX</a></tt> 27, <tt><a href="pad_tuecl-pos-ADV.html">ADV</a></tt> 18, <tt><a href="pad_tuecl-pos-ADJ.html">ADJ</a></tt> 15, <tt><a href="pad_tuecl-pos-PROPN.html">PROPN</a></tt> 14, <tt><a href="pad_tuecl-pos-SCONJ.html">SCONJ</a></tt> 6, <tt><a href="pad_tuecl-pos-ADP.html">ADP</a></tt> 3, <tt><a href="pad_tuecl-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="pad_tuecl-pos-NUM.html">NUM</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="pad_tuecl-pos-VERB.html">VERB</a></tt> 118, <tt><a href="pad_tuecl-pos-PUNCT.html">PUNCT</a></tt> 116, <tt><a href="pad_tuecl-pos-NOUN.html">NOUN</a></tt> 93, <tt><a href="pad_tuecl-pos-DET.html">DET</a></tt> 49, <tt><a href="pad_tuecl-pos-PRON.html">PRON</a></tt> 43, <tt><a href="pad_tuecl-pos-AUX.html">AUX</a></tt> 27, <tt><a href="pad_tuecl-pos-ADV.html">ADV</a></tt> 18, <tt><a href="pad_tuecl-pos-ADJ.html">ADJ</a></tt> 15, <tt><a href="pad_tuecl-pos-PROPN.html">PROPN</a></tt> 14, <tt><a href="pad_tuecl-pos-SCONJ.html">SCONJ</a></tt> 6, <tt><a href="pad_tuecl-pos-ADP.html">ADP</a></tt> 3, <tt><a href="pad_tuecl-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="pad_tuecl-pos-NUM.html">NUM</a></tt> 1)
 
 The 10 most frequent ambiguous types:  
 
@@ -21,11 +21,9 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `NOUN` is 35.000000 (the average of all parts of speech is 13.550000).
+The form / lemma ratio of `NOUN` is 70.000000 (the average of all parts of speech is 20.846154).
 
-The 1st highest number of forms (69) was observed with the lemma “_”: <em>'dako, 'dakoa, Bahi, Feijãora, Hirari, Ihai, Joma, Kadaija'ari, Kavari, Kodipapira, Kojaharia, Maravira, Masi, Masia, Mina'di, Mokitiroa, Pitani, Prima, Safini, Safinira, Siroa, Sorarara, Thoronihi, adaminini, ahapini, amo'amo, anani, ava, bajarona, gora, gorani, hado, ihaia, ihi'ai, imakhinava, isai, jahani, kaasi, kaasia, kadaamia, kadaimoni, kagorana, kaisai, kajinaboni, kasi'i, katavahari, kidiisai, kodiisai, makari, mamai, miinira, mina'dia, moko, onini, paha, pahara, pitania, sa'ani, savaharo, sipatihira, sorara, vadini, vagorana, vakadi'bai, vakadinahina, vanafana, vanamia, varaja, xikara</em>.
-
-The 2nd highest number of forms (1) was observed with the lemma “hand”: <em>Osa'a</em>.
+The 1st highest number of forms (70) was observed with the lemma “_”: <em>'dako, 'dakoa, Bahi, Feijãora, Hirari, Ihai, Joma, Kadaija'ari, Kavari, Kodipapira, Kojaharia, Maravira, Masi, Masia, Mina'di, Mokitiroa, Osa'a, Pitani, Prima, Safini, Safinira, Siroa, Sorarara, Thoronihi, adaminini, ahapini, amo'amo, anani, ava, bajarona, gora, gorani, hado, ihaia, ihi'ai, imakhinava, isai, jahani, kaasi, kaasia, kadaamia, kadaimoni, kagorana, kaisai, kajinaboni, kasi'i, katavahari, kidiisai, kodiisai, makari, mamai, miinira, mina'dia, moko, onini, paha, pahara, pitania, sa'ani, savaharo, sipatihira, sorara, vadini, vagorana, vakadi'bai, vakadinahina, vanafana, vanamia, varaja, xikara</em>.
 
 `NOUN` does not occur with any features.
 

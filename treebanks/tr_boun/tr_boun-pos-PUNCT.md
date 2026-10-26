@@ -41,7 +41,7 @@ The 10 most frequent ambiguous types:  <em>görevi</em> (<tt><a href="tr_boun-po
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 0.974359 (the average of all parts of speech is 2.412899).
+The form / lemma ratio of `PUNCT` is 0.974359 (the average of all parts of speech is 2.413877).
 
 The 1st highest number of forms (2) was observed with the lemma “'”: <em>', ''</em>.
 
@@ -56,19 +56,19 @@ The 3rd highest number of forms (2) was observed with the lemma “_”: <em>', 
 
 `PUNCT` nodes are attached to their parents using 2 different relations: <tt><a href="tr_boun-dep-punct.html">punct</a></tt> (20756; 100% instances), <tt><a href="tr_boun-dep-root.html">root</a></tt> (30; 0% instances)
 
-Parents of `PUNCT` nodes belong to 15 different parts of speech: <tt><a href="tr_boun-pos-VERB.html">VERB</a></tt> (11473; 55% instances), <tt><a href="tr_boun-pos-NOUN.html">NOUN</a></tt> (6245; 30% instances), <tt><a href="tr_boun-pos-ADJ.html">ADJ</a></tt> (1065; 5% instances), <tt><a href="tr_boun-pos-PROPN.html">PROPN</a></tt> (1010; 5% instances), <tt><a href="tr_boun-pos-NUM.html">NUM</a></tt> (266; 1% instances), <tt><a href="tr_boun-pos-PRON.html">PRON</a></tt> (238; 1% instances), <tt><a href="tr_boun-pos-ADV.html">ADV</a></tt> (159; 1% instances), <tt><a href="tr_boun-pos-INTJ.html">INTJ</a></tt> (96; 0% instances), <tt><a href="tr_boun-pos-AUX.html">AUX</a></tt> (72; 0% instances), <tt><a href="tr_boun-pos-PUNCT.html">PUNCT</a></tt> (56; 0% instances), <tt><a href="tr_boun-pos-ADP.html">ADP</a></tt> (31; 0% instances),  (30; 0% instances), <tt><a href="tr_boun-pos-DET.html">DET</a></tt> (21; 0% instances), <tt><a href="tr_boun-pos-CCONJ.html">CCONJ</a></tt> (19; 0% instances), <tt><a href="tr_boun-pos-PART.html">PART</a></tt> (5; 0% instances)
+Parents of `PUNCT` nodes belong to 15 different parts of speech: <tt><a href="tr_boun-pos-VERB.html">VERB</a></tt> (11463; 55% instances), <tt><a href="tr_boun-pos-NOUN.html">NOUN</a></tt> (6256; 30% instances), <tt><a href="tr_boun-pos-ADJ.html">ADJ</a></tt> (1066; 5% instances), <tt><a href="tr_boun-pos-PROPN.html">PROPN</a></tt> (1012; 5% instances), <tt><a href="tr_boun-pos-NUM.html">NUM</a></tt> (266; 1% instances), <tt><a href="tr_boun-pos-PRON.html">PRON</a></tt> (234; 1% instances), <tt><a href="tr_boun-pos-ADV.html">ADV</a></tt> (159; 1% instances), <tt><a href="tr_boun-pos-INTJ.html">INTJ</a></tt> (96; 0% instances), <tt><a href="tr_boun-pos-AUX.html">AUX</a></tt> (72; 0% instances), <tt><a href="tr_boun-pos-PUNCT.html">PUNCT</a></tt> (56; 0% instances), <tt><a href="tr_boun-pos-ADP.html">ADP</a></tt> (31; 0% instances),  (30; 0% instances), <tt><a href="tr_boun-pos-DET.html">DET</a></tt> (21; 0% instances), <tt><a href="tr_boun-pos-CCONJ.html">CCONJ</a></tt> (19; 0% instances), <tt><a href="tr_boun-pos-PART.html">PART</a></tt> (5; 0% instances)
 
 20711 (100%) `PUNCT` nodes are leaves.
 
-67 (0%) `PUNCT` nodes have one child.
+66 (0%) `PUNCT` nodes have one child.
 
-4 (0%) `PUNCT` nodes have two children.
+5 (0%) `PUNCT` nodes have two children.
 
 4 (0%) `PUNCT` nodes have three or more children.
 
 The highest child degree of a `PUNCT` node is 4.
 
-Children of `PUNCT` nodes are attached using 5 different relations: <tt><a href="tr_boun-dep-punct.html">punct</a></tt> (56; 64% instances), <tt><a href="tr_boun-dep-conj.html">conj</a></tt> (27; 31% instances), <tt><a href="tr_boun-dep-nsubj.html">nsubj</a></tt> (3; 3% instances), <tt><a href="tr_boun-dep-nmod-poss.html">nmod:poss</a></tt> (1; 1% instances), <tt><a href="tr_boun-dep-obl.html">obl</a></tt> (1; 1% instances)
+Children of `PUNCT` nodes are attached using 5 different relations: <tt><a href="tr_boun-dep-punct.html">punct</a></tt> (56; 63% instances), <tt><a href="tr_boun-dep-conj.html">conj</a></tt> (28; 31% instances), <tt><a href="tr_boun-dep-nsubj.html">nsubj</a></tt> (3; 3% instances), <tt><a href="tr_boun-dep-nmod-poss.html">nmod:poss</a></tt> (1; 1% instances), <tt><a href="tr_boun-dep-obl.html">obl</a></tt> (1; 1% instances)
 
-Children of `PUNCT` nodes belong to 9 different parts of speech: <tt><a href="tr_boun-pos-PUNCT.html">PUNCT</a></tt> (56; 64% instances), <tt><a href="tr_boun-pos-VERB.html">VERB</a></tt> (17; 19% instances), <tt><a href="tr_boun-pos-NOUN.html">NOUN</a></tt> (8; 9% instances), <tt><a href="tr_boun-pos-PROPN.html">PROPN</a></tt> (2; 2% instances), <tt><a href="tr_boun-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="tr_boun-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="tr_boun-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="tr_boun-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="tr_boun-pos-PRON.html">PRON</a></tt> (1; 1% instances)
+Children of `PUNCT` nodes belong to 9 different parts of speech: <tt><a href="tr_boun-pos-PUNCT.html">PUNCT</a></tt> (56; 63% instances), <tt><a href="tr_boun-pos-VERB.html">VERB</a></tt> (18; 20% instances), <tt><a href="tr_boun-pos-NOUN.html">NOUN</a></tt> (8; 9% instances), <tt><a href="tr_boun-pos-PROPN.html">PROPN</a></tt> (2; 2% instances), <tt><a href="tr_boun-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="tr_boun-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="tr_boun-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="tr_boun-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="tr_boun-pos-PRON.html">PRON</a></tt> (1; 1% instances)
 

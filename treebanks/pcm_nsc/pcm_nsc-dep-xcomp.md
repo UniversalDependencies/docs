@@ -22,7 +22,7 @@ The following 23 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 5 xcomp	color:blue
-1	#	#	X	_	_	4	dep	_	AlignBegin=10145|AlignEnd=10516|Gloss=PUNCT
+1	#	#	PUNCT	_	_	4	punct	_	AlignBegin=10145|AlignEnd=10516|Gloss=PUNCT
 2	sey	sey	SCONJ	_	_	4	discourse	_	AlignBegin=10516|AlignEnd=10640|Gloss=COMP
 3	e	im	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	AlignBegin=10640|AlignEnd=10679|Gloss=NOM.SG.3
 4	wan	want	VERB	_	_	0	root	_	AlignBegin=10679|AlignEnd=10850|Gloss=want
@@ -34,7 +34,7 @@ The following 23 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 10	go	go	VERB	_	_	5	advcl	_	AlignBegin=11770|AlignEnd=12120|Gloss=go
 11	train	train	VERB	_	_	10	compound:svc	_	AlignBegin=12120|AlignEnd=12430|Gloss=train
 12	me	me	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	11	obj	_	AlignBegin=12430|AlignEnd=12580|Gloss=ACC.SG.1
-13	//	//	X	_	_	4	dep	_	AlignBegin=12580|AlignEnd=12580|Gloss=PUNCT
+13	//	//	PUNCT	_	_	4	punct	_	AlignBegin=12580|AlignEnd=12580|Gloss=PUNCT
 
 ~~~
 
@@ -50,15 +50,15 @@ The following 23 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 3	see	see	VERB	_	_	8	dislocated	_	AlignBegin=51400|AlignEnd=51600|Gloss=see
 4	am	am	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	3	obj	_	AlignBegin=51600|AlignEnd=51820|Gloss=ACC.SG.3
 5	do	do	VERB	_	_	3	xcomp	_	AlignBegin=51820|AlignEnd=51983|Gloss=do
-6	<	<	X	_	_	3	dep	_	AlignBegin=51983|AlignEnd=51983|Gloss=PUNCT
-7	#	#	X	_	_	8	dep	_	AlignBegin=51983|AlignEnd=52573|Gloss=PUNCT
+6	<	<	PUNCT	_	_	3	punct	_	AlignBegin=51983|AlignEnd=51983|Gloss=PUNCT
+7	#	#	PUNCT	_	_	8	punct	_	AlignBegin=51983|AlignEnd=52573|Gloss=PUNCT
 8	na	na	AUX	_	ExtPos=SCONJ|PartType=Cop	0	root	_	AlignBegin=52573|AlignEnd=52711|Gloss=be|Idiom=Yes
 9	im	im	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	8	fixed	_	AlignBegin=52711|AlignEnd=52776|Gloss=NOM.SG.3|InIdiom=Yes
-10	>+	>+	X	_	_	12	dep	_	AlignBegin=52776|AlignEnd=52776|Gloss=PUNCT
+10	>+	>+	PUNCT	_	_	12	punct	_	AlignBegin=52776|AlignEnd=52776|Gloss=PUNCT
 11	con	con	AUX	_	Aspect=Cons	12	aux	_	AlignBegin=52776|AlignEnd=53016|Gloss=CONS
 12	dey	dey	VERB	_	VerbType=Cop	8	advcl:cleft	_	AlignBegin=53016|AlignEnd=53166|Gloss=be
 13	hard	hard	ADJ	_	_	12	xcomp	_	AlignBegin=53166|AlignEnd=53418|Gloss=hard
-14	//	//	X	_	_	8	dep	_	AlignBegin=53418|AlignEnd=53418|Gloss=PUNCT
+14	//	//	PUNCT	_	_	8	punct	_	AlignBegin=53418|AlignEnd=53418|Gloss=PUNCT
 
 ~~~
 
@@ -75,7 +75,7 @@ The following 23 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 4	like	like	ADP	_	_	6	case	_	AlignBegin=135705|AlignEnd=135995|Gloss=like
 5	one	one	NUM	_	NumType=Card	6	nummod	_	AlignBegin=135995|AlignEnd=136188|Gloss=one
 6	month	month	NOUN	_	_	3	xcomp	_	AlignBegin=136188|AlignEnd=136450|Gloss=month
-7	//	//	X	_	_	3	dep	_	AlignBegin=136450|AlignEnd=136450|Gloss=PUNCT
+7	//	//	PUNCT	_	_	3	punct	_	AlignBegin=136450|AlignEnd=136450|Gloss=PUNCT
 
 ~~~
 

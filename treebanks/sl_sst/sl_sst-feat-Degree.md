@@ -90,7 +90,7 @@ The most frequent other feature values with which `DET` and `Degree` co-occurred
 The 10 most frequent relations where parent and child node agree in `Degree`:
 <tt>ADJ --[<tt><a href="sl_sst-dep-advmod.html">advmod</a></tt>]--> ADV</tt> (628; 84%),
 <tt>ADV --[<tt><a href="sl_sst-dep-advmod.html">advmod</a></tt>]--> ADV</tt> (252; 85%),
-<tt>ADJ --[<tt><a href="sl_sst-dep-conj.html">conj</a></tt>]--> ADJ</tt> (186; 95%),
+<tt>ADJ --[<tt><a href="sl_sst-dep-conj.html">conj</a></tt>]--> ADJ</tt> (185; 95%),
 <tt>ADV --[<tt><a href="sl_sst-dep-conj.html">conj</a></tt>]--> ADV</tt> (57; 97%),
 <tt>ADV --[<tt><a href="sl_sst-dep-reparandum.html">reparandum</a></tt>]--> ADV</tt> (43; 100%),
 <tt>ADJ --[<tt><a href="sl_sst-dep-mark.html">mark</a></tt>]--> ADV</tt> (22; 96%),

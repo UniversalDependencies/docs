@@ -26,11 +26,11 @@ The following 5 pairs of parts of speech are connected with `nummod`: <tt><a hre
 2	الأقصى	أَقصَى	ADJ	JJR	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	1	amod	_	LId=أَقْصَى_2
 3	المسموح	مَسمُوح	ADJ	VBN	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	1	ccomp	_	LId=مَسْمُوح_1
 4	ب	بِ	ADP	IN	_	5	case	_	LId=بِ_1|SpaceAfter=No
-5	ه	هُوَ	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3	3	obl	_	_
+5	ه	هُوَ	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obl	_	_
 6	ل	لِ	ADP	IN	_	7	case	_	SpaceAfter=No
 7	لشخص	شَخص	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	3	obl	_	LId=شَخْص_1
 8	الواحد	وَاحِد	ADJ	JJ	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	7	amod	_	LId=واحِد_1
-9	هو	هُوَ	PRON	PRP	Gender=Masc|Number=Sing|Person=3	1	dep	_	LId=هُوَ_1
+9	هو	هُوَ	PRON	PRP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	dep	_	LId=هُوَ_1
 10	5000	5000	NUM	CD	_	11	nummod	_	LId=٥٠٠٠_0
 11	دولار	دُولَار	NOUN	NN	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	0	root	_	LId=دُولار_1|SpaceAfter=No
 12	.	.	PUNCT	.	_	11	punct	_	LId=._0
@@ -51,7 +51,7 @@ The following 5 pairs of parts of speech are connected with `nummod`: <tt><a hre
 5	الأول	أَوَّل	ADJ	JJ	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	4	amod	_	LId=أَوَّل_2|Proper=True
 6	(	(	PUNCT	(	_	7	punct	_	LId=(_0|SpaceAfter=No
 7	حكم	حُكم	NOUN	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	4	advcl	_	LId=حُكْم_1
-8	ما	مَا	PART	RP	_	10	case	_	LId=ما_1
+8	ما	مَا	PART	RP	ExtPos=ADP	10	case	_	LId=ما_1
 9	بين	بَينَ	ADP	IN	_	8	fixed	_	LId=بَيْنَ_1
 10	830	830	NUM	CD	_	7	obl	_	LId=٨٣٠_0|SpaceAfter=No
 11	-	-	PUNCT	-	_	12	punct	_	LId=-_0|SpaceAfter=No
@@ -72,7 +72,7 @@ The following 5 pairs of parts of speech are connected with `nummod`: <tt><a hre
 2	مصادر	مَصدَر	NOUN	NN	Case=Nom|Definite=Ind|Gender=Masc|Number=Plur	1	nsubj	_	LId=مَصْدَر_1
 3	مطلعة	مُطَّلِع	ADJ	JJ	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	2	amod	_	LId=مُطَّلِع_1
 4	أن	أَنَّ	SCONJ	IN	_	9	mark	_	LId=أَنَّ_1|SpaceAfter=No
-5	ه	هُوَ	PRON	EX	_	9	expl	_	_
+5	ه	هُوَ	PRON	EX	PronType=Prs	9	expl	_	_
 6	"	"	PUNCT	``	_	9	punct	_	LId="_0
 7	100	100	NUM	CD	_	9	nummod	_	LId=١٠٠_0|SpaceAfter=No
 8	%	%	SYM	SYM	_	7	dep	_	LId=%_0

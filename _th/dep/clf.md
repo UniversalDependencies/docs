@@ -5,24 +5,31 @@ shortdef: 'classifier'
 udver: '2'
 ---
 
-When a Thai noun is counted, that is, modified by a cardinal numeral, the numeral must be accompanied by a classifier. Classifiers evolved from common nouns, some of them can still be used as common nouns and their UPOS tag is [NOUN]() regardless whether they act as classifiers or as regular nouns. Classifiers form a closed set and the numeral must be accompanied by a classifier that matches the semantic class of the counted noun: for example, the classifier used when counting animals will differ from the one used when counting books. Adding a classifier to a numeral can be compared to gender inflection of congruent modifiers in other languages. UD treats the numeral with the classifier as one syntactic unit that together modifies the counted noun. Therefore, the classifier is attached as a dependent of the numeral, which in turn is attached to the main noun.
+When a Thai noun is counted, that is, modified by a cardinal numeral, the numeral must be accompanied by a classifier.
+Classifiers evolved from common nouns, some of them can still be used as common nouns and their UPOS tag is [NOUN]()
+regardless whether they act as classifiers or as regular nouns. Classifiers form a closed set and the numeral must be
+accompanied by a classifier that matches the semantic class of the counted noun: for example, the classifier used when
+counting animals will differ from the one used when counting books. Adding a classifier to a numeral can be compared
+to gender inflection of congruent modifiers in other languages. UD treats the numeral with the classifier as one
+syntactic unit that together modifies the counted noun. Therefore, the classifier is attached as a dependent of the
+numeral, which in turn is attached to the main noun.
 
 ~~~ sdparse
-แมว/NOUN สาม/NUM ตัว/NOUN \n mǽw sám túá \n cat three CLF
+แมว/NOUN สาม/NUM ตัว/NOUN \n mæːw saːm tuaː \n cat three CLF
 nummod(แมว, สาม)
 clf(สาม, ตัว)
-nummod(mǽw, sám)
-clf(sám, túá)
+nummod(mæːw, saːm)
+clf(saːm, tuaː)
 nummod(cat, three)
 clf(three, CLF)
 ~~~
 
 ~~~ sdparse
-บ้าน/NOUN สิบ/NUM หลัง/NOUN \n bá²n sib hlâŋ \n house ten CLF
+บ้าน/NOUN สิบ/NUM หลัง/NOUN \n bâːn sib hlạŋ \n house ten CLF
 nummod(บ้าน, สิบ)
 clf(สิบ, หลัง)
-nummod(bá²n, sib)
-clf(sib, hlâŋ)
+nummod(bâːn, sib)
+clf(sib, hlạŋ)
 nummod(house, ten)
 clf(ten, CLF)
 ~~~
@@ -413,4 +420,4 @@ If there is a genitive 的 _de_ between the classifier and the noun, then the cl
 ~~~
 
 Note that classifiers are tagged as [NOUN](). The feature `NounType=Clf` is recommended for distinguishing classifiers from regular nouns.
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:36 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:49 CEST -->

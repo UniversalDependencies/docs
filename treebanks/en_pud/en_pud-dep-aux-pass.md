@@ -67,9 +67,9 @@ The following 2 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 21	impregnable	impregnable	ADJ	JJ	Degree=Pos	16	xcomp	16:xcomp	SpaceAfter=No
 22	,	,	PUNCT	,	_	29	punct	29:punct	_
 23	and	and	CCONJ	CC	_	29	cc	29:cc	_
-24	General	general	NOUN	NN	Number=Sing	29	nsubj:pass	29:nsubj:pass	_
-25	de	de	PROPN	NNP	Number=Sing	24	flat	24:flat	_
-26	Meza	Meza	PROPN	NNP	Number=Sing	24	flat	24:flat	_
+24	General	general	NOUN	NN	Number=Sing	25	nmod:desc	25:nmod:desc	_
+25	de	de	PROPN	NNP	Number=Sing	29	nsubj:pass	29:nsubj:pass	_
+26	Meza	Meza	PROPN	NNP	Number=Sing	25	flat	25:flat	_
 27	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	29	aux:pass	29:aux:pass	_
 28	promptly	promptly	ADV	RB	_	29	advmod	29:advmod	_
 29	relieved	relieved	ADJ	JJ	Degree=Pos	5	conj	5:conj:and	_

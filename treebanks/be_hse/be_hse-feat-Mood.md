@@ -9,21 +9,21 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Cnd`, `Imp`, `Ind`.
 
-25305 tokens (8%) have a non-empty value of `Mood`.
-8177 types (16%) occur at least once with a non-empty value of `Mood`.
-3494 lemmas (12%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 5 part-of-speech tags: <tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (22904; 8% instances), <tt><a href="be_hse-pos-AUX.html">AUX</a></tt> (1943; 1% instances), <tt><a href="be_hse-pos-SCONJ.html">SCONJ</a></tt> (438; 0% instances), <tt><a href="be_hse-pos-PART.html">PART</a></tt> (19; 0% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+25295 tokens (8%) have a non-empty value of `Mood`.
+8170 types (16%) occur at least once with a non-empty value of `Mood`.
+3488 lemmas (12%) occur at least once with a non-empty value of `Mood`.
+The feature is used with 5 part-of-speech tags: <tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (22895; 8% instances), <tt><a href="be_hse-pos-AUX.html">AUX</a></tt> (1942; 1% instances), <tt><a href="be_hse-pos-SCONJ.html">SCONJ</a></tt> (438; 0% instances), <tt><a href="be_hse-pos-PART.html">PART</a></tt> (19; 0% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 ### `VERB`
 
-22904 <tt><a href="be_hse-pos-VERB.html">VERB</a></tt> tokens (74% of all `VERB` tokens) have a non-empty value of `Mood`.
+22895 <tt><a href="be_hse-pos-VERB.html">VERB</a></tt> tokens (74% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="be_hse-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (22903; 100%), <tt><a href="be_hse-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (18371; 80%), <tt><a href="be_hse-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (16157; 71%), <tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt> (13278; 58%), <tt><a href="be_hse-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (11984; 52%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="be_hse-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (22894; 100%), <tt><a href="be_hse-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (18362; 80%), <tt><a href="be_hse-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (16155; 71%), <tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt> (13270; 58%), <tt><a href="be_hse-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (11979; 52%).
 
 `VERB` tokens may have the following values of `Mood`:
 
 * `Imp` (1564; 7% of non-empty `Mood`): <em>далучайцеся, паглядзіце, глядзі, Грай, глядзіце, далучайся, прыходзьце, дай, давайце, прыходзь</em>
-* `Ind` (21340; 93% of non-empty `Mood`): <em>можа, жыве, стала, мае, адбудзецца, затрымалі, сказаў, кажа, пачалі, стаў</em>
+* `Ind` (21331; 93% of non-empty `Mood`): <em>можа, жыве, стала, мае, адбудзецца, затрымалі, сказаў, кажа, пачалі, стаў</em>
 * `EMPTY` (8188): <em>можна, трэба, няма, падтрымаць, зрабіць, варта, рабіць, паглядзець, слухаць, стаць</em>
 
 <table>
@@ -46,19 +46,19 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
   <tr><td><tt><tt><a href="be_hse-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="be_hse-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="be_hse-feat-Voice.html">Voice</a></tt><tt>=Mid</tt></tt></td><td><em>сталі</em></td><td></td></tr>
 </table>
 
-`Mood` seems to be **lexical feature** of `VERB`. 91% lemmas (3187) occur only with one value of `Mood`.
+`Mood` seems to be **lexical feature** of `VERB`. 91% lemmas (3181) occur only with one value of `Mood`.
 
 ### `AUX`
 
-1943 <tt><a href="be_hse-pos-AUX.html">AUX</a></tt> tokens (93% of all `AUX` tokens) have a non-empty value of `Mood`.
+1942 <tt><a href="be_hse-pos-AUX.html">AUX</a></tt> tokens (93% of all `AUX` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="be_hse-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1781; 92%), <tt><a href="be_hse-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1781; 92%), <tt><a href="be_hse-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (1715; 88%), <tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1316; 68%), <tt><a href="be_hse-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1222; 63%), <tt><a href="be_hse-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1098; 57%), <tt><a href="be_hse-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (1060; 55%).
+The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="be_hse-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1780; 92%), <tt><a href="be_hse-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1780; 92%), <tt><a href="be_hse-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (1714; 88%), <tt><a href="be_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1315; 68%), <tt><a href="be_hse-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1222; 63%), <tt><a href="be_hse-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1097; 56%), <tt><a href="be_hse-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (1060; 55%).
 
 `AUX` tokens may have the following values of `Mood`:
 
 * `Cnd` (162; 8% of non-empty `Mood`): <em>б, бы</em>
 * `Imp` (3; 0% of non-empty `Mood`): <em>Будзьма</em>
-* `Ind` (1778; 92% of non-empty `Mood`): <em>будзе, быў, было, былі, была, будуць, будзем, ёсць, буду, будзеш</em>
+* `Ind` (1777; 92% of non-empty `Mood`): <em>будзе, быў, было, былі, была, будуць, будзем, ёсць, буду, будзеш</em>
 * `EMPTY` (141): <em>быць, б, Будзь, будучы, буду, БУДЗЕ, Будзьце, бы</em>
 
 <table>
@@ -118,15 +118,15 @@ The most frequent other feature values with which `NOUN` and `Mood` co-occurred:
 `NOUN` tokens may have the following values of `Mood`:
 
 * `Ind` (1; 100% of non-empty `Mood`): <em>падкастаў</em>
-* `EMPTY` (72685): <em>дзень, людзей, чалавек, арт, годзе, гадоў, час, людзі, года, год</em>
+* `EMPTY` (72695): <em>дзень, людзей, чалавек, арт, годзе, гадоў, час, людзі, года, год</em>
 
 ## Relations with Agreement in `Mood`
 
 The 10 most frequent relations where parent and child node agree in `Mood`:
-<tt>VERB --[<tt><a href="be_hse-dep-conj.html">conj</a></tt>]--> VERB</tt> (2712; 85%),
+<tt>VERB --[<tt><a href="be_hse-dep-conj.html">conj</a></tt>]--> VERB</tt> (2728; 85%),
 <tt>VERB --[<tt><a href="be_hse-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (700; 67%),
-<tt>VERB --[<tt><a href="be_hse-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (454; 69%),
-<tt>VERB --[<tt><a href="be_hse-dep-acl.html">acl</a></tt>]--> VERB</tt> (25; 57%),
+<tt>VERB --[<tt><a href="be_hse-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (462; 69%),
+<tt>VERB --[<tt><a href="be_hse-dep-acl.html">acl</a></tt>]--> VERB</tt> (24; 62%),
 <tt>VERB --[<tt><a href="be_hse-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (14; 70%),
 <tt>VERB --[<tt><a href="be_hse-dep-flat.html">flat</a></tt>]--> VERB</tt> (8; 73%),
 <tt>VERB --[<tt><a href="be_hse-dep-ccomp.html">ccomp</a></tt>]--> AUX</tt> (6; 67%),

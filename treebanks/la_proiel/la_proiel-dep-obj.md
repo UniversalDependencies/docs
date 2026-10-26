@@ -22,12 +22,12 @@ The following 35 pairs of parts of speech are connected with `obj`: <tt><a href=
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 6 obj	color:blue
-1	beati	beatus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	0	root	_	ref=MATT_5.4
-2	mites	mitis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	1	nsubj	_	ref=MATT_5.4
-3	quoniam	quoniam	SCONJ	G-	_	5	mark	_	ref=MATT_5.4
-4	ipsi	ipse	PRON	Pp	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	ref=MATT_5.4
-5	possidebunt	possideo	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	1	advcl	_	ref=MATT_5.4
-6	terram	terra	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	5	obj	_	ref=MATT_5.4
+1	beati	beatus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	0	root	_	Ref=MATT_5.4
+2	mites	mitis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	1	nsubj	_	Ref=MATT_5.4
+3	quoniam	quoniam	SCONJ	G-	_	5	mark	_	Ref=MATT_5.4
+4	ipsi	ipse	PRON	Pp	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	Ref=MATT_5.4
+5	possidebunt	possideo	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	1	advcl	_	Ref=MATT_5.4
+6	terram	terra	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	5	obj	_	Ref=MATT_5.4
 
 ~~~
 
@@ -38,17 +38,17 @@ The following 35 pairs of parts of speech are connected with `obj`: <tt><a href=
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 3 obj	color:blue
-1	et	et	CCONJ	C-	_	7	cc	_	ref=MATT_5.41
-2	quicumque	quicumque	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	4	nsubj	_	ref=MATT_5.41
-3	te	tu	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	obj	_	ref=MATT_5.41
-4	angariaverit	angario	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	7	dislocated	_	ref=MATT_5.41
-5	mille	mille	NUM	Ma	_	6	nummod	_	ref=MATT_5.41
-6	passus	passus	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	4	obl	_	ref=MATT_5.41
-7	vade	vado	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_5.41
-8	cum	cum	ADP	R-	_	9	case	_	ref=MATT_5.41
-9	illo	ille	PRON	Pd	Case=Abl|Gender=Masc|Number=Sing	7	obl	_	ref=MATT_5.41
-10	alia	alius	PRON	Px	Case=Acc|Gender=Neut|Number=Plur	7	obl	_	ref=MATT_5.41
-11	duo	duo	NUM	Ma	Case=Acc|Gender=Neut|Number=Plur	10	nummod	_	ref=MATT_5.41
+1	et	et	CCONJ	C-	_	7	cc	_	Ref=MATT_5.41
+2	quicumque	quicumque	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	4	nsubj	_	Ref=MATT_5.41
+3	te	tu	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	obj	_	Ref=MATT_5.41
+4	angariaverit	angario	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	7	dislocated	_	Ref=MATT_5.41
+5	mille	mille	NUM	Ma	_	6	nummod	_	Ref=MATT_5.41
+6	passus	passus	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	4	obl	_	Ref=MATT_5.41
+7	vade	vado	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_5.41
+8	cum	cum	ADP	R-	_	9	case	_	Ref=MATT_5.41
+9	illo	ille	PRON	Pd	Case=Abl|Gender=Masc|Number=Sing	7	obl	_	Ref=MATT_5.41
+10	alia	alius	PRON	Px	Case=Acc|Gender=Neut|Number=Plur	7	obl	_	Ref=MATT_5.41
+11	duo	duo	NUM	Ma	Case=Acc|Gender=Neut|Number=Plur	10	nummod	_	Ref=MATT_5.41
 
 ~~~
 
@@ -59,15 +59,15 @@ The following 35 pairs of parts of speech are connected with `obj`: <tt><a href=
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 3 obj	color:blue
-1	videns	video	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	6	advcl	_	ref=MARK_5.6
-2	autem	autem	ADV	Df	_	6	discourse	_	ref=MARK_5.6
-3	Iesum	Iesus	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	1	obj	_	ref=MARK_5.6
-4	a	ab	ADP	R-	_	5	case	_	ref=MARK_5.6
-5	longe	longe	ADV	Df	Degree=Pos	1	advmod	_	ref=MARK_5.6
-6	cucurrit	curro	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=MARK_5.6
-7	et	et	CCONJ	C-	_	8	cc	_	ref=MARK_5.6
-8	adoravit	adoro	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	6	conj	_	ref=MARK_5.6
-9	eum	is	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obj	_	ref=MARK_5.6
+1	videns	video	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	6	advcl	_	Ref=MARK_5.6
+2	autem	autem	ADV	Df	_	6	discourse	_	Ref=MARK_5.6
+3	Iesum	Iesus	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	1	obj	_	Ref=MARK_5.6
+4	a	ab	ADP	R-	_	5	case	_	Ref=MARK_5.6
+5	longe	longe	ADV	Df	Degree=Pos	1	advmod	_	Ref=MARK_5.6
+6	cucurrit	curro	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=MARK_5.6
+7	et	et	CCONJ	C-	_	8	cc	_	Ref=MARK_5.6
+8	adoravit	adoro	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	6	conj	_	Ref=MARK_5.6
+9	eum	is	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obj	_	Ref=MARK_5.6
 
 ~~~
 

@@ -9,20 +9,28 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Def`, `Ind`.
 
-14 tokens (2%) have a non-empty value of `Definite`.
-7 types (1%) occur at least once with a non-empty value of `Definite`.
-7 lemmas (1%) occur at least once with a non-empty value of `Definite`.
-The feature is used with 1 part-of-speech tags: <tt><a href="ota_dudu-pos-DET.html">DET</a></tt> (14; 2% instances).
+939 tokens (4%) have a non-empty value of `Definite`.
+15 types (0%) occur at least once with a non-empty value of `Definite`.
+14 lemmas (0%) occur at least once with a non-empty value of `Definite`.
+The feature is used with 1 part-of-speech tags: <tt><a href="ota_dudu-pos-DET.html">DET</a></tt> (939; 4% instances).
 
 ### `DET`
 
-14 <tt><a href="ota_dudu-pos-DET.html">DET</a></tt> tokens (30% of all `DET` tokens) have a non-empty value of `Definite`.
+939 <tt><a href="ota_dudu-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `DET` and `Definite` co-occurred: <tt><a href="ota_dudu-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (14; 100%).
+The most frequent other feature values with which `DET` and `Definite` co-occurred: <tt><a href="ota_dudu-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (939; 100%).
 
 `DET` tokens may have the following values of `Definite`:
 
-* `Def` (6; 43% of non-empty `Definite`): <em>o, bu, her, ol</em>
-* `Ind` (8; 57% of non-empty `Definite`): <em>bir, birḳaç, bâżı</em>
-* `EMPTY` (33): <em>bir, bu, ol, birḳac, cümle</em>
+* `Def` (571; 61% of non-empty `Definite`): <em>bu, ol, her, o, işbu, şol, şu, budur, ne</em>
+* `Ind` (368; 39% of non-empty `Definite`): <em>bir, baʿżı, birḳaç, ḳaç, birḳac, bāżı</em>
+* `EMPTY` (2): <em>ḳanġı, ḳanḳı</em>
+
+`Definite` seems to be **lexical feature** of `DET`. 100% lemmas (14) occur only with one value of `Definite`.
+
+## Relations with Agreement in `Definite`
+
+The 10 most frequent relations where parent and child node agree in `Definite`:
+<tt>DET --[<tt><a href="ota_dudu-dep-fixed.html">fixed</a></tt>]--> DET</tt> (3; 100%),
+<tt>DET --[<tt><a href="ota_dudu-dep-compound-redup.html">compound:redup</a></tt>]--> DET</tt> (2; 100%).
 

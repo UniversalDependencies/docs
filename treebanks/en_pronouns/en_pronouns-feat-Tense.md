@@ -12,18 +12,18 @@ It occurs with 2 different values: `Past`, `Pres`.
 360 tokens (21%) have a non-empty value of `Tense`.
 31 types (40%) occur at least once with a non-empty value of `Tense`.
 22 lemmas (35%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 2 part-of-speech tags: <tt><a href="en_pronouns-pos-VERB.html">VERB</a></tt> (255; 15% instances), <tt><a href="en_pronouns-pos-AUX.html">AUX</a></tt> (105; 6% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="en_pronouns-pos-VERB.html">VERB</a></tt> (250; 15% instances), <tt><a href="en_pronouns-pos-AUX.html">AUX</a></tt> (110; 6% instances).
 
 ### `VERB`
 
-255 <tt><a href="en_pronouns-pos-VERB.html">VERB</a></tt> tokens (96% of all `VERB` tokens) have a non-empty value of `Tense`.
+250 <tt><a href="en_pronouns-pos-VERB.html">VERB</a></tt> tokens (96% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="en_pronouns-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (210; 82%), <tt><a href="en_pronouns-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (200; 78%), <tt><a href="en_pronouns-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (130; 51%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="en_pronouns-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (205; 82%), <tt><a href="en_pronouns-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (195; 78%), <tt><a href="en_pronouns-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (130; 52%).
 
 `VERB` tokens may have the following values of `Tense`:
 
-* `Past` (175; 69% of non-empty `Tense`): <em>cleaned, drove, sold, gave, knew, liked, accelerated, broke, came, got</em>
-* `Pres` (80; 31% of non-empty `Tense`): <em>like, seeing, is, Take, cleaning, do, get, parks, sell, sells</em>
+* `Past` (175; 70% of non-empty `Tense`): <em>cleaned, drove, sold, gave, knew, liked, accelerated, broke, came, got</em>
+* `Pres` (75; 30% of non-empty `Tense`): <em>like, seeing, Take, cleaning, do, get, is, parks, sell, sells</em>
 * `EMPTY` (10): <em>clean, using</em>
 
 <table>
@@ -36,14 +36,14 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 ### `AUX`
 
-105 <tt><a href="en_pronouns-pos-AUX.html">AUX</a></tt> tokens (95% of all `AUX` tokens) have a non-empty value of `Tense`.
+110 <tt><a href="en_pronouns-pos-AUX.html">AUX</a></tt> tokens (96% of all `AUX` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="en_pronouns-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (105; 100%), <tt><a href="en_pronouns-feat-Number.html">Number</a></tt><tt>=Sing</tt> (105; 100%), <tt><a href="en_pronouns-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (105; 100%), <tt><a href="en_pronouns-feat-Person.html">Person</a></tt><tt>=3</tt> (91; 87%).
+The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="en_pronouns-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (110; 100%), <tt><a href="en_pronouns-feat-Number.html">Number</a></tt><tt>=Sing</tt> (110; 100%), <tt><a href="en_pronouns-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (110; 100%), <tt><a href="en_pronouns-feat-Person.html">Person</a></tt><tt>=3</tt> (96; 87%).
 
 `AUX` tokens may have the following values of `Tense`:
 
-* `Past` (25; 24% of non-empty `Tense`): <em>was</em>
-* `Pres` (80; 76% of non-empty `Tense`): <em>'s, is, ai</em>
+* `Past` (25; 23% of non-empty `Tense`): <em>was</em>
+* `Pres` (85; 77% of non-empty `Tense`): <em>'s, is, ai</em>
 * `EMPTY` (5): <em>'ll</em>
 
 <table>

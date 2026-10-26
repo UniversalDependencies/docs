@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-82 nodes (3%) are attached to their parents as `det`.
+112 nodes (3%) are attached to their parents as `det`.
 
-53 instances of `det` (65%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.30487804878049.
+74 instances of `det` (66%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.26785714285714.
 
-The following 12 pairs of parts of speech are connected with `det`: <tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt> (40; 49% instances), <tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pay_chibergis-pos-DET.html">DET</a></tt> (20; 24% instances), <tt><a href="pay_chibergis-pos-PART.html">PART</a></tt>-<tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt> (6; 7% instances), <tt><a href="pay_chibergis-pos-X.html">X</a></tt>-<tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt> (4; 5% instances), <tt><a href="pay_chibergis-pos-ADV.html">ADV</a></tt>-<tt><a href="pay_chibergis-pos-DET.html">DET</a></tt> (2; 2% instances), <tt><a href="pay_chibergis-pos-PART.html">PART</a></tt>-<tt><a href="pay_chibergis-pos-DET.html">DET</a></tt> (2; 2% instances), <tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt>-<tt><a href="pay_chibergis-pos-DET.html">DET</a></tt> (2; 2% instances), <tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt>-<tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt> (2; 2% instances), <tt><a href="pay_chibergis-pos-INTJ.html">INTJ</a></tt>-<tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="pay_chibergis-pos-NUM.html">NUM</a></tt>-<tt><a href="pay_chibergis-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="pay_chibergis-pos-X.html">X</a></tt>-<tt><a href="pay_chibergis-pos-DET.html">DET</a></tt> (1; 1% instances).
+The following 12 pairs of parts of speech are connected with `det`: <tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt> (58; 52% instances), <tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pay_chibergis-pos-DET.html">DET</a></tt> (28; 25% instances), <tt><a href="pay_chibergis-pos-X.html">X</a></tt>-<tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt> (7; 6% instances), <tt><a href="pay_chibergis-pos-PART.html">PART</a></tt>-<tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt> (6; 5% instances), <tt><a href="pay_chibergis-pos-ADV.html">ADV</a></tt>-<tt><a href="pay_chibergis-pos-DET.html">DET</a></tt> (2; 2% instances), <tt><a href="pay_chibergis-pos-PART.html">PART</a></tt>-<tt><a href="pay_chibergis-pos-DET.html">DET</a></tt> (2; 2% instances), <tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt>-<tt><a href="pay_chibergis-pos-DET.html">DET</a></tt> (2; 2% instances), <tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt>-<tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt> (2; 2% instances), <tt><a href="pay_chibergis-pos-X.html">X</a></tt>-<tt><a href="pay_chibergis-pos-DET.html">DET</a></tt> (2; 2% instances), <tt><a href="pay_chibergis-pos-INTJ.html">INTJ</a></tt>-<tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="pay_chibergis-pos-NUM.html">NUM</a></tt>-<tt><a href="pay_chibergis-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -50,24 +50,20 @@ The following 12 pairs of parts of speech are connected with `det`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 6 det	color:blue
-1	yar	yar	NOUN	_	_	2	obl:mod	_	AlignBegin=45138|AlignEnd=45348|Gloss=true|MGloss=true|MSeg=yar|nWord=1|RX=[<NOT_SURE>]|TokenType=Root|Word=yar
-2	paki	pak	VERB	_	_	0	root	_	AlignBegin=45348|AlignEnd=45558|Gloss=take|MGloss=O3SG- take -S3SG -PST|MSeg=Ø-pak-Ø-i|nWord=2|RX=[VT]|TokenType=Root|Word=paki|wordform=Ø-pak-Ø-i
-3	tʃãwa	tʃã	VERB	_	_	2	advcl	_	AlignBegin=45558|AlignEnd=45768|Gloss=see|MGloss=O3SG- see -S3SG -PFV|MSeg=Ø-tʃã-Ø-wa|nWord=3|RX=[VT]|TokenType=Root|Word=tʃẽu|wordform=Ø-tʃã-Ø-wa
-4	=ma	=ma	SCONJ	_	_	3	mark	_	AlignBegin=45768|AlignEnd=45978|Gloss==when|MGloss==when|MSeg==ma|nWord=4|RX=[PRT]|TokenType=Clit|Word=ma
-5	,	_	PUNCT	_	_	3	punct	_	AlignBegin=45978|AlignEnd=46188|MSeg=,|nWord=5|Word=,
-6	toʔ	toʔ	PRON	_	_	7	det	_	AlignBegin=46188|AlignEnd=46398|Gloss=MED.DEM|MGloss=MED.DEM|MSeg=toʔ|nWord=6|RX=[PRO]|TokenType=Root|Word=toʔ
-7	ãm	ãm	PART	_	_	3	obj	_	AlignBegin=46398|AlignEnd=46608|Gloss=HES|MGloss=HES|MSeg=ãm|nWord=7|RX=[PRT]|TokenType=Root|Word=ãm
-8	,	_	PUNCT	_	_	7	punct	_	AlignBegin=46608|AlignEnd=46818|MSeg=,|nWord=8|Word=,
-9	nẽhã	nẽhã	PART	_	_	7	reparandum	_	AlignBegin=46818|AlignEnd=47028|Gloss=HES|MGloss=HES|MSeg=nẽhã|nWord=9|RX=[PRT]|TokenType=Root|Word=nẽhã
-10	,	_	PUNCT	_	_	7	punct	_	AlignBegin=47028|AlignEnd=47238|MSeg=,|nWord=10|Word=,
-11	yui	yui	NOUN	_	_	7	reparandum	_	AlignBegin=47238|AlignEnd=47448|Gloss=moon|MGloss=moon|MSeg=yui|nWord=11|RX=[N]|TokenType=Root|Word=yui
-12	=ra	=ra	ADP	_	Case=Abs	11	case	_	AlignBegin=47448|AlignEnd=47658|Gloss==ABS|MGloss==ABS|MSeg==ra|nWord=12|RX=[PRT]|TokenType=Clit|Word=ra
-13	.	_	PUNCT	_	_	2	punct	_	AlignBegin=48288|AlignEnd=48496|Gloss=.|MGloss=.|MSeg=.|nWord=16|Word=.
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 1 det	color:blue
+1	eka	eka	PRON	PRO	_	3	det	_	AlignBegin=571800|AlignEnd=572344|Gloss=PRO3|MGloss=PRO3|MSeg=eka|nWord=1|RX=[PRO]|TokenType=Root|Word=ek
+2	ĩ	ĩ	PRON	PRO	_	3	reparandum	_	AlignBegin=572344|AlignEnd=572888|Gloss=PROX.DEM|MGloss=PROX.DEM|MSeg=ĩ|nWord=2|RX=[PRO]|TokenType=Root|Word=ĩ
+3	semana	semana	X	<NOT_SURE>	_	5	obl:tmod	_	AlignBegin=572888|AlignEnd=573432|Gloss=SPA_week|MGloss=SPA_week|MSeg=semana|nWord=3|RX=[<NOT_SURE>]|TokenType=Root|Word=semana
+4	tis	tis	NOUN	<NOT_SURE>	_	5	obj	_	AlignBegin=573432|AlignEnd=573976|Gloss=a.little|MGloss=a.little|MSeg=tis|nWord=4|RX=[<NOT_SURE>]|TokenType=Root|Word=tis
+5	kapaʃbarpi	kapaʃ	VERB	V:ANY	Clusivity=Ex	0	root	_	AlignBegin=573976|AlignEnd=574520|Gloss=speak|MGloss=O3SG- speak -S1PL.EXCL -FUT|MSeg=Ø-kapaʃ-bar-pi|nWord=5|RX=[VT]|TokenType=Root|Word=kapaʃbarpi|wordform=Ø-kapaʃ-bar-pi
+6	=hãʔ	=hãʔ	PART	PRT	_	5	advmod	_	AlignBegin=574520|AlignEnd=575064|Gloss==FOC|MGloss==FOC|MSeg==hãʔ|nWord=6|RX=[PRT]|TokenType=Clit|Word=hãʔ
+7	kamasa	kamasa	NOUN	N	_	5	obl:arg	_	AlignBegin=575064|AlignEnd=575608|Gloss=white|MGloss=white|MSeg=kamasa|nWord=7|RX=[N]|TokenType=Root|Word=kamasa
+8	korta	korta	NOUN	N	_	7	nmod	_	AlignBegin=575608|AlignEnd=576152|Gloss=woman|MGloss=woman|MSeg=korta|nWord=8|RX=[N]|TokenType=Root|Word=korta
+9	=yo	=yo	ADP	POST	_	7	case	_	AlignBegin=576152|AlignEnd=576700|Gloss==COM|MGloss==COM|MSeg==yo|nWord=9|RX=[POST]|TokenType=Clit|Word=yo
 
 ~~~
 

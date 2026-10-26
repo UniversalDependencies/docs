@@ -16,4 +16,4 @@ Beja has several conjunctive coordinating conjunctions.
 - _=t_ (clauses linker occuring after verb in perfective aspect or imperative mood)
 - _=aːt_ (clauses linker occuring after verb in imperfective aspect)
 - _=ja_ (clauses linker occuring after verb in perfective aspect or imperative mood)
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:20 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:34 CEST -->

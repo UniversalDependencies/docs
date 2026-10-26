@@ -13,7 +13,7 @@ Some words have combined values of the feature; 3 combinations have been observe
 127150 tokens (52%) have a non-empty value of `Gender`.
 40703 types (76%) occur at least once with a non-empty value of `Gender`.
 10998 lemmas (81%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 8 part-of-speech tags: <tt><a href="orv_torot-pos-NOUN.html">NOUN</a></tt> (53587; 22% instances), <tt><a href="orv_torot-pos-PRON.html">PRON</a></tt> (18784; 8% instances), <tt><a href="orv_torot-pos-ADJ.html">ADJ</a></tt> (17948; 7% instances), <tt><a href="orv_torot-pos-VERB.html">VERB</a></tt> (12944; 5% instances), <tt><a href="orv_torot-pos-PROPN.html">PROPN</a></tt> (12923; 5% instances), <tt><a href="orv_torot-pos-DET.html">DET</a></tt> (8703; 4% instances), <tt><a href="orv_torot-pos-NUM.html">NUM</a></tt> (1311; 1% instances), <tt><a href="orv_torot-pos-AUX.html">AUX</a></tt> (950; 0% instances).
+The feature is used with 8 part-of-speech tags: <tt><a href="orv_torot-pos-NOUN.html">NOUN</a></tt> (53587; 22% instances), <tt><a href="orv_torot-pos-PRON.html">PRON</a></tt> (18783; 8% instances), <tt><a href="orv_torot-pos-ADJ.html">ADJ</a></tt> (17948; 7% instances), <tt><a href="orv_torot-pos-VERB.html">VERB</a></tt> (12944; 5% instances), <tt><a href="orv_torot-pos-PROPN.html">PROPN</a></tt> (12923; 5% instances), <tt><a href="orv_torot-pos-DET.html">DET</a></tt> (8704; 4% instances), <tt><a href="orv_torot-pos-NUM.html">NUM</a></tt> (1311; 1% instances), <tt><a href="orv_torot-pos-AUX.html">AUX</a></tt> (950; 0% instances).
 
 ### `NOUN`
 
@@ -50,16 +50,16 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
 
 ### `PRON`
 
-18784 <tt><a href="orv_torot-pos-PRON.html">PRON</a></tt> tokens (78% of all `PRON` tokens) have a non-empty value of `Gender`.
+18783 <tt><a href="orv_torot-pos-PRON.html">PRON</a></tt> tokens (78% of all `PRON` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="orv_torot-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (18057; 96%), <tt><a href="orv_torot-feat-Number.html">Number</a></tt><tt>=Sing</tt> (13559; 72%), <tt><a href="orv_torot-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (11418; 61%).
+The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="orv_torot-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (18056; 96%), <tt><a href="orv_torot-feat-Number.html">Number</a></tt><tt>=Sing</tt> (13558; 72%), <tt><a href="orv_torot-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (11418; 61%).
 
 `PRON` tokens may have the following values of `Gender`:
 
 * `Fem` (1143; 6% of non-empty `Gender`): <em>ю, юже, неи, ея, же, еи, ѡна, яже, ѥи, еѧ</em>
 * `Fem,Masc` (191; 1% of non-empty `Gender`): <em>намъ, кто, нас, ны, насъ, имъ, вамъ, вы, ихъ, васъ</em>
 * `Masc` (14049; 75% of non-empty `Gender`): <em>его, ѥго, и, ихъ, имъ, иже, ѥму, я, мнѣ, ми</em>
-* `Neut` (3401; 18% of non-empty `Gender`): <em>что, то, се, еже, все, же, того, сего, ѥже, тѣмь</em>
+* `Neut` (3400; 18% of non-empty `Gender`): <em>что, то, се, еже, все, же, того, сего, ѥже, тѣмь</em>
 * `EMPTY` (5367): <em>сѧ, ся, сꙗ, кто, с, си, ца, елико, с҃, хто</em>
 
 <table>
@@ -187,16 +187,16 @@ The most frequent other feature values with which `PROPN` and `Gender` co-occurr
 
 ### `DET`
 
-8703 <tt><a href="orv_torot-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Gender`.
+8704 <tt><a href="orv_torot-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="orv_torot-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (6496; 75%), <tt><a href="orv_torot-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6216; 71%), <tt><a href="orv_torot-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (4597; 53%), <tt><a href="orv_torot-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (4597; 53%).
+The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="orv_torot-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (6497; 75%), <tt><a href="orv_torot-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6217; 71%), <tt><a href="orv_torot-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (4598; 53%), <tt><a href="orv_torot-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (4598; 53%).
 
 `DET` tokens may have the following values of `Gender`:
 
 * `Fem` (2345; 27% of non-empty `Gender`): <em>свою, всю, своеи, своею, всѧ, тои, ту, мою, своѥи, сеи</em>
 * `Fem,Masc` (8; 0% of non-empty `Gender`): <em>всѣмъ, сихъ, всѣм, наши, самѣхъ, своими</em>
 * `Masc` (4094; 47% of non-empty `Gender`): <em>своѥго, свои, мои, вси, своего, сего, нашь, своимъ, всѧ, нашего</em>
-* `Neut` (2256; 26% of non-empty `Gender`): <em>то, тож҃, все, се, всѧ, томьж҃, тог҃же, свое, мое, того</em>
+* `Neut` (2257; 26% of non-empty `Gender`): <em>то, тож҃, все, се, всѧ, томьж҃, тог҃же, свое, мое, того</em>
 * `EMPTY` (7): <em>кто, никътоже, от, отъ, си</em>
 
 <table>
@@ -320,14 +320,14 @@ The most frequent other feature values with which `AUX` and `Gender` co-occurred
 ## Relations with Agreement in `Gender`
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
-<tt>NOUN --[<tt><a href="orv_torot-dep-amod.html">amod</a></tt>]--> ADJ</tt> (10939; 98%),
-<tt>NOUN --[<tt><a href="orv_torot-dep-det.html">det</a></tt>]--> DET</tt> (7854; 98%),
+<tt>NOUN --[<tt><a href="orv_torot-dep-amod.html">amod</a></tt>]--> ADJ</tt> (10940; 98%),
+<tt>NOUN --[<tt><a href="orv_torot-dep-det.html">det</a></tt>]--> DET</tt> (7845; 98%),
 <tt>NOUN --[<tt><a href="orv_torot-dep-appos.html">appos</a></tt>]--> PROPN</tt> (1861; 92%),
 <tt>VERB --[<tt><a href="orv_torot-dep-conj.html">conj</a></tt>]--> VERB</tt> (1237; 58%),
 <tt>NOUN --[<tt><a href="orv_torot-dep-appos.html">appos</a></tt>]--> NOUN</tt> (1010; 72%),
 <tt>PROPN --[<tt><a href="orv_torot-dep-conj.html">conj</a></tt>]--> PROPN</tt> (935; 92%),
 <tt>PROPN --[<tt><a href="orv_torot-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (874; 97%),
 <tt>PROPN --[<tt><a href="orv_torot-dep-appos.html">appos</a></tt>]--> NOUN</tt> (850; 89%),
-<tt>ADJ --[<tt><a href="orv_torot-dep-conj.html">conj</a></tt>]--> ADJ</tt> (846; 98%),
+<tt>ADJ --[<tt><a href="orv_torot-dep-conj.html">conj</a></tt>]--> ADJ</tt> (847; 98%),
 <tt>PROPN --[<tt><a href="orv_torot-dep-amod.html">amod</a></tt>]--> ADJ</tt> (831; 100%).
 

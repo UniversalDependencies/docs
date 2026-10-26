@@ -11,7 +11,7 @@ It occurs with 3 different values: `Dual`, `Plur`, `Sing`.
 
 163 tokens (12%) have a non-empty value of `Number`.
 35 types (7%) occur at least once with a non-empty value of `Number`.
-10 lemmas (3%) occur at least once with a non-empty value of `Number`.
+10 lemmas (2%) occur at least once with a non-empty value of `Number`.
 The feature is used with 3 part-of-speech tags: <tt><a href="ceb_gja-pos-PRON.html">PRON</a></tt> (154; 11% instances), <tt><a href="ceb_gja-pos-DET.html">DET</a></tt> (8; 1% instances), <tt><a href="ceb_gja-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 ### `PRON`
@@ -51,7 +51,7 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 `NOUN` tokens may have the following values of `Number`:
 
 * `Plur` (1; 100% of non-empty `Number`): <em>kaislahan</em>
-* `EMPTY` (174): <em>libro, bata, balay, kwarta, tubig, amahan, bisita, iro, plano, sulat</em>
+* `EMPTY` (176): <em>libro, bata, balay, kwarta, tubig, amahan, bisita, iro, plano, sulat</em>
 
 ## Relations with Agreement in `Number`
 

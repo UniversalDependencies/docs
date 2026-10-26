@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>lebih</em> (<tt><a href="id_csui-pos-
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.045977 (the average of all parts of speech is 1.085880).
+The form / lemma ratio of `ADV` is 1.045977 (the average of all parts of speech is 1.085628).
 
 The 1st highest number of forms (2) was observed with the lemma “baru”: <em>baru, baru-baru</em>.
 
@@ -61,13 +61,13 @@ The 2nd highest number of forms (2) was observed with the lemma “lebih”: <em
 
 The 3rd highest number of forms (2) was observed with the lemma “mungkin”: <em>kemungkinan, mungkin</em>.
 
-`ADV` occurs with 1 features: <tt><a href="id_csui-feat-PronType.html">PronType</a></tt> (1; 0% instances)
+`ADV` occurs with 2 features: <tt><a href="id_csui-feat-ExtPos.html">ExtPos</a></tt> (26; 3% instances), <tt><a href="id_csui-feat-PronType.html">PronType</a></tt> (1; 0% instances)
 
-`ADV` occurs with 1 feature-value pairs: `PronType=Rel`
+`ADV` occurs with 2 feature-value pairs: `ExtPos=ADV`, `PronType=Rel`
 
-`ADV` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (770 tokens).
-Examples: <em>lebih, juga, masih, sekitar, Sementara, tetap, kembali, sebelumnya, hanya, sangat</em>
+`ADV` occurs with 3 feature combinations.
+The most frequent feature combination is `_` (744 tokens).
+Examples: <em>lebih, juga, masih, sekitar, tetap, kembali, sebelumnya, hanya, sangat, Sedangkan</em>
 
 
 ## Relations

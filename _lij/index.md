@@ -1,54 +1,47 @@
 ---
 layout: base
-title:  'Ligurian UD'
+title: 'Ligurian UD'
 udver: '2'
 ---
 
 # UD for Ligurian <span class="flagspan"><img class="flag" src="../../flags/svg/IT-LIG.svg" /></span>
 
-## Tokenization and Word Segmentation
+## Tokenisation and Word Segmentation
 
-* In general, words are delimited by whitespace.
-* Punctuation marks are treated as separate tokens, with few expections:
-  * Apostrophes indicate elision, and are attached to the neighbouring word that underwent elision. Most commonly, this occurs with determiners: _l’erboo_ = _l’ erboo_, _‘n’atra = ‘n’ atra_.
-  * Numerical expressions are treated as single words, e.g. _12:45_, _2.5%_.
-  * Abbreviations are treated as single words and may include punctuation, e.g. _ecc._, _s.r.l._
-* Multi-word tokens occur for the following two cases:
-  * Contractions of prepositions and definite articles: _inta_ = _inte a_, _in scê_ = _in sce e_, _pe-o_ = _pe o_, _do = de o_.
-  * Contractions of verbs with clitics: _veddilo_ = _vedde lo_, _dâghela_ = _dâ ghe la_, _aveine_ = _avei ne_.
+* Whitespace normally delimits tokens, and punctuation is separated from neighbouring words.
+* Ordinary apostrophe elisions are split, with the apostrophe kept on the elided form: _l’erbo_ “the tree” is _l’_ + _erbo_, and _unn’atra_ “another” is _unn’_ + _atra_. Abbreviations and lexical hyphenated compounds remain single tokens.
+* Multiword tokens are used for contractions of prepositions and definite articles: _inta_ = _inte_ + _a_ “in the”, _pe-o_ = _pe_ + _o_ “for the”, and _scê_ = _sce_ + _e_ “on the” (note that in _in scê_, the preceding _in_ is a separate word and only _scê_ is a multiword token).
+* Verbs with one or more enclitics are also multiword tokens: _fâlo_ = _fâ_ + _lo_ “to do it” and _anâsene_ = _anâ_ + _se_ + _ne_ “to go away”.
 
 ## Morphology
 
 ### Tags
 
-* Ligurian uses all 17 universal POS tags.
-* The only word tagged as [PART]() is the euphonic particle _l’_, used in the case of clitic doubling when the verb starts with a vowel: _a l’ammia_, _o l’existe_.
-* Ligurian auxiliary verbs, tagged [AUX](), are as follows:
-  * _Ëse_ and _stâ_, functioning as copulas: _stanni ben!_, _Zena a l'é unna çittæ_.
-  * _Stâ_ and _vegnî_, the passive auxiliaries: _i libbri en stæti traduti_, _a vegnià castigâ_.
-  * _Ëse_ and _avei_, the tense auxiliaries: _l’ò scrito_, _emmo cantou_.
-  * The modals _dovei_ (necessitative), _poei_ and _savei_ (potential), _voei_ (desiderative).
-* The tag [DET]() is used for articles (_un amigo_, _unn’amiga_, _i amixi_, _tutti i amixi_) as well as for adjectives playing the role of a determiner: demonstrative (_sto libbro_), exclamatives (_che mâ de pê!_), indefinites (_un atro pâ de maneghe_), interrogative (_che tipo de persoña a l’é?_), negatives (_nisciun aggiutto_), possessives (_mæ moæ_), total (_tutto o mondo_).
+* Common auxiliaries ([AUX]()) are _ëse_ “to be”, _avei_ “to have”, _dovei_ “must”, _poei_ “can”, _savei_ “to know”, and _voei_ “to want”. _Vegnî_ and _an(d)â_ are also `AUX` when they form part of a passive. Independent lexical uses of these verbs are [VERB]().
+* The euphonic _l’_ before a vowel-initial finite verb form is [PART](), as in _a l’ammia_ “she looks”. Article _l’_ is [DET](), while object-pronoun _l’_ is [PRON]().
+* [DET]() includes articles, demonstratives, possessives and quantifiers used with nouns. Ligurian partitive articles are single determiners rather than preposition-article multiword tokens; see the [DET]() for more details.
 
 ### Features
 
-* [NOUN]()s inflect for [Gender]() (`Masc` or `Fem`) and [Number]() (`Sing` or `Plur`).
-* [VERB]()s can inflect for [Mood](), [Tense](), [Person]() and [Gender]():
-  * Finite verbs always inflect for [Mood]() (`Ind`, `Imp`, `Sub` and `Cnd`).
-  * Verbs in the indicative and subjunctive moods, as well as participles, specify a value for [Tense]() (`Past`, `Imp`, `Pres`, `Fut`).
+* Nouns have [Gender]() (`Masc` or `Fem`) and [Number]() (`Sing` or `Plur`). Adjectives, articles, and many pronouns show the same agreement features.
+* Finite verbs bear `VerbForm=Fin`, [Mood](), [Person](), and [Number](). Indicative and subjunctive forms also bear [Tense](); conditionals (`Mood=Cnd`) and imperatives (`Mood=Imp`) do not.
+* Infinitives carry `Tense=Pres|VerbForm=Inf`; gerunds carry `Tense=Pres|VerbForm=Ger`; and verbal past participles carry `Tense=Past|VerbForm=Part`.
+* Positive degree is unmarked; see [Degree]() for the other values.
+* [Style]() marks expressive spellings (`Expr`) and vernacular forms (`Vrnc`).
 
 ## Syntax
 
-* Ligurian is an SVO language, meaning that subjects ([nsubj]()) are typically pre-verbal, while objects ([obj]()) are usually post-verbal.
-* Nominal subjects ([nsubj]()) and direct nominal objects ([obj]()) are bare noun phrases without adpositions.
-* The [iobj]() relation is only used for dative pronominal clitic complements: _o ghe dixe_, _o me piaxe_, etc. When the indirect object is realized as a prepositional phrase, it is labeled as [obl]().
-* The following subtype relations are used:
-  * [expl:pv](), for expletive or pleonastic nominals used in pronominal verb: _anâsene_, _ësighe_, etc.
-  * [expl:impers](), for impersonal verbs: _se capisce_, _se sente unna voxe_.
-  * [acl:relcl](), for relative clauses.
+Ligurian is pro-drop and has relatively flexible word order, although subjects commonly precede the predicate and objects follow it.
+
+* Nominal subjects ([nsubj]()) and direct objects ([obj]()) normally occur without an adposition. [iobj]() is reserved for dative clitics.
+* The agent of a passive takes [obl:agent](). Other prepositional arguments selected by a verb or adjective take [obl:arg]().
+* Subject-clitic doubling and other clitics with no separate syntactic role are described under [expl]() and its subtypes.
+* With copular _ëse_ “to be”, including in locative clauses, the predicate is the clause head and _ëse_ is [cop](). In existential constructions such as _gh’é_ “there is”, _ëse_ is the verbal head, the entity introduced is [nsubj](), and _ghe_ takes [expl]().
+
+### Relations Overview
+
+The following relation subtypes are used: [acl:relcl](), [advcl:relcl](), [aux:pass](), [csubj:pass](), [expl:impers](), [expl:pass](), [expl:pv](), [nsubj:outer](), [nsubj:pass](), [obl:agent](), and [obl:arg]().
 
 ## Treebanks
 
-There is [1](../treebanks/lij-comparison.html) Ligurian UD treebank:
-
-  * [Ligurian-GLT](../treebanks/lij_glt/index.html)
+* [Ligurian-GLT](../treebanks/lij_glt/index.html)

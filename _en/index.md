@@ -47,15 +47,18 @@ For more information, see the list of [English relations](dep/index.html).
 
 ## Treebanks
 
-There are [ten](../treebanks/en-comparison.html) active English UD treebanks:
+There are [thirteen](../treebanks/en-comparison.html) active English UD treebanks:
 
   * [English-Atis](../treebanks/en_atis/index.html)
+  * [English-CHILDES](../treebanks/en_childes/index.html)
+  * [English-CTeTex](../treebanks/en_ctetex/index.html)
   * [English-ESLSpok](../treebanks/en_eslspok/index.html)
   * [English-EWT](../treebanks/en_ewt/index.html)
   * [English-GENTLE](../treebanks/en_gentle/index.html)
   * [English-GUM](../treebanks/en_gum/index.html)
   * [English-GUMReddit](../treebanks/en_gumreddit/index.html)
   * [English-LinES](../treebanks/en_lines/index.html)
+  * [English-LittlePrince](../treebanks/en_littleprince/index.html)
   * [English-ParTUT](../treebanks/en_partut/index.html)
   * [English-Pronouns](../treebanks/en_pronouns/index.html)
   * [English-PUD](../treebanks/en_pud/index.html)

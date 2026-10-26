@@ -23,5 +23,5 @@ The most frequent other feature values with which `NOUN` and `Reflex` co-occurre
 `NOUN` tokens may have the following values of `Reflex`:
 
 * `Yes` (29; 100% of non-empty `Reflex`): <em>qibʼ, wibʼ, ribʼ, kibʼ, awibʼ, ibʼ, kʼibʼ</em>
-* `EMPTY` (2410): <em>e, rukʼ, ja, rumal, uwach, winaq, rech, achi, ali, ke</em>
+* `EMPTY` (2409): <em>e, rukʼ, ja, rumal, uwach, winaq, rech, achi, ali, ke</em>
 

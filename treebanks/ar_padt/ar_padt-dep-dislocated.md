@@ -69,13 +69,13 @@ The following 24 pairs of parts of speech are connected with `dislocated`: <tt><
 3	"	"	PUNCT	G---------	_	22	punct	22:punct	Vform="|Translit="
 4	ان	أَنَّ	SCONJ	C---------	_	22	mark	22:mark	Vform=أَنَّ|Gloss=that|Root=' n|Translit=ʾanna|LTranslit=ʾanna
 5	معرفة	مَعرِفَة	NOUN	N------S4R	Case=Acc|Definite=Cons|Number=Sing	22	dislocated	22:dislocated	Vform=مَعرِفَةَ|Gloss=knowledge,information,acquaintance,culture,education|Root=` r f|Translit=maʿrifata|LTranslit=maʿrifat
-6	ما	مَا	DET	S---------	_	5	det	5:det	Vform=مَا|Gloss=what,which|Root=mA|Translit=mā|LTranslit=mā
+6	ما	مَا	DET	S---------	PronType=Int	5	nmod	5:nmod	Vform=مَا|Gloss=what,which|Root=mA|Translit=mā|LTranslit=mā
 7	اذا	إِذَا	CCONJ	C---------	_	8	mark	8:mark	Vform=إِذَا|Gloss=if,whether|Root='i_d|Translit=ʾiḏā|LTranslit=ʾiḏā
-8	كان	كَان	VERB	VP-A-3MS--	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Voice=Act	5	acl	5:acl:إِذَا	Vform=كَانَ|Gloss=be,is,exist|Root=k w n|Translit=kāna|LTranslit=kān
+8	كان	كَان	VERB	VP-A-3MS--	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Voice=Act	6	acl	6:acl:إِذَا	Vform=كَانَ|Gloss=be,is,exist|Root=k w n|Translit=kāna|LTranslit=kān
 9	المستقبل	مُستَقبَل	NOUN	N------S1D	Case=Nom|Definite=Def|Number=Sing	8	nsubj	8:nsubj	Vform=اَلمُستَقبَلُ|Gloss=future|Root=q b l|Translit=al-mustaqbalu|LTranslit=mustaqbal
 10	أمام	أَمَامَ	ADP	PI------4-	AdpType=Prep|Case=Acc	11	case	11:case	Gloss=in_front_of,facing|LTranslit=ʾamāma|Root=' m m|Translit=ʾamāma|Vform=أَمَامَ
 11	نا	هُوَ	PRON	SP---1MP2-	Case=Gen|Gender=Masc|Number=Plur|Person=1|PronType=Prs	9	nmod	9:nmod:أَمَامَ:gen	Gloss=he,she,it|LTranslit=huwa|Translit=nā|Vform=نَا
-12	يتطلب	تَطَلَّب	VERB	VIIA-3MS--	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	8	xcomp	8:xcomp	Vform=يَتَطَلَّبُ|Gloss=require,demand|Root=.t l b|Translit=yataṭallabu|LTranslit=taṭallab
+12	يتطلب	تَطَلَّب	VERB	VIIA-3MS--	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	8	advcl:pred	8:advcl:pred	Vform=يَتَطَلَّبُ|Gloss=require,demand|Root=.t l b|Translit=yataṭallabu|LTranslit=taṭallab
 13	عاما	عَام	NOUN	N------S4I	Case=Acc|Definite=Ind|Number=Sing	12	obj	12:obj	Vform=عَامًا|Gloss=year|Root=` w m|Translit=ʿāman|LTranslit=ʿām
 14	او	أَو	CCONJ	C---------	_	15	cc	15:cc	Vform=أَو|Gloss=or|Root='aw|Translit=ʾaw|LTranslit=ʾaw
 15	عامين	عَام	NOUN	N------D4I	Case=Acc|Definite=Ind|Number=Dual	13	conj	12:obj|13:conj	Vform=عَامَينِ|Gloss=year|Root=` w m|Translit=ʿāmayni|LTranslit=ʿām

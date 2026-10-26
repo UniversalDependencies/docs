@@ -16,11 +16,11 @@ The feature is used with 1 part-of-speech tags: <tt><a href="ky_tuecl-pos-NOUN.h
 
 ### `NOUN`
 
-4 <tt><a href="ky_tuecl-pos-NOUN.html">NOUN</a></tt> tokens (2% of all `NOUN` tokens) have a non-empty value of `Definite`.
+4 <tt><a href="ky_tuecl-pos-NOUN.html">NOUN</a></tt> tokens (1% of all `NOUN` tokens) have a non-empty value of `Definite`.
 
 `NOUN` tokens may have the following values of `Definite`:
 
 * `Def` (3; 75% of non-empty `Definite`): <em>эшикти, үйдү, үйдүн</em>
 * `Ind` (1; 25% of non-empty `Definite`): <em>буюртма</em>
-* `EMPTY` (239): <em>үйдѳ, китеп, китепти, мектепке, бала, апасын, текчесинде, Мугалим, аракет, доктур</em>
+* `EMPTY` (290): <em>китеп, үйдө, китепти, мектепке, апасын, бала, текчесинде, Алма, Дениз, Мугалим</em>
 

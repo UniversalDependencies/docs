@@ -49,14 +49,20 @@ The 2nd highest number of forms (1) was observed with the lemma “αφού”: 
 
 The 3rd highest number of forms (1) was observed with the lemma “γιατί”: <em>γιατί</em>.
 
-`SCONJ` does not occur with any features.
+`SCONJ` occurs with 1 features: <tt><a href="el_gdt-feat-ExtPos.html">ExtPos</a></tt> (15; 1% instances)
+
+`SCONJ` occurs with 1 feature-value pairs: `ExtPos=SCONJ`
+
+`SCONJ` occurs with 2 feature combinations.
+The most frequent feature combination is `_` (1027 tokens).
+Examples: <em>ότι, ενώ, εάν, όταν, προκειμένου, αν, καθώς, ώστε, πως, διότι</em>
 
 
 ## Relations
 
 `SCONJ` nodes are attached to their parents using 2 different relations: <tt><a href="el_gdt-dep-mark.html">mark</a></tt> (1023; 98% instances), <tt><a href="el_gdt-dep-fixed.html">fixed</a></tt> (19; 2% instances)
 
-Parents of `SCONJ` nodes belong to 9 different parts of speech: <tt><a href="el_gdt-pos-VERB.html">VERB</a></tt> (881; 85% instances), <tt><a href="el_gdt-pos-ADJ.html">ADJ</a></tt> (82; 8% instances), <tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt> (44; 4% instances), <tt><a href="el_gdt-pos-ADV.html">ADV</a></tt> (21; 2% instances), <tt><a href="el_gdt-pos-NUM.html">NUM</a></tt> (4; 0% instances), <tt><a href="el_gdt-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="el_gdt-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="el_gdt-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="el_gdt-pos-X.html">X</a></tt> (1; 0% instances)
+Parents of `SCONJ` nodes belong to 9 different parts of speech: <tt><a href="el_gdt-pos-VERB.html">VERB</a></tt> (883; 85% instances), <tt><a href="el_gdt-pos-ADJ.html">ADJ</a></tt> (81; 8% instances), <tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt> (43; 4% instances), <tt><a href="el_gdt-pos-ADV.html">ADV</a></tt> (21; 2% instances), <tt><a href="el_gdt-pos-NUM.html">NUM</a></tt> (4; 0% instances), <tt><a href="el_gdt-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="el_gdt-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="el_gdt-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="el_gdt-pos-X.html">X</a></tt> (1; 0% instances)
 
 1027 (99%) `SCONJ` nodes are leaves.
 

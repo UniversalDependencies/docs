@@ -11,7 +11,7 @@ This relation is universal.
 982 nodes (1%) are attached to their parents as `vocative`.
 
 800 instances of `vocative` (81%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.68533604887984.
+Average distance between parent and child is 4.68635437881874.
 
 The following 24 pairs of parts of speech are connected with `vocative`: <tt><a href="pt_dantestocks-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_dantestocks-pos-PROPN.html">PROPN</a></tt> (543; 55% instances), <tt><a href="pt_dantestocks-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_dantestocks-pos-PROPN.html">PROPN</a></tt> (189; 19% instances), <tt><a href="pt_dantestocks-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_dantestocks-pos-NOUN.html">NOUN</a></tt> (50; 5% instances), <tt><a href="pt_dantestocks-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pt_dantestocks-pos-PROPN.html">PROPN</a></tt> (49; 5% instances), <tt><a href="pt_dantestocks-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_dantestocks-pos-PROPN.html">PROPN</a></tt> (45; 5% instances), <tt><a href="pt_dantestocks-pos-ADV.html">ADV</a></tt>-<tt><a href="pt_dantestocks-pos-PROPN.html">PROPN</a></tt> (25; 3% instances), <tt><a href="pt_dantestocks-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_dantestocks-pos-NOUN.html">NOUN</a></tt> (18; 2% instances), <tt><a href="pt_dantestocks-pos-PRON.html">PRON</a></tt>-<tt><a href="pt_dantestocks-pos-PROPN.html">PROPN</a></tt> (15; 2% instances), <tt><a href="pt_dantestocks-pos-SYM.html">SYM</a></tt>-<tt><a href="pt_dantestocks-pos-PROPN.html">PROPN</a></tt> (8; 1% instances), <tt><a href="pt_dantestocks-pos-X.html">X</a></tt>-<tt><a href="pt_dantestocks-pos-PROPN.html">PROPN</a></tt> (8; 1% instances), <tt><a href="pt_dantestocks-pos-INTJ.html">INTJ</a></tt>-<tt><a href="pt_dantestocks-pos-PROPN.html">PROPN</a></tt> (7; 1% instances), <tt><a href="pt_dantestocks-pos-ADV.html">ADV</a></tt>-<tt><a href="pt_dantestocks-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="pt_dantestocks-pos-INTJ.html">INTJ</a></tt>-<tt><a href="pt_dantestocks-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="pt_dantestocks-pos-NUM.html">NUM</a></tt>-<tt><a href="pt_dantestocks-pos-PROPN.html">PROPN</a></tt> (4; 0% instances), <tt><a href="pt_dantestocks-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pt_dantestocks-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="pt_dantestocks-pos-AUX.html">AUX</a></tt>-<tt><a href="pt_dantestocks-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="pt_dantestocks-pos-X.html">X</a></tt>-<tt><a href="pt_dantestocks-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="pt_dantestocks-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pt_dantestocks-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="pt_dantestocks-pos-ADV.html">ADV</a></tt>-<tt><a href="pt_dantestocks-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="pt_dantestocks-pos-AUX.html">AUX</a></tt>-<tt><a href="pt_dantestocks-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="pt_dantestocks-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_dantestocks-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="pt_dantestocks-pos-NUM.html">NUM</a></tt>-<tt><a href="pt_dantestocks-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="pt_dantestocks-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_dantestocks-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="pt_dantestocks-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_dantestocks-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
 
@@ -35,7 +35,7 @@ The following 24 pairs of parts of speech are connected with `vocative`: <tt><a 
 11	'	'	PUNCT	_	_	12	punct	_	SpaceAfter=No
 12	Take	Take	PROPN	_	_	10	obj	_	_
 13	Off	Off	PROPN	_	_	12	flat:name	_	SpaceAfter=No
-14	'	'	PUNCT	_	_	12	punct	_	SpaceAfter=No
+14	'	'	PUNCT	_	_	12	punct	_	_
 
 ~~~
 
@@ -51,7 +51,7 @@ The following 24 pairs of parts of speech are connected with `vocative`: <tt><a 
 3	,	,	PUNCT	_	_	2	punct	_	_
 4	alguma	algum	DET	_	Gender=Fem|Number=Sing|PronType=Ind	5	det	_	_
 5	sugestão	sugestão	NOUN	_	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
-6	?	?	PUNCT	_	_	5	punct	_	SpaceAfter=No
+6	?	?	PUNCT	_	_	5	punct	_	_
 
 ~~~
 
@@ -65,7 +65,7 @@ The following 24 pairs of parts of speech are connected with `vocative`: <tt><a 
 1	Soprem	soprar	VERB	_	Mood=Imp|Number=Plur|Person=3|VerbForm=Fin	0	root	_	_
 2	sopradores	soprador	NOUN	_	Gender=Masc|Number=Plur	1	vocative	_	_
 3	#usim5	#usim5	PROPN	_	_	1	parataxis	_	_
-4	rsrrs	rsrrs	X	_	_	1	discourse	_	SpaceAfter=No
+4	rsrrs	rsrrs	X	_	_	1	discourse	_	_
 
 ~~~
 

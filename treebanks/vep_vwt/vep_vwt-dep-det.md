@@ -28,7 +28,7 @@ The following 2 pairs of parts of speech are connected with `det`: <tt><a href="
 4	muštan	muštta	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 5	,	,	PUNCT	_	_	11	punct	_	_
 6	miše	miše	SCONJ	_	_	11	mark	_	_
-7	meiden	mö	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	8	nmod	_	_
+7	meiden	minä	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	8	nmod	_	_
 8	kanzas	kanz	NOUN	_	Case=Ine|Number=Sing	11	obl	_	_
 9	kaiken	kaik	PRON	_	Case=Gen|Number=Sing|PronType=Tot	10	det	_	_
 10	aigan	aig	NOUN	_	Case=Gen|Number=Sing	11	obl	_	_
@@ -48,13 +48,13 @@ The following 2 pairs of parts of speech are connected with `det`: <tt><a href="
 # visual-style 14 13 det	color:blue
 1	Sigä	sigä	ADV	_	_	2	advmod	_	_
 2	seižub	seišta	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-3	meiden	mö	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	4	nmod	_	_
+3	meiden	minä	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	4	nmod	_	_
 4	kanzan	kanz	NOUN	_	Case=Gen|Number=Sing	5	nmod	_	_
-5	pert'	pert'	NOUN	_	Case=Nom|Number=Sing	2	nsubj	_	_
+5	pertʼ	pertʼ	NOUN	_	Case=Nom|Number=Sing	2	nsubj	_	_
 6	,	,	PUNCT	_	_	12	punct	_	_
 7	necen	nece	PRON	_	Case=Gen|Number=Sing|PronType=Dem	8	nmod	_	_
 8	sijan	sija	NOUN	_	Case=Gen|Number=Sing	12	obl	_	_
-9	polhe	pol'	ADP	_	AdpType=Post	8	case	_	_
+9	polhe	polʼ	ADP	_	AdpType=Post	8	case	_	_
 10	minun	minä	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	11	nmod	_	_
 11	südäimes	südäin	NOUN	_	Case=Ine|Number=Sing	12	obl	_	_
 12	eläba	eläda	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	_

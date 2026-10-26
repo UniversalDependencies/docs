@@ -32,7 +32,7 @@ The following 15 pairs of parts of speech are connected with `case`: <tt><a href
 8	nocao	noção	NOUN	_	Gender=Fem|Number=Sing|Typo=Yes	6	obl	_	CorrectForm=noção
 9	de	de	ADP	_	_	10	case	_	_
 10	fundo	fundo	NOUN	_	Gender=Masc|Number=Sing	8	nmod	_	SpaceAfter=No
-11	...	...	PUNCT	_	_	3	punct	_	SpaceAfter=No
+11	...	...	PUNCT	_	_	3	punct	_	_
 
 ~~~
 
@@ -50,7 +50,7 @@ The following 15 pairs of parts of speech are connected with `case`: <tt><a href
 5	em	em	ADP	_	_	7	case	_	_
 6	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
 7	PETR4	PETR4	PROPN	_	_	4	nmod	_	SpaceAfter=No
-8	?	?	PUNCT	_	_	4	punct	_	SpaceAfter=No
+8	?	?	PUNCT	_	_	4	punct	_	_
 
 ~~~
 
@@ -74,7 +74,7 @@ The following 15 pairs of parts of speech are connected with `case`: <tt><a href
 11	R$	R$	SYM	_	_	8	nmod	_	SpaceAfter=No
 12	13	13	NUM	_	NumType=Card	11	nummod	_	_
 13	?	?	PUNCT	_	_	2	punct	_	_
-14	=)	=)	SYM	_	_	2	discourse	_	SpaceAfter=No
+14	=)	=)	SYM	_	_	2	discourse	_	_
 
 ~~~
 

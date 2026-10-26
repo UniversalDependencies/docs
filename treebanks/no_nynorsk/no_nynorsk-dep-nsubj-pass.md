@@ -26,7 +26,7 @@ The following 7 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 1	Denne	denne	DET	det	Gender=Masc|PronType=Dem	2	det	_	_
 2	skatten	skatt	NOUN	subst	Gender=Masc	4	nsubj:pass	_	_
 3	vert	verte	AUX	verb	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux:pass	_	_
-4	lagd	leggje	ADJ	adj	Definite=Ind|Gender=Fem,Masc|VerbForm=Part	0	root	_	_
+4	lagd	leggje	ADJ	adj	Definite=Ind|Gender=Com|VerbForm=Part	0	root	_	_
 5	på	på	ADP	prep	_	6	case	_	_
 6	kraftrekninga	kraftrekning	NOUN	subst	Gender=Fem	4	obl	_	SpaceAfter=No
 7	.	$.	PUNCT	clb	_	4	punct	_	_
@@ -49,7 +49,7 @@ The following 7 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 7	og	og	CCONJ	konj	_	10	cc	_	_
 8	den	den	PRON	pron	Gender=Fem,Masc|Person=3|PronType=Prs	10	nsubj:pass	_	_
 9	vert	verte	AUX	verb	Mood=Ind|Tense=Pres|VerbForm=Fin	10	aux:pass	_	_
-10	brukt	bruke	ADJ	adj	Definite=Ind|Gender=Fem,Masc|VerbForm=Part	4	conj	_	_
+10	brukt	bruke	ADJ	adj	Definite=Ind|Gender=Com|VerbForm=Part	4	conj	_	_
 11	rett	rett	ADJ	adj	Definite=Ind|Degree=Pos|Gender=Neut	10	advmod	_	_
 12	som	som	SCONJ	sbu	_	14	mark	_	_
 13	det	det	PRON	pron	Gender=Neut|Person=3|PronType=Prs	14	expl	_	_
@@ -65,7 +65,7 @@ The following 7 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 7 nsubj:pass	color:blue
-1	Sist	sist	ADJ	adj	Definite=Ind|Degree=Pos|Gender=Fem,Masc	2	amod	_	_
+1	Sist	sist	ADJ	adj	Definite=Ind|Degree=Pos|Gender=Com	2	amod	_	_
 2	gong	gong	NOUN	subst	Definite=Ind|Gender=Masc	5	nsubj	_	_
 3	var	vere	AUX	verb	Mood=Ind|Tense=Past|VerbForm=Fin	5	cop	_	_
 4	i	i	ADP	prep	_	5	case	_	_

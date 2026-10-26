@@ -22,9 +22,9 @@ The most frequent other feature values with which `VERB` and `Voice` co-occurred
 
 `VERB` tokens may have the following values of `Voice`:
 
-* `Act` (122; 94% of non-empty `Voice`): <em>eläba, radoin, ajoin, seižub, abutab, el'genzin, meletan, muštan, pätin, radmaha</em>
+* `Act` (122; 94% of non-empty `Voice`): <em>eläba, radoin, ajoin, seižub, abutab, elʼgenzin, meletan, muštan, pätin, radmaha</em>
 * `Pass` (8; 6% of non-empty `Voice`): <em>Pagištihe-ik, nittas, omištadud, pagištihe, pandas, pidätas, tehtud, valitihe</em>
-* `EMPTY` (53): <em>tehta, eläda, el'geta, Išttes, kaita, pagišta, panda, rata, vajehtada, vastatas</em>
+* `EMPTY` (53): <em>tehta, eläda, elʼgeta, Išttes, kaita, pagišta, panda, rata, vajehtada, vastatas</em>
 
 <table>
   <tr><th>Paradigm <i>tehta</i></th><th><tt>Act</tt></th><th><tt>Pass</tt></th></tr>

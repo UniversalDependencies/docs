@@ -23,10 +23,10 @@ The following 2 pairs of parts of speech are connected with `amod`: <tt><a href=
 # visual-style 5	fgColor:white
 # visual-style 5 4 amod	color:blue
 1	Pagištihe-ik	pagišta	VERB	_	Clitic=Ik|Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
-2	Teiden	tö	PRON	_	Case=Gen|Number=Plur|Person=2|PronType=Prs	3	nmod	_	_
+2	Teiden	sinä	PRON	_	Case=Gen|Number=Plur|Person=2|PronType=Prs	3	nmod	_	_
 3	kanzas	kanz	NOUN	_	Case=Ine|Number=Sing	1	obl	_	_
 4	vepsän	vepsän	ADJ	_	Case=Gen|Number=Sing	5	amod	_	_
-5	kelel	kel'	NOUN	_	Case=Ade|Number=Sing	1	obl	_	_
+5	kelel	kelʼ	NOUN	_	Case=Ade|Number=Sing	1	obl	_	_
 6	?	?	PUNCT	_	_	1	punct	_	_
 
 ~~~

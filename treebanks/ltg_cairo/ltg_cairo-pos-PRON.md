@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Latgalian-Cairo: POS Tags: `PRON`
 
 There are 7 `PRON` lemmas (6%), 12 `PRON` types (10%) and 19 `PRON` tokens (11%).
-Out of 12 observed tags, the rank of `PRON` is: 6 in number of lemmas, 3 in number of types and 4 in number of tokens.
+Out of 13 observed tags, the rank of `PRON` is: 6 in number of lemmas, 3 in number of types and 4 in number of tokens.
 
 The 10 most frequent `PRON` lemmas: <em>jis, tu, es, jei, tys, jī, kas</em>
 

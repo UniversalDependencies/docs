@@ -13,7 +13,7 @@ This relation is a language-specific subtype of <tt><a href="nl_alpino-dep-nmod.
 1653 instances of `nmod:poss` (100%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.32304900181488.
 
-The following 14 pairs of parts of speech are connected with `nmod:poss`: <tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_alpino-pos-PRON.html">PRON</a></tt> (1498; 91% instances), <tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_alpino-pos-PROPN.html">PROPN</a></tt> (93; 6% instances), <tt><a href="nl_alpino-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nl_alpino-pos-PRON.html">PRON</a></tt> (14; 1% instances), <tt><a href="nl_alpino-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nl_alpino-pos-PRON.html">PRON</a></tt> (13; 1% instances), <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_alpino-pos-PRON.html">PRON</a></tt> (8; 0% instances), <tt><a href="nl_alpino-pos-NUM.html">NUM</a></tt>-<tt><a href="nl_alpino-pos-PRON.html">PRON</a></tt> (7; 0% instances), <tt><a href="nl_alpino-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nl_alpino-pos-PROPN.html">PROPN</a></tt> (5; 0% instances), <tt><a href="nl_alpino-pos-X.html">X</a></tt>-<tt><a href="nl_alpino-pos-PRON.html">PRON</a></tt> (5; 0% instances), <tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="nl_alpino-pos-PRON.html">PRON</a></tt>-<tt><a href="nl_alpino-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="nl_alpino-pos-X.html">X</a></tt>-<tt><a href="nl_alpino-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="nl_alpino-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nl_alpino-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="nl_alpino-pos-ADV.html">ADV</a></tt>-<tt><a href="nl_alpino-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_alpino-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+The following 13 pairs of parts of speech are connected with `nmod:poss`: <tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_alpino-pos-PRON.html">PRON</a></tt> (1499; 91% instances), <tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_alpino-pos-PROPN.html">PROPN</a></tt> (93; 6% instances), <tt><a href="nl_alpino-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nl_alpino-pos-PRON.html">PRON</a></tt> (14; 1% instances), <tt><a href="nl_alpino-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nl_alpino-pos-PRON.html">PRON</a></tt> (13; 1% instances), <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_alpino-pos-PRON.html">PRON</a></tt> (8; 0% instances), <tt><a href="nl_alpino-pos-NUM.html">NUM</a></tt>-<tt><a href="nl_alpino-pos-PRON.html">PRON</a></tt> (7; 0% instances), <tt><a href="nl_alpino-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nl_alpino-pos-PROPN.html">PROPN</a></tt> (5; 0% instances), <tt><a href="nl_alpino-pos-X.html">X</a></tt>-<tt><a href="nl_alpino-pos-PRON.html">PRON</a></tt> (5; 0% instances), <tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="nl_alpino-pos-PRON.html">PRON</a></tt>-<tt><a href="nl_alpino-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="nl_alpino-pos-X.html">X</a></tt>-<tt><a href="nl_alpino-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="nl_alpino-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nl_alpino-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_alpino-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -25,7 +25,7 @@ The following 14 pairs of parts of speech are connected with `nmod:poss`: <tt><a
 1	,,	,,	PUNCT	LET	_	7	punct	7:punct	SpaceAfter=No
 2	Mijn	mijn	PRON	VNW|bez|det|stan|vol|1|ev|prenom|zonder|agr	Person=1|Poss=Yes|PronType=Prs	3	nmod:poss	3:nmod:poss	_
 3	basisniveau	basis_niveau	NOUN	N|soort|ev|basis|onz|stan	Gender=Neut|Number=Sing	7	nsubj	7:nsubj	_
-4	is	zijn	AUX	WW|pv|tgw|ev	Number=Sing|Tense=Pres|VerbForm=Fin	7	aux	7:aux	_
+4	is	zijn	AUX	WW|pv|tgw|ev	Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin	7	aux	7:aux	_
 5	flink	flink	ADJ	ADJ|vrij|basis|zonder	Degree=Pos	7	advmod	7:advmod	_
 6	omhoog	omhoog	ADV	BW	_	7	advmod	7:advmod	_
 7	gegaan	gaan	VERB	WW|vd|vrij|zonder	VerbForm=Part	0	root	0:root	SpaceAfter=No
@@ -62,13 +62,13 @@ The following 14 pairs of parts of speech are connected with `nmod:poss`: <tt><a
 # visual-style 10	fgColor:white
 # visual-style 10 9 nmod:poss	color:blue
 1	Niemand	niemand	PRON	VNW|onbep|pron|stan|vol|3p|ev	Person=3|PronType=Ind	2	nsubj	2:nsubj	_
-2	valt	vallen	VERB	WW|pv|tgw|met-t	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+2	valt	vallen	VERB	WW|pv|tgw|met-t	Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 3	iets	iets	PRON	VNW|onbep|pron|stan|vol|3o|ev	Person=3|PronType=Ind	5	obl	5:obl	_
 4	te	te	ADP	VZ|init	_	5	mark	5:mark	_
 5	verwijten	verwijten	VERB	WW|inf|vrij|zonder	VerbForm=Inf	2	ccomp	2:ccomp	SpaceAfter=No
 6	,	,	PUNCT	LET	_	11	punct	11:punct	_
 7	iedereen	iedereen	PRON	VNW|onbep|pron|stan|vol|3p|ev	Person=3|PronType=Ind	11	nsubj	11:nsubj	_
-8	heeft	hebben	AUX	WW|pv|tgw|met-t	Number=Sing|Tense=Pres|VerbForm=Fin	11	aux	11:aux	_
+8	heeft	hebben	AUX	WW|pv|tgw|met-t	Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin	11	aux	11:aux	_
 9	zijn	zijn	PRON	VNW|bez|det|stan|vol|3|ev|prenom|zonder|agr	Person=3|Poss=Yes|PronType=Prs	10	nmod:poss	10:nmod:poss	_
 10	best	goed	ADJ	ADJ|nom|sup|zonder|zonder-n	Degree=Sup	11	obj	11:obj	_
 11	gedaan	doen	VERB	WW|vd|vrij|zonder	VerbForm=Part	2	parataxis	2:parataxis	SpaceAfter=No

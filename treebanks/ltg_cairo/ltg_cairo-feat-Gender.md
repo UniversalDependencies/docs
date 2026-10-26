@@ -12,7 +12,7 @@ It occurs with 2 different values: `Fem`, `Masc`.
 66 tokens (39%) have a non-empty value of `Gender`.
 59 types (50%) occur at least once with a non-empty value of `Gender`.
 50 lemmas (46%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 6 part-of-speech tags: <tt><a href="ltg_cairo-pos-NOUN.html">NOUN</a></tt> (27; 16% instances), <tt><a href="ltg_cairo-pos-PROPN.html">PROPN</a></tt> (14; 8% instances), <tt><a href="ltg_cairo-pos-PRON.html">PRON</a></tt> (12; 7% instances), <tt><a href="ltg_cairo-pos-DET.html">DET</a></tt> (7; 4% instances), <tt><a href="ltg_cairo-pos-ADJ.html">ADJ</a></tt> (5; 3% instances), <tt><a href="ltg_cairo-pos-VERB.html">VERB</a></tt> (1; 1% instances).
+The feature is used with 6 part-of-speech tags: <tt><a href="ltg_cairo-pos-NOUN.html">NOUN</a></tt> (27; 16% instances), <tt><a href="ltg_cairo-pos-PROPN.html">PROPN</a></tt> (14; 8% instances), <tt><a href="ltg_cairo-pos-PRON.html">PRON</a></tt> (12; 7% instances), <tt><a href="ltg_cairo-pos-DET.html">DET</a></tt> (8; 5% instances), <tt><a href="ltg_cairo-pos-ADJ.html">ADJ</a></tt> (4; 2% instances), <tt><a href="ltg_cairo-pos-VERB.html">VERB</a></tt> (1; 1% instances).
 
 ### `NOUN`
 
@@ -61,25 +61,25 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 
 ### `DET`
 
-7 <tt><a href="ltg_cairo-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Gender`.
+8 <tt><a href="ltg_cairo-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="ltg_cairo-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7; 100%), <tt><a href="ltg_cairo-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (5; 71%), <tt><a href="ltg_cairo-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (4; 57%).
+The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="ltg_cairo-feat-Number.html">Number</a></tt><tt>=Sing</tt> (8; 100%), <tt><a href="ltg_cairo-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (7; 88%), <tt><a href="ltg_cairo-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (7; 88%), <tt><a href="ltg_cairo-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (5; 63%).
 
 `DET` tokens may have the following values of `Gender`:
 
-* `Fem` (3; 43% of non-empty `Gender`): <em>Itei, sovai, tamā</em>
-* `Masc` (4; 57% of non-empty `Gender`): <em>Muns, kaida, kurs, sovam</em>
+* `Fem` (3; 38% of non-empty `Gender`): <em>Itei, sovai, tamā</em>
+* `Masc` (5; 63% of non-empty `Gender`): <em>Muns, kaida, kurs, sovam, tovejais</em>
 
 ### `ADJ`
 
-5 <tt><a href="ltg_cairo-pos-ADJ.html">ADJ</a></tt> tokens (100% of all `ADJ` tokens) have a non-empty value of `Gender`.
+4 <tt><a href="ltg_cairo-pos-ADJ.html">ADJ</a></tt> tokens (100% of all `ADJ` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="ltg_cairo-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5; 100%), <tt><a href="ltg_cairo-feat-Case.html">Case</a></tt><tt>=Nom</tt> (4; 80%), <tt><a href="ltg_cairo-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (4; 80%), <tt><a href="ltg_cairo-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (4; 80%).
+The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="ltg_cairo-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (4; 100%), <tt><a href="ltg_cairo-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4; 100%), <tt><a href="ltg_cairo-feat-Case.html">Case</a></tt><tt>=Nom</tt> (3; 75%), <tt><a href="ltg_cairo-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (3; 75%).
 
 `ADJ` tokens may have the following values of `Gender`:
 
-* `Fem` (3; 60% of non-empty `Gender`): <em>lela, moza, sorkonā</em>
-* `Masc` (2; 40% of non-empty `Gender`): <em>foršuoks, tovejais</em>
+* `Fem` (3; 75% of non-empty `Gender`): <em>lela, moza, sorkonā</em>
+* `Masc` (1; 25% of non-empty `Gender`): <em>foršuoks</em>
 
 ### `VERB`
 
@@ -90,7 +90,7 @@ The most frequent other feature values with which `VERB` and `Gender` co-occurre
 `VERB` tokens may have the following values of `Gender`:
 
 * `Fem` (1; 100% of non-empty `Gender`): <em>pīguoduota</em>
-* `EMPTY` (34): <em>ir, pīraksteja, Navarēja, apgrīzt, apsaskuove, atmest, attaisi, atīt, ceņtēs, dabuoja</em>
+* `EMPTY` (31): <em>pīraksteja, Navarēja, apgrīzt, apsaskuove, atmest, attaisi, atīt, ceņtēs, dabuoja, dūmoj</em>
 
 ## Relations with Agreement in `Gender`
 
@@ -99,9 +99,10 @@ The 10 most frequent relations where parent and child node agree in `Gender`:
 <tt>NOUN --[<tt><a href="ltg_cairo-dep-amod.html">amod</a></tt>]--> ADJ</tt> (2; 100%),
 <tt>NOUN --[<tt><a href="ltg_cairo-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (2; 100%),
 <tt>PROPN --[<tt><a href="ltg_cairo-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (2; 100%),
+<tt>ADJ --[<tt><a href="ltg_cairo-dep-advcl.html">advcl</a></tt>]--> DET</tt> (1; 100%),
 <tt>ADJ --[<tt><a href="ltg_cairo-dep-conj.html">conj</a></tt>]--> ADJ</tt> (1; 100%),
+<tt>ADJ --[<tt><a href="ltg_cairo-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (1; 100%),
 <tt>NOUN --[<tt><a href="ltg_cairo-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1; 100%),
 <tt>NOUN --[<tt><a href="ltg_cairo-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (1; 100%),
-<tt>NOUN --[<tt><a href="ltg_cairo-dep-orphan.html">orphan</a></tt>]--> NOUN</tt> (1; 100%),
-<tt>PROPN --[<tt><a href="ltg_cairo-dep-appos.html">appos</a></tt>]--> NOUN</tt> (1; 100%).
+<tt>NOUN --[<tt><a href="ltg_cairo-dep-orphan.html">orphan</a></tt>]--> NOUN</tt> (1; 100%).
 

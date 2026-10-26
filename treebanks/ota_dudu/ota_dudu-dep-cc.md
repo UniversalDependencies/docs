@@ -9,32 +9,26 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `cc`: <tt><a href="ota_dudu-dep-cc-preconj.html">cc:preconj</a></tt>.
 
-27 nodes (3%) are attached to their parents as `cc`.
+1347 nodes (6%) are attached to their parents as `cc`.
 
-27 instances of `cc` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.
+1331 instances of `cc` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.08463251670379.
 
-The following 4 pairs of parts of speech are connected with `cc`: <tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ota_dudu-pos-CCONJ.html">CCONJ</a></tt> (18; 67% instances), <tt><a href="ota_dudu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ota_dudu-pos-CCONJ.html">CCONJ</a></tt> (4; 15% instances), <tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt>-<tt><a href="ota_dudu-pos-CCONJ.html">CCONJ</a></tt> (4; 15% instances), <tt><a href="ota_dudu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ota_dudu-pos-CCONJ.html">CCONJ</a></tt> (1; 4% instances).
+The following 12 pairs of parts of speech are connected with `cc`: <tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ota_dudu-pos-CCONJ.html">CCONJ</a></tt> (707; 52% instances), <tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt>-<tt><a href="ota_dudu-pos-CCONJ.html">CCONJ</a></tt> (412; 31% instances), <tt><a href="ota_dudu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ota_dudu-pos-CCONJ.html">CCONJ</a></tt> (91; 7% instances), <tt><a href="ota_dudu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ota_dudu-pos-CCONJ.html">CCONJ</a></tt> (87; 6% instances), <tt><a href="ota_dudu-pos-ADV.html">ADV</a></tt>-<tt><a href="ota_dudu-pos-CCONJ.html">CCONJ</a></tt> (34; 3% instances), <tt><a href="ota_dudu-pos-PRON.html">PRON</a></tt>-<tt><a href="ota_dudu-pos-CCONJ.html">CCONJ</a></tt> (6; 0% instances), <tt><a href="ota_dudu-pos-NUM.html">NUM</a></tt>-<tt><a href="ota_dudu-pos-CCONJ.html">CCONJ</a></tt> (4; 0% instances), <tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt>-<tt><a href="ota_dudu-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="ota_dudu-pos-AUX.html">AUX</a></tt>-<tt><a href="ota_dudu-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="ota_dudu-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ota_dudu-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ota_dudu-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt>-<tt><a href="ota_dudu-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 11 10 cc	color:blue
-1	‘ışḳ	‘ışḳ	NOUN	_	Case=Nom|Number=Sing|Person=3	5	nsubj	_	_
-2	ma‘rifet	ma‘rifet	NOUN	_	Case=Nom|Number=Sing|Person=3	3	nmod:poss	_	_
-3	deñizinden	deñiz	NOUN	_	Case=Abl|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	5	obl	_	_
-4	bir	bir	DET	Indef	_	5	det	_	_
-5	gevher	gevher	NOUN	_	Case=Nom|Number=Sing|Person=3	12	advcl	_	_
-6	dür	i	AUX	Zero	Aspect=Perf|Number=Sing|Person=3|Tense=Pres	5	cop	_	_
-7	ki	ki	SCONJ	_	_	12	mark	_	_
-8	dile	dil	NOUN	_	Case=Dat|Number=Sing|Person=3	12	obl	_	_
-9	şevḳ	şevḳ	NOUN	_	Case=Nom|Number=Sing|Person=3	12	obj	_	_
-10	ü	ü	CCONJ	_	_	11	cc	_	_
-11	żiyāʾ	żiyāʾ	NOUN	_	Case=Nom|Number=Sing|Person=3	9	conj	_	_
-12	virür	ver	VERB	_	Aspect=Hab|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 3 cc	color:blue
+1	evḳātını	vaḳt	NOUN	_	Case=Acc|Gender=Fem|Number=Plur|Number[psor]=Sing|Person=3|Person[psor]=3	5	obj	_	_
+2	ʿilm	ʿilm	NOUN	_	Case=Nom|Number=Sing|Person=3	5	obl	_	_
+3	ü	ve	CCONJ	_	_	4	cc	_	_
+4	ibādete	ibādet	NOUN	_	Case=Dat|Gender=Fem|Number=Sing|Person=3	2	conj	_	_
+5	müşteġil	müşteġil	ADJ	Adj	_	0	root	_	_
+6	idi	y	AUX	Overt	Aspect=Perf|Evident=Fh|Number=Sing|Person=3|Polarity=Pos|Tense=Past	5	cop	_	_
 
 ~~~
 
@@ -42,34 +36,35 @@ The following 4 pairs of parts of speech are connected with `cc`: <tt><a href="o
 ~~~ conllu
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 1 cc	color:blue
-1	ammâ	ammâ	CCONJ	Conj	_	5	cc	_	_
-2	cinn	cinn	NOUN	Noun	Case=Nom|Number=Sing|Person=3	5	nsubj	_	_
-3	ile	ile	CCONJ	Conj	_	4	cc	_	_
-4	min	min	NOUN	Noun	Case=Nom|Number=Sing|Person=3	2	conj	_	_
-5	vech	vech	ADJ	Adj	_	0	root	_	_
-6	dür	i	AUX	Zero	Aspect=Perf|Number=Sing|Person=3|Tense=Pres	5	cop	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 1 cc	color:blue
+1	ve	ve	CCONJ	_	_	3	cc	_	_
+2	daḫı	daḫı	CCONJ	_	_	3	cc	_	_
+3	bilgil	bilgil	VERB	_	Mood=Imp|Number=Sing|Person=2|Polarity=Pos|VerbForm=Fin	0	root	_	_
+4	kim	kim	SCONJ	_	_	8	mark	_	_
+5	bu	bu	DET	Demons	Definite=Def|PronType=Art	6	det	_	_
+6	ḳıṣṣadan	ḳıṣṣa	NOUN	_	Case=Abl|Number=Sing|Person=3	8	obl	_	_
+7	ʿacāyibraḳ	ʿacāyibraḳ	NOUN	_	Case=Nom|Number=Sing|Person=3	8	obj	_	_
+8	eşitgil	eşit	VERB	_	Mood=Imp|Number=Sing|Person=2|Polarity=Pos|VerbForm=Fin	3	ccomp	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 1 cc	color:blue
-1	zîrâ	zîrâ	CCONJ	_	_	9	cc	_	_
-2	ḥaḳîḳatde	ḥaḳîḳat	NOUN	_	Case=Loc|Number=Sing|Person=3	5	obl	_	_
-3	bir	bir	DET	Indef	_	4	det	_	_
-4	şeyʾi	şeyʾ	NOUN	_	Case=Acc|Number=Sing|Person=3	5	obj	_	_
-5	idrâk	idrâk	NOUN	_	Case=Nom|Number=Sing|Person=3	9	nsubj	_	_
-6	itmek	et	VERB	Vnoun	Case=Nom|Number=Sing|Person=3|Polarity=Pos	5	compound:lvc	_	_
-7	ol	ol	DET	Demons	_	8	det	_	_
-8	şeyʾe	şeyʾ	NOUN	_	Case=Dat|Number=Sing|Person=3	9	obl	_	_
-9	yetişmekdür	yetiş	VERB	Vnoun	Case=Nom|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	0	root	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 3 cc	color:blue
+1	baʿdehū	baʿdehū	ADV	_	_	7	advmod	_	_
+2	amāsiyye	amāsiyye	PROPN	Place	Case=Nom|Gender=Fem|NameType=Geo|Number=Sing|Person=3	7	nsubj	_	_
+3	ve	ve	CCONJ	_	_	4	cc	_	_
+4	sivas	sivas	PROPN	Place	Case=Nom|NameType=Geo|Number=Sing|Person=3	2	conj	_	_
+5	ve	ve	CCONJ	_	_	6	cc	_	_
+6	toḳat	toḳat	PROPN	Place	Case=Nom|NameType=Geo|Number=Sing|Person=3	2	conj	_	_
+7	żabṭ	żabṭ	NOUN	_	Case=Nom|Number=Sing|Person=3	0	root	_	_
+8	olındı	ol	VERB	_	Aspect=Perf|Evident=Fh|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Pass	7	compound:lvc	_	_
 
 ~~~
 

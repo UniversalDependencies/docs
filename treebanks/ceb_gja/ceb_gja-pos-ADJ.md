@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Cebuano-GJA: POS Tags: `ADJ`
 
-There are 29 `ADJ` lemmas (7%), 31 `ADJ` types (6%) and 39 `ADJ` tokens (3%).
+There are 29 `ADJ` lemmas (6%), 31 `ADJ` types (6%) and 39 `ADJ` tokens (3%).
 Out of 14 observed tags, the rank of `ADJ` is: 5 in number of lemmas, 6 in number of types and 9 in number of tokens.
 
 The 10 most frequent `ADJ` lemmas: <em>gwapa, taas, adis, ayo, bag-o, dako, hawod, bata, busog, buutan</em>
@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  <em>bata</em> (<tt><a href="ceb_gja-pos-N
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 1.068966 (the average of all parts of speech is 1.162162).
+The form / lemma ratio of `ADJ` is 1.068966 (the average of all parts of speech is 1.162584).
 
 The 1st highest number of forms (2) was observed with the lemma “gwapa”: <em>Guwapa, gwapa</em>.
 
@@ -45,7 +45,7 @@ Examples: <em>Maayo, adis, bag-o, hawod, taas, gwapa, Buutan, Dako, Duol, Hapit<
 
 `ADJ` nodes are attached to their parents using 8 different relations: <tt><a href="ceb_gja-dep-root.html">root</a></tt> (18; 46% instances), <tt><a href="ceb_gja-dep-amod.html">amod</a></tt> (12; 31% instances), <tt><a href="ceb_gja-dep-advcl.html">advcl</a></tt> (3; 8% instances), <tt><a href="ceb_gja-dep-conj.html">conj</a></tt> (2; 5% instances), <tt><a href="ceb_gja-dep-advmod.html">advmod</a></tt> (1; 3% instances), <tt><a href="ceb_gja-dep-compound-redup.html">compound:redup</a></tt> (1; 3% instances), <tt><a href="ceb_gja-dep-csubj.html">csubj</a></tt> (1; 3% instances), <tt><a href="ceb_gja-dep-obl.html">obl</a></tt> (1; 3% instances)
 
-Parents of `ADJ` nodes belong to 6 different parts of speech:  (18; 46% instances), <tt><a href="ceb_gja-pos-NOUN.html">NOUN</a></tt> (10; 26% instances), <tt><a href="ceb_gja-pos-VERB.html">VERB</a></tt> (6; 15% instances), <tt><a href="ceb_gja-pos-ADJ.html">ADJ</a></tt> (3; 8% instances), <tt><a href="ceb_gja-pos-PRON.html">PRON</a></tt> (1; 3% instances), <tt><a href="ceb_gja-pos-PROPN.html">PROPN</a></tt> (1; 3% instances)
+Parents of `ADJ` nodes belong to 6 different parts of speech:  (18; 46% instances), <tt><a href="ceb_gja-pos-NOUN.html">NOUN</a></tt> (9; 23% instances), <tt><a href="ceb_gja-pos-VERB.html">VERB</a></tt> (6; 15% instances), <tt><a href="ceb_gja-pos-ADJ.html">ADJ</a></tt> (3; 8% instances), <tt><a href="ceb_gja-pos-PROPN.html">PROPN</a></tt> (2; 5% instances), <tt><a href="ceb_gja-pos-PRON.html">PRON</a></tt> (1; 3% instances)
 
 1 (3%) `ADJ` nodes are leaves.
 

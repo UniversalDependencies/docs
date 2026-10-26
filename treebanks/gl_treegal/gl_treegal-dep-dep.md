@@ -67,7 +67,7 @@ The following 1 pairs of parts of speech are connected with `dep`: <tt><a href="
 43	Galiza	galiza	PROPN	Sp00	_	40	obl	_	_
 44	con	con	ADP	P	AdpType=Prep	46	case	_	_
 45	unhas	un	DET	Difp	Definite=Ind|Gender=Fem|Number=Plur|PronType=Art	46	det	_	_
-46	xentes	xente	NOUN	Scfp	Gender=Fem|Number=Plur	42	nmod	_	_
+46	xentes	xente	NOUN	Scfp	Gender=Fem|Number=Plur	40	nmod	_	_
 47	(	(	PUNCT	Q(	_	48	punct	_	SpaceAfter=No
 48	homes	home	NOUN	Scmp	Gender=Masc|Number=Plur	46	nmod	_	SpaceAfter=No
 49	,	,	PUNCT	Q,	_	50	punct	_	_

@@ -11,7 +11,7 @@ It occurs with 4 different values: `Act`, `Ifoc`, `Lfoc`, `Pass`.
 
 150 tokens (11%) have a non-empty value of `Voice`.
 138 types (28%) occur at least once with a non-empty value of `Voice`.
-111 lemmas (28%) occur at least once with a non-empty value of `Voice`.
+111 lemmas (27%) occur at least once with a non-empty value of `Voice`.
 The feature is used with 1 part-of-speech tags: <tt><a href="ceb_gja-pos-VERB.html">VERB</a></tt> (150; 11% instances).
 
 ### `VERB`
@@ -26,7 +26,7 @@ The most frequent other feature values with which `VERB` and `Voice` co-occurred
 * `Ifoc` (3; 2% of non-empty `Voice`): <em>Ipalit, Pakitaa, ipasa</em>
 * `Lfoc` (3; 2% of non-empty `Voice`): <em>Limpyohan, himo-an, paliti</em>
 * `Pass` (72; 48% of non-empty `Voice`): <em>ganahan, gibuhat, tabangan, Gitawag, Kinahanglan, Liguon, Silhigan, gihigugma, kasabot, Gi-hold</em>
-* `EMPTY` (37): <em>wala, gusto, may, Aduna, Adunay, Buot, Duna, Gipinturahan, Gisugo, Gisulayan</em>
+* `EMPTY` (38): <em>wala, gusto, may, Aduna, Adunay, Buot, Duna, Gipinturahan, Gisugo, Gisulayan</em>
 
 <table>
   <tr><th>Paradigm <i>palit</i></th><th><tt>Act</tt></th><th><tt>Pass</tt></th><th><tt>Ifoc</tt></th><th><tt>Lfoc</tt></th></tr>

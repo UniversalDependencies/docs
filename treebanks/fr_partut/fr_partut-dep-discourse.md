@@ -47,8 +47,8 @@ The following 6 pairs of parts of speech are connected with `discourse`: <tt><a 
 3	monsieur	monsieur	NOUN	S	Gender=Masc|Number=Sing	8	vocative	_	_
 4	Segni	Segni	PROPN	SP	_	3	flat	_	SpaceAfter=No
 5	,	,	PUNCT	FF	_	3	punct	_	_
-6	je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	8	nsubj	_	_
-7	le	le	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obj	_	_
+6	je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	8	nsubj	_	_
+7	le	lui	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obj	_	_
 8	ferai	faire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	_
 9	bien	bien	ADV	B	_	10	advmod	_	_
 10	volontiers	volontiers	ADV	B	_	8	advmod	_	SpaceAfter=No

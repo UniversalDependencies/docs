@@ -31,12 +31,12 @@ The future tense denotes actions that will happen after a reference point. In th
 
 #### Examples
 
-* _Sîsenaon ǀaǁaeb ǃna ǃhoroba <b>nî</b> ǃgao._ "The workers will cut the mais soon."
+* _Sîsenaon ǀaǁaeb ǃna ǃhoroba <b>nî</b> ǃgao._ "The workers will cut the maize soon."
 * _Amase mûǃāsa a ǃkhaes ge Amob ǀguitsē kaise nîra gā-aisa._ "It is very clear that one day Amos will be very clever."
 * _Amasets ǂgom te <b>tide</b>…_ "You will not believe…"
 
 ### <a name="Past">`Past`</a>: past tense
-The past tense denotes actions that happened long time before a reference point; in the prototypical case, the reference point is the moment of producing the utterance. This includes two auxiliaries: the past auxiliary _ge_ and the imperfective past auxiliary _gere_.
+The past tense denotes actions that happened a long time before a reference point; in the prototypical case, the reference point is the moment of producing the utterance. This includes two auxiliaries: the past auxiliary _ge_ and the imperfective past auxiliary _gere_.
 
 #### Examples
 
@@ -45,9 +45,10 @@ The past tense denotes actions that happened long time before a reference point;
 
 
 ### <a name="RecPast">`RecPast`</a>: recent past tense
-The recent past tense denotes actions that happened short time before a reference point, often on the same day or the day before; in the prototypical case, the reference point is the moment of producing the utterance. This includes two auxiliaries: the recent past auxiliary _go_ and the imperfective recent past auxiliary _goro_.
+The recent past tense denotes actions that happened a short time before a reference point, often on the same day or the day before; in the prototypical case, the reference point is the moment of producing the utterance. This includes two auxiliaries: the recent past auxiliary _go_ and the imperfective recent past auxiliary _goro_.
 
 #### Examples
 
 * _ǀGoan di daoǁaeb ge <b>go</b> hā._ "The time to brand small stock has come."
 * _ǀǁAnǃoe da ge ǂhuwiba omde xu ǃgāsase <b>goro</b> mû._ "Yesterday evening we could see the fire clearly from our houses."
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:20 CEST -->

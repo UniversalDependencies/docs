@@ -79,7 +79,7 @@ The following 3 pairs of parts of speech are connected with `aux:clitic`: <tt><a
 3	zwykłym	zwykły	ADJ	adj:sg:inst:m1:pos	Animacy=Hum|Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	4	amod	4:amod	_
 4	chłopcem	chłopiec	NOUN	subst:sg:inst:m1	Animacy=Hum|Case=Ins|Gender=Masc|Number=Sing	0	root	0:root	_
 5	w	w	ADP	prep:loc:nwok	AdpType=Prep|Variant=Short	7	case	7:case	Case=Loc
-6	zabłoconych	zabłocić	ADJ	ppas:pl:loc:m3:perf:aff	Animacy=Inan|Aspect=Perf|Case=Loc|Gender=Masc|Number=Plur|Polarity=Pos|VerbForm=Part|Voice=Pass	7	acl	7:acl	_
+6	zabłoconych	zabłocić	ADJ	ppas:pl:loc:m3:perf:aff	Animacy=Inan|Aspect=Perf|Case=Loc|Gender=Masc|Number=Plur|Polarity=Pos|VerbForm=Part|Voice=Pass	7	amod	7:amod	_
 7	butach	but	NOUN	subst:pl:loc:m3	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	4	nmod	4:nmod	SpaceAfter=No
 8	.	.	PUNCT	interp	PunctType=Peri	4	punct	4:punct	_
 

@@ -38,7 +38,7 @@ This UD treebank is built from the transcription of audio recordings made in 201
 
 The annotation is carried out in SUD (Surface-Syntactic Universal Dependencies) with an automatic translation into UD.
 SUD uses the same tagset and features as UD but has a different distribution-based dependency structure.
-For more information, see [SUD guidelines](https://surfacesyntacticud.github.io/guidelines/u/) and [Naija SUD page](https://surfacesyntacticud.github.io/guidelines/pcm/).
+For more information, see [SUD guidelines](https://guidelines.surfacesyntacticud.org/) and [Naija SUD page](https://guidelines.surfacesyntacticud.org/docs/language/naija/).
 
 In UD data:
 - We distinguish arguments and modifiers in the `obl` relation: `obl:arg`, `obl:mod`

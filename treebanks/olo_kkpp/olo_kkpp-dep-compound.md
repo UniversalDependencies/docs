@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Livvi-KKPP: Relations: `compound`
 
 This relation is universal.
-There are 1 language-specific subtypes of `compound`: <tt><a href="olo_kkpp-dep-compound-nn.html">compound:nn</a></tt>.
+There are 2 language-specific subtypes of `compound`: <tt><a href="olo_kkpp-dep-compound-nn.html">compound:nn</a></tt>, <tt><a href="olo_kkpp-dep-compound-prt.html">compound:prt</a></tt>.
 
 3 nodes (0%) are attached to their parents as `compound`.
 
@@ -27,7 +27,7 @@ The following 3 pairs of parts of speech are connected with `compound`: <tt><a h
 2	yhtyigi	yhtyö	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 3	Periodika-julguamo	Periodika-julguamo	NOUN	NOUN	Case=Nom|Number=Sing	2	nsubj	_	SpaceAfter=No
 4	,	,	PUNCT	PUNCT	_	2	punct	_	_
-5	festivualil	festivuali	NOUN	NOUN	Case=Ade|Number=Plur	8	obl	_	_
+5	festivualil	festivuali	NOUN	NOUN	Case=Ade|Number=Plur	6	obl	_	_
 6	sai	suaja	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	_
 7	ostua	ostua	VERB	VERB	VerbForm=Inf	6	ccomp	_	_
 8	kniigua	kniigu	NOUN	NOUN	Case=Par|Number=Sing	7	obj	_	SpaceAfter=No

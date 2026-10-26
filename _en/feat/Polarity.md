@@ -43,4 +43,4 @@ and should therefore receive [PronType]()`=Neg` (not `Polarity`).
 * [en] _<b>not</b>_
 * [en] _<b>nor</b>_
 * [en] _<b>no</b>_ as in _no, I don't think so;_ but not as in _we have no bananas_
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:59 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:12 CEST -->

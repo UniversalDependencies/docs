@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of punct in UD_Swiss_German-UZH'
+title:  'Statistics of punct in UD_Alemannic-UZH'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Swiss_German-UZH: Relations: `punct`
+## Treebank Statistics: UD_Alemannic-UZH: Relations: `punct`
 
 This relation is universal.
 

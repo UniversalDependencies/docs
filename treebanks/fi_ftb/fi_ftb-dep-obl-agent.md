@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="fi_ftb-dep-obl.html">obl</a></tt>.
 
-177 nodes (0%) are attached to their parents as `obl:agent`.
+178 nodes (0%) are attached to their parents as `obl:agent`.
 
-177 instances of `obl:agent` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.61016949152542.
+178 instances of `obl:agent` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.6123595505618.
 
-The following 5 pairs of parts of speech are connected with `obl:agent`: <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt>-<tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> (98; 55% instances), <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt>-<tt><a href="fi_ftb-pos-PROPN.html">PROPN</a></tt> (39; 22% instances), <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt>-<tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> (34; 19% instances), <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt>-<tt><a href="fi_ftb-pos-ADJ.html">ADJ</a></tt> (4; 2% instances), <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt>-<tt><a href="fi_ftb-pos-X.html">X</a></tt> (2; 1% instances).
+The following 5 pairs of parts of speech are connected with `obl:agent`: <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt>-<tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> (99; 56% instances), <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt>-<tt><a href="fi_ftb-pos-PROPN.html">PROPN</a></tt> (39; 22% instances), <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt>-<tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> (34; 19% instances), <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt>-<tt><a href="fi_ftb-pos-ADJ.html">ADJ</a></tt> (4; 2% instances), <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt>-<tt><a href="fi_ftb-pos-X.html">X</a></tt> (2; 1% instances).
 
 
 ~~~ conllu
@@ -41,7 +41,7 @@ The following 5 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 2	valitsema	valita	VERB	V,PcpAg,Sg,Nom	Case=Nom|Number=Sing|PartForm=Agt|VerbForm=Part	3	acl	_	_
 3	naispappi	naispappi	NOUN	N,Sg,Nom	Case=Nom|Number=Sing	4	nsubj	_	_
 4	puhui	puhua	VERB	V,Act,Ind,Past,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-5	isästä	isä	NOUN	N,Sg,Ela	Case=Ela|Number=Sing	4	nmod	_	_
+5	isästä	isä	NOUN	N,Sg,Ela	Case=Ela|Number=Sing	4	obl	_	_
 6	herkästi	herkästi	ADV	Adv	_	4	advmod	_	_
 7	ja	ja	CCONJ	Pcle,CC	_	8	cc	_	_
 8	kauniisti	kauniisti	ADV	Adv	_	6	conj	_	_

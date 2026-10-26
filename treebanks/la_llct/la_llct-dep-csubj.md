@@ -117,7 +117,7 @@ The following 9 pairs of parts of speech are connected with `csubj`: <tt><a href
 46	dedisti	do	VERB	v|v|2|s|r|i|a|-|-|-	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	2	csubj	_	TraditionalMood=Indicativus|TraditionalTense=Perfectum
 47	mihi	ego	PRON	p|p|1|s|-|-|-|m|d|-	Case=Dat|Number=Sing|Person=1|PronType=Prs	46	obl:arg	_	SpaceAfter=No
 48	,	,	PUNCT	Punc	_	51	punct	_	_
-49	id	is	PRON	p|p|-|s|-|-|-|n|n|-	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	51	advmod:emph	_	_
+49	id	is	PRON	p|p|-|s|-|-|-|n|n|-	Case=Nom|ExtPos=CCONJ|Gender=Neut|Number=Sing|Person=3|PronType=Prs	51	advmod:emph	_	_
 50	est	sum	AUX	v|v|3|s|p|i|a|-|-|-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	49	fixed	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
 51	casa	casa	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	46	obj	_	_
 52	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	53	cc	_	_

@@ -9,10 +9,10 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Yes`.
 
-741 tokens (0%) have a non-empty value of `Hyph`.
+740 tokens (0%) have a non-empty value of `Hyph`.
 399 types (0%) occur at least once with a non-empty value of `Hyph`.
 392 lemmas (1%) occur at least once with a non-empty value of `Hyph`.
-The feature is used with 9 part-of-speech tags: <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (446; 0% instances), <tt><a href="et_edt-pos-PUNCT.html">PUNCT</a></tt> (167; 0% instances), <tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt> (47; 0% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> (34; 0% instances), <tt><a href="et_edt-pos-NUM.html">NUM</a></tt> (20; 0% instances), <tt><a href="et_edt-pos-SYM.html">SYM</a></tt> (18; 0% instances), <tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (7; 0% instances), <tt><a href="et_edt-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The feature is used with 9 part-of-speech tags: <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (446; 0% instances), <tt><a href="et_edt-pos-PUNCT.html">PUNCT</a></tt> (166; 0% instances), <tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt> (47; 0% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> (34; 0% instances), <tt><a href="et_edt-pos-NUM.html">NUM</a></tt> (20; 0% instances), <tt><a href="et_edt-pos-SYM.html">SYM</a></tt> (18; 0% instances), <tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (7; 0% instances), <tt><a href="et_edt-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
@@ -28,11 +28,11 @@ The most frequent other feature values with which `NOUN` and `Hyph` co-occurred:
 
 ### `PUNCT`
 
-167 <tt><a href="et_edt-pos-PUNCT.html">PUNCT</a></tt> tokens (0% of all `PUNCT` tokens) have a non-empty value of `Hyph`.
+166 <tt><a href="et_edt-pos-PUNCT.html">PUNCT</a></tt> tokens (0% of all `PUNCT` tokens) have a non-empty value of `Hyph`.
 
 `PUNCT` tokens may have the following values of `Hyph`:
 
-* `Yes` (167; 100% of non-empty `Hyph`): <em>--, ---</em>
+* `Yes` (166; 100% of non-empty `Hyph`): <em>--, ---</em>
 
 ### `PROPN`
 

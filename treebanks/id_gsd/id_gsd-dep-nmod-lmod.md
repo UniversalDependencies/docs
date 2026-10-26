@@ -28,7 +28,7 @@ The following 5 pairs of parts of speech are connected with `nmod:lmod`: <tt><a 
 3	dari	dari	ADP	R--	_	4	case	_	Morf=^dari<r>_R--$
 4	ordo	ordo	NOUN	X--	_	2	nmod	_	Morf=^ordo<x>_X--$
 5	ini	ini	DET	B--	PronType=Dem	4	det	_	Morf=^ini<b>_B--$
-6	menyandang	sandang	VERB	VSA	Mood=Ind|Voice=Act	0	root	_	Morf=^meN+sandang<v>_VSA$
+6	menyandang	sandang	VERB	VSA	Voice=Act	0	root	_	Morf=^meN+sandang<v>_VSA$
 7	nama	nama	NOUN	NSD	Number=Sing	6	obj	_	Morf=^nama<n>_NSD$
 8	O	o	PROPN	F--	_	7	nmod	_	SpaceAfter=No|Morf=^o<f>_F--$
 9	.	.	PUNCT	Z--	_	8	punct	_	Morf=^.<z>_Z--$

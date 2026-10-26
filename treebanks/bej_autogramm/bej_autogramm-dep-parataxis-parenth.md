@@ -9,12 +9,33 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="bej_autogramm-dep-parataxis.html">parataxis</a></tt>.
 There are also 2 other language-specific subtypes of `parataxis`: <tt><a href="bej_autogramm-dep-parataxis-insert.html">parataxis:insert</a></tt>, <tt><a href="bej_autogramm-dep-parataxis-mod.html">parataxis:mod</a></tt>.
 
-2 nodes (0%) are attached to their parents as `parataxis:parenth`.
+5 nodes (0%) are attached to their parents as `parataxis:parenth`.
 
-1 instances of `parataxis:parenth` (50%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.
+4 instances of `parataxis:parenth` (80%) are right-to-left (child precedes parent).
+Average distance between parent and child is 5.4.
 
-The following 2 pairs of parts of speech are connected with `parataxis:parenth`: <tt><a href="bej_autogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bej_autogramm-pos-NOUN.html">NOUN</a></tt> (1; 50% instances), <tt><a href="bej_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="bej_autogramm-pos-VERB.html">VERB</a></tt> (1; 50% instances).
+The following 3 pairs of parts of speech are connected with `parataxis:parenth`: <tt><a href="bej_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="bej_autogramm-pos-NOUN.html">NOUN</a></tt> (3; 60% instances), <tt><a href="bej_autogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bej_autogramm-pos-NOUN.html">NOUN</a></tt> (1; 20% instances), <tt><a href="bej_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="bej_autogramm-pos-VERB.html">VERB</a></tt> (1; 20% instances).
+
+
+~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 4 parataxis:parenth	color:blue
+1	bak	_	PART	DEICT	_	2	advmod	_	AlignBegin=282817|AlignEnd=283182|Gloss=thus|RX=[DEICT].[MNR]|TokenType=Root
+2	tʔiit	_	NOUN	V1	_	3	dep:comp	_	AlignBegin=283182|AlignEnd=283303|Gloss=resemble|MGloss=resemble-VN|MSeg=tʔi-it|RelRole=Subj|RX=[V1].[IRG]-[N].[V]|TokenType=Root
+3	=eː	_	SCONJ	CONJ.REL	PronType=Rel	4	acl:relcl	_	AlignBegin=283303|AlignEnd=283364|Gloss==REL|RX==[CONJ]|TokenType=Clit
+4	=naː	_	NOUN	CONJ	_	10	parataxis:parenth	_	AlignBegin=283364|AlignEnd=283425|Gloss==thing|RX==[CONJ]|TokenType=Clit
+5	=t	_	DET	DET	Gender=Fem	4	det	_	AlignBegin=283425|AlignEnd=283486|Gloss==INDF.F|RX==[DET]|TokenType=Clit
+6	=i	_	AUX	POSTP	Number=Sing	4	cop	_	AlignBegin=283486|AlignEnd=283547|Gloss==COP.3SG|RX==PRED.NOM|TokenType=Clit
+7	/	_	PUNCT	PUNCT	_	4	punct	_	AlignBegin=283547|AlignEnd=283913|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
+8	ʤanna	_	NOUN	N	Gender=Fem	10	obj	_	AlignBegin=283913|AlignEnd=284065|Gloss=paradise|RX=[N].[F]|TokenType=Root
+9	=t	_	DET	DET	Gender=Fem	8	det	_	AlignBegin=284065|AlignEnd=284218|Gloss==INDF.F|RX==[DET]|TokenType=Clit
+10	rhan	_	VERB	V2	Number=Sing|VerbClass=2	0	root	_	AlignBegin=284218|AlignEnd=284524|Gloss=see|MGloss=see-PFV.1SG|MSeg=rh-an|RX=[V2]-[TAM].[PNG]|TokenType=Root
+11	/	_	PUNCT	PUNCT	_	10	punct	_	AlignBegin=284524|AlignEnd=285364|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
+
+~~~
 
 
 ~~~ conllu

@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `nummod`: <tt><a href="lt_alksnis-dep-nummod-gov.html">nummod:gov</a></tt>.
 
-1226 nodes (2%) are attached to their parents as `nummod`.
+1225 nodes (2%) are attached to their parents as `nummod`.
 
 1079 instances of `nummod` (88%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.74714518760196.
+Average distance between parent and child is 2.74857142857143.
 
-The following 9 pairs of parts of speech are connected with `nummod`: <tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lt_alksnis-pos-NUM.html">NUM</a></tt> (695; 57% instances), <tt><a href="lt_alksnis-pos-X.html">X</a></tt>-<tt><a href="lt_alksnis-pos-NUM.html">NUM</a></tt> (244; 20% instances), <tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt>-<tt><a href="lt_alksnis-pos-NUM.html">NUM</a></tt> (241; 20% instances), <tt><a href="lt_alksnis-pos-NUM.html">NUM</a></tt>-<tt><a href="lt_alksnis-pos-NUM.html">NUM</a></tt> (15; 1% instances), <tt><a href="lt_alksnis-pos-SYM.html">SYM</a></tt>-<tt><a href="lt_alksnis-pos-NUM.html">NUM</a></tt> (13; 1% instances), <tt><a href="lt_alksnis-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lt_alksnis-pos-NUM.html">NUM</a></tt> (12; 1% instances), <tt><a href="lt_alksnis-pos-PRON.html">PRON</a></tt>-<tt><a href="lt_alksnis-pos-NUM.html">NUM</a></tt> (4; 0% instances), <tt><a href="lt_alksnis-pos-DET.html">DET</a></tt>-<tt><a href="lt_alksnis-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="lt_alksnis-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lt_alksnis-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `nummod`: <tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lt_alksnis-pos-NUM.html">NUM</a></tt> (695; 57% instances), <tt><a href="lt_alksnis-pos-X.html">X</a></tt>-<tt><a href="lt_alksnis-pos-NUM.html">NUM</a></tt> (244; 20% instances), <tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt>-<tt><a href="lt_alksnis-pos-NUM.html">NUM</a></tt> (241; 20% instances), <tt><a href="lt_alksnis-pos-NUM.html">NUM</a></tt>-<tt><a href="lt_alksnis-pos-NUM.html">NUM</a></tt> (14; 1% instances), <tt><a href="lt_alksnis-pos-SYM.html">SYM</a></tt>-<tt><a href="lt_alksnis-pos-NUM.html">NUM</a></tt> (13; 1% instances), <tt><a href="lt_alksnis-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lt_alksnis-pos-NUM.html">NUM</a></tt> (12; 1% instances), <tt><a href="lt_alksnis-pos-PRON.html">PRON</a></tt>-<tt><a href="lt_alksnis-pos-NUM.html">NUM</a></tt> (4; 0% instances), <tt><a href="lt_alksnis-pos-DET.html">DET</a></tt>-<tt><a href="lt_alksnis-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="lt_alksnis-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lt_alksnis-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

@@ -51,40 +51,15 @@ Mapping UPOS to XPOS Ka'apor
  SYM   | sym      |
  X     | x        |
 
----
----
-
 ### Features
 
-* The relational markers `Rel`, which indicate contiguity or non-contiguity between a head and its dependent, take respectively the following features: `Rel=Cont` and `Rel=NCont`. A third type or rletional indicates that a possessor is not present, neither contiguously or non-contiguously. This relational is tagged `Rel=Abs`, for relational absolute. 
+* The relational markers `Rel`, which indicate contiguity or non-contiguity between a head and its dependent, take respectively the following features: `Rel=Cont` and `Rel=NCont`. A third type or rletional indicates that a possessor is not present, neither contiguously or non-contiguously. This relational is tagged `Rel=Abs`, for relational absolute.
 * As a head marking language, Tupinambá cross-references arguments on the predicate, mostly when the object is third person: *a-s-epjak* 1.SG-3-see 'I see him'. The [PERSON](https://universaldependencies.org/u/feat/Person.html) feature in this case will be `Person=33`.
 * The protmanteau markers, 1 -> 2 are asigned the [PERSON](https://universaldependencies.org/u/feat/Person.html) feature `Person12Sg` and `Person12Pl`.
 * Tupinambá is reach in nominalizations. Lxical roots can be nominalized by suffixes that receive the following features: nominalizatin of circusntance `Nomzr=Circ` (*-saβ* 'thing, way of VERB'), deverbal passive nominalization `Nomzr=DevPass` (*-pɨr* 'one that is VERB').
 
----
-**Instruction**: Describe inherent and inflectional features for major word classes (at least NOUN and VERB). Describe other noteworthy features. Include links to language-specific feature definitions if any.
-
----
-
-## Syntax
-
-*
-
----
-**Instruction**: Give criteria for identifying core arguments (subjects and objects), and describe the range of copula constructions in nonverbal clauses. List all subtype relations used. Include links to language-specific relations definitions if any.
-
----
-
 ## Treebanks
 
-There are [N](../treebanks/urb-comparison.html) Kaapor UD treebanks:
+There is 1 Kaapor UD treebank:
 
-  * [Kaapor-A](../treebanks/urb_a/index.html)
-  * [Kaapor-B](../treebanks/urb_b/index.html)
-
----
-**Instruction**: Treebank-specific pages are generated automatically from the README file in the treebank repository and
-from the data in the latest release. Link to the respective `*-index.html` page in the `treebanks` folder, using the language code
-and the treebank code in the file name.
-
----
+  * [Kaapor-TuDeT](../treebanks/urb_tudet/index.html)

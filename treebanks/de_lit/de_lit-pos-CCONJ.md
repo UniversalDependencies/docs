@@ -6,29 +6,29 @@ udver: '2'
 
 ## Treebank Statistics: UD_German-LIT: POS Tags: `CCONJ`
 
-There are 22 `CCONJ` lemmas (0%), 23 `CCONJ` types (0%) and 1941 `CCONJ` tokens (5%).
+There are 22 `CCONJ` lemmas (0%), 23 `CCONJ` types (0%) and 1928 `CCONJ` tokens (5%).
 Out of 15 observed tags, the rank of `CCONJ` is: 11 in number of lemmas, 11 in number of types and 10 in number of tokens.
 
 The 10 most frequent `CCONJ` lemmas: <em>und, oder, als, wie, aber, sondern, denn, noch, entweder, desto</em>
 
 The 10 most frequent `CCONJ` types:  <em>und, oder, als, wie, aber, sondern, denn, noch, entweder, desto</em>
 
-The 10 most frequent ambiguous lemmas: <em>und</em> (<tt><a href="de_lit-pos-CCONJ.html">CCONJ</a></tt> 1205, <tt><a href="de_lit-pos-X.html">X</a></tt> 1), <em>als</em> (<tt><a href="de_lit-pos-CCONJ.html">CCONJ</a></tt> 142, <tt><a href="de_lit-pos-ADP.html">ADP</a></tt> 69, <tt><a href="de_lit-pos-SCONJ.html">SCONJ</a></tt> 26), <em>wie</em> (<tt><a href="de_lit-pos-CCONJ.html">CCONJ</a></tt> 121, <tt><a href="de_lit-pos-ADV.html">ADV</a></tt> 109, <tt><a href="de_lit-pos-SCONJ.html">SCONJ</a></tt> 10, <tt><a href="de_lit-pos-ADP.html">ADP</a></tt> 6, <tt><a href="de_lit-pos-NOUN.html">NOUN</a></tt> 1), <em>aber</em> (<tt><a href="de_lit-pos-ADV.html">ADV</a></tt> 87, <tt><a href="de_lit-pos-CCONJ.html">CCONJ</a></tt> 84), <em>denn</em> (<tt><a href="de_lit-pos-CCONJ.html">CCONJ</a></tt> 40, <tt><a href="de_lit-pos-ADV.html">ADV</a></tt> 11), <em>noch</em> (<tt><a href="de_lit-pos-ADV.html">ADV</a></tt> 97, <tt><a href="de_lit-pos-CCONJ.html">CCONJ</a></tt> 16), <em>entweder</em> (<tt><a href="de_lit-pos-CCONJ.html">CCONJ</a></tt> 15, <tt><a href="de_lit-pos-ADV.html">ADV</a></tt> 2, <tt><a href="de_lit-pos-ADP.html">ADP</a></tt> 1), <em>desto</em> (<tt><a href="de_lit-pos-CCONJ.html">CCONJ</a></tt> 9, <tt><a href="de_lit-pos-ADV.html">ADV</a></tt> 5), <em>je</em> (<tt><a href="de_lit-pos-ADV.html">ADV</a></tt> 24, <tt><a href="de_lit-pos-CCONJ.html">CCONJ</a></tt> 6), <em>doch</em> (<tt><a href="de_lit-pos-ADV.html">ADV</a></tt> 88, <tt><a href="de_lit-pos-CCONJ.html">CCONJ</a></tt> 5)
+The 10 most frequent ambiguous lemmas: <em>und</em> (<tt><a href="de_lit-pos-CCONJ.html">CCONJ</a></tt> 1205, <tt><a href="de_lit-pos-X.html">X</a></tt> 1), <em>als</em> (<tt><a href="de_lit-pos-CCONJ.html">CCONJ</a></tt> 130, <tt><a href="de_lit-pos-ADP.html">ADP</a></tt> 69, <tt><a href="de_lit-pos-SCONJ.html">SCONJ</a></tt> 38), <em>wie</em> (<tt><a href="de_lit-pos-CCONJ.html">CCONJ</a></tt> 120, <tt><a href="de_lit-pos-ADV.html">ADV</a></tt> 109, <tt><a href="de_lit-pos-SCONJ.html">SCONJ</a></tt> 11, <tt><a href="de_lit-pos-ADP.html">ADP</a></tt> 6, <tt><a href="de_lit-pos-NOUN.html">NOUN</a></tt> 1), <em>aber</em> (<tt><a href="de_lit-pos-ADV.html">ADV</a></tt> 87, <tt><a href="de_lit-pos-CCONJ.html">CCONJ</a></tt> 84), <em>denn</em> (<tt><a href="de_lit-pos-CCONJ.html">CCONJ</a></tt> 40, <tt><a href="de_lit-pos-ADV.html">ADV</a></tt> 11), <em>noch</em> (<tt><a href="de_lit-pos-ADV.html">ADV</a></tt> 97, <tt><a href="de_lit-pos-CCONJ.html">CCONJ</a></tt> 16), <em>entweder</em> (<tt><a href="de_lit-pos-CCONJ.html">CCONJ</a></tt> 15, <tt><a href="de_lit-pos-ADV.html">ADV</a></tt> 2, <tt><a href="de_lit-pos-ADP.html">ADP</a></tt> 1), <em>desto</em> (<tt><a href="de_lit-pos-CCONJ.html">CCONJ</a></tt> 9, <tt><a href="de_lit-pos-ADV.html">ADV</a></tt> 5), <em>je</em> (<tt><a href="de_lit-pos-ADV.html">ADV</a></tt> 24, <tt><a href="de_lit-pos-CCONJ.html">CCONJ</a></tt> 6), <em>doch</em> (<tt><a href="de_lit-pos-ADV.html">ADV</a></tt> 88, <tt><a href="de_lit-pos-CCONJ.html">CCONJ</a></tt> 5)
 
-The 10 most frequent ambiguous types:  <em>und</em> (<tt><a href="de_lit-pos-CCONJ.html">CCONJ</a></tt> 1186, <tt><a href="de_lit-pos-X.html">X</a></tt> 1), <em>als</em> (<tt><a href="de_lit-pos-CCONJ.html">CCONJ</a></tt> 142, <tt><a href="de_lit-pos-ADP.html">ADP</a></tt> 64, <tt><a href="de_lit-pos-SCONJ.html">SCONJ</a></tt> 26), <em>wie</em> (<tt><a href="de_lit-pos-CCONJ.html">CCONJ</a></tt> 116, <tt><a href="de_lit-pos-ADV.html">ADV</a></tt> 87, <tt><a href="de_lit-pos-SCONJ.html">SCONJ</a></tt> 10, <tt><a href="de_lit-pos-ADP.html">ADP</a></tt> 5), <em>aber</em> (<tt><a href="de_lit-pos-ADV.html">ADV</a></tt> 86, <tt><a href="de_lit-pos-CCONJ.html">CCONJ</a></tt> 55), <em>denn</em> (<tt><a href="de_lit-pos-CCONJ.html">CCONJ</a></tt> 29, <tt><a href="de_lit-pos-ADV.html">ADV</a></tt> 10), <em>noch</em> (<tt><a href="de_lit-pos-ADV.html">ADV</a></tt> 93, <tt><a href="de_lit-pos-CCONJ.html">CCONJ</a></tt> 16), <em>entweder</em> (<tt><a href="de_lit-pos-CCONJ.html">CCONJ</a></tt> 14, <tt><a href="de_lit-pos-ADV.html">ADV</a></tt> 2, <tt><a href="de_lit-pos-ADP.html">ADP</a></tt> 1), <em>desto</em> (<tt><a href="de_lit-pos-CCONJ.html">CCONJ</a></tt> 9, <tt><a href="de_lit-pos-ADV.html">ADV</a></tt> 5), <em>je</em> (<tt><a href="de_lit-pos-ADV.html">ADV</a></tt> 13, <tt><a href="de_lit-pos-CCONJ.html">CCONJ</a></tt> 5), <em>doch</em> (<tt><a href="de_lit-pos-ADV.html">ADV</a></tt> 84, <tt><a href="de_lit-pos-CCONJ.html">CCONJ</a></tt> 4)
+The 10 most frequent ambiguous types:  <em>und</em> (<tt><a href="de_lit-pos-CCONJ.html">CCONJ</a></tt> 1186, <tt><a href="de_lit-pos-X.html">X</a></tt> 1), <em>als</em> (<tt><a href="de_lit-pos-CCONJ.html">CCONJ</a></tt> 130, <tt><a href="de_lit-pos-ADP.html">ADP</a></tt> 64, <tt><a href="de_lit-pos-SCONJ.html">SCONJ</a></tt> 38), <em>wie</em> (<tt><a href="de_lit-pos-CCONJ.html">CCONJ</a></tt> 115, <tt><a href="de_lit-pos-ADV.html">ADV</a></tt> 87, <tt><a href="de_lit-pos-SCONJ.html">SCONJ</a></tt> 11, <tt><a href="de_lit-pos-ADP.html">ADP</a></tt> 5), <em>aber</em> (<tt><a href="de_lit-pos-ADV.html">ADV</a></tt> 86, <tt><a href="de_lit-pos-CCONJ.html">CCONJ</a></tt> 55), <em>denn</em> (<tt><a href="de_lit-pos-CCONJ.html">CCONJ</a></tt> 29, <tt><a href="de_lit-pos-ADV.html">ADV</a></tt> 10), <em>noch</em> (<tt><a href="de_lit-pos-ADV.html">ADV</a></tt> 93, <tt><a href="de_lit-pos-CCONJ.html">CCONJ</a></tt> 16), <em>entweder</em> (<tt><a href="de_lit-pos-CCONJ.html">CCONJ</a></tt> 14, <tt><a href="de_lit-pos-ADV.html">ADV</a></tt> 2, <tt><a href="de_lit-pos-ADP.html">ADP</a></tt> 1), <em>desto</em> (<tt><a href="de_lit-pos-CCONJ.html">CCONJ</a></tt> 9, <tt><a href="de_lit-pos-ADV.html">ADV</a></tt> 5), <em>je</em> (<tt><a href="de_lit-pos-ADV.html">ADV</a></tt> 13, <tt><a href="de_lit-pos-CCONJ.html">CCONJ</a></tt> 5), <em>doch</em> (<tt><a href="de_lit-pos-ADV.html">ADV</a></tt> 84, <tt><a href="de_lit-pos-CCONJ.html">CCONJ</a></tt> 4)
 
 
 * <em>und</em>
   * <tt><a href="de_lit-pos-CCONJ.html">CCONJ</a></tt> 1186: <em>Es gibt so viel Poesie , <b>und</b> doch ist nichts seltner als ein Poem !</em>
   * <tt><a href="de_lit-pos-X.html">X</a></tt> 1: <em>Die zarte Weiblichkeit in Gedanken und Dichtungen , die auf den Bildern der Angelika Kauffmann anzieht , hat sich bei den Figuren mitunter auf eine unerlaubte Art eingeschlichen : ihren Jünglingen sieht es aus den Augen , daß sie gar zu gern einen Mädchenbusen hätten , <b>und</b> wo möglich auch solche Hüften .</em>
 * <em>als</em>
-  * <tt><a href="de_lit-pos-CCONJ.html">CCONJ</a></tt> 142: <em>Es gibt so viel Poesie , und doch ist nichts seltner <b>als</b> ein Poem !</em>
+  * <tt><a href="de_lit-pos-CCONJ.html">CCONJ</a></tt> 130: <em>Es gibt so viel Poesie , und doch ist nichts seltner <b>als</b> ein Poem !</em>
   * <tt><a href="de_lit-pos-ADP.html">ADP</a></tt> 64: <em>Deutschland ist Rom , <b>als</b> Land .</em>
-  * <tt><a href="de_lit-pos-SCONJ.html">SCONJ</a></tt> 26: <em>Man versteht das Künstliche gewöhnlich besser , <b>als</b> das Natürliche .</em>
+  * <tt><a href="de_lit-pos-SCONJ.html">SCONJ</a></tt> 38: <em>Nichts ist pikanter , <b>als</b> wenn ein genialischer Mann Manieren hat ;</em>
 * <em>wie</em>
-  * <tt><a href="de_lit-pos-CCONJ.html">CCONJ</a></tt> 116: <em>Es gibt Schriftsteller die Unbedingtes trinken <b>wie</b> Wasser ;</em>
+  * <tt><a href="de_lit-pos-CCONJ.html">CCONJ</a></tt> 115: <em>Es gibt Schriftsteller die Unbedingtes trinken <b>wie</b> Wasser ;</em>
   * <tt><a href="de_lit-pos-ADV.html">ADV</a></tt> 87: <em>Manches Gedicht wird so geliebt , <b>wie</b> der Heiland von den Nonnen .</em>
-  * <tt><a href="de_lit-pos-SCONJ.html">SCONJ</a></tt> 10: <em>Ist sie wirklich Philosophie , so wird sie doch <b>wie</b> ein Phönix aus ihrer eignen Asche immer wieder aufleben .</em>
+  * <tt><a href="de_lit-pos-SCONJ.html">SCONJ</a></tt> 11: <em>Ist sie wirklich Philosophie , so wird sie doch <b>wie</b> ein Phönix aus ihrer eignen Asche immer wieder aufleben .</em>
   * <tt><a href="de_lit-pos-ADP.html">ADP</a></tt> 5: <em>Mit dem Schriftstellerruhm ist es oft <b>wie</b> mit Frauengunst , und Gelderwerb .</em>
 * <em>aber</em>
   * <tt><a href="de_lit-pos-ADV.html">ADV</a></tt> 86: <em>Man soll von jedermann Genie fordern , <b>aber</b> ohne es zu erwarten .</em>
@@ -55,7 +55,7 @@ The 10 most frequent ambiguous types:  <em>und</em> (<tt><a href="de_lit-pos-CCO
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.045455 (the average of all parts of speech is 1.310698).
+The form / lemma ratio of `CCONJ` is 1.045455 (the average of all parts of speech is 1.310752).
 
 The 1st highest number of forms (2) was observed with the lemma “und”: <em>u, und</em>.
 
@@ -68,23 +68,23 @@ The 3rd highest number of forms (1) was observed with the lemma “Welt”: <em>
 `CCONJ` occurs with 2 feature-value pairs: `Abbr=Yes`, `Foreign=Yes`
 
 `CCONJ` occurs with 3 feature combinations.
-The most frequent feature combination is `_` (1939 tokens).
+The most frequent feature combination is `_` (1926 tokens).
 Examples: <em>und, oder, als, wie, aber, sondern, denn, noch, entweder, desto</em>
 
 
 ## Relations
 
-`CCONJ` nodes are attached to their parents using 9 different relations: <tt><a href="de_lit-dep-cc.html">cc</a></tt> (1703; 88% instances), <tt><a href="de_lit-dep-case.html">case</a></tt> (156; 8% instances), <tt><a href="de_lit-dep-mark.html">mark</a></tt> (37; 2% instances), <tt><a href="de_lit-dep-advmod.html">advmod</a></tt> (36; 2% instances), <tt><a href="de_lit-dep-fixed.html">fixed</a></tt> (4; 0% instances), <tt><a href="de_lit-dep-conj.html">conj</a></tt> (2; 0% instances), <tt><a href="de_lit-dep-compound.html">compound</a></tt> (1; 0% instances), <tt><a href="de_lit-dep-nsubj.html">nsubj</a></tt> (1; 0% instances), <tt><a href="de_lit-dep-orphan.html">orphan</a></tt> (1; 0% instances)
+`CCONJ` nodes are attached to their parents using 9 different relations: <tt><a href="de_lit-dep-cc.html">cc</a></tt> (1703; 88% instances), <tt><a href="de_lit-dep-case.html">case</a></tt> (154; 8% instances), <tt><a href="de_lit-dep-advmod.html">advmod</a></tt> (36; 2% instances), <tt><a href="de_lit-dep-mark.html">mark</a></tt> (29; 2% instances), <tt><a href="de_lit-dep-conj.html">conj</a></tt> (2; 0% instances), <tt><a href="de_lit-dep-compound.html">compound</a></tt> (1; 0% instances), <tt><a href="de_lit-dep-fixed.html">fixed</a></tt> (1; 0% instances), <tt><a href="de_lit-dep-nsubj.html">nsubj</a></tt> (1; 0% instances), <tt><a href="de_lit-dep-orphan.html">orphan</a></tt> (1; 0% instances)
 
-Parents of `CCONJ` nodes belong to 12 different parts of speech: <tt><a href="de_lit-pos-NOUN.html">NOUN</a></tt> (893; 46% instances), <tt><a href="de_lit-pos-VERB.html">VERB</a></tt> (534; 28% instances), <tt><a href="de_lit-pos-ADJ.html">ADJ</a></tt> (280; 14% instances), <tt><a href="de_lit-pos-ADV.html">ADV</a></tt> (64; 3% instances), <tt><a href="de_lit-pos-AUX.html">AUX</a></tt> (50; 3% instances), <tt><a href="de_lit-pos-DET.html">DET</a></tt> (41; 2% instances), <tt><a href="de_lit-pos-PRON.html">PRON</a></tt> (37; 2% instances), <tt><a href="de_lit-pos-PROPN.html">PROPN</a></tt> (33; 2% instances), <tt><a href="de_lit-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="de_lit-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="de_lit-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="de_lit-pos-PART.html">PART</a></tt> (2; 0% instances)
+Parents of `CCONJ` nodes belong to 12 different parts of speech: <tt><a href="de_lit-pos-NOUN.html">NOUN</a></tt> (891; 46% instances), <tt><a href="de_lit-pos-VERB.html">VERB</a></tt> (529; 27% instances), <tt><a href="de_lit-pos-ADJ.html">ADJ</a></tt> (280; 15% instances), <tt><a href="de_lit-pos-ADV.html">ADV</a></tt> (61; 3% instances), <tt><a href="de_lit-pos-AUX.html">AUX</a></tt> (49; 3% instances), <tt><a href="de_lit-pos-DET.html">DET</a></tt> (40; 2% instances), <tt><a href="de_lit-pos-PRON.html">PRON</a></tt> (36; 2% instances), <tt><a href="de_lit-pos-PROPN.html">PROPN</a></tt> (33; 2% instances), <tt><a href="de_lit-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="de_lit-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="de_lit-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="de_lit-pos-PART.html">PART</a></tt> (2; 0% instances)
 
-1924 (99%) `CCONJ` nodes are leaves.
+1923 (100%) `CCONJ` nodes are leaves.
 
-17 (1%) `CCONJ` nodes have one child.
+5 (0%) `CCONJ` nodes have one child.
 
 The highest child degree of a `CCONJ` node is 1.
 
-Children of `CCONJ` nodes are attached using 4 different relations: <tt><a href="de_lit-dep-fixed.html">fixed</a></tt> (12; 71% instances), <tt><a href="de_lit-dep-punct.html">punct</a></tt> (3; 18% instances), <tt><a href="de_lit-dep-advmod.html">advmod</a></tt> (1; 6% instances), <tt><a href="de_lit-dep-det.html">det</a></tt> (1; 6% instances)
+Children of `CCONJ` nodes are attached using 3 different relations: <tt><a href="de_lit-dep-punct.html">punct</a></tt> (3; 60% instances), <tt><a href="de_lit-dep-advmod.html">advmod</a></tt> (1; 20% instances), <tt><a href="de_lit-dep-det.html">det</a></tt> (1; 20% instances)
 
-Children of `CCONJ` nodes belong to 4 different parts of speech: <tt><a href="de_lit-pos-SCONJ.html">SCONJ</a></tt> (10; 59% instances), <tt><a href="de_lit-pos-ADV.html">ADV</a></tt> (3; 18% instances), <tt><a href="de_lit-pos-PUNCT.html">PUNCT</a></tt> (3; 18% instances), <tt><a href="de_lit-pos-DET.html">DET</a></tt> (1; 6% instances)
+Children of `CCONJ` nodes belong to 3 different parts of speech: <tt><a href="de_lit-pos-PUNCT.html">PUNCT</a></tt> (3; 60% instances), <tt><a href="de_lit-pos-ADV.html">ADV</a></tt> (1; 20% instances), <tt><a href="de_lit-pos-DET.html">DET</a></tt> (1; 20% instances)
 

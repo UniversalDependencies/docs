@@ -25,13 +25,14 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 * `Cmp` (2568; 10% of non-empty `Degree`): <em>meir, fleire, tidlegare, større, vidare, betre, mindre, lenger, nærare, seinare</em>
 * `Pos` (20955; 85% of non-empty `Degree`): <em>mange, heile, nye, norske, mykje, store, siste, første, godt, heilt</em>
 * `Sup` (1012; 4% of non-empty `Degree`): <em>mest, fleste, beste, største, viktigaste, minst, meste, minste, fremst, best</em>
-* `EMPTY` (4566): <em>sett, lagt, auka, gjort, samla, 1., knytt, utvida, manglande, kalla</em>
+* `EMPTY` (4564): <em>sett, lagt, auka, gjort, samla, 1., knytt, utvida, manglande, kalla</em>
 
 <table>
   <tr><th>Paradigm <i>mykje</i></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>
   <tr><td><tt>_</tt></td><td></td><td><em>meir, meire</em></td><td><em>meste</em></td></tr>
   <tr><td><tt><tt><a href="no_nynorsk-feat-Definite.html">Definite</a></tt><tt>=Ind</tt></tt></td><td></td><td></td><td><em>mest</em></td></tr>
   <tr><td><tt><tt><a href="no_nynorsk-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="no_nynorsk-feat-Gender.html">Gender</a></tt><tt>=Fem,Masc</tt></tt></td><td><em>mykje</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="no_nynorsk-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="no_nynorsk-feat-Gender.html">Gender</a></tt><tt>=Com</tt></tt></td><td><em>mykje</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="no_nynorsk-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="no_nynorsk-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>mykje</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="no_nynorsk-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>mykje</em></td><td></td><td></td></tr>
 </table>

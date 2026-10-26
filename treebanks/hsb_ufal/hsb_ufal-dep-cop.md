@@ -8,48 +8,44 @@ udver: '2'
 
 This relation is universal.
 
-240 nodes (2%) are attached to their parents as `cop`.
+239 nodes (2%) are attached to their parents as `cop`.
 
-211 instances of `cop` (88%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.2625.
+210 instances of `cop` (88%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.27196652719665.
 
-The following 6 pairs of parts of speech are connected with `cop`: <tt><a href="hsb_ufal-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hsb_ufal-pos-AUX.html">AUX</a></tt> (142; 59% instances), <tt><a href="hsb_ufal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hsb_ufal-pos-AUX.html">AUX</a></tt> (87; 36% instances), <tt><a href="hsb_ufal-pos-NUM.html">NUM</a></tt>-<tt><a href="hsb_ufal-pos-AUX.html">AUX</a></tt> (4; 2% instances), <tt><a href="hsb_ufal-pos-ADV.html">ADV</a></tt>-<tt><a href="hsb_ufal-pos-AUX.html">AUX</a></tt> (3; 1% instances), <tt><a href="hsb_ufal-pos-PRON.html">PRON</a></tt>-<tt><a href="hsb_ufal-pos-AUX.html">AUX</a></tt> (3; 1% instances), <tt><a href="hsb_ufal-pos-SYM.html">SYM</a></tt>-<tt><a href="hsb_ufal-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 6 pairs of parts of speech are connected with `cop`: <tt><a href="hsb_ufal-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hsb_ufal-pos-AUX.html">AUX</a></tt> (141; 59% instances), <tt><a href="hsb_ufal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hsb_ufal-pos-AUX.html">AUX</a></tt> (87; 36% instances), <tt><a href="hsb_ufal-pos-NUM.html">NUM</a></tt>-<tt><a href="hsb_ufal-pos-AUX.html">AUX</a></tt> (4; 2% instances), <tt><a href="hsb_ufal-pos-ADV.html">ADV</a></tt>-<tt><a href="hsb_ufal-pos-AUX.html">AUX</a></tt> (3; 1% instances), <tt><a href="hsb_ufal-pos-PRON.html">PRON</a></tt>-<tt><a href="hsb_ufal-pos-AUX.html">AUX</a></tt> (3; 1% instances), <tt><a href="hsb_ufal-pos-SYM.html">SYM</a></tt>-<tt><a href="hsb_ufal-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 5 cop	color:blue
-1	Kóžde	kóždy	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	7	nsubj	_	_
-2	z	z	ADP	_	_	4	case	_	_
-3	tutych	tutón	DET	_	Case=Gen|Gender=Neut|Number=Plur|PronType=Dem	4	det	_	_
-4	sydlišćow	sydlišće	NOUN	_	Case=Gen|Gender=Neut|Number=Plur	1	nmod	_	_
-5	bě	być	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	cop	_	_
-6	politisce	politisce	ADV	_	Degree=Pos	7	advmod	_	_
-7	samostatne	samostatny	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	0	root	_	SpaceAfter=No
-8	.	.	PUNCT	_	_	7	punct	_	_
+# visual-style 5 4 cop	color:blue
+1	Tež	tež	ADV	_	_	3	advmod:emph	_	_
+2	archelogoiske	archelogoiski	ADJ	_	Case=Nom|Gender=Fem|Number=Plur	3	amod	_	_
+3	namakanki	namakanki	ADJ	_	Case=Nom|Gender=Fem|Number=Plur	5	nsubj	_	_
+4	su	być	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+5	snadne	snadny	ADJ	_	Case=Nom|Gender=Fem|Number=Plur	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	5	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 4 2 cop	color:blue
-1	Biologija	biologija	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	_
-2	je	być	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
-3	wědomostny	wědomostny	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	_
-4	wobłuk	wobłuk	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
-5	,	,	PUNCT	_	_	7	punct	_	_
-6	kotryž	kotryž	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	7	nsubj	_	_
-7	analyzuje	analyzować	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	acl	_	_
-8	žiwy	žiwy	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	_
-9	swět	swět	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	7	obj	_	SpaceAfter=No
-10	.	.	PUNCT	_	_	4	punct	_	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 4 cop	color:blue
+1	Namakane	namakany	ADJ	_	Case=Nom|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	3	amod	_	_
+2	obsidianowe	obsidianowy	ADJ	_	Case=Nom|Gender=Fem|Number=Plur	3	amod	_	_
+3	brjenki	brjenka	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	5	nsubj	_	_
+4	su	być	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+5	dopokaz	dopokaz	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+6	zažneho	zažny	ADJ	_	Case=Gen|Gender=Neut|Number=Sing	7	amod	_	_
+7	wikowanja	wikowanje	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	5	nmod	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	5	punct	_	_
 
 ~~~
 

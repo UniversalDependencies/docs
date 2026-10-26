@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `SYM` is 1.000000 (the average of all parts of speech is 1.079803).
+The form / lemma ratio of `SYM` is 1.000000 (the average of all parts of speech is 1.079832).
 
 The 1st highest number of forms (1) was observed with the lemma “-”: -.
 
@@ -34,7 +34,7 @@ The 3rd highest number of forms (1) was observed with the lemma “から”: �
 
 ## Relations
 
-`SYM` nodes are attached to their parents using 2 different relations: <tt><a href="ja_pudluw-dep-compound.html">compound</a></tt> (3; 75% instances), <tt><a href="ja_pudluw-dep-dep.html">dep</a></tt> (1; 25% instances)
+`SYM` nodes are attached to their parents using 2 different relations: <tt><a href="ja_pudluw-dep-dep.html">dep</a></tt> (3; 75% instances), <tt><a href="ja_pudluw-dep-compound.html">compound</a></tt> (1; 25% instances)
 
 Parents of `SYM` nodes belong to 3 different parts of speech: <tt><a href="ja_pudluw-pos-NUM.html">NUM</a></tt> (2; 50% instances), <tt><a href="ja_pudluw-pos-NOUN.html">NOUN</a></tt> (1; 25% instances), <tt><a href="ja_pudluw-pos-VERB.html">VERB</a></tt> (1; 25% instances)
 

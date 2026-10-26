@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-79 nodes (0%) are attached to their parents as `dep`.
+83 nodes (0%) are attached to their parents as `dep`.
 
-73 instances of `dep` (92%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.64556962025316.
+77 instances of `dep` (93%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.60240963855422.
 
-The following 15 pairs of parts of speech are connected with `dep`: <tt><a href="pt_dantestocks-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_dantestocks-pos-PRON.html">PRON</a></tt> (23; 29% instances), <tt><a href="pt_dantestocks-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_dantestocks-pos-PRON.html">PRON</a></tt> (22; 28% instances), <tt><a href="pt_dantestocks-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_dantestocks-pos-X.html">X</a></tt> (12; 15% instances), <tt><a href="pt_dantestocks-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_dantestocks-pos-X.html">X</a></tt> (6; 8% instances), <tt><a href="pt_dantestocks-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_dantestocks-pos-ADJ.html">ADJ</a></tt> (4; 5% instances), <tt><a href="pt_dantestocks-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_dantestocks-pos-PRON.html">PRON</a></tt> (2; 3% instances), <tt><a href="pt_dantestocks-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_dantestocks-pos-X.html">X</a></tt> (2; 3% instances), <tt><a href="pt_dantestocks-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pt_dantestocks-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="pt_dantestocks-pos-AUX.html">AUX</a></tt>-<tt><a href="pt_dantestocks-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="pt_dantestocks-pos-NUM.html">NUM</a></tt>-<tt><a href="pt_dantestocks-pos-X.html">X</a></tt> (1; 1% instances), <tt><a href="pt_dantestocks-pos-PRON.html">PRON</a></tt>-<tt><a href="pt_dantestocks-pos-X.html">X</a></tt> (1; 1% instances), <tt><a href="pt_dantestocks-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_dantestocks-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="pt_dantestocks-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_dantestocks-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="pt_dantestocks-pos-X.html">X</a></tt>-<tt><a href="pt_dantestocks-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="pt_dantestocks-pos-X.html">X</a></tt>-<tt><a href="pt_dantestocks-pos-PRON.html">PRON</a></tt> (1; 1% instances).
+The following 16 pairs of parts of speech are connected with `dep`: <tt><a href="pt_dantestocks-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_dantestocks-pos-PRON.html">PRON</a></tt> (23; 28% instances), <tt><a href="pt_dantestocks-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_dantestocks-pos-PRON.html">PRON</a></tt> (22; 27% instances), <tt><a href="pt_dantestocks-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_dantestocks-pos-X.html">X</a></tt> (12; 14% instances), <tt><a href="pt_dantestocks-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_dantestocks-pos-X.html">X</a></tt> (6; 7% instances), <tt><a href="pt_dantestocks-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_dantestocks-pos-ADJ.html">ADJ</a></tt> (4; 5% instances), <tt><a href="pt_dantestocks-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_dantestocks-pos-ADP.html">ADP</a></tt> (4; 5% instances), <tt><a href="pt_dantestocks-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_dantestocks-pos-PRON.html">PRON</a></tt> (2; 2% instances), <tt><a href="pt_dantestocks-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_dantestocks-pos-X.html">X</a></tt> (2; 2% instances), <tt><a href="pt_dantestocks-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pt_dantestocks-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="pt_dantestocks-pos-AUX.html">AUX</a></tt>-<tt><a href="pt_dantestocks-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="pt_dantestocks-pos-NUM.html">NUM</a></tt>-<tt><a href="pt_dantestocks-pos-X.html">X</a></tt> (1; 1% instances), <tt><a href="pt_dantestocks-pos-PRON.html">PRON</a></tt>-<tt><a href="pt_dantestocks-pos-X.html">X</a></tt> (1; 1% instances), <tt><a href="pt_dantestocks-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_dantestocks-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="pt_dantestocks-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_dantestocks-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="pt_dantestocks-pos-X.html">X</a></tt>-<tt><a href="pt_dantestocks-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="pt_dantestocks-pos-X.html">X</a></tt>-<tt><a href="pt_dantestocks-pos-PRON.html">PRON</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -35,7 +35,7 @@ The following 15 pairs of parts of speech are connected with `dep`: <tt><a href=
 11	de	de	ADP	_	_	12	case	_	_
 12	as	o	PRON	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	10	dep	_	_
 13	...	...	PUNCT	_	_	10	punct	_	_
-14	http://t.co/5bHkUTy8AC	http://t.co/5bHkUTy8AC	SYM	_	_	7	parataxis	_	SpaceAfter=No
+14	http://t.co/5bHkUTy8AC	http://t.co/5bHkUTy8AC	SYM	_	_	7	parataxis	_	_
 
 ~~~
 
@@ -69,7 +69,7 @@ The following 15 pairs of parts of speech are connected with `dep`: <tt><a href=
 21	que	que	SCONJ	_	_	22	mark	_	_
 22	todos	todo	PRON	_	Gender=Masc|Number=Plur|PronType=Ind	19	dep	_	SpaceAfter=No
 23	…	…	PUNCT	_	_	19	punct	_	_
-24	http://t.co/GKvokFi439	http://t.co/GKvokFi439	SYM	_	_	19	parataxis	_	SpaceAfter=No
+24	http://t.co/GKvokFi439	http://t.co/GKvokFi439	SYM	_	_	19	parataxis	_	_
 
 ~~~
 
@@ -102,7 +102,7 @@ The following 15 pairs of parts of speech are connected with `dep`: <tt><a href=
 20	Bora	bora	INTJ	_	_	22	discourse	_	_
 21	#llxl3	#llxl3	PROPN	_	_	22	vocative	_	_
 22	coragem	coragem	NOUN	_	Gender=Fem|Number=Sing	2	parataxis	_	_
-23	rsrsr	rsrsr	X	_	_	22	discourse	_	SpaceAfter=No
+23	rsrsr	rsrsr	X	_	_	22	discourse	_	_
 
 ~~~
 

@@ -23,7 +23,7 @@ The following 9 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 6	fgColor:white
 # visual-style 6 3 cop	color:blue
 1	Da	_	DET	_	_	2	det	_	GermanLemma=der
-2	Watschntanz	_	PROPN	_	_	6	nsubj	_	GermanLemma=Watschntanz
+2	Watschntanz	_	NOUN	_	_	6	nsubj	_	GermanLemma=Watschntanz
 3	is	_	AUX	_	_	6	cop	_	GermanLemma=sein
 4	aa	_	DET	_	_	6	det	_	GermanLemma=ein
 5	entfernta	_	ADJ	_	_	6	amod	_	GermanLemma=entfernt

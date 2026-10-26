@@ -152,7 +152,7 @@ The most frequent other feature values with which `PRON` and `Animacy` co-occurr
 
 * `Anim` (865; 84% of non-empty `Animacy`): <em>ho, mu, neho, ich, im, kto, nikto, on, ním, nich</em>
 * `Inan` (160; 16% of non-empty `Animacy`): <em>ho, ich, neho, nich, ňom, ním, nemu, nimi, im, ne</em>
-* `EMPTY` (5410): <em>sa, si, mi, ma, čo, ju, ja, jej, niečo, nič</em>
+* `EMPTY` (5408): <em>sa, si, mi, ma, čo, ju, ja, jej, niečo, nič</em>
 
 <table>
   <tr><th>Paradigm <i>on</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
@@ -182,7 +182,7 @@ The most frequent other feature values with which `AUX` and `Animacy` co-occurre
 
 * `Anim` (212; 62% of non-empty `Animacy`): <em>bol, boli, nebol, býval, neboli</em>
 * `Inan` (129; 38% of non-empty `Animacy`): <em>bol, boli, neboli, nebol, bývali</em>
-* `EMPTY` (3382): <em>som, je, sme, by, bola, sú, bolo, bude, si, boli</em>
+* `EMPTY` (3657): <em>som, je, by, sme, bola, sú, bolo, bude, si, boli</em>
 
 <table>
   <tr><th>Paradigm <i>byť</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
@@ -224,12 +224,12 @@ The most frequent other feature values with which `ADV` and `Animacy` co-occurre
 `ADV` tokens may have the following values of `Animacy`:
 
 * `Inan` (34; 100% of non-empty `Animacy`): <em>raz, ráz, razy</em>
-* `EMPTY` (4411): <em>veľmi, potom, tu, tam, kde, tak, opäť, vtedy, ako, nikdy</em>
+* `EMPTY` (4374): <em>veľmi, potom, tu, tam, kde, tak, opäť, vtedy, nikdy, teraz</em>
 
 ## Relations with Agreement in `Animacy`
 
 The 10 most frequent relations where parent and child node agree in `Animacy`:
-<tt>NOUN --[<tt><a href="sk_snk-dep-amod.html">amod</a></tt>]--> ADJ</tt> (3170; 99%),
+<tt>NOUN --[<tt><a href="sk_snk-dep-amod.html">amod</a></tt>]--> ADJ</tt> (3167; 100%),
 <tt>NOUN --[<tt><a href="sk_snk-dep-det.html">det</a></tt>]--> DET</tt> (1032; 99%),
 <tt>VERB --[<tt><a href="sk_snk-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (979; 89%),
 <tt>VERB --[<tt><a href="sk_snk-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (951; 70%),

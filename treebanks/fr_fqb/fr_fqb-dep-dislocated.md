@@ -24,7 +24,7 @@ The following 7 pairs of parts of speech are connected with `dislocated`: <tt><a
 # visual-style 1 6 dislocated	color:blue
 1	Qu'	que	PRON	_	PronType=Int	0	root	_	SpaceAfter=No
 2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	SpaceAfter=No
-3	-ce	ce	PRON	_	_	1	nsubj	_	_
+3	-ce	ce	PRON	_	PronType=Dem	1	nsubj	_	_
 4	qu'	que	SCONJ	_	_	6	mark	_	SpaceAfter=No
 5	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
 6	aide	aide	NOUN	_	Number=Sing	1	dislocated	_	_
@@ -44,7 +44,7 @@ The following 7 pairs of parts of speech are connected with `dislocated`: <tt><a
 # visual-style 1 7 dislocated	color:blue
 1	Qu'	que	PRON	_	PronType=Int	0	root	_	SpaceAfter=No
 2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	SpaceAfter=No
-3	-ce	ce	PRON	_	_	1	nsubj	_	_
+3	-ce	ce	PRON	_	PronType=Dem	1	nsubj	_	_
 4	-	-	PUNCT	_	_	1	punct	_	_
 5	que	que	SCONJ	_	_	7	mark	_	_
 6	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-33 nodes (4%) are attached to their parents as `advmod`.
+65 nodes (6%) are attached to their parents as `advmod`.
 
-30 instances of `advmod` (91%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.72727272727273.
+62 instances of `advmod` (95%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.92307692307692.
 
-The following 2 pairs of parts of speech are connected with `advmod`: <tt><a href="xum_ikuvina-pos-VERB.html">VERB</a></tt>-<tt><a href="xum_ikuvina-pos-ADV.html">ADV</a></tt> (31; 94% instances), <tt><a href="xum_ikuvina-pos-PRON.html">PRON</a></tt>-<tt><a href="xum_ikuvina-pos-ADV.html">ADV</a></tt> (2; 6% instances).
+The following 2 pairs of parts of speech are connected with `advmod`: <tt><a href="xum_ikuvina-pos-VERB.html">VERB</a></tt>-<tt><a href="xum_ikuvina-pos-ADV.html">ADV</a></tt> (63; 97% instances), <tt><a href="xum_ikuvina-pos-PRON.html">PRON</a></tt>-<tt><a href="xum_ikuvina-pos-ADV.html">ADV</a></tt> (2; 3% instances).
 
 
 ~~~ conllu

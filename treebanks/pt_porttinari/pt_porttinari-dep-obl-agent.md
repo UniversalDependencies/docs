@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="pt_porttinari-dep-obl.html">obl</a></tt>.
 
-496 nodes (0%) are attached to their parents as `obl:agent`.
+498 nodes (0%) are attached to their parents as `obl:agent`.
 
-496 instances of `obl:agent` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.0625.
+498 instances of `obl:agent` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.06827309236948.
 
-The following 5 pairs of parts of speech are connected with `obl:agent`: <tt><a href="pt_porttinari-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_porttinari-pos-NOUN.html">NOUN</a></tt> (344; 69% instances), <tt><a href="pt_porttinari-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_porttinari-pos-PROPN.html">PROPN</a></tt> (139; 28% instances), <tt><a href="pt_porttinari-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_porttinari-pos-PRON.html">PRON</a></tt> (11; 2% instances), <tt><a href="pt_porttinari-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_porttinari-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="pt_porttinari-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_porttinari-pos-SYM.html">SYM</a></tt> (1; 0% instances).
+The following 5 pairs of parts of speech are connected with `obl:agent`: <tt><a href="pt_porttinari-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_porttinari-pos-NOUN.html">NOUN</a></tt> (346; 69% instances), <tt><a href="pt_porttinari-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_porttinari-pos-PROPN.html">PROPN</a></tt> (139; 28% instances), <tt><a href="pt_porttinari-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_porttinari-pos-PRON.html">PRON</a></tt> (11; 2% instances), <tt><a href="pt_porttinari-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_porttinari-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="pt_porttinari-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_porttinari-pos-SYM.html">SYM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -32,7 +32,7 @@ The following 5 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 8	Fernandes	Fernandes	PROPN	_	_	7	flat:name	7:flat:name	SpaceAfter=No
 9	,	,	PUNCT	_	_	10	punct	10:punct	_
 10	51	51	NUM	_	NumType=Card	7	parataxis	7:parataxis	SpaceAfter=No
-11	.	.	PUNCT	_	_	3	punct	3:punct	SpaceAfter=No
+11	.	.	PUNCT	_	_	3	punct	3:punct	_
 
 ~~~
 
@@ -60,7 +60,7 @@ The following 5 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 15	contra	contra	ADP	_	_	17	case	17:case	_
 16	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	17:det	_
 17	Vasco	Vasco	PROPN	_	_	5	obl	5:obl:contra	SpaceAfter=No
-18	.	.	PUNCT	_	_	4	punct	4:punct	SpaceAfter=No
+18	.	.	PUNCT	_	_	4	punct	4:punct	_
 
 ~~~
 
@@ -85,7 +85,7 @@ The following 5 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 12	cometidas	cometer	VERB	_	Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass	11	acl	11:acl	_
 13	por	por	ADP	_	_	14	case	14:case	_
 14	ele	ele	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	obl:agent	12:obl:agent	SpaceAfter=No
-15	.	.	PUNCT	_	_	3	punct	3:punct	SpaceAfter=No
+15	.	.	PUNCT	_	_	3	punct	3:punct	_
 
 ~~~
 

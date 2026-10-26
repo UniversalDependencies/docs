@@ -60,7 +60,13 @@ The 2nd highest number of forms (5) was observed with the lemma “ad”: <em>a,
 
 The 3rd highest number of forms (4) was observed with the lemma “apud”: <em>adput, apput, apud, aput</em>.
 
-`ADP` does not occur with any features.
+`ADP` occurs with 1 features: <tt><a href="la_llct-feat-ExtPos.html">ExtPos</a></tt> (43; 0% instances)
+
+`ADP` occurs with 2 feature-value pairs: `ExtPos=ADP`, `ExtPos=SCONJ`
+
+`ADP` occurs with 3 feature combinations.
+The most frequent feature combination is `_` (22110 tokens).
+Examples: <em>in, ad, per, a, de, cum, inter, ab, pro, post</em>
 
 
 ## Relations

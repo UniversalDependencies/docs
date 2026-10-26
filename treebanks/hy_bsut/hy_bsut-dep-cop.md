@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-761 nodes (2%) are attached to their parents as `cop`.
+848 nodes (2%) are attached to their parents as `cop`.
 
-710 instances of `cop` (93%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.11038107752957.
+795 instances of `cop` (94%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.11438679245283.
 
-The following 10 pairs of parts of speech are connected with `cop`: <tt><a href="hy_bsut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hy_bsut-pos-AUX.html">AUX</a></tt> (363; 48% instances), <tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_bsut-pos-AUX.html">AUX</a></tt> (283; 37% instances), <tt><a href="hy_bsut-pos-PRON.html">PRON</a></tt>-<tt><a href="hy_bsut-pos-AUX.html">AUX</a></tt> (55; 7% instances), <tt><a href="hy_bsut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hy_bsut-pos-AUX.html">AUX</a></tt> (21; 3% instances), <tt><a href="hy_bsut-pos-ADV.html">ADV</a></tt>-<tt><a href="hy_bsut-pos-AUX.html">AUX</a></tt> (20; 3% instances), <tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_bsut-pos-AUX.html">AUX</a></tt> (7; 1% instances), <tt><a href="hy_bsut-pos-SYM.html">SYM</a></tt>-<tt><a href="hy_bsut-pos-AUX.html">AUX</a></tt> (6; 1% instances), <tt><a href="hy_bsut-pos-NUM.html">NUM</a></tt>-<tt><a href="hy_bsut-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="hy_bsut-pos-ADP.html">ADP</a></tt>-<tt><a href="hy_bsut-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="hy_bsut-pos-X.html">X</a></tt>-<tt><a href="hy_bsut-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `cop`: <tt><a href="hy_bsut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hy_bsut-pos-AUX.html">AUX</a></tt> (403; 48% instances), <tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_bsut-pos-AUX.html">AUX</a></tt> (322; 38% instances), <tt><a href="hy_bsut-pos-PRON.html">PRON</a></tt>-<tt><a href="hy_bsut-pos-AUX.html">AUX</a></tt> (58; 7% instances), <tt><a href="hy_bsut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hy_bsut-pos-AUX.html">AUX</a></tt> (24; 3% instances), <tt><a href="hy_bsut-pos-ADV.html">ADV</a></tt>-<tt><a href="hy_bsut-pos-AUX.html">AUX</a></tt> (20; 2% instances), <tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_bsut-pos-AUX.html">AUX</a></tt> (9; 1% instances), <tt><a href="hy_bsut-pos-SYM.html">SYM</a></tt>-<tt><a href="hy_bsut-pos-AUX.html">AUX</a></tt> (6; 1% instances), <tt><a href="hy_bsut-pos-NUM.html">NUM</a></tt>-<tt><a href="hy_bsut-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="hy_bsut-pos-ADP.html">ADP</a></tt>-<tt><a href="hy_bsut-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="hy_bsut-pos-X.html">X</a></tt>-<tt><a href="hy_bsut-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -22,11 +22,11 @@ The following 10 pairs of parts of speech are connected with `cop`: <tt><a href=
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 8 cop	color:blue
-1	1	1	NUM	_	NumForm=Digit|NumType=Card	4	nummod	_	Translit=1|LTranslit=1|SpaceAfter=No
-2	.	.	PUNCT	_	_	1	punct	_	Translit=.|LTranslit=.
+1	1	1	NUM	_	NumForm=Digit|NumType=Card	4	discourse	_	Translit=1|LTranslit=1|SpaceAfter=No
+2	.	.	PUNCT	_	Foreign=Yes	1	punct	_	Translit=.|LTranslit=.
 3	Նյութի	նյութ	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	4	nmod:poss	_	Translit=Nyowt’i|LTranslit=nyowt’
 4	իսկություն	իսկություն	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Coll	0	root	_	Translit=iskowt’yown|LTranslit=iskowt’yown|SpaceAfter=No
-5	.	.	PUNCT	_	_	4	punct	_	Translit=.|LTranslit=.
+5	.	.	PUNCT	_	Foreign=Yes	4	punct	_	Translit=.|LTranslit=.
 6	օրիգինալ	օրիգինալ	ADJ	_	Degree=Pos	4	appos	_	Translit=òriginal|LTranslit=òriginal
 7	՞	՞	PUNCT	_	_	6	punct	_	Translit=?|LTranslit=?
 8	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	6	cop	_	Translit=ē|LTranslit=em

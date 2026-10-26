@@ -12,11 +12,11 @@ It occurs with 4 different values: `Count`, `Dual`, `Plur`, `Sing`.
 91171 tokens (54%) have a non-empty value of `Number`.
 28545 types (91%) occur at least once with a non-empty value of `Number`.
 11111 lemmas (89%) occur at least once with a non-empty value of `Number`.
-The feature is used with 8 part-of-speech tags: <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (37229; 22% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (13347; 8% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (12204; 7% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (11211; 7% instances), <tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (8107; 5% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (7682; 5% instances), <tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> (1124; 1% instances), <tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> (267; 0% instances).
+The feature is used with 8 part-of-speech tags: <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (37228; 22% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (13348; 8% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (12204; 7% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (11212; 7% instances), <tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (8107; 5% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (7682; 5% instances), <tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> (1123; 1% instances), <tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> (267; 0% instances).
 
 ### `NOUN`
 
-37229 <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> tokens (99% of all `NOUN` tokens) have a non-empty value of `Number`.
+37228 <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> tokens (99% of all `NOUN` tokens) have a non-empty value of `Number`.
 
 The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (20020; 54%).
 
@@ -25,7 +25,7 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 * `Count` (1086; 3% of non-empty `Number`): <em>чети, гривенки, верха, деревни, двора, человека, барана, пустоши, пучни, оси</em>
 * `Dual` (25; 0% of non-empty `Number`): <em>руце, лѣту, нозѣ, сынома, брата, брату, выи, жени, краи, оброку</em>
 * `Plur` (10226; 27% of non-empty `Number`): <em>людей, люди, гривенок, чети, товарыщи, дворов, денегъ, рублевъ, денги, человек</em>
-* `Sing` (25892; 70% of non-empty `Number`): <em>день, государь, году, князя, князь, государю, весу, государя, царь, царя</em>
+* `Sing` (25891; 70% of non-empty `Number`): <em>день, государь, году, князя, князь, государю, весу, государя, царь, царя</em>
 * `EMPTY` (558): <em>г., х., д., де, л., об., с., ден., дес., дер.</em>
 
 <table>
@@ -40,16 +40,16 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 
 ### `ADJ`
 
-13347 <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> tokens (99% of all `ADJ` tokens) have a non-empty value of `Number`.
+13348 <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> tokens (99% of all `ADJ` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="orv_rnc-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (11983; 90%), <tt><a href="orv_rnc-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (11514; 86%), <tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (7402; 55%).
+The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="orv_rnc-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (11983; 90%), <tt><a href="orv_rnc-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (11515; 86%), <tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (7402; 55%).
 
 `ADJ` tokens may have the following values of `Number`:
 
 * `Count` (3; 0% of non-empty `Number`): <em>верных, глухие, дългѣи</em>
 * `Dual` (1; 0% of non-empty `Number`): <em>велице</em>
 * `Plur` (3645; 27% of non-empty `Number`): <em>крестьянских, великихъ, пустых, государевы, святых, медные, живущих, золочены, серебреные, боярскіе</em>
-* `Sing` (9698; 73% of non-empty `Number`): <em>великого, великому, великий, великии, государеву, государева, оржанои, пречистые, 178-г(о), вытным</em>
+* `Sing` (9699; 73% of non-empty `Number`): <em>великого, великому, великий, великии, государеву, государева, оржанои, пречистые, 178-г(о), вытным</em>
 * `EMPTY` (203): <em>мочно, пригоже, возможно, ведомо, вѣдомо, надобно, невозможно, болше, годно, известно</em>
 
 <table>
@@ -117,15 +117,15 @@ The most frequent other feature values with which `PROPN` and `Number` co-occurr
 
 ### `VERB`
 
-11211 <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> tokens (75% of all `VERB` tokens) have a non-empty value of `Number`.
+11212 <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> tokens (75% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="orv_rnc-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (9505; 85%), <tt><a href="orv_rnc-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (9002; 80%), <tt><a href="orv_rnc-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (8408; 75%), <tt><a href="orv_rnc-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (7114; 63%), <tt><a href="orv_rnc-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (6210; 55%), <tt><a href="orv_rnc-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (6199; 55%), <tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (6153; 55%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="orv_rnc-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (9506; 85%), <tt><a href="orv_rnc-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (9003; 80%), <tt><a href="orv_rnc-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (8409; 75%), <tt><a href="orv_rnc-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (7115; 63%), <tt><a href="orv_rnc-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (6211; 55%), <tt><a href="orv_rnc-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (6200; 55%), <tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (6153; 55%).
 
 `VERB` tokens may have the following values of `Number`:
 
 * `Dual` (15; 0% of non-empty `Number`): <em>бѣста, сѣдоста, вариста, въпрашаста, испросистася, начаста, полꙋчи(с)те, поѣдоста, приста, съвокуписта</em>
 * `Plur` (3561; 32% of non-empty `Number`): <em>пришли, пошли, построены, били, велели, отпущены, сказали, были, приехали, стали</em>
-* `Sing` (7635; 68% of non-empty `Number`): <em>смерено, взято, велел, пожаловал, дал, писал, сказал, велѣлъ, принето, послал</em>
+* `Sing` (7636; 68% of non-empty `Number`): <em>смерено, взято, велел, пожаловал, дал, писал, сказал, велѣлъ, принето, послал</em>
 * `EMPTY` (3641): <em>имати, дати, нет, взять, ѣхати, быть, писать, дать, нѣтъ, жити</em>
 
 <table>
@@ -198,7 +198,7 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 
 7682 <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> tokens (95% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="orv_rnc-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (5700; 74%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="orv_rnc-feat-ExtPos.html">ExtPos</a></tt><tt>=EMPTY</tt> (6678; 87%), <tt><a href="orv_rnc-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (5700; 74%).
 
 `PRON` tokens may have the following values of `Number`:
 
@@ -208,9 +208,11 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 <table>
   <tr><th>Paradigm <i>онъ</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt><tt><a href="orv_rnc-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="orv_rnc-feat-ExtPos.html">ExtPos</a></tt><tt>=DET</tt>|<tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>ево</em></td><td></td></tr>
   <tr><td><tt><tt><a href="orv_rnc-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>ево, его, него, нево, нѣго, єго</em></td><td><em>их</em></td></tr>
   <tr><td><tt><tt><a href="orv_rnc-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>ему, нему, емꙋ, єму, немꙋ</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="orv_rnc-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>его, ево, него, нево, єго, евѡ, ег[о], егѡ, невѡ, нег[о], нѣгѡ</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="orv_rnc-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="orv_rnc-feat-ExtPos.html">ExtPos</a></tt><tt>=DET</tt>|<tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>его, ево, єго, евѡ, ег[о], егѡ</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="orv_rnc-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>него, нево, его, ево, евѡ, невѡ, нег[о], нѣгѡ</em></td><td></td></tr>
   <tr><td><tt><tt><a href="orv_rnc-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>еꙗ</em></td><td></td></tr>
   <tr><td><tt><tt><a href="orv_rnc-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>ним, нимъ, им, имъ</em></td><td><em>НИМЪ</em></td></tr>
   <tr><td><tt><tt><a href="orv_rnc-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>нем, немъ, не(м), не[м], немь, нѣмъ</em></td><td></td></tr>
@@ -220,14 +222,14 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 ### `AUX`
 
-1124 <tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> tokens (76% of all `AUX` tokens) have a non-empty value of `Number`.
+1123 <tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> tokens (76% of all `AUX` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="orv_rnc-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1124; 100%), <tt><a href="orv_rnc-feat-Analyt.html">Analyt</a></tt><tt>=EMPTY</tt> (1106; 98%), <tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (860; 77%), <tt><a href="orv_rnc-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (776; 69%), <tt><a href="orv_rnc-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (742; 66%).
+The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="orv_rnc-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1123; 100%), <tt><a href="orv_rnc-feat-Analyt.html">Analyt</a></tt><tt>=EMPTY</tt> (1105; 98%), <tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (860; 77%), <tt><a href="orv_rnc-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (776; 69%), <tt><a href="orv_rnc-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (742; 66%).
 
 `AUX` tokens may have the following values of `Number`:
 
-* `Plur` (264; 23% of non-empty `Number`): <em>были, суть, есмя, есте, будут, будутъ, быша, есмы, будете, бяху</em>
-* `Sing` (860; 77% of non-empty `Number`): <em>было, будет, есть, бысть, есми, будетъ, былъ, была, был, есмь</em>
+* `Plur` (264; 24% of non-empty `Number`): <em>были, суть, есмя, есте, будут, будутъ, быша, есмы, будете, бяху</em>
+* `Sing` (859; 76% of non-empty `Number`): <em>было, будет, есть, бысть, есми, будетъ, былъ, была, был, есмь</em>
 * `EMPTY` (349): <em>бы, б, быти, быть, бъ, будучи, быт(ь), быт[и], [б], будущи</em>
 
 <table>
@@ -307,14 +309,14 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="orv_rnc-dep-amod.html">amod</a></tt>]--> ADJ</tt> (10484; 97%),
-<tt>NOUN --[<tt><a href="orv_rnc-dep-det.html">det</a></tt>]--> DET</tt> (6479; 99%),
-<tt>NOUN --[<tt><a href="orv_rnc-dep-conj.html">conj</a></tt>]--> NOUN</tt> (3918; 69%),
-<tt>NOUN --[<tt><a href="orv_rnc-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (3563; 62%),
+<tt>NOUN --[<tt><a href="orv_rnc-dep-amod.html">amod</a></tt>]--> ADJ</tt> (10490; 97%),
+<tt>NOUN --[<tt><a href="orv_rnc-dep-det.html">det</a></tt>]--> DET</tt> (6408; 99%),
+<tt>NOUN --[<tt><a href="orv_rnc-dep-conj.html">conj</a></tt>]--> NOUN</tt> (3919; 69%),
+<tt>NOUN --[<tt><a href="orv_rnc-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (3564; 62%),
 <tt>PROPN --[<tt><a href="orv_rnc-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (3251; 99%),
 <tt>NOUN --[<tt><a href="orv_rnc-dep-appos.html">appos</a></tt>]--> PROPN</tt> (2871; 91%),
-<tt>VERB --[<tt><a href="orv_rnc-dep-conj.html">conj</a></tt>]--> VERB</tt> (2859; 74%),
+<tt>VERB --[<tt><a href="orv_rnc-dep-conj.html">conj</a></tt>]--> VERB</tt> (2858; 74%),
 <tt>VERB --[<tt><a href="orv_rnc-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (2369; 85%),
 <tt>VERB --[<tt><a href="orv_rnc-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (1303; 94%),
-<tt>NOUN --[<tt><a href="orv_rnc-dep-appos.html">appos</a></tt>]--> NOUN</tt> (1117; 88%).
+<tt>NOUN --[<tt><a href="orv_rnc-dep-appos.html">appos</a></tt>]--> NOUN</tt> (1119; 87%).
 

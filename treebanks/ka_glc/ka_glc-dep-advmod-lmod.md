@@ -13,7 +13,7 @@ This relation is a language-specific subtype of <tt><a href="ka_glc-dep-advmod.h
 39 instances of `advmod:lmod` (91%) are right-to-left (child precedes parent).
 Average distance between parent and child is 2.86046511627907.
 
-The following 5 pairs of parts of speech are connected with `advmod:lmod`: <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_glc-pos-ADV.html">ADV</a></tt> (22; 51% instances), <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_glc-pos-ADV.html">ADV</a></tt> (9; 21% instances), <tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ka_glc-pos-ADV.html">ADV</a></tt> (6; 14% instances), <tt><a href="ka_glc-pos-ADV.html">ADV</a></tt>-<tt><a href="ka_glc-pos-ADV.html">ADV</a></tt> (5; 12% instances), <tt><a href="ka_glc-pos-NUM.html">NUM</a></tt>-<tt><a href="ka_glc-pos-ADV.html">ADV</a></tt> (1; 2% instances).
+The following 5 pairs of parts of speech are connected with `advmod:lmod`: <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_glc-pos-ADV.html">ADV</a></tt> (23; 53% instances), <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_glc-pos-ADV.html">ADV</a></tt> (9; 21% instances), <tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ka_glc-pos-ADV.html">ADV</a></tt> (5; 12% instances), <tt><a href="ka_glc-pos-ADV.html">ADV</a></tt>-<tt><a href="ka_glc-pos-ADV.html">ADV</a></tt> (5; 12% instances), <tt><a href="ka_glc-pos-NUM.html">NUM</a></tt>-<tt><a href="ka_glc-pos-ADV.html">ADV</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -23,7 +23,7 @@ The following 5 pairs of parts of speech are connected with `advmod:lmod`: <tt><
 # visual-style 2	fgColor:white
 # visual-style 2 1 advmod:lmod	color:blue
 1	აქედან	აქედან	ADV	Adv	AdvType=Loc	2	advmod:lmod	_	Translit=akʻedan
-2	წარმოიშვა	იშვება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Past|Voice=Pass	0	root	_	Translit=carmoišva
+2	წარმოიშვა	იშვება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	Translit=carmoišva
 3	სახელწოდება	სახელწოდება	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	2	nsubj	_	Translit=saxelcodeba
 4	მინერალური	მინერალური	ADJ	Adj	Case=Nom|Number=Sing	5	amod	_	Translit=mineraluri
 5	ქიმია	ქიმია	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	2	appos	_	SpaceAfter=No|Translit=kʻimia

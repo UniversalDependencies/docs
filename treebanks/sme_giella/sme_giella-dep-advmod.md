@@ -10,10 +10,10 @@ This relation is universal.
 
 2057 nodes (8%) are attached to their parents as `advmod`.
 
-1205 instances of `advmod` (59%) are right-to-left (child precedes parent).
+1206 instances of `advmod` (59%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.81915410792416.
 
-The following 8 pairs of parts of speech are connected with `advmod`: <tt><a href="sme_giella-pos-VERB.html">VERB</a></tt>-<tt><a href="sme_giella-pos-ADV.html">ADV</a></tt> (1603; 78% instances), <tt><a href="sme_giella-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sme_giella-pos-ADV.html">ADV</a></tt> (173; 8% instances), <tt><a href="sme_giella-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sme_giella-pos-ADV.html">ADV</a></tt> (137; 7% instances), <tt><a href="sme_giella-pos-ADV.html">ADV</a></tt>-<tt><a href="sme_giella-pos-ADV.html">ADV</a></tt> (53; 3% instances), <tt><a href="sme_giella-pos-PRON.html">PRON</a></tt>-<tt><a href="sme_giella-pos-ADV.html">ADV</a></tt> (39; 2% instances), <tt><a href="sme_giella-pos-NUM.html">NUM</a></tt>-<tt><a href="sme_giella-pos-ADV.html">ADV</a></tt> (38; 2% instances), <tt><a href="sme_giella-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sme_giella-pos-ADV.html">ADV</a></tt> (10; 0% instances), <tt><a href="sme_giella-pos-VERB.html">VERB</a></tt>-<tt><a href="sme_giella-pos-ADJ.html">ADJ</a></tt> (4; 0% instances).
+The following 8 pairs of parts of speech are connected with `advmod`: <tt><a href="sme_giella-pos-VERB.html">VERB</a></tt>-<tt><a href="sme_giella-pos-ADV.html">ADV</a></tt> (1603; 78% instances), <tt><a href="sme_giella-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sme_giella-pos-ADV.html">ADV</a></tt> (173; 8% instances), <tt><a href="sme_giella-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sme_giella-pos-ADV.html">ADV</a></tt> (136; 7% instances), <tt><a href="sme_giella-pos-ADV.html">ADV</a></tt>-<tt><a href="sme_giella-pos-ADV.html">ADV</a></tt> (53; 3% instances), <tt><a href="sme_giella-pos-NUM.html">NUM</a></tt>-<tt><a href="sme_giella-pos-ADV.html">ADV</a></tt> (39; 2% instances), <tt><a href="sme_giella-pos-PRON.html">PRON</a></tt>-<tt><a href="sme_giella-pos-ADV.html">ADV</a></tt> (39; 2% instances), <tt><a href="sme_giella-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sme_giella-pos-ADV.html">ADV</a></tt> (10; 0% instances), <tt><a href="sme_giella-pos-VERB.html">VERB</a></tt>-<tt><a href="sme_giella-pos-ADJ.html">ADJ</a></tt> (4; 0% instances).
 
 
 ~~~ conllu

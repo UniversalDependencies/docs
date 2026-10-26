@@ -17,7 +17,7 @@ then it should be analyzed with these more standard relations, even if it is lai
 
 ~~~ sdparse
 Պետրոս Պետրոսյան , հեռ . ՝ ( 010 ) 101-010 , էլ . փոստ ՝ petros@petros.am
-flat(Պետրոս, Պետրոսյան)
+flat:name(Պետրոս, Պետրոսյան)
 list(Պետրոս, հեռ)
 list(Պետրոս, փոստ)
 amod(փոստ, էլ)
@@ -25,4 +25,4 @@ appos(հեռ, 010)
 flat(010, 101-010)
 appos(փոստ, petros@petros.am)
 ~~~
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:59 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:14 CEST -->

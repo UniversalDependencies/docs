@@ -32,7 +32,7 @@ The 10 most frequent ambiguous types:  <em>cap</em> (<tt><a href="ro_nonstandard
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.142857 (the average of all parts of speech is 2.491875).
+The form / lemma ratio of `X` is 1.142857 (the average of all parts of speech is 2.492163).
 
 The 1st highest number of forms (2) was observed with the lemma “capitol”: <em>cap, cap.</em>.
 

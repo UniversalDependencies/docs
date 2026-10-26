@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-30 nodes (4%) are attached to their parents as `nsubj`.
+39 nodes (3%) are attached to their parents as `nsubj`.
 
-26 instances of `nsubj` (87%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.9.
+36 instances of `nsubj` (92%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.92307692307692.
 
-The following 7 pairs of parts of speech are connected with `nsubj`: <tt><a href="xum_ikuvina-pos-VERB.html">VERB</a></tt>-<tt><a href="xum_ikuvina-pos-NOUN.html">NOUN</a></tt> (16; 53% instances), <tt><a href="xum_ikuvina-pos-VERB.html">VERB</a></tt>-<tt><a href="xum_ikuvina-pos-PRON.html">PRON</a></tt> (6; 20% instances), <tt><a href="xum_ikuvina-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xum_ikuvina-pos-PRON.html">PRON</a></tt> (3; 10% instances), <tt><a href="xum_ikuvina-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xum_ikuvina-pos-NOUN.html">NOUN</a></tt> (2; 7% instances), <tt><a href="xum_ikuvina-pos-ADV.html">ADV</a></tt>-<tt><a href="xum_ikuvina-pos-PRON.html">PRON</a></tt> (1; 3% instances), <tt><a href="xum_ikuvina-pos-AUX.html">AUX</a></tt>-<tt><a href="xum_ikuvina-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="xum_ikuvina-pos-VERB.html">VERB</a></tt>-<tt><a href="xum_ikuvina-pos-PROPN.html">PROPN</a></tt> (1; 3% instances).
+The following 6 pairs of parts of speech are connected with `nsubj`: <tt><a href="xum_ikuvina-pos-VERB.html">VERB</a></tt>-<tt><a href="xum_ikuvina-pos-NOUN.html">NOUN</a></tt> (21; 54% instances), <tt><a href="xum_ikuvina-pos-VERB.html">VERB</a></tt>-<tt><a href="xum_ikuvina-pos-PRON.html">PRON</a></tt> (10; 26% instances), <tt><a href="xum_ikuvina-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xum_ikuvina-pos-PRON.html">PRON</a></tt> (4; 10% instances), <tt><a href="xum_ikuvina-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xum_ikuvina-pos-NOUN.html">NOUN</a></tt> (2; 5% instances), <tt><a href="xum_ikuvina-pos-ADV.html">ADV</a></tt>-<tt><a href="xum_ikuvina-pos-PRON.html">PRON</a></tt> (1; 3% instances), <tt><a href="xum_ikuvina-pos-AUX.html">AUX</a></tt>-<tt><a href="xum_ikuvina-pos-NOUN.html">NOUN</a></tt> (1; 3% instances).
 
 
 ~~~ conllu

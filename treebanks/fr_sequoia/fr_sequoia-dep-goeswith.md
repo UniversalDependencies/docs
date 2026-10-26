@@ -22,18 +22,18 @@ The following 2 pairs of parts of speech are connected with `goeswith`: <tt><a h
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 3 goeswith	color:blue
-1	Troubles	trouble	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_
-2	musculo	musculo-squelettique	ADJ	_	Typo=Yes	1	amod	_	_
+1	Troubles	trouble	NOUN	_	Gender=Masc|Number=Plur	0	root	_	Exponence[Gender]=Inherent
+2	musculo	musculo-squelettique	ADJ	_	Gender=Masc|Number=Plur|Typo=Yes	1	amod	_	_
 3	squelettiques	_	X	_	_	2	goeswith	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	7	punct	_	_
 5	de	de	ADP	_	_	7	case	_	_
 6	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
-7	tissu	tissu	NOUN	_	Gender=Masc|Number=Sing	1	nmod	_	_
+7	tissu	tissu	NOUN	_	Gender=Masc|Number=Sing	1	nmod	_	Exponence[Gender]=Inherent
 8	conjonctif	conjonctif	ADJ	_	Gender=Masc|Number=Sing	7	amod	_	_
 9	et	et	CCONJ	_	_	12	cc	_	_
 10	de	de	ADP	_	_	12	case	_	_
 11	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	12	det	_	_
-12	os	os	NOUN	_	Gender=Masc|Number=Plur	7	conj	_	_
+12	os	os	NOUN	_	Gender=Masc|Number=Plur	7	conj	_	Exponence[Gender]=Inherent|Exponence[Number]=Absent
 
 ~~~
 
@@ -44,46 +44,46 @@ The following 2 pairs of parts of speech are connected with `goeswith`: <tt><a h
 # visual-style 20	bgColor:blue
 # visual-style 20	fgColor:white
 # visual-style 20 21 goeswith	color:blue
-1	Traitement	traitement	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+1	Traitement	traitement	NOUN	_	Gender=Masc|Number=Sing	0	root	_	Exponence[Gender]=Inherent
 2	de	de	ADP	_	_	4	case	_	_
 3	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	4	det	_	_
-4	patients	patient	NOUN	_	Gender=Masc|Number=Plur	1	nmod	_	_
-5	atteints	atteindre	VERB	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	4	acl	_	_
+4	patients	patient	NOUN	_	Gender=Masc|Number=Plur	1	nmod	_	Exponence[Gender]=Inherent
+5	atteints	atteindre	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass	4	acl	_	Tense[denom]=Past
 6	d'	de	ADP	_	_	8	case	_	SpaceAfter=No
 7	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
-8	syndrome	syndrome	NOUN	_	Gender=Masc|Number=Sing	5	obl:agent	_	_
+8	syndrome	syndrome	NOUN	_	Gender=Masc|Number=Sing	5	obl:agent	_	Exponence[Gender]=Inherent
 9	coronarien	coronarien	ADJ	_	Gender=Masc|Number=Sing	8	amod	_	_
 10	aigu	aigu	ADJ	_	Gender=Masc|Number=Sing	8	amod	_	_
 11	(	(	PUNCT	_	_	12	punct	_	SpaceAfter=No
-12	angor	angor	NOUN	_	Gender=Masc|Number=Sing	8	appos	_	_
-13	instable	instable	ADJ	_	Number=Sing	12	amod	_	_
+12	angor	angor	NOUN	_	Gender=Masc|Number=Sing	8	appos	_	Exponence[Gender]=Inherent
+13	instable	instable	ADJ	_	Gender=Masc|Number=Sing	12	amod	_	Exponence[Gender]=Absent
 14	/	ou	CCONJ	_	_	15	cc	_	_
-15	infarctus	infarctus	NOUN	_	Gender=Masc|Number=Sing	12	conj	_	_
+15	infarctus	infarctus	NOUN	_	Gender=Masc|Number=Sing	12	conj	_	Exponence[Gender]=Inherent|Exponence[Number]=Absent
 16	de	de	ADP	_	_	18	case	_	_
 17	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
-18	myocarde	myocarde	NOUN	_	Gender=Masc|Number=Sing	15	nmod	_	_
+18	myocarde	myocarde	NOUN	_	Gender=Masc|Number=Sing	15	nmod	_	Exponence[Gender]=Inherent
 19	sans	sans	ADP	_	_	20	case	_	_
-20	sus	sus-décalage	NOUN	_	Typo=Yes	15	nmod	_	CorrectForm=sus-décalage
+20	sus	sus-décalage	NOUN	_	Gender=Masc|Typo=Yes	15	nmod	_	CorrectForm=sus-décalage|Exponence[Gender]=Inherent
 21	décalage	_	X	_	_	20	goeswith	_	_
 22	de	de	ADP	_	_	24	case	_	_
 23	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	24	det	_	_
-24	segment	segment	NOUN	_	Gender=Masc|Number=Sing	20	nmod	_	_
+24	segment	segment	NOUN	_	Gender=Masc|Number=Sing	20	nmod	_	Exponence[Gender]=Inherent
 25	ST	ST	NOUN	_	_	24	nmod	_	_
 26	(	(	PUNCT	_	_	27	punct	_	SpaceAfter=No
 27	AI	AI	NOUN	_	_	12	appos	_	_
-28	/	/	SYM	_	_	29	cc	_	_
+28	/	/	SYM	_	ExtPos=CCONJ	29	cc	_	_
 29	IDM	IDM	X	_	_	27	conj	_	_
 30	ST-	ST-	X	_	_	29	flat:name	_	SpaceAfter=No
 31	)	)	PUNCT	_	_	27	punct	_	SpaceAfter=No
 32	)	)	PUNCT	_	_	27	punct	_	_
-33	devant	devoir	VERB	_	Tense=Pres|VerbForm=Part	4	acl	_	_
+33	devant	devoir	VERB	_	VerbForm=Part	4	acl	_	Tense[denom]=Pres
 34	bénéficier	bénéficier	VERB	_	VerbForm=Inf	33	xcomp	_	Subject=SubjRaising
 35	d'	de	ADP	_	_	37	case	_	SpaceAfter=No
 36	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	37	det	_	_
-37	intervention	intervention	NOUN	_	Gender=Fem|Number=Sing	34	obl:arg	_	_
+37	intervention	intervention	NOUN	_	Gender=Fem|Number=Sing	34	obl:arg	_	Exponence[Gender]=Inherent
 38	urgente	urgent	ADJ	_	Gender=Fem|Number=Sing	37	amod	_	_
 39	ou	ou	CCONJ	_	_	40	cc	_	_
-40	précoce	précoce	ADJ	_	Number=Sing	38	conj	_	SpaceAfter=No
+40	précoce	précoce	ADJ	_	Gender=Fem|Number=Sing	38	conj	_	Exponence[Gender]=Absent|SpaceAfter=No
 41	.	.	PUNCT	_	_	1	punct	_	_
 
 ~~~

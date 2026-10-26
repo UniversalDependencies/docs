@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Hebrew-HTB: POS Tags: `ADP`
 
-There are 155 `ADP` lemmas (1%), 205 `ADP` types (1%) and 26586 `ADP` tokens (17%).
+There are 154 `ADP` lemmas (1%), 205 `ADP` types (1%) and 26586 `ADP` tokens (17%).
 Out of 15 observed tags, the rank of `ADP` is: 7 in number of lemmas, 7 in number of types and 2 in number of tokens.
 
 The 10 most frequent `ADP` lemmas: ב, של, ל, את, מ, על, כ, עם, בין, מן
@@ -57,7 +57,7 @@ The 10 most frequent ambiguous types:  ב (<tt><a href="he_htb-pos-ADP.html">ADP
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.322581 (the average of all parts of speech is 1.702584).
+The form / lemma ratio of `ADP` is 1.331169 (the average of all parts of speech is 1.702737).
 
 The 1st highest number of forms (9) was observed with the lemma “את”: איתם, את, את_, אתה, אתו, אתך, אתכם, אתם, אתנו.
 
@@ -65,18 +65,18 @@ The 2nd highest number of forms (7) was observed with the lemma “של”: _ש�
 
 The 3rd highest number of forms (5) was observed with the lemma “ל”: ל, ל_, לבד, להם, לו.
 
-`ADP` occurs with 3 features: <tt><a href="he_htb-feat-Case.html">Case</a></tt> (4336; 16% instances), <tt><a href="he_htb-feat-Definite.html">Definite</a></tt> (11; 0% instances), <tt><a href="he_htb-feat-Abbr.html">Abbr</a></tt> (7; 0% instances)
+`ADP` occurs with 3 features: <tt><a href="he_htb-feat-Case.html">Case</a></tt> (4335; 16% instances), <tt><a href="he_htb-feat-Definite.html">Definite</a></tt> (11; 0% instances), <tt><a href="he_htb-feat-Abbr.html">Abbr</a></tt> (7; 0% instances)
 
 `ADP` occurs with 5 feature-value pairs: `Abbr=Yes`, `Case=Acc`, `Case=Gen`, `Case=Tem`, `Definite=Def`
 
 `ADP` occurs with 6 feature combinations.
-The most frequent feature combination is `_` (22232 tokens).
+The most frequent feature combination is `_` (22233 tokens).
 Examples: ב, ל, _של_, מ, על, כ, עם, ל_, ב_, בין
 
 
 ## Relations
 
-`ADP` nodes are attached to their parents using 16 different relations: <tt><a href="he_htb-dep-case.html">case</a></tt> (19186; 72% instances), <tt><a href="he_htb-dep-case-gen.html">case:gen</a></tt> (4812; 18% instances), <tt><a href="he_htb-dep-case-acc.html">case:acc</a></tt> (1947; 7% instances), <tt><a href="he_htb-dep-fixed.html">fixed</a></tt> (352; 1% instances), <tt><a href="he_htb-dep-mark.html">mark</a></tt> (154; 1% instances), <tt><a href="he_htb-dep-dep.html">dep</a></tt> (110; 0% instances), <tt><a href="he_htb-dep-conj.html">conj</a></tt> (7; 0% instances), <tt><a href="he_htb-dep-flat-name.html">flat:name</a></tt> (4; 0% instances), <tt><a href="he_htb-dep-obl.html">obl</a></tt> (3; 0% instances), <tt><a href="he_htb-dep-nmod.html">nmod</a></tt> (2; 0% instances), <tt><a href="he_htb-dep-nsubj.html">nsubj</a></tt> (2; 0% instances), <tt><a href="he_htb-dep-obj.html">obj</a></tt> (2; 0% instances), <tt><a href="he_htb-dep-parataxis.html">parataxis</a></tt> (2; 0% instances), <tt><a href="he_htb-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="he_htb-dep-appos.html">appos</a></tt> (1; 0% instances), <tt><a href="he_htb-dep-nmod-poss.html">nmod:poss</a></tt> (1; 0% instances)
+`ADP` nodes are attached to their parents using 16 different relations: <tt><a href="he_htb-dep-case.html">case</a></tt> (19187; 72% instances), <tt><a href="he_htb-dep-case-gen.html">case:gen</a></tt> (4812; 18% instances), <tt><a href="he_htb-dep-case-acc.html">case:acc</a></tt> (1946; 7% instances), <tt><a href="he_htb-dep-fixed.html">fixed</a></tt> (352; 1% instances), <tt><a href="he_htb-dep-mark.html">mark</a></tt> (154; 1% instances), <tt><a href="he_htb-dep-dep.html">dep</a></tt> (110; 0% instances), <tt><a href="he_htb-dep-conj.html">conj</a></tt> (7; 0% instances), <tt><a href="he_htb-dep-flat-name.html">flat:name</a></tt> (4; 0% instances), <tt><a href="he_htb-dep-obl.html">obl</a></tt> (3; 0% instances), <tt><a href="he_htb-dep-nmod.html">nmod</a></tt> (2; 0% instances), <tt><a href="he_htb-dep-nsubj.html">nsubj</a></tt> (2; 0% instances), <tt><a href="he_htb-dep-obj.html">obj</a></tt> (2; 0% instances), <tt><a href="he_htb-dep-parataxis.html">parataxis</a></tt> (2; 0% instances), <tt><a href="he_htb-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="he_htb-dep-appos.html">appos</a></tt> (1; 0% instances), <tt><a href="he_htb-dep-nmod-poss.html">nmod:poss</a></tt> (1; 0% instances)
 
 Parents of `ADP` nodes belong to 14 different parts of speech: <tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt> (17720; 67% instances), <tt><a href="he_htb-pos-PRON.html">PRON</a></tt> (4828; 18% instances), <tt><a href="he_htb-pos-PROPN.html">PROPN</a></tt> (2303; 9% instances), <tt><a href="he_htb-pos-VERB.html">VERB</a></tt> (708; 3% instances), <tt><a href="he_htb-pos-NUM.html">NUM</a></tt> (296; 1% instances), <tt><a href="he_htb-pos-ADV.html">ADV</a></tt> (291; 1% instances), <tt><a href="he_htb-pos-ADP.html">ADP</a></tt> (198; 1% instances), <tt><a href="he_htb-pos-ADJ.html">ADJ</a></tt> (173; 1% instances), <tt><a href="he_htb-pos-CCONJ.html">CCONJ</a></tt> (28; 0% instances), <tt><a href="he_htb-pos-DET.html">DET</a></tt> (17; 0% instances), <tt><a href="he_htb-pos-SCONJ.html">SCONJ</a></tt> (10; 0% instances), <tt><a href="he_htb-pos-AUX.html">AUX</a></tt> (8; 0% instances), <tt><a href="he_htb-pos-X.html">X</a></tt> (5; 0% instances), <tt><a href="he_htb-pos-INTJ.html">INTJ</a></tt> (1; 0% instances)
 

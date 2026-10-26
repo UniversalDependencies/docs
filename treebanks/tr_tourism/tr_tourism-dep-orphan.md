@@ -22,9 +22,9 @@ The following 1 pairs of parts of speech are connected with `orphan`: <tt><a hre
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 1 orphan	color:blue
-1	HİZMETİ	hizmet	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	3	orphan	_	_
-2	GÜZEL	güzel	ADJ	_	_	0	root	_	_
-3	PERSONELLERİ	personel	NOUN	_	Case=Nom|Number=Plur|Number[psor]=Sing|Person=3|Person[psor]=3	2	conj	_	_
+1	Hizmeti	hizmet	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	3	orphan	_	_
+2	güzel	güzel	ADJ	_	_	0	root	_	_
+3	personelleri	personel	NOUN	_	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	2	conj	_	_
 4	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~

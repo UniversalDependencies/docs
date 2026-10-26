@@ -22,19 +22,19 @@ The following 1 pairs of parts of speech are connected with `orphan`: <tt><a hre
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 12 orphan	color:blue
-1	Ekranlarda	ekran	NOUN	_	Case=Loc|Number=Plur|Person=3	2	obl	_	_
-2	görülen	gör	ADJ	_	_	4	acl	_	_
+1	Ekranlarda	ekran	NOUN	_	Case=Loc|Number=Plur	2	obl	_	_
+2	görülen	gör	VERB	_	Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Pass	4	acl	_	_
 3	kırmızı	kırmızı	ADJ	_	_	4	amod	_	_
-4	rakamlar	rakam	NOUN	_	Case=Nom|Number=Plur|Person=3	13	nsubj	_	_
-5	değeri	değer	NOUN	_	Case=Acc|Number=Sing|Person=3	6	nsubj	_	_
-6	düşen	düş	ADJ	_	_	7	acl	_	_
-7	hisseleri	hisse	NOUN	_	Case=Nom|Number=Plur|Number[psor]=Sing|Person=3|Person[psor]=3	13	obj	_	_
+4	rakamlar	rakam	NOUN	_	Case=Nom|Number=Plur	13	nsubj	_	_
+5	değeri	değer	NOUN	_	Case=Acc|Number=Sing	6	nsubj	_	_
+6	düşen	düş	VERB	_	Polarity=Pos|Tense=Pres|VerbForm=Part	7	acl	_	_
+7	hisseleri	hisse	NOUN	_	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	13	obj	_	_
 8	,	,	PUNCT	_	_	7	punct	_	_
 9	mavi	mavi	ADJ	_	_	10	amod	_	_
-10	rakamlar	rakam	NOUN	_	Case=Nom|Number=Plur|Person=3	4	conj	_	_
-11	yükselen	yüksel	ADJ	_	_	12	acl	_	_
-12	hisseleri	hisse	NOUN	_	Case=Nom|Number=Plur|Number[psor]=Sing|Person=3|Person[psor]=3	10	orphan	_	_
-13	gösteriyor	göster	VERB	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	_
+10	rakamlar	rakam	NOUN	_	Case=Nom|Number=Plur	4	conj	_	_
+11	yükselen	yüksel	VERB	_	Polarity=Pos|Tense=Pres|VerbForm=Part	12	acl	_	_
+12	hisseleri	hisse	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Plur|Person[psor]=3	10	orphan	_	_
+13	gösteriyor	göster	VERB	_	Aspect=Prog|Evident=Fh|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	_
 14	.	.	PUNCT	_	_	13	punct	_	_
 
 ~~~

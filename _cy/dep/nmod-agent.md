@@ -23,4 +23,4 @@ Even though Welsh has not passive, there is a periphrastic construction using th
 ~~~
 
 
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:11:02 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:16 CEST -->

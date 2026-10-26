@@ -67,7 +67,7 @@ The following 6 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 # visual-style 2 11 csubj:pass	color:blue
 1	E	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	aux:pass	_	_
 2	știut	ști	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
-3	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	5	case	_	_
+3	de	de	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=SCONJ	5	case	_	_
 4	când	când	ADV	Rw	PronType=Int,Rel	3	fixed	_	_
 5	lumea	lume	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	2	obl	_	_
 6	că	că	SCONJ	Csssp	Polarity=Pos	11	mark	_	_

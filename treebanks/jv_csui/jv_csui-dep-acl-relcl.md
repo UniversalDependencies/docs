@@ -22,13 +22,13 @@ The following 16 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 4 acl:relcl	color:blue
-1	Buku	_	NOUN	_	Number=Sing	6	nsubj:pass	_	_
-2	ku	_	PRON	_	Number=Sing|Person=1|Polite=Infm|PronType=Prs	1	nmod:poss	_	_
-3	sing	_	PRON	_	Polite=Infm|PronType=Rel	4	nsubj	_	_
-4	ilang	_	VERB	_	Mood=Ind|Voice=Act	1	acl:relcl	_	_
-5	wis	_	AUX	_	Polite=Infm	6	aux	_	_
-6	ketemu	_	VERB	_	Mood=Ind|Polite=Infm|Voice=Pass	0	root	_	SpaceAfter=No
-7	.	_	PUNCT	_	_	6	punct	_	_
+1	Buku	buku	NOUN	_	Number=Sing	6	nsubj:pass	_	_
+2	ku	ku	PRON	_	Number=Sing|Person=1|Polite=Infm|PronType=Prs	1	nmod:poss	_	_
+3	sing	sing	PRON	_	Polite=Infm|PronType=Rel	4	nsubj	_	_
+4	ilang	ilang	VERB	_	Voice=Act	1	acl:relcl	_	_
+5	wis	wis	AUX	_	Polite=Infm	6	aux	_	_
+6	ketemu	temu	VERB	_	Polite=Infm|Voice=Pass	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	6	punct	_	_
 
 ~~~
 
@@ -39,14 +39,14 @@ The following 16 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 7 acl:relcl	color:blue
-1	Bocah	_	NOUN	_	Number=Sing|Polite=Infm	3	nsubj	_	_
-2	kuwi	_	DET	_	Polite=Infm|PronType=Dem	1	det	_	_
-3	seneng	_	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
-4	nggambar	_	VERB	_	Mood=Ind|Voice=Act	3	xcomp	_	_
-5	sesawangan	_	NOUN	_	Number=Sing|Polite=Infm	4	obj	_	_
-6	sing	_	PRON	_	Polite=Infm|PronType=Rel	7	nsubj	_	_
-7	asri	_	ADJ	_	_	5	acl:relcl	_	SpaceAfter=No
-8	.	_	PUNCT	_	_	3	punct	_	_
+1	Bocah	bocah	NOUN	_	Number=Sing|Polite=Infm	3	nsubj	_	_
+2	kuwi	kuwi	DET	_	Polite=Infm|PronType=Dem	1	det	_	_
+3	seneng	seneng	VERB	_	Voice=Act	0	root	_	_
+4	nggambar	gambar	VERB	_	Voice=Act	3	xcomp	_	_
+5	sesawangan	sawang	NOUN	_	Number=Sing|Polite=Infm	4	obj	_	_
+6	sing	sing	PRON	_	Polite=Infm|PronType=Rel	7	nsubj	_	_
+7	asri	asri	ADJ	_	_	5	acl:relcl	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~
 
@@ -57,13 +57,13 @@ The following 16 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 4 acl:relcl	color:blue
-1	Sapa	_	PRON	_	PronType=Rel	6	nsubj	_	_
-2	wae	_	ADV	_	Polite=Infm	1	advmod	_	_
-3	sing	_	PRON	_	Polite=Infm|PronType=Rel	4	nsubj	_	_
-4	nyawang	_	VERB	_	Mood=Ind|Voice=Act	1	acl:relcl	_	_
-5	mesthi	_	AUX	_	Polite=Form	6	aux	_	_
-6	bungah	_	ADJ	_	Polite=Infm	0	root	_	SpaceAfter=No
-7	.	_	PUNCT	_	_	6	punct	_	_
+1	Sapa	sapa	PRON	_	PronType=Rel	6	nsubj	_	_
+2	wae	wae	ADV	_	Polite=Infm	1	advmod	_	_
+3	sing	sing	PRON	_	Polite=Infm|PronType=Rel	4	nsubj	_	_
+4	nyawang	sawang	VERB	_	Voice=Act	1	acl:relcl	_	_
+5	mesthi	mesthi	AUX	_	Polite=Form	6	aux	_	_
+6	bungah	bungah	ADJ	_	Polite=Infm	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	6	punct	_	_
 
 ~~~
 

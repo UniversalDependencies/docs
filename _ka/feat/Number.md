@@ -21,7 +21,7 @@ A singular noun denotes one person, animal or thing.
 
 #### Examples
 
-* _სახლი_ "house", _ვწერ_ "I write" etc.
+* _სახლი_ "house", _ლამაზი_ "beautiful", _სამი_ "three" etc.
 
 ### <a name="Plur">`Plur`</a>: plural number
 
@@ -29,5 +29,5 @@ A plural noun denotes several persons, animals or things.
 
 #### Examples
 
-* _სახლ<b>ებ</b>ი_ "houses", _სახლ<b>ნ</b>ი_ "houses", _ვწერ<b>თ</b>_ "we write" etc.
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:50 CET -->
+* _სახლ<b>ებ</b>ი_ "houses", _ლამაზ<b>ებ</b>ი_ "beautifuls", _სახლ<b>ნ</b>ი_ "houses", _სამ<b>ნ</b>ი_ "three" etc.
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:04 CEST -->

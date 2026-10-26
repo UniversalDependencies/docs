@@ -6,40 +6,46 @@ udver: '2'
 
 ## Treebank Statistics: UD_Turkish-Tourism: POS Tags: `INTJ`
 
-There are 5 `INTJ` lemmas (0%), 5 `INTJ` types (0%) and 18 `INTJ` tokens (0%).
-Out of 15 observed tags, the rank of `INTJ` is: 11 in number of lemmas, 13 in number of types and 15 in number of tokens.
+There are 5 `INTJ` lemmas (0%), 6 `INTJ` types (0%) and 18 `INTJ` tokens (0%).
+Out of 15 observed tags, the rank of `INTJ` is: 12 in number of lemmas, 13 in number of types and 15 in number of tokens.
 
 The 10 most frequent `INTJ` lemmas: <em>tabi, eh, inşallah, sakın, hop</em>
 
-The 10 most frequent `INTJ` types:  <em>TABİ, EH, SAKIN, İNŞALLAH, HOP</em>
+The 10 most frequent `INTJ` types:  <em>tabi, eh, sakın, inşallah, hop, İnşallah</em>
 
 The 10 most frequent ambiguous lemmas: <em>tabi</em> (<tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt> 9, <tt><a href="tr_tourism-pos-INTJ.html">INTJ</a></tt> 6)
 
-The 10 most frequent ambiguous types:  <em>TABİ</em> (<tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt> 8, <tt><a href="tr_tourism-pos-INTJ.html">INTJ</a></tt> 6)
+The 10 most frequent ambiguous types:  <em>tabi</em> (<tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="tr_tourism-pos-INTJ.html">INTJ</a></tt> 1)
 
 
-* <em>TABİ</em>
-  * <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt> 8: <em><b>TABİ</b> Kİ TAVSİYE EDERİM .</em>
-  * <tt><a href="tr_tourism-pos-INTJ.html">INTJ</a></tt> 6: <em><b>TABİ</b> Kİ BU TURLAR BENİMLE BİRLİKTE BİR AYRICALIK KAZANIYOR .</em>
+* <em>tabi</em>
+  * <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt> 2: <em>Ederim <b>tabi</b> .</em>
+  * <tt><a href="tr_tourism-pos-INTJ.html">INTJ</a></tt> 1: <em>Saat 11 de hayat boyu oturabileceğin bir yer bile yok kampanyalar sadece gündüz boş bulamadığın şezlonga istersen oturabilirsin <b>tabi</b> .</em>
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.825646).
+The form / lemma ratio of `INTJ` is 1.200000 (the average of all parts of speech is 2.231287).
 
-The 1st highest number of forms (1) was observed with the lemma “eh”: <em>EH</em>.
+The 1st highest number of forms (2) was observed with the lemma “inşallah”: <em>inşallah, İnşallah</em>.
 
-The 2nd highest number of forms (1) was observed with the lemma “hop”: <em>HOP</em>.
+The 2nd highest number of forms (1) was observed with the lemma “eh”: <em>eh</em>.
 
-The 3rd highest number of forms (1) was observed with the lemma “inşallah”: <em>İNŞALLAH</em>.
+The 3rd highest number of forms (1) was observed with the lemma “hop”: <em>hop</em>.
 
-`INTJ` does not occur with any features.
+`INTJ` occurs with 1 features: <tt><a href="tr_tourism-feat-ExtPos.html">ExtPos</a></tt> (3; 17% instances)
+
+`INTJ` occurs with 1 feature-value pairs: `ExtPos=INTJ`
+
+`INTJ` occurs with 2 feature combinations.
+The most frequent feature combination is `_` (15 tokens).
+Examples: <em>tabi, sakın, eh, inşallah, hop, İnşallah</em>
 
 
 ## Relations
 
 `INTJ` nodes are attached to their parents using 4 different relations: <tt><a href="tr_tourism-dep-discourse.html">discourse</a></tt> (13; 72% instances), <tt><a href="tr_tourism-dep-compound.html">compound</a></tt> (2; 11% instances), <tt><a href="tr_tourism-dep-root.html">root</a></tt> (2; 11% instances), <tt><a href="tr_tourism-dep-amod.html">amod</a></tt> (1; 6% instances)
 
-Parents of `INTJ` nodes belong to 4 different parts of speech: <tt><a href="tr_tourism-pos-VERB.html">VERB</a></tt> (12; 67% instances), <tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> (3; 17% instances),  (2; 11% instances), <tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt> (1; 6% instances)
+Parents of `INTJ` nodes belong to 5 different parts of speech: <tt><a href="tr_tourism-pos-VERB.html">VERB</a></tt> (11; 61% instances), <tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> (3; 17% instances),  (2; 11% instances), <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt> (1; 6% instances), <tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt> (1; 6% instances)
 
 12 (67%) `INTJ` nodes are leaves.
 

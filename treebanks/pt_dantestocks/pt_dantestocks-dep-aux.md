@@ -35,7 +35,7 @@ The following 4 pairs of parts of speech are connected with `aux`: <tt><a href="
 10	em	em	ADP	_	_	12	case	_	_
 11	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
 12	Obj	objetivo	NOUN	_	Abbr=Yes|Gender=Masc|Number=Sing	9	obl	_	FullForm=objetivo|SpaceAfter=No
-13	?	?	PUNCT	_	_	9	punct	_	SpaceAfter=No
+13	?	?	PUNCT	_	_	9	punct	_	_
 
 ~~~
 
@@ -54,7 +54,7 @@ The following 4 pairs of parts of speech are connected with `aux`: <tt><a href="
 6	assistir	assistir	VERB	_	VerbForm=Inf	5	csubj	_	_
 7	#PETR4	#PETR4	PROPN	_	_	6	obj	_	_
 8	#BBAS3	#BBAS3	PROPN	_	_	7	conj	_	_
-9	#ELET6	#ELET6	PROPN	_	_	7	conj	_	SpaceAfter=No
+9	#ELET6	#ELET6	PROPN	_	_	7	conj	_	_
 
 ~~~
 
@@ -93,7 +93,7 @@ The following 4 pairs of parts of speech are connected with `aux`: <tt><a href="
 26	sido	ser	AUX	_	Gender=Masc|Number=Sing|VerbForm=Part	28	cop	_	_
 27	MUITA	muito	ADJ	_	Gender=Fem|Number=Sing	28	amod	_	_
 28	gente	gente	NOUN	_	Gender=Fem|Number=Sing	24	xcomp	_	SpaceAfter=No
-29	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
+29	.	.	PUNCT	_	_	2	punct	_	_
 
 ~~~
 

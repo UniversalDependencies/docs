@@ -75,13 +75,13 @@ The 2nd highest number of forms (2) was observed with the lemma “כול”: כ
 
 The 3rd highest number of forms (1) was observed with the lemma “The”: The.
 
-`DET` occurs with 5 features: <tt><a href="he_iahltwiki-feat-Definite.html">Definite</a></tt> (14013; 99% instances), <tt><a href="he_iahltwiki-feat-PronType.html">PronType</a></tt> (13889; 98% instances), <tt><a href="he_iahltwiki-feat-Gender.html">Gender</a></tt> (12; 0% instances), <tt><a href="he_iahltwiki-feat-Number.html">Number</a></tt> (5; 0% instances), <tt><a href="he_iahltwiki-feat-Typo.html">Typo</a></tt> (1; 0% instances)
+`DET` occurs with 5 features: <tt><a href="he_iahltwiki-feat-Definite.html">Definite</a></tt> (14013; 99% instances), <tt><a href="he_iahltwiki-feat-PronType.html">PronType</a></tt> (13889; 98% instances), <tt><a href="he_iahltwiki-feat-Gender.html">Gender</a></tt> (12; 0% instances), <tt><a href="he_iahltwiki-feat-Number.html">Number</a></tt> (5; 0% instances), <tt><a href="he_iahltwiki-feat-ExtPos.html">ExtPos</a></tt> (3; 0% instances)
 
-`DET` occurs with 10 feature-value pairs: `Definite=Cons`, `Definite=Def`, `Gender=Fem`, `Gender=Masc`, `Number=Plur`, `Number=Sing`, `PronType=Art`, `PronType=Neg`, `PronType=Tot`, `Typo=Yes`
+`DET` occurs with 10 feature-value pairs: `Definite=Cons`, `Definite=Def`, `ExtPos=ADV`, `Gender=Fem`, `Gender=Masc`, `Number=Plur`, `Number=Sing`, `PronType=Art`, `PronType=Neg`, `PronType=Tot`
 
 `DET` occurs with 10 feature combinations.
-The most frequent feature combination is `Definite=Def|PronType=Art` (13628 tokens).
-Examples: ה, אל, הַ, ְהַ, א, הָ, לה
+The most frequent feature combination is `Definite=Def|PronType=Art` (13629 tokens).
+Examples: ה, אל, הַ, ְהַ, א, ב, הָ, לה
 
 
 ## Relations
@@ -90,9 +90,9 @@ Examples: ה, אל, הַ, ְהַ, א, הָ, לה
 
 Parents of `DET` nodes belong to 11 different parts of speech: <tt><a href="he_iahltwiki-pos-NOUN.html">NOUN</a></tt> (9066; 64% instances), <tt><a href="he_iahltwiki-pos-ADJ.html">ADJ</a></tt> (3518; 25% instances), <tt><a href="he_iahltwiki-pos-PROPN.html">PROPN</a></tt> (1331; 9% instances), <tt><a href="he_iahltwiki-pos-NUM.html">NUM</a></tt> (170; 1% instances), <tt><a href="he_iahltwiki-pos-PRON.html">PRON</a></tt> (41; 0% instances), <tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt> (32; 0% instances), <tt><a href="he_iahltwiki-pos-X.html">X</a></tt> (8; 0% instances), <tt><a href="he_iahltwiki-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="he_iahltwiki-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="he_iahltwiki-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="he_iahltwiki-pos-ADP.html">ADP</a></tt> (1; 0% instances)
 
-13972 (99%) `DET` nodes are leaves.
+13971 (99%) `DET` nodes are leaves.
 
-193 (1%) `DET` nodes have one child.
+194 (1%) `DET` nodes have one child.
 
 9 (0%) `DET` nodes have two children.
 
@@ -100,7 +100,7 @@ Parents of `DET` nodes belong to 11 different parts of speech: <tt><a href="he_i
 
 The highest child degree of a `DET` node is 4.
 
-Children of `DET` nodes are attached using 12 different relations: <tt><a href="he_iahltwiki-dep-punct.html">punct</a></tt> (181; 82% instances), <tt><a href="he_iahltwiki-dep-case.html">case</a></tt> (10; 5% instances), <tt><a href="he_iahltwiki-dep-compound.html">compound</a></tt> (6; 3% instances), <tt><a href="he_iahltwiki-dep-fixed.html">fixed</a></tt> (6; 3% instances), <tt><a href="he_iahltwiki-dep-cc.html">cc</a></tt> (5; 2% instances), <tt><a href="he_iahltwiki-dep-advmod.html">advmod</a></tt> (3; 1% instances), <tt><a href="he_iahltwiki-dep-nmod.html">nmod</a></tt> (3; 1% instances), <tt><a href="he_iahltwiki-dep-conj.html">conj</a></tt> (2; 1% instances), <tt><a href="he_iahltwiki-dep-nmod-poss.html">nmod:poss</a></tt> (2; 1% instances), <tt><a href="he_iahltwiki-dep-acl-relcl.html">acl:relcl</a></tt> (1; 0% instances), <tt><a href="he_iahltwiki-dep-amod.html">amod</a></tt> (1; 0% instances), <tt><a href="he_iahltwiki-dep-reparandum.html">reparandum</a></tt> (1; 0% instances)
+Children of `DET` nodes are attached using 12 different relations: <tt><a href="he_iahltwiki-dep-punct.html">punct</a></tt> (181; 82% instances), <tt><a href="he_iahltwiki-dep-case.html">case</a></tt> (11; 5% instances), <tt><a href="he_iahltwiki-dep-compound.html">compound</a></tt> (6; 3% instances), <tt><a href="he_iahltwiki-dep-fixed.html">fixed</a></tt> (6; 3% instances), <tt><a href="he_iahltwiki-dep-cc.html">cc</a></tt> (5; 2% instances), <tt><a href="he_iahltwiki-dep-advmod.html">advmod</a></tt> (3; 1% instances), <tt><a href="he_iahltwiki-dep-nmod.html">nmod</a></tt> (3; 1% instances), <tt><a href="he_iahltwiki-dep-conj.html">conj</a></tt> (2; 1% instances), <tt><a href="he_iahltwiki-dep-nmod-poss.html">nmod:poss</a></tt> (2; 1% instances), <tt><a href="he_iahltwiki-dep-acl-relcl.html">acl:relcl</a></tt> (1; 0% instances), <tt><a href="he_iahltwiki-dep-amod.html">amod</a></tt> (1; 0% instances), <tt><a href="he_iahltwiki-dep-reparandum.html">reparandum</a></tt> (1; 0% instances)
 
-Children of `DET` nodes belong to 9 different parts of speech: <tt><a href="he_iahltwiki-pos-PUNCT.html">PUNCT</a></tt> (181; 82% instances), <tt><a href="he_iahltwiki-pos-ADP.html">ADP</a></tt> (11; 5% instances), <tt><a href="he_iahltwiki-pos-NOUN.html">NOUN</a></tt> (10; 5% instances), <tt><a href="he_iahltwiki-pos-CCONJ.html">CCONJ</a></tt> (6; 3% instances), <tt><a href="he_iahltwiki-pos-ADV.html">ADV</a></tt> (5; 2% instances), <tt><a href="he_iahltwiki-pos-DET.html">DET</a></tt> (4; 2% instances), <tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="he_iahltwiki-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="he_iahltwiki-pos-PRON.html">PRON</a></tt> (1; 0% instances)
+Children of `DET` nodes belong to 9 different parts of speech: <tt><a href="he_iahltwiki-pos-PUNCT.html">PUNCT</a></tt> (181; 82% instances), <tt><a href="he_iahltwiki-pos-ADP.html">ADP</a></tt> (12; 5% instances), <tt><a href="he_iahltwiki-pos-NOUN.html">NOUN</a></tt> (10; 5% instances), <tt><a href="he_iahltwiki-pos-CCONJ.html">CCONJ</a></tt> (6; 3% instances), <tt><a href="he_iahltwiki-pos-ADV.html">ADV</a></tt> (5; 2% instances), <tt><a href="he_iahltwiki-pos-DET.html">DET</a></tt> (4; 2% instances), <tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="he_iahltwiki-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="he_iahltwiki-pos-PRON.html">PRON</a></tt> (1; 0% instances)
 

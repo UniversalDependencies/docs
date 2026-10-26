@@ -13,7 +13,7 @@ This relation is universal.
 125 instances of `root` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 3.504.
 
-The following 6 pairs of parts of speech are connected with `root`: -<tt><a href="olo_kkpp-pos-VERB.html">VERB</a></tt> (104; 83% instances), -<tt><a href="olo_kkpp-pos-NOUN.html">NOUN</a></tt> (12; 10% instances), -<tt><a href="olo_kkpp-pos-ADJ.html">ADJ</a></tt> (6; 5% instances), -<tt><a href="olo_kkpp-pos-AUX.html">AUX</a></tt> (1; 1% instances), -<tt><a href="olo_kkpp-pos-NUM.html">NUM</a></tt> (1; 1% instances), -<tt><a href="olo_kkpp-pos-PRON.html">PRON</a></tt> (1; 1% instances).
+The following 5 pairs of parts of speech are connected with `root`: -<tt><a href="olo_kkpp-pos-VERB.html">VERB</a></tt> (105; 84% instances), -<tt><a href="olo_kkpp-pos-NOUN.html">NOUN</a></tt> (12; 10% instances), -<tt><a href="olo_kkpp-pos-ADJ.html">ADJ</a></tt> (6; 5% instances), -<tt><a href="olo_kkpp-pos-NUM.html">NUM</a></tt> (1; 1% instances), -<tt><a href="olo_kkpp-pos-PRON.html">PRON</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -57,7 +57,7 @@ The following 6 pairs of parts of speech are connected with `root`: -<tt><a href
 # visual-style 0	fgColor:white
 # visual-style 0 4 root	color:blue
 1	–	–	PUNCT	PUNCT	_	4	punct	_	_
-2	Iče	iče	PRON	PRON	Case=Nom|Reflex=Yes	4	nsubj:cop	_	_
+2	Iče	iče	PRON	PRON	Case=Nom|PronType=Prs|Reflex=Yes	4	nsubj:cop	_	_
 3	olen	olla	AUX	AUX	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	_
 4	karjalaine	karjalaine	ADJ	ADJ	Case=Nom|Number=Sing	0	root	_	_
 5	Kiihtelysvuaraspäi	Kiihtelysvuara	PROPN	PROPN	Case=Ela|Number=Sing	4	obl	_	SpaceAfter=No

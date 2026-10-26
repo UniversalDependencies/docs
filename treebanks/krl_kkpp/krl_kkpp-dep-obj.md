@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-223 nodes (7%) are attached to their parents as `obj`.
+214 nodes (7%) are attached to their parents as `obj`.
 
-173 instances of `obj` (78%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.2780269058296.
+165 instances of `obj` (77%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.09345794392523.
 
-The following 14 pairs of parts of speech are connected with `obj`: <tt><a href="krl_kkpp-pos-VERB.html">VERB</a></tt>-<tt><a href="krl_kkpp-pos-NOUN.html">NOUN</a></tt> (166; 74% instances), <tt><a href="krl_kkpp-pos-VERB.html">VERB</a></tt>-<tt><a href="krl_kkpp-pos-PRON.html">PRON</a></tt> (30; 13% instances), <tt><a href="krl_kkpp-pos-VERB.html">VERB</a></tt>-<tt><a href="krl_kkpp-pos-PROPN.html">PROPN</a></tt> (7; 3% instances), <tt><a href="krl_kkpp-pos-VERB.html">VERB</a></tt>-<tt><a href="krl_kkpp-pos-ADJ.html">ADJ</a></tt> (4; 2% instances), <tt><a href="krl_kkpp-pos-AUX.html">AUX</a></tt>-<tt><a href="krl_kkpp-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="krl_kkpp-pos-ADP.html">ADP</a></tt>-<tt><a href="krl_kkpp-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="krl_kkpp-pos-AUX.html">AUX</a></tt>-<tt><a href="krl_kkpp-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="krl_kkpp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="krl_kkpp-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="krl_kkpp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="krl_kkpp-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="krl_kkpp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="krl_kkpp-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="krl_kkpp-pos-ADV.html">ADV</a></tt>-<tt><a href="krl_kkpp-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="krl_kkpp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="krl_kkpp-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="krl_kkpp-pos-PRON.html">PRON</a></tt>-<tt><a href="krl_kkpp-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="krl_kkpp-pos-VERB.html">VERB</a></tt>-<tt><a href="krl_kkpp-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The following 14 pairs of parts of speech are connected with `obj`: <tt><a href="krl_kkpp-pos-VERB.html">VERB</a></tt>-<tt><a href="krl_kkpp-pos-NOUN.html">NOUN</a></tt> (157; 73% instances), <tt><a href="krl_kkpp-pos-VERB.html">VERB</a></tt>-<tt><a href="krl_kkpp-pos-PRON.html">PRON</a></tt> (30; 14% instances), <tt><a href="krl_kkpp-pos-VERB.html">VERB</a></tt>-<tt><a href="krl_kkpp-pos-PROPN.html">PROPN</a></tt> (7; 3% instances), <tt><a href="krl_kkpp-pos-VERB.html">VERB</a></tt>-<tt><a href="krl_kkpp-pos-ADJ.html">ADJ</a></tt> (4; 2% instances), <tt><a href="krl_kkpp-pos-AUX.html">AUX</a></tt>-<tt><a href="krl_kkpp-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="krl_kkpp-pos-ADP.html">ADP</a></tt>-<tt><a href="krl_kkpp-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="krl_kkpp-pos-AUX.html">AUX</a></tt>-<tt><a href="krl_kkpp-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="krl_kkpp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="krl_kkpp-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="krl_kkpp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="krl_kkpp-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="krl_kkpp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="krl_kkpp-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="krl_kkpp-pos-ADV.html">ADV</a></tt>-<tt><a href="krl_kkpp-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="krl_kkpp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="krl_kkpp-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="krl_kkpp-pos-PRON.html">PRON</a></tt>-<tt><a href="krl_kkpp-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="krl_kkpp-pos-VERB.html">VERB</a></tt>-<tt><a href="krl_kkpp-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -37,7 +37,7 @@ The following 14 pairs of parts of speech are connected with `obj`: <tt><a href=
 # visual-style 8 7 obj	color:blue
 1	–	–	PUNCT	PUNCT	_	2	punct	_	_
 2	Ottakkua	ottoa	VERB	VERB	Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	0	root	_	_
-3	puukko	puukko	NOUN	NOUN	Case=Nom|Number=Sing	8	obj	_	_
+3	puukko	puukko	NOUN	NOUN	Case=Nom|Number=Sing	2	obj	_	_
 4	varalta	varalta	ADV	ADV	_	2	advmod	_	SpaceAfter=No
 5	,	,	PUNCT	PUNCT	_	8	punct	_	_
 6	jošpa	jošpa	SCONJ	SCONJ	_	8	mark	_	_

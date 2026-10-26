@@ -28,10 +28,11 @@ The feature is used with 1 part-of-speech tags: <tt><a href="cs_pud-pos-ADP.html
   <tr><th>Paradigm <i>v</i></th><th><tt>Prep</tt></th><th><tt>Voc</tt></th></tr>
   <tr><td><tt><tt><a href="cs_pud-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td><em>v</em></td><td><em>ve</em></td></tr>
   <tr><td><tt><tt><a href="cs_pud-feat-Case.html">Case</a></tt><tt>=Loc</tt></tt></td><td><em>v</em></td><td><em>ve</em></td></tr>
+  <tr><td><tt><tt><a href="cs_pud-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="cs_pud-feat-ExtPos.html">ExtPos</a></tt><tt>=ADP</tt></tt></td><td><em>v</em></td><td><em>ve</em></td></tr>
 </table>
 
 ## Relations with Agreement in `AdpType`
 
 The 10 most frequent relations where parent and child node agree in `AdpType`:
-<tt>ADP --[<tt><a href="cs_pud-dep-fixed.html">fixed</a></tt>]--> ADP</tt> (7; 64%).
+<tt>ADP --[<tt><a href="cs_pud-dep-fixed.html">fixed</a></tt>]--> ADP</tt> (6; 60%).
 

@@ -16,14 +16,14 @@ The feature is used with 1 part-of-speech tags: <tt><a href="ota_boun-pos-NUM.ht
 
 ### `NUM`
 
-88 <tt><a href="ota_boun-pos-NUM.html">NUM</a></tt> tokens (96% of all `NUM` tokens) have a non-empty value of `NumType`.
+88 <tt><a href="ota_boun-pos-NUM.html">NUM</a></tt> tokens (95% of all `NUM` tokens) have a non-empty value of `NumType`.
 
 `NUM` tokens may have the following values of `NumType`:
 
 * `Card` (76; 86% of non-empty `NumType`): <em>iki, on, üç, beş, bir, dört, İki, kırk, yirmi, 12</em>
 * `Dist` (4; 5% of non-empty `NumType`): <em>birer</em>
 * `Ord` (8; 9% of non-empty `NumType`): <em>sekizinci, yedinci, birinci, dokuzuncu, ikinci</em>
-* `EMPTY` (4): <em>335’te, Bir, dokuzuncu, ikimiz</em>
+* `EMPTY` (5): <em>335'te, Bir, dokuzuncu, ikimiz, üçünden</em>
 
 <table>
   <tr><th>Paradigm <i>bir</i></th><th><tt>Card</tt></th><th><tt>Ord</tt></th><th><tt>Dist</tt></th></tr>

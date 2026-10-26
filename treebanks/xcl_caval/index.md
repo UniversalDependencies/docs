@@ -19,10 +19,10 @@ This treebank has been part of Universal Dependencies since the UD v2.13 release
 The following people have contributed to making this treebank part of UD: Petr Kocharov, Lilit Kharatyan.
 
 Repository: [UD_Classical_Armenian-CAVaL](https://github.com/UniversalDependencies/UD_Classical_Armenian-CAVaL)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udxcl_caval215)<br />
-Download all treebanks: [UD 2.15](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udxcl_caval218)<br />
+Download all treebanks: [UD 2.18](/#download)
 
-License: CC BY-NC-ND 4.0
+License: CC BY-NC-SA 4.0
 
 Genre: bible, fiction
 
@@ -42,7 +42,7 @@ Development of the treebank happens directly in the UD repository, so you may su
 
 ## Description
 
-The present release includes the Classical Armenian translation of the Gospels and the first ten chapters of the "History of the Armenians" by Movses Khorenatsi. The annotation of the Gospels results from a rule-based conversion from the PROIEL annotation, manually corrected and extended with additional information. The annotation of the "History of the Armenians" has been performed by a UDPipe2 annotator and manually corrected.
+The present release includes the Classical Armenian translation of the Gospels and the first book of the "History of the Armenians" by Movses Khorenatsi. The annotation of the Gospels results from a rule-based conversion from the PROIEL annotation, manually corrected and extended with additional information. The annotation of the "History of the Armenians" has been performed by a UDPipe2 annotator and manually corrected.
 
 
 
@@ -61,7 +61,7 @@ The treebank is developed by Petr Kocharov and Lilit Kharatyan at the University
 
 ## Features
 
-[Animacy](xcl_caval-feat-Animacy.html) – [Aspect](xcl_caval-feat-Aspect.html) – [Case](xcl_caval-feat-Case.html) – [Connegative](xcl_caval-feat-Connegative.html) – [Definite](xcl_caval-feat-Definite.html) – [Deixis](xcl_caval-feat-Deixis.html) – [Foreign](xcl_caval-feat-Foreign.html) – [Mood](xcl_caval-feat-Mood.html) – [Number](xcl_caval-feat-Number.html) – [NumType](xcl_caval-feat-NumType.html) – [Person](xcl_caval-feat-Person.html) – [Polarity](xcl_caval-feat-Polarity.html) – [Poss](xcl_caval-feat-Poss.html) – [PronType](xcl_caval-feat-PronType.html) – [Reflex](xcl_caval-feat-Reflex.html) – [Tense](xcl_caval-feat-Tense.html) – [VerbForm](xcl_caval-feat-VerbForm.html) – [Voice](xcl_caval-feat-Voice.html)
+[Animacy](xcl_caval-feat-Animacy.html) – [Aspect](xcl_caval-feat-Aspect.html) – [Case](xcl_caval-feat-Case.html) – [Connegative](xcl_caval-feat-Connegative.html) – [Definite](xcl_caval-feat-Definite.html) – [Deixis](xcl_caval-feat-Deixis.html) – [ExtPos](xcl_caval-feat-ExtPos.html) – [Foreign](xcl_caval-feat-Foreign.html) – [Mood](xcl_caval-feat-Mood.html) – [Number](xcl_caval-feat-Number.html) – [NumType](xcl_caval-feat-NumType.html) – [Person](xcl_caval-feat-Person.html) – [Polarity](xcl_caval-feat-Polarity.html) – [Poss](xcl_caval-feat-Poss.html) – [PronType](xcl_caval-feat-PronType.html) – [Reflex](xcl_caval-feat-Reflex.html) – [Tense](xcl_caval-feat-Tense.html) – [VerbForm](xcl_caval-feat-VerbForm.html) – [Voice](xcl_caval-feat-Voice.html)
 
 ## Relations
 
@@ -71,11 +71,11 @@ The treebank is developed by Petr Kocharov and Lilit Kharatyan at the University
 
 
 <ul>
-<li>This corpus contains 4339 sentences, 87408 tokens and 88009 syntactic words.</li>
+<li>This corpus contains 4781 sentences, 99006 tokens and 99664 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 22946 tokens (26%) that are not followed by a space.</li>
+<li>This corpus contains 26049 tokens (26%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -87,8 +87,8 @@ The treebank is developed by Petr Kocharov and Lilit Kharatyan at the University
 </ul>
 
 <ul>
-<li>This corpus contains 600 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
-<li>There are 165 types of multi-word tokens. Examples: զի՞նչ, զիա՞րդ, զի՞, ո՞, ընդէ՞ր, ո՞չ, ո՞վ, ո՞ւր, ուստի՞, դո՞ւ, քանի՞, ի՞ւ, ո՞յր, ո՞ւմ, իցէ՞, արժա՞ն, ո՛վ, ո՞ր, ե՞ս, ե՞րբ, մի՛, բարի՞, գիտե՞ս, ո՛յք, որո՞վ, որչա՞փ, ուստի՛, ա՞յժմ, ա՞ւձ, ապրեցուցանե՞լ, երկնի՞ց, զարդարեա՞լ, ընդէ՛ր, ի՛նչ, կամի՞ս, կարէ՞ք, հաւատա՞յք, հաւատա՞ս, մա՞րթ, մե՞ծ, ն, ո՛չ, ո՛րպէս, որպէ՞ս, ունի՞ք, պա՞րտ, տացո՞ւք, տեսանե՞ս, քանի՞ցս, Բարաբբա՞յ.</li>
+<li>This corpus contains 657 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+<li>There are 181 types of multi-word tokens. Examples: զի՞նչ, զիա՞րդ, զի՞, ո՞, ընդէ՞ր, ո՞չ, ո՞վ, ո՞ւր, ուստի՞, դո՞ւ, քանի՞, մի՛, ո՛վ, ո՛րպէս, ի՞ւ, իցէ՞, ո՞յր, ո՞ւմ, կա՛մ, ո՛յք, արժա՞ն, ո՞ր, ե՞ս, ե՞րբ, ուստի՛, բարի՞, գիտե՞ս, ընդէ՛ր, ո՛չ, ո՛րպիսի, որո՞վ, որչա՞փ, ա՞յժմ, ա՞ւձ, ապրեցուցանե՞լ, երկնի՞ց, զարդարեա՞լ, ի՛նչ, ի՞նչ, ծանի՛ր, կամի՞ս, կարէ՞ք, հաւատա՞յք, հաւատա՞ս, մա՞րթ, մե՞ծ, մի՞, ն, ո՞րպիսի, որպէ՞ս.</li>
 </ul>
 
 <h2>Morphology</h2>
@@ -101,27 +101,27 @@ The treebank is developed by Petr Kocharov and Lilit Kharatyan at the University
 </ul>
 
 <ul>
-<li>This corpus contains 9 word types tagged as particles (PART): ապաքէն, գուցէ, եթե, թե, թէ, իսկ, մի, ոչ, չ</li>
+<li>This corpus contains 11 word types tagged as particles (PART): ապաքէն, գուցէ, եթե, եթէ, զիարդ, թե, թէ, իսկ, մի, ոչ, չ</li>
 </ul>
 
 <ul>
-<li>This corpus contains 41 lemmas tagged as pronouns (PRON): PRON, ամենայն, ամենեքեան, ամենեքին, այդ, այդպիսի, այն, այնպիսի, այս, այսպիսի, բազում, բիւրաւոր, դա, դոյն, դու, դուք, ես, երեքեան, երկոքեան, զի, զինչ, իմն, ինչ, ինքն, իւր, իւրաքանչիւր, իք, մեք, միմեանց, միմեանք, նա, նոյն, ոմն, ով, որ, ուրուք, ոք, չիք, սա, սոյն, քանի</li>
+<li>This corpus contains 37 lemmas tagged as pronouns (PRON): ամենայն, ամենեքեան, ամենեքին, այդ, այդպիսի, այն, այնպիսի, այս, այսպիսի, բազում, դա, դոյն, դու, դուք, ես, զի, զինչ, իմն, ինչ, ինքն, իրեարք, իւր, իւրաքանչիւր, իք, մեք, միմեանք, յով, նա, նոյն, ոմն, ով, որ, ուրուք, ոք, չիք, սա, սոյն</li>
 </ul>
 
 <ul>
-<li>This corpus contains 35 lemmas tagged as determiners (DET): PRON, ամենայն, ամենեքեան, ամենեքին, այդ, այն, այնպիսի, այս, այսպէս, այսպիսի, բազում, դ, դոյն, դորա, ես, զինչ, իմ, իմն, ինչ, իւր, իւրաքանչիւր, ձեր, մեր, մի, միայն, յոլով, ն, նոյն, ոմն, որ, ոք, ս, սա, սակաւ, քո</li>
+<li>This corpus contains 35 lemmas tagged as determiners (DET): PRON, ամենայն, ամենեքին, այդ, այն, այնպիսի, այս, այսպիսի, բազում, բոլոր, դ, դոյն, դորա, դու, ես, զինչ, իմ, իմն, ինչ, ինքն, իւր, իւրաքանչիւր, ձեր, մեր, մի, յոլով, ն, նոյն, ոմն, որ, ոք, ս, սա, սակաւ, քո</li>
 </ul>
 
 <ul>
-<li>Out of the above, 22 lemmas occurred sometimes as PRON and sometimes as DET: PRON, ամենայն, ամենեքեան, ամենեքին, այդ, այն, այնպիսի, այս, այսպիսի, բազում, դոյն, ես, զինչ, իմն, ինչ, իւր, իւրաքանչիւր, նոյն, ոմն, որ, ոք, սա</li>
+<li>Out of the above, 22 lemmas occurred sometimes as PRON and sometimes as DET: ամենայն, ամենեքին, այդ, այն, այնպիսի, այս, այսպիսի, բազում, դոյն, դու, ես, զինչ, իմն, ինչ, ինքն, իւր, իւրաքանչիւր, նոյն, ոմն, որ, ոք, սա</li>
 </ul>
 
 <ul>
-<li>This corpus contains 3 lemmas tagged as auxiliaries (AUX): եմ, լինիմ, տամ</li>
+<li>This corpus contains 3 lemmas tagged as auxiliaries (AUX): եմ, լինել, տալ</li>
 </ul>
 
 <ul>
-<li>Out of the above, 1 lemmas occurred sometimes as AUX and sometimes as VERB: լինիմ</li>
+<li>Out of the above, 2 lemmas occurred sometimes as AUX and sometimes as VERB: լինել, տալ</li>
 </ul>
 
 <ul>
@@ -131,8 +131,7 @@ The treebank is developed by Petr Kocharov and Lilit Kharatyan at the University
 <ul>
   <li>Conv
   <ul>
-    <li>AUX: լինելոց</li>
-    <li>VERB: գալոց, մատնելոց, ըմպելոց, մեռանելոց, մկրտելոց, անցանելոց, առնելոց, գայթագղելոց, կատարելոց, յայտնելոց</li>
+    <li>VERB: գալոց, մատնելոց, ըմպելոց, լինելոց, մեռանելոց, մկրտելոց, անցանելոց, առնելոց, գայթագղելոց, կատարելոց</li>
   </ul>
   </li>
 </ul>
@@ -140,7 +139,7 @@ The treebank is developed by Petr Kocharov and Lilit Kharatyan at the University
 <ul>
   <li>Fin
   <ul>
-    <li>AUX: է, էր, եղեւ, իցէ, եին, են, եմ, ես, եղիցի, էք</li>
+    <li>AUX: է, էր, եղեւ, իցէ, են, եին, եմ, ես, եղիցի, էք</li>
     <li>VERB: ասէ, ետ, ասեն, ասեմ, ասեին, եկն, ասաց, գայ, ել, ասէր</li>
   </ul>
   </li>
@@ -149,8 +148,8 @@ The treebank is developed by Petr Kocharov and Lilit Kharatyan at the University
 <ul>
   <li>Inf
   <ul>
-    <li>AUX: լինել</li>
-    <li>VERB: ասել, առնել, տալ, մտանել, տեսանել, գալ, ունել, ուտել, առնուլ, կալ</li>
+    <li>AUX: լինել, եղանել, տալ</li>
+    <li>VERB: ասել, առնել, տալ, մտանել, ունել, գալ, տեսանել, առնուլ, ուտել, կալ</li>
   </ul>
   </li>
 </ul>
@@ -158,8 +157,8 @@ The treebank is developed by Petr Kocharov and Lilit Kharatyan at the University
 <ul>
   <li>Part
   <ul>
-    <li>AUX: լեալ, եղեալ, լիեալ, եղելոյ, եղեալս, եղելոց, տուեալ</li>
-    <li>VERB: եկեալ, առեալ, մատուցեալ, գրեալ, ելեալ, յարուցեալ, մտեալ, տեսեալ, մեռելոց, թողեալ</li>
+    <li>AUX: լեալ, եղեալ, լիեալ, եղելոյ, լինելով, եղեալս, եղելոց, լեալս, լինելոյ</li>
+    <li>VERB: եկեալ, առեալ, մատուցեալ, գրեալ, ելեալ, տեսեալ, յարուցեալ, մտեալ, հասեալ, թողեալ</li>
   </ul>
   </li>
 </ul>
@@ -168,7 +167,7 @@ The treebank is developed by Petr Kocharov and Lilit Kharatyan at the University
   <li>Vnoun
   <ul>
     <li>AUX: լինել, լինելոյ</li>
-    <li>VERB: ելանել, լսելոյ, մտանել, զարմանալ, ծնանելոյ, փորձելով, ասելով, գալ, կալ, կատարել</li>
+    <li>VERB: ելանել, լսելոյ, մտանել, ծնանելոյ, հասանել, գալ, զարմանալ, կալ, կատարել, մեռանել</li>
   </ul>
   </li>
 </ul>
@@ -184,8 +183,8 @@ The treebank is developed by Petr Kocharov and Lilit Kharatyan at the University
 <ul>
   <li>Anim
     <ul>
-      <li>DET: ոմն, ոք, ոմանք, ուրումն, ոմանս, ոմանց, ումեմնէ</li>
-      <li>PRON: ոք, ո, ով, ոմանք, ոմն, ումեք, ոյր, ում, ոմանս, ոյք</li>
+      <li>DET: ոմն, ոմանք, ոք, ուրումն, ոմանց, ոմանս, ումեմնէ, ումեմն, ումեքէ, ուրուք</li>
+      <li>PRON: ոք, ո, ով, ոմանք, ոմն, ումեք, ոյր, ում, ոյք, ուրուք</li>
     </ul>
   </li>
 </ul>
@@ -193,8 +192,8 @@ The treebank is developed by Petr Kocharov and Lilit Kharatyan at the University
 <ul>
   <li>Inan
     <ul>
-      <li>DET: ինչ, զինչ, իմն</li>
-      <li>PRON: ինչ, զինչ, զի, իմիք, իւիք, իրիք, իմն</li>
+      <li>DET: ինչ, իմն, զինչ</li>
+      <li>PRON: ինչ, զինչ, զի, իւիք, իմիք, իրիք, իմն</li>
     </ul>
   </li>
 </ul>
@@ -206,17 +205,17 @@ The treebank is developed by Petr Kocharov and Lilit Kharatyan at the University
 <ul>
   <li>Plur
     <ul>
-      <li>ADJ: յաւիտենականս, այլք, այլոց, կոյրք, բարիս, աղքատաց, առաջինք, հիւանդս, մեծամեծս, յետինք</li>
-      <li>AUX-Fin: եին, են, էք, իցեն, եղեն, եղիցին, լիցին, եմք, լերուք, եղերուք</li>
+      <li>ADJ: յաւիտենականս, այլոց, այլք, այլս, կոյրք, բարիս, աղքատաց, առաջինք, քաջաց, առաջնոց</li>
+      <li>AUX-Fin: են, եին, էք, իցեն, եղիցին, եղեն, լիցին, եմք, լերուք, եղերուք</li>
       <li>AUX-Part: եղեալս, եղելոց</li>
-      <li>DET: բազումք, իւրոց, ձերոց, բազումս, այնոսիկ, քոց, իմոց, մերոց, այսոսիկ, բազմաց</li>
-      <li>NOUN: աշակերտք, երկնից, երկինս, աշակերտս, աղաւթս, կեանս, աշակերտաց, աւուրս, ձեռս, փարիսեցիք</li>
-      <li>NUM: երկուս, երիս, երկուց, երկոտասանից, երից, երկոքին, երեք, երկուք, երկոտասանս, չորից</li>
-      <li>PRON: նոսա, ձեզ, նոցա, դուք, ձեր, մեզ, նոքա, իւրեանց, նոցանէ, մեր</li>
-      <li>PROPN: Հայոց, Գերգեսացւոց, Պարսից, Ասորեստանեայց, Ենովս, Ենովք, Զրուան, Հայաստանեայց, Հայս, Հէրովդիանոսաց</li>
+      <li>DET: իւրոց, բազումք, մեր, մերոց, ձերոց, այնոսիկ, բազումս, իմոց, քոց, բազմաց</li>
+      <li>NOUN: աշակերտք, երկնից, երկինս, աշակերտս, աղաւթս, կեանս, աւուրս, բանս, աշակերտաց, ձեռս</li>
+      <li>NUM: երկուս, երիս, երկուց, երկոտասանից, երից, երկոցունց, երկուք, երկոքին, չորից, երեք</li>
+      <li>PRON: նոսա, ձեզ, նոցա, մեզ, դուք, ձեր, նոքա, նոցանէ, իւրեանց, որոց</li>
+      <li>PROPN: Հայոց, Ասորեստանեայց, Մարաց, Պարսից, Հայք, Գերգեսացւոց, Հայս, հարք, Արեաց, Հայաստանեայց</li>
       <li>VERB: ասեն, ասեին, տեսին, գնացին, լուան, ետուն, եկին, գիտէք, արարէք, երթայք</li>
       <li>VERB-Fin: ասեն, ասեին, տեսին, գնացին, լուան, ետուն, եկին, գիտէք, արարէք, երթայք</li>
-      <li>VERB-Part: մեռելոց, առաքեալս, առաքեալք, ատեցեալք, մեռեալս, մեռեալք, նտրեալս, ընտրելոց, կատարեալք, անկելոց</li>
+      <li>VERB-Part: մեռելոց, առաքեալս, առաքեալք, ատեցեալք, ընտրելոց, կատարեալք, մեռեալս, մեռեալք, նտրեալս, անկելոց</li>
     </ul>
   </li>
 </ul>
@@ -224,19 +223,20 @@ The treebank is developed by Petr Kocharov and Lilit Kharatyan at the University
 <ul>
   <li>Sing
     <ul>
-      <li>ADJ: մեծ, բարի, այլ, միւս, չար, այղ, առաջին, ճշմարիտ, սուրբ, արժան</li>
-      <li>AUX-Fin: է, էր, եղեւ, իցէ, եմ, ես, եղիցի, լինիցի, լիցի, լինի</li>
-      <li>AUX-Part: լեալ, եղեալ, լիեալ, եղելոյ, տուեալ</li>
+      <li>ADJ: մեծ, առաջին, այլ, բարի, միւս, չար, ճշմարիտ, այղ, սուրբ, արժան</li>
+      <li>AUX: է, էր, եղեւ, իցէ, եմ, ես, եղիցի, լեալ, լինիցի, լիցի</li>
+      <li>AUX-Fin: է, էր, եղեւ, իցէ, եմ, ես, եղիցի, լիցի, լինիցի, լինի</li>
+      <li>AUX-Part: լեալ, եղեալ, լիեալ, եղելոյ, լինելով, լեալս, լինելոյ</li>
       <li>AUX-Vnoun: լինել, լինելոյ</li>
-      <li>DET: ամենայն, մի, բազում, այս, որ, այն, իւրում, ոմն, իմոյ, ինչ</li>
-      <li>NOUN: պատասխանի, Աստուածոյ, հայր, որդի, տէր, այր, անուն, Աստուած, մարդոյ, բան</li>
-      <li>NUM: մի, հինգ, հարիւր, երկու, եւթն, երկոտասան, երեսուն, տասն, միում, վեց</li>
-      <li>PRON: նա, որ, նորա, իմ, իս, նմա, քո, ես, իւր, քեզ</li>
+      <li>DET: ամենայն, մի, բազում, որ, այս, ինչ, իւրում, այն, ոմն, իւրոյ</li>
+      <li>NOUN: պատասխանի, որդի, Աստուածոյ, հայր, տէր, անուն, այր, Աստուած, բան, մարդոյ</li>
+      <li>NUM: մի, հինգ, երկու, հարիւր, եւթն, երկոտասան, երեսուն, միոյ, վեց, տասն</li>
+      <li>PRON: նա, որ, նորա, նմա, իմ, իս, իւր, քեզ, քո, ես</li>
       <li>PROPN: Յիսուս, Պետրոս, Յովհաննէս, Յիսուսի, Քրիստոս, Պիղատոս, Սիմովն, Երուսաղեմ, Մարիամ, Յովհաննու</li>
+      <li>VERB-Conv: գործելոց</li>
       <li>VERB-Fin: ասէ, ետ, ասեմ, եկն, ասաց, գայ, ել, ասէր, ետես, առաքեաց</li>
-      <li>VERB-Inf: բաժանել</li>
-      <li>VERB-Part: եկեալ, առեալ, մատուցեալ, գրեալ, ելեալ, յարուցեալ, մտեալ, տեսեալ, թողեալ, կոչեցեալ</li>
-      <li>VERB-Vnoun: ելանել, լսելոյ, մտանել, զարմանալ, փորձելով, գալ, ծնանելոյ, կալ, կատարել, հասանել</li>
+      <li>VERB-Part: եկեալ, առեալ, մատուցեալ, գրեալ, ելեալ, տեսեալ, յարուցեալ, մտեալ, հասեալ, թողեալ</li>
+      <li>VERB-Vnoun: ելանել, լսելոյ, մտանել, ծնանելոյ, գալ, զարմանալ, կալ, կատարել, հասանել, սերմանել</li>
     </ul>
   </li>
 </ul>
@@ -248,15 +248,16 @@ The treebank is developed by Petr Kocharov and Lilit Kharatyan at the University
 <ul>
   <li>Abl
     <ul>
-      <li>ADJ: աջմէ, փոքրկանց, հեռաստանէ, ահեկէ, այլոց, ծերոց, չարէ, սրբոյ, առաջնոց, աւտարաց</li>
+      <li>ADJ: աջմէ, այլոց, փոքրկանց, հեռաստանէ, ահեկէ, քաջաց, աւտարաց, ծերոց, չարէ, սրբոյ</li>
       <li>AUX-Vnoun: լինելոյ</li>
-      <li>DET: իմմէ, քումմէ, իւրմէ, այսմ, իւրոց, քոց, այսցանէ, այնմ, այնմանէ, իմոց</li>
-      <li>NOUN: երկնից, Աստուածոյ, հաւրէ, մարդկանէ, աշակերտաց, անձնէ, հետէ, աշխարհէ, ժողովրդենէ, սկզբանէ</li>
-      <li>NUM: երկոտասանից, երկուց, միոջէ, չորից, երից, ինուց, իւթանց, միոյն</li>
-      <li>PRON: նմանէ, նոցանէ, քէն, ձէնջ, ինէն, որմէ, որոց, դմանէ, մէնջ, այնմանէ</li>
-      <li>PROPN: Գաղիղեէ, Երուսաղեմէ, Հրէաստանէ, Յովհաննէ, Նազարեթէ, Արիմաթեայ, Յիսուսէ, սատանայէ, Նոյէ, Երիքովէ</li>
-      <li>VERB-Part: մեռելոց, կոչեցելոց, Դարձեալ, անկելոց, բազմելոց, բարկացեալ, ելելոց, զայրացեալ, թաւալեցուցեալ, կախելոց</li>
-      <li>VERB-Vnoun: ելանելոյ, լինելոյ, կատարելոյ, համբուրելոյ, ճանաչելոյ, մոլորեցուցանելոյ, տալոյ, ցանկանալոյ</li>
+      <li>DET: իմմէ, քումմէ, իւրմէ, իւրոց, այսմ, քոց, այսցանէ, իւրեանց, մերոց, այնմանէ</li>
+      <li>NOUN: երկնից, Աստուածոյ, հաւրէ, մարդկանէ, աշակերտաց, հետէ, անձնէ, սկզբանէ, աշխարհէ, ժողովրդենէ</li>
+      <li>NUM: երկոտասանից, երկուց, միոջէ, երկոցունց, չորից, երից, երեցունց, ինուց, իւթանց, միոյն</li>
+      <li>PRON: նմանէ, նոցանէ, քէն, ձէնջ, ինէն, որոց, որմէ, սմանէ, մէնջ, դմանէ</li>
+      <li>PROPN: Գաղիղեէ, Երուսաղեմէ, Հրէաստանէ, Յովհաննէ, Նազարեթէ, Շամիրամայ, Արիմաթեայ, Հայկայ, Մարաց, Յիսուսէ</li>
+      <li>VERB-Fin: յարէ</li>
+      <li>VERB-Part: մեռելոց, կոչեցելոց, Դարձեալ, անկելոց, բազմելոց, բարկացեալ, գերելոց, ելելոց, զայրացեալ, թաւալեցուցեալ</li>
+      <li>VERB-Vnoun: ելանելոյ, թաղելոյ, կատարելոյ, համբուրելոյ, հապճեպելոյ, ճանաչելոյ, մոլորեցուցանելոյ, վարելոյ, տալոյ, ցանկանալոյ</li>
     </ul>
   </li>
 </ul>
@@ -264,18 +265,16 @@ The treebank is developed by Petr Kocharov and Lilit Kharatyan at the University
 <ul>
   <li>Acc
     <ul>
-      <li>ADJ: բարի, մեծ, յաւիտենականս, այղ, միւս, այլ, չար, փառաւոր, բարիս, ճշմարիտ</li>
-      <li>AUX-Part: լեալ, եղեալ, եղեալս</li>
+      <li>ADJ: բարի, մեծ, յաւիտենականս, այլ, այղ, միւս, այլս, չար, առաջին, փառաւոր</li>
+      <li>AUX-Part: եղեալ, լեալ, եղեալս, լեալս</li>
       <li>AUX-Vnoun: լինել</li>
-      <li>DET: ամենայն, մի, այս, բազում, որ, ինչ, այն, բազումս, այդ, այսոսիկ</li>
-      <li>NOUN: պատասխանի, անձն, հայր, տուն, անուն, երկիր, բան, աշակերտս, Աստուած, որդի</li>
-      <li>NUM: մի, երկուս, հինգ, հարիւր, երիս, եւթն, երեսուն, երկոտասան, երկոտասանս, վաթսուն</li>
-      <li>PRON: նա, նոսա, իս, որ, ինչ, քեզ, ձեզ, զինչ, այս, այն</li>
-      <li>PROPN: Յիսուս, Յովհաննէս, Երուսաղեմ, Պետրոս, Գաղիղեա, Սիմովն, Յակովբոս, Աբրահամ, Պիղատոս, Մարիամ</li>
-      <li>VERB-Conv: գալոց</li>
-      <li>VERB-Inf: բաժանել</li>
-      <li>VERB-Part: եկեալ, կապեալ, առաքեալս, մեռեալս, արձակեալ, զարդարեալ, կոչեցեալ, կորուսեալ, նտրեալս, անուանեալ</li>
-      <li>VERB-Vnoun: զարմանալ, ելանել, գալ, լինել, այրել, բժշկել, ժամանել, լսել, ծածկել, հաւասարել</li>
+      <li>DET: ամենայն, մի, ինչ, բազում, այս, որ, այն, բազումս, նոյն, այսպիսի</li>
+      <li>NOUN: պատասխանի, անուն, տուն, անձն, երկիր, բան, հայր, ձեռն, որդի, աշակերտս</li>
+      <li>NUM: մի, երկուս, հինգ, երիս, հարիւր, եւթն, երեսուն, երկոտասան, երկոտասանս, վաթսուն</li>
+      <li>PRON: նա, նոսա, իս, որ, ինչ, քեզ, զինչ, ձեզ, այս, այն</li>
+      <li>PROPN: Յիսուս, Յովհաննէս, Երուսաղեմ, Պետրոս, Գաղիղեա, Սիմովն, Արայ, Յակովբոս, Հայս, Աբրահամ</li>
+      <li>VERB-Part: եկեալ, կապեալ, անուանեալ, առաքեալս, կոչեցեալ, մեռեալս, ասացեալ, արձակեալ, զարդարեալ, կորուսեալ</li>
+      <li>VERB-Vnoun: ելանել, գալ, զարմանալ, այրել, բժշկել, դաւել, լսել, ծագել, ծածկել, կեալ</li>
     </ul>
   </li>
 </ul>
@@ -283,14 +282,15 @@ The treebank is developed by Petr Kocharov and Lilit Kharatyan at the University
 <ul>
   <li>Dat
     <ul>
-      <li>ADJ: աղքատաց, այլում, այլոց, հիւանդաց, ատելեաց, մեծատան, յղեաց, ստնտուաց, բազմականաց, կուրաց</li>
-      <li>DET: իւրում, այնմիկ, այսմիկ, ձերոց, իմոց, իւրոց, քում, իմում, մերոց, բազմաց</li>
-      <li>NOUN: որդւոյ, առն, տեառն, Աստուածոյ, մարդկան, աշակերտաց, ժողովրդեան, դպրաց, եղբաւր, ազգի</li>
-      <li>NUM: միում, երկուց, երկոտասանից, մետասանից, միո</li>
+      <li>ADJ: աղքատաց, այլոց, այլում, հիւանդաց, ատելեաց, մեծատան, յղեաց, ստնտուաց, առաջնոց, բազմականաց</li>
+      <li>AUX-Vnoun: լինելոյ</li>
+      <li>DET: իւրում, իւրոց, այնմիկ, այսմիկ, իմոց, ձերոց, քում, իմում, մերոց, բազմաց</li>
+      <li>NOUN: որդւոյ, առն, մարդկան, տեառն, Աստուածոյ, աշակերտաց, ժողովրդեան, բանից, եղբաւր, ազգի</li>
+      <li>NUM: երկուց, միում, երկոցունց, երկոտասանից, մետասանից, միո, միոջ, չորից</li>
       <li>PRON: ձեզ, նմա, նոցա, քեզ, ինձ, մեզ, որում, ումեք, որոց, դմա</li>
-      <li>PROPN: Յիսուսի, Մովսէսի, Յովհաննու, Աբրահամու, Իսրայեղի, Էղիայի, Քրիստոսի, Եղիսաբեթի, Զրուանայ, Էղիաի</li>
-      <li>VERB-Part: անկելոյ, անկելոց, առաքելոց, ասացելոյ, արկելոյ, բռելոց, գրելոց, եկելոց, ժողովելոյ, լուացելոյ</li>
-      <li>VERB-Vnoun: լսելոյ, ախորժելոյ, թաղելոյ, կոչելոյ, հասանելոյ</li>
+      <li>PROPN: Յիսուսի, Մովսէսի, Յովհաննու, Աբրահամու, Աժդահակայ, Իսրայեղի, Էղիայի, Քրիստոսի, Եղիսաբեթի, Զրուանայ</li>
+      <li>VERB-Part: անկելոյ, անկելոց, անուանելոց, առաքելոց, ասացելոյ, արկելոյ, բռելոց, գրելոց, ժողովելոյ, լուացելոյ</li>
+      <li>VERB-Vnoun: լսելոյ, ախորժելոյ, հասանելոյ</li>
     </ul>
   </li>
 </ul>
@@ -298,16 +298,16 @@ The treebank is developed by Petr Kocharov and Lilit Kharatyan at the University
 <ul>
   <li>Gen
     <ul>
-      <li>ADJ: այլոց, բարձրելոյ, կուրի, մեղաւորաց, Բաբեղացւոց, սրբոց, ազնուի, առաջնոյ, առաջնոց, ծերոց</li>
-      <li>AUX-Part: եղելոյ, եղելոց</li>
+      <li>ADJ: այլոց, առաջնոյ, բարձրելոյ, իմաստնոց, կուրի, մեծի, մեղաւորաց, մեծաց, Բաբեղացւոց, առաջնոց</li>
+      <li>AUX-Part: եղելոյ, եղելոց, լինելոյ</li>
       <li>AUX-Vnoun: լինելոյ</li>
-      <li>DET: իմոյ, իւրոյ, այնորիկ, այսորիկ, իւրոց, մերոյ, ձերոյ, քո, ձերոց, բազմաց</li>
-      <li>NOUN: Աստուածոյ, մարդոյ, երկնից, տեառն, աշխարհի, հաւր, ժողովրդեան, մարդկան, հրէից, երկրի</li>
-      <li>NUM: միոյ, երկուց, երից, երկոտասանից, միոջ, տասանց, երեսնից, երեցունց, երկոտասանիւք, երկոցունց</li>
-      <li>PRON: նորա, իմ, քո, իւր, ձեր, նոցա, իւրեանց, մեր, որոյ, այնորիկ</li>
-      <li>PROPN: Յիսուսի, Դաւթի, Յովհաննու, Իսրայեղի, Յակովբայ, Սիմովնի, Աբրահամու, Հրէաստանի, Զեբեդեայ, Յովնանու</li>
-      <li>VERB-Part: մեռելոց, ընտրելոց, կառափելոյ, կորուսելոյ, անցելոց, առաքելոց, ասացելոց, ասելոյ, աւհրնելոյ, բացելոյ</li>
-      <li>VERB-Vnoun: ծնանելոյ, առնելոյ, գալոյ, երեւելոյ, մեկնելոյ, ասելոյ, բազմանալոյ, բաժանելոյ, բժշկելոյ, գիտելոյ</li>
+      <li>DET: իմոյ, իւրոյ, մերոյ, իւրոց, մեր, այնորիկ, այսորիկ, իւր, սորա, քո</li>
+      <li>NOUN: Աստուածոյ, մարդոյ, աշխարհի, երկնից, տեառն, հաւր, ժողովրդեան, մարդկան, երկրի, հրէից</li>
+      <li>NUM: միոյ, երկուց, երից, երկոտասանից, երկոցունց, միոջ, չորից, տասանց, բիւրոց, երեսնից</li>
+      <li>PRON: նորա, իմ, քո, իւր, նոցա, ձեր, իւրեանց, որոյ, մեր, այնորիկ</li>
+      <li>PROPN: Յիսուսի, Դաւթի, Յովհաննու, Իսրայեղի, Հայոց, Շամիրամայ, Աժդահակայ, Աբրահամու, Արայի, Յակովբայ</li>
+      <li>VERB-Part: մեռելոց, ընտրելոց, եկելոց, կառափելոյ, կարգելոց, կորուսելոյ, անկելոց, անցելոց, առաքելոյ, առաքելոց</li>
+      <li>VERB-Vnoun: ծնանելոյ, առնելոյ, գալոյ, երեւելոյ, մեկնելոյ, սպանանելոյ, անուանելոյ, անցանելոյ, ապրելոյ, ասելոյ</li>
     </ul>
   </li>
 </ul>
@@ -315,14 +315,15 @@ The treebank is developed by Petr Kocharov and Lilit Kharatyan at the University
 <ul>
   <li>Ins
     <ul>
-      <li>ADJ: սրբով, մեծաւ, այլով, այլովք, ծերովք, երկայնանստիւ, սակաւուք, անբաւիւք, անուշիւ, աշխարականաւք</li>
-      <li>DET: իւրով, իւրովք, որով, բազմաւք, իմով, քով, բազմովք, ձերով, միով, ամենայնիւ</li>
-      <li>NOUN: հոգւով, իշխանութեամբ, առակաւք, ճշմարտութեամբ, աշակերտաւք, ճանապարհաւ, փառաւք, բանիւ, զաւրութեամբ, ջրով</li>
-      <li>NUM: հազարաւ, միով, երիւք, երկոտասանիւք, տասն, քսան</li>
-      <li>PRON: նովաւ, որով, նոքաւք, իւ, իւրեւ, որովք, ինեւ, իւիք, ամենեքումբք, այնու</li>
-      <li>PROPN: Բեեղզեբուղաւ, Հէրովդիանոսաւք, Աբիաթարաւ, Եղիսեիւ, Ենովք, Զեբեդեաւ, Մարեմաւ, Մարիամաւ, Մովսէսիւ, Յակովբաւ</li>
-      <li>VERB-Part: փակելովք, կապելովք, յարեցելովք, պահելով</li>
-      <li>VERB-Vnoun: ասելով, փորձելով, գնալով, լսելով, համարելով, ձգելով, տեսանելով, ախորժելով, անցանելով, առնելով</li>
+      <li>ADJ: մեծաւ, սրբով, սակաւուք, այլով, այլովք, ծերովք, երկայնանստիւ, ամրագունիւք, անբաւիւք, անուշիւ</li>
+      <li>AUX-Part: լինելով</li>
+      <li>DET: իւրով, իւրովք, որով, իմով, բազմաւք, նովին, քով, այնու, այսուիկ, բազմովք</li>
+      <li>NOUN: հոգւով, իշխանութեամբ, ճշմարտութեամբ, աշակերտաւք, առակաւք, զաւրութեամբ, ճանապարհաւ, բանիւ, փառաւք, գրով</li>
+      <li>NUM: բիւրովք, երկոտասանիւք, հազարաւ, միով, չորիւք, երիւք, տասն, քսան</li>
+      <li>PRON: նովաւ, որով, նոքաւք, իւ, որովք, իւիք, իւրեւ, ինեւ, ամենայնիւ, այնու</li>
+      <li>PROPN: Բեեղզեբուղաւ, Հէրովդիանոսաւք, Տեւտամաւ, Աբիաթարաւ, Արտաշիսիւ, Բելոքոսիւ, Եղիսեիւ, Ենովք, Զեբեդեաւ, Մարեմաւ</li>
+      <li>VERB-Part: ունելով, առնելով, գոլով, ասելով, բառնալով, թողլով, հայելով, տեսանելով, փորձելով, ախորժելով</li>
+      <li>VERB-Vnoun: գիտելով, դարձուցանելով, կալով</li>
     </ul>
   </li>
 </ul>
@@ -330,15 +331,15 @@ The treebank is developed by Petr Kocharov and Lilit Kharatyan at the University
 <ul>
   <li>Loc
     <ul>
-      <li>ADJ: անապատի, յետնում, մեղաւորս, փոքու, առաջնում, բարձունս, առաջին, երեւելիս, երրորդ, միւսում</li>
+      <li>ADJ: անապատի, յետնում, առաջին, մեղաւորս, փոքու, առաջնում, բարձունս, այլ, արքունիս, երեւելիս</li>
       <li>AUX-Vnoun: լինել</li>
-      <li>DET: իւրում, այնմիկ, այնոսիկ, քում, այսմիկ, նմին, այնմ, այսմ, իմում, ձերում</li>
-      <li>NOUN: աւուր, երկինս, աղաւթս, շաբաթու, տաճարի, տան, ժամու, աւուրս, աշխարհի, երկրի</li>
+      <li>DET: իւրում, այնմ, այնոսիկ, քում, այնմիկ, այսմիկ, նմին, այսմ, իմում, մերում</li>
+      <li>NOUN: աւուր, երկինս, աղաւթս, շաբաթու, տաճարի, տան, ժամու, աշխարհի, աւուրս, երկրի</li>
       <li>NUM: միում, երկուս, հազարս, հինգ, մի, չորս</li>
-      <li>PRON: նմա, ձեզ, նոսա, իս, որում, քեզ, միմեանս, մեզ, նմայ, որս</li>
-      <li>PROPN: Երուսաղեմ, Յիսուսի, Գաղիղեա, Իսրայեղի, Կափառնաւում, Հրէաստանի, Էրուսաղեմ, Բեթանիա, Բեթղեեմ, Եգիպտոս</li>
-      <li>VERB-Part: հանդերձելում, մեռեալս</li>
-      <li>VERB-Vnoun: ելանել, մտանել, կալ, կատարել, հասանել, սերմանել, բազմել, գնալ, ժողովել, խաւսել</li>
+      <li>PRON: նմա, ձեզ, նոսա, իս, որում, միմեանս, քեզ, նմայ, մեզ, որս</li>
+      <li>PROPN: Երուսաղեմ, Յիսուսի, Գաղիղեա, Իսրայեղի, Կափառնաւում, Հայս, Հրէաստանի, Էրուսաղեմ, Նինուէ, Արմաւիր</li>
+      <li>VERB-Part: անուանեալ, կոչեցեալ, հանդերձելում, մեռեալս</li>
+      <li>VERB-Vnoun: ելանել, մտանել, կալ, կատարել, հասանել, սերմանել, բազմել, բաժանել, գնալ, ժողովել</li>
     </ul>
   </li>
 </ul>
@@ -346,15 +347,17 @@ The treebank is developed by Petr Kocharov and Lilit Kharatyan at the University
 <ul>
   <li>Nom
     <ul>
-      <li>ADJ: մեծ, այլ, արժան, չար, զգոյշ, նման, այլք, ճշմարիտ, միւս, առաջին</li>
-      <li>AUX-Part: լեալ, եղեալ, լիեալ, տուեալ</li>
-      <li>DET: ամենայն, մի, բազում, բազումք, այս, որ, ոմն, այն, իւրաքանչիւր, սակաւ</li>
-      <li>NOUN: տէր, որդի, հայր, աշակերտք, այր, Աստուած, կին, վարդապետ, ժողովուրդ, անուն</li>
-      <li>NUM: մի, երկու, հինգ, վեց, երկոտասան, երկոքին, տասն, երեք, երկուք, հարիւր</li>
-      <li>PRON: որ, ես, նա, ոք, դու, դուք, նոքա, սա, ինչ, ինքն</li>
+      <li>ADJ: մեծ, առաջին, այլ, արժան, ճշմարիտ, չար, այլք, զգոյշ, միւս, նման</li>
+      <li>AUX-Part: լեալ, եղեալ, լիեալ</li>
+      <li>DET: ամենայն, մի, բազում, որ, այս, ոմն, բազումք, այն, իմն, իւրաքանչիւր</li>
+      <li>NOUN: տէր, որդի, հայր, աշակերտք, այր, Աստուած, կին, վարդապետ, անուն, ժողովուրդ</li>
+      <li>NUM: մի, երկու, հինգ, վեց, երկոտասան, երկուք, երկոքին, հազար, տասն, երեք</li>
+      <li>PRON: որ, ես, նա, ոք, դու, դուք, նոքա, ինչ, սա, այս</li>
       <li>PROPN: Յիսուս, Պետրոս, Քրիստոս, Յովհաննէս, Պիղատոս, Մարիամ, Սիմովն, Մովսէս, Յուդա, սատանայ</li>
-      <li>VERB-Part: եկեալ, առեալ, մատուցեալ, գրեալ, ելեալ, յարուցեալ, մտեալ, տեսեալ, թողեալ, անկեալ</li>
-      <li>VERB-Vnoun: դադարեցուցանել, կոչել, անուանել, հանգուցանել</li>
+      <li>VERB-Conv: գործելոց</li>
+      <li>VERB-Fin: սքանչանար</li>
+      <li>VERB-Part: եկեալ, առեալ, մատուցեալ, գրեալ, ելեալ, տեսեալ, յարուցեալ, մտեալ, հասեալ, թողեալ</li>
+      <li>VERB-Vnoun: դադարեցուցանել, կոչել, անուանել, ասել, դառնալ, հանգուցանել, վիշապանալ</li>
     </ul>
   </li>
 </ul>
@@ -377,8 +380,8 @@ The treebank is developed by Petr Kocharov and Lilit Kharatyan at the University
   <li>Ind
     <ul>
       <li>ADV: ինչ, ուրեք, ուստեք</li>
-      <li>DET: ինչ, ոք</li>
-      <li>PRON: ինչ, ոք, ումեք, ուրուք, ումեքէ, իմիք, իւիք, իրիք</li>
+      <li>DET: ինչ, ոք, ումեքէ, ուրուք</li>
+      <li>PRON: ինչ, ոք, ումեք, ուրուք, իւիք, ումեքէ, իմիք, իրիք</li>
     </ul>
   </li>
 </ul>
@@ -387,8 +390,8 @@ The treebank is developed by Petr Kocharov and Lilit Kharatyan at the University
   <li>Spec
     <ul>
       <li>ADV: ուրեմն, երբեմն, իմն</li>
-      <li>DET: մի, ոմն, ոմանք, ուրումն, միում, իմն, միով, միոյ, միոջ, ոմանս</li>
-      <li>PRON: ոմանք, ոմն, ոմանս, ոմանց, ումեմն, ոք, իմն, ուրումն</li>
+      <li>DET: մի, ոմն, իմն, ոմանք, միոյ, միում, ուրումն, ոմանց, միով, ոմանս</li>
+      <li>PRON: ոմանք, ոմն, ոմանս, ոմանց, ոք, ումեմն, իմն, ումեքէ, ուրումն, ոմամբք</li>
     </ul>
   </li>
 </ul>
@@ -421,8 +424,8 @@ The treebank is developed by Petr Kocharov and Lilit Kharatyan at the University
 <ul>
   <li>Imp
     <ul>
-      <li>AUX-Fin: է, էր, իցէ, եին, են, եմ, ես, էք, իցեն, լինիցի</li>
-      <li>VERB-Fin: ասէ, ասեն, ասեմ, ասեին, գայ, ասէր, ծնանի, կայր, գիտեմ, գիտէք</li>
+      <li>AUX-Fin: է, էր, իցէ, են, եին, եմ, ես, էք, իցեն, լինի</li>
+      <li>VERB-Fin: ասէ, ասեն, ասեմ, ասեին, գայ, ասէր, ծնանի, կայր, ունէր, կարէ</li>
     </ul>
   </li>
 </ul>
@@ -430,8 +433,8 @@ The treebank is developed by Petr Kocharov and Lilit Kharatyan at the University
 <ul>
   <li>Perf
     <ul>
-      <li>AUX-Fin: եղեւ, եղիցի, եղեն, լիցի, եղիցին, լիցին, լերուք, եղերուք, լեր, եղիջիք</li>
-      <li>VERB-Fin: ետ, եկն, ասաց, ել, ետես, առաքեաց, արար, գնաց, տեսին, ծնաւ</li>
+      <li>AUX-Fin: եղեւ, եղիցի, լիցի, եղեն, եղիցին, լիցին, լերուք, լեր, եղերուք, եղիջիք</li>
+      <li>VERB-Fin: ետ, եկն, ասաց, ել, ետես, առաքեաց, գնաց, արար, ծնաւ, տեսին</li>
     </ul>
   </li>
 </ul>
@@ -443,7 +446,7 @@ The treebank is developed by Petr Kocharov and Lilit Kharatyan at the University
 <ul>
   <li>Imp
     <ul>
-      <li>AUX-Fin: լերուք, եղերուք, լեր, լինիր, լինիք, եր</li>
+      <li>AUX-Fin: լերուք, լեր, եղերուք, լինիր, լինիք, եր, տուք</li>
       <li>VERB-Fin: երթ, երթայք, տուր, տուք, կացէք, արարէք, եկայք, ասա, եկ, արի</li>
     </ul>
   </li>
@@ -452,7 +455,7 @@ The treebank is developed by Petr Kocharov and Lilit Kharatyan at the University
 <ul>
   <li>Ind
     <ul>
-      <li>AUX-Fin: է, էր, եղեւ, եին, են, եմ, ես, էք, եղեն, լինի</li>
+      <li>AUX-Fin: է, էր, եղեւ, են, եին, եմ, ես, էք, լինի, եղեն</li>
       <li>VERB-Fin: ասէ, ետ, ասեն, ասեմ, ասեին, եկն, ասաց, գայ, ասէր, ել</li>
     </ul>
   </li>
@@ -461,7 +464,7 @@ The treebank is developed by Petr Kocharov and Lilit Kharatyan at the University
 <ul>
   <li>Sub
     <ul>
-      <li>AUX-Fin: իցէ, եղիցի, իցեն, լինիցի, լիցի, եղիցին, իցեմ, լիցին, եղիջիք, իցես</li>
+      <li>AUX-Fin: իցէ, եղիցի, իցեն, լիցի, լինիցի, եղիցին, իցեմ, լիցին, եղիջիք, իցես</li>
       <li>VERB-Fin: եկեցէ, ունիցի, տացէ, ասիցէ, տեսանիցէք, լցցի, արարից, տեսցեն, գիտասջիք, կորուսցէ</li>
     </ul>
   </li>
@@ -474,11 +477,11 @@ The treebank is developed by Petr Kocharov and Lilit Kharatyan at the University
 <ul>
   <li>Past
     <ul>
-      <li>AUX-Fin: էր, եղեւ, եին, եղեն, եի, լինէր, եիր, լինեին, ետ, եր</li>
-      <li>AUX-Part: լեալ, եղեալ, լիեալ, եղելոյ, եղեալս, եղելոց, տուեալ</li>
+      <li>AUX-Fin: էր, եղեւ, եին, եղեն, լինէր, եի, եիր, լինեին, էին, ետ</li>
+      <li>AUX-Part: լեալ, եղեալ, լիեալ, եղելոյ, եղեալս, եղելոց, լեալս, լինելոյ</li>
       <li>VERB-Fin: ետ, ասեին, եկն, ասաց, ել, ետես, առաքեաց, ասէր, արար, գնաց</li>
-      <li>VERB-Part: եկեալ, առեալ, մատուցեալ, գրեալ, ելեալ, յարուցեալ, մտեալ, տեսեալ, մեռելոց, թողեալ</li>
-      <li>VERB-Vnoun: աւհրնել</li>
+      <li>VERB-Part: եկեալ, առեալ, մատուցեալ, գրեալ, ելեալ, տեսեալ, յարուցեալ, մտեալ, հասեալ, թողեալ</li>
+      <li>VERB-Vnoun: աւհրնել, սպանանելոյ</li>
     </ul>
   </li>
 </ul>
@@ -486,8 +489,8 @@ The treebank is developed by Petr Kocharov and Lilit Kharatyan at the University
 <ul>
   <li>Pres
     <ul>
-      <li>AUX-Fin: է, են, եմ, ես, էք, լինի, եմք, լինին, իցէ, տայ</li>
-      <li>VERB-Fin: ասէ, ասեն, ասեմ, գայ, ծնանի, գիտեմ, գիտէք, կարէ, առնէ, երթամ</li>
+      <li>AUX-Fin: է, են, եմ, ես, էք, լինի, եմք, լինին, իցէ, իցեն</li>
+      <li>VERB-Fin: ասէ, ասեն, ասեմ, գայ, ծնանի, կարէ, գիտեմ, գիտէք, առնէ, երթամ</li>
     </ul>
   </li>
 </ul>
@@ -508,10 +511,10 @@ The treebank is developed by Petr Kocharov and Lilit Kharatyan at the University
 <ul>
   <li>Cau
     <ul>
-      <li>VERB-Fin: ուսուցանէր, կեցուցին, մատուցին, կացոյց, հատուսցէ, մատո, յարոյց, գայթագղեցուսցէ, ապրեցուսցէ, գայթագղեցուցանէ</li>
-      <li>VERB-Inf: ապրեցուցանել, ուսուցանել, կեցուցանել, հատուցանել, յարուցանել, նստուցանել, արդարացուցանել, բազմեցուցանել, դարձուցանել, թագաւորեցուցանել</li>
-      <li>VERB-Part: թաւալեցուցեալ, մատուցեալ, իջուցեալ, խոնարհեցուցեալ, զարթուցեալ, հնազանդեցուցեալ, մատուցելոց, յանցուցեալ, ուսեալ, ուսեալք</li>
-      <li>VERB-Vnoun: դադարեցուցանել, դարձուցանելով, հանգուցանել, հատուցանելոյ, մոլորեցուցանել, մոլորեցուցանելոյ, յագեցուցանել, ուսուցանել, ուսուցանելով</li>
+      <li>VERB-Fin: ուսուցանէր, կացոյց, կեցուցին, մատուցին, հատուսցէ, մատո, յարոյց, գայթագղեցուսցէ, ապրեցուսցէ, բնակեցուցանէ</li>
+      <li>VERB-Inf: ապրեցուցանել, ուսուցանել, կեցուցանել, հատուցանել, կացուցանել, մատուցանել, յարուցանել, նստուցանել, արդարացուցանել, բազմեցուցանել</li>
+      <li>VERB-Part: մատուցեալ, թաւալեցուցեալ, իջուցեալ, խոնարհեցուցեալ, փախուցեալ, անցուցեալ, աստուածացուցեալ, դարձուցեալ, զարթուցեալ, թագուցեալ</li>
+      <li>VERB-Vnoun: դադարեցուցանել, դարձուցանելով, հանգուցանել, հատուցանելոյ, մոլորեցուցանելոյ, յագեցուցանել, ուսուցանել</li>
     </ul>
   </li>
 </ul>
@@ -527,7 +530,7 @@ The treebank is developed by Petr Kocharov and Lilit Kharatyan at the University
 <ul>
   <li>Pass
     <ul>
-      <li>AUX-Fin: եղիցի, լինիցի, լիցի, եղիցին, լինի, լիցին, լերուք, եղերուք, լինին, լինիցին</li>
+      <li>AUX-Fin: եղիցի, լիցի, լինիցի, լինի, եղիցին, լիցին, լերուք, եղերուք, լինին, լինիցին</li>
       <li>VERB-Fin: ծնաւ, ծնանի, լուաւ, սկսաւ, լուան, ունիցի, անկաւ, խաւսեցաւ, յարեաւ, ընդունի</li>
     </ul>
   </li>
@@ -544,7 +547,7 @@ The treebank is developed by Petr Kocharov and Lilit Kharatyan at the University
 <ul>
   <li>Art
     <ul>
-      <li>DET: ն, ս, դ</li>
+      <li>DET: ն, ս, դ, մի, միոյ, միում, միով, միոջ</li>
     </ul>
   </li>
 </ul>
@@ -552,11 +555,10 @@ The treebank is developed by Petr Kocharov and Lilit Kharatyan at the University
 <ul>
   <li>Dem
     <ul>
-      <li>ADP: այսր, անդր</li>
-      <li>ADV: անդ, նոյնպէս, աստ, այսպէս, այնպէս, անտի, անդրէն, այսր, անդր, աստի</li>
-      <li>DET: այս, այն, այնմիկ, այսմիկ, այդ, այնորիկ, այսմ, այնմ, այնոսիկ, այսորիկ</li>
+      <li>ADV: անդ, այսպէս, աստ, նոյնպէս, այնպէս, անտի, անդրէն, այսր, այսուհետեւ, անդր</li>
+      <li>DET: այս, այն, այսպիսի, նոյն, այնմիկ, այսմ, այսմիկ, այդ, այնմ, այնոսիկ</li>
       <li>INTJ: ահաւասիկ, աւասիկ, ահաւանիկ, ահաւադիկ, աւադիկ, աւանիկ</li>
-      <li>PRON: նա, նորա, նոսա, նմա, նոցա, այս, նոքա, նմանէ, այն, սա</li>
+      <li>PRON: նա, նորա, նոսա, նմա, նոցա, այս, նոքա, նմանէ, սա, այն</li>
     </ul>
   </li>
 </ul>
@@ -564,9 +566,9 @@ The treebank is developed by Petr Kocharov and Lilit Kharatyan at the University
 <ul>
   <li>Ind
     <ul>
-      <li>ADV: ուր, ուստի, երբ, զիարդ, ինչ, ընդէր, զի, ընդէ՛ր</li>
-      <li>DET: ոմն, ինչ, ոք, ոմանք, ուրումն, զինչ, ոմանս, ոմանց, ումեմնէ</li>
-      <li>PRON: ինչ, ոք, զինչ, ոմանք, ոմն, ումեք, ո, ով, ոյր, զի</li>
+      <li>ADV: ուր, ուստի, երբ, ինչ, զիարդ, ընդէր, զի, ընդէ՛ր</li>
+      <li>DET: բազում, ինչ, ոմն, բազումք, բազումս, իմն, սակաւ, բազմաց, ոմանք, ոք</li>
+      <li>PRON: ինչ, ոք, զինչ, ոմանք, ոմն, ումեք, ո, բազումք, ով, ոյր</li>
     </ul>
   </li>
 </ul>
@@ -575,8 +577,8 @@ The treebank is developed by Petr Kocharov and Lilit Kharatyan at the University
   <li>Int
     <ul>
       <li>ADV: զիարդ, ընդէր, զի, ուր, ուստի, երբ, որչափ, որպէս, ինչ</li>
-      <li>DET: որ, զինչ, որով, որոյ, որոց</li>
-      <li>PRON: զինչ, ո, ով, զի, ում, իւ, ոյր, որս, ումէ</li>
+      <li>DET: զինչ, որ, որով, որոյ, որոց</li>
+      <li>PRON: զինչ, ո, ով, զի, ում, իւ, ոյր, ինչ, յո, ոյք</li>
     </ul>
   </li>
 </ul>
@@ -584,8 +586,8 @@ The treebank is developed by Petr Kocharov and Lilit Kharatyan at the University
 <ul>
   <li>Prs
     <ul>
-      <li>DET: իւրում, իմոյ, իւրոց, իւրոյ, իմմէ, ձերոց, քում, քոց, քումմէ, իմոց</li>
-      <li>PRON: ձեզ, իմ, իս, քո, ես, իւր, քեզ, դու, դուք, ձեր</li>
+      <li>DET: իւրում, իւրոց, մեր, իւրոյ, իմոյ, իւր, մերոյ, իմմէ, մերոց, քում</li>
+      <li>PRON: ձեզ, իմ, իս, իւր, քեզ, քո, ես, մեզ, դու, դուք</li>
     </ul>
   </li>
 </ul>
@@ -593,7 +595,7 @@ The treebank is developed by Petr Kocharov and Lilit Kharatyan at the University
 <ul>
   <li>Rcp
     <ul>
-      <li>PRON: միմեանս, միմեանց</li>
+      <li>PRON: միմեանս, միմեանց, իրեարս, միմեամբք</li>
     </ul>
   </li>
 </ul>
@@ -602,8 +604,8 @@ The treebank is developed by Petr Kocharov and Lilit Kharatyan at the University
   <li>Rel
     <ul>
       <li>ADV: որպէս, որչափ, յորժամ, որքան</li>
-      <li>DET: որ, որմէ, որով, որում</li>
-      <li>PRON: որ, որում, որոյ, որոց, որք, որս, որո, որով, որմէ, որովք</li>
+      <li>DET: որ, որմէ, որով, որում, որոյ, որք</li>
+      <li>PRON: որ, որում, որոյ, որոց, որք, որս, որմէ, որով, որո, որովք</li>
     </ul>
   </li>
 </ul>
@@ -611,8 +613,8 @@ The treebank is developed by Petr Kocharov and Lilit Kharatyan at the University
 <ul>
   <li>Tot
     <ul>
-      <li>DET: ամենայն, ամենեքին, ամենեցուն, ամենեսին, ամենայնէ, ամենայնի, ամենայնիւ, ամենեքեան, այմենայն</li>
-      <li>PRON: ամենայն, ամենեքին, ամենեքեան, ամենեցուն, ամենայնի, ամենեսին, ամենեսեան, ամենեցունց, ամենեքումբք, ամենայնէ</li>
+      <li>DET: ամենայն, իւրաքանչիւր, ամենեքին, ամենեսին, ամենեցուն, ամենայնի, ամենայնիւ, ամենեքեան, այմենայն, բոլոր</li>
+      <li>PRON: ամենայն, ամենեքին, ամենեցուն, ամենեքեան, ամենայնի, ամենեսին, ամենեսեան, ամենեցունց, իւրաքանչիւր, ամենայնիւ</li>
     </ul>
   </li>
 </ul>
@@ -624,7 +626,7 @@ The treebank is developed by Petr Kocharov and Lilit Kharatyan at the University
 <ul>
   <li>Card
     <ul>
-      <li>NUM: մի, երկուս, հինգ, հարիւր, երկու, եւթն, երիս, երկոտասան, երեսուն, երկուց</li>
+      <li>NUM: մի, երկուս, հինգ, երկու, հարիւր, երիս, եւթն, երկուց, երկոտասան, երեսուն</li>
     </ul>
   </li>
 </ul>
@@ -648,7 +650,7 @@ The treebank is developed by Petr Kocharov and Lilit Kharatyan at the University
 <ul>
   <li>Ord
     <ul>
-      <li>ADJ: երրորդ, երիր, երկրորդ, չորրորդ, վեցերորդ, երրորդի, եւթներորդ, իններորդ, մետասաներորդ, եկրորդ</li>
+      <li>ADJ: երրորդ, երկրորդ, երիր, չորրորդ, վեցերորդ, երրորդի, երկրորդի, եւթներորդ, իններորդ, մետասաներորդ</li>
     </ul>
   </li>
 </ul>
@@ -656,7 +658,7 @@ The treebank is developed by Petr Kocharov and Lilit Kharatyan at the University
 <ul>
   <li>Sets
     <ul>
-      <li>NUM: երկոքին, երկոտասանեսին, եւթնեքեան, եւթանեքին, իւթանեքին</li>
+      <li>NUM: երկոքին, երկոքեան, երկոցունց, երկոտասանեսին, եւթնեքեան, երեցունց, եւթանեքին, իւթանեքին</li>
     </ul>
   </li>
 </ul>
@@ -668,7 +670,7 @@ The treebank is developed by Petr Kocharov and Lilit Kharatyan at the University
 <ul>
   <li>Yes
     <ul>
-      <li>DET: իւրում, իմոյ, իւրոց, իւրոյ, իմմէ, ձերոց, քում, քոց, քումմէ, իմոց</li>
+      <li>DET: իւրում, իւրոց, մեր, իւրոյ, իմոյ, իւր, մերոյ, իմմէ, մերոց, քում</li>
     </ul>
   </li>
 </ul>
@@ -680,8 +682,8 @@ The treebank is developed by Petr Kocharov and Lilit Kharatyan at the University
 <ul>
   <li>Yes
     <ul>
-      <li>DET: իւրում, իւրոց, իւրոյ, իւրմէ, իւր, իւրով, իւրովք, իւրեանց, իրում, իւրս</li>
-      <li>PRON: իւր, ինքն, իւրեանց, իւրեանս, իւրեւ, իւրոյ, իւրոց, իւրում, ես, ինքեանք</li>
+      <li>DET: իւրում, իւրոց, իւրոյ, իւր, իւրմէ, իւրով, իւրեանց, իւրովք, ինքն, իրում</li>
+      <li>PRON: իւր, ինքն, իւրեանց, իւրեանս, իւրեւ, իւրոյ, իւրոց, իւրեաւ, իւրում, ես</li>
     </ul>
   </li>
 </ul>
@@ -693,10 +695,10 @@ The treebank is developed by Petr Kocharov and Lilit Kharatyan at the University
 <ul>
   <li>1
     <ul>
-      <li>AUX-Fin: եմ, իցեմ, եի, եմք, եաք, եղէց, եղեաք, ետու, էի, իցեմք</li>
-      <li>DET: իմոյ, իմմէ, իմոց, մեր, մերոց, իմում, մերոյ, իմ, մերում, իմով</li>
+      <li>AUX-Fin: եմ, իցեմ, եի, եմք, եաք, եղէց, եղեաք, եղիցուք, ետու, էի</li>
+      <li>DET: մեր, իմոյ, մերոյ, իմմէ, մերոց, իմոց, իմում, իմ, մերում, իմով</li>
       <li>PRON: իմ, իս, ես, մեզ, ինձ, մեր, մեք, ինէն, մէնջ, ինեւ</li>
-      <li>VERB-Fin: ասեմ, գիտեմ, ասացի, երթամ, գիտեմք, եկի, արարից, կամիմ, խաւսեցայ, ունիմ</li>
+      <li>VERB-Fin: ասեմ, գիտեմ, ասացի, երթամ, գիտեմք, եկի, կամիմ, արարից, ունիմ, խաւսեցայ</li>
     </ul>
   </li>
 </ul>
@@ -705,8 +707,8 @@ The treebank is developed by Petr Kocharov and Lilit Kharatyan at the University
   <li>2
     <ul>
       <li>AUX-Fin: ես, էք, լերուք, եղերուք, եղիջիք, իցես, լեր, եիր, իցէք, լինիջիք</li>
-      <li>DET: ձերոց, քում, քոց, քումմէ, քո, ձերոյ, ձերմէ, ձերում, քոյ, քով</li>
-      <li>PRON: ձեզ, քո, քեզ, դու, դուք, ձեր, քէն, ձէնջ, քեւ</li>
+      <li>DET: քում, ձերոց, քոց, քումմէ, քո, ձերոյ, ձերմէ, ձերում, քոյ, քով</li>
+      <li>PRON: ձեզ, քեզ, քո, դու, դուք, ձեր, քէն, ձէնջ, քեւ</li>
       <li>VERB: երթ, գիտէք, արարէք, երթայք, տուր, տուք, կացէք, ունիք, եկայք, տեսանիցէք</li>
       <li>VERB-Fin: երթ, գիտէք, արարէք, երթայք, տուր, տուք, կացէք, ունիք, եկայք, տեսանիցէք</li>
     </ul>
@@ -716,9 +718,10 @@ The treebank is developed by Petr Kocharov and Lilit Kharatyan at the University
 <ul>
   <li>3
     <ul>
-      <li>AUX-Fin: է, էր, եղեւ, իցէ, եին, են, եղիցի, իցեն, լինիցի, եղեն</li>
-      <li>DET: իւրում, իւրոց, իւրոյ, իւրմէ, իւր, իւրով, իւրովք, իւրեանց, իրում, իւրս</li>
-      <li>PRON: իւր, ինքն, իւրեանց, իւրեանս, իւրեւ, իւրոյ, իւրոց, իւրում, ինքեանք, իւրս</li>
+      <li>AUX: է, էր, եղեւ, իցէ, են, եին, եղիցի, իցեն, լինիցի, լիցի</li>
+      <li>AUX-Fin: է, էր, եղեւ, իցէ, են, եին, եղիցի, իցեն, լիցի, լինիցի</li>
+      <li>DET: իւրում, իւրոց, իւրոյ, իւր, իւրմէ, իւրով, իւրեանց, իւրովք, ինքն, իրում</li>
+      <li>PRON: իւր, ինքն, իւրեանց, իւրեանս, իւրեւ, իւրոյ, իւրոց, իւրեաւ, իւրում, ինքեան</li>
       <li>VERB-Fin: ասէ, ետ, ասեն, ասեին, եկն, ասաց, գայ, ասէր, ել, ետես</li>
     </ul>
   </li>
@@ -758,19 +761,54 @@ The treebank is developed by Petr Kocharov and Lilit Kharatyan at the University
       <li>Prox
         <ul>
           <li>ADP: աստի, աստ, այսր</li>
-          <li>ADV: աստ, այսպէս, այսր, աստի, այսուհետեւ, այսպիսի, աստէն</li>
-          <li>DET: ս, այս, այսմիկ, այսմ, այսորիկ, այսպիսի, այսոսիկ, այսցանէ, այսոցիկ, այսմանէ</li>
+          <li>ADV: այսպէս, աստ, այսր, այսուհետեւ, աստի, այսպիսի, աստէն, աւասիկ</li>
+          <li>DET: ս, այս, այսմ, այսմիկ, այսպիսի, այսորիկ, այսոսիկ, սորա, այսպիսւոյ, այսցանէ</li>
           <li>INTJ: ահաւասիկ, աւասիկ</li>
-          <li>PRON: այս, սա, այսորիկ, սմա, այսոսիկ, սորա, այսոցիկ, այսոքիկ, սմանէ, սոքա</li>
+          <li>PRON: այս, սա, այսորիկ, սորա, այսոսիկ, սմա, սմանէ, այսոքիկ, այսոցիկ, սոցանէ</li>
         </ul>
       </li>
       <li>Remt
         <ul>
           <li>ADP: անտի, անդ, անդր</li>
           <li>ADV: անդ, նոյնպէս, այնպէս, անտի, անդրէն, անդր, անդէն, այնուհետեւ, նա</li>
-          <li>DET: ն, այն, այնմիկ, այնորիկ, այնմ, այնոսիկ, նմին, նոյն, այնոցիկ, այնմանէ</li>
+          <li>DET: ն, այն, նոյն, այնմիկ, այնմ, այնոսիկ, այնորիկ, նմին, այնոցիկ, այսպիսի</li>
           <li>INTJ: ահաւանիկ, աւանիկ</li>
           <li>PRON: նա, նորա, նոսա, նմա, նոցա, նոքա, նմանէ, այն, նոցանէ, այնորիկ</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>ExtPos</a>
+    <ul>
+      <li>ADP
+        <ul>
+          <li>ADP: ի, մինչեւ, առ, ընդ, մերձ, շուրջ, մաւտ, մինչ, վասն, բայց</li>
+        </ul>
+      </li>
+      <li>ADV
+        <ul>
+          <li>ADP: ի, առ, մինչեւ, յ</li>
+          <li>ADV: մանաւանդ, ընդ, ի, Ամէն, շուրջ, աստ, որչափ, որպէս</li>
+        </ul>
+      </li>
+      <li>DET
+        <ul>
+          <li>PART: ոչ</li>
+        </ul>
+      </li>
+      <li>PRON
+        <ul>
+          <li>PART: ոչ</li>
+        </ul>
+      </li>
+      <li>SCONJ
+        <ul>
+          <li>ADP: վասն, փոխանակ, մինչ</li>
+          <li>ADV: որպէս</li>
+          <li>SCONJ: զի</li>
         </ul>
       </li>
     </ul>
@@ -794,11 +832,11 @@ The treebank is developed by Petr Kocharov and Lilit Kharatyan at the University
 <h3>Auxiliary Verbs and Copula</h3>
 
 <ul>
-<li>This corpus uses 3 lemmas as copulas (<a>cop</a>). Examples: եմ, լինիմ, չիք.</li>
+<li>This corpus uses 3 lemmas as copulas (<a>cop</a>). Examples: եմ, լինել, չիք.</li>
 </ul>
 
 <ul>
-<li>This corpus uses 2 lemmas as auxiliaries (<a>aux</a>). Examples: եմ, լինիմ.</li>
+<li>This corpus uses 3 lemmas as auxiliaries (<a>aux</a>). Examples: եմ, լինել, տալ.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -807,17 +845,15 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB-Conv--NOUN-Nom (7)</li>
-      <li>VERB-Conv--PRON-Nom (40)</li>
-      <li>VERB-Fin--NOUN-Nom (1257)</li>
-      <li>VERB-Fin--PRON-Nom (1689)</li>
-      <li>VERB-Inf--NOUN-Nom (6)</li>
-      <li>VERB-Inf--PRON-Nom (3)</li>
-      <li>VERB-Part--NOUN-Acc (3)</li>
-      <li>VERB-Part--NOUN-Gen (1)</li>
-      <li>VERB-Part--NOUN-Nom (115)</li>
-      <li>VERB-Part--PRON-Acc (1)</li>
-      <li>VERB-Part--PRON-Nom (88)</li>
+      <li>VERB-Conv--NOUN-Nom (6)</li>
+      <li>VERB-Conv--PRON-Nom (44)</li>
+      <li>VERB-Fin--NOUN-Nom (1330)</li>
+      <li>VERB-Fin--PRON-Nom (1764)</li>
+      <li>VERB-Inf--NOUN-Nom (5)</li>
+      <li>VERB-Inf--PRON-Nom (1)</li>
+      <li>VERB-Part--NOUN-Nom (126)</li>
+      <li>VERB-Part--PRON-Nom (103)</li>
+      <li>VERB-Vnoun--PRON-Nom (1)</li>
     </ul>
   </li>
 </ul>
@@ -825,33 +861,25 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN-Acc-ADP(զ) (1)</li>
       <li>VERB-Conv--NOUN-Acc (1)</li>
-      <li>VERB-Conv--NOUN-Acc-ADP(զ) (1)</li>
       <li>VERB-Conv--PRON-Acc (1)</li>
-      <li>VERB-Conv--PRON-Acc-ADP(զ) (24)</li>
-      <li>VERB-Fin--NOUN-Acc (890)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(զ) (1159)</li>
+      <li>VERB-Conv--PRON-Acc-ADP(զ) (25)</li>
+      <li>VERB-Fin--NOUN-Acc (935)</li>
+      <li>VERB-Fin--NOUN-Acc-ADP(զ) (1254)</li>
+      <li>VERB-Fin--NOUN-Acc-ADP(զ)-ADP(զ) (1)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(զ) (4)</li>
-      <li>VERB-Fin--PRON-Acc (176)</li>
-      <li>VERB-Fin--PRON-Acc-ADP(զ) (1398)</li>
-      <li>VERB-Fin--PRON-Gen-ADP(զ) (1)</li>
-      <li>VERB-Inf--NOUN-Acc (99)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(զ) (148)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(զ)-ADP(զ) (2)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(ի) (1)</li>
-      <li>VERB-Inf--PRON-Acc (21)</li>
-      <li>VERB-Inf--PRON-Acc-ADP(զ) (112)</li>
-      <li>VERB-Inf--PRON-Gen-ADP(զ) (1)</li>
-      <li>VERB-Part--NOUN-Acc (68)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(զ) (88)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(ի) (2)</li>
-      <li>VERB-Part--NOUN-Nom (1)</li>
-      <li>VERB-Part--PRON-Acc (5)</li>
-      <li>VERB-Part--PRON-Acc-ADP(զ) (54)</li>
-      <li>VERB-Vnoun--NOUN-Acc (1)</li>
-      <li>VERB-Vnoun--NOUN-Acc-ADP(զ) (1)</li>
-      <li>VERB-Vnoun--PRON-Acc-ADP(զ) (1)</li>
+      <li>VERB-Fin--PRON-Acc (189)</li>
+      <li>VERB-Fin--PRON-Acc-ADP(զ) (1432)</li>
+      <li>VERB-Inf--NOUN-Acc (111)</li>
+      <li>VERB-Inf--NOUN-Acc-ADP(զ) (189)</li>
+      <li>VERB-Inf--PRON-Acc (25)</li>
+      <li>VERB-Inf--PRON-Acc-ADP(զ) (125)</li>
+      <li>VERB-Part--NOUN-Acc (110)</li>
+      <li>VERB-Part--NOUN-Acc-ADP(զ) (130)</li>
+      <li>VERB-Part--PRON-Acc (6)</li>
+      <li>VERB-Part--PRON-Acc-ADP(զ) (66)</li>
+      <li>VERB-Vnoun--NOUN-Acc-ADP(զ) (3)</li>
+      <li>VERB-Vnoun--PRON-Acc-ADP(զ) (3)</li>
     </ul>
   </li>
 </ul>
@@ -859,14 +887,16 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB-Conv--PRON-Dat (1)</li>
-      <li>VERB-Fin--NOUN-Dat (164)</li>
-      <li>VERB-Fin--PRON-Dat (893)</li>
-      <li>VERB-Inf--NOUN-Dat (42)</li>
-      <li>VERB-Inf--PRON-Dat (60)</li>
-      <li>VERB-Part--NOUN-Dat (8)</li>
-      <li>VERB-Part--PRON-Dat (37)</li>
-      <li>VERB-Vnoun--PRON-Dat (1)</li>
+      <li>VERB-Conv--PRON-Dat (2)</li>
+      <li>VERB-Fin--NOUN-Dat (188)</li>
+      <li>VERB-Fin--PRON-Acc-ADP(զ) (5)</li>
+      <li>VERB-Fin--PRON-Dat (925)</li>
+      <li>VERB-Inf--NOUN-Dat (53)</li>
+      <li>VERB-Inf--PRON-Acc-ADP(զ) (2)</li>
+      <li>VERB-Inf--PRON-Dat (74)</li>
+      <li>VERB-Part--NOUN-Dat (13)</li>
+      <li>VERB-Part--PRON-Dat (51)</li>
+      <li>VERB-Vnoun--PRON-Dat (2)</li>
     </ul>
   </li>
 </ul>
@@ -876,7 +906,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Verbs with Reflexive Core Objects</h3>
 
 <ul>
-  <li>This corpus contains 10 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: գնել իւրեանց, անկանել իւրեանց, ապրեցուցանել ինքն, առնուլ իւր, ասել իւրեանց, ընկենուլ ինքն, թուել ինձ, հանել իւր, հատանել իւրս, սիրել իւրս</li>
+  <li>This corpus contains 11 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: գնել իւրեանց, անկանել իւրեանց, ապրեցուցանել ինքն, ընկենուլ ինքն, թուել ինձ, կարծել ինքն, հանել իւր, հաստատել ինքն, հատանել իւրս, սիրել իւրս, վարել ինքն</li>
 </ul>
 
 <h3>Relations Overview</h3>

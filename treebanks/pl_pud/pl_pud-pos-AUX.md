@@ -13,19 +13,19 @@ The 10 most frequent `AUX` lemmas: <em>być, zostać, to, by, zostawać</em>
 
 The 10 most frequent `AUX` types:  <em>jest, to, był, są, został, by, będzie, było, była, zostały</em>
 
-The 10 most frequent ambiguous lemmas: <em>być</em> (<tt><a href="pl_pud-pos-AUX.html">AUX</a></tt> 313, <tt><a href="pl_pud-pos-VERB.html">VERB</a></tt> 42, <tt><a href="pl_pud-pos-NOUN.html">NOUN</a></tt> 2), <em>zostać</em> (<tt><a href="pl_pud-pos-AUX.html">AUX</a></tt> 77, <tt><a href="pl_pud-pos-VERB.html">VERB</a></tt> 5), <em>to</em> (<tt><a href="pl_pud-pos-PRON.html">PRON</a></tt> 88, <tt><a href="pl_pud-pos-AUX.html">AUX</a></tt> 44, <tt><a href="pl_pud-pos-PART.html">PART</a></tt> 7), <em>by</em> (<tt><a href="pl_pud-pos-AUX.html">AUX</a></tt> 24, <tt><a href="pl_pud-pos-SCONJ.html">SCONJ</a></tt> 1), <em>zostawać</em> (<tt><a href="pl_pud-pos-AUX.html">AUX</a></tt> 2, <tt><a href="pl_pud-pos-VERB.html">VERB</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>być</em> (<tt><a href="pl_pud-pos-AUX.html">AUX</a></tt> 313, <tt><a href="pl_pud-pos-VERB.html">VERB</a></tt> 42, <tt><a href="pl_pud-pos-NOUN.html">NOUN</a></tt> 2), <em>zostać</em> (<tt><a href="pl_pud-pos-AUX.html">AUX</a></tt> 77, <tt><a href="pl_pud-pos-VERB.html">VERB</a></tt> 5), <em>to</em> (<tt><a href="pl_pud-pos-PRON.html">PRON</a></tt> 87, <tt><a href="pl_pud-pos-AUX.html">AUX</a></tt> 44, <tt><a href="pl_pud-pos-PART.html">PART</a></tt> 7), <em>by</em> (<tt><a href="pl_pud-pos-AUX.html">AUX</a></tt> 24, <tt><a href="pl_pud-pos-SCONJ.html">SCONJ</a></tt> 1), <em>zostawać</em> (<tt><a href="pl_pud-pos-AUX.html">AUX</a></tt> 2, <tt><a href="pl_pud-pos-VERB.html">VERB</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>jest</em> (<tt><a href="pl_pud-pos-AUX.html">AUX</a></tt> 109, <tt><a href="pl_pud-pos-VERB.html">VERB</a></tt> 9), <em>to</em> (<tt><a href="pl_pud-pos-PRON.html">PRON</a></tt> 37, <tt><a href="pl_pud-pos-AUX.html">AUX</a></tt> 35, <tt><a href="pl_pud-pos-PART.html">PART</a></tt> 5, <tt><a href="pl_pud-pos-DET.html">DET</a></tt> 2), <em>był</em> (<tt><a href="pl_pud-pos-AUX.html">AUX</a></tt> 34, <tt><a href="pl_pud-pos-VERB.html">VERB</a></tt> 2), <em>są</em> (<tt><a href="pl_pud-pos-AUX.html">AUX</a></tt> 36, <tt><a href="pl_pud-pos-VERB.html">VERB</a></tt> 2), <em>został</em> (<tt><a href="pl_pud-pos-AUX.html">AUX</a></tt> 27, <tt><a href="pl_pud-pos-VERB.html">VERB</a></tt> 3), <em>by</em> (<tt><a href="pl_pud-pos-AUX.html">AUX</a></tt> 24, <tt><a href="pl_pud-pos-SCONJ.html">SCONJ</a></tt> 1), <em>będzie</em> (<tt><a href="pl_pud-pos-AUX.html">AUX</a></tt> 22, <tt><a href="pl_pud-pos-VERB.html">VERB</a></tt> 4), <em>było</em> (<tt><a href="pl_pud-pos-AUX.html">AUX</a></tt> 19, <tt><a href="pl_pud-pos-VERB.html">VERB</a></tt> 11), <em>była</em> (<tt><a href="pl_pud-pos-AUX.html">AUX</a></tt> 15, <tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="pl_pud-pos-VERB.html">VERB</a></tt> 1), <em>były</em> (<tt><a href="pl_pud-pos-AUX.html">AUX</a></tt> 12, <tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>jest</em> (<tt><a href="pl_pud-pos-AUX.html">AUX</a></tt> 109, <tt><a href="pl_pud-pos-VERB.html">VERB</a></tt> 9), <em>to</em> (<tt><a href="pl_pud-pos-PRON.html">PRON</a></tt> 36, <tt><a href="pl_pud-pos-AUX.html">AUX</a></tt> 35, <tt><a href="pl_pud-pos-PART.html">PART</a></tt> 5, <tt><a href="pl_pud-pos-DET.html">DET</a></tt> 3), <em>był</em> (<tt><a href="pl_pud-pos-AUX.html">AUX</a></tt> 34, <tt><a href="pl_pud-pos-VERB.html">VERB</a></tt> 2), <em>są</em> (<tt><a href="pl_pud-pos-AUX.html">AUX</a></tt> 36, <tt><a href="pl_pud-pos-VERB.html">VERB</a></tt> 2), <em>został</em> (<tt><a href="pl_pud-pos-AUX.html">AUX</a></tt> 27, <tt><a href="pl_pud-pos-VERB.html">VERB</a></tt> 3), <em>by</em> (<tt><a href="pl_pud-pos-AUX.html">AUX</a></tt> 24, <tt><a href="pl_pud-pos-SCONJ.html">SCONJ</a></tt> 1), <em>będzie</em> (<tt><a href="pl_pud-pos-AUX.html">AUX</a></tt> 22, <tt><a href="pl_pud-pos-VERB.html">VERB</a></tt> 4), <em>było</em> (<tt><a href="pl_pud-pos-AUX.html">AUX</a></tt> 19, <tt><a href="pl_pud-pos-VERB.html">VERB</a></tt> 11), <em>była</em> (<tt><a href="pl_pud-pos-AUX.html">AUX</a></tt> 15, <tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="pl_pud-pos-VERB.html">VERB</a></tt> 1), <em>były</em> (<tt><a href="pl_pud-pos-AUX.html">AUX</a></tt> 12, <tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt> 1)
 
 
 * <em>jest</em>
   * <tt><a href="pl_pud-pos-AUX.html">AUX</a></tt> 109: <em>To , co ona mówi i robi – to <b>jest</b> właściwie niewiarygodne .</em>
   * <tt><a href="pl_pud-pos-VERB.html">VERB</a></tt> 9: <em>Na pokładzie statku <b>jest</b> ponad 330 członków załogi .</em>
 * <em>to</em>
-  * <tt><a href="pl_pud-pos-PRON.html">PRON</a></tt> 37: <em>Nie każdy może wznieść się ponad <b>to</b> .</em>
+  * <tt><a href="pl_pud-pos-PRON.html">PRON</a></tt> 36: <em>Nie każdy może wznieść się ponad <b>to</b> .</em>
   * <tt><a href="pl_pud-pos-AUX.html">AUX</a></tt> 35: <em>To , co ona mówi i robi – <b>to</b> jest właściwie niewiarygodne .</em>
   * <tt><a href="pl_pud-pos-PART.html">PART</a></tt> 5: <em>Dla Barrosa <b>to</b> może nie być koniec sprawy .</em>
-  * <tt><a href="pl_pud-pos-DET.html">DET</a></tt> 2: <em>W języku duńskim słowo <b>to</b> może się nawet odnosić do płytkich lagun .</em>
+  * <tt><a href="pl_pud-pos-DET.html">DET</a></tt> 3: <em>W języku duńskim słowo <b>to</b> może się nawet odnosić do płytkich lagun .</em>
 * <em>był</em>
   * <tt><a href="pl_pud-pos-AUX.html">AUX</a></tt> 34: <em>Być może dress code <b>był</b> zbyt sztywny .</em>
   * <tt><a href="pl_pud-pos-VERB.html">VERB</a></tt> 2: <em>Seagal , którego matka pochodziła z Władywostoku na dalekim wschodzie Rosji , w ostatnich latach często odwiedzał Rosję , we wrześniu <b>był</b> na Kamczatce i Sachalinie .</em>
@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  <em>jest</em> (<tt><a href="pl_pud-pos-AU
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 5.800000 (the average of all parts of speech is 1.436503).
+The form / lemma ratio of `AUX` is 5.800000 (the average of all parts of speech is 1.436422).
 
 The 1st highest number of forms (18) was observed with the lemma “być”: <em>Będziemy, byli, być, był, była, było, były, będzie, będą, będę, em, jest, jestem, jesteśmy, m, są, ście, śmy</em>.
 

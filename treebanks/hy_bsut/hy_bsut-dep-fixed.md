@@ -8,29 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-335 nodes (1%) are attached to their parents as `fixed`.
+400 nodes (1%) are attached to their parents as `fixed`.
 
-335 instances of `fixed` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.11044776119403.
+400 instances of `fixed` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.1275.
 
-The following 38 pairs of parts of speech are connected with `fixed`: <tt><a href="hy_bsut-pos-DET.html">DET</a></tt>-<tt><a href="hy_bsut-pos-DET.html">DET</a></tt> (37; 11% instances), <tt><a href="hy_bsut-pos-PART.html">PART</a></tt>-<tt><a href="hy_bsut-pos-PART.html">PART</a></tt> (32; 10% instances), <tt><a href="hy_bsut-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="hy_bsut-pos-PART.html">PART</a></tt> (26; 8% instances), <tt><a href="hy_bsut-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="hy_bsut-pos-PART.html">PART</a></tt> (25; 7% instances), <tt><a href="hy_bsut-pos-PART.html">PART</a></tt>-<tt><a href="hy_bsut-pos-ADV.html">ADV</a></tt> (22; 7% instances), <tt><a href="hy_bsut-pos-ADP.html">ADP</a></tt>-<tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt> (21; 6% instances), <tt><a href="hy_bsut-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="hy_bsut-pos-CCONJ.html">CCONJ</a></tt> (20; 6% instances), <tt><a href="hy_bsut-pos-ADV.html">ADV</a></tt>-<tt><a href="hy_bsut-pos-PART.html">PART</a></tt> (18; 5% instances), <tt><a href="hy_bsut-pos-PART.html">PART</a></tt>-<tt><a href="hy_bsut-pos-DET.html">DET</a></tt> (16; 5% instances), <tt><a href="hy_bsut-pos-DET.html">DET</a></tt>-<tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt> (13; 4% instances), <tt><a href="hy_bsut-pos-ADV.html">ADV</a></tt>-<tt><a href="hy_bsut-pos-ADV.html">ADV</a></tt> (11; 3% instances), <tt><a href="hy_bsut-pos-DET.html">DET</a></tt>-<tt><a href="hy_bsut-pos-PART.html">PART</a></tt> (10; 3% instances), <tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_bsut-pos-ADP.html">ADP</a></tt> (9; 3% instances), <tt><a href="hy_bsut-pos-ADP.html">ADP</a></tt>-<tt><a href="hy_bsut-pos-PRON.html">PRON</a></tt> (8; 2% instances), <tt><a href="hy_bsut-pos-PRON.html">PRON</a></tt>-<tt><a href="hy_bsut-pos-PRON.html">PRON</a></tt> (8; 2% instances), <tt><a href="hy_bsut-pos-DET.html">DET</a></tt>-<tt><a href="hy_bsut-pos-PRON.html">PRON</a></tt> (7; 2% instances), <tt><a href="hy_bsut-pos-DET.html">DET</a></tt>-<tt><a href="hy_bsut-pos-ADV.html">ADV</a></tt> (6; 2% instances), <tt><a href="hy_bsut-pos-PART.html">PART</a></tt>-<tt><a href="hy_bsut-pos-PRON.html">PRON</a></tt> (6; 2% instances), <tt><a href="hy_bsut-pos-ADP.html">ADP</a></tt>-<tt><a href="hy_bsut-pos-ADV.html">ADV</a></tt> (5; 1% instances), <tt><a href="hy_bsut-pos-ADV.html">ADV</a></tt>-<tt><a href="hy_bsut-pos-ADP.html">ADP</a></tt> (5; 1% instances), <tt><a href="hy_bsut-pos-ADV.html">ADV</a></tt>-<tt><a href="hy_bsut-pos-DET.html">DET</a></tt> (4; 1% instances), <tt><a href="hy_bsut-pos-ADV.html">ADV</a></tt>-<tt><a href="hy_bsut-pos-CCONJ.html">CCONJ</a></tt> (3; 1% instances), <tt><a href="hy_bsut-pos-ADP.html">ADP</a></tt>-<tt><a href="hy_bsut-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="hy_bsut-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="hy_bsut-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="hy_bsut-pos-DET.html">DET</a></tt>-<tt><a href="hy_bsut-pos-CCONJ.html">CCONJ</a></tt> (2; 1% instances), <tt><a href="hy_bsut-pos-PRON.html">PRON</a></tt>-<tt><a href="hy_bsut-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="hy_bsut-pos-PRON.html">PRON</a></tt>-<tt><a href="hy_bsut-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_bsut-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="hy_bsut-pos-X.html">X</a></tt>-<tt><a href="hy_bsut-pos-X.html">X</a></tt> (2; 1% instances), <tt><a href="hy_bsut-pos-ADP.html">ADP</a></tt>-<tt><a href="hy_bsut-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="hy_bsut-pos-INTJ.html">INTJ</a></tt>-<tt><a href="hy_bsut-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="hy_bsut-pos-INTJ.html">INTJ</a></tt>-<tt><a href="hy_bsut-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="hy_bsut-pos-PART.html">PART</a></tt>-<tt><a href="hy_bsut-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="hy_bsut-pos-PART.html">PART</a></tt>-<tt><a href="hy_bsut-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="hy_bsut-pos-PRON.html">PRON</a></tt>-<tt><a href="hy_bsut-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="hy_bsut-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="hy_bsut-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="hy_bsut-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="hy_bsut-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="hy_bsut-pos-X.html">X</a></tt>-<tt><a href="hy_bsut-pos-ADP.html">ADP</a></tt> (1; 0% instances).
-
-
-~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 4 fixed	color:blue
-1	Կա	կամ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	Translit=Ka|LTranslit=kam
-2	ևս	ևս	ADV	_	_	3	advmod	_	Translit=ews|LTranslit=ews
-3	մի	մի	DET	_	PronType=Art	6	det	_	Translit=mi|LTranslit=mi
-4	քանի	քանի	DET	_	PronType=Ind	3	fixed	_	Translit=k’ani|LTranslit=k’ani
-5	կարևոր	կարևոր	ADJ	_	Degree=Pos	6	amod	_	Translit=karewor|LTranslit=karewor
-6	կանոն	կանոն	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	1	nsubj	_	Translit=kanon|LTranslit=kanon|SpaceAfter=No
-7	.	.	PUNCT	_	_	1	punct	_	Translit=.|LTranslit=.
-
-~~~
+The following 35 pairs of parts of speech are connected with `fixed`: <tt><a href="hy_bsut-pos-PART.html">PART</a></tt>-<tt><a href="hy_bsut-pos-PART.html">PART</a></tt> (44; 11% instances), <tt><a href="hy_bsut-pos-DET.html">DET</a></tt>-<tt><a href="hy_bsut-pos-DET.html">DET</a></tt> (37; 9% instances), <tt><a href="hy_bsut-pos-ADV.html">ADV</a></tt>-<tt><a href="hy_bsut-pos-PART.html">PART</a></tt> (33; 8% instances), <tt><a href="hy_bsut-pos-ADV.html">ADV</a></tt>-<tt><a href="hy_bsut-pos-CCONJ.html">CCONJ</a></tt> (29; 7% instances), <tt><a href="hy_bsut-pos-ADP.html">ADP</a></tt>-<tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt> (27; 7% instances), <tt><a href="hy_bsut-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="hy_bsut-pos-PART.html">PART</a></tt> (27; 7% instances), <tt><a href="hy_bsut-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="hy_bsut-pos-PART.html">PART</a></tt> (23; 6% instances), <tt><a href="hy_bsut-pos-PART.html">PART</a></tt>-<tt><a href="hy_bsut-pos-ADV.html">ADV</a></tt> (20; 5% instances), <tt><a href="hy_bsut-pos-DET.html">DET</a></tt>-<tt><a href="hy_bsut-pos-PART.html">PART</a></tt> (19; 5% instances), <tt><a href="hy_bsut-pos-PART.html">PART</a></tt>-<tt><a href="hy_bsut-pos-DET.html">DET</a></tt> (18; 5% instances), <tt><a href="hy_bsut-pos-DET.html">DET</a></tt>-<tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt> (17; 4% instances), <tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_bsut-pos-ADP.html">ADP</a></tt> (14; 4% instances), <tt><a href="hy_bsut-pos-ADV.html">ADV</a></tt>-<tt><a href="hy_bsut-pos-ADV.html">ADV</a></tt> (10; 3% instances), <tt><a href="hy_bsut-pos-DET.html">DET</a></tt>-<tt><a href="hy_bsut-pos-PRON.html">PRON</a></tt> (10; 3% instances), <tt><a href="hy_bsut-pos-PRON.html">PRON</a></tt>-<tt><a href="hy_bsut-pos-PRON.html">PRON</a></tt> (9; 2% instances), <tt><a href="hy_bsut-pos-ADP.html">ADP</a></tt>-<tt><a href="hy_bsut-pos-PRON.html">PRON</a></tt> (8; 2% instances), <tt><a href="hy_bsut-pos-PRON.html">PRON</a></tt>-<tt><a href="hy_bsut-pos-PART.html">PART</a></tt> (7; 2% instances), <tt><a href="hy_bsut-pos-ADP.html">ADP</a></tt>-<tt><a href="hy_bsut-pos-ADV.html">ADV</a></tt> (6; 2% instances), <tt><a href="hy_bsut-pos-DET.html">DET</a></tt>-<tt><a href="hy_bsut-pos-ADV.html">ADV</a></tt> (6; 2% instances), <tt><a href="hy_bsut-pos-PART.html">PART</a></tt>-<tt><a href="hy_bsut-pos-PRON.html">PRON</a></tt> (6; 2% instances), <tt><a href="hy_bsut-pos-ADV.html">ADV</a></tt>-<tt><a href="hy_bsut-pos-ADP.html">ADP</a></tt> (5; 1% instances), <tt><a href="hy_bsut-pos-ADP.html">ADP</a></tt>-<tt><a href="hy_bsut-pos-ADJ.html">ADJ</a></tt> (4; 1% instances), <tt><a href="hy_bsut-pos-ADV.html">ADV</a></tt>-<tt><a href="hy_bsut-pos-DET.html">DET</a></tt> (4; 1% instances), <tt><a href="hy_bsut-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="hy_bsut-pos-ADV.html">ADV</a></tt> (3; 1% instances), <tt><a href="hy_bsut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hy_bsut-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="hy_bsut-pos-DET.html">DET</a></tt>-<tt><a href="hy_bsut-pos-CCONJ.html">CCONJ</a></tt> (2; 1% instances), <tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_bsut-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="hy_bsut-pos-ADP.html">ADP</a></tt>-<tt><a href="hy_bsut-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="hy_bsut-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="hy_bsut-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="hy_bsut-pos-INTJ.html">INTJ</a></tt>-<tt><a href="hy_bsut-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="hy_bsut-pos-PART.html">PART</a></tt>-<tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="hy_bsut-pos-PRON.html">PRON</a></tt>-<tt><a href="hy_bsut-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="hy_bsut-pos-PRON.html">PRON</a></tt>-<tt><a href="hy_bsut-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="hy_bsut-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="hy_bsut-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="hy_bsut-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="hy_bsut-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -43,7 +26,7 @@ The following 38 pairs of parts of speech are connected with `fixed`: <tt><a hre
 2	ուզում	ուզել	VERB	_	Aspect=Imp|Subcat=Tran|VerbForm=Part|Voice=Act	0	root	_	Translit=owzowm|LTranslit=owzel
 3	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	2	aux	_	Translit=ē|LTranslit=em
 4	պատերազմը	պատերազմ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	7	nsubj	_	Translit=paterazmë|LTranslit=paterazm
-5	ոչ	ոչ	PART	_	Polarity=Neg	7	cc	_	Translit=oč|LTranslit=oč
+5	ոչ	ոչ	PART	_	ExtPos=CCONJ|Polarity=Neg	7	cc	_	Translit=oč|LTranslit=oč
 6	թե	թե	PART	_	_	5	fixed	_	Translit=t’e|LTranslit=t’e
 7	ավարտվի	ավարտվել	VERB	_	Aspect=Prosp|Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Mid	2	ccomp	_	Translit=avartvi|LTranslit=avartvel|SpaceAfter=No
 8	,	,	PUNCT	_	_	10	punct	_	Translit=,|LTranslit=,
@@ -55,21 +38,40 @@ The following 38 pairs of parts of speech are connected with `fixed`: <tt><a hre
 
 
 ~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 4 fixed	color:blue
+1	Կա	կամ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	Translit=Ka|LTranslit=kam
+2	ևս	ևս	ADV	_	_	3	advmod	_	Translit=ews|LTranslit=ews
+3	մի	մի	DET	_	ExtPos=DET|PronType=Art	6	det	_	Translit=mi|LTranslit=mi
+4	քանի	քանի	DET	_	PronType=Int	3	fixed	_	Translit=k’ani|LTranslit=k’ani
+5	կարևոր	կարևոր	ADJ	_	Degree=Pos	6	amod	_	Translit=karewor|LTranslit=karewor
+6	կանոն	կանոն	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	1	nsubj	_	Translit=kanon|LTranslit=kanon|SpaceAfter=No
+7	.	.	PUNCT	_	Foreign=Yes	1	punct	_	Translit=.|LTranslit=.
+
+~~~
+
+
+~~~ conllu
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 7 fixed	color:blue
-1	Բայց	բայց	CCONJ	_	_	4	cc	_	Translit=Bayc’|LTranslit=bayc’
-2	դա	դա	PRON	_	Case=Nom|Deixis=Med|Number=Sing|PronType=Dem	4	nsubj	_	Translit=da|LTranslit=da
-3	ընդամենը	ընդամենը	ADV	_	_	4	amod	_	Translit=ëndamenë|LTranslit=ëndamenë
-4	տագնապ	տագնապ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	0	root	_	Translit=tagnap|LTranslit=tagnap
-5	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	4	cop	_	Translit=ē|LTranslit=em
-6	և	և	CCONJ	_	_	9	cc	_	Translit=ew|LTranslit=ew
-7	ոչ	ոչ	PART	_	Polarity=Neg	6	fixed	_	Translit=oč|LTranslit=oč
-8	թե	թե	PART	_	_	6	fixed	_	Translit=t’e|LTranslit=t’e
-9	խուճապ	խուճապ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Coll	4	conj	_	Translit=xowč̣ap|LTranslit=xowč̣ap|SpaceAfter=No
-10	:	:	PUNCT	_	Foreign=Yes	4	punct	_	Translit=.|LTranslit=.
+# visual-style 7 8 fixed	color:blue
+1	«	«	PUNCT	_	_	5	punct	_	Translit=«|LTranslit=«|SpaceAfter=No
+2	Երեք	երեք	NUM	_	NumForm=Word|NumType=Card	3	nummod	_	Translit=Erek’|LTranslit=erek’
+3	ցանկությունդ	ցանկություն	NOUN	_	Animacy=Nhum|Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=2	5	obj	_	Translit=c’ankowt’yownd|LTranslit=c’ankowt’yown
+4	էլ	էլ	ADV	_	_	3	advmod:emph	_	Translit=ēl|LTranslit=ēl
+5	կկատարեմ	կատարել	VERB	_	Aspect=Prosp|Mood=Cnd|Number=Sing|Person=1|Polarity=Pos|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=kkatarem|LTranslit=katarel|SpaceAfter=No
+6	,	,	PUNCT	_	_	10	punct	_	Translit=,|LTranslit=,
+7	միայն	միայն	ADV	_	ExtPos=SCONJ	10	mark	_	Translit=miayn|LTranslit=miayn
+8	թե	թե	PART	_	_	7	fixed	_	Translit=t’e|LTranslit=t’e
+9	բաց	բաց	ADV	_	Degree=Pos	10	compound:lvc	_	Translit=bac’|LTranslit=bac’
+10	թող	թողնել	VERB	_	Aspect=Prosp|Mood=Imp|Number=Sing|Person=2|Subcat=Tran|VerbForm=Fin|Voice=Act	5	advcl	_	Translit=t’oġ|LTranslit=t’oġnel|SpaceAfter=No
+11	»	»	PUNCT	_	_	5	punct	_	Translit=»|LTranslit=»|SpaceAfter=No
+12	:	:	PUNCT	_	Foreign=Yes	5	punct	_	Translit=.|LTranslit=.
 
 ~~~
 

@@ -53,7 +53,7 @@ The following 8 pairs of parts of speech are connected with `discourse:q`: <tt><
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 5 discourse:q	color:blue
-1	Sana	san	PRON	Pers	Case=Dat|Number=Sing|Person=3	2	obl	_	_
+1	Sana	san	PRON	Pers	Case=Dat|Number=Sing|Person=3|PronType=Prs	2	obl	_	_
 2	katlanmak	katla	VERB	Vnoun	Case=Nom|Polarity=Pos|VerbForm=Vnoun|Voice=Pass	3	obj	_	_
 3	uyumlu	uyumlu	ADJ	Adj	_	6	amod	_	DerivedFrom=uyum
 4	olmak	ol	VERB	Vnoun	Case=Nom|Polarity=Pos|VerbForm=Vnoun	3	compound	_	_

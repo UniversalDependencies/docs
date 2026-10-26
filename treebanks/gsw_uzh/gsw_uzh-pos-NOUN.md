@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of NOUN in UD_Swiss_German-UZH'
+title:  'Statistics of NOUN in UD_Alemannic-UZH'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Swiss_German-UZH: POS Tags: `NOUN`
+## Treebank Statistics: UD_Alemannic-UZH: POS Tags: `NOUN`
 
 There are 1 `NOUN` lemmas (7%), 175 `NOUN` types (22%) and 186 `NOUN` tokens (13%).
 Out of 15 observed tags, the rank of `NOUN` is: 7 in number of lemmas, 1 in number of types and 1 in number of tokens.

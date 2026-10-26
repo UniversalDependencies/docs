@@ -22,9 +22,9 @@ The following 1 pairs of parts of speech are connected with `goeswith`: <tt><a h
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 3 goeswith	color:blue
-1	Allt	all	ADV	AB	_	2	advmod	2:advmod	_
-2	efter	eftersom	ADP	PP	Typo=Yes	5	mark	5:mark	_
-3	som	_	X	HA	_	2	goeswith	2:goeswith	_
+1	Allt	allt	ADV	AB	_	2	advmod	2:advmod	ParsemeMWE=1:ConjID
+2	efter	eftersom	ADP	PP	Typo=Yes	5	mark	5:mark	ParsemeMWE=1
+3	som	_	X	HA	_	2	goeswith	2:goeswith	ParsemeMWE=1
 4	prisläget	prisläge	NOUN	NN|NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Neut|Number=Sing	5	nsubj:pass	5:nsubj:pass	_
 5	förändras	förändra	VERB	VB|PRS|SFO	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass	7	advcl	7:advcl:allt_efter_som	SpaceAfter=No
 6	,	,	PUNCT	MID	_	7	punct	7:punct	_

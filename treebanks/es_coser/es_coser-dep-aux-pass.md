@@ -34,7 +34,7 @@ The following 1 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 10	Quieres	querer	VERB	vmip2s0	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	parataxis	_	_
 11	más	más	ADV	di0cn0	Degree=Cmp	12	advmod	_	_
 12	cosas	cosa	NOUN	ncfp000	Gender=Fem|Number=Plur	10	obj	_	SpaceAfter=No
-13	?	?	PUNCT	fit	PunctSide=Fin|PunctType=Qest	2	punct	_	_
+13	?	?	PUNCT	fit	PunctSide=Fin|PunctType=Qest	10	punct	_	_
 
 ~~~
 

@@ -22,17 +22,17 @@ The following 30 pairs of parts of speech are connected with `conj`: <tt><a href
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 7 conj	color:blue
-1	Umpami	_	NOUN	_	Number=Sing|Polite=Form	0	root	_	_
-2	ipun	_	DET	_	Definite=Def|Polite=Form|PronType=Art	1	det	_	_
-3	,	_	PUNCT	_	_	1	punct	_	_
-4	tembung	_	NOUN	_	Number=Sing	1	nmod	_	_
-5	sumur	_	NOUN	_	Number=Sing	4	nmod	_	SpaceAfter=No
-6	,	_	PUNCT	_	_	7	punct	_	_
-7	gelas	_	NOUN	_	Number=Sing	5	conj	_	SpaceAfter=No
-8	,	_	PUNCT	_	_	10	punct	_	_
-9	lan	_	CCONJ	_	Polite=Infm	10	cc	_	_
-10	kursi	_	NOUN	_	Number=Sing	5	conj	_	SpaceAfter=No
-11	.	_	PUNCT	_	_	1	punct	_	_
+1	Umpami	umpami	NOUN	_	Number=Sing|Polite=Form	0	root	_	_
+2	ipun	ipun	DET	_	Definite=Def|Polite=Form|PronType=Art	1	det	_	_
+3	,	,	PUNCT	_	_	1	punct	_	_
+4	tembung	tembung	NOUN	_	Number=Sing	1	nmod	_	_
+5	sumur	sumur	NOUN	_	Number=Sing	4	nmod	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	gelas	gelas	NOUN	_	Number=Sing	5	conj	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	10	punct	_	_
+9	lan	lan	CCONJ	_	Polite=Infm	10	cc	_	_
+10	kursi	kursi	NOUN	_	Number=Sing	5	conj	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	1	punct	_	_
 
 ~~~
 
@@ -43,17 +43,17 @@ The following 30 pairs of parts of speech are connected with `conj`: <tt><a href
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 10 conj	color:blue
-1	Mbakyu	_	NOUN	_	Number=Sing	3	nsubj	_	_
-2	e	_	PRON	_	Number=Sing|Person=3|Polite=Infm|PronType=Prs	1	nmod:poss	_	_
-3	seneng	_	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
-4	nglangi	_	VERB	_	Mood=Ind|Voice=Act	3	xcomp	_	SpaceAfter=No
-5	,	_	PUNCT	_	_	10	punct	_	_
-6	nanging	_	CCONJ	_	Polite=Infm	10	cc	_	_
-7	adhi	_	NOUN	_	Number=Sing	10	nsubj	_	_
-8	e	_	PRON	_	Number=Sing|Person=3|Polite=Infm|PronType=Prs	7	nmod:poss	_	_
-9	ora	_	PART	_	Polarity=Neg|Polite=Infm	10	advmod	_	_
-10	seneng	_	VERB	_	Mood=Ind|Voice=Act	3	conj	_	SpaceAfter=No
-11	.	_	PUNCT	_	_	3	punct	_	_
+1	Mbakyu	mbakyu	NOUN	_	Number=Sing	3	nsubj	_	_
+2	e	e	PRON	_	Number=Sing|Person=3|Polite=Infm|PronType=Prs	1	nmod:poss	_	_
+3	seneng	seneng	VERB	_	Voice=Act	0	root	_	_
+4	nglangi	langi	VERB	_	Voice=Act	3	xcomp	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	10	punct	_	_
+6	nanging	nanging	CCONJ	_	Polite=Infm	10	cc	_	_
+7	adhi	adhi	NOUN	_	Number=Sing	10	nsubj	_	_
+8	e	e	PRON	_	Number=Sing|Person=3|Polite=Infm|PronType=Prs	7	nmod:poss	_	_
+9	ora	ora	PART	_	Polarity=Neg|Polite=Infm	10	advmod	_	_
+10	seneng	seneng	VERB	_	Voice=Act	3	conj	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~
 
@@ -64,13 +64,13 @@ The following 30 pairs of parts of speech are connected with `conj`: <tt><a href
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 3 conj	color:blue
-1	Israel	_	PROPN	_	_	4	nsubj	_	_
-2	lan	_	CCONJ	_	Polite=Infm	3	cc	_	_
-3	Arab	_	PROPN	_	_	1	conj	_	_
-4	sarujuk	_	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
-5	gencatan	_	NOUN	_	Number=Sing	4	obl	_	_
-6	senjata	_	NOUN	_	Number=Sing	5	nmod	_	SpaceAfter=No
-7	.	_	PUNCT	_	_	4	punct	_	_
+1	Israel	israel	PROPN	_	_	4	nsubj	_	_
+2	lan	lan	CCONJ	_	Polite=Infm	3	cc	_	_
+3	Arab	arab	PROPN	_	_	1	conj	_	_
+4	sarujuk	rujuk	VERB	_	Voice=Act	0	root	_	_
+5	gencatan	gencatan	NOUN	_	Number=Sing	4	obl	_	_
+6	senjata	senjata	NOUN	_	Number=Sing	5	nmod	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	4	punct	_	_
 
 ~~~
 

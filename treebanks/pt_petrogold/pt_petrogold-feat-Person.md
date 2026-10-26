@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `1`, `2`, `3`.
 
-13311 tokens (5%) have a non-empty value of `Person`.
-1629 types (11%) occur at least once with a non-empty value of `Person`.
+13310 tokens (5%) have a non-empty value of `Person`.
+1628 types (11%) occur at least once with a non-empty value of `Person`.
 623 lemmas (6%) occur at least once with a non-empty value of `Person`.
-The feature is used with 3 part-of-speech tags: <tt><a href="pt_petrogold-pos-VERB.html">VERB</a></tt> (7462; 3% instances), <tt><a href="pt_petrogold-pos-AUX.html">AUX</a></tt> (5428; 2% instances), <tt><a href="pt_petrogold-pos-PRON.html">PRON</a></tt> (421; 0% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="pt_petrogold-pos-VERB.html">VERB</a></tt> (7461; 3% instances), <tt><a href="pt_petrogold-pos-AUX.html">AUX</a></tt> (5428; 2% instances), <tt><a href="pt_petrogold-pos-PRON.html">PRON</a></tt> (421; 0% instances).
 
 ### `VERB`
 
-7462 <tt><a href="pt_petrogold-pos-VERB.html">VERB</a></tt> tokens (37% of all `VERB` tokens) have a non-empty value of `Person`.
+7461 <tt><a href="pt_petrogold-pos-VERB.html">VERB</a></tt> tokens (37% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="pt_petrogold-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (7461; 100%), <tt><a href="pt_petrogold-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (7452; 100%), <tt><a href="pt_petrogold-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (7392; 99%), <tt><a href="pt_petrogold-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (6938; 93%), <tt><a href="pt_petrogold-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (5927; 79%), <tt><a href="pt_petrogold-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5162; 69%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="pt_petrogold-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (7460; 100%), <tt><a href="pt_petrogold-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (7451; 100%), <tt><a href="pt_petrogold-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (7391; 99%), <tt><a href="pt_petrogold-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (6937; 93%), <tt><a href="pt_petrogold-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (5926; 79%), <tt><a href="pt_petrogold-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5161; 69%).
 
 `VERB` tokens may have the following values of `Person`:
 
 * `1` (75; 1% of non-empty `Person`): <em>podemos, temos, vemos, aumentamos, obtivemos, aplicamos, comparamos, encontramos, obtemos, passamos</em>
 * `2` (7; 0% of non-empty `Person`): <em>vide</em>
-* `3` (7380; 99% of non-empty `Person`): <em>pode, podem, apresenta, tem, apresentam, deve, mostra, ocorre, possui, seja</em>
-* `EMPTY` (12897): <em>partir, devido, utilizando, utilizado, utilizados, obtidos, apresentados, utilizada, observado, produzida</em>
+* `3` (7379; 99% of non-empty `Person`): <em>pode, podem, apresenta, tem, apresentam, deve, mostra, ocorre, possui, seja</em>
+* `EMPTY` (12896): <em>partir, devido, utilizando, utilizado, utilizados, obtidos, apresentados, utilizada, observado, produzida</em>
 
 <table>
   <tr><th>Paradigm <i>ver</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -59,16 +59,17 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 
 * `1` (5; 1% of non-empty `Person`): <em>nos, EU, nós</em>
 * `3` (416; 99% of non-empty `Person`): <em>a, eles, elas, ele, ela, si, as, o, lo, los</em>
-* `EMPTY` (4978): <em>se, que, o, isso, isto, este, qual, um, uma, onde</em>
+* `EMPTY` (4979): <em>se, que, o, isso, isto, este, qual, um, uma, onde</em>
 
 `Person` seems to be **lexical feature** of `PRON`. 100% lemmas (11) occur only with one value of `Person`.
 
 ## Relations with Agreement in `Person`
 
 The 10 most frequent relations where parent and child node agree in `Person`:
-<tt>VERB --[<tt><a href="pt_petrogold-dep-conj.html">conj</a></tt>]--> VERB</tt> (433; 57%),
+<tt>VERB --[<tt><a href="pt_petrogold-dep-conj.html">conj</a></tt>]--> VERB</tt> (432; 57%),
 <tt>VERB --[<tt><a href="pt_petrogold-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (259; 53%),
 <tt>VERB --[<tt><a href="pt_petrogold-dep-iobj.html">iobj</a></tt>]--> PRON</tt> (8; 62%),
+<tt>VERB --[<tt><a href="pt_petrogold-dep-appos.html">appos</a></tt>]--> VERB</tt> (2; 67%),
 <tt>VERB --[<tt><a href="pt_petrogold-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (1; 100%),
 <tt>VERB --[<tt><a href="pt_petrogold-dep-conj.html">conj</a></tt>]--> AUX</tt> (1; 100%),
 <tt>VERB --[<tt><a href="pt_petrogold-dep-det.html">det</a></tt>]--> PRON</tt> (1; 100%).

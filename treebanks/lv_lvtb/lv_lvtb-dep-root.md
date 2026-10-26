@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-19367 nodes (6%) are attached to their parents as `root`.
+19580 nodes (6%) are attached to their parents as `root`.
 
-19367 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.55744307326896.
+19580 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.54759959141982.
 
-The following 17 pairs of parts of speech are connected with `root`: -<tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (15688; 81% instances), -<tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (1719; 9% instances), -<tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> (794; 4% instances), -<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (496; 3% instances), -<tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt> (182; 1% instances), -<tt><a href="lv_lvtb-pos-DET.html">DET</a></tt> (139; 1% instances), -<tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> (100; 1% instances), -<tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> (69; 0% instances), -<tt><a href="lv_lvtb-pos-INTJ.html">INTJ</a></tt> (50; 0% instances), -<tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt> (48; 0% instances), -<tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> (43; 0% instances), -<tt><a href="lv_lvtb-pos-X.html">X</a></tt> (16; 0% instances), -<tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (9; 0% instances), -<tt><a href="lv_lvtb-pos-PUNCT.html">PUNCT</a></tt> (6; 0% instances), -<tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt> (5; 0% instances), -<tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), -<tt><a href="lv_lvtb-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+The following 16 pairs of parts of speech are connected with `root`: -<tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (15843; 81% instances), -<tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (1744; 9% instances), -<tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> (801; 4% instances), -<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (499; 3% instances), -<tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt> (197; 1% instances), -<tt><a href="lv_lvtb-pos-DET.html">DET</a></tt> (141; 1% instances), -<tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> (100; 1% instances), -<tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> (73; 0% instances), -<tt><a href="lv_lvtb-pos-INTJ.html">INTJ</a></tt> (55; 0% instances), -<tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt> (47; 0% instances), -<tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> (44; 0% instances), -<tt><a href="lv_lvtb-pos-X.html">X</a></tt> (15; 0% instances), -<tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (9; 0% instances), -<tt><a href="lv_lvtb-pos-PUNCT.html">PUNCT</a></tt> (6; 0% instances), -<tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt> (5; 0% instances), -<tt><a href="lv_lvtb-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

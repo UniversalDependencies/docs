@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.14 release
 The following people have contributed to making this treebank part of UD: Verena Blaschke, Barbara Kovačić, Siyao Peng, Miriam Winkler, Barbara Plank.
 
 Repository: [UD_Bavarian-MaiBaam](https://github.com/UniversalDependencies/UD_Bavarian-MaiBaam)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udbar_maibaam215)<br />
-Download all treebanks: [UD 2.15](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udbar_maibaam218)<br />
+Download all treebanks: [UD 2.18](/#download)
 
 License: CC BY-SA 4.0
 
@@ -93,7 +93,7 @@ For detailed annotation guidelines, please read the following report:
 
 ## Features
 
-
+[Typo](bar_maibaam-feat-Typo.html)
 
 ## Relations
 
@@ -103,11 +103,11 @@ For detailed annotation guidelines, please read the following report:
 
 
 <ul>
-<li>This corpus contains 1070 sentences, 14678 tokens and 15036 syntactic words.</li>
+<li>This corpus contains 1070 sentences, 14677 tokens and 15036 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 2470 tokens (17%) that are not followed by a space.</li>
+<li>This corpus contains 2469 tokens (17%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -119,8 +119,8 @@ For detailed annotation guidelines, please read the following report:
 </ul>
 
 <ul>
-<li>This corpus contains 358 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
-<li>There are 76 types of multi-word tokens. Examples: im, vom, zum, am, beim, in, ins, zan, zua, aufn, an, fian, zun, auf'm, aum, firn, midn, vam, van, auf'n, aufm, ausm, ausn, durchs, firs, fum, ind, min, mit'n, mitn, vaum, von, üwan, Baim, Bein, Nochm, Unt'ra, Wengam, afd, afs, ans, asn, auf's, aus'm, aus'n, bån, duachn, fürn, gengan, gengas.</li>
+<li>This corpus contains 359 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+<li>There are 76 types of multi-word tokens. Examples: im, vom, zum, am, beim, in, ins, zan, zua, aufn, an, fian, zun, auf'm, aum, firn, midn, vam, van, auf'n, aufm, ausm, ausn, durchs, firs, fum, ind, min, mit'n, mitn, vaum, von, vum, üwan, Baim, Bein, Nochm, Unt'ra, Wengam, afd, afs, ans, asn, auf's, aus'm, aus'n, bån, duachn, fürn, gengan.</li>
 </ul>
 
 <h2>Morphology</h2>
@@ -196,6 +196,20 @@ For detailed annotation guidelines, please read the following report:
 <h3>Other Features</h3>
 
 
+<ul>
+  <li><a>Typo</a>
+    <ul>
+      <li>Yes
+        <ul>
+          <li>ADV: je, zu</li>
+          <li>DET: des, irgánd</li>
+          <li>SCONJ: dass, das</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
 <h2>Syntax</h2>
 
 <h3>Auxiliary Verbs and Copula</h3>
@@ -216,7 +230,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>nsubj</a>
     <ul>
       <li>VERB--NOUN (246)</li>
-      <li>VERB--PRON (536)</li>
+      <li>VERB--PRON (534)</li>
     </ul>
   </li>
 </ul>
@@ -226,7 +240,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
     <ul>
       <li>VERB--NOUN (456)</li>
       <li>VERB--NOUN-ADP(_) (2)</li>
-      <li>VERB--PRON (149)</li>
+      <li>VERB--PRON (150)</li>
     </ul>
   </li>
 </ul>

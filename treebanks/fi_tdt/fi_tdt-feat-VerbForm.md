@@ -9,20 +9,20 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Fin`, `Inf`, `Part`.
 
-39452 tokens (20%) have a non-empty value of `VerbForm`.
-11372 types (21%) occur at least once with a non-empty value of `VerbForm`.
+39451 tokens (20%) have a non-empty value of `VerbForm`.
+11371 types (21%) occur at least once with a non-empty value of `VerbForm`.
 2481 lemmas (10%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 2 part-of-speech tags: <tt><a href="fi_tdt-pos-VERB.html">VERB</a></tt> (27342; 14% instances), <tt><a href="fi_tdt-pos-AUX.html">AUX</a></tt> (12110; 6% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="fi_tdt-pos-VERB.html">VERB</a></tt> (27341; 14% instances), <tt><a href="fi_tdt-pos-AUX.html">AUX</a></tt> (12110; 6% instances).
 
 ### `VERB`
 
-27342 <tt><a href="fi_tdt-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
+27341 <tt><a href="fi_tdt-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="fi_tdt-feat-InfForm.html">InfForm</a></tt><tt>=EMPTY</tt> (22001; 80%), <tt><a href="fi_tdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (21532; 79%), <tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (20145; 74%), <tt><a href="fi_tdt-feat-PartForm.html">PartForm</a></tt><tt>=EMPTY</tt> (20066; 73%), <tt><a href="fi_tdt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (17876; 65%), <tt><a href="fi_tdt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (15658; 57%), <tt><a href="fi_tdt-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (13786; 50%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="fi_tdt-feat-InfForm.html">InfForm</a></tt><tt>=EMPTY</tt> (22000; 80%), <tt><a href="fi_tdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (21531; 79%), <tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (20144; 74%), <tt><a href="fi_tdt-feat-PartForm.html">PartForm</a></tt><tt>=EMPTY</tt> (20065; 73%), <tt><a href="fi_tdt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (17875; 65%), <tt><a href="fi_tdt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (15658; 57%), <tt><a href="fi_tdt-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (13785; 50%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
-* `Fin` (14721; 54% of non-empty `VerbForm`): <em>tulee, saa, sai, tuli, on, sanoi, ottaa, sanoo, kertoo, kertoi</em>
+* `Fin` (14720; 54% of non-empty `VerbForm`): <em>tulee, saa, sai, tuli, on, sanoi, ottaa, sanoo, kertoo, kertoi</em>
 * `Inf` (5345; 20% of non-empty `VerbForm`): <em>tehdä, saada, ottaa, käyttää, antaa, mennä, olemassa, pitää, sanoa, olla</em>
 * `Part` (7276; 27% of non-empty `VerbForm`): <em>tehty, saanut, olevan, tullut, s., tehnyt, koskevan, annettu, koskevat, annetun</em>
 

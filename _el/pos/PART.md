@@ -18,15 +18,25 @@ Hint: *όχι" / *ohi* "no/not" should be tagged as [PART]() and [Polarity=Neg](
 -	*καν*
 -	*μπας (και)*
 -	*μην* 
--	*να*
 -	*όχι*
 -	*πάρα*
 -	*μακάρι*
 
+- *να* is tagged [PART]():
+  	-	*Λόλα*, <b>να</b> *ένα μήλο* "Lola, here is an apple.",
+
+	-	when it is used in an elliptical structure of “είναι” (to be), serving to point out or draw attention to something. This structure allows for two possibilities: expression with either the nominative or the accusative case. In both cases, the particle “να” is morphologically classified as [PART]() and syntactically as discourse, e.g., Να τον φίλο στο παλάτι “There’s the friend in the palace.”
+
+~~~ sdparse ~~~
+Να τον φίλο στο παλάτι
+root(ROOT, παλάτι)
+discourse(παλάτι, να)
+nsubj(παλάτι, φίλο)
+~~~
 
 ### References
 
 Τριανταφυλλίδης, Μανόλης. 1941, Reprinted 2000. *Νεοελληνική Γραμματική. Αθήνα: Οργανισμός Εκδόσεως Διδακτικών Βιβλίων*: 203-205.
          
 https://www.greek-language.gr/greekLang/modern_greek/tools/lexica/triantafyllides/
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:24 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:37 CEST -->

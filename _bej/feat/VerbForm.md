@@ -20,7 +20,7 @@ exclusively with [verbs](u-pos/VERB), it is not the case (see converb).
 ### <a name="Conv">`Conv`</a>: converb
 
 In Beja, converbs are formed using an affix on the verbal stem. 
-We add the VerbForm feature on the affix tag [SCONJ](pos/SCONJ).
+We add the VerbForm feature on the affix tag [SCONJ](bej-pos/SCONJ).
 
 #### Examples
 - _ʃʔag <b>-aː</b>_ "carry on shoulder"
@@ -28,8 +28,8 @@ We add the VerbForm feature on the affix tag [SCONJ](pos/SCONJ).
 ### <a name="Vnoun">`Vnoun`</a>: verbal noun
 
 Verbal nouns other than infinitives. Also formed using an affix on the verbal stem.
-We add the VerbForm feature on the affix tag [SCONJ](pos/SCONJ).
+We add the VerbForm feature on the affix tag [SCONJ](bej-pos/SCONJ).
 
 #### Examples
 - _tʔi <b>-it</b>_ " "  
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:09 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:23 CEST -->

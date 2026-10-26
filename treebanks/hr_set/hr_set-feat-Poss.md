@@ -23,7 +23,7 @@ The most frequent other feature values with which `DET` and `Poss` co-occurred: 
 `DET` tokens may have the following values of `Poss`:
 
 * `Yes` (1582; 100% of non-empty `Poss`): <em>svoje, svoj, svoju, svojim, njegova, svojih, njegov, njihov, naše, svojoj</em>
-* `EMPTY` (6112): <em>koji, to, koje, koja, nekoliko, ove, toga, sve, kojima, koju</em>
+* `EMPTY` (6102): <em>koji, to, koje, koja, nekoliko, ove, toga, sve, kojima, koju</em>
 
 `Poss` seems to be **lexical feature** of `DET`. 100% lemmas (14) occur only with one value of `Poss`.
 

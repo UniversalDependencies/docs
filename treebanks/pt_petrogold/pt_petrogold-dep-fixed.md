@@ -32,7 +32,7 @@ The following 29 pairs of parts of speech are connected with `fixed`: <tt><a hre
 8	invasão	invasão	NOUN	_	Gender=Fem|Number=Sing	5	obj	_	_
 9	de	de	ADP	_	_	10	case	_	_
 10	fluido	fluido	NOUN	_	Gender=Masc|Number=Sing	8	nmod	_	_
-11	em	em	ADP	_	_	15	case	_	MWEPOS=ADP
+11	em	em	ADP	_	ExtPos=ADP	15	case	_	_
 12	função	função	NOUN	_	Gender=Fem|Number=Sing	11	fixed	_	_
 13	de	de	ADP	_	_	11	fixed	_	_
 14	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
@@ -58,7 +58,7 @@ The following 29 pairs of parts of speech are connected with `fixed`: <tt><a hre
 8	invasão	invasão	NOUN	_	Gender=Fem|Number=Sing	5	obj	_	_
 9	de	de	ADP	_	_	10	case	_	_
 10	fluido	fluido	NOUN	_	Gender=Masc|Number=Sing	8	nmod	_	_
-11	em	em	ADP	_	_	15	case	_	MWEPOS=ADP
+11	em	em	ADP	_	ExtPos=ADP	15	case	_	_
 12	função	função	NOUN	_	Gender=Fem|Number=Sing	11	fixed	_	_
 13	de	de	ADP	_	_	11	fixed	_	_
 14	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
@@ -78,7 +78,7 @@ The following 29 pairs of parts of speech are connected with `fixed`: <tt><a hre
 2	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
 3	Albo-Aptiano	Albo-Aptiano	PROPN	_	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	7	punct	_	_
-5	cerca	cerca	ADV	_	_	7	advmod	_	MWEPOS=ADV
+5	cerca	cerca	ADV	_	ExtPos=ADV	7	advmod	_	_
 6	de	de	ADP	_	_	5	fixed	_	_
 7	108	108	NUM	_	NumType=Card	3	nummod	_	_
 

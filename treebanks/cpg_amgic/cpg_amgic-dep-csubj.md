@@ -27,11 +27,11 @@ The following 1 pairs of parts of speech are connected with `csubj`: <tt><a href
 3	kukuniós	kukuniós	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	SpaceAfter=No
 4	,	,	PUNCT	PUNCT	_	2	punct	_	_
 5	vráδin	vráδin	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	6	obl	_	_
-6	ortá	ortá	ADV	ADV	_	2	advmod	_	LC=YES|MorphSynC=FrGrEl|MorphSynSC=Post|OrigLang=tr|SpaceAfter=No
+6	ortá	ortá	ADV	ADV	_	2	advmod	_	LC=Yes|MorphSynC=FrGrEl|MorphSynSC=Post|OrigLang=tr|SpaceAfter=No
 7	,	,	PUNCT	PUNCT	_	6	punct	_	_
 8	kaló	kalós	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
 9	ren	ren	PART	Neg	_	8	advmod	_	_
-10	'ne	ímu	AUX	AUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	LC=YES|MorphSynC=MorphIn|MorphSynSC=CopNeg|#Compare_Turkish:değildir
+10	'ne	ímu	AUX	AUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	LC=Yes|MorphSynC=MorphIn|MorphSynSC=CopNeg|#Compare_Turkish:değildir
 
 ~~~
 

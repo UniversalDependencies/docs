@@ -23,10 +23,10 @@ The following 25 pairs of parts of speech are connected with `obl:arg`: <tt><a h
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 4 obl:arg	color:blue
-1	amen	amen	INTJ	I-	_	3	discourse	_	ref=MATT_5.18
-2	quippe	quippe	ADV	Df	_	3	advmod	_	ref=MATT_5.18
-3	dico	dico	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_5.18
-4	vobis	vos	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=2|PronType=Prs	3	obl:arg	_	ref=MATT_5.18
+1	amen	amen	INTJ	I-	_	3	discourse	_	Ref=MATT_5.18
+2	quippe	quippe	ADV	Df	_	3	advmod	_	Ref=MATT_5.18
+3	dico	dico	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_5.18
+4	vobis	vos	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=2|PronType=Prs	3	obl:arg	_	Ref=MATT_5.18
 
 ~~~
 
@@ -37,14 +37,14 @@ The following 25 pairs of parts of speech are connected with `obl:arg`: <tt><a h
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 4 obl:arg	color:blue
-1	omnis	omnis	PRON	Px	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	ref=MATT_5.22
-2	qui	qui	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	3	nsubj	_	ref=MATT_5.22
-3	irascitur	irascor	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	1	acl	_	ref=MATT_5.22
-4	fratri	frater	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	3	obl:arg	_	ref=MATT_5.22
-5	suo	suus	DET	Pt	Case=Dat|Gender=Masc|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	4	det	_	ref=MATT_5.22
-6	reus	reus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	0	root	_	ref=MATT_5.22
-7	erit	sum	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	6	cop	_	ref=MATT_5.22
-8	iudicio	iudicium	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	6	nmod	_	ref=MATT_5.22
+1	omnis	omnis	PRON	Px	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	Ref=MATT_5.22
+2	qui	qui	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	3	nsubj	_	Ref=MATT_5.22
+3	irascitur	irascor	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	1	acl	_	Ref=MATT_5.22
+4	fratri	frater	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	3	obl:arg	_	Ref=MATT_5.22
+5	suo	suus	DET	Pt	Case=Dat|Gender=Masc|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	4	det	_	Ref=MATT_5.22
+6	reus	reus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	0	root	_	Ref=MATT_5.22
+7	erit	sum	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	6	cop	_	Ref=MATT_5.22
+8	iudicio	iudicium	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	6	nmod	_	Ref=MATT_5.22
 
 ~~~
 
@@ -55,14 +55,14 @@ The following 25 pairs of parts of speech are connected with `obl:arg`: <tt><a h
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 4 obl:arg	color:blue
-1	si	si	SCONJ	G-	_	3	mark	_	ref=JOHN_5.46
-2	enim	enim	ADV	Df	_	5	discourse	_	ref=JOHN_5.46
-3	crederetis	credo	VERB	V-	Aspect=Imp|Mood=Sub|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	5	advcl	_	ref=JOHN_5.46
-4	Mosi	Moses	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	3	obl:arg	_	ref=JOHN_5.46
-5	crederetis	credo	VERB	V-	Aspect=Imp|Mood=Sub|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=JOHN_5.46
-6	forsitan	forsitan	ADV	Df	_	5	advmod	_	ref=JOHN_5.46
-7	et	et	ADV	Df	_	8	discourse	_	ref=JOHN_5.46
-8	mihi	ego	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	5	obl:arg	_	ref=JOHN_5.46
+1	si	si	SCONJ	G-	_	3	mark	_	Ref=JOHN_5.46
+2	enim	enim	ADV	Df	_	5	discourse	_	Ref=JOHN_5.46
+3	crederetis	credo	VERB	V-	Aspect=Imp|Mood=Sub|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	5	advcl	_	Ref=JOHN_5.46
+4	Mosi	Moses	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	3	obl:arg	_	Ref=JOHN_5.46
+5	crederetis	credo	VERB	V-	Aspect=Imp|Mood=Sub|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=JOHN_5.46
+6	forsitan	forsitan	ADV	Df	_	5	advmod	_	Ref=JOHN_5.46
+7	et	et	ADV	Df	_	8	discourse	_	Ref=JOHN_5.46
+8	mihi	ego	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	5	obl:arg	_	Ref=JOHN_5.46
 
 ~~~
 

@@ -47,7 +47,7 @@ in the order described below. We provide a more detailed explanation of the extr
 
 1. Universal dependency relation. In addition to the [37 relations](http://universaldependencies.org/u/dep/index.html)
    defined in the basic representation, the relation can also be <tt><a href="#relative-clauses">ref</a></tt>.
-2. Documented [relation subtype](/ext-dep-index.html) (either language-specific or more general) from the basic representation.
+2. Documented [relation subtype](/survey-deprel.html) (either language-specific or more general) from the basic representation.
 3. The string <tt><a href="#controlledraised-subjects">xsubj</a></tt>, denoting external subject relations of [xcomp]() predicates.
    This extension is used only with [nsubj](), [csubj](), and their subtypes such as [nsubj:pass]().
    It does not combine with the other extensions described below because they do not apply to subjects.

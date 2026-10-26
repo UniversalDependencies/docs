@@ -23,18 +23,18 @@ The following 14 pairs of parts of speech are connected with `csubj`: <tt><a hre
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 12 csubj	color:blue
-1	г҃и	господь	NOUN	Nb	Case=Voc|Gender=Masc|Number=Sing	4	vocative	_	ref=LUKE_22.33
-2	съ	съ	ADP	R-	_	3	case	_	ref=LUKE_22.33
-3	тобоѭ	тꙑ	PRON	Pp	Case=Ins|Number=Sing|Person=2|PronType=Prs	12	obl	_	ref=LUKE_22.33
-4	готовъ	готовъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	0	root	_	ref=LUKE_22.33
-5	есмъ	бꙑти	AUX	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	ref=LUKE_22.33
-6	и	и	CCONJ	C-	_	8	cc	_	ref=LUKE_22.33
-7	въ	въ	ADP	R-	_	8	case	_	ref=LUKE_22.33
-8	темьницѫ	тьмьница	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	12	obl	_	ref=LUKE_22.33
-9	и	и	CCONJ	C-	_	11	cc	_	ref=LUKE_22.33
-10	въ	въ	ADP	R-	_	11	case	_	ref=LUKE_22.33
-11	съмръть	съмрьть	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	8	conj	_	ref=LUKE_22.33
-12	ити	ити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	4	csubj	_	ref=LUKE_22.33
+1	г҃и	господь	NOUN	Nb	Case=Voc|Gender=Masc|Number=Sing	4	vocative	_	Ref=LUKE_22.33
+2	съ	съ	ADP	R-	_	3	case	_	Ref=LUKE_22.33
+3	тобоѭ	тꙑ	PRON	Pp	Case=Ins|Number=Sing|Person=2|PronType=Prs	12	obl	_	Ref=LUKE_22.33
+4	готовъ	готовъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	0	root	_	Ref=LUKE_22.33
+5	есмъ	бꙑти	AUX	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	Ref=LUKE_22.33
+6	и	и	CCONJ	C-	_	8	cc	_	Ref=LUKE_22.33
+7	въ	въ	ADP	R-	_	8	case	_	Ref=LUKE_22.33
+8	темьницѫ	тьмьница	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	12	obl	_	Ref=LUKE_22.33
+9	и	и	CCONJ	C-	_	11	cc	_	Ref=LUKE_22.33
+10	въ	въ	ADP	R-	_	11	case	_	Ref=LUKE_22.33
+11	съмръть	съмрьть	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	8	conj	_	Ref=LUKE_22.33
+12	ити	ити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	4	csubj	_	Ref=LUKE_22.33
 
 ~~~
 
@@ -45,12 +45,12 @@ The following 14 pairs of parts of speech are connected with `csubj`: <tt><a hre
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 5 csubj	color:blue
-1	и҅	и	CCONJ	C-	_	2	cc	_	ref=18
-2	ноужда	нѫжда	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	0	root	_	ref=18
-3	ѥ҅моу	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obl	_	ref=18
-4	бѣа҅ше	бꙑти	AUX	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	cop	_	ref=18
-5	и҅ти	ити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	2	csubj	_	ref=18
-6	вои	вои	NOUN	Nb	Case=Ins|Gender=Masc|Number=Plur	5	obl	_	ref=18
+1	и҅	и	CCONJ	C-	_	2	cc	_	Ref=18
+2	ноужда	нѫжда	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	0	root	_	Ref=18
+3	ѥ҅моу	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obl	_	Ref=18
+4	бѣа҅ше	бꙑти	AUX	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	cop	_	Ref=18
+5	и҅ти	ити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	2	csubj	_	Ref=18
+6	вои	вои	NOUN	Nb	Case=Ins|Gender=Masc|Number=Plur	5	obl	_	Ref=18
 
 ~~~
 
@@ -61,10 +61,10 @@ The following 14 pairs of parts of speech are connected with `csubj`: <tt><a hre
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 4 csubj	color:blue
-1	Вьсоуе	въсоуѥ	ADV	Df	_	0	root	_	ref=126.2
-2	вамъ	вꙑ	PRON	Pp	Case=Dat|Gender=Fem,Masc|Number=Plur|Person=2|PronType=Prs	1	obl	_	ref=126.2
-3	естъ	бꙑти	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	_	ref=126.2
-4	ютръневати	оутрьневати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	1	csubj	_	ref=126.2
+1	Вьсоуе	въсоуѥ	ADV	Df	_	0	root	_	Ref=126.2
+2	вамъ	вꙑ	PRON	Pp	Case=Dat|Gender=Fem,Masc|Number=Plur|Person=2|PronType=Prs	1	obl	_	Ref=126.2
+3	естъ	бꙑти	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	_	Ref=126.2
+4	ютръневати	оутрьневати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	1	csubj	_	Ref=126.2
 
 ~~~
 

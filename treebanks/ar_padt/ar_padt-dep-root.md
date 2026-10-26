@@ -45,11 +45,11 @@ The following 14 pairs of parts of speech are connected with `root`: -<tt><a hre
 1	ميراث	مِيرَاث	NOUN	N------S1I	Case=Nom|Definite=Ind|Number=Sing	6	nsubj	6:nsubj	Vform=مِيرَاثٌ|Gloss=inheritance,heritage|Root=w r _t|Translit=mīrāṯun|LTranslit=mīrāṯ
 2	ب	بِ	ADP	P---------	AdpType=Prep	3	case	3:case	SpaceAfter=No|Vform=بِ|Gloss=by,with|Root=bi|Translit=bi|LTranslit=bi
 3	300	300	NUM	Q---------	NumForm=Digit	1	nummod	1:nummod	Vform=٣٠٠|Translit=300
-4	الف	أَلف	NUM	QM-----S2R	Case=Gen|Definite=Cons|Number=Sing|NumForm=Word	3	nummod	3:nummod	Vform=أَلفِ|Gloss=thousand|Root=' l f|Translit=ʾalfi|LTranslit=ʾalf
+4	الف	أَلف	NUM	QM-----S2R	Case=Gen|Definite=Cons|Number=Sing|NumForm=Word	3	nmod	3:nmod:gen	Vform=أَلفِ|Gloss=thousand|Root=' l f|Translit=ʾalfi|LTranslit=ʾalf
 5	دولار	دُولَار	NOUN	N------S2I	Case=Gen|Definite=Ind|Number=Sing	4	nmod	4:nmod:gen	Vform=دُولَارٍ|Gloss=dollar|Root=dUlAr|Translit=dūlārin|LTranslit=dūlār
 6	يقلب	قَلَّب	VERB	VIIA-3MS--	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	0	root	0:root	Vform=يُقَلِّبُ|Gloss=turn_upside_down|Root=q l b|Translit=yuqallibu|LTranslit=qallab
 7	حياة	حَيَاة	NOUN	N------S4R	Case=Acc|Definite=Cons|Number=Sing	6	obj	6:obj	Vform=حَيَاةَ|Gloss=life|Root=.h y y|Translit=ḥayāta|LTranslit=ḥayāt
-8	متشرد	مُتَشَرِّد	ADJ	A-----MS2I	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	7	amod	7:amod	Vform=مُتَشَرِّدٍ|Gloss=homeless,displaced|Root=^s r d|Translit=mutašarridin|LTranslit=mutašarrid
+8	متشرد	مُتَشَرِّد	ADJ	A-----MS2I	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	7	nmod	7:nmod:gen	Vform=مُتَشَرِّدٍ|Gloss=homeless,displaced|Root=^s r d|Translit=mutašarridin|LTranslit=mutašarrid
 9	اميركي	أَمِيرِكِيّ	ADJ	A-----MS2I	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	8	amod	8:amod	Vform=أَمِيرِكِيٍّ|Gloss=American|Root='amIrik|Translit=ʾamīrikīyin|LTranslit=ʾamīrikīy
 
 ~~~

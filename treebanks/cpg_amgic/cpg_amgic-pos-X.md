@@ -6,8 +6,8 @@ udver: '2'
 
 ## Treebank Statistics: UD_Cappadocian-AMGiC: POS Tags: `X`
 
-There are 1 `X` lemmas (0%), 2 `X` types (1%) and 2 `X` tokens (0%).
-Out of 15 observed tags, the rank of `X` is: 15 in number of lemmas, 14 in number of types and 14 in number of tokens.
+There are 1 `X` lemmas (0%), 2 `X` types (0%) and 2 `X` tokens (0%).
+Out of 16 observed tags, the rank of `X` is: 16 in number of lemmas, 14 in number of types and 14 in number of tokens.
 
 The 10 most frequent `X` lemmas: <em>_</em>
 
@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `X` is 2.000000 (the average of all parts of speech is 1.238806).
+The form / lemma ratio of `X` is 2.000000 (the average of all parts of speech is 1.244253).
 
 The 1st highest number of forms (2) was observed with the lemma “_”: <em>gibi, siǰím</em>.
 

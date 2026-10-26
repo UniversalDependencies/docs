@@ -24,7 +24,7 @@ The following 4 pairs of parts of speech are connected with `expl`: <tt><a href=
 # visual-style 6 1 expl	color:blue
 1	Ան	ան	PRON	_	Case=Nom|Deixis=Remt|Number=Sing|PronType=Dem	6	expl	_	Translit=An|LTranslit=an
 2	ալ	ալ	ADV	_	_	1	advmod:emph	_	Translit=al|LTranslit=al
-3	մեզի	մենք	PRON	_	Animacy=Hum|Case=Dat|Number=Plur|Person=1|PronType=Prs	6	obl	_	Translit=mezi|LTranslit=menk’
+3	մեզի	մենք	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	6	obl	_	Translit=mezi|LTranslit=menk’
 4	՜	՜	PUNCT	_	_	3	punct	_	Translit=!|LTranslit=!
 5	համար	համար	ADP	_	AdpType=Post	3	case	_	Translit=hamar|LTranslit=hamar
 6	ըսած	ըսել	VERB	_	Aspect=Perf|Polarity=Pos|Subcat=Tran|VerbForm=Part|Voice=Act	0	root	_	Translit=ësaç|LTranslit=ësel

@@ -39,7 +39,7 @@ The following 4 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 3	fgColor:white
 # visual-style 3 4 cop	color:blue
 1	Дениз	Дениз	PROPN	_	_	3	nsubj	_	_
-2	бѳлмѳдѳ	бѳлмѳ	NOUN	_	_	3	obl	_	_
+2	бөлмөдө	бөлмө	NOUN	_	_	3	obl	_	_
 3	жок	жок	ADJ	_	_	0	root	_	_
 4	эле	э	AUX	_	_	3	cop	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	3	punct	_	_

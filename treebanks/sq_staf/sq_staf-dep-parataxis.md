@@ -28,13 +28,13 @@ The following 8 pairs of parts of speech are connected with `parataxis`: <tt><a 
 4	do	do	PART	_	_	7	mark	_	end_char=2624|start_char=2622
 5	të	të	PART	_	_	7	mark	_	_
 6	e	aj	PRON	_	_	7	obj	_	_
-7	gjejmë	gjej	VERB	_	Mood=Sub|Number=Plur|Person=1|Tense=Pres|Voice=Act	0	root	_	SpaceAfter=No
+7	gjejmë	gjej	VERB	_	Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
 8	,	,	PUNCT	_	_	7	punct	_	end_char=2635|start_char=2634
 9	-	-	PUNCT	_	_	7	punct	_	end_char=2637|start_char=2636
-10	tha	them	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	7	parataxis	_	end_char=2641|start_char=2638
+10	tha	them	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	7	parataxis	_	end_char=2641|start_char=2638
 11	prifti	prift	NOUN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	10	nsubj	_	end_char=2648|start_char=2642
 12	dhe	dhe	CCONJ	_	_	13	cc	_	end_char=2652|start_char=2649
-13	uli	ulem	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	10	conj	_	end_char=2656|start_char=2653
+13	uli	ulem	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	10	conj	_	end_char=2656|start_char=2653
 14	sytë	sytë	NOUN	_	Case=Acc|Definite=Def|Gender=Fem|Number=Plur	13	obj	_	SpaceAfter=No
 15	.	.	PUNCT	_	_	7	punct	_	end_char=2662|start_char=2661
 
@@ -48,7 +48,7 @@ The following 8 pairs of parts of speech are connected with `parataxis`: <tt><a 
 # visual-style 2	fgColor:white
 # visual-style 2 6 parataxis	color:blue
 1	Më	unë	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	2	obj	_	end_char=889|start_char=887
-2	rrethojnë	rrethoj	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	0	root	_	end_char=899|start_char=890
+2	rrethojnë	rrethoj	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	end_char=899|start_char=890
 3	dy	dy	NUM	_	NumType=Card	4	nummod	_	end_char=902|start_char=900
 4	gjëra	gjë	NOUN	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Plur	2	nsubj	_	end_char=908|SpaceAfter=No|start_char=903
 5	,	,	PUNCT	_	_	2	punct	_	end_char=909|start_char=908
@@ -66,15 +66,15 @@ The following 8 pairs of parts of speech are connected with `parataxis`: <tt><a 
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 3 parataxis	color:blue
-1	Është	jam	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	3	cop	_	end_char=2106|start_char=2101
+1	Është	jam	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	end_char=2106|start_char=2101
 2	i	i	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	3	det:adj	_	end_char=2108|start_char=2107
 3	bukur	bukur	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	5	parataxis	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	3	punct	_	end_char=2115|start_char=2114
-5	mendoi	mendoj	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	end_char=2122|start_char=2116
+5	mendoi	mendoj	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	end_char=2122|start_char=2116
 6	gjenerali	gjeneral	NOUN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	5	nsubj	_	SpaceAfter=No
 7	,	,	PUNCT	_	_	5	punct	_	end_char=2133|start_char=2132
 8	tek	tek	SCONJ	_	_	9	mark	_	end_char=2137|start_char=2134
-9	vështronte	vështroj	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	5	advcl	_	end_char=2148|start_char=2138
+9	vështronte	vështroj	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	advcl	_	end_char=2148|start_char=2138
 10	vjedhurazi	vjedhuraz	VERB	_	VerbForm=Part	9	advcl	_	end_char=2159|start_char=2149
 11	profilin	profil	NOUN	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	9	obj	_	end_char=2168|start_char=2160
 12	e	e	DET	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Art	13	det:adj	_	end_char=2170|start_char=2169

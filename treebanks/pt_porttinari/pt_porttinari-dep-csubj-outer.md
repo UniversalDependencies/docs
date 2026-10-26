@@ -51,7 +51,7 @@ The following 2 pairs of parts of speech are connected with `csubj:outer`: <tt><
 26	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	27	det	27:det	_
 27	senso	senso	NOUN	_	Gender=Masc|Number=Sing	24	nmod	24:nmod:de	_
 28	comum	comum	ADJ	_	Number=Sing	27	amod	27:amod	SpaceAfter=No
-29	.	.	PUNCT	_	_	20	punct	20:punct	SpaceAfter=No
+29	.	.	PUNCT	_	_	20	punct	20:punct	_
 
 ~~~
 
@@ -77,7 +77,7 @@ The following 2 pairs of parts of speech are connected with `csubj:outer`: <tt><
 13	estranho	estranho	NOUN	_	Gender=Masc|Number=Sing	10	appos	10:appos	SpaceAfter=No
 14	,	,	PUNCT	_	_	13	punct	13:punct	_
 15	quase-estranho	quase-estranho	NOUN	_	Gender=Masc|Number=Sing	10	appos	10:appos	SpaceAfter=No
-16	.	.	PUNCT	_	_	10	punct	10:punct	SpaceAfter=No
+16	.	.	PUNCT	_	_	10	punct	10:punct	_
 
 ~~~
 

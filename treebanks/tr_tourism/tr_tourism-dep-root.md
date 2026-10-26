@@ -11,9 +11,9 @@ This relation is universal.
 19830 nodes (22%) are attached to their parents as `root`.
 
 19830 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.36555723651034.
+Average distance between parent and child is 3.36575895108422.
 
-The following 12 pairs of parts of speech are connected with `root`: -<tt><a href="tr_tourism-pos-VERB.html">VERB</a></tt> (14372; 72% instances), -<tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt> (3112; 16% instances), -<tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt> (2036; 10% instances), -<tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> (132; 1% instances), -<tt><a href="tr_tourism-pos-PROPN.html">PROPN</a></tt> (102; 1% instances), -<tt><a href="tr_tourism-pos-NUM.html">NUM</a></tt> (28; 0% instances), -<tt><a href="tr_tourism-pos-AUX.html">AUX</a></tt> (21; 0% instances), -<tt><a href="tr_tourism-pos-ADP.html">ADP</a></tt> (9; 0% instances), -<tt><a href="tr_tourism-pos-PRON.html">PRON</a></tt> (9; 0% instances), -<tt><a href="tr_tourism-pos-DET.html">DET</a></tt> (5; 0% instances), -<tt><a href="tr_tourism-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), -<tt><a href="tr_tourism-pos-INTJ.html">INTJ</a></tt> (2; 0% instances).
+The following 13 pairs of parts of speech are connected with `root`: -<tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt> (8961; 45% instances), -<tt><a href="tr_tourism-pos-VERB.html">VERB</a></tt> (7304; 37% instances), -<tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt> (3143; 16% instances), -<tt><a href="tr_tourism-pos-PROPN.html">PROPN</a></tt> (185; 1% instances), -<tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> (122; 1% instances), -<tt><a href="tr_tourism-pos-NUM.html">NUM</a></tt> (35; 0% instances), -<tt><a href="tr_tourism-pos-X.html">X</a></tt> (32; 0% instances), -<tt><a href="tr_tourism-pos-AUX.html">AUX</a></tt> (21; 0% instances), -<tt><a href="tr_tourism-pos-ADP.html">ADP</a></tt> (9; 0% instances), -<tt><a href="tr_tourism-pos-PRON.html">PRON</a></tt> (9; 0% instances), -<tt><a href="tr_tourism-pos-DET.html">DET</a></tt> (5; 0% instances), -<tt><a href="tr_tourism-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), -<tt><a href="tr_tourism-pos-INTJ.html">INTJ</a></tt> (2; 0% instances).
 
 
 ~~~ conllu
@@ -22,8 +22,8 @@ The following 12 pairs of parts of speech are connected with `root`: -<tt><a hre
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 2 root	color:blue
-1	KUMSALI	kumsal	NOUN	_	Case=Acc|Number=Sing|Person=3	2	nsubj	_	_
-2	YOKTU	yok	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+1	Kumsalı	kumsal	NOUN	_	Case=Acc|Number=Sing	2	nsubj	_	_
+2	yoktu	yok	ADJ	_	Aspect=Perf|Number=Sing|Person=3|Polarity=Neg	0	root	_	_
 3	.	.	PUNCT	_	_	2	punct	_	_
 
 ~~~
@@ -35,10 +35,10 @@ The following 12 pairs of parts of speech are connected with `root`: -<tt><a hre
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 4 root	color:blue
-1	ANİMASYON	animasyon	NOUN	_	Case=Nom|Number=Sing|Person=3	2	nmod	_	_
-2	EKİBİ	ekip	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	4	nsubj	_	_
-3	ÇOK	çok	ADV	_	_	4	advmod	_	_
-4	BAŞARILI	başarılı	ADJ	_	_	0	root	_	_
+1	Aileler	aile	NOUN	_	Case=Nom|Number=Plur	4	nsubj	_	_
+2	bu	bu	DET	_	Definite=Def|PronType=Dem	3	det	_	_
+3	otele	otel	NOUN	_	Case=Dat|Number=Sing	4	obl	_	_
+4	gitmeli	git	VERB	_	Evident=Fh|Mood=Nec|Number=Sing|Person=3|Polarity=Pos|VerbForm=Fin	0	root	_	_
 5	.	.	PUNCT	_	_	4	punct	_	_
 
 ~~~
@@ -50,8 +50,8 @@ The following 12 pairs of parts of speech are connected with `root`: -<tt><a hre
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 2 root	color:blue
-1	HER	her	DET	_	Definite=Def|PronType=Art	2	det	_	_
-2	ŞEY	şey	NOUN	_	Case=Nom|Number=Sing|Person=3	0	root	_	_
+1	Her	her	DET	_	Definite=Def|PronType=Ind	2	det	_	_
+2	şey	şey	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
 3	.	.	PUNCT	_	_	2	punct	_	_
 
 ~~~

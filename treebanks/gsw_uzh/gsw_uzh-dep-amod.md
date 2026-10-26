@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of amod in UD_Swiss_German-UZH'
+title:  'Statistics of amod in UD_Alemannic-UZH'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Swiss_German-UZH: Relations: `amod`
+## Treebank Statistics: UD_Alemannic-UZH: Relations: `amod`
 
 This relation is universal.
 

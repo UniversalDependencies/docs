@@ -10,47 +10,54 @@ For the principles of transliteration of Pashto used in UD see the [Transliterat
 
 ## Tokenization and Word Segmentation
 
-* The words are delimited by whitespaces and punctuation. Any possible exceptions have not yet been established.
-* Multiword tokens are used in several cases:
-  * Partially separable verbs (see below) in forms, when the two parts are connected (بندوم _bandawë́m_ “I close” → کوم _band_ + بند _kawë́m_).
-  * Separeted verb prefixes connected with negative particle (به **ونه** خورم _bë **wënë́** xorëm_ “I will not eat” → و _wë_ + نه _në_).
+* The words are delimited by whitespaces and punctuation.
+* Multiword tokens are used in these cases:
+  * separable light verb verbs in forms, when the two parts are joined, e.g. بندوم _bandawë́m_ “I close” → کوم _band_ + بند _kawë́m_
+  * contractions of pronouns and adpositions, e.g. پرې _pre_ “on it/him/her/them” → پر یې _për ye_ (see [ADP]() for details)
 
 ## Morphology
 
 ### Lemmatization
 
 * Direct (nominative) singular masculine (if applicable) form is used as lemma for nominals.
-* Infinitive (in the direct case) is used as lemma for verbs, with these exceptions:
-  * The verb “to be”, used as copula and as auxiliary verb for perfect tenses, does not have the infitinive, so the form of first person singular of the present tense یم _yëm_ “I am” is used instead.
+* Infinitive (in the direct case) is usually used as lemma for verbs.
   * The existential word شته _šta_ “there is / there are”, tagged as [VERB](), has only one form, so it is used as the lemma.
 
 ### Tags
-
+* The overview of part-of-speech tags used in Pashto can be found [here](pos/index.html).
 * Pashto uses all 17 universal tags.
 * Several words are tagged as [PART]():
-  * Negative particles نه _në_ and مه _ma_ “no/not” and the affirmative particle هو _ho_ “yes”.
-  * Modal particles: باید _bấyad_ (necessity “must / have to”).
-* Only the verb یم _yëm_ “to be” (used as copula and auxiliary verb for perfect tenses) and some uses of the verb کېدل _kedë́l_ “to become” (when used as auxiliary verb for passive voice or potential forms) are tagged as [AUX](). Modal verbs, such as غوښتل _ġox̌të́l_ “to want to”, are tagged as [VERB]() (besides that, some modal meanings are expressed using modal particles or using the mentioned potential verb forms). Light verbs are tagged also as VERB, with the nominal part depending on them with `xcomp` relation.
+  * Negative particles نه _në_ and مه _ma_ “no, not” and the affirmative particle هو _ho_ “yes”.
+  * Modal particles: باید _bấyad_ (necessity “must, have to, should”) and دې _de_ (order or desire “let, should”).
+* These verbs may be tagged as [AUX]():
+  * verb ول _wël_ “to be”, used as copula and auxiliary verb for perfect tenses
+  * verb کېدل _kedë́l_ “to become”, used for passive voice or potential forms
+  * verb کول _kawë́l_ “to do”, used for longer potential forms
+  * word بۀ _bë_, used for future tense, habitual past forms and in conditional sentences
+  * word ونۀ _wënë́_ joining a perfective prefix (in affirmative forms connected to the verb) with a negation particle, this may hold also for some other prefixes.
+* Modal verbs, such as غوښتل _ġox̌të́l_ “to want to”, are tagged as [VERB]() (besides that, some modal meanings are expressed using modal particles or using the mentioned potential verb forms). Light verbs are tagged also as VERB, with the nominal part depending on them with `compound:lvc` relation.
 * Pronouns that depend on nouns and behave similarly like their attributes (some of them even agree with the nouns in number, case and gender) are tagged as [DET](); possessive pronouns are mostly treated this way. Pronouns used individually (often as arguments of a verb) are tagged as [PRON](). This includes e.g. relative or non-possessive personal pronouns. Various interrogative, demonstrative or indefinite pronouns can be tagged both ways depending on the situation. Enclitic weak pronouns, used as unstressed core arguments or as alternative possessive pronouns, are always tagged as PRON, even when marking possession, because they do not have the attributive relation to the noun, e.g. they follow the noun, while all other pronouns tagged as DET precede it. Directional pronouns, merged with several prepositions, are separated from them with a PRON tag.
 * The deverbal forms like infinitive or participles (sometimes behaving like verbal noun and verbal adjectives) are usually tagged as VERB. Only nouns and adjectives originally derived from infinitives or participles, but now perceived clearly as nouns and adjectives, are tagged as [NOUN]() and [ADJ]().
 * Adjectives and adverbs derived from adjectives have often the same form. Their tagging as [ADJ]() or [ADV]() depends on the context.
 
 ### Features
-
+* The overview of all features used in Pashto can be found [here](feat/index.html).
 * There are three [VerbForm]() values used in Pashto: finite `Fin`, infinitive `Inf` and participle `Part`.
 * An important feature of Pashto verbs is [Aspect](), which strictly divides verb forms to imperfect `Imp` and perfecgt `Perf`.
 * The finite verb forms inflect for [Mood]() feature with indicative `Ind`, imperative `Imp`, subjunctive `Sub` and potential `Pot` values.
-* The finite verb forms conjugate for [Tense]() feature taking present `Pres`, past `Past` or future `Fut` mark.
+* The finite verb forms conjugate for [Tense]() feature taking present `Pres` or past `Past` mark, with an auxiliary with marking the future `Fut`.
 * The finite verb forms inflect also for the [Person]() feature with the common three values, which is also an inherent feature of many personal pronouns.
-* Generally all inlfectional parts of speech inflect for [Number]() taking a singular `Sing` or a plural `Plur` value. Infinitives always behave like plural, so they do not have the number tagged. Non-past finite verb forms do not have the number feature in the third person, since the forms for both numbers are always identical.
+* Generally all inlfectional parts of speech inflect for [Number]() taking a singular `Sing` or a plural `Plur` value. There is a few collective nouns having the collective `Coll` number. Infinitives always behave like plural, so they do not have the number tagged. Non-past finite verb forms do not have the number feature in the third person, since the forms for both numbers are always identical.
 * Nominals, participles and infinitives inflect for [Case]() feature. There are five cases tagged in UD for Pashto: direct (marked as nominative) `Nom`, oblique (marked as accusative) `Acc`, locative `Loc`, ablative `Abl` and vocative `Voc`.
 * Nouns and some pronouns have inherent [Gender]() feature with two possible values: masculine `Masc` and feminine `Fem`. Adjectives, other pronouns and participles inflect for the gender in order to agree with nouns. Finite verb forms inflect for the gender only in the past forms in the third person (both singular and plural).
-* Verbs and pronouns use the feature [Variant]() to distinguish between various forms, denoted long `Long`, short `Short`, weak `Weak` and directional `Dir`.
+* Other important features of Pashto include [PronType](), [Animacy](), [Deixis]() or [Variant]().
+
   
 ## Syntax
+* The overview of all dependency relations used in Pashto can be found [here](dep-index.html).
 
 ### Core Arguments
-* Core arguments (subjects and objects) in Pashto are mostly nouns, pronouns or infinitives (behaving like verbal nouns) in either bare direct case `Nom` or bare oblique case `Acc`. The exact use of these cases depends on the inherent transitivity of the verb and the voice and tense used (language phenomenon called _split ergativity_ occurring also in other Indo-Iranian langages)
+* Core arguments (subjects and objects) in Pashto are mostly nouns, pronouns or infinitives in either bare direct case `Nom` or bare oblique case `Acc`. The exact use of these cases depends on the inherent transitivity of the verb and the voice and tense used (language phenomenon called _split ergativity_ occurring also in other Indo-Iranian langages)
 * The only argument (i.e. the subject) of intransitive verbs or of transitive verbs used in the passive voice are always in the direct case `Nom`.
 * For transitive verbs in the active voice holds:
   * The **subject** in **non-past** tenses is always in the **direct** case `Nom`.
@@ -87,29 +94,39 @@ For the principles of transliteration of Pashto used in UD see the [Transliterat
 * exceptions: ما _mâ_, تا _tâ_ (see above)
 
 ### Non-verbal Clauses
-* The copula verb یم _yëm_ “be” (or more precisely “I am”) is used in most non-verbal clauses.
+* The copula verb ول _wël_ “to be” is used in most non-verbal clauses.
 * The nominal part of the predicate is usually in the direct case `Nom`
 * In the existential clauses the word شته _šta_ “there is / there are” is used, but it is tagged [VERB]()
 
 ### Relations Overview
 * The following relation subtypes are used in Pashto:
-  * aux:pass
-  * nsubj:pass
-  * compound:prt
-  * orphan:nsubjobj
+  
+  Auxiliaries (see [aux](./dep/aux_.html)):
+  * [aux:cnd](./dep/aux-cnd.html) for conditional mood auxiliary
+  * [aux:fut](./dep/aux-fut.html) for future tense auxiliary
+  * [aux:hab](./dep/aux-hab.html) for habitual past tense auxiliary
+  * [aux:pass](./dep/aux-pass.html) for passive voice auxiliary
+  * [aux:perf](./dep/aux-perf.html) for perfect tenses auxiliary (do not confuse with the perfective aspect)
+  * [aux:pot](./dep/aux-pot.html) for potential mood auxiliary
+  * [aux:sub](./dep/aux-pot.html) for subjunctive mood auxiliary (only for irregular verb تلل _tlël_ “to go”)
+  
+  Orphan constructions (see [orphan](./dep/orphan.html)):
+  * [orphan:nsubjobj](./dep/orphan-nsubjobj.html) for orphan object dependent on orphan subject
+  * [orphan:nsubjobl](./dep/orphan-nsubjobl.html) for orphan oblique dependent on orphan subject
+  * [orphan:objobl](./dep/orphan-objobl.html) for orphan oblique dependent on orphan object
 
----
-**Instruction**: Include links to language-specific relations definitions if any.
----
+  Relative clauses:
+  * `acl:relcl` for adnominal relative clause modifier
+  * `advcl:relcl` for adverbial relative clause modifier
+ 
+  Other:
+  * [nsubj:pass](./dep/nsubj-pass.html) for passive nominal subject
+  * [compound:lvc](./dep/compound-lvc.html) for nominal part of light verb construction
+  * `obl:agent` for oblique agent in passive construction
+  * `obl:arg` for oblique argument
+  * `flat:foreign` for flat foreign expressions
 
 ## Treebanks
-
-There is currently no Pashto UD treebank.
-
-
----
-**Instruction**: Treebank-specific pages are generated automatically from the README file in the treebank repository and
-from the data in the latest release. Link to the respective `*-index.html` page in the `treebanks` folder, using the language code
-and the treebank code in the file name.
-
----
+There are two Pashto UD treebanks:
+  * [Pashto-Sikaram](../treebanks/ps_sikaram/index.html)
+  * [Pashto-Prince](../treebanks/ps_prince/index.html)

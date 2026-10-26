@@ -23,5 +23,5 @@ The most frequent other feature values with which `AUX` and `Polarity` co-occurr
 `AUX` tokens may have the following values of `Polarity`:
 
 * `Neg` (430; 100% of non-empty `Polarity`): <em>ii, eai, in, eat, it, ale, eaba, iige, eaige, ean</em>
-* `EMPTY` (1564): <em>lea, leat, lei, ledje, galgá, lean, sáhttá, galget, leamaš, áiggun</em>
+* `EMPTY` (1565): <em>lea, leat, lei, ledje, galgá, lean, sáhttá, galget, leamaš, áiggun</em>
 

@@ -39,7 +39,6 @@ either [VERB]() or `ADV`.
 - _very_
 - _well_
 - _exactly_
-- _tomorrow_
 - _up, down_
 - interrogative/relative adverbs: _where, when, how, why, whenever, wherever_ (including when used to mark a clause that is circumstantial, not interrogative or relative)
 - demonstrative adverbs: _here, there, now, then_
@@ -52,4 +51,4 @@ either [VERB]() or `ADV`.
 
 - [Loos, Eugene E., et al. 2003. Glossary of linguistic terms: What is an adverb?](https://glossary.sil.org/term/adverb-grammar)
 - [Wikipedia](http://en.wikipedia.org/wiki/Adverb)
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:19 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:34 CEST -->

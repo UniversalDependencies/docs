@@ -9,18 +9,18 @@ udver: '2'
 This feature is language-specific.
 It occurs with 2 different values: `Prep`, `Voc`.
 
-545 tokens (9%) have a non-empty value of `AdpType`.
+546 tokens (9%) have a non-empty value of `AdpType`.
 44 types (2%) occur at least once with a non-empty value of `AdpType`.
 24 lemmas (1%) occur at least once with a non-empty value of `AdpType`.
-The feature is used with 1 part-of-speech tags: <tt><a href="cs_poetry-pos-ADP.html">ADP</a></tt> (545; 9% instances).
+The feature is used with 1 part-of-speech tags: <tt><a href="cs_poetry-pos-ADP.html">ADP</a></tt> (546; 9% instances).
 
 ### `ADP`
 
-545 <tt><a href="cs_poetry-pos-ADP.html">ADP</a></tt> tokens (100% of all `ADP` tokens) have a non-empty value of `AdpType`.
+546 <tt><a href="cs_poetry-pos-ADP.html">ADP</a></tt> tokens (100% of all `ADP` tokens) have a non-empty value of `AdpType`.
 
 `ADP` tokens may have the following values of `AdpType`:
 
-* `Prep` (511; 94% of non-empty `AdpType`): <em>v, na, z, k, s, nad, do, pro, o, za</em>
+* `Prep` (512; 94% of non-empty `AdpType`): <em>v, na, z, k, s, nad, do, pro, o, za</em>
 * `Voc` (34; 6% of non-empty `AdpType`): <em>ve, ku, ze, přede, se, ke, nade, pode</em>
 
 <table>

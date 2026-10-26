@@ -32,11 +32,18 @@ Note that indefinite quantifiers such as _քանի, մի քանի_ “many, seve
 Արամը մի քանի խնձոր կերավ ։ \n Aram ate some many apples .
 det(խնձոր, մի)
 fixed(մի, քանի)
-det(some, apples)
+det(apples, some)
 fixed(some, many)
 ~~~
 
 ## Additional remarks
+
+
+Note that the two numeral words in the above example are joined using the [flat]() relation.
+Also note that the [intensifier](advmod:emph) _ևս_ is attached to the head of the phrase _(դրամ)_ and not to the number.
+This is in accord with the UD guidelines.
+Similarly there may be other nodes (such as punctuation) that are attached to the head of the phrase
+and they are related to the whole phrase rather than directly to the head noun:
 
 ~~~ sdparse
 50 միլիոն դրամ \n 50 million dram
@@ -66,13 +73,6 @@ flat(50-7, thousand)
 advmod:emph(drams, at-most)
 ~~~
 
-Note that the two numeral words in the above example are joined using the [flat]() relation.
-Also note that the [intensifier](advmod:emph) _ևս_ is attached to the head of the phrase _(դրամ)_ and not to the number.
-This is in accord with the UD guidelines.
-
-Similarly there may be other nodes (such as punctuation) that are attached to the head of the phrase
-and they are related to the whole phrase rather than directly to the head noun:
-
 ~~~ sdparse
 ( 9 օր ) \n ( 9 days )
 punct(օր, (-1)
@@ -97,7 +97,7 @@ nmod:poss(houres, of-voting)
 
 ## Dates
 
-Dates are annotated as follows: if present the day is the head, the months are _nmod:poss_ and the year are _nummod_:
+Dates are annotated as follows: if present, the day is the head, the month is _nmod:poss_ and the year is _nummod_:
 
 ~~~ sdparse
 Նա ծնվել է 1955 թվականի մայիսի 4-ին ։ \n He was born on-4th of-May of-year 1955 .
@@ -122,4 +122,4 @@ nmod(հասցեում, Դրոյի)
 nummod(Dro, 48-7)
 nmod(in-Address, Dro)
 ~~~
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:11:11 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:26 CEST -->

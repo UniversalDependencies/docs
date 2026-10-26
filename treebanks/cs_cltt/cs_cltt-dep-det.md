@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `det`: <tt><a href="cs_cltt-dep-det-nummod.html">det:nummod</a></tt>.
 
-629 nodes (2%) are attached to their parents as `det`.
+624 nodes (2%) are attached to their parents as `det`.
 
-624 instances of `det` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.24642289348172.
+624 instances of `det` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.2275641025641.
 
-The following 3 pairs of parts of speech are connected with `det`: <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cltt-pos-DET.html">DET</a></tt> (627; 100% instances), <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_cltt-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cltt-pos-DET.html">DET</a></tt> (1; 0% instances).
+The following 2 pairs of parts of speech are connected with `det`: <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cltt-pos-DET.html">DET</a></tt> (623; 100% instances), <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_cltt-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -79,55 +79,6 @@ The following 3 pairs of parts of speech are connected with `det`: <tt><a href="
 34	k	k	ADP	RR--3----------	AdpType=Prep|Case=Dat	35	case	35:case	LId=k-1
 35	podnikání	podnikání	NOUN	NNNS3-----A----	Case=Dat|Gender=Neut|Number=Sing	33	obl	33:obl:k:dat	SpaceAfter=No
 36	.	.	PUNCT	Z:-------------	_	23	punct	23:punct	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 7 det	color:blue
-1	Pokud	pokud	SCONJ	J,-------------	_	2	mark	2:mark	_
-2	dojde	dojít	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	25	advcl	25:advcl:pokud	_
-3	ve	v	ADP	RV--6----------	AdpType=Voc|Case=Loc	5	case	5:case	LId=v-1
-4	výjimečných	výjimečný	ADJ	AAIP6----1A----	Animacy=Inan|Case=Loc|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos	5	amod	5:amod	_
-5	případech	případ	NOUN	NNIP6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	2	obl	2:obl:v:loc	_
-6	k	k	ADP	RR--3----------	AdpType=Prep|Case=Dat	7	case	7:case	LId=k-1
-7	tomu	ten	DET	PDZS3----------	Case=Dat|Gender=Masc,Neut|Number=Sing|PronType=Dem	2	det	2:det	SpaceAfter=No
-8	,	,	PUNCT	Z:-------------	_	18	punct	18:punct	_
-9	že	že	SCONJ	J,-------------	_	18	mark	18:mark	_
-10	použití	použití	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Number=Sing	18	nsubj	18:nsubj	_
-11	účetních	účetní	ADJ	AAFP2----1A----	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	12	amod	12:amod	LId=účetní-1
-12	metod	metoda	NOUN	NNFP2-----A----	Case=Gen|Gender=Fem|Number=Plur	10	nmod	10:nmod:gen	_
-13	stanovených	stanovený	ADJ	AAFP2----1A----	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	12	amod	12:amod	_
-14	prováděcími	prováděcí	ADJ	AAIP7----1A----	Animacy=Inan|Case=Ins|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos	16	amod	16:amod	_
-15	právními	právní	ADJ	AAIP7----1A----	Animacy=Inan|Case=Ins|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos	16	amod	16:amod	_
-16	předpisy	předpis	NOUN	NNIP7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	13	obl:arg	13:obl:arg:ins	_
-17	bude	být	AUX	VB-S---3F-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin|Voice=Act	18	cop	18:cop	_
-18	neslučitelné	slučitelný	ADJ	AANS1----1N----	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Neg	7	acl	7:acl:že	_
-19	s	s	ADP	RR--7----------	AdpType=Prep|Case=Ins	20	case	20:case	LId=s-1
-20	povinností	povinnost	NOUN	NNFS7-----A----	Case=Ins|Gender=Fem|Number=Sing	18	obl:arg	18:obl:arg:s:ins	_
-21	podle	podle	ADP	RR--2----------	AdpType=Prep|Case=Gen	22	case	22:case	LId=podle-2
-22	odstavce	odstavec	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	18	obl	18:obl:podle:gen	_
-23	1	1	NUM	C}-------------	NumForm=Roman|NumType=Card	22	nummod	22:nummod	SpaceAfter=No
-24	,	,	PUNCT	Z:-------------	_	2	punct	2:punct	_
-25	postupuje	postupovat	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
-26	účetní	účetní	ADJ	AAFS1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	27	amod	27:amod	LId=účetní-1
-27	jednotka	jednotka	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing	25	nsubj	25:nsubj	_
-28	odchylně	odchylně	ADV	Dg-------1A----	Degree=Pos|Polarity=Pos	25	advmod	25:advmod	_
-29	tak	tak	ADV	Db-------------	PronType=Dem	25	advmod	25:advmod	SpaceAfter=No|LId=tak-3
-30	,	,	PUNCT	Z:-------------	_	34	punct	34:punct	_
-31	aby	aby	SCONJ	J,-------------	_	34	mark	34:mark	_
-32	by	být	AUX	Vc-------------	Aspect=Imp|Mood=Cnd|VerbForm=Fin	34	aux	34:aux	_
-33	byl	být	AUX	VpYS---XR-AA---	Aspect=Imp|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	34	aux:pass	34:aux:pass	_
-34	podán	podaný	ADJ	VsYS---XX-AP---	Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	25	advcl	25:advcl:aby	LDeriv=podat
-35	věrný	věrný	ADJ	AAIS1----1A----	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	38	amod	38:amod	_
-36	a	a	CCONJ	J^-------------	_	37	cc	37:cc	LId=a-1
-37	poctivý	poctivý	ADJ	AAIS1----1A----	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	35	conj	35:conj|38:amod	_
-38	obraz	obraz	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	34	nsubj:pass	34:nsubj:pass	SpaceAfter=No
-39	.	.	PUNCT	Z:-------------	_	25	punct	25:punct	_
 
 ~~~
 

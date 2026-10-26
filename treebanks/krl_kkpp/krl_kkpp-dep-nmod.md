@@ -11,10 +11,10 @@ There are 2 language-specific subtypes of `nmod`: <tt><a href="krl_kkpp-dep-nmod
 
 37 nodes (1%) are attached to their parents as `nmod`.
 
-31 instances of `nmod` (84%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.10810810810811.
+30 instances of `nmod` (81%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.21621621621622.
 
-The following 8 pairs of parts of speech are connected with `nmod`: <tt><a href="krl_kkpp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="krl_kkpp-pos-NOUN.html">NOUN</a></tt> (16; 43% instances), <tt><a href="krl_kkpp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="krl_kkpp-pos-PROPN.html">PROPN</a></tt> (7; 19% instances), <tt><a href="krl_kkpp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="krl_kkpp-pos-PRON.html">PRON</a></tt> (5; 14% instances), <tt><a href="krl_kkpp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="krl_kkpp-pos-NOUN.html">NOUN</a></tt> (3; 8% instances), <tt><a href="krl_kkpp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="krl_kkpp-pos-PRON.html">PRON</a></tt> (2; 5% instances), <tt><a href="krl_kkpp-pos-VERB.html">VERB</a></tt>-<tt><a href="krl_kkpp-pos-PRON.html">PRON</a></tt> (2; 5% instances), <tt><a href="krl_kkpp-pos-AUX.html">AUX</a></tt>-<tt><a href="krl_kkpp-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="krl_kkpp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="krl_kkpp-pos-PROPN.html">PROPN</a></tt> (1; 3% instances).
+The following 8 pairs of parts of speech are connected with `nmod`: <tt><a href="krl_kkpp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="krl_kkpp-pos-NOUN.html">NOUN</a></tt> (17; 46% instances), <tt><a href="krl_kkpp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="krl_kkpp-pos-PROPN.html">PROPN</a></tt> (6; 16% instances), <tt><a href="krl_kkpp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="krl_kkpp-pos-PRON.html">PRON</a></tt> (5; 14% instances), <tt><a href="krl_kkpp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="krl_kkpp-pos-NOUN.html">NOUN</a></tt> (3; 8% instances), <tt><a href="krl_kkpp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="krl_kkpp-pos-PRON.html">PRON</a></tt> (2; 5% instances), <tt><a href="krl_kkpp-pos-VERB.html">VERB</a></tt>-<tt><a href="krl_kkpp-pos-PRON.html">PRON</a></tt> (2; 5% instances), <tt><a href="krl_kkpp-pos-AUX.html">AUX</a></tt>-<tt><a href="krl_kkpp-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="krl_kkpp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="krl_kkpp-pos-PROPN.html">PROPN</a></tt> (1; 3% instances).
 
 
 ~~~ conllu
@@ -65,7 +65,7 @@ The following 8 pairs of parts of speech are connected with `nmod`: <tt><a href=
 # visual-style 15 13 nmod	color:blue
 1	Aktijoh	aktijo	NOUN	NOUN	Case=Ill|Number=Sing	2	obl	_	_
 2	liitty	liittyä	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-3	muajilman	muajilma	NOUN	NOUN	Case=Gen|Number=Sing	2	obj	_	_
+3	muajilman	muajilma	NOUN	NOUN	Case=Gen|Number=Sing	5	nmod:poss	_	_
 4	184	184	NUM	NUM	Case=Nom|Number=Sing|NumType=Card	5	nummod	_	_
 5	muata	mua	NOUN	NOUN	Case=Par|Number=Sing	2	obj	_	_
 6	ta	ta	CCONJ	CCONJ	_	7	cc	_	_

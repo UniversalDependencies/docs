@@ -26,7 +26,7 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 * `Ger` (54; 6% of non-empty `VerbForm`): <em>leggendo, portando, gridando, camminando, dicendo, facendo, GUARDANDO, ascoltando, aspettando, ballando</em>
 * `Inf` (166; 17% of non-empty `VerbForm`): <em>fare, andare, leggere, aiutar, salvare, aiutare, chiamare, avere, camminare, capire</em>
 * `Part` (385; 40% of non-empty `VerbForm`): <em>detto, visto, fatto, pensato, sentito, seduto, cominciato, andato, gridato, salvato</em>
-* `EMPTY` (3): <em>Carpe, Finse, succederè</em>
+* `EMPTY` (4): <em>Carpe, Finse, Va, succederè</em>
 
 <table>
   <tr><th>Paradigm <i>fare</i></th><th><tt>Fin</tt></th><th><tt>Inf</tt></th><th><tt>Part</tt></th><th><tt>Ger</tt></th></tr>

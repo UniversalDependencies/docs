@@ -11,7 +11,7 @@ UD, some of them perhaps inspired by UD, some even directly building upon UD and
 layers.
 
 
-  * [SUD: Surface Syntactic Universal Dependencies](https://surfacesyntacticud.github.io/)
+  * [SUD: Surface Syntactic Universal Dependencies](https://surfacesyntacticud.org/)
   * [Deep Universal Dependencies](https://ufal.mff.cuni.cz/deep-universal-dependencies)
   * [Universal PropBank](https://universalpropositions.github.io/)
   * [CorefUD: Coreference in Universal Dependencies](https://ufal.mff.cuni.cz/corefud)

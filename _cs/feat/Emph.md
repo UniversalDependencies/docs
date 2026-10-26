@@ -29,4 +29,4 @@ The value `Yes` marks unlexicalized combinations of a word form and the emphatic
 
 * _<b>dřevniehož</b>_ “earlier” (genitive + emphatic)
 
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:40 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:51 CEST -->

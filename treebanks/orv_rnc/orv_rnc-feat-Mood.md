@@ -25,7 +25,7 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 * `Cnd` (11; 0% of non-empty `Mood`): <em>было, сбирали, высылали, платили, присылали, стала, сталъ</em>
 * `Imp` (604; 12% of non-empty `Mood`): <em>пожалуй, вели, пожалуи, пожалꙋи, прикажи, смилуйся, скажи, здравствуй, изволь, отпиши</em>
 * `Ind` (4397; 88% of non-empty `Mood`): <em>бысть, бью, бьет, будет, рече, есть, стоитъ, прошу, бьетъ, живут</em>
-* `EMPTY` (9840): <em>смерено, взято, велел, пожаловал, дал, писал, сказал, велѣлъ, принето, послал</em>
+* `EMPTY` (9841): <em>смерено, взято, велел, пожаловал, дал, писал, сказал, велѣлъ, принето, послал</em>
 
 <table>
   <tr><th>Paradigm <i>быти</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Cnd</tt></th></tr>
@@ -56,7 +56,7 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 * `Cnd` (265; 26% of non-empty `Mood`): <em>бы, б, бъ, было, былъ, [б], были, бь</em>
 * `Imp` (32; 3% of non-empty `Mood`): <em>буди, еси, Буд[ь], буді, бꙋд, бꙋдь, бꙋдꙋ</em>
 * `Ind` (742; 71% of non-empty `Mood`): <em>будет, есть, есми, бысть, будетъ, есмь, суть, еси, есмя, есте</em>
-* `EMPTY` (434): <em>было, были, быти, былъ, была, был, быть, будучи, былѡ, быт(ь)</em>
+* `EMPTY` (433): <em>было, были, быти, былъ, была, был, быть, будучи, былѡ, быт(ь)</em>
 
 <table>
   <tr><th>Paradigm <i>быти</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Cnd</tt></th></tr>

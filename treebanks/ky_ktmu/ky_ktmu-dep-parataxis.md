@@ -22,7 +22,7 @@ The following 3 pairs of parts of speech are connected with `parataxis`: <tt><a 
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 1 parataxis	color:blue
-1	Жүр	Жүр	VERB	VB	Mood=Imp|Number=Sing|Person=3|Person[psor]=1|Polarity=Pos|Tense=Pres	5	parataxis	_	SpaceAfter=No
+1	Жүр	Жүр	VERB	VB	Mood=Imp|Number=Sing|Person=3|Person[psor]=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	5	parataxis	_	SpaceAfter=No
 2	,	,	PUNCT	PCT	_	1	punct	_	_
 3	шаймандарды	шайман	NOUN	NN	Case=Acc|Number=Plur|Person=3	5	obj	_	_
 4	үйгө	үй	NOUN	NN	Case=Dat|Number=Sing|Person=3	5	nmod	_	_

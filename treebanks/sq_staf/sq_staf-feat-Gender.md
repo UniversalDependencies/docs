@@ -12,7 +12,7 @@ It occurs with 2 different values: `Fem`, `Masc`.
 1255 tokens (35%) have a non-empty value of `Gender`.
 683 types (56%) occur at least once with a non-empty value of `Gender`.
 550 lemmas (56%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 5 part-of-speech tags: <tt><a href="sq_staf-pos-NOUN.html">NOUN</a></tt> (595; 17% instances), <tt><a href="sq_staf-pos-DET.html">DET</a></tt> (235; 7% instances), <tt><a href="sq_staf-pos-PRON.html">PRON</a></tt> (232; 7% instances), <tt><a href="sq_staf-pos-ADJ.html">ADJ</a></tt> (162; 5% instances), <tt><a href="sq_staf-pos-PROPN.html">PROPN</a></tt> (31; 1% instances).
+The feature is used with 5 part-of-speech tags: <tt><a href="sq_staf-pos-NOUN.html">NOUN</a></tt> (595; 17% instances), <tt><a href="sq_staf-pos-DET.html">DET</a></tt> (234; 7% instances), <tt><a href="sq_staf-pos-PRON.html">PRON</a></tt> (233; 7% instances), <tt><a href="sq_staf-pos-ADJ.html">ADJ</a></tt> (162; 5% instances), <tt><a href="sq_staf-pos-PROPN.html">PROPN</a></tt> (31; 1% instances).
 
 ### `NOUN`
 
@@ -37,14 +37,14 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
 
 ### `DET`
 
-235 <tt><a href="sq_staf-pos-DET.html">DET</a></tt> tokens (78% of all `DET` tokens) have a non-empty value of `Gender`.
+234 <tt><a href="sq_staf-pos-DET.html">DET</a></tt> tokens (78% of all `DET` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="sq_staf-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (235; 100%), <tt><a href="sq_staf-feat-Number.html">Number</a></tt><tt>=Sing</tt> (185; 79%), <tt><a href="sq_staf-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (157; 67%).
+The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="sq_staf-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (234; 100%), <tt><a href="sq_staf-feat-Number.html">Number</a></tt><tt>=Sing</tt> (184; 79%), <tt><a href="sq_staf-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (157; 67%).
 
 `DET` tokens may have the following values of `Gender`:
 
 * `Fem` (147; 63% of non-empty `Gender`): <em>e, të, së, i</em>
-* `Masc` (88; 37% of non-empty `Gender`): <em>të, i, e, së</em>
+* `Masc` (87; 37% of non-empty `Gender`): <em>të, i, e, së</em>
 * `EMPTY` (65): <em>një, e, të, nja, i, pak</em>
 
 <table>
@@ -56,24 +56,26 @@ The most frequent other feature values with which `DET` and `Gender` co-occurred
   <tr><td><tt><tt><a href="sq_staf-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="sq_staf-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="sq_staf-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td></td><td><em>e</em></td></tr>
   <tr><td><tt><tt><a href="sq_staf-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="sq_staf-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="sq_staf-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>e</em></td><td><em>e</em></td></tr>
   <tr><td><tt><tt><a href="sq_staf-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>e</em></td><td><em>e</em></td></tr>
+  <tr><td><tt><tt><a href="sq_staf-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="sq_staf-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td></td><td><em>e</em></td></tr>
   <tr><td><tt><tt><a href="sq_staf-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>e</em></td><td><em>e</em></td></tr>
   <tr><td><tt><tt><a href="sq_staf-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="sq_staf-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td></td><td><em>e</em></td></tr>
 </table>
 
 ### `PRON`
 
-232 <tt><a href="sq_staf-pos-PRON.html">PRON</a></tt> tokens (54% of all `PRON` tokens) have a non-empty value of `Gender`.
+233 <tt><a href="sq_staf-pos-PRON.html">PRON</a></tt> tokens (54% of all `PRON` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="sq_staf-feat-Number.html">Number</a></tt><tt>=Sing</tt> (190; 82%), <tt><a href="sq_staf-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (152; 66%).
+The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="sq_staf-feat-Number.html">Number</a></tt><tt>=Sing</tt> (191; 82%), <tt><a href="sq_staf-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (152; 65%).
 
 `PRON` tokens may have the following values of `Gender`:
 
 * `Fem` (77; 33% of non-empty `Gender`): <em>e, kjo, i, ajo, ime, saj, kësaj, këto, sime, asaj</em>
-* `Masc` (155; 67% of non-empty `Gender`): <em>i, e, ai, ky, tij, atë, cilët, im, ata, këtë</em>
+* `Masc` (156; 67% of non-empty `Gender`): <em>i, e, ai, ky, tij, atë, cilët, im, ata, këtë</em>
 * `EMPTY` (198): <em>më, e, që, unë, i, na, ç', asgjë, diçka, mua</em>
 
 <table>
   <tr><th>Paradigm <i>ai</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
+  <tr><td><tt><tt><a href="sq_staf-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="sq_staf-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="sq_staf-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td><em>e</em></td></tr>
   <tr><td><tt><tt><a href="sq_staf-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="sq_staf-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="sq_staf-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="sq_staf-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>e, atë, i, të</em></td><td><em>e</em></td></tr>
   <tr><td><tt><tt><a href="sq_staf-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="sq_staf-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="sq_staf-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td><em>atë</em></td><td></td></tr>
   <tr><td><tt><tt><a href="sq_staf-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="sq_staf-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="sq_staf-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>i</em></td><td></td></tr>
@@ -133,7 +135,7 @@ The 10 most frequent relations where parent and child node agree in `Gender`:
 <tt>NOUN --[<tt><a href="sq_staf-dep-det.html">det</a></tt>]--> PRON</tt> (26; 51%),
 <tt>NOUN --[<tt><a href="sq_staf-dep-det-poss.html">det:poss</a></tt>]--> PRON</tt> (24; 71%),
 <tt>NOUN --[<tt><a href="sq_staf-dep-nmod-poss.html">nmod:poss</a></tt>]--> NOUN</tt> (24; 51%),
-<tt>NOUN --[<tt><a href="sq_staf-dep-conj.html">conj</a></tt>]--> NOUN</tt> (16; 55%),
+<tt>NOUN --[<tt><a href="sq_staf-dep-conj.html">conj</a></tt>]--> NOUN</tt> (16; 53%),
 <tt>ADJ --[<tt><a href="sq_staf-dep-det.html">det</a></tt>]--> DET</tt> (14; 88%),
 <tt>PRON --[<tt><a href="sq_staf-dep-det.html">det</a></tt>]--> DET</tt> (11; 52%),
 <tt>ADJ --[<tt><a href="sq_staf-dep-obl.html">obl</a></tt>]--> NOUN</tt> (7; 64%),

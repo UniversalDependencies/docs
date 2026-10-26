@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-2140 nodes (2%) are attached to their parents as `cop`.
+2137 nodes (2%) are attached to their parents as `cop`.
 
-2125 instances of `cop` (99%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.27990654205607.
+2122 instances of `cop` (99%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.27936359382312.
 
-The following 11 pairs of parts of speech are connected with `cop`: <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-AUX.html">AUX</a></tt> (941; 44% instances), <tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hyw_armtdp-pos-AUX.html">AUX</a></tt> (855; 40% instances), <tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt>-<tt><a href="hyw_armtdp-pos-AUX.html">AUX</a></tt> (164; 8% instances), <tt><a href="hyw_armtdp-pos-ADV.html">ADV</a></tt>-<tt><a href="hyw_armtdp-pos-AUX.html">AUX</a></tt> (102; 5% instances), <tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hyw_armtdp-pos-AUX.html">AUX</a></tt> (39; 2% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-AUX.html">AUX</a></tt> (22; 1% instances), <tt><a href="hyw_armtdp-pos-NUM.html">NUM</a></tt>-<tt><a href="hyw_armtdp-pos-AUX.html">AUX</a></tt> (9; 0% instances), <tt><a href="hyw_armtdp-pos-X.html">X</a></tt>-<tt><a href="hyw_armtdp-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="hyw_armtdp-pos-ADP.html">ADP</a></tt>-<tt><a href="hyw_armtdp-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="hyw_armtdp-pos-DET.html">DET</a></tt>-<tt><a href="hyw_armtdp-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="hyw_armtdp-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `cop`: <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-AUX.html">AUX</a></tt> (941; 44% instances), <tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hyw_armtdp-pos-AUX.html">AUX</a></tt> (855; 40% instances), <tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt>-<tt><a href="hyw_armtdp-pos-AUX.html">AUX</a></tt> (164; 8% instances), <tt><a href="hyw_armtdp-pos-ADV.html">ADV</a></tt>-<tt><a href="hyw_armtdp-pos-AUX.html">AUX</a></tt> (101; 5% instances), <tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hyw_armtdp-pos-AUX.html">AUX</a></tt> (39; 2% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-AUX.html">AUX</a></tt> (22; 1% instances), <tt><a href="hyw_armtdp-pos-NUM.html">NUM</a></tt>-<tt><a href="hyw_armtdp-pos-AUX.html">AUX</a></tt> (9; 0% instances), <tt><a href="hyw_armtdp-pos-X.html">X</a></tt>-<tt><a href="hyw_armtdp-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="hyw_armtdp-pos-ADP.html">ADP</a></tt>-<tt><a href="hyw_armtdp-pos-AUX.html">AUX</a></tt> (2; 0% instances).
 
 
 ~~~ conllu
@@ -23,7 +23,7 @@ The following 11 pairs of parts of speech are connected with `cop`: <tt><a href=
 # visual-style 3	fgColor:white
 # visual-style 3 4 cop	color:blue
 1	-	-	PUNCT	_	_	3	punct	_	Translit=-|LTranslit=-
-2	Դուք	դուք	PRON	_	Animacy=Hum|Case=Nom|Number=Plur|Person=2|PronType=Prs	3	nsubj	_	Translit=Dowk’|LTranslit=dowk’
+2	Դուք	դուք	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	3	nsubj	_	Translit=Dowk’|LTranslit=dowk’
 3	հերոս	հերոս	NOUN	_	Animacy=Hum|Case=Nom|Definite=Ind|Number=Sing	0	root	_	Translit=heros|LTranslit=heros
 4	էք	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin	3	cop	_	Translit=ēk’|LTranslit=em|SpaceAfter=No
 5	,	,	PUNCT	_	_	7	punct	_	Translit=,|LTranslit=,|SpaceAfter=No

@@ -34,7 +34,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 
 * `Card` (1; 0% of non-empty `NumType`): <em>una</em>
 * `Ord` (264; 100% of non-empty `NumType`): <em>primo, prima, secondo, pria, terzo, prime, primi, quarto, seconda, quinta</em>
-* `EMPTY` (4911): <em>gran, dolce, alto, buon, bella, maggior, grande, alta, prima, etterno</em>
+* `EMPTY` (4934): <em>gran, dolce, alto, buon, bella, maggior, grande, alta, prima, etterno</em>
 
 `NumType` seems to be **lexical feature** of `ADJ`. 100% lemmas (17) occur only with one value of `NumType`.
 

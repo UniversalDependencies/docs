@@ -46,10 +46,10 @@ The following 7 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 4	l'	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	5	det	_	SpaceAfter=No
 5	oeuvre	œuvre	NOUN	S	Gender=Masc|Number=Sing	2	nmod	_	_
 6	originale	originale	ADJ	A	Gender=Masc|Number=Sing	5	amod	_	_
-7	s'	si	ADP	E	_	10	mark	_	SpaceAfter=No
-8	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nsubj:pass	_	_
+7	s'	si	SCONJ	E	_	10	mark	_	SpaceAfter=No
+8	il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nsubj:pass	_	_
 9	est	être	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux:pass	_	_
-10	indiqué	indiquer	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	acl	_	SpaceAfter=No
+10	indiqué	indiquer	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	acl	_	_
 11	;	;	PUNCT	FC	_	2	punct	_	_
 
 ~~~

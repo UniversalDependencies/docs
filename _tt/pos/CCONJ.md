@@ -16,4 +16,4 @@ For _subordinating conjunctions,_ see [SCONJ]().
 - _һәм_ "and"
 - _яки_ "or"
 - _ләкин_ "but"
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:21 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:35 CEST -->

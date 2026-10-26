@@ -34,7 +34,7 @@ The most frequent other feature values with which `ADJ` and `Poss` co-occurred: 
 `ADJ` tokens may have the following values of `Poss`:
 
 * `Yes` (154; 100% of non-empty `Poss`): <em>государева, государеву, государевы, бжиі, Иванова, Ивашкова, Петрова, Христову, Божіе, Божій</em>
-* `EMPTY` (13396): <em>великого, великому, великий, великии, государеву, государева, оржанои, пречистые, 178-г(о), вытным</em>
+* `EMPTY` (13397): <em>великого, великому, великий, великии, государеву, государева, оржанои, пречистые, 178-г(о), вытным</em>
 
 `Poss` seems to be **lexical feature** of `ADJ`. 100% lemmas (61) occur only with one value of `Poss`.
 

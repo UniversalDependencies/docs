@@ -14,7 +14,7 @@ There are also 1 other language-specific subtypes of `flat`: <tt><a href="fi_pud
 389 instances of `flat:name` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.50385604113111.
 
-The following 8 pairs of parts of speech are connected with `flat:name`: <tt><a href="fi_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fi_pud-pos-PROPN.html">PROPN</a></tt> (366; 94% instances), <tt><a href="fi_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fi_pud-pos-ADJ.html">ADJ</a></tt> (8; 2% instances), <tt><a href="fi_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fi_pud-pos-X.html">X</a></tt> (4; 1% instances), <tt><a href="fi_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fi_pud-pos-PROPN.html">PROPN</a></tt> (3; 1% instances), <tt><a href="fi_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="fi_pud-pos-PROPN.html">PROPN</a></tt> (3; 1% instances), <tt><a href="fi_pud-pos-X.html">X</a></tt>-<tt><a href="fi_pud-pos-X.html">X</a></tt> (3; 1% instances), <tt><a href="fi_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fi_pud-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="fi_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fi_pud-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `flat:name`: <tt><a href="fi_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fi_pud-pos-PROPN.html">PROPN</a></tt> (366; 94% instances), <tt><a href="fi_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fi_pud-pos-ADJ.html">ADJ</a></tt> (8; 2% instances), <tt><a href="fi_pud-pos-X.html">X</a></tt>-<tt><a href="fi_pud-pos-X.html">X</a></tt> (7; 2% instances), <tt><a href="fi_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fi_pud-pos-PROPN.html">PROPN</a></tt> (3; 1% instances), <tt><a href="fi_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="fi_pud-pos-PROPN.html">PROPN</a></tt> (3; 1% instances), <tt><a href="fi_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fi_pud-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="fi_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fi_pud-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -74,12 +74,12 @@ The following 8 pairs of parts of speech are connected with `flat:name`: <tt><a 
 8	musiikeissa	musiikki	NOUN	_	Case=Ine|Number=Plur	2	obl	2:obl	SpaceAfter=No
 9	,	,	PUNCT	_	_	17	punct	17:punct	_
 10	kuten	kuten	ADV	_	_	17	advmod	17:advmod	_
-11	Metti	Metti	PROPN	_	Case=Nom|Number=Sing	17	compound:nn	17:compound:nn	SpaceAfter=No
+11	Metti	Metti	X	_	Foreign=Yes	17	compound	17:compound	OrigLang=it|SpaceAfter=No
 12	,	,	PUNCT	_	_	11	punct	11:punct	_
-13	una	una	X	_	Foreign=Yes	11	flat:name	11:flat:name	_
-14	sera	sera	X	_	Foreign=Yes	11	flat:name	11:flat:name	_
-15	a	a	X	_	Foreign=Yes	11	flat:name	11:flat:name	_
-16	cena	cena	X	_	Foreign=Yes	11	flat:name	11:flat:name	_
+13	una	una	X	_	Foreign=Yes	11	flat:name	11:flat:name	OrigLang=it
+14	sera	sera	X	_	Foreign=Yes	11	flat:name	11:flat:name	OrigLang=it
+15	a	a	X	_	Foreign=Yes	11	flat:name	11:flat:name	OrigLang=it
+16	cena	cena	X	_	Foreign=Yes	11	flat:name	11:flat:name	OrigLang=it
 17	-elokuvassa	elo#kuva	NOUN	_	Case=Ine|Number=Sing	8	appos	8:appos	SpaceAfter=No
 18	.	.	PUNCT	_	_	2	punct	2:punct	_
 19	Jotkut	joku	PRON	_	Case=Nom|Number=Plur|PronType=Ind	22	obj	22:obj	_

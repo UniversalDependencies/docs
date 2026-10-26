@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-311 nodes (2%) are attached to their parents as `nummod`.
+312 nodes (2%) are attached to their parents as `nummod`.
 
 187 instances of `nummod` (60%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.16720257234727.
+Average distance between parent and child is 1.16666666666667.
 
-The following 4 pairs of parts of speech are connected with `nummod`: <tt><a href="fi_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fi_pud-pos-NUM.html">NUM</a></tt> (291; 94% instances), <tt><a href="fi_pud-pos-SYM.html">SYM</a></tt>-<tt><a href="fi_pud-pos-NUM.html">NUM</a></tt> (14; 5% instances), <tt><a href="fi_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fi_pud-pos-NUM.html">NUM</a></tt> (5; 2% instances), <tt><a href="fi_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="fi_pud-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 5 pairs of parts of speech are connected with `nummod`: <tt><a href="fi_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fi_pud-pos-NUM.html">NUM</a></tt> (291; 93% instances), <tt><a href="fi_pud-pos-SYM.html">SYM</a></tt>-<tt><a href="fi_pud-pos-NUM.html">NUM</a></tt> (14; 4% instances), <tt><a href="fi_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fi_pud-pos-NUM.html">NUM</a></tt> (5; 2% instances), <tt><a href="fi_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="fi_pud-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="fi_pud-pos-X.html">X</a></tt>-<tt><a href="fi_pud-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

@@ -37,7 +37,7 @@ Mapping UPOS to XPOS Xavante
  SYM   | sym      |
  X     | x        |
 
-## Morphology 
+## Morphology
 
 ### Tags
 
@@ -57,21 +57,21 @@ Xavante has a complicated system of indexation, using many different sets of mar
 
 
 
-* Xavante has postpositions 
+* Xavante has postpositions
 
 
 * Nominal Reduplication: it marks pluralilty in nouns, as in *pi-pi* ‘feetʼ. It can be monosyllabic (involving the first or the second syllable of the stem) or dissyllabic. Reduplication is associated with the feature-value `Redup`.
 
-* Augmentative and diminutive: the diminutive morpheme is -*tin* `Dim` and the augmentative -*atʃo* `Augm`. These morphemes refer to the size of something or the expansion of an event (if it is big or not). 
+* Augmentative and diminutive: the diminutive morpheme is -*tin* `Dim` and the augmentative -*atʃo* `Augm`. These morphemes refer to the size of something or the expansion of an event (if it is big or not).
 
 VERBAL FEATURE
 
 
-* Some verbs occur with the morpheme -*ka*, which is a transitivizer. This [feature](https://universaldependencies.org/u/feat/index.html) (`Trans`) takes the value YES if the when the morpheme is present.  Verbs that may or not combine with this morpheme take no overt object or require two obligatory arguments. 
+* Some verbs occur with the morpheme -*ka*, which is a transitivizer. This [feature](https://universaldependencies.org/u/feat/index.html) (`Trans`) takes the value YES if the when the morpheme is present.  Verbs that may or not combine with this morpheme take no overt object or require two obligatory arguments.
 
 * Verbal Reduplication: it assigns aspectual function in verbs, as in *ãbi-bi* ‘to pull successively.ʼ As in the nouns, it can be monosyllabic (involving the first or the second syllable of the stem) or dissyllabic. Reduplication is associated with the feature-value `Redup`.
 
-* Nominalization: there are two productive nominalizer affixes in this language: -ap `Nmzr=Circ`and i- `Nmzr=Obj`. 
+* Nominalization: there are two productive nominalizer affixes in this language: -ap `Nmzr=Circ`and i- `Nmzr=Obj`.
 
 
 ### Wh-words
@@ -97,14 +97,6 @@ where (is)      | _e mahãta_ |
 
 ## Treebanks
 
-There are [N](../treebanks/xav-comparison.html) Xavante UD treebanks:
+There is 1 Xavante UD treebank:
 
-  * [Xavante-A](../treebanks/xav_a/index.html)
-  * [Xavante-B](../treebanks/xav_b/index.html)
-
----
-**Instruction**: Treebank-specific pages are generated automatically from the README file in the treebank repository and
-from the data in the latest release. Link to the respective `*-index.html` page in the `treebanks` folder, using the language code
-and the treebank code in the file name.
-
----
+  * [Xavante-XDT](../treebanks/xav_xdt/index.html)

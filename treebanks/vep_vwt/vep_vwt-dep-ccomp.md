@@ -24,7 +24,7 @@ The following 4 pairs of parts of speech are connected with `ccomp`: <tt><a href
 # visual-style 2 7 ccomp	color:blue
 1	Minä	minä	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
 2	meletin	meletada	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-3	pit'kha	pit'kha	ADV	_	_	2	advmod	_	_
+3	pitʼkha	pitʼkha	ADV	_	_	2	advmod	_	_
 4	,	,	PUNCT	_	_	7	punct	_	_
 5	pidab-ik	pidada	AUX	_	Clitic=Ik|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	aux	_	_
 6	minei	minä	PRON	_	Case=All|Number=Sing|Person=1|PronType=Prs	7	obl	_	_
@@ -50,7 +50,7 @@ The following 4 pairs of parts of speech are connected with `ccomp`: <tt><a href
 7	jüged	jüged	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	1	ccomp	_	_
 8	opetas	opetas	VERB	_	VerbForm=Inf	7	csubj	_	_
 9	,	,	PUNCT	_	_	10	punct	_	_
-10	el'geta	el'geta	VERB	_	VerbForm=Inf	8	conj	_	_
+10	elʼgeta	elʼgeta	VERB	_	VerbForm=Inf	8	conj	_	_
 11	da	da	CCONJ	_	_	12	cc	_	_
 12	panda	panda	VERB	_	VerbForm=Inf	8	conj	_	_
 13	muštho	mušt	NOUN	_	Case=Ill|Number=Sing	12	obl	_	_

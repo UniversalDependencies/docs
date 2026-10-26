@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="ka_glc-dep-obl.html">obl</a></tt>.
 
-290 nodes (0%) are attached to their parents as `obl:tmod`.
+288 nodes (0%) are attached to their parents as `obl:tmod`.
 
-214 instances of `obl:tmod` (74%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.31379310344828.
+213 instances of `obl:tmod` (74%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.5625.
 
-The following 8 pairs of parts of speech are connected with `obl:tmod`: <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt> (243; 84% instances), <tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt> (19; 7% instances), <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt> (12; 4% instances), <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt> (6; 2% instances), <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_glc-pos-NUM.html">NUM</a></tt> (3; 1% instances), <tt><a href="ka_glc-pos-NUM.html">NUM</a></tt>-<tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="ka_glc-pos-ADV.html">ADV</a></tt>-<tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_glc-pos-VERB.html">VERB</a></tt> (2; 1% instances).
+The following 8 pairs of parts of speech are connected with `obl:tmod`: <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt> (261; 91% instances), <tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt> (6; 2% instances), <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt> (6; 2% instances), <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt> (6; 2% instances), <tt><a href="ka_glc-pos-NUM.html">NUM</a></tt>-<tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="ka_glc-pos-ADV.html">ADV</a></tt>-<tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_glc-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_glc-pos-VERB.html">VERB</a></tt> (2; 1% instances).
 
 
 ~~~ conllu
@@ -27,7 +27,7 @@ The following 8 pairs of parts of speech are connected with `obl:tmod`: <tt><a h
 3	მეცნიერულ	მეცნიერული	ADJ	Adj	Case=Dat|Number=Sing	4	amod	_	Translit=mecʻnierul
 4	მიმოსვლა	მიმოსვლა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	6	obl	_	Translit=mimosvla
 5	ში	ში	ADP	Post	AdpType=Post|Case=Dat	4	case	_	Translit=ši
-6	შემოიღო	იღებს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past|Voice=Act	0	root	_	Translit=šemoiġo
+6	შემოიღო	იღებს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=šemoiġo
 7	ტერმინი	ტერმინი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	6	obj	_	Translit=termini
 8	„	„	PUNCT	F	PunctType=Quot	9	punct	_	SpaceAfter=No|Translit=„
 9	კიბერნეტიკა	კიბერნეტიკა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	7	appos	_	SpaceAfter=No|Translit=kibernetika

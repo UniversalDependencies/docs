@@ -30,7 +30,7 @@ The 10 most frequent ambiguous types:  <em>+</em> (<tt><a href="pl_pdb-pos-SYM.h
 
 ## Morphology
 
-The form / lemma ratio of `SYM` is 1.166667 (the average of all parts of speech is 1.966055).
+The form / lemma ratio of `SYM` is 1.166667 (the average of all parts of speech is 1.965463).
 
 The 1st highest number of forms (2) was observed with the lemma “:)”: <em>:), :)))))))))</em>.
 
@@ -38,7 +38,13 @@ The 2nd highest number of forms (1) was observed with the lemma “*”: <em>*</
 
 The 3rd highest number of forms (1) was observed with the lemma “+”: <em>+</em>.
 
-`SYM` does not occur with any features.
+`SYM` occurs with 1 features: <tt><a href="pl_pdb-feat-ExtPos.html">ExtPos</a></tt> (2; 10% instances)
+
+`SYM` occurs with 1 feature-value pairs: `ExtPos=SYM`
+
+`SYM` occurs with 2 feature combinations.
+The most frequent feature combination is `_` (19 tokens).
+Examples: <em>+, -, :), *, :-), :))))))))), ;-)))</em>
 
 
 ## Relations

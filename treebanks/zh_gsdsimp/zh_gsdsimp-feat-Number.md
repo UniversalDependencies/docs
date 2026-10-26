@@ -23,7 +23,7 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 `PRON` tokens may have the following values of `Number`:
 
 * `Plur` (214; 100% of non-empty `Number`): 他们、 它们、 我们、 她们
-* `EMPTY` (1562): 他、 其、 她、 此、 它、 自己、 这、 我、 之、 你
+* `EMPTY` (1560): 他、 其、 她、 此、 它、 自己、 这、 我、 之、 你
 
 ### `PART`
 
@@ -34,7 +34,7 @@ The most frequent other feature values with which `PART` and `Number` co-occurre
 `PART` tokens may have the following values of `Number`:
 
 * `Plur` (33; 100% of non-empty `Number`): 们
-* `EMPTY` (9849): 的、 人、 之、 大、 者、 市、 区、 会、 军、 省
+* `EMPTY` (9848): 的、 人、 之、 大、 者、 市、 区、 会、 军、 省
 
 ### `NOUN`
 
@@ -43,7 +43,7 @@ The most frequent other feature values with which `PART` and `Number` co-occurre
 `NOUN` tokens may have the following values of `Number`:
 
 * `Plur` (20; 100% of non-empty `Number`): 人们
-* `EMPTY` (34026): 年、 个、 月、 日、 人、 等、 种、 次、 人口、 名
+* `EMPTY` (34024): 年、 个、 月、 日、 人、 等、 种、 次、 人口、 名
 
 ## Relations with Agreement in `Number`
 

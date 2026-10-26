@@ -50,11 +50,12 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 ## Relations with Agreement in `Mood`
 
 The 10 most frequent relations where parent and child node agree in `Mood`:
-<tt>VERB --[<tt><a href="pl_pud-dep-conj.html">conj</a></tt>]--> VERB</tt> (145; 99%),
+<tt>VERB --[<tt><a href="pl_pud-dep-conj.html">conj</a></tt>]--> VERB</tt> (134; 99%),
 <tt>VERB --[<tt><a href="pl_pud-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (35; 88%),
 <tt>VERB --[<tt><a href="pl_pud-dep-parataxis-obj.html">parataxis:obj</a></tt>]--> VERB</tt> (32; 97%),
 <tt>VERB --[<tt><a href="pl_pud-dep-ccomp-obj.html">ccomp:obj</a></tt>]--> VERB</tt> (29; 97%),
 <tt>VERB --[<tt><a href="pl_pud-dep-aux.html">aux</a></tt>]--> AUX</tt> (13; 62%),
+<tt>VERB --[<tt><a href="pl_pud-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (10; 100%),
 <tt>VERB --[<tt><a href="pl_pud-dep-parataxis-insert.html">parataxis:insert</a></tt>]--> VERB</tt> (5; 100%),
 <tt>VERB --[<tt><a href="pl_pud-dep-advcl-relcl.html">advcl:relcl</a></tt>]--> VERB</tt> (3; 100%),
 <tt>VERB --[<tt><a href="pl_pud-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (3; 100%).

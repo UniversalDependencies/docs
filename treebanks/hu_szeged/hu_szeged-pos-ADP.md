@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>szemben</em> (<tt><a href="hu_szeged-
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.000000 (the average of all parts of speech is 1.503840).
+The form / lemma ratio of `ADP` is 1.000000 (the average of all parts of speech is 1.504111).
 
 The 1st highest number of forms (1) was observed with the lemma “alatt”: <em>alatt</em>.
 
@@ -66,7 +66,7 @@ The 3rd highest number of forms (1) was observed with the lemma “alól”: <em
 
 `ADP` nodes are attached to their parents using 2 different relations: <tt><a href="hu_szeged-dep-case.html">case</a></tt> (807; 100% instances), <tt><a href="hu_szeged-dep-compound-preverb.html">compound:preverb</a></tt> (1; 0% instances)
 
-Parents of `ADP` nodes belong to 8 different parts of speech: <tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt> (649; 80% instances), <tt><a href="hu_szeged-pos-PROPN.html">PROPN</a></tt> (73; 9% instances), <tt><a href="hu_szeged-pos-PRON.html">PRON</a></tt> (49; 6% instances), <tt><a href="hu_szeged-pos-NUM.html">NUM</a></tt> (15; 2% instances), <tt><a href="hu_szeged-pos-DET.html">DET</a></tt> (11; 1% instances), <tt><a href="hu_szeged-pos-ADJ.html">ADJ</a></tt> (8; 1% instances), <tt><a href="hu_szeged-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> (1; 0% instances)
+Parents of `ADP` nodes belong to 8 different parts of speech: <tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt> (649; 80% instances), <tt><a href="hu_szeged-pos-PROPN.html">PROPN</a></tt> (73; 9% instances), <tt><a href="hu_szeged-pos-PRON.html">PRON</a></tt> (55; 7% instances), <tt><a href="hu_szeged-pos-NUM.html">NUM</a></tt> (13; 2% instances), <tt><a href="hu_szeged-pos-ADJ.html">ADJ</a></tt> (8; 1% instances), <tt><a href="hu_szeged-pos-DET.html">DET</a></tt> (7; 1% instances), <tt><a href="hu_szeged-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> (1; 0% instances)
 
 808 (100%) `ADP` nodes are leaves.
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-17 nodes (0%) are attached to their parents as `reparandum`.
+16 nodes (0%) are attached to their parents as `reparandum`.
 
-16 instances of `reparandum` (94%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.
+15 instances of `reparandum` (94%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.0625.
 
-The following 7 pairs of parts of speech are connected with `reparandum`: <tt><a href="ja_bccwjluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_bccwjluw-pos-X.html">X</a></tt> (4; 24% instances), <tt><a href="ja_bccwjluw-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_bccwjluw-pos-X.html">X</a></tt> (4; 24% instances), <tt><a href="ja_bccwjluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_bccwjluw-pos-X.html">X</a></tt> (3; 18% instances), <tt><a href="ja_bccwjluw-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_bccwjluw-pos-X.html">X</a></tt> (2; 12% instances), <tt><a href="ja_bccwjluw-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ja_bccwjluw-pos-X.html">X</a></tt> (2; 12% instances), <tt><a href="ja_bccwjluw-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_bccwjluw-pos-X.html">X</a></tt> (1; 6% instances), <tt><a href="ja_bccwjluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_bccwjluw-pos-SYM.html">SYM</a></tt> (1; 6% instances).
+The following 7 pairs of parts of speech are connected with `reparandum`: <tt><a href="ja_bccwjluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_bccwjluw-pos-X.html">X</a></tt> (4; 25% instances), <tt><a href="ja_bccwjluw-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_bccwjluw-pos-X.html">X</a></tt> (4; 25% instances), <tt><a href="ja_bccwjluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_bccwjluw-pos-X.html">X</a></tt> (3; 19% instances), <tt><a href="ja_bccwjluw-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ja_bccwjluw-pos-X.html">X</a></tt> (2; 13% instances), <tt><a href="ja_bccwjluw-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_bccwjluw-pos-X.html">X</a></tt> (1; 6% instances), <tt><a href="ja_bccwjluw-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_bccwjluw-pos-X.html">X</a></tt> (1; 6% instances), <tt><a href="ja_bccwjluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_bccwjluw-pos-ADP.html">ADP</a></tt> (1; 6% instances).
 
 
 ~~~ conllu
@@ -31,7 +31,7 @@ The following 7 pairs of parts of speech are connected with `reparandum`: <tt><a
 7	_	_	AUX	_	Polarity=Neg	5	aux	_	BBIL=I|BPT=3|SpaceAfter=No|UI=28
 8	_	_	AUX	_	_	5	aux	_	BBIL=I|BPT=3|SpaceAfter=No|UI=64
 9	_	_	PUNCT	_	_	5	punct	_	BBIL=I|BPT=2|SpaceAfter=No|UI=1
-10	_	_	X	_	_	12	reparandum	_	BBIL=B|BPT=0|SpaceAfter=No|UI=105796
+10	_	_	X	_	_	12	reparandum	_	BBIL=B|BPT=0|SpaceAfter=No|UI=105795
 11	_	_	PUNCT	_	_	10	punct	_	BBIL=I|BPT=2|SpaceAfter=No|UI=1
 12	_	_	NOUN	_	_	13	obl	_	BBIL=B|BPT=0|SpaceAfter=No|UI=5212
 13	_	_	VERB	_	_	0	root	_	BBIL=B|BPT=4|SpaceAfter=No|UI=61103
@@ -39,7 +39,7 @@ The following 7 pairs of parts of speech are connected with `reparandum`: <tt><a
 15	_	_	SCONJ	_	_	13	mark	_	BBIL=I|BPT=3|SpaceAfter=No|UI=8
 16	_	_	SYM	_	_	13	dep	_	BBIL=I|BPT=2|SpaceAfter=No|UI=77
 17	_	_	SYM	_	_	13	dep	_	BBIL=I|BPT=2|SpaceAfter=No|UI=77
-18	_	_	PUNCT	_	_	13	punct	_	BBIL=I|BPT=2|SpaceAfter=No|UI=42
+18	_	_	PUNCT	_	_	13	punct	_	BBIL=I|BPT=2|UI=42
 
 ~~~
 
@@ -52,7 +52,7 @@ The following 7 pairs of parts of speech are connected with `reparandum`: <tt><a
 # visual-style 4 3 reparandum	color:blue
 1	_	_	SYM	_	_	6	dep	_	BBIL=B|BPT=4|SpaceAfter=No|UI=25
 2	_	_	SYM	_	_	1	compound	_	BBIL=I|BPT=2|SpaceAfter=No|UI=25
-3	_	_	X	_	_	4	reparandum	_	BBIL=B|BPT=0|SpaceAfter=No|UI=105821
+3	_	_	X	_	_	4	reparandum	_	BBIL=B|BPT=0|SpaceAfter=No|UI=105820
 4	_	_	PRON	_	_	6	nsubj	_	BBIL=B|BPT=0|SpaceAfter=No|UI=55
 5	_	_	ADP	_	_	4	case	_	BBIL=I|BPT=1|SpaceAfter=No|UI=4
 6	_	_	PRON	_	_	0	root	_	BBIL=B|BPT=4|SpaceAfter=No|UI=330
@@ -82,7 +82,7 @@ The following 7 pairs of parts of speech are connected with `reparandum`: <tt><a
 8	_	_	PUNCT	_	_	5	punct	_	BBIL=I|BPT=2|SpaceAfter=No|UI=1
 9	_	_	PUNCT	_	_	5	punct	_	BBIL=I|BPT=2|SpaceAfter=No|UI=1
 10	_	_	PUNCT	_	_	5	punct	_	BBIL=I|BPT=2|SpaceAfter=No|UI=1
-11	_	_	SYM	_	_	5	dep	_	BBIL=I|BPT=2|SpaceAfter=No|UI=105325
+11	_	_	SYM	_	_	5	dep	_	BBIL=I|BPT=2|SpaceAfter=No|UI=105324
 
 ~~~
 

@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  <em>veni</em> (<tt><a href="ro_nonstandar
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 1.041667 (the average of all parts of speech is 2.491875).
+The form / lemma ratio of `PUNCT` is 1.041667 (the average of all parts of speech is 2.492163).
 
 The 1st highest number of forms (4) was observed with the lemma “.”: <em>,, ., :, ;</em>.
 
@@ -37,21 +37,11 @@ The 3rd highest number of forms (3) was observed with the lemma “””: <em>�
 
 ## Relations
 
-`PUNCT` nodes are attached to their parents using 2 different relations: <tt><a href="ro_nonstandard-dep-punct.html">punct</a></tt> (83975; 100% instances), <tt><a href="ro_nonstandard-dep-root.html">root</a></tt> (1; 0% instances)
+`PUNCT` nodes are attached to their parents using 1 different relations: <tt><a href="ro_nonstandard-dep-punct.html">punct</a></tt> (83976; 100% instances)
 
-Parents of `PUNCT` nodes belong to 17 different parts of speech: <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt> (54246; 65% instances), <tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt> (18538; 22% instances), <tt><a href="ro_nonstandard-pos-PROPN.html">PROPN</a></tt> (2759; 3% instances), <tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt> (2386; 3% instances), <tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (2250; 3% instances), <tt><a href="ro_nonstandard-pos-ADJ.html">ADJ</a></tt> (2207; 3% instances), <tt><a href="ro_nonstandard-pos-NUM.html">NUM</a></tt> (673; 1% instances), <tt><a href="ro_nonstandard-pos-INTJ.html">INTJ</a></tt> (552; 1% instances), <tt><a href="ro_nonstandard-pos-AUX.html">AUX</a></tt> (224; 0% instances), <tt><a href="ro_nonstandard-pos-DET.html">DET</a></tt> (70; 0% instances), <tt><a href="ro_nonstandard-pos-ADP.html">ADP</a></tt> (33; 0% instances), <tt><a href="ro_nonstandard-pos-CCONJ.html">CCONJ</a></tt> (16; 0% instances), <tt><a href="ro_nonstandard-pos-X.html">X</a></tt> (10; 0% instances), <tt><a href="ro_nonstandard-pos-SCONJ.html">SCONJ</a></tt> (9; 0% instances), <tt><a href="ro_nonstandard-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="ro_nonstandard-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances),  (1; 0% instances)
+Parents of `PUNCT` nodes belong to 15 different parts of speech: <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt> (54040; 64% instances), <tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt> (18581; 22% instances), <tt><a href="ro_nonstandard-pos-PROPN.html">PROPN</a></tt> (2743; 3% instances), <tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt> (2392; 3% instances), <tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (2308; 3% instances), <tt><a href="ro_nonstandard-pos-ADJ.html">ADJ</a></tt> (2183; 3% instances), <tt><a href="ro_nonstandard-pos-NUM.html">NUM</a></tt> (711; 1% instances), <tt><a href="ro_nonstandard-pos-INTJ.html">INTJ</a></tt> (551; 1% instances), <tt><a href="ro_nonstandard-pos-AUX.html">AUX</a></tt> (273; 0% instances), <tt><a href="ro_nonstandard-pos-DET.html">DET</a></tt> (64; 0% instances), <tt><a href="ro_nonstandard-pos-SCONJ.html">SCONJ</a></tt> (51; 0% instances), <tt><a href="ro_nonstandard-pos-ADP.html">ADP</a></tt> (33; 0% instances), <tt><a href="ro_nonstandard-pos-CCONJ.html">CCONJ</a></tt> (33; 0% instances), <tt><a href="ro_nonstandard-pos-X.html">X</a></tt> (10; 0% instances), <tt><a href="ro_nonstandard-pos-PART.html">PART</a></tt> (3; 0% instances)
 
-83975 (100%) `PUNCT` nodes are leaves.
+83976 (100%) `PUNCT` nodes are leaves.
 
-0 (0%) `PUNCT` nodes have one child.
-
-0 (0%) `PUNCT` nodes have two children.
-
-1 (0%) `PUNCT` nodes have three or more children.
-
-The highest child degree of a `PUNCT` node is 5.
-
-Children of `PUNCT` nodes are attached using 5 different relations: <tt><a href="ro_nonstandard-dep-cc.html">cc</a></tt> (1; 20% instances), <tt><a href="ro_nonstandard-dep-conj.html">conj</a></tt> (1; 20% instances), <tt><a href="ro_nonstandard-dep-discourse.html">discourse</a></tt> (1; 20% instances), <tt><a href="ro_nonstandard-dep-nsubj.html">nsubj</a></tt> (1; 20% instances), <tt><a href="ro_nonstandard-dep-punct.html">punct</a></tt> (1; 20% instances)
-
-Children of `PUNCT` nodes belong to 5 different parts of speech: <tt><a href="ro_nonstandard-pos-CCONJ.html">CCONJ</a></tt> (1; 20% instances), <tt><a href="ro_nonstandard-pos-INTJ.html">INTJ</a></tt> (1; 20% instances), <tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt> (1; 20% instances), <tt><a href="ro_nonstandard-pos-PUNCT.html">PUNCT</a></tt> (1; 20% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt> (1; 20% instances)
+The highest child degree of a `PUNCT` node is 0.
 

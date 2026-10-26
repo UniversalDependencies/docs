@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-2670 nodes (0%) are attached to their parents as `ccomp`.
+2677 nodes (0%) are attached to their parents as `ccomp`.
 
-2670 instances of `ccomp` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.52808988764045.
+2677 instances of `ccomp` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.52969742248786.
 
-The following 5 pairs of parts of speech are connected with `ccomp`: <tt><a href="ja_bccwjluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_bccwjluw-pos-VERB.html">VERB</a></tt> (1953; 73% instances), <tt><a href="ja_bccwjluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_bccwjluw-pos-ADJ.html">ADJ</a></tt> (521; 20% instances), <tt><a href="ja_bccwjluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_bccwjluw-pos-NOUN.html">NOUN</a></tt> (183; 7% instances), <tt><a href="ja_bccwjluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_bccwjluw-pos-VERB.html">VERB</a></tt> (9; 0% instances), <tt><a href="ja_bccwjluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_bccwjluw-pos-ADJ.html">ADJ</a></tt> (4; 0% instances).
+The following 5 pairs of parts of speech are connected with `ccomp`: <tt><a href="ja_bccwjluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_bccwjluw-pos-VERB.html">VERB</a></tt> (1953; 73% instances), <tt><a href="ja_bccwjluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_bccwjluw-pos-ADJ.html">ADJ</a></tt> (521; 19% instances), <tt><a href="ja_bccwjluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_bccwjluw-pos-NOUN.html">NOUN</a></tt> (190; 7% instances), <tt><a href="ja_bccwjluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_bccwjluw-pos-VERB.html">VERB</a></tt> (9; 0% instances), <tt><a href="ja_bccwjluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_bccwjluw-pos-ADJ.html">ADJ</a></tt> (4; 0% instances).
 
 
 ~~~ conllu
@@ -100,7 +100,7 @@ The following 5 pairs of parts of speech are connected with `ccomp`: <tt><a href
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
 # visual-style 11 8 ccomp	color:blue
-1	_	_	PUNCT	_	_	11	punct	_	BBIL=B|BPT=2|SpaceAfter=No|UI=12
+1	_	_	PUNCT	_	_	2	punct	_	BBIL=B|BPT=0|SpaceAfter=No|UI=12
 2	_	_	PRON	_	_	11	obl	_	BBIL=B|BPT=0|SpaceAfter=No|UI=1869
 3	_	_	PUNCT	_	_	2	punct	_	BBIL=I|BPT=2|SpaceAfter=No|UI=1
 4	_	_	PROPN	_	_	8	nsubj	_	BBIL=B|BPT=0|SpaceAfter=No|UI=438
@@ -113,7 +113,7 @@ The following 5 pairs of parts of speech are connected with `ccomp`: <tt><a href
 11	_	_	VERB	_	_	0	root	_	BBIL=B|BPT=4|SpaceAfter=No|UI=147
 12	_	_	PART	_	_	11	mark	_	BBIL=I|BPT=1|SpaceAfter=No|UI=19
 13	_	_	PUNCT	_	_	11	punct	_	BBIL=I|BPT=2|SpaceAfter=No|UI=35
-14	_	_	PUNCT	_	_	11	punct	_	BBIL=I|BPT=2|SpaceAfter=No|UI=13
+14	_	_	PUNCT	_	_	11	punct	_	BBIL=I|BPT=2|UI=13
 
 ~~~
 

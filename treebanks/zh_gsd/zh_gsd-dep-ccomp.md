@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-2161 nodes (2%) are attached to their parents as `ccomp`.
+2156 nodes (2%) are attached to their parents as `ccomp`.
 
-1845 instances of `ccomp` (85%) are left-to-right (parent precedes child).
-Average distance between parent and child is 7.91948172142527.
+1840 instances of `ccomp` (85%) are left-to-right (parent precedes child).
+Average distance between parent and child is 7.91604823747681.
 
-The following 26 pairs of parts of speech are connected with `ccomp`: <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> (1709; 79% instances), <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt> (185; 9% instances), <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_gsd-pos-ADJ.html">ADJ</a></tt> (133; 6% instances), <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_gsd-pos-PART.html">PART</a></tt> (32; 1% instances), <tt><a href="zh_gsd-pos-ADP.html">ADP</a></tt>-<tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> (29; 1% instances), <tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> (16; 1% instances), <tt><a href="zh_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> (11; 1% instances), <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_gsd-pos-PROPN.html">PROPN</a></tt> (9; 0% instances), <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_gsd-pos-NUM.html">NUM</a></tt> (5; 0% instances), <tt><a href="zh_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="zh_gsd-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="zh_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> (4; 0% instances), <tt><a href="zh_gsd-pos-ADP.html">ADP</a></tt>-<tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="zh_gsd-pos-PART.html">PART</a></tt>-<tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_gsd-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_gsd-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_gsd-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="zh_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="zh_gsd-pos-ADP.html">ADP</a></tt>-<tt><a href="zh_gsd-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="zh_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="zh_gsd-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="zh_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_gsd-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="zh_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="zh_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="zh_gsd-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="zh_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_gsd-pos-X.html">X</a></tt> (1; 0% instances).
+The following 26 pairs of parts of speech are connected with `ccomp`: <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> (1704; 79% instances), <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt> (185; 9% instances), <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_gsd-pos-ADJ.html">ADJ</a></tt> (133; 6% instances), <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_gsd-pos-PART.html">PART</a></tt> (32; 1% instances), <tt><a href="zh_gsd-pos-ADP.html">ADP</a></tt>-<tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> (29; 1% instances), <tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> (16; 1% instances), <tt><a href="zh_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> (11; 1% instances), <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_gsd-pos-PROPN.html">PROPN</a></tt> (9; 0% instances), <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_gsd-pos-NUM.html">NUM</a></tt> (5; 0% instances), <tt><a href="zh_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="zh_gsd-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="zh_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> (4; 0% instances), <tt><a href="zh_gsd-pos-ADP.html">ADP</a></tt>-<tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="zh_gsd-pos-PART.html">PART</a></tt>-<tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_gsd-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_gsd-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_gsd-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="zh_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="zh_gsd-pos-ADP.html">ADP</a></tt>-<tt><a href="zh_gsd-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="zh_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="zh_gsd-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="zh_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_gsd-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="zh_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="zh_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="zh_gsd-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="zh_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_gsd-pos-X.html">X</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -60,7 +60,7 @@ The following 26 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 # visual-style 3 8 ccomp	color:blue
 1	朝鮮	朝鮮	PROPN	NNP	_	12	nsubj	_	SpaceAfter=No|Translit=cháoxiān|LTranslit=cháoxiān
 2	雖然	雖然	ADP	IN	_	3	case	_	SpaceAfter=No|Translit=suīrán|LTranslit=suīrán
-3	認為	為	VERB	VV	_	12	xcomp	_	SpaceAfter=No|Translit=rènwèi|LTranslit=wèi
+3	認為	認為	VERB	VV	_	12	xcomp	_	SpaceAfter=No|Translit=rènwèi|LTranslit=rènwèi
 4	渤海	渤海	PROPN	NNP	_	5	compound	_	SpaceAfter=No|Translit=渤hǎi|LTranslit=渤hǎi
 5	國	國	PART	SFN	_	8	nsubj	_	SpaceAfter=No|Translit=guó|LTranslit=guó
 6	是	是	AUX	VC	_	8	cop	_	SpaceAfter=No|Translit=shì|LTranslit=shì
@@ -74,8 +74,8 @@ The following 26 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 14	南北國	南北國	NOUN	NN	_	15	nmod	_	SpaceAfter=No|Translit=nánběiguó|LTranslit=nánběiguó
 15	時代	時代	NOUN	NN	_	12	obj	_	SpaceAfter=No|Translit=shídài|LTranslit=shídài
 16	」	」	PUNCT	''	_	15	punct	_	SpaceAfter=No|Translit=’|LTranslit=’
-17	這	這	DET	DT	_	18	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-18	個	個	NOUN	NNB	_	19	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+17	這	這	DET	DT	_	19	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+18	個	個	NOUN	NNB	_	17	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 19	詞匯	詞匯	NOUN	NN	_	15	appos	_	SpaceAfter=No|Translit=cíhuì|LTranslit=cíhuì
 20	。	。	PUNCT	.	_	12	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
@@ -90,8 +90,8 @@ The following 26 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 # visual-style 15 21 ccomp	color:blue
 1	當	當	ADP	IN	_	6	case	_	SpaceAfter=No|Translit=dāng|LTranslit=dāng
 2	《	《	PUNCT	(	_	3	punct	_	SpaceAfter=No|Translit=«|LTranslit=«
-3	Game	Game	X	FW	_	6	nsubj	_	Translit=Game|LTranslit=Game
-4	Informer	Informer	X	FW	_	3	flat:foreign	_	SpaceAfter=No|Translit=Informer|LTranslit=Informer
+3	Game	Game	X	FW	Foreign=Yes	6	nsubj	_	Translit=Game|LTranslit=Game
+4	Informer	Informer	X	FW	Foreign=Yes	3	flat:foreign	_	SpaceAfter=No|Translit=Informer|LTranslit=Informer
 5	》	》	PUNCT	)	_	3	punct	_	SpaceAfter=No|Translit=»|LTranslit=»
 6	提到	提到	VERB	VV	_	15	ccomp	_	SpaceAfter=No|Translit=tídào|LTranslit=tídào
 7	遊戲	遊戲	NOUN	NN	_	8	nsubj	_	SpaceAfter=No|Translit=yóuxì|LTranslit=yóuxì

@@ -19,12 +19,12 @@ This treebank has been part of Universal Dependencies since the UD v2.15 release
 The following people have contributed to making this treebank part of UD: Maria Shvedova, Arsenii Lukashevskyi.
 
 Repository: [UD_Ukrainian-ParlaMint](https://github.com/UniversalDependencies/UD_Ukrainian-ParlaMint)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uduk_parlamint215)<br />
-Download all treebanks: [UD 2.15](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uduk_parlamint218)<br />
+Download all treebanks: [UD 2.18](/#download)
 
 License: CC BY-SA 4.0
 
-Genre: government, legal
+Genre: government, legal, spoken
 
 Questions, comments?
 General annotation questions (either Ukrainian-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
@@ -47,11 +47,15 @@ UD_Ukrainian-ParlaMint is a collection of Ukrainian parliamentary transcripts an
 
 
 
-The corpus consists of Ukrainian parliamentary plenary sessions transcripts, with morphological and syntactic annotation checked manually. The corpus contains texts for 2003-2022 from the Ukrainian ParlaMint corpus (Kopp et al., 2023).
+The corpus consists of Ukrainian parliamentary plenary session transcripts, with morphological and syntactic annotation checked manually. It contains transcripts of political meetings from 2003 to 2022 from the Ukrainian ParlaMint corpus (Kopp et al., 2023) and other open sources.
+For the corpus, we selected full transcripts of Verkhovna Rada plenary sessions for several days (2003-2022) and one transcript of the National Security and Defense Council meeting (2014). The transcripts provide a fairly accurate record of real speech, preserving elements of colloquial syntax, grammatical inconsistencies, lexical errors, and Ukrainian-Russian code switching. To have the most authentic material, we did not use texts from before 2003, where partial grammatical corrections were observed, nor texts from after 2023, which show signs of excessive normalization due to speech-to-text recognition programs (e.g., replacing vernacular words like щас with зараз, 'now'). We also removed text containing Ukrainian-Russian code switching and some sentences in Russian. The selected sessions are those related to important events in modern Ukrainian history, characterized by a larger share of spontaneous speech, while also including samples of routine parliamentary sessions during which regular laws were considered.
+
 
 ## Acknowledgments
 
 Syntactic annotation of the corpus is implemented on the basis of UD_Ukrainian-IU with manual correction. For morphological annotation, we used VESUM morphological dictionary (https://github.com/brown-uk/dict_uk/tree/master) and UD_Ukrainian-IU with manual correction.
+
+This work was supported by COST Action CA21167 — Universality, diversity and idiosyncrasy in language technology ([UniDive](https://unidive.lisn.upsaclay.fr/))
 
 ## References
 
@@ -68,29 +72,29 @@ Syntactic annotation of the corpus is implemented on the basis of UD_Ukrainian-I
 
 ## Features
 
-[Abbr](uk_parlamint-feat-Abbr.html) – [Animacy](uk_parlamint-feat-Animacy.html) – [Animacy[gram]](uk_parlamint-feat-Animacy-gram.html) – [Aspect](uk_parlamint-feat-Aspect.html) – [BadStyle](uk_parlamint-feat-BadStyle.html) – [Case](uk_parlamint-feat-Case.html) – [Degree](uk_parlamint-feat-Degree.html) – [Foreign](uk_parlamint-feat-Foreign.html) – [Gender](uk_parlamint-feat-Gender.html) – [InflClass](uk_parlamint-feat-InflClass.html) – [Mood](uk_parlamint-feat-Mood.html) – [NameType](uk_parlamint-feat-NameType.html) – [Number](uk_parlamint-feat-Number.html) – [NumType](uk_parlamint-feat-NumType.html) – [Person](uk_parlamint-feat-Person.html) – [Polarity](uk_parlamint-feat-Polarity.html) – [Poss](uk_parlamint-feat-Poss.html) – [PronType](uk_parlamint-feat-PronType.html) – [Reflex](uk_parlamint-feat-Reflex.html) – [Tense](uk_parlamint-feat-Tense.html) – [Typo](uk_parlamint-feat-Typo.html) – [Uninflect](uk_parlamint-feat-Uninflect.html) – [Variant](uk_parlamint-feat-Variant.html) – [VerbForm](uk_parlamint-feat-VerbForm.html) – [Voice](uk_parlamint-feat-Voice.html)
+[Abbr](uk_parlamint-feat-Abbr.html) – [Animacy](uk_parlamint-feat-Animacy.html) – [Animacy[gram]](uk_parlamint-feat-Animacy-gram.html) – [Aspect](uk_parlamint-feat-Aspect.html) – [BadStyle](uk_parlamint-feat-BadStyle.html) – [Case](uk_parlamint-feat-Case.html) – [Degree](uk_parlamint-feat-Degree.html) – [ExtPos](uk_parlamint-feat-ExtPos.html) – [Foreign](uk_parlamint-feat-Foreign.html) – [Gender](uk_parlamint-feat-Gender.html) – [InflClass](uk_parlamint-feat-InflClass.html) – [Mood](uk_parlamint-feat-Mood.html) – [NameType](uk_parlamint-feat-NameType.html) – [Number](uk_parlamint-feat-Number.html) – [NumType](uk_parlamint-feat-NumType.html) – [Orth](uk_parlamint-feat-Orth.html) – [Person](uk_parlamint-feat-Person.html) – [Polarity](uk_parlamint-feat-Polarity.html) – [Polite](uk_parlamint-feat-Polite.html) – [Poss](uk_parlamint-feat-Poss.html) – [PronType](uk_parlamint-feat-PronType.html) – [Reflex](uk_parlamint-feat-Reflex.html) – [Style](uk_parlamint-feat-Style.html) – [Tense](uk_parlamint-feat-Tense.html) – [Typo](uk_parlamint-feat-Typo.html) – [Uninflect](uk_parlamint-feat-Uninflect.html) – [Variant](uk_parlamint-feat-Variant.html) – [VerbForm](uk_parlamint-feat-VerbForm.html) – [Voice](uk_parlamint-feat-Voice.html)
 
 ## Relations
 
-[acl](uk_parlamint-dep-acl.html) – [acl:relcl](uk_parlamint-dep-acl-relcl.html) – [advcl](uk_parlamint-dep-advcl.html) – [advmod](uk_parlamint-dep-advmod.html) – [advmod:det](uk_parlamint-dep-advmod-det.html) – [advmod:emph](uk_parlamint-dep-advmod-emph.html) – [advmod:neg](uk_parlamint-dep-advmod-neg.html) – [amod](uk_parlamint-dep-amod.html) – [appos](uk_parlamint-dep-appos.html) – [aux](uk_parlamint-dep-aux.html) – [aux:pass](uk_parlamint-dep-aux-pass.html) – [case](uk_parlamint-dep-case.html) – [cc](uk_parlamint-dep-cc.html) – [ccomp](uk_parlamint-dep-ccomp.html) – [compound](uk_parlamint-dep-compound.html) – [conj](uk_parlamint-dep-conj.html) – [cop](uk_parlamint-dep-cop.html) – [csubj](uk_parlamint-dep-csubj.html) – [det](uk_parlamint-dep-det.html) – [det:numgov](uk_parlamint-dep-det-numgov.html) – [det:nummod](uk_parlamint-dep-det-nummod.html) – [discourse](uk_parlamint-dep-discourse.html) – [dislocated](uk_parlamint-dep-dislocated.html) – [expl](uk_parlamint-dep-expl.html) – [fixed](uk_parlamint-dep-fixed.html) – [flat](uk_parlamint-dep-flat.html) – [flat:foreign](uk_parlamint-dep-flat-foreign.html) – [flat:name](uk_parlamint-dep-flat-name.html) – [flat:range](uk_parlamint-dep-flat-range.html) – [flat:repeat](uk_parlamint-dep-flat-repeat.html) – [flat:title](uk_parlamint-dep-flat-title.html) – [iobj](uk_parlamint-dep-iobj.html) – [mark](uk_parlamint-dep-mark.html) – [nmod](uk_parlamint-dep-nmod.html) – [nsubj](uk_parlamint-dep-nsubj.html) – [nsubj:outer](uk_parlamint-dep-nsubj-outer.html) – [nsubj:pass](uk_parlamint-dep-nsubj-pass.html) – [nummod](uk_parlamint-dep-nummod.html) – [nummod:gov](uk_parlamint-dep-nummod-gov.html) – [obj](uk_parlamint-dep-obj.html) – [obl](uk_parlamint-dep-obl.html) – [obl:agent](uk_parlamint-dep-obl-agent.html) – [obl:arg](uk_parlamint-dep-obl-arg.html) – [orphan](uk_parlamint-dep-orphan.html) – [parataxis](uk_parlamint-dep-parataxis.html) – [parataxis:rel](uk_parlamint-dep-parataxis-rel.html) – [punct](uk_parlamint-dep-punct.html) – [reparandum](uk_parlamint-dep-reparandum.html) – [root](uk_parlamint-dep-root.html) – [vocative](uk_parlamint-dep-vocative.html) – [xcomp](uk_parlamint-dep-xcomp.html)
+[acl](uk_parlamint-dep-acl.html) – [acl:relcl](uk_parlamint-dep-acl-relcl.html) – [advcl](uk_parlamint-dep-advcl.html) – [advmod](uk_parlamint-dep-advmod.html) – [advmod:det](uk_parlamint-dep-advmod-det.html) – [advmod:emph](uk_parlamint-dep-advmod-emph.html) – [advmod:neg](uk_parlamint-dep-advmod-neg.html) – [amod](uk_parlamint-dep-amod.html) – [appos](uk_parlamint-dep-appos.html) – [aux](uk_parlamint-dep-aux.html) – [aux:pass](uk_parlamint-dep-aux-pass.html) – [case](uk_parlamint-dep-case.html) – [cc](uk_parlamint-dep-cc.html) – [ccomp](uk_parlamint-dep-ccomp.html) – [compound](uk_parlamint-dep-compound.html) – [compound:svc](uk_parlamint-dep-compound-svc.html) – [conj](uk_parlamint-dep-conj.html) – [cop](uk_parlamint-dep-cop.html) – [csubj](uk_parlamint-dep-csubj.html) – [det](uk_parlamint-dep-det.html) – [det:numgov](uk_parlamint-dep-det-numgov.html) – [det:nummod](uk_parlamint-dep-det-nummod.html) – [discourse](uk_parlamint-dep-discourse.html) – [dislocated](uk_parlamint-dep-dislocated.html) – [expl](uk_parlamint-dep-expl.html) – [fixed](uk_parlamint-dep-fixed.html) – [flat](uk_parlamint-dep-flat.html) – [flat:foreign](uk_parlamint-dep-flat-foreign.html) – [flat:name](uk_parlamint-dep-flat-name.html) – [flat:range](uk_parlamint-dep-flat-range.html) – [flat:repeat](uk_parlamint-dep-flat-repeat.html) – [flat:title](uk_parlamint-dep-flat-title.html) – [goeswith](uk_parlamint-dep-goeswith.html) – [iobj](uk_parlamint-dep-iobj.html) – [list](uk_parlamint-dep-list.html) – [mark](uk_parlamint-dep-mark.html) – [nmod](uk_parlamint-dep-nmod.html) – [nsubj](uk_parlamint-dep-nsubj.html) – [nsubj:outer](uk_parlamint-dep-nsubj-outer.html) – [nsubj:pass](uk_parlamint-dep-nsubj-pass.html) – [nummod](uk_parlamint-dep-nummod.html) – [nummod:gov](uk_parlamint-dep-nummod-gov.html) – [obj](uk_parlamint-dep-obj.html) – [obl](uk_parlamint-dep-obl.html) – [obl:agent](uk_parlamint-dep-obl-agent.html) – [obl:arg](uk_parlamint-dep-obl-arg.html) – [orphan](uk_parlamint-dep-orphan.html) – [parataxis](uk_parlamint-dep-parataxis.html) – [parataxis:discourse](uk_parlamint-dep-parataxis-discourse.html) – [parataxis:rel](uk_parlamint-dep-parataxis-rel.html) – [punct](uk_parlamint-dep-punct.html) – [reparandum](uk_parlamint-dep-reparandum.html) – [root](uk_parlamint-dep-root.html) – [vocative](uk_parlamint-dep-vocative.html) – [xcomp](uk_parlamint-dep-xcomp.html) – [xcomp:pred](uk_parlamint-dep-xcomp-pred.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 3433 sentences and 51997 tokens.</li>
+<li>This corpus contains 7142 sentences and 109166 tokens.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 9144 tokens (18%) that are not followed by a space.</li>
+<li>This corpus contains 18512 tokens (17%) that are not followed by a space.</li>
 </ul>
 
 <ul>
-<li>This corpus does not contain words with spaces.</li>
+<li>This corpus contains 1 types of words with spaces. Examples: 900 000</li>
 </ul>
 
 <ul>
-<li>This corpus contains 228 types of words that contain both letters and punctuation. Examples: зв'язку, об'єднання, житлово-комунальні, все-таки, здоров'я, Об'єднаних, обов'язково, по-перше, техніко-юридичними, 6055-П, дев'ятого, обов'язки, 36-а, В'ячеслава, експрес-відправленнях, обов'язків, п'ять, по-друге, пов'язані, 15-а, 21-го, 41-а, 5572-П, В'ячеслав, В'ячеславе, По-третє, будь-яких, будь-якої, дев'ятої, дев'ять, житлово-комунальних, з-за, м'яко, науково-експертне, п'ятої, пам'ятаєте, 11-а, 13-а, 23-го, 35-а, 4-річчя, 40-мільйонну, 7-а, COVID-сертифікатів, Ар'єв, Прем'єр-міністр, Прем'єр-міністра, Центрально-Східної, будь-яка, будь-якого</li>
+<li>This corpus contains 423 types of words that contain both letters and punctuation. Examples: зв'язку, житлово-комунального, житлово-комунальні, об'єднання, по-перше, все-таки, об'єктів, здоров'я, обов'язково, по-друге, будь-які, будь-яких, обов'язки, житлово-комунальних, осінньо-зимовий, СДПУ(о), пов'язані, млн., п'ять, пов'язаної, соціал-демократичної, В'ячеслав, Об'єднаних, По-третє, Прем'єр-міністр, дев'ятого, обов'язків, техніко-юридичними, тис., 6055-П, будь-якого, будь-якої, врешті-решт, житлово-комунальному, зобов'язання, об'єкти, розв'язання, сім'ї, українсько-російського, 21-го, 36-а, В'ячеслава, Прем'єр-міністра, військово-морських, експрес-відправленнях, з'ясування, зобов'язані, матеріально-технічної, об'єднати, об'єктах</li>
 </ul>
 
 <ul>
@@ -106,27 +110,27 @@ Syntactic annotation of the corpus is implemented on the basis of UD_Ukrainian-I
 </ul>
 
 <ul>
-<li>This corpus contains 45 word types tagged as particles (PART): Но, Правда, а, б, би, буцімто, власне, все, все-таки, всього, да, ж, же, завгодно, й, лише, може, навіть, начебто, не, невже, нехай, ну, ні, ніби, нібито, ось, от, отже, просто, саме, так, таки, там, то, тощо, тільки, хоча, це, чи, ще, що, щось, якраз, і</li>
+<li>This corpus contains 55 word types tagged as particles (PART): Но, Нічого, Отож, Правда, а, аж, б, би, бодай, буцімто, власне, вряд, все, все-таки, всього, да, ж, же, завгодно, й, лише, мовляв, може, навіть, начебто, не, невже, нехай, ну, ні, ніби, нібито, ось, от, отже, просто, саме, собі, так, таки, там, то, тощо, тільки, хай, хоч, хоча, хіба, це, чи, ще, що, щось, якраз, і</li>
 </ul>
 
 <ul>
-<li>This corpus contains 30 lemmas tagged as pronouns (PRON): весь, ви, вона, вони, воно, все, всі, він, дехто, ми, ніхто, ніщо, оце, оцей, сам, себе, таке, такий, те, той, хто, хтось, це, цей, що, щось, я, який, інше, їх</li>
+<li>This corpus contains 38 lemmas tagged as pronouns (PRON): будь-хто, весь, ви, вона, вони, воно, все, всі, він, дехто, кожний, ми, ніхто, ніщо, один, одне, оце, оцей, сам, себе, таке, такий, те, ти, той, усі, хто, хтось, це, цей, що, щось, я, як, який, інше, інший, їх</li>
 </ul>
 
 <ul>
-<li>This corpus contains 41 lemmas tagged as determiners (DET): багато, безліч, будь-який, ваш, весь, всі, декілька, деякий, достатньо, другий, жодний, його, кожний, котрий, кілька, мій, наш, ніякий, один, отакий, отой, оцей, сам, самий, свій, скільки, стільки, такий, той, тот, увесь, це, цей, який, який-небудь, якийсь, інакший, інший, їх, їхній, її</li>
+<li>This corpus contains 50 lemmas tagged as determiners (DET): багато, будь-чий, будь-який, ваш, весь, все, всякий, всі, всілякий, декілька, деякий, другий, жодний, його, кожний, котрий, кілька, мій, наш, ніякий, один, отакий, отой, оцей, сам, самий, само, свій, сей, скільки, стільки, такий, те, той, тот, увесь, усякий, це, цей, чийсь, який, який-небудь, якийсь, якість, інакший, інше, інший, їх, їхній, її</li>
 </ul>
 
 <ul>
-<li>Out of the above, 10 lemmas occurred sometimes as PRON and sometimes as DET: весь, всі, оцей, сам, такий, той, це, цей, який, їх</li>
+<li>Out of the above, 16 lemmas occurred sometimes as PRON and sometimes as DET: весь, все, всі, кожний, один, оцей, сам, такий, те, той, це, цей, який, інше, інший, їх</li>
 </ul>
 
 <ul>
-<li>This corpus contains 3 lemmas tagged as auxiliaries (AUX): б, би, бути</li>
+<li>This corpus contains 4 lemmas tagged as auxiliaries (AUX): б, би, бувати, бути</li>
 </ul>
 
 <ul>
-<li>Out of the above, 1 lemmas occurred sometimes as AUX and sometimes as VERB: бути</li>
+<li>Out of the above, 2 lemmas occurred sometimes as AUX and sometimes as VERB: бувати, бути</li>
 </ul>
 
 <ul>
@@ -136,7 +140,7 @@ Syntactic annotation of the corpus is implemented on the basis of UD_Ukrainian-I
 <ul>
   <li>Conv
   <ul>
-    <li>VERB: враховуючи, виходячи, кажучи, користуючись, розуміючи, керуючись, порушуючи, починаючи, використовуючи, зважаючи</li>
+    <li>VERB: враховуючи, виходячи, зважаючи, керуючись, починаючи, кажучи, користуючись, розуміючи, використовуючи, маючи</li>
   </ul>
   </li>
 </ul>
@@ -144,8 +148,8 @@ Syntactic annotation of the corpus is implemented on the basis of UD_Ukrainian-I
 <ul>
   <li>Fin
   <ul>
-    <li>AUX: буде, є, будемо, було, була, будуть, були, був, буду, будете</li>
-    <li>VERB: дякую, будь, прошу, є, хочу, прийнято, маємо, давайте, надається, ставлю</li>
+    <li>AUX: буде, є, будемо, було, будуть, були, була, був, буду, будете</li>
+    <li>VERB: будь, дякую, прошу, є, хочу, давайте, маємо, має, думаю, прийнято</li>
   </ul>
   </li>
 </ul>
@@ -154,7 +158,7 @@ Syntactic annotation of the corpus is implemented on the basis of UD_Ukrainian-I
   <li>Inf
   <ul>
     <li>AUX: бути</li>
-    <li>VERB: голосувати, прийняти, підтримати, проголосувати, сказати, передати, працювати, приймати, зробити, розглянути</li>
+    <li>VERB: голосувати, сказати, прийняти, зробити, підтримати, приймати, говорити, передати, забезпечити, проголосувати</li>
   </ul>
   </li>
 </ul>
@@ -162,7 +166,7 @@ Syntactic annotation of the corpus is implemented on the basis of UD_Ukrainian-I
 <ul>
   <li>Part
   <ul>
-    <li>ADJ: скороченою, даний, прийнятий, відхилена, впевнений, передбачені, Об'єднаних, внесений, даного, минулого</li>
+    <li>ADJ: даний, скороченою, прийнятий, передбачені, переконаний, прийнята, прийняті, внесений, впевнений, відхилена</li>
   </ul>
   </li>
 </ul>
@@ -177,16 +181,15 @@ Syntactic annotation of the corpus is implemented on the basis of UD_Ukrainian-I
 <ul>
   <li>Fem
     <ul>
-      <li>ADJ: Верховної, політичної, Верховна, української, верховній, тимчасової, російської, скороченою, повинна, позашкільної</li>
-      <li>ADJ-Part: скороченою, відхилена, автоматизованої, впевнена, підтримана, внесена, врахована, встановлена, дану, децентралізованою</li>
+      <li>ADJ: Верховної, Верховна, російської, політичної, національної, державної, верховній, повинна, української, російською</li>
+      <li>ADJ-Part: скороченою, прийнята, відхилена, існуючої, пов'язаної, зазначеної, автоматизованої, затверджена, надана, передбачена</li>
       <li>AUX-Fin: була</li>
-      <li>DET: яка, цю, ця, нашої, цієї, яку, наша, нашу, свою, нашій</li>
-      <li>NOUN: ласка, ради, постанови, фракція, змін, комісії, партії, пропозицію, статті, увагу</li>
-      <li>NUM: одну, дві, одна, 2, двох, однієї, 42, двома, одній, однією</li>
-      <li>PRON: вона, її, нею, неї, яка, яку, якої, ній, оця, сама</li>
-      <li>PROPN: України, Україні, Батьківщина, Україна, Україну, Росії, Довіра, Рада, Ірина, Свобода</li>
-      <li>VERB: була, мала, стала, відбулася, хотіла, взяла, виникла, запропонувала, могла, вносилась</li>
-      <li>VERB-Fin: була, мала, стала, відбулася, хотіла, взяла, виникла, запропонувала, могла, вносилась</li>
+      <li>DET: яка, цю, цієї, наша, нашої, ця, яку, свою, цій, нашу</li>
+      <li>NOUN: ласка, ради, фракція, постанови, рада, комісії, влади, партії, увагу, змін</li>
+      <li>NUM: одну, одна, дві, двох, однієї, 2, однією, 1, двома, 1,5—2</li>
+      <li>PRON: вона, її, яка, яку, неї, нею, якої, якій, їй, сама</li>
+      <li>PROPN: України, Україні, Україна, Росії, Україну, Батьківщина, Тимошенко, Росія, Тузла, Україною</li>
+      <li>VERB-Fin: була, склалася, стала, мала, відбулася, прийняла, виникла, запропонувала, могла, хотіла</li>
     </ul>
   </li>
 </ul>
@@ -194,7 +197,7 @@ Syntactic annotation of the corpus is implemented on the basis of UD_Ukrainian-I
 <ul>
   <li>Fem,Masc
     <ul>
-      <li>NOUN: колеги, суддів, Слуга, колег, колегами, колегам, слуги, судді, голови, голів</li>
+      <li>NOUN: колеги, суддів, колег, Слуга, колегами, судді, колегам, слуги, голови, голів</li>
     </ul>
   </li>
 </ul>
@@ -202,16 +205,15 @@ Syntactic annotation of the corpus is implemented on the basis of UD_Ukrainian-I
 <ul>
   <li>Masc
     <ul>
-      <li>ADJ: реєстраційний, шановний, народний, народному, денного, народного, денний, даний, український, українського</li>
-      <li>ADJ-Part: даний, прийнятий, впевнений, внесений, минулого, переконаний, даного, спрямований, вказаний, обмежений</li>
+      <li>ADJ: шановний, народний, реєстраційний, народного, народному, 2004, денного, наступний, державного, другий</li>
+      <li>ADJ-Part: даний, прийнятий, переконаний, внесений, впевнений, минулого, даному, вичерпаний, даного, спрямований</li>
       <li>AUX-Fin: був</li>
-      <li>DET: цей, який, цього, цьому, той, наш, нашого, такий, таким, кожного</li>
-      <li>NOUN: закону, законопроект, проект, комітету, закон, час, депутати, проекту, депутатів, законопроекту</li>
-      <li>NUM: два, один, двох, 2, 131, 181, 2-3, 31, 82, двома</li>
-      <li>PRON: він, хто, його, нього, йому, ким, кого, ним, декого, кому</li>
-      <li>PROPN: Іванович, Криму, Олександр, Голос, Михайло, Сергій, Цимбалюк, Михайловичу, Івановичу, Михайлович</li>
-      <li>VERB: хотів, сказав, просив, прийняв, розглянув, вніс, дав, зрозумів, оголосив, подав</li>
-      <li>VERB-Fin: хотів, сказав, просив, прийняв, розглянув, дав, зрозумів, оголосив, подав, пропонував</li>
+      <li>DET: який, цей, цього, цьому, наш, той, такий, таким, нашого, весь</li>
+      <li>NOUN: закону, депутати, президента, проект, час, року, закон, депутатів, законопроект, комітету</li>
+      <li>NUM: один, два, 1, двох, 2, одним, одного, одному, півтора, 2-3</li>
+      <li>PRON: він, хто, його, який, нього, один, одного, йому, ним, кого</li>
+      <li>PROPN: Криму, Михайловичу, Володимире, Олександр, Іванович, Володимир, Крим, Михайло, Сергій, Михайлович</li>
+      <li>VERB-Fin: хотів, сказав, просив, був, прийняв, говорив, дав, мав, пропонував, вніс</li>
     </ul>
   </li>
 </ul>
@@ -219,17 +221,16 @@ Syntactic annotation of the corpus is implemented on the basis of UD_Ukrainian-I
 <ul>
   <li>Neut
     <ul>
-      <li>ADJ: друге, другого, другому, першому, 1, місцевого, наступне, важливе, українського, Всеукраїнського</li>
-      <li>ADJ-Part: відкритим, гарантоване, прийняте, визначеному, вказаного, відображене, дане, даного, зазначеному, закритим</li>
+      <li>ADJ: друге, 1, житлово-комунального, місцевого, повторного, першому, наступне, другого, другому, перше</li>
+      <li>ADJ-Part: прийняте, відкритим, закритим, зважене, інтегрованого, гарантоване, даного, Зазначене, Командуючим, Сполученого</li>
       <li>AUX: було</li>
       <li>AUX-Fin: було</li>
-      <li>DET: це, цього, тому, яке, таке, все, наше, його, своєму, цим</li>
-      <li>NOUN: питання, рішення, слово, голосування, питань, внесення, прийняття, цілому, звернення, читання</li>
-      <li>NUM: одне, двох, одним</li>
-      <li>PRON: це, те, того, що, цього, тим, тому, все, цим, цьому</li>
-      <li>PROPN: НАТО, Сочі, НАЗК</li>
-      <li>VERB: було, сталося, залишилося, стало, загинуло, відбулося, руйнувалося, виникло, зареєструвалося, хотілось</li>
-      <li>VERB-Fin: було, сталося, залишилося, стало, загинуло, відбулося, руйнувалося, виникло, зареєструвалося, хотілось</li>
+      <li>DET: це, цього, тому, таке, яке, все, наше, своє, його, такого</li>
+      <li>NOUN: питання, рішення, голосування, слово, питань, прийняття, внесення, цілому, права, проведення</li>
+      <li>NUM: одне, два, одним, двох, одного</li>
+      <li>PRON: це, того, те, що, цього, все, тим, тому, цим, цьому</li>
+      <li>PROPN: НАТО, Мінпаливенерго, Сочі, Ватутіно, ГРУ, Динамо, Закарпаття, Закарпатті, Запоріжжя, Мукачево</li>
+      <li>VERB-Fin: було, відбулося, залишилося, стало, сталося, відбувалося, загинуло, вдалося, виникло, дало</li>
     </ul>
   </li>
 </ul>
@@ -241,11 +242,13 @@ Syntactic annotation of the corpus is implemented on the basis of UD_Ukrainian-I
 <ul>
   <li>Anim
     <ul>
-      <li>ADJ: народних, адресного, бухих, власного, других, ефективних, західних, кримського, міжнародних, місцевого</li>
-      <li>DET: всіх, наших, своїх, тих, якого, яких, деяких, кожен, кожного, нашого</li>
-      <li>NOUN: колеги, депутати, депутатів, депутат, депутату, людей, президента, пане, депутата, Голово</li>
-      <li>PRON: ми, я, ви, нас, нам, хто, вас, вам, вами, мене</li>
-      <li>PROPN: Іванович, Олександр, Михайло, Сергій, Цимбалюк, Михайловичу, Івановичу, Михайлович, Віталійович, Григорій</li>
+      <li>ADJ: народних, західних, Північно-кавказського, адресного, бухих, висококласних, виступаючий, власного, других, ефективних</li>
+      <li>ADJ-Part: виступаючий</li>
+      <li>DET: всіх, наших, тих, своїх, якого, кожного, одного, усіх, яких, іншого</li>
+      <li>NOUN: колеги, депутати, президента, депутатів, людей, міністрів, депутат, комуністів, депутата, пане</li>
+      <li>NUM: трьох</li>
+      <li>PRON: ми, я, ви, нас, вас, нам, хто, вам, мене, вами</li>
+      <li>PROPN: Михайловичу, Володимире, Олександр, Іванович, Володимир, Михайло, Сергій, Михайлович, Симоненко, Тимошенко</li>
     </ul>
   </li>
 </ul>
@@ -253,7 +256,7 @@ Syntactic annotation of the corpus is implemented on the basis of UD_Ukrainian-I
 <ul>
   <li>Anim,Inan
     <ul>
-      <li>PRON: його, вона, її</li>
+      <li>PRON: їх</li>
     </ul>
   </li>
 </ul>
@@ -261,13 +264,13 @@ Syntactic annotation of the corpus is implemented on the basis of UD_Ukrainian-I
 <ul>
   <li>Inan
     <ul>
-      <li>ADJ: сьогоднішній, денний, даний, житлово-комунальні, земельні, відповідні, український, адміністративні, політичні, превеликий</li>
-      <li>ADJ-Part: даний, вказаний, звані, визначений, виступаючі, вказані, доопрацьований, заблокований, зазначений, зацікавлені</li>
-      <li>DET: цей, свої, які, всі, який, ці, той, ті, наш, такі</li>
-      <li>NOUN: ласка, питання, рішення, ради, закону, законопроект, проект, слово, комітету, закон</li>
+      <li>ADJ: сьогоднішній, житлово-комунальні, даний, денний, політичні, відповідні, державний, наступний, останні, перший</li>
+      <li>ADJ-Part: даний, спожиті, виважені, вказаний, встановлені, зазначений, звані, визначений, виступаючі, вказані</li>
+      <li>DET: цей, свої, всі, які, ці, який, ті, той, наш, такі</li>
+      <li>NOUN: ласка, питання, рішення, ради, закону, голосування, фракція, слово, проект, час</li>
       <li>NUM: один, 2, один-єдиний</li>
-      <li>PRON: це, те, того, що, цього, тим, тому, все, цим, цьому</li>
-      <li>PROPN: України, Україні, Батьківщина, Криму, Україна, Україну, Голос, Росії, Довіра, Крим</li>
+      <li>PRON: це, того, те, що, все, цього, тим, тому, цим, цьому</li>
+      <li>PROPN: України, Україні, Україна, Криму, Росії, Україну, Батьківщина, Крим, Голос, Києві</li>
     </ul>
   </li>
 </ul>
@@ -279,16 +282,15 @@ Syntactic annotation of the corpus is implemented on the basis of UD_Ukrainian-I
 <ul>
   <li>Plur
     <ul>
-      <li>ADJ: шановні, народні, повинні, народних, готові, міжнародних, іноземних, політичні, депутатських, житлово-комунальні</li>
-      <li>ADJ-Part: передбачені, Об'єднаних, пов'язані, прийняті, враховані, залучені, запропоновані, звані, населених, переконані</li>
+      <li>ADJ: шановні, народні, повинні, народних, готові, політичні, політичних, корисних, збройних, закордонних</li>
+      <li>ADJ-Part: передбачені, прийняті, пов'язані, Сполучених, населених, Об'єднаних, враховані, визначені, внесені, спрямовані</li>
       <li>AUX-Fin: будемо, будуть, були, є, будете, будем</li>
-      <li>DET: які, всі, всіх, свої, ці, ті, наших, тих, своїх, цих</li>
-      <li>NOUN: колеги, питань, депутати, змін, депутатів, людей, фракцій, прав, питання, суддів</li>
-      <li>NUM: одні, 2, двох, тис., 1, 2,5, 2,7, 82, четверо</li>
-      <li>PRON: ми, ви, нас, вони, нам, вас, вам, вами, їх, них</li>
-      <li>PROPN: Гетманцев</li>
-      <li>VERB: маємо, давайте, є, переходимо, включіть, мають, наполягаєте, знаєте, можемо, мали</li>
-      <li>VERB-Fin: маємо, давайте, є, переходимо, включіть, мають, наполягаєте, знаєте, можемо, мали</li>
+      <li>DET: які, всі, всіх, ці, тих, ті, наших, свої, інших, цих</li>
+      <li>NOUN: колеги, депутати, депутатів, питань, змін, людей, міністрів, відсотків, комуністів, років</li>
+      <li>NUM: одні, обох, 2, 2,5, млн., тис., 1, 2,3, 2,7, 336-ма</li>
+      <li>PRON: ми, ви, нас, вони, нам, вас, їх, які, вам, вами</li>
+      <li>PROPN: Гетманцев, РСР</li>
+      <li>VERB-Fin: давайте, маємо, є, мають, можемо, знаєте, переходимо, можуть, відбулися, мали</li>
     </ul>
   </li>
 </ul>
@@ -296,8 +298,10 @@ Syntactic annotation of the corpus is implemented on the basis of UD_Ukrainian-I
 <ul>
   <li>Ptan
     <ul>
-      <li>NOUN: коштів, гроші, кошти, відносин, грошей, фінансів, вибори, відносинах, відносини, дані</li>
-      <li>PROPN: Афінах, Афін</li>
+      <li>DET: будь</li>
+      <li>NOUN: вибори, виборів, кошти, коштів, надр, відносин, гроші, переговори, надра, переговорів</li>
+      <li>PRON: ви, вас, вам, вами</li>
+      <li>PROPN: Афінах, Демініціативи, США, Афін, ВМСУ, Карпатах, Черкас, Черкасах</li>
     </ul>
   </li>
 </ul>
@@ -305,17 +309,16 @@ Syntactic annotation of the corpus is implemented on the basis of UD_Ukrainian-I
 <ul>
   <li>Sing
     <ul>
-      <li>ADJ: Верховної, реєстраційний, шановний, народний, народному, денного, народного, політичної, Верховна, українського</li>
-      <li>ADJ-Part: скороченою, даний, прийнятий, відхилена, впевнений, внесений, даного, минулого, переконаний, спрямований</li>
-      <li>AUX: буде, є, було, була, був, буду</li>
-      <li>AUX-Fin: буде, є, було, була, був, буду</li>
-      <li>DET: цього, цей, який, яка, це, цю, ця, нашої, цієї, цьому</li>
-      <li>NOUN: ласка, питання, рішення, ради, закону, законопроект, проект, слово, комітету, закон</li>
-      <li>NUM: один, одну, одна, одне, однієї, одним, одного, одній, однією</li>
-      <li>PRON: я, це, те, того, він, що, хто, цього, його, вона</li>
-      <li>PROPN: України, Україні, Іванович, Батьківщина, Криму, Україна, Україну, Олександр, Голос, Михайло</li>
-      <li>VERB: дякую, будь, прошу, є, хочу, надається, ставлю, має, думаю, може</li>
-      <li>VERB-Fin: дякую, будь, прошу, є, хочу, надається, ставлю, має, думаю, може</li>
+      <li>ADJ: Верховної, шановний, Верховна, російської, народний, політичної, реєстраційний, національної, народного, державної</li>
+      <li>ADJ-Part: даний, скороченою, прийнятий, переконаний, прийнята, внесений, впевнений, відхилена, минулого, даному</li>
+      <li>AUX: буде, є, було, була, був, буду, буває, будь</li>
+      <li>AUX-Fin: буде, є, було, була, був, буду, буває, будь</li>
+      <li>DET: цього, який, цей, яка, цю, це, цієї, наша, нашої, цьому</li>
+      <li>NOUN: ласка, питання, рішення, ради, закону, голосування, фракція, слово, президента, проект</li>
+      <li>NUM: один, одну, одна, одне, 1, одним, однієї, одного, однією, одному</li>
+      <li>PRON: я, це, того, те, що, він, хто, вона, цього, все</li>
+      <li>PROPN: України, Україні, Україна, Криму, Михайловичу, Володимире, Росії, Олександр, Україну, Іванович</li>
+      <li>VERB-Fin: будь, дякую, прошу, є, хочу, має, думаю, може, ставлю, хотів</li>
     </ul>
   </li>
 </ul>
@@ -327,14 +330,14 @@ Syntactic annotation of the corpus is implemented on the basis of UD_Ukrainian-I
 <ul>
   <li>Acc
     <ul>
-      <li>ADJ: народних, першу, сьогоднішній, денний, даний, житлово-комунальні, державну, земельні, відповідні, український</li>
-      <li>ADJ-Part: даний, вказаний, гарантоване, дану, звані, визначений, визначену, вказану, вказані, гарантовану</li>
-      <li>ADP: на, про, за, в, у, під, через, попри, понад, по</li>
-      <li>DET: цей, цю, це, свої, які, всі, яку, який, ці, нашу</li>
-      <li>NOUN: рішення, питання, час, законопроект, проект, внесення, пропозицію, увагу, голосування, слово</li>
-      <li>NUM: два, одну, 100, один, три, одне, 2, 3, 30, п'ять</li>
-      <li>PRON: те, це, його, що, вас, її, їх, все, нас, себе</li>
-      <li>PROPN: Україну, Сергія, Володимировича, Росію, Івановича, Анатолійовича, Анатолія, Бориспіль, В'ячеслава, Власенка</li>
+      <li>ADJ: народних, першу, сьогоднішній, житлово-комунальні, політичну, даний, денний, політичні, Верховну, відповідні</li>
+      <li>ADJ-Part: даний, зважене, спожиті, виважені, вказаний, встановлені, гарантоване, дану, зазначений, звані</li>
+      <li>ADP: на, про, за, в, у, через, під, по, понад, попри</li>
+      <li>DET: цю, цей, це, свої, всі, які, ці, яку, свою, який</li>
+      <li>NOUN: рішення, питання, час, голосування, раз, слово, увагу, проект, внесення, основу</li>
+      <li>NUM: одну, один, два, три, 3, 100, 2, 20, дві, одне</li>
+      <li>PRON: це, те, вас, що, його, їх, все, її, нас, себе</li>
+      <li>PROPN: Україну, Сергія, Росію, Володимировича, Київ, Крим, Івановича, Анатолійовича, Анатолія, Бориспіль</li>
     </ul>
   </li>
 </ul>
@@ -342,14 +345,14 @@ Syntactic annotation of the corpus is implemented on the basis of UD_Ukrainian-I
 <ul>
   <li>Dat
     <ul>
-      <li>ADJ: народному, Верховній, народній, українській, територіальній, міжнародним, народним, проєвропейського, російським, 10</li>
-      <li>ADJ-Part: визначеним</li>
+      <li>ADJ: народному, Верховній, народній, народним, територіальній, українській, Центральній, генеральному, міжнародним, Російській</li>
+      <li>ADJ-Part: вжитим, визначеним, виконуючому, виявленим, відокремленим, постраждалим, існуючій</li>
       <li>ADP: завдяки, назустріч</li>
-      <li>DET: всім, нашим, вашій, нашій, іншим, кожному, тим, тому, цьому, їх</li>
-      <li>NOUN: депутату, Раді, депутатці, голові, Героям, армії, громадянам, державі, увазі, вимогам</li>
+      <li>DET: всім, нашим, тим, іншим, кожному, нашій, вашій, одному, цим, тій</li>
+      <li>NOUN: депутату, раді, голові, Президенту, Міністерству, людям, комісії, депутатам, депутатці, комітету</li>
       <li>NUM: двом-трьом</li>
-      <li>PRON: нам, вам, мені, їм, собі, всім, йому, нікому, цьому, кому</li>
-      <li>PROPN: Україні, Івановичу, Олександру, Віталійовичу, Колтуновичу, Нестору, Петровичу, Сергію, Івану, Михайловичу</li>
+      <li>PRON: нам, вам, мені, їм, собі, всім, йому, кому, нікому, тому</li>
+      <li>PROPN: Україні, Олександру, Івановичу, Михайловичу, Нестору, Петру, Роману, Симоненку, Віталійовичу, Зваричу</li>
     </ul>
   </li>
 </ul>
@@ -365,14 +368,14 @@ Syntactic annotation of the corpus is implemented on the basis of UD_Ukrainian-I
 <ul>
   <li>Gen
     <ul>
-      <li>ADJ: Верховної, денного, народного, політичної, українського, української, тимчасової, російської, позашкільної, спеціальної</li>
-      <li>ADJ-Part: Об'єднаних, даного, минулого, автоматизованої, Сполучених, заслужених, званих, званої, населених, прийнятого</li>
-      <li>ADP: до, з, для, щодо, від, у, після, в, проти, без</li>
-      <li>DET: цього, нашої, цієї, всіх, тих, наших, інших, цих, своїх, нашого</li>
-      <li>NOUN: ради, закону, комітету, питань, постанови, проекту, змін, року, питання, законопроекту</li>
-      <li>NUM: двох, однієї, 200, 2, тис., 0,25, 1, 10-12, 150, 17</li>
-      <li>PRON: нас, того, цього, вас, мене, них, його, нього, нічого, їх</li>
-      <li>PROPN: України, Росії, Криму, Зеленського, Януковича, Путіна, Європи, Сергія, Івановича, Володимира</li>
+      <li>ADJ: Верховної, російської, політичної, національної, державної, народних, народного, українського, державного, української</li>
+      <li>ADJ-Part: минулого, існуючої, даного, пов'язаної, Об'єднаних, Сполучених, зазначеної, автоматизованої, званих, населених</li>
+      <li>ADP: до, з, для, щодо, від, у, після, проти, із, без</li>
+      <li>DET: цього, цієї, нашої, тих, всіх, наших, інших, цих, нашого, своїх</li>
+      <li>NOUN: ради, закону, президента, року, постанови, питань, комітету, питання, влади, партії</li>
+      <li>NUM: двох, 5, однієї, трьох, обох, одного, 1, 15, 200, 30</li>
+      <li>PRON: того, нас, цього, вас, мене, них, їх, нічого, нього, чого</li>
+      <li>PROPN: України, Росії, Криму, Тимошенко, Віктора, Януковича, Путіна, Юлії, Ющенка, Європи</li>
     </ul>
   </li>
 </ul>
@@ -380,14 +383,14 @@ Syntactic annotation of the corpus is implemented on the basis of UD_Ukrainian-I
 <ul>
   <li>Ins
     <ul>
-      <li>ADJ: скороченою, російською, Верховною, українською, необхідними, техніко-юридичними, народним, відкритим, чесними, Європейським</li>
-      <li>ADJ-Part: скороченою, відкритим, децентралізованою, керуючими, поданою, вказаним, встановленим, відхиленим, закритим, збалансованим</li>
-      <li>ADP: з, за, перед, із, над, під, між, зі, переді, поза</li>
-      <li>DET: таким, цим, тими, усіма, цією, якою, яким, якими, іншими, нашими</li>
-      <li>NOUN: мовою, процедурою, законом, комітетом, Радою, чином, урахуванням, законопроектом, метою, проектом</li>
-      <li>NUM: двома, одним, однією</li>
-      <li>PRON: вами, тим, цим, нами, нею, мною, ким, чим, ним, ними</li>
-      <li>PROPN: Україною, Росією, Байденом, Буймістер, ВАКСом, Великобританією, Віктором, Гвінеєю, Джоном, Дирдіним</li>
+      <li>ADJ: російською, Верховною, скороченою, недійсними, українською, найближчим, повною, відповідними, масовими, важливим</li>
+      <li>ADJ-Part: скороченою, відкритим, внесеними, закритим, децентралізованою, керуючими, концентрованим, новообраним, переодягненими, поданою</li>
+      <li>ADP: з, за, із, перед, під, між, над, зі, поза, всупереч</li>
+      <li>DET: таким, нашими, цим, тими, усіма, яким, іншими, своїми, цією, якою</li>
+      <li>NOUN: законом, метою, чином, урахуванням, мовою, радою, урядом, процедурою, комітетом, станом</li>
+      <li>NUM: одним, однією, двома, 336-ма</li>
+      <li>PRON: тим, вами, цим, такими, нами, собою, ним, нею, мною, ними</li>
+      <li>PROPN: Україною, Росією, Януковичем, Віктором, Кримом, Федоровичем, Іваном, Андрієм, Байденом, Беркутом</li>
     </ul>
   </li>
 </ul>
@@ -395,14 +398,14 @@ Syntactic annotation of the corpus is implemented on the basis of UD_Ukrainian-I
 <ul>
   <li>Loc
     <ul>
-      <li>ADJ: першому, другому, верховній, денному, минулому, міжнародних, окремих, Автономній, Погоджувальній, українській</li>
-      <li>ADJ-Part: прийнятому, визначеному, даному, діючій, задекларованій, зазначеному, минулому, населених, окупованих, спричинених</li>
-      <li>ADP: в, на, у, по, при, о</li>
-      <li>DET: цьому, тому, яких, цій, нашій, своєму, якому, всіх, своїй, своїх</li>
-      <li>NOUN: цілому, читанні, залі, зв'язку, році, числі, країні, раді, засіданні, фракціях</li>
-      <li>NUM: двох, одній</li>
-      <li>PRON: тому, цьому, собі, тім, всіх, ньому, ній, чому, їх</li>
-      <li>PROPN: Україні, Криму, Києві, Росії, Сіднеї, Європі, Артемівську, Афінах, Дніпропетровську, Донбасі</li>
+      <li>ADJ: першому, Керченській, другому, верховній, Автономній, 2004, минулому, даному, Погоджувальній, денному</li>
+      <li>ADJ-Part: даному, наданих, населених, прийнятому, Сполучених, визначеному, діючій, задекларованій, зазначених, зазначеному</li>
+      <li>ADP: в, у, на, по, при, о, з, об</li>
+      <li>DET: цьому, тому, цій, нашій, всіх, якому, своєму, яких, цих, всій</li>
+      <li>NOUN: цілому, році, зв'язку, числі, залі, раді, країні, читанні, місті, сфері</li>
+      <li>NUM: двох, одному, 12, 12-ти, 14-ти, 16, 17-ти, багатьох, двадцять, одній</li>
+      <li>PRON: тому, цьому, собі, чому, них, ньому, якій, тім, яких, всіх</li>
+      <li>PROPN: Україні, Криму, Києві, Сіднеї, Росії, Львові, Одесі, Європі, Афінах, Сході</li>
     </ul>
   </li>
 </ul>
@@ -410,13 +413,13 @@ Syntactic annotation of the corpus is implemented on the basis of UD_Ukrainian-I
 <ul>
   <li>Nom
     <ul>
-      <li>ADJ: повинні, реєстраційний, народний, готові, Верховна, повинна, європейська, депутатська, друге, Опозиційна</li>
-      <li>ADJ-Part: прийнятий, відхилена, впевнений, передбачені, внесений, переконаний, спрямований, даний, пов'язані, прийняті</li>
-      <li>DET: які, яка, який, ця, всі, цей, наша, ті, ці, таке</li>
-      <li>NOUN: ласка, питання, фракція, слово, номер, законопроект, закон, депутат, проект, рада</li>
-      <li>NUM: два, один, 6528, 6103, 3, одна, 10, 6055-П, 6287, 15</li>
-      <li>PRON: ми, я, це, ви, вони, він, хто, вона, що, те</li>
-      <li>PROPN: Іванович, Батьківщина, Україна, Олександр, Голос, Михайло, Сергій, Цимбалюк, Довіра, Михайлович</li>
+      <li>ADJ: повинні, Верховна, готові, народний, реєстраційний, повинна, друге, повинен, депутатська, наступний</li>
+      <li>ADJ-Part: прийнятий, переконаний, передбачені, прийнята, прийняті, внесений, впевнений, відхилена, пов'язані, враховані</li>
+      <li>DET: які, яка, який, всі, наша, ця, цей, ці, ті, таке</li>
+      <li>NOUN: ласка, фракція, питання, рада, проект, закон, номер, слово, депутат, партія</li>
+      <li>NUM: два, 3, один, одна, три, 1, 20, 15, 0, 5</li>
+      <li>PRON: ми, я, це, ви, вони, хто, він, вона, що, які</li>
+      <li>PROPN: Україна, Олександр, Іванович, Батьківщина, Володимир, Михайло, Крим, Сергій, Михайлович, Симоненко</li>
     </ul>
   </li>
 </ul>
@@ -424,10 +427,11 @@ Syntactic annotation of the corpus is implemented on the basis of UD_Ukrainian-I
 <ul>
   <li>Voc
     <ul>
-      <li>ADJ: шановні, народні, шановний, дорогі, вельмишановний, дорогий, шановне, запрошені, присутні, український</li>
-      <li>ADJ-Part: запрошені, шановані</li>
-      <li>NOUN: колеги, депутати, пане, Голово, друзі, українці, головуючий, громадяни, гості, товариство</li>
-      <li>PROPN: Володимире, Михайловичу, Олександре, Валентиновичу, В'ячеславе, Павловичу, Валентине, Миколо, Євгене, Іване</li>
+      <li>ADJ: шановні, народні, шановний, дорогі, вельмишановний, дорогий, присутні, український, шановне, головуючий</li>
+      <li>ADJ-Part: головуючий, запрошені, шановані</li>
+      <li>DET: всі, мої, наші</li>
+      <li>NOUN: колеги, депутати, пане, Голово, друзі, громадяни, українці, члени, головуючий, радіослухачі</li>
+      <li>PROPN: Михайловичу, Володимире, Олександре, Валентиновичу, Вікторе, Павловичу, Федоровичу, Миколо, Сергію, Івановичу</li>
     </ul>
   </li>
 </ul>
@@ -442,10 +446,18 @@ Syntactic annotation of the corpus is implemented on the basis of UD_Ukrainian-I
 </ul>
 
 <ul>
+  <li>Abs
+    <ul>
+      <li>ADV: якнайшвидше, щонайбільше</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li>Cmp
     <ul>
-      <li>ADJ: вищої, вищих, Вища, Вищого, важливіше, Вищий, більша, вищим, кращий, Вищій</li>
-      <li>ADV: більше, краще, більш, гірше, менше, раніше, точніше, швидше, ближче, дальше</li>
+      <li>ADJ: вищих, вищої, Вища, більша, Вищого, ближчим, більший, важливіше, вищий, вищим</li>
+      <li>ADV: більше, далі, краще, більш, менше, раніше, пізніше, точніше, швидше, вище</li>
     </ul>
   </li>
 </ul>
@@ -453,9 +465,9 @@ Syntactic annotation of the corpus is implemented on the basis of UD_Ukrainian-I
 <ul>
   <li>Pos
     <ul>
-      <li>ADJ: шановні, шановний, Доброго, важливе, відповідні, новий, важлива, відповідних, нової, Шановна</li>
-      <li>ADJ-Part: впевнений, відкритим, впевнена, обмежений, виважений, визначений, визначеному, впевнені, гарантоване, закрита</li>
-      <li>ADV: дуже, потрібно, необхідно, відповідно, добре, важливо, чітко, правильно, звичайно, багато</li>
+      <li>ADJ: шановні, шановний, корисних, відповідні, відповідних, нові, останні, новий, нового, останніх</li>
+      <li>ADJ-Part: впевнений, відкритим, впевнена, закритим, керованої, обгрунтовану, обмежений, обмежені, виважений, визначений</li>
+      <li>ADV: дуже, потрібно, необхідно, практично, добре, чітко, важливо, звичайно, багато, зрозуміло</li>
     </ul>
   </li>
 </ul>
@@ -463,8 +475,9 @@ Syntactic annotation of the corpus is implemented on the basis of UD_Ukrainian-I
 <ul>
   <li>Sup
     <ul>
-      <li>ADJ: найближчим, найгіршого, найбільших, найбільшою, найважливіше, найвеличнішою, найголовніші, наймасовішого, найперший, найпринциповіше</li>
-      <li>ADV: найбільше, найчастіше, якнайшвидше, найменш</li>
+      <li>ADJ: найближчим, найгіршого, найкращих, Найбільше, найважливіше, найсильніших, Найвідоміші, Найдоцільніше, всеохоплюючою, найбагатших</li>
+      <li>ADV: найбільш, найбільше, найчастіше, найкраще, найперше, найменш</li>
+      <li>NOUN: найважливішого</li>
     </ul>
   </li>
 </ul>
@@ -476,11 +489,11 @@ Syntactic annotation of the corpus is implemented on the basis of UD_Ukrainian-I
 <ul>
   <li>Neg
     <ul>
-      <li>ADV: немає, нема, нікуди</li>
+      <li>ADV: немає, нема, незважаючи, нікуди</li>
       <li>CCONJ: ні, ані</li>
+      <li>INTJ: ні</li>
       <li>PART: не, ні</li>
-      <li>VERB-Conv: незважаючи</li>
-      <li>VERB-Fin: має</li>
+      <li>VERB-Fin: немає, нема, має</li>
     </ul>
   </li>
 </ul>
@@ -492,9 +505,11 @@ Syntactic annotation of the corpus is implemented on the basis of UD_Ukrainian-I
 <ul>
   <li>Short
     <ul>
-      <li>ADJ: повинен, згоден, винен, здатен</li>
-      <li>ADV: більш, перш, менш, найменш</li>
+      <li>ADJ: повинен, потрібен, згоден, винен, здатен</li>
+      <li>ADV: більш, найбільш, перш, менш, найменш</li>
       <li>DET: кожен, жоден</li>
+      <li>PRON: кожен</li>
+      <li>VERB-Inf: сказать, передать, голосувать</li>
     </ul>
   </li>
 </ul>
@@ -509,14 +524,13 @@ Syntactic annotation of the corpus is implemented on the basis of UD_Ukrainian-I
 <ul>
   <li>Imp
     <ul>
-      <li>ADJ-Part: звані, виконуючий, діючий, званих, званої, керуючими, блокуючих, виконуючого, виступаючі, головуючий</li>
-      <li>AUX: буде, є, будемо, бути, було, була, будуть, були, був, буду</li>
-      <li>AUX-Fin: буде, є, будемо, було, була, будуть, були, був, буду, будете</li>
+      <li>ADJ-Part: існуючої, діючий, званих, звані, виконуючий, виступаючий, виступаючого, головуючий, діюча, діючої</li>
+      <li>AUX: буде, є, будемо, бути, було, будуть, були, була, був, буду</li>
+      <li>AUX-Fin: буде, є, будемо, було, будуть, були, була, був, буду, будете</li>
       <li>AUX-Inf: бути</li>
-      <li>VERB: дякую, будь, прошу, є, голосувати, хочу, маємо, давайте, надається, ставлю</li>
-      <li>VERB-Conv: враховуючи, виходячи, кажучи, користуючись, розуміючи, керуючись, порушуючи, починаючи, використовуючи, зважаючи</li>
-      <li>VERB-Fin: дякую, будь, прошу, є, хочу, маємо, давайте, надається, ставлю, має</li>
-      <li>VERB-Inf: голосувати, працювати, приймати, робити, говорити, захищати, обговорювати, мати, підтримувати, ставити</li>
+      <li>VERB-Conv: враховуючи, виходячи, зважаючи, керуючись, починаючи, кажучи, користуючись, розуміючи, використовуючи, маючи</li>
+      <li>VERB-Fin: будь, дякую, прошу, є, хочу, давайте, маємо, має, думаю, може</li>
+      <li>VERB-Inf: голосувати, приймати, говорити, робити, працювати, мати, захищати, ставити, вважати, виступати</li>
     </ul>
   </li>
 </ul>
@@ -524,11 +538,10 @@ Syntactic annotation of the corpus is implemented on the basis of UD_Ukrainian-I
 <ul>
   <li>Perf
     <ul>
-      <li>ADJ-Part: скороченою, даний, прийнятий, відхилена, впевнений, передбачені, Об'єднаних, внесений, даного, минулого</li>
-      <li>VERB: прийнято, прийняти, підтримати, проголосувати, сказати, передати, зробити, включіть, розглянути, забезпечити</li>
-      <li>VERB-Conv: прийнявши, запровадивши, охопивши, прочитавши, розглянувши</li>
-      <li>VERB-Fin: прийнято, включіть, дайте, зареєстровано, покажіть, сказав, почули, проголосували, підтримаємо, сталося</li>
-      <li>VERB-Inf: прийняти, підтримати, проголосувати, сказати, передати, зробити, розглянути, забезпечити, включити, звернути</li>
+      <li>ADJ-Part: даний, скороченою, прийнятий, передбачені, переконаний, прийнята, прийняті, внесений, впевнений, відхилена</li>
+      <li>VERB-Conv: прийнявши, узгодивши, передбачивши, Вислухавши, висловивши, врахувавши, відмовившись, зайнявши, зайшовши, запровадивши</li>
+      <li>VERB-Fin: прийнято, сказав, відбулися, включіть, скажу, приймемо, дайте, запишіться, заспокойтеся, прийняли</li>
+      <li>VERB-Inf: сказати, прийняти, зробити, підтримати, передати, забезпечити, проголосувати, визнати, внести, провести</li>
     </ul>
   </li>
 </ul>
@@ -548,7 +561,8 @@ Syntactic annotation of the corpus is implemented on the basis of UD_Ukrainian-I
 <ul>
   <li>Imp
     <ul>
-      <li>VERB-Fin: будь, давайте, включіть, дайте, покажіть, подивіться, зверніть, скажіть, вибачте, дивіться</li>
+      <li>AUX-Fin: будь</li>
+      <li>VERB-Fin: будь, давайте, включіть, дайте, запишіться, заспокойтеся, скажіть, дозвольте, подивіться, вибачте</li>
     </ul>
   </li>
 </ul>
@@ -556,10 +570,9 @@ Syntactic annotation of the corpus is implemented on the basis of UD_Ukrainian-I
 <ul>
   <li>Ind
     <ul>
-      <li>AUX: буде, є, будемо, було, була, будуть, були, був, буду, будете</li>
-      <li>AUX-Fin: буде, є, будемо, було, була, будуть, були, був, буду, будете</li>
-      <li>VERB: дякую, прошу, є, хочу, прийнято, маємо, надається, ставлю, має, думаю</li>
-      <li>VERB-Fin: дякую, прошу, є, хочу, прийнято, маємо, надається, ставлю, має, думаю</li>
+      <li>AUX: буде, є, будемо, було, будуть, були, була, був, буду, будете</li>
+      <li>AUX-Fin: буде, є, будемо, було, будуть, були, була, був, буду, будете</li>
+      <li>VERB-Fin: дякую, прошу, є, хочу, маємо, має, думаю, прийнято, може, ставлю</li>
     </ul>
   </li>
 </ul>
@@ -572,7 +585,7 @@ Syntactic annotation of the corpus is implemented on the basis of UD_Ukrainian-I
   <li>Fut
     <ul>
       <li>AUX-Fin: буде, будемо, будуть, буду, будете, будем</li>
-      <li>VERB-Fin: буде, підтримаємо, скажу, дасть, зробимо, привітаємо, проголосуємо, дамо, зачитаю, попрошу</li>
+      <li>VERB-Fin: буде, скажу, приймемо, зачитаю, підемо, дасть, проголосуємо, вдасться, зробимо, дам</li>
     </ul>
   </li>
 </ul>
@@ -580,11 +593,10 @@ Syntactic annotation of the corpus is implemented on the basis of UD_Ukrainian-I
 <ul>
   <li>Past
     <ul>
-      <li>AUX: було, була, були, був</li>
-      <li>AUX-Fin: було, була, були, був</li>
-      <li>VERB: хотів, мали, було, говорили, сказав, була, мала, почули, проголосували, просив</li>
-      <li>VERB-Conv: прийнявши, голосувавши, запровадивши, охопивши, прочитавши, розглянувши</li>
-      <li>VERB-Fin: хотів, мали, було, говорили, сказав, була, мала, почули, проголосували, просив</li>
+      <li>AUX: було, були, була, був</li>
+      <li>AUX-Fin: було, були, була, був</li>
+      <li>VERB-Conv: прийнявши, узгодивши, передбачивши, Вислухавши, висловивши, врахувавши, відмовившись, голосувавши, зайнявши, зайшовши</li>
+      <li>VERB-Fin: хотів, було, сказав, відбулися, мали, просив, прийняли, могли, була, говорили</li>
     </ul>
   </li>
 </ul>
@@ -592,10 +604,11 @@ Syntactic annotation of the corpus is implemented on the basis of UD_Ukrainian-I
 <ul>
   <li>Pres
     <ul>
-      <li>ADJ-Part: виконуючий, діючий, керуючими, блокуючих, виконуючого, головуючий</li>
-      <li>AUX-Fin: є</li>
-      <li>VERB-Conv: враховуючи, виходячи, кажучи, користуючись, розуміючи, керуючись, порушуючи, починаючи, використовуючи, зважаючи</li>
-      <li>VERB-Fin: дякую, прошу, є, хочу, маємо, надається, ставлю, має, думаю, може</li>
+      <li>ADJ-Part: діючий, виконуючий, головуючий, керуючими, контролюючих, підбурюючих, Перевіряючих, блокуючих, виконуючого, виступаючий</li>
+      <li>AUX-Fin: є, буває</li>
+      <li>NOUN: виступаючих</li>
+      <li>VERB-Conv: враховуючи, виходячи, зважаючи, керуючись, починаючи, кажучи, користуючись, розуміючи, використовуючи, маючи</li>
+      <li>VERB-Fin: дякую, прошу, є, хочу, маємо, має, думаю, може, ставлю, надається</li>
     </ul>
   </li>
 </ul>
@@ -607,7 +620,7 @@ Syntactic annotation of the corpus is implemented on the basis of UD_Ukrainian-I
 <ul>
   <li>Act
     <ul>
-      <li>ADJ-Part: минулого, виконуючий, діючий, керуючими, блокуючих, виконуючого, виступаючі, головуючий, діючій, керуюча</li>
+      <li>ADJ-Part: минулого, існуючої, діючий, виконуючий, виступаючий, виступаючого, головуючий, діюча, діючої, діючі</li>
     </ul>
   </li>
 </ul>
@@ -615,7 +628,7 @@ Syntactic annotation of the corpus is implemented on the basis of UD_Ukrainian-I
 <ul>
   <li>Pass
     <ul>
-      <li>ADJ-Part: скороченою, даний, прийнятий, відхилена, впевнений, передбачені, Об'єднаних, внесений, даного, переконаний</li>
+      <li>ADJ-Part: даний, скороченою, прийнятий, передбачені, переконаний, прийнята, прийняті, внесений, впевнений, відхилена</li>
     </ul>
   </li>
 </ul>
@@ -631,9 +644,18 @@ Syntactic annotation of the corpus is implemented on the basis of UD_Ukrainian-I
 <ul>
   <li>Dem
     <ul>
-      <li>ADV: зараз, так, тут, там, тоді, потім, тепер, туди, тому, досі</li>
-      <li>DET: цього, цей, цю, це, ця, цієї, ці, ті, цьому, тих</li>
-      <li>PRON: це, те, того, цього, тим, тому, цим, цьому, такого, оце</li>
+      <li>ADV: зараз, так, тут, тому, тоді, там, потім, тепер, туди, сюди</li>
+      <li>DET: цього, цей, цю, ці, це, цієї, тих, ті, цьому, ця</li>
+      <li>PRON: це, того, те, цього, тим, тому, цим, цьому, такими, тих</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Emp
+    <ul>
+      <li>DET: самі, самого, сама, самим, самих, сам, самий, саме, самими, само</li>
+      <li>PRON: сама, самі</li>
     </ul>
   </li>
 </ul>
@@ -641,9 +663,9 @@ Syntactic annotation of the corpus is implemented on the basis of UD_Ukrainian-I
 <ul>
   <li>Ind
     <ul>
-      <li>ADV: десь, іноді, якось, дещо, колись, кудись, чомусь, інколи</li>
-      <li>DET: інших, багато, інші, деяких, один, якісь, інший, кілька, якийсь, іншими</li>
-      <li>PRON: хтось, щось, інше, декого, дехто, когось, чого, чогось, іншого</li>
+      <li>ADV: десь, якось, інакше, іноді, чомусь, дещо, кудись, колись, інколи</li>
+      <li>DET: інших, інші, багато, деяких, якісь, інший, іншого, одного, іншими, будь-які</li>
+      <li>PRON: хтось, щось, інше, дехто, когось, іншого, будь-кого, декого, один, одне</li>
     </ul>
   </li>
 </ul>
@@ -651,9 +673,9 @@ Syntactic annotation of the corpus is implemented on the basis of UD_Ukrainian-I
 <ul>
   <li>Int
     <ul>
-      <li>ADV: чому, як, де, навіщо</li>
-      <li>DET: Скільки, Якого, Які, яким</li>
-      <li>PRON: що, хто, Чим</li>
+      <li>ADV: чому, як, де, навіщо, чого, коли, Скільки</li>
+      <li>DET: які, Яка, Скільки, Якого, яке, яким</li>
+      <li>PRON: що, хто, Кому, Чим, чого</li>
     </ul>
   </li>
 </ul>
@@ -661,9 +683,9 @@ Syntactic annotation of the corpus is implemented on the basis of UD_Ukrainian-I
 <ul>
   <li>Neg
     <ul>
-      <li>ADV: ніколи, нікуди</li>
-      <li>DET: жодного, жодної, ніяких, жоден, жодна, жодним, жодному, жодній, ніякий, ніякої</li>
-      <li>PRON: ніхто, нічого, нікому, Нічим, ніким, нікого</li>
+      <li>ADV: ніколи, ніяк, ніде, нікуди</li>
+      <li>DET: жодного, жодної, ніяких, жоден, жодних, жодному, ніякого, ніякої, жодна, жодним</li>
+      <li>PRON: нічого, ніхто, нікому, нікого, нічим, ні, ніким, нічому, ніщо</li>
     </ul>
   </li>
 </ul>
@@ -671,8 +693,17 @@ Syntactic annotation of the corpus is implemented on the basis of UD_Ukrainian-I
 <ul>
   <li>Prs
     <ul>
-      <li>DET: нашої, свої, наших, своїх, його, наша, наш, нашу, наші, нашого</li>
-      <li>PRON: ми, я, ви, нас, вони, нам, він, вас, його, вона</li>
+      <li>DET: наша, нашої, наших, свої, наші, його, наш, свою, своїх, нашу</li>
+      <li>PRON: ми, я, ви, нас, вони, вас, нам, він, вам, їх</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Rcp
+    <ul>
+      <li>DET: одне, один, одного</li>
+      <li>PRON: один, одного, одному</li>
     </ul>
   </li>
 </ul>
@@ -680,10 +711,10 @@ Syntactic annotation of the corpus is implemented on the basis of UD_Ukrainian-I
 <ul>
   <li>Rel
     <ul>
-      <li>ADV: де, як, чому, коли, куди, поки, звідки, скільки</li>
-      <li>DET: які, який, яка, яку, яких, яке, якому, якої, яким, якого</li>
-      <li>PRON: хто, що, яка, ким, кого, чим, чого, яку, якої, кому</li>
-      <li>SCONJ: коли, як, поки, що, чим</li>
+      <li>ADV: де, як, коли, чому, куди, звідки, поки, скільки</li>
+      <li>DET: які, який, яка, яку, яких, яке, якої, яким, якому, якого</li>
+      <li>PRON: що, хто, які, який, яка, яке, яку, чого, кого, яких</li>
+      <li>SCONJ: коли, як, поки, що, чим, доки</li>
     </ul>
   </li>
 </ul>
@@ -691,9 +722,9 @@ Syntactic annotation of the corpus is implemented on the basis of UD_Ukrainian-I
 <ul>
   <li>Tot
     <ul>
-      <li>ADV: завжди</li>
-      <li>DET: всі, всіх, всім, кожного, усіх, все, весь, вся, кожен, усіма</li>
-      <li>PRON: все, всім, всі, всіх</li>
+      <li>ADV: завжди, скрізь, всюди</li>
+      <li>DET: всі, всіх, все, весь, вся, усіх, кожного, кожен, всім, кожному</li>
+      <li>PRON: все, всі, всім, всіх, весь, всіма, кожен, кожного, усім</li>
     </ul>
   </li>
 </ul>
@@ -705,9 +736,9 @@ Syntactic annotation of the corpus is implemented on the basis of UD_Ukrainian-I
 <ul>
   <li>Card
     <ul>
-      <li>DET: багато, кілька, багатьох, декілька, декількох, багатьом, кількох, одними, однієї, стільки</li>
-      <li>NOUN: тисяч, мільярдів, мільйонів, тисячі, мільярди, мільярда, мільйона, мільйони, нуль, одне</li>
-      <li>NUM: два, один, 3, двох, три, 100, 2, одну, 6528, одне</li>
+      <li>DET: багато, декілька, кілька, багатьох, скільки, декількох, кількох, один, багатьом, скількох</li>
+      <li>NOUN: тисяч, мільйонів, мільярдів, тисячі, мільйона, мільйони, млн., мільярди, мільярда, тис.</li>
+      <li>NUM: два, один, 3, три, одну, 5, 20, 1, двох, 15</li>
     </ul>
   </li>
 </ul>
@@ -715,8 +746,8 @@ Syntactic annotation of the corpus is implemented on the basis of UD_Ukrainian-I
 <ul>
   <li>Ord
     <ul>
-      <li>ADJ: друге, першому, першу, 1, другого, другому, першої, 2021, 3, 2022</li>
-      <li>NOUN: друге, перше, Четверте, третє</li>
+      <li>ADJ: першому, 1, 2004, друге, першу, другий, перший, другого, другому, першого</li>
+      <li>NOUN: друге, третє, Четверте, перше, П'яте, шоста</li>
     </ul>
   </li>
 </ul>
@@ -728,7 +759,7 @@ Syntactic annotation of the corpus is implemented on the basis of UD_Ukrainian-I
 <ul>
   <li>Yes
     <ul>
-      <li>DET: нашої, свої, наших, своїх, наша, його, наш, нашу, наші, нашого</li>
+      <li>DET: наша, нашої, наших, свої, наші, його, наш, свою, своїх, нашу</li>
     </ul>
   </li>
 </ul>
@@ -740,12 +771,11 @@ Syntactic annotation of the corpus is implemented on the basis of UD_Ukrainian-I
 <ul>
   <li>Yes
     <ul>
-      <li>DET: свої, своїх, свою, своєму, свого, своїй, своїм, самі, своєї, сама</li>
-      <li>PRON: себе, собі, собою, сама</li>
-      <li>VERB: надається, пропонується, відбувається, звернутися, стосується, здається, стосуються, записатися, відбуваються, звертаюсь</li>
-      <li>VERB-Conv: користуючись, керуючись, Готуючись, базуючись, дивлячись, звертаючись, користаючись, повертаючись, Ґрунтуючись</li>
-      <li>VERB-Fin: надається, пропонується, відбувається, стосується, здається, стосуються, відбуваються, звертаюсь, розглядається, сталося</li>
-      <li>VERB-Inf: звернутися, записатися, визначитися, займатися, повернутися, розглядатися, розібратися, визначатись, визначатися, приготуватись</li>
+      <li>DET: свої, свою, своїх, свого, своє, своєму, свій, своїми, своїй, своєї</li>
+      <li>PRON: себе, собі, собою</li>
+      <li>VERB-Conv: керуючись, користуючись, дивлячись, Готуючись, базуючись, відмовившись, звертаючись, користаючись, повертаючись, пославшись</li>
+      <li>VERB-Fin: надається, стосується, відбувається, пропонується, відбулися, запишіться, здається, заспокойтеся, відбуваються, записалися</li>
+      <li>VERB-Inf: звернутися, підготуватися, ставитися, записатися, займатися, розібратися, визначатися, визначитися, повернутися, розглядатися</li>
     </ul>
   </li>
 </ul>
@@ -757,7 +787,7 @@ Syntactic annotation of the corpus is implemented on the basis of UD_Ukrainian-I
 <ul>
   <li>0
     <ul>
-      <li>VERB-Fin: прийнято, зареєстровано, визначено, відхилено, проведено, зроблено, надано, передбачено, створено, внесено</li>
+      <li>VERB-Fin: прийнято, визначено, зареєстровано, створено, вичерпано, завершено, затверджено, написано, передбачено, проведено</li>
     </ul>
   </li>
 </ul>
@@ -766,9 +796,9 @@ Syntactic annotation of the corpus is implemented on the basis of UD_Ukrainian-I
   <li>1
     <ul>
       <li>AUX-Fin: будемо, буду, будем</li>
-      <li>DET: нашої, наших, наша, наш, нашу, нашого, наші, нашій, наше, нашим</li>
+      <li>DET: наша, нашої, наших, наші, наш, нашу, нашого, нашій, наше, нашими</li>
       <li>PRON: ми, я, нас, нам, мене, мені, нами, мною</li>
-      <li>VERB-Fin: дякую, прошу, хочу, маємо, ставлю, думаю, переходимо, розумію, запрошую, можемо</li>
+      <li>VERB-Fin: дякую, прошу, хочу, маємо, думаю, ставлю, можемо, переходимо, пропоную, розумію</li>
     </ul>
   </li>
 </ul>
@@ -776,10 +806,10 @@ Syntactic annotation of the corpus is implemented on the basis of UD_Ukrainian-I
 <ul>
   <li>2
     <ul>
-      <li>AUX-Fin: будете</li>
-      <li>DET: вашого, ваші, ваших, вашу, ваш, ваша, ваше, вашому, вашої</li>
-      <li>PRON: ви, вас, вам, вами</li>
-      <li>VERB-Fin: будь, давайте, включіть, наполягаєте, знаєте, дайте, покажіть, подивіться, хочете, зверніть</li>
+      <li>AUX-Fin: будете, будь</li>
+      <li>DET: вашу, вашого, ваші, вашої, ваших, ваша, ваше, ваш, вашими, вашому</li>
+      <li>PRON: ви, вас, вам, вами, тебе, тобі</li>
+      <li>VERB-Fin: будь, давайте, знаєте, включіть, наполягаєте, дайте, запишіться, заспокойтеся, хочете, скажіть</li>
     </ul>
   </li>
 </ul>
@@ -787,14 +817,26 @@ Syntactic annotation of the corpus is implemented on the basis of UD_Ukrainian-I
 <ul>
   <li>3
     <ul>
-      <li>AUX-Fin: буде, є, будуть</li>
-      <li>DET: його, їх, її, їхні, їхніми, їхню, їхнє, їхнім, їхніх</li>
-      <li>PRON: вони, він, його, вона, їх, її, них, їм, нього, нею</li>
-      <li>VERB-Fin: є, надається, має, може, наполягає, пропонується, мають, відбувається, хоче, говорять</li>
+      <li>AUX-Fin: буде, є, будуть, буває</li>
+      <li>DET: його, їх, її, їхні, їхнього, їхнім, їхніми, їхніх, їхньої, їхню</li>
+      <li>PRON: вони, він, їх, вона, його, її, них, їм, воно, нього</li>
+      <li>VERB-Fin: є, має, може, надається, стосується, мають, відбувається, немає, можуть, буде</li>
     </ul>
   </li>
 </ul>
 
+<ul>
+  <li><a>Polite</a></li>
+</ul>
+
+<ul>
+  <li>Form
+    <ul>
+      <li>DET: вашої, вашу, ваше, ваші, ваша, вашими, ваших, Вашого, ваш</li>
+      <li>PRON: ви, вас, вам, вами</li>
+    </ul>
+  </li>
+</ul>
 
 
 
@@ -806,9 +848,10 @@ Syntactic annotation of the corpus is implemented on the basis of UD_Ukrainian-I
     <ul>
       <li>Yes
         <ul>
-          <li>NOUN: ОСББ, ТСК, га, ДОЗу, ЖКП, ЖКС, ОСГ, ОТГ, РРО, ФОП</li>
-          <li>NUM: тис.</li>
-          <li>PROPN: НАТО, ДНР, ЛНР, ООН, УДАР, РНБО, ЄРДР, ЄС, ВАКСом, КМУ</li>
+          <li>ADJ: Обл</li>
+          <li>NOUN: ЦВК, МЗС, млн., ЗМІ, тис., МВС, ОСББ, ТСК, ВАТ, ВВП</li>
+          <li>NUM: млн., тис.</li>
+          <li>PROPN: НДП, НАТО, РНБО, СПУ, СДПУ(о), ООН, РФ, ДНР, ЛНР, ОБСЄ</li>
         </ul>
       </li>
     </ul>
@@ -820,7 +863,7 @@ Syntactic annotation of the corpus is implemented on the basis of UD_Ukrainian-I
     <ul>
       <li>Inan
         <ul>
-          <li>NOUN: бджоли</li>
+          <li>NOUN: президенти, бджоли, депутати</li>
         </ul>
       </li>
     </ul>
@@ -832,16 +875,93 @@ Syntactic annotation of the corpus is implemented on the basis of UD_Ukrainian-I
     <ul>
       <li>Yes
         <ul>
-          <li>ADJ: виконуючий, виступаючі, діючий, керуючими, поправочним, ХХI, блокуюча, блокуючих, виконуючого, всеохоплюючі</li>
-          <li>ADJ-Part: виконуючий, діючий, керуючими, блокуючих, виконуючого, виступаючі, головуючий, діючій, керуюча, обгрунтовані</li>
-          <li>ADV: Притому, даже, просто-напросто</li>
-          <li>DET: їх</li>
-          <li>NOUN: головуючий, діджиталізація, авось, виступаючий, вождізм, воєнкомати, головнокомандуючий, головнокомандуючого, головотяпству, головуючого</li>
+          <li>ADJ: існуючої, діючий, виконуючий, виступаючий, виступаючого, виступаючі, головуючий, діюча, діючої, діючі</li>
+          <li>ADJ-Part: існуючої, діючий, виконуючий, виступаючий, виступаючого, головуючий, діюча, діючої, діючі, керуючими</li>
+          <li>ADP: довколо, ради</li>
+          <li>ADV: зараннє, Притому, Хорошо, даже, декілька, наврядчи, невзмозі, просто-напросто, также</li>
+          <li>DET: їх, цим, деяким, іншим</li>
+          <li>INTJ: да</li>
+          <li>NOUN: головуючий, грунтів, млн., абзацам, доставки, діджиталізація, пропозиціям, підгрунтя, співтовариство, ігр</li>
+          <li>NUM: млн., 12-ти, 14-ти, 17-ти, 17-ть, 336-ма, 395-ти, півтора</li>
           <li>PART: да</li>
-          <li>PRON: їх</li>
+          <li>PRON: їх, вас</li>
+          <li>PROPN: Матвієнко</li>
           <li>SCONJ: поскільки</li>
-          <li>VERB-Fin: причитайте, протирічать, протирічить, співпадає</li>
-          <li>VERB-Inf: відслідкувати, задіяти</li>
+          <li>VERB-Fin: пов'язано, Відслідковується, викликано, задіяно, касається, причитайте, протирічать, протирічить, співпадає, установлюються</li>
+          <li>VERB-Inf: задіяти, відслідкувати, розстроювати</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>ExtPos</a>
+    <ul>
+      <li>ADJ
+        <ul>
+          <li>ADV: так</li>
+        </ul>
+      </li>
+      <li>ADP
+        <ul>
+          <li>ADP: у, з, під, в, на, по, Згідно, відповідно, крім, поруч</li>
+          <li>ADV: відповідно, згідно, поряд, незважаючи, разом, спільно</li>
+          <li>PRON: що</li>
+          <li>VERB-Conv: починаючи</li>
+        </ul>
+      </li>
+      <li>ADV
+        <ul>
+          <li>ADP: в, у</li>
+          <li>ADV: так, поки, перш, більш, знову, більше, все, ще, врешті, навряд</li>
+          <li>CCONJ: і</li>
+          <li>DET: таким, один, тим</li>
+          <li>PART: все, хоча, так, тільки, вряд, всього, не</li>
+          <li>PRON: все, сама, тим</li>
+          <li>X: ad</li>
+        </ul>
+      </li>
+      <li>CCONJ
+        <ul>
+          <li>ADV: так</li>
+          <li>CCONJ: а, але, так, чи, та</li>
+          <li>PART: не, чи</li>
+          <li>PRON: тим</li>
+        </ul>
+      </li>
+      <li>DET
+        <ul>
+          <li>DET: такий, ті, сама, свого, тих</li>
+          <li>NUM: одну</li>
+          <li>PRON: Що, ніщо</li>
+        </ul>
+      </li>
+      <li>INTJ
+        <ul>
+          <li>NOUN: Слава</li>
+          <li>PRON: їй</li>
+          <li>VERB-Fin: будь</li>
+        </ul>
+      </li>
+      <li>PART
+        <ul>
+          <li>PART: чи, все, Так</li>
+        </ul>
+      </li>
+      <li>PRON
+        <ul>
+          <li>ADV: де</li>
+          <li>DET: одне, один</li>
+          <li>PRON: один</li>
+        </ul>
+      </li>
+      <li>SCONJ
+        <ul>
+          <li>ADP: для</li>
+          <li>ADV: тому, так, перш</li>
+          <li>PRON: Тим</li>
+          <li>SCONJ: хоча</li>
         </ul>
       </li>
     </ul>
@@ -853,7 +973,7 @@ Syntactic annotation of the corpus is implemented on the basis of UD_Ukrainian-I
     <ul>
       <li>Yes
         <ul>
-          <li>X: COVID, hoc, на, русском, ad, from, you, бацька, будете, вы</li>
+          <li>X: COVID, hoc, на, русском, from, you, бацька, будете, веревку, вы</li>
         </ul>
       </li>
     </ul>
@@ -865,10 +985,11 @@ Syntactic annotation of the corpus is implemented on the basis of UD_Ukrainian-I
     <ul>
       <li>Ind
         <ul>
+          <li>ADJ: буре</li>
           <li>DET: його, її, їх</li>
-          <li>NOUN: євро, пані, ОСББ, ТСК, півмільйона, вето, га, ЖКП, Міноборони, ОТГ</li>
+          <li>NOUN: ЦВК, МЗС, табло, євро, вето, ЗМІ, пані, МВС, Мінекоресурсів, ОСББ</li>
           <li>PRON: їх, його, її</li>
-          <li>PROPN: Совсун, Геращенко, НАТО, Тимошенко, Білозір, ДНР, ЛНР, Констанкевич, ООН, Попеску</li>
+          <li>PROPN: Тимошенко, НДП, НАТО, РНБО, СПУ, СДПУ(о), Совсун, Геращенко, ООН, Іоффе</li>
         </ul>
       </li>
     </ul>
@@ -880,22 +1001,48 @@ Syntactic annotation of the corpus is implemented on the basis of UD_Ukrainian-I
     <ul>
       <li>Geo
         <ul>
-          <li>PROPN: України, Україні, Криму, Україна, Україну, Росії, Крим, Україною, Києві, Росія</li>
+          <li>PROPN: України, Україні, Україна, Криму, Росії, Україну, Крим, Києві, Росія, Тузла</li>
         </ul>
       </li>
       <li>Giv
         <ul>
-          <li>PROPN: Олександр, Михайло, Сергій, Григорій, Володимире, Нестор, Олег, Іван, Володимир, Олександру</li>
+          <li>PROPN: Володимире, Олександр, Володимир, Михайло, Сергій, Микола, Іван, Петро, Олександре, Юрій</li>
         </ul>
       </li>
       <li>Pat
         <ul>
-          <li>PROPN: Івановичу, Віталійович, Михайловичу, Іванович, Сергійович, Миколайович, Віталійовичу, Олексійович, Євгенович, Володимирович</li>
+          <li>PROPN: Михайловичу, Іванович, Миколайович, Валентиновичу, Івановичу, Сергійович, Віталійович, Михайлович, Олексійович, Івановича</li>
         </ul>
       </li>
       <li>Sur
         <ul>
-          <li>PROPN: Іванович, Цимбалюк, Михайлович, Мамка, Крулько, Совсун, Бакунець, Железняк, Зеленського, Януковича</li>
+          <li>PROPN: Симоненко, Тимошенко, Цимбалюк, Михайлович, Януковича, Рудьковський, Кармазін, Ющенка, Мамка, Пинзеник</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>Orth</a>
+    <ul>
+      <li>Alt
+        <ul>
+          <li>PROPN: Бєларусь</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>Style</a>
+    <ul>
+      <li>Arch
+        <ul>
+          <li>ADV: дальше</li>
+          <li>DET: сих</li>
+          <li>VERB-Inf: одправити</li>
         </ul>
       </li>
     </ul>
@@ -907,13 +1054,18 @@ Syntactic annotation of the corpus is implemented on the basis of UD_Ukrainian-I
     <ul>
       <li>Yes
         <ul>
-          <li>ADJ: державної, народний, природній, сильнодіючим, старим, сшита</li>
-          <li>ADJ-Part: сшита</li>
-          <li>ADV: пилко</li>
-          <li>DET: всім, багатьом, деяким, тот, яким, іншим</li>
-          <li>NOUN: напрямкам, Голову, депутат, депутати, категоріям, країни, нормам, пана, патроната, поправкам</li>
-          <li>PROPN: Железняк, Руслана, Стефанчука</li>
-          <li>VERB-Fin: находимося, повстало, позбавлено</li>
+          <li>ADJ: не, державної, з, здійсненним, неправовий, останнє, природній, рішучій, сильнодіючим, старим</li>
+          <li>ADJ-Part: з, здійсненним, не, сшита</li>
+          <li>ADP: в, збоку, у, з, за</li>
+          <li>ADV: в, вцілому, неможна, пилко, потрібно</li>
+          <li>DET: всім, Наш, багатьом, будь, деяким, ніякою, таке, тот, яким, якість</li>
+          <li>NOUN: напрямкам, не, уособлення, Голову, Держжитлокомунгос, Мінюсті, НКРЄ, Стрижнем, депутати, категоріям</li>
+          <li>PRON: ні, яке</li>
+          <li>PROPN: Бандурко, Володимиру, Железняк, Мукачево, Ображіївкі, Піхоті, Руслана, Стефанчука, Челомбітко, Ющенко</li>
+          <li>PUNCT: ., ...</li>
+          <li>SCONJ: як</li>
+          <li>VERB-Fin: з'ясувало, залежить, зареєстровано, находимося, повстало, позбавлено, почались</li>
+          <li>X: проте</li>
         </ul>
       </li>
     </ul>
@@ -928,6 +1080,7 @@ Syntactic annotation of the corpus is implemented on the basis of UD_Ukrainian-I
           <li>ADJ: бла-бла-бла</li>
           <li>ADV: треба</li>
           <li>NUM: пів</li>
+          <li>PROPN: Уілті</li>
         </ul>
       </li>
     </ul>
@@ -939,7 +1092,7 @@ Syntactic annotation of the corpus is implemented on the basis of UD_Ukrainian-I
 <h3>Auxiliary Verbs and Copula</h3>
 
 <ul>
-<li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: бути.</li>
+<li>This corpus uses 2 lemmas as copulas (<a>cop</a>). Examples: бути, бувати.</li>
 </ul>
 
 <ul>
@@ -953,18 +1106,17 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN-Nom (13)</li>
-      <li>VERB--PRON-Nom (5)</li>
-      <li>VERB-Fin--NOUN-Acc (9)</li>
-      <li>VERB-Fin--NOUN-Gen (42)</li>
+      <li>VERB-Conv--PRON-Nom (1)</li>
+      <li>VERB-Fin--NOUN-Gen (140)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(до) (1)</li>
+      <li>VERB-Fin--NOUN-Gen-ADP(з) (1)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(понад) (1)</li>
-      <li>VERB-Fin--NOUN-Nom (896)</li>
-      <li>VERB-Fin--PRON-Acc (3)</li>
-      <li>VERB-Fin--PRON-Gen (5)</li>
-      <li>VERB-Fin--PRON-Nom (1180)</li>
-      <li>VERB-Inf--NOUN-Nom (47)</li>
-      <li>VERB-Inf--PRON-Nom (58)</li>
+      <li>VERB-Fin--NOUN-Nom (1833)</li>
+      <li>VERB-Fin--PRON-Gen (15)</li>
+      <li>VERB-Fin--PRON-Nom (2696)</li>
+      <li>VERB-Inf--NOUN-Gen (1)</li>
+      <li>VERB-Inf--NOUN-Nom (89)</li>
+      <li>VERB-Inf--PRON-Nom (110)</li>
     </ul>
   </li>
 </ul>
@@ -972,29 +1124,30 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN-Acc (9)</li>
-      <li>VERB--PRON-Acc (2)</li>
-      <li>VERB-Conv--NOUN-Acc (28)</li>
-      <li>VERB-Conv--NOUN-Gen (1)</li>
-      <li>VERB-Conv--PRON-Acc (4)</li>
-      <li>VERB-Fin--NOUN-Acc (908)</li>
+      <li>VERB-Conv--NOUN-Acc (63)</li>
+      <li>VERB-Conv--NOUN-Gen (5)</li>
+      <li>VERB-Conv--PRON-Acc (9)</li>
+      <li>VERB-Fin--NOUN-Acc (1794)</li>
       <li>VERB-Fin--NOUN-Dat (2)</li>
-      <li>VERB-Fin--NOUN-Gen (130)</li>
+      <li>VERB-Fin--NOUN-Dat-ADP(в) (1)</li>
+      <li>VERB-Fin--NOUN-Gen (299)</li>
+      <li>VERB-Fin--NOUN-Gen-ADP(близько) (1)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(плюс) (1)</li>
-      <li>VERB-Fin--NOUN-Nom (15)</li>
-      <li>VERB-Fin--PRON (1)</li>
-      <li>VERB-Fin--PRON-Acc (110)</li>
-      <li>VERB-Fin--PRON-Dat (1)</li>
-      <li>VERB-Fin--PRON-Gen (5)</li>
+      <li>VERB-Fin--NOUN-Loc-ADP(по) (1)</li>
+      <li>VERB-Fin--NOUN-Nom (1)</li>
+      <li>VERB-Fin--PRON-Acc (320)</li>
+      <li>VERB-Fin--PRON-Dat (2)</li>
+      <li>VERB-Fin--PRON-Gen (15)</li>
       <li>VERB-Fin--PRON-Gen-ADP(з) (1)</li>
-      <li>VERB-Fin--PRON-Nom (3)</li>
-      <li>VERB-Inf--NOUN-Acc (720)</li>
-      <li>VERB-Inf--NOUN-Dat (2)</li>
-      <li>VERB-Inf--NOUN-Gen (27)</li>
-      <li>VERB-Inf--NOUN-Nom (4)</li>
-      <li>VERB-Inf--PRON-Acc (82)</li>
+      <li>VERB-Fin--PRON-Nom (1)</li>
+      <li>VERB-Inf--NOUN-Acc (1463)</li>
+      <li>VERB-Inf--NOUN-Acc-ADP(про) (1)</li>
+      <li>VERB-Inf--NOUN-Dat (3)</li>
+      <li>VERB-Inf--NOUN-Gen (72)</li>
+      <li>VERB-Inf--NOUN-Gen-ADP(з) (1)</li>
+      <li>VERB-Inf--PRON-Acc (235)</li>
       <li>VERB-Inf--PRON-Dat (1)</li>
-      <li>VERB-Inf--PRON-Gen (6)</li>
+      <li>VERB-Inf--PRON-Gen (11)</li>
     </ul>
   </li>
 </ul>
@@ -1002,16 +1155,17 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB--NOUN-Dat,Gen (1)</li>
-      <li>VERB--PRON-Dat (1)</li>
-      <li>VERB-Fin--NOUN-Dat (102)</li>
-      <li>VERB-Fin--NOUN-Gen (3)</li>
-      <li>VERB-Fin--NOUN-Ins (3)</li>
-      <li>VERB-Fin--PRON-Dat (89)</li>
-      <li>VERB-Inf--NOUN-Dat (38)</li>
-      <li>VERB-Inf--NOUN-Gen (4)</li>
-      <li>VERB-Inf--NOUN-Ins (5)</li>
-      <li>VERB-Inf--PRON-Dat (26)</li>
+      <li>VERB-Conv--NOUN-Dat (4)</li>
+      <li>VERB-Fin--NOUN-Dat (165)</li>
+      <li>VERB-Fin--NOUN-Dat,Gen (1)</li>
+      <li>VERB-Fin--NOUN-Gen (1)</li>
+      <li>VERB-Fin--NOUN-Ins (8)</li>
+      <li>VERB-Fin--PRON-Dat (180)</li>
+      <li>VERB-Inf--NOUN-Dat (93)</li>
+      <li>VERB-Inf--NOUN-Ins (9)</li>
+      <li>VERB-Inf--PRON-Acc (1)</li>
+      <li>VERB-Inf--PRON-Dat (50)</li>
+      <li>VERB-Inf--PRON-Ins (1)</li>
     </ul>
   </li>
 </ul>
@@ -1021,15 +1175,15 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Verbs with Reflexive Core Objects</h3>
 
 <ul>
-  <li>This corpus contains 9 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: створити собі, уявити собі, баламутити себе, забирати собі, захистити себе, обирати собі, обмежувати себе, поводити себе, провести собі</li>
+  <li>This corpus contains 23 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: поводити себе, вважати себе, обирати собі, уявити собі, дискредитувати себе, створити собі, баламутити себе, вести себе, відчувати себе, відчути себе, дати собі, забирати собі, завалити собі, задати собі, захистити себе, зберегти свою, називати себе, обмежувати себе, обрати собі, оголосити себе, помітити собі, провести собі, ускладнювати себе</li>
     <ul>
-      <li>Out of those, 1 lemmas occurred more than once, but never without a reflexive dependent. Examples: уявити</li>
+      <li>Out of those, 3 lemmas occurred more than once, but never without a reflexive dependent. Examples: поводити, уявити, дискредитувати</li>
     </ul>
 </ul>
 
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 18 relation subtypes: <a>acl:relcl</a>, <a>advmod:det</a>, <a>advmod:emph</a>, <a>advmod:neg</a>, <a>aux:pass</a>, <a>det:numgov</a>, <a>det:nummod</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>flat:range</a>, <a>flat:repeat</a>, <a>flat:title</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a>, <a>nummod:gov</a>, <a>obl:agent</a>, <a>obl:arg</a>, <a>parataxis:rel</a></li>
-<li>The following 4 relation types are not used in this corpus at all: <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>dep</a></li>
+<li>This corpus uses 21 relation subtypes: <a>acl:relcl</a>, <a>advmod:det</a>, <a>advmod:emph</a>, <a>advmod:neg</a>, <a>aux:pass</a>, <a>compound:svc</a>, <a>det:numgov</a>, <a>det:nummod</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>flat:range</a>, <a>flat:repeat</a>, <a>flat:title</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a>, <a>nummod:gov</a>, <a>obl:agent</a>, <a>obl:arg</a>, <a>parataxis:discourse</a>, <a>parataxis:rel</a>, <a>xcomp:pred</a></li>
+<li>The following 2 relation types are not used in this corpus at all: <a>clf</a>, <a>dep</a></li>
 </ul>

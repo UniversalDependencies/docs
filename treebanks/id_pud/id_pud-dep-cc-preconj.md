@@ -27,9 +27,9 @@ The following 4 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 3	dan	dan	CCONJ	_	_	4	cc	_	_
 4	urutan	urut	NOUN	_	Number=Sing	2	conj	_	_
 5	kejadian	jadi	NOUN	_	Number=Sing	4	nmod	_	_
-6	dibahas	bahas	VERB	_	Mood=Ind|Voice=Pass	0	root	_	_
+6	dibahas	bahas	VERB	_	Voice=Pass	0	root	_	_
 7	dengan	dengan	ADP	_	_	8	case:adv	_	_
-8	mendalam	dalam	VERB	_	Mood=Ind|Voice=Act	6	advcl	_	SpaceAfter=No
+8	mendalam	dalam	VERB	_	Voice=Act	6	advcl	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	6	punct	_	_
 
 ~~~
@@ -46,7 +46,7 @@ The following 4 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 3	dalam	dalam	ADP	_	_	5	case	_	_
 4	beberapa	berapa	DET	_	Number=Plur|PronType=Ind	5	det	_	_
 5	bagian	bagi	NOUN	_	Number=Sing	6	obl	_	_
-6	membahas	bahas	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
+6	membahas	bahas	VERB	_	Voice=Act	0	root	_	_
 7	efek	efek	NOUN	_	Number=Sing	6	obj	_	_
 8	kemunduran	mundur	NOUN	_	Number=Sing	7	nmod	_	_
 9	perang	perang	NOUN	_	Number=Sing	8	nmod	_	SpaceAfter=No
@@ -74,14 +74,14 @@ The following 4 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 # visual-style 6 5 cc:preconj	color:blue
 1	Bogd	Bogd	PROPN	_	_	3	nsubj	_	_
 2	Khaan	Khaan	PROPN	_	_	1	flat:name	_	_
-3	mengatakan	kata	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
+3	mengatakan	kata	VERB	_	Voice=Act	0	root	_	_
 4	bahwa	bahwa	SCONJ	_	_	10	mark	_	_
 5	baik	baik	CCONJ	_	_	6	cc:preconj	_	_
 6	Mongolia	Mongolia	PROPN	_	_	10	nsubj:pass	_	_
 7	maupun	maupun	CCONJ	_	_	8	cc	_	_
 8	Tiongkok	Tiongkok	PROPN	_	_	6	conj	_	_
 9	telah	telah	AUX	_	_	10	aux	_	_
-10	diperintah	perintah	VERB	_	Mood=Ind|Voice=Pass	3	ccomp	_	_
+10	diperintah	perintah	VERB	_	Voice=Pass	3	ccomp	_	_
 11	oleh	oleh	ADP	_	_	12	case	_	_
 12	Manchu	Manchu	PROPN	_	_	10	obl:agent	_	_
 13	selama	lama	ADP	_	_	14	case	_	_
@@ -102,7 +102,7 @@ The following 4 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 28	Mongolia	Mongolia	PROPN	_	_	27	nmod	_	_
 29	ke	ke	ADP	_	_	30	case	_	_
 30	Manchu	Manchu	PROPN	_	_	26	nmod	_	_
-31	menjadi	jadi	VERB	_	Mood=Ind|Voice=Act	10	conj	_	_
+31	menjadi	jadi	VERB	_	Voice=Act	10	conj	_	_
 32	tidak	tidak	PART	_	Polarity=Neg	33	advmod	_	_
 33	sah	sah	ADJ	_	_	31	xcomp	_	SpaceAfter=No
 34	.	.	PUNCT	_	_	3	punct	_	_

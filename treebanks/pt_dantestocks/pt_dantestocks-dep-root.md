@@ -32,7 +32,7 @@ The following 11 pairs of parts of speech are connected with `root`: -<tt><a hre
 8	sem	sem	ADP	_	_	9	mark	_	_
 9	parar	parar	VERB	_	VerbForm=Inf	7	advcl	_	SpaceAfter=No
 10	…	…	PUNCT	_	_	7	punct	_	_
-11	#CPIdaPTbras	#CPIdaPTbras	X	_	_	7	parataxis	_	SpaceAfter=No
+11	#CPIdaPTbras	#CPIdaPTbras	X	_	_	7	parataxis	_	_
 
 ~~~
 
@@ -48,7 +48,7 @@ The following 11 pairs of parts of speech are connected with `root`: -<tt><a hre
 3	Gráfico	gráfico	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
 4	–	–	PUNCT	_	_	5	punct	_	_
 5	27-03-2014	27-03-2014	NUM	_	NumType=Card	3	nmod	_	_
-6	http://t.co/9LQg2HCy97	http://t.co/9LQg2HCy97	SYM	_	_	3	parataxis	_	SpaceAfter=No
+6	http://t.co/9LQg2HCy97	http://t.co/9LQg2HCy97	SYM	_	_	3	parataxis	_	_
 
 ~~~
 
@@ -67,7 +67,7 @@ The following 11 pairs of parts of speech are connected with `root`: -<tt><a hre
 6	17,77	17,77	NUM	_	NumType=Card	5	obl	_	_
 7	5'	5'	NUM	_	NumType=Card	6	conj	_	_
 8	e	e	CCONJ	_	_	9	cc	_	_
-9	romper	romper	VERB	_	VerbForm=Inf	4	conj	_	SpaceAfter=No
+9	romper	romper	VERB	_	VerbForm=Inf	4	conj	_	_
 
 ~~~
 

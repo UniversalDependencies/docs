@@ -25,7 +25,7 @@ The following 1 pairs of parts of speech are connected with `orphan`: <tt><a hre
 1	Pada	pada	ADP	_	_	2	case	_	_
 2	tahun	tahun	NOUN	_	Number=Sing	4	obl:tmod	_	_
 3	1912	1912	NUM	_	NumType=Card	2	nummod	_	_
-4	didirikan	diri	VERB	_	Mood=Ind|Voice=Pass	0	root	_	_
+4	didirikan	diri	VERB	_	Voice=Pass	0	root	_	_
 5	perusahaan	usaha	NOUN	_	Number=Sing	4	nsubj:pass	_	_
 6	film	film	NOUN	_	Number=Sing	5	nmod	_	_
 7	pertama	pertama	ADJ	_	NumType=Ord	5	amod	_	_

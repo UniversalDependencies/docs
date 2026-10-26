@@ -66,7 +66,7 @@ The following 7 pairs of parts of speech are connected with `nummod:gov`: <tt><a
 6	gdy	gdy	ADV	adv	_	8	advmod	8:advmod	_
 7	PKP	PKP	PROPN	subst:sg:nom:n:ncol	Case=Nom|Gender=Neut|Number=Sing	8	nsubj	8:nsubj	_
 8	znajdzie	znaleźć	VERB	fin:sg:ter:perf	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	4	acl:relcl	4:acl:relcl	_
-9	co	co	PART	part	_	11	advmod:emph	11:advmod:emph	_
+9	co	co	PART	part	ExtPos=PART	11	advmod:emph	11:advmod:emph	_
 10	najmniej	mało	ADV	adv:sup	Degree=Sup	9	fixed	9:fixed	_
 11	300	300	NUM	num:pl:acc:m1:rec	Animacy=Hum|Case=Acc|Gender=Masc|Number=Plur|NumForm=Digit|NumType=Card	12	nummod:gov	12:nummod:gov	_
 12	chętnych	chętny	ADJ	adj:pl:gen:m1:pos	Animacy=Hum|Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	8	obj	8:obj	_

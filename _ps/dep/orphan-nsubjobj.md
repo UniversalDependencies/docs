@@ -1,12 +1,15 @@
 ---
 layout: relation
 title: 'orphan:nsubjobj'
-redirect_from: "cs/dep/remnant.html"
-shortdef: 'connecting orphaned arguments of elided predicate, particularly the subject as the parent and the object as the child'
+shortdef: 'orphan object depending on orphan subject'
 udver: '2'
 ---
 
 The `orphan:nsubjobj` relation provides information about the relations of the orphaned arguments to the elided predicate. The head of the realtion is the subject of the verb, while the dependent argument is its object.
+
+#### Examples
+~~~ sdparse
+~~~
 
 ~~~ conllu
 # text = مریم لیک او پیتر کتاب لیکي.
@@ -19,4 +22,4 @@ The `orphan:nsubjobj` relation provides information about the relations of the o
 7	.  .  PUNCT  _  _  1  punct  _  Gloss=.|LTranslit=.|Translit=.
 ~~~
 
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:11:23 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:38 CEST -->

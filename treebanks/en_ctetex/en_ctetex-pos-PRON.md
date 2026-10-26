@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_English-CTeTex: POS Tags: `PRON`
 
-There are 1 `PRON` lemmas (6%), 18 `PRON` types (1%) and 83 `PRON` tokens (1%).
-Out of 17 observed tags, the rank of `PRON` is: 11 in number of lemmas, 13 in number of types and 15 in number of tokens.
+There are 18 `PRON` lemmas (1%), 18 `PRON` types (1%) and 83 `PRON` tokens (1%).
+Out of 17 observed tags, the rank of `PRON` is: 12 in number of lemmas, 13 in number of types and 15 in number of tokens.
 
-The 10 most frequent `PRON` lemmas: <em>_</em>
+The 10 most frequent `PRON` lemmas: <em>that, it, there, one, all, which, this, you, i, when</em>
 
 The 10 most frequent `PRON` types:  <em>that, it, there, one, all, which, this, you, I, when</em>
 
-The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="en_ctetex-pos-NOUN.html">NOUN</a></tt> 2649, <tt><a href="en_ctetex-pos-PUNCT.html">PUNCT</a></tt> 1455, <tt><a href="en_ctetex-pos-DET.html">DET</a></tt> 936, <tt><a href="en_ctetex-pos-ADP.html">ADP</a></tt> 781, <tt><a href="en_ctetex-pos-VERB.html">VERB</a></tt> 721, <tt><a href="en_ctetex-pos-ADJ.html">ADJ</a></tt> 647, <tt><a href="en_ctetex-pos-AUX.html">AUX</a></tt> 492, <tt><a href="en_ctetex-pos-NUM.html">NUM</a></tt> 317, <tt><a href="en_ctetex-pos-PROPN.html">PROPN</a></tt> 293, <tt><a href="en_ctetex-pos-CCONJ.html">CCONJ</a></tt> 267, <tt><a href="en_ctetex-pos-ADV.html">ADV</a></tt> 185, <tt><a href="en_ctetex-pos-PART.html">PART</a></tt> 165, <tt><a href="en_ctetex-pos-SCONJ.html">SCONJ</a></tt> 163, <tt><a href="en_ctetex-pos-SYM.html">SYM</a></tt> 98, <tt><a href="en_ctetex-pos-PRON.html">PRON</a></tt> 83, <tt><a href="en_ctetex-pos-X.html">X</a></tt> 17, <tt><a href="en_ctetex-pos-INTJ.html">INTJ</a></tt> 4)
+The 10 most frequent ambiguous lemmas: <em>that</em> (<tt><a href="en_ctetex-pos-PRON.html">PRON</a></tt> 21, <tt><a href="en_ctetex-pos-SCONJ.html">SCONJ</a></tt> 19, <tt><a href="en_ctetex-pos-DET.html">DET</a></tt> 4), <em>it</em> (<tt><a href="en_ctetex-pos-PRON.html">PRON</a></tt> 18, <tt><a href="en_ctetex-pos-NOUN.html">NOUN</a></tt> 1), <em>one</em> (<tt><a href="en_ctetex-pos-NUM.html">NUM</a></tt> 9, <tt><a href="en_ctetex-pos-PRON.html">PRON</a></tt> 7), <em>all</em> (<tt><a href="en_ctetex-pos-DET.html">DET</a></tt> 31, <tt><a href="en_ctetex-pos-PRON.html">PRON</a></tt> 5), <em>which</em> (<tt><a href="en_ctetex-pos-PRON.html">PRON</a></tt> 5, <tt><a href="en_ctetex-pos-DET.html">DET</a></tt> 2), <em>this</em> (<tt><a href="en_ctetex-pos-DET.html">DET</a></tt> 17, <tt><a href="en_ctetex-pos-PRON.html">PRON</a></tt> 4), <em>i</em> (<tt><a href="en_ctetex-pos-ADV.html">ADV</a></tt> 2, <tt><a href="en_ctetex-pos-PRON.html">PRON</a></tt> 2, <tt><a href="en_ctetex-pos-NOUN.html">NOUN</a></tt> 1), <em>when</em> (<tt><a href="en_ctetex-pos-SCONJ.html">SCONJ</a></tt> 34, <tt><a href="en_ctetex-pos-ADV.html">ADV</a></tt> 2, <tt><a href="en_ctetex-pos-PRON.html">PRON</a></tt> 2), <em>any</em> (<tt><a href="en_ctetex-pos-DET.html">DET</a></tt> 16, <tt><a href="en_ctetex-pos-ADV.html">ADV</a></tt> 1, <tt><a href="en_ctetex-pos-PRON.html">PRON</a></tt> 1), <em>each</em> (<tt><a href="en_ctetex-pos-DET.html">DET</a></tt> 9, <tt><a href="en_ctetex-pos-PRON.html">PRON</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>that</em> (<tt><a href="en_ctetex-pos-PRON.html">PRON</a></tt> 21, <tt><a href="en_ctetex-pos-SCONJ.html">SCONJ</a></tt> 19, <tt><a href="en_ctetex-pos-DET.html">DET</a></tt> 4), <em>one</em> (<tt><a href="en_ctetex-pos-NUM.html">NUM</a></tt> 9, <tt><a href="en_ctetex-pos-PRON.html">PRON</a></tt> 7), <em>all</em> (<tt><a href="en_ctetex-pos-DET.html">DET</a></tt> 25, <tt><a href="en_ctetex-pos-PRON.html">PRON</a></tt> 5), <em>which</em> (<tt><a href="en_ctetex-pos-PRON.html">PRON</a></tt> 5, <tt><a href="en_ctetex-pos-DET.html">DET</a></tt> 1), <em>this</em> (<tt><a href="en_ctetex-pos-DET.html">DET</a></tt> 10, <tt><a href="en_ctetex-pos-PRON.html">PRON</a></tt> 1), <em>I</em> (<tt><a href="en_ctetex-pos-ADV.html">ADV</a></tt> 2, <tt><a href="en_ctetex-pos-PRON.html">PRON</a></tt> 2, <tt><a href="en_ctetex-pos-NOUN.html">NOUN</a></tt> 1), <em>when</em> (<tt><a href="en_ctetex-pos-SCONJ.html">SCONJ</a></tt> 15, <tt><a href="en_ctetex-pos-ADV.html">ADV</a></tt> 2, <tt><a href="en_ctetex-pos-PRON.html">PRON</a></tt> 2), <em>any</em> (<tt><a href="en_ctetex-pos-DET.html">DET</a></tt> 15, <tt><a href="en_ctetex-pos-ADV.html">ADV</a></tt> 1, <tt><a href="en_ctetex-pos-PRON.html">PRON</a></tt> 1), <em>each</em> (<tt><a href="en_ctetex-pos-DET.html">DET</a></tt> 6, <tt><a href="en_ctetex-pos-PRON.html">PRON</a></tt> 1), <em>some</em> (<tt><a href="en_ctetex-pos-DET.html">DET</a></tt> 1, <tt><a href="en_ctetex-pos-PRON.html">PRON</a></tt> 1)
 
@@ -55,11 +55,21 @@ The 10 most frequent ambiguous types:  <em>that</em> (<tt><a href="en_ctetex-pos
 
 ## Morphology
 
-The form / lemma ratio of `PRON` is 18.000000 (the average of all parts of speech is 125.235294).
+The form / lemma ratio of `PRON` is 1.000000 (the average of all parts of speech is 1.138503).
 
-The 1st highest number of forms (18) was observed with the lemma “_”: <em>I, all, any, each, he, it, nothing, one, some, that, there, these, they, this, when, which, whichever, you</em>.
+The 1st highest number of forms (1) was observed with the lemma “all”: <em>all</em>.
 
-`PRON` does not occur with any features.
+The 2nd highest number of forms (1) was observed with the lemma “any”: <em>any</em>.
+
+The 3rd highest number of forms (1) was observed with the lemma “each”: <em>each</em>.
+
+`PRON` occurs with 1 features: <tt><a href="en_ctetex-feat-Number.html">Number</a></tt> (1; 1% instances)
+
+`PRON` occurs with 1 feature-value pairs: `Number=Plur`
+
+`PRON` occurs with 2 feature combinations.
+The most frequent feature combination is `_` (82 tokens).
+Examples: <em>that, it, there, one, all, which, this, you, I, when</em>
 
 
 ## Relations

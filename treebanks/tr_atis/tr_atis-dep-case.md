@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1081 nodes (2%) are attached to their parents as `case`.
+996 nodes (2%) are attached to their parents as `case`.
 
-1079 instances of `case` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.16558741905643.
+994 instances of `case` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.17469879518072.
 
-The following 18 pairs of parts of speech are connected with `case`: <tt><a href="tr_atis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_atis-pos-ADP.html">ADP</a></tt> (779; 72% instances), <tt><a href="tr_atis-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_atis-pos-ADP.html">ADP</a></tt> (140; 13% instances), <tt><a href="tr_atis-pos-NUM.html">NUM</a></tt>-<tt><a href="tr_atis-pos-NOUN.html">NOUN</a></tt> (56; 5% instances), <tt><a href="tr_atis-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_atis-pos-ADP.html">ADP</a></tt> (23; 2% instances), <tt><a href="tr_atis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_atis-pos-NOUN.html">NOUN</a></tt> (22; 2% instances), <tt><a href="tr_atis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_atis-pos-ADV.html">ADV</a></tt> (20; 2% instances), <tt><a href="tr_atis-pos-NUM.html">NUM</a></tt>-<tt><a href="tr_atis-pos-ADP.html">ADP</a></tt> (10; 1% instances), <tt><a href="tr_atis-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_atis-pos-CCONJ.html">CCONJ</a></tt> (7; 1% instances), <tt><a href="tr_atis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_atis-pos-CCONJ.html">CCONJ</a></tt> (4; 0% instances), <tt><a href="tr_atis-pos-PRON.html">PRON</a></tt>-<tt><a href="tr_atis-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="tr_atis-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_atis-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="tr_atis-pos-ADV.html">ADV</a></tt>-<tt><a href="tr_atis-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="tr_atis-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_atis-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="tr_atis-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_atis-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="tr_atis-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_atis-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="tr_atis-pos-ADV.html">ADV</a></tt>-<tt><a href="tr_atis-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="tr_atis-pos-DET.html">DET</a></tt>-<tt><a href="tr_atis-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="tr_atis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_atis-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The following 20 pairs of parts of speech are connected with `case`: <tt><a href="tr_atis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_atis-pos-ADP.html">ADP</a></tt> (407; 41% instances), <tt><a href="tr_atis-pos-NUM.html">NUM</a></tt>-<tt><a href="tr_atis-pos-ADP.html">ADP</a></tt> (315; 32% instances), <tt><a href="tr_atis-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_atis-pos-ADP.html">ADP</a></tt> (135; 14% instances), <tt><a href="tr_atis-pos-NUM.html">NUM</a></tt>-<tt><a href="tr_atis-pos-NOUN.html">NOUN</a></tt> (48; 5% instances), <tt><a href="tr_atis-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_atis-pos-ADP.html">ADP</a></tt> (22; 2% instances), <tt><a href="tr_atis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_atis-pos-NOUN.html">NOUN</a></tt> (19; 2% instances), <tt><a href="tr_atis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_atis-pos-ADV.html">ADV</a></tt> (14; 1% instances), <tt><a href="tr_atis-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_atis-pos-CCONJ.html">CCONJ</a></tt> (7; 1% instances), <tt><a href="tr_atis-pos-NUM.html">NUM</a></tt>-<tt><a href="tr_atis-pos-ADV.html">ADV</a></tt> (5; 1% instances), <tt><a href="tr_atis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_atis-pos-CCONJ.html">CCONJ</a></tt> (4; 0% instances), <tt><a href="tr_atis-pos-PRON.html">PRON</a></tt>-<tt><a href="tr_atis-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="tr_atis-pos-ADV.html">ADV</a></tt>-<tt><a href="tr_atis-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="tr_atis-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_atis-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="tr_atis-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_atis-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="tr_atis-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_atis-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="tr_atis-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_atis-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="tr_atis-pos-ADV.html">ADV</a></tt>-<tt><a href="tr_atis-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="tr_atis-pos-DET.html">DET</a></tt>-<tt><a href="tr_atis-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="tr_atis-pos-NUM.html">NUM</a></tt>-<tt><a href="tr_atis-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="tr_atis-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_atis-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -22,13 +22,31 @@ The following 18 pairs of parts of speech are connected with `case`: <tt><a href
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 case	color:blue
-1	yemek	yemek	NOUN	_	Case=Nom|Number=Sing|Person=3	3	nmod	_	_
+1	yemek	yemek	NOUN	_	Case=Nom|Number=Sing	3	nmod	_	_
 2	için	için	ADP	_	_	1	case	_	_
-3	d	d	NOUN	_	Case=Acc|Number=Sing|Person=3	7	nsubj	_	_
-4	s	s	NOUN	_	Case=Acc|Number=Sing|Person=3	3	fixed	_	_
+3	d	d	NOUN	_	Case=Acc|Number=Sing	7	nsubj	_	_
+4	s	s	NOUN	_	Case=Acc|Number=Sing	3	fixed	_	_
 5	ne	ne	ADJ	_	_	7	obj	_	_
-6	anlama	anlam	NOUN	_	Case=Dat|Number=Sing|Person=3	7	compound	_	_
-7	geliyor	gel	VERB	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	anlama	anlam	NOUN	_	Case=Dat|Number=Sing	7	compound	_	_
+7	geliyor	gel	VERB	_	Aspect=Prog|Evident=Fh|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 5 case	color:blue
+1	San	san	PROPN	_	Case=Nom|Number=Sing	3	nmod	_	_
+2	Francisco’dan	francisco	PROPN	_	Case=Abl|Number=Sing	1	flat	_	_
+3	Baltimore'ye	baltimore	PROPN	_	Case=Dat|Number=Sing	7	obl	_	_
+4	747	747	NUM	_	NumType=Card	6	nmod	_	_
+5	ile	ile	ADP	_	_	4	case	_	_
+6	sefer	sefer	NOUN	_	Case=Nom|Number=Sing	7	obj	_	_
+7	yapıyor	yap	VERB	_	Aspect=Prog|Evident=Fh|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	musunuz	mi	AUX	_	Number=Plur|Person=2|PronType=Int|Tense=Pres	7	aux:q	_	_
 
 ~~~
 
@@ -45,26 +63,8 @@ The following 18 pairs of parts of speech are connected with `case`: <tt><a href
 4	23	23	NUM	_	NumType=Card	5	nummod	_	_
 5	Ocak	ocak	PROPN	_	Case=Nom|Number=Sing	7	nmod:tmod	_	_
 6	için	için	ADP	_	_	5	case	_	_
-7	uçuş	uç	NOUN	_	Case=Nom|Number=Sing|Person=3	8	nmod	_	_
-8	bilgileri	bilgi	NOUN	_	Case=Acc|Number=Plur|Person=3	0	root	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 4 case	color:blue
-1	10	10	NUM	_	NumType=Card	8	nmod:tmod	_	_
-2	-	-	PUNCT	_	_	1	punct	_	_
-3	2	2	NUM	_	NumType=Card	1	conj	_	_
-4	arası	ara	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	1	case	_	_
-5	Pittsburgh'tan	pittsburgh	PROPN	_	Case=Abl|Number=Sing	6	nmod	_	_
-6	Baltimore'ye	baltimore	PROPN	_	Case=Dat|Number=Sing	7	obl	_	_
-7	olan	ol	ADJ	_	_	8	acl	_	_
-8	uçuşlar	uç	NOUN	_	Case=Nom|Number=Plur|Person=3	0	root	_	_
+7	uçuş	uçuş	NOUN	_	Case=Nom|Number=Sing	8	nmod	_	_
+8	bilgileri	bilgi	NOUN	_	Case=Acc|Number=Plur	0	root	_	_
 
 ~~~
 

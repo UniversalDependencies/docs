@@ -5,13 +5,13 @@ shortdef: 'marker'
 udver: '2'
 ---
 
-A marker is the word marking a clause as subordinate to another clause. For a [complement clause](naq-dep/xcomp), these are the nominalizer _sa_, the complimentizer _ǃkhaisa_, and the quotative _ti_ . For an [adverbial clause](naq-dep/advcl), the markers are the subordinate conjunctions such as _o_ (clause final) "when, if" and _î_ "so that". For a [relative clause](naq-dep/acl), the marker is the relative subordinate conjunctions _hîa/hina_. The marker is a dependent of the subordinate clause head.
+A marker is the word marking a clause as subordinate to another clause. For a [complement clause](naq-dep/xcomp), these are the nominalizer _sa_, the complementizer _ǃkhaisa_, and the quotative _ti_ . For an [adverbial clause](naq-dep/advcl), the markers are the subordinate conjunctions, such as _o_ (clause final) "when, if" and _î_ "so that". For a [relative clause](naq-dep/acl), the marker is the relative subordinate conjunction _hîa/hina_. The marker is a dependent of the subordinate clause head.
 
 ~~~ sdparse
 Tita ge ǃâu ǁoa Manhattansa ǃoa oa sa . \n I DECL wait unable Manhattan to return NMLZ.OBL .
 mark(oa, sa)
 xcomp(ǃâu, oa)
-mark(return, NMLZ)
+mark(return, NMLZ.OBL)
 xcomp(wait, return)
 ~~~
 
@@ -30,3 +30,4 @@ acl:relcl(tsaoǃoreb, mâ)
 mark(stand, that)
 acl:relcl(ashtray.3M.SG, stand)
 ~~~
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:14 CEST -->

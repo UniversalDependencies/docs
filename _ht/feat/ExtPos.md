@@ -9,7 +9,7 @@ This feature indicates, for the head of a [fixed expression](https://universalde
 the effective UPOS of the full expression when it differs from the UPOS of the word itself.
 Occasionally, `ExtPos` is used even if `ExtPos` = `upos`.
 
-`ExtPos` is used in the [SUD](https://surfacesyntacticud.github.io/) framework.
+`ExtPos` is used in the [SUD](https://surfacesyntacticud.org/) framework.
 It is kept in FEATS in the UD conversion.
 
 ### <a name="CCONJ">`CCONJ`</a>: coordinating conjunction-like expression
@@ -18,4 +18,9 @@ It is kept in FEATS in the UD conversion.
 
 * _de rapò ki di <b>kòm</b> kwa gen 2 sitwayen Ameriken ki disparèt an Ayiti_ "of the report saying that there are two American citizens missing in Haiti"
 
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:40 CET -->
+### <a name="DET">`DET`</a>: determiner-like expression
+
+#### Examples
+* _<b>Nempòt ki</b> desizyon_  any decision
+
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:52 CEST -->

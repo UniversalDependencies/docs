@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-11 nodes (1%) are attached to their parents as `cop`.
+13 nodes (1%) are attached to their parents as `cop`.
 
-11 instances of `cop` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.36363636363636.
+11 instances of `cop` (85%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.46153846153846.
 
-The following 3 pairs of parts of speech are connected with `cop`: <tt><a href="xum_ikuvina-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xum_ikuvina-pos-AUX.html">AUX</a></tt> (8; 73% instances), <tt><a href="xum_ikuvina-pos-PRON.html">PRON</a></tt>-<tt><a href="xum_ikuvina-pos-AUX.html">AUX</a></tt> (2; 18% instances), <tt><a href="xum_ikuvina-pos-ADV.html">ADV</a></tt>-<tt><a href="xum_ikuvina-pos-AUX.html">AUX</a></tt> (1; 9% instances).
+The following 3 pairs of parts of speech are connected with `cop`: <tt><a href="xum_ikuvina-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xum_ikuvina-pos-AUX.html">AUX</a></tt> (10; 77% instances), <tt><a href="xum_ikuvina-pos-PRON.html">PRON</a></tt>-<tt><a href="xum_ikuvina-pos-AUX.html">AUX</a></tt> (2; 15% instances), <tt><a href="xum_ikuvina-pos-ADV.html">ADV</a></tt>-<tt><a href="xum_ikuvina-pos-AUX.html">AUX</a></tt> (1; 8% instances).
 
 
 ~~~ conllu

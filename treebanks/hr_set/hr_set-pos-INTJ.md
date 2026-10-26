@@ -13,7 +13,7 @@ The 10 most frequent `INTJ` lemmas: <em>ma, e, a, ha, hajde, hmmm, o</em>
 
 The 10 most frequent `INTJ` types:  <em>ma, E, Ha, O, hajde, hmmm</em>
 
-The 10 most frequent ambiguous lemmas: <em>ma</em> (<tt><a href="hr_set-pos-INTJ.html">INTJ</a></tt> 5, <tt><a href="hr_set-pos-PART.html">PART</a></tt> 1), <em>e</em> (<tt><a href="hr_set-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="hr_set-pos-X.html">X</a></tt> 1), <em>a</em> (<tt><a href="hr_set-pos-CCONJ.html">CCONJ</a></tt> 921, <tt><a href="hr_set-pos-X.html">X</a></tt> 4, <tt><a href="hr_set-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt> 1), <em>o</em> (<tt><a href="hr_set-pos-ADP.html">ADP</a></tt> 743, <tt><a href="hr_set-pos-INTJ.html">INTJ</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>ma</em> (<tt><a href="hr_set-pos-INTJ.html">INTJ</a></tt> 5, <tt><a href="hr_set-pos-PART.html">PART</a></tt> 1), <em>e</em> (<tt><a href="hr_set-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="hr_set-pos-X.html">X</a></tt> 1), <em>a</em> (<tt><a href="hr_set-pos-CCONJ.html">CCONJ</a></tt> 921, <tt><a href="hr_set-pos-X.html">X</a></tt> 3, <tt><a href="hr_set-pos-ADV.html">ADV</a></tt> 1, <tt><a href="hr_set-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt> 1), <em>o</em> (<tt><a href="hr_set-pos-ADP.html">ADP</a></tt> 743, <tt><a href="hr_set-pos-INTJ.html">INTJ</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>ma</em> (<tt><a href="hr_set-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="hr_set-pos-PART.html">PART</a></tt> 1), <em>E</em> (<tt><a href="hr_set-pos-INTJ.html">INTJ</a></tt> 3, <tt><a href="hr_set-pos-X.html">X</a></tt> 1), <em>O</em> (<tt><a href="hr_set-pos-ADP.html">ADP</a></tt> 10, <tt><a href="hr_set-pos-INTJ.html">INTJ</a></tt> 1)
 
@@ -30,7 +30,7 @@ The 10 most frequent ambiguous types:  <em>ma</em> (<tt><a href="hr_set-pos-INTJ
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 0.857143 (the average of all parts of speech is 1.848309).
+The form / lemma ratio of `INTJ` is 0.857143 (the average of all parts of speech is 1.848266).
 
 The 1st highest number of forms (1) was observed with the lemma “E”: <em>E</em>.
 

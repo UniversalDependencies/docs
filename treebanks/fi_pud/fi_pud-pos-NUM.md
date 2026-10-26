@@ -40,7 +40,7 @@ The 10 most frequent ambiguous types:  <em>yksi</em> (<tt><a href="fi_pud-pos-NU
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.152709 (the average of all parts of speech is 1.526180).
+The form / lemma ratio of `NUM` is 1.152709 (the average of all parts of speech is 1.525677).
 
 The 1st highest number of forms (7) was observed with the lemma “kaksi”: <em>kahden, kahdessa, kahdesta, kahta, kahteen, kaksi, kaksine</em>.
 
@@ -59,9 +59,9 @@ Examples: <em>kaksi, kolme, 10, 3, kahden, yksi, 1492, 2010, 2012, 2014</em>
 
 ## Relations
 
-`NUM` nodes are attached to their parents using 15 different relations: <tt><a href="fi_pud-dep-nummod.html">nummod</a></tt> (311; 80% instances), <tt><a href="fi_pud-dep-compound.html">compound</a></tt> (22; 6% instances), <tt><a href="fi_pud-dep-flat.html">flat</a></tt> (15; 4% instances), <tt><a href="fi_pud-dep-conj.html">conj</a></tt> (8; 2% instances), <tt><a href="fi_pud-dep-nmod.html">nmod</a></tt> (7; 2% instances), <tt><a href="fi_pud-dep-nsubj.html">nsubj</a></tt> (5; 1% instances), <tt><a href="fi_pud-dep-obl.html">obl</a></tt> (5; 1% instances), <tt><a href="fi_pud-dep-nsubj-cop.html">nsubj:cop</a></tt> (3; 1% instances), <tt><a href="fi_pud-dep-appos.html">appos</a></tt> (2; 1% instances), <tt><a href="fi_pud-dep-flat-name.html">flat:name</a></tt> (2; 1% instances), <tt><a href="fi_pud-dep-obj.html">obj</a></tt> (2; 1% instances), <tt><a href="fi_pud-dep-root.html">root</a></tt> (2; 1% instances), <tt><a href="fi_pud-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="fi_pud-dep-compound-nn.html">compound:nn</a></tt> (1; 0% instances), <tt><a href="fi_pud-dep-flat-foreign.html">flat:foreign</a></tt> (1; 0% instances)
+`NUM` nodes are attached to their parents using 14 different relations: <tt><a href="fi_pud-dep-nummod.html">nummod</a></tt> (312; 81% instances), <tt><a href="fi_pud-dep-compound.html">compound</a></tt> (22; 6% instances), <tt><a href="fi_pud-dep-flat.html">flat</a></tt> (15; 4% instances), <tt><a href="fi_pud-dep-conj.html">conj</a></tt> (8; 2% instances), <tt><a href="fi_pud-dep-nmod.html">nmod</a></tt> (7; 2% instances), <tt><a href="fi_pud-dep-nsubj.html">nsubj</a></tt> (5; 1% instances), <tt><a href="fi_pud-dep-obl.html">obl</a></tt> (5; 1% instances), <tt><a href="fi_pud-dep-nsubj-cop.html">nsubj:cop</a></tt> (3; 1% instances), <tt><a href="fi_pud-dep-appos.html">appos</a></tt> (2; 1% instances), <tt><a href="fi_pud-dep-flat-name.html">flat:name</a></tt> (2; 1% instances), <tt><a href="fi_pud-dep-obj.html">obj</a></tt> (2; 1% instances), <tt><a href="fi_pud-dep-root.html">root</a></tt> (2; 1% instances), <tt><a href="fi_pud-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="fi_pud-dep-compound-nn.html">compound:nn</a></tt> (1; 0% instances)
 
-Parents of `NUM` nodes belong to 8 different parts of speech: <tt><a href="fi_pud-pos-NOUN.html">NOUN</a></tt> (305; 79% instances), <tt><a href="fi_pud-pos-NUM.html">NUM</a></tt> (29; 7% instances), <tt><a href="fi_pud-pos-ADJ.html">ADJ</a></tt> (19; 5% instances), <tt><a href="fi_pud-pos-SYM.html">SYM</a></tt> (14; 4% instances), <tt><a href="fi_pud-pos-VERB.html">VERB</a></tt> (14; 4% instances), <tt><a href="fi_pud-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="fi_pud-pos-PROPN.html">PROPN</a></tt> (2; 1% instances),  (2; 1% instances)
+Parents of `NUM` nodes belong to 9 different parts of speech: <tt><a href="fi_pud-pos-NOUN.html">NOUN</a></tt> (304; 79% instances), <tt><a href="fi_pud-pos-NUM.html">NUM</a></tt> (29; 7% instances), <tt><a href="fi_pud-pos-ADJ.html">ADJ</a></tt> (19; 5% instances), <tt><a href="fi_pud-pos-SYM.html">SYM</a></tt> (14; 4% instances), <tt><a href="fi_pud-pos-VERB.html">VERB</a></tt> (14; 4% instances), <tt><a href="fi_pud-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="fi_pud-pos-PROPN.html">PROPN</a></tt> (2; 1% instances),  (2; 1% instances), <tt><a href="fi_pud-pos-X.html">X</a></tt> (1; 0% instances)
 
 296 (76%) `NUM` nodes are leaves.
 

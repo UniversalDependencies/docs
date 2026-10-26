@@ -22,12 +22,12 @@ The following 6 pairs of parts of speech are connected with `advmod:emph`: <tt><
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 3 advmod:emph	color:blue
-1	Tukokna	_	VERB	_	Mood=Irr|Polite=Infm|Voice=Pass	0	root	_	_
-2	buku	_	NOUN	_	Number=Sing	1	obl	_	_
-3	ya	_	PART	_	_	5	advmod:emph	_	_
-4	ora	_	PART	_	Polarity=Neg|Polite=Infm	5	advmod	_	_
-5	diwaca	_	VERB	_	Mood=Ind|Polite=Infm|Voice=Pass	1	advcl	_	SpaceAfter=No
-6	.	_	PUNCT	_	_	1	punct	_	_
+1	Tukokna	tuku	VERB	_	Polite=Infm|Voice=Pass	0	root	_	_
+2	buku	buku	NOUN	_	Number=Sing	1	obl	_	_
+3	ya	ya	PART	_	_	5	advmod:emph	_	_
+4	ora	ora	PART	_	Polarity=Neg|Polite=Infm	5	advmod	_	_
+5	diwaca	waca	VERB	_	Polite=Infm|Voice=Pass	1	advcl	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	1	punct	_	_
 
 ~~~
 
@@ -38,22 +38,22 @@ The following 6 pairs of parts of speech are connected with `advmod:emph`: <tt><
 # visual-style 15	bgColor:blue
 # visual-style 15	fgColor:white
 # visual-style 15 6 advmod:emph	color:blue
-1	Manawa	_	SCONJ	_	Polite=Infm	2	mark	_	_
-2	sasi-sasi	_	VERB	_	Mood=Ind|Polite=Form|Voice=Act	15	advcl	_	_
-3	liya	_	ADJ	_	Polite=Infm	2	amod	_	_
-4	e	_	DET	_	Definite=Def|Polite=Infm|PronType=Art	3	det	_	_
-5	,	_	PUNCT	_	_	2	punct	_	_
-6	ya	_	PART	_	_	15	advmod:emph	_	_
-7	paling	_	ADV	_	_	8	advmod	_	_
-8	banter	_	ADJ	_	_	15	advmod	_	_
-9	[	_	PUNCT	_	_	10	punct	_	SpaceAfter=No
-10	njamas	_	VERB	_	Mood=Ind|Voice=Act	8	appos	_	SpaceAfter=No
-11	]	_	PUNCT	_	_	10	punct	_	_
-12	lima	_	NUM	_	NumType=Card|Polite=Infm	15	nummod	_	_
-13	nganti	_	ADP	_	Polite=Infm	14	case	_	_
-14	10	_	NUM	_	NumType=Card	12	nmod	_	_
-15	pusaka	_	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No
-16	.	_	PUNCT	_	_	15	punct	_	SpacesAfter=\s\n
+1	Manawa	tawa	SCONJ	_	Polite=Infm	2	mark	_	_
+2	sasi-sasi	sasi	VERB	_	Polite=Form|Voice=Act	15	advcl	_	_
+3	liya	liya	ADJ	_	Polite=Infm	2	amod	_	_
+4	e	e	DET	_	Definite=Def|Polite=Infm|PronType=Art	3	det	_	_
+5	,	,	PUNCT	_	_	2	punct	_	_
+6	ya	ya	PART	_	_	15	advmod:emph	_	_
+7	paling	paling	ADV	_	_	8	advmod	_	_
+8	banter	banter	ADJ	_	_	15	advmod	_	_
+9	[	[	PUNCT	_	_	10	punct	_	SpaceAfter=No
+10	njamas	jamas	VERB	_	Voice=Act	8	appos	_	SpaceAfter=No
+11	]	]	PUNCT	_	_	10	punct	_	_
+12	lima	lima	NUM	_	NumType=Card|Polite=Infm	15	nummod	_	_
+13	nganti	nganti	ADP	_	Polite=Infm	14	case	_	_
+14	10	10	NUM	_	NumType=Card	12	nmod	_	_
+15	pusaka	pusaka	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	15	punct	_	SpacesAfter=\s\n
 
 ~~~
 
@@ -64,15 +64,15 @@ The following 6 pairs of parts of speech are connected with `advmod:emph`: <tt><
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 2 advmod:emph	color:blue
-1	Kandhanana	_	VERB	_	Mood=Irr|Polite=Infm|Voice=Pass	0	root	_	_
-2	ya	_	PART	_	_	4	advmod:emph	_	_
-3	ora	_	PART	_	Polarity=Neg|Polite=Infm	4	advmod	_	_
-4	kapok	_	ADJ	_	_	1	advmod	_	SpaceAfter=No
-5	,	_	PUNCT	_	_	7	punct	_	_
-6	dasar	_	INTJ	_	_	7	discourse	_	_
-7	bocah	_	NOUN	_	Number=Sing|Polite=Infm	1	obl	_	_
-8	nakal	_	ADJ	_	_	7	amod	_	SpaceAfter=No
-9	.	_	PUNCT	_	_	1	punct	_	_
+1	Kandhanana	kandha	VERB	_	Polite=Infm|Voice=Pass	0	root	_	_
+2	ya	ya	PART	_	_	4	advmod:emph	_	_
+3	ora	ora	PART	_	Polarity=Neg|Polite=Infm	4	advmod	_	_
+4	kapok	kapok	ADJ	_	_	1	advmod	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	7	punct	_	_
+6	dasar	dasar	INTJ	_	_	7	discourse	_	_
+7	bocah	bocah	NOUN	_	Number=Sing|Polite=Infm	1	obl	_	_
+8	nakal	nakal	ADJ	_	_	7	amod	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	1	punct	_	_
 
 ~~~
 

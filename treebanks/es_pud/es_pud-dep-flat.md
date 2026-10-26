@@ -32,7 +32,7 @@ The following 1 pairs of parts of speech are connected with `flat`: <tt><a href=
 7	de	de	ADP	IN	_	9	case	_	_
 8	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
 9	ley	ley	NOUN	NN	Gender=Fem|Number=Sing	5	nmod	_	_
-10	romana	romano	ADJ	JJ	Gender=Fem|Number=Sing	9	amod	_	SpaceAfter=No|Proper=True
+10	romana	romano	ADJ	JJ	Gender=Fem|Number=Sing	9	amod	_	Proper=True|SpaceAfter=No
 11	,	,	PUNCT	,	PunctType=Comm	13	punct	_	_
 12	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	13	det	_	_
 13	instituciones	institución	NOUN	NN	Gender=Fem|Number=Plur	9	conj	_	_

@@ -30,7 +30,7 @@ The following 1 pairs of parts of speech are connected with `discourse`: <tt><a 
 6	Sony	Sony	PROPN	NNP	Number=Sing	7	compound	7:compound	_
 7	Australia	Australia	PROPN	NNP	Number=Sing	4	nmod	4:nmod:in	_
 8	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	cop	9:cop	_
-9	like	like	ADP	IN	_	0	root	0:root	SpaceAfter=No
+9	like	like	ADP	IN	_	26	ccomp	26:ccomp	SpaceAfter=No
 10	,	,	PUNCT	,	_	9	punct	9:punct	_
 11	'	'	PUNCT	``	_	21	punct	21:punct	SpaceAfter=No
 12	Hey	hey	INTJ	UH	_	21	discourse	21:discourse	SpaceAfter=No
@@ -47,9 +47,9 @@ The following 1 pairs of parts of speech are connected with `discourse`: <tt><a 
 23	?	?	PUNCT	.	_	21	punct	21:punct	SpaceAfter=No
 24	'	'	PUNCT	''	_	21	punct	21:punct	SpaceAfter=No
 25	"	"	PUNCT	''	_	9	punct	9:punct	_
-26	says	say	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	parataxis	9:parataxis	_
+26	says	say	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 27	Pall	Pall	PROPN	NNP	Number=Sing	26	nsubj	26:nsubj	SpaceAfter=No
-28	.	.	PUNCT	.	_	9	punct	9:punct	_
+28	.	.	PUNCT	.	_	26	punct	26:punct	_
 
 ~~~
 

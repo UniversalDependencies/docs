@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal but the values `Conv` are language-specific.
 It occurs with 4 different values: `Conv`, `Fin`, `Inf`, `Part`.
 
-1301 tokens (12%) have a non-empty value of `VerbForm`.
+1298 tokens (12%) have a non-empty value of `VerbForm`.
 738 types (17%) occur at least once with a non-empty value of `VerbForm`.
-485 lemmas (16%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 3 part-of-speech tags: <tt><a href="hsb_ufal-pos-VERB.html">VERB</a></tt> (822; 7% instances), <tt><a href="hsb_ufal-pos-AUX.html">AUX</a></tt> (289; 3% instances), <tt><a href="hsb_ufal-pos-ADJ.html">ADJ</a></tt> (190; 2% instances).
+484 lemmas (16%) occur at least once with a non-empty value of `VerbForm`.
+The feature is used with 3 part-of-speech tags: <tt><a href="hsb_ufal-pos-VERB.html">VERB</a></tt> (818; 7% instances), <tt><a href="hsb_ufal-pos-AUX.html">AUX</a></tt> (288; 3% instances), <tt><a href="hsb_ufal-pos-ADJ.html">ADJ</a></tt> (192; 2% instances).
 
 ### `VERB`
 
-822 <tt><a href="hsb_ufal-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
+818 <tt><a href="hsb_ufal-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="hsb_ufal-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (630; 77%), <tt><a href="hsb_ufal-feat-Person.html">Person</a></tt><tt>=3</tt> (595; 72%), <tt><a href="hsb_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt> (443; 54%), <tt><a href="hsb_ufal-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (440; 54%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="hsb_ufal-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (626; 77%), <tt><a href="hsb_ufal-feat-Person.html">Person</a></tt><tt>=3</tt> (591; 72%), <tt><a href="hsb_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt> (440; 54%), <tt><a href="hsb_ufal-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (438; 54%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
 * `Conv` (6; 1% of non-empty `VerbForm`): <em>dajo, měnjo, prajo, wobsahujo, wothladajo, zjednoćejo</em>
-* `Fin` (642; 78% of non-empty `VerbForm`): <em>ma, leži, móže, wobsahuje, móžeš, su, hlej, maja, rěči, běchu</em>
+* `Fin` (639; 78% of non-empty `VerbForm`): <em>ma, leži, móže, wobsahuje, móžeš, su, hlej, maja, rěči, běchu</em>
 * `Inf` (123; 15% of non-empty `VerbForm`): <em>nastać, měć, pisać, přełožować, wobkedźbować, čitać, dać, definować, dopokazać, kliknyć</em>
-* `Part` (51; 6% of non-empty `VerbForm`): <em>přewzali, wužiwali, započał, změnili, dodźeržała, eksistowali, ilustrował, kontrolowali, ležo, mał</em>
+* `Part` (50; 6% of non-empty `VerbForm`): <em>přewzali, wužiwali, započał, změnili, dodźeržała, eksistowali, ilustrował, kontrolowali, mał, mjenował</em>
 
 <table>
   <tr><th>Paradigm <i>měć</i></th><th><tt>Fin</tt></th><th><tt>Inf</tt></th><th><tt>Part</tt></th></tr>
@@ -45,13 +45,13 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 
 ### `AUX`
 
-289 <tt><a href="hsb_ufal-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `VerbForm`.
+288 <tt><a href="hsb_ufal-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="hsb_ufal-feat-Person.html">Person</a></tt><tt>=3</tt> (283; 98%), <tt><a href="hsb_ufal-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (275; 95%), <tt><a href="hsb_ufal-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (244; 84%), <tt><a href="hsb_ufal-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (194; 67%), <tt><a href="hsb_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt> (185; 64%).
+The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="hsb_ufal-feat-Person.html">Person</a></tt><tt>=3</tt> (282; 98%), <tt><a href="hsb_ufal-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (274; 95%), <tt><a href="hsb_ufal-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (243; 84%), <tt><a href="hsb_ufal-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (194; 67%), <tt><a href="hsb_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt> (184; 64%).
 
 `AUX` tokens may have the following values of `VerbForm`:
 
-* `Fin` (285; 99% of non-empty `VerbForm`): <em>je, su, bu, bě, buchu, by, njeje, njejsu, běchu, buštej</em>
+* `Fin` (284; 99% of non-empty `VerbForm`): <em>je, su, bu, bě, buchu, by, njeje, njejsu, běchu, buštej</em>
 * `Inf` (2; 1% of non-empty `VerbForm`): <em>być</em>
 * `Part` (2; 1% of non-empty `VerbForm`): <em>był, była</em>
 
@@ -81,14 +81,14 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
 
 ### `ADJ`
 
-190 <tt><a href="hsb_ufal-pos-ADJ.html">ADJ</a></tt> tokens (13% of all `ADJ` tokens) have a non-empty value of `VerbForm`.
+192 <tt><a href="hsb_ufal-pos-ADJ.html">ADJ</a></tt> tokens (14% of all `ADJ` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `ADJ` and `VerbForm` co-occurred: <tt><a href="hsb_ufal-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (185; 97%), <tt><a href="hsb_ufal-feat-Voice.html">Voice</a></tt><tt>=Pass</tt> (164; 86%), <tt><a href="hsb_ufal-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (159; 84%), <tt><a href="hsb_ufal-feat-Case.html">Case</a></tt><tt>=Nom</tt> (133; 70%), <tt><a href="hsb_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt> (107; 56%).
+The most frequent other feature values with which `ADJ` and `VerbForm` co-occurred: <tt><a href="hsb_ufal-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (187; 97%), <tt><a href="hsb_ufal-feat-Voice.html">Voice</a></tt><tt>=Pass</tt> (166; 86%), <tt><a href="hsb_ufal-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (157; 82%), <tt><a href="hsb_ufal-feat-Case.html">Case</a></tt><tt>=Nom</tt> (133; 69%), <tt><a href="hsb_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt> (107; 56%).
 
 `ADJ` tokens may have the following values of `VerbForm`:
 
-* `Part` (190; 100% of non-empty `VerbForm`): <em>mjenowany, mjenowanych, namakane, rozdźělene, Zjednoćenych, listowany, mjenowane, natwarjene, pisane, přełožena</em>
-* `EMPTY` (1231): <em>serbski, druhe, druhich, najwjetše, prěni, prěnje, serbskeje, Serbskeho, wulke, wulki</em>
+* `Part` (192; 100% of non-empty `VerbForm`): <em>mj, mjenowany, mjenowanych, namakane, rozdźělene, Zjednoćenych, listowany, mjenowane, natwarjene, pisane</em>
+* `EMPTY` (1227): <em>serbski, druhe, druhich, najwjetše, prěni, prěnje, serbskeje, Serbskeho, wulki, ablawtowych</em>
 
 `VerbForm` seems to be **lexical feature** of `ADJ`. 100% lemmas (132) occur only with one value of `VerbForm`.
 

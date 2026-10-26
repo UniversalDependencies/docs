@@ -13,7 +13,7 @@ This relation is universal.
 3 instances of `mark` (100%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.66666666666667.
 
-The following 3 pairs of parts of speech are connected with `mark`: <tt><a href="ltg_cairo-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ltg_cairo-pos-SCONJ.html">SCONJ</a></tt> (1; 33% instances), <tt><a href="ltg_cairo-pos-VERB.html">VERB</a></tt>-<tt><a href="ltg_cairo-pos-ADV.html">ADV</a></tt> (1; 33% instances), <tt><a href="ltg_cairo-pos-VERB.html">VERB</a></tt>-<tt><a href="ltg_cairo-pos-SCONJ.html">SCONJ</a></tt> (1; 33% instances).
+The following 3 pairs of parts of speech are connected with `mark`: <tt><a href="ltg_cairo-pos-DET.html">DET</a></tt>-<tt><a href="ltg_cairo-pos-SCONJ.html">SCONJ</a></tt> (1; 33% instances), <tt><a href="ltg_cairo-pos-VERB.html">VERB</a></tt>-<tt><a href="ltg_cairo-pos-ADV.html">ADV</a></tt> (1; 33% instances), <tt><a href="ltg_cairo-pos-VERB.html">VERB</a></tt>-<tt><a href="ltg_cairo-pos-SCONJ.html">SCONJ</a></tt> (1; 33% instances).
 
 
 ~~~ conllu
@@ -23,12 +23,12 @@ The following 3 pairs of parts of speech are connected with `mark`: <tt><a href=
 # visual-style 6	fgColor:white
 # visual-style 6 5 mark	color:blue
 1	Muns	muns	DET	ps0msnn	Case=Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	2	det	2:det	LvtbNodeId=a-ltg-Cairo-p8s1w1
-2	tēte	tēte	NOUN	ncmsn5	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	3:nsubj|4:nsubj	LvtbNodeId=a-ltg-Cairo-p8s1w2
-3	ir	byut	VERB	vcnipii30an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-ltg-Cairo-p8s1w3
-4	foršuoks	foršs	ADJ	afmsnnc	Case=Nom|Definite=Ind|Degree=Cmp|Gender=Masc|Number=Sing	3	xcomp	3:xcomp	LvtbNodeId=a-ltg-Cairo-p8s1w4
+2	tēte	tēte	NOUN	ncmsn5	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	4:nsubj	LvtbNodeId=a-ltg-Cairo-p8s1w2
+3	ir	byut	AUX	vcnipii30an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	4:cop	LvtbNodeId=a-ltg-Cairo-p8s1w3
+4	foršuoks	foršs	ADJ	afmsnnc	Case=Nom|Definite=Ind|Degree=Cmp|Gender=Masc|Number=Sing	0	root	0:root	LvtbNodeId=a-ltg-Cairo-p8s1w4
 5	nakai	nakai	SCONJ	cs	_	6	mark	6:mark	LvtbNodeId=a-ltg-Cairo-p8s1w5
-6	tovejais	tovejs	ADJ	armsnyp	Case=Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	3	advcl	3:advcl:nakai	LvtbNodeId=a-ltg-Cairo-p8s1w6|SpaceAfter=No
-7	.	.	PUNCT	zs	_	3	punct	3:punct	LvtbNodeId=a-ltg-Cairo-p8s1w7
+6	tovejais	tovejs	DET	armsnyp	Case=Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing|Person=2|Poss=Yes|PronType=Prs	4	advcl	4:advcl:nakai	LvtbNodeId=a-ltg-Cairo-p8s1w6|SpaceAfter=No
+7	.	.	PUNCT	zs	_	4	punct	4:punct	LvtbNodeId=a-ltg-Cairo-p8s1w7
 
 ~~~
 
@@ -45,7 +45,7 @@ The following 3 pairs of parts of speech are connected with `mark`: <tt><a href=
 4	jam	jis	PRON	pp3msdn	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obl	3:obl:leidza	LvtbNodeId=a-ltg-Cairo-p18s1w4
 5	leidza	leidza	ADV	r0y	_	4	case	4:case	LvtbNodeId=a-ltg-Cairo-p18s1w5|SpaceAfter=No
 6	,	,	PUNCT	zc	_	10	punct	10:punct	LvtbNodeId=a-ltg-Cairo-p18s1w6
-7	partū	partū	ADV	r0n	_	10	mark	10:mark	LvtbNodeId=a-ltg-Cairo-p18s1w7
+7	partū	partū	ADV	r0n	ExtPos=SCONJ	10	mark	10:mark	LvtbNodeId=a-ltg-Cairo-p18s1w7
 8	ka	ka	SCONJ	cs	_	7	fixed	7:fixed	LvtbNodeId=a-ltg-Cairo-p18s1w8
 9	jis	jis	PRON	pp3msnn	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nsubj	10:nsubj	LvtbNodeId=a-ltg-Cairo-p18s1w9
 10	skrēja	skrīt	VERB	vmnist130an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	2	advcl	2:advcl	LvtbNodeId=a-ltg-Cairo-p18s1w10

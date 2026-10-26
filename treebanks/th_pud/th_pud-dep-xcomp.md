@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-780 nodes (3%) are attached to their parents as `xcomp`.
+1070 nodes (5%) are attached to their parents as `xcomp`.
 
-765 instances of `xcomp` (98%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.51538461538462.
+1009 instances of `xcomp` (94%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.25046728971963.
 
-The following 20 pairs of parts of speech are connected with `xcomp`: <tt><a href="th_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="th_pud-pos-VERB.html">VERB</a></tt> (579; 74% instances), <tt><a href="th_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt> (75; 10% instances), <tt><a href="th_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="th_pud-pos-ADJ.html">ADJ</a></tt> (42; 5% instances), <tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="th_pud-pos-VERB.html">VERB</a></tt> (39; 5% instances), <tt><a href="th_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="th_pud-pos-VERB.html">VERB</a></tt> (9; 1% instances), <tt><a href="th_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="th_pud-pos-VERB.html">VERB</a></tt> (6; 1% instances), <tt><a href="th_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="th_pud-pos-PRON.html">PRON</a></tt> (6; 1% instances), <tt><a href="th_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="th_pud-pos-PROPN.html">PROPN</a></tt> (5; 1% instances), <tt><a href="th_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="th_pud-pos-ADV.html">ADV</a></tt> (4; 1% instances), <tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="th_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="th_pud-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="th_pud-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="th_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="th_pud-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="th_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="th_pud-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="th_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="th_pud-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="th_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="th_pud-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="th_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="th_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="th_pud-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="th_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="th_pud-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 21 pairs of parts of speech are connected with `xcomp`: <tt><a href="th_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="th_pud-pos-VERB.html">VERB</a></tt> (792; 74% instances), <tt><a href="th_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt> (122; 11% instances), <tt><a href="th_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="th_pud-pos-ADJ.html">ADJ</a></tt> (54; 5% instances), <tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="th_pud-pos-VERB.html">VERB</a></tt> (39; 4% instances), <tt><a href="th_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="th_pud-pos-PRON.html">PRON</a></tt> (14; 1% instances), <tt><a href="th_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="th_pud-pos-PROPN.html">PROPN</a></tt> (13; 1% instances), <tt><a href="th_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="th_pud-pos-VERB.html">VERB</a></tt> (9; 1% instances), <tt><a href="th_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="th_pud-pos-VERB.html">VERB</a></tt> (6; 1% instances), <tt><a href="th_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="th_pud-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="th_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="th_pud-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="th_pud-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="th_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="th_pud-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="th_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="th_pud-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="th_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="th_pud-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="th_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="th_pud-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="th_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="th_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="th_pud-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="th_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="th_pud-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="th_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="th_pud-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -22,44 +22,32 @@ The following 20 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 7 xcomp	color:blue
-1	เธอ	_	PRON	PRP	Person=3	3	nsubj:pass	_	SpaceAfter=No|Translit=ḏʰóé
-2	ถูก	_	AUX	MD	Voice=Pass	3	aux:pass	_	SpaceAfter=No|Translit=tʰúk
-3	ตั้ง	_	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=tâ²ŋ
-4	ข้อหา	_	NOUN	NN	_	3	obj	_	SpaceAfter=No|Translit=kʰ²'há
-5	ฐาน	_	ADP	IN	_	6	mark	_	SpaceAfter=No|Translit=ṭʰán
-6	พยายาม	_	VERB	VV	_	3	advcl	_	SpaceAfter=No|Translit=bʰyáyám
-7	ฆ่า	_	VERB	VV	_	6	xcomp	_	SpaceAfter=No|Translit=qʰá¹
-8	บุตร	_	NOUN	NN	_	7	obj	_	SpaceAfter=No|Translit=butr
-9	สาว	_	NOUN	NN	_	8	compound	_	SpaceAfter=No|Translit=sáw
-10	วัย	_	NOUN	NN	_	8	compound	_	Translit=wây
-11	2	_	NUM	CD	_	12	nummod	_	Translit=2
-12	ขวบ	_	NOUN	NNB	_	10	clf	_	SpaceAfter=No|Translit=kʰwb
-13	ของ	_	ADP	IN	_	14	case	_	SpaceAfter=No|Translit=kʰɔːŋ
-14	เธอ	_	PRON	PRP	Person=3	8	nmod:poss	_	SpaceAfter=No|Translit=ḏʰóé
-15	ด้วย	_	ADV	RB	_	3	advmod	_	Translit=d²wy
+1	ข้อ	ข้อ	NOUN	NN	_	6	nsubj	_	SpaceAfter=No|Translit=kʰɔ̂ː|LTranslit=kʰɔ̂ː
+2	กำหนด	กำหนด	VERB	VV	_	1	acl	_	SpaceAfter=No|Translit=kãːhnd|LTranslit=kãːhnd
+3	เรื่อง	เรื่อง	NOUN	NN	_	1	compound	_	SpaceAfter=No|Translit=rüàːŋ|LTranslit=rüàːŋ
+4	การแต่ง	การแต่ง	VERB	VV	_	3	compound	_	SpaceAfter=No|Translit=kaːrtæ̀ːŋ|LTranslit=kaːrtæ̀ːŋ
+5	กาย	กาย	NOUN	NN	_	4	obj	_	SpaceAfter=No|Translit=kaːy|LTranslit=kaːy
+6	อาจ	อาจ	VERB	MD	_	0	root	_	SpaceAfter=No|Translit='aːč|LTranslit='aːč
+7	ล้า	ล้า	VERB	VV	_	6	xcomp	_	SpaceAfter=No|Translit=lâː|LTranslit=lâː
+8	สมัย	สมัย	NOUN	NN	_	6	obl	_	SpaceAfter=No|Translit=smạy|LTranslit=smạy
+9	ไป	ไป	PART	RP	_	7	compound:prt	_	SpaceAfter=No|Translit=pại|LTranslit=pại
+10	หน่อย	หน่อย	ADV	RB	_	6	advmod	_	Translit=hnɔ̀ːy|LTranslit=hnɔ̀ːy
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 4 6 xcomp	color:blue
-1	ได้	_	AUX	AS	Aspect=Perf	2	aux	_	SpaceAfter=No|Translit=dai²
-2	รับ	_	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=râb
-3	การประกาศ	_	VERB	VV	_	2	obj	_	SpaceAfter=No|Translit=kárprakáś
-4	ให้	_	VERB	VV	_	3	acl	_	SpaceAfter=No|Translit=hai²
-5	เป็น	_	AUX	VC	_	6	cop	_	SpaceAfter=No|Translit=pen
-6	เขต	_	NOUN	NN	_	4	xcomp	_	SpaceAfter=No|Translit=kʰét
-7	สงวน	_	VERB	VV	_	6	acl	_	SpaceAfter=No|Translit=sŋwn
-8	พันธุ์	_	NOUN	NN	_	7	obj	_	SpaceAfter=No|Translit=bʰânḏʰu
-9	สัตว์	_	NOUN	NN	_	8	compound	_	SpaceAfter=No|Translit=sâtw
-10	ป่า	_	NOUN	NN	_	8	compound	_	SpaceAfter=No|Translit=pá¹
-11	ใน	_	ADP	IN	_	12	case	_	SpaceAfter=No|Translit=nai
-12	ปี	_	NOUN	NN	_	2	obl	_	Translit=pí
-13	1975	_	NUM	CD	_	12	appos	_	Translit=1975
+# visual-style 4 5 xcomp	color:blue
+1	บาง	บาง	DET	DT	PronType=Ind	2	det	_	Gloss=some,a_few|SpaceAfter=No|Translit=baːŋ|LTranslit=baːŋ
+2	ครั้ง	ครั้ง	NOUN	NNB	_	4	obl:tmod	_	SpaceAfter=No|Translit=gʰrậŋ|LTranslit=gʰrậŋ
+3	ก็	ก็	ADV	RB	_	4	advmod	_	SpaceAfter=No|Translit=kɔʔ|LTranslit=kɔʔ
+4	คล้าย	คล้าย	VERB	VC	_	0	root	_	SpaceAfter=No|Translit=gʰlâːy|LTranslit=gʰlâːy
+5	พลัง	พลัง	NOUN	NN	_	4	xcomp	_	SpaceAfter=No|Translit=bʰlạŋ|LTranslit=bʰlạŋ
+6	พิเศษ	พิเศษ	ADJ	JJ	_	5	amod	_	Translit=bʰiśeːš|LTranslit=bʰiśeːš
 
 ~~~
 
@@ -70,20 +58,20 @@ The following 20 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 14 xcomp	color:blue
-1	เห็น	_	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=hen
-2	ได้	_	AUX	MD	_	1	aux	_	SpaceAfter=No|Translit=dai²
-3	ชัด	_	ADV	RB	_	1	advmod	_	SpaceAfter=No|Translit=ćʰâd
-4	ที่สุด	_	ADV	RB	_	3	advmod	_	SpaceAfter=No|Translit=dʰí¹sud
-5	เมื่อ	_	ADP	IN	_	10	mark	_	SpaceAfter=No|Translit=műá¹
-6	ชื่อ	_	NOUN	NN	_	10	nsubj	_	SpaceAfter=No|Translit=ćʰű¹'
-7	ของ	_	ADP	IN	_	8	case	_	SpaceAfter=No|Translit=kʰɔːŋ
-8	ดารา	_	NOUN	NN	_	6	nmod:poss	_	SpaceAfter=No|Translit=dárá
-9	นั้น	_	DET	DT	_	8	det	_	SpaceAfter=No|Translit=nâ²n
-10	หา	_	VERB	VV	_	1	ccomp	_	SpaceAfter=No|Translit=há
-11	ยาก	_	ADV	RB	_	10	advmod	_	SpaceAfter=No|Translit=yák
-12	ตั้ง	_	VERB	VV	_	14	case	_	SpaceAfter=No|Translit=tâ²ŋ
-13	แต่	_	ADP	IN	_	12	fixed	_	SpaceAfter=No|Translit=tǽ¹
-14	แรก	_	ADJ	JJ	_	10	xcomp	_	Translit=rǽk
+1	เห็น	เห็น	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=hen|LTranslit=hen
+2	ได้	ได้	AUX	MD	_	1	aux	_	SpaceAfter=No|Translit=dạî|LTranslit=dạî
+3	ชัด	ชัด	ADV	RB	_	1	advmod	_	SpaceAfter=No|Translit=ćʰạd|LTranslit=ćʰạd
+4	ที่สุด	ที่สุด	ADV	RB	_	3	advmod	_	SpaceAfter=No|Translit=dʰìːsud|LTranslit=dʰìːsud
+5	เมื่อ	เมื่อ	ADP	IN	_	10	mark	_	SpaceAfter=No|Translit=müàː|LTranslit=müàː
+6	ชื่อ	ชื่อ	NOUN	NN	_	10	nsubj	_	SpaceAfter=No|Translit=ćʰǜː'|LTranslit=ćʰǜː'
+7	ของ	ของ	ADP	IN	_	8	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
+8	ดารา	ดารา	NOUN	NN	_	6	nmod:poss	_	SpaceAfter=No|Translit=daːraː|LTranslit=daːraː
+9	นั้น	นั้น	DET	DT	PronType=Dem	8	det	_	Gloss=that|SpaceAfter=No|Translit=nận|LTranslit=nận
+10	หา	หา	VERB	VV	_	1	ccomp	_	SpaceAfter=No|Translit=haː|LTranslit=haː
+11	ยาก	ยาก	ADV	RB	_	10	advmod	_	SpaceAfter=No|Translit=yaːk|LTranslit=yaːk
+12	ตั้ง	ตั้ง	VERB	VV	ExtPos=ADP	14	case	_	SpaceAfter=No|Translit=tậŋ|LTranslit=tậŋ
+13	แต่	แต่	ADP	IN	_	12	fixed	_	SpaceAfter=No|Translit=tæ̀ː|LTranslit=tæ̀ː
+14	แรก	แรก	ADJ	JJ	_	10	xcomp	_	Translit=ræːk|LTranslit=ræːk
 
 ~~~
 

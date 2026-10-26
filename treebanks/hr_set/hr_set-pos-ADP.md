@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  <em>od</em> (<tt><a href="hr_set-pos-ADP.
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.000000 (the average of all parts of speech is 1.848309).
+The form / lemma ratio of `ADP` is 1.000000 (the average of all parts of speech is 1.848266).
 
 The 1st highest number of forms (2) was observed with the lemma “k”: <em>k, ka</em>.
 
@@ -75,7 +75,7 @@ Examples: <em>u, na, o, prema, po, pri, ka, naspram, pred</em>
 
 `ADP` nodes are attached to their parents using 12 different relations: <tt><a href="hr_set-dep-case.html">case</a></tt> (18877; 99% instances), <tt><a href="hr_set-dep-mark.html">mark</a></tt> (86; 0% instances), <tt><a href="hr_set-dep-fixed.html">fixed</a></tt> (53; 0% instances), <tt><a href="hr_set-dep-obl.html">obl</a></tt> (23; 0% instances), <tt><a href="hr_set-dep-cc.html">cc</a></tt> (22; 0% instances), <tt><a href="hr_set-dep-conj.html">conj</a></tt> (8; 0% instances), <tt><a href="hr_set-dep-amod.html">amod</a></tt> (7; 0% instances), <tt><a href="hr_set-dep-flat.html">flat</a></tt> (4; 0% instances), <tt><a href="hr_set-dep-nmod.html">nmod</a></tt> (4; 0% instances), <tt><a href="hr_set-dep-discourse.html">discourse</a></tt> (3; 0% instances), <tt><a href="hr_set-dep-orphan.html">orphan</a></tt> (1; 0% instances), <tt><a href="hr_set-dep-root.html">root</a></tt> (1; 0% instances)
 
-Parents of `ADP` nodes belong to 15 different parts of speech: <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt> (14623; 77% instances), <tt><a href="hr_set-pos-PROPN.html">PROPN</a></tt> (2384; 12% instances), <tt><a href="hr_set-pos-DET.html">DET</a></tt> (745; 4% instances), <tt><a href="hr_set-pos-PRON.html">PRON</a></tt> (359; 2% instances), <tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt> (328; 2% instances), <tt><a href="hr_set-pos-NUM.html">NUM</a></tt> (277; 1% instances), <tt><a href="hr_set-pos-ADV.html">ADV</a></tt> (158; 1% instances), <tt><a href="hr_set-pos-VERB.html">VERB</a></tt> (107; 1% instances), <tt><a href="hr_set-pos-ADP.html">ADP</a></tt> (43; 0% instances), <tt><a href="hr_set-pos-X.html">X</a></tt> (27; 0% instances), <tt><a href="hr_set-pos-SYM.html">SYM</a></tt> (26; 0% instances), <tt><a href="hr_set-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="hr_set-pos-SCONJ.html">SCONJ</a></tt> (4; 0% instances), <tt><a href="hr_set-pos-PART.html">PART</a></tt> (3; 0% instances),  (1; 0% instances)
+Parents of `ADP` nodes belong to 15 different parts of speech: <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt> (14623; 77% instances), <tt><a href="hr_set-pos-PROPN.html">PROPN</a></tt> (2384; 12% instances), <tt><a href="hr_set-pos-DET.html">DET</a></tt> (744; 4% instances), <tt><a href="hr_set-pos-PRON.html">PRON</a></tt> (359; 2% instances), <tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt> (328; 2% instances), <tt><a href="hr_set-pos-NUM.html">NUM</a></tt> (277; 1% instances), <tt><a href="hr_set-pos-ADV.html">ADV</a></tt> (158; 1% instances), <tt><a href="hr_set-pos-VERB.html">VERB</a></tt> (107; 1% instances), <tt><a href="hr_set-pos-ADP.html">ADP</a></tt> (43; 0% instances), <tt><a href="hr_set-pos-X.html">X</a></tt> (27; 0% instances), <tt><a href="hr_set-pos-SYM.html">SYM</a></tt> (26; 0% instances), <tt><a href="hr_set-pos-AUX.html">AUX</a></tt> (5; 0% instances), <tt><a href="hr_set-pos-SCONJ.html">SCONJ</a></tt> (4; 0% instances), <tt><a href="hr_set-pos-PART.html">PART</a></tt> (3; 0% instances),  (1; 0% instances)
 
 18811 (99%) `ADP` nodes are leaves.
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-99 nodes (4%) are attached to their parents as `reparandum`.
+145 nodes (3%) are attached to their parents as `reparandum`.
 
-81 instances of `reparandum` (82%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.28282828282828.
+120 instances of `reparandum` (83%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.30344827586207.
 
-The following 24 pairs of parts of speech are connected with `reparandum`: <tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt> (22; 22% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt> (13; 13% instances), <tt><a href="pay_chibergis-pos-X.html">X</a></tt>-<tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt> (10; 10% instances), <tt><a href="pay_chibergis-pos-X.html">X</a></tt>-<tt><a href="pay_chibergis-pos-X.html">X</a></tt> (8; 8% instances), <tt><a href="pay_chibergis-pos-X.html">X</a></tt>-<tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt> (7; 7% instances), <tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt>-<tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt> (5; 5% instances), <tt><a href="pay_chibergis-pos-PART.html">PART</a></tt>-<tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt> (4; 4% instances), <tt><a href="pay_chibergis-pos-PART.html">PART</a></tt>-<tt><a href="pay_chibergis-pos-PART.html">PART</a></tt> (4; 4% instances), <tt><a href="pay_chibergis-pos-ADV.html">ADV</a></tt>-<tt><a href="pay_chibergis-pos-ADV.html">ADV</a></tt> (3; 3% instances), <tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt> (3; 3% instances), <tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt>-<tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt> (3; 3% instances), <tt><a href="pay_chibergis-pos-X.html">X</a></tt>-<tt><a href="pay_chibergis-pos-ADV.html">ADV</a></tt> (3; 3% instances), <tt><a href="pay_chibergis-pos-X.html">X</a></tt>-<tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt> (3; 3% instances), <tt><a href="pay_chibergis-pos-ADV.html">ADV</a></tt>-<tt><a href="pay_chibergis-pos-X.html">X</a></tt> (1; 1% instances), <tt><a href="pay_chibergis-pos-AUX.html">AUX</a></tt>-<tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="pay_chibergis-pos-INTJ.html">INTJ</a></tt>-<tt><a href="pay_chibergis-pos-INTJ.html">INTJ</a></tt> (1; 1% instances), <tt><a href="pay_chibergis-pos-INTJ.html">INTJ</a></tt>-<tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="pay_chibergis-pos-INTJ.html">INTJ</a></tt>-<tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pay_chibergis-pos-X.html">X</a></tt> (1; 1% instances), <tt><a href="pay_chibergis-pos-PART.html">PART</a></tt>-<tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="pay_chibergis-pos-PART.html">PART</a></tt>-<tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt>-<tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="pay_chibergis-pos-X.html">X</a></tt>-<tt><a href="pay_chibergis-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="pay_chibergis-pos-X.html">X</a></tt>-<tt><a href="pay_chibergis-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
+The following 26 pairs of parts of speech are connected with `reparandum`: <tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt> (29; 20% instances), <tt><a href="pay_chibergis-pos-X.html">X</a></tt>-<tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt> (19; 13% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt> (17; 12% instances), <tt><a href="pay_chibergis-pos-X.html">X</a></tt>-<tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt> (13; 9% instances), <tt><a href="pay_chibergis-pos-X.html">X</a></tt>-<tt><a href="pay_chibergis-pos-X.html">X</a></tt> (10; 7% instances), <tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt>-<tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt> (9; 6% instances), <tt><a href="pay_chibergis-pos-PART.html">PART</a></tt>-<tt><a href="pay_chibergis-pos-PART.html">PART</a></tt> (6; 4% instances), <tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt>-<tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt> (6; 4% instances), <tt><a href="pay_chibergis-pos-X.html">X</a></tt>-<tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt> (6; 4% instances), <tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt> (5; 3% instances), <tt><a href="pay_chibergis-pos-PART.html">PART</a></tt>-<tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt> (4; 3% instances), <tt><a href="pay_chibergis-pos-ADV.html">ADV</a></tt>-<tt><a href="pay_chibergis-pos-ADV.html">ADV</a></tt> (3; 2% instances), <tt><a href="pay_chibergis-pos-X.html">X</a></tt>-<tt><a href="pay_chibergis-pos-ADV.html">ADV</a></tt> (3; 2% instances), <tt><a href="pay_chibergis-pos-INTJ.html">INTJ</a></tt>-<tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt>-<tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="pay_chibergis-pos-ADV.html">ADV</a></tt>-<tt><a href="pay_chibergis-pos-X.html">X</a></tt> (1; 1% instances), <tt><a href="pay_chibergis-pos-AUX.html">AUX</a></tt>-<tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="pay_chibergis-pos-INTJ.html">INTJ</a></tt>-<tt><a href="pay_chibergis-pos-INTJ.html">INTJ</a></tt> (1; 1% instances), <tt><a href="pay_chibergis-pos-INTJ.html">INTJ</a></tt>-<tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pay_chibergis-pos-X.html">X</a></tt> (1; 1% instances), <tt><a href="pay_chibergis-pos-NUM.html">NUM</a></tt>-<tt><a href="pay_chibergis-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="pay_chibergis-pos-PART.html">PART</a></tt>-<tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="pay_chibergis-pos-PART.html">PART</a></tt>-<tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt>-<tt><a href="pay_chibergis-pos-X.html">X</a></tt> (1; 1% instances), <tt><a href="pay_chibergis-pos-X.html">X</a></tt>-<tt><a href="pay_chibergis-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="pay_chibergis-pos-X.html">X</a></tt>-<tt><a href="pay_chibergis-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -39,21 +39,6 @@ The following 24 pairs of parts of speech are connected with `reparandum`: <tt><
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 4 reparandum	color:blue
-1	ĩsiku	ĩsi	NOUN	N>N	_	4	obj	_	AlignBegin=282793|AlignEnd=283233|Gloss=medicine|MGloss=medicine NMLZ.CONT|MSeg=ĩsi-ku|nWord=1|RX=[N]|TokenType=Root|Word=ĩsiku|wordform=ĩsi-ku
-2	ye	ye	NOUN	N	_	1	nmod	_	AlignBegin=283233|AlignEnd=283673|Gloss=small|MGloss=small|MSeg=ye|nWord=2|RX=[N]|TokenType=Root|Word=ye
-3	=s	=s	DET	DET	_	1	det	_	AlignBegin=283673|AlignEnd=284113|Gloss==INDF.ART|MGloss==INDF.ART|MSeg==s|nWord=3|RX=[DET]|TokenType=Clit|Word=s
-4	ũtaãyheri	ãyh	VERB	V:ANY	Clusivity=Ex	5	reparandum	_	AlignBegin=284113|AlignEnd=284553|Gloss=give:O1:2|MGloss=EXCL- O1- give:O1:2 -S3PL -PST|MSeg=ũ-ta-ãyh-er-i|nWord=4|RX=[VT]|TokenType=Root|Word=ũtẽyhri|wordform=ũ-ta-ãyh-er-i
-5	taãyheri	ãyh	VERB	V:ANY	_	0	root	_	AlignBegin=284553|AlignEnd=284993|Gloss=give:O1:2|MGloss=O1- give:O1:2 -S3PL -PST|MSeg=ta-ãyh-er-i|nWord=5|RX=[VT]|TokenType=Root|Word=tẽyhri|wordform=ta-ãyh-er-i
-
-~~~
-
-
-~~~ conllu
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 2	bgColor:blue
@@ -71,6 +56,21 @@ The following 24 pairs of parts of speech are connected with `reparandum`: <tt><
 10	significo	significo	X	<NOT_SURE>	_	9	nmod	_	AlignBegin=24896|AlignEnd=25155|Gloss=SPA_mean|MGloss=SPA_mean|MSeg=significo|nWord=10|RX=[<NOT_SURE>]|TokenType=Root|Word=significo
 11	yo	yo	X	<NOT_SURE>	_	10	nmod	_	AlignBegin=25155|AlignEnd=25414|Gloss=SPA_I|MGloss=SPA_I|MSeg=yo|nWord=11|RX=[<NOT_SURE>]|TokenType=Root|Word=yo
 12	?	?	PUNCT	_	_	2	punct	_	AlignBegin=25414|AlignEnd=25673|MSeg=?|nWord=12|Word=?
+
+~~~
+
+
+~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 4 reparandum	color:blue
+1	ĩsiku	ĩsi	NOUN	N>N	_	4	obj	_	AlignBegin=282793|AlignEnd=283233|Gloss=medicine|MGloss=medicine NMLZ.CONT|MSeg=ĩsi-ku|nWord=1|RX=[N]|TokenType=Root|Word=ĩsiku|wordform=ĩsi-ku
+2	ye	ye	NOUN	N	_	1	nmod	_	AlignBegin=283233|AlignEnd=283673|Gloss=small|MGloss=small|MSeg=ye|nWord=2|RX=[N]|TokenType=Root|Word=ye
+3	=s	=s	DET	DET	_	1	det	_	AlignBegin=283673|AlignEnd=284113|Gloss==INDF.ART|MGloss==INDF.ART|MSeg==s|nWord=3|RX=[DET]|TokenType=Clit|Word=s
+4	ũtaãyheri	ãyh	VERB	V:ANY	Clusivity=Ex	5	reparandum	_	AlignBegin=284113|AlignEnd=284553|Gloss=give:O1:2|MGloss=EXCL- O1- give:O1:2 -S3PL -PST|MSeg=ũ-ta-ãyh-er-i|nWord=4|RX=[VT]|TokenType=Root|Word=ũtẽyhri|wordform=ũ-ta-ãyh-er-i
+5	taãyheri	ãyh	VERB	V:ANY	_	0	root	_	AlignBegin=284553|AlignEnd=284993|Gloss=give:O1:2|MGloss=O1- give:O1:2 -S3PL -PST|MSeg=ta-ãyh-er-i|nWord=5|RX=[VT]|TokenType=Root|Word=tẽyhri|wordform=ta-ãyh-er-i
 
 ~~~
 

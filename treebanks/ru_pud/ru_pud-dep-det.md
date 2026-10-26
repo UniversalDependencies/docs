@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-476 nodes (2%) are attached to their parents as `det`.
+460 nodes (2%) are attached to their parents as `det`.
 
-461 instances of `det` (97%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.33613445378151.
+459 instances of `det` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.24130434782609.
 
-The following 6 pairs of parts of speech are connected with `det`: <tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_pud-pos-DET.html">DET</a></tt> (463; 97% instances), <tt><a href="ru_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_pud-pos-DET.html">DET</a></tt> (6; 1% instances), <tt><a href="ru_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="ru_pud-pos-DET.html">DET</a></tt> (3; 1% instances), <tt><a href="ru_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_pud-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_pud-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ru_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="ru_pud-pos-DET.html">DET</a></tt> (1; 0% instances).
+The following 5 pairs of parts of speech are connected with `det`: <tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_pud-pos-DET.html">DET</a></tt> (449; 98% instances), <tt><a href="ru_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_pud-pos-DET.html">DET</a></tt> (6; 1% instances), <tt><a href="ru_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="ru_pud-pos-DET.html">DET</a></tt> (3; 1% instances), <tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_pud-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ru_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="ru_pud-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

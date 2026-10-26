@@ -23,8 +23,8 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 `VERB` tokens may have the following values of `VerbForm`:
 
 * `Conv` (3; 2% of non-empty `VerbForm`): <em>Išttes, Tuldes</em>
-* `Fin` (118; 64% of non-empty `VerbForm`): <em>eläba, radoin, ajoin, seižub, abutab, el'genzin, meletan, muštan, pätin, sain</em>
-* `Inf` (50; 27% of non-empty `VerbForm`): <em>tehta, eläda, el'geta, kaita, pagišta, panda, rata, vajehtada, vastatas, abutada</em>
+* `Fin` (118; 64% of non-empty `VerbForm`): <em>eläba, radoin, ajoin, seižub, abutab, elʼgenzin, meletan, muštan, pätin, sain</em>
+* `Inf` (50; 27% of non-empty `VerbForm`): <em>tehta, eläda, elʼgeta, kaita, pagišta, panda, rata, vajehtada, vastatas, abutada</em>
 * `Part` (5; 3% of non-empty `VerbForm`): <em>sündnu, omištadud, peittud, tehtud</em>
 * `Sup` (7; 4% of non-empty `VerbForm`): <em>radmaha, elämaha, kacmaha, opendamhas, rata, valitihe</em>
 

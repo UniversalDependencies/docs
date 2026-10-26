@@ -11,26 +11,26 @@ It occurs with 9 different values: `Art`, `Dem`, `Ind`, `Int`, `Neg`, `Prs`, `Rc
 Some words have combined values of the feature; 1 combinations have been observed: `Int|Rel`.
 
 8942 tokens (10%) have a non-empty value of `PronType`.
-664 types (3%) occur at least once with a non-empty value of `PronType`.
+663 types (3%) occur at least once with a non-empty value of `PronType`.
 93 lemmas (1%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 4 part-of-speech tags: <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt> (6592; 7% instances), <tt><a href="et_ewt-pos-DET.html">DET</a></tt> (2243; 2% instances), <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt> (106; 0% instances), <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+The feature is used with 4 part-of-speech tags: <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt> (6589; 7% instances), <tt><a href="et_ewt-pos-DET.html">DET</a></tt> (2247; 2% instances), <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt> (105; 0% instances), <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 ### `PRON`
 
-6592 <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
+6589 <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="et_ewt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5310; 81%), <tt><a href="et_ewt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (3999; 61%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="et_ewt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5305; 81%), <tt><a href="et_ewt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (3988; 61%).
 
 `PRON` tokens may have the following values of `PronType`:
 
-* `Dem` (1542; 23% of non-empty `PronType`): <em>see, seda, selle, neid, need, sellest, selles, sellega, selleks, nende</em>
-* `Ind` (567; 9% of non-empty `PronType`): <em>midagi, keegi, muud, kellegi, kedagi, millegi, mõned, paljud, miski, üks</em>
+* `Dem` (1531; 23% of non-empty `PronType`): <em>see, seda, selle, neid, need, sellest, selles, sellega, selleks, sellele</em>
+* `Ind` (565; 9% of non-empty `PronType`): <em>midagi, keegi, muud, kellegi, kedagi, millegi, mõned, paljud, miski, kellelgi</em>
 * `Int` (2; 0% of non-empty `PronType`): <em>What, whatever</em>
 * `Int,Rel` (1072; 16% of non-empty `PronType`): <em>mis, kes, mida, mille, millest, kelle, milles, keda, millega, kellele</em>
-* `Prs` (3194; 48% of non-empty `PronType`): <em>ma, oma, ta, sa, mul, minu, mina, nad, meie, me</em>
+* `Prs` (3203; 49% of non-empty `PronType`): <em>ma, oma, ta, sa, mul, minu, mina, nad, meie, me</em>
 * `Rcp` (16; 0% of non-empty `PronType`): <em>teineteise, teineteisest, üksteise, üksteist, uksteisele, üksteisel, üksteisele</em>
 * `Rel` (1; 0% of non-empty `PronType`): <em>what</em>
-* `Tot` (198; 3% of non-empty `PronType`): <em>kõik, kõike, kõigile, kõigil, igal, mõlemad, kõige, kõigi, mõlemal, k6ik</em>
+* `Tot` (199; 3% of non-empty `PronType`): <em>kõik, kõike, kõigile, kõigil, mõlemad, igal, kõige, kõigi, mõlemal, k6ik</em>
 
 <table>
   <tr><th>Paradigm <i>keegi</i></th><th><tt>Int,Rel</tt></th><th><tt>Prs</tt></th><th><tt>Ind</tt></th></tr>
@@ -47,19 +47,19 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 
 ### `DET`
 
-2243 <tt><a href="et_ewt-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
+2247 <tt><a href="et_ewt-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="et_ewt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1649; 74%).
+The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="et_ewt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1650; 73%).
 
 `DET` tokens may have the following values of `PronType`:
 
 * `Art` (6; 0% of non-empty `PronType`): <em>the, a</em>
-* `Dem` (1142; 51% of non-empty `PronType`): <em>see, selle, seda, need, selline, sama, neid, sellest, sellist, teine</em>
-* `Ind` (716; 32% of non-empty `PronType`): <em>mingi, üks, mingit, ühe, mingid, mõne, paljud, mõni, mingeid, mõned</em>
-* `Int,Rel` (33; 1% of non-empty `PronType`): <em>mis, millaised, millised, millises, missugune</em>
+* `Dem` (1145; 51% of non-empty `PronType`): <em>see, selle, seda, need, selline, sama, neid, sellest, sellist, teine</em>
+* `Ind` (717; 32% of non-empty `PronType`): <em>mingi, üks, mingit, ühe, mingid, mõne, paljud, mõni, mingeid, mõned</em>
+* `Int,Rel` (34; 2% of non-empty `PronType`): <em>mis, millaised, millised, millises, missugune</em>
 * `Neg` (1; 0% of non-empty `PronType`): <em>no</em>
 * `Rel` (2; 0% of non-empty `PronType`): <em>millises, millist</em>
-* `Tot` (343; 15% of non-empty `PronType`): <em>kogu, kõik, iga, igal, terve, igas, kõiki, igast, kõigi, igale</em>
+* `Tot` (342; 15% of non-empty `PronType`): <em>kogu, kõik, iga, igal, terve, igas, kõiki, igast, kõigi, igale</em>
 
 <table>
   <tr><th>Paradigm <i>üks</i></th><th><tt>Dem</tt></th><th><tt>Ind</tt></th></tr>
@@ -81,14 +81,14 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
 
 ### `ADJ`
 
-106 <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt> tokens (2% of all `ADJ` tokens) have a non-empty value of `PronType`.
+105 <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt> tokens (2% of all `ADJ` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `ADJ` and `PronType` co-occurred: <tt><a href="et_ewt-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (106; 100%), <tt><a href="et_ewt-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (106; 100%), <tt><a href="et_ewt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (106; 100%), <tt><a href="et_ewt-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (106; 100%), <tt><a href="et_ewt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (86; 81%), <tt><a href="et_ewt-feat-Case.html">Case</a></tt><tt>=Nom</tt> (61; 58%).
+The most frequent other feature values with which `ADJ` and `PronType` co-occurred: <tt><a href="et_ewt-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (105; 100%), <tt><a href="et_ewt-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (105; 100%), <tt><a href="et_ewt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (105; 100%), <tt><a href="et_ewt-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (105; 100%), <tt><a href="et_ewt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (85; 81%), <tt><a href="et_ewt-feat-Case.html">Case</a></tt><tt>=Nom</tt> (61; 58%).
 
 `ADJ` tokens may have the following values of `PronType`:
 
-* `Dem` (64; 60% of non-empty `PronType`): <em>selline, sama, sellist, sellised, samad, samasugune, esimesele, niisugune, samasugused, samasugust</em>
-* `Ind` (9; 8% of non-empty `PronType`): <em>mingisugust, millistes, mingisuguseid, mõnda, mõndagi, mõned, mõni, mõnigi</em>
+* `Dem` (63; 60% of non-empty `PronType`): <em>selline, sama, sellist, sellised, samad, samasugune, niisugune, samasugused, sedasama, sellise</em>
+* `Ind` (9; 9% of non-empty `PronType`): <em>mingisugust, millistes, mingisuguseid, mõnda, mõndagi, mõned, mõni, mõnigi</em>
 * `Int,Rel` (7; 7% of non-empty `PronType`): <em>milline, missugune, millise, millist, millistest</em>
 * `Prs` (1; 1% of non-empty `PronType`): <em>omas</em>
 * `Rel` (25; 24% of non-empty `PronType`): <em>milline, millise, milliseid, millisest, kumb, millised, millist, milliselt, millistele, millistest</em>
@@ -117,16 +117,15 @@ The most frequent other feature values with which `PROPN` and `PronType` co-occu
 `PROPN` tokens may have the following values of `PronType`:
 
 * `Dem` (1; 100% of non-empty `PronType`): <em>Sama</em>
-* `EMPTY` (3937): <em>eesti, saku, eestis, Jumal, ViinaMuri, Neeme, le, tartu, d2xz, tallinna</em>
+* `EMPTY` (3939): <em>eesti, saku, eestis, Jumal, ViinaMuri, Neeme, le, tartu, d2xz, tallinna</em>
 
 ## Relations with Agreement in `PronType`
 
 The 10 most frequent relations where parent and child node agree in `PronType`:
-<tt>PRON --[<tt><a href="et_ewt-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (57; 71%),
+<tt>PRON --[<tt><a href="et_ewt-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (58; 74%),
 <tt>PRON --[<tt><a href="et_ewt-dep-conj.html">conj</a></tt>]--> PRON</tt> (18; 67%),
 <tt>DET --[<tt><a href="et_ewt-dep-conj.html">conj</a></tt>]--> DET</tt> (3; 75%),
 <tt>PRON --[<tt><a href="et_ewt-dep-amod.html">amod</a></tt>]--> PRON</tt> (2; 67%),
 <tt>DET --[<tt><a href="et_ewt-dep-det.html">det</a></tt>]--> DET</tt> (1; 100%),
-<tt>PRON --[<tt><a href="et_ewt-dep-fixed.html">fixed</a></tt>]--> PRON</tt> (1; 100%),
 <tt>PRON --[<tt><a href="et_ewt-dep-reparandum.html">reparandum</a></tt>]--> PRON</tt> (1; 100%).
 

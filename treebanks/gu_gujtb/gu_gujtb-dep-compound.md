@@ -23,17 +23,17 @@ The following 7 pairs of parts of speech are connected with `compound`: <tt><a h
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 4 compound	color:blue
-1	જે	જે	PRON	_	_	8	obl	_	_
-2	અંતર્ગત	અંતર્ગત	ADP	_	_	1	case	_	_
-3	અમદાવાદમાં	અમદાવાદમાં	PROPN	_	Case=Loc	8	obl	_	_
-4	રાજ્ય	રાજ્ય	NOUN	_	_	5	compound	_	_
-5	સ્તરીય	સ્તરીય	NOUN	_	_	6	nmod	_	_
-6	_	સેમિનાર	NOUN	_	_	8	nsubj:pass	_	_
-7	_	નું	ADP	_	_	6	case	_	_
-8	આયોજન	આયોજન	NOUN	_	_	0	root	_	_
-9	થયું	થવું	AUX	_	_	8	cop	_	_
-10	હતું	હતું	AUX	_	_	8	aux	_	SpaceAfter=No
-11	.	.	PUNCT	_	_	8	punct	_	SpaceAfter=No
+1	જે	જે	PRON	_	_	8	obl	_	LTranslit=je|Translit=je
+2	અંતર્ગત	અંતર્ગત	ADP	_	_	1	case	_	LTranslit=aṁtargata|Translit=aṁtargata
+3	અમદાવાદમાં	અમદાવાદમાં	PROPN	_	_	8	obl	_	LTranslit=amadāvādamāṁ|Translit=amadāvādamāṁ
+4	રાજ્ય	રાજ્ય	NOUN	_	_	5	compound	_	LTranslit=rājya|Translit=rājya
+5	સ્તરીય	સ્તરીય	NOUN	_	_	6	nmod	_	LTranslit=starīya|Translit=starīya
+6	_	સેમિનાર	NOUN	_	_	8	nsubj:pass	_	LTranslit=semināra
+7	_	નું	ADP	_	_	6	case	_	LTranslit=nuṁ
+8	આયોજન	આયોજન	NOUN	_	_	0	root	_	LTranslit=āyojana|Translit=āyojana
+9	થયું	થવું	AUX	_	_	8	cop	_	LTranslit=thavuṁ|Translit=thayuṁ
+10	હતું	હતું	AUX	_	_	8	aux	_	LTranslit=hatuṁ|SpaceAfter=No|Translit=hatuṁ
+11	.	.	PUNCT	_	_	8	punct	_	LTranslit=.|SpaceAfter=No|Translit=.
 
 ~~~
 
@@ -44,12 +44,12 @@ The following 7 pairs of parts of speech are connected with `compound`: <tt><a h
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 3 compound	color:blue
-1	પેલી	પેલી	PRON	_	_	5	det	_	_
-2	નાની	નાની	ADJ	_	_	5	amod	_	_
-3	નાની	નાની	ADJ	_	_	2	compound	_	_
-4	સોનેરી	સોનેરી	ADJ	_	_	5	amod	_	_
-5	વસ્તુઓ	વસ્તુઓ	NOUN	_	_	0	root	_	_
-6	.	.	PUNCT	_	_	5	punct	_	SpaceAfter=No
+1	પેલી	પેલી	PRON	_	_	5	det	_	LTranslit=pelī|Translit=pelī
+2	નાની	નાની	ADJ	_	_	5	amod	_	LTranslit=nānī|Translit=nānī
+3	નાની	નાની	ADJ	_	_	2	compound	_	LTranslit=nānī|Translit=nānī
+4	સોનેરી	સોનેરી	ADJ	_	_	5	amod	_	LTranslit=sonerī|Translit=sonerī
+5	વસ્તુઓ	વસ્તુઓ	NOUN	_	_	0	root	_	LTranslit=vastuo|Translit=vastuo
+6	.	.	PUNCT	_	_	5	punct	_	LTranslit=.|SpaceAfter=No|Translit=.
 
 ~~~
 
@@ -60,16 +60,16 @@ The following 7 pairs of parts of speech are connected with `compound`: <tt><a h
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 6 compound	color:blue
-1	હિલ્ડર	હિલ્ડર	PROPN	_	_	9	nsubj:pass	_	_
-2	ગુડનાડોટ્ટીરને	ગુડનાડોટ્ટીર	PROPN	_	_	1	flat	_	_
-3	‘જોકર’	‘જોકર’	PROPN	_	_	9	obl	_	_
-4	માટે	માટે	ADP	_	_	3	case	_	_
-5	બેસ્ટ	બેસ્ટ	ADJ	_	_	7	compound	_	_
-6	ઓરિજિનલ	ઓરિજિનલ	ADJ	_	_	7	compound	_	_
-7	સ્કોર	સ્કોર	NOUN	_	_	8	nmod	_	_
-8	એવોર્ડ	એવોર્ડ	NOUN	_	_	9	obj	_	_
-9	મળ્યો	મળ્યો	VERB	_	_	0	root	_	SpaceAfter=No
-10	.	.	PUNCT	_	_	9	punct	_	SpaceAfter=No
+1	હિલ્ડર	હિલ્ડર	PROPN	_	_	9	nsubj:pass	_	LTranslit=hilḍara|Translit=hilḍara
+2	ગુડનાડોટ્ટીરને	ગુડનાડોટ્ટીર	PROPN	_	_	1	flat	_	LTranslit=guḍanāḍoṭṭīra|Translit=guḍanāḍoṭṭīrane
+3	‘જોકર’	‘જોકર’	PROPN	_	_	9	obl	_	LTranslit=‘jokara’|Translit=‘jokara’
+4	માટે	માટે	ADP	_	_	3	case	_	LTranslit=māṭe|Translit=māṭe
+5	બેસ્ટ	બેસ્ટ	ADJ	_	_	7	compound	_	LTranslit=besṭa|Translit=besṭa
+6	ઓરિજિનલ	ઓરિજિનલ	ADJ	_	_	7	compound	_	LTranslit=orijinala|Translit=orijinala
+7	સ્કોર	સ્કોર	NOUN	_	_	8	nmod	_	LTranslit=skora|Translit=skora
+8	એવોર્ડ	એવોર્ડ	NOUN	_	_	9	obj	_	LTranslit=evorḍa|Translit=evorḍa
+9	મળ્યો	મળ્યો	VERB	_	_	0	root	_	LTranslit=maḷyo|SpaceAfter=No|Translit=maḷyo
+10	.	.	PUNCT	_	_	9	punct	_	LTranslit=.|SpaceAfter=No|Translit=.
 
 ~~~
 

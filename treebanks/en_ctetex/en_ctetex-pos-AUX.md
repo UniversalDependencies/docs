@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_English-CTeTex: POS Tags: `AUX`
 
-There are 1 `AUX` lemmas (6%), 19 `AUX` types (1%) and 492 `AUX` tokens (5%).
-Out of 17 observed tags, the rank of `AUX` is: 4 in number of lemmas, 11 in number of types and 7 in number of tokens.
+There are 11 `AUX` lemmas (1%), 19 `AUX` types (1%) and 492 `AUX` tokens (5%).
+Out of 17 observed tags, the rank of `AUX` is: 13 in number of lemmas, 11 in number of types and 7 in number of tokens.
 
-The 10 most frequent `AUX` lemmas: <em>_</em>
+The 10 most frequent `AUX` lemmas: <em>be, shall, will, do, have, must, can, should, could, may</em>
 
 The 10 most frequent `AUX` types:  <em>shall, be, is, are, will, does, has, must, been, was</em>
 
-The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="en_ctetex-pos-NOUN.html">NOUN</a></tt> 2649, <tt><a href="en_ctetex-pos-PUNCT.html">PUNCT</a></tt> 1455, <tt><a href="en_ctetex-pos-DET.html">DET</a></tt> 936, <tt><a href="en_ctetex-pos-ADP.html">ADP</a></tt> 781, <tt><a href="en_ctetex-pos-VERB.html">VERB</a></tt> 721, <tt><a href="en_ctetex-pos-ADJ.html">ADJ</a></tt> 647, <tt><a href="en_ctetex-pos-AUX.html">AUX</a></tt> 492, <tt><a href="en_ctetex-pos-NUM.html">NUM</a></tt> 317, <tt><a href="en_ctetex-pos-PROPN.html">PROPN</a></tt> 293, <tt><a href="en_ctetex-pos-CCONJ.html">CCONJ</a></tt> 267, <tt><a href="en_ctetex-pos-ADV.html">ADV</a></tt> 185, <tt><a href="en_ctetex-pos-PART.html">PART</a></tt> 165, <tt><a href="en_ctetex-pos-SCONJ.html">SCONJ</a></tt> 163, <tt><a href="en_ctetex-pos-SYM.html">SYM</a></tt> 98, <tt><a href="en_ctetex-pos-PRON.html">PRON</a></tt> 83, <tt><a href="en_ctetex-pos-X.html">X</a></tt> 17, <tt><a href="en_ctetex-pos-INTJ.html">INTJ</a></tt> 4)
+The 10 most frequent ambiguous lemmas: <em>be</em> (<tt><a href="en_ctetex-pos-AUX.html">AUX</a></tt> 216, <tt><a href="en_ctetex-pos-VERB.html">VERB</a></tt> 10, <tt><a href="en_ctetex-pos-NOUN.html">NOUN</a></tt> 5), <em>do</em> (<tt><a href="en_ctetex-pos-AUX.html">AUX</a></tt> 19, <tt><a href="en_ctetex-pos-VERB.html">VERB</a></tt> 2), <em>have</em> (<tt><a href="en_ctetex-pos-VERB.html">VERB</a></tt> 18, <tt><a href="en_ctetex-pos-AUX.html">AUX</a></tt> 11), <em>may</em> (<tt><a href="en_ctetex-pos-AUX.html">AUX</a></tt> 3, <tt><a href="en_ctetex-pos-NOUN.html">NOUN</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>be</em> (<tt><a href="en_ctetex-pos-AUX.html">AUX</a></tt> 115, <tt><a href="en_ctetex-pos-VERB.html">VERB</a></tt> 2), <em>is</em> (<tt><a href="en_ctetex-pos-AUX.html">AUX</a></tt> 62, <tt><a href="en_ctetex-pos-VERB.html">VERB</a></tt> 6), <em>are</em> (<tt><a href="en_ctetex-pos-AUX.html">AUX</a></tt> 21, <tt><a href="en_ctetex-pos-VERB.html">VERB</a></tt> 3), <em>has</em> (<tt><a href="en_ctetex-pos-AUX.html">AUX</a></tt> 10, <tt><a href="en_ctetex-pos-VERB.html">VERB</a></tt> 3), <em>do</em> (<tt><a href="en_ctetex-pos-AUX.html">AUX</a></tt> 5, <tt><a href="en_ctetex-pos-VERB.html">VERB</a></tt> 2), <em>have</em> (<tt><a href="en_ctetex-pos-VERB.html">VERB</a></tt> 11, <tt><a href="en_ctetex-pos-AUX.html">AUX</a></tt> 1), <em>to</em> (<tt><a href="en_ctetex-pos-ADP.html">ADP</a></tt> 116, <tt><a href="en_ctetex-pos-PART.html">PART</a></tt> 102, <tt><a href="en_ctetex-pos-AUX.html">AUX</a></tt> 1)
 
@@ -43,11 +43,21 @@ The 10 most frequent ambiguous types:  <em>be</em> (<tt><a href="en_ctetex-pos-A
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 19.000000 (the average of all parts of speech is 125.235294).
+The form / lemma ratio of `AUX` is 1.727273 (the average of all parts of speech is 1.138503).
 
-The 1st highest number of forms (19) was observed with the lemma “_”: <em>are, be, been, being, can, could, do, does, has, have, is, may, must, shall, should, to, was, will, would</em>.
+The 1st highest number of forms (6) was observed with the lemma “be”: <em>are, be, been, being, is, was</em>.
 
-`AUX` does not occur with any features.
+The 2nd highest number of forms (3) was observed with the lemma “do”: <em>do, does, to</em>.
+
+The 3rd highest number of forms (2) was observed with the lemma “have”: <em>has, have</em>.
+
+`AUX` occurs with 3 features: <tt><a href="en_ctetex-feat-Number.html">Number</a></tt> (211; 43% instances), <tt><a href="en_ctetex-feat-Tense.html">Tense</a></tt> (211; 43% instances), <tt><a href="en_ctetex-feat-Typo.html">Typo</a></tt> (1; 0% instances)
+
+`AUX` occurs with 5 feature-value pairs: `Number=Plur`, `Number=Sing`, `Tense=Past`, `Tense=Pres`, `Typo=Yes`
+
+`AUX` occurs with 5 feature combinations.
+The most frequent feature combination is `_` (280 tokens).
+Examples: <em>shall, will, does, has, must, being, can, do, should, could</em>
 
 
 ## Relations

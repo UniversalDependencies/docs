@@ -7,13 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Cappadocian-AMGiC: Relations: `acl`
 
 This relation is universal.
+There are 1 language-specific subtypes of `acl`: <tt><a href="cpg_amgic-dep-acl-relcl.html">acl:relcl</a></tt>.
 
-2 nodes (0%) are attached to their parents as `acl`.
+3 nodes (0%) are attached to their parents as `acl`.
 
-2 instances of `acl` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.5.
+3 instances of `acl` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.66666666666667.
 
-The following 2 pairs of parts of speech are connected with `acl`: <tt><a href="cpg_amgic-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cpg_amgic-pos-ADV.html">ADV</a></tt> (1; 50% instances), <tt><a href="cpg_amgic-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cpg_amgic-pos-VERB.html">VERB</a></tt> (1; 50% instances).
+The following 3 pairs of parts of speech are connected with `acl`: <tt><a href="cpg_amgic-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cpg_amgic-pos-ADV.html">ADV</a></tt> (1; 33% instances), <tt><a href="cpg_amgic-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cpg_amgic-pos-VERB.html">VERB</a></tt> (1; 33% instances), <tt><a href="cpg_amgic-pos-PRON.html">PRON</a></tt>-<tt><a href="cpg_amgic-pos-VERB.html">VERB</a></tt> (1; 33% instances).
 
 
 ~~~ conllu
@@ -24,7 +25,7 @@ The following 2 pairs of parts of speech are connected with `acl`: <tt><a href="
 # visual-style 10 13 acl	color:blue
 1	Vavás	vavás	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
 2	čis	(e)γó	PRON	PRON	Case=Gen|Clitic=Yes|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	1	nmod	_	_
-3	éršiti	érxumu	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	SpaceAfter=No
+3	éršiti	érχumu	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	SpaceAfter=No
 4	,	,	PUNCT	PUNCT	_	3	punct	_	_
 5	náftši	(anávo)	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	parataxis	_	_
 6	ta	(ο)	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	7	det	_	_
@@ -37,7 +38,7 @@ The following 2 pairs of parts of speech are connected with `acl`: <tt><a href="
 13	apés'	apésu	ADV	ADV	_	10	acl	_	_#this is the predicate of the complement clause which in turn depends on iréan, a tricky syntactic case here
 14	tun	(e)γó	PRON	PRON	Case=Acc|Clitic=Yes|Number=Plur|Person=3|PronType=Prs	13	obl	_	_
 15	éni	ímu	AUX	AUX	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	13	cop	_	_
-16	deyí	deyí	SCONJ	_	_	10	mark	_	LC=YES|MorphSynC=FrGrEl|MorphSynSC=ConjSub
+16	deyí	deyí	SCONJ	_	_	10	mark	_	LC=Yes|MorphSynC=FrGrEl|MorphSynSC=ConjSub
 
 ~~~
 
@@ -56,8 +57,29 @@ The following 2 pairs of parts of speech are connected with `acl`: <tt><a href="
 6	kimizméni	(kimámi)	VERB	VERB	Aspect=Perf|Case=Acc|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	4	acl	_	_
 7	zuliás	zuliá	NOUN	NOUN	Case=Gen|Gender=Fem|Number=Sing	9	obl	_	_
 8	čis	(e)γó	PRON	PRON	Case=Gen|Clitic=Yes|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	7	nmod	_	_
-9	depé	depé	ADV	ADV	_	6	advmod	_	LC=YES|MorphSynC=FrGrEl|MorphSynSC=Post|OrigLang=tr|SpaceAfter=No
+9	depé	depé	ADV	ADV	_	6	advmod	_	LC=Yes|MorphSynC=FrGrEl|MorphSynSC=Post|OrigLang=tr|SpaceAfter=No
 10	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 10 acl	color:blue
+1	amán	amán	INTJ	INTJ	_	9	discourse	_	SpaceAfter=No
+2	,	,	PUNCT	PUNCT	_	1	punct	_	_
+3	javrú	javrú	NOUN	NOUN	Case=Voc|Gender=Neut|Number=Sing	9	vocative	_	SpaceAfter=No
+4	m	(e)γó	PRON	PRON	Case=Gen|Clitic=Yes|Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	nmod	_	_
+5	teté	teté	NOUN	NOUN	Case=Voc|Gender=Fem|Number=Sing	3	conj	_	SpaceAfter=No
+6	,	,	PUNCT	PUNCT	_	5	punct	_	_
+7	óči	óči	PRON	SCONJ	PronType=Rel	9	obj	_	_
+8	gai	gai	ADV	ADV	_	9	advmod	_	_
+9	píkis	poíko	VERB	VERB	Aspect=Perf|Mood=Sub|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+10	pike	poíko	VERB	VERB	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	7	acl	_	SpaceAfter=No
+11	.	.	PUNCT	PUNCT	_	9	punct	_	_
 
 ~~~
 

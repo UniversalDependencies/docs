@@ -18,7 +18,7 @@ The feature is used with 3 part-of-speech tags: <tt><a href="lt_alksnis-pos-VERB
 
 10177 <tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="lt_alksnis-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (9327; 92%), <tt><a href="lt_alksnis-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (8931; 88%), <tt><a href="lt_alksnis-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (8416; 83%), <tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (7322; 72%), <tt><a href="lt_alksnis-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (6937; 68%), <tt><a href="lt_alksnis-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (6911; 68%), <tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (6707; 66%), <tt><a href="lt_alksnis-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (5946; 58%), <tt><a href="lt_alksnis-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (5921; 58%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="lt_alksnis-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (9327; 92%), <tt><a href="lt_alksnis-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (8931; 88%), <tt><a href="lt_alksnis-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (8416; 83%), <tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (7322; 72%), <tt><a href="lt_alksnis-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (6937; 68%), <tt><a href="lt_alksnis-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (6911; 68%), <tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (6707; 66%), <tt><a href="lt_alksnis-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (5946; 58%), <tt><a href="lt_alksnis-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (5919; 58%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
@@ -153,7 +153,6 @@ The 10 most frequent relations where parent and child node agree in `VerbForm`:
 <tt>VERB --[<tt><a href="lt_alksnis-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (197; 53%),
 <tt>VERB --[<tt><a href="lt_alksnis-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (131; 71%),
 <tt>VERB --[<tt><a href="lt_alksnis-dep-acl.html">acl</a></tt>]--> VERB</tt> (18; 90%),
-<tt>VERB --[<tt><a href="lt_alksnis-dep-dep.html">dep</a></tt>]--> VERB</tt> (5; 56%),
 <tt>VERB --[<tt><a href="lt_alksnis-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (3; 75%),
 <tt>VERB --[<tt><a href="lt_alksnis-dep-flat.html">flat</a></tt>]--> VERB</tt> (1; 100%).
 

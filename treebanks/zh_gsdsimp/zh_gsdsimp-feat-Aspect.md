@@ -24,7 +24,7 @@ The most frequent other feature values with which `AUX` and `Aspect` co-occurred
 
 * `Perf` (824; 86% of non-empty `Aspect`): 了、 过
 * `Prog` (131; 14% of non-empty `Aspect`): 着
-* `EMPTY` (2937): 是、 为、 被、 会、 可以、 可、 也是、 能、 要、 可能
+* `EMPTY` (2938): 是、 为、 被、 会、 可以、 可、 也是、 能、 要、 可能
 
 ### `PART`
 
@@ -35,5 +35,5 @@ The most frequent other feature values with which `PART` and `Aspect` co-occurre
 `PART` tokens may have the following values of `Aspect`:
 
 * `Perf` (2; 100% of non-empty `Aspect`): 了
-* `EMPTY` (9880): 的、 人、 之、 大、 者、 市、 区、 会、 军、 省
+* `EMPTY` (9879): 的、 人、 之、 大、 者、 市、 区、 会、 军、 省
 

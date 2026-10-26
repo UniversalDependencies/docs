@@ -63,18 +63,18 @@ The following 7 pairs of parts of speech are connected with `csubj`: <tt><a href
 # visual-style 16	fgColor:white
 # visual-style 16 18 csubj	color:blue
 1	Tiedän	tietää	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
-2	myös	myös	ADV	Adv	_	6	advmod	6:advmod	SpaceAfter=No
+2	myös	myös	ADV	Adv	_	1	advmod	1:advmod	SpaceAfter=No
 3	,	,	PUNCT	Punct	_	6	punct	6:punct	_
 4	että	että	SCONJ	C	_	6	mark	6:mark	_
 5	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	aux	6:aux	_
 6	olemassa	olla	VERB	V	Case=Ine|InfForm=3|Number=Sing|VerbForm=Inf|Voice=Act	1	ccomp	1:ccomp	_
 7	ihan	ihan	ADV	Adv	_	8	advmod	8:advmod	_
-8	valmiitakin	valmis	ADJ	A	Case=Par|Clitic=Kin|Degree=Pos|Number=Plur	11	amod	11:amod	_
+8	valmiitakin	valmis	ADJ	A	Case=Par|Clitic=Kin|Degree=Pos|Number=Plur	12	amod	12:amod	_
 9	Arduinoon	Arduino	PROPN	N	Case=Ill|Number=Sing	10	obl	10:obl	_
-10	pohjautuvia	pohjautua	VERB	V	Case=Par|Number=Plur|PartForm=Pres|VerbForm=Part|Voice=Act	11	acl	11:acl	_
-11	time-lapse	time-lapse	X	Foreign	Foreign=Yes	6	nsubj	6:nsubj	_
-12	dollyja	dolly	NOUN	Foreign	Case=Par|Number=Plur	11	flat:foreign	11:flat:foreign	_
-13	ajastimilla	ajastin	NOUN	N	Case=Ade|Number=Plur	11	nmod	11:nmod	SpaceAfter=No
+10	pohjautuvia	pohjautua	VERB	V	Case=Par|Number=Plur|PartForm=Pres|VerbForm=Part|Voice=Act	12	acl	12:acl	_
+11	time-lapse	time-lapse	X	Foreign	Foreign=Yes	12	compound	12:compound	OrigLang=en
+12	dollyja	dolly	NOUN	Foreign	Case=Par|Number=Plur	6	nsubj	6:nsubj	OrigLang=en
+13	ajastimilla	ajastin	NOUN	N	Case=Ade|Number=Plur	12	nmod	12:nmod	SpaceAfter=No
 14	,	,	PUNCT	Punct	_	16	punct	16:punct	_
 15	mutta	mutta	CCONJ	C	_	16	cc	16:cc	_
 16	tarkoituksena	tarkoitus	NOUN	N	Case=Ess|Number=Sing	1	conj	1:conj	_

@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Imp`, `Perf`.
 
-8222 tokens (7%) have a non-empty value of `Aspect`.
-2722 types (22%) occur at least once with a non-empty value of `Aspect`.
-912 lemmas (14%) occur at least once with a non-empty value of `Aspect`.
-The feature is used with 2 part-of-speech tags: <tt><a href="it_old-pos-VERB.html">VERB</a></tt> (6864; 6% instances), <tt><a href="it_old-pos-AUX.html">AUX</a></tt> (1358; 1% instances).
+8187 tokens (7%) have a non-empty value of `Aspect`.
+2708 types (22%) occur at least once with a non-empty value of `Aspect`.
+907 lemmas (14%) occur at least once with a non-empty value of `Aspect`.
+The feature is used with 2 part-of-speech tags: <tt><a href="it_old-pos-VERB.html">VERB</a></tt> (6845; 6% instances), <tt><a href="it_old-pos-AUX.html">AUX</a></tt> (1342; 1% instances).
 
 ### `VERB`
 
-6864 <tt><a href="it_old-pos-VERB.html">VERB</a></tt> tokens (41% of all `VERB` tokens) have a non-empty value of `Aspect`.
+6845 <tt><a href="it_old-pos-VERB.html">VERB</a></tt> tokens (40% of all `VERB` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="it_old-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5784; 84%), <tt><a href="it_old-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (5215; 76%), <tt><a href="it_old-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (4804; 70%), <tt><a href="it_old-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (4796; 70%), <tt><a href="it_old-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (4578; 67%), <tt><a href="it_old-feat-Person.html">Person</a></tt><tt>=3</tt> (3817; 56%), <tt><a href="it_old-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (3768; 55%).
+The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="it_old-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5766; 84%), <tt><a href="it_old-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (5199; 76%), <tt><a href="it_old-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (4783; 70%), <tt><a href="it_old-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (4775; 70%), <tt><a href="it_old-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (4561; 67%), <tt><a href="it_old-feat-Person.html">Person</a></tt><tt>=3</tt> (3801; 56%), <tt><a href="it_old-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (3779; 55%).
 
 `VERB` tokens may have the following values of `Aspect`:
 
-* `Imp` (1391; 20% of non-empty `Aspect`): <em>parea, avea, facea, dicea, vedea, stava, pareva, andava, venìa, parean</em>
-* `Perf` (5473; 80% of non-empty `Aspect`): <em>disse, vidi, fece, fé, rispuose, fatto, cominciò, diss', vid', volse</em>
-* `EMPTY` (10045): <em>fa, veder, vedi, ha, va, far, fare, dir, dire, convien</em>
+* `Imp` (1386; 20% of non-empty `Aspect`): <em>parea, avea, facea, dicea, vedea, stava, pareva, andava, venìa, parean</em>
+* `Perf` (5459; 80% of non-empty `Aspect`): <em>disse, vidi, fece, fé, rispuose, fatto, cominciò, diss', vid', volse</em>
+* `EMPTY` (10095): <em>fa, veder, vedi, ha, va, far, fare, dir, dire, convien</em>
 
 <table>
   <tr><th>Paradigm <i>fare</i></th><th><tt>Imp</tt></th><th><tt>Perf</tt></th></tr>
@@ -57,15 +57,15 @@ The most frequent other feature values with which `VERB` and `Aspect` co-occurre
 
 ### `AUX`
 
-1358 <tt><a href="it_old-pos-AUX.html">AUX</a></tt> tokens (38% of all `AUX` tokens) have a non-empty value of `Aspect`.
+1342 <tt><a href="it_old-pos-AUX.html">AUX</a></tt> tokens (38% of all `AUX` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `AUX` and `Aspect` co-occurred: <tt><a href="it_old-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1311; 97%), <tt><a href="it_old-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (1204; 89%), <tt><a href="it_old-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1158; 85%), <tt><a href="it_old-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (1138; 84%), <tt><a href="it_old-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1075; 79%), <tt><a href="it_old-feat-Person.html">Person</a></tt><tt>=3</tt> (1009; 74%).
+The most frequent other feature values with which `AUX` and `Aspect` co-occurred: <tt><a href="it_old-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1296; 97%), <tt><a href="it_old-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (1188; 89%), <tt><a href="it_old-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1143; 85%), <tt><a href="it_old-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (1136; 85%), <tt><a href="it_old-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1063; 79%), <tt><a href="it_old-feat-Person.html">Person</a></tt><tt>=3</tt> (994; 74%).
 
 `AUX` tokens may have the following values of `Aspect`:
 
-* `Imp` (674; 50% of non-empty `Aspect`): <em>era, avea, fosse, eran, fossi, potea, eravam, fosser, avesse, erano</em>
-* `Perf` (684; 50% of non-empty `Aspect`): <em>fu, fui, fuor, fu', furon, fummo, fue, ebbe, fur, fosti</em>
-* `EMPTY` (2171): <em>è, son, esser, se', ha, sia, sono, fia, può, hai</em>
+* `Imp` (672; 50% of non-empty `Aspect`): <em>era, avea, fosse, eran, fossi, potea, eravam, fosser, avesse, erano</em>
+* `Perf` (670; 50% of non-empty `Aspect`): <em>fu, fui, fuor, fu', furon, fummo, fue, fur, fosti, fuoro</em>
+* `EMPTY` (2156): <em>è, son, esser, se', ha, sia, sono, fia, può, hai</em>
 
 <table>
   <tr><th>Paradigm <i>essere</i></th><th><tt>Imp</tt></th><th><tt>Perf</tt></th></tr>
@@ -95,13 +95,10 @@ The most frequent other feature values with which `AUX` and `Aspect` co-occurred
 ## Relations with Agreement in `Aspect`
 
 The 10 most frequent relations where parent and child node agree in `Aspect`:
-<tt>VERB --[<tt><a href="it_old-dep-conj.html">conj</a></tt>]--> VERB</tt> (543; 73%),
-<tt>VERB --[<tt><a href="it_old-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (424; 56%),
-<tt>VERB --[<tt><a href="it_old-dep-aux-pass.html">aux:pass</a></tt>]--> AUX</tt> (156; 60%),
-<tt>AUX --[<tt><a href="it_old-dep-conj.html">conj</a></tt>]--> VERB</tt> (2; 100%),
+<tt>VERB --[<tt><a href="it_old-dep-conj.html">conj</a></tt>]--> VERB</tt> (544; 73%),
+<tt>VERB --[<tt><a href="it_old-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (422; 55%),
 <tt>AUX --[<tt><a href="it_old-dep-cop.html">cop</a></tt>]--> AUX</tt> (2; 100%),
-<tt>VERB --[<tt><a href="it_old-dep-ccomp-reported.html">ccomp:reported</a></tt>]--> AUX</tt> (2; 100%),
-<tt>VERB --[<tt><a href="it_old-dep-conj.html">conj</a></tt>]--> AUX</tt> (2; 100%),
 <tt>AUX --[<tt><a href="it_old-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (1; 100%),
+<tt>VERB --[<tt><a href="it_old-dep-ccomp-reported.html">ccomp:reported</a></tt>]--> AUX</tt> (1; 100%),
 <tt>VERB --[<tt><a href="it_old-dep-flat-redup.html">flat:redup</a></tt>]--> VERB</tt> (1; 100%).
 

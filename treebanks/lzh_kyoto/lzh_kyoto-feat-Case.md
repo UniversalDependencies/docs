@@ -47,7 +47,7 @@ The most frequent other feature values with which `PROPN` and `Case` co-occurred
 ## Relations with Agreement in `Case`
 
 The 10 most frequent relations where parent and child node agree in `Case`:
-<tt>PROPN --[<tt><a href="lzh_kyoto-dep-conj.html">conj</a></tt>]--> PROPN</tt> (1575; 99%),
+<tt>PROPN --[<tt><a href="lzh_kyoto-dep-conj.html">conj</a></tt>]--> PROPN</tt> (1576; 99%),
 <tt>NOUN --[<tt><a href="lzh_kyoto-dep-compound.html">compound</a></tt>]--> NOUN</tt> (1238; 92%),
 <tt>NOUN --[<tt><a href="lzh_kyoto-dep-conj.html">conj</a></tt>]--> NOUN</tt> (962; 70%),
 <tt>NOUN --[<tt><a href="lzh_kyoto-dep-flat.html">flat</a></tt>]--> NOUN</tt> (495; 70%),

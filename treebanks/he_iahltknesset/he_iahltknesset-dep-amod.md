@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-2282 nodes (3%) are attached to their parents as `amod`.
+2283 nodes (3%) are attached to their parents as `amod`.
 
-2280 instances of `amod` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.74715162138475.
+2281 instances of `amod` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.74857643451599.
 
-The following 9 pairs of parts of speech are connected with `amod`: <tt><a href="he_iahltknesset-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_iahltknesset-pos-ADJ.html">ADJ</a></tt> (2179; 95% instances), <tt><a href="he_iahltknesset-pos-PROPN.html">PROPN</a></tt>-<tt><a href="he_iahltknesset-pos-ADJ.html">ADJ</a></tt> (82; 4% instances), <tt><a href="he_iahltknesset-pos-ADJ.html">ADJ</a></tt>-<tt><a href="he_iahltknesset-pos-ADJ.html">ADJ</a></tt> (7; 0% instances), <tt><a href="he_iahltknesset-pos-VERB.html">VERB</a></tt>-<tt><a href="he_iahltknesset-pos-ADJ.html">ADJ</a></tt> (6; 0% instances), <tt><a href="he_iahltknesset-pos-DET.html">DET</a></tt>-<tt><a href="he_iahltknesset-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="he_iahltknesset-pos-INTJ.html">INTJ</a></tt>-<tt><a href="he_iahltknesset-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="he_iahltknesset-pos-PRON.html">PRON</a></tt>-<tt><a href="he_iahltknesset-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="he_iahltknesset-pos-NUM.html">NUM</a></tt>-<tt><a href="he_iahltknesset-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="he_iahltknesset-pos-SYM.html">SYM</a></tt>-<tt><a href="he_iahltknesset-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `amod`: <tt><a href="he_iahltknesset-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_iahltknesset-pos-ADJ.html">ADJ</a></tt> (2180; 95% instances), <tt><a href="he_iahltknesset-pos-PROPN.html">PROPN</a></tt>-<tt><a href="he_iahltknesset-pos-ADJ.html">ADJ</a></tt> (82; 4% instances), <tt><a href="he_iahltknesset-pos-ADJ.html">ADJ</a></tt>-<tt><a href="he_iahltknesset-pos-ADJ.html">ADJ</a></tt> (7; 0% instances), <tt><a href="he_iahltknesset-pos-VERB.html">VERB</a></tt>-<tt><a href="he_iahltknesset-pos-ADJ.html">ADJ</a></tt> (6; 0% instances), <tt><a href="he_iahltknesset-pos-DET.html">DET</a></tt>-<tt><a href="he_iahltknesset-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="he_iahltknesset-pos-INTJ.html">INTJ</a></tt>-<tt><a href="he_iahltknesset-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="he_iahltknesset-pos-PRON.html">PRON</a></tt>-<tt><a href="he_iahltknesset-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="he_iahltknesset-pos-NUM.html">NUM</a></tt>-<tt><a href="he_iahltknesset-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="he_iahltknesset-pos-SYM.html">SYM</a></tt>-<tt><a href="he_iahltknesset-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

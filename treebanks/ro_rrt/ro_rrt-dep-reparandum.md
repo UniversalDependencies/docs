@@ -36,7 +36,7 @@ The following 1 pairs of parts of speech are connected with `reparandum`: <tt><a
 12	mult	mult	ADV	Rgp	Degree=Pos	6	reparandum	_	_
 13	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	14	case	_	_
 14	unul	unul	PRON	Pi3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Ind	12	obl	_	_
-15	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	12	advmod	_	_
+15	de	de	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADV	12	advmod	_	_
 16	fapt	fapt	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	15	fixed	_	SpaceAfter=No
 17	,	,	PUNCT	COMMA	_	12	punct	_	_
 18	și	și	CCONJ	Crssp	Polarity=Pos	21	cc	_	_

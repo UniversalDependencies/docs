@@ -50,7 +50,7 @@ The following 4 pairs of parts of speech are connected with `cc`: <tt><a href="l
 3	Mareja	Mareja	PROPN	npfsn4	Case=Nom|Gender=Fem|Number=Sing	1	conj	1:conj|4:nsubj|7:nsubj	LvtbNodeId=a-ltg-Cairo-p16s1w3
 4	apsaskuove	apsaskaut	VERB	vmyisi130an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Reflex=Yes|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-ltg-Cairo-p16s1w4
 5	i	i	CCONJ	cc	_	7	cc	7:cc	LvtbNodeId=a-ltg-Cairo-p16s1w5
-6	tod	tod	ADV	r0n	_	7	advmod	7:advmod	LvtbNodeId=a-ltg-Cairo-p16s1w6
+6	tod	tod	ADV	r0n	PronType=Dem	7	advmod	7:advmod	LvtbNodeId=a-ltg-Cairo-p16s1w6
 7	pamete	pamest	VERB	vmnist130an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	4:conj	LvtbNodeId=a-ltg-Cairo-p16s1w7
 8	ustobu	ustoba	NOUN	ncfsa4	Case=Acc|Gender=Fem|Number=Sing	7	obj	7:obj	LvtbNodeId=a-ltg-Cairo-p16s1w8|SpaceAfter=No
 9	.	.	PUNCT	zs	_	4	punct	4:punct	LvtbNodeId=a-ltg-Cairo-p16s1w9

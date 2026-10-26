@@ -5,8 +5,6 @@ shortdef : 'descriptor modifier in nominal'
 udver: '2'
 ---
 
-** IMPLEMENTATION IN PROGRESS **
-
 This relation subtype applies to nominal modifiers that we term __descriptors__.
 These are bare nominals that occur in or with a name, and are not prepositional/possessive
 or part of the English compound construction.
@@ -25,12 +23,12 @@ In principle, descriptors are a special case of [nmod:unmarked]().
 
 One descriptor construction is the pre- or postmodification of a personal name with a (bare nominal) role or title:
 
-** NOTE: we need to standardize UPOS. [SYM]() says that Dr. and Mr. are NOUN but in English treebanks they are predominantly PROPN. **
-
 ~~~ sdparse
 Mr./NOUN Magoo/PROPN
 nmod:desc(Magoo, Mr.)
 ~~~
+
+*Note regarding UPOS: [SYM]() says that <b>Dr.</b> and <b>Mr.</b> are [NOUN](), but in English treebanks they are predominantly tagged [PROPN]().*
 
 ~~~ sdparse
 Professor/NOUN Charles/PROPN J./PROPN Fillmore/PROPN , Ph.D./PROPN
@@ -149,9 +147,9 @@ flat(Elizabeth, II)
 
 [^1]: This is a departure from a guideline articulated previously: according to [de Marneffe et al. (2021)](https://doi.org/10.1162/coli_a_00402), p. 285, the (pseudo)number attaches as [nmod](), though the main point of that passage is to articulate why [nummod]() is not appropriate (no rationale for headedness is presented).
 
-### Toponyms
+### Place names
 
-We also use [flat]() for toponyms where the noun representing the entity type comes first.
+We also use [flat]() for toponyms/names of establishments where the noun representing the entity type comes first.
 This word order is anomalous relative to other English constructions such that
 tests for headedness are inconclusive:
 
@@ -165,6 +163,11 @@ Mount/PROPN Everest/PROPN
 flat(Mount, Everest)
 ~~~
 
+~~~ sdparse
+Hotel/PROPN California/PROPN
+flat(Hotel, California)
+~~~
+
 By contrast, if the identificational part of the toponym precedes the entity type,
 this is analyzed as a regular right-headed [compound]() dependency:
 
@@ -173,4 +176,4 @@ Mirror/PROPN Lake/PROPN
 compound(Lake, Mirror)
 ~~~
 
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:11:03 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:17 CEST -->

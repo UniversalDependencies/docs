@@ -25,7 +25,7 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
 * `Cmp` (57; 76% of non-empty `Degree`): <em>седе, седеяк</em>
 * `Dim` (2; 3% of non-empty `Degree`): <em>парынестэ, сеске</em>
 * `Sup` (16; 21% of non-empty `Degree`): <em>весемеде, сехте, сех</em>
-* `EMPTY` (1630): <em>ансяк, кода, пек, истя, мейле, ней, уш, прок, яла, курок</em>
+* `EMPTY` (1603): <em>ансяк, кода, пек, истя, ней, мейле, уш, прок, яла, курок</em>
 
 ### `NOUN`
 
@@ -36,7 +36,7 @@ The most frequent other feature values with which `NOUN` and `Degree` co-occurre
 `NOUN` tokens may have the following values of `Degree`:
 
 * `Dim` (14; 100% of non-empty `Degree`): <em>Пулинесь, авинем, вирьбулыненть, вирьбулынеть, карькскесэ, касовкскесь, каштазнэ, каштазнэськак, корминем, лазкскеванть</em>
-* `EMPTY` (5078): <em>лангс, ёнов, лангсо, бандитэсь, партизантнэ, ланга, ялгат, кедензэ, кудов, прянзо</em>
+* `EMPTY` (5128): <em>лангс, ёнов, лангсо, бандитэсь, партизантнэ, ланга, ялгат, кедензэ, кудов, прянзо</em>
 
 `Degree` seems to be **lexical feature** of `NOUN`. 100% lemmas (12) occur only with one value of `Degree`.
 
@@ -48,7 +48,7 @@ The most frequent other feature values with which `NOUN` and `Degree` co-occurre
 
 * `Cmp` (2; 40% of non-empty `Degree`): <em>седе</em>
 * `Sup` (3; 60% of non-empty `Degree`): <em>сехте, весемеде</em>
-* `EMPTY` (119): <em>жо, бути, прок, вана, буто, эно, ведь, ялатеке, Арази, Каня</em>
+* `EMPTY` (131): <em>жо, бути, ли, прок, вана, буто, эно, ведь, ялатеке, Арази</em>
 
 ### `ADJ`
 
@@ -59,7 +59,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 `ADJ` tokens may have the following values of `Degree`:
 
 * `Dim` (4; 100% of non-empty `Degree`): <em>вишкинетне, вишкине, шождыне</em>
-* `EMPTY` (891): <em>од, паро, покш, арась, кодамо, якстере, мазый, сэрей, лембе, омбоце</em>
+* `EMPTY` (898): <em>од, паро, покш, кодамо, арась, якстере, мазый, сэрей, лембе, омбоце</em>
 
 ### `PROPN`
 
@@ -70,7 +70,7 @@ The most frequent other feature values with which `PROPN` and `Degree` co-occurr
 `PROPN` tokens may have the following values of `Degree`:
 
 * `Dim` (3; 100% of non-empty `Degree`): <em>Лопине, Лопинень, Шкинем</em>
-* `EMPTY` (705): <em>Микол, Ястребов, Любань, Палько, Люба, Федоров, Маря, Кирё, Кечай, Миколонь</em>
+* `EMPTY` (714): <em>Микол, Ястребов, Любань, Палько, Люба, Федоров, Маря, Кирё, Кечай, Миколонь</em>
 
 ## Relations with Agreement in `Degree`
 

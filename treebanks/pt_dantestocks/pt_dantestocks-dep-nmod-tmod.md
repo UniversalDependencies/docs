@@ -48,7 +48,7 @@ The following 1 pairs of parts of speech are connected with `nmod:tmod`: <tt><a 
 24	fevereiro	fevereiro	NOUN	_	Gender=Masc|Number=Sing	22	nmod	_	_
 25	foi	ser	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 26	...	...	PUNCT	_	_	25	punct	_	_
-27	http://t.co/qEEHshr7en	http://t.co/qEEHshr7en	SYM	_	_	25	parataxis	_	SpaceAfter=No
+27	http://t.co/qEEHshr7en	http://t.co/qEEHshr7en	SYM	_	_	25	parataxis	_	_
 
 ~~~
 

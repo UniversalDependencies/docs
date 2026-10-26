@@ -7,6 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Swedish-Talbanken: Relations: `csubj:pass`
 
 This relation is a language-specific subtype of <tt><a href="sv_talbanken-dep-csubj.html">csubj</a></tt>.
+There are also 1 other language-specific subtypes of `csubj`: <tt><a href="sv_talbanken-dep-csubj-outer.html">csubj:outer</a></tt>.
 
 34 nodes (0%) are attached to their parents as `csubj:pass`.
 
@@ -51,8 +52,8 @@ The following 4 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 7	lätt	lätt	ADJ	JJ|POS|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Number=Sing	3	csubj:pass	3:csubj:pass	_
 8	i	i	ADP	PP	_	9	case	9:case	_
 9	vallokalen	vallokal	NOUN	NN|UTR|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing	7	obl	7:obl:i	_
-10	i	i	ADP	PP	_	11	case	11:case	_
-11	år	år	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	7	obl	7:obl:i	SpaceAfter=No
+10	i	i	ADP	PP	_	11	case	11:case	ParsemeMWE=1:AdvID
+11	år	år	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	7	obl	7:obl:i	SpaceAfter=No|ParsemeMWE=1
 12	.	.	PUNCT	MAD	_	3	punct	3:punct	_
 
 ~~~
@@ -65,8 +66,8 @@ The following 4 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 # visual-style 3	fgColor:white
 # visual-style 3 9 csubj:pass	color:blue
 1	-	-	PUNCT	MID	_	3	punct	3:punct	_
-2	Traditionellt	traditionell	ADV	AB|POS	Degree=Pos	3	advmod	3:advmod	_
-3	anses	anse	VERB	VB|PRS|SFO	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	0:root	_
+2	Traditionellt	traditionellt	ADV	AB|POS	Degree=Pos	3	advmod	3:advmod	_
+3	anses	anse	VERB	VB|PRS|SFO	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	0:root	ParsemeMWE=1:NotMWE
 4	ju	ju	ADV	AB	_	3	advmod	3:advmod	_
 5	att	att	SCONJ	SN	_	9	mark	9:mark	_
 6	det	den	PRON	PN|NEU|SIN|DEF|SUB/OBJ	Definite=Def|Gender=Neut|Number=Sing|PronType=Prs	9	expl	9:expl	_
@@ -78,7 +79,7 @@ The following 4 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 12	man	man	PRON	PN|UTR|SIN|IND|SUB	Case=Nom|Definite=Ind|Gender=Com|Number=Sing|PronType=Ind	13	nsubj	13:nsubj	_
 13	finner	finna	VERB	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	9	acl:cleft	9:acl:cleft	_
 14	de	de	DET	DT|UTR/NEU|PLU|DEF	Definite=Def|Number=Plur|PronType=Art	17	det	17:det	_
-15	flesta	mången	ADJ	JJ|SUV|UTR/NEU|PLU|DEF|NOM	Case=Nom|Definite=Def|Degree=Sup	17	amod	17:amod	_
+15	flesta	många	ADJ	JJ|SUV|UTR/NEU|PLU|DEF|NOM	Case=Nom|Definite=Def|Degree=Sup	17	amod	17:amod	_
 16	psykiska	psykisk	ADJ	JJ|POS|UTR/NEU|PLU|IND/DEF|NOM	Case=Nom|Definite=Def|Degree=Pos	17	amod	17:amod	_
 17	störningarna	störning	NOUN	NN|UTR|PLU|DEF|NOM	Case=Nom|Definite=Def|Gender=Com|Number=Plur	13	obj	13:obj	SpaceAfter=No
 18	,	,	PUNCT	MID	_	19	punct	19:punct	_

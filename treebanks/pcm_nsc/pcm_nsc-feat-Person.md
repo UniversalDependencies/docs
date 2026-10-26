@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `1`, `2`, `3`.
 
-16951 tokens (12%) have a non-empty value of `Person`.
-82 types (2%) occur at least once with a non-empty value of `Person`.
-48 lemmas (1%) occur at least once with a non-empty value of `Person`.
-The feature is used with 7 part-of-speech tags: <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> (16665; 12% instances), <tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (172; 0% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (68; 0% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (37; 0% instances), <tt><a href="pcm_nsc-pos-X.html">X</a></tt> (6; 0% instances), <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="pcm_nsc-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+16946 tokens (12%) have a non-empty value of `Person`.
+77 types (2%) occur at least once with a non-empty value of `Person`.
+43 lemmas (1%) occur at least once with a non-empty value of `Person`.
+The feature is used with 7 part-of-speech tags: <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> (16665; 12% instances), <tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (172; 0% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (68; 0% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (37; 0% instances), <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="pcm_nsc-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-X.html">X</a></tt> (1; 0% instances).
 
 ### `PRON`
 
@@ -25,7 +25,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 * `1` (6909; 41% of non-empty `Person`): <em>I, we, me, my, us, our, a, mysef, oursef, myself</em>
 * `2` (3402; 20% of non-empty `Person`): <em>you, your, una, yourself, yoursef, yousef, youself</em>
 * `3` (6354; 38% of non-empty `Person`): <em>e, am, de, dem, im, she, deir, her, it, imsef</em>
-* `EMPTY` (1696): <em>wetin, dat, dis, everybody, all, some, everyting, anyting, who, someting</em>
+* `EMPTY` (1701): <em>wetin, dat, dis, everybody, all, some, everyting, anyting, who, someting</em>
 
 `Person` seems to be **lexical feature** of `PRON`. 100% lemmas (27) occur only with one value of `Person`.
 
@@ -39,7 +39,7 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 
 * `1` (38; 22% of non-empty `Person`): <em>was, 'm, am, Don</em>
 * `3` (134; 78% of non-empty `Person`): <em>is, 's, be, does</em>
-* `EMPTY` (13552): <em>dey, go, na, no, con, don, be, make, fit, come</em>
+* `EMPTY` (13549): <em>dey, go, na, no, con, don, be, make, fit, come</em>
 
 <table>
   <tr><th>Paradigm <i>be</i></th><th><tt>1</tt></th><th><tt>3</tt></th></tr>
@@ -60,7 +60,7 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 
 * `1` (10; 15% of non-empty `Person`): <em>was, am</em>
 * `3` (58; 85% of non-empty `Person`): <em>is, means, comes, has, begins, goes, depends, abounds, becomes, owes</em>
-* `EMPTY` (17691): <em>go, dey, do, get, say, come, know, see, tell, wan</em>
+* `EMPTY` (17694): <em>go, dey, do, get, say, come, know, see, tell, wan</em>
 
 <table>
   <tr><th>Paradigm <i>be</i></th><th><tt>1</tt></th><th><tt>3</tt></th></tr>
@@ -84,16 +84,6 @@ The most frequent other feature values with which `ADJ` and `Person` co-occurred
 * `3` (2; 5% of non-empty `Person`): <em>deir, its</em>
 * `EMPTY` (3509): <em>small, own, good, kind, different, better, many, first, big, plenty</em>
 
-### `X`
-
-6 <tt><a href="pcm_nsc-pos-X.html">X</a></tt> tokens (0% of all `X` tokens) have a non-empty value of `Person`.
-
-`X` tokens may have the following values of `Person`:
-
-* `2` (4; 67% of non-empty `Person`): <em>[, {, ||, }</em>
-* `3` (2; 33% of non-empty `Person`): <em>>+, de</em>
-* `EMPTY` (40240): <em>#, //, <, {, }, [, |c, ||, ], >+</em>
-
 ### `PART`
 
 2 <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> tokens (0% of all `PART` tokens) have a non-empty value of `Person`.
@@ -114,6 +104,15 @@ The most frequent other feature values with which `PART` and `Person` co-occurre
 
 * `3` (1; 100% of non-empty `Person`): <em>sey</em>
 * `EMPTY` (4929): <em>sey, wey, if, because, make, so, dat, wen, meh, take</em>
+
+### `X`
+
+1 <tt><a href="pcm_nsc-pos-X.html">X</a></tt> tokens (0% of all `X` tokens) have a non-empty value of `Person`.
+
+`X` tokens may have the following values of `Person`:
+
+* `3` (1; 100% of non-empty `Person`): <em>de</em>
+* `EMPTY` (543): <em>X, s~, f~, d~, ma, wo~, b~, a~, be~, co~</em>
 
 ## Relations with Agreement in `Person`
 

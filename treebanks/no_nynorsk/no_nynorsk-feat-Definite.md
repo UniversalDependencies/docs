@@ -9,20 +9,20 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Ind`.
 
-49628 tokens (16%) have a non-empty value of `Definite`.
+49627 tokens (16%) have a non-empty value of `Definite`.
 13146 types (42%) occur at least once with a non-empty value of `Definite`.
 11060 lemmas (49%) occur at least once with a non-empty value of `Definite`.
-The feature is used with 4 part-of-speech tags: <tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt> (33362; 11% instances), <tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt> (15714; 5% instances), <tt><a href="no_nynorsk-pos-DET.html">DET</a></tt> (548; 0% instances), <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt> (4; 0% instances).
+The feature is used with 4 part-of-speech tags: <tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt> (33361; 11% instances), <tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt> (15714; 5% instances), <tt><a href="no_nynorsk-pos-DET.html">DET</a></tt> (548; 0% instances), <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt> (4; 0% instances).
 
 ### `NOUN`
 
-33362 <tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt> tokens (59% of all `NOUN` tokens) have a non-empty value of `Definite`.
+33361 <tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt> tokens (59% of all `NOUN` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `NOUN` and `Definite` co-occurred: <tt><a href="no_nynorsk-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (23532; 71%).
+The most frequent other feature values with which `NOUN` and `Definite` co-occurred: <tt><a href="no_nynorsk-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (23531; 71%).
 
 `NOUN` tokens may have the following values of `Definite`:
 
-* `Ind` (33362; 100% of non-empty `Definite`): <em>år, dag, folk, tid, prosent, språk, kroner, del, millionar, land</em>
+* `Ind` (33361; 100% of non-empty `Definite`): <em>år, dag, folk, tid, prosent, språk, kroner, del, millionar, land</em>
 * `EMPTY` (23169): <em>landet, regjeringa, saka, verda, departementet, arbeidet, åra, boka, kommunen, tida</em>
 
 `Definite` seems to be **lexical feature** of `NOUN`. 100% lemmas (8509) occur only with one value of `Definite`.
@@ -36,7 +36,7 @@ The most frequent other feature values with which `ADJ` and `Definite` co-occurr
 `ADJ` tokens may have the following values of `Definite`:
 
 * `Ind` (15714; 100% of non-empty `Definite`): <em>mykje, godt, heilt, norsk, viktig, langt, mest, svært, litt, rett</em>
-* `EMPTY` (13387): <em>meir, mange, fleire, nye, store, heile, norske, siste, tidlegare, større</em>
+* `EMPTY` (13385): <em>meir, mange, fleire, nye, store, heile, norske, siste, tidlegare, større</em>
 
 `Definite` seems to be **lexical feature** of `ADJ`. 100% lemmas (2654) occur only with one value of `Definite`.
 
@@ -49,7 +49,7 @@ The most frequent other feature values with which `DET` and `Definite` co-occurr
 `DET` tokens may have the following values of `Definite`:
 
 * `Ind` (548; 100% of non-empty `Definite`): <em>anna, eigen, annan, eige, eiga, annen, egen</em>
-* `EMPTY` (14440): <em>ein, den, eit, dei, ei, det, andre, alle, denne, same</em>
+* `EMPTY` (14439): <em>ein, den, eit, dei, ei, det, andre, alle, denne, same</em>
 
 ### `VERB`
 
@@ -68,8 +68,8 @@ The 10 most frequent relations where parent and child node agree in `Definite`:
 <tt>NOUN --[<tt><a href="no_nynorsk-dep-amod.html">amod</a></tt>]--> ADJ</tt> (5583; 52%),
 <tt>NOUN --[<tt><a href="no_nynorsk-dep-conj.html">conj</a></tt>]--> NOUN</tt> (2822; 85%),
 <tt>ADJ --[<tt><a href="no_nynorsk-dep-conj.html">conj</a></tt>]--> ADJ</tt> (603; 85%),
-<tt>NOUN --[<tt><a href="no_nynorsk-dep-obl.html">obl</a></tt>]--> NOUN</tt> (303; 55%),
-<tt>NOUN --[<tt><a href="no_nynorsk-dep-advmod.html">advmod</a></tt>]--> ADJ</tt> (219; 50%),
+<tt>NOUN --[<tt><a href="no_nynorsk-dep-obl.html">obl</a></tt>]--> NOUN</tt> (329; 56%),
+<tt>NOUN --[<tt><a href="no_nynorsk-dep-advmod.html">advmod</a></tt>]--> ADJ</tt> (250; 53%),
 <tt>ADJ --[<tt><a href="no_nynorsk-dep-obj.html">obj</a></tt>]--> NOUN</tt> (185; 83%),
 <tt>ADJ --[<tt><a href="no_nynorsk-dep-xcomp.html">xcomp</a></tt>]--> NOUN</tt> (97; 80%),
 <tt>ADJ --[<tt><a href="no_nynorsk-dep-conj.html">conj</a></tt>]--> NOUN</tt> (69; 56%),

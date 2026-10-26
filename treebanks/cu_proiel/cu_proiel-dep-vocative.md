@@ -35,12 +35,12 @@ The following 28 pairs of parts of speech are connected with `vocative`: <tt><a 
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 6 vocative	color:blue
-1	дивь҆но	дивьнъ	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	2	amod	_	ref=19
-2	чоудо	чоудо	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	5	obj	_	ref=19
-3	ти	тꙑ	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	obl:arg	_	ref=19
-4	и҅мамъ	имѣти	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=19
-5	съповѣдати	съповѣдати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	4	xcomp	_	ref=19
-6	филеа҆	филеи	PROPN	Ne	Case=Voc|Gender=Masc|Number=Sing	4	vocative	_	ref=19
+1	дивь҆но	дивьнъ	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	2	amod	_	Ref=19
+2	чоудо	чоудо	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	5	obj	_	Ref=19
+3	ти	тꙑ	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	obl:arg	_	Ref=19
+4	и҅мамъ	имѣти	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=19
+5	съповѣдати	съповѣдати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	4	xcomp	_	Ref=19
+6	филеа҆	филеи	PROPN	Ne	Case=Voc|Gender=Masc|Number=Sing	4	vocative	_	Ref=19
 
 ~~~
 
@@ -51,8 +51,8 @@ The following 28 pairs of parts of speech are connected with `vocative`: <tt><a 
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 vocative	color:blue
-1	҆Ѡ	ѡ	INTJ	I-	_	0	root	_	ref=27
-2	болѣꙁни	болѣзнь	NOUN	Nb	Case=Voc|Gender=Fem|Number=Sing	1	vocative	_	ref=27
+1	҆Ѡ	ѡ	INTJ	I-	_	0	root	_	Ref=27
+2	болѣꙁни	болѣзнь	NOUN	Nb	Case=Voc|Gender=Fem|Number=Sing	1	vocative	_	Ref=27
 
 ~~~
 

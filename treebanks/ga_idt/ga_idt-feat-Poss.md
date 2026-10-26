@@ -23,16 +23,16 @@ The most frequent other feature values with which `DET` and `Poss` co-occurred: 
 `DET` tokens may have the following values of `Poss`:
 
 * `Yes` (1073; 100% of non-empty `Poss`): <em>a, do, mo, d', ár, m', bhur, d’, dh', n-a</em>
-* `EMPTY` (9214): <em>an, na, seo, sin, eile, aon, gach, uile, ngach, san</em>
+* `EMPTY` (9211): <em>an, na, seo, sin, eile, aon, gach, uile, ngach, san</em>
 
 ### `ADP`
 
 907 <tt><a href="ga_idt-pos-ADP.html">ADP</a></tt> tokens (5% of all `ADP` tokens) have a non-empty value of `Poss`.
 
-The most frequent other feature values with which `ADP` and `Poss` co-occurred: <tt><a href="ga_idt-feat-Person.html">Person</a></tt><tt>=3</tt> (862; 95%), <tt><a href="ga_idt-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (700; 77%), <tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (629; 69%).
+The most frequent other feature values with which `ADP` and `Poss` co-occurred: <tt><a href="ga_idt-feat-Person.html">Person</a></tt><tt>=3</tt> (862; 95%), <tt><a href="ga_idt-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (700; 77%), <tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (628; 69%).
 
 `ADP` tokens may have the following values of `Poss`:
 
 * `Yes` (907; 100% of non-empty `Poss`): <em>ina, á, dá, lena, arna, faoina, óna, inár, dár, lenár</em>
-* `EMPTY` (17369): <em>ar, i, ag, le, de, sa, leis, chun, do, in</em>
+* `EMPTY` (17366): <em>ar, i, ag, le, de, sa, leis, chun, do, in</em>
 

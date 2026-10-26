@@ -70,13 +70,13 @@ The 2nd highest number of forms (38) was observed with the lemma “à”: <em>3
 
 The 3rd highest number of forms (26) was observed with the lemma “pour”: <em>3a, 3achen, 3ala, 3la, al, alla, bach, bache, bah, bech, beh, besh, f, fe, fel, fi, khatar, l, la, li, m3a, por, pou, pour, pr, to</em>.
 
-`ADP` occurs with 5 features: <tt><a href="qaf_arabizi-feat-AdpType.html">AdpType</a></tt> (1662; 98% instances), <tt><a href="qaf_arabizi-feat-Polarity.html">Polarity</a></tt> (27; 2% instances), <tt><a href="qaf_arabizi-feat-Typo.html">Typo</a></tt> (2; 0% instances), <tt><a href="qaf_arabizi-feat-Gender.html">Gender</a></tt> (1; 0% instances), <tt><a href="qaf_arabizi-feat-Number.html">Number</a></tt> (1; 0% instances)
+`ADP` occurs with 6 features: <tt><a href="qaf_arabizi-feat-AdpType.html">AdpType</a></tt> (1662; 98% instances), <tt><a href="qaf_arabizi-feat-Polarity.html">Polarity</a></tt> (27; 2% instances), <tt><a href="qaf_arabizi-feat-Typo.html">Typo</a></tt> (2; 0% instances), <tt><a href="qaf_arabizi-feat-ExtPos.html">ExtPos</a></tt> (1; 0% instances), <tt><a href="qaf_arabizi-feat-Gender.html">Gender</a></tt> (1; 0% instances), <tt><a href="qaf_arabizi-feat-Number.html">Number</a></tt> (1; 0% instances)
 
-`ADP` occurs with 5 feature-value pairs: `AdpType=Prep`, `Gender=Masc`, `Number=Sing`, `Polarity=Neg`, `Typo=Yes`
+`ADP` occurs with 6 feature-value pairs: `AdpType=Prep`, `ExtPos=DET`, `Gender=Masc`, `Number=Sing`, `Polarity=Neg`, `Typo=Yes`
 
-`ADP` occurs with 5 feature combinations.
-The most frequent feature combination is `AdpType=Prep` (1633 tokens).
-Examples: <em>fi, de, m3a, f, b, pour, ta3, a, 3la, bi</em>
+`ADP` occurs with 6 feature combinations.
+The most frequent feature combination is `AdpType=Prep` (1632 tokens).
+Examples: <em>fi, m3a, de, f, b, pour, ta3, a, 3la, bi</em>
 
 
 ## Relations

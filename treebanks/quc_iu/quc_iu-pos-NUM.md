@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Kiche-IU: POS Tags: `NUM`
 
 There are 26 `NUM` lemmas (2%), 27 `NUM` types (1%) and 65 `NUM` tokens (1%).
-Out of 15 observed tags, the rank of `NUM` is: 6 in number of lemmas, 7 in number of types and 13 in number of tokens.
+Out of 16 observed tags, the rank of `NUM` is: 6 in number of lemmas, 7 in number of types and 13 in number of tokens.
 
 The 10 most frequent `NUM` lemmas: <em>kebʼ, jun, oxibʼ, jobʼ, nabʼe, kajibʼ, ukabʼ, lajuj, uwuq, 2012</em>
 
@@ -27,7 +27,7 @@ The 10 most frequent ambiguous types:  <em>jun</em> (<tt><a href="quc_iu-pos-DET
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.038462 (the average of all parts of speech is 1.617880).
+The form / lemma ratio of `NUM` is 1.038462 (the average of all parts of speech is 1.617435).
 
 The 1st highest number of forms (2) was observed with the lemma “ukabʼ”: <em>Ukʼabʼ, ukabʼ</em>.
 

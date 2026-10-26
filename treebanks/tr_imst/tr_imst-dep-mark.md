@@ -38,7 +38,7 @@ The following 7 pairs of parts of speech are connected with `mark`: <tt><a href=
 # visual-style 1 2 mark	color:blue
 1	Dün	dün	NOUN	Noun	Case=Nom|Number=Sing|Person=3	8	obl	_	_
 2	de	de	CCONJ	Conj	_	1	mark	_	_
-3	bir	bir	DET	ANum	_	4	det	_	_
+3	bir	bir	DET	ANum	PronType=Ind	4	det	_	_
 4	kamyon	kamyon	NOUN	Noun	Case=Nom|Number=Sing|Person=3	8	nsubj	_	SpaceAfter=No
 5	,	,	PUNCT	Punc	_	8	punct	_	_
 6	kutuları	kutu	NOUN	Noun	Case=Acc|Number=Plur|Person=3	8	obj	_	_
@@ -56,10 +56,10 @@ The following 7 pairs of parts of speech are connected with `mark`: <tt><a href=
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 7 mark	color:blue
-1	Her	her	DET	Det	_	2	det	_	_
+1	Her	her	DET	Det	PronType=Dem	2	det	_	_
 2	gün	gün	NOUN	Noun	Case=Nom|Number=Sing|Person=3	3	obl	_	_
 3	tekrarlanan	tekrarla	VERB	Verb	Aspect=Perf|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Pass	5	acl	_	_
-4	bu	bu	DET	Det	_	5	det	_	_
+4	bu	bu	DET	Det	PronType=Dem	5	det	_	_
 5	rutine	rutin	ADJ	NAdj	Case=Dat|Number=Sing|Person=3	10	nmod	_	_
 6	belli	belli	ADJ	Adj	_	10	amod	_	_
 7	ki	ki	CCONJ	Conj	_	6	mark	_	_

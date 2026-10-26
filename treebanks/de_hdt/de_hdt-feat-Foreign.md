@@ -11,7 +11,7 @@ It occurs with 1 different values: `Yes`.
 
 53405 tokens (2%) have a non-empty value of `Foreign`.
 10446 types (6%) occur at least once with a non-empty value of `Foreign`.
-10440 lemmas (15%) occur at least once with a non-empty value of `Foreign`.
+10440 lemmas (7%) occur at least once with a non-empty value of `Foreign`.
 The feature is used with 4 part-of-speech tags: <tt><a href="de_hdt-pos-X.html">X</a></tt> (53384; 2% instances), <tt><a href="de_hdt-pos-DET.html">DET</a></tt> (17; 0% instances), <tt><a href="de_hdt-pos-PUNCT.html">PUNCT</a></tt> (3; 0% instances), <tt><a href="de_hdt-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 ### `X`

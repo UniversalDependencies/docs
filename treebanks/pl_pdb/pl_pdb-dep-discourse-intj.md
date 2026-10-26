@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="pl_pdb-dep-discourse.html">discourse</a></tt>.
 
-150 nodes (0%) are attached to their parents as `discourse:intj`.
+151 nodes (0%) are attached to their parents as `discourse:intj`.
 
-124 instances of `discourse:intj` (83%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.53333333333333.
+125 instances of `discourse:intj` (83%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.49668874172185.
 
-The following 9 pairs of parts of speech are connected with `discourse:intj`: <tt><a href="pl_pdb-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_pdb-pos-INTJ.html">INTJ</a></tt> (100; 67% instances), <tt><a href="pl_pdb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_pdb-pos-INTJ.html">INTJ</a></tt> (24; 16% instances), <tt><a href="pl_pdb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_pdb-pos-INTJ.html">INTJ</a></tt> (10; 7% instances), <tt><a href="pl_pdb-pos-INTJ.html">INTJ</a></tt>-<tt><a href="pl_pdb-pos-INTJ.html">INTJ</a></tt> (4; 3% instances), <tt><a href="pl_pdb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pl_pdb-pos-INTJ.html">INTJ</a></tt> (4; 3% instances), <tt><a href="pl_pdb-pos-ADV.html">ADV</a></tt>-<tt><a href="pl_pdb-pos-INTJ.html">INTJ</a></tt> (2; 1% instances), <tt><a href="pl_pdb-pos-DET.html">DET</a></tt>-<tt><a href="pl_pdb-pos-INTJ.html">INTJ</a></tt> (2; 1% instances), <tt><a href="pl_pdb-pos-PART.html">PART</a></tt>-<tt><a href="pl_pdb-pos-INTJ.html">INTJ</a></tt> (2; 1% instances), <tt><a href="pl_pdb-pos-PRON.html">PRON</a></tt>-<tt><a href="pl_pdb-pos-INTJ.html">INTJ</a></tt> (2; 1% instances).
+The following 9 pairs of parts of speech are connected with `discourse:intj`: <tt><a href="pl_pdb-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_pdb-pos-INTJ.html">INTJ</a></tt> (100; 66% instances), <tt><a href="pl_pdb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_pdb-pos-INTJ.html">INTJ</a></tt> (25; 17% instances), <tt><a href="pl_pdb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_pdb-pos-INTJ.html">INTJ</a></tt> (10; 7% instances), <tt><a href="pl_pdb-pos-INTJ.html">INTJ</a></tt>-<tt><a href="pl_pdb-pos-INTJ.html">INTJ</a></tt> (4; 3% instances), <tt><a href="pl_pdb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pl_pdb-pos-INTJ.html">INTJ</a></tt> (4; 3% instances), <tt><a href="pl_pdb-pos-ADV.html">ADV</a></tt>-<tt><a href="pl_pdb-pos-INTJ.html">INTJ</a></tt> (2; 1% instances), <tt><a href="pl_pdb-pos-DET.html">DET</a></tt>-<tt><a href="pl_pdb-pos-INTJ.html">INTJ</a></tt> (2; 1% instances), <tt><a href="pl_pdb-pos-PART.html">PART</a></tt>-<tt><a href="pl_pdb-pos-INTJ.html">INTJ</a></tt> (2; 1% instances), <tt><a href="pl_pdb-pos-PRON.html">PRON</a></tt>-<tt><a href="pl_pdb-pos-INTJ.html">INTJ</a></tt> (2; 1% instances).
 
 
 ~~~ conllu

@@ -63,7 +63,7 @@ The following 14 pairs of parts of speech are connected with `cc`: <tt><a href="
 # visual-style 2 1 cc	color:blue
 1	Y	y	CCONJ	cc	_	2	cc	_	_
 2	usted	tú	PRON	pp2cs00p	Case=Acc,Nom|Number=Sing|Person=2|Polite=Form|PronType=Prs	7	nsubj	_	SpaceAfter=No
-3	,	,	PUNCT	fc	PunctType=Comm	7	punct	_	_
+3	,	,	PUNCT	fc	PunctType=Comm	2	punct	_	_
 4	¿	¿	PUNCT	fia	PunctSide=Ini|PunctType=Qest	7	punct	_	SpaceAfter=No
 5	desde	desde	ADP	sps00	_	6	case	_	_
 6	cuándo	cuándo	PRON	pt000000	PronType=Int	7	obl	_	_

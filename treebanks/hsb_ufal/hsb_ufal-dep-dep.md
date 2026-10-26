@@ -31,7 +31,7 @@ The following 6 pairs of parts of speech are connected with `dep`: <tt><a href="
 6	disponujomnosć	disponujomnosć	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	3	obj	_	_
 7	přihódnych	přihódny	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	8	amod	_	_
 8	wutkow	wutk	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	6	nmod	_	_
-9	ale	ale	CCONJ	_	_	16	cc	_	_
+9	ale	ale	CCONJ	_	ExtPos=CCONJ	16	cc	_	_
 10	tež	tež	ADV	_	_	9	fixed	_	_
 11	krótkodobnu	krótkodobny	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	16	amod	_	SpaceAfter=No
 12	,	,	PUNCT	_	_	13	punct	_	_

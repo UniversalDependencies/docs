@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 2 language-specific subtypes of `compound`: <tt><a href="fi_pud-dep-compound-nn.html">compound:nn</a></tt>, <tt><a href="fi_pud-dep-compound-prt.html">compound:prt</a></tt>.
 
-22 nodes (0%) are attached to their parents as `compound`.
+25 nodes (0%) are attached to their parents as `compound`.
 
-22 instances of `compound` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.40909090909091.
+25 instances of `compound` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.64.
 
-The following 1 pairs of parts of speech are connected with `compound`: <tt><a href="fi_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="fi_pud-pos-NUM.html">NUM</a></tt> (22; 100% instances).
+The following 2 pairs of parts of speech are connected with `compound`: <tt><a href="fi_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="fi_pud-pos-NUM.html">NUM</a></tt> (22; 88% instances), <tt><a href="fi_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fi_pud-pos-X.html">X</a></tt> (3; 12% instances).
 
 
 ~~~ conllu
@@ -35,6 +35,29 @@ The following 1 pairs of parts of speech are connected with `compound`: <tt><a h
 10	846	846	NUM	_	NumType=Card	7	obl	7:obl	SpaceAfter=No
 11	)	)	PUNCT	_	_	7	punct	7:punct	SpaceAfter=No
 12	.	.	PUNCT	_	_	4	punct	4:punct	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 12 10 compound	color:blue
+1	Maasota	maa#sota	NOUN	_	Case=Nom|Number=Sing	2	nsubj	2:nsubj	_
+2	muuttui	muuttua	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+3	ensimmäisen	ensimmäinen	ADJ	_	Case=Gen|Derivation=Inen|Number=Sing|NumType=Ord	4	amod	4:amod	_
+4	maailmansodan	maailman#sota	NOUN	_	Case=Gen|Number=Sing	6	nmod:poss	6:nmod:poss	_
+5	liikkumattomista	liikkumaton	ADJ	_	Case=Ela|Degree=Pos|Derivation=Ton|Number=Plur	6	amod	6:amod	_
+6	etulinjoista	etu#linja	NOUN	_	Case=Ela|Number=Plur	2	obl	2:obl	_
+7	lisääntyneeseen	lisääntyä	VERB	_	Case=Ill|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	8	acl	8:acl	_
+8	liikkuvuuteen	liikkuvuus	NOUN	_	Case=Ill|Derivation=Vs|Number=Sing	2	obl	2:obl	_
+9	ja	ja	CCONJ	_	_	12	cc	12:cc	_
+10	combined	combined	X	_	Foreign=Yes	12	compound	12:compound	OrigLang=en
+11	arms	arms	X	_	Foreign=Yes	10	flat:foreign	10:flat:foreign	OrigLang=en
+12	-taktiikkaan	taktiikka	NOUN	_	Case=Ill|Number=Sing	8	conj	8:conj	SpaceAfter=No
+13	.	.	PUNCT	_	_	2	punct	2:punct	_
 
 ~~~
 

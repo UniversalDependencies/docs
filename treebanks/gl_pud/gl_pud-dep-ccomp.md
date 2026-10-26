@@ -13,7 +13,7 @@ This relation is universal.
 182 instances of `ccomp` (99%) are left-to-right (parent precedes child).
 Average distance between parent and child is 6.93478260869565.
 
-The following 10 pairs of parts of speech are connected with `ccomp`: <tt><a href="gl_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_pud-pos-VERB.html">VERB</a></tt> (146; 79% instances), <tt><a href="gl_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_pud-pos-NOUN.html">NOUN</a></tt> (16; 9% instances), <tt><a href="gl_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_pud-pos-ADJ.html">ADJ</a></tt> (9; 5% instances), <tt><a href="gl_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gl_pud-pos-VERB.html">VERB</a></tt> (4; 2% instances), <tt><a href="gl_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_pud-pos-VERB.html">VERB</a></tt> (4; 2% instances), <tt><a href="gl_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gl_pud-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="gl_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gl_pud-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="gl_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_pud-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="gl_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_pud-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="gl_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_pud-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
+The following 10 pairs of parts of speech are connected with `ccomp`: <tt><a href="gl_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_pud-pos-VERB.html">VERB</a></tt> (147; 80% instances), <tt><a href="gl_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_pud-pos-NOUN.html">NOUN</a></tt> (16; 9% instances), <tt><a href="gl_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_pud-pos-ADJ.html">ADJ</a></tt> (9; 5% instances), <tt><a href="gl_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gl_pud-pos-VERB.html">VERB</a></tt> (4; 2% instances), <tt><a href="gl_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_pud-pos-VERB.html">VERB</a></tt> (3; 2% instances), <tt><a href="gl_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gl_pud-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="gl_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gl_pud-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="gl_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_pud-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="gl_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_pud-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="gl_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_pud-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -47,7 +47,7 @@ The following 10 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 # visual-style 2 9 ccomp	color:blue
 1	Non	non	ADV	RN	Polarity=Neg	2	advmod	_	_
 2	digo	dicir	VERB	VMIP1S0	Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	_
-3	a	a	ADP	SP	AdpType=Prep	2	advmod	_	_
+3	a	a	ADP	SP	AdpType=Prep|ExtPos=ADV	2	advmod	_	_
 4	a	o	DET	DA0FS0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	fixed	_	_
 5	lixeira	lixeiro	ADJ	AQ0FS	_	3	fixed	_	_
 6	que	que	PRON	PR0CN000	Gender=Neut|PronType=Rel	9	nsubj	_	_
@@ -66,7 +66,7 @@ The following 10 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 # visual-style 8	fgColor:white
 # visual-style 8 13 ccomp	color:blue
 1	Tes	ter	AUX	VMIP2S0	Mood=Ind|Number=Sing|Person=2|Tense=Pres	3	aux	_	_
-2	que	que	ADP	SP	AdpType=Prep	1	fixed	_	_
+2	que	que	SCONJ	CS	_	3	mark	_	_
 3	facer	facer	VERB	VMN0000	VerbForm=Inf	0	root	_	SpaceAfter=No
 4	lle	lle	PRON	PP3CSD00	Case=Dat|Gender=Com|Number=Sing|Person=3|PronType=Prs	3	iobj	_	_
 5	fronte	fronte	NOUN	NCFS000	Gender=Fem|Number=Sing	3	obj	_	SpaceAfter=No

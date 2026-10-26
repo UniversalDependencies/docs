@@ -62,6 +62,7 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 
 <table>
   <tr><th>Paradigm <i>o</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th><th><tt>Abl</tt></th></tr>
+  <tr><td><tt><tt><a href="qtd_sagt-feat-ExtPos.html">ExtPos</a></tt><tt>=ADV</tt>|<tt><a href="qtd_sagt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td></td><td><em>onun</em></td><td></td><td></td><td><em>ondan</em></td></tr>
   <tr><td><tt><tt><a href="qtd_sagt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>o</em></td><td><em>onu</em></td><td><em>ona</em></td><td><em>onun</em></td><td></td><td><em>onunla</em></td><td><em>ondan</em></td></tr>
   <tr><td><tt><tt><a href="qtd_sagt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="qtd_sagt-feat-Typo.html">Typo</a></tt><tt>=Yes</tt></tt></td><td></td><td></td><td></td><td><em>o--</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="qtd_sagt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>onlar, o</em></td><td><em>onları</em></td><td><em>onlara</em></td><td><em>Onların</em></td><td><em>Onlarda</em></td><td><em>onlarla</em></td><td><em>onlardan</em></td></tr>

@@ -96,7 +96,7 @@ The following 15 pairs of parts of speech are connected with `orphan`: <tt><a hr
 12	Πάτρα	Πάτρα	PROPN	PROPN	Case=Acc|Gender=Fem|Number=Sing	9	conj	_	_
 13	και	και	CCONJ	CCONJ	_	18	cc	_	_
 14	σ	σε	ADP	ADP	_	16	case	_	_
-15	τη	ο	DET	DET	Case=Acc|Gender=Fem|Number=Sing	16	det	_	_
+15	τη	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
 16	συνέχεια	συνέχεια	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	18	orphan	_	_
 17	με	με	ADP	ADP	_	18	case	_	_
 18	πλοίο	πλοίο	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	4	conj	_	_

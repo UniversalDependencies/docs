@@ -72,9 +72,9 @@ The following 26 pairs of parts of speech are connected with `dislocated`: <tt><
 5	i	i	ADP	prep	_	6	case	_	_
 6	to	to	NUM	det	Number=Plur|NumType=Card	3	obl	_	SpaceAfter=No
 7	:	$:	PUNCT	clb	_	8	punct	_	_
-8	svart	svart	ADJ	adj	Definite=Ind|Degree=Pos|Gender=Fem,Masc	3	dislocated	_	_
+8	svart	svart	ADJ	adj	Definite=Ind|Degree=Pos|Gender=Com	3	dislocated	_	_
 9	og	og	CCONJ	konj	_	10	cc	_	_
-10	kvit	kvit	ADJ	adj	Definite=Ind|Degree=Pos|Gender=Fem,Masc	8	conj	_	SpaceAfter=No
+10	kvit	kvit	ADJ	adj	Definite=Ind|Degree=Pos|Gender=Com	8	conj	_	SpaceAfter=No
 11	.	$.	PUNCT	clb	_	3	punct	_	_
 
 ~~~

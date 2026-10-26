@@ -11,7 +11,7 @@ This relation is universal.
 34 nodes (0%) are attached to their parents as `vocative`.
 
 24 instances of `vocative` (71%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.32352941176471.
+Average distance between parent and child is 3.35294117647059.
 
 The following 6 pairs of parts of speech are connected with `vocative`: <tt><a href="sk_snk-pos-VERB.html">VERB</a></tt>-<tt><a href="sk_snk-pos-PROPN.html">PROPN</a></tt> (16; 47% instances), <tt><a href="sk_snk-pos-VERB.html">VERB</a></tt>-<tt><a href="sk_snk-pos-NOUN.html">NOUN</a></tt> (12; 35% instances), <tt><a href="sk_snk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sk_snk-pos-PROPN.html">PROPN</a></tt> (2; 6% instances), <tt><a href="sk_snk-pos-PRON.html">PRON</a></tt>-<tt><a href="sk_snk-pos-NOUN.html">NOUN</a></tt> (2; 6% instances), <tt><a href="sk_snk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sk_snk-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="sk_snk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sk_snk-pos-NOUN.html">NOUN</a></tt> (1; 3% instances).
 

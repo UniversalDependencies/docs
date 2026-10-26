@@ -58,7 +58,7 @@ The following 2 pairs of parts of speech are connected with `xcomp:cleft`: <tt><
 9	poznania	poznanie	NOUN	subst:sg:gen:n:ncol	Case=Gen|Gender=Neut|Number=Sing	7	nmod	7:nmod	SpaceAfter=No
 10	)	)	PUNCT	interp	PunctSide=Fin|PunctType=Brck	9	punct	9:punct	SpaceAfter=No
 11	,	,	PUNCT	interp	PunctType=Comm	14	punct	14:punct	_
-12	ale	ale	CCONJ	conj	_	14	cc	14:cc	_
+12	ale	ale	CCONJ	conj	ExtPos=CCONJ	14	cc	14:cc	_
 13	i	i	PART	part	_	12	fixed	12:fixed	_
 14	dąży	dążyć	VERB	fin:sg:ter:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	conj	0:root|6:conj	_
 15	do	do	ADP	prep:gen	AdpType=Prep	16	case	16:case	Case=Gen
@@ -67,7 +67,7 @@ The following 2 pairs of parts of speech are connected with `xcomp:cleft`: <tt><
 18	aby	aby	SCONJ	comp	_	22	mark	22:mark	_
 19	być	być	AUX	inf:imperf	Aspect=Imp|VerbForm=Inf|Voice=Act	22	cop	22:cop	_
 20	jego	on	PRON	ppron3:sg:gen:n:ter:akc:npraep	Case=Gen|Gender=Neut|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs|Variant=Long	22	nmod	22:nmod	_
-21	rozumiejącym	rozumieć	ADJ	pact:sg:inst:m1:imperf:aff	Animacy=Hum|Aspect=Imp|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Act	22	acl	22:acl	_
+21	rozumiejącym	rozumieć	ADJ	pact:sg:inst:m1:imperf:aff	Animacy=Hum|Aspect=Imp|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Act	22	amod	22:amod	_
 22	uczestnikiem	uczestnik	NOUN	subst:sg:inst:m1	Animacy=Hum|Case=Ins|Gender=Masc|Number=Sing	16	xcomp:cleft	16:xcomp:cleft	SpaceAfter=No
 23	.	.	PUNCT	interp	PunctType=Peri	6	punct	6:punct	_
 

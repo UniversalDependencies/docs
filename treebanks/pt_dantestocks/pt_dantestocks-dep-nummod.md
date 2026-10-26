@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-2290 nodes (3%) are attached to their parents as `nummod`.
+2292 nodes (3%) are attached to their parents as `nummod`.
 
-1680 instances of `nummod` (73%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.02707423580786.
+1682 instances of `nummod` (73%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.02705061082024.
 
-The following 6 pairs of parts of speech are connected with `nummod`: <tt><a href="pt_dantestocks-pos-SYM.html">SYM</a></tt>-<tt><a href="pt_dantestocks-pos-NUM.html">NUM</a></tt> (1666; 73% instances), <tt><a href="pt_dantestocks-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_dantestocks-pos-NUM.html">NUM</a></tt> (604; 26% instances), <tt><a href="pt_dantestocks-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_dantestocks-pos-NUM.html">NUM</a></tt> (15; 1% instances), <tt><a href="pt_dantestocks-pos-X.html">X</a></tt>-<tt><a href="pt_dantestocks-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="pt_dantestocks-pos-ADV.html">ADV</a></tt>-<tt><a href="pt_dantestocks-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="pt_dantestocks-pos-NUM.html">NUM</a></tt>-<tt><a href="pt_dantestocks-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 6 pairs of parts of speech are connected with `nummod`: <tt><a href="pt_dantestocks-pos-SYM.html">SYM</a></tt>-<tt><a href="pt_dantestocks-pos-NUM.html">NUM</a></tt> (1666; 73% instances), <tt><a href="pt_dantestocks-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_dantestocks-pos-NUM.html">NUM</a></tt> (606; 26% instances), <tt><a href="pt_dantestocks-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_dantestocks-pos-NUM.html">NUM</a></tt> (15; 1% instances), <tt><a href="pt_dantestocks-pos-X.html">X</a></tt>-<tt><a href="pt_dantestocks-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="pt_dantestocks-pos-ADV.html">ADV</a></tt>-<tt><a href="pt_dantestocks-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="pt_dantestocks-pos-NUM.html">NUM</a></tt>-<tt><a href="pt_dantestocks-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -32,7 +32,7 @@ The following 6 pairs of parts of speech are connected with `nummod`: <tt><a hre
 8	sem	sem	ADP	_	_	9	mark	_	_
 9	parar	parar	VERB	_	VerbForm=Inf	7	advcl	_	SpaceAfter=No
 10	…	…	PUNCT	_	_	7	punct	_	_
-11	#CPIdaPTbras	#CPIdaPTbras	X	_	_	7	parataxis	_	SpaceAfter=No
+11	#CPIdaPTbras	#CPIdaPTbras	X	_	_	7	parataxis	_	_
 
 ~~~
 
@@ -53,7 +53,7 @@ The following 6 pairs of parts of speech are connected with `nummod`: <tt><a hre
 8	nocao	noção	NOUN	_	Gender=Fem|Number=Sing|Typo=Yes	6	obl	_	CorrectForm=noção
 9	de	de	ADP	_	_	10	case	_	_
 10	fundo	fundo	NOUN	_	Gender=Masc|Number=Sing	8	nmod	_	SpaceAfter=No
-11	...	...	PUNCT	_	_	3	punct	_	SpaceAfter=No
+11	...	...	PUNCT	_	_	3	punct	_	_
 
 ~~~
 
@@ -77,7 +77,7 @@ The following 6 pairs of parts of speech are connected with `nummod`: <tt><a hre
 11	acha	achar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	parataxis	_	_
 12	que	que	SCONJ	_	_	13	mark	_	_
 13	vale	valer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	ccomp	_	SpaceAfter=No
-14	?	?	PUNCT	_	_	4	punct	_	SpaceAfter=No
+14	?	?	PUNCT	_	_	4	punct	_	_
 
 ~~~
 

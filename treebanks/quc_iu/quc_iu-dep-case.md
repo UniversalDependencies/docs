@@ -60,8 +60,8 @@ The following 4 pairs of parts of speech are connected with `case`: <tt><a href=
 # visual-style 4	fgColor:white
 # visual-style 4 1 case	color:blue
 1	Pa	pa	ADP	_	_	4	case	_	_
-2	Nawal	nawal	NOUN	_	_	4	obl	_	_
-3	jaʼ	jaʼ	NOUN	_	_	2	goeswith	_	_
+2	Nawal	nawaljaʼ	NOUN	_	Typo=Yes	4	obl	_	CorrectForm=Nawaljaʼ
+3	jaʼ	_	X	_	_	2	goeswith	_	_
 4	xinalex	alax	VERB	_	Aspect=Perf|Number[subj]=Sing|Person[subj]=1|Subcat=Intr|VerbForm=Fin	0	root	_	_
 5	ik	ik	PART	_	_	4	dep:ss	_	_
 6	.	.	PUNCT	_	_	4	punct	_	_

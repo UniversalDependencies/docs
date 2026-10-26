@@ -22,7 +22,7 @@ The following 10 pairs of parts of speech are connected with `root`: -<tt><a hre
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 6 root	color:blue
-1	לפני	לפני	ADP	ADP	_	3	mark	_	_
+1	לפני	לפני	ADP	ADP	ExtPos=SCONJ	3	mark	_	_
 2	ש	ש	SCONJ	SCONJ	_	1	fixed	_	_
 3	ניתנת	ניתן	VERB	VERB	Gender=Fem|HebBinyan=NIFAL|Number=Sing|Person=3|Tense=Pres|VerbForm=Part|Voice=Pass	6	advcl	_	_
 4	מנת	מנה	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Sing	3	nsubj:pass	_	_

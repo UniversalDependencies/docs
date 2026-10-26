@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Italian-Valico: POS Tags: `ADJ`
 
-There are 167 `ADJ` lemmas (16%), 197 `ADJ` types (14%) and 310 `ADJ` tokens (5%).
+There are 166 `ADJ` lemmas (16%), 196 `ADJ` types (14%) and 309 `ADJ` tokens (5%).
 Out of 16 observed tags, the rank of `ADJ` is: 3 in number of lemmas, 3 in number of types and 9 in number of tokens.
 
 The 10 most frequent `ADJ` lemmas: <em>brutto, bello, grande, contento, forte, simpatico, biondo, felice, giovane, strano</em>
@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>brutto</em> (<tt><a href="it_valico-p
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 1.179641 (the average of all parts of speech is 1.389210).
+The form / lemma ratio of `ADJ` is 1.180723 (the average of all parts of speech is 1.391304).
 
 The 1st highest number of forms (3) was observed with the lemma “bello”: <em>bella, bellissima, bello</em>.
 
@@ -59,24 +59,24 @@ The 2nd highest number of forms (3) was observed with the lemma “contento”: 
 
 The 3rd highest number of forms (3) was observed with the lemma “grande”: <em>grande, grandi, grandissimo</em>.
 
-`ADJ` occurs with 6 features: <tt><a href="it_valico-feat-Number.html">Number</a></tt> (309; 100% instances), <tt><a href="it_valico-feat-Gender.html">Gender</a></tt> (240; 77% instances), <tt><a href="it_valico-feat-Degree.html">Degree</a></tt> (8; 3% instances), <tt><a href="it_valico-feat-NumType.html">NumType</a></tt> (2; 1% instances), <tt><a href="it_valico-feat-PronType.html">PronType</a></tt> (1; 0% instances), <tt><a href="it_valico-feat-Typo.html">Typo</a></tt> (1; 0% instances)
+`ADJ` occurs with 5 features: <tt><a href="it_valico-feat-Number.html">Number</a></tt> (308; 100% instances), <tt><a href="it_valico-feat-Gender.html">Gender</a></tt> (240; 78% instances), <tt><a href="it_valico-feat-Degree.html">Degree</a></tt> (8; 3% instances), <tt><a href="it_valico-feat-NumType.html">NumType</a></tt> (2; 1% instances), <tt><a href="it_valico-feat-Typo.html">Typo</a></tt> (1; 0% instances)
 
-`ADJ` occurs with 9 feature-value pairs: `Degree=Abs`, `Degree=Cmp`, `Gender=Fem`, `Gender=Masc`, `NumType=Ord`, `Number=Plur`, `Number=Sing`, `PronType=Dem`, `Typo=Yes`
+`ADJ` occurs with 8 feature-value pairs: `Degree=Abs`, `Degree=Cmp`, `Gender=Fem`, `Gender=Masc`, `NumType=Ord`, `Number=Plur`, `Number=Sing`, `Typo=Yes`
 
-`ADJ` occurs with 15 feature combinations.
+`ADJ` occurs with 14 feature combinations.
 The most frequent feature combination is `Gender=Masc|Number=Sing` (129 tokens).
 Examples: <em>brutto, simpatico, bel, bello, carino, muscoloso, timido, improviso, nuovo, robusto</em>
 
 
 ## Relations
 
-`ADJ` nodes are attached to their parents using 13 different relations: <tt><a href="it_valico-dep-amod.html">amod</a></tt> (175; 56% instances), <tt><a href="it_valico-dep-conj.html">conj</a></tt> (39; 13% instances), <tt><a href="it_valico-dep-root.html">root</a></tt> (38; 12% instances), <tt><a href="it_valico-dep-xcomp.html">xcomp</a></tt> (27; 9% instances), <tt><a href="it_valico-dep-ccomp.html">ccomp</a></tt> (9; 3% instances), <tt><a href="it_valico-dep-obl.html">obl</a></tt> (9; 3% instances), <tt><a href="it_valico-dep-parataxis.html">parataxis</a></tt> (4; 1% instances), <tt><a href="it_valico-dep-advcl.html">advcl</a></tt> (3; 1% instances), <tt><a href="it_valico-dep-nmod.html">nmod</a></tt> (2; 1% instances), <tt><a href="it_valico-dep-acl-relcl.html">acl:relcl</a></tt> (1; 0% instances), <tt><a href="it_valico-dep-mark.html">mark</a></tt> (1; 0% instances), <tt><a href="it_valico-dep-orphan.html">orphan</a></tt> (1; 0% instances), <tt><a href="it_valico-dep-vocative.html">vocative</a></tt> (1; 0% instances)
+`ADJ` nodes are attached to their parents using 12 different relations: <tt><a href="it_valico-dep-amod.html">amod</a></tt> (175; 57% instances), <tt><a href="it_valico-dep-conj.html">conj</a></tt> (39; 13% instances), <tt><a href="it_valico-dep-root.html">root</a></tt> (38; 12% instances), <tt><a href="it_valico-dep-xcomp.html">xcomp</a></tt> (27; 9% instances), <tt><a href="it_valico-dep-ccomp.html">ccomp</a></tt> (9; 3% instances), <tt><a href="it_valico-dep-obl.html">obl</a></tt> (9; 3% instances), <tt><a href="it_valico-dep-parataxis.html">parataxis</a></tt> (4; 1% instances), <tt><a href="it_valico-dep-advcl.html">advcl</a></tt> (3; 1% instances), <tt><a href="it_valico-dep-nmod.html">nmod</a></tt> (2; 1% instances), <tt><a href="it_valico-dep-acl-relcl.html">acl:relcl</a></tt> (1; 0% instances), <tt><a href="it_valico-dep-orphan.html">orphan</a></tt> (1; 0% instances), <tt><a href="it_valico-dep-vocative.html">vocative</a></tt> (1; 0% instances)
 
-Parents of `ADJ` nodes belong to 6 different parts of speech: <tt><a href="it_valico-pos-NOUN.html">NOUN</a></tt> (174; 56% instances), <tt><a href="it_valico-pos-VERB.html">VERB</a></tt> (64; 21% instances),  (38; 12% instances), <tt><a href="it_valico-pos-ADJ.html">ADJ</a></tt> (27; 9% instances), <tt><a href="it_valico-pos-PRON.html">PRON</a></tt> (6; 2% instances), <tt><a href="it_valico-pos-PROPN.html">PROPN</a></tt> (1; 0% instances)
+Parents of `ADJ` nodes belong to 6 different parts of speech: <tt><a href="it_valico-pos-NOUN.html">NOUN</a></tt> (174; 56% instances), <tt><a href="it_valico-pos-VERB.html">VERB</a></tt> (63; 20% instances),  (38; 12% instances), <tt><a href="it_valico-pos-ADJ.html">ADJ</a></tt> (27; 9% instances), <tt><a href="it_valico-pos-PRON.html">PRON</a></tt> (6; 2% instances), <tt><a href="it_valico-pos-PROPN.html">PROPN</a></tt> (1; 0% instances)
 
 160 (52%) `ADJ` nodes are leaves.
 
-60 (19%) `ADJ` nodes have one child.
+59 (19%) `ADJ` nodes have one child.
 
 20 (6%) `ADJ` nodes have two children.
 
@@ -84,7 +84,7 @@ Parents of `ADJ` nodes belong to 6 different parts of speech: <tt><a href="it_va
 
 The highest child degree of a `ADJ` node is 9.
 
-Children of `ADJ` nodes are attached using 20 different relations: <tt><a href="it_valico-dep-advmod.html">advmod</a></tt> (86; 20% instances), <tt><a href="it_valico-dep-cop.html">cop</a></tt> (68; 16% instances), <tt><a href="it_valico-dep-punct.html">punct</a></tt> (57; 13% instances), <tt><a href="it_valico-dep-conj.html">conj</a></tt> (50; 12% instances), <tt><a href="it_valico-dep-nsubj.html">nsubj</a></tt> (38; 9% instances), <tt><a href="it_valico-dep-cc.html">cc</a></tt> (37; 9% instances), <tt><a href="it_valico-dep-obl.html">obl</a></tt> (22; 5% instances), <tt><a href="it_valico-dep-mark.html">mark</a></tt> (15; 3% instances), <tt><a href="it_valico-dep-advcl.html">advcl</a></tt> (13; 3% instances), <tt><a href="it_valico-dep-case.html">case</a></tt> (11; 3% instances), <tt><a href="it_valico-dep-aux.html">aux</a></tt> (8; 2% instances), <tt><a href="it_valico-dep-det.html">det</a></tt> (7; 2% instances), <tt><a href="it_valico-dep-csubj.html">csubj</a></tt> (5; 1% instances), <tt><a href="it_valico-dep-xcomp.html">xcomp</a></tt> (5; 1% instances), <tt><a href="it_valico-dep-parataxis.html">parataxis</a></tt> (3; 1% instances), <tt><a href="it_valico-dep-acl-relcl.html">acl:relcl</a></tt> (1; 0% instances), <tt><a href="it_valico-dep-amod.html">amod</a></tt> (1; 0% instances), <tt><a href="it_valico-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="it_valico-dep-fixed.html">fixed</a></tt> (1; 0% instances), <tt><a href="it_valico-dep-goeswith.html">goeswith</a></tt> (1; 0% instances)
+Children of `ADJ` nodes are attached using 19 different relations: <tt><a href="it_valico-dep-advmod.html">advmod</a></tt> (86; 20% instances), <tt><a href="it_valico-dep-cop.html">cop</a></tt> (68; 16% instances), <tt><a href="it_valico-dep-punct.html">punct</a></tt> (57; 13% instances), <tt><a href="it_valico-dep-conj.html">conj</a></tt> (50; 12% instances), <tt><a href="it_valico-dep-nsubj.html">nsubj</a></tt> (38; 9% instances), <tt><a href="it_valico-dep-cc.html">cc</a></tt> (37; 9% instances), <tt><a href="it_valico-dep-obl.html">obl</a></tt> (22; 5% instances), <tt><a href="it_valico-dep-mark.html">mark</a></tt> (15; 3% instances), <tt><a href="it_valico-dep-advcl.html">advcl</a></tt> (13; 3% instances), <tt><a href="it_valico-dep-case.html">case</a></tt> (11; 3% instances), <tt><a href="it_valico-dep-aux.html">aux</a></tt> (8; 2% instances), <tt><a href="it_valico-dep-det.html">det</a></tt> (7; 2% instances), <tt><a href="it_valico-dep-csubj.html">csubj</a></tt> (5; 1% instances), <tt><a href="it_valico-dep-xcomp.html">xcomp</a></tt> (5; 1% instances), <tt><a href="it_valico-dep-parataxis.html">parataxis</a></tt> (3; 1% instances), <tt><a href="it_valico-dep-acl-relcl.html">acl:relcl</a></tt> (1; 0% instances), <tt><a href="it_valico-dep-amod.html">amod</a></tt> (1; 0% instances), <tt><a href="it_valico-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="it_valico-dep-goeswith.html">goeswith</a></tt> (1; 0% instances)
 
-Children of `ADJ` nodes belong to 13 different parts of speech: <tt><a href="it_valico-pos-ADV.html">ADV</a></tt> (86; 20% instances), <tt><a href="it_valico-pos-AUX.html">AUX</a></tt> (76; 18% instances), <tt><a href="it_valico-pos-PUNCT.html">PUNCT</a></tt> (57; 13% instances), <tt><a href="it_valico-pos-VERB.html">VERB</a></tt> (47; 11% instances), <tt><a href="it_valico-pos-NOUN.html">NOUN</a></tt> (44; 10% instances), <tt><a href="it_valico-pos-CCONJ.html">CCONJ</a></tt> (37; 9% instances), <tt><a href="it_valico-pos-ADJ.html">ADJ</a></tt> (27; 6% instances), <tt><a href="it_valico-pos-PRON.html">PRON</a></tt> (17; 4% instances), <tt><a href="it_valico-pos-SCONJ.html">SCONJ</a></tt> (14; 3% instances), <tt><a href="it_valico-pos-ADP.html">ADP</a></tt> (13; 3% instances), <tt><a href="it_valico-pos-DET.html">DET</a></tt> (7; 2% instances), <tt><a href="it_valico-pos-PROPN.html">PROPN</a></tt> (4; 1% instances), <tt><a href="it_valico-pos-X.html">X</a></tt> (1; 0% instances)
+Children of `ADJ` nodes belong to 13 different parts of speech: <tt><a href="it_valico-pos-ADV.html">ADV</a></tt> (86; 20% instances), <tt><a href="it_valico-pos-AUX.html">AUX</a></tt> (76; 18% instances), <tt><a href="it_valico-pos-PUNCT.html">PUNCT</a></tt> (57; 13% instances), <tt><a href="it_valico-pos-VERB.html">VERB</a></tt> (47; 11% instances), <tt><a href="it_valico-pos-NOUN.html">NOUN</a></tt> (44; 10% instances), <tt><a href="it_valico-pos-CCONJ.html">CCONJ</a></tt> (37; 9% instances), <tt><a href="it_valico-pos-ADJ.html">ADJ</a></tt> (27; 6% instances), <tt><a href="it_valico-pos-PRON.html">PRON</a></tt> (17; 4% instances), <tt><a href="it_valico-pos-ADP.html">ADP</a></tt> (13; 3% instances), <tt><a href="it_valico-pos-SCONJ.html">SCONJ</a></tt> (13; 3% instances), <tt><a href="it_valico-pos-DET.html">DET</a></tt> (7; 2% instances), <tt><a href="it_valico-pos-PROPN.html">PROPN</a></tt> (4; 1% instances), <tt><a href="it_valico-pos-X.html">X</a></tt> (1; 0% instances)
 

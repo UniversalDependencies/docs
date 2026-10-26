@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `aux`: <tt><a href="en_partut-dep-aux-pass.html">aux:pass</a></tt>.
 
-1246 nodes (3%) are attached to their parents as `aux`.
+1244 nodes (3%) are attached to their parents as `aux`.
 
-1238 instances of `aux` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.78491171749599.
+1236 instances of `aux` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.78536977491961.
 
-The following 7 pairs of parts of speech are connected with `aux`: <tt><a href="en_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="en_partut-pos-AUX.html">AUX</a></tt> (1147; 92% instances), <tt><a href="en_partut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_partut-pos-AUX.html">AUX</a></tt> (58; 5% instances), <tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_partut-pos-AUX.html">AUX</a></tt> (34; 3% instances), <tt><a href="en_partut-pos-ADV.html">ADV</a></tt>-<tt><a href="en_partut-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="en_partut-pos-DET.html">DET</a></tt>-<tt><a href="en_partut-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="en_partut-pos-NUM.html">NUM</a></tt>-<tt><a href="en_partut-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="en_partut-pos-PRON.html">PRON</a></tt>-<tt><a href="en_partut-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `aux`: <tt><a href="en_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="en_partut-pos-AUX.html">AUX</a></tt> (1145; 92% instances), <tt><a href="en_partut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_partut-pos-AUX.html">AUX</a></tt> (58; 5% instances), <tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_partut-pos-AUX.html">AUX</a></tt> (34; 3% instances), <tt><a href="en_partut-pos-ADV.html">ADV</a></tt>-<tt><a href="en_partut-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="en_partut-pos-DET.html">DET</a></tt>-<tt><a href="en_partut-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="en_partut-pos-NUM.html">NUM</a></tt>-<tt><a href="en_partut-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="en_partut-pos-PRON.html">PRON</a></tt>-<tt><a href="en_partut-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -23,10 +23,10 @@ The following 7 pairs of parts of speech are connected with `aux`: <tt><a href="
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 6 aux	color:blue
-1	Mr	mister	NOUN	S	Number=Sing	7	vocative	_	_
-2	Berenguer	Berenguer	PROPN	SP	_	1	flat	_	_
-3	Fuster	Fuster	PROPN	SP	_	1	flat	_	SpaceAfter=No
-4	,	,	PUNCT	FF	_	1	punct	_	_
+1	Mr	mister	NOUN	S	Number=Sing	2	nmod:desc	_	_
+2	Berenguer	Berenguer	PROPN	SP	_	7	vocative	_	_
+3	Fuster	Fuster	PROPN	SP	_	2	flat	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	2	punct	_	_
 5	we	we	PRON	PE	Number=Plur|Person=1|PronType=Prs	7	nsubj	_	_
 6	shall	shall	AUX	VM	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
 7	check	check	VERB	V	VerbForm=Inf	0	root	_	_
@@ -43,12 +43,12 @@ The following 7 pairs of parts of speech are connected with `aux`: <tt><a href="
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 7 aux	color:blue
-1	Mr	mister	NOUN	S	Number=Sing	10	vocative	_	_
-2	Cox	Cox	PROPN	SP	_	1	flat	_	SpaceAfter=No
-3	,	,	PUNCT	FF	_	4	punct	_	_
-4	Mr	mister	NOUN	S	Number=Sing	1	conj	_	_
-5	Hänsch	Hänsch	PROPN	SP	_	4	flat	_	SpaceAfter=No
-6	,	,	PUNCT	FF	_	1	punct	_	_
+1	Mr	mister	NOUN	S	Number=Sing	2	nmod:desc	_	_
+2	Cox	Cox	PROPN	SP	_	10	vocative	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	5	punct	_	_
+4	Mr	mister	NOUN	S	Number=Sing	5	nmod:desc	_	_
+5	Hänsch	Hänsch	PROPN	SP	_	2	conj	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	2	punct	_	_
 7	would	will	AUX	VM	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	10	aux	_	_
 8	this	this	PRON	PD	Number=Sing|PronType=Dem	10	nsubj	_	_
 9	be	be	AUX	V	VerbForm=Inf	10	cop	_	_

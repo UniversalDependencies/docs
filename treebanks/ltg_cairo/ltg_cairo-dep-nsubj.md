@@ -11,9 +11,9 @@ This relation is universal.
 21 nodes (12%) are attached to their parents as `nsubj`.
 
 19 instances of `nsubj` (90%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.33333333333333.
+Average distance between parent and child is 1.66666666666667.
 
-The following 4 pairs of parts of speech are connected with `nsubj`: <tt><a href="ltg_cairo-pos-VERB.html">VERB</a></tt>-<tt><a href="ltg_cairo-pos-PRON.html">PRON</a></tt> (11; 52% instances), <tt><a href="ltg_cairo-pos-VERB.html">VERB</a></tt>-<tt><a href="ltg_cairo-pos-NOUN.html">NOUN</a></tt> (6; 29% instances), <tt><a href="ltg_cairo-pos-VERB.html">VERB</a></tt>-<tt><a href="ltg_cairo-pos-PROPN.html">PROPN</a></tt> (3; 14% instances), <tt><a href="ltg_cairo-pos-VERB.html">VERB</a></tt>-<tt><a href="ltg_cairo-pos-DET.html">DET</a></tt> (1; 5% instances).
+The following 7 pairs of parts of speech are connected with `nsubj`: <tt><a href="ltg_cairo-pos-VERB.html">VERB</a></tt>-<tt><a href="ltg_cairo-pos-PRON.html">PRON</a></tt> (11; 52% instances), <tt><a href="ltg_cairo-pos-VERB.html">VERB</a></tt>-<tt><a href="ltg_cairo-pos-NOUN.html">NOUN</a></tt> (4; 19% instances), <tt><a href="ltg_cairo-pos-VERB.html">VERB</a></tt>-<tt><a href="ltg_cairo-pos-PROPN.html">PROPN</a></tt> (2; 10% instances), <tt><a href="ltg_cairo-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ltg_cairo-pos-NOUN.html">NOUN</a></tt> (1; 5% instances), <tt><a href="ltg_cairo-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ltg_cairo-pos-PROPN.html">PROPN</a></tt> (1; 5% instances), <tt><a href="ltg_cairo-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ltg_cairo-pos-NOUN.html">NOUN</a></tt> (1; 5% instances), <tt><a href="ltg_cairo-pos-VERB.html">VERB</a></tt>-<tt><a href="ltg_cairo-pos-DET.html">DET</a></tt> (1; 5% instances).
 
 
 ~~~ conllu

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1153 nodes (12%) are attached to their parents as `expl`.
+1228 nodes (12%) are attached to their parents as `expl`.
 
-971 instances of `expl` (84%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.61665221162186.
+999 instances of `expl` (81%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.5814332247557.
 
-The following 9 pairs of parts of speech are connected with `expl`: <tt><a href="am_att-pos-VERB.html">VERB</a></tt>-<tt><a href="am_att-pos-PRON.html">PRON</a></tt> (1054; 91% instances), <tt><a href="am_att-pos-NOUN.html">NOUN</a></tt>-<tt><a href="am_att-pos-PRON.html">PRON</a></tt> (51; 4% instances), <tt><a href="am_att-pos-ADJ.html">ADJ</a></tt>-<tt><a href="am_att-pos-PRON.html">PRON</a></tt> (30; 3% instances), <tt><a href="am_att-pos-PRON.html">PRON</a></tt>-<tt><a href="am_att-pos-PRON.html">PRON</a></tt> (8; 1% instances), <tt><a href="am_att-pos-ADV.html">ADV</a></tt>-<tt><a href="am_att-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="am_att-pos-AUX.html">AUX</a></tt>-<tt><a href="am_att-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="am_att-pos-PROPN.html">PROPN</a></tt>-<tt><a href="am_att-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="am_att-pos-NUM.html">NUM</a></tt>-<tt><a href="am_att-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="am_att-pos-VERB.html">VERB</a></tt>-<tt><a href="am_att-pos-PART.html">PART</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `expl`: <tt><a href="am_att-pos-VERB.html">VERB</a></tt>-<tt><a href="am_att-pos-PRON.html">PRON</a></tt> (1127; 92% instances), <tt><a href="am_att-pos-NOUN.html">NOUN</a></tt>-<tt><a href="am_att-pos-PRON.html">PRON</a></tt> (53; 4% instances), <tt><a href="am_att-pos-ADJ.html">ADJ</a></tt>-<tt><a href="am_att-pos-PRON.html">PRON</a></tt> (30; 2% instances), <tt><a href="am_att-pos-PRON.html">PRON</a></tt>-<tt><a href="am_att-pos-PRON.html">PRON</a></tt> (8; 1% instances), <tt><a href="am_att-pos-ADV.html">ADV</a></tt>-<tt><a href="am_att-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="am_att-pos-AUX.html">AUX</a></tt>-<tt><a href="am_att-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="am_att-pos-PROPN.html">PROPN</a></tt>-<tt><a href="am_att-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="am_att-pos-NUM.html">NUM</a></tt>-<tt><a href="am_att-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="am_att-pos-VERB.html">VERB</a></tt>-<tt><a href="am_att-pos-PART.html">PART</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -22,15 +22,15 @@ The following 9 pairs of parts of speech are connected with `expl`: <tt><a href=
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 10 expl	color:blue
-1	ልጅ	ልጅ	NOUN	NOUN	_	7	iobj	_	Translit=lədžə|LTranslit=lədžə
-2	ኡ	ኡ	DET	DET	_	1	det	_	Translit='u|LTranslit='u
-3	ን	ን	PART	ACC	_	1	case	_	Translit=nə|LTranslit=nə
-4	ሥራ	ሥራ	NOUN	NOUN	_	7	obj	_	Translit=śəra|LTranslit=śəra
-5	ው	ው	DET	DET	_	4	det	_	Translit=wə|LTranslit=wə
-6	ን	ን	PART	ACC	_	4	case	_	Translit=nə|LTranslit=nə
-7	አስጨርስ	አስጨርስ	VERB	VERB	Mood=Ind|VerbForm=Fin|Voice=Cau	0	root	_	Translit='äsəćärəsə|LTranslit='äsəćärəsə
+1	ልጅ	ልጅ	NOUN	NOUN	_	7	iobj	_	LTranslit=lədžə|Translit=lədžə
+2	ኡ	ኡ	DET	DET	PronType=Art	1	det	_	LTranslit='u|Translit='u
+3	ን	ን	PART	ACC	_	1	case	_	LTranslit=nə|Translit=nə
+4	ሥራ	ሥራ	NOUN	NOUN	_	7	obj	_	LTranslit=śəra|Translit=śəra
+5	ው	ው	DET	DET	PronType=Art	4	det	_	LTranslit=wə|Translit=wə
+6	ን	ን	PART	ACC	_	4	case	_	LTranslit=nə|Translit=nə
+7	አስጨርስ	አስጨርስ	VERB	VERB	Mood=Ind|VerbForm=Fin|Voice=Cau	0	root	_	LTranslit='äsəćärəsə|Translit='äsəćärəsə
 8	ኧው	እሱ	PRON	SUBJC	Number=Sing|Person=3|PronType=Prs	7	nsubj	_	LTranslit='əsu|Translit='ăwə
-9	ኣል	ኣል	AUX	AUX	_	7	aux	_	Translit='alə|LTranslit='alə
+9	ኣል	ኣል	AUX	AUX	_	7	aux	_	LTranslit='alə|Translit='alə
 10	ኧሁ	እኔ	PRON	SUBJC	Number=Sing|Person=1|PronType=Prs	7	expl	_	LTranslit='əne|Translit='ăhu
 11	።	።	PUNCT	PUNCT	_	7	punct	_	Translit=.|LTranslit=.
 

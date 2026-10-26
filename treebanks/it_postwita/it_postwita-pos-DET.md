@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Italian-PoSTWITA: POS Tags: `DET`
 
-There are 45 `DET` lemmas (0%), 143 `DET` types (1%) and 14476 `DET` tokens (12%).
+There are 45 `DET` lemmas (0%), 143 `DET` types (1%) and 14475 `DET` tokens (12%).
 Out of 16 observed tags, the rank of `DET` is: 13 in number of lemmas, 12 in number of types and 3 in number of tokens.
 
 The 10 most frequent `DET` lemmas: <em>il, uno, questo, tutto, mio, suo, che, tuo, nostro, quello</em>
@@ -65,7 +65,7 @@ The 10 most frequent ambiguous types:  <em>il</em> (<tt><a href="it_postwita-pos
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 3.177778 (the average of all parts of speech is 1.310684).
+The form / lemma ratio of `DET` is 3.177778 (the average of all parts of speech is 1.310689).
 
 The 1st highest number of forms (16) was observed with the lemma “il”: <em>Lle, a, e, gli, i, il, in, io, kol, l, l', la, le, li, ll, lo</em>.
 
@@ -73,7 +73,7 @@ The 2nd highest number of forms (12) was observed with the lemma “questo”: <
 
 The 3rd highest number of forms (8) was observed with the lemma “uno”: <em>1, n, n', na, un, un', una, uno</em>.
 
-`DET` occurs with 5 features: <tt><a href="it_postwita-feat-PronType.html">PronType</a></tt> (14473; 100% instances), <tt><a href="it_postwita-feat-Number.html">Number</a></tt> (13426; 93% instances), <tt><a href="it_postwita-feat-Definite.html">Definite</a></tt> (12578; 87% instances), <tt><a href="it_postwita-feat-Gender.html">Gender</a></tt> (12308; 85% instances), <tt><a href="it_postwita-feat-Poss.html">Poss</a></tt> (600; 4% instances)
+`DET` occurs with 5 features: <tt><a href="it_postwita-feat-PronType.html">PronType</a></tt> (14472; 100% instances), <tt><a href="it_postwita-feat-Number.html">Number</a></tt> (13426; 93% instances), <tt><a href="it_postwita-feat-Definite.html">Definite</a></tt> (12578; 87% instances), <tt><a href="it_postwita-feat-Gender.html">Gender</a></tt> (12308; 85% instances), <tt><a href="it_postwita-feat-Poss.html">Poss</a></tt> (600; 4% instances)
 
 `DET` occurs with 14 feature-value pairs: `Definite=Def`, `Definite=Ind`, `Gender=Fem`, `Gender=Masc`, `Number=Plur`, `Number=Sing`, `Poss=Yes`, `PronType=Art`, `PronType=Dem`, `PronType=Exc`, `PronType=Ind`, `PronType=Int`, `PronType=Prs`, `PronType=Tot`
 
@@ -84,11 +84,11 @@ Examples: <em>il, lo, del</em>
 
 ## Relations
 
-`DET` nodes are attached to their parents using 22 different relations: <tt><a href="it_postwita-dep-det.html">det</a></tt> (13660; 94% instances), <tt><a href="it_postwita-dep-det-poss.html">det:poss</a></tt> (592; 4% instances), <tt><a href="it_postwita-dep-det-predet.html">det:predet</a></tt> (144; 1% instances), <tt><a href="it_postwita-dep-dep.html">dep</a></tt> (13; 0% instances), <tt><a href="it_postwita-dep-amod.html">amod</a></tt> (12; 0% instances), <tt><a href="it_postwita-dep-obj.html">obj</a></tt> (9; 0% instances), <tt><a href="it_postwita-dep-nmod.html">nmod</a></tt> (8; 0% instances), <tt><a href="it_postwita-dep-obl.html">obl</a></tt> (8; 0% instances), <tt><a href="it_postwita-dep-conj.html">conj</a></tt> (5; 0% instances), <tt><a href="it_postwita-dep-parataxis.html">parataxis</a></tt> (4; 0% instances), <tt><a href="it_postwita-dep-root.html">root</a></tt> (4; 0% instances), <tt><a href="it_postwita-dep-appos.html">appos</a></tt> (3; 0% instances), <tt><a href="it_postwita-dep-discourse.html">discourse</a></tt> (2; 0% instances), <tt><a href="it_postwita-dep-flat-name.html">flat:name</a></tt> (2; 0% instances), <tt><a href="it_postwita-dep-nsubj.html">nsubj</a></tt> (2; 0% instances), <tt><a href="it_postwita-dep-xcomp.html">xcomp</a></tt> (2; 0% instances), <tt><a href="it_postwita-dep-acl-relcl.html">acl:relcl</a></tt> (1; 0% instances), <tt><a href="it_postwita-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="it_postwita-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="it_postwita-dep-fixed.html">fixed</a></tt> (1; 0% instances), <tt><a href="it_postwita-dep-obl-agent.html">obl:agent</a></tt> (1; 0% instances), <tt><a href="it_postwita-dep-parataxis-hashtag.html">parataxis:hashtag</a></tt> (1; 0% instances)
+`DET` nodes are attached to their parents using 21 different relations: <tt><a href="it_postwita-dep-det.html">det</a></tt> (13660; 94% instances), <tt><a href="it_postwita-dep-det-poss.html">det:poss</a></tt> (592; 4% instances), <tt><a href="it_postwita-dep-det-predet.html">det:predet</a></tt> (144; 1% instances), <tt><a href="it_postwita-dep-dep.html">dep</a></tt> (13; 0% instances), <tt><a href="it_postwita-dep-amod.html">amod</a></tt> (12; 0% instances), <tt><a href="it_postwita-dep-obj.html">obj</a></tt> (9; 0% instances), <tt><a href="it_postwita-dep-nmod.html">nmod</a></tt> (8; 0% instances), <tt><a href="it_postwita-dep-obl.html">obl</a></tt> (8; 0% instances), <tt><a href="it_postwita-dep-conj.html">conj</a></tt> (5; 0% instances), <tt><a href="it_postwita-dep-parataxis.html">parataxis</a></tt> (4; 0% instances), <tt><a href="it_postwita-dep-root.html">root</a></tt> (4; 0% instances), <tt><a href="it_postwita-dep-appos.html">appos</a></tt> (3; 0% instances), <tt><a href="it_postwita-dep-discourse.html">discourse</a></tt> (2; 0% instances), <tt><a href="it_postwita-dep-flat-name.html">flat:name</a></tt> (2; 0% instances), <tt><a href="it_postwita-dep-nsubj.html">nsubj</a></tt> (2; 0% instances), <tt><a href="it_postwita-dep-xcomp.html">xcomp</a></tt> (2; 0% instances), <tt><a href="it_postwita-dep-acl-relcl.html">acl:relcl</a></tt> (1; 0% instances), <tt><a href="it_postwita-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="it_postwita-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="it_postwita-dep-obl-agent.html">obl:agent</a></tt> (1; 0% instances), <tt><a href="it_postwita-dep-parataxis-hashtag.html">parataxis:hashtag</a></tt> (1; 0% instances)
 
-Parents of `DET` nodes belong to 14 different parts of speech: <tt><a href="it_postwita-pos-NOUN.html">NOUN</a></tt> (11603; 80% instances), <tt><a href="it_postwita-pos-PROPN.html">PROPN</a></tt> (1387; 10% instances), <tt><a href="it_postwita-pos-SYM.html">SYM</a></tt> (733; 5% instances), <tt><a href="it_postwita-pos-PRON.html">PRON</a></tt> (176; 1% instances), <tt><a href="it_postwita-pos-ADJ.html">ADJ</a></tt> (156; 1% instances), <tt><a href="it_postwita-pos-NUM.html">NUM</a></tt> (155; 1% instances), <tt><a href="it_postwita-pos-X.html">X</a></tt> (113; 1% instances), <tt><a href="it_postwita-pos-VERB.html">VERB</a></tt> (67; 0% instances), <tt><a href="it_postwita-pos-ADV.html">ADV</a></tt> (58; 0% instances), <tt><a href="it_postwita-pos-INTJ.html">INTJ</a></tt> (19; 0% instances),  (4; 0% instances), <tt><a href="it_postwita-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="it_postwita-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="it_postwita-pos-AUX.html">AUX</a></tt> (1; 0% instances)
+Parents of `DET` nodes belong to 14 different parts of speech: <tt><a href="it_postwita-pos-NOUN.html">NOUN</a></tt> (11603; 80% instances), <tt><a href="it_postwita-pos-PROPN.html">PROPN</a></tt> (1387; 10% instances), <tt><a href="it_postwita-pos-SYM.html">SYM</a></tt> (733; 5% instances), <tt><a href="it_postwita-pos-PRON.html">PRON</a></tt> (176; 1% instances), <tt><a href="it_postwita-pos-ADJ.html">ADJ</a></tt> (156; 1% instances), <tt><a href="it_postwita-pos-NUM.html">NUM</a></tt> (155; 1% instances), <tt><a href="it_postwita-pos-X.html">X</a></tt> (113; 1% instances), <tt><a href="it_postwita-pos-VERB.html">VERB</a></tt> (67; 0% instances), <tt><a href="it_postwita-pos-ADV.html">ADV</a></tt> (58; 0% instances), <tt><a href="it_postwita-pos-INTJ.html">INTJ</a></tt> (19; 0% instances),  (4; 0% instances), <tt><a href="it_postwita-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="it_postwita-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="it_postwita-pos-AUX.html">AUX</a></tt> (1; 0% instances)
 
-14414 (100%) `DET` nodes are leaves.
+14413 (100%) `DET` nodes are leaves.
 
 44 (0%) `DET` nodes have one child.
 

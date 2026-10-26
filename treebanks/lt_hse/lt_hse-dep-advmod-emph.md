@@ -72,7 +72,7 @@ The following 8 pairs of parts of speech are connected with `advmod:emph`: <tt><
 12	Italija	Italija	PROPN	NNP	Case=Nom|Gender=Fem|Number=Sing	17	nsubj	_	En=Italy
 13	ir	ir	CCONJ	CC	_	14	cc	_	En=and
 14	Graikija	Graikija	PROPN	NNP	Case=Nom|Gender=Fem|Number=Sing	12	conj	_	En=Greece
-15	dėl	dėl	ADP	UH	_	17	advmod	_	En=due_to
+15	dėl	dėl	ADP	UH	ExtPos=ADV	17	advmod	_	En=due_to
 16	to	tas	PRON	DT	Case=Gen|Gender=Masc|Number=Sing	15	fixed	_	En=that
 17	nežuvo	žūti	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin|Voice=Act	9	nmod	_	En=die_out|SpaceAfter=No
 18	.	.	PUNCT	PUNCT	_	9	punct	_	En=.

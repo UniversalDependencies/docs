@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Komi_Zyrian-Lattice: Relations: `advmod:deg`
 
 This relation is a language-specific subtype of <tt><a href="kpv_lattice-dep-advmod.html">advmod</a></tt>.
-There are also 8 other language-specific subtypes of `advmod`: <tt><a href="kpv_lattice-dep-advmod-cau.html">advmod:cau</a></tt>, <tt><a href="kpv_lattice-dep-advmod-emph.html">advmod:emph</a></tt>, <tt><a href="kpv_lattice-dep-advmod-eval.html">advmod:eval</a></tt>, <tt><a href="kpv_lattice-dep-advmod-foc.html">advmod:foc</a></tt>, <tt><a href="kpv_lattice-dep-advmod-freq.html">advmod:freq</a></tt>, <tt><a href="kpv_lattice-dep-advmod-lmod.html">advmod:lmod</a></tt>, <tt><a href="kpv_lattice-dep-advmod-mmod.html">advmod:mmod</a></tt>, <tt><a href="kpv_lattice-dep-advmod-tmod.html">advmod:tmod</a></tt>.
+There are also 1 other language-specific subtypes of `advmod`: <tt><a href="kpv_lattice-dep-advmod-emph.html">advmod:emph</a></tt>.
 
 52 nodes (1%) are attached to their parents as `advmod:deg`.
 
@@ -25,7 +25,7 @@ The following 9 pairs of parts of speech are connected with `advmod:deg`: <tt><a
 # visual-style 5 4 advmod:deg	color:blue
 1	Кӧть	кӧть	SCONJ	CS	_	5	mark	_	OrigLang=ru
 2	луныс	лун	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	5	nsubj	_	_
-3	вӧлі	вӧвны	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	5	cop	_	_
+3	вӧлі	вӧвны	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	_	_
 4	зэв	зэв	ADV	Adv	_	5	advmod:deg	_	_
 5	мича	мича	ADJ	A	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	CLB	_	5	punct	_	_
@@ -39,9 +39,9 @@ The following 9 pairs of parts of speech are connected with `advmod:deg`: <tt><a
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 advmod:deg	color:blue
-1	Кыліс	кывны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
+1	Кыліс	кывны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 2	зэв	зэв	ADV	Adv	_	3	advmod:deg	_	_
-3	ылысянь	ылысянь	ADV	Adv	Case=Egr	1	advmod:lmod	_	_
+3	ылысянь	ылысянь	ADV	Adv	Case=Egr	1	advmod	_	_
 4	муркӧдчӧм	муркӧдчыны	VERB	V	Case=Nom|Number=Sing|Tense=Past|VerbForm=Part	5	acl	_	_
 5	шы	шы	NOUN	N	Case=Nom|Number=Sing	1	nsubj	_	SpaceAfter=No
 6	.	.	PUNCT	CLB	_	1	punct	_	_
@@ -56,7 +56,7 @@ The following 9 pairs of parts of speech are connected with `advmod:deg`: <tt><a
 # visual-style 2	fgColor:white
 # visual-style 2 1 advmod:deg	color:blue
 1	Дзикӧдз	дзик	ADV	Adv	Case=Ter	2	advmod:deg	_	_
-2	жайӧдіс	жайӧдны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No
+2	жайӧдіс	жайӧдны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 3	.	.	PUNCT	CLB	_	2	punct	_	_
 
 ~~~

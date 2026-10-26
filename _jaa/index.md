@@ -19,7 +19,7 @@ Mapping UPOS to XPOS Tupinambá
 
  UPOS | XPOS |
 :----: | :------: |
- ADJ   | adj  
+ ADJ   | adj
  ADV   | adv      |
  INTJ  | intj     |
  NOUN  | n        |
@@ -83,7 +83,7 @@ Okomobi sound be-DECL.F
 
 
 Person/Number/Animacy | Slot 1   | Slot 2 and 8  | Cardinal indexes |Alienamble possessor   | Inalienamble possessor|
-:-----------------:   | :------: | :----------:  |:----------------:|:--------------------: |:--------------------: |  
+:-----------------:   | :------: | :----------:  |:----------------:|:--------------------: |:--------------------: |
 1 SG                  | owa      | o-            | owa              | oko                   | o-, oko               |
 2 SG                  | tiwa     | ti-           | tiwa             | tika                  | fee ~ hee             |
 3 SG inanimate        |          |               |                  |                       |                       |
@@ -99,7 +99,7 @@ in an NP, A in AC. In OC, it can be A or O.
 
 The absence of an index (S, A, or O) indicates the argument in 3SG.
 
-* About ten verbs have suppletive forms for singular, dual, or plural reference for the S argument. 
+* About ten verbs have suppletive forms for singular, dual, or plural reference for the S argument.
 
 Number   |   sit                                       | stand |
 :------: | :-----------------------------------------: |:-----:|
@@ -130,14 +130,14 @@ arrive-1SG-AUX-IPST.EVID.F
 * There are two copular verbs, which are neither transitive nor intransitive.
 * Following Vogel (2003), there are only 3 derivational prefixes.
 * Derivational suffixes are more than a hundred, of which only about twenty are derivational.
- 
+
 
 A group of suffixes with adverbial are clause-final modifiers:
 
 Suffix       |     Meaning               |
 :----------------: | :-----------------------: |
 -mina      |  in the morning, tomorrow |
--baha      |  do first                 |  
+-baha      |  do first                 |
 -rama      | unusual, unexpected       |
 -tasa      | do again                  |
 -bisa      | also                      |
@@ -151,7 +151,7 @@ Suffix       |     Meaning               |
 
 Suffix           |     Aspect         |
 :--------------: | :----------------: |
- -te             |  habitual          |   
+ -te             |  habitual          |
  -ne             | continuous         |
 
 
@@ -166,7 +166,7 @@ cross-references O. Obligatory in transitive clauses. Must be singular.
 
 **Slot 2**
 
-cross-references S or A. Non-singular = separate word, and singular = prefix. 
+cross-references S or A. Non-singular = separate word, and singular = prefix.
 
 **Slot 3**
 
@@ -206,12 +206,12 @@ Suffix         |   Tense + Evidentiality |
  -*(hV)ne/a*       | Irrealis     |
  -*(hV)mene/mana*  | Hypothetical |
  -*(hV)mone/mona*  | Reportative
- 
- 
- 
+
+
+
 **Slot 8*
 
-index: S in an intransitive clause, to A in an AC, and to either O or A in an OC. 
+index: S in an intransitive clause, to A in an AC, and to either O or A in an OC.
 
 **Slot 9*
 
@@ -219,11 +219,11 @@ secondary verbs: *ama* 'extended in time' or *awine/awa* 'seems', optional.
 
 **Slot 10*
 
-`mood suffixes (optional) and markers of dependent clause: 
+`mood suffixes (optional) and markers of dependent clause:
 
 Suffix           |     Mood         |
 :--------------: | :----------------: |
- -*ke/ka*          |  Declarative       |   
+ -*ke/ka*          |  Declarative       |
  -*ni/ne*          |  Backgrounding     |
  -*habone/-hibona* |  Interrogative     |
  -*hamone/-himona* |  Imperative        |
@@ -232,7 +232,7 @@ Suffix           |     Mood         |
  -*be(ja)/ba(ja)*  | Immediate          |
  -*makoni/mako*    | Take no responsability |
  -*rihi/rihi*.     | Contrastive negation|
- 
+
 
 **Slot 11**
 
@@ -255,28 +255,28 @@ it is not likely that we will see a jaguar
 
  A fundamental distinction in Jarawara concerns transitive clauses. The linking of clauses are based on
  the pivot, which is not syntactically restricted (S/A or S/O). One type of transitive construction has A as pivot (AC = A-construction), and another type has O pivot (OC = O-construction).
- 
+
 ```
-John Mary awa-ka 
+John Mary awa-ka
 John.A Mary.O see-DECL.M
 'John saw Watati'
 ```
 ```
-Mary John hi-wa hi-ke 
+Mary John hi-wa hi-ke
 Mary.O John.A OC-see OC-DECL.F
 'John saw Mary'
 ```
 
 In order to say 'John came in and saw Mary', one has the option of choosing which construction is more suitable for the context of discource:
 
- 
+
 ```
-John ki-joma-ke-ka, ∅<sub>A</sub> Mary awa-ka 
+John ki-joma-ke-ka, ∅<sub>A</sub> Mary awa-ka
 John be.in.motion-THROUGH-COMING-DECL.M Mary see-DECL.M
 'John came in and saw Mary'
 ```
 ```
- Mary ki-joma-ke-ke, ∅<sub>o</sub> John hi-wa hi ke 
+ Mary ki-joma-ke-ke, ∅<sub>o</sub> John hi-wa hi ke
 John be.in.motion-THROUGH-COMING-DECL.F John OC-see OC-DECL.F
 'John came in and saw Mary'
 ```
@@ -285,9 +285,9 @@ John be.in.motion-THROUGH-COMING-DECL.F John OC-see OC-DECL.F
 ---
 ### Auxiliaries
 
-There are two auxiliaries in Jarawara, which 
+There are two auxiliaries in Jarawara, which
 
-We do not treat auxiliaries as constituents, since they do not contribute any semantic meaning to the sentence. They are just required with certain verbs and certain suffixes. For example, in the sentence below. 
+We do not treat auxiliaries as constituents, since they do not contribute any semantic meaning to the sentence. They are just required with certain verbs and certain suffixes. For example, in the sentence below.
 
 
 ```
@@ -298,11 +298,11 @@ The tree fell over because of the wind
 
 the verb _boto tonahani amake_ is seen as a single word _bototonahaniamake_, and in the morphology not have anything corresponding to the auxiliary na.
 
-One of the advantages of this approach is that we don't have to worry about what to do with auxiliaries that are required by certain suffixes. For example _-kanikima_ 'scattered' requires a following auxiliary _na_, and it is required that _-waharI_ be attached to an auxiliary _na_. 
+One of the advantages of this approach is that we don't have to worry about what to do with auxiliaries that are required by certain suffixes. For example _-kanikima_ 'scattered' requires a following auxiliary _na_, and it is required that _-waharI_ be attached to an auxiliary _na_.
 
-One problem that arises with this approach is how to treat _to-_ when it occurs with the auxiliary _ha_. The _to-_ is simply required whenever the auxiliary ha occurs, as it also is with the copular verb _ha_. We could simply not register _to-_ in the morphology in these two cases, since it is just required, and doesn't really contribute anything to the meaning. 
+One problem that arises with this approach is how to treat _to-_ when it occurs with the auxiliary _ha_. The _to-_ is simply required whenever the auxiliary ha occurs, as it also is with the copular verb _ha_. We could simply not register _to-_ in the morphology in these two cases, since it is just required, and doesn't really contribute anything to the meaning.
 
-It is still necessary to register _to-_ when it is 'away', and when the 'CH' meaning occurs not associated with _ha_. 
+It is still necessary to register _to-_ when it is 'away', and when the 'CH' meaning occurs not associated with _ha_.
 
 
 
@@ -334,7 +334,7 @@ aunt.F foot.F
 'Aunt's foot'
 ```
 
-In the example below, there is embedding (alienable + inalienable possession). 
+In the example below, there is embedding (alienable + inalienable possession).
 
 ```
 [amise ka] jome teme
@@ -354,43 +354,8 @@ Manoware's house is ready
 
 The contrastive marker *ta* appears at the end of an NP. It can only be followed by the obsolete suffix -*ra*.
 
----
-
 ## Treebanks
 
 There is 1 Jarawara UD treebank:
 
-  * [Tupinamba-A](https://github.com/UniversalDependencies/UD_Tupinamba-TuDeT)
-
----
-**Instruction**: Treebank-specific pages are generated automatically from the README file in the treebank repository and
-from the data in the latest release. Link to the respective `*-index.html` page in the `treebanks` folder, using the language code
-and the treebank code in the file name.
-
----
-            
-
----
-**Instruction**: Describe inherent and inflectional features for major word classes (at least NOUN and VERB). Describe other noteworthy features. Include links to language-specific feature definitions if any.
-
----
-
-
----
-**Instruction**: Give criteria for identifying core arguments (subjects and objects), and describe the range of copula constructions in nonverbal clauses. List all subtype relations used. Include links to language-specific relations definitions if any.
-
----
-
-## Treebanks
-
-There are [N](../treebanks/jaa-comparison.html) Madi UD treebanks:
-
-  * [Madi-A](../treebanks/jaa_a/index.html)
-  * [Madi-B](../treebanks/jaa_b/index.html)
-
----
-**Instruction**: Treebank-specific pages are generated automatically from the README file in the treebank repository and
-from the data in the latest release. Link to the respective `*-index.html` page in the `treebanks` folder, using the language code
-and the treebank code in the file name.
-
----
+  * [Madi-Jarawara](../treebanks/jaa_jarawara/index.html)

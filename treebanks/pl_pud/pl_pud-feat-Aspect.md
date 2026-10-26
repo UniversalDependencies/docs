@@ -73,19 +73,20 @@ The most frequent other feature values with which `NOUN` and `Aspect` co-occurre
 
 * `Imp` (76; 35% of non-empty `Aspect`): <em>kręcenia, ograniczaniu, poszukiwaniu, przyznawanie, tworzenie, używanie, wytwarzania, Flokowanie, badania, bycia</em>
 * `Perf` (144; 65% of non-empty `Aspect`): <em>zniszczenie, ograniczenia, opuszczenia, otwarcie, powstrzymania, przejęcia, przekroczenie, przyjęcia, uzyskania, użyciu</em>
-* `EMPTY` (4426): <em>r, lat, roku, %, części, miejsce, wojny, latach, p.n.e, ludzi</em>
+* `EMPTY` (4412): <em>r, lat, roku, %, części, miejsce, wojny, latach, p.n.e, ludzi</em>
 
 `Aspect` seems to be **lexical feature** of `NOUN`. 100% lemmas (160) occur only with one value of `Aspect`.
 
 ## Relations with Agreement in `Aspect`
 
 The 10 most frequent relations where parent and child node agree in `Aspect`:
-<tt>VERB --[<tt><a href="pl_pud-dep-conj.html">conj</a></tt>]--> VERB</tt> (121; 75%),
+<tt>VERB --[<tt><a href="pl_pud-dep-conj.html">conj</a></tt>]--> VERB</tt> (117; 77%),
 <tt>ADJ --[<tt><a href="pl_pud-dep-aux-pass.html">aux:pass</a></tt>]--> AUX</tt> (106; 75%),
 <tt>VERB --[<tt><a href="pl_pud-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (79; 58%),
 <tt>VERB --[<tt><a href="pl_pud-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (21; 51%),
 <tt>VERB --[<tt><a href="pl_pud-dep-aux.html">aux</a></tt>]--> AUX</tt> (19; 90%),
-<tt>ADJ --[<tt><a href="pl_pud-dep-conj.html">conj</a></tt>]--> ADJ</tt> (9; 56%),
+<tt>ADJ --[<tt><a href="pl_pud-dep-conj.html">conj</a></tt>]--> ADJ</tt> (8; 53%),
+<tt>ADJ --[<tt><a href="pl_pud-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (3; 60%),
 <tt>VERB --[<tt><a href="pl_pud-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (3; 100%),
 <tt>VERB --[<tt><a href="pl_pud-dep-advcl-relcl.html">advcl:relcl</a></tt>]--> VERB</tt> (2; 67%),
 <tt>VERB --[<tt><a href="pl_pud-dep-advcl.html">advcl</a></tt>]--> ADJ</tt> (2; 67%).

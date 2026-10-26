@@ -23,10 +23,10 @@ The following 1 pairs of parts of speech are connected with `flat:foreign`: <tt>
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 3 flat:foreign	color:blue
-1	Ngudhunake	_	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
-2	tekanan	_	X	_	Foreign=Yes	1	obl	_	_
-3	darah	_	X	_	Foreign=Yes	2	flat:foreign	_	SpaceAfter=No
-4	.	_	PUNCT	_	_	1	punct	_	_
+1	Ngudhunake	udhun	VERB	_	Voice=Act	0	root	_	_
+2	tekanan	tekan	X	_	Foreign=Yes	1	obl	_	_
+3	darah	darah	X	_	Foreign=Yes	2	flat:foreign	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	_
 
 ~~~
 

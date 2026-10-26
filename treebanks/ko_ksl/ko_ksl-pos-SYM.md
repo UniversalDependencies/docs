@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Korean-KSL: POS Tags: `SYM`
 
 There are 2 `SYM` lemmas (0%), 2 `SYM` types (0%) and 2 `SYM` tokens (0%).
-Out of 15 observed tags, the rank of `SYM` is: 13 in number of lemmas, 14 in number of types and 14 in number of tokens.
+Out of 15 observed tags, the rank of `SYM` is: 14 in number of lemmas, 14 in number of types and 14 in number of tokens.
 
 The 10 most frequent `SYM` lemmas: 이소원, 훠꿔
 
@@ -19,18 +19,24 @@ The 10 most frequent ambiguous types:  훠꿔 (<tt><a href="ko_ksl-pos-NOUN.html
 
 
 * 훠꿔
-  * <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> 3: 특히 전국적으로 ' 청두 <b>훠꿔</b> ' 를 많이 선호한다 .
+  * <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> 3: <b>훠꿔</b> 는 고추장을 많이 넣기 때문에 발깧다 .
   * <tt><a href="ko_ksl-pos-SYM.html">SYM</a></tt> 1: ' 샤브샤브 ' 는 중국어로 ' <b>훠꿔</b> ' 라고 한다 .
 
 ## Morphology
 
-The form / lemma ratio of `SYM` is 1.000000 (the average of all parts of speech is 1.004265).
+The form / lemma ratio of `SYM` is 1.000000 (the average of all parts of speech is 1.000288).
 
 The 1st highest number of forms (1) was observed with the lemma “이소원”: 이소원.
 
 The 2nd highest number of forms (1) was observed with the lemma “훠꿔”: 훠꿔.
 
-`SYM` does not occur with any features.
+`SYM` occurs with 1 features: <tt><a href="ko_ksl-feat-Typo.html">Typo</a></tt> (1; 50% instances)
+
+`SYM` occurs with 1 feature-value pairs: `Typo=Yes`
+
+`SYM` occurs with 2 feature combinations.
+The most frequent feature combination is `_` (1 tokens).
+Examples: 이소원
 
 
 ## Relations

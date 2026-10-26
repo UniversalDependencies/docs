@@ -42,7 +42,7 @@ The following 21 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 4	at	at	SCONJ	sbu	_	7	mark	_	_
 5	røyking	røyking	NOUN	subst	Definite=Ind|Gender=Fem|Number=Sing	7	nsubj	_	_
 6	er	være	AUX	verb	Mood=Ind|Tense=Pres|VerbForm=Fin	7	cop	_	_
-7	farlig	farlig	ADJ	adj	Definite=Ind|Degree=Pos|Gender=Fem,Masc|Number=Sing	3	ccomp	_	SpaceAfter=No
+7	farlig	farlig	ADJ	adj	Definite=Ind|Degree=Pos|Gender=Com|Number=Sing	3	ccomp	_	SpaceAfter=No
 8	.	$.	PUNCT	clb	_	3	punct	_	_
 
 ~~~

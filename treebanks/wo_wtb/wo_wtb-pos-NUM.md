@@ -64,12 +64,12 @@ The 2nd highest number of forms (5) was observed with the lemma “ñeent”: <e
 
 The 3rd highest number of forms (4) was observed with the lemma “fukk”: <em>fukk, fukkeel, fukkeelu, fukki</em>.
 
-`NUM` occurs with 1 features: <tt><a href="wo_wtb-feat-NumType.html">NumType</a></tt> (539; 100% instances)
+`NUM` occurs with 2 features: <tt><a href="wo_wtb-feat-NumType.html">NumType</a></tt> (539; 100% instances), <tt><a href="wo_wtb-feat-ExtPos.html">ExtPos</a></tt> (2; 0% instances)
 
-`NUM` occurs with 2 feature-value pairs: `NumType=Card`, `NumType=Ord`
+`NUM` occurs with 3 feature-value pairs: `ExtPos=ADV`, `NumType=Card`, `NumType=Ord`
 
-`NUM` occurs with 2 feature combinations.
-The most frequent feature combination is `NumType=Card` (513 tokens).
+`NUM` occurs with 3 feature combinations.
+The most frequent feature combination is `NumType=Card` (511 tokens).
 Examples: <em>ñaari, fukk, benn, juróom, 1, ñeent, ñeenti, 2, ñatt, juróom-benni</em>
 
 

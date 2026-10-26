@@ -23,41 +23,43 @@ The following 7 pairs of parts of speech are connected with `flat`: <tt><a href=
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 flat	color:blue
-1	Burkina	Burkina	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	_
-2	Faso	Faso	PROPN	_	_	1	flat	_	_
-3	je	być	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
-4	stat	stat	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
-5	w	w	ADP	_	_	7	case	_	_
-6	zapadnej	zapadny	ADJ	_	Case=Loc|Gender=Fem|Number=Sing	7	amod	_	_
-7	Africe	Afrika	PROPN	_	Case=Loc|Gender=Fem|Number=Sing	4	nmod	_	SpaceAfter=No
-8	.	.	PUNCT	_	_	4	punct	_	_
+1	Raimundas	Raimundas	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	_
+2	Eimontas	Eimontas	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	flat	_	_
+3	je	być	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+4	tež	tež	ADV	_	_	5	advmod	_	_
+5	přinošował	přinošować	VERB	_	Animacy=Anim|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
+6	pozadkowu	pozadkowy	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	_
+7	hudźbu	hudźba	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	5	obj	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	5	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 2 flat	color:blue
-1	SORBISCHES	sorbisches	X	_	Abbr=Yes	0	root	_	_
-2	INSTITUT	institut	X	_	_	1	flat	_	_
-3	-	-	PUNCT	_	_	5	punct	_	_
-4	SERBSKI	serbski	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	_
-5	INSTITUT	institut	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
-6	|	|	PUNCT	_	_	1	punct	_	_
-7	Bahnhofstraße	Bahnhofstraße	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	1	list	_	SpaceAfter=No
-8	/	/	PUNCT	_	_	7	punct	_	SpaceAfter=No
-9	Dwórnišćowa	dwórnišćowy	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	7	appos	_	_
-10	6	6	NUM	_	NumType=Card	7	nummod	_	_
-11	|	|	PUNCT	_	_	1	punct	_	_
-12	D	d	X	_	_	1	list	_	SpaceAfter=No
-13	-	-	PUNCT	_	_	12	punct	_	SpaceAfter=No
-14	02625	02625	NUM	_	Abbr=Yes|NumType=Card	12	nummod	_	_
-15	Bautzen	Bautzen	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1	list	_	SpaceAfter=No
-16	/	/	PUNCT	_	_	15	punct	_	SpaceAfter=No
-17	Budyšin	Budyšin	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	15	appos	_	_
+# visual-style 16	bgColor:blue
+# visual-style 16	fgColor:white
+# visual-style 14	bgColor:blue
+# visual-style 14	fgColor:white
+# visual-style 14 16 flat	color:blue
+1	Kaž	kaž	SCONJ	_	_	2	mark	_	_
+2	přikład	přikład	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	obl	_	_
+3	mjenowaneje	mjenowany	ADJ	_	Case=Gen|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	4	amod	_	_
+4	móžnosće	móžnosć	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
+5	słuži	słužić	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+6	kartu	karta	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	5	obj	_	_
+7	městow	město	NOUN	_	Case=Gen|Gender=Neut|Number=Plur	6	nmod	_	_
+8	Němskeje	Němska	PROPN	_	Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	18	punct	_	_
+10	w	w	ADP	_	_	11	case	_	_
+11	kotrychž	kotryž	DET	_	Case=Loc|Gender=Neut|Number=Plur|PronType=Rel	18	obl	_	_
+12	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	18	expl:pv	_	_
+13	běchu	być	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	18	aux	_	_
+14	Fußball	fußball	X	_	_	18	nsubj	_	SpaceAfter=No
+15	-	-	PUNCT	_	_	14	punct	_	SpaceAfter=No
+16	WM	wm	X	_	_	14	flat	_	_
+17	2006	2006	NUM	_	NumType=Card	14	nummod	_	_
+18	wotměł	wotměć	VERB	_	Animacy=Inan|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	7	acl	_	SpaceAfter=No
+19	.	.	PUNCT	_	_	5	punct	_	_
 
 ~~~
 

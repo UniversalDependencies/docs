@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Cau`, `Pass`.
 
-178 tokens (2%) have a non-empty value of `Voice`.
+181 tokens (2%) have a non-empty value of `Voice`.
 161 types (4%) occur at least once with a non-empty value of `Voice`.
-112 lemmas (4%) occur at least once with a non-empty value of `Voice`.
-The feature is used with 1 part-of-speech tags: <tt><a href="ota_boun-pos-VERB.html">VERB</a></tt> (178; 2% instances).
+125 lemmas (5%) occur at least once with a non-empty value of `Voice`.
+The feature is used with 1 part-of-speech tags: <tt><a href="ota_boun-pos-VERB.html">VERB</a></tt> (181; 2% instances).
 
 ### `VERB`
 
-178 <tt><a href="ota_boun-pos-VERB.html">VERB</a></tt> tokens (13% of all `VERB` tokens) have a non-empty value of `Voice`.
+181 <tt><a href="ota_boun-pos-VERB.html">VERB</a></tt> tokens (13% of all `VERB` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="ota_boun-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (171; 96%), <tt><a href="ota_boun-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (163; 92%), <tt><a href="ota_boun-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (163; 92%), <tt><a href="ota_boun-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (159; 89%), <tt><a href="ota_boun-feat-Evident.html">Evident</a></tt><tt>=EMPTY</tt> (138; 78%), <tt><a href="ota_boun-feat-Number.html">Number</a></tt><tt>=Sing</tt> (110; 62%), <tt><a href="ota_boun-feat-Person.html">Person</a></tt><tt>=3</tt> (110; 62%).
+The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="ota_boun-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (174; 96%), <tt><a href="ota_boun-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (166; 92%), <tt><a href="ota_boun-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (166; 92%), <tt><a href="ota_boun-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (162; 90%), <tt><a href="ota_boun-feat-Evident.html">Evident</a></tt><tt>=EMPTY</tt> (141; 78%), <tt><a href="ota_boun-feat-Number.html">Number</a></tt><tt>=Sing</tt> (111; 61%), <tt><a href="ota_boun-feat-Person.html">Person</a></tt><tt>=3</tt> (111; 61%).
 
 `VERB` tokens may have the following values of `Voice`:
 
-* `Cau` (42; 24% of non-empty `Voice`): <em>andıran, geçirdi, acıttığı, acıtıyor, bastırdığı, bildiren, bitiverecek, bozdurmak, değiştirmişti, dinlendiren</em>
-* `Pass` (136; 76% of non-empty `Voice`): <em>edilen, olunan, yuvarlandı, anlaşılan, dökülen, edilmiş, edilmişti, giyinmiş, görülüyor, okunan</em>
-* `EMPTY` (1162): <em>eden, olan, olduğu, etmek, görmek, bilir, başladı, edecek, ettiği, ediyor</em>
+* `Cau` (43; 24% of non-empty `Voice`): <em>andıran, geçirdi, kamaştıran, acıttığı, acıtıyor, bastırdığı, bildiren, bitiverecek, bozdurmak, değiştirmişti</em>
+* `Pass` (138; 76% of non-empty `Voice`): <em>edilen, olunan, yuvarlandı, anlaşılan, denilen, dökülen, edilmiş, edilmişti, edilse, giyinmiş</em>
+* `EMPTY` (1168): <em>eden, olan, olduğu, etmek, görmek, bilir, başladı, edecek, ettiği, oldu</em>
 
 <table>
   <tr><th>Paradigm <i>et</i></th><th><tt>Pass</tt></th><th><tt>Cau</tt></th></tr>
@@ -37,7 +37,7 @@ The most frequent other feature values with which `VERB` and `Voice` co-occurred
   <tr><td><tt><tt><a href="ota_boun-feat-VerbForm.html">VerbForm</a></tt><tt>=Conv</tt></tt></td><td></td><td><em>ettirip</em></td></tr>
 </table>
 
-`Voice` seems to be **lexical feature** of `VERB`. 91% lemmas (102) occur only with one value of `Voice`.
+`Voice` seems to be **lexical feature** of `VERB`. 94% lemmas (117) occur only with one value of `Voice`.
 
 ## Relations with Agreement in `Voice`
 

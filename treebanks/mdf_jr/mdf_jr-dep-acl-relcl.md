@@ -23,10 +23,10 @@ The following 5 pairs of parts of speech are connected with `acl:relcl`: <tt><a 
 # visual-style 7	fgColor:white
 # visual-style 7 6 acl:relcl	color:blue
 1	сире	сире	ADJ	A	Case=Nom|Definite=Ind|Number=Sing	2	amod	_	CGdephead=#8-&gt;9|CGdeprel=@&gt;N|GTtags=Sg,Nom,Indef
-2	пингть	пинге	NOUN	N	Case=Gen|Definite=Def|Number=Sing	5	obl:tmod	_	CGdephead=#9-&gt;12|CGdeprel=@OBJ&gt;|GTtags=Sg,Gen,Def
+2	пингть	пинге	NOUN	N	Case=Gen|Definite=Def|Number=Sing	5	obl	_	CGdephead=#9-&gt;12|CGdeprel=@OBJ&gt;|GTtags=Sg,Gen,Def
 3	тя	тя	PRON	Pron	Case=Nom|Definite=Ind|Number=Sing|PronType=Dem	4	det	_	CGdephead=#10-&gt;11|CGdeprel=@&gt;N|GTtags=Dem,Sg,Nom,Indef
-4	шиня	ши	NOUN	N	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=1	5	obl:tmod	_	CGdephead=#11-&gt;12|CGdeprel=@SUBJ&gt;|GTtags=Pl,Nom,PxSg1,Err/Orth-lowered-final-e-2-ja
-5	паннелезь	паннемс	VERB	V	Mood=Sub|Number[obj]=Sing|Number[subj]=Plur|Person[obj]=3|Person[subj]=3	0	root	_	CGdephead=#12-&gt;0|CGdeprel=@FMV|GTtags=Conj,ScPl3,OcSg3
+4	шиня	ши	NOUN	N	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=1	5	obl	_	CGdephead=#11-&gt;12|CGdeprel=@SUBJ&gt;|GTtags=Pl,Nom,PxSg1,Err/Orth-lowered-final-e-2-ja
+5	паннелезь	паннемс	VERB	V	Mood=Sub|Number[obj]=Sing|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|VerbForm=Fin	0	root	_	CGdephead=#12-&gt;0|CGdeprel=@FMV|GTtags=Conj,ScPl3,OcSg3
 6	сивотьф	сиводемс	VERB	V	Case=Nom|Definite=Ind|Number=Sing|Tense=Past|VerbForm=Part	7	acl:relcl	_	CGdephead=#13-&gt;12|CGdeprel=@IMV|GTtags=Der/f,PrfPrc,Sg,Nom,Indef
 7	работникнень	работник	NOUN	N	Case=Gen|Definite=Def|Number=Plur	8	nmod:poss	_	CGdephead=#14-&gt;15|CGdeprel=@&gt;N|GTtags=Pl,Gen,Def
 8	ярмакснон	ярмак	NOUN	N	Case=Gen|Number=Plur,Sing|Number[psor]=Plur|Person[psor]=3	5	obj	_	CGdephead=#15-&gt;0|CGdeprel=@X|GTtags=SP,Gen,PxPl3|SpaceAfter=No
@@ -43,7 +43,7 @@ The following 5 pairs of parts of speech are connected with `acl:relcl`: <tt><a 
 # visual-style 11 15 acl:relcl	color:blue
 1	А	а	CCONJ	CC	_	3	cc	_	_
 2	кода	кода	ADV	Adv	_	3	advmod	_	_
-3	ладяль	ладямс	VERB	V	Mood=Sub|Number[subj]=Sing|Person[subj]=3	0	root	_	GTtags=Conj,ScSg3
+3	ладяль	ладямс	VERB	V	Mood=Sub|Number[subj]=Sing|Person[subj]=3|VerbForm=Fin	0	root	_	GTtags=Conj,ScSg3
 4	утомнясь	утом	NOUN	N	Case=Nom|Definite=Def|Degree=Dim|Number=Sing	3	nsubj	_	GTtags=Der/Dimin,Sg,Nom,Def
 5	тейст	сон	PRON	Pron	Case=Dat|Number=Plur|Person=3|PronType=Prs|Variant=Short	3	obl	_	GTtags=Pers,Pl3,Dat,Short|SpaceAfter=No
 6	,	,	PUNCT	PUNCT	_	11	punct	_	_
@@ -72,7 +72,7 @@ The following 5 pairs of parts of speech are connected with `acl:relcl`: <tt><a 
 3	пильгонзон	пильге	NOUN	N	Case=Gen|Number=Plur|Number[psor]=Sing|Person[psor]=3	2	obj	_	GTtags=Pl,Gen,PxSg3|SpaceAfter=No
 4	,	,	PUNCT	PUNCT	_	7	punct	_	_
 5	конат	кона	PRON	Pron	Case=Nom|Definite=Ind|Number=Plur|PronType=Rel	7	nsubj:cop	_	GTtags=Rel,Pl,Nom,Indef
-6	плманжава	плманжа	NOUN	N	Case=Prl|Definite=Ind|Number=Plur,Sing	7	obl:lmod	_	GTtags=SP,Prl,Indef
+6	плманжава	плманжа	NOUN	N	Case=Prl|Definite=Ind|Number=Plur,Sing	7	obl	_	GTtags=SP,Prl,Indef
 7	пяндрат	пяндра	ADJ	A	Case=Nom|Definite=Ind|Number=Plur	3	acl:relcl	_	GTtags=Pl,Nom,Indef|SpaceAfter=No
 8	.	.	PUNCT	PUNCT	_	1	punct	_	_
 

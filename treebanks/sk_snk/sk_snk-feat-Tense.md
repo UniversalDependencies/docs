@@ -59,7 +59,7 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 ### `AUX`
 
-3481 <tt><a href="sk_snk-pos-AUX.html">AUX</a></tt> tokens (93% of all `AUX` tokens) have a non-empty value of `Tense`.
+3481 <tt><a href="sk_snk-pos-AUX.html">AUX</a></tt> tokens (87% of all `AUX` tokens) have a non-empty value of `Tense`.
 
 The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="sk_snk-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (3481; 100%), <tt><a href="sk_snk-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (3342; 96%), <tt><a href="sk_snk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2918; 84%), <tt><a href="sk_snk-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2751; 79%), <tt><a href="sk_snk-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2745; 79%), <tt><a href="sk_snk-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2745; 79%).
 
@@ -68,7 +68,7 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 * `Fut` (192; 6% of non-empty `Tense`): <em>bude, budú, nebude, budeme, budem, budeš, nebudem, budete, Nebudete, nebudeme</em>
 * `Past` (736; 21% of non-empty `Tense`): <em>bol, bola, bolo, boli, nebola, nebolo, nebol, neboli, býval, bývali</em>
 * `Pres` (2553; 73% of non-empty `Tense`): <em>som, je, sme, sú, si, ste, býva, nebýva, niesme, so</em>
-* `EMPTY` (242): <em>by, byť, buďte, Buďme, Nebuď</em>
+* `EMPTY` (517): <em>by, byť, buďte, Buďme, Nebuď</em>
 
 <table>
   <tr><th>Paradigm <i>byť</i></th><th><tt>Pres</tt></th><th><tt>Fut</tt></th><th><tt>Past</tt></th></tr>

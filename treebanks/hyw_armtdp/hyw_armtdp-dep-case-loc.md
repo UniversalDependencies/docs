@@ -59,7 +59,7 @@ The following 5 pairs of parts of speech are connected with `case:loc`: <tt><a h
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 9 case:loc	color:blue
-1	Յամենայն	ամենայն	PRON	_	Case=Loc|PronType=Tot|Style=Arch	7	discourse	_	Translit=Yamenayn|LTranslit=amenayn
+1	Յամենայն	ամենայն	DET	_	Case=Loc|ExtPos=PART|Number=Sing|PronType=Tot|Style=Arch	7	discourse	_	Translit=Yamenayn|LTranslit=amenayn
 2	դէպս	դէպ	NOUN	_	Animacy=Nhum|Case=Acc|Definite=Ind|Number=Plur|Style=Arch	1	fixed	_	Translit=dēps|LTranslit=dēp|SpaceAfter=No
 3	,	,	PUNCT	_	_	4	punct	_	Translit=,|LTranslit=,
 4	կեցէք	կենալ	VERB	_	Aspect=Prosp|Mood=Imp|Number=Plur|Person=2|Subcat=Intr|VerbForm=Fin|Voice=Mid	7	parataxis	_	Translit=kec’ēk’|LTranslit=kenal|SpaceAfter=No
@@ -67,7 +67,7 @@ The following 5 pairs of parts of speech are connected with `case:loc`: <tt><a h
 6	գնումս	գնում	NOUN	_	Animacy=Nhum|Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=1	7	obj	_	Translit=gnowms|LTranslit=gnowm
 7	ընեմ	ընել	VERB	_	Aspect=Prosp|Mood=Sub|Number=Sing|Person=1|Polarity=Pos|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=ënem|LTranslit=ënel
 8	Արմէնին	Արմէն	PROPN	_	Animacy=Hum|Case=Dat|Definite=Def|NameType=Giv|Number=Sing	7	obl	_	Translit=Armēnin|LTranslit=Armēn
-9	քովէն	քով	ADP	_	AdpType=Post|Case=Abl|Definite=Def	8	case:loc	_	Translit=k’ovēn|LTranslit=k’ov
+9	քովէն	քով	ADP	_	AdpType=Post|Case=Abl|Number[psor]=Sing|Person[psor]=3	8	case:loc	_	Translit=k’ovēn|LTranslit=k’ov
 10	ու	ու	CCONJ	_	_	11	cc	_	Translit=ow|LTranslit=ow
 11	քալենք	քալել	VERB	_	Aspect=Prosp|Mood=Sub|Number=Plur|Person=1|Polarity=Pos|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Mid	7	conj	_	Translit=k’alenk’|LTranslit=k’alel|SpaceAfter=No
 12	։	։	PUNCT	_	_	7	punct	_	Translit=.|LTranslit=.

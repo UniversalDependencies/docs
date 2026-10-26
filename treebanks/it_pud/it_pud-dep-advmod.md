@@ -39,7 +39,7 @@ The following 15 pairs of parts of speech are connected with `advmod`: <tt><a hr
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
 # visual-style 11 9 advmod	color:blue
-1	Il	il	DET	DT	Gender=Masc|Number=Sing	3	det	_	_
+1	Il	il	DET	DT	Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
 2	suo	suo	PRON	DTP$	Gender=Masc|Number=Sing|Number[psor]=Sing|Person=3|PronType=Prs	3	det:poss	_	_
 3	gioco	gioco	NOUN	NN	Gender=Masc|Number=Sing	6	nsubj	_	_
 4	può	potere	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	6	aux	_	_
@@ -62,11 +62,11 @@ The following 15 pairs of parts of speech are connected with `advmod`: <tt><a hr
 # visual-style 10	fgColor:white
 # visual-style 10 1 advmod	color:blue
 1	Forse	forse	ADV	RB	_	10	advmod	_	_
-2	l'	il	DET	DT	Gender=Masc|Number=Sing	3	det	_	SpaceAfter=No
+2	l'	il	DET	DT	Gender=Masc|Number=Sing|PronType=Art	3	det	_	SpaceAfter=No
 3	abbigliamento	abbigliamento	NOUN	NN	Gender=Masc|Number=Sing	10	nsubj	_	_
 4	richiesto	richiedere	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|Voice=Pass	3	acl	_	_
 5	era	essere	AUX	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	10	cop	_	_
-6	un	uno	DET	DT	Gender=Masc|Number=Sing	7	det	_	_
+6	un	uno	DET	DT	Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
 7	po'	poco	ADV	B	_	10	advmod	_	_
 8	a	a	ADP	IN	_	10	case	_	_
 9	l'	il	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_

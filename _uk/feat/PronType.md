@@ -60,6 +60,18 @@ These are to some extent parallel to interrogatives.
 * _тоді&nbsp;_ “then”
 * _так&nbsp;_ “so”
 
+### <a name="Emp">`Emp`</a>: emphatic determiner
+
+#### Examples
+
+* _самий&nbsp;_ as in _Це такий **самий** злочин.&nbsp;_ “This is the same crime.”
+
+### <a name="Rcp">`Rcp`</a>: reciprocal pronoun, determiner or adverb
+
+#### Examples
+
+* _одне одного&nbsp;_ “each other, one another”
+
 ### <a name="Tot">`Tot`</a>: total (collective) pronoun, determiner or adverb
 
 #### Examples
@@ -98,4 +110,4 @@ These are to some extent parallel to interrogatives.
 * _інколи&nbsp;_ “sometimes”; _будь-коли&nbsp;_ “anytime”; _колись&nbsp;_ “once (long ago)”
 * _якось&nbsp;_ “somehow”; _будь-як&nbsp;_ “anyhow”
 
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:02 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:14 CEST -->

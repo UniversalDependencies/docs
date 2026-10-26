@@ -11,7 +11,7 @@ This relation is universal.
 599 nodes (1%) are attached to their parents as `cop`.
 
 507 instances of `cop` (85%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.12520868113523.
+Average distance between parent and child is 2.11686143572621.
 
 The following 8 pairs of parts of speech are connected with `cop`: <tt><a href="el_gdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="el_gdt-pos-AUX.html">AUX</a></tt> (277; 46% instances), <tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_gdt-pos-AUX.html">AUX</a></tt> (232; 39% instances), <tt><a href="el_gdt-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gdt-pos-AUX.html">AUX</a></tt> (38; 6% instances), <tt><a href="el_gdt-pos-PRON.html">PRON</a></tt>-<tt><a href="el_gdt-pos-AUX.html">AUX</a></tt> (21; 4% instances), <tt><a href="el_gdt-pos-ADV.html">ADV</a></tt>-<tt><a href="el_gdt-pos-AUX.html">AUX</a></tt> (16; 3% instances), <tt><a href="el_gdt-pos-NUM.html">NUM</a></tt>-<tt><a href="el_gdt-pos-AUX.html">AUX</a></tt> (9; 2% instances), <tt><a href="el_gdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="el_gdt-pos-AUX.html">AUX</a></tt> (4; 1% instances), <tt><a href="el_gdt-pos-X.html">X</a></tt>-<tt><a href="el_gdt-pos-AUX.html">AUX</a></tt> (2; 0% instances).
 

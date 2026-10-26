@@ -21,5 +21,5 @@ The feature is used with 1 part-of-speech tags: <tt><a href="gl_ctg-pos-PART.htm
 `PART` tokens may have the following values of `Polarity`:
 
 * `Neg` (120; 100% of non-empty `Polarity`): <em>non</em>
-* `EMPTY` (569): <em>non, senon, Ln, föhn, on</em>
+* `EMPTY` (568): <em>non, senon, Ln, föhn</em>
 

@@ -20,7 +20,7 @@ The feature is used with 3 part-of-speech tags: <tt><a href="la_llct-pos-PRON.ht
 
 15012 <tt><a href="la_llct-pos-PRON.html">PRON</a></tt> tokens (82% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="la_llct-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (15010; 100%), <tt><a href="la_llct-feat-Number.html">Number</a></tt><tt>=Sing</tt> (11317; 75%), <tt><a href="la_llct-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (9792; 65%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="la_llct-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (15012; 100%), <tt><a href="la_llct-feat-Number.html">Number</a></tt><tt>=Sing</tt> (11317; 75%), <tt><a href="la_llct-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (9792; 65%).
 
 `PRON` tokens may have the following values of `Person`:
 

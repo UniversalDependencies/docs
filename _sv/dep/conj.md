@@ -22,4 +22,4 @@ conj(tvekan, slarv)
 cc(dröjsmål, eller-4)
 cc(slarv, eller-6)
 ~~~
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:41 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:54 CEST -->

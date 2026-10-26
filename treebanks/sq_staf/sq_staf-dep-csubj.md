@@ -39,7 +39,7 @@ The following 2 pairs of parts of speech are connected with `csubj`: <tt><a href
 15	,	,	PUNCT	_	_	8	punct	_	_
 16	të	të	PART	_	_	17	mark	_	_
 17	mos	mos	PART	_	_	19	advmod	_	_
-18	e	e	PRON	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	19	obj	_	_
+18	e	e	PRON	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	19	expl	_	_
 19	shkelësh	shkelëj	VERB	Mood=Ind|Number=Sing|Person=2|Tense=Pres|Voice=Act	_	2	parataxis	_	_
 20	më	më	ADV	_	_	19	advmod	_	_
 21	këtë	ky	PRON	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	_	22	det	_	_
@@ -97,9 +97,9 @@ The following 2 pairs of parts of speech are connected with `csubj`: <tt><a href
 # visual-style 3 8 csubj	color:blue
 1	Por	por	CCONJ	_	_	3	cc	_	end_char=2297|start_char=2294
 2	më	më	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	3	iobj	_	end_char=2300|start_char=2298
-3	duket	dukem	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	end_char=2306|start_char=2301
+3	duket	dukem	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	end_char=2306|start_char=2301
 4	se	se	SCONJ	_	_	8	mark	_	end_char=2309|start_char=2307
-5	jam	jam	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	8	cop	_	end_char=2313|start_char=2310
+5	jam	jam	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	8	cop	_	end_char=2313|start_char=2310
 6	shumë	shumë	ADV	_	AdvType=Deg	8	advmod	_	end_char=2319|start_char=2314
 7	i	i	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	8	det:adj	_	end_char=2321|start_char=2320
 8	kthjellët	kthjellë	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	csubj	_	end_char=2331|SpaceAfter=No|start_char=2322

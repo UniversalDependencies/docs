@@ -42,7 +42,7 @@ The following 3 pairs of parts of speech are connected with `goeswith`: <tt><a h
 18	awa	awa	PRON	_	Case=Acc|Number=Plur|Person=1|PronType=Prs	21	nsubj	_	Gloss=we|Ref=MARK_5.12
 19	le	lè	AUX	_	Typo=Yes	21	aux	_	CorrectForm=leè|Gloss=can|Ref=MARK_5.12
 20	è	_	X	_	_	19	goeswith	_	Gloss=|Ref=MARK_5.12
-21	wọ	wọ	VERB	_	_	16	xcomp	_	Gloss=enter|Ref=MARK_5.12
+21	wọ	wọ	VERB	_	_	12	xcomp	_	Gloss=enter|Ref=MARK_5.12
 22	inú	inú	ADP	_	_	23	case	_	Gloss=into|Ref=MARK_5.12
 23	wọn	wọn	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	21	obj	_	Gloss=them|Ref=MARK_5.12
 24	lọ	lọ	ADV	_	_	21	compound:svc	_	Gloss=go|Ref=MARK_5.12|SpaceAfter=No

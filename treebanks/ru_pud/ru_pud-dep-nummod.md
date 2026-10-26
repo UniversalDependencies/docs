@@ -23,7 +23,7 @@ The following 6 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 7 nummod	color:blue
-1	В	в	ADP	IN	_	6	advmod	_	_
+1	В	в	ADP	IN	ExtPos=ADV	6	advmod	_	_
 2	настоящее	настоящее	ADJ	JJ	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	1	fixed	_	_
 3	время	время	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	1	fixed	_	_
 4	период	период	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_

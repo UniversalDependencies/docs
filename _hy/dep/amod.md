@@ -26,4 +26,4 @@ amod(impression, The-first)
 amod(երաժշտություն, Դանդաղ)
 amod(music, Slow)
 ~~~
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:25 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:38 CEST -->

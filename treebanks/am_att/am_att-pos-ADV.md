@@ -56,7 +56,7 @@ The 10 most frequent ambiguous types:  ነገ (<tt><a href="am_att-pos-ADV.html"
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.000000 (the average of all parts of speech is 1.029841).
+The form / lemma ratio of `ADV` is 1.000000 (the average of all parts of speech is 1.029860).
 
 The 1st highest number of forms (1) was observed with the lemma “ሁሉ”: ሁሉ.
 
@@ -69,13 +69,13 @@ The 3rd highest number of forms (1) was observed with the lemma “ሌጣ”: �
 
 ## Relations
 
-`ADV` nodes are attached to their parents using 9 different relations: <tt><a href="am_att-dep-advmod.html">advmod</a></tt> (85; 90% instances), <tt><a href="am_att-dep-root.html">root</a></tt> (2; 2% instances), <tt><a href="am_att-dep-advcl.html">advcl</a></tt> (1; 1% instances), <tt><a href="am_att-dep-ccomp.html">ccomp</a></tt> (1; 1% instances), <tt><a href="am_att-dep-compound.html">compound</a></tt> (1; 1% instances), <tt><a href="am_att-dep-fixed.html">fixed</a></tt> (1; 1% instances), <tt><a href="am_att-dep-nmod.html">nmod</a></tt> (1; 1% instances), <tt><a href="am_att-dep-nsubj.html">nsubj</a></tt> (1; 1% instances), <tt><a href="am_att-dep-obl.html">obl</a></tt> (1; 1% instances)
+`ADV` nodes are attached to their parents using 8 different relations: <tt><a href="am_att-dep-advmod.html">advmod</a></tt> (86; 91% instances), <tt><a href="am_att-dep-root.html">root</a></tt> (2; 2% instances), <tt><a href="am_att-dep-advcl.html">advcl</a></tt> (1; 1% instances), <tt><a href="am_att-dep-ccomp.html">ccomp</a></tt> (1; 1% instances), <tt><a href="am_att-dep-compound.html">compound</a></tt> (1; 1% instances), <tt><a href="am_att-dep-nmod.html">nmod</a></tt> (1; 1% instances), <tt><a href="am_att-dep-nsubj.html">nsubj</a></tt> (1; 1% instances), <tt><a href="am_att-dep-obl.html">obl</a></tt> (1; 1% instances)
 
-Parents of `ADV` nodes belong to 8 different parts of speech: <tt><a href="am_att-pos-VERB.html">VERB</a></tt> (74; 79% instances), <tt><a href="am_att-pos-NOUN.html">NOUN</a></tt> (9; 10% instances), <tt><a href="am_att-pos-ADJ.html">ADJ</a></tt> (4; 4% instances), <tt><a href="am_att-pos-ADV.html">ADV</a></tt> (2; 2% instances),  (2; 2% instances), <tt><a href="am_att-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="am_att-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="am_att-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances)
+Parents of `ADV` nodes belong to 7 different parts of speech: <tt><a href="am_att-pos-VERB.html">VERB</a></tt> (75; 80% instances), <tt><a href="am_att-pos-NOUN.html">NOUN</a></tt> (9; 10% instances), <tt><a href="am_att-pos-ADJ.html">ADJ</a></tt> (4; 4% instances), <tt><a href="am_att-pos-ADV.html">ADV</a></tt> (2; 2% instances),  (2; 2% instances), <tt><a href="am_att-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="am_att-pos-PROPN.html">PROPN</a></tt> (1; 1% instances)
 
-72 (77%) `ADV` nodes are leaves.
+71 (76%) `ADV` nodes are leaves.
 
-16 (17%) `ADV` nodes have one child.
+17 (18%) `ADV` nodes have one child.
 
 2 (2%) `ADV` nodes have two children.
 
@@ -83,7 +83,7 @@ Parents of `ADV` nodes belong to 8 different parts of speech: <tt><a href="am_at
 
 The highest child degree of a `ADV` node is 4.
 
-Children of `ADV` nodes are attached using 13 different relations: <tt><a href="am_att-dep-case.html">case</a></tt> (13; 38% instances), <tt><a href="am_att-dep-expl.html">expl</a></tt> (3; 9% instances), <tt><a href="am_att-dep-nsubj.html">nsubj</a></tt> (3; 9% instances), <tt><a href="am_att-dep-advmod.html">advmod</a></tt> (2; 6% instances), <tt><a href="am_att-dep-cop.html">cop</a></tt> (2; 6% instances), <tt><a href="am_att-dep-discourse.html">discourse</a></tt> (2; 6% instances), <tt><a href="am_att-dep-nmod.html">nmod</a></tt> (2; 6% instances), <tt><a href="am_att-dep-punct.html">punct</a></tt> (2; 6% instances), <tt><a href="am_att-dep-aux.html">aux</a></tt> (1; 3% instances), <tt><a href="am_att-dep-compound.html">compound</a></tt> (1; 3% instances), <tt><a href="am_att-dep-det.html">det</a></tt> (1; 3% instances), <tt><a href="am_att-dep-mark.html">mark</a></tt> (1; 3% instances), <tt><a href="am_att-dep-parataxis.html">parataxis</a></tt> (1; 3% instances)
+Children of `ADV` nodes are attached using 13 different relations: <tt><a href="am_att-dep-case.html">case</a></tt> (13; 37% instances), <tt><a href="am_att-dep-expl.html">expl</a></tt> (3; 9% instances), <tt><a href="am_att-dep-nsubj.html">nsubj</a></tt> (3; 9% instances), <tt><a href="am_att-dep-advmod.html">advmod</a></tt> (2; 6% instances), <tt><a href="am_att-dep-cop.html">cop</a></tt> (2; 6% instances), <tt><a href="am_att-dep-discourse.html">discourse</a></tt> (2; 6% instances), <tt><a href="am_att-dep-mark.html">mark</a></tt> (2; 6% instances), <tt><a href="am_att-dep-nmod.html">nmod</a></tt> (2; 6% instances), <tt><a href="am_att-dep-punct.html">punct</a></tt> (2; 6% instances), <tt><a href="am_att-dep-aux.html">aux</a></tt> (1; 3% instances), <tt><a href="am_att-dep-compound.html">compound</a></tt> (1; 3% instances), <tt><a href="am_att-dep-det.html">det</a></tt> (1; 3% instances), <tt><a href="am_att-dep-parataxis.html">parataxis</a></tt> (1; 3% instances)
 
-Children of `ADV` nodes belong to 9 different parts of speech: <tt><a href="am_att-pos-ADP.html">ADP</a></tt> (11; 32% instances), <tt><a href="am_att-pos-PRON.html">PRON</a></tt> (7; 21% instances), <tt><a href="am_att-pos-PART.html">PART</a></tt> (5; 15% instances), <tt><a href="am_att-pos-AUX.html">AUX</a></tt> (3; 9% instances), <tt><a href="am_att-pos-ADV.html">ADV</a></tt> (2; 6% instances), <tt><a href="am_att-pos-NOUN.html">NOUN</a></tt> (2; 6% instances), <tt><a href="am_att-pos-PUNCT.html">PUNCT</a></tt> (2; 6% instances), <tt><a href="am_att-pos-CCONJ.html">CCONJ</a></tt> (1; 3% instances), <tt><a href="am_att-pos-DET.html">DET</a></tt> (1; 3% instances)
+Children of `ADV` nodes belong to 10 different parts of speech: <tt><a href="am_att-pos-ADP.html">ADP</a></tt> (11; 31% instances), <tt><a href="am_att-pos-PRON.html">PRON</a></tt> (7; 20% instances), <tt><a href="am_att-pos-PART.html">PART</a></tt> (5; 14% instances), <tt><a href="am_att-pos-AUX.html">AUX</a></tt> (3; 9% instances), <tt><a href="am_att-pos-ADV.html">ADV</a></tt> (2; 6% instances), <tt><a href="am_att-pos-NOUN.html">NOUN</a></tt> (2; 6% instances), <tt><a href="am_att-pos-PUNCT.html">PUNCT</a></tt> (2; 6% instances), <tt><a href="am_att-pos-CCONJ.html">CCONJ</a></tt> (1; 3% instances), <tt><a href="am_att-pos-DET.html">DET</a></tt> (1; 3% instances), <tt><a href="am_att-pos-SCONJ.html">SCONJ</a></tt> (1; 3% instances)
 

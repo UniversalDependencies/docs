@@ -24,7 +24,7 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 
 * `Imp` (485; 8% of non-empty `Mood`): <em>прости, дай, смотри, молчи, скажи, Спи, верь, гори, иди, стой</em>
 * `Ind` (5273; 92% of non-empty `Mood`): <em>знаю, может, стоит, есть, люблю, вижу, могу, поет, хочу, иду</em>
-* `EMPTY` (2476): <em>нет, надо, быть, жить, любить, можно, идти, найти, пора, сказать</em>
+* `EMPTY` (2478): <em>нет, надо, быть, жить, любить, можно, идти, найти, пора, сказать</em>
 
 <table>
   <tr><th>Paradigm <i>знать</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th></tr>

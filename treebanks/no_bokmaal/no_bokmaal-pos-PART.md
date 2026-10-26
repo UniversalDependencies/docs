@@ -37,7 +37,7 @@ The 10 most frequent ambiguous types:  <em>å</em> (<tt><a href="no_bokmaal-pos-
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.381699).
+The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.381641).
 
 The 1st highest number of forms (2) was observed with the lemma “å”: <em>og, å</em>.
 
@@ -58,7 +58,7 @@ Examples: <em>å, og, ei</em>
 
 `PART` nodes are attached to their parents using 9 different relations: <tt><a href="no_bokmaal-dep-mark.html">mark</a></tt> (4304; 62% instances), <tt><a href="no_bokmaal-dep-advmod.html">advmod</a></tt> (2634; 38% instances), <tt><a href="no_bokmaal-dep-nmod.html">nmod</a></tt> (33; 0% instances), <tt><a href="no_bokmaal-dep-conj.html">conj</a></tt> (13; 0% instances), <tt><a href="no_bokmaal-dep-root.html">root</a></tt> (5; 0% instances), <tt><a href="no_bokmaal-dep-advcl.html">advcl</a></tt> (3; 0% instances), <tt><a href="no_bokmaal-dep-flat-name.html">flat:name</a></tt> (3; 0% instances), <tt><a href="no_bokmaal-dep-reparandum.html">reparandum</a></tt> (2; 0% instances), <tt><a href="no_bokmaal-dep-csubj.html">csubj</a></tt> (1; 0% instances)
 
-Parents of `PART` nodes belong to 12 different parts of speech: <tt><a href="no_bokmaal-pos-VERB.html">VERB</a></tt> (5956; 85% instances), <tt><a href="no_bokmaal-pos-ADJ.html">ADJ</a></tt> (497; 7% instances), <tt><a href="no_bokmaal-pos-NOUN.html">NOUN</a></tt> (323; 5% instances), <tt><a href="no_bokmaal-pos-ADV.html">ADV</a></tt> (99; 1% instances), <tt><a href="no_bokmaal-pos-PRON.html">PRON</a></tt> (56; 1% instances), <tt><a href="no_bokmaal-pos-ADP.html">ADP</a></tt> (21; 0% instances), <tt><a href="no_bokmaal-pos-PROPN.html">PROPN</a></tt> (20; 0% instances), <tt><a href="no_bokmaal-pos-DET.html">DET</a></tt> (11; 0% instances), <tt><a href="no_bokmaal-pos-SCONJ.html">SCONJ</a></tt> (6; 0% instances),  (5; 0% instances), <tt><a href="no_bokmaal-pos-INTJ.html">INTJ</a></tt> (2; 0% instances), <tt><a href="no_bokmaal-pos-NUM.html">NUM</a></tt> (2; 0% instances)
+Parents of `PART` nodes belong to 12 different parts of speech: <tt><a href="no_bokmaal-pos-VERB.html">VERB</a></tt> (5956; 85% instances), <tt><a href="no_bokmaal-pos-ADJ.html">ADJ</a></tt> (497; 7% instances), <tt><a href="no_bokmaal-pos-NOUN.html">NOUN</a></tt> (327; 5% instances), <tt><a href="no_bokmaal-pos-ADV.html">ADV</a></tt> (99; 1% instances), <tt><a href="no_bokmaal-pos-PRON.html">PRON</a></tt> (56; 1% instances), <tt><a href="no_bokmaal-pos-ADP.html">ADP</a></tt> (21; 0% instances), <tt><a href="no_bokmaal-pos-PROPN.html">PROPN</a></tt> (21; 0% instances), <tt><a href="no_bokmaal-pos-DET.html">DET</a></tt> (6; 0% instances), <tt><a href="no_bokmaal-pos-SCONJ.html">SCONJ</a></tt> (6; 0% instances),  (5; 0% instances), <tt><a href="no_bokmaal-pos-INTJ.html">INTJ</a></tt> (2; 0% instances), <tt><a href="no_bokmaal-pos-NUM.html">NUM</a></tt> (2; 0% instances)
 
 6886 (98%) `PART` nodes are leaves.
 

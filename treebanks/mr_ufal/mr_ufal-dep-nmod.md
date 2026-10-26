@@ -9,27 +9,35 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `nmod`: <tt><a href="mr_ufal-dep-nmod-poss.html">nmod:poss</a></tt>.
 
-5 nodes (0%) are attached to their parents as `nmod`.
+6 nodes (0%) are attached to their parents as `nmod`.
 
-5 instances of `nmod` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.6.
+6 instances of `nmod` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.33333333333333.
 
-The following 3 pairs of parts of speech are connected with `nmod`: <tt><a href="mr_ufal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mr_ufal-pos-NOUN.html">NOUN</a></tt> (3; 60% instances), <tt><a href="mr_ufal-pos-VERB.html">VERB</a></tt>-<tt><a href="mr_ufal-pos-NOUN.html">NOUN</a></tt> (1; 20% instances), <tt><a href="mr_ufal-pos-VERB.html">VERB</a></tt>-<tt><a href="mr_ufal-pos-PRON.html">PRON</a></tt> (1; 20% instances).
+The following 3 pairs of parts of speech are connected with `nmod`: <tt><a href="mr_ufal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mr_ufal-pos-NOUN.html">NOUN</a></tt> (4; 67% instances), <tt><a href="mr_ufal-pos-VERB.html">VERB</a></tt>-<tt><a href="mr_ufal-pos-NOUN.html">NOUN</a></tt> (1; 17% instances), <tt><a href="mr_ufal-pos-VERB.html">VERB</a></tt>-<tt><a href="mr_ufal-pos-PRON.html">PRON</a></tt> (1; 17% instances).
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 5 1 nmod	color:blue
-1	चांदी	चांदी	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	5	nmod	_	SpaceAfter=No|Translit=cāṁdī|LTranslit=cāṁdī
-2	-	-	PUNCT	_	_	3	punct	_	SpaceAfter=No|Translit=-|LTranslit=-
-3	सोन्या	सोने	NOUN	_	Case=Abs|Gender=Neut|Number=Sing	1	conj	_	Translit=sonyā|LTranslit=sone
-4	ची	चा	ADP	_	Gender=Neut|Number=Plur	3	case	_	Translit=cī|LTranslit=cā
-5	भांडी	भांडे	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	6	nsubj	_	Translit=bhāṁḍī|LTranslit=bhāṁḍe
-6	होती	असणे	AUX	_	Gender=Neut|Number=Plur|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No|Translit=hotī|LTranslit=asaṇe
-7	.	.	PUNCT	_	_	6	punct	_	Translit=.|LTranslit=.
+# visual-style 5 4 nmod	color:blue
+1	"	"	PUNCT	_	_	13	punct	_	Translit="|LTranslit="
+2	त्यां	तो	PRON	_	Case=Abs|Deixis=Remt|Gender=Masc|Number=Plur|Person=3|PronType=Dem	4	nmod:poss	_	Translit=tyāṁ|LTranslit=to
+3	च्या	चा	ADP	_	Case=Abs	2	case	_	Translit=cyā|LTranslit=cā
+4	बाबतीत	बाबत	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	5	nmod	_	Translit=bābatīta|LTranslit=bābata
+5	देव	देव	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	Translit=deva|LTranslit=deva
+6	मेला	मरणे	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|VerbForm=Fin	13	advcl	_	SpaceAfter=No|Translit=melā|LTranslit=maraṇe
+7	,	,	PUNCT	_	_	8	punct	_	Translit=,|LTranslit=,
+8	तसा	तसा	SCONJ	_	_	6	mark	_	Translit=tasā|LTranslit=tasā
+9	आपल	आपण	PRON	_	PronType=Prs	11	nmod:poss	_	Translit=āpala|LTranslit=āpaṇa
+10	च्या	चा	ADP	_	Case=Abs	9	case	_	Translit=cyā|LTranslit=cā
+11	बाबतीत	बाबत	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	13	obl	_	Translit=bābatīta|LTranslit=bābata
+12	ही	ही	PART	_	_	11	discourse	_	Translit=hī|LTranslit=hī
+13	मरायचा	मरणे	VERB	_	Aspect=Hab|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No|Translit=marāyacā|LTranslit=maraṇe
+14	!	!	PUNCT	_	_	13	punct	_	SpaceAfter=No|Translit=!|LTranslit=!
+15	"	"	PUNCT	_	_	13	punct	_	Translit="|LTranslit="
 
 ~~~
 

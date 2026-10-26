@@ -7,66 +7,91 @@ udver: '2'
 ## Treebank Statistics: UD_Ottoman_Turkish-DUDU: Relations: `compound`
 
 This relation is universal.
-There are 1 language-specific subtypes of `compound`: <tt><a href="ota_dudu-dep-compound-lvc.html">compound:lvc</a></tt>.
+There are 2 language-specific subtypes of `compound`: <tt><a href="ota_dudu-dep-compound-lvc.html">compound:lvc</a></tt>, <tt><a href="ota_dudu-dep-compound-redup.html">compound:redup</a></tt>.
 
-15 nodes (2%) are attached to their parents as `compound`.
+138 nodes (1%) are attached to their parents as `compound`.
 
-13 instances of `compound` (87%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.
+134 instances of `compound` (97%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.05797101449275.
 
-The following 6 pairs of parts of speech are connected with `compound`: <tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt>-<tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt> (6; 40% instances), <tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt>-<tt><a href="ota_dudu-pos-ADJ.html">ADJ</a></tt> (3; 20% instances), <tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt>-<tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt> (3; 20% instances), <tt><a href="ota_dudu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt> (1; 7% instances), <tt><a href="ota_dudu-pos-ADV.html">ADV</a></tt>-<tt><a href="ota_dudu-pos-CCONJ.html">CCONJ</a></tt> (1; 7% instances), <tt><a href="ota_dudu-pos-ADV.html">ADV</a></tt>-<tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt> (1; 7% instances).
+The following 5 pairs of parts of speech are connected with `compound`: <tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt> (120; 87% instances), <tt><a href="ota_dudu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt> (14; 10% instances), <tt><a href="ota_dudu-pos-NUM.html">NUM</a></tt>-<tt><a href="ota_dudu-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="ota_dudu-pos-ADV.html">ADV</a></tt>-<tt><a href="ota_dudu-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ota_dudu-pos-ADJ.html">ADJ</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
-# visual-style 14	bgColor:blue
-# visual-style 14	fgColor:white
-# visual-style 15	bgColor:blue
-# visual-style 15	fgColor:white
-# visual-style 15 14 compound	color:blue
-1	eger	eger	SCONJ	_	_	15	mark	_	_
-2	diler	dile	VERB	_	Aspect=Hab|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	15	advcl	_	_
-3	señ	y	AUX	Zero	Number=Sing|Polarity=Pos	2	cop	_	_
-4	bir	bir	DET	_	Definite=Ind|PronType=Art	5	det	_	_
-5	kimseyi	kimse	NOUN	_	Case=Acc|Number=Sing|Person=3	7	obj	_	_
-6	tesḫîr	tesḫîr	ADJ	_	_	7	advmod	_	_
-7	idesin	et	VERB	_	Aspect=Hab|Number=Sing|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin	15	advcl	_	_
-8	evvel	evvel	ADV	_	_	7	advmod	_	_
-9	kendi	kendi	PRON	_	PronType=Prs|Reflex=Yes	10	nmod:poss	_	_
-10	adın	ad	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	15	obj	_	_
-11	ve	ve	CCONJ	_	_	13	cc	_	_
-12	anası	ana	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	13	nmod:poss	_	_
-13	adın	ad	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	10	conj	_	_
-14	ḥisâb	ḥisâb	NOUN	_	Case=Nom|Number=Sing|Person=3	15	compound	_	_
-15	idesin	et	VERB	_	Aspect=Hab|Number=Sing|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 5 compound	color:blue
+1	gelip	gel	VERB	Conv	Polarity=Pos|VerbForm=Conv	4	advcl	_	_
+2	melik	melik	NOUN	_	Case=Nom|Number=Sing|Person=3	3	nmod	_	_
+3	züheyre	züheyr	PROPN	Pers	Case=Dat|Gender=Masc|NameType=Prs|Number=Sing|Person=3	4	obl	_	_
+4	ḫaber	ḫaber	NOUN	_	Case=Nom|Number=Sing|Person=3	0	root	_	_
+5	virdiler	vir	VERB	_	Aspect=Perf|Evident=Fh|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	4	compound	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 3 2 compound	color:blue
-1	begler	beg	NOUN	Noun	Case=Nom|Number=Plur|Person=3	4	nsubj	_	_
-2	ḫoş	ḫoş	ADJ	Adj	_	3	compound	_	_
-3	kaluñ	kal	VERB	VERB	_	4	ccomp	_	_
-4	dedi	de	VERB	Verb	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past	0	root	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 3 compound	color:blue
+1	tażarruʿlar	tażarruʿ	NOUN	_	Case=Nom|Number=Plur|Person=3	2	nsubj	_	_
+2	ḳılup	ḳıl	VERB	Conv	Polarity=Pos|VerbForm=Conv	4	advcl	_	_
+3	oldı	ol	VERB	_	Aspect=Perf|Evident=Fh|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	4	compound	_	_
+4	peşīmān	peşīmān	ADJ	Adj	_	0	root	_	_
+5	pes	pes	ADV	_	_	6	advmod	_	_
+6	āzād	āzād	ADJ	Adj	_	4	conj	_	_
+7	eyledi	eyle	VERB	_	Aspect=Perf|Evident=Fh|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	6	compound:lvc	_	_
+8	ol	ol	DET	Demons	Definite=Def|PronType=Art	10	det	_	_
+9	kān-ı	kān	NOUN	_	Case=Nom|Number=Sing|Person=3	6	obj	_	_
+10	iḥsān	iḥsān	NOUN	_	Case=Nom|Number=Sing|Person=3	9	nmod:poss	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 1 compound	color:blue
-1	yerse	yer	VERB	_	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	compound	_	_
-2	yesün	ye	VERB	_	Mood=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	5	advcl	_	_
-3	yemezse	ye	VERB	_	Aspect=Hab|Mood=Cnd|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	5	advcl	_	_
-4	ṭursun	ṭur	VERB	_	Mood=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	5	compound	_	_
-5	getsün	get	VERB	_	Mood=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	_
+# visual-style 28	bgColor:blue
+# visual-style 28	fgColor:white
+# visual-style 29	bgColor:blue
+# visual-style 29	fgColor:white
+# visual-style 29 28 compound	color:blue
+1	baʿdehu	baʿdehu	ADV	_	_	33	advmod	_	_
+2	māh-ı	māh	NOUN	_	Case=Nom|Number=Sing|Person=3	5	nmod	_	_
+3	recebüñ	receb	NOUN	_	Case=Gen|Number=Sing|Person=3	2	nmod:poss	_	_
+4	ṭoḳuzıncı	ṭoḳuz	NUM	ANum	NumType=Ord	5	nummod	_	_
+5	güni	gün	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	33	obl:tmod	_	_
+6	ki	ki	SCONJ	_	_	7	mark	_	_
+7	yevm-i	yevm	NOUN	_	Case=Nom|Number=Sing|Person=3	5	appos	_	_
+8	sebt	sebt	NOUN	_	Case=Nom|Number=Sing|Person=3	7	nmod:poss	_	_
+9	idi	y	AUX	Overt	Aspect=Perf|Evident=Fh|Number=Sing|Person=3|Polarity=Pos|Tense=Past	7	cop	_	_
+10	ḥaleb	ḥaleb	PROPN	Place	Case=Nom|Gender=Fem|NameType=Geo|Number=Sing|Person=3	11	nmod	_	_
+11	beglerbegisi	beglerbegi	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	12	nmod	_	_
+12	aḥmed	aḥmed	PROPN	Pers	Case=Nom|Gender=Masc|NameType=Prs|Number=Sing|Person=3	16	nmod	_	_
+13	paşanuñ	paşa	NOUN	_	Case=Gen|Number=Sing|Person=3	12	flat	_	_
+14	ʿos̱mān	ʿos̱mān	PROPN	Pers	Case=Nom|Gender=Masc|NameType=Prs|Number=Sing|Person=3	15	nmod	_	_
+15	nām	nām	NOUN	_	Case=Nom|Number=Sing|Person=3	16	nmod	_	_
+16	vekīl-i	vekīl	NOUN	_	Case=Nom|Number=Sing|Person=3	23	nsubj	_	_
+17	ḫarcı	ḫarc	NOUN	_	Case=Acc|Number=Sing|Person=3	16	nmod:poss	_	_
+18	ḳırḳ	ḳırḳ	NUM	ANum	NumType=Card	19	compound	_	_
+19	elli	elli	NUM	ANum	NumType=Card	20	nummod	_	_
+20	miḳdārı	miḳdār	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	21	nmod	_	_
+21	ādemleriyle	ādem	NOUN	_	Case=Ins|Number=Plur|Number[psor]=Sing|Person=3|Person[psor]=3	23	obl	_	_
+22	azıḳlanmaġa	azıḳlan	VERB	Vnoun	Case=Dat|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	23	obl	_	_
+23	giderken	git	VERB	Conv	Aspect=Hab|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Conv	33	advcl	_	_
+24	sābıḳ	sābıḳ	ADJ	NAdj	_	26	nmod	_	_
+25	uʾẕ-ẕikr	ẕikr	NOUN	_	Case=Nom|Number=Sing|Person=3	24	nmod	_	_
+26	ḳazaḳ	ḳazaḳ	PROPN	Pers	Case=Nom|NameType=Prs|Number=Sing|Person=3	31	nmod	_	_
+27	ḫān	ḫān	NOUN	_	Case=Nom|Number=Sing|Person=3	26	flat	_	_
+28	üç	üç	NUM	ANum	NumType=Card	29	compound	_	_
+29	dört	dört	NUM	ANum	NumType=Card	31	nummod	_	_
+30	yüz	yüz	NUM	ANum	NumType=Card	29	flat	_	_
+31	güm-rāhān	güm-rāh	ADJ	NAdj	Case=Nom|Number=Plur|Person=3	33	obl	_	_
+32	ile	ile	CCONJ	_	_	31	case	_	_
+33	muḳābil	muḳābil	ADJ	Adj	Case=Nom|Number=Sing|Person=3	0	root	_	_
+34	oldı	ol	VERB	_	Aspect=Perf|Evident=Fh|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	33	compound:lvc	_	_
 
 ~~~
 

@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.2 release.
 The following people have contributed to making this treebank part of UD: Siyao Peng, Amir Zeldes.
 
 Repository: [UD_English-GUM](https://github.com/UniversalDependencies/UD_English-GUM)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uden_gum215)<br />
-Download all treebanks: [UD 2.15](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uden_gum218)<br />
+Download all treebanks: [UD 2.18](/#download)
 
 License: CC BY-NC-SA 4.0
 
@@ -56,7 +56,7 @@ The dependencies in the corpus up to GUM version 5 were originally annotated usi
 
 GUM annotation team (so far - thanks for participating!)
 
-Adrienne Isaac, Akitaka Yamada, Alex Giorgioni, Alexandra Berends, Alexandra Slome, Amani Aloufi, Amber Hall, Amelia Becker, Andrea Price, Andrew O'Brien, Ángeles Ortega Luque, Aniya Harris, Anna Prince, Anna Runova, Anne Butler, Arianna Janoff, Aryaman Arora, Ayan Mandal, Aysenur Sagdic, Bertille Baron, Bradford Salen, Brandon Tullock, Brent Laing, Caitlyn Pineault, Calvin Engstrom, Candice Penelton, Carlotta Hübener, Caroline Gish, Charlie Dees, Chenyue Guo, Chloe Evered, Cindy Luo, Colleen Diamond, Connor O'Dwyer, Cristina Lopez, Cynthia Li, Dan DeGenaro, Dan Simonson, Derek Reagan, Devika Tiwari, Didem Ikizoglu, Edwin Ko, Eliza Rice, Emile Zahr, Emily Pace, Emma Manning, Emma Rafkin, Ethan Beaman, Felipe De Jesus, Han Bu, Hana Altalhi, Hang Jiang, Hannah Wingett, Hanwool Choe, Hassan Munshi, Helen Dominic, Ho Fai Cheng, Hortensia Gutierrez, Jakob Prange, James Maguire, Janine Karo, Jehan al-Mahmoud, Jemm Excelle Dela Cruz, Jess Godes, Jessica Cusi, Jessica Kotfila, Jingni Wu, Joaquin Gris Roca, John Chi, Jongbong Lee, Juliet May, Jungyoon Koh, Katarina Starcevic, Katelyn Carroll, Katelyn MacDougald, Katherine Vadella, Khalid Alharbi, Kristen Cook, Lara Bryfonski, Lauren Levine, Leah Northington, Lindley Winchester, Linxi Zhang, Lucia Donatelli, Luke Gessler, Mackenzie Gong, Margaret Anne Rowe, Margaret Borowczyk, Maria Laura Zalazar, Maria Stoianova, Mariko Uno, Mary Henderson, Maya Barzilai, Md. Jahurul Islam, Michael Kranzlein, Michaela Harrington, Mingyeong Choi, Minnie Annan, Mitchell Abrams, Mohammad Ali Yektaie, Naomee-Minh Nguyen, Negar Siyari, Nicholas Mararac, Nicholas Workman, Nicole Steinberg, Nitin Venkateswaran, Parker DiPaolo, Phoebe Fisher, Rachel Kerr, Rachel Thorson, Rebecca Childress, Rebecca Farkas, Riley Breslin Amalfitano, Rima Elabdali, Robert Maloney, Ruizhong Li, Ryan Mannion, Ryan Murphy, Sakol Suethanapornkul, Sarah Bellavance, Sarah Carlson, Sasha Slone, Saurav Goswami, Sean Macavaney, Sean Simpson, Seyma Toker, Shane Quinn, Shannon Mooney, Shelby Lake, Shira Wein, Sichang Tu, Siddharth Singh, Siona Ely, Siyao Peng, Siyu Liang, Stephanie Kramer, Sylvia Sierra, Talal Alharbi, Tatsuya Aoyama, Tess Feyen, Timothy Ingrassia, Trevor Adriaanse, Ulie Xu, Wai Ching Leung, Wenxi Yang, Wesley Scivetti, Xiaopei Wu, Xiulin Yang, Yang Liu, Yi-Ju Lin, Yifu Mu, Yilun Zhu, Yingzhu Chen, Yiran Xu, Young-A Son, Yu-Tzu Chang, Yuhang Hu, Yunjung Ku, Yushi Zhao, Zhijie Song, Zhuosi Luo, Zhuxin Wang, Amir Zeldes
+Abhishek Purushothama, Adrienne Isaac, Akitaka Yamada, Alex Giorgioni, Alexandra Berends, Alexandra Slome, Amani Aloufi, Amber Hall, Amelia Becker, Anastasia Kelly, Andrea Price, Andrew O'Brien, Ángeles Ortega Luque, Anika Lippke, Aniya Harris, Anna Prince, Anna Runova, Anne Butler, Arianna Janoff, Aryaman Arora, Aurora Smedvig, Ayşenur Sağdiç, Ayan Mandal, Bennett Gilhuly, Bertille Baron, Bielasan Zaina, Bradford Salen, Brandon Tullock, Brent Laing, Caitlyn Pineault, Calvin Engstrom, Candice Penelton, Carlotta Hübener, Caroline Gish, Charlie Dees, Chenyue Guo, Chloe Evered, Cindy Luo, Colleen Diamond, Connor O'Dwyer, Cristina Lopez, Cynthia Li, Dan DeGenaro, Dan Simonson, Derek Reagan, Devika Tiwari, Diana Robson, Didem Ikizoglu, Edwin Ko, Eliza Rice, Emile Zahr, Emily Pace, Emma Manning, Emma Rafkin, Emma Thronson, Ethan Beaman, Felipe De Jesus, Garrison Smith, Han Bu, Hana Altalhi, Hang Jiang, Hannah Wingett, Hanwool Choe, Hassan Munshi, Helen Dominic, Ho Fai Cheng, Hortensia Gutierrez, Hyun Min, Jakob Prange, James Maguire, Janine Karo, Jehan al-Mahmoud, Jemm Excelle Dela Cruz, Jess Godes, Jessica Cusi, Jessica Kotfila, Jingni Wu, Joaquin Gris Roca, John Chi, Jongbong Lee, Juliet May, Jungyoon Koh, Kat Scarborough, Katarina Starcevic, Katelyn Carroll, Katelyn MacDougald, Katherine Conhaim, Katherine Vadella, Khalid Alharbi, Kohei Kajikawa, Kristen Cook, Kushaan Vardhan, Lanni Bu, Lara Bryfonski, Lauren Levine, Leah Northington, Lillian Ehrhart, Lin Ai, Lindley Winchester, Linxi Zhang, Lucia Donatelli, Luke Gessler, Mackenzie Gong, Margaret Anne Rowe, Margaret Borowczyk, Maria Laura Zalazar, Maria Stoianova, Mariko Uno, Mary Henderson, Maya Barzilai, Md. Jahurul Islam, Micaela Wells, Michael Kranzlein, Michaela Harrington, Mikayla Campbell, Mingyeong Choi, Minnie Annan, Mitchell Abrams, Mohammad Ali Yektaie, Naomee-Minh Nguyen, Negar Siyari, Nicholas Mararac, Nicholas Workman, Nicole Steinberg, Nitin Venkateswaran, Nola Goodwin, Parker DiPaolo, Phoebe Fisher, Rachel Kerr, Rachel Thorson, Rebecca Childress, Rebecca Farkas, Riley Breslin Amalfitano, Rima Elabdali, Robert Maloney, Ruizhong Li, Ryan Mannion, Ryan Murphy, Sakol Suethanapornkul, Sarah Bellavance, Sarah Carlson, Sasha Slone, Saurav Goswami, Sean Macavaney, Sean Simpson, Seyma Toker, Shane Quinn, Shannon Mooney, Shelby Lake, Shira Wein, Sichang Tu, Siddharth Singh, Siona Ely, Siyao Peng, Siyu Liang, Stephanie Kramer, Sylvia Sierra, Talal Alharbi, Tatsuya Aoyama, Tess Feyen, Timothy Ingrassia, Trevor Adriaanse, Ulie Xu, Wai Ching Leung, Wenxi Yang, Wesley Scivetti, Xiaopei Wu, Xiulin Yang, Yang Liu, Yi-Ju Lin, Yifu Mu, Yilun Zhu, Yingzhu Chen, Yiran Xu, Young-A Son, Yu-Tzu Chang, Yuhang Hu, Yunjung Ku, Yushi Zhao, Zhijie Song, Zhuosi Luo, Zhuxin Wang, Amir Zeldes
 
 ... and other annotators who wish to remain anonymous!
 
@@ -66,7 +66,7 @@ The best paper to cite depends on the data you are using. To cite the corpus in 
 
 Zeldes, Amir (2017) "The GUM Corpus: Creating Multilayer Resources in the Classroom". Language Resources and Evaluation 51(3), 581–612.
 
-```
+```bibtex
 @Article{Zeldes2017,
 author = {Amir Zeldes},
 title = {The {GUM} Corpus: Creating Multilayer Resources in the Classroom},
@@ -83,7 +83,7 @@ If you are using the **Reddit** subset of GUM in particular, please use this cit
 
 * Behzad, Shabnam and Zeldes, Amir (2020) "A Cross-Genre Ensemble Approach to Robust Reddit Part of Speech Tagging". In: Proceedings of the 12th Web as Corpus Workshop (WAC-XII).
 
-```
+```bibtex
 @InProceedings{BehzadZeldes2020,
 author = {Shabnam Behzad and Amir Zeldes},
 title = {A Cross-Genre Ensemble Approach to Robust {R}eddit Part of Speech Tagging},
@@ -93,17 +93,26 @@ year = {2020},
 }
 ```
 
-For papers focusing on the discourse relations, discourse markers or other discourse signal annotations, please cite [the eRST paper](https://arxiv.org/abs/2403.13560):
+For papers focusing on the discourse relations, discourse markers or other discourse signal annotations, please cite [the eRST paper](https://aclanthology.org/2025.cl-1.3/):
 
-```
-@misc{ZeldesEtAl2024,
-title={% raw %}{{{% endraw %}eRST}: A Signaled Graph Theory of Discourse Relations and Organization},
-author={Amir Zeldes and Tatsuya Aoyama and Yang Janet Liu and Siyao Peng and Debopam Das and Luke Gessler},
-year={2024},
-eprint={2403.13560},
-archivePrefix={arXiv},
-primaryClass={cs.CL},
-url={https://arxiv.org/abs/2403.13560}
+```bibtex
+@article{zeldes-etal-2025-erst,
+title = "e{RST}: A Signaled Graph Theory of Discourse Relations and Organization",
+author = "Zeldes, Amir and
+Aoyama, Tatsuya and
+Liu, Yang Janet and
+Peng, Siyao and
+Das, Debopam and
+Gessler, Luke",
+journal = "Computational Linguistics",
+volume = "51",
+number = "1",
+year = "2025",
+address = "Cambridge, MA",
+publisher = "MIT Press",
+url = "https://aclanthology.org/2025.cl-1.3/",
+doi = "10.1162/coli_a_00538",
+pages = "23--72"
 }
 ```
 
@@ -112,21 +121,34 @@ For papers using GDTB/PDTB style shallow discourse relations, please cite:
 * Yang Janet Liu, Tatsuya Aoyama, Wesley Scivetti, Yilun Zhu, Shabnam Behzad, Lauren Elizabeth Levine, Jessica Lin, Devika Tiwari, and Amir Zeldes (2024), "GDTB: Genre Diverse Data for English Shallow Discourse Parsing across Modalities, Text Types, and Domains". In: Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing. Association for Computational Linguistics: Miami, USA.
 
 ```bibtex
-@inproceedings{liu-etal-2024-GDTB,
-title = "GDTB: Genre Diverse Data for English Shallow Discourse Parsing across Modalities, Text Types, and Domains",
-author = "Yang Janet Liu and Tatsuya Aoyama and Wesley Scivetti and Yilun Zhu and Shabnam Behzad and Lauren Elizabeth Levine and Jessica Lin and Devika Tiwari and Amir Zeldes",
+@inproceedings{liu-etal-2024-gdtb,
+title = "{GDTB}: Genre Diverse Data for {E}nglish Shallow Discourse Parsing across Modalities, Text Types, and Domains",
+author = "Liu, Yang Janet and
+Aoyama, Tatsuya and
+Scivetti, Wesley and
+Zhu, Yilun and
+Behzad, Shabnam and
+Levine, Lauren Elizabeth and
+Lin, Jessica and
+Tiwari, Devika and
+Zeldes, Amir",
+editor = "Al-Onaizan, Yaser and
+Bansal, Mohit and
+Chen, Yun-Nung",
 booktitle = "Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing",
 month = nov,
 year = "2024",
-address = "Miami, USA",
+address = "Miami, Florida, USA",
 publisher = "Association for Computational Linguistics",
-abstract = "Work on shallow discourse parsing in English has focused on the Wall Street Journal corpus, the only large-scale dataset for the language in the PDTB framework. However, the data is not openly available, is restricted to the news domain, and is by now 35 years old. In this paper, we present and evaluate a new open-access, multi-genre benchmark for PDTB-style shallow discourse parsing, based on the existing UD English GUM corpus, for which discourse relation annotations in other frameworks already exist. In a series of experiments on cross-domain relation classification, we show that while our dataset is compatible with PDTB, substantial out-of-domain degradation is observed, which can be alleviated by joint training on both datasets.",
+url = "https://aclanthology.org/2024.emnlp-main.684/",
+doi = "10.18653/v1/2024.emnlp-main.684",
+pages = "12287--12303"
 }
 ```
 
 If you are using the OntoNotes schema version of the coreference annotations (a.k.a. OntoGUM data in `coref/ontogum/`), please cite this paper instead:
 
-```
+```bibtex
 @InProceedings{ZhuEtAl2021,
 author = {Yilun Zhu and Sameer Pradhan and Amir Zeldes},
 booktitle = {Proceedings of ACL-IJCNLP 2021},
@@ -138,7 +160,7 @@ address = {Bangkok, Thailand}
 
 For papers focusing on named entities or entity linking (Wikification), please cite this paper instead:
 
-```
+```bibtex
 @inproceedings{lin-zeldes-2021-wikigum,
 title = {% raw %}{{{% endraw %}W}iki{GUM}: Exhaustive Entity Linking for Wikification in 12 Genres},
 author = {Jessica Lin and Amir Zeldes},
@@ -150,6 +172,37 @@ url = {https://aclanthology.org/2021.law-1.18},
 pages = {170--175},
 }
 ```
+For papers focusing on the salience annotations, please cite this paper instead:
+
+```bibtex
+@inproceedings{lin-zeldes-2024-gumsley,
+title = "{GUM}sley: Evaluating Entity Salience in Summarization for 12 {E}nglish Genres",
+author = "Lin, Jessica and
+Zeldes, Amir",
+editor = "Graham, Yvette and
+Purver, Matthew",
+booktitle = "Proceedings of the 18th Conference of the European Chapter of the Association for Computational Linguistics (Volume 1: Long Papers)",
+year = "2024",
+address = "St. Julian{'}s, Malta",
+publisher = "Association for Computational Linguistics",
+url = "https://aclanthology.org/2024.eacl-long.158/",
+pages = "2575--2588"
+}
+```
+
+For papers focusing on bridging anaphora, please cite this paper instead:
+
+```bibtex
+@inproceedings{levine-zeldes-2026-gumbridge,
+title = "{GUMBridge}: a Corpus for Varieties of Bridging Anaphora",
+author = "Levine, Lauren and
+Zeldes, Amir",
+booktitle = "Proceedings of LREC 2026",
+year = "2026",
+address = "Mallorca",
+}
+```
+
 
 
 # Statistics of UD English GUM
@@ -164,17 +217,17 @@ pages = {170--175},
 
 ## Relations
 
-[acl](en_gum-dep-acl.html) – [acl:relcl](en_gum-dep-acl-relcl.html) – [advcl](en_gum-dep-advcl.html) – [advcl:relcl](en_gum-dep-advcl-relcl.html) – [advmod](en_gum-dep-advmod.html) – [amod](en_gum-dep-amod.html) – [appos](en_gum-dep-appos.html) – [aux](en_gum-dep-aux.html) – [aux:pass](en_gum-dep-aux-pass.html) – [case](en_gum-dep-case.html) – [cc](en_gum-dep-cc.html) – [cc:preconj](en_gum-dep-cc-preconj.html) – [ccomp](en_gum-dep-ccomp.html) – [compound](en_gum-dep-compound.html) – [compound:prt](en_gum-dep-compound-prt.html) – [conj](en_gum-dep-conj.html) – [cop](en_gum-dep-cop.html) – [csubj](en_gum-dep-csubj.html) – [csubj:outer](en_gum-dep-csubj-outer.html) – [csubj:pass](en_gum-dep-csubj-pass.html) – [dep](en_gum-dep-dep.html) – [det](en_gum-dep-det.html) – [det:predet](en_gum-dep-det-predet.html) – [discourse](en_gum-dep-discourse.html) – [dislocated](en_gum-dep-dislocated.html) – [expl](en_gum-dep-expl.html) – [fixed](en_gum-dep-fixed.html) – [flat](en_gum-dep-flat.html) – [goeswith](en_gum-dep-goeswith.html) – [iobj](en_gum-dep-iobj.html) – [list](en_gum-dep-list.html) – [mark](en_gum-dep-mark.html) – [nmod](en_gum-dep-nmod.html) – [nmod:poss](en_gum-dep-nmod-poss.html) – [nmod:unmarked](en_gum-dep-nmod-unmarked.html) – [nsubj](en_gum-dep-nsubj.html) – [nsubj:outer](en_gum-dep-nsubj-outer.html) – [nsubj:pass](en_gum-dep-nsubj-pass.html) – [nummod](en_gum-dep-nummod.html) – [obj](en_gum-dep-obj.html) – [obl](en_gum-dep-obl.html) – [obl:agent](en_gum-dep-obl-agent.html) – [obl:unmarked](en_gum-dep-obl-unmarked.html) – [orphan](en_gum-dep-orphan.html) – [parataxis](en_gum-dep-parataxis.html) – [punct](en_gum-dep-punct.html) – [reparandum](en_gum-dep-reparandum.html) – [root](en_gum-dep-root.html) – [vocative](en_gum-dep-vocative.html) – [xcomp](en_gum-dep-xcomp.html)
+[acl](en_gum-dep-acl.html) – [acl:relcl](en_gum-dep-acl-relcl.html) – [advcl](en_gum-dep-advcl.html) – [advcl:relcl](en_gum-dep-advcl-relcl.html) – [advmod](en_gum-dep-advmod.html) – [amod](en_gum-dep-amod.html) – [appos](en_gum-dep-appos.html) – [aux](en_gum-dep-aux.html) – [aux:pass](en_gum-dep-aux-pass.html) – [case](en_gum-dep-case.html) – [cc](en_gum-dep-cc.html) – [cc:preconj](en_gum-dep-cc-preconj.html) – [ccomp](en_gum-dep-ccomp.html) – [compound](en_gum-dep-compound.html) – [compound:prt](en_gum-dep-compound-prt.html) – [conj](en_gum-dep-conj.html) – [cop](en_gum-dep-cop.html) – [csubj](en_gum-dep-csubj.html) – [csubj:outer](en_gum-dep-csubj-outer.html) – [csubj:pass](en_gum-dep-csubj-pass.html) – [dep](en_gum-dep-dep.html) – [det](en_gum-dep-det.html) – [det:predet](en_gum-dep-det-predet.html) – [discourse](en_gum-dep-discourse.html) – [dislocated](en_gum-dep-dislocated.html) – [expl](en_gum-dep-expl.html) – [fixed](en_gum-dep-fixed.html) – [flat](en_gum-dep-flat.html) – [goeswith](en_gum-dep-goeswith.html) – [iobj](en_gum-dep-iobj.html) – [list](en_gum-dep-list.html) – [mark](en_gum-dep-mark.html) – [nmod](en_gum-dep-nmod.html) – [nmod:desc](en_gum-dep-nmod-desc.html) – [nmod:poss](en_gum-dep-nmod-poss.html) – [nmod:unmarked](en_gum-dep-nmod-unmarked.html) – [nsubj](en_gum-dep-nsubj.html) – [nsubj:outer](en_gum-dep-nsubj-outer.html) – [nsubj:pass](en_gum-dep-nsubj-pass.html) – [nummod](en_gum-dep-nummod.html) – [obj](en_gum-dep-obj.html) – [obl](en_gum-dep-obl.html) – [obl:agent](en_gum-dep-obl-agent.html) – [obl:unmarked](en_gum-dep-obl-unmarked.html) – [orphan](en_gum-dep-orphan.html) – [parataxis](en_gum-dep-parataxis.html) – [punct](en_gum-dep-punct.html) – [reparandum](en_gum-dep-reparandum.html) – [root](en_gum-dep-root.html) – [vocative](en_gum-dep-vocative.html) – [xcomp](en_gum-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 12146 sentences, 208331 tokens and 211920 syntactic words.</li>
+<li>This corpus contains 14353 sentences, 252284 tokens and 256739 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 29282 tokens (14%) that are not followed by a space.</li>
+<li>This corpus contains 34860 tokens (14%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -182,12 +235,12 @@ pages = {170--175},
 </ul>
 
 <ul>
-<li>This corpus contains 434 types of words that contain both letters and punctuation. Examples: 's, n't, ’s, 're, 'm, n’t, 've, 'll, 'd, ’re, ’m, U.S., ’ve, Mr., ’d, e.g., ’ll, L'Enfant, th-, al., w-, St., etc., c., d-, n-, non-avian, i.e., Dr., Mof-Ávvi, a.m., f-, pro-Beijing, s-, D.C., Mrs., b., d., Naqsh-e, cross-sectional, t-, L., W., a-, l-, m., ninety-nine, y-, A., J.</li>
+<li>This corpus contains 531 types of words that contain both letters and punctuation. Examples: 's, n't, ’s, 're, 'm, n’t, 've, 'll, 'd, U.S., ’re, Mr., ’m, ’ve, ’ll, ’d, W., e.g., etc., th-, T., L'Enfant, al., St., A., Mrs., w-, Dr., n-, c., d-, d., f-, i.e., m., non-avian, s-, D.C., a.m., Mof-Ávvi, b., pro-Beijing, p., t-, Naqsh-e, cross-sectional, #logos, #sharedvalues, #systemanalysis, J.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 3589 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
-<li>There are 564 types of multi-word tokens. Examples: it's, don't, I'm, that's, you're, gonna, it’s, they're, didn't, there's, I've, we're, can't, don’t, he's, let's, I'll, I’m, doesn't, cannot, she's, that’s, what's, isn't, you'll, I'd, wasn't, won't, you'd, you’re, city's, didn’t, we've, we’re, you've, haven't, who's, couldn't, she’s, wanna, Warhol's, world's, can’t, wouldn't, you’ve, aren't, let’s, we'll, he’s, shouldn't.</li>
+<li>This corpus contains 4455 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+<li>There are 645 types of multi-word tokens. Examples: it's, don't, I'm, that's, you're, gonna, it’s, there's, didn't, they're, I've, we're, can't, don’t, I'll, he's, let's, doesn't, I’m, that’s, cannot, you’re, I'd, what's, isn't, wasn't, you'll, she's, you've, won't, didn’t, we’re, can’t, haven't, we've, we'll, you'd, city's, couldn't, who's, let’s, wanna, she’s, world's, wouldn't, Warhol's, aren't, they'll, he’s, shouldn't.</li>
 </ul>
 
 <h2>Morphology</h2>
@@ -203,7 +256,7 @@ pages = {170--175},
 </ul>
 
 <ul>
-<li>This corpus contains 47 lemmas tagged as pronouns (PRON): I, anybody, anyone, anything, everybody, everyone, everything, he, her, herself, himself, his, it, its, itself, my, myself, nobody, nothing, one, oneself, our, ourselves, s/he, self, she, somebody, someone, something, that, their, themselves, there, they, this, we, what, whatever, which, who, whoever, whose, whosoever, ye, you, your, yourself</li>
+<li>This corpus contains 47 lemmas tagged as pronouns (PRON): I, anybody, anyone, anything, everybody, everyone, everything, he, her, herself, himself, his, it, its, itself, my, myself, nobody, nothing, one, oneself, our, ourselves, s/he, she, somebody, someone, something, that, their, themselves, there, they, this, we, what, whatever, which, who, whoever, whose, whosoever, ye, you, your, yourself, yourselves</li>
 </ul>
 
 <ul>
@@ -215,11 +268,11 @@ pages = {170--175},
 </ul>
 
 <ul>
-<li>This corpus contains 14 lemmas tagged as auxiliaries (AUX): be, can, could, do, get, have, may, might, must, ought, shall, should, will, would</li>
+<li>This corpus contains 15 lemmas tagged as auxiliaries (AUX): be, can, could, do, get, have, may, might, must, need, ought, shall, should, will, would</li>
 </ul>
 
 <ul>
-<li>Out of the above, 5 lemmas occurred sometimes as AUX and sometimes as VERB: be, do, get, have, will</li>
+<li>Out of the above, 7 lemmas occurred sometimes as AUX and sometimes as VERB: be, do, get, have, need, ought, will</li>
 </ul>
 
 <ul>
@@ -229,8 +282,8 @@ pages = {170--175},
 <ul>
   <li>Fin
   <ul>
-    <li>AUX: is, was, can, are, will, 's, would, do, should, could</li>
-    <li>VERB: have, know, said, think, had, has, are, want, let, get</li>
+    <li>AUX: is, was, can, are, will, would, 's, do, could, should</li>
+    <li>VERB: have, know, think, said, had, has, want, are, is, 's</li>
   </ul>
   </li>
 </ul>
@@ -239,7 +292,7 @@ pages = {170--175},
   <li>Ger
   <ul>
     <li>AUX: being</li>
-    <li>VERB: following, using, doing, growing, going, working, making, coming, living, getting</li>
+    <li>VERB: going, following, using, doing, working, growing, coming, making, living, opening</li>
   </ul>
   </li>
 </ul>
@@ -248,7 +301,7 @@ pages = {170--175},
   <li>Inf
   <ul>
     <li>AUX: be, have, do, get, 've, a</li>
-    <li>VERB: have, do, make, get, know, go, see, take, say, find</li>
+    <li>VERB: have, do, make, get, go, know, see, take, say, find</li>
   </ul>
   </li>
 </ul>
@@ -256,8 +309,8 @@ pages = {170--175},
 <ul>
   <li>Part
   <ul>
-    <li>AUX: been, being, having, done, doing, getting, had</li>
-    <li>VERB: united, gon, going, called, doing, used, known, made, based, using</li>
+    <li>AUX: been, being, having, getting, doing, 'd, had</li>
+    <li>VERB: going, united, gon, called, doing, made, based, used, got, known</li>
   </ul>
   </li>
 </ul>
@@ -311,10 +364,10 @@ pages = {170--175},
     <ul>
       <li>AUX-Fin: are, were, have, 're, do, did, had, 've, ’re, was</li>
       <li>DET: these, those</li>
-      <li>NOUN: people, years, things, days, guys, data, minutes, others, studies, children</li>
-      <li>PRON: we, they, our, their, them, us, you, those, these, 's</li>
-      <li>PROPN: States, Americans, Nations, skittles, Chathams, Pirates, Mets, Sox, Democrats, Olmec</li>
-      <li>VERB-Fin: have, are, had, know, need, want, make, do, go, got</li>
+      <li>NOUN: people, years, things, days, guys, minutes, others, ways, words, months</li>
+      <li>PRON: we, they, our, their, them, you, us, those, these, 's</li>
+      <li>PROPN: States, Americans, Nations, skittles, Polaroids, Chathams, Pirates, Mets, Sox, Democrats</li>
+      <li>VERB-Fin: have, are, had, know, want, need, got, make, do, go</li>
     </ul>
   </li>
 </ul>
@@ -322,8 +375,8 @@ pages = {170--175},
 <ul>
   <li>Ptan
     <ul>
-      <li>NOUN: clothes, species, thanks, pants, glasses, means, newspapers, 1960s, politics, jeans</li>
-      <li>PROPN: Netherlands, Olympics, Commons, Paralympics, Philippines, Vans, Analytics, Andes, Forties, Maldives</li>
+      <li>NOUN: clothes, thanks, pants, means, glasses, 1960s, politics, 1970s, jeans, surroundings</li>
+      <li>PROPN: Olympics, Netherlands, Paralympics, Philippines, Vans, Analytics, Forties, Maldives, McMunchies</li>
     </ul>
   </li>
 </ul>
@@ -334,12 +387,13 @@ pages = {170--175},
       <li>AUX: is, was, 's, has, do, 'm, did, ’s, had, does</li>
       <li>AUX-Fin: is, was, 's, has, do, 'm, did, ’s, had, does</li>
       <li>DET: this, that, half</li>
-      <li>NOUN: time, day, way, life, world, year, city, today, work, example</li>
-      <li>NUM: half, Seven, Three</li>
-      <li>PRON: i, it, you, he, that, his, your, my, this, she</li>
-      <li>PROPN: University, President, York, New, America, Warhol, figure, south, Scientology, north</li>
+      <li>NOUN: time, way, day, year, world, life, today, city, work, lot</li>
+      <li>NUM: half</li>
+      <li>PRON: i, it, you, he, that, your, his, my, this, she</li>
+      <li>PROPN: University, President, America, York, New, south, north, State, Warhol, figure</li>
       <li>SYM: %</li>
-      <li>VERB-Fin: know, said, think, has, have, had, is, 's, mean, want</li>
+      <li>VERB: know, said, think, have, has, had, is, 's, let, mean</li>
+      <li>VERB-Fin: know, said, think, have, has, had, is, 's, let, mean</li>
     </ul>
   </li>
 </ul>
@@ -351,7 +405,7 @@ pages = {170--175},
 <ul>
   <li>Acc
     <ul>
-      <li>PRON: it, you, me, them, us, him, her, 's, himself, yourself</li>
+      <li>PRON: it, you, me, them, us, him, her, 's, itself, yourself</li>
     </ul>
   </li>
 </ul>
@@ -359,7 +413,7 @@ pages = {170--175},
 <ul>
   <li>Gen
     <ul>
-      <li>PRON: his, your, my, our, their, its, her, it's, he, it</li>
+      <li>PRON: your, his, my, our, their, its, her, it's, he, it</li>
     </ul>
   </li>
 </ul>
@@ -367,7 +421,7 @@ pages = {170--175},
 <ul>
   <li>Nom
     <ul>
-      <li>PRON: i, you, it, we, he, they, she, me, him, s/he</li>
+      <li>PRON: i, you, it, we, they, he, she, him, me, them</li>
     </ul>
   </li>
 </ul>
@@ -403,8 +457,8 @@ pages = {170--175},
 <ul>
   <li>Cmp
     <ul>
-      <li>ADJ: more, better, greater, larger, further, higher, lower, older, smaller, younger</li>
-      <li>ADV: more, later, less, longer, earlier, better, further, sooner, slower, closer</li>
+      <li>ADJ: more, better, greater, larger, further, higher, lower, easier, older, smaller</li>
+      <li>ADV: more, later, less, longer, better, earlier, further, sooner, closer, faster</li>
     </ul>
   </li>
 </ul>
@@ -412,8 +466,8 @@ pages = {170--175},
 <ul>
   <li>Pos
     <ul>
-      <li>ADJ: other, new, many, good, little, different, first, same, last, own</li>
-      <li>ADV: really, well, back, still, again, too, away, much, probably, actually</li>
+      <li>ADJ: other, new, many, good, little, same, first, different, last, own</li>
+      <li>ADV: really, well, back, still, again, too, much, actually, probably, away</li>
     </ul>
   </li>
 </ul>
@@ -421,7 +475,7 @@ pages = {170--175},
 <ul>
   <li>Sup
     <ul>
-      <li>ADJ: most, best, least, largest, greatest, worst, highest, biggest, latest, smallest</li>
+      <li>ADJ: most, best, least, largest, worst, greatest, highest, latest, biggest, smallest</li>
       <li>ADV: most, best, least, longest, fastest, foremost</li>
     </ul>
   </li>
@@ -436,7 +490,7 @@ pages = {170--175},
     <ul>
       <li>ADV: no</li>
       <li>CCONJ: nor, neither</li>
-      <li>INTJ: no</li>
+      <li>INTJ: no, naw</li>
       <li>PART: not, n't, n’t, n`t</li>
     </ul>
   </li>
@@ -462,8 +516,8 @@ pages = {170--175},
 <ul>
   <li>Imp
     <ul>
-      <li>AUX-Fin: be, Do</li>
-      <li>VERB-Fin: let, look, see, get, make, use, try, add, take, place</li>
+      <li>AUX-Fin: be, do</li>
+      <li>VERB-Fin: let, look, see, make, get, try, use, add, place, take</li>
     </ul>
   </li>
 </ul>
@@ -472,7 +526,7 @@ pages = {170--175},
   <li>Ind
     <ul>
       <li>AUX-Fin: is, was, are, 's, do, were, have, has, 're, 'm</li>
-      <li>VERB-Fin: have, know, said, think, had, has, are, want, is, 's</li>
+      <li>VERB-Fin: have, know, said, think, had, has, want, are, is, 's</li>
     </ul>
   </li>
 </ul>
@@ -481,7 +535,7 @@ pages = {170--175},
   <li>Sub
     <ul>
       <li>AUX-Fin: were, be</li>
-      <li>VERB-Fin: become, collaborate, face, look, rise, rule, wear, were</li>
+      <li>VERB-Fin: become, clean, collaborate, face, look, make, remain, rise, rule, wear</li>
     </ul>
   </li>
 </ul>
@@ -494,9 +548,9 @@ pages = {170--175},
   <li>Past
     <ul>
       <li>AUX-Fin: was, were, did, had, 'd, ’d, got, where</li>
-      <li>AUX-Part: been, done, had</li>
-      <li>VERB-Fin: said, had, got, came, made, took, went, was, wanted, thought</li>
-      <li>VERB-Part: united, called, used, known, made, based, done, given, got, seen</li>
+      <li>AUX-Part: been, 'd, had</li>
+      <li>VERB-Fin: said, had, got, made, went, came, was, took, wanted, did</li>
+      <li>VERB-Part: united, called, made, based, used, got, known, done, given, seen</li>
     </ul>
   </li>
 </ul>
@@ -504,10 +558,10 @@ pages = {170--175},
 <ul>
   <li>Pres
     <ul>
-      <li>AUX-Fin: is, are, 's, do, have, has, 're, 'm, ’s, 've</li>
-      <li>AUX-Part: being, having, doing, getting</li>
-      <li>VERB-Fin: have, know, think, has, are, want, is, 's, mean, need</li>
-      <li>VERB-Part: gon, going, doing, using, trying, including, getting, making, looking, taking</li>
+      <li>AUX-Fin: is, are, 's, do, have, has, 're, 'm, ’s, does</li>
+      <li>AUX-Part: being, having, getting, doing</li>
+      <li>VERB-Fin: have, know, think, has, want, are, is, 's, mean, says</li>
+      <li>VERB-Part: going, gon, doing, trying, using, including, making, getting, looking, according</li>
     </ul>
   </li>
 </ul>
@@ -519,7 +573,7 @@ pages = {170--175},
 <ul>
   <li>Pass
     <ul>
-      <li>VERB-Part: called, known, based, used, made, given, born, found, done, taken</li>
+      <li>VERB-Part: called, based, used, known, made, given, done, born, found, taken</li>
     </ul>
   </li>
 </ul>
@@ -544,7 +598,7 @@ pages = {170--175},
   <li>Dem
     <ul>
       <li>ADV: then, here, there</li>
-      <li>DET: this, that, these, those, such, yonder</li>
+      <li>DET: this, that, these, those, yonder</li>
       <li>PRON: there, that, this, those, these</li>
     </ul>
   </li>
@@ -561,7 +615,7 @@ pages = {170--175},
 <ul>
   <li>Ind
     <ul>
-      <li>DET: some, all, any, every, another, each, both, half, such, Mat</li>
+      <li>DET: some, all, any, every, another, each, such, both, either, quite</li>
       <li>PRON: something, anything, someone, anyone, somebody, anybody</li>
     </ul>
   </li>
@@ -570,9 +624,9 @@ pages = {170--175},
 <ul>
   <li>Int
     <ul>
-      <li>ADV: when, how, why, where, whither, whenever</li>
-      <li>DET: which, what, whatever</li>
-      <li>PRON: what, who, which, whatever, Whoever, whose</li>
+      <li>ADV: when, how, where, why, whither, whenever, whereupon</li>
+      <li>DET: which, what</li>
+      <li>PRON: what, who, which, Whoever, whose</li>
     </ul>
   </li>
 </ul>
@@ -589,7 +643,7 @@ pages = {170--175},
 <ul>
   <li>Prs
     <ul>
-      <li>PRON: i, it, you, we, he, they, his, your, my, she</li>
+      <li>PRON: i, it, you, we, they, he, your, his, my, our</li>
     </ul>
   </li>
 </ul>
@@ -606,9 +660,9 @@ pages = {170--175},
 <ul>
   <li>Rel
     <ul>
-      <li>ADV: where, how, why, when, whenever, wherever, however</li>
-      <li>DET: what, whatever</li>
-      <li>PRON: that, which, who, what, whatever, whom, whose, Whosoever, whoever, wish</li>
+      <li>ADV: where, how, why, when, whenever, wherever, however, whereby</li>
+      <li>DET: what</li>
+      <li>PRON: that, which, what, who, whatever, whom, whose, whoever, Whosoever, wish</li>
     </ul>
   </li>
 </ul>
@@ -617,7 +671,7 @@ pages = {170--175},
   <li>Tot
     <ul>
       <li>DET: all, both, each, every</li>
-      <li>PRON: everything, everyone, everybody</li>
+      <li>PRON: everything, everyone, everybody, ev</li>
     </ul>
   </li>
 </ul>
@@ -629,8 +683,8 @@ pages = {170--175},
 <ul>
   <li>Card
     <ul>
-      <li>NOUN: 1960s, 1970s, 1950s, 1980s, 1990s, 1830s, 1920s, 1930s, 1940s, 2000s</li>
-      <li>NUM: one, two, 1, three, 2, 3, four, 4, five, 10</li>
+      <li>NOUN: 1960s, 1970s, 1980s, 1990s, 1830s, 1950s, 1920s, 1930s, 1940s, 2000s</li>
+      <li>NUM: one, two, 1, three, 2, 3, five, four, 4, 10</li>
       <li>PROPN: EIGHT, One</li>
     </ul>
   </li>
@@ -641,8 +695,8 @@ pages = {170--175},
     <ul>
       <li>ADV: half</li>
       <li>DET: half</li>
-      <li>NOUN: half, quarter, third, thirds, quarters, fifths, halves, hundredths, millionth, tenth</li>
-      <li>NUM: 7.2, 1.5, 6.8, 2.0, half, 1.3, 1.4, 11.5, 2.3, 4.0</li>
+      <li>NOUN: half, quarter, third, thirds, quarters, fifth, fifths, halves, hundredths, millionth</li>
+      <li>NUM: 2.0, 7.2, 1.5, 6.8, .08, 1.3, 4.0, half, 1.2, 1.4</li>
     </ul>
   </li>
 </ul>
@@ -658,7 +712,7 @@ pages = {170--175},
 <ul>
   <li>Ord
     <ul>
-      <li>ADJ: first, second, third, 19th, fourth, 20th, fifth, 30th, 3rd, 10th</li>
+      <li>ADJ: first, second, third, 19th, 20th, fourth, fifth, 30th, 3rd, 10th</li>
       <li>ADV: first, second, third, 135th, Fifth, Fourth, 15th, sixth</li>
     </ul>
   </li>
@@ -671,7 +725,7 @@ pages = {170--175},
 <ul>
   <li>Yes
     <ul>
-      <li>PRON: his, your, my, our, their, its, her, whose, yours, mine</li>
+      <li>PRON: your, his, my, our, their, its, her, whose, yours, mine</li>
     </ul>
   </li>
 </ul>
@@ -683,7 +737,7 @@ pages = {170--175},
 <ul>
   <li>Yes
     <ul>
-      <li>PRON: himself, yourself, themselves, itself, myself, herself, ourselves</li>
+      <li>PRON: itself, yourself, himself, themselves, myself, herself, ourselves, yourselves</li>
     </ul>
   </li>
 </ul>
@@ -695,9 +749,9 @@ pages = {170--175},
 <ul>
   <li>1
     <ul>
-      <li>AUX-Fin: 'm, do, was, have, 've, am, are, did, 're, ’m</li>
-      <li>PRON: i, we, my, our, me, us, 's, myself, ’s, ourselves</li>
-      <li>VERB-Fin: have, think, know, mean, thank, had, want, got, thought, feel</li>
+      <li>AUX-Fin: 'm, do, was, have, am, 've, are, 're, did, were</li>
+      <li>PRON: i, we, my, our, me, us, 's, myself, ’s, mine</li>
+      <li>VERB-Fin: think, have, mean, know, had, thank, want, got, thought, said</li>
     </ul>
   </li>
 </ul>
@@ -705,10 +759,9 @@ pages = {170--175},
 <ul>
   <li>2
     <ul>
-      <li>AUX-Fin: do, 're, are, did, have, be, ’re, 've, were, ’ve</li>
-      <li>PRON: you, your, yourself, yours, ya, y', ye</li>
-      <li>VERB-Fin: know, let, have, get, see, want, look, make, take, use</li>
-      <li>VERB-Inf: see, let, Describe, do, get, continue, go, use, Discuss, Explain</li>
+      <li>AUX-Fin: 're, do, are, have, did, ’re, 've, be, were, ’ve</li>
+      <li>PRON: you, your, yourself, yours, ye, ya, y', yourselves</li>
+      <li>VERB-Fin: know, let, have, get, want, see, look, make, think, put</li>
     </ul>
   </li>
 </ul>
@@ -716,9 +769,9 @@ pages = {170--175},
 <ul>
   <li>3
     <ul>
-      <li>AUX-Fin: is, was, 's, are, were, has, ’s, had, have, does</li>
-      <li>PRON: it, he, they, his, she, their, her, them, its, him</li>
-      <li>VERB-Fin: said, has, are, have, had, is, 's, says, comes, came</li>
+      <li>AUX-Fin: is, was, 's, are, has, were, have, ’s, had, does</li>
+      <li>PRON: it, they, he, his, their, she, her, them, its, him</li>
+      <li>VERB-Fin: said, has, are, had, have, is, 's, says, made, makes</li>
     </ul>
   </li>
 </ul>
@@ -734,14 +787,14 @@ pages = {170--175},
     <ul>
       <li>Yes
         <ul>
-          <li>ADJ: OK, US, Jr., U.</li>
-          <li>ADP: vs., vs</li>
+          <li>ADJ: OK, Eng., Epis., U., voc.</li>
+          <li>ADP: @, vs., vs</li>
           <li>ADV: e.g., i.e., c., ca., PS, approx.</li>
           <li>INTJ: OK</li>
-          <li>NOUN: etc., TV, a.m., GIS, DNA, p., p.m., No., Ph.D., DAB</li>
-          <li>PROPN: U.S., US, NASA, Mr., NATO, USI, DH, CC, St., Dr.</li>
-          <li>VERB-Part: b., d., div., m.</li>
-          <li>X: al., Mlle., P.S.</li>
+          <li>NOUN: etc., AI, TV, a.m., DNA, GIS, p.m., p., No., Ph.D.</li>
+          <li>PROPN: U.S., US, Mr., NASA, NATO, W., CC, T., USI, UK</li>
+          <li>VERB-Part: b., d., div., m., Wed, encl</li>
+          <li>X: al., P.S., Mlle., Ave</li>
         </ul>
       </li>
     </ul>
@@ -753,16 +806,18 @@ pages = {170--175},
     <ul>
       <li>ADP
         <ul>
-          <li>ADJ: such</li>
-          <li>ADV: prior</li>
-          <li>VERB-Part: according</li>
+          <li>ADJ: such, due</li>
+          <li>ADP: out, because, as, off, up, On</li>
+          <li>ADV: instead, prior, as, out, next</li>
+          <li>SYM: –, -, /, :</li>
+          <li>VERB-Part: according, depending</li>
         </ul>
       </li>
       <li>ADV
         <ul>
-          <li>ADJ: more, less, fewer</li>
-          <li>ADP: of, at, up, in</li>
-          <li>ADV: as, more, less, instead, just, close</li>
+          <li>ADJ: more, less, close, fewer</li>
+          <li>ADP: of, up, in, As</li>
+          <li>ADV: as, more, less, just, close</li>
           <li>DET: all</li>
           <li>NOUN: kind, sort</li>
           <li>PRON: that</li>
@@ -770,17 +825,36 @@ pages = {170--175},
       </li>
       <li>CCONJ
         <ul>
-          <li>ADV: as</li>
+          <li>ADV: as, rather</li>
+          <li>VERB-Fin: let</li>
+          <li>VERB-Inf: let</li>
+        </ul>
+      </li>
+      <li>NOUN
+        <ul>
+          <li>ADJ: such</li>
         </ul>
       </li>
       <li>PRON
         <ul>
           <li>DET: each</li>
+          <li>PRON: one</li>
+        </ul>
+      </li>
+      <li>PROPN
+        <ul>
+          <li>ADJ: Happy, Simple</li>
+          <li>VERB-Fin: Walk, Walks</li>
+          <li>VERB-Inf: Write</li>
+          <li>VERB-Part: United, Wed</li>
         </ul>
       </li>
       <li>SCONJ
         <ul>
           <li>ADJ: such</li>
+          <li>ADP: in</li>
+          <li>ADV: instead, rather, As, prior</li>
+          <li>SCONJ: so, as, in</li>
         </ul>
       </li>
     </ul>
@@ -796,11 +870,12 @@ pages = {170--175},
           <li>ADP: x</li>
           <li>ADV: Ne, pas</li>
           <li>DET: Une</li>
-          <li>NOUN: Comédie</li>
-          <li>PROPN: de, Cérebro, Escola, do, et, Catarin, Federal, Jim, Jules, La</li>
+          <li>INTJ: sh-</li>
+          <li>NUM: 62</li>
+          <li>PROPN: Shobhajatra, Mangal, de, Cérebro, Escola, do, et, Catarin, Conservatoire, Federal</li>
           <li>PUNCT: !, ,, -, ?, “, ”</li>
           <li>SYM: 33A, 56A</li>
-          <li>X: de, alcalde, 樋口, Ciao, Información, Montejo, Módulo, Palacio, Paseo, Turística</li>
+          <li>X: de, alcalde, 樋口, Ciao, Información, Montejo, Módulo, Palacio, Paseo, Shobha-</li>
         </ul>
       </li>
     </ul>
@@ -812,14 +887,14 @@ pages = {170--175},
     <ul>
       <li>Combi
         <ul>
-          <li>ADJ: 19th, 20th, 30th, 3rd, 10th, 21st, 17th, 2nd, 33rd, 50th</li>
+          <li>ADJ: 19th, 20th, 30th, 3rd, 10th, 17th, 21st, 13th, 15th, 25th</li>
           <li>ADV: 135th, 15th</li>
-          <li>NOUN: 1960s, 1970s, 1950s, 1980s, 1990s, 1830s, 1920s, 1930s, 1940s, 2000s</li>
+          <li>NOUN: 1960s, 1970s, 1980s, 1990s, 1830s, 1950s, 1920s, 1930s, 1940s, 2000s</li>
         </ul>
       </li>
       <li>Digit
         <ul>
-          <li>NUM: 1, 2, 3, 4, 10, 6, 5, 20, 15, 7</li>
+          <li>NUM: 1, 2, 3, 4, 10, 20, 6, 5, 15, 7</li>
         </ul>
       </li>
       <li>Roman
@@ -829,11 +904,11 @@ pages = {170--175},
       </li>
       <li>Word
         <ul>
-          <li>ADJ: first, second, third, fourth, fifth, seventh, ninth, sixth, tenth</li>
-          <li>ADV: first, once, second, twice, half, third, Fifth, Fourth, sixth</li>
+          <li>ADJ: first, second, third, fourth, fifth, ninth, seventh, sixth, tenth</li>
+          <li>ADV: first, once, twice, second, third, half, Fifth, Fourth, sixth</li>
           <li>DET: half</li>
-          <li>NOUN: half, quarter, third, thirds, quarters, fifths, halves, hundredths, millionth, tenth</li>
-          <li>NUM: one, two, three, four, five, six, ten, million, twenty, seven</li>
+          <li>NOUN: half, quarter, third, thirds, quarters, fifth, fifths, halves, hundredths, millionth</li>
+          <li>NUM: one, two, three, five, four, six, million, ten, twenty, hundred</li>
           <li>PROPN: EIGHT, One</li>
         </ul>
       </li>
@@ -857,8 +932,7 @@ pages = {170--175},
       </li>
       <li>Vrnc
         <ul>
-          <li>SCONJ: cause, cuz</li>
-          <li>VERB: gon, wan, ai</li>
+          <li>SCONJ: cause, cuz, 'cuz, ‘cuz</li>
           <li>VERB-Fin: wan, ai</li>
           <li>VERB-Inf: wan</li>
           <li>VERB-Part: gon</li>
@@ -873,26 +947,26 @@ pages = {170--175},
     <ul>
       <li>Yes
         <ul>
-          <li>ADJ: residential, 2D, I.=, Water, completed, crowed, digital, first, flashest, late</li>
-          <li>ADP: on, to, of, With, a, as, fro, from, in, than</li>
-          <li>ADV: aka, all, before, Non, p, really, them, then, alr-, any</li>
-          <li>AUX-Fin: are, is, can, ll, was, will, get, has, s, were</li>
+          <li>ADJ: residential, 2D, I.=, Indie, Water, beautiful, completed, crowed, digital, first</li>
+          <li>ADP: on, to, of, with, a, as, fro, from, in, is</li>
+          <li>ADV: aka, all, before, Non, a, abaut, ie, p, really, them</li>
+          <li>AUX-Fin: are, is, was, can, will, get, has, have, were, where</li>
           <li>AUX-Inf: be</li>
           <li>AUX-Part: been</li>
-          <li>CCONJ: and</li>
-          <li>DET: a, an, on, some, the, to</li>
-          <li>INTJ: y-, Ca-, Ro-, T-, alreet, alroot, f-, n-, plo-, reve-</li>
-          <li>NOUN: lotos, etc, per, type, dodge, fisherman, kind, order, thing, while</li>
-          <li>NUM: 1, 6:00, fiftyfive, five, one</li>
-          <li>PART: s, 's, do, the, not</li>
-          <li>PRON: em, it, you, i, it's, t, we, ya, She, Who</li>
-          <li>PROPN: sea, skittles, #langu, American, Chatnam, Fla., Hutter, JOHN, Oija, Ouiji</li>
-          <li>PUNCT: ", -, ., ,, [, |, ’</li>
-          <li>SCONJ: cuz, cause, despite, that</li>
-          <li>VERB: dwibbling, got, Pre, questi, se, set, understand, United, Untied, address</li>
-          <li>VERB-Fin: set, address, begun, belidve, belie-, beraded, cause, construe, contribute, counteracts</li>
-          <li>VERB-Ger: leading, recurring, traightening</li>
-          <li>VERB-Inf: understand, breath, experience, fall, happen, loose, makke, recieve, to, understan-</li>
+          <li>CCONJ: and, n</li>
+          <li>DET: a, the, an, he, on, some, this, to</li>
+          <li>INTJ: y-, Ca-, Ro-, T-, alreet, alroot, f-, i-, n-, plo-</li>
+          <li>NOUN: lotos, etc, kind, nite, per, type, dodge, fisherman, m, order</li>
+          <li>NUM: 1, 19, one, 6:00, fiftyfive, five, to</li>
+          <li>PART: do, the, not</li>
+          <li>PRON: em, it, you, ya, i, it's, we, She, Who, ev</li>
+          <li>PROPN: sea, skittles, #langu, American, Chatnam, Fla., Hutter, JOHN, Misalette, Oija</li>
+          <li>PUNCT: ., ", –, -, (, ;, [, |, ’</li>
+          <li>SCONJ: cuz, cause, 'til, Altho, despite, that, then, whil, 'cuz, ‘cuz</li>
+          <li>VERB: got, dwibbling, Pre, questi, se, set, under, understand, United, Untied</li>
+          <li>VERB-Fin: got, set, address, ate, begun, belidve, belie-, beraded, cause, construe</li>
+          <li>VERB-Ger: fighting, leading, preceeding, recurring, traightening</li>
+          <li>VERB-Inf: understand, breath, experience, fall, go, happen, loose, makke, r, recieve</li>
           <li>VERB-Part: dwibbling, got, United, Untied, charged, deeping, disappeared, exper-, food, going</li>
         </ul>
       </li>
@@ -909,7 +983,7 @@ pages = {170--175},
 </ul>
 
 <ul>
-<li>This corpus uses 12 lemmas as auxiliaries (<a>aux</a>). Examples: have, be, do, can, will, would, should, could, may, must, might, shall.</li>
+<li>This corpus uses 13 lemmas as auxiliaries (<a>aux</a>). Examples: have, be, do, can, will, would, could, should, may, might, must, shall, need.</li>
 <li>This corpus uses 2 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: be, get.</li>
 </ul>
 
@@ -920,18 +994,20 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>nsubj</a>
     <ul>
       <li>VERB--PRON-Nom (3)</li>
-      <li>VERB-Fin--NOUN (2008)</li>
-      <li>VERB-Fin--PRON (750)</li>
-      <li>VERB-Fin--PRON-Nom (3720)</li>
-      <li>VERB-Ger--NOUN (17)</li>
-      <li>VERB-Ger--PRON-Nom (6)</li>
-      <li>VERB-Inf--NOUN (445)</li>
-      <li>VERB-Inf--PRON (168)</li>
-      <li>VERB-Inf--PRON-Nom (1543)</li>
-      <li>VERB-Part--NOUN (351)</li>
-      <li>VERB-Part--PRON (113)</li>
+      <li>VERB-Fin--NOUN (2425)</li>
+      <li>VERB-Fin--PRON (925)</li>
+      <li>VERB-Fin--PRON-Nom (4571)</li>
+      <li>VERB-Ger--NOUN (23)</li>
+      <li>VERB-Ger--NOUN-ADP(of) (1)</li>
+      <li>VERB-Ger--PRON-Gen (1)</li>
+      <li>VERB-Ger--PRON-Nom (9)</li>
+      <li>VERB-Inf--NOUN (571)</li>
+      <li>VERB-Inf--PRON (212)</li>
+      <li>VERB-Inf--PRON-Nom (1909)</li>
+      <li>VERB-Part--NOUN (469)</li>
+      <li>VERB-Part--PRON (153)</li>
       <li>VERB-Part--PRON-Gen (1)</li>
-      <li>VERB-Part--PRON-Nom (1009)</li>
+      <li>VERB-Part--PRON-Nom (1261)</li>
     </ul>
   </li>
 </ul>
@@ -939,20 +1015,20 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB-Fin--NOUN (3009)</li>
-      <li>VERB-Fin--PRON (250)</li>
-      <li>VERB-Fin--PRON-Acc (600)</li>
-      <li>VERB-Fin--PRON-Gen (2)</li>
-      <li>VERB-Ger--NOUN (417)</li>
-      <li>VERB-Ger--PRON (18)</li>
-      <li>VERB-Ger--PRON-Acc (33)</li>
-      <li>VERB-Inf--NOUN (2151)</li>
-      <li>VERB-Inf--PRON (322)</li>
-      <li>VERB-Inf--PRON-Acc (466)</li>
-      <li>VERB-Inf--PRON-Gen (1)</li>
-      <li>VERB-Part--NOUN (1111)</li>
-      <li>VERB-Part--PRON (112)</li>
-      <li>VERB-Part--PRON-Acc (140)</li>
+      <li>VERB--PRON-Acc (1)</li>
+      <li>VERB-Fin--NOUN (3524)</li>
+      <li>VERB-Fin--PRON (307)</li>
+      <li>VERB-Fin--PRON-Acc (720)</li>
+      <li>VERB-Fin--PRON-Gen (3)</li>
+      <li>VERB-Ger--NOUN (512)</li>
+      <li>VERB-Ger--PRON (21)</li>
+      <li>VERB-Ger--PRON-Acc (39)</li>
+      <li>VERB-Inf--NOUN (2711)</li>
+      <li>VERB-Inf--PRON (390)</li>
+      <li>VERB-Inf--PRON-Acc (559)</li>
+      <li>VERB-Part--NOUN (1344)</li>
+      <li>VERB-Part--PRON (152)</li>
+      <li>VERB-Part--PRON-Acc (175)</li>
     </ul>
   </li>
 </ul>
@@ -960,17 +1036,17 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB-Fin--NOUN (39)</li>
-      <li>VERB-Fin--PRON-Acc (140)</li>
+      <li>VERB-Fin--NOUN (47)</li>
+      <li>VERB-Fin--PRON-Acc (157)</li>
       <li>VERB-Ger--NOUN (5)</li>
       <li>VERB-Ger--PRON (2)</li>
-      <li>VERB-Ger--PRON-Acc (4)</li>
-      <li>VERB-Inf--NOUN (51)</li>
+      <li>VERB-Ger--PRON-Acc (5)</li>
+      <li>VERB-Inf--NOUN (59)</li>
       <li>VERB-Inf--PRON (1)</li>
-      <li>VERB-Inf--PRON-Acc (72)</li>
-      <li>VERB-Part--NOUN (9)</li>
+      <li>VERB-Inf--PRON-Acc (109)</li>
+      <li>VERB-Part--NOUN (11)</li>
       <li>VERB-Part--PRON (1)</li>
-      <li>VERB-Part--PRON-Acc (24)</li>
+      <li>VERB-Part--PRON-Acc (34)</li>
     </ul>
   </li>
 </ul>
@@ -980,12 +1056,12 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Verbs with Reflexive Core Objects</h3>
 
 <ul>
-  <li>This corpus contains 75 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: find yourself, find himself, call themselves, find myself, force yourself, give yourself, lick themselves, proclaim himself, teach himself, ask yourself, assert himself, associate itself, attach itself, better myself, bind ourselves, bring myself, bring themselves, buy myself, call myself, coin myself, comfort yourself, confine ourselves, confine yourself, convince yourself, declare himself, declare myself, devote himself, discover herself, distinguish himself, distinguish itself, establish herself, exalt itself, expose yourself, feel himself, find themselves, fling themselves, get themselves, give themselves, go yourself, good yourself, govern himself, haul themselves, infect themselves, introduce themselves, kid himself, leave yourself, maintain himself, make herself, make themselves, make yourself</li>
+  <li>This corpus contains 85 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: find yourself, find himself, call themselves, find myself, find themselves, force yourself, give yourself, lick themselves, proclaim himself, teach himself, ask yourself, assert himself, associate itself, attach itself, beat yourself, better myself, better yourself, bind ourselves, bring myself, bring themselves, buy myself, call myself, coin myself, comfort yourself, confine ourselves, confine yourself, consider himself, consider themselves, convince yourself, declare himself, declare myself, defend himself, devote himself, discover herself, distinguish himself, distinguish itself, establish herself, exalt itself, expose yourself, fashion himself, feel himself, find itself, fire yourself, fling themselves, get themselves, get yourself, give themselves, go yourself, govern himself, haul themselves</li>
 </ul>
 
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 14 relation subtypes: <a>acl:relcl</a>, <a>advcl:relcl</a>, <a>aux:pass</a>, <a>cc:preconj</a>, <a>compound:prt</a>, <a>csubj:outer</a>, <a>csubj:pass</a>, <a>det:predet</a>, <a>nmod:poss</a>, <a>nmod:unmarked</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>obl:unmarked</a></li>
+<li>This corpus uses 15 relation subtypes: <a>acl:relcl</a>, <a>advcl:relcl</a>, <a>aux:pass</a>, <a>cc:preconj</a>, <a>compound:prt</a>, <a>csubj:outer</a>, <a>csubj:pass</a>, <a>det:predet</a>, <a>nmod:desc</a>, <a>nmod:poss</a>, <a>nmod:unmarked</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>obl:unmarked</a></li>
 <li>The following 1 relation types are not used in this corpus at all: <a>clf</a></li>
 </ul>

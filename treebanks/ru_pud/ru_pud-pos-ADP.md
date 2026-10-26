@@ -48,12 +48,18 @@ The 2nd highest number of forms (1) was observed with the lemma “без”: <e
 
 The 3rd highest number of forms (1) was observed with the lemma “благодаря”: <em>благодаря</em>.
 
-`ADP` does not occur with any features.
+`ADP` occurs with 1 features: <tt><a href="ru_pud-feat-ExtPos.html">ExtPos</a></tt> (22; 1% instances)
+
+`ADP` occurs with 1 feature-value pairs: `ExtPos=ADV`
+
+`ADP` occurs with 2 feature combinations.
+The most frequent feature combination is `_` (2072 tokens).
+Examples: <em>в, на, с, к, из, по, для, от, до, о</em>
 
 
 ## Relations
 
-`ADP` nodes are attached to their parents using 10 different relations: <tt><a href="ru_pud-dep-case.html">case</a></tt> (2041; 97% instances), <tt><a href="ru_pud-dep-advmod.html">advmod</a></tt> (23; 1% instances), <tt><a href="ru_pud-dep-fixed.html">fixed</a></tt> (18; 1% instances), <tt><a href="ru_pud-dep-cc.html">cc</a></tt> (4; 0% instances), <tt><a href="ru_pud-dep-acl.html">acl</a></tt> (3; 0% instances), <tt><a href="ru_pud-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="ru_pud-dep-conj.html">conj</a></tt> (1; 0% instances), <tt><a href="ru_pud-dep-discourse.html">discourse</a></tt> (1; 0% instances), <tt><a href="ru_pud-dep-mark.html">mark</a></tt> (1; 0% instances), <tt><a href="ru_pud-dep-nmod.html">nmod</a></tt> (1; 0% instances)
+`ADP` nodes are attached to their parents using 12 different relations: <tt><a href="ru_pud-dep-case.html">case</a></tt> (2041; 97% instances), <tt><a href="ru_pud-dep-advmod.html">advmod</a></tt> (19; 1% instances), <tt><a href="ru_pud-dep-fixed.html">fixed</a></tt> (18; 1% instances), <tt><a href="ru_pud-dep-cc.html">cc</a></tt> (4; 0% instances), <tt><a href="ru_pud-dep-acl.html">acl</a></tt> (3; 0% instances), <tt><a href="ru_pud-dep-parataxis-discourse.html">parataxis:discourse</a></tt> (3; 0% instances), <tt><a href="ru_pud-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="ru_pud-dep-conj.html">conj</a></tt> (1; 0% instances), <tt><a href="ru_pud-dep-discourse.html">discourse</a></tt> (1; 0% instances), <tt><a href="ru_pud-dep-mark.html">mark</a></tt> (1; 0% instances), <tt><a href="ru_pud-dep-nmod.html">nmod</a></tt> (1; 0% instances), <tt><a href="ru_pud-dep-obl.html">obl</a></tt> (1; 0% instances)
 
 Parents of `ADP` nodes belong to 12 different parts of speech: <tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt> (1610; 77% instances), <tt><a href="ru_pud-pos-PROPN.html">PROPN</a></tt> (227; 11% instances), <tt><a href="ru_pud-pos-PRON.html">PRON</a></tt> (144; 7% instances), <tt><a href="ru_pud-pos-NUM.html">NUM</a></tt> (31; 1% instances), <tt><a href="ru_pud-pos-VERB.html">VERB</a></tt> (25; 1% instances), <tt><a href="ru_pud-pos-ADJ.html">ADJ</a></tt> (23; 1% instances), <tt><a href="ru_pud-pos-ADP.html">ADP</a></tt> (13; 1% instances), <tt><a href="ru_pud-pos-SYM.html">SYM</a></tt> (8; 0% instances), <tt><a href="ru_pud-pos-ADV.html">ADV</a></tt> (6; 0% instances), <tt><a href="ru_pud-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="ru_pud-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="ru_pud-pos-AUX.html">AUX</a></tt> (1; 0% instances)
 

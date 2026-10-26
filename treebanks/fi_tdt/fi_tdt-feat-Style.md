@@ -148,7 +148,7 @@ The most frequent other feature values with which `PROPN` and `Style` co-occurre
 ## Relations with Agreement in `Style`
 
 The 10 most frequent relations where parent and child node agree in `Style`:
-<tt>VERB --[<tt><a href="fi_tdt-dep-mark.html">mark</a></tt>]--> ADV</tt> (6; 67%),
+<tt>VERB --[<tt><a href="fi_tdt-dep-mark.html">mark</a></tt>]--> ADV</tt> (5; 63%),
 <tt>VERB --[<tt><a href="fi_tdt-dep-nsubj.html">nsubj</a></tt>]--> VERB</tt> (4; 57%),
 <tt>ADV --[<tt><a href="fi_tdt-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (3; 60%),
 <tt>ADV --[<tt><a href="fi_tdt-dep-fixed.html">fixed</a></tt>]--> SCONJ</tt> (2; 67%),

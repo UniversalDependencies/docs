@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of .
 There are also 4 other language-specific subtypes of `dislocated`: <tt><a href="la_ittb-dep-dislocated-advcl.html">dislocated:advcl</a></tt>, <tt><a href="la_ittb-dep-dislocated-ccomp.html">dislocated:ccomp</a></tt>, <tt><a href="la_ittb-dep-dislocated-nsubj.html">dislocated:nsubj</a></tt>, <tt><a href="la_ittb-dep-dislocated-obl.html">dislocated:obl</a></tt>.
 
-3 nodes (0%) are attached to their parents as `dislocated:csubj`.
+2 nodes (0%) are attached to their parents as `dislocated:csubj`.
 
-2 instances of `dislocated:csubj` (67%) are left-to-right (parent precedes child).
-Average distance between parent and child is 14.3333333333333.
+1 instances of `dislocated:csubj` (50%) are left-to-right (parent precedes child).
+Average distance between parent and child is 13.5.
 
-The following 2 pairs of parts of speech are connected with `dislocated:csubj`: <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt>-<tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> (2; 67% instances), <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt>-<tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt> (1; 33% instances).
+The following 1 pairs of parts of speech are connected with `dislocated:csubj`: <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt>-<tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> (2; 100% instances).
 
 
 ~~~ conllu
@@ -48,40 +48,6 @@ The following 2 pairs of parts of speech are connected with `dislocated:csubj`: 
 23	recte	recte	ADV	B1|grn1|casG	_	24	advmod	_	_
 24	procedere	procedo	VERB	L3|modH|tem1	Aspect=Imp|InflClass=LatX|VerbForm=Inf|Voice=Act	4	csubj:relcl	_	SpaceAfter=No|TraditionalMood=Infinitivus|TraditionalTense=Praesens
 25	.	.	PUNCT	Punc	_	4	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 21	bgColor:blue
-# visual-style 21	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 21 dislocated:csubj	color:blue
-1	hoc	hic	DET	F1|grn1|casD|gen3	Case=Acc|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Dem	5	obj	_	_
-2	etiam	etiam	ADV	O4|vgr1	Compound=Yes	5	advmod:emph	_	_
-3	mediatoris	mediator	NOUN	C1|grn1|casB|gen1	Case=Gen|Gender=Masc|InflClass=IndEurX|Number=Sing	4	nmod	_	_
-4	officium	officium	NOUN	B1|grn1|casA|gen3	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing	5	nsubj	_	_
-5	requirebat	requiro	VERB	L3|modA|tem2|gen6	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	TraditionalMood=Indicativus|TraditionalTense=Imperfectum
-6	quod	quod	SCONJ	O4	_	21	mark	_	SpaceAfter=No
-7	,	,	PUNCT	Punc	_	10	punct	_	_
-8	cum	cum	SCONJ	S4|vgr1	PronType=Rel	10	mark	_	_
-9	communem	communis	ADJ	C1|grn1|casD|gen2	Case=Acc|Gender=Fem|InflClass=IndEurI|Number=Sing	10	xcomp	_	_
-10	haberet	habeo	VERB	K3|modB|tem2|gen6	Aspect=Imp|InflClass=LatE|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	21	advcl	_	TraditionalMood=Subiunctivus|TraditionalTense=Imperfectum
-11	nobis	ego	PRON	F1|grn1|casL|gen1|comC	Case=Abl|InflClass=LatAnom|Number=Plur|Person=1|PronType=Prs	9	obl:arg	_	_
-12	cum	cum	ADP	F1|grn1|casL|gen1|comC	_	11	case	_	_
-13	passibilem	passibilis	ADJ	C1|grn1|casD|gen2	Case=Acc|Gender=Fem|InflClass=IndEurI|Number=Sing	14	amod	_	_
-14	carnem	caro	NOUN	C1|grn1|casD|gen2	Case=Acc|Gender=Fem|InflClass=IndEurI|Number=Sing	10	obj	_	_
-15	et	et	CCONJ	O4	_	16	cc	_	_
-16	mortalem	mortalis	ADJ	C1|grn1|casD|gen2	Case=Acc|Gender=Fem|InflClass=IndEurI|Number=Sing	13	conj	_	SpaceAfter=No
-17	,	,	PUNCT	Punc	_	10	punct	_	_
-18	cum	cum	ADP	S4|vgr1	_	19	case	_	_
-19	deo	deus	NOUN	F1|grn1|casF|gen1	Case=Abl|Gender=Masc|InflClass=IndEurO|Number=Sing	21	orphan	_	_
-20	uero	uero	ADV	B1|grn1|casG|vgr1	_	21	discourse	_	_
-21	uirtutem	uirtus	NOUN	C1|grn1|casD|gen2|vgr1	Case=Acc|Gender=Fem|InflClass=IndEurX|Number=Sing	5	dislocated:csubj	_	_
-22	et	et	CCONJ	O4	_	23	cc	_	_
-23	gloriam	gloria	NOUN	A1|grn1|casD|gen2	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing	21	conj	_	SpaceAfter=No
-24	:	:	PUNCT	Punc	_	5	punct	_	_
 
 ~~~
 

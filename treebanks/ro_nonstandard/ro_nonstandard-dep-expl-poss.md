@@ -77,7 +77,7 @@ The following 4 pairs of parts of speech are connected with `expl:poss`: <tt><a 
 8	S-	să	PART	Qs	PartType=Sub	10	mark	_	SpaceAfter=No
 9	o	el	PRON	Pp3fsa--------w	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs|Strength=Weak	10	obj	_	_
 10	trimiți	trimite	VERB	Vmsp2s	Mood=Sub|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
-11	ca	ca	ADP	Spsa	AdpType=Prep|Case=Acc	15	mark	_	_
+11	ca	ca	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	15	mark	_	_
 12	să	să	PART	Qs	PartType=Sub	11	fixed	_	_
 13	ți-	tu	PRON	Pp2-sd--------w	Case=Dat|Number=Sing|Person=2|PronType=Prs|Strength=Weak	15	iobj	_	SpaceAfter=No
 14	o	el	PRON	Pp3fsa--------w	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs|Strength=Weak	15	obj	_	_

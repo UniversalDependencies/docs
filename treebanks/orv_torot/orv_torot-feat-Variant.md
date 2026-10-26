@@ -52,7 +52,7 @@ The most frequent other feature values with which `AUX` and `Variant` co-occurre
 
 The 10 most frequent relations where parent and child node agree in `Variant`:
 <tt>VERB --[<tt><a href="orv_torot-dep-conj.html">conj</a></tt>]--> VERB</tt> (1142; 57%),
-<tt>ADJ --[<tt><a href="orv_torot-dep-conj.html">conj</a></tt>]--> ADJ</tt> (407; 91%),
+<tt>ADJ --[<tt><a href="orv_torot-dep-conj.html">conj</a></tt>]--> ADJ</tt> (408; 91%),
 <tt>ADJ --[<tt><a href="orv_torot-dep-conj.html">conj</a></tt>]--> VERB</tt> (90; 53%),
 <tt>ADJ --[<tt><a href="orv_torot-dep-fixed.html">fixed</a></tt>]--> ADJ</tt> (19; 100%),
 <tt>ADJ --[<tt><a href="orv_torot-dep-advmod.html">advmod</a></tt>]--> ADJ</tt> (11; 52%),

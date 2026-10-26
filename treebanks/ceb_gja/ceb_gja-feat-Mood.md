@@ -11,7 +11,7 @@ It occurs with 3 different values: `Imp`, `Ind`, `Pot`.
 
 150 tokens (11%) have a non-empty value of `Mood`.
 138 types (28%) occur at least once with a non-empty value of `Mood`.
-111 lemmas (28%) occur at least once with a non-empty value of `Mood`.
+111 lemmas (27%) occur at least once with a non-empty value of `Mood`.
 The feature is used with 1 part-of-speech tags: <tt><a href="ceb_gja-pos-VERB.html">VERB</a></tt> (150; 11% instances).
 
 ### `VERB`
@@ -23,7 +23,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="ceb_gja-pos-VERB.ht
 * `Imp` (10; 7% of non-empty `Mood`): <em>Ipalit, Padayona, Pag-ayo, Pagdali, Pakitaa, ipasa, kaguol, pagpataka, paliti, patoo</em>
 * `Ind` (125; 83% of non-empty `Mood`): <em>moadto, ganahan, gibuhat, tabangan, Gitawag, Kinahanglan, Liguon, Silhigan, gihigugma, kasabot</em>
 * `Pot` (15; 10% of non-empty `Mood`): <em>Maka-iningles, Nakabantay, Nakahukom, Nakalimtan, Nakamedalya, Nasuka, himo-an, mahimo, mainitan, makahinapon</em>
-* `EMPTY` (37): <em>wala, gusto, may, Aduna, Adunay, Buot, Duna, Gipinturahan, Gisugo, Gisulayan</em>
+* `EMPTY` (38): <em>wala, gusto, may, Aduna, Adunay, Buot, Duna, Gipinturahan, Gisugo, Gisulayan</em>
 
 <table>
   <tr><th>Paradigm <i>kita</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Pot</tt></th></tr>

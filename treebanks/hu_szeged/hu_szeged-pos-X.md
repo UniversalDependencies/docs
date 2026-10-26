@@ -34,7 +34,7 @@ The 10 most frequent ambiguous types:  <em>ad</em> (<tt><a href="hu_szeged-pos-V
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.230769 (the average of all parts of speech is 1.503840).
+The form / lemma ratio of `X` is 1.230769 (the average of all parts of speech is 1.504111).
 
 The 1st highest number of forms (4) was observed with the lemma “_”: <em>csak, ilyen, szituált, ta</em>.
 

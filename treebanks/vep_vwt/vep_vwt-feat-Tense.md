@@ -11,7 +11,7 @@ It occurs with 2 different values: `Past`, `Pres`.
 
 191 tokens (15%) have a non-empty value of `Tense`.
 123 types (21%) occur at least once with a non-empty value of `Tense`.
-67 lemmas (17%) occur at least once with a non-empty value of `Tense`.
+67 lemmas (18%) occur at least once with a non-empty value of `Tense`.
 The feature is used with 2 part-of-speech tags: <tt><a href="vep_vwt-pos-VERB.html">VERB</a></tt> (123; 9% instances), <tt><a href="vep_vwt-pos-AUX.html">AUX</a></tt> (68; 5% instances).
 
 ### `VERB`
@@ -22,9 +22,9 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 `VERB` tokens may have the following values of `Tense`:
 
-* `Past` (54; 44% of non-empty `Tense`): <em>radoin, ajoin, el'genzin, sain, sündnu, tahtoin, tuli, Oli-ik, Pagištihe-ik, abutiba</em>
+* `Past` (54; 44% of non-empty `Tense`): <em>radoin, ajoin, elʼgenzin, sain, sündnu, tahtoin, tuli, Oli-ik, Pagištihe-ik, abutiba</em>
 * `Pres` (69; 56% of non-empty `Tense`): <em>eläba, seižub, abutab, meletan, muštan, tegem, Muštat-ik, Om, Toivotam, ajelese</em>
-* `EMPTY` (60): <em>tehta, eläda, el'geta, rata, Išttes, kaita, pagišta, panda, radmaha, vajehtada</em>
+* `EMPTY` (60): <em>tehta, eläda, elʼgeta, rata, Išttes, kaita, pagišta, panda, radmaha, vajehtada</em>
 
 <table>
   <tr><th>Paradigm <i>eläda</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th></tr>

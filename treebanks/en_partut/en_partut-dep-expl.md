@@ -24,10 +24,10 @@ The following 4 pairs of parts of speech are connected with `expl`: <tt><a href=
 # visual-style 2 3 expl	color:blue
 1	Why	why	ADV	B	_	2	advmod	_	_
 2	are	be	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	there	there	PRON	_	_	2	expl	_	_
+3	there	there	PRON	_	PronType=Dem	2	expl	_	_
 4	no	no	DET	DI	PronType=Ind	6	det	_	_
 5	fire	fire	NOUN	S	Number=Sing	6	nmod	_	_
-6	instructions	instructions	NOUN	S	Number=Sing	2	nsubj	_	SpaceAfter=No
+6	instructions	instruction	NOUN	S	Number=Plur	2	nsubj	_	SpaceAfter=No
 7	?	?	PUNCT	FS	_	2	punct	_	_
 
 ~~~

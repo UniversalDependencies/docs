@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Skolt_Sami-Giellagas: POS Tags: `PART`
 
 There are 7 `PART` lemmas (1%), 7 `PART` types (1%) and 24 `PART` tokens (1%).
-Out of 16 observed tags, the rank of `PART` is: 13 in number of lemmas, 15 in number of types and 12 in number of tokens.
+Out of 16 observed tags, the rank of `PART` is: 12 in number of lemmas, 14 in number of types and 12 in number of tokens.
 
 The 10 most frequent `PART` lemmas: <em>ni, äʹn, veʹt, še, deʹbe, gõs, tâma</em>
 
@@ -30,7 +30,7 @@ The 10 most frequent ambiguous types:  <em>ni</em> (<tt><a href="sms_giellagas-p
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.476015).
+The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.487500).
 
 The 1st highest number of forms (1) was observed with the lemma “deʹbe”: <em>deʹbe</em>.
 
@@ -38,20 +38,20 @@ The 2nd highest number of forms (1) was observed with the lemma “gõs”: <em>
 
 The 3rd highest number of forms (1) was observed with the lemma “ni”: <em>ni</em>.
 
-`PART` occurs with 1 features: <tt><a href="sms_giellagas-feat-Polarity.html">Polarity</a></tt> (10; 42% instances)
+`PART` occurs with 2 features: <tt><a href="sms_giellagas-feat-Polarity.html">Polarity</a></tt> (10; 42% instances), <tt><a href="sms_giellagas-feat-ExtPos.html">ExtPos</a></tt> (2; 8% instances)
 
-`PART` occurs with 1 feature-value pairs: `Polarity=Neg`
+`PART` occurs with 2 feature-value pairs: `ExtPos=ADV`, `Polarity=Neg`
 
-`PART` occurs with 2 feature combinations.
+`PART` occurs with 3 feature combinations.
 The most frequent feature combination is `_` (14 tokens).
 Examples: <em>äʹn, ni, veʹt, še, deʹbe, gõs, tâma</em>
 
 
 ## Relations
 
-`PART` nodes are attached to their parents using 5 different relations: <tt><a href="sms_giellagas-dep-advmod-neg.html">advmod:neg</a></tt> (8; 33% instances), <tt><a href="sms_giellagas-dep-advmod.html">advmod</a></tt> (7; 29% instances), <tt><a href="sms_giellagas-dep-discourse.html">discourse</a></tt> (6; 25% instances), <tt><a href="sms_giellagas-dep-advmod-mmod.html">advmod:mmod</a></tt> (2; 8% instances), <tt><a href="sms_giellagas-dep-advmod-eval.html">advmod:eval</a></tt> (1; 4% instances)
+`PART` nodes are attached to their parents using 3 different relations: <tt><a href="sms_giellagas-dep-advmod.html">advmod</a></tt> (10; 42% instances), <tt><a href="sms_giellagas-dep-advmod-neg.html">advmod:neg</a></tt> (8; 33% instances), <tt><a href="sms_giellagas-dep-discourse.html">discourse</a></tt> (6; 25% instances)
 
-Parents of `PART` nodes belong to 4 different parts of speech: <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> (16; 67% instances), <tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> (5; 21% instances), <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> (2; 8% instances), <tt><a href="sms_giellagas-pos-DET.html">DET</a></tt> (1; 4% instances)
+Parents of `PART` nodes belong to 4 different parts of speech: <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> (16; 67% instances), <tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> (5; 21% instances), <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> (2; 8% instances), <tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt> (1; 4% instances)
 
 21 (88%) `PART` nodes are leaves.
 

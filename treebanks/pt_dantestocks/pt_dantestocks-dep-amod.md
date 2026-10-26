@@ -31,7 +31,7 @@ The following 8 pairs of parts of speech are connected with `amod`: <tt><a href=
 7	,	,	PUNCT	_	_	8	punct	_	_
 8	LLIS3	LLIS3	PROPN	_	_	3	conj	_	SpaceAfter=No
 9	,	,	PUNCT	_	_	10	punct	_	SpaceAfter=No
-10	EMBR3	EMBR3	PROPN	_	_	3	conj	_	SpaceAfter=No
+10	EMBR3	EMBR3	PROPN	_	_	3	conj	_	_
 
 ~~~
 
@@ -49,7 +49,7 @@ The following 8 pairs of parts of speech are connected with `amod`: <tt><a href=
 5	:	:	PUNCT	_	_	6	punct	_	_
 6	950998	950998	NUM	_	NumType=Card	4	nmod	_	SpaceAfter=No
 7	)	)	PUNCT	_	_	4	punct	_	_
-8	http://t.co/suRkLOSBUz	http://t.co/suRkLOSBUz	SYM	_	_	1	parataxis	_	SpaceAfter=No
+8	http://t.co/suRkLOSBUz	http://t.co/suRkLOSBUz	SYM	_	_	1	parataxis	_	_
 
 ~~~
 
@@ -69,7 +69,7 @@ The following 8 pairs of parts of speech are connected with `amod`: <tt><a href=
 7	sempre	sempre	ADV	_	_	6	advmod	_	_
 8	o	o	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	6	obj	_	_
 9	semanal	semanal	ADJ	_	Gender=Masc|Number=Sing	8	amod	_	SpaceAfter=No
-10	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	2	punct	_	_
 
 ~~~
 

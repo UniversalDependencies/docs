@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="apu_ufpa-dep-aux.html">aux</a></tt>.
 
-1 nodes (0%) are attached to their parents as `aux:exhort`.
+2 nodes (0%) are attached to their parents as `aux:exhort`.
 
-1 instances of `aux:exhort` (100%) are right-to-left (child precedes parent).
+2 instances of `aux:exhort` (100%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.
 
-The following 1 pairs of parts of speech are connected with `aux:exhort`: <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt>-<tt><a href="apu_ufpa-pos-AUX.html">AUX</a></tt> (1; 100% instances).
+The following 1 pairs of parts of speech are connected with `aux:exhort`: <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt>-<tt><a href="apu_ufpa-pos-AUX.html">AUX</a></tt> (2; 100% instances).
 
 
 ~~~ conllu

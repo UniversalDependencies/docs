@@ -23,7 +23,7 @@ The following 1 pairs of parts of speech are connected with `flat:range`: <tt><a
 # visual-style 17	bgColor:blue
 # visual-style 17	fgColor:white
 # visual-style 17 19 flat:range	color:blue
-1	Тобто	тобто	SCONJ	SCONJ	_	10	discourse	_	_
+1	Тобто	тобто	CCONJ	CCONJ	_	10	cc	_	_
 2	кожен	кожний	DET	DET	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|PronType=Tot|Variant=Short	10	nsubj	_	_
 3	з	з	ADP	ADP	Case=Gen	4	case	_	_
 4	них	вони	PRON	PRON	Case=Gen|Number=Plur|Person=3|PronType=Prs	2	nmod	_	SpaceAfter=No

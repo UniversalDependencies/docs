@@ -11,9 +11,9 @@ This relation is universal.
 17662 nodes (3%) are attached to their parents as `root`.
 
 17662 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 9.44247537085268.
+Average distance between parent and child is 9.37056958441853.
 
-The following 16 pairs of parts of speech are connected with `root`: -<tt><a href="es_ancora-pos-VERB.html">VERB</a></tt> (14299; 81% instances), -<tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt> (1457; 8% instances), -<tt><a href="es_ancora-pos-ADJ.html">ADJ</a></tt> (842; 5% instances), -<tt><a href="es_ancora-pos-AUX.html">AUX</a></tt> (354; 2% instances), -<tt><a href="es_ancora-pos-PROPN.html">PROPN</a></tt> (162; 1% instances), -<tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> (159; 1% instances), -<tt><a href="es_ancora-pos-CCONJ.html">CCONJ</a></tt> (130; 1% instances), -<tt><a href="es_ancora-pos-ADV.html">ADV</a></tt> (122; 1% instances), -<tt><a href="es_ancora-pos-ADP.html">ADP</a></tt> (38; 0% instances), -<tt><a href="es_ancora-pos-NUM.html">NUM</a></tt> (34; 0% instances), -<tt><a href="es_ancora-pos-INTJ.html">INTJ</a></tt> (23; 0% instances), -<tt><a href="es_ancora-pos-DET.html">DET</a></tt> (21; 0% instances), -<tt><a href="es_ancora-pos-PUNCT.html">PUNCT</a></tt> (12; 0% instances), -<tt><a href="es_ancora-pos-SYM.html">SYM</a></tt> (4; 0% instances), -<tt><a href="es_ancora-pos-PART.html">PART</a></tt> (3; 0% instances), -<tt><a href="es_ancora-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances).
+The following 15 pairs of parts of speech are connected with `root`: -<tt><a href="es_ancora-pos-VERB.html">VERB</a></tt> (14389; 81% instances), -<tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt> (1481; 8% instances), -<tt><a href="es_ancora-pos-ADJ.html">ADJ</a></tt> (857; 5% instances), -<tt><a href="es_ancora-pos-AUX.html">AUX</a></tt> (343; 2% instances), -<tt><a href="es_ancora-pos-PROPN.html">PROPN</a></tt> (163; 1% instances), -<tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> (161; 1% instances), -<tt><a href="es_ancora-pos-ADV.html">ADV</a></tt> (125; 1% instances), -<tt><a href="es_ancora-pos-NUM.html">NUM</a></tt> (35; 0% instances), -<tt><a href="es_ancora-pos-CCONJ.html">CCONJ</a></tt> (33; 0% instances), -<tt><a href="es_ancora-pos-ADP.html">ADP</a></tt> (24; 0% instances), -<tt><a href="es_ancora-pos-INTJ.html">INTJ</a></tt> (23; 0% instances), -<tt><a href="es_ancora-pos-DET.html">DET</a></tt> (21; 0% instances), -<tt><a href="es_ancora-pos-SYM.html">SYM</a></tt> (4; 0% instances), -<tt><a href="es_ancora-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), -<tt><a href="es_ancora-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -54,7 +54,7 @@ The following 16 pairs of parts of speech are connected with `root`: -<tt><a hre
 # visual-style 0	fgColor:white
 # visual-style 0 2 root	color:blue
 1	Eran	ser	AUX	vsii3p0	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	2	cop	2:cop	_
-2	idénticos	idéntico	ADJ	aq0mp0	Gender=Masc|Number=Plur	0	root	0:root	SpaceAfter=No|ArgTem=arg2:atr
+2	idénticos	idéntico	ADJ	aq0mp0	Gender=Masc|Number=Plur	0	root	0:root	ArgTem=arg2:atr|SpaceAfter=No
 3	.	.	PUNCT	fp	PunctType=Peri	2	punct	2:punct	_
 
 ~~~

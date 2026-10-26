@@ -196,5 +196,5 @@ The 10 most frequent relations where parent and child node agree in `Case`:
 <tt>NOUN --[<tt><a href="sl_sst-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (285; 52%),
 <tt>ADJ --[<tt><a href="sl_sst-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (276; 98%),
 <tt>PRON --[<tt><a href="sl_sst-dep-case.html">case</a></tt>]--> ADP</tt> (229; 97%),
-<tt>ADJ --[<tt><a href="sl_sst-dep-conj.html">conj</a></tt>]--> ADJ</tt> (207; 98%).
+<tt>ADJ --[<tt><a href="sl_sst-dep-conj.html">conj</a></tt>]--> ADJ</tt> (206; 98%).
 

@@ -51,7 +51,7 @@ The following 3 pairs of parts of speech are connected with `discourse`: <tt><a 
 3	:	:	PUNCT	PUNCT	_	2	punct	_	_
 4	"	"	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No
 5	Ga	ga	INTJ	INTJ	_	7	discourse	_	_
-6	sidä	sidä	PRON	PRON	Case=Par|Number=Plur	7	orphan	_	_
+6	sidä	sidä	PRON	PRON	Case=Par|Number=Plur|PronType=Dem	7	orphan	_	_
 7	samastu	samaine	ADJ	ADJ	Case=Par|Number=Sing	2	parataxis	_	SpaceAfter=No
 8	"	"	PUNCT	PUNCT	_	7	punct	_	SpaceAfter=No
 9	.	.	PUNCT	PUNCT	_	7	punct	_	SpaceAfter=No

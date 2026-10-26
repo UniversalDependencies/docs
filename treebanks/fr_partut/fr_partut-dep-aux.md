@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 2 language-specific subtypes of `aux`: <tt><a href="fr_partut-dep-aux-caus.html">aux:caus</a></tt>, <tt><a href="fr_partut-dep-aux-pass.html">aux:pass</a></tt>.
 
-285 nodes (1%) are attached to their parents as `aux`.
+283 nodes (1%) are attached to their parents as `aux`.
 
-285 instances of `aux` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.61754385964912.
+283 instances of `aux` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.60070671378092.
 
-The following 4 pairs of parts of speech are connected with `aux`: <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> (275; 96% instances), <tt><a href="fr_partut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> (6; 2% instances), <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> (3; 1% instances), <tt><a href="fr_partut-pos-AUX.html">AUX</a></tt>-<tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 4 pairs of parts of speech are connected with `aux`: <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> (273; 96% instances), <tt><a href="fr_partut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> (6; 2% instances), <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> (3; 1% instances), <tt><a href="fr_partut-pos-AUX.html">AUX</a></tt>-<tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -29,7 +29,7 @@ The following 4 pairs of parts of speech are connected with `aux`: <tt><a href="
 4	dans	dans	ADP	E	_	7	case	_	_
 5	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
 6	sixième	sixième	ADJ	NO	Number=Sing|NumType=Ord	7	amod	_	_
-7	X	X	X	X	_	3	obl	_	SpaceAfter=No
+7	X	X	X	X	_	3	obl	_	_
 8	:	:	PUNCT	FC	_	3	punct	_	_
 
 ~~~
@@ -41,7 +41,7 @@ The following 4 pairs of parts of speech are connected with `aux`: <tt><a href="
 # visual-style 15	bgColor:blue
 # visual-style 15	fgColor:white
 # visual-style 15 13 aux	color:blue
-1	D'	de	ADP	E	_	4	case	_	SpaceAfter=No
+1	D'	de	ADP	E	ExtPos=ADP	4	case	_	SpaceAfter=No
 2	après	après	ADP	E	_	1	fixed	_	_
 3	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
 4	proposition	proposition	NOUN	S	Gender=Fem|Number=Sing	15	obl	_	_
@@ -55,7 +55,7 @@ The following 4 pairs of parts of speech are connected with `aux`: <tt><a href="
 12	­20º	-20º	NUM	N	NumType=Card	10	nummod	_	_
 13	aurait	avoir	AUX	VA	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	aux	_	_
 14	été	être	AUX	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	15	cop	_	_
-15	suffisante	suffisant	ADJ	A	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+15	suffisante	suffisant	ADJ	A	Gender=Fem|Number=Sing	0	root	_	_
 16	;	;	PUNCT	FC	_	15	punct	_	_
 
 ~~~
@@ -86,7 +86,7 @@ The following 4 pairs of parts of speech are connected with `aux`: <tt><a href="
 17	politique	politique	NOUN	S	Gender=Fem|Number=Sing	11	obl	_	_
 18	régionale	régional	ADJ	A	Gender=Fem|Number=Sing	17	amod	_	_
 19	communautaire	communautaire	ADJ	A	Number=Sing	17	amod	_	_
-20	en	en	ADP	E	_	17	advmod	_	_
+20	en	en	ADP	E	ExtPos=ADV	17	advmod	_	_
 21	général	général	ADJ	A	Gender=Masc|Number=Sing	20	fixed	_	SpaceAfter=No
 22	.	.	PUNCT	FS	_	9	punct	_	_
 

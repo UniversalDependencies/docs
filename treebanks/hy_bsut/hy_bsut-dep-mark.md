@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-702 nodes (2%) are attached to their parents as `mark`.
+795 nodes (2%) are attached to their parents as `mark`.
 
-702 instances of `mark` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.36039886039886.
+795 instances of `mark` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.35471698113208.
 
-The following 11 pairs of parts of speech are connected with `mark`: <tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_bsut-pos-SCONJ.html">SCONJ</a></tt> (509; 73% instances), <tt><a href="hy_bsut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hy_bsut-pos-SCONJ.html">SCONJ</a></tt> (81; 12% instances), <tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_bsut-pos-SCONJ.html">SCONJ</a></tt> (73; 10% instances), <tt><a href="hy_bsut-pos-PRON.html">PRON</a></tt>-<tt><a href="hy_bsut-pos-SCONJ.html">SCONJ</a></tt> (12; 2% instances), <tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_bsut-pos-ADV.html">ADV</a></tt> (10; 1% instances), <tt><a href="hy_bsut-pos-ADV.html">ADV</a></tt>-<tt><a href="hy_bsut-pos-SCONJ.html">SCONJ</a></tt> (7; 1% instances), <tt><a href="hy_bsut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hy_bsut-pos-SCONJ.html">SCONJ</a></tt> (6; 1% instances), <tt><a href="hy_bsut-pos-ADP.html">ADP</a></tt>-<tt><a href="hy_bsut-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_bsut-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_bsut-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_bsut-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
+The following 17 pairs of parts of speech are connected with `mark`: <tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_bsut-pos-SCONJ.html">SCONJ</a></tt> (571; 72% instances), <tt><a href="hy_bsut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hy_bsut-pos-SCONJ.html">SCONJ</a></tt> (91; 11% instances), <tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_bsut-pos-SCONJ.html">SCONJ</a></tt> (74; 9% instances), <tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_bsut-pos-ADV.html">ADV</a></tt> (20; 3% instances), <tt><a href="hy_bsut-pos-PRON.html">PRON</a></tt>-<tt><a href="hy_bsut-pos-SCONJ.html">SCONJ</a></tt> (12; 2% instances), <tt><a href="hy_bsut-pos-ADV.html">ADV</a></tt>-<tt><a href="hy_bsut-pos-SCONJ.html">SCONJ</a></tt> (6; 1% instances), <tt><a href="hy_bsut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hy_bsut-pos-SCONJ.html">SCONJ</a></tt> (5; 1% instances), <tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_bsut-pos-ADV.html">ADV</a></tt> (4; 1% instances), <tt><a href="hy_bsut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hy_bsut-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="hy_bsut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hy_bsut-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="hy_bsut-pos-ADP.html">ADP</a></tt>-<tt><a href="hy_bsut-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="hy_bsut-pos-ADV.html">ADV</a></tt>-<tt><a href="hy_bsut-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_bsut-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="hy_bsut-pos-NUM.html">NUM</a></tt>-<tt><a href="hy_bsut-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_bsut-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_bsut-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -29,7 +29,7 @@ The following 11 pairs of parts of speech are connected with `mark`: <tt><a href
 5	գալիս	գալ	VERB	_	Aspect=Imp|Subcat=Intr|VerbForm=Part|Voice=Mid	2	acl	_	Translit=galis|LTranslit=gal
 6	են	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	5	aux	_	Translit=en|LTranslit=em
 7	մտքիս	միտք	NOUN	_	Animacy=Nhum|Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=1	5	compound:lvc	_	Translit=mtk’is|LTranslit=mitk’|SpaceAfter=No
-8	.	․	PUNCT	_	_	2	punct	_	Translit=.|LTranslit=․
+8	.	.	PUNCT	_	Foreign=Yes	2	punct	_	Translit=.|LTranslit=.
 
 ~~~
 
@@ -42,7 +42,7 @@ The following 11 pairs of parts of speech are connected with `mark`: <tt><a href
 # visual-style 9 6 mark	color:blue
 1	Որովհետև	որովհետև	SCONJ	_	_	4	mark	_	Translit=Orovhetew|LTranslit=orovhetew
 2	երկրի	երկիր	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	4	obl	_	Translit=erkri|LTranslit=erkir
-3	ներսում	ներս	NOUN	_	Animacy=Nhum|Case=Loc|Definite=Ind|Number=Coll	2	case	_	Translit=nersowm|LTranslit=ners
+3	ներսում	ներս	NOUN	_	Animacy=Nhum|Case=Loc|Definite=Ind|Number=Sing	2	case	_	Translit=nersowm|LTranslit=ners
 4	ապացուցեցինք	ապացուցել	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Subcat=Tran|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=apac’owc’ec’ink’|LTranslit=apac’owc’el|SpaceAfter=No
 5	,	,	PUNCT	_	_	9	punct	_	Translit=,|LTranslit=,
 6	որ	որ	SCONJ	_	_	9	mark	_	Translit=or|LTranslit=or

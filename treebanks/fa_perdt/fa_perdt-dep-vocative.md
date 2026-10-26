@@ -22,20 +22,20 @@ The following 14 pairs of parts of speech are connected with `vocative`: <tt><a 
 # visual-style 13	bgColor:blue
 # visual-style 13	fgColor:white
 # visual-style 13 2 vocative	color:blue
-1	ای	ای	INTJ	ADR_PRADR	_	2	case	_	_
-2	گروه	گروه	NOUN	N_IANM	Number=Sing	13	vocative	_	_
-3	جن	جن	NOUN	N_IANM	Number=Sing	2	nmod	_	_
-4	و	و	CCONJ	CONJ	_	5	cc	_	_
-5	انس	انس	NOUN	N_IANM	Number=Sing	3	conj	_	_
-6	اگر	اگر	SCONJ	SUBR	_	7	mark	_	_
-7	می‌توانید	توانست	VERB	V_ACT	Number=Plur|Person=2|Tense=Pres|Voice=Act	13	advcl	_	OrigLemma=توانست#توان
-8	در	در	ADP	PREP	_	9	case	_	_
-9	اطراف	طرف	NOUN	N_IANM	Number=Plur	13	obl	_	_
-10	زمین	زمین	PROPN	N_IANM	Number=Sing	9	nmod	_	_
-11	و	و	CCONJ	CONJ	_	12	cc	_	_
-12	آسمان‌ها	آسمان	NOUN	N_IANM	Number=Plur	10	conj	_	_
-13	برشوید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|Voice=Act	0	root	_	OrigLemma=بر#کرد|SpaceAfter=No
-14	.	.	PUNCT	PUNC	_	13	punct	_	_
+1	ای	ای	INTJ	ADR_PRADR	_	2	case	_	LTranslit=āī|Translit=āī
+2	گروه	گروه	NOUN	N_IANM	Number=Sing	13	vocative	_	LTranslit=grūh|Translit=grūh
+3	جن	جن	NOUN	N_IANM	Number=Sing	2	nmod	_	LTranslit=jn|Translit=jn
+4	و	و	CCONJ	CONJ	_	5	cc	_	LTranslit=ū|Translit=ū
+5	انس	انس	NOUN	N_IANM	Number=Sing	3	conj	_	LTranslit=āns|Translit=āns
+6	اگر	اگر	SCONJ	SUBR	_	7	mark	_	LTranslit=āgr|Translit=āgr
+7	می‌توانید	توانست	VERB	V_ACT	Number=Plur|Person=2|Tense=Pres|Voice=Act	13	advcl	_	LTranslit=tūānst|OrigLemma=توانست#توان|Translit=mītūānīd
+8	در	در	ADP	PREP	_	9	case	_	LTranslit=dr|Translit=dr
+9	اطراف	طرف	NOUN	N_IANM	Number=Plur	13	obl	_	LTranslit=ṭrf|Translit=āṭrāf
+10	زمین	زمین	PROPN	N_IANM	Number=Sing	9	nmod	_	LTranslit=zmīn|Translit=zmīn
+11	و	و	CCONJ	CONJ	_	12	cc	_	LTranslit=ū|Translit=ū
+12	آسمان‌ها	آسمان	NOUN	N_IANM	Number=Plur	10	conj	_	LTranslit=Āsmān|Translit=Āsmānhā
+13	برشوید	کرد	VERB	V_ACT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=بر#کرد|SpaceAfter=No|Translit=bršūīd
+14	.	.	PUNCT	PUNC	_	13	punct	_	LTranslit=.|Translit=.
 
 ~~~
 
@@ -46,19 +46,19 @@ The following 14 pairs of parts of speech are connected with `vocative`: <tt><a 
 # visual-style 12	bgColor:blue
 # visual-style 12	fgColor:white
 # visual-style 12 1 vocative	color:blue
-1	وای	وای	INTJ	PSUS	_	12	vocative	_	_
-2	به	به	ADP	PREP	_	3	case	_	_
-3	حال	حال	NOUN	N_IANM	Number=Sing	1	obl	_	_
-4	شما	شما	PRON	PR_SEPER	Number=Plur|Person=2	3	nmod	_	_
-5	که	که	SCONJ	SUBR	_	7	mark	_	_
-6	اکنون	اکنون	NOUN	N_IANM	Number=Sing	7	obl	_	_
-7	می‌خندید	خندید	VERB	V_ACT	Number=Sing|Person=3|Voice=Act	4	acl	_	OrigLemma=خندید#خند|SpaceAfter=No
-8	،	،	PUNCT	PUNC	_	7	punct	_	_
-9	شما	شما	PRON	PR_SEPER	Number=Plur|Person=2	12	nsubj	_	_
-10	ماتم	ماتم	NOUN	N_IANM	Number=Sing	12	compound:lvc	_	_
-11	خواهید	خواست	AUX	AUX	Number=Plur|Person=2|Tense=Fut|VerbForm=Fin	12	aux	_	OrigLemma=خواست#خواه
-12	گرفت	گرفت	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	OrigLemma=گرفت#گیر|SpaceAfter=No
-13	.	.	PUNCT	PUNC	_	12	punct	_	_
+1	وای	وای	INTJ	PSUS	_	12	vocative	_	LTranslit=ūāī|Translit=ūāī
+2	به	به	ADP	PREP	_	3	case	_	LTranslit=bh|Translit=bh
+3	حال	حال	NOUN	N_IANM	Number=Sing	1	obl	_	LTranslit=ḥāl|Translit=ḥāl
+4	شما	شما	PRON	PR_SEPER	Number=Plur|Person=2|PronType=Prs	3	nmod	_	LTranslit=šmā|Translit=šmā
+5	که	که	SCONJ	SUBR	_	7	mark	_	LTranslit=kh|Translit=kh
+6	اکنون	اکنون	NOUN	N_IANM	Number=Sing	7	obl	_	LTranslit=āknūn|Translit=āknūn
+7	می‌خندید	خندید	VERB	V_ACT	Number=Sing|Person=3|Voice=Act	4	acl	_	LTranslit=ḫndīd|OrigLemma=خندید#خند|SpaceAfter=No|Translit=mīḫndīd
+8	،	،	PUNCT	PUNC	_	7	punct	_	LTranslit=,|Translit=,
+9	شما	شما	PRON	PR_SEPER	Number=Plur|Person=2|PronType=Prs	12	nsubj	_	LTranslit=šmā|Translit=šmā
+10	ماتم	ماتم	NOUN	N_IANM	Number=Sing	12	compound:lvc	_	LTranslit=mātm|Translit=mātm
+11	خواهید	خواست	AUX	AUX	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin	12	aux	_	LTranslit=ḫūāst|OrigLemma=خواست#خواه|Translit=ḫūāhīd
+12	گرفت	گرفت	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	LTranslit=grft|OrigLemma=گرفت#گیر|SpaceAfter=No|Translit=grft
+13	.	.	PUNCT	PUNC	_	12	punct	_	LTranslit=.|Translit=.
 
 ~~~
 
@@ -69,20 +69,20 @@ The following 14 pairs of parts of speech are connected with `vocative`: <tt><a 
 # visual-style 13	bgColor:blue
 # visual-style 13	fgColor:white
 # visual-style 13 2 vocative	color:blue
-1	ای	ای	INTJ	ADR_PRADR	_	2	case	_	_
-2	محمد	محمد	PROPN	N_ANM	Number=Sing	13	vocative	_	SpaceAfter=No
-3	،	،	PUNCT	PUNC	_	2	punct	_	_
-4	اگر	اگر	SCONJ	SUBR	_	7	mark	_	_
-5	تو	تو	PRON	PR_SEPER	Number=Sing|Person=2	7	obj	_	_
-6	را	را	ADP	POSTP	_	5	case	_	_
-7	نمی‌آفریدم	آفرید	VERB	V_ACT	Number=Sing|Person=1|Polarity=Neg|Voice=Act	13	advcl	_	OrigLemma=آفرید#آفرین|SpaceAfter=No
-8	،	،	PUNCT	PUNC	_	7	punct	_	_
-9	کل	کل	NOUN	N_IANM	Number=Sing	13	obj	_	_
-10	مخلوقات	مخلوق	NOUN	N_IANM	Number=Plur	9	nmod	_	_
-11	را	را	ADP	POSTP	_	9	case	_	_
-12	نیز	نیز	ADV	ADV_SADV	_	10	dep	_	_
-13	نمی‌آفریدم	آفرید	VERB	V_ACT	Number=Sing|Person=1|Polarity=Neg|Voice=Act	0	root	_	OrigLemma=آفرید#آفرین|SpaceAfter=No
-14	.	.	PUNCT	PUNC	_	13	punct	_	_
+1	ای	ای	INTJ	ADR_PRADR	_	2	case	_	LTranslit=āī|Translit=āī
+2	محمد	محمد	PROPN	N_ANM	Number=Sing	13	vocative	_	LTranslit=mḥmd|SpaceAfter=No|Translit=mḥmd
+3	،	،	PUNCT	PUNC	_	2	punct	_	LTranslit=,|Translit=,
+4	اگر	اگر	SCONJ	SUBR	_	7	mark	_	LTranslit=āgr|Translit=āgr
+5	تو	تو	PRON	PR_SEPER	Number=Sing|Person=2|PronType=Prs	7	obj	_	LTranslit=tū|Translit=tū
+6	را	را	ADP	POSTP	_	5	case	_	LTranslit=rā|Translit=rā
+7	نمی‌آفریدم	آفرید	VERB	V_ACT	Number=Sing|Person=1|Polarity=Neg|Voice=Act	13	advcl	_	LTranslit=Āfrīd|OrigLemma=آفرید#آفرین|SpaceAfter=No|Translit=nmīĀfrīdm
+8	،	،	PUNCT	PUNC	_	7	punct	_	LTranslit=,|Translit=,
+9	کل	کل	NOUN	N_IANM	Number=Sing	13	obj	_	LTranslit=kl|Translit=kl
+10	مخلوقات	مخلوق	NOUN	N_IANM	Number=Plur	9	nmod	_	LTranslit=mḫlūq|Translit=mḫlūqāt
+11	را	را	ADP	POSTP	_	9	case	_	LTranslit=rā|Translit=rā
+12	نیز	نیز	ADV	ADV_SADV	_	10	dep	_	LTranslit=nīz|Translit=nīz
+13	نمی‌آفریدم	آفرید	VERB	V_ACT	Number=Sing|Person=1|Polarity=Neg|Voice=Act	0	root	_	LTranslit=Āfrīd|OrigLemma=آفرید#آفرین|SpaceAfter=No|Translit=nmīĀfrīdm
+14	.	.	PUNCT	PUNC	_	13	punct	_	LTranslit=.|Translit=.
 
 ~~~
 

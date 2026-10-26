@@ -43,7 +43,7 @@ The following 5 pairs of parts of speech are connected with `xcomp`: <tt><a href
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 10 xcomp	color:blue
-1	Tuo	tuo	SCONJ	UH	_	5	advmod	_	En=meanwhile
+1	Tuo	tuo	SCONJ	UH	ExtPos=ADV	5	advmod	_	En=meanwhile
 2	tarpu	tarpu	SCONJ	UH	_	1	fixed	_	En=while
 3	nepriklausomybė	nepriklausomybė	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Polarity=Neg	5	nsubj	_	En=independence
 4	nėra	būti	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	En=be

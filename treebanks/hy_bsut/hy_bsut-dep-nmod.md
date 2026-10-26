@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 2 language-specific subtypes of `nmod`: <tt><a href="hy_bsut-dep-nmod-npmod.html">nmod:npmod</a></tt>, <tt><a href="hy_bsut-dep-nmod-poss.html">nmod:poss</a></tt>.
 
-667 nodes (2%) are attached to their parents as `nmod`.
+707 nodes (2%) are attached to their parents as `nmod`.
 
-643 instances of `nmod` (96%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.20989505247376.
+661 instances of `nmod` (93%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.15841584158416.
 
-The following 13 pairs of parts of speech are connected with `nmod`: <tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt> (354; 53% instances), <tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_bsut-pos-PROPN.html">PROPN</a></tt> (150; 22% instances), <tt><a href="hy_bsut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt> (118; 18% instances), <tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_bsut-pos-SYM.html">SYM</a></tt> (18; 3% instances), <tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_bsut-pos-X.html">X</a></tt> (13; 2% instances), <tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt> (6; 1% instances), <tt><a href="hy_bsut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hy_bsut-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="hy_bsut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_bsut-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_bsut-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="hy_bsut-pos-NUM.html">NUM</a></tt>-<tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="hy_bsut-pos-SYM.html">SYM</a></tt>-<tt><a href="hy_bsut-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+The following 17 pairs of parts of speech are connected with `nmod`: <tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt> (350; 50% instances), <tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_bsut-pos-PROPN.html">PROPN</a></tt> (159; 22% instances), <tt><a href="hy_bsut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt> (120; 17% instances), <tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_bsut-pos-NUM.html">NUM</a></tt> (26; 4% instances), <tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_bsut-pos-SYM.html">SYM</a></tt> (18; 3% instances), <tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_bsut-pos-X.html">X</a></tt> (14; 2% instances), <tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt> (7; 1% instances), <tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_bsut-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="hy_bsut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hy_bsut-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="hy_bsut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="hy_bsut-pos-NUM.html">NUM</a></tt>-<tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="hy_bsut-pos-PRON.html">PRON</a></tt>-<tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="hy_bsut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hy_bsut-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="hy_bsut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hy_bsut-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="hy_bsut-pos-SYM.html">SYM</a></tt>-<tt><a href="hy_bsut-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="hy_bsut-pos-X.html">X</a></tt>-<tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -42,8 +42,8 @@ The following 13 pairs of parts of speech are connected with `nmod`: <tt><a href
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 8 nmod	color:blue
-1	Եվ	և	CCONJ	_	_	2	cc	_	Translit=Ev|LTranslit=ew
-2	այսպես	այսպես	ADV	_	Deixis=Prox|PronType=Dem	7	parataxis	_	Translit=ayspes|LTranslit=ayspes|SpaceAfter=No
+1	Եվ	և	CCONJ	_	ExtPos=PART	7	parataxis	_	Translit=Ev|LTranslit=ew
+2	այսպես	այսպես	ADV	_	Deixis=Prox|PronType=Dem	1	fixed	_	Translit=ayspes|LTranslit=ayspes|SpaceAfter=No
 3	,	,	PUNCT	_	_	7	punct	_	Translit=,|LTranslit=,
 4	ինչ	ինչ	PRON	_	Case=Nom|Definite=Ind|Number=Sing|PronType=Int	7	obj	_	Translit=inč|LTranslit=inč
 5	՞	՞	PUNCT	_	_	4	punct	_	Translit=?|LTranslit=?
@@ -70,7 +70,7 @@ The following 13 pairs of parts of speech are connected with `nmod`: <tt><a href
 5	Ջիվան	Ջիվան	PROPN	_	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Giv|Number=Sing	0	root	_	Translit=J̌ivan|LTranslit=J̌ivan
 6	Տեր	տեր	NOUN	_	Animacy=Hum|Case=Nom|Definite=Ind|Number=Sing	5	flat:name	_	Translit=Ter|LTranslit=ter|SpaceAfter=No
 7	-	-	PUNCT	_	_	8	punct	_	Translit=-|LTranslit=-|SpaceAfter=No
-8	Թադևոսյան	Թադևոսյան	PROPN	_	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Sur|Number=Sing	5	flat:name	_	Translit=T’adewosyan|LTranslit=T’adewosyan|SpaceAfter=No
+8	Թադևոսյան	Թադևոսյան	PROPN	_	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Sur|Number=Sing	6	flat:name	_	Translit=T’adewosyan|LTranslit=T’adewosyan|SpaceAfter=No
 9	…	…	PUNCT	_	_	5	punct	_	Translit=…|LTranslit=…
 
 ~~~

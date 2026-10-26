@@ -177,7 +177,7 @@ The following 4 pairs of parts of speech are connected with `goeswith`: <tt><a h
 7	за	за	ADP	IN	_	8	case	_	wf="за"
 8	злѣ	зло	NOUN	NNI	Case=Loc|Gender=Neut|Number=Sing	10	obl	_	wf="злѣ"
 9	не	не	PART	NEG	Polarity=Neg	10	advmod	_	wf="не"
-10	мѣите	мети	VERB	VBC	Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	0	root	_	wf="мѣите"|SpaceAfter=No
+10	мѣите	мети	VERB	VBC	Aspect=Imp|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	0	root	_	wf="мѣите"|SpaceAfter=No
 11	,	,	PUNCT	-COMMA-	_	10	punct	_	_
 12	ижь	иже	SCONJ	IN	_	20	mark	_	wf="ижь"
 13	есте	быти	AUX	VBC	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	16	cop	_	wf="есте"

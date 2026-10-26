@@ -11,13 +11,11 @@ udver: '2'
 * Words are delimited by whitespace characters
 * According to typographical rules, many punctuation marks are attached to a neighboring word. They are given as separate tokens (words);
 
----
-
 ## Morphology
 
 ### Tags
 
-* Karo uses all 18 universal POS categories. 
+* Karo uses all 18 universal POS categories.
 
 Mapping UPOS to XPOS Karo
 
@@ -41,8 +39,6 @@ Mapping UPOS to XPOS Karo
  SYM   | sym      |
  X     | x        |
 
----
-
 
 ### Nominal Features
 
@@ -50,7 +46,7 @@ Mapping UPOS to XPOS Karo
 * Nous can take the following [Cases](https://universaldependencies.org/u/feat/Case.html): `?`, `?`, `?`, `?`, `?`.
 * [PRON](https://universaldependencies.org/u/pos/PRON.html), are marked for [Gender](https://universaldependencies.org/u/feat/Gender.html) only in. .
 * Personal Pronouns and Person Markers distinguish [Number](https://universaldependencies.org/u/feat/Number.html)(Singular or Plural). They also distinguish [Clusivity](https://universaldependencies.org/u/feat/Clusivity.html) in the 1<sup>st</sup> person plural.
-* The relational markers `Rel`, which indicate contiguity or non-contiguity between a head and its dependent, take respectively the following features: `Rel=Cont` and `Rel=NCont`. A third type or relational indicates that a possessor is not present, neither contiguously or non-contiguously. This relational is tagged `Rel=Abs`, for absolute. The reflexive/correferential morpheme _o_. which is often referred to as 'relational<sub>3</sub>' is associated with the feature-value `Reflex=Yes`. 
+* The relational markers `Rel`, which indicate contiguity or non-contiguity between a head and its dependent, take respectively the following features: `Rel=Cont` and `Rel=NCont`. A third type or relational indicates that a possessor is not present, neither contiguously or non-contiguously. This relational is tagged `Rel=Abs`, for absolute. The reflexive/correferential morpheme _o_. which is often referred to as 'relational<sub>3</sub>' is associated with the feature-value `Reflex=Yes`.
 * Tupinambá is reach in nominalizations. Lexical roots can be nominalized by suffixes that receive the following features: nominalizatin of circusntance `Nomzr=Circ` (*-saβ* 'thing, way of VERB'), passive nominalization `Nomzr=Pas`, deverbal passive nominalization `Nomzr=DevPass` (*-pɨr* 'one that is VERB past participle'), `Nomzr=Ag`(*-sar* 'the VERB-_er_').
 * Nouns may also be reduplicated in both ways denoting: plurality, collectivity, superlativity, and other semantic nuances. Numerals may also be reduplicated in order to indicate distribution.
 * Nouns are also marked for tense.
@@ -64,9 +60,8 @@ Mapping UPOS to XPOS Karo
 * The lexical root in the *gerund* [(VerbForm=Ger)](https://universaldependencies.org/u/feat/VerbForm.html) is marked as VERB even when combining with a relational.
 * Verbs are marked for [aspect](https://github.com/UniversalDependencies/docs/blob/pages-source/_tpn/feat/Aspect.md): `Compl` (completive), `Iter` (Iterative), `Suc` Successive.
 * Verbs are also marked for [mood](https://github.com/UniversalDependencies/docs/blob/pages-source/_tpn/feat/Mood.md): `Perm` (permissive).
-* Lexical roots may be [reduplicated](https://github.com/UniversalDependencies/docs/blob/pages-source/_tpn/feat/Red.md) in two differentways: 
-monosylabic reduplication (`Red=Mo`), disylabic reduplication (`Red=Di`). The modify the aspect of the verb in different ways: disylabic reduplication indicate the repetition or duration of an action; monosylabic reduplication indicates iteration of the action. 
----
+* Lexical roots may be [reduplicated](https://github.com/UniversalDependencies/docs/blob/pages-source/_tpn/feat/Red.md) in two differentways:
+monosylabic reduplication (`Red=Mo`), disylabic reduplication (`Red=Di`). The modify the aspect of the verb in different ways: disylabic reduplication indicate the repetition or duration of an action; monosylabic reduplication indicates iteration of the action.
 
 ## Syntax
 
@@ -78,19 +73,8 @@ monosylabic reduplication (`Red=Mo`), disylabic reduplication (`Red=Di`). The mo
 information questions.
 
 
-
-
-
 ## Treebanks
 
-There are [N](../treebanks/gub-comparison.html) Karo UD treebanks:
+There is 1 Karo UD treebank:
 
-  * [Karo-A](../treebanks/arr_a/index.html)
-  * [Karo-B](../treebanks/arr_b/index.html)
-
----
-**Instruction**: Treebank-specific pages are generated automatically from the README file in the treebank repository and
-from the data in the latest release. Link to the respective `*-index.html` page in the `treebanks` folder, using the language code
-and the treebank code in the file name.
-
----
+  * [Karo-TuDeT](../treebanks/arr_tudet/index.html)

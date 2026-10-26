@@ -26,7 +26,7 @@ The following 5 pairs of parts of speech are connected with `aux`: <tt><a href="
 2	ei	ei	AUX	_	Number=Sing|Person=3|Polarity=Neg	4	aux	_	_
 3	sand	sada	AUX	_	Connegative=Yes|Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	4	aux	_	_
 4	pagišta	pagišta	VERB	_	VerbForm=Inf	0	root	_	_
-5	sil	sid'	ADV	_	_	4	advmod	_	_
+5	sil	sidʼ	ADV	_	_	4	advmod	_	_
 6	.	.	PUNCT	_	_	4	punct	_	_
 
 ~~~

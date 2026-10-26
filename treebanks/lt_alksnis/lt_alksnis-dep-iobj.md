@@ -8,54 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-4 nodes (0%) are attached to their parents as `iobj`.
+6 nodes (0%) are attached to their parents as `iobj`.
 
-3 instances of `iobj` (75%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.5.
+5 instances of `iobj` (83%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.33333333333333.
 
-The following 3 pairs of parts of speech are connected with `iobj`: <tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt>-<tt><a href="lt_alksnis-pos-PRON.html">PRON</a></tt> (2; 50% instances), <tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt>-<tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt> (1; 25% instances), <tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt>-<tt><a href="lt_alksnis-pos-PROPN.html">PROPN</a></tt> (1; 25% instances).
-
-
-~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 3 iobj	color:blue
-1	Žmonės	žmogus	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	2	nsubj	2:nsubj	_
-2	kaišiodavo	kaišioti	VERB	vksm.asm.tiesiog.būt-d.dgs.3.	Aspect=Hab|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	0	root	0:root	_
-3	vieni	vienas	PRON	sampl.įv.vyr.dgs.V.	Case=Nom|Definite=Ind|Gender=Masc|Hyph=Yes|Number=Plur|PronType=Ind	2	iobj	2:iobj	_
-4	kitiems	kitas	PRON	tęs.įv.vyr.dgs.N.	Case=Dat|Definite=Ind|Gender=Masc|Hyph=Yes|Number=Plur|PronType=Ind	3	nmod	3:nmod:dat	_
-5	nuotraukas	nuotrauka	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	2	obj	2:obj	_
-6	su	su	ADP	prl.Įn.	AdpType=Prep|Case=Ins	8	case	8:case	_
-7	skraidančiomis	skraidyti	VERB	vksm.dlv.veik.es.mot.dgs.Įn.	Case=Ins|Definite=Ind|Gender=Fem|Number=Plur|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act	8	acl	8:acl	_
-8	lėkštėmis	lėkštė	NOUN	dkt.mot.dgs.Įn.	Case=Ins|Gender=Fem|Number=Plur	5	obl:arg	5:obl:arg:su:ins	SpaceAfter=No
-9	,	,	PUNCT	skyr.	_	10	punct	10:punct	_
-10	pasakodavo	pasakoti	VERB	vksm.asm.tiesiog.būt-d.dgs.3.	Aspect=Hab|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	2	conj	0:root|2:conj	SpaceAfter=No
-11	,	,	PUNCT	skyr.	_	14	punct	14:punct	_
-12	kad	kad	SCONJ	jng.	_	14	mark	14:mark	_
-13	buvo	būti	AUX	vksm.asm.tiesiog.būt-k.dgs.3.	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	14	cop	14:cop	_
-14	pagrobti	pagrobti	VERB	vksm.dlv.neveik.būt.vyr.dgs.V.	Case=Nom|Definite=Ind|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Pass	10	ccomp	10:ccomp	SpaceAfter=No
-15	,	,	PUNCT	skyr.	_	18	punct	18:punct	_
-16	kad	kad	SCONJ	jng.	_	18	mark	18:mark	_
-17	jiems	jis	PRON	įv.vyr.dgs.N.	Case=Dat|Definite=Ind|Gender=Masc|Number=Plur|Person=3|PronType=Prs	18	obl:arg	18:obl:arg:dat	_
-18	pavyko	pavykti	VERB	vksm.asm.tiesiog.būt-k.3.	Aspect=Perf|Mood=Ind|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	14	conj	10:ccomp|14:conj	_
-19	užmegzti	užmegzti	VERB	vksm.bndr.	Polarity=Pos|VerbForm=Inf	18	xcomp	18:xcomp	_
-20	kontaktus	kontaktas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	19	obj	19:obj	_
-21	su	su	ADP	prl.Įn.	AdpType=Prep|Case=Ins	23	case	23:case	_
-22	nežemiškomis	nežemiškas	ADJ	bdv.nelygin.mot.dgs.Įn.	Case=Ins|Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	23	amod	23:amod	_
-23	būtybėmis	būtybė	NOUN	dkt.mot.dgs.Įn.	Case=Ins|Gender=Fem|Number=Plur	20	obl:arg	20:obl:arg:su:ins	SpaceAfter=No
-24	,	,	PUNCT	skyr.	_	26	punct	26:punct	_
-25	o	o	CCONJ	jng.	_	26	cc	26:cc	_
-26	kartais	kartais	ADV	prv.nelygin.	Degree=Pos	2	conj	0:root|2:conj	_
-27	–	–	PUNCT	skyr.	_	31	punct	31:punct	_
-28	kad	kad	SCONJ	jng.	_	31	mark	31:mark	_
-29	jie	jis	PRON	įv.vyr.dgs.V.	Case=Nom|Definite=Ind|Gender=Masc|Number=Plur|Person=3|PronType=Prs	31	nsubj	31:nsubj	_
-30	patys	pats	DET	įv.vyr.dgs.V.	Case=Nom|Definite=Ind|Gender=Masc|Number=Plur|PronType=Emp	29	det	29:det	_
-31	ateiviai	ateivis	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	26	appos	26:appos	SpaceAfter=No
-32	.	.	PUNCT	skyr.	_	2	punct	2:punct	_
-
-~~~
+The following 3 pairs of parts of speech are connected with `iobj`: <tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt>-<tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt> (3; 50% instances), <tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt>-<tt><a href="lt_alksnis-pos-PRON.html">PRON</a></tt> (2; 33% instances), <tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt>-<tt><a href="lt_alksnis-pos-PROPN.html">PROPN</a></tt> (1; 17% instances).
 
 
 ~~~ conllu
@@ -85,6 +43,48 @@ The following 3 pairs of parts of speech are connected with `iobj`: <tt><a href=
 
 
 ~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 3 iobj	color:blue
+1	Žmonės	žmogus	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	2	nsubj	2:nsubj	_
+2	kaišiodavo	kaišioti	VERB	vksm.asm.tiesiog.būt-d.dgs.3.	Aspect=Hab|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	0	root	0:root	_
+3	vieni	vienas	PRON	sampl.įv.vyr.dgs.V.	Case=Nom|Definite=Ind|Gender=Masc|Hyph=Yes|Number=Plur|PronType=Ind	2	iobj	2:iobj	_
+4	kitiems	kitas	PRON	tęs.įv.vyr.dgs.N.	Case=Dat|Definite=Ind|Gender=Masc|Hyph=Yes|Number=Plur|PronType=Ind	3	nmod	3:nmod:dat	_
+5	nuotraukas	nuotrauka	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	2	obj	2:obj	_
+6	su	su	ADP	prl.Įn.	AdpType=Prep|Case=Ins	8	case	8:case	_
+7	skraidančiomis	skraidyti	VERB	vksm.dlv.veik.es.mot.dgs.Įn.	Case=Ins|Definite=Ind|Gender=Fem|Number=Plur|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act	8	acl	8:acl	_
+8	lėkštėmis	lėkštė	NOUN	dkt.mot.dgs.Įn.	Case=Ins|Gender=Fem|Number=Plur	5	nmod	5:nmod:su:ins	SpaceAfter=No
+9	,	,	PUNCT	skyr.	_	10	punct	10:punct	_
+10	pasakodavo	pasakoti	VERB	vksm.asm.tiesiog.būt-d.dgs.3.	Aspect=Hab|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	2	conj	0:root|2:conj	SpaceAfter=No
+11	,	,	PUNCT	skyr.	_	14	punct	14:punct	_
+12	kad	kad	SCONJ	jng.	_	14	mark	14:mark	_
+13	buvo	būti	AUX	vksm.asm.tiesiog.būt-k.dgs.3.	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	14	cop	14:cop	_
+14	pagrobti	pagrobti	VERB	vksm.dlv.neveik.būt.vyr.dgs.V.	Case=Nom|Definite=Ind|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Pass	10	ccomp	10:ccomp	SpaceAfter=No
+15	,	,	PUNCT	skyr.	_	18	punct	18:punct	_
+16	kad	kad	SCONJ	jng.	_	18	mark	18:mark	_
+17	jiems	jis	PRON	įv.vyr.dgs.N.	Case=Dat|Definite=Ind|Gender=Masc|Number=Plur|Person=3|PronType=Prs	18	obl:arg	18:obl:arg:dat	_
+18	pavyko	pavykti	VERB	vksm.asm.tiesiog.būt-k.3.	Aspect=Perf|Mood=Ind|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	14	conj	10:ccomp|14:conj	_
+19	užmegzti	užmegzti	VERB	vksm.bndr.	Polarity=Pos|VerbForm=Inf	18	xcomp	18:xcomp	_
+20	kontaktus	kontaktas	NOUN	dkt.vyr.dgs.G.	Case=Acc|Gender=Masc|Number=Plur	19	obj	19:obj	_
+21	su	su	ADP	prl.Įn.	AdpType=Prep|Case=Ins	23	case	23:case	_
+22	nežemiškomis	nežemiškas	ADJ	bdv.nelygin.mot.dgs.Įn.	Case=Ins|Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	23	amod	23:amod	_
+23	būtybėmis	būtybė	NOUN	dkt.mot.dgs.Įn.	Case=Ins|Gender=Fem|Number=Plur	20	nmod	20:nmod:su:ins	SpaceAfter=No
+24	,	,	PUNCT	skyr.	_	26	punct	26:punct	_
+25	o	o	CCONJ	jng.	_	26	cc	26:cc	_
+26	kartais	kartais	ADV	prv.nelygin.	Degree=Pos	2	conj	0:root|2:conj	_
+27	–	–	PUNCT	skyr.	_	31	punct	31:punct	_
+28	kad	kad	SCONJ	jng.	_	31	mark	31:mark	_
+29	jie	jis	PRON	įv.vyr.dgs.V.	Case=Nom|Definite=Ind|Gender=Masc|Number=Plur|Person=3|PronType=Prs	31	nsubj	31:nsubj	_
+30	patys	pats	DET	įv.vyr.dgs.V.	Case=Nom|Definite=Ind|Gender=Masc|Number=Plur|PronType=Emp	29	det	29:det	_
+31	ateiviai	ateivis	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	26	appos	26:appos	SpaceAfter=No
+32	.	.	PUNCT	skyr.	_	2	punct	2:punct	_
+
+~~~
+
+
+~~~ conllu
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 7	bgColor:blue
@@ -107,7 +107,7 @@ The following 3 pairs of parts of speech are connected with `iobj`: <tt><a href=
 15	siekia	siekti	VERB	vksm.asm.tiesiog.es.vns.3.	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	7	ccomp	7:ccomp	_
 16	sužlugdyti	sužlugdyti	VERB	vksm.bndr.	Polarity=Pos|VerbForm=Inf	15	xcomp	15:xcomp	_
 17	nacionalinio	nacionalinis	ADJ	bdv.nelygin.vyr.vns.K.	Case=Gen|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	18	amod	18:amod	_
-18	investuotojo	investuotojas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	19	obl:arg	19:obl:arg:gen	_
+18	investuotojo	investuotojas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	19	nmod	19:nmod:gen	_
 19	formavimą	formavimas	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	16	obj	16:obj	SpaceAfter=No
 20	,	,	PUNCT	skyr.	_	21	punct	21:punct	_
 21	pasklido	pasklisti	VERB	vksm.asm.tiesiog.būt-k.dgs.3.	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	7	conj	0:root|7:conj	_

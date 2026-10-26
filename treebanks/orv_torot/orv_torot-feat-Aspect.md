@@ -63,7 +63,7 @@ The most frequent other feature values with which `AUX` and `Aspect` co-occurred
 ## Relations with Agreement in `Aspect`
 
 The 10 most frequent relations where parent and child node agree in `Aspect`:
-<tt>VERB --[<tt><a href="orv_torot-dep-conj.html">conj</a></tt>]--> VERB</tt> (995; 56%),
+<tt>VERB --[<tt><a href="orv_torot-dep-conj.html">conj</a></tt>]--> VERB</tt> (996; 56%),
 <tt>VERB --[<tt><a href="orv_torot-dep-conj.html">conj</a></tt>]--> AUX</tt> (6; 75%),
 <tt>VERB --[<tt><a href="orv_torot-dep-fixed.html">fixed</a></tt>]--> VERB</tt> (5; 100%),
 <tt>AUX --[<tt><a href="orv_torot-dep-dislocated.html">dislocated</a></tt>]--> AUX</tt> (1; 100%).

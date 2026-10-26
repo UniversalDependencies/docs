@@ -27,7 +27,7 @@ Note that what is considered to be transparent linguistic syntax (as opposed to 
 (E.g., some treebanks might provide proper grammatical analyses in the presence of code-switching,
 or treat mathematical notation as following linguistic strategies like predication.)
 
-Some languages opt to subcategorize usages of `flat` [via subtypes](https://universaldependencies.org/ext-dep-index.html#flat).
+Some languages opt to subcategorize usages of `flat` [via subtypes](/survey-deprel.html#flat).
 In particular, many treebanks use the `flat:name` and `flat:foreign` subtypes converted from the v1 relations `name` and `foreign`.
 The examples on this page simply use plain `flat`.
 
@@ -364,4 +364,4 @@ Not all “unnecessary” spaces warrant `flat`, however:
 - numerals with thousands separator spaces (e.g. _1 000 000_) [may be treated as single words](/u/overview/tokenization.html) in languages where this convention is widespread
 
 
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:55 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:09 CEST -->

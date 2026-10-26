@@ -38,7 +38,7 @@ The following 11 pairs of parts of speech are connected with `ccomp:speech`: <tt
 14	duas	dois	NUM	_	Gender=Fem|NumType=Card	15	nummod	15:nummod	_
 15	vezes	vez	NOUN	_	Gender=Fem|Number=Plur	13	obl	13:obl	SpaceAfter=No
 16	"	"	PUNCT	_	_	13	punct	13:punct	SpaceAfter=No
-17	.	.	PUNCT	_	_	10	punct	10:punct	SpaceAfter=No
+17	.	.	PUNCT	_	_	10	punct	10:punct	_
 
 ~~~
 
@@ -61,7 +61,7 @@ The following 11 pairs of parts of speech are connected with `ccomp:speech`: <tt
 10	!	!	PUNCT	_	_	5	punct	5:punct	SpaceAfter=No
 11	,	,	PUNCT	_	_	5	punct	5:punct	_
 12	declarou	declarar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	SpaceAfter=No
-13	.	.	PUNCT	_	_	12	punct	12:punct	SpaceAfter=No
+13	.	.	PUNCT	_	_	12	punct	12:punct	_
 
 ~~~
 
@@ -78,7 +78,7 @@ The following 11 pairs of parts of speech are connected with `ccomp:speech`: <tt
 4	desabafa	desabafar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 5	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	6:det	_
 6	sobrinha	sobrinho	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	4:nsubj	SpaceAfter=No
-7	.	.	PUNCT	_	_	4	punct	4:punct	SpaceAfter=No
+7	.	.	PUNCT	_	_	4	punct	4:punct	_
 
 ~~~
 

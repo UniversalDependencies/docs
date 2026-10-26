@@ -75,7 +75,7 @@ The following 8 pairs of parts of speech are connected with `dep`: <tt><a href="
 8	još	još	ADV	Rgp	Degree=Pos	9	advmod	_	_
 9	jedan	jedan	NUM	Mlcmsn	Case=Nom|Gender=Masc|Number=Sing|NumType=Card	12	nummod:gov	_	_
 10	od	od	ADP	Sg	Case=Gen	12	case	_	_
-11	njegovih	njegov	DET	Ps3mpg	Case=Gen|Gender=Masc|Gender[psor]=Masc,Neut|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	12	det	_	_
+11	njegovih	njegov	DET	Ps3mpg	Case=Gen|Gender=Masc|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	12	det	_	Gender[psor]=Masc,Neut
 12	prioriteta	prioritet	NOUN	Ncmpg	Case=Gen|Gender=Masc|Number=Plur	1	ccomp	_	_
 13	kao	kao	SCONJ	Cs	_	14	case	_	_
 14	CiO-a	CiO-a	NOUN	Ncmsg	Case=Gen|Gender=Masc|Number=Sing	12	obl	_	SpaceAfter=No

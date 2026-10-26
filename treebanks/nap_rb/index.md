@@ -16,11 +16,11 @@ Family: IE
 
 This treebank has been part of Universal Dependencies since the UD v2.9 release.
 
-The following people have contributed to making this treebank part of UD: Rodolfo Basile.
+The following people have contributed to making this treebank part of UD: Rodolfo Basile, Daniel Zeman, Ludovica Pannitto, Arianna Masciolini.
 
 Repository: [UD_Neapolitan-RB](https://github.com/UniversalDependencies/UD_Neapolitan-RB)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udnap_rb215)<br />
-Download all treebanks: [UD 2.15](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udnap_rb218)<br />
+Download all treebanks: [UD 2.18](/#download)
 
 License: CC BY-SA 4.0
 
@@ -64,25 +64,25 @@ Cerruti, Massimo. 2016. L'italianizzazione dei dialetti: una rassegna. _Quaderns
 
 ## POS Tags
 
-[ADJ](nap_rb-pos-ADJ.html) – [ADP](nap_rb-pos-ADP.html) – [DET](nap_rb-pos-DET.html) – [NOUN](nap_rb-pos-NOUN.html) – [PUNCT](nap_rb-pos-PUNCT.html) – [VERB](nap_rb-pos-VERB.html)
+[ADJ](nap_rb-pos-ADJ.html) – [ADP](nap_rb-pos-ADP.html) – [ADV](nap_rb-pos-ADV.html) – [AUX](nap_rb-pos-AUX.html) – [CCONJ](nap_rb-pos-CCONJ.html) – [DET](nap_rb-pos-DET.html) – [NOUN](nap_rb-pos-NOUN.html) – [PRON](nap_rb-pos-PRON.html) – [PROPN](nap_rb-pos-PROPN.html) – [PUNCT](nap_rb-pos-PUNCT.html) – [SCONJ](nap_rb-pos-SCONJ.html) – [VERB](nap_rb-pos-VERB.html)
 
 ## Features
 
-
+[Definite](nap_rb-feat-Definite.html) – [Degree](nap_rb-feat-Degree.html) – [Gender](nap_rb-feat-Gender.html) – [Mood](nap_rb-feat-Mood.html) – [Number](nap_rb-feat-Number.html) – [Person](nap_rb-feat-Person.html) – [Polarity](nap_rb-feat-Polarity.html) – [Poss](nap_rb-feat-Poss.html) – [PronType](nap_rb-feat-PronType.html) – [Reflex](nap_rb-feat-Reflex.html) – [Tense](nap_rb-feat-Tense.html) – [VerbForm](nap_rb-feat-VerbForm.html)
 
 ## Relations
 
-[amod](nap_rb-dep-amod.html) – [case](nap_rb-dep-case.html) – [det](nap_rb-dep-det.html) – [nsubj](nap_rb-dep-nsubj.html) – [obj](nap_rb-dep-obj.html) – [obl](nap_rb-dep-obl.html) – [punct](nap_rb-dep-punct.html) – [root](nap_rb-dep-root.html)
+[acl](nap_rb-dep-acl.html) – [advcl](nap_rb-dep-advcl.html) – [advmod](nap_rb-dep-advmod.html) – [amod](nap_rb-dep-amod.html) – [appos](nap_rb-dep-appos.html) – [aux](nap_rb-dep-aux.html) – [aux:pass](nap_rb-dep-aux-pass.html) – [case](nap_rb-dep-case.html) – [cc](nap_rb-dep-cc.html) – [ccomp](nap_rb-dep-ccomp.html) – [conj](nap_rb-dep-conj.html) – [cop](nap_rb-dep-cop.html) – [det](nap_rb-dep-det.html) – [expl](nap_rb-dep-expl.html) – [flat](nap_rb-dep-flat.html) – [mark](nap_rb-dep-mark.html) – [nmod](nap_rb-dep-nmod.html) – [nsubj](nap_rb-dep-nsubj.html) – [obj](nap_rb-dep-obj.html) – [obl](nap_rb-dep-obl.html) – [orphan](nap_rb-dep-orphan.html) – [punct](nap_rb-dep-punct.html) – [root](nap_rb-dep-root.html) – [vocative](nap_rb-dep-vocative.html) – [xcomp](nap_rb-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 1 sentences, 9 tokens and 10 syntactic words.</li>
+<li>This corpus contains 20 sentences, 198 tokens and 201 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 2 tokens (22%) that are not followed by a space.</li>
+<li>This corpus contains 35 tokens (18%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -90,12 +90,12 @@ Cerruti, Massimo. 2016. L'italianizzazione dei dialetti: una rassegna. _Quaderns
 </ul>
 
 <ul>
-<li>This corpus contains 2 types of words that contain both letters and punctuation. Examples: 'A, 'na</li>
+<li>This corpus contains 12 types of words that contain both letters and punctuation. Examples: 'e, 'a, 'o, l', 'na, s', 'Sta, 'nu, c', n', ppo', ’a</li>
 </ul>
 
 <ul>
-<li>This corpus contains 1 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
-<li>There are 1 types of multi-word tokens. Examples: all'.</li>
+<li>This corpus contains 3 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+<li>There are 3 types of multi-word tokens. Examples: Patĕmŏ, all', ă'o.</li>
 </ul>
 
 <h2>Morphology</h2>
@@ -103,65 +103,351 @@ Cerruti, Massimo. 2016. L'italianizzazione dei dialetti: una rassegna. _Quaderns
 <h3>Tags</h3>
 
 <ul>
-<li>This corpus uses 6 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>DET</a>, <a>NOUN</a>, <a>PUNCT</a>, <a>VERB</a></li>
-<li>This corpus does not use the following tags: PROPN, PRON, NUM, AUX, ADV, SCONJ, CCONJ, PART, INTJ, SYM, X</li>
+<li>This corpus uses 12 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>NOUN</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>VERB</a></li>
+<li>This corpus does not use the following tags: NUM, PART, INTJ, SYM, X</li>
 </ul>
 
 <ul>
 </ul>
 
 <ul>
-<li>This corpus contains 0 lemmas tagged as pronouns (PRON): </li>
+<li>This corpus contains 13 lemmas tagged as pronouns (PRON): 'nu, 'o, ată, chi, chĕ, cĕ, essă, issŏ, lo, nĕ, si, tuojŏ, tĕ</li>
 </ul>
 
 <ul>
-<li>This corpus contains 1 lemmas tagged as determiners (DET): _</li>
+<li>This corpus contains 5 lemmas tagged as determiners (DET): 'a, 'nu, 'o, 'sta, chillu</li>
 </ul>
 
 <ul>
+<li>Out of the above, 2 lemmas occurred sometimes as PRON and sometimes as DET: 'nu, 'o</li>
 </ul>
 
 <ul>
-<li>This corpus contains 0 lemmas tagged as auxiliaries (AUX): </li>
+<li>This corpus contains 5 lemmas tagged as auxiliaries (AUX): avé, essĕ, puté, stà, venì</li>
 </ul>
 
 <ul>
+<li>Out of the above, 2 lemmas occurred sometimes as AUX and sometimes as VERB: stà, venì</li>
 </ul>
 
 <ul>
-<li>This corpus does not use the VerbForm feature.</li>
+<li>There are 4 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+</ul>
+
+<ul>
+  <li>Fin
+  <ul>
+    <li>AUX: è, so, afossĕ, avia, avissĕ, ha, hannĕ, putettĕrĕ, sta, stajĕ</li>
+    <li>VERB: Penzĕ, accattajĕ, arapĕ, criscettĕ, currevĕ, facettĕ, pienzĕ, pittajĕ, scrivettĕ, tenĕnĕ</li>
+  </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Ger
+  <ul>
+    <li>VERB: chiuvennĕ, guaddannĕ</li>
+  </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Inf
+  <ul>
+    <li>VERB: accuncià, fummà, jì, lavà, scegliĕ, stà, vvevĕrĕ, vĕnì</li>
+  </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Part
+  <ul>
+    <li>AUX: avutŏ</li>
+    <li>VERB: distribbuită, fattŏ, scrittŏ, abbracciatĕ, asciutĕ, pruvatĕ, riuscitŏ</li>
+  </ul>
+  </li>
 </ul>
 
 <h3>Nominal Features</h3>
 
 
+<ul>
+  <li><a>Gender</a></li>
+</ul>
+
+<ul>
+  <li>Fem
+    <ul>
+      <li>ADJ: francesĕ, sojă</li>
+      <li>DET: 'a, 'na, 'Sta, la, na</li>
+      <li>NOUN: lettĕră, machină, amica, biciclettă, cammără, capitalĕ, casă, foră, fĕnestă, ideă</li>
+      <li>PRON: Essă, ată, n'</li>
+      <li>PROPN: Mariă, Giuvanna, Marronĕ</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Masc
+    <ul>
+      <li>ADJ: ccalmŏ, gruossŏ, mŏ, piccirillŏ, russŏ, suojŏ, velocĕ</li>
+      <li>DET: 'o, l', 'e, 'nu, chillu</li>
+      <li>NOUN: Patĕ, argientŏ, bbrunzŏ, capillĕ, fratĕ, juornŏ, maritŏ, orŏ, paisĕ, sticcatŏ</li>
+      <li>PRON: issŏ, l', tuojŏ</li>
+      <li>PROPN: Pietrŏ, Ferrarŏ, Iguazu</li>
+    </ul>
+  </li>
+</ul>
+
+
+<ul>
+  <li><a>Number</a></li>
+</ul>
+
+<ul>
+  <li>Plur
+    <ul>
+      <li>DET: 'e</li>
+      <li>NOUN: capillĕ</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Sing
+    <ul>
+      <li>ADJ: ccalmŏ, francesĕ, gruossŏ, mŏ, piccirillŏ, russŏ, sojă, suojŏ, velocĕ</li>
+      <li>DET: 'a, 'o, 'na, l', 'Sta, 'nu, chillu, la, na</li>
+      <li>NOUN: lettĕră, machină, Patĕ, amica, argientŏ, bbrunzŏ, biciclettă, cammără, capitalĕ, casă</li>
+      <li>PRON: Essă, issŏ, Tĕ, ată, l', n', tuojŏ</li>
+      <li>PROPN: Pietrŏ, Mariă, Ferrarŏ, Giuvanna, Iguazu, Marronĕ</li>
+      <li>VERB-Fin: arapĕ</li>
+    </ul>
+  </li>
+</ul>
 
 
 
+<ul>
+  <li><a>Definite</a></li>
+</ul>
 
+<ul>
+  <li>Def
+    <ul>
+      <li>DET: 'a, 'o, l', 'e, la</li>
+    </ul>
+  </li>
+</ul>
 
+<ul>
+  <li>Ind
+    <ul>
+      <li>DET: 'na, 'nu, na</li>
+    </ul>
+  </li>
+</ul>
 
 <h3>Degree and Polarity</h3>
 
 
+<ul>
+  <li><a>Degree</a></li>
+</ul>
 
+<ul>
+  <li>Cmp
+    <ul>
+      <li>ADV: cchiù, assajĕ</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>Polarity</a></li>
+</ul>
+
+<ul>
+  <li>Neg
+    <ul>
+      <li>ADV: nun</li>
+    </ul>
+  </li>
+</ul>
 
 
 <h3>Verbal Features</h3>
 
 
 
+<ul>
+  <li><a>Mood</a></li>
+</ul>
 
+<ul>
+  <li>Imp
+    <ul>
+      <li>VERB-Fin: arapĕ</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Ind
+    <ul>
+      <li>AUX-Fin: è, so, avia, ha, hannĕ, putettĕrĕ, sta, stajĕ, vvĕnettĕ</li>
+      <li>VERB-Fin: Penzĕ, accattajĕ, criscettĕ, currevĕ, facettĕ, pienzĕ, pittajĕ, scrivettĕ, tenĕnĕ, vincettĕ</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Sub
+    <ul>
+      <li>AUX-Fin: afossĕ, avissĕ</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>Tense</a></li>
+</ul>
+
+<ul>
+  <li>Imp
+    <ul>
+      <li>AUX-Fin: avia</li>
+      <li>VERB-Fin: currevĕ</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Past
+    <ul>
+      <li>AUX-Fin: afossĕ, avissĕ, ha, putettĕrĕ, vvĕnettĕ</li>
+      <li>VERB-Fin: accattajĕ, criscettĕ, facettĕ, pittajĕ, scrivettĕ, vincettĕ</li>
+      <li>VERB-Part: abbracciatĕ, asciutĕ, pruvatĕ, riuscitŏ</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Pres
+    <ul>
+      <li>AUX-Fin: è, so, hannĕ, sta, stajĕ</li>
+      <li>VERB-Fin: Penzĕ, pienzĕ, tenĕnĕ, vuò</li>
+    </ul>
+  </li>
+</ul>
 
 
 
 <h3>Pronouns, Determiners, Quantifiers</h3>
 
 
+<ul>
+  <li><a>PronType</a></li>
+</ul>
+
+<ul>
+  <li>Art
+    <ul>
+      <li>DET: 'a, 'o, 'na, l', 'e, 'nu, la, na</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Dem
+    <ul>
+      <li>DET: 'Sta, chillu</li>
+      <li>PRON: c', cĕ, nĕ</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Ind
+    <ul>
+      <li>PRON: ată, n'</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Int
+    <ul>
+      <li>ADV: Quannŏ</li>
+      <li>PRON: Chĕ, chi</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Prs
+    <ul>
+      <li>PRON: Essă, issŏ, l', s', Tĕ, tuojŏ</li>
+    </ul>
+  </li>
+</ul>
 
 
+<ul>
+  <li><a>Poss</a></li>
+</ul>
 
+<ul>
+  <li>Yes
+    <ul>
+      <li>ADJ: mŏ</li>
+    </ul>
+  </li>
+</ul>
 
+<ul>
+  <li><a>Reflex</a></li>
+</ul>
+
+<ul>
+  <li>Yes
+    <ul>
+      <li>PRON: s'</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>Person</a></li>
+</ul>
+
+<ul>
+  <li>1
+    <ul>
+      <li>VERB-Fin: Penzĕ</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>2
+    <ul>
+      <li>AUX-Fin: stajĕ</li>
+      <li>PRON: Tĕ, tuojŏ</li>
+      <li>VERB-Fin: arapĕ, pienzĕ, vuò</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>3
+    <ul>
+      <li>AUX-Fin: è, so, afossĕ, avia, avissĕ, ha, hannĕ, putettĕrĕ, sta, vvĕnettĕ</li>
+      <li>PRON: Essă, issŏ, l', s'</li>
+      <li>VERB-Fin: accattajĕ, criscettĕ, currevĕ, facettĕ, pittajĕ, scrivettĕ, tenĕnĕ, vincettĕ</li>
+    </ul>
+  </li>
+</ul>
 
 
 
@@ -174,11 +460,12 @@ Cerruti, Massimo. 2016. L'italianizzazione dei dialetti: una rassegna. _Quaderns
 <h3>Auxiliary Verbs and Copula</h3>
 
 <ul>
-<li>This corpus does not contain copulas.</li>
+<li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: essĕ.</li>
 </ul>
 
 <ul>
-<li>This corpus does not contain auxiliaries.</li>
+<li>This corpus uses 4 lemmas as auxiliaries (<a>aux</a>). Examples: avé, essĕ, stà, puté.</li>
+<li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: venì.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -187,7 +474,10 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN (1)</li>
+      <li>VERB-Fin--NOUN (2)</li>
+      <li>VERB-Fin--PRON (4)</li>
+      <li>VERB-Inf--PRON (1)</li>
+      <li>VERB-Part--PRON (2)</li>
     </ul>
   </li>
 </ul>
@@ -195,7 +485,10 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN (1)</li>
+      <li>VERB-Fin--NOUN (6)</li>
+      <li>VERB-Ger--PRON (1)</li>
+      <li>VERB-Inf--NOUN (2)</li>
+      <li>VERB-Part--PRON (3)</li>
     </ul>
   </li>
 </ul>
@@ -209,10 +502,15 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
 
 
+<h3>Verbs with Reflexive Core Objects</h3>
+
+<ul>
+  <li>This corpus contains 1 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: abbraccià s'</li>
+</ul>
 
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus does not use relation subtypes.</li>
-<li>The following 29 relation types are not used in this corpus at all: <a>iobj</a>, <a>csubj</a>, <a>ccomp</a>, <a>xcomp</a>, <a>vocative</a>, <a>expl</a>, <a>dislocated</a>, <a>advcl</a>, <a>advmod</a>, <a>discourse</a>, <a>aux</a>, <a>cop</a>, <a>mark</a>, <a>nmod</a>, <a>appos</a>, <a>nummod</a>, <a>acl</a>, <a>clf</a>, <a>conj</a>, <a>cc</a>, <a>fixed</a>, <a>flat</a>, <a>compound</a>, <a>list</a>, <a>parataxis</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
+<li>This corpus uses 1 relation subtypes: <a>aux:pass</a></li>
+<li>The following 13 relation types are not used in this corpus at all: <a>iobj</a>, <a>csubj</a>, <a>dislocated</a>, <a>discourse</a>, <a>nummod</a>, <a>clf</a>, <a>fixed</a>, <a>compound</a>, <a>list</a>, <a>parataxis</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
 </ul>

@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  <em>-ng</em> (<tt><a href="ceb_gja-pos-PA
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.291667 (the average of all parts of speech is 1.162162).
+The form / lemma ratio of `PART` is 1.291667 (the average of all parts of speech is 1.162584).
 
 The 1st highest number of forms (4) was observed with the lemma “gyud”: <em>gud, gyud, ju-, jud</em>.
 
@@ -75,7 +75,7 @@ Examples: <em>-ng, nga, man, ka, ra, lang, -g, pa, ba, diay</em>
 
 `PART` nodes are attached to their parents using 4 different relations: <tt><a href="ceb_gja-dep-mark.html">mark</a></tt> (97; 56% instances), <tt><a href="ceb_gja-dep-advmod.html">advmod</a></tt> (72; 42% instances), <tt><a href="ceb_gja-dep-fixed.html">fixed</a></tt> (2; 1% instances), <tt><a href="ceb_gja-dep-root.html">root</a></tt> (1; 1% instances)
 
-Parents of `PART` nodes belong to 9 different parts of speech: <tt><a href="ceb_gja-pos-VERB.html">VERB</a></tt> (61; 35% instances), <tt><a href="ceb_gja-pos-PRON.html">PRON</a></tt> (58; 34% instances), <tt><a href="ceb_gja-pos-ADJ.html">ADJ</a></tt> (19; 11% instances), <tt><a href="ceb_gja-pos-NOUN.html">NOUN</a></tt> (13; 8% instances), <tt><a href="ceb_gja-pos-ADV.html">ADV</a></tt> (11; 6% instances), <tt><a href="ceb_gja-pos-NUM.html">NUM</a></tt> (6; 3% instances), <tt><a href="ceb_gja-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="ceb_gja-pos-PART.html">PART</a></tt> (1; 1% instances),  (1; 1% instances)
+Parents of `PART` nodes belong to 9 different parts of speech: <tt><a href="ceb_gja-pos-VERB.html">VERB</a></tt> (61; 35% instances), <tt><a href="ceb_gja-pos-PRON.html">PRON</a></tt> (58; 34% instances), <tt><a href="ceb_gja-pos-ADJ.html">ADJ</a></tt> (19; 11% instances), <tt><a href="ceb_gja-pos-NOUN.html">NOUN</a></tt> (12; 7% instances), <tt><a href="ceb_gja-pos-ADV.html">ADV</a></tt> (11; 6% instances), <tt><a href="ceb_gja-pos-NUM.html">NUM</a></tt> (6; 3% instances), <tt><a href="ceb_gja-pos-PROPN.html">PROPN</a></tt> (3; 2% instances), <tt><a href="ceb_gja-pos-PART.html">PART</a></tt> (1; 1% instances),  (1; 1% instances)
 
 168 (98%) `PART` nodes are leaves.
 

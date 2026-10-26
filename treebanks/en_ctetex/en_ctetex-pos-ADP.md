@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_English-CTeTex: POS Tags: `ADP`
 
-There are 1 `ADP` lemmas (6%), 42 `ADP` types (2%) and 781 `ADP` tokens (8%).
-Out of 17 observed tags, the rank of `ADP` is: 2 in number of lemmas, 7 in number of types and 4 in number of tokens.
+There are 42 `ADP` lemmas (2%), 42 `ADP` types (2%) and 781 `ADP` tokens (8%).
+Out of 17 observed tags, the rank of `ADP` is: 7 in number of lemmas, 7 in number of types and 4 in number of tokens.
 
-The 10 most frequent `ADP` lemmas: <em>_</em>
+The 10 most frequent `ADP` lemmas: <em>of, to, in, for, with, from, on, by, as, at</em>
 
 The 10 most frequent `ADP` types:  <em>of, to, in, for, with, from, on, by, as, at</em>
 
-The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="en_ctetex-pos-NOUN.html">NOUN</a></tt> 2649, <tt><a href="en_ctetex-pos-PUNCT.html">PUNCT</a></tt> 1455, <tt><a href="en_ctetex-pos-DET.html">DET</a></tt> 936, <tt><a href="en_ctetex-pos-ADP.html">ADP</a></tt> 781, <tt><a href="en_ctetex-pos-VERB.html">VERB</a></tt> 721, <tt><a href="en_ctetex-pos-ADJ.html">ADJ</a></tt> 647, <tt><a href="en_ctetex-pos-AUX.html">AUX</a></tt> 492, <tt><a href="en_ctetex-pos-NUM.html">NUM</a></tt> 317, <tt><a href="en_ctetex-pos-PROPN.html">PROPN</a></tt> 293, <tt><a href="en_ctetex-pos-CCONJ.html">CCONJ</a></tt> 267, <tt><a href="en_ctetex-pos-ADV.html">ADV</a></tt> 185, <tt><a href="en_ctetex-pos-PART.html">PART</a></tt> 165, <tt><a href="en_ctetex-pos-SCONJ.html">SCONJ</a></tt> 163, <tt><a href="en_ctetex-pos-SYM.html">SYM</a></tt> 98, <tt><a href="en_ctetex-pos-PRON.html">PRON</a></tt> 83, <tt><a href="en_ctetex-pos-X.html">X</a></tt> 17, <tt><a href="en_ctetex-pos-INTJ.html">INTJ</a></tt> 4)
+The 10 most frequent ambiguous lemmas: <em>of</em> (<tt><a href="en_ctetex-pos-ADP.html">ADP</a></tt> 197, <tt><a href="en_ctetex-pos-SCONJ.html">SCONJ</a></tt> 7), <em>to</em> (<tt><a href="en_ctetex-pos-ADP.html">ADP</a></tt> 116, <tt><a href="en_ctetex-pos-PART.html">PART</a></tt> 102), <em>for</em> (<tt><a href="en_ctetex-pos-ADP.html">ADP</a></tt> 82, <tt><a href="en_ctetex-pos-SCONJ.html">SCONJ</a></tt> 6), <em>on</em> (<tt><a href="en_ctetex-pos-ADP.html">ADP</a></tt> 33, <tt><a href="en_ctetex-pos-ADV.html">ADV</a></tt> 5, <tt><a href="en_ctetex-pos-SCONJ.html">SCONJ</a></tt> 2), <em>by</em> (<tt><a href="en_ctetex-pos-ADP.html">ADP</a></tt> 23, <tt><a href="en_ctetex-pos-SCONJ.html">SCONJ</a></tt> 5), <em>as</em> (<tt><a href="en_ctetex-pos-SCONJ.html">SCONJ</a></tt> 22, <tt><a href="en_ctetex-pos-ADP.html">ADP</a></tt> 20), <em>at</em> (<tt><a href="en_ctetex-pos-ADP.html">ADP</a></tt> 17, <tt><a href="en_ctetex-pos-ADV.html">ADV</a></tt> 6), <em>after</em> (<tt><a href="en_ctetex-pos-ADP.html">ADP</a></tt> 10, <tt><a href="en_ctetex-pos-SCONJ.html">SCONJ</a></tt> 4), <em>over</em> (<tt><a href="en_ctetex-pos-ADP.html">ADP</a></tt> 7, <tt><a href="en_ctetex-pos-ADV.html">ADV</a></tt> 1), <em>per</em> (<tt><a href="en_ctetex-pos-ADP.html">ADP</a></tt> 6, <tt><a href="en_ctetex-pos-X.html">X</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>of</em> (<tt><a href="en_ctetex-pos-ADP.html">ADP</a></tt> 197, <tt><a href="en_ctetex-pos-SCONJ.html">SCONJ</a></tt> 7), <em>to</em> (<tt><a href="en_ctetex-pos-ADP.html">ADP</a></tt> 116, <tt><a href="en_ctetex-pos-PART.html">PART</a></tt> 102, <tt><a href="en_ctetex-pos-AUX.html">AUX</a></tt> 1), <em>for</em> (<tt><a href="en_ctetex-pos-ADP.html">ADP</a></tt> 72, <tt><a href="en_ctetex-pos-SCONJ.html">SCONJ</a></tt> 6), <em>on</em> (<tt><a href="en_ctetex-pos-ADP.html">ADP</a></tt> 32, <tt><a href="en_ctetex-pos-ADV.html">ADV</a></tt> 3, <tt><a href="en_ctetex-pos-SCONJ.html">SCONJ</a></tt> 2), <em>by</em> (<tt><a href="en_ctetex-pos-ADP.html">ADP</a></tt> 23, <tt><a href="en_ctetex-pos-SCONJ.html">SCONJ</a></tt> 5), <em>as</em> (<tt><a href="en_ctetex-pos-SCONJ.html">SCONJ</a></tt> 22, <tt><a href="en_ctetex-pos-ADP.html">ADP</a></tt> 16), <em>at</em> (<tt><a href="en_ctetex-pos-ADP.html">ADP</a></tt> 16, <tt><a href="en_ctetex-pos-ADV.html">ADV</a></tt> 6), <em>after</em> (<tt><a href="en_ctetex-pos-ADP.html">ADP</a></tt> 10, <tt><a href="en_ctetex-pos-SCONJ.html">SCONJ</a></tt> 4), <em>over</em> (<tt><a href="en_ctetex-pos-ADP.html">ADP</a></tt> 7, <tt><a href="en_ctetex-pos-ADV.html">ADV</a></tt> 1), <em>including</em> (<tt><a href="en_ctetex-pos-ADP.html">ADP</a></tt> 6, <tt><a href="en_ctetex-pos-VERB.html">VERB</a></tt> 1)
 
@@ -53,9 +53,13 @@ The 10 most frequent ambiguous types:  <em>of</em> (<tt><a href="en_ctetex-pos-A
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 42.000000 (the average of all parts of speech is 125.235294).
+The form / lemma ratio of `ADP` is 1.000000 (the average of all parts of speech is 1.138503).
 
-The 1st highest number of forms (42) was observed with the lemma “_”: <em>about, above, according, after, against, as, at, before, below, between, by, down, due, during, except, for, from, if, in, including, into, minus, of, on, out, over, per, plus, prior, regarding, such, than, through, throughout, to, under, up, upon, via, with, within, without</em>.
+The 1st highest number of forms (1) was observed with the lemma “about”: <em>about</em>.
+
+The 2nd highest number of forms (1) was observed with the lemma “above”: <em>above</em>.
+
+The 3rd highest number of forms (1) was observed with the lemma “according”: <em>according</em>.
 
 `ADP` does not occur with any features.
 
@@ -64,7 +68,7 @@ The 1st highest number of forms (42) was observed with the lemma “_”: <em>ab
 
 `ADP` nodes are attached to their parents using 8 different relations: <tt><a href="en_ctetex-dep-case.html">case</a></tt> (724; 93% instances), <tt><a href="en_ctetex-dep-fixed.html">fixed</a></tt> (27; 3% instances), <tt><a href="en_ctetex-dep-mark.html">mark</a></tt> (14; 2% instances), <tt><a href="en_ctetex-dep-compound.html">compound</a></tt> (10; 1% instances), <tt><a href="en_ctetex-dep-conj.html">conj</a></tt> (3; 0% instances), <tt><a href="en_ctetex-dep-cc.html">cc</a></tt> (1; 0% instances), <tt><a href="en_ctetex-dep-dep.html">dep</a></tt> (1; 0% instances), <tt><a href="en_ctetex-dep-reparandum.html">reparandum</a></tt> (1; 0% instances)
 
-Parents of `ADP` nodes belong to 10 different parts of speech: <tt><a href="en_ctetex-pos-NOUN.html">NOUN</a></tt> (662; 85% instances), <tt><a href="en_ctetex-pos-VERB.html">VERB</a></tt> (27; 3% instances), <tt><a href="en_ctetex-pos-PROPN.html">PROPN</a></tt> (24; 3% instances), <tt><a href="en_ctetex-pos-ADJ.html">ADJ</a></tt> (16; 2% instances), <tt><a href="en_ctetex-pos-ADP.html">ADP</a></tt> (13; 2% instances), <tt><a href="en_ctetex-pos-SYM.html">SYM</a></tt> (12; 2% instances), <tt><a href="en_ctetex-pos-ADV.html">ADV</a></tt> (11; 1% instances), <tt><a href="en_ctetex-pos-NUM.html">NUM</a></tt> (8; 1% instances), <tt><a href="en_ctetex-pos-PRON.html">PRON</a></tt> (7; 1% instances), <tt><a href="en_ctetex-pos-INTJ.html">INTJ</a></tt> (1; 0% instances)
+Parents of `ADP` nodes belong to 9 different parts of speech: <tt><a href="en_ctetex-pos-NOUN.html">NOUN</a></tt> (663; 85% instances), <tt><a href="en_ctetex-pos-VERB.html">VERB</a></tt> (27; 3% instances), <tt><a href="en_ctetex-pos-PROPN.html">PROPN</a></tt> (24; 3% instances), <tt><a href="en_ctetex-pos-ADJ.html">ADJ</a></tt> (16; 2% instances), <tt><a href="en_ctetex-pos-ADP.html">ADP</a></tt> (13; 2% instances), <tt><a href="en_ctetex-pos-SYM.html">SYM</a></tt> (12; 2% instances), <tt><a href="en_ctetex-pos-ADV.html">ADV</a></tt> (11; 1% instances), <tt><a href="en_ctetex-pos-NUM.html">NUM</a></tt> (8; 1% instances), <tt><a href="en_ctetex-pos-PRON.html">PRON</a></tt> (7; 1% instances)
 
 736 (94%) `ADP` nodes are leaves.
 

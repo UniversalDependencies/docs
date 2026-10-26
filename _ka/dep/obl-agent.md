@@ -5,7 +5,7 @@ shortdef: 'obl marking the agent in a passive construction'
 udver: '2'
 ---
 
-The `obl:agent` relation is used for the agent of a passive verb, a participle or a verbal noun, which is marked by the postposition მიერ.
+The `obl:agent` relation is used for the agent of a passive verb, which is marked by the postposition მიერ.
 
 ~~~ conllu
 # text = ფილოსოფოსთა მიერ ჭეშმარიტების ძიება
@@ -17,4 +17,4 @@ The `obl:agent` relation is used for the agent of a passive verb, a participle o
 4	ძიება	ძიება	VERB	_	Case=Nom|Number=Sing|VerbForm=Vnoun	0	root	_	LMSeg:ძიებ[ა]/ძი
 
 ~~~
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:11:14 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:31 CEST -->

@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="pt_porttinari-dep-nsubj.html">nsubj</a></tt>.
 There are also 1 other language-specific subtypes of `nsubj`: <tt><a href="pt_porttinari-dep-nsubj-outer.html">nsubj:outer</a></tt>.
 
-706 nodes (0%) are attached to their parents as `nsubj:pass`.
+735 nodes (0%) are attached to their parents as `nsubj:pass`.
 
-650 instances of `nsubj:pass` (92%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.05665722379603.
+671 instances of `nsubj:pass` (91%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.08571428571429.
 
-The following 6 pairs of parts of speech are connected with `nsubj:pass`: <tt><a href="pt_porttinari-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_porttinari-pos-NOUN.html">NOUN</a></tt> (514; 73% instances), <tt><a href="pt_porttinari-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_porttinari-pos-PRON.html">PRON</a></tt> (115; 16% instances), <tt><a href="pt_porttinari-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_porttinari-pos-PROPN.html">PROPN</a></tt> (61; 9% instances), <tt><a href="pt_porttinari-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_porttinari-pos-NUM.html">NUM</a></tt> (10; 1% instances), <tt><a href="pt_porttinari-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_porttinari-pos-SYM.html">SYM</a></tt> (4; 1% instances), <tt><a href="pt_porttinari-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_porttinari-pos-X.html">X</a></tt> (2; 0% instances).
+The following 6 pairs of parts of speech are connected with `nsubj:pass`: <tt><a href="pt_porttinari-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_porttinari-pos-NOUN.html">NOUN</a></tt> (532; 72% instances), <tt><a href="pt_porttinari-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_porttinari-pos-PRON.html">PRON</a></tt> (118; 16% instances), <tt><a href="pt_porttinari-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_porttinari-pos-PROPN.html">PROPN</a></tt> (64; 9% instances), <tt><a href="pt_porttinari-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_porttinari-pos-NUM.html">NUM</a></tt> (14; 2% instances), <tt><a href="pt_porttinari-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_porttinari-pos-X.html">X</a></tt> (4; 1% instances), <tt><a href="pt_porttinari-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_porttinari-pos-SYM.html">SYM</a></tt> (3; 0% instances).
 
 
 ~~~ conllu
@@ -34,7 +34,7 @@ The following 6 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 9	para	para	ADP	_	_	10	mark	10:mark	_
 10	fazer	fazer	VERB	_	VerbForm=Inf	8	advcl	8:advcl:para	_
 11	isso	isso	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	10	obj	10:obj	SpaceAfter=No
-12	.	.	PUNCT	_	_	8	punct	8:punct	SpaceAfter=No
+12	.	.	PUNCT	_	_	8	punct	8:punct	_
 
 ~~~
 
@@ -59,7 +59,7 @@ The following 6 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 12	lado	lado	NOUN	_	Gender=Masc|Number=Sing	8	nmod	8:nmod:a	_
 13	já	já	ADV	_	_	14	advmod	14:advmod	_
 14	foram	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	4	conj	4:conj:mas	SpaceAfter=No
-15	.	.	PUNCT	_	_	4	punct	4:punct	SpaceAfter=No
+15	.	.	PUNCT	_	_	4	punct	4:punct	_
 
 ~~~
 
@@ -84,7 +84,7 @@ The following 6 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 12	"	"	PUNCT	_	_	13	punct	13:punct	SpaceAfter=No
 13	Bob	Bob	PROPN	_	_	10	nmod	10:nmod:de	SpaceAfter=No
 14	"	"	PUNCT	_	_	13	punct	13:punct	SpaceAfter=No
-15	.	.	PUNCT	_	_	7	punct	7:punct	SpaceAfter=No
+15	.	.	PUNCT	_	_	7	punct	7:punct	_
 
 ~~~
 

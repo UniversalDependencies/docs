@@ -23,14 +23,14 @@ The following 56 pairs of parts of speech are connected with `advcl`: <tt><a hre
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 6 advcl	color:blue
-1	τότε	τότε	ADV	Df	_	8	advmod	_	ref=1.11.1
-2	μὲν	μέν	ADV	Df	_	8	discourse	_	ref=1.11.1
-3	δὴ	δή	ADV	Df	_	8	discourse	_	ref=1.11.1
-4	οὕτω	οὕτω(ς)	ADV	Df	_	8	advmod	_	ref=1.11.1
-5	οὐδέν	οὐδείς	PRON	Px	Case=Acc|Gender=Neut|Number=Sing	6	obj	_	ref=1.11.1
-6	δηλώσασα	δηλόω	VERB	V-	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	8	advcl	_	ref=1.11.1
-7	ἡσυχίην	ἡσυχία	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	8	obj	_	ref=1.11.1
-8	εἶχε	ἔχω	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=1.11.1
+1	τότε	τότε	ADV	Df	_	8	advmod	_	Ref=1.11.1
+2	μὲν	μέν	ADV	Df	_	8	discourse	_	Ref=1.11.1
+3	δὴ	δή	ADV	Df	_	8	discourse	_	Ref=1.11.1
+4	οὕτω	οὕτω(ς)	ADV	Df	_	8	advmod	_	Ref=1.11.1
+5	οὐδέν	οὐδείς	PRON	Px	Case=Acc|Gender=Neut|Number=Sing	6	obj	_	Ref=1.11.1
+6	δηλώσασα	δηλόω	VERB	V-	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	8	advcl	_	Ref=1.11.1
+7	ἡσυχίην	ἡσυχία	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	8	obj	_	Ref=1.11.1
+8	εἶχε	ἔχω	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=1.11.1
 
 ~~~
 
@@ -41,15 +41,15 @@ The following 56 pairs of parts of speech are connected with `advcl`: <tt><a hre
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 5 advcl	color:blue
-1	ἐώθεε	ἔθω	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin|Voice=Act	0	root	_	ref=1.11.1
-2	γὰρ	γάρ	ADV	Df	_	1	discourse	_	ref=1.11.1
-3	καὶ	καί	ADV	Df	_	4	advmod	_	ref=1.11.1|LId=1
-4	πρόσθε	πρόσθεν	ADV	Df	_	1	advmod	_	ref=1.11.1
-5	ὅκως	ὅπως	ADV	Dq	PronType=Rel	8	advcl	_	ref=1.11.1
-6	ἡ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	7	det	_	ref=1.11.1
-7	βασίλεια	βασίλεια	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	8	nsubj	_	ref=1.11.1|LId=1
-8	καλέοι	καλέω	VERB	V-	Mood=Opt|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	advcl	_	ref=1.11.1
-9	φοιτᾶν	φοιτάω	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	1	xcomp	_	ref=1.11.1
+1	ἐώθεε	ἔθω	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin|Voice=Act	0	root	_	Ref=1.11.1
+2	γὰρ	γάρ	ADV	Df	_	1	discourse	_	Ref=1.11.1
+3	καὶ	καί	ADV	Df	_	4	advmod	_	LId=1|Ref=1.11.1
+4	πρόσθε	πρόσθεν	ADV	Df	_	1	advmod	_	Ref=1.11.1
+5	ὅκως	ὅπως	ADV	Dq	PronType=Rel	8	advcl	_	Ref=1.11.1
+6	ἡ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	7	det	_	Ref=1.11.1
+7	βασίλεια	βασίλεια	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	8	nsubj	_	LId=1|Ref=1.11.1
+8	καλέοι	καλέω	VERB	V-	Mood=Opt|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	advcl	_	Ref=1.11.1
+9	φοιτᾶν	φοιτάω	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	1	xcomp	_	Ref=1.11.1
 
 ~~~
 
@@ -60,15 +60,15 @@ The following 56 pairs of parts of speech are connected with `advcl`: <tt><a hre
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 3 advcl	color:blue
-1	τούτου	οὗτος	PRON	Pd	Case=Gen|Gender=Neut|Number=Sing	3	nsubj	_	ref=5.39.2
-2	δὲ	δέ	ADV	Df	_	7	discourse	_	ref=5.39.2
-3	τοιούτου	τοιοῦτος	PRON	Pd	Case=Gen|Gender=Neut|Number=Sing	7	advcl	_	ref=5.39.2
-4	ἐόντος	εἰμί	AUX	V-	Case=Gen|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	3	cop	_	ref=5.39.2|LId=1
-5	οἱ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	6	det	_	ref=5.39.2
-6	ἔφοροι	ἔφορος	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	7	nsubj	_	ref=5.39.2
-7	εἶπαν	λέγω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=5.39.2
-8	ἐπικαλεσάμενοι	ἐπικαλέω	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Mid	7	advcl	_	ref=5.39.2
-9	αὐτὸν	αὐτός	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obj	_	ref=5.39.2
+1	τούτου	οὗτος	PRON	Pd	Case=Gen|Gender=Neut|Number=Sing	3	nsubj	_	Ref=5.39.2
+2	δὲ	δέ	ADV	Df	_	7	discourse	_	Ref=5.39.2
+3	τοιούτου	τοιοῦτος	PRON	Pd	Case=Gen|Gender=Neut|Number=Sing	7	advcl	_	Ref=5.39.2
+4	ἐόντος	εἰμί	AUX	V-	Case=Gen|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	3	cop	_	LId=1|Ref=5.39.2
+5	οἱ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	6	det	_	Ref=5.39.2
+6	ἔφοροι	ἔφορος	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	7	nsubj	_	Ref=5.39.2
+7	εἶπαν	λέγω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=5.39.2
+8	ἐπικαλεσάμενοι	ἐπικαλέω	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Mid	7	advcl	_	Ref=5.39.2
+9	αὐτὸν	αὐτός	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obj	_	Ref=5.39.2
 
 ~~~
 

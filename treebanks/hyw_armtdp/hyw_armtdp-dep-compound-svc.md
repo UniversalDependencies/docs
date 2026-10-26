@@ -24,7 +24,7 @@ The following 1 pairs of parts of speech are connected with `compound:svc`: <tt>
 # visual-style 6	fgColor:white
 # visual-style 6 9 compound:svc	color:blue
 1	Անոնք	անոնք	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	6	nsubj	_	Translit=Anonk’|LTranslit=anonk’
-2	անոնց	անոնք	DET	_	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	3	det:poss	_	Translit=anonc’|LTranslit=anonk’
+2	անոնց	անոնց	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	3	det:poss	_	Translit=anonc’|LTranslit=anonc’
 3	մարմինները	մարմին	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Plur	6	obj	_	Translit=marminnerë|LTranslit=marmin
 4	իրարու	իրար	PRON	_	Case=Dat|Number=Plur|PronType=Rcp	6	iobj	_	Translit=irarow|LTranslit=irar
 5	կու	կը	AUX	_	Aspect=Imp|Mood=Ind	6	aux	_	Translit=kow|LTranslit=kë

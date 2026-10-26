@@ -47,7 +47,7 @@ The following 7 pairs of parts of speech are connected with `dep:redup`: <tt><a 
 4	=da	_	ADP	POSTP	_	5	obl:arg	_	AlignBegin=38587|AlignEnd=38680|Gloss==DIR|RX==[POSTP]|TokenType=Clit
 5	jʔeːtiːt	_	VERB	V2	VerbClass=2	20	advcl	_	AlignBegin=38680|AlignEnd=38959|Gloss=come|MGloss=come-CVB.SEQ|MSeg=jʔ-eːtiːt|RX=[V2].[IRG]-.|TokenType=Root
 6	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	7	det	_	AlignBegin=38959|AlignEnd=39098|Gloss=DEF.SG.M.ACC=|RX=[DET]=|TokenType=Clit
-7	dar	_	NOUN	N	Gender=Masc	20	obj	_	AlignBegin=39098|AlignEnd=39237|Gloss=side|RX=[N].[M]|TokenType=Root
+7	dar	_	NOUN	N	Gender=Masc	20	iobj	_	AlignBegin=39098|AlignEnd=39237|Gloss=side|RX=[N].[M]|TokenType=Root
 8	/	_	PUNCT	PUNCT	_	7	punct	_	AlignBegin=39237|AlignEnd=39516|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
 9	hamʃak	_	ADV	IDEOPH	_	10	dep:redup	_	AlignBegin=39516|AlignEnd=39792|Gloss=rattle|RX=[IDEOPH]|TokenType=Root
 10	hamʃak	_	ADV	IDEOPH	_	12	dep:redup	_	AlignBegin=39792|AlignEnd=40068|Gloss=rattle|RX=[IDEOPH]|TokenType=Root
@@ -96,7 +96,7 @@ The following 7 pairs of parts of speech are connected with `dep:redup`: <tt><a 
 9	huːri	_	NOUN	N	Gender=Fem	2	reparandum	_	AlignBegin=298010|AlignEnd=298174|Gloss=houri|RX=[SBJ].[N].[F]|TokenType=Root
 10	daːwri	_	ADJ	N	_	11	dep:redup	_	AlignBegin=298174|AlignEnd=298501|Gloss=beautiful|RX=[ADJ]|TokenType=Root
 11	daːwri	_	ADJ	ADJ	_	13	dep:comp	_	AlignBegin=298501|AlignEnd=298610|Gloss=beautiful|RX=[ADJ]|TokenType=Root
-12	=a	_	AUX	N.COP	Number=Plur|Person=3|VerbType=Cop	11	cop	_	AlignBegin=298610|AlignEnd=298719|Gloss==COP.3PL|RX==[PRED].[N]|TokenType=Clit
+12	=a	_	AUX	N.COP	Number=Plur|Person=3|VerbType=Cop	11	cop	_	AlignBegin=298610|AlignEnd=298719|Gloss==COP.3PL|RelRole=Subj|RX==[PRED].[N]|TokenType=Clit
 13	=t	_	SCONJ	REL	Gender=Fem|PronType=Rel	9	acl:relcl	_	AlignBegin=298719|AlignEnd=298828|Gloss==INDF.F|RX==[REL]|TokenType=Clit
 14	hoːj	_	ADP	POSTP	Case=Loc	15	obl:arg	_	AlignBegin=298828|AlignEnd=299155|Gloss=LOC|RX=[POSTP]|TokenType=Root
 15	hiːn	_	VERB	V1	Aspect=Aor|Number=Plur|VerbClass=1	17	ccomp	_	AlignBegin=299264|AlignEnd=299482|Gloss=be_there\AOR|MGloss=be_there\AOR-3PL|MSeg=hiː-n|Reported=Yes|RX=[V1].[IRG]-[PNG]|TokenType=Root

@@ -23,5 +23,5 @@ The most frequent other feature values with which `PRON` and `Poss` co-occurred:
 `PRON` tokens may have the following values of `Poss`:
 
 * `Yes` (11; 100% of non-empty `Poss`): <em>saját</em>
-* `EMPTY` (1369): <em>azt, az, aki, ez, amely, ami, annak, arra, amelynek, ő</em>
+* `EMPTY` (1379): <em>azt, az, aki, ez, amely, ami, annak, arra, amelynek, ő</em>
 

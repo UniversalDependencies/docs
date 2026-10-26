@@ -27,7 +27,7 @@ The following 6 pairs of parts of speech are connected with `csubj`: <tt><a href
 2	difficile	difficile	ADJ	JJ	Gender=Masc|Number=Sing	0	root	_	_
 3	credere	credere	VERB	VB	Voice=Act	2	csubj	_	_
 4	che	che	SCONJ	IN	_	7	mark	_	_
-5	l'	il	DET	DT	Gender=Fem|Number=Sing	6	det	_	SpaceAfter=No
+5	l'	il	DET	DT	Gender=Fem|Number=Sing|PronType=Art	6	det	_	SpaceAfter=No
 6	Italia	Italia	PROPN	NNP	Gender=Fem|Number=Sing	7	nsubj	_	_
 7	abbia	avere	VERB	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act	3	ccomp	_	_
 8	meno	meno	ADV	RBR	_	9	advmod	_	_
@@ -83,7 +83,7 @@ The following 6 pairs of parts of speech are connected with `csubj`: <tt><a href
 3	desiderio	desiderio	NOUN	NN	Gender=Masc|Number=Sing	0	root	_	_
 4	terminare	terminare	VERB	VB	Voice=Act	3	csubj	_	_
 5	qui	qui	ADV	RB	_	4	advmod	_	_
-6	la	il	DET	DT	Gender=Fem|Number=Sing	8	det	_	_
+6	la	il	DET	DT	Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
 7	sua	suo	PRON	DTP$	Gender=Fem|Number=Sing|Number[psor]=Sing|Person=3|PronType=Prs	8	det:poss	_	_
 8	carriera	carriera	NOUN	NN	Gender=Fem|Number=Sing	4	obj	_	SpaceAfter=No
 9	.	.	PUNCT	.	_	3	punct	_	_

@@ -38,9 +38,10 @@ The following 9 pairs of parts of speech are connected with `orphan`: <tt><a hre
 14	,	,	PUNCT	Z:-------------	_	16	punct	_	_
 15	já	já	PRON	PP-S1--1-------	Case=Nom|Number=Sing|Person=1|PronType=Prs	16	nsubj	_	_
 16	neuměl	umět	VERB	VpYS---XR-NA---	Aspect=Imp|Gender=Masc|Number=Sing|Polarity=Neg|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
-17	naň	naň	PRON	TT-------------	_	18	obj	_	_
-18	zapomnět’	zapomenout	VERB	Vf--------A----	Aspect=Perf|Polarity=Pos|VerbForm=Inf	16	xcomp	_	SpaceAfter=No
-19	.	.	PUNCT	Z:-------------	_	16	punct	_	_
+17	na	na	ADP	RR--6----------	AdpType=Prep|Case=Loc	18	case	_	_
+18	něj	on	PRON	PPZS4--3-------	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Pre|PronType=Prs	19	obl:arg	_	_
+19	zapomnět’	zapomenout	VERB	Vf--------A----	Aspect=Perf|Polarity=Pos|VerbForm=Inf	16	xcomp	_	SpaceAfter=No
+20	.	.	PUNCT	Z:-------------	_	16	punct	_	_
 
 ~~~
 

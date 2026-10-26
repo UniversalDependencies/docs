@@ -47,7 +47,7 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 * `1` (55; 15% of non-empty `Person`): <em>amo, pensavo, avevo, ho, penso, aiuto, capisco, leggevo, Cominciamo, Esperavo</em>
 * `2` (13; 4% of non-empty `Person`): <em>lascia, Avrai, Sai, arrarbi, fai, parlavate, scusate, smetti, vai</em>
 * `3` (291; 81% of non-empty `Person`): <em>era, portava, aveva, sembrava, leggeva, gridava, pensava, piace, faceva, sapeva</em>
-* `EMPTY` (608): <em>detto, visto, fatto, leggendo, pensato, sentito, seduto, cominciato, fare, andare</em>
+* `EMPTY` (609): <em>detto, visto, fatto, leggendo, pensato, sentito, seduto, cominciato, fare, andare</em>
 
 <table>
   <tr><th>Paradigm <i>fare</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>

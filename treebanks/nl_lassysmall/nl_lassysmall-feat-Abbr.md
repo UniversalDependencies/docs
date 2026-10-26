@@ -18,7 +18,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="nl_lassysmall-pos-X
 
 257 <tt><a href="nl_lassysmall-pos-X.html">X</a></tt> tokens (8% of all `X` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `X` and `Abbr` co-occurred: <tt><a href="nl_lassysmall-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (257; 100%).
+The most frequent other feature values with which `X` and `Abbr` co-occurred: <tt><a href="nl_lassysmall-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (257; 100%), <tt><a href="nl_lassysmall-feat-ExtPos.html">ExtPos</a></tt><tt>=EMPTY</tt> (255; 99%).
 
 `X` tokens may have the following values of `Abbr`:
 

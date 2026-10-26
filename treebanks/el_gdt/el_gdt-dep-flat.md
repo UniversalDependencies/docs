@@ -61,7 +61,7 @@ The following 11 pairs of parts of speech are connected with `flat`: <tt><a href
 # visual-style 3	fgColor:white
 # visual-style 3 4 flat	color:blue
 1	Σ	σε	ADP	ADP	_	3	case	_	_
-2	τη	ο	DET	DET	Case=Acc|Gender=Fem|Number=Sing	3	det	_	_
+2	τη	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
 3	νησίδα	νησίδα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
 4	Βίδο	Βίδο	PROPN	PROPN	Case=Acc|Gender=Neut|Number=Sing	3	flat	_	SpaceAfter=No
 5	.	.	PUNCT	PUNCT	_	3	punct	_	_

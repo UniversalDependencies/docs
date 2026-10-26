@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Neg`, `Pos`.
 
-64857 tokens (11%) have a non-empty value of `Polarity`.
+64858 tokens (11%) have a non-empty value of `Polarity`.
 3895 types (12%) occur at least once with a non-empty value of `Polarity`.
 1219 lemmas (10%) occur at least once with a non-empty value of `Polarity`.
-The feature is used with 7 part-of-speech tags: <tt><a href="ro_nonstandard-pos-CCONJ.html">CCONJ</a></tt> (32957; 6% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt> (11918; 2% instances), <tt><a href="ro_nonstandard-pos-SCONJ.html">SCONJ</a></tt> (11119; 2% instances), <tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt> (8506; 1% instances), <tt><a href="ro_nonstandard-pos-AUX.html">AUX</a></tt> (355; 0% instances), <tt><a href="ro_nonstandard-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The feature is used with 7 part-of-speech tags: <tt><a href="ro_nonstandard-pos-CCONJ.html">CCONJ</a></tt> (32957; 6% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt> (11918; 2% instances), <tt><a href="ro_nonstandard-pos-SCONJ.html">SCONJ</a></tt> (11120; 2% instances), <tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt> (8506; 1% instances), <tt><a href="ro_nonstandard-pos-AUX.html">AUX</a></tt> (355; 0% instances), <tt><a href="ro_nonstandard-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 ### `CCONJ`
 
@@ -22,6 +22,7 @@ The feature is used with 7 part-of-speech tags: <tt><a href="ro_nonstandard-pos-
 
 * `Neg` (600; 2% of non-empty `Polarity`): <em>nici, nece, nice, neci, ce, ci, Nice-, Nîci</em>
 * `Pos` (32357; 98% of non-empty `Polarity`): <em>și, şi, iară, ce, iar, sau, dar, ș-, au, ş-</em>
+* `EMPTY` (2): <em>și</em>
 
 <table>
   <tr><th>Paradigm <i>ci</i></th><th><tt>Pos</tt></th><th><tt>Neg</tt></th></tr>
@@ -54,11 +55,11 @@ The most frequent other feature values with which `VERB` and `Polarity` co-occur
 
 ### `SCONJ`
 
-11119 <tt><a href="ro_nonstandard-pos-SCONJ.html">SCONJ</a></tt> tokens (100% of all `SCONJ` tokens) have a non-empty value of `Polarity`.
+11120 <tt><a href="ro_nonstandard-pos-SCONJ.html">SCONJ</a></tt> tokens (100% of all `SCONJ` tokens) have a non-empty value of `Polarity`.
 
 `SCONJ` tokens may have the following values of `Polarity`:
 
-* `Pos` (11119; 100% of non-empty `Polarity`): <em>că, de, c-, să, de-, dacă, deaca, căce, căci, di</em>
+* `Pos` (11120; 100% of non-empty `Polarity`): <em>că, de, c-, să, de-, dacă, deaca, căce, căci, di</em>
 
 `Polarity` seems to be **lexical feature** of `SCONJ`. 100% lemmas (33) occur only with one value of `Polarity`.
 
@@ -115,7 +116,7 @@ The most frequent other feature values with which `PRON` and `Polarity` co-occur
 `PRON` tokens may have the following values of `Polarity`:
 
 * `Pos` (1; 100% of non-empty `Polarity`): <em>ce</em>
-* `EMPTY` (64627): <em>să, ce, lui, el, -i, -l, s-, lor, ei, carele</em>
+* `EMPTY` (64626): <em>să, ce, lui, el, -i, -l, s-, lor, ei, carele</em>
 
 ## Relations with Agreement in `Polarity`
 

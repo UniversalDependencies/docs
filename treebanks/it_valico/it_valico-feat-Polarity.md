@@ -16,12 +16,12 @@ The feature is used with 2 part-of-speech tags: <tt><a href="it_valico-pos-INTJ.
 
 ### `INTJ`
 
-2 <tt><a href="it_valico-pos-INTJ.html">INTJ</a></tt> tokens (17% of all `INTJ` tokens) have a non-empty value of `Polarity`.
+2 <tt><a href="it_valico-pos-INTJ.html">INTJ</a></tt> tokens (20% of all `INTJ` tokens) have a non-empty value of `Polarity`.
 
 `INTJ` tokens may have the following values of `Polarity`:
 
 * `Neg` (2; 100% of non-empty `Polarity`): <em>no</em>
-* `EMPTY` (10): <em>Aiuto, Ah, Bè, Va, auuch, bene, grazie, mama, mia</em>
+* `EMPTY` (8): <em>Aiuto, Ah, Bè, auuch, grazie, mama, mia</em>
 
 ### `ADV`
 
@@ -32,5 +32,5 @@ The most frequent other feature values with which `ADV` and `Polarity` co-occurr
 `ADV` tokens may have the following values of `Polarity`:
 
 * `Neg` (1; 100% of non-empty `Polarity`): <em>no</em>
-* `EMPTY` (389): <em>non, molto, Ieri, poi, come, più, anche, così, invece, subito</em>
+* `EMPTY` (390): <em>non, molto, Ieri, poi, come, più, anche, così, invece, subito</em>
 

@@ -9,27 +9,27 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Past`, `Pres`.
 
-5 tokens (0%) have a non-empty value of `Tense`.
-5 types (1%) occur at least once with a non-empty value of `Tense`.
-5 lemmas (2%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 2 part-of-speech tags: <tt><a href="ky_tuecl-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="ky_tuecl-pos-AUX.html">AUX</a></tt> (2; 0% instances).
+8 tokens (1%) have a non-empty value of `Tense`.
+7 types (2%) occur at least once with a non-empty value of `Tense`.
+7 lemmas (2%) occur at least once with a non-empty value of `Tense`.
+The feature is used with 2 part-of-speech tags: <tt><a href="ky_tuecl-pos-VERB.html">VERB</a></tt> (6; 0% instances), <tt><a href="ky_tuecl-pos-AUX.html">AUX</a></tt> (2; 0% instances).
 
 ### `VERB`
 
-3 <tt><a href="ky_tuecl-pos-VERB.html">VERB</a></tt> tokens (2% of all `VERB` tokens) have a non-empty value of `Tense`.
+6 <tt><a href="ky_tuecl-pos-VERB.html">VERB</a></tt> tokens (2% of all `VERB` tokens) have a non-empty value of `Tense`.
 
 `VERB` tokens may have the following values of `Tense`:
 
-* `Past` (2; 67% of non-empty `Tense`): <em>берген, такылдатыптыр</em>
-* `Pres` (1; 33% of non-empty `Tense`): <em>ѳткѳрүлѳ</em>
-* `EMPTY` (183): <em>берди, алып, кетти, окуп, уктап, барыптыр, болот, болчу, деп, келип</em>
+* `Past` (4; 67% of non-empty `Tense`): <em>жуудурду, берген, такылдатыптыр</em>
+* `Pres` (2; 33% of non-empty `Tense`): <em>ач, өткөрүлө</em>
+* `EMPTY` (238): <em>берди, окуп, алып, кетти, көрөт, окуган, болчу, деп, келип, уктап</em>
 
 ### `AUX`
 
-2 <tt><a href="ky_tuecl-pos-AUX.html">AUX</a></tt> tokens (3% of all `AUX` tokens) have a non-empty value of `Tense`.
+2 <tt><a href="ky_tuecl-pos-AUX.html">AUX</a></tt> tokens (2% of all `AUX` tokens) have a non-empty value of `Tense`.
 
 `AUX` tokens may have the following values of `Tense`:
 
 * `Past` (2; 100% of non-empty `Tense`): <em>болчу, жаткан</em>
-* `EMPTY` (73): <em>жатат, эле, калган, жаткан, болгон, еле, жатам, албай, бекен, жата</em>
+* `EMPTY` (86): <em>жатат, эле, жаткан, калган, жок, болгон, екен, еле, жатам, алам</em>
 

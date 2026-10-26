@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `acl`: <tt><a href="orv_birchbark-dep-acl-relcl.html">acl:relcl</a></tt>.
 
-28 nodes (0%) are attached to their parents as `acl`.
+29 nodes (0%) are attached to their parents as `acl`.
 
-23 instances of `acl` (82%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.
+24 instances of `acl` (83%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.20689655172414.
 
-The following 8 pairs of parts of speech are connected with `acl`: <tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt> (12; 43% instances), <tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_birchbark-pos-ADJ.html">ADJ</a></tt> (7; 25% instances), <tt><a href="orv_birchbark-pos-DET.html">DET</a></tt>-<tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt> (2; 7% instances), <tt><a href="orv_birchbark-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt> (2; 7% instances), <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt> (2; 7% instances), <tt><a href="orv_birchbark-pos-DET.html">DET</a></tt>-<tt><a href="orv_birchbark-pos-X.html">X</a></tt> (1; 4% instances), <tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt> (1; 4% instances), <tt><a href="orv_birchbark-pos-NUM.html">NUM</a></tt>-<tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt> (1; 4% instances).
+The following 8 pairs of parts of speech are connected with `acl`: <tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt> (12; 41% instances), <tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_birchbark-pos-ADJ.html">ADJ</a></tt> (7; 24% instances), <tt><a href="orv_birchbark-pos-DET.html">DET</a></tt>-<tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt> (3; 10% instances), <tt><a href="orv_birchbark-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt> (2; 7% instances), <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt> (2; 7% instances), <tt><a href="orv_birchbark-pos-DET.html">DET</a></tt>-<tt><a href="orv_birchbark-pos-X.html">X</a></tt> (1; 3% instances), <tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="orv_birchbark-pos-NUM.html">NUM</a></tt>-<tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt> (1; 3% instances).
 
 
 ~~~ conllu

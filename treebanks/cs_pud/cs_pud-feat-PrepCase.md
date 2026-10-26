@@ -10,7 +10,7 @@ This feature is language-specific.
 It occurs with 2 different values: `Npr`, `Pre`.
 
 64 tokens (0%) have a non-empty value of `PrepCase`.
-18 types (0%) occur at least once with a non-empty value of `PrepCase`.
+17 types (0%) occur at least once with a non-empty value of `PrepCase`.
 2 lemmas (0%) occur at least once with a non-empty value of `PrepCase`.
 The feature is used with 1 part-of-speech tags: <tt><a href="cs_pud-pos-PRON.html">PRON</a></tt> (64; 0% instances).
 

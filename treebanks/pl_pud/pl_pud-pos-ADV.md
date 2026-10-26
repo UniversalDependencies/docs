@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Polish-PUD: POS Tags: `ADV`
 
-There are 167 `ADV` lemmas (3%), 176 `ADV` types (2%) and 497 `ADV` tokens (3%).
+There are 166 `ADV` lemmas (3%), 175 `ADV` types (2%) and 496 `ADV` tokens (3%).
 Out of 15 observed tags, the rank of `ADV` is: 5 in number of lemmas, 5 in number of types and 10 in number of tokens.
 
 The 10 most frequent `ADV` lemmas: <em>bardzo, kiedy, jak, tak, często, tam, wciąż, dobrze, gdzie, następnie</em>
@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>kiedy</em> (<tt><a href="pl_pud-pos-A
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.053892 (the average of all parts of speech is 1.436503).
+The form / lemma ratio of `ADV` is 1.054217 (the average of all parts of speech is 1.436422).
 
 The 1st highest number of forms (3) was observed with the lemma “bardzo”: <em>bardziej, bardzo, najbardziej</em>.
 
@@ -60,32 +60,32 @@ The 2nd highest number of forms (3) was observed with the lemma “dobrze”: <e
 
 The 3rd highest number of forms (2) was observed with the lemma “często”: <em>często, częściej</em>.
 
-`ADV` occurs with 3 features: <tt><a href="pl_pud-feat-Degree.html">Degree</a></tt> (324; 65% instances), <tt><a href="pl_pud-feat-PronType.html">PronType</a></tt> (126; 25% instances), <tt><a href="pl_pud-feat-Abbr.html">Abbr</a></tt> (2; 0% instances)
+`ADV` occurs with 4 features: <tt><a href="pl_pud-feat-Degree.html">Degree</a></tt> (323; 65% instances), <tt><a href="pl_pud-feat-PronType.html">PronType</a></tt> (126; 25% instances), <tt><a href="pl_pud-feat-ExtPos.html">ExtPos</a></tt> (19; 4% instances), <tt><a href="pl_pud-feat-Abbr.html">Abbr</a></tt> (2; 0% instances)
 
-`ADV` occurs with 10 feature-value pairs: `Abbr=Yes`, `Degree=Cmp`, `Degree=Pos`, `Degree=Sup`, `PronType=Dem`, `PronType=Ind`, `PronType=Int`, `PronType=Neg`, `PronType=Rel`, `PronType=Tot`
+`ADV` occurs with 14 feature-value pairs: `Abbr=Yes`, `Degree=Cmp`, `Degree=Pos`, `Degree=Sup`, `ExtPos=ADJ`, `ExtPos=ADP`, `ExtPos=ADV`, `ExtPos=PART`, `PronType=Dem`, `PronType=Ind`, `PronType=Int`, `PronType=Neg`, `PronType=Rel`, `PronType=Tot`
 
-`ADV` occurs with 14 feature combinations.
-The most frequent feature combination is `Degree=Pos` (227 tokens).
+`ADV` occurs with 19 feature combinations.
+The most frequent feature combination is `Degree=Pos` (218 tokens).
 Examples: <em>bardzo, często, jak, całkowicie, tak, dobrze, podobnie, ponownie, wyraźnie, obecnie</em>
 
 
 ## Relations
 
-`ADV` nodes are attached to their parents using 13 different relations: <tt><a href="pl_pud-dep-advmod.html">advmod</a></tt> (456; 92% instances), <tt><a href="pl_pud-dep-case.html">case</a></tt> (12; 2% instances), <tt><a href="pl_pud-dep-fixed.html">fixed</a></tt> (7; 1% instances), <tt><a href="pl_pud-dep-advmod-emph.html">advmod:emph</a></tt> (4; 1% instances), <tt><a href="pl_pud-dep-root.html">root</a></tt> (4; 1% instances), <tt><a href="pl_pud-dep-conj.html">conj</a></tt> (3; 1% instances), <tt><a href="pl_pud-dep-obl-cmpr.html">obl:cmpr</a></tt> (3; 1% instances), <tt><a href="pl_pud-dep-nmod.html">nmod</a></tt> (2; 0% instances), <tt><a href="pl_pud-dep-parataxis-insert.html">parataxis:insert</a></tt> (2; 0% instances), <tt><a href="pl_pud-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="pl_pud-dep-advmod-arg.html">advmod:arg</a></tt> (1; 0% instances), <tt><a href="pl_pud-dep-iobj.html">iobj</a></tt> (1; 0% instances), <tt><a href="pl_pud-dep-orphan.html">orphan</a></tt> (1; 0% instances)
+`ADV` nodes are attached to their parents using 14 different relations: <tt><a href="pl_pud-dep-advmod.html">advmod</a></tt> (448; 90% instances), <tt><a href="pl_pud-dep-case.html">case</a></tt> (12; 2% instances), <tt><a href="pl_pud-dep-advmod-cmp.html">advmod:cmp</a></tt> (7; 1% instances), <tt><a href="pl_pud-dep-fixed.html">fixed</a></tt> (7; 1% instances), <tt><a href="pl_pud-dep-advmod-emph.html">advmod:emph</a></tt> (4; 1% instances), <tt><a href="pl_pud-dep-root.html">root</a></tt> (4; 1% instances), <tt><a href="pl_pud-dep-advcl-cmp.html">advcl:cmp</a></tt> (3; 1% instances), <tt><a href="pl_pud-dep-conj.html">conj</a></tt> (3; 1% instances), <tt><a href="pl_pud-dep-amod.html">amod</a></tt> (2; 0% instances), <tt><a href="pl_pud-dep-nmod.html">nmod</a></tt> (2; 0% instances), <tt><a href="pl_pud-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="pl_pud-dep-advmod-arg.html">advmod:arg</a></tt> (1; 0% instances), <tt><a href="pl_pud-dep-iobj.html">iobj</a></tt> (1; 0% instances), <tt><a href="pl_pud-dep-orphan.html">orphan</a></tt> (1; 0% instances)
 
-Parents of `ADV` nodes belong to 8 different parts of speech: <tt><a href="pl_pud-pos-VERB.html">VERB</a></tt> (269; 54% instances), <tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt> (144; 29% instances), <tt><a href="pl_pud-pos-NOUN.html">NOUN</a></tt> (44; 9% instances), <tt><a href="pl_pud-pos-ADV.html">ADV</a></tt> (23; 5% instances), <tt><a href="pl_pud-pos-PROPN.html">PROPN</a></tt> (6; 1% instances), <tt><a href="pl_pud-pos-DET.html">DET</a></tt> (4; 1% instances),  (4; 1% instances), <tt><a href="pl_pud-pos-PART.html">PART</a></tt> (3; 1% instances)
+Parents of `ADV` nodes belong to 8 different parts of speech: <tt><a href="pl_pud-pos-VERB.html">VERB</a></tt> (269; 54% instances), <tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt> (144; 29% instances), <tt><a href="pl_pud-pos-NOUN.html">NOUN</a></tt> (43; 9% instances), <tt><a href="pl_pud-pos-ADV.html">ADV</a></tt> (23; 5% instances), <tt><a href="pl_pud-pos-PROPN.html">PROPN</a></tt> (6; 1% instances), <tt><a href="pl_pud-pos-DET.html">DET</a></tt> (4; 1% instances),  (4; 1% instances), <tt><a href="pl_pud-pos-PART.html">PART</a></tt> (3; 1% instances)
 
-399 (80%) `ADV` nodes are leaves.
+401 (81%) `ADV` nodes are leaves.
 
-75 (15%) `ADV` nodes have one child.
+73 (15%) `ADV` nodes have one child.
 
-13 (3%) `ADV` nodes have two children.
+12 (2%) `ADV` nodes have two children.
 
 10 (2%) `ADV` nodes have three or more children.
 
 The highest child degree of a `ADV` node is 6.
 
-Children of `ADV` nodes are attached using 18 different relations: <tt><a href="pl_pud-dep-punct.html">punct</a></tt> (22; 16% instances), <tt><a href="pl_pud-dep-fixed.html">fixed</a></tt> (19; 14% instances), <tt><a href="pl_pud-dep-advmod-emph.html">advmod:emph</a></tt> (18; 13% instances), <tt><a href="pl_pud-dep-advmod.html">advmod</a></tt> (14; 10% instances), <tt><a href="pl_pud-dep-obl-cmpr.html">obl:cmpr</a></tt> (13; 10% instances), <tt><a href="pl_pud-dep-ccomp.html">ccomp</a></tt> (9; 7% instances), <tt><a href="pl_pud-dep-advmod-neg.html">advmod:neg</a></tt> (5; 4% instances), <tt><a href="pl_pud-dep-conj.html">conj</a></tt> (5; 4% instances), <tt><a href="pl_pud-dep-xcomp.html">xcomp</a></tt> (5; 4% instances), <tt><a href="pl_pud-dep-cc.html">cc</a></tt> (4; 3% instances), <tt><a href="pl_pud-dep-mark.html">mark</a></tt> (4; 3% instances), <tt><a href="pl_pud-dep-obl.html">obl</a></tt> (4; 3% instances), <tt><a href="pl_pud-dep-obl-arg.html">obl:arg</a></tt> (4; 3% instances), <tt><a href="pl_pud-dep-case.html">case</a></tt> (3; 2% instances), <tt><a href="pl_pud-dep-cop.html">cop</a></tt> (3; 2% instances), <tt><a href="pl_pud-dep-acl-relcl.html">acl:relcl</a></tt> (2; 1% instances), <tt><a href="pl_pud-dep-advcl.html">advcl</a></tt> (1; 1% instances), <tt><a href="pl_pud-dep-cc-preconj.html">cc:preconj</a></tt> (1; 1% instances)
+Children of `ADV` nodes are attached using 18 different relations: <tt><a href="pl_pud-dep-punct.html">punct</a></tt> (22; 17% instances), <tt><a href="pl_pud-dep-fixed.html">fixed</a></tt> (19; 14% instances), <tt><a href="pl_pud-dep-advmod-emph.html">advmod:emph</a></tt> (18; 14% instances), <tt><a href="pl_pud-dep-ccomp.html">ccomp</a></tt> (16; 12% instances), <tt><a href="pl_pud-dep-advmod.html">advmod</a></tt> (14; 11% instances), <tt><a href="pl_pud-dep-advmod-neg.html">advmod:neg</a></tt> (5; 4% instances), <tt><a href="pl_pud-dep-conj.html">conj</a></tt> (5; 4% instances), <tt><a href="pl_pud-dep-xcomp.html">xcomp</a></tt> (5; 4% instances), <tt><a href="pl_pud-dep-cc.html">cc</a></tt> (4; 3% instances), <tt><a href="pl_pud-dep-mark.html">mark</a></tt> (4; 3% instances), <tt><a href="pl_pud-dep-obl.html">obl</a></tt> (4; 3% instances), <tt><a href="pl_pud-dep-obl-arg.html">obl:arg</a></tt> (4; 3% instances), <tt><a href="pl_pud-dep-case.html">case</a></tt> (3; 2% instances), <tt><a href="pl_pud-dep-cop.html">cop</a></tt> (3; 2% instances), <tt><a href="pl_pud-dep-acl-relcl.html">acl:relcl</a></tt> (2; 2% instances), <tt><a href="pl_pud-dep-advcl-cmp.html">advcl:cmp</a></tt> (2; 2% instances), <tt><a href="pl_pud-dep-advcl.html">advcl</a></tt> (1; 1% instances), <tt><a href="pl_pud-dep-cc-preconj.html">cc:preconj</a></tt> (1; 1% instances)
 
-Children of `ADV` nodes belong to 11 different parts of speech: <tt><a href="pl_pud-pos-ADV.html">ADV</a></tt> (23; 17% instances), <tt><a href="pl_pud-pos-PART.html">PART</a></tt> (22; 16% instances), <tt><a href="pl_pud-pos-PUNCT.html">PUNCT</a></tt> (22; 16% instances), <tt><a href="pl_pud-pos-NOUN.html">NOUN</a></tt> (19; 14% instances), <tt><a href="pl_pud-pos-ADP.html">ADP</a></tt> (16; 12% instances), <tt><a href="pl_pud-pos-VERB.html">VERB</a></tt> (15; 11% instances), <tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt> (6; 4% instances), <tt><a href="pl_pud-pos-CCONJ.html">CCONJ</a></tt> (5; 4% instances), <tt><a href="pl_pud-pos-SCONJ.html">SCONJ</a></tt> (4; 3% instances), <tt><a href="pl_pud-pos-AUX.html">AUX</a></tt> (3; 2% instances), <tt><a href="pl_pud-pos-PRON.html">PRON</a></tt> (1; 1% instances)
+Children of `ADV` nodes belong to 10 different parts of speech: <tt><a href="pl_pud-pos-ADV.html">ADV</a></tt> (23; 17% instances), <tt><a href="pl_pud-pos-PART.html">PART</a></tt> (22; 17% instances), <tt><a href="pl_pud-pos-PUNCT.html">PUNCT</a></tt> (22; 17% instances), <tt><a href="pl_pud-pos-NOUN.html">NOUN</a></tt> (17; 13% instances), <tt><a href="pl_pud-pos-ADP.html">ADP</a></tt> (16; 12% instances), <tt><a href="pl_pud-pos-VERB.html">VERB</a></tt> (15; 11% instances), <tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt> (5; 4% instances), <tt><a href="pl_pud-pos-CCONJ.html">CCONJ</a></tt> (5; 4% instances), <tt><a href="pl_pud-pos-SCONJ.html">SCONJ</a></tt> (4; 3% instances), <tt><a href="pl_pud-pos-AUX.html">AUX</a></tt> (3; 2% instances)
 

@@ -36,4 +36,4 @@ Hier wohnt kein einziger Mensch . \n Not a single person lives here .
 det(Mensch, kein)
 ~~~
 
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:48 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:01 CEST -->

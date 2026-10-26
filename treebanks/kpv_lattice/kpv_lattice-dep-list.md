@@ -31,20 +31,20 @@ The following 3 pairs of parts of speech are connected with `list`: <tt><a href=
 7	му	му	NOUN	N	Case=Nom|Number=Sing	1	list	_	SpaceAfter=No
 8	,	,	PUNCT	CLB	_	9	punct	_	_
 9	сынӧд	сынӧд	NOUN	N	Case=Nom|Number=Sing	1	list	_	_
-10	некор	некор	ADV	Adv	Polarity=Neg	13	advmod:tmod	_	_
-11	эз	оз	AUX	V	Mood=Ind|Person=3|Polarity=Neg|Tense=Past	13	aux	_	_
+10	некор	некор	ADV	Adv	Polarity=Neg	13	advmod	_	_
+11	эз	оз	AUX	V	Mood=Ind|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin	13	aux	_	_
 12	вӧвны	вӧвны	AUX	V	Connegative=Yes	13	cop	_	_
 13	ловъяӧсь	ловъя	ADJ	A	Case=Nom|Number[subj]=Plur	0	root	_	SpaceAfter=No
 14	,	,	PUNCT	CLB	_	19	punct	_	_
 15	сы	сы	PRON	Pron	PronType=Dem	19	obl	_	_
 16	понда	понда	ADP	Po	_	15	case	_	_
 17	найӧясӧс	найӧ	PRON	Pron	Case=Acc|Number=Plur|Person=3|PronType=Prs	19	obj	_	_
-18	ог	оз	AUX	V	Mood=Ind|Person=1|Polarity=Neg|Tense=Pres	19	aux	_	_
+18	ог	оз	AUX	V	Mood=Ind|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin	19	aux	_	_
 19	шуӧй	шуны	VERB	V	Connegative=Yes	13	advcl	_	_
 20	кулӧм	кувны	VERB	V	Case=Nom|Number=Sing|Tense=Past|VerbForm=Part	21	amod	_	_
 21	торъясӧн	тор	NOUN	N	Case=Ins|Number=Plur	19	xcomp	_	_
 22	—	—	PUNCT	PUNCT	_	23	punct	_	_
-23	шуам	шуны	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres	19	conj	_	_
+23	шуам	шуны	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	19	conj	_	_
 24	ловтӧм	ловтӧм	ADJ	A	Case=Nom|Number=Sing	25	amod	_	_
 25	торъясӧн	тор	NOUN	N	Case=Ins|Number=Plur	23	xcomp	_	SpaceAfter=No
 26	.	.	PUNCT	CLB	_	13	punct	_	_
@@ -60,7 +60,7 @@ The following 3 pairs of parts of speech are connected with `list`: <tt><a href=
 # visual-style 4 21 list	color:blue
 1	А	а	CCONJ	CC	_	4	cc	_	_
 2	местаясыс	места	NOUN	N	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	4	nsubj:cop	_	GTtags=Pl,Nom,PxSg3
-3	тані	тані	ADV	Adv	_	4	advmod:lmod	_	_
+3	тані	тані	ADV	Adv	_	4	advmod	_	_
 4	мичаӧсь	мича	ADJ	A	Number[subj]=Plur	0	root	_	GTtags=Cop,Pl|SpaceAfter=No
 5	,	,	PUNCT	CLB	_	6	punct	_	_
 6	прӧмысаӧсь	прӧмыс	NOUN	N	Derivation=ProprietiveMod|Number=Sing|Number[subj]=Plur	4	conj	_	GTtags=Sg,Der,Der/ProprietiveMod,A,Cop,Pl
@@ -94,13 +94,13 @@ The following 3 pairs of parts of speech are connected with `list`: <tt><a href=
 # visual-style 49	bgColor:blue
 # visual-style 49	fgColor:white
 # visual-style 49 51 list	color:blue
-1	Сиктса	сикт	NOUN	N	Case=Loc|Number=Sing	3	nmod:lmod	_	_
+1	Сиктса	сикт	NOUN	N	Case=Loc|Number=Sing	3	nmod	_	_
 2	партийно-комсомольскӧй	партийно-комсомольскӧй	ADJ	A	Case=Nom|Number=Sing	3	amod	_	OrigLang=ru
 3	организацияяс	организация	NOUN	N	Case=Nom|Number=Plur	5	nsubj	_	OrigLang=ru
-4	ӧні	ӧні	ADV	Adv	_	5	advmod:tmod	_	_
+4	ӧні	ӧні	ADV	Adv	_	5	advmod	_	_
 5	долженӧсь	долженӧсь	ADJ	A	Case=Nom|Number[subj]=Plur	0	root	_	OrigLang=ru
 6	веськӧдны	веськӧдны	VERB	V	VerbForm=Inf	5	advcl	_	_
-7	став	став	DET	Det	Case=Nom|Number=Sing	9	det	_	_
+7	став	став	DET	Det	Case=Nom|Number=Sing|PronType=Tot	9	det	_	_
 8	агитационно-массӧвӧй	агитационнӧй-массӧвӧй	ADJ	A	Case=Nom|Number=Sing	9	amod	_	OrigLang=ru
 9	удж	удж	NOUN	N	Case=Nom|Number=Sing	6	obj	_	_
 10	сы	сійӧ	PRON	Pron	Case=Adp|Number=Sing|Person=3|PronType=Prs	6	obl	_	_
@@ -109,14 +109,14 @@ The following 3 pairs of parts of speech are connected with `list`: <tt><a href=
 13	медым	медым	SCONJ	CS	_	17	mark	_	_
 14	урожай	урожай	NOUN	N	Case=Nom|Number=Sing	15	nmod:obj	_	OrigLang=ru
 15	идралӧмын	идравны	VERB	V	Case=Ine|Number=Sing|Tense=Past|VerbForm=Part	17	csubj	_	_
-16	паськыда	паськыда	ADV	Adv	_	17	advmod:mmod	_	_
+16	паськыда	паськыда	ADV	Adv	_	17	advmod	_	_
 17	котыртны	котыртны	VERB	V	VerbForm=Inf	10	acl:relcl	_	_
 18	социалистическӧй	социалистическӧй	ADJ	A	Case=Nom|Number=Sing	19	amod	_	OrigLang=ru
 19	ордйысьӧм	ордйысьны	VERB	V	Case=Nom|Number=Sing|Tense=Past|VerbForm=Part	17	obj	_	SpaceAfter=No
 20	,	,	PUNCT	CLB	_	22	punct	_	_
 21	коді	коді	PRON	Pron	Case=Nom|Number=Sing|PronType=Int	22	nsubj	_	_
-22	обеспечитіс	обеспечитны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	19	acl:relcl	_	OrigLang=ru
-23	эськӧ	эськӧ	ADV	Adv	_	22	advmod:eval	_	_
+22	обеспечитіс	обеспечитны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	19	acl:relcl	_	OrigLang=ru
+23	эськӧ	эськӧ	ADV	Adv	_	22	advmod	_	_
 24	большевистскӧй	большевистскӧй	ADJ	A	Case=Nom|Number=Sing	25	amod	_	OrigLang=ru
 25	успех	успех	NOUN	N	Case=Nom|Number=Sing	22	obj	_	OrigLang=ru
 26	урожай	урожай	NOUN	N	Case=Nom|Number=Sing	27	nmod:obj	_	OrigLang=ru
@@ -125,17 +125,17 @@ The following 3 pairs of parts of speech are connected with `list`: <tt><a href=
 29	паськӧдны	паськӧдны	VERB	V	VerbForm=Inf	17	conj	_	_
 30	движение	движение	NOUN	N	Case=Nom|Number=Sing	29	obj	_	OrigLang=ru
 31	1940	1940	NUM	Num	Case=Nom|Number=Sing|NumType=Card	32	nummod	_	_
-32	воын	во	NOUN	N	Case=Ine|Number=Sing	37	obl:tmod	_	_
+32	воын	во	NOUN	N	Case=Ine|Number=Sing	37	obl	_	_
 33	ставсоюзса	ставсоюзса	ADJ	A	Case=Nom|Number=Sing	35	amod	_	OrigLang=ru
 34	сельскохозяйственнӧй	сельскохозяйственнӧй	ADJ	A	Case=Nom|Number=Sing	35	amod	_	OrigLang=ru
-35	выставка	выставка	NOUN	N	Case=Nom|Number=Sing	37	obl:lmod	_	OrigLang=ru
+35	выставка	выставка	NOUN	N	Case=Nom|Number=Sing	37	obl	_	OrigLang=ru
 36	вылын	вылын	ADP	Po	AdpType=Post|Case=Ine|Number=Sing	35	case	_	_
 37	участвуйтан	участвуйтны	VERB	V	Case=Nom|Derivation=An|Number=Sing	38	acl	_	OrigLang=ru
 38	право	право	NOUN	N	Case=Nom|Number=Sing	39	nmod	_	OrigLang=ru
 39	шедӧдӧм	шедӧдны	VERB	V	Case=Nom|Number=Sing|Tense=Past|VerbForm=Part	29	advcl	_	_
 40	вӧсна	вӧсна	ADP	Po	AdpType=Post	39	case	_	_
 41	не	не	AUX	Pcle	_	43	aux:neg	_	_
-42	сӧмын	сӧмын	ADV	Adv	_	43	advmod:foc	_	_
+42	сӧмын	сӧмын	ADV	Adv	_	43	advmod	_	_
 43	ӧткаӧн	ӧтка	ADJ	A	Case=Ins|Number=Sing	29	obl	_	SpaceAfter=No
 44	,	,	PUNCT	CLB	_	47	punct	_	_
 45	но	но	CCONJ	CC	_	47	cc	_	_

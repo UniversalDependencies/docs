@@ -28,4 +28,4 @@ fixed(かも, しれ)
 fixed(かも, ない)
 punct(降る, 。)
 ~~~
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:55 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:08 CEST -->

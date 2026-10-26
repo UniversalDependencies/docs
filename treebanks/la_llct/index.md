@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.6 release.
 The following people have contributed to making this treebank part of UD: Timo Korkiakangas, Flavio Massimiliano Cecchini, Marco Passarotti.
 
 Repository: [UD_Latin-LLCT](https://github.com/UniversalDependencies/UD_Latin-LLCT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udla_llct215)<br />
-Download all treebanks: [UD 2.15](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udla_llct218)<br />
+Download all treebanks: [UD 2.18](/#download)
 
 License: CC BY-SA 4.0
 
@@ -67,7 +67,7 @@ The conversion of the LLCT2 into the Universal Dependencies was realized by Flav
 
 ## Features
 
-[AdvType](la_llct-feat-AdvType.html) – [Aspect](la_llct-feat-Aspect.html) – [Case](la_llct-feat-Case.html) – [Degree](la_llct-feat-Degree.html) – [Form](la_llct-feat-Form.html) – [Gender](la_llct-feat-Gender.html) – [InflClass](la_llct-feat-InflClass.html) – [Mood](la_llct-feat-Mood.html) – [NameType](la_llct-feat-NameType.html) – [Number](la_llct-feat-Number.html) – [Number[psor]](la_llct-feat-Number-psor.html) – [NumForm](la_llct-feat-NumForm.html) – [NumType](la_llct-feat-NumType.html) – [NumValue](la_llct-feat-NumValue.html) – [Person](la_llct-feat-Person.html) – [Person[psor]](la_llct-feat-Person-psor.html) – [Polarity](la_llct-feat-Polarity.html) – [Poss](la_llct-feat-Poss.html) – [PronType](la_llct-feat-PronType.html) – [Proper](la_llct-feat-Proper.html) – [Reflex](la_llct-feat-Reflex.html) – [Tense](la_llct-feat-Tense.html) – [VerbForm](la_llct-feat-VerbForm.html) – [Voice](la_llct-feat-Voice.html)
+[AdvType](la_llct-feat-AdvType.html) – [Aspect](la_llct-feat-Aspect.html) – [Case](la_llct-feat-Case.html) – [Degree](la_llct-feat-Degree.html) – [ExtPos](la_llct-feat-ExtPos.html) – [Form](la_llct-feat-Form.html) – [Gender](la_llct-feat-Gender.html) – [InflClass](la_llct-feat-InflClass.html) – [Mood](la_llct-feat-Mood.html) – [NameType](la_llct-feat-NameType.html) – [Number](la_llct-feat-Number.html) – [Number[psor]](la_llct-feat-Number-psor.html) – [NumForm](la_llct-feat-NumForm.html) – [NumType](la_llct-feat-NumType.html) – [NumValue](la_llct-feat-NumValue.html) – [Person](la_llct-feat-Person.html) – [Person[psor]](la_llct-feat-Person-psor.html) – [Polarity](la_llct-feat-Polarity.html) – [Poss](la_llct-feat-Poss.html) – [PronType](la_llct-feat-PronType.html) – [Proper](la_llct-feat-Proper.html) – [Reflex](la_llct-feat-Reflex.html) – [Tense](la_llct-feat-Tense.html) – [VerbForm](la_llct-feat-VerbForm.html) – [Voice](la_llct-feat-Voice.html)
 
 ## Relations
 
@@ -752,6 +752,49 @@ The conversion of the LLCT2 into the Universal Dependencies was realized by Flav
 </ul>
 
 <ul>
+  <li><a>ExtPos</a>
+    <ul>
+      <li>ADP
+        <ul>
+          <li>ADP: lato, de, prope, latus, pro</li>
+          <li>ADV: una, usque, excepto, insimul, huna</li>
+          <li>CCONJ: excepto</li>
+        </ul>
+      </li>
+      <li>ADV
+        <ul>
+          <li>ADV: scilicet, simul</li>
+        </ul>
+      </li>
+      <li>CCONJ
+        <ul>
+          <li>ADV: insuper, itemque</li>
+          <li>CCONJ: seo, seu, sive, necnon, adque, quam, aut, et, quamque, vel</li>
+          <li>PART: quidem, ne</li>
+          <li>PRON: id</li>
+          <li>SCONJ: quam</li>
+        </ul>
+      </li>
+      <li>DET
+        <ul>
+          <li>ADV: iam, ia, iac, ian</li>
+          <li>DET: qui, cui, que, quorum</li>
+        </ul>
+      </li>
+      <li>SCONJ
+        <ul>
+          <li>ADP: in, iusta, anteposito, iuxta, secundum</li>
+          <li>ADV: simul, similiter, anteposito, etiam, propterea, quatenus</li>
+          <li>CCONJ: quatenus</li>
+          <li>PRON: eo</li>
+          <li>SCONJ: sicut, quod</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li><a>Form</a>
     <ul>
       <li>Emp
@@ -917,16 +960,16 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--NOUN-Acc (4)</li>
       <li>VERB--PRON-Acc (1)</li>
       <li>VERB-Fin--NOUN-Abl (2)</li>
-      <li>VERB-Fin--NOUN-Acc (2018)</li>
+      <li>VERB-Fin--NOUN-Acc (2009)</li>
       <li>VERB-Fin--NOUN-Gen (1)</li>
       <li>VERB-Fin--NOUN-Nom (105)</li>
-      <li>VERB-Fin--PRON-Acc (1089)</li>
+      <li>VERB-Fin--PRON-Acc (1081)</li>
       <li>VERB-Fin--PRON-Nom (14)</li>
-      <li>VERB-Inf--NOUN-Acc (1591)</li>
+      <li>VERB-Inf--NOUN-Acc (1589)</li>
       <li>VERB-Inf--NOUN-Nom (98)</li>
-      <li>VERB-Inf--PRON-Acc (322)</li>
+      <li>VERB-Inf--PRON-Acc (320)</li>
       <li>VERB-Inf--PRON-Nom (11)</li>
-      <li>VERB-Part--NOUN-Acc (820)</li>
+      <li>VERB-Part--NOUN-Acc (819)</li>
       <li>VERB-Part--NOUN-Nom (11)</li>
       <li>VERB-Part--PRON-Acc (89)</li>
     </ul>
@@ -937,8 +980,10 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>iobj</a>
     <ul>
       <li>VERB-Fin--NOUN-Nom (6)</li>
+      <li>VERB-Fin--PRON-Acc (8)</li>
       <li>VERB-Fin--PRON-Nom (1)</li>
       <li>VERB-Inf--NOUN-Nom (3)</li>
+      <li>VERB-Inf--PRON-Acc (1)</li>
       <li>VERB-Inf--PRON-Nom (1)</li>
       <li>VERB-Part--NOUN-Nom (1)</li>
     </ul>

@@ -8,86 +8,73 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="la_circse-dep-conj.html">conj</a></tt>.
 
-37 nodes (0%) are attached to their parents as `conj:expl`.
+74 nodes (0%) are attached to their parents as `conj:expl`.
 
-37 instances of `conj:expl` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.51351351351351.
+74 instances of `conj:expl` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.01351351351351.
 
-The following 11 pairs of parts of speech are connected with `conj:expl`: <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt> (9; 24% instances), <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_circse-pos-VERB.html">VERB</a></tt> (8; 22% instances), <tt><a href="la_circse-pos-DET.html">DET</a></tt>-<tt><a href="la_circse-pos-VERB.html">VERB</a></tt> (5; 14% instances), <tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt> (3; 8% instances), <tt><a href="la_circse-pos-DET.html">DET</a></tt>-<tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt> (3; 8% instances), <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_circse-pos-PROPN.html">PROPN</a></tt> (3; 8% instances), <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-VERB.html">VERB</a></tt> (2; 5% instances), <tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_circse-pos-VERB.html">VERB</a></tt> (1; 3% instances), <tt><a href="la_circse-pos-DET.html">DET</a></tt>-<tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt> (1; 3% instances), <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt> (1; 3% instances), <tt><a href="la_circse-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_circse-pos-PROPN.html">PROPN</a></tt> (1; 3% instances).
+The following 16 pairs of parts of speech are connected with `conj:expl`: <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt> (13; 18% instances), <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-VERB.html">VERB</a></tt> (13; 18% instances), <tt><a href="la_circse-pos-DET.html">DET</a></tt>-<tt><a href="la_circse-pos-VERB.html">VERB</a></tt> (11; 15% instances), <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_circse-pos-VERB.html">VERB</a></tt> (10; 14% instances), <tt><a href="la_circse-pos-DET.html">DET</a></tt>-<tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt> (7; 9% instances), <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_circse-pos-PROPN.html">PROPN</a></tt> (6; 8% instances), <tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt> (3; 4% instances), <tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_circse-pos-VERB.html">VERB</a></tt> (2; 3% instances), <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt> (2; 3% instances), <tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="la_circse-pos-DET.html">DET</a></tt>-<tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_circse-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="la_circse-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="la_circse-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_circse-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-PRON.html">PRON</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 9 conj:expl	color:blue
-1	ipsam	ipse	DET	I	Case=Acc|Form=Emp|Gender=Fem|InflClass=LatPron|Number=Sing|PronType=Dem	3	det	_	LiLaflcat=p
-2	Rheni	rhenus	PROPN	A2	Case=Gen|Gender=Masc|InflClass=IndEurO|NameType=Geo|Number=Sing	3	nmod	_	LASLAVariant=N|LiLaflcat=n2
-3	ripam	ripa	NOUN	A1	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing	8	obj	_	LiLaflcat=n1
-4	haud	haud	PART	P	Polarity=Neg	5	advmod:neg	_	LiLaflcat=i
-5	dubie	dubie	ADV	M	_	8	advmod	_	LiLaflcat=i
-6	Germanorum	germanus	ADJ	A2	Case=Gen|Gender=Masc|InflClass=IndEurO|NameType=Nat|Number=Plur	7	nmod	_	LASLAVariant=N|LiLaflcat=n2
-7	populi	populus	NOUN	A2	Case=Nom|Gender=Masc|InflClass=IndEurO|Number=Plur	8	nsubj	_	LASLAVariant=1|LiLaflcat=n2
-8	colunt	colo	VERB	B3	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LASLAVariant=2|LiLaflcat=v3|TraditionalMood=Indicativus|TraditionalTense=Praesens
-9	Uangiones	uangiones	NOUN	A3	Case=Nom|Gender=Masc|InflClass=IndEurX|NameType=Nat|Number=Plur	7	conj:expl	_	LASLAVariant=N|LiLaflcat=n3
-10	Triboci	triboci	NOUN	A2	Case=Nom|Gender=Masc|InflClass=IndEurO|NameType=Nat|Number=Plur	9	conj	_	LASLAVariant=N|LiLaflcat=n2
-11	Nemetes	nemetes	NOUN	A3	Case=Nom|Gender=Masc|InflClass=IndEurI|NameType=Nat|Number=Plur	9	conj	_	LASLAVariant=N|LiLaflcat=n3
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 11 conj:expl	color:blue
+1	si	si	SCONJ	T	_	4	mark	_	_
+2	fida	fidus	ADJ	C1	Case=Nom|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Sing	4	amod	_	_
+3	es	sum	AUX	B6	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	comes	comes	NOUN	A3	Case=Nom|Gender=Fem|InflClass=IndEurX|Number=Sing	7	advcl	_	_
+5	ensem	ensis	NOUN	A3	Case=Acc|Gender=Masc|InflClass=IndEurI|Number=Sing	7	obj	_	_
+6	parenti	parens	NOUN	A3	Case=Dat|Gender=Masc|InflClass=IndEurI|Number=Sing	7	obl:arg	_	_
+7	trade	trado	VERB	B3	Aspect=Imp|InflClass=LatX|Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+8	sed	sed	CCONJ	S	_	11	cc	_	_
+9	notum	notus	ADJ	C1	Case=Acc|Degree=Pos|Gender=Masc|InflClass=IndEurO|Number=Sing	11	amod	_	_
+10	nece	nex	NOUN	A3	Case=Abl|Gender=Fem|InflClass=IndEurX|Number=Sing	9	obl	_	_
+11	ensem	ensis	NOUN	A3	Case=Acc|Gender=Masc|InflClass=IndEurI|Number=Sing	5	conj:expl	_	_
+12	paterna	paternus	ADJ	C1	Case=Abl|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Sing	10	amod	_	_
 
 ~~~
 
 
 ~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 5 conj:expl	color:blue
+1	quod	qui	PRON	J	Case=Nom|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Rel	2	nsubj	_	LASLAVariant=1|LiLaflcat=p
+2	dest	desum	VERB	B6	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LASLAVariant=1|LiLaflcat=v6
+3	secunda	secundus	ADJ	C1	Case=Nom|Degree=Pos|Gender=Neut|InflClass=IndEurO|Number=Plur	5	nsubj	_	LASLAVariant=1|LiLaflcat=n6
+4	non	non	PART	P	Polarity=Neg	5	advmod:neg	_	LiLaflcat=i
+5	habent	habeo	VERB	B2	Aspect=Imp|InflClass=LatE|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj:expl	_	LiLaflcat=v2
+6	umquam	umquam	ADV	M	Degree=Pos	5	advmod:tmod	_	LiLaflcat=i
+7	modum	modus	NOUN	A2	Case=Acc|Gender=Masc|InflClass=IndEurO|Number=Sing	5	obj	_	LiLaflcat=n2
+
+~~~
+
+
+~~~ conllu
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 8 conj:expl	color:blue
-1	adicit	adicio	VERB	B5	Aspect=Imp|InflClass=LatI2|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LiLaflcat=v5|TraditionalMood=Indicativus|TraditionalTense=Praesens
-2	auctoritatem	auctoritas	NOUN	A3	Case=Acc|Gender=Fem|InflClass=IndEurX|Number=Sing	1	obj	_	LiLaflcat=n3
-3	fortuna	fortuna	NOUN	A1	Case=Nom|Gender=Fem|InflClass=IndEurA|Number=Sing	1	nsubj	_	LiLaflcat=n1
-4	Semnonum	semnones	NOUN	A3	Case=Gen|Gender=Masc|InflClass=IndEurX|NameType=Nat|Number=Plur	3	nmod	_	LASLAVariant=N|LiLaflcat=n3
-5	centum	centum	NUM	D1	NumForm=Word|NumType=Card	6	nummod	_	LiLaflcat=n
-6	pagi	pagus	NOUN	A2	Case=Nom|Gender=Masc|InflClass=IndEurO|Number=Plur	8	nsubj:pass	_	LiLaflcat=n2
-7	iis	is	PRON	I	Case=Dat|Gender=Masc|InflClass=LatPron|Number=Plur|Person=3|PronType=Prs	8	obl:agent	_	LiLaflcat=p
-8	habitantur	habito	VERB	B1	Aspect=Imp|InflClass=LatA|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	3	conj:expl	_	LiLaflcat=v1|TraditionalMood=Indicativus|TraditionalTense=Praesens
-9	magno	magnus	ADJ	C1	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Sing	11	amod	_	LiLaflcat=n6
-10	que	que	CCONJ	S	_	12	cc	_	LiLaflcat=i
-11	corpore	corpus	NOUN	A3	Case=Abl|Gender=Neut|InflClass=IndEurX|Number=Sing	12	obl	_	LiLaflcat=n3
-12	efficitur	efficio	VERB	B5	Aspect=Imp|InflClass=LatI2|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	8	conj	_	LiLaflcat=v5|TraditionalMood=Indicativus|TraditionalTense=Praesens
-13	ut	ut	SCONJ	T	PronType=Rel	17	mark	_	LASLAVariant=4|LiLaflcat=i
-14	se	sui	PRON	G	Case=Acc|InflClass=LatAnom|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	17	obj	_	LASLAVariant=1|LiLaflcat=p
-15	Sueborum	suebi	NOUN	A2	Case=Gen|Gender=Masc|InflClass=IndEurO|NameType=Nat|Number=Plur	16	nmod	_	LASLAVariant=N|LiLaflcat=n2
-16	caput	caput	NOUN	A3	Case=Acc|Gender=Neut|InflClass=IndEurX|Number=Sing	17	xcomp	_	LiLaflcat=n3
-17	credant	credo	VERB	B3	Aspect=Imp|InflClass=LatX|Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	csubj:pass	_	LiLaflcat=v3|TraditionalMood=Subiunctivus|TraditionalTense=Praesens
-
-~~~
-
-
-~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 7 conj:expl	color:blue
-1	cetera	ceterus	DET	A2	Case=Acc|Gender=Neut|InflClass=IndEurO|Number=Plur|PronType=Con	2	obl	_	LASLAVariant=1|LiLaflcat=n2
-2	similes	similis	ADJ	C4	Case=Nom|Gender=Masc|InflClass=IndEurI|Number=Plur	4	advcl:pred	_	LiLaflcat=n7
-3	uno	unus	DET	A2	Case=Abl|Gender=Neut|InflClass=LatPron|Number=Sing|NumForm=Word|NumType=Card|NumValue=1|PronType=Ind	4	obl	_	LiLaflcat=n2
-4	differunt	differo	VERB	B6	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LiLaflcat=v6|TraditionalMood=Indicativus|TraditionalTense=Praesens
-5	quod	quod	SCONJ	T	PronType=Rel	7	mark	_	LASLAVariant=2|LiLaflcat=i
-6	femina	femina	NOUN	A1	Case=Nom|Gender=Fem|InflClass=IndEurA|Number=Sing	7	nsubj	_	LiLaflcat=n1
-7	dominatur	dominor	VERB	B1	Aspect=Imp|InflClass=LatA|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	3	conj:expl	_	LiLaflcat=v1|TraditionalMood=Indicativus|TraditionalTense=Praesens
-8	in	in	ADP	R	_	9	case	_	LiLaflcat=i
-9	tantum	tantum	DET	I	Case=Acc|Gender=Neut|InflClass=IndEurO|Number=Sing|NumType=Card|PronType=Dem	18	obl	_	LASLAVariant=1|LiLaflcat=n6
-10	non	non	PART	P	Polarity=Neg	13	advmod:neg	_	LiLaflcat=i
-11	modo	modo	ADV	M	_	13	advmod:emph	_	LASLAVariant=1|LiLaflcat=i
-12	a	ab	ADP	R	_	13	case	_	LiLaflcat=i
-13	libertate	libertas	NOUN	A3	Case=Abl|Gender=Fem|InflClass=IndEurX|Number=Sing	18	obl	_	LiLaflcat=n3
-14	sed	sed	CCONJ	S	_	17	cc	_	LiLaflcat=i
-15	etiam	etiam	ADV	M	Compound=Yes	17	advmod:emph	_	LiLaflcat=i
-16	a	ab	ADP	R	_	17	case	_	LiLaflcat=i
-17	seruitute	seruitus	NOUN	A3	Case=Abl|Gender=Fem|InflClass=IndEurX|Number=Sing	13	conj	_	LiLaflcat=n3
-18	degenerant	degenero	VERB	B1	Aspect=Imp|InflClass=LatA|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	LiLaflcat=v1|TraditionalMood=Indicativus|TraditionalTense=Praesens
+# visual-style 8 13 conj:expl	color:blue
+1	ne	ne	SCONJ	T	Polarity=Neg	6	mark	_	_
+2	quid	quis	PRON	L	Case=Nom|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Ind	6	nsubj	_	_
+3	e	ex	ADP	R	AdpType=Prep	4	case	_	_
+4	fatis	fatum	NOUN	A2	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Plur	6	obl	_	_
+5	tibi	tu	PRON	E	Case=Dat|InflClass=LatAnom|Number=Sing|Person=2|PronType=Prs	6	obl:arg	_	_
+6	desset	desum	VERB	B6	Aspect=Imp|InflClass=LatAnom|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	12	advcl	_	_
+7	paternis	paternus	ADJ	C1	Case=Abl|Degree=Pos|Gender=Neut|InflClass=IndEurO|Number=Plur	4	amod	_	_
+8	hoc	hic	DET	I	Case=Acc|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Dem	12	obj	_	_
+9	quoque	quoque	PART	M	_	8	advmod:emph	_	_
+10	ex	ex	ADP	R	AdpType=Prep	11	case	_	_
+11	illis	ille	DET	I	Case=Abl|Gender=Fem,Masc,Neut|InflClass=LatPron|Number=Plur|PronType=Dem	12	obl	_	_
+12	habes	habeo	VERB	B2	Aspect=Imp|InflClass=LatE|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+13	errasse	erro	VERB	B1	Aspect=Perf|InflClass=LatA|InflClass[nominal]=Ind|VerbForm=Inf|Voice=Act	8	conj:expl	_	_
+14	thalamis	thalamus	NOUN	A2	Case=Abl|Gender=Masc|InflClass=IndEurO|Number=Plur	13	obl	_	_
 
 ~~~
 

@@ -6,7 +6,7 @@ udver: '2'
 
 # UD for Egyptian <span class="flagspan"><img class="flag" src="../../flags/svg/EG.svg" /></span>
 
-This is an overview based on the works cited in the README bibliography. Please note that this is a work in progress. A detailed description of each stage of Egyptian is planned to be published.
+This is an overview based on the works cited in the README bibliography. It was written by Roberto A. Díaz Hernández. Please note that this is a work in progress. A detailed description of each stage of Egyptian is planned to be published.
 
 
 ## Introduction
@@ -191,5 +191,5 @@ Marker ([mark](https://universaldependencies.org/u/dep/mark.html)):
 
 There is a single Egyptian UD treebank:
 
-  * [Egyptian-UJaen](../treebanks/egy_ujaen/index.html)
+  * [Egyptian-PC](../treebanks/egy_pc/index.html)
 

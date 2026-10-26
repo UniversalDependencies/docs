@@ -185,11 +185,11 @@ The most frequent other feature values with which `ADP` and `Number` co-occurred
 
 The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>NOUN --[<tt><a href="krl_kkpp-dep-amod.html">amod</a></tt>]--> ADJ</tt> (138; 92%),
-<tt>NOUN --[<tt><a href="krl_kkpp-dep-nmod-poss.html">nmod:poss</a></tt>]--> NOUN</tt> (77; 68%),
+<tt>NOUN --[<tt><a href="krl_kkpp-dep-nmod-poss.html">nmod:poss</a></tt>]--> NOUN</tt> (79; 68%),
 <tt>VERB --[<tt><a href="krl_kkpp-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (67; 74%),
 <tt>VERB --[<tt><a href="krl_kkpp-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (66; 84%),
-<tt>NOUN --[<tt><a href="krl_kkpp-dep-conj.html">conj</a></tt>]--> NOUN</tt> (54; 67%),
-<tt>NOUN --[<tt><a href="krl_kkpp-dep-nmod-poss.html">nmod:poss</a></tt>]--> PROPN</tt> (32; 56%),
+<tt>NOUN --[<tt><a href="krl_kkpp-dep-conj.html">conj</a></tt>]--> NOUN</tt> (57; 67%),
+<tt>NOUN --[<tt><a href="krl_kkpp-dep-nmod-poss.html">nmod:poss</a></tt>]--> PROPN</tt> (33; 57%),
 <tt>NOUN --[<tt><a href="krl_kkpp-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (28; 85%),
 <tt>NOUN --[<tt><a href="krl_kkpp-dep-cop.html">cop</a></tt>]--> AUX</tt> (24; 89%),
 <tt>NOUN --[<tt><a href="krl_kkpp-dep-det.html">det</a></tt>]--> PRON</tt> (24; 75%),

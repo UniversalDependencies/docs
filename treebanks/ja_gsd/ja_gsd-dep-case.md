@@ -26,7 +26,7 @@ The following 10 pairs of parts of speech are connected with `case`: <tt><a href
 2	、	、	PUNCT	補助記号-読点	_	1	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=補助記号-読点|SpaceAfter=No|UnidicInfo=,、,、,、,,,,,,、
 3	50	50	NUM	名詞-数詞	_	5	compound	_	BunsetuBILabel=B|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No|UnidicInfo=ゴジュウ,五十,50,50,ゴジッ,,,ゴジュウ,ゴジッシュウネンソング,50周年ソング
 4	周年	周年	NOUN	名詞-普通名詞-助数詞可能	_	5	compound	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=I|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No|UnidicInfo=シュウネン,周年,周年,周年,シューネン,,,シュウネン,ゴジッシュウネンソング,50周年ソング
-5	ソング	ソング	NOUN	名詞-普通名詞-一般	_	8	obl	_	BunsetuBILabel=I|BunsetuPositionType=SEM_HEAD|LUWBILabel=I|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No|UnidicInfo=ソング,ソング,ソング,ソング,ソング,,,ソング,ゴジッシュウネンソング,50周年ソング
+5	ソング	ソング	NOUN	名詞-普通名詞-一般	_	8	nmod	_	BunsetuBILabel=I|BunsetuPositionType=SEM_HEAD|LUWBILabel=I|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No|UnidicInfo=ソング,ソング,ソング,ソング,ソング,,,ソング,ゴジッシュウネンソング,50周年ソング
 6	に	に	ADP	助詞-格助詞	_	5	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-格助詞|SpaceAfter=No|UnidicInfo=ニ,に,に,に,ニ,,,ニ,ニ,に
 7	変更	変更	NOUN	名詞-普通名詞-サ変可能	_	8	compound	_	BunsetuBILabel=B|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No|UnidicInfo=ヘンコウ,変更,変更,変更,ヘンコー,,,ヘンコウ,ヘンコウゴ,変更後
 8	後	後	NOUN	接尾辞-名詞的-副詞可能	_	18	nsubj:outer	_	BunsetuBILabel=I|BunsetuPositionType=SEM_HEAD|LUWBILabel=I|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No|UnidicInfo=ゴ,後,後,後,ゴ,,,ゴ,ヘンコウゴ,変更後

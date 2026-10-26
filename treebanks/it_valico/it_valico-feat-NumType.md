@@ -34,5 +34,5 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 `ADJ` tokens may have the following values of `NumType`:
 
 * `Ord` (2; 100% of non-empty `NumType`): <em>prima, ventottesimo</em>
-* `EMPTY` (308): <em>brutto, bella, grande, forte, simpatico, contenta, felice, giovane, bel, bello</em>
+* `EMPTY` (307): <em>brutto, bella, grande, forte, simpatico, contenta, felice, giovane, bel, bello</em>
 

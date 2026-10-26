@@ -65,11 +65,11 @@ The 2nd highest number of forms (9) was observed with the lemma “bii”: <em>b
 
 The 3rd highest number of forms (9) was observed with the lemma “boobu”: <em>boobu, googu, jooju, loolu, moomu, soosu, woowu, yooyu, yooyule</em>.
 
-`DET` occurs with 9 features: <tt><a href="wo_wtb-feat-Number.html">Number</a></tt> (3146; 100% instances), <tt><a href="wo_wtb-feat-PronType.html">PronType</a></tt> (3146; 100% instances), <tt><a href="wo_wtb-feat-NounClass.html">NounClass</a></tt> (2791; 88% instances), <tt><a href="wo_wtb-feat-Definite.html">Definite</a></tt> (2294; 73% instances), <tt><a href="wo_wtb-feat-Deixis.html">Deixis</a></tt> (1743; 55% instances), <tt><a href="wo_wtb-feat-Person.html">Person</a></tt> (349; 11% instances), <tt><a href="wo_wtb-feat-Poss.html">Poss</a></tt> (346; 11% instances), <tt><a href="wo_wtb-feat-DeixisRef.html">DeixisRef</a></tt> (312; 10% instances), <tt><a href="wo_wtb-feat-Gender.html">Gender</a></tt> (10; 0% instances)
+`DET` occurs with 11 features: <tt><a href="wo_wtb-feat-Number.html">Number</a></tt> (3155; 100% instances), <tt><a href="wo_wtb-feat-PronType.html">PronType</a></tt> (3155; 100% instances), <tt><a href="wo_wtb-feat-NounClass.html">NounClass</a></tt> (2791; 88% instances), <tt><a href="wo_wtb-feat-Definite.html">Definite</a></tt> (2303; 73% instances), <tt><a href="wo_wtb-feat-Deixis.html">Deixis</a></tt> (1743; 55% instances), <tt><a href="wo_wtb-feat-Person.html">Person</a></tt> (349; 11% instances), <tt><a href="wo_wtb-feat-Poss.html">Poss</a></tt> (346; 11% instances), <tt><a href="wo_wtb-feat-DeixisRef.html">DeixisRef</a></tt> (312; 10% instances), <tt><a href="wo_wtb-feat-Gender.html">Gender</a></tt> (19; 1% instances), <tt><a href="wo_wtb-feat-Foreign.html">Foreign</a></tt> (9; 0% instances), <tt><a href="wo_wtb-feat-ExtPos.html">ExtPos</a></tt> (1; 0% instances)
 
-`DET` occurs with 33 feature-value pairs: `Definite=Def`, `Definite=Ind`, `Deixis=Med`, `Deixis=Prox`, `Deixis=Remt`, `DeixisRef=1`, `DeixisRef=2`, `Gender=Fem`, `Gender=Masc`, `NounClass=Wol1`, `NounClass=Wol10`, `NounClass=Wol2`, `NounClass=Wol3`, `NounClass=Wol4`, `NounClass=Wol5`, `NounClass=Wol6`, `NounClass=Wol7`, `NounClass=Wol8`, `NounClass=Wol9`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=2,3`, `Person=3`, `Poss=Yes`, `PronType=Art`, `PronType=Dem`, `PronType=Ind`, `PronType=Ind,Neg`, `PronType=Int`, `PronType=Prs`, `PronType=Tot`
+`DET` occurs with 35 feature-value pairs: `Definite=Def`, `Definite=Ind`, `Deixis=Med`, `Deixis=Prox`, `Deixis=Remt`, `DeixisRef=1`, `DeixisRef=2`, `ExtPos=ADV`, `Foreign=Yes`, `Gender=Fem`, `Gender=Masc`, `NounClass=Wol1`, `NounClass=Wol10`, `NounClass=Wol2`, `NounClass=Wol3`, `NounClass=Wol4`, `NounClass=Wol5`, `NounClass=Wol6`, `NounClass=Wol7`, `NounClass=Wol8`, `NounClass=Wol9`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=2,3`, `Person=3`, `Poss=Yes`, `PronType=Art`, `PronType=Dem`, `PronType=Ind`, `PronType=Ind,Neg`, `PronType=Int`, `PronType=Prs`, `PronType=Tot`
 
-`DET` occurs with 86 feature combinations.
+`DET` occurs with 88 feature combinations.
 The most frequent feature combination is `Definite=Ind|NounClass=Wol8|Number=Plur|PronType=Art` (368 tokens).
 Examples: <em>ay, i, yenn, am</em>
 
@@ -80,9 +80,9 @@ Examples: <em>ay, i, yenn, am</em>
 
 Parents of `DET` nodes belong to 7 different parts of speech: <tt><a href="wo_wtb-pos-NOUN.html">NOUN</a></tt> (2915; 92% instances), <tt><a href="wo_wtb-pos-PROPN.html">PROPN</a></tt> (192; 6% instances), <tt><a href="wo_wtb-pos-PRON.html">PRON</a></tt> (34; 1% instances), <tt><a href="wo_wtb-pos-VERB.html">VERB</a></tt> (10; 0% instances), <tt><a href="wo_wtb-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="wo_wtb-pos-NUM.html">NUM</a></tt> (1; 0% instances),  (1; 0% instances)
 
-3144 (100%) `DET` nodes are leaves.
+3145 (100%) `DET` nodes are leaves.
 
-8 (0%) `DET` nodes have one child.
+7 (0%) `DET` nodes have one child.
 
 1 (0%) `DET` nodes have two children.
 
@@ -90,7 +90,7 @@ Parents of `DET` nodes belong to 7 different parts of speech: <tt><a href="wo_wt
 
 The highest child degree of a `DET` node is 6.
 
-Children of `DET` nodes are attached using 8 different relations: <tt><a href="wo_wtb-dep-flat.html">flat</a></tt> (13; 62% instances), <tt><a href="wo_wtb-dep-punct.html">punct</a></tt> (2; 10% instances), <tt><a href="wo_wtb-dep-acl-relcl.html">acl:relcl</a></tt> (1; 5% instances), <tt><a href="wo_wtb-dep-advmod.html">advmod</a></tt> (1; 5% instances), <tt><a href="wo_wtb-dep-case.html">case</a></tt> (1; 5% instances), <tt><a href="wo_wtb-dep-fixed.html">fixed</a></tt> (1; 5% instances), <tt><a href="wo_wtb-dep-nmod.html">nmod</a></tt> (1; 5% instances), <tt><a href="wo_wtb-dep-parataxis.html">parataxis</a></tt> (1; 5% instances)
+Children of `DET` nodes are attached using 7 different relations: <tt><a href="wo_wtb-dep-flat.html">flat</a></tt> (13; 65% instances), <tt><a href="wo_wtb-dep-punct.html">punct</a></tt> (2; 10% instances), <tt><a href="wo_wtb-dep-advmod.html">advmod</a></tt> (1; 5% instances), <tt><a href="wo_wtb-dep-case.html">case</a></tt> (1; 5% instances), <tt><a href="wo_wtb-dep-fixed.html">fixed</a></tt> (1; 5% instances), <tt><a href="wo_wtb-dep-nmod.html">nmod</a></tt> (1; 5% instances), <tt><a href="wo_wtb-dep-parataxis.html">parataxis</a></tt> (1; 5% instances)
 
-Children of `DET` nodes belong to 6 different parts of speech: <tt><a href="wo_wtb-pos-NOUN.html">NOUN</a></tt> (11; 52% instances), <tt><a href="wo_wtb-pos-ADP.html">ADP</a></tt> (3; 14% instances), <tt><a href="wo_wtb-pos-PROPN.html">PROPN</a></tt> (2; 10% instances), <tt><a href="wo_wtb-pos-PUNCT.html">PUNCT</a></tt> (2; 10% instances), <tt><a href="wo_wtb-pos-VERB.html">VERB</a></tt> (2; 10% instances), <tt><a href="wo_wtb-pos-ADV.html">ADV</a></tt> (1; 5% instances)
+Children of `DET` nodes belong to 6 different parts of speech: <tt><a href="wo_wtb-pos-NOUN.html">NOUN</a></tt> (11; 55% instances), <tt><a href="wo_wtb-pos-ADP.html">ADP</a></tt> (3; 15% instances), <tt><a href="wo_wtb-pos-PROPN.html">PROPN</a></tt> (2; 10% instances), <tt><a href="wo_wtb-pos-PUNCT.html">PUNCT</a></tt> (2; 10% instances), <tt><a href="wo_wtb-pos-ADV.html">ADV</a></tt> (1; 5% instances), <tt><a href="wo_wtb-pos-VERB.html">VERB</a></tt> (1; 5% instances)
 

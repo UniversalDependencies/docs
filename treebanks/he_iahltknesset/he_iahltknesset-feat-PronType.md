@@ -31,10 +31,10 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 
 <table>
   <tr><th>Paradigm <i>איזה</i></th><th><tt>Rel</tt></th><th><tt>Dem</tt></th><th><tt>Ind</tt></th></tr>
-  <tr><td><tt>_</tt></td><td>איזה</td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="he_iahltknesset-feat-ExtPos.html">ExtPos</a></tt><tt>=DET</tt></tt></td><td>איזה</td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="he_iahltknesset-feat-ExtPos.html">ExtPos</a></tt><tt>=DET</tt>|<tt><a href="he_iahltknesset-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td>איזה</td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="he_iahltknesset-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="he_iahltknesset-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td>איזו</td></tr>
   <tr><td><tt><tt><a href="he_iahltknesset-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="he_iahltknesset-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="he_iahltknesset-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td>איזו</td><td>איזושהי</td></tr>
-  <tr><td><tt><tt><a href="he_iahltknesset-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td>איזה</td><td></td><td></td></tr>
 </table>
 
 ### `DET`
@@ -78,7 +78,7 @@ The most frequent other feature values with which `ADV` and `PronType` co-occurr
 
 `ADV` tokens may have the following values of `PronType`:
 
-* `Int` (132; 83% of non-empty `PronType`): איך, למה, האם, איפה, מדוע, מה, כיצד, לאן, היכן, מתי
+* `Int` (132; 83% of non-empty `PronType`): איך, למה, האם, איפה, מדוע, מה, כיצד, לאן, מתי, היכן
 * `Rel` (27; 17% of non-empty `PronType`): למה, איפה, איך, מתי, היכן, מדוע, מה
 * `EMPTY` (4133): לא, גם, מאוד, פה, אז, כאן, היום, רק, יותר, עכשיו
 

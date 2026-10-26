@@ -25,7 +25,7 @@ The most frequent other feature values with which `VERB` and `Voice` co-occurred
 * `Act` (6267; 78% of non-empty `Voice`): <em>знаю, может, стоит, быть, жить, есть, люблю, вижу, могу, поет</em>
 * `Mid` (1165; 14% of non-empty `Voice`): <em>кажется, хочется, казалось, кончается, смеется, струится, бьется, льется, остался, смеясь</em>
 * `Pass` (619; 8% of non-empty `Voice`): <em>дано, сказано, приказано, рожденный, занят, лишен, нарисован, опущенных, очарован, покинутый</em>
-* `EMPTY` (183): <em>нет, надо, можно, пора, нельзя, нету, жаль, некуда, лень, незачем</em>
+* `EMPTY` (185): <em>нет, надо, можно, пора, нельзя, нету, жаль, некуда, Довольно, лень</em>
 
 <table>
   <tr><th>Paradigm <i>застыть</i></th><th><tt>Act</tt></th><th><tt>Pass</tt></th><th><tt>Mid</tt></th></tr>
@@ -52,13 +52,13 @@ The most frequent other feature values with which `AUX` and `Voice` co-occurred:
 ## Relations with Agreement in `Voice`
 
 The 10 most frequent relations where parent and child node agree in `Voice`:
-<tt>VERB --[<tt><a href="ru_poetry-dep-conj.html">conj</a></tt>]--> VERB</tt> (1323; 70%),
+<tt>VERB --[<tt><a href="ru_poetry-dep-conj.html">conj</a></tt>]--> VERB</tt> (1322; 70%),
 <tt>VERB --[<tt><a href="ru_poetry-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (469; 71%),
 <tt>VERB --[<tt><a href="ru_poetry-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (212; 72%),
 <tt>VERB --[<tt><a href="ru_poetry-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (202; 63%),
 <tt>VERB --[<tt><a href="ru_poetry-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (93; 71%),
 <tt>VERB --[<tt><a href="ru_poetry-dep-parataxis-discourse.html">parataxis:discourse</a></tt>]--> VERB</tt> (40; 95%),
-<tt>VERB --[<tt><a href="ru_poetry-dep-obj.html">obj</a></tt>]--> VERB</tt> (8; 73%),
+<tt>VERB --[<tt><a href="ru_poetry-dep-obj.html">obj</a></tt>]--> VERB</tt> (7; 78%),
 <tt>VERB --[<tt><a href="ru_poetry-dep-nsubj.html">nsubj</a></tt>]--> VERB</tt> (6; 55%),
 <tt>VERB --[<tt><a href="ru_poetry-dep-acl.html">acl</a></tt>]--> VERB</tt> (3; 100%),
 <tt>VERB --[<tt><a href="ru_poetry-dep-obl.html">obl</a></tt>]--> VERB</tt> (3; 100%).

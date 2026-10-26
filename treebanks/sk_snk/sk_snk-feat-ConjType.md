@@ -16,7 +16,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="sk_snk-pos-SYM.html
 
 ### `SYM`
 
-2 <tt><a href="sk_snk-pos-SYM.html">SYM</a></tt> tokens (9% of all `SYM` tokens) have a non-empty value of `ConjType`.
+2 <tt><a href="sk_snk-pos-SYM.html">SYM</a></tt> tokens (8% of all `SYM` tokens) have a non-empty value of `ConjType`.
 
 `SYM` tokens may have the following values of `ConjType`:
 

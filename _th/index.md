@@ -18,15 +18,21 @@ udver: '2'
 
 * The Thai treebank currently uses only 15 of the 17 universal POS categories, including particles ([PART]()).
   There are no interjections and unknown words.
+* Ten words are currently annotated as auxiliaries ([AUX]()):
+  * The copula เป็น _pen_ “is”.
+  * Perfect มา _maː_.
+  * Perfect แล้ว _læ̂ːw_.
+  * Perfect ได้รับ _dạîrạb_.
+  * Past เคย _gʰeːy_.
+  * Progressive กำลัง _kãːlạŋ_.
+  * Future จะ _ča_.
+  * Passive ถูก _tʰuːk_.
+  * Necessitative ต้อง _tɔ̂ːŋ_ “must”.
+  * Potential ได้ _dạî_ “can”.
 
 ### Features
 
-*
-
----
-**Instruction**: Describe inherent and inflectional features for major word classes (at least NOUN and VERB). Describe other noteworthy features. Include links to language-specific feature definitions if any.
-
----
+* There is one Thai-specific feature, [NounType](/th/feat/NounType.html).
 
 ## Syntax
 
@@ -39,10 +45,7 @@ udver: '2'
 
 ### Non-verbal Clauses
 
-* The default copula is เป็น _pĕn_ “is”.
-  At present the annotation uses the [cop]() relation for several other word types, which act as pseudo-copulas.
-  Examples include ใช่ _chì_ “yes”, ชื่อ _chụ̄̀x_ “name”, คล้าย _khl̂āy_ “resemble”. These should be re-analyzed as heads
-  and use the [xcomp]() relation to connect the secondary predicate.
+* The default copula is เป็น _pen_ “is”.
 
 ### Relations Overview
 
@@ -65,6 +68,7 @@ udver: '2'
 
 ## Treebanks
 
-There is 1 Thai UD treebank:
+There are [2](../treebanks/th-comparison.html) Thai UD treebanks:
 
   * [Thai-PUD](../treebanks/th_pud/index.html)
+  * [Thai-TUD](../treebanks/th_tud/index.html)

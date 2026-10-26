@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Polish-PUD: Relations: `advmod:arg`
 
 This relation is a language-specific subtype of <tt><a href="pl_pud-dep-advmod.html">advmod</a></tt>.
-There are also 2 other language-specific subtypes of `advmod`: <tt><a href="pl_pud-dep-advmod-emph.html">advmod:emph</a></tt>, <tt><a href="pl_pud-dep-advmod-neg.html">advmod:neg</a></tt>.
+There are also 3 other language-specific subtypes of `advmod`: <tt><a href="pl_pud-dep-advmod-cmp.html">advmod:cmp</a></tt>, <tt><a href="pl_pud-dep-advmod-emph.html">advmod:emph</a></tt>, <tt><a href="pl_pud-dep-advmod-neg.html">advmod:neg</a></tt>.
 
 1 nodes (0%) are attached to their parents as `advmod:arg`.
 
@@ -40,7 +40,7 @@ The following 1 pairs of parts of speech are connected with `advmod:arg`: <tt><a
 15	konfrontuje	konfrontować	VERB	fin:sg:ter:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	ccomp	10:ccomp	SpaceAfter=No
 16	,	,	PUNCT	interp	PunctType=Comm	18	punct	18:punct	_
 17	niż	niż	SCONJ	comp	ConjType=Comp	18	mark	18:mark	_
-18	kiedy	kiedy	ADV	adv	PronType=Int	15	obl:cmpr	15:obl:cmpr	_
+18	kiedy	kiedy	ADV	adv	PronType=Int	15	advcl:cmp	15:advcl:cmp	_
 19	mnie	ja	PRON	ppron12:sg:gen:m1:pri:akc	Animacy=Hum|Case=Gen|Gender=Masc|Number=Sing|Person=1|PronType=Prs|Variant=Long	20	obj	20:obj	_
 20	unika	unikać	VERB	fin:sg:ter:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	18	ccomp	18:ccomp	SpaceAfter=No
 21	.	.	PUNCT	interp	PunctType=Peri	1	punct	1:punct	_

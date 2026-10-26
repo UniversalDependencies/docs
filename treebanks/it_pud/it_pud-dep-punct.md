@@ -25,11 +25,11 @@ The following 11 pairs of parts of speech are connected with `punct`: <tt><a hre
 1	In	in	ADP	IN	_	2	case	_	_
 2	precedenza	precedenza	NOUN	NN	Gender=Fem|Number=Sing	7	obl	_	_
 3	solo	solo	ADV	RB	_	5	advmod	_	_
-4	i	il	DET	DT	Gender=Masc|Number=Plur	5	det	_	_
+4	i	il	DET	DT	Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
 5	blogger	blogger	NOUN	NN	Gender=Masc|Number=Plur	7	nsubj	_	_
 6	avevano	avere	AUX	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|Voice=Act	7	aux	_	_
 7	visto	vedere	VERB	VBN	Tense=Past	0	root	_	_
-8	i	il	DET	DT	Gender=Masc|Number=Plur	9	det	_	_
+8	i	il	DET	DT	Gender=Masc|Number=Plur|PronType=Art	9	det	_	_
 9	jet	jet	NOUN	NN	Gender=Masc|Number=Plur	7	obj	_	SpaceAfter=No
 10	.	.	PUNCT	.	_	7	punct	_	_
 
@@ -42,7 +42,7 @@ The following 11 pairs of parts of speech are connected with `punct`: <tt><a hre
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 10 punct	color:blue
-1	La	il	DET	DT	Gender=Fem|Number=Sing	2	det	_	_
+1	La	il	DET	DT	Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	cifra	cifra	NOUN	NN	Gender=Fem|Number=Sing	7	nsubj	_	_
 3	massima	massimo	ADJ	JJS	Degree=Abs|Gender=Fem|Number=Sing	2	amod	_	_
 4	consentita	consentire	VERB	VBN	Gender=Fem|Number=Sing|Tense=Past|Voice=Pass	2	acl	_	_
@@ -62,7 +62,7 @@ The following 11 pairs of parts of speech are connected with `punct`: <tt><a hre
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 11 punct	color:blue
-1	Il	il	DET	DT	Gender=Masc|Number=Sing	3	det	_	_
+1	Il	il	DET	DT	Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
 2	terzo	terzo	ADJ	JJ	Gender=Masc|Number=Sing	3	amod	_	_
 3	giorno	giorno	NOUN	NN	Gender=Masc|Number=Sing	10	obl	_	SpaceAfter=No
 4	,	,	PUNCT	,	_	3	punct	_	_

@@ -66,7 +66,7 @@ The 10 most frequent ambiguous types:  که (<tt><a href="fa_perdt-pos-SCONJ.htm
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 0.937500 (the average of all parts of speech is 1.486663).
+The form / lemma ratio of `SCONJ` is 0.937500 (the average of all parts of speech is 1.486683).
 
 The 1st highest number of forms (1) was observed with the lemma “_”: که.
 
@@ -85,7 +85,7 @@ Examples: که، اگر، تا، چون، زیرا، چنانچه، چرا، ا�
 
 ## Relations
 
-`SCONJ` nodes are attached to their parents using 11 different relations: <tt><a href="fa_perdt-dep-mark.html">mark</a></tt> (11577; 84% instances), <tt><a href="fa_perdt-dep-acl.html">acl</a></tt> (970; 7% instances), <tt><a href="fa_perdt-dep-advcl.html">advcl</a></tt> (463; 3% instances), <tt><a href="fa_perdt-dep-ccomp.html">ccomp</a></tt> (328; 2% instances), <tt><a href="fa_perdt-dep-csubj.html">csubj</a></tt> (281; 2% instances), <tt><a href="fa_perdt-dep-obl.html">obl</a></tt> (120; 1% instances), <tt><a href="fa_perdt-dep-nmod.html">nmod</a></tt> (17; 0% instances), <tt><a href="fa_perdt-dep-conj.html">conj</a></tt> (11; 0% instances), <tt><a href="fa_perdt-dep-root.html">root</a></tt> (7; 0% instances), <tt><a href="fa_perdt-dep-appos.html">appos</a></tt> (2; 0% instances), <tt><a href="fa_perdt-dep-obl-arg.html">obl:arg</a></tt> (1; 0% instances)
+`SCONJ` nodes are attached to their parents using 11 different relations: <tt><a href="fa_perdt-dep-mark.html">mark</a></tt> (11577; 84% instances), <tt><a href="fa_perdt-dep-acl.html">acl</a></tt> (970; 7% instances), <tt><a href="fa_perdt-dep-advcl.html">advcl</a></tt> (463; 3% instances), <tt><a href="fa_perdt-dep-ccomp.html">ccomp</a></tt> (328; 2% instances), <tt><a href="fa_perdt-dep-csubj.html">csubj</a></tt> (281; 2% instances), <tt><a href="fa_perdt-dep-obl.html">obl</a></tt> (108; 1% instances), <tt><a href="fa_perdt-dep-nmod.html">nmod</a></tt> (29; 0% instances), <tt><a href="fa_perdt-dep-conj.html">conj</a></tt> (11; 0% instances), <tt><a href="fa_perdt-dep-root.html">root</a></tt> (7; 0% instances), <tt><a href="fa_perdt-dep-appos.html">appos</a></tt> (2; 0% instances), <tt><a href="fa_perdt-dep-obl-arg.html">obl:arg</a></tt> (1; 0% instances)
 
 Parents of `SCONJ` nodes belong to 12 different parts of speech: <tt><a href="fa_perdt-pos-VERB.html">VERB</a></tt> (11095; 81% instances), <tt><a href="fa_perdt-pos-NOUN.html">NOUN</a></tt> (1373; 10% instances), <tt><a href="fa_perdt-pos-ADJ.html">ADJ</a></tt> (751; 5% instances), <tt><a href="fa_perdt-pos-PRON.html">PRON</a></tt> (234; 2% instances), <tt><a href="fa_perdt-pos-AUX.html">AUX</a></tt> (165; 1% instances), <tt><a href="fa_perdt-pos-INTJ.html">INTJ</a></tt> (50; 0% instances), <tt><a href="fa_perdt-pos-SCONJ.html">SCONJ</a></tt> (48; 0% instances), <tt><a href="fa_perdt-pos-PROPN.html">PROPN</a></tt> (41; 0% instances), <tt><a href="fa_perdt-pos-ADV.html">ADV</a></tt> (8; 0% instances),  (7; 0% instances), <tt><a href="fa_perdt-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="fa_perdt-pos-NUM.html">NUM</a></tt> (1; 0% instances)
 

@@ -12,21 +12,22 @@ There are also 1 other language-specific subtypes of `flat`: <tt><a href="gd_arc
 101 nodes (0%) are attached to their parents as `flat:foreign`.
 
 101 instances of `flat:foreign` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.12871287128713.
+Average distance between parent and child is 2.13861386138614.
 
 The following 1 pairs of parts of speech are connected with `flat:foreign`: <tt><a href="gd_arcosg-pos-X.html">X</a></tt>-<tt><a href="gd_arcosg-pos-X.html">X</a></tt> (101; 100% instances).
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 2 flat:foreign	color:blue
-1	it’s	it's	X	Xfe	Foreign=Yes	0	root	_	Lang=en
-2	the	the	X	Xfe	Foreign=Yes	1	flat:foreign	_	Lang=en
-3	Giant	giant	X	Xfe	Foreign=Yes	1	flat:foreign	_	Lang=en
-4	Baby	baby	X	Xfe	Foreign=Yes	1	flat:foreign	_	Lang=en
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 4 flat:foreign	color:blue
+1	leugh	leugh	VERB	V-s	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+2	mi	mi	PRON	Pp1s	Number=Sing|Person=1|PronType=Prs	1	nsubj	_	_
+3	The	the	X	Xfe	Foreign=Yes	2	obj	_	_
+4	Kitchen	kitchen	X	Xfe	Foreign=Yes	3	flat:foreign	_	FlatType=Foreign
+5	Warrior	warrior	X	Xfe	Foreign=Yes	3	flat:foreign	_	FlatType=Foreign
 
 ~~~
 

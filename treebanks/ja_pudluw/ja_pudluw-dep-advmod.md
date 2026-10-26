@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-334 nodes (1%) are attached to their parents as `advmod`.
+335 nodes (1%) are attached to their parents as `advmod`.
 
 334 instances of `advmod` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.33832335329341.
+Average distance between parent and child is 4.33134328358209.
 
-The following 7 pairs of parts of speech are connected with `advmod`: <tt><a href="ja_pudluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_pudluw-pos-ADV.html">ADV</a></tt> (219; 66% instances), <tt><a href="ja_pudluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_pudluw-pos-ADV.html">ADV</a></tt> (52; 16% instances), <tt><a href="ja_pudluw-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_pudluw-pos-ADV.html">ADV</a></tt> (47; 14% instances), <tt><a href="ja_pudluw-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_pudluw-pos-ADV.html">ADV</a></tt> (5; 1% instances), <tt><a href="ja_pudluw-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_pudluw-pos-ADV.html">ADV</a></tt> (5; 1% instances), <tt><a href="ja_pudluw-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_pudluw-pos-ADV.html">ADV</a></tt> (4; 1% instances), <tt><a href="ja_pudluw-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_pudluw-pos-ADV.html">ADV</a></tt> (2; 1% instances).
+The following 7 pairs of parts of speech are connected with `advmod`: <tt><a href="ja_pudluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_pudluw-pos-ADV.html">ADV</a></tt> (219; 65% instances), <tt><a href="ja_pudluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_pudluw-pos-ADV.html">ADV</a></tt> (52; 16% instances), <tt><a href="ja_pudluw-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_pudluw-pos-ADV.html">ADV</a></tt> (47; 14% instances), <tt><a href="ja_pudluw-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_pudluw-pos-ADV.html">ADV</a></tt> (5; 1% instances), <tt><a href="ja_pudluw-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_pudluw-pos-ADV.html">ADV</a></tt> (5; 1% instances), <tt><a href="ja_pudluw-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_pudluw-pos-ADV.html">ADV</a></tt> (5; 1% instances), <tt><a href="ja_pudluw-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_pudluw-pos-ADV.html">ADV</a></tt> (2; 1% instances).
 
 
 ~~~ conllu

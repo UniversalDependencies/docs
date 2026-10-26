@@ -6,6 +6,6 @@ generated: 'true'
 permalink: sv/pos/index.html
 ---
 
-# POS tags
+# POS Tags
 
 {% include sv-pos-table.html %}

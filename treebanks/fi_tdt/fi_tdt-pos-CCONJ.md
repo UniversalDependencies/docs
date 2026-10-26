@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Finnish-TDT: POS Tags: `CCONJ`
 
-There are 37 `CCONJ` lemmas (0%), 42 `CCONJ` types (0%) and 8318 `CCONJ` tokens (4%).
+There are 38 `CCONJ` lemmas (0%), 43 `CCONJ` types (0%) and 8319 `CCONJ` tokens (4%).
 Out of 15 observed tags, the rank of `CCONJ` is: 12 in number of lemmas, 13 in number of types and 9 in number of tokens.
 
 The 10 most frequent `CCONJ` lemmas: <em>ja, tai, mutta, sekä, eli, vaan, vai, että, kuin, niin</em>
@@ -57,7 +57,7 @@ The 10 most frequent ambiguous types:  <em>ja</em> (<tt><a href="fi_tdt-pos-CCON
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.135135 (the average of all parts of speech is 2.067974).
+The form / lemma ratio of `CCONJ` is 1.131579 (the average of all parts of speech is 2.067894).
 
 The 1st highest number of forms (3) was observed with the lemma “mutta”: <em>mut, mutt, mutta</em>.
 
@@ -70,27 +70,27 @@ The 3rd highest number of forms (2) was observed with the lemma “kuin”: <em>
 `CCONJ` occurs with 3 feature-value pairs: `Clitic=Ko`, `Style=Coll`, `Typo=Yes`
 
 `CCONJ` occurs with 4 feature combinations.
-The most frequent feature combination is `_` (8281 tokens).
+The most frequent feature combination is `_` (8282 tokens).
 Examples: <em>ja, tai, mutta, sekä, eli, vaan, että, vai, kuin, niin</em>
 
 
 ## Relations
 
-`CCONJ` nodes are attached to their parents using 8 different relations: <tt><a href="fi_tdt-dep-cc.html">cc</a></tt> (8140; 98% instances), <tt><a href="fi_tdt-dep-cc-preconj.html">cc:preconj</a></tt> (144; 2% instances), <tt><a href="fi_tdt-dep-mark.html">mark</a></tt> (14; 0% instances), <tt><a href="fi_tdt-dep-fixed.html">fixed</a></tt> (11; 0% instances), <tt><a href="fi_tdt-dep-advmod.html">advmod</a></tt> (4; 0% instances), <tt><a href="fi_tdt-dep-root.html">root</a></tt> (3; 0% instances), <tt><a href="fi_tdt-dep-compound-nn.html">compound:nn</a></tt> (1; 0% instances), <tt><a href="fi_tdt-dep-orphan.html">orphan</a></tt> (1; 0% instances)
+`CCONJ` nodes are attached to their parents using 8 different relations: <tt><a href="fi_tdt-dep-cc.html">cc</a></tt> (8141; 98% instances), <tt><a href="fi_tdt-dep-cc-preconj.html">cc:preconj</a></tt> (144; 2% instances), <tt><a href="fi_tdt-dep-mark.html">mark</a></tt> (14; 0% instances), <tt><a href="fi_tdt-dep-fixed.html">fixed</a></tt> (11; 0% instances), <tt><a href="fi_tdt-dep-advmod.html">advmod</a></tt> (4; 0% instances), <tt><a href="fi_tdt-dep-root.html">root</a></tt> (3; 0% instances), <tt><a href="fi_tdt-dep-orphan.html">orphan</a></tt> (1; 0% instances), <tt><a href="fi_tdt-dep-parataxis.html">parataxis</a></tt> (1; 0% instances)
 
-Parents of `CCONJ` nodes belong to 14 different parts of speech: <tt><a href="fi_tdt-pos-NOUN.html">NOUN</a></tt> (3534; 42% instances), <tt><a href="fi_tdt-pos-VERB.html">VERB</a></tt> (3022; 36% instances), <tt><a href="fi_tdt-pos-ADJ.html">ADJ</a></tt> (667; 8% instances), <tt><a href="fi_tdt-pos-PROPN.html">PROPN</a></tt> (610; 7% instances), <tt><a href="fi_tdt-pos-ADV.html">ADV</a></tt> (196; 2% instances), <tt><a href="fi_tdt-pos-PRON.html">PRON</a></tt> (161; 2% instances), <tt><a href="fi_tdt-pos-NUM.html">NUM</a></tt> (92; 1% instances), <tt><a href="fi_tdt-pos-SYM.html">SYM</a></tt> (13; 0% instances), <tt><a href="fi_tdt-pos-X.html">X</a></tt> (7; 0% instances), <tt><a href="fi_tdt-pos-ADP.html">ADP</a></tt> (6; 0% instances), <tt><a href="fi_tdt-pos-CCONJ.html">CCONJ</a></tt> (4; 0% instances),  (3; 0% instances), <tt><a href="fi_tdt-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="fi_tdt-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
+Parents of `CCONJ` nodes belong to 14 different parts of speech: <tt><a href="fi_tdt-pos-NOUN.html">NOUN</a></tt> (3534; 42% instances), <tt><a href="fi_tdt-pos-VERB.html">VERB</a></tt> (3022; 36% instances), <tt><a href="fi_tdt-pos-ADJ.html">ADJ</a></tt> (667; 8% instances), <tt><a href="fi_tdt-pos-PROPN.html">PROPN</a></tt> (611; 7% instances), <tt><a href="fi_tdt-pos-ADV.html">ADV</a></tt> (196; 2% instances), <tt><a href="fi_tdt-pos-PRON.html">PRON</a></tt> (161; 2% instances), <tt><a href="fi_tdt-pos-NUM.html">NUM</a></tt> (92; 1% instances), <tt><a href="fi_tdt-pos-SYM.html">SYM</a></tt> (13; 0% instances), <tt><a href="fi_tdt-pos-X.html">X</a></tt> (7; 0% instances), <tt><a href="fi_tdt-pos-ADP.html">ADP</a></tt> (6; 0% instances), <tt><a href="fi_tdt-pos-CCONJ.html">CCONJ</a></tt> (4; 0% instances),  (3; 0% instances), <tt><a href="fi_tdt-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="fi_tdt-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
 
 8287 (100%) `CCONJ` nodes are leaves.
 
-25 (0%) `CCONJ` nodes have one child.
+26 (0%) `CCONJ` nodes have one child.
 
-4 (0%) `CCONJ` nodes have two children.
+5 (0%) `CCONJ` nodes have two children.
 
-2 (0%) `CCONJ` nodes have three or more children.
+1 (0%) `CCONJ` nodes have three or more children.
 
 The highest child degree of a `CCONJ` node is 5.
 
-Children of `CCONJ` nodes are attached using 5 different relations: <tt><a href="fi_tdt-dep-fixed.html">fixed</a></tt> (18; 44% instances), <tt><a href="fi_tdt-dep-punct.html">punct</a></tt> (18; 44% instances), <tt><a href="fi_tdt-dep-nmod.html">nmod</a></tt> (3; 7% instances), <tt><a href="fi_tdt-dep-compound-nn.html">compound:nn</a></tt> (1; 2% instances), <tt><a href="fi_tdt-dep-nsubj.html">nsubj</a></tt> (1; 2% instances)
+Children of `CCONJ` nodes are attached using 5 different relations: <tt><a href="fi_tdt-dep-fixed.html">fixed</a></tt> (18; 44% instances), <tt><a href="fi_tdt-dep-punct.html">punct</a></tt> (18; 44% instances), <tt><a href="fi_tdt-dep-nmod.html">nmod</a></tt> (3; 7% instances), <tt><a href="fi_tdt-dep-nsubj.html">nsubj</a></tt> (1; 2% instances), <tt><a href="fi_tdt-dep-parataxis.html">parataxis</a></tt> (1; 2% instances)
 
 Children of `CCONJ` nodes belong to 5 different parts of speech: <tt><a href="fi_tdt-pos-PUNCT.html">PUNCT</a></tt> (18; 44% instances), <tt><a href="fi_tdt-pos-ADV.html">ADV</a></tt> (15; 37% instances), <tt><a href="fi_tdt-pos-CCONJ.html">CCONJ</a></tt> (4; 10% instances), <tt><a href="fi_tdt-pos-NOUN.html">NOUN</a></tt> (3; 7% instances), <tt><a href="fi_tdt-pos-PROPN.html">PROPN</a></tt> (1; 2% instances)
 

@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="la_circse-dep-csubj.html">csubj</a></tt>.
 There are also 1 other language-specific subtypes of `csubj`: <tt><a href="la_circse-dep-csubj-relcl.html">csubj:relcl</a></tt>.
 
-13 nodes (0%) are attached to their parents as `csubj:pass`.
+14 nodes (0%) are attached to their parents as `csubj:pass`.
 
-7 instances of `csubj:pass` (54%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.69230769230769.
+8 instances of `csubj:pass` (57%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.5.
 
-The following 1 pairs of parts of speech are connected with `csubj:pass`: <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-VERB.html">VERB</a></tt> (13; 100% instances).
+The following 1 pairs of parts of speech are connected with `csubj:pass`: <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-VERB.html">VERB</a></tt> (14; 100% instances).
 
 
 ~~~ conllu

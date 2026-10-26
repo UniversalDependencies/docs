@@ -54,7 +54,7 @@ The following 3 pairs of parts of speech are connected with `expl:pass`: <tt><a 
 6	până	până	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	8	case	_	Ref=MARC13.13
 7	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	6	fixed	_	Ref=MARC13.13
 8	sfîrșit	sfârșit	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	5	nmod:tmod	_	Ref=MARC13.13|SpaceAfter=No
-9	,	,	PUNCT	COMMA	_	2	punct	_	Ref=MARC13.13
+9	,	,	PUNCT	COMMA	_	10	punct	_	Ref=MARC13.13
 10	acela	acela	PRON	Pd3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Dem	2	appos	_	Ref=MARC13.13
 11	să	să	PART	Qs	PartType=Sub	13	expl:pass	_	Ref=MARC13.13
 12	va	vrea	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	13	aux	_	Ref=MARC13.13

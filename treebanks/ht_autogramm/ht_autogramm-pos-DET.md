@@ -59,18 +59,18 @@ The 2nd highest number of forms (2) was observed with the lemma “yon”: <em>y
 
 The 3rd highest number of forms (1) was observed with the lemma “chak”: <em>chak</em>.
 
-`DET` occurs with 5 features: <tt><a href="ht_autogramm-feat-Number.html">Number</a></tt> (256; 91% instances), <tt><a href="ht_autogramm-feat-PronType.html">PronType</a></tt> (251; 89% instances), <tt><a href="ht_autogramm-feat-Definite.html">Definite</a></tt> (221; 79% instances), <tt><a href="ht_autogramm-feat-Polarity.html">Polarity</a></tt> (5; 2% instances), <tt><a href="ht_autogramm-feat-Poss.html">Poss</a></tt> (1; 0% instances)
+`DET` occurs with 6 features: <tt><a href="ht_autogramm-feat-Number.html">Number</a></tt> (256; 91% instances), <tt><a href="ht_autogramm-feat-PronType.html">PronType</a></tt> (251; 89% instances), <tt><a href="ht_autogramm-feat-Definite.html">Definite</a></tt> (221; 79% instances), <tt><a href="ht_autogramm-feat-Polarity.html">Polarity</a></tt> (5; 2% instances), <tt><a href="ht_autogramm-feat-ExtPos.html">ExtPos</a></tt> (1; 0% instances), <tt><a href="ht_autogramm-feat-Poss.html">Poss</a></tt> (1; 0% instances)
 
-`DET` occurs with 9 feature-value pairs: `Definite=Def`, `Definite=Ind`, `Number=Plur`, `Number=Sing`, `Polarity=Neg`, `Poss=Yes`, `PronType=Art`, `PronType=Dem`, `PronType=Rel`
+`DET` occurs with 10 feature-value pairs: `Definite=Def`, `Definite=Ind`, `ExtPos=DET`, `Number=Plur`, `Number=Sing`, `Polarity=Neg`, `Poss=Yes`, `PronType=Art`, `PronType=Dem`, `PronType=Rel`
 
-`DET` occurs with 17 feature combinations.
+`DET` occurs with 18 feature combinations.
 The most frequent feature combination is `Definite=Def|Number=Sing|PronType=Art` (101 tokens).
 Examples: <em>a, la, an, nan</em>
 
 
 ## Relations
 
-`DET` nodes are attached to their parents using 3 different relations: <tt><a href="ht_autogramm-dep-det.html">det</a></tt> (274; 98% instances), <tt><a href="ht_autogramm-dep-dep.html">dep</a></tt> (6; 2% instances), <tt><a href="ht_autogramm-dep-parataxis.html">parataxis</a></tt> (1; 0% instances)
+`DET` nodes are attached to their parents using 4 different relations: <tt><a href="ht_autogramm-dep-det.html">det</a></tt> (274; 98% instances), <tt><a href="ht_autogramm-dep-dep.html">dep</a></tt> (5; 2% instances), <tt><a href="ht_autogramm-dep-fixed.html">fixed</a></tt> (1; 0% instances), <tt><a href="ht_autogramm-dep-parataxis.html">parataxis</a></tt> (1; 0% instances)
 
 Parents of `DET` nodes belong to 6 different parts of speech: <tt><a href="ht_autogramm-pos-NOUN.html">NOUN</a></tt> (266; 95% instances), <tt><a href="ht_autogramm-pos-VERB.html">VERB</a></tt> (8; 3% instances), <tt><a href="ht_autogramm-pos-PROPN.html">PROPN</a></tt> (3; 1% instances), <tt><a href="ht_autogramm-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="ht_autogramm-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="ht_autogramm-pos-PRON.html">PRON</a></tt> (1; 0% instances)
 
@@ -82,7 +82,7 @@ Parents of `DET` nodes belong to 6 different parts of speech: <tt><a href="ht_au
 
 The highest child degree of a `DET` node is 2.
 
-Children of `DET` nodes are attached using 3 different relations: <tt><a href="ht_autogramm-dep-dep.html">dep</a></tt> (1; 33% instances), <tt><a href="ht_autogramm-dep-obj.html">obj</a></tt> (1; 33% instances), <tt><a href="ht_autogramm-dep-punct.html">punct</a></tt> (1; 33% instances)
+Children of `DET` nodes are attached using 3 different relations: <tt><a href="ht_autogramm-dep-fixed.html">fixed</a></tt> (1; 33% instances), <tt><a href="ht_autogramm-dep-obj.html">obj</a></tt> (1; 33% instances), <tt><a href="ht_autogramm-dep-punct.html">punct</a></tt> (1; 33% instances)
 
 Children of `DET` nodes belong to 3 different parts of speech: <tt><a href="ht_autogramm-pos-DET.html">DET</a></tt> (1; 33% instances), <tt><a href="ht_autogramm-pos-NOUN.html">NOUN</a></tt> (1; 33% instances), <tt><a href="ht_autogramm-pos-PUNCT.html">PUNCT</a></tt> (1; 33% instances)
 

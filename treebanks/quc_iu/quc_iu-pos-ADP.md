@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Kiche-IU: POS Tags: `ADP`
 
 There are 5 `ADP` lemmas (0%), 9 `ADP` types (0%) and 486 `ADP` tokens (5%).
-Out of 15 observed tags, the rank of `ADP` is: 14 in number of lemmas, 13 in number of types and 6 in number of tokens.
+Out of 16 observed tags, the rank of `ADP` is: 14 in number of lemmas, 13 in number of types and 6 in number of tokens.
 
 The 10 most frequent `ADP` lemmas: <em>chi, pa, kʼa, kʼateʼ, pachaʼ</em>
 
@@ -39,7 +39,7 @@ The 10 most frequent ambiguous types:  <em>ch</em> (<tt><a href="quc_iu-pos-ADP.
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.800000 (the average of all parts of speech is 1.617880).
+The form / lemma ratio of `ADP` is 1.800000 (the average of all parts of speech is 1.617435).
 
 The 1st highest number of forms (4) was observed with the lemma “chi”: <em>ch, chi, chiʼ, cho</em>.
 

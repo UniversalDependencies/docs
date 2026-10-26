@@ -13,7 +13,7 @@ This relation is universal.
 170 instances of `ccomp` (88%) are left-to-right (parent precedes child).
 Average distance between parent and child is 6.55670103092783.
 
-The following 13 pairs of parts of speech are connected with `ccomp`: <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (161; 83% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (7; 4% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt> (6; 3% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (5; 3% instances), <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt>-<tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (4; 2% instances), <tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt>-<tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt>-<tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-DET.html">DET</a></tt> (1; 1% instances).
+The following 14 pairs of parts of speech are connected with `ccomp`: <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (161; 83% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt> (6; 3% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (6; 3% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (5; 3% instances), <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt>-<tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (4; 2% instances), <tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt>-<tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt>-<tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-DET.html">DET</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -45,6 +45,32 @@ The following 13 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 
 
 ~~~ conllu
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 8 ccomp	color:blue
+1	Jésù	jésù	PROPN	_	_	6	nsubj	_	Gloss=jesus|Ref=MARK_5.24
+2	sì	sì	CCONJ	_	_	6	cc	_	Gloss=and|Ref=MARK_5.24
+3	ń	ń	AUX	_	_	6	aux	_	Gloss=is|Ref=MARK_5.24
+4	bá	bá	ADP	_	_	6	case	_	Gloss=with|Ref=MARK_5.24
+5	a	a	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	6	obj	_	Gloss=him|Ref=MARK_5.24
+6	lọ	lọ	VERB	_	_	0	root	_	Gloss=him|Ref=MARK_5.24|SpaceAfter=No
+7	.	.	PUNCT	_	_	8	punct	_	Gloss=.|Ref=MARK_5.24
+8	Ọ̀pọ̀	Ọ̀pọ̀	ADJ	_	_	6	ccomp	_	Gloss=many|Ref=MARK_5.24
+9	ìjọ	ìjọ	NOUN	_	_	13	nsubj	_	Gloss=congregation|Ref=MARK_5.24
+10	ènìyàn	ènìyàn	NOUN	_	_	9	nmod	_	Gloss=people|Ref=MARK_5.24
+11	sì	sì	CCONJ	_	_	13	cc	_	Gloss=and|Ref=MARK_5.24
+12	ń	ń	AUX	_	_	13	aux	_	Gloss=is|Ref=MARK_5.24
+13	tọ̀	tọ̀	VERB	_	_	8	parataxis	_	Gloss=follow|Ref=MARK_5.24
+14	Ọ́	ọ́	NOUN	_	_	13	obj	_	Gloss=him|Ref=MARK_5.24
+15	lẹ́yìn	lẹ́yìn	ADP	_	_	14	case	_	Gloss=after|Ref=MARK_5.24|SpaceAfter=No
+16	.	.	PUNCT	_	_	13	punct	_	Gloss=.|Ref=MARK_5.24
+
+~~~
+
+
+~~~ conllu
 # visual-style 13	bgColor:blue
 # visual-style 13	fgColor:white
 # visual-style 10	bgColor:blue
@@ -70,32 +96,6 @@ The following 13 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 18	àìmọ́	àìmọ́	ADJ	_	_	13	amod	_	Gloss=unclean|Ref=MARK_5.8|SpaceAfter=No
 19	!	!	PUNCT	_	_	18	punct	_	Gloss=.|Ref=MARK_5.8|SpaceAfter=No
 20	”	”	PUNCT	_	_	13	punct	_	Gloss=.|Ref=MARK_5.8
-
-~~~
-
-
-~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 8 ccomp	color:blue
-1	Jésù	jésù	PROPN	_	_	6	nsubj	_	Gloss=jesus|Ref=MARK_5.24
-2	sì	sì	CCONJ	_	_	6	cc	_	Gloss=and|Ref=MARK_5.24
-3	ń	ń	AUX	_	_	6	aux	_	Gloss=is|Ref=MARK_5.24
-4	bá	bá	ADP	_	_	6	case	_	Gloss=with|Ref=MARK_5.24
-5	a	a	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	6	obj	_	Gloss=him|Ref=MARK_5.24
-6	lọ	lọ	VERB	_	_	0	root	_	Gloss=him|Ref=MARK_5.24|SpaceAfter=No
-7	.	.	PUNCT	_	_	8	punct	_	Gloss=.|Ref=MARK_5.24
-8	Ọ̀pọ̀	Ọ̀pọ̀	ADJ	_	_	6	ccomp	_	Gloss=many|Ref=MARK_5.24
-9	ìjọ	ìjọ	NOUN	_	_	13	nsubj	_	Gloss=congregation|Ref=MARK_5.24
-10	ènìyàn	ènìyàn	NOUN	_	_	9	nmod	_	Gloss=people|Ref=MARK_5.24
-11	sì	sì	CCONJ	_	_	13	cc	_	Gloss=and|Ref=MARK_5.24
-12	ń	ń	AUX	_	_	13	aux	_	Gloss=is|Ref=MARK_5.24
-13	tọ̀	tọ̀	VERB	_	_	8	parataxis	_	Gloss=follow|Ref=MARK_5.24
-14	Ọ́	ọ́	NOUN	_	_	13	obj	_	Gloss=him|Ref=MARK_5.24
-15	lẹ́yìn	lẹ́yìn	ADP	_	_	14	case	_	Gloss=after|Ref=MARK_5.24|SpaceAfter=No
-16	.	.	PUNCT	_	_	13	punct	_	Gloss=.|Ref=MARK_5.24
 
 ~~~
 

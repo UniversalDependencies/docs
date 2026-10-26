@@ -22,16 +22,16 @@ The following 10 pairs of parts of speech are connected with `expl:subj`: <tt><a
 # visual-style 12	bgColor:blue
 # visual-style 12	fgColor:white
 # visual-style 12 11 expl:subj	color:blue
-1	#	#	X	_	_	4	dep	_	AlignBegin=247495|AlignEnd=248115|Gloss=PUNCT
+1	#	#	PUNCT	_	_	4	punct	_	AlignBegin=247495|AlignEnd=248115|Gloss=PUNCT
 2	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	AlignBegin=248115|AlignEnd=248182|Gloss=NOM.SG.1
 3	con	con	AUX	_	Aspect=Cons	4	aux	_	AlignBegin=248182|AlignEnd=248392|Gloss=CONS
 4	tell	tell	VERB	_	_	0	root	_	AlignBegin=248392|AlignEnd=248542|Gloss=tell
 5	my	my	PRON	_	Number=Sing|Person=1|Poss=Yes	6	nmod:poss	_	AlignBegin=248542|AlignEnd=248682|Gloss=SG.1.POSS
 6	oga	oga	NOUN	_	_	4	obl:arg	_	AlignBegin=248682|AlignEnd=248902|Gloss=boss
 7	sey	sey	SCONJ	_	_	12	mark	_	AlignBegin=248902|AlignEnd=249082|Gloss=COMP
-8	[	[	X	_	_	12	dep	_	AlignBegin=249082|AlignEnd=249082|Gloss=PUNCT
+8	[	[	PUNCT	_	_	12	punct	_	AlignBegin=249082|AlignEnd=249082|Gloss=PUNCT
 9	toh	toh	INTJ	_	_	12	discourse	_	AlignBegin=249082|AlignEnd=249260|Gloss=alright
-10	#	#	X	_	_	9	dep	_	AlignBegin=249290|AlignEnd=249630|Gloss=PUNCT
+10	#	#	PUNCT	_	_	9	punct	_	AlignBegin=249290|AlignEnd=249630|Gloss=PUNCT
 11	e	im	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	12	expl:subj	_	AlignBegin=249630|AlignEnd=249690|Gloss=NOM.SG.3
 12	get	get	VERB	_	_	4	ccomp	_	AlignBegin=249690|AlignEnd=249852|Gloss=get
 13	one	one	DET	_	Definite=Spec|PronType=Art	14	det	_	AlignBegin=249852|AlignEnd=250040|Gloss=SPEC.ART
@@ -41,8 +41,8 @@ The following 10 pairs of parts of speech are connected with `expl:subj`: <tt><a
 17	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	18	nsubj	_	AlignBegin=250530|AlignEnd=250640|Gloss=NOM.SG.1
 18	see	see	VERB	_	_	14	acl:relcl	_	AlignBegin=250640|AlignEnd=250890|Gloss=see
 19	o	o	PART	_	PartType=Disc	12	advmod	_	AlignBegin=250890|AlignEnd=251046|Gloss=EMPH
-20	]	]	X	_	_	12	dep	_	AlignBegin=251046|AlignEnd=251046|Gloss=PUNCT
-21	//	//	X	_	_	4	dep	_	AlignBegin=251016|AlignEnd=251046|Gloss=PUNCT
+20	]	]	PUNCT	_	_	12	punct	_	AlignBegin=251046|AlignEnd=251046|Gloss=PUNCT
+21	//	//	PUNCT	_	_	4	punct	_	AlignBegin=251016|AlignEnd=251046|Gloss=PUNCT
 
 ~~~
 
@@ -53,11 +53,11 @@ The following 10 pairs of parts of speech are connected with `expl:subj`: <tt><a
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 2 expl:subj	color:blue
-1	#	#	X	_	_	4	dep	_	AlignBegin=285305|AlignEnd=285540|Gloss=PUNCT
+1	#	#	PUNCT	_	_	4	punct	_	AlignBegin=285305|AlignEnd=285540|Gloss=PUNCT
 2	e	im	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	4	expl:subj	_	AlignBegin=285540|AlignEnd=285750|Gloss=NOM.SG.3
 3	go	go	AUX	_	Aspect=Prosp	4	aux	_	AlignBegin=285750|AlignEnd=285870|Gloss=PROSP
 4	better	beta	ADJ	_	Degree=Cmp|ExtPos=VERB	0	root	_	AlignBegin=285870|AlignEnd=286250|Gloss=good.CMPR
-5	//	//	X	_	_	4	dep	_	AlignBegin=286250|AlignEnd=286250|Gloss=PUNCT
+5	//	//	PUNCT	_	_	4	punct	_	AlignBegin=286250|AlignEnd=286250|Gloss=PUNCT
 
 ~~~
 
@@ -68,12 +68,12 @@ The following 10 pairs of parts of speech are connected with `expl:subj`: <tt><a
 # visual-style 18	bgColor:blue
 # visual-style 18	fgColor:white
 # visual-style 18 2 expl:subj	color:blue
-1	#	#	X	_	_	18	dep	_	AlignBegin=249726|AlignEnd=250060|Gloss=PUNCT
+1	#	#	PUNCT	_	_	18	punct	_	AlignBegin=249726|AlignEnd=250060|Gloss=PUNCT
 2	e	im	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	18	expl:subj	_	AlignBegin=250060|AlignEnd=250150|Gloss=NOM.SG.3
 3	fit	fit	AUX	_	Mood=Pot	18	aux	_	AlignBegin=250150|AlignEnd=250280|Gloss=ABIL
 4	be	be	AUX	_	PartType=Cop	18	cop	_	AlignBegin=250280|AlignEnd=250381|Gloss=be
 5	sey	sey	SCONJ	_	_	18	mark	_	AlignBegin=250381|AlignEnd=250490|Gloss=COMP
-6	[	[	X	_	_	18	dep	_	AlignBegin=250490|AlignEnd=250490|Gloss=PUNCT
+6	[	[	PUNCT	_	_	18	punct	_	AlignBegin=250490|AlignEnd=250490|Gloss=PUNCT
 7	di	di	DET	_	Definite=Def|PronType=Art	8	det	_	AlignBegin=250490|AlignEnd=250590|Gloss=DEF.ART
 8	person	person	NOUN	_	_	18	nsubj	_	AlignBegin=250590|AlignEnd=250840|Gloss=person
 9	wey	wey	SCONJ	_	_	11	mark	_	AlignBegin=250840|AlignEnd=250910|Gloss=REL
@@ -86,8 +86,8 @@ The following 10 pairs of parts of speech are connected with `expl:subj`: <tt><a
 16	im	im	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	17	nmod:poss	_	AlignBegin=251730|AlignEnd=251867|Gloss=NOM.SG.3
 17	tribe	tribe	NOUN	_	_	18	compound	_	AlignBegin=251867|AlignEnd=252080|Gloss=tribe
 18	person	person	NOUN	_	_	0	root	_	AlignBegin=252080|AlignEnd=252429|Gloss=person
-19	]	]	X	_	_	18	dep	_	AlignBegin=252429|AlignEnd=252429|Gloss=PUNCT
-20	//	//	X	_	_	18	dep	_	AlignBegin=252399|AlignEnd=252429|Gloss=PUNCT
+19	]	]	PUNCT	_	_	18	punct	_	AlignBegin=252429|AlignEnd=252429|Gloss=PUNCT
+20	//	//	PUNCT	_	_	18	punct	_	AlignBegin=252399|AlignEnd=252429|Gloss=PUNCT
 
 ~~~
 

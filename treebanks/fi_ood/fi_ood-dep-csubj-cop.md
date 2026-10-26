@@ -67,7 +67,7 @@ The following 3 pairs of parts of speech are connected with `csubj:cop`: <tt><a 
 6	kämppiksellä	kämppis	NOUN	_	Case=Ade|Number=Sing	3	csubj:cop	_	_
 7	on	olla	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	cop:own	_	_
 8	oma	oma	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	9	amod	_	_
-9	auto	auto	NOUN	_	Case=Nom|Number=Sing	6	nsubj:cop	_	_
+9	auto	auto	NOUN	_	Case=Nom|Number=Sing	6	nsubj:cop	_	candidate=nsubj:exist
 10	täällä	täällä	ADV	_	_	6	advmod	_	SpaceAfter=No
 11	.	.	PUNCT	_	_	3	punct	_	_
 

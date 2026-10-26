@@ -50,7 +50,7 @@ The following 4 pairs of parts of speech are connected with `acl:relcl`: <tt><a 
 4	vastatas	vastatas	VERB	_	VerbForm=Inf	2	xcomp	_	_
 5	Natalja	Natalja	PROPN	_	Case=Gen|Number=Sing	2	nsubj	_	_
 6	Silakovanke	Silakova	PROPN	_	Case=Com|Number=Sing	5	flat	_	_
-7	Kalages	Kalag'	PROPN	_	Case=Ine|Number=Sing	2	obl	_	_
+7	Kalages	Kalagʼ	PROPN	_	Case=Ine|Number=Sing	2	obl	_	_
 8	,	,	PUNCT	_	_	11	punct	_	_
 9	ani	ani	ADV	_	_	11	advmod	_	_
 10	hänen	hän	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	11	nmod	_	_
@@ -60,7 +60,7 @@ The following 4 pairs of parts of speech are connected with `acl:relcl`: <tt><a 
 14	mitte	mitte	PRON	_	Case=Nom|Number=Sing|PronType=Int	17	nsubj:cop	_	_
 15	om	olda	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	17	cop	_	_
 16	23.	23.	NUM	_	Case=Ade|NumForm=Digit|NumType=Ord	17	nummod	_	_
-17	sügüz'kud	sügüz'ku	NOUN	_	Case=Par|Number=Sing	11	acl:relcl	_	_
+17	sügüzʼkud	sügüzʼku	NOUN	_	Case=Par|Number=Sing	11	acl:relcl	_	_
 18	.	.	PUNCT	_	_	2	punct	_	_
 
 ~~~
@@ -73,7 +73,7 @@ The following 4 pairs of parts of speech are connected with `acl:relcl`: <tt><a 
 # visual-style 10	fgColor:white
 # visual-style 10 12 acl:relcl	color:blue
 1	No	no	CCONJ	_	_	6	cc	_	_
-2	suren	sur'	ADJ	_	Case=Gen|Degree=Pos|Number=Sing	3	amod	_	_
+2	suren	surʼ	ADJ	_	Case=Gen|Degree=Pos|Number=Sing	3	amod	_	_
 3	taban	taba	NOUN	_	Case=Gen|Number=Sing	6	obl	_	_
 4	taga	taga	ADP	_	AdpType=Post	3	case	_	_
 5	om	olda	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	aux	_	_
@@ -85,7 +85,7 @@ The following 4 pairs of parts of speech are connected with `acl:relcl`: <tt><a 
 11	,	,	PUNCT	_	_	12	punct	_	_
 12	kudambal	kudamb	PRON	_	Case=Ade|Number=Sing|PronType=Int	10	acl:relcl	_	_
 13	om	olda	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	cop	_	_
-14	ičeze	ičeze	PRON	_	Case=Nom|Number=Sing|PronType=Prs|Reflex=Yes	15	nmod	_	_
+14	ičeze	iče	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	15	nmod	_	_
 15	uništusid	uništuz	NOUN	_	Case=Par|Number=Plur	12	nsubj	_	_
 16	da	da	CCONJ	_	_	17	cc	_	_
 17	tahtoid	taht	NOUN	_	Case=Par|Number=Plur	15	conj	_	_

@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of ADV in UD_Swiss_German-UZH'
+title:  'Statistics of ADV in UD_Alemannic-UZH'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Swiss_German-UZH: POS Tags: `ADV`
+## Treebank Statistics: UD_Alemannic-UZH: POS Tags: `ADV`
 
 There are 1 `ADV` lemmas (7%), 100 `ADV` types (13%) and 144 `ADV` tokens (10%).
 Out of 15 observed tags, the rank of `ADV` is: 3 in number of lemmas, 3 in number of types and 4 in number of tokens.
@@ -43,7 +43,7 @@ The 1st highest number of forms (100) was observed with the lemma “_”: <em>I
 
 ## Relations
 
-`ADV` nodes are attached to their parents using 6 different relations: <tt><a href="gsw_uzh-dep-advmod.html">advmod</a></tt> (133; 92% instances), <tt><a href="gsw_uzh-dep-amod.html">amod</a></tt> (6; 4% instances), <tt><a href="gsw_uzh-dep-obj.html">obj</a></tt> (2; 1% instances), <tt><a href="gsw_uzh-dep-conj.html">conj</a></tt> (1; 1% instances), <tt><a href="gsw_uzh-dep-obl.html">obl</a></tt> (1; 1% instances), <tt><a href="gsw_uzh-dep-xcomp.html">xcomp</a></tt> (1; 1% instances)
+`ADV` nodes are attached to their parents using 5 different relations: <tt><a href="gsw_uzh-dep-advmod.html">advmod</a></tt> (135; 94% instances), <tt><a href="gsw_uzh-dep-amod.html">amod</a></tt> (6; 4% instances), <tt><a href="gsw_uzh-dep-conj.html">conj</a></tt> (1; 1% instances), <tt><a href="gsw_uzh-dep-obl.html">obl</a></tt> (1; 1% instances), <tt><a href="gsw_uzh-dep-xcomp.html">xcomp</a></tt> (1; 1% instances)
 
 Parents of `ADV` nodes belong to 10 different parts of speech: <tt><a href="gsw_uzh-pos-VERB.html">VERB</a></tt> (71; 49% instances), <tt><a href="gsw_uzh-pos-ADJ.html">ADJ</a></tt> (30; 21% instances), <tt><a href="gsw_uzh-pos-AUX.html">AUX</a></tt> (17; 12% instances), <tt><a href="gsw_uzh-pos-NOUN.html">NOUN</a></tt> (10; 7% instances), <tt><a href="gsw_uzh-pos-ADV.html">ADV</a></tt> (5; 3% instances), <tt><a href="gsw_uzh-pos-PART.html">PART</a></tt> (4; 3% instances), <tt><a href="gsw_uzh-pos-PRON.html">PRON</a></tt> (3; 2% instances), <tt><a href="gsw_uzh-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="gsw_uzh-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="gsw_uzh-pos-PROPN.html">PROPN</a></tt> (1; 1% instances)
 

@@ -62,13 +62,13 @@ The 2nd highest number of forms (5) was observed with the lemma “quello”: <e
 
 The 3rd highest number of forms (5) was observed with the lemma “questo”: <em>quest', questa, queste, questi, questo</em>.
 
-`DET` occurs with 6 features: <tt><a href="it_pud-feat-Number.html">Number</a></tt> (3785; 100% instances), <tt><a href="it_pud-feat-Gender.html">Gender</a></tt> (3783; 100% instances), <tt><a href="it_pud-feat-PronType.html">PronType</a></tt> (1478; 39% instances), <tt><a href="it_pud-feat-Definite.html">Definite</a></tt> (1476; 39% instances), <tt><a href="it_pud-feat-Number-psor.html">Number[psor]</a></tt> (2; 0% instances), <tt><a href="it_pud-feat-Person.html">Person</a></tt> (2; 0% instances)
+`DET` occurs with 6 features: <tt><a href="it_pud-feat-Number.html">Number</a></tt> (3785; 100% instances), <tt><a href="it_pud-feat-Gender.html">Gender</a></tt> (3783; 100% instances), <tt><a href="it_pud-feat-PronType.html">PronType</a></tt> (3495; 92% instances), <tt><a href="it_pud-feat-Definite.html">Definite</a></tt> (1476; 39% instances), <tt><a href="it_pud-feat-Number-psor.html">Number[psor]</a></tt> (2; 0% instances), <tt><a href="it_pud-feat-Person.html">Person</a></tt> (2; 0% instances)
 
 `DET` occurs with 9 feature-value pairs: `Definite=Def`, `Gender=Fem`, `Gender=Masc`, `Number=Plur`, `Number=Sing`, `Number[psor]=Sing`, `Person=3`, `PronType=Art`, `PronType=Prs`
 
-`DET` occurs with 11 feature combinations.
-The most frequent feature combination is `Gender=Masc|Number=Sing` (939 tokens).
-Examples: <em>il, un, l', lo, questo, ciò, ogni, uno, quel, quest'</em>
+`DET` occurs with 15 feature combinations.
+The most frequent feature combination is `Gender=Masc|Number=Sing|PronType=Art` (838 tokens).
+Examples: <em>il, un, l', lo, uno</em>
 
 
 ## Relations

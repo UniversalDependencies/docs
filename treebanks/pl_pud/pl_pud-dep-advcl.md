@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Polish-PUD: Relations: `advcl`
 
 This relation is universal.
-There are 1 language-specific subtypes of `advcl`: <tt><a href="pl_pud-dep-advcl-relcl.html">advcl:relcl</a></tt>.
+There are 2 language-specific subtypes of `advcl`: <tt><a href="pl_pud-dep-advcl-cmp.html">advcl:cmp</a></tt>, <tt><a href="pl_pud-dep-advcl-relcl.html">advcl:relcl</a></tt>.
 
 176 nodes (1%) are attached to their parents as `advcl`.
 

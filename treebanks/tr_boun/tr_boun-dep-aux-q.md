@@ -45,7 +45,7 @@ The following 3 pairs of parts of speech are connected with `aux:q`: <tt><a href
 # visual-style 4 5 aux:q	color:blue
 1	"	"	PUNCT	Punc	_	2	punct	_	SpaceAfter=No
 2	Kızım	Kızım	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=1	4	discourse	_	_
-3	sen	sen	PRON	Pers	Case=Nom|Number=Sing|Person=2	4	nsubj	_	_
+3	sen	sen	PRON	Pers	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	_
 4	deli	deli	NOUN	_	_	0	root	_	_
 5	misin	mi	AUX	_	Aspect=Imp|Number=Sing|Person=2|Tense=Pres	4	aux:q	_	_
 6	.	.	PUNCT	Stop	_	4	punct	_	SpacesAfter=\n
@@ -60,23 +60,23 @@ The following 3 pairs of parts of speech are connected with `aux:q`: <tt><a href
 # visual-style 15	fgColor:white
 # visual-style 15 16 aux:q	color:blue
 1	Sonra	sonra	ADP	PCAbl	_	15	case	_	_
-2	bir	bir	DET	Indef	_	3	det	_	_
+2	bir	bir	DET	Indef	PronType=Ind	3	det	_	_
 3	gün	gün	NOUN	_	Case=Nom|Number=Sing|Person=3	10	obl	_	_
 4	durgun	durgun	ADJ	Adj	_	5	amod	_	_
 5	suda	su	NOUN	_	Case=Loc|Number=Sing|Person=3	6	obl	_	_
-6	yatmış	yat	VERB	_	Evident=Nfh|Number=Sing|Person=3|Polarity=Pos|Tense=Past	10	obj	_	_
+6	yatmış	yat	VERB	_	Evident=Nfh|Number=Sing|Person=3|Polarity=Pos|Tense=Past	10	advcl	_	_
 7	keyifli	keyifli	ADV	_	_	10	advmod	_	DerivedFrom=keyif
 8	keyifli	keyifli	ADV	_	_	7	compound:redup	_	DerivedFrom=keyif
 9	etrafı	etraf	NOUN	_	Case=Acc|Number=Sing|Person=3	10	obj	_	_
 10	seyrederken	seyret	VERB	_	Aspect=Hab|Mood=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Conv	12	nmod	_	_
-11	bir	bir	DET	Indef	_	12	det	_	_
+11	bir	bir	DET	Indef	PronType=Ind	12	det	_	_
 12	bakmışım	bak	VERB	_	Evident=Nfh|Number=Sing|Person=1|Polarity=Pos|Tense=Past	15	obj	_	SpaceAfter=No
 13	,	,	PUNCT	Comma	_	12	punct	_	_
-14	sen	sen	PRON	Pers	Case=Nom|Number=Sing|Person=2	15	nsubj	_	_
+14	sen	sen	PRON	Pers	Case=Nom|Number=Sing|Person=2|PronType=Prs	15	nsubj	_	_
 15	oraday	ora	PRON	Demons	Case=Loc|Number=Sing|Person=3|PronType=Loc	0	root	_	_
 16	mışsın	i	AUX	Zero	Aspect=Perf|Evident=Nfh|Mood=Ind|Number=Sing|Person=2|Tense=Past	15	aux:q	_	_
 17	,	,	PUNCT	Comma	_	19	punct	_	_
-18	beni	ben	PRON	Pers	Case=Acc|Number=Sing|Person=1	19	obj	_	_
+18	beni	ben	PRON	Pers	Case=Acc|Number=Sing|Person=1|PronType=Prs	19	obj	_	_
 19	bekliyormuşsun	bekle	VERB	_	Aspect=Prog|Evident=Nfh|Number=Sing|Person=2|Polarity=Pos|Tense=Past	15	conj	_	SpaceAfter=No
 20	.	.	PUNCT	Stop	_	19	punct	_	SpacesAfter=\r\n
 

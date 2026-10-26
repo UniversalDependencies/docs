@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-602 nodes (1%) are attached to their parents as `xcomp`.
+650 nodes (1%) are attached to their parents as `xcomp`.
 
-424 instances of `xcomp` (70%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.50996677740864.
+458 instances of `xcomp` (70%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.50307692307692.
 
-The following 12 pairs of parts of speech are connected with `xcomp`: <tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt> (252; 42% instances), <tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt> (126; 21% instances), <tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_bsut-pos-ADJ.html">ADJ</a></tt> (105; 17% instances), <tt><a href="hy_bsut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt> (96; 16% instances), <tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_bsut-pos-ADV.html">ADV</a></tt> (8; 1% instances), <tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_bsut-pos-PRON.html">PRON</a></tt> (7; 1% instances), <tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_bsut-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="hy_bsut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="hy_bsut-pos-ADV.html">ADV</a></tt>-<tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="hy_bsut-pos-ADV.html">ADV</a></tt>-<tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_bsut-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `xcomp`: <tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt> (267; 41% instances), <tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt> (145; 22% instances), <tt><a href="hy_bsut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt> (110; 17% instances), <tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_bsut-pos-ADJ.html">ADJ</a></tt> (105; 16% instances), <tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_bsut-pos-PRON.html">PRON</a></tt> (8; 1% instances), <tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_bsut-pos-PROPN.html">PROPN</a></tt> (6; 1% instances), <tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_bsut-pos-ADV.html">ADV</a></tt> (5; 1% instances), <tt><a href="hy_bsut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="hy_bsut-pos-ADV.html">ADV</a></tt>-<tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="hy_bsut-pos-AUX.html">AUX</a></tt>-<tt><a href="hy_bsut-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -55,21 +55,18 @@ The following 12 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 2 1 xcomp	color:blue
-1	Ուրախ	ուրախ	ADJ	_	Degree=Pos	2	xcomp	_	Translit=OWrax|LTranslit=owrax
-2	կլինեմ	լինել	VERB	_	Aspect=Prosp|Mood=Cnd|Number=Sing|Person=1|Polarity=Pos|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	Translit=klinem|LTranslit=linel|SpaceAfter=No
-3	,	,	PUNCT	_	_	5	punct	_	Translit=,|LTranslit=,
-4	եթե	եթե	SCONJ	_	_	5	mark	_	Translit=et’e|LTranslit=et’e
-5	կիսվեք	կիսվել	VERB	_	Aspect=Prosp|Mood=Sub|Number=Plur|Person=2|Polarity=Pos|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Mid	2	advcl	_	Translit=kisvek’|LTranslit=kisvel
-6	պոեզիայի	պոեզիա	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Coll	7	nmod:poss	_	Translit=poeziayi|LTranslit=poezia
-7	ընթերցման	ընթերցում	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	9	nmod:poss	_	Translit=ënt’erc’man|LTranslit=ënt’erc’owm
-8	ձեր	դուք	DET	_	Case=Gen|Number=Plur|Person=2|Poss=Yes|PronType=Prs	9	det:poss	_	Translit=jer|LTranslit=dowk’
-9	հաճույքներով	հաճույք	NOUN	_	Animacy=Nhum|Case=Ins|Definite=Ind|Number=Plur	5	obl	_	Translit=hač̣owyk’nerov|LTranslit=hač̣owyk’|SpaceAfter=No
-10	։	։	PUNCT	_	_	2	punct	_	Translit=.|LTranslit=.
+# visual-style 2 4 xcomp	color:blue
+1	Համայնքը	համայնք	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	2	nsubj	_	Translit=Hamaynk’ë|LTranslit=hamaynk’
+2	պատրաստ	պատրաստ	ADJ	_	_	0	root	_	Translit=patrast|LTranslit=patrast
+3	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	2	cop	_	Translit=ē|LTranslit=em
+4	վճարել	վճարել	VERB	_	Polarity=Pos|Subcat=Tran|VerbForm=Inf|Voice=Act	2	xcomp	_	Translit=vč̣arel|LTranslit=vč̣arel
+5	որակյալ	որակյալ	ADJ	_	Degree=Pos	6	amod	_	Translit=orakyal|LTranslit=orakyal
+6	բովանդակության	բովանդակություն	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	4	obl	_	Translit=bovandakowt’yan|LTranslit=bovandakowt’yown
+7	համար	համար	ADP	_	AdpType=Post	6	case	_	Translit=hamar|LTranslit=hamar
 
 ~~~
 

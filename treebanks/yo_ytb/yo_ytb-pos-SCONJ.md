@@ -65,13 +65,13 @@ The 10 most frequent ambiguous types:  <em>pé</em> (<tt><a href="yo_ytb-pos-SCO
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.052632 (the average of all parts of speech is 1.007344).
+The form / lemma ratio of `SCONJ` is 1.052632 (the average of all parts of speech is 1.007366).
 
 The 1st highest number of forms (2) was observed with the lemma “bí”: <em>bi, bí</em>.
 
 The 2nd highest number of forms (1) was observed with the lemma “Bí”: <em>Bí</em>.
 
-The 3rd highest number of forms (1) was observed with the lemma “Bó”: <em>Bó</em>.
+The 3rd highest number of forms (1) was observed with the lemma “Kí”: <em>Kí</em>.
 
 `SCONJ` occurs with 5 features: <tt><a href="yo_ytb-feat-Case.html">Case</a></tt> (1; 0% instances), <tt><a href="yo_ytb-feat-Number.html">Number</a></tt> (1; 0% instances), <tt><a href="yo_ytb-feat-Person.html">Person</a></tt> (1; 0% instances), <tt><a href="yo_ytb-feat-PronType.html">PronType</a></tt> (1; 0% instances), <tt><a href="yo_ytb-feat-Typo.html">Typo</a></tt> (1; 0% instances)
 
@@ -84,9 +84,9 @@ Examples: <em>pé, bí, nítorí, bá, kí, tilẹ̀, tó, Tí, baà, ìbáṣe<
 
 ## Relations
 
-`SCONJ` nodes are attached to their parents using 6 different relations: <tt><a href="yo_ytb-dep-mark.html">mark</a></tt> (284; 82% instances), <tt><a href="yo_ytb-dep-compound.html">compound</a></tt> (30; 9% instances), <tt><a href="yo_ytb-dep-case.html">case</a></tt> (29; 8% instances), <tt><a href="yo_ytb-dep-fixed.html">fixed</a></tt> (3; 1% instances), <tt><a href="yo_ytb-dep-obj.html">obj</a></tt> (1; 0% instances), <tt><a href="yo_ytb-dep-obl.html">obl</a></tt> (1; 0% instances)
+`SCONJ` nodes are attached to their parents using 6 different relations: <tt><a href="yo_ytb-dep-mark.html">mark</a></tt> (282; 81% instances), <tt><a href="yo_ytb-dep-case.html">case</a></tt> (31; 9% instances), <tt><a href="yo_ytb-dep-compound.html">compound</a></tt> (30; 9% instances), <tt><a href="yo_ytb-dep-fixed.html">fixed</a></tt> (3; 1% instances), <tt><a href="yo_ytb-dep-obj.html">obj</a></tt> (1; 0% instances), <tt><a href="yo_ytb-dep-obl.html">obl</a></tt> (1; 0% instances)
 
-Parents of `SCONJ` nodes belong to 8 different parts of speech: <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (275; 79% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (41; 12% instances), <tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt> (11; 3% instances), <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> (8; 2% instances), <tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> (5; 1% instances), <tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt> (3; 1% instances), <tt><a href="yo_ytb-pos-SCONJ.html">SCONJ</a></tt> (3; 1% instances), <tt><a href="yo_ytb-pos-NUM.html">NUM</a></tt> (2; 1% instances)
+Parents of `SCONJ` nodes belong to 8 different parts of speech: <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (273; 78% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (43; 12% instances), <tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt> (11; 3% instances), <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> (8; 2% instances), <tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> (4; 1% instances), <tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt> (4; 1% instances), <tt><a href="yo_ytb-pos-SCONJ.html">SCONJ</a></tt> (3; 1% instances), <tt><a href="yo_ytb-pos-NUM.html">NUM</a></tt> (2; 1% instances)
 
 317 (91%) `SCONJ` nodes are leaves.
 

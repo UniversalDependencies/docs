@@ -14,7 +14,7 @@ udver: '2'
 
 Evidentiality is the morphological marking of a speaker’s source of information. Khoekhoe has a marking only for non-first-hand evidentiality, whereas first-hand evidentiality is unmarked.
 
-In Khoekhoe it is an [auxiliary](naq-pos/AUX_) feature, used for the auxiliary _koma_.
+In Khoekhoe it is an [auxiliary](naq-pos/AUX) feature, used for the auxiliary _koma_.
 
 ### <a name="Nfh">`Nfh`</a>: non-firsthand
 Note that there is no `No` value. If the clause does not have a non-first-hand evidential auxiliary, the `Nfh` feature will not be mentioned in the FEAT column. (Which means that empty values have the `No` meaning.)
@@ -22,3 +22,4 @@ Note that there is no `No` value. If the clause does not have a non-first-hand e
 #### Examples
 
 * _Aob ge koma a ǃgâi._ "The man is supposedly good."
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:52 CEST -->

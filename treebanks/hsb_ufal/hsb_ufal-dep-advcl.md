@@ -17,23 +17,23 @@ The following 13 pairs of parts of speech are connected with `advcl`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 8 advcl	color:blue
-1	Pomhaj	pomhać	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
-2	Wikipediju	Wikipedija	PROPN	_	Case=Acc|Gender=Fem|Number=Sing	1	obj	_	SpaceAfter=No
-3	,	,	PUNCT	_	_	8	punct	_	_
-4	z	z	ADP	_	_	5	case	_	_
-5	tym	to	PRON	_	Case=Ins|Gender=Neut|Number=Sing|PronType=Dem	8	obl	_	_
-6	ty	ty	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	8	nsubj	_	_
-7	jón	wón	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obj	_	_
-8	rozšěriš	rozšěrić	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	1	advcl	_	_
-9	a	a	CCONJ	_	_	11	cc	_	_
-10	nětko	nětko	ADV	_	PronType=Dem	11	advmod	_	_
-11	wudospołniš	wudospołnić	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	8	conj	_	SpaceAfter=No
-12	.	.	PUNCT	_	_	1	punct	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 4 advcl	color:blue
+1	Potom	potom	ADV	_	PronType=Dem	2	advmod	_	_
+2	narysowa	narysować	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	kruh	kruh	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	2	obj	_	_
+4	prajo	prajić	VERB	_	Tense=Pres|VerbForm=Conv	2	advcl	_	SpaceAfter=No
+5	:	:	PUNCT	_	_	10	punct	_	_
+6	»	»	PUNCT	_	_	10	punct	_	SpaceAfter=No
+7	W	w	ADP	_	_	9	case	_	_
+8	tutym	tutón	DET	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|PronType=Dem	9	det	_	_
+9	kruhu	kruh	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	11	obl	_	_
+10	dyrbiš	dyrbjeć	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|VerbType=Mod	4	ccomp	_	_
+11	wostać	wostać	VERB	_	VerbForm=Inf	10	xcomp	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	10	punct	_	_
 
 ~~~
 

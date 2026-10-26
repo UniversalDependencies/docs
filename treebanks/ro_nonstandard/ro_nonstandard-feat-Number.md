@@ -11,21 +11,21 @@ It occurs with 2 different values: `Plur`, `Sing`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="ro_nonstandard-feat-Number.html">Number</a></tt>, <tt><a href="ro_nonstandard-feat-Number-psor.html">Number[psor]</a></tt>.
 
-272647 tokens (48%) have a non-empty value of `Number`.
-30410 types (95%) occur at least once with a non-empty value of `Number`.
-11174 lemmas (91%) occur at least once with a non-empty value of `Number`.
-The feature is used with 9 part-of-speech tags: <tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt> (96782; 17% instances), <tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (47552; 8% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt> (41027; 7% instances), <tt><a href="ro_nonstandard-pos-AUX.html">AUX</a></tt> (29369; 5% instances), <tt><a href="ro_nonstandard-pos-DET.html">DET</a></tt> (23251; 4% instances), <tt><a href="ro_nonstandard-pos-PROPN.html">PROPN</a></tt> (19968; 3% instances), <tt><a href="ro_nonstandard-pos-ADJ.html">ADJ</a></tt> (11404; 2% instances), <tt><a href="ro_nonstandard-pos-NUM.html">NUM</a></tt> (3293; 1% instances), <tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt> (1; 0% instances).
+272644 tokens (48%) have a non-empty value of `Number`.
+30409 types (95%) occur at least once with a non-empty value of `Number`.
+11173 lemmas (91%) occur at least once with a non-empty value of `Number`.
+The feature is used with 9 part-of-speech tags: <tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt> (96781; 17% instances), <tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (47551; 8% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt> (41027; 7% instances), <tt><a href="ro_nonstandard-pos-AUX.html">AUX</a></tt> (29369; 5% instances), <tt><a href="ro_nonstandard-pos-DET.html">DET</a></tt> (23251; 4% instances), <tt><a href="ro_nonstandard-pos-PROPN.html">PROPN</a></tt> (19968; 3% instances), <tt><a href="ro_nonstandard-pos-ADJ.html">ADJ</a></tt> (11404; 2% instances), <tt><a href="ro_nonstandard-pos-NUM.html">NUM</a></tt> (3292; 1% instances), <tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-96782 <tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Number`.
+96781 <tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=Acc,Nom</tt> (87450; 90%), <tt><a href="ro_nonstandard-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (52239; 54%), <tt><a href="ro_nonstandard-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (49597; 51%).
+The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=Acc,Nom</tt> (87449; 90%), <tt><a href="ro_nonstandard-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (52238; 54%), <tt><a href="ro_nonstandard-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (49597; 51%).
 
 `NOUN` tokens may have the following values of `Number`:
 
-* `Plur` (25647; 26% of non-empty `Number`): <em>oameni, turcii, bani, oamenii, ani, boierii, moscalii, ucenicii, boieri, turci</em>
-* `Sing` (71135; 74% of non-empty `Number`): <em>vodă, domnul, doamne, țara, țară, omul, om, domnului, oaste, cuvîntul</em>
+* `Plur` (25647; 27% of non-empty `Number`): <em>oameni, turcii, bani, oamenii, ani, boierii, moscalii, ucenicii, boieri, turci</em>
+* `Sing` (71134; 73% of non-empty `Number`): <em>vodă, domnul, doamne, țara, țară, omul, om, domnului, oaste, cuvîntul</em>
 * `EMPTY` (1): <em>neamure</em>
 
 <table>
@@ -41,13 +41,13 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 
 ### `PRON`
 
-47552 <tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> tokens (74% of all `PRON` tokens) have a non-empty value of `Number`.
+47551 <tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> tokens (74% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="ro_nonstandard-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (35046; 74%), <tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=3</tt> (33214; 70%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="ro_nonstandard-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (35045; 74%), <tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=3</tt> (33214; 70%).
 
 `PRON` tokens may have the following values of `Number`:
 
-* `Plur` (16607; 35% of non-empty `Number`): <em>lor, le, -i, ei, voi, carii, noi, vă, ne, voao</em>
+* `Plur` (16606; 35% of non-empty `Number`): <em>lor, le, -i, ei, voi, carii, noi, vă, ne, voao</em>
 * `Sing` (30945; 65% of non-empty `Number`): <em>lui, el, -l, -i, carele, l-, o, mă, eu, -mi</em>
 * `EMPTY` (17076): <em>să, ce, s-, se, cine, s, care, ce-, -să, -și</em>
 
@@ -56,8 +56,10 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
   <tr><td><tt><tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=Acc,Nom</tt>|<tt><a href="ro_nonstandard-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ro_nonstandard-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>el, elu, iel, l, îl, ei, Еl, Lui, Părinte</em></td><td><em>ei</em></td></tr>
   <tr><td><tt><tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=Acc,Nom</tt>|<tt><a href="ro_nonstandard-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ro_nonstandard-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>ea, ia, -o, O, ei</em></td><td></td></tr>
   <tr><td><tt><tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=Acc,Nom</tt>|<tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ro_nonstandard-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>i-</em></td><td><em>le-, Ei</em></td></tr>
+  <tr><td><tt><tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ro_nonstandard-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ro_nonstandard-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>-l, îl</em></td><td><em>îl</em></td></tr>
   <tr><td><tt><tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ro_nonstandard-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ro_nonstandard-feat-PronType.html">PronType</a></tt><tt>=Prs</tt>|<tt><a href="ro_nonstandard-feat-Strength.html">Strength</a></tt><tt>=Strong</tt></tt></td><td><em>el, elu, еl, -l, ei, l-</em></td><td><em>ei, -i, lor, îi</em></td></tr>
   <tr><td><tt><tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ro_nonstandard-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ro_nonstandard-feat-PronType.html">PronType</a></tt><tt>=Prs</tt>|<tt><a href="ro_nonstandard-feat-Strength.html">Strength</a></tt><tt>=Weak</tt></tt></td><td><em>-l, l-, l, îl, i-, lu, el, -i, îlu, îi, li-, Il, o</em></td><td><em>-i, i-, îi, -l, i, îl, ei, le, l, l-, le-, li</em></td></tr>
+  <tr><td><tt><tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ro_nonstandard-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ro_nonstandard-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>-o</em></td><td></td></tr>
   <tr><td><tt><tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ro_nonstandard-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ro_nonstandard-feat-PronType.html">PronType</a></tt><tt>=Prs</tt>|<tt><a href="ro_nonstandard-feat-Strength.html">Strength</a></tt><tt>=Strong</tt></tt></td><td><em>ia, ea, -o, o, ei</em></td><td><em>iale, ele, le, eale, ia</em></td></tr>
   <tr><td><tt><tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ro_nonstandard-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ro_nonstandard-feat-PronType.html">PronType</a></tt><tt>=Prs</tt>|<tt><a href="ro_nonstandard-feat-Strength.html">Strength</a></tt><tt>=Weak</tt></tt></td><td><em>o, -o, o-, ia, -l, l, li-</em></td><td><em>le, le-, -le, li, li-, o, -i, -li</em></td></tr>
   <tr><td><tt><tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="ro_nonstandard-feat-PronType.html">PronType</a></tt><tt>=Prs</tt>|<tt><a href="ro_nonstandard-feat-Strength.html">Strength</a></tt><tt>=Strong</tt></tt></td><td></td><td><em>Ia</em></td></tr>
@@ -70,7 +72,7 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
   <tr><td><tt><tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="ro_nonstandard-feat-PronType.html">PronType</a></tt><tt>=Prs</tt>|<tt><a href="ro_nonstandard-feat-Strength.html">Strength</a></tt><tt>=Weak</tt></tt></td><td><em>-I</em></td><td></td></tr>
   <tr><td><tt><tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="ro_nonstandard-feat-PronType.html">PronType</a></tt><tt>=Prs</tt>|<tt><a href="ro_nonstandard-feat-Strength.html">Strength</a></tt><tt>=Strong</tt></tt></td><td><em>lui</em></td><td></td></tr>
   <tr><td><tt><tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="ro_nonstandard-feat-PronType.html">PronType</a></tt><tt>=Prs</tt>|<tt><a href="ro_nonstandard-feat-Strength.html">Strength</a></tt><tt>=Weak</tt></tt></td><td><em>-i, i-</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ro_nonstandard-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>-i</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ro_nonstandard-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>-i, îi</em></td><td></td></tr>
   <tr><td><tt><tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ro_nonstandard-feat-PronType.html">PronType</a></tt><tt>=Prs</tt>|<tt><a href="ro_nonstandard-feat-Strength.html">Strength</a></tt><tt>=Strong</tt></tt></td><td></td><td><em>lor, ei, lui, loru</em></td></tr>
   <tr><td><tt><tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ro_nonstandard-feat-PronType.html">PronType</a></tt><tt>=Prs</tt>|<tt><a href="ro_nonstandard-feat-Strength.html">Strength</a></tt><tt>=Weak</tt></tt></td><td><em>-i, i-, i, îi, le-, -l, -le, le, lui, e, l-, lă</em></td><td><em>le, le-, li, -le, li-, lă, lor, -i, -li, I-, i, l</em></td></tr>
   <tr><td><tt><tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ro_nonstandard-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ro_nonstandard-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>lui, ei, lor, -i</em></td><td><em>lor, lui</em></td></tr>
@@ -210,14 +212,14 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 
 ### `NUM`
 
-3293 <tt><a href="ro_nonstandard-pos-NUM.html">NUM</a></tt> tokens (64% of all `NUM` tokens) have a non-empty value of `Number`.
+3292 <tt><a href="ro_nonstandard-pos-NUM.html">NUM</a></tt> tokens (64% of all `NUM` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NUM` and `Number` co-occurred: <tt><a href="ro_nonstandard-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (3126; 95%), <tt><a href="ro_nonstandard-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (2539; 77%), <tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2505; 76%), <tt><a href="ro_nonstandard-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (2318; 70%).
+The most frequent other feature values with which `NUM` and `Number` co-occurred: <tt><a href="ro_nonstandard-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (3123; 95%), <tt><a href="ro_nonstandard-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (2538; 77%), <tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2504; 76%), <tt><a href="ro_nonstandard-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (2318; 70%).
 
 `NUM` tokens may have the following values of `Number`:
 
 * `Plur` (2135; 65% of non-empty `Number`): <em>trei, doi, cinci, doao, patru, mii, două, nouă, trii, șapte</em>
-* `Sing` (1158; 35% of non-empty `Number`): <em>întîiu, treia, doa, mie, sută, patra, întăiu, dintîiu, un, doao</em>
+* `Sing` (1157; 35% of non-empty `Number`): <em>întîiu, treia, doa, mie, sută, patra, întăiu, dintîiu, un, doao</em>
 * `EMPTY` (1880): <em>2, 3, 4, 7, 12, 5, 1, 6, 10, 8</em>
 
 <table>
@@ -248,14 +250,14 @@ The most frequent other feature values with which `ADV` and `Number` co-occurred
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="ro_nonstandard-dep-det.html">det</a></tt>]--> DET</tt> (15032; 93%),
-<tt>NOUN --[<tt><a href="ro_nonstandard-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (7761; 67%),
-<tt>VERB --[<tt><a href="ro_nonstandard-dep-conj.html">conj</a></tt>]--> VERB</tt> (7448; 70%),
+<tt>NOUN --[<tt><a href="ro_nonstandard-dep-det.html">det</a></tt>]--> DET</tt> (15311; 93%),
+<tt>NOUN --[<tt><a href="ro_nonstandard-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (7836; 67%),
+<tt>VERB --[<tt><a href="ro_nonstandard-dep-conj.html">conj</a></tt>]--> VERB</tt> (7450; 70%),
 <tt>NOUN --[<tt><a href="ro_nonstandard-dep-amod.html">amod</a></tt>]--> ADJ</tt> (7124; 93%),
 <tt>NOUN --[<tt><a href="ro_nonstandard-dep-conj.html">conj</a></tt>]--> NOUN</tt> (5421; 79%),
-<tt>NOUN --[<tt><a href="ro_nonstandard-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (4168; 86%),
-<tt>PROPN --[<tt><a href="ro_nonstandard-dep-det.html">det</a></tt>]--> DET</tt> (3607; 98%),
-<tt>PROPN --[<tt><a href="ro_nonstandard-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (2928; 97%),
-<tt>NOUN --[<tt><a href="ro_nonstandard-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (2498; 64%),
+<tt>NOUN --[<tt><a href="ro_nonstandard-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (4190; 86%),
+<tt>PROPN --[<tt><a href="ro_nonstandard-dep-det.html">det</a></tt>]--> DET</tt> (3615; 98%),
+<tt>PROPN --[<tt><a href="ro_nonstandard-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (2930; 97%),
+<tt>NOUN --[<tt><a href="ro_nonstandard-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (2514; 64%),
 <tt>NOUN --[<tt><a href="ro_nonstandard-dep-cop.html">cop</a></tt>]--> AUX</tt> (2430; 64%).
 

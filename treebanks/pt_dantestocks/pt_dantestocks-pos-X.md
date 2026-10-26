@@ -59,11 +59,11 @@ The 2nd highest number of forms (2) was observed with the lemma “#Petrobras”
 
 The 3rd highest number of forms (2) was observed with the lemma “cai”: <em>cai, cain</em>.
 
-`X` occurs with 1 features: <tt><a href="pt_dantestocks-feat-Foreign.html">Foreign</a></tt> (118; 7% instances)
+`X` occurs with 2 features: <tt><a href="pt_dantestocks-feat-Foreign.html">Foreign</a></tt> (118; 7% instances), <tt><a href="pt_dantestocks-feat-ExtPos.html">ExtPos</a></tt> (1; 0% instances)
 
-`X` occurs with 1 feature-value pairs: `Foreign=Yes`
+`X` occurs with 2 feature-value pairs: `ExtPos=ADV`, `Foreign=Yes`
 
-`X` occurs with 2 feature combinations.
+`X` occurs with 3 feature combinations.
 The most frequent feature combination is `_` (1636 tokens).
 Examples: <em>RT, #vale5, #infomoney, #petr4, $LIGT3, #ibov, rsrsr, #bovespa, #BR, #PETR3</em>
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="gd_arcosg-dep-mark.html">mark</a></tt>.
 
-4593 nodes (5%) are attached to their parents as `mark:prt`.
+4540 nodes (5%) are attached to their parents as `mark:prt`.
 
-4592 instances of `mark:prt` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.14957544088831.
+4539 instances of `mark:prt` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.16035242290749.
 
-The following 10 pairs of parts of speech are connected with `mark:prt`: <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt>-<tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> (2838; 62% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> (1195; 26% instances), <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt>-<tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> (363; 8% instances), <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> (140; 3% instances), <tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt>-<tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> (20; 0% instances), <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt>-<tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> (15; 0% instances), <tt><a href="gd_arcosg-pos-X.html">X</a></tt>-<tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> (11; 0% instances), <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> (9; 0% instances), <tt><a href="gd_arcosg-pos-PART.html">PART</a></tt>-<tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt>-<tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `mark:prt`: <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt>-<tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> (2746; 60% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> (1215; 27% instances), <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt>-<tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> (363; 8% instances), <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> (155; 3% instances), <tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt>-<tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> (24; 1% instances), <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt>-<tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> (13; 0% instances), <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> (12; 0% instances), <tt><a href="gd_arcosg-pos-X.html">X</a></tt>-<tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> (10; 0% instances), <tt><a href="gd_arcosg-pos-AUX.html">AUX</a></tt>-<tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="gd_arcosg-pos-PART.html">PART</a></tt>-<tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -23,7 +23,7 @@ The following 10 pairs of parts of speech are connected with `mark:prt`: <tt><a 
 # visual-style 4	fgColor:white
 # visual-style 4 3 mark:prt	color:blue
 1	turkey	turkey	NOUN	Xfe	_	0	root	_	_
-2	burger	burger	NOUN	Xfe	_	1	flat	_	_
+2	burger	burger	NOUN	Xfe	_	1	flat	_	FlatType=Borrow
 3	an	an	PART	Qq	PartType=Vb|PronType=Int	4	mark:prt	_	_
 4	robh	bi	VERB	V-s--d	Mood=Ind|Tense=Past|VerbForm=Fin	1	parataxis	_	_
 5	e	e	PRON	Pp3sm	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
@@ -39,10 +39,10 @@ The following 10 pairs of parts of speech are connected with `mark:prt`: <tt><a 
 # visual-style 13	bgColor:blue
 # visual-style 13	fgColor:white
 # visual-style 13 12 mark:prt	color:blue
-1	‘s	's	CCONJ	Cc	_	3	cc	_	_
+1	‘s	is	CCONJ	Cc	_	3	cc	_	_
 2	an	an	PART	Qq	PartType=Vb|PronType=Int	3	mark:prt	_	_
 3	robh	bi	VERB	V-s--d	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
-4	a	a	DET	Dq	PronType=Art	6	det	_	_
+4	a	a	DET	Dq	ExtPos=DET|PronType=Art	6	det	_	_
 5	h-uile	uile	DET	Dq	PronType=Art	4	fixed	_	_
 6	duine	duine	NOUN	Ncsmn	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
 7	eile	eile	ADJ	Aq-smn	Case=Nom|Gender=Masc|Number=Sing	6	amod	_	_
@@ -64,14 +64,14 @@ The following 10 pairs of parts of speech are connected with `mark:prt`: <tt><a 
 # visual-style 9	fgColor:white
 # visual-style 9 8 mark:prt	color:blue
 1	thuirt	abair	VERB	V-s	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
-2	[Name]	[Name]	PROPN	Nn-mn	Case=Nom|Gender=Masc	1	nsubj	_	Anonymised=Yes
+2	[Name]	[Name]	PROPN	Nn-mn	Case=Nom|Gender=Masc|NounType=Prs	1	nsubj	_	Anonymised=Yes
 3	gun	gu	PART	Qa	PartType=Cmpl	4	mark:prt	_	_
 4	robh	bi	VERB	V-s--d	Mood=Ind|Tense=Past|VerbForm=Fin	1	ccomp	_	_
 5	e	e	PRON	Pp3sm	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
 6	ag	ag	PART	Sa	_	7	case	_	_
 7	obair	obraich	NOUN	Nv	VerbForm=Vnoun	4	xcomp:pred	_	_
 8	gu	gu	PART	Ua	PartType=Ad	9	mark:prt	_	_
-9	anmoch	anmoch	ADV	Rt	_	7	advmod	_	_
+9	anmoch	anmoch	ADV	Rt	AdvType=Tim	7	advmod	_	_
 10	so	so	CCONJ	Xfe	Foreign=Yes	11	cc	_	_
 11	[?]	[?]	X	Xx	_	1	conj	_	_
 

@@ -26,7 +26,7 @@ The following 32 pairs of parts of speech are connected with `conj`: <tt><a href
 2	,	,	PUNCT	,	_	3	punct	_	_
 3	panutan	panutan	NOUN	NN	Number=Sing	1	conj	_	_
 4	dan	dan	CCONJ	CC	_	5	cc	_	_
-5	merokok	rokok	VERB	VB	Mood=Ind|Voice=Act	1	conj	_	_
+5	merokok	rokok	VERB	VB	Voice=Act	1	conj	_	_
 
 ~~~
 
@@ -39,9 +39,9 @@ The following 32 pairs of parts of speech are connected with `conj`: <tt><a href
 # visual-style 3 5 conj	color:blue
 1	Ini	ini	PRON	PRP	PronType=Dem	3	nsubj	_	_
 2	sangat	sangat	ADV	RB	_	3	advmod	_	_
-3	meyakinkan	yakin	VERB	VB	Mood=Ind|Voice=Act	0	root	_	_
+3	meyakinkan	yakin	VERB	VB	Voice=Act	0	root	_	_
 4	dan	dan	CCONJ	CC	_	5	cc	_	_
-5	memberi	beri	VERB	VB	Mood=Ind|Voice=Act	3	conj	_	_
+5	memberi	beri	VERB	VB	Voice=Act	3	conj	_	_
 6	suasana	suasana	NOUN	NN	Number=Sing	5	obj	_	_
 7	kondusif	kondusif	ADJ	JJ	_	6	amod	_	SpaceAfter=No
 8	.	.	PUNCT	.	_	3	punct	_	_

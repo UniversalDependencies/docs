@@ -36,7 +36,7 @@ The most frequent other feature values with which `NOUN` and `Abbr` co-occurred:
 `NOUN` tokens may have the following values of `Abbr`:
 
 * `Yes` (55; 100% of non-empty `Abbr`): מע"מ, מנכ"ל, רמטכ"ל, דו"ח, חו"ל, חל"ת, יו"ר, בג"ץ, בג"צים, ממ"ז
-* `EMPTY` (12938): ראש, ממשלה, חוק, דבר, יושב, חברי, שר, מדינה, חבר, נושא
+* `EMPTY` (12937): ראש, ממשלה, חוק, דבר, יושב, חברי, שר, מדינה, חבר, נושא
 
 `Abbr` seems to be **lexical feature** of `NOUN`. 100% lemmas (20) occur only with one value of `Abbr`.
 

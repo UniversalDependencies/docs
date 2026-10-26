@@ -28,6 +28,7 @@ such use of syntactic content of morphological analysis, and hence this automati
 * <a href="bg-conll-uposf.html">bg::conll</a> (Bulgarian)
 * <a href="bn-conll-uposf.html">bn::conll</a> (Bengali)
 * <a href="ca-conll2009-uposf.html">ca::conll2009</a> (Catalan)
+* <a href="cs-pdtc-uposf.html">cs::pdtc</a> (Czech)
 * <a href="cs-pdt-uposf.html">cs::pdt</a> (Czech)
 * <a href="cs-conll-uposf.html">cs::conll</a> (Czech)
 * <a href="cs-ajka-uposf.html">cs::ajka</a> (Czech)

@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>в</em> (<tt><a href="orv_rnc-pos-ADP
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 2.946237 (the average of all parts of speech is 2.481645).
+The form / lemma ratio of `ADP` is 2.946237 (the average of all parts of speech is 2.481722).
 
 The 1st highest number of forms (21) was observed with the lemma “изъ”: <em>(Изъ, Iзъ, [и]з, iс, Ісъ, и(с), и[зъ], и[с], из, из-, изо, изс, изъ, изь, изⸯ, ис, исъ, із, ізъ, ізь, іс</em>.
 
@@ -66,7 +66,7 @@ The 3rd highest number of forms (15) was observed with the lemma “въ”: <em
 
 `ADP` nodes are attached to their parents using 10 different relations: <tt><a href="orv_rnc-dep-case.html">case</a></tt> (19359; 100% instances), <tt><a href="orv_rnc-dep-mark.html">mark</a></tt> (13; 0% instances), <tt><a href="orv_rnc-dep-dep.html">dep</a></tt> (5; 0% instances), <tt><a href="orv_rnc-dep-obl.html">obl</a></tt> (3; 0% instances), <tt><a href="orv_rnc-dep-orphan.html">orphan</a></tt> (3; 0% instances), <tt><a href="orv_rnc-dep-conj.html">conj</a></tt> (2; 0% instances), <tt><a href="orv_rnc-dep-fixed.html">fixed</a></tt> (2; 0% instances), <tt><a href="orv_rnc-dep-root.html">root</a></tt> (2; 0% instances), <tt><a href="orv_rnc-dep-amod.html">amod</a></tt> (1; 0% instances), <tt><a href="orv_rnc-dep-cc.html">cc</a></tt> (1; 0% instances)
 
-Parents of `ADP` nodes belong to 12 different parts of speech: <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (13209; 68% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (2767; 14% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (2491; 13% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (491; 3% instances), <tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (223; 1% instances), <tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> (115; 1% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (64; 0% instances), <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> (19; 0% instances), <tt><a href="orv_rnc-pos-PART.html">PART</a></tt> (4; 0% instances), <tt><a href="orv_rnc-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="orv_rnc-pos-X.html">X</a></tt> (3; 0% instances),  (2; 0% instances)
+Parents of `ADP` nodes belong to 12 different parts of speech: <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (13208; 68% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (2767; 14% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (2491; 13% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (492; 3% instances), <tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (223; 1% instances), <tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> (115; 1% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (64; 0% instances), <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> (19; 0% instances), <tt><a href="orv_rnc-pos-PART.html">PART</a></tt> (4; 0% instances), <tt><a href="orv_rnc-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="orv_rnc-pos-X.html">X</a></tt> (3; 0% instances),  (2; 0% instances)
 
 19352 (100%) `ADP` nodes are leaves.
 

@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Javanese-CSUI: POS Tags: `SYM`
 
-There are 1 `SYM` lemmas (6%), 2 `SYM` types (0%) and 12 `SYM` tokens (0%).
-Out of 17 observed tags, the rank of `SYM` is: 15 in number of lemmas, 17 in number of types and 17 in number of tokens.
+There are 2 `SYM` lemmas (0%), 2 `SYM` types (0%) and 12 `SYM` tokens (0%).
+Out of 17 observed tags, the rank of `SYM` is: 17 in number of lemmas, 17 in number of types and 17 in number of tokens.
 
-The 10 most frequent `SYM` lemmas: <em>_</em>
+The 10 most frequent `SYM` lemmas: <em>%, $</em>
 
 The 10 most frequent `SYM` types:  <em>%, $</em>
 
-The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="jv_csui-pos-NOUN.html">NOUN</a></tt> 2867, <tt><a href="jv_csui-pos-PUNCT.html">PUNCT</a></tt> 2233, <tt><a href="jv_csui-pos-VERB.html">VERB</a></tt> 1952, <tt><a href="jv_csui-pos-PROPN.html">PROPN</a></tt> 1565, <tt><a href="jv_csui-pos-PRON.html">PRON</a></tt> 961, <tt><a href="jv_csui-pos-ADV.html">ADV</a></tt> 798, <tt><a href="jv_csui-pos-ADP.html">ADP</a></tt> 748, <tt><a href="jv_csui-pos-ADJ.html">ADJ</a></tt> 736, <tt><a href="jv_csui-pos-DET.html">DET</a></tt> 700, <tt><a href="jv_csui-pos-NUM.html">NUM</a></tt> 362, <tt><a href="jv_csui-pos-AUX.html">AUX</a></tt> 340, <tt><a href="jv_csui-pos-SCONJ.html">SCONJ</a></tt> 314, <tt><a href="jv_csui-pos-CCONJ.html">CCONJ</a></tt> 306, <tt><a href="jv_csui-pos-PART.html">PART</a></tt> 234, <tt><a href="jv_csui-pos-X.html">X</a></tt> 183, <tt><a href="jv_csui-pos-INTJ.html">INTJ</a></tt> 32, <tt><a href="jv_csui-pos-SYM.html">SYM</a></tt> 12)
+The 10 most frequent ambiguous lemmas: 
 
 The 10 most frequent ambiguous types:  
 
@@ -21,9 +21,11 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `SYM` is 2.000000 (the average of all parts of speech is 238.352941).
+The form / lemma ratio of `SYM` is 1.000000 (the average of all parts of speech is 1.145928).
 
-The 1st highest number of forms (2) was observed with the lemma “_”: <em>$, %</em>.
+The 1st highest number of forms (1) was observed with the lemma “$”: <em>$</em>.
+
+The 2nd highest number of forms (1) was observed with the lemma “%”: <em>%</em>.
 
 `SYM` does not occur with any features.
 

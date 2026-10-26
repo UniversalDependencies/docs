@@ -64,7 +64,13 @@ The 2nd highest number of forms (1) was observed with the lemma “jei”: <em>j
 
 The 3rd highest number of forms (1) was observed with the lemma “jeigu”: <em>jeigu</em>.
 
-`SCONJ` does not occur with any features.
+`SCONJ` occurs with 1 features: <tt><a href="lt_hse-feat-ExtPos.html">ExtPos</a></tt> (2; 1% instances)
+
+`SCONJ` occurs with 1 feature-value pairs: `ExtPos=ADV`
+
+`SCONJ` occurs with 2 feature combinations.
+The most frequent feature combination is `_` (144 tokens).
+Examples: <em>kad, kaip, jei, nors, nes, jeigu, negu, jog, tai, nebent</em>
 
 
 ## Relations

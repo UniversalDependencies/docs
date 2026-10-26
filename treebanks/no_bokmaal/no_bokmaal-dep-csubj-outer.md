@@ -7,6 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Norwegian-Bokmaal: Relations: `csubj:outer`
 
 This relation is a language-specific subtype of <tt><a href="no_bokmaal-dep-csubj.html">csubj</a></tt>.
+There are also 1 other language-specific subtypes of `csubj`: <tt><a href="no_bokmaal-dep-csubj-pass.html">csubj:pass</a></tt>.
 
 2 nodes (0%) are attached to their parents as `csubj:outer`.
 
@@ -29,7 +30,7 @@ The following 1 pairs of parts of speech are connected with `csubj:outer`: <tt><
 5	med	med	ADP	prep	_	7	case	_	_
 6	å	å	PART	inf-merke	_	7	mark	_	_
 7	gjøre	gjøre	VERB	verb	VerbForm=Inf	0	root	_	_
-8	den	den	DET	det	Gender=Masc|Number=Sing|PronType=Dem	10	det	_	_
+8	den	den	DET	det	Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
 9	klassiske	klassisk	ADJ	adj	Definite=Def|Degree=Pos|Number=Sing	10	amod	_	_
 10	konkurransedansen	konkurransedans	NOUN	subst	Definite=Def|Gender=Masc|Number=Sing	7	nsubj	_	_
 11	til	til	ADP	prep	_	13	case	_	_

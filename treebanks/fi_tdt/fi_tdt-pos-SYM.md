@@ -45,7 +45,7 @@ The 10 most frequent ambiguous types:  <em>:)</em> (<tt><a href="fi_tdt-pos-SYM.
 
 ## Morphology
 
-The form / lemma ratio of `SYM` is 1.010050 (the average of all parts of speech is 2.067974).
+The form / lemma ratio of `SYM` is 1.010050 (the average of all parts of speech is 2.067894).
 
 The 1st highest number of forms (2) was observed with the lemma “SRT#8”: <em>SRT-8, SRT-8:ssa</em>.
 
@@ -66,7 +66,7 @@ Examples: <em>:), %, &, +, :D, ;), 3.Rf3, =, >, 2.f4</em>
 
 `SYM` nodes are attached to their parents using 22 different relations: <tt><a href="fi_tdt-dep-discourse.html">discourse</a></tt> (136; 28% instances), <tt><a href="fi_tdt-dep-flat-name.html">flat:name</a></tt> (94; 20% instances), <tt><a href="fi_tdt-dep-nmod.html">nmod</a></tt> (51; 11% instances), <tt><a href="fi_tdt-dep-obj.html">obj</a></tt> (30; 6% instances), <tt><a href="fi_tdt-dep-cc.html">cc</a></tt> (29; 6% instances), <tt><a href="fi_tdt-dep-appos.html">appos</a></tt> (28; 6% instances), <tt><a href="fi_tdt-dep-nsubj.html">nsubj</a></tt> (20; 4% instances), <tt><a href="fi_tdt-dep-obl.html">obl</a></tt> (17; 4% instances), <tt><a href="fi_tdt-dep-conj.html">conj</a></tt> (16; 3% instances), <tt><a href="fi_tdt-dep-root.html">root</a></tt> (11; 2% instances), <tt><a href="fi_tdt-dep-compound-nn.html">compound:nn</a></tt> (10; 2% instances), <tt><a href="fi_tdt-dep-nsubj-cop.html">nsubj:cop</a></tt> (8; 2% instances), <tt><a href="fi_tdt-dep-advcl.html">advcl</a></tt> (6; 1% instances), <tt><a href="fi_tdt-dep-compound.html">compound</a></tt> (6; 1% instances), <tt><a href="fi_tdt-dep-dep.html">dep</a></tt> (4; 1% instances), <tt><a href="fi_tdt-dep-amod.html">amod</a></tt> (3; 1% instances), <tt><a href="fi_tdt-dep-parataxis.html">parataxis</a></tt> (3; 1% instances), <tt><a href="fi_tdt-dep-acl-relcl.html">acl:relcl</a></tt> (2; 0% instances), <tt><a href="fi_tdt-dep-advmod.html">advmod</a></tt> (1; 0% instances), <tt><a href="fi_tdt-dep-case.html">case</a></tt> (1; 0% instances), <tt><a href="fi_tdt-dep-orphan.html">orphan</a></tt> (1; 0% instances), <tt><a href="fi_tdt-dep-vocative.html">vocative</a></tt> (1; 0% instances)
 
-Parents of `SYM` nodes belong to 10 different parts of speech: <tt><a href="fi_tdt-pos-NOUN.html">NOUN</a></tt> (157; 33% instances), <tt><a href="fi_tdt-pos-VERB.html">VERB</a></tt> (150; 31% instances), <tt><a href="fi_tdt-pos-SYM.html">SYM</a></tt> (82; 17% instances), <tt><a href="fi_tdt-pos-ADJ.html">ADJ</a></tt> (33; 7% instances), <tt><a href="fi_tdt-pos-PROPN.html">PROPN</a></tt> (26; 5% instances),  (11; 2% instances), <tt><a href="fi_tdt-pos-NUM.html">NUM</a></tt> (7; 1% instances), <tt><a href="fi_tdt-pos-ADV.html">ADV</a></tt> (5; 1% instances), <tt><a href="fi_tdt-pos-PRON.html">PRON</a></tt> (4; 1% instances), <tt><a href="fi_tdt-pos-X.html">X</a></tt> (3; 1% instances)
+Parents of `SYM` nodes belong to 10 different parts of speech: <tt><a href="fi_tdt-pos-NOUN.html">NOUN</a></tt> (158; 33% instances), <tt><a href="fi_tdt-pos-VERB.html">VERB</a></tt> (150; 31% instances), <tt><a href="fi_tdt-pos-SYM.html">SYM</a></tt> (82; 17% instances), <tt><a href="fi_tdt-pos-ADJ.html">ADJ</a></tt> (33; 7% instances), <tt><a href="fi_tdt-pos-PROPN.html">PROPN</a></tt> (26; 5% instances),  (11; 2% instances), <tt><a href="fi_tdt-pos-NUM.html">NUM</a></tt> (7; 1% instances), <tt><a href="fi_tdt-pos-ADV.html">ADV</a></tt> (5; 1% instances), <tt><a href="fi_tdt-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="fi_tdt-pos-X.html">X</a></tt> (3; 1% instances)
 
 312 (65%) `SYM` nodes are leaves.
 

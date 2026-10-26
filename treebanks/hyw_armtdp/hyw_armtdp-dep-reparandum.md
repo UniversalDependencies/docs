@@ -73,7 +73,7 @@ The following 2 pairs of parts of speech are connected with `reparandum`: <tt><a
 23	թափօրներու	թափօր	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Plur	25	obl	_	Translit=t’ap’òrnerow|LTranslit=t’ap’òr
 24	մէջ	մէջ	ADP	_	AdpType=Post	23	case	_	Translit=mēǰ|LTranslit=mēǰ
 25	ունեցած	ունենալ	VERB	_	Aspect=Perf|Polarity=Pos|Subcat=Tran|VerbForm=Part|Voice=Act	27	acl	_	Translit=ownec’aç|LTranslit=ownenal
-26	իր	ինք	DET	_	Case=Gen|Number=Sing|Person=3|Poss=Yes|PronType=Emp|Reflex=Yes	27	det:poss	_	Translit=ir|LTranslit=ink’
+26	իր	իր	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Emp|Reflex=Yes	27	det:poss	_	Translit=ir|LTranslit=ir
 27	վարժութեան	վարժութիւն	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	12	obl	_	Translit=varžowt’ean|LTranslit=varžowt’iwn|SpaceAfter=No
 28	.	.	PUNCT	_	_	3	punct	_	Translit=.|LTranslit=.
 

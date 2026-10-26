@@ -1,0 +1,25 @@
+---
+layout: feature
+title: 'Number[psor]'
+shortdef: 'possessor’s number'
+udver: '2'
+---
+
+`Number[psor]` feature captures the possessor's number.(morfologik xususiyati narsa-predmet egasining birlik yoki ko‘plikda ekanligini  ko‘rsatadi). 
+
+### <a name="Sing">`Sing`</a>: singular possessor
+
+#### Examples
+
+* Kitobing “your-SG books” Number[psor]=Sing|Number=Sing
+* Kitoblaring “my books” Number[psor]=Sing|Number=Plur
+
+
+### <a name="Plur">`Plur`</a>: plural possessor
+
+#### Examples
+
+* Kitoblaringiz  “your-PL books” Number[psor]=Plur|Number=Plur
+* Kitobimiz “our book” Number[psor]=Plur|Number=Sing
+
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:06 CEST -->

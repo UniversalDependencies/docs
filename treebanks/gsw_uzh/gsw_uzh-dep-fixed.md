@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of fixed in UD_Swiss_German-UZH'
+title:  'Statistics of fixed in UD_Alemannic-UZH'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Swiss_German-UZH: Relations: `fixed`
+## Treebank Statistics: UD_Alemannic-UZH: Relations: `fixed`
 
 This relation is universal.
 

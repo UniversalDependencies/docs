@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of PART in UD_Swiss_German-UZH'
+title:  'Statistics of PART in UD_Alemannic-UZH'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Swiss_German-UZH: POS Tags: `PART`
+## Treebank Statistics: UD_Alemannic-UZH: POS Tags: `PART`
 
 There are 1 `PART` lemmas (7%), 12 `PART` types (2%) and 34 `PART` tokens (2%).
 Out of 15 observed tags, the rank of `PART` is: 9 in number of lemmas, 12 in number of types and 12 in number of tokens.

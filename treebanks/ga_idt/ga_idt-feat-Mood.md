@@ -19,7 +19,7 @@ The feature is used with 3 part-of-speech tags: <tt><a href="ga_idt-pos-VERB.htm
 
 8650 <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> tokens (99% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="ga_idt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (6756; 78%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="ga_idt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (6755; 78%).
 
 `VERB` tokens may have the following values of `Mood`:
 
@@ -143,7 +143,7 @@ The most frequent other feature values with which `PART` and `Mood` co-occurred:
 
 * `Imp` (17; 71% of non-empty `Mood`): <em>ná</em>
 * `Sub` (7; 29% of non-empty `Mood`): <em>go, Nár</em>
-* `EMPTY` (6952): <em>a, go, ní, d', nach, níos, is, ó, gur, ina</em>
+* `EMPTY` (6954): <em>a, go, ní, d', nach, níos, is, ó, gur, ina</em>
 
 ## Relations with Agreement in `Mood`
 
@@ -152,7 +152,7 @@ The 10 most frequent relations where parent and child node agree in `Mood`:
 <tt>VERB --[<tt><a href="ga_idt-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (603; 88%),
 <tt>VERB --[<tt><a href="ga_idt-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (392; 81%),
 <tt>VERB --[<tt><a href="ga_idt-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (161; 79%),
-<tt>VERB --[<tt><a href="ga_idt-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (16; 89%),
+<tt>VERB --[<tt><a href="ga_idt-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (15; 88%),
 <tt>VERB --[<tt><a href="ga_idt-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (10; 63%),
 <tt>VERB --[<tt><a href="ga_idt-dep-csubj-cop.html">csubj:cop</a></tt>]--> VERB</tt> (3; 100%),
 <tt>VERB --[<tt><a href="ga_idt-dep-dislocated.html">dislocated</a></tt>]--> VERB</tt> (3; 100%),

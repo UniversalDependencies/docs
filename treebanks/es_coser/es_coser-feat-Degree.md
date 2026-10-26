@@ -37,7 +37,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 * `Cmp` (2; 25% of non-empty `Degree`): <em>mayor</em>
 * `Dim` (4; 50% of non-empty `Degree`): <em>espesito, chiquitinas, traviesillos</em>
 * `Sup` (1; 13% of non-empty `Degree`): <em>máximo</em>
-* `EMPTY` (165): <em>grande, buen, buena, bueno, natural, criollo, diferente, joven, mismo, Enrazao</em>
+* `EMPTY` (168): <em>grande, buen, buena, bueno, natural, criollo, diferente, joven, mismo, Enrazao</em>
 
 ### `NOUN`
 
@@ -48,7 +48,7 @@ The most frequent other feature values with which `NOUN` and `Degree` co-occurre
 `NOUN` tokens may have the following values of `Degree`:
 
 * `Dim` (7; 100% of non-empty `Degree`): <em>cabritas, mesillas, pastillica, patitas, pueblecito, ratito, tajaditas</em>
-* `EMPTY` (920): <em>gente, años, casa, cosas, días, día, vez, cosa, pueblo, hijos</em>
+* `EMPTY` (919): <em>gente, años, casa, cosas, días, día, vez, cosa, pueblo, hijos</em>
 
 ### `DET`
 

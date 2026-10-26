@@ -6,18 +6,21 @@ udver: '2'
 
 ## Treebank Statistics: UD_Catalan-AnCora: POS Tags: `INTJ`
 
-There are 12 `INTJ` lemmas (0%), 12 `INTJ` types (0%) and 15 `INTJ` tokens (0%).
-Out of 16 observed tags, the rank of `INTJ` is: 12 in number of lemmas, 13 in number of types and 16 in number of tokens.
+There are 13 `INTJ` lemmas (0%), 13 `INTJ` types (0%) and 22 `INTJ` tokens (0%).
+Out of 15 observed tags, the rank of `INTJ` is: 12 in number of lemmas, 13 in number of types and 15 in number of tokens.
 
-The 10 most frequent `INTJ` lemmas: <em>vaja, he, compte, déu, ep, hola, home, marbella, mira, oh</em>
+The 10 most frequent `INTJ` lemmas: <em>no, vaja, he, compte, déu, ep, hola, home, marbella, mira</em>
 
-The 10 most frequent `INTJ` types:  <em>vaja, he, Compte, Déu, Hola, Home, Marbella, Mira, Oh, Valga</em>
+The 10 most frequent `INTJ` types:  <em>no, vaja, he, Compte, Déu, Hola, Home, Marbella, Mira, Oh</em>
 
-The 10 most frequent ambiguous lemmas: <em>compte</em> (<tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> 94, <tt><a href="ca_ancora-pos-PROPN.html">PROPN</a></tt> 10, <tt><a href="ca_ancora-pos-INTJ.html">INTJ</a></tt> 1), <em>déu</em> (<tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="ca_ancora-pos-INTJ.html">INTJ</a></tt> 1), <em>home</em> (<tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> 121, <tt><a href="ca_ancora-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="ca_ancora-pos-INTJ.html">INTJ</a></tt> 1), <em>mira</em> (<tt><a href="ca_ancora-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>no</em> (<tt><a href="ca_ancora-pos-ADV.html">ADV</a></tt> 2947, <tt><a href="ca_ancora-pos-INTJ.html">INTJ</a></tt> 7), <em>compte</em> (<tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> 94, <tt><a href="ca_ancora-pos-PROPN.html">PROPN</a></tt> 10, <tt><a href="ca_ancora-pos-INTJ.html">INTJ</a></tt> 1), <em>déu</em> (<tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="ca_ancora-pos-INTJ.html">INTJ</a></tt> 1), <em>home</em> (<tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> 121, <tt><a href="ca_ancora-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="ca_ancora-pos-INTJ.html">INTJ</a></tt> 1), <em>mira</em> (<tt><a href="ca_ancora-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>he</em> (<tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> 62, <tt><a href="ca_ancora-pos-INTJ.html">INTJ</a></tt> 1), <em>Compte</em> (<tt><a href="ca_ancora-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="ca_ancora-pos-INTJ.html">INTJ</a></tt> 1), <em>Déu</em> (<tt><a href="ca_ancora-pos-PROPN.html">PROPN</a></tt> 23, <tt><a href="ca_ancora-pos-INTJ.html">INTJ</a></tt> 1), <em>Home</em> (<tt><a href="ca_ancora-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="ca_ancora-pos-PROPN.html">PROPN</a></tt> 1), <em>Marbella</em> (<tt><a href="ca_ancora-pos-PROPN.html">PROPN</a></tt> 6, <tt><a href="ca_ancora-pos-INTJ.html">INTJ</a></tt> 1), <em>Mira</em> (<tt><a href="ca_ancora-pos-PROPN.html">PROPN</a></tt> 3, <tt><a href="ca_ancora-pos-INTJ.html">INTJ</a></tt> 1), <em>sóc</em> (<tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> 13, <tt><a href="ca_ancora-pos-INTJ.html">INTJ</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>no</em> (<tt><a href="ca_ancora-pos-ADV.html">ADV</a></tt> 2708, <tt><a href="ca_ancora-pos-INTJ.html">INTJ</a></tt> 7), <em>he</em> (<tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> 62, <tt><a href="ca_ancora-pos-INTJ.html">INTJ</a></tt> 1), <em>Compte</em> (<tt><a href="ca_ancora-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="ca_ancora-pos-INTJ.html">INTJ</a></tt> 1), <em>Déu</em> (<tt><a href="ca_ancora-pos-PROPN.html">PROPN</a></tt> 23, <tt><a href="ca_ancora-pos-INTJ.html">INTJ</a></tt> 1), <em>Home</em> (<tt><a href="ca_ancora-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="ca_ancora-pos-PROPN.html">PROPN</a></tt> 1), <em>Marbella</em> (<tt><a href="ca_ancora-pos-PROPN.html">PROPN</a></tt> 6, <tt><a href="ca_ancora-pos-INTJ.html">INTJ</a></tt> 1), <em>Mira</em> (<tt><a href="ca_ancora-pos-PROPN.html">PROPN</a></tt> 3, <tt><a href="ca_ancora-pos-INTJ.html">INTJ</a></tt> 1), <em>sóc</em> (<tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> 13, <tt><a href="ca_ancora-pos-INTJ.html">INTJ</a></tt> 1)
 
 
+* <em>no</em>
+  * <tt><a href="ca_ancora-pos-ADV.html">ADV</a></tt> 2708: <em>D' aquestes activitats , algunes <b>no</b> s' han obert a el públic .</em>
+  * <tt><a href="ca_ancora-pos-INTJ.html">INTJ</a></tt> 7: <em>- Jo en principi no dic ni sí ni <b>no</b> .</em>
 * <em>he</em>
   * <tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> 62: <em>En aquests mesos <b>he</b> pogut conèixer molts membres de l' organització .</em>
   * <tt><a href="ca_ancora-pos-INTJ.html">INTJ</a></tt> 1: <em>- He , <b>he</b> .</em>
@@ -42,7 +45,7 @@ The 10 most frequent ambiguous types:  <em>he</em> (<tt><a href="ca_ancora-pos-A
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.416814).
+The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.418372).
 
 The 1st highest number of forms (1) was observed with the lemma “compte”: <em>Compte</em>.
 
@@ -50,26 +53,32 @@ The 2nd highest number of forms (1) was observed with the lemma “déu”: <em>
 
 The 3rd highest number of forms (1) was observed with the lemma “ep”: <em>ep</em>.
 
-`INTJ` does not occur with any features.
+`INTJ` occurs with 1 features: <tt><a href="ca_ancora-feat-Polarity.html">Polarity</a></tt> (7; 32% instances)
+
+`INTJ` occurs with 1 feature-value pairs: `Polarity=Neg`
+
+`INTJ` occurs with 2 feature combinations.
+The most frequent feature combination is `_` (15 tokens).
+Examples: <em>vaja, he, Compte, Déu, Hola, Home, Marbella, Mira, Oh, Valga</em>
 
 
 ## Relations
 
-`INTJ` nodes are attached to their parents using 3 different relations: <tt><a href="ca_ancora-dep-dep.html">dep</a></tt> (12; 80% instances), <tt><a href="ca_ancora-dep-root.html">root</a></tt> (2; 13% instances), <tt><a href="ca_ancora-dep-discourse.html">discourse</a></tt> (1; 7% instances)
+`INTJ` nodes are attached to their parents using 8 different relations: <tt><a href="ca_ancora-dep-dep.html">dep</a></tt> (12; 55% instances), <tt><a href="ca_ancora-dep-conj.html">conj</a></tt> (2; 9% instances), <tt><a href="ca_ancora-dep-obj.html">obj</a></tt> (2; 9% instances), <tt><a href="ca_ancora-dep-root.html">root</a></tt> (2; 9% instances), <tt><a href="ca_ancora-dep-ccomp.html">ccomp</a></tt> (1; 5% instances), <tt><a href="ca_ancora-dep-discourse.html">discourse</a></tt> (1; 5% instances), <tt><a href="ca_ancora-dep-nmod.html">nmod</a></tt> (1; 5% instances), <tt><a href="ca_ancora-dep-obl.html">obl</a></tt> (1; 5% instances)
 
-Parents of `INTJ` nodes belong to 6 different parts of speech: <tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt> (5; 33% instances), <tt><a href="ca_ancora-pos-INTJ.html">INTJ</a></tt> (4; 27% instances), <tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt> (2; 13% instances),  (2; 13% instances), <tt><a href="ca_ancora-pos-ADJ.html">ADJ</a></tt> (1; 7% instances), <tt><a href="ca_ancora-pos-ADV.html">ADV</a></tt> (1; 7% instances)
+Parents of `INTJ` nodes belong to 7 different parts of speech: <tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt> (9; 41% instances), <tt><a href="ca_ancora-pos-INTJ.html">INTJ</a></tt> (5; 23% instances), <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> (2; 9% instances), <tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt> (2; 9% instances),  (2; 9% instances), <tt><a href="ca_ancora-pos-ADJ.html">ADJ</a></tt> (1; 5% instances), <tt><a href="ca_ancora-pos-ADV.html">ADV</a></tt> (1; 5% instances)
 
-4 (27%) `INTJ` nodes are leaves.
+4 (18%) `INTJ` nodes are leaves.
 
-7 (47%) `INTJ` nodes have one child.
+9 (41%) `INTJ` nodes have one child.
 
-1 (7%) `INTJ` nodes have two children.
+5 (23%) `INTJ` nodes have two children.
 
-3 (20%) `INTJ` nodes have three or more children.
+4 (18%) `INTJ` nodes have three or more children.
 
 The highest child degree of a `INTJ` node is 6.
 
-Children of `INTJ` nodes are attached using 2 different relations: <tt><a href="ca_ancora-dep-punct.html">punct</a></tt> (15; 68% instances), <tt><a href="ca_ancora-dep-dep.html">dep</a></tt> (7; 32% instances)
+Children of `INTJ` nodes are attached using 9 different relations: <tt><a href="ca_ancora-dep-punct.html">punct</a></tt> (17; 45% instances), <tt><a href="ca_ancora-dep-dep.html">dep</a></tt> (7; 18% instances), <tt><a href="ca_ancora-dep-det.html">det</a></tt> (4; 11% instances), <tt><a href="ca_ancora-dep-amod.html">amod</a></tt> (2; 5% instances), <tt><a href="ca_ancora-dep-case.html">case</a></tt> (2; 5% instances), <tt><a href="ca_ancora-dep-cc.html">cc</a></tt> (2; 5% instances), <tt><a href="ca_ancora-dep-mark.html">mark</a></tt> (2; 5% instances), <tt><a href="ca_ancora-dep-conj.html">conj</a></tt> (1; 3% instances), <tt><a href="ca_ancora-dep-obj.html">obj</a></tt> (1; 3% instances)
 
-Children of `INTJ` nodes belong to 5 different parts of speech: <tt><a href="ca_ancora-pos-PUNCT.html">PUNCT</a></tt> (15; 68% instances), <tt><a href="ca_ancora-pos-INTJ.html">INTJ</a></tt> (4; 18% instances), <tt><a href="ca_ancora-pos-ADP.html">ADP</a></tt> (1; 5% instances), <tt><a href="ca_ancora-pos-PART.html">PART</a></tt> (1; 5% instances), <tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt> (1; 5% instances)
+Children of `INTJ` nodes belong to 10 different parts of speech: <tt><a href="ca_ancora-pos-PUNCT.html">PUNCT</a></tt> (17; 45% instances), <tt><a href="ca_ancora-pos-INTJ.html">INTJ</a></tt> (5; 13% instances), <tt><a href="ca_ancora-pos-DET.html">DET</a></tt> (4; 11% instances), <tt><a href="ca_ancora-pos-ADJ.html">ADJ</a></tt> (2; 5% instances), <tt><a href="ca_ancora-pos-ADP.html">ADP</a></tt> (2; 5% instances), <tt><a href="ca_ancora-pos-CCONJ.html">CCONJ</a></tt> (2; 5% instances), <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> (2; 5% instances), <tt><a href="ca_ancora-pos-SCONJ.html">SCONJ</a></tt> (2; 5% instances), <tt><a href="ca_ancora-pos-ADV.html">ADV</a></tt> (1; 3% instances), <tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt> (1; 3% instances)
 

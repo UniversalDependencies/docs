@@ -8,31 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1746 nodes (4%) are attached to their parents as `cc`.
+1942 nodes (4%) are attached to their parents as `cc`.
 
-1731 instances of `cc` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.89461626575029.
+1924 instances of `cc` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.88980432543769.
 
-The following 24 pairs of parts of speech are connected with `cc`: <tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_bsut-pos-CCONJ.html">CCONJ</a></tt> (664; 38% instances), <tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_bsut-pos-CCONJ.html">CCONJ</a></tt> (644; 37% instances), <tt><a href="hy_bsut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hy_bsut-pos-CCONJ.html">CCONJ</a></tt> (186; 11% instances), <tt><a href="hy_bsut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hy_bsut-pos-CCONJ.html">CCONJ</a></tt> (90; 5% instances), <tt><a href="hy_bsut-pos-PRON.html">PRON</a></tt>-<tt><a href="hy_bsut-pos-CCONJ.html">CCONJ</a></tt> (39; 2% instances), <tt><a href="hy_bsut-pos-ADV.html">ADV</a></tt>-<tt><a href="hy_bsut-pos-CCONJ.html">CCONJ</a></tt> (37; 2% instances), <tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_bsut-pos-PART.html">PART</a></tt> (30; 2% instances), <tt><a href="hy_bsut-pos-DET.html">DET</a></tt>-<tt><a href="hy_bsut-pos-CCONJ.html">CCONJ</a></tt> (10; 1% instances), <tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_bsut-pos-PART.html">PART</a></tt> (9; 1% instances), <tt><a href="hy_bsut-pos-PART.html">PART</a></tt>-<tt><a href="hy_bsut-pos-CCONJ.html">CCONJ</a></tt> (6; 0% instances), <tt><a href="hy_bsut-pos-PRON.html">PRON</a></tt>-<tt><a href="hy_bsut-pos-PART.html">PART</a></tt> (6; 0% instances), <tt><a href="hy_bsut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hy_bsut-pos-PART.html">PART</a></tt> (4; 0% instances), <tt><a href="hy_bsut-pos-INTJ.html">INTJ</a></tt>-<tt><a href="hy_bsut-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances), <tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_bsut-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="hy_bsut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hy_bsut-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="hy_bsut-pos-ADP.html">ADP</a></tt>-<tt><a href="hy_bsut-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="hy_bsut-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="hy_bsut-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_bsut-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="hy_bsut-pos-X.html">X</a></tt>-<tt><a href="hy_bsut-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="hy_bsut-pos-ADV.html">ADV</a></tt>-<tt><a href="hy_bsut-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_bsut-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="hy_bsut-pos-PRON.html">PRON</a></tt>-<tt><a href="hy_bsut-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="hy_bsut-pos-SYM.html">SYM</a></tt>-<tt><a href="hy_bsut-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_bsut-pos-ADP.html">ADP</a></tt> (1; 0% instances).
-
-
-~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 2 cc	color:blue
-1	Կոմիքս	կոմիքս	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	0	root	_	Translit=Komik’s|LTranslit=komik’s
-2	կամ	կամ	CCONJ	_	_	3	cc	_	Translit=kam|LTranslit=kam
-3	ծաղրաշար	ծաղրաշար	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	1	conj	_	Translit=çaġrašar|LTranslit=çaġrašar|SpaceAfter=No
-4	,	,	PUNCT	_	_	8	punct	_	Translit=,|LTranslit=,
-5	պատկերների	պատկեր	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Plur	7	obl	_	Translit=patkerneri|LTranslit=patker
-6	միջոցով	միջոցով	ADP	_	AdpType=Post	5	case:loc	_	Translit=miǰoc’ov|LTranslit=miǰoc’ov
-7	ստեղծվող	ստեղծել	VERB	_	Aspect=Dur|Polarity=Pos|Subcat=Intr|VerbForm=Part|Voice=Pass	8	acl	_	Translit=steġçvoġ|LTranslit=steġçel
-8	պատմություն	պատմություն	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	1	appos	_	Translit=patmowt’yown|LTranslit=patmowt’yown|SpaceAfter=No
-9	։	։	PUNCT	_	_	1	punct	_	Translit=.|LTranslit=.
-
-~~~
+The following 28 pairs of parts of speech are connected with `cc`: <tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_bsut-pos-CCONJ.html">CCONJ</a></tt> (721; 37% instances), <tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_bsut-pos-CCONJ.html">CCONJ</a></tt> (693; 36% instances), <tt><a href="hy_bsut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hy_bsut-pos-CCONJ.html">CCONJ</a></tt> (204; 11% instances), <tt><a href="hy_bsut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hy_bsut-pos-CCONJ.html">CCONJ</a></tt> (89; 5% instances), <tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_bsut-pos-PART.html">PART</a></tt> (44; 2% instances), <tt><a href="hy_bsut-pos-ADV.html">ADV</a></tt>-<tt><a href="hy_bsut-pos-CCONJ.html">CCONJ</a></tt> (40; 2% instances), <tt><a href="hy_bsut-pos-PRON.html">PRON</a></tt>-<tt><a href="hy_bsut-pos-CCONJ.html">CCONJ</a></tt> (40; 2% instances), <tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_bsut-pos-ADV.html">ADV</a></tt> (25; 1% instances), <tt><a href="hy_bsut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hy_bsut-pos-PART.html">PART</a></tt> (12; 1% instances), <tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_bsut-pos-PART.html">PART</a></tt> (12; 1% instances), <tt><a href="hy_bsut-pos-PRON.html">PRON</a></tt>-<tt><a href="hy_bsut-pos-PART.html">PART</a></tt> (10; 1% instances), <tt><a href="hy_bsut-pos-DET.html">DET</a></tt>-<tt><a href="hy_bsut-pos-CCONJ.html">CCONJ</a></tt> (9; 0% instances), <tt><a href="hy_bsut-pos-PART.html">PART</a></tt>-<tt><a href="hy_bsut-pos-CCONJ.html">CCONJ</a></tt> (7; 0% instances), <tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_bsut-pos-ADV.html">ADV</a></tt> (7; 0% instances), <tt><a href="hy_bsut-pos-X.html">X</a></tt>-<tt><a href="hy_bsut-pos-CCONJ.html">CCONJ</a></tt> (6; 0% instances), <tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_bsut-pos-SCONJ.html">SCONJ</a></tt> (5; 0% instances), <tt><a href="hy_bsut-pos-INTJ.html">INTJ</a></tt>-<tt><a href="hy_bsut-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances), <tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_bsut-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="hy_bsut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hy_bsut-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="hy_bsut-pos-ADP.html">ADP</a></tt>-<tt><a href="hy_bsut-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="hy_bsut-pos-ADV.html">ADV</a></tt>-<tt><a href="hy_bsut-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="hy_bsut-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="hy_bsut-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="hy_bsut-pos-DET.html">DET</a></tt>-<tt><a href="hy_bsut-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_bsut-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="hy_bsut-pos-PRON.html">PRON</a></tt>-<tt><a href="hy_bsut-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="hy_bsut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hy_bsut-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="hy_bsut-pos-SYM.html">SYM</a></tt>-<tt><a href="hy_bsut-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_bsut-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -48,6 +29,25 @@ The following 24 pairs of parts of speech are connected with `cc`: <tt><a href="
 5	լինում	լինել	VERB	_	Aspect=Imp|Subcat=Intr|VerbForm=Part|Voice=Mid	0	root	_	Translit=linowm|LTranslit=linel
 6	իրականում	իրականում	ADV	_	_	5	advmod	_	Translit=irakanowm|LTranslit=irakanowm|SpaceAfter=No
 7	։	։	PUNCT	_	_	5	punct	_	Translit=.|LTranslit=.
+
+~~~
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 2 cc	color:blue
+1	Կոմիքս	կոմիքս	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	0	root	_	Translit=Komik’s|LTranslit=komik’s
+2	կամ	կամ	CCONJ	_	_	3	cc	_	Translit=kam|LTranslit=kam
+3	ծաղրաշար	ծաղրաշար	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	1	conj	_	Translit=çaġrašar|LTranslit=çaġrašar|SpaceAfter=No
+4	,	,	PUNCT	_	_	8	punct	_	Translit=,|LTranslit=,
+5	պատկերների	պատկեր	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Plur	7	obl	_	Translit=patkerneri|LTranslit=patker
+6	միջոցով	միջոց	NOUN	_	Animacy=Nhum|Case=Ins|Definite=Ind|ExtPos=ADP|Number=Sing	5	case	_	Translit=miǰoc’ov|LTranslit=miǰoc’
+7	ստեղծվող	ստեղծել	VERB	_	Aspect=Dur|Polarity=Pos|Subcat=Intr|VerbForm=Part|Voice=Pass	8	acl	_	Translit=steġçvoġ|LTranslit=steġçel
+8	պատմություն	պատմություն	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	1	appos	_	Translit=patmowt’yown|LTranslit=patmowt’yown|SpaceAfter=No
+9	։	։	PUNCT	_	_	1	punct	_	Translit=.|LTranslit=.
 
 ~~~
 

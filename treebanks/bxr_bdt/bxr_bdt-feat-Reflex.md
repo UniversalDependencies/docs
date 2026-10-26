@@ -23,7 +23,7 @@ The most frequent other feature values with which `NOUN` and `Reflex` co-occurre
 `NOUN` tokens may have the following values of `Reflex`:
 
 * `Yes` (229; 100% of non-empty `Reflex`): <em>гэртээ, наһанайнгаа, нютагаа, угаараа, хэлэеэ, арадайнгаа, нютагтаа, гэртэхинэйнгээ, нютагайнгаа, наһаараа</em>
-* `EMPTY` (2883): <em>хүн, зон, гэр, хэлэ, үедэ, ажал, хэлэн, ондо, Буряад, бэлиг</em>
+* `EMPTY` (2885): <em>хүн, зон, гэр, хэлэ, үедэ, ажал, хэлэн, ондо, Буряад, бэлиг</em>
 
 `Reflex` seems to be **lexical feature** of `NOUN`. 100% lemmas (112) occur only with one value of `Reflex`.
 

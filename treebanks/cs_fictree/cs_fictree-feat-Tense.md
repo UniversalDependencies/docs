@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Fut`, `Past`, `Pres`.
 
-26787 tokens (16%) have a non-empty value of `Tense`.
-9131 types (34%) occur at least once with a non-empty value of `Tense`.
-3482 lemmas (25%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 3 part-of-speech tags: <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt> (20426; 12% instances), <tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> (6098; 4% instances), <tt><a href="cs_fictree-pos-ADJ.html">ADJ</a></tt> (263; 0% instances).
+26797 tokens (16%) have a non-empty value of `Tense`.
+9135 types (34%) occur at least once with a non-empty value of `Tense`.
+3483 lemmas (25%) occur at least once with a non-empty value of `Tense`.
+The feature is used with 3 part-of-speech tags: <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt> (20426; 12% instances), <tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> (6098; 4% instances), <tt><a href="cs_fictree-pos-ADJ.html">ADJ</a></tt> (273; 0% instances).
 
 ### `VERB`
 
@@ -100,24 +100,25 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 
 ### `ADJ`
 
-263 <tt><a href="cs_fictree-pos-ADJ.html">ADJ</a></tt> tokens (2% of all `ADJ` tokens) have a non-empty value of `Tense`.
+273 <tt><a href="cs_fictree-pos-ADJ.html">ADJ</a></tt> tokens (3% of all `ADJ` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `ADJ` and `Tense` co-occurred: <tt><a href="cs_fictree-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (263; 100%), <tt><a href="cs_fictree-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (258; 98%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (192; 73%), <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (150; 57%).
+The most frequent other feature values with which `ADJ` and `Tense` co-occurred: <tt><a href="cs_fictree-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (268; 98%), <tt><a href="cs_fictree-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (263; 96%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (200; 73%), <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (155; 57%).
 
 `ADJ` tokens may have the following values of `Tense`:
 
-* `Pres` (263; 100% of non-empty `Tense`): <em>následující, rozhodující, třesoucí, nastávající, povznášející, stojící, vynikající, zbývající, blížícího, bušícím</em>
-* `EMPTY` (10636): <em>první, celý, rád, další, jiného, poslední, malé, celé, celou, velké</em>
+* `Fut` (10; 4% of non-empty `Tense`): <em>budoucí, budoucím, budoucích, budoucího</em>
+* `Pres` (263; 96% of non-empty `Tense`): <em>následující, rozhodující, třesoucí, nastávající, povznášející, stojící, vynikající, zbývající, blížícího, bušícím</em>
+* `EMPTY` (10626): <em>první, celý, rád, další, jiného, poslední, malé, celé, celou, velké</em>
 
-`Tense` seems to be **lexical feature** of `ADJ`. 100% lemmas (180) occur only with one value of `Tense`.
+`Tense` seems to be **lexical feature** of `ADJ`. 100% lemmas (181) occur only with one value of `Tense`.
 
 ## Relations with Agreement in `Tense`
 
 The 10 most frequent relations where parent and child node agree in `Tense`:
 <tt>VERB --[<tt><a href="cs_fictree-dep-conj.html">conj</a></tt>]--> VERB</tt> (4343; 91%),
-<tt>VERB --[<tt><a href="cs_fictree-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (1189; 75%),
-<tt>VERB --[<tt><a href="cs_fictree-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (42; 64%),
-<tt>VERB --[<tt><a href="cs_fictree-dep-appos.html">appos</a></tt>]--> VERB</tt> (25; 78%),
+<tt>VERB --[<tt><a href="cs_fictree-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (1190; 75%),
+<tt>VERB --[<tt><a href="cs_fictree-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (40; 63%),
+<tt>VERB --[<tt><a href="cs_fictree-dep-appos.html">appos</a></tt>]--> VERB</tt> (26; 79%),
 <tt>AUX --[<tt><a href="cs_fictree-dep-conj.html">conj</a></tt>]--> VERB</tt> (18; 75%),
 <tt>VERB --[<tt><a href="cs_fictree-dep-conj.html">conj</a></tt>]--> AUX</tt> (16; 76%),
 <tt>AUX --[<tt><a href="cs_fictree-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (12; 92%),

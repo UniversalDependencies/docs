@@ -23,7 +23,7 @@ The following 10 pairs of parts of speech are connected with `cop`: <tt><a href=
 # visual-style 2	fgColor:white
 # visual-style 2 1 cop	color:blue
 1	tá	estar	AUX	vmm02s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	Ortho=está
-2	bueno	bueno	ADJ	i	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	bueno	buen	ADJ	i	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
 3	.	.	PUNCT	fp	PunctType=Peri	2	punct	_	_
 
 ~~~
@@ -58,7 +58,7 @@ The following 10 pairs of parts of speech are connected with `cop`: <tt><a href=
 4	acuerda	acordar	VERB	vmip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	usted	tú	PRON	pp2cs00p	Case=Acc,Nom|Number=Sing|Person=2|Polite=Form|PronType=Prs	4	nsubj	_	_
 6	de	de	ADP	sps00	_	9	mark	_	_
-7	cómo	cómo	PRON	pt000000	PronType=Int	9	obl	_	_
+7	cómo	cómo	PRON	pt000000	PronType=Int	9	nmod	_	_
 8	era	ser	AUX	vsii3s0	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	9	cop	_	_
 9	eso	ese	PRON	pd0ns000	Number=Sing|PronType=Dem	4	obj	_	SpaceAfter=No
 10	?	?	PUNCT	fit	PunctSide=Fin|PunctType=Qest	4	punct	_	_

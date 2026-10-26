@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `1`, `2`, `3`.
 
-3248 tokens (14%) have a non-empty value of `Person`.
-291 types (7%) occur at least once with a non-empty value of `Person`.
-164 lemmas (5%) occur at least once with a non-empty value of `Person`.
-The feature is used with 4 part-of-speech tags: <tt><a href="fr_fqb-pos-AUX.html">AUX</a></tt> (1602; 7% instances), <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> (833; 3% instances), <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> (811; 3% instances), <tt><a href="fr_fqb-pos-DET.html">DET</a></tt> (2; 0% instances).
+3249 tokens (14%) have a non-empty value of `Person`.
+292 types (7%) occur at least once with a non-empty value of `Person`.
+168 lemmas (5%) occur at least once with a non-empty value of `Person`.
+The feature is used with 3 part-of-speech tags: <tt><a href="fr_fqb-pos-AUX.html">AUX</a></tt> (1602; 7% instances), <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> (832; 3% instances), <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> (815; 3% instances).
 
 ### `AUX`
 
@@ -42,16 +42,16 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 
 ### `VERB`
 
-833 <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> tokens (44% of all `VERB` tokens) have a non-empty value of `Person`.
+832 <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> tokens (44% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="fr_fqb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (833; 100%), <tt><a href="fr_fqb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (833; 100%), <tt><a href="fr_fqb-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (833; 100%), <tt><a href="fr_fqb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (780; 94%), <tt><a href="fr_fqb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (734; 88%), <tt><a href="fr_fqb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (706; 85%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="fr_fqb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (832; 100%), <tt><a href="fr_fqb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (832; 100%), <tt><a href="fr_fqb-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (832; 100%), <tt><a href="fr_fqb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (779; 94%), <tt><a href="fr_fqb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (733; 88%), <tt><a href="fr_fqb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (705; 85%).
 
 `VERB` tokens may have the following values of `Person`:
 
 * `1` (60; 7% of non-empty `Person`): <em>puis, ai, vais, Rions, utilisons</em>
 * `2` (73; 9% of non-empty `Person`): <em>Nommez, dois, devez, viens, Définissez, Laissez, Pouvez, participiez, perçois, peux</em>
-* `3` (700; 84% of non-empty `Person`): <em>trouve, est, a, signifie, eut, fait, nomme, appelle, peut, avait</em>
-* `EMPTY` (1057): <em>inventé, né, situé, écrit, mort, connu, faire, joué, eu, obtenir</em>
+* `3` (699; 84% of non-empty `Person`): <em>trouve, est, a, signifie, eut, fait, nomme, appelle, peut, avait</em>
+* `EMPTY` (1058): <em>inventé, né, situé, écrit, mort, connu, faire, joué, eu, fait</em>
 
 <table>
   <tr><th>Paradigm <i>pouvoir</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -64,42 +64,23 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 
 ### `PRON`
 
-811 <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> tokens (49% of all `PRON` tokens) have a non-empty value of `Person`.
+815 <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> tokens (49% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="fr_fqb-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (807; 100%), <tt><a href="fr_fqb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (575; 71%), <tt><a href="fr_fqb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (426; 53%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="fr_fqb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (732; 90%), <tt><a href="fr_fqb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (577; 71%), <tt><a href="fr_fqb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (428; 53%).
 
 `PRON` tokens may have the following values of `Person`:
 
 * `1` (146; 18% of non-empty `Person`): <em>-je, je, j', me, m', -moi, moi, nous</em>
 * `2` (23; 3% of non-empty `Person`): <em>vous, -vous</em>
-* `3` (642; 79% of non-empty `Person`): <em>-t-il, se, -il, -t-elle, y, -t-on, -elle, s', -ils, -on</em>
-* `EMPTY` (847): <em>qui, qu', -ce, que, quoi, laquelle, lequel, dont, cela, un</em>
+* `3` (646; 79% of non-empty `Person`): <em>-t-il, se, -il, -t-elle, -t-on, -elle, s', -ils, -on, y</em>
+* `EMPTY` (839): <em>qui, qu', -ce, que, quoi, laquelle, lequel, dont, cela, un</em>
 
-<table>
-  <tr><th>Paradigm <i>il</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
-  <tr><td><tt><tt><a href="fr_fqb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="fr_fqb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>-t-il, -il, il</em></td></tr>
-  <tr><td><tt><tt><a href="fr_fqb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="fr_fqb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td><em>-ils</em></td></tr>
-  <tr><td><tt><tt><a href="fr_fqb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="fr_fqb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>-t-elle, -elle, elle</em></td></tr>
-  <tr><td><tt><tt><a href="fr_fqb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="fr_fqb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td><em>-elles, elles</em></td></tr>
-  <tr><td><tt><tt><a href="fr_fqb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>-je, je, j'</em></td><td></td><td><em>-t-on, -on, on</em></td></tr>
-  <tr><td><tt><tt><a href="fr_fqb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>nous</em></td><td><em>vous, -vous</em></td><td></td></tr>
-</table>
-
-### `DET`
-
-2 <tt><a href="fr_fqb-pos-DET.html">DET</a></tt> tokens (0% of all `DET` tokens) have a non-empty value of `Person`.
-
-The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="fr_fqb-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="fr_fqb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="fr_fqb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2; 100%), <tt><a href="fr_fqb-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (2; 100%).
-
-`DET` tokens may have the following values of `Person`:
-
-* `3` (2; 100% of non-empty `Person`): <em>l'</em>
-* `EMPTY` (3832): <em>le, la, l', les, quelle, quel, un, une, des, mon</em>
+`Person` seems to be **lexical feature** of `PRON`. 100% lemmas (11) occur only with one value of `Person`.
 
 ## Relations with Agreement in `Person`
 
 The 10 most frequent relations where parent and child node agree in `Person`:
-<tt>VERB --[<tt><a href="fr_fqb-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (177; 55%),
-<tt>VERB --[<tt><a href="fr_fqb-dep-expl-comp.html">expl:comp</a></tt>]--> PRON</tt> (146; 83%),
-<tt>VERB --[<tt><a href="fr_fqb-dep-nsubj.html">nsubj</a></tt>]--> DET</tt> (2; 100%).
+<tt>VERB --[<tt><a href="fr_fqb-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (179; 56%),
+<tt>VERB --[<tt><a href="fr_fqb-dep-expl-pv.html">expl:pv</a></tt>]--> PRON</tt> (114; 87%),
+<tt>VERB --[<tt><a href="fr_fqb-dep-expl-comp.html">expl:comp</a></tt>]--> PRON</tt> (26; 100%).
 

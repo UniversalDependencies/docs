@@ -24,7 +24,7 @@ The following 7 pairs of parts of speech are connected with `nmod:lmod`: <tt><a 
 # visual-style 7	fgColor:white
 # visual-style 7 6 nmod:lmod	color:blue
 1	Rusia	Rusia	PROPN	_	_	2	nsubj	_	_
-2	mengumumkan	umum	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
+2	mengumumkan	umum	VERB	_	Voice=Act	0	root	_	_
 3	penangguhan	tangguh	NOUN	_	Number=Sing	2	obj	_	_
 4	kontrak	kontrak	NOUN	_	Number=Sing	3	nmod	_	_
 5	pada	pada	ADP	_	_	7	case	_	_
@@ -49,7 +49,7 @@ The following 7 pairs of parts of speech are connected with `nmod:lmod`: <tt><a 
 5	kedua	dua	NUM	_	NumType=Card	6	nummod	_	_
 6	kasus	kasus	NOUN	_	Number=Sing	8	obl	_	_
 7	ini	ini	DET	_	PronType=Dem	6	det	_	_
-8	berada	ada	VERB	_	Mood=Ind|Voice=Act	2	acl:relcl	_	_
+8	berada	ada	VERB	_	Voice=Act	2	acl:relcl	_	_
 9	di	di	ADP	_	_	12	case	_	_
 10	bagian	bagi	NOUN	_	Number=Sing	12	nmod:lmod	_	_
 11	teratas	atas	ADJ	_	Degree=Sup	10	amod	_	_

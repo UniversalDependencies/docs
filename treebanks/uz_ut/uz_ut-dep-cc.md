@@ -8,31 +8,27 @@ udver: '2'
 
 This relation is universal.
 
-108 nodes (2%) are attached to their parents as `cc`.
+109 nodes (2%) are attached to their parents as `cc`.
 
-105 instances of `cc` (97%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.22222222222222.
+106 instances of `cc` (97%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.36697247706422.
 
-The following 11 pairs of parts of speech are connected with `cc`: <tt><a href="uz_ut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uz_ut-pos-CCONJ.html">CCONJ</a></tt> (53; 49% instances), <tt><a href="uz_ut-pos-VERB.html">VERB</a></tt>-<tt><a href="uz_ut-pos-CCONJ.html">CCONJ</a></tt> (33; 31% instances), <tt><a href="uz_ut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="uz_ut-pos-CCONJ.html">CCONJ</a></tt> (7; 6% instances), <tt><a href="uz_ut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uz_ut-pos-CCONJ.html">CCONJ</a></tt> (5; 5% instances), <tt><a href="uz_ut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uz_ut-pos-ADP.html">ADP</a></tt> (2; 2% instances), <tt><a href="uz_ut-pos-PART.html">PART</a></tt>-<tt><a href="uz_ut-pos-CCONJ.html">CCONJ</a></tt> (2; 2% instances), <tt><a href="uz_ut-pos-VERB.html">VERB</a></tt>-<tt><a href="uz_ut-pos-SCONJ.html">SCONJ</a></tt> (2; 2% instances), <tt><a href="uz_ut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uz_ut-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="uz_ut-pos-NUM.html">NUM</a></tt>-<tt><a href="uz_ut-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="uz_ut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="uz_ut-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="uz_ut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="uz_ut-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances).
+The following 11 pairs of parts of speech are connected with `cc`: <tt><a href="uz_ut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uz_ut-pos-CCONJ.html">CCONJ</a></tt> (49; 45% instances), <tt><a href="uz_ut-pos-VERB.html">VERB</a></tt>-<tt><a href="uz_ut-pos-CCONJ.html">CCONJ</a></tt> (39; 36% instances), <tt><a href="uz_ut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="uz_ut-pos-CCONJ.html">CCONJ</a></tt> (7; 6% instances), <tt><a href="uz_ut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uz_ut-pos-CCONJ.html">CCONJ</a></tt> (5; 5% instances), <tt><a href="uz_ut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uz_ut-pos-ADP.html">ADP</a></tt> (2; 2% instances), <tt><a href="uz_ut-pos-VERB.html">VERB</a></tt>-<tt><a href="uz_ut-pos-SCONJ.html">SCONJ</a></tt> (2; 2% instances), <tt><a href="uz_ut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uz_ut-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="uz_ut-pos-NUM.html">NUM</a></tt>-<tt><a href="uz_ut-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="uz_ut-pos-PART.html">PART</a></tt>-<tt><a href="uz_ut-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="uz_ut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="uz_ut-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="uz_ut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="uz_ut-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 7 cc	color:blue
-1	Oliy	oliy	ADJ	_	_	2	amod	_	_
-2	sud	sud	NOUN	_	Case=Nom|Number=Sing	6	nsubj	_	_
-3	ushbu	ushbu	DET	_	PronType=Dem	4	det	_	_
-4	hukmni	hukm	NOUN	_	Case=Nom|Number=Sing	6	obj	_	_
-5	o‘zgarishsiz	o‘zgarish	NOUN	_	Case=Dat	6	xcomp	_	_
-6	qoldirdi	qoldir	VERB	_	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-7	va	va	CCONJ	_	_	9	cc	_	_
-8	hukm	hukm	NOUN	_	Case=Nom|Number=Sing	9	nsubj	_	_
-9	kuchga	kuch	NOUN	_	Case=Dat|Number=Sing	6	conj	_	_
-10	kirdi	kir	VERB	_	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	9	compound	_	SpaceAfter=No
-11	.	.	PUNCT	_	_	6	punct	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 cc	color:blue
+1	Toshbaqa	toshbaqa	NOUN	_	Case=Nom|Number=Sing	6	nsubj	_	_
+2	bilan	bilan	CCONJ	_	_	1	cc	_	_
+3	tuxum	tuxum	NOUN	_	Case=Nom|Number=Sing	1	conj	_	_
+4	koʻzdan	koʻz	NOUN	_	Case=Abl|Number=Sing	6	obl	_	_
+5	gʻoyib	gʻoyib	PART	_	_	6	compound:lvc	_	_
+6	boʻldi	boʻl	VERB	_	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	6	punct	_	_
 
 ~~~
 

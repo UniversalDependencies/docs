@@ -44,14 +44,14 @@ The following 2 pairs of parts of speech are connected with `orphan`: <tt><a hre
 # visual-style 16	bgColor:blue
 # visual-style 16	fgColor:white
 # visual-style 16 21 orphan	color:blue
-1	Diperkirakan	kira	VERB	VSP	Mood=Ind|Voice=Pass	0	root	_	Morf=^di+per+kira<v>+kan_VSP$
+1	Diperkirakan	kira	VERB	VSP	Voice=Pass	0	root	_	Morf=^di+per+kira<v>+kan_VSP$
 2	oleh	oleh	ADP	R--	_	3	case	_	Morf=^oleh<r>_R--$
 3	CIA	cia	PROPN	F--	_	1	obl	_	Morf=^cia<f>_F--$
 4	pada	pada	ADP	R--	_	5	case	_	Morf=^pada<r>_R--$
 5	2002	2002	NUM	CC-	NumType=Card	1	obl	_	Morf=^2002<c>_CC-$
 6	bahwa	bahwa	SCONJ	S--	_	8	mark	_	Morf=^bahwa<s>_S--$
 7	agrikultur	agrikultur	NOUN	X--	_	8	nsubj	_	Morf=^agrikultur<x>_X--$
-8	menyumbangkan	sumbang	VERB	VSA	Mood=Ind|Voice=Act	1	ccomp	_	Morf=^meN+sumbang<v>+kan_VSA$
+8	menyumbangkan	sumbang	VERB	VSA	Voice=Act	1	ccomp	_	Morf=^meN+sumbang<v>+kan_VSA$
 9	sebesar	sebesar	ADP	R--	_	8	obl	_	Morf=^sebesar<r>_R--$
 10	14,5	14,5	NUM	CC-	NumType=Card	11	nummod	_	SpaceAfter=No|Morf=^14<c>_CC-$
 11	%	%	SYM	Z--	_	9	nmod	_	Morf=^%<z>_Z--$

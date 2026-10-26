@@ -24,7 +24,7 @@ The following 2 pairs of parts of speech are connected with `compound:nn`: <tt><
 # visual-style 4	fgColor:white
 # visual-style 4 3 compound:nn	color:blue
 1	―	―	PUNCT	PUNCT	_	2	punct	_	_
-2	Совсинек	совсемс	VERB	V	Mood=Ind|Number[subj]=Plur|Person[subj]=1|Tense=Past	0	root	_	GTtags=IV,Ind,Prt1,ScPl1
+2	Совсинек	совсемс	VERB	V	Mood=Ind|Number[subj]=Plur|Person[subj]=1|Tense=Past|VerbForm=Fin	0	root	_	GTtags=IV,Ind,Prt1,ScPl1
 3	Звездов	Звездов	PROPN	N	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Sur|Number=Sing	4	compound:nn	_	GTtags=Sur_Mal,Prop,Sg,Nom,Indef
 4	ялгат	ялга	NOUN	N	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=2	2	obl	_	GTtags=Sg,Gen,PxSg2
 5	туртов	туртов	ADP	Po	AdpType=Post|Case=Dat	4	case	_	GTtags=Dat|SpaceAfter=No
@@ -39,7 +39,7 @@ The following 2 pairs of parts of speech are connected with `compound:nn`: <tt><
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 3 compound:nn	color:blue
-1	Эскели	эскелямс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres	0	root	_	GTtags=Ind,Prs,ScSg3|2q:1.1,2
+1	Эскели	эскелямс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin	0	root	_	GTtags=Ind,Prs,ScSg3|2q:1.1,2
 2	Кечай	Кечай	PROPN	N	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Giv|Number=Sing	1	nsubj	_	GTtags=Ant_Mal,Sg,Nom,Indef
 3	Кокша	Кокша	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	4	compound:nn	_	GTtags=Sg,Nom,Indef
 4	пандонть	пандо	NOUN	N	Case=Gen|Definite=Def|Number=Sing	5	nmod	_	GTtags=Sem/Inanim_Cnt,Sg,Gen,Def

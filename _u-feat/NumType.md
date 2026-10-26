@@ -101,8 +101,6 @@ and syntactically as nouns or ordinal numerals.
 #### Examples
 
 * [en] _three-quarters_
-* [cs] _půl / polovina_ "half"; _třetina_ "one third"; _čtvrt /
-  čtvrtina_ "quarter"
 
 ### <a name="Sets">`Sets`</a>: number of sets of things; collective numeral
 
@@ -136,4 +134,4 @@ distinguished in corpora.
 * [en] _two-five_ "two to five" (provided tokenization leaves it as
   one token.)
 
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:54 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:04 CEST -->

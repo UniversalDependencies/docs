@@ -11,7 +11,7 @@ It occurs with 1 different values: `Yes`.
 
 32 tokens (0%) have a non-empty value of `Abbr`.
 4 types (0%) occur at least once with a non-empty value of `Abbr`.
-1 lemmas (0) occur at least once with a non-empty value of `Abbr`.
+4 lemmas (0%) occur at least once with a non-empty value of `Abbr`.
 The feature is used with 6 part-of-speech tags: <tt><a href="jv_csui-pos-AUX.html">AUX</a></tt> (19; 0% instances), <tt><a href="jv_csui-pos-PART.html">PART</a></tt> (6; 0% instances), <tt><a href="jv_csui-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="jv_csui-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="jv_csui-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="jv_csui-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 ### `AUX`
@@ -23,7 +23,7 @@ The most frequent other feature values with which `AUX` and `Abbr` co-occurred: 
 `AUX` tokens may have the following values of `Abbr`:
 
 * `Yes` (19; 100% of non-empty `Abbr`): <em>isa</em>
-* `EMPTY` (321): <em>wis, bisa, yaiku, kudu, wus, arep, lagi, bakal, inggih, mesthi</em>
+* `EMPTY` (319): <em>wis, bisa, yaiku, kudu, wus, arep, lagi, bakal, inggih, mesthi</em>
 
 ### `PART`
 
@@ -78,5 +78,5 @@ The most frequent other feature values with which `PRON` and `Abbr` co-occurred:
 `PRON` tokens may have the following values of `Abbr`:
 
 * `Yes` (1; 100% of non-empty `Abbr`): <em>ki</em>
-* `EMPTY` (960): <em>sing, e, kang, aku, ku, ingkang, dak, dheweke, apa, mu</em>
+* `EMPTY` (959): <em>sing, e, kang, aku, ku, ingkang, dak, dheweke, apa, mu</em>
 

@@ -38,7 +38,7 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
 
 3783 <tt><a href="it_pud-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="it_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2838; 75%), <tt><a href="it_pud-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (2308; 61%), <tt><a href="it_pud-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (2306; 61%).
+The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="it_pud-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (3492; 92%), <tt><a href="it_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2838; 75%), <tt><a href="it_pud-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (2308; 61%).
 
 `DET` tokens may have the following values of `Gender`:
 
@@ -48,8 +48,8 @@ The most frequent other feature values with which `DET` and `Gender` co-occurred
 
 <table>
   <tr><th>Paradigm <i>il</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
-  <tr><td><tt><tt><a href="it_pud-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="it_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="it_pud-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>il, l', lo</em></td><td><em>la, l'</em></td></tr>
-  <tr><td><tt><tt><a href="it_pud-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="it_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="it_pud-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>i, gli</em></td><td><em>le</em></td></tr>
+  <tr><td><tt><tt><a href="it_pud-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="it_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>il, l', lo</em></td><td><em>la, l'</em></td></tr>
+  <tr><td><tt><tt><a href="it_pud-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="it_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>i, gli</em></td><td><em>le</em></td></tr>
   <tr><td><tt><tt><a href="it_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>il, l', lo</em></td><td><em>la, l'</em></td></tr>
   <tr><td><tt><tt><a href="it_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>i, gli</em></td><td><em>le, la</em></td></tr>
 </table>

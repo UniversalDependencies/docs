@@ -9,20 +9,20 @@ udver: '2'
 This feature is language-specific.
 It occurs with 3 different values: `Digit`, `Roman`, `Word`.
 
-9197 tokens (2%) have a non-empty value of `NumForm`.
+9198 tokens (2%) have a non-empty value of `NumForm`.
 1640 types (4%) occur at least once with a non-empty value of `NumForm`.
-1617 lemmas (6%) occur at least once with a non-empty value of `NumForm`.
-The feature is used with 3 part-of-speech tags: <tt><a href="es_ancora-pos-NUM.html">NUM</a></tt> (9173; 2% instances), <tt><a href="es_ancora-pos-SYM.html">SYM</a></tt> (20; 0% instances), <tt><a href="es_ancora-pos-ADJ.html">ADJ</a></tt> (4; 0% instances).
+1621 lemmas (6%) occur at least once with a non-empty value of `NumForm`.
+The feature is used with 3 part-of-speech tags: <tt><a href="es_ancora-pos-NUM.html">NUM</a></tt> (9174; 2% instances), <tt><a href="es_ancora-pos-SYM.html">SYM</a></tt> (20; 0% instances), <tt><a href="es_ancora-pos-ADJ.html">ADJ</a></tt> (4; 0% instances).
 
 ### `NUM`
 
-9173 <tt><a href="es_ancora-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumForm`.
+9174 <tt><a href="es_ancora-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumForm`.
 
-The most frequent other feature values with which `NUM` and `NumForm` co-occurred: <tt><a href="es_ancora-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (9171; 100%), <tt><a href="es_ancora-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (6313; 69%).
+The most frequent other feature values with which `NUM` and `NumForm` co-occurred: <tt><a href="es_ancora-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (9172; 100%), <tt><a href="es_ancora-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (6314; 69%).
 
 `NUM` tokens may have the following values of `NumForm`:
 
-* `Digit` (5473; 60% of non-empty `NumForm`): <em>20, 30, 10, 15, 12, 2, 25, 50, 16, 18</em>
+* `Digit` (5474; 60% of non-empty `NumForm`): <em>20, 30, 10, 15, 12, 2, 25, 50, 16, 18</em>
 * `Roman` (121; 1% of non-empty `NumForm`): <em>II, XX, V, VI, XXI, XVIII, XXIII, IX, XIX, XV</em>
 * `Word` (3579; 39% of non-empty `NumForm`): <em>dos, ciento, tres, cinco, cuatro, seis, ambos, siete, diez, ocho</em>
 

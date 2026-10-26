@@ -14,13 +14,13 @@ udver: '2'
 </tr>
 </table>
 
-This feature typically applies to [pronouns](pos/PRON), [adverbs](pos/ADV), and relative pronoun [SCONJ](pos/NUM) (relativizer).
+This feature typically applies to [pronouns](bej-pos/PRON), [adverbs](bej-pos/ADV), and relative pronoun [SCONJ](bej-pos/NUM) (relativizer).
 .
 
 
 ### <a name="Int">`Int`</a>: interrogative pronoun, adverb
 
-Used to specify the interrogative quality of a [pronouns](pos/PRON) or pronominal [adverbs](pos/ADV).
+Used to specify the interrogative quality of a [pronouns](bej-pos/PRON) or pronominal [adverbs](bej-pos/ADV).
 
 #### Examples: 
 - _kak_ "how"
@@ -41,4 +41,4 @@ Used to show the thing or person being referred to.
 - _<b>uːn<b> uː= tak_ "this man"
 
 
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:01 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:14 CEST -->

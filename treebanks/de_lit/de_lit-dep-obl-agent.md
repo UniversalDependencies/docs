@@ -76,7 +76,7 @@ The following 2 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 15	jedem	jeder	DET	PIAT	Case=Dat|Number=Sing|PronType=Tot	18	obl:arg	_	_
 16	den	der	DET	ART	Definite=Def|PronType=Art	17	det	_	_
 17	Zutritt	Zutritt	NOUN	NN	Case=Acc	18	obj	_	_
-18	verstattet	verstatten	VERB	VVPP	_	9	acl	_	SpaceAfter=No
+18	verstattet	verstatten	VERB	VVPP	_	9	acl:relcl	_	SpaceAfter=No
 19	,	,	PUNCT	$,	_	18	punct	_	_
 20	und	und	CCONJ	KON	_	25	cc	_	_
 21	doch	doch	ADV	ADV	_	25	advmod	_	_
@@ -92,7 +92,7 @@ The following 2 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 31	Sinn	Sinn	NOUN	NN	_	34	obl	_	_
 32	und	und	CCONJ	KON	_	33	cc	_	_
 33	Studium	Studium	NOUN	NN	_	31	conj	_	_
-34	mitbringen	mitbringen	VERB	VVINF	_	24	acl	_	SpaceAfter=No
+34	mitbringen	mitbringen	VERB	VVINF	_	24	acl:relcl	_	SpaceAfter=No
 35	.	.	PUNCT	$.	_	3	punct	_	_
 
 ~~~

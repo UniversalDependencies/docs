@@ -61,7 +61,7 @@ The following 4 pairs of parts of speech are connected with `compound`: <tt><a h
 36	,	,	PUNCT	$,	_	39	punct	_	_
 37	was	was	PRON	PWS	Case=Nom|Gender=Neut|Number=Sing|PronType=Int,Rel	39	nsubj	_	_
 38	nicht	nicht	PART	PTKNEG	_	39	advmod	_	_
-39	niet-	niet	ADJ	ADJD	_	35	acl	_	_
+39	niet-	niet	ADJ	ADJD	_	35	acl:relcl	_	_
 40	und	und	CCONJ	KON	_	41	cc	_	_
 41	nagelfest	nagelfest	ADJ	ADJD	_	39	compound	_	_
 42	ist	sein	AUX	VAFIN	_	39	cop	_	SpaceAfter=No
@@ -126,7 +126,7 @@ The following 4 pairs of parts of speech are connected with `compound`: <tt><a h
 44	engländischen	engländisch	ADJ	ADJA	_	45	amod	_	_
 45	Kritiker	Kritiker	NOUN	NN	Case=Nom	47	nsubj	_	_
 46	so	so	ADV	ADV	_	47	advmod	_	_
-47	klassisch	klassisch	ADJ	ADJD	_	38	acl	_	_
+47	klassisch	klassisch	ADJ	ADJD	_	38	acl:relcl	_	_
 48	sind	sein	AUX	VAFIN	_	47	cop	_	SpaceAfter=No
 49	.	.	PUNCT	$.	_	4	punct	_	_
 

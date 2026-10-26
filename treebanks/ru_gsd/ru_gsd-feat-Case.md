@@ -48,9 +48,9 @@ The most frequent other feature values with which `ADJ` and `Case` co-occurred: 
 
 * `Acc` (1493; 12% of non-empty `Case`): <em>большую, настоящее, первую, первый, новую, первые, последние, 31, следующий, большое</em>
 * `Dat` (394; 3% of non-empty `Case`): <em>бассейновому, различным, административному, другим, новому, историческому, разным, 1, 11, III</em>
-* `Gen` (4458; 37% of non-empty `Case`): <em>российской, других, 12, 2010, 2012, второй, 2011, 2009, различных, 1</em>
+* `Gen` (4459; 37% of non-empty `Case`): <em>российской, других, 12, 2010, 2012, второй, 2011, 2009, различных, 1</em>
 * `Ins` (975; 8% of non-empty `Case`): <em>первым, самым, другими, основным, главным, самой, вторым, другим, составной, Федеральным</em>
-* `Loc` (1728; 14% of non-empty `Case`): <em>2008, 2007, центральной, 1999, 2002, 2003, 2004, других, первой, 1972</em>
+* `Loc` (1727; 14% of non-empty `Case`): <em>2008, 2007, центральной, 1999, 2002, 2003, 2004, других, первой, 1972</em>
 * `Nom` (2977; 25% of non-empty `Case`): <em>первый, многие, сам, известный, речной, Почтовый, большая, II, телефонный, первая</em>
 * `EMPTY` (248): <em>должна, должны, известно, должен, известен, старше, возможно, должно, необходимо, нужно</em>
 
@@ -166,14 +166,14 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 
 1194 <tt><a href="ru_gsd-pos-DET.html">DET</a></tt> tokens (77% of all `DET` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="ru_gsd-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (1016; 85%), <tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (824; 69%).
+The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="ru_gsd-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (1015; 85%), <tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (824; 69%).
 
 `DET` tokens may have the following values of `Case`:
 
-* `Acc` (327; 27% of non-empty `Case`): <em>свою, свой, то, этот, свои, своё, все, эту, это, всю</em>
+* `Acc` (328; 27% of non-empty `Case`): <em>свою, свой, то, этот, свои, своё, все, эту, это, всю</em>
 * `Dat` (59; 5% of non-empty `Case`): <em>своему, всем, своей, всей, этим, этому, всему, своим, Каждому, некоторым</em>
 * `Gen` (319; 27% of non-empty `Case`): <em>этого, всех, своей, своего, таких, этих, того, тех, этой, н.</em>
-* `Ins` (74; 6% of non-empty `Case`): <em>своими, своим, таким, тем, своей, такими, всем, некоторыми, этим, этими</em>
+* `Ins` (73; 6% of non-empty `Case`): <em>своими, своим, таким, тем, своей, такими, всем, некоторыми, этим, этими</em>
 * `Loc` (171; 14% of non-empty `Case`): <em>том, этом, своей, этой, своем, своих, своём, всех, этих, таком</em>
 * `Nom` (244; 20% of non-empty `Case`): <em>все, некоторые, этот, эта, это, эти, тот, такие, что, каждая</em>
 * `EMPTY` (361): <em>его, её, их, ее, н., один</em>
@@ -221,10 +221,10 @@ The most frequent other feature values with which `AUX` and `Case` co-occurred: 
 ## Relations with Agreement in `Case`
 
 The 10 most frequent relations where parent and child node agree in `Case`:
-<tt>NOUN --[<tt><a href="ru_gsd-dep-amod.html">amod</a></tt>]--> ADJ</tt> (9688; 99%),
+<tt>NOUN --[<tt><a href="ru_gsd-dep-amod.html">amod</a></tt>]--> ADJ</tt> (9689; 99%),
 <tt>NOUN --[<tt><a href="ru_gsd-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1922; 95%),
 <tt>PROPN --[<tt><a href="ru_gsd-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (954; 98%),
-<tt>NOUN --[<tt><a href="ru_gsd-dep-det.html">det</a></tt>]--> DET</tt> (916; 71%),
+<tt>NOUN --[<tt><a href="ru_gsd-dep-det.html">det</a></tt>]--> DET</tt> (914; 71%),
 <tt>NOUN --[<tt><a href="ru_gsd-dep-acl.html">acl</a></tt>]--> VERB</tt> (865; 90%),
 <tt>NOUN --[<tt><a href="ru_gsd-dep-appos.html">appos</a></tt>]--> PROPN</tt> (742; 65%),
 <tt>PROPN --[<tt><a href="ru_gsd-dep-conj.html">conj</a></tt>]--> PROPN</tt> (517; 99%),

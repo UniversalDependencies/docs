@@ -30,7 +30,7 @@ The following 1 pairs of parts of speech are connected with `mark:advmod`: <tt><
 6	Comant	coment	ADV	ADVsub	_	10	mark:advmod	_	XmlId=w_YvainKu_32370
 7	je	je	PRON	PROper	PronType=Prs	9	nsubj	_	XmlId=w_YvainKu_32371
 8	me	je	PRON	PROper	PronType=Prs	9	obj	_	XmlId=w_YvainKu_32372
-9	faz	faire	VERB	VERcjg	VerbForm=Fin	5	xcomp	_	XmlId=w_YvainKu_32373
+9	faz	faire	VERB	VERcjg	VerbForm=Fin	5	ccomp	_	XmlId=w_YvainKu_32373
 10	apeler	apeler	VERB	VERinf	VerbForm=Inf	9	xcomp	_	XmlId=w_YvainKu_32374
 11	:	:	PUNCT	PONfbl	_	5	punct	_	XmlId=w_YvainKu_32375
 

@@ -21,7 +21,7 @@ The feature is used with 3 part-of-speech tags: <tt><a href="en_ewt-pos-X.html">
 `X` tokens may have the following values of `Foreign`:
 
 * `Yes` (51; 100% of non-empty `Foreign`): <em>de, la, Baba, Kevalam, Nam, a, del, guerre, hoc, non</em>
-* `EMPTY` (449): <em>.doc, s, -, (, ), Alberta, Access, Analysis_0712, COMMUNICATIONS, MEH-risk</em>
+* `EMPTY` (450): <em>.doc, s, -, (, ), Alberta, Access, Analysis_0712, COMMUNICATIONS, MEH-risk</em>
 
 `Foreign` seems to be **lexical feature** of `X`. 100% lemmas (39) occur only with one value of `Foreign`.
 
@@ -32,7 +32,7 @@ The feature is used with 3 part-of-speech tags: <tt><a href="en_ewt-pos-X.html">
 `NOUN` tokens may have the following values of `Foreign`:
 
 * `Yes` (8; 100% of non-empty `Foreign`): <em>empanadas, arabes, cordobes, empanada</em>
-* `EMPTY` (43082): <em>time, people, service, place, thanks, food, way, year, day, number</em>
+* `EMPTY` (43076): <em>time, people, service, place, thanks, food, way, year, day, number</em>
 
 ### `INTJ`
 

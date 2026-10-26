@@ -18,7 +18,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="xav_xdt-pos-NOUN.ht
 
 ### `NOUN`
 
-2 <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt> tokens (1% of all `NOUN` tokens) have a non-empty value of `Number[psor]`.
+2 <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Number[psor]`.
 
 The most frequent other feature values with which `NOUN` and `Number[psor]` co-occurred: <tt><a href="xav_xdt-feat-Person.html">Person</a></tt><tt>=1</tt> (2; 100%).
 

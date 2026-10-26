@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1021 nodes (1%) are attached to their parents as `appos`.
+1022 nodes (1%) are attached to their parents as `appos`.
 
-1021 instances of `appos` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.66111655239961.
+1022 instances of `appos` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.65949119373777.
 
-The following 26 pairs of parts of speech are connected with `appos`: <tt><a href="pt_dantestocks-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_dantestocks-pos-PROPN.html">PROPN</a></tt> (587; 57% instances), <tt><a href="pt_dantestocks-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_dantestocks-pos-PROPN.html">PROPN</a></tt> (244; 24% instances), <tt><a href="pt_dantestocks-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_dantestocks-pos-NOUN.html">NOUN</a></tt> (47; 5% instances), <tt><a href="pt_dantestocks-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_dantestocks-pos-SYM.html">SYM</a></tt> (36; 4% instances), <tt><a href="pt_dantestocks-pos-X.html">X</a></tt>-<tt><a href="pt_dantestocks-pos-PROPN.html">PROPN</a></tt> (27; 3% instances), <tt><a href="pt_dantestocks-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_dantestocks-pos-NUM.html">NUM</a></tt> (21; 2% instances), <tt><a href="pt_dantestocks-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_dantestocks-pos-NOUN.html">NOUN</a></tt> (16; 2% instances), <tt><a href="pt_dantestocks-pos-ADV.html">ADV</a></tt>-<tt><a href="pt_dantestocks-pos-NOUN.html">NOUN</a></tt> (6; 1% instances), <tt><a href="pt_dantestocks-pos-ADV.html">ADV</a></tt>-<tt><a href="pt_dantestocks-pos-NUM.html">NUM</a></tt> (6; 1% instances), <tt><a href="pt_dantestocks-pos-ADV.html">ADV</a></tt>-<tt><a href="pt_dantestocks-pos-SYM.html">SYM</a></tt> (3; 0% instances), <tt><a href="pt_dantestocks-pos-NUM.html">NUM</a></tt>-<tt><a href="pt_dantestocks-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="pt_dantestocks-pos-PRON.html">PRON</a></tt>-<tt><a href="pt_dantestocks-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="pt_dantestocks-pos-SYM.html">SYM</a></tt>-<tt><a href="pt_dantestocks-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="pt_dantestocks-pos-SYM.html">SYM</a></tt>-<tt><a href="pt_dantestocks-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="pt_dantestocks-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pt_dantestocks-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="pt_dantestocks-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_dantestocks-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="pt_dantestocks-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_dantestocks-pos-SYM.html">SYM</a></tt> (2; 0% instances), <tt><a href="pt_dantestocks-pos-SYM.html">SYM</a></tt>-<tt><a href="pt_dantestocks-pos-SYM.html">SYM</a></tt> (2; 0% instances), <tt><a href="pt_dantestocks-pos-ADV.html">ADV</a></tt>-<tt><a href="pt_dantestocks-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="pt_dantestocks-pos-ADV.html">ADV</a></tt>-<tt><a href="pt_dantestocks-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="pt_dantestocks-pos-NUM.html">NUM</a></tt>-<tt><a href="pt_dantestocks-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="pt_dantestocks-pos-NUM.html">NUM</a></tt>-<tt><a href="pt_dantestocks-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="pt_dantestocks-pos-PRON.html">PRON</a></tt>-<tt><a href="pt_dantestocks-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="pt_dantestocks-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_dantestocks-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="pt_dantestocks-pos-SYM.html">SYM</a></tt>-<tt><a href="pt_dantestocks-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="pt_dantestocks-pos-SYM.html">SYM</a></tt>-<tt><a href="pt_dantestocks-pos-X.html">X</a></tt> (1; 0% instances).
+The following 26 pairs of parts of speech are connected with `appos`: <tt><a href="pt_dantestocks-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_dantestocks-pos-PROPN.html">PROPN</a></tt> (587; 57% instances), <tt><a href="pt_dantestocks-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_dantestocks-pos-PROPN.html">PROPN</a></tt> (244; 24% instances), <tt><a href="pt_dantestocks-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_dantestocks-pos-NOUN.html">NOUN</a></tt> (48; 5% instances), <tt><a href="pt_dantestocks-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_dantestocks-pos-SYM.html">SYM</a></tt> (36; 4% instances), <tt><a href="pt_dantestocks-pos-X.html">X</a></tt>-<tt><a href="pt_dantestocks-pos-PROPN.html">PROPN</a></tt> (27; 3% instances), <tt><a href="pt_dantestocks-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_dantestocks-pos-NUM.html">NUM</a></tt> (21; 2% instances), <tt><a href="pt_dantestocks-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_dantestocks-pos-NOUN.html">NOUN</a></tt> (16; 2% instances), <tt><a href="pt_dantestocks-pos-ADV.html">ADV</a></tt>-<tt><a href="pt_dantestocks-pos-NOUN.html">NOUN</a></tt> (6; 1% instances), <tt><a href="pt_dantestocks-pos-ADV.html">ADV</a></tt>-<tt><a href="pt_dantestocks-pos-NUM.html">NUM</a></tt> (6; 1% instances), <tt><a href="pt_dantestocks-pos-ADV.html">ADV</a></tt>-<tt><a href="pt_dantestocks-pos-SYM.html">SYM</a></tt> (3; 0% instances), <tt><a href="pt_dantestocks-pos-NUM.html">NUM</a></tt>-<tt><a href="pt_dantestocks-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="pt_dantestocks-pos-PRON.html">PRON</a></tt>-<tt><a href="pt_dantestocks-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="pt_dantestocks-pos-SYM.html">SYM</a></tt>-<tt><a href="pt_dantestocks-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="pt_dantestocks-pos-SYM.html">SYM</a></tt>-<tt><a href="pt_dantestocks-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="pt_dantestocks-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pt_dantestocks-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="pt_dantestocks-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_dantestocks-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="pt_dantestocks-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_dantestocks-pos-SYM.html">SYM</a></tt> (2; 0% instances), <tt><a href="pt_dantestocks-pos-SYM.html">SYM</a></tt>-<tt><a href="pt_dantestocks-pos-SYM.html">SYM</a></tt> (2; 0% instances), <tt><a href="pt_dantestocks-pos-ADV.html">ADV</a></tt>-<tt><a href="pt_dantestocks-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="pt_dantestocks-pos-ADV.html">ADV</a></tt>-<tt><a href="pt_dantestocks-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="pt_dantestocks-pos-NUM.html">NUM</a></tt>-<tt><a href="pt_dantestocks-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="pt_dantestocks-pos-NUM.html">NUM</a></tt>-<tt><a href="pt_dantestocks-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="pt_dantestocks-pos-PRON.html">PRON</a></tt>-<tt><a href="pt_dantestocks-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="pt_dantestocks-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_dantestocks-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="pt_dantestocks-pos-SYM.html">SYM</a></tt>-<tt><a href="pt_dantestocks-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="pt_dantestocks-pos-SYM.html">SYM</a></tt>-<tt><a href="pt_dantestocks-pos-X.html">X</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -32,7 +32,7 @@ The following 26 pairs of parts of speech are connected with `appos`: <tt><a hre
 8	FILHOS	filho	NOUN	_	Gender=Masc|Number=Plur	7	nmod	_	_
 9	DE	de	ADP	_	_	11	case	_	_
 10	A	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
-11	PUTA	puta	NOUN	_	Gender=Fem|Number=Sing	8	nmod	_	SpaceAfter=No
+11	PUTA	puta	NOUN	_	Gender=Fem|Number=Sing	8	nmod	_	_
 
 ~~~
 
@@ -56,7 +56,7 @@ The following 26 pairs of parts of speech are connected with `appos`: <tt><a hre
 11	14h	14h	NOUN	_	Gender=Fem|Number=Plur	1	parataxis	_	SpaceAfter=No
 12	:	:	PUNCT	_	_	13	punct	_	_
 13	TOTS3	TOTS3	PROPN	_	_	1	appos	_	_
-14	VALE3	VALE3	PROPN	_	_	13	conj	_	SpaceAfter=No
+14	VALE3	VALE3	PROPN	_	_	13	conj	_	_
 
 ~~~
 
@@ -79,7 +79,7 @@ The following 26 pairs of parts of speech are connected with `appos`: <tt><a hre
 10	nem	nem	CCONJ	_	_	11	cc	_	_
 11	compra	compra	NOUN	_	Gender=Fem|Number=Sing	5	appos	_	_
 12	nem	nem	CCONJ	_	_	13	cc	_	_
-13	venda	venda	NOUN	_	Gender=Fem|Number=Sing	11	conj	_	SpaceAfter=No
+13	venda	venda	NOUN	_	Gender=Fem|Number=Sing	11	conj	_	_
 
 ~~~
 

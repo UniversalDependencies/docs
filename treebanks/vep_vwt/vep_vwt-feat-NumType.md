@@ -22,7 +22,7 @@ The most frequent other feature values with which `NUM` and `NumType` co-occurre
 
 `NUM` tokens may have the following values of `NumType`:
 
-* `Card` (10; 91% of non-empty `NumType`): <em>40, 15, 2017, kahesa, kaht, kaks', koume, ühtes, üks'</em>
+* `Card` (10; 91% of non-empty `NumType`): <em>40, 15, 2017, kahesa, kaht, kaksʼ, koume, ühtes, üksʼ</em>
 * `Ord` (1; 9% of non-empty `NumType`): <em>23.</em>
 
 ### `ADJ`

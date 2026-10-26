@@ -182,6 +182,7 @@ udver: '2'
   * [det:nummod]() for pronominal quantifiers in cases in which they do not govern the case of the quantified noun
   * [advmod:emph]() for adverbs or particles that modify noun phrases and emphasize or negate them
   * [flat:foreign]() for non-first words in quoted foreign phrases
+  * [dep:alt]() for alternative gender suffixes
 * The following main types are not used alone and must be subtyped:
   [expl]()
 * The following relation types are not used in Upper Sorbian at all:

@@ -9,16 +9,14 @@ udver: '2'
 This feature is language-specific.
 It occurs with 3 different values: `VFin`, `VInf`, `VPar`.
 
-49 tokens (0%) have a non-empty value of `Morph`.
-36 types (0%) occur at least once with a non-empty value of `Morph`.
-8 lemmas (0%) occur at least once with a non-empty value of `Morph`.
-The feature is used with 7 part-of-speech tags: <tt><a href="fro_profiterole-pos-ADP.html">ADP</a></tt> (18; 0% instances), <tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt> (17; 0% instances), <tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="fro_profiterole-pos-PROPN.html">PROPN</a></tt> (4; 0% instances), <tt><a href="fro_profiterole-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="fro_profiterole-pos-INTJ.html">INTJ</a></tt> (2; 0% instances), <tt><a href="fro_profiterole-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
+48 tokens (0%) have a non-empty value of `Morph`.
+35 types (0%) occur at least once with a non-empty value of `Morph`.
+21 lemmas (0%) occur at least once with a non-empty value of `Morph`.
+The feature is used with 7 part-of-speech tags: <tt><a href="fro_profiterole-pos-ADP.html">ADP</a></tt> (18; 0% instances), <tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt> (16; 0% instances), <tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="fro_profiterole-pos-PROPN.html">PROPN</a></tt> (4; 0% instances), <tt><a href="fro_profiterole-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="fro_profiterole-pos-INTJ.html">INTJ</a></tt> (2; 0% instances), <tt><a href="fro_profiterole-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
 
 ### `ADP`
 
 18 <tt><a href="fro_profiterole-pos-ADP.html">ADP</a></tt> tokens (0% of all `ADP` tokens) have a non-empty value of `Morph`.
-
-The most frequent other feature values with which `ADP` and `Morph` co-occurred: <tt><a href="fro_profiterole-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (18; 100%), <tt><a href="fro_profiterole-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (18; 100%).
 
 `ADP` tokens may have the following values of `Morph`:
 
@@ -27,11 +25,13 @@ The most frequent other feature values with which `ADP` and `Morph` co-occurred:
 
 ### `NOUN`
 
-17 <tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Morph`.
+16 <tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Morph`.
 
 `NOUN` tokens may have the following values of `Morph`:
 
-* `VFin` (17; 100% of non-empty `Morph`): <em>acorde, aiüe, alge, chastie, curt, dreit, duinst, esrages, estencele, façon</em>
+* `VFin` (16; 100% of non-empty `Morph`): <em>acorde, aiüe, chastie, curt, dreit, duinst, esrages, estencele, façon, freint</em>
+
+`Morph` seems to be **lexical feature** of `NOUN`. 100% lemmas (12) occur only with one value of `Morph`.
 
 ### `ADV`
 

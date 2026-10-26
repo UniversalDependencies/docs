@@ -14,7 +14,6 @@ root(ROOT, ნახონ)
 ~~~ sdparse
 ფიქრი ირევა ჩემს თავში. \n 'A thought swirls in my head.'
 root(ROOT, ირევა)
-cop(apparenza, è)
 ~~~
 ~~~ sdparse
 შორეულ მთათა შემოეხვევა ნისლი გრძნეული. \n 'The distant mountains are surrounded by mist.'
@@ -29,4 +28,4 @@ root(ROOT, სათაური)
 nmod(სათაური, გაკვეთილის)
 punct(სათაური, .)
 ~~~
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:11:28 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:43 CEST -->

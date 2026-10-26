@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_English-CTeTex: POS Tags: `CCONJ`
 
-There are 1 `CCONJ` lemmas (6%), 6 `CCONJ` types (0%) and 267 `CCONJ` tokens (3%).
-Out of 17 observed tags, the rank of `CCONJ` is: 5 in number of lemmas, 15 in number of types and 10 in number of tokens.
+There are 6 `CCONJ` lemmas (0%), 6 `CCONJ` types (0%) and 267 `CCONJ` tokens (3%).
+Out of 17 observed tags, the rank of `CCONJ` is: 14 in number of lemmas, 15 in number of types and 10 in number of tokens.
 
-The 10 most frequent `CCONJ` lemmas: <em>_</em>
+The 10 most frequent `CCONJ` lemmas: <em>and, or, but, both, &, plus</em>
 
 The 10 most frequent `CCONJ` types:  <em>and, or, but, both, &, plus</em>
 
-The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="en_ctetex-pos-NOUN.html">NOUN</a></tt> 2649, <tt><a href="en_ctetex-pos-PUNCT.html">PUNCT</a></tt> 1455, <tt><a href="en_ctetex-pos-DET.html">DET</a></tt> 936, <tt><a href="en_ctetex-pos-ADP.html">ADP</a></tt> 781, <tt><a href="en_ctetex-pos-VERB.html">VERB</a></tt> 721, <tt><a href="en_ctetex-pos-ADJ.html">ADJ</a></tt> 647, <tt><a href="en_ctetex-pos-AUX.html">AUX</a></tt> 492, <tt><a href="en_ctetex-pos-NUM.html">NUM</a></tt> 317, <tt><a href="en_ctetex-pos-PROPN.html">PROPN</a></tt> 293, <tt><a href="en_ctetex-pos-CCONJ.html">CCONJ</a></tt> 267, <tt><a href="en_ctetex-pos-ADV.html">ADV</a></tt> 185, <tt><a href="en_ctetex-pos-PART.html">PART</a></tt> 165, <tt><a href="en_ctetex-pos-SCONJ.html">SCONJ</a></tt> 163, <tt><a href="en_ctetex-pos-SYM.html">SYM</a></tt> 98, <tt><a href="en_ctetex-pos-PRON.html">PRON</a></tt> 83, <tt><a href="en_ctetex-pos-X.html">X</a></tt> 17, <tt><a href="en_ctetex-pos-INTJ.html">INTJ</a></tt> 4)
+The 10 most frequent ambiguous lemmas: <em>both</em> (<tt><a href="en_ctetex-pos-CCONJ.html">CCONJ</a></tt> 3, <tt><a href="en_ctetex-pos-DET.html">DET</a></tt> 1), <em>&</em> (<tt><a href="en_ctetex-pos-SYM.html">SYM</a></tt> 6, <tt><a href="en_ctetex-pos-CCONJ.html">CCONJ</a></tt> 1), <em>plus</em> (<tt><a href="en_ctetex-pos-ADP.html">ADP</a></tt> 1, <tt><a href="en_ctetex-pos-CCONJ.html">CCONJ</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>both</em> (<tt><a href="en_ctetex-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="en_ctetex-pos-DET.html">DET</a></tt> 1), <em>&</em> (<tt><a href="en_ctetex-pos-SYM.html">SYM</a></tt> 6, <tt><a href="en_ctetex-pos-CCONJ.html">CCONJ</a></tt> 1), <em>plus</em> (<tt><a href="en_ctetex-pos-ADP.html">ADP</a></tt> 1, <tt><a href="en_ctetex-pos-CCONJ.html">CCONJ</a></tt> 1)
 
@@ -30,9 +30,13 @@ The 10 most frequent ambiguous types:  <em>both</em> (<tt><a href="en_ctetex-pos
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 6.000000 (the average of all parts of speech is 125.235294).
+The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.138503).
 
-The 1st highest number of forms (6) was observed with the lemma “_”: <em>&, and, both, but, or, plus</em>.
+The 1st highest number of forms (1) was observed with the lemma “&”: <em>&</em>.
+
+The 2nd highest number of forms (1) was observed with the lemma “and”: <em>and</em>.
+
+The 3rd highest number of forms (1) was observed with the lemma “both”: <em>both</em>.
 
 `CCONJ` does not occur with any features.
 

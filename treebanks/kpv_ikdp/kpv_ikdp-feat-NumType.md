@@ -8,7 +8,6 @@ udver: '2'
 
 This feature is universal.
 It occurs with 4 different values: `Card`, `Dist`, `Ord`, `Sets`.
-Some words have combined values of the feature; 1 combinations have been observed: `Card|Ord`.
 
 70 tokens (3%) have a non-empty value of `NumType`.
 40 types (4%) occur at least once with a non-empty value of `NumType`.
@@ -23,8 +22,7 @@ The most frequent other feature values with which `NUM` and `NumType` co-occurre
 
 `NUM` tokens may have the following values of `NumType`:
 
-* `Card` (59; 95% of non-empty `NumType`): <em>куим, нёль, кык, сизим, дас, десятой, вит, сорок, Девять, двадцать</em>
-* `Card,Ord` (1; 2% of non-empty `NumType`): <em>кӧкъямыс</em>
+* `Card` (60; 97% of non-empty `NumType`): <em>куим, нёль, кык, сизим, дас, десятой, вит, сорок, Девять, двадцать</em>
 * `Ord` (2; 3% of non-empty `NumType`): <em>Мӧдэс, четвёртэй</em>
 * `EMPTY` (3): <em>вторая, девяносто, первей</em>
 
@@ -39,13 +37,13 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 `ADJ` tokens may have the following values of `NumType`:
 
 * `Ord` (4; 100% of non-empty `NumType`): <em>мӧдэд, Коймедсэ, сизимед</em>
-* `EMPTY` (94): <em>ас, бур, второй, небыд, бия, выль, дзолясянь, дик, корейскей, кутшем</em>
+* `EMPTY` (95): <em>ас, бур, второй, небыд, бия, выль, дзолясянь, дик, корейскей, кутшем</em>
 
 ### `PRON`
 
 2 <tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> tokens (1% of all `PRON` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `PRON` and `NumType` co-occurred: <tt><a href="kpv_ikdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2; 100%).
+The most frequent other feature values with which `PRON` and `NumType` co-occurred: <tt><a href="kpv_ikdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2; 100%), <tt><a href="kpv_ikdp-feat-PronType.html">PronType</a></tt><tt>=Tot</tt> (2; 100%).
 
 `PRON` tokens may have the following values of `NumType`:
 
@@ -56,7 +54,7 @@ The most frequent other feature values with which `PRON` and `NumType` co-occurr
 
 1 <tt><a href="kpv_ikdp-pos-ADV.html">ADV</a></tt> tokens (0% of all `ADV` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `ADV` and `NumType` co-occurred: <tt><a href="kpv_ikdp-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1; 100%).
+The most frequent other feature values with which `ADV` and `NumType` co-occurred: <tt><a href="kpv_ikdp-feat-AdvType.html">AdvType</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="kpv_ikdp-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1; 100%).
 
 `ADV` tokens may have the following values of `NumType`:
 
@@ -65,19 +63,20 @@ The most frequent other feature values with which `ADV` and `NumType` co-occurre
 
 ### `DET`
 
-1 <tt><a href="kpv_ikdp-pos-DET.html">DET</a></tt> tokens (10% of all `DET` tokens) have a non-empty value of `NumType`.
+1 <tt><a href="kpv_ikdp-pos-DET.html">DET</a></tt> tokens (11% of all `DET` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `DET` and `NumType` co-occurred: <tt><a href="kpv_ikdp-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1; 100%), <tt><a href="kpv_ikdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%).
+The most frequent other feature values with which `DET` and `NumType` co-occurred: <tt><a href="kpv_ikdp-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1; 100%), <tt><a href="kpv_ikdp-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="kpv_ikdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%), <tt><a href="kpv_ikdp-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="kpv_ikdp-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="kpv_ikdp-feat-PronType.html">PronType</a></tt><tt>=Ind</tt> (1; 100%).
 
 `DET` tokens may have the following values of `NumType`:
 
 * `Ord` (1; 100% of non-empty `NumType`): <em>мӧд</em>
-* `EMPTY` (9): <em>уна, Став, всю, какой, кымын, ставыс, такое, унджык</em>
+* `EMPTY` (8): <em>уна, Став, всю, какой, кымын, ставыс, унджык</em>
 
 ## Relations with Agreement in `NumType`
 
 The 10 most frequent relations where parent and child node agree in `NumType`:
-<tt>NUM --[<tt><a href="kpv_ikdp-dep-fixed.html">fixed</a></tt>]--> NUM</tt> (2; 100%),
+<tt>NUM --[<tt><a href="kpv_ikdp-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (4; 67%),
+<tt>NUM --[<tt><a href="kpv_ikdp-dep-compound.html">compound</a></tt>]--> NUM</tt> (3; 100%),
 <tt>ADJ --[<tt><a href="kpv_ikdp-dep-reparandum.html">reparandum</a></tt>]--> DET</tt> (1; 100%),
-<tt>NUM --[<tt><a href="kpv_ikdp-dep-compound.html">compound</a></tt>]--> NUM</tt> (1; 100%).
+<tt>NUM --[<tt><a href="kpv_ikdp-dep-conj.html">conj</a></tt>]--> NUM</tt> (1; 100%).
 

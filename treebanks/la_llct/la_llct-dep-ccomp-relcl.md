@@ -42,7 +42,7 @@ The following 5 pairs of parts of speech are connected with `ccomp:relcl`: <tt><
 # visual-style 22 23 ccomp:relcl	color:blue
 1	casa	casa	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	8	obj	_	_
 2	ipsa	ipse	DET	p|p|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	1	det	_	_
-3	una	una	ADV	d|d|-|-|-|-|-|-|-|-	_	5	case	_	_
+3	una	una	ADV	d|d|-|-|-|-|-|-|-|-	ExtPos=ADP	5	case	_	_
 4	cum	cum	ADP	r|r|-|-|-|-|-|-|-|-	_	3	fixed	_	_
 5	fundamento	fundamentum	NOUN	n|n|-|s|-|-|-|n|b|-	Case=Abl|Gender=Neut|Number=Sing	1	nmod	_	_
 6	suo	suus	DET	a|a|3|s|-|-|-|n|b|-	Case=Abl|Gender=Neut|Number=Sing|Person[psor]=3|Poss=Yes|PronType=Prs|Reflex=Yes	5	det	_	_
@@ -109,7 +109,7 @@ The following 5 pairs of parts of speech are connected with `ccomp:relcl`: <tt><
 32	tinore	tenor	NOUN	n|n|-|s|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Sing	29	obl	_	_
 33	ut	ut	SCONJ	c|c|-|-|-|-|-|-|-|-	PronType=Rel	46	mark	_	_
 34	ego	ego	PRON	p|p|1|s|-|-|-|m|n|-	Case=Nom|Number=Sing|Person=1|PronType=Prs	46	nsubj	_	_
-35	in	in	ADP	r|r|-|-|-|-|-|-|-|-	_	38	case	_	_
+35	in	in	ADP	r|r|-|-|-|-|-|-|-|-	ExtPos=SCONJ	38	case	_	_
 36	infra	infra	ADP	r|r|-|-|-|-|-|-|-|-	_	35	fixed	_	_
 37	isto	iste	DET	p|p|-|s|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	38	det	_	_
 38	anno	annus	NOUN	n|n|-|s|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Sing	43	obl	_	_

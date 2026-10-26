@@ -58,6 +58,7 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 
 <table>
   <tr><th>Paradigm <i>ser</i></th><th><tt>Cnd,Ind</tt></th><th><tt>Ind</tt></th><th><tt>Sub</tt></th></tr>
+  <tr><td><tt><tt><a href="gl_treegal-feat-ExtPos.html">ExtPos</a></tt><tt>=ADV</tt>|<tt><a href="gl_treegal-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="gl_treegal-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="gl_treegal-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td><em>é</em></td><td></td></tr>
   <tr><td><tt><tt><a href="gl_treegal-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="gl_treegal-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="gl_treegal-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td><em>son</em></td><td></td></tr>
   <tr><td><tt><tt><a href="gl_treegal-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="gl_treegal-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="gl_treegal-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td></td><td><em>será</em></td><td><em>for</em></td></tr>
   <tr><td><tt><tt><a href="gl_treegal-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="gl_treegal-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="gl_treegal-feat-Tense.html">Tense</a></tt><tt>=Imp</tt></tt></td><td></td><td><em>era</em></td><td></td></tr>

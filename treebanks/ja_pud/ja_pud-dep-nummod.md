@@ -67,7 +67,7 @@ The following 3 pairs of parts of speech are connected with `nummod`: <tt><a hre
 18	で	で	ADP	助詞-格助詞	_	17	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-格助詞|SpaceAfter=No|UnidicInfo=デ,で,で,で,デ,,,デ,デ,で
 19	も	も	ADP	助詞-係助詞	_	17	case	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|LUWBILabel=B|LUWPOS=助詞-係助詞|SpaceAfter=No|UnidicInfo=モ,も,も,も,モ,,,モ,モ,も
 20	何百	何百	NUM	名詞-数詞	_	21	nummod	_	BunsetuBILabel=B|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=名詞-数詞|SpaceAfter=No|UnidicInfo=ナンビャク,何百,何百,何百,ナンビャク,,,ナンビャク,ナンビャクマン,何百万
-21	万	万	NUM	名詞-数詞	_	24	obl	_	BunsetuBILabel=I|BunsetuPositionType=SEM_HEAD|LUWBILabel=I|LUWPOS=名詞-数詞|SpaceAfter=No|UnidicInfo=マン,万,万,万,マン,,,マン,ナンビャクマン,何百万
+21	万	万	NUM	名詞-数詞	_	24	nmod	_	BunsetuBILabel=I|BunsetuPositionType=SEM_HEAD|LUWBILabel=I|LUWPOS=名詞-数詞|SpaceAfter=No|UnidicInfo=マン,万,万,万,マン,,,マン,ナンビャクマン,何百万
 22	も	も	ADP	助詞-係助詞	_	21	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-係助詞|SpaceAfter=No|UnidicInfo=モ,も,も,も,モ,,,モ,モ,も
 23	の	の	ADP	助詞-格助詞	_	21	case	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|LUWBILabel=B|LUWPOS=助詞-格助詞|SpaceAfter=No|UnidicInfo=ノ,の,の,の,ノ,,,ノ,ノ,の
 24	ユーザー	ユーザー	NOUN	名詞-普通名詞-一般	_	26	obj	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No|UnidicInfo=ユーザー,ユーザー,ユーザー,ユーザー,ユーザー,,,ユーザー,ユーザー,ユーザー

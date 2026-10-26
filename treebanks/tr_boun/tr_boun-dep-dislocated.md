@@ -65,7 +65,7 @@ The following 9 pairs of parts of speech are connected with `dislocated`: <tt><a
 16	en	en	ADV	_	_	17	advmod	_	_
 17	iyi	iyi	ADJ	Adj	_	18	amod	_	_
 18	müzelerinden	müze	NOUN	_	Case=Abl|Number=Plur|Number[psor]=Plur|Person=3|Person[psor]=3	20	nmod:part	_	_
-19	bir	bir	DET	Indef	_	20	det	_	_
+19	bir	bir	DET	Indef	PronType=Ind	20	det	_	_
 20	tanesi	tane	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	11	dislocated	_	SpaceAfter=No
 21	.	.	PUNCT	Stop	_	20	punct	_	SpacesAfter=\n
 
@@ -88,7 +88,7 @@ The following 9 pairs of parts of speech are connected with `dislocated`: <tt><a
 8	takım	takım	NOUN	_	Case=Nom|Number=Sing|Person=3	9	nsubj	_	_
 9	girdi	gir	VERB	_	Aspect=Perf|Evident=Fh|Number=Sing|Person=3|Polarity=Pos|Tense=Past	0	root	_	SpaceAfter=No
 10	:	:	PUNCT	Punc	_	9	punct	_	_
-11	İstanbul'dan	İstanbul	PROPN	_	Case=Abl|Number=Sing|Person=3	12	obl	_	_
+11	İstanbul'dan	İstanbul	PROPN	_	Case=Abl|Number=Sing|Person=3	12	nmod	_	_
 12	Delta	Delta	NOUN	_	Case=Nom|Number=Sing|Person=3	21	nmod:poss	_	_
 13	Mobilyaspor	Mobilyaspor	NOUN	_	Case=Nom|Number=Sing|Person=3	12	flat	_	SpaceAfter=No
 14	,	,	PUNCT	Comma	_	15	punct	_	_

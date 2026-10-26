@@ -18,7 +18,7 @@ The feature is used with 6 part-of-speech tags: <tt><a href="am_att-pos-PRON.htm
 
 2421 <tt><a href="am_att-pos-PRON.html">PRON</a></tt> tokens (95% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="am_att-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (2419; 100%), <tt><a href="am_att-feat-Person.html">Person</a></tt><tt>=3</tt> (1858; 77%), <tt><a href="am_att-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1248; 52%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="am_att-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (2421; 100%), <tt><a href="am_att-feat-Person.html">Person</a></tt><tt>=3</tt> (1858; 77%), <tt><a href="am_att-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1248; 52%).
 
 `PRON` tokens may have the following values of `Number`:
 
@@ -47,7 +47,7 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 `NOUN` tokens may have the following values of `Number`:
 
 * `Plur` (56; 100% of non-empty `Number`): ልጆች, ተማሪዎች, ሰዎች, ወታደሮች, ጓደኞች, ልጁች, መጽሐፎች, ሴቶች, በጎች, አይኖች
-* `EMPTY` (1430): ቤት, ልጅ, ገንዘብ, ልብስ, ጊዜ, ሰው, አስተማሪ, መጽሐፍ, መኪና, ምሳ
+* `EMPTY` (1431): ቤት, ልጅ, ገንዘብ, ልብስ, ጊዜ, ሰው, አስተማሪ, መጽሐፍ, መኪና, ምሳ
 
 `Number` seems to be **lexical feature** of `NOUN`. 100% lemmas (33) occur only with one value of `Number`.
 
@@ -63,6 +63,8 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 ### `DET`
 
 2 <tt><a href="am_att-pos-DET.html">DET</a></tt> tokens (0% of all `DET` tokens) have a non-empty value of `Number`.
+
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="am_att-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (2; 100%).
 
 `DET` tokens may have the following values of `Number`:
 

@@ -23,17 +23,17 @@ The following 15 pairs of parts of speech are connected with `nmod:poss`: <tt><a
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 nmod:poss	color:blue
-1	Mbakyu	_	NOUN	_	Number=Sing	3	nsubj	_	_
-2	e	_	PRON	_	Number=Sing|Person=3|Polite=Infm|PronType=Prs	1	nmod:poss	_	_
-3	seneng	_	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
-4	nglangi	_	VERB	_	Mood=Ind|Voice=Act	3	xcomp	_	SpaceAfter=No
-5	,	_	PUNCT	_	_	10	punct	_	_
-6	nanging	_	CCONJ	_	Polite=Infm	10	cc	_	_
-7	adhi	_	NOUN	_	Number=Sing	10	nsubj	_	_
-8	e	_	PRON	_	Number=Sing|Person=3|Polite=Infm|PronType=Prs	7	nmod:poss	_	_
-9	ora	_	PART	_	Polarity=Neg|Polite=Infm	10	advmod	_	_
-10	seneng	_	VERB	_	Mood=Ind|Voice=Act	3	conj	_	SpaceAfter=No
-11	.	_	PUNCT	_	_	3	punct	_	_
+1	Mbakyu	mbakyu	NOUN	_	Number=Sing	3	nsubj	_	_
+2	e	e	PRON	_	Number=Sing|Person=3|Polite=Infm|PronType=Prs	1	nmod:poss	_	_
+3	seneng	seneng	VERB	_	Voice=Act	0	root	_	_
+4	nglangi	langi	VERB	_	Voice=Act	3	xcomp	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	10	punct	_	_
+6	nanging	nanging	CCONJ	_	Polite=Infm	10	cc	_	_
+7	adhi	adhi	NOUN	_	Number=Sing	10	nsubj	_	_
+8	e	e	PRON	_	Number=Sing|Person=3|Polite=Infm|PronType=Prs	7	nmod:poss	_	_
+9	ora	ora	PART	_	Polarity=Neg|Polite=Infm	10	advmod	_	_
+10	seneng	seneng	VERB	_	Voice=Act	3	conj	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~
 
@@ -44,13 +44,13 @@ The following 15 pairs of parts of speech are connected with `nmod:poss`: <tt><a
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 6 nmod:poss	color:blue
-1	Kembang	_	NOUN	_	Number=Sing	3	nsubj:pass	_	_
-2	e	_	DET	_	Definite=Def|Polite=Infm|PronType=Art	1	det	_	_
-3	kajupuk	_	VERB	_	Mood=Ind|Polite=Infm|Voice=Pass	0	root	_	_
-4	dening	_	ADP	_	Polite=Infm	5	case	_	_
-5	putri	_	NOUN	_	Number=Sing	3	obl	_	_
-6	Ambarwati	_	PROPN	_	_	5	nmod:poss	_	SpaceAfter=No
-7	.	_	PUNCT	_	_	3	punct	_	_
+1	Kembang	kembang	NOUN	_	Number=Sing	3	nsubj:pass	_	_
+2	e	e	DET	_	Definite=Def|Polite=Infm|PronType=Art	1	det	_	_
+3	kajupuk	jupuk	VERB	_	Polite=Infm|Voice=Pass	0	root	_	_
+4	dening	dening	ADP	_	Polite=Infm	5	case	_	_
+5	putri	putri	NOUN	_	Number=Sing	3	obl	_	_
+6	Ambarwati	ambarwati	PROPN	_	_	5	nmod:poss	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~
 
@@ -61,17 +61,17 @@ The following 15 pairs of parts of speech are connected with `nmod:poss`: <tt><a
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 9 nmod:poss	color:blue
-1	Tari	_	NOUN	_	Number=Sing	5	nsubj	_	_
-2	reyog	_	NOUN	_	Number=Sing	1	nmod	_	_
-3	Ponorogo	_	PROPN	_	_	2	nmod	_	_
-4	lagi	_	AUX	_	Polite=Infm	5	aux	_	_
-5	dadi	_	VERB	_	Mood=Ind|Polite=Infm|Voice=Act	0	root	_	_
-6	kembang	_	NOUN	_	Number=Sing	5	xcomp	_	_
-7	lambe	_	NOUN	_	Number=Sing	6	nmod	_	_
-8	e	_	DET	_	Definite=Def|Polite=Infm|PronType=Art	7	det	_	_
-9	wong	_	NOUN	_	Number=Sing|Polite=Infm	6	nmod:poss	_	_
-10	akeh	_	DET	_	Number=Plur|Polite=Infm|PronType=Ind	9	det	_	SpaceAfter=No
-11	.	_	PUNCT	_	_	5	punct	_	_
+1	Tari	tari	NOUN	_	Number=Sing	5	nsubj	_	_
+2	reyog	reyog	NOUN	_	Number=Sing	1	nmod	_	_
+3	Ponorogo	ponorogo	PROPN	_	_	2	nmod	_	_
+4	lagi	lagi	AUX	_	Polite=Infm	5	aux	_	_
+5	dadi	dadi	VERB	_	Polite=Infm|Voice=Act	0	root	_	_
+6	kembang	kembang	NOUN	_	Number=Sing	5	xcomp	_	_
+7	lambe	lambe	NOUN	_	Number=Sing	6	nmod	_	_
+8	e	e	DET	_	Definite=Def|Polite=Infm|PronType=Art	7	det	_	_
+9	wong	wong	NOUN	_	Number=Sing|Polite=Infm	6	nmod:poss	_	_
+10	akeh	akeh	DET	_	Number=Plur|Polite=Infm|PronType=Ind	9	det	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	5	punct	_	_
 
 ~~~
 

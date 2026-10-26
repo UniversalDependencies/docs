@@ -9,12 +9,31 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="ky_tuecl-dep-nsubj.html">nsubj</a></tt>.
 There are also 1 other language-specific subtypes of `nsubj`: <tt><a href="ky_tuecl-dep-nsubj-pass.html">nsubj:pass</a></tt>.
 
-2 nodes (0%) are attached to their parents as `nsubj:outer`.
+4 nodes (0%) are attached to their parents as `nsubj:outer`.
 
-2 instances of `nsubj:outer` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 6.
+4 instances of `nsubj:outer` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 6.25.
 
-The following 2 pairs of parts of speech are connected with `nsubj:outer`: <tt><a href="ky_tuecl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ky_tuecl-pos-NOUN.html">NOUN</a></tt> (1; 50% instances), <tt><a href="ky_tuecl-pos-VERB.html">VERB</a></tt>-<tt><a href="ky_tuecl-pos-NOUN.html">NOUN</a></tt> (1; 50% instances).
+The following 4 pairs of parts of speech are connected with `nsubj:outer`: <tt><a href="ky_tuecl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ky_tuecl-pos-PRON.html">PRON</a></tt> (1; 25% instances), <tt><a href="ky_tuecl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ky_tuecl-pos-NOUN.html">NOUN</a></tt> (1; 25% instances), <tt><a href="ky_tuecl-pos-VERB.html">VERB</a></tt>-<tt><a href="ky_tuecl-pos-NOUN.html">NOUN</a></tt> (1; 25% instances), <tt><a href="ky_tuecl-pos-VERB.html">VERB</a></tt>-<tt><a href="ky_tuecl-pos-PROPN.html">PROPN</a></tt> (1; 25% instances).
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 1 nsubj:outer	color:blue
+1	Алар	алар	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	8	nsubj:outer	_	_
+2	кимдин	ким	PRON	_	_	3	nsubj	_	_
+3	жазгандыгы	жаз	VERB	_	_	8	obl	_	_
+4	жөнүндө	жөнүндө	ADP	_	_	3	case	_	_
+5	эч	эч	DET	_	_	6	det	_	_
+6	ойлору	ой	NOUN	_	_	8	nsubj	_	_
+7	да	да	ADV	_	_	6	advmod:emph	_	_
+8	жок	жок	ADJ	_	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	8	punct	_	_
+
+~~~
 
 
 ~~~ conllu
@@ -24,11 +43,11 @@ The following 2 pairs of parts of speech are connected with `nsubj:outer`: <tt><
 # visual-style 14	fgColor:white
 # visual-style 14 6 nsubj:outer	color:blue
 1	Биз	биз	PRON	_	_	3	nsubj	_	_
-2	чечүүгѳ	чеч	VERB	_	_	3	xcomp	_	_
+2	чечүүгө	чеч	VERB	_	_	3	xcomp	_	_
 3	аракет	аракет	NOUN	_	_	4	compound:lvc	_	_
 4	кылып	кыл	VERB	_	_	6	acl	_	_
 5	жаткан	жат	AUX	_	_	4	aux	_	_
-6	кѳйгѳй	кѳйгѳй	NOUN	_	_	14	nsubj:outer	_	_
+6	көйгөй	көйгөй	NOUN	_	_	14	nsubj:outer	_	_
 7	–	–	PUNCT	_	_	6	punct	_	_
 8	китеп	китеп	NOUN	_	_	9	nmod:poss	_	_
 9	текчесинде	текче	NOUN	_	_	13	obl	_	_

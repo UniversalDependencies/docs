@@ -34,14 +34,16 @@ The most frequent other feature values with which `NOUN` and `Degree` co-occurre
 `NOUN` tokens may have the following values of `Degree`:
 
 * `Dim` (4; 100% of non-empty `Degree`): <em>видзоккез, керкуокыс, пельӧсокӧ, чериок</em>
-* `EMPTY` (238): <em>Петя, айӧ, йӧрсӧ, керку, морт, Машакöт, айся, гортас, дорас, дорын</em>
+* `EMPTY` (250): <em>Петя, айӧ, йӧрсӧ, керку, морт, Машакöт, айся, гортас, дорас, дорын</em>
 
 ### `ADV`
 
 1 <tt><a href="koi_uh-pos-ADV.html">ADV</a></tt> tokens (1% of all `ADV` tokens) have a non-empty value of `Degree`.
 
+The most frequent other feature values with which `ADV` and `Degree` co-occurred: <tt><a href="koi_uh-feat-AdvType.html">AdvType</a></tt><tt>=Tim</tt> (1; 100%).
+
 `ADV` tokens may have the following values of `Degree`:
 
 * `Cmp` (1; 100% of non-empty `Degree`): <em>дыржык</em>
-* `EMPTY` (92): <em>кыдз, ни, сэсся, кӧр, сё, талун, чожа, эшӧ, дасöтiсь, кынымкӧ</em>
+* `EMPTY` (101): <em>кыдз, ни, сэсся, кытӧн, кӧр, сё, талун, чожа, эшӧ, дасöтiсь</em>
 

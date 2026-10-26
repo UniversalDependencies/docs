@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Indonesian-CSUI: POS Tags: `SCONJ`
 
-There are 56 `SCONJ` lemmas (1%), 56 `SCONJ` types (1%) and 581 `SCONJ` tokens (2%).
+There are 56 `SCONJ` lemmas (1%), 56 `SCONJ` types (1%) and 580 `SCONJ` tokens (2%).
 Out of 17 observed tags, the rank of `SCONJ` is: 8 in number of lemmas, 8 in number of types and 12 in number of tokens.
 
 The 10 most frequent `SCONJ` lemmas: <em>untuk, dengan, karena, bahwa, sehingga, meski, setelah, sedangkan, maka, yaitu</em>
@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>untuk</em> (<tt><a href="id_csui-pos-
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.085880).
+The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.085628).
 
 The 1st highest number of forms (1) was observed with the lemma “Apabila”: <em>Apabila</em>.
 
@@ -65,11 +65,11 @@ The 3rd highest number of forms (1) was observed with the lemma “Jadi”: <em>
 
 ## Relations
 
-`SCONJ` nodes are attached to their parents using 3 different relations: <tt><a href="id_csui-dep-mark.html">mark</a></tt> (573; 99% instances), <tt><a href="id_csui-dep-fixed.html">fixed</a></tt> (5; 1% instances), <tt><a href="id_csui-dep-obl-tmod.html">obl:tmod</a></tt> (3; 1% instances)
+`SCONJ` nodes are attached to their parents using 3 different relations: <tt><a href="id_csui-dep-mark.html">mark</a></tt> (573; 99% instances), <tt><a href="id_csui-dep-fixed.html">fixed</a></tt> (4; 1% instances), <tt><a href="id_csui-dep-obl-tmod.html">obl:tmod</a></tt> (3; 1% instances)
 
-Parents of `SCONJ` nodes belong to 7 different parts of speech: <tt><a href="id_csui-pos-VERB.html">VERB</a></tt> (444; 76% instances), <tt><a href="id_csui-pos-NOUN.html">NOUN</a></tt> (69; 12% instances), <tt><a href="id_csui-pos-ADJ.html">ADJ</a></tt> (44; 8% instances), <tt><a href="id_csui-pos-PROPN.html">PROPN</a></tt> (20; 3% instances), <tt><a href="id_csui-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="id_csui-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="id_csui-pos-NUM.html">NUM</a></tt> (1; 0% instances)
+Parents of `SCONJ` nodes belong to 7 different parts of speech: <tt><a href="id_csui-pos-VERB.html">VERB</a></tt> (444; 77% instances), <tt><a href="id_csui-pos-NOUN.html">NOUN</a></tt> (69; 12% instances), <tt><a href="id_csui-pos-ADJ.html">ADJ</a></tt> (43; 7% instances), <tt><a href="id_csui-pos-PROPN.html">PROPN</a></tt> (20; 3% instances), <tt><a href="id_csui-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="id_csui-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="id_csui-pos-NUM.html">NUM</a></tt> (1; 0% instances)
 
-572 (98%) `SCONJ` nodes are leaves.
+571 (98%) `SCONJ` nodes are leaves.
 
 9 (2%) `SCONJ` nodes have one child.
 

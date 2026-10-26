@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of nummod in UD_Swiss_German-UZH'
+title:  'Statistics of nummod in UD_Alemannic-UZH'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Swiss_German-UZH: Relations: `nummod`
+## Treebank Statistics: UD_Alemannic-UZH: Relations: `nummod`
 
 This relation is universal.
 

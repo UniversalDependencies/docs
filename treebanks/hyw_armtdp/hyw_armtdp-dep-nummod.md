@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-628 nodes (1%) are attached to their parents as `nummod`.
+623 nodes (1%) are attached to their parents as `nummod`.
 
-626 instances of `nummod` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.40445859872611.
+621 instances of `nummod` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.29213483146067.
 
-The following 5 pairs of parts of speech are connected with `nummod`: <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-NUM.html">NUM</a></tt> (612; 97% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-NUM.html">NUM</a></tt> (8; 1% instances), <tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hyw_armtdp-pos-NUM.html">NUM</a></tt> (4; 1% instances), <tt><a href="hyw_armtdp-pos-SYM.html">SYM</a></tt>-<tt><a href="hyw_armtdp-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+The following 4 pairs of parts of speech are connected with `nummod`: <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-NUM.html">NUM</a></tt> (612; 98% instances), <tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hyw_armtdp-pos-NUM.html">NUM</a></tt> (5; 1% instances), <tt><a href="hyw_armtdp-pos-SYM.html">SYM</a></tt>-<tt><a href="hyw_armtdp-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-NUM.html">NUM</a></tt> (3; 0% instances).
 
 
 ~~~ conllu
@@ -35,71 +35,61 @@ The following 5 pairs of parts of speech are connected with `nummod`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 27	bgColor:blue
-# visual-style 27	fgColor:white
-# visual-style 26	bgColor:blue
-# visual-style 26	fgColor:white
-# visual-style 26 27 nummod	color:blue
-1	ՄԱԿ	ՄԱԿ	PROPN	_	Abbr=Yes|Animacy=Nhum|Case=Nom|Definite=Ind|NameType=Com|Number=Sing	3	nsubj	_	Translit=MAK|LTranslit=MAK
-2	կը	կը	AUX	_	Aspect=Imp|Mood=Ind	3	aux	_	Translit=kë|LTranslit=kë
-3	հաստատէ	հաստատել	VERB	_	Aspect=Prosp|Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=hastatē|LTranslit=hastatel|SpaceAfter=No
-4	,	,	PUNCT	_	_	17	punct	_	Translit=,|LTranslit=,
-5	որ	որ	SCONJ	_	_	17	mark	_	Translit=or|LTranslit=or
-6	2020	2020	NUM	_	NumForm=Digit|NumType=Card	9	nummod	_	Translit=2020|LTranslit=2020|SpaceAfter=No
-7	-	-	PUNCT	_	_	8	punct	_	Translit=-|LTranslit=-|SpaceAfter=No
-8	2021	2021	NUM	_	NumForm=Digit|NumType=Card	6	flat:range	_	Translit=2021|LTranslit=2021
-9	տարեշրջանին	տարեշրջան	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Def|Number=Sing	17	obl	_	Translit=tarešrǰanin|LTranslit=tarešrǰan
-10	կլիմայական	կլիմայական	ADJ	_	_	11	amod	_	Translit=klimayakan|LTranslit=klimayakan
-11	փոփոխութիւններուն	փոփոխութիւն	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Def|Number=Plur	17	obl	_	Translit=p’op’oxowt’iwnnerown|LTranslit=p’op’oxowt’iwn
-12	հետեւանքով	հետեւանքով	ADP	_	AdpType=Post	11	case	_	Translit=hetewank’ov|LTranslit=hetewank’ov
-13	12,5	12,5	NUM	_	NumForm=Digit|NumType=Frac	14	nummod	_	Translit=12,5|LTranslit=12,5
-14	միլիոն	միլիոն	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	15	nmod	_	Translit=milion|LTranslit=milion
-15	բնակչութիւն	բնակչութիւն	NOUN	_	Animacy=Hum|Case=Nom|Definite=Ind|Number=Sing	17	nsubj	_	Translit=bnakčowt’iwn|LTranslit=bnakčowt’iwn
-16	տեղաշարժի	տեղաշարժ	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	17	obj	_	Translit=teġašarži|LTranslit=teġašarž
-17	ենթարկուած	ենթարկուիլ	VERB	_	Aspect=Perf|Polarity=Pos|Subcat=Intr|VerbForm=Part|Voice=Mid	3	ccomp	_	Translit=ent’arkowaç|LTranslit=ent’arkowil
-18	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	17	aux	_	Translit=ē|LTranslit=em|SpaceAfter=No
-19	.	.	PUNCT	_	_	21	punct	_	Translit=.|LTranslit=.
-20	կը	կը	AUX	_	Aspect=Imp|Mood=Ind	21	aux	_	Translit=kë|LTranslit=kë
-21	նախատեսուի	նախատեսել	VERB	_	Aspect=Prosp|Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Pass	3	conj	_	Translit=naxatesowi|LTranslit=naxatesel|SpaceAfter=No
-22	,	,	PUNCT	_	_	26	punct	_	Translit=,|LTranslit=,
-23	որ	որ	SCONJ	_	_	26	mark	_	Translit=or|LTranslit=or
-24	այս	այս	DET	_	Deixis=Prox|PronType=Dem	25	det	_	Translit=ays|LTranslit=ays
-25	թիւը	թիւ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	26	nsubj	_	Translit=t’iwë|LTranslit=t’iw
-26	հասնի	հասնիլ	VERB	_	Aspect=Prosp|Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Mid	21	csubj:pass	_	Translit=hasni|LTranslit=hasnil
-27	20	20	NUM	_	NumForm=Digit|NumType=Card	26	nummod	_	Translit=20|LTranslit=20
-28	միլիոնի	միլիոն	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	26	obl	_	Translit=milioni|LTranslit=milion|SpaceAfter=No
-29	:	:	PUNCT	_	Foreign=Yes	3	punct	_	Translit=.|LTranslit=.
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 4 nummod	color:blue
+1	Բաց	բաց	ADP	_	AdpType=Ambi|Style=Rare	2	case	_	Translit=Bac’|LTranslit=bac’
+2	աստի	աստի	PRON	_	Deixis=Prox|PronType=Dem|Style=Rare	12	parataxis	_	Translit=asti|LTranslit=asti|SpaceAfter=No
+3	,	,	PUNCT	_	_	12	punct	_	Translit=,|LTranslit=,
+4	200	200	NUM	_	NumForm=Digit|NumType=Card	5	nummod	_	Translit=200|LTranslit=200
+5	քառակուսի	քառակուսի	ADJ	_	_	7	nmod	_	Translit=k’aṙakowsi|LTranslit=k’aṙakowsi
+6	մեթր	մեթր	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	5	compound	_	Translit=met’r|LTranslit=met’r
+7	տարածքով	տարածք	NOUN	_	Animacy=Nhum|Case=Ins|Definite=Ind|Number=Sing	8	nmod	_	Translit=taraçk’ov|LTranslit=taraçk’
+8	պարտէզ	պարտէզ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	12	obj	_	Translit=partēz|LTranslit=partēz
+9	մըն	մը	DET	_	PronType=Art	8	det	_	Translit=mën|LTranslit=më
+10	ալ	ալ	ADV	_	_	8	advmod:emph	_	Translit=al|LTranslit=al
+11	պիտի	պիտի	AUX	_	Aspect=Prosp|Mood=Ind|Polarity=Pos	12	aux	_	Translit=piti|LTranslit=piti
+12	ունենայ	ունենալ	VERB	_	Aspect=Prosp|Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=ownenay|LTranslit=ownenal
+13	ապարանքը	ապարանք	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	12	nsubj	_	Translit=aparank’ë|LTranslit=aparank’|SpaceAfter=No
+14	։	։	PUNCT	_	_	12	punct	_	Translit=.|LTranslit=.
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 11 7 nummod	color:blue
-1	Եւ	եւ	CCONJ	_	_	2	cc	_	Translit=EW|LTranslit=ew
-2	պատասխանել	պատասխանել	VERB	_	Polarity=Pos|Subcat=Intr|VerbForm=Inf|Voice=Mid	0	root	_	Translit=patasxanel|LTranslit=patasxanel
-3	հետեւեալ	հետեւեալ	ADJ	_	_	4	amod	_	Translit=heteweal|LTranslit=heteweal
-4	հարցումին	հարցում	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Def|Number=Sing	2	obj	_	Translit=harc’owmin|LTranslit=harc’owm|SpaceAfter=No
-5	.	.	PUNCT	_	_	11	punct	_	Translit=.|LTranslit=.
-6	(	(	PUNCT	_	_	7	punct	_	Translit=(|LTranslit=(|SpaceAfter=No
-7	գ	գ	NUM	_	NumForm=Armenian|NumType=Card	11	nummod	_	Translit=g|LTranslit=g|SpaceAfter=No
-8	)	)	PUNCT	_	_	7	punct	_	Translit=)|LTranslit=)
-9	արդեոք	արդեօք	PART	_	Typo=Yes	11	discourse	_	Translit=ardeok’|LTranslit=ardeòk’
-10	՞	՞	PUNCT	_	_	9	punct	_	Translit=?|LTranslit=?
-11	կարելի	կարելի	ADJ	_	_	2	parataxis	_	Translit=kareli|LTranslit=kareli
-12	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	11	cop	_	Translit=ē|LTranslit=em
-13	այդ	այդ	DET	_	Deixis=Med|PronType=Dem	14	det	_	Translit=ayd|LTranslit=ayd
-14	վտանգները	վտանգ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Plur	15	obj	_	Translit=vtangnerë|LTranslit=vtang
-15	նուազեցնել	նուազեցնել	VERB	_	Polarity=Pos|Subcat=Tran|VerbForm=Inf|Voice=Act	11	xcomp	_	Translit=nowazec’nel|LTranslit=nowazec’nel
-16	Թուրքիոյ	Թուրքիա	PROPN	_	Animacy=Nhum|Case=Dat|Definite=Ind|NameType=Geo|Number=Sing	20	obl	_	Translit=T’owrk’ioy|LTranslit=T’owrk’ia
-17	եւ	եւ	CCONJ	_	_	18	cc	_	Translit=ew|LTranslit=ew
-18	Ազրպէյճանի	Ազրպէյճան	PROPN	_	Animacy=Nhum|Case=Dat|Definite=Ind|NameType=Geo|Number=Sing	16	conj	_	Translit=Azrpēyč̣ani|LTranslit=Azrpēyč̣an
-19	հետ	հետ	ADP	_	AdpType=Post	16	case	_	Translit=het|LTranslit=het
-20	խօսելով	խօսիլ	VERB	_	Case=Ins|Definite=Ind|Polarity=Pos|Subcat=Intr|VerbForm=Inf|Voice=Mid	15	advcl	_	Translit=xòselov|LTranslit=xòsil|SpaceAfter=No
-21	։	։	PUNCT	_	_	2	punct	_	Translit=.|LTranslit=.
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 9 nummod	color:blue
+1	Ըստ	ըստ	ADP	_	AdpType=Prep	3	case	_	Translit=Ëst|LTranslit=ëst
+2	պաշտօնական	պաշտօնական	ADJ	_	_	3	amod	_	Translit=paštònakan|LTranslit=paštònakan
+3	աղբիւրներու	աղբիւր	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Plur	13	obl	_	Translit=aġbiwrnerow|LTranslit=aġbiwr|SpaceAfter=No
+4	՝	՝	PUNCT	_	_	13	punct	_	Translit=,|LTranslit=,
+5	Ալֆրետ	Ալֆրետ	PROPN	_	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Giv|Number=Sing	13	nsubj	_	Translit=Alfret|LTranslit=Alfret
+6	Նոպէլ	Նոպէլ	PROPN	_	Animacy=Hum|Case=Nom|Definite=Def|NameType=Sur|Number=Sing	5	flat:name	_	Translit=Nopēl|LTranslit=Nopēl
+7	իր	իր	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Emp|Reflex=Yes	8	det:poss	_	Translit=ir|LTranslit=ir
+8	հարստութեան	հարստութիւն	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Coll	10	nmod:poss	_	Translit=harstowt’ean|LTranslit=harstowt’iwn
+9	94	94	NUM	_	NumForm=Digit|NumType=Card	10	nummod	_	Translit=94|LTranslit=94|SpaceAfter=No
+10	%	%	SYM	_	_	13	obj	_	Translit=%|LTranslit=%|SpaceAfter=No
+11	-	-	PUNCT	_	_	12	punct	_	Translit=-|LTranslit=-|SpaceAfter=No
+12	ը	ը	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Hyph=Yes|Number=Sing	10	dep	_	Translit=ë|LTranslit=ë
+13	կտակած	կտակել	VERB	_	Aspect=Perf|Polarity=Pos|Subcat=Tran|VerbForm=Part|Voice=Act	0	root	_	Translit=ktakaç|LTranslit=ktakel
+14	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	13	aux	_	Translit=ē|LTranslit=em
+15	Նոպէլեան	նոպէլեան	ADJ	_	_	16	amod	_	Translit=Nopēlean|LTranslit=nopēlean
+16	հիմնադրամին	հիմնադրամ	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Def|Number=Sing	13	iobj	_	Translit=himnadramin|LTranslit=himnadram|SpaceAfter=No
+17	,	,	PUNCT	_	_	21	punct	_	Translit=,|LTranslit=,
+18	որ	որ	PRON	_	Case=Nom|Definite=Ind|Number=Sing|PronType=Rel	21	nsubj	_	Translit=or|LTranslit=or
+19	ներկայիս	ներկայ	NOUN	_	Animacy=Nhum|Case=Dat|Deixis=Prox|ExtPos=ADV|Number=Coll	21	advmod	_	Translit=nerkayis|LTranslit=nerkay
+20	կը	կը	AUX	_	Aspect=Imp|Mood=Ind	21	aux	_	Translit=kë|LTranslit=kë
+21	կազմէ	կազմել	VERB	_	Aspect=Prosp|Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	16	acl:relcl	_	Translit=kazmē|LTranslit=kazmel
+22	Նոպէլեան	նոպէլեան	ADJ	_	_	23	amod	_	Translit=Nopēlean|LTranslit=nopēlean
+23	մրցանակին	մրցանակ	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Def|Number=Sing	25	nmod:poss	_	Translit=mrc’anakin|LTranslit=mrc’anak
+24	տնտեսական	տնտեսական	ADJ	_	_	25	amod	_	Translit=tntesakan|LTranslit=tntesakan
+25	հիմքը	հիմք	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	21	xcomp	_	Translit=himk’ë|LTranslit=himk’|SpaceAfter=No
+26	։	։	PUNCT	_	_	13	punct	_	Translit=.|LTranslit=.
 
 ~~~
 

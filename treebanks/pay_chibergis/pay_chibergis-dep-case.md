@@ -8,25 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-284 nodes (11%) are attached to their parents as `case`.
+476 nodes (11%) are attached to their parents as `case`.
 
-282 instances of `case` (99%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.17957746478873.
+476 instances of `case` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.1953781512605.
 
-The following 12 pairs of parts of speech are connected with `case`: <tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt>-<tt><a href="pay_chibergis-pos-ADP.html">ADP</a></tt> (97; 34% instances), <tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt>-<tt><a href="pay_chibergis-pos-PART.html">PART</a></tt> (78; 27% instances), <tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pay_chibergis-pos-ADP.html">ADP</a></tt> (57; 20% instances), <tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pay_chibergis-pos-PART.html">PART</a></tt> (32; 11% instances), <tt><a href="pay_chibergis-pos-ADV.html">ADV</a></tt>-<tt><a href="pay_chibergis-pos-ADP.html">ADP</a></tt> (8; 3% instances), <tt><a href="pay_chibergis-pos-ADV.html">ADV</a></tt>-<tt><a href="pay_chibergis-pos-PART.html">PART</a></tt> (4; 1% instances), <tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pay_chibergis-pos-SCONJ.html">SCONJ</a></tt> (2; 1% instances), <tt><a href="pay_chibergis-pos-X.html">X</a></tt>-<tt><a href="pay_chibergis-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="pay_chibergis-pos-INTJ.html">INTJ</a></tt>-<tt><a href="pay_chibergis-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="pay_chibergis-pos-PART.html">PART</a></tt>-<tt><a href="pay_chibergis-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="pay_chibergis-pos-X.html">X</a></tt>-<tt><a href="pay_chibergis-pos-ADP.html">ADP</a></tt> (1; 0% instances).
-
-
-~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 2 case	color:blue
-1	ã	ã	PRON	PRO	_	3	obl:arg	_	AlignBegin=49170|AlignEnd=49500|Gloss=DIST.DEM|MGloss=DIST.DEM|MSeg=ã|nWord=1|RX=[PRO]|TokenType=Root|Word=ã
-2	=yã	=yã	ADP	POST	_	1	case	_	AlignBegin=49500|AlignEnd=49830|Gloss==LOC|MGloss==LOC|MSeg==yã|nWord=2|RX=[POST]|TokenType=Clit|Word=yã
-3	tʃabaruri	tʃa	AUX	V:ANY	Clusivity=Ex	0	root	_	AlignBegin=49830|AlignEnd=50160|Gloss=be.there|MGloss=be.there -S1PL.EXCL -HAB -PST|MSeg=tʃa-bar-u-ri|nWord=3|RX=[VI]|TokenType=Root|Word=tʃabruri|wordform=tʃa-bar-u-ri
-
-~~~
+The following 14 pairs of parts of speech are connected with `case`: <tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt>-<tt><a href="pay_chibergis-pos-PART.html">PART</a></tt> (143; 30% instances), <tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt>-<tt><a href="pay_chibergis-pos-ADP.html">ADP</a></tt> (137; 29% instances), <tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pay_chibergis-pos-ADP.html">ADP</a></tt> (92; 19% instances), <tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pay_chibergis-pos-PART.html">PART</a></tt> (63; 13% instances), <tt><a href="pay_chibergis-pos-ADV.html">ADV</a></tt>-<tt><a href="pay_chibergis-pos-ADP.html">ADP</a></tt> (16; 3% instances), <tt><a href="pay_chibergis-pos-ADV.html">ADV</a></tt>-<tt><a href="pay_chibergis-pos-PART.html">PART</a></tt> (8; 2% instances), <tt><a href="pay_chibergis-pos-X.html">X</a></tt>-<tt><a href="pay_chibergis-pos-PART.html">PART</a></tt> (5; 1% instances), <tt><a href="pay_chibergis-pos-X.html">X</a></tt>-<tt><a href="pay_chibergis-pos-ADP.html">ADP</a></tt> (4; 1% instances), <tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pay_chibergis-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="pay_chibergis-pos-NUM.html">NUM</a></tt>-<tt><a href="pay_chibergis-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="pay_chibergis-pos-INTJ.html">INTJ</a></tt>-<tt><a href="pay_chibergis-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="pay_chibergis-pos-PART.html">PART</a></tt>-<tt><a href="pay_chibergis-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="pay_chibergis-pos-X.html">X</a></tt>-<tt><a href="pay_chibergis-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -47,13 +34,26 @@ The following 12 pairs of parts of speech are connected with `case`: <tt><a href
 
 
 ~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 case	color:blue
+1	ã	ã	PRON	PRO	_	3	obl:arg	_	AlignBegin=49170|AlignEnd=49500|Gloss=DIST.DEM|MGloss=DIST.DEM|MSeg=ã|nWord=1|RX=[PRO]|TokenType=Root|Word=ã
+2	=yã	=yã	ADP	POST	_	1	case	_	AlignBegin=49500|AlignEnd=49830|Gloss==LOC|MGloss==LOC|MSeg==yã|nWord=2|RX=[POST]|TokenType=Clit|Word=yã
+3	tʃabaruri	tʃa	AUX	V:ANY	Clusivity=Ex	0	root	_	AlignBegin=49830|AlignEnd=50160|Gloss=be.there|MGloss=be.there -S1PL.EXCL -HAB -PST|MSeg=tʃa-bar-u-ri|nWord=3|RX=[VI]|TokenType=Root|Word=tʃabruri|wordform=tʃa-bar-u-ri
+
+~~~
+
+
+~~~ conllu
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 6 case	color:blue
 1	tas	tas	PRON	PRO	_	2	nsubj	_	AlignBegin=27840|AlignEnd=28721|Gloss=PRO1|MGloss=PRO1|MSeg=tas|nWord=1|RX=[PRO]|TokenType=Root|Word=tas
-2	ye	ye	NOUN	N	_	7	advcl	_	AlignBegin=28721|AlignEnd=29602|Gloss=small|MGloss=small|MSeg=ye|nWord=2|RX=[N]|TokenType=Root|Word=ye
+2	ye	ye	NOUN	N	_	7	obl:tmod	_	AlignBegin=28721|AlignEnd=29602|Gloss=small|MGloss=small|MSeg=ye|nWord=2|RX=[N]|TokenType=Root|Word=ye
 3	=rira	r	AUX	COP	_	2	cop	_	AlignBegin=29602|AlignEnd=30483|Gloss==COP:S1SG:PST|MGloss==COP:S1SG:PST|MSeg==rira|nWord=3|RX=[COP]|TokenType=Clit|Word=rira
 4	=mã	=mã	SCONJ	PRT	_	2	mark	_	AlignBegin=30483|AlignEnd=31364|Gloss==when|MGloss==when|MSeg==mã|nWord=4|RX=[PRT]|TokenType=Clit|Word=mã
 5	tasuwa	suwa	NOUN	N	_	7	obl:arg	_	AlignBegin=31364|AlignEnd=32245|Gloss=grandmother|MGloss=POSS1- grandmother|MSeg=ta-suwa|nWord=5|RX=[N]|TokenType=Root|Word=tasuwa|wordform=ta-suwa

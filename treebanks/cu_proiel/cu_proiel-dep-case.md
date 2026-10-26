@@ -53,8 +53,8 @@ The following 10 pairs of parts of speech are connected with `case`: <tt><a href
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 case	color:blue
-1	О	о	ADP	R-	_	2	case	_	ref=76.1
-2	ІДІТОУМѢ	идитоумъ	PROPN	Ne	Case=Loc|Gender=Masc|Number=Sing	0	root	_	ref=76.1
+1	О	о	ADP	R-	_	2	case	_	Ref=76.1
+2	ІДІТОУМѢ	идитоумъ	PROPN	Ne	Case=Loc|Gender=Masc|Number=Sing	0	root	_	Ref=76.1
 
 ~~~
 

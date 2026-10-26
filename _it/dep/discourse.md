@@ -21,4 +21,8 @@ discourse(Brava, complimenti)
 ~~~
 
 <code>discourse:emo</code> is used in PoSTWITA for emoticons/emojis.
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:50 CET -->
+
+[discourse:filler](discourse-filler) is used in KIParla, a corpus of spoken Italian, for fillers (filled pauses and function words used as fillers).
+
+[discourse:tag](discourse-tag) is used in KIParla for tags that ask the interlocutor for confirmation (*no*, *giusto*).
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:03 CEST -->

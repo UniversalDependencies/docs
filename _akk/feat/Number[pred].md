@@ -21,4 +21,4 @@ Layered feature encoding number of predicative suffix attached to noun in predic
 
 
 
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:52 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:07 CEST -->

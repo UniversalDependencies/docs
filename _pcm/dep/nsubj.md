@@ -30,4 +30,4 @@ The `nsubj` relation is used between a clause and its nominal subject.
 4	man	_	_	_	_	0	_	_	_
 
 ~~~
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:11:07 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:22 CEST -->

@@ -11,9 +11,27 @@ This relation is universal.
 2 nodes (1%) are attached to their parents as `discourse`.
 
 2 instances of `discourse` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.
+Average distance between parent and child is 4.
 
-The following 1 pairs of parts of speech are connected with `discourse`: <tt><a href="ltg_cairo-pos-VERB.html">VERB</a></tt>-<tt><a href="ltg_cairo-pos-PART.html">PART</a></tt> (2; 100% instances).
+The following 2 pairs of parts of speech are connected with `discourse`: <tt><a href="ltg_cairo-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ltg_cairo-pos-PART.html">PART</a></tt> (1; 50% instances), <tt><a href="ltg_cairo-pos-VERB.html">VERB</a></tt>-<tt><a href="ltg_cairo-pos-PART.html">PART</a></tt> (1; 50% instances).
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 1 discourse	color:blue
+1	Voi	voi	PART	q	_	7	discourse	7:discourse	LvtbNodeId=a-ltg-Cairo-p10s1w1
+2	Igvasu	Igvasu	PROPN	np0000	_	7	nsubj	7:nsubj	LvtbNodeId=a-ltg-Cairo-p10s1w2
+3	ir	byut	AUX	vcnipii30an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	7	cop	7:cop	LvtbNodeId=a-ltg-Cairo-p10s1w3
+4	lela	lels	ADJ	affsnnp	Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	7	amod	7:amod	LvtbNodeId=a-ltg-Cairo-p10s1w4
+5	voi	voi	CCONJ	cc	_	6	cc	6:cc	LvtbNodeId=a-ltg-Cairo-p10s1w5
+6	moza	mozs	ADJ	affsnnp	Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	4	conj	4:conj|7:amod	LvtbNodeId=a-ltg-Cairo-p10s1w6
+7	vaļsts	vaļsts	NOUN	ncfsn6	Case=Nom|Gender=Fem|Number=Sing	0	root	0:root	LvtbNodeId=a-ltg-Cairo-p10s1w7|SpaceAfter=No
+8	?	?	PUNCT	zs	_	7	punct	7:punct	LvtbNodeId=a-ltg-Cairo-p10s1w8
+
+~~~
 
 
 ~~~ conllu

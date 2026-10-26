@@ -27,7 +27,7 @@ The following 6 pairs of parts of speech are connected with `det`: <tt><a href="
 3	ஜெர்மானிய	ஜெர்மனி	PROPN	NO--3SN--	Gender=Neut|Number=Sing|Person=3	4	nmod	4:nmod	Translit=jermāniya|LTranslit=jermani
 4	அரசு	அரசு	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	7	nsubj	7:nsubj	Translit=aracu|LTranslit=aracu
 5	ஒரு	ஒரு	DET	DD-------	_	6	det	6:det	Translit=oru|LTranslit=oru
-6	முடிவு	முடிவு	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	7	nsubj	7:nsubj	Translit=muṭivu|LTranslit=muṭivu
+6	முடிவு	முடிவு	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	7	obj	7:obj	Translit=muṭivu|LTranslit=muṭivu
 7	எதுத்தது	எடு	VERB	Vr-D3SNAA	Gender=Neut|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No|Translit=etuttatu|LTranslit=eṭu
 8	.	.	PUNCT	Z#-------	PunctType=Peri	7	punct	7:punct	Translit=.|LTranslit=.
 

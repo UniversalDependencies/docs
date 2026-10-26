@@ -10,17 +10,17 @@ This feature is universal.
 It occurs with 2 different values: `Cmp`, `Sup`.
 
 511 tokens (1%) have a non-empty value of `Degree`.
-2 types (0%) occur at least once with a non-empty value of `Degree`.
+4 types (0%) occur at least once with a non-empty value of `Degree`.
 2 lemmas (0%) occur at least once with a non-empty value of `Degree`.
 The feature is used with 1 part-of-speech tags: <tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> (511; 1% instances).
 
 ### `ADV`
 
-511 <tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> tokens (7% of all `ADV` tokens) have a non-empty value of `Degree`.
+511 <tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> tokens (8% of all `ADV` tokens) have a non-empty value of `Degree`.
 
 `ADV` tokens may have the following values of `Degree`:
 
-* `Cmp` (433; 85% of non-empty `Degree`): <em>DAHA</em>
-* `Sup` (78; 15% of non-empty `Degree`): <em>EN</em>
-* `EMPTY` (6769): <em>ÇOK, OLARAK, BİRAZ, GAYET, HİÇ, SADECE, ÖZELLİKLE, PEK, KESİNLİKLE, HEP</em>
+* `Cmp` (433; 85% of non-empty `Degree`): <em>daha</em>
+* `Sup` (78; 15% of non-empty `Degree`): <em>en</em>
+* `EMPTY` (5855): <em>çok, biraz, gayet, hiç, sadece, özellikle, pek, kesinlikle, hep, gerçekten</em>
 

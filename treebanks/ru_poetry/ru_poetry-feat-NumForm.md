@@ -18,7 +18,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="ru_poetry-pos-NUM.h
 
 252 <tt><a href="ru_poetry-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumForm`.
 
-The most frequent other feature values with which `NUM` and `NumForm` co-occurred: <tt><a href="ru_poetry-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (238; 94%), <tt><a href="ru_poetry-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (198; 79%).
+The most frequent other feature values with which `NUM` and `NumForm` co-occurred: <tt><a href="ru_poetry-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (238; 94%), <tt><a href="ru_poetry-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (191; 76%).
 
 `NUM` tokens may have the following values of `NumForm`:
 

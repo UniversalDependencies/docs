@@ -8,46 +8,26 @@ udver: '2'
 
 This relation is universal.
 
-33 nodes (4%) are attached to their parents as `obj`.
+1338 nodes (6%) are attached to their parents as `obj`.
 
-33 instances of `obj` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.93939393939394.
+1291 instances of `obj` (96%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.81913303437967.
 
-The following 8 pairs of parts of speech are connected with `obj`: <tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt>-<tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt> (20; 61% instances), <tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt> (5; 15% instances), <tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt>-<tt><a href="ota_dudu-pos-PRON.html">PRON</a></tt> (3; 9% instances), <tt><a href="ota_dudu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt> (1; 3% instances), <tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ota_dudu-pos-PRON.html">PRON</a></tt> (1; 3% instances), <tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt>-<tt><a href="ota_dudu-pos-ADJ.html">ADJ</a></tt> (1; 3% instances), <tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt>-<tt><a href="ota_dudu-pos-ADV.html">ADV</a></tt> (1; 3% instances), <tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt>-<tt><a href="ota_dudu-pos-PROPN.html">PROPN</a></tt> (1; 3% instances).
-
-
-~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 4 obj	color:blue
-1	sen	sen	PRON	_	PronType=Prs	2	nsubj	_	_
-2	var	var	NOUN	_	Number=Sing|Person=3|Polarity=Pos	5	advcl	_	_
-3	iken	iken	ADV	_	_	2	case	_	_
-4	av	av	NOUN	_	Case=Nom|Number=Sing|Person=3	5	obj	_	_
-5	avladı	avla	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	0	root	_	_
-6	ḳuş	ḳuş	NOUN	_	Case=Nom|Number=Sing|Person=3	7	obj	_	_
-7	ḳuşladı	ḳuşla	VERB	_	Aspect=Perf|Evident=Fh|Number=Sing|Person=3|Polarity=Pos|Tense=Past	5	conj	_	_
-
-~~~
+The following 21 pairs of parts of speech are connected with `obj`: <tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt>-<tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt> (852; 64% instances), <tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt> (230; 17% instances), <tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt>-<tt><a href="ota_dudu-pos-PRON.html">PRON</a></tt> (91; 7% instances), <tt><a href="ota_dudu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt> (39; 3% instances), <tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt>-<tt><a href="ota_dudu-pos-PROPN.html">PROPN</a></tt> (35; 3% instances), <tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ota_dudu-pos-PRON.html">PRON</a></tt> (24; 2% instances), <tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ota_dudu-pos-PROPN.html">PROPN</a></tt> (15; 1% instances), <tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt>-<tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt> (13; 1% instances), <tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt>-<tt><a href="ota_dudu-pos-ADJ.html">ADJ</a></tt> (11; 1% instances), <tt><a href="ota_dudu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ota_dudu-pos-PRON.html">PRON</a></tt> (5; 0% instances), <tt><a href="ota_dudu-pos-PRON.html">PRON</a></tt>-<tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt> (5; 0% instances), <tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt> (4; 0% instances), <tt><a href="ota_dudu-pos-AUX.html">AUX</a></tt>-<tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ota_dudu-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="ota_dudu-pos-ADV.html">ADV</a></tt>-<tt><a href="ota_dudu-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="ota_dudu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ota_dudu-pos-ADP.html">ADP</a></tt>-<tt><a href="ota_dudu-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ota_dudu-pos-ADV.html">ADV</a></tt>-<tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ota_dudu-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ota_dudu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ota_dudu-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt>-<tt><a href="ota_dudu-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 5 4 obj	color:blue
-1	zîrâ	zîrâ	CCONJ	_	_	9	cc	_	_
-2	ḥaḳîḳatde	ḥaḳîḳat	NOUN	_	Case=Loc|Number=Sing|Person=3	5	obl	_	_
-3	bir	bir	DET	Indef	_	4	det	_	_
-4	şeyʾi	şeyʾ	NOUN	_	Case=Acc|Number=Sing|Person=3	5	obj	_	_
-5	idrâk	idrâk	NOUN	_	Case=Nom|Number=Sing|Person=3	9	nsubj	_	_
-6	itmek	et	VERB	Vnoun	Case=Nom|Number=Sing|Person=3|Polarity=Pos	5	compound:lvc	_	_
-7	ol	ol	DET	Demons	_	8	det	_	_
-8	şeyʾe	şeyʾ	NOUN	_	Case=Dat|Number=Sing|Person=3	9	obl	_	_
-9	yetişmekdür	yetiş	VERB	Vnoun	Case=Nom|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	0	root	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 5 obj	color:blue
+1	baʿdehū	baʿdehū	ADV	_	_	6	advmod	_	_
+2	eski	eski	ADJ	Adj	_	3	amod	_	_
+3	sarāya	sarāy	NOUN	_	Case=Dat|Number=Sing|Person=3	4	obl	_	_
+4	varup	var	VERB	Conv	Polarity=Pos|VerbForm=Conv	6	advcl	_	_
+5	istirāḥat	istirāḥat	NOUN	_	Case=Nom|Number=Sing|Person=3	6	obj	_	_
+6	buyurdılar	buyur	VERB	_	Aspect=Perf|Evident=Fh|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	0	root	_	_
 
 ~~~
 
@@ -58,13 +38,28 @@ The following 8 pairs of parts of speech are connected with `obj`: <tt><a href="
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 3 obj	color:blue
-1	oġuz	oġuz	NOUN	_	Case=Nom|Number=Sing|Person=3	4	nsubj	_	_
-2	begleri	beg	NOUN	_	Case=Nom|Number=Plur|Number[psor]=Sing|Person=3|Person[psor]=3	1	flat	_	_
-3	bunı	bu	PRON	_	PronType=Dem	4	obj	_	_
-4	eşitdiler	eşit	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	0	root	_	_
-5	şâd	şâd	ADJ	Adj	_	7	xcomp	_	_
-6	olup	ol	VERB	Conv	Polarity=Pos|VerbForm=Conv	7	advcl	_	_
-7	sevindiler	sevin	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	4	conj	_	_
+1	ol	ol	DET	Demons	Definite=Def|PronType=Art	2	det	_	_
+2	ṭarīḳla	ṭarīḳ	NOUN	_	Case=Ins|Number=Sing|Person=3	4	obl	_	_
+3	āteş	āteş	NOUN	_	Case=Nom|Number=Sing|Person=3	4	obj	_	_
+4	peydā	peydā	NOUN	_	Case=Nom|Number=Sing|Person=3	0	root	_	_
+5	iderlerdi	it	VERB	_	Aspect=Hab|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	4	compound:lvc	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 3 obj	color:blue
+1	oġuz	oġuz	NOUN	_	Case=Nom|Number=Sing|Person=3	2	nmod	_	_
+2	begleri	beg	NOUN	_	Case=Nom|Number=Plur|Number[psor]=Sing|Person=3|Person[psor]=3	4	nsubj	_	_
+3	bunı	bu	PRON	Demons	Case=Acc|Number=Sing|Person=3|PronType=Dem	4	obj	_	_
+4	eşitdiler	eşit	VERB	_	Aspect=Perf|Evident=Fh|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	0	root	_	_
+5	şād	şād	ADJ	Adj	_	7	advcl	_	_
+6	olup	ol	VERB	Conv	Polarity=Pos|VerbForm=Conv	5	compound:lvc	_	_
+7	sevindiler	sevin	VERB	_	Aspect=Perf|Evident=Fh|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	4	conj	_	_
 
 ~~~
 

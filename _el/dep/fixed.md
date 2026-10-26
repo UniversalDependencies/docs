@@ -26,15 +26,36 @@ fixed(καλού -1-, κακού -3-)
 ~~~
 
 ~~~ sdparse
-στο τσακ
-fixed(στο -1-, τσακ -2-)
+σ το τσακ
+fixed(σ -1-, το -2-)
+fixed(σ -1-, τσακ -3-)
 ~~~
 
 ~~~ sdparse
 Πρέπει να είμαστε απολύτως σαφείς ως προς αυτό . \n We need to be absolutely clear on this.
 fixed(ως, προς)
-case(αυτό, προς)
+case(αυτό, ως)
 ~~~
 
+---------------------
+**Cretan**
 
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:54 CET -->
+-έτσι που (ExtPos=SCONJ), "so that"
+
+e.g., *Μόνο, άνε θες, να πάρεις φαμέγιο το Μιχαλιό μου, έτσι.ADV που.SCONJ να σε ξεμιστεύγει ο Θιος.*
+"Only, if you wish, take my Michalis as a famégio (a traditional Cretan live-in servant/apprentice paid in food and lodging), so that God will bless you."
+
+~~~ sdparse
+Μόνο, άνε θες, να πάρεις φαμέγιο το Μιχαλιό μου, έτσι που να σε ξεμιστεύγει ο Θιος.
+mark(ξεμιστεύγει, έτσι)
+fixed(έτσι, που)
+~~~
+
+-μια ολιά (ExtPos=ADV), "a little"
+-εδά και χρόνια (ExtPos=ADV), "for many years"
+-τάδε που λοιπόν (ExtPos=INTJ), "so, you know"
+
+
+----------------------
+
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:08 CEST -->

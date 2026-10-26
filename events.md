@@ -6,8 +6,14 @@ udver: '2'
 
 # UD Events
 
-## 2025
+## 2027
+  * [10th Workshop on Universal Dependencies (UDW)](https://universaldependencies.org/udw27/) at [SyntaxFest in Prague](https://syntaxfest.github.io/syntaxfest27/)
 
+## 2026
+  * [9th Workshop on Universal Dependencies (UDW)](https://universaldependencies.org/udw26/)
+
+## 2025
+  * [2nd Workshop on UD treebanks for Turkic Languages (UDTW) in Ljubljana](https://ud-turkic.github.io/udtw25/)
   * [8th Workshop on Universal Dependencies (UDW)](https://universaldependencies.org/udw25/) at [SyntaxFest in Ljubljana](https://syntaxfest.github.io/syntaxfest25/)
 
 ## 2024
@@ -17,13 +23,14 @@ udver: '2'
 
 ## 2023
 
-  * [Workshop on UD treebanks for Turkic Languages](https://ud-turkic.github.io/udtw23/)
+  * [Workshop on UD treebanks for Turkic Languages (UDTW)](https://ud-turkic.github.io/udtw23/)
   * [6th Workshop on Universal Dependencies (UDW)](https://universaldependencies.org/udw23/)
 
 ## 2022
 
   * [UniDive COST Action](https://www.cost.eu/actions/CA21167/) is a joint project of Universal Dependencies and PARSEME, seeking to reach to other communities, such as UniMorph
     * [UniDive home page](https://unidive.lisn.upsaclay.fr/)
+  * Note: [5th Workshop on Universal Dependencies (UDW)](https://universaldependencies.org/udw21/), originally planned for November 2021, was postponed due to the pandemic and took place in March 2022
 
 ## 2021
 

@@ -29,7 +29,7 @@ The most frequent other feature values with which `DET` and `Reflex` co-occurred
 
 357 <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> tokens (4% of all `PRON` tokens) have a non-empty value of `Reflex`.
 
-The most frequent other feature values with which `PRON` and `Reflex` co-occurred: <tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (357; 100%), <tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (357; 100%), <tt><a href="orv_rnc-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (357; 100%), <tt><a href="orv_rnc-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (357; 100%).
+The most frequent other feature values with which `PRON` and `Reflex` co-occurred: <tt><a href="orv_rnc-feat-ExtPos.html">ExtPos</a></tt><tt>=EMPTY</tt> (357; 100%), <tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (357; 100%), <tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (357; 100%), <tt><a href="orv_rnc-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (357; 100%), <tt><a href="orv_rnc-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (357; 100%).
 
 `PRON` tokens may have the following values of `Reflex`:
 
@@ -45,7 +45,7 @@ The most frequent other feature values with which `VERB` and `Reflex` co-occurre
 `VERB` tokens may have the following values of `Reflex`:
 
 * `Yes` (236; 100% of non-empty `Reflex`): <em>вступаться, родитца, учинилась, бранитися, радоватисꙗ, доведется, дожидаясь, смилуйся, ꙋчинит, возвесели(м)сꙗ</em>
-* `EMPTY` (14616): <em>смерено, взято, велел, пожаловал, дал, писал, сказал, велѣлъ, принето, послал</em>
+* `EMPTY` (14617): <em>смерено, взято, велел, пожаловал, дал, писал, сказал, велѣлъ, принето, послал</em>
 
 `Reflex` seems to be **lexical feature** of `VERB`. 100% lemmas (137) occur only with one value of `Reflex`.
 

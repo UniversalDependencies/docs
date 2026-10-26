@@ -69,7 +69,7 @@ The following 9 pairs of parts of speech are connected with `discourse:filler`: 
 5	a	a	ADP	fs	_	7	case	_	_
 6	mi	mi	DET	dp1css	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	7	det	_	_
 7	hermano	hermano	NOUN	ncms000	Gender=Masc|Number=Sing	4	obl:arg	_	SpaceAfter=No
-8	:	:	PUNCT	fd	PunctType=Colo	7	punct	_	_
+8	:	:	PUNCT	fd	PunctType=Colo	9	punct	_	_
 9	Joe	Joe	PROPN	_	_	7	appos	_	SpaceAfter=No
 10	,	,	PUNCT	fc	PunctType=Comm	11	punct	_	_
 11	cuidao	cuidado	NOUN	i	Gender=Masc|Number=Sing	4	obj	_	Ortho=cuidado|SpaceAfter=No

@@ -64,12 +64,12 @@ The 2nd highest number of forms (3) was observed with the lemma “aut”: <em>a
 
 The 3rd highest number of forms (3) was observed with the lemma “seu”: <em>seo, seu, seum</em>.
 
-`CCONJ` occurs with 2 features: <tt><a href="la_llct-feat-PronType.html">PronType</a></tt> (12; 0% instances), <tt><a href="la_llct-feat-Polarity.html">Polarity</a></tt> (1; 0% instances)
+`CCONJ` occurs with 3 features: <tt><a href="la_llct-feat-ExtPos.html">ExtPos</a></tt> (124; 1% instances), <tt><a href="la_llct-feat-PronType.html">PronType</a></tt> (12; 0% instances), <tt><a href="la_llct-feat-Polarity.html">Polarity</a></tt> (1; 0% instances)
 
-`CCONJ` occurs with 3 feature-value pairs: `Polarity=Neg`, `PronType=Dem`, `PronType=Rel`
+`CCONJ` occurs with 6 feature-value pairs: `ExtPos=ADP`, `ExtPos=CCONJ`, `ExtPos=SCONJ`, `Polarity=Neg`, `PronType=Dem`, `PronType=Rel`
 
-`CCONJ` occurs with 4 feature combinations.
-The most frequent feature combination is `_` (13980 tokens).
+`CCONJ` occurs with 7 feature combinations.
+The most frequent feature combination is `_` (13857 tokens).
 Examples: <em>et, vel, aut, seo, adque, seu, nisi, que, sive, ac</em>
 
 

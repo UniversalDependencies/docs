@@ -24,7 +24,7 @@ The following 1 pairs of parts of speech are connected with `flat`: <tt><a href=
 # visual-style 15 17 flat	color:blue
 1	Atëherë	atëherë	ADV	_	AdvType=Tim	3	advmod	_	_
 2	ne	ne	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	_
-3	banonim	banoj	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	0	root	_	_
+3	banonim	banoj	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 4	ende	ende	ADV	_	AdvType=Tim	3	advmod	_	_
 5	në	në	ADP	_	_	7	case	_	_
 6	një	një	DET	_	Definite=Ind	7	det	_	_
@@ -49,7 +49,7 @@ The following 1 pairs of parts of speech are connected with `flat`: <tt><a href=
 25	të	të	DET	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Art	26	det:adj	_	_
 26	plotë	plotë	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	24	amod	_	_
 27	unë	unë	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	28	nsubj	_	_
-28	s'	s'ka	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	3	conj	_	_
+28	s'	s'ka	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	conj	_	_
 29	mora	mora	ADV	_	_	28	fixed	_	_
 30	vesh	vesh	NOUN	_	_	28	fixed	_	_
 31	asgjë	asgjë	PRON	_	PronType=Ind	28	obj	_	_

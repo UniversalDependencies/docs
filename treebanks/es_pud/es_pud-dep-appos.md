@@ -48,14 +48,14 @@ The following 12 pairs of parts of speech are connected with `appos`: <tt><a hre
 2	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	_
 3	elecciones	elección	NOUN	NN	Gender=Fem|Number=Plur	0	root	_	SpaceAfter=No
 4	,	,	PUNCT	,	PunctType=Comm	5	punct	_	_
-5	por	por	ADP	IN	_	3	discourse	_	_
-6	supuesto	supuesto	NOUN	NN	Gender=Masc|Number=Sing	5	fixed	_	SpaceAfter=No
+5	por	por	ADP	IN	_	6	case	_	_
+6	supuesto	supuesto	NOUN	NN	Gender=Masc|Number=Sing	3	discourse	_	SpaceAfter=No
 7	,	,	PUNCT	,	PunctType=Comm	10	punct	_	_
 8	no	no	ADV	RB	Polarity=Neg	10	advmod	_	_
 9	"	"	PUNCT	``	PunctType=Quot	10	punct	_	SpaceAfter=No
 10	Juego	juego	NOUN	NN	Gender=Masc|Number=Sing	3	appos	_	Proper=True
 11	de	de	ADP	IN	_	12	case	_	Proper=True
-12	tronos	trono	NOUN	NN	Gender=Masc|Number=Plur	10	nmod	_	SpaceAfter=No|Proper=True
+12	tronos	trono	NOUN	NN	Gender=Masc|Number=Plur	10	nmod	_	Proper=True|SpaceAfter=No
 13	"	"	PUNCT	''	PunctType=Quot	10	punct	_	SpaceAfter=No
 14	.	.	PUNCT	.	PunctType=Peri	3	punct	_	_
 

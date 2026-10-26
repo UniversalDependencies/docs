@@ -7,13 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Estonian-EDT: Relations: `compound:prt`
 
 This relation is a language-specific subtype of <tt><a href="et_edt-dep-compound.html">compound</a></tt>.
+There are also 1 other language-specific subtypes of `compound`: <tt><a href="et_edt-dep-compound-idiom.html">compound:idiom</a></tt>.
 
-4458 nodes (1%) are attached to their parents as `compound:prt`.
+4528 nodes (1%) are attached to their parents as `compound:prt`.
 
-2558 instances of `compound:prt` (57%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.88021534320323.
+2548 instances of `compound:prt` (56%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.87588339222615.
 
-The following 7 pairs of parts of speech are connected with `compound:prt`: <tt><a href="et_edt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (4348; 98% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (90; 2% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (14; 0% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_edt-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="et_edt-pos-PRON.html">PRON</a></tt>-<tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_edt-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `compound:prt`: <tt><a href="et_edt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (4373; 97% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (132; 3% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (17; 0% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_edt-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="et_edt-pos-PRON.html">PRON</a></tt>-<tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_edt-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -23,32 +24,33 @@ The following 7 pairs of parts of speech are connected with `compound:prt`: <tt>
 # visual-style 3	fgColor:white
 # visual-style 3 6 compound:prt	color:blue
 1	Rootsi	Rootsi	PROPN	S	Case=Gen|Number=Sing	2	nmod	2:nmod	NE=B-Loc
-2	kirjanduses	kirjandus	NOUN	S	Case=Ine|Number=Sing	3	obl	3:obl	_
+2	kirjanduses	kirjandus	NOUN	S	Case=Ine|Number=Sing	3	obl:lmod	3:obl	_
 3	elati	elama	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	0:root	_
 4	see	see	DET	P	Case=Nom|Number=Sing|PronType=Dem	5	det	5:det	_
 5	periood	periood	NOUN	S	Case=Nom|Number=Sing	3	obj	3:obj	_
 6	läbi	läbi	ADV	D	_	3	compound:prt	3:compound	_
-7	1970ndatel	1970=s	ADJ	N	Case=Ade|Number=Plur|NumType=Ord	3	obl	3:obl	SpaceAfter=No
+7	1970ndatel	1970=s	ADJ	N	Case=Ade|Number=Plur|NumType=Ord	3	obl:tmod	3:obl	SpaceAfter=No
 8	.	.	PUNCT	Z	_	3	punct	3:punct	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 3 compound:prt	color:blue
-1	Kõik	kõik	DET	P	Case=Nom|Number=Plur|PronType=Tot	5	det	5:det	_
-2	1992	1992	NUM	N	NumForm=Digit|NumType=Card	4	obl	4:obl	_
-3	välja	välja	ADV	D	_	4	compound:prt	4:compound	_
-4	antud	antud	ADJ	A	Degree=Pos|Tense=Past|VerbForm=Part|Voice=Pass	5	acl	5:acl	_
-5	margid	mark	NOUN	S	Case=Nom|Number=Plur	8	nsubj:cop	8:nsubj	_
-6	olid	olema	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	8	cop	8:cop	_
-7	venekeelsete	vene_keelne	ADJ	A	Case=Gen|Degree=Pos|Number=Plur	8	amod	8:amod	_
-8	kirjadega	kiri	NOUN	S	Case=Com|Number=Plur	0	root	0:root	SpaceAfter=No
-9	.	.	PUNCT	Z	_	8	punct	8:punct	_
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 8 compound:prt	color:blue
+1	Eesti	Eesti	PROPN	G	_	2	amod	2:amod	NE=B-Gep
+2	oludes	olu	NOUN	S	Case=Ine|Number=Plur	9	obl	9:obl	_
+3	tundus	tunduma	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	9	aux	9:aux	_
+4	see	see	DET	P	Case=Nom|Number=Sing|PronType=Dem	5	det	5:det	_
+5	probleem	probleem	NOUN	S	Case=Nom|Number=Sing	9	nsubj	9:nsubj	_
+6	siiski	siiski	ADV	D	_	9	advmod	9:advmod	_
+7	olevat	olema	AUX	V	Mood=Qot|Tense=Pres|VerbForm=Fin|Voice=Act	9	cop	9:cop	_
+8	lahti	lahti	ADV	D	_	9	compound:prt	9:compound	_
+9	rääkimata	rääki=mata	ADJ	A	Case=Abe|Degree=Pos|VerbForm=Sup|Voice=Act	0	root	0:root	SpaceAfter=No
+10	.	.	PUNCT	Z	_	9	punct	9:punct	_
 
 ~~~
 

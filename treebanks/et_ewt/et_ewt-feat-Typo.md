@@ -9,10 +9,10 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Yes`.
 
-1110 tokens (1%) have a non-empty value of `Typo`.
-957 types (5%) occur at least once with a non-empty value of `Typo`.
-751 lemmas (6%) occur at least once with a non-empty value of `Typo`.
-The feature is used with 14 part-of-speech tags: <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> (369; 0% instances), <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt> (165; 0% instances), <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt> (160; 0% instances), <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (156; 0% instances), <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt> (105; 0% instances), <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt> (33; 0% instances), <tt><a href="et_ewt-pos-AUX.html">AUX</a></tt> (28; 0% instances), <tt><a href="et_ewt-pos-DET.html">DET</a></tt> (28; 0% instances), <tt><a href="et_ewt-pos-NUM.html">NUM</a></tt> (24; 0% instances), <tt><a href="et_ewt-pos-ADP.html">ADP</a></tt> (15; 0% instances), <tt><a href="et_ewt-pos-INTJ.html">INTJ</a></tt> (9; 0% instances), <tt><a href="et_ewt-pos-SCONJ.html">SCONJ</a></tt> (8; 0% instances), <tt><a href="et_ewt-pos-CCONJ.html">CCONJ</a></tt> (7; 0% instances), <tt><a href="et_ewt-pos-PUNCT.html">PUNCT</a></tt> (3; 0% instances).
+1111 tokens (1%) have a non-empty value of `Typo`.
+958 types (5%) occur at least once with a non-empty value of `Typo`.
+752 lemmas (6%) occur at least once with a non-empty value of `Typo`.
+The feature is used with 14 part-of-speech tags: <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> (369; 0% instances), <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt> (165; 0% instances), <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt> (160; 0% instances), <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (157; 0% instances), <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt> (105; 0% instances), <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt> (33; 0% instances), <tt><a href="et_ewt-pos-AUX.html">AUX</a></tt> (28; 0% instances), <tt><a href="et_ewt-pos-DET.html">DET</a></tt> (28; 0% instances), <tt><a href="et_ewt-pos-NUM.html">NUM</a></tt> (24; 0% instances), <tt><a href="et_ewt-pos-ADP.html">ADP</a></tt> (15; 0% instances), <tt><a href="et_ewt-pos-INTJ.html">INTJ</a></tt> (9; 0% instances), <tt><a href="et_ewt-pos-SCONJ.html">SCONJ</a></tt> (8; 0% instances), <tt><a href="et_ewt-pos-CCONJ.html">CCONJ</a></tt> (7; 0% instances), <tt><a href="et_ewt-pos-PUNCT.html">PUNCT</a></tt> (3; 0% instances).
 
 ### `NOUN`
 
@@ -52,13 +52,13 @@ The most frequent other feature values with which `PROPN` and `Typo` co-occurred
 
 ### `ADV`
 
-156 <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> tokens (1% of all `ADV` tokens) have a non-empty value of `Typo`.
+157 <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> tokens (1% of all `ADV` tokens) have a non-empty value of `Typo`.
 
 `ADV` tokens may have the following values of `Typo`:
 
-* `Yes` (156; 100% of non-empty `Typo`): <em>nyyd, yldse, yhes6naga, ala, kyll, 2kki, Sellepräast, akki, j2rgi, k2tte</em>
+* `Yes` (157; 100% of non-empty `Typo`): <em>nyyd, yldse, yhes6naga, ala, kyll, 2kki, Sellepräast, akki, j2rgi, k2tte</em>
 
-`Typo` seems to be **lexical feature** of `ADV`. 100% lemmas (99) occur only with one value of `Typo`.
+`Typo` seems to be **lexical feature** of `ADV`. 100% lemmas (100) occur only with one value of `Typo`.
 
 ### `ADJ`
 
@@ -76,7 +76,7 @@ The most frequent other feature values with which `ADJ` and `Typo` co-occurred: 
 
 33 <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt> tokens (1% of all `PRON` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `PRON` and `Typo` co-occurred: <tt><a href="et_ewt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (29; 88%), <tt><a href="et_ewt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (23; 70%), <tt><a href="et_ewt-feat-Case.html">Case</a></tt><tt>=Nom</tt> (17; 52%).
+The most frequent other feature values with which `PRON` and `Typo` co-occurred: <tt><a href="et_ewt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (29; 88%), <tt><a href="et_ewt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (22; 67%), <tt><a href="et_ewt-feat-Case.html">Case</a></tt><tt>=Nom</tt> (17; 52%).
 
 `PRON` tokens may have the following values of `Typo`:
 

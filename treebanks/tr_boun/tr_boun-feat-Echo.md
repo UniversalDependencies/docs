@@ -16,7 +16,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="tr_boun-pos-X.html"
 
 ### `X`
 
-2 <tt><a href="tr_boun-pos-X.html">X</a></tt> tokens (50% of all `X` tokens) have a non-empty value of `Echo`.
+2 <tt><a href="tr_boun-pos-X.html">X</a></tt> tokens (40% of all `X` tokens) have a non-empty value of `Echo`.
 
 `X` tokens may have the following values of `Echo`:
 

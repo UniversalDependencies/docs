@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-102 nodes (6%) are attached to their parents as `obj`.
+101 nodes (5%) are attached to their parents as `obj`.
 
-92 instances of `obj` (90%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.57843137254902.
+91 instances of `obj` (90%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.57425742574257.
 
-The following 10 pairs of parts of speech are connected with `obj`: <tt><a href="sa_ufal-pos-VERB.html">VERB</a></tt>-<tt><a href="sa_ufal-pos-NOUN.html">NOUN</a></tt> (68; 67% instances), <tt><a href="sa_ufal-pos-VERB.html">VERB</a></tt>-<tt><a href="sa_ufal-pos-PRON.html">PRON</a></tt> (19; 19% instances), <tt><a href="sa_ufal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sa_ufal-pos-NOUN.html">NOUN</a></tt> (3; 3% instances), <tt><a href="sa_ufal-pos-VERB.html">VERB</a></tt>-<tt><a href="sa_ufal-pos-DET.html">DET</a></tt> (3; 3% instances), <tt><a href="sa_ufal-pos-VERB.html">VERB</a></tt>-<tt><a href="sa_ufal-pos-PROPN.html">PROPN</a></tt> (3; 3% instances), <tt><a href="sa_ufal-pos-VERB.html">VERB</a></tt>-<tt><a href="sa_ufal-pos-ADJ.html">ADJ</a></tt> (2; 2% instances), <tt><a href="sa_ufal-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sa_ufal-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="sa_ufal-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sa_ufal-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="sa_ufal-pos-ADV.html">ADV</a></tt>-<tt><a href="sa_ufal-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="sa_ufal-pos-VERB.html">VERB</a></tt>-<tt><a href="sa_ufal-pos-VERB.html">VERB</a></tt> (1; 1% instances).
+The following 10 pairs of parts of speech are connected with `obj`: <tt><a href="sa_ufal-pos-VERB.html">VERB</a></tt>-<tt><a href="sa_ufal-pos-NOUN.html">NOUN</a></tt> (68; 67% instances), <tt><a href="sa_ufal-pos-VERB.html">VERB</a></tt>-<tt><a href="sa_ufal-pos-PRON.html">PRON</a></tt> (19; 19% instances), <tt><a href="sa_ufal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sa_ufal-pos-NOUN.html">NOUN</a></tt> (3; 3% instances), <tt><a href="sa_ufal-pos-VERB.html">VERB</a></tt>-<tt><a href="sa_ufal-pos-DET.html">DET</a></tt> (3; 3% instances), <tt><a href="sa_ufal-pos-VERB.html">VERB</a></tt>-<tt><a href="sa_ufal-pos-PROPN.html">PROPN</a></tt> (3; 3% instances), <tt><a href="sa_ufal-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sa_ufal-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="sa_ufal-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sa_ufal-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="sa_ufal-pos-ADV.html">ADV</a></tt>-<tt><a href="sa_ufal-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="sa_ufal-pos-VERB.html">VERB</a></tt>-<tt><a href="sa_ufal-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="sa_ufal-pos-VERB.html">VERB</a></tt>-<tt><a href="sa_ufal-pos-VERB.html">VERB</a></tt> (1; 1% instances).
 
 
 ~~~ conllu

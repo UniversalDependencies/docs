@@ -20,7 +20,7 @@ The feature is used with 3 part-of-speech tags: <tt><a href="kpv_ikdp-pos-VERB.h
 
 255 <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt> tokens (73% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="kpv_ikdp-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (255; 100%), <tt><a href="kpv_ikdp-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (247; 97%), <tt><a href="kpv_ikdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (207; 81%), <tt><a href="kpv_ikdp-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (167; 65%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="kpv_ikdp-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (254; 100%), <tt><a href="kpv_ikdp-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (247; 97%), <tt><a href="kpv_ikdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (207; 81%), <tt><a href="kpv_ikdp-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (167; 65%).
 
 `VERB` tokens may have the following values of `Person`:
 
@@ -39,7 +39,7 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 
 126 <tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> tokens (68% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="kpv_ikdp-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (121; 96%), <tt><a href="kpv_ikdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (93; 74%), <tt><a href="kpv_ikdp-feat-Case.html">Case</a></tt><tt>=Nom</tt> (70; 56%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="kpv_ikdp-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (125; 99%), <tt><a href="kpv_ikdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (93; 74%), <tt><a href="kpv_ikdp-feat-Case.html">Case</a></tt><tt>=Nom</tt> (69; 55%).
 
 `PRON` tokens may have the following values of `Person`:
 
@@ -50,13 +50,12 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 
 <table>
   <tr><th>Paradigm <i>ас</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
-  <tr><td><tt><tt><a href="kpv_ikdp-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="kpv_ikdp-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>аслум</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="kpv_ikdp-feat-Case.html">Case</a></tt><tt>=Ela</tt>|<tt><a href="kpv_ikdp-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="kpv_ikdp-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td><em>ассьыд</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="kpv_ikdp-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="kpv_ikdp-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td></td><td><em>аслас</em></td></tr>
-  <tr><td><tt><tt><a href="kpv_ikdp-feat-Case.html">Case</a></tt><tt>=Gen</tt></tt></td><td><em>асланум</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="kpv_ikdp-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="kpv_ikdp-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="kpv_ikdp-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>ачум</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="kpv_ikdp-feat-Case.html">Case</a></tt><tt>=Dat</tt></tt></td><td><em>аслум</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="kpv_ikdp-feat-Case.html">Case</a></tt><tt>=Ela</tt>|<tt><a href="kpv_ikdp-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>ассьыд</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="kpv_ikdp-feat-Case.html">Case</a></tt><tt>=Gen</tt></tt></td><td><em>асланум</em></td><td></td><td><em>аслас</em></td></tr>
+  <tr><td><tt><tt><a href="kpv_ikdp-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="kpv_ikdp-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>ачум</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="kpv_ikdp-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>ачум</em></td><td></td><td><em>ачыс</em></td></tr>
-  <tr><td><tt><tt><a href="kpv_ikdp-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="kpv_ikdp-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td><em>аслад</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="kpv_ikdp-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>аслад</em></td><td></td></tr>
 </table>
 
 `Person` seems to be **lexical feature** of `PRON`. 92% lemmas (12) occur only with one value of `Person`.
@@ -65,7 +64,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 
 40 <tt><a href="kpv_ikdp-pos-AUX.html">AUX</a></tt> tokens (69% of all `AUX` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="kpv_ikdp-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (40; 100%), <tt><a href="kpv_ikdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (27; 68%), <tt><a href="kpv_ikdp-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (22; 55%), <tt><a href="kpv_ikdp-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt> (21; 53%).
+The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="kpv_ikdp-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (40; 100%), <tt><a href="kpv_ikdp-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (40; 100%), <tt><a href="kpv_ikdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (27; 68%), <tt><a href="kpv_ikdp-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (22; 55%), <tt><a href="kpv_ikdp-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt> (21; 53%).
 
 `AUX` tokens may have the following values of `Person`:
 
@@ -79,8 +78,8 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
   <tr><td><tt><tt><a href="kpv_ikdp-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="kpv_ikdp-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td></td><td><em>из</em></td></tr>
   <tr><td><tt><tt><a href="kpv_ikdp-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="kpv_ikdp-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td></td><td><em>оз</em></td></tr>
   <tr><td><tt><tt><a href="kpv_ikdp-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="kpv_ikdp-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td></td><td><em>оз</em></td></tr>
-  <tr><td><tt></tt></td><td></td><td></td><td><em>из</em></td></tr>
   <tr><td><tt><tt><a href="kpv_ikdp-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>ог</em></td><td><em>он</em></td><td><em>оз</em></td></tr>
+  <tr><td><tt></tt></td><td></td><td></td><td><em>из</em></td></tr>
 </table>
 
 ## Relations with Agreement in `Person`

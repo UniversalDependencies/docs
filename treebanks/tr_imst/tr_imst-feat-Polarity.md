@@ -161,8 +161,8 @@ The most frequent other feature values with which `AUX` and `Polarity` co-occurr
 The 10 most frequent relations where parent and child node agree in `Polarity`:
 <tt>VERB --[<tt><a href="tr_imst-dep-conj.html">conj</a></tt>]--> VERB</tt> (673; 83%),
 <tt>VERB --[<tt><a href="tr_imst-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (661; 85%),
-<tt>VERB --[<tt><a href="tr_imst-dep-obj.html">obj</a></tt>]--> VERB</tt> (387; 80%),
-<tt>VERB --[<tt><a href="tr_imst-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (292; 78%),
+<tt>VERB --[<tt><a href="tr_imst-dep-obj.html">obj</a></tt>]--> VERB</tt> (383; 80%),
+<tt>VERB --[<tt><a href="tr_imst-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (293; 78%),
 <tt>VERB --[<tt><a href="tr_imst-dep-nmod.html">nmod</a></tt>]--> VERB</tt> (212; 87%),
 <tt>VERB --[<tt><a href="tr_imst-dep-nsubj.html">nsubj</a></tt>]--> VERB</tt> (119; 78%),
 <tt>VERB --[<tt><a href="tr_imst-dep-acl.html">acl</a></tt>]--> VERB</tt> (106; 90%),

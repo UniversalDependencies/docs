@@ -48,7 +48,7 @@ The following 8 pairs of parts of speech are connected with `cop`: <tt><a href="
 6	asam	asam	PROPN	ASP	_	0	root	_	SpaceAfter=No|Morf=^asam<a>_ASP$
 7	,	,	PUNCT	Z--	_	9	punct	_	Morf=^,<z>_Z--$
 8	yang	yang	PRON	S--	PronType=Rel	9	nsubj	_	Morf=^yang<s>_S--$
-9	membentuk	bentuk	VERB	VSA	Mood=Ind|Voice=Act	6	acl:relcl	_	Morf=^meN+bentuk<n>_VSA$
+9	membentuk	bentuk	VERB	VSA	Voice=Act	6	acl:relcl	_	Morf=^meN+bentuk<n>_VSA$
 10	silikat	silikat	NOUN	X--	_	9	obj	_	SpaceAfter=No|Morf=^silikat<x>_X--$
 11	.	.	PUNCT	Z--	_	6	punct	_	Morf=^.<z>_Z--$
 
@@ -66,7 +66,7 @@ The following 8 pairs of parts of speech are connected with `cop`: <tt><a href="
 3	persen	persen	NOUN	NSD	Number=Sing	6	obl	_	Morf=^persen<n>_NSD$
 4	lagi	lagi	ADV	D--	_	3	advmod	_	Morf=^lagi<d>_D--$
 5	adalah	adalah	AUX	O--	_	6	cop	_	Morf=^adalah<o>_O--$
-6	beragama	agama	VERB	VSA	Mood=Ind|Voice=Act	0	root	_	Morf=^ber+agama<n>_VSA$
+6	beragama	agama	VERB	VSA	Voice=Act	0	root	_	Morf=^ber+agama<n>_VSA$
 7	tradisional	tradisional	ADJ	ASP	_	6	amod	_	Morf=^tradisional<a>_ASP$
 8	Marapu	marapu	PROPN	X--	_	7	flat	_	SpaceAfter=No|Morf=^marapu<x>_X--$
 9	.	.	PUNCT	Z--	_	6	punct	_	Morf=^.<z>_Z--$

@@ -5,14 +5,14 @@ shortdef : 'dislocated elements'
 udver: '2'
 ---
 
-The `dislocated` relation is used for elements that have been displaced from its regular syntactic position, often to the front or back of the clause it resides within or of the whole sentence. This applies often to an argument of a clause that has been moved to the periphery for topic, focus, or similar types of effects.
+The dislocated relation is used for elements that have been displaced from their regular syntactic position, often to the beginning or end of the clause in which they occur, or of the sentence as a whole. This often applies to an argument of a clause that has been moved to the periphery for topic, focus, or similar discourse-related effects.
 
-However, this relation is also used generally for topic elements that otherwise do not fulfill any core grammatical relation of a sentence. These elements may be separated off with a comma intonation.
+However, this relation is also generally used for topic elements that do not otherwise fulfill any core grammatical relation in the sentence. These elements may be set off by comma intonation.
 
-The dislocated elements attach to the same governor as the dependent that they double for. Right dislocated elements are frequent in
-spoken languages.
+Dislocated elements attach to the same governor as the dependent they double. Right-dislocated elements are frequent in spoken language.
 
 ~~~ conllu
+# visual-style 9 1 dislocated color:blue
 1	Համահարթ	համահարթ	ADJ	_	_	9	dislocated	_	Translit=hamahart’|LTranslit=hamahart’|SpaceAfter=No
 2	,	,	PUNCT	_	_	4	punct	_	Translit=,|LTranslit=,
 3	թե	թե	CCONJ	_	_	4	cc	_	Translit=t’e|LTranslit=t’e
@@ -24,7 +24,6 @@ spoken languages.
 9	եղել	լինել	VERB	_	Aspect=Perf|Subcat=Intr|VerbForm=Part|Voice=Mid	0	root	_	Translit=eġel|LTranslit=linel
 10	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	9	aux	_	Translit=ē|LTranslit=em|SpaceAfter=No
 11	:	:	PUNCT	_	_	9	punct	_	Translit=.|LTranslit=.
-
 ~~~
 
 ~~~ sdparse
@@ -60,4 +59,4 @@ conj(Elderly, children)
 cc(երեխաներին, ու)
 cc(children, and)
 ~~~
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:51 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:05 CEST -->

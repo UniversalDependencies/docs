@@ -10,22 +10,22 @@ This feature is universal but the values `0` are language-specific.
 It occurs with 4 different values: `0`, `1`, `2`, `3`.
 
 8857 tokens (8%) have a non-empty value of `Person`.
-1156 types (8%) occur at least once with a non-empty value of `Person`.
+1157 types (8%) occur at least once with a non-empty value of `Person`.
 313 lemmas (4%) occur at least once with a non-empty value of `Person`.
-The feature is used with 5 part-of-speech tags: <tt><a href="ga_idt-pos-ADP.html">ADP</a></tt> (3280; 3% instances), <tt><a href="ga_idt-pos-PRON.html">PRON</a></tt> (2577; 2% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> (1918; 2% instances), <tt><a href="ga_idt-pos-DET.html">DET</a></tt> (1073; 1% instances), <tt><a href="ga_idt-pos-AUX.html">AUX</a></tt> (9; 0% instances).
+The feature is used with 5 part-of-speech tags: <tt><a href="ga_idt-pos-ADP.html">ADP</a></tt> (3280; 3% instances), <tt><a href="ga_idt-pos-PRON.html">PRON</a></tt> (2576; 2% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> (1919; 2% instances), <tt><a href="ga_idt-pos-DET.html">DET</a></tt> (1073; 1% instances), <tt><a href="ga_idt-pos-AUX.html">AUX</a></tt> (9; 0% instances).
 
 ### `ADP`
 
 3280 <tt><a href="ga_idt-pos-ADP.html">ADP</a></tt> tokens (18% of all `ADP` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `ADP` and `Person` co-occurred: <tt><a href="ga_idt-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (3019; 92%), <tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2298; 70%).
+The most frequent other feature values with which `ADP` and `Person` co-occurred: <tt><a href="ga_idt-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (3019; 92%), <tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2297; 70%).
 
 `ADP` tokens may have the following values of `Person`:
 
 * `1` (497; 15% of non-empty `Person`): <em>liom, againn, agam, orm, dom, dúinn, linn, romhainn, orainn, chugainn</em>
 * `2` (244; 7% of non-empty `Person`): <em>leat, duit, agat, ort, uait, agaibh, leatsa, libh, oraibh, daoibh</em>
 * `3` (2539; 77% of non-empty `Person`): <em>ina, ann, á, leis, air, acu, dá, aige, lena, leo</em>
-* `EMPTY` (14996): <em>ar, i, ag, le, de, sa, chun, do, leis, in</em>
+* `EMPTY` (14993): <em>ar, i, ag, le, de, sa, chun, do, leis, in</em>
 
 <table>
   <tr><th>Paradigm <i>i</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -43,32 +43,32 @@ The most frequent other feature values with which `ADP` and `Person` co-occurred
 
 ### `PRON`
 
-2577 <tt><a href="ga_idt-pos-PRON.html">PRON</a></tt> tokens (71% of all `PRON` tokens) have a non-empty value of `Person`.
+2576 <tt><a href="ga_idt-pos-PRON.html">PRON</a></tt> tokens (71% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="ga_idt-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (2503; 97%), <tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2076; 81%), <tt><a href="ga_idt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1385; 54%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="ga_idt-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (2502; 97%), <tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2075; 81%), <tt><a href="ga_idt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1385; 54%).
 
 `PRON` tokens may have the following values of `Person`:
 
 * `1` (248; 10% of non-empty `Person`): <em>mé, muid, mise, sinn, sinne, me</em>
 * `2` (136; 5% of non-empty `Person`): <em>tú, sibh, tusa, thú, thusa</em>
-* `3` (2193; 85% of non-empty `Person`): <em>sé, é, iad, siad, sí, í, ea, seisean, hé, eisean</em>
-* `EMPTY` (1044): <em>sin, féin, seo, cén, siúd, cad, shin, cé, a, céard</em>
+* `3` (2192; 85% of non-empty `Person`): <em>sé, é, iad, siad, sí, í, ea, seisean, hé, eisean</em>
+* `EMPTY` (1043): <em>sin, féin, seo, cén, siúd, cad, shin, cé, a, céard</em>
 
 `Person` seems to be **lexical feature** of `PRON`. 100% lemmas (18) occur only with one value of `Person`.
 
 ### `VERB`
 
-1918 <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> tokens (22% of all `VERB` tokens) have a non-empty value of `Person`.
+1919 <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> tokens (22% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="ga_idt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1602; 84%), <tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=EMPTY</tt> (1284; 67%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="ga_idt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1603; 84%), <tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=EMPTY</tt> (1284; 67%).
 
 `VERB` tokens may have the following values of `Person`:
 
 * `0` (1403; 73% of non-empty `Person`): <em>cuireadh, rinneadh, cuirtear, n-áirítear, déanfar, déantar, cuirfear, tugadh, foilsíodh, ndéantar</em>
-* `1` (303; 16% of non-empty `Person`): <em>táimid, táim, bhíos, ceannaímid, fheadar, rabhas, Bím, chuireas, creidim, cuirimid</em>
+* `1` (304; 16% of non-empty `Person`): <em>táimid, táim, bhíos, ceannaímid, fheadar, rabhas, Bím, chuireas, creidim, cuirimid</em>
 * `2` (152; 8% of non-empty `Person`): <em>féach, déan, cuir, tabhair, déarfá, téigh, Léigh, bain, bhféadfá, dein</em>
 * `3` (60; 3% of non-empty `Person`): <em>bíodh, bhíodar, rabhadar, Dáileadh, bhfuilid, bhídís, chuadar, chuireadar, mbeidís, ndéanfaidís</em>
-* `EMPTY` (6857): <em>tá, bhí, atá, bhfuil, raibh, beidh, bheidh, mbeadh, níl, mbeidh</em>
+* `EMPTY` (6856): <em>tá, bhí, atá, bhfuil, raibh, beidh, bheidh, mbeadh, níl, mbeidh</em>
 
 <table>
   <tr><th>Paradigm <i>bí</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th><th><tt>0</tt></th></tr>
@@ -133,7 +133,7 @@ The most frequent other feature values with which `DET` and `Person` co-occurred
 * `1` (156; 15% of non-empty `Person`): <em>mo, ár, m'</em>
 * `2` (181; 17% of non-empty `Person`): <em>do, d', bhur, d’, dh'</em>
 * `3` (736; 69% of non-empty `Person`): <em>a, n-a, á</em>
-* `EMPTY` (9214): <em>an, na, seo, sin, eile, aon, gach, uile, ngach, san</em>
+* `EMPTY` (9211): <em>an, na, seo, sin, eile, aon, gach, uile, ngach, san</em>
 
 ### `AUX`
 

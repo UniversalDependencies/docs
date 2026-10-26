@@ -9,28 +9,31 @@ udver: '2'
 This feature is language-specific.
 It occurs with 2 different values: `Coll`, `Priv`.
 
-16 tokens (0%) have a non-empty value of `Derivation`.
-16 types (1%) occur at least once with a non-empty value of `Derivation`.
-16 lemmas (1%) occur at least once with a non-empty value of `Derivation`.
-The feature is used with 4 part-of-speech tags: <tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt> (9; 0% instances), <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (5; 0% instances), <tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt> (1; 0% instances).
-
-### `ADJ`
-
-9 <tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt> tokens (2% of all `ADJ` tokens) have a non-empty value of `Derivation`.
-
-`ADJ` tokens may have the following values of `Derivation`:
-
-* `Priv` (9; 100% of non-empty `Derivation`): <em>Adana-ima, apisaíma, ara-ima, kiinha-ima, paya-ima, santaíma, sawa-ima, tĩ-ima, ximirikú-ima</em>
+20 tokens (0%) have a non-empty value of `Derivation`.
+20 types (1%) occur at least once with a non-empty value of `Derivation`.
+20 lemmas (1%) occur at least once with a non-empty value of `Derivation`.
+The feature is used with 4 part-of-speech tags: <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (15; 0% instances), <tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-5 <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Derivation`.
+15 <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Derivation`.
 
-The most frequent other feature values with which `NOUN` and `Derivation` co-occurred: <tt><a href="yrl_complin-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5; 100%), <tt><a href="yrl_complin-feat-Rel.html">Rel</a></tt><tt>=EMPTY</tt> (5; 100%).
+The most frequent other feature values with which `NOUN` and `Derivation` co-occurred: <tt><a href="yrl_complin-feat-Rel.html">Rel</a></tt><tt>=EMPTY</tt> (15; 100%), <tt><a href="yrl_complin-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (9; 60%).
 
 `NOUN` tokens may have the following values of `Derivation`:
 
-* `Coll` (5; 100% of non-empty `Derivation`): <em>itatiwa, kapĩtiwa, mirawasutiwa, sakaitiwa, wakutiwa</em>
+* `Coll` (6; 40% of non-empty `Derivation`): <em>itatiwa, kapĩtiwa, mirawasutiwa, sakaitiwa, siringatiwa, wakutiwa</em>
+* `Priv` (9; 60% of non-empty `Derivation`): <em>Adana-ima, apisaíma, ara-ima, kiinha-ima, payaíma, sawa-ima, seraíma, tĩ-ima, ximirikú-ima</em>
+
+`Derivation` seems to be **lexical feature** of `NOUN`. 100% lemmas (15) occur only with one value of `Derivation`.
+
+### `ADJ`
+
+3 <tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt> tokens (1% of all `ADJ` tokens) have a non-empty value of `Derivation`.
+
+`ADJ` tokens may have the following values of `Derivation`:
+
+* `Priv` (3; 100% of non-empty `Derivation`): <em>iwasuíma, santaíma, uyiima</em>
 
 ### `ADV`
 

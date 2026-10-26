@@ -44,7 +44,7 @@ The following 4 pairs of parts of speech are connected with `vocative`: <tt><a h
 # visual-style 4 5 vocative	color:blue
 1	"	"	PUNCT	FC	_	4	punct	_	SpaceAfter=No
 2	che	che	DET	DQ	PronType=Int	3	det	_	_
-3	cos'	cosa	PRON	PQ	Gender=Fem|Number=Sing	4	obj	_	SpaceAfter=No
+3	cos'	cosa	PRON	PQ	Gender=Fem|Number=Sing|PronType=Int	4	obj	_	SpaceAfter=No
 4	ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	dottore	dottore	NOUN	S	Gender=Masc|Number=Sing	4	vocative	_	SpaceAfter=No
 6	?	?	PUNCT	FS	_	4	punct	_	_

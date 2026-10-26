@@ -46,4 +46,19 @@ advmod(τρία, Περίπου)
 Τα τρία περίπου χρόνια που έλειπε
 advmod(τρία, περίπου)
 ~~~
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:19 CET -->
+
+---------------------------
+**Cretan**
+
+Onomatopoeic words are tagged as adverbial modifiers in usage environments such as the following:
+
+e.g.Ντάκα κι εγώ ένα δακανίδι “Here comes my bite!”
+~~~ sdparse
+Ντάκα κι εγώ ένα δακανίδι
+root(ROOT, δακανίδι)
+nsubj(δακανίδι, εγώ)
+advmod(δακανίδι, Ντάκα)
+~~~
+
+-----------------------------
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:33 CEST -->

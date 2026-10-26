@@ -45,7 +45,7 @@ The following 28 pairs of parts of speech are connected with `conj`: <tt><a href
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 11 conj	color:blue
-1	Bu	bu	PRON	PRON	NounClass=Wol5|Number=Sing|Person=3|PronType=Rel	16	advmod	_	_
+1	Bu	bu	PRON	PRON	ExtPos=ADV|NounClass=Wol5|Number=Sing|Person=3|PronType=Rel	16	advmod	_	_
 2	jëkk	jëkk	VERB	VERB	Mood=Ind|VerbForm=Fin	1	fixed	_	SpaceAfter=No
 3	,	,	PUNCT	COMMA	_	4	punct	_	_
 4	nguur	nguur	NOUN	NOUN	_	16	dislocated	_	_

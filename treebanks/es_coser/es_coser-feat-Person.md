@@ -11,7 +11,7 @@ It occurs with 3 different values: `1`, `2`, `3`.
 
 1627 tokens (20%) have a non-empty value of `Person`.
 475 types (31%) occur at least once with a non-empty value of `Person`.
-181 lemmas (17%) occur at least once with a non-empty value of `Person`.
+181 lemmas (18%) occur at least once with a non-empty value of `Person`.
 The feature is used with 4 part-of-speech tags: <tt><a href="es_coser-pos-VERB.html">VERB</a></tt> (759; 9% instances), <tt><a href="es_coser-pos-PRON.html">PRON</a></tt> (568; 7% instances), <tt><a href="es_coser-pos-AUX.html">AUX</a></tt> (256; 3% instances), <tt><a href="es_coser-pos-DET.html">DET</a></tt> (44; 1% instances).
 
 ### `VERB`
@@ -97,7 +97,7 @@ The 10 most frequent relations where parent and child node agree in `Person`:
 <tt>VERB --[<tt><a href="es_coser-dep-expl-pass.html">expl:pass</a></tt>]--> PRON</tt> (50; 98%),
 <tt>VERB --[<tt><a href="es_coser-dep-reparandum.html">reparandum</a></tt>]--> VERB</tt> (12; 86%),
 <tt>AUX --[<tt><a href="es_coser-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (10; 67%),
-<tt>VERB --[<tt><a href="es_coser-dep-det.html">det</a></tt>]--> PRON</tt> (10; 59%),
+<tt>VERB --[<tt><a href="es_coser-dep-det.html">det</a></tt>]--> PRON</tt> (9; 56%),
 <tt>PRON --[<tt><a href="es_coser-dep-reparandum.html">reparandum</a></tt>]--> PRON</tt> (8; 89%),
 <tt>AUX --[<tt><a href="es_coser-dep-reparandum.html">reparandum</a></tt>]--> AUX</tt> (7; 100%),
 <tt>VERB --[<tt><a href="es_coser-dep-expl-impers.html">expl:impers</a></tt>]--> PRON</tt> (5; 100%).

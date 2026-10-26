@@ -66,12 +66,12 @@ The 2nd highest number of forms (2) was observed with the lemma “foofale”: <
 
 The 3rd highest number of forms (2) was observed with the lemma “moom”: <em>moom, ñoom</em>.
 
-`ADV` occurs with 5 features: <tt><a href="wo_wtb-feat-PronType.html">PronType</a></tt> (395; 28% instances), <tt><a href="wo_wtb-feat-NounClass.html">NounClass</a></tt> (374; 26% instances), <tt><a href="wo_wtb-feat-Deixis.html">Deixis</a></tt> (302; 21% instances), <tt><a href="wo_wtb-feat-DeixisRef.html">DeixisRef</a></tt> (98; 7% instances), <tt><a href="wo_wtb-feat-Polarity.html">Polarity</a></tt> (11; 1% instances)
+`ADV` occurs with 6 features: <tt><a href="wo_wtb-feat-PronType.html">PronType</a></tt> (395; 28% instances), <tt><a href="wo_wtb-feat-NounClass.html">NounClass</a></tt> (374; 26% instances), <tt><a href="wo_wtb-feat-Deixis.html">Deixis</a></tt> (302; 21% instances), <tt><a href="wo_wtb-feat-DeixisRef.html">DeixisRef</a></tt> (98; 7% instances), <tt><a href="wo_wtb-feat-Polarity.html">Polarity</a></tt> (11; 1% instances), <tt><a href="wo_wtb-feat-ExtPos.html">ExtPos</a></tt> (10; 1% instances)
 
-`ADV` occurs with 14 feature-value pairs: `Deixis=Med`, `Deixis=Prox`, `Deixis=Remt`, `DeixisRef=1`, `DeixisRef=2`, `NounClass=Wol11`, `NounClass=Wol12`, `Polarity=Neg`, `PronType=Dem`, `PronType=Ind`, `PronType=Ind,Neg`, `PronType=Int`, `PronType=Rel`, `PronType=Tot`
+`ADV` occurs with 15 feature-value pairs: `Deixis=Med`, `Deixis=Prox`, `Deixis=Remt`, `DeixisRef=1`, `DeixisRef=2`, `ExtPos=ADV`, `NounClass=Wol11`, `NounClass=Wol12`, `Polarity=Neg`, `PronType=Dem`, `PronType=Ind`, `PronType=Ind,Neg`, `PronType=Int`, `PronType=Rel`, `PronType=Tot`
 
-`ADV` occurs with 28 feature combinations.
-The most frequent feature combination is `_` (1013 tokens).
+`ADV` occurs with 30 feature combinations.
+The most frequent feature combination is `_` (1006 tokens).
 Examples: <em>nag, rekk, it, kon, sax, daldi, lool, itam, moom, de</em>
 
 

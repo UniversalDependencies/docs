@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-45 nodes (0%) are attached to their parents as `parataxis`.
+46 nodes (0%) are attached to their parents as `parataxis`.
 
-30 instances of `parataxis` (67%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.57777777777778.
+31 instances of `parataxis` (67%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.52173913043478.
 
-The following 3 pairs of parts of speech are connected with `parataxis`: <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt>-<tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> (42; 93% instances), <tt><a href="la_perseus-pos-DET.html">DET</a></tt>-<tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> (2; 4% instances), <tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> (1; 2% instances).
+The following 4 pairs of parts of speech are connected with `parataxis`: <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt>-<tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> (42; 91% instances), <tt><a href="la_perseus-pos-DET.html">DET</a></tt>-<tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> (2; 4% instances), <tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt>-<tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -63,7 +63,7 @@ The following 3 pairs of parts of speech are connected with `parataxis`: <tt><a 
 1	Ingrata	ingratus	ADJ	a-s---fn-	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
 2	es	sum	AUX	v2spia---	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	1	cop	_	LId=sum1|TraditionalMood=Indicativus|TraditionalTense=Praesens
 3	inquit	inquam	VERB	v3sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	parataxis	_	TraditionalMood=Indicativus|TraditionalTense=Perfectum
-4	ore	os	NOUN	n-s---nb-	Case=Abl|Gender=Neut|Number=Sing	9	obj	_	LId=os1
+4	ore	os	NOUN	n-s---nb-	Case=Abl|Gender=Neut|Number=Sing	9	obl:arg	_	LId=os1
 5	quae	qui	PRON	p-s---fn-	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	9	nsubj	_	LId=qui1
 6	nostro	noster	DET	p-s---nb-	Case=Abl|Gender=Neut|Number=Sing|Number[psor]=Plur|Person[psor]=1|Poss=Yes|PronType=Prs	4	det	_	_
 7	caput	caput	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	9	obj	_	_

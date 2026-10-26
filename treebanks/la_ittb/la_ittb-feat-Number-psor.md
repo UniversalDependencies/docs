@@ -25,3 +25,8 @@ The most frequent other feature values with which `DET` and `Number[psor]` co-oc
 `DET` tokens may have the following values of `Number[psor]`:
 
 
+## Relations with Agreement in `Number[psor]`
+
+The 10 most frequent relations where parent and child node agree in `Number[psor]`:
+<tt>DET --[<tt><a href="la_ittb-dep-amod.html">amod</a></tt>]--> DET</tt> (3; 100%).
+

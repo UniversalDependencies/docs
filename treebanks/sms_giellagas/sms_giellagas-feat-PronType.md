@@ -7,46 +7,47 @@ udver: '2'
 ## Treebank Statistics: UD_Skolt_Sami-Giellagas: Features: `PronType`
 
 This feature is universal.
-It occurs with 5 different values: `Dem`, `Int`, `Prs`, `Rel`, `Tot`.
+It occurs with 6 different values: `Dem`, `Ind`, `Int`, `Prs`, `Rel`, `Tot`.
 
-286 tokens (10%) have a non-empty value of `PronType`.
-63 types (8%) occur at least once with a non-empty value of `PronType`.
-16 lemmas (3%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 3 part-of-speech tags: <tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> (278; 9% instances), <tt><a href="sms_giellagas-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> (3; 0% instances).
+329 tokens (11%) have a non-empty value of `PronType`.
+74 types (9%) occur at least once with a non-empty value of `PronType`.
+23 lemmas (4%) occur at least once with a non-empty value of `PronType`.
+The feature is used with 3 part-of-speech tags: <tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> (319; 10% instances), <tt><a href="sms_giellagas-pos-DET.html">DET</a></tt> (7; 0% instances), <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> (3; 0% instances).
 
 ### `PRON`
 
-278 <tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> tokens (89% of all `PRON` tokens) have a non-empty value of `PronType`.
+319 <tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="sms_giellagas-feat-Number.html">Number</a></tt><tt>=Sing</tt> (243; 87%), <tt><a href="sms_giellagas-feat-Case.html">Case</a></tt><tt>=Nom</tt> (181; 65%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="sms_giellagas-feat-Number.html">Number</a></tt><tt>=Sing</tt> (266; 83%), <tt><a href="sms_giellagas-feat-Case.html">Case</a></tt><tt>=Nom</tt> (203; 64%).
 
 `PRON` tokens may have the following values of `PronType`:
 
-* `Dem` (95; 34% of non-empty `PronType`): <em>tõt, tõn, tõt-i, tõid, tuk, tut, dõõn, dõõt, tän, tät</em>
-* `Int` (10; 4% of non-empty `PronType`): <em>mâiʹd, Mii, ǩii</em>
-* `Prs` (158; 57% of non-empty `PronType`): <em>son, ton, mon, suu, muu, miʹjjid, suʹst, seeʹst, tuu, jiijj</em>
+* `Dem` (103; 32% of non-empty `PronType`): <em>tõt, tõn, dõõt, tõt-i, dõõn, tõid, tuk, tut, tän, dââʹst</em>
+* `Ind` (9; 3% of non-empty `PronType`): <em>måttam, nuʹbb, jeeʹres, jiânnai-a</em>
+* `Int` (18; 6% of non-empty `PronType`): <em>mâiʹd, Mii, mõõn, ǩii</em>
+* `Prs` (169; 53% of non-empty `PronType`): <em>son, ton, mon, suu, muu, miʹjjid, suʹst, seeʹst, sij, tuu</em>
 * `Rel` (12; 4% of non-empty `PronType`): <em>mii, kååʹtt, mõin, mõõn, ǩeäzz</em>
-* `Tot` (3; 1% of non-empty `PronType`): <em>puk</em>
-* `EMPTY` (33): <em>mâiʹd, måttam, nåkkam, puk, dõõt, dõõn, dââʹst, dõõk, jeeʹres, jiânnai-a</em>
+* `Tot` (8; 3% of non-empty `PronType`): <em>puk, puk-i</em>
 
 <table>
   <tr><th>Paradigm <i>mii</i></th><th><tt>Int</tt></th><th><tt>Rel</tt></th></tr>
   <tr><td><tt><tt><a href="sms_giellagas-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td><em>mâiʹd</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="sms_giellagas-feat-Case.html">Case</a></tt><tt>=Com</tt></tt></td><td></td><td><em>mõin</em></td></tr>
+  <tr><td><tt><tt><a href="sms_giellagas-feat-Case.html">Case</a></tt><tt>=Com</tt>|<tt><a href="sms_giellagas-feat-ExtPos.html">ExtPos</a></tt><tt>=PRON</tt></tt></td><td></td><td><em>mõin</em></td></tr>
   <tr><td><tt><tt><a href="sms_giellagas-feat-Case.html">Case</a></tt><tt>=Gen</tt></tt></td><td></td><td><em>mõõn</em></td></tr>
+  <tr><td><tt><tt><a href="sms_giellagas-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="sms_giellagas-feat-ExtPos.html">ExtPos</a></tt><tt>=PRON</tt></tt></td><td></td><td><em>Mii</em></td></tr>
   <tr><td><tt><tt><a href="sms_giellagas-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>Mii</em></td><td><em>mii</em></td></tr>
 </table>
 
 ### `DET`
 
-5 <tt><a href="sms_giellagas-pos-DET.html">DET</a></tt> tokens (50% of all `DET` tokens) have a non-empty value of `PronType`.
+7 <tt><a href="sms_giellagas-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="sms_giellagas-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5; 100%), <tt><a href="sms_giellagas-feat-Case.html">Case</a></tt><tt>=Nom</tt> (3; 60%).
+The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="sms_giellagas-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6; 86%).
 
 `DET` tokens may have the following values of `PronType`:
 
-* `Dem` (5; 100% of non-empty `PronType`): <em>tõn, tõt, Tät</em>
-* `EMPTY` (5): <em>jeeʹres, jäänab, määŋg, måkam, tok</em>
+* `Dem` (5; 71% of non-empty `PronType`): <em>tõn, tõt, Tät</em>
+* `Ind` (2; 29% of non-empty `PronType`): <em>jeeʹres, määŋg</em>
 
 ### `ADV`
 
@@ -58,7 +59,7 @@ The most frequent other feature values with which `ADV` and `PronType` co-occurr
 
 * `Int` (1; 33% of non-empty `PronType`): <em>Koozz</em>
 * `Rel` (2; 67% of non-empty `PronType`): <em>mâʹst, mõõzz</em>
-* `EMPTY` (296): <em>âʹtte, âʹpet, de, kâʹl, mäʹhtt, tok, pâi, teâđast, še, tõʹst</em>
+* `EMPTY` (305): <em>âʹtte, âʹpet, de, kâʹl, tok, mäʹhtt, teâđast, pâi, še, tõʹst</em>
 
 ## Relations with Agreement in `PronType`
 

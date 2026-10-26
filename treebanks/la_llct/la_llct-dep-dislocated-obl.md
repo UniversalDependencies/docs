@@ -74,7 +74,7 @@ The following 2 pairs of parts of speech are connected with `dislocated:obl`: <t
 3	quandoque	quandoque	PRON	d|d|-|-|-|-|-|-|-|-	PronType=Rel	4	det	_	_
 4	tempore	tempus	NOUN	n|n|-|s|-|-|-|n|b|-	Case=Abl|Gender=Neut|Number=Sing	44	obl	_	_
 5	ego	ego	PRON	p|p|1|s|-|-|-|m|n|-	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	det	_	_
-6	qui	qui	DET	p|p|-|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	8	det	_	_
+6	qui	qui	DET	p|p|-|s|-|-|-|m|n|-	Case=Nom|ExtPos=DET|Gender=Masc|Number=Sing|PronType=Ind	8	det	_	_
 7	supra	supra	ADV	d|d|-|-|-|-|-|-|-|-	_	6	fixed	_	_
 8	Vuilipertus	Wilipertus	PROPN	Propn|n|-|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing	44	dislocated:nsubj	_	_
 9	presbitero	presbyter	NOUN	n|n|-|s|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Sing	8	appos	_	_
@@ -82,7 +82,7 @@ The following 2 pairs of parts of speech are connected with `dislocated:obl`: <t
 11	meis	meus	DET	a|a|1|p|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Plur|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	12	det	_	_
 12	heredes	heres	NOUN	n|n|-|p|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Plur	8	conj	_	_
 13	vobis	uos	PRON	p|p|2|p|-|-|-|m|d|-	Case=Dat|Gender=Masc|Number=Plur|Person=2|PronType=Prs	16	det	_	_
-14	qui	qui	DET	p|p|-|p|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Plur|PronType=Ind	16	nmod	_	_
+14	qui	qui	DET	p|p|-|p|-|-|-|m|n|-	Case=Nom|ExtPos=DET|Gender=Masc|Number=Plur|PronType=Ind	16	nmod	_	_
 15	supra	supra	ADV	d|d|-|-|-|-|-|-|-|-	_	14	fixed	_	_
 16	Rachiprando	Rachiprandus	PROPN	Propn|n|-|s|-|-|-|m|d|-	Case=Dat|Gender=Masc|Number=Sing	44	dislocated:obl	_	_
 17	presbitero	presbyter	NOUN	n|n|-|s|-|-|-|m|d|-	Case=Dat|Gender=Masc|Number=Sing	16	appos	_	_

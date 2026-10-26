@@ -25,7 +25,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 * `1` (69; 5% of non-empty `Person`): 我、 我们
 * `2` (21; 2% of non-empty `Person`): 你、 您
 * `3` (1240; 93% of non-empty `Person`): 他、 其、 她、 它、 他们、 它们、 她们、 祂、 他俩、 她俩
-* `EMPTY` (446): 此、 自己、 这、 之、 这样、 这里、 什么、 那里、 本身、 彼此
+* `EMPTY` (444): 此、 自己、 这、 之、 这样、 这里、 什么、 那里、 本身、 彼此
 
 `Person` seems to be **lexical feature** of `PRON`. 100% lemmas (10) occur only with one value of `Person`.
 

@@ -20,19 +20,50 @@ A subordinating conjunction is a conjunction that links constructions by making 
    * it introduces a  complement of saying or sense verbs  (criterion: in this case, it can be replaced with the word *ότι* with somewhat different implications), e.g., *Σε είδα που τον κοίταζες.* "I saw that you watched him.",  *Δεν άκουσες που είπε: «Ευχαριστώ, ωραία μου κυρία»;* "Haven't you heard him saying "Thanks my fair lady"?"  
    * it introduces a temporal clause together with the [ADP]() *μετά*  (criterion: in this case, the multiword conjunction *μετά που* can be replaced with the [ADP]() *αφού* resulting into different style probably), e.g., *Τον είδα μετά που χώρισε.* "I met him after he got divorced." *μετά* depends on *που* with the dependency relation [fixed]().
    * it  introduces an etiological or a result clause  (criterion: in this case, it can be replaced with the word *γιατί* resulting into different style probably), e.g., *Δεν σε χωνεύει που έρχεσαι τακτικά στο Μοναστήρι.* "He does not like you because you are regular to the Monastery.", *Ήταν τόσο σκελετωμένο που δεν είχε τη δύναμη να ψάξει για φαγητό.* "It was so skinny that it had no strength to look for food". 
-  
+* *που* is assigned the tag <code>CCONJ</code> if:
+	*	it introduces a clause that is not syntactically subordinate to another, e.g.,
+	*Μη μου τηνε κάμεις , απού.CCONJ να 'χεις την ευκή του Θεού.* "Don't do it to me, just have God's blessing."
+
+	~~~sdparse~~~
+	Μη μου τηνε κάμεις , απού να 'χεις την ευκή του Θεού.
+	cc(έχεις, απού)
+	fixed(απού, να)
+	~~~
+   
     	
 - *να* is assigned the tag <code>SCONJ</code> when it introduces  subordinate clauses that  function as:
    -	verb arguments, e.g., *Του είπα <b>να</b> έρθει*.[ccomp]() *εδώ΄* "I told him <b>to</b> come.[ccomp]()  here",   *Το Λιμενικό είναι και το μόνο ικανό <b>να</b> ξεδιαλύνει.*[xcomp]() *την υπόθεση* "Only Maritime Police is able <b>to</b> shed.[xcomp]() light on this case",    *Έτυχε <b>να</b> τον συναντήσετε.*[csubj]() *ποτέ μόνο του;* Lit. happened to him meet ever on his own.
-   -	clausal nominal modifiers e.g. *Η μόνη δυνατότητα <b>να</b> πλευρίσει.*[acl]() *σκάφος στην περιοχή είναι η Σκάλα Ωρωπού.*  "The only possibility <b>that</b> a boat docks.[acl]() in this area is the port of Skala Oropou"
+   -	clausal nominal modifiers e.g., *Η μόνη δυνατότητα <b>να</b> πλευρίσει.*[acl]() *σκάφος στην περιοχή είναι η Σκάλα Ωρωπού.*  "The only possibility <b>that</b> a boat docks.[acl]() in this area is the port of Skala Oropou"
 	-  goal denoting clauses where *να* or  *για να* introduce the clause; *για* is tagged <code>ADP</code> and depends on *να* with the [fixed]() dependency, e.g., *Σηκώνεται <b>για</b>*.<code>ADP</code> *<b>να</b> με υποδεχτεί.* [advcl]() "He rises <b>to</b> welcome.[advcl]() me".
- 	-   when it  occurs in relative clauses after the relativisers *που*, *o οποίος*, e.g.,  *Δεν υπάρχει τίποτα παραπάνω* <b>που</b>.[PRON]() <b>να</b>.[SCONJ]() έχει ανακαλύψει η άλλη δυάδα "there is nothing more that.[PRON]()  the other couple would have discovered",  *Στη συνέχεια γράψτε μια συνάρτηση* <b>η οποία</b>. [PRON]() <b>να</b>.[SCONJ]()  *τυπώνει αυτά τα δεδομένα* "Next, write a function that.[PRON]() will print the data." 
-  	 -  all other cases where clauses introduced by *να* function as adverbial modifiers and *να* co-occurs with other uniflected words, e.g.,  *αντί να, δίχως να, παρά να, πριν να, σαν να, χωρίς να, ώσπου να,  ώστε να*. The uniflected words are assigned their original tags and depend on *να* with the [fixed]() dependency, e.g.,  <b>Αντί</b>.[ADP]().[fixed]() <b>να</b> *της δώσει*.[advcl]() *τα παπούτσια στο χέρι, έκανε και παιδί μαζί της.* "<b>Rather than</b> sending.[advcl]() her packing, he had a child with her", *Με ακούει* <b>δίχως</b>.[ADP]().[fixed]() <b>να</b> *με διακόψει*.[advcl]() *με ερωτήσεις* "He listens to me <b>without</b> interrupting.[advcl]() me with questions", *τη ρωτάω*, <b>χωρίς</b>.<code>ADP</code>.[fixed]()   <b>να </b> μπω.[advcl]()  σε συζήτηση για την ανεπάρκεια του σιναφιού μας* "I ask her <b>without</b> opening.[advcl]()  a discussion about our trade's insufficiency"
+ 	-   when it  occurs in relative clauses after the relativisers *που*, *o οποίος*, e.g.,  *Δεν υπάρχει τίποτα παραπάνω* <b>που</b>.[PRON]() <b>να</b>.[SCONJ]() έχει ανακαλύψει η άλλη δυάδα "there is nothing more that.[PRON]()  the other couple would have discovered",  *Στη συνέχεια γράψτε μια συνάρτηση* <b>η οποία</b>. [PRON]() <b>να</b>.[SCONJ]()  *τυπώνει αυτά τα δεδομένα* "Next, write a function that.[PRON]() will print the data."
+  	-  all other cases where clauses introduced by *να* function as adverbial modifiers and *να* co-occurs with other uniflected words, e.g.,  *αντί να, δίχως να, παρά να, πριν να, σαν να, χωρίς να, ώσπου να,  ώστε να, και...να*. The uniflected words are assigned their original tags and depend on *να* with the [fixed]() dependency, e.g.,  <b>Αντί</b>.[ADP]().[fixed]() <b>να</b> *της δώσει*.[advcl]() *τα παπούτσια στο χέρι, έκανε και παιδί μαζί της.* "<b>Rather than</b> sending.[advcl]() her packing, he had a child with her", *Με ακούει* <b>δίχως</b>.[ADP]().[fixed]() <b>να</b> *με διακόψει*.[advcl]() *με ερωτήσεις* "He listens to me <b>without</b> interrupting.[advcl]() me with questions", *τη ρωτάω*, <b>χωρίς</b>.<code>ADP</code>.[fixed]()   <b>να </b> μπω.[advcl]()  σε συζήτηση για την ανεπάρκεια του σιναφιού μας* "I ask her <b>without</b> opening.[advcl]()  a discussion about our trade's insufficiency", *<b>Και</b> τα λεφτά <b>να</b> του πάρεις  τα παιδιά δεν θα γυρίσουν πίσω* "even if you take his money, the children will not come back."
+  	-  we have a case where *να* introduces a subordinate clause, which is semantically equivalent to a conditional clause, where the event expressed by the condition is considered an extreme possibility, e.g., Και κομμάθια να.SCONJ με κάμεις.advcl, δε γίνεται. “Even if you tear me to pieces, it’s not possible.” 
+  	- sometimes, the relative clause is introduced by να.SCONJ only 
+*Και δεν βρέθηκε κανείς βαφτισμένος να 'χει φάει το αντίτερο*
+“And no baptized was found who had eaten the holy bread.”
+	
+~~~sdparse~~~
+Και δεν βρέθηκε κανείς βαφτισμένος να 'χει φάει το αντίτερο
+mark(φάει, να)
+acl:relcl(βαφτισμένος, φάει)
+~~~
+	
    
 -  *να* is tagged [AUX]() when it introduces the verb (or the auxiliary "to be") of a main clause, e.g., <b>Να</b>.[AUX]()  *έρθεις*.[root]() *γρήγορα* "Come early.",  *Ούτε* <b>να</b>.[AUX]()   *τ' ακούσει*.[root]() "He would not even hear it."  *Ούτε βουλευτής.[root]() να.[AUX]() ήσουν.[AUX]()!* "Imagine what would happen if you were an MP!"
 	
-- elsewhere [PART](), e.g.,  *Λόλα*, <b>να</b> *ένα μήλο* "Lola, here is an apple."
+- *να* is tagged [PART]():
+  	-	elsewhere, e.g.,  *Λόλα*, <b>να</b> *ένα μήλο* "Lola, here is an apple.",
 
+	-	when it is used in an elliptical structure of “είναι” (to be), serving to point out or draw attention to something. This structure allows for two possibilities: expression with either the nominative or the accusative case. In both cases, the particle “να” is morphologically classified as [PART]() and syntactically as discourse, e.g., Να τον φίλο στο παλάτι “There’s the friend in the palace.”
+
+~~~ sdparse ~~~
+Να τον φίλο στο παλάτι
+root(ROOT, παλάτι)
+discourse(παλάτι, να)
+nsubj(παλάτι, φίλο)
+~~~
+
+There are fixed subordinating conjuctions such as *μπας και* and MWE ones such as the ones that are formed by ADPs and ADVs followed by *να* such as *χωρίς να, ώσπου να*. 
 
 For coordinating conjunctions, see [CCONJ]().
 
@@ -50,4 +81,4 @@ Mackridge, Peter. 1985. *The Modern Greek Language. A Descriptive Analysis of St
 
 https://www.greek-language.gr/greekLang/modern_greek/tools/lexica/triantafyllides/
 
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:26 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:38 CEST -->

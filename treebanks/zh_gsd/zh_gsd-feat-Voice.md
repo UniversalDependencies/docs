@@ -21,7 +21,7 @@ The feature is used with 3 part-of-speech tags: <tt><a href="zh_gsd-pos-VERB.htm
 `VERB` tokens may have the following values of `Voice`:
 
 * `Cau` (492; 100% of non-empty `Voice`): 以、 使、 讓、 使得、 令、 導致、 要求、 派、 派遣、 任命
-* `EMPTY` (17727): 有、 在、 於、 為、 是、 由、 成、 到、 位、 開始
+* `EMPTY` (17725): 有、 在、 於、 為、 是、 由、 成、 到、 位、 開始
 
 `Voice` seems to be **lexical feature** of `VERB`. 100% lemmas (133) occur only with one value of `Voice`.
 
@@ -34,7 +34,7 @@ The most frequent other feature values with which `AUX` and `Voice` co-occurred:
 `AUX` tokens may have the following values of `Voice`:
 
 * `Pass` (425; 100% of non-empty `Voice`): 被、 為
-* `EMPTY` (3467): 是、 了、 為、 會、 可以、 著、 可、 也是、 能、 要
+* `EMPTY` (3468): 是、 了、 為、 會、 可以、 著、 可、 也是、 能、 要
 
 ### `ADP`
 
@@ -43,5 +43,5 @@ The most frequent other feature values with which `AUX` and `Voice` co-occurred:
 `ADP` tokens may have the following values of `Voice`:
 
 * `Cau` (1; 100% of non-empty `Voice`): 以
-* `EMPTY` (5628): 在、 於、 中、 與、 後、 時、 上、 對、 因、 從
+* `EMPTY` (5630): 在、 於、 中、 與、 後、 時、 上、 對、 因、 從
 

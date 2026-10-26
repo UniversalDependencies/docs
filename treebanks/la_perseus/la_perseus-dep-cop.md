@@ -10,10 +10,10 @@ This relation is universal.
 
 350 nodes (1%) are attached to their parents as `cop`.
 
-247 instances of `cop` (71%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.86.
+246 instances of `cop` (70%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.84285714285714.
 
-The following 7 pairs of parts of speech are connected with `cop`: <tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_perseus-pos-AUX.html">AUX</a></tt> (188; 54% instances), <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_perseus-pos-AUX.html">AUX</a></tt> (116; 33% instances), <tt><a href="la_perseus-pos-DET.html">DET</a></tt>-<tt><a href="la_perseus-pos-AUX.html">AUX</a></tt> (25; 7% instances), <tt><a href="la_perseus-pos-PRON.html">PRON</a></tt>-<tt><a href="la_perseus-pos-AUX.html">AUX</a></tt> (10; 3% instances), <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt>-<tt><a href="la_perseus-pos-AUX.html">AUX</a></tt> (7; 2% instances), <tt><a href="la_perseus-pos-ADV.html">ADV</a></tt>-<tt><a href="la_perseus-pos-AUX.html">AUX</a></tt> (3; 1% instances), <tt><a href="la_perseus-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_perseus-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `cop`: <tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_perseus-pos-AUX.html">AUX</a></tt> (189; 54% instances), <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_perseus-pos-AUX.html">AUX</a></tt> (115; 33% instances), <tt><a href="la_perseus-pos-DET.html">DET</a></tt>-<tt><a href="la_perseus-pos-AUX.html">AUX</a></tt> (25; 7% instances), <tt><a href="la_perseus-pos-PRON.html">PRON</a></tt>-<tt><a href="la_perseus-pos-AUX.html">AUX</a></tt> (10; 3% instances), <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt>-<tt><a href="la_perseus-pos-AUX.html">AUX</a></tt> (7; 2% instances), <tt><a href="la_perseus-pos-ADV.html">ADV</a></tt>-<tt><a href="la_perseus-pos-AUX.html">AUX</a></tt> (3; 1% instances), <tt><a href="la_perseus-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_perseus-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -26,7 +26,7 @@ The following 7 pairs of parts of speech are connected with `cop`: <tt><a href="
 2	fuit	sum	AUX	v3sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	cop	_	LId=sum1|TraditionalMood=Indicativus|TraditionalTense=Perfectum
 3	ipsa	ipse	DET	p-s---fn-	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	4	det	_	LId=ipse1
 4	infamia	infamia	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	1	nsubj	_	LId=infamia1
-5	vero	verum	NOUN	n-s---nb-	Case=Abl|Gender=Neut|Number=Sing	4	obl	_	SpaceAfter=No|LId=verum1
+5	vero	verum	NOUN	n-s---nb-	Case=Abl|Gender=Neut|Number=Sing	1	obl:cmp	_	SpaceAfter=No|LId=verum1
 6	.	.	PUNCT	u--------	_	1	punct	_	LId=punc1
 
 ~~~

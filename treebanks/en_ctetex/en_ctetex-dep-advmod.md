@@ -22,18 +22,18 @@ The following 20 pairs of parts of speech are connected with `advmod`: <tt><a hr
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 11 advmod	color:blue
-1	Bridge	_	NOUN	_	_	3	compound	_	SpaceAfter=No
-2	-	_	PUNCT	_	_	3	punct	_	SpaceAfter=No
-3	level	_	NOUN	_	_	4	compound	_	_
-4	security	_	NOUN	_	_	10	nsubj:pass	_	_
-5	of	_	ADP	_	_	7	case	_	_
-6	the	_	DET	_	_	7	det	_	_
-7	user	_	NOUN	_	_	4	nmod	_	_
-8	shall	_	AUX	_	_	10	aux	_	_
-9	be	_	AUX	_	_	10	aux:pass	_	_
-10	applied	_	VERB	_	_	0	root	_	_
-11	automatically	_	ADV	_	_	10	advmod	_	SpaceAfter=No
-12	.	_	PUNCT	_	_	10	punct	_	_
+1	Bridge	bridge	NOUN	_	Number=Sing	3	compound	_	SpaceAfter=No
+2	-	-	PUNCT	_	_	3	punct	_	SpaceAfter=No
+3	level	level	NOUN	_	Number=Sing	4	compound	_	_
+4	security	security	NOUN	_	Number=Sing	10	nsubj:pass	_	_
+5	of	of	ADP	_	_	7	case	_	_
+6	the	the	DET	_	_	7	det	_	_
+7	user	user	NOUN	_	Number=Sing	4	nmod	_	_
+8	shall	shall	AUX	_	_	10	aux	_	_
+9	be	be	AUX	_	Number=Sing|Tense=Pres	10	aux:pass	_	_
+10	applied	apply	VERB	_	Tense=Past	0	root	_	_
+11	automatically	automatically	ADV	_	_	10	advmod	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	10	punct	_	_
 
 ~~~
 
@@ -44,21 +44,21 @@ The following 20 pairs of parts of speech are connected with `advmod`: <tt><a hr
 # visual-style 14	bgColor:blue
 # visual-style 14	fgColor:white
 # visual-style 14 13 advmod	color:blue
-1	If	_	SCONJ	_	_	3	mark	_	_
-2	there	_	PRON	_	_	3	expl	_	_
-3	are	_	VERB	_	_	14	advcl	_	_
-4	no	_	DET	_	_	5	det	_	_
-5	nodes	_	NOUN	_	_	3	nsubj	_	_
-6	to	_	ADP	_	_	8	case	_	_
-7	the	_	DET	_	_	8	det	_	_
-8	left	_	NOUN	_	_	3	obl	_	SpaceAfter=No
-9	,	_	PUNCT	_	_	3	punct	_	_
-10	the	_	DET	_	_	11	det	_	_
-11	cursor	_	NOUN	_	_	14	nsubj	_	_
-12	does	_	AUX	_	_	14	aux	_	_
-13	not	_	PART	_	_	14	advmod	_	_
-14	move	_	VERB	_	_	0	root	_	SpaceAfter=No
-15	.	_	PUNCT	_	_	14	punct	_	_
+1	If	if	SCONJ	_	_	3	mark	_	_
+2	there	there	PRON	_	_	3	expl	_	_
+3	are	be	VERB	_	Number=Plur	14	advcl	_	_
+4	no	no	DET	_	_	5	det	_	_
+5	nodes	node	NOUN	_	Number=Plur	3	nsubj	_	_
+6	to	to	ADP	_	_	8	case	_	_
+7	the	the	DET	_	_	8	det	_	_
+8	left	left	NOUN	_	Number=Sing	3	obl	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	3	punct	_	_
+10	the	the	DET	_	_	11	det	_	_
+11	cursor	cursor	NOUN	_	Number=Sing	14	nsubj	_	_
+12	does	do	AUX	_	_	14	aux	_	_
+13	not	not	PART	_	_	14	advmod	_	_
+14	move	move	VERB	_	_	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	14	punct	_	_
 
 ~~~
 
@@ -69,18 +69,18 @@ The following 20 pairs of parts of speech are connected with `advmod`: <tt><a hr
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
 # visual-style 11 9 advmod	color:blue
-1	Auto	_	ADJ	_	_	3	amod	_	SpaceAfter=No
-2	-	_	PUNCT	_	_	3	punct	_	SpaceAfter=No
-3	correction	_	NOUN	_	_	0	root	_	_
-4	–	_	PUNCT	_	_	3	punct	_	_
-5	the	_	DET	_	_	6	det	_	_
-6	CMCS	_	NOUN	_	_	11	nsubj	_	_
-7	shall	_	AUX	_	_	11	aux	_	_
-8	be	_	AUX	_	_	11	cop	_	_
-9	self	_	ADV	_	_	11	advmod	_	SpaceAfter=No
-10	-	_	PUNCT	_	_	11	punct	_	SpaceAfter=No
-11	monitoring	_	ADJ	_	_	3	parataxis	_	SpaceAfter=No
-12	.	_	PUNCT	_	_	3	punct	_	_
+1	Auto	auto	ADJ	_	_	3	amod	_	SpaceAfter=No
+2	-	-	PUNCT	_	_	3	punct	_	SpaceAfter=No
+3	correction	correction	NOUN	_	Number=Sing	0	root	_	_
+4	–	–	PUNCT	_	_	3	punct	_	_
+5	the	the	DET	_	_	6	det	_	_
+6	CMCS	cmcs	NOUN	_	Number=Sing	11	nsubj	_	_
+7	shall	shall	AUX	_	_	11	aux	_	_
+8	be	be	AUX	_	Number=Sing|Tense=Pres	11	cop	_	_
+9	self	self	ADV	_	_	11	advmod	_	SpaceAfter=No
+10	-	-	PUNCT	_	_	11	punct	_	SpaceAfter=No
+11	monitoring	monitoring	ADJ	_	_	3	parataxis	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~
 

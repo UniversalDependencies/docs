@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="ja_pudluw-dep-nsubj.html">nsubj</a></tt>.
 
-70 nodes (0%) are attached to their parents as `nsubj:outer`.
+71 nodes (0%) are attached to their parents as `nsubj:outer`.
 
-70 instances of `nsubj:outer` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 12.3571428571429.
+71 instances of `nsubj:outer` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 12.2816901408451.
 
-The following 8 pairs of parts of speech are connected with `nsubj:outer`: <tt><a href="ja_pudluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_pudluw-pos-NOUN.html">NOUN</a></tt> (39; 56% instances), <tt><a href="ja_pudluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_pudluw-pos-PRON.html">PRON</a></tt> (15; 21% instances), <tt><a href="ja_pudluw-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_pudluw-pos-NOUN.html">NOUN</a></tt> (7; 10% instances), <tt><a href="ja_pudluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_pudluw-pos-PROPN.html">PROPN</a></tt> (3; 4% instances), <tt><a href="ja_pudluw-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_pudluw-pos-PROPN.html">PROPN</a></tt> (2; 3% instances), <tt><a href="ja_pudluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_pudluw-pos-NOUN.html">NOUN</a></tt> (2; 3% instances), <tt><a href="ja_pudluw-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_pudluw-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="ja_pudluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_pudluw-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
+The following 8 pairs of parts of speech are connected with `nsubj:outer`: <tt><a href="ja_pudluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_pudluw-pos-NOUN.html">NOUN</a></tt> (40; 56% instances), <tt><a href="ja_pudluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_pudluw-pos-PRON.html">PRON</a></tt> (15; 21% instances), <tt><a href="ja_pudluw-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_pudluw-pos-NOUN.html">NOUN</a></tt> (7; 10% instances), <tt><a href="ja_pudluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_pudluw-pos-PROPN.html">PROPN</a></tt> (3; 4% instances), <tt><a href="ja_pudluw-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_pudluw-pos-PROPN.html">PROPN</a></tt> (2; 3% instances), <tt><a href="ja_pudluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_pudluw-pos-NOUN.html">NOUN</a></tt> (2; 3% instances), <tt><a href="ja_pudluw-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_pudluw-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="ja_pudluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_pudluw-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -22,7 +22,7 @@ The following 8 pairs of parts of speech are connected with `nsubj:outer`: <tt><
 # visual-style 17	bgColor:blue
 # visual-style 17	fgColor:white
 # visual-style 17 7 nsubj:outer	color:blue
-1	最初	最初	NOUN	名詞-普通名詞-一般	_	7	obl	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=サイショ,最初,最初,最初,サイショ,,,サイショ,サイショ,最初
+1	最初	最初	NOUN	名詞-普通名詞-一般	_	7	nmod	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=サイショ,最初,最初,最初,サイショ,,,サイショ,サイショ,最初
 2	に	に	ADP	助詞-格助詞	_	1	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=ニ,に,に,に,ニ,,,ニ,ニ,に
 3	ヤジディ	ヤジディ	PROPN	名詞-固有名詞-一般	_	7	nmod	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=ヤジディ,ヤジディ,ヤジディ,ヤジディ,ヤジディ,,,ヤジディ,ヤジディ,ヤジディ
 4	の	の	ADP	助詞-格助詞	_	3	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=ノ,の,の,の,ノ,,,ノ,ノ,の

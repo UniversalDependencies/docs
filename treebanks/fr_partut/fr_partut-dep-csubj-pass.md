@@ -22,10 +22,10 @@ The following 1 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 # visual-style 68	bgColor:blue
 # visual-style 68	fgColor:white
 # visual-style 68 70 csubj:pass	color:blue
-1	Conformément	conformément	ADV	B	_	4	advmod	_	_
-2	à	à	ADP	E	_	1	fixed	_	_
+1	Conformément	conformément	ADV	B	_	68	advmod	_	_
+2	à	à	ADP	E	_	4	case	_	_
 3	l'	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	4	det	_	SpaceAfter=No
-4	article	article	NOUN	S	Gender=Masc|Number=Sing	68	obl	_	_
+4	article	article	NOUN	S	Gender=Masc|Number=Sing	1	obl:arg	_	_
 5	13	13	NUM	N	NumType=Card	4	nummod	_	_
 6	de	de	ADP	E	_	8	case	_	_
 7	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
@@ -84,10 +84,10 @@ The following 1 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 60	de	de	ADP	E	_	62	case	_	_
 61	le	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	62	det	_	_
 62	30	30	NUM	N	NumType=Card	56	nmod	_	_
-63	novembre	novembre	NOUN	S	Gender=Fem|Number=Sing	62	flat	_	_
+63	novembre	novembre	NOUN	S	Gender=Masc|Number=Sing	62	flat	_	_
 64	2004	2004	NUM	N	NumType=Card	62	flat	_	SpaceAfter=No
 65	,	,	PUNCT	FF	_	4	punct	_	_
-66	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	68	expl	_	_
+66	il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	68	expl	_	_
 67	est	être	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	68	aux:pass	_	_
 68	proposé	proposer	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 69	de	de	ADP	E	_	70	mark	_	_

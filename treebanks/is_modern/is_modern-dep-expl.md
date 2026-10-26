@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-415 nodes (1%) are attached to their parents as `expl`.
+414 nodes (1%) are attached to their parents as `expl`.
 
-412 instances of `expl` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.98072289156626.
+411 instances of `expl` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.94927536231884.
 
-The following 10 pairs of parts of speech are connected with `expl`: <tt><a href="is_modern-pos-VERB.html">VERB</a></tt>-<tt><a href="is_modern-pos-PRON.html">PRON</a></tt> (214; 52% instances), <tt><a href="is_modern-pos-ADJ.html">ADJ</a></tt>-<tt><a href="is_modern-pos-PRON.html">PRON</a></tt> (105; 25% instances), <tt><a href="is_modern-pos-NOUN.html">NOUN</a></tt>-<tt><a href="is_modern-pos-PRON.html">PRON</a></tt> (48; 12% instances), <tt><a href="is_modern-pos-PRON.html">PRON</a></tt>-<tt><a href="is_modern-pos-PRON.html">PRON</a></tt> (18; 4% instances), <tt><a href="is_modern-pos-AUX.html">AUX</a></tt>-<tt><a href="is_modern-pos-PRON.html">PRON</a></tt> (10; 2% instances), <tt><a href="is_modern-pos-DET.html">DET</a></tt>-<tt><a href="is_modern-pos-PRON.html">PRON</a></tt> (8; 2% instances), <tt><a href="is_modern-pos-ADV.html">ADV</a></tt>-<tt><a href="is_modern-pos-PRON.html">PRON</a></tt> (4; 1% instances), <tt><a href="is_modern-pos-PART.html">PART</a></tt>-<tt><a href="is_modern-pos-PRON.html">PRON</a></tt> (4; 1% instances), <tt><a href="is_modern-pos-ADP.html">ADP</a></tt>-<tt><a href="is_modern-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="is_modern-pos-PROPN.html">PROPN</a></tt>-<tt><a href="is_modern-pos-PRON.html">PRON</a></tt> (2; 0% instances).
+The following 10 pairs of parts of speech are connected with `expl`: <tt><a href="is_modern-pos-VERB.html">VERB</a></tt>-<tt><a href="is_modern-pos-PRON.html">PRON</a></tt> (214; 52% instances), <tt><a href="is_modern-pos-ADJ.html">ADJ</a></tt>-<tt><a href="is_modern-pos-PRON.html">PRON</a></tt> (105; 25% instances), <tt><a href="is_modern-pos-NOUN.html">NOUN</a></tt>-<tt><a href="is_modern-pos-PRON.html">PRON</a></tt> (48; 12% instances), <tt><a href="is_modern-pos-PRON.html">PRON</a></tt>-<tt><a href="is_modern-pos-PRON.html">PRON</a></tt> (17; 4% instances), <tt><a href="is_modern-pos-AUX.html">AUX</a></tt>-<tt><a href="is_modern-pos-PRON.html">PRON</a></tt> (10; 2% instances), <tt><a href="is_modern-pos-DET.html">DET</a></tt>-<tt><a href="is_modern-pos-PRON.html">PRON</a></tt> (8; 2% instances), <tt><a href="is_modern-pos-ADV.html">ADV</a></tt>-<tt><a href="is_modern-pos-PRON.html">PRON</a></tt> (4; 1% instances), <tt><a href="is_modern-pos-PART.html">PART</a></tt>-<tt><a href="is_modern-pos-PRON.html">PRON</a></tt> (4; 1% instances), <tt><a href="is_modern-pos-ADP.html">ADP</a></tt>-<tt><a href="is_modern-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="is_modern-pos-PROPN.html">PROPN</a></tt>-<tt><a href="is_modern-pos-PRON.html">PRON</a></tt> (2; 0% instances).
 
 
 ~~~ conllu

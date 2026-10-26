@@ -64,7 +64,7 @@ The following 5 pairs of parts of speech are connected with `flat`: <tt><a href=
 # visual-style 6 7 flat	color:blue
 1	Máš	mít	VERB	VB-S---2P-AA---	Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
 2	všecko	všecek	PRON	PLNS4----------	Case=Acc|Gender=Neut|Number=Sing|PronType=Tot	1	obj	1:obj	_
-3	připravené	připravený	ADJ	AANS4----1A----	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos	2	xcomp	2:xcomp	_
+3	připravené	připravený	ADJ	AANS4----1A----	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos	2	advcl:pred	2:advcl:pred	_
 4	na	na	ADP	RR--4----------	AdpType=Prep|Case=Acc	5	case	5:case	_
 5	hodinu	hodina	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing	3	obl	3:obl:na:acc	_
 6	pana	pan	NOUN	NNMS2-----A----	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	5	nmod	5:nmod:gen	_

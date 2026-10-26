@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="hy_bsut-dep-obl.html">obl</a></tt>.
 
-50 nodes (0%) are attached to their parents as `obl:agent`.
+64 nodes (0%) are attached to their parents as `obl:agent`.
 
-42 instances of `obl:agent` (84%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.62.
+55 instances of `obl:agent` (86%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.046875.
 
-The following 3 pairs of parts of speech are connected with `obl:agent`: <tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt> (47; 94% instances), <tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_bsut-pos-PRON.html">PRON</a></tt> (2; 4% instances), <tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_bsut-pos-PROPN.html">PROPN</a></tt> (1; 2% instances).
+The following 3 pairs of parts of speech are connected with `obl:agent`: <tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt> (60; 94% instances), <tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_bsut-pos-PRON.html">PRON</a></tt> (3; 5% instances), <tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_bsut-pos-PROPN.html">PROPN</a></tt> (1; 2% instances).
 
 
 ~~~ conllu

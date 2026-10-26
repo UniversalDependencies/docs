@@ -22,12 +22,12 @@ The following 35 pairs of parts of speech are connected with `nmod`: <tt><a href
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 6 nmod	color:blue
-1	iþ	iþ	CCONJ	C-	_	5	cc	_	ref=MATT_5.21
-2	saei	saei	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	3	nsubj	_	ref=MATT_5.21
-3	maurþreiþ	maurþrjan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	nsubj	_	ref=MATT_5.21
-4	skula	skula	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	5	xcomp	_	ref=MATT_5.21
-5	wairþiþ	wairþan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_5.21
-6	stauai	staua	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	4	nmod	_	ref=MATT_5.21|LId=1
+1	iþ	iþ	CCONJ	C-	_	5	cc	_	Ref=MATT_5.21
+2	saei	saei	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	3	nsubj	_	Ref=MATT_5.21
+3	maurþreiþ	maurþrjan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	nsubj	_	Ref=MATT_5.21
+4	skula	skula	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	5	xcomp	_	Ref=MATT_5.21
+5	wairþiþ	wairþan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_5.21
+6	stauai	staua	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	4	nmod	_	LId=1|Ref=MATT_5.21
 
 ~~~
 
@@ -38,13 +38,13 @@ The following 35 pairs of parts of speech are connected with `nmod`: <tt><a href
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 7 nmod	color:blue
-1	Jah	jah	CCONJ	C-	_	2	cc	_	ref=MARK_5.1
-2	qemun	qiman	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=MARK_5.1
-3	hindar	hindar	ADP	R-	_	4	case	_	ref=MARK_5.1
-4	marein	marei	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	2	obl	_	ref=MARK_5.1
-5	in	in	ADP	R-	_	6	case	_	ref=MARK_5.1
-6	landa	land	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	4	appos	_	ref=MARK_5.1
-7	Gaddarene	Gaddarenus*	PROPN	Ne	Case=Gen|Gender=Masc|Number=Plur	6	nmod	_	ref=MARK_5.1
+1	Jah	jah	CCONJ	C-	_	2	cc	_	Ref=MARK_5.1
+2	qemun	qiman	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=MARK_5.1
+3	hindar	hindar	ADP	R-	_	4	case	_	Ref=MARK_5.1
+4	marein	marei	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	2	obl	_	Ref=MARK_5.1
+5	in	in	ADP	R-	_	6	case	_	Ref=MARK_5.1
+6	landa	land	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	4	appos	_	Ref=MARK_5.1
+7	Gaddarene	Gaddarenus*	PROPN	Ne	Case=Gen|Gender=Masc|Number=Plur	6	nmod	_	Ref=MARK_5.1
 
 ~~~
 
@@ -55,16 +55,16 @@ The following 35 pairs of parts of speech are connected with `nmod`: <tt><a href
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 9 nmod	color:blue
-1	jabai	jabai	SCONJ	G-	_	3	mark	_	ref=MATT_5.46
-2	auk	auk	ADV	Df	_	10	discourse	_	ref=MATT_5.46
-3	frijoþ	frijon	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	10	advcl	_	ref=MATT_5.46
-4	þans	sa	DET	Pd	Case=Acc|Gender=Masc|Number=Plur	5	det	_	ref=MATT_5.46
-5	frijondans	frijon	VERB	V-	Case=Acc|Gender=Masc|Number=Plur|Strength=Weak|Tense=Pres|VerbForm=Part|Voice=Act	3	obj	_	ref=MATT_5.46
-6	izwis	jūs	PRON	Pp	Case=Acc|Gender=Fem,Masc|Number=Plur|Person=2|PronType=Prs	5	obj	_	ref=MATT_5.46
-7	ainans	ains	NUM	Ma	Case=Acc|Gender=Masc|Number=Plur	5	nummod	_	ref=MATT_5.46
-8	ƕo	ƕas	PRON	Pi	Case=Acc|Gender=Fem|Number=Sing|PronType=Int	10	obj	_	ref=MATT_5.46
-9	mizdono	mizdo	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	8	nmod	_	ref=MATT_5.46
-10	habaiþ	haban	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_5.46
+1	jabai	jabai	SCONJ	G-	_	3	mark	_	Ref=MATT_5.46
+2	auk	auk	ADV	Df	_	10	discourse	_	Ref=MATT_5.46
+3	frijoþ	frijon	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	10	advcl	_	Ref=MATT_5.46
+4	þans	sa	DET	Pd	Case=Acc|Gender=Masc|Number=Plur	5	det	_	Ref=MATT_5.46
+5	frijondans	frijon	VERB	V-	Case=Acc|Gender=Masc|Number=Plur|Strength=Weak|Tense=Pres|VerbForm=Part|Voice=Act	3	obj	_	Ref=MATT_5.46
+6	izwis	jūs	PRON	Pp	Case=Acc|Gender=Fem,Masc|Number=Plur|Person=2|PronType=Prs	5	obj	_	Ref=MATT_5.46
+7	ainans	ains	NUM	Ma	Case=Acc|Gender=Masc|Number=Plur	5	nummod	_	Ref=MATT_5.46
+8	ƕo	ƕas	PRON	Pi	Case=Acc|Gender=Fem|Number=Sing|PronType=Int	10	obj	_	Ref=MATT_5.46
+9	mizdono	mizdo	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	8	nmod	_	Ref=MATT_5.46
+10	habaiþ	haban	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_5.46
 
 ~~~
 

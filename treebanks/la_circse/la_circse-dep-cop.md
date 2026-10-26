@@ -8,66 +8,62 @@ udver: '2'
 
 This relation is universal.
 
-210 nodes (1%) are attached to their parents as `cop`.
+347 nodes (1%) are attached to their parents as `cop`.
 
-156 instances of `cop` (74%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.74285714285714.
+249 instances of `cop` (72%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.67723342939481.
 
-The following 10 pairs of parts of speech are connected with `cop`: <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_circse-pos-AUX.html">AUX</a></tt> (87; 41% instances), <tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_circse-pos-AUX.html">AUX</a></tt> (65; 31% instances), <tt><a href="la_circse-pos-DET.html">DET</a></tt>-<tt><a href="la_circse-pos-AUX.html">AUX</a></tt> (21; 10% instances), <tt><a href="la_circse-pos-PRON.html">PRON</a></tt>-<tt><a href="la_circse-pos-AUX.html">AUX</a></tt> (15; 7% instances), <tt><a href="la_circse-pos-ADV.html">ADV</a></tt>-<tt><a href="la_circse-pos-AUX.html">AUX</a></tt> (9; 4% instances), <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-AUX.html">AUX</a></tt> (8; 4% instances), <tt><a href="la_circse-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_circse-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="la_circse-pos-NUM.html">NUM</a></tt>-<tt><a href="la_circse-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="la_circse-pos-PART.html">PART</a></tt>-<tt><a href="la_circse-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="la_circse-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="la_circse-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `cop`: <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_circse-pos-AUX.html">AUX</a></tt> (130; 37% instances), <tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_circse-pos-AUX.html">AUX</a></tt> (120; 35% instances), <tt><a href="la_circse-pos-DET.html">DET</a></tt>-<tt><a href="la_circse-pos-AUX.html">AUX</a></tt> (31; 9% instances), <tt><a href="la_circse-pos-PRON.html">PRON</a></tt>-<tt><a href="la_circse-pos-AUX.html">AUX</a></tt> (29; 8% instances), <tt><a href="la_circse-pos-ADV.html">ADV</a></tt>-<tt><a href="la_circse-pos-AUX.html">AUX</a></tt> (19; 5% instances), <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-AUX.html">AUX</a></tt> (11; 3% instances), <tt><a href="la_circse-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_circse-pos-AUX.html">AUX</a></tt> (3; 1% instances), <tt><a href="la_circse-pos-NUM.html">NUM</a></tt>-<tt><a href="la_circse-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="la_circse-pos-PART.html">PART</a></tt>-<tt><a href="la_circse-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="la_circse-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="la_circse-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 1 cop	color:blue
+1	est	sum	AUX	B6	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	LASLAVariant=1|LiLaflcat=v6
+2	ne	ne	PART	O	PartType=Int	4	discourse	_	LASLAVariant=2|LiLaflcat=i
+3	aliqua	aliquis	PRON	L	Case=Nom|Gender=Fem|InflClass=LatPron|Number=Sing|PronType=Ind	4	det	_	LiLaflcat=p
+4	tellus	tellus	NOUN	A3	Case=Nom|Gender=Fem|InflClass=IndEurX|Number=Sing	0	root	_	LiLaflcat=n3
+5	Cereris	ceres	PROPN	A3	Case=Gen|Gender=Fem|InflClass=IndEurX|NameType=Rel|Number=Sing	8	nmod	_	LASLAVariant=N|LiLaflcat=n3
+6	aut	aut	CCONJ	S	_	7	cc	_	LiLaflcat=i
+7	Bacchi	bacchus	PROPN	A2	Case=Gen|Gender=Masc|InflClass=IndEurO|NameType=Rel|Number=Sing	5	conj	_	LASLAVariant=N|LiLaflcat=n2
+8	ferax	ferax	ADJ	C5	Case=Nom|Degree=Pos|Gender=Fem|InflClass=IndEurI|Number=Sing	4	amod	_	LiLaflcat=n7
+
+~~~
 
 
 ~~~ conllu
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 4 cop	color:blue
-1	ars	ars	NOUN	A3	Case=Nom|Gender=Fem|InflClass=IndEurI|Number=Sing	0	root	_	LiLaflcat=n3
-2	prima	primus	ADJ	D2	Case=Nom|Degree=Abs|Gender=Fem|InflClass=IndEurA|Number=Sing|NumType=Ord	1	amod	_	LiLaflcat=n6
-3	regni	regnum	NOUN	A2	Case=Gen|Gender=Neut|InflClass=IndEurO|Number=Sing	1	nmod	_	LiLaflcat=n2
-4	est	sum	AUX	B6	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	LASLAVariant=1|LiLaflcat=v6
-5	posse	possum	VERB	B6	Aspect=Imp|InflClass=LatAnom|InflClass[nominal]=Ind|VerbForm=Inf|Voice=Act	1	xcomp	_	LASLAVariant=1|LiLaflcat=v6
-6	inuidiam	inuidia	NOUN	A1	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing	7	obj	_	LiLaflcat=n1
-7	pati	patior	VERB	B5	Aspect=Imp|InflClass=LatI2|InflClass[nominal]=Ind|VerbForm=Inf|Voice=Pass	5	xcomp	_	LiLaflcat=v5
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 4 cop	color:blue
+1	feminis	femina	NOUN	A1	Case=Dat|Gender=Fem|InflClass=IndEurA|Number=Plur	3	obl:arg	_	LiLaflcat=n1|UniqueTokenId=TacGerma-Q-01-165_1
+2	lugere	lugeo	VERB	B2	Aspect=Imp|InflClass=LatE|VerbForm=Inf|Voice=Act	3	csubj	_	LiLaflcat=v2|TraditionalMood=Infinitivus|TraditionalTense=Praesens|UniqueTokenId=TacGerma-Q-01-165_2
+3	honestum	honestus	ADJ	C1	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing	0	root	_	LiLaflcat=n6|UniqueTokenId=TacGerma-Q-01-165_3
+4	est	sum	AUX	B6	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	LASLAVariant=1|LiLaflcat=v6|TraditionalMood=Indicativus|TraditionalTense=Praesens|UniqueTokenId=TacGerma-Q-01-165_4
+5	uiris	uir	NOUN	A2	Case=Dat|Gender=Masc|InflClass=IndEurO|Number=Plur	6	orphan	_	LiLaflcat=n2|UniqueTokenId=TacGerma-Q-01-165_5
+6	meminisse	memini	VERB	B3	Aspect=Perf|InflClass=LatX|VerbForm=Inf|Voice=Act	3	conj	_	LiLaflcat=v3|TraditionalMood=Infinitivus|TraditionalTense=Perfectum|UniqueTokenId=TacGerma-Q-01-165_6
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 3 cop	color:blue
-1	indigna	indignus	ADJ	C1	Case=Nom|Degree=Pos|Gender=Neut|InflClass=IndEurO|Number=Plur	0	root	_	LiLaflcat=n6
-2	te	tu	PRON	E	Case=Abl|InflClass=LatAnom|Number=Sing|Person=2|PronType=Prs	1	obl:arg	_	LiLaflcat=p
-3	sunt	sum	AUX	B6	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	LASLAVariant=1|LiLaflcat=v6
-4	spolia	spolium	NOUN	A2	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Plur	1	nsubj	_	LiLaflcat=n2
-5	si	si	SCONJ	T	_	7	mark	_	LASLAVariant=2|LiLaflcat=i
-6	tantum	tantum	DET	I	Case=Acc|Gender=Neut|InflClass=IndEurO|Number=Sing|PronType=Dem	7	obj	_	LASLAVariant=1|LiLaflcat=n6
-7	refers	refero	VERB	B6	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	1	advcl	_	LiLaflcat=v6
-8	quantum	quantum	DET	J	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing|NumType=Card|PronType=Rel	9	det	_	LASLAVariant=1|LiLaflcat=n6
-9	imperatum	impero	VERB	Y1	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Neut|InflClass=LatA|InflClass[nominal]=IndEurO|Number=Sing|VerbForm=Part|Voice=Pass	7	advcl:cmp	_	LiLaflcat=v1
-10	est	sum	AUX	Z1	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	LASLAVariant=2|LiLaflcat=v6
-
-~~~
-
-
-~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 1 cop	color:blue
-1	eris	sum	AUX	B6	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	3	cop	_	LASLAVariant=1|LiLaflcat=v6
-2	inter	inter	ADP	R	AdpType=Prep	3	case	_	LiLaflcat=i
-3	istos	iste	DET	I	Case=Acc|Gender=Masc|InflClass=LatPron|Number=Plur|PronType=Dem	0	root	_	LiLaflcat=p
-4	qui	qui	PRON	J	Case=Nom|Gender=Masc|InflClass=LatPron|Number=Plur|PronType=Rel	8	nsubj	_	LASLAVariant=1|LiLaflcat=p
-5	tamen	tamen	ADV	M	Degree=Pos	8	advmod	_	LiLaflcat=i
-6	nullo	nullus	DET	L	Case=Abl|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Neg	7	det	_	LiLaflcat=p
-7	stupro	stuprum	NOUN	A2	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Sing	8	obl	_	LiLaflcat=n2
-8	laesere	laedo	VERB	B3	Aspect=Perf|InflClass=LatX|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	acl:relcl	_	LiLaflcat=v3
-9	thalamos	thalamus	NOUN	A2	Case=Acc|Gender=Masc|InflClass=IndEurO|Number=Plur	8	obj	_	LiLaflcat=n2
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 8 cop	color:blue
+1	cladis	clades	NOUN	A3	Case=Gen|Gender=Fem|InflClass=IndEurI|Number=Sing	3	nmod	_	LiLaflcat=n3
+2	tuae	tuus	DET	F	Case=Gen|Gender=Fem|InflClass=IndEurA|Number=Sing|Number[psor]=Sing|Person[psor]=2|Poss=Yes|PronType=Prs	1	det	_	LiLaflcat=n6
+3	pars	pars	NOUN	A3	Case=Nom|Gender=Fem|InflClass=IndEurI|Number=Sing	7	nsubj	_	LiLaflcat=n3
+4	ista	iste	DET	I	Case=Nom|Gender=Fem|InflClass=LatPron|Number=Sing|PronType=Dem	3	det	_	LiLaflcat=p
+5	quam	qui	PRON	J	Case=Acc|Gender=Fem|InflClass=LatPron|Number=Sing|PronType=Rel	6	obj	_	LASLAVariant=1|LiLaflcat=p
+6	nosti	nosco	VERB	B3	Aspect=Perf|InflClass=LatX|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	3	acl:relcl	_	LiLaflcat=v3
+7	quota	quotus	DET	K	Case=Nom|Gender=Fem|InflClass=LatPron|Number=Sing|NumType=Card|PronType=Int	0	root	_	LiLaflcat=p
+8	est	sum	AUX	B6	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	LASLAVariant=1|LiLaflcat=v6
 
 ~~~
 

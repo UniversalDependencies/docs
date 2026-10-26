@@ -8,34 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-7530 nodes (11%) are attached to their parents as `root`.
+17369 nodes (11%) are attached to their parents as `root`.
 
-7530 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 7.47450199203187.
+17369 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 7.54257585353216.
 
-The following 8 pairs of parts of speech are connected with `root`: -<tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> (5654; 75% instances), -<tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> (1757; 23% instances), -<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (97; 1% instances), -<tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> (17; 0% instances), -<tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt> (2; 0% instances), -<tt><a href="ko_ksl-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), -<tt><a href="ko_ksl-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), -<tt><a href="ko_ksl-pos-X.html">X</a></tt> (1; 0% instances).
-
-
-~~~ conllu
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 0	bgColor:blue
-# visual-style 0	fgColor:white
-# visual-style 0 11 root	color:blue
-1	만약에	만약+에	ADV	NNG+JKB	_	3	obl	_	_
-2	돈이	돈+이	NOUN	NNG+JKS	_	3	nsubj	_	_
-3	없다손	없+다+손	VERB	VA+EF+JX	_	7	advcl	_	_
-4	치더라도	치+더라도	VERB	VV+EC	_	3	advcl	_	_
-5	은행에게	은행+에게	NOUN	NNG+JKB	_	7	obl	_	_
-6	돈을	돈+을	NOUN	NNG+JKO	_	7	obj	_	_
-7	빌리곤까지	빌리+고+ㄴ+까지	ADV	VV+EC+JX+JX	_	11	advcl	_	_
-8	해서도	하	AUX	VV+EC+JX	_	7	aux	_	_
-9	그렇게	그렇+게	ADV	VA+EC	_	10	advmod	_	_
-10	할	하+ㄹ	VERB	VV+ETM	_	11	acl	_	_
-11	것이다	것+이+다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
-12	.	.	PUNCT	SF	_	11	punct	_	_
-
-~~~
+The following 11 pairs of parts of speech are connected with `root`: -<tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> (10160; 58% instances), -<tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> (5731; 33% instances), -<tt><a href="ko_ksl-pos-AUX.html">AUX</a></tt> (1168; 7% instances), -<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (246; 1% instances), -<tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> (31; 0% instances), -<tt><a href="ko_ksl-pos-PUNCT.html">PUNCT</a></tt> (13; 0% instances), -<tt><a href="ko_ksl-pos-DET.html">DET</a></tt> (11; 0% instances), -<tt><a href="ko_ksl-pos-INTJ.html">INTJ</a></tt> (4; 0% instances), -<tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt> (3; 0% instances), -<tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt> (1; 0% instances), -<tt><a href="ko_ksl-pos-X.html">X</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -44,28 +22,46 @@ The following 8 pairs of parts of speech are connected with `root`: -<tt><a href
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 5 root	color:blue
-1	우선	우선	ADV	MAG	_	5	advmod	_	_
-2	꽃이	꽃+이	NOUN	NNG+JKS	_	5	nsubj	_	_
-3	많아서	많+아서	VERB	VA+EC	_	5	advcl	_	_
-4	그림처럼	그림+처럼	ADV	NNG+JKB	_	5	advmod	_	_
-5	예뻤다	예쁘+었+다	ADJ	VA+EP+EF	_	0	root	_	SpaceAfter=No
-6	.	.	PUNCT	SF	_	5	punct	_	_
+1	저는	저+는	PRON	NP+JX	PronType=Prs	5	nsubj	_	_
+2	6월	6+월	NOUN	SN+NNB	_	5	obl	_	_
+3	20일에	20+일+에	ADV	SN+NNB+JKB	_	2	flat	_	_
+4	여행을	여행+을	NOUN	NNG+JKO	_	5	obj	_	_
+5	가고	가+고	VERB	VV+EC	_	0	root	_	_
+6	싶습니다	싶	AUX	VX+EF	_	5	aux	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	5	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
-# visual-style 0 3 root	color:blue
-1	가격은	가격+은	NOUN	NNG+JX	_	5	dislocated	_	_
-2	성인인경우	성인+이+ㄴ+경우	NOUN	NNG+VCP+ETM+NNG	_	3	obl	_	_
-3	199.000이며	199+.+000+이+며	NOUN	SN+SF+SN+VCP+EC	_	0	root	_	_
-4	아동은	아동+은	NOUN	NNG+JX	_	5	nsubj	_	_
-5	174,000원이다	174+,+000+원+이+다	VERB	SN+SP+SN+NNB+VCP+EC	_	3	conj	_	SpaceAfter=No
-6	.	.	PUNCT	SF	_	5	punct	_	_
+# visual-style 0 7 root	color:blue
+1	제주도에	제주도+에	ADV	NNP+JKB	_	3	obl	_	_
+2	등산을	등산+을	NOUN	NNG+JKO	_	3	obj	_	_
+3	하고	하+고	VERB	VV+EC	_	7	advcl	_	_
+4	전통	전통	NOUN	NNG	_	5	nmod	_	_
+5	음식을	음식+을	NOUN	NNG+JKO	_	6	obj	_	_
+6	먹을	먹+을	VERB	VV+ETM	_	7	acl	_	_
+7	겁니다	것+이+ㅂ니다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 0	bgColor:blue
+# visual-style 0	fgColor:white
+# visual-style 0 4 root	color:blue
+1	한국어도	한국어+도	NOUN	NNG+JX	_	2	obj	_	_
+2	배울	배우+ㄹ	VERB	VV+ETM	_	3	acl	_	_
+3	수	수	NOUN	NNB	_	4	nsubj	_	_
+4	있습니다	있	AUX	VX+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
 
 ~~~
 

@@ -83,8 +83,8 @@ This is subtype of adjective or adverb.
 ### <a name="Frac">`Frac`</a>: fraction
 
 This is a subtype of cardinal numbers.
-It may denote a fraction or just the denominator of the
-fraction.
+It may denote a fraction or just the denominator of the fraction.
+Note that this feature is [currently used inconsistently](https://github.com/UniversalDependencies/docs/issues/1205) in the Czech treebanks: Some of the _-ina_ forms are tagged [NOUN](). This will be revised in the future.
 
 #### Examples
 
@@ -99,4 +99,4 @@ things, or nouns that are pluralia tantum.
 
 * _<b>dvoje</b> / <b>troje</b> boty&nbsp;_ “<b>two</b> / <b>three</b> [pairs of] shoes”;
   as opposed to normal cardinal numbers: _dvě / tři boty&nbsp;_ “two / three shoes”
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:54 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:03 CEST -->

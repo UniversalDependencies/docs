@@ -62,20 +62,20 @@ The 2nd highest number of forms (2) was observed with the lemma “siue”: <em>
 
 The 3rd highest number of forms (1) was observed with the lemma “at”: <em>at</em>.
 
-`CCONJ` occurs with 4 features: <tt><a href="la_ittb-feat-Compound.html">Compound</a></tt> (611; 3% instances), <tt><a href="la_ittb-feat-Polarity.html">Polarity</a></tt> (509; 3% instances), <tt><a href="la_ittb-feat-VerbForm.html">VerbForm</a></tt> (205; 1% instances), <tt><a href="la_ittb-feat-PronType.html">PronType</a></tt> (1; 0% instances)
+`CCONJ` occurs with 5 features: <tt><a href="la_ittb-feat-Compound.html">Compound</a></tt> (611; 3% instances), <tt><a href="la_ittb-feat-Polarity.html">Polarity</a></tt> (509; 3% instances), <tt><a href="la_ittb-feat-VerbForm.html">VerbForm</a></tt> (205; 1% instances), <tt><a href="la_ittb-feat-ExtPos.html">ExtPos</a></tt> (2; 0% instances), <tt><a href="la_ittb-feat-PronType.html">PronType</a></tt> (1; 0% instances)
 
-`CCONJ` occurs with 4 feature-value pairs: `Compound=Yes`, `Polarity=Neg`, `PronType=Rel`, `VerbForm=Fin`
+`CCONJ` occurs with 6 feature-value pairs: `Compound=Yes`, `ExtPos=ADV`, `ExtPos=SCONJ`, `Polarity=Neg`, `PronType=Rel`, `VerbForm=Fin`
 
-`CCONJ` occurs with 6 feature combinations.
-The most frequent feature combination is `_` (17988 tokens).
+`CCONJ` occurs with 8 feature combinations.
+The most frequent feature combination is `_` (17987 tokens).
 Examples: <em>et, sed, uel, nec, aut, siue, neque, ac, tum, que</em>
 
 
 ## Relations
 
-`CCONJ` nodes are attached to their parents using 10 different relations: <tt><a href="la_ittb-dep-cc.html">cc</a></tt> (16842; 88% instances), <tt><a href="la_ittb-dep-mark.html">mark</a></tt> (1146; 6% instances), <tt><a href="la_ittb-dep-advmod-emph.html">advmod:emph</a></tt> (1136; 6% instances), <tt><a href="la_ittb-dep-advcl.html">advcl</a></tt> (9; 0% instances), <tt><a href="la_ittb-dep-root.html">root</a></tt> (9; 0% instances), <tt><a href="la_ittb-dep-orphan.html">orphan</a></tt> (3; 0% instances), <tt><a href="la_ittb-dep-advcl-cmp.html">advcl:cmp</a></tt> (1; 0% instances), <tt><a href="la_ittb-dep-conj.html">conj</a></tt> (1; 0% instances), <tt><a href="la_ittb-dep-fixed.html">fixed</a></tt> (1; 0% instances), <tt><a href="la_ittb-dep-obl.html">obl</a></tt> (1; 0% instances)
+`CCONJ` nodes are attached to their parents using 10 different relations: <tt><a href="la_ittb-dep-cc.html">cc</a></tt> (16847; 88% instances), <tt><a href="la_ittb-dep-mark.html">mark</a></tt> (1141; 6% instances), <tt><a href="la_ittb-dep-advmod-emph.html">advmod:emph</a></tt> (1136; 6% instances), <tt><a href="la_ittb-dep-advcl.html">advcl</a></tt> (9; 0% instances), <tt><a href="la_ittb-dep-root.html">root</a></tt> (9; 0% instances), <tt><a href="la_ittb-dep-orphan.html">orphan</a></tt> (3; 0% instances), <tt><a href="la_ittb-dep-advcl-cmp.html">advcl:cmp</a></tt> (1; 0% instances), <tt><a href="la_ittb-dep-conj.html">conj</a></tt> (1; 0% instances), <tt><a href="la_ittb-dep-fixed.html">fixed</a></tt> (1; 0% instances), <tt><a href="la_ittb-dep-obl.html">obl</a></tt> (1; 0% instances)
 
-Parents of `CCONJ` nodes belong to 13 different parts of speech: <tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt> (8039; 42% instances), <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> (6817; 36% instances), <tt><a href="la_ittb-pos-ADJ.html">ADJ</a></tt> (1886; 10% instances), <tt><a href="la_ittb-pos-DET.html">DET</a></tt> (975; 5% instances), <tt><a href="la_ittb-pos-ADV.html">ADV</a></tt> (647; 3% instances), <tt><a href="la_ittb-pos-PRON.html">PRON</a></tt> (429; 2% instances), <tt><a href="la_ittb-pos-AUX.html">AUX</a></tt> (155; 1% instances), <tt><a href="la_ittb-pos-PROPN.html">PROPN</a></tt> (90; 0% instances), <tt><a href="la_ittb-pos-NUM.html">NUM</a></tt> (46; 0% instances), <tt><a href="la_ittb-pos-PART.html">PART</a></tt> (40; 0% instances), <tt><a href="la_ittb-pos-ADP.html">ADP</a></tt> (15; 0% instances),  (9; 0% instances), <tt><a href="la_ittb-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
+Parents of `CCONJ` nodes belong to 13 different parts of speech: <tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt> (8039; 42% instances), <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> (6817; 36% instances), <tt><a href="la_ittb-pos-ADJ.html">ADJ</a></tt> (1886; 10% instances), <tt><a href="la_ittb-pos-DET.html">DET</a></tt> (976; 5% instances), <tt><a href="la_ittb-pos-ADV.html">ADV</a></tt> (647; 3% instances), <tt><a href="la_ittb-pos-PRON.html">PRON</a></tt> (428; 2% instances), <tt><a href="la_ittb-pos-AUX.html">AUX</a></tt> (155; 1% instances), <tt><a href="la_ittb-pos-PROPN.html">PROPN</a></tt> (90; 0% instances), <tt><a href="la_ittb-pos-NUM.html">NUM</a></tt> (46; 0% instances), <tt><a href="la_ittb-pos-PART.html">PART</a></tt> (40; 0% instances), <tt><a href="la_ittb-pos-ADP.html">ADP</a></tt> (15; 0% instances),  (9; 0% instances), <tt><a href="la_ittb-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
 
 18554 (97%) `CCONJ` nodes are leaves.
 

@@ -26,7 +26,7 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 * `Dat` (4; 0% of non-empty `Case`): <em>dien, dezen</em>
 * `Gen` (4; 0% of non-empty `Case`): <em>zijns, uwer, zijner</em>
 * `Nom` (4142; 74% of non-empty `Case`): <em>hij, ik, we, men, je, zij, wij, u, jij, ie</em>
-* `EMPTY` (7559): <em>die, het, dat, zijn, wat, ze, wie, hun, haar, dit</em>
+* `EMPTY` (7582): <em>die, het, dat, zijn, wat, ze, wie, hun, haar, dit</em>
 
 <table>
   <tr><th>Paradigm <i>u</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Gen</tt></th></tr>

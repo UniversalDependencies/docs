@@ -66,7 +66,7 @@ The following 16 pairs of parts of speech are connected with `reparandum`: <tt><
 4	ikke	ikke	PART	adv	Polarity=Neg	5	advmod	_	_
 5	si	si	VERB	verb	VerbForm=Inf	0	root	_	_
 6	at	at	SCONJ	sbu	_	5	reparandum	_	_
-7	det	det	PRON	pron	Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	reparandum	_	_
+7	det	den	PRON	pron	Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	reparandum	_	_
 8	ikke	ikke	PART	adv	Polarity=Neg	5	reparandum	_	_
 9	mulig	mulig	ADJ	adj	Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	5	reparandum	_	_
 10	å	å	PART	inf-merke	_	11	mark	_	_

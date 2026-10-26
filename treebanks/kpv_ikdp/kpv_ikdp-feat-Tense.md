@@ -18,7 +18,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="kpv_ikdp-pos-VERB.h
 
 253 <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt> tokens (73% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="kpv_ikdp-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (250; 99%), <tt><a href="kpv_ikdp-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (250; 99%), <tt><a href="kpv_ikdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (205; 81%), <tt><a href="kpv_ikdp-feat-Person.html">Person</a></tt><tt>=3</tt> (170; 67%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="kpv_ikdp-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (250; 99%), <tt><a href="kpv_ikdp-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (250; 99%), <tt><a href="kpv_ikdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (205; 81%), <tt><a href="kpv_ikdp-feat-Person.html">Person</a></tt><tt>=3</tt> (170; 67%).
 
 `VERB` tokens may have the following values of `Tense`:
 
@@ -36,7 +36,7 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 40 <tt><a href="kpv_ikdp-pos-AUX.html">AUX</a></tt> tokens (69% of all `AUX` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="kpv_ikdp-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (40; 100%), <tt><a href="kpv_ikdp-feat-Person.html">Person</a></tt><tt>=3</tt> (29; 73%), <tt><a href="kpv_ikdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (28; 70%), <tt><a href="kpv_ikdp-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (22; 55%).
+The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="kpv_ikdp-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (40; 100%), <tt><a href="kpv_ikdp-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (37; 93%), <tt><a href="kpv_ikdp-feat-Person.html">Person</a></tt><tt>=3</tt> (29; 73%), <tt><a href="kpv_ikdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (28; 70%), <tt><a href="kpv_ikdp-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (22; 55%).
 
 `AUX` tokens may have the following values of `Tense`:
 

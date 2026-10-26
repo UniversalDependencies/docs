@@ -53,7 +53,7 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
 
 * `Cmp` (2; 67% of non-empty `Degree`): <em>useammin, vahvemmin</em>
 * `Sup` (1; 33% of non-empty `Degree`): <em>laajimmin</em>
-* `EMPTY` (960): <em>myös, vain, enemmän, kuten, noin, kuitenkin, niin, hyvin, paljon, aina</em>
+* `EMPTY` (962): <em>myös, vain, enemmän, kuten, noin, kuitenkin, niin, hyvin, paljon, aina</em>
 
 ## Relations with Agreement in `Degree`
 

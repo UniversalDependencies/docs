@@ -57,4 +57,4 @@ it resembles the lexical verb _exist_, most notably in an existential sentence.
 Non-modal auxiliaries bear inflectional features like ordinary verbs.
 At present, modal auxiliaries have [VerbForm]()`=Fin` as their only feature (though some traditions ascribe them present or past tense).
 
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:19 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:34 CEST -->

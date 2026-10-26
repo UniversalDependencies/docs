@@ -34,7 +34,7 @@ The 10 most frequent ambiguous types:  را (<tt><a href="fa_seraji-pos-PART.htm
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.500000 (the average of all parts of speech is 1.409222).
+The form / lemma ratio of `PART` is 1.500000 (the average of all parts of speech is 1.372220).
 
 The 1st highest number of forms (2) was observed with the lemma “را”: را, و.
 

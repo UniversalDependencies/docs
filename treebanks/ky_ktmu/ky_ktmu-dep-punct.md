@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-3282 nodes (14%) are attached to their parents as `punct`.
+3351 nodes (14%) are attached to their parents as `punct`.
 
-3185 instances of `punct` (97%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.00853138330286.
+3248 instances of `punct` (97%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.0086541330946.
 
-The following 10 pairs of parts of speech are connected with `punct`: <tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt>-<tt><a href="ky_ktmu-pos-PUNCT.html">PUNCT</a></tt> (2492; 76% instances), <tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ky_ktmu-pos-PUNCT.html">PUNCT</a></tt> (356; 11% instances), <tt><a href="ky_ktmu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ky_ktmu-pos-PUNCT.html">PUNCT</a></tt> (287; 9% instances), <tt><a href="ky_ktmu-pos-NUM.html">NUM</a></tt>-<tt><a href="ky_ktmu-pos-PUNCT.html">PUNCT</a></tt> (75; 2% instances), <tt><a href="ky_ktmu-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ky_ktmu-pos-PUNCT.html">PUNCT</a></tt> (21; 1% instances), <tt><a href="ky_ktmu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ky_ktmu-pos-PUNCT.html">PUNCT</a></tt> (17; 1% instances), <tt><a href="ky_ktmu-pos-ADV.html">ADV</a></tt>-<tt><a href="ky_ktmu-pos-PUNCT.html">PUNCT</a></tt> (17; 1% instances), <tt><a href="ky_ktmu-pos-PRON.html">PRON</a></tt>-<tt><a href="ky_ktmu-pos-PUNCT.html">PUNCT</a></tt> (8; 0% instances), <tt><a href="ky_ktmu-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="ky_ktmu-pos-PUNCT.html">PUNCT</a></tt> (6; 0% instances), <tt><a href="ky_ktmu-pos-DET.html">DET</a></tt>-<tt><a href="ky_ktmu-pos-PUNCT.html">PUNCT</a></tt> (3; 0% instances).
+The following 10 pairs of parts of speech are connected with `punct`: <tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt>-<tt><a href="ky_ktmu-pos-PUNCT.html">PUNCT</a></tt> (2546; 76% instances), <tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ky_ktmu-pos-PUNCT.html">PUNCT</a></tt> (360; 11% instances), <tt><a href="ky_ktmu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ky_ktmu-pos-PUNCT.html">PUNCT</a></tt> (297; 9% instances), <tt><a href="ky_ktmu-pos-NUM.html">NUM</a></tt>-<tt><a href="ky_ktmu-pos-PUNCT.html">PUNCT</a></tt> (75; 2% instances), <tt><a href="ky_ktmu-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ky_ktmu-pos-PUNCT.html">PUNCT</a></tt> (21; 1% instances), <tt><a href="ky_ktmu-pos-ADV.html">ADV</a></tt>-<tt><a href="ky_ktmu-pos-PUNCT.html">PUNCT</a></tt> (19; 1% instances), <tt><a href="ky_ktmu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ky_ktmu-pos-PUNCT.html">PUNCT</a></tt> (17; 1% instances), <tt><a href="ky_ktmu-pos-PRON.html">PRON</a></tt>-<tt><a href="ky_ktmu-pos-PUNCT.html">PUNCT</a></tt> (8; 0% instances), <tt><a href="ky_ktmu-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="ky_ktmu-pos-PUNCT.html">PUNCT</a></tt> (6; 0% instances), <tt><a href="ky_ktmu-pos-DET.html">DET</a></tt>-<tt><a href="ky_ktmu-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances).
 
 
 ~~~ conllu
@@ -24,7 +24,7 @@ The following 10 pairs of parts of speech are connected with `punct`: <tt><a hre
 # visual-style 3 4 punct	color:blue
 1	Менин	Мен	PRON	PRP	Case=Gen|Number=Sing|Person=1|PronType=Prs	2	nmod	_	_
 2	машинам	машина	NOUN	NN	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=1	3	nsubj	_	_
-3	бар	бар	VERB	VB	Aspect=Perf|Mood=Ind|Polarity=Pos|Tense=Pres	0	root	_	SpaceAfter=No
+3	бар	бар	VERB	VB	Aspect=Perf|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	PCT	_	3	punct	_	_
 
 ~~~
@@ -38,7 +38,7 @@ The following 10 pairs of parts of speech are connected with `punct`: <tt><a hre
 # visual-style 3 4 punct	color:blue
 1	Айдана	Айдана	PROPN	PROP	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	3	nsubj	_	_
 2	мыкты	мыкты	ADJ	ADJ	_	3	amod	_	_
-3	бийчи	бий	NOUN	NN	Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+3	бийчи	бий	NOUN	NN	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	PCT	_	3	punct	_	_
 
 ~~~

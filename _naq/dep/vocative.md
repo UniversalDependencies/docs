@@ -9,6 +9,7 @@ The `vocative` relation is used to mark a dialogue participant addressed in a te
 
 ~~~ sdparse
 ǃGâi ǁgoas , ǃgôahesatse . \n Good morning , sir.VOC .
-vocative(ǁgoas, ǃgôahesats-.e)
+vocative(ǁgoas, ǃgôahesatse)
 vocative(morning, sir.VOC)
 ~~~
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:44 CEST -->

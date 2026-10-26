@@ -22,7 +22,7 @@ The following 1 pairs of parts of speech are connected with `det`: <tt><a href="
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 det	color:blue
-1	Midä	mi	PRON	PRON	Case=Par|Number=Sing	4	obj	_	PronType=Interr
+1	Midä	mi	PRON	PRON	Case=Par|Number=Sing|PronType=Int	4	obj	_	PronType=Interr
 2	se	se	PRON	PRON	Case=Nom|Number=Sing|PronType=Dem	3	det	_	_
 3	bobuli-briha	bobuli-briha	NOUN	NOUN	Case=Nom|Number=Sing	4	nsubj	_	_
 4	sanoi	sanuo	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No

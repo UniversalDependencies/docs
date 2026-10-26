@@ -72,6 +72,7 @@ The 10 most frequent relations where parent and child node agree in `Tense`:
 <tt>VERB --[<tt><a href="ru_pud-dep-aux-pass.html">aux:pass</a></tt>]--> AUX</tt> (112; 88%),
 <tt>VERB --[<tt><a href="ru_pud-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (83; 61%),
 <tt>VERB --[<tt><a href="ru_pud-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (41; 51%),
-<tt>AUX --[<tt><a href="ru_pud-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (3; 75%),
-<tt>VERB --[<tt><a href="ru_pud-dep-conj.html">conj</a></tt>]--> AUX</tt> (3; 75%).
+<tt>VERB --[<tt><a href="ru_pud-dep-conj.html">conj</a></tt>]--> AUX</tt> (3; 75%),
+<tt>AUX --[<tt><a href="ru_pud-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (2; 67%),
+<tt>AUX --[<tt><a href="ru_pud-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (1; 100%).
 

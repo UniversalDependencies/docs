@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_English-CTeTex: POS Tags: `DET`
 
-There are 1 `DET` lemmas (6%), 26 `DET` types (1%) and 936 `DET` tokens (10%).
-Out of 17 observed tags, the rank of `DET` is: 6 in number of lemmas, 8 in number of types and 3 in number of tokens.
+There are 26 `DET` lemmas (1%), 26 `DET` types (1%) and 936 `DET` tokens (10%).
+Out of 17 observed tags, the rank of `DET` is: 8 in number of lemmas, 8 in number of types and 3 in number of tokens.
 
-The 10 most frequent `DET` lemmas: <em>_</em>
+The 10 most frequent `DET` lemmas: <em>the, a, an, all, this, any, no, each, its, their</em>
 
 The 10 most frequent `DET` types:  <em>the, a, an, all, this, any, no, each, its, their</em>
 
-The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="en_ctetex-pos-NOUN.html">NOUN</a></tt> 2649, <tt><a href="en_ctetex-pos-PUNCT.html">PUNCT</a></tt> 1455, <tt><a href="en_ctetex-pos-DET.html">DET</a></tt> 936, <tt><a href="en_ctetex-pos-ADP.html">ADP</a></tt> 781, <tt><a href="en_ctetex-pos-VERB.html">VERB</a></tt> 721, <tt><a href="en_ctetex-pos-ADJ.html">ADJ</a></tt> 647, <tt><a href="en_ctetex-pos-AUX.html">AUX</a></tt> 492, <tt><a href="en_ctetex-pos-NUM.html">NUM</a></tt> 317, <tt><a href="en_ctetex-pos-PROPN.html">PROPN</a></tt> 293, <tt><a href="en_ctetex-pos-CCONJ.html">CCONJ</a></tt> 267, <tt><a href="en_ctetex-pos-ADV.html">ADV</a></tt> 185, <tt><a href="en_ctetex-pos-PART.html">PART</a></tt> 165, <tt><a href="en_ctetex-pos-SCONJ.html">SCONJ</a></tt> 163, <tt><a href="en_ctetex-pos-SYM.html">SYM</a></tt> 98, <tt><a href="en_ctetex-pos-PRON.html">PRON</a></tt> 83, <tt><a href="en_ctetex-pos-X.html">X</a></tt> 17, <tt><a href="en_ctetex-pos-INTJ.html">INTJ</a></tt> 4)
+The 10 most frequent ambiguous lemmas: <em>a</em> (<tt><a href="en_ctetex-pos-DET.html">DET</a></tt> 150, <tt><a href="en_ctetex-pos-NUM.html">NUM</a></tt> 9, <tt><a href="en_ctetex-pos-NOUN.html">NOUN</a></tt> 1), <em>all</em> (<tt><a href="en_ctetex-pos-DET.html">DET</a></tt> 31, <tt><a href="en_ctetex-pos-PRON.html">PRON</a></tt> 5), <em>this</em> (<tt><a href="en_ctetex-pos-DET.html">DET</a></tt> 17, <tt><a href="en_ctetex-pos-PRON.html">PRON</a></tt> 4), <em>any</em> (<tt><a href="en_ctetex-pos-DET.html">DET</a></tt> 16, <tt><a href="en_ctetex-pos-ADV.html">ADV</a></tt> 1, <tt><a href="en_ctetex-pos-PRON.html">PRON</a></tt> 1), <em>no</em> (<tt><a href="en_ctetex-pos-DET.html">DET</a></tt> 14, <tt><a href="en_ctetex-pos-ADV.html">ADV</a></tt> 5, <tt><a href="en_ctetex-pos-INTJ.html">INTJ</a></tt> 1), <em>each</em> (<tt><a href="en_ctetex-pos-DET.html">DET</a></tt> 9, <tt><a href="en_ctetex-pos-PRON.html">PRON</a></tt> 1), <em>that</em> (<tt><a href="en_ctetex-pos-PRON.html">PRON</a></tt> 21, <tt><a href="en_ctetex-pos-SCONJ.html">SCONJ</a></tt> 19, <tt><a href="en_ctetex-pos-DET.html">DET</a></tt> 4), <em>other</em> (<tt><a href="en_ctetex-pos-ADJ.html">ADJ</a></tt> 10, <tt><a href="en_ctetex-pos-DET.html">DET</a></tt> 3), <em>such</em> (<tt><a href="en_ctetex-pos-ADP.html">ADP</a></tt> 2, <tt><a href="en_ctetex-pos-DET.html">DET</a></tt> 2, <tt><a href="en_ctetex-pos-ADJ.html">ADJ</a></tt> 1), <em>these</em> (<tt><a href="en_ctetex-pos-DET.html">DET</a></tt> 2, <tt><a href="en_ctetex-pos-PRON.html">PRON</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>a</em> (<tt><a href="en_ctetex-pos-DET.html">DET</a></tt> 141, <tt><a href="en_ctetex-pos-NUM.html">NUM</a></tt> 9), <em>all</em> (<tt><a href="en_ctetex-pos-DET.html">DET</a></tt> 25, <tt><a href="en_ctetex-pos-PRON.html">PRON</a></tt> 5), <em>this</em> (<tt><a href="en_ctetex-pos-DET.html">DET</a></tt> 10, <tt><a href="en_ctetex-pos-PRON.html">PRON</a></tt> 1), <em>any</em> (<tt><a href="en_ctetex-pos-DET.html">DET</a></tt> 15, <tt><a href="en_ctetex-pos-ADV.html">ADV</a></tt> 1, <tt><a href="en_ctetex-pos-PRON.html">PRON</a></tt> 1), <em>no</em> (<tt><a href="en_ctetex-pos-DET.html">DET</a></tt> 12, <tt><a href="en_ctetex-pos-ADV.html">ADV</a></tt> 5), <em>each</em> (<tt><a href="en_ctetex-pos-DET.html">DET</a></tt> 6, <tt><a href="en_ctetex-pos-PRON.html">PRON</a></tt> 1), <em>that</em> (<tt><a href="en_ctetex-pos-PRON.html">PRON</a></tt> 21, <tt><a href="en_ctetex-pos-SCONJ.html">SCONJ</a></tt> 19, <tt><a href="en_ctetex-pos-DET.html">DET</a></tt> 4), <em>other</em> (<tt><a href="en_ctetex-pos-ADJ.html">ADJ</a></tt> 10, <tt><a href="en_ctetex-pos-DET.html">DET</a></tt> 3), <em>such</em> (<tt><a href="en_ctetex-pos-ADP.html">ADP</a></tt> 2, <tt><a href="en_ctetex-pos-DET.html">DET</a></tt> 2, <tt><a href="en_ctetex-pos-ADJ.html">ADJ</a></tt> 1), <em>these</em> (<tt><a href="en_ctetex-pos-DET.html">DET</a></tt> 2, <tt><a href="en_ctetex-pos-PRON.html">PRON</a></tt> 1)
 
@@ -54,9 +54,13 @@ The 10 most frequent ambiguous types:  <em>a</em> (<tt><a href="en_ctetex-pos-DE
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 26.000000 (the average of all parts of speech is 125.235294).
+The form / lemma ratio of `DET` is 1.000000 (the average of all parts of speech is 1.138503).
 
-The 1st highest number of forms (26) was observed with the lemma “_”: <em>More, a, all, an, another, any, both, each, every, her, his, its, my, no, other, our, some, such, that, the, their, these, this, those, what, which</em>.
+The 1st highest number of forms (1) was observed with the lemma “a”: <em>a</em>.
+
+The 2nd highest number of forms (1) was observed with the lemma “all”: <em>all</em>.
+
+The 3rd highest number of forms (1) was observed with the lemma “an”: <em>an</em>.
 
 `DET` does not occur with any features.
 
@@ -65,7 +69,7 @@ The 1st highest number of forms (26) was observed with the lemma “_”: <em>Mo
 
 `DET` nodes are attached to their parents using 3 different relations: <tt><a href="en_ctetex-dep-det.html">det</a></tt> (919; 98% instances), <tt><a href="en_ctetex-dep-nmod.html">nmod</a></tt> (16; 2% instances), <tt><a href="en_ctetex-dep-conj.html">conj</a></tt> (1; 0% instances)
 
-Parents of `DET` nodes belong to 9 different parts of speech: <tt><a href="en_ctetex-pos-NOUN.html">NOUN</a></tt> (898; 96% instances), <tt><a href="en_ctetex-pos-PROPN.html">PROPN</a></tt> (29; 3% instances), <tt><a href="en_ctetex-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="en_ctetex-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="en_ctetex-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="en_ctetex-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="en_ctetex-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="en_ctetex-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="en_ctetex-pos-SYM.html">SYM</a></tt> (1; 0% instances)
+Parents of `DET` nodes belong to 8 different parts of speech: <tt><a href="en_ctetex-pos-NOUN.html">NOUN</a></tt> (899; 96% instances), <tt><a href="en_ctetex-pos-PROPN.html">PROPN</a></tt> (29; 3% instances), <tt><a href="en_ctetex-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="en_ctetex-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="en_ctetex-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="en_ctetex-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="en_ctetex-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="en_ctetex-pos-SYM.html">SYM</a></tt> (1; 0% instances)
 
 933 (100%) `DET` nodes are leaves.
 

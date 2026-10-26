@@ -56,7 +56,7 @@ The following 6 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 10	fgColor:white
 # visual-style 10 9 nummod	color:blue
 1	Og	og	CCONJ	konj	_	5	cc	_	_
-2	det	det	PRON	pron	Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
+2	det	den	PRON	pron	Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
 3	er	være	AUX	verb	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	_
 4	ikke	ikke	PART	adv	Polarity=Neg	5	advmod	_	_
 5	gjort	gjøre	VERB	verb	VerbForm=Part	12	ccomp	_	_

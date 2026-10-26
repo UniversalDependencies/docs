@@ -10,7 +10,7 @@ This feature is universal.
 It occurs with 3 different values: `1`, `2`, `3`.
 
 154 tokens (11%) have a non-empty value of `Person`.
-32 types (7%) occur at least once with a non-empty value of `Person`.
+32 types (6%) occur at least once with a non-empty value of `Person`.
 8 lemmas (2%) occur at least once with a non-empty value of `Person`.
 The feature is used with 1 part-of-speech tags: <tt><a href="ceb_gja-pos-PRON.html">PRON</a></tt> (154; 11% instances).
 

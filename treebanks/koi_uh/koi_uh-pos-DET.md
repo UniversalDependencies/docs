@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Komi_Permyak-UH: POS Tags: `DET`
 
 There are 6 `DET` lemmas (1%), 6 `DET` types (1%) and 6 `DET` tokens (1%).
-Out of 15 observed tags, the rank of `DET` is: 11 in number of lemmas, 12 in number of types and 13 in number of tokens.
+Out of 15 observed tags, the rank of `DET` is: 11 in number of lemmas, 13 in number of types and 13 in number of tokens.
 
 The 10 most frequent `DET` lemmas: <em>ас, быд, кык, кынымкӧ, мукӧд, эта</em>
 
@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  <em>ас</em> (<tt><a href="koi_uh-pos-PR
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 1.000000 (the average of all parts of speech is 1.249476).
+The form / lemma ratio of `DET` is 1.000000 (the average of all parts of speech is 1.260870).
 
 The 1st highest number of forms (1) was observed with the lemma “ас”: <em>ас</em>.
 
@@ -32,12 +32,12 @@ The 2nd highest number of forms (1) was observed with the lemma “быд”: <e
 
 The 3rd highest number of forms (1) was observed with the lemma “кык”: <em>Кыкнан</em>.
 
-`DET` occurs with 3 features: <tt><a href="koi_uh-feat-Case.html">Case</a></tt> (3; 50% instances), <tt><a href="koi_uh-feat-Number.html">Number</a></tt> (3; 50% instances), <tt><a href="koi_uh-feat-PronType.html">PronType</a></tt> (2; 33% instances)
+`DET` occurs with 3 features: <tt><a href="koi_uh-feat-PronType.html">PronType</a></tt> (6; 100% instances), <tt><a href="koi_uh-feat-Case.html">Case</a></tt> (3; 50% instances), <tt><a href="koi_uh-feat-Number.html">Number</a></tt> (3; 50% instances)
 
-`DET` occurs with 3 feature-value pairs: `Case=Nom`, `Number=Sing`, `PronType=Tot`
+`DET` occurs with 5 feature-value pairs: `Case=Nom`, `Number=Sing`, `PronType=Dem`, `PronType=Ind`, `PronType=Tot`
 
-`DET` occurs with 4 feature combinations.
-The most frequent feature combination is `Case=Nom|Number=Sing` (2 tokens).
+`DET` occurs with 5 feature combinations.
+The most frequent feature combination is `Case=Nom|Number=Sing|PronType=Ind` (2 tokens).
 Examples: <em>Мукӧд, ас</em>
 
 

@@ -22,9 +22,9 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 
 `VERB` tokens may have the following values of `VerbForm`:
 
-* `Fin` (4485; 68% of non-empty `VerbForm`): <em>romper, analise, confira, resultou, tem, sobe, fechou, pode, vai, veja</em>
+* `Fin` (4483; 68% of non-empty `VerbForm`): <em>romper, analise, confira, resultou, tem, sobe, fechou, pode, vai, veja</em>
 * `Ger` (519; 8% of non-empty `VerbForm`): <em>caindo, subindo, comprando, falando, fazendo, dando, fechando, chegando, testando, saindo</em>
-* `Inf` (1109; 17% of non-empty `VerbForm`): <em>comprar, ver, vender, subir, fazer, saber, entrar, dar, investir, cair</em>
+* `Inf` (1111; 17% of non-empty `VerbForm`): <em>comprar, ver, vender, subir, fazer, saber, entrar, dar, investir, cair</em>
 * `Part` (467; 7% of non-empty `VerbForm`): <em>indicado, ajustadas, comprado, postado, vendido, feito, administrada, cancelado, capitalizada, negociado</em>
 * `EMPTY` (6): <em>CHUPAA, bombar, compra, devlveu, fêz, vêem</em>
 
@@ -103,7 +103,7 @@ The 10 most frequent relations where parent and child node agree in `VerbForm`:
 <tt>VERB --[<tt><a href="pt_dantestocks-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (689; 73%),
 <tt>VERB --[<tt><a href="pt_dantestocks-dep-conj.html">conj</a></tt>]--> VERB</tt> (435; 76%),
 <tt>VERB --[<tt><a href="pt_dantestocks-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (370; 64%),
-<tt>VERB --[<tt><a href="pt_dantestocks-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (105; 54%),
+<tt>VERB --[<tt><a href="pt_dantestocks-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (105; 53%),
 <tt>VERB --[<tt><a href="pt_dantestocks-dep-discourse.html">discourse</a></tt>]--> AUX</tt> (32; 74%),
 <tt>VERB --[<tt><a href="pt_dantestocks-dep-ccomp-speech.html">ccomp:speech</a></tt>]--> VERB</tt> (14; 64%),
 <tt>AUX --[<tt><a href="pt_dantestocks-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (6; 100%),

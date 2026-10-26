@@ -21,7 +21,7 @@ The feature is used with 3 part-of-speech tags: <tt><a href="zh_gsd-pos-ADV.html
 `ADV` tokens may have the following values of `Polarity`:
 
 * `Neg` (244; 100% of non-empty `Polarity`): 不、 未、 沒、 別、 無
-* `EMPTY` (2837): 曾、 已、 最、 約、 只、 更、 共、 主要、 已經、 將
+* `EMPTY` (2838): 曾、 已、 最、 約、 只、 更、 共、 主要、 已經、 將
 
 ### `VERB`
 
@@ -30,7 +30,7 @@ The feature is used with 3 part-of-speech tags: <tt><a href="zh_gsd-pos-ADV.html
 `VERB` tokens may have the following values of `Polarity`:
 
 * `Neg` (215; 100% of non-empty `Polarity`): 沒有、 不是、 不及、 不如、 不敵、 不滿、 沒收、 不停、 不受、 不合
-* `EMPTY` (18004): 有、 在、 於、 為、 是、 由、 成、 到、 位、 開始
+* `EMPTY` (18002): 有、 在、 於、 為、 是、 由、 成、 到、 位、 開始
 
 `Polarity` seems to be **lexical feature** of `VERB`. 100% lemmas (56) occur only with one value of `Polarity`.
 
@@ -43,7 +43,7 @@ The most frequent other feature values with which `AUX` and `Polarity` co-occurr
 `AUX` tokens may have the following values of `Polarity`:
 
 * `Neg` (112; 100% of non-empty `Polarity`): 不是、 不會、 不能、 未能、 不可、 不得、 不應、 不願、 不想、 不需
-* `EMPTY` (3780): 是、 了、 為、 被、 會、 可以、 著、 可、 也是、 能
+* `EMPTY` (3781): 是、 了、 為、 被、 會、 可以、 著、 可、 也是、 能
 
 `Polarity` seems to be **lexical feature** of `AUX`. 100% lemmas (12) occur only with one value of `Polarity`.
 

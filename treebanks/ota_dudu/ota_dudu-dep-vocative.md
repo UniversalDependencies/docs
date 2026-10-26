@@ -8,57 +8,65 @@ udver: '2'
 
 This relation is universal.
 
-2 nodes (0%) are attached to their parents as `vocative`.
+43 nodes (0%) are attached to their parents as `vocative`.
 
-2 instances of `vocative` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 6.5.
+30 instances of `vocative` (70%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.11627906976744.
 
-The following 2 pairs of parts of speech are connected with `vocative`: <tt><a href="ota_dudu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt> (1; 50% instances), <tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt>-<tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt> (1; 50% instances).
+The following 8 pairs of parts of speech are connected with `vocative`: <tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt>-<tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt> (16; 37% instances), <tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt>-<tt><a href="ota_dudu-pos-PROPN.html">PROPN</a></tt> (15; 35% instances), <tt><a href="ota_dudu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt> (4; 9% instances), <tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt> (4; 9% instances), <tt><a href="ota_dudu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ota_dudu-pos-PROPN.html">PROPN</a></tt> (1; 2% instances), <tt><a href="ota_dudu-pos-AUX.html">AUX</a></tt>-<tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ota_dudu-pos-PROPN.html">PROPN</a></tt> (1; 2% instances), <tt><a href="ota_dudu-pos-PRON.html">PRON</a></tt>-<tt><a href="ota_dudu-pos-PROPN.html">PROPN</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 12 2 vocative	color:blue
-1	saʿâdetlü	saʿâdetlü	ADJ	Adj	_	2	amod	_	DerivedFrom=saʿâdet
-2	pâdişahım	pâdişah	NOUN	Noun	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=1	12	vocative	_	_
-3	boġdân	boġdân	PROPN	Prop	Case=Nom|Number=Sing|Person=3	6	nmod	_	_
-4	ve	ve	CCONJ	Conj	_	5	cc	_	_
-5	eflâḳ	eflâḳ	PROPN	Prop	Case=Nom|Number=Sing|Person=3	6	nmod	_	_
-6	voyvodaları	voyvoda	NOUN	Noun	Case=Nom|Number=Plur|Number[psor]=Sing|Person=3|Person[psor]=3	12	nsubj	_	_
-7	ḳadîm	ḳadîm	ADJ	Adj	_	8	amod	_	_
-8	ü’l-eyyâmdan	eyyâm	NOUN	Noun	Case=Abl|Number=Sing|Person=3	12	obl	_	_
-9	devlet-i	devlet-i	NOUN	Noun	Case=Nom|Number=Sing|Person=3	11	nmod:poss	_	_
-10	ʿaliyyenüñ	ʿaliyyenüñ	ADJ	Adj	Case=Gen|Gender=Fem|Number=Sing|Person=3	9	nmod:poss	_	_
-11	dostına	dost	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	12	obl	_	_
-12	dost	dost	ADJ	NAdj	Case=Nom|Number=Sing|Person=3	0	root	_	_
-13	u	u	CCONJ	Conj	_	14	cc	_	_
-14	düşmenine	düşmân	NOUN	Noun	Case=Dat|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	15	obl	_	_
-15	düşmen	düşmân	ADJ	NAdj	Case=Nom|Number=Sing|Person=3	12	conj	_	_
-16	dür	i	AUX	Zero	Aspect=Perf|Number=Sing|Person=3|Tense=Pres	15	cop	_	_
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 8 vocative	color:blue
+1	duʿā	duʿā	NOUN	_	Case=Nom|Number=Sing|Person=3	4	obj	_	_
+2	vü	ve	CCONJ	_	_	3	cc	_	_
+3	alḳış	alḳış	NOUN	_	Case=Nom|Number=Sing|Person=3	1	conj	_	_
+4	itdi	it	VERB	_	Aspect=Perf|Evident=Fh|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	0	root	_	_
+5	ve	ve	CCONJ	_	_	6	cc	_	_
+6	eyitdi	eyit	VERB	_	Aspect=Perf|Evident=Fh|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	4	conj	_	_
+7	i-y	i-y	INTJ	_	_	8	discourse	_	_
+8	ʿemmi	ʿemmi	NOUN	_	Case=Nom|Number=Sing|Person=3	6	vocative	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 5 2 vocative	color:blue
-1	ey	ey	INTJ	_	_	3	discourse	_	_
-2	cemâʿat-i	cemâʿat	NOUN	_	_	5	vocative	_	_
-3	müslimîn	müslimîn	PROPN	Adj	Case=Nom|Number=Plur|Person=3	2	amod	_	SpaceAfter=No
-4	,	,	PUNCT	Comma	_	5	punct	_	_
-5	bilmiş	bil	VERB	Ptcp	Evident=Nfh|Number=Sing|Person=3|Polarity=Pos|Tense=Past	0	root	_	_
-6	olunuz	ol	AUX	_	Mood=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	5	aux	_	_
-7	ki	ki	SCONJ	_	_	10	mark	_	_
-8	müslümânlıḳta	müslümân	NOUN	_	Case=Loc|Number=Sing|Person=3	10	obl	_	_
-9	ḳavmiyyet	ḳavm	NOUN	_	Case=Nom|Number=Sing|Person=3	10	nsubj	_	_
-10	yoḳ	yoḳ	NOUN	Exist	Number=Sing|Person=3|Polarity=Neg	5	ccomp	_	_
-11	tur	i	AUX	Zero	Case=Nom|Number=Sing|Person=3	10	cop	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 5 vocative	color:blue
+1	ʿanter	ʿanter	PROPN	Pers	Case=Nom|NameType=Prs|Number=Sing|Person=3	2	nsubj	_	_
+2	eyitdi	eyit	VERB	_	Aspect=Perf|Evident=Fh|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	0	root	_	_
+3	āmīn	āmīn	INTJ	_	_	5	discourse	_	_
+4	yā	yā	INTJ	_	_	5	discourse	_	_
+5	sittāh	sittāh	PROPN	Pers	Case=Nom|NameType=Prs|Number=Sing|Person=3	2	vocative	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 4 vocative	color:blue
+1	fenā	fenā	ADJ	Adj	_	0	root	_	_
+2	dur	y	AUX	Zero	Aspect=Perf|Number=Sing|Person=3|Tense=Pres	1	cop	_	_
+3	pes	pes	ADV	_	_	1	advmod	_	_
+4	dil	dil	NOUN	_	Case=Nom|Number=Sing|Person=3	1	vocative	_	_
+5	ā	ā	INTJ	_	_	4	discourse	_	_
+6	rāh-ı	rāh	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	1	nsubj	_	_
+7	viṣālüñ	viṣāl	NOUN	_	Case=Gen|Number=Sing|Person=3	6	nmod:poss	_	_
+8	vücūduñ	vücūd	NOUN	_	Case=Gen|Number=Sing|Person=3	9	nmod:poss	_	_
+9	ṭayyı	ṭayy	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	1	conj	_	_
+10	dur	y	AUX	Zero	Aspect=Perf|Number=Sing|Person=3|Tense=Pres	9	cop	_	_
+11	ḥāl-i	ḥāl	NOUN	_	Case=Nom|Number=Sing|Person=3	9	nsubj	_	_
+12	ricālüñ	ricāl	NOUN	_	Case=Gen|Number=Sing|Person=3	11	nmod:poss	_	_
 
 ~~~
 

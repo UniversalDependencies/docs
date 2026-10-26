@@ -9,8 +9,7 @@ The relation `obl:arg` is used for oblique arguments and distinguishes them from
 adjuncts, which use the plain [obl]() relation.
 
 ~~~ sdparse
-oːn hallaːn hasara t= ʔabaː =t =iːb kirif -aː =b =u //
-text_en: but I have met them in the valley."
+oːn hallaːn hasara t= ʔabaː =t =iːb kirif -aː =b =u // \n but I have met them in the valley."
 obl:arg(kirif, ʔabaː) ("cut_off", "river_branch")
 ~~~
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:11:16 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:31 CEST -->

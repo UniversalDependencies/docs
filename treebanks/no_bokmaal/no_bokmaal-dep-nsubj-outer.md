@@ -7,6 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Norwegian-Bokmaal: Relations: `nsubj:outer`
 
 This relation is a language-specific subtype of <tt><a href="no_bokmaal-dep-nsubj.html">nsubj</a></tt>.
+There are also 1 other language-specific subtypes of `nsubj`: <tt><a href="no_bokmaal-dep-nsubj-pass.html">nsubj:pass</a></tt>.
 
 229 nodes (0%) are attached to their parents as `nsubj:outer`.
 
@@ -64,7 +65,7 @@ The following 17 pairs of parts of speech are connected with `nsubj:outer`: <tt>
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 2 nsubj:outer	color:blue
-1	Det	det	DET	det	Gender=Neut|Number=Sing|PronType=Dem	2	det	_	_
+1	Det	den	DET	det	Gender=Neut|Number=Sing|PronType=Art	2	det	_	_
 2	første	første	ADJ	adj	Definite=Def|Degree=Pos|Number=Sing|NumType=Ord	8	nsubj:outer	_	_
 3	han	han	PRON	pron	Animacy=Hum|Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
 4	husker	huske	VERB	verb	Mood=Ind|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	_

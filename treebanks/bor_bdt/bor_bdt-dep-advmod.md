@@ -8,44 +8,41 @@ udver: '2'
 
 This relation is universal.
 
-563 nodes (8%) are attached to their parents as `advmod`.
+18436 nodes (11%) are attached to their parents as `advmod`.
 
-284 instances of `advmod` (50%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.98934280639432.
+9880 instances of `advmod` (54%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.03075504447819.
 
-The following 10 pairs of parts of speech are connected with `advmod`: <tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bor_bdt-pos-ADV.html">ADV</a></tt> (452; 80% instances), <tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bor_bdt-pos-ADV.html">ADV</a></tt> (57; 10% instances), <tt><a href="bor_bdt-pos-PRON.html">PRON</a></tt>-<tt><a href="bor_bdt-pos-ADV.html">ADV</a></tt> (19; 3% instances), <tt><a href="bor_bdt-pos-ADV.html">ADV</a></tt>-<tt><a href="bor_bdt-pos-ADV.html">ADV</a></tt> (15; 3% instances), <tt><a href="bor_bdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="bor_bdt-pos-ADV.html">ADV</a></tt> (7; 1% instances), <tt><a href="bor_bdt-pos-ADP.html">ADP</a></tt>-<tt><a href="bor_bdt-pos-ADV.html">ADV</a></tt> (5; 1% instances), <tt><a href="bor_bdt-pos-X.html">X</a></tt>-<tt><a href="bor_bdt-pos-ADV.html">ADV</a></tt> (4; 1% instances), <tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bor_bdt-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="bor_bdt-pos-ADV.html">ADV</a></tt>-<tt><a href="bor_bdt-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bor_bdt-pos-PART.html">PART</a></tt> (1; 0% instances).
+The following 21 pairs of parts of speech are connected with `advmod`: <tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bor_bdt-pos-ADV.html">ADV</a></tt> (15894; 86% instances), <tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bor_bdt-pos-ADV.html">ADV</a></tt> (1133; 6% instances), <tt><a href="bor_bdt-pos-ADV.html">ADV</a></tt>-<tt><a href="bor_bdt-pos-ADV.html">ADV</a></tt> (555; 3% instances), <tt><a href="bor_bdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="bor_bdt-pos-ADV.html">ADV</a></tt> (247; 1% instances), <tt><a href="bor_bdt-pos-X.html">X</a></tt>-<tt><a href="bor_bdt-pos-ADV.html">ADV</a></tt> (162; 1% instances), <tt><a href="bor_bdt-pos-ADP.html">ADP</a></tt>-<tt><a href="bor_bdt-pos-ADV.html">ADV</a></tt> (111; 1% instances), <tt><a href="bor_bdt-pos-PRON.html">PRON</a></tt>-<tt><a href="bor_bdt-pos-ADV.html">ADV</a></tt> (102; 1% instances), <tt><a href="bor_bdt-pos-NUM.html">NUM</a></tt>-<tt><a href="bor_bdt-pos-ADV.html">ADV</a></tt> (49; 0% instances), <tt><a href="bor_bdt-pos-DET.html">DET</a></tt>-<tt><a href="bor_bdt-pos-ADV.html">ADV</a></tt> (46; 0% instances), <tt><a href="bor_bdt-pos-AUX.html">AUX</a></tt>-<tt><a href="bor_bdt-pos-ADV.html">ADV</a></tt> (29; 0% instances), <tt><a href="bor_bdt-pos-PART.html">PART</a></tt>-<tt><a href="bor_bdt-pos-ADV.html">ADV</a></tt> (23; 0% instances), <tt><a href="bor_bdt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="bor_bdt-pos-ADV.html">ADV</a></tt> (20; 0% instances), <tt><a href="bor_bdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="bor_bdt-pos-ADV.html">ADV</a></tt> (18; 0% instances), <tt><a href="bor_bdt-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="bor_bdt-pos-ADV.html">ADV</a></tt> (17; 0% instances), <tt><a href="bor_bdt-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="bor_bdt-pos-ADV.html">ADV</a></tt> (12; 0% instances), <tt><a href="bor_bdt-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="bor_bdt-pos-ADV.html">ADV</a></tt> (9; 0% instances), <tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bor_bdt-pos-PART.html">PART</a></tt> (3; 0% instances), <tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bor_bdt-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bor_bdt-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bor_bdt-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bor_bdt-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 4 advmod	color:blue
-1	Akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
-2	Uw	uw	X	x	_	1	ccomp	_	_
-3	!	!	PUNCT	punct	_	1	punct	_	_
-4	Icare	icare	ADV	adv	_	5	advmod	_	_
-5	makore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	1	parataxis	_	_
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 advmod	color:blue
+1	Icare	icare	ADV	adv	_	2	advmod	_	_
+2	eture	tu	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
+3	toro	toro	NOUN	n	_	2	obl	_	_
+4	bogai	bogai	ADP	posp	Number=Sing|Person=3	3	case	_	_
+5	.	.	PUNCT	punct	_	2	punct	_	SpacesAfter=\r\n\r\n
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 3 4 advmod	color:blue
-1	Arigao	Arigao	PROPN	propn	_	3	nsubj	_	_
-2	Bororo	Bororo	PROPN	propn	_	1	compound	_	_
-3	biagare	biaga	NOUN	n	Mood=Ind|Number=Sing	0	root	_	_
-4	tuje	tuje	ADV	adv	_	3	advmod	_	_
-5	oino	oino	ADV	x	_	3	advmod	_	_
-6	,	,	PUNCT	punct	_	3	punct	_	_
-7	dykaere	dykae	ADV	adv	Mood=Ind	9	advmod	_	_
-8	boe	boe	NOUN	n	Number=Plur	9	nsubj	_	_
-9	etaregodyre	aregody	VERB	v	Mood=Ind|Number=Plur|Person=3	3	parataxis	_	_
+# visual-style 3 5 advmod	color:blue
+1	Tori	_	NOUN	n	_	2	nmod	_	_
+2	pega	pega	NOUN	n	_	3	nmod	_	_
+3	remawu	rema	NOUN	n	Nomzr=Rel	0	root	_	_
+4	nure	nure	X	_	Aspect=Prog|Mood=Ind	3	dep	_	_
+5	woe	woe	ADV	adv	AdvType=Loc|Deixis=Prox	3	advmod	_	_
+6	.	.	PUNCT	punct	_	3	punct	_	SpacesAfter=\r\n
 
 ~~~
 
@@ -56,10 +53,9 @@ The following 10 pairs of parts of speech are connected with `advmod`: <tt><a hr
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 advmod	color:blue
-1	Imi	imi	PRON	pron	Number=Sing|Person=1|PronType=Prs	0	root	_	[];;
-2	karega	karega	ADV	adv	Polarity=Neg	1	advmod	_	negates.other.than.the.predicate;negação.mão.de.predicado
-3	.	.	PUNCT	punct	_	1	punct	_	[];;
-4	Imaragodymodykare	maragody	VERB	v	Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Fut	1	parataxis	_	work;trabalhar
+1	Cenagore	_	ADV	adv	Mood=Ind	0	root	_	_
+2	tu	tu	ADV	adv	_	1	advmod	_	_
+3	...	...	PUNCT	punct	_	1	punct	_	_
 
 ~~~
 

@@ -26,7 +26,9 @@ The feature is used with 1 part-of-speech tags: <tt><a href="sk_snk-pos-ADP.html
 <table>
   <tr><th>Paradigm <i>v</i></th><th><tt>Prep</tt></th><th><tt>Voc</tt></th></tr>
   <tr><td><tt><tt><a href="sk_snk-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td><em>v</em></td><td><em>vo</em></td></tr>
+  <tr><td><tt><tt><a href="sk_snk-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="sk_snk-feat-ExtPos.html">ExtPos</a></tt><tt>=ADP</tt></tt></td><td><em>v</em></td><td></td></tr>
   <tr><td><tt><tt><a href="sk_snk-feat-Case.html">Case</a></tt><tt>=Loc</tt></tt></td><td><em>v</em></td><td><em>vo</em></td></tr>
+  <tr><td><tt><tt><a href="sk_snk-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="sk_snk-feat-ExtPos.html">ExtPos</a></tt><tt>=ADP</tt></tt></td><td><em>v</em></td><td><em>vo</em></td></tr>
 </table>
 
 ## Relations with Agreement in `AdpType`

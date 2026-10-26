@@ -22,10 +22,10 @@ The following 41 pairs of parts of speech are connected with `advcl:cmp`: <tt><a
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 2 advcl:cmp	color:blue
-1	tamquam	tamquam	ADV	Df	_	2	mark	_	ref=REV_2.27
-2	vas	vas	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	4	advcl:cmp	_	ref=REV_2.27
-3	figuli	figulus	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	ref=REV_2.27
-4	confringentur	confringo	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Pass	0	root	_	ref=REV_2.27
+1	tamquam	tamquam	ADV	Df	_	2	mark	_	Ref=REV_2.27
+2	vas	vas	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	4	advcl:cmp	_	Ref=REV_2.27
+3	figuli	figulus	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	Ref=REV_2.27
+4	confringentur	confringo	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Pass	0	root	_	Ref=REV_2.27
 
 ~~~
 
@@ -36,13 +36,13 @@ The following 41 pairs of parts of speech are connected with `advcl:cmp`: <tt><a
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 7 advcl:cmp	color:blue
-1	quis	quis	PRON	Pi	Case=Nom|Gender=Masc|Number=Sing|PronType=Int	2	nsubj	_	ref=LUKE_5.21
-2	potest	possum	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=LUKE_5.21
-3	dimittere	dimitto	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	2	xcomp	_	ref=LUKE_5.21
-4	peccata	peccatum	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	3	obj	_	ref=LUKE_5.21
-5	nisi	nisi	ADV	Df	_	7	mark	_	ref=LUKE_5.21
-6	solus	solus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	1	dislocated	_	ref=LUKE_5.21
-7	Deus	deus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	1	advcl:cmp	_	ref=LUKE_5.21
+1	quis	quis	PRON	Pi	Case=Nom|Gender=Masc|Number=Sing|PronType=Int	2	nsubj	_	Ref=LUKE_5.21
+2	potest	possum	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=LUKE_5.21
+3	dimittere	dimitto	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	2	xcomp	_	Ref=LUKE_5.21
+4	peccata	peccatum	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	3	obj	_	Ref=LUKE_5.21
+5	nisi	nisi	ADV	Df	_	7	mark	_	Ref=LUKE_5.21
+6	solus	solus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	1	dislocated	_	Ref=LUKE_5.21
+7	Deus	deus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	1	advcl:cmp	_	Ref=LUKE_5.21
 
 ~~~
 
@@ -53,15 +53,15 @@ The following 41 pairs of parts of speech are connected with `advcl:cmp`: <tt><a
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 9 advcl:cmp	color:blue
-1	prophetam	propheta	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	3	obj	_	ref=ACTS_7.37
-2	vobis	vos	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=2|PronType=Prs	3	obl	_	ref=ACTS_7.37
-3	suscitabit	suscito	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	ref=ACTS_7.37
-4	Deus	deus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	ref=ACTS_7.37
-5	de	de	ADP	R-	_	6	case	_	ref=ACTS_7.37
-6	fratribus	frater	NOUN	Nb	Case=Abl|Gender=Masc|Number=Plur	3	obl	_	ref=ACTS_7.37
-7	vestris	vester	DET	Ps	Case=Abl|Number=Plur|Person=2|Poss=Yes	6	det	_	ref=ACTS_7.37
-8	tamquam	tamquam	ADV	Df	_	9	mark	_	ref=ACTS_7.37
-9	me	ego	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=1|PronType=Prs	3	advcl:cmp	_	ref=ACTS_7.37
+1	prophetam	propheta	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	3	obj	_	Ref=ACTS_7.37
+2	vobis	vos	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=2|PronType=Prs	3	obl	_	Ref=ACTS_7.37
+3	suscitabit	suscito	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	Ref=ACTS_7.37
+4	Deus	deus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	Ref=ACTS_7.37
+5	de	de	ADP	R-	_	6	case	_	Ref=ACTS_7.37
+6	fratribus	frater	NOUN	Nb	Case=Abl|Gender=Masc|Number=Plur	3	obl	_	Ref=ACTS_7.37
+7	vestris	vester	DET	Ps	Case=Abl|Number=Plur|Person=2|Poss=Yes	6	det	_	Ref=ACTS_7.37
+8	tamquam	tamquam	ADV	Df	_	9	mark	_	Ref=ACTS_7.37
+9	me	ego	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=1|PronType=Prs	3	advcl:cmp	_	Ref=ACTS_7.37
 
 ~~~
 

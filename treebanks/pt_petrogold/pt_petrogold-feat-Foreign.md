@@ -21,7 +21,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="pt_petrogold-pos-X.
 `X` tokens may have the following values of `Foreign`:
 
 * `Yes` (150; 100% of non-empty `Foreign`): <em>drill, n, in, flow, booster, situ, core, station, balling, bit</em>
-* `EMPTY` (66): <em>., in, lift, pin, stripe, /, al.(, cima, com.br, core</em>
+* `EMPTY` (67): <em>., in, lift, pin, stripe, /, al.(, cima, com.br, core</em>
 
 `Foreign` seems to be **lexical feature** of `X`. 100% lemmas (78) occur only with one value of `Foreign`.
 
@@ -34,7 +34,7 @@ The most frequent other feature values with which `NOUN` and `Foreign` co-occurr
 `NOUN` tokens may have the following values of `Foreign`:
 
 * `Yes` (16; 100% of non-empty `Foreign`): <em>grid, grids, download</em>
-* `EMPTY` (57546): <em>óleo, água, figura, fluido, petróleo, gás, fluidos, produção, área, argila</em>
+* `EMPTY` (57544): <em>óleo, água, figura, fluido, petróleo, gás, fluidos, produção, área, argila</em>
 
 ## Relations with Agreement in `Foreign`
 

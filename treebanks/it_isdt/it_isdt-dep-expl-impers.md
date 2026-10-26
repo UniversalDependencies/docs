@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="it_isdt-dep-expl.html">expl</a></tt>.
 There are also 1 other language-specific subtypes of `expl`: <tt><a href="it_isdt-dep-expl-pass.html">expl:pass</a></tt>.
 
-425 nodes (0%) are attached to their parents as `expl:impers`.
+424 nodes (0%) are attached to their parents as `expl:impers`.
 
-401 instances of `expl:impers` (94%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.47529411764706.
+401 instances of `expl:impers` (95%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.47405660377358.
 
-The following 4 pairs of parts of speech are connected with `expl:impers`: <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt>-<tt><a href="it_isdt-pos-PRON.html">PRON</a></tt> (422; 99% instances), <tt><a href="it_isdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_isdt-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="it_isdt-pos-ADP.html">ADP</a></tt>-<tt><a href="it_isdt-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="it_isdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_isdt-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 3 pairs of parts of speech are connected with `expl:impers`: <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt>-<tt><a href="it_isdt-pos-PRON.html">PRON</a></tt> (422; 100% instances), <tt><a href="it_isdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_isdt-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="it_isdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_isdt-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -64,37 +64,31 @@ The following 4 pairs of parts of speech are connected with `expl:impers`: <tt><
 
 
 ~~~ conllu
-# visual-style 25	bgColor:blue
-# visual-style 25	fgColor:white
-# visual-style 23	bgColor:blue
-# visual-style 23	fgColor:white
-# visual-style 23 25 expl:impers	color:blue
-1	insomma	insomma	ADV	B	_	10	advmod	10:advmod	_
-2	che	che	SCONJ	CS	_	10	mark	10:mark	_
-3	d'	da	ADP	E	_	4	case	4:case	SpaceAfter=No
-4	ora	ora	ADV	B	_	10	obl	10:obl	_
-5	in	in	ADP	E	_	6	case	6:case	_
-6	avanti	avanti	ADV	B	_	10	obl	10:obl	_
-7	lei	lei	PRON	PE	Number=Sing|Person=3|PronType=Prs	10	nsubj	10:nsubj|20:nsubj	_
-8	se	se	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	10	expl	10:expl	_
-9	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	10	expl	10:expl	_
-10	vada	andare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
-11	nervosamente	nervosamente	ADV	B	_	10	advmod	10:advmod	_
-12	avanti	avanti	ADV	B	_	10	advmod	10:advmod	_
-13	e	e	CCONJ	CC	_	14	cc	14:cc	_
-14	indietro	indietro	ADV	B	_	12	conj	10:advmod|12:conj:e	_
-15	per	per	ADP	E	_	18	case	18:case	_
-16	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	18:det	_
-17	sua	suo	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	18	det:poss	18:det:poss	_
-18	aia	aia	NOUN	S	Gender=Fem|Number=Sing	10	obl	10:obl:per	SpaceAfter=No
-19	,	,	PUNCT	FF	_	10	punct	10:punct	_
-20	perplesso	perplesso	ADJ	A	Gender=Masc|Number=Sing	10	xcomp	10:xcomp	_
-21	su	su	ADP	E	_	23	case	23:case	_
-22	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	23:det	_
-23	da	da	ADP	E	_	20	obl	20:obl:su	_
-24	far	fare	VERB	V	VerbForm=Inf	23	fixed	23:fixed	_
-25	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	23	expl:impers	23:expl:impers	_
-26	.	.	PUNCT	FS	_	10	punct	10:punct	_
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 15	bgColor:blue
+# visual-style 15	fgColor:white
+# visual-style 15 12 expl:impers	color:blue
+1	L'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	3	det	3:det	SpaceAfter=No
+2	ultima	ultimo	ADJ	A	Gender=Fem|Number=Sing	3	amod	3:amod	_
+3	volta	volta	NOUN	S	Gender=Fem|Number=Sing	15	nmod	15:nmod	_
+4	che	che	SCONJ	CS	_	9	mark	9:mark	_
+5	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	6:det	_
+6	foglia	foglia	NOUN	S	Gender=Fem|Number=Sing	9	nsubj	9:nsubj	_
+7	d'	di	ADP	E	_	8	case	8:case	SpaceAfter=No
+8	acero	acero	NOUN	S	Gender=Masc|Number=Sing	6	nmod	6:nmod:di	_
+9	volò	volare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	acl	3:acl:che	_
+10	in	in	ADP	E	_	11	case	11:case	_
+11	cielo	cielo	NOUN	S	Gender=Masc|Number=Sing	9	obl	9:obl:in	_
+12	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	15	expl:impers	15:expl:impers	_
+13	era	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	15	cop	15:cop	_
+14	a	a	ADP	E	_	15	case	15:case	_
+15	Seul	Seul	PROPN	SP	_	0	root	0:root	SpaceAfter=No
+16	,	,	PUNCT	FF	_	15	punct	15:punct	_
+17	sette	sette	NUM	N	NumType=Card	18	nummod	18:nummod	_
+18	anni	anno	NOUN	S	Gender=Masc|Number=Plur	15	nmod	15:nmod	_
+19	fa	fa	ADV	B	_	18	advmod	18:advmod	SpaceAfter=No
+20	:	:	PUNCT	FC	_	15	punct	15:punct	_
 
 ~~~
 

@@ -58,7 +58,7 @@ The 10 most frequent ambiguous types:  <em>berriz</em> (<tt><a href="eu_bdt-pos-
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.085106 (the average of all parts of speech is 2.170132).
+The form / lemma ratio of `CCONJ` is 1.085106 (the average of all parts of speech is 2.170046).
 
 The 1st highest number of forms (3) was observed with the lemma “eta”: <em>ea, era, eta</em>.
 

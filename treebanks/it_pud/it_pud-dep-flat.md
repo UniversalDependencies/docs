@@ -26,12 +26,12 @@ The following 15 pairs of parts of speech are connected with `flat`: <tt><a href
 2	chiedo	chiedere	VERB	VBC	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	0	root	_	_
 3	anche	anche	ADV	RB	_	2	advmod	_	_
 4	se	se	ADP	IN	_	9	mark	_	_
-5	la	il	DET	DT	Gender=Fem|Number=Sing	6	det	_	_
+5	la	il	DET	DT	Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
 6	Coppa	Coppa	PROPN	NN	Gender=Fem|Number=Sing	9	nsubj	_	_
 7	Davis	Davis	PROPN	NNP	Gender=Fem|Number=Sing	6	flat	_	_
 8	abbia	avere	AUX	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act	9	aux	_	_
 9	svolto	svolgere	VERB	VBN	Tense=Past	2	ccomp	_	_
-10	un	uno	DET	DT	Gender=Masc|Number=Sing	11	det	_	_
+10	un	uno	DET	DT	Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
 11	ruolo	ruolo	NOUN	NN	Gender=Masc|Number=Sing	9	obj	_	SpaceAfter=No
 12	.	.	PUNCT	.	_	2	punct	_	_
 
@@ -48,9 +48,9 @@ The following 15 pairs of parts of speech are connected with `flat`: <tt><a href
 2	laureò	laureare	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
 3	e	e	CCONJ	CC	_	4	cc	_	_
 4	ottenne	ottenere	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	2	conj	_	_
-5	un	uno	DET	DT	Gender=Masc|Number=Sing	6	det	_	_
+5	un	uno	DET	DT	Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
 6	master	master	NOUN	NN	Gender=Masc|Number=Sing	4	obj	_	_
-7	il	il	DET	DT	Gender=Masc|Number=Sing	8	det	_	_
+7	il	il	DET	DT	Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
 8	21	21	NUM	CD	_	4	obl	_	_
 9	aprile	aprile	NOUN	NN	Gender=Masc|Number=Sing	8	flat	_	_
 10	1882	1882	NUM	CD	_	8	flat	_	SpaceAfter=No
@@ -69,9 +69,9 @@ The following 15 pairs of parts of speech are connected with `flat`: <tt><a href
 2	laureò	laureare	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
 3	e	e	CCONJ	CC	_	4	cc	_	_
 4	ottenne	ottenere	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	2	conj	_	_
-5	un	uno	DET	DT	Gender=Masc|Number=Sing	6	det	_	_
+5	un	uno	DET	DT	Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
 6	master	master	NOUN	NN	Gender=Masc|Number=Sing	4	obj	_	_
-7	il	il	DET	DT	Gender=Masc|Number=Sing	8	det	_	_
+7	il	il	DET	DT	Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
 8	21	21	NUM	CD	_	4	obl	_	_
 9	aprile	aprile	NOUN	NN	Gender=Masc|Number=Sing	8	flat	_	_
 10	1882	1882	NUM	CD	_	8	flat	_	SpaceAfter=No

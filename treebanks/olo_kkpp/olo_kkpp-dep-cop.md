@@ -24,7 +24,7 @@ The following 4 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 4	fgColor:white
 # visual-style 4 1 cop	color:blue
 1	Oli	olla	AUX	AUX	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	cop	_	_
-2	sie	se	PRON	PRON	Case=Ade|Number=Plur	4	obl	_	_
+2	sie	se	PRON	PRON	Case=Ade|PronType=Dem	4	obl	_	_
 3	enne	enne	ADV	ADV	_	4	advmod	_	PronType=Temp
 4	saari	saari	NOUN	NOUN	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	PUNCT	_	4	punct	_	SpaceAfter=No
@@ -39,7 +39,7 @@ The following 4 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 4	fgColor:white
 # visual-style 4 3 cop	color:blue
 1	–	–	PUNCT	PUNCT	_	4	punct	_	_
-2	Iče	iče	PRON	PRON	Case=Nom|Reflex=Yes	4	nsubj:cop	_	_
+2	Iče	iče	PRON	PRON	Case=Nom|PronType=Prs|Reflex=Yes	4	nsubj:cop	_	_
 3	olen	olla	AUX	AUX	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	_
 4	karjalaine	karjalaine	ADJ	ADJ	Case=Nom|Number=Sing	0	root	_	_
 5	Kiihtelysvuaraspäi	Kiihtelysvuara	PROPN	PROPN	Case=Ela|Number=Sing	4	obl	_	SpaceAfter=No

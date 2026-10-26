@@ -14,7 +14,7 @@ udver: '2'
 </table>
 
 Animacy is a lexical feature of nouns. In Georgian the category of animacy does not have special morphological markers, but it
-affects verbal number agreement at the syntactic level, in that plural number agreement occurs obligatorily in the case of animate nominals bearing the -ებ-, -ნ and -თ- plural markers and very rarely in the case of inanimate NPs bearing the -ებ- marker; mainly, human is animate, nonhuman - inanimate. The principal rule followed by verbs with regard to number agreement is that an animate agent is prevails over an inanimate.
+affects verbal number agreement at the syntactic level, in that plural number agreement occurs obligatorily in the case of animate nominals bearing the -ებ-, -ნ and -თ- plural markers and very rarely in the case of inanimate NPs bearing the -ებ- marker; mainly, human is animate, nonhuman - inanimate. The principal rule followed by verbs with regard to number agreement is that an animate agent prevails over an inanimate.
 
 The `Animacy` feature applies to [NOUN](_ka/pos/NOUN) and [PROPN](_ka/pos/PROPN).
 
@@ -33,4 +33,4 @@ Nouns that are not animate are inanimate.
 #### Examples
 
 * _ჩანთა დევს მაგიდაზე_ 'The bag lies on the table'
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:31 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:42 CEST -->

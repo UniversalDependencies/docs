@@ -56,9 +56,9 @@ The following 6 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 11 nummod	color:blue
-1	Il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	expl	_	_
+1	Il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	expl	_	_
 2	convient	convenir	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	par	par	ADP	E	_	2	advmod	_	_
+3	par	par	ADP	E	ExtPos=ADV	2	advmod	_	_
 4	conséquent	conséquent	ADJ	A	Gender=Masc|Number=Sing	3	fixed	_	_
 5	d'	de	ADP	E	_	6	mark	_	SpaceAfter=No
 6	abroger	abroger	VERB	V	VerbForm=Inf	2	csubj	_	_

@@ -43,7 +43,7 @@ The following 24 pairs of parts of speech are connected with `acl`: <tt><a href=
 1	Hepimiz	hep	PRON	Quant	Case=Nom|Number=Plur|Number[psor]=Plur|Person=1|Person[psor]=1|PronType=Ind	7	nsubj	_	_
 2	kıraathaneye	kıraathane	NOUN	Noun	Case=Dat|Number=Sing|Person=3	3	obl	_	_
 3	gelen	gel	VERB	Verb	Aspect=Perf|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Part	5	acl	_	_
-4	bu	bu	DET	Det	_	5	det	_	_
+4	bu	bu	DET	Det	PronType=Dem	5	det	_	_
 5	yabancıya	yabancı	ADJ	NAdj	Case=Dat|Number=Sing|Person=3	7	amod	_	_
 6	dikkatle	dikkat	NOUN	Noun	Case=Ins|Number=Sing|Person=3	7	obl	_	_
 7	bakıyorduk	bak	VERB	Verb	Aspect=Prog|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Polite=Infm|Tense=Past	0	root	_	SpaceAfter=No

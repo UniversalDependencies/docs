@@ -28,7 +28,7 @@ The following 7 pairs of parts of speech are connected with `advcl:tcl`: <tt><a 
 4	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	6	obj	_	SpaceAfter=No
 5	-a	avea	AUX	Va--3s----y	Number=Sing|Person=3|Variant=Short	6	aux	_	_
 6	zis	zice	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	3	ccomp	_	_
-7	după	după	ADP	Spsa	AdpType=Prep|Case=Acc	11	mark	_	_
+7	după	după	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=SCONJ	11	mark	_	_
 8	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	7	fixed	_	_
 9	i-	el	PRON	Pp3-sd--y-----w	Case=Dat|Number=Sing|Person=3|PronType=Prs|Strength=Weak|Variant=Short	11	expl:poss	_	SpaceAfter=No
 10	ați	avea	AUX	Va--2p	Number=Plur|Person=2	11	aux	_	_
@@ -47,8 +47,8 @@ The following 7 pairs of parts of speech are connected with `advcl:tcl`: <tt><a 
 # visual-style 22 2 advcl:tcl	color:blue
 1	Când	când	ADV	Rw	PronType=Int,Rel	2	advmod:tmod	_	_
 2	avem	avea	VERB	Vmip1p	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	22	advcl:tcl	_	_
-3	de-a	de-a	ADP	Spsa	AdpType=Prep|Case=Acc	2	fixed	_	_
-4	face	face	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	fixed	_	_
+3	de-a	de-a	ADP	Spsa	AdpType=Prep|Case=Acc	4	mark	_	_
+4	face	face	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
 5	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	6	case	_	_
 6	cazuri	caz	NOUN	Ncfp-n	Definite=Ind|Gender=Fem|Number=Plur	2	obl:pmod	_	_
 7	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	8	case	_	_

@@ -22,15 +22,15 @@ The following 24 pairs of parts of speech are connected with `advmod`: <tt><a hr
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 5 advmod	color:blue
-1	ὃ	ὁ	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	ref=1.10.1
-2	μὲν	μέν	ADV	Df	_	9	discourse	_	ref=1.10.1
-3	δὴ	δή	ADV	Df	_	9	discourse	_	ref=1.10.1
-4	ὡς	ὡς	SCONJ	G-	_	6	mark	_	ref=1.10.1
-5	οὐκ	οὐ	ADV	Df	Polarity=Neg	6	advmod	_	ref=1.10.1
-6	ἐδύνατο	δύναμαι	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	9	advcl	_	ref=1.10.1
-7	διαφυγεῖν	διαφεύγω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	6	xcomp	_	ref=1.10.1
-8	ἦν	εἰμί	AUX	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	9	cop	_	ref=1.10.1|LId=1
-9	ἕτοιμος	ἕτοιμος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	ref=1.10.1
+1	ὃ	ὁ	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	Ref=1.10.1
+2	μὲν	μέν	ADV	Df	_	9	discourse	_	Ref=1.10.1
+3	δὴ	δή	ADV	Df	_	9	discourse	_	Ref=1.10.1
+4	ὡς	ὡς	SCONJ	G-	_	6	mark	_	Ref=1.10.1
+5	οὐκ	οὐ	ADV	Df	Polarity=Neg	6	advmod	_	Ref=1.10.1
+6	ἐδύνατο	δύναμαι	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	9	advcl	_	Ref=1.10.1
+7	διαφυγεῖν	διαφεύγω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	6	xcomp	_	Ref=1.10.1
+8	ἦν	εἰμί	AUX	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	9	cop	_	LId=1|Ref=1.10.1
+9	ἕτοιμος	ἕτοιμος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	Ref=1.10.1
 
 ~~~
 
@@ -41,18 +41,18 @@ The following 24 pairs of parts of speech are connected with `advmod`: <tt><a hr
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 8 advmod	color:blue
-1	ὡς	ὡς	SCONJ	G-	_	4	mark	_	ref=1.112.2
-2	δὲ	δέ	ADV	Df	_	9	discourse	_	ref=1.112.2
-3	οὐκ	οὐ	ADV	Df	Polarity=Neg	4	advmod	_	ref=1.112.2
-4	ἔπειθε	πείθω	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	9	advcl	_	ref=1.112.2
-5	ἄρα	ἆρα	ADV	Df	_	4	discourse	_	ref=1.112.2
-6	τὸν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	7	det	_	ref=1.112.2
-7	ἄνδρα	ἀνήρ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	4	obj	_	ref=1.112.2
-8	δευτέρα	δεύτερος	ADJ	Mo	Case=Acc|Gender=Neut|Number=Plur	9	advmod	_	ref=1.112.2
-9	λέγει	λέγω	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=1.112.2
-10	ἡ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	11	det	_	ref=1.112.2
-11	γυνὴ	γυνή	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	ref=1.112.2
-12	τάδε	ὅδε	PRON	Pd	Case=Acc|Gender=Neut|Number=Plur	9	obj	_	ref=1.112.2
+1	ὡς	ὡς	SCONJ	G-	_	4	mark	_	Ref=1.112.2
+2	δὲ	δέ	ADV	Df	_	9	discourse	_	Ref=1.112.2
+3	οὐκ	οὐ	ADV	Df	Polarity=Neg	4	advmod	_	Ref=1.112.2
+4	ἔπειθε	πείθω	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	9	advcl	_	Ref=1.112.2
+5	ἄρα	ἆρα	ADV	Df	_	4	discourse	_	Ref=1.112.2
+6	τὸν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	7	det	_	Ref=1.112.2
+7	ἄνδρα	ἀνήρ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	4	obj	_	Ref=1.112.2
+8	δευτέρα	δεύτερος	ADJ	Mo	Case=Acc|Gender=Neut|Number=Plur	9	advmod	_	Ref=1.112.2
+9	λέγει	λέγω	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=1.112.2
+10	ἡ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	11	det	_	Ref=1.112.2
+11	γυνὴ	γυνή	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	Ref=1.112.2
+12	τάδε	ὅδε	PRON	Pd	Case=Acc|Gender=Neut|Number=Plur	9	obj	_	Ref=1.112.2
 
 ~~~
 
@@ -63,14 +63,14 @@ The following 24 pairs of parts of speech are connected with `advmod`: <tt><a hr
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 6 advmod	color:blue
-1	καὶ	καί	CCONJ	C-	_	5	cc	_	ref=1.10.1
-2	μετὰ	μετά	ADP	R-	_	3	case	_	ref=1.10.1
-3	ταῦτα	οὗτος	PRON	Pd	Case=Acc|Gender=Neut|Number=Plur	5	obl	_	ref=1.10.1
-4	αὐτίκα	αὐτίκα	ADV	Df	_	5	advmod	_	ref=1.10.1
-5	παρῆν	πάρειμι	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=1.10.1|LId=1
-6	καὶ	καί	ADV	Df	_	8	advmod	_	ref=1.10.1|LId=1
-7	ἡ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	8	det	_	ref=1.10.1
-8	γυνή	γυνή	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	ref=1.10.1
+1	καὶ	καί	CCONJ	C-	_	5	cc	_	Ref=1.10.1
+2	μετὰ	μετά	ADP	R-	_	3	case	_	Ref=1.10.1
+3	ταῦτα	οὗτος	PRON	Pd	Case=Acc|Gender=Neut|Number=Plur	5	obl	_	Ref=1.10.1
+4	αὐτίκα	αὐτίκα	ADV	Df	_	5	advmod	_	Ref=1.10.1
+5	παρῆν	πάρειμι	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	LId=1|Ref=1.10.1
+6	καὶ	καί	ADV	Df	_	8	advmod	_	LId=1|Ref=1.10.1
+7	ἡ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	8	det	_	Ref=1.10.1
+8	γυνή	γυνή	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	Ref=1.10.1
 
 ~~~
 

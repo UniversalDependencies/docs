@@ -11,7 +11,7 @@ This relation is a language-specific subtype of <tt><a href="fr_fqb-dep-acl.html
 77 nodes (0%) are attached to their parents as `acl:relcl`.
 
 77 instances of `acl:relcl` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.72727272727273.
+Average distance between parent and child is 4.71428571428571.
 
 The following 5 pairs of parts of speech are connected with `acl:relcl`: <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> (69; 90% instances), <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt> (4; 5% instances), <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> (2; 3% instances), <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_fqb-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_fqb-pos-ADJ.html">ADJ</a></tt> (1; 1% instances).
 
@@ -51,7 +51,7 @@ The following 5 pairs of parts of speech are connected with `acl:relcl`: <tt><a 
 3	université	université	NOUN	_	Gender=Fem|Number=Sing	1	obj	_	_
 4	dont	dont	PRON	_	PronType=Rel	8	nmod	_	_
 5	Woodrow	Woodrow	PROPN	_	Gender=Masc|Number=Sing	8	nsubj	_	_
-6	Wilson	Wilson	PROPN	_	Gender=Masc|Number=Sing	5	flat:name	_	_
+6	Wilson	Wilson	PROPN	_	_	5	flat:name	_	_
 7	fut	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	cop	_	_
 8	président	président	NOUN	_	Gender=Masc|Number=Sing	3	acl:relcl	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	1	punct	_	_
@@ -71,7 +71,7 @@ The following 5 pairs of parts of speech are connected with `acl:relcl`: <tt><a 
 4	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	5	det	_	_
 5	cigarettes	cigarette	NOUN	_	Gender=Fem|Number=Plur	3	obj	_	_
 6	avec	avec	ADP	_	_	7	case	_	_
-7	ce	ce	PRON	_	_	3	obl:mod	_	_
+7	ce	ce	PRON	_	PronType=Dem	3	obl:mod	_	_
 8	qui	qui	PRON	_	PronType=Rel	10	nsubj:pass	_	_
 9	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux:pass	_	_
 10	appelé	appeler	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	7	acl:relcl	_	_

@@ -6,67 +6,69 @@ udver: '2'
 
 ## Treebank Statistics: UD_Korean-KSL: POS Tags: `X`
 
-There are 2 `X` lemmas (0%), 74 `X` types (0%) and 109 `X` tokens (0%).
-Out of 15 observed tags, the rank of `X` is: 14 in number of lemmas, 8 in number of types and 11 in number of tokens.
+There are 2 `X` lemmas (0%), 155 `X` types (0%) and 289 `X` tokens (0%).
+Out of 16 observed tags, the rank of `X` is: 16 in number of lemmas, 8 in number of types and 13 in number of tokens.
 
 The 10 most frequent `X` lemmas: _, 안+쓰+ㅁ
 
-The 10 most frequent `X` types:  도, 할, 한, 야, 데, 부터, 줄, 까, 된, 만
+The 10 most frequent `X` types:  할, 지, 한, 데, 도, 야, 쯤, 게, 된, 부터
 
 The 10 most frequent ambiguous lemmas: 
 
-The 10 most frequent ambiguous types:  도 (<tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> 17, <tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt> 13, <tt><a href="ko_ksl-pos-X.html">X</a></tt> 7, <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> 5), 할 (<tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> 199, <tt><a href="ko_ksl-pos-AUX.html">AUX</a></tt> 12, <tt><a href="ko_ksl-pos-X.html">X</a></tt> 7), 한 (<tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt> 114, <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> 22, <tt><a href="ko_ksl-pos-X.html">X</a></tt> 5, <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> 4, <tt><a href="ko_ksl-pos-AUX.html">AUX</a></tt> 1, <tt><a href="ko_ksl-pos-DET.html">DET</a></tt> 1), 야 (<tt><a href="ko_ksl-pos-X.html">X</a></tt> 4, <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> 1), 데 (<tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> 9, <tt><a href="ko_ksl-pos-X.html">X</a></tt> 3), 부터 (<tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> 6, <tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt> 5, <tt><a href="ko_ksl-pos-X.html">X</a></tt> 3, <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> 1), 줄 (<tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> 18, <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> 13, <tt><a href="ko_ksl-pos-X.html">X</a></tt> 3), 된 (<tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> 26, <tt><a href="ko_ksl-pos-X.html">X</a></tt> 2), 만 (<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="ko_ksl-pos-X.html">X</a></tt> 2, <tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt> 1, <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> 1), 입니다 (<tt><a href="ko_ksl-pos-AUX.html">AUX</a></tt> 3, <tt><a href="ko_ksl-pos-X.html">X</a></tt> 2, <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> 1)
+The 10 most frequent ambiguous types:  할 (<tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> 537, <tt><a href="ko_ksl-pos-AUX.html">AUX</a></tt> 29, <tt><a href="ko_ksl-pos-X.html">X</a></tt> 18), 지 (<tt><a href="ko_ksl-pos-X.html">X</a></tt> 12, <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> 11, <tt><a href="ko_ksl-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> 1), 한 (<tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt> 195, <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> 74, <tt><a href="ko_ksl-pos-DET.html">DET</a></tt> 26, <tt><a href="ko_ksl-pos-X.html">X</a></tt> 12, <tt><a href="ko_ksl-pos-AUX.html">AUX</a></tt> 11, <tt><a href="ko_ksl-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> 2, <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> 1), 데 (<tt><a href="ko_ksl-pos-SCONJ.html">SCONJ</a></tt> 15, <tt><a href="ko_ksl-pos-X.html">X</a></tt> 10, <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt> 1), 도 (<tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt> 41, <tt><a href="ko_ksl-pos-X.html">X</a></tt> 8, <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> 5, <tt><a href="ko_ksl-pos-CCONJ.html">CCONJ</a></tt> 3, <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> 1), 야 (<tt><a href="ko_ksl-pos-X.html">X</a></tt> 6, <tt><a href="ko_ksl-pos-INTJ.html">INTJ</a></tt> 2), 쯤 (<tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt> 12, <tt><a href="ko_ksl-pos-X.html">X</a></tt> 6, <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> 1), 게 (<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> 58, <tt><a href="ko_ksl-pos-X.html">X</a></tt> 5), 된 (<tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> 48, <tt><a href="ko_ksl-pos-X.html">X</a></tt> 5), 부터 (<tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt> 64, <tt><a href="ko_ksl-pos-X.html">X</a></tt> 5)
 
 
-* 도
-  * <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> 17: 스튜어디스의 준비를 <b>도</b> 많이 해야됐따 .
-  * <tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt> 13: 터미네이터는 재미있을 뿐만 아니라 감동적은 장면 <b>도</b> 있다 .
-  * <tt><a href="ko_ksl-pos-X.html">X</a></tt> 7: 매번 문제 있을때 한국사람 <b>도</b> 친철하게 도와줬서 감사하고 한국의 좋은 인상 <b>도</b> 생겼다 .
-  * <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> 5: 시간있으면 <b>도</b> 한국 드라마를 봅니다 .
 * 할
-  * <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> 199: 만약에 돈이 없다손 치더라도 은행에게 돈을 빌리곤까지 해서도 그렇게 <b>할</b> 것이다 .
-  * <tt><a href="ko_ksl-pos-AUX.html">AUX</a></tt> 12: 요즘에는 우리가 기술이 얼마나 개발되었고 제발할 대 우전 검사를 필승으로 만들어야 <b>할</b> 책임을 있지않을까 ?
-  * <tt><a href="ko_ksl-pos-X.html">X</a></tt> 7: 심심 <b>할</b> 때 한국드라마를 봅니다 .
+  * <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> 537: 그리고 고향에서 친구를 축구를 <b>할</b> 겁니다 .
+  * <tt><a href="ko_ksl-pos-AUX.html">AUX</a></tt> 29: 한국에 와서 한국어를 배우려는 마음이 들면 자기가 잘할 수 있는 자신감을 가져야 <b>할</b> 필요성이 있어야 해요 .
+  * <tt><a href="ko_ksl-pos-X.html">X</a></tt> 18: 저 뿐만 아니라 반친구들이 다 짧은 시간동안 적응 <b>할</b> 수 있어요 .
+* 지
+  * <tt><a href="ko_ksl-pos-X.html">X</a></tt> 12: 나도 환경 보고를 위해 무엇을 해야하는 <b>지</b> 잘 모르는 편이다 .
+  * <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> 11: 저는 한국에서 산 <b>지</b> 1년이 된 두가의예요 .
+  * <tt><a href="ko_ksl-pos-SCONJ.html">SCONJ</a></tt> 3: 나는 한국에서 산 <b>지</b> 벌써 이 년이 됐는 데 지난 주말까지 계속 부모님하고 살아서 생활이 아주 편리했고 생각한다 .
+  * <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> 1: 뉴지렌드에 온 <b>지</b> 2일이 되고 그날부터 학생들이 따로따로 민가에서 살았다 .
 * 한
-  * <tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt> 114: 지루한 일상에서 기쁨을 찾을 수 있는 방법은 <b>한</b> 번 빠지면 빠져나갈 수 없는 드라마 감상이다 .
-  * <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> 22: 그리고 열심히 운동을 <b>한</b> 후에 수호는 건강좋고 몸도 아주 좋습니다 .
-  * <tt><a href="ko_ksl-pos-X.html">X</a></tt> 5: 취리히는 스위스에 가장 큰 도시인데 볼만 <b>한</b> 곳도 많다 .
-  * <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> 4: 살 수 있는 <b>한</b> 이 순간을 잊지 않을겠다 .
-  * <tt><a href="ko_ksl-pos-AUX.html">AUX</a></tt> 1: 사형제도 유지해 야 <b>한</b> 다는 시민들 이 그 제도가 끔칙한 범최률을 줄릴수 있다고 해도 틀리다 .
-  * <tt><a href="ko_ksl-pos-DET.html">DET</a></tt> 1: 지금까지 제일 기억이 남는 것이 <b>한</b> 홍콩 가수의 콘서트이다 .
-* 야
-  * <tt><a href="ko_ksl-pos-X.html">X</a></tt> 4: 사형제도 유지해 <b>야</b> 한 다는 시민들 이 그 제도가 끔칙한 범최률을 줄릴수 있다고 해도 틀리다 .
-  * <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> 1: 언니가 <b>야</b> !
+  * <tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt> 195: 매일 매일 <b>한</b> 시간이라도 운동합니다 .
+  * <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> 74: 그 가수는 너무 댄스를 잘 <b>한</b> 가수입니다 .
+  * <tt><a href="ko_ksl-pos-DET.html">DET</a></tt> 26: 왜냐하면 우리 가 <b>한</b> 목표 있어요 .
+  * <tt><a href="ko_ksl-pos-X.html">X</a></tt> 12: 역사 때문에 화나게 만드는 것도 배우고 신기 <b>한</b> 것도 배우고 문화적인 것을 배우니 정체성에 대해 필요하다고 생각합니다 .
+  * <tt><a href="ko_ksl-pos-AUX.html">AUX</a></tt> 11: 몇 년 전에 저도 고향에서 친구랑 같이 한국어를 한찬통안 배웠는데 부끄러워서 친구끼리 한국어로 이야기를 하지 못 <b>한</b> 거예요 .
+  * <tt><a href="ko_ksl-pos-SCONJ.html">SCONJ</a></tt> 3: 살 수 있는 <b>한</b> 이 순간을 잊지 않을겠다 .
+  * <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> 2: <b>한</b> 편 동시에 모국어와 외국어를 배우는 것으로 둘 다 잘 모르고 실수가 많은 아이들도 많다 .
+  * <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> 1: <b>한</b> 국 말 할 줄 알아면 더 변리하지만 영어할 수 만 있으면 괜찮아요 .
 * 데
-  * <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> 9: 마지막으로 드라마 감상은 한국어 공부하는 <b>데</b> 도움이 돼서 내가 앞으로도 드라마를 통해 한국어를 열심히 공부할 것이다 .
-  * <tt><a href="ko_ksl-pos-X.html">X</a></tt> 3: 상해 성화묘 아주 유명하는 <b>데</b> 우리 먼저 성화묘 구경했습니다 .
-* 부터
-  * <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> 6: 어렸을때 <b>부터</b> 어머님과 한국드라마 봤는다 .
-  * <tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt> 5: 저는 열한 살 <b>부터</b> 학교에서 친구하고 춤을 배웠습니다 .
-  * <tt><a href="ko_ksl-pos-X.html">X</a></tt> 3: 어렸을 때 <b>부터</b> 테니스를 많이 했다 .
-  * <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> 1: 공공 도서관 발전 위원회는 공공도선관의 발전하기 위해서 2014년 10월 10일 <b>부터</b> 17일 까지 8일간 공공 도서관에 방문한 20세 이상의 이용자를 대상으로 안게이트 조사를 했다 .
-* 줄
-  * <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> 18: 역사 영화는 교훈을 <b>줄</b> 수 있는 점에서 유익한다고 생각한다 .
-  * <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> 13: 희철오빠 밤금 퇴역했는데 아무도 그를 이번 공연에 참가할 <b>줄</b> 몰랐다 .
-  * <tt><a href="ko_ksl-pos-X.html">X</a></tt> 3: 내가 행복할 때는 어려운 사람들에게 도와 <b>줄</b> 때이다 .
+  * <tt><a href="ko_ksl-pos-SCONJ.html">SCONJ</a></tt> 15: 다른 나라의 역사를 안다면 그 나라 사람을 만나면 더 친해질 수 있고 이해하는 <b>데</b> 도움이 될 수 있다 .
+  * <tt><a href="ko_ksl-pos-X.html">X</a></tt> 10: 왕명은 멋있는 커트를 사려고 했는 <b>데</b> 인텃네토로 샀다 .
+  * <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> 3: 한국어를 배우는 <b>데</b> 아까 말했다시피 관심있게 공부해 .
+  * <tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt> 1: 이처럼 , 식사할 때 의식하면 건강을 유지하는 <b>데</b> 도움이 될 것이라고 생각합니다 .
+* 도
+  * <tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt> 41: 다른 나라 <b>도</b> 갈 수 있다 .
+  * <tt><a href="ko_ksl-pos-X.html">X</a></tt> 8: 앞으로 <b>도</b> 친구들이 잘 지내야 되다 .
+  * <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> 5: 대학입학시험에 떨어져도 너무 슬플지 않고 <b>도</b> 다시 열심히 공부 하고 다른학교에 지원했다 .
+  * <tt><a href="ko_ksl-pos-CCONJ.html">CCONJ</a></tt> 3: <b>도</b> 추워 겨울이 있고 더운 여름이 있다 .
+  * <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> 1: 영 때문에 제가 수영을 알았습 <b>도</b> 우리 집에서 바다 군정에 있어요 .
+* 야
+  * <tt><a href="ko_ksl-pos-X.html">X</a></tt> 6: 그런데 내 입장에서 보면 나는 사형제도 유지해 <b>야</b> 한다고 생간한다
+  * <tt><a href="ko_ksl-pos-INTJ.html">INTJ</a></tt> 2: 언니가 <b>야</b> !
+* 쯤
+  * <tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt> 12: 한국에서 제주도까지 배힝기로 한 시간 <b>쯤</b> 걸립니다 .
+  * <tt><a href="ko_ksl-pos-X.html">X</a></tt> 6: 1시간 <b>쯤</b> 지난 후에 케익틀을 빼고 케이크 위에서 블루베리를 넣으면 완성한다 .
+  * <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> 1: 그래서 일주 <b>쯤</b> 영수 씨는 테니스를 치지 못 했습니다 .
+* 게
+  * <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> 58: 더군다나 외국에서 일하거나 공부하는 걸 좋아해서 특파원이 되는 <b>게</b> 좋을 것 같아요 .
+  * <tt><a href="ko_ksl-pos-X.html">X</a></tt> 5: 그런데 우리는 너무 힘들 <b>게</b> 살고 있었어도 매날 부모님은 우리한테 용기를 주고 더 좋게 사길 바랐다 .
 * 된
-  * <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> 26: 사형제도가 폐지 <b>된</b> 나라들이 점점 늘어가고 있다 .
-  * <tt><a href="ko_ksl-pos-X.html">X</a></tt> 2: 하지만 자동차가 발면 <b>된</b> 후에는 그런한 불편이 사라졌다 .
-* 만
-  * <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> 2: 그래서 딤섬은 그양말로 홍콩 음식문화의 대표적인 음식을 <b>만</b> 아니라 홍콩사람도 대표하고 있다 .
-  * <tt><a href="ko_ksl-pos-X.html">X</a></tt> 2: 댄수할 때 준비해야 하는 젓이 움진지가 편한 옷과 운동화 <b>만</b> 있으면 된다 .
-  * <tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt> 1: 몇 <b>만</b> 명 사람 앞에서 프로의 가수와 무용수하고 같이 공연하기 때문에 많이 서레고 긴장했지만 처음 나도 프로의 선생님이 되고 다른 사람에게 댄수의 장점과 즐저운것을 가르쳐주 싶었다 .
-  * <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> 1: 오늘은 가볼 <b>만</b> 한 곳을 소개한다 .
-* 입니다
-  * <tt><a href="ko_ksl-pos-AUX.html">AUX</a></tt> 3: 5600원 <b>입니다</b> .
-  * <tt><a href="ko_ksl-pos-X.html">X</a></tt> 2: 여름은 6월 , 7월 , 8월 <b>입니다</b> .
-  * <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> 1: 가게가 <b>입니다</b> .
+  * <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> 48: 저는 한국에서 산 지 1년이 <b>된</b> 두가의예요 .
+  * <tt><a href="ko_ksl-pos-X.html">X</a></tt> 5: 하지만 자동차가 발면 <b>된</b> 후에는 그런한 불편이 사라졌다 .
+* 부터
+  * <tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt> 64: 겨울은 12월 <b>부터</b> 2월 까지 입니다 .
+  * <tt><a href="ko_ksl-pos-X.html">X</a></tt> 5: 봄은 3월 <b>부터</b> 6월까지 따뜻하기는 하지만 주변에 바다기 있어서 바람이 많습니다 .
 
 ## Morphology
 
-The form / lemma ratio of `X` is 37.000000 (the average of all parts of speech is 1.004265).
+The form / lemma ratio of `X` is 77.500000 (the average of all parts of speech is 1.008073).
 
-The 1st highest number of forms (73) was observed with the lemma “_”: 가, 게, 고, 고싶습니다, 곤, 공원에, 까, 까봐, 까요, 까지, 나, 나라하고, 났어, 녕에, 는, 다는, 다도, 다면, 답게, 던, 데, 데다가, 도, 도록, 되, 되고, 된, 등생이, 랜드에, 록, 마, 마세요, 만, 말은, 못을, 문에, 문이다, 보다, 부터, 살이, 서, 성이, 수, 수독, 수록, 스럽게, 습니다, 야, 얀, 에는, 월에, 월이, 을때, 이기, 입니다, 점이, 줄, 줘, 지, 지만, 지말고, 질, 짜리, 프드는, 피스에서, 하게, 하려, 하지, 한, 할, 합니다, 해, 형이.
+The 1st highest number of forms (154) was observed with the lemma “_”: bject), bject)중에, elop)하고, gual, i, in, ing), issater)에서, l, lain, lling, su, vantage), vate, 가, 갈, 같은, 거에, 게, 겠거예요, 겠다, 겠다고, 고, 고싶습니다, 곤, 공원에, 국, 국의, 까, 까봐, 까요, 까지, 나, 나라하고, 난, 났어, 년, 녕에, 는, 다고, 다는, 다도, 다면, 답게, 던, 데, 데다가, 도, 도록, 되, 되고, 된, 드리겠습니다, 들에게, 들이, 등생이, 란는, 랑, 랜드에, 런대, 록, 롭게, 류가아니고, 마, 마세요, 만, 많은, 말은, 면, 면서, 못, 못을, 문에, 문이다, 민호가, 바닥으로, 백명, 번에는, 번째, 보다, 부터, 살이, 서, 성이, 수, 수독, 수록, 스, 스럽게, 습니다, 시킬, 싣는, 야, 얀, 없이, 었다, 에, 에는, 였어요, 올랐다, 월에, 월이, 은상은, 을때, 이기, 이다, 이라고, 이라는, 일, 임, 입니다, 적으로, 점을, 점이, 주의, 줄, 줘, 즘, 지, 지고, 지는게, 지를, 지만, 지말고, 질, 질수, 짜리, 째, 째는, 쯤, 쯤까지, 쯤에, 카, 탄의, 편, 프드는, 피스에서, 하게, 하고, 하기, 하기다, 하다, 하려, 하면, 하지, 한, 한던데요, 할, 합니다, 해, 했다, 했던, 했습니다, 형이.
 
 The 2nd highest number of forms (1) was observed with the lemma “안+쓰+ㅁ”: 안씀.
 
@@ -75,13 +77,13 @@ The 2nd highest number of forms (1) was observed with the lemma “안+쓰+ㅁ�
 
 ## Relations
 
-`X` nodes are attached to their parents using 2 different relations: <tt><a href="ko_ksl-dep-goeswith.html">goeswith</a></tt> (108; 99% instances), <tt><a href="ko_ksl-dep-root.html">root</a></tt> (1; 1% instances)
+`X` nodes are attached to their parents using 3 different relations: <tt><a href="ko_ksl-dep-goeswith.html">goeswith</a></tt> (287; 99% instances), <tt><a href="ko_ksl-dep-flat.html">flat</a></tt> (1; 0% instances), <tt><a href="ko_ksl-dep-root.html">root</a></tt> (1; 0% instances)
 
-Parents of `X` nodes belong to 7 different parts of speech: <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> (56; 51% instances), <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> (21; 19% instances), <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (20; 18% instances), <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> (7; 6% instances), <tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt> (2; 2% instances), <tt><a href="ko_ksl-pos-AUX.html">AUX</a></tt> (2; 2% instances),  (1; 1% instances)
+Parents of `X` nodes belong to 12 different parts of speech: <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> (120; 42% instances), <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (76; 26% instances), <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> (36; 12% instances), <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> (29; 10% instances), <tt><a href="ko_ksl-pos-AUX.html">AUX</a></tt> (13; 4% instances), <tt><a href="ko_ksl-pos-SCONJ.html">SCONJ</a></tt> (4; 1% instances), <tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt> (3; 1% instances), <tt><a href="ko_ksl-pos-CCONJ.html">CCONJ</a></tt> (3; 1% instances), <tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="ko_ksl-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="ko_ksl-pos-PRON.html">PRON</a></tt> (1; 0% instances),  (1; 0% instances)
 
-108 (99%) `X` nodes are leaves.
+288 (100%) `X` nodes are leaves.
 
-1 (1%) `X` nodes have one child.
+1 (0%) `X` nodes have one child.
 
 The highest child degree of a `X` node is 1.
 

@@ -87,7 +87,7 @@ The most frequent other feature values with which `DET` and `Case` co-occurred: 
 
 18277 <tt><a href="la_llct-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="la_llct-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (15010; 82%), <tt><a href="la_llct-feat-Number.html">Number</a></tt><tt>=Sing</tt> (13769; 75%), <tt><a href="la_llct-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (9807; 54%), <tt><a href="la_llct-feat-Person.html">Person</a></tt><tt>=1</tt> (9732; 53%).
+The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="la_llct-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (15012; 82%), <tt><a href="la_llct-feat-Number.html">Number</a></tt><tt>=Sing</tt> (13769; 75%), <tt><a href="la_llct-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (9807; 54%), <tt><a href="la_llct-feat-Person.html">Person</a></tt><tt>=1</tt> (9732; 53%).
 
 `PRON` tokens may have the following values of `Case`:
 
@@ -185,7 +185,7 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
 
 238 <tt><a href="la_llct-pos-ADV.html">ADV</a></tt> tokens (3% of all `ADV` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `ADV` and `Case` co-occurred: <tt><a href="la_llct-feat-AdvType.html">AdvType</a></tt><tt>=Loc</tt> (238; 100%), <tt><a href="la_llct-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (238; 100%).
+The most frequent other feature values with which `ADV` and `Case` co-occurred: <tt><a href="la_llct-feat-AdvType.html">AdvType</a></tt><tt>=Loc</tt> (238; 100%), <tt><a href="la_llct-feat-ExtPos.html">ExtPos</a></tt><tt>=EMPTY</tt> (238; 100%), <tt><a href="la_llct-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (238; 100%).
 
 `ADV` tokens may have the following values of `Case`:
 
@@ -213,10 +213,10 @@ The most frequent other feature values with which `AUX` and `Case` co-occurred: 
 ## Relations with Agreement in `Case`
 
 The 10 most frequent relations where parent and child node agree in `Case`:
-<tt>NOUN --[<tt><a href="la_llct-dep-det.html">det</a></tt>]--> DET</tt> (14800; 93%),
+<tt>NOUN --[<tt><a href="la_llct-dep-det.html">det</a></tt>]--> DET</tt> (14544; 93%),
 <tt>NOUN --[<tt><a href="la_llct-dep-amod.html">amod</a></tt>]--> ADJ</tt> (6355; 100%),
 <tt>PROPN --[<tt><a href="la_llct-dep-appos.html">appos</a></tt>]--> NOUN</tt> (5023; 71%),
-<tt>NOUN --[<tt><a href="la_llct-dep-conj.html">conj</a></tt>]--> NOUN</tt> (4843; 87%),
+<tt>NOUN --[<tt><a href="la_llct-dep-conj.html">conj</a></tt>]--> NOUN</tt> (4845; 87%),
 <tt>PROPN --[<tt><a href="la_llct-dep-det.html">det</a></tt>]--> PRON</tt> (3009; 62%),
 <tt>PROPN --[<tt><a href="la_llct-dep-amod.html">amod</a></tt>]--> ADJ</tt> (2261; 70%),
 <tt>NOUN --[<tt><a href="la_llct-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (1761; 89%),

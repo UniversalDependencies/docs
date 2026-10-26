@@ -5,7 +5,7 @@ shortdef: 'possessive nominal modifier'
 udver: '2'
 ---
 
-`nmod:poss` is used for a possessive nominal modifier. In Khoekhoe, it could be marked with the use of possessive determiners _ti_ "my" and _sa_ "your (singular)", possessive associative pronouns (e.g., _âb_), possessive [postposition](naq-pos/ADP) _di_, or mostly unmarked with the possessor being in the nominative case.
+`nmod:poss` is used for a possessive nominal modifier. In Khoekhoe, it could be marked with the use of the possessive determiners _ti_ "my" and _sa_ "your (singular)", possessive associative pronouns (e.g., _âb_), possessive [postposition](naq-pos/ADP) _di_, or mostly unmarked with the possessor being in the nominative case.
 
 ~~~ sdparse
 ti ǂkhanis \n my book
@@ -32,3 +32,4 @@ Amob ǂkhanis \n Amos book
 nmod:poss(ǂkhanis, Amob)
 nmod:poss(book, Amos)
 ~~~
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:20 CEST -->

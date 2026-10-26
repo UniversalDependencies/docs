@@ -22,14 +22,14 @@ The following 9 pairs of parts of speech are connected with `det`: <tt><a href="
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 det	color:blue
-1	Bocah	_	NOUN	_	Number=Sing|Polite=Infm	3	nsubj	_	_
-2	kuwi	_	DET	_	Polite=Infm|PronType=Dem	1	det	_	_
-3	seneng	_	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
-4	nggambar	_	VERB	_	Mood=Ind|Voice=Act	3	xcomp	_	_
-5	sesawangan	_	NOUN	_	Number=Sing|Polite=Infm	4	obj	_	_
-6	sing	_	PRON	_	Polite=Infm|PronType=Rel	7	nsubj	_	_
-7	asri	_	ADJ	_	_	5	acl:relcl	_	SpaceAfter=No
-8	.	_	PUNCT	_	_	3	punct	_	_
+1	Bocah	bocah	NOUN	_	Number=Sing|Polite=Infm	3	nsubj	_	_
+2	kuwi	kuwi	DET	_	Polite=Infm|PronType=Dem	1	det	_	_
+3	seneng	seneng	VERB	_	Voice=Act	0	root	_	_
+4	nggambar	gambar	VERB	_	Voice=Act	3	xcomp	_	_
+5	sesawangan	sawang	NOUN	_	Number=Sing|Polite=Infm	4	obj	_	_
+6	sing	sing	PRON	_	Polite=Infm|PronType=Rel	7	nsubj	_	_
+7	asri	asri	ADJ	_	_	5	acl:relcl	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~
 
@@ -40,17 +40,17 @@ The following 9 pairs of parts of speech are connected with `det`: <tt><a href="
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 det	color:blue
-1	Leren-leren	_	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
-2	kuwi	_	DET	_	Polite=Infm|PronType=Dem	1	det	_	SpaceAfter=No
-3	,	_	PUNCT	_	_	1	punct	_	_
-4	mbok	_	PART	_	Polite=Infm	5	advmod:emph	_	_
-5	mengko	_	ADV	_	Polite=Infm|PronType=Dem	1	advmod	_	_
-6	yen	_	SCONJ	_	Polite=Infm	10	mark	_	_
-7	gawean	_	NOUN	_	Number=Sing	10	nsubj	_	_
-8	e	_	PRON	_	Number=Sing|Person=3|Polite=Infm|PronType=Prs	7	nmod:poss	_	_
-9	wis	_	AUX	_	Polite=Infm	10	aux	_	_
-10	rampung	_	VERB	_	Mood=Ind|Voice=Act	5	acl	_	SpaceAfter=No
-11	.	_	PUNCT	_	_	1	punct	_	_
+1	Leren-leren	leren	VERB	_	Voice=Act	0	root	_	_
+2	kuwi	kuwi	DET	_	Polite=Infm|PronType=Dem	1	det	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	1	punct	_	_
+4	mbok	mbok	PART	_	Polite=Infm	5	advmod:emph	_	_
+5	mengko	mengko	ADV	_	Polite=Infm|PronType=Dem	1	advmod	_	_
+6	yen	yen	SCONJ	_	Polite=Infm	10	mark	_	_
+7	gawean	gawe	NOUN	_	Number=Sing	10	nsubj	_	_
+8	e	e	PRON	_	Number=Sing|Person=3|Polite=Infm|PronType=Prs	7	nmod:poss	_	_
+9	wis	wis	AUX	_	Polite=Infm	10	aux	_	_
+10	rampung	rampung	VERB	_	Voice=Act	5	acl	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	1	punct	_	_
 
 ~~~
 
@@ -61,15 +61,15 @@ The following 9 pairs of parts of speech are connected with `det`: <tt><a href="
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 8 det	color:blue
-1	Iku	_	PRON	_	Polite=Infm|PronType=Dem	3	nsubj	_	_
-2	minangka	_	ADP	_	_	3	case	_	_
-3	pratandha	_	NOUN	_	Number=Sing	0	root	_	_
-4	ben	_	SCONJ	_	_	5	mark	_	_
-5	beda	_	VERB	_	Mood=Ind|Voice=Act	3	acl	_	_
-6	karo	_	ADP	_	Polite=Infm	7	case	_	_
-7	liya	_	ADJ	_	Polite=Infm	5	advcl	_	_
-8	e	_	DET	_	Definite=Def|Polite=Infm|PronType=Art	7	det	_	_
-9	.	_	PUNCT	_	_	3	punct	_	_
+1	Iku	iku	PRON	_	Polite=Infm|PronType=Dem	3	nsubj	_	_
+2	minangka	pinangka	ADP	_	_	3	case	_	_
+3	pratandha	tandha	NOUN	_	Number=Sing	0	root	_	_
+4	ben	ben	SCONJ	_	_	5	mark	_	_
+5	beda	beda	VERB	_	Voice=Act	3	acl	_	_
+6	karo	karo	ADP	_	Polite=Infm	7	case	_	_
+7	liya	liya	ADJ	_	Polite=Infm	5	advcl	_	_
+8	e	e	DET	_	Definite=Def|Polite=Infm|PronType=Art	7	det	_	_
+9	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~
 

@@ -22,15 +22,15 @@ The following 17 pairs of parts of speech are connected with `fixed`: <tt><a hre
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 3 fixed	color:blue
-1	ꙇ	и	CCONJ	C-	_	4	cc	_	ref=MATT_26.16
-2	отъ	отътоли	ADV	Df	_	4	advmod	_	ref=MATT_26.16
-3	толи	толи	ADV	Df	_	2	fixed	_	ref=MATT_26.16
-4	искаше	искати	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_26.16
-5	подобъна	подобьнъ	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc,Neut|Number=Sing|Variant=Short	6	amod	_	ref=MATT_26.16
-6	врѣмени	врѣмѧ	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	4	obl:arg	_	ref=MATT_26.16
-7	да	да	SCONJ	G-	_	9	mark	_	ref=MATT_26.16
-8	и	и	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obj	_	ref=MATT_26.16
-9	прѣдастъ	прѣдати	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	advcl	_	ref=MATT_26.16
+1	ꙇ	и	CCONJ	C-	_	4	cc	_	Ref=MATT_26.16
+2	отъ	отътоли	ADV	Df	_	4	advmod	_	Ref=MATT_26.16
+3	толи	толи	ADV	Df	_	2	fixed	_	Ref=MATT_26.16
+4	искаше	искати	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_26.16
+5	подобъна	подобьнъ	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc,Neut|Number=Sing|Variant=Short	6	amod	_	Ref=MATT_26.16
+6	врѣмени	врѣмѧ	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	4	obl:arg	_	Ref=MATT_26.16
+7	да	да	SCONJ	G-	_	9	mark	_	Ref=MATT_26.16
+8	и	и	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obj	_	Ref=MATT_26.16
+9	прѣдастъ	прѣдати	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	advcl	_	Ref=MATT_26.16
 
 ~~~
 
@@ -41,18 +41,18 @@ The following 17 pairs of parts of speech are connected with `fixed`: <tt><a hre
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 8 fixed	color:blue
-1	Ѡ҃̆че	отьць	NOUN	Nb	Case=Voc|Gender=Masc|Number=Sing	7	vocative	_	ref=MATT_26.39
-2	мои	мои	DET	Ps	Case=Voc|Gender=Masc|Number=Sing|Person=1|Poss=Yes	1	det	_	ref=MATT_26.39
-3	аште	аще	SCONJ	G-	_	4	mark	_	ref=MATT_26.39
-4	възможьно	възможьнъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	7	advcl	_	ref=MATT_26.39
-5	естъ	бꙑти	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	ref=MATT_26.39
-6	да	да	ADV	Df	_	7	advmod	_	ref=MATT_26.39
-7	мимо	мимоити	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_26.39
-8	идетъ	идетъ	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	fixed	_	ref=MATT_26.39
-9	отъ	отъ	ADP	R-	_	10	case	_	ref=MATT_26.39
-10	мене	азъ	PRON	Pp	Case=Gen|Number=Sing|Person=1|PronType=Prs	7	obl	_	ref=MATT_26.39
-11	чаша	чаша	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	ref=MATT_26.39
-12	си	сь	DET	Pd	Case=Nom|Gender=Fem|Number=Sing	11	det	_	ref=MATT_26.39
+1	Ѡ҃̆че	отьць	NOUN	Nb	Case=Voc|Gender=Masc|Number=Sing	7	vocative	_	Ref=MATT_26.39
+2	мои	мои	DET	Ps	Case=Voc|Gender=Masc|Number=Sing|Person=1|Poss=Yes	1	det	_	Ref=MATT_26.39
+3	аште	аще	SCONJ	G-	_	4	mark	_	Ref=MATT_26.39
+4	възможьно	възможьнъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	7	advcl	_	Ref=MATT_26.39
+5	естъ	бꙑти	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	Ref=MATT_26.39
+6	да	да	ADV	Df	_	7	advmod	_	Ref=MATT_26.39
+7	мимо	мимоити	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_26.39
+8	идетъ	идетъ	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	fixed	_	Ref=MATT_26.39
+9	отъ	отъ	ADP	R-	_	10	case	_	Ref=MATT_26.39
+10	мене	азъ	PRON	Pp	Case=Gen|Number=Sing|Person=1|PronType=Prs	7	obl	_	Ref=MATT_26.39
+11	чаша	чаша	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	Ref=MATT_26.39
+12	си	сь	DET	Pd	Case=Nom|Gender=Fem|Number=Sing	11	det	_	Ref=MATT_26.39
 
 ~~~
 
@@ -63,14 +63,14 @@ The following 17 pairs of parts of speech are connected with `fixed`: <tt><a hre
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 fixed	color:blue
-1	Никъꙇ	никꙑиже	DET	Px	Case=Nom|Gender=Masc|Number=Sing	3	det	_	ref=MATT_6.24
-2	же	же	PRON	Px	Case=Nom|Gender=Masc|Number=Sing	1	fixed	_	ref=MATT_6.24
-3	рабъ	рабъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	ref=MATT_6.24
-4	не	не	ADV	Df	Polarity=Neg	5	advmod	_	ref=MATT_6.24
-5	можетъ	мощи	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_6.24
-6	двѣма	дъва	NUM	Ma	Case=Dat|Gender=Masc|Number=Dual	7	nummod	_	ref=MATT_6.24
-7	г҃ма	господинъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Dual	8	obl:arg	_	ref=MATT_6.24
-8	работати	работати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	5	xcomp	_	ref=MATT_6.24
+1	Никъꙇ	никꙑиже	DET	Px	Case=Nom|Gender=Masc|Number=Sing	3	det	_	Ref=MATT_6.24
+2	же	же	PRON	Px	Case=Nom|Gender=Masc|Number=Sing	1	fixed	_	Ref=MATT_6.24
+3	рабъ	рабъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	Ref=MATT_6.24
+4	не	не	ADV	Df	Polarity=Neg	5	advmod	_	Ref=MATT_6.24
+5	можетъ	мощи	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_6.24
+6	двѣма	дъва	NUM	Ma	Case=Dat|Gender=Masc|Number=Dual	7	nummod	_	Ref=MATT_6.24
+7	г҃ма	господинъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Dual	8	obl:arg	_	Ref=MATT_6.24
+8	работати	работати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	5	xcomp	_	Ref=MATT_6.24
 
 ~~~
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-181 nodes (1%) are attached to their parents as `cc`.
+180 nodes (1%) are attached to their parents as `cc`.
 
-170 instances of `cc` (94%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.9171270718232.
+169 instances of `cc` (94%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.86666666666667.
 
-The following 9 pairs of parts of speech are connected with `cc`: <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_gb-pos-CCONJ.html">CCONJ</a></tt> (65; 36% instances), <tt><a href="tr_gb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_gb-pos-CCONJ.html">CCONJ</a></tt> (52; 29% instances), <tt><a href="tr_gb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_gb-pos-CCONJ.html">CCONJ</a></tt> (27; 15% instances), <tt><a href="tr_gb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_gb-pos-CCONJ.html">CCONJ</a></tt> (23; 13% instances), <tt><a href="tr_gb-pos-PRON.html">PRON</a></tt>-<tt><a href="tr_gb-pos-CCONJ.html">CCONJ</a></tt> (10; 6% instances), <tt><a href="tr_gb-pos-ADV.html">ADV</a></tt>-<tt><a href="tr_gb-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="tr_gb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_gb-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="tr_gb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_gb-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_gb-pos-PRON.html">PRON</a></tt> (1; 1% instances).
+The following 8 pairs of parts of speech are connected with `cc`: <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_gb-pos-CCONJ.html">CCONJ</a></tt> (65; 36% instances), <tt><a href="tr_gb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_gb-pos-CCONJ.html">CCONJ</a></tt> (52; 29% instances), <tt><a href="tr_gb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_gb-pos-CCONJ.html">CCONJ</a></tt> (27; 15% instances), <tt><a href="tr_gb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_gb-pos-CCONJ.html">CCONJ</a></tt> (23; 13% instances), <tt><a href="tr_gb-pos-PRON.html">PRON</a></tt>-<tt><a href="tr_gb-pos-CCONJ.html">CCONJ</a></tt> (10; 6% instances), <tt><a href="tr_gb-pos-ADV.html">ADV</a></tt>-<tt><a href="tr_gb-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="tr_gb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_gb-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="tr_gb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_gb-pos-DET.html">DET</a></tt> (1; 1% instances).
 
 
 ~~~ conllu

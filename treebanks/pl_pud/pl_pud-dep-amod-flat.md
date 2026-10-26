@@ -7,6 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Polish-PUD: Relations: `amod:flat`
 
 This relation is a language-specific subtype of <tt><a href="pl_pud-dep-amod.html">amod</a></tt>.
+There are also 1 other language-specific subtypes of `amod`: <tt><a href="pl_pud-dep-amod-cmp.html">amod:cmp</a></tt>.
 
 271 nodes (1%) are attached to their parents as `amod:flat`.
 

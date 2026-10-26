@@ -9,27 +9,27 @@ udver: '2'
 This feature is universal.
 It occurs with 7 different values: `Abl`, `Acc`, `Dat`, `Gen`, `Ins`, `Loc`, `Nom`.
 
-30617 tokens (35%) have a non-empty value of `Case`.
-4457 types (60%) occur at least once with a non-empty value of `Case`.
-2356 lemmas (79%) occur at least once with a non-empty value of `Case`.
-The feature is used with 8 part-of-speech tags: <tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt> (12128; 14% instances), <tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt> (9796; 11% instances), <tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt> (2346; 3% instances), <tt><a href="xcl_caval-pos-PROPN.html">PROPN</a></tt> (2322; 3% instances), <tt><a href="xcl_caval-pos-DET.html">DET</a></tt> (1814; 2% instances), <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt> (1530; 2% instances), <tt><a href="xcl_caval-pos-NUM.html">NUM</a></tt> (635; 1% instances), <tt><a href="xcl_caval-pos-AUX.html">AUX</a></tt> (46; 0% instances).
+35780 tokens (36%) have a non-empty value of `Case`.
+5995 types (66%) occur at least once with a non-empty value of `Case`.
+3254 lemmas (83%) occur at least once with a non-empty value of `Case`.
+The feature is used with 8 part-of-speech tags: <tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt> (14214; 14% instances), <tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt> (10498; 11% instances), <tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt> (3072; 3% instances), <tt><a href="xcl_caval-pos-PROPN.html">PROPN</a></tt> (3017; 3% instances), <tt><a href="xcl_caval-pos-DET.html">DET</a></tt> (2262; 2% instances), <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt> (1929; 2% instances), <tt><a href="xcl_caval-pos-NUM.html">NUM</a></tt> (705; 1% instances), <tt><a href="xcl_caval-pos-AUX.html">AUX</a></tt> (83; 0% instances).
 
 ### `NOUN`
 
-12128 <tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Case`.
+14214 <tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="xcl_caval-feat-Number.html">Number</a></tt><tt>=Sing</tt> (8385; 69%).
+The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="xcl_caval-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9752; 69%).
 
 `NOUN` tokens may have the following values of `Case`:
 
-* `Abl` (809; 7% of non-empty `Case`): <em>երկնից, Աստուածոյ, հաւրէ, մարդկանէ, աշակերտաց, անձնէ, հետէ, աշխարհէ, ժողովրդենէ, սկզբանէ</em>
-* `Acc` (4374; 36% of non-empty `Case`): <em>պատասխանի, անձն, հայր, տուն, անուն, երկիր, բան, աշակերտս, Աստուած, որդի</em>
-* `Dat` (451; 4% of non-empty `Case`): <em>որդւոյ, առն, տեառն, Աստուածոյ, մարդկան, աշակերտաց, ժողովրդեան, դպրաց, եղբաւր, ազգի</em>
-* `Gen` (1855; 15% of non-empty `Case`): <em>Աստուածոյ, մարդոյ, երկնից, տեառն, աշխարհի, հաւր, ժողովրդեան, մարդկան, հրէից, երկրի</em>
-* `Ins` (466; 4% of non-empty `Case`): <em>հոգւով, իշխանութեամբ, առակաւք, ճշմարտութեամբ, աշակերտաւք, ճանապարհաւ, փառաւք, բանիւ, զաւրութեամբ, ջրով</em>
-* `Loc` (949; 8% of non-empty `Case`): <em>աւուր, երկինս, աղաւթս, շաբաթու, տաճարի, տան, ժամու, աւուրս, աշխարհի, երկրի</em>
-* `Nom` (3224; 27% of non-empty `Case`): <em>տէր, որդի, հայր, աշակերտք, այր, Աստուած, կին, վարդապետ, ժողովուրդ, անուն</em>
-* `EMPTY` (1): <em>ձեռն</em>
+* `Abl` (944; 7% of non-empty `Case`): <em>երկնից, Աստուածոյ, հաւրէ, մարդկանէ, աշակերտաց, հետէ, անձնէ, սկզբանէ, աշխարհէ, ժողովրդենէ</em>
+* `Acc` (5041; 35% of non-empty `Case`): <em>պատասխանի, անուն, տուն, անձն, երկիր, բան, հայր, ձեռն, որդի, աշակերտս</em>
+* `Dat` (532; 4% of non-empty `Case`): <em>որդւոյ, առն, մարդկան, տեառն, Աստուածոյ, աշակերտաց, ժողովրդեան, բանից, եղբաւր, ազգի</em>
+* `Gen` (2406; 17% of non-empty `Case`): <em>Աստուածոյ, մարդոյ, աշխարհի, երկնից, տեառն, հաւր, ժողովրդեան, մարդկան, երկրի, հրէից</em>
+* `Ins` (671; 5% of non-empty `Case`): <em>հոգւով, իշխանութեամբ, ճշմարտութեամբ, աշակերտաւք, առակաւք, զաւրութեամբ, ճանապարհաւ, բանիւ, փառաւք, գրով</em>
+* `Loc` (1079; 8% of non-empty `Case`): <em>աւուր, երկինս, աղաւթս, շաբաթու, տաճարի, տան, ժամու, աշխարհի, աւուրս, երկրի</em>
+* `Nom` (3541; 25% of non-empty `Case`): <em>տէր, որդի, հայր, աշակերտք, այր, Աստուած, կին, վարդապետ, անուն, ժողովուրդ</em>
+* `EMPTY` (2): <em>ԵԲՐԱՅԵՑՒՈՑ, ձեռն</em>
 
 <table>
   <tr><th>Paradigm <i>որդի</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th><th><tt>Abl</tt></th></tr>
@@ -39,64 +39,63 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 
 ### `PRON`
 
-9796 <tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Case`.
+10498 <tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="xcl_caval-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7210; 74%), <tt><a href="xcl_caval-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (6503; 66%), <tt><a href="xcl_caval-feat-Deixis.html">Deixis</a></tt><tt>=EMPTY</tt> (5849; 60%).
+The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="xcl_caval-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7730; 74%), <tt><a href="xcl_caval-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (7079; 67%), <tt><a href="xcl_caval-feat-Deixis.html">Deixis</a></tt><tt>=EMPTY</tt> (6293; 60%).
 
 `PRON` tokens may have the following values of `Case`:
 
-* `Abl` (360; 4% of non-empty `Case`): <em>նմանէ, նոցանէ, քէն, ձէնջ, ինէն, որմէ, որոց, դմանէ, մէնջ, այնմանէ</em>
-* `Acc` (2941; 30% of non-empty `Case`): <em>նա, նոսա, իս, որ, ինչ, քեզ, ձեզ, զինչ, այս, այն</em>
-* `Dat` (1236; 13% of non-empty `Case`): <em>ձեզ, նմա, նոցա, քեզ, ինձ, մեզ, որում, ումեք, որոց, դմա</em>
-* `Gen` (2037; 21% of non-empty `Case`): <em>նորա, իմ, քո, իւր, ձեր, նոցա, իւրեանց, մեր, որոյ, այնորիկ</em>
-* `Ins` (89; 1% of non-empty `Case`): <em>նովաւ, որով, նոքաւք, իւ, իւրեւ, որովք, ինեւ, իւիք, ամենեքումբք, այնու</em>
-* `Loc` (364; 4% of non-empty `Case`): <em>նմա, ձեզ, նոսա, իս, որում, քեզ, միմեանս, մեզ, նմայ, որս</em>
-* `Nom` (2769; 28% of non-empty `Case`): <em>որ, ես, նա, ոք, դու, դուք, նոքա, սա, ինչ, ինքն</em>
-* `EMPTY` (1): <em>Չիք</em>
+* `Abl` (424; 4% of non-empty `Case`): <em>նմանէ, նոցանէ, քէն, ձէնջ, ինէն, որոց, որմէ, սմանէ, մէնջ, դմանէ</em>
+* `Acc` (3047; 29% of non-empty `Case`): <em>նա, նոսա, իս, որ, ինչ, քեզ, զինչ, ձեզ, այս, այն</em>
+* `Dat` (1321; 13% of non-empty `Case`): <em>ձեզ, նմա, նոցա, քեզ, ինձ, մեզ, որում, ումեք, որոց, դմա</em>
+* `Gen` (2172; 21% of non-empty `Case`): <em>նորա, իմ, քո, իւր, նոցա, ձեր, իւրեանց, որոյ, մեր, այնորիկ</em>
+* `Ins` (112; 1% of non-empty `Case`): <em>նովաւ, որով, նոքաւք, իւ, որովք, իւիք, իւրեւ, ինեւ, ամենայնիւ, այնու</em>
+* `Loc` (414; 4% of non-empty `Case`): <em>նմա, ձեզ, նոսա, իս, որում, միմեանս, քեզ, նմայ, մեզ, որս</em>
+* `Nom` (3008; 29% of non-empty `Case`): <em>որ, ես, նա, ոք, դու, դուք, նոքա, ինչ, սա, այս</em>
 
 <table>
   <tr><th>Paradigm <i>նա</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th><th><tt>Abl</tt></th></tr>
-  <tr><td><tt><tt><a href="xcl_caval-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>նա</em></td><td><em>նա, նոսա, նայ</em></td><td><em>նմա, նմայ, նոցա</em></td><td><em>նորա, նոցա</em></td><td><em>նմա, նմայ, նըմայ, նա</em></td><td><em>նովաւ</em></td><td><em>նմանէ</em></td></tr>
-  <tr><td><tt><tt><a href="xcl_caval-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>նոքա, նոքին</em></td><td><em>նոսա</em></td><td><em>նոցա</em></td><td><em>նոցա</em></td><td><em>նոսա, նոսայ</em></td><td><em>նոքաւք</em></td><td><em>նոցանէ, նոցա</em></td></tr>
+  <tr><td><tt><tt><a href="xcl_caval-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>նա, նորա</em></td><td><em>նա, նոսա, նայ</em></td><td><em>նմա, նոցա</em></td><td><em>նորա, նորայ, նոցա</em></td><td><em>նմա, նմայ, նըմայ, նա</em></td><td><em>նովաւ</em></td><td><em>նմանէ</em></td></tr>
+  <tr><td><tt><tt><a href="xcl_caval-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>նոքա, նոքին</em></td><td><em>նոսա</em></td><td><em>նոցա</em></td><td><em>նոցա, նոցայց</em></td><td><em>նոսա, նոսայ</em></td><td><em>նոքաւք</em></td><td><em>նոցանէ, նոցայ, նոցա</em></td></tr>
 </table>
 
 ### `ADJ`
 
-2346 <tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt> tokens (100% of all `ADJ` tokens) have a non-empty value of `Case`.
+3072 <tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt> tokens (100% of all `ADJ` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="xcl_caval-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1765; 75%).
+The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="xcl_caval-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2274; 74%).
 
 `ADJ` tokens may have the following values of `Case`:
 
-* `Abl` (103; 4% of non-empty `Case`): <em>աջմէ, փոքրկանց, հեռաստանէ, ահեկէ, այլոց, ծերոց, չարէ, սրբոյ, առաջնոց, աւտարաց</em>
-* `Acc` (660; 28% of non-empty `Case`): <em>բարի, մեծ, յաւիտենականս, այղ, միւս, այլ, չար, փառաւոր, բարիս, ճշմարիտ</em>
-* `Dat` (84; 4% of non-empty `Case`): <em>աղքատաց, այլում, այլոց, հիւանդաց, ատելեաց, մեծատան, յղեաց, ստնտուաց, բազմականաց, կուրաց</em>
-* `Gen` (150; 6% of non-empty `Case`): <em>այլոց, բարձրելոյ, կուրի, մեղաւորաց, Բաբեղացւոց, սրբոց, ազնուի, առաջնոյ, առաջնոց, ծերոց</em>
-* `Ins` (37; 2% of non-empty `Case`): <em>սրբով, մեծաւ, այլով, այլովք, ծերովք, երկայնանստիւ, սակաւուք, անբաւիւք, անուշիւ, աշխարականաւք</em>
-* `Loc` (64; 3% of non-empty `Case`): <em>անապատի, յետնում, մեղաւորս, փոքու, առաջնում, բարձունս, առաջին, երեւելիս, երրորդ, միւսում</em>
-* `Nom` (1248; 53% of non-empty `Case`): <em>մեծ, այլ, արժան, չար, զգոյշ, նման, այլք, ճշմարիտ, միւս, առաջին</em>
+* `Abl` (136; 4% of non-empty `Case`): <em>աջմէ, այլոց, փոքրկանց, հեռաստանէ, ահեկէ, քաջաց, աւտարաց, ծերոց, չարէ, սրբոյ</em>
+* `Acc` (879; 29% of non-empty `Case`): <em>բարի, մեծ, յաւիտենականս, այլ, այղ, միւս, այլս, չար, առաջին, փառաւոր</em>
+* `Dat` (94; 3% of non-empty `Case`): <em>աղքատաց, այլոց, այլում, հիւանդաց, ատելեաց, մեծատան, յղեաց, ստնտուաց, առաջնոց, բազմականաց</em>
+* `Gen` (245; 8% of non-empty `Case`): <em>այլոց, առաջնոյ, բարձրելոյ, իմաստնոց, կուրի, մեծի, մեղաւորաց, մեծաց, Բաբեղացւոց, առաջնոց</em>
+* `Ins` (70; 2% of non-empty `Case`): <em>մեծաւ, սրբով, սակաւուք, այլով, այլովք, ծերովք, երկայնանստիւ, ամրագունիւք, անբաւիւք, անուշիւ</em>
+* `Loc` (87; 3% of non-empty `Case`): <em>անապատի, յետնում, առաջին, մեղաւորս, փոքու, առաջնում, բարձունս, այլ, արքունիս, երեւելիս</em>
+* `Nom` (1561; 51% of non-empty `Case`): <em>մեծ, առաջին, այլ, արժան, ճշմարիտ, չար, այլք, զգոյշ, միւս, նման</em>
 
 <table>
   <tr><th>Paradigm <i>այլ</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th><th><tt>Abl</tt></th></tr>
-  <tr><td><tt><tt><a href="xcl_caval-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>այլ, այղ</em></td><td><em>այղ, այլ, այլս</em></td><td><em>այլում, այղում</em></td><td></td><td><em>այլ</em></td><td><em>այլով</em></td><td><em>այլմէ, այլոյ</em></td></tr>
+  <tr><td><tt><tt><a href="xcl_caval-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>այլ, այղ</em></td><td><em>այլ, այղ, այլս, այլն</em></td><td><em>այլում, այղում</em></td><td></td><td><em>այլ, այլում</em></td><td><em>այլով</em></td><td><em>այլմէ, այլոց, այլոյ</em></td></tr>
   <tr><td><tt><tt><a href="xcl_caval-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>այլք, այղք, այղ</em></td><td><em>այլս, այղս</em></td><td><em>այլոց, այղոց</em></td><td><em>այլոց, այղոց</em></td><td></td><td><em>այլովք</em></td><td><em>այլոց</em></td></tr>
 </table>
 
 ### `PROPN`
 
-2322 <tt><a href="xcl_caval-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `Case`.
+3017 <tt><a href="xcl_caval-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PROPN` and `Case` co-occurred: <tt><a href="xcl_caval-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2271; 98%).
+The most frequent other feature values with which `PROPN` and `Case` co-occurred: <tt><a href="xcl_caval-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2881; 95%).
 
 `PROPN` tokens may have the following values of `Case`:
 
-* `Abl` (93; 4% of non-empty `Case`): <em>Գաղիղեէ, Երուսաղեմէ, Հրէաստանէ, Յովհաննէ, Նազարեթէ, Արիմաթեայ, Յիսուսէ, սատանայէ, Նոյէ, Երիքովէ</em>
-* `Acc` (506; 22% of non-empty `Case`): <em>Յիսուս, Յովհաննէս, Երուսաղեմ, Պետրոս, Գաղիղեա, Սիմովն, Յակովբոս, Աբրահամ, Պիղատոս, Մարիամ</em>
-* `Dat` (67; 3% of non-empty `Case`): <em>Յիսուսի, Մովսէսի, Յովհաննու, Աբրահամու, Իսրայեղի, Էղիայի, Քրիստոսի, Եղիսաբեթի, Զրուանայ, Էղիաի</em>
-* `Gen` (424; 18% of non-empty `Case`): <em>Յիսուսի, Դաւթի, Յովհաննու, Իսրայեղի, Յակովբայ, Սիմովնի, Աբրահամու, Հրէաստանի, Զեբեդեայ, Յովնանու</em>
-* `Ins` (19; 1% of non-empty `Case`): <em>Բեեղզեբուղաւ, Հէրովդիանոսաւք, Աբիաթարաւ, Եղիսեիւ, Ենովք, Զեբեդեաւ, Մարեմաւ, Մարիամաւ, Մովսէսիւ, Յակովբաւ</em>
-* `Loc` (75; 3% of non-empty `Case`): <em>Երուսաղեմ, Յիսուսի, Գաղիղեա, Իսրայեղի, Կափառնաւում, Հրէաստանի, Էրուսաղեմ, Բեթանիա, Բեթղեեմ, Եգիպտոս</em>
-* `Nom` (1138; 49% of non-empty `Case`): <em>Յիսուս, Պետրոս, Քրիստոս, Յովհաննէս, Պիղատոս, Մարիամ, Սիմովն, Մովսէս, Յուդա, սատանայ</em>
+* `Abl` (151; 5% of non-empty `Case`): <em>Գաղիղեէ, Երուսաղեմէ, Հրէաստանէ, Յովհաննէ, Նազարեթէ, Շամիրամայ, Արիմաթեայ, Հայկայ, Մարաց, Յիսուսէ</em>
+* `Acc` (621; 21% of non-empty `Case`): <em>Յիսուս, Յովհաննէս, Երուսաղեմ, Պետրոս, Գաղիղեա, Սիմովն, Արայ, Յակովբոս, Հայս, Աբրահամ</em>
+* `Dat` (85; 3% of non-empty `Case`): <em>Յիսուսի, Մովսէսի, Յովհաննու, Աբրահամու, Աժդահակայ, Իսրայեղի, Էղիայի, Քրիստոսի, Եղիսաբեթի, Զրուանայ</em>
+* `Gen` (647; 21% of non-empty `Case`): <em>Յիսուսի, Դաւթի, Յովհաննու, Իսրայեղի, Հայոց, Շամիրամայ, Աժդահակայ, Աբրահամու, Արայի, Յակովբայ</em>
+* `Ins` (25; 1% of non-empty `Case`): <em>Բեեղզեբուղաւ, Հէրովդիանոսաւք, Տեւտամաւ, Աբիաթարաւ, Արտաշիսիւ, Բելոքոսիւ, Եղիսեիւ, Ենովք, Զեբեդեաւ, Մարեմաւ</em>
+* `Loc` (93; 3% of non-empty `Case`): <em>Երուսաղեմ, Յիսուսի, Գաղիղեա, Իսրայեղի, Կափառնաւում, Հայս, Հրէաստանի, Էրուսաղեմ, Նինուէ, Արմաւիր</em>
+* `Nom` (1395; 46% of non-empty `Case`): <em>Յիսուս, Պետրոս, Քրիստոս, Յովհաննէս, Պիղատոս, Մարիամ, Սիմովն, Մովսէս, Յուդա, սատանայ</em>
 
 <table>
   <tr><th>Paradigm <i>Յիսուս</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th><th><tt>Abl</tt></th></tr>
@@ -105,108 +104,116 @@ The most frequent other feature values with which `PROPN` and `Case` co-occurred
 
 ### `DET`
 
-1814 <tt><a href="xcl_caval-pos-DET.html">DET</a></tt> tokens (31% of all `DET` tokens) have a non-empty value of `Case`.
+2262 <tt><a href="xcl_caval-pos-DET.html">DET</a></tt> tokens (32% of all `DET` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="xcl_caval-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (1534; 85%), <tt><a href="xcl_caval-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1500; 83%), <tt><a href="xcl_caval-feat-Deixis.html">Deixis</a></tt><tt>=EMPTY</tt> (1396; 77%).
+The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="xcl_caval-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (1902; 84%), <tt><a href="xcl_caval-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1856; 82%), <tt><a href="xcl_caval-feat-Deixis.html">Deixis</a></tt><tt>=EMPTY</tt> (1723; 76%).
 
 `DET` tokens may have the following values of `Case`:
 
-* `Abl` (157; 9% of non-empty `Case`): <em>իմմէ, քումմէ, իւրմէ, այսմ, իւրոց, քոց, այսցանէ, այնմ, այնմանէ, իմոց</em>
-* `Acc` (495; 27% of non-empty `Case`): <em>ամենայն, մի, այս, բազում, որ, ինչ, այն, բազումս, այդ, այսոսիկ</em>
-* `Dat` (112; 6% of non-empty `Case`): <em>իւրում, այնմիկ, այսմիկ, ձերոց, իմոց, իւրոց, քում, իմում, մերոց, բազմաց</em>
-* `Gen` (214; 12% of non-empty `Case`): <em>իմոյ, իւրոյ, այնորիկ, այսորիկ, իւրոց, մերոյ, ձերոյ, քո, ձերոց, բազմաց</em>
-* `Ins` (46; 3% of non-empty `Case`): <em>իւրով, իւրովք, որով, բազմաւք, իմով, քով, բազմովք, ձերով, միով, ամենայնիւ</em>
-* `Loc` (145; 8% of non-empty `Case`): <em>իւրում, այնմիկ, այնոսիկ, քում, այսմիկ, նմին, այնմ, այսմ, իմում, ձերում</em>
-* `Nom` (645; 36% of non-empty `Case`): <em>ամենայն, մի, բազում, բազումք, այս, որ, ոմն, այն, իւրաքանչիւր, սակաւ</em>
-* `EMPTY` (4073): <em>ն, ս, դ, Բազում, մի, միայն</em>
+* `Abl` (176; 8% of non-empty `Case`): <em>իմմէ, քումմէ, իւրմէ, իւրոց, այսմ, քոց, այսցանէ, իւրեանց, մերոց, այնմանէ</em>
+* `Acc` (616; 27% of non-empty `Case`): <em>ամենայն, մի, ինչ, բազում, այս, որ, այն, բազումս, նոյն, այսպիսի</em>
+* `Dat` (128; 6% of non-empty `Case`): <em>իւրում, իւրոց, այնմիկ, այսմիկ, իմոց, ձերոց, քում, իմում, մերոց, բազմաց</em>
+* `Gen` (356; 16% of non-empty `Case`): <em>իմոյ, իւրոյ, մերոյ, իւրոց, մեր, այնորիկ, այսորիկ, իւր, սորա, քո</em>
+* `Ins` (62; 3% of non-empty `Case`): <em>իւրով, իւրովք, որով, իմով, բազմաւք, նովին, քով, այնու, այսուիկ, բազմովք</em>
+* `Loc` (176; 8% of non-empty `Case`): <em>իւրում, այնմ, այնոսիկ, քում, այնմիկ, այսմիկ, նմին, այսմ, իմում, մերում</em>
+* `Nom` (748; 33% of non-empty `Case`): <em>ամենայն, մի, բազում, որ, այս, ոմն, բազումք, այն, իմն, իւրաքանչիւր</em>
+* `EMPTY` (4841): <em>ն, ս, դ, այսոցիկ, ինչ, մի</em>
 
 <table>
   <tr><th>Paradigm <i>իւր</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th><th><tt>Abl</tt></th></tr>
-  <tr><td><tt><tt><a href="xcl_caval-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>իւր</em></td><td><em>իւր</em></td><td><em>իւրում, իւրոյ</em></td><td><em>իւրոյ, իւր</em></td><td><em>իւրում, իրում</em></td><td><em>իւրով</em></td><td><em>իւրմէ</em></td></tr>
-  <tr><td><tt><tt><a href="xcl_caval-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>իւրեանց, իւրս</em></td><td><em>իւրոց</em></td><td><em>իւրոց</em></td><td></td><td><em>իւրովք</em></td><td><em>իւրոց, իւրեանց</em></td></tr>
+  <tr><td><tt><tt><a href="xcl_caval-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="xcl_caval-feat-Poss.html">Poss</a></tt><tt>=Yes</tt></tt></td><td><em>իւր</em></td><td><em>իւր, իւրով</em></td><td><em>իւրում, իւրոյ</em></td><td><em>իւրոյ, իւր, իւրոց</em></td><td><em>իւրում, իրում</em></td><td><em>իւրով</em></td><td><em>իւրմէ, իւրոյ, իւրոց</em></td></tr>
+  <tr><td><tt><tt><a href="xcl_caval-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>իւր</em></td><td><em>իւր</em></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="xcl_caval-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="xcl_caval-feat-Poss.html">Poss</a></tt><tt>=Yes</tt></tt></td><td></td><td><em>իւրեանց, իւրս</em></td><td><em>իւրոց</em></td><td><em>իւրոց, իւրեանց</em></td><td></td><td><em>իւրովք</em></td><td><em>իւրոց, իւրեանց</em></td></tr>
+  <tr><td><tt><tt><a href="xcl_caval-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td></td><td></td><td></td><td><em>իւրովք</em></td><td></td></tr>
 </table>
 
 ### `VERB`
 
-1530 <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt> tokens (11% of all `VERB` tokens) have a non-empty value of `Case`.
+1929 <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt> tokens (13% of all `VERB` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="xcl_caval-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (1530; 100%), <tt><a href="xcl_caval-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (1530; 100%), <tt><a href="xcl_caval-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1530; 100%), <tt><a href="xcl_caval-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (1504; 98%), <tt><a href="xcl_caval-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1363; 89%), <tt><a href="xcl_caval-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (1326; 87%), <tt><a href="xcl_caval-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (1319; 86%).
+The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="xcl_caval-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1928; 100%), <tt><a href="xcl_caval-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (1927; 100%), <tt><a href="xcl_caval-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (1927; 100%), <tt><a href="xcl_caval-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (1886; 98%), <tt><a href="xcl_caval-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (1719; 89%), <tt><a href="xcl_caval-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1672; 87%), <tt><a href="xcl_caval-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (1610; 83%).
 
 `VERB` tokens may have the following values of `Case`:
 
-* `Abl` (42; 3% of non-empty `Case`): <em>մեռելոց, կոչեցելոց, Դարձեալ, անկելոց, բազմելոց, բարկացեալ, ելանելոյ, ելելոց, զայրացեալ, թաւալեցուցեալ</em>
-* `Acc` (157; 10% of non-empty `Case`): <em>եկեալ, կապեալ, առաքեալս, մեռեալս, արձակեալ, զարդարեալ, զարմանալ, կոչեցեալ, կորուսեալ, նտրեալս</em>
-* `Dat` (27; 2% of non-empty `Case`): <em>լսելոյ, ախորժելոյ, անկելոյ, անկելոց, առաքելոց, ասացելոյ, արկելոյ, բռելոց, գրելոց, եկելոց</em>
-* `Gen` (82; 5% of non-empty `Case`): <em>մեռելոց, ծնանելոյ, ընտրելոց, առնելոյ, ասելոյ, գալոյ, երեւելոյ, կառափելոյ, կորուսելոյ, մեկնելոյ</em>
-* `Ins` (44; 3% of non-empty `Case`): <em>ասելով, փորձելով, գնալով, լսելով, համարելով, ձգելով, տեսանելով, փակելովք, ախորժելով, անցանելով</em>
-* `Loc` (76; 5% of non-empty `Case`): <em>ելանել, մտանել, կալ, կատարել, հասանել, սերմանել, բազմել, գնալ, ժողովել, խաւսել</em>
-* `Nom` (1102; 72% of non-empty `Case`): <em>եկեալ, առեալ, մատուցեալ, գրեալ, ելեալ, յարուցեալ, մտեալ, տեսեալ, թողեալ, անկեալ</em>
-* `EMPTY` (11925): <em>ասէ, ետ, ասեն, ասեմ, ասեին, եկն, ասաց, գայ, ել, ասէր</em>
+* `Abl` (49; 3% of non-empty `Case`): <em>մեռելոց, կոչեցելոց, Դարձեալ, անկելոց, բազմելոց, բարկացեալ, գերելոց, ելանելոյ, ելելոց, զայրացեալ</em>
+* `Acc` (188; 10% of non-empty `Case`): <em>եկեալ, կապեալ, անուանեալ, առաքեալս, կոչեցեալ, մեռեալս, ասացեալ, արձակեալ, զարդարեալ, կորուսեալ</em>
+* `Dat` (26; 1% of non-empty `Case`): <em>լսելոյ, ախորժելոյ, անկելոյ, անկելոց, անուանելոց, առաքելոց, ասացելոյ, արկելոյ, բռելոց, գրելոց</em>
+* `Gen` (109; 6% of non-empty `Case`): <em>մեռելոց, ծնանելոյ, ընտրելոց, եկելոց, առնելոյ, ասելոյ, գալոյ, երեւելոյ, կառափելոյ, կարգելոց</em>
+* `Ins` (113; 6% of non-empty `Case`): <em>ունելով, առնելով, գոլով, ասելով, բառնալով, թողլով, հայելով, տեսանելով, փորձելով, ախորժելով</em>
+* `Loc` (98; 5% of non-empty `Case`): <em>ելանել, մտանել, կալ, կատարել, հասանել, սերմանել, բազմել, բաժանել, գնալ, ժողովել</em>
+* `Nom` (1346; 70% of non-empty `Case`): <em>եկեալ, առեալ, մատուցեալ, գրեալ, ելեալ, տեսեալ, յարուցեալ, մտեալ, հասեալ, թողեալ</em>
+* `EMPTY` (12687): <em>ասէ, ետ, ասեն, ասեմ, ասեին, եկն, ասաց, գայ, ել, ասէր</em>
 
 <table>
   <tr><th>Paradigm <i>ասել</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th></tr>
   <tr><td><tt><tt><a href="xcl_caval-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="xcl_caval-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="xcl_caval-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td><em>ասացեալ</em></td><td><em>ասացեալ, ասացեալս</em></td><td><em>ասացելոյ</em></td><td><em>ասելոյ</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="xcl_caval-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="xcl_caval-feat-VerbForm.html">VerbForm</a></tt><tt>=Vnoun</tt></tt></td><td></td><td></td><td></td><td><em>ասելոյ</em></td><td><em>ասել</em></td><td><em>ասելով</em></td></tr>
-  <tr><td><tt><tt><a href="xcl_caval-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="xcl_caval-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="xcl_caval-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td><em>ասացեալ, ասացեալս</em></td><td></td><td><em>ասացելոց</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="xcl_caval-feat-VerbForm.html">VerbForm</a></tt><tt>=Vnoun</tt></tt></td><td></td><td></td><td></td><td></td><td></td><td><em>ասելով</em></td></tr>
+  <tr><td><tt><tt><a href="xcl_caval-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="xcl_caval-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td></td><td></td><td></td><td></td><td><em>ասելով</em></td></tr>
+  <tr><td><tt><tt><a href="xcl_caval-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="xcl_caval-feat-VerbForm.html">VerbForm</a></tt><tt>=Vnoun</tt></tt></td><td></td><td></td><td></td><td><em>ասելոյ</em></td><td><em>ասել</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="xcl_caval-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="xcl_caval-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="xcl_caval-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td><em>ասացեալ</em></td><td><em>ասացեալս, ասացեալ</em></td><td></td><td><em>ասացելոց</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="xcl_caval-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td></td><td></td><td></td><td></td><td><em>ասելով</em></td></tr>
+  <tr><td><tt><tt><a href="xcl_caval-feat-VerbForm.html">VerbForm</a></tt><tt>=Vnoun</tt></tt></td><td><em>ասել</em></td><td></td><td></td><td></td><td></td><td></td></tr>
 </table>
 
 ### `NUM`
 
-635 <tt><a href="xcl_caval-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `Case`.
+705 <tt><a href="xcl_caval-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NUM` and `Case` co-occurred: <tt><a href="xcl_caval-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (607; 96%), <tt><a href="xcl_caval-feat-Number.html">Number</a></tt><tt>=Sing</tt> (459; 72%).
+The most frequent other feature values with which `NUM` and `Case` co-occurred: <tt><a href="xcl_caval-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (668; 95%), <tt><a href="xcl_caval-feat-Number.html">Number</a></tt><tt>=Sing</tt> (496; 70%).
 
 `NUM` tokens may have the following values of `Case`:
 
-* `Abl` (25; 4% of non-empty `Case`): <em>երկոտասանից, երկուց, միոջէ, չորից, երից, ինուց, իւթանց, միոյն</em>
-* `Acc` (305; 48% of non-empty `Case`): <em>մի, երկուս, հինգ, հարիւր, երիս, եւթն, երեսուն, երկոտասան, երկոտասանս, վաթսուն</em>
-* `Dat` (11; 2% of non-empty `Case`): <em>միում, երկուց, երկոտասանից, մետասանից, միո</em>
-* `Gen` (43; 7% of non-empty `Case`): <em>միոյ, երկուց, երից, երկոտասանից, միոջ, տասանց, երեսնից, երեցունց, երկոտասանիւք, երկոցունց</em>
-* `Ins` (8; 1% of non-empty `Case`): <em>հազարաւ, միով, երիւք, երկոտասանիւք, տասն, քսան</em>
+* `Abl` (29; 4% of non-empty `Case`): <em>երկոտասանից, երկուց, միոջէ, երկոցունց, չորից, երից, երեցունց, ինուց, իւթանց, միոյն</em>
+* `Acc` (323; 46% of non-empty `Case`): <em>մի, երկուս, հինգ, երիս, հարիւր, եւթն, երեսուն, երկոտասան, երկոտասանս, վաթսուն</em>
+* `Dat` (17; 2% of non-empty `Case`): <em>երկուց, միում, երկոցունց, երկոտասանից, մետասանից, միո, միոջ, չորից</em>
+* `Gen` (52; 7% of non-empty `Case`): <em>միոյ, երկուց, երից, երկոտասանից, երկոցունց, միոջ, չորից, տասանց, բիւրոց, երեսնից</em>
+* `Ins` (13; 2% of non-empty `Case`): <em>բիւրովք, երկոտասանիւք, հազարաւ, միով, չորիւք, երիւք, տասն, քսան</em>
 * `Loc` (14; 2% of non-empty `Case`): <em>միում, երկուս, հազարս, հինգ, մի, չորս</em>
-* `Nom` (229; 36% of non-empty `Case`): <em>մի, երկու, հինգ, վեց, երկոտասան, երկոքին, տասն, երեք, երկուք, հարիւր</em>
+* `Nom` (257; 36% of non-empty `Case`): <em>մի, երկու, հինգ, վեց, երկոտասան, երկուք, երկոքին, հազար, տասն, երեք</em>
 
 <table>
   <tr><th>Paradigm <i>մի</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th><th><tt>Abl</tt></th></tr>
   <tr><td><tt></tt></td><td><em>մի</em></td><td><em>մի</em></td><td></td><td></td><td><em>միում</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="xcl_caval-feat-NumType.html">NumType</a></tt><tt>=Card</tt></tt></td><td><em>մի</em></td><td><em>մի</em></td><td><em>միում, միո</em></td><td><em>միոյ, միոջ, միո</em></td><td><em>միում, մի</em></td><td><em>միով</em></td><td><em>միոջէ, միոյն</em></td></tr>
+  <tr><td><tt><tt><a href="xcl_caval-feat-NumType.html">NumType</a></tt><tt>=Card</tt></tt></td><td><em>մի, մին</em></td><td><em>մի</em></td><td><em>միում, միո, միոջ</em></td><td><em>միոյ, միոջ, միո</em></td><td><em>միում, մի</em></td><td><em>միով</em></td><td><em>միոջէ, միոյն</em></td></tr>
   <tr><td><tt><tt><a href="xcl_caval-feat-NumType.html">NumType</a></tt><tt>=Dist</tt></tt></td><td><em>մի</em></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 </table>
 
 ### `AUX`
 
-46 <tt><a href="xcl_caval-pos-AUX.html">AUX</a></tt> tokens (2% of all `AUX` tokens) have a non-empty value of `Case`.
+83 <tt><a href="xcl_caval-pos-AUX.html">AUX</a></tt> tokens (3% of all `AUX` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `AUX` and `Case` co-occurred: <tt><a href="xcl_caval-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (46; 100%), <tt><a href="xcl_caval-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (46; 100%), <tt><a href="xcl_caval-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (46; 100%), <tt><a href="xcl_caval-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (46; 100%), <tt><a href="xcl_caval-feat-Number.html">Number</a></tt><tt>=Sing</tt> (44; 96%), <tt><a href="xcl_caval-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (36; 78%), <tt><a href="xcl_caval-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (36; 78%).
+The most frequent other feature values with which `AUX` and `Case` co-occurred: <tt><a href="xcl_caval-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (83; 100%), <tt><a href="xcl_caval-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (83; 100%), <tt><a href="xcl_caval-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (83; 100%), <tt><a href="xcl_caval-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (83; 100%), <tt><a href="xcl_caval-feat-Number.html">Number</a></tt><tt>=Sing</tt> (75; 90%), <tt><a href="xcl_caval-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (62; 75%), <tt><a href="xcl_caval-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (60; 72%).
 
 `AUX` tokens may have the following values of `Case`:
 
-* `Abl` (1; 2% of non-empty `Case`): <em>լինելոյ</em>
-* `Acc` (9; 20% of non-empty `Case`): <em>լեալ, լինել, եղեալ, եղեալս</em>
-* `Gen` (6; 13% of non-empty `Case`): <em>լինելոյ, եղելոյ, եղելոց</em>
-* `Loc` (3; 7% of non-empty `Case`): <em>լինել</em>
-* `Nom` (27; 59% of non-empty `Case`): <em>լեալ, եղեալ, լիեալ, տուեալ</em>
-* `EMPTY` (2494): <em>է, էր, եղեւ, իցէ, եին, են, եմ, ես, եղիցի, էք</em>
+* `Abl` (1; 1% of non-empty `Case`): <em>լինելոյ</em>
+* `Acc` (14; 17% of non-empty `Case`): <em>լինել, եղեալ, լեալ, եղեալս, լեալս</em>
+* `Dat` (2; 2% of non-empty `Case`): <em>լինելոյ</em>
+* `Gen` (8; 10% of non-empty `Case`): <em>լինելոյ, եղելոյ, եղելոց</em>
+* `Ins` (2; 2% of non-empty `Case`): <em>լինելով</em>
+* `Loc` (8; 10% of non-empty `Case`): <em>լինել</em>
+* `Nom` (48; 58% of non-empty `Case`): <em>լեալ, եղեալ, լիեալ</em>
+* `EMPTY` (2652): <em>է, էր, եղեւ, իցէ, են, եին, եմ, ես, եղիցի, լինել</em>
 
 <table>
-  <tr><th>Paradigm <i>լինիմ</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Abl</tt></th></tr>
-  <tr><td><tt><tt><a href="xcl_caval-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="xcl_caval-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="xcl_caval-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td><em>լեալ, եղեալ, լիեալ</em></td><td><em>լեալ, եղեալ</em></td><td><em>եղելոյ</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="xcl_caval-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="xcl_caval-feat-VerbForm.html">VerbForm</a></tt><tt>=Vnoun</tt></tt></td><td></td><td><em>լինել</em></td><td><em>լինելոյ</em></td><td><em>լինել</em></td><td><em>լինելոյ</em></td></tr>
-  <tr><td><tt><tt><a href="xcl_caval-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="xcl_caval-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="xcl_caval-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td><em>եղեալս</em></td><td><em>եղելոց</em></td><td></td><td></td></tr>
+  <tr><th>Paradigm <i>լինել</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th><th><tt>Abl</tt></th></tr>
+  <tr><td><tt><tt><a href="xcl_caval-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="xcl_caval-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="xcl_caval-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td><em>լեալ, եղեալ, լիեալ</em></td><td><em>եղեալ, լեալ, լեալս</em></td><td></td><td><em>եղելոյ, լինելոյ</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="xcl_caval-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="xcl_caval-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td></td><td></td><td></td><td></td><td><em>լինելով</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="xcl_caval-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="xcl_caval-feat-VerbForm.html">VerbForm</a></tt><tt>=Vnoun</tt></tt></td><td></td><td><em>լինել</em></td><td><em>լինելոյ</em></td><td><em>լինելոյ</em></td><td><em>լինել</em></td><td></td><td><em>լինելոյ</em></td></tr>
+  <tr><td><tt><tt><a href="xcl_caval-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="xcl_caval-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="xcl_caval-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td><em>եղեալս</em></td><td></td><td><em>եղելոց</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="xcl_caval-feat-VerbForm.html">VerbForm</a></tt><tt>=Vnoun</tt></tt></td><td></td><td><em>լինել</em></td><td></td><td></td><td><em>լինել</em></td><td></td><td></td></tr>
 </table>
 
 ## Relations with Agreement in `Case`
 
 The 10 most frequent relations where parent and child node agree in `Case`:
-<tt>NOUN --[<tt><a href="xcl_caval-dep-conj.html">conj</a></tt>]--> NOUN</tt> (633; 94%),
-<tt>NOUN --[<tt><a href="xcl_caval-dep-amod.html">amod</a></tt>]--> ADJ</tt> (567; 81%),
-<tt>NOUN --[<tt><a href="xcl_caval-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (247; 87%),
-<tt>NOUN --[<tt><a href="xcl_caval-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (156; 64%),
-<tt>PROPN --[<tt><a href="xcl_caval-dep-conj.html">conj</a></tt>]--> PROPN</tt> (136; 94%),
-<tt>ADJ --[<tt><a href="xcl_caval-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (131; 95%),
-<tt>ADJ --[<tt><a href="xcl_caval-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (127; 98%),
-<tt>ADJ --[<tt><a href="xcl_caval-dep-conj.html">conj</a></tt>]--> ADJ</tt> (122; 88%),
-<tt>PROPN --[<tt><a href="xcl_caval-dep-appos.html">appos</a></tt>]--> NOUN</tt> (120; 98%),
-<tt>NOUN --[<tt><a href="xcl_caval-dep-conj.html">conj</a></tt>]--> ADJ</tt> (59; 86%).
+<tt>NOUN --[<tt><a href="xcl_caval-dep-conj.html">conj</a></tt>]--> NOUN</tt> (797; 94%),
+<tt>NOUN --[<tt><a href="xcl_caval-dep-amod.html">amod</a></tt>]--> ADJ</tt> (768; 78%),
+<tt>NOUN --[<tt><a href="xcl_caval-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (263; 87%),
+<tt>ADJ --[<tt><a href="xcl_caval-dep-conj.html">conj</a></tt>]--> ADJ</tt> (194; 89%),
+<tt>NOUN --[<tt><a href="xcl_caval-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (184; 64%),
+<tt>PROPN --[<tt><a href="xcl_caval-dep-conj.html">conj</a></tt>]--> PROPN</tt> (168; 93%),
+<tt>ADJ --[<tt><a href="xcl_caval-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (146; 94%),
+<tt>ADJ --[<tt><a href="xcl_caval-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (141; 98%),
+<tt>PROPN --[<tt><a href="xcl_caval-dep-appos.html">appos</a></tt>]--> NOUN</tt> (141; 97%),
+<tt>NOUN --[<tt><a href="xcl_caval-dep-conj.html">conj</a></tt>]--> ADJ</tt> (75; 87%).
 

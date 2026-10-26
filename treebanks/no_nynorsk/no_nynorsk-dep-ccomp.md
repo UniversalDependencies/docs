@@ -46,7 +46,7 @@ The following 24 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 2	du	du	PRON	pron	Animacy=Hum|Case=Nom|Person=2|PronType=Prs	1	nsubj	_	_
 3	eg	eg	PRON	pron	Animacy=Hum|Case=Nom|Person=1|PronType=Prs	5	nsubj	_	_
 4	er	vere	AUX	verb	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	_
-5	naiv	naiv	ADJ	adj	Definite=Ind|Degree=Pos|Gender=Fem,Masc	1	ccomp	_	SpaceAfter=No
+5	naiv	naiv	ADJ	adj	Definite=Ind|Degree=Pos|Gender=Com	1	ccomp	_	SpaceAfter=No
 6	?	$?	PUNCT	clb	_	1	punct	_	_
 
 ~~~
@@ -65,7 +65,7 @@ The following 24 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 5	at	at	SCONJ	sbu	_	9	mark	_	_
 6	det	det	PRON	pron	Gender=Neut|Person=3|PronType=Prs	9	nsubj	_	_
 7	er	vere	AUX	verb	Mood=Ind|Tense=Pres|VerbForm=Fin	9	cop	_	_
-8	oppgjeven	oppgjeven	ADJ	adj	Definite=Ind|Degree=Pos|Gender=Fem,Masc	9	amod	_	_
+8	oppgjeven	oppgjeven	ADJ	adj	Definite=Ind|Degree=Pos|Gender=Com	9	amod	_	_
 9	inntekt	inntekt	NOUN	subst	Definite=Ind|Gender=Fem	3	ccomp	_	SpaceAfter=No
 10	.	$.	PUNCT	clb	_	3	punct	_	_
 

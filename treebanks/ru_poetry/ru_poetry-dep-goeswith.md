@@ -27,7 +27,7 @@ The following 1 pairs of parts of speech are connected with `goeswith`: <tt><a h
 3	,	,	PUNCT	_	_	1	punct	_	_
 4	признаете	признавать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 5	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	4	nsubj	_	_
-6	также	также	ADV	_	Degree=Pos	4	advmod	_	before=<rhyme-zone/>|after=<br/>
+6	также	также	ADV	_	Degree=Pos|PronType=Dem	4	advmod	_	pos="ADVPRO"|before=<rhyme-zone/>|after=<br/>
 7	Что	что	SCONJ	_	_	8	mark	_	before=<line_meter="Я4м"/>
 8	надо	надо	VERB	_	_	4	ccomp	_	_
 9	славить	славить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	8	csubj	_	_
@@ -43,7 +43,7 @@ The following 1 pairs of parts of speech are connected with `goeswith`: <tt><a h
 19	Раджей	раджа	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	17	obl	_	before=<rhyme-zone/>|after=<br/>
 20	Вковавшим	вковать	VERB	_	Aspect=Perf|Case=Ins|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	19	acl	_	before=<line_meter="Я5м"/>
 21	в	в	ADP	_	_	22	case	_	_
-22	век	век	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	20	obl	_	_
+22	век	век	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	20	obl:tmod	_	_
 23	живую	живой	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	24	amod	_	_
 24	красоту	красота	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	20	obj	_	before=<rhyme-zone/>|SpaceAfter=No
 25	.	.	PUNCT	_	_	4	punct	_	</se></p><p_class="date"><noindex>&lt;1919&gt;</noindex></p>

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-820 nodes (14%) are attached to their parents as `punct`.
+860 nodes (15%) are attached to their parents as `punct`.
 
-628 instances of `punct` (77%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.15243902439024.
+649 instances of `punct` (75%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.03139534883721.
 
-The following 13 pairs of parts of speech are connected with `punct`: <tt><a href="uz_ut-pos-VERB.html">VERB</a></tt>-<tt><a href="uz_ut-pos-PUNCT.html">PUNCT</a></tt> (495; 60% instances), <tt><a href="uz_ut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uz_ut-pos-PUNCT.html">PUNCT</a></tt> (159; 19% instances), <tt><a href="uz_ut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uz_ut-pos-PUNCT.html">PUNCT</a></tt> (54; 7% instances), <tt><a href="uz_ut-pos-NUM.html">NUM</a></tt>-<tt><a href="uz_ut-pos-PUNCT.html">PUNCT</a></tt> (31; 4% instances), <tt><a href="uz_ut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="uz_ut-pos-PUNCT.html">PUNCT</a></tt> (30; 4% instances), <tt><a href="uz_ut-pos-ADV.html">ADV</a></tt>-<tt><a href="uz_ut-pos-PUNCT.html">PUNCT</a></tt> (22; 3% instances), <tt><a href="uz_ut-pos-INTJ.html">INTJ</a></tt>-<tt><a href="uz_ut-pos-PUNCT.html">PUNCT</a></tt> (7; 1% instances), <tt><a href="uz_ut-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="uz_ut-pos-PUNCT.html">PUNCT</a></tt> (6; 1% instances), <tt><a href="uz_ut-pos-PART.html">PART</a></tt>-<tt><a href="uz_ut-pos-PUNCT.html">PUNCT</a></tt> (5; 1% instances), <tt><a href="uz_ut-pos-PRON.html">PRON</a></tt>-<tt><a href="uz_ut-pos-PUNCT.html">PUNCT</a></tt> (5; 1% instances), <tt><a href="uz_ut-pos-AUX.html">AUX</a></tt>-<tt><a href="uz_ut-pos-PUNCT.html">PUNCT</a></tt> (3; 0% instances), <tt><a href="uz_ut-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="uz_ut-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="uz_ut-pos-ADP.html">ADP</a></tt>-<tt><a href="uz_ut-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
+The following 13 pairs of parts of speech are connected with `punct`: <tt><a href="uz_ut-pos-VERB.html">VERB</a></tt>-<tt><a href="uz_ut-pos-PUNCT.html">PUNCT</a></tt> (513; 60% instances), <tt><a href="uz_ut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uz_ut-pos-PUNCT.html">PUNCT</a></tt> (153; 18% instances), <tt><a href="uz_ut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uz_ut-pos-PUNCT.html">PUNCT</a></tt> (77; 9% instances), <tt><a href="uz_ut-pos-NUM.html">NUM</a></tt>-<tt><a href="uz_ut-pos-PUNCT.html">PUNCT</a></tt> (33; 4% instances), <tt><a href="uz_ut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="uz_ut-pos-PUNCT.html">PUNCT</a></tt> (31; 4% instances), <tt><a href="uz_ut-pos-ADV.html">ADV</a></tt>-<tt><a href="uz_ut-pos-PUNCT.html">PUNCT</a></tt> (22; 3% instances), <tt><a href="uz_ut-pos-PART.html">PART</a></tt>-<tt><a href="uz_ut-pos-PUNCT.html">PUNCT</a></tt> (8; 1% instances), <tt><a href="uz_ut-pos-INTJ.html">INTJ</a></tt>-<tt><a href="uz_ut-pos-PUNCT.html">PUNCT</a></tt> (7; 1% instances), <tt><a href="uz_ut-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="uz_ut-pos-PUNCT.html">PUNCT</a></tt> (6; 1% instances), <tt><a href="uz_ut-pos-PRON.html">PRON</a></tt>-<tt><a href="uz_ut-pos-PUNCT.html">PUNCT</a></tt> (5; 1% instances), <tt><a href="uz_ut-pos-AUX.html">AUX</a></tt>-<tt><a href="uz_ut-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="uz_ut-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="uz_ut-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="uz_ut-pos-ADP.html">ADP</a></tt>-<tt><a href="uz_ut-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -35,17 +35,19 @@ The following 13 pairs of parts of speech are connected with `punct`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 6 punct	color:blue
-1	Video	video	NOUN	_	Case=Nom|Number=Sing	4	nsubj	_	_
-2	mashina	mashina	NOUN	_	Case=Nom|Number=Sing|Poss=Yes	3	nmod	_	_
-3	oynasidan	oyna	NOUN	_	Case=Abl|Number=Sing	4	obl	_	_
-4	telefonga	telefon	NOUN	_	Case=Dat|Number=Sing	0	root	_	_
-5	olingan	ol	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Pass	4	compound	_	SpaceAfter=No
-6	.	.	PUNCT	_	_	4	punct	_	_
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 8 punct	color:blue
+1	Inson	inson	NOUN	_	Case=Nom|Number=Sing|Poss=Yes	2	nmod	_	_
+2	hayotiga	hayot	NOUN	_	Case=Dat|Number=Sing	3	obj	_	_
+3	suiqasd	suiqasd	NOUN	_	Case=Nom|Number=Sing	7	csubj	_	_
+4	qilish	qil	VERB	_	VerbForm=Vnoun	3	compound	_	_
+5	eng	eng	ADV	_	_	6	advmod	_	_
+6	ogʻir	ogʻir	ADJ	_	_	7	amod	_	_
+7	jinoyatdir	jinoyat	NOUN	_	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	7	punct	_	_
 
 ~~~
 
@@ -61,7 +63,7 @@ The following 13 pairs of parts of speech are connected with `punct`: <tt><a hre
 3	insoniy	insoniy	ADJ	_	_	4	amod	_	_
 4	munosabatlardan	munosabat	NOUN	_	Case=Abl|Number=Plur	5	obl	_	_
 5	ustun	ustun	ADJ	_	_	0	root	_	_
-6	bo'lsa	bo'l	AUX	_	Person=3	5	aux	_	SpaceAfter=No
+6	boʻlsa	boʻl	AUX	_	Person=3	5	aux	_	SpaceAfter=No
 7	?	?	PUNCT	_	_	5	punct	_	_
 
 ~~~

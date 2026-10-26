@@ -54,11 +54,11 @@ The following 6 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 6 10 cop	color:blue
 1	እኔ	እኔ	PRON	PRON	Number=Sing|Person=1|PronType=Prs	7	nsubj	_	LTranslit='əne|Translit='əne
 2	እኮ	እኮ	INTJ	INTJ	_	7	discourse	_	Translit='əko|LTranslit='əko
-3	ይህ	ይህ	DET	DET	_	4	det	_	Translit=jəhə|LTranslit=jəhə
+3	ይህ	ይህ	DET	DET	PronType=Dem	4	det	_	Translit=jəhə|LTranslit=jəhə
 4	ፈረስ	ፈረስ	NOUN	NOUN	_	6	nsubj	_	Translit=färäsə|LTranslit=färäsə
-5	የ	የ	ADP	ADP	_	6	case	_	Translit=jä|LTranslit=jä
-6	ኣንተ	ኣንተ	PRON	PRON	_	7	ccomp	_	Translit='anətä|LTranslit='anətä
-7	መስል	መስል	VERB	VERB	VerbForm=Vnoun	0	root	_	Translit=mäsələ|LTranslit=mäsələ
+5	የ	የ	ADP	ADP	_	6	case	_	LTranslit=jä|Translit=jä
+6	ኣንተ	ኣንተ	PRON	PRON	PronType=Prs	7	ccomp	_	LTranslit='anətä|Translit='anətä
+7	መስል	መስል	VERB	VERB	VerbForm=Vnoun	0	root	_	LTranslit=mäsələ|Translit=mäsələ
 8	ኦ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	expl	_	LTranslit='əsu|Translit='o
 9	ኝ	እኔ	PRON	OBJC	Number=Sing|Person=1|PronType=Prs	7	expl	_	LTranslit='əne|Translit=ňə
 10	ነበር	ን	AUX	AUX	_	6	cop	_	LTranslit=nə|Translit=näbärə

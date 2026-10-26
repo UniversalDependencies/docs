@@ -6,21 +6,21 @@ udver: '2'
 
 ## Treebank Statistics: UD_Chinese-GSD: POS Tags: `AUX`
 
-There are 29 `AUX` lemmas (0%), 67 `AUX` types (0%) and 3892 `AUX` tokens (3%).
+There are 29 `AUX` lemmas (0%), 66 `AUX` types (0%) and 3893 `AUX` tokens (3%).
 Out of 16 observed tags, the rank of `AUX` is: 15 in number of lemmas, 11 in number of types and 9 in number of tokens.
 
 The 10 most frequent `AUX` lemmas: 是、 了、 為、 被、 會、 可以、 著、 可、 能、 要
 
 The 10 most frequent `AUX` types:  是、 了、 為、 被、 會、 可以、 著、 可、 也是、 能
 
-The 10 most frequent ambiguous lemmas: 是 (<tt><a href="zh_gsd-pos-AUX.html">AUX</a></tt> 1062, <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> 384), 了 (<tt><a href="zh_gsd-pos-AUX.html">AUX</a></tt> 764, <tt><a href="zh_gsd-pos-PART.html">PART</a></tt> 44, <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> 2), 為 (<tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> 609, <tt><a href="zh_gsd-pos-AUX.html">AUX</a></tt> 581, <tt><a href="zh_gsd-pos-ADP.html">ADP</a></tt> 131, <tt><a href="zh_gsd-pos-PROPN.html">PROPN</a></tt> 1), 會 (<tt><a href="zh_gsd-pos-AUX.html">AUX</a></tt> 224, <tt><a href="zh_gsd-pos-PART.html">PART</a></tt> 137, <tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt> 3), 著 (<tt><a href="zh_gsd-pos-AUX.html">AUX</a></tt> 131, <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> 2), 可 (<tt><a href="zh_gsd-pos-AUX.html">AUX</a></tt> 114, <tt><a href="zh_gsd-pos-SCONJ.html">SCONJ</a></tt> 1), 能 (<tt><a href="zh_gsd-pos-AUX.html">AUX</a></tt> 104, <tt><a href="zh_gsd-pos-PART.html">PART</a></tt> 8), 要 (<tt><a href="zh_gsd-pos-AUX.html">AUX</a></tt> 68, <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> 7), 可能 (<tt><a href="zh_gsd-pos-AUX.html">AUX</a></tt> 60, <tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt> 9), 過 (<tt><a href="zh_gsd-pos-AUX.html">AUX</a></tt> 60, <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> 7, <tt><a href="zh_gsd-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="zh_gsd-pos-ADJ.html">ADJ</a></tt> 1)
+The 10 most frequent ambiguous lemmas: 是 (<tt><a href="zh_gsd-pos-AUX.html">AUX</a></tt> 1064, <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> 382), 了 (<tt><a href="zh_gsd-pos-AUX.html">AUX</a></tt> 764, <tt><a href="zh_gsd-pos-PART.html">PART</a></tt> 44, <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> 2), 為 (<tt><a href="zh_gsd-pos-AUX.html">AUX</a></tt> 580, <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> 524, <tt><a href="zh_gsd-pos-ADP.html">ADP</a></tt> 131, <tt><a href="zh_gsd-pos-PROPN.html">PROPN</a></tt> 1), 會 (<tt><a href="zh_gsd-pos-AUX.html">AUX</a></tt> 224, <tt><a href="zh_gsd-pos-PART.html">PART</a></tt> 137, <tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt> 3), 著 (<tt><a href="zh_gsd-pos-AUX.html">AUX</a></tt> 131, <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> 2), 可 (<tt><a href="zh_gsd-pos-AUX.html">AUX</a></tt> 114, <tt><a href="zh_gsd-pos-SCONJ.html">SCONJ</a></tt> 1), 能 (<tt><a href="zh_gsd-pos-AUX.html">AUX</a></tt> 104, <tt><a href="zh_gsd-pos-PART.html">PART</a></tt> 8), 要 (<tt><a href="zh_gsd-pos-AUX.html">AUX</a></tt> 68, <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> 7), 可能 (<tt><a href="zh_gsd-pos-AUX.html">AUX</a></tt> 60, <tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt> 9), 過 (<tt><a href="zh_gsd-pos-AUX.html">AUX</a></tt> 60, <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> 7, <tt><a href="zh_gsd-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="zh_gsd-pos-ADJ.html">ADJ</a></tt> 1)
 
-The 10 most frequent ambiguous types:  是 (<tt><a href="zh_gsd-pos-AUX.html">AUX</a></tt> 884, <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> 322), 了 (<tt><a href="zh_gsd-pos-AUX.html">AUX</a></tt> 764, <tt><a href="zh_gsd-pos-PART.html">PART</a></tt> 44, <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> 2), 為 (<tt><a href="zh_gsd-pos-AUX.html">AUX</a></tt> 566, <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> 495, <tt><a href="zh_gsd-pos-ADP.html">ADP</a></tt> 131, <tt><a href="zh_gsd-pos-PROPN.html">PROPN</a></tt> 1), 會 (<tt><a href="zh_gsd-pos-AUX.html">AUX</a></tt> 200, <tt><a href="zh_gsd-pos-PART.html">PART</a></tt> 137, <tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt> 3), 著 (<tt><a href="zh_gsd-pos-AUX.html">AUX</a></tt> 131, <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> 2), 可 (<tt><a href="zh_gsd-pos-AUX.html">AUX</a></tt> 106, <tt><a href="zh_gsd-pos-SCONJ.html">SCONJ</a></tt> 1), 也是 (<tt><a href="zh_gsd-pos-AUX.html">AUX</a></tt> 76, <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> 5, <tt><a href="zh_gsd-pos-SCONJ.html">SCONJ</a></tt> 3), 能 (<tt><a href="zh_gsd-pos-AUX.html">AUX</a></tt> 72, <tt><a href="zh_gsd-pos-PART.html">PART</a></tt> 8), 要 (<tt><a href="zh_gsd-pos-AUX.html">AUX</a></tt> 67, <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> 7), 可能 (<tt><a href="zh_gsd-pos-AUX.html">AUX</a></tt> 60, <tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt> 9)
+The 10 most frequent ambiguous types:  是 (<tt><a href="zh_gsd-pos-AUX.html">AUX</a></tt> 885, <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> 321), 了 (<tt><a href="zh_gsd-pos-AUX.html">AUX</a></tt> 764, <tt><a href="zh_gsd-pos-PART.html">PART</a></tt> 44, <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> 2), 為 (<tt><a href="zh_gsd-pos-AUX.html">AUX</a></tt> 566, <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> 495, <tt><a href="zh_gsd-pos-ADP.html">ADP</a></tt> 131, <tt><a href="zh_gsd-pos-PROPN.html">PROPN</a></tt> 1), 會 (<tt><a href="zh_gsd-pos-AUX.html">AUX</a></tt> 200, <tt><a href="zh_gsd-pos-PART.html">PART</a></tt> 137, <tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt> 3), 著 (<tt><a href="zh_gsd-pos-AUX.html">AUX</a></tt> 131, <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> 2), 可 (<tt><a href="zh_gsd-pos-AUX.html">AUX</a></tt> 106, <tt><a href="zh_gsd-pos-SCONJ.html">SCONJ</a></tt> 1), 也是 (<tt><a href="zh_gsd-pos-AUX.html">AUX</a></tt> 76, <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> 5, <tt><a href="zh_gsd-pos-SCONJ.html">SCONJ</a></tt> 3), 能 (<tt><a href="zh_gsd-pos-AUX.html">AUX</a></tt> 72, <tt><a href="zh_gsd-pos-PART.html">PART</a></tt> 8), 要 (<tt><a href="zh_gsd-pos-AUX.html">AUX</a></tt> 67, <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> 7), 可能 (<tt><a href="zh_gsd-pos-AUX.html">AUX</a></tt> 60, <tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt> 9)
 
 
 * 是
-  * <tt><a href="zh_gsd-pos-AUX.html">AUX</a></tt> 884: 動作 冒險 遊戲 （ A-AVG ） ： <b>是</b> 冒險 遊戲 的 分支 ， 它 融合 了 動作 遊戲 的 一些 特徵 。
-  * <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> 322: 史萊姆 <b>是</b> 由 鳥山 明 為 《 勇者 斗 惡龍 》 設計 的 ， 並 成 為 了 系列 官方 的 吉祥 物 。
+  * <tt><a href="zh_gsd-pos-AUX.html">AUX</a></tt> 885: 動作 冒險 遊戲 （ A-AVG ） ： <b>是</b> 冒險 遊戲 的 分支 ， 它 融合 了 動作 遊戲 的 一些 特徵 。
+  * <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> 321: 史萊姆 <b>是</b> 由 鳥山 明 為 《 勇者 斗 惡龍 》 設計 的 ， 並 成 為 了 系列 官方 的 吉祥 物 。
 * 了
   * <tt><a href="zh_gsd-pos-AUX.html">AUX</a></tt> 764: 動作 冒險 遊戲 （ A-AVG ） ： 是 冒險 遊戲 的 分支 ， 它 融合 <b>了</b> 動作 遊戲 的 一些 特徵 。
   * <tt><a href="zh_gsd-pos-PART.html">PART</a></tt> 44: 但是 迪士尼 的 公主 們 不會 都 太 侷限 於 一 個 範圍 之內 <b>了</b> 嗎 ？
@@ -56,11 +56,11 @@ The 10 most frequent ambiguous types:  是 (<tt><a href="zh_gsd-pos-AUX.html">AU
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 2.310345 (the average of all parts of speech is 1.004819).
+The form / lemma ratio of `AUX` is 2.275862 (the average of all parts of speech is 1.004732).
 
 The 1st highest number of forms (21) was observed with the lemma “是”: 不是, 且是, 也是, 亦是, 仍是, 便是, 則是, 卻是, 又是, 只是, 就是, 或是, 才是, 是, 是否, 是否是, 更是, 正是, 而是, 還是, 都是.
 
-The 2nd highest number of forms (8) was observed with the lemma “為”: 亦為, 以為, 以爲, 則為, 更為, 為, 爲, 認為.
+The 2nd highest number of forms (7) was observed with the lemma “為”: 亦為, 以為, 以爲, 則為, 更為, 為, 爲.
 
 The 3rd highest number of forms (4) was observed with the lemma “能”: 不能, 未能, 沒能, 能.
 
@@ -69,17 +69,17 @@ The 3rd highest number of forms (4) was observed with the lemma “能”: 不�
 `AUX` occurs with 4 feature-value pairs: `Aspect=Perf`, `Aspect=Prog`, `Polarity=Neg`, `Voice=Pass`
 
 `AUX` occurs with 5 feature combinations.
-The most frequent feature combination is `_` (2400 tokens).
+The most frequent feature combination is `_` (2401 tokens).
 Examples: 是、 為、 會、 可以、 可、 也是、 能、 要、 可能、 就是
 
 
 ## Relations
 
-`AUX` nodes are attached to their parents using 8 different relations: <tt><a href="zh_gsd-dep-aux.html">aux</a></tt> (1827; 47% instances), <tt><a href="zh_gsd-dep-cop.html">cop</a></tt> (1630; 42% instances), <tt><a href="zh_gsd-dep-aux-pass.html">aux:pass</a></tt> (425; 11% instances), <tt><a href="zh_gsd-dep-conj.html">conj</a></tt> (3; 0% instances), <tt><a href="zh_gsd-dep-xcomp.html">xcomp</a></tt> (3; 0% instances), <tt><a href="zh_gsd-dep-ccomp.html">ccomp</a></tt> (2; 0% instances), <tt><a href="zh_gsd-dep-acl-relcl.html">acl:relcl</a></tt> (1; 0% instances), <tt><a href="zh_gsd-dep-root.html">root</a></tt> (1; 0% instances)
+`AUX` nodes are attached to their parents using 8 different relations: <tt><a href="zh_gsd-dep-aux.html">aux</a></tt> (1828; 47% instances), <tt><a href="zh_gsd-dep-cop.html">cop</a></tt> (1630; 42% instances), <tt><a href="zh_gsd-dep-aux-pass.html">aux:pass</a></tt> (425; 11% instances), <tt><a href="zh_gsd-dep-conj.html">conj</a></tt> (3; 0% instances), <tt><a href="zh_gsd-dep-xcomp.html">xcomp</a></tt> (3; 0% instances), <tt><a href="zh_gsd-dep-ccomp.html">ccomp</a></tt> (2; 0% instances), <tt><a href="zh_gsd-dep-acl-relcl.html">acl:relcl</a></tt> (1; 0% instances), <tt><a href="zh_gsd-dep-root.html">root</a></tt> (1; 0% instances)
 
-Parents of `AUX` nodes belong to 11 different parts of speech: <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> (2226; 57% instances), <tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt> (1164; 30% instances), <tt><a href="zh_gsd-pos-PART.html">PART</a></tt> (247; 6% instances), <tt><a href="zh_gsd-pos-NUM.html">NUM</a></tt> (93; 2% instances), <tt><a href="zh_gsd-pos-ADJ.html">ADJ</a></tt> (87; 2% instances), <tt><a href="zh_gsd-pos-PROPN.html">PROPN</a></tt> (51; 1% instances), <tt><a href="zh_gsd-pos-X.html">X</a></tt> (17; 0% instances), <tt><a href="zh_gsd-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="zh_gsd-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="zh_gsd-pos-PRON.html">PRON</a></tt> (1; 0% instances),  (1; 0% instances)
+Parents of `AUX` nodes belong to 11 different parts of speech: <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> (2228; 57% instances), <tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt> (1165; 30% instances), <tt><a href="zh_gsd-pos-PART.html">PART</a></tt> (247; 6% instances), <tt><a href="zh_gsd-pos-NUM.html">NUM</a></tt> (93; 2% instances), <tt><a href="zh_gsd-pos-ADJ.html">ADJ</a></tt> (85; 2% instances), <tt><a href="zh_gsd-pos-PROPN.html">PROPN</a></tt> (51; 1% instances), <tt><a href="zh_gsd-pos-X.html">X</a></tt> (17; 0% instances), <tt><a href="zh_gsd-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="zh_gsd-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="zh_gsd-pos-PRON.html">PRON</a></tt> (1; 0% instances),  (1; 0% instances)
 
-3876 (100%) `AUX` nodes are leaves.
+3877 (100%) `AUX` nodes are leaves.
 
 11 (0%) `AUX` nodes have one child.
 

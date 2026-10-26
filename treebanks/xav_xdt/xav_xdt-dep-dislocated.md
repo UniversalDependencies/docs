@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-32 nodes (2%) are attached to their parents as `dislocated`.
+34 nodes (2%) are attached to their parents as `dislocated`.
 
-22 instances of `dislocated` (69%) are right-to-left (child precedes parent).
-Average distance between parent and child is 6.
+24 instances of `dislocated` (71%) are right-to-left (child precedes parent).
+Average distance between parent and child is 6.17647058823529.
 
-The following 7 pairs of parts of speech are connected with `dislocated`: <tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt>-<tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt> (16; 50% instances), <tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt>-<tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> (5; 16% instances), <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt> (3; 9% instances), <tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt>-<tt><a href="xav_xdt-pos-AUX.html">AUX</a></tt> (3; 9% instances), <tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt>-<tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> (3; 9% instances), <tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt>-<tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt> (1; 3% instances), <tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt>-<tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt> (1; 3% instances).
+The following 7 pairs of parts of speech are connected with `dislocated`: <tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt>-<tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt> (18; 53% instances), <tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt>-<tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> (5; 15% instances), <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt> (3; 9% instances), <tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt>-<tt><a href="xav_xdt-pos-AUX.html">AUX</a></tt> (3; 9% instances), <tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt>-<tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> (3; 9% instances), <tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt>-<tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt> (1; 3% instances), <tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt>-<tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt> (1; 3% instances).
 
 
 ~~~ conllu
@@ -23,7 +23,7 @@ The following 7 pairs of parts of speech are connected with `dislocated`: <tt><a
 # visual-style 3	fgColor:white
 # visual-style 3 7 dislocated	color:blue
 1	'Watébrémi	'watébrémi	NOUN	n	_	3	nsubj	_	boy;menino
-2	te	te	PART	prcl	Htp=Yes|Tense=Pres	3	dep	_	heterophoric.marker;marcardor.heterofórico
+2	te	te	AUX	aux	Person=Non1	3	dep	_	_
 3	mo	mo	VERB	v	_	0	root	_	go;ir
 4	'ri	'ri	NOUN	n	_	3	obl	_	house;casa
 5	tẽme	tẽme	ADP	posp	_	4	case	_	to;para,até
@@ -41,16 +41,16 @@ The following 7 pairs of parts of speech are connected with `dislocated`: <tt><a
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 1 dislocated	color:blue
-1	Apötsi	apötsi	ADV	adv	_	8	dislocated	_	later,after,then;mais.tarde,depois,em.seguida
+1	Apösi	apösi	ADV	adv	_	8	dislocated	_	later,after,then;mais.tarde,depois,em.seguida
 2	,	,	PUNCT	punct	_	8	punct	_	_
 3	'watébrémi	'watébrémi	NOUN	n	_	8	nsubj	_	boy;menino
-4	te	te	PART	prcl	Htp=Yes|Tense=Pres	8	dep	_	heterophoric.marker;marcardor.heterofórico
+4	te	te	AUX	aux	Person=Non1	8	dep	_	_
 5	marĩ	marĩ	NOUN	n	_	8	obj	_	something,what;algo,o.que,alguma.coisa
 6	aibö	aibö	NOUN	n	_	8	iobj	_	man;homem
 7	wi	wi	ADP	posp	_	8	obl	_	far.from;longe.de
 8	waptẽ	waptẽrẽ	VERB	v	_	0	root	_	ask,request;pedir,solicitar
 9	,	,	PUNCT	punct	_	8	punct	_	_
-10	tsa	tsa	NOUN	n	_	8	advcl	_	food;comida,alimento
+10	sa	sa	NOUN	n	_	8	advcl	_	food;comida,alimento
 11	da	da	ADP	posp	_	10	mark	_	for,in.order.to,so.that;para,afim.de,para.que
 12	.	.	PUNCT	punct	_	8	punct	_	_
 
@@ -71,7 +71,7 @@ The following 7 pairs of parts of speech are connected with `dislocated`: <tt><a
 6	ĩpire	pire	NOUN	n	Person=3	0	root	_	heavy,important;pesado,importante
 7	di	di	X	x	_	6	dep	_	expletive;expletivo
 8	,	,	PUNCT	punct	_	6	punct	_	_
-9	datsa	tsa	NOUN	n	PronType=Gnc	6	advcl	_	food;comida,alimento
+9	dasa	sa	NOUN	n	PronType=Gnc	6	advcl	_	food;comida,alimento
 10	da	da	ADP	posp	_	9	mark	_	for,in.order.to,so.that;para,afim.de,para.que
 11	hã	hã	DET	det	_	9	det	_	_
 12	.	.	PUNCT	punct	_	9	punct	_	_

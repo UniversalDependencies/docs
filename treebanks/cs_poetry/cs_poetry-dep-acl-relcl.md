@@ -94,7 +94,7 @@ The following 10 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 27	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	29	case	_	_
 28	nové	nový	ADJ	AAFS6----1A----	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	29	amod	_	_
 29	odnože	odnož	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing	26	obl	_	_
-30	můj	můj	DET	PSIS4-S1-------	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	32	obl	_	_
+30	můj	můj	DET	PSIS4-S1-------	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	32	det	_	_
 31	hnáti	hnát	VERB	Vf--------A---2	Aspect=Imp|Polarity=Pos|VerbForm=Inf	26	xcomp	_	_
 32	kořen	kořen	NOUN	NNIS4-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	26	nsubj	_	SpaceAfter=No
 33	!	!	PUNCT	Z:-------------	_	2	punct	_	SpaceAfter=No

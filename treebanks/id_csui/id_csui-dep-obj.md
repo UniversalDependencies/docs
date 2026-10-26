@@ -24,7 +24,7 @@ The following 13 pairs of parts of speech are connected with `obj`: <tt><a href=
 # visual-style 3 4 obj	color:blue
 1	Kera	kera	NOUN	NN	Number=Sing	0	root	_	_
 2	untuk	untuk	SCONJ	IN	_	3	mark	_	_
-3	amankan	aman	VERB	VB	Mood=Ind|Voice=Act	1	acl	_	_
+3	amankan	aman	VERB	VB	Voice=Act	1	acl	_	_
 4	pesta	pesta	NOUN	NN	Number=Sing	3	obj	_	_
 5	olahraga	olahraga	NOUN	NN	Number=Sing	4	nmod	_	_
 
@@ -37,7 +37,7 @@ The following 13 pairs of parts of speech are connected with `obj`: <tt><a href=
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 obj	color:blue
-1	Membaca	baca	VERB	VB	Mood=Ind|Voice=Act	0	root	_	_
+1	Membaca	baca	VERB	VB	Voice=Act	0	root	_	_
 2	Don	Don	PROPN	NNP	_	1	obj	_	_
 3	Quixote	Quixote	PROPN	NNP	_	2	flat:name	_	_
 4	untuk	untuk	ADP	IN	_	5	case	_	_
@@ -55,7 +55,7 @@ The following 13 pairs of parts of speech are connected with `obj`: <tt><a href=
 1	Banyak	banyak	DET	DT	Number=Plur|PronType=Ind	2	det	_	_
 2	olahragawan	olahragawan	NOUN	NN	Number=Sing	4	nsubj	_	_
 3	terkenal	kenal	ADJ	JJ	_	2	amod	_	_
-4	melakukan	laku	VERB	VB	Mood=Ind|Voice=Act	0	root	_	_
+4	melakukan	laku	VERB	VB	Voice=Act	0	root	_	_
 5	nya	nya	PRON	PRP	Number=Sing|Person=3|PronType=Prs	4	obj	_	_
 6	.	.	PUNCT	.	_	4	punct	_	_
 

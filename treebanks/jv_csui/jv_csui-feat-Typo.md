@@ -11,7 +11,7 @@ It occurs with 1 different values: `Yes`.
 
 3 tokens (0%) have a non-empty value of `Typo`.
 3 types (0%) occur at least once with a non-empty value of `Typo`.
-1 lemmas (0) occur at least once with a non-empty value of `Typo`.
+3 lemmas (0%) occur at least once with a non-empty value of `Typo`.
 The feature is used with 2 part-of-speech tags: <tt><a href="jv_csui-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="jv_csui-pos-X.html">X</a></tt> (1; 0% instances).
 
 ### `NOUN`

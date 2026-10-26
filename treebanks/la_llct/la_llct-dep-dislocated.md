@@ -27,7 +27,7 @@ The following 10 pairs of parts of speech are connected with `dislocated`: <tt><
 2	et	et	CCONJ	d|d|-|-|-|-|-|-|-|-	_	4	advmod:emph	_	_
 3	mihi	ego	PRON	p|p|1|s|-|-|-|m|d|-	Case=Dat|Number=Sing|Person=1|PronType=Prs	4	obl:arg	_	_
 4	dedisti	do	VERB	v|v|2|s|r|i|a|-|-|-	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	TraditionalMood=Indicativus|TraditionalTense=Perfectum
-5	id	is	PRON	p|p|-|s|-|-|-|n|n|-	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	8	advmod:emph	_	_
+5	id	is	PRON	p|p|-|s|-|-|-|n|n|-	Case=Nom|ExtPos=CCONJ|Gender=Neut|Number=Sing|Person=3|PronType=Prs	8	advmod:emph	_	_
 6	est	sum	AUX	v|v|3|s|p|i|a|-|-|-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	fixed	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
 7	una	unus	DET	a|a|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|InflClass=LatPron|Number=Sing|NumType=Card|NumValue=1|PronType=Ind	8	det	_	_
 8	petia	petia	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	4	obj	_	_
@@ -54,7 +54,7 @@ The following 10 pairs of parts of speech are connected with `dislocated`: <tt><
 29	in	in	ADP	r|r|-|-|-|-|-|-|-|-	_	30	case	_	_
 30	integrum	integer	ADJ	a|a|-|s|-|-|-|n|a|-	Case=Acc|Gender=Neut|Number=Sing	25	nmod	_	SpaceAfter=No
 31	,	,	PUNCT	Punc	_	35	punct	_	_
-32	una	una	ADV	d|d|-|-|-|-|-|-|-|-	_	35	case	_	_
+32	una	una	ADV	d|d|-|-|-|-|-|-|-|-	ExtPos=ADP	35	case	_	_
 33	cum	cum	ADP	r|r|-|-|-|-|-|-|-|-	_	32	fixed	_	_
 34	una	unus	DET	a|a|-|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|InflClass=LatPron|Number=Sing|NumType=Card|NumValue=1|PronType=Ind	35	det	_	_
 35	petia	petia	NOUN	n|n|-|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing	4	obl	_	_
@@ -133,7 +133,7 @@ The following 10 pairs of parts of speech are connected with `dislocated`: <tt><
 16	,	,	PUNCT	Punc	_	17	punct	_	_
 17	nobis	nos	PRON	p|p|1|p|-|-|-|m|d|-	Case=Dat|Number=Plur|Person=1|PronType=Prs	15	dislocated	_	_
 18	recte	recte	ADV	d|d|-|-|-|-|-|-|-|-	_	15	advmod	_	_
-19	una	una	ADV	d|d|-|-|-|-|-|-|-|-	_	21	case	_	_
+19	una	una	ADV	d|d|-|-|-|-|-|-|-|-	ExtPos=ADP	21	case	_	_
 20	cum	cum	ADP	r|r|-|-|-|-|-|-|-|-	_	19	fixed	_	_
 21	reliqui	reliquus	DET	a|a|-|p|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Plur|PronType=Ind	15	obl	_	_
 22	nobiscum	nobiscum	NOUN	p|p|-|p|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Plur	24	obl	_	_

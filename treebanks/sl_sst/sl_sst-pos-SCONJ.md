@@ -75,15 +75,15 @@ Parents of `SCONJ` nodes belong to 16 different parts of speech: <tt><a href="sl
 
 3418 (94%) `SCONJ` nodes are leaves.
 
-182 (5%) `SCONJ` nodes have one child.
+181 (5%) `SCONJ` nodes have one child.
 
-27 (1%) `SCONJ` nodes have two children.
+28 (1%) `SCONJ` nodes have two children.
 
 8 (0%) `SCONJ` nodes have three or more children.
 
 The highest child degree of a `SCONJ` node is 4.
 
-Children of `SCONJ` nodes are attached using 10 different relations: <tt><a href="sl_sst-dep-punct.html">punct</a></tt> (125; 48% instances), <tt><a href="sl_sst-dep-reparandum.html">reparandum</a></tt> (78; 30% instances), <tt><a href="sl_sst-dep-fixed.html">fixed</a></tt> (35; 13% instances), <tt><a href="sl_sst-dep-orphan.html">orphan</a></tt> (10; 4% instances), <tt><a href="sl_sst-dep-parataxis-restart.html">parataxis:restart</a></tt> (5; 2% instances), <tt><a href="sl_sst-dep-discourse.html">discourse</a></tt> (3; 1% instances), <tt><a href="sl_sst-dep-discourse-filler.html">discourse:filler</a></tt> (2; 1% instances), <tt><a href="sl_sst-dep-cc.html">cc</a></tt> (1; 0% instances), <tt><a href="sl_sst-dep-parataxis.html">parataxis</a></tt> (1; 0% instances), <tt><a href="sl_sst-dep-parataxis-discourse.html">parataxis:discourse</a></tt> (1; 0% instances)
+Children of `SCONJ` nodes are attached using 10 different relations: <tt><a href="sl_sst-dep-punct.html">punct</a></tt> (126; 48% instances), <tt><a href="sl_sst-dep-reparandum.html">reparandum</a></tt> (78; 30% instances), <tt><a href="sl_sst-dep-fixed.html">fixed</a></tt> (35; 13% instances), <tt><a href="sl_sst-dep-orphan.html">orphan</a></tt> (10; 4% instances), <tt><a href="sl_sst-dep-parataxis-restart.html">parataxis:restart</a></tt> (5; 2% instances), <tt><a href="sl_sst-dep-discourse.html">discourse</a></tt> (3; 1% instances), <tt><a href="sl_sst-dep-discourse-filler.html">discourse:filler</a></tt> (2; 1% instances), <tt><a href="sl_sst-dep-cc.html">cc</a></tt> (1; 0% instances), <tt><a href="sl_sst-dep-parataxis.html">parataxis</a></tt> (1; 0% instances), <tt><a href="sl_sst-dep-parataxis-discourse.html">parataxis:discourse</a></tt> (1; 0% instances)
 
-Children of `SCONJ` nodes belong to 11 different parts of speech: <tt><a href="sl_sst-pos-PUNCT.html">PUNCT</a></tt> (125; 48% instances), <tt><a href="sl_sst-pos-SCONJ.html">SCONJ</a></tt> (84; 32% instances), <tt><a href="sl_sst-pos-X.html">X</a></tt> (17; 7% instances), <tt><a href="sl_sst-pos-PART.html">PART</a></tt> (12; 5% instances), <tt><a href="sl_sst-pos-CCONJ.html">CCONJ</a></tt> (11; 4% instances), <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> (3; 1% instances), <tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="sl_sst-pos-INTJ.html">INTJ</a></tt> (2; 1% instances), <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="sl_sst-pos-PRON.html">PRON</a></tt> (1; 0% instances)
+Children of `SCONJ` nodes belong to 11 different parts of speech: <tt><a href="sl_sst-pos-PUNCT.html">PUNCT</a></tt> (126; 48% instances), <tt><a href="sl_sst-pos-SCONJ.html">SCONJ</a></tt> (84; 32% instances), <tt><a href="sl_sst-pos-X.html">X</a></tt> (17; 6% instances), <tt><a href="sl_sst-pos-PART.html">PART</a></tt> (12; 5% instances), <tt><a href="sl_sst-pos-CCONJ.html">CCONJ</a></tt> (11; 4% instances), <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> (3; 1% instances), <tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="sl_sst-pos-INTJ.html">INTJ</a></tt> (2; 1% instances), <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="sl_sst-pos-PRON.html">PRON</a></tt> (1; 0% instances)
 

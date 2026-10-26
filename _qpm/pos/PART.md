@@ -55,4 +55,4 @@ A dedicated set of particles are preposed to interrogative pronouns/determiners 
 * _ní_ ([PartTypeQpm=Neg](../feat/PartTypeQpm.md)) as in _ní kutrí_ "no one" and _ní kadé_ "nowhere"
 * _sǽ_ ([PartTypeQpm=Tot](../feat/PartTypeQpm.md)) as in _sǽ kutrí_ "everybody" "everyone" "every" and _sǽ kadé_ "everywhere"
 "every~ / of all kinds / qualities - in all / every~ / all of~"
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:24 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:37 CEST -->

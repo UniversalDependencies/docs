@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal but the values `Conv` are language-specific.
 It occurs with 4 different values: `Conv`, `Fin`, `Inf`, `Part`.
 
-18800 tokens (18%) have a non-empty value of `VerbForm`.
-7907 types (31%) occur at least once with a non-empty value of `VerbForm`.
-3329 lemmas (23%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 3 part-of-speech tags: <tt><a href="sk_snk-pos-VERB.html">VERB</a></tt> (14066; 13% instances), <tt><a href="sk_snk-pos-AUX.html">AUX</a></tt> (3538; 3% instances), <tt><a href="sk_snk-pos-ADJ.html">ADJ</a></tt> (1196; 1% instances).
+19075 tokens (18%) have a non-empty value of `VerbForm`.
+7908 types (31%) occur at least once with a non-empty value of `VerbForm`.
+3330 lemmas (23%) occur at least once with a non-empty value of `VerbForm`.
+The feature is used with 3 part-of-speech tags: <tt><a href="sk_snk-pos-VERB.html">VERB</a></tt> (14066; 13% instances), <tt><a href="sk_snk-pos-AUX.html">AUX</a></tt> (3813; 4% instances), <tt><a href="sk_snk-pos-ADJ.html">ADJ</a></tt> (1196; 1% instances).
 
 ### `VERB`
 
@@ -50,15 +50,15 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 
 ### `AUX`
 
-3538 <tt><a href="sk_snk-pos-AUX.html">AUX</a></tt> tokens (95% of all `AUX` tokens) have a non-empty value of `VerbForm`.
+3813 <tt><a href="sk_snk-pos-AUX.html">AUX</a></tt> tokens (95% of all `AUX` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="sk_snk-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (3538; 100%), <tt><a href="sk_snk-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (3398; 96%), <tt><a href="sk_snk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2919; 83%), <tt><a href="sk_snk-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2808; 79%), <tt><a href="sk_snk-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2745; 78%), <tt><a href="sk_snk-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (2553; 72%).
+The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="sk_snk-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (3538; 93%), <tt><a href="sk_snk-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (3398; 89%), <tt><a href="sk_snk-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (3083; 81%), <tt><a href="sk_snk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2919; 77%), <tt><a href="sk_snk-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2745; 72%), <tt><a href="sk_snk-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (2553; 67%).
 
 `AUX` tokens may have the following values of `VerbForm`:
 
-* `Fin` (2749; 78% of non-empty `VerbForm`): <em>som, je, sme, sú, bude, si, ste, budú, nebude, budeme</em>
+* `Fin` (3024; 79% of non-empty `VerbForm`): <em>som, je, by, sme, sú, bude, si, ste, budú, nebude</em>
 * `Inf` (53; 1% of non-empty `VerbForm`): <em>byť</em>
-* `Part` (736; 21% of non-empty `VerbForm`): <em>bol, bola, bolo, boli, nebola, nebolo, nebol, neboli, býval, bývali</em>
+* `Part` (736; 19% of non-empty `VerbForm`): <em>bol, bola, bolo, boli, nebola, nebolo, nebol, neboli, býval, bývali</em>
 * `EMPTY` (185): <em>by</em>
 
 <table>

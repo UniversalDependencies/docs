@@ -9,29 +9,29 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Neg`, `Pos`.
 
-861 tokens (1%) have a non-empty value of `Polarity`.
+862 tokens (1%) have a non-empty value of `Polarity`.
 10 types (0%) occur at least once with a non-empty value of `Polarity`.
 5 lemmas (0%) occur at least once with a non-empty value of `Polarity`.
-The feature is used with 3 part-of-speech tags: <tt><a href="en_lines-pos-PART.html">PART</a></tt> (773; 1% instances), <tt><a href="en_lines-pos-INTJ.html">INTJ</a></tt> (68; 0% instances), <tt><a href="en_lines-pos-CCONJ.html">CCONJ</a></tt> (20; 0% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="en_lines-pos-PART.html">PART</a></tt> (774; 1% instances), <tt><a href="en_lines-pos-INTJ.html">INTJ</a></tt> (68; 0% instances), <tt><a href="en_lines-pos-CCONJ.html">CCONJ</a></tt> (20; 0% instances).
 
 ### `PART`
 
-773 <tt><a href="en_lines-pos-PART.html">PART</a></tt> tokens (32% of all `PART` tokens) have a non-empty value of `Polarity`.
+774 <tt><a href="en_lines-pos-PART.html">PART</a></tt> tokens (28% of all `PART` tokens) have a non-empty value of `Polarity`.
 
 `PART` tokens may have the following values of `Polarity`:
 
-* `Neg` (773; 100% of non-empty `Polarity`): <em>not, n't</em>
-* `EMPTY` (1675): <em>to, 's, ', t'</em>
+* `Neg` (774; 100% of non-empty `Polarity`): <em>not, n't</em>
+* `EMPTY` (1992): <em>to, 's, n't, not, ', t'</em>
 
 ### `INTJ`
 
-68 <tt><a href="en_lines-pos-INTJ.html">INTJ</a></tt> tokens (39% of all `INTJ` tokens) have a non-empty value of `Polarity`.
+68 <tt><a href="en_lines-pos-INTJ.html">INTJ</a></tt> tokens (38% of all `INTJ` tokens) have a non-empty value of `Polarity`.
 
 `INTJ` tokens may have the following values of `Polarity`:
 
 * `Neg` (27; 40% of non-empty `Polarity`): <em>no</em>
 * `Pos` (41; 60% of non-empty `Polarity`): <em>yes</em>
-* `EMPTY` (108): <em>well, oh, please, ah, eh, Adieu, Yeah, good-by, hello, Aha</em>
+* `EMPTY` (110): <em>well, oh, please, ah, eh, Adieu, Yeah, good-by, hello, Aha</em>
 
 ### `CCONJ`
 
@@ -40,7 +40,7 @@ The feature is used with 3 part-of-speech tags: <tt><a href="en_lines-pos-PART.h
 `CCONJ` tokens may have the following values of `Polarity`:
 
 * `Neg` (20; 100% of non-empty `Polarity`): <em>neither, nor</em>
-* `EMPTY` (2931): <em>and, but, or, both, as, either, nor, for, only, &amp;</em>
+* `EMPTY` (3337): <em>and, but, or, both, either, nor, for, only, &amp;, Though</em>
 
 ## Relations with Agreement in `Polarity`
 

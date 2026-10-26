@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="kpv_lattice-dep-acl.html">acl</a></tt>.
 
-36 nodes (0%) are attached to their parents as `acl:relcl`.
+37 nodes (0%) are attached to their parents as `acl:relcl`.
 
-33 instances of `acl:relcl` (92%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.83333333333333.
+34 instances of `acl:relcl` (92%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.94594594594595.
 
-The following 10 pairs of parts of speech are connected with `acl:relcl`: <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (24; 67% instances), <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt>-<tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (3; 8% instances), <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (2; 6% instances), <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt>-<tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (1; 3% instances), <tt><a href="kpv_lattice-pos-DET.html">DET</a></tt>-<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> (1; 3% instances), <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt>-<tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> (1; 3% instances), <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt>-<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> (1; 3% instances), <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (1; 3% instances).
+The following 10 pairs of parts of speech are connected with `acl:relcl`: <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (25; 68% instances), <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt>-<tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (3; 8% instances), <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (2; 5% instances), <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt>-<tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (1; 3% instances), <tt><a href="kpv_lattice-pos-DET.html">DET</a></tt>-<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> (1; 3% instances), <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt>-<tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> (1; 3% instances), <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt>-<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> (1; 3% instances), <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (1; 3% instances).
 
 
 ~~~ conllu
@@ -29,8 +29,8 @@ The following 10 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 5	туриясӧн	тури	NOUN	N	Case=Ins|Number=Plur	6	obl:agent	_	GTtags=Pl,Ins
 6	вайӧм	вайны	VERB	V	VerbForm=Vnoun	7	acl:relcl	_	GTtags=TV,Der,Der/ӧм,PastPtc
 7	шудсӧ	шуд	NOUN	N	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	8	obj	_	GTtags=Sg,Acc,PxSg3
-8	гӧгӧрволім	гӧгӧрволыны	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Past	0	root	_	GTtags=TV,Ind,Prt1,Pl1
-9	ас	ас	PRON	Pron	Case=Nom|Number=Sing	10	det	_	GTtags=Sg,Nom
+8	гӧгӧрволім	гӧгӧрволыны	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	0	root	_	GTtags=TV,Ind,Prt1,Pl1
+9	ас	ас	PRON	Pron	Case=Nom|Number=Sing|PronType=Prs|Reflex=Yes	10	det	_	GTtags=Sg,Nom
 10	ног	ног	NOUN	N	Case=Nom|Number=Sing	8	obl	_	GTtags=Sg,Nom|SpaceAfter=No
 11	.	.	PUNCT	PUNCT	_	8	punct	_	_
 
@@ -53,15 +53,15 @@ The following 10 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 8	вӧсна	вӧсна	ADP	Po	AdpType=Post	7	case	_	SpaceAfter=No
 9	,	,	PUNCT	CLB	_	14	punct	_	_
 10	медым	медым	SCONJ	CS	_	14	mark	_	_
-11	му	му	NOUN	N	Case=Nom|Number=Sing	14	obl:lmod	_	_
+11	му	му	NOUN	N	Case=Nom|Number=Sing	14	obl	_	_
 12	вылӧ	вылӧ	ADP	Po	AdpType=Post|Case=Ill|Number=Sing	11	case	_	_
-13	эз	оз	AUX	V	Mood=Ind|Person=3|Polarity=Neg|Tense=Past	14	aux	_	_
+13	эз	оз	AUX	V	Mood=Ind|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin	14	aux	_	_
 14	коль	кольны	VERB	V	Connegative=Yes	7	acl:relcl	_	_
-15	ниӧти	ниӧти	PRON	Pro	Case=Nom|Number=Sing|Polarity=Neg	16	det	_	_
+15	ниӧти	ниӧти	DET	Det	Case=Nom|Number=Sing|Polarity=Neg|PronType=Ind	16	det	_	_
 16	шеп	шеп	NOUN	N	Case=Nom|Number=Sing	14	nsubj	_	SpaceAfter=No
 17	,	,	PUNCT	CLB	_	21	punct	_	_
 18	быдӧнлы	быдӧн	PRON	Pron	Case=Dat|Number=Sing|PronType=Tot	21	obl	_	_
-19	должен	должен	AUX	N	Case=Nom|Number=Sing	21	aux:nec	_	OrigLang=ru
+19	должен	должен	AUX	N	Case=Nom|Number=Sing	21	aux	_	OrigLang=ru
 20	лоны	лоны	AUX	V	VerbForm=Inf	21	cop	_	_
 21	гӧгӧрвоана	гӧгӧрвоана	ADV	Adv	_	5	conj	_	SpaceAfter=No
 22	,	,	PUNCT	CLB	_	27	punct	_	_
@@ -69,12 +69,12 @@ The following 10 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 24	быд	быд	PRON	Pron	PronType=Tot	25	det	_	_
 25	нянь	нянь	NOUN	N	Case=Nom|Number=Sing	27	nsubj	_	_
 26	шеп	шеп	NOUN	N	Case=Nom|Number=Sing	25	compound	_	_
-27	сьӧктаммӧдӧ	сьӧктаммӧдны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	21	acl:relcl	_	_
+27	сьӧктаммӧдӧ	сьӧктаммӧдны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	acl:relcl	_	_
 28	колхозниклысь	колхозник	NOUN	N	Case=Abl|Number=Sing	29	nmod	_	OrigLang=ru
 29	трудоденьсӧ	трудодень	NOUN	N	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	27	obj	_	OrigLang=ru|SpaceAfter=No
 30	,	,	PUNCT	CLB	_	32	punct	_	_
 31	унджык	унджык	ADV	Adv	_	32	advmod	_	_
-32	воӧ	воны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	27	conj	_	_
+32	воӧ	воны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	27	conj	_	_
 33	нянь	нянь	NOUN	N	Case=Nom|Number=Sing	32	nsubj	_	_
 34	трудодень	трудодень	NOUN	N	Case=Nom|Number=Sing	32	obl	_	OrigLang=ru
 35	вылӧ	вылӧ	ADP	Po	AdpType=Post|Case=Ill|Number=Sing	34	case	_	SpaceAfter=No
@@ -90,11 +90,11 @@ The following 10 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 # visual-style 11	fgColor:white
 # visual-style 11 22 acl:relcl	color:blue
 1	Тайӧ	тайӧ	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	3	det	_	_
-2	жӧ	жӧ	ADV	Adv	_	1	advmod:eval	_	_
-3	книгаас	книга	NOUN	N	Case=Ill|Number=Sing|Number[psor]=Sing|Person[psor]=3	5	obl:lmod	_	_
+2	жӧ	жӧ	ADV	Adv	_	1	advmod	_	_
+3	книгаас	книга	NOUN	N	Case=Ill|Number=Sing|Number[psor]=Sing|Person[psor]=3	5	obl	_	_
 4	ми	ми	PRON	Pron	Case=Nom|Number=Plur|Person=1|PronType=Prs	5	nsubj	_	_
-5	висьталам	висьтавны	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres	0	root	_	_
-6	сӧмын	сӧмын	ADV	Adv	_	5	advmod:foc	_	_
+5	висьталам	висьтавны	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	сӧмын	сӧмын	ADV	Adv	_	5	advmod	_	_
 7	нёль	нёль	NUM	Num	Case=Nom|Number=Sing|NumType=Card	11	nummod	_	_
 8	самӧй	самӧй	PART	Pcle	_	9	advmod:deg	_	_
 9	обыкновеннӧй	обыкновеннӧй	ADJ	A	Case=Nom|Number=Sing	11	amod	_	_
@@ -103,13 +103,13 @@ The following 10 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 12	йылысь	йылысь	ADP	Po	AdpType=Post|Case=Ela|Number=Sing	11	case	_	SpaceAfter=No
 13	,	,	PUNCT	CLB	_	14	punct	_	_
 14	кодъяс	коді	PRON	Pron	Case=Nom|Number=Plur|PronType=Int	22	nsubj:cop	_	_
-15	коркӧ	коркӧ	ADV	Adv	PronType=Ind	22	advmod:tmod	_	SpaceAfter=No
+15	коркӧ	коркӧ	ADV	Adv	PronType=Ind	22	advmod	_	SpaceAfter=No
 16	,	,	PUNCT	CLB	_	19	punct	_	_
 17	гражданскӧй	гражданскӧй	ADJ	A	Case=Nom|Number=Sing	18	amod	_	_
 18	война	война	NOUN	N	Case=Nom|Number=Sing	19	nmod	_	_
 19	лунъясын	лун	NOUN	N	Case=Ine|Number=Plur	15	appos	_	SpaceAfter=No
 20	,	,	PUNCT	CLB	_	22	punct	_	_
-21	вӧвліны	вӧвлыны	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Past	22	cop	_	_
+21	вӧвліны	вӧвлыны	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	22	cop	_	_
 22	фронт	фронт	NOUN	N	Case=Nom|Number=Sing	11	acl:relcl	_	_
 23	вылын	вылын	ADP	Po	AdpType=Post|Case=Ine|Number=Sing	22	case	_	_
 24	Климент	Климент	PROPN	N	Case=Nom|Number=Sing	22	obl	_	_

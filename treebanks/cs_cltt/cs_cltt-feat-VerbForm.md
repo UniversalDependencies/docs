@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal but the values `Conv` are language-specific.
 It occurs with 4 different values: `Conv`, `Fin`, `Inf`, `Part`.
 
-2979 tokens (8%) have a non-empty value of `VerbForm`.
-751 types (16%) occur at least once with a non-empty value of `VerbForm`.
-416 lemmas (15%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 3 part-of-speech tags: <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> (1819; 5% instances), <tt><a href="cs_cltt-pos-AUX.html">AUX</a></tt> (619; 2% instances), <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> (541; 2% instances).
+2984 tokens (8%) have a non-empty value of `VerbForm`.
+754 types (16%) occur at least once with a non-empty value of `VerbForm`.
+417 lemmas (15%) occur at least once with a non-empty value of `VerbForm`.
+The feature is used with 3 part-of-speech tags: <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> (1819; 5% instances), <tt><a href="cs_cltt-pos-AUX.html">AUX</a></tt> (619; 2% instances), <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> (546; 2% instances).
 
 ### `VERB`
 
@@ -69,16 +69,16 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
 
 ### `ADJ`
 
-541 <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> tokens (8% of all `ADJ` tokens) have a non-empty value of `VerbForm`.
+546 <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> tokens (8% of all `ADJ` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `ADJ` and `VerbForm` co-occurred: <tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (538; 99%), <tt><a href="cs_cltt-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (324; 60%), <tt><a href="cs_cltt-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (287; 53%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (281; 52%).
+The most frequent other feature values with which `ADJ` and `VerbForm` co-occurred: <tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (543; 99%), <tt><a href="cs_cltt-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (325; 60%), <tt><a href="cs_cltt-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (287; 53%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (283; 52%).
 
 `ADJ` tokens may have the following values of `VerbForm`:
 
-* `Part` (541; 100% of non-empty `VerbForm`): <em>konsolidující, zanikající, stanoveno, následujícího, související, předcházejícímu, týkající, přejímající, sestavena, obchodovány</em>
-* `EMPTY` (6102): <em>účetní, účetních, účetního, konsolidované, finanční, účetním, povinny, právní, výroční, ostatní</em>
+* `Part` (546; 100% of non-empty `VerbForm`): <em>konsolidující, zanikající, stanoveno, následujícího, související, předcházejícímu, týkající, přejímající, sestavena, obchodovány</em>
+* `EMPTY` (6097): <em>účetní, účetních, účetního, konsolidované, finanční, účetním, povinny, právní, výroční, ostatní</em>
 
-`VerbForm` seems to be **lexical feature** of `ADJ`. 100% lemmas (141) occur only with one value of `VerbForm`.
+`VerbForm` seems to be **lexical feature** of `ADJ`. 100% lemmas (142) occur only with one value of `VerbForm`.
 
 ## Relations with Agreement in `VerbForm`
 

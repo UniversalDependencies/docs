@@ -29,7 +29,7 @@ The following 1 pairs of parts of speech are connected with `flat`: <tt><a href=
 5	Мэри	Мэри	PROPN	_	_	1	conj	_	_
 6	Браун	Браун	PROPN	_	_	5	flat	_	_
 7	да	да	ADV	_	_	5	advmod:emph	_	_
-8	ѳтѳ	ѳт	VERB	_	_	0	root	_	_
+8	өтө	өт	VERB	_	_	0	root	_	_
 9	албай	ал	AUX	_	_	8	aux	_	_
 10	калды	кал	AUX	_	_	8	aux	_	SpaceAfter=No
 11	.	.	PUNCT	_	_	8	punct	_	_

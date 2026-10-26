@@ -37,7 +37,7 @@ The following 8 pairs of parts of speech are connected with `flat`: <tt><a href=
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 flat	color:blue
-1	Le	le	DET	DET	_	0	root	_	_
+1	Le	le	DET	DET	Definite=Def|Foreign=Yes|Gender=Masc|Number=Sing|PronType=Art	0	root	_	Lang=fr
 2	Monde	Monde	NOUN	NOUN	_	1	flat	_	SpaceAfter=No
 3	:	:	PUNCT	COLON	_	5	punct	_	_
 4	Lu	bu	PRON	PRON	NounClass=Wol7|Number=Sing|Person=3|PronType=Int	5	nsubj	_	_
@@ -60,7 +60,7 @@ The following 8 pairs of parts of speech are connected with `flat`: <tt><a href=
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 9 flat	color:blue
-1	Le	le	DET	DET	_	0	root	_	_
+1	Le	le	DET	DET	Definite=Def|Foreign=Yes|Gender=Masc|Number=Sing|PronType=Art	0	root	_	Lang=fr
 2	Monde	Monde	NOUN	NOUN	_	1	flat	_	SpaceAfter=No
 3	:	:	PUNCT	COLON	_	5	punct	_	_
 4	Lu	bu	PRON	PRON	NounClass=Wol7|Number=Sing|Person=3|PronType=Int	5	nsubj	_	_

@@ -33,7 +33,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
   <tr><td><tt><tt><a href="no_bokmaal-feat-Definite.html">Definite</a></tt><tt>=Def</tt></tt></td><td></td><td></td><td><em>meste</em></td></tr>
   <tr><td><tt><tt><a href="no_bokmaal-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="no_bokmaal-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>mye</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="no_bokmaal-feat-Definite.html">Definite</a></tt><tt>=Ind</tt></tt></td><td></td><td></td><td><em>mest</em></td></tr>
-  <tr><td><tt><tt><a href="no_bokmaal-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="no_bokmaal-feat-Gender.html">Gender</a></tt><tt>=Fem,Masc</tt>|<tt><a href="no_bokmaal-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>mye</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="no_bokmaal-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="no_bokmaal-feat-Gender.html">Gender</a></tt><tt>=Com</tt>|<tt><a href="no_bokmaal-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>mye</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="no_bokmaal-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="no_bokmaal-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="no_bokmaal-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>mye</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="no_bokmaal-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>mye</em></td><td></td><td></td></tr>
 </table>

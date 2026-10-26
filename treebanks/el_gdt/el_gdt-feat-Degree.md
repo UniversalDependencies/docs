@@ -60,6 +60,5 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 ## Relations with Agreement in `Degree`
 
 The 10 most frequent relations where parent and child node agree in `Degree`:
-<tt>ADJ --[<tt><a href="el_gdt-dep-conj.html">conj</a></tt>]--> ADJ</tt> (6; 55%),
-<tt>ADJ --[<tt><a href="el_gdt-dep-advcl.html">advcl</a></tt>]--> ADJ</tt> (1; 100%).
+<tt>ADJ --[<tt><a href="el_gdt-dep-conj.html">conj</a></tt>]--> ADJ</tt> (6; 55%).
 

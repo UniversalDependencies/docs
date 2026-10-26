@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="ta_ttb-dep-advmod.html">advmod</a></tt>.
 
-231 nodes (2%) are attached to their parents as `advmod:emph`.
+228 nodes (2%) are attached to their parents as `advmod:emph`.
 
-228 instances of `advmod:emph` (99%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.3982683982684.
+226 instances of `advmod:emph` (99%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.40350877192982.
 
-The following 9 pairs of parts of speech are connected with `advmod:emph`: <tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ta_ttb-pos-PART.html">PART</a></tt> (129; 56% instances), <tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt>-<tt><a href="ta_ttb-pos-PART.html">PART</a></tt> (61; 26% instances), <tt><a href="ta_ttb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ta_ttb-pos-PART.html">PART</a></tt> (14; 6% instances), <tt><a href="ta_ttb-pos-PART.html">PART</a></tt>-<tt><a href="ta_ttb-pos-PART.html">PART</a></tt> (10; 4% instances), <tt><a href="ta_ttb-pos-PRON.html">PRON</a></tt>-<tt><a href="ta_ttb-pos-PART.html">PART</a></tt> (8; 3% instances), <tt><a href="ta_ttb-pos-NUM.html">NUM</a></tt>-<tt><a href="ta_ttb-pos-PART.html">PART</a></tt> (5; 2% instances), <tt><a href="ta_ttb-pos-AUX.html">AUX</a></tt>-<tt><a href="ta_ttb-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="ta_ttb-pos-ADV.html">ADV</a></tt>-<tt><a href="ta_ttb-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ta_ttb-pos-ADV.html">ADV</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `advmod:emph`: <tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ta_ttb-pos-PART.html">PART</a></tt> (127; 56% instances), <tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt>-<tt><a href="ta_ttb-pos-PART.html">PART</a></tt> (60; 26% instances), <tt><a href="ta_ttb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ta_ttb-pos-PART.html">PART</a></tt> (14; 6% instances), <tt><a href="ta_ttb-pos-PART.html">PART</a></tt>-<tt><a href="ta_ttb-pos-PART.html">PART</a></tt> (10; 4% instances), <tt><a href="ta_ttb-pos-PRON.html">PRON</a></tt>-<tt><a href="ta_ttb-pos-PART.html">PART</a></tt> (8; 4% instances), <tt><a href="ta_ttb-pos-NUM.html">NUM</a></tt>-<tt><a href="ta_ttb-pos-PART.html">PART</a></tt> (5; 2% instances), <tt><a href="ta_ttb-pos-AUX.html">AUX</a></tt>-<tt><a href="ta_ttb-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="ta_ttb-pos-ADV.html">ADV</a></tt>-<tt><a href="ta_ttb-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ta_ttb-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

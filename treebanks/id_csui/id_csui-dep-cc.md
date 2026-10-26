@@ -29,7 +29,7 @@ The following 12 pairs of parts of speech are connected with `cc`: <tt><a href="
 4	pebasket	pebasket	NOUN	NN	Number=Sing	1	conj	_	_
 5	Michael	Michael	PROPN	NNP	_	4	nmod	_	_
 6	Jordan	Jordan	PROPN	NNP	_	5	flat:name	_	_
-7	melakukan	laku	VERB	VB	Mood=Ind|Voice=Act	0	root	_	_
+7	melakukan	laku	VERB	VB	Voice=Act	0	root	_	_
 8	nya	nya	PRON	PRP	Number=Sing|Person=3|PronType=Prs	7	obj	_	_
 9	.	.	PUNCT	.	_	7	punct	_	_
 
@@ -46,7 +46,7 @@ The following 12 pairs of parts of speech are connected with `cc`: <tt><a href="
 2	,	,	PUNCT	,	_	3	punct	_	_
 3	panutan	panutan	NOUN	NN	Number=Sing	1	conj	_	_
 4	dan	dan	CCONJ	CC	_	5	cc	_	_
-5	merokok	rokok	VERB	VB	Mood=Ind|Voice=Act	1	conj	_	_
+5	merokok	rokok	VERB	VB	Voice=Act	1	conj	_	_
 
 ~~~
 
@@ -59,7 +59,7 @@ The following 12 pairs of parts of speech are connected with `cc`: <tt><a href="
 # visual-style 10 8 cc	color:blue
 1	Baru	baru	ADV	RB	_	3	advmod	_	_
 2	kemudian	kemudian	ADV	RB	_	3	advmod	_	_
-3	berturut-turut	turut	VERB	VB	Mood=Ind|Voice=Act	0	root	_	_
+3	berturut-turut	turut	VERB	VB	Voice=Act	0	root	_	_
 4	dengan	dengan	ADP	IN	_	5	case	_	_
 5	Malaysia	Malaysia	PROPN	NNP	_	3	obl	_	_
 6	2005	2005	NUM	CD	NumType=Card	5	nummod	_	SpaceAfter=No

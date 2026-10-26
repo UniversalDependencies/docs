@@ -5,13 +5,9 @@ shortdef: 'adverbial modifier'
 udver: '2'
 ---
 
-An adverbial modifier of a word is a (non-clausal) [adverb](ADV)
-or adverbial phrase that serves to modify predicate or a modifier word.
+An adverbial modifier of a word is a (non-clausal) [adverb](ADV) or adverbial phrase that serves to modify a predicate or a modifier word.
 
-Note that in the Armenian grammatical tradition, the term _adverbial modifier_ covers
-constituents that function like adverbs regardless whether they are realized
-by adverbs, adpositional phrases, or nouns in particular morphological 
-[cases](Case). We differentiate adverbials realized as adverbs (`advmod`) and adverbials realized by noun phrases or adpositional phrases ([obl]()). 
+Note that in the Armenian grammatical tradition, the term _adverbial modifier_ covers constituents that function like adverbs regardless of whether they are realized by adverbs, adpositional phrases, or nouns in particular morphological [cases](Case). We differentiate adverbials realized as adverbs (`advmod`) and adverbials realized by noun phrases or adpositional phrases ([obl]()). 
 
 ~~~ sdparse
 գենետիկորեն մոդիֆիկացված սնունդ \n genetically modified food
@@ -49,4 +45,4 @@ obl(came, to-the-party)
 
 We use a special label, [advmod:emph]() for adverbial modifiers that are used for emphasis.
 
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:20 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:33 CEST -->

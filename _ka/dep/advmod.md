@@ -13,7 +13,7 @@ Adverbials realized by noun phrases or adpositional phrases are covered by the r
 ~~~ sdparse
 გარეთ/ADV ცხენები ხვიხვინებდნენ/VERB.
 'Horses neigh outside.'
-advmod(ხვიხვინებდნენ, გარეთ)
+advmod(გარეთ, ხვიხვინებდნენ)
 ~~~
 ~~~ sdparse
 ბარად/NOUN დავდიოდი/VERB სადავლოდ.
@@ -21,4 +21,4 @@ advmod(ხვიხვინებდნენ, გარეთ)
 advmod(ბარად, დავდიოდი)
 ~~~
 
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:20 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:33 CEST -->

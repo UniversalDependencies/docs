@@ -72,7 +72,7 @@ The most frequent other feature values with which `ADJ` and `Typo` co-occurred: 
 
 77 <tt><a href="pt_dantestocks-pos-VERB.html">VERB</a></tt> tokens (1% of all `VERB` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `VERB` and `Typo` co-occurred: <tt><a href="pt_dantestocks-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (54; 70%), <tt><a href="pt_dantestocks-feat-Number.html">Number</a></tt><tt>=Sing</tt> (51; 66%), <tt><a href="pt_dantestocks-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (48; 62%), <tt><a href="pt_dantestocks-feat-Person.html">Person</a></tt><tt>=3</tt> (45; 58%).
+The most frequent other feature values with which `VERB` and `Typo` co-occurred: <tt><a href="pt_dantestocks-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (53; 69%), <tt><a href="pt_dantestocks-feat-Number.html">Number</a></tt><tt>=Sing</tt> (51; 66%), <tt><a href="pt_dantestocks-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (48; 62%), <tt><a href="pt_dantestocks-feat-Person.html">Person</a></tt><tt>=3</tt> (45; 58%).
 
 `VERB` tokens may have the following values of `Typo`:
 
@@ -84,11 +84,11 @@ The most frequent other feature values with which `VERB` and `Typo` co-occurred:
 
 17 <tt><a href="pt_dantestocks-pos-PRON.html">PRON</a></tt> tokens (1% of all `PRON` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `PRON` and `Typo` co-occurred: <tt><a href="pt_dantestocks-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (11; 65%), <tt><a href="pt_dantestocks-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (11; 65%), <tt><a href="pt_dantestocks-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (10; 59%).
+The most frequent other feature values with which `PRON` and `Typo` co-occurred: <tt><a href="pt_dantestocks-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (11; 65%), <tt><a href="pt_dantestocks-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (10; 59%), <tt><a href="pt_dantestocks-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (9; 53%).
 
 `PRON` tokens may have the following values of `Typo`:
 
-* `Yes` (17; 100% of non-empty `Typo`): <em>ninguem, sem, tú, voces, Qm, Qum, alguem, la, mo, nóis</em>
+* `Yes` (17; 100% of non-empty `Typo`): <em>ninguem, tú, voces, Qm, Qum, alguem, la, mo, nóis, qq</em>
 
 `Typo` seems to be **lexical feature** of `PRON`. 100% lemmas (12) occur only with one value of `Typo`.
 

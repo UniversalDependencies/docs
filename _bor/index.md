@@ -36,8 +36,6 @@ Mapping UPOS to XPOS Bororo
  X     | x        |
 
 
----
-
 ## Morphology
 
 ### POS
@@ -64,7 +62,7 @@ i=rekody-re
 I ran/there is my running/My running exists
 ```
 
-PART is used for some morphemes, such as the conditional particle _ma_, the focal particle _na_ 
+PART is used for some morphemes, such as the conditional particle _ma_, the focal particle _na_
 
 
 #### Gender
@@ -145,9 +143,9 @@ a=paro
 Your axe
 ```
 
-A set of nouns are used in classifier functions in order to make unpossessed nouns possessed:  
+A set of nouns are used in classifier functions in order to make unpossessed nouns possessed:
 
-_o_ ‘property’ 
+_o_ ‘property’
 
 _ke_ ‘food’
 
@@ -166,8 +164,6 @@ i=ke pobo
 1SG=food water
 My water
 ```
-
----
 
 Roots fuctioning as predicates may combine with the following sufixes:
 
@@ -282,7 +278,7 @@ He made me work
 
 Bororo is an ergative language. S, A, and O are marked by the same set of bound indexes. But the construction where S and O appear are the same, i.e, they attach to the predicate.
 
-S is always marked by a bound index which carries TMA and negation markers, detached from the predicate. 
+S is always marked by a bound index which carries TMA and negation markers, detached from the predicate.
 
 ```
 Imaragodyre
@@ -291,7 +287,7 @@ i-maragody=re
 I worked
 ```
 
-The A argument of transitive verbs is indexed on the mood or aspect marker, and the O argument is bound to the verb. 
+The A argument of transitive verbs is indexed on the mood or aspect marker, and the O argument is bound to the verb.
 
 ```
 adygore emage ewido
@@ -344,9 +340,9 @@ person-prog=ind I
 I am Bororo
 ```
 
-Equational: subtype of identificational predication. 
+Equational: subtype of identificational predication.
 
-Existential: IF morpheme is attached to the predicating element. 
+Existential: IF morpheme is attached to the predicating element.
 
 ```
 Karere
@@ -359,14 +355,6 @@ There is fish
 
 ## Treebanks
 
-There are [N](../treebanks/bor-comparison.html) Bororo UD treebanks:
+There is 1 Bororo UD treebank:
 
-  * [Bororo-A](../treebanks/bor_a/index.html)
-  * [Bororo-B](../treebanks/bor_b/index.html)
-
----
-**Instruction**: Treebank-specific pages are generated automatically from the README file in the treebank repository and
-from the data in the latest release. Link to the respective `*-index.html` page in the `treebanks` folder, using the language code
-and the treebank code in the file name.
-
----
+  * [Bororo-BDT](../treebanks/bor_bdt/index.html)

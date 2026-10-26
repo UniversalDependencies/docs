@@ -7,14 +7,13 @@ udver: '2'
 ## Treebank Statistics: UD_Bororo-BDT: Relations: `nsubj`
 
 This relation is universal.
-There are 1 language-specific subtypes of `nsubj`: <tt><a href="bor_bdt-dep-nsubj-outer.html">nsubj:outer</a></tt>.
 
-889 nodes (13%) are attached to their parents as `nsubj`.
+20575 nodes (13%) are attached to their parents as `nsubj`.
 
-853 instances of `nsubj` (96%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.63217097862767.
+20403 instances of `nsubj` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.50041312272175.
 
-The following 25 pairs of parts of speech are connected with `nsubj`: <tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bor_bdt-pos-PRON.html">PRON</a></tt> (342; 38% instances), <tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> (341; 38% instances), <tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> (52; 6% instances), <tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bor_bdt-pos-PRON.html">PRON</a></tt> (38; 4% instances), <tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bor_bdt-pos-PROPN.html">PROPN</a></tt> (36; 4% instances), <tt><a href="bor_bdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> (10; 1% instances), <tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bor_bdt-pos-PROPN.html">PROPN</a></tt> (9; 1% instances), <tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bor_bdt-pos-X.html">X</a></tt> (9; 1% instances), <tt><a href="bor_bdt-pos-ADV.html">ADV</a></tt>-<tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> (7; 1% instances), <tt><a href="bor_bdt-pos-ADV.html">ADV</a></tt>-<tt><a href="bor_bdt-pos-PRON.html">PRON</a></tt> (7; 1% instances), <tt><a href="bor_bdt-pos-ADP.html">ADP</a></tt>-<tt><a href="bor_bdt-pos-PRON.html">PRON</a></tt> (5; 1% instances), <tt><a href="bor_bdt-pos-PRON.html">PRON</a></tt>-<tt><a href="bor_bdt-pos-PRON.html">PRON</a></tt> (5; 1% instances), <tt><a href="bor_bdt-pos-PRON.html">PRON</a></tt>-<tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bor_bdt-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt> (4; 0% instances), <tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bor_bdt-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="bor_bdt-pos-X.html">X</a></tt>-<tt><a href="bor_bdt-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="bor_bdt-pos-ADP.html">ADP</a></tt>-<tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="bor_bdt-pos-PART.html">PART</a></tt>-<tt><a href="bor_bdt-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bor_bdt-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="bor_bdt-pos-PART.html">PART</a></tt>-<tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="bor_bdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bor_bdt-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="bor_bdt-pos-X.html">X</a></tt>-<tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="bor_bdt-pos-X.html">X</a></tt>-<tt><a href="bor_bdt-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+The following 110 pairs of parts of speech are connected with `nsubj`: <tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> (7326; 36% instances), <tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bor_bdt-pos-PRON.html">PRON</a></tt> (5559; 27% instances), <tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt> (1330; 6% instances), <tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bor_bdt-pos-PRON.html">PRON</a></tt> (1033; 5% instances), <tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> (887; 4% instances), <tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bor_bdt-pos-PROPN.html">PROPN</a></tt> (481; 2% instances), <tt><a href="bor_bdt-pos-ADV.html">ADV</a></tt>-<tt><a href="bor_bdt-pos-PRON.html">PRON</a></tt> (363; 2% instances), <tt><a href="bor_bdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> (332; 2% instances), <tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bor_bdt-pos-NUM.html">NUM</a></tt> (311; 2% instances), <tt><a href="bor_bdt-pos-ADV.html">ADV</a></tt>-<tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> (310; 2% instances), <tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bor_bdt-pos-ADV.html">ADV</a></tt> (215; 1% instances), <tt><a href="bor_bdt-pos-AUX.html">AUX</a></tt>-<tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> (197; 1% instances), <tt><a href="bor_bdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="bor_bdt-pos-PROPN.html">PROPN</a></tt> (174; 1% instances), <tt><a href="bor_bdt-pos-PRON.html">PRON</a></tt>-<tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> (162; 1% instances), <tt><a href="bor_bdt-pos-X.html">X</a></tt>-<tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> (152; 1% instances), <tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bor_bdt-pos-PROPN.html">PROPN</a></tt> (135; 1% instances), <tt><a href="bor_bdt-pos-X.html">X</a></tt>-<tt><a href="bor_bdt-pos-PROPN.html">PROPN</a></tt> (130; 1% instances), <tt><a href="bor_bdt-pos-X.html">X</a></tt>-<tt><a href="bor_bdt-pos-PRON.html">PRON</a></tt> (121; 1% instances), <tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bor_bdt-pos-CCONJ.html">CCONJ</a></tt> (104; 1% instances), <tt><a href="bor_bdt-pos-ADV.html">ADV</a></tt>-<tt><a href="bor_bdt-pos-PROPN.html">PROPN</a></tt> (86; 0% instances), <tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bor_bdt-pos-X.html">X</a></tt> (82; 0% instances), <tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bor_bdt-pos-ADP.html">ADP</a></tt> (75; 0% instances), <tt><a href="bor_bdt-pos-PRON.html">PRON</a></tt>-<tt><a href="bor_bdt-pos-PRON.html">PRON</a></tt> (72; 0% instances), <tt><a href="bor_bdt-pos-ADV.html">ADV</a></tt>-<tt><a href="bor_bdt-pos-ADV.html">ADV</a></tt> (68; 0% instances), <tt><a href="bor_bdt-pos-AUX.html">AUX</a></tt>-<tt><a href="bor_bdt-pos-PROPN.html">PROPN</a></tt> (65; 0% instances), <tt><a href="bor_bdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="bor_bdt-pos-PRON.html">PRON</a></tt> (60; 0% instances), <tt><a href="bor_bdt-pos-ADP.html">ADP</a></tt>-<tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> (56; 0% instances), <tt><a href="bor_bdt-pos-PRON.html">PRON</a></tt>-<tt><a href="bor_bdt-pos-PROPN.html">PROPN</a></tt> (55; 0% instances), <tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bor_bdt-pos-SCONJ.html">SCONJ</a></tt> (50; 0% instances), <tt><a href="bor_bdt-pos-ADP.html">ADP</a></tt>-<tt><a href="bor_bdt-pos-PRON.html">PRON</a></tt> (44; 0% instances), <tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt> (44; 0% instances), <tt><a href="bor_bdt-pos-PART.html">PART</a></tt>-<tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> (44; 0% instances), <tt><a href="bor_bdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> (42; 0% instances), <tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bor_bdt-pos-DET.html">DET</a></tt> (28; 0% instances), <tt><a href="bor_bdt-pos-NUM.html">NUM</a></tt>-<tt><a href="bor_bdt-pos-PRON.html">PRON</a></tt> (24; 0% instances), <tt><a href="bor_bdt-pos-X.html">X</a></tt>-<tt><a href="bor_bdt-pos-X.html">X</a></tt> (22; 0% instances), <tt><a href="bor_bdt-pos-PART.html">PART</a></tt>-<tt><a href="bor_bdt-pos-PRON.html">PRON</a></tt> (20; 0% instances), <tt><a href="bor_bdt-pos-DET.html">DET</a></tt>-<tt><a href="bor_bdt-pos-PRON.html">PRON</a></tt> (16; 0% instances), <tt><a href="bor_bdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt> (15; 0% instances), <tt><a href="bor_bdt-pos-ADP.html">ADP</a></tt>-<tt><a href="bor_bdt-pos-PROPN.html">PROPN</a></tt> (14; 0% instances), <tt><a href="bor_bdt-pos-ADV.html">ADV</a></tt>-<tt><a href="bor_bdt-pos-X.html">X</a></tt> (14; 0% instances), <tt><a href="bor_bdt-pos-AUX.html">AUX</a></tt>-<tt><a href="bor_bdt-pos-PRON.html">PRON</a></tt> (12; 0% instances), <tt><a href="bor_bdt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt> (12; 0% instances), <tt><a href="bor_bdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="bor_bdt-pos-PRON.html">PRON</a></tt> (11; 0% instances), <tt><a href="bor_bdt-pos-DET.html">DET</a></tt>-<tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> (11; 0% instances), <tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bor_bdt-pos-X.html">X</a></tt> (11; 0% instances), <tt><a href="bor_bdt-pos-PART.html">PART</a></tt>-<tt><a href="bor_bdt-pos-PROPN.html">PROPN</a></tt> (11; 0% instances), <tt><a href="bor_bdt-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="bor_bdt-pos-PRON.html">PRON</a></tt> (11; 0% instances), <tt><a href="bor_bdt-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="bor_bdt-pos-PRON.html">PRON</a></tt> (11; 0% instances), <tt><a href="bor_bdt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> (9; 0% instances), <tt><a href="bor_bdt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="bor_bdt-pos-PROPN.html">PROPN</a></tt> (8; 0% instances), <tt><a href="bor_bdt-pos-NUM.html">NUM</a></tt>-<tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> (8; 0% instances), <tt><a href="bor_bdt-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="bor_bdt-pos-PROPN.html">PROPN</a></tt> (8; 0% instances), <tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bor_bdt-pos-AUX.html">AUX</a></tt> (8; 0% instances), <tt><a href="bor_bdt-pos-ADV.html">ADV</a></tt>-<tt><a href="bor_bdt-pos-ADP.html">ADP</a></tt> (6; 0% instances), <tt><a href="bor_bdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="bor_bdt-pos-X.html">X</a></tt> (6; 0% instances), <tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bor_bdt-pos-INTJ.html">INTJ</a></tt> (6; 0% instances), <tt><a href="bor_bdt-pos-X.html">X</a></tt>-<tt><a href="bor_bdt-pos-ADP.html">ADP</a></tt> (6; 0% instances), <tt><a href="bor_bdt-pos-X.html">X</a></tt>-<tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt> (6; 0% instances), <tt><a href="bor_bdt-pos-ADV.html">ADV</a></tt>-<tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt> (5; 0% instances), <tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bor_bdt-pos-ADP.html">ADP</a></tt> (5; 0% instances), <tt><a href="bor_bdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="bor_bdt-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="bor_bdt-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> (5; 0% instances), <tt><a href="bor_bdt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="bor_bdt-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="bor_bdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="bor_bdt-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bor_bdt-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bor_bdt-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances), <tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bor_bdt-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="bor_bdt-pos-PART.html">PART</a></tt>-<tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="bor_bdt-pos-PRON.html">PRON</a></tt>-<tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="bor_bdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="bor_bdt-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="bor_bdt-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="bor_bdt-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="bor_bdt-pos-ADV.html">ADV</a></tt>-<tt><a href="bor_bdt-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="bor_bdt-pos-ADV.html">ADV</a></tt>-<tt><a href="bor_bdt-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="bor_bdt-pos-AUX.html">AUX</a></tt>-<tt><a href="bor_bdt-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="bor_bdt-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="bor_bdt-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="bor_bdt-pos-DET.html">DET</a></tt>-<tt><a href="bor_bdt-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="bor_bdt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="bor_bdt-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="bor_bdt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="bor_bdt-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="bor_bdt-pos-NUM.html">NUM</a></tt>-<tt><a href="bor_bdt-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="bor_bdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="bor_bdt-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="bor_bdt-pos-X.html">X</a></tt>-<tt><a href="bor_bdt-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="bor_bdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="bor_bdt-pos-ADP.html">ADP</a></tt>-<tt><a href="bor_bdt-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="bor_bdt-pos-ADP.html">ADP</a></tt>-<tt><a href="bor_bdt-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="bor_bdt-pos-ADP.html">ADP</a></tt>-<tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="bor_bdt-pos-ADV.html">ADV</a></tt>-<tt><a href="bor_bdt-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="bor_bdt-pos-ADV.html">ADV</a></tt>-<tt><a href="bor_bdt-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="bor_bdt-pos-ADV.html">ADV</a></tt>-<tt><a href="bor_bdt-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="bor_bdt-pos-AUX.html">AUX</a></tt>-<tt><a href="bor_bdt-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="bor_bdt-pos-AUX.html">AUX</a></tt>-<tt><a href="bor_bdt-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="bor_bdt-pos-AUX.html">AUX</a></tt>-<tt><a href="bor_bdt-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="bor_bdt-pos-AUX.html">AUX</a></tt>-<tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="bor_bdt-pos-AUX.html">AUX</a></tt>-<tt><a href="bor_bdt-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="bor_bdt-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="bor_bdt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="bor_bdt-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="bor_bdt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="bor_bdt-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bor_bdt-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bor_bdt-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="bor_bdt-pos-NUM.html">NUM</a></tt>-<tt><a href="bor_bdt-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="bor_bdt-pos-PART.html">PART</a></tt>-<tt><a href="bor_bdt-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="bor_bdt-pos-PART.html">PART</a></tt>-<tt><a href="bor_bdt-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="bor_bdt-pos-PART.html">PART</a></tt>-<tt><a href="bor_bdt-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="bor_bdt-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="bor_bdt-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="bor_bdt-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="bor_bdt-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="bor_bdt-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bor_bdt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bor_bdt-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bor_bdt-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="bor_bdt-pos-X.html">X</a></tt>-<tt><a href="bor_bdt-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -23,27 +22,12 @@ The following 25 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 nsubj	color:blue
-1	Ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	2	nsubj	_	_
-2	tuiebu	ebu	VERB	v	Number=Sing|Person=3|Reflex=Yes	0	root	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 8 nsubj	color:blue
-1	Arigao	Arigao	PROPN	propn	_	3	nsubj	_	_
-2	Bororo	Bororo	PROPN	propn	_	1	compound	_	_
-3	biagare	biaga	NOUN	n	Mood=Ind|Number=Sing	0	root	_	_
-4	tuje	tuje	ADV	adv	_	3	advmod	_	_
-5	oino	oino	ADV	x	_	3	advmod	_	_
-6	,	,	PUNCT	punct	_	3	punct	_	_
-7	dykaere	dykae	ADV	adv	Mood=Ind	9	advmod	_	_
-8	boe	boe	NOUN	n	Number=Plur	9	nsubj	_	_
-9	etaregodyre	aregody	VERB	v	Mood=Ind|Number=Plur|Person=3	3	parataxis	_	_
+1	Barrabás	Barrabás	NOUN	n	_	2	nsubj	_	_
+2	tawuje	tawuje	VERB	vt	Number=Sing|Person=3	0	root	_	_
+3	baicorewu	baico	NOUN	n	Mood=Ind|Nomzr=Rel	2	obl	_	_
+4	piji	piji	ADP	posp	Number=Sing|Person=3	3	case	_	_
+5	cenai	ai	ADP	posp	Clusivity=Ex|Number=Sing|Person=1	2	obl	_	_
+6	.	.	PUNCT	punct	_	2	punct	_	_
 
 ~~~
 
@@ -51,17 +35,36 @@ The following 25 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 ~~~ conllu
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 4 nsubj	color:blue
+1	Du	du	NOUN	n	_	6	obl	_	_
+2	keje	keje	ADP	posp	Number=Sing	1	case	_	_
+3	icare	icare	ADV	adv	_	6	advmod	_	_
+4	ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	6	nsubj	_	_
+5	tugera	iera	NOUN	n	Number=Sing|Reflex=Yes	6	obj	_	_
+6	tugu	tugu	VERB	vt	Number=Sing|Person=3	0	root	_	_
+7	nowu	nowu	DET	dem	Deixis=Med	8	det	_	_
+8	bapoto	bapo	VERB	v	Number=Sing|Person=3|Voice=Cau	6	parataxis	_	_
+9	.	.	PUNCT	punct	_	6	punct	_	SpacesAfter=\r\n\r\n
+
+~~~
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 5 4 nsubj	color:blue
-1	Pemo	Pemo	PROPN	propn	_	3	discourse	_	_
-2	,	,	PUNCT	punct	_	1	punct	_	_
-3	oinore	oino	ADV	adv	Mood=Ind	0	root	_	_
-4	Pao	oga	NOUN	n	Clusivity=In|Number=Sing|Number[psor]=Sing|Person=1	5	nsubj	_	_
-5	iere	ie	NOUN	n	Mood=Ind|Number=Sing|Person=3	3	ccomp	_	_
-6	boe	boe	NOUN	n	Number=Sing	5	obl	_	_
-7	oto	oto	NOUN	n	Number=Sing	6	compound	_	_
-8	ji	ji	ADP	posp	Number=Sing|Person=3	6	case	_	_
+# visual-style 5 2 nsubj	color:blue
+1	Icare	icare	ADV	adv	_	2	advmod	_	_
+2	erore	ro	VERB	v	Mood=Ind|Number=Plur|Person=3	5	nsubj	_	_
+3	taci	taci	ADV	adv	_	2	advmod	_	_
+4	toro	toro	ADV	adv	Deixis=Remt	2	advmod	_	_
+5	tuwobe	tuwobe	VERB	vt	Number=Sing|Person=3	0	root	_	_
+6	emuga	_	NOUN	n	_	5	obl	_	_
+7	kae	kae	ADP	posp	Number=Sing|Person=3	6	case	_	_
+8	.	.	PUNCT	punct	_	5	punct	_	SpacesAfter=\r\n\r\n
 
 ~~~
 

@@ -50,7 +50,7 @@ The following 3 pairs of parts of speech are connected with `compound:prt`: <tt>
 10	considera	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	_
 11	extremadamente	extremadamente	ADV	RB	_	12	advmod	_	_
 12	poco	poco	ADV	RB	_	13	advmod	_	_
-13	apropiado	apropiado	ADJ	JJ	Gender=Masc|Number=Sing	0	root	_	_
+13	apropiado	apropiado	ADJ	JJ	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
 14	usar	usar	VERB	VB	VerbForm=Inf	13	csubj	_	_
 15	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
 16	nombre	nombre	NOUN	NN	Gender=Masc|Number=Sing	14	obj	_	_

@@ -13,6 +13,7 @@ udver: '2'
   <td><a href="#Acc">Acc</a></td>
   <td><a href="#Abl">Abl</a></td>
   <td><a href="#Voc">Voc</a></td>
+  <td><a href="#Gen">Gen</a></td>
 </tr>
 </table>
 
@@ -74,9 +75,11 @@ Example of a noun with five different forms: تول _tol_ “weight”
 The direct case (tagged as nominative in UD) is the base form of declinable parts of speech.
 It serves as a lemma.
 It is used for subjects or objects except the cases described below for the oblique.
-It is used also for nominal parts of nominal predicates, non-prepositional nominal modifiers
+It is used also for nominal parts of nominal predicates, non-prepositional nominal modifiers,
 temporal ranges and in several other cases.
+
 <!--
+tak ja uz fakt neviem, ako to spravit
 * Other occurrences of the direct and oblique case are generally accompanied by an adposition, altghough various exceptions of nominals in the bare direct and oblique case, that are not a core argument, may exist:
   * Temporal range (دوه ساعته خوب کوم _dwa **sâáta** xob kawë́m_ “I sleep for two hours”).
   * Nominal part of a light verb !!!
@@ -153,6 +156,12 @@ Other nouns and adjectives (all masculine/feminine, singular/plural) share the f
 #### Examples
 * **زلمیه هلکه**، دلته راشه _**zalmáya halë́ka**, dë́lta rấša_ “young boy, come here”
 * **ړندې پېغلې**، دلته راشه _**ṛandé péġle**, dë́lta rấša_ “blind girl, come here”
-* **نوو کورونو**، دلته راشه _**në́wo korúno**, dë́lta rấša_ “new houses, come here”
+* **نوو کورونو**، دلته راشئ _**në́wo korúno**, dë́lta rấšëy_ “new houses, come here”
 
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:33 CET -->
+
+### <a name="Gen">`Gen`</a>: genitive
+
+
+#### Examples
+
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:44 CEST -->

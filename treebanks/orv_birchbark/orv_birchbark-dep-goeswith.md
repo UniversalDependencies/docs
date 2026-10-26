@@ -32,7 +32,7 @@ The following 2 pairs of parts of speech are connected with `goeswith`: <tt><a h
 8	тѧ	ты	PRON	_	Case=Acc|Clitic=Yes|Number=Sing|Person=2	9	obj	_	wf="тѧ"|addr="705:4"|_
 9	передамо	передати	VERB	_	Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	wf="передамо"|comment="tense_nonpast"|addr="705:4"|_
 10	свѧтее	свѧтыи	ADJ	_	Case=Dat|Gender=Fem|Number=Sing	11	amod	_	wf="свѧтее"|addr="705:4"|_
-11	богородице	Богородица	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	9	obj	_	wf="богородице"|addr="705:4"|_
+11	богородице	Богородица	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	9	iobj	_	wf="богородице"|addr="705:4"|_
 12	ко	къ	ADP	_	_	13	case	_	wf="ко"|addr="705:4"|_
 13	нее	иже	DET	_	Case=Dat|Gender=Fem|Number=Sing|PronType=Rel|Typo=Yes	16	obl	_	wf="нее"|addr="705:4"|_
 14	же	_	X	_	_	13	goeswith	_	wf="же"|addr="705:4"|_

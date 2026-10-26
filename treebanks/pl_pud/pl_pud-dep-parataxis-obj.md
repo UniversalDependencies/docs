@@ -6,15 +6,15 @@ udver: '2'
 
 ## Treebank Statistics: UD_Polish-PUD: Relations: `parataxis:obj`
 
-This relation is a language-specific subtype of .
+This relation is a language-specific subtype of <tt><a href="pl_pud-dep-parataxis.html">parataxis</a></tt>.
 There are also 1 other language-specific subtypes of `parataxis`: <tt><a href="pl_pud-dep-parataxis-insert.html">parataxis:insert</a></tt>.
 
-46 nodes (0%) are attached to their parents as `parataxis:obj`.
+47 nodes (0%) are attached to their parents as `parataxis:obj`.
 
-40 instances of `parataxis:obj` (87%) are right-to-left (child precedes parent).
-Average distance between parent and child is 10.7608695652174.
+40 instances of `parataxis:obj` (85%) are right-to-left (child precedes parent).
+Average distance between parent and child is 10.6170212765957.
 
-The following 4 pairs of parts of speech are connected with `parataxis:obj`: <tt><a href="pl_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_pud-pos-VERB.html">VERB</a></tt> (33; 72% instances), <tt><a href="pl_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_pud-pos-NOUN.html">NOUN</a></tt> (7; 15% instances), <tt><a href="pl_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt> (5; 11% instances), <tt><a href="pl_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_pud-pos-PRON.html">PRON</a></tt> (1; 2% instances).
+The following 5 pairs of parts of speech are connected with `parataxis:obj`: <tt><a href="pl_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_pud-pos-VERB.html">VERB</a></tt> (33; 70% instances), <tt><a href="pl_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_pud-pos-NOUN.html">NOUN</a></tt> (7; 15% instances), <tt><a href="pl_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt> (5; 11% instances), <tt><a href="pl_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_pud-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="pl_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_pud-pos-PRON.html">PRON</a></tt> (1; 2% instances).
 
 
 ~~~ conllu

@@ -49,7 +49,7 @@ The following 27 pairs of parts of speech are connected with `csubj`: <tt><a hre
 # visual-style 7 9 csubj	color:blue
 1	-	$-	PUNCT	<strek>	_	7	punct	_	_
 2	Kor	kor	ADV	adv	_	3	advmod	_	_
-3	lang	lang	ADJ	adj	Definite=Ind|Degree=Pos|Gender=Fem,Masc	4	amod	_	_
+3	lang	lang	ADJ	adj	Definite=Ind|Degree=Pos|Gender=Com	4	amod	_	_
 4	tid	tid	NOUN	subst	Definite=Ind|Gender=Fem	7	obj	_	_
 5	vil	vilje	AUX	verb	Mood=Ind|Tense=Pres|VerbForm=Fin	7	aux	_	_
 6	det	det	PRON	pron	Gender=Neut|Person=3|PronType=Prs	7	expl	_	_

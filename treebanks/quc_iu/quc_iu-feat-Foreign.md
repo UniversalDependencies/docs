@@ -23,5 +23,5 @@ The most frequent other feature values with which `NOUN` and `Foreign` co-occurr
 `NOUN` tokens may have the following values of `Foreign`:
 
 * `Yes` (4; 100% of non-empty `Foreign`): <em>coronavirus, nodo</em>
-* `EMPTY` (2435): <em>e, rukʼ, ja, rumal, uwach, winaq, rech, achi, ali, ke</em>
+* `EMPTY` (2434): <em>e, rukʼ, ja, rumal, uwach, winaq, rech, achi, ali, ke</em>
 

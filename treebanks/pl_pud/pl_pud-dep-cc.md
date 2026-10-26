@@ -14,7 +14,7 @@ There are 1 language-specific subtypes of `cc`: <tt><a href="pl_pud-dep-cc-preco
 556 instances of `cc` (100%) are right-to-left (child precedes parent).
 Average distance between parent and child is 2.25314183123878.
 
-The following 10 pairs of parts of speech are connected with `cc`: <tt><a href="pl_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_pud-pos-CCONJ.html">CCONJ</a></tt> (211; 38% instances), <tt><a href="pl_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_pud-pos-CCONJ.html">CCONJ</a></tt> (189; 34% instances), <tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_pud-pos-CCONJ.html">CCONJ</a></tt> (74; 13% instances), <tt><a href="pl_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pl_pud-pos-CCONJ.html">CCONJ</a></tt> (63; 11% instances), <tt><a href="pl_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="pl_pud-pos-CCONJ.html">CCONJ</a></tt> (4; 1% instances), <tt><a href="pl_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="pl_pud-pos-CCONJ.html">CCONJ</a></tt> (4; 1% instances), <tt><a href="pl_pud-pos-DET.html">DET</a></tt>-<tt><a href="pl_pud-pos-CCONJ.html">CCONJ</a></tt> (3; 1% instances), <tt><a href="pl_pud-pos-PART.html">PART</a></tt>-<tt><a href="pl_pud-pos-CCONJ.html">CCONJ</a></tt> (3; 1% instances), <tt><a href="pl_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="pl_pud-pos-CCONJ.html">CCONJ</a></tt> (3; 1% instances), <tt><a href="pl_pud-pos-X.html">X</a></tt>-<tt><a href="pl_pud-pos-CCONJ.html">CCONJ</a></tt> (3; 1% instances).
+The following 10 pairs of parts of speech are connected with `cc`: <tt><a href="pl_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_pud-pos-CCONJ.html">CCONJ</a></tt> (209; 38% instances), <tt><a href="pl_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_pud-pos-CCONJ.html">CCONJ</a></tt> (189; 34% instances), <tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_pud-pos-CCONJ.html">CCONJ</a></tt> (74; 13% instances), <tt><a href="pl_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pl_pud-pos-CCONJ.html">CCONJ</a></tt> (63; 11% instances), <tt><a href="pl_pud-pos-X.html">X</a></tt>-<tt><a href="pl_pud-pos-CCONJ.html">CCONJ</a></tt> (5; 1% instances), <tt><a href="pl_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="pl_pud-pos-CCONJ.html">CCONJ</a></tt> (4; 1% instances), <tt><a href="pl_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="pl_pud-pos-CCONJ.html">CCONJ</a></tt> (4; 1% instances), <tt><a href="pl_pud-pos-DET.html">DET</a></tt>-<tt><a href="pl_pud-pos-CCONJ.html">CCONJ</a></tt> (3; 1% instances), <tt><a href="pl_pud-pos-PART.html">PART</a></tt>-<tt><a href="pl_pud-pos-CCONJ.html">CCONJ</a></tt> (3; 1% instances), <tt><a href="pl_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="pl_pud-pos-CCONJ.html">CCONJ</a></tt> (3; 1% instances).
 
 
 ~~~ conllu
@@ -73,7 +73,7 @@ The following 10 pairs of parts of speech are connected with `cc`: <tt><a href="
 5	zarówno	zarówno	CCONJ	conj	_	6	cc:preconj	6:cc:preconj	_
 6	twardy	twardy	ADJ	adj:sg:nom:m3:pos	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	0	root	0:root	SpaceAfter=No
 7	,	,	PUNCT	interp	PunctType=Comm	10	punct	10:punct	_
-8	jak	jak	CCONJ	conj	_	10	cc	10:cc	_
+8	jak	jak	CCONJ	conj	ExtPos=CCONJ	10	cc	10:cc	_
 9	i	i	CCONJ	conj	_	8	fixed	8:fixed	_
 10	subtelny	subtelny	ADJ	adj:sg:nom:m3:pos	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	6	conj	0:root|6:conj	SpaceAfter=No
 11	.	.	PUNCT	interp	PunctType=Peri	6	punct	6:punct	_

@@ -42,7 +42,7 @@ The following 7 pairs of parts of speech are connected with `ccomp`: <tt><a href
 # visual-style 5	fgColor:white
 # visual-style 5 9 ccomp	color:blue
 1	Oye	oír	VERB	vmm02s0	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	SpaceAfter=No
-2	,	,	PUNCT	fc	PunctType=Comm	1	punct	_	_
+2	,	,	PUNCT	fc	PunctType=Comm	5	punct	_	_
 3	que	que	SCONJ	pr0cn000	_	5	mark	_	_
 4	eso	ese	PRON	pd0ns000	Number=Sing|PronType=Dem	5	nsubj	_	_
 5	es	ser	AUX	vsip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	ccomp	_	_
@@ -62,7 +62,7 @@ The following 7 pairs of parts of speech are connected with `ccomp`: <tt><a href
 # visual-style 1	fgColor:white
 # visual-style 1 5 ccomp	color:blue
 1	Oye	oír	VERB	vmm02s0	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	SpaceAfter=No
-2	,	,	PUNCT	fc	PunctType=Comm	1	punct	_	_
+2	,	,	PUNCT	fc	PunctType=Comm	5	punct	_	_
 3	que	que	SCONJ	pr0cn000	_	5	mark	_	_
 4	eso	ese	PRON	pd0ns000	Number=Sing|PronType=Dem	5	nsubj	_	_
 5	es	ser	AUX	vsip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	ccomp	_	_

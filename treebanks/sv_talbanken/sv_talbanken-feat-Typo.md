@@ -9,10 +9,10 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Yes`.
 
-3 tokens (0%) have a non-empty value of `Typo`.
-3 types (0%) occur at least once with a non-empty value of `Typo`.
-3 lemmas (0%) occur at least once with a non-empty value of `Typo`.
-The feature is used with 2 part-of-speech tags: <tt><a href="sv_talbanken-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="sv_talbanken-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+4 tokens (0%) have a non-empty value of `Typo`.
+4 types (0%) occur at least once with a non-empty value of `Typo`.
+4 lemmas (0%) occur at least once with a non-empty value of `Typo`.
+The feature is used with 3 part-of-speech tags: <tt><a href="sv_talbanken-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="sv_talbanken-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 ### `ADJ`
 
@@ -31,4 +31,14 @@ The most frequent other feature values with which `ADJ` and `Typo` co-occurred: 
 `ADP` tokens may have the following values of `Typo`:
 
 * `Yes` (1; 100% of non-empty `Typo`): <em>efter</em>
+
+### `ADV`
+
+1 <tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt> tokens (0% of all `ADV` tokens) have a non-empty value of `Typo`.
+
+The most frequent other feature values with which `ADV` and `Typo` co-occurred: <tt><a href="sv_talbanken-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (1; 100%).
+
+`ADV` tokens may have the following values of `Typo`:
+
+* `Yes` (1; 100% of non-empty `Typo`): <em>juridisk</em>
 

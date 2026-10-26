@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Kiche-IU: POS Tags: `PROPN`
 
 There are 103 `PROPN` lemmas (7%), 103 `PROPN` types (5%) and 173 `PROPN` tokens (2%).
-Out of 15 observed tags, the rank of `PROPN` is: 4 in number of lemmas, 4 in number of types and 11 in number of tokens.
+Out of 16 observed tags, the rank of `PROPN` is: 4 in number of lemmas, 4 in number of types and 11 in number of tokens.
 
 The 10 most frequent `PROPN` lemmas: <em>Teʼk, Xwan, Luʼ, Poʼx, Luʼs, Nawaljaʼ, Wel, COVID-19, Jun, Kel</em>
 
@@ -31,7 +31,7 @@ The 10 most frequent ambiguous types:  <em>Jun</em> (<tt><a href="quc_iu-pos-DET
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.000000 (the average of all parts of speech is 1.617880).
+The form / lemma ratio of `PROPN` is 1.000000 (the average of all parts of speech is 1.617435).
 
 The 1st highest number of forms (1) was observed with the lemma “Abʼaj”: <em>Abʼaj</em>.
 

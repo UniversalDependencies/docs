@@ -21,7 +21,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="de_lit-pos-ADV.html
 `ADV` tokens may have the following values of `Abbr`:
 
 * `Yes` (2; 100% of non-empty `Abbr`): <em>s, w</em>
-* `EMPTY` (3586): <em>so, nur, auch, selbst, wie, noch, doch, aber, immer, wohl</em>
+* `EMPTY` (3585): <em>so, nur, auch, selbst, wie, noch, doch, aber, immer, wohl</em>
 
 ### `CCONJ`
 
@@ -30,7 +30,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="de_lit-pos-ADV.html
 `CCONJ` tokens may have the following values of `Abbr`:
 
 * `Yes` (1; 100% of non-empty `Abbr`): <em>u</em>
-* `EMPTY` (1940): <em>und, oder, als, wie, aber, sondern, denn, noch, entweder, desto</em>
+* `EMPTY` (1927): <em>und, oder, als, wie, aber, sondern, denn, noch, entweder, desto</em>
 
 ## Relations with Agreement in `Abbr`
 

@@ -12,7 +12,7 @@ It occurs with 2 different values: `Plur`, `Sing`.
 1807 tokens (51%) have a non-empty value of `Number`.
 990 types (81%) occur at least once with a non-empty value of `Number`.
 750 lemmas (76%) occur at least once with a non-empty value of `Number`.
-The feature is used with 7 part-of-speech tags: <tt><a href="sq_staf-pos-NOUN.html">NOUN</a></tt> (602; 17% instances), <tt><a href="sq_staf-pos-VERB.html">VERB</a></tt> (337; 9% instances), <tt><a href="sq_staf-pos-PRON.html">PRON</a></tt> (333; 9% instances), <tt><a href="sq_staf-pos-DET.html">DET</a></tt> (234; 7% instances), <tt><a href="sq_staf-pos-ADJ.html">ADJ</a></tt> (162; 5% instances), <tt><a href="sq_staf-pos-AUX.html">AUX</a></tt> (108; 3% instances), <tt><a href="sq_staf-pos-PROPN.html">PROPN</a></tt> (31; 1% instances).
+The feature is used with 7 part-of-speech tags: <tt><a href="sq_staf-pos-NOUN.html">NOUN</a></tt> (602; 17% instances), <tt><a href="sq_staf-pos-VERB.html">VERB</a></tt> (337; 9% instances), <tt><a href="sq_staf-pos-PRON.html">PRON</a></tt> (334; 9% instances), <tt><a href="sq_staf-pos-DET.html">DET</a></tt> (233; 7% instances), <tt><a href="sq_staf-pos-ADJ.html">ADJ</a></tt> (162; 5% instances), <tt><a href="sq_staf-pos-AUX.html">AUX</a></tt> (108; 3% instances), <tt><a href="sq_staf-pos-PROPN.html">PROPN</a></tt> (31; 1% instances).
 
 ### `NOUN`
 
@@ -42,7 +42,7 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 
 337 <tt><a href="sq_staf-pos-VERB.html">VERB</a></tt> tokens (78% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="sq_staf-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (337; 100%), <tt><a href="sq_staf-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (317; 94%), <tt><a href="sq_staf-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (268; 80%), <tt><a href="sq_staf-feat-Person.html">Person</a></tt><tt>=3</tt> (240; 71%), <tt><a href="sq_staf-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (181; 54%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="sq_staf-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (337; 100%), <tt><a href="sq_staf-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (317; 94%), <tt><a href="sq_staf-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (268; 80%), <tt><a href="sq_staf-feat-Person.html">Person</a></tt><tt>=3</tt> (240; 71%), <tt><a href="sq_staf-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (181; 54%).
 
 `VERB` tokens may have the following values of `Number`:
 
@@ -64,14 +64,14 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 ### `PRON`
 
-333 <tt><a href="sq_staf-pos-PRON.html">PRON</a></tt> tokens (77% of all `PRON` tokens) have a non-empty value of `Number`.
+334 <tt><a href="sq_staf-pos-PRON.html">PRON</a></tt> tokens (77% of all `PRON` tokens) have a non-empty value of `Number`.
 
 The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="sq_staf-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (248; 74%).
 
 `PRON` tokens may have the following values of `Number`:
 
-* `Plur` (55; 17% of non-empty `Number`): <em>i, cilët, na, ata, këto, ato, ne, tjerë, tyre, Këta</em>
-* `Sing` (278; 83% of non-empty `Number`): <em>e, i, më, unë, ai, kjo, tij, ky, ajo, atë</em>
+* `Plur` (55; 16% of non-empty `Number`): <em>i, cilët, na, ata, këto, ato, ne, tjerë, tyre, Këta</em>
+* `Sing` (279; 84% of non-empty `Number`): <em>e, i, më, unë, ai, kjo, tij, ky, ajo, atë</em>
 * `EMPTY` (97): <em>që, ç', asgjë, e, më, ndonjë, asnjë, kush, çdo, diçka</em>
 
 <table>
@@ -79,6 +79,7 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
   <tr><td><tt><tt><a href="sq_staf-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="sq_staf-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="sq_staf-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="sq_staf-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>e, atë, i, të</em></td><td><em>i</em></td></tr>
   <tr><td><tt><tt><a href="sq_staf-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="sq_staf-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="sq_staf-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td><em>atë</em></td><td></td></tr>
   <tr><td><tt><tt><a href="sq_staf-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="sq_staf-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="sq_staf-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>i</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="sq_staf-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="sq_staf-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="sq_staf-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>e</em></td><td></td></tr>
   <tr><td><tt><tt><a href="sq_staf-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="sq_staf-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="sq_staf-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="sq_staf-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>e</em></td><td><em>i</em></td></tr>
   <tr><td><tt><tt><a href="sq_staf-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="sq_staf-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="sq_staf-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>e</em></td><td></td></tr>
   <tr><td><tt><tt><a href="sq_staf-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="sq_staf-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="sq_staf-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>e</em></td><td><em>i</em></td></tr>
@@ -94,14 +95,14 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 ### `DET`
 
-234 <tt><a href="sq_staf-pos-DET.html">DET</a></tt> tokens (78% of all `DET` tokens) have a non-empty value of `Number`.
+233 <tt><a href="sq_staf-pos-DET.html">DET</a></tt> tokens (78% of all `DET` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="sq_staf-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (234; 100%), <tt><a href="sq_staf-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (157; 67%), <tt><a href="sq_staf-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (146; 62%).
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="sq_staf-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (233; 100%), <tt><a href="sq_staf-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (157; 67%), <tt><a href="sq_staf-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (146; 63%).
 
 `DET` tokens may have the following values of `Number`:
 
 * `Plur` (49; 21% of non-empty `Number`): <em>të, e, së</em>
-* `Sing` (185; 79% of non-empty `Number`): <em>e, të, i, së</em>
+* `Sing` (184; 79% of non-empty `Number`): <em>e, të, i, së</em>
 * `EMPTY` (66): <em>një, e, të, i, nja, pak</em>
 
 <table>
@@ -114,7 +115,7 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
   <tr><td><tt><tt><a href="sq_staf-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="sq_staf-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="sq_staf-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>e</em></td><td><em>e</em></td></tr>
   <tr><td><tt><tt><a href="sq_staf-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>e</em></td><td><em>e</em></td></tr>
   <tr><td><tt><tt><a href="sq_staf-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>e</em></td><td><em>e</em></td></tr>
-  <tr><td><tt><tt><a href="sq_staf-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="sq_staf-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td></td><td><em>e</em></td></tr>
+  <tr><td><tt><tt><a href="sq_staf-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="sq_staf-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>e</em></td><td><em>e</em></td></tr>
 </table>
 
 ### `ADJ`
@@ -144,7 +145,7 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 
 108 <tt><a href="sq_staf-pos-AUX.html">AUX</a></tt> tokens (78% of all `AUX` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="sq_staf-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (104; 96%), <tt><a href="sq_staf-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (100; 93%), <tt><a href="sq_staf-feat-Person.html">Person</a></tt><tt>=3</tt> (92; 85%).
+The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="sq_staf-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (107; 99%), <tt><a href="sq_staf-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (104; 96%), <tt><a href="sq_staf-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (100; 93%), <tt><a href="sq_staf-feat-Person.html">Person</a></tt><tt>=3</tt> (92; 85%).
 
 `AUX` tokens may have the following values of `Number`:
 
@@ -192,10 +193,10 @@ The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>NOUN --[<tt><a href="sq_staf-dep-amod.html">amod</a></tt>]--> ADJ</tt> (107; 91%),
 <tt>VERB --[<tt><a href="sq_staf-dep-obl.html">obl</a></tt>]--> NOUN</tt> (83; 55%),
 <tt>VERB --[<tt><a href="sq_staf-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (77; 86%),
-<tt>VERB --[<tt><a href="sq_staf-dep-obj.html">obj</a></tt>]--> NOUN</tt> (76; 68%),
-<tt>VERB --[<tt><a href="sq_staf-dep-obj.html">obj</a></tt>]--> PRON</tt> (51; 52%),
+<tt>VERB --[<tt><a href="sq_staf-dep-obj.html">obj</a></tt>]--> NOUN</tt> (74; 67%),
 <tt>VERB --[<tt><a href="sq_staf-dep-iobj.html">iobj</a></tt>]--> PRON</tt> (47; 64%),
 <tt>VERB --[<tt><a href="sq_staf-dep-conj.html">conj</a></tt>]--> VERB</tt> (44; 73%),
 <tt>VERB --[<tt><a href="sq_staf-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (40; 60%),
-<tt>NOUN --[<tt><a href="sq_staf-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (35; 71%).
+<tt>NOUN --[<tt><a href="sq_staf-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (36; 72%),
+<tt>NOUN --[<tt><a href="sq_staf-dep-det-poss.html">det:poss</a></tt>]--> PRON</tt> (33; 97%).
 

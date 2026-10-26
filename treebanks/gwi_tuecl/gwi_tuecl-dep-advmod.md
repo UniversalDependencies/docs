@@ -11,9 +11,9 @@ This relation is universal.
 46 nodes (5%) are attached to their parents as `advmod`.
 
 34 instances of `advmod` (74%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.08695652173913.
+Average distance between parent and child is 2.10869565217391.
 
-The following 5 pairs of parts of speech are connected with `advmod`: <tt><a href="gwi_tuecl-pos-VERB.html">VERB</a></tt>-<tt><a href="gwi_tuecl-pos-ADV.html">ADV</a></tt> (33; 72% instances), <tt><a href="gwi_tuecl-pos-VERB.html">VERB</a></tt>-<tt><a href="gwi_tuecl-pos-PART.html">PART</a></tt> (6; 13% instances), <tt><a href="gwi_tuecl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gwi_tuecl-pos-ADV.html">ADV</a></tt> (4; 9% instances), <tt><a href="gwi_tuecl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gwi_tuecl-pos-PART.html">PART</a></tt> (2; 4% instances), <tt><a href="gwi_tuecl-pos-VERB.html">VERB</a></tt>-<tt><a href="gwi_tuecl-pos-DET.html">DET</a></tt> (1; 2% instances).
+The following 5 pairs of parts of speech are connected with `advmod`: <tt><a href="gwi_tuecl-pos-VERB.html">VERB</a></tt>-<tt><a href="gwi_tuecl-pos-ADV.html">ADV</a></tt> (34; 74% instances), <tt><a href="gwi_tuecl-pos-VERB.html">VERB</a></tt>-<tt><a href="gwi_tuecl-pos-PART.html">PART</a></tt> (6; 13% instances), <tt><a href="gwi_tuecl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gwi_tuecl-pos-ADV.html">ADV</a></tt> (3; 7% instances), <tt><a href="gwi_tuecl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gwi_tuecl-pos-PART.html">PART</a></tt> (2; 4% instances), <tt><a href="gwi_tuecl-pos-VERB.html">VERB</a></tt>-<tt><a href="gwi_tuecl-pos-DET.html">DET</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -49,17 +49,27 @@ The following 5 pairs of parts of speech are connected with `advmod`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 1 advmod	color:blue
-1	Oodee	oodee	ADV	_	_	4	advmod	_	Gloss=at a point up above|MSeg=oo-dee|MGloss=PROX-PNCT.up_above
-2	ddhah	ddhah	NOUN	_	_	4	obl	_	Gloss=mountain
-3	kat	kat	ADP	_	_	2	case	_	Gloss=on
-4	aat’oo	aat'oo	NOUN	_	_	5	nsubj	_	Gloss=birch
-5	neiinghaa	_	VERB	_	_	0	root	_	Gloss=the stick-like object fell|MSeg=nee#iin-ghaa|MGloss=ITER-3SG.PFV.Ø-stick_like_falls|SpaceAfter=No
-6	.	_	PUNCT	_	_	5	punct	_	_
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 7 advmod	color:blue
+1	Zhat	zhat	ADV	_	_	5	advmod	_	Gloss=that area; there
+2	dą̀į’	dą̀į’	ADV	_	_	5	advmod	_	Gloss=when (referring to the past)
+3	Jim	Jim	PROPN	_	_	5	nsubj	_	Gloss=Jim
+4	Dodson	Dodson	PROPN	_	_	3	flat	_	Gloss=Dodson
+5	neech’ahąąht’ee	neech’ahąąht’ee	NOUN	_	_	0	root	_	Gloss=airplane pilot
+6	gàa	gàa	CCONJ	_	_	10	cc	_	Gloss=but
+7	oondàk	oondàk	ADV	_	_	10	advmod	_	Gloss=toward a short distance up, inland from the river|MSeg=oon-dàk|MGloss=PROX-up from shore, inland.ALL
+8	Vashrą̀įį	Vashrą̀įį	PROPN	_	_	10	nsubj	_	Gloss=Arctic Village
+9	K’ǫǫ	K’ǫǫ	PROPN	_	_	8	flat	_	Gloss=Arctic Village
+10	gwalàràa	làraa	NOUN	_	_	5	conj	_	Gloss=enough money|MSeg=gwï-làràa|MGloss=AR-money
+11	kwaa	kwaa	PART	_	_	10	advmod	_	Gloss=not
+12	ts’à’	ts’à’	CCONJ	_	_	14	cc	_	Gloss=and
+13	zhat	zhat	ADV	_	_	14	advmod	_	Gloss=that area; there
+14	gwąąh’in	gwąąh'in	VERB	_	_	5	conj	_	Gloss=s/he is looking; s/he sees|MSeg=gwï-nï-ah-’in|MGloss=AR-CNJ-3SG.IPFV.Ł-see.IPFV
+15	kwaa	kwaa	PART	_	_	14	advmod	_	Gloss=not|SpaceAfter=No
+16	.	_	PUNCT	_	_	5	punct	_	_
 
 ~~~
 

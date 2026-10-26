@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Card`, `Ord`.
 
-669 tokens (1%) have a non-empty value of `NumType`.
+670 tokens (1%) have a non-empty value of `NumType`.
 106 types (1%) occur at least once with a non-empty value of `NumType`.
 56 lemmas (1%) occur at least once with a non-empty value of `NumType`.
-The feature is used with 1 part-of-speech tags: <tt><a href="ga_idt-pos-NUM.html">NUM</a></tt> (669; 1% instances).
+The feature is used with 1 part-of-speech tags: <tt><a href="ga_idt-pos-NUM.html">NUM</a></tt> (670; 1% instances).
 
 ### `NUM`
 
-669 <tt><a href="ga_idt-pos-NUM.html">NUM</a></tt> tokens (34% of all `NUM` tokens) have a non-empty value of `NumType`.
+670 <tt><a href="ga_idt-pos-NUM.html">NUM</a></tt> tokens (34% of all `NUM` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=EMPTY</tt> (411; 61%).
+The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=EMPTY</tt> (412; 61%).
 
 `NUM` tokens may have the following values of `NumType`:
 
-* `Card` (467; 70% of non-empty `NumType`): <em>trí, dhá, dá, cúig, seacht, sé, céad, deich, fiche, ceithre</em>
-* `Ord` (202; 30% of non-empty `NumType`): <em>chéad, dara, tríú, gcéad, 18ú, seachtú, naoú, 10ú, 11ú, ceathrú</em>
-* `EMPTY` (1272): <em>2006, 2007, 2017, 1, (2), 2, (b), (1), (a), 10</em>
+* `Card` (465; 69% of non-empty `NumType`): <em>trí, dhá, dá, cúig, seacht, sé, céad, deich, fiche, ceithre</em>
+* `Ord` (205; 31% of non-empty `NumType`): <em>chéad, dara, tríú, gcéad, 18ú, seachtú, naoú, 10ú, 11ú, ceathrú</em>
+* `EMPTY` (1273): <em>2006, 2007, 2017, 1, (2), 2, (b), (1), (a), 10</em>
 
 <table>
   <tr><th>Paradigm <i>dó</i></th><th><tt>Card</tt></th><th><tt>Ord</tt></th></tr>
@@ -36,6 +36,6 @@ The most frequent other feature values with which `NUM` and `NumType` co-occurre
 ## Relations with Agreement in `NumType`
 
 The 10 most frequent relations where parent and child node agree in `NumType`:
-<tt>NUM --[<tt><a href="ga_idt-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (11; 79%),
-<tt>NUM --[<tt><a href="ga_idt-dep-conj.html">conj</a></tt>]--> NUM</tt> (8; 100%).
+<tt>NUM --[<tt><a href="ga_idt-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (11; 92%),
+<tt>NUM --[<tt><a href="ga_idt-dep-conj.html">conj</a></tt>]--> NUM</tt> (10; 91%).
 

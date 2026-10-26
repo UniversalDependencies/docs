@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-339 nodes (6%) are attached to their parents as `amod`.
+338 nodes (6%) are attached to their parents as `amod`.
 
-338 instances of `amod` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.35693215339233.
+337 instances of `amod` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.43786982248521.
 
-The following 14 pairs of parts of speech are connected with `amod`: <tt><a href="uz_ut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uz_ut-pos-ADJ.html">ADJ</a></tt> (286; 84% instances), <tt><a href="uz_ut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uz_ut-pos-NOUN.html">NOUN</a></tt> (20; 6% instances), <tt><a href="uz_ut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uz_ut-pos-ADJ.html">ADJ</a></tt> (5; 1% instances), <tt><a href="uz_ut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uz_ut-pos-DET.html">DET</a></tt> (5; 1% instances), <tt><a href="uz_ut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uz_ut-pos-ADV.html">ADV</a></tt> (4; 1% instances), <tt><a href="uz_ut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="uz_ut-pos-ADJ.html">ADJ</a></tt> (4; 1% instances), <tt><a href="uz_ut-pos-DET.html">DET</a></tt>-<tt><a href="uz_ut-pos-ADJ.html">ADJ</a></tt> (3; 1% instances), <tt><a href="uz_ut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uz_ut-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="uz_ut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uz_ut-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="uz_ut-pos-NUM.html">NUM</a></tt>-<tt><a href="uz_ut-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="uz_ut-pos-VERB.html">VERB</a></tt>-<tt><a href="uz_ut-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="uz_ut-pos-NUM.html">NUM</a></tt>-<tt><a href="uz_ut-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="uz_ut-pos-VERB.html">VERB</a></tt>-<tt><a href="uz_ut-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="uz_ut-pos-VERB.html">VERB</a></tt>-<tt><a href="uz_ut-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+The following 14 pairs of parts of speech are connected with `amod`: <tt><a href="uz_ut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uz_ut-pos-ADJ.html">ADJ</a></tt> (286; 85% instances), <tt><a href="uz_ut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uz_ut-pos-NOUN.html">NOUN</a></tt> (20; 6% instances), <tt><a href="uz_ut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uz_ut-pos-ADJ.html">ADJ</a></tt> (5; 1% instances), <tt><a href="uz_ut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uz_ut-pos-DET.html">DET</a></tt> (5; 1% instances), <tt><a href="uz_ut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uz_ut-pos-ADV.html">ADV</a></tt> (4; 1% instances), <tt><a href="uz_ut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="uz_ut-pos-ADJ.html">ADJ</a></tt> (4; 1% instances), <tt><a href="uz_ut-pos-DET.html">DET</a></tt>-<tt><a href="uz_ut-pos-ADJ.html">ADJ</a></tt> (3; 1% instances), <tt><a href="uz_ut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uz_ut-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="uz_ut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uz_ut-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="uz_ut-pos-NUM.html">NUM</a></tt>-<tt><a href="uz_ut-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="uz_ut-pos-NUM.html">NUM</a></tt>-<tt><a href="uz_ut-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="uz_ut-pos-VERB.html">VERB</a></tt>-<tt><a href="uz_ut-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="uz_ut-pos-VERB.html">VERB</a></tt>-<tt><a href="uz_ut-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="uz_ut-pos-VERB.html">VERB</a></tt>-<tt><a href="uz_ut-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -26,10 +26,10 @@ The following 14 pairs of parts of speech are connected with `amod`: <tt><a href
 2	25	25	NUM	_	NumType=Card	3	nummod	_	_
 3	yil	yil	NOUN	_	Case=Nom|Number=Sing	4	nmod	_	_
 4	umrini	umr	NOUN	_	Case=Acc|Number=Sing	8	obj	_	_
-5	og‘ir	og‘ir	ADJ	_	_	6	advmod	_	_
+5	ogʻir	ogʻir	ADJ	_	_	6	advmod	_	_
 6	rejimli	rejimli	ADJ	_	_	7	amod	_	_
 7	koloniyada	koloniya	NOUN	_	Case=Loc|Number=Sing	8	obl	_	_
-8	o‘tkazadi	o‘tkaz	VERB	_	Mood=Ind|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	SpaceAfter=No
+8	oʻtkazadi	oʻtkaz	VERB	_	Mood=Ind|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	8	punct	_	_
 
 ~~~
@@ -46,7 +46,7 @@ The following 14 pairs of parts of speech are connected with `amod`: <tt><a href
 3	temir	temir	NOUN	_	Case=Nom|Number=Sing	4	amod	_	_
 4	sandiqqa	sandiq	NOUN	_	Case=Dat|Number=Sing	5	obl	_	_
 5	solib	sol	VERB	_	VerbForm=Conv	0	root	_	_
-6	qo‘ygan	qo‘y	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	compound	_	SpaceAfter=No
+6	qoʻygan	qoʻy	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	compound:svc	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	5	punct	_	_
 
 ~~~

@@ -23,14 +23,14 @@ The following 35 pairs of parts of speech are connected with `obl:arg`: <tt><a h
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 2 obl:arg	color:blue
-1	νῦν	νῦν	ADV	Df	_	7	advmod	_	ref=1.11.2|LId=1
-2	τοί	σύ	PRON	Pp	Case=Dat|Number=Sing|Person=2|PronType=Prs	7	obl:arg	_	ref=1.11.2
-3	δυῶν	δύο	NUM	Ma	Case=Gen|Number=Plur	4	nummod	_	ref=1.11.2
-4	ὁδῶν	ὁδός	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	8	nmod	_	ref=1.11.2
-5	παρεουσέων	πάρειμι	VERB	V-	Case=Gen|Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	4	acl	_	ref=1.11.2|LId=1
-6	Γύγη	Γύγης	PROPN	Ne	Case=Voc|Gender=Masc|Number=Sing	7	vocative	_	ref=1.11.2
-7	δίδωμί	δίδωμι	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=1.11.2
-8	αἵρεσιν	αἵρεσις	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	7	obj	_	ref=1.11.2
+1	νῦν	νῦν	ADV	Df	_	7	advmod	_	LId=1|Ref=1.11.2
+2	τοί	σύ	PRON	Pp	Case=Dat|Number=Sing|Person=2|PronType=Prs	7	obl:arg	_	Ref=1.11.2
+3	δυῶν	δύο	NUM	Ma	Case=Gen|Number=Plur	4	nummod	_	Ref=1.11.2
+4	ὁδῶν	ὁδός	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	8	nmod	_	Ref=1.11.2
+5	παρεουσέων	πάρειμι	VERB	V-	Case=Gen|Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	4	acl	_	LId=1|Ref=1.11.2
+6	Γύγη	Γύγης	PROPN	Ne	Case=Voc|Gender=Masc|Number=Sing	7	vocative	_	Ref=1.11.2
+7	δίδωμί	δίδωμι	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=1.11.2
+8	αἵρεσιν	αἵρεσις	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	7	obj	_	Ref=1.11.2
 
 ~~~
 
@@ -41,17 +41,17 @@ The following 35 pairs of parts of speech are connected with `obl:arg`: <tt><a h
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 11 obl:arg	color:blue
-1	κεῖται	κεῖμαι	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	ref=1.14.3
-2	δὲ	δέ	ADV	Df	_	1	discourse	_	ref=1.14.3
-3	ὁ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	5	det	_	ref=1.14.3
-4	θρόνος	θρόνος	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	ref=1.14.3
-5	οὗτος	οὗτος	DET	Pd	Case=Nom|Gender=Masc|Number=Sing	4	det	_	ref=1.14.3
-6	ἔνθα	ἔνθα	ADV	Dq	PronType=Rel	11	orphan	_	ref=1.14.3
-7	περ	πέρ	ADV	Df	_	6	discourse	_	ref=1.14.3
-8	οἱ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	11	det	_	ref=1.14.3
-9	τοῦ	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	10	det	_	ref=1.14.3
-10	Γύγεω	Γύγης	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	ref=1.14.3
-11	κρητῆρες	κρατήρ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	1	obl:arg	_	ref=1.14.3
+1	κεῖται	κεῖμαι	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	Ref=1.14.3
+2	δὲ	δέ	ADV	Df	_	1	discourse	_	Ref=1.14.3
+3	ὁ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	5	det	_	Ref=1.14.3
+4	θρόνος	θρόνος	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	Ref=1.14.3
+5	οὗτος	οὗτος	DET	Pd	Case=Nom|Gender=Masc|Number=Sing	4	det	_	Ref=1.14.3
+6	ἔνθα	ἔνθα	ADV	Dq	PronType=Rel	11	orphan	_	Ref=1.14.3
+7	περ	πέρ	ADV	Df	_	6	discourse	_	Ref=1.14.3
+8	οἱ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	11	det	_	Ref=1.14.3
+9	τοῦ	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	10	det	_	Ref=1.14.3
+10	Γύγεω	Γύγης	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	Ref=1.14.3
+11	κρητῆρες	κρατήρ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	1	obl:arg	_	Ref=1.14.3
 
 ~~~
 
@@ -62,15 +62,15 @@ The following 35 pairs of parts of speech are connected with `obl:arg`: <tt><a h
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 1 obl:arg	color:blue
-1	Ἀρισταγόρῃ	Ἀρισταγόρης	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	3	obl:arg	_	ref=5.36.1
-2	δὲ	δέ	ADV	Df	_	3	discourse	_	ref=5.36.1
-3	συνέπιπτε	συμπίπτω	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=5.36.1
-4	τοῦ	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	6	det	_	ref=5.36.1
-5	αὐτοῦ	αὐτός	DET	Pd	Case=Gen|Gender=Masc|Number=Sing	6	det	_	ref=5.36.1
-6	χρόνου	χρόνος	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	3	obl	_	ref=5.36.1
-7	πάντα	πᾶς	PRON	Px	Case=Nom|Gender=Neut|Number=Plur	3	nsubj	_	ref=5.36.1
-8	ταῦτα	οὗτος	DET	Pd	Case=Nom|Gender=Neut|Number=Plur	7	det	_	ref=5.36.1
-9	συνελθόντα	συνέρχομαι	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	3	xcomp	_	ref=5.36.1
+1	Ἀρισταγόρῃ	Ἀρισταγόρης	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	3	obl:arg	_	Ref=5.36.1
+2	δὲ	δέ	ADV	Df	_	3	discourse	_	Ref=5.36.1
+3	συνέπιπτε	συμπίπτω	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=5.36.1
+4	τοῦ	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	6	det	_	Ref=5.36.1
+5	αὐτοῦ	αὐτός	DET	Pd	Case=Gen|Gender=Masc|Number=Sing	6	det	_	Ref=5.36.1
+6	χρόνου	χρόνος	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	3	obl	_	Ref=5.36.1
+7	πάντα	πᾶς	PRON	Px	Case=Nom|Gender=Neut|Number=Plur	3	nsubj	_	Ref=5.36.1
+8	ταῦτα	οὗτος	DET	Pd	Case=Nom|Gender=Neut|Number=Plur	7	det	_	Ref=5.36.1
+9	συνελθόντα	συνέρχομαι	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	3	xcomp	_	Ref=5.36.1
 
 ~~~
 

@@ -11,7 +11,7 @@ This relation is universal.
 763 nodes (6%) are attached to their parents as `root`.
 
 763 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 13.2961992136304.
+Average distance between parent and child is 13.2817824377457.
 
 The following 10 pairs of parts of speech are connected with `root`: -<tt><a href="bej_autogramm-pos-VERB.html">VERB</a></tt> (708; 93% instances), -<tt><a href="bej_autogramm-pos-NOUN.html">NOUN</a></tt> (22; 3% instances), -<tt><a href="bej_autogramm-pos-SCONJ.html">SCONJ</a></tt> (12; 2% instances), -<tt><a href="bej_autogramm-pos-AUX.html">AUX</a></tt> (10; 1% instances), -<tt><a href="bej_autogramm-pos-INTJ.html">INTJ</a></tt> (3; 0% instances), -<tt><a href="bej_autogramm-pos-X.html">X</a></tt> (3; 0% instances), -<tt><a href="bej_autogramm-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), -<tt><a href="bej_autogramm-pos-ADV.html">ADV</a></tt> (1; 0% instances), -<tt><a href="bej_autogramm-pos-NUM.html">NUM</a></tt> (1; 0% instances), -<tt><a href="bej_autogramm-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
@@ -28,7 +28,7 @@ The following 10 pairs of parts of speech are connected with `root`: -<tt><a hre
 4	=i	_	PRON	PRO	Case=Nom|Number=Sing|Person=1|Poss=Yes	3	nmod:poss	_	AlignBegin=982|AlignEnd=1085|Gloss==POSS.1SG.NOM|RX==[PRO]|TokenType=Clit
 5	/	_	PUNCT	PUNCT	_	3	punct	_	AlignBegin=1085|AlignEnd=1815|TokenType=Break
 6	hoː	_	PRON	PRO	Case=Dat|Number=Sing|Person=1	7	iobj	_	AlignBegin=1815|AlignEnd=2092|Gloss=1SG.DAT|RX=[PRO]|TokenType=Root
-7	kʷiɖja	_	VERB	V2	Gender=Masc|Number=Sing|VerbClass=2	8	ccomp	_	AlignBegin=2092|AlignEnd=2370|Gloss=disappear|MGloss=disappear-PFV.3SG.M|MSeg=kʷiɖ-ja|Reported=Yes|ReportedSpeech=Yes|RX=[V2]-[TAM].[PNG]|TokenType=Root
+7	kʷiɖja	_	VERB	V2	Gender=Masc|Number=Sing|VerbClass=2	8	ccomp	_	AlignBegin=2092|AlignEnd=2370|Gloss=disappear|MGloss=disappear-PFV.3SG.M|MSeg=kʷiɖ-ja|Reported=Yes|RX=[V2]-[TAM].[PNG]|TokenType=Root
 8	ini	_	VERB	V1,IRG	Aspect=Perf|Gender=Masc|Number=Sing|VerbClass=1	0	root	_	AlignBegin=2370|AlignEnd=2648|Gloss=say\PFV|MGloss=3SG.M-say\PFV|MSeg=i-ni|RX=[PNG]-[V1].[IRG]|TokenType=Root
 9	//	_	PUNCT	PUNCT	_	8	punct	_	AlignBegin=2648|AlignEnd=2926|TokenType=Break
 
@@ -47,7 +47,7 @@ The following 10 pairs of parts of speech are connected with `root`: -<tt><a hre
 4	=hina	_	PRON	PRO	Case=Nom|Number=Plur|Person=3|Poss=Yes	3	nmod:poss	_	AlignBegin=141622|AlignEnd=141750|Gloss==[POSS].[3PL].[NOM]|RX==[PRO]|TokenType=Clit
 5	/	_	PUNCT	PUNCT	_	3	punct	_	AlignBegin=141750|AlignEnd=142133|Gloss=[PUNCT]|RX=[PUNCT]|TokenType=Break
 6	winneːt	_	ADV	ADV	_	7	advmod	_	AlignBegin=142133|AlignEnd=142531|Gloss=plenty|RX=[ADV]|TokenType=Root
-7	naʃʃalam	_	ADJ	ADJ	_	9	acl:relcl	_	AlignBegin=142531|AlignEnd=142730|Gloss=athletic|RX=[ADJ]|TokenType=Root
+7	naʃʃalam	_	ADJ	ADJ	_	9	acl	_	AlignBegin=142531|AlignEnd=142730|Gloss=athletic|RX=[ADJ]|TokenType=Root
 8	=a	_	AUX	N.COP	Number=Plur|Person=3|VerbType=Cop	7	cop	_	AlignBegin=142730|AlignEnd=142929|Gloss==[COP].[3PL]|RX==[PRED].[N]|TokenType=Clit
 9	kam	_	NOUN	N	Number=Plur	0	root	_	AlignBegin=142929|AlignEnd=143128|Gloss=camel\[PL]|RX=[N]|TokenType=Root
 10	=a	_	AUX	COP	Number=Plur|VerbType=Cop	9	cop	_	AlignBegin=143128|AlignEnd=143327|Gloss==[COP].[PL]|RX==[PRED].[NOM]|TokenType=Clit

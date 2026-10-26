@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-37 nodes (1%) are attached to their parents as `aux`.
+38 nodes (1%) are attached to their parents as `aux`.
 
-37 instances of `aux` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.21621621621622.
+38 instances of `aux` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.13157894736842.
 
-The following 5 pairs of parts of speech are connected with `aux`: <tt><a href="uz_ut-pos-VERB.html">VERB</a></tt>-<tt><a href="uz_ut-pos-AUX.html">AUX</a></tt> (19; 51% instances), <tt><a href="uz_ut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uz_ut-pos-AUX.html">AUX</a></tt> (7; 19% instances), <tt><a href="uz_ut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uz_ut-pos-AUX.html">AUX</a></tt> (6; 16% instances), <tt><a href="uz_ut-pos-PART.html">PART</a></tt>-<tt><a href="uz_ut-pos-AUX.html">AUX</a></tt> (3; 8% instances), <tt><a href="uz_ut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="uz_ut-pos-AUX.html">AUX</a></tt> (2; 5% instances).
+The following 5 pairs of parts of speech are connected with `aux`: <tt><a href="uz_ut-pos-VERB.html">VERB</a></tt>-<tt><a href="uz_ut-pos-AUX.html">AUX</a></tt> (23; 61% instances), <tt><a href="uz_ut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uz_ut-pos-AUX.html">AUX</a></tt> (7; 18% instances), <tt><a href="uz_ut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uz_ut-pos-AUX.html">AUX</a></tt> (5; 13% instances), <tt><a href="uz_ut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="uz_ut-pos-AUX.html">AUX</a></tt> (2; 5% instances), <tt><a href="uz_ut-pos-PART.html">PART</a></tt>-<tt><a href="uz_ut-pos-AUX.html">AUX</a></tt> (1; 3% instances).
 
 
 ~~~ conllu
@@ -28,7 +28,7 @@ The following 5 pairs of parts of speech are connected with `aux`: <tt><a href="
 4	ham	ham	ADV	_	_	7	advmod	_	_
 5	turli	turli	ADJ	_	_	6	amod	_	_
 6	fikrlarni	fikr	NOUN	_	Case=Acc|Number=Plur	7	obj	_	_
-7	o‘qish	o‘qi	VERB	_	VerbForm=Vnoun	0	root	_	_
+7	oʻqish	oʻqi	VERB	_	VerbForm=Vnoun	0	root	_	_
 8	mumkin	mumkin	AUX	_	_	7	aux	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	7	punct	_	_
 
@@ -46,7 +46,7 @@ The following 5 pairs of parts of speech are connected with `aux`: <tt><a href="
 3	aytsam	ayt	VERB	_	Mood=Cnd|Number=Sing|Person=1|Tense=Fut	9	advcl	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	3	punct	_	_
 5	mulla	mulla	NOUN	_	Case=Nom|Number=Sing	9	vocative	_	_
-6	Norqo‘zi	Norqo‘zi	PROPN	_	Case=Nom|Number=Sing	5	flat	_	SpaceAfter=No
+6	Norqoʻzi	Norqoʻzi	PROPN	_	Case=Nom|Number=Sing	5	flat	_	SpaceAfter=No
 7	,	,	PUNCT	_	_	6	punct	_	_
 8	gap	gap	NOUN	_	Case=Nom|Number=Sing	9	nsubj	_	_
 9	paranjida	paranji	NOUN	_	Case=Loc|Number=Sing	0	root	_	_
@@ -67,7 +67,7 @@ The following 5 pairs of parts of speech are connected with `aux`: <tt><a href="
 3	insoniy	insoniy	ADJ	_	_	4	amod	_	_
 4	munosabatlardan	munosabat	NOUN	_	Case=Abl|Number=Plur	5	obl	_	_
 5	ustun	ustun	ADJ	_	_	0	root	_	_
-6	bo'lsa	bo'l	AUX	_	Person=3	5	aux	_	SpaceAfter=No
+6	boʻlsa	boʻl	AUX	_	Person=3	5	aux	_	SpaceAfter=No
 7	?	?	PUNCT	_	_	5	punct	_	_
 
 ~~~

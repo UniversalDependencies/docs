@@ -23,7 +23,7 @@ The following 12 pairs of parts of speech are connected with `expl`: <tt><a href
 # visual-style 1	fgColor:white
 # visual-style 1 2 expl	color:blue
 1	Er	være	VERB	verb	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
-2	det	det	PRON	pron	Gender=Neut|Number=Sing|Person=3|PronType=Prs	1	expl	_	_
+2	det	den	PRON	pron	Gender=Neut|Number=Sing|Person=3|PronType=Prs	1	expl	_	_
 3	flere	mange	ADJ	adj	Degree=Cmp	4	amod	_	_
 4	rovdyr	rovdyr	NOUN	subst	Definite=Ind|Gender=Neut|Number=Plur	1	nsubj	_	_
 5	i	i	ADP	prep	_	7	case	_	_
@@ -42,7 +42,7 @@ The following 12 pairs of parts of speech are connected with `expl`: <tt><a href
 # visual-style 1 3 expl	color:blue
 1	Risikofritt	risikofri	ADJ	adj	Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	0	root	_	_
 2	er	være	AUX	verb	Mood=Ind|Tense=Pres|VerbForm=Fin	1	cop	_	_
-3	det	det	PRON	pron	Gender=Neut|Number=Sing|Person=3|PronType=Prs	1	expl	_	_
+3	det	den	PRON	pron	Gender=Neut|Number=Sing|Person=3|PronType=Prs	1	expl	_	_
 4	ikke	ikke	PART	adv	Polarity=Neg	1	advmod	_	SpaceAfter=No
 5	.	$.	PUNCT	clb	_	1	punct	_	_
 
@@ -55,7 +55,7 @@ The following 12 pairs of parts of speech are connected with `expl`: <tt><a href
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 1 expl	color:blue
-1	Det	det	PRON	pron	Gender=Neut|Number=Sing|Person=3|PronType=Prs	8	expl	_	_
+1	Det	den	PRON	pron	Gender=Neut|Number=Sing|Person=3|PronType=Prs	8	expl	_	_
 2	er	være	AUX	verb	Mood=Ind|Tense=Pres|VerbForm=Fin	8	cop	_	_
 3	nok	nok	ADV	adv	_	8	advmod	_	_
 4	heller	heller	ADV	adv	_	8	advmod	_	_

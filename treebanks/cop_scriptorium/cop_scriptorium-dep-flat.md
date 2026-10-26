@@ -25,18 +25,18 @@ The following 1 pairs of parts of speech are connected with `flat`: <tt><a href=
 1	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	Entity=(person|Orig=Ⲡ
 2	ⲙⲁⲕⲁⲣⲓⲟⲥ	ⲙⲁⲕⲁⲣⲓⲟⲥ	NOUN	N	Foreign=Yes	9	dislocated	_	OrigLang=grc
 3	ⲇⲉ	ⲇⲉ	PART	PTC	Foreign=Yes	9	advmod	_	OrigLang=grc
-4	ⲁⲡⲁ	ⲁⲡⲁ	NOUN	N	Foreign=Yes	2	appos	_	OrigLang=he
-5	ⲃⲓⲕⲧⲱⲣ	ⲃⲓⲕⲧⲱⲣ	PROPN	NPROP	Foreign=Yes	4	flat	_	Entity=person)|OrigLang=la
+4	ⲁⲡⲁ	ⲁⲡⲁ	NOUN	N	Foreign=Yes	2	appos	_	OrigLang=heb
+5	ⲃⲓⲕⲧⲱⲣ	ⲃⲓⲕⲧⲱⲣ	PROPN	NPROP	Foreign=Yes	4	flat	_	Entity=person)|OrigLang=lat
 6	·	·	PUNCT	PUNCT	_	4	punct	_	_
 7	ⲙⲡⲉ	ⲙⲡⲉ	AUX	ANEGPST	Polarity=Neg	9	aux	_	Orig=ⲙ̄ⲡⲉ
 8	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	_
-9	ⲡⲉⲓⲑⲉ	ⲡⲉⲓⲑⲉ	VERB	V	Foreign=Yes|VerbForm=Fin	0	root	_	Orig=ⲡⲓⲑⲉ|OrigLang=grc
+9	ⲡⲉⲓⲑⲉ	ⲡⲉⲓⲑⲉ	VERB	V	Foreign=Yes|Mood=Ind|VerbForm=Fin	0	root	_	Orig=ⲡⲓⲑⲉ|OrigLang=grc
 10	ⲛⲁ	ⲛⲁ	ADP	PREP	_	11	case	_	_
 11	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Number=Plur|Person=3|PronType=Prs	9	obl	_	_
 12	·	·	PUNCT	PUNCT	_	15	punct	_	_
 13	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	15	mark	_	_
 14	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	_
-15	ϫⲱ	ϫⲱ	VERB	V	VerbForm=Fin	9	advcl	_	_
+15	ϫⲱ	ϫⲱ	VERB	V	Mood=Ind|VerbForm=Fin	9	advcl	_	_
 16	ⲙⲙⲟ	ⲛ	ADP	PREP	_	17	case	_	Orig=ⲙ̄ⲙⲟ
 17	ⲥ	ⲛⲧⲟⲥ	PRON	PPERO	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	15	obj	_	_
 

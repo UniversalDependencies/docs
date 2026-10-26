@@ -22,12 +22,12 @@ The following 10 pairs of parts of speech are connected with `cc:preconj`: <tt><
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 6 cc:preconj	color:blue
-1	Her	her	DET	Det	_	3	det	_	_
+1	Her	her	DET	Det	PronType=Dem	3	det	_	_
 2	yarım	yarım	ADJ	Adj	_	3	compound	_	_
-3	dakikada	dakika	NOUN	_	Case=Loc|Number=Sing|Person=3	4	obl	_	_
-4	bir	bir	DET	Indef	_	5	obl	_	_
+3	dakikada	dakika	NOUN	_	Case=Loc|Number=Sing|Person=3	4	nmod	_	_
+4	bir	bir	DET	Indef	PronType=Ind	5	nmod	_	_
 5	dilenci	dilenci	NOUN	_	Case=Nom|Number=Sing|Person=3	0	root	_	_
-6	ya	ya	CCONJ	Conj	_	9	cc:preconj	_	_
+6	ya	ya	CCONJ	Conj	ExtPos=CCONJ	9	cc:preconj	_	_
 7	da	da	CCONJ	Conj	_	6	fixed	_	_
 8	seyyar	seyyar	NOUN	_	Case=Nom|Number=Sing|Person=3	9	amod	_	_
 9	satıcı	satıcı	NOUN	_	Case=Nom|Number=Sing|Person=3	5	conj	_	SpaceAfter=No
@@ -47,7 +47,7 @@ The following 10 pairs of parts of speech are connected with `cc:preconj`: <tt><
 3	bitiyor	bit	VERB	_	Aspect=Prog|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
 4	ne	ne	CCONJ	Conj	_	5	cc:preconj	_	_
 5	yeşil	yeşil	ADJ	Adj	_	3	orphan	_	_
-6	ne	ne	CCONJ	Conj	_	8	cc:preconj	_	_
+6	ne	ne	CCONJ	Conj	ExtPos=CCONJ	8	cc:preconj	_	_
 7	de	de	CCONJ	Conj	_	6	fixed	_	_
 8	mavi	mavi	ADJ	Adj	_	5	conj	_	SpaceAfter=No
 9	.	.	PUNCT	Stop	_	3	punct	_	SpacesAfter=\n

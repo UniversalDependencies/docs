@@ -24,10 +24,10 @@ The following 5 pairs of parts of speech are connected with `case`: <tt><a href=
 # visual-style 5 6 case	color:blue
 1	Mittušt	mitte	PRON	_	Case=Par|Number=Sing|PronType=Int	2	nmod	_	_
 2	professijad	professija	NOUN	_	Case=Par|Number=Sing	4	obj	_	_
-3	Tö	tö	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	4	nsubj	_	_
+3	Tö	sinä	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	4	nsubj	_	_
 4	valičit	valita	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 5	školan	škol	NOUN	_	Case=Gen|Number=Sing	4	obl	_	_
-6	jäl'ghe	jäl'ghe	ADP	_	AdpType=Post	5	case	_	_
+6	jälʼghe	jälʼghe	ADP	_	AdpType=Post	5	case	_	_
 7	?	?	PUNCT	_	_	4	punct	_	_
 
 ~~~
@@ -65,15 +65,15 @@ The following 5 pairs of parts of speech are connected with `case`: <tt><a href=
 3	kooperativižen	kooperativinen	NOUN	_	Case=Gen|Number=Sing	4	nmod	_	_
 4	tehnikuman	tehnikum	NOUN	_	Case=Gen|Number=Sing	2	obl	_	_
 5	,	,	PUNCT	_	_	7	punct	_	_
-6	sid'	sid'	ADV	_	_	7	advmod	_	_
+6	sidʼ	sidʼ	ADV	_	_	7	advmod	_	_
 7	radoin	rata	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	_
-8	magupaštatesiden	magupaštatesed	NOUN	_	Case=Gen|Number=Plur	9	obl	_	_
+8	magupaštatesiden	magupaštatesed	NOUN	_	Case=Gen|Number=Plur	9	nmod	_	_
 9	paštajan	paštai	NOUN	_	Case=Ess|Number=Sing	7	obl	_	_
 10	da	da	CCONJ	_	_	13	cc	_	_
 11	sen	se	PRON	_	Case=Gen|Number=Sing|PronType=Dem	13	obl	_	_
-12	jäl'ghe	jäl'ghe	ADP	_	_	13	case	_	_
+12	jälʼghe	jälʼghe	ADP	_	_	13	case	_	_
 13	radoin	rata	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	7	conj	_	_
-14	pähižiden	pähine	NOUN	_	Case=Gen|Number=Plur	15	obl	_	_
+14	pähižiden	pähine	NOUN	_	Case=Gen|Number=Plur	15	nmod	_	_
 15	omblijan	omblii	NOUN	_	Case=Ess|Number=Sing	13	obl	_	_
 16	.	.	PUNCT	_	_	2	punct	_	_
 

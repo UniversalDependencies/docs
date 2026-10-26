@@ -45,7 +45,7 @@ The following 7 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 6	ganze	ganz	ADJ	ADJA	_	7	amod	_	_
 7	Tätigkeit	Tätigkeit	NOUN	NN	Case=Nom	9	nsubj	_	_
 8	darin	darin	ADV	PAV	PronType=Dem	9	advmod	_	_
-9	besteht	bestehen	VERB	VVFIN	_	3	acl	_	SpaceAfter=No
+9	besteht	bestehen	VERB	VVFIN	_	3	acl:relcl	_	SpaceAfter=No
 10	,	,	PUNCT	$,	_	9	punct	_	_
 11	immer	immer	ADV	ADV	_	14	advmod	_	_
 12	Nein	Nein	NOUN	NN	Case=Acc	14	obj	_	_

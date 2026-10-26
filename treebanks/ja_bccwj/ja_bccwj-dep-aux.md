@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-94742 nodes (8%) are attached to their parents as `aux`.
+94750 nodes (8%) are attached to their parents as `aux`.
 
-94474 instances of `aux` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.58169555213105.
+94476 instances of `aux` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.58198416886544.
 
-The following 13 pairs of parts of speech are connected with `aux`: <tt><a href="ja_bccwj-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_bccwj-pos-AUX.html">AUX</a></tt> (78031; 82% instances), <tt><a href="ja_bccwj-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_bccwj-pos-AUX.html">AUX</a></tt> (11366; 12% instances), <tt><a href="ja_bccwj-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_bccwj-pos-AUX.html">AUX</a></tt> (3836; 4% instances), <tt><a href="ja_bccwj-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_bccwj-pos-AUX.html">AUX</a></tt> (1202; 1% instances), <tt><a href="ja_bccwj-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_bccwj-pos-AUX.html">AUX</a></tt> (96; 0% instances), <tt><a href="ja_bccwj-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_bccwj-pos-AUX.html">AUX</a></tt> (93; 0% instances), <tt><a href="ja_bccwj-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_bccwj-pos-AUX.html">AUX</a></tt> (65; 0% instances), <tt><a href="ja_bccwj-pos-X.html">X</a></tt>-<tt><a href="ja_bccwj-pos-AUX.html">AUX</a></tt> (29; 0% instances), <tt><a href="ja_bccwj-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ja_bccwj-pos-AUX.html">AUX</a></tt> (9; 0% instances), <tt><a href="ja_bccwj-pos-SYM.html">SYM</a></tt>-<tt><a href="ja_bccwj-pos-AUX.html">AUX</a></tt> (9; 0% instances), <tt><a href="ja_bccwj-pos-DET.html">DET</a></tt>-<tt><a href="ja_bccwj-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="ja_bccwj-pos-PART.html">PART</a></tt>-<tt><a href="ja_bccwj-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="ja_bccwj-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="ja_bccwj-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 14 pairs of parts of speech are connected with `aux`: <tt><a href="ja_bccwj-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_bccwj-pos-AUX.html">AUX</a></tt> (78036; 82% instances), <tt><a href="ja_bccwj-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_bccwj-pos-AUX.html">AUX</a></tt> (11366; 12% instances), <tt><a href="ja_bccwj-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_bccwj-pos-AUX.html">AUX</a></tt> (3836; 4% instances), <tt><a href="ja_bccwj-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_bccwj-pos-AUX.html">AUX</a></tt> (1203; 1% instances), <tt><a href="ja_bccwj-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_bccwj-pos-AUX.html">AUX</a></tt> (96; 0% instances), <tt><a href="ja_bccwj-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_bccwj-pos-AUX.html">AUX</a></tt> (93; 0% instances), <tt><a href="ja_bccwj-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_bccwj-pos-AUX.html">AUX</a></tt> (65; 0% instances), <tt><a href="ja_bccwj-pos-X.html">X</a></tt>-<tt><a href="ja_bccwj-pos-AUX.html">AUX</a></tt> (29; 0% instances), <tt><a href="ja_bccwj-pos-SYM.html">SYM</a></tt>-<tt><a href="ja_bccwj-pos-AUX.html">AUX</a></tt> (10; 0% instances), <tt><a href="ja_bccwj-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ja_bccwj-pos-AUX.html">AUX</a></tt> (9; 0% instances), <tt><a href="ja_bccwj-pos-DET.html">DET</a></tt>-<tt><a href="ja_bccwj-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="ja_bccwj-pos-PART.html">PART</a></tt>-<tt><a href="ja_bccwj-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="ja_bccwj-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ja_bccwj-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="ja_bccwj-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="ja_bccwj-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -119,7 +119,7 @@ The following 13 pairs of parts of speech are connected with `aux`: <tt><a href=
 17	_	_	NOUN	_	_	20	nmod	_	BBIL=B|BPT=1|LBIL=B|LPOS=0|SpaceAfter=No|UI=1800
 18	_	_	ADP	_	_	17	case	_	BBIL=I|BPT=2|LBIL=B|LPOS=1|SpaceAfter=No|UI=0
 19	_	_	NOUN	_	_	20	compound	_	BBIL=B|BPT=0|LBIL=B|LPOS=0|SpaceAfter=No|UI=24091
-20	_	_	NOUN	_	_	23	obl	_	BBIL=I|BPT=1|LBIL=I|LPOS=0|SpaceAfter=No|UI=22079
+20	_	_	NOUN	_	_	23	nmod	_	BBIL=I|BPT=1|LBIL=I|LPOS=0|SpaceAfter=No|UI=22079
 21	_	_	ADP	_	_	20	case	_	BBIL=I|BPT=2|LBIL=B|LPOS=1|SpaceAfter=No|UI=5
 22	_	_	NOUN	_	_	23	compound	_	BBIL=B|BPT=0|LBIL=B|LPOS=3|SpaceAfter=No|UI=61523
 23	_	_	NOUN	_	_	25	nmod	_	BBIL=I|BPT=1|LBIL=I|LPOS=3|SpaceAfter=No|UI=61540

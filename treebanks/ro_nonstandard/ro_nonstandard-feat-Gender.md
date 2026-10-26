@@ -9,21 +9,21 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Fem`, `Masc`.
 
-180626 tokens (32%) have a non-empty value of `Gender`.
-23602 types (74%) occur at least once with a non-empty value of `Gender`.
-10137 lemmas (82%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 9 part-of-speech tags: <tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt> (96782; 17% instances), <tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (27320; 5% instances), <tt><a href="ro_nonstandard-pos-PROPN.html">PROPN</a></tt> (19968; 3% instances), <tt><a href="ro_nonstandard-pos-DET.html">DET</a></tt> (19701; 3% instances), <tt><a href="ro_nonstandard-pos-ADJ.html">ADJ</a></tt> (10019; 2% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt> (4616; 1% instances), <tt><a href="ro_nonstandard-pos-NUM.html">NUM</a></tt> (2215; 0% instances), <tt><a href="ro_nonstandard-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt> (1; 0% instances).
+180623 tokens (32%) have a non-empty value of `Gender`.
+23601 types (74%) occur at least once with a non-empty value of `Gender`.
+10136 lemmas (82%) occur at least once with a non-empty value of `Gender`.
+The feature is used with 9 part-of-speech tags: <tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt> (96781; 17% instances), <tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (27319; 5% instances), <tt><a href="ro_nonstandard-pos-PROPN.html">PROPN</a></tt> (19968; 3% instances), <tt><a href="ro_nonstandard-pos-DET.html">DET</a></tt> (19701; 3% instances), <tt><a href="ro_nonstandard-pos-ADJ.html">ADJ</a></tt> (10019; 2% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt> (4616; 1% instances), <tt><a href="ro_nonstandard-pos-NUM.html">NUM</a></tt> (2214; 0% instances), <tt><a href="ro_nonstandard-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-96782 <tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Gender`.
+96781 <tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=Acc,Nom</tt> (87450; 90%), <tt><a href="ro_nonstandard-feat-Number.html">Number</a></tt><tt>=Sing</tt> (71135; 74%), <tt><a href="ro_nonstandard-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (52239; 54%).
+The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=Acc,Nom</tt> (87449; 90%), <tt><a href="ro_nonstandard-feat-Number.html">Number</a></tt><tt>=Sing</tt> (71134; 73%), <tt><a href="ro_nonstandard-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (52238; 54%).
 
 `NOUN` tokens may have the following values of `Gender`:
 
 * `Fem` (49597; 51% of non-empty `Gender`): <em>țara, țară, oaste, lume, pace, parte, casa, credință, vreme, casă</em>
-* `Masc` (47185; 49% of non-empty `Gender`): <em>vodă, domnul, doamne, omul, om, domnului, cuvîntul, oameni, împăratul, turcii</em>
+* `Masc` (47184; 49% of non-empty `Gender`): <em>vodă, domnul, doamne, omul, om, domnului, cuvîntul, oameni, împăratul, turcii</em>
 * `EMPTY` (1): <em>neamure</em>
 
 <table>
@@ -40,17 +40,17 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
   <tr><td><tt><tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=Voc</tt>|<tt><a href="ro_nonstandard-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="ro_nonstandard-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>doamne</em></td><td></td></tr>
 </table>
 
-`Gender` seems to be **lexical feature** of `NOUN`. 90% lemmas (5851) occur only with one value of `Gender`.
+`Gender` seems to be **lexical feature** of `NOUN`. 90% lemmas (5850) occur only with one value of `Gender`.
 
 ### `PRON`
 
-27320 <tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> tokens (42% of all `PRON` tokens) have a non-empty value of `Gender`.
+27319 <tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> tokens (42% of all `PRON` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=3</tt> (27119; 99%), <tt><a href="ro_nonstandard-feat-Number.html">Number</a></tt><tt>=Sing</tt> (18307; 67%), <tt><a href="ro_nonstandard-feat-Strength.html">Strength</a></tt><tt>=EMPTY</tt> (17542; 64%), <tt><a href="ro_nonstandard-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (15734; 58%).
+The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=3</tt> (27119; 99%), <tt><a href="ro_nonstandard-feat-Number.html">Number</a></tt><tt>=Sing</tt> (18307; 67%), <tt><a href="ro_nonstandard-feat-Strength.html">Strength</a></tt><tt>=EMPTY</tt> (17552; 64%), <tt><a href="ro_nonstandard-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (15733; 58%).
 
 `PRON` tokens may have the following values of `Gender`:
 
-* `Fem` (7046; 26% of non-empty `Gender`): <em>o, aceaia, le, aceasta, carea, toate, aceastea, -o, ei, ea</em>
+* `Fem` (7045; 26% of non-empty `Gender`): <em>o, aceaia, le, aceasta, carea, toate, aceastea, -o, ei, ea</em>
 * `Masc` (20274; 74% of non-empty `Gender`): <em>lui, el, -l, -i, carele, ei, l-, carii, i-, toți</em>
 * `EMPTY` (37308): <em>să, ce, s-, lor, -i, mă, voi, eu, se, cine</em>
 
@@ -58,8 +58,10 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
   <tr><th>Paradigm <i>el</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
   <tr><td><tt><tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=Acc,Nom</tt>|<tt><a href="ro_nonstandard-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ro_nonstandard-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>el, elu, iel, l, îl, ei, Еl, Lui, Părinte</em></td><td><em>ea, ia, -o, O, ei</em></td></tr>
   <tr><td><tt><tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=Acc,Nom</tt>|<tt><a href="ro_nonstandard-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ro_nonstandard-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>ei</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ro_nonstandard-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ro_nonstandard-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>-l, îl</em></td><td><em>-o</em></td></tr>
   <tr><td><tt><tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ro_nonstandard-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ro_nonstandard-feat-PronType.html">PronType</a></tt><tt>=Prs</tt>|<tt><a href="ro_nonstandard-feat-Strength.html">Strength</a></tt><tt>=Strong</tt></tt></td><td><em>el, elu, еl, -l, ei, l-</em></td><td><em>ia, ea, -o, o, ei</em></td></tr>
   <tr><td><tt><tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ro_nonstandard-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ro_nonstandard-feat-PronType.html">PronType</a></tt><tt>=Prs</tt>|<tt><a href="ro_nonstandard-feat-Strength.html">Strength</a></tt><tt>=Weak</tt></tt></td><td><em>-l, l-, l, îl, i-, lu, el, -i, îlu, îi, li-, Il, o</em></td><td><em>o, -o, o-, ia, -l, l, li-</em></td></tr>
+  <tr><td><tt><tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ro_nonstandard-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ro_nonstandard-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>îl</em></td><td></td></tr>
   <tr><td><tt><tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ro_nonstandard-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ro_nonstandard-feat-PronType.html">PronType</a></tt><tt>=Prs</tt>|<tt><a href="ro_nonstandard-feat-Strength.html">Strength</a></tt><tt>=Strong</tt></tt></td><td><em>ei, -i, lor, îi</em></td><td><em>iale, ele, le, eale, ia</em></td></tr>
   <tr><td><tt><tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ro_nonstandard-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ro_nonstandard-feat-PronType.html">PronType</a></tt><tt>=Prs</tt>|<tt><a href="ro_nonstandard-feat-Strength.html">Strength</a></tt><tt>=Weak</tt></tt></td><td><em>-i, i-, îi, -l, i, îl, ei, le, l, l-, le-, li</em></td><td><em>le, le-, -le, li, li-, o, -i, -li</em></td></tr>
   <tr><td><tt><tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=Dat,Gen</tt>|<tt><a href="ro_nonstandard-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ro_nonstandard-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td><em>lui</em></td><td></td></tr>
@@ -155,14 +157,14 @@ The most frequent other feature values with which `VERB` and `Gender` co-occurre
 
 ### `NUM`
 
-2215 <tt><a href="ro_nonstandard-pos-NUM.html">NUM</a></tt> tokens (43% of all `NUM` tokens) have a non-empty value of `Gender`.
+2214 <tt><a href="ro_nonstandard-pos-NUM.html">NUM</a></tt> tokens (43% of all `NUM` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `NUM` and `Gender` co-occurred: <tt><a href="ro_nonstandard-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (2084; 94%), <tt><a href="ro_nonstandard-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (1461; 66%), <tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1432; 65%), <tt><a href="ro_nonstandard-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (1271; 57%), <tt><a href="ro_nonstandard-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1127; 51%).
+The most frequent other feature values with which `NUM` and `Gender` co-occurred: <tt><a href="ro_nonstandard-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (2082; 94%), <tt><a href="ro_nonstandard-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (1460; 66%), <tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1431; 65%), <tt><a href="ro_nonstandard-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (1271; 57%), <tt><a href="ro_nonstandard-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1126; 51%).
 
 `NUM` tokens may have the following values of `Gender`:
 
 * `Fem` (1172; 53% of non-empty `Gender`): <em>doao, treia, mii, două, doa, mie, sute, doo, sută, patra</em>
-* `Masc` (1043; 47% of non-empty `Gender`): <em>doi, întîiu, amîndoi, doisprăzeace, întîi, întăiu, dintîiu, un, doilea, dentîiu</em>
+* `Masc` (1042; 47% of non-empty `Gender`): <em>doi, întîiu, amîndoi, doisprăzeace, întîi, întăiu, dintîiu, un, doilea, dentîiu</em>
 * `EMPTY` (2958): <em>trei, 2, 3, cinci, patru, 4, 7, 12, 5, 1</em>
 
 <table>
@@ -202,12 +204,12 @@ The most frequent other feature values with which `ADV` and `Gender` co-occurred
 ## Relations with Agreement in `Gender`
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
-<tt>NOUN --[<tt><a href="ro_nonstandard-dep-det.html">det</a></tt>]--> DET</tt> (13804; 85%),
-<tt>NOUN --[<tt><a href="ro_nonstandard-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (5882; 51%),
+<tt>NOUN --[<tt><a href="ro_nonstandard-dep-det.html">det</a></tt>]--> DET</tt> (14101; 86%),
+<tt>NOUN --[<tt><a href="ro_nonstandard-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (5938; 51%),
 <tt>NOUN --[<tt><a href="ro_nonstandard-dep-amod.html">amod</a></tt>]--> ADJ</tt> (5845; 76%),
 <tt>NOUN --[<tt><a href="ro_nonstandard-dep-conj.html">conj</a></tt>]--> NOUN</tt> (4692; 69%),
-<tt>PROPN --[<tt><a href="ro_nonstandard-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (2857; 95%),
-<tt>NOUN --[<tt><a href="ro_nonstandard-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (2818; 58%),
+<tt>PROPN --[<tt><a href="ro_nonstandard-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (2860; 95%),
+<tt>NOUN --[<tt><a href="ro_nonstandard-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (2831; 58%),
 <tt>NOUN --[<tt><a href="ro_nonstandard-dep-amod.html">amod</a></tt>]--> VERB</tt> (1171; 95%),
 <tt>PROPN --[<tt><a href="ro_nonstandard-dep-appos.html">appos</a></tt>]--> NOUN</tt> (946; 92%),
 <tt>PROPN --[<tt><a href="ro_nonstandard-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (940; 88%),

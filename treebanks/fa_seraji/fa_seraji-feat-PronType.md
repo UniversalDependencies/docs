@@ -9,16 +9,16 @@ udver: '2'
 This feature is universal.
 It occurs with 8 different values: `Dem`, `Ind`, `Int`, `Neg`, `Prs`, `Rcp`, `Rel`, `Tot`.
 
-6276 tokens (4%) have a non-empty value of `PronType`.
-94 types (1%) occur at least once with a non-empty value of `PronType`.
-70 lemmas (1%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 3 part-of-speech tags: <tt><a href="fa_seraji-pos-PRON.html">PRON</a></tt> (5800; 4% instances), <tt><a href="fa_seraji-pos-ADV.html">ADV</a></tt> (260; 0% instances), <tt><a href="fa_seraji-pos-DET.html">DET</a></tt> (216; 0% instances).
+6283 tokens (4%) have a non-empty value of `PronType`.
+96 types (1%) occur at least once with a non-empty value of `PronType`.
+73 lemmas (1%) occur at least once with a non-empty value of `PronType`.
+The feature is used with 3 part-of-speech tags: <tt><a href="fa_seraji-pos-PRON.html">PRON</a></tt> (5807; 4% instances), <tt><a href="fa_seraji-pos-ADV.html">ADV</a></tt> (260; 0% instances), <tt><a href="fa_seraji-pos-DET.html">DET</a></tt> (216; 0% instances).
 
 ### `PRON`
 
-5800 <tt><a href="fa_seraji-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
+5807 <tt><a href="fa_seraji-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="fa_seraji-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (5004; 86%), <tt><a href="fa_seraji-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3941; 68%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="fa_seraji-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (5011; 86%), <tt><a href="fa_seraji-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3948; 68%).
 
 `PRON` tokens may have the following values of `PronType`:
 
@@ -26,11 +26,10 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 * `Ind` (169; 3% of non-empty `PronType`): بعضی، برخی، دیگران، هرکس، یک، دیگری، بعضی‌ها، بسیاری، تک‌تک، دیگر
 * `Int` (4; 0% of non-empty `PronType`): هرکه، کی
 * `Neg` (9; 0% of non-empty `PronType`): هیچکدام، هیچکس، هیچیک، هیچ‌یک
-* `Prs` (3615; 62% of non-empty `PronType`): خود، او، ما، ش، من، وی، تو، شان، م، شما
+* `Prs` (3622; 62% of non-empty `PronType`): خود، او، ما، ش، من، وی، تو، شان، م، شما
 * `Rcp` (102; 2% of non-empty `PronType`): هم، یکدیگر، همدیگر
 * `Rel` (47; 1% of non-empty `PronType`): آنچه
 * `Tot` (230; 4% of non-empty `PronType`): همه، همهٔ، همگی، همگان، همه‌، تمام، هرکدام
-* `EMPTY` (7): جنابعالی، حضرتعالی
 
 <table>
   <tr><th>Paradigm <i>آن</i></th><th><tt>Prs</tt></th><th><tt>Dem</tt></th></tr>
@@ -39,7 +38,7 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
   <tr><td><tt><tt><a href="fa_seraji-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td>آن‌ها, آنان, آنها, آن‌هایی</td></tr>
 </table>
 
-`PronType` seems to be **lexical feature** of `PRON`. 94% lemmas (49) occur only with one value of `PronType`.
+`PronType` seems to be **lexical feature** of `PRON`. 96% lemmas (53) occur only with one value of `PronType`.
 
 ### `ADV`
 
@@ -50,7 +49,7 @@ The most frequent other feature values with which `ADV` and `PronType` co-occurr
 `ADV` tokens may have the following values of `PronType`:
 
 * `Int` (260; 100% of non-empty `PronType`): چرا، چه، چی، چگونه، کجا، مگر، چقدر، چطور، کی، چه‌طور
-* `EMPTY` (3625): پس، خیلی، پیش، نه، بعد، حتی، بسیار، مثل، البته، چنین
+* `EMPTY` (3626): پس، خیلی، پیش، نه، بعد، حتی، بسیار، مثل، البته، چنین
 
 `PronType` seems to be **lexical feature** of `ADV`. 100% lemmas (17) occur only with one value of `PronType`.
 

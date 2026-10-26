@@ -40,7 +40,7 @@ The following 3 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 16	Ca	Ca	PROPN	_	_	9	obl	_	_
 17	E	e	CCONJ	_	_	18	cc	_	_
 18	Cf	Cf	PROPN	_	_	16	conj	_	_
-19	http://t.co/D7kOIsDzeZ	http://t.co/D7kOIsDzeZ	SYM	_	_	8	parataxis	_	SpaceAfter=No
+19	http://t.co/D7kOIsDzeZ	http://t.co/D7kOIsDzeZ	SYM	_	_	8	parataxis	_	_
 
 ~~~
 
@@ -75,7 +75,7 @@ The following 3 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 22	as	o	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	23	det	_	_
 23	almas	alma	NOUN	_	Gender=Fem|Number=Plur	20	nmod	_	SpaceAfter=No
 24	!	!	PUNCT	_	_	17	punct	_	_
-25	http://t.co/l00d2g2AtO	http://t.co/l00d2g2AtO	SYM	_	_	4	parataxis	_	SpaceAfter=No
+25	http://t.co/l00d2g2AtO	http://t.co/l00d2g2AtO	SYM	_	_	4	parataxis	_	_
 
 ~~~
 
@@ -97,7 +97,7 @@ The following 3 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 9	as	o	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	10	det	_	_
 10	#OndasdeElliot	#OndasdeElliot	X	_	_	4	obl:agent	_	_
 11	:	:	PUNCT	_	_	12	punct	_	_
-12	http://t.co/4EzaUqct78	http://t.co/4EzaUqct78	SYM	_	_	1	parataxis	_	SpaceAfter=No
+12	http://t.co/4EzaUqct78	http://t.co/4EzaUqct78	SYM	_	_	1	parataxis	_	_
 
 ~~~
 

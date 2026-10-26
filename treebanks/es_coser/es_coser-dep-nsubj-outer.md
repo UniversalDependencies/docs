@@ -28,7 +28,7 @@ The following 2 pairs of parts of speech are connected with `nsubj:outer`: <tt><
 3	lo	él	PRON	pc3msa00	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	4	obj	_	_
 4	hacen	hacer	VERB	vmip3p0	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 5	?	?	PUNCT	fit	PunctSide=Fin|PunctType=Qest	4	punct	_	SpaceAfter=No
-6	,	,	PUNCT	fc	PunctType=Comm	4	punct	_	_
+6	,	,	PUNCT	fc	PunctType=Comm	12	punct	_	_
 7	maquinarios	maquinario	NOUN	ncmp000	Gender=Masc|Number=Plur	12	nsubj:outer	_	_
 8	ahí	ahí	ADV	rg	_	12	advmod	_	_
 9	que	que	SCONJ	cs	_	12	mark	_	_
@@ -38,7 +38,7 @@ The following 2 pairs of parts of speech are connected with `nsubj:outer`: <tt><
 13	moliendo	moler	VERB	vmg0000	VerbForm=Ger	12	xcomp	_	_
 14	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
 15	oliva	oliva	NOUN	ncfs000	Gender=Fem|Number=Sing	13	obj	_	SpaceAfter=No
-16	,	,	PUNCT	fc	PunctType=Comm	13	punct	_	_
+16	,	,	PUNCT	fc	PunctType=Comm	17	punct	_	_
 17	va	ir	VERB	vmip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	conj	_	_
 18	cayendo	caer	VERB	vmg0000	VerbForm=Ger	17	xcomp	_	_
 19	a	a	ADP	sps00	_	21	case	_	_
@@ -81,12 +81,12 @@ The following 2 pairs of parts of speech are connected with `nsubj:outer`: <tt><
 12	llevaba	llevar	VERB	vmii3s0	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	7	ccomp	_	_
 13	él	él	PRON	pp3ms000	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	nsubj:outer	_	_
 14	un	uno	DET	di0ms0	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	16	det	_	SpaceAfter=No
-15	...	...	PUNCT	_	PunctType=Comm	16	punct	_	_
+15	...	...	PUNCT	_	PunctType=Comm	14	punct	_	_
 16	terreno	terreno	NOUN	ncms000	Gender=Masc|Number=Sing	12	obj	_	SpaceAfter=No
-17	,	,	PUNCT	fc	PunctType=Comm	16	punct	_	_
+17	,	,	PUNCT	fc	PunctType=Comm	23	punct	_	_
 18	y	y	CCONJ	cc	_	23	cc	_	_
 19	claro	claro	INTJ	aq0ms0	_	23	discourse	_	SpaceAfter=No
-20	,	,	PUNCT	fc	PunctType=Comm	23	punct	_	_
+20	,	,	PUNCT	fc	PunctType=Comm	19	punct	_	_
 21	los	el	DET	da0mp0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	22	det	_	_
 22	jornales	jornal	NOUN	ncmp000	Gender=Masc|Number=Plur	23	nsubj	_	_
 23	valían	valer	VERB	vmii3p0	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	12	conj	_	_

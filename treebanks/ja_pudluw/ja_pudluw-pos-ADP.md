@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  の (<tt><a href="ja_pudluw-pos-ADP.html"
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.037736 (the average of all parts of speech is 1.079803).
+The form / lemma ratio of `ADP` is 1.037736 (the average of all parts of speech is 1.079832).
 
 The 1st highest number of forms (2) was observed with the lemma “にわたり”: にわたり, に渡り.
 
@@ -65,9 +65,9 @@ The 3rd highest number of forms (1) was observed with the lemma “か”: か.
 
 ## Relations
 
-`ADP` nodes are attached to their parents using 3 different relations: <tt><a href="ja_pudluw-dep-case.html">case</a></tt> (6489; 100% instances), <tt><a href="ja_pudluw-dep-dep.html">dep</a></tt> (10; 0% instances), <tt><a href="ja_pudluw-dep-fixed.html">fixed</a></tt> (3; 0% instances)
+`ADP` nodes are attached to their parents using 2 different relations: <tt><a href="ja_pudluw-dep-case.html">case</a></tt> (6499; 100% instances), <tt><a href="ja_pudluw-dep-fixed.html">fixed</a></tt> (3; 0% instances)
 
-Parents of `ADP` nodes belong to 9 different parts of speech: <tt><a href="ja_pudluw-pos-NOUN.html">NOUN</a></tt> (4397; 68% instances), <tt><a href="ja_pudluw-pos-PROPN.html">PROPN</a></tt> (958; 15% instances), <tt><a href="ja_pudluw-pos-PRON.html">PRON</a></tt> (438; 7% instances), <tt><a href="ja_pudluw-pos-NUM.html">NUM</a></tt> (354; 5% instances), <tt><a href="ja_pudluw-pos-VERB.html">VERB</a></tt> (231; 4% instances), <tt><a href="ja_pudluw-pos-ADJ.html">ADJ</a></tt> (83; 1% instances), <tt><a href="ja_pudluw-pos-ADV.html">ADV</a></tt> (36; 1% instances), <tt><a href="ja_pudluw-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances), <tt><a href="ja_pudluw-pos-AUX.html">AUX</a></tt> (2; 0% instances)
+Parents of `ADP` nodes belong to 8 different parts of speech: <tt><a href="ja_pudluw-pos-NOUN.html">NOUN</a></tt> (4396; 68% instances), <tt><a href="ja_pudluw-pos-PROPN.html">PROPN</a></tt> (958; 15% instances), <tt><a href="ja_pudluw-pos-PRON.html">PRON</a></tt> (438; 7% instances), <tt><a href="ja_pudluw-pos-NUM.html">NUM</a></tt> (354; 5% instances), <tt><a href="ja_pudluw-pos-VERB.html">VERB</a></tt> (234; 4% instances), <tt><a href="ja_pudluw-pos-ADJ.html">ADJ</a></tt> (83; 1% instances), <tt><a href="ja_pudluw-pos-ADV.html">ADV</a></tt> (36; 1% instances), <tt><a href="ja_pudluw-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances)
 
 6502 (100%) `ADP` nodes are leaves.
 

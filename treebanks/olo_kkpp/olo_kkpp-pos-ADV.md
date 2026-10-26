@@ -42,7 +42,7 @@ The 10 most frequent ambiguous types:  <em>sit</em> (<tt><a href="olo_kkpp-pos-A
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.000000 (the average of all parts of speech is 1.335034).
+The form / lemma ratio of `ADV` is 1.000000 (the average of all parts of speech is 1.337308).
 
 The 1st highest number of forms (1) was observed with the lemma “Konzubo”: <em>Konzubo</em>.
 
@@ -50,7 +50,13 @@ The 2nd highest number of forms (1) was observed with the lemma “ainos”: <em
 
 The 3rd highest number of forms (1) was observed with the lemma “buitegu”: <em>buitegu</em>.
 
-`ADV` does not occur with any features.
+`ADV` occurs with 1 features: <tt><a href="olo_kkpp-feat-ExtPos.html">ExtPos</a></tt> (4; 4% instances)
+
+`ADV` occurs with 1 feature-value pairs: `ExtPos=ADV`
+
+`ADV` occurs with 2 feature combinations.
+The most frequent feature combination is `_` (100 tokens).
+Examples: <em>sit, ainos, gu, muga, ylen, hyvin, jo, ližäkse, taaste, uvvessah</em>
 
 
 ## Relations

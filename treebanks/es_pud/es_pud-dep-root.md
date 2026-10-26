@@ -30,7 +30,7 @@ The following 7 pairs of parts of speech are connected with `root`: -<tt><a href
 6	cargo	cargo	NOUN	NN	Gender=Masc|Number=Sing	4	obl	_	_
 7	de	de	ADP	IN	_	10	case	_	_
 8	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
-9	gran	gran	ADJ	JJ	Gender=Fem|Number=Sing	10	amod	_	_
+9	gran	gran	ADJ	JJ	Number=Sing	10	amod	_	_
 10	cuenta	cuenta	NOUN	NN	Gender=Fem|Number=Sing	6	nmod	_	_
 11	bancaria	bancario	ADJ	JJ	Gender=Fem|Number=Sing	10	amod	_	_
 12	de	de	ADP	IN	_	13	case	_	_
@@ -70,7 +70,7 @@ The following 7 pairs of parts of speech are connected with `root`: -<tt><a href
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 10 root	color:blue
-1	A	a	ADP	IN	_	10	advmod	_	_
+1	A	a	ADP	IN	ExtPos=ADV	10	advmod	_	_
 2	lo	él	PRON	DT	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	1	fixed	_	_
 3	mejor	mejor	NOUN	NN	Gender=Masc|Number=Sing	1	fixed	_	_
 4	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_

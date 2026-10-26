@@ -70,7 +70,7 @@ The following 4 pairs of parts of speech are connected with `acl`: <tt><a href="
 21	muž	muž	NOUN	NNMS1-----A----	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	18	nsubj	_	_
 22	–	–	PUNCT	Z:-------------	_	29	punct	_	_
 23	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	27	case	_	_
-24	té	ten	DET	PDFS6----------	Case=Loc|Gender=Fem|Number=Sing|PronType=Dem	27	obl	_	_
+24	té	ten	DET	PDFS6----------	Case=Loc|Gender=Fem|Number=Sing|PronType=Dem	27	det	_	_
 25	slavněteskné	slavněteskný	ADJ	AAFS6----1A----	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos|Style=Rare	27	amod	_	_
 26	vůkol	vůkol	ADV	Db-------------	_	27	advmod	_	_
 27	tiši	tiš	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing	29	obl	_	_

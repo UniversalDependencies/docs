@@ -39,13 +39,13 @@ The following 43 pairs of parts of speech are connected with `nmod`: <tt><a href
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 7 nmod	color:blue
-1	дьние	дьнь	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	0	root	_	ref=89.10
-2	лѣтомъ	лѣто	NOUN	Nb	Case=Dat|Gender=Neut|Number=Plur	1	nmod	_	ref=89.10
-3	нашімъ	нашь	DET	Ps	Case=Dat|Gender=Neut|Number=Plur|Person=1|Poss=Yes	2	det	_	ref=89.10
-4	Въ	въ	ADP	R-	_	5	case	_	ref=89.10
-5	ніхъже	иже	PRON	Pr	Case=Loc|Gender=Masc|Number=Plur|PronType=Rel	1	acl	_	ref=89.10
-6	о҃	седмь.десѧтъ	NUM	Ma	_	5	nsubj	_	ref=89.10
-7	лѣтъ	лѣто	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	6	nmod	_	ref=89.10
+1	дьние	дьнь	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	0	root	_	Ref=89.10
+2	лѣтомъ	лѣто	NOUN	Nb	Case=Dat|Gender=Neut|Number=Plur	1	nmod	_	Ref=89.10
+3	нашімъ	нашь	DET	Ps	Case=Dat|Gender=Neut|Number=Plur|Person=1|Poss=Yes	2	det	_	Ref=89.10
+4	Въ	въ	ADP	R-	_	5	case	_	Ref=89.10
+5	ніхъже	иже	PRON	Pr	Case=Loc|Gender=Masc|Number=Plur|PronType=Rel	1	acl	_	Ref=89.10
+6	о҃	седмь.десѧтъ	NUM	Ma	_	5	nsubj	_	Ref=89.10
+7	лѣтъ	лѣто	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	6	nmod	_	Ref=89.10
 
 ~~~
 
@@ -56,9 +56,9 @@ The following 43 pairs of parts of speech are connected with `nmod`: <tt><a href
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 3 nmod	color:blue
-1	помꙑсліхъ	помꙑслити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=76.6
-2	дьні	дьнь	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	1	obj	_	ref=76.6
-3	пръвꙑѩ	прьвъ	ADJ	Mo	Case=Acc|Gender=Masc|Number=Plur	2	nmod	_	ref=76.6
+1	помꙑсліхъ	помꙑслити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=76.6
+2	дьні	дьнь	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	1	obj	_	Ref=76.6
+3	пръвꙑѩ	прьвъ	ADJ	Mo	Case=Acc|Gender=Masc|Number=Plur	2	nmod	_	Ref=76.6
 
 ~~~
 

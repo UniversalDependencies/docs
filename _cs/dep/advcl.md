@@ -26,4 +26,8 @@ Spěchal , aby přišel včas . \n He-rushed , in-order-to come in-time .
 advcl(Spěchal, přišel)
 advcl(He-rushed, come)
 ~~~
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:15 CET -->
+
+Beginning with release 2.17, optional depictives (secondary predication) are annotated with the dedicated relation
+subtype [advcl:pred]() instead of plain `advcl`.
+
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:27 CEST -->

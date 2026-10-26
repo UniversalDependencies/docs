@@ -40,7 +40,7 @@ The following 2 pairs of parts of speech are connected with `orphan`: <tt><a hre
 # visual-style 22 24 orphan	color:blue
 1	Bank	bank	NOUN	NN	Number=Sing	3	nsubj	_	_
 2	Mandiri	Mandiri	PROPN	NNP	_	1	flat:name	_	_
-3	menyumbang	sumbang	VERB	VB	Mood=Ind|Voice=Act	0	root	_	_
+3	menyumbang	sumbang	VERB	VB	Voice=Act	0	root	_	_
 4	NPL	NPL	PROPN	NNP	_	3	obj	_	_
 5	terbanyak	banyak	ADJ	JJ	Degree=Sup	4	amod	_	_
 6	sebesar	sebesar	NOUN	NN	Number=Sing	4	nmod	_	_

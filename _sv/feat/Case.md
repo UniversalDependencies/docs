@@ -20,12 +20,21 @@ The base form, typically used as a citation form (lemma).
 
 ### <a name="Acc">`Acc`</a>: accusative
 
-In many languages used for direct objects of verbs. In Swedish this form is only used for personal pronouns.
+In many languages used for direct objects of verbs. In modern Swedish this form is only used for personal pronouns. In earlier stages, it is found also for nouns and proper nouns.
 
 #### Examples
 
 * [sv] _du behöver <b>dem</b>_ "you need <b>them</b>"
 * [sv] _ta med <b>dig</b>_ "take with <b>you</b>"
+
+### <a name="Dat">`Dat`</a>: dative
+
+In many languages used for indirect objects of verbs and/or oblique arguments. In modern Swedish this form is not used at all. In earlier stages, it is found for pronouns, nouns and proper nouns.
+
+#### Examples
+
+* [sv] _for budhit ær <b>honum </b> mere at ætæ_ "for offered <b>to-him</b> is more to eat"
+* [sv] _hær sigx aff <b>abotum allum<b> skemptan mykla_ "here is told of <b>all abbots</b> many a joke"
 
 ### <a name="Gen">`Gen`</a>: genitive
 
@@ -36,4 +45,4 @@ Prototypical meaning of genitive is that the noun phrase somehow belongs to its 
 * [sv] _<b>eftermiddagens</b> övningar_ "the <b>afternoon's</b> exercises"
 * [sv] _<b>patientens</b> ekonomi_ "the <b>patient's</b> finances"
 
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:33 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:44 CEST -->

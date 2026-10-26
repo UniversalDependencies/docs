@@ -78,12 +78,12 @@ The 2nd highest number of forms (1) was observed with the lemma “Ba”: <em>Ba
 
 The 3rd highest number of forms (1) was observed with the lemma “Bu”: <em>Bu</em>.
 
-`SCONJ` occurs with 2 features: <tt><a href="wo_wtb-feat-Polarity.html">Polarity</a></tt> (4; 0% instances), <tt><a href="wo_wtb-feat-Mood.html">Mood</a></tt> (2; 0% instances)
+`SCONJ` occurs with 3 features: <tt><a href="wo_wtb-feat-ExtPos.html">ExtPos</a></tt> (10; 1% instances), <tt><a href="wo_wtb-feat-Polarity.html">Polarity</a></tt> (4; 0% instances), <tt><a href="wo_wtb-feat-Mood.html">Mood</a></tt> (2; 0% instances)
 
-`SCONJ` occurs with 2 feature-value pairs: `Mood=Imp`, `Polarity=Neg`
+`SCONJ` occurs with 4 feature-value pairs: `ExtPos=ADV`, `ExtPos=SCONJ`, `Mood=Imp`, `Polarity=Neg`
 
-`SCONJ` occurs with 3 feature combinations.
-The most frequent feature combination is `_` (865 tokens).
+`SCONJ` occurs with 5 feature combinations.
+The most frequent feature combination is `_` (855 tokens).
 Examples: <em>ne, ba, bu, su, ni, ndax, bi, balaa, lu, li</em>
 
 

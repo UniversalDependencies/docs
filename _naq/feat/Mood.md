@@ -18,7 +18,7 @@ udver: '2'
 </tr>
 </table>
 
-In Khoekhoe, `Mood` is a feature of [auxiliaries](naq-pos/AUX_).
+In Khoekhoe, `Mood` is a feature of [auxiliaries](naq-pos/AUX).
 
 
 ### <a name="Ind">`Ind`</a>: declarative
@@ -65,7 +65,7 @@ The action of the clause is possible but not certain. In Khoekhoe, there is no d
 
 ### <a name="Int">`Int`</a>: interrogative
 
-The speaker may use interrogative in yes-not questions. This value is used for the interrogative auxiliary _i_, and the emphatic interrogative _kha_.
+The speaker may use the interrogative in yes-not questions. This value is used for the interrogative auxiliary _i_, and the emphatic interrogative _kha_.
 
 #### Examples
 
@@ -80,3 +80,4 @@ The speaker uses assertive to state the action of the clause, when they believe 
 #### Examples
 
 * _Tita <b>kom</b> ra hî<b>o</b>._ "I am (certainly) doing."
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:00 CEST -->

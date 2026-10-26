@@ -31,4 +31,4 @@ Materialized with the interfix "puru", attached to verbs.
 
 The PDT tagset does not distinguish `Ptan` from `Plur` and `Coll` from `Sing`,
 therefore this distinction is not being made in the converted data.
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:39 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:50 CEST -->

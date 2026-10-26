@@ -25,7 +25,7 @@ The following 1 pairs of parts of speech are connected with `obl:arg`: <tt><a hr
 # visual-style 7 17 obl:arg	color:blue
 1	Για	για	ADP	ADP	_	3	mark	_	_
 2	να	να	AUX	AUX	_	3	aux	_	_
-3	μπορέσει	μπορώ	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	23	advcl	_	_
+3	μπορέσει	μπορώ	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	21	advcl	_	_
 4	ένας	ένας	DET	DET	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 5	έμπορος	έμπορος	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
 6	να	να	AUX	AUX	_	7	aux	_	_
@@ -43,9 +43,9 @@ The following 1 pairs of parts of speech are connected with `obl:arg`: <tt><a hr
 18	,	,	PUNCT	PUNCT	_	17	punct	_	_
 19	ο	ο	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
 20	τελευταίος	τελευταίος	ADJ	ADJ	Case=Nom|Gender=Masc|Number=Sing	23	nsubj	_	_
-21	πρέπει	πρέπει	AUX	AUX	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	23	aux	_	_
+21	πρέπει	πρέπει	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 22	να	να	AUX	AUX	_	23	aux	_	_
-23	αναλάβει	αναλαμβάνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	0	root	_	_
+23	αναλάβει	αναλαμβάνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	21	csubj	_	_
 24	από	από	ADP	ADP	_	26	case	_	_
 25	τον	ο	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	26	det	_	_
 26	κατασκευαστή	κατασκευαστής	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Sing	23	obl	_	_
@@ -60,7 +60,7 @@ The following 1 pairs of parts of speech are connected with `obl:arg`: <tt><a hr
 35	σήμερα	σήμερα	ADV	ADV	_	34	advmod	_	_
 36	οι	ο	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	37	det	_	_
 37	έμποροι	έμπορος	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Plur	34	nsubj	_	SpaceAfter=No
-38	.	.	PUNCT	PUNCT	_	23	punct	_	_
+38	.	.	PUNCT	PUNCT	_	21	punct	_	_
 
 ~~~
 

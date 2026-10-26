@@ -25,7 +25,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 * `Cmp` (18; 4% of non-empty `Degree`): <em>Dlěši, abstrakniše, efektiwniše, husćiša, jasniši, kompleksniše, mjeńšich, młódši, pozdźiše, starše</em>
 * `Pos` (464; 91% of non-empty `Degree`): <em>serbski, wulki, dalše, wotpowědne, wulke, Ekscelentny, ablawtowych, posledni, sewjernej, wuznamne</em>
 * `Sup` (30; 6% of non-empty `Degree`): <em>najwjetše, najwjetši, najmjeńši, najstarše, najwažniša, Najwažniše, najhusćiša, najnuzniša, najrjeńšim, najrozdźělnišich</em>
-* `EMPTY` (909): <em>druhe, druhich, prěni, prěnje, Serbskeho, serbskeje, wjacore, wažne, wulku, wědomostnych</em>
+* `EMPTY` (907): <em>druhe, druhich, prěni, prěnje, Serbskeho, serbskeje, wjacore, wažne, wědomostnych, Třećeho</em>
 
 <table>
   <tr><th>Paradigm <i>wulki</i></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>
@@ -61,6 +61,7 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
 
 <table>
   <tr><th>Paradigm <i>wjele</i></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>
+  <tr><td><tt><tt><a href="hsb_ufal-feat-ExtPos.html">ExtPos</a></tt><tt>=ADV</tt></tt></td><td></td><td><em>wjace</em></td><td></td></tr>
   <tr><td><tt></tt></td><td><em>wjele</em></td><td><em>wjace</em></td><td><em>najwjace</em></td></tr>
 </table>
 
@@ -77,7 +78,7 @@ The most frequent other feature values with which `DET` and `Degree` co-occurred
 * `Cmp` (2; 13% of non-empty `Degree`): <em>mjenje, wjace</em>
 * `Pos` (13; 81% of non-empty `Degree`): <em>wjele, mnoho</em>
 * `Sup` (1; 6% of non-empty `Degree`): <em>najwjace</em>
-* `EMPTY` (311): <em>n, kotrež, tute, jeho, jich, kotryž, kotraž, tutón, swoje, tuta</em>
+* `EMPTY` (310): <em>n, kotrež, jeho, jich, tute, kotryž, kotraž, tutón, swoje, tuta</em>
 
 <table>
   <tr><th>Paradigm <i>wjele</i></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>

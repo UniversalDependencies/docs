@@ -8,55 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="ota_dudu-dep-advmod.html">advmod</a></tt>.
 
-7 nodes (1%) are attached to their parents as `advmod:emph`.
+230 nodes (1%) are attached to their parents as `advmod:emph`.
 
-7 instances of `advmod:emph` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.
+226 instances of `advmod:emph` (98%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.19130434782609.
 
-The following 5 pairs of parts of speech are connected with `advmod:emph`: <tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ota_dudu-pos-PART.html">PART</a></tt> (3; 43% instances), <tt><a href="ota_dudu-pos-ADV.html">ADV</a></tt>-<tt><a href="ota_dudu-pos-PART.html">PART</a></tt> (1; 14% instances), <tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ota_dudu-pos-ADV.html">ADV</a></tt> (1; 14% instances), <tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ota_dudu-pos-CCONJ.html">CCONJ</a></tt> (1; 14% instances), <tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt>-<tt><a href="ota_dudu-pos-PART.html">PART</a></tt> (1; 14% instances).
-
-
-~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 6 advmod:emph	color:blue
-1	ḥalḳa	ḥalḳ	NOUN	_	Case=Dat|Number=Sing|Person=3	3	obl	_	_
-2	doġru	doġru	ADP	PCDat	_	1	case	_	_
-3	gitmenin	git	VERB	Vnoun	Case=Gen|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	5	nmod:poss	_	_
-4	ikinci	iki	NUM	NNum	Case=Nom|Number=Sing|NumType=Ord|Person=3	5	amod	_	_
-5	vazîfesi	vazîfe	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	9	nsubj	_	_
-6	de	de	PART	Emph	_	5	advmod:emph	_	_
-7	ḥalḳa	ḥalḳ	NOUN	_	Case=Dat|Number=Sing|Person=3	9	obl	_	_
-8	medeniyyet	medeniyyet	NOUN	_	Case=Acc|Number=Sing|Person=3	9	obj	_	_
-9	götürmek	götür	VERB	Vnoun	Case=Nom|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	0	root	_	_
-10	tir	i	AUX	Zero	Aspect=Perf|Number=Sing|Person=3|Tense=Pres	9	cop	_	_
-11	.	.	PUNCT	Stop	_	9	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 4 advmod:emph	color:blue
-1	evet	evet	INTJ	_	_	11	discourse	_	SpaceAfter=No
-2	,	,	PUNCT	Comma	_	1	punct	_	_
-3	biraz	biraz	ADV	_	_	5	amod	_	_
-4	da	da	PART	Emph	_	3	advmod:emph	_	_
-5	ʿaşḳtan	ʿaşḳ	NOUN	_	Case=Abl|Number=Sing|Person=3	11	obl	_	SpaceAfter=No
-6	,	,	PUNCT	Comma	_	5	punct	_	_
-7	daha	daha	ADV	_	_	8	advmod	_	_
-8	doġrusu	doġru	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	11	amod	_	_
-9	yine	yine	ADV	_	_	11	advmod	_	_
-10	ʿaşḳtan	ʿaşḳ	NOUN	_	Case=Abl|Number=Sing|Person=3	11	obl	_	_
-11	baḥsedelim	baḥset	VERB	_	Mood=Opt|Number=Plur|Person=1|Polarity=Pos	0	root	_	SpaceAfter=No
-12	.	.	PUNCT	_	_	11	punct	_	_
-
-~~~
+The following 12 pairs of parts of speech are connected with `advmod:emph`: <tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ota_dudu-pos-PART.html">PART</a></tt> (88; 38% instances), <tt><a href="ota_dudu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ota_dudu-pos-PART.html">PART</a></tt> (53; 23% instances), <tt><a href="ota_dudu-pos-PRON.html">PRON</a></tt>-<tt><a href="ota_dudu-pos-PART.html">PART</a></tt> (52; 23% instances), <tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ota_dudu-pos-ADV.html">ADV</a></tt> (13; 6% instances), <tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt>-<tt><a href="ota_dudu-pos-PART.html">PART</a></tt> (8; 3% instances), <tt><a href="ota_dudu-pos-NUM.html">NUM</a></tt>-<tt><a href="ota_dudu-pos-PART.html">PART</a></tt> (5; 2% instances), <tt><a href="ota_dudu-pos-PRON.html">PRON</a></tt>-<tt><a href="ota_dudu-pos-ADV.html">ADV</a></tt> (5; 2% instances), <tt><a href="ota_dudu-pos-ADV.html">ADV</a></tt>-<tt><a href="ota_dudu-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="ota_dudu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ota_dudu-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="ota_dudu-pos-ADV.html">ADV</a></tt>-<tt><a href="ota_dudu-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ota_dudu-pos-DET.html">DET</a></tt>-<tt><a href="ota_dudu-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="ota_dudu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ota_dudu-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -65,19 +22,51 @@ The following 5 pairs of parts of speech are connected with `advmod:emph`: <tt><
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 9 advmod:emph	color:blue
-1	yine	yine	ADV	_	_	2	advmod	_	_
-2	olmaz	ol	VERB	_	Aspect=Hab|Number=Sing|Person=3|Polarity=Neg|Tense=Pres	12	advcl	_	_
-3	ise	i	PART	Topic	_	2	discourse	_	_
-4	üçüncü	üç	NUM	NNum	Case=Nom|Number=Sing|NumType=Ord|Person=3	5	nummod	_	_
-5	defʿa	defʿa	NOUN	_	Case=Nom|Number=Sing|Person=3	12	obl	_	_
-6	on	on	NUM	ANum	NumType=Card	7	nummod	_	_
-7	bir	bir	NUM	ANum	NumType=Card	8	nummod	_	_
-8	gice	gece	NOUN	_	Case=Nom|Number=Sing|Person=3	12	obl	_	_
-9	daḫı	daḫı	ADV	Emph	_	8	advmod:emph	_	_
-10	eyleye	eyle	VERB	_	Mood=Imp|Number=Sing|Person=3|Polarity=Pos	12	obl	_	_
-11	elbette	elbette	ADV	_	_	12	advmod	_	_
-12	musaḫḫar	musaḫḫar	NOUN	_	Case=Nom|Number=Sing|Person=3	0	root	_	_
-13	olur	ol	VERB	_	Aspect=Hab|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	12	compound:lvc	_	_
+1	rāvī	rāvī	NOUN	_	Case=Nom|Number=Sing|Person=3	2	nsubj	_	_
+2	eydür	ey	VERB	_	Aspect=Hab|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	andan	o	PRON	Demons	Case=Abl|Number=Sing|Person=3|PronType=Dem	10	obl	_	_
+4	ṣoñra	ṣoñra	ADP	PCAbl	_	3	case	_	_
+5	mühelhel	mühelhel	PROPN	Pers	Case=Nom|NameType=Prs|Number=Sing|Person=3	10	nsubj	_	_
+6	daḫı	daḫı	PART	Emph	_	5	advmod:emph	_	_
+7	ve	ve	CCONJ	_	_	8	cc	_	_
+8	atası	ata	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	5	conj	_	_
+9	daḫı	daḫı	PART	Emph	_	8	advmod:emph	_	_
+10	öldiler	öl	VERB	_	Aspect=Perf|Evident=Fh|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	2	ccomp	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 advmod:emph	color:blue
+1	iblīs	iblīs	PROPN	_	Case=Nom|Number=Sing|Person=3	6	nsubj	_	_
+2	daḫı	daḫı	PART	Emph	_	1	advmod:emph	_	_
+3	henūz	henūz	ADV	_	_	5	advmod	_	_
+4	ibrāhīmüñ	ibrāhīm	PROPN	Pers	Case=Gen|Gender=Masc|NameType=Prs|Number=Sing|Person=3	5	nsubj	_	_
+5	ṭoġdıḳın	ṭoġ	VERB	Ptcp	Aspect=Perf|Case=Acc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|Polarity=Pos|Tense=Past|VerbForm=Part	6	ccomp	_	_
+6	bilmezdi	bil	VERB	_	Aspect=Hab|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin	0	root	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 advmod:emph	color:blue
+1	kendinüñ	kendi	PRON	Pers	Case=Gen|Number=Sing|Person=3|PronType=Dem	4	nmod:poss	_	_
+2	daḫī	daḫī	PART	Emph	_	1	advmod:emph	_	_
+3	saṭḥīce	saṭḥīce	ADJ	Adj	_	4	amod	_	_
+4	ebyātı	beyt	NOUN	_	Case=Nom|Number=Plur|Number[psor]=Sing|Person=3|Person[psor]=3	8	nsubj	_	_
+5	ve	ve	CCONJ	_	_	7	cc	_	_
+6	sādece	sādece	ADJ	Adj	_	7	amod	_	_
+7	kelimātı	kelime	NOUN	_	Case=Nom|Number=Plur|Number[psor]=Sing|Person=3|Person[psor]=3	4	conj	_	_
+8	var	var	NOUN	Exist	Case=Nom|Number=Sing|Person=3|Polarity=Pos	0	root	_	_
+9	dur	y	AUX	Zero	Aspect=Perf|Number=Sing|Person=3|Tense=Pres	8	cop	_	_
 
 ~~~
 

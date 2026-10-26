@@ -49,12 +49,12 @@ The following 21 pairs of parts of speech are connected with `advcl`: <tt><a hre
 2	tengo	tener	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	unos	uno	DET	di0mp0	Definite=Ind|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
 4	hijos	hijo	NOUN	ncmp000	Gender=Masc|Number=Plur	2	obj	_	SpaceAfter=No
-5	,	,	PUNCT	fc	PunctType=Comm	2	punct	_	_
+5	,	,	PUNCT	fc	PunctType=Comm	10	punct	_	_
 6	que	que	SCONJ	pr0cn000	_	10	mark	_	_
 7	todo	todo	PRON	pi0ms000	Gender=Masc|Number=Sing|PronType=Tot	10	nsubj	_	_
 8	es	ser	AUX	vsip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
 9	muy	mucho	ADV	rg	_	10	advmod	_	_
-10	bueno	bueno	ADJ	aq0ms0	Gender=Masc|Number=Sing	2	advcl	_	SpaceAfter=No
+10	bueno	buen	ADJ	aq0ms0	Gender=Masc|Number=Sing	2	advcl	_	SpaceAfter=No
 11	.	.	PUNCT	fp	PunctType=Peri	2	punct	_	_
 
 ~~~
@@ -78,7 +78,7 @@ The following 21 pairs of parts of speech are connected with `advcl`: <tt><a hre
 10	Quieres	querer	VERB	vmip2s0	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	parataxis	_	_
 11	más	más	ADV	di0cn0	Degree=Cmp	12	advmod	_	_
 12	cosas	cosa	NOUN	ncfp000	Gender=Fem|Number=Plur	10	obj	_	SpaceAfter=No
-13	?	?	PUNCT	fit	PunctSide=Fin|PunctType=Qest	2	punct	_	_
+13	?	?	PUNCT	fit	PunctSide=Fin|PunctType=Qest	10	punct	_	_
 
 ~~~
 

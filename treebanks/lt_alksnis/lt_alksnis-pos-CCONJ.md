@@ -84,21 +84,21 @@ Examples: <em>ir, ar, o, bei, bet, tačiau, arba, kadangi, kuo, tai</em>
 
 ## Relations
 
-`CCONJ` nodes are attached to their parents using 4 different relations: <tt><a href="lt_alksnis-dep-cc.html">cc</a></tt> (3038; 99% instances), <tt><a href="lt_alksnis-dep-mark.html">mark</a></tt> (35; 1% instances), <tt><a href="lt_alksnis-dep-advmod-emph.html">advmod:emph</a></tt> (5; 0% instances), <tt><a href="lt_alksnis-dep-root.html">root</a></tt> (3; 0% instances)
+`CCONJ` nodes are attached to their parents using 4 different relations: <tt><a href="lt_alksnis-dep-cc.html">cc</a></tt> (3042; 99% instances), <tt><a href="lt_alksnis-dep-mark.html">mark</a></tt> (35; 1% instances), <tt><a href="lt_alksnis-dep-root.html">root</a></tt> (3; 0% instances), <tt><a href="lt_alksnis-dep-advmod-emph.html">advmod:emph</a></tt> (1; 0% instances)
 
-Parents of `CCONJ` nodes belong to 12 different parts of speech: <tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt> (1412; 46% instances), <tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt> (1108; 36% instances), <tt><a href="lt_alksnis-pos-ADJ.html">ADJ</a></tt> (287; 9% instances), <tt><a href="lt_alksnis-pos-X.html">X</a></tt> (68; 2% instances), <tt><a href="lt_alksnis-pos-ADV.html">ADV</a></tt> (64; 2% instances), <tt><a href="lt_alksnis-pos-PROPN.html">PROPN</a></tt> (53; 2% instances), <tt><a href="lt_alksnis-pos-PRON.html">PRON</a></tt> (37; 1% instances), <tt><a href="lt_alksnis-pos-NUM.html">NUM</a></tt> (30; 1% instances), <tt><a href="lt_alksnis-pos-DET.html">DET</a></tt> (12; 0% instances), <tt><a href="lt_alksnis-pos-PART.html">PART</a></tt> (4; 0% instances),  (3; 0% instances), <tt><a href="lt_alksnis-pos-SYM.html">SYM</a></tt> (3; 0% instances)
+Parents of `CCONJ` nodes belong to 12 different parts of speech: <tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt> (1413; 46% instances), <tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt> (1107; 36% instances), <tt><a href="lt_alksnis-pos-ADJ.html">ADJ</a></tt> (287; 9% instances), <tt><a href="lt_alksnis-pos-X.html">X</a></tt> (68; 2% instances), <tt><a href="lt_alksnis-pos-ADV.html">ADV</a></tt> (64; 2% instances), <tt><a href="lt_alksnis-pos-PROPN.html">PROPN</a></tt> (53; 2% instances), <tt><a href="lt_alksnis-pos-PRON.html">PRON</a></tt> (37; 1% instances), <tt><a href="lt_alksnis-pos-NUM.html">NUM</a></tt> (30; 1% instances), <tt><a href="lt_alksnis-pos-DET.html">DET</a></tt> (12; 0% instances), <tt><a href="lt_alksnis-pos-PART.html">PART</a></tt> (4; 0% instances),  (3; 0% instances), <tt><a href="lt_alksnis-pos-SYM.html">SYM</a></tt> (3; 0% instances)
 
-3077 (100%) `CCONJ` nodes are leaves.
+3078 (100%) `CCONJ` nodes are leaves.
 
 0 (0%) `CCONJ` nodes have one child.
 
-2 (0%) `CCONJ` nodes have two children.
+1 (0%) `CCONJ` nodes have two children.
 
 2 (0%) `CCONJ` nodes have three or more children.
 
 The highest child degree of a `CCONJ` node is 4.
 
-Children of `CCONJ` nodes are attached using 6 different relations: <tt><a href="lt_alksnis-dep-punct.html">punct</a></tt> (4; 36% instances), <tt><a href="lt_alksnis-dep-obj.html">obj</a></tt> (3; 27% instances), <tt><a href="lt_alksnis-dep-conj.html">conj</a></tt> (1; 9% instances), <tt><a href="lt_alksnis-dep-dep.html">dep</a></tt> (1; 9% instances), <tt><a href="lt_alksnis-dep-nsubj.html">nsubj</a></tt> (1; 9% instances), <tt><a href="lt_alksnis-dep-parataxis.html">parataxis</a></tt> (1; 9% instances)
+Children of `CCONJ` nodes are attached using 6 different relations: <tt><a href="lt_alksnis-dep-punct.html">punct</a></tt> (4; 44% instances), <tt><a href="lt_alksnis-dep-conj.html">conj</a></tt> (1; 11% instances), <tt><a href="lt_alksnis-dep-dep.html">dep</a></tt> (1; 11% instances), <tt><a href="lt_alksnis-dep-nsubj.html">nsubj</a></tt> (1; 11% instances), <tt><a href="lt_alksnis-dep-obj.html">obj</a></tt> (1; 11% instances), <tt><a href="lt_alksnis-dep-parataxis.html">parataxis</a></tt> (1; 11% instances)
 
-Children of `CCONJ` nodes belong to 5 different parts of speech: <tt><a href="lt_alksnis-pos-PUNCT.html">PUNCT</a></tt> (4; 36% instances), <tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt> (3; 27% instances), <tt><a href="lt_alksnis-pos-ADV.html">ADV</a></tt> (2; 18% instances), <tt><a href="lt_alksnis-pos-ADJ.html">ADJ</a></tt> (1; 9% instances), <tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt> (1; 9% instances)
+Children of `CCONJ` nodes belong to 5 different parts of speech: <tt><a href="lt_alksnis-pos-PUNCT.html">PUNCT</a></tt> (4; 44% instances), <tt><a href="lt_alksnis-pos-ADV.html">ADV</a></tt> (2; 22% instances), <tt><a href="lt_alksnis-pos-ADJ.html">ADJ</a></tt> (1; 11% instances), <tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt> (1; 11% instances), <tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt> (1; 11% instances)
 

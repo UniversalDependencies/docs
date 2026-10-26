@@ -48,7 +48,7 @@ The following 7 pairs of parts of speech are connected with `nummod:gov`: <tt><a
 4	odsto	odsto	ADV	Rgp	Degree=Pos	5	nsubj	_	_
 5	izjasnilo	izjasniti	VERB	Vmp-sn	Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
 6	u	u	ADP	Sa	Case=Acc	8	case	_	_
-7	njegovu	njegov	DET	Ps3fsa	Case=Acc|Gender=Fem|Gender[psor]=Masc,Neut|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	8	det	_	_
+7	njegovu	njegov	DET	Ps3fsa	Case=Acc|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	8	det	_	Gender[psor]=Masc,Neut
 8	korist	korist	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	5	obl	_	SpaceAfter=No
 9	.	.	PUNCT	Z	_	5	punct	_	_
 

@@ -29,8 +29,8 @@ The following 2 pairs of parts of speech are connected with `fixed`: <tt><a href
 5	孩子	孩子	NOUN	_	_	12	obl:arg	_	SpaceAfter=No|Tone=2_5|Translit=hái_zi
 6	来说	来说	VERB	_	_	5	fixed	_	SpaceAfter=No|Tone=2_1|Translit=lái_shuō
 7	，	，	PUNCT	_	_	5	punct	_	SpaceAfter=No|Translit=，
-8	这	这	DET	_	_	9	det	_	Gloss=DEM.PROX|SpaceAfter=No|Tone=4|Translit=zhè
-9	个	个	NOUN	_	_	10	clf	_	Gloss=CLF|SpaceAfter=No|Tone=4|Translit=gè
+8	这	这	DET	_	_	10	det	_	Gloss=DEM.PROX|SpaceAfter=No|Tone=4|Translit=zhè
+9	个	个	NOUN	_	_	8	clf	_	Gloss=CLF|SpaceAfter=No|Tone=4|Translit=gè
 10	问题	问题	NOUN	_	_	12	nsubj	_	SpaceAfter=No|Tone=4_2|Translit=wèn_tí
 11	稍微	稍微	ADV	_	_	12	advmod	_	SpaceAfter=No|Tone=1_1|Translit=shāo_wēi
 12	复杂	复杂	ADJ	_	_	0	root	_	SpaceAfter=No|Tone=4_2|Translit=fù_zá
@@ -54,8 +54,8 @@ The following 2 pairs of parts of speech are connected with `fixed`: <tt><a href
 5	我	我	PRON	_	Person=1	13	nsubj	_	Gloss=1SG|SpaceAfter=No|Tone=3|Translit=wǒ
 6	就	就	ADV	_	_	13	advmod	_	SpaceAfter=No|Tone=4|Translit=jìu
 7	是	是	AUX	_	_	13	cop	_	SpaceAfter=No|Tone=4|Translit=shì
-8	一	一	NUM	_	NumType=Card	9	nummod	_	Gloss=one|SpaceAfter=No|Tone=1|Translit=yī
-9	个	个	NOUN	_	_	13	clf	_	Gloss=CLF|SpaceAfter=No|Tone=4|Translit=gè
+8	一	一	NUM	_	NumType=Card	13	nummod	_	Gloss=one|SpaceAfter=No|Tone=1|Translit=yī
+9	个	个	NOUN	_	_	8	clf	_	Gloss=CLF|SpaceAfter=No|Tone=4|Translit=gè
 10	这	这	DET	_	_	11	det	_	Gloss=DEM.PROX|SpaceAfter=No|Tone=4|Translit=zhè
 11	样	样	NOUN	_	_	13	nmod	_	Gloss=manner|SpaceAfter=No|Tone=2|Translit=yáng
 12	的	的	PART	_	Case=Gen	11	case	_	SpaceAfter=No|Tone=5|Translit=de

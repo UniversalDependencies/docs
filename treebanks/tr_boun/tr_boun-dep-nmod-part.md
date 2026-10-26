@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Turkish-BOUN: Relations: `nmod:part`
 
 This relation is a language-specific subtype of <tt><a href="tr_boun-dep-nmod.html">nmod</a></tt>.
-There are also 1 other language-specific subtypes of `nmod`: <tt><a href="tr_boun-dep-nmod-poss.html">nmod:poss</a></tt>.
+There are also 2 other language-specific subtypes of `nmod`: <tt><a href="tr_boun-dep-nmod-poss.html">nmod:poss</a></tt>, <tt><a href="tr_boun-dep-nmod-tmod.html">nmod:tmod</a></tt>.
 
 125 nodes (0%) are attached to their parents as `nmod:part`.
 
@@ -24,7 +24,7 @@ The following 16 pairs of parts of speech are connected with `nmod:part`: <tt><a
 # visual-style 2	fgColor:white
 # visual-style 2 1 nmod:part	color:blue
 1	Çocuklardan	çocuk	NOUN	_	Case=Abl|Number=Plur|Person=3	2	nmod:part	_	_
-2	biri	biri	PRON	Quant	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	0	root	_	SpaceAfter=No
+2	biri	biri	PRON	Quant	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|PronType=Ind	0	root	_	SpaceAfter=No
 3	,	,	PUNCT	Comma	_	2	punct	_	SpacesAfter=\n
 
 ~~~
@@ -39,7 +39,7 @@ The following 16 pairs of parts of speech are connected with `nmod:part`: <tt><a
 1	"	"	PUNCT	Punc	_	2	punct	_	SpaceAfter=No
 2	Bizim	Bizim	PRON	Pers	Case=Gen|Number=Plur|Person=1|PronType=Prs	3	nmod:poss	_	_
 3	okuldan	okul	NOUN	_	Case=Abl|Number=Sing|Person=3	5	nmod:part	_	_
-4	bir	bir	DET	Indef	_	5	det	_	_
+4	bir	bir	DET	Indef	PronType=Ind	5	det	_	_
 5	çocuğun	çocuk	NOUN	_	Case=Gen|Number=Sing|Person=3	6	nmod:poss	_	_
 6	babası	baba	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	9	nsubj	_	_
 7	gece	gece	NOUN	_	Case=Nom|Number=Sing|Person=3	9	obl	_	_
@@ -57,7 +57,7 @@ The following 16 pairs of parts of speech are connected with `nmod:part`: <tt><a
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 6 nmod:part	color:blue
-1	Bu	bu	DET	Det	_	2	det	_	_
+1	Bu	bu	DET	Det	PronType=Dem	2	det	_	_
 2	albümler	albüm	NOUN	_	Case=Nom|Number=Plur|Person=3	8	nsubj	_	_
 3	Corea'nın	Corea	PROPN	_	Case=Gen|Number=Sing|Person=3	6	nmod:poss	_	_
 4	en	en	ADV	_	_	5	advmod	_	_

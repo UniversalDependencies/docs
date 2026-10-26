@@ -48,7 +48,7 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 
 10877 <tt><a href="ar_padt-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="ar_padt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (10877; 100%), <tt><a href="ar_padt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9002; 83%), <tt><a href="ar_padt-feat-Case.html">Case</a></tt><tt>=Gen</tt> (7425; 68%), <tt><a href="ar_padt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (6639; 61%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="ar_padt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (10850; 100%), <tt><a href="ar_padt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9002; 83%), <tt><a href="ar_padt-feat-Case.html">Case</a></tt><tt>=Gen</tt> (7425; 68%), <tt><a href="ar_padt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (6639; 61%).
 
 `PRON` tokens may have the following values of `Person`:
 
@@ -58,24 +58,26 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 
 <table>
   <tr><th>Paradigm <i>هُوَ</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
-  <tr><td><tt><tt><a href="ar_padt-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ar_padt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ar_padt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>ني</td><td>ك</td><td>ه</td></tr>
-  <tr><td><tt><tt><a href="ar_padt-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ar_padt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ar_padt-feat-Number.html">Number</a></tt><tt>=Dual</tt></tt></td><td></td><td></td><td>هما</td></tr>
-  <tr><td><tt><tt><a href="ar_padt-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ar_padt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ar_padt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td>نا</td><td>كم</td><td>هم</td></tr>
-  <tr><td><tt><tt><a href="ar_padt-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ar_padt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ar_padt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td>ها</td></tr>
-  <tr><td><tt><tt><a href="ar_padt-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ar_padt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ar_padt-feat-Number.html">Number</a></tt><tt>=Dual</tt></tt></td><td></td><td></td><td>هما</td></tr>
-  <tr><td><tt><tt><a href="ar_padt-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ar_padt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ar_padt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td>هن</td></tr>
-  <tr><td><tt><tt><a href="ar_padt-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ar_padt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ar_padt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>ي, ني</td><td>ك</td><td>ه, إدانته, استعداداته, انتشاره, بلاده, تجهيزه, حكومته, زنزانته, طائرته, لاراضيه, مستقبله, والده, وغربه</td></tr>
-  <tr><td><tt><tt><a href="ar_padt-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ar_padt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ar_padt-feat-Number.html">Number</a></tt><tt>=Dual</tt></tt></td><td></td><td>كما</td><td>هما</td></tr>
-  <tr><td><tt><tt><a href="ar_padt-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ar_padt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ar_padt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td>نا, لمساعدتنا</td><td>كم</td><td>هم, استبعادهم, بأنفسهم, بلادهم, بهم, شفائهم, لهم</td></tr>
-  <tr><td><tt><tt><a href="ar_padt-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ar_padt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ar_padt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td>ك</td><td>ها, أعضائها, أهدافها, إليها, بضمانها, بفقدانها, بهويتها, تجارتها, تجميدها, تخصيصها, مستشفياتها, مواجهتها, نهايتها</td></tr>
-  <tr><td><tt><tt><a href="ar_padt-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ar_padt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ar_padt-feat-Number.html">Number</a></tt><tt>=Dual</tt></tt></td><td></td><td></td><td>هما</td></tr>
-  <tr><td><tt><tt><a href="ar_padt-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ar_padt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ar_padt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td>هن</td></tr>
-  <tr><td><tt><tt><a href="ar_padt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ar_padt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ar_padt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>أنا, انا</td><td>أنت</td><td>هو</td></tr>
-  <tr><td><tt><tt><a href="ar_padt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ar_padt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ar_padt-feat-Number.html">Number</a></tt><tt>=Dual</tt></tt></td><td></td><td></td><td>هما</td></tr>
-  <tr><td><tt><tt><a href="ar_padt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ar_padt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ar_padt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td>نحن</td><td>انتم, أنتم</td><td>هم</td></tr>
-  <tr><td><tt><tt><a href="ar_padt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ar_padt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ar_padt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td>هي, هى, وهي</td></tr>
-  <tr><td><tt><tt><a href="ar_padt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ar_padt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ar_padt-feat-Number.html">Number</a></tt><tt>=Dual</tt></tt></td><td></td><td></td><td>هما</td></tr>
-  <tr><td><tt><tt><a href="ar_padt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ar_padt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ar_padt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td>هن</td></tr>
+  <tr><td><tt><tt><a href="ar_padt-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ar_padt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ar_padt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ar_padt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td>ني</td><td>ك</td><td>ه</td></tr>
+  <tr><td><tt><tt><a href="ar_padt-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ar_padt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ar_padt-feat-Number.html">Number</a></tt><tt>=Dual</tt>|<tt><a href="ar_padt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td></td><td>هما</td></tr>
+  <tr><td><tt><tt><a href="ar_padt-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ar_padt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ar_padt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ar_padt-feat-PronType.html">PronType</a></tt><tt>=Int</tt></tt></td><td></td><td>كم</td><td></td></tr>
+  <tr><td><tt><tt><a href="ar_padt-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ar_padt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ar_padt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ar_padt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td>نا</td><td></td><td>هم</td></tr>
+  <tr><td><tt><tt><a href="ar_padt-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ar_padt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ar_padt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ar_padt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td></td><td>ها</td></tr>
+  <tr><td><tt><tt><a href="ar_padt-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ar_padt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ar_padt-feat-Number.html">Number</a></tt><tt>=Dual</tt>|<tt><a href="ar_padt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td></td><td>هما</td></tr>
+  <tr><td><tt><tt><a href="ar_padt-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ar_padt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ar_padt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ar_padt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td></td><td>هن</td></tr>
+  <tr><td><tt><tt><a href="ar_padt-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ar_padt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ar_padt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ar_padt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td>ي, ني</td><td>ك</td><td>ه, إدانته, استعداداته, انتشاره, بلاده, تجهيزه, حكومته, زنزانته, طائرته, لاراضيه, مستقبله, والده, وغربه</td></tr>
+  <tr><td><tt><tt><a href="ar_padt-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ar_padt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ar_padt-feat-Number.html">Number</a></tt><tt>=Dual</tt>|<tt><a href="ar_padt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td>كما</td><td>هما</td></tr>
+  <tr><td><tt><tt><a href="ar_padt-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ar_padt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ar_padt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ar_padt-feat-PronType.html">PronType</a></tt><tt>=Int</tt></tt></td><td></td><td>كم</td><td></td></tr>
+  <tr><td><tt><tt><a href="ar_padt-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ar_padt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ar_padt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ar_padt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td>نا, لمساعدتنا</td><td></td><td>هم, استبعادهم, بأنفسهم, بلادهم, بهم, شفائهم, لهم</td></tr>
+  <tr><td><tt><tt><a href="ar_padt-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ar_padt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ar_padt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ar_padt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td>ك</td><td>ها, أعضائها, أهدافها, إليها, بضمانها, بفقدانها, بهويتها, تجارتها, تجميدها, تخصيصها, مستشفياتها, مواجهتها, نهايتها</td></tr>
+  <tr><td><tt><tt><a href="ar_padt-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ar_padt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ar_padt-feat-Number.html">Number</a></tt><tt>=Dual</tt>|<tt><a href="ar_padt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td></td><td>هما</td></tr>
+  <tr><td><tt><tt><a href="ar_padt-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ar_padt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ar_padt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ar_padt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td></td><td>هن</td></tr>
+  <tr><td><tt><tt><a href="ar_padt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ar_padt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ar_padt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ar_padt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td>أنا, انا</td><td>أنت</td><td>هو</td></tr>
+  <tr><td><tt><tt><a href="ar_padt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ar_padt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ar_padt-feat-Number.html">Number</a></tt><tt>=Dual</tt>|<tt><a href="ar_padt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td></td><td>هما</td></tr>
+  <tr><td><tt><tt><a href="ar_padt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ar_padt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ar_padt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ar_padt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td>نحن</td><td>انتم, أنتم</td><td>هم</td></tr>
+  <tr><td><tt><tt><a href="ar_padt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ar_padt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ar_padt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ar_padt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td></td><td>هي, هى, وهي</td></tr>
+  <tr><td><tt><tt><a href="ar_padt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ar_padt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ar_padt-feat-Number.html">Number</a></tt><tt>=Dual</tt>|<tt><a href="ar_padt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td></td><td>هما</td></tr>
+  <tr><td><tt><tt><a href="ar_padt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ar_padt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ar_padt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ar_padt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td></td><td>هن</td></tr>
 </table>
 
 ### `AUX`
@@ -111,7 +113,7 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 
 13 <tt><a href="ar_padt-pos-DET.html">DET</a></tt> tokens (0% of all `DET` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="ar_padt-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (13; 100%), <tt><a href="ar_padt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (12; 92%), <tt><a href="ar_padt-feat-Case.html">Case</a></tt><tt>=Gen</tt> (11; 85%), <tt><a href="ar_padt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (7; 54%).
+The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="ar_padt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (13; 100%), <tt><a href="ar_padt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (12; 92%), <tt><a href="ar_padt-feat-Case.html">Case</a></tt><tt>=Gen</tt> (11; 85%), <tt><a href="ar_padt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (7; 54%).
 
 `DET` tokens may have the following values of `Person`:
 
@@ -125,11 +127,11 @@ The 10 most frequent relations where parent and child node agree in `Person`:
 <tt>VERB --[<tt><a href="ar_padt-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (2545; 97%),
 <tt>VERB --[<tt><a href="ar_padt-dep-conj.html">conj</a></tt>]--> VERB</tt> (2532; 98%),
 <tt>VERB --[<tt><a href="ar_padt-dep-obj.html">obj</a></tt>]--> PRON</tt> (1225; 90%),
-<tt>VERB --[<tt><a href="ar_padt-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (1089; 97%),
+<tt>VERB --[<tt><a href="ar_padt-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (1085; 97%),
 <tt>VERB --[<tt><a href="ar_padt-dep-obl-arg.html">obl:arg</a></tt>]--> PRON</tt> (662; 90%),
-<tt>VERB --[<tt><a href="ar_padt-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (661; 100%),
-<tt>VERB --[<tt><a href="ar_padt-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (646; 100%),
+<tt>VERB --[<tt><a href="ar_padt-dep-advcl-pred.html">advcl:pred</a></tt>]--> VERB</tt> (646; 100%),
+<tt>VERB --[<tt><a href="ar_padt-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (642; 100%),
 <tt>VERB --[<tt><a href="ar_padt-dep-obl.html">obl</a></tt>]--> PRON</tt> (385; 96%),
-<tt>VERB --[<tt><a href="ar_padt-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (320; 96%),
-<tt>VERB --[<tt><a href="ar_padt-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (246; 98%).
+<tt>VERB --[<tt><a href="ar_padt-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (260; 96%),
+<tt>VERB --[<tt><a href="ar_padt-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (248; 98%).
 

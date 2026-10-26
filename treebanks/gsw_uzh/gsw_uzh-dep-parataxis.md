@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of parataxis in UD_Swiss_German-UZH'
+title:  'Statistics of parataxis in UD_Alemannic-UZH'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Swiss_German-UZH: Relations: `parataxis`
+## Treebank Statistics: UD_Alemannic-UZH: Relations: `parataxis`
 
 This relation is universal.
 

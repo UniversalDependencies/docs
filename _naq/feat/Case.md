@@ -23,7 +23,7 @@ Used for subject person-gender-number clitics, clause subjects in the place of p
 
 #### Examples
 
-* _<b>Petrub</b> ge <b>oms<b> ǃnâ go ǂgâ._ "**Peter** entered into the **house**."
+* _<b>Petrub</b> ge <b>oms</b> ǃnâ go ǂgâ._ "**Peter** entered into the **house**."
 
 * _O<b>b</b> ge ǁnâuǃgâǃkhaiba sida ǃoa nē ǁhōba go ao._ "Then the **court** tossed his matter to us."
 
@@ -41,8 +41,7 @@ Used for direct and indirect objects, clause subjects in clauses with separate s
 
 * _Ob ge <b>ǁnâuǃgâǃkhaiba</b> <b>sida</b> ǃoa nē <b>ǁhōba</b> go ao_ "Then the **court** tossed this **matter** to **us**."
 
-* _<b>ǁAmaxūǁgâuga</b> ǃoa ta nî ī
-…._ "I got to the **store**…"
+* _<b>ǁAmaxūǁgâuga</b> ǃoa ta nî ī …._ "I got to the **store**…"
 
 ### <a name="Voc">`Voc`</a>: vocative
 
@@ -53,3 +52,4 @@ The vocative case is a special form of nouns used to address someone. It is mark
 * _<b>ǃGôahesatse</b>, nēpa i ge ǃgomsiba hâ._ "**Sir**, there is a difficulty."
 
 * _<b>Abotse</b>, ǀûba te!_ "**God**, forgive me!"
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:44 CEST -->

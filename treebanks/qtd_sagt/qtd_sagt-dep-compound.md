@@ -65,7 +65,7 @@ The following 16 pairs of parts of speech are connected with `compound`: <tt><a 
 # visual-style 6	fgColor:white
 # visual-style 6 5 compound	color:blue
 1	Ben	ben	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	CSID=TR|Lang=tr
-2	ondan	o	PRON	_	Case=Abl|Number=Sing|Person=3|PronType=Prs	6	advmod	_	CSID=TR|Lang=tr
+2	ondan	o	PRON	_	Case=Abl|ExtPos=ADV|Number=Sing|Person=3|PronType=Prs	6	advmod	_	CSID=TR|Lang=tr
 3	sonra	sonra	ADP	_	_	2	fixed	_	CSID=TR|Lang=tr
 4	ona	o	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	6	obl	_	CSID=TR|Lang=tr
 5	wechseln	wechseln	VERB	_	VerbForm=Inf	6	compound	_	CSID=DE|Lang=de

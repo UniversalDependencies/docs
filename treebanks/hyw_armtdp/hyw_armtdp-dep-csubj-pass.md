@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="hyw_armtdp-dep-csubj.html">csubj</a></tt>.
 
-27 nodes (0%) are attached to their parents as `csubj:pass`.
+26 nodes (0%) are attached to their parents as `csubj:pass`.
 
-27 instances of `csubj:pass` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.51851851851852.
+26 instances of `csubj:pass` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 6.61538461538461.
 
-The following 3 pairs of parts of speech are connected with `csubj:pass`: <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> (25; 93% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt> (1; 4% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-ADV.html">ADV</a></tt> (1; 4% instances).
+The following 3 pairs of parts of speech are connected with `csubj:pass`: <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> (24; 92% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt> (1; 4% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-ADV.html">ADV</a></tt> (1; 4% instances).
 
 
 ~~~ conllu
@@ -71,7 +71,7 @@ The following 3 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 27	այսօր	այսօր	ADV	_	_	26	advmod	_	Translit=aysòr|LTranslit=aysòr|SpaceAfter=No
 28	,	,	PUNCT	_	_	32	punct	_	Translit=,|LTranslit=,
 29	երբ	երբ	ADV	_	PronType=Rel	32	advmod	_	Translit=erb|LTranslit=erb
-30	մենք	մենք	PRON	_	Animacy=Hum|Case=Nom|Number=Plur|Person=1|PronType=Prs	32	nsubj	_	Translit=menk’|LTranslit=menk’
+30	մենք	մենք	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	32	nsubj	_	Translit=menk’|LTranslit=menk’
 31	կը	կը	AUX	_	Aspect=Imp|Mood=Ind	32	aux	_	Translit=kë|LTranslit=kë
 32	մեռնինք	մեռնիլ	VERB	_	Aspect=Prosp|Mood=Sub|Number=Plur|Person=1|Polarity=Pos|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Mid	26	advcl:relcl	_	Translit=meṙnink’|LTranslit=meṙnil|SpaceAfter=No
 33	։	։	PUNCT	_	_	3	punct	_	Translit=.|LTranslit=.

@@ -86,7 +86,7 @@ The following 7 pairs of parts of speech are connected with `orphan`: <tt><a hre
 17	nag	nag	NOUN	NOUN	_	5	conj	_	_
 18	ak	ak	CCONJ	CONJ	_	19	cc	_	_
 19	giléem	giléem	NOUN	NOUN	_	17	conj	_	_
-20	naka	naka	ADP	PREP	_	17	advmod	_	_
+20	naka	naka	ADP	PREP	ExtPos=ADV	17	advmod	_	_
 21	noonu	noonu	ADV	ADV	_	20	fixed	_	SpaceAfter=No
 22	.	.	PUNCT	PERIOD	_	5	punct	_	_
 

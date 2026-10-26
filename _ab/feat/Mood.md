@@ -7,6 +7,14 @@ udver: '2'
 
 The feature marks the mood of the verb.
 
+### <a name="Ind">`Ind`</a>: Indicative
+
+#### Examples
+
+* [ab] _и-ҟа-с-ҵе-ит_ [DO.3-Pv-Subj.1Sg-Root(do)-<b>Aor</b>] ‘I have done it’ `Dyn=Yes|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Subcat=Tran|Tense=Aor|VerbForm=Fin`
+
+* [ab] _и-ҭ-га(<b>-ø</b>)_ [DO.3-raise(-<b>Impv</b>)] ‘raise it! (e.g. your voice)’ `Dyn=Yes|Gender[lo]=Neut|Mood=Imp|Number[lo]=Sing|Person[lo]=3|Person[obj]=3|Trans=Yes|VerbForm=Fin`
+
 ### <a name="Imp">`Imp`</a>: Imperative
 
 #### Examples
@@ -64,4 +72,4 @@ It is different from the Conditional 2 Tense.
 
 * [ab] _у-ҧш-<b>уазҭ.гьы</b>_ [Subj.2SgM-look-<b>Cnd2</b>] ‘(even) if you look’ `Dyn=Yes|Gender[subj]=Masc|Mood=Cnd2|Number[subj]=Sing|Person[subj]=2|Tense=Pres|Trans=No|VerbForm=NonFin`
 
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:47 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:00 CEST -->

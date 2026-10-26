@@ -11,7 +11,7 @@ This relation is universal.
 90 nodes (2%) are attached to their parents as `det`.
 
 88 instances of `det` (98%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.26666666666667.
+Average distance between parent and child is 1.28888888888889.
 
 The following 5 pairs of parts of speech are connected with `det`: <tt><a href="uz_ut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uz_ut-pos-DET.html">DET</a></tt> (84; 93% instances), <tt><a href="uz_ut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uz_ut-pos-PRON.html">PRON</a></tt> (3; 3% instances), <tt><a href="uz_ut-pos-ADV.html">ADV</a></tt>-<tt><a href="uz_ut-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="uz_ut-pos-NUM.html">NUM</a></tt>-<tt><a href="uz_ut-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="uz_ut-pos-VERB.html">VERB</a></tt>-<tt><a href="uz_ut-pos-DET.html">DET</a></tt> (1; 1% instances).
 
@@ -27,8 +27,8 @@ The following 5 pairs of parts of speech are connected with `det`: <tt><a href="
 3	aynan	aynan	ADV	_	_	4	advmod	_	_
 4	shu	shu	DET	_	PronType=Dem	5	det	_	_
 5	maqsadlarning	maqsad	NOUN	_	Case=Gen|Number=Plur|Poss=Yes	6	nmod:poss	_	_
-6	ro‘yobini	ro‘yob	NOUN	_	Case=Acc|Number=Sing	7	obj	_	_
-7	ko‘zlab	ko‘zla	VERB	_	VerbForm=Conv	8	advcl	_	_
+6	roʻyobini	roʻyob	NOUN	_	Case=Acc|Number=Sing	7	obj	_	_
+7	koʻzlab	koʻzla	VERB	_	VerbForm=Conv	8	advcl	_	_
 8	yozilgan	yoz	VERB	_	Mood=Ind|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	8	punct	_	_
 

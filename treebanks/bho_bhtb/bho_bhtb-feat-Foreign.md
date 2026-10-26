@@ -45,7 +45,7 @@ The most frequent other feature values with which `NOUN` and `Foreign` co-occurr
 `NOUN` tokens may have the following values of `Foreign`:
 
 * `Yes` (1; 100% of non-empty `Foreign`): स्टाइल
-* `EMPTY` (1853): लोग, बिआह, जी, रंग, देश, जब, भाषा, आजु, आदमी, साल
+* `EMPTY` (1854): लोग, बिआह, जी, रंग, देश, जब, भाषा, आजु, आदमी, साल
 
 ### `X`
 

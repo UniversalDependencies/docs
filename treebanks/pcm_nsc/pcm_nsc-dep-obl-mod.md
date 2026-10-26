@@ -33,7 +33,7 @@ The following 43 pairs of parts of speech are connected with `obl:mod`: <tt><a h
 8	some	some	DET	_	_	9	det	_	AlignBegin=36800|AlignEnd=37069|Gloss=some
 9	times	time	NOUN	_	Number=Plur	5	obl:mod	_	AlignBegin=37069|AlignEnd=37350|Gloss=time.PL
 10	first	first	ADV	_	_	5	advmod	_	AlignBegin=37350|AlignEnd=37538|Gloss=first
-11	//	//	X	_	_	5	dep	_	AlignBegin=37538|AlignEnd=37538|Gloss=PUNCT
+11	//	//	PUNCT	_	_	5	punct	_	AlignBegin=37538|AlignEnd=37538|Gloss=PUNCT
 
 ~~~
 
@@ -50,7 +50,7 @@ The following 43 pairs of parts of speech are connected with `obl:mod`: <tt><a h
 4	continue	continue	VERB	_	_	0	root	_	AlignBegin=186528|AlignEnd=186927|Gloss=continue
 5	like	like	ADP	_	_	6	case	_	AlignBegin=186927|AlignEnd=187115|Gloss=like
 6	dat	dat	PRON	_	Number=Sing	4	obl:mod	_	AlignBegin=187115|AlignEnd=187488|Gloss=SG.DEM
-7	|c	|c	X	_	_	14	dep	_	AlignBegin=187488|AlignEnd=187488|Gloss=PUNCT
+7	|c	|c	PUNCT	_	_	14	punct	_	AlignBegin=187488|AlignEnd=187488|Gloss=PUNCT
 8	and	and	CCONJ	_	_	14	cc	_	AlignBegin=187488|AlignEnd=187695|Gloss=and
 9	di	di	DET	_	Definite=Def|PronType=Art	10	det	_	AlignBegin=187695|AlignEnd=187784|Gloss=DEF.ART
 10	thing	ting	NOUN	_	_	14	nsubj	_	AlignBegin=187784|AlignEnd=187917|Gloss=thing
@@ -58,7 +58,7 @@ The following 43 pairs of parts of speech are connected with `obl:mod`: <tt><a h
 12	go	go	AUX	_	Aspect=Prosp	14	aux	_	AlignBegin=188035|AlignEnd=188120|Gloss=PROSP
 13	fit	fit	AUX	_	Mood=Pot	14	aux	_	AlignBegin=188120|AlignEnd=188275|Gloss=ABIL
 14	stop	stop	VERB	_	_	4	conj	_	AlignBegin=188275|AlignEnd=188747|Gloss=stop
-15	//	//	X	_	_	4	dep	_	AlignBegin=188747|AlignEnd=188747|Gloss=PUNCT
+15	//	//	PUNCT	_	_	4	punct	_	AlignBegin=188747|AlignEnd=188747|Gloss=PUNCT
 
 ~~~
 
@@ -69,14 +69,14 @@ The following 43 pairs of parts of speech are connected with `obl:mod`: <tt><a h
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 7 obl:mod	color:blue
-1	#	#	X	_	_	3	dep	_	AlignBegin=84680|AlignEnd=85020|Gloss=PUNCT
+1	#	#	PUNCT	_	_	3	punct	_	AlignBegin=84680|AlignEnd=85020|Gloss=PUNCT
 2	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	AlignBegin=85020|AlignEnd=85120|Gloss=NOM.SG.1
 3	wan	want	VERB	_	_	0	root	_	AlignBegin=85120|AlignEnd=85250|Gloss=want
 4	make	make	VERB	_	_	3	xcomp	_	AlignBegin=85250|AlignEnd=85450|Gloss=make
 5	money	money	NOUN	_	_	4	obj	_	AlignBegin=85450|AlignEnd=85821|Gloss=money
 6	from	from	ADP	_	_	7	case	_	AlignBegin=85821|AlignEnd=86020|Gloss=from
 7	Malaysia	Malaysia	PROPN	_	_	4	obl:mod	_	AlignBegin=86020|AlignEnd=86470|Gloss=Malaysia
-8	//	//	X	_	_	3	dep	_	AlignBegin=86470|AlignEnd=86470|Gloss=PUNCT
+8	//	//	PUNCT	_	_	3	punct	_	AlignBegin=86470|AlignEnd=86470|Gloss=PUNCT
 
 ~~~
 

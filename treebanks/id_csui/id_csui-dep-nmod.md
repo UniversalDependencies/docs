@@ -25,7 +25,7 @@ The following 28 pairs of parts of speech are connected with `nmod`: <tt><a href
 # visual-style 4 5 nmod	color:blue
 1	Kera	kera	NOUN	NN	Number=Sing	0	root	_	_
 2	untuk	untuk	SCONJ	IN	_	3	mark	_	_
-3	amankan	aman	VERB	VB	Mood=Ind|Voice=Act	1	acl	_	_
+3	amankan	aman	VERB	VB	Voice=Act	1	acl	_	_
 4	pesta	pesta	NOUN	NN	Number=Sing	3	obj	_	_
 5	olahraga	olahraga	NOUN	NN	Number=Sing	4	nmod	_	_
 
@@ -44,7 +44,7 @@ The following 28 pairs of parts of speech are connected with `nmod`: <tt><a href
 4	pebasket	pebasket	NOUN	NN	Number=Sing	1	conj	_	_
 5	Michael	Michael	PROPN	NNP	_	4	nmod	_	_
 6	Jordan	Jordan	PROPN	NNP	_	5	flat:name	_	_
-7	melakukan	laku	VERB	VB	Mood=Ind|Voice=Act	0	root	_	_
+7	melakukan	laku	VERB	VB	Voice=Act	0	root	_	_
 8	nya	nya	PRON	PRP	Number=Sing|Person=3|PronType=Prs	7	obj	_	_
 9	.	.	PUNCT	.	_	7	punct	_	_
 
@@ -61,7 +61,7 @@ The following 28 pairs of parts of speech are connected with `nmod`: <tt><a href
 2	Multi	Multi	PROPN	NNP	_	1	flat:name	_	_
 3	Usaha	Usaha	NOUN	NN	Number=Sing	1	nmod	_	_
 4	Wisesa	Wisesa	PROPN	NNP	_	1	flat:name	_	_
-5	merupakan	rupa	VERB	VB	Mood=Ind|Voice=Act	0	root	_	_
+5	merupakan	rupa	VERB	VB	Voice=Act	0	root	_	_
 6	anak	anak	NOUN	NN	Number=Sing	5	obj	_	_
 7	perusahaan	usaha	NOUN	NN	Number=Sing	6	nmod	_	_
 8	perseroan	perseroan	NOUN	NN	Number=Sing	6	nmod	_	_

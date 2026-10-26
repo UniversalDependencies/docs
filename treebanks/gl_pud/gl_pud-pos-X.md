@@ -13,14 +13,14 @@ The 10 most frequent `X` lemmas: <em>the, a, of, really, you, 'ya, Don't, Hitchh
 
 The 10 most frequent `X` types:  <em>the, a, of, Really, You, 'Ya, Anyway, Breaking, Buck, Cena</em>
 
-The 10 most frequent ambiguous lemmas: <em>the</em> (<tt><a href="gl_pud-pos-X.html">X</a></tt> 7, <tt><a href="gl_pud-pos-PROPN.html">PROPN</a></tt> 4), <em>a</em> (<tt><a href="gl_pud-pos-ADP.html">ADP</a></tt> 461, <tt><a href="gl_pud-pos-X.html">X</a></tt> 5), <em>of</em> (<tt><a href="gl_pud-pos-X.html">X</a></tt> 4, <tt><a href="gl_pud-pos-ADP.html">ADP</a></tt> 2), <em>ground</em> (<tt><a href="gl_pud-pos-PROPN.html">PROPN</a></tt> 1, <tt><a href="gl_pud-pos-X.html">X</a></tt> 1), <em>me</em> (<tt><a href="gl_pud-pos-PRON.html">PRON</a></tt> 11, <tt><a href="gl_pud-pos-X.html">X</a></tt> 1), <em>my</em> (<tt><a href="gl_pud-pos-PROPN.html">PROPN</a></tt> 1, <tt><a href="gl_pud-pos-X.html">X</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>the</em> (<tt><a href="gl_pud-pos-X.html">X</a></tt> 7, <tt><a href="gl_pud-pos-PROPN.html">PROPN</a></tt> 4), <em>a</em> (<tt><a href="gl_pud-pos-ADP.html">ADP</a></tt> 464, <tt><a href="gl_pud-pos-X.html">X</a></tt> 5), <em>of</em> (<tt><a href="gl_pud-pos-X.html">X</a></tt> 4, <tt><a href="gl_pud-pos-ADP.html">ADP</a></tt> 2), <em>ground</em> (<tt><a href="gl_pud-pos-PROPN.html">PROPN</a></tt> 1, <tt><a href="gl_pud-pos-X.html">X</a></tt> 1), <em>me</em> (<tt><a href="gl_pud-pos-PRON.html">PRON</a></tt> 11, <tt><a href="gl_pud-pos-X.html">X</a></tt> 1), <em>my</em> (<tt><a href="gl_pud-pos-PROPN.html">PROPN</a></tt> 1, <tt><a href="gl_pud-pos-X.html">X</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>a</em> (<tt><a href="gl_pud-pos-DET.html">DET</a></tt> 840, <tt><a href="gl_pud-pos-ADP.html">ADP</a></tt> 430, <tt><a href="gl_pud-pos-PRON.html">PRON</a></tt> 13, <tt><a href="gl_pud-pos-X.html">X</a></tt> 3), <em>of</em> (<tt><a href="gl_pud-pos-X.html">X</a></tt> 4, <tt><a href="gl_pud-pos-ADP.html">ADP</a></tt> 2), <em>Ground</em> (<tt><a href="gl_pud-pos-PROPN.html">PROPN</a></tt> 1, <tt><a href="gl_pud-pos-X.html">X</a></tt> 1), <em>My</em> (<tt><a href="gl_pud-pos-PROPN.html">PROPN</a></tt> 1, <tt><a href="gl_pud-pos-X.html">X</a></tt> 1), <em>Son</em> (<tt><a href="gl_pud-pos-AUX.html">AUX</a></tt> 1, <tt><a href="gl_pud-pos-X.html">X</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>a</em> (<tt><a href="gl_pud-pos-DET.html">DET</a></tt> 839, <tt><a href="gl_pud-pos-ADP.html">ADP</a></tt> 431, <tt><a href="gl_pud-pos-PRON.html">PRON</a></tt> 13, <tt><a href="gl_pud-pos-X.html">X</a></tt> 3), <em>of</em> (<tt><a href="gl_pud-pos-X.html">X</a></tt> 4, <tt><a href="gl_pud-pos-ADP.html">ADP</a></tt> 2), <em>Ground</em> (<tt><a href="gl_pud-pos-PROPN.html">PROPN</a></tt> 1, <tt><a href="gl_pud-pos-X.html">X</a></tt> 1), <em>My</em> (<tt><a href="gl_pud-pos-PROPN.html">PROPN</a></tt> 1, <tt><a href="gl_pud-pos-X.html">X</a></tt> 1), <em>Son</em> (<tt><a href="gl_pud-pos-AUX.html">AUX</a></tt> 1, <tt><a href="gl_pud-pos-X.html">X</a></tt> 1)
 
 
 * <em>a</em>
-  * <tt><a href="gl_pud-pos-DET.html">DET</a></tt> 840: <em>Os novos gastos corren a cargo de <b>a</b> gran conta bancaria de Clinton .</em>
-  * <tt><a href="gl_pud-pos-ADP.html">ADP</a></tt> 430: <em>Os novos gastos corren <b>a</b> cargo de a gran conta bancaria de Clinton .</em>
+  * <tt><a href="gl_pud-pos-DET.html">DET</a></tt> 839: <em>Os novos gastos corren a cargo de <b>a</b> gran conta bancaria de Clinton .</em>
+  * <tt><a href="gl_pud-pos-ADP.html">ADP</a></tt> 431: <em>Os novos gastos corren <b>a</b> cargo de a gran conta bancaria de Clinton .</em>
   * <tt><a href="gl_pud-pos-PRON.html">PRON</a></tt> 13: <em>Non sei por que <b>a</b> escollín a ela ...</em>
   * <tt><a href="gl_pud-pos-X.html">X</a></tt> 3: <em>En On <b>a</b> Wing and <b>a</b> Prayer ( 1992 ) reuniu se con o seu compañeiro de os Stealers Wheel , Egan , en diversas pistas .</em>
 * <em>of</em>
@@ -38,7 +38,7 @@ The 10 most frequent ambiguous types:  <em>a</em> (<tt><a href="gl_pud-pos-DET.h
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.319483).
+The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.320042).
 
 The 1st highest number of forms (1) was observed with the lemma “'ya”: <em>'Ya</em>.
 

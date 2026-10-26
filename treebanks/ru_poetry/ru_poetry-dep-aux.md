@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `aux`: <tt><a href="ru_poetry-dep-aux-pass.html">aux:pass</a></tt>.
 
-126 nodes (0%) are attached to their parents as `aux`.
+127 nodes (0%) are attached to their parents as `aux`.
 
-75 instances of `aux` (60%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.92857142857143.
+75 instances of `aux` (59%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.92125984251968.
 
-The following 5 pairs of parts of speech are connected with `aux`: <tt><a href="ru_poetry-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_poetry-pos-AUX.html">AUX</a></tt> (111; 88% instances), <tt><a href="ru_poetry-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_poetry-pos-AUX.html">AUX</a></tt> (8; 6% instances), <tt><a href="ru_poetry-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_poetry-pos-AUX.html">AUX</a></tt> (4; 3% instances), <tt><a href="ru_poetry-pos-PRON.html">PRON</a></tt>-<tt><a href="ru_poetry-pos-AUX.html">AUX</a></tt> (2; 2% instances), <tt><a href="ru_poetry-pos-DET.html">DET</a></tt>-<tt><a href="ru_poetry-pos-AUX.html">AUX</a></tt> (1; 1% instances).
+The following 5 pairs of parts of speech are connected with `aux`: <tt><a href="ru_poetry-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_poetry-pos-AUX.html">AUX</a></tt> (111; 87% instances), <tt><a href="ru_poetry-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_poetry-pos-AUX.html">AUX</a></tt> (9; 7% instances), <tt><a href="ru_poetry-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_poetry-pos-AUX.html">AUX</a></tt> (4; 3% instances), <tt><a href="ru_poetry-pos-PRON.html">PRON</a></tt>-<tt><a href="ru_poetry-pos-AUX.html">AUX</a></tt> (2; 2% instances), <tt><a href="ru_poetry-pos-DET.html">DET</a></tt>-<tt><a href="ru_poetry-pos-AUX.html">AUX</a></tt> (1; 1% instances).
 
 
 ~~~ conllu

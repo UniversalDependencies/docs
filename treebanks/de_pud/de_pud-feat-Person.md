@@ -16,7 +16,7 @@ The feature is used with 4 part-of-speech tags: <tt><a href="de_pud-pos-VERB.htm
 
 ### `VERB`
 
-1083 <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> tokens (55% of all `VERB` tokens) have a non-empty value of `Person`.
+1083 <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> tokens (58% of all `VERB` tokens) have a non-empty value of `Person`.
 
 The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="de_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1066; 98%), <tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (794; 73%), <tt><a href="de_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (604; 56%).
 
@@ -25,7 +25,7 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 * `1` (45; 4% of non-empty `Person`): <em>kenne, weiß, Nehmen, Thought, beiseitelegen, besuche, bewegen, bin, brauchen, denke</em>
 * `2` (5; 0% of non-empty `Person`): <em>Knew, Knuck, Lass, Metti, Schimpfen</em>
 * `3` (1033; 95% of non-empty `Person`): <em>sagte, ist, hat, gibt, wurde, sagt, begann, war, hatte, führte</em>
-* `EMPTY` (895): <em>an, auf, aus, zurück, haben, ab, machen, verwendet, werden, genutzt</em>
+* `EMPTY` (787): <em>haben, machen, verwendet, werden, genutzt, veröffentlicht, errichtet, finden, geben, gegeben</em>
 
 <table>
   <tr><th>Paradigm <i>haben</i></th><th><tt>1</tt></th><th><tt>3</tt></th></tr>
@@ -88,7 +88,7 @@ The most frequent other feature values with which `DET` and `Person` co-occurred
 * `1` (18; 8% of non-empty `Person`): <em>unsere, mein, meinem, unserem, unserer, Meines, Nostrum, Unser, meine, unseren</em>
 * `2` (2; 1% of non-empty `Person`): <em>Ihrem, euren</em>
 * `3` (203; 91% of non-empty `Person`): <em>seine, ihre, ihrer, seiner, ihr, sein, ihren, seinen, seines, ihres</em>
-* `EMPTY` (2883): <em>der, die, dem, den, das, eine, des, ein, einer, einem</em>
+* `EMPTY` (2872): <em>der, die, dem, den, das, eine, des, ein, einer, einem</em>
 
 ## Relations with Agreement in `Person`
 

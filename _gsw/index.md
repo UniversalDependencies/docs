@@ -1,25 +1,25 @@
 ---
 layout: base
-title:  'Swiss German UD'
+title:  'Alemannic UD'
 udver: '2'
 ---
 
-# UD for Swiss German <span class="flagspan"><img class="flag" src="../../flags/svg/CH.svg" /></span>
+# UD for Alemannic (Swiss German and Alsatian) <span class="flagspan"><img class="flag" src="../../flags/svg/CH.svg" /></span> <span class="flagspan" style="padding-left:1em"><img class="flag" src="../../flags/svg/FR-ALS.svg" /></span>
 
 ## Introduction
 
-This is a copy of the current German documentation [UD for German](https://universaldependencies.org/de/index.html), which we generally follow for Swiss German. This introduction explains the most important differences which influence the annotation. 
+We mostly follow the documentation for [German](https://universaldependencies.org/de/index.html). This documentation describes the most important differences between Alemannic dialects and standard German which influence the annotation.
 
-Please check the readme/GitHub repo of the GSW treebank for further/current information.
+As Alemannic is a widely spread dialect group spanning several countries (Switzerland, France's Alsace region, Germany's Baden-Württemberg state, and Liechtenstein), there is a high degree of variation between the dialects, which can affect the annotation. Consequently, different treebanks correspond to different dialect varieties.
 
-### Differences to German UD Guidelines
+## Alemannic-UZH (Zurich Swiss German) <span class="flagspan"><img class="flag" src="../../flags/svg/CH.svg" /></span>
 
 As for German, words are generally delimited by white spaces. However, there is a lot more freedom in merging any words together, which can't usually be split in an easy way. I.e. we use the German tokenization and introduce a separate tag for merged words (see meta tag `TAG+` described further down).
 
-The POS annotations are generally based on the German guidelines, namely the [Stuttgart-Tübingen-TagSet (STTS)](http://www.sfs.uni-tuebingen.de/resources/stts-1999.pdf) and some changes according to the [TIGER annotation scheme](https://files.ifi.uzh.ch/cl/siclemat/lehre/papers/tiger-annot.pdf). Furthermore, dealing with Swiss German, there is the need for an additional POS tag `PTKINF`, not present in the STTS tagset, as well as for the "meta tag" `TAG+`. 
+The POS annotations are generally based on the German guidelines, namely the [Stuttgart-Tübingen-TagSet (STTS)](http://www.sfs.uni-tuebingen.de/resources/stts-1999.pdf) and some changes according to the [TIGER annotation scheme](https://files.ifi.uzh.ch/cl/siclemat/lehre/papers/tiger-annot.pdf). Furthermore, dealing with Swiss German, there is the need for an additional POS tag `PTKINF`, not present in the STTS tagset, as well as for the "meta tag" `TAG+`.
 
 * `PTKINF` is an infinitive particle which does not exist in Standard German but is frequently used in dialects. It comes in the form of _go_, _cho_, _goge_, _lo_ to name a few, as in _Si gönd go poschte_. (_They go shopping._) In the Standard German translation, _Sie gehen einkaufen._, we can see that there is no equivalent. Concerning dependencies it is treated as a marker introducing a finite clause subordinate to another clause (`mark`) because they usually appear in _um ... zu_ (_in order to_) constructions in German.
- 
+
 * `TAG+` is used to handle merged words; we introduced the “+“-sign which can be added to any PoS tag. In the STTS there is one tag like this: the `APPRART`, used for combinations of articles and prepositions like _im_ consisting of _in + dem_ (_in the_). However, in Swiss German these kind of merges are performed with any kind of words and just merging the tags would result in a big tagset. Therefore we decided to use the "head" of the word or the first word as tag and simply add a plus to show that this word incorporates another one [Hollenstein and Aepli, 2014](). Like this, they can easily be found and, if needed, manually expanded. Frequent examples of such words include _hemmer_ (_haben + wir_), _häts_ (_hat + es_), and _sinz_ (_sind + sie_), for _we have_, _it has_ and _they are_.
 
 
@@ -28,6 +28,35 @@ The Universal Dependency POS (UPOS) tags are converted according to the mapping 
 * `PTKINF` are converted to `PART`
 * the plus sign in `TAG+` are disgarded
 
+Please check the readme/GitHub repo of the treebank for further/current information.
+
+## Alemannic-DIVITAL (Alsatian) <span class="flagspan" style="padding-left:1em"><img class="flag" src="../../flags/svg/FR-ALS.svg" /></span>
+
+Only the main differences are introduced below. Please check the annotation guidelines for more in depth information:
+
+* [Syntactic annotation guidelines for Alsatian](https://nakala.fr/10.34847/nkl.5b6cs6wu) (en)
+* [Guide d’annotation syntaxique pour l’alsacien](https://nakala.fr/10.34847/nkl.0eac4288) (fr)
+
+### Syntax
+
+* The dative case can be reinforced by using the preposition _in_. In such cases, we still use `obl:arg` for dative objects, although a preposition is used, e.g. _Ich gib’s **in** de Fräu._ “I give it to the woman”.
+* The relative pronoun is not declined and is invariably _wo, wu, wü, wi_, depending on the variety. This leads to differences with German: when a relative clause is introduced by a pronominal adverb in Standard German (_wobei, wofür, womit_ etc), this construction is split in two in Alsatian (relative marker + pronominal adverb). For example _De Stüel, **wo**-n-i **druf** sitz, isch krumm_ “the stool, that i thereon sit, is bent” instead of standard German _Der Stuhl, **auf dem** ich sitze, ist krumm._
+* Present and past progressive aspects are used in Alsatian, but only periphrastically. For example, _Ich bin e Lied am singe_ “I am a song at to-sing”, is annotated with _bin_ as `VERB` and `root`, _singe_ as `VERB` and `ccomp` of _bin_, and _am_ as `PART` and `mark` of _singe_.
+* Many subordinate conjunctions are built using the following pattern in Alsatian: _preposition_ + _(d)àss_ “that”. For example, German _damit_ is _fer_ `ADP` _dàss_ `SCONJ` “for that”, both annotated `mark` from the subroot.
+* Specific subtypes of dependency relations:
+  * [advmod:tmod]()
+  * [det:predet]()
+  * [nmod:lmod]()
+
+### Features
+
+* [Epenthesis](): the epenthesis (usually a “n” or “w”) is included in the preceding token that takes this specific feature, as e.g. _worre-n-_ ␣ _isch_ “is become”
+
+### MISC attributes
+
+* `Foreign=Yes` and `Lang` for loanwords
+* `Lemma[de]` for standard German lemma
+* `Gloss[fr]` for gloss in French
 
 ## UD for German
 
@@ -177,9 +206,9 @@ The Universal Dependency POS (UPOS) tags are converted according to the mapping 
 * The following relation types are not used in German at all:
   [clf](), [dislocated]()
 
+## Treebanks
 
-## Treebanks (Swiss German)
+There are 2 Alemannic UD treebanks:
 
-There is [one](../treebanks/gsw-comparison.html) Swiss German UD treebank:
-
-  * [Swiss German-UZH](../treebanks/gsw_uzh/index.html)
+  * [Alemannic-UZH](../treebanks/gsw_uzh/index.html)
+  * [Alemannic-DIVITAL](../treebanks/gsw_divital/index.html)

@@ -79,8 +79,14 @@ The following language-specific features are in use:
 
 The following MISC features are present:
 
+* `Cantillation`
+  * The names of any cantillation marks that appear on a word, e.g. `Cantillation=Etnahta`
+  * When multiple marks appear on a word, they are separated with commas and listed in the order they appear, e.g. `Cantillation=Pazer,Geresh`
+  * The names follow the spellings used by Unicode
 * `Gloss`
   * Currently taken from [the BHSA `gloss` feature](https://etcbc.github.io/bhsa/features/gloss/)
+* `LexDomain[SDBH]`
+  * ID of the semantic domain(s) corresponding to the value of `LId[SDBH]`
 * `LId[SDBH]`
   * ID of the (mostly) disambiguated word in MARBLE's [Semantic Dictionary of Biblical Hebrew](https://marble.bible/dictionary)
 * `LId[Strongs]`
@@ -100,52 +106,54 @@ The following MISC features are present:
 | Book | `Ref` Abbreviation |
 |------|--------------------|
 | Genesis | `GEN` |
-| Exodus | `EXO` |
+| Exodus | `EXOD` |
 | Leviticus | `LEV` |
 | Numbers | `NUM` |
-| Deuteronomy | `DEU` |
-| Joshua | `JOS` |
-| Judges | `JDG` |
-| Ruth | `RUT` |
-| 1 Samuel | `1SA` |
-| 2 Samuel | `2SA` |
-| 1 Kings | `1KI` |
-| 2 Kings | `2KI` |
-| 1 Chronicles | `1CH` |
-| 2 Chronicles | `2CH` |
-| Ezra | `EZR` |
-| Nehemiah | `EZR` |
-| Esther | `EST` |
+| Deuteronomy | `DEUT` |
+| Joshua | `JOSH` |
+| Judges | `JUDG` |
+| Ruth | `RUTH` |
+| 1 Samuel | `1SAM` |
+| 2 Samuel | `2SAM` |
+| 1 Kings | `1KGS` |
+| 2 Kings | `2KGS` |
+| 1 Chronicles | `1CHR` |
+| 2 Chronicles | `2CHR` |
+| Ezra | `EZRA` |
+| Nehemiah | `NEH` |
+| Esther | `ESTH` |
 | Job | `JOB` |
-| Psalms | `PSA` |
-| Proverbs | `PRO` |
-| Ecclesiastes | `ECC` |
-| Song of Songs | `SOS` |
+| Psalms | `PS` |
+| Proverbs | `PROV` |
+| Ecclesiastes | `ECCL` |
+| Song of Songs | `SONG` |
 | Isaiah | `ISA` |
 | Jeremiah | `JER` |
 | Lamentations | `LAM` |
-| Ezekiel | `EZK` |
+| Ezekiel | `EZEK` |
 | Daniel | `DAN` |
 | Hosea | `HOS` |
-| Joel | `JOL` |
-| Amos | `AMO` |
-| Obadiah | `OBA` |
-| Jonah | `JON` |
+| Joel | `JOEL` |
+| Amos | `AMOS` |
+| Obadiah | `OBAD` |
+| Jonah | `JONAH` |
 | Micah | `MIC` |
-| Nahum | `NAM` |
+| Nahum | `NAH` |
 | Habakkuk | `HAB` |
-| Zephaniah | `ZEP` |
+| Zephaniah | `ZEPH` |
 | Haggai | `HAG` |
-| Zechariah | `ZEC` |
+| Zechariah | `ZECH` |
 | Malachi | `MAL` |
 
 ## Syntax
 
 The subtypes [acl:relcl](), [compound:smixut](), [nmod:poss](), [nsubj:outer](), and [obl:npmod]() are used. The relation `compound` is currently unused.
 
-The relations `iobj`, and `clf` are unused.
+The relation `clf` is unused.
 
 The relations `list`, `goeswith`, `reparandum`, and `dep` are currently unused, but may be used in future.
+
+Detailed discussion of the relations that are used can be found via [the list of Ancient Hebrew relations](dep/index).
 
 ## Treebanks
 

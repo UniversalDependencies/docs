@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-794 nodes (0%) are attached to their parents as `iobj`.
+795 nodes (0%) are attached to their parents as `iobj`.
 
-793 instances of `iobj` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.25566750629723.
+794 instances of `iobj` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.26540880503145.
 
-The following 5 pairs of parts of speech are connected with `iobj`: <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-PRON.html">PRON</a></tt> (594; 75% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (121; 15% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt> (77; 10% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 5 pairs of parts of speech are connected with `iobj`: <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-PRON.html">PRON</a></tt> (594; 75% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (122; 15% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt> (77; 10% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -61,7 +61,7 @@ The following 5 pairs of parts of speech are connected with `iobj`: <tt><a href=
 2	am	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux	4:aux	_
 3	not	not	PART	RB	Polarity=Neg	4	advmod	4:advmod	_
 4	looking	look	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	0:root	_
-5	foward	foward	ADV	RB	_	4	advmod	4:advmod	_
+5	foward	forward	ADV	RB	Typo=Yes	4	advmod	4:advmod	CorrectForm=forward
 6	to	to	ADP	IN	_	7	case	7:case	_
 7	that	that	PRON	DT	Number=Sing|PronType=Dem	4	obl	4:obl:to	_
 8	but	but	CCONJ	CC	_	11	cc	11:cc	_

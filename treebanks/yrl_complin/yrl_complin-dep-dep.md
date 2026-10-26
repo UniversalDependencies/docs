@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1 nodes (0%) are attached to their parents as `dep`.
+2 nodes (0%) are attached to their parents as `dep`.
 
-1 instances of `dep` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 11.
+1 instances of `dep` (50%) are left-to-right (parent precedes child).
+Average distance between parent and child is 6.
 
-The following 1 pairs of parts of speech are connected with `dep`: <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (1; 100% instances).
+The following 2 pairs of parts of speech are connected with `dep`: <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (1; 50% instances), <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-X.html">X</a></tt> (1; 50% instances).
 
 
 ~~~ conllu
@@ -42,6 +42,20 @@ The following 1 pairs of parts of speech are connected with `dep`: <tt><a href="
 18	usú	sú	AUX	AUXFR	Mood=Ind|Person=3|VerbForm=Fin	19	aux	_	TokenRange=78:81
 19	usasá	sasá	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	15	conj	_	SpaceAfter=No|TokenRange=82:87
 20	.	.	PUNCT	PUNCT	_	12	punct	_	SpaceAfter=No|TokenRange=87:88
+
+~~~
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 3 dep	color:blue
+1	Se	se	PRON	PRON2	Case=Gen|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	TokenRange=0:2
+2	isí	isí	VERB	V2	Mood=Ind|VerbForm=Fin	0	root	_	TokenRange=3:6
+3	é	_	X	X	_	2	dep	_	SpaceAfter=No|TokenRange=7:8
+4	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=8:9
 
 ~~~
 

@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.1 release.
 The following people have contributed to making this treebank part of UD: Tomáš Jelínek, Daniel Zeman.
 
 Repository: [UD_Czech-FicTree](https://github.com/UniversalDependencies/UD_Czech-FicTree)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udcs_fictree215)<br />
-Download all treebanks: [UD 2.15](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udcs_fictree218)<br />
+Download all treebanks: [UD 2.18](/#download)
 
 License: CC BY-NC-SA 4.0
 
@@ -83,11 +83,11 @@ http://ceur-ws.org/Vol-1885/181.pdf
 
 ## Features
 
-[Abbr](cs_fictree-feat-Abbr.html) – [AdpType](cs_fictree-feat-AdpType.html) – [Animacy](cs_fictree-feat-Animacy.html) – [Aspect](cs_fictree-feat-Aspect.html) – [Case](cs_fictree-feat-Case.html) – [ConjType](cs_fictree-feat-ConjType.html) – [Degree](cs_fictree-feat-Degree.html) – [Gender](cs_fictree-feat-Gender.html) – [Gender[psor]](cs_fictree-feat-Gender-psor.html) – [Hyph](cs_fictree-feat-Hyph.html) – [Mood](cs_fictree-feat-Mood.html) – [NameType](cs_fictree-feat-NameType.html) – [Number](cs_fictree-feat-Number.html) – [Number[psor]](cs_fictree-feat-Number-psor.html) – [NumForm](cs_fictree-feat-NumForm.html) – [NumType](cs_fictree-feat-NumType.html) – [Person](cs_fictree-feat-Person.html) – [Polarity](cs_fictree-feat-Polarity.html) – [Poss](cs_fictree-feat-Poss.html) – [PrepCase](cs_fictree-feat-PrepCase.html) – [PronType](cs_fictree-feat-PronType.html) – [Reflex](cs_fictree-feat-Reflex.html) – [Style](cs_fictree-feat-Style.html) – [Tense](cs_fictree-feat-Tense.html) – [Variant](cs_fictree-feat-Variant.html) – [VerbForm](cs_fictree-feat-VerbForm.html) – [Voice](cs_fictree-feat-Voice.html)
+[Abbr](cs_fictree-feat-Abbr.html) – [AdpType](cs_fictree-feat-AdpType.html) – [Animacy](cs_fictree-feat-Animacy.html) – [Aspect](cs_fictree-feat-Aspect.html) – [Case](cs_fictree-feat-Case.html) – [ConjType](cs_fictree-feat-ConjType.html) – [Degree](cs_fictree-feat-Degree.html) – [ExtPos](cs_fictree-feat-ExtPos.html) – [Gender](cs_fictree-feat-Gender.html) – [Gender[psor]](cs_fictree-feat-Gender-psor.html) – [Hyph](cs_fictree-feat-Hyph.html) – [Mood](cs_fictree-feat-Mood.html) – [NameType](cs_fictree-feat-NameType.html) – [Number](cs_fictree-feat-Number.html) – [Number[psor]](cs_fictree-feat-Number-psor.html) – [NumForm](cs_fictree-feat-NumForm.html) – [NumType](cs_fictree-feat-NumType.html) – [Person](cs_fictree-feat-Person.html) – [Polarity](cs_fictree-feat-Polarity.html) – [Poss](cs_fictree-feat-Poss.html) – [PrepCase](cs_fictree-feat-PrepCase.html) – [PronType](cs_fictree-feat-PronType.html) – [Reflex](cs_fictree-feat-Reflex.html) – [Style](cs_fictree-feat-Style.html) – [Tense](cs_fictree-feat-Tense.html) – [Variant](cs_fictree-feat-Variant.html) – [VerbForm](cs_fictree-feat-VerbForm.html) – [Voice](cs_fictree-feat-Voice.html)
 
 ## Relations
 
-[acl](cs_fictree-dep-acl.html) – [acl:relcl](cs_fictree-dep-acl-relcl.html) – [advcl](cs_fictree-dep-advcl.html) – [advmod](cs_fictree-dep-advmod.html) – [advmod:emph](cs_fictree-dep-advmod-emph.html) – [amod](cs_fictree-dep-amod.html) – [appos](cs_fictree-dep-appos.html) – [aux](cs_fictree-dep-aux.html) – [aux:pass](cs_fictree-dep-aux-pass.html) – [case](cs_fictree-dep-case.html) – [cc](cs_fictree-dep-cc.html) – [ccomp](cs_fictree-dep-ccomp.html) – [compound](cs_fictree-dep-compound.html) – [conj](cs_fictree-dep-conj.html) – [cop](cs_fictree-dep-cop.html) – [csubj](cs_fictree-dep-csubj.html) – [csubj:pass](cs_fictree-dep-csubj-pass.html) – [dep](cs_fictree-dep-dep.html) – [det](cs_fictree-dep-det.html) – [det:numgov](cs_fictree-dep-det-numgov.html) – [det:nummod](cs_fictree-dep-det-nummod.html) – [discourse](cs_fictree-dep-discourse.html) – [expl:pass](cs_fictree-dep-expl-pass.html) – [expl:pv](cs_fictree-dep-expl-pv.html) – [fixed](cs_fictree-dep-fixed.html) – [flat](cs_fictree-dep-flat.html) – [iobj](cs_fictree-dep-iobj.html) – [mark](cs_fictree-dep-mark.html) – [nmod](cs_fictree-dep-nmod.html) – [nsubj](cs_fictree-dep-nsubj.html) – [nsubj:pass](cs_fictree-dep-nsubj-pass.html) – [nummod](cs_fictree-dep-nummod.html) – [nummod:gov](cs_fictree-dep-nummod-gov.html) – [obj](cs_fictree-dep-obj.html) – [obl](cs_fictree-dep-obl.html) – [obl:arg](cs_fictree-dep-obl-arg.html) – [orphan](cs_fictree-dep-orphan.html) – [parataxis](cs_fictree-dep-parataxis.html) – [punct](cs_fictree-dep-punct.html) – [root](cs_fictree-dep-root.html) – [vocative](cs_fictree-dep-vocative.html) – [xcomp](cs_fictree-dep-xcomp.html)
+[acl](cs_fictree-dep-acl.html) – [acl:relcl](cs_fictree-dep-acl-relcl.html) – [advcl](cs_fictree-dep-advcl.html) – [advcl:pred](cs_fictree-dep-advcl-pred.html) – [advmod](cs_fictree-dep-advmod.html) – [advmod:emph](cs_fictree-dep-advmod-emph.html) – [amod](cs_fictree-dep-amod.html) – [appos](cs_fictree-dep-appos.html) – [aux](cs_fictree-dep-aux.html) – [aux:pass](cs_fictree-dep-aux-pass.html) – [case](cs_fictree-dep-case.html) – [cc](cs_fictree-dep-cc.html) – [ccomp](cs_fictree-dep-ccomp.html) – [compound](cs_fictree-dep-compound.html) – [conj](cs_fictree-dep-conj.html) – [cop](cs_fictree-dep-cop.html) – [csubj](cs_fictree-dep-csubj.html) – [csubj:pass](cs_fictree-dep-csubj-pass.html) – [dep](cs_fictree-dep-dep.html) – [det](cs_fictree-dep-det.html) – [det:numgov](cs_fictree-dep-det-numgov.html) – [det:nummod](cs_fictree-dep-det-nummod.html) – [discourse](cs_fictree-dep-discourse.html) – [expl:pass](cs_fictree-dep-expl-pass.html) – [expl:pv](cs_fictree-dep-expl-pv.html) – [fixed](cs_fictree-dep-fixed.html) – [flat](cs_fictree-dep-flat.html) – [iobj](cs_fictree-dep-iobj.html) – [mark](cs_fictree-dep-mark.html) – [nmod](cs_fictree-dep-nmod.html) – [nsubj](cs_fictree-dep-nsubj.html) – [nsubj:pass](cs_fictree-dep-nsubj-pass.html) – [nummod](cs_fictree-dep-nummod.html) – [nummod:gov](cs_fictree-dep-nummod-gov.html) – [obj](cs_fictree-dep-obj.html) – [obl](cs_fictree-dep-obl.html) – [obl:arg](cs_fictree-dep-obl-arg.html) – [orphan](cs_fictree-dep-orphan.html) – [parataxis](cs_fictree-dep-parataxis.html) – [punct](cs_fictree-dep-punct.html) – [root](cs_fictree-dep-root.html) – [vocative](cs_fictree-dep-vocative.html) – [xcomp](cs_fictree-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -123,7 +123,7 @@ http://ceur-ws.org/Vol-1885/181.pdf
 </ul>
 
 <ul>
-<li>This corpus contains 124 word types tagged as particles (PART): A-ano, Což, Dobře, Díky, Fakt, Jestlipak, Ji-jistě, Neee, Nejenomže, Náhodou, Pardon, Pozor, Príma, ahoj, ale, alespoň, ani, ano, asi, aspoň, ať, až, ba, bezesporu, beztak, bohužel, budiž, bůhví, celkem, co, copak, div, dobrá, dokonce, doopravdy, dozajista, hned, i, jasně, jednoduše, jen, jenom, ještě, jistě, již, jo, kdepak, kdoví, když, klidně, koneckonců, konečně, kupodivu, kéž, leda, možná, nakonec, naneštěstí, naopak, například, natož, ne, nejen, nejenže, nejspíš, nepochybně, nesporně, nicméně, nikoli, nikoliv, no, opravdu, ostatně, ovšem, patrně, pochopitelně, prakticky, pravděpodobně, prej, prostě, právě, prý, přece, přeci, především, přesně, přímo, rozhodně, samozřejmě, sbohem, skoro, skutečně, snad, sotva, spíš, spíše, stejně, tak, takříkajíc, teda, tedy, teprve, to, totiž, třeba, určitě, už, viď, viďte, vlastně, vážně, však, vůbec, vždyť, zajisté, zas, zase, zejména, zkrátka, zrovna, zvláště, zvlášť, zřejmě, že</li>
+<li>This corpus contains 122 word types tagged as particles (PART): A-ano, Což, Dobře, Díky, Fakt, Jestlipak, Ji-jistě, Neee, Nejenomže, Náhodou, Pardon, Pozor, Príma, ahoj, ale, alespoň, ani, ano, asi, aspoň, ať, až, ba, bezesporu, beztak, bohužel, budiž, bůhví, celkem, co, copak, div, dobrá, dokonce, doopravdy, dozajista, hned, i, jasně, jednoduše, jen, jenom, ještě, jistě, již, jo, kdepak, kdoví, když, klidně, koneckonců, konečně, kupodivu, kéž, leda, možná, nakonec, naneštěstí, naopak, například, natož, ne, nejen, nejenže, nejspíš, nepochybně, nesporně, nicméně, nikoli, nikoliv, no, opravdu, ostatně, ovšem, patrně, pochopitelně, prakticky, pravděpodobně, prej, prostě, právě, prý, přece, přeci, především, přesně, přímo, rozhodně, samozřejmě, sbohem, skoro, skutečně, snad, sotva, spíš, spíše, tak, takříkajíc, teda, teprve, to, totiž, třeba, určitě, už, viď, viďte, vlastně, vážně, však, vůbec, vždyť, zajisté, zas, zase, zejména, zkrátka, zrovna, zvláště, zvlášť, zřejmě, že</li>
 </ul>
 
 <ul>
@@ -131,11 +131,11 @@ http://ceur-ws.org/Vol-1885/181.pdf
 </ul>
 
 <ul>
-<li>This corpus contains 53 lemmas tagged as determiners (DET): bůhvíkolik, hodně, jaký, jakýkoli, jakýpak, jakýs, jakýsi, jeho, jenž, každý, kdekterý, kdovíjaký, kolik, které, který, lecjaký, leckterý, mnoho, moc, my, málo, méně, můj, nijaký, nějaký, několik, některý, něčí, onen, pražádný, samý, svůj, takový, takovýhle, takovýto, takýs, tamhleten, tamten, ten, tenhle, tenhleten, tento, tentýž, to, tolik, tvůj, týž, víc, více, všechen, všelijaký, čí, žádný</li>
+<li>This corpus contains 55 lemmas tagged as determiners (DET): bůhvíkolik, hodně, jaký, jakýkoli, jakýpak, jakýs, jakýsi, jeho, jehož, jejichž, jejíž, každý, kdekterý, kdovíjaký, kolik, které, který, lecjaký, leckterý, mnoho, moc, my, málo, méně, můj, nijaký, nějaký, několik, některý, něčí, onen, pražádný, samý, svůj, takový, takovýhle, takovýto, takýs, tamhleten, tamten, ten, tenhle, tenhleten, tento, tentýž, to, tolik, tvůj, týž, víc, více, všechen, všelijaký, čí, žádný</li>
 </ul>
 
 <ul>
-<li>Out of the above, 2 lemmas occurred sometimes as PRON and sometimes as DET: jenž, my</li>
+<li>Out of the above, 1 lemmas occurred sometimes as PRON and sometimes as DET: my</li>
 </ul>
 
 <ul>
@@ -179,7 +179,7 @@ http://ceur-ws.org/Vol-1885/181.pdf
 <ul>
   <li>Part
   <ul>
-    <li>ADJ: přesvědčen, řečeno, oblečena, uspořádány, následující, rozhodující, třesoucí, napsáno, nastávající, obklopen</li>
+    <li>ADJ: přesvědčen, řečeno, budoucí, oblečena, uspořádány, následující, rozhodující, třesoucí, napsáno, nastávající</li>
     <li>AUX: byl, byla, bylo, byly, byli, nebyl, nebylo, nebyla, býval, bývala</li>
     <li>VERB: řekl, měl, měla, řekla, mohl, chtěl, chtěla, stalo, viděl, začal</li>
   </ul>
@@ -197,7 +197,7 @@ http://ceur-ws.org/Vol-1885/181.pdf
   <li>Fem
     <ul>
       <li>ADJ: celou, poslední, první, ráda, celá, další, malá, hlavní, velké, malou</li>
-      <li>ADJ-Part: oblečena, uspořádány, hořící, klečící, povznášející, rozhodující, sedící, stojící, tající, truchlící</li>
+      <li>ADJ-Part: oblečena, budoucí, uspořádány, hořící, klečící, povznášející, rozhodující, sedící, stojící, tající</li>
       <li>AUX-Conv: jsouc</li>
       <li>AUX-Part: byla, byly, nebyla, bývala, nebyly, nebývala</li>
       <li>DET: která, jeho, té, které, tu, ta, své, svou, kterou, její</li>
@@ -215,7 +215,7 @@ http://ceur-ws.org/Vol-1885/181.pdf
   <li>Masc
     <ul>
       <li>ADJ: celý, rád, další, první, malý, druhý, starý, jediný, ostatní, mladý</li>
-      <li>ADJ-Part: přesvědčen, obklopen, poslán, pozván, dopřán, hledajících, milován, milujících, nastávající, natočen</li>
+      <li>ADJ-Part: přesvědčen, obklopen, poslán, pozván, budoucí, budoucím, dopřán, hledajících, milován, milujících</li>
       <li>AUX-Part: byl, byli, nebyl, byly, býval, nebyli, nebyly, bývali, nebýval</li>
       <li>DET: který, ten, jeho, sám, každý, můj, svého, všichni, kteří, svůj</li>
       <li>NOUN: život, den, člověk, plod, profesor, mistr, čas, muž, lidé, mladík</li>
@@ -253,7 +253,7 @@ http://ceur-ws.org/Vol-1885/181.pdf
   <li>Anim
     <ul>
       <li>ADJ: rád, mladý, ostatní, starý, malý, rádi, bohatý, druhý, první, další</li>
-      <li>ADJ-Part: přesvědčen, obklopen, pozván, hledajících, milován, milujících, nastávající, nucen, oblečen, obtížen</li>
+      <li>ADJ-Part: přesvědčen, obklopen, pozván, budoucí, hledajících, milován, milujících, nastávající, nucen, oblečen</li>
       <li>AUX-Part: byl, byli, nebyl, býval, nebyli, bývali, nebýval</li>
       <li>DET: který, sám, ten, všichni, kteří, můj, svého, každý, ti, toho</li>
       <li>NOUN: člověk, profesor, mistr, muž, lidé, mladík, otec, primář, lidí, pán</li>
@@ -270,12 +270,12 @@ http://ceur-ws.org/Vol-1885/181.pdf
   <li>Inan
     <ul>
       <li>ADJ: celý, další, první, druhý, malý, jediný, nový, plný, dobrý, velký</li>
-      <li>ADJ-Part: dopřán, natočen, následující, následujícím, ochmýřeny, poslán, prosvítající, rostoucím, táhnoucím, uspořádány</li>
+      <li>ADJ-Part: budoucím, dopřán, natočen, následující, následujícím, ochmýřeny, poslán, prosvítající, rostoucím, táhnoucím</li>
       <li>AUX-Part: byl, byly, nebyl, nebyly, býval</li>
       <li>DET: ten, který, jeho, svůj, které, každý, tom, svého, nějaký, její</li>
       <li>NOUN: život, den, plod, čas, života, životě, dne, pohled, domu, dům</li>
       <li>NUM: dva, jeden, jednoho, tři, čtyři, tisíc, dvou, jedním, dvěma, jednom</li>
-      <li>PRON: co, ho, je, čím, něm, něj, čem, nich, ním, jich</li>
+      <li>PRON: co, něco, ho, je, čím, něm, něj, čem, cosi, nich</li>
       <li>PROPN: Poděbradech, Poděbrad, Amadeus, Kolína, Kolíně, Mánes, Neurol, Náchoda, Náchodě, Sudety</li>
       <li>VERB-Conv: klouzaje</li>
       <li>VERB-Part: stál, mohl, měl, ozval, začal, zdál, ujel, ležel, vypadal, zastavil</li>
@@ -321,7 +321,7 @@ http://ceur-ws.org/Vol-1885/181.pdf
   <li>Sing
     <ul>
       <li>ADJ: celý, první, rád, jiného, poslední, další, celou, malý, druhý, hlavní</li>
-      <li>ADJ-Part: přesvědčen, řečeno, oblečena, rozhodující, napsáno, nastávající, následující, obklopen, poslán, povznášející</li>
+      <li>ADJ-Part: přesvědčen, řečeno, oblečena, budoucí, rozhodující, napsáno, nastávající, následující, obklopen, poslán</li>
       <li>AUX-Conv: jsouc</li>
       <li>AUX-Fin: jsem, je, bych, bude, jsi, není, bys, budu, budeš, nebude</li>
       <li>AUX-Part: byl, byla, bylo, nebyl, nebylo, nebyla, býval, bývala, bývalo, nebývalo</li>
@@ -345,7 +345,7 @@ http://ceur-ws.org/Vol-1885/181.pdf
   <li>Acc
     <ul>
       <li>ADJ: celý, další, celou, první, celé, vlastní, malou, poslední, druhý, malé</li>
-      <li>ADJ-Part: následující, ubíhající, blížící, chladnoucí, chybějící, cvrčící, doplňující, hovořící, kralující, kroutící</li>
+      <li>ADJ-Part: budoucí, následující, ubíhající, blížící, chladnoucí, chybějící, cvrčící, doplňující, hovořící, kralující</li>
       <li>ADP: na, za, o, pro, v, přes, po, před, pod, ve</li>
       <li>DET: to, tu, všechno, kterou, které, své, ten, svou, jeho, svůj</li>
       <li>NOUN: chvíli, den, oči, život, hlavu, ruku, čas, dveře, dítě, ruce</li>
@@ -375,7 +375,7 @@ http://ceur-ws.org/Vol-1885/181.pdf
   <li>Gen
     <ul>
       <li>ADJ: jiného, velkého, celého, nového, prvního, druhé, starých, první, jediného, jiných</li>
-      <li>ADJ-Part: blížícího, hledajících, hořící, tající, vzrušujícího, bzučících, dospívajících, dupajících, jsoucího, klesající</li>
+      <li>ADJ-Part: blížícího, hledajících, hořící, tající, vzrušujícího, budoucích, budoucího, bzučících, dospívajících, dupajících</li>
       <li>ADP: do, z, od, u, ze, kolem, bez, vedle, podle, za</li>
       <li>DET: toho, svého, jeho, té, těch, svých, všech, mého, své, jejich</li>
       <li>NOUN: let, života, dne, školy, práce, lidí, času, dveří, domu, hodin</li>
@@ -390,7 +390,7 @@ http://ceur-ws.org/Vol-1885/181.pdf
   <li>Ins
     <ul>
       <li>ADJ: ostatními, stejnou, druhým, celým, dlouhou, největší, pravou, velkým, celou, dlouhými</li>
-      <li>ADJ-Part: bušícím, rostoucím, blížícím, končící, letící, nadcházejícím, nastávající, naříkajícími, neustávajícím, následujícím</li>
+      <li>ADJ-Part: bušícím, rostoucím, blížícím, budoucím, končící, letící, nadcházejícím, nastávající, naříkajícími, neustávajícím</li>
       <li>ADP: s, před, se, za, nad, pod, mezi, přede, nade, pode</li>
       <li>DET: tím, svým, svou, svými, jeho, mým, tou, kterým, kterou, všemi</li>
       <li>NOUN: očima, hlavou, rukou, směrem, cestou, oknem, rameny, hlasem, nohama, rukama</li>
@@ -405,7 +405,7 @@ http://ceur-ws.org/Vol-1885/181.pdf
   <li>Loc
     <ul>
       <li>ADJ: prvním, druhém, poslední, druhé, malém, celé, jiném, spodní, velké, velkém</li>
-      <li>ADJ-Part: milujících, táhnoucím, visících, bojujících, hnisajících, jiskřícím, následujícím, osvobozujícím, plujících, poletující</li>
+      <li>ADJ-Part: milujících, táhnoucím, visících, bojujících, budoucím, hnisajících, jiskřícím, následujícím, osvobozujícím, plujících</li>
       <li>ADP: v, na, po, ve, o, při</li>
       <li>DET: tom, té, svém, jeho, své, kterém, svých, jejím, tomto, které</li>
       <li>NOUN: životě, září, chvíli, době, ruce, světě, domě, pokoji, straně, schodech</li>
@@ -420,7 +420,7 @@ http://ceur-ws.org/Vol-1885/181.pdf
   <li>Nom
     <ul>
       <li>ADJ: první, celá, jasné, starý, malá, další, celý, možné, jediný, mladý</li>
-      <li>ADJ-Part: rozhodující, stojící, třesoucí, klečící, nastávající, následující, tančící, vracející, zbývající, Dmoucí</li>
+      <li>ADJ-Part: budoucí, rozhodující, stojící, třesoucí, klečící, nastávající, následující, tančící, vracející, zbývající</li>
       <li>ADP: de</li>
       <li>DET: to, který, která, ten, jeho, které, ta, sám, moje, všechno</li>
       <li>NOUN: člověk, plod, dívka, profesor, mistr, dítě, muž, Kůra, lidé, mladík</li>
@@ -451,7 +451,7 @@ http://ceur-ws.org/Vol-1885/181.pdf
 <ul>
   <li>Npr
     <ul>
-      <li>PRON: jež, jenž, jehož, jemuž, jíž, již, jímž, jimiž, jimž, jejž</li>
+      <li>PRON: ji, je, jí, jim, jich, jej, jež, jemu, jimi, jeho</li>
     </ul>
   </li>
 </ul>
@@ -485,7 +485,7 @@ http://ceur-ws.org/Vol-1885/181.pdf
   <li>Pos
     <ul>
       <li>ADJ: celý, rád, další, jiného, poslední, malé, celé, celou, velké, vlastní</li>
-      <li>ADJ-Part: přesvědčen, řečeno, oblečena, uspořádány, napsáno, obklopen, poslán, pozván, zakázáno, ztraceno</li>
+      <li>ADJ-Part: přesvědčen, řečeno, budoucí, oblečena, uspořádány, napsáno, obklopen, poslán, pozván, zakázáno</li>
       <li>ADV: dobře, často, dlouho, konečně, rychle, brzy, stejně, náhle, úplně, vždy</li>
       <li>NOUN: hospodský</li>
     </ul>
@@ -526,7 +526,7 @@ http://ceur-ws.org/Vol-1885/181.pdf
   <li>Pos
     <ul>
       <li>ADJ: celý, rád, další, jiného, poslední, malé, celé, celou, velké, vlastní</li>
-      <li>ADJ-Part: přesvědčen, řečeno, oblečena, uspořádány, následující, rozhodující, třesoucí, napsáno, nastávající, obklopen</li>
+      <li>ADJ-Part: přesvědčen, řečeno, budoucí, oblečena, uspořádány, následující, rozhodující, třesoucí, napsáno, nastávající</li>
       <li>ADV: vždycky, dobře, často, víc, dlouho, konečně, rychle, brzy, stejně, náhle</li>
       <li>AUX-Conv: jsouc</li>
       <li>AUX-Fin: jsem, je, jsme, bude, jsou, jsi, jste, budu, budeš, budou</li>
@@ -565,7 +565,7 @@ http://ceur-ws.org/Vol-1885/181.pdf
 <ul>
   <li>Imp
     <ul>
-      <li>ADJ-Part: následující, rozhodující, třesoucí, nastávající, povznášející, stojící, vynikající, zbývající, blížícího, bušícím</li>
+      <li>ADJ-Part: budoucí, následující, rozhodující, třesoucí, nastávající, povznášející, stojící, vynikající, zbývající, blížícího</li>
       <li>AUX-Conv: jsouc</li>
       <li>AUX-Fin: jsem, je, by, bych, jsme, bude, jsou, jsi, není, jste</li>
       <li>AUX-Inf: být, nebýt</li>
@@ -620,6 +620,7 @@ http://ceur-ws.org/Vol-1885/181.pdf
 <ul>
   <li>Fut
     <ul>
+      <li>ADJ-Part: budoucí, budoucím, budoucích, budoucího</li>
       <li>AUX-Fin: bude, budu, budeš, budou, nebude, nebudu, budeme, budete, nebudeš, nebudou</li>
       <li>VERB-Fin: nepůjde, nepůjdu, půjde, půjdeme, půjdu, pojedeme, pojedete, půjdeš, Poběžíme, Potrvá</li>
     </ul>
@@ -655,7 +656,7 @@ http://ceur-ws.org/Vol-1885/181.pdf
 <ul>
   <li>Act
     <ul>
-      <li>ADJ-Part: následující, rozhodující, třesoucí, nastávající, povznášející, stojící, vynikající, zbývající, blížícího, bušícím</li>
+      <li>ADJ-Part: budoucí, následující, rozhodující, třesoucí, nastávající, povznášející, stojící, vynikající, zbývající, blížícího</li>
       <li>AUX-Conv: jsouc</li>
       <li>AUX-Fin: jsem, je, jsme, bude, jsou, jsi, není, jste, budu, budeš</li>
       <li>AUX-Part: byl, byla, bylo, byly, byli, nebyl, nebylo, nebyla, býval, bývala</li>
@@ -749,7 +750,7 @@ http://ceur-ws.org/Vol-1885/181.pdf
 <ul>
   <li>Rel
     <ul>
-      <li>ADV: zato, přičemž</li>
+      <li>ADV: jak</li>
       <li>DET: jehož, jejichž, jejíž, jejímž</li>
       <li>PRON: což, níž, jež, nichž, němž, jenž, nímž, nimiž, něhož, jehož</li>
     </ul>
@@ -979,6 +980,37 @@ http://ceur-ws.org/Vol-1885/181.pdf
 </ul>
 
 <ul>
+  <li><a>ExtPos</a>
+    <ul>
+      <li>ADP
+        <ul>
+          <li>ADP: v, na, vzhledem, bez, s, ve, za</li>
+          <li>ADV: spolu, společně</li>
+          <li>NOUN: směrem</li>
+        </ul>
+      </li>
+      <li>ADV
+        <ul>
+          <li>ADV: nejen</li>
+          <li>NOUN: noc, rok, večer</li>
+          <li>PART: přece</li>
+        </ul>
+      </li>
+      <li>CCONJ
+        <ul>
+          <li>CCONJ: a</li>
+        </ul>
+      </li>
+      <li>SCONJ
+        <ul>
+          <li>CCONJ: i</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li><a>Hyph</a>
     <ul>
       <li>Yes
@@ -1104,24 +1136,24 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Conv--NOUN-Acc (16)</li>
       <li>VERB-Conv--PRON-Acc (1)</li>
       <li>VERB-Conv--PRON-Nom (1)</li>
-      <li>VERB-Fin--NOUN-Acc (1147)</li>
+      <li>VERB-Fin--NOUN-Acc (1143)</li>
       <li>VERB-Fin--NOUN-Gen (49)</li>
-      <li>VERB-Fin--NOUN-Nom (3)</li>
+      <li>VERB-Fin--NOUN-Nom (2)</li>
       <li>VERB-Fin--PRON (1)</li>
       <li>VERB-Fin--PRON-Acc (767)</li>
       <li>VERB-Fin--PRON-Gen (3)</li>
       <li>VERB-Fin--PRON-Nom (1)</li>
-      <li>VERB-Inf--NOUN-Acc (684)</li>
+      <li>VERB-Inf--NOUN-Acc (682)</li>
       <li>VERB-Inf--NOUN-Gen (19)</li>
       <li>VERB-Inf--NOUN-Nom (2)</li>
       <li>VERB-Inf--PRON (1)</li>
-      <li>VERB-Inf--PRON-Acc (475)</li>
+      <li>VERB-Inf--PRON-Acc (474)</li>
       <li>VERB-Inf--PRON-Nom (1)</li>
-      <li>VERB-Part--NOUN-Acc (2738)</li>
+      <li>VERB-Part--NOUN-Acc (2731)</li>
       <li>VERB-Part--NOUN-Gen (79)</li>
-      <li>VERB-Part--NOUN-Nom (13)</li>
+      <li>VERB-Part--NOUN-Nom (4)</li>
       <li>VERB-Part--PRON (7)</li>
-      <li>VERB-Part--PRON-Acc (1350)</li>
+      <li>VERB-Part--PRON-Acc (1346)</li>
       <li>VERB-Part--PRON-Gen (3)</li>
       <li>VERB-Part--PRON-Nom (1)</li>
     </ul>
@@ -1134,11 +1166,11 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Conv--PRON-Acc (1)</li>
       <li>VERB-Fin--NOUN-Acc (2)</li>
       <li>VERB-Fin--PRON-Acc (10)</li>
-      <li>VERB-Inf--NOUN-Acc (4)</li>
-      <li>VERB-Inf--PRON-Acc (5)</li>
-      <li>VERB-Part--NOUN-Acc (19)</li>
+      <li>VERB-Inf--NOUN-Acc (6)</li>
+      <li>VERB-Inf--PRON-Acc (6)</li>
+      <li>VERB-Part--NOUN-Acc (20)</li>
       <li>VERB-Part--NOUN-Gen (1)</li>
-      <li>VERB-Part--PRON-Acc (45)</li>
+      <li>VERB-Part--PRON-Acc (49)</li>
     </ul>
   </li>
 </ul>
@@ -1167,7 +1199,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 11 relation subtypes: <a>acl:relcl</a>, <a>advmod:emph</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>det:numgov</a>, <a>det:nummod</a>, <a>expl:pass</a>, <a>expl:pv</a>, <a>nsubj:pass</a>, <a>nummod:gov</a>, <a>obl:arg</a></li>
+<li>This corpus uses 12 relation subtypes: <a>acl:relcl</a>, <a>advcl:pred</a>, <a>advmod:emph</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>det:numgov</a>, <a>det:nummod</a>, <a>expl:pass</a>, <a>expl:pv</a>, <a>nsubj:pass</a>, <a>nummod:gov</a>, <a>obl:arg</a></li>
 <li>The following 1 main types are not used alone, they are always subtyped: <a>expl</a></li>
 <li>The following 5 relation types are not used in this corpus at all: <a>dislocated</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>

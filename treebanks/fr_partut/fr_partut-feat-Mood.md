@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 4 different values: `Cnd`, `Imp`, `Ind`, `Sub`.
 
-1824 tokens (6%) have a non-empty value of `Mood`.
-539 types (13%) occur at least once with a non-empty value of `Mood`.
-285 lemmas (10%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 2 part-of-speech tags: <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> (1148; 4% instances), <tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> (676; 2% instances).
+1827 tokens (6%) have a non-empty value of `Mood`.
+542 types (13%) occur at least once with a non-empty value of `Mood`.
+288 lemmas (10%) occur at least once with a non-empty value of `Mood`.
+The feature is used with 2 part-of-speech tags: <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> (1149; 4% instances), <tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> (678; 2% instances).
 
 ### `VERB`
 
-1148 <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> tokens (42% of all `VERB` tokens) have a non-empty value of `Mood`.
+1149 <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> tokens (42% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="fr_partut-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1148; 100%), <tt><a href="fr_partut-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1146; 100%), <tt><a href="fr_partut-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1022; 89%), <tt><a href="fr_partut-feat-Person.html">Person</a></tt><tt>=3</tt> (814; 71%), <tt><a href="fr_partut-feat-Number.html">Number</a></tt><tt>=Sing</tt> (724; 63%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="fr_partut-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1149; 100%), <tt><a href="fr_partut-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1148; 100%), <tt><a href="fr_partut-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1023; 89%), <tt><a href="fr_partut-feat-Person.html">Person</a></tt><tt>=3</tt> (816; 71%), <tt><a href="fr_partut-feat-Number.html">Number</a></tt><tt>=Sing</tt> (722; 63%).
 
 `VERB` tokens may have the following values of `Mood`:
 
 * `Cnd` (102; 9% of non-empty `Mood`): <em>voudrais, devrait, devraient, devrions, pourrait, conviendrait, pourraient, saurait, souhaiterais, aimeraient</em>
 * `Imp` (36; 3% of non-empty `Mood`): <em>cliquez, utilisez, Choisissez, Permettez, saisissez, Ajustez, Approfondissez, Assurez, Atteignez, Bâtissez</em>
-* `Ind` (978; 85% of non-empty `Mood`): <em>a, peut, doit, est, convient, ont, peuvent, fait, pouvez, concerne</em>
-* `Sub` (32; 3% of non-empty `Mood`): <em>ait, permettent, prenne, soit, fonctionne, puissions, accélèrent, agisse, atteigne, clarifie</em>
+* `Ind` (981; 85% of non-empty `Mood`): <em>a, peut, doit, est, convient, ont, peuvent, fait, pouvez, concerne</em>
+* `Sub` (30; 3% of non-empty `Mood`): <em>ait, permettent, prenne, fonctionne, puissions, accélèrent, agisse, atteigne, clarifie, examine</em>
 * `EMPTY` (1588): <em>faire, dite, concernant, fait, tenu, améliorer, compris, dire, donné, abonner</em>
 
 <table>
@@ -38,16 +38,16 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 
 ### `AUX`
 
-676 <tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> tokens (80% of all `AUX` tokens) have a non-empty value of `Mood`.
+678 <tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> tokens (80% of all `AUX` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="fr_partut-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (676; 100%), <tt><a href="fr_partut-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (621; 92%), <tt><a href="fr_partut-feat-Person.html">Person</a></tt><tt>=3</tt> (611; 90%), <tt><a href="fr_partut-feat-Number.html">Number</a></tt><tt>=Sing</tt> (442; 65%).
+The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="fr_partut-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (678; 100%), <tt><a href="fr_partut-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (623; 92%), <tt><a href="fr_partut-feat-Person.html">Person</a></tt><tt>=3</tt> (613; 90%), <tt><a href="fr_partut-feat-Number.html">Number</a></tt><tt>=Sing</tt> (444; 65%).
 
 `AUX` tokens may have the following values of `Mood`:
 
 * `Cnd` (16; 2% of non-empty `Mood`): <em>serait, aurait, aurions, aurais, seraient</em>
 * `Imp` (1; 0% of non-empty `Mood`): <em>Faites</em>
 * `Ind` (611; 90% of non-empty `Mood`): <em>est, a, sont, ont, sera, étaient, suis, était, sommes, ai</em>
-* `Sub` (48; 7% of non-empty `Mood`): <em>soient, soit, ait, aient, ayons, soyons</em>
+* `Sub` (50; 7% of non-empty `Mood`): <em>soit, soient, ait, aient, ayons, soyons</em>
 * `EMPTY` (171): <em>être, été, étant, faire, avoir, ayant, faisant, fait, soit</em>
 
 <table>

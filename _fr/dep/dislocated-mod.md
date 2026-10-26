@@ -1,0 +1,16 @@
+---
+layout: relation
+title: 'dislocated:mod'
+shortdef: 'dislocated modifier'
+udver: '2'
+---
+
+The `dislocated:mod` relation is used between a dislocated modifier and its head. 
+
+~~~ sdparse
+et puis les lycées , maintenant , les livres sont gratuits . \n And then the high schools, now, textbooks are free.
+dislocated:mod(gratuits, lycées)
+~~~
+
+
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:06 CEST -->

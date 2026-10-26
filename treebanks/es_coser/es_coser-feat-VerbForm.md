@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 4 different values: `Fin`, `Ger`, `Inf`, `Part`.
 
-1266 tokens (16%) have a non-empty value of `VerbForm`.
-589 types (39%) occur at least once with a non-empty value of `VerbForm`.
-235 lemmas (23%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 3 part-of-speech tags: <tt><a href="es_coser-pos-VERB.html">VERB</a></tt> (976; 12% instances), <tt><a href="es_coser-pos-AUX.html">AUX</a></tt> (263; 3% instances), <tt><a href="es_coser-pos-ADJ.html">ADJ</a></tt> (27; 0% instances).
+1265 tokens (16%) have a non-empty value of `VerbForm`.
+588 types (39%) occur at least once with a non-empty value of `VerbForm`.
+234 lemmas (23%) occur at least once with a non-empty value of `VerbForm`.
+The feature is used with 3 part-of-speech tags: <tt><a href="es_coser-pos-VERB.html">VERB</a></tt> (976; 12% instances), <tt><a href="es_coser-pos-AUX.html">AUX</a></tt> (263; 3% instances), <tt><a href="es_coser-pos-ADJ.html">ADJ</a></tt> (26; 0% instances).
 
 ### `VERB`
 
@@ -71,16 +71,16 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
 
 ### `ADJ`
 
-27 <tt><a href="es_coser-pos-ADJ.html">ADJ</a></tt> tokens (16% of all `ADJ` tokens) have a non-empty value of `VerbForm`.
+26 <tt><a href="es_coser-pos-ADJ.html">ADJ</a></tt> tokens (15% of all `ADJ` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `ADJ` and `VerbForm` co-occurred: <tt><a href="es_coser-feat-Number.html">Number</a></tt><tt>=Sing</tt> (22; 81%), <tt><a href="es_coser-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (19; 70%).
+The most frequent other feature values with which `ADJ` and `VerbForm` co-occurred: <tt><a href="es_coser-feat-Number.html">Number</a></tt><tt>=Sing</tt> (21; 81%), <tt><a href="es_coser-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (18; 69%).
 
 `ADJ` tokens may have the following values of `VerbForm`:
 
-* `Part` (27; 100% of non-empty `VerbForm`): <em>Enrazao, apretás, enterrao, sentao, Enrazado, aficionao, asao, asustado, cerrás, delgao</em>
-* `EMPTY` (146): <em>grande, buen, buena, bueno, natural, criollo, diferente, joven, mismo, alto</em>
+* `Part` (26; 100% of non-empty `VerbForm`): <em>Enrazao, apretás, enterrao, sentao, Enrazado, aficionao, asao, asustado, cerrás, delgao</em>
+* `EMPTY` (150): <em>grande, buen, buena, bueno, natural, criollo, diferente, joven, mismo, San</em>
 
-`VerbForm` seems to be **lexical feature** of `ADJ`. 100% lemmas (24) occur only with one value of `VerbForm`.
+`VerbForm` seems to be **lexical feature** of `ADJ`. 100% lemmas (23) occur only with one value of `VerbForm`.
 
 ## Relations with Agreement in `VerbForm`
 

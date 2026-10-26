@@ -26,7 +26,7 @@ The following 1 pairs of parts of speech are connected with `expl`: <tt><a href=
 2	זה	זה	PRON	PRON	Gender=Masc|Number=Sing|Person=3|PronType=Dem	3	expl	_	_
 3	טבעי	טבעי	ADJ	ADJ	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
 4	,	,	PUNCT	PUNCT	_	5	punct	_	_
-5	על	על	ADP	ADP	_	3	advmod	_	_
+5	על	על	ADP	ADP	ExtPos=ADV	3	advmod	_	_
 6	כן	כן	PRON	PRON	PronType=Dem	5	fixed	_	SpaceAfter=No
 7	,	,	PUNCT	PUNCT	_	11	punct	_	_
 8	כי	כי	SCONJ	SCONJ	_	11	mark	_	_

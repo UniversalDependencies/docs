@@ -83,7 +83,7 @@ The most frequent other feature values with which `DET` and `Animacy` co-occurre
 
 * `Anim` (66; 18% of non-empty `Animacy`): <em>kojeg, svojeg, nekoga, njegova, svog, svoga, kojega, svakog, onoga, mog</em>
 * `Inan` (311; 82% of non-empty `Animacy`): <em>svoj, koji, taj, ovaj, njihov, svaki, neki, naš, takav, njegov</em>
-* `EMPTY` (7317): <em>koji, to, koje, koja, svoje, nekoliko, ove, toga, sve, kojima</em>
+* `EMPTY` (7307): <em>koji, to, koje, koja, svoje, nekoliko, ove, toga, sve, kojima</em>
 
 <table>
   <tr><th>Paradigm <i>koji</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
@@ -116,7 +116,7 @@ The most frequent other feature values with which `PRON` and `Animacy` co-occurr
 `PRON` tokens may have the following values of `Animacy`:
 
 * `Anim` (1; 100% of non-empty `Animacy`): <em>nikoga</em>
-* `EMPTY` (5301): <em>se, što, ih, mi, ga, im, mu, on, njih, nam</em>
+* `EMPTY` (5299): <em>se, što, ih, mi, ga, im, mu, on, njih, nam</em>
 
 ## Relations with Agreement in `Animacy`
 

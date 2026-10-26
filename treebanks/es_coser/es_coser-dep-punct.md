@@ -10,10 +10,10 @@ This relation is universal.
 
 1615 nodes (20%) are attached to their parents as `punct`.
 
-1241 instances of `punct` (77%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.61547987616099.
+985 instances of `punct` (61%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.528173374613.
 
-The following 14 pairs of parts of speech are connected with `punct`: <tt><a href="es_coser-pos-VERB.html">VERB</a></tt>-<tt><a href="es_coser-pos-PUNCT.html">PUNCT</a></tt> (810; 50% instances), <tt><a href="es_coser-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_coser-pos-PUNCT.html">PUNCT</a></tt> (268; 17% instances), <tt><a href="es_coser-pos-ADV.html">ADV</a></tt>-<tt><a href="es_coser-pos-PUNCT.html">PUNCT</a></tt> (109; 7% instances), <tt><a href="es_coser-pos-INTJ.html">INTJ</a></tt>-<tt><a href="es_coser-pos-PUNCT.html">PUNCT</a></tt> (105; 7% instances), <tt><a href="es_coser-pos-PRON.html">PRON</a></tt>-<tt><a href="es_coser-pos-PUNCT.html">PUNCT</a></tt> (89; 6% instances), <tt><a href="es_coser-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_coser-pos-PUNCT.html">PUNCT</a></tt> (62; 4% instances), <tt><a href="es_coser-pos-ADP.html">ADP</a></tt>-<tt><a href="es_coser-pos-PUNCT.html">PUNCT</a></tt> (34; 2% instances), <tt><a href="es_coser-pos-AUX.html">AUX</a></tt>-<tt><a href="es_coser-pos-PUNCT.html">PUNCT</a></tt> (32; 2% instances), <tt><a href="es_coser-pos-DET.html">DET</a></tt>-<tt><a href="es_coser-pos-PUNCT.html">PUNCT</a></tt> (22; 1% instances), <tt><a href="es_coser-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_coser-pos-PUNCT.html">PUNCT</a></tt> (20; 1% instances), <tt><a href="es_coser-pos-X.html">X</a></tt>-<tt><a href="es_coser-pos-PUNCT.html">PUNCT</a></tt> (20; 1% instances), <tt><a href="es_coser-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="es_coser-pos-PUNCT.html">PUNCT</a></tt> (19; 1% instances), <tt><a href="es_coser-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="es_coser-pos-PUNCT.html">PUNCT</a></tt> (17; 1% instances), <tt><a href="es_coser-pos-NUM.html">NUM</a></tt>-<tt><a href="es_coser-pos-PUNCT.html">PUNCT</a></tt> (8; 0% instances).
+The following 14 pairs of parts of speech are connected with `punct`: <tt><a href="es_coser-pos-VERB.html">VERB</a></tt>-<tt><a href="es_coser-pos-PUNCT.html">PUNCT</a></tt> (721; 45% instances), <tt><a href="es_coser-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_coser-pos-PUNCT.html">PUNCT</a></tt> (248; 15% instances), <tt><a href="es_coser-pos-INTJ.html">INTJ</a></tt>-<tt><a href="es_coser-pos-PUNCT.html">PUNCT</a></tt> (138; 9% instances), <tt><a href="es_coser-pos-ADV.html">ADV</a></tt>-<tt><a href="es_coser-pos-PUNCT.html">PUNCT</a></tt> (137; 8% instances), <tt><a href="es_coser-pos-PRON.html">PRON</a></tt>-<tt><a href="es_coser-pos-PUNCT.html">PUNCT</a></tt> (105; 7% instances), <tt><a href="es_coser-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_coser-pos-PUNCT.html">PUNCT</a></tt> (54; 3% instances), <tt><a href="es_coser-pos-AUX.html">AUX</a></tt>-<tt><a href="es_coser-pos-PUNCT.html">PUNCT</a></tt> (41; 3% instances), <tt><a href="es_coser-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="es_coser-pos-PUNCT.html">PUNCT</a></tt> (35; 2% instances), <tt><a href="es_coser-pos-DET.html">DET</a></tt>-<tt><a href="es_coser-pos-PUNCT.html">PUNCT</a></tt> (33; 2% instances), <tt><a href="es_coser-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="es_coser-pos-PUNCT.html">PUNCT</a></tt> (26; 2% instances), <tt><a href="es_coser-pos-ADP.html">ADP</a></tt>-<tt><a href="es_coser-pos-PUNCT.html">PUNCT</a></tt> (25; 2% instances), <tt><a href="es_coser-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_coser-pos-PUNCT.html">PUNCT</a></tt> (22; 1% instances), <tt><a href="es_coser-pos-X.html">X</a></tt>-<tt><a href="es_coser-pos-PUNCT.html">PUNCT</a></tt> (22; 1% instances), <tt><a href="es_coser-pos-NUM.html">NUM</a></tt>-<tt><a href="es_coser-pos-PUNCT.html">PUNCT</a></tt> (8; 0% instances).
 
 
 ~~~ conllu
@@ -50,24 +50,17 @@ The following 14 pairs of parts of speech are connected with `punct`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 2 punct	color:blue
-1	No	no	ADV	rn	Polarity=Neg	4	advmod	_	SpaceAfter=No
-2	,	,	PUNCT	fc	PunctType=Comm	1	punct	_	_
-3	pero	pero	CCONJ	cc	_	4	cc	_	_
-4	antes	antes	ADV	rg	_	7	advmod	_	SpaceAfter=No
-5	,	,	PUNCT	fc	PunctType=Comm	7	punct	_	_
-6	¿	¿	PUNCT	fia	PunctSide=Ini|PunctType=Qest	7	punct	_	SpaceAfter=No
-7	vivía	vivir	VERB	vmii3s0	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
-8	allí	allí	ADV	rg	_	7	advmod	_	SpaceAfter=No
-9	,	,	PUNCT	fc	PunctType=Comm	12	punct	_	_
-10	en	en	ADP	sps00	_	12	case	_	_
-11	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
-12	masana	masana	NOUN	aq0fs0	Gender=Fem|Number=Sing	7	obl	_	SpaceAfter=No
-13	?	?	PUNCT	fit	PunctSide=Fin|PunctType=Qest	7	punct	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 4 punct	color:blue
+1	Siguen	seguir	VERB	vmip3p0	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	teniendo	tener	VERB	vmg0000	VerbForm=Ger	1	xcomp	_	_
+3	pesetas	peseta	NOUN	ncfp000	NumForm=Digit	2	obj	_	SpaceAfter=No
+4	,	,	PUNCT	fc	PunctType=Comm	5	punct	_	_
+5	sí	sí	INTJ	rg	_	1	discourse	_	SpaceAfter=No
+6	.	.	PUNCT	fp	PunctType=Peri	1	punct	_	_
 
 ~~~
 

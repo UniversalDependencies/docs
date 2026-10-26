@@ -34,7 +34,7 @@ The following 1 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 9	heshtjen	heshtje	NOUN	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	12	nsubj:pass	_	end_char=982|start_char=974
 10	vërtet	vërtet	ADV	_	AdvType=Man	12	advmod	_	end_char=989|start_char=983
 11	e	ai	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	12	obj	_	end_char=991|start_char=990
-12	prishin	prish	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	0	root	_	end_char=999|start_char=992
+12	prishin	prish	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	end_char=999|start_char=992
 13	në	në	ADP	_	_	14	case	_	end_char=1002|start_char=1000
 14	mënyrë	mënyrë	NOUN	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	12	obl	_	end_char=1009|start_char=1003
 15	alternative	alternat	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	14	amod	_	end_char=1021|start_char=1010

@@ -53,14 +53,14 @@ The most frequent other feature values with which `VERB` and `Aspect` co-occurre
 
 ### `AUX`
 
-3538 <tt><a href="sk_snk-pos-AUX.html">AUX</a></tt> tokens (95% of all `AUX` tokens) have a non-empty value of `Aspect`.
+3538 <tt><a href="sk_snk-pos-AUX.html">AUX</a></tt> tokens (88% of all `AUX` tokens) have a non-empty value of `Aspect`.
 
 The most frequent other feature values with which `AUX` and `Aspect` co-occurred: <tt><a href="sk_snk-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (3398; 96%), <tt><a href="sk_snk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2919; 83%), <tt><a href="sk_snk-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2808; 79%), <tt><a href="sk_snk-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2749; 78%), <tt><a href="sk_snk-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2745; 78%), <tt><a href="sk_snk-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (2553; 72%).
 
 `AUX` tokens may have the following values of `Aspect`:
 
 * `Imp` (3538; 100% of non-empty `Aspect`): <em>som, je, bol, sme, bola, sú, bolo, bude, boli, si</em>
-* `EMPTY` (185): <em>by</em>
+* `EMPTY` (460): <em>by</em>
 
 ## Relations with Agreement in `Aspect`
 
@@ -71,5 +71,6 @@ The 10 most frequent relations where parent and child node agree in `Aspect`:
 <tt>VERB --[<tt><a href="sk_snk-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (31; 72%),
 <tt>VERB --[<tt><a href="sk_snk-dep-dep.html">dep</a></tt>]--> VERB</tt> (13; 54%),
 <tt>VERB --[<tt><a href="sk_snk-dep-csubj-pass.html">csubj:pass</a></tt>]--> VERB</tt> (11; 73%),
+<tt>VERB --[<tt><a href="sk_snk-dep-advcl-pred.html">advcl:pred</a></tt>]--> VERB</tt> (8; 62%),
 <tt>VERB --[<tt><a href="sk_snk-dep-appos.html">appos</a></tt>]--> VERB</tt> (2; 67%).
 

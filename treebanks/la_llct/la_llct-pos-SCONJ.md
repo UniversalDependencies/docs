@@ -63,12 +63,12 @@ The 2nd highest number of forms (4) was observed with the lemma “sicut”: <em
 
 The 3rd highest number of forms (3) was observed with the lemma “quomodo”: <em>como, comodo, quomodo</em>.
 
-`SCONJ` occurs with 1 features: <tt><a href="la_llct-feat-PronType.html">PronType</a></tt> (1031; 24% instances)
+`SCONJ` occurs with 2 features: <tt><a href="la_llct-feat-PronType.html">PronType</a></tt> (1031; 24% instances), <tt><a href="la_llct-feat-ExtPos.html">ExtPos</a></tt> (15; 0% instances)
 
-`SCONJ` occurs with 1 feature-value pairs: `PronType=Rel`
+`SCONJ` occurs with 3 feature-value pairs: `ExtPos=CCONJ`, `ExtPos=SCONJ`, `PronType=Rel`
 
-`SCONJ` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (3268 tokens).
+`SCONJ` occurs with 4 feature combinations.
+The most frequent feature combination is `_` (3256 tokens).
 Examples: <em>si, quia, sicut, qualiter, dum, postquam, quod, quam, quomodo, quatenus</em>
 
 

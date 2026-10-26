@@ -18,7 +18,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="tr_imst-pos-PRON.ht
 
 178 <tt><a href="tr_imst-pos-PRON.html">PRON</a></tt> tokens (8% of all `PRON` tokens) have a non-empty value of `Reflex`.
 
-The most frequent other feature values with which `PRON` and `Reflex` co-occurred: <tt><a href="tr_imst-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (178; 100%), <tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Sing</tt> (142; 80%), <tt><a href="tr_imst-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt> (142; 80%), <tt><a href="tr_imst-feat-Person.html">Person</a></tt><tt>=3</tt> (136; 76%), <tt><a href="tr_imst-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt> (136; 76%).
+The most frequent other feature values with which `PRON` and `Reflex` co-occurred: <tt><a href="tr_imst-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (178; 100%), <tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Sing</tt> (142; 80%), <tt><a href="tr_imst-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt> (142; 80%), <tt><a href="tr_imst-feat-Person.html">Person</a></tt><tt>=3</tt> (136; 76%), <tt><a href="tr_imst-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt> (136; 76%).
 
 `PRON` tokens may have the following values of `Reflex`:
 

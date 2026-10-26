@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Card`, `Ord`.
 
-5838 tokens (3%) have a non-empty value of `NumType`.
-1423 types (3%) occur at least once with a non-empty value of `NumType`.
-1114 lemmas (4%) occur at least once with a non-empty value of `NumType`.
-The feature is used with 2 part-of-speech tags: <tt><a href="fi_tdt-pos-NUM.html">NUM</a></tt> (4684; 2% instances), <tt><a href="fi_tdt-pos-ADJ.html">ADJ</a></tt> (1154; 1% instances).
+5837 tokens (3%) have a non-empty value of `NumType`.
+1422 types (3%) occur at least once with a non-empty value of `NumType`.
+1113 lemmas (4%) occur at least once with a non-empty value of `NumType`.
+The feature is used with 2 part-of-speech tags: <tt><a href="fi_tdt-pos-NUM.html">NUM</a></tt> (4683; 2% instances), <tt><a href="fi_tdt-pos-ADJ.html">ADJ</a></tt> (1154; 1% instances).
 
 ### `NUM`
 
-4684 <tt><a href="fi_tdt-pos-NUM.html">NUM</a></tt> tokens (94% of all `NUM` tokens) have a non-empty value of `NumType`.
+4683 <tt><a href="fi_tdt-pos-NUM.html">NUM</a></tt> tokens (94% of all `NUM` tokens) have a non-empty value of `NumType`.
 
 The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="fi_tdt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (3431; 73%), <tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (3431; 73%).
 
 `NUM` tokens may have the following values of `NumType`:
 
-* `Card` (4684; 100% of non-empty `NumType`): <em>1, 2, 2009, 3, 5, 4, kaksi, 10, 2006, 6</em>
+* `Card` (4683; 100% of non-empty `NumType`): <em>1, 2, 2009, 3, 5, 4, kaksi, 10, 2006, 6</em>
 * `EMPTY` (295): <em>5(n), puoli, 2003/634/EY, 19/65/ETY, 1999/730/YUTP, 90/642/ETY, 90/426/ETY, 91/628/ETY, 91/67/ETY, 66/401/ETY</em>
 
-`NumType` seems to be **lexical feature** of `NUM`. 100% lemmas (1043) occur only with one value of `NumType`.
+`NumType` seems to be **lexical feature** of `NUM`. 100% lemmas (1042) occur only with one value of `NumType`.
 
 ### `ADJ`
 

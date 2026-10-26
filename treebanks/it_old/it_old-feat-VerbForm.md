@@ -7,27 +7,26 @@ udver: '2'
 ## Treebank Statistics: UD_Italian-Old: Features: `VerbForm`
 
 This feature is universal but the values `Conv` are language-specific.
-It occurs with 5 different values: `Conv`, `Fin`, `Ger`, `Inf`, `Part`.
+It occurs with 4 different values: `Conv`, `Fin`, `Inf`, `Part`.
 
-20119 tokens (16%) have a non-empty value of `VerbForm`.
-6240 types (50%) occur at least once with a non-empty value of `VerbForm`.
+20131 tokens (16%) have a non-empty value of `VerbForm`.
+6245 types (50%) occur at least once with a non-empty value of `VerbForm`.
 1737 lemmas (27%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 4 part-of-speech tags: <tt><a href="it_old-pos-VERB.html">VERB</a></tt> (16748; 14% instances), <tt><a href="it_old-pos-AUX.html">AUX</a></tt> (3369; 3% instances), <tt><a href="it_old-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+The feature is used with 4 part-of-speech tags: <tt><a href="it_old-pos-VERB.html">VERB</a></tt> (16789; 14% instances), <tt><a href="it_old-pos-AUX.html">AUX</a></tt> (3340; 3% instances), <tt><a href="it_old-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 ### `VERB`
 
-16748 <tt><a href="it_old-pos-VERB.html">VERB</a></tt> tokens (99% of all `VERB` tokens) have a non-empty value of `VerbForm`.
+16789 <tt><a href="it_old-pos-VERB.html">VERB</a></tt> tokens (99% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="it_old-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (14423; 86%), <tt><a href="it_old-feat-Number.html">Number</a></tt><tt>=Sing</tt> (11977; 72%), <tt><a href="it_old-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (10158; 61%), <tt><a href="it_old-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (9884; 59%), <tt><a href="it_old-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (9792; 58%), <tt><a href="it_old-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (8612; 51%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="it_old-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (14391; 86%), <tt><a href="it_old-feat-Number.html">Number</a></tt><tt>=Sing</tt> (12002; 71%), <tt><a href="it_old-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (10187; 61%), <tt><a href="it_old-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (9944; 59%), <tt><a href="it_old-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (9761; 58%), <tt><a href="it_old-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (8602; 51%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
-* `Conv` (670; 4% of non-empty `VerbForm`): <em>dicendo, cantando, veggendo, parlando, piangendo, andando, guardando, gridando, venendo, pensando</em>
-* `Fin` (11428; 68% of non-empty `VerbForm`): <em>disse, fa, vidi, vedi, ha, fece, va, fé, rispuose, convien</em>
-* `Ger` (1; 0% of non-empty `VerbForm`): <em>cercando</em>
-* `Inf` (2319; 14% of non-empty `VerbForm`): <em>veder, far, dir, fare, parlar, vedere, voler, aver, dire, andar</em>
-* `Part` (2330; 14% of non-empty `VerbForm`): <em>fatto, fatta, tratto, detto, giunto, vòlto, messo, morta, venuto, volta</em>
-* `EMPTY` (161): <em>parrebbe, saprei, avria, creato, direi, vei, avrebbe, crederebbe, farebbe, faria</em>
+* `Conv` (674; 4% of non-empty `VerbForm`): <em>dicendo, cantando, veggendo, parlando, piangendo, andando, guardando, gridando, venendo, pensando</em>
+* `Fin` (11392; 68% of non-empty `VerbForm`): <em>disse, fa, vidi, vedi, ha, fece, fé, va, rispuose, convien</em>
+* `Inf` (2320; 14% of non-empty `VerbForm`): <em>veder, far, dir, fare, parlar, vedere, voler, aver, dire, andar</em>
+* `Part` (2403; 14% of non-empty `VerbForm`): <em>fatto, fatta, detto, tratto, messo, giunto, vòlto, morta, venuto, volta</em>
+* `EMPTY` (151): <em>parrebbe, avria, saprei, direi, vei, avrebbe, crederebbe, farebbe, faria, rammarca</em>
 
 <table>
   <tr><th>Paradigm <i>fare</i></th><th><tt>Fin</tt></th><th><tt>Inf</tt></th><th><tt>Part</tt></th><th><tt>Conv</tt></th></tr>
@@ -63,6 +62,7 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
   <tr><td><tt><tt><a href="it_old-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="it_old-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="it_old-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="it_old-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="it_old-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="it_old-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td><em>fero</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="it_old-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="it_old-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="it_old-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="it_old-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td></td><td><em>fatto</em></td><td></td></tr>
   <tr><td><tt><tt><a href="it_old-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="it_old-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="it_old-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="it_old-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="it_old-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td></td><td><em>fatto</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="it_old-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="it_old-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="it_old-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="it_old-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td></td><td><em>fatturo</em></td><td></td></tr>
   <tr><td><tt><tt><a href="it_old-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="it_old-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="it_old-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td></td><td><em>fatto</em></td><td></td></tr>
   <tr><td><tt><tt><a href="it_old-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="it_old-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="it_old-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="it_old-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td></td><td><em>fatto</em></td><td></td></tr>
   <tr><td><tt><tt><a href="it_old-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="it_old-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="it_old-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="it_old-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td></td><td></td><td><em>fatto</em></td><td></td></tr>
@@ -82,7 +82,6 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
   <tr><td><tt><tt><a href="it_old-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="it_old-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="it_old-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="it_old-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="it_old-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>farai</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="it_old-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="it_old-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="it_old-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="it_old-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="it_old-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>fai</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="it_old-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="it_old-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="it_old-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="it_old-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="it_old-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>farà</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="it_old-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="it_old-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="it_old-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="it_old-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="it_old-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td><em>fatto</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="it_old-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="it_old-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="it_old-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="it_old-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>far, fatta</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="it_old-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="it_old-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="it_old-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="it_old-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="it_old-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>fa, face, fare, faci, fane</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="it_old-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="it_old-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="it_old-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="it_old-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="it_old-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td><em>face</em></td><td></td><td></td><td></td></tr>
@@ -103,17 +102,17 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 
 ### `AUX`
 
-3369 <tt><a href="it_old-pos-AUX.html">AUX</a></tt> tokens (95% of all `AUX` tokens) have a non-empty value of `VerbForm`.
+3340 <tt><a href="it_old-pos-AUX.html">AUX</a></tt> tokens (95% of all `AUX` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="it_old-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2844; 84%), <tt><a href="it_old-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (2722; 81%), <tt><a href="it_old-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2537; 75%), <tt><a href="it_old-feat-Person.html">Person</a></tt><tt>=3</tt> (2402; 71%), <tt><a href="it_old-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (2011; 60%), <tt><a href="it_old-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1852; 55%).
+The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="it_old-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2818; 84%), <tt><a href="it_old-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (2714; 81%), <tt><a href="it_old-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2518; 75%), <tt><a href="it_old-feat-Person.html">Person</a></tt><tt>=3</tt> (2380; 71%), <tt><a href="it_old-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (1998; 60%), <tt><a href="it_old-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1840; 55%).
 
 `AUX` tokens may have the following values of `VerbForm`:
 
 * `Conv` (6; 0% of non-empty `VerbForm`): <em>possendo, essendo, avendo</em>
-* `Fin` (3133; 93% of non-empty `VerbForm`): <em>è, fu, era, son, fui, se', avea, ha, fosse, sia</em>
-* `Inf` (182; 5% of non-empty `VerbForm`): <em>esser, essere, aver, avere, voler, poter, potere, volere</em>
-* `Part` (48; 1% of non-empty `VerbForm`): <em>stato, state, è, fosse, fossero, fossi, son, stata, potuto, stati</em>
-* `EMPTY` (160): <em>sarebbe, fora, saria, sarei, avria, avrei, poria, avrebbe, dovria, avresti</em>
+* `Fin` (3106; 93% of non-empty `VerbForm`): <em>è, fu, era, son, fui, se', avea, fosse, ha, sia</em>
+* `Inf` (181; 5% of non-empty `VerbForm`): <em>esser, essere, avere, aver, voler, poter, potere, volere</em>
+* `Part` (47; 1% of non-empty `VerbForm`): <em>stato, state, è, fosse, fossero, fossi, son, stata, potuto, stati</em>
+* `EMPTY` (158): <em>sarebbe, fora, saria, sarei, avria, avrei, poria, avrebbe, dovria, avresti</em>
 
 <table>
   <tr><th>Paradigm <i>essere</i></th><th><tt>Fin</tt></th><th><tt>Inf</tt></th><th><tt>Part</tt></th><th><tt>Conv</tt></th></tr>
@@ -150,8 +149,7 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
   <tr><td><tt><tt><a href="it_old-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="it_old-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="it_old-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="it_old-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td><em>sarai</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="it_old-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="it_old-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="it_old-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="it_old-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>se'</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="it_old-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="it_old-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="it_old-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="it_old-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td><em>fia, sarà, essere, fie</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="it_old-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="it_old-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="it_old-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="it_old-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>è, èe, essere</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="it_old-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="it_old-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="it_old-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="it_old-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="it_old-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>è</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="it_old-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="it_old-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="it_old-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="it_old-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>è, èe, essere, ènne</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="it_old-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="it_old-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="it_old-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="it_old-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>siam, semo, sem, siamo</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="it_old-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="it_old-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="it_old-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="it_old-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td><em>sarete</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="it_old-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="it_old-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="it_old-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="it_old-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>siete</em></td><td></td><td></td><td></td></tr>
@@ -177,7 +175,7 @@ The most frequent other feature values with which `ADJ` and `VerbForm` co-occurr
 `ADJ` tokens may have the following values of `VerbForm`:
 
 * `Part` (1; 100% of non-empty `VerbForm`): <em>disdegnoso</em>
-* `EMPTY` (5175): <em>gran, dolce, alto, primo, prima, buon, bella, maggior, grande, alta</em>
+* `EMPTY` (5198): <em>gran, dolce, alto, primo, prima, buon, bella, maggior, grande, alta</em>
 
 ### `NOUN`
 
@@ -188,19 +186,19 @@ The most frequent other feature values with which `NOUN` and `VerbForm` co-occur
 `NOUN` tokens may have the following values of `VerbForm`:
 
 * `Fin` (1; 100% of non-empty `VerbForm`): <em>luce</em>
-* `EMPTY` (15955): <em>occhi, mondo, terra, gente, maestro, parte, ciel, mente, viso, loco</em>
+* `EMPTY` (15952): <em>occhi, mondo, terra, gente, maestro, parte, ciel, mente, viso, loco</em>
 
 ## Relations with Agreement in `VerbForm`
 
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
-<tt>VERB --[<tt><a href="it_old-dep-conj.html">conj</a></tt>]--> VERB</tt> (1466; 90%),
-<tt>VERB --[<tt><a href="it_old-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (1069; 84%),
-<tt>VERB --[<tt><a href="it_old-dep-ccomp-reported.html">ccomp:reported</a></tt>]--> VERB</tt> (413; 76%),
-<tt>VERB --[<tt><a href="it_old-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (336; 62%),
-<tt>VERB --[<tt><a href="it_old-dep-advcl-cmp.html">advcl:cmp</a></tt>]--> VERB</tt> (243; 77%),
-<tt>VERB --[<tt><a href="it_old-dep-advcl-relcl.html">advcl:relcl</a></tt>]--> VERB</tt> (56; 68%),
-<tt>VERB --[<tt><a href="it_old-dep-csubj-relcl.html">csubj:relcl</a></tt>]--> VERB</tt> (30; 81%),
+<tt>VERB --[<tt><a href="it_old-dep-conj.html">conj</a></tt>]--> VERB</tt> (1465; 90%),
+<tt>VERB --[<tt><a href="it_old-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (1071; 83%),
+<tt>VERB --[<tt><a href="it_old-dep-ccomp-reported.html">ccomp:reported</a></tt>]--> VERB</tt> (415; 76%),
+<tt>VERB --[<tt><a href="it_old-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (340; 61%),
+<tt>VERB --[<tt><a href="it_old-dep-advcl-cmp.html">advcl:cmp</a></tt>]--> VERB</tt> (213; 75%),
+<tt>VERB --[<tt><a href="it_old-dep-advcl-relcl.html">advcl:relcl</a></tt>]--> VERB</tt> (40; 66%),
 <tt>VERB --[<tt><a href="it_old-dep-flat-redup.html">flat:redup</a></tt>]--> VERB</tt> (13; 93%),
-<tt>VERB --[<tt><a href="it_old-dep-ccomp.html">ccomp</a></tt>]--> AUX</tt> (7; 70%),
-<tt>VERB --[<tt><a href="it_old-dep-advcl.html">advcl</a></tt>]--> AUX</tt> (6; 55%).
+<tt>VERB --[<tt><a href="it_old-dep-ccomp.html">ccomp</a></tt>]--> AUX</tt> (6; 67%),
+<tt>AUX --[<tt><a href="it_old-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (4; 80%),
+<tt>AUX --[<tt><a href="it_old-dep-conj.html">conj</a></tt>]--> AUX</tt> (3; 100%).
 

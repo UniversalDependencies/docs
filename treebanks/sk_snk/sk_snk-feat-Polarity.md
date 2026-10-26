@@ -48,7 +48,7 @@ The most frequent other feature values with which `VERB` and `Polarity` co-occur
 
 ### `AUX`
 
-3538 <tt><a href="sk_snk-pos-AUX.html">AUX</a></tt> tokens (95% of all `AUX` tokens) have a non-empty value of `Polarity`.
+3538 <tt><a href="sk_snk-pos-AUX.html">AUX</a></tt> tokens (88% of all `AUX` tokens) have a non-empty value of `Polarity`.
 
 The most frequent other feature values with which `AUX` and `Polarity` co-occurred: <tt><a href="sk_snk-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (3538; 100%), <tt><a href="sk_snk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2919; 83%), <tt><a href="sk_snk-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2808; 79%), <tt><a href="sk_snk-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2749; 78%), <tt><a href="sk_snk-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2745; 78%), <tt><a href="sk_snk-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (2553; 72%).
 
@@ -56,7 +56,7 @@ The most frequent other feature values with which `AUX` and `Polarity` co-occurr
 
 * `Neg` (140; 4% of non-empty `Polarity`): <em>je, nebola, nebolo, nebude, nebol, neboli, sú, nebudem, som, Nebudete</em>
 * `Pos` (3398; 96% of non-empty `Polarity`): <em>som, je, bol, sme, bola, sú, bolo, bude, boli, si</em>
-* `EMPTY` (185): <em>by</em>
+* `EMPTY` (460): <em>by</em>
 
 <table>
   <tr><th>Paradigm <i>byť</i></th><th><tt>Pos</tt></th><th><tt>Neg</tt></th></tr>
@@ -114,10 +114,10 @@ The most frequent other feature values with which `ADJ` and `Polarity` co-occurr
 ## Relations with Agreement in `Polarity`
 
 The 10 most frequent relations where parent and child node agree in `Polarity`:
-<tt>VERB --[<tt><a href="sk_snk-dep-aux.html">aux</a></tt>]--> AUX</tt> (1582; 80%),
+<tt>VERB --[<tt><a href="sk_snk-dep-aux.html">aux</a></tt>]--> AUX</tt> (1582; 70%),
 <tt>VERB --[<tt><a href="sk_snk-dep-conj.html">conj</a></tt>]--> VERB</tt> (1519; 89%),
 <tt>VERB --[<tt><a href="sk_snk-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (869; 82%),
-<tt>VERB --[<tt><a href="sk_snk-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (730; 80%),
+<tt>VERB --[<tt><a href="sk_snk-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (718; 80%),
 <tt>VERB --[<tt><a href="sk_snk-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (623; 86%),
 <tt>ADJ --[<tt><a href="sk_snk-dep-aux-pass.html">aux:pass</a></tt>]--> AUX</tt> (96; 94%),
 <tt>VERB --[<tt><a href="sk_snk-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (57; 83%),

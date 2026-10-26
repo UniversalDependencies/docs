@@ -44,26 +44,26 @@ The following 19 pairs of parts of speech are connected with `advcl:relcl`: <tt>
 # visual-style 3 13 advcl:relcl	color:blue
 1	So	so	ADV	RB	_	3	advmod	3:advmod	_
 2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	3:nsubj	_
-3	pointed	point	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	0:root	_
+3	pointed	point	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	0:root	MWECat=V.VPC.full|MWELemma=point <1> out|MWELen=3|MWEString=pointed <1> out|Supersense=v.cognition
 4	this	this	PRON	DT	Number=Sing|PronType=Dem	3	obj	3:obj	_
 5	out	out	ADP	RP	_	3	compound:prt	3:compound:prt	_
-6	to	to	ADP	IN	_	7	case	7:case	_
+6	to	to	ADP	IN	_	7	case	7:case	PRel[config]=default|PRel[gov]=3:point|PRel[obj]=7:he|Supersense[coding]=p.Goal|Supersense[scene]=p.Recipient
 7	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obl	3:obl:to	SpaceAfter=No
 8	,	,	PUNCT	,	_	13	punct	13:punct	_
-9	at	at	ADP	IN	_	11	case	11:case	_
+9	at	at	ADP	IN	_	11	case	11:case	PRel[config]=default|PRel[gov]=13:say|PRel[obj]=11:point|Supersense=p.Time
 10	which	which	DET	WDT	PronType=Rel	11	det	11:det	_
-11	point	point	NOUN	NN	Number=Sing	13	obl	13:obl:at	_
+11	point	point	NOUN	NN	Number=Sing	13	obl	13:obl:at	Supersense=n.TIME
 12	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	nsubj	13:nsubj	_
-13	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	advcl:relcl	3:advcl:relcl	Cxn=rc-wh-obl
+13	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	advcl:relcl	3:advcl:relcl	Cxn=rc-wh-obl|Supersense=v.communication
 14	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	16	nsubj	16:nsubj	_
 15	only	only	ADV	RB	_	16	advmod	16:advmod	_
-16	had	have	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	13	ccomp	13:ccomp	_
+16	had	have	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	13	ccomp	13:ccomp	Supersense=v.stative
 17	one	one	NUM	CD	NumForm=Word|NumType=Card	16	obj	16:obj	_
-18	of	of	ADP	IN	_	21	case	21:case	_
+18	of	of	ADP	IN	_	21	case	21:case	PRel[config]=default|PRel[gov]=17:one|PRel[obj]=21:tire|Supersense[coding]=p.Whole|Supersense[scene]=p.QuantityItem
 19	the	the	DET	DT	Definite=Def|PronType=Art	21	det	21:det	_
 20	correct	correct	ADJ	JJ	Degree=Pos	21	amod	21:amod	_
-21	tires	tire	NOUN	NNS	Number=Plur	17	nmod	17:nmod:of	_
-22	in	in	ADP	IN	_	23	case	23:case	_
+21	tires	tire	NOUN	NNS	Number=Plur	17	nmod	17:nmod:of	Supersense=n.ARTIFACT
+22	in	in	ADP	IN	_	23	case	23:case	MWECat=PP|MWELemma=in stock|MWELen=2|PRel[config]=default|PRel[gov]=16:have|PRel[obj]=23:stock|Supersense[coding]=p.Locus|Supersense[scene]=p.Characteristic
 23	stock	stock	NOUN	NN	Number=Sing	16	obl	16:obl:in	SpaceAfter=No
 24	.	.	PUNCT	.	_	3	punct	3:punct	_
 
@@ -79,22 +79,22 @@ The following 19 pairs of parts of speech are connected with `advcl:relcl`: <tt>
 1	Please	please	INTJ	UH	_	4	discourse	4:discourse	_
 2	do	do	AUX	VB	Mood=Imp|VerbForm=Fin	4	aux	4:aux	_
 3	not	not	PART	RB	Polarity=Neg	4	advmod	4:advmod	_
-4	go	go	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	0:root	Cxn=Conditional-UnspecifiedEpistemic-NoInversion|CxnElt=4:Conditional-UnspecifiedEpistemic-NoInversion.Apodosis
+4	go	go	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	0:root	Cxn=Conditional-UnspecifiedEpistemic-NoInversion|CxnElt=4:Conditional-UnspecifiedEpistemic-NoInversion.Apodosis|Supersense=v.motion
 5	there	there	ADV	RB	PronType=Dem	4	advmod	4:advmod	_
 6	if	if	SCONJ	IN	_	15	mark	15:mark	_
 7	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	15	expl	15:expl	_
-8	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	15:cop	_
+8	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	15:cop	Supersense=v.stative
 9	professional	professional	ADJ	JJ	Degree=Pos	15	amod	15:amod	SpaceAfter=No
 10	,	,	PUNCT	,	_	9	punct	9:punct	_
 11	friendly	friendly	ADJ	JJ	Degree=Pos	15	amod	15:amod	SpaceAfter=No
 12	,	,	PUNCT	,	_	11	punct	11:punct	_
 13	diligent	diligent	ADJ	JJ	Degree=Pos	15	amod	15:amod	_
 14	medical	medical	ADJ	JJ	Degree=Pos	15	amod	15:amod	_
-15	services	service	NOUN	NNS	Number=Plur	4	advcl	4:advcl:if|18:obl:for	CxnElt=4:Conditional-UnspecifiedEpistemic-NoInversion.Protasis
+15	services	service	NOUN	NNS	Number=Plur	4	advcl	4:advcl:if|18:obl:for	CxnElt=4:Conditional-UnspecifiedEpistemic-NoInversion.Protasis|Supersense=n.ACT
 16	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	18	nsubj	18:nsubj	_
 17	're	be	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	18	aux	18:aux	_
-18	looking	look	VERB	VBG	Tense=Pres|VerbForm=Part	15	advcl:relcl	15:advcl:relcl	Cxn=rc-cleft.red-obl-pstrand
-19	for	for	ADP	IN	_	18	obl	15:case	Promoted=Yes|SpaceAfter=No
+18	looking	look	VERB	VBG	Tense=Pres|VerbForm=Part	15	advcl:relcl	15:advcl:relcl	Cxn=rc-cleft.red-obl-pstrand|MWELemma[weak]=look for|MWELen[weak]=2|MWEString[weak]=looking for|Supersense=v.cognition
+19	for	for	ADP	IN	_	18	obl	15:case	PRel[config]=default|PRel[gov]=18:look|Promoted=Yes|SpaceAfter=No|Supersense=p.Theme
 20	.	.	PUNCT	.	_	4	punct	4:punct	_
 
 ~~~

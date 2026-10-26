@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.1 release.
 The following people have contributed to making this treebank part of UD: Prokopis Prokopidis.
 
 Repository: [UD_Greek-GDT](https://github.com/UniversalDependencies/UD_Greek-GDT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udel_gdt215)<br />
-Download all treebanks: [UD 2.15](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udel_gdt218)<br />
+Download all treebanks: [UD 2.18](/#download)
 
 License: CC BY-NC-SA 3.0
 
@@ -45,9 +45,9 @@ Do not submit pull requests against the UD repository.
 ## Description
 
 The Greek UD treebank (UD_Greek-GDT) is derived from the Greek Dependency Treebank
-(http://gdt.ilsp.gr), a resource developed and maintained by
+(https://gdt.ilsp.gr), a resource developed and maintained by
 researchers at the Institute for Language and Speech Processing/Athena
-R.C. (http://www.ilsp.gr).
+R.C. (https://www.ilsp.gr).
 
 
 
@@ -56,7 +56,7 @@ data in the current release derive from primary texts that are in the
 public domain, including wikinews articles and european parliament
 sessions. The treebank is licensed under the terms of [Creative
 Commons Attribution-NonCommercial-ShareAlike, CC BY-NC-SA
-3.0](http://creativecommons.org/licenses/by-nc-sa/3.0/).
+3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/).
 
 The morphological and syntactic annotation of the Greek UD treebank
 was originally created through a semi-automatic conversion of
@@ -89,7 +89,7 @@ National Technical University of Athens.
 
 ## Features
 
-[Abbr](el_gdt-feat-Abbr.html) – [Aspect](el_gdt-feat-Aspect.html) – [Case](el_gdt-feat-Case.html) – [Definite](el_gdt-feat-Definite.html) – [Degree](el_gdt-feat-Degree.html) – [Foreign](el_gdt-feat-Foreign.html) – [Gender](el_gdt-feat-Gender.html) – [Mood](el_gdt-feat-Mood.html) – [Number](el_gdt-feat-Number.html) – [NumType](el_gdt-feat-NumType.html) – [Person](el_gdt-feat-Person.html) – [Poss](el_gdt-feat-Poss.html) – [PronType](el_gdt-feat-PronType.html) – [Tense](el_gdt-feat-Tense.html) – [VerbForm](el_gdt-feat-VerbForm.html) – [Voice](el_gdt-feat-Voice.html)
+[Abbr](el_gdt-feat-Abbr.html) – [Aspect](el_gdt-feat-Aspect.html) – [Case](el_gdt-feat-Case.html) – [Definite](el_gdt-feat-Definite.html) – [Degree](el_gdt-feat-Degree.html) – [ExtPos](el_gdt-feat-ExtPos.html) – [Foreign](el_gdt-feat-Foreign.html) – [Gender](el_gdt-feat-Gender.html) – [Mood](el_gdt-feat-Mood.html) – [Number](el_gdt-feat-Number.html) – [NumType](el_gdt-feat-NumType.html) – [Person](el_gdt-feat-Person.html) – [Poss](el_gdt-feat-Poss.html) – [PronType](el_gdt-feat-PronType.html) – [Tense](el_gdt-feat-Tense.html) – [VerbForm](el_gdt-feat-VerbForm.html) – [Voice](el_gdt-feat-Voice.html)
 
 ## Relations
 
@@ -145,7 +145,7 @@ National Technical University of Athens.
 </ul>
 
 <ul>
-<li>This corpus contains 6 lemmas tagged as auxiliaries (AUX): έχω, ας, είμαι, θα, να, πρέπει</li>
+<li>This corpus contains 5 lemmas tagged as auxiliaries (AUX): έχω, ας, είμαι, θα, να</li>
 </ul>
 
 <ul>
@@ -168,8 +168,8 @@ National Technical University of Athens.
 <ul>
   <li>Fin
   <ul>
-    <li>AUX: είναι, πρέπει, ήταν, έχει, έχουν, είχε, είχαν, είμαστε, έπρεπε, έχουμε</li>
-    <li>VERB: μπορεί, αφορά, έχει, αποτελεί, έχουν, δήλωσε, υπάρχει, ήθελα, βρίσκεται, πρόκειται</li>
+    <li>AUX: είναι, ήταν, έχει, έχουν, είχε, είχαν, είμαστε, έχουμε, είμαι, έχω</li>
+    <li>VERB: πρέπει, μπορεί, αφορά, έχει, αποτελεί, έχουν, δήλωσε, υπάρχει, ήθελα, βρίσκεται</li>
   </ul>
   </li>
 </ul>
@@ -268,13 +268,13 @@ National Technical University of Athens.
     <ul>
       <li>ADJ: ευρωπαϊκή, ευρωπαϊκό, σημαντικό, πρώτη, ευρωπαϊκής, νέα, μεγάλη, ευρωπαϊκού, βόρεια, ίδια</li>
       <li>ADP: στ'</li>
-      <li>AUX-Fin: είναι, πρέπει, ήταν, έχει, είχε, έπρεπε, είμαι, έχω</li>
+      <li>AUX-Fin: είναι, ήταν, έχει, είχε, είμαι, έχω</li>
       <li>DET: την, το, της, η, του, τη, ο, τον, μια, ένα</li>
       <li>NOUN: επιτροπή, κοινοβούλιο, Συμβούλιο, κύριε, ένωση, επιτροπής, Πρόεδρε, έκθεση, ευρώ, κυβέρνηση</li>
       <li>NUM: ένα, μία, μια, έναν, ένας, ενάμισι</li>
       <li>PRON: που, του, της, οποία, αυτό, οποίο, μου, το, οποίος, την</li>
       <li>PROPN: Ελλάδα, Ευρώπη, Τουρκία, Κορέα, Ρωσία, Ομπάμα, Γαλλία, Ευρώπης, Γερμανίας, Κορέας</li>
-      <li>VERB-Fin: μπορεί, αφορά, έχει, αποτελεί, δήλωσε, υπάρχει, ήθελα, βρίσκεται, πρόκειται, πιστεύω</li>
+      <li>VERB-Fin: πρέπει, μπορεί, αφορά, έχει, αποτελεί, δήλωσε, υπάρχει, ήθελα, βρίσκεται, πρόκειται</li>
       <li>VERB-Part: χτισμένη, χτισμένο, περιορισμένη, αποτυχημένη, αυξημένη, δομημένο, εκλεγμένος, κτισμένο, ολοκληρωμένη, συμπεριλαμβανομένης</li>
     </ul>
   </li>
@@ -354,7 +354,7 @@ National Technical University of Athens.
 <ul>
   <li>Def
     <ul>
-      <li>DET: την, της, το, η, του, των, ο, οι, τα, τη</li>
+      <li>DET: την, το, της, η, του, των, τη, τις, τα, ο</li>
     </ul>
   </li>
 </ul>
@@ -405,9 +405,9 @@ National Technical University of Athens.
   <li>Imp
     <ul>
       <li>AUX-Conv: έχοντας</li>
-      <li>AUX-Fin: είναι, πρέπει, ήταν, έχει, έχουν, είχε, είχαν, είμαστε, έπρεπε, έχουμε</li>
+      <li>AUX-Fin: είναι, ήταν, έχει, έχουν, είχε, είχαν, είμαστε, έχουμε, είμαι, έχω</li>
       <li>VERB-Conv: λέγοντας, προκαλώντας, έχοντας, ακολουθώντας, Απαντώντας, Τελειώνοντας, χαρακτηρίζοντας, αρχίζοντας, αυξάνοντας, αφήνοντας</li>
-      <li>VERB-Fin: μπορεί, αφορά, έχει, αποτελεί, έχουν, υπάρχει, ήθελα, βρίσκεται, πρόκειται, πιστεύω</li>
+      <li>VERB-Fin: πρέπει, μπορεί, αφορά, έχει, αποτελεί, έχουν, υπάρχει, ήθελα, βρίσκεται, πρόκειται</li>
     </ul>
   </li>
 </ul>
@@ -438,8 +438,8 @@ National Technical University of Athens.
 <ul>
   <li>Ind
     <ul>
-      <li>AUX-Fin: είναι, πρέπει, ήταν, έχει, έχουν, είχε, είχαν, είμαστε, έπρεπε, έχουμε</li>
-      <li>VERB-Fin: μπορεί, αφορά, έχει, αποτελεί, έχουν, δήλωσε, υπάρχει, ήθελα, βρίσκεται, πρόκειται</li>
+      <li>AUX-Fin: είναι, ήταν, έχει, έχουν, είχε, είχαν, είμαστε, έχουμε, είμαι, έχω</li>
+      <li>VERB-Fin: πρέπει, μπορεί, αφορά, έχει, αποτελεί, έχουν, δήλωσε, υπάρχει, ήθελα, βρίσκεται</li>
     </ul>
   </li>
 </ul>
@@ -451,8 +451,8 @@ National Technical University of Athens.
 <ul>
   <li>Past
     <ul>
-      <li>AUX-Fin: ήταν, είχε, είχαν, έπρεπε, ήμασταν, ήσαν, είχαμε, είχατε</li>
-      <li>VERB-Fin: δήλωσε, ήθελα, είχε, ανέφερε, έγινε, μπορούσε, ανακοίνωσε, είχαν, επεσήμανε, ξεκίνησε</li>
+      <li>AUX-Fin: ήταν, είχε, είχαν, ήμασταν, ήσαν, είχαμε, είχατε</li>
+      <li>VERB-Fin: δήλωσε, ήθελα, είχε, ανέφερε, έγινε, μπορούσε, έπρεπε, ανακοίνωσε, είχαν, επεσήμανε</li>
     </ul>
   </li>
 </ul>
@@ -460,8 +460,8 @@ National Technical University of Athens.
 <ul>
   <li>Pres
     <ul>
-      <li>AUX-Fin: είναι, πρέπει, έχει, έχουν, είμαστε, έχουμε, είμαι, έχω, έχετε, είσαστε</li>
-      <li>VERB-Fin: μπορεί, αφορά, έχει, αποτελεί, έχουν, υπάρχει, βρίσκεται, πρόκειται, πιστεύω, μπορούν</li>
+      <li>AUX-Fin: είναι, έχει, έχουν, είμαστε, έχουμε, είμαι, έχω, έχετε, είσαστε</li>
+      <li>VERB-Fin: πρέπει, μπορεί, αφορά, έχει, αποτελεί, έχουν, υπάρχει, βρίσκεται, πρόκειται, πιστεύω</li>
     </ul>
   </li>
 </ul>
@@ -474,9 +474,9 @@ National Technical University of Athens.
   <li>Act
     <ul>
       <li>AUX-Conv: έχοντας</li>
-      <li>AUX-Fin: πρέπει, έχει, έχουν, είχε, είχαν, έπρεπε, έχουμε, έχω, έχετε, είχαμε</li>
+      <li>AUX-Fin: έχει, έχουν, είχε, είχαν, έχουμε, έχω, έχετε, είχαμε, είχατε</li>
       <li>VERB-Conv: λέγοντας, προκαλώντας, έχοντας, ακολουθώντας, Απαντώντας, Τελειώνοντας, χαρακτηρίζοντας, αρχίζοντας, αυξάνοντας, αφήνοντας</li>
-      <li>VERB-Fin: μπορεί, αφορά, έχει, αποτελεί, έχουν, δήλωσε, υπάρχει, ήθελα, πιστεύω, μπορούν</li>
+      <li>VERB-Fin: πρέπει, μπορεί, αφορά, έχει, αποτελεί, έχουν, δήλωσε, υπάρχει, ήθελα, πιστεύω</li>
       <li>VERB-Inf: λάβει, δημιουργήσει, επιτύχει, πει, χάσει, αρχίσει, εκφράσει, αναφέρει, αποτύχει, ασκήσει</li>
     </ul>
   </li>
@@ -504,7 +504,7 @@ National Technical University of Athens.
 <ul>
   <li>Art
     <ul>
-      <li>DET: την, της, το, η, του, των, ο, οι, τα, τη</li>
+      <li>DET: την, το, της, η, του, των, τη, τις, τα, ο</li>
     </ul>
   </li>
 </ul>
@@ -638,10 +638,10 @@ National Technical University of Athens.
 <ul>
   <li>3
     <ul>
-      <li>AUX-Fin: είναι, πρέπει, ήταν, έχει, έχουν, είχε, είχαν, έπρεπε, ήσαν</li>
+      <li>AUX-Fin: είναι, ήταν, έχει, έχουν, είχε, είχαν, ήσαν</li>
       <li>DET: αυτή, αυτό, κάθε, αυτές, αυτής, αυτά, αυτού, αυτών, άλλες, άλλα</li>
       <li>PRON: που, τους, του, οποία, της, αυτό, οποίο, το, οποίες, οποίος</li>
-      <li>VERB-Fin: μπορεί, αφορά, έχει, αποτελεί, έχουν, δήλωσε, υπάρχει, βρίσκεται, πρόκειται, μπορούν</li>
+      <li>VERB-Fin: πρέπει, μπορεί, αφορά, έχει, αποτελεί, έχουν, δήλωσε, υπάρχει, βρίσκεται, πρόκειται</li>
     </ul>
   </li>
 </ul>
@@ -659,6 +659,36 @@ National Technical University of Athens.
         <ul>
           <li>ADV: π.χ., λ.χ.</li>
           <li>NOUN: ΗΠΑ, κ., ΕΕ, χλμ., ΟΗΕ, ΕΛΑΣ, π.Χ., ΕΑΜ, ΕΚ, ΕΝ</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>ExtPos</a>
+    <ul>
+      <li>ADP
+        <ul>
+          <li>ADP: ως, απ', από</li>
+          <li>ADV: όσον, Όσο</li>
+        </ul>
+      </li>
+      <li>ADV
+        <ul>
+          <li>ADV: ως, ούτως</li>
+        </ul>
+      </li>
+      <li>CCONJ
+        <ul>
+          <li>CCONJ: πλην</li>
+        </ul>
+      </li>
+      <li>SCONJ
+        <ul>
+          <li>ADP: έως, μέχρι</li>
+          <li>ADV: έτσι, δεδομένου, ούτως, παρόλο, Όσο</li>
+          <li>SCONJ: αν, μιας</li>
         </ul>
       </li>
     </ul>
@@ -686,7 +716,7 @@ National Technical University of Athens.
 </ul>
 
 <ul>
-<li>This corpus uses 5 lemmas as auxiliaries (<a>aux</a>). Examples: να, θα, έχω, πρέπει, ας.</li>
+<li>This corpus uses 4 lemmas as auxiliaries (<a>aux</a>). Examples: να, θα, έχω, ας.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -718,7 +748,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Acc (1718)</li>
       <li>VERB-Fin--NOUN-Gen (4)</li>
       <li>VERB-Fin--NOUN-Nom (9)</li>
-      <li>VERB-Fin--PRON-Acc (330)</li>
+      <li>VERB-Fin--PRON-Acc (329)</li>
       <li>VERB-Fin--PRON-Gen (13)</li>
       <li>VERB-Inf--NOUN-Acc (62)</li>
       <li>VERB-Inf--NOUN-Gen (1)</li>

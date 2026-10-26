@@ -29,9 +29,9 @@ The 2nd highest number of forms (1) was observed with the lemma “kāds”: <em
 
 The 3rd highest number of forms (1) was observed with the lemma “mans”: <em>Mans</em>.
 
-`DET` occurs with 8 features: <tt><a href="lv_cairo-feat-Case.html">Case</a></tt> (9; 100% instances), <tt><a href="lv_cairo-feat-Gender.html">Gender</a></tt> (9; 100% instances), <tt><a href="lv_cairo-feat-Number.html">Number</a></tt> (9; 100% instances), <tt><a href="lv_cairo-feat-PronType.html">PronType</a></tt> (8; 89% instances), <tt><a href="lv_cairo-feat-Person.html">Person</a></tt> (3; 33% instances), <tt><a href="lv_cairo-feat-Poss.html">Poss</a></tt> (3; 33% instances), <tt><a href="lv_cairo-feat-Definite.html">Definite</a></tt> (1; 11% instances), <tt><a href="lv_cairo-feat-Degree.html">Degree</a></tt> (1; 11% instances)
+`DET` occurs with 8 features: <tt><a href="lv_cairo-feat-Case.html">Case</a></tt> (9; 100% instances), <tt><a href="lv_cairo-feat-Gender.html">Gender</a></tt> (9; 100% instances), <tt><a href="lv_cairo-feat-Number.html">Number</a></tt> (9; 100% instances), <tt><a href="lv_cairo-feat-PronType.html">PronType</a></tt> (9; 100% instances), <tt><a href="lv_cairo-feat-Person.html">Person</a></tt> (4; 44% instances), <tt><a href="lv_cairo-feat-Poss.html">Poss</a></tt> (4; 44% instances), <tt><a href="lv_cairo-feat-Definite.html">Definite</a></tt> (1; 11% instances), <tt><a href="lv_cairo-feat-Degree.html">Degree</a></tt> (1; 11% instances)
 
-`DET` occurs with 15 feature-value pairs: `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Nom`, `Definite=Def`, `Degree=Pos`, `Gender=Fem`, `Gender=Masc`, `Number=Sing`, `Person=3`, `Poss=Yes`, `PronType=Dem`, `PronType=Ind`, `PronType=Prs`, `PronType=Rel`
+`DET` occurs with 16 feature-value pairs: `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Nom`, `Definite=Def`, `Degree=Pos`, `Gender=Fem`, `Gender=Masc`, `Number=Sing`, `Person=2`, `Person=3`, `Poss=Yes`, `PronType=Dem`, `PronType=Ind`, `PronType=Prs`, `PronType=Rel`
 
 `DET` occurs with 8 feature combinations.
 The most frequent feature combination is `Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Dem` (2 tokens).

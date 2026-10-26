@@ -30,7 +30,7 @@ The following 1 pairs of parts of speech are connected with `iobj:agent`: <tt><a
 6	faire	faire	AUX	V	VerbForm=Inf	7	aux:caus	_	_
 7	comprendre	comprendre	VERB	V	VerbForm=Inf	11	advcl	_	SpaceAfter=No
 8	,	,	PUNCT	FF	_	7	punct	_	_
-9	j'	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	11	nsubj	_	SpaceAfter=No
+9	j'	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	11	nsubj	_	SpaceAfter=No
 10	ai	avoir	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	11	aux	_	_
 11	pensé	penser	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 12	à	à	ADP	E	_	13	mark	_	_

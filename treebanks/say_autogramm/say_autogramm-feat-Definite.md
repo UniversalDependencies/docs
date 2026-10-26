@@ -9,116 +9,103 @@ udver: '2'
 This feature is universal but the values `Cons`, `Spec` are language-specific.
 It occurs with 4 different values: `Cons`, `Def`, `Ind`, `Spec`.
 
-481 tokens (3%) have a non-empty value of `Definite`.
-205 types (9%) occur at least once with a non-empty value of `Definite`.
-147 lemmas (10%) occur at least once with a non-empty value of `Definite`.
-The feature is used with 8 part-of-speech tags: <tt><a href="say_autogramm-pos-NOUN.html">NOUN</a></tt> (328; 2% instances), <tt><a href="say_autogramm-pos-DET.html">DET</a></tt> (86; 0% instances), <tt><a href="say_autogramm-pos-PRON.html">PRON</a></tt> (29; 0% instances), <tt><a href="say_autogramm-pos-PROPN.html">PROPN</a></tt> (12; 0% instances), <tt><a href="say_autogramm-pos-VERB.html">VERB</a></tt> (12; 0% instances), <tt><a href="say_autogramm-pos-ADJ.html">ADJ</a></tt> (9; 0% instances), <tt><a href="say_autogramm-pos-NUM.html">NUM</a></tt> (4; 0% instances), <tt><a href="say_autogramm-pos-INTJ.html">INTJ</a></tt> (1; 0% instances).
+695 tokens (3%) have a non-empty value of `Definite`.
+309 types (11%) occur at least once with a non-empty value of `Definite`.
+207 lemmas (13%) occur at least once with a non-empty value of `Definite`.
+The feature is used with 7 part-of-speech tags: <tt><a href="say_autogramm-pos-NOUN.html">NOUN</a></tt> (490; 2% instances), <tt><a href="say_autogramm-pos-DET.html">DET</a></tt> (105; 1% instances), <tt><a href="say_autogramm-pos-PRON.html">PRON</a></tt> (49; 0% instances), <tt><a href="say_autogramm-pos-VERB.html">VERB</a></tt> (16; 0% instances), <tt><a href="say_autogramm-pos-ADJ.html">ADJ</a></tt> (13; 0% instances), <tt><a href="say_autogramm-pos-NUM.html">NUM</a></tt> (11; 0% instances), <tt><a href="say_autogramm-pos-PROPN.html">PROPN</a></tt> (11; 0% instances).
 
 ### `NOUN`
 
-328 <tt><a href="say_autogramm-pos-NOUN.html">NOUN</a></tt> tokens (17% of all `NOUN` tokens) have a non-empty value of `Definite`.
+490 <tt><a href="say_autogramm-pos-NOUN.html">NOUN</a></tt> tokens (19% of all `NOUN` tokens) have a non-empty value of `Definite`.
+
+The most frequent other feature values with which `NOUN` and `Definite` co-occurred: <tt><a href="say_autogramm-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (419; 86%).
 
 `NOUN` tokens may have the following values of `Definite`:
 
-* `Cons` (116; 35% of non-empty `Definite`): <em>lə̌pm, lǎː, zǎːr, məːrí, gùŋ, ɮǐː, ngə̌tn, wǔɣn, dondə́, gút</em>
-* `Def` (101; 31% of non-empty `Definite`): <em>lǎːs, ngə́ʃês, vèːs, ngəʃí, gaːmês, kúnês, lə́ɓês, dàlíːlês, dàtə́pês, dèːs</em>
-* `Ind` (111; 34% of non-empty `Definite`): <em>gə̀ɗì, ləpí, də̀nì, lə́ɓi, gwàːʃì, gìːrì, ngə́ʃi, wuki, ɬərtí, duːmí</em>
-* `EMPTY` (1560): <em>ngə́tn, dzàŋ, də̀n, mə́n, longa, vìː, də̌ːr, gə̀t, lə̂p, laː</em>
+* `Cons` (164; 33% of non-empty `Definite`): <em>lə̌pm, gùŋ, lǎː, gǎːm, ngə̌tn, vərtə́, zǎːr, lóːkaʧí, zǎːrwôpm, dondə́</em>
+* `Def` (161; 33% of non-empty `Definite`): <em>vèːs, gə̀ɗès, dàːʃès, kúnês, lǎːs, vèːʃíː, kúnés, murês, màːʃínês, tsáːfês</em>
+* `Ind` (165; 34% of non-empty `Definite`): <em>gə̀ɗì, ləpí, də̀nì, mə́ːri, dàːʃì, gìːrì, lìmâːn, lə́ɓi, ngə́ʃi, páːʧi</em>
+* `EMPTY` (2059): <em>dzàŋ, ngə́tn, vìː, də̀n, lə̂p, mə́n, gùŋ, longa, də̌ːr, yáːwón</em>
 
 <table>
   <tr><th>Paradigm <i>ngə́tn</i></th><th><tt>Ind</tt></th><th><tt>Def</tt></th><th><tt>Cons</tt></th></tr>
-  <tr><td><tt></tt></td><td><em>ngə́ʃi, ngáraŋkín</em></td><td><em>ngəʃí, ngárankês, ngáraŋkês, ngəʃínês, ngə́ʃi</em></td><td><em>ngə̌tn</em></td></tr>
+  <tr><td><tt>_</tt></td><td><em>ngáraŋkín, ngəʃí, ngə́ʃês</em></td><td><em>ngárankês, ngáraŋkês, ngəʃí, ngəʃínês, ngə́ʃês</em></td><td><em>ngə̌tn, ngə́tn</em></td></tr>
+  <tr><td><tt><tt><a href="say_autogramm-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>ngə́ʃi, ngə́ʃês</em></td><td><em>ngə́ʃês, ngə́ʃê</em></td><td></td></tr>
 </table>
 
 ### `DET`
 
-86 <tt><a href="say_autogramm-pos-DET.html">DET</a></tt> tokens (27% of all `DET` tokens) have a non-empty value of `Definite`.
+105 <tt><a href="say_autogramm-pos-DET.html">DET</a></tt> tokens (29% of all `DET` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `DET` and `Definite` co-occurred: <tt><a href="say_autogramm-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (86; 100%), <tt><a href="say_autogramm-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (85; 99%).
+The most frequent other feature values with which `DET` and `Definite` co-occurred: <tt><a href="say_autogramm-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (105; 100%), <tt><a href="say_autogramm-feat-Deixis.html">Deixis</a></tt><tt>=EMPTY</tt> (95; 90%), <tt><a href="say_autogramm-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (95; 90%).
 
 `DET` tokens may have the following values of `Definite`:
 
-* `Spec` (86; 100% of non-empty `Definite`): <em>wón, gón, gwón, gòn, gyaːgón</em>
-* `EMPTY` (229): <em>gyáː, gíː, gyaː, gín, gyòː, kóː, giní, gyǎː, wàːné, gyôː</em>
+* `Def` (10; 10% of non-empty `Definite`): <em>gêːs</em>
+* `Spec` (95; 90% of non-empty `Definite`): <em>wón, gón, gòn, wátan</em>
+* `EMPTY` (258): <em>gyáː, gíː, gyaː, gyòː, ɓurúk, gín, ɓét, kóː, wàːné, gyǎː</em>
 
 ### `PRON`
 
-29 <tt><a href="say_autogramm-pos-PRON.html">PRON</a></tt> tokens (2% of all `PRON` tokens) have a non-empty value of `Definite`.
+49 <tt><a href="say_autogramm-pos-PRON.html">PRON</a></tt> tokens (4% of all `PRON` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `PRON` and `Definite` co-occurred: <tt><a href="say_autogramm-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (26; 90%), <tt><a href="say_autogramm-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (25; 86%), <tt><a href="say_autogramm-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (16; 55%).
+The most frequent other feature values with which `PRON` and `Definite` co-occurred: <tt><a href="say_autogramm-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (47; 96%), <tt><a href="say_autogramm-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (44; 90%), <tt><a href="say_autogramm-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (31; 63%).
 
 `PRON` tokens may have the following values of `Definite`:
 
-* `Cons` (1; 3% of non-empty `Definite`): <em>yàːʃí</em>
-* `Def` (5; 17% of non-empty `Definite`): <em>dàːʃès, =wâːnès, =wôpès, ginês, gòpès</em>
-* `Spec` (23; 79% of non-empty `Definite`): <em>gón, gyaːgón</em>
-* `EMPTY` (1309): <em>=tə, ɣáy, =ʃí, gòs, =mí, gíː, =mə, tə, gáy, =tə̀</em>
-
-### `PROPN`
-
-12 <tt><a href="say_autogramm-pos-PROPN.html">PROPN</a></tt> tokens (4% of all `PROPN` tokens) have a non-empty value of `Definite`.
-
-`PROPN` tokens may have the following values of `Definite`:
-
-* `Cons` (1; 8% of non-empty `Definite`): <em>Wǔːr</em>
-* `Def` (7; 58% of non-empty `Definite`): <em>Dʒòʃès, Daːvàrès, Kaɗə́mês, Kə́rmə̂s, Maláːrês, Malâːr</em>
-* `Ind` (4; 33% of non-empty `Definite`): <em>Gutʒey, Maláːri, Zaːri, Zaːrí</em>
-* `EMPTY` (307): <em>Zaːr, Tʃokn, Kímsə, Bàːbá, Malâːr, Ngas, Daːvàrì, Púʤì, Tʃôkn, Gòːdiya</em>
-
-<table>
-  <tr><th>Paradigm <i>Malâːr</i></th><th><tt>Ind</tt></th><th><tt>Def</tt></th></tr>
-  <tr><td><tt></tt></td><td><em>Maláːri</em></td><td><em>Maláːrês, Malâːr</em></td></tr>
-</table>
+* `Def` (5; 10% of non-empty `Definite`): <em>gêːs, ginês, gòpès, wâːnèʃíː</em>
+* `Spec` (44; 90% of non-empty `Definite`): <em>gón, gyaːgón, góníː</em>
+* `EMPTY` (1333): <em>tə, ɣáy, gòs, ʃí, mí, gíː, tíː, gáy, ɣə, tə̀</em>
 
 ### `VERB`
 
-12 <tt><a href="say_autogramm-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Definite`.
+16 <tt><a href="say_autogramm-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Definite`.
 
 `VERB` tokens may have the following values of `Definite`:
 
-* `Cons` (3; 25% of non-empty `Definite`): <em>haské, lə̌pm, miːtsə́</em>
-* `Def` (8; 67% of non-empty `Definite`): <em>*ngap-íː, kaɓêʃíː, miːtʃês, *làːtsə-íː, myákkə́nès, saɣátkə̂níː, ɬə̂ʃíː</em>
-* `Ind` (1; 8% of non-empty `Definite`): <em>miːtsey</em>
-* `EMPTY` (2903): <em>yi, fi, fî, ɬə́, mán, wul, ɬíː, ɬǐː, tu, súː</em>
+* `Def` (16; 100% of non-empty `Definite`): <em>kaɓêʃíː, naːyês, làːtsêʃíː, miːʧês, ɓə̀ːlès, ɬə̂ʃíː, ʧeɗês, ʧíɣə̂nès, kápkə́nwòʃès, myákkə́nèʃíː</em>
+* `EMPTY` (3630): <em>mán, fî, fi, ɬə́, yi, wûl, ɬíː, wul, tu, mân</em>
 
-<table>
-  <tr><th>Paradigm <i>miːtsə</i></th><th><tt>Ind</tt></th><th><tt>Def</tt></th><th><tt>Cons</tt></th></tr>
-  <tr><td><tt></tt></td><td><em>miːtsey</em></td><td><em>miːtʃês</em></td><td><em>miːtsə́</em></td></tr>
-</table>
+`Definite` seems to be **lexical feature** of `VERB`. 100% lemmas (11) occur only with one value of `Definite`.
 
 ### `ADJ`
 
-9 <tt><a href="say_autogramm-pos-ADJ.html">ADJ</a></tt> tokens (8% of all `ADJ` tokens) have a non-empty value of `Definite`.
+13 <tt><a href="say_autogramm-pos-ADJ.html">ADJ</a></tt> tokens (9% of all `ADJ` tokens) have a non-empty value of `Definite`.
 
 `ADJ` tokens may have the following values of `Definite`:
 
-* `Cons` (7; 78% of non-empty `Definite`): <em>ŋǎː, mərə́</em>
-* `Def` (1; 11% of non-empty `Definite`): <em>vàrèʃíː</em>
-* `Ind` (1; 11% of non-empty `Definite`): <em>vàrì</em>
-* `EMPTY` (110): <em>ŋaː, mari, fyáːli, kúskə̀, ʒèlì, gə̀rə́, nʤwâːtn, ʧólák, mondá, muːri</em>
+* `Cons` (12; 92% of non-empty `Definite`): <em>ŋǎː, mərə́, nás</em>
+* `Def` (1; 8% of non-empty `Definite`): <em>vàrèʃíː</em>
+* `EMPTY` (134): <em>ŋaː, kúskə̀, mari, fyáːli, ʒèlì, ŋǎː, gə̀rə́, nʤwâːtn, ŋáː, mondá</em>
 
 ### `NUM`
 
-4 <tt><a href="say_autogramm-pos-NUM.html">NUM</a></tt> tokens (6% of all `NUM` tokens) have a non-empty value of `Definite`.
+11 <tt><a href="say_autogramm-pos-NUM.html">NUM</a></tt> tokens (12% of all `NUM` tokens) have a non-empty value of `Definite`.
 
 `NUM` tokens may have the following values of `Definite`:
 
-* `Def` (1; 25% of non-empty `Definite`): <em>nàndàmêʃíː</em>
-* `Ind` (3; 75% of non-empty `Definite`): <em>mbə́ɬi, máːyi, nàmbóɲi</em>
-* `EMPTY` (64): <em>mbə́ɬəŋ, mâːy, wupsə, lim, nàmbóŋ, nàmbón, ɗàrí, nandam, watsə́may, dubu</em>
+* `Def` (2; 18% of non-empty `Definite`): <em>limês, nàndàmêʃíː</em>
+* `Ind` (9; 82% of non-empty `Definite`): <em>nàmbóɲi, limi, mbə́ɬi, mbə́ɬmí, máːyi, nandami, wupʃi</em>
+* `EMPTY` (82): <em>nàmbóŋ, mbə́ɬəŋ, mâːy, wupsə, lim, gùdá, nandam, watsə́may, ɗàrí, dubu</em>
 
-### `INTJ`
+<table>
+  <tr><th>Paradigm <i>lim</i></th><th><tt>Ind</tt></th><th><tt>Def</tt></th></tr>
+  <tr><td><tt></tt></td><td><em>limi</em></td><td><em>limês</em></td></tr>
+</table>
 
-1 <tt><a href="say_autogramm-pos-INTJ.html">INTJ</a></tt> tokens (0% of all `INTJ` tokens) have a non-empty value of `Definite`.
+### `PROPN`
 
-`INTJ` tokens may have the following values of `Definite`:
+11 <tt><a href="say_autogramm-pos-PROPN.html">PROPN</a></tt> tokens (3% of all `PROPN` tokens) have a non-empty value of `Definite`.
 
-* `Def` (1; 100% of non-empty `Definite`): <em>áláléy</em>
-* `EMPTY` (593): <em>m̀ː, èː, áy, ká, yáwwàː, m̀ːhm̂ː, éy, ə̀ːm, áː, ə̀ː</em>
+`PROPN` tokens may have the following values of `Definite`:
+
+* `Def` (11; 100% of non-empty `Definite`): <em>Dʒòʃès, Tʃokês, Daːvàrès, Kaɗə́mês, Maláːrês, Saɣnʃês, Zaːrês, Zəgès, Zə̀gès</em>
+* `EMPTY` (404): <em>Nòːmáu, Zaːr, Tʃóɣnvòn, Tʃoɣn, Kímsə, Malâːr, Bàːbá, Yéːsu, Ngas, Daːvàrì</em>
 
 ## Relations with Agreement in `Definite`
 
 The 10 most frequent relations where parent and child node agree in `Definite`:
-<tt>NOUN --[<tt><a href="say_autogramm-dep-conj.html">conj</a></tt>]--> NOUN</tt> (7; 70%),
-<tt>NOUN --[<tt><a href="say_autogramm-dep-reparandum.html">reparandum</a></tt>]--> PROPN</tt> (1; 100%).
+<tt>NOUN --[<tt><a href="say_autogramm-dep-conj.html">conj</a></tt>]--> NOUN</tt> (4; 57%),
+<tt>PRON --[<tt><a href="say_autogramm-dep-conj.html">conj</a></tt>]--> PRON</tt> (3; 60%),
+<tt>NOUN --[<tt><a href="say_autogramm-dep-obj.html">obj</a></tt>]--> NOUN</tt> (1; 100%).
 

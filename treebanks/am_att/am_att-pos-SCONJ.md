@@ -59,7 +59,7 @@ The 10 most frequent ambiguous types:  ብ (<tt><a href="am_att-pos-SCONJ.html">
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.029841).
+The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.029860).
 
 The 1st highest number of forms (1) was observed with the lemma “ል”: ል.
 
@@ -72,17 +72,17 @@ The 3rd highest number of forms (1) was observed with the lemma “ምክንያ�
 
 ## Relations
 
-`SCONJ` nodes are attached to their parents using 4 different relations: <tt><a href="am_att-dep-mark.html">mark</a></tt> (209; 98% instances), <tt><a href="am_att-dep-case.html">case</a></tt> (2; 1% instances), <tt><a href="am_att-dep-advmod.html">advmod</a></tt> (1; 0% instances), <tt><a href="am_att-dep-cc.html">cc</a></tt> (1; 0% instances)
+`SCONJ` nodes are attached to their parents using 3 different relations: <tt><a href="am_att-dep-mark.html">mark</a></tt> (210; 99% instances), <tt><a href="am_att-dep-case.html">case</a></tt> (2; 1% instances), <tt><a href="am_att-dep-cc.html">cc</a></tt> (1; 0% instances)
 
-Parents of `SCONJ` nodes belong to 4 different parts of speech: <tt><a href="am_att-pos-VERB.html">VERB</a></tt> (205; 96% instances), <tt><a href="am_att-pos-NOUN.html">NOUN</a></tt> (5; 2% instances), <tt><a href="am_att-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="am_att-pos-ADJ.html">ADJ</a></tt> (1; 0% instances)
+Parents of `SCONJ` nodes belong to 5 different parts of speech: <tt><a href="am_att-pos-VERB.html">VERB</a></tt> (204; 96% instances), <tt><a href="am_att-pos-NOUN.html">NOUN</a></tt> (5; 2% instances), <tt><a href="am_att-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="am_att-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="am_att-pos-ADV.html">ADV</a></tt> (1; 0% instances)
 
-211 (99%) `SCONJ` nodes are leaves.
+212 (100%) `SCONJ` nodes are leaves.
 
-2 (1%) `SCONJ` nodes have one child.
+1 (0%) `SCONJ` nodes have one child.
 
 The highest child degree of a `SCONJ` node is 1.
 
-Children of `SCONJ` nodes are attached using 2 different relations: <tt><a href="am_att-dep-fixed.html">fixed</a></tt> (1; 50% instances), <tt><a href="am_att-dep-obl.html">obl</a></tt> (1; 50% instances)
+Children of `SCONJ` nodes are attached using 1 different relations: <tt><a href="am_att-dep-obl.html">obl</a></tt> (1; 100% instances)
 
-Children of `SCONJ` nodes belong to 2 different parts of speech: <tt><a href="am_att-pos-ADV.html">ADV</a></tt> (1; 50% instances), <tt><a href="am_att-pos-NOUN.html">NOUN</a></tt> (1; 50% instances)
+Children of `SCONJ` nodes belong to 1 different parts of speech: <tt><a href="am_att-pos-NOUN.html">NOUN</a></tt> (1; 100% instances)
 

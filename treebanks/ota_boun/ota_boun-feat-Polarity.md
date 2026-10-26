@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Neg`, `Pos`.
 
-1403 tokens (16%) have a non-empty value of `Polarity`.
-994 types (23%) occur at least once with a non-empty value of `Polarity`.
-323 lemmas (12%) occur at least once with a non-empty value of `Polarity`.
-The feature is used with 4 part-of-speech tags: <tt><a href="ota_boun-pos-VERB.html">VERB</a></tt> (1308; 15% instances), <tt><a href="ota_boun-pos-AUX.html">AUX</a></tt> (73; 1% instances), <tt><a href="ota_boun-pos-NOUN.html">NOUN</a></tt> (21; 0% instances), <tt><a href="ota_boun-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
+1408 tokens (16%) have a non-empty value of `Polarity`.
+992 types (23%) occur at least once with a non-empty value of `Polarity`.
+343 lemmas (13%) occur at least once with a non-empty value of `Polarity`.
+The feature is used with 4 part-of-speech tags: <tt><a href="ota_boun-pos-VERB.html">VERB</a></tt> (1314; 15% instances), <tt><a href="ota_boun-pos-AUX.html">AUX</a></tt> (73; 1% instances), <tt><a href="ota_boun-pos-NOUN.html">NOUN</a></tt> (20; 0% instances), <tt><a href="ota_boun-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
 
 ### `VERB`
 
-1308 <tt><a href="ota_boun-pos-VERB.html">VERB</a></tt> tokens (98% of all `VERB` tokens) have a non-empty value of `Polarity`.
+1314 <tt><a href="ota_boun-pos-VERB.html">VERB</a></tt> tokens (97% of all `VERB` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `VERB` and `Polarity` co-occurred: <tt><a href="ota_boun-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (1130; 86%), <tt><a href="ota_boun-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (1124; 86%), <tt><a href="ota_boun-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (1124; 86%), <tt><a href="ota_boun-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1046; 80%), <tt><a href="ota_boun-feat-Evident.html">Evident</a></tt><tt>=EMPTY</tt> (992; 76%), <tt><a href="ota_boun-feat-Person.html">Person</a></tt><tt>=3</tt> (817; 62%), <tt><a href="ota_boun-feat-Number.html">Number</a></tt><tt>=Sing</tt> (804; 61%).
+The most frequent other feature values with which `VERB` and `Polarity` co-occurred: <tt><a href="ota_boun-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (1133; 86%), <tt><a href="ota_boun-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (1129; 86%), <tt><a href="ota_boun-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (1129; 86%), <tt><a href="ota_boun-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1049; 80%), <tt><a href="ota_boun-feat-Evident.html">Evident</a></tt><tt>=EMPTY</tt> (998; 76%), <tt><a href="ota_boun-feat-Person.html">Person</a></tt><tt>=3</tt> (822; 63%), <tt><a href="ota_boun-feat-Number.html">Number</a></tt><tt>=Sing</tt> (808; 61%).
 
 `VERB` tokens may have the following values of `Polarity`:
 
-* `Neg` (79; 6% of non-empty `Polarity`): <em>bilmem, etmediğini, etmeyen, kalmayan, olamaz, olmamış, olmayan, olmaz, unutulmaz, Yürümüyorum</em>
-* `Pos` (1229; 94% of non-empty `Polarity`): <em>eden, olan, olduğu, etmek, görmek, bilir, başladı, edecek, ettiği, ediyor</em>
-* `EMPTY` (32): <em>vardı, anlayamıyoruz”, birikib, bitirinceye, bunalanları, dalgalana, dağıla, edib, edibler, etmelerini</em>
+* `Neg` (81; 6% of non-empty `Polarity`): <em>bilmem, etmediğini, etmeyen, kalmayan, olamayacağı, olamaz, olmamış, olmayan, olmaz, unutulmaz</em>
+* `Pos` (1233; 94% of non-empty `Polarity`): <em>eden, olan, olduğu, etmek, görmek, bilir, başladı, edecek, ettiği, ediyor</em>
+* `EMPTY` (35): <em>vardı, yemeğe, anlayamıyoruz”, birikip, bitirinceye, boğan, bunalanları, dalgalana, dağıla, defol</em>
 
 <table>
   <tr><th>Paradigm <i>et</i></th><th><tt>Pos</tt></th><th><tt>Neg</tt></th></tr>
@@ -34,8 +34,7 @@ The most frequent other feature values with which `VERB` and `Polarity` co-occur
   <tr><td><tt><tt><a href="ota_boun-feat-Aspect.html">Aspect</a></tt><tt>=Hab</tt>|<tt><a href="ota_boun-feat-Mood.html">Mood</a></tt><tt>=Pot</tt>|<tt><a href="ota_boun-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ota_boun-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ota_boun-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>edebilirler</em></td><td></td></tr>
   <tr><td><tt><tt><a href="ota_boun-feat-Aspect.html">Aspect</a></tt><tt>=Hab</tt>|<tt><a href="ota_boun-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ota_boun-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="ota_boun-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>ederim</em></td><td></td></tr>
   <tr><td><tt><tt><a href="ota_boun-feat-Aspect.html">Aspect</a></tt><tt>=Hab</tt>|<tt><a href="ota_boun-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ota_boun-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ota_boun-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>eder</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ota_boun-feat-Aspect.html">Aspect</a></tt><tt>=Hab</tt>|<tt><a href="ota_boun-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ota_boun-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ota_boun-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>ederlerse</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ota_boun-feat-Aspect.html">Aspect</a></tt><tt>=Hab</tt>|<tt><a href="ota_boun-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td><em>ederler</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ota_boun-feat-Aspect.html">Aspect</a></tt><tt>=Hab</tt>|<tt><a href="ota_boun-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ota_boun-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ota_boun-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>ederler, ederlerse</em></td><td></td></tr>
   <tr><td><tt><tt><a href="ota_boun-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="ota_boun-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ota_boun-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="ota_boun-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>ediyorum</em></td><td></td></tr>
   <tr><td><tt><tt><a href="ota_boun-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="ota_boun-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ota_boun-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ota_boun-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>ediyor, ediver</em></td><td></td></tr>
   <tr><td><tt><tt><a href="ota_boun-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="ota_boun-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ota_boun-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ota_boun-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="ota_boun-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td><em>ediliyor</em></td><td></td></tr>
@@ -85,6 +84,8 @@ The most frequent other feature values with which `VERB` and `Polarity` co-occur
   <tr><td><tt><tt><a href="ota_boun-feat-VerbForm.html">VerbForm</a></tt><tt>=Conv</tt>|<tt><a href="ota_boun-feat-Voice.html">Voice</a></tt><tt>=Cau</tt></tt></td><td><em>ettirip</em></td><td></td></tr>
 </table>
 
+`Polarity` seems to be **lexical feature** of `VERB`. 91% lemmas (307) occur only with one value of `Polarity`.
+
 ### `AUX`
 
 73 <tt><a href="ota_boun-pos-AUX.html">AUX</a></tt> tokens (59% of all `AUX` tokens) have a non-empty value of `Polarity`.
@@ -112,35 +113,37 @@ The most frequent other feature values with which `AUX` and `Polarity` co-occurr
 
 ### `NOUN`
 
-21 <tt><a href="ota_boun-pos-NOUN.html">NOUN</a></tt> tokens (1% of all `NOUN` tokens) have a non-empty value of `Polarity`.
+20 <tt><a href="ota_boun-pos-NOUN.html">NOUN</a></tt> tokens (1% of all `NOUN` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `NOUN` and `Polarity` co-occurred: <tt><a href="ota_boun-feat-Number.html">Number</a></tt><tt>=Sing</tt> (21; 100%), <tt><a href="ota_boun-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (21; 100%), <tt><a href="ota_boun-feat-Person.html">Person</a></tt><tt>=3</tt> (21; 100%), <tt><a href="ota_boun-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (21; 100%), <tt><a href="ota_boun-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (18; 86%).
+The most frequent other feature values with which `NOUN` and `Polarity` co-occurred: <tt><a href="ota_boun-feat-Number.html">Number</a></tt><tt>=Sing</tt> (20; 100%), <tt><a href="ota_boun-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (20; 100%), <tt><a href="ota_boun-feat-Person.html">Person</a></tt><tt>=3</tt> (20; 100%), <tt><a href="ota_boun-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (20; 100%), <tt><a href="ota_boun-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (17; 85%).
 
 `NOUN` tokens may have the following values of `Polarity`:
 
-* `Neg` (4; 19% of non-empty `Polarity`): <em>yok</em>
-* `Pos` (17; 81% of non-empty `Polarity`): <em>var, vardır</em>
-* `EMPTY` (3259): <em>içinde, gece, gün, zaman, yemek, altında, saat, dakika, teşkil, hanımlarımızın</em>
+* `Neg` (3; 15% of non-empty `Polarity`): <em>yok</em>
+* `Pos` (17; 85% of non-empty `Polarity`): <em>var, vardır</em>
+* `EMPTY` (3184): <em>içinde, gece, gün, zaman, yemek, altında, saat, dakika, teşkil, hanımlarımızın</em>
 
 ### `ADJ`
 
 1 <tt><a href="ota_boun-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `Polarity`.
 
+The most frequent other feature values with which `ADJ` and `Polarity` co-occurred: <tt><a href="ota_boun-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="ota_boun-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%), <tt><a href="ota_boun-feat-Person.html">Person</a></tt><tt>=1</tt> (1; 100%).
+
 `ADJ` tokens may have the following values of `Polarity`:
 
 * `Neg` (1; 100% of non-empty `Polarity`): <em>natamam</em>
-* `EMPTY` (670): <em>büyük, küçük, başka, eski, ziyade, ince, zavallı, İhtiyar, ilk, beyaz</em>
+* `EMPTY` (790): <em>büyük, başka, eski, küçük, ziyade, ince, zavallı, biçare, beyaz, genç</em>
 
 ## Relations with Agreement in `Polarity`
 
 The 10 most frequent relations where parent and child node agree in `Polarity`:
-<tt>VERB --[<tt><a href="ota_boun-dep-conj.html">conj</a></tt>]--> VERB</tt> (108; 88%),
-<tt>VERB --[<tt><a href="ota_boun-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (94; 87%),
-<tt>VERB --[<tt><a href="ota_boun-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (50; 94%),
+<tt>VERB --[<tt><a href="ota_boun-dep-conj.html">conj</a></tt>]--> VERB</tt> (110; 89%),
+<tt>VERB --[<tt><a href="ota_boun-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (94; 85%),
+<tt>VERB --[<tt><a href="ota_boun-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (50; 93%),
 <tt>VERB --[<tt><a href="ota_boun-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (18; 86%),
 <tt>VERB --[<tt><a href="ota_boun-dep-cop.html">cop</a></tt>]--> AUX</tt> (17; 94%),
 <tt>VERB --[<tt><a href="ota_boun-dep-obl.html">obl</a></tt>]--> VERB</tt> (12; 100%),
-<tt>VERB --[<tt><a href="ota_boun-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (8; 80%),
+<tt>VERB --[<tt><a href="ota_boun-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (8; 73%),
 <tt>VERB --[<tt><a href="ota_boun-dep-aux.html">aux</a></tt>]--> AUX</tt> (6; 67%),
 <tt>VERB --[<tt><a href="ota_boun-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (3; 75%),
 <tt>VERB --[<tt><a href="ota_boun-dep-advcl.html">advcl</a></tt>]--> AUX</tt> (2; 100%).

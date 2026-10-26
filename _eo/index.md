@@ -5,7 +5,7 @@ udver: '2'
 ---
 
 # UD for Esperanto <span class="flagspan"><img class="flag" src="../../flags/svg/ESPERANTO.svg" /></span>
-As of January 2025, Esperanto UD contains one document (Manufest de Prago) annotated with Universal Dependencies.
+As of July 2025, Esperanto UD contains two documents (Manufest de Prago and Cairo) annotated with Universal Dependencies.
 
 ## Tokenization and Word Segmentation
 
@@ -75,24 +75,13 @@ _Faru eksperimenton, mi petas._ "Conduct an experiment, please."
 
 *
 
----
-**Instruction**: Describe inherent and inflectional features for major word classes (at least NOUN and VERB). Describe other noteworthy features. Include links to language-specific feature definitions if any.
-
----
-
 ## Syntax
 Standard deprels are used.
 
 ## Treebanks
 
-There are [N](../treebanks/eo-comparison.html) Esperanto UD treebanks:
+There are [2](../treebanks/eo-comparison.html) Esperanto UD treebanks:
 
   * [Esperanto-A](../treebanks/eo_a/index.html)
   * [Esperanto-B](../treebanks/eo_b/index.html)
 
----
-**Instruction**: Treebank-specific pages are generated automatically from the README file in the treebank repository and
-from the data in the latest release. Link to the respective `*-index.html` page in the `treebanks` folder, using the language code
-and the treebank code in the file name.
-
----

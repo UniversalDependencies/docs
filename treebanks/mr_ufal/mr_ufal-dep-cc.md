@@ -54,8 +54,8 @@ The following 9 pairs of parts of speech are connected with `cc`: <tt><a href="m
 7	राणी	राणी	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	5	conj	_	Translit=rāṇī|LTranslit=rāṇī
 8	त्याला	तो	PRON	_	Case=Dat|Deixis=Remt|Gender=Masc|Number=Sing|Person=3|PronType=Dem	12	obj	_	Translit=tyālā|LTranslit=to
 9	जीव	जीव	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	12	compound:lvc	_	Translit=jīva|LTranslit=jīva
-10	की	की	ADV	_	_	9	fixed	_	Translit=kī|LTranslit=kī
-11	प्राण	प्राण	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	9	fixed	_	Translit=prāṇa|LTranslit=prāṇa
+10	की	की	ADV	_	_	9	compound	_	Translit=kī|LTranslit=kī
+11	प्राण	प्राण	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	9	compound	_	Translit=prāṇa|LTranslit=prāṇa
 12	करित	करित	VERB	_	Aspect=Hab|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	3	conj	_	SpaceAfter=No|Translit=karita|LTranslit=karita
 13	.	.	PUNCT	_	_	12	punct	_	Translit=.|LTranslit=.
 

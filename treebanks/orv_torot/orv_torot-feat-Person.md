@@ -51,7 +51,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 * `1` (2954; 18% of non-empty `Person`): <em>мнѣ, ми, я, меня, мѧ, мы, азъ, намъ, нас, ны</em>
 * `2` (1389; 8% of non-empty `Person`): <em>ты, ти, вы, тѧ, тебѣ, тебе, вамъ, васъ, тобою, тобѣ</em>
 * `3` (12294; 74% of non-empty `Person`): <em>сѧ, его, ѥго, и, ся, ихъ, имъ, ѥму, сꙗ, ему</em>
-* `EMPTY` (7514): <em>иже, что, то, се, кто, же, того, еже, самъ, ѡн</em>
+* `EMPTY` (7513): <em>иже, что, то, се, кто, же, того, еже, самъ, ѡн</em>
 
 <table>
   <tr><th>Paradigm <i>азъ</i></th><th><tt>1</tt></th><th><tt>3</tt></th></tr>
@@ -114,7 +114,7 @@ The most frequent other feature values with which `DET` and `Person` co-occurred
 * `1` (1330; 32% of non-empty `Person`): <em>мои, нашь, нашего, наша, мое, моѥго, наши, моя, мою, моѧ</em>
 * `2` (569; 14% of non-empty `Person`): <em>твои, твоѧ, твоего, ваша, твое, твою, твоя, вашь, твоѥго, вашего</em>
 * `3` (2207; 54% of non-empty `Person`): <em>свою, своѥго, свои, своего, своимъ, своими, своихъ, своею, своя, своеи</em>
-* `EMPTY` (4604): <em>всѧ, то, сего, вси, того, тож҃, все, всю, се, всѣхъ</em>
+* `EMPTY` (4605): <em>всѧ, то, сего, вси, того, тож҃, все, всю, се, всѣхъ</em>
 
 <table>
   <tr><th>Paradigm <i>твои</i></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -168,7 +168,7 @@ The most frequent other feature values with which `DET` and `Person` co-occurred
 
 The 10 most frequent relations where parent and child node agree in `Person`:
 <tt>VERB --[<tt><a href="orv_torot-dep-expl-pv.html">expl:pv</a></tt>]--> PRON</tt> (2500; 51%),
-<tt>VERB --[<tt><a href="orv_torot-dep-conj.html">conj</a></tt>]--> VERB</tt> (1938; 67%),
+<tt>VERB --[<tt><a href="orv_torot-dep-conj.html">conj</a></tt>]--> VERB</tt> (1939; 67%),
 <tt>PRON --[<tt><a href="orv_torot-dep-det.html">det</a></tt>]--> PRON</tt> (25; 81%),
 <tt>AUX --[<tt><a href="orv_torot-dep-conj.html">conj</a></tt>]--> VERB</tt> (24; 56%),
 <tt>VERB --[<tt><a href="orv_torot-dep-conj.html">conj</a></tt>]--> AUX</tt> (19; 68%),

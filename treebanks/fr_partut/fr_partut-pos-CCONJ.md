@@ -15,13 +15,13 @@ The 10 most frequent `CCONJ` types:  <em>et, ou, mais, car, soit, ni, qu', que, 
 
 The 10 most frequent ambiguous lemmas: <em>que</em> (<tt><a href="fr_partut-pos-SCONJ.html">SCONJ</a></tt> 337, <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> 61, <tt><a href="fr_partut-pos-ADP.html">ADP</a></tt> 29, <tt><a href="fr_partut-pos-ADV.html">ADV</a></tt> 18, <tt><a href="fr_partut-pos-CCONJ.html">CCONJ</a></tt> 7)
 
-The 10 most frequent ambiguous types:  <em>soit</em> (<tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> 18, <tt><a href="fr_partut-pos-CCONJ.html">CCONJ</a></tt> 6, <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> 3), <em>qu'</em> (<tt><a href="fr_partut-pos-SCONJ.html">SCONJ</a></tt> 85, <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> 18, <tt><a href="fr_partut-pos-ADV.html">ADV</a></tt> 11, <tt><a href="fr_partut-pos-ADP.html">ADP</a></tt> 5, <tt><a href="fr_partut-pos-CCONJ.html">CCONJ</a></tt> 4), <em>que</em> (<tt><a href="fr_partut-pos-SCONJ.html">SCONJ</a></tt> 252, <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> 43, <tt><a href="fr_partut-pos-ADP.html">ADP</a></tt> 24, <tt><a href="fr_partut-pos-ADV.html">ADV</a></tt> 7, <tt><a href="fr_partut-pos-CCONJ.html">CCONJ</a></tt> 3), <em>Ma</em> (<tt><a href="fr_partut-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="fr_partut-pos-DET.html">DET</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>soit</em> (<tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> 20, <tt><a href="fr_partut-pos-CCONJ.html">CCONJ</a></tt> 6, <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> 1), <em>qu'</em> (<tt><a href="fr_partut-pos-SCONJ.html">SCONJ</a></tt> 85, <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> 18, <tt><a href="fr_partut-pos-ADV.html">ADV</a></tt> 11, <tt><a href="fr_partut-pos-ADP.html">ADP</a></tt> 5, <tt><a href="fr_partut-pos-CCONJ.html">CCONJ</a></tt> 4), <em>que</em> (<tt><a href="fr_partut-pos-SCONJ.html">SCONJ</a></tt> 252, <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> 43, <tt><a href="fr_partut-pos-ADP.html">ADP</a></tt> 24, <tt><a href="fr_partut-pos-ADV.html">ADV</a></tt> 7, <tt><a href="fr_partut-pos-CCONJ.html">CCONJ</a></tt> 3), <em>Ma</em> (<tt><a href="fr_partut-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="fr_partut-pos-DET.html">DET</a></tt> 1)
 
 
 * <em>soit</em>
-  * <tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> 18: <em>C' est pourquoi j' ai proposé que la limite <b>soit</b> abaissée à -40º .</em>
+  * <tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> 20: <em>C' est pourquoi j' ai proposé que la limite <b>soit</b> abaissée à -40º .</em>
   * <tt><a href="fr_partut-pos-CCONJ.html">CCONJ</a></tt> 6: <em>Elles vont <b>soit</b> se débarrasser de leur cargaison , <b>soit</b> elles vont la mélanger avec d' autres cargaisons , ce qui engendre une série de problèmes .</em>
-  * <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> 3: <em>Tout individu a droit à la liberté d' opinion et d' expression , ce qui implique le droit de ne pas être inquiété pour ses opinions et celui de chercher , de recevoir et de répandre , sans considérations de frontières , les informations et les idées par quelque moyen d' expression que ce <b>soit</b> .</em>
+  * <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> 1: <em>Tout individu a droit à la liberté d' opinion et d' expression , ce qui implique le droit de ne pas être inquiété pour ses opinions et celui de chercher , de recevoir et de répandre , sans considérations de frontières , les informations et les idées par quelque moyen d' expression que ce <b>soit</b> .</em>
 * <em>qu'</em>
   * <tt><a href="fr_partut-pos-SCONJ.html">SCONJ</a></tt> 85: <em>Comment se fait -il <b>qu'</b> il n' y ait pas de consignes en cas d' incendie ?</em>
   * <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> 18: <em>Mais savez -vous ce <b>qu'</b> ils disaient en sortant ?</em>
@@ -40,7 +40,7 @@ The 10 most frequent ambiguous types:  <em>soit</em> (<tt><a href="fr_partut-pos
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.250000 (the average of all parts of speech is 1.455030).
+The form / lemma ratio of `CCONJ` is 1.250000 (the average of all parts of speech is 1.464850).
 
 The 1st highest number of forms (2) was observed with the lemma “mais”: <em>Ma, mais</em>.
 
@@ -55,7 +55,7 @@ The 3rd highest number of forms (1) was observed with the lemma “car”: <em>c
 
 `CCONJ` nodes are attached to their parents using 2 different relations: <tt><a href="fr_partut-dep-cc.html">cc</a></tt> (854; 100% instances), <tt><a href="fr_partut-dep-conj.html">conj</a></tt> (1; 0% instances)
 
-Parents of `CCONJ` nodes belong to 9 different parts of speech: <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> (421; 49% instances), <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> (276; 32% instances), <tt><a href="fr_partut-pos-ADJ.html">ADJ</a></tt> (102; 12% instances), <tt><a href="fr_partut-pos-PROPN.html">PROPN</a></tt> (21; 2% instances), <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> (19; 2% instances), <tt><a href="fr_partut-pos-NUM.html">NUM</a></tt> (8; 1% instances), <tt><a href="fr_partut-pos-ADV.html">ADV</a></tt> (6; 1% instances), <tt><a href="fr_partut-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="fr_partut-pos-DET.html">DET</a></tt> (1; 0% instances)
+Parents of `CCONJ` nodes belong to 10 different parts of speech: <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> (419; 49% instances), <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> (275; 32% instances), <tt><a href="fr_partut-pos-ADJ.html">ADJ</a></tt> (103; 12% instances), <tt><a href="fr_partut-pos-PROPN.html">PROPN</a></tt> (21; 2% instances), <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> (19; 2% instances), <tt><a href="fr_partut-pos-NUM.html">NUM</a></tt> (8; 1% instances), <tt><a href="fr_partut-pos-ADV.html">ADV</a></tt> (7; 1% instances), <tt><a href="fr_partut-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="fr_partut-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="fr_partut-pos-DET.html">DET</a></tt> (1; 0% instances)
 
 852 (100%) `CCONJ` nodes are leaves.
 

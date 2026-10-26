@@ -25,7 +25,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="am_att-pos-ADP.html
 * `Ins` (8; 7% of non-empty `Case`): በ
 * `Loc` (27; 24% of non-empty `Case`): በ, ከ, ወደ, እ, ላይ, እሰከ
 * `Mal` (40; 35% of non-empty `Case`): ብ, በ, ል
-* `EMPTY` (567): በ, የ, ለ, ከ, ወደ, ላይ, እንደ, ጋር, ብ, እስከ
+* `EMPTY` (566): በ, የ, ለ, ከ, ወደ, ላይ, እንደ, ጋር, ብ, እስከ
 
 <table>
   <tr><th>Paradigm <i>በ</i></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th><th><tt>Ben</tt></th><th><tt>Mal</tt></th></tr>

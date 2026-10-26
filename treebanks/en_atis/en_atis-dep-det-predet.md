@@ -35,7 +35,7 @@ The following 1 pairs of parts of speech are connected with `det:predet`: <tt><a
 11	8	8	NUM	_	NumType=Card	14	nummod	_	_
 12	to	to	ADP	_	_	13	case	_	_
 13	9	9	NUM	_	NumType=Card	11	conj	_	_
-14	pm	pm	NOUN	_	Number=Sing	7	obl:tmod	_	_
+14	pm	pm	NOUN	_	Number=Sing	7	obl:unmarked	_	_
 
 ~~~
 

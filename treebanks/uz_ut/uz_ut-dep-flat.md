@@ -23,7 +23,7 @@ The following 9 pairs of parts of speech are connected with `flat`: <tt><a href=
 # visual-style 3	fgColor:white
 # visual-style 3 4 flat	color:blue
 1	Saljuq	Saljuq	PROPN	_	Case=Nom|Number=Sing	5	nsubj	_	_
-2	Erdo‘g‘anning	Erdo‘g‘an	PROPN	_	Case=Gen|Number=Sing|Poss=Yes	3	nmod:poss	_	_
+2	Erdoʻgʻanning	Erdoʻgʻan	PROPN	_	Case=Gen|Number=Sing|Poss=Yes	3	nmod:poss	_	_
 3	qizi	qiz	NOUN	_	Case=Nom|Number=Sing	5	obj	_	_
 4	Sumayyaga	Sumayya	PROPN	_	Case=Dat|Number=Sing	3	flat	_	_
 5	uylandi	uylan	VERB	_	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
@@ -46,7 +46,7 @@ The following 9 pairs of parts of speech are connected with `flat`: <tt><a href=
 6	mehnatlari	mehnat	NOUN	_	Case=Gen|Number=Plur|Poss=Yes	7	nmod	_	_
 7	evaziga	evaz	NOUN	_	Case=Dat|Number=Sing	9	obl	_	_
 8	nima	nima	PRON	_	PronType=Int	9	obj	_	_
-9	ko‘rdi	ko‘r	VERB	_	Mood=Int|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
+9	koʻrdi	koʻr	VERB	_	Mood=Int|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 10	?	?	PUNCT	_	_	9	punct	_	_
 
 ~~~

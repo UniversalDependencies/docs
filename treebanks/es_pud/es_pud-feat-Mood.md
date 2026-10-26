@@ -26,21 +26,23 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 * `Imp` (1; 0% of non-empty `Mood`): <em>Knuck</em>
 * `Ind` (1221; 92% of non-empty `Mood`): <em>dijo, tiene, es, hay, hace, está, tienen, dice, afirmó, convirtió</em>
 * `Sub` (81; 6% of non-empty `Mood`): <em>fuese, escogiera, produzcan, tuviese, utilice, vaya, Avancemos, Digamos, Fueran, acepten</em>
-* `EMPTY` (934): <em>hacer, tener, debido, ver, hecho, establecer, escrito, tenido, ayudar, dado</em>
+* `EMPTY` (939): <em>hacer, tener, debido, ver, hecho, establecer, escrito, tenido, ayudar, dado</em>
 
 <table>
   <tr><th>Paradigm <i>tener</i></th><th><tt>Ind</tt></th><th><tt>Cnd</tt></th><th><tt>Sub</tt></th></tr>
   <tr><td><tt><tt><a href="es_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="es_pud-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="es_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>tengo</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="es_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="es_pud-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="es_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>tienes</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="es_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="es_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="es_pud-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td><em>tendrá</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="es_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="es_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="es_pud-feat-Tense.html">Tense</a></tt><tt>=Imp</tt></tt></td><td><em>tenía, tenia</em></td><td><em>tendría</em></td><td><em>tuviese</em></td></tr>
+  <tr><td><tt><tt><a href="es_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="es_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="es_pud-feat-Tense.html">Tense</a></tt><tt>=Imp</tt></tt></td><td><em>tenía, tenia</em></td><td></td><td><em>tuviese</em></td></tr>
   <tr><td><tt><tt><a href="es_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="es_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="es_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>tuvo</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="es_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="es_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="es_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>tiene</em></td><td></td><td><em>tenga</em></td></tr>
+  <tr><td><tt><tt><a href="es_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="es_pud-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td><em>tendría</em></td><td></td></tr>
   <tr><td><tt><tt><a href="es_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="es_pud-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="es_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>tenemos</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="es_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="es_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="es_pud-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td><em>tendrán</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="es_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="es_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="es_pud-feat-Tense.html">Tense</a></tt><tt>=Imp</tt></tt></td><td><em>tenían</em></td><td><em>tendrían</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="es_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="es_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="es_pud-feat-Tense.html">Tense</a></tt><tt>=Imp</tt></tt></td><td><em>tenían</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="es_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="es_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="es_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>tuvieron</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="es_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="es_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="es_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>tienen</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="es_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="es_pud-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td><em>tendrían</em></td><td></td></tr>
 </table>
 
 ### `AUX`
@@ -62,14 +64,16 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
   <tr><td><tt><tt><a href="es_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="es_pud-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="es_pud-feat-Tense.html">Tense</a></tt><tt>=Imp</tt></tt></td><td><em>era</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="es_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="es_pud-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="es_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>Tienes</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="es_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="es_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="es_pud-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td><em>será</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="es_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="es_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="es_pud-feat-Tense.html">Tense</a></tt><tt>=Imp</tt></tt></td><td><em>era</em></td><td><em>sería</em></td><td><em>fuera</em></td></tr>
+  <tr><td><tt><tt><a href="es_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="es_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="es_pud-feat-Tense.html">Tense</a></tt><tt>=Imp</tt></tt></td><td><em>era</em></td><td></td><td><em>fuera</em></td></tr>
   <tr><td><tt><tt><a href="es_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="es_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="es_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>fue</em></td><td></td><td><em>hubiera</em></td></tr>
   <tr><td><tt><tt><a href="es_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="es_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="es_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>es, considera</em></td><td></td><td><em>sea</em></td></tr>
+  <tr><td><tt><tt><a href="es_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="es_pud-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td><em>sería</em></td><td></td></tr>
   <tr><td><tt><tt><a href="es_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="es_pud-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="es_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>somos</em></td><td></td><td><em>seamos</em></td></tr>
   <tr><td><tt><tt><a href="es_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="es_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="es_pud-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td><em>serán</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="es_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="es_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="es_pud-feat-Tense.html">Tense</a></tt><tt>=Imp</tt></tt></td><td><em>eran</em></td><td><em>serían</em></td><td><em>fueran, pudieran</em></td></tr>
+  <tr><td><tt><tt><a href="es_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="es_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="es_pud-feat-Tense.html">Tense</a></tt><tt>=Imp</tt></tt></td><td><em>eran</em></td><td></td><td><em>fueran, pudieran</em></td></tr>
   <tr><td><tt><tt><a href="es_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="es_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="es_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>fueron</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="es_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="es_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="es_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>son, consideran</em></td><td></td><td><em>sean</em></td></tr>
+  <tr><td><tt><tt><a href="es_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="es_pud-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td><em>serían</em></td><td></td></tr>
 </table>
 
 ## Relations with Agreement in `Mood`

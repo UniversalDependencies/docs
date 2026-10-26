@@ -22,15 +22,15 @@ The following 56 pairs of parts of speech are connected with `appos`: <tt><a hre
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 7 appos	color:blue
-1	їзбавілъ	избавити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=PartRes|Voice=Act	0	root	_	ref=76.16
-2	есі	бꙑти	AUX	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	1	aux	_	ref=76.16
-3	мꙑшьцеѭ	мꙑшьца	NOUN	Nb	Case=Ins|Gender=Fem|Number=Sing	1	obl	_	ref=76.16
-4	твоеѭ	твои	DET	Ps	Case=Ins|Gender=Fem|Number=Sing|Person=2|Poss=Yes	3	det	_	ref=76.16
-5	люді	людиѥ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	1	obj	_	ref=76.16
-6	твоѩ	твои	DET	Ps	Case=Acc|Gender=Masc|Number=Plur|Person=2|Poss=Yes	5	det	_	ref=76.16
-7	сн҃ꙑ	сꙑнъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	5	appos	_	ref=76.16|LId=1
-8	їѣковлѩ	иꙗковль	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur|Variant=Short	7	amod	_	ref=76.16
-9	їосіфовꙑ	иосифовъ	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur|Variant=Short	7	amod	_	ref=76.16
+1	їзбавілъ	избавити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=PartRes|Voice=Act	0	root	_	Ref=76.16
+2	есі	бꙑти	AUX	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	1	aux	_	Ref=76.16
+3	мꙑшьцеѭ	мꙑшьца	NOUN	Nb	Case=Ins|Gender=Fem|Number=Sing	1	obl	_	Ref=76.16
+4	твоеѭ	твои	DET	Ps	Case=Ins|Gender=Fem|Number=Sing|Person=2|Poss=Yes	3	det	_	Ref=76.16
+5	люді	людиѥ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	1	obj	_	Ref=76.16
+6	твоѩ	твои	DET	Ps	Case=Acc|Gender=Masc|Number=Plur|Person=2|Poss=Yes	5	det	_	Ref=76.16
+7	сн҃ꙑ	сꙑнъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	5	appos	_	LId=1|Ref=76.16
+8	їѣковлѩ	иꙗковль	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur|Variant=Short	7	amod	_	Ref=76.16
+9	їосіфовꙑ	иосифовъ	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur|Variant=Short	7	amod	_	Ref=76.16
 
 ~~~
 
@@ -61,10 +61,10 @@ The following 56 pairs of parts of speech are connected with `appos`: <tt><a hre
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 3 appos	color:blue
-1	Їзбьрара	избьрати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=77.70
-2	да҃да	давꙑдъ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	1	obj	_	ref=77.70
-3	раба	рабъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	2	appos	_	ref=77.70
-4	своего	свои	DET	Pt	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	3	det	_	ref=77.70
+1	Їзбьрара	избьрати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=77.70
+2	да҃да	давꙑдъ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	1	obj	_	Ref=77.70
+3	раба	рабъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	2	appos	_	Ref=77.70
+4	своего	свои	DET	Pt	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	3	det	_	Ref=77.70
 
 ~~~
 

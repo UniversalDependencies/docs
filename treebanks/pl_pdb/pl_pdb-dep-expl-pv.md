@@ -45,7 +45,7 @@ The following 3 pairs of parts of speech are connected with `expl:pv`: <tt><a hr
 # visual-style 3 4 expl:pv	color:blue
 1	Triumf	triumf	NOUN	subst:sg:nom:m3	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	0:root	_
 2	jednej	jeden	ADJ	adj:sg:gen:f:pos	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	5	amod	5:amod	_
-3	rozkładającej	rozkładać	ADJ	pact:sg:gen:f:imperf:aff	Aspect=Imp|Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Act	5	acl	5:acl	_
+3	rozkładającej	rozkładać	ADJ	pact:sg:gen:f:imperf:aff	Aspect=Imp|Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Act	5	amod	5:amod	_
 4	się	się	PRON	part	PronType=Prs|Reflex=Yes	3	expl:pv	3:expl:pv	_
 5	karykatury	karykatura	NOUN	subst:sg:gen:f	Case=Gen|Gender=Fem|Number=Sing	1	nmod	1:nmod	_
 6	człowieka	człowiek	NOUN	subst:sg:gen:m1	Animacy=Hum|Case=Gen|Gender=Masc|Number=Sing	5	nmod:arg	5:nmod:arg	_
@@ -70,7 +70,7 @@ The following 3 pairs of parts of speech are connected with `expl:pv`: <tt><a hr
 6	zastanowienia	zastanowić	NOUN	ger:sg:gen:n:perf:aff	Aspect=Perf|Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos|VerbForm=Vnoun	1	obl	1:obl	_
 7	się	się	PRON	part	PronType=Prs|Reflex=Yes	6	expl:pv	6:expl:pv	_
 8	nad	nad	ADP	prep:inst:nwok	AdpType=Prep|Variant=Short	9	case	9:case	Case=Ins
-9	konsekwencjami	konsekwencja	NOUN	subst:pl:inst:f	Case=Ins|Gender=Fem|Number=Plur	6	obl:arg	6:obl:arg	SpaceAfter=No
+9	konsekwencjami	konsekwencja	NOUN	subst:pl:inst:f	Case=Ins|Gender=Fem|Number=Plur	6	nmod:arg	6:nmod:arg	SpaceAfter=No
 10	.	.	PUNCT	interp	PunctType=Peri	1	punct	1:punct	_
 
 ~~~

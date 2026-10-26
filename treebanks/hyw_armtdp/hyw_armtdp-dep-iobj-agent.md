@@ -29,7 +29,7 @@ The following 3 pairs of parts of speech are connected with `iobj:agent`: <tt><a
 5	շատերու	շատ	NOUN	_	Animacy=Hum|Case=Dat|Definite=Ind|Number=Plur	7	obj	_	Translit=šaterow|LTranslit=šat
 6	կը	կը	AUX	_	Aspect=Imp|Mood=Ind	7	aux	_	Translit=kë|LTranslit=kë
 7	յիշեցնէ	յիշեցնել	VERB	_	Aspect=Prosp|Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Cau	0	root	_	Translit=yišec’nē|LTranslit=yišec’nel
-8	մեզի	մենք	PRON	_	Animacy=Hum|Case=Dat|Number=Plur|Person=1|PronType=Prs	7	iobj:agent	_	Translit=mezi|LTranslit=menk’|SpaceAfter=No
+8	մեզի	մենք	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	7	iobj:agent	_	Translit=mezi|LTranslit=menk’|SpaceAfter=No
 9	։	։	PUNCT	_	_	7	punct	_	Translit=.|LTranslit=.
 
 ~~~
@@ -44,11 +44,11 @@ The following 3 pairs of parts of speech are connected with `iobj:agent`: <tt><a
 1	Ապա	ապա	ADV	_	_	3	advmod	_	Translit=Apa|LTranslit=apa
 2	ձմեռը	ձմեռ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	3	nsubj	_	Translit=jmeṙë|LTranslit=jmeṙ
 3	հասաւ	հասնիլ	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Subcat=Intr|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	Translit=hasaw|LTranslit=hasnil
-4	իր	ինք	DET	_	Case=Gen|Number=Sing|Person=3|Poss=Yes|PronType=Emp|Reflex=Yes	6	det:poss	_	Translit=ir|LTranslit=ink’
+4	իր	իր	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Emp|Reflex=Yes	6	det:poss	_	Translit=ir|LTranslit=ir
 5	բոլոր	բոլոր	DET	_	PronType=Tot	6	det	_	Translit=bolor|LTranslit=bolor
 6	սաստկութեամբը	սաստկութիւն	NOUN	_	Animacy=Nhum|Case=Ins|Definite=Def|Number=Coll	3	obl	_	Translit=sastkowt’eambë|LTranslit=sastkowt’iwn|SpaceAfter=No
 7	,	,	PUNCT	_	_	13	punct	_	Translit=,|LTranslit=,
-8	իբրեւ	իբրեւ	SCONJ	_	_	13	mark	_	Translit=ibrew|LTranslit=ibrew
+8	իբրեւ	իբրեւ	SCONJ	_	ExtPos=PART	13	discourse	_	Translit=ibrew|LTranslit=ibrew
 9	թէ	թէ	PART	_	_	8	fixed	_	Translit=t’ē|LTranslit=t’ē
 10	այս	այս	DET	_	Deixis=Prox|PronType=Dem	12	det	_	Translit=ays|LTranslit=ays
 11	հայրենիք	հայրենիք	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	12	nmod:npmod	_	Translit=hayrenik’|LTranslit=hayrenik’
@@ -74,7 +74,7 @@ The following 3 pairs of parts of speech are connected with `iobj:agent`: <tt><a
 # visual-style 48	bgColor:blue
 # visual-style 48	fgColor:white
 # visual-style 48 47 iobj:agent	color:blue
-1	Անոնց	անոնք	DET	_	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	2	det:poss	_	Translit=Anonc’|LTranslit=anonk’
+1	Անոնց	անոնց	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	2	det:poss	_	Translit=Anonc’|LTranslit=anonc’
 2	հեռաստանին	հեռաստան	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Def|Number=Sing	4	obl	_	Translit=heṙastanin|LTranslit=heṙastan
 3	կրնամ	կրնալ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	Translit=krnam|LTranslit=krnal
 4	դնել	դնել	VERB	_	Polarity=Pos|Subcat=Tran|VerbForm=Inf|Voice=Act	3	xcomp	_	Translit=dnel|LTranslit=dnel
@@ -85,19 +85,19 @@ The following 3 pairs of parts of speech are connected with `iobj:agent`: <tt><a
 9	իբրեւ	իբրեւ	ADP	_	AdpType=Prep	11	case	_	Translit=ibrew|LTranslit=ibrew
 10	յանգման	յանգում	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	11	nmod:poss	_	Translit=yangman|LTranslit=yangowm
 11	կէտը	կէտ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	8	nmod:npmod	_	Translit=kētë|LTranslit=kēt
-12	միւսներուն	միւս	PRON	_	Case=Dat|Definite=Def|Number=Plur|PronType=Dem	11	nmod:npmod	_	Translit=miwsnerown|LTranslit=miws|SpaceAfter=No
+12	միւսներուն	միւսը	PRON	_	Case=Dat|Number=Plur|PronType=Dem	11	nmod:npmod	_	Translit=miwsnerown|LTranslit=miwsë|SpaceAfter=No
 13	,	,	PUNCT	_	_	16	punct	_	Translit=,|LTranslit=,
 14	յետոյ	յետոյ	ADV	_	_	16	advmod	_	Translit=yetoy|LTranslit=yetoy
 15	կը	կը	AUX	_	Aspect=Imp|Mood=Ind	16	aux	_	Translit=kë|LTranslit=kë
 16	փոխեմ	փոխել	VERB	_	Aspect=Prosp|Mood=Sub|Number=Sing|Person=1|Polarity=Pos|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	Translit=p’oxem|LTranslit=p’oxel
-17	անոնց	անոնք	DET	_	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	18	det:poss	_	Translit=anonc’|LTranslit=anonk’
+17	անոնց	անոնց	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	18	det:poss	_	Translit=anonc’|LTranslit=anonc’
 18	կարգը	կարգ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	16	obj	_	Translit=kargë|LTranslit=karg|SpaceAfter=No
 19	,	,	PUNCT	_	_	22	punct	_	Translit=,|LTranslit=,
 20	մտովին	մտովին	ADV	_	_	22	advmod	_	Translit=mtovin|LTranslit=mtovin
 21	կը	կը	AUX	_	Aspect=Imp|Mood=Ind	22	aux	_	Translit=kë|LTranslit=kë
 22	մկրատեմ	մկրատել	VERB	_	Aspect=Prosp|Mood=Sub|Number=Sing|Person=1|Polarity=Pos|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	Translit=mkratem|LTranslit=mkratel
-23	մի	մի	DET	_	PronType=Art	22	obj	_	Translit=mi|LTranslit=mi
-24	քանին	քանի	PRON	_	Case=Nom|Definite=Def|PronType=Ind	23	fixed	_	Translit=k’anin|LTranslit=k’ani|SpaceAfter=No
+23	մի	մի	DET	_	ExtPos=PRON|PronType=Art	22	obj	_	Translit=mi|LTranslit=mi
+24	քանին	քանի	PRON	_	Case=Nom|Definite=Def|Number=Sing|PronType=Int	23	fixed	_	Translit=k’anin|LTranslit=k’ani|SpaceAfter=No
 25	,	,	PUNCT	_	_	28	punct	_	Translit=,|LTranslit=,
 26	ինչպէս	ինչպէս	ADV	_	PronType=Rel	28	advmod	_	Translit=inčpēs|LTranslit=inčpēs
 27	Էլմոն	Էլմոն	PROPN	_	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Giv|Number=Sing	28	nsubj:caus	_	Translit=Ēlmon|LTranslit=Ēlmon
@@ -117,7 +117,7 @@ The following 3 pairs of parts of speech are connected with `iobj:agent`: <tt><a
 41	,	,	PUNCT	_	_	42	punct	_	Translit=,|LTranslit=,
 42	հաստատեր	հաստատել	VERB	_	Aspect=Perf|Subcat=Tran|VerbForm=Part|Voice=Act	39	conj	_	Translit=hastater|LTranslit=hastatel
 43	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	42	aux	_	Translit=ē|LTranslit=em
-44	իր	ինք	DET	_	Case=Gen|Number=Sing|Person=3|Poss=Yes|PronType=Emp|Reflex=Yes	45	det:poss	_	Translit=ir|LTranslit=ink’
+44	իր	իր	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Emp|Reflex=Yes	45	det:poss	_	Translit=ir|LTranslit=ir
 45	ցանկութիւնը	ցանկութիւն	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	42	obj	_	Translit=c’ankowt’iwnë|LTranslit=c’ankowt’iwn
 46	եւ	եւ	CCONJ	_	_	48	cc	_	Translit=ew|LTranslit=ew
 47	Ծաղկանոյշը	Ծաղկանոյշ	PROPN	_	Animacy=Hum|Case=Nom|Definite=Def|NameType=Giv|Number=Sing	48	iobj:agent	_	Translit=Çaġkanoyšë|LTranslit=Çaġkanoyš
@@ -131,7 +131,7 @@ The following 3 pairs of parts of speech are connected with `iobj:agent`: <tt><a
 55	.	.	PUNCT	_	_	58	punct	_	Translit=.|LTranslit=.
 56	այդպէս	այդպէս	ADV	_	Deixis=Med|PronType=Dem	58	advmod:emph	_	Translit=aydpēs|LTranslit=aydpēs
 57	ալ	ալ	ADV	_	_	56	advmod	_	Translit=al|LTranslit=al
-58	ես	ես	PRON	_	Animacy=Hum|Case=Nom|Number=Sing|Person=1|PronType=Prs	28	conj	_	Translit=es|LTranslit=es|SpaceAfter=No
+58	ես	ես	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	28	conj	_	Translit=es|LTranslit=es|SpaceAfter=No
 59	՝	՝	PUNCT	_	_	61	punct	_	Translit=,|LTranslit=,
 60	կը	կը	AUX	_	Aspect=Imp|Mood=Ind	61	aux	_	Translit=kë|LTranslit=kë
 61	կտրեմ	կտրել	VERB	_	Aspect=Prosp|Mood=Sub|Number=Sing|Person=1|Polarity=Pos|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	58	acl	_	Translit=ktrem|LTranslit=ktrel
@@ -181,7 +181,7 @@ The following 3 pairs of parts of speech are connected with `iobj:agent`: <tt><a
 105	ասդին	ասդին	ADV	_	Deixis=Prox|PronType=Dem	106	advmod:emph	_	Translit=asdin|LTranslit=asdin
 106	Անթիքան	Անթիքա	PROPN	_	Animacy=Hum|Case=Nom|Definite=Def|NameType=Giv|Number=Sing	95	conj	_	Translit=Ant’ik’an|LTranslit=Ant’ik’a
 107	եւ	եւ	CCONJ	_	_	110	cc	_	Translit=ew|LTranslit=ew
-108	իր	ինք	DET	_	Case=Gen|Number=Sing|Person=3|Poss=Yes|PronType=Emp	110	det:poss	_	Translit=ir|LTranslit=ink’
+108	իր	իր	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Emp	110	det:poss	_	Translit=ir|LTranslit=ir
 109	անանուն	անանուն	ADJ	_	_	110	amod	_	Translit=ananown|LTranslit=ananown
 110	աղջիկը	աղջիկ	NOUN	_	Animacy=Hum|Case=Nom|Definite=Def|Number=Sing	106	conj	_	Translit=aġǰikë|LTranslit=aġǰik|SpaceAfter=No
 111	:	:	PUNCT	_	Foreign=Yes	3	punct	_	Translit=.|LTranslit=.

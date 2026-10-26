@@ -151,7 +151,7 @@ Doyle, Adrian and John P. McCrae. 2024. Developing a Part-of-speech Tagger for D
 
 Doyle, Adrian and John P. McCrae. 2025a. An Assessment of Word Separation Practices in Old Irish Text Resources and a Universal Method for Tokenising Old Irish Text. In _Proceedings of the 5th Celtic Language Technology Workshop_, pages 1–11, Abu Dhabi [Virtual Workshop]. International Committee on Computational Linguistics. https://aclanthology.org/2025.cltw-1.1/
 
-Doyle, Adrian and John P. McCrae. 2025b. Development of Old Irish Lexical Resources, and Two Universal Dependencies Treebanks for Diplomatically Edited Old Irish Text. In _5th International Conference on Natural Language Processing for Digital Humanities_.
+Doyle, Adrian and John P. McCrae. 2025b. Development of Old Irish Lexical Resources, and Two Universal Dependencies Treebanks for Diplomatically Edited Old Irish Text. In _Proceedings of the 5th International Conference on Natural Language Processing for Digital Humanities_, pages 393-402, Albuquerque, USA. Association for Computational Linguistics. https://aclanthology.org/2025.nlp4dh-1.34/
 
 Doyle, Adrian, John P. McCrae, and Clodagh Downey. 2019. A Character-Level LSTM Network Model for Tokenizing the Old Irish text of the Würzburg Glosses on the Pauline Epistles. In Proceedings of the Celtic Language Technology Workshop, pages 70–79, Dublin, Ireland. European Association for Machine Translation. https://aclanthology.org/W19-6910/
 

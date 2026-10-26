@@ -23,7 +23,7 @@ The following 5 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 7	fgColor:white
 # visual-style 7 5 cop	color:blue
 1	Periode	periode	NOUN	_	Number=Sing	7	nsubj	_	_
-2	tunggu	tunggu	VERB	_	Mood=Ind|Voice=Act	1	acl	_	_
+2	tunggu	tunggu	VERB	_	Voice=Act	1	acl	_	_
 3	saat	saat	NOUN	_	Number=Sing	1	nmod:tmod	_	_
 4	ini	ini	DET	_	PronType=Dem	3	det	_	_
 5	adalah	adalah	AUX	_	_	7	cop	_	_
@@ -47,7 +47,7 @@ The following 5 pairs of parts of speech are connected with `cop`: <tt><a href="
 5	Mojmír	Mojmír	PROPN	_	_	0	root	_	_
 6	I	I	PROPN	_	_	5	flat:name	_	_
 7	(	(	PUNCT	_	_	8	punct	_	SpaceAfter=No
-8	berkuasa	kuasa	VERB	_	Mood=Ind|Voice=Act	5	parataxis	_	_
+8	berkuasa	kuasa	VERB	_	Voice=Act	5	parataxis	_	_
 9	830	830	NUM	_	NumType=Card	8	obl:tmod	_	_
 10	–	–	PUNCT	_	_	11	punct	_	_
 11	846	846	NUM	_	NumType=Card	9	flat	_	SpaceAfter=No
@@ -63,7 +63,7 @@ The following 5 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 17	bgColor:blue
 # visual-style 17	fgColor:white
 # visual-style 17 15 cop	color:blue
-1	Terkubur	kubur	VERB	_	Mood=Ind|Voice=Pass	17	advcl	_	_
+1	Terkubur	kubur	VERB	_	Voice=Pass	17	advcl	_	_
 2	sedalam	dalam	NOUN	_	Number=Sing	1	obl	_	_
 3	100	100	NUM	_	NumType=Card	4	nummod	_	_
 4	meter	meter	NOUN	_	Number=Sing	2	nmod	_	_

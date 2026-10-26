@@ -25,7 +25,7 @@ The most frequent other feature values with which `VERB` and `Aspect` co-occurre
 * `Imp` (59; 42% of non-empty `Aspect`): <em>moadto, ganahan, tabangan, Kinahanglan, Liguon, Silhigan, kasabot, Gigutom, Giuhaw, Limpyohan</em>
 * `Perf` (60; 43% of non-empty `Aspect`): <em>gibuhat, Gitawag, gihigugma, Gi-hold, Gibilanggo, Gibutang, Gidungog, Gikinahanglan, Gikuha, Gimaotan</em>
 * `Prosp` (20; 14% of non-empty `Aspect`): <em>masayod, Maka-iningles, Mamalit, Nakahukom, Nakalimtan, Nakamedalya, Nasuka, himo-an, mahimo, mahimuot</em>
-* `EMPTY` (48): <em>wala, gusto, may, Aduna, Adunay, Buot, Duna, Gipinturahan, Gisugo, Gisulayan</em>
+* `EMPTY` (49): <em>wala, gusto, may, Aduna, Adunay, Buot, Duna, Gipinturahan, Gisugo, Gisulayan</em>
 
 <table>
   <tr><th>Paradigm <i>buhat</i></th><th><tt>Imp</tt></th><th><tt>Perf</tt></th></tr>

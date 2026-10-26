@@ -10,7 +10,7 @@ This feature indicates the effective UPOS of an expression when it differs from 
 In English, only heads of a [`fixed`](https://universaldependencies.org/en/dep/fixed.html) relation 
 and a small number of multiword proper names employ the feature, though in the future it may be broadened.
 
-`ExtPos` is also used in the [SUD](https://surfacesyntacticud.github.io/) framework.
+`ExtPos` is also used in the [SUD](https://surfacesyntacticud.org/) framework.
 
 ### <a name="ADP">`ADP`</a>: adposition-like expression
 
@@ -25,6 +25,12 @@ and a small number of multiword proper names employ the feature, though in the f
 #### Examples
 
 * _I like dogs, <b>of course</b>_ (_of_ = `ADP`)
+
+### <a name="NOUN">`NOUN`</a>: noun-like expression
+
+#### Examples
+
+* _Let's talk about the '<b>such as</b>' in that sentence_ (_such_ = `ADJ`)
 
 ### <a name="CCONJ">`CCONJ`</a>: coordinating conjunction-like expression
 
@@ -68,4 +74,4 @@ This avoids apparent anomalies like non-copular `PROPN`s with subjects.
 * _pastimes <b>such as</b> eating cake_ (_such_ = `ADJ`)
 * _I brought an umbrella <b>in case</b> it rains_ (_in_ = `ADP`)
 * _Let's walk <b>instead of</b> taking the bus_ (_instead_ = `ADV`)
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:40 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:52 CEST -->

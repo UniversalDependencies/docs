@@ -32,7 +32,7 @@ The following 17 pairs of parts of speech are connected with `cc`: <tt><a href="
 8	nocao	noção	NOUN	_	Gender=Fem|Number=Sing|Typo=Yes	6	obl	_	CorrectForm=noção
 9	de	de	ADP	_	_	10	case	_	_
 10	fundo	fundo	NOUN	_	Gender=Masc|Number=Sing	8	nmod	_	SpaceAfter=No
-11	...	...	PUNCT	_	_	3	punct	_	SpaceAfter=No
+11	...	...	PUNCT	_	_	3	punct	_	_
 
 ~~~
 
@@ -54,7 +54,7 @@ The following 17 pairs of parts of speech are connected with `cc`: <tt><a href="
 9	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
 10	indice	índice	NOUN	_	Gender=Masc|Number=Sing|Typo=Yes	7	obl	_	CorrectForm=índice|SpaceAfter=No
 11	?	?	PUNCT	_	_	1	punct	_	SpaceAfter=No
-12	!	!	PUNCT	_	_	1	punct	_	SpaceAfter=No
+12	!	!	PUNCT	_	_	1	punct	_	_
 
 ~~~
 
@@ -69,7 +69,7 @@ The following 17 pairs of parts of speech are connected with `cc`: <tt><a href="
 2	Suportes	suporte	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_
 3	e	e	CCONJ	_	_	4	cc	_	_
 4	resistências	resistência	NOUN	_	Gender=Fem|Number=Plur	2	conj	_	_
-5	http://t.co/2HnLmAflrF	http://t.co/2HnLmAflrF	SYM	_	_	2	parataxis	_	SpaceAfter=No
+5	http://t.co/2HnLmAflrF	http://t.co/2HnLmAflrF	SYM	_	_	2	parataxis	_	_
 
 ~~~
 

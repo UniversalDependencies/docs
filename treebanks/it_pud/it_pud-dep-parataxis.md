@@ -24,7 +24,7 @@ The following 16 pairs of parts of speech are connected with `parataxis`: <tt><a
 # visual-style 2 8 parataxis	color:blue
 1	"	"	PUNCT	``	_	2	punct	_	SpaceAfter=No
 2	Amavo	amare	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Past|Voice=Act	0	root	_	_
-3	i	il	DET	DT	Gender=Masc|Number=Plur	4	det	_	_
+3	i	il	DET	DT	Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
 4	colori	colore	NOUN	NN	Gender=Masc|Number=Plur	2	obj	_	_
 5	tropicali	tropicale	ADJ	JJ	Gender=Masc|Number=Plur	4	amod	_	SpaceAfter=No
 6	"	"	PUNCT	''	_	2	punct	_	SpaceAfter=No
@@ -44,7 +44,7 @@ The following 16 pairs of parts of speech are connected with `parataxis`: <tt><a
 1	Altri	altro	DET	DT	Gender=Masc|Number=Plur	2	det	_	_
 2	quattro	quattro	NUM	CD	_	3	nsubj	_	_
 3	danno	danno	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	0	root	_	_
-4	le	il	DET	DT	Gender=Fem|Number=Plur	5	det	_	_
+4	le	il	DET	DT	Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
 5	declinazioni	declinazione	NOUN	NN	Gender=Fem|Number=Plur	3	obj	_	_
 6	minime	minimo	ADJ	JJS	Degree=Abs|Gender=Fem|Number=Sing	5	amod	_	_
 7	e	e	CCONJ	CC	_	8	cc	_	_
@@ -80,7 +80,7 @@ The following 16 pairs of parts of speech are connected with `parataxis`: <tt><a
 8	,	,	PUNCT	,	_	6	punct	_	_
 9	ha	avere	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	10	aux	_	_
 10	rivelato	rivelare	VERB	VBN	Tense=Past	6	parataxis	_	_
-11	un	uno	DET	DT	Gender=Masc|Number=Sing	12	det	_	_
+11	un	uno	DET	DT	Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
 12	contingente	contingente	NOUN	NN	Gender=Masc|Number=Sing	10	nsubj	_	_
 13	francese	francese	ADJ	JJ	Gender=Masc|Number=Sing	12	amod	_	Proper=True|SpaceAfter=No
 14	.	.	PUNCT	.	_	6	punct	_	_

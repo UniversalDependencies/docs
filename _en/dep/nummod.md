@@ -22,4 +22,7 @@ nummod(dollars, forty)
 Sam spent $ 40
 nummod($, 40)
 ~~~
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:11:11 CET -->
+
+Numbers used in other constructions are not `nummod`. For instance, the phrase _number 1_ is analyzed as a [flat]() structure, as discussed [here](nmod-desc.html#numbered-entities).
+
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:26 CEST -->

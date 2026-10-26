@@ -26,7 +26,7 @@ The following 28 pairs of parts of speech are connected with `discourse`: <tt><a
 1	Siguen	seguir	VERB	vmip3p0	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	teniendo	tener	VERB	vmg0000	VerbForm=Ger	1	xcomp	_	_
 3	pesetas	peseta	NOUN	ncfp000	NumForm=Digit	2	obj	_	SpaceAfter=No
-4	,	,	PUNCT	fc	PunctType=Comm	1	punct	_	_
+4	,	,	PUNCT	fc	PunctType=Comm	5	punct	_	_
 5	sí	sí	INTJ	rg	_	1	discourse	_	SpaceAfter=No
 6	.	.	PUNCT	fp	PunctType=Peri	1	punct	_	_
 
@@ -60,7 +60,7 @@ The following 28 pairs of parts of speech are connected with `discourse`: <tt><a
 # visual-style 3	fgColor:white
 # visual-style 3 1 discourse	color:blue
 1	Sí	sí	INTJ	rg	_	3	discourse	_	SpaceAfter=No
-2	,	,	PUNCT	fc	PunctType=Comm	3	punct	_	_
+2	,	,	PUNCT	fc	PunctType=Comm	1	punct	_	_
 3	señor	señor	NOUN	ncms000	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	fp	PunctType=Peri	3	punct	_	_
 

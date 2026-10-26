@@ -234,6 +234,6 @@ The most frequent other feature values with which `AUX` and `Aspect` co-occurred
 ## Relations with Agreement in `Aspect`
 
 The 10 most frequent relations where parent and child node agree in `Aspect`:
-<tt>VERB --[<tt><a href="tr_boun-dep-conj.html">conj</a></tt>]--> VERB</tt> (776; 59%),
+<tt>VERB --[<tt><a href="tr_boun-dep-conj.html">conj</a></tt>]--> VERB</tt> (781; 59%),
 <tt>VERB --[<tt><a href="tr_boun-dep-appos.html">appos</a></tt>]--> VERB</tt> (1; 100%).
 

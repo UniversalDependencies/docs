@@ -8,60 +8,66 @@ udver: '2'
 
 This relation is universal.
 
-1263 nodes (7%) are attached to their parents as `root`.
+1972 nodes (7%) are attached to their parents as `root`.
 
-1263 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.07838479809976.
+1972 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.80324543610548.
 
-The following 8 pairs of parts of speech are connected with `root`: -<tt><a href="la_circse-pos-VERB.html">VERB</a></tt> (1037; 82% instances), -<tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt> (106; 8% instances), -<tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt> (59; 5% instances), -<tt><a href="la_circse-pos-DET.html">DET</a></tt> (25; 2% instances), -<tt><a href="la_circse-pos-ADV.html">ADV</a></tt> (14; 1% instances), -<tt><a href="la_circse-pos-PRON.html">PRON</a></tt> (14; 1% instances), -<tt><a href="la_circse-pos-PROPN.html">PROPN</a></tt> (7; 1% instances), -<tt><a href="la_circse-pos-PART.html">PART</a></tt> (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `root`: -<tt><a href="la_circse-pos-VERB.html">VERB</a></tt> (1672; 85% instances), -<tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt> (133; 7% instances), -<tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt> (76; 4% instances), -<tt><a href="la_circse-pos-DET.html">DET</a></tt> (29; 1% instances), -<tt><a href="la_circse-pos-PRON.html">PRON</a></tt> (26; 1% instances), -<tt><a href="la_circse-pos-ADV.html">ADV</a></tt> (24; 1% instances), -<tt><a href="la_circse-pos-PROPN.html">PROPN</a></tt> (8; 0% instances), -<tt><a href="la_circse-pos-NUM.html">NUM</a></tt> (2; 0% instances), -<tt><a href="la_circse-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), -<tt><a href="la_circse-pos-PART.html">PART</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
-# visual-style 0 6 root	color:blue
-1	quae	quis	PRON	K	Case=Nom|Gender=Neut|InflClass=LatPron|Number=Plur|PronType=Int	4	det	_	LASLAVariant=1|LiLaflcat=p
-2	fera	ferus	ADJ	C1	Case=Nom|Degree=Pos|Gender=Neut|InflClass=IndEurO|Number=Plur	4	amod	_	LASLAVariant=2|LiLaflcat=n6
-3	tyranni	tyrannus	NOUN	A2	Case=Gen|Gender=Masc|InflClass=IndEurO|Number=Sing	4	nmod	_	LiLaflcat=n2
-4	iura	ius	NOUN	A3	Case=Nom|Gender=Neut|InflClass=IndEurI|Number=Plur	6	nsubj	_	LASLAVariant=1|LiLaflcat=n3
-5	uiolento	uiolentus	ADJ	C1	Case=Dat|Degree=Pos|Gender=Masc|InflClass=IndEurO|Number=Sing	8	amod	_	LiLaflcat=n6
-6	queant	queo	VERB	B6	Aspect=Imp|InflClass=LatAnom|Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LiLaflcat=v6
-7	nocere	noceo	VERB	B2	Aspect=Imp|InflClass=LatE|InflClass[nominal]=Ind|VerbForm=Inf|Voice=Act	6	xcomp	_	LiLaflcat=v2
-8	iuueni	iuuenis	NOUN	A3	Case=Dat|Gender=Masc|InflClass=IndEurI|Number=Sing	7	obl:arg	_	LASLAVariant=1|LiLaflcat=n3
+# visual-style 0 4 root	color:blue
+1	hic	hic	ADV	M	Degree=Pos	4	advmod:lmod	_	LASLAVariant=2|LiLaflcat=i
+2	uasto	uastus	ADJ	C1	Case=Abl|Degree=Pos|Gender=Masc|InflClass=IndEurO|Number=Sing	3	amod	_	LiLaflcat=n6
+3	specu	specus	NOUN	A4	Case=Abl|Gender=Masc|InflClass=IndEurU|Number=Sing	4	obl:lmod	_	LiLaflcat=n4
+4	pendent	pendeo	VERB	B2	Aspect=Imp|InflClass=LatE|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LiLaflcat=v2
+5	tyranni	tyrannus	NOUN	A2	Case=Gen|Gender=Masc|InflClass=IndEurO|Number=Sing	6	nmod	_	LiLaflcat=n2
+6	limina	limen	NOUN	A3	Case=Nom|Gender=Neut|InflClass=IndEurX|Number=Plur	4	nsubj	_	LiLaflcat=n3
+7	hoc	hic	DET	I	Case=Nom|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Dem	9	det	_	LASLAVariant=1|LiLaflcat=p
+8	umbris	umbra	NOUN	A1	Case=Dat|Gender=Fem|InflClass=IndEurA|Number=Plur	9	obl:arg	_	LiLaflcat=n1
+9	iter	iter	NOUN	A3	Case=Nom|Gender=Neut|InflClass=IndEurX|Number=Sing	4	conj	_	LiLaflcat=n3
+10	haec	hic	DET	I	Case=Nom|Gender=Fem|InflClass=LatPron|Number=Sing|PronType=Dem	11	det	_	LASLAVariant=1|LiLaflcat=p
+11	porta	porta	NOUN	A1	Case=Nom|Gender=Fem|InflClass=IndEurA|Number=Sing	4	conj	_	LiLaflcat=n1
+12	regni	regnum	NOUN	A2	Case=Gen|Gender=Neut|InflClass=IndEurO|Number=Sing	11	nmod	_	LiLaflcat=n2
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
-# visual-style 0 2 root	color:blue
-1	quae	quis	PRON	K	Case=Acc|Gender=Neut|InflClass=LatPron|Number=Plur|PronType=Int	2	det	_	LASLAVariant=1|LiLaflcat=p
-2	bella	bellum	NOUN	A2	Case=Acc|Gender=Neut|InflClass=IndEurO|Number=Plur	0	root	_	LiLaflcat=n2
+# visual-style 0 4 root	color:blue
+1	est	sum	AUX	B6	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	LASLAVariant=1|LiLaflcat=v6
+2	ne	ne	PART	O	PartType=Int	4	discourse	_	LASLAVariant=2|LiLaflcat=i
+3	aliqua	aliquis	PRON	L	Case=Nom|Gender=Fem|InflClass=LatPron|Number=Sing|PronType=Ind	4	det	_	LiLaflcat=p
+4	tellus	tellus	NOUN	A3	Case=Nom|Gender=Fem|InflClass=IndEurX|Number=Sing	0	root	_	LiLaflcat=n3
+5	Cereris	ceres	PROPN	A3	Case=Gen|Gender=Fem|InflClass=IndEurX|NameType=Rel|Number=Sing	8	nmod	_	LASLAVariant=N|LiLaflcat=n3
+6	aut	aut	CCONJ	S	_	7	cc	_	LiLaflcat=i
+7	Bacchi	bacchus	PROPN	A2	Case=Gen|Gender=Masc|InflClass=IndEurO|NameType=Rel|Number=Sing	5	conj	_	LASLAVariant=N|LiLaflcat=n2
+8	ferax	ferax	ADJ	C5	Case=Nom|Degree=Pos|Gender=Fem|InflClass=IndEurI|Number=Sing	4	amod	_	LiLaflcat=n7
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
-# visual-style 0 1 root	color:blue
-1	indigna	indignus	ADJ	C1	Case=Nom|Degree=Pos|Gender=Neut|InflClass=IndEurO|Number=Plur	0	root	_	LiLaflcat=n6
-2	te	tu	PRON	E	Case=Abl|InflClass=LatAnom|Number=Sing|Person=2|PronType=Prs	1	obl:arg	_	LiLaflcat=p
-3	sunt	sum	AUX	B6	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	LASLAVariant=1|LiLaflcat=v6
-4	spolia	spolium	NOUN	A2	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Plur	1	nsubj	_	LiLaflcat=n2
-5	si	si	SCONJ	T	_	7	mark	_	LASLAVariant=2|LiLaflcat=i
-6	tantum	tantum	DET	I	Case=Acc|Gender=Neut|InflClass=IndEurO|Number=Sing|PronType=Dem	7	obj	_	LASLAVariant=1|LiLaflcat=n6
-7	refers	refero	VERB	B6	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	1	advcl	_	LiLaflcat=v6
-8	quantum	quantum	DET	J	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing|NumType=Card|PronType=Rel	9	det	_	LASLAVariant=1|LiLaflcat=n6
-9	imperatum	impero	VERB	Y1	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Neut|InflClass=LatA|InflClass[nominal]=IndEurO|Number=Sing|VerbForm=Part|Voice=Pass	7	advcl:cmp	_	LiLaflcat=v1
-10	est	sum	AUX	Z1	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	LASLAVariant=2|LiLaflcat=v6
+# visual-style 0 3 root	color:blue
+1	feminis	femina	NOUN	A1	Case=Dat|Gender=Fem|InflClass=IndEurA|Number=Plur	3	obl:arg	_	LiLaflcat=n1|UniqueTokenId=TacGerma-Q-01-165_1
+2	lugere	lugeo	VERB	B2	Aspect=Imp|InflClass=LatE|VerbForm=Inf|Voice=Act	3	csubj	_	LiLaflcat=v2|TraditionalMood=Infinitivus|TraditionalTense=Praesens|UniqueTokenId=TacGerma-Q-01-165_2
+3	honestum	honestus	ADJ	C1	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing	0	root	_	LiLaflcat=n6|UniqueTokenId=TacGerma-Q-01-165_3
+4	est	sum	AUX	B6	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	LASLAVariant=1|LiLaflcat=v6|TraditionalMood=Indicativus|TraditionalTense=Praesens|UniqueTokenId=TacGerma-Q-01-165_4
+5	uiris	uir	NOUN	A2	Case=Dat|Gender=Masc|InflClass=IndEurO|Number=Plur	6	orphan	_	LiLaflcat=n2|UniqueTokenId=TacGerma-Q-01-165_5
+6	meminisse	memini	VERB	B3	Aspect=Perf|InflClass=LatX|VerbForm=Inf|Voice=Act	3	conj	_	LiLaflcat=v3|TraditionalMood=Infinitivus|TraditionalTense=Perfectum|UniqueTokenId=TacGerma-Q-01-165_6
 
 ~~~
 

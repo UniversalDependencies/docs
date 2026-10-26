@@ -24,7 +24,7 @@ The following 4 pairs of parts of speech are connected with `expl`: <tt><a href=
 # visual-style 7	fgColor:white
 # visual-style 7 6 expl	color:blue
 1	È	essere	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	3	cop	_	_
-2	la	il	DET	DT	Gender=Fem|Number=Sing	3	det	_	_
+2	la	il	DET	DT	Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
 3	ragione	ragione	NOUN	NN	Gender=Fem|Number=Sing	0	root	_	_
 4	per	per	ADP	IN	_	5	case	_	_
 5	cui	cui	PRON	WP	Gender=Fem|Number=Sing	7	obl	_	_
@@ -50,16 +50,16 @@ The following 4 pairs of parts of speech are connected with `expl`: <tt><a href=
 6	soltanto	soltanto	ADV	RB	_	7	advmod	_	_
 7	dopo	dopo	ADV	RB	_	17	mark	_	_
 8	che	che	ADP	IN	_	7	fixed	_	_
-9	l'	il	DET	DT	Gender=Fem|Number=Sing	10	det	_	SpaceAfter=No
+9	l'	il	DET	DT	Gender=Fem|Number=Sing|PronType=Art	10	det	_	SpaceAfter=No
 10	Agenzia	Agenzia	PROPN	NN	Gender=Fem|Number=Sing	17	nsubj	_	_
 11	statunitense	statunitense	ADJ	JJ	Gender=Fem|Number=Sing	10	amod	_	Proper=True
 12	per	per	ADP	IN	_	14	case	_	Proper=True
-13	la	il	DET	DT	Gender=Fem|Number=Sing	14	det	_	Proper=True
+13	la	il	DET	DT	Gender=Fem|Number=Sing|PronType=Art	14	det	_	Proper=True
 14	Protezione	Protezione	PROPN	NN	Gender=Fem|Number=Sing	10	nmod	_	_
 15	Ambientale	Ambientale	ADJ	JJ	Gender=Fem|Number=Sing	14	amod	_	Proper=True
 16	ha	avere	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	17	aux	_	_
 17	avvertito	avvertire	VERB	VBN	Tense=Past	4	advcl	_	_
-18	il	il	DET	DT	Gender=Masc|Number=Sing	19	det	_	_
+18	il	il	DET	DT	Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
 19	mondo	mondo	NOUN	NN	Gender=Masc|Number=Sing	17	obj	_	_
 20	in	in	ADP	IN	_	21	case	_	_
 21	merito	merito	NOUN	NN	Gender=Masc|Number=Sing	17	obl	_	_
@@ -80,7 +80,7 @@ The following 4 pairs of parts of speech are connected with `expl`: <tt><a href=
 1	Penso	pensare	VERB	VBC	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	0	root	_	_
 2	che	che	SCONJ	IN	_	3	mark	_	_
 3	sia	essere	VERB	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act	1	ccomp	_	_
-4	la	il	DET	DT	Gender=Fem|Number=Sing	5	det	_	_
+4	la	il	DET	DT	Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 5	ragione	ragione	NOUN	NN	Gender=Fem|Number=Sing	3	nsubj	_	_
 6	per	per	ADP	IN	_	7	case	_	_
 7	cui	cui	PRON	WP	Gender=Fem|Number=Sing	10	obl	_	_

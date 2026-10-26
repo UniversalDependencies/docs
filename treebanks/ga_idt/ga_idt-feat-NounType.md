@@ -9,21 +9,21 @@ udver: '2'
 This feature is language-specific.
 It occurs with 4 different values: `NotSlender`, `Slender`, `Strong`, `Weak`.
 
-2555 tokens (2%) have a non-empty value of `NounType`.
-1117 types (7%) occur at least once with a non-empty value of `NounType`.
-889 lemmas (10%) occur at least once with a non-empty value of `NounType`.
-The feature is used with 3 part-of-speech tags: <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (1212; 1% instances), <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> (1066; 1% instances), <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> (277; 0% instances).
+2558 tokens (2%) have a non-empty value of `NounType`.
+1115 types (7%) occur at least once with a non-empty value of `NounType`.
+888 lemmas (10%) occur at least once with a non-empty value of `NounType`.
+The feature is used with 3 part-of-speech tags: <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (1217; 1% instances), <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> (1067; 1% instances), <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> (274; 0% instances).
 
 ### `NOUN`
 
-1212 <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> tokens (4% of all `NOUN` tokens) have a non-empty value of `NounType`.
+1217 <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> tokens (4% of all `NOUN` tokens) have a non-empty value of `NounType`.
 
-The most frequent other feature values with which `NOUN` and `NounType` co-occurred: <tt><a href="ga_idt-feat-Case.html">Case</a></tt><tt>=Gen</tt> (1212; 100%), <tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Plur</tt> (1212; 100%), <tt><a href="ga_idt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (1212; 100%), <tt><a href="ga_idt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (821; 68%), <tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=EMPTY</tt> (803; 66%), <tt><a href="ga_idt-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (746; 62%).
+The most frequent other feature values with which `NOUN` and `NounType` co-occurred: <tt><a href="ga_idt-feat-Case.html">Case</a></tt><tt>=Gen</tt> (1217; 100%), <tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Plur</tt> (1217; 100%), <tt><a href="ga_idt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (1217; 100%), <tt><a href="ga_idt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (824; 68%), <tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=EMPTY</tt> (809; 66%), <tt><a href="ga_idt-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (749; 62%).
 
 `NOUN` tokens may have the following values of `NounType`:
 
-* `Strong` (764; 63% of non-empty `NounType`): <em>daoine, gnóthaí, seirbhísí, páistí, ndaoine, acmhainní, leanaí, bhforálacha, mbailte, scéalta</em>
-* `Weak` (448; 37% of non-empty `NounType`): <em>ealaíon, clár, mballstát, ábhar, gComhphobal, gceantar, leabhar, leabharlann, n-ealaíon, n-oileán</em>
+* `Strong` (764; 63% of non-empty `NounType`): <em>daoine, gnóthaí, seirbhísí, páistí, ndaoine, acmhainní, leanaí, bhforálacha, mbailte, scileanna</em>
+* `Weak` (453; 37% of non-empty `NounType`): <em>ealaíon, clár, mballstát, ábhar, leabhar, gComhphobal, gceantar, leabharlann, n-ealaíon, n-oileán</em>
 
 <table>
   <tr><th>Paradigm <i>clár</i></th><th><tt>Strong</tt></th><th><tt>Weak</tt></th></tr>
@@ -36,13 +36,13 @@ The most frequent other feature values with which `NOUN` and `NounType` co-occur
 
 ### `ADJ`
 
-1066 <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> tokens (16% of all `ADJ` tokens) have a non-empty value of `NounType`.
+1067 <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> tokens (16% of all `ADJ` tokens) have a non-empty value of `NounType`.
 
-The most frequent other feature values with which `ADJ` and `NounType` co-occurred: <tt><a href="ga_idt-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (1066; 100%), <tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Plur</tt> (1066; 100%), <tt><a href="ga_idt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (1066; 100%), <tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=EMPTY</tt> (973; 91%), <tt><a href="ga_idt-feat-Case.html">Case</a></tt><tt>=Nom</tt> (894; 84%), <tt><a href="ga_idt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (675; 63%).
+The most frequent other feature values with which `ADJ` and `NounType` co-occurred: <tt><a href="ga_idt-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (1067; 100%), <tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Plur</tt> (1067; 100%), <tt><a href="ga_idt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (1067; 100%), <tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=EMPTY</tt> (973; 91%), <tt><a href="ga_idt-feat-Case.html">Case</a></tt><tt>=Nom</tt> (895; 84%), <tt><a href="ga_idt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (676; 63%).
 
 `ADJ` tokens may have the following values of `NounType`:
 
-* `NotSlender` (662; 62% of non-empty `NounType`): <em>éagsúla, nua, áirithe, poiblí, beaga, óga, náisiúnta, móra, idirnáisiúnta, áitiúla</em>
+* `NotSlender` (663; 62% of non-empty `NounType`): <em>éagsúla, nua, áirithe, poiblí, beaga, óga, náisiúnta, móra, idirnáisiúnta, áitiúla</em>
 * `Slender` (232; 22% of non-empty `NounType`): <em>áitiúla, éagsúla, náisiúnta, nua, Eorpacha, phoiblí, speisialta, chruthaitheacha, Éireannacha, áirithe</em>
 * `Strong` (122; 11% of non-empty `NounType`): <em>réigiúnacha, éagsúla, Slachtmhara, móra, nua-aimseartha, náisiúnta, áirithe, beaga, míosúla, nua</em>
 * `Weak` (50; 5% of non-empty `NounType`): <em>Eorpach, poiblí, áitiúil, domhanda, díomhaoin, sóisialta, Éireannach, áirithe, Cúng, Feirsteach</em>
@@ -58,16 +58,16 @@ The most frequent other feature values with which `ADJ` and `NounType` co-occurr
 
 ### `PROPN`
 
-277 <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> tokens (5% of all `PROPN` tokens) have a non-empty value of `NounType`.
+274 <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> tokens (5% of all `PROPN` tokens) have a non-empty value of `NounType`.
 
-The most frequent other feature values with which `PROPN` and `NounType` co-occurred: <tt><a href="ga_idt-feat-Case.html">Case</a></tt><tt>=Gen</tt> (277; 100%), <tt><a href="ga_idt-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (277; 100%), <tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Plur</tt> (277; 100%), <tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=EMPTY</tt> (249; 90%), <tt><a href="ga_idt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (233; 84%).
+The most frequent other feature values with which `PROPN` and `NounType` co-occurred: <tt><a href="ga_idt-feat-Case.html">Case</a></tt><tt>=Gen</tt> (274; 100%), <tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Plur</tt> (274; 100%), <tt><a href="ga_idt-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (273; 100%), <tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=EMPTY</tt> (247; 90%), <tt><a href="ga_idt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (232; 85%).
 
 `PROPN` tokens may have the following values of `NounType`:
 
-* `Strong` (14; 5% of non-empty `NounType`): <em>Brioscaí, Feabhra, Foundation, Fíoncheannaithe, Ghaeltachtaí, Gníomhartha, Leanaí, Saoirsí, Teangacha, Uíbh</em>
-* `Weak` (263; 95% of non-empty `NounType`): <em>cliath, nGall, Gael, Tionóntán, Árann, Ealaíon, nUachtarán, Ardeaspag, Cliant, Náisiún</em>
+* `Strong` (13; 5% of non-empty `NounType`): <em>Brioscaí, Dugthailte, Feabhra, Ghaeltachtaí, Gníomhartha, Leanaí, Saoirsí, Teangacha, Uíbh, bhForbacha</em>
+* `Weak` (261; 95% of non-empty `NounType`): <em>cliath, nGall, Gael, Árann, Tionóntán, nUachtarán, Ardeaspag, Cliant, Ealaíon, Náisiún</em>
 
-`NounType` seems to be **lexical feature** of `PROPN`. 100% lemmas (33) occur only with one value of `NounType`.
+`NounType` seems to be **lexical feature** of `PROPN`. 100% lemmas (30) occur only with one value of `NounType`.
 
 ## Relations with Agreement in `NounType`
 

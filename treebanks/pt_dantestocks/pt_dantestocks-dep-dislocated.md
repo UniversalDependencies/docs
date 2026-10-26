@@ -34,7 +34,7 @@ The following 3 pairs of parts of speech are connected with `dislocated`: <tt><a
 10	...	...	PUNCT	_	_	4	punct	_	SpaceAfter=No
 11	(	(	PUNCT	_	_	12	punct	_	SpaceAfter=No
 12	#petr4	#petr4	PROPN	_	_	4	parataxis	_	SpaceAfter=No
-13	)	)	PUNCT	_	_	12	punct	_	SpaceAfter=No
+13	)	)	PUNCT	_	_	12	punct	_	_
 
 ~~~
 
@@ -71,7 +71,7 @@ The following 3 pairs of parts of speech are connected with `dislocated`: <tt><a
 24	.	.	PUNCT	_	_	15	punct	_	_
 25	FURTO	furto	NOUN	_	Gender=Masc|Number=Sing	15	parataxis	_	_
 26	NACIONAL	nacional	ADJ	_	Number=Sing	25	amod	_	SpaceAfter=No
-27	!	!	PUNCT	_	_	25	punct	_	SpaceAfter=No
+27	!	!	PUNCT	_	_	25	punct	_	_
 
 ~~~
 
@@ -95,7 +95,7 @@ The following 3 pairs of parts of speech are connected with `dislocated`: <tt><a
 11	recente	recente	ADJ	_	Number=Sing	10	amod	_	SpaceAfter=No
 12	.	.	PUNCT	_	_	7	punct	_	_
 13	Buunituuu	bonito	ADJ	_	Gender=Masc|Number=Sing	7	discourse	_	CorrectForm=bonito
-14	...	...	PUNCT	_	_	13	punct	_	SpaceAfter=No
+14	...	...	PUNCT	_	_	13	punct	_	_
 
 ~~~
 

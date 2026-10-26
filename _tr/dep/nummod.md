@@ -26,4 +26,4 @@ nummod(kitap, Üçer)
 1500 lira harcadı \n He\/she spent 1500 liras
 nummod(lira, 1500)
 ~~~
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:11:11 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:27 CEST -->

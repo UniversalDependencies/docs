@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Skolt_Sami-Giellagas: POS Tags: `INTJ`
 
-There are 12 `INTJ` lemmas (2%), 12 `INTJ` types (2%) and 60 `INTJ` tokens (2%).
-Out of 16 observed tags, the rank of `INTJ` is: 6 in number of lemmas, 7 in number of types and 8 in number of tokens.
+There are 12 `INTJ` lemmas (2%), 12 `INTJ` types (1%) and 60 `INTJ` tokens (2%).
+Out of 16 observed tags, the rank of `INTJ` is: 7 in number of lemmas, 9 in number of types and 9 in number of tokens.
 
 The 10 most frequent `INTJ` lemmas: <em>no, näʹde, na, ij, pii, joo, äʹn, piʒʒ, Oho, a</em>
 
 The 10 most frequent `INTJ` types:  <em>no, näʹde, na, ij, pii, joo, äʹn, Piʒʒ, A, Jaa</em>
 
-The 10 most frequent ambiguous lemmas: <em>no</em> (<tt><a href="sms_giellagas-pos-INTJ.html">INTJ</a></tt> 13, <tt><a href="sms_giellagas-pos-CCONJ.html">CCONJ</a></tt> 3, <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> 1), <em>näʹde</em> (<tt><a href="sms_giellagas-pos-INTJ.html">INTJ</a></tt> 13, <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> 3), <em>ij</em> (<tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> 46, <tt><a href="sms_giellagas-pos-INTJ.html">INTJ</a></tt> 6), <em>äʹn</em> (<tt><a href="sms_giellagas-pos-PART.html">PART</a></tt> 4, <tt><a href="sms_giellagas-pos-INTJ.html">INTJ</a></tt> 3), <em>a</em> (<tt><a href="sms_giellagas-pos-CCONJ.html">CCONJ</a></tt> 9, <tt><a href="sms_giellagas-pos-INTJ.html">INTJ</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>no</em> (<tt><a href="sms_giellagas-pos-INTJ.html">INTJ</a></tt> 13, <tt><a href="sms_giellagas-pos-CCONJ.html">CCONJ</a></tt> 3, <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> 1), <em>näʹde</em> (<tt><a href="sms_giellagas-pos-INTJ.html">INTJ</a></tt> 13, <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> 3), <em>ij</em> (<tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> 47, <tt><a href="sms_giellagas-pos-INTJ.html">INTJ</a></tt> 6), <em>äʹn</em> (<tt><a href="sms_giellagas-pos-PART.html">PART</a></tt> 4, <tt><a href="sms_giellagas-pos-INTJ.html">INTJ</a></tt> 3), <em>a</em> (<tt><a href="sms_giellagas-pos-CCONJ.html">CCONJ</a></tt> 9, <tt><a href="sms_giellagas-pos-INTJ.html">INTJ</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>näʹde</em> (<tt><a href="sms_giellagas-pos-INTJ.html">INTJ</a></tt> 3, <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> 1), <em>ij</em> (<tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> 18, <tt><a href="sms_giellagas-pos-INTJ.html">INTJ</a></tt> 1), <em>äʹn</em> (<tt><a href="sms_giellagas-pos-PART.html">PART</a></tt> 3, <tt><a href="sms_giellagas-pos-INTJ.html">INTJ</a></tt> 2), <em>A</em> (<tt><a href="sms_giellagas-pos-CCONJ.html">CCONJ</a></tt> 6, <tt><a href="sms_giellagas-pos-INTJ.html">INTJ</a></tt> 1)
 
@@ -33,7 +33,7 @@ The 10 most frequent ambiguous types:  <em>näʹde</em> (<tt><a href="sms_giella
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.476015).
+The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.487500).
 
 The 1st highest number of forms (1) was observed with the lemma “Oho”: <em>Oho</em>.
 
@@ -41,13 +41,13 @@ The 2nd highest number of forms (1) was observed with the lemma “Piʒʒ”: <e
 
 The 3rd highest number of forms (1) was observed with the lemma “a”: <em>A</em>.
 
-`INTJ` occurs with 1 features: <tt><a href="sms_giellagas-feat-Polarity.html">Polarity</a></tt> (6; 10% instances)
+`INTJ` occurs with 2 features: <tt><a href="sms_giellagas-feat-Polarity.html">Polarity</a></tt> (6; 10% instances), <tt><a href="sms_giellagas-feat-ExtPos.html">ExtPos</a></tt> (4; 7% instances)
 
-`INTJ` occurs with 1 feature-value pairs: `Polarity=Neg`
+`INTJ` occurs with 3 feature-value pairs: `ExtPos=CCONJ`, `ExtPos=INTJ`, `Polarity=Neg`
 
-`INTJ` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (54 tokens).
-Examples: <em>no, näʹde, na, pii, joo, äʹn, Piʒʒ, A, Jaa, Oho</em>
+`INTJ` occurs with 4 feature combinations.
+The most frequent feature combination is `_` (51 tokens).
+Examples: <em>no, näʹde, na, pii, joo, äʹn, A, Jaa, Oho, naa</em>
 
 
 ## Relations

@@ -29,7 +29,7 @@ The following 4 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 4	concluído	concluir	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	0	root	_	_
 5	com	com	ADP	_	_	6	case	_	_
 6	sucesso	sucesso	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	_
-7	:D	:D	SYM	_	_	4	discourse	_	SpaceAfter=No
+7	:D	:D	SYM	_	_	4	discourse	_	_
 
 ~~~
 
@@ -47,7 +47,7 @@ The following 4 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 5	+	+	SYM	_	_	6	advmod	_	SpaceAfter=No
 6	4,19	4,19	NUM	_	NumType=Card	7	nummod	_	SpaceAfter=No
 7	%	%	SYM	_	_	3	obl	_	SpaceAfter=No
-8	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~
 
@@ -68,7 +68,7 @@ The following 4 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 8	outrora	outrora	ADV	_	_	9	advmod	_	_
 9	promissora	promissor	ADJ	_	Gender=Fem|Number=Sing	10	amod	_	_
 10	PETR4	PETR4	PROPN	_	_	5	obl	_	_
-11	#EuApoioCPIdaPetrobras	#EuApoioCPIdaPetrobras	X	_	_	2	parataxis	_	SpaceAfter=No
+11	#EuApoioCPIdaPetrobras	#EuApoioCPIdaPetrobras	X	_	_	2	parataxis	_	_
 
 ~~~
 

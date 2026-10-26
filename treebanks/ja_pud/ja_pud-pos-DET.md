@@ -6,12 +6,12 @@ udver: '2'
 
 ## Treebank Statistics: UD_Japanese-PUD: POS Tags: `DET`
 
-There are 6 `DET` lemmas (0%), 6 `DET` types (0%) and 210 `DET` tokens (1%).
-Out of 16 observed tags, the rank of `DET` is: 15 in number of lemmas, 15 in number of types and 13 in number of tokens.
+There are 8 `DET` lemmas (0%), 8 `DET` types (0%) and 215 `DET` tokens (1%).
+Out of 16 observed tags, the rank of `DET` is: 14 in number of lemmas, 14 in number of types and 13 in number of tokens.
 
-The 10 most frequent `DET` lemmas: 其の, 此の, 或る, 何の, あらゆる, 彼の
+The 10 most frequent `DET` lemmas: 其の, 此の, 或る, 何の, 各, あらゆる, 全, 彼の
 
-The 10 most frequent `DET` types:  その, この, ある, どの, あの, あらゆる
+The 10 most frequent `DET` types:  その, この, ある, どの, 各, あの, あらゆる, 全
 
 The 10 most frequent ambiguous lemmas: 
 
@@ -24,24 +24,24 @@ The 10 most frequent ambiguous types:  ある (<tt><a href="ja_pud-pos-VERB.html
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 1.000000 (the average of all parts of speech is 1.068660).
+The form / lemma ratio of `DET` is 1.000000 (the average of all parts of speech is 1.068686).
 
 The 1st highest number of forms (1) was observed with the lemma “あらゆる”: あらゆる.
 
 The 2nd highest number of forms (1) was observed with the lemma “何の”: どの.
 
-The 3rd highest number of forms (1) was observed with the lemma “其の”: その.
+The 3rd highest number of forms (1) was observed with the lemma “全”: 全.
 
 `DET` does not occur with any features.
 
 
 ## Relations
 
-`DET` nodes are attached to their parents using 1 different relations: <tt><a href="ja_pud-dep-det.html">det</a></tt> (210; 100% instances)
+`DET` nodes are attached to their parents using 1 different relations: <tt><a href="ja_pud-dep-det.html">det</a></tt> (215; 100% instances)
 
-Parents of `DET` nodes belong to 4 different parts of speech: <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> (204; 97% instances), <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> (3; 1% instances), <tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="ja_pud-pos-PRON.html">PRON</a></tt> (1; 0% instances)
+Parents of `DET` nodes belong to 4 different parts of speech: <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> (209; 97% instances), <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> (3; 1% instances), <tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="ja_pud-pos-PRON.html">PRON</a></tt> (1; 0% instances)
 
-208 (99%) `DET` nodes are leaves.
+213 (99%) `DET` nodes are leaves.
 
 2 (1%) `DET` nodes have one child.
 

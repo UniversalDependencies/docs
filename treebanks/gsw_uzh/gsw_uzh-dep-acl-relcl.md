@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of acl:relcl in UD_Swiss_German-UZH'
+title:  'Statistics of acl:relcl in UD_Alemannic-UZH'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Swiss_German-UZH: Relations: `acl:relcl`
+## Treebank Statistics: UD_Alemannic-UZH: Relations: `acl:relcl`
 
 This relation is a language-specific subtype of <tt><a href="gsw_uzh-dep-acl.html">acl</a></tt>.
 

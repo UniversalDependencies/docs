@@ -89,7 +89,7 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 * `Fem` (684; 21% of non-empty `Gender`): <em>тя, която, я, нея, й, коя, Едната, Тази</em>
 * `Masc` (1541; 48% of non-empty `Gender`): <em>той, го, който, му, него, кой, никой, някой, кого, всеки</em>
 * `Neut` (1019; 31% of non-empty `Gender`): <em>това, което, го, то, всичко, нищо, нещо, него, кое, всичкото</em>
-* `EMPTY` (6850): <em>се, си, които, му, ни, те, им, ми, аз, ти</em>
+* `EMPTY` (6851): <em>се, си, които, му, ни, те, им, ми, аз, ти</em>
 
 <table>
   <tr><th>Paradigm <i>аз</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
@@ -129,7 +129,7 @@ The most frequent other feature values with which `DET` and `Gender` co-occurred
 * `Fem` (595; 35% of non-empty `Gender`): <em>тази, една, всяка, каква, нашата, такава, тая, неговата, своята, някаква</em>
 * `Masc` (620; 36% of non-empty `Gender`): <em>този, един, всеки, такъв, своя, какъв, тоя, никакъв, някой, някакъв</em>
 * `Neut` (503; 29% of non-empty `Gender`): <em>това, какво, едно, всяко, такова, своето, тяхното, негово, някакво, нашето</em>
-* `EMPTY` (715): <em>тези, всички, нашите, някои, какви, своите, такива, техните, наши, тия</em>
+* `EMPTY` (714): <em>тези, всички, нашите, някои, какви, своите, такива, техните, наши, тия</em>
 
 <table>
   <tr><th>Paradigm <i>този</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
@@ -189,7 +189,7 @@ The 10 most frequent relations where parent and child node agree in `Gender`:
 <tt>NOUN --[<tt><a href="bg_btb-dep-amod.html">amod</a></tt>]--> ADJ</tt> (7988; 70%),
 <tt>NOUN --[<tt><a href="bg_btb-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (1793; 55%),
 <tt>PROPN --[<tt><a href="bg_btb-dep-flat.html">flat</a></tt>]--> PROPN</tt> (1522; 95%),
-<tt>NOUN --[<tt><a href="bg_btb-dep-det.html">det</a></tt>]--> DET</tt> (1360; 69%),
+<tt>NOUN --[<tt><a href="bg_btb-dep-det.html">det</a></tt>]--> DET</tt> (1359; 69%),
 <tt>PROPN --[<tt><a href="bg_btb-dep-conj.html">conj</a></tt>]--> PROPN</tt> (416; 71%),
 <tt>ADJ --[<tt><a href="bg_btb-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (285; 73%),
 <tt>ADJ --[<tt><a href="bg_btb-dep-conj.html">conj</a></tt>]--> ADJ</tt> (249; 97%),

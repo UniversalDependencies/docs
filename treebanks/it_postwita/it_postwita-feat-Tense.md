@@ -100,7 +100,7 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 
 The 10 most frequent relations where parent and child node agree in `Tense`:
 <tt>VERB --[<tt><a href="it_postwita-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (661; 51%),
-<tt>VERB --[<tt><a href="it_postwita-dep-conj.html">conj</a></tt>]--> VERB</tt> (575; 66%),
+<tt>VERB --[<tt><a href="it_postwita-dep-conj.html">conj</a></tt>]--> VERB</tt> (574; 66%),
 <tt>VERB --[<tt><a href="it_postwita-dep-parataxis-discourse.html">parataxis:discourse</a></tt>]--> VERB</tt> (12; 67%),
 <tt>VERB --[<tt><a href="it_postwita-dep-ccomp.html">ccomp</a></tt>]--> AUX</tt> (2; 67%),
 <tt>VERB --[<tt><a href="it_postwita-dep-dep.html">dep</a></tt>]--> VERB</tt> (2; 100%),

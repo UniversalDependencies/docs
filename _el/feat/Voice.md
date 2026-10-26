@@ -10,6 +10,7 @@ udver: '2'
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Act">Act</a></td>
   <td><a href="#Pass">Pass</a></td>
+   <td><a href="#Mid">Mid</a></td>
 </tr>
 </table>
 
@@ -38,4 +39,14 @@ The subject of the verb is affected by the event (patient). The doer
 
 * _Η Οδύσσεια γράφτηκε από τον Όμηρο._ "Odyssey was written by Homer" (Homer is the doer/controller of the writing event and surfaces as the complemnt of the preposition από that is selected by the passive verb. Odyssey is created, therefore affected by the writing event and surfaces as the subject of the passive verb.)
 
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:11 CET -->
+
+
+### <a name="Mid">`Mid`</a>: middle voice
+
+The subject of the verb denotes both the doer and the entity affected by the event (patient). 
+
+#### Examples
+
+* _Ο Γιάννης ξυρίζεται._ "Yannis is shaving himself" (The entity denoted by "Yannis" is both the doer/controller of the shaving event and the entity affected by the event. "Yannis" surfaces as the subject of the verb.)
+
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:23 CEST -->

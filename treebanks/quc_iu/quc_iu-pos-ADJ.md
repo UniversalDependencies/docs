@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Kiche-IU: POS Tags: `ADJ`
 
 There are 106 `ADJ` lemmas (8%), 118 `ADJ` types (5%) and 331 `ADJ` tokens (3%).
-Out of 15 observed tags, the rank of `ADJ` is: 3 in number of lemmas, 3 in number of types and 8 in number of tokens.
+Out of 16 observed tags, the rank of `ADJ` is: 3 in number of lemmas, 3 in number of types and 8 in number of tokens.
 
 The 10 most frequent `ADJ` lemmas: <em>nim, utz, kʼax, kʼakʼ, jeʼl, sibʼ, alaj, saq, kʼi, mayabʼ</em>
 
@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>utz</em> (<tt><a href="quc_iu-pos-ADJ
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 1.113208 (the average of all parts of speech is 1.617880).
+The form / lemma ratio of `ADJ` is 1.113208 (the average of all parts of speech is 1.617435).
 
 The 1st highest number of forms (4) was observed with the lemma “nim”: <em>nim, nimalaj, nimaq, nimaʼq</em>.
 

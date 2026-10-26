@@ -11,7 +11,7 @@ This relation is universal.
 1148 nodes (18%) are attached to their parents as `punct`.
 
 683 instances of `punct` (59%) are right-to-left (child precedes parent).
-Average distance between parent and child is 6.79355400696864.
+Average distance between parent and child is 6.79442508710801.
 
 The following 10 pairs of parts of speech are connected with `punct`: <tt><a href="cs_poetry-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_poetry-pos-PUNCT.html">PUNCT</a></tt> (736; 64% instances), <tt><a href="cs_poetry-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_poetry-pos-PUNCT.html">PUNCT</a></tt> (216; 19% instances), <tt><a href="cs_poetry-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_poetry-pos-PUNCT.html">PUNCT</a></tt> (100; 9% instances), <tt><a href="cs_poetry-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_poetry-pos-PUNCT.html">PUNCT</a></tt> (37; 3% instances), <tt><a href="cs_poetry-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cs_poetry-pos-PUNCT.html">PUNCT</a></tt> (23; 2% instances), <tt><a href="cs_poetry-pos-DET.html">DET</a></tt>-<tt><a href="cs_poetry-pos-PUNCT.html">PUNCT</a></tt> (14; 1% instances), <tt><a href="cs_poetry-pos-AUX.html">AUX</a></tt>-<tt><a href="cs_poetry-pos-PUNCT.html">PUNCT</a></tt> (11; 1% instances), <tt><a href="cs_poetry-pos-INTJ.html">INTJ</a></tt>-<tt><a href="cs_poetry-pos-PUNCT.html">PUNCT</a></tt> (4; 0% instances), <tt><a href="cs_poetry-pos-PRON.html">PRON</a></tt>-<tt><a href="cs_poetry-pos-PUNCT.html">PUNCT</a></tt> (4; 0% instances), <tt><a href="cs_poetry-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="cs_poetry-pos-PUNCT.html">PUNCT</a></tt> (3; 0% instances).
 

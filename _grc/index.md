@@ -46,23 +46,9 @@ and [Ancient Greek features](feat/index.html).
   * Infinitive `Inf`, tagged [VERB]() or [AUX]().
   * Participle `Part`, tagged [VERB]() or [AUX]().
 
-### Features
-
-*
-
----
-**Instruction**: Describe inherent and inflectional features for major word classes (at least NOUN and VERB). Describe other noteworthy features. Include links to language-specific feature definitions if any.
-
----
-
 ## Syntax
 
 * Besides universal subtypes, PROIEL uses one language-specific dependency subtype, [advcl:cmp]() for adverbial clauses of comparison
-
----
-**Instruction**: Give criteria for identifying core arguments (subjects and objects), and describe the range of copula constructions in nonverbal clauses. List all subtype relations used. Include links to language-specific relations definitions if any.
-
----
 
 ## Treebanks
 

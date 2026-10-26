@@ -22,13 +22,13 @@ The following 54 pairs of parts of speech are connected with `orphan`: <tt><a hr
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 3 orphan	color:blue
-1	oculum	oculus	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	0	root	_	ref=MATT_5.38
-2	pro	pro	ADP	R-	_	3	case	_	ref=MATT_5.38
-3	oculo	oculus	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	1	orphan	_	ref=MATT_5.38
-4	et	et	CCONJ	C-	_	5	cc	_	ref=MATT_5.38
-5	dentem	dens	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	1	conj	_	ref=MATT_5.38
-6	pro	pro	ADP	R-	_	7	case	_	ref=MATT_5.38
-7	dente	dens	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	5	orphan	_	ref=MATT_5.38
+1	oculum	oculus	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	0	root	_	Ref=MATT_5.38
+2	pro	pro	ADP	R-	_	3	case	_	Ref=MATT_5.38
+3	oculo	oculus	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	1	orphan	_	Ref=MATT_5.38
+4	et	et	CCONJ	C-	_	5	cc	_	Ref=MATT_5.38
+5	dentem	dens	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	1	conj	_	Ref=MATT_5.38
+6	pro	pro	ADP	R-	_	7	case	_	Ref=MATT_5.38
+7	dente	dens	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	5	orphan	_	Ref=MATT_5.38
 
 ~~~
 
@@ -39,12 +39,12 @@ The following 54 pairs of parts of speech are connected with `orphan`: <tt><a hr
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 3 orphan	color:blue
-1	et	et	CCONJ	C-	_	2	cc	_	ref=ACTS_10.15
-2	vox	vox	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	0	root	_	ref=ACTS_10.15
-3	iterum	iterum	ADV	Df	_	2	orphan	_	ref=ACTS_10.15
-4	secundo	secundo	ADV	Df	_	2	orphan	_	ref=ACTS_10.15
-5	ad	ad	ADP	R-	_	6	case	_	ref=ACTS_10.15
-6	eum	is	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	orphan	_	ref=ACTS_10.15
+1	et	et	CCONJ	C-	_	2	cc	_	Ref=ACTS_10.15
+2	vox	vox	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	0	root	_	Ref=ACTS_10.15
+3	iterum	iterum	ADV	Df	_	2	orphan	_	Ref=ACTS_10.15
+4	secundo	secundo	ADV	Df	_	2	orphan	_	Ref=ACTS_10.15
+5	ad	ad	ADP	R-	_	6	case	_	Ref=ACTS_10.15
+6	eum	is	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	orphan	_	Ref=ACTS_10.15
 
 ~~~
 
@@ -55,16 +55,16 @@ The following 54 pairs of parts of speech are connected with `orphan`: <tt><a hr
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 4 orphan	color:blue
-1	et	et	CCONJ	C-	_	3	cc	_	ref=LUKE_5.18
-2	ecce	ecce	INTJ	I-	_	3	discourse	_	ref=LUKE_5.18
-3	viri	vir	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	0	root	_	ref=LUKE_5.18
-4	portantes	porto	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	3	orphan	_	ref=LUKE_5.18
-5	in	in	ADP	R-	_	6	case	_	ref=LUKE_5.18
-6	lecto	lectus	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	4	obl	_	ref=LUKE_5.18
-7	hominem	homo	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	4	obj	_	ref=LUKE_5.18
-8	qui	qui	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	10	nsubj	_	ref=LUKE_5.18
-9	erat	sum	AUX	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	10	cop	_	ref=LUKE_5.18
-10	paralyticus	paralyticus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	7	acl	_	ref=LUKE_5.18
+1	et	et	CCONJ	C-	_	3	cc	_	Ref=LUKE_5.18
+2	ecce	ecce	INTJ	I-	_	3	discourse	_	Ref=LUKE_5.18
+3	viri	vir	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	0	root	_	Ref=LUKE_5.18
+4	portantes	porto	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	3	orphan	_	Ref=LUKE_5.18
+5	in	in	ADP	R-	_	6	case	_	Ref=LUKE_5.18
+6	lecto	lectus	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	4	obl	_	Ref=LUKE_5.18
+7	hominem	homo	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	4	obj	_	Ref=LUKE_5.18
+8	qui	qui	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	10	nsubj	_	Ref=LUKE_5.18
+9	erat	sum	AUX	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	10	cop	_	Ref=LUKE_5.18
+10	paralyticus	paralyticus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	7	acl	_	Ref=LUKE_5.18
 
 ~~~
 

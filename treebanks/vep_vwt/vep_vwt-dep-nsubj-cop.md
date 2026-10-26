@@ -23,7 +23,7 @@ The following 11 pairs of parts of speech are connected with `nsubj:cop`: <tt><a
 # visual-style 5	fgColor:white
 # visual-style 5 3 nsubj:cop	color:blue
 1	Tatan	tat	NOUN	_	Case=Gen|Number=Sing	5	nmod	_	_
-2	polespäi	pol'	NOUN	_	Case=Ela|Number=Sing	5	obl	_	_
+2	polespäi	polʼ	NOUN	_	Case=Ela|Number=Sing	5	obl	_	_
 3	kaik	kaik	PRON	_	Case=Nom|Number=Sing|PronType=Tot	5	nsubj:cop	_	_
 4	oma	olda	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	_
 5	vepsläižed	vepsläine	NOUN	_	Case=Nom|Number=Plur	0	root	_	_
@@ -39,7 +39,7 @@ The following 11 pairs of parts of speech are connected with `nsubj:cop`: <tt><a
 # visual-style 3	fgColor:white
 # visual-style 3 2 nsubj:cop	color:blue
 1	Vepsän	vepsän	ADJ	_	Case=Gen|Number=Sing	2	amod	_	_
-2	kel't	kel'	NOUN	_	Case=Par|Number=Sing	3	nsubj:cop	_	_
+2	kelʼt	kelʼ	NOUN	_	Case=Par|Number=Sing	3	nsubj:cop	_	_
 3	školas	škol	NOUN	_	Case=Ine|Number=Sing	0	root	_	_
 4	ei	ei	AUX	_	Number=Sing|Person=3|Polarity=Neg	3	aux	_	_
 5	olend	olda	AUX	_	Connegative=Yes|Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	3	cop	_	_

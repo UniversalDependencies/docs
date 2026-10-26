@@ -23,10 +23,10 @@ The following 1 pairs of parts of speech are connected with `obl:cau`: <tt><a hr
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 2 obl:cau	color:blue
-1	Ал	ал	PRON	_	_	4	nsubj	_	_
-2	күйѳѳсүнѳ	күйѳ	NOUN	_	_	4	obl:cau	_	_
-3	унааны	унаа	NOUN	_	_	4	obj	_	_
-4	жуудурду	жуу	VERB	_	_	0	root	_	SpaceAfter=No
+1	Ал	ал	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+2	күйөөсүнө	күйө	NOUN	_	Case=Dat|Number=Sing	4	obl:cau	_	_
+3	унааны	унаа	NOUN	_	Case=Acc|Number=Sing	4	obj	_	_
+4	жуудурду	жуу	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Cau	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	4	punct	_	_
 
 ~~~

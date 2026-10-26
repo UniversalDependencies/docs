@@ -22,10 +22,10 @@ The following 8 pairs of parts of speech are connected with `root`: -<tt><a href
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 4 root	color:blue
-1	መጽሐፍ	መጽሐፍ	NOUN	NOUN	_	4	obj	_	Translit=mäcəħäfə|LTranslit=mäcəħäfə
-2	ኡ	ኡ	DET	DET	_	1	det	_	Translit='u|LTranslit='u
-3	ን	ን	PART	ACC	_	1	case	_	Translit=nə|LTranslit=nə
-4	አስያዝ	አስያዝ	VERB	VERB	Mood=Ind|VerbForm=Fin|Voice=Cau	0	root	_	Translit='äsəjazə|LTranslit='äsəjazə
+1	መጽሐፍ	መጽሐፍ	NOUN	NOUN	_	4	obj	_	LTranslit=mäcəħäfə|Translit=mäcəħäfə
+2	ኡ	ኡ	DET	DET	PronType=Art	1	det	_	LTranslit='u|Translit='u
+3	ን	ን	PART	ACC	_	1	case	_	LTranslit=nə|Translit=nə
+4	አስያዝ	አስያዝ	VERB	VERB	Mood=Ind|VerbForm=Fin|Voice=Cau	0	root	_	LTranslit='äsəjazə|Translit='äsəjazə
 5	ኧ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	LTranslit='əsu|Translit='ă
 6	ኣት	እሱ	PRON	OBJC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	iobj	_	LTranslit='əsu|Translit='atə
 7	።	።	PUNCT	PUNCT	_	4	punct	_	Translit=.|LTranslit=.

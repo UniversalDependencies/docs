@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.1 release.
 The following people have contributed to making this treebank part of UD: Hans Uszkoreit, Vivien Macketanz, Aljoscha Burchardt, Georg Rehm, Kim Harris, Katrin Marheinecke, Slav Petrov, Tolga Kayadelen, Mohammed Attia, Ali Elkahky, Zhuoran Yu, Emily Pitler, Saran Lertpradit, Michael Mandl, Sebastian Bank, Martin Popel, Daniel Zeman.
 
 Repository: [UD_German-PUD](https://github.com/UniversalDependencies/UD_German-PUD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udde_pud215)<br />
-Download all treebanks: [UD 2.15](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udde_pud218)<br />
+Download all treebanks: [UD 2.18](/#download)
 
 License: CC BY-SA 3.0
 
@@ -86,7 +86,7 @@ employ ten-fold cross-validation.
 
 ## Features
 
-[Abbr](de_pud-feat-Abbr.html) – [AdpType](de_pud-feat-AdpType.html) – [Case](de_pud-feat-Case.html) – [Definite](de_pud-feat-Definite.html) – [Degree](de_pud-feat-Degree.html) – [Foreign](de_pud-feat-Foreign.html) – [Gender](de_pud-feat-Gender.html) – [Gender[psor]](de_pud-feat-Gender-psor.html) – [Mood](de_pud-feat-Mood.html) – [Number](de_pud-feat-Number.html) – [Number[psor]](de_pud-feat-Number-psor.html) – [NumType](de_pud-feat-NumType.html) – [Person](de_pud-feat-Person.html) – [Polarity](de_pud-feat-Polarity.html) – [Polite](de_pud-feat-Polite.html) – [Poss](de_pud-feat-Poss.html) – [PronType](de_pud-feat-PronType.html) – [Reflex](de_pud-feat-Reflex.html) – [Tense](de_pud-feat-Tense.html) – [VerbForm](de_pud-feat-VerbForm.html)
+[Abbr](de_pud-feat-Abbr.html) – [AdpType](de_pud-feat-AdpType.html) – [Case](de_pud-feat-Case.html) – [Definite](de_pud-feat-Definite.html) – [Degree](de_pud-feat-Degree.html) – [ExtPos](de_pud-feat-ExtPos.html) – [Foreign](de_pud-feat-Foreign.html) – [Gender](de_pud-feat-Gender.html) – [Gender[psor]](de_pud-feat-Gender-psor.html) – [Mood](de_pud-feat-Mood.html) – [Number](de_pud-feat-Number.html) – [Number[psor]](de_pud-feat-Number-psor.html) – [NumType](de_pud-feat-NumType.html) – [Person](de_pud-feat-Person.html) – [Polarity](de_pud-feat-Polarity.html) – [Polite](de_pud-feat-Polite.html) – [Poss](de_pud-feat-Poss.html) – [PronType](de_pud-feat-PronType.html) – [Reflex](de_pud-feat-Reflex.html) – [Tense](de_pud-feat-Tense.html) – [VerbForm](de_pud-feat-VerbForm.html)
 
 ## Relations
 
@@ -157,7 +157,6 @@ employ ten-fold cross-validation.
   <li>Fin
   <ul>
     <li>AUX: war</li>
-    <li>VERB: bleiben</li>
   </ul>
   </li>
 </ul>
@@ -357,7 +356,7 @@ employ ten-fold cross-validation.
   <li>Pos
     <ul>
       <li>ADJ: ersten, neue, letzten, bekannt, möglich, neuen, groß, große, politischen, Vereinigten</li>
-      <li>ADV: auch, so, noch, nur, sehr, jedoch, mehr, immer, wieder, dann</li>
+      <li>ADV: auch, so, noch, nur, sehr, wieder, jedoch, immer, mehr, zurück</li>
     </ul>
   </li>
 </ul>
@@ -709,6 +708,18 @@ employ ten-fold cross-validation.
 </ul>
 
 <ul>
+  <li><a>ExtPos</a>
+    <ul>
+      <li>ADV
+        <ul>
+          <li>ADV: mehr, so</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li><a>Foreign</a>
     <ul>
       <li>Yes
@@ -757,7 +768,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--NOUN (1)</li>
       <li>VERB--NOUN-Nom (538)</li>
       <li>VERB--PRON-Nom (445)</li>
-      <li>VERB-Fin--PRON-Nom (1)</li>
+      <li>VERB-Inf--PRON-Nom (1)</li>
     </ul>
   </li>
 </ul>

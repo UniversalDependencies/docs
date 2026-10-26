@@ -51,7 +51,7 @@ The most frequent other feature values with which `ADJ` and `Definite` co-occurr
 
 <table>
   <tr><th>Paradigm <i>mye</i></th><th><tt>Ind</tt></th><th><tt>Def</tt></th></tr>
-  <tr><td><tt><tt><a href="no_bokmaal-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="no_bokmaal-feat-Gender.html">Gender</a></tt><tt>=Fem,Masc</tt>|<tt><a href="no_bokmaal-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>mye</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="no_bokmaal-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="no_bokmaal-feat-Gender.html">Gender</a></tt><tt>=Com</tt>|<tt><a href="no_bokmaal-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>mye</em></td><td></td></tr>
   <tr><td><tt><tt><a href="no_bokmaal-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="no_bokmaal-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="no_bokmaal-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>mye</em></td><td></td></tr>
   <tr><td><tt><tt><a href="no_bokmaal-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="no_bokmaal-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>mye</em></td></tr>
   <tr><td><tt><tt><a href="no_bokmaal-feat-Degree.html">Degree</a></tt><tt>=Sup</tt></tt></td><td><em>mest</em></td><td><em>meste</em></td></tr>
@@ -107,10 +107,10 @@ The 10 most frequent relations where parent and child node agree in `Definite`:
 <tt>NOUN --[<tt><a href="no_bokmaal-dep-conj.html">conj</a></tt>]--> NOUN</tt> (3382; 85%),
 <tt>ADJ --[<tt><a href="no_bokmaal-dep-advmod.html">advmod</a></tt>]--> ADJ</tt> (1027; 54%),
 <tt>ADJ --[<tt><a href="no_bokmaal-dep-conj.html">conj</a></tt>]--> ADJ</tt> (569; 87%),
-<tt>NOUN --[<tt><a href="no_bokmaal-dep-obl.html">obl</a></tt>]--> NOUN</tt> (340; 58%),
+<tt>NOUN --[<tt><a href="no_bokmaal-dep-obl.html">obl</a></tt>]--> NOUN</tt> (358; 58%),
 <tt>NOUN --[<tt><a href="no_bokmaal-dep-appos.html">appos</a></tt>]--> NOUN</tt> (180; 53%),
 <tt>NOUN --[<tt><a href="no_bokmaal-dep-xcomp.html">xcomp</a></tt>]--> NOUN</tt> (53; 51%),
-<tt>DET --[<tt><a href="no_bokmaal-dep-advmod.html">advmod</a></tt>]--> ADJ</tt> (29; 67%),
 <tt>ADJ --[<tt><a href="no_bokmaal-dep-advcl.html">advcl</a></tt>]--> ADJ</tt> (27; 63%),
-<tt>ADJ --[<tt><a href="no_bokmaal-dep-csubj.html">csubj</a></tt>]--> NOUN</tt> (27; 82%).
+<tt>ADJ --[<tt><a href="no_bokmaal-dep-csubj.html">csubj</a></tt>]--> NOUN</tt> (27; 82%),
+<tt>ADJ --[<tt><a href="no_bokmaal-dep-csubj.html">csubj</a></tt>]--> ADJ</tt> (16; 76%).
 

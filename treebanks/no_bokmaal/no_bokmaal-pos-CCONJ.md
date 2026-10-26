@@ -60,7 +60,7 @@ The 10 most frequent ambiguous types:  <em>og</em> (<tt><a href="no_bokmaal-pos-
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.230769 (the average of all parts of speech is 1.381699).
+The form / lemma ratio of `CCONJ` is 1.230769 (the average of all parts of speech is 1.381641).
 
 The 1st highest number of forms (2) was observed with the lemma “eller”: <em>elle, eller</em>.
 
@@ -75,7 +75,7 @@ The 3rd highest number of forms (2) was observed with the lemma “og”: <em>og
 
 `CCONJ` nodes are attached to their parents using 7 different relations: <tt><a href="no_bokmaal-dep-cc.html">cc</a></tt> (10711; 99% instances), <tt><a href="no_bokmaal-dep-flat-name.html">flat:name</a></tt> (51; 0% instances), <tt><a href="no_bokmaal-dep-conj.html">conj</a></tt> (10; 0% instances), <tt><a href="no_bokmaal-dep-compound.html">compound</a></tt> (6; 0% instances), <tt><a href="no_bokmaal-dep-root.html">root</a></tt> (4; 0% instances), <tt><a href="no_bokmaal-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="no_bokmaal-dep-reparandum.html">reparandum</a></tt> (1; 0% instances)
 
-Parents of `CCONJ` nodes belong to 14 different parts of speech: <tt><a href="no_bokmaal-pos-VERB.html">VERB</a></tt> (4186; 39% instances), <tt><a href="no_bokmaal-pos-NOUN.html">NOUN</a></tt> (3930; 36% instances), <tt><a href="no_bokmaal-pos-ADJ.html">ADJ</a></tt> (1382; 13% instances), <tt><a href="no_bokmaal-pos-PROPN.html">PROPN</a></tt> (819; 8% instances), <tt><a href="no_bokmaal-pos-PRON.html">PRON</a></tt> (138; 1% instances), <tt><a href="no_bokmaal-pos-ADP.html">ADP</a></tt> (91; 1% instances), <tt><a href="no_bokmaal-pos-DET.html">DET</a></tt> (73; 1% instances), <tt><a href="no_bokmaal-pos-ADV.html">ADV</a></tt> (69; 1% instances), <tt><a href="no_bokmaal-pos-NUM.html">NUM</a></tt> (68; 1% instances), <tt><a href="no_bokmaal-pos-PART.html">PART</a></tt> (12; 0% instances), <tt><a href="no_bokmaal-pos-CCONJ.html">CCONJ</a></tt> (7; 0% instances),  (4; 0% instances), <tt><a href="no_bokmaal-pos-SYM.html">SYM</a></tt> (4; 0% instances), <tt><a href="no_bokmaal-pos-INTJ.html">INTJ</a></tt> (1; 0% instances)
+Parents of `CCONJ` nodes belong to 15 different parts of speech: <tt><a href="no_bokmaal-pos-VERB.html">VERB</a></tt> (4186; 39% instances), <tt><a href="no_bokmaal-pos-NOUN.html">NOUN</a></tt> (3930; 36% instances), <tt><a href="no_bokmaal-pos-ADJ.html">ADJ</a></tt> (1382; 13% instances), <tt><a href="no_bokmaal-pos-PROPN.html">PROPN</a></tt> (818; 8% instances), <tt><a href="no_bokmaal-pos-PRON.html">PRON</a></tt> (138; 1% instances), <tt><a href="no_bokmaal-pos-ADP.html">ADP</a></tt> (91; 1% instances), <tt><a href="no_bokmaal-pos-DET.html">DET</a></tt> (73; 1% instances), <tt><a href="no_bokmaal-pos-ADV.html">ADV</a></tt> (69; 1% instances), <tt><a href="no_bokmaal-pos-NUM.html">NUM</a></tt> (68; 1% instances), <tt><a href="no_bokmaal-pos-PART.html">PART</a></tt> (12; 0% instances), <tt><a href="no_bokmaal-pos-CCONJ.html">CCONJ</a></tt> (7; 0% instances),  (4; 0% instances), <tt><a href="no_bokmaal-pos-SYM.html">SYM</a></tt> (4; 0% instances), <tt><a href="no_bokmaal-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="no_bokmaal-pos-X.html">X</a></tt> (1; 0% instances)
 
 10737 (100%) `CCONJ` nodes are leaves.
 

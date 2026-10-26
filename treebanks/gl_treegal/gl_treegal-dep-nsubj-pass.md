@@ -35,7 +35,7 @@ The following 4 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 11	país	país	NOUN	Scms	Gender=Masc|Number=Sing	8	nmod	_	SpaceAfter=No
 12	,	,	PUNCT	Q,	_	3	punct	_	_
 13	logrou	lograr	VERB	Vei30s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-14	non	non	ADV	Wn	_	13	advmod	_	_
+14	non	non	ADV	Wn	ExtPos=ADV	13	advmod	_	_
 15	obstante	obstante	ADJ	A0as	Gender=Com	14	fixed	_	_
 16	que	que	SCONJ	Cs	_	24	mark	_	_
 17	esta	este	DET	Edfs	Gender=Fem|Number=Sing|PronType=Dem	18	det	_	_

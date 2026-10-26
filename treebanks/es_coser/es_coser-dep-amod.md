@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-87 nodes (1%) are attached to their parents as `amod`.
+89 nodes (1%) are attached to their parents as `amod`.
 
-64 instances of `amod` (74%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.73563218390805.
+64 instances of `amod` (72%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.71910112359551.
 
-The following 16 pairs of parts of speech are connected with `amod`: <tt><a href="es_coser-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_coser-pos-ADJ.html">ADJ</a></tt> (62; 71% instances), <tt><a href="es_coser-pos-PRON.html">PRON</a></tt>-<tt><a href="es_coser-pos-ADJ.html">ADJ</a></tt> (7; 8% instances), <tt><a href="es_coser-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_coser-pos-DET.html">DET</a></tt> (3; 3% instances), <tt><a href="es_coser-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_coser-pos-ADJ.html">ADJ</a></tt> (2; 2% instances), <tt><a href="es_coser-pos-VERB.html">VERB</a></tt>-<tt><a href="es_coser-pos-ADV.html">ADV</a></tt> (2; 2% instances), <tt><a href="es_coser-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_coser-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="es_coser-pos-ADV.html">ADV</a></tt>-<tt><a href="es_coser-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="es_coser-pos-AUX.html">AUX</a></tt>-<tt><a href="es_coser-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="es_coser-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_coser-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="es_coser-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_coser-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="es_coser-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_coser-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="es_coser-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_coser-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="es_coser-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_coser-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="es_coser-pos-PRON.html">PRON</a></tt>-<tt><a href="es_coser-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="es_coser-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_coser-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="es_coser-pos-VERB.html">VERB</a></tt>-<tt><a href="es_coser-pos-ADJ.html">ADJ</a></tt> (1; 1% instances).
+The following 16 pairs of parts of speech are connected with `amod`: <tt><a href="es_coser-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_coser-pos-ADJ.html">ADJ</a></tt> (62; 70% instances), <tt><a href="es_coser-pos-PRON.html">PRON</a></tt>-<tt><a href="es_coser-pos-ADJ.html">ADJ</a></tt> (7; 8% instances), <tt><a href="es_coser-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_coser-pos-DET.html">DET</a></tt> (3; 3% instances), <tt><a href="es_coser-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_coser-pos-ADJ.html">ADJ</a></tt> (3; 3% instances), <tt><a href="es_coser-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_coser-pos-ADJ.html">ADJ</a></tt> (2; 2% instances), <tt><a href="es_coser-pos-VERB.html">VERB</a></tt>-<tt><a href="es_coser-pos-ADV.html">ADV</a></tt> (2; 2% instances), <tt><a href="es_coser-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_coser-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="es_coser-pos-ADV.html">ADV</a></tt>-<tt><a href="es_coser-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="es_coser-pos-AUX.html">AUX</a></tt>-<tt><a href="es_coser-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="es_coser-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_coser-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="es_coser-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_coser-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="es_coser-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_coser-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="es_coser-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_coser-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="es_coser-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_coser-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="es_coser-pos-PRON.html">PRON</a></tt>-<tt><a href="es_coser-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="es_coser-pos-VERB.html">VERB</a></tt>-<tt><a href="es_coser-pos-ADJ.html">ADJ</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -52,7 +52,7 @@ The following 16 pairs of parts of speech are connected with `amod`: <tt><a href
 2	pero	pero	CCONJ	cc	_	4	cc	_	_
 3	era	ser	AUX	vsii3s0	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	cop	_	_
 4	natural	natural	ADJ	aq0cs0	Number=Sing	0	root	_	SpaceAfter=No
-5	,	,	PUNCT	fc	PunctType=Comm	4	punct	_	_
+5	,	,	PUNCT	fc	PunctType=Comm	6	punct	_	_
 6	todo	todo	PRON	di0ms0	Gender=Masc|Number=Sing|PronType=Tot	4	nsubj	_	_
 7	natural	natural	ADJ	aq0cs0	Number=Sing	6	amod	_	SpaceAfter=No
 8	.	.	PUNCT	fp	PunctType=Peri	4	punct	_	_

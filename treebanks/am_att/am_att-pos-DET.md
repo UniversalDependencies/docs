@@ -60,7 +60,7 @@ The 10 most frequent ambiguous types:  ኡ (<tt><a href="am_att-pos-DET.html">DE
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 1.000000 (the average of all parts of speech is 1.029841).
+The form / lemma ratio of `DET` is 1.000000 (the average of all parts of speech is 1.029860).
 
 The 1st highest number of forms (1) was observed with the lemma “ምነው”: ምነው.
 
@@ -68,13 +68,13 @@ The 2nd highest number of forms (1) was observed with the lemma “ብዙ”: �
 
 The 3rd highest number of forms (1) was observed with the lemma “ኡ”: ኡ.
 
-`DET` occurs with 3 features: <tt><a href="am_att-feat-Gender.html">Gender</a></tt> (4; 1% instances), <tt><a href="am_att-feat-Number.html">Number</a></tt> (2; 0% instances), <tt><a href="am_att-feat-Person.html">Person</a></tt> (2; 0% instances)
+`DET` occurs with 5 features: <tt><a href="am_att-feat-PronType.html">PronType</a></tt> (482; 100% instances), <tt><a href="am_att-feat-Poss.html">Poss</a></tt> (6; 1% instances), <tt><a href="am_att-feat-Gender.html">Gender</a></tt> (4; 1% instances), <tt><a href="am_att-feat-Number.html">Number</a></tt> (2; 0% instances), <tt><a href="am_att-feat-Person.html">Person</a></tt> (2; 0% instances)
 
-`DET` occurs with 4 feature-value pairs: `Gender=Fem`, `Gender=Masc`, `Number=Sing`, `Person=3`
+`DET` occurs with 12 feature-value pairs: `Gender=Fem`, `Gender=Masc`, `Number=Sing`, `Person=3`, `Poss=Yes`, `PronType=Art`, `PronType=Dem`, `PronType=Exc`, `PronType=Ind`, `PronType=Int`, `PronType=Prs`, `PronType=Tot`
 
-`DET` occurs with 4 feature combinations.
-The most frequent feature combination is `_` (477 tokens).
-Examples: ኡ, ው, ይህ, እዚህ, ዋ, ይህን, ኤ, እዚያ, እየ, ያ
+`DET` occurs with 10 feature combinations.
+The most frequent feature combination is `PronType=Art` (409 tokens).
+Examples: ኡ, ው, ዋ, ዬ_ው, ዬ
 
 
 ## Relations

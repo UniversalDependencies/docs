@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-361 nodes (0%) are attached to their parents as `ccomp`.
+362 nodes (0%) are attached to their parents as `ccomp`.
 
-361 instances of `ccomp` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.14404432132964.
+362 instances of `ccomp` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.14640883977901.
 
-The following 4 pairs of parts of speech are connected with `ccomp`: <tt><a href="ja_gsdluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_gsdluw-pos-VERB.html">VERB</a></tt> (252; 70% instances), <tt><a href="ja_gsdluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_gsdluw-pos-ADJ.html">ADJ</a></tt> (73; 20% instances), <tt><a href="ja_gsdluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt> (35; 10% instances), <tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_gsdluw-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
+The following 4 pairs of parts of speech are connected with `ccomp`: <tt><a href="ja_gsdluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_gsdluw-pos-VERB.html">VERB</a></tt> (252; 70% instances), <tt><a href="ja_gsdluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_gsdluw-pos-ADJ.html">ADJ</a></tt> (73; 20% instances), <tt><a href="ja_gsdluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt> (36; 10% instances), <tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_gsdluw-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

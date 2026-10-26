@@ -49,6 +49,6 @@ The 10 most frequent relations where parent and child node agree in `NumType`:
 <tt>NUM --[<tt><a href="tr_imst-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (10; 100%),
 <tt>NUM --[<tt><a href="tr_imst-dep-compound.html">compound</a></tt>]--> NUM</tt> (8; 100%),
 <tt>NUM --[<tt><a href="tr_imst-dep-compound-redup.html">compound:redup</a></tt>]--> NUM</tt> (3; 100%),
-<tt>NUM --[<tt><a href="tr_imst-dep-obj.html">obj</a></tt>]--> NUM</tt> (1; 100%),
-<tt>NUM --[<tt><a href="tr_imst-dep-obl.html">obl</a></tt>]--> NUM</tt> (1; 100%).
+<tt>NUM --[<tt><a href="tr_imst-dep-nmod.html">nmod</a></tt>]--> NUM</tt> (1; 100%),
+<tt>NUM --[<tt><a href="tr_imst-dep-obj.html">obj</a></tt>]--> NUM</tt> (1; 100%).
 

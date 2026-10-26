@@ -11,7 +11,7 @@ This relation is universal.
 234 nodes (0%) are attached to their parents as `flat`.
 
 234 instances of `flat` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.48290598290598.
+Average distance between parent and child is 1.47008547008547.
 
 The following 5 pairs of parts of speech are connected with `flat`: <tt><a href="af_afribooms-pos-PROPN.html">PROPN</a></tt>-<tt><a href="af_afribooms-pos-PROPN.html">PROPN</a></tt> (229; 98% instances), <tt><a href="af_afribooms-pos-X.html">X</a></tt>-<tt><a href="af_afribooms-pos-X.html">X</a></tt> (2; 1% instances), <tt><a href="af_afribooms-pos-PROPN.html">PROPN</a></tt>-<tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="af_afribooms-pos-PROPN.html">PROPN</a></tt>-<tt><a href="af_afribooms-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="af_afribooms-pos-SYM.html">SYM</a></tt>-<tt><a href="af_afribooms-pos-SYM.html">SYM</a></tt> (1; 0% instances).
 

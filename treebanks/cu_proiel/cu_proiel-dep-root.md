@@ -51,11 +51,11 @@ The following 11 pairs of parts of speech are connected with `root`: -<tt><a hre
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 3 root	color:blue
-1	Бж҃е	богъ	NOUN	Nb	Case=Voc|Gender=Masc|Number=Sing	3	vocative	_	ref=76.14
-2	вь	въ	ADP	R-	_	3	case	_	ref=76.14
-3	ст҃ѣмь	свѧтъ	ADJ	A-	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	0	root	_	ref=76.14
-4	пѫть	пѫть	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	ref=76.14
-5	твої	твои	DET	Ps	Case=Nom|Gender=Masc|Number=Sing|Person=2|Poss=Yes	4	det	_	ref=76.14
+1	Бж҃е	богъ	NOUN	Nb	Case=Voc|Gender=Masc|Number=Sing	3	vocative	_	Ref=76.14
+2	вь	въ	ADP	R-	_	3	case	_	Ref=76.14
+3	ст҃ѣмь	свѧтъ	ADJ	A-	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	0	root	_	Ref=76.14
+4	пѫть	пѫть	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	Ref=76.14
+5	твої	твои	DET	Ps	Case=Nom|Gender=Masc|Number=Sing|Person=2|Poss=Yes	4	det	_	Ref=76.14
 
 ~~~
 

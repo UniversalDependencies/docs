@@ -13,4 +13,4 @@ lit: whatever she says forgotten is
 "whatever she says is forgotten" 
 csubj:pass(zabávi, víka) 
 ~~~
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:45 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:57 CEST -->

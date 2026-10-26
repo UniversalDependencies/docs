@@ -10,18 +10,18 @@ udver: '2'
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Aor">Aor</a></td>
   <td><a href="#Hab">Hab</a></td>
-  <td><a href="#Iter">Iter</a></td>
   <td><a href="#Perf">Perf</a></td>
   <td><a href="#PerfBkg">PerfBkg</a></td>
   <td><a href="#PerfNeg">PerfNeg</a></td>
   <td><a href="#Prog">Prog</a></td>
   <td><a href="#ProgBkg">ProgBkg</a></td>
-  <td><a href="#ProgLocBkg">ProgLocBkg</a></td>
   <td><a href="#ProgNeg">ProgNeg</a></td>
+  <td><a href="#Iter">Iter</a></td>
+  
 </tr>
 </table>
 
-In Hausa, aspect is a feature of auxiliaries and particles that specifies the duration and completion of processes in time.
+In Hausa, aspect is a feature of auxiliaries and particles that specify the duration and completion of processes in time.
 
 ### <a name="Aor">`Aor`</a>: aorist aspect
 
@@ -73,13 +73,6 @@ The negative progressive aspect replaces the progressive aspect to express negat
 #### Examples
 - _<b>baːkà</b> mânceːwà //_ "You <b>won't</b> forget."
 
-### <a name="ProgLocBkg">`ProgLocBkg`</a>: backgrounded locative progressive aspect
-
-This variant appears in backgrounded predicational and locative uses of the progressive construction. 
-
-#### Examples
-- _kaː ga à yandà alʼamur̃àn nan <b>sukè</b> //_ "You see how things <b>are</b>."
-
 ### <a name="Hab">`Hab`</a>: habitual aspect
 
 The habitual aspect expresses a process that tends to occur frequently.
@@ -87,11 +80,11 @@ The habitual aspect expresses a process that tends to occur frequently.
 #### Examples
 - _<b>akàn</b> sàːmi matsalaː irìn na wânnan //_ " We <b>usually</b> get that kind of problem."
 
-### <a name="Iter">`Iter`</a>: iterative / frequentative aspect
+### <a name="Iter">`Iter`</a>: iterative aspect
 
-The iterative / frequentative aspect is combined with the progressive aspect to denote a repeated action.
+The iterative aspect denotes a repeated or habitual process. It is expressed by the adverbial particle 'ta' combined with the Progressive Aspect or the verb 'yi' in the other TAMs. 
 
 #### Examples
-- _munàː <b>ta</b> kaucè hanyàː //_ " We <b>kept</b> straying from the path."
+- _shiː shì yi <b>ta</b> sôm màcce //_ "He keeps loving the woman."
 
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:32 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:43 CEST -->
