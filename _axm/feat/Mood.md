@@ -22,7 +22,7 @@ Mood is a feature that expresses modality and subclassifies finite verb forms. S
 
 The indicative can be considered the default mood. A verb in the indicative merely states that something happens, has happened or will happen, without adding any attitude of the speaker.
 The imperfect tense of the indicative mood exhibits several patterns of formation. Note that in Middle Armenian the present and imperfect tenses of the indicative mood that are formed with the auxiliary _կու (կ, կոյ)_/_kow (k, koy)_ have the same forms as the present and imperfect tenses of the conditional mood (see below). They cannot be distinguished without context.
-The negative forms of the present and imperfect tenses of the indicative (as well as the conditional) mood exhibit variation in their formation. Besides the bound negative morpheme չ-/č-, negation may also be expressed by a construction consisting of a negative auxiliary followed by a verb in the infinitive, with or without the preposition _ի_/_i_.
+The negative forms of the present and imperfect indicative (as well as conditional) mood exhibit variation in their formation. Besides the bound negative morpheme չ-/č-, negation may also be expressed by a construction consisting of a negative auxiliary followed by a verb in the infinitive, with or without the preposition _ի_/_i_ (traditionally called _negative participle_). The infinitive may also occur with the ending _-ր_/_-r_.
 
 #### Examples
 
@@ -43,11 +43,14 @@ The negative forms of the present and imperfect tenses of the indicative (as wel
 
 The conditional mood is used to express actions that would have taken place under some circumstances but they actually did not / do not happen. In Middle Armenian, it combines with two different tenses (present and imperfect).Note that in Middle Armenian the present and imperfect tenses of the conditional mood that are formed with the auxiliary _կու (կ, կոյ)_/_kow (k, koy)_ have the same forms as the present and imperfect tenses of the indicative mood (see above).
 
-The negation of conditional mood is formed periphrastically using the special form of main verb (traditionally called _negative participle_) and negated auxiliary _չեմ_ “not to be”. The main verb is marked as [Connegative]().
+The negation of conditional mood is formed periphrastically and shares the same form with the indicative negative forms (see above). The main verb is marked as [Connegative]().
 
 #### Examples
-* _դու անդ մի՛ գար, թէ չէ յայնմանէ կելանեմ_/_dow and mi՛ gar, tʼē čē yaynmanē kelanem_ “do not come over there, lest I come out of that”
-* _մի՛ խաւսիր ի մէջ դրախտին թէ չէ' կոյ հանեն_/_mi՛ xawsir i mēǰ draxtin tʼē čē' koy hanen_ “Do not speak inside the paradise, lest they throw you out”
+
+* _չէ ի <b>տալ</b>_/_čē i <b>tal</b>_ “he/she will not give”
+* _չեմ ի <b>տար_</b>_/_čem i <b>tar</b>_ “I will not give”
+* _չի <b>տալ</b>_/_či <b>tal</b>_ “he/she will not give”
+* _չի <b>տար</b>_/_či <b>tar</b>_ “he/she will not give”
   
 
 ### <a name="Imp">`Imp`</a>: imperative
@@ -76,15 +79,13 @@ Note that in Middle Armenian, conditional and necessitative meanings are express
 
 ### <a name="Nec">`Nec`</a>: necessitative
 
-The necessitative mood expresses necessity and corresponds to the modal verbs “must, should, have to”.
+The necessitative mood expresses necessity and corresponds to meanings such as “must, should, have to”.
 
-Middle Armenian has present and imperfect necessitative forms, both formed periphrastically using the mood particle **_պիտի_**/**_piti_** (_պիտ, տի_/_pit, ti_) or the impersonal predicative **_պետք է_**/**_petkʼ ē_**. The content verb expresses person, number, tense, aspect, voice and is in subjunctive mood.
+In Middle Armenian, the necessitative mood is formed periphrastically using either the auxiliary **_պիտի_**/**_piti_** (and its variants _պիտ, տի_/_pit, ti_) or the present-tense forms of the verb _կամել_/_kamel_ “lit: to want”, such as _կամիմ_/_kamim_, _կամիս_/_kamis_, _կամի_/_kami_, etc. Both _պիտի_ and the forms of _կամել_ used in necessitative constructions are analyzed as modal auxiliaries (AUX) and receive `Mood=Nec`. However, they differ in the form of the lexical verb they combine with: _պիտի_/_piti_ is followed by a verb in the subjunctive mood (Mood=Sub), whereas the present-tense forms of _կամել_/_kamel_ are followed by an infinitive (VerbForm=Inf).
 
-The mood particle _պիտի_/_piti_ is historically the present tense of the verb _պիտիմ_/_pitim_ (`Ind`, `Sing`, `Person=3`) “to be necessary, useful”. The impersonal predicative _պետք է_ “lit: is needed” accompanied by subjunctive finite form of verbs is used as a variant of mood particle. This expresses compulsory, obligative necessity.
+The lexical verb retains its own morphological features and is not marked as necessitative.
 
-The content verb is not marked as necessitative because it can also be used in present or imperfect subjunctive.
-
-Note, that the mood particles are viewed as [AUX]() and can inflect for [Polarity]() (e.g. _**չ**պիտի_, _**չ**պետք է_). They will have `Mood=Nec`. 
+The auxiliary _պիտի_/_piti_ is derived from the present-tense form of the verb _պիտիմ_/_pitim_ (`Ind`, `Sing`, `Person=3`) “to be necessary, useful”. It may also inflect for [Polarity]() (e.g. _**չ**պիտի_/_**č**piti_).
 
 #### Examples
 * _<b>պիտի</b> որ ելնէ յ իրմէ զէդ կորեկի հատեր_/_<b>piti</b> or elnē y irmē zēd koreki hater_ “grains like millet should come out from it”
