@@ -25,5 +25,5 @@ This strategy frees the use of feature`Mood=` for use with `Opt`, `Cnd`. The spe
 
 #### Examples
 
-* _<b>бди</b>_ “if”, _<b>мол[индяря]й</b>_ “if he/she/it goes”, _<b>ту[ндяря]всь</b>_ “if he/she/it managed to go”, _<b>дяряй</b>_ “were to”
+* _<b>кда</b>_ “if”, _<b>мол[индяря]й</b>_ “if he/she/it goes”, _<b>ту[ндяря]всь</b>_ “if he/she/it managed to go”, _<b>дяряй</b>_ “were to”
 <!-- Interlanguage links updated Út 30. června 2026, 10:58:47 CEST -->
