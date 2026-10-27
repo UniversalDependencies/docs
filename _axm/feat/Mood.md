@@ -20,8 +20,10 @@ Mood is a feature that expresses modality and subclassifies finite verb forms. S
 
 ### <a name="Ind">`Ind`</a>: indicative
 
-The indicative can be considered the default mood. A verb in the indicative merely states that something happens, has happened or will happen, without adding any attitude of the speaker.
-The imperfect tense of the indicative mood exhibits several patterns of formation. Note that in Middle Armenian the present and imperfect tenses of the indicative mood that are formed with the auxiliary _կու (կ, կոյ)_/_kow (k, koy)_ have the same forms as the present and imperfect tenses of the conditional mood (see below). They cannot be distinguished without context.
+The indicative can be considered the default mood. A verb in the indicative merely states that something happens, has happened or will happen, without adding any attitude of the speaker. It exhibits several patterns of formation. In Middle Armenian, the present and imperfect indicative can be expressed both by the synthetic forms inherited from Classical Armenian and by periphrastic constructions with the auxiliary _կու (կ, կոյ)_/_kow (k, koy)_ The inherited present and imperfect forms continue to be used alongside the newer periphrastic constructions with the same indicative meaning.
+
+The present and imperfect indicative forms constructed with կու _կու (կ, կոյ)_/_kow (k, koy)_ are formally identical to the corresponding conditional forms (see below). Therefore, the distinction between the indicative and conditional moods in these constructions depends on context.
+
 The negative forms of the present and imperfect indicative (as well as conditional) mood exhibit variation in their formation. Besides the bound negative morpheme չ-/č-, negation may also be expressed by a construction consisting of a negative auxiliary followed by a verb in the infinitive, with or without the preposition _ի_/_i_ (traditionally called _negative participle_). The infinitive may also occur with the ending _-ր_/_-r_.
 
 #### Examples
@@ -41,12 +43,15 @@ The negative forms of the present and imperfect indicative (as well as condition
 
 ### <a name="Cnd">`Cnd`</a>: conditional
 
-The conditional mood is used to express actions that would have taken place under some circumstances but they actually did not / do not happen. In Middle Armenian, it combines with two different tenses (present and imperfect).Note that in Middle Armenian the present and imperfect tenses of the conditional mood that are formed with the auxiliary _կու (կ, կոյ)_/_kow (k, koy)_ have the same forms as the present and imperfect tenses of the indicative mood (see above).
+The conditional mood is used to express actions that would have taken place under some circumstances but they actually did not / do not happen.
 
-The negation of conditional mood is formed periphrastically and shares the same form with the indicative negative forms (see above). The main verb is marked as [Connegative]().
+In Middle Armenian, the present and imperfect conditional are formed periphrastically with the auxiliary _կու (կ, կոյ)_/_kow (k, koy)_. These constructions are formally identical to the corresponding present and imperfect indicative forms (see above). Therefore, the distinction between the conditional and indicative moods depends on context.
+
+The negative forms of the present and imperfect conditional are formed periphrastically and are formally identical to the corresponding negative indicative constructions (see above). The lexical verb occurs in a form traditionally referred to as the negative participle and is annotated with Connegative=Yes.
 
 #### Examples
 
+* _Զիրար սիրենք խօշ կու լինի_/_Zirar sirenkʼ xòš kow lini_ “Let us love one another, it will be good”
 * _չէ ի <b>տալ</b>_/_čē i <b>tal</b>_ “he/she will not give”
 * _չեմ ի <b>տար_</b>_/_čem i <b>tar</b>_ “I will not give”
 * _չի <b>տալ</b>_/_či <b>tal</b>_ “he/she will not give”
@@ -67,7 +72,7 @@ The speaker uses the imperative to order or ask the addressee to do the action o
 ### <a name="Sub">`Sub`</a>: subjunctive / conjunctive / optative
 
 The subjunctive mood is used primarily in subordinate clauses, typically for actions that are subjective or otherwise uncertain.
-In some contexts the mood also expresses the desire that the action happens; it is thus close to both optative and jussive. In Middle Armenian it combines with two different tenses (imperfect and present).
+In some contexts, it also expresses a wish or desire for an action to take place; it is thus close to both optative and jussive. In Middle Armenian it combines with two different tenses (imperfect and present).
 
 #### Examples
 
@@ -88,6 +93,7 @@ The lexical verb retains its own morphological features and is not marked as nec
 The auxiliary _պիտի_/_piti_ is derived from the present-tense form of the verb _պիտիմ_/_pitim_ (`Ind`, `Sing`, `Person=3`) “to be necessary, useful”. It may also inflect for [Polarity]() (e.g. _**չ**պիտի_/_**č**piti_).
 
 #### Examples
+
 * _<b>պիտի</b> որ ելնէ յ իրմէ զէդ կորեկի հատեր_/_<b>piti</b> or elnē y irmē zēd koreki hater_ “grains like millet should come out from it”
 
   <!-- Interlanguage links updated Út 30. června 2026, 10:59:00 CEST -->
