@@ -20,11 +20,11 @@ Mood is a feature that expresses modality and subclassifies finite verb forms. S
 
 ### <a name="Ind">`Ind`</a>: indicative
 
-The indicative can be considered the default mood. A verb in the indicative merely states that something happens, has happened or will happen, without adding any attitude of the speaker. It exhibits several patterns of formation. In Middle Armenian, the present and imperfect indicative can be expressed both by the synthetic forms inherited from Classical Armenian and by periphrastic constructions with the auxiliary _կու (կ, կոյ)_/_kow (k, koy)_ The inherited present and imperfect forms continue to be used alongside the newer periphrastic constructions with the same indicative meaning.
+The indicative can be considered the default mood. A verb in the indicative merely states that something happens, has happened or will happen, without adding any attitude of the speaker. It exhibits several patterns of formation. In Middle Armenian, the present and imperfect indicative can be expressed both by the synthetic forms inherited from Classical Armenian and by periphrastic constructions with the auxiliary _կու (կ, կոյ)_/_kow (k, koy)_. The inherited present and imperfect forms continue to be used alongside the newer periphrastic constructions with the same indicative meaning.
 
 The present and imperfect indicative forms constructed with կու _կու (կ, կոյ)_/_kow (k, koy)_ are formally identical to the corresponding conditional forms (see below). Therefore, the distinction between the indicative and conditional moods in these constructions depends on context.
 
-The negative forms of the present and imperfect indicative (as well as conditional) mood exhibit variation in their formation. Besides the bound negative morpheme չ-/č-, negation may also be expressed by a construction consisting of a negative auxiliary followed by a verb in the infinitive, with or without the preposition _ի_/_i_ (traditionally called _negative participle_). The infinitive may also occur with the ending _-ր_/_-r_.
+The negative forms of the present and imperfect indicative (as well as conditional) mood exhibit variation in their formation. Besides the bound negative morpheme _չ-_/_č-_, negation may also be expressed by a construction consisting of a negative auxiliary followed by a verb in the infinitive, with or without the preposition _ի_/_i_ (traditionally called _negative participle_). The infinitive may also occur with the ending _-ր_/_-r_.
 
 #### Examples
 
@@ -51,7 +51,8 @@ The negative forms of the present and imperfect conditional are formed periphras
 
 #### Examples
 
-* _Զիրար սիրենք խօշ կու լինի_/_Zirar sirenkʼ xòš kow lini_ “Let us love one another, it will be good”
+* _Զիրար սիրենք խօշ <b>կու</b> լինի_/_Zirar sirenkʼ xòš kow lini_ “Let us love one another, it will be good”
+* _Այս ցաւուս թէզով ճար արա թէ չէ սքթայ կանէ_/_Ays cʼawows tʼēzov č̣ar ara tʼē čē skʼtʼay kanē_ “Find a cure for this pain [illness] quickly, lest it cause a stroke”
 * _չէ ի <b>տալ</b>_/_čē i <b>tal</b>_ “he/she will not give”
 * _չեմ ի <b>տար_</b>_/_čem i <b>tar</b>_ “I will not give”
 * _չի <b>տալ</b>_/_či <b>tal</b>_ “he/she will not give”
