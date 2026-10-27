@@ -10,6 +10,7 @@ udver: '2'
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#God">God</a></td>
   <td><a href="#King">King</a></td>
+  <td><a href="#Person">Person</a></td>
   <td><a href="#Place">Place</a></td>
   <td><a href="#Epith">Epith</a></td>
 </tr>
@@ -20,7 +21,7 @@ The feature applies mainly to the [cs-pos/PROPN]() tag.
 
 ### <a name="God">`God`</a>: Divine name
 
-Names of divine entities
+The name of a divine entity.
 
 #### Examples
 
@@ -28,7 +29,15 @@ TBA
 
 ### <a name="King">`King`</a>: Royal name
 
-Name of a king or queen.
+The name of a king or queen.
+
+#### Examples
+
+TBA
+
+### <a name="Person">`Person`</a>: A person's name
+
+The name of a person.
 
 #### Examples
 
