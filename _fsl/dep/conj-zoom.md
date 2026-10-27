@@ -1,7 +1,7 @@
 ---
 layout: relation
 title: 'conj:zoom'
-shortdef: 'oblique modifier'
+shortdef: 'zoom'
 udver: '2'
 ---
 

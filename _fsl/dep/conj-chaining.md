@@ -1,7 +1,7 @@
 ---
 layout: relation
 title: 'conj:chaining'
-shortdef: 'oblique modifier'
+shortdef: 'chaining'
 udver: '2'
 ---
 
