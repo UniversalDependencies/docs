@@ -11,7 +11,7 @@ In Middle Armenian, the third-person personal pronoun _ինք/inkʿ_ “he/she/i
 
 Reflexive object of a verb means that the object is the same entity as the subject:
 
-- 
+- _Մեղուն զինքն խիստ սիրէ_
 
 Reflexive possessives indicate that the subject of the clause is the possessor:
 
