@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Kunda UD'
+title:  'Chikunda UD'
 udver: '2'
 ---
 
-# UD for Kunda <span class="flagspan"><img class="flag" src="../../flags/svg/ZW.svg" /></span>
+# UD for Chikunda <span class="flagspan"><img class="flag" src="../../flags/svg/ZW.svg" /></span>
 
 ## Tokenization and Word Segmentation
 
@@ -46,10 +46,10 @@ udver: '2'
 
 ## Treebanks
 
-There are [N](../treebanks/kdn-comparison.html) Kunda UD treebanks:
+There are [N](../treebanks/kdn-comparison.html) Chikunda UD treebanks:
 
-  * [Kunda-A](../treebanks/kdn_a/index.html)
-  * [Kunda-B](../treebanks/kdn_b/index.html)
+  * [Chikunda-A](../treebanks/kdn_a/index.html)
+  * [Chikunda-B](../treebanks/kdn_b/index.html)
 
 ---
 **Instruction**: Treebank-specific pages are generated automatically from the README file in the treebank repository and
