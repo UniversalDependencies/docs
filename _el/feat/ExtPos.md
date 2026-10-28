@@ -69,8 +69,7 @@ So far, fixed modals have been observed.
 
 #### Examples
 
-* [Cypriot-el] _<b>ήταν να</b>_ “<b>would</b>” (here the first node is a [VERB]() and the second an [SCONJ]())
-*  αν εμείνισκα κάπου ορεινά  _<b>ήταν να</b>_ ’μαι το πιο καλά . "if I lived in a more mountainous area I <b>would</b> be happier” 
+* [Cypriot-el] _<b>ήταν να</b>_ “<b>would</b>” (here the first node is a [VERB]() and the second an [SCONJ]()): αν εμείνισκα κάπου ορεινά  _<b>ήταν να</b>_ ’μαι το πιο καλά . "if I lived in a more mountainous area I <b>would</b> be happier” 
 
 
 ### <a name="CCONJ">`CCONJ`</a>: coordinating conjunction-like expression
