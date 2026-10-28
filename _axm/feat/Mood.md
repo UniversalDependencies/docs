@@ -51,12 +51,12 @@ The negative forms of the present and imperfect conditional are formed periphras
 
 #### Examples
 
-* _Զիրար սիրենք խօշ <b>կու</b> լինի_/_Zirar sirenkʼ xòš <b>kow</b> lini_ “Let us love one another, it will be good”
-* _Այս ցաւուս թէզով ճար արա թէ չէ սքթայ <b>կ</b>անէ_/_Ays cʼawows tʼēzov č̣ar ara tʼē čē skʼtʼay <b>k</b>anē_ “Find a cure for this pain [illness] quickly, lest it cause a stroke”
-* _չէ ի <b>տալ</b>_/_čē i <b>tal</b>_ “he/she will not give”
-* _չեմ ի <b>տար_</b>_/_čem i <b>tar</b>_ “I will not give”
-* _չի <b>տալ</b>_/_či <b>tal</b>_ “he/she will not give”
-* _չի <b>տար</b>_/_či <b>tar</b>_ “he/she will not give”
+* _Զիրար սիրենք խօշ <b>կու</b> լինի_/_Zirar sirenkʼ xòš <b>kow</b> lini_ “Let us love one another, it will be good”,
+* _Այս ցաւուս թէզով ճար արա թէ չէ սքթայ <b>կ</b>անէ_/_Ays cʼawows tʼēzov č̣ar ara tʼē čē skʼtʼay <b>k</b>anē_ “Find a cure for this pain [illness] quickly, lest it cause a stroke”,
+* _չէ ի <b>տալ</b>_/_čē i <b>tal</b>_ “he/she will not give”,
+* _չեմ ի <b>տար_</b>_/_čem i <b>tar</b>_ “I will not give”,
+* _չի <b>տալ</b>_/_či <b>tal</b>_ “he/she will not give”,
+* _չի <b>տար</b>_/_či <b>tar</b>_ “he/she will not give”.
   
 
 ### <a name="Imp">`Imp`</a>: imperative
@@ -65,7 +65,7 @@ The speaker uses the imperative to order or ask the addressee to do the action o
 
 #### Examples
 
-* _<b>ա՛րկ</b> զմկնասոխն ʼի քացախն եւ <b>թո՛ղ</b> ժամանակ ինչ_/_<b>a՛rk</b> zmknasoxn ʼi kʼacʼaxn ew <b>tʼo՛ġ</b> žamanak inč_ “Add scilla to vinegar and leave it for a while.”,
+* _<b>ա՛րկ</b> զմկնասոխն ʼի քացախն եւ <b>թո՛ղ</b> ժամանակ ինչ_/_<b>a՛rk</b> zmknasoxn ʼi kʼacʼaxn ew <b>tʼo՛ġ</b> žamanak inč_ “Add scilla to vinegar and leave it for a while”,
 * _ինձ <b>լսեցէք</b>_/_inj <b>lsecʼēkʼ</b>_ “listen to me!” (plural),
 * _<b>կատարէ՛</b> զգործքդ_/_<b>katarē՛</b> zgorçkʼd_ “do your work!”,
 * _<b>խմէ՛ք</b>_/_<b>xmē՛kʼ</b>_ “drink!” (plural).
@@ -95,7 +95,7 @@ The auxiliary _պիտի_/_piti_ is derived from the present-tense form of the ve
 
 #### Examples
 
-* _<b>պիտի</b> որ ելնէ յ իրմէ զէդ կորեկի հատեր_/_<b>piti</b> or elnē y irmē zēd koreki hater_ “grains like millet should come out from it”
-* _հիւանդութիւնն երկար <b>կամի</b> քաշել_/_hiwandowtʼiwnn erkar <b>kami</b> kʼašel_ “the illness tends to last for a long time”
+* _<b>պիտի</b> որ ելնէ յ իրմէ զէդ կորեկի հատեր_/_<b>piti</b> or elnē y irmē zēd koreki hater_ “grains like millet should come out from it”,
+* _հիւանդութիւնն երկար <b>կամի</b> քաշել_/_hiwandowtʼiwnn erkar <b>kami</b> kʼašel_ “the illness tends to last for a long time”.
 
   <!-- Interlanguage links updated Út 30. června 2026, 10:59:00 CEST -->
