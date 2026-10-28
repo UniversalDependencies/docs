@@ -72,18 +72,11 @@ This is an overview only. For more detailed discussion and examples, see the lis
 * [PronType]() is used with pronouns ([PRON]()), determiners ([DET]()) and adverbs ([ADV]()).
 * [NumType]() is used with numerals ([NUM]()), adjectives ([ADJ]()) and adverbs ([ADV]()).
 * The [Poss]() feature marks possessive personal determiners (e.g. _իմ_ “my”).
-* The [Reflex]() feature marks reflexive pronouns _ինք/inkʿ_ “he/she/it” and determiners _իր_/_ir_ “his/her/its own”, _իրենց_/_irencʼ_ “their own”.   It is used together with `PronType=Emp` or `PronType=Prs`.
+* The [Reflex]() feature marks reflexive pronouns (_իրեն_/_iren_ “himself/herself/itself”, _իրենց_/_irencʼ_ “themselves”) and determiners (_իր_/_ir_ “his/her/its own”, _իրենց_/_irencʼ_ “their own”). It is used together with `PronType=Prs`.
 * [Person]() is a lexical feature of personal pronouns ([PRON]()) and has three values, `1`, `2` and `3`.
   With personal possessive determiners ([DET]()), the feature actually encodes the person of the possessor.
   Person is not marked on other types of pronouns and on nouns, although they can almost always be interpreted as the 3rd person.
   * As a cross-reference to subject, person is also marked on finite verbs ([VERB](), [AUX]()).
-* The [Polite]() feature distinguishes informal second-person pronouns (_դու, դուք,_ `Polite=Infm`)
-  from the formal _Դուք_ (`Polite=Form`).
-  The formal pronoun is phonologically equivalent in all its case forms to the second-person plural _դուք_
-  but it is distinguished in orthography by the capital letter _Դ._
-  We tag it as second person (because that is its meaning) and we tag also its number (it is used for singular addressees) despite the fact that it combines with second-person plural verbs.
-  The parser must learn that `Number=Sing|Person=2|Polite=Form` subject attaches to `Number=Plur|Person=2` verbs,
-  while `Number=Sing|Person=2|Polite=Infm` subject attaches to `Number=Sing|Person=2` verbs.
 * There are three [layered features](../../u/overview/feat-layers.html), [Person[psor]](), [Number[psor]]() and [Deixis[psor]]().
   They appear with nouns, gerundives, certain pronouns and adpositions and encode the lexical person/number of the possessor or the position of an entity relative to either the speaker or the hearer. The extra layer is needed to distinguish these lexical features from the inflectional person and number that mark agreement with the modified (possessed) noun.
 
