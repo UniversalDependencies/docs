@@ -55,28 +55,24 @@ This is an overview only. For more detailed discussion and examples, see the lis
   * Note, that in Middle Armenian iterative is considered as a lexical feature of verbs, thus they have morphologically related not iterative counterparts, but it is not a regular system and the two verbs are represented by different lemmas. We mark them as biaspectual.
 * Finite verbs always have one of five values of [Mood](): `Cnd`, `Imp`, `Ind`, `Nec` or `Sub`.
   * The necessitative mood is used only with the necessitative particle _պիտի_ or the impersonal predicative _պետք է_. The subjunctive finite form of the main verb, that is needed to form a periphrastic necessitative, is not marked with this feature.
-* The present and imperfect tenses of the indicative mood that are formed with the auxiliary _կու (կ, կոյ)_/_kow (k, koy)_ have the same forms as the present and imperfect tenses of the conditional mood. They cannot be distinguished without context. The negative forms of the present and imperfect tenses of the indicative (as well as the conditional) mood exhibit variation in their formation. Besides the bound negative morpheme չ-/č-, the negation of indicative and conditional moods is formed periphrastically using the special form of main verb (traditionally called _negative participle_) and negated auxiliary _չեմ_ “not to be”. The main verb is marked as [Connegative]().
+* The present and imperfect tenses of the indicative mood that are formed with the auxiliary _կու (կ, կոյ)_/_kow (k, koy)_ are formally identical to the corresponding conditional forms. They cannot be distinguished without context. The negative forms of the present and imperfect tenses of the indicative (as well as the conditional) mood exhibit variation in their formation. Besides the bound negative morpheme չ-/č-, the negation of indicative and conditional moods is formed periphrastically using the special form of main verb (traditionally called _negative participle_) and negated auxiliary _չեմ_ “not to be”. The main verb is marked as [Connegative]().
 * Verbs in indicative mood always have one of three values of [Tense](): mainly `Past` and for auxilaries and some content verbs `Pres` or `Imp`.
   * Imperative and necessitative forms do not have the `Tense` feature (note that imperfect and present necessitatives are distinguished analytically).
   * Subjunctve and conditional forms have one of the `Tense=Imp` or `Tense=Pres` features, which are formally imperfect or present, but semantically future.
 * There are five values of the [Voice]() feature: `Act`, `Cau`, `Mid`, `Pass`, `Rcp`. Active and causative verbs have `Subcate=Tran`, the other three `Subcate=Intr`.
 
-### Polarity ...
+### Polarity
 
-* [Polarity]() has two values, `Pos` and `Neg`, and applies primarily to verbs ([VERB](), [AUX]()) that can be negated using the bound morpheme _չ-_.
-* Occasionally _ոչ_ occurs as an independent negation particle ([PART]()) and is marked with `Polarity=Neg`. The `Polarity=Neg` feature is also used with the necessitative mood particle _(չ)պիտի_/_(č)piti_, and the prohibitive imperative particle _մի_/_mi_ .
+* [Polarity]() has two values, `Pos` and `Neg`, and applies primarily to verbs ([VERB](), [AUX]()) that can be negated using the bound morpheme _չ-_/_/č-_.
+* Occasionally _ոչ_ occurs as an independent negation particle ([PART]()) and is marked with `Polarity=Neg`. The `Polarity=Neg` feature is also used with the necessitative mood particle _(չ)պիտի_/_(č)piti_, and the prohibitive imperative particle _մի_/_mi_.
 * The `Polarity=Neg` feature is not used with negated conditional mood, the `Connegative=Yes` feature is used there instead.
 
 ### Pronouns, Determiners, Quantifiers
 
 * [PronType]() is used with pronouns ([PRON]()), determiners ([DET]()) and adverbs ([ADV]()).
 * [NumType]() is used with numerals ([NUM]()), adjectives ([ADJ]()) and adverbs ([ADV]()).
-* The [Poss]() feature marks possessive personal determiners (e.g. _իմ_ “my”),
-  possessive interrogative, relative determiners (e.g. _ում, որի_ “whose”),
-  possessive nouns (e.g. _հայրիկինը_ “father's”)
-  and possessive adjectives (e.g. _հայոց_ “armenian, armenians’, refer to armenians”).
-* The [Reflex]() feature marks reflexive pronouns _(ինձ, քեզ, իրեն, մեզ, ձեզ, իրենց)_ and determiners _(իր, իրենց)_.
-  In Armenian it is always used together with `PronType=Emp` or `PronType=Prs`.
+* The [Poss]() feature marks possessive personal determiners (e.g. _իմ_ “my”).
+* The [Reflex]() feature marks reflexive pronouns _ինք/inkʿ_ “he/she/it” and determiners _իր_/_ir_ “his/her/its own”, _իրենց_/_irencʼ_ “their own”.   It is used together with `PronType=Emp` or `PronType=Prs`.
 * [Person]() is a lexical feature of personal pronouns ([PRON]()) and has three values, `1`, `2` and `3`.
   With personal possessive determiners ([DET]()), the feature actually encodes the person of the possessor.
   Person is not marked on other types of pronouns and on nouns, although they can almost always be interpreted as the 3rd person.
