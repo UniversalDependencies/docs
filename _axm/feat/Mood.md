@@ -51,8 +51,8 @@ The negative forms of the present and imperfect conditional are formed periphras
 
 #### Examples
 
-* _Զիրար սիրենք խօշ <b>կու</b> լինի_/_Zirar sirenkʼ xòš kow lini_ “Let us love one another, it will be good”
-* _Այս ցաւուս թէզով ճար արա թէ չէ սքթայ կանէ_/_Ays cʼawows tʼēzov č̣ar ara tʼē čē skʼtʼay kanē_ “Find a cure for this pain [illness] quickly, lest it cause a stroke”
+* _Զիրար սիրենք խօշ <b>կու</b> լինի_/_Zirar sirenkʼ xòš <b>kow</b> lini_ “Let us love one another, it will be good”
+* _Այս ցաւուս թէզով ճար արա թէ չէ սքթայ <b>կ</b>անէ_/_Ays cʼawows tʼēzov č̣ar ara tʼē čē skʼtʼay <b>k</b>anē_ “Find a cure for this pain [illness] quickly, lest it cause a stroke”
 * _չէ ի <b>տալ</b>_/_čē i <b>tal</b>_ “he/she will not give”
 * _չեմ ի <b>տար_</b>_/_čem i <b>tar</b>_ “I will not give”
 * _չի <b>տալ</b>_/_či <b>tal</b>_ “he/she will not give”
