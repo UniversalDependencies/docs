@@ -63,6 +63,15 @@ Adverbs can modify both nouns and nominals.
 * [el] να φύγει _<b>μια ώρα αρχύτερα</b>_ (lit. "to leave one our earlier", the multiword adverb is paraphrasable as “as early as possible”; the first node of the fixed adverb is a [NUM]())
   * [el] ενεργεί _<b>εκ προθέσεως</b>_ (lit. "acts from intention", the multiword adverb is paraphrasable as “intentionally”; the first node of the fixed adverb is an [ADP]() from the diachrony of Greek)
   * [el] αυτή η _<b>εκ προθέσεως</b>_ ενέργεια (lit. "this the from intention action", the multiword adverb is paraphrasable as “intentional”; the first node of the fixed adverb is an [ADP]() from the diachrony of Greek)
+ 
+### <a name="AUX">`AUX`</a>: auxiliary-like expression
+So far, fixed modals have been observed.
+
+#### Examples
+
+* [el] _<b>ήταν να</b>_ “<b>would</b>” (here the first node is a [VERB]() and the second an [SCONJ]())
+<!-- * [Cypriot-el] αν εμείνισκα κάπου ορεινά  _<b>ήταν να</b>_ ’μαι το πιο καλά . "if I lived in a more mountainous area I <b>would</b> be happier” (here the first node is a [VERB]())-->
+
 
 ### <a name="CCONJ">`CCONJ`</a>: coordinating conjunction-like expression
 A CCONJ conjoins similar phrasal structures, e.g., two main clauses, two subordinated clauses, etc
