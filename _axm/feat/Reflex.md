@@ -5,9 +5,7 @@ shortdef: 'reflexive'
 udver: '2'
 ---
 
-Boolean feature of [pronouns](PRON) or
-[determiners](DET). It tells whether the word is reflexive,
-i.e. refers to the subject of its clause.
+Boolean feature of [pronouns](PRON) or [determiners](DET). It tells whether the word is reflexive, i.e. refers to the subject of its clause.
 
 In Middle Armenian, the third-person personal pronoun _ինք/inkʿ_ “he/she/it” also functions as a reflexive pronoun with the exception of the nominative case.
 
