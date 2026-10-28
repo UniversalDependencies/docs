@@ -47,7 +47,7 @@ The conditional mood is used to express actions that would have taken place unde
 
 In Middle Armenian, the present and imperfect conditional are formed periphrastically with the auxiliary _կու (կ, կոյ)_/_kow (k, koy)_. These constructions are formally identical to the corresponding present and imperfect indicative forms (see above). Therefore, the distinction between the conditional and indicative moods depends on context.
 
-The negative forms of the present and imperfect conditional are formed periphrastically and are formally identical to the corresponding negative indicative constructions (see above). The lexical verb occurs in a form traditionally referred to as the negative participle and is annotated with Connegative=Yes.
+The negative forms of the present and imperfect conditional are formed periphrastically and are formally identical to the corresponding negative indicative constructions (see above). The lexical verb occurs in a form traditionally referred to as the negative participle and is annotated with `Connegative=Yes` (see [Connegative]()).
 
 #### Examples
 
@@ -87,7 +87,7 @@ Note that in Middle Armenian, conditional and necessitative meanings are express
 
 The necessitative mood expresses necessity and corresponds to meanings such as “must, should, have to”.
 
-In Middle Armenian, the necessitative mood is formed periphrastically using either the auxiliary **_պիտի_**/**_piti_** (and its variants _պիտ, տի_/_pit, ti_) or the present-tense forms of the verb _կամել_/_kamel_ “lit: to want”, such as _կամիմ_/_kamim_, _կամիս_/_kamis_, _կամի_/_kami_, etc. Both _պիտի_ and the forms of _կամել_ used in necessitative constructions are analyzed as modal auxiliaries (AUX) and receive `Mood=Nec`. However, they differ in the form of the lexical verb they combine with: _պիտի_/_piti_ is followed by a verb in the subjunctive mood (Mood=Sub), whereas the present-tense forms of _կամել_/_kamel_ are followed by an infinitive (VerbForm=Inf).
+In Middle Armenian, the necessitative mood is formed periphrastically using either the auxiliary **_պիտի_**/**_piti_** (and its variants _պիտ, տի_/_pit, ti_) or the present-tense forms of the verb _կամել_/_kamel_ “lit. to want”, such as _կամիմ_/_kamim_, _կամիս_/_kamis_, _կամի_/_kami_, etc. Both _պիտի_ and the forms of _կամել_ used in necessitative constructions are analyzed as modal auxiliaries ([AUX]()) and receive `Mood=Nec`. However, they differ in the form of the lexical verb they combine with: _պիտի_/_piti_ is followed by a verb in the subjunctive mood (`Mood=Sub`), whereas the present-tense forms of _կամել_/_kamel_ are followed by an infinitive (`VerbForm=Inf`).
 
 The lexical verb retains its own morphological features and is not marked as necessitative.
 
@@ -96,5 +96,6 @@ The auxiliary _պիտի_/_piti_ is derived from the present-tense form of the ve
 #### Examples
 
 * _<b>պիտի</b> որ ելնէ յ իրմէ զէդ կորեկի հատեր_/_<b>piti</b> or elnē y irmē zēd koreki hater_ “grains like millet should come out from it”
+* _հիւանդութիւնն երկար <b>կամի</b> քաշել_/_hiwandowtʼiwnn erkar <b>kami</b> kʼašel_ “the illness tends to last for a long time”
 
   <!-- Interlanguage links updated Út 30. června 2026, 10:59:00 CEST -->
