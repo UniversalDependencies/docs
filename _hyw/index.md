@@ -364,4 +364,4 @@ as well as Armenian-specific examples scattered across the documentation of cons
 
 There is just one Eastern Armenian UD treebank.
 
-  * [Armenian-ArmTDP](../treebanks/hyw_armtdp/index.html)
+  * [Armenian-ArmTDP](https://universaldependencies.org/treebanks/hyw_armtdp/index.html)
