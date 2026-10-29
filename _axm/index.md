@@ -83,14 +83,13 @@ This is an overview only. For more detailed discussion and examples, see the lis
 ### Other Features
 
 * Besides the layered features listed above, there are several other language-specific features:
-  * [NumForm]()
-  * [NameType]()
   * [AdpType]()
   * [ConjType]()
-  * [Hyph]()
-  * [Style]()
   * [Deixis]()
-  * [Echo]()
+  * [ExtPos]()
+  * [NumForm]()
+  * [NameType]()
+  * [Style]()
   * [Typo]()
 * The following universal features are not used in Armenian: [Gender](), [Evident]().
 
