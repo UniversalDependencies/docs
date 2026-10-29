@@ -102,7 +102,6 @@ Case-marked infinitives retain `VerbForm=Inf` even when they have an adverbial, 
 ### Other Features
 
 * Western Armenian also uses the following language-specific or less widely used features:
-- `Abbr`
 - `AdpType`
 - `Deixis`
 - `Echo`
