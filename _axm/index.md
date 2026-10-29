@@ -54,18 +54,18 @@ This is an overview only. For more detailed discussion and examples, see the lis
 * Verbs have one of six values of [Aspect](): `Dur`, `Imp`, `Iter`, `Perf`, `Prog` or `Prosp`.
   * Note, that in Middle Armenian iterative is considered as a lexical feature of verbs, thus they have morphologically related not iterative counterparts, but it is not a regular system and the two verbs are represented by different lemmas. We mark them as biaspectual.
 * Finite verbs always have one of five values of [Mood](): `Cnd`, `Imp`, `Ind`, `Nec` or `Sub`.
-  * The necessitative mood is used only with the necessitative particle _պիտի_ or the impersonal predicative _պետք է_. The subjunctive finite form of the main verb, that is needed to form a periphrastic necessitative, is not marked with this feature.
-* The present and imperfect tenses of the indicative mood that are formed with the auxiliary _կու (կ, կոյ)_/_kow (k, koy)_ are formally identical to the corresponding conditional forms. They cannot be distinguished without context. The negative forms of the present and imperfect tenses of the indicative (as well as the conditional) mood exhibit variation in their formation. Besides the bound negative morpheme չ-/č-, the negation of indicative and conditional moods is formed periphrastically using the special form of main verb (traditionally called _negative participle_) and negated auxiliary _չեմ_ “not to be”. The main verb is marked as [Connegative]().
+  * The necessitative mood is used with the necessitative auxiliary _պիտի_/_piti_ “must/will” or present-tense forms of the verb _կամել_/_kamel_ “intend, should be” such as _կամիմ_/_kamim_, _կամիս_/_kamis_, _կամի_/_kami_, etc. The subjunctive finite form of the main verb, that is needed to form a periphrastic necessitative, is not marked with this feature.
+* The present and imperfect tenses of the indicative mood that are formed with the auxiliary _կու (կ, կոյ)_/_kow (k, koy)_ are formally identical to the corresponding conditional forms. They cannot be distinguished without context. The negative forms of the present and imperfect tenses of the indicative (as well as the conditional) mood exhibit variation in their formation. Besides the bound negative morpheme չ-/č-, the negation of indicative and conditional moods is formed periphrastically using the special form of main verb (traditionally called _negative participle_) and negated forms of the auxiliary _եմ_/_em_ (_չեմ_/_čem_, _չես_/_čes_, _չի_/_či_ etc. “not to be”). The main verb is marked as [Connegative]().
 * Verbs in indicative mood always have one of three values of [Tense](): mainly `Past` and for auxilaries and some content verbs `Pres` or `Imp`.
   * Imperative and necessitative forms do not have the `Tense` feature (note that imperfect and present necessitatives are distinguished analytically).
   * Subjunctve and conditional forms have one of the `Tense=Imp` or `Tense=Pres` features, which are formally imperfect or present, but semantically future.
-* There are five values of the [Voice]() feature: `Act`, `Cau`, `Mid`, `Pass`, `Rcp`. Active and causative verbs have `Subcate=Tran`, the other three `Subcate=Intr`.
+* There are five values of the [Voice]() feature: `Act`, `Cau`, `Mid`, `Pass`, `Rcp`. Active and causative verbs have `Subcat=Tran`, the other three `Subcat=Intr`.
 
 ### Polarity
 
 * [Polarity]() has two values, `Pos` and `Neg`, and applies primarily to verbs ([VERB](), [AUX]()) that can be negated using the bound morpheme _չ-_/_/č-_.
 * Occasionally _ոչ_ occurs as an independent negation particle ([PART]()) and is marked with `Polarity=Neg`. The `Polarity=Neg` feature is also used with the necessitative mood particle _(չ)պիտի_/_(č)piti_, and the prohibitive imperative particle _մի_/_mi_.
-* The `Polarity=Neg` feature is not used with negated conditional mood, the `Connegative=Yes` feature is used there instead.
+* In periphrastic negative constructions of the indicative and conditional moods, the negative auxiliary is marked with ՝Polarity=Neg՝, while the lexical verb is marked with ՝Connegative=Yes՝. These features apply to different components of the construction and are not interchangeable.
 
 ### Pronouns, Determiners, Quantifiers
 
@@ -130,33 +130,32 @@ This is an overview only. For more detailed discussion and examples, see the lis
 
 ### Relations Overview
 
-* The following relation subtypes are used in Armenian:
+* The following relation subtypes are used in Middle Armenian:
   * [acl:relcl]() for relative clauses
   * [advcl:relcl]() for relative clause modifiers of clauses
   * [advmod:emph]() for adverbs or particles that modify noun phrases and emphasize or negate them
   * [aux:caus]() for causative auxiliaries
   * [aux:ех]() for existentials as auxiliary
-  * [case:loc]() for postpositional localizers
   * [compound:lvc]() for light compound verbs
-  * [compound:redup]() for reduplicated compounds
   * [compound:svc]() for serial compound verbs
   * [csubj:outer]() for outer clause clausal subject
   * [csubj:pass]() for clausal subjects of passive verbs
-  * [det:poss]() for possessive determiners
+  * [flat:name]() for names
+  * [flat:range]() for numeric ranges
+  * [flat:redup]() for reduplicating constructions
   * [iobj:agent]() for agentive indirect objects of causative verbs
   * [nmod:npmod]() for noun phrases
   * [nmod:poss]() for possessive modifiers
   * [nsubj:caus]() for nominal subjects of causative verbs
   * [nsubj:outer]() for outer clause nominal subject
   * [nsubj:pass]() for nominal subjects of passive verbs
+  * [obj:agent]() for object-like agents in causative constructions
   * [obl:agent]() for agents of passive verbs
 * The following relation types are not used in Armenian at all: [clf]()
 
 ## Treebanks
 
-There are [two](../treebanks/hy-comparison.html) Eastern Armenian UD treebanks and one treebank in Western Armenian:
+There is just one Middle Armenian UD treebank:
 
-  * [Armenian-ArmTDP](../treebanks/hy_armtdp/index.html)
-  * [Armenian-BSUT](../treebanks/hy_bsut/index.html)
-  * [Western_Armenian-ArmTDP](../treebanks/hyw_armtdp/index.html)
+  * [Middle_Armenian-ArmTDP](https://universaldependencies.org/treebanks/axm_armtdp/index.html)
 
