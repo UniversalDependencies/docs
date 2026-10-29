@@ -5,15 +5,13 @@ shortdef: 'reflexive'
 udver: '2'
 ---
 
-Boolean feature of [pronouns](PRON) or
-[determiners](DET). It tells whether the word is reflexive,
-i.e. refers to the subject of its clause.
+Boolean feature of [pronouns](PRON) or [determiners](DET). It tells whether the word is reflexive, i.e. refers to the subject of its clause.
 
 In Middle Armenian, the third-person personal pronoun _ինք/inkʿ_ “he/she/it” also functions as a reflexive pronoun with the exception of the nominative case.
 
 Reflexive object of a verb means that the object is the same entity as the subject:
 
-- 
+- _Մեղուն զինքն խիստ սիրէ_/_Meġown zinkʼn xist sirē_ “The bee loves itself very much”.
 
 Reflexive possessives indicate that the subject of the clause is the possessor:
 
@@ -25,6 +23,7 @@ Note that there is no `No` value. If the word is not reflexive, the `Reflex` fea
 
 #### Examples
 
-* reflexive personal pronouns: _իրեն_/_iren_ “himself/herself/itself”, _իրենց_/_irencʼ_ “themselves” (occur in various cases but not in nominative and distinguish [Number]())
-* reflexive possessive determiners: _իր_/_ir_ “his/her/its own”, _իրենց_/_irencʼ_ “their own”
+* reflexive personal pronouns: _իրեն_/_iren_ “himself/herself/itself”, _իրենց_/_irencʼ_ “themselves” (occur in various cases but not in nominative and distinguish [Number]()),
+* reflexive possessive determiners: _իր_/_ir_ “his/her/its own”, _իրենց_/_irencʼ_ “their own”.
+  
 <!-- Interlanguage links updated Út 30. června 2026, 10:59:16 CEST -->

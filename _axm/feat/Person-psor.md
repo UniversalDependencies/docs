@@ -14,7 +14,7 @@ udver: '2'
 </tr>
 </table>
 
-`Person[psor]` is the possessor's person, marked for exmaple on [nouns](NOUN), [emphatic pronouns](PronType), [infinitives](VerbForm), or [adpositions](ADP). In possessive uses, such forms typically correspond to an English possessive pronouns followed by a noun.
+`Person[psor]` is the possessor's person, marked for exmaple on [nouns](NOUN), certain [pronouns](PronType), [infinitives](VerbForm), or [adpositions](ADP). In possessive uses, such forms typically correspond to an English possessive pronouns followed by a noun.
 
 We do not annotate possessive determiners with `Person[psor]`, as they are actually identical to personal pronouns in the genitive case.
 

@@ -7,7 +7,7 @@ udver: '2'
 
 Chechen has a number of converbs.
 Depending on the type, they occur in either subordinate clauses or chained coordinate clauses.
-The values below list the converbs found in the treebank, other forms are attested in the literature.
+The values below list the converbs found in the treebank, further forms are discussed in the literature.
 
 ### <a name="Ant">`Ant`</a>: anterior converb
 
@@ -18,19 +18,19 @@ It can either occur in chained clauses to express sequential events, or in compl
 
 * _hinc so q'an-j-<b>iella</b>, dwa-eqqi-<b>na</b>…_<br>
   now 1SG.ABS old-J-get.**CVBant** away-drive-**CVBant**<br>
-  'Now I've got old, he abandoned me…'
+  'Now I got old, he abandoned me…'
 
 ### <a name="Sim">`Sim`</a>: simultaneous converb
 
 A simultaneous converb is composed of the imperfective stem and the suffix _-(u)sh_.
-It is used to form adverbial clauses that describe eventualties simultaneous with those in the main clause.
+It is used to form adverbial clauses that describe eventualities simultaneous with those in the main clause.
 In addition, it is used in complex temporal-aspectual constructions with the progressive or continuous aspect.
 
 #### Examples
 
 * _cwacca cho b-oqq-<b>ush</b>, xalla hwa='a=j-aesta-na…_<br>
-  one.by.one hair B-take-***CVBsim***  hard here=CCONJ=J-untie-CVBant<br>
-  '**Pulling** hair one by one, she united them with difficulty.'
+  one.by.one hair B-take-***CVBsim*** hard here=CCONJ=J-untie-CVBant<br>
+  '**Pulling** hair one by one, she untied them with difficulty.'
 
 * _v-oeda-<b>sh</b> xilla v-oqqa stag_<br>
   V-go-**CVBsim** be.PRF V-old man<br>
@@ -53,7 +53,7 @@ Converbs with the suffix _-chol_ occur in combination with the adverb _t'aehwa_ 
 
 #### Examples
 
-* _geena-j-al-<b>chol</b> t'ehwa…_<br> 
+* _geena-j-al-<b>chol</b> t'ehwa…_<br>
    far-J-get-**CVBafter** afterward<br>
   'after she got away…'
 
@@ -100,6 +100,3 @@ Converbs with the suffix _-alc_ (on the infinitive stem) occur in adverbial clau
 * _caarna naab qett-<b>alc</b>_<br>
   3PL.DAT sleep strike-**CVBuntil**<br>
   'until they fell asleep'
-
-
-

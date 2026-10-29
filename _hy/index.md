@@ -20,7 +20,7 @@ udver: '2'
 This is an overview only. For more detailed discussion and examples, see the list of [Armenian POS tags](pos/index.html)
 and [Armenian features](feat/index.html).
 
-* Armenian uses all 17 universal POS categories, including particles ([PART]()). The exact list of particles is in the stage of being worked out.
+* Armenian uses all 17 universal POS categories, including particles ([PART]()).
 * The tag [DET]() is used for articles and pronominal words used with a determiner function, including possessives (the traditional grammar does not define determiners, but distinguishes pronominal modifiers). The tag [PRON]() is reserved for pronouns occurring as the head of a noun phrase. Pronominal quantifiers (which the traditional grammar includes in pronouns) are [DET]() as well.
 * Eastern Armenian has one auxiliary verb ([AUX]()), _եմ_ (“to be”), but the lemma _լինել_ is also possible.
   This is in fact just an aspectual variant of _եմ_, but this is a separate lemma because
@@ -32,30 +32,28 @@ and [Armenian features](feat/index.html).
   * Periphrastic future tense (present form of _եմ_ + future-I participle of the main verb).
   * Periphrastic negated conditional (negated present or imperfect form of _եմ_ + connegative form of the main verb).
   * Periphrastic “secondary compound tenses” (any form of _լինել_, including periphrastic forms, + processual, resultative and future-I participles of the main verb).
-  * Periphrastic causative (any form of _տալ_, including periphrastic forms, + infinitve of the main verb).
+  * Periphrastic causative (any form of _տալ_, including periphrastic forms, + infinitive of the main verb).
 * In other words, _եմ, լինել_ and _տալ_ are the only lemmas that occur with the [AUX]() tag (Exception: finite existentials _կամ_ and _ունեմ_ in combination with resultative participle).
-  Note, that _եմ_ and _լինել_ may also occur as normal [VERB]() if they are used in purely existential sentences
+  Note that _եմ_ and _լինել_ may also occur as normal [VERB]() if they are used in purely existential sentences
   (i.e. they don't indicate location because if they do, then _եմ_ and _լինել_ will be treated as copula). 
 * Verbs with modal meaning are not considered to be auxiliaries in Armenian.
-* There are five main (de)verbal forms, distinguished by the UPOS tag and the value of the [VerbForm]() feature:
+* There are four main (de)verbal forms, distinguished by the UPOS tag and the value of the [VerbForm]() feature:
   * Infinitive `Inf`, tagged [VERB]() or [AUX]().
   * Finite verb `Fin`, tagged [VERB]() or [AUX]().
   * Participle `Part`, tagged [VERB]() or [AUX]() (in so-called “secondary compound tenses”).
   * Converb `Conv`, tagged [VERB]() or [AUX]().
-  * Gerundive `Gdv`, tagged [VERB]() or [AUX]().
-  * Verbal noun `Vnoun`, tagged [NOUN]().
 * Though the resultative, subject and future-I participles can be used adjectivally and can be negated they are generally tagged [VERB](). The only exception is future-II participles, they are tagged [ADJ]().
 
 ### Nominal Features
 
-* Nominal words ([NOUN](), [PROPN]() and some of [PRON]()) have an inherent [Animacy]() feature with one of three values: `Hum`, `Nhum`. Note that this may be changed in future. Nominal words could be treated as having inherent `Hum`, `Nhum` and further would be subclassified by the layered `Animacy[gram]` values `Anim` vs. `Inan`.
+* Nominal words ([NOUN](), [PROPN]() and some of [PRON]()) have an inherent [Animacy]() feature with one of two values: `Hum`, `Nhum`. Note that this may be changed in future. Nominal words could be treated as having inherent `Hum`, `Nhum`.
 * The two main values of the [Number]() feature are `Sing` and `Plur`. The following parts of speech inflect for number:
   [NOUN](), [PROPN](), [PRON](), [VERB](), [AUX]() (finite).
   * Selected nouns are plurale tantum (`Ptan`) or singulare tantum (`Coll`). These two values are lexical, and cannot be used with
     the agreeing verbs. They also never occur with pronouns. `Coll` occurs with gerundives.
-  * There is a language-specific value `Assoc` (associative plural). This is also lexical and occurs with `NOUN` and `PROPN`. Some of pronouns (_մերոնք, ձերոնք, իմոնք, քոնոնք_) are also associative.
+  * There is a language-specific value `Assoc` (associative plural). This is also lexical and occurs with `NOUN` and `PROPN`. Some pronouns (_մերոնք, ձերոնք, իմոնք, քոնոնք_) are also associative.
 * [Case]() has 6 possible values: `Nom`, `Gen`, `Dat`, `Abl`, `Ins`, `Loc`.
-  It occurs with the nominal words, i.e., [NOUN](), [PROPN](), [PRON](), [DET](), and gerundives. Note, that `Gen` occurs only with pronouns and determiners.
+  It occurs with the nominal words, i.e., [NOUN](), [PROPN](), [PRON](), [DET](), and gerundives. Note that `Gen` occurs only with pronouns and determiners.
   * The `Case` feature also occurs with some of adpositions, subclassified as “localizers” ([ADP]()). It is an inflectional feature here.
 * The two main values of the [Definite]() feature are `Def` and `Ind`. The following parts of speech inflect for definitness:
   [NOUN](), [PROPN](), [PRON](). With gerundives, resultative and subject participles the feature sometimes encodes the lexical person of the possessor, although they can be almost interpreted as the 3rd person. We mark them as `Def` (see the layered features below).
@@ -65,16 +63,16 @@ and [Armenian features](feat/index.html).
 
 * Verbs have a lexical [Subcat](), either intransitive (`Intr`) or transitive (`Tran`).
 * Verbs have one of six values of [Aspect](): `Dur`, `Imp`, `Iter`, `Perf`, `Prog` or `Prosp`.
-  * Note, that in Armenian iterative is considered as a lexical feature of verbs, thus they have morphologically related not iterative counterparts, but it is not a regular system and the two verbs are represented by different lemmas. We mark them as biaspectual.
+  * Note that in Armenian iterative is considered as a lexical feature of verbs, thus they have morphologically related not iterative counterparts, but it is not a regular system and the two verbs are represented by different lemmas. We mark them as biaspectual.
   * The `Aspect` feature should be also used with the corresponding deverbatives, if they have the `VerbForm` feature.
-* Finite verbs always have one of five values of [Mood](): `Cnd`, `Imp`, `Ind`, `Nec` of `Sub`.
-  * The necessitative mood is only used with necessitative particle _պիտի_ or the impersonal predicative _պետք է_. The subjuncitve finite form of the main verb, that is needed to form a periphrastic necessitative, is not marked with this feature.
+* Finite verbs always have one of five values of [Mood](): `Cnd`, `Imp`, `Ind`, `Nec` or `Sub`.
+  * The necessitative mood is only used with necessitative particle _պիտի_ or the impersonal predicative _պետք է_. The subjunctive finite form of the main verb, that is needed to form a periphrastic necessitative, is not marked with this feature.
   * The negated conditional mood is only used with indicative auxiliaries _(եմ, էի)_. The connegative of the main verb, that is needed to form a periphrastic negated conditional, is also marked with this feature.
-* Verbs in indicative mood always have one of three values of [Tense](): mainly `Past` and for auxilaries and some content verbs `Pres` or `Imp`.
+* Verbs in indicative mood always have one of three values of [Tense](): mainly `Past` and for auxiliaries and some content verbs `Pres` or `Imp`.
   * Imperative and necessitative forms do not have the `Tense` feature (note that imperfect and present necessitatives are distinguished
     analytically).
   * Subjunctve and conditional forms have one of the `Tense=Imp` or `Tense=Pres` features, which are formally imperfect or present, but semantically future.
-  * There are five values of the [Voice]() feature: `Act`, `Cau`, `Mid`, `Pass`, `Rcp`. Active and causative verbs have `Subcate=Tran`, the other three `Subcate=Intr`.
+  * There are five values of the [Voice]() feature: `Act`, `Cau`, `Mid`, `Pass`, `Rcp`. Active and causative verbs have `Subcat=Tran`, the other three `Subcat=Intr`.
 
 ### Polarity
 
@@ -83,7 +81,7 @@ and [Armenian features](feat/index.html).
   * Negating nouns are usually limited to those derived from verbs _(չունեցողի, չգրվածները)_.
   * The `Polarity` feature is not used with pronouns and determiners, although there is a subset of negative pronouns and determiners.
     The `PronType=Neg` feature is used there instead.
-  * The `Polarity=Neg` feature is not used with negated conditional mood, the `Connegative=Yes` feature is used there instead.
+  * In periphrastic negative conditional constructions, the negative auxiliary is marked with `Polarity=Neg`, while the lexical verb is marked with `Connegative=Yes`. These features apply to different components of the construction and are not interchangeable.
 
 ### Pronouns, Determiners, Quantifiers
 
@@ -135,7 +133,7 @@ as well as Armenian-specific examples scattered across the documentation of cons
   * An infinitive verb may serve as the subject and is labeled as clausal subject, [csubj]().
     On the other hand, verbal nouns or gerundives as subjects are just `nsubj`.
   * A finite subordinate clause may serve as the subject and is labeled `csubj`.
-* Objects defined in the Armenain grammar may be bare noun phrases in nominative or dative (as direct objects or “voice objects”) and in dative, ablative, instrumental or locative, or adpositional phrases mainly in dative (as indirect / “objects of nature” or adpositional objects).
+* Objects defined in the Armenian grammar may be bare noun phrases in nominative or dative (as direct objects or “voice objects”) and in dative, ablative, instrumental or locative, or adpositional phrases mainly in dative (as indirect / “objects of nature” or adpositional objects).
   For the purpose of UD the objects are divided to core objects, labeled [obj]() or [iobj]().
   Oblique objects are labeled [obl]().
   * Bare nominative and dative objects are considered core. Verbs that subcategorize for a single dative object are also considered core. Example: _մոտենում էր քաղաքին_ “He was approaching the city.”
@@ -172,7 +170,7 @@ as well as Armenian-specific examples scattered across the documentation of cons
   * [advcl:relcl]() for relative clause modifiers of clauses
   * [advmod:emph]() for adverbs or particles that modify noun phrases and emphasize or negate them
   * [aux:caus]() for causative auxiliaries
-  * [aux:ех]() for existentials as auxiliary
+  * [aux:eх]() for existentials as auxiliary
   * [case:loc]() for postpositional localizers
   * [compound:lvc]() for light compound verbs
   * [compound:redup]() for reduplicated compounds
@@ -191,9 +189,10 @@ as well as Armenian-specific examples scattered across the documentation of cons
 
 ## Treebanks
 
-There are [two](../treebanks/hy-comparison.html) Eastern Armenian UD treebanks and one treebank in Western Armenian:
+There are [two](../treebanks/hy-comparison.html) Eastern Armenian UD treebanks, one treebank for Western Armenian, and one treebank for Middle Armenian:
 
-  * [Armenian-ArmTDP](../treebanks/hy_armtdp/index.html)
-  * [Armenian-BSUT](../treebanks/hy_bsut/index.html)
-  * [Western_Armenian-ArmTDP](../treebanks/hyw_armtdp/index.html)
+  * [Armenian-ArmTDP](https://universaldependencies.org/treebanks/hy_armtdp/index.html)
+  * [Armenian-BSUT](https://universaldependencies.org/treebanks/hy_bsut/index.html)
+  * [Western_Armenian-ArmTDP](https://universaldependencies.org/treebanks/hyw_armtdp/index.html)
+  * [Middle_Armenian-ArmTDP](https://universaldependencies.org/treebanks/axm_armtdp/index.html)
 

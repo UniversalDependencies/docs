@@ -5,26 +5,26 @@ shortdef: 'case'
 udver: '2'
 ---
 
-Chechen has a rich paradigm of cases assigned on nominal and pronominal classes, including nouns, pronouns, numerals, determiners, and nominalized verbal forms.
+Chechen has a rich paradigm of cases marked on nouns, pronouns, numerals, determiners, and nominalized verbal forms.
 
-| Case | Singular | Plural | 
+| Case | Singular | Plural |
 |------|--------|--------|
-| Absolutive | Ø | _-ash, -ij, -i_ | 
-| Ergative | _-(as), -uo_ | _-sh-a_ | 
-| Genitive | _-(a)n_ | _-in_ | 
-| Dative | _-na, -n_ | _-ash-na_ | 
-| Instrumental | _-(a)ca_ | _-ash-ca_ | 
-| Locative | _-(a)hw_ | _-ash-ahw, -kahw_ | 
-| Lative | _-(a)x_ | _-iax, -ix_ | 
-| Ablative | _-gara_ | _-ash-kara_ | 
-| Allative | _-(a)ga, -ie_ | _-ash-ka_ | 
-| Comparative | _-(a)l_ | _-ial, -il_ | 
+| Absolutive | Ø | _-ash, -ij, -i_ |
+| Ergative | _-(as), -uo_ | _-sh-a_ |
+| Genitive | _-(a)n_ | _-in_ |
+| Dative | _-na, -n_ | _-ash-na_ |
+| Instrumental | _-(a)ca_ | _-ash-ca_ |
+| Locative | _-(a)hw_ | _-ash-ahw, -kahw_ |
+| Lative | _-(a)x_ | _-iax, -ix_ |
+| Ablative | _-gara_ | _-ash-kara_ |
+| Allative | _-(a)ga, -ie_ | _-ash-ka_ |
+| Comparative | _-(a)l_ | _-ial, -il_ |
 
-Attributive forms, however, distinguish between the absolutive and the oblique cases only (the latter is marked with the suffix _-chu_).
+Attributive forms (e.g. adjectives and demonstrative pronouns) distinguish between the absolutive and the oblique cases only (the latter is marked with the suffix _-chu_).
 
 ### <a name="Abs">`Abs`</a>: absolutive
 
-The absolutive is assigned on the semantic subject of intransitive verbs and on the direct object of transitive verbs.
+The absolutive marks the semantic subject of intransitive verbs (the S argument), the direct object of transitive verbs (the P argument), as well as the semantic subject of transitive verbs (the A argument) with some temporal-aspectual forms (in the so-called bi-absolutive construction).
 
 
 #### Examples
@@ -35,18 +35,18 @@ The absolutive is assigned on the semantic subject of intransitive verbs and on 
 
 ### <a name="Erg">`Erg`</a>: ergative
 
-The ergative marks the semantic subject of transitive verbs.
+The ergative marks the semantic subject of transitive verbs (the A argument) with most temporal-aspectual forms.
 
 #### Examples
 
 * _zha.Ø lar-d-oora aas_<br>
-  sheep.ABS watch-D-make.IMPF 1SG.**ERG**<br> 
+  sheep.ABS watch-D-make.IMPF 1SG.**ERG**<br>
   'I used to watch sheep.'
 
 ### <a name="Dat">`Dat`</a>: dative
 
 The dative marks the semantic subject of psych verbs such as _deeza_ 'love, need', _xaza_ 'hear', _ga_ 'see', etc.
-It also marks the indirect object of verbs of contact and physical transfer.
+It also marks the indirect object (the Goal argument) of verbs of contact and physical transfer.
 
 #### Examples
 
@@ -67,37 +67,37 @@ The genitive marks the possessor in the possessive construction.
 
 ### <a name="Ins">`Ins`</a>: instrumental
 
-The instrumental marks nominal phrases that have instrumental or comitative readings.  
+The instrumental marks nominal phrases that have instrumental or comitative readings.
 
 #### Examples
 
 * _Hara doexka san koch-<b>aca</b> d-ooghu._<br>
   DEM belt.ABS 1SG.GEN dress-**INS** D-come<br>
-  'This belt goes well **with** my dress.'  
+  'This belt goes well **with** my dress.'
 
 ### <a name="Cmp">`Cmp`</a>: comparative
 
-The comparative is used exclusively in the comparative construction, where it forms an equivalent of a _than-_ clause in English. 
+The comparative is used exclusively to mark the standard of comparison in the comparative construction.
 
 #### Examples
 
 * _san k'ant hwan jow<b>-al</b> liaq-ox v-u_<br>
-  1.SG.GEN boy.ABS 2SG.GEN jow-**CMP** tall-**CMP** V-be<br> 
+  1.SG.GEN boy.ABS 2SG.GEN girl-**CMP** tall-**CMP** V-be<br>
   'My son is taller **than** your girl.'
 
 ### <a name="Loc">`Loc`</a>: locative
 
-The locative marks non-core arguments that denote a location.
+The locative marks obliques that denote a location.
 
 #### Examples
 
 * _Madina-na Islam ghien-<b>ahw</b> go._<br>
   Madina-DAT Islam.ABS dream-**LOC** see<br>
-  'Islam dreams about Madina.'  
+  'Islam sees Madina in the dream.'
 
 ### <a name="Lat">`Lat`</a>: lative
 
-The lative marks a variety of non-core arguments, including source and goal.
+The lative marks obliques that denote source and goal.
 
 #### Examples
 
@@ -107,11 +107,11 @@ The lative marks a variety of non-core arguments, including source and goal.
 
 ### <a name="All">`All`</a>: allative
 
-The allative marks the causee in causative constructions; it also marks the addressee of verbs of saying.
+The allative marks the causee in causative constructions. It also marks the addressee of utterance verbs.
 
 #### Examples
 
-* _V-oqqa-chu stag-as Islam-<b>ie</b> kniiga  j-esh-ijt-ina_<br>
+* _V-oqqa-chu stag-as Islam-<b>ie</b> kniiga j-esh-ijt-ina_<br>
   V-old-OBL man-ERG Islam-**ALL** book.ABS J-read-CAUS-PRF<br>
   'The old man made Islam read the book.'
 
@@ -121,7 +121,7 @@ The allative marks the causee in causative constructions; it also marks the addr
 
 ### <a name="Abl">`Abl`</a>: ablative
 
-The ablative marks non-core arguments such as source or direction.
+The ablative marks obliques that denote source or direction.
 
 #### Examples
 
@@ -131,7 +131,7 @@ The ablative marks non-core arguments such as source or direction.
 
 ### <a name="Acc">`Acc`</a>: oblique/accusative
 
-The oblique marks all non-absolutive uses of attributive adjectives and nominalized verbal forms.
+The oblique marks all non-absolutive uses of attributive adjectives, demonstrative pronouns, and nominalized verbal forms.
 Following the UD convention, the value `Acc` is used to mark the oblique case.
 
 #### Examples
