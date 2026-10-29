@@ -172,7 +172,7 @@ The following relation subtypes are documented for Western Armenian:
 * [iobj:agent]() for dative agents in causative constructions
 * [nmod:npmod]() for noun-phrase modifiers
 * [nmod:poss]() for possessive nominal modifiers
-* [nsubj:caus]() for causers in causative constructions
+* [nsubj:caus]() for nominal subjects of causative verbs
 * [nsubj:outer]() for outer nominal subjects
 * [nsubj:pass]() for nominal subjects of passive predicates
 * [obj:agent]() for object-like agents in causative constructions
@@ -364,4 +364,4 @@ as well as Armenian-specific examples scattered across the documentation of cons
 
 There is just one Eastern Armenian UD treebank.
 
-  * [Armenian-ArmTDP](../treebanks/hy_armtdp/index.html)
+  * [Armenian-ArmTDP](../treebanks/hyw_armtdp/index.html)
