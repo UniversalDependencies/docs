@@ -78,7 +78,7 @@ This is an overview only. For more detailed discussion and examples, see the lis
   Person is not marked on other types of pronouns and on nouns, although they can almost always be interpreted as the 3rd person.
   * As a cross-reference to subject, person is also marked on finite verbs ([VERB](), [AUX]()).
 * There are three [layered features](../../u/overview/feat-layers.html), [Person[psor]](), [Number[psor]]() and [Deixis[psor]]().
-  They appear with nouns, gerundives, certain pronouns and adpositions and encode the lexical person/number of the possessor or the position of an entity relative to either the speaker or the hearer. The extra layer is needed to distinguish these lexical features from the inflectional person and number that mark agreement with the modified (possessed) noun.
+  They appear with nouns, infinitives, certain pronouns and adpositions and encode the lexical person/number of the possessor or the position of an entity relative to either the speaker or the hearer. The extra layer is needed to distinguish these lexical features from the inflectional person and number that mark agreement with the modified (possessed) noun.
 
 ### Other Features
 
