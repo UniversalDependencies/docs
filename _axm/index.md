@@ -113,7 +113,7 @@ This is an overview only. For more detailed discussion and examples, see the lis
   * If a verb takes two core objects, the non-nominative object, usually a dative recipient or experiencer, is labeled [iobj]().
   * Infinitival complements of modal and control predicates are normally labeled [xcomp](); finite complements are labeled [ccomp]().
 * Non-core dependents are labeled [obl](). They include temporal and locative noun phrases, adpositional phrases, and case-marked nominals expressing such roles as means, manner, direction, source, beneficiary, or location.
-* * Adpositions attach to their nominal complement with [case](). Inflected postpositional localizers attach with [case:loc](); when a localizer occurs independently, it attaches to the predicate as [obl]() while retaining the [ADP]() tag.
+* Adpositions attach to their nominal complement with [case](). Inflected postpositional localizers attach with [case:loc](); when a localizer occurs independently, it attaches to the predicate as [obl]() while retaining the [ADP]() tag.
 * In passive clauses, an overt demoted agent is labeled [obl:agent]().
   * The auxiliary verb in periphrastic passive is labeled [aux]().
 * In periphrastic causatives:
@@ -123,8 +123,10 @@ This is an overview only. For more detailed discussion and examples, see the lis
 
 ### Non-verbal Clauses
 
-* The copula verb _եմ_ (be) is used in equational, attributional, locative, possessive and benefactory nonverbal clauses.
-  * Purely existential clauses (without indicating location) normally use different lemmas, _լինել_ or _կամ_, and they are treated as the head of the clause and tagged [VERB]().
+* Forms of _եմ_/_em_ “be” are tagged [AUX]() and attach to the non-verbal predicate with [cop](). The predicate is the head of the clause.
+* The copular analysis is used with equational, attributive, locative, possessive, and benefactive predicates. Under the UD v2 guidelines, prepositional and postpositional phrases expressing location are also treated as predicates.
+ The relevant forms of  _լինիմ_/_linim_ “be” are lexical [VERB]() with nominal predicates. They are [AUX]() only in compound constructions with participles.
+* Purely existential _կամ_/_kam_ “exist” is the head of its clause and is tagged [VERB](). In secondary compound constructions, existential _կամ_/_kam_ “exist” and _ունիմ_/_ownim_ “have”  may function as auxiliaries and receive [aux:ex]().
 
 ### Relations Overview
 
