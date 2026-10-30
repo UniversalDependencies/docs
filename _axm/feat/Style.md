@@ -17,10 +17,11 @@ udver: '2'
 </tr>
 </table>
 
-This
-may be a lexical feature (some words-lemmas are archaic, some are colloquial) or a morphological feature (inflectional patterns may systematically change between dialects or styles).
+This may be a lexical feature (some words-lemmas are archaic, some are colloquial) or a morphological feature (inflectional patterns may systematically change between dialects or styles). 
 
 ### <a name="Arch">`Arch`</a>: archaic, obsolete
+
+Note that the value `Style=Arch` is used also for present and imperfect indicative forms that lack the Middle Armenian [AUX]() _կու_/_kow_. 
 
 #### Examples
 
