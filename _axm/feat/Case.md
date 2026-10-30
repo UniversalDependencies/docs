@@ -28,6 +28,7 @@ Morphologically, Middle Armenian distinguishes six case forms: `Nom`, `Acc`, `Ge
 Some personal and demonstrative pronouns distinguish between `Case=Gen` and `Case=Dat`. Note that the `Gen` case of personal pronouns forms a separate paradigm of possessive pronouns.
 
 Note also that some cases mainly `Acc`, `Dat`, `Abl` and `Loc` can be combined with adpositions (see below).
+In prepositional constructions inherited from Classical Armenian, the case of nouns, numerals, and adjectives is annotated according to their morphological form rather than the semantic function of the preposition.
 
 #### Examples
 
