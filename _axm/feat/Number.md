@@ -8,7 +8,6 @@ udver: '2'
 <table class="typeindex" border="1">
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
-  <td><a href="#Coll">Coll</a></td>
   <td><a href="#Plur">Plur</a></td>
   <td><a href="#Ptan">Ptan</a></td>
   <td><a href="#Sing">Sing</a></td>
@@ -71,15 +70,6 @@ Pronouns that refer to several persons, animals or things are also marked with t
 Demonstrative pronouns referring to plural entities are marked with this feature, whereas demonstrative determiners are not, regardless of whether the modified noun is singular or plural (see above).
 
 
-### <a name="Coll">`Coll`</a>: collective / mass / singulare tantum
-
-Collective or mass or singulare tantum is a special case of singular. It applies to words that use grammatical singular to describe sets of objects, i.e. semantic plural. 
-
-#### Examples:
-
-* _հնազանդութիւն_/_hnazandowtʼiwn_ “obedience”
-* _անաչառութիւն_/_anačaṙowtʼiwn_ “impartiality”
-
 ### <a name="Ptan">`Ptan`</a>: plurale tantum
 
 In Middle Armenian, the `Ptan` number is used with paired body parts and similar entities, but is not limited to these categories. These forms end in the Classical Armenian plural marker _-ք_/_-k’_, and refer to all members of the natural set denoted by the noun, rather than expressing ordinary plural number. The ordinary plural of such nouns is often formed with a different plural marker, such as _-վի_/_-vi_, _-նի_/_-ni_, etc. In such cases, their lemma is given without the ending _-ք_/_-k’_, and the form is annotated as plural (`Number=Plur`). 
@@ -89,7 +79,6 @@ Some geographical or biological/botanical names appear only in the plural form e
 
 * _<b>ոտք</b>_/_otkʼ_ “legs”
 * _<b>աչք</b>_/_ačkʼ_ “eyes”
-* _<b>քովք</b>_/_kʼovkʼ_ “sides, ribs”
 * _<b>պինչք</b>_/_pinčkʼ_ “nostrils”
 * _<b>արծուիք</b>_/_arçowik’_ “ascites”
 * _<b>երանք</b>_/_erank’_ “loins”
