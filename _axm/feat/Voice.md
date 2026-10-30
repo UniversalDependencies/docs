@@ -37,6 +37,11 @@ The subject of the verb is affected by the action (patient). The doer (agent) is
 
 The finite and non-finite forms of verbs are labeled `Voice=Pass` in the passive constructions. In this case, the verbs are marked with the passive suffix _-ու- (-ւ-, -վ-)/-ow- (-w-, -v-)_ (for exceptions see below).
 Note that in Middle Armenian, the passive meaning may sometimes lack a distinct morphological marker (particularly in the resultative participle), as in Classical Armenian. In such cases, passivity is inferred from the verb’s valency and syntactic context, including the presence of an oblique agent when overtly expressed.
+In Middle Armenian, the suffix _-վ/-ու_ (_-v/-ow_) begins to be used to form passive and mediopassive verbs, although its use is not yet consistent. The language frequently retains the Classical Armenian pattern, in which voice distinctions are expressed through the thematic vowel in the present-tense conjugation paradigm: the _e_-thematic conjugation is associated with active verbs, while the _i_-thematic conjugation is associated with passive and mediopassive verbs.
+
+To preserve this distinction in Middle Armenian UD annotation, the thematic vowel is reflected in the lemma. Thus, active verbs are lemmatized with the infinitive ending _-ել_ (_-el_), whereas mediopassive verbs are lemmatized with _-իլ_ (_-il_).
+
+Passive verb forms, however, are assigned the lemma of the corresponding active verb, and their passive voice is indicated by the morphological feature `Voice=Pass`.
 
 #### Examples
 
@@ -47,7 +52,10 @@ Note that in Middle Armenian, the passive meaning may sometimes lack a distinct 
 
 ### <a name="Mid">`Mid`</a>: middle voice
 
-The middle voice is situated between active and passive. It is also used for the reflexive verbs, traditionally called mediopassive (for reciprocal verbs see below); in this case, the verbs are marked with the passive suffix _-ու- (-ւ-, -վ-)/-ow- (-w-, -v-)_.
+The middle voice is situated between active and passive. It is also used for the reflexive verbs, traditionally called mediopassive (for reciprocal verbs see below).
+In Middle Armenian, the suffix  _-ու- (-ւ-, -վ-)/-ow- (-w-, -v-)_ begins to be used to form passive and mediopassive verbs, although its use is not yet consistent. The language frequently retains the Classical Armenian pattern, in which voice distinctions are expressed through the vowel in the ending of present-tense conjugation paradigm: the _ե_/_e_-conjugation is associated with active verbs, while the _ի_/_i_-conjugation is associated with passive and mediopassive verbs.
+To preserve this distinction in Middle Armenian UD annotation, the thematic vowel is reflected in the lemma. Thus, active verbs are lemmatized with the infinitive ending _-ել_ (_-el_), whereas mediopassive verbs are lemmatized with _-իլ_ (_-il_).
+Passive verb forms, however, are assigned the lemma of the corresponding active verb, and their passive voice is indicated by the morphological feature `Voice=Pass`.
 
 #### Examples
 
