@@ -94,6 +94,8 @@ This is an overview only. For more detailed discussion and examples, see the lis
   * The value `Style=Arch` is used for archaic forms that belong to an older grammatical pattern but occur in Middle Armenian texts.
   * The following universal features are not used in Middle Armenian: [Gender](), [Evident]().
 
+Note that for forms retaining [Classical Armenian](https://github.com/UniversalDependencies/docs/blob/pages-source/_xcl/index.md) morphological patterns, we specify the language code **xcl** and apply its morphological annotation conventions, which may differ from those used for Middle Armenian.
+
 ## Syntax
 
 This is an overview only. For more detailed discussion and examples, see the list of [Middle Armenian relations](dep/index.html), as well as Middle Armenian-specific examples scattered across the documentation of constructions.
