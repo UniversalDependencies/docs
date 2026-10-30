@@ -16,5 +16,7 @@ including prepositional phrases.
 3	մէն	մէն	ADV	_	_	2	advmod:emph	_	_
 4	տայ	տալ	AUX	_	Aspect=Prosp|Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Cau	5	aux:caus	_	_
 5	սպաննել	սպաննել	VERB	_	Polarity=Pos|Subcat=Tran|VerbForm=Inf|Voice=Act	0	root	_	_
+
 ~~~
+
 <!-- Interlanguage links updated Út 30. června 2026, 10:59:34 CEST -->

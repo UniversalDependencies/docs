@@ -29,13 +29,21 @@ The current contact for the release task force is:
 Dan Zeman (zeman@ufal.mff.cuni.cz).
 
 UD treebank repositories have names that follow a uniform scheme. They start with “UD_” followed by the
-language name, a hyphen and a short treebank identifier (normally 2 to 6 letters, although some are longer).
+language name, a hyphen and a **short** treebank identifier (normally 2 to 6 letters, although some are longer).
 For example, UD_English-LinES and UD_English-ParTUT are two different English UD treebanks and their
 identifiers are LinES and ParTUT. The identifier can be an acronym of your annotation project (such as XTB,
 where X is the initial of the language name), or your institution, or even your own initials, but preferably
 it should be short. It can contain uppercase and lowercase English letters (the first letter uppercase) but
 it cannot contain additional underscores, hyphens or other special characters. Tell your preferred treebank
 acronym to the release task force when you ask for the repository.
+
+**Note:** The purpose of the treebank id is **not** to highlight your project name, book title or anything else!
+Such things can and should be described and credit given inside the README.md file. The sole purpose of the
+treebank id is to distinguish it from other treebanks in the same language. An abbreviation of your project may
+be sometimes useful to make the code memorable; but the full name of the project is not a good candidate for
+a treebank id unless it is very short. Remember that on various occasions people present lists or tables of
+treebanks and formatting them becomes difficult if some treebanks have much longer ids than others; and the
+results are ugly.
 
 Think carefully whether the acronym is good enough even considering possible future growth of the treebank.
 **Once the repository has been created, renaming is strongly discouraged** (although not entirely impossible

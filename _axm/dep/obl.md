@@ -36,6 +36,7 @@ The `obl` relation is used for a nominal (noun, pronoun, noun phrase) functionin
 23	ի	ի	ADP	_	AdpType=Prep	24	case	_	_
 24	հնազանդութիւն	հնազանդութիւն	NOUN	_	Animacy=Nhum|Case=Acc|Definite=Ind|Number=Coll	22	obl	_	SpaceAfter=No
 25	.	.	PUNCT	_	_	15	punct	_	_
+
 ~~~
 
 
@@ -54,7 +55,9 @@ The `obl` relation is used for a nominal (noun, pronoun, noun phrase) functionin
 10	՝	՝	PUNCT	_	_	11	punct	_	_
 11	մեռնի	մեռնիլ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Style=Arch|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	SpaceAfter=No
 12	.	.	PUNCT	_	_	11	punct	_	_
+
 ~~~
 
 We use [obl:agent]() for the agent of a passive verbs.
+
 <!-- Interlanguage links updated Út 30. června 2026, 11:00:29 CEST -->

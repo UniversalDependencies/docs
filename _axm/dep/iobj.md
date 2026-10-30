@@ -15,6 +15,7 @@ The prototypical example is the recipient of ditransitive verbs of exchange:
 3	ծարւած	ծարւիլ	VERB	_	Aspect=Perf|Polarity=Pos|Style=Var|Subcat=Intr|VerbForm=Part|Voice=Mid	4	acl	_	_
 4	լերդիս	լերդ	NOUN	_	Animacy=Nhum|Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=1	2	iobj	_	SpaceAfter=No
 5	:	:	PUNCT	_	Foreign=Yes	2	punct	_	_
+
 ~~~
 
 Middle Armenian allows other semantic roles as additional objects. The morphological [Case]() of the objects is dictated by verb valency.
@@ -29,6 +30,7 @@ described [on the changes page](https://universaldependencies.org/changes.html#s
 3-4	զմարդն	_	_	_	_	_	_	_	
 3	զ	զ	ADP	_	AdpType=Prep	4	case	_	_
 4	մարդն	մարդ	NOUN	_	Animacy=Hum|Case=Acc|Definite=Def|Number=Sing	2	obj	_	_
+
 ~~~
 
 ~~~ conllu
@@ -38,10 +40,10 @@ described [on the changes page](https://universaldependencies.org/changes.html#s
 2	այլ	այլ	DET	_	PronType=Ind	3	det	_	_
 3	դատաւորքն	դատաւոր	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Plur	4	iobj	_	_
 4	թողու	թողուլ	VERB	_	Aspect=Prosp|Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+
 ~~~
 
-When there is a [clausal complement](ccomp), then the clausal complement is regarded as a “clausal direct object” and an object nominal will be an `iobj`, parallel to
-the simple ditransitive case:
+When there is a [clausal complement](ccomp), then the clausal complement is regarded as a “clausal direct object” and an object nominal will be an `iobj`, parallel to the simple ditransitive case:
 
 ~~~ conllu
 # visual-style 4 3 iobj color:blue
@@ -56,5 +58,7 @@ the simple ditransitive case:
 7	ինչպես	ինչպես	PRON	_	Case=Nom|Definite=Ind|Number=Sing|PronType=Int	4	ccomp	_	_
 8	՞	՞	PUNCT	_	_	7	punct	_	_
 9	ես	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin	7	cop	_	_
+
 ~~~
+
 <!-- Interlanguage links updated Út 30. června 2026, 11:00:12 CEST -->

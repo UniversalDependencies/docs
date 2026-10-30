@@ -15,6 +15,7 @@ the relation is [det]() instead of `amod`.
 2	իժ	իժ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	4	nsubj	_	_
 3	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	4	aux	_	_
 4	խայթել	խայթել	VERB	_	Aspect=Perf|Polarity=Pos|Subcat=Tran|VerbForm=Part|Voice=Act	0	root	_	_
+
 ~~~
 
 ~~~ conllu
@@ -25,5 +26,7 @@ the relation is [det]() instead of `amod`.
 3	երեսդ	երես	NOUN	_	Animacy=Nhum|Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=2	1	obj	_	_
 4	հով	հով	ADJ	_	Degree=Pos	5	amod	_	_
 5	ջրով	ջուր	NOUN	_	Animacy=Nhum|Case=Ins|Definite=Ind|Number=Sing	1	obl	_	_
+
 ~~~
+
 <!-- Interlanguage links updated Út 30. června 2026, 10:59:38 CEST -->

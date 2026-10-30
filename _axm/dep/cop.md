@@ -16,6 +16,7 @@ The nominal predicate is usually a [noun](NOUN), a [pronoun](PRON), an [adjectiv
 3	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	5	cop	_	_
 4	խնկան	խունկ	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	5	nmod:poss	_	_
 5	փոշի	փոշ	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	0	root	_	_
+
 ~~~
 
 ~~~ conllu
@@ -23,6 +24,7 @@ The nominal predicate is usually a [noun](NOUN), a [pronoun](PRON), an [adjectiv
 1	նեղերն	նեղ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Plur	2	nsubj	_	_
 2	այս	այս	PRON	_	Case=Nom|Deixis=Prox|Number=Sing|PronType=Dem	0	root	_	_
 3	են	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	2	cop	_	_
+
 ~~~
 
 ~~~ conllu
@@ -30,6 +32,7 @@ The nominal predicate is usually a [noun](NOUN), a [pronoun](PRON), an [adjectiv
 1	ես	ես	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
 2	պզտիկ	պզտիկ	ADJ	_	Degree=Pos	0	root	_	_
 3	էի	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Imp|VerbForm=Fin	2	cop	_	_
+
 ~~~
 
 ~~~ conllu
@@ -40,5 +43,7 @@ The nominal predicate is usually a [noun](NOUN), a [pronoun](PRON), an [adjectiv
 4	,	,	PUNCT	_	_	5	punct	_	_
 5	աղէկ	աղէկ	ADV	_	_	0	root	_	_
 6	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	5	cop	_	_
+
+~~~
 
 <!-- Interlanguage links updated Út 30. června 2026, 10:59:55 CEST -->

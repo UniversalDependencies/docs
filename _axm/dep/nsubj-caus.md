@@ -22,5 +22,7 @@ The infinitive verb governs the causative auxiliary via an [aux:caus]() relation
 9	կերակուրն	կերակուր	NOUN	_	Animacy=Nhum|Case=Acc|Definite=Def|Number=Sing	10	obj	_	_
 10	մարսել	մարսել	VERB	_	Polarity=Pos|Subcat=Tran|VerbForm=Inf|Voice=Act	6	conj	_	_
 11	տայ	տալ	AUX	_	Aspect=Prosp|Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Cau	10	aux:caus	_	_
+
 ~~~
+
 <!-- Interlanguage links updated Út 30. června 2026, 11:00:23 CEST -->

@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Huave UD'
+title:  'Gorani UD'
 udver: '2'
 ---
 
-# UD for Huave <span class="flagspan"><img class="flag" src="../../flags/svg/MX.svg" /></span>
+# UD for Gorani <span class="flagspan"><img class="flag" src="../../flags/svg/IQ-KRD.svg" /></span>
 
 ## Tokenization and Word Segmentation
 
@@ -46,10 +46,10 @@ udver: '2'
 
 ## Treebanks
 
-There are [N](../treebanks/huv-comparison.html) Huave UD treebanks:
+There are [N](../treebanks/hac-comparison.html) Gorani UD treebanks:
 
-  * [Huave-A](../treebanks/huv_a/index.html)
-  * [Huave-B](../treebanks/huv_b/index.html)
+  * [Gorani-A](../treebanks/hac_a/index.html)
+  * [Gorani-B](../treebanks/hac_b/index.html)
 
 ---
 **Instruction**: Treebank-specific pages are generated automatically from the README file in the treebank repository and

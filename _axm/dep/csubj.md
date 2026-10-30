@@ -16,6 +16,7 @@ For the clausal subject of a passive verb or verb group, the subtype [csubj:pass
 3	այլ	այլ	DET	_	PronType=Ind	4	det	_	_
 4	մարդ	մարդ	NOUN	_	Animacy=Hum|Case=Nom|Definite=Ind|Number=Sing	5	obj	_	_
 5	սպաննել	սպաննել	VERB	_	Polarity=Pos|Subcat=Tran|VerbForm=Inf|Voice=Act	2	csubj	_	_
+
 ~~~
 
 ~~~ conllu
@@ -25,6 +26,7 @@ For the clausal subject of a passive verb or verb group, the subtype [csubj:pass
 3	թագաւորին	թագաւոր	NOUN	_	Animacy=Hum|Case=Dat|Definite=Def|Number=Sing	4	nmod:poss	_	_
 4	կամացն	կամ	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Def|Number=Plur	5	obl	_	_
 5	լինի	լինիլ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Style=Arch|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+
 ~~~
 
 
@@ -37,5 +39,7 @@ We also analyze the nominal predicates with clausal subjects formed by subordina
 3	որ	որ	SCONJ	_	_	4	mark	_	_
 4	ձենել	ձենել	VERB	_	Polarity=Pos|Subcat=Tran|VerbForm=Inf|Voice=Act	1	csubj	_	_
 5	տայ	տալ	AUX	_	Aspect=Prosp|Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Cau	4	aux:caus	_	SpaceAfter=No
+
 ~~~
+
 <!-- Interlanguage links updated Út 30. června 2026, 10:59:56 CEST -->

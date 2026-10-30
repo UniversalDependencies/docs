@@ -7,19 +7,13 @@ udver: '2'
 
 The relation `obl:arg` is used for oblique arguments.
 
-Examples from **UD_French-Spoken**:
+An example from **UD_French-Rhapsodie**:
 
 ~~~ sdparse
-on imagine des scénarios \n we imagine scenarios
-obl:arg(imagine, scénarios)
+elle dit bonjour à Sanata . \n she says hello to Sanata.
+obl:arg(dit, Sanata)
+case(Sanata, à)
 ~~~
-
-~~~ sdparse
-Max habite à Paris . \n Max lives in Paris.
-obl:arg(habite, Paris)
-case(Paris, à)
-~~~
-
 
 An example from **UD_French-GSD**:
 

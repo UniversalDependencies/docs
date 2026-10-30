@@ -14,6 +14,7 @@ Middle Armenian uses a combination of inflected words (morphological cases) and 
 3	ուր	ուր	ADV	_	PronType=Rel	5	advmod	_	_
 4	թագաւորն	թագաւոր	NOUN	_	Animacy=Hum|Case=Nom|Definite=Def|Number=Sing	5	nsubj	_	_
 5	ուրդի	ուրդիլ	VERB	_	Aspect=Prosp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Style=Arch|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Mid	2	acl:relcl	_	_
+
 ~~~
 
 Currently, we also use `case` for some other case-marking elements treated as separate syntactic words (derived from a closed set of nouns, adjectives/participles or adverbs). These elements (known as “adpositional words” in Armenian (and also in Middle Armenian) grammar) are treated as dependents of the noun or clause they attach to or introduce. They are tagged and annotated according to their basic use. In this case the [ExtPos]() feature is used, as the word is coerced into a part of speech different from its lexical one. 
@@ -28,6 +29,7 @@ Currently, we also use `case` for some other case-marking elements treated as se
 6	,	,	PUNCT	_	_	8	punct	_	_
 7	որ	որ	SCONJ	_	_	8	mark	_	_
 8	ուտէ	ուտէ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	1	advcl	_	_
+
 ~~~
 
 ~~~ conllu
@@ -37,5 +39,7 @@ Currently, we also use `case` for some other case-marking elements treated as se
 3	սեխի	սեխ	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	4	nmod:poss	_	_
 4	կեղեւ	կեղեւ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	5	obj	_	_
 5	ձգես	ձգել	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Style=Arch|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+
 ~~~
+
 <!-- Interlanguage links updated Út 30. června 2026, 10:59:44 CEST -->

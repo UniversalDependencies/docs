@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Seri UD'
+title:  'Matigsalug UD'
 udver: '2'
 ---
 
-# UD for Seri <span class="flagspan"><img class="flag" src="../../flags/svg/MX.svg" /></span>
+# UD for Matigsalug <span class="flagspan"><img class="flag" src="../../flags/svg/PH.svg" /></span>
 
 ## Tokenization and Word Segmentation
 
@@ -46,10 +46,10 @@ udver: '2'
 
 ## Treebanks
 
-There are [N](../treebanks/sei-comparison.html) Seri UD treebanks:
+There are [N](../treebanks/mbt-comparison.html) Matigsalug UD treebanks:
 
-  * [Seri-A](../treebanks/sei_a/index.html)
-  * [Seri-B](../treebanks/sei_b/index.html)
+  * [Matigsalug-A](../treebanks/mbt_a/index.html)
+  * [Matigsalug-B](../treebanks/mbt_b/index.html)
 
 ---
 **Instruction**: Treebank-specific pages are generated automatically from the README file in the treebank repository and

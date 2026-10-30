@@ -20,6 +20,7 @@ Note that in Middle Armenian the auxiliary verb _տալ_ used to construct causa
 2	իժ	իժ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	4	nsubj	_	_
 3	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	4	aux	_	_
 4	խայթել	խայթել	VERB	_	Aspect=Perf|Polarity=Pos|Subcat=Tran|VerbForm=Part|Voice=Act	0	root	_	_
+
 ~~~
 
 ~~~ conllu
@@ -38,6 +39,7 @@ Note that in Middle Armenian the auxiliary verb _տալ_ used to construct causa
 11	գլուխն	զգլուխ	NOUN	_	Animacy=Nhum|Case=Acc|Definite=Def|Number=Sing	13	nsubj	_	_
 12	բարձր	բարձր	ADJ	_	_	13	advcl	_	_
 13	կենայ	կենալ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Style=Arch|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Mid	2	conj	_	_
+
 ~~~
 
 ~~~ conllu
@@ -54,5 +56,7 @@ Note that in Middle Armenian the auxiliary verb _տալ_ used to construct causa
 9	պատճառք	պատճառ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Plur	11	xcomp	_	_
 10	լինին	լինիլ	AUX	_	Aspect=Prosp|Mood=Sub|Number=Plur|Person=3|Polarity=Pos|Style=Arch|Tense=Pres|VerbForm=Fin	11	aux	_	_
 11	լել	լինալ	VERB	_	Aspect=Perf|Polarity=Pos|Subcat=Intr|VerbForm=Part|Voice=Mid	4	acl:relcl	_	_
+
 ~~~
+
 <!-- Interlanguage links updated Út 30. června 2026, 10:59:43 CEST -->

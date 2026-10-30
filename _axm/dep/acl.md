@@ -23,6 +23,7 @@ Note that in Middle Armenian relative clauses get assigned a specific relation [
 8	անուանի	անուանիլ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Style=Arch|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Mid	4	acl	_	_
 9	պասդիլուս	պասդիլուս	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	8	xcomp	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	2	punct	_	_
+
 ~~~
 
 ~~~ conllu
@@ -33,6 +34,7 @@ Note that in Middle Armenian relative clauses get assigned a specific relation [
 4	ի	ի	ADP	_	AdpType=Prep	6	case	_	_
 5	խայթած	խայթել	VERB	_	Aspect=Perf|Polarity=Pos|Subcat=Intr|VerbForm=Part|Voice=Mid	6	acl	_	_
 6	տեղն	տեղ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	3	obl	_	_
+
 ~~~
 
 This relation is not used for optional depictives.

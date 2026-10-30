@@ -17,6 +17,7 @@ In Middle Armenian `nmod` is used for noun-noun modification with an attributive
 # visual-style 2 1 nmod color:blue
 1	կաղնի	կաղնի	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	2	nmod	_	_
 2	ծառ	ծառ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	0	root	_	_
+
 ~~~
 
 An `nmod` dependent may itself be modified by a case-marking element attached with the [case]() relation (associative modification).
@@ -26,7 +27,9 @@ An `nmod` dependent may itself be modified by a case-marking element attached wi
 1	արիւն	արիւն	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Coll	0	root	_	_
 2	ջուրի	ջուր	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	1	nmod	_	_
 3	նման	նման	ADP	_	AdpType=Post	2	case	_	_
+
 ~~~
 
 Note that so-called “bare noun compounds” are marked using the [compound]() relation.
+
 <!-- Interlanguage links updated Út 30. června 2026, 11:00:16 CEST -->

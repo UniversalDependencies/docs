@@ -21,11 +21,14 @@ The `compound:svc` relation is used for serial verb constructions in non-nominal
 9	ու	ու	CCONJ	_	_	10	cc	_	_
 10	լացի	լալ	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Subcat=Intr|Tense=Past|VerbForm=Fin|Voice=Mid	1	conj	_	SpaceAfter=No
 11	։	։	PUNCT	_	_	1	punct	_	_
+
 ~~~
 
 ~~~ conllu
 # visual-style 1 2 compound:svc color:blue
 1	Գնացի	գնալ	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Subcat=Intr|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 2	անկայ	անկանել	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Subcat=Intr|Tense=Past|VerbForm=Fin||Voice=Mid	1	compound:svc	_	_
+
 ~~~
+
 <!-- Interlanguage links updated Út 30. června 2026, 10:59:52 CEST -->

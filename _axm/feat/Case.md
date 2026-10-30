@@ -13,7 +13,6 @@ udver: '2'
   <td><a href="#Dat">Dat</a></td>
   <td><a href="#Gen">Gen</a></td>
   <td><a href="#Ins">Ins</a></td>
-  <td><a href="#Loc">Loc</a></td>
   <td><a href="#Nom">Nom</a></td>
 </tr>
 </table>
@@ -29,6 +28,7 @@ Morphologically, Middle Armenian distinguishes six case forms: `Nom`, `Acc`, `Ge
 Some personal and demonstrative pronouns distinguish between `Case=Gen` and `Case=Dat`. Note that the `Gen` case of personal pronouns forms a separate paradigm of possessive pronouns.
 
 Note also that some cases mainly `Acc`, `Dat`, `Abl` and `Loc` can be combined with adpositions (see below).
+In prepositional constructions inherited from Classical Armenian, the case of nouns, numerals, and adjectives is annotated according to their morphological form rather than the semantic function of the preposition.
 
 #### Examples
 
@@ -110,13 +110,11 @@ The role from which the name of the instrumental case is derived is that the nou
 * _Եւ <b>քարամբ</b> խիստ քարկոծեցաւ_/_Ew k’aramb xist k’arkoçec’aw_ “And he was severely pelted with <b>stones</b>.” (Passive example)
 
 
-### <a name="Loc">`Loc`</a>: locative
-
-The locative case often expresses location in space or time. As elsewhere, non-locational meanings also exist and they are not rare.
-In Middle Armenian pronouns do not have `Loc` case. It's also rare with nouns. In most cases, its meaning is expressed by a preposition with a noun in the `Gen`-`Dat` (generally for singular nouns) and in the `Acc` (generally for plural nouns).
+Note that the locative case is not recognized as a distinct case in the UD annotation of Middle Armenian. Instead, locative meaning is expressed by a preposition followed by a noun in the dative case (`Dat`), typically in the singular, or in the accusative case (`Acc`), typically in the plural. Although the preposition may sometimes be written together with the noun, it is segmented as a separate token in UD annotation.
 
 #### Examples
 
 * _Ձագերն ձայն ածեն <b>յայգին</b>։_/_Jagern jayn açen yaygin_ “(Some animals') young ones are making noise <b>in the garden</b>”
 * _<b>յաւազանն</b> մտանէ_/_yawazann mtanē_ “he gets <b>into the pool</b>”
+  
 <!-- Interlanguage links updated Út 30. června 2026, 10:58:44 CEST -->

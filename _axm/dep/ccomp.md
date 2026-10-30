@@ -5,9 +5,7 @@ shortdef: 'clausal complement'
 udver: '2'
 ---
 
-A clausal complement of a verb or adjective is a dependent clause 
-which is a core argument. That is, it functions like an object of the verb, or
-adjective.
+A clausal complement of a verb or adjective is a dependent clause which is a core argument. That is, it functions like an object of the verb, or adjective.
 
 ~~~ conllu
 # visual-style 1 8 ccomp color:blue
@@ -25,6 +23,7 @@ adjective.
 11	կամ	կամ	CCONJ	_	_	12	cc	_	_
 12	պատարագ	պատարագ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	10	conj	_	SpaceAfter=No
 13	։	։	PUNCT	_	_	1	punct	_	_
+
 ~~~
 
 Such clausal complements may be finite or nonfinite. However, if the subject of the clausal complement is controlled (that is, must be the same as the higher subject or object, with no other possible interpretation)
@@ -46,6 +45,7 @@ the appropriate relation is [xcomp]().
 11	կարէ	կարել	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Style=Arch|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 12	ոք	ոք	PRON	_	Case=Nom|Number=Sing|PronType=Ind	13	nsubj	_	_
 13	արգելուլ	արգելուլ	VERB	_	Polarity=Pos|Subcat=Tran|VerbForm=Inf|Voice=Act	11	xcomp	_	_
+
 ~~~
 
 ~~~ conllu
@@ -58,8 +58,9 @@ the appropriate relation is [xcomp]().
 5	իրաւունքն	իրաւունք	NOUN	_	Animacy=Nhum|Case=Acc|Definite=Def|Number=Sing	6	obj	_	_
 6	տանել	տանել	VERB	_	Polarity=Pos|Subcat=Tran|VerbForm=Inf|Voice=Act	1	xcomp	_	_
 7	ըղորդ	ըղորդ	ADV	_	_	6	advmod	_	SpaceAfter=No
+
 ~~~
 
-The key difference here is that, while it is possible to interpret the first sentence as meaning that the one who forbids is not the one who will draw, in the second sentence it is clear that the 
-subject of __administer__ can only be __King__. This is what distinguishes `ccomp` and `xcomp`.
+The key difference here is that, while it is possible to interpret the first sentence as meaning that the one who forbids is not the one who will draw, in the second sentence it is clear that the subject of __administer__ can only be __King__. This is what distinguishes `ccomp` and `xcomp`.
+
 <!-- Interlanguage links updated Út 30. června 2026, 10:59:46 CEST -->

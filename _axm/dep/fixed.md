@@ -15,11 +15,14 @@ The [ExtPos]() feature should be specified on the first word of the fixed expres
 # visual-style 2 1 fixed color:blue
 1	քաւէլ	քաւէլ	SCONJ	_	ExtPos=SCONJ	0	root	_	_
 2	թէ	թէ	PART	_	_	1	fixed	_	_
+
 ~~~
 
 ~~~ conllu
 # visual-style 2 1 fixed color:blue
 1	ամէն	ամէն	DET	_	ExtPos=PRON|PronType=Tot	0	root	_	_
 2	ինչ	ինչ	PRON	_	PronType=Ind	1	fixed	_	_
+
 ~~~
+
 <!-- Interlanguage links updated Út 30. června 2026, 11:00:08 CEST -->

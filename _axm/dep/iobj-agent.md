@@ -5,8 +5,7 @@ shortdef: 'agentive indirect object'
 udver: '2'
 ---
 
-In a causative construction, the `iobj:agent` relation attaches the causative (infinitive) verb to his agent, when the latter is the syntactical indirect object of the
-sentence (this initial agent has been demoted and became an indirect object in the causative construction).
+In a causative construction, the `iobj:agent` relation attaches the causative (infinitive) verb to his agent, when the latter is the syntactical indirect object of the sentence (this initial agent has been demoted and became an indirect object in the causative construction).
 
 ~~~ conllu
 # visual-style 6 8 iobj:agent color:blue
@@ -19,10 +18,11 @@ sentence (this initial agent has been demoted and became an indirect object in t
 7-8	յարքունիքն	_	_	_	_	_	_	_	_
 7	յ	ի	ADP	_	AdpType=Prep	8	case	_	_
 8	արքունիքն	արքունիք	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Coll	6	iobj:agent	_	_
+
 ~~~
 
-The true agent of the verb _կրթեցնել_ “educate” in the sentence is _արքունիքն_ “royal court”, i.e. “the royal court will learn”
+The true agent of the verb _կրթեցնել_ “educate” in the sentence is _արքունիքն_ “royal court”, i.e. “the royal court will learn”.
 
-The causative verb governs the syntactical subject of the sentence (i.e. the causer) with a [nsubj:caus]() relation. For the
-causative auxiliary see the [aux:caus]() relation.
+The causative verb governs the syntactical subject of the sentence (i.e. the causer) with a [nsubj:caus]() relation. For the causative auxiliary see the [aux:caus]() relation.
+
 <!-- Interlanguage links updated Út 30. června 2026, 11:00:12 CEST -->

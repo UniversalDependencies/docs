@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Chechen UD'
+title:  'Samba Leko UD'
 udver: '2'
 ---
 
-# UD for Chechen <span class="flagspan"><img class="flag" src="../../flags/svg/RU-CE.svg" /></span>
+# UD for Samba Leko <span class="flagspan"><img class="flag" src="../../flags/svg/NG.svg" /></span>
 
 ## Tokenization and Word Segmentation
 
@@ -46,10 +46,10 @@ udver: '2'
 
 ## Treebanks
 
-There are [N](../treebanks/ce-comparison.html) Chechen UD treebanks:
+There are [N](../treebanks/ndi-comparison.html) Samba Leko UD treebanks:
 
-  * [Chechen-A](../treebanks/ce_a/index.html)
-  * [Chechen-B](../treebanks/ce_b/index.html)
+  * [Samba Leko-A](../treebanks/ndi_a/index.html)
+  * [Samba Leko-B](../treebanks/ndi_b/index.html)
 
 ---
 **Instruction**: Treebank-specific pages are generated automatically from the README file in the treebank repository and

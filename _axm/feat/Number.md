@@ -73,22 +73,24 @@ Demonstrative pronouns referring to plural entities are marked with this feature
 
 ### <a name="Coll">`Coll`</a>: collective / mass / singulare tantum
 
-Collective or mass or singulare tantum is a special case of singular. It applies to words that use grammatical singular to describe sets of objects, i.e. semantic plural. In Middle Armenian, the `Coll` number is used only with paired body parts and similar entities (primarily with monosyllabic nouns). Although these forms end in the Classical Armenian plural marker _-ք_/_-k’_, they refer collectively to all members of the natural set denoted by the noun, rather than expressing ordinary plural number. The ordinary plural of such nouns is often formed with a different plural marker, such as _-վի_/_-vi_, _-նի_/_-ni_, etc. In such cases, their lemma is given without the collective ending _-ք_/_-k’_, and the form is annotated as plural (`Number=Plur`).
+Collective or mass or singulare tantum is a special case of singular. It applies to words that use grammatical singular to describe sets of objects, i.e. semantic plural. 
 
 #### Examples:
+
+* _հնազանդութիւն_/_hnazandowtʼiwn_ “obedience”
+* _անաչառութիւն_/_anačaṙowtʼiwn_ “impartiality”
+
+### <a name="Ptan">`Ptan`</a>: plurale tantum
+
+In Middle Armenian, the `Ptan` number is used with paired body parts and similar entities, but is not limited to these categories. These forms end in the Classical Armenian plural marker _-ք_/_-k’_, and refer to all members of the natural set denoted by the noun, rather than expressing ordinary plural number. The ordinary plural of such nouns is often formed with a different plural marker, such as _-վի_/_-vi_, _-նի_/_-ni_, etc. In such cases, their lemma is given without the ending _-ք_/_-k’_, and the form is annotated as plural (`Number=Plur`). 
+Some geographical or biological/botanical names appear only in the plural form even though they denote one thing (semantic singular). These nouns are also marked as `Ptan` (plurale tantum). Grammatically they behave like singulars.
+
+#### Examples
 
 * _<b>ոտք</b>_/_otkʼ_ “legs”
 * _<b>աչք</b>_/_ačkʼ_ “eyes”
 * _<b>քովք</b>_/_kʼovkʼ_ “sides, ribs”
 * _<b>պինչք</b>_/_pinčkʼ_ “nostrils”
-
-
-### <a name="Ptan">`Ptan`</a>: plurale tantum
-
-Some geographical or biological/botanical names appear only in the plural form even though they denote one thing (semantic singular). These [proper nouns](PROPN) are marked as `Ptan` (plurale tantum). Grammatically they behave like singulars, so `Ptan` is obviously the back-off value here.
-
-#### Examples
-
 * _<b>արծուիք</b>_/_arçowik’_ “ascites”
 * _<b>երանք</b>_/_erank’_ “loins”
 * _<b>մեղանք</b>_/_meġank’_ “wickedness”

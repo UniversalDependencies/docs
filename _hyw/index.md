@@ -11,15 +11,15 @@ udver: '2'
 * In general, words are delimited by whitespace. Description of exceptions follows.
  * According to typographical rules, punctuation marks written next to a neighbouring word are normally tokenized as separate syntactic words.
  * A hyphenated compound is split into separate tokens, as in _առասպելա-բանաստեղծական_/_aṙaspela-banasteġçakan_ “fabulo-poetic”, or into five tokens (three words and two hyphens), as in _ռուսա-իրանա-սուրիական_/_ṙowsa-irana-sowriakan_ “Russian-Iranian-Syrian”. Compounds written without a hyphen, such as _պաղեստինեւիսրայէլեան_/_paġestinewisrayēlean_ “Israeli-Palestinian” are not split.
- * Inflectional bound morphemes attached to quoted names, phrases, numerals, or abbreviations with or without an hyphen are segmented as separate tokens. Thus «Ցեղին սիրտը»էն “from ‘The Heart of the Tribe’” is segmented as { «, Ցեղին, սիրտը, », էն }, _2020 թ.-ին_ “in the year 2020” as { 2020, թ, ., -, ին}  and _1968էն_ “from 1968” as {1968, էն}. 
- * Numerical expressions with derivational endings, as well as adjectives and other forms containing digits, are split into separate tokens, e.g. _2-րդ_/_2-rd_ “2nd”, _44-օրեայ_/_44-oreay_ “44-day”, or _85-ամեայ_ “85 years old”. The preceding lexical token is the head, and the segmented inflectional element is attached to it with the dep relation.
+ * Inflectional bound morphemes attached to quoted names, phrases, numerals, or abbreviations with or without a hyphen are segmented as separate tokens. Thus, «Ցեղին սիրտը»էն “from ‘The Heart of the Tribe’” is segmented as { «, Ցեղին, սիրտը, », էն }, _2020 թ.-ին_ “in the year 2020” as { 2020, թ, ., -, ին}  and _1968էն_ “from 1968” as {1968, էն}. 
+ * Numerical expressions with derivational endings, as well as adjectives and other forms containing digits, are split into separate tokens, e.g. _2-րդ_/_2-rd_ “2nd”, _44-օրեայ_/_44-oreay_ “44-day”, or _85-ամեայ_ “85 years old”. The preceding lexical token is the head, and the segmented morphological element is attached to it with the dep relation.
  * Time expressions and dates such as _19:45_, _20.05.2000_, and _20/05/2000_ are split at the punctuation marks.
  *  Symbols occurring before or after numerical expressions are tokenized separately, e.g. _$ + 250_ and _4,81 + %_.
  *  Decimal numbers such as _2.1_ and _2,1_ are single tokens.
  * A whitespace separating digits in a large number is not treated as a word separator. For example, _1 000 000_ (“1,000,000” by English rules) is one token. (However, such tokens do not occur in Western Armenian treebanks as of release 2.8.)
 * There are several classes of “orthographic words” (sequences of letters without spaces inside) that are split into several syntactic tokens:
  * Words containing infixed Armenian punctuation are represented as multi-word tokens. For example, ինչպէ՞ս is segmented as ինչպէս + ՞ “how?”.
- * Orthographic words consisting of the indicative auxiliary _կ՚_/_k՚_ or the negative auxiliary _չ՚_/_č՚՚_ followed by a vowel-initial verb are also represented as multi-word tokens, e.g.  _կ՚այցելեմ = կ՚ + այցելեմ_/_k՚aycʼelem_ “(I am) visiting” and _չ՚ուզեր = չի + ուզեր_/_č՚owzer_ “(He/She) does not want”.
+ * Orthographic words consisting of the indicative auxiliary _կ՚_/_k՚_ or the negative auxiliary _չ՚_/_č՚_ followed by a vowel-initial verb are also represented as multi-word tokens, e.g.  _կ՚այցելեմ = կ՚ + այցելեմ_/_k՚aycʼelem_ “(I am) visiting” and _չ՚ուզեր = չ՚(չի) + ուզեր_/_č՚(č՚i) + owzer_ “(He/She) does not want”.
 * Email addresses, URLs, and social media handles are treated as single tokens.
 * For more details, see [tokenization](tokenization.html).
 
@@ -31,17 +31,17 @@ This is an overview only. For more detailed discussion and examples, see the lis
 
 * Western Armenian uses all 17 universal POS categories, including particles ([PART]()).
 * The tag [DET]() is used for articles and pronominal words that modify a noun phrase, including possessive, demonstrative, interrogative, relative, indefinite, total, and negative determiners (the traditional grammar does not define determiners, but distinguishes pronominal modifiers). Pronominal quantifiers (which the traditional grammar includes in pronouns) such as _քանի մը_/_kʼani më_ “several” and _բոլոր_/_bolor_ “all” are `DET` as well.
-* Independent possessive forms such as _իմս_/_ims_ “mine”, _քուկդ_/_kʼowkd_ “yours”, _անորը_/_anorë_ “his/hers” etc., are personal pronouns with `Poss=Yes`; possessive determiners such as _իմ_/_im_ “my”, _քու_/_kʼow_ “your”, _անոր_/_anor_ “his/her”, _մեր_/_mer_ “our”, _ձեր_/_jer_ “your”, and _անոնց_/_anoncʼ_ “their” are `DET`.
+* Independent possessive forms such as _իմս_/_ims_ “mine”, _քուկդ_/_kʼowkd_ “yours”, _անորը_/_anorë_ “his/hers” etc. are personal pronouns with `Poss=Yes`; possessive determiners such as _իմ_/_im_ “my”, _քու_/_kʼow_ “your”, _անոր_/_anor_ “his/her”, _մեր_/_mer_ “our”, _ձեր_/_jer_ “your”, and _անոնց_/_anoncʼ_ “their” are `DET`.
 * The tag [PRON]() is reserved for pronouns functioning as the head of a noun phrase. Thus _աս_/_as_ “this” is `PRON` in _Աս ասանկ չ՚ըլլար_/_As asank č՚ëllar_ “This won't work like this”, but `DET` when it modifies a noun, as in _աս տեղէն կ՚սպասէին ճանբորդել_/_as teġēn k՚spasēin č̣anbordel_ “They were expecting to set off from here”.
 * The main Western Armenian auxiliaries include:
  * forms of _եմ_/_em_ “be”, used as the copula and in compound tenses;
  * _կը_/_kë_ and its variants _կ՚_/_k՚_, _կու_/_kow_, which form the present and imperfect indicative with a finite lexical verb;
- * _պիտի_/_piti_, which marks progressive aspect;
+ * _պիտի_/_piti_, which marks prospective aspect;
  * _ըլլամ_/_ëllam_ (_ըլլալ_/_ěllal_) “be”, _ունիմ_/_ownim_ “have”, and _կամ_/_kam_ “exist” in secondary compound constructions;
  * postverbal _կոր_/_kor_, which occurs after the indicative form consisting of _կը_/_kë_ and a finite (subjunctive) verb and marks progressive aspect, indicating that the situation is ongoing at the reference time;
  * _տալ_/_tal_ “cause / make someone perform an action”, used as the auxiliary of periphrastic causatives.
 
-* The aorist and the present and imperfect subjunctive forms of _ըլլալ_/_ěllal_ (_եղաւ_/_eġaw_, _ըլլայ_/_ëllay_, _ըլլար_/_ëllar_) are analyzed as lexical [VERB]() when they occur with nominal predicates, and as [AUX]()` only when they combine with participles. In compound forms containing both _եմ_/_em_ and _ըլլալ_/_ěllal_ with a nominal predicate, _եմ_/_em_ is `AUX` and _ըլլալ_/_ěllal_ is the lexical [VERB]().
+* The aorist and the present and imperfect subjunctive forms of _ըլլալ_/_ěllal_ (_եղաւ_/_eġaw_, _ըլլայ_/_ëllay_, _ըլլար_/_ëllar_) are analyzed as lexical [VERB]() when they occur with nominal predicates, and as [AUX]() only when they combine with participles. In compound forms containing both _եմ_/_em_ and _ըլլալ_/_ěllal_ with a nominal predicate, _եմ_/_em_ is `AUX` and _ըլլալ_/_ěllal_ is the lexical [VERB]().
 
 * Western Armenian distinguishes three values of VerbForm:
   * Infinitive `Inf`, tagged [VERB]() or [AUX]().
@@ -71,7 +71,7 @@ Case-marked infinitives retain `VerbForm=Inf` even when they have an adverbial, 
   * Participles and other verb forms receive the aspect value appropriate to their morphological form.
 * Finite verbs have one of three [Mood]() values: `Ind`, `Imp`, or `Sub`.
   * The present and imperfect indicative are formed analytically with the auxiliary _կը_/_kë_ (_կ՚_/_k՚_, _կու_/_kow_) plus a present or imperfect subjunctive form of the lexical verb.
-  * Prospective forms are built with _պիտի_/_piti_ or _պէտք է_/_pētkʼ ē_ plus a a present or imperfect subjunctive form.
+  * Prospective forms are built with _պիտի_/_piti_ or _պէտք է_/_pētkʼ ē_ plus a present or imperfect subjunctive form.
 * Tense has the values `Pres`, `Imp`, and `Past`. The present and imperfect values used with subjunctive forms are formal morphological labels and may have future or hypothetical interpretations in context.
 * Voice distinguishes `Act`, `Mid`, `Pass`, `Rcp`, `Cau`, and `CauPass`.
   * Synthetic causatives in _-ցն-_/_-cʼn-_ are annotated `Voice=Cau` when they retain a transparent causative analysis. Lexicalized transitive verbs derived from middle verbs with the same infix are treated as active.
@@ -81,27 +81,112 @@ Case-marked infinitives retain `VerbForm=Inf` even when they have an adverbial, 
   
 ### Polarity
 
+* [Polarity]() has two values, `Pos` and `Neg`, and applies primarily to [VERB]() and [AUX]().
+* The bound negative morpheme _չ-_/_č-_ is represented in the morphological analysis of the negated verb or auxiliary. When orthography requires a split, as in _չ՚ուզեր_/_č՚owzer_, the resulting syntactic tokens (_չ՚_/_č՚_ and _ուզեր_/_owzer_) are annotated separately.
+ * The prohibitive marker _մի՛_/_mi_ is tagged [PART]() and receives `Mood=Imp|Polarity=Neg`.
+ * Independent _ոչ_/_oč_ is normally [PART]() with `Polarity=Neg`. 
+ * The `Polarity` feature is not used with negative pronouns. The `PronType=Neg` feature is used there instead.
+ * Connegative forms occurring in analytical negation receive `Connegative=Yes` rather than `Polarity=Neg`.
+
 ### Pronouns, Determiners, Quantifiers
+
+* [PronType]() is used with pronouns ([PRON]()), determiners ([DET]()) and pronominal adverbs ([ADV]()).
+* [NumType]() is used with numerals ([NUM]()) and with relevant adjectives ([ADJ]()) and adverbs ([ADV]()).
+* The [Poss]() feature marks possessive personal determiners (e.g. _իմ_/_im_ “my”),
+  interrogative and relative pronouns expressing possession (e.g. _որու_/_orow_ “whose”), and other forms with an encoded possessive meaning.
+* The [Reflex]() feature marks reflexive pronouns and determiners such as _ինքզինք_/_inkʼzinkʼ_ “he themself/she herself/it itself”, _իր_/_ir_ “his, her, its”, _իրենց_/_irencʼ_ “them”, together with the appropriate `PronType` value.
+* [Person]() is a lexical feature of personal pronouns, possessive determiners, and finite verbs and auxiliaries. With possessive determiners, it identifies the possessor.
+* The [layered features](../../u/overview/feat-layers.html) [Person[psor]](), [Number[psor]]() and [Deixis[psor]]() encode the person, number, or deixis associated with possessive and article-like suffixes, separately from the inflectional features of the word itself. They appear with nouns, infinitives, certain pronouns and adpositions and encode the lexical person/number of the possessor or the position of an entity relative to either the speaker or the hearer. The extra layer is needed to distinguish these lexical features from the inflectional person and number that mark agreement with the modified (possessed) noun.
+
 
 ### Other Features
 
-* The following universal features are not used in Armenian: [Gender](), [Evident]().
+* Western Armenian also uses the following language-specific or less widely used features:
+- `AdpType`
+- `Deixis`
+- `Echo`
+- `ExtPos`
+- `Foreign`
+- `Hyph`
+- `LangId`
+- `NameType`
+- `NumForm`
+- `Style`
+- `Typo`
+* The value `Style=Arch` is used for archaic forms that belong to an older grammatical pattern but occur in Western Armenian texts.
+* The universal features [Gender]() and [Evident]() are not used in Western Armenian.
 
 ## Syntax
 
+This is an overview only. For more detailed discussion and examples, see the list of [Western Armenian relations](dep/index.html), as well as Western Armenian-specific examples in the individual relation pages.
+
 ### Core Arguments, Oblique Arguments and Adjuncts
 
+* A nominal subject ([nsubj]()) is normally a bare noun phrase in the nominative case.
+  * An infinitival clause functioning as the subject is labeled [csubj](). A case-marked infinitive functioning as a nominal is analyzed according to its syntactic function.
+  * Subjects of passive clauses are labeled [nsubj:pass]() or [csubj:pass]().
+  * The causer in a periphrastic causative construction is labeled [nsubj:caus]().
+  * A nominal subject of a copular clause whose predicate is itself a clause is labeled [nsubj:outer]().
+  * A clausal subject of a copular clause whose predicate is itself a clause is labeled [csubj:outer]().
+* Core nominal objects are labeled [obj]() or [iobj]().
+  * A direct object is normally a bare noun phrase in the nominative form.
+  * A single dative argument selected by the verb may also be a core object.
+  * If a verb takes two core objects, the non-nominative object, usually a dative recipient or experiencer, is labeled [iobj]().
+  * Infinitival complements of modal and control predicates are normally labeled [xcomp](); finite complements are labeled [ccomp]().
+* Non-core dependents are labeled [obl](). They include temporal and locative noun phrases, adpositional phrases, and case-marked nominals expressing such roles as means, manner, direction, source, beneficiary, or location.
+* Adpositions attach to their nominal complement with [case](). Inflected postpositional localizers attach with [case:loc](); when a localizer occurs independently, it attaches to the predicate as [obl]() while retaining the [ADP]() tag.
+* In passive clauses, an overt demoted agent is labeled [obl:agent](). It may be expressed by an instrumental noun phrase or an adpositional phrase with _կողմէ_/_koġmē_ “by”.
+* In periphrastic causatives:
+  * _տալ_/_tal_ is attached to the infinitive with [aux:caus]();
+  * a dative demoted agent is labeled [iobj:agent]();
+  * a nominative-form agent realized as the syntactic object of the causative construction is labeled [obj:agent]().
+  
 ### Non-verbal Clauses
+
+* Forms of _եմ_/_em_ “be” are tagged [AUX]() and attach to the non-verbal predicate with [cop](). The predicate is the head of the clause.
+* The copular analysis is used with equational, attributive, locative, possessive, and benefactive predicates. Under the UD v2 guidelines, prepositional and postpositional phrases expressing location are also treated as predicates.
+* Verbs such as _դառնալ_/_daṙnal_ “become”, _թուալ_/_tʼowal_ “seem”, _երեւալ_/_erewal_ “appear”, and _մնալ_/_mnal_ “remain” are lexical verbs, not copulas.
+* The relevant forms of _ըլլալ_/_ëllal_ “be” are lexical [VERB]() with nominal predicates. They are [AUX]() only in compound constructions with participles.
+* Purely existential _կամ_/_kam_ “exist” is the head of its clause and is tagged [VERB](). In secondary compound constructions, existential _կամ_/_kam_ “exist” and _ունիմ_/_ownim_ “have”  may function as auxiliaries and receive [aux:ex]().
 
 ### Relations Overview
 
+The following relation subtypes are documented for Western Armenian:
+* [acl:relcl]() for relative clauses modifying nominals
+* [advcl:relcl]() for relative clauses functioning as adverbial clause modifiers
+* [advmod:emph]() for emphatic or focusing adverbial modifiers
+* [aux:caus]() for the causative auxiliary _տալ_
+* [aux:ex]() for existential auxiliaries in secondary compound constructions
+* [case:loc]() for inflected postpositional localizers
+* [compound:lvc]() for light-verb constructions
+* [compound:svc]() for serial-verb constructions
+* [csubj:outer]() for outer clausal subjects
+* [csubj:pass]() for clausal subjects of passive predicates
+* [det:poss]() for possessive determiners
+* [flat:dist]() for distributive numeric expressions
+* [flat:foreign]() for sequences of foreign words
+* [flat:frac]() for fractions
+* [flat:name]() for names
+* [flat:range]() for numeric ranges
+* [flat:redup]() for reduplicating constructions
+* [iobj:agent]() for dative agents in causative constructions
+* [nmod:npmod]() for noun-phrase modifiers
+* [nmod:poss]() for possessive nominal modifiers
+* [nsubj:caus]() for nominal subjects of causative verbs
+* [nsubj:outer]() for outer nominal subjects
+* [nsubj:pass]() for nominal subjects of passive predicates
+* [obj:agent]() for object-like agents in causative constructions
+* [obl:agent]() for agents in passive constructions
+
+The relation [clf]() is not used in Western Armenian.
+
 ## Treebanks
 
-There is just one Western Armenian UD treebank.
+There is one Western Armenian UD treebank:
 
-  * [Western_Armenian-ArmTDP](../treebanks/hyw_armtdp/index.html)
+* [Western_Armenian-ArmTDP](../treebanks/hyw_armtdp/index.html)
 
-
+The treebank contains 6,644 sentences and approximately 122,000 tokens from blog, fiction, news, nonfiction, reviews, social, spoken, web, and wiki texts. The lemmas, UPOS tags, morphological features, and dependency relations have been manually verified.
 
 ------------------------------------------------------------------
 
@@ -168,27 +253,24 @@ There is just one Western Armenian UD treebank.
 
 ### Polarity
 
-* [Polarity]() has two values, `Pos` and `Neg`, and applies primarily to verbs ([VERB](), [AUX]()) that can be negated using the bound morpheme _չ-_.
-  * Occasionally _ոչ_ occurs as an independent negation particle ([PART]()) and is marked with `Polarity=Neg`. The `Polarity=Neg` feature is also used with necessitative mood particles _(չ)պիտի, (չ)պետք է_ .
-  * Negating nouns are usually limited to those derived from verbs _(չունեցողի, չգրվածները)_.
-  * The `Polarity` feature is not used with pronouns and determiners, although there is a subset of negative pronouns and determiners.
-    The `PronType=Neg` feature is used there instead.
-  * The `Polarity=Neg` feature is not used with negated conditional mood, the `Connegative=Yes` feature is used there instead.
+* [Polarity]() has two values, `Pos` and `Neg`, and applies primarily to verbs ([VERB](), [AUX]()) that can be negated using the bound morpheme _չ-_/_č-_. When orthography requires a split, as in _չ՚ուզեր_/_č՚owzer_ “doesn't want”, the resulting syntactic tokens are annotated separately.
+* Occasionally _ոչ_/_oč-_ occurs as an independent negation particle ([PART]()) and is marked with `Polarity=Neg`.
+* The prohibitive marker _մի՛_/_mi'_ is tagged PART and receives `Mood=Imp|Polarity=Neg`.
+* The `Polarity` feature is not used with pronouns and determiners, although there is a subset of negative pronouns and determiners. The `PronType=Neg` feature is used there instead.
+* Connegative forms occurring in analytical negation receive Connegative =Yes rather than ՝Polarity=Neg՝.
 
 ### Pronouns, Determiners, Quantifiers
 
-* [PronType]() is used with pronouns ([PRON]()), determiners ([DET]()) and adverbs ([ADV]()).
-* [NumType]() is used with numerals ([NUM]()), adjectives ([ADJ]()) and adverbs ([ADV]()).
-* The [Poss]() feature marks possessive personal determiners (e.g. _իմ_ “my”),
-  possessive interrogative, relative determiners (e.g. _ում, որի_ “whose”),
-  possessive nouns (e.g. _հայրիկինը_ “father's”)
+* [PronType]() is used with pronouns ([PRON]()), determiners ([DET]()) and pronominal adverbs ([ADV]()).
+* [NumType]() is used with numerals ([NUM]()), and with relevant adjectives ([ADJ]()) and adverbs ([ADV]()).
+* The [Poss]() feature marks possessive personal determiners (e.g. _իմ_/_im_ “my”), possessive interrogative, relative determiners (e.g. _ում_/_owm_, _որի_/_ori_ “whose”), possessive nouns (e.g. _հայրիկինը_/_hayrikinë_ “father's”)
   and possessive adjectives (e.g. _հայոց_ “armenian, armenians’, refer to armenians”).
 * The [Reflex]() feature marks reflexive pronouns _(ինձ, քեզ, իրեն, մեզ, ձեզ, իրենց)_ and determiners _(իր, իրենց)_.
   In Armenian it is always used together with `PronType=Emp` or `PronType=Prs`.
 * [Person]() is a lexical feature of personal pronouns ([PRON]()) and has three values, `1`, `2` and `3`.
   With personal possessive determiners ([DET]()), the feature actually encodes the person of the possessor.
   Person is not marked on other types of pronouns and on nouns, although they can almost always be interpreted as the 3rd person.
-  * As a cross-reference to subject, person is also marked on finite verbs ([VERB](), [AUX]()).
+* As a cross-reference to subject, person is also marked on finite verbs ([VERB](), [AUX]()).
 * The [Polite]() feature distinguishes informal second-person pronouns (_դու, դուք,_ `Polite=Infm`)
   from the formal _Դուք_ (`Polite=Form`).
   The formal pronoun is phonologically equivalent in all its case forms to the second-person plural _դուք_
@@ -282,4 +364,4 @@ as well as Armenian-specific examples scattered across the documentation of cons
 
 There is just one Eastern Armenian UD treebank.
 
-  * [Armenian-ArmTDP](../treebanks/hy_armtdp/index.html)
+  * [Armenian-ArmTDP](https://universaldependencies.org/treebanks/hyw_armtdp/index.html)
