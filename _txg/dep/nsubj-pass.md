@@ -1,4 +1,3 @@
-
 ---
 layout: relation
 title: 'nsubj:pass'
