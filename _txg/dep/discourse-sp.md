@@ -23,7 +23,7 @@ The `discourse:sp` relation is used for sentence-final particles in Tangut.
 
 1	Intent	_	_	_	_	0	_	_	_
 2	-less	_	_	_	_	0	_	_	_
-3	End _	_	_	_	0	_	_	_
-4	said,	_	_	_	_	0	_	_	_
-5	"many."	_	_	_	_	0	_	_	_
+3	End	_	_	_	_	0	_	_	_
+4	said	_	_	_	_	0	_	_	_
+5	many	_	_	_	_	0	_	_	_
 ~~~
