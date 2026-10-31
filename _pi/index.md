@@ -23,7 +23,7 @@ While we strip out punctuation in our `# text` rows, we do recommend using any p
 
 * Words are generally delimited by spaces.
 * Compounds are split and sandhi undone as it is the custom in Sanskritic linguistics.
-* Compounds receive multiword token ranges (e.g. `10-12`) and should get the appropriate [compound]() relation subtype. Only proper Pāli compounds get MWTs. We treat attached particles (like "-ti" and "-pi") as sandhi and not as a MWT.
+* Compounds receive multiword token ranges (e.g. `10-12`) and should get the appropriate [compound]() relation subtype. Only proper Pāli compounds get MWTs. We treat attached particles (like "-ti" and "-pi") as sandhi and not as a MWT. Note that we don't use the `Compound=Yes` feature and rely on the MWT and `compound` deprel to mark compound words.
 * Sandhi should be marked with a `SpaceAfter=No` in the earlier token's `MISC` and do not get a range id.
 * Multitoken words (e.g. words with spaces inside them) are generally not used. Parts of a multitoken name (e.g. "Saccaka Nigaṇṭhāputta") should get the [flat:name]() dependency relation.
 
@@ -77,9 +77,10 @@ We generally follow the lemmatization found in the Pāli Text Society's dictiona
 The `LEMMA` for all verb forms is the 3rd-person singular present indicative of the underlying verb.
 For example, the past participle *gata* "gone" gets the `LEMMA` *gacchati*.
 
-For passive and causative voiced verbs, we give the passive and causative lemma and do not collapse the lemmas down to the simplex.
+For passive and causative voiced finite verbs, we give the passive and causative lemma and do not collapse the lemmas down to the simplex.
 For example, for the passive verb *nirujjhanti*, the lemma should be `nirujjhati` and for the causative verb *desemi*, the causative lemma `deseti` should be given.
 Similarly, for a double causative verb like *yojāpetvā*, the lemma should be `yojāpeti`.
+Note that passive participles get the active verb as their lemma, for example *karaṇīya* gets the lemma `karoti`.
 
 Forms of the verb *hoti* (*honti*, *ahosi*, etc) always get the lemma `bhavati`.
 Forms of the verb *atthi* (*amhi*, *atthu*, *santi*, etc), get the lemma `atthi`.
