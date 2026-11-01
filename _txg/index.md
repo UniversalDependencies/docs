@@ -8,9 +8,9 @@ udver: '2'
 
 ## Tokenization and Word Segmentation
 
-There are no punctuation marks between words and generally no spaces between sentences in original Tangut manuscripts. Most words consist of a single character, except for some transcribed foreign words. Word boundaries are determined according to grammatical criteria.
+Tangut manuscripts generally have no spaces between sentences and no punctuation between words. 
 
-For UD annotation, punctuation marks are added for convenience, and sentence boundaries are determined primarily by syntactic structure, while translations serve as a reference. Stanzas consisting of four five- or seven-character lines are treated as single sentences.
+For annotation, sentence boundaries are determined by syntactic structure, while translations serve as a reference; punctuation marks are added for convenience. A poem written in a four-line, five- or seven-character meter is treated as a single sentence. Most words consist of a single character, except for some (proper) nouns. Word boundaries are determined according to grammatical criteria.
 
 ## Morphology
 
