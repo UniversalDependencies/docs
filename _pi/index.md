@@ -38,7 +38,9 @@ Sometimes in Pāli, a word derived from a participle has taken on a new meaning 
 Nouns like *buddha* ("the Buddha", from *bujjhati*, "knows"), *carita* ("behavior", from *carati*, "walks"), *khādanīya* ("non-staple food", from *khādati*, "chews"), etc or adjectives like *anāgata* ("future", from *āgacchati*, "comes"), etc should be tagged as `NOUN` or `ADJ` as appropriate and not as `VERB` despite the etymological connection.
 Participles that are used in the same sense as their underlying verb, are just `VERB`s, even if they are syntactically close to being used as adjectives or nouns.
 
-Because Pāli is originally an oral language, we are stripping out symbols and punctuation, meaning we do not use the `SYM` or `PUNCT` tags.
+When a form of *bhavati* or *atthi* is used in a copula, it should get the `AUX` UPOS. When they are used in the intransitive sense of "exists," they are `VERB`s.
+
+Because Pāli is originally an oral language, we strip out symbols and punctuation, meaning we do not use the `SYM` or `PUNCT` tags.
 
 #### Determiners
 
@@ -111,8 +113,6 @@ Nouns in Pāli have `Case`, `Gender`, and `Number`.
 If a genitive form is used in a dative sense, you can mark `Case=Gen` because we prefer syntactic over semantic readings when they conflict. Do, however, use the `Case=Dat` annotation for true datives. For example, in the sentence "*Uyyānabhūmiṃ gacchāma subhūmidassanāyāti*," *dassanāya* here is morphologically dative ("for seeing") and so should get `Case=Dat`.
 
 #### Verbs
-
-All verb forms in Pāli should get the `VERB` `UPOS`.
 
 ##### Finite Verbs
 
