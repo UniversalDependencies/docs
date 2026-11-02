@@ -18,11 +18,11 @@ obj(ሰቢሩዎ, ቢኬሪ)
 "Caleb broke the glass." (ti_ref_11)
 
 ~~~ sdparse
-እቲ መንገዲ ብ- ማይ ተባሕጒጉ ። \n the road with water flood.PASS.CONV.Sb3sm .
+እቲ መንገዲ ብ- ማይ ተባሕጒጉ ። \n the road with water erode.PASS.CONV.Sb3sm .
 det(መንገዲ, እቲ)
 nsubj:pass(ተባሕጒጉ, መንገዲ)
 case:pre(ማይ, ብ-)
 obl(ተባሕጒጉ, ማይ)
 ~~~
 
-"The road was flooded with water." (ti_ref_16)
+"The road was eroded with water." (ti_ref_16)
