@@ -32,7 +32,6 @@ While we strip out punctuation in our `# text` rows, we do recommend using any p
 ### Part of Speech Tags
 
 Participles are tagged as `VERB`s.
-This means that they cannot get the `amod` dependency relation when used to modify a noun, so we use `acl` instead to attach it to its target noun.
 
 Sometimes in Pāli, a word derived from a participle has taken on a new meaning beyond its root verb.
 Nouns like *buddha* ("the Buddha", from *bujjhati*, "knows"), *carita* ("behavior", from *carati*, "walks"), *khādanīya* ("non-staple food", from *khādati*, "chews"), etc or adjectives like *anāgata* ("future", from *āgacchati*, "comes"), etc should be tagged as `NOUN` or `ADJ` as appropriate and not as `VERB` despite the etymological connection.
@@ -110,7 +109,7 @@ Some forms in Pāli are ambiguous. For example, a feminine noun of the `-ā` cla
 
 Nouns in Pāli have `Case`, `Gender`, and `Number`.
 
-If a genitive form is used in a dative sense, you can mark `Case=Gen` because we prefer syntactic over semantic readings when they conflict. Do, however, use the `Case=Dat` annotation for true datives. For example, in the sentence "*Uyyānabhūmiṃ gacchāma subhūmidassanāyāti*," *dassanāya* here is morphologically dative ("for seeing") and so should get `Case=Dat`.
+We use `Case=Dat` for the "possessive dative" construction: _**Tassa** tayo puttā atthi_, "**For him** there are three sons." = "He has three sons." or _Na **me** ācariyo atthi_, "There is no teacher **for me**." = "I have no teacher."
 
 #### Verbs
 
