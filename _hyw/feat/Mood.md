@@ -60,7 +60,7 @@ The subjunctive mood is used primarily in subordinate clauses, typically for act
 * _եթէ խօսելու <b>ըլլայ</b>_/_etʼē xòselow <b>ëllay</b>_ “if he/she were to speak”.
 
 
-### <a name="Cnd">Cnd</a>: conditional
+### <a name="Cnd">`Cnd`</a>: conditional
 
 The conditional mood is not part of the regular mood system of Modern Western Armenian. However, conditional forms occasionally occur in the corpus, particularly in forms preserved from earlier stages of the language. Such forms are annotated with `Mood=Cnd` to reflect their morphological characteristics, even though the conditional mood is not productive in Western Armenian. They are additionally marked with `Style=Arch` to indicate their archaic status.
 
@@ -69,7 +69,7 @@ The conditional mood is not part of the regular mood system of Modern Western Ar
 * _երբ եւ <b>իցէ</b>_/_erb ew <b>icʼē</b>_ “whenever”
 
 
-### <a name="Nec">Nec</a>: necessitative
+### <a name="Nec">`Nec`</a>: necessitative
 
 The necessitative mood is not part of the regular mood system of Western Armenian. Here, the auxiliary _պիտի_/_piti_ is used to form the future tense of the indicative mood, whereas in Eastern Armenian it expresses necessity or obligation and serves as a marker of the necessitative mood.
 
