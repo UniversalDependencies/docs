@@ -8,8 +8,10 @@ udver: '2'
 <table class="typeindex" border="1">
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
+  <td><a href="#Cnd">Cnd</a></td>
   <td><a href="#Imp">Imp</a></td>
   <td><a href="#Ind">Ind</a></td>
+  <td><a href="#Nec">Nec</a></td>
   <td><a href="#Sub">Sub</a></td>
 </tr>
 </table>
@@ -56,4 +58,25 @@ The subjunctive mood is used primarily in subordinate clauses, typically for act
 * _թող <b>ըլլայ</b>_/_tʼoġ <b>ëllay</b>_ “let it <b>be</b>”,
 * _որ <b>սպասէիք</b>_/_or <b>spasēikʼ</b>_ “if <b>you had waited</b>”,
 * _եթէ խօսելու <b>ըլլայ</b>_/_etʼē xòselow <b>ëllay</b>_ “if he/she were to speak”.
+
+
+### <a name="Cnd">Cnd</a>: conditional
+
+The conditional mood is not part of the regular mood system of Modern Western Armenian. However, conditional forms occasionally occur in the corpus, particularly in forms preserved from earlier stages of the language. Such forms are annotated with `Mood=Cnd` to reflect their morphological characteristics, even though the conditional mood is not productive in Western Armenian. They are additionally marked with `Style=Arch` to indicate their archaic status.
+
+#### Examples
+
+* _երբ եւ <b>իցէ</b>_/_erb ew <b>icʼē</b>_ “whenever”
+
+
+### <a name="Nec">Nec</a>: necessitative
+
+The necessitative mood is not part of the regular mood system of Western Armenian. Here, the auxiliary _պիտի_/_piti_ is used to form the future tense of the indicative mood, whereas in Eastern Armenian it expresses necessity or obligation and serves as a marker of the necessitative mood.
+
+Nevertheless, a few necessitative forms occur in the Western Armenian corpus, particularly in quotations or passages influenced by Eastern Armenian. Such forms are annotated with `Mood=Nec` to reflect their morphological characteristics. Forms originating from Eastern Armenian are additionally marked with `LangId=Hy`.
+
+#### Examples
+
+* _պարկեշտ կին պիտի լինես_/_parkešt kin piti lines_ “you must be a decent woman”
+
 <!-- Interlanguage links updated Út 30. června 2026, 10:59:00 CEST -->
