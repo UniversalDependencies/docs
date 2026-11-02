@@ -59,6 +59,7 @@ Case-marked infinitives retain `VerbForm=Inf` even when they have an adverbial, 
 * [Case]() has seven values in the Western Armenian documentation: `Nom`, `Gen`, `Dat`, `Acc`, `Abl`, `Ins`, and `Loc`.
   * Nouns do not morphologically distinguish nominative and accusative; direct objects normally have nominative form. `Acc` is used where a pronominal paradigm makes the distinction relevant.
   * For nouns, the genitive-dative distinction is closely connected with definiteness. Possessive personal pronouns distinguish the genitive separately.
+  * Although the locative case is not part of the regular case system of Modern Western Armenian, Case=Loc is used to annotate occasional locative forms occurring in the corpus, particularly those influenced by Eastern Armenian, found in quotations, or preserved from earlier stages of the language. Forms originating from Eastern Armenian are additionally marked with `LangId=Hy`, while archaic forms receive `Style=Arch`.
   * [Case]() is also an inflectional feature of the closed class of postpositional localizers (ADP), e.g. forms based on _մէջ_/_mēǰ_, _վրայ_/_vray_, _տակ_/_tak_, _մօտ_/_mòt_, _ետեւ_/_etew_, and _առջեւ_/_aṙǰew_.
 * [Definite]() has the values `Def` and `Ind` and is used with nominal categories and nominalized verb forms where appropriate.
 * [Degree]() applies to adjectives ([ADJ]()) and some adverbs ([ADV]()). Its values include `Pos`, `Cmp`, `Sup`, and `Abs`.
