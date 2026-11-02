@@ -13,6 +13,7 @@ udver: '2'
   <td><a href="#Dat">Dat</a></td>
   <td><a href="#Gen">Gen</a></td>
   <td><a href="#Ins">Ins</a></td>
+  <td><a href="#Loc">Loc</a></td>
   <td><a href="#Nom">Nom</a></td>
 </tr>
 </table>
@@ -105,4 +106,14 @@ In Western Armenian the instrumental is also used for the agent-object in passiv
 
 * _<b>արհամարհանքով</b> կ՚ըսէին_/_<b>arhamarhank’ov</b> k՚ësēin_ “They used to say <b>with contempt</b>.”
 * _մազերը երկար կտրուած են եւ <b>սանտրով</b> մը բռնուած գլխուն ետեւը_/_mazerë erkar ktrowaç en ew <b>santrov</b> më bṙnowaç glxown etewë_ “The hair is cut long and held at the back of the head <b>with a comb</b>.” (Passive example)
+
+
+### <a name="Loc">`Loc`</a>: locative
+
+The locative case is not part of the regular case system of Modern Western Armenian. However, forms exhibiting locative morphology occasionally occur in the corpus, particularly under the influence of Eastern Armenian, in quotations, and in forms preserved from earlier stages of the language. Such forms are annotated with `Case=Loc` to reflect their morphological characteristics, even though the locative is not productive in Western Armenian. Forms originating from Eastern Armenian are additionally marked with `LangId=Hy`, while archaic forms are marked with `Style=Arch`.
+
+#### Examples
+* _կեանքում_/_keankʼowm_ “in life” (LangId=Hy)
+* _ընդ <b>որում</b>_/_ënd <b>orowm</b>_ “moreover” (Style=Arch)
+
 <!-- Interlanguage links updated Út 30. června 2026, 10:58:44 CEST -->
