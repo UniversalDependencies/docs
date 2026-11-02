@@ -4,7 +4,7 @@ title:  'Tigrinya UD'
 udver: '2'
 ---
 
-# UD for Tigrinya <span class="flagspan"><img class="flag" src="../../flags/svg/ER.svg" /></span>
+# UD for Tigrinya <span class="flagspan"><img class="flag" src="../../flags/svg/ER.svg" /> <img class="flag" src="../../flags/svg/ET.svg" /></span>
 
 Tigrinya (ትግርኛ) is an Ethio-Semitic language spoken in Eritrea and northern Ethiopia, written in the Ge'ez script (called Ethiopic in Unicode). In the examples below, Tigrinya words are followed by a transliteration in italics and an English translation.
 
