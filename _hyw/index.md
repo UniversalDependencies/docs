@@ -70,7 +70,7 @@ Case-marked infinitives retain `VerbForm=Inf` even when they have an adverbial, 
 * [Aspect]() has the values `Dur`, `Imp`, `Iter`, `Perf`, `Prog`, and `Prosp`.
   * The auxiliary _կը_/_kë_ is annotated with `Aspect=Imp`; _պիտի_/_piti_ is annotated with `Aspect=Prosp`; postverbal _կոր_/_kor_ marks `Aspect=Prog`.
   * Participles and other verb forms receive the aspect value appropriate to their morphological form.
-* Finite verbs have one of three [Mood]() values: `Ind`, `Imp`, or `Sub`.
+* Finite verbs have one of three [Mood]() values: `Ind`, `Imp`, or `Sub`. Although the conditional and necessitative moods are not part of the regular mood system of Modern Western Armenian, `Mood=Cnd` and `Mood=Nec` are used to annotate occasional forms occurring in the corpus. Archaic conditional forms are additionally marked with `Style=Arch`, while necessitative forms originating from Eastern Armenian are marked with `LangId=Hy`. In Western Armenian, _պիտի_/_piti_ is used to form the future tense of the indicative mood, whereas in Eastern Armenian it marks the necessitative mood.
   * The present and imperfect indicative are formed analytically with the auxiliary _կը_/_kë_ (_կ՚_/_k՚_, _կու_/_kow_) plus a present or imperfect subjunctive form of the lexical verb.
   * Prospective forms are built with _պիտի_/_piti_ or _պէտք է_/_pētkʼ ē_ plus a present or imperfect subjunctive form.
 * Tense has the values `Pres`, `Imp`, and `Past`. The present and imperfect values used with subjunctive forms are formal morphological labels and may have future or hypothetical interpretations in context.
