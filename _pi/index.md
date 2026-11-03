@@ -155,7 +155,8 @@ We do not (at the moment) use enhanced dependency graphs, so DEPS should always 
 We have a number of unique deprels for our compound subtypes.
 See the [compound]() doc pages for details on those.
 
-Pāli conjunctions `vā` ("or") and `ca` ("and") are `cc` (coordinating conjunctions) pointing to the previous entry in the list.
+Pāli conjunctions `vā` ("or") and `ca` ("and") are `cc` (coordinating conjunctions) pointing to the previous entry in the list if that previous entry is in the same sentence.
+If the sentence as a whole is being coordinated with another sentence, the conjunction should just point to the root.
 
 When a name is followed by their job (title, etc), the name is the main noun and the occupation (etc) is an `appos`.  For example, in the genitive clause “*vipassissa bodhisattassa*”  *bodhisattassa* is an `appos` pointing back to `vipassissa` which acts as the main noun.
 Note that this is different from Pāli compounds, where the last token of the compound is its head.
