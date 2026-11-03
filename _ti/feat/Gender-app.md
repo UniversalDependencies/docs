@@ -11,11 +11,11 @@ Gender of the applicative suffix of a verb. Tigrinya verbs can take an applicati
 
 #### Examples
 
-* ገዚአሉ / *gəziʔɛlu* "I bought (it) for him": `Person=1|Gender[app]=Masc|Person[app]=3` (ti_ref_110)
-* ሰትዩሉ / *sətyulu* "he drank from it": `Gender=Masc|Gender[app]=Masc` (ti_ref_186)
+* ገዚአሉ / *gəziʔɛlu* "I bought (it) for him" (beneficiary): `Person=1|Gender[app]=Masc|Person[app]=3` (ti_ref_110)
+* ሰትዩሉ / *sətyulu* "he drank from it" (instrument): `Gender=Masc|Gender[app]=Masc` (ti_ref_186)
 
 ### <a name="Fem">`Fem`</a>: feminine applied argument
 
 #### Examples
 
-* ገዚአላ / *gəziʔɛla* "I bought (it) for her"
+* ገዚአላ / *gəziʔɛla* "I bought (it) for her" (beneficiary)
