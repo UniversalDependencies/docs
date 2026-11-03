@@ -99,6 +99,8 @@ For demonstrative pronouns, collapse the cases, gender, and number to the nomina
 * Use *yad* for all *ya-* forms: *yo*, *yā*, *yaṃ*, *yamhi*, etc.
 * Use *idaṃ* for its various forms: *ayaṃ*, *imaṃ*, *imāni*, *imehi*, *anena*, etc.
 
+Similarly, use *kiñci* for forms of the indefinite pronoun: *koci*, *kāci*, *kenaci*, *kesuci*, etc.
+
 Substantives and adjectives should get the stem form as their lemma. For example, *itthiyo* has the lemma `itthi`, *bhikkhave* gets the lemma `bhikkhu`, *rasso* the lemma `rassa`, *rāja* the lemma `rājan`, *bhagavato* `bhagavant`, etc. 
 
 ### Features
