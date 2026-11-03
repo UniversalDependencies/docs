@@ -44,6 +44,7 @@ Because Pāli is originally an oral language, we strip out symbols and punctuati
 #### Determiners
 
 If a pronoun such as *imaṃ* is used as a determiner (i.e. it gets deprel `det` pointing to a substantive) then it should get the UPOS `DET` instead of `PRON`.
+If it’s used as a pronoun in the sentence, then it should get the `PRON` UPOS and the appropriate deprel (such as `nsubj`).
 
 #### Particles
 
