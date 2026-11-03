@@ -1,0 +1,18 @@
+---
+layout: feature
+title: 'Gender[obj]'
+shortdef: 'gender of the object'
+udver: '2'
+---
+
+Gender of the object or applicative suffix of a verb. Tigrinya verbs agree with their object, and with applied arguments (beneficiary, maleficiary, instrument, location), by a pronominal suffix that distinguishes gender in the 2nd and 3rd person. The feature records the gender of this suffix, independently of the gender of the subject, which is recorded by `Gender`.
+
+### Values
+
+* `Masc`: masculine object
+* `Fem`: feminine object
+
+### Examples
+
+* ቀሊዑዋ / *k'əliʕuwa* "he hit her (it)": `Gender=Masc|Gender[obj]=Fem` (ti_ref_152)
+* ሂቡዎ / *hibuwo* "he gave it (masc.)": `Gender=Masc|Gender[obj]=Masc` (ti_ref_147)
