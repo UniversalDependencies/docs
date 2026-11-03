@@ -10,7 +10,7 @@ We use `case:pre` for prepositions that are written as prefixes and segmented fr
 ~~~ sdparse
 ካሌብ ን- እቲ ቢኬሪ ሰቢሩዎ ። \n Caleb OBJ the glass break.CONV.Sb3sm.Ob3sm .
 nsubj(ሰቢሩዎ, ካሌብ)
-case:pre(እቲ, ን-)
+case:pre(ቢኬሪ, ን-)
 det(ቢኬሪ, እቲ)
 obj(ሰቢሩዎ, ቢኬሪ)
 ~~~
