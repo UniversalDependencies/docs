@@ -49,7 +49,7 @@ Tigrinya (ትግርኛ) is an Ethio-Semitic language spoken in Eritrea and north
 * Copula: the present copula is እዩ (negative ኣይኮነን), the past copula is ነበረ; the copula is attached to the nonverbal predicate as `cop`. When both the subject and the predicate are nominals or headless relative clauses, the constituent preceding the copula is the predicate. The existential verb ኣለ is not a copula. In clefts, the clefted element is the predicate and the relative clause is `csubj:cleft`.
 * Converbs and subordinate verbs form adverbial clauses (`advcl`); relative clauses with ዝ- are `acl`; headless relative clauses are annotated according to their function (`csubj`, `ccomp`).
 * Universal subtypes used: `nsubj:pass`, `csubj:pass`, `nsubj:outer`, `csubj:outer`, `det:poss`, `compound:lvc`, `compound:redup`.
-* Language-specific subtypes: [dep/xcomp-pred](), [ti-dep/csubj-cleft](), [ti-dep/obj-exp](), [ti-dep/obj-poss](), [ti-dep/advmod-aff](), [ti-dep/case-pre]().
+* Language-specific subtypes: [xcomp-pred](dep/xcomp-pred), [ti-dep/csubj-cleft](), [ti-dep/obj-exp](), [ti-dep/obj-poss](), [ti-dep/advmod-aff](), [ti-dep/case-pre]().
 
 ## Treebanks
 
