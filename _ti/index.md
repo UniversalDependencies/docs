@@ -35,7 +35,7 @@ Tigrinya (ትግርኛ) is an Ethio-Semitic language spoken in Eritrea and north
 ### Features
 
 * Nouns: `Gender`, `Number`; `VerbForm=Vnoun` on verbal nouns; `Abbr=Yes` on abbreviations.
-* Verbs: `Gender`, `Number`, `Person` (subject agreement); `Gender[obj]`, `Number[obj]`, `Person[obj]` (object and applicative suffixes); `Aspect=Imp,Perf`; `Mood=Imp,Jus`; `VerbForm=Conv`; `Voice=Pass,Cau` (`Voice=Pass` marks the ተ- stem, whether the clause is passive, reflexive or middle); `Polarity=Neg` on forms with a fused negative prefix.
+* Verbs: `Gender`, `Number`, `Person` (subject agreement); `Gender[obj]`, `Number[obj]`, `Person[obj]` (object suffixes); `Gender[app]`, `Number[app]`, `Person[app]` (applicative suffixes with -l-); `Aspect=Imp,Perf`; `Mood=Imp,Ind,Jus`; `VerbForm=Conv`; `Voice=Pass,Cau` (`Voice=Pass` marks the ተ- stem, whether the clause is passive, reflexive, reciprocal or middle); `Polarity=Neg` on forms with a fused negative prefix.
 * Copula and auxiliaries: `Tense=Pres` (non-past) on እዩ and ኣለ, `Tense=Past` on ነበረ; `Polarity=Neg` on ኣይኮነን.
 * Pronouns and determiners: `PronType=Art,Dem,Prs,Int`; `Poss=Yes`; `Reflex=Yes`; `Person`, `Gender`, `Number`; `Case=Acc,Equ,All` on case-marked personal pronouns.
 * Adjectives: `Gender`, `Number`; `NumType=Ord` on ordinals.
