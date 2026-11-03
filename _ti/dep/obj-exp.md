@@ -25,7 +25,7 @@ aux(ጠምዩዎ, ኣሎ)
 
 ~~~ sdparse
 ን- እቲ ቆልዓ ጠምዩዎ ኣሎ ። \n OBJ the child be.hungry.CONV.Sb3sm.Ob3sm AUX.Sb3sm .
-case:pre(እቲ, ን-)
+case:pre(ቆልዓ, ን-)
 det(ቆልዓ, እቲ)
 obj:exp(ጠምዩዎ, ቆልዓ)
 aux(ጠምዩዎ, ኣሎ)
