@@ -11,11 +11,11 @@ Number of the applicative suffix of a verb. The applicative suffixes, with the e
 
 #### Examples
 
-* ዘይሓልፈለይ / *zəyħalfələy* "(the trouble) never passes for me": `Number[app]=Sing|Person[app]=1` (ti_ref_179)
-* ሰትዩሉ / *sətyulu* "he drank from it": `Number[app]=Sing` (ti_ref_186)
+* ዘይሓልፈለይ / *zəyħalfələy* "It (the trouble) never passes for me" (maleficiary): `Number[app]=Sing|Person[app]=1` (ti_ref_179)
+* ሰትዩሉ / *sətyulu* "he drank from it" (instrument): `Number[app]=Sing` (ti_ref_186)
 
 ### <a name="Plur">`Plur`</a>: plural applied argument
 
 #### Examples
 
-* ገዚአሎም / *gəziʔɛlom* "I bought (it) for them"
+* ገዚአሎም / *gəziʔɛlom* "I bought (it) for them" (beneficiary)
