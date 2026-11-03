@@ -11,16 +11,16 @@ Person of the applicative suffix of a verb. The applicative suffixes, with the e
 
 #### Examples
 
-* ዘይሓልፈለይ / *zəyħalfələy* "(the trouble) never passes for me": `Person=3|Person[app]=1` (ti_ref_179)
+ዘይሓልፈለይ / *zəyħalfələy* "It (the trouble) never passes for me" (maleficiary): `Person=3|Person[app]=1` (ti_ref_179)
 
 ### <a name="2">`2`</a>: second person applied argument
 
 #### Examples
 
-* ገዚአልካ / *gəziʔɛlka* "I bought (it) for you (masc.)"
+* ገዚአልካ / *gəziʔɛlka* "I bought (it) for you (masc.)" (beneficiary)
 
 ### <a name="3">`3`</a>: third person applied argument
 
 #### Examples
 
-* ገዚአሉ / *gəziʔɛlu* "I bought (it) for him": `Person=1|Person[app]=3` (ti_ref_110)
+* ገዚአሉ / *gəziʔɛlu* "I bought (it) for him" (beneficiary): `Person=1|Person[app]=3` (ti_ref_110)
