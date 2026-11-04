@@ -5,7 +5,7 @@ shortdef: 'person of the object'
 udver: '2'
 ---
 
-Person of the object suffix of a verb. The feature records the person of the pronominal suffix that cross-references the object, independently of the person of the subject, which is recorded by Person. In the experience, possession and obligation constructions, the suffix indexes the experiencer, the possessor or the obliged person, while the subject agreement is 3rd person masculine singular or agrees with the possessed entity. Applicative suffixes (with the element -l-) are recorded separately, by Person[app].
+Person of the object suffix of a verb. The feature records the person of the pronominal suffix that cross-references the object, independently of the person of the subject, which is recorded by Person. In the experience, possession and obligation constructions, the suffix indexes the experiencer, the possessor or the obliged person, while the subject agreement is 3rd person masculine singular or agrees with the possessed entity. Applicative suffixes (with the element -l-) are recorded separately, by [`Person[app]`](https://universaldependencies.org/ti/feat/Person-app.html).
 
 ### <a name="1">`1`</a>: first person object
 
