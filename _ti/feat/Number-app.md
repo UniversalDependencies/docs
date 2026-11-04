@@ -5,7 +5,7 @@ shortdef: 'number of the applicative suffix'
 udver: '2'
 ---
 
-Number of the applicative suffix of a verb. The applicative suffixes, with the element -l- (-ለ-, -ሉ, -ላ, …), cross-reference an applied argument such as a beneficiary, maleficiary, instrument, source or location, and form a series distinct from the ordinary object suffixes ([Number[obj]](Number-obj)). The feature records the number of the applicative suffix, independently of the number of the subject (`Number`).
+Number of the applicative suffix of a verb. The applicative suffixes, with the element -l- (-ለ-, -ሉ, -ላ, …), cross-reference an applied argument such as a beneficiary, maleficiary, instrument, source or location, and form a series distinct from the ordinary object suffixes ([`Number[obj]`](https://universaldependencies.org/ti/feat/Number-obj.html)). The feature records the number of the applicative suffix, independently of the number of the subject (`Number`).
 
 ### <a name="Sing">`Sing`</a>: singular applied argument
 
