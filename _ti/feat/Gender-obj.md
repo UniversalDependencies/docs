@@ -5,7 +5,7 @@ shortdef: 'gender of the object'
 udver: '2'
 ---
 
-Gender of the object suffix of a verb. Tigrinya verbs agree with their object by a pronominal suffix that distinguishes gender in the 2nd and 3rd person. The feature records the gender of this suffix, independently of the gender of the subject, which is recorded by Gender. Applicative suffixes (with the element -l-) are recorded separately, by Gender[app].
+Gender of the object suffix of a verb. Tigrinya verbs agree with their object by a pronominal suffix that distinguishes gender in the 2nd and 3rd person. The feature records the gender of this suffix, independently of the gender of the subject, which is recorded by Gender. Applicative suffixes (with the element -l-) are recorded separately, by Gender[app](https://universaldependencies.org/ti/feat/Gender-app.html).
 
 ### <a name="Masc">`Masc`</a>: masculine object
 
