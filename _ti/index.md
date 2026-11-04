@@ -28,26 +28,26 @@ Tigrinya (ትግርኛ) is an Ethio-Semitic language spoken in Eritrea and north
 * All UPOS tags are used except `SYM` and `X`.
 * `PART` is used for discourse and question particles (እንዶ / *ʔndo*, ዶ / *do*, -ስ / *-s*) and for the particles of light verb compounds (ጽን / *s'n*, ደስ / *dəs*, ድንን / *dnn*, …).
 * The negation affixes ኣይ-, -ን and ዘይ- are tagged `ADV` with `Polarity=Neg`.
-* `AUX` is used for the copula እዩ / *ʔyu* (including the negative ኣይኮነን), for ነበረ / *nəbərə* as past copula and past auxiliary, for ኣለ / *ʔalə* when it follows another verb and agrees with its subject (progressive, perfect), and for forms of ኮነ / *konə* when they follow a verb in subordinate clauses. Elsewhere, ኣለ is `VERB` (existence, possession, obligation), and ኮነ is `VERB` in the sense "become".
+* `AUX` is used for the copula እዩ / *ʔyu* (including the negative ኣይኮነን /*ʔaykonǝn*), for ነበረ / *nəbərə* as past copula and past auxiliary, for ኣሎ / *ʔalo* when it follows another verb and agrees with its subject (progressive, perfect), and for forms of ኮነ / *konə* when they follow a verb in subordinate clauses. Elsewhere, ኣሎ is `VERB` (existence, possession, obligation), and ኮነ is `VERB` in the sense "become".
 * Determiners (the article እቲ / *ʔti* and demonstratives such as እዚ / *ʔzi*) are `DET` before a noun, adjective or relative clause, and `PRON` when used alone. Possessive suffixes are `DET`; separate possessive words are `DET` before a noun and `PRON` when used alone.
 * Verbal nouns (ምኻድ / *mxad* "going") are `NOUN` with `VerbForm=Vnoun`. Converbs are `VERB` with `VerbForm=Conv`. Ordinal numerals are `ADJ` with `NumType=Ord`.
 
 ### Features
 
 * Nouns: `Gender`, `Number`; `VerbForm=Vnoun` on verbal nouns; `Abbr=Yes` on abbreviations.
-* Verbs: `Gender`, `Number`, `Person` (subject agreement); `Gender[obj]`, `Number[obj]`, `Person[obj]` (object suffixes); `Gender[app]`, `Number[app]`, `Person[app]` (applicative suffixes with -l-); `Aspect=Imp,Perf`; `Mood=Imp,Ind,Jus`; `VerbForm=Conv`; `Voice=Pass,Cau` (`Voice=Pass` marks the ተ- *tə-* stem, whether the clause is passive, reflexive, reciprocal or middle); `Polarity=Neg` on forms with a fused negative prefix.
-* Copula and auxiliaries: `Tense=Pres` (non-past) on እዩ *ʔyu* and ኣሎ *ʔalo*, `Tense=Past` on ነበረ *nǝbǝrǝ*; `Polarity=Neg` on ኣይኮነን *ʔaykonǝn*.
+* Verbs: `Gender`, `Number`, `Person` (subject agreement); `Gender[obj]`, `Number[obj]`, `Person[obj]` (object suffixes); `Gender[app]`, `Number[app]`, `Person[app]` (applicative suffixes with -l-); `Aspect=Imp,Perf`; `Mood=Imp,Ind,Jus`; `VerbForm=Conv`; `Voice=Pass,Cau` (`Voice=Pass` marks the ተ- / *tə-* stem, whether the clause is passive, reflexive, reciprocal or middle); `Polarity=Neg` on forms with a fused negative prefix.
+* Copula and auxiliaries: `Tense=Pres` (non-past) on እዩ / *ʔyu* and ኣሎ / *ʔalo*, `Tense=Past` on ነበረ / *nǝbǝrǝ*; `Polarity=Neg` on ኣይኮነን / *ʔaykonǝn*.
 * Pronouns and determiners: `PronType=Art,Dem,Prs,Int`; `Poss=Yes`; `Reflex=Yes`; `Person`, `Gender`, `Number`; `Case=Acc,Equ,All` on case-marked personal pronouns.
 * Adjectives: `Gender`, `Number`; `NumType=Ord` on ordinals.
-* Passive and causative verbs are lemmatised by their derived stem (ተፈሊጡ / *təfəlit'u* → ተፈልጠ *tǝfǝlt'ǝ* "be known").
+* Passive and causative verbs are lemmatised by their derived stem (ተፈሊጡ / *təfəlit'u* → ተፈልጠ / *tǝfǝlt'ǝ* "be known").
 
 ## Syntax
 
-* Subjects (`nsubj`) agree with the subject marking of the verb and are not case-marked. In the obligation construction with ኣሎ *ʔalo*, the obliged person is the subject (nominative) but is indexed by an object suffix on ኣሎ.
-* Objects (`obj`) are cross-referenced by an object suffix on the verb and take the objective prefix ን- *n-* when definite. `iobj` is used for arguments marked with ን- and cross-referenced by an object or applicative suffix (recipients, causees, benefactives, malefactives, instruments). Arguments with other prepositions are `obl`.
-* Experiencers of experience verbs and possessors of ኣሎ *ʔalo*, cross-referenced by the object suffix, are `obj:exp` and `obj:poss`.
-* Copula: the present copula is እዩ *ʔyu* (negative ኣይኮነን *ʔaykonǝn*), the past copula is ነበረ *nǝbǝrǝ*; the copula is attached to the nonverbal predicate as `cop`. When both the subject and the predicate are nominals or headless relative clauses, the constituent preceding the copula is the predicate. The existential verb ኣሎ *ʔalo* is not a copula. In clefts, the clefted element is the predicate and the relative clause is `csubj:cleft`.
-* Converbs and subordinate verbs form adverbial clauses (`advcl`); relative clauses with ዝ- *z-* are `acl`; headless relative clauses are annotated according to their function (`csubj`, `ccomp`).
+* Subjects (`nsubj`) agree with the subject marking of the verb and are not case-marked. In the obligation construction with ኣሎ / *ʔalo*, the obliged person is the subject (nominative) but is indexed by an object suffix on ኣሎ.
+* Objects (`obj`) are cross-referenced by an object suffix on the verb and take the objective prefix ን- / *n-* when definite. `iobj` is used for arguments marked with ን- and cross-referenced by an object or applicative suffix (recipients, causees, benefactives, malefactives, instruments). Arguments with other prepositions are `obl`.
+* Experiencers of experience verbs and possessors of ኣሎ / *ʔalo*, cross-referenced by the object suffix, are `obj:exp` and `obj:poss`.
+* Copula: the present copula is እዩ / *ʔyu* (negative ኣይኮነን / *ʔaykonǝn*), the past copula is ነበረ / *nǝbǝrǝ*; the copula is attached to the nonverbal predicate as `cop`. When both the subject and the predicate are nominals or headless relative clauses, the constituent preceding the copula is the predicate. The existential verb ኣሎ / *ʔalo* is not a copula. In clefts, the clefted element is the predicate and the relative clause is `csubj:cleft`.
+* Converbs and subordinate verbs form adverbial clauses (`advcl`); relative clauses with ዝ- / *z-* are `acl`; headless relative clauses are annotated according to their function (`csubj`, `ccomp`).
 * Universal subtypes used: `nsubj:pass`, `csubj:pass`, `nsubj:outer`, `csubj:outer`, `det:poss`, `compound:lvc`, `compound:redup`.
 * Language-specific subtypes: [xcomp-pred](), [ti-dep/csubj-cleft](), [ti-dep/obj-exp](), [ti-dep/obj-poss](), [ti-dep/advmod-aff](), [ti-dep/case-pre]().
 
