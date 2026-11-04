@@ -10,7 +10,7 @@ Tigrinya (ትግርኛ) is an Ethio-Semitic language spoken in Eritrea and north
 
 ## Tokenization and Word Segmentation
 
-* Words are delimited by whitespace. Punctuation marks (፡ ። ፣ ፤ ፧ !), which are often attached to a neighbouring word, are separate tokens. Questions end with the Ge'ez question mark ፧. Abbreviations written with a slash, such as ወ/ሮ / *w/ro* for ወይዘሮ / *wəyzəro* "Mrs.", are single tokens.
+* Words are delimited by whitespace. Punctuation marks (፡ ። ፣ ፤ ፧ !), which are often attached to a neighbouring word, are separate tokens. Questions may end with ? as well as with the Ge'ez question mark ፧. Abbreviations written with a slash, such as ወ/ሮ / *w/ro* for ወይዘሮ / *wəyzəro* "Mrs.", are single tokens.
 * There are no words with spaces.
 * Multiword tokens are frequent. The following elements are written together with their host but are segmented as separate syntactic words:
   * prepositions written as prefixes (ን- *n-*, ብ- *b-*, and ናይ / *nay* in ናይቲ / *nayti*), e.g. ነቲ / *nəti* = ን + እቲ "OBJ the";
@@ -35,19 +35,19 @@ Tigrinya (ትግርኛ) is an Ethio-Semitic language spoken in Eritrea and north
 ### Features
 
 * Nouns: `Gender`, `Number`; `VerbForm=Vnoun` on verbal nouns; `Abbr=Yes` on abbreviations.
-* Verbs: `Gender`, `Number`, `Person` (subject agreement); `Gender[obj]`, `Number[obj]`, `Person[obj]` (object suffixes); `Gender[app]`, `Number[app]`, `Person[app]` (applicative suffixes with -l-); `Aspect=Imp,Perf`; `Mood=Imp,Ind,Jus`; `VerbForm=Conv`; `Voice=Pass,Cau` (`Voice=Pass` marks the ተ- stem, whether the clause is passive, reflexive, reciprocal or middle); `Polarity=Neg` on forms with a fused negative prefix.
-* Copula and auxiliaries: `Tense=Pres` (non-past) on እዩ and ኣለ, `Tense=Past` on ነበረ; `Polarity=Neg` on ኣይኮነን.
+* Verbs: `Gender`, `Number`, `Person` (subject agreement); `Gender[obj]`, `Number[obj]`, `Person[obj]` (object suffixes); `Gender[app]`, `Number[app]`, `Person[app]` (applicative suffixes with -l-); `Aspect=Imp,Perf`; `Mood=Imp,Ind,Jus`; `VerbForm=Conv`; `Voice=Pass,Cau` (`Voice=Pass` marks the ተ- *tə-* stem, whether the clause is passive, reflexive, reciprocal or middle); `Polarity=Neg` on forms with a fused negative prefix.
+* Copula and auxiliaries: `Tense=Pres` (non-past) on እዩ *ʔyu* and ኣሎ *ʔalo*, `Tense=Past` on ነበረ *nǝbǝrǝ*; `Polarity=Neg` on ኣይኮነን *ʔaykonǝn*.
 * Pronouns and determiners: `PronType=Art,Dem,Prs,Int`; `Poss=Yes`; `Reflex=Yes`; `Person`, `Gender`, `Number`; `Case=Acc,Equ,All` on case-marked personal pronouns.
 * Adjectives: `Gender`, `Number`; `NumType=Ord` on ordinals.
-* Passive and causative verbs are lemmatised by their derived stem (ተፈሊጡ / *təfəlit'u* → ተፈልጠ "be known").
+* Passive and causative verbs are lemmatised by their derived stem (ተፈሊጡ / *təfəlit'u* → ተፈልጠ *tǝfǝlt'ǝ* "be known").
 
 ## Syntax
 
-* Subjects (`nsubj`) agree with the subject marking of the verb and are not case-marked. In the obligation construction with ኣለ, the obliged person is the subject (nominative) but is indexed by an object suffix on ኣለ.
-* Objects (`obj`) are cross-referenced by an object suffix on the verb and take the objective prefix ን- when definite. `iobj` is used for arguments marked with ን- and cross-referenced by an object or applicative suffix (recipients, causees, benefactives, malefactives, instruments). Arguments with other prepositions are `obl`.
-* Experiencers of experience verbs and possessors of ኣለ, cross-referenced by the object suffix, are `obj:exp` and `obj:poss`.
-* Copula: the present copula is እዩ (negative ኣይኮነን), the past copula is ነበረ; the copula is attached to the nonverbal predicate as `cop`. When both the subject and the predicate are nominals or headless relative clauses, the constituent preceding the copula is the predicate. The existential verb ኣለ is not a copula. In clefts, the clefted element is the predicate and the relative clause is `csubj:cleft`.
-* Converbs and subordinate verbs form adverbial clauses (`advcl`); relative clauses with ዝ- are `acl`; headless relative clauses are annotated according to their function (`csubj`, `ccomp`).
+* Subjects (`nsubj`) agree with the subject marking of the verb and are not case-marked. In the obligation construction with ኣሎ *ʔalo*, the obliged person is the subject (nominative) but is indexed by an object suffix on ኣሎ.
+* Objects (`obj`) are cross-referenced by an object suffix on the verb and take the objective prefix ን- *n-* when definite. `iobj` is used for arguments marked with ን- and cross-referenced by an object or applicative suffix (recipients, causees, benefactives, malefactives, instruments). Arguments with other prepositions are `obl`.
+* Experiencers of experience verbs and possessors of ኣሎ *ʔalo*, cross-referenced by the object suffix, are `obj:exp` and `obj:poss`.
+* Copula: the present copula is እዩ *ʔyu* (negative ኣይኮነን *ʔaykonǝn*), the past copula is ነበረ *nǝbǝrǝ*; the copula is attached to the nonverbal predicate as `cop`. When both the subject and the predicate are nominals or headless relative clauses, the constituent preceding the copula is the predicate. The existential verb ኣሎ *ʔalo* is not a copula. In clefts, the clefted element is the predicate and the relative clause is `csubj:cleft`.
+* Converbs and subordinate verbs form adverbial clauses (`advcl`); relative clauses with ዝ- *z-* are `acl`; headless relative clauses are annotated according to their function (`csubj`, `ccomp`).
 * Universal subtypes used: `nsubj:pass`, `csubj:pass`, `nsubj:outer`, `csubj:outer`, `det:poss`, `compound:lvc`, `compound:redup`.
 * Language-specific subtypes: [xcomp-pred](), [ti-dep/csubj-cleft](), [ti-dep/obj-exp](), [ti-dep/obj-poss](), [ti-dep/advmod-aff](), [ti-dep/case-pre]().
 
