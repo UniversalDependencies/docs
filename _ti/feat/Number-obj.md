@@ -5,7 +5,7 @@ shortdef: 'number of the object'
 udver: '2'
 ---
 
-Number of the object suffix of a verb. The feature records the number of the pronominal suffix that cross-references the object, independently of the number of the subject, which is recorded by Number. Applicative suffixes (with the element -l-) are recorded separately, by[Number[app]](https://universaldependencies.org/ti/feat/Number-app.html).
+Number of the object suffix of a verb. The feature records the number of the pronominal suffix that cross-references the object, independently of the number of the subject, which is recorded by Number. Applicative suffixes (with the element -l-) are recorded separately, by [`Number[app]`](https://universaldependencies.org/ti/feat/Number-app.html).
 
 ### <a name="Sing">`Sing`</a>: singular object
 
