@@ -31,11 +31,12 @@ While we strip out punctuation in our `# text` rows, we do recommend using any p
 
 ### Part of Speech Tags
 
-Participles are tagged as `VERB`s.
+Participles are generally tagged as `VERB`s.
 
 Sometimes in Pāli, a word derived from a participle has taken on a new meaning beyond its root verb.
 Nouns like *buddha* ("the Buddha", from *bujjhati*, "knows"), *carita* ("behavior", from *carati*, "walks"), *khādanīya* ("non-staple food", from *khādati*, "chews"), etc or adjectives like *anāgata* ("future", from *āgacchati*, "comes"), etc should be tagged as `NOUN` or `ADJ` as appropriate and not as `VERB` despite the etymological connection.
-Participles that are used in the same sense as their underlying verb, are just `VERB`s, even if they are syntactically close to being used as adjectives or nouns.
+The same goes for participles that have no attested finite form, such as *abbhussakkamāna* ("ascending") or *ajjhopanna* ("enthralled by"). These are marked `ADJ` because their verb is entirely theoretical.
+Participles that have an underlying finite verb and are used in that same sense, however, are just `VERB`s, even if they are syntactically close to being used as adjectives or nouns.
 
 When a form of *bhavati* or *atthi* is used in a copula, it should get the `AUX` UPOS. When they are used in the intransitive sense of "exists," they are `VERB`s.
 
@@ -78,11 +79,14 @@ We generally follow the lemmatization found in the Pāli Text Society's dictiona
 
 The `LEMMA` for all verb forms is the 3rd-person singular present indicative of the underlying verb.
 For example, the past participle *gata* "gone" gets the `LEMMA` *gacchati*.
+For participles without such a finite verbal form (such as *anujāto*, "taking after"), they should be labeled as adjectives and given the neutral, stem form (e.g. `anujāta`) as their lemma.
 
 For passive and causative voiced finite verbs, we give the passive and causative lemma and do not collapse the lemmas down to the simplex.
 For example, for the passive verb *nirujjhanti*, the lemma should be `nirujjhati` and for the causative verb *desemi*, the causative lemma `deseti` should be given.
 Similarly, for a double causative verb like *yojāpetvā*, the lemma should be `yojāpeti`.
-Note that passive participles get the active verb as their lemma, for example *karaṇīya* gets the lemma `karoti`.
+Note that causative participles also get the causative lamma, but passive participles get the active verb as their lemma.
+For example, *kāritā* ("built") gets the lemma `kāreti` ("cause-to-do"), while *karaṇīyo* ("should be done") would get simply `karoti` ("to do").
+
 
 Forms of the verb *hoti* (*honti*, *ahosi*, etc) always get the lemma `bhavati`.
 Forms of the verb *atthi* (*amhi*, *atthu*, *santi*, etc), get the lemma `atthi`.
@@ -90,6 +94,8 @@ Forms of the verb *atthi* (*amhi*, *atthu*, *santi*, etc), get the lemma `atthi`
 #### Noun Lemmas
 
 Lemmas are always lowercase, even for proper nouns.
+
+Substantives and adjectives should get the stem ("in comps") form as their lemma. For example, *itthiyo* has the lemma `itthi`, *bhikkhave* gets the lemma `bhikkhu`, *rasso* the lemma `rassa`, *rāja* the lemma `rājan`, *bhagavato* `bhagavant`, *agārisu* `agārin`, etc.
 
 For personal pronouns, collapse the cases down to the nominative. For example, *amhākaṃ* gets *mayaṃ* and *te* gets *tvaṃ*. Keep first and second, singular and plural separate.
 
@@ -101,8 +107,6 @@ For demonstrative pronouns, collapse the cases, gender, and number to the nomina
 * Use *idaṃ* for its various forms: *ayaṃ*, *imaṃ*, *imāni*, *imehi*, *anena*, etc.
 
 Similarly, use *kiñci* for forms of the indefinite pronoun: *koci*, *kāci*, *kenaci*, *kesuci*, etc.
-
-Substantives and adjectives should get the stem form as their lemma. For example, *itthiyo* has the lemma `itthi`, *bhikkhave* gets the lemma `bhikkhu`, *rasso* the lemma `rassa`, *rāja* the lemma `rājan`, *bhagavato* `bhagavant`, etc. 
 
 ### Features
 
