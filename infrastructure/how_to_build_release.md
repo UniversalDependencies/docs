@@ -14,6 +14,12 @@ It is meant for the maintenance task force rather than individual treebank teams
 * Make sure that you have local clones of all UD_* repositories that should be released.
   This step cannot be automated (unless you write a script that queries Github about all
   repositories belonging to the UniversalDependencies organization).
+* New in November 2026: The following two steps can now be replaced by calling one script:
+
+	```bash
+	perl tools/update_repositories.pl
+	```
+
 * Make sure you have the most current content of all the repositories (note that this
   command assumes you have not modified your local copy of the data without pushing it
   back; if this is the case, you will see lists of modified files in the output and you
