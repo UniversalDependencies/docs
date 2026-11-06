@@ -20,17 +20,17 @@ It is meant for the maintenance task force rather than individual treebank teams
 	perl tools/update_repositories.pl
 	```
 
-* Make sure you have the most current content of all the repositories (note that this
-  command assumes you have not modified your local copy of the data without pushing it
-  back; if this is the case, you will see lists of modified files in the output and you
-  will have to resolve it). Also make sure that you are working with the `dev` branch:<br />
+  * Make sure you have the most current content of all the repositories (note that this
+    command assumes you have not modified your local copy of the data without pushing it
+    back; if this is the case, you will see lists of modified files in the output and you
+    will have to resolve it). Also make sure that you are working with the `dev` branch:<br />
 
 	```bash
 	for i in UD_* ; do echo $i ; cd $i ; git checkout dev ; git pull --no-edit ; cd .. ; echo ; done
 	```
 
-* Make sure there are no untracked files in your local copies of the repositories.
-  Otherwise they could be mistakenly picked for the release.<br />
+  * Make sure there are no untracked files in your local copies of the repositories.
+    Otherwise they could be mistakenly picked for the release.<br />
 
 	```bash
 	for i in UD_* ; do echo $i ; cd $i ; git status ; if git status | grep -P '(Untracked files|ahead of)' > /dev/null ; then echo XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX UNCLEAN GIT STATUS XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX ; sleep 10 ; fi; cd .. ; echo ; done
