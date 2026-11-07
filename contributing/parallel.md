@@ -84,6 +84,10 @@ scripts, although in a less accurate form.
 …
 ```
 
+A standard for the Bible book codes was discussed [in this commit comment thread](https://github.com/UniversalDependencies/tools/commit/fa9f43cf76ab223775485e45bd466fec2b46ea9c#commitcomment-157312840);
+see also the script [survey_bible_sentences.pl](https://github.com/UniversalDependencies/tools/blob/master/survey_bible_sentences.pl).
+
+
 ## Alternative translations
 
 In some cases, a treebank will provide multiple alternative translations for the same parallel sentence. This happens
