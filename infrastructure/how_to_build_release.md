@@ -82,8 +82,7 @@ It is meant for the maintenance task force rather than individual treebank teams
   place and form in the future.
 
 	```bash
-	# TODO: Restrict this to released_treebanks.txt
-	tools/survey_parallel_treebanks.pl | tee parallel.log
+	tools/survey_parallel_treebanks.pl --datapath `pwd -P` --tbklist released_treebanks.txt | tee parallel.log
 	```
 
 * Check the [validation report](http://quest.ms.mff.cuni.cz/udvalidator/) for legacy exceptions that are no longer needed.
