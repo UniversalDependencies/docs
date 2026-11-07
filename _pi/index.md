@@ -79,7 +79,11 @@ We generally follow the lemmatization found in the Pāli Text Society's dictiona
 
 The `LEMMA` for all verb forms is the 3rd-person singular present indicative of the underlying verb.
 For example, the past participle *gata* "gone" gets the `LEMMA` *gacchati*.
+
 For participles without such a finite verbal form (such as *anujāto*, "taking after"), they should be labeled as adjectives and given the neutral, stem form (e.g. `anujāta`) as their lemma.
+
+Converbs without a simplex form (such as *accādhāya* "having placed on top") get the converb as the lemma.
+These are extremely rare, however. The vast majority of absolutives have simplex forms and should just get the finite lemma as above.
 
 For passive and causative voiced finite verbs, we give the passive and causative lemma and do not collapse the lemmas down to the simplex.
 For example, for the passive verb *nirujjhanti*, the lemma should be `nirujjhati` and for the causative verb *desemi*, the causative lemma `deseti` should be given.
@@ -91,7 +95,7 @@ For example, *kāritā* ("built") gets the lemma `kāreti` ("cause-to-do"), whil
 Forms of the verb *hoti* (*honti*, *ahosi*, etc) always get the lemma `bhavati`.
 Forms of the verb *atthi* (*amhi*, *atthu*, *santi*, etc), get the lemma `atthi`.
 
-#### Noun Lemmas
+#### Noun and Determiner Lemmas
 
 Lemmas are always lowercase, even for proper nouns.
 
@@ -101,12 +105,16 @@ For personal pronouns, collapse the cases down to the nominative. For example, *
 
 For demonstrative pronouns, collapse the cases, gender, and number to the nominative, singular, neuter form:
 
-* Use *tad* for all *ta-* forms: *sā*, *sa*, *taṃ*, *tena*, etc.
-* Use *etad* for all *eta-* forms: *eso*, *etassa*, *esā*, etc.
-* Use *yad* for all *ya-* forms: *yo*, *yā*, *yaṃ*, *yamhi*, etc.
-* Use *idaṃ* for its various forms: *ayaṃ*, *imaṃ*, *imāni*, *imehi*, *anena*, etc.
+* Use `tad` for all *ta-* forms: *sā*, *sa*, *taṃ*, *tena*, etc.
+* Use `etad` for all *eta-* forms: *eso*, *etassa*, *esā*, etc.
+* Use `yad` for all *ya-* forms: *yo*, *yā*, *yaṃ*, *yamhi*, etc.
+* Use `idaṃ` for its various forms: *ayaṃ*, *imaṃ*, *imāni*, *imehi*, *anena*, etc.
+* Use `aduṃ` for its various forms: *amuṃ*, *amunā*, *asu*, etc.
 
-Similarly, use *kiñci* for forms of the indefinite pronoun: *koci*, *kāci*, *kenaci*, *kesuci*, etc.
+Similarly, use `kiñci` for forms of the indefinite pronoun: *koci*, *kāci*, *kenaci*, *kesuci*, etc.
+Use `kiṃ` for all forms of the interrogative pronoun: *kissa*, *ko*, *kāyo*, etc.
+
+For other pronouns and `DET`s with more straightforward stems, simply use the stem form as normal.  For example, *aññena* ("with another") simply gets `añña` and *sabbāhi* ("by all") gets `sabba`, etc.
 
 ### Features
 
