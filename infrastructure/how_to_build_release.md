@@ -97,7 +97,7 @@ It is meant for the maintenance task force rather than individual treebank teams
   by running
 
 	```bash
-	docs-automation/valdan/save-release-json.pl --json docs-automation/valdan/releases.json --releasenum 2.19 --releasedate 2026-05-15 $(cat released_treebanks.txt) ; cd docs-automation ; git commit -a -m 'Updated release list.' ; git push ; cd ..
+	docs-automation/valdan/save-release-json.pl --json docs-automation/valdan/releases.json --releasenum 2.19 --releasedate 2026-11-15 $(cat released_treebanks.txt) ; cd docs-automation ; git commit -a -m 'Updated release list.' ; git push ; cd ..
 	```
 
   Note that if a treebank was renamed between the last two releases, it must be entered manually in a separate structure in `releases.json` before running the script!
