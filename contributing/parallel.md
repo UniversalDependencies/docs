@@ -145,6 +145,8 @@ described above.
 * `bible`: Ancient Greek PROIEL, Ancient Greek PTNK, Ancient Hebrew, Coptic, Gothic, Latin PROIEL, Old Church Slavonic, Romanian Nonstandard, Yoruba
 * `cairo`: Latgalian, Latvian, Luxembourgish, Tswana, others have it as one part of larger data (Buryat, Macedonian, Malayalam, what else?)
 * `tuecl`: extension of Cairo, currently focusing on Turkic languages: Azerbaijani, Kyrgyz, Turkish, Uzbek
+* `lpp`: Le Petit Prince (The Little Prince) by Antoine de Saint-Exupéry: English, Korean
+* `penn`: Penn TreeBank / Wall Street Journal: Turkish Penn, Czech PDTSC
 
 ```
 > survey_parallel_treebanks.pl
