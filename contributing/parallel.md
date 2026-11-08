@@ -142,7 +142,7 @@ described above.
 * `zhgsd`: Chinese GSD, Chinese GSDSimp
 * `jagsd`: Japanese GSD, Japanese GSDLUW
 * `atis`: English, Turkish
-* `bible`: Ancient Greek PROIEL, Ancient Greek PTNK, Ancient Hebrew, Coptic, Gothic, Latin PROIEL, Old Church Slavonic, Romanian Nonstandard, Yoruba
+* `bible`: Ancient Greek PROIEL, Ancient Greek PTNK, Ancient Hebrew, Classical Armenian, Coptic Bohairic, Coptic Scriptorium, Faroese FarPaHC, Gothic, Icelandic IcePaHC, Latin PROIEL, Old Church Slavonic, Romanian Nonstandard, Yoruba
 * `cairo`: Latgalian, Latvian, Luxembourgish, Tswana, others have it as one part of larger data (Buryat, Macedonian, Malayalam, what else?)
 * `tuecl`: extension of Cairo, currently focusing on Turkic languages: Azerbaijani, Kyrgyz, Turkish, Uzbek
 * `lpp`: Le Petit Prince (The Little Prince) by Antoine de Saint-Exupéry: English, Korean
