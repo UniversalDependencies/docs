@@ -29,7 +29,7 @@ ccomp(հրամայեց, փորել)
 ccomp(ordered, to-dig)
 ~~~
 
-Note that in Eastern Armenian, the xcomp relation is also used for dative-case infinitives functioning as complements in certain complex verbal constructions.
+Note that in Armenian, the xcomp relation is also used for dative-case infinitives functioning as complements in certain complex verbal constructions.
 
 ~~~ conllu
 # visual-style 5 6 xcomp color:blue
