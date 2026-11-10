@@ -183,8 +183,7 @@ It is meant for the maintenance task force rather than individual treebank teams
 	```
 
 	```bash
-	# This script scans a final UD release folder. We may want to modify it to also accept the list of treebanks to be released. Other survey scripts accept such input.
-	tools/survey_language_families.pl --input release --udpath /net/data/universal-dependencies-2.19 --langyaml docs-automation/codes_and_flags.yaml --output tbkstats > tbkstats.2.19.txt
+	tools/survey_language_families.pl --input release --udpath . --tbklist released_treebanks.txt --langyaml docs-automation/codes_and_flags.yaml --output tbkstats > tbkstats.2.19.txt
 	tools/survey_language_families.pl --input tbkstats --langyaml docs-automation/codes_and_flags.yaml --output fampie --languages --families --complatex < tbkstats.2.19.txt | pdflatex
 	pdftoppm -png -r 600 texput.pdf > docs/img/lang_per_fam.png
 	tools/survey_language_families.pl --input tbkstats --langyaml docs-automation/codes_and_flags.yaml --output fampie --words --families --complatex < tbkstats.2.19.txt | pdflatex
@@ -193,6 +192,7 @@ It is meant for the maintenance task force rather than individual treebank teams
 	pdftoppm -png -r 600 texput.pdf > docs/img/lang_per_gen_ie.png
 	tools/survey_language_families.pl --input tbkstats --langyaml docs-automation/codes_and_flags.yaml --output fampie --words --genera IE --complatex < tbkstats.2.19.txt | pdflatex
 	pdftoppm -png -r 600 texput.pdf > docs/img/word_per_gen_ie.png
+	rm textput.pdf
 	cd docs ; git pull --no-edit ; git commit -a -m 'Updated diversity pie charts.' ; git push ; cd ..
 	```
 
