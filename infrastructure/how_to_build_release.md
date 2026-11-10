@@ -211,7 +211,8 @@ It is meant for the maintenance task force rather than individual treebank teams
   And this is how you remove it from Github: `git push origin :refs/tags/r2.1`.
 
 	```bash
-	for i in $(cat released_treebanks.txt) docs tools ; do echo $i ; cd $i ; git tag r2.19 ; git push --tags ; cd .. ; echo ; done
+	perl tools/update_repositories.pl --tag r2.19 --datapath . --tbklist released_treebanks.txt
+	# for i in $(cat released_treebanks.txt) docs tools ; do echo $i ; cd $i ; git tag r2.19 ; git push --tags ; cd .. ; echo ; done
 	```
 
 ## Releasing the data
