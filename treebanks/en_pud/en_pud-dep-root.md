@@ -11,9 +11,9 @@ This relation is universal.
 1000 nodes (5%) are attached to their parents as `root`.
 
 1000 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 7.769.
+Average distance between parent and child is 7.778.
 
-The following 10 pairs of parts of speech are connected with `root`: -<tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (807; 81% instances), -<tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (87; 9% instances), -<tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> (71; 7% instances), -<tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt> (11; 1% instances), -<tt><a href="en_pud-pos-PRON.html">PRON</a></tt> (6; 1% instances), -<tt><a href="en_pud-pos-ADV.html">ADV</a></tt> (5; 1% instances), -<tt><a href="en_pud-pos-AUX.html">AUX</a></tt> (4; 0% instances), -<tt><a href="en_pud-pos-NUM.html">NUM</a></tt> (4; 0% instances), -<tt><a href="en_pud-pos-SYM.html">SYM</a></tt> (4; 0% instances), -<tt><a href="en_pud-pos-X.html">X</a></tt> (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `root`: -<tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (808; 81% instances), -<tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (88; 9% instances), -<tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> (71; 7% instances), -<tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt> (11; 1% instances), -<tt><a href="en_pud-pos-PRON.html">PRON</a></tt> (6; 1% instances), -<tt><a href="en_pud-pos-ADV.html">ADV</a></tt> (5; 1% instances), -<tt><a href="en_pud-pos-NUM.html">NUM</a></tt> (4; 0% instances), -<tt><a href="en_pud-pos-SYM.html">SYM</a></tt> (4; 0% instances), -<tt><a href="en_pud-pos-AUX.html">AUX</a></tt> (2; 0% instances), -<tt><a href="en_pud-pos-X.html">X</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -26,7 +26,7 @@ The following 10 pairs of parts of speech are connected with `root`: -<tt><a hre
 2	new	new	ADJ	JJ	Degree=Pos	3	amod	3:amod	_
 3	spending	spending	NOUN	NN	Number=Sing	5	nsubj:pass	5:nsubj:pass	_
 4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux:pass	5:aux:pass	_
-5	fueled	fuel	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
+5	fueled	fuel	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	_
 6	by	by	ADP	IN	_	11	case	11:case	_
 7	Clinton	Clinton	PROPN	NNP	Number=Sing	11	nmod:poss	11:nmod:poss	SpaceAfter=No
 8	’s	's	PART	POS	_	7	case	7:case	_
@@ -44,7 +44,7 @@ The following 10 pairs of parts of speech are connected with `root`: -<tt><a hre
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 8 root	color:blue
-1	Today	today	NOUN	NN	Number=Sing	8	obl:unmarked	8:obl:unmarked	TemporalNPAdjunct=Yes|SpaceAfter=No
+1	Today	today	NOUN	NN	Number=Sing	8	obl:unmarked	8:obl:unmarked	SpaceAfter=No|TemporalNPAdjunct=Yes
 2	,	,	PUNCT	,	_	8	punct	8:punct	_
 3	Khanzir	Khanzir	PROPN	NNP	Number=Sing	8	nsubj	8:nsubj	_
 4	may	may	AUX	MD	VerbForm=Fin	8	aux	8:aux	_

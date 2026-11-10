@@ -13,19 +13,18 @@ The 10 most frequent `CCONJ` lemmas: <em>llu</em>
 
 The 10 most frequent `CCONJ` types:  <em>llu</em>
 
-The 10 most frequent ambiguous lemmas: <em>llu</em> (<tt><a href="ess_sli-pos-CCONJ.html">CCONJ</a></tt> 4, <tt><a href="ess_sli-pos-ADV.html">ADV</a></tt> 3, <tt><a href="ess_sli-pos-X.html">X</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>llu</em> (<tt><a href="ess_sli-pos-CCONJ.html">CCONJ</a></tt> 4, <tt><a href="ess_sli-pos-ADV.html">ADV</a></tt> 3)
 
-The 10 most frequent ambiguous types:  <em>llu</em> (<tt><a href="ess_sli-pos-CCONJ.html">CCONJ</a></tt> 4, <tt><a href="ess_sli-pos-ADV.html">ADV</a></tt> 3, <tt><a href="ess_sli-pos-X.html">X</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>llu</em> (<tt><a href="ess_sli-pos-CCONJ.html">CCONJ</a></tt> 4, <tt><a href="ess_sli-pos-ADV.html">ADV</a></tt> 3)
 
 
 * <em>llu</em>
-  * <tt><a href="ess_sli-pos-CCONJ.html">CCONJ</a></tt> 4: <em>Iyatagh ya mta negh tu kut ighaluqagh meng <b>llu</b> akuuta meng <b>llu</b> .</em>
-  * <tt><a href="ess_sli-pos-ADV.html">ADV</a></tt> 3: <em>Naa gpek tugu sug i i aatka ten efluga meng lli lu ki <b>llu</b> aqumuta gnun .</em>
-  * <tt><a href="ess_sli-pos-X.html">X</a></tt> 1: <em>Nanevgaq piyug lu ni aghulaq uma lghii naayva mun eltugha ni malig <b>llu</b> ku .</em>
+  * <tt><a href="ess_sli-pos-CCONJ.html">CCONJ</a></tt> 4: <em>Iyataghyamta neghtukut ighaluqaghmeng <b>llu</b> akuutameng <b>llu</b> .</em>
+  * <tt><a href="ess_sli-pos-ADV.html">ADV</a></tt> 3: <em>Naagpek tugu sugii aatkaten eflugameng lliluki <b>llu</b> aqumutagnun .</em>
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.000000).
+The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.572222).
 
 The 1st highest number of forms (1) was observed with the lemma “llu”: <em>llu</em>.
 

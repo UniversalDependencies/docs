@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Act`, `Pass`.
 
-55 tokens (13%) have a non-empty value of `Voice`.
+55 tokens (12%) have a non-empty value of `Voice`.
 54 types (22%) occur at least once with a non-empty value of `Voice`.
 31 lemmas (18%) occur at least once with a non-empty value of `Voice`.
-The feature is used with 1 part-of-speech tags: <tt><a href="sga_dipwbg-pos-VERB.html">VERB</a></tt> (55; 13% instances).
+The feature is used with 1 part-of-speech tags: <tt><a href="sga_dipwbg-pos-VERB.html">VERB</a></tt> (55; 12% instances).
 
 ### `VERB`
 
@@ -23,7 +23,7 @@ The most frequent other feature values with which `VERB` and `Voice` co-occurred
 `VERB` tokens may have the following values of `Voice`:
 
 * `Act` (50; 91% of non-empty `Voice`): <em>tá, ail, amlid, anicc, arim, beir, beo, bera, bered, berinn</em>
-* `Pass` (5; 9% of non-empty `Voice`): <em>etar, gníthe, ronóibad, árbas, érbarthar</em>
+* `Pass` (5; 9% of non-empty `Voice`): <em>etar, gníthe, nóibad, árbas, érbarthar</em>
 
 <table>
   <tr><th>Paradigm <i>asbeir</i></th><th><tt>Act</tt></th><th><tt>Pass</tt></th></tr>

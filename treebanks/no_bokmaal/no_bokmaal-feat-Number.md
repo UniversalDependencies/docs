@@ -133,7 +133,7 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>NOUN --[<tt><a href="no_bokmaal-dep-det.html">det</a></tt>]--> DET</tt> (11796; 96%),
 <tt>NOUN --[<tt><a href="no_bokmaal-dep-amod.html">amod</a></tt>]--> ADJ</tt> (11491; 84%),
-<tt>NOUN --[<tt><a href="no_bokmaal-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (5687; 58%),
+<tt>NOUN --[<tt><a href="no_bokmaal-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (5781; 58%),
 <tt>NOUN --[<tt><a href="no_bokmaal-dep-conj.html">conj</a></tt>]--> NOUN</tt> (2862; 72%),
 <tt>NOUN --[<tt><a href="no_bokmaal-dep-nmod-poss.html">nmod:poss</a></tt>]--> PRON</tt> (2009; 99%),
 <tt>NOUN --[<tt><a href="no_bokmaal-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (2002; 91%),

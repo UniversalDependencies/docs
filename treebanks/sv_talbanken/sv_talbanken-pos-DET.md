@@ -55,7 +55,7 @@ The 10 most frequent ambiguous types:  <em>en</em> (<tt><a href="sv_talbanken-po
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 1.521739 (the average of all parts of speech is 1.424934).
+The form / lemma ratio of `DET` is 1.521739 (the average of all parts of speech is 1.425064).
 
 The 1st highest number of forms (4) was observed with the lemma “en”: <em>de, den, en, ett</em>.
 
@@ -76,7 +76,7 @@ Examples: <em>en</em>
 
 `DET` nodes are attached to their parents using 6 different relations: <tt><a href="sv_talbanken-dep-det.html">det</a></tt> (4883; 100% instances), <tt><a href="sv_talbanken-dep-conj.html">conj</a></tt> (6; 0% instances), <tt><a href="sv_talbanken-dep-appos.html">appos</a></tt> (1; 0% instances), <tt><a href="sv_talbanken-dep-nmod.html">nmod</a></tt> (1; 0% instances), <tt><a href="sv_talbanken-dep-obj.html">obj</a></tt> (1; 0% instances), <tt><a href="sv_talbanken-dep-obl.html">obl</a></tt> (1; 0% instances)
 
-Parents of `DET` nodes belong to 9 different parts of speech: <tt><a href="sv_talbanken-pos-NOUN.html">NOUN</a></tt> (4548; 93% instances), <tt><a href="sv_talbanken-pos-ADJ.html">ADJ</a></tt> (267; 5% instances), <tt><a href="sv_talbanken-pos-PRON.html">PRON</a></tt> (44; 1% instances), <tt><a href="sv_talbanken-pos-NUM.html">NUM</a></tt> (17; 0% instances), <tt><a href="sv_talbanken-pos-PROPN.html">PROPN</a></tt> (9; 0% instances), <tt><a href="sv_talbanken-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="sv_talbanken-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="sv_talbanken-pos-VERB.html">VERB</a></tt> (1; 0% instances)
+Parents of `DET` nodes belong to 9 different parts of speech: <tt><a href="sv_talbanken-pos-NOUN.html">NOUN</a></tt> (4547; 93% instances), <tt><a href="sv_talbanken-pos-ADJ.html">ADJ</a></tt> (268; 5% instances), <tt><a href="sv_talbanken-pos-PRON.html">PRON</a></tt> (44; 1% instances), <tt><a href="sv_talbanken-pos-NUM.html">NUM</a></tt> (17; 0% instances), <tt><a href="sv_talbanken-pos-PROPN.html">PROPN</a></tt> (9; 0% instances), <tt><a href="sv_talbanken-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="sv_talbanken-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="sv_talbanken-pos-VERB.html">VERB</a></tt> (1; 0% instances)
 
 4841 (99%) `DET` nodes are leaves.
 
@@ -88,5 +88,5 @@ The highest child degree of a `DET` node is 2.
 
 Children of `DET` nodes are attached using 6 different relations: <tt><a href="sv_talbanken-dep-advmod.html">advmod</a></tt> (29; 53% instances), <tt><a href="sv_talbanken-dep-conj.html">conj</a></tt> (15; 27% instances), <tt><a href="sv_talbanken-dep-cc.html">cc</a></tt> (5; 9% instances), <tt><a href="sv_talbanken-dep-nmod.html">nmod</a></tt> (3; 5% instances), <tt><a href="sv_talbanken-dep-case.html">case</a></tt> (2; 4% instances), <tt><a href="sv_talbanken-dep-nummod.html">nummod</a></tt> (1; 2% instances)
 
-Children of `DET` nodes belong to 9 different parts of speech: <tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt> (23; 42% instances), <tt><a href="sv_talbanken-pos-ADJ.html">ADJ</a></tt> (10; 18% instances), <tt><a href="sv_talbanken-pos-CCONJ.html">CCONJ</a></tt> (6; 11% instances), <tt><a href="sv_talbanken-pos-DET.html">DET</a></tt> (5; 9% instances), <tt><a href="sv_talbanken-pos-SCONJ.html">SCONJ</a></tt> (4; 7% instances), <tt><a href="sv_talbanken-pos-ADP.html">ADP</a></tt> (2; 4% instances), <tt><a href="sv_talbanken-pos-NOUN.html">NOUN</a></tt> (2; 4% instances), <tt><a href="sv_talbanken-pos-NUM.html">NUM</a></tt> (2; 4% instances), <tt><a href="sv_talbanken-pos-PART.html">PART</a></tt> (1; 2% instances)
+Children of `DET` nodes belong to 8 different parts of speech: <tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt> (23; 42% instances), <tt><a href="sv_talbanken-pos-ADJ.html">ADJ</a></tt> (10; 18% instances), <tt><a href="sv_talbanken-pos-ADP.html">ADP</a></tt> (7; 13% instances), <tt><a href="sv_talbanken-pos-CCONJ.html">CCONJ</a></tt> (5; 9% instances), <tt><a href="sv_talbanken-pos-DET.html">DET</a></tt> (5; 9% instances), <tt><a href="sv_talbanken-pos-NOUN.html">NOUN</a></tt> (2; 4% instances), <tt><a href="sv_talbanken-pos-NUM.html">NUM</a></tt> (2; 4% instances), <tt><a href="sv_talbanken-pos-PART.html">PART</a></tt> (1; 2% instances)
 

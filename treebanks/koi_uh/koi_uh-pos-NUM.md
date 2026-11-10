@@ -11,7 +11,7 @@ Out of 15 observed tags, the rank of `NUM` is: 12 in number of lemmas, 10 in num
 
 The 10 most frequent `NUM` lemmas: <em>кык, куим, кыка, кыкӧнӧсь, нёляӧсь, ӧтік</em>
 
-The 10 most frequent `NUM` types:  <em>кык, öтiк, Кыкӧн, куим, кыка, кыкӧнӧсь, нёляӧсь</em>
+The 10 most frequent `NUM` types:  <em>кык, Кыкӧн, куим, кыка, кыкӧнӧсь, нёляӧсь, ӧтік</em>
 
 The 10 most frequent ambiguous lemmas: <em>кык</em> (<tt><a href="koi_uh-pos-NUM.html">NUM</a></tt> 4, <tt><a href="koi_uh-pos-DET.html">DET</a></tt> 1)
 
@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.166667 (the average of all parts of speech is 1.260870).
+The form / lemma ratio of `NUM` is 1.166667 (the average of all parts of speech is 1.239604).
 
 The 1st highest number of forms (2) was observed with the lemma “кык”: <em>Кыкӧн, кык</em>.
 
@@ -35,7 +35,7 @@ The 3rd highest number of forms (1) was observed with the lemma “кыка”: 
 
 `NUM` occurs with 6 feature combinations.
 The most frequent feature combination is `NumType=Card` (3 tokens).
-Examples: <em>кык, куим, öтiк</em>
+Examples: <em>кык, куим, ӧтік</em>
 
 
 ## Relations

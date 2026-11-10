@@ -9,97 +9,85 @@ udver: '2'
 This relation is universal.
 There are 2 language-specific subtypes of `parataxis`: <tt><a href="fr_rhapsodie-dep-parataxis-insert.html">parataxis:insert</a></tt>, <tt><a href="fr_rhapsodie-dep-parataxis-parenth.html">parataxis:parenth</a></tt>.
 
-5 nodes (0%) are attached to their parents as `parataxis`.
+8 nodes (0%) are attached to their parents as `parataxis`.
 
-5 instances of `parataxis` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.6.
+8 instances of `parataxis` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 6.125.
 
-The following 4 pairs of parts of speech are connected with `parataxis`: <tt><a href="fr_rhapsodie-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_rhapsodie-pos-NOUN.html">NOUN</a></tt> (2; 40% instances), <tt><a href="fr_rhapsodie-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_rhapsodie-pos-INTJ.html">INTJ</a></tt> (1; 20% instances), <tt><a href="fr_rhapsodie-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_rhapsodie-pos-VERB.html">VERB</a></tt> (1; 20% instances), <tt><a href="fr_rhapsodie-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_rhapsodie-pos-NOUN.html">NOUN</a></tt> (1; 20% instances).
+The following 8 pairs of parts of speech are connected with `parataxis`: <tt><a href="fr_rhapsodie-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_rhapsodie-pos-ADJ.html">ADJ</a></tt> (1; 13% instances), <tt><a href="fr_rhapsodie-pos-AUX.html">AUX</a></tt>-<tt><a href="fr_rhapsodie-pos-VERB.html">VERB</a></tt> (1; 13% instances), <tt><a href="fr_rhapsodie-pos-INTJ.html">INTJ</a></tt>-<tt><a href="fr_rhapsodie-pos-SCONJ.html">SCONJ</a></tt> (1; 13% instances), <tt><a href="fr_rhapsodie-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_rhapsodie-pos-INTJ.html">INTJ</a></tt> (1; 13% instances), <tt><a href="fr_rhapsodie-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_rhapsodie-pos-NOUN.html">NOUN</a></tt> (1; 13% instances), <tt><a href="fr_rhapsodie-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_rhapsodie-pos-VERB.html">VERB</a></tt> (1; 13% instances), <tt><a href="fr_rhapsodie-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_rhapsodie-pos-AUX.html">AUX</a></tt> (1; 13% instances), <tt><a href="fr_rhapsodie-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_rhapsodie-pos-NOUN.html">NOUN</a></tt> (1; 13% instances).
 
 
 ~~~ conllu
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 11 parataxis	color:blue
-1	euh	euh	INTJ	_	_	6	discourse	_	AlignBegin=341124|AlignEnd=341662|Overlap=Rhap_D0006-138|SpaceAfter=No
-2	,	,	PUNCT	_	_	1	punct	_	AlignBegin=341662|AlignEnd=343151
-3	alors	alors	ADV	_	_	6	advmod	_	AlignBegin=343151|AlignEnd=343346|SpaceAfter=No
-4	,	,	PUNCT	_	_	3	punct	_	AlignBegin=343346|AlignEnd=343586
-5	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	AlignBegin=343586|AlignEnd=343696
-6	changement	changement	NOUN	_	Gender=Masc|Number=Sing	0	root	_	AlignBegin=343696|AlignEnd=344185|Exponence[Gender]=Inherent|Exponence[Number]=Absent|SpaceAfter=No
-7	,	,	PUNCT	_	_	11	punct	_	AlignBegin=344185|AlignEnd=344740
-8	euh	euh	INTJ	_	_	11	discourse	_	AlignBegin=344747|AlignEnd=345245|SpaceAfter=No
-9	,	,	PUNCT	_	_	8	punct	_	AlignBegin=345245|AlignEnd=345245
-10	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	11	det	_	AlignBegin=345245|AlignEnd=345365|HasSpokenGender=OnlySingExceptWithLiaison
-11	crottes	crotte	NOUN	_	Gender=Fem|Number=Plur	6	parataxis	_	AlignBegin=345365|AlignEnd=345555|Exponence[Gender]=Inherent|Exponence[Number]=Absent
-12	de	de	ADP	_	_	13	case	_	AlignBegin=345555|AlignEnd=345645
-13	chien	chien	NOUN	_	Gender=Masc|Number=Sing	11	nmod	_	AlignBegin=345645|AlignEnd=345855|Exponence[Gender]=Inherent|Exponence[Number]=Absent|SpaceAfter=No
-14	.	.	PUNCT	_	_	6	punct	_	AlignBegin=345855|AlignEnd=345855
+# visual-style 15	bgColor:blue
+# visual-style 15	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 15 parataxis	color:blue
+1	non	non	ADV	_	Polarity=Neg	5	discourse	_	SpaceAfter=No|WordAlignmentBegin=223743|WordAlignmentEnd=223908
+2	,	,	PUNCT	_	_	1	punct	_	WordAlignmentBegin=223908|WordAlignmentEnd=223908
+3	mais	mais	CCONJ	_	_	5	cc	_	WordAlignmentBegin=223908|WordAlignmentEnd=224048
+4	même	même	ADV	_	_	5	advmod	_	WordAlignmentBegin=224048|WordAlignmentEnd=224238
+5	pas	pas	ADV	_	Polarity=Neg	0	root	_	WordAlignmentBegin=224238|WordAlignmentEnd=224388
+6	dans	dans	ADP	_	_	8	case	_	WordAlignmentBegin=224388|WordAlignmentEnd=224528
+7	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	HasSpokenGender=OnlySingExceptWithLiaison|WordAlignmentBegin=224528|WordAlignmentEnd=224601
+8	fond	fond	NOUN	_	Gender=Masc|Number=Sing	15	obl:mod	_	Exponence[Gender]=Inherent|Exponence[Number]=Absent|SpaceAfter=No|WordAlignmentBegin=224601|WordAlignmentEnd=224868
+9	,	,	PUNCT	_	_	8	punct	_	WordAlignmentBegin=224868|WordAlignmentEnd=224868
+10	je	moi	PRON	_	Case=Nom|Emph=No|Number=Sing|Person=1|PronType=Prs	15	nsubj	_	Exponence[Number]=Inherent|Exponence[Person]=Inherent|WordAlignmentBegin=224868|WordAlignmentEnd=224938
+11	suis	être	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	15	cop	_	WordAlignmentBegin=224938|WordAlignmentEnd=225028
+12	très	très	ADV	_	_	15	advmod	_	SpaceAfter=No|WordAlignmentBegin=225028|WordAlignmentEnd=225178
+13	,	,	PUNCT	_	_	14	punct	_	WordAlignmentBegin=225178|WordAlignmentEnd=225178
+14	très	très	ADV	_	_	12	conj	_	WordAlignmentBegin=225178|WordAlignmentEnd=225318
+15	pudique	pudique	ADJ	_	Gender=Masc|Number=Sing	5	parataxis	_	Exponence[Gender]=Absent|Exponence[Number]=Absent|HasSpokenGender=No|HasSpokenNumber=OnlyWithLiaison|SpaceAfter=No|WordAlignmentBegin=225318|WordAlignmentEnd=225785
+16	.	.	PUNCT	_	_	15	punct	_	WordAlignmentBegin=225785|WordAlignmentEnd=225785
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 25	bgColor:blue
-# visual-style 25	fgColor:white
-# visual-style 22	bgColor:blue
-# visual-style 22	fgColor:white
-# visual-style 22 25 parataxis	color:blue
-1	à	à	ADP	_	_	3	case	_	AlignBegin=43752|AlignEnd=43837
-2	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	AlignBegin=43837|AlignEnd=43947|HasSpokenGender=OnlySingExceptWithLiaison|LiaisonAfter=Yes
-3	une	une	NOUN	_	Gender=Fem|Number=Sing	14	nmod	_	AlignBegin=43947|AlignEnd=44117|Exponence[Gender]=Inherent|Exponence[Number]=Absent|LiaisonPossibleBefore=Yes
-4	de	de	ADP	_	_	5	case	_	AlignBegin=44117|AlignEnd=44217
-5	Libération	Libération	PROPN	_	_	3	nmod	_	AlignBegin=44217|AlignEnd=44807
-6	qui	qui	PRON	_	PronType=Rel	8	nsubj	_	AlignBegin=44807|AlignEnd=44997
-7	ne	ne	ADV	_	Polarity=Neg	8	advmod	_	AlignBegin=44997|AlignEnd=45157
-8	boude	bouder	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	AlignBegin=45157|AlignEnd=45407|Exponence[Number]=Absent|Exponence[Person]=Absent
-9	pas	pas	ADV	_	Polarity=Neg	8	advmod	_	AlignBegin=45407|AlignEnd=45597
-10	son	son	DET	_	Gender=Masc|Number=Sing|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	11	det	_	AlignBegin=45597|AlignEnd=45767|Exponence[Gender]=Absent|HasSpokenGender=OnlySingExceptWithLiaison
-11	plaisir	plaisir	NOUN	_	Gender=Masc|Number=Sing	8	obj	_	AlignBegin=45767|AlignEnd=46196|Exponence[Gender]=Inherent|Exponence[Number]=Absent|SpaceAfter=No
-12	,	,	PUNCT	_	_	3	punct	_	AlignBegin=46196|AlignEnd=46196
-13	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	14	det	_	AlignBegin=46196|AlignEnd=46361
-14	caricature	caricature	NOUN	_	Gender=Fem|Number=Sing	0	root	_	AlignBegin=46361|AlignEnd=47061|Exponence[Gender]=Inherent|Exponence[Number]=Absent
-15	de	de	ADP	_	_	16	case	_	AlignBegin=47061|AlignEnd=47191
-16	Nicolas	Nicolas	PROPN	_	_	14	nmod	_	AlignBegin=47191|AlignEnd=47561
-17	Sarkozy	Sarkozy	PROPN	_	_	16	flat:name	_	AlignBegin=47561|AlignEnd=48051
-18	tout	tout	ADV	_	_	19	advmod	_	AlignBegin=48051|AlignEnd=48241
-19	ratatiné	ratatiné	ADJ	_	Gender=Masc|Number=Sing	16	amod	_	AlignBegin=48241|AlignEnd=48710|Exponence[Gender]=Absent|Exponence[Number]=Absent|HasSpokenGender=NotInThisDialect|HasSpokenNumber=OnlyWithLiaison
-20	sous	sous	ADP	_	_	22	case	_	AlignBegin=49029|AlignEnd=49164
-21	cette	ce	DET	_	Gender=Fem|Number=Sing|PronType=Dem	22	det	_	AlignBegin=49164|AlignEnd=49364|Exponence[Gender]=Absent|HasSpokenGender=OnlySingExceptWithLiaison|LiaisonAfter=Yes
-22	exclamation	exclamation	NOUN	_	Gender=Fem|Number=Sing	19	obl:mod	_	AlignBegin=49364|AlignEnd=50045|Exponence[Gender]=Inherent|Exponence[Number]=Absent|LiaisonPossibleBefore=Yes|SpaceAfter=No
-23	:	:	PUNCT	_	_	25	punct	_	AlignBegin=50045|AlignEnd=50237
-24	et	et	CCONJ	_	_	25	cc	_	AlignBegin=50237|AlignEnd=50362
-25	bling	bling	INTJ	_	_	22	parataxis	_	AlignBegin=50362|AlignEnd=50815|SpaceAfter=No
-26	!	!	PUNCT	_	_	14	punct	_	AlignBegin=50815|AlignEnd=50815
+# visual-style 21	bgColor:blue
+# visual-style 21	fgColor:white
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 13 21 parataxis	color:blue
+1	mais	mais	CCONJ	_	_	13	cc	_	WordAlignmentBegin=66097|WordAlignmentEnd=66252
+2	si	si	SCONJ	_	_	5	mark	_	WordAlignmentBegin=66252|WordAlignmentEnd=66411
+3	je	moi	PRON	_	Case=Nom|Emph=No|Number=Sing|Person=1|PronType=Prs	10	reparandum	_	Exponence[Number]=Inherent|Exponence[Person]=Inherent|WordAlignmentBegin=66411|WordAlignmentEnd=66442
+4	la	lui	PRON	_	Case=Acc|Emph=No|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	obj	_	Exponence[Person]=Inherent|WordAlignmentBegin=66442|WordAlignmentEnd=66582
+5	passe	passer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	13	advcl	_	Exponence[Person]=Absent|WordAlignmentBegin=66582|WordAlignmentEnd=66802
+6	pas	pas	ADV	_	Polarity=Neg	5	advmod	_	SpaceAfter=No|WordAlignmentBegin=66802|WordAlignmentEnd=67082
+7	,	,	PUNCT	_	_	8	punct	_	WordAlignmentBegin=66992|WordAlignmentEnd=67082
+8	enfin	enfin	ADV	_	_	6	discourse	_	SpaceAfter=No|WordAlignmentBegin=67082|WordAlignmentEnd=67269
+9	,	,	PUNCT	_	_	5	punct	_	WordAlignmentBegin=67269|WordAlignmentEnd=67269
+10	je	moi	PRON	_	Case=Nom|Emph=No|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	Exponence[Number]=Inherent|Exponence[Person]=Inherent|SpaceAfter=No|WordAlignmentBegin=67269|WordAlignmentEnd=67535
+11	,	,	PUNCT	_	_	5	punct	_	WordAlignmentBegin=67535|WordAlignmentEnd=67745
+12	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	13	nsubj	_	Exponence[Gender]=Inherent|Exponence[Number]=Inherent|Exponence[Person]=Inherent|SpaceAfter=No|WordAlignmentBegin=67745|WordAlignmentEnd=67840
+13	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Scrap=Yes|SpaceAfter=No|WordAlignmentBegin=67840|WordAlignmentEnd=67990
+14	,	,	PUNCT	_	_	13	punct	_	WordAlignmentBegin=67990|WordAlignmentEnd=67990
+15	j'	moi	PRON	_	Case=Nom|Emph=No|Number=Sing|Person=1|PronType=Prs	16	nsubj	_	Exponence[Number]=Inherent|Exponence[Person]=Inherent|SpaceAfter=No|WordAlignmentBegin=67990|WordAlignmentEnd=68080
+16	ai	avoir	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	21	reparandum	_	WordAlignmentBegin=68080|WordAlignmentEnd=68170
+17	beau~	beau~	X	_	ExtPos=ADV	16	advmod	_	SpaceAfter=No|WordAlignmentBegin=68170|WordAlignmentEnd=68307
+18	,	,	PUNCT	_	_	16	punct	_	WordAlignmentBegin=68307|WordAlignmentEnd=68307
+19	j'	moi	PRON	_	Case=Nom|Emph=No|Number=Sing|Person=1|PronType=Prs	21	nsubj	_	Exponence[Number]=Inherent|Exponence[Person]=Inherent|SpaceAfter=No|WordAlignmentBegin=68307|WordAlignmentEnd=68342
+20	ai	avoir	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	21	aux:tense	_	WordAlignmentBegin=68342|WordAlignmentEnd=68425
+21	appris	apprendre	VERB	_	Gender=Masc|Tense=Past|VerbForm=Part|Voice=Act	13	parataxis	_	PastPartHasSpokenGender=Yes|Status[Tense]=Denom|WordAlignmentBegin=68425|WordAlignmentEnd=68650
+22	beaucoup	beaucoup	ADV	_	_	21	obj	_	WordAlignmentBegin=68650|WordAlignmentEnd=68870
+23	de	de	ADP	_	_	24	case	_	WordAlignmentBegin=68870|WordAlignmentEnd=68900
+24	choses	chose	NOUN	_	Gender=Fem|Number=Plur	22	obl:arg	_	Exponence[Gender]=Inherent|Exponence[Number]=Absent|SpaceAfter=No|WordAlignmentBegin=68900|WordAlignmentEnd=69220
+25	.	.	PUNCT	_	_	21	punct	_	WordAlignmentBegin=69220|WordAlignmentEnd=69220
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 17	bgColor:blue
-# visual-style 17	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 17 parataxis	color:blue
-1	et	et	CCONJ	_	_	9	cc	_	AlignBegin=95149|AlignEnd=95374
-2	en	en	ADP	_	_	4	case	_	AlignBegin=95374|AlignEnd=95643
-3	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	AlignBegin=95643|AlignEnd=95790
-4	semaine	semaine	NOUN	_	Gender=Fem|Number=Sing	9	obl:mod	_	AlignBegin=95790|AlignEnd=96153|Exponence[Gender]=Inherent|Exponence[Number]=Absent
-5	ou	ou	CCONJ	_	_	6	cc	_	AlignBegin=96153|AlignEnd=96264
-6	deux	deux	NUM	_	Number=Plur	3	conj	_	AlignBegin=96264|AlignEnd=96402|Exponence[Number]=Inherent|SpaceAfter=No
-7	,	,	PUNCT	_	_	6	punct	_	AlignBegin=96402|AlignEnd=96402
-8	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	9	nsubj	_	AlignBegin=96402|AlignEnd=96528|Exponence[Gender]=Inherent|Exponence[Number]=Inherent|Exponence[Person]=Inherent|Overlap=Rhap_D0009-61
-9	y	y	PRON	_	Person=3|PronType=Prs	0	root	_	AlignBegin=96528|AlignEnd=96608|Exponence[Person]=Inherent|Overlap=Rhap_D0009-61
-10	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	AlignBegin=96608|AlignEnd=96758|Overlap=Rhap_D0009-61|SpaceAfter=No
-11	,	,	PUNCT	_	_	17	punct	_	AlignBegin=97199|AlignEnd=96402|Overlap=Rhap_D0009-48bis
-12	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	13	nsubj	_	AlignBegin=96758|AlignEnd=96788|Exponence[Gender]=Inherent|Exponence[Number]=Inherent|Exponence[Person]=Inherent|Overlap=Rhap_D0009-61|SpaceAfter=No
-13	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	reparandum	_	AlignBegin=96788|AlignEnd=97199|Overlap=Rhap_D0009-61|SpaceAfter=No
-14	,	,	PUNCT	_	_	13	punct	_	AlignBegin=97199|AlignEnd=97707
-15	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	17	nsubj:pass	_	AlignBegin=97815|AlignEnd=97848|Exponence[Gender]=Inherent|Exponence[Number]=Inherent|Exponence[Person]=Inherent|Overlap=Rhap_D0009-62|SpaceAfter=No
-16	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	aux:pass	_	AlignBegin=97848|AlignEnd=97981|Overlap=Rhap_D0009-62
-17	relivré	relivrer	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	9	parataxis	_	AlignBegin=97981|AlignEnd=98495|Exponence[Gender]=Absent|Exponence[Number]=Absent|Overlap=Rhap_D0009-62|PastPartHasSpokenGender=NotInThisDialect|Tense[denom]=Past
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 3 parataxis	color:blue
+1	oui	oui	INTJ	_	_	0	root	_	Coconstruct=parataxis:answer::Rhap_D0006-54::4|SpaceAfter=No|WordAlignmentBegin=136383|WordAlignmentEnd=136708
+2	,	,	PUNCT	_	_	3	punct	_	WordAlignmentBegin=136708|WordAlignmentEnd=136708
+3	si	si	SCONJ	_	_	1	parataxis	_	SpaceAfter=No|WordAlignmentBegin=136708|WordAlignmentEnd=136958
+4	.	.	PUNCT	_	_	3	punct	_	WordAlignmentBegin=136958|WordAlignmentEnd=136958
 
 ~~~
 

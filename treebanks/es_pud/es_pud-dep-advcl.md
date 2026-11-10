@@ -11,9 +11,9 @@ This relation is universal.
 180 nodes (1%) are attached to their parents as `advcl`.
 
 130 instances of `advcl` (72%) are left-to-right (parent precedes child).
-Average distance between parent and child is 8.58888888888889.
+Average distance between parent and child is 8.59444444444444.
 
-The following 11 pairs of parts of speech are connected with `advcl`: <tt><a href="es_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="es_pud-pos-VERB.html">VERB</a></tt> (147; 82% instances), <tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_pud-pos-VERB.html">VERB</a></tt> (12; 7% instances), <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_pud-pos-VERB.html">VERB</a></tt> (6; 3% instances), <tt><a href="es_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt> (6; 3% instances), <tt><a href="es_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> (3; 2% instances), <tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="es_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="es_pud-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="es_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="es_pud-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="es_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="es_pud-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="es_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="es_pud-pos-SYM.html">SYM</a></tt> (1; 1% instances).
+The following 11 pairs of parts of speech are connected with `advcl`: <tt><a href="es_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="es_pud-pos-VERB.html">VERB</a></tt> (142; 79% instances), <tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_pud-pos-VERB.html">VERB</a></tt> (12; 7% instances), <tt><a href="es_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> (8; 4% instances), <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_pud-pos-VERB.html">VERB</a></tt> (6; 3% instances), <tt><a href="es_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt> (6; 3% instances), <tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="es_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="es_pud-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="es_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="es_pud-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="es_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="es_pud-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="es_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="es_pud-pos-SYM.html">SYM</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -62,30 +62,30 @@ The following 11 pairs of parts of speech are connected with `advcl`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 8 advcl	color:blue
-1	Noviembre	noviembre	NOUN	NN	Gender=Masc|Number=Sing	5	nsubj	_	_
-2	es	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
-3	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
-4	gran	gran	ADJ	JJ	Number=Sing	5	amod	_	_
-5	momento	momento	NOUN	NN	Gender=Masc|Number=Sing	0	root	_	_
-6	para	para	SCONJ	IN	ExtPos=SCONJ	8	mark	_	_
-7	que	que	ADP	IN	_	6	fixed	_	_
-8	vaya	ir	VERB	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	advcl	_	_
-9	cualquiera	cualquiera	PRON	NN	Number=Sing|PronType=Ind	8	nsubj	_	_
-10	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	11	nsubj	_	_
-11	quiera	querer	VERB	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	acl:relcl	_	_
-12	ver	ver	VERB	VB	VerbForm=Inf	11	xcomp	_	_
-13	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
-14	capital	capital	NOUN	NN	Gender=Fem|Number=Sing	12	obj	_	_
-15	en	en	ADP	IN	_	18	case	_	_
-16	toda	todo	DET	PDT	Gender=Fem|Number=Sing|PronType=Tot	18	det	_	_
-17	su	su	PRON	DTP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	18	det	_	_
-18	gloria	gloria	NOUN	NN	Gender=Fem|Number=Sing	14	nmod	_	SpaceAfter=No
-19	.	.	PUNCT	.	PunctType=Peri	5	punct	_	_
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 16	bgColor:blue
+# visual-style 16	fgColor:white
+# visual-style 16 11 advcl	color:blue
+1	Debido	deber	VERB	VBN	ExtPos=SCONJ|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	11	mark	_	_
+2	a	a	ADP	IN	_	1	fixed	_	_
+3	que	que	ADP	IN	_	1	fixed	_	_
+4	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	serie	serie	NOUN	NN	Gender=Fem|Number=Sing	11	nsubj	_	_
+6	1	1	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	5	appos	_	_
+7	ya	ya	ADV	RB	_	11	advmod	_	_
+8	no	no	ADV	RB	Polarity=Neg	11	advmod	_	_
+9	es	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
+10	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	antigua	antigua	NOUN	NN	Gender=Fem|Number=Sing	16	advcl	_	SpaceAfter=No
+12	,	,	PUNCT	,	PunctType=Comm	11	punct	_	_
+13	muchos	mucho	DET	DT	Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	14	det	_	_
+14	usuarios	usuario	NOUN	NN	Gender=Masc|Number=Plur	16	nsubj	_	_
+15	pueden	poder	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	16	aux	_	_
+16	ahorrar	ahorrar	VERB	VB	VerbForm=Inf	0	root	_	_
+17	100	100	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	18	nummod	_	_
+18	euros	euro	NOUN	NN	Gender=Masc|Number=Plur	16	obj	_	SpaceAfter=No
+19	.	.	PUNCT	.	PunctType=Peri	16	punct	_	_
 
 ~~~
 

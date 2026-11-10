@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-62 nodes (1%) are attached to their parents as `dislocated`.
+63 nodes (1%) are attached to their parents as `dislocated`.
 
-38 instances of `dislocated` (61%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.41935483870968.
+38 instances of `dislocated` (60%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.34920634920635.
 
-The following 16 pairs of parts of speech are connected with `dislocated`: <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt> (25; 40% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt> (20; 32% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-PART.html">PART</a></tt> (2; 3% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt> (2; 3% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-X.html">X</a></tt> (2; 3% instances), <tt><a href="pay_chibergis-pos-ADV.html">ADV</a></tt>-<tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="pay_chibergis-pos-AUX.html">AUX</a></tt>-<tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pay_chibergis-pos-PART.html">PART</a></tt> (1; 2% instances), <tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="pay_chibergis-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-NUM.html">NUM</a></tt> (1; 2% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-PROPN.html">PROPN</a></tt> (1; 2% instances), <tt><a href="pay_chibergis-pos-X.html">X</a></tt>-<tt><a href="pay_chibergis-pos-INTJ.html">INTJ</a></tt> (1; 2% instances).
+The following 14 pairs of parts of speech are connected with `dislocated`: <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt> (25; 40% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt> (22; 35% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-X.html">X</a></tt> (3; 5% instances), <tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt> (2; 3% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt> (2; 3% instances), <tt><a href="pay_chibergis-pos-ADV.html">ADV</a></tt>-<tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="pay_chibergis-pos-AUX.html">AUX</a></tt>-<tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-NUM.html">NUM</a></tt> (1; 2% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-PART.html">PART</a></tt> (1; 2% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-PROPN.html">PROPN</a></tt> (1; 2% instances), <tt><a href="pay_chibergis-pos-X.html">X</a></tt>-<tt><a href="pay_chibergis-pos-INTJ.html">INTJ</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -49,17 +49,21 @@ The following 16 pairs of parts of speech are connected with `dislocated`: <tt><
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 1 dislocated	color:blue
-1	ĩka	ĩka	PART	_	_	4	dislocated	_	AlignBegin=139465|AlignEnd=140149|Gloss=and|MGloss=and|MSeg=ĩka|nWord=1|RX=[COORDCONN]|TokenType=Root
-2	as	as	NUM	_	_	1	compound	_	AlignBegin=140149|AlignEnd=140833|Gloss=one|MGloss=one|MSeg=as|nWord=2|RX=[N]|TokenType=Root
-3	,	_	PUNCT	_	_	2	punct	_	AlignBegin=140833|AlignEnd=141517|MSeg=,|nWord=3
-4	peʔki	peʔk	VERB	_	_	0	root	_	AlignBegin=141517|AlignEnd=142201|Gloss=bring|MGloss=O3SG- bring -S3SG -PST|MSeg=Ø-peʔk-Ø-i|nWord=4|RX=[VT]|TokenType=Root|wordform=Ø-peʔk-Ø-i
-5	atʃahiwã	atʃah	VERB	_	_	4	conj	_	AlignBegin=142201|AlignEnd=142885|Gloss=put.in|MGloss=O3SG- put.in -S3SG -PST -PFV|MSeg=Ø-atʃah-Ø-i-wã|nWord=5|RX=[VT]|TokenType=Root|wordform=Ø-atʃah-Ø-i-wã
-6	.	_	PUNCT	_	_	4	punct	_	AlignBegin=142885|AlignEnd=143570|Gloss=.|MGloss=.|MSeg=.|nWord=6|TokenType=Root
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 5 dislocated	color:blue
+1	ã	ã	PRON	_	_	2	obj	_	AlignBegin=184709|AlignEnd=185001|Gloss=DIST.DEM|MGloss=DIST.DEM|MSeg=ã|nWord=1|RX=[PRO]|TokenType=Root
+2	briki	brik	VERB	_	_	3	dep	_	AlignBegin=185001|AlignEnd=185293|Gloss=cover|MGloss=O3SG- cover -S3SG -PST|MSeg=Ø-brik-Ø-i|nWord=2|RX=[VT]|TokenType=Root|wordform=Ø-brik-Ø-i
+3	tVerwa	tVØ-	VERB	_	_	0	root	_	AlignBegin=185293|AlignEnd=185585|Gloss=say|MGloss=say O3SG- -S3PL -PFV|MSeg=tV-Ø-er-wa|nWord=3|RX=[VT]|TokenType=Root|wordform=tVØ--er-wa
+4	=hãʔ	_	PART	_	_	3	advmod	_	AlignBegin=185585|AlignEnd=185877|Gloss==FOC|MGloss==FOC|MSeg==hãʔ|nWord=4|RX=[PRT]|TokenType=Clit
+5	vara	vara	X	_	_	2	dislocated	_	AlignBegin=185877|AlignEnd=186169|Gloss=SPA_rod|MGloss=SPA_rod|MSeg=vara|nWord=5|RX=[<NOT_SURE>]|TokenType=Root
+6	,	_	PUNCT	_	_	5	punct	_	AlignBegin=186169|AlignEnd=186461|MSeg=,|nWord=6
+7	ã	ã	PRON	_	ExtPos=DET	8	det	_	AlignBegin=186461|AlignEnd=186753|Gloss=DIST.DEM|MGloss=DIST.DEM|MSeg=ã|nWord=7|RX=[PRO]|TokenType=Root
+8	pẽʔh	pẽʔh	NOUN	_	_	5	parataxis	_	AlignBegin=186753|AlignEnd=187045|Gloss=wood|MGloss=wood|MSeg=pẽʔh|nWord=8|RX=[N]|TokenType=Root
+9	kãra	kãra	NOUN	_	_	8	nmod	_	AlignBegin=187045|AlignEnd=187337|Gloss=long|MGloss=long|MSeg=kãra|nWord=9|RX=[N]|TokenType=Root
+10	.	_	PUNCT	_	_	5	punct	_	AlignBegin=187337|AlignEnd=187634|Gloss=.|MGloss=.|MSeg=.|nWord=10
 
 ~~~
 

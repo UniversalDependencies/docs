@@ -143,7 +143,7 @@ The following 6 pairs of parts of speech are connected with `obl:arg`: <tt><a hr
 77	ni	ni	ADV	cc	_	78	advmod	_	_
 78	sabía	saber	VERB	vmii1s0	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	54	advcl	_	_
 79	yo	yo	PRON	pp1csn00	Case=Nom|Number=Sing|Person=1|PronType=Prs	78	nsubj	_	_
-80	como	como	SCONJ	vmip1s0	_	82	mark	_	_
+80	como	como	SCONJ	cs	_	82	mark	_	_
 81	aquel	aquel	DET	pd0ms000	Gender=Masc|Number=Sing|PronType=Dem	82	nsubj	_	_
 82	quería	querer	AUX	vmii1s0	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	78	advcl	_	_
 83	hablar	hablar	VERB	vmip3s0	VerbForm=Inf	82	xcomp	_	SpaceAfter=No

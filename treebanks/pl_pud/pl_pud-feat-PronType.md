@@ -10,7 +10,7 @@ This feature is universal.
 It occurs with 7 different values: `Dem`, `Ind`, `Int`, `Neg`, `Prs`, `Rel`, `Tot`.
 
 1275 tokens (7%) have a non-empty value of `PronType`.
-181 types (2%) occur at least once with a non-empty value of `PronType`.
+180 types (2%) occur at least once with a non-empty value of `PronType`.
 62 lemmas (1%) occur at least once with a non-empty value of `PronType`.
 The feature is used with 3 part-of-speech tags: <tt><a href="pl_pud-pos-PRON.html">PRON</a></tt> (638; 3% instances), <tt><a href="pl_pud-pos-DET.html">DET</a></tt> (511; 3% instances), <tt><a href="pl_pud-pos-ADV.html">ADV</a></tt> (126; 1% instances).
 

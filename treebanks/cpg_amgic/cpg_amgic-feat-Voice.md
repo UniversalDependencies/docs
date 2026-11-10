@@ -24,7 +24,7 @@ The most frequent other feature values with which `VERB` and `Voice` co-occurred
 
 * `Act` (52; 78% of non-empty `Voice`): <em>laí, qazánǰisi, éχu, Ksevasám', Rotá, baγərtzísi, báris, dilimléisam', düšünǰísu, eleísis</em>
 * `Pass` (15; 22% of non-empty `Voice`): <em>sikoθún, éršiti, írtis, cimáse, eršinónǰiska, eršístiniz, estáθin, kasinonǰískaši, kimizméni, kimáti</em>
-* `EMPTY` (64): <em>leχ, eksévin, gréviz, kásun, írten, (é)rχete, Ránsen, baγərdά, bári, drúte</em>
+* `EMPTY` (64): <em>leχ, eksévin, gréviz, kásun, írten, (é)rχete, Ránsen, baγərdά, bári, dróte</em>
 
 `Voice` seems to be **lexical feature** of `VERB`. 100% lemmas (50) occur only with one value of `Voice`.
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-140 nodes (3%) are attached to their parents as `ccomp`.
+142 nodes (3%) are attached to their parents as `ccomp`.
 
-112 instances of `ccomp` (80%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.76428571428571.
+113 instances of `ccomp` (80%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.78169014084507.
 
-The following 4 pairs of parts of speech are connected with `ccomp`: <tt><a href="zh_patentchar-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_patentchar-pos-VERB.html">VERB</a></tt> (108; 77% instances), <tt><a href="zh_patentchar-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_patentchar-pos-VERB.html">VERB</a></tt> (29; 21% instances), <tt><a href="zh_patentchar-pos-ADP.html">ADP</a></tt>-<tt><a href="zh_patentchar-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="zh_patentchar-pos-AUX.html">AUX</a></tt>-<tt><a href="zh_patentchar-pos-VERB.html">VERB</a></tt> (1; 1% instances).
+The following 5 pairs of parts of speech are connected with `ccomp`: <tt><a href="zh_patentchar-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_patentchar-pos-VERB.html">VERB</a></tt> (108; 76% instances), <tt><a href="zh_patentchar-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_patentchar-pos-VERB.html">VERB</a></tt> (28; 20% instances), <tt><a href="zh_patentchar-pos-ADP.html">ADP</a></tt>-<tt><a href="zh_patentchar-pos-VERB.html">VERB</a></tt> (4; 3% instances), <tt><a href="zh_patentchar-pos-AUX.html">AUX</a></tt>-<tt><a href="zh_patentchar-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="zh_patentchar-pos-PART.html">PART</a></tt>-<tt><a href="zh_patentchar-pos-VERB.html">VERB</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -63,25 +63,29 @@ The following 4 pairs of parts of speech are connected with `ccomp`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 13 ccomp	color:blue
-1	1.	_	PUNCT	_	_	6	punct	_	Gloss=_|SpaceAfter=No|Translit=1.
-2	一种	_	NUM	_	_	6	nummod	_	Gloss=_|SpaceAfter=No|Translit=yī_zhǒng
-3	燃煤	_	VERB	_	_	4	acl	_	Gloss=_|SpaceAfter=No|Translit=rán_méi
-4	热值	_	NOUN	_	_	5	obl	_	Gloss=_|SpaceAfter=No|Translit=rè_zhí
-5	修正	_	VERB	_	_	6	acl	_	Gloss=_|SpaceAfter=No|Translit=xīu_zhèng
-6	方法	_	NOUN	_	_	0	root	_	Gloss=_|SpaceAfter=No|Translit=fāng_fǎ
-7	，	_	PUNCT	_	_	10	punct	_	Gloss=_|SpaceAfter=No|Translit=，
-8	其	_	PRON	_	_	9	nmod	_	Gloss=_|SpaceAfter=No|Translit=qí
-9	特征	_	NOUN	_	_	10	nsubj	_	Gloss=_|SpaceAfter=No|Translit=tè_zhēng
-10	在	_	ADP	_	_	6	parataxis	_	CpdPos=VERB|Gloss=_|SpaceAfter=No|Translit=zài
-11	于	_	ADP	_	_	13	mark	_	Gloss=_|SpaceAfter=No|Translit=yú
-12	，	_	PUNCT	_	_	13	punct	_	Gloss=_|SpaceAfter=No|Translit=，
-13	包括	_	VERB	_	_	10	ccomp	_	Gloss=_|SpaceAfter=No|Translit=bāo_kuò
-14	：	_	PUNCT	_	_	6	punct	_	Gloss=_|SpaceAfter=No|Translit=：
+# visual-style 14	bgColor:blue
+# visual-style 14	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 14 ccomp	color:blue
+1	处理	_	VERB	_	_	2	acl	_	Gloss=_|SpaceAfter=No|Translit=chù_lǐ
+2	单元	_	NOUN	_	_	0	root	_	Gloss=_|SpaceAfter=No|Translit=dān_yuán
+3	，	_	PUNCT	_	_	4	punct	_	Gloss=_|SpaceAfter=No|Translit=，
+4	用	_	VERB	_	_	2	parataxis	_	Gloss=_|SpaceAfter=No|Translit=yòng
+5	于	_	ADP	_	_	4	obl:arg	_	Gloss=_|SpaceAfter=No|Translit=yú
+6	对	_	PART	_	_	14	mark	_	Gloss=_|SpaceAfter=No|Translit=dùi
+7	所述	_	ADJ	_	_	10	amod	_	Gloss=_|SpaceAfter=No|Translit=suǒ_shù
+8	主	_	ADJ	_	_	10	amod	_	Gloss=_|SpaceAfter=No|Translit=zhǔ
+9	交换	_	VERB	_	_	10	acl	_	Gloss=_|SpaceAfter=No|Translit=jiāo_huàn
+10	芯片	_	NOUN	_	_	11	nsubj	_	Gloss=_|SpaceAfter=No|Translit=xīn_piàn
+11	传输	_	VERB	_	_	14	advcl	_	Gloss=_|SpaceAfter=No|Translit=chuán_shū
+12	的	_	PART	_	_	11	mark	_	Gloss=_|SpaceAfter=No|Translit=de
+13	数据	_	NOUN	_	_	14	obj	_	Gloss=_|SpaceAfter=No|Translit=shù_jù
+14	进行	_	VERB	_	_	5	ccomp	_	Gloss=_|SpaceAfter=No|Translit=jìn_xíng
+15	处理	_	VERB	_	_	14	ccomp	_	Gloss=_|SpaceAfter=No|Translit=chù_lǐ
+16	或	_	CCONJ	_	_	17	cc	_	Gloss=_|SpaceAfter=No|Translit=huò
+17	预处理	_	VERB	_	_	15	conj	_	Gloss=_|SpaceAfter=No|Translit=yù_chù_lǐ
+18	。	_	PUNCT	_	_	2	punct	_	Gloss=_|SpaceAfter=No|Translit=。
 
 ~~~
 

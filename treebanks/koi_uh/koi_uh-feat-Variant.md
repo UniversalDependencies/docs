@@ -23,5 +23,5 @@ The most frequent other feature values with which `NOUN` and `Variant` co-occurr
 `NOUN` tokens may have the following values of `Variant`:
 
 * `Nomin` (1; 25% of non-empty `Variant`): <em>крышатӧм</em>
-* `Vclause` (3; 75% of non-empty `Variant`): <em>Льӧмваыстӧг, айтöг, керкутöг</em>
+* `Vclause` (3; 75% of non-empty `Variant`): <em>Льӧмваыстӧг, айтӧг, керкутӧг</em>
 

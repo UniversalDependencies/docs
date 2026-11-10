@@ -288,7 +288,7 @@ The most frequent other feature values with which `ADJ` and `VerbForm` co-occurr
 `ADJ` tokens may have the following values of `VerbForm`:
 
 * `Conv` (1; 100% of non-empty `VerbForm`): खड़ा
-* `EMPTY` (21644): वाले, शामिल, अन्य, वाली, जारी, पिछले, पूर्व, भारतीय, तैयार, स्थित
+* `EMPTY` (21654): वाले, शामिल, अन्य, वाली, जारी, पिछले, पूर्व, भारतीय, तैयार, स्थित
 
 ### `ADV`
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-165 nodes (1%) are attached to their parents as `fixed`.
+178 nodes (1%) are attached to their parents as `fixed`.
 
-165 instances of `fixed` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.18787878787879.
+178 instances of `fixed` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.17415730337079.
 
-The following 21 pairs of parts of speech are connected with `fixed`: <tt><a href="fr_partut-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_partut-pos-SCONJ.html">SCONJ</a></tt> (40; 24% instances), <tt><a href="fr_partut-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_partut-pos-ADV.html">ADV</a></tt> (28; 17% instances), <tt><a href="fr_partut-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_partut-pos-ADP.html">ADP</a></tt> (14; 8% instances), <tt><a href="fr_partut-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> (13; 8% instances), <tt><a href="fr_partut-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_partut-pos-ADP.html">ADP</a></tt> (9; 5% instances), <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_partut-pos-ADP.html">ADP</a></tt> (8; 5% instances), <tt><a href="fr_partut-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> (7; 4% instances), <tt><a href="fr_partut-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_partut-pos-ADJ.html">ADJ</a></tt> (6; 4% instances), <tt><a href="fr_partut-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_partut-pos-SCONJ.html">SCONJ</a></tt> (6; 4% instances), <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> (6; 4% instances), <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> (6; 4% instances), <tt><a href="fr_partut-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_partut-pos-ADV.html">ADV</a></tt> (4; 2% instances), <tt><a href="fr_partut-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> (4; 2% instances), <tt><a href="fr_partut-pos-DET.html">DET</a></tt>-<tt><a href="fr_partut-pos-ADV.html">ADV</a></tt> (3; 2% instances), <tt><a href="fr_partut-pos-DET.html">DET</a></tt>-<tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> (3; 2% instances), <tt><a href="fr_partut-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="fr_partut-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="fr_partut-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="fr_partut-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_partut-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="fr_partut-pos-DET.html">DET</a></tt>-<tt><a href="fr_partut-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="fr_partut-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="fr_partut-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances).
+The following 20 pairs of parts of speech are connected with `fixed`: <tt><a href="fr_partut-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_partut-pos-SCONJ.html">SCONJ</a></tt> (41; 23% instances), <tt><a href="fr_partut-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_partut-pos-ADV.html">ADV</a></tt> (28; 16% instances), <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> (18; 10% instances), <tt><a href="fr_partut-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> (14; 8% instances), <tt><a href="fr_partut-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_partut-pos-ADP.html">ADP</a></tt> (14; 8% instances), <tt><a href="fr_partut-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_partut-pos-ADP.html">ADP</a></tt> (9; 5% instances), <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_partut-pos-ADP.html">ADP</a></tt> (8; 4% instances), <tt><a href="fr_partut-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> (7; 4% instances), <tt><a href="fr_partut-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_partut-pos-ADJ.html">ADJ</a></tt> (6; 3% instances), <tt><a href="fr_partut-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_partut-pos-SCONJ.html">SCONJ</a></tt> (6; 3% instances), <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> (6; 3% instances), <tt><a href="fr_partut-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_partut-pos-ADV.html">ADV</a></tt> (4; 2% instances), <tt><a href="fr_partut-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> (4; 2% instances), <tt><a href="fr_partut-pos-DET.html">DET</a></tt>-<tt><a href="fr_partut-pos-ADV.html">ADV</a></tt> (3; 2% instances), <tt><a href="fr_partut-pos-DET.html">DET</a></tt>-<tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> (3; 2% instances), <tt><a href="fr_partut-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="fr_partut-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="fr_partut-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="fr_partut-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_partut-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="fr_partut-pos-DET.html">DET</a></tt>-<tt><a href="fr_partut-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -67,20 +67,23 @@ The following 21 pairs of parts of speech are connected with `fixed`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 6 fixed	color:blue
-1	J'	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	SpaceAfter=No
-2	ai	avoir	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	aux	_	_
-3	trouvé	trouver	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
-4	cela	cela	PRON	PD	Number=Sing|Person=3|PronType=Dem	3	obj	_	_
-5	tout	tout	ADV	B	ExtPos=ADV	8	advmod	_	_
-6	à	à	ADP	E	_	5	fixed	_	_
-7	fait	faire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	fixed	_	_
-8	exceptionnel	exceptionnel	ADJ	A	Gender=Masc|Number=Sing	3	xcomp	_	SpaceAfter=No
-9	.	.	PUNCT	FS	_	3	punct	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 3 fixed	color:blue
+1	Il	lui	PRON	PE	ExtPos=ADP|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	case	_	_
+2	y	y	PRON	P	Person=3|PronType=Prs	1	fixed	_	_
+3	a	avoir	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	fixed	_	_
+4	420	420	NUM	N	NumType=Card	5	nummod	_	_
+5	millions	million	NOUN	S	Gender=Fem|Number=Plur	11	obl	_	_
+6	d'	de	ADP	E	_	7	case	_	SpaceAfter=No
+7	années	année	NOUN	S	Gender=Fem|Number=Plur	5	nmod	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	5	punct	_	_
+9	cet	ce	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	10	det	_	_
+10	organisme	organisme	NOUN	S	Gender=Masc|Number=Sing	11	nsubj	_	_
+11	existait	exister	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	11	punct	_	_
 
 ~~~
 

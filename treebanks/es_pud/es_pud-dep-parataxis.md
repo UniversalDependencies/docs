@@ -51,7 +51,7 @@ The following 8 pairs of parts of speech are connected with `parataxis`: <tt><a 
 4	y	y	CCONJ	CC	_	6	cc	_	_
 5	lo	él	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	6	obj	_	_
 6	aceptó	aceptar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	conj	_	_
-7	como	como	ADP	IN	_	9	case	_	_
+7	como	como	SCONJ	IN	_	9	case	_	_
 8	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
 9	hombre	hombre	NOUN	NN	Gender=Masc|Number=Sing	6	obl	_	SpaceAfter=No
 10	,	,	PUNCT	,	PunctType=Comm	11	punct	_	_

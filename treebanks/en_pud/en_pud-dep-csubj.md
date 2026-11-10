@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `csubj`: <tt><a href="en_pud-dep-csubj-pass.html">csubj:pass</a></tt>.
 
-27 nodes (0%) are attached to their parents as `csubj`.
+25 nodes (0%) are attached to their parents as `csubj`.
 
-19 instances of `csubj` (70%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.66666666666667.
+17 instances of `csubj` (68%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.72.
 
-The following 3 pairs of parts of speech are connected with `csubj`: <tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (11; 41% instances), <tt><a href="en_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (11; 41% instances), <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (5; 19% instances).
+The following 3 pairs of parts of speech are connected with `csubj`: <tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (11; 44% instances), <tt><a href="en_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (9; 36% instances), <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (5; 20% instances).
 
 
 ~~~ conllu
@@ -71,11 +71,11 @@ The following 3 pairs of parts of speech are connected with `csubj`: <tt><a href
 # visual-style 4 6 csubj	color:blue
 1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	expl	4:expl	_
 2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	4:cop	_
-3	his	his	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	4	nmod:poss	4:nmod:poss	_
+3	his	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	4	nmod:poss	4:nmod:poss	_
 4	dream	dream	NOUN	NN	Number=Sing	0	root	0:root	_
 5	to	to	PART	TO	_	6	mark	6:mark	_
 6	end	end	VERB	VB	VerbForm=Inf	4	csubj	4:csubj	_
-7	his	his	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	8	nmod:poss	8:nmod:poss	_
+7	his	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	8	nmod:poss	8:nmod:poss	_
 8	career	career	NOUN	NN	Number=Sing	6	obj	6:obj	_
 9	here	here	ADV	RB	PronType=Dem	6	advmod	6:advmod	SpaceAfter=No
 10	.	.	PUNCT	.	_	4	punct	4:punct	_

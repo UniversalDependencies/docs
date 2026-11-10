@@ -56,7 +56,7 @@ The following 3 pairs of parts of speech are connected with `obj:lvc`: <tt><a hr
 12	après	après	ADP	_	_	14	case	_	_
 13	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
 14	résolution	résolution	NOUN	_	Gender=Fem|Number=Sing	11	obl:mod	_	Exponence[Gender]=Inherent
-15	adoptée	adopter	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	14	acl	_	Tense[denom]=Past
+15	adoptée	adopter	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	14	acl	_	Status[Tense]=Denom
 16	par	par	ADP	_	_	18	case	_	_
 17	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
 18	Parlement	parlement	NOUN	_	Gender=Masc|Number=Sing	15	obl:agent	_	Exponence[Gender]=Inherent|wordform=parlement
@@ -71,7 +71,7 @@ The following 3 pairs of parts of speech are connected with `obj:lvc`: <tt><a hr
 27	qui	qui	PRON	_	PronType=Rel	30	nsubj	_	_
 28	ont	avoir	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	30	aux:tense	_	_
 29	fermement	fermement	ADV	_	_	30	advmod	_	_
-30	condamné	condamner	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	14	acl:relcl	_	Tense[denom]=Past
+30	condamné	condamner	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	14	acl:relcl	_	Status[Tense]=Denom
 31	l'	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	32	det	_	Exponence[Gender]=Absent|SpaceAfter=No
 32	attaque	attaque	NOUN	_	Gender=Fem|Number=Sing	30	obj	_	Exponence[Gender]=Inherent
 33	de	de	ADP	_	_	36	case	_	_

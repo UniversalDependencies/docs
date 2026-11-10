@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.5 release.
 The following people have contributed to making this treebank part of UD: Colin Batchelor.
 
 Repository: [UD_Scottish_Gaelic-ARCOSG](https://github.com/UniversalDependencies/UD_Scottish_Gaelic-ARCOSG)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udgd_arcosg218)<br />
-Download all treebanks: [UD 2.18](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udgd_arcosg219)<br />
+Download all treebanks: [UD 2.19](/#download)
 
 License: CC BY-SA 4.0
 
@@ -916,7 +916,7 @@ We wish to thank all of the contributors to ARCOSG and fellow Celtic language UD
           <li>NUM: aon, l970</li>
           <li>PART: an</li>
           <li>PRON: co, cáit, fhein, h-ì</li>
-          <li>PROPN: lain, Yugoslavai, Èirinn</li>
+          <li>PROPN: lain, Fuerst, Yugoslavai, Èirinn</li>
           <li>SCONJ: co-dhiubh, co-dhiùbh, gun, s</li>
           <li>VERB-Fin: dh’fhabh</li>
         </ul>

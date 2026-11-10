@@ -9,80 +9,59 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="it_kiparlaforest-dep-flat.html">flat</a></tt>.
 There are also 1 other language-specific subtypes of `flat`: <tt><a href="it_kiparlaforest-dep-flat-foreign.html">flat:foreign</a></tt>.
 
-36 nodes (0%) are attached to their parents as `flat:name`.
+50 nodes (0%) are attached to their parents as `flat:name`.
 
-36 instances of `flat:name` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.16666666666667.
+50 instances of `flat:name` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.08.
 
-The following 6 pairs of parts of speech are connected with `flat:name`: <tt><a href="it_kiparlaforest-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_kiparlaforest-pos-PROPN.html">PROPN</a></tt> (26; 72% instances), <tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_kiparlaforest-pos-PROPN.html">PROPN</a></tt> (4; 11% instances), <tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt> (2; 6% instances), <tt><a href="it_kiparlaforest-pos-X.html">X</a></tt>-<tt><a href="it_kiparlaforest-pos-X.html">X</a></tt> (2; 6% instances), <tt><a href="it_kiparlaforest-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_kiparlaforest-pos-PROPN.html">PROPN</a></tt> (1; 3% instances), <tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt>-<tt><a href="it_kiparlaforest-pos-PROPN.html">PROPN</a></tt> (1; 3% instances).
+The following 3 pairs of parts of speech are connected with `flat:name`: <tt><a href="it_kiparlaforest-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_kiparlaforest-pos-PROPN.html">PROPN</a></tt> (48; 96% instances), <tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_kiparlaforest-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="it_kiparlaforest-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_kiparlaforest-pos-X.html">X</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 7 flat:name	color:blue
-1	son	essere	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	aux	_	Begin=1483.121|KID=383-0|Truncated=Yes
-2	stata	essere	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	KID=383-1
-3	una	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	KID=383-2
-4	volta	volta	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	KID=383-3|Prolonged=Yes
-5	ad	a	ADP	_	_	6	case	_	KID=383-4|Prolonged=Yes
-6	ascoli	Ascoli	PROPN	_	_	2	obl	_	KID=383-5
-7	piceno	Piceno	PROPN	_	_	6	flat:name	_	KID=383-6
-8	quando	quando	SCONJ	_	_	11	mark	_	KID=383-7
-9	ero	essere	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	11	cop	_	KID=383-8
-10	più	più	ADV	_	_	11	advmod	_	KID=383-9
-11	piccola	piccolo	ADJ	_	Gender=Fem|Number=Sing	7	advcl	_	End=1486.19|Intonation=Falling|KID=383-10
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 flat:name	color:blue
+1	marina	Marina	PROPN	_	_	0	root	_	Begin=300.571|KID=124-0
+2	gialli	Gialli	PROPN	_	_	1	flat:name	_	End=301.59|Intonation=Falling|KID=124-1
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 6 flat:name	color:blue
-1	ho	avere	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	aux	_	Begin=42.478|KID=13-0
-2	parlato	parlare	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	KID=13-1
-3	con	con	ADP	_	_	5	case	_	KID=13-2
-4	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	KID=13-3
-5	professoressa	professore	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	KID=13-4
-6	rossi	Rossi	PROPN	_	Gender=Masc|Number=Plur	5	flat:name	_	KID=13-5
-7	che	che	PRON	_	PronType=Rel	9	nsubj	_	KID=13-6
-8	ha	avere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	KID=13-7
-9	accettato	accettare	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	acl:relcl	_	KID=13-8
-10	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	KID=13-9
-11	mio	mio	DET	_	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	12	det:poss	_	KID=13-10
-12	progetto	progetto	NOUN	_	Gender=Masc|Number=Sing	9	obj	_	KID=13-11
-13	era	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	15	aux	_	KID=13-12
-14	molto	molto	ADV	_	_	15	advmod	_	KID=13-13
-15	entusiasta	entusiasta	ADJ	_	Number=Sing	9	conj	_	KID=13-14
-16	per	per	ADP	_	_	17	case	_	KID=13-15
-17	cui	cui	PRON	_	PronType=Rel	15	discourse	_	End=47.141|Intonation=WeaklyRising|KID=13-16
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 10 flat:name	color:blue
+1	mi	mi	PRON	_	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	2	iobj	_	KID=931-6
+2	guardo	guardare	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	KID=931-7|Prolonged=Yes
+3	ormai	ormai	ADV	_	_	5	advmod	_	KID=931-8|PaceFast=Yes
+4	c'	ci	PRON	_	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	5	expl	_	KID=931-9|PaceFast=Yes|SpaceAfter=No
+5	ho	avere	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	parataxis:parenth	_	KID=931-10|PaceFast=Yes
+6	i	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	KID=931-11|PaceFast=Yes
+7	miei	mio	DET	_	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	8	det:poss	_	KID=931-12|PaceFast=Yes
+8	fissi	fisso	ADJ	_	Gender=Masc|Number=Plur	5	obj	_	End=1779.744|KID=931-13|PaceFast=Yes
+9	carta	carta	NOUN	_	_	2	obj	_	Begin=1780.186|KID=932-0
+10	bianca	bianco	ADJ	_	Gender=Fem|Number=Sing	9	flat:name	_	End=1781.388|Intonation=WeaklyRising|KID=932-1
+11	con	con	ADP	_	_	13	case	_	Begin=1782.132|KID=933-0
+12	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	KID=933-1
+13	berlinguer	Berlinguer	PROPN	_	_	9	nmod	_	End=1783.217|Intonation=WeaklyRising|KID=933-2|OverlappingGroup=177
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 4 5 flat:name	color:blue
-1	di	di	ADP	_	_	2	case	_	KID=866-3
-2	solito	solito	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	KID=866-4
-3	scrivevano	scrivere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	KID=866-5
-4	tizio	tizio	NOUN	_	Gender=Masc|Number=Sing	7	nsubj	_	KID=866-6
-5	caio	caio	NOUN	_	Gender=Masc|Number=Sing	4	flat:name	_	End=2210.723|Intonation=WeaklyRising|KID=866-7
-6	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	Begin=2210.935|KID=867-0
-7	stato	essere	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	conj	_	KID=867-1|Relation=conj:reform
-8	qui	qui	ADV	_	_	7	advmod	_	End=2211.811|Intonation=WeaklyRising|KID=867-2
-9	a	a	ADP	_	_	10	mark	_	Begin=2212.813|KID=868-0
-10	pascolare	pascolare	VERB	_	VerbForm=Inf	7	xcomp	_	End=2214.662|KID=868-1|Prolonged=Yes
-11	le	il	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	12	det	_	Begin=2214.993|KID=869-0
-12	capre	capra	NOUN	_	Gender=Fem|Number=Plur	10	obj	_	End=2215.834|Intonation=WeaklyRising|KID=869-1
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 4 flat:name	color:blue
+1	si	si	PRON	_	Clitic=Yes|Person=3|PronType=Prs	2	expl	_	Begin=1923.002|KID=1009-0|Volume=low
+2	chiama	chiamare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=1009-1|Volume=low
+3	luca	Luca	PROPN	_	_	2	nsubj	_	KID=1009-2|OverlappingGroup=194|Volume=low
+4	carbo~	carbo~	X	_	_	3	flat:name	_	ExtLemma=Carboni|ExtUPOS=PROPN|Interrupted=Yes|KID=1009-3|OverlappingGroup=194|Volume=low
 
 ~~~
 

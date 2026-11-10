@@ -8,7 +8,7 @@ udver: '2'
 
 This relation is universal.
 
-29 nodes (2%) are attached to their parents as `advmod`.
+29 nodes (1%) are attached to their parents as `advmod`.
 
 19 instances of `advmod` (66%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.75862068965517.
@@ -62,8 +62,8 @@ The following 7 pairs of parts of speech are connected with `advmod`: <tt><a hre
 # visual-style 4	fgColor:white
 # visual-style 4 1 advmod	color:blue
 1	eḳ	eḳ	ADV	_	_	4	advmod	_	Ref=TM1001271-4-1
-2	ṃroteS	μροτις	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	Ref=TM1001271-4-2
-3	key	ke	CCONJ	_	_	2	cc	_	Ref=TM1001271-4-3
+2	ṃroteS	μροτις	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	Ref=TM1001271-4-2|SpaceAfter=No
+3	-key	ke	CCONJ	_	_	2	cc	_	Ref=TM1001271-4-3
 4	[...]	[...]	SYM	_	_	0	root	_	Ref=TM1001271-4-3
 
 ~~~

@@ -9,34 +9,34 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Ind`.
 
-6821 tokens (0%) have a non-empty value of `InflClass`.
-1442 types (1%) occur at least once with a non-empty value of `InflClass`.
-1364 lemmas (2%) occur at least once with a non-empty value of `InflClass`.
-The feature is used with 3 part-of-speech tags: <tt><a href="ru_taiga-pos-PROPN.html">PROPN</a></tt> (4635; 0% instances), <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt> (2183; 0% instances), <tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt> (3; 0% instances).
+6826 tokens (0%) have a non-empty value of `InflClass`.
+1446 types (1%) occur at least once with a non-empty value of `InflClass`.
+1367 lemmas (2%) occur at least once with a non-empty value of `InflClass`.
+The feature is used with 3 part-of-speech tags: <tt><a href="ru_taiga-pos-PROPN.html">PROPN</a></tt> (4639; 0% instances), <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt> (2184; 0% instances), <tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt> (3; 0% instances).
 
 ### `PROPN`
 
-4635 <tt><a href="ru_taiga-pos-PROPN.html">PROPN</a></tt> tokens (7% of all `PROPN` tokens) have a non-empty value of `InflClass`.
+4639 <tt><a href="ru_taiga-pos-PROPN.html">PROPN</a></tt> tokens (7% of all `PROPN` tokens) have a non-empty value of `InflClass`.
 
-The most frequent other feature values with which `PROPN` and `InflClass` co-occurred: <tt><a href="ru_taiga-feat-Abbr.html">Abbr</a></tt><tt>=EMPTY</tt> (4635; 100%), <tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4580; 99%), <tt><a href="ru_taiga-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt> (4101; 88%), <tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (3116; 67%), <tt><a href="ru_taiga-feat-Case.html">Case</a></tt><tt>=Nom</tt> (2537; 55%).
+The most frequent other feature values with which `PROPN` and `InflClass` co-occurred: <tt><a href="ru_taiga-feat-Abbr.html">Abbr</a></tt><tt>=EMPTY</tt> (4639; 100%), <tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4584; 99%), <tt><a href="ru_taiga-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt> (4103; 88%), <tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (3120; 67%), <tt><a href="ru_taiga-feat-Case.html">Case</a></tt><tt>=Nom</tt> (2539; 55%).
 
 `PROPN` tokens may have the following values of `InflClass`:
 
-* `Ind` (4635; 100% of non-empty `InflClass`): <em>Мэри, Андро, Наянго, Жюли, Фальк, Кашидзе, Сидоренко, Томи, Арно, Бранд</em>
+* `Ind` (4639; 100% of non-empty `InflClass`): <em>Мэри, Андро, Наянго, Жюли, Фальк, Кашидзе, Сидоренко, Томи, Арно, Бранд</em>
 
-`InflClass` seems to be **lexical feature** of `PROPN`. 100% lemmas (1052) occur only with one value of `InflClass`.
+`InflClass` seems to be **lexical feature** of `PROPN`. 100% lemmas (1054) occur only with one value of `InflClass`.
 
 ### `NOUN`
 
-2183 <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt> tokens (1% of all `NOUN` tokens) have a non-empty value of `InflClass`.
+2184 <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt> tokens (1% of all `NOUN` tokens) have a non-empty value of `InflClass`.
 
-The most frequent other feature values with which `NOUN` and `InflClass` co-occurred: <tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1588; 73%), <tt><a href="ru_taiga-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt> (1527; 70%), <tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=Neut</tt> (1295; 59%).
+The most frequent other feature values with which `NOUN` and `InflClass` co-occurred: <tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1589; 73%), <tt><a href="ru_taiga-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt> (1528; 70%), <tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=Neut</tt> (1295; 59%).
 
 `NOUN` tokens may have the following values of `InflClass`:
 
-* `Ind` (2183; 100% of non-empty `InflClass`): <em>спасибо, кофе, фото, а, кафе, б, е, барокко, кино, о</em>
+* `Ind` (2184; 100% of non-empty `InflClass`): <em>спасибо, кофе, фото, а, кафе, б, е, барокко, кино, о</em>
 
-`InflClass` seems to be **lexical feature** of `NOUN`. 100% lemmas (310) occur only with one value of `InflClass`.
+`InflClass` seems to be **lexical feature** of `NOUN`. 100% lemmas (311) occur only with one value of `InflClass`.
 
 ### `ADJ`
 

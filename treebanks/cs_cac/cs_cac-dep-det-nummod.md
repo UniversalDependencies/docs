@@ -110,7 +110,7 @@ The following 3 pairs of parts of speech are connected with `det:nummod`: <tt><a
 41	tomu	ten	DET	PDZS3----------	Case=Dat|Gender=Masc,Neut|Number=Sing|PronType=Dem	40	nsubj	40:nsubj	_
 42	bylo	být	AUX	VpNS---XR-AA---	Aspect=Imp|Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	40	cop	40:cop	_
 43	u	u	ADP	RR--2----------	AdpType=Prep|Case=Gen	44	case	44:case	LId=u-1
-44	odsouzených	odsouzený	ADJ	AAMP2----1A----	Animacy=Anim|Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos|VerbForm=Part|Voice=Pass	40	obl	40:obl:u:gen	LDeriv=odsoudit
+44	odsouzených	odsouzený	ADJ	AAMP2----1A----	Animacy=Anim|Aspect=Perf|Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos|VerbForm=Part|Voice=Pass	40	obl	40:obl:u:gen	LDeriv=odsoudit
 45	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	46	case	46:case	LId=v-1
 46	Nepolisech	Nepolisy	PROPN	NNIP6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|NameType=Geo|Number=Plur	44	nmod	44:nmod:v:loc	_
 47	a	a	CCONJ	J^-------------	_	49	cc	49:cc	LId=a-1

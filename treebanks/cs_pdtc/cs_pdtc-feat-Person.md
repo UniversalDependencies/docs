@@ -112,11 +112,11 @@ The 10 most frequent relations where parent and child node agree in `Person`:
 <tt>VERB --[<tt><a href="cs_pdtc-dep-conj.html">conj</a></tt>]--> VERB</tt> (9572; 60%),
 <tt>VERB --[<tt><a href="cs_pdtc-dep-csubj-pass.html">csubj:pass</a></tt>]--> VERB</tt> (313; 52%),
 <tt>VERB --[<tt><a href="cs_pdtc-dep-appos.html">appos</a></tt>]--> VERB</tt> (170; 61%),
-<tt>AUX --[<tt><a href="cs_pdtc-dep-conj.html">conj</a></tt>]--> VERB</tt> (90; 53%),
-<tt>VERB --[<tt><a href="cs_pdtc-dep-conj.html">conj</a></tt>]--> AUX</tt> (87; 51%),
+<tt>AUX --[<tt><a href="cs_pdtc-dep-conj.html">conj</a></tt>]--> VERB</tt> (87; 52%),
 <tt>AUX --[<tt><a href="cs_pdtc-dep-conj.html">conj</a></tt>]--> AUX</tt> (45; 60%),
 <tt>PRON --[<tt><a href="cs_pdtc-dep-appos.html">appos</a></tt>]--> PRON</tt> (12; 80%),
 <tt>AUX --[<tt><a href="cs_pdtc-dep-advcl.html">advcl</a></tt>]--> AUX</tt> (8; 80%),
+<tt>PRON --[<tt><a href="cs_pdtc-dep-advcl.html">advcl</a></tt>]--> PRON</tt> (6; 60%),
 <tt>PRON --[<tt><a href="cs_pdtc-dep-conj.html">conj</a></tt>]--> AUX</tt> (6; 60%),
 <tt>VERB --[<tt><a href="cs_pdtc-dep-csubj-pass.html">csubj:pass</a></tt>]--> AUX</tt> (5; 63%).
 

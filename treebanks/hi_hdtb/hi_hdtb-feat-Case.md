@@ -13,7 +13,7 @@ Some words have combined values of the feature; 5 combinations have been observe
 189511 tokens (54%) have a non-empty value of `Case`.
 16016 types (84%) occur at least once with a non-empty value of `Case`.
 14023 lemmas (90%) occur at least once with a non-empty value of `Case`.
-The feature is used with 14 part-of-speech tags: <tt><a href="hi_hdtb-pos-NOUN.html">NOUN</a></tt> (78053; 22% instances), <tt><a href="hi_hdtb-pos-PROPN.html">PROPN</a></tt> (42541; 12% instances), <tt><a href="hi_hdtb-pos-ADP.html">ADP</a></tt> (26352; 7% instances), <tt><a href="hi_hdtb-pos-ADJ.html">ADJ</a></tt> (14784; 4% instances), <tt><a href="hi_hdtb-pos-PRON.html">PRON</a></tt> (14042; 4% instances), <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> (6557; 2% instances), <tt><a href="hi_hdtb-pos-DET.html">DET</a></tt> (4933; 1% instances), <tt><a href="hi_hdtb-pos-ADV.html">ADV</a></tt> (1386; 0% instances), <tt><a href="hi_hdtb-pos-AUX.html">AUX</a></tt> (535; 0% instances), <tt><a href="hi_hdtb-pos-NUM.html">NUM</a></tt> (288; 0% instances), <tt><a href="hi_hdtb-pos-PART.html">PART</a></tt> (29; 0% instances), <tt><a href="hi_hdtb-pos-X.html">X</a></tt> (8; 0% instances), <tt><a href="hi_hdtb-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="hi_hdtb-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
+The feature is used with 14 part-of-speech tags: <tt><a href="hi_hdtb-pos-NOUN.html">NOUN</a></tt> (78053; 22% instances), <tt><a href="hi_hdtb-pos-PROPN.html">PROPN</a></tt> (42541; 12% instances), <tt><a href="hi_hdtb-pos-ADP.html">ADP</a></tt> (26352; 7% instances), <tt><a href="hi_hdtb-pos-ADJ.html">ADJ</a></tt> (14791; 4% instances), <tt><a href="hi_hdtb-pos-PRON.html">PRON</a></tt> (14042; 4% instances), <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> (6557; 2% instances), <tt><a href="hi_hdtb-pos-DET.html">DET</a></tt> (4926; 1% instances), <tt><a href="hi_hdtb-pos-ADV.html">ADV</a></tt> (1386; 0% instances), <tt><a href="hi_hdtb-pos-AUX.html">AUX</a></tt> (535; 0% instances), <tt><a href="hi_hdtb-pos-NUM.html">NUM</a></tt> (288; 0% instances), <tt><a href="hi_hdtb-pos-PART.html">PART</a></tt> (29; 0% instances), <tt><a href="hi_hdtb-pos-X.html">X</a></tt> (8; 0% instances), <tt><a href="hi_hdtb-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="hi_hdtb-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
@@ -96,15 +96,15 @@ The most frequent other feature values with which `ADP` and `Case` co-occurred: 
 
 ### `ADJ`
 
-14784 <tt><a href="hi_hdtb-pos-ADJ.html">ADJ</a></tt> tokens (68% of all `ADJ` tokens) have a non-empty value of `Case`.
+14791 <tt><a href="hi_hdtb-pos-ADJ.html">ADJ</a></tt> tokens (68% of all `ADJ` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (10868; 74%), <tt><a href="hi_hdtb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (10844; 73%).
+The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (10868; 73%), <tt><a href="hi_hdtb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (10845; 73%).
 
 `ADJ` tokens may have the following values of `Case`:
 
-* `Acc` (10029; 68% of non-empty `Case`): अन्य, वाले, पूर्व, भारतीय, स्थित, वरिष्ठ, पिछले, अमेरिकी, सरकारी, राजनीतिक
-* `Nom` (4755; 32% of non-empty `Case`): विशेष, पूर्व, मुख्य, अन्य, वाले, अंतिम, अलग, पूरा, पूरी, महत्वपूर्ण
-* `EMPTY` (6861): शामिल, जारी, तैयार, पेश, दर्ज, गौरतलब, बंद, लागू, तय, गिरफ्तार
+* `Acc` (10031; 68% of non-empty `Case`): अन्य, वाले, पूर्व, भारतीय, स्थित, वरिष्ठ, पिछले, अमेरिकी, सरकारी, राजनीतिक
+* `Nom` (4760; 32% of non-empty `Case`): विशेष, पूर्व, मुख्य, अन्य, वाले, अंतिम, अलग, पूरा, पूरी, महत्वपूर्ण
+* `EMPTY` (6864): शामिल, जारी, तैयार, पेश, दर्ज, गौरतलब, बंद, लागू, तय, गिरफ्तार
 
 <table>
   <tr><th>Paradigm <i>वाला</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th></tr>
@@ -124,7 +124,7 @@ The most frequent other feature values with which `ADJ` and `Case` co-occurred: 
 
 14042 <tt><a href="hi_hdtb-pos-PRON.html">PRON</a></tt> tokens (96% of all `PRON` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="hi_hdtb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (13992; 100%), <tt><a href="hi_hdtb-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (11222; 80%), <tt><a href="hi_hdtb-feat-Polite.html">Polite</a></tt><tt>=EMPTY</tt> (11161; 79%), <tt><a href="hi_hdtb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (10528; 75%), <tt><a href="hi_hdtb-feat-Person.html">Person</a></tt><tt>=3</tt> (9913; 71%), <tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9287; 66%).
+The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="hi_hdtb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (13993; 100%), <tt><a href="hi_hdtb-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (11222; 80%), <tt><a href="hi_hdtb-feat-Polite.html">Polite</a></tt><tt>=EMPTY</tt> (11161; 79%), <tt><a href="hi_hdtb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (10528; 75%), <tt><a href="hi_hdtb-feat-Person.html">Person</a></tt><tt>=3</tt> (9913; 71%), <tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9287; 66%).
 
 `PRON` tokens may have the following values of `Case`:
 
@@ -208,15 +208,15 @@ The most frequent other feature values with which `VERB` and `Case` co-occurred:
 
 ### `DET`
 
-4933 <tt><a href="hi_hdtb-pos-DET.html">DET</a></tt> tokens (66% of all `DET` tokens) have a non-empty value of `Case`.
+4926 <tt><a href="hi_hdtb-pos-DET.html">DET</a></tt> tokens (66% of all `DET` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="hi_hdtb-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (4722; 96%), <tt><a href="hi_hdtb-feat-Person.html">Person</a></tt><tt>=3</tt> (4546; 92%), <tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3980; 81%).
+The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="hi_hdtb-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (4757; 97%), <tt><a href="hi_hdtb-feat-Person.html">Person</a></tt><tt>=3</tt> (4546; 92%), <tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3975; 81%).
 
 `DET` tokens may have the following values of `Case`:
 
-* `Acc` (3518; 71% of non-empty `Case`): इस, इन, इसी, उस, उन, ऐसे, जिस, उसी, जिन, ऐसी
-* `Nom` (1415; 29% of non-empty `Case`): यह, ये, जो, ऐसा, इस, यही, ऐसी, ऐसे, हम, वही
-* `EMPTY` (2592): कुछ, कई, सभी, कम, ज्यादा, काफी, अधिक, और, हर, बहुत
+* `Acc` (3516; 71% of non-empty `Case`): इस, इन, इसी, उस, उन, ऐसे, जिस, उसी, जिन, ऐसी
+* `Nom` (1410; 29% of non-empty `Case`): यह, ये, जो, ऐसा, इस, यही, ऐसी, ऐसे, हम, वही
+* `EMPTY` (2589): कुछ, कई, सभी, कम, ज्यादा, काफी, अधिक, और, हर, बहुत
 
 <table>
   <tr><th>Paradigm <i>यह</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th></tr>
@@ -348,14 +348,14 @@ The most frequent other feature values with which `X` and `Case` co-occurred: <t
 ## Relations with Agreement in `Case`
 
 The 10 most frequent relations where parent and child node agree in `Case`:
-<tt>NOUN --[<tt><a href="hi_hdtb-dep-amod.html">amod</a></tt>]--> ADJ</tt> (11601; 97%),
-<tt>NOUN --[<tt><a href="hi_hdtb-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (4459; 53%),
-<tt>NOUN --[<tt><a href="hi_hdtb-dep-det.html">det</a></tt>]--> DET</tt> (4379; 65%),
+<tt>NOUN --[<tt><a href="hi_hdtb-dep-amod.html">amod</a></tt>]--> ADJ</tt> (11608; 97%),
+<tt>NOUN --[<tt><a href="hi_hdtb-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (4462; 53%),
+<tt>NOUN --[<tt><a href="hi_hdtb-dep-det.html">det</a></tt>]--> DET</tt> (4372; 65%),
 <tt>PROPN --[<tt><a href="hi_hdtb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (2151; 77%),
 <tt>PROPN --[<tt><a href="hi_hdtb-dep-conj.html">conj</a></tt>]--> PROPN</tt> (2139; 93%),
 <tt>NOUN --[<tt><a href="hi_hdtb-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1913; 91%),
 <tt>PROPN --[<tt><a href="hi_hdtb-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (1496; 62%),
 <tt>PROPN --[<tt><a href="hi_hdtb-dep-amod.html">amod</a></tt>]--> ADJ</tt> (687; 76%),
-<tt>NOUN --[<tt><a href="hi_hdtb-dep-det.html">det</a></tt>]--> PRON</tt> (642; 98%),
+<tt>NOUN --[<tt><a href="hi_hdtb-dep-det.html">det</a></tt>]--> PRON</tt> (655; 98%),
 <tt>ADJ --[<tt><a href="hi_hdtb-dep-amod.html">amod</a></tt>]--> ADJ</tt> (356; 94%).
 

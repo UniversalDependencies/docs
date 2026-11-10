@@ -11,9 +11,9 @@ This relation is universal.
 67 nodes (1%) are attached to their parents as `parataxis`.
 
 67 instances of `parataxis` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 12.0746268656716.
+Average distance between parent and child is 12.0597014925373.
 
-The following 7 pairs of parts of speech are connected with `parataxis`: <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (46; 69% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (10; 15% instances), <tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (5; 7% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (3; 4% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="yo_ytb-pos-NUM.html">NUM</a></tt>-<tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (1; 1% instances).
+The following 7 pairs of parts of speech are connected with `parataxis`: <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (45; 67% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (11; 16% instances), <tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (5; 7% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (3; 4% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="yo_ytb-pos-NUM.html">NUM</a></tt>-<tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -22,7 +22,7 @@ The following 7 pairs of parts of speech are connected with `parataxis`: <tt><a 
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 9 parataxis	color:blue
-1	Ṣíbẹ̀	Ṣíbẹ̀	ADV	_	_	4	advmod	_	Gloss=yet|Ref=MARK_5.32|SpaceAfter=No
+1	Ṣíbẹ̀	ṣíbẹ̀	ADV	_	_	4	advmod	_	Gloss=yet|Ref=MARK_5.32|SpaceAfter=No
 2	,	,	PUNCT	_	_	4	punct	_	Gloss=,|Ref=MARK_5.32
 3	Jésù	jésù	PROPN	_	_	4	nsubj	_	Gloss=jesus|Ref=MARK_5.32
 4	bẹ̀rẹ̀	bẹ̀rẹ̀	VERB	_	_	0	root	_	Gloss=began|Ref=MARK_5.32
@@ -32,14 +32,14 @@ The following 7 pairs of parts of speech are connected with `parataxis`: <tt><a 
 8	láti	láti	ADP	_	_	9	mark	_	Gloss=to|Ref=MARK_5.32
 9	rí	rí	VERB	_	_	4	parataxis	_	Gloss=saw|Ref=MARK_5.32
 10	ẹni	ẹni	PRON	_	PronType=Ind	9	obj	_	Gloss=person|Ref=MARK_5.32
-11	náà	náà	DET	_	_	10	det	_	Gloss=the|Ref=MARK_5.32|SpaceAfter=No
+11	náà	náà	DET	_	PronType=Dem	10	det	_	Gloss=the|Ref=MARK_5.32|SpaceAfter=No
 12	,	,	PUNCT	_	_	15	punct	_	Gloss=,|Ref=MARK_5.32
 13	tí	tí	PRON	_	PronType=Rel	15	nsubj	_	Gloss=that|Ref=MARK_5.32
 14	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	15	expl	_	Gloss=he|Ref=MARK_5.32
 15	fi	fi	VERB	_	_	9	conj	_	Gloss=use|Ref=MARK_5.32
 16	ọwọ́	ọwọ́	NOUN	_	_	15	obj	_	Gloss=hand|Ref=MARK_5.32
 17	kan	kan	VERB	_	_	16	compound:svc	_	Gloss=touched|Ref=MARK_5.32
-18	òun	òun	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	15	obj	_	Gloss=him|Ref=MARK_5.32|SpaceAfter=No
+18	òun	òun	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	17	obj	_	Gloss=him|Ref=MARK_5.32|SpaceAfter=No
 19	.	.	PUNCT	_	_	4	punct	_	Gloss=.|Ref=MARK_5.32
 
 ~~~
@@ -58,13 +58,13 @@ The following 7 pairs of parts of speech are connected with `parataxis`: <tt><a 
 5	pé	pé	SCONJ	_	_	10	mark	_	Gloss=that|Ref=JOHN_11.25|SpaceAfter=No
 6	,	,	PUNCT	_	_	10	punct	_	Gloss=,|Ref=JOHN_11.25
 7	“	“	PUNCT	_	_	10	punct	_	Gloss=“|Ref=JOHN_11.25|SpaceAfter=No
-8	Èmi	Èmi	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	Gloss=i|Ref=JOHN_11.25
+8	Èmi	èmi	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	Gloss=i|Ref=JOHN_11.25
 9	ni	ni	PART	_	_	8	case	_	Gloss=is|Ref=JOHN_11.25
 10	àjíǹde	àjíǹde	NOUN	_	_	2	ccomp	_	Gloss=resurrection|Ref=JOHN_11.25
 11	àti	àti	CCONJ	_	_	12	cc	_	Gloss=and|Ref=JOHN_11.25
 12	ìyè	ìyè	NOUN	_	_	10	conj	_	Gloss=life|Ref=JOHN_11.25|SpaceAfter=No
 13	:	:	PUNCT	_	_	28	punct	_	Gloss=:|Ref=JOHN_11.25
-14	ẹni	ẹni	PRON	_	PronType=Ind	28	nsubj	_	Gloss=someone|Ref=JOHN_11.25
+14	ẹni	ẹni	PRON	_	ExtPos=PRON|PronType=Ind	28	nsubj	_	Gloss=someone|Ref=JOHN_11.25
 15	tí	tí	PRON	_	PronType=Rel	14	fixed	_	Gloss=that|Ref=JOHN_11.25
 16	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	18	expl	_	Gloss=he|Ref=JOHN_11.25
 17	bá	bá	SCONJ	_	_	18	mark	_	Gloss=if|Ref=JOHN_11.25
@@ -97,7 +97,7 @@ The following 7 pairs of parts of speech are connected with `parataxis`: <tt><a 
 5	a	a	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	6	obj	_	Gloss=him|Ref=MARK_5.24
 6	lọ	lọ	VERB	_	_	0	root	_	Gloss=him|Ref=MARK_5.24|SpaceAfter=No
 7	.	.	PUNCT	_	_	8	punct	_	Gloss=.|Ref=MARK_5.24
-8	Ọ̀pọ̀	Ọ̀pọ̀	ADJ	_	_	6	ccomp	_	Gloss=many|Ref=MARK_5.24
+8	Ọ̀pọ̀	ọ̀pọ̀	ADJ	_	_	6	ccomp	_	Gloss=many|Ref=MARK_5.24
 9	ìjọ	ìjọ	NOUN	_	_	13	nsubj	_	Gloss=congregation|Ref=MARK_5.24
 10	ènìyàn	ènìyàn	NOUN	_	_	9	nmod	_	Gloss=people|Ref=MARK_5.24
 11	sì	sì	CCONJ	_	_	13	cc	_	Gloss=and|Ref=MARK_5.24

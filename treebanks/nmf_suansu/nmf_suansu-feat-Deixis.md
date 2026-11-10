@@ -9,10 +9,10 @@ udver: '2'
 This feature is language-specific.
 It occurs with 2 different values: `Prox`, `Remt`.
 
-151 tokens (5%) have a non-empty value of `Deixis`.
-13 types (1%) occur at least once with a non-empty value of `Deixis`.
+150 tokens (5%) have a non-empty value of `Deixis`.
+12 types (1%) occur at least once with a non-empty value of `Deixis`.
 6 lemmas (1%) occur at least once with a non-empty value of `Deixis`.
-The feature is used with 3 part-of-speech tags: <tt><a href="nmf_suansu-pos-DET.html">DET</a></tt> (122; 4% instances), <tt><a href="nmf_suansu-pos-PRON.html">PRON</a></tt> (22; 1% instances), <tt><a href="nmf_suansu-pos-ADV.html">ADV</a></tt> (7; 0% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="nmf_suansu-pos-DET.html">DET</a></tt> (122; 4% instances), <tt><a href="nmf_suansu-pos-PRON.html">PRON</a></tt> (21; 1% instances), <tt><a href="nmf_suansu-pos-ADV.html">ADV</a></tt> (7; 0% instances).
 
 ### `DET`
 
@@ -27,14 +27,14 @@ The most frequent other feature values with which `DET` and `Deixis` co-occurred
 
 ### `PRON`
 
-22 <tt><a href="nmf_suansu-pos-PRON.html">PRON</a></tt> tokens (7% of all `PRON` tokens) have a non-empty value of `Deixis`.
+21 <tt><a href="nmf_suansu-pos-PRON.html">PRON</a></tt> tokens (7% of all `PRON` tokens) have a non-empty value of `Deixis`.
 
-The most frequent other feature values with which `PRON` and `Deixis` co-occurred: <tt><a href="nmf_suansu-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (22; 100%), <tt><a href="nmf_suansu-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (22; 100%), <tt><a href="nmf_suansu-feat-Number.html">Number</a></tt><tt>=Sing</tt> (21; 95%), <tt><a href="nmf_suansu-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (20; 91%).
+The most frequent other feature values with which `PRON` and `Deixis` co-occurred: <tt><a href="nmf_suansu-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (21; 100%), <tt><a href="nmf_suansu-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (21; 100%), <tt><a href="nmf_suansu-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (20; 95%), <tt><a href="nmf_suansu-feat-Number.html">Number</a></tt><tt>=Sing</tt> (20; 95%).
 
 `PRON` tokens may have the following values of `Deixis`:
 
-* `Prox` (5; 23% of non-empty `Deixis`): <em>hadi, Haida</em>
-* `Remt` (17; 77% of non-empty `Deixis`): <em>didi, tye, didinan</em>
+* `Prox` (4; 19% of non-empty `Deixis`): <em>hadi</em>
+* `Remt` (17; 81% of non-empty `Deixis`): <em>didi, tye, didinan</em>
 
 ### `ADV`
 

@@ -12,22 +12,22 @@ It occurs with 3 different values: `Fem`, `Masc`, `Neut`.
 83109 tokens (49%) have a non-empty value of `Gender`.
 25346 types (81%) occur at least once with a non-empty value of `Gender`.
 10219 lemmas (82%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 8 part-of-speech tags: <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (37228; 22% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (13349; 8% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (12204; 7% instances), <tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (8106; 5% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (5388; 3% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (5059; 3% instances), <tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> (1512; 1% instances), <tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> (263; 0% instances).
+The feature is used with 8 part-of-speech tags: <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (37227; 22% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (13349; 8% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (12204; 7% instances), <tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (8106; 5% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (5388; 3% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (5061; 3% instances), <tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> (1512; 1% instances), <tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> (262; 0% instances).
 
 ### `NOUN`
 
-37228 <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> tokens (99% of all `NOUN` tokens) have a non-empty value of `Gender`.
+37227 <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> tokens (99% of all `NOUN` tokens) have a non-empty value of `Gender`.
 
 The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (25891; 70%).
 
 `NOUN` tokens may have the following values of `Gender`:
 
 * `Fem` (11632; 31% of non-empty `Gender`): <em>чети, земли, деревни, гривенок, руку, гривенки, землю, волости, денегъ, грамоту</em>
-* `Masc` (20020; 54% of non-empty `Gender`): <em>день, государь, людей, году, князя, князь, государю, весу, государя, царь</em>
+* `Masc` (20019; 54% of non-empty `Gender`): <em>день, государь, людей, году, князя, князь, государю, весу, государя, царь</em>
 * `Neut` (5576; 15% of non-empty `Gender`): <em>челом, челомъ, села, числа, время, лѣта, имя, лета, село, лѣтъ</em>
 * `EMPTY` (558): <em>г., х., д., де, л., об., с., ден., дес., дер.</em>
 
-`Gender` seems to be **lexical feature** of `NOUN`. 99% lemmas (3490) occur only with one value of `Gender`.
+`Gender` seems to be **lexical feature** of `NOUN`. 99% lemmas (3489) occur only with one value of `Gender`.
 
 ### `ADJ`
 
@@ -159,16 +159,16 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 
 ### `VERB`
 
-5059 <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> tokens (34% of all `VERB` tokens) have a non-empty value of `Gender`.
+5061 <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> tokens (34% of all `VERB` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="orv_rnc-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (5059; 100%), <tt><a href="orv_rnc-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (5053; 100%), <tt><a href="orv_rnc-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (4750; 94%), <tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4471; 88%), <tt><a href="orv_rnc-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (3361; 66%), <tt><a href="orv_rnc-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (3009; 59%), <tt><a href="orv_rnc-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2850; 56%), <tt><a href="orv_rnc-feat-VerbForm.html">VerbForm</a></tt><tt>=PartRes</tt> (2837; 56%), <tt><a href="orv_rnc-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (2679; 53%).
+The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="orv_rnc-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (5061; 100%), <tt><a href="orv_rnc-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (5055; 100%), <tt><a href="orv_rnc-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (4752; 94%), <tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4473; 88%), <tt><a href="orv_rnc-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (3363; 66%), <tt><a href="orv_rnc-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (3011; 59%), <tt><a href="orv_rnc-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2851; 56%), <tt><a href="orv_rnc-feat-VerbForm.html">VerbForm</a></tt><tt>=PartRes</tt> (2838; 56%), <tt><a href="orv_rnc-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (2679; 53%).
 
 `VERB` tokens may have the following values of `Gender`:
 
 * `Fem` (648; 13% of non-empty `Gender`): <em>дала, дана, стала, пришла, была, построены, ходила, писана, послана, сказала</em>
-* `Masc` (3226; 64% of non-empty `Gender`): <em>велел, пожаловал, дал, писал, сказал, велѣлъ, послал, приложил, сказалъ, привез</em>
-* `Neut` (1185; 23% of non-empty `Gender`): <em>смерено, взято, принето, написано, дано, велѣно, велено, умолочено, было, писано</em>
-* `EMPTY` (9794): <em>пришли, бысть, пошли, имати, бью, дати, бьет, нет, будет, взять</em>
+* `Masc` (3227; 64% of non-empty `Gender`): <em>велел, пожаловал, дал, писал, сказал, велѣлъ, послал, приложил, сказалъ, привез</em>
+* `Neut` (1186; 23% of non-empty `Gender`): <em>смерено, взято, принето, написано, дано, велѣно, велено, было, умолочено, писано</em>
+* `EMPTY` (9796): <em>пришли, бысть, пошли, имати, бью, дати, бьет, нет, будет, взять</em>
 
 <table>
   <tr><th>Paradigm <i>велѣти</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
@@ -203,16 +203,16 @@ The most frequent other feature values with which `NUM` and `Gender` co-occurred
 
 ### `AUX`
 
-263 <tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> tokens (18% of all `AUX` tokens) have a non-empty value of `Gender`.
+262 <tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> tokens (18% of all `AUX` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="orv_rnc-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (263; 100%), <tt><a href="orv_rnc-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (263; 100%), <tt><a href="orv_rnc-feat-Analyt.html">Analyt</a></tt><tt>=EMPTY</tt> (255; 97%), <tt><a href="orv_rnc-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (255; 97%), <tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (254; 97%), <tt><a href="orv_rnc-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (251; 95%), <tt><a href="orv_rnc-feat-VerbForm.html">VerbForm</a></tt><tt>=PartRes</tt> (243; 92%).
+The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="orv_rnc-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (262; 100%), <tt><a href="orv_rnc-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (262; 100%), <tt><a href="orv_rnc-feat-Analyt.html">Analyt</a></tt><tt>=EMPTY</tt> (254; 97%), <tt><a href="orv_rnc-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (254; 97%), <tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (253; 97%), <tt><a href="orv_rnc-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (250; 95%), <tt><a href="orv_rnc-feat-VerbForm.html">VerbForm</a></tt><tt>=PartRes</tt> (242; 92%).
 
 `AUX` tokens may have the following values of `Gender`:
 
-* `Fem` (38; 14% of non-empty `Gender`): <em>была, сущия</em>
+* `Fem` (38; 15% of non-empty `Gender`): <em>была, сущия</em>
 * `Masc` (97; 37% of non-empty `Gender`): <em>былъ, был, сущу, бывше, бывшу, бывша, бывши, бывших, бывшіꙗ, сушу</em>
-* `Neut` (128; 49% of non-empty `Gender`): <em>было, былѡ, была, сущемь</em>
-* `EMPTY` (1209): <em>бы, будет, есть, были, есми, бысть, б, будетъ, быти, есмь</em>
+* `Neut` (127; 48% of non-empty `Gender`): <em>было, былѡ, была, сущемь</em>
+* `EMPTY` (1207): <em>бы, будет, есть, были, есми, бысть, б, будетъ, быти, есмь</em>
 
 <table>
   <tr><th>Paradigm <i>быти</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
@@ -238,9 +238,9 @@ The most frequent other feature values with which `AUX` and `Gender` co-occurred
 ## Relations with Agreement in `Gender`
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
-<tt>NOUN --[<tt><a href="orv_rnc-dep-amod.html">amod</a></tt>]--> ADJ</tt> (10622; 98%),
-<tt>NOUN --[<tt><a href="orv_rnc-dep-det.html">det</a></tt>]--> DET</tt> (6380; 99%),
-<tt>NOUN --[<tt><a href="orv_rnc-dep-conj.html">conj</a></tt>]--> NOUN</tt> (3311; 59%),
+<tt>NOUN --[<tt><a href="orv_rnc-dep-amod.html">amod</a></tt>]--> ADJ</tt> (10623; 98%),
+<tt>NOUN --[<tt><a href="orv_rnc-dep-det.html">det</a></tt>]--> DET</tt> (6383; 99%),
+<tt>NOUN --[<tt><a href="orv_rnc-dep-conj.html">conj</a></tt>]--> NOUN</tt> (3313; 59%),
 <tt>PROPN --[<tt><a href="orv_rnc-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (3282; 100%),
 <tt>NOUN --[<tt><a href="orv_rnc-dep-appos.html">appos</a></tt>]--> PROPN</tt> (2831; 90%),
 <tt>NOUN --[<tt><a href="orv_rnc-dep-appos.html">appos</a></tt>]--> NOUN</tt> (1026; 80%),

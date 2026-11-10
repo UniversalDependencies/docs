@@ -16,11 +16,11 @@ Family: IE
 
 This treebank has been part of Universal Dependencies since the UD v2.17 release.
 
-The following people have contributed to making this treebank part of UD: Natalia Romanova, Rayan Ziane, Khensa Daoudi, Théo Brillet.
+The following people have contributed to making this treebank part of UD: Natasha Romanova, Rayan Ziane, Khensa Daoudi, Théo Brillet.
 
 Repository: [UD_Middle_French-ALTM](https://github.com/UniversalDependencies/UD_Middle_French-ALTM)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfrm_altm218)<br />
-Download all treebanks: [UD 2.18](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfrm_altm219)<br />
+Download all treebanks: [UD 2.19](/#download)
 
 License: CC BY-SA 4.0
 

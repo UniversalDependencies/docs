@@ -40,7 +40,7 @@ Examples: <em>karli, maliki, Ngarrka, miyi, kurdu, karnta, ngapa, wawirri, yanki
 
 ## Relations
 
-`NOUN` nodes are attached to their parents using 6 different relations: <tt><a href="wbp_ufal-dep-obj.html">obj</a></tt> (43; 40% instances), <tt><a href="wbp_ufal-dep-nsubj.html">nsubj</a></tt> (41; 38% instances), <tt><a href="wbp_ufal-dep-obl.html">obl</a></tt> (13; 12% instances), <tt><a href="wbp_ufal-dep-iobj.html">iobj</a></tt> (7; 7% instances), <tt><a href="wbp_ufal-dep-nmod-poss.html">nmod:poss</a></tt> (2; 2% instances), <tt><a href="wbp_ufal-dep-obl-tmod.html">obl:tmod</a></tt> (1; 1% instances)
+`NOUN` nodes are attached to their parents using 6 different relations: <tt><a href="wbp_ufal-dep-obj.html">obj</a></tt> (42; 39% instances), <tt><a href="wbp_ufal-dep-nsubj.html">nsubj</a></tt> (41; 38% instances), <tt><a href="wbp_ufal-dep-obl.html">obl</a></tt> (13; 12% instances), <tt><a href="wbp_ufal-dep-iobj.html">iobj</a></tt> (8; 7% instances), <tt><a href="wbp_ufal-dep-nmod-poss.html">nmod:poss</a></tt> (2; 2% instances), <tt><a href="wbp_ufal-dep-obl-tmod.html">obl:tmod</a></tt> (1; 1% instances)
 
 Parents of `NOUN` nodes belong to 2 different parts of speech: <tt><a href="wbp_ufal-pos-VERB.html">VERB</a></tt> (105; 98% instances), <tt><a href="wbp_ufal-pos-NOUN.html">NOUN</a></tt> (2; 2% instances)
 

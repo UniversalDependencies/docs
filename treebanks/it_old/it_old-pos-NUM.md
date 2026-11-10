@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Italian-Old: POS Tags: `NUM`
 
-There are 34 `NUM` lemmas (0%), 43 `NUM` types (0%) and 360 `NUM` tokens (0%).
-Out of 16 observed tags, the rank of `NUM` is: 11 in number of lemmas, 12 in number of types and 13 in number of tokens.
+There are 34 `NUM` lemmas (0%), 43 `NUM` types (0%) and 361 `NUM` tokens (0%).
+Out of 16 observed tags, the rank of `NUM` is: 10 in number of lemmas, 12 in number of types and 13 in number of tokens.
 
-The 10 most frequent `NUM` lemmas: <em>due, tre, mille, sette, quattro, cento, ambo, cinque, dieci, sei</em>
+The 10 most frequent `NUM` lemmas: <em>due, tre, mille, sette, quattro, ambo, cento, cinque, dieci, sei</em>
 
 The 10 most frequent `NUM` types:  <em>due, tre, mille, sette, quattro, ambo, cento, cinque, diece, sei</em>
 
-The 10 most frequent ambiguous lemmas: <em>due</em> (<tt><a href="it_old-pos-NUM.html">NUM</a></tt> 110, <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> 2), <em>tre</em> (<tt><a href="it_old-pos-NUM.html">NUM</a></tt> 78, <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> 2), <em>quattro</em> (<tt><a href="it_old-pos-NUM.html">NUM</a></tt> 20, <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> 1), <em>ambo</em> (<tt><a href="it_old-pos-NUM.html">NUM</a></tt> 16, <tt><a href="it_old-pos-PRON.html">PRON</a></tt> 1), <em>dieci</em> (<tt><a href="it_old-pos-NUM.html">NUM</a></tt> 8, <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> 2), <em>sei</em> (<tt><a href="it_old-pos-NUM.html">NUM</a></tt> 7, <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> 2), <em>ambedue</em> (<tt><a href="it_old-pos-PRON.html">PRON</a></tt> 13, <tt><a href="it_old-pos-DET.html">DET</a></tt> 9, <tt><a href="it_old-pos-NUM.html">NUM</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>due</em> (<tt><a href="it_old-pos-NUM.html">NUM</a></tt> 110, <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> 2), <em>tre</em> (<tt><a href="it_old-pos-NUM.html">NUM</a></tt> 78, <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> 2), <em>quattro</em> (<tt><a href="it_old-pos-NUM.html">NUM</a></tt> 20, <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> 1), <em>dieci</em> (<tt><a href="it_old-pos-NUM.html">NUM</a></tt> 8, <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> 2), <em>sei</em> (<tt><a href="it_old-pos-NUM.html">NUM</a></tt> 7, <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> 2), <em>ambedue</em> (<tt><a href="it_old-pos-PRON.html">PRON</a></tt> 13, <tt><a href="it_old-pos-DET.html">DET</a></tt> 9, <tt><a href="it_old-pos-NUM.html">NUM</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>due</em> (<tt><a href="it_old-pos-NUM.html">NUM</a></tt> 108, <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> 2), <em>tre</em> (<tt><a href="it_old-pos-NUM.html">NUM</a></tt> 72, <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> 2), <em>quattro</em> (<tt><a href="it_old-pos-NUM.html">NUM</a></tt> 19, <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> 1), <em>diece</em> (<tt><a href="it_old-pos-NUM.html">NUM</a></tt> 7, <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> 2), <em>sei</em> (<tt><a href="it_old-pos-NUM.html">NUM</a></tt> 7, <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> 2), <em>nove</em> (<tt><a href="it_old-pos-ADJ.html">ADJ</a></tt> 11, <tt><a href="it_old-pos-NUM.html">NUM</a></tt> 3), <em>ambedue</em> (<tt><a href="it_old-pos-DET.html">DET</a></tt> 3, <tt><a href="it_old-pos-NUM.html">NUM</a></tt> 1, <tt><a href="it_old-pos-PRON.html">PRON</a></tt> 1), <em>nona</em> (<tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="it_old-pos-NUM.html">NUM</a></tt> 1), <em>venti</em> (<tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> 6, <tt><a href="it_old-pos-NUM.html">NUM</a></tt> 1)
 
@@ -49,7 +49,7 @@ The 10 most frequent ambiguous types:  <em>due</em> (<tt><a href="it_old-pos-NUM
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.264706 (the average of all parts of speech is 1.950381).
+The form / lemma ratio of `NUM` is 1.264706 (the average of all parts of speech is 1.951202).
 
 The 1st highest number of forms (3) was observed with the lemma “tre”: <em>tre, tree, trei</em>.
 
@@ -57,22 +57,22 @@ The 2nd highest number of forms (2) was observed with the lemma “cento”: <em
 
 The 3rd highest number of forms (2) was observed with the lemma “cinque”: <em>cinqu', cinque</em>.
 
-`NUM` occurs with 1 features: <tt><a href="it_old-feat-NumType.html">NumType</a></tt> (360; 100% instances)
+`NUM` occurs with 1 features: <tt><a href="it_old-feat-NumType.html">NumType</a></tt> (361; 100% instances)
 
 `NUM` occurs with 1 feature-value pairs: `NumType=Card`
 
 `NUM` occurs with 1 feature combinations.
-The most frequent feature combination is `NumType=Card` (360 tokens).
+The most frequent feature combination is `NumType=Card` (361 tokens).
 Examples: <em>due, tre, mille, sette, quattro, ambo, cento, cinque, diece, sei</em>
 
 
 ## Relations
 
-`NUM` nodes are attached to their parents using 16 different relations: <tt><a href="it_old-dep-nummod.html">nummod</a></tt> (263; 73% instances), <tt><a href="it_old-dep-obj.html">obj</a></tt> (25; 7% instances), <tt><a href="it_old-dep-conj.html">conj</a></tt> (17; 5% instances), <tt><a href="it_old-dep-obl.html">obl</a></tt> (14; 4% instances), <tt><a href="it_old-dep-nsubj.html">nsubj</a></tt> (12; 3% instances), <tt><a href="it_old-dep-flat.html">flat</a></tt> (7; 2% instances), <tt><a href="it_old-dep-nmod.html">nmod</a></tt> (7; 2% instances), <tt><a href="it_old-dep-obl-lmod.html">obl:lmod</a></tt> (4; 1% instances), <tt><a href="it_old-dep-flat-redup.html">flat:redup</a></tt> (2; 1% instances), <tt><a href="it_old-dep-parataxis.html">parataxis</a></tt> (2; 1% instances), <tt><a href="it_old-dep-root.html">root</a></tt> (2; 1% instances), <tt><a href="it_old-dep-acl-relcl.html">acl:relcl</a></tt> (1; 0% instances), <tt><a href="it_old-dep-advcl-cmp.html">advcl:cmp</a></tt> (1; 0% instances), <tt><a href="it_old-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="it_old-dep-obl-agent.html">obl:agent</a></tt> (1; 0% instances), <tt><a href="it_old-dep-obl-arg.html">obl:arg</a></tt> (1; 0% instances)
+`NUM` nodes are attached to their parents using 16 different relations: <tt><a href="it_old-dep-nummod.html">nummod</a></tt> (263; 73% instances), <tt><a href="it_old-dep-obj.html">obj</a></tt> (25; 7% instances), <tt><a href="it_old-dep-conj.html">conj</a></tt> (17; 5% instances), <tt><a href="it_old-dep-obl.html">obl</a></tt> (14; 4% instances), <tt><a href="it_old-dep-nsubj.html">nsubj</a></tt> (13; 4% instances), <tt><a href="it_old-dep-flat.html">flat</a></tt> (7; 2% instances), <tt><a href="it_old-dep-nmod.html">nmod</a></tt> (7; 2% instances), <tt><a href="it_old-dep-obl-lmod.html">obl:lmod</a></tt> (4; 1% instances), <tt><a href="it_old-dep-flat-redup.html">flat:redup</a></tt> (2; 1% instances), <tt><a href="it_old-dep-parataxis.html">parataxis</a></tt> (2; 1% instances), <tt><a href="it_old-dep-root.html">root</a></tt> (2; 1% instances), <tt><a href="it_old-dep-acl-relcl.html">acl:relcl</a></tt> (1; 0% instances), <tt><a href="it_old-dep-advcl-cmp.html">advcl:cmp</a></tt> (1; 0% instances), <tt><a href="it_old-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="it_old-dep-obl-agent.html">obl:agent</a></tt> (1; 0% instances), <tt><a href="it_old-dep-obl-arg.html">obl:arg</a></tt> (1; 0% instances)
 
-Parents of `NUM` nodes belong to 9 different parts of speech: <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> (252; 70% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt> (57; 16% instances), <tt><a href="it_old-pos-NUM.html">NUM</a></tt> (19; 5% instances), <tt><a href="it_old-pos-DET.html">DET</a></tt> (13; 4% instances), <tt><a href="it_old-pos-PRON.html">PRON</a></tt> (8; 2% instances), <tt><a href="it_old-pos-ADV.html">ADV</a></tt> (6; 2% instances), <tt><a href="it_old-pos-ADJ.html">ADJ</a></tt> (2; 1% instances),  (2; 1% instances), <tt><a href="it_old-pos-PROPN.html">PROPN</a></tt> (1; 0% instances)
+Parents of `NUM` nodes belong to 9 different parts of speech: <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> (252; 70% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt> (58; 16% instances), <tt><a href="it_old-pos-NUM.html">NUM</a></tt> (19; 5% instances), <tt><a href="it_old-pos-DET.html">DET</a></tt> (13; 4% instances), <tt><a href="it_old-pos-PRON.html">PRON</a></tt> (8; 2% instances), <tt><a href="it_old-pos-ADV.html">ADV</a></tt> (6; 2% instances), <tt><a href="it_old-pos-ADJ.html">ADJ</a></tt> (2; 1% instances),  (2; 1% instances), <tt><a href="it_old-pos-PROPN.html">PROPN</a></tt> (1; 0% instances)
 
-253 (70%) `NUM` nodes are leaves.
+254 (70%) `NUM` nodes are leaves.
 
 57 (16%) `NUM` nodes have one child.
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-24 nodes (1%) are attached to their parents as `iobj`.
+23 nodes (1%) are attached to their parents as `iobj`.
 
-24 instances of `iobj` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.29166666666667.
+23 instances of `iobj` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.04347826086957.
 
-The following 4 pairs of parts of speech are connected with `iobj`: <tt><a href="nmf_suansu-pos-VERB.html">VERB</a></tt>-<tt><a href="nmf_suansu-pos-NOUN.html">NOUN</a></tt> (13; 54% instances), <tt><a href="nmf_suansu-pos-VERB.html">VERB</a></tt>-<tt><a href="nmf_suansu-pos-PRON.html">PRON</a></tt> (6; 25% instances), <tt><a href="nmf_suansu-pos-VERB.html">VERB</a></tt>-<tt><a href="nmf_suansu-pos-PROPN.html">PROPN</a></tt> (4; 17% instances), <tt><a href="nmf_suansu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nmf_suansu-pos-VERB.html">VERB</a></tt> (1; 4% instances).
+The following 3 pairs of parts of speech are connected with `iobj`: <tt><a href="nmf_suansu-pos-VERB.html">VERB</a></tt>-<tt><a href="nmf_suansu-pos-NOUN.html">NOUN</a></tt> (13; 57% instances), <tt><a href="nmf_suansu-pos-VERB.html">VERB</a></tt>-<tt><a href="nmf_suansu-pos-PRON.html">PRON</a></tt> (6; 26% instances), <tt><a href="nmf_suansu-pos-VERB.html">VERB</a></tt>-<tt><a href="nmf_suansu-pos-PROPN.html">PROPN</a></tt> (4; 17% instances).
 
 
 ~~~ conllu

@@ -22,17 +22,17 @@ The following 79 pairs of parts of speech are connected with `conj`: <tt><a href
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 8 conj	color:blue
-1	#	#	PUNCT	_	_	4	punct	_	AlignBegin=37538|AlignEnd=38229|Gloss=PUNCT
-2	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	AlignBegin=38229|AlignEnd=38317|Gloss=NOM.SG.1
-3	con	con	AUX	_	Aspect=Cons	4	aux	_	AlignBegin=38317|AlignEnd=38577|Gloss=CONS
-4	dey	dey	VERB	_	VerbType=Cop	0	root	_	AlignBegin=38577|AlignEnd=38707|Gloss=be
-5	dere	dere	ADV	_	_	4	xcomp	_	AlignBegin=38707|AlignEnd=38877|Gloss=there
-6	//=	//=	PUNCT	_	_	8	punct	_	AlignBegin=38877|AlignEnd=38877|Gloss=PUNCT
-7	con	con	AUX	_	Aspect=Cons	8	aux	_	AlignBegin=38877|AlignEnd=39107|Gloss=CONS
-8	dey	dey	VERB	_	VerbType=Cop	4	conj	_	AlignBegin=39107|AlignEnd=39229|Gloss=be
-9	help	help	VERB	_	_	8	ccomp	_	AlignBegin=39229|AlignEnd=39417|Gloss=help
-10	am	am	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	9	obj	_	AlignBegin=39417|AlignEnd=39563|Gloss=ACC.SG.3
-11	//	//	PUNCT	_	_	4	punct	_	AlignBegin=39563|AlignEnd=39563|Gloss=PUNCT
+1	#	#	PUNCT	_	_	4	punct	_	Gloss=PUNCT|WordAlignmentBegin=37538|WordAlignmentEnd=38229
+2	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	Gloss=NOM.SG.1|WordAlignmentBegin=38229|WordAlignmentEnd=38317
+3	con	con	AUX	_	Aspect=Cons	4	aux	_	Gloss=CONS|WordAlignmentBegin=38317|WordAlignmentEnd=38577
+4	dey	dey	VERB	_	VerbType=Cop	0	root	_	Gloss=be|WordAlignmentBegin=38577|WordAlignmentEnd=38707
+5	dere	dere	ADV	_	_	4	xcomp	_	Gloss=there|WordAlignmentBegin=38707|WordAlignmentEnd=38877
+6	//=	//=	PUNCT	_	_	8	punct	_	Gloss=PUNCT|WordAlignmentBegin=38877|WordAlignmentEnd=38877
+7	con	con	AUX	_	Aspect=Cons	8	aux	_	Gloss=CONS|WordAlignmentBegin=38877|WordAlignmentEnd=39107
+8	dey	dey	VERB	_	VerbType=Cop	4	conj	_	Gloss=be|WordAlignmentBegin=39107|WordAlignmentEnd=39229
+9	help	help	VERB	_	_	8	ccomp	_	Gloss=help|WordAlignmentBegin=39229|WordAlignmentEnd=39417
+10	am	am	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	9	obj	_	Gloss=ACC.SG.3|WordAlignmentBegin=39417|WordAlignmentEnd=39563
+11	//	//	PUNCT	_	_	4	punct	_	Gloss=PUNCT|WordAlignmentBegin=39563|WordAlignmentEnd=39563
 
 ~~~
 
@@ -43,20 +43,20 @@ The following 79 pairs of parts of speech are connected with `conj`: <tt><a href
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 12 conj	color:blue
-1	#	#	PUNCT	_	_	4	punct	_	AlignBegin=240327|AlignEnd=240875|Gloss=PUNCT
-2	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	AlignBegin=240875|AlignEnd=241060|Gloss=NOM.SG.1
-3	con	con	AUX	_	Aspect=Cons	4	aux	_	AlignBegin=241060|AlignEnd=241265|Gloss=CONS
-4	sabi	sabi	VERB	_	_	0	root	_	AlignBegin=241265|AlignEnd=241595|Gloss=know
-5	{	{	PUNCT	_	_	7	punct	_	AlignBegin=241595|AlignEnd=241595|Gloss=PUNCT
-6	di	di	DET	_	Definite=Def|PronType=Art	7	det	_	AlignBegin=241595|AlignEnd=241725|Gloss=DEF.ART
-7	work	work	NOUN	_	_	4	obj	_	AlignBegin=241725|AlignEnd=242025|Gloss=work
-8	now	now	ADV	_	_	4	advmod	_	AlignBegin=242025|AlignEnd=242296|Gloss=now
-9	|c	|c	PUNCT	_	_	12	punct	_	AlignBegin=242296|AlignEnd=242296|Gloss=PUNCT
-10	#	#	PUNCT	_	_	12	punct	_	AlignBegin=242296|AlignEnd=242550|Gloss=PUNCT
-11	and	and	CCONJ	_	_	12	cc	_	AlignBegin=242550|AlignEnd=242735|Gloss=and
-12	money	money	NOUN	_	_	7	conj	_	AlignBegin=242735|AlignEnd=243055|Gloss=money
-13	}	}	PUNCT	_	_	12	punct	_	AlignBegin=243055|AlignEnd=243055|Gloss=PUNCT
-14	//	//	PUNCT	_	_	4	punct	_	AlignBegin=243025|AlignEnd=243055|Gloss=PUNCT
+1	#	#	PUNCT	_	_	4	punct	_	Gloss=PUNCT|WordAlignmentBegin=240327|WordAlignmentEnd=240875
+2	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	Gloss=NOM.SG.1|WordAlignmentBegin=240875|WordAlignmentEnd=241060
+3	con	con	AUX	_	Aspect=Cons	4	aux	_	Gloss=CONS|WordAlignmentBegin=241060|WordAlignmentEnd=241265
+4	sabi	sabi	VERB	_	_	0	root	_	Gloss=know|WordAlignmentBegin=241265|WordAlignmentEnd=241595
+5	{	{	PUNCT	_	_	7	punct	_	Gloss=PUNCT|WordAlignmentBegin=241595|WordAlignmentEnd=241595
+6	di	di	DET	_	Definite=Def|PronType=Art	7	det	_	Gloss=DEF.ART|WordAlignmentBegin=241595|WordAlignmentEnd=241725
+7	work	work	NOUN	_	_	4	obj	_	Gloss=work|WordAlignmentBegin=241725|WordAlignmentEnd=242025
+8	now	now	ADV	_	_	4	advmod	_	Gloss=now|WordAlignmentBegin=242025|WordAlignmentEnd=242296
+9	|c	|c	PUNCT	_	_	12	punct	_	Gloss=PUNCT|WordAlignmentBegin=242296|WordAlignmentEnd=242296
+10	#	#	PUNCT	_	_	12	punct	_	Gloss=PUNCT|WordAlignmentBegin=242296|WordAlignmentEnd=242550
+11	and	and	CCONJ	_	_	12	cc	_	Gloss=and|WordAlignmentBegin=242550|WordAlignmentEnd=242735
+12	money	money	NOUN	_	_	7	conj	_	Gloss=money|WordAlignmentBegin=242735|WordAlignmentEnd=243055
+13	}	}	PUNCT	_	_	12	punct	_	Gloss=PUNCT|WordAlignmentBegin=243055|WordAlignmentEnd=243055
+14	//	//	PUNCT	_	_	4	punct	_	Gloss=PUNCT|WordAlignmentBegin=243025|WordAlignmentEnd=243055
 
 ~~~
 
@@ -67,22 +67,22 @@ The following 79 pairs of parts of speech are connected with `conj`: <tt><a href
 # visual-style 13	bgColor:blue
 # visual-style 13	fgColor:white
 # visual-style 13 15 conj	color:blue
-1	#	#	PUNCT	_	_	5	punct	_	AlignBegin=73066|AlignEnd=73583|Gloss=PUNCT
-2	so	so	ADV	_	_	5	discourse	_	AlignBegin=73583|AlignEnd=73676|Gloss=so
-3	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	AlignBegin=73676|AlignEnd=73789|Gloss=NOM.SG.1
-4	con	con	AUX	_	Aspect=Cons	5	aux	_	AlignBegin=73789|AlignEnd=74049|Gloss=CONS
-5	go	go	VERB	_	_	0	root	_	AlignBegin=74049|AlignEnd=74199|Gloss=go
-6	school	school	NOUN	_	_	5	obl:arg	_	AlignBegin=74199|AlignEnd=74889|Gloss=school
-7	o	o	PART	_	PartType=Disc	5	advmod	_	AlignBegin=74889|AlignEnd=75129|Gloss=EMPH
-8	//=	//=	PUNCT	_	_	10	punct	_	AlignBegin=75129|AlignEnd=75129|Gloss=PUNCT
-9	con	con	AUX	_	Aspect=Cons	10	aux	_	AlignBegin=75129|AlignEnd=75395|Gloss=CONS
-10	reach	reach	VERB	_	_	5	parataxis:conj	_	AlignBegin=75395|AlignEnd=75644|Gloss=reach
-11	#	#	PUNCT	_	_	12	punct	_	AlignBegin=75644|AlignEnd=75949|Gloss=PUNCT
-12	two	two	NUM	_	NumType=Card	10	obj	_	AlignBegin=75949|AlignEnd=76029|Gloss=two.CARD
-13	thousand	thousand	NUM	_	NumType=Card	12	flat	_	AlignBegin=76029|AlignEnd=76379|Gloss=thousand.CARD
-14	and	and	CCONJ	_	_	15	cc	_	AlignBegin=76379|AlignEnd=76639|Gloss=and
-15	eight	eight	NUM	_	NumType=Card	13	conj	_	AlignBegin=76639|AlignEnd=76821|Gloss=eight.CARD
-16	//	//	PUNCT	_	_	5	punct	_	AlignBegin=76821|AlignEnd=76821|Gloss=PUNCT
+1	#	#	PUNCT	_	_	5	punct	_	Gloss=PUNCT|WordAlignmentBegin=73066|WordAlignmentEnd=73583
+2	so	so	ADV	_	_	5	discourse	_	Gloss=so|WordAlignmentBegin=73583|WordAlignmentEnd=73676
+3	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	Gloss=NOM.SG.1|WordAlignmentBegin=73676|WordAlignmentEnd=73789
+4	con	con	AUX	_	Aspect=Cons	5	aux	_	Gloss=CONS|WordAlignmentBegin=73789|WordAlignmentEnd=74049
+5	go	go	VERB	_	_	0	root	_	Gloss=go|WordAlignmentBegin=74049|WordAlignmentEnd=74199
+6	school	school	NOUN	_	_	5	obl:arg	_	Gloss=school|WordAlignmentBegin=74199|WordAlignmentEnd=74889
+7	o	o	PART	_	PartType=Disc	5	advmod	_	Gloss=EMPH|WordAlignmentBegin=74889|WordAlignmentEnd=75129
+8	//=	//=	PUNCT	_	_	10	punct	_	Gloss=PUNCT|WordAlignmentBegin=75129|WordAlignmentEnd=75129
+9	con	con	AUX	_	Aspect=Cons	10	aux	_	Gloss=CONS|WordAlignmentBegin=75129|WordAlignmentEnd=75395
+10	reach	reach	VERB	_	_	5	parataxis:conj	_	Gloss=reach|WordAlignmentBegin=75395|WordAlignmentEnd=75644
+11	#	#	PUNCT	_	_	12	punct	_	Gloss=PUNCT|WordAlignmentBegin=75644|WordAlignmentEnd=75949
+12	two	two	NUM	_	NumType=Card	10	obj	_	Gloss=two.CARD|WordAlignmentBegin=75949|WordAlignmentEnd=76029
+13	thousand	thousand	NUM	_	NumType=Card	12	flat	_	Gloss=thousand.CARD|WordAlignmentBegin=76029|WordAlignmentEnd=76379
+14	and	and	CCONJ	_	_	15	cc	_	Gloss=and|WordAlignmentBegin=76379|WordAlignmentEnd=76639
+15	eight	eight	NUM	_	NumType=Card	13	conj	_	Gloss=eight.CARD|WordAlignmentBegin=76639|WordAlignmentEnd=76821
+16	//	//	PUNCT	_	_	5	punct	_	Gloss=PUNCT|WordAlignmentBegin=76821|WordAlignmentEnd=76821
 
 ~~~
 

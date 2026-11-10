@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="pl_mpdt-dep-amod.html">amod</a></tt>.
 
-46 nodes (0%) are attached to their parents as `amod:flat`.
+55 nodes (0%) are attached to their parents as `amod:flat`.
 
-38 instances of `amod:flat` (83%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.08695652173913.
+46 instances of `amod:flat` (84%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.10909090909091.
 
-The following 3 pairs of parts of speech are connected with `amod:flat`: <tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_mpdt-pos-ADJ.html">ADJ</a></tt> (24; 52% instances), <tt><a href="pl_mpdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pl_mpdt-pos-ADJ.html">ADJ</a></tt> (20; 43% instances), <tt><a href="pl_mpdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_mpdt-pos-ADJ.html">ADJ</a></tt> (2; 4% instances).
+The following 3 pairs of parts of speech are connected with `amod:flat`: <tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_mpdt-pos-ADJ.html">ADJ</a></tt> (30; 55% instances), <tt><a href="pl_mpdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pl_mpdt-pos-ADJ.html">ADJ</a></tt> (23; 42% instances), <tt><a href="pl_mpdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_mpdt-pos-ADJ.html">ADJ</a></tt> (2; 4% instances).
 
 
 ~~~ conllu
@@ -24,14 +24,14 @@ The following 3 pairs of parts of speech are connected with `amod:flat`: <tt><a 
 # visual-style 1 2 amod:flat	color:blue
 1	Starostwo	starostwo	NOUN	subst:sg:nom:n	Case=Nom|Gender=Neut|Number=Sing	0	root	0:root	Translit=Starostwo
 2	Sochaczewskie	sochaczewski	ADJ	adj:sg:nom:n:pos	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	1	amod:flat	1:amod:flat	Translit=Sochaczewskie
-3	fl	floren	ADV	brev:pun	Abbr=Yes	5	dep	5:dep	SpaceAfter=No|Translit=fl
+3	fl	floren	NOUN	brev:pun	Abbr=Yes	1	orphan	1:orphan	SpaceAfter=No|Translit=fl
 4	.	.	PUNCT	interp	PunctType=Peri	3	punct	3:punct	Translit=.
-5	2000	2000	NUM	dig	NumForm=Digit	1	orphan	1:orphan	SpaceAfter=No|Translit=2000
-6	.	.	PUNCT	interp	PunctType=Peri	5	punct	5:punct	Translit=.
-7	i	i	CCONJ	conj	_	8	cc	8:cc	Translit=v
-8	20	20	NUM	dig	NumForm=Digit	5	conj	1:orphan|5:conj	SpaceAfter=No|Translit=20
-9	.	.	PUNCT	interp	PunctType=Peri	8	punct	8:punct	Translit=.
-10	Jałowic	jałowica	NOUN	subst:pl:gen:f	Case=Gen|Gender=Fem|Number=Plur	8	nmod:arg	8:nmod:arg	SpaceAfter=No|Translit=Iałowic
+5	2000	2000	NUM	dig	NumForm=Digit	3	nummod	3:nummod	SpaceAfter=No|Translit=2000
+6	.	.	PUNCT	interp	PunctType=Peri	3	punct	3:punct	Translit=.
+7	i	i	CCONJ	conj	_	10	cc	10:cc	Translit=v
+8	20	20	NUM	dig	NumForm=Digit	10	nummod	10:nummod	SpaceAfter=No|Translit=20
+9	.	.	PUNCT	interp	PunctType=Peri	10	punct	10:punct	Translit=.
+10	Jałowic	jałowica	NOUN	subst:pl:gen:f	Case=Gen|Gender=Fem|Number=Plur	3	conj	1:orphan|3:conj	SpaceAfter=No|Translit=Iałowic
 11	.	.	PUNCT	interp	PunctType=Peri	1	punct	1:punct	Translit=.
 
 ~~~
@@ -73,7 +73,7 @@ The following 3 pairs of parts of speech are connected with `amod:flat`: <tt><a 
 7	trzeciego	trzeci	ADJ	adjnum:sg:gen:m:pos	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|NumType=Ord	6	amod:flat	6:amod:flat	Translit=trzećiego
 8	w	w	ADP	prep:loc:nwok	AdpType=Prep|Variant=Short	9	case	9:case	Case=Loc|Translit=w
 9	Sublaku	Sublak	PROPN	subst:sg:loc:m	Case=Loc|Gender=Masc|Number=Sing	10	obl	10:obl	Translit=Sublaku
-10	ofiarowani	ofiarować	ADJ	ppas:pl:nom:manim1:biasp:aff:pos	Animacy=Hum|Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos|VerbForm=Part|Voice=Pass	0	root	0:root	Translit=ofiárowáni
+10	ofiarowani	ofiarować	ADJ	ppas:pl:nom:manim1:biasp:aff:pos	Animacy=Hum|Aspect=Imp,Perf|Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos|VerbForm=Part|Voice=Pass	0	root	0:root	Translit=ofiárowáni
 11	są	być	AUX	fin:pl:ter:imperf	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	aux:pass	10:aux:pass	Translit=są
 12	do	do	ADP	prep:gen	AdpType=Prep	13	case	13:case	Case=Gen|Translit=do
 13	Zakonu	zakon	NOUN	subst:sg:gen:m	Case=Gen|Gender=Masc|Number=Sing	10	obl	10:obl	Translit=Zakonu

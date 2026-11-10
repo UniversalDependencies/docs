@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-359 nodes (8%) are attached to their parents as `obj`.
+348 nodes (7%) are attached to their parents as `obj`.
 
-245 instances of `obj` (68%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.05013927576602.
+242 instances of `obj` (70%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.13505747126437.
 
-The following 13 pairs of parts of speech are connected with `obj`: <tt><a href="zh_patentchar-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_patentchar-pos-NOUN.html">NOUN</a></tt> (264; 74% instances), <tt><a href="zh_patentchar-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_patentchar-pos-NOUN.html">NOUN</a></tt> (76; 21% instances), <tt><a href="zh_patentchar-pos-ADJ.html">ADJ</a></tt>-<tt><a href="zh_patentchar-pos-NOUN.html">NOUN</a></tt> (5; 1% instances), <tt><a href="zh_patentchar-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_patentchar-pos-ADJ.html">ADJ</a></tt> (4; 1% instances), <tt><a href="zh_patentchar-pos-PRON.html">PRON</a></tt>-<tt><a href="zh_patentchar-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="zh_patentchar-pos-ADV.html">ADV</a></tt>-<tt><a href="zh_patentchar-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="zh_patentchar-pos-AUX.html">AUX</a></tt>-<tt><a href="zh_patentchar-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="zh_patentchar-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_patentchar-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="zh_patentchar-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_patentchar-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="zh_patentchar-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_patentchar-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="zh_patentchar-pos-PROPN.html">PROPN</a></tt>-<tt><a href="zh_patentchar-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="zh_patentchar-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_patentchar-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="zh_patentchar-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_patentchar-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+The following 12 pairs of parts of speech are connected with `obj`: <tt><a href="zh_patentchar-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_patentchar-pos-NOUN.html">NOUN</a></tt> (255; 73% instances), <tt><a href="zh_patentchar-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_patentchar-pos-NOUN.html">NOUN</a></tt> (76; 22% instances), <tt><a href="zh_patentchar-pos-ADJ.html">ADJ</a></tt>-<tt><a href="zh_patentchar-pos-NOUN.html">NOUN</a></tt> (4; 1% instances), <tt><a href="zh_patentchar-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_patentchar-pos-ADJ.html">ADJ</a></tt> (4; 1% instances), <tt><a href="zh_patentchar-pos-PRON.html">PRON</a></tt>-<tt><a href="zh_patentchar-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="zh_patentchar-pos-ADV.html">ADV</a></tt>-<tt><a href="zh_patentchar-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="zh_patentchar-pos-AUX.html">AUX</a></tt>-<tt><a href="zh_patentchar-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="zh_patentchar-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_patentchar-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="zh_patentchar-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_patentchar-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="zh_patentchar-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_patentchar-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="zh_patentchar-pos-PROPN.html">PROPN</a></tt>-<tt><a href="zh_patentchar-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="zh_patentchar-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_patentchar-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -93,7 +93,7 @@ The following 13 pairs of parts of speech are connected with `obj`: <tt><a href=
 17	时	_	NOUN	_	_	19	obl	_	Gloss=_|SpaceAfter=No|Translit=shí
 18	，	_	PUNCT	_	_	17	punct	_	Gloss=_|SpaceAfter=No|Translit=，
 19	停止	_	VERB	_	_	0	root	_	Gloss=_|SpaceAfter=No|Translit=tíng_zhǐ
-20	将	_	PART	_	_	26	case	_	Gloss=_|SpaceAfter=No|Translit=jiāng
+20	将	_	PART	_	_	27	mark	_	Gloss=_|SpaceAfter=No|Translit=jiāng
 21	所述	_	ADJ	_	_	23	amod	_	Gloss=_|SpaceAfter=No|Translit=suǒ_shù
 22	第一	_	NUM	_	_	23	nummod	_	Gloss=_|SpaceAfter=No|Translit=dì_yī
 23	镜像	_	NOUN	_	_	24	obj	_	Gloss=_|SpaceAfter=No|Translit=jìng_xiàng

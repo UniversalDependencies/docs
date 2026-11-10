@@ -26,7 +26,7 @@ The following 8 pairs of parts of speech are connected with `expl`: <tt><a href=
 2	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	3:nsubj|4:nsubj:xsubj	Entity=(5-person-giv:inact-sssss-cf1-1-ana)
 3	go	go	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 4	thinking	think	VERB	VBG	VerbForm=Ger	3	xcomp	3:xcomp	MSeg=think-ing
-5	again	again	ADV	RB	Degree=Pos	3	advmod	3:advmod	SpaceAfter=No
+5	again	again	ADV	RB	_	3	advmod	3:advmod	SpaceAfter=No
 6	.	.	PUNCT	.	_	3	punct	3:punct	_
 
 ~~~

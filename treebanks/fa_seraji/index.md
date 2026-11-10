@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.1 release.
 The following people have contributed to making this treebank part of UD: Mojgan Seraji, Filip Ginter, Joakim Nivre, Martin Popel, Daniel Zeman, Minoo Nassajian.
 
 Repository: [UD_Persian-Seraji](https://github.com/UniversalDependencies/UD_Persian-Seraji)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfa_seraji218)<br />
-Download all treebanks: [UD 2.18](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfa_seraji219)<br />
+Download all treebanks: [UD 2.19](/#download)
 
 License: CC BY-SA 4.0
 
@@ -77,11 +77,11 @@ The conversion of the UPDT to the Persian UD has been performed by Mojgan Seraji
 
 ## Features
 
-[Case](fa_seraji-feat-Case.html) – [Degree](fa_seraji-feat-Degree.html) – [Mood](fa_seraji-feat-Mood.html) – [Number](fa_seraji-feat-Number.html) – [NumType](fa_seraji-feat-NumType.html) – [Person](fa_seraji-feat-Person.html) – [Polarity](fa_seraji-feat-Polarity.html) – [PronType](fa_seraji-feat-PronType.html) – [Reflex](fa_seraji-feat-Reflex.html) – [Tense](fa_seraji-feat-Tense.html) – [VerbForm](fa_seraji-feat-VerbForm.html)
+[Case](fa_seraji-feat-Case.html) – [Degree](fa_seraji-feat-Degree.html) – [ExtPos](fa_seraji-feat-ExtPos.html) – [Mood](fa_seraji-feat-Mood.html) – [Number](fa_seraji-feat-Number.html) – [NumType](fa_seraji-feat-NumType.html) – [Person](fa_seraji-feat-Person.html) – [Polarity](fa_seraji-feat-Polarity.html) – [PronType](fa_seraji-feat-PronType.html) – [Reflex](fa_seraji-feat-Reflex.html) – [Tense](fa_seraji-feat-Tense.html) – [VerbForm](fa_seraji-feat-VerbForm.html)
 
 ## Relations
 
-[acl](fa_seraji-dep-acl.html) – [acl:relcl](fa_seraji-dep-acl-relcl.html) – [advcl](fa_seraji-dep-advcl.html) – [advmod](fa_seraji-dep-advmod.html) – [amod](fa_seraji-dep-amod.html) – [appos](fa_seraji-dep-appos.html) – [aux](fa_seraji-dep-aux.html) – [aux:pass](fa_seraji-dep-aux-pass.html) – [case](fa_seraji-dep-case.html) – [cc](fa_seraji-dep-cc.html) – [cc:preconj](fa_seraji-dep-cc-preconj.html) – [ccomp](fa_seraji-dep-ccomp.html) – [compound](fa_seraji-dep-compound.html) – [compound:lvc](fa_seraji-dep-compound-lvc.html) – [compound:prt](fa_seraji-dep-compound-prt.html) – [conj](fa_seraji-dep-conj.html) – [cop](fa_seraji-dep-cop.html) – [dep](fa_seraji-dep-dep.html) – [det](fa_seraji-dep-det.html) – [det:predet](fa_seraji-dep-det-predet.html) – [discourse](fa_seraji-dep-discourse.html) – [dislocated](fa_seraji-dep-dislocated.html) – [fixed](fa_seraji-dep-fixed.html) – [flat](fa_seraji-dep-flat.html) – [flat:foreign](fa_seraji-dep-flat-foreign.html) – [mark](fa_seraji-dep-mark.html) – [nmod](fa_seraji-dep-nmod.html) – [nmod:poss](fa_seraji-dep-nmod-poss.html) – [nsubj](fa_seraji-dep-nsubj.html) – [nsubj:nc](fa_seraji-dep-nsubj-nc.html) – [nsubj:pass](fa_seraji-dep-nsubj-pass.html) – [nummod](fa_seraji-dep-nummod.html) – [obj](fa_seraji-dep-obj.html) – [obl](fa_seraji-dep-obl.html) – [parataxis](fa_seraji-dep-parataxis.html) – [punct](fa_seraji-dep-punct.html) – [root](fa_seraji-dep-root.html) – [vocative](fa_seraji-dep-vocative.html) – [xcomp](fa_seraji-dep-xcomp.html)
+[acl](fa_seraji-dep-acl.html) – [acl:relcl](fa_seraji-dep-acl-relcl.html) – [advcl](fa_seraji-dep-advcl.html) – [advmod](fa_seraji-dep-advmod.html) – [amod](fa_seraji-dep-amod.html) – [appos](fa_seraji-dep-appos.html) – [aux](fa_seraji-dep-aux.html) – [aux:pass](fa_seraji-dep-aux-pass.html) – [case](fa_seraji-dep-case.html) – [cc](fa_seraji-dep-cc.html) – [cc:preconj](fa_seraji-dep-cc-preconj.html) – [ccomp](fa_seraji-dep-ccomp.html) – [compound](fa_seraji-dep-compound.html) – [compound:lvc](fa_seraji-dep-compound-lvc.html) – [compound:prt](fa_seraji-dep-compound-prt.html) – [conj](fa_seraji-dep-conj.html) – [cop](fa_seraji-dep-cop.html) – [dep](fa_seraji-dep-dep.html) – [det](fa_seraji-dep-det.html) – [det:predet](fa_seraji-dep-det-predet.html) – [discourse](fa_seraji-dep-discourse.html) – [dislocated](fa_seraji-dep-dislocated.html) – [fixed](fa_seraji-dep-fixed.html) – [flat](fa_seraji-dep-flat.html) – [flat:foreign](fa_seraji-dep-flat-foreign.html) – [iobj](fa_seraji-dep-iobj.html) – [mark](fa_seraji-dep-mark.html) – [nmod](fa_seraji-dep-nmod.html) – [nmod:poss](fa_seraji-dep-nmod-poss.html) – [nsubj](fa_seraji-dep-nsubj.html) – [nsubj:nc](fa_seraji-dep-nsubj-nc.html) – [nsubj:outer](fa_seraji-dep-nsubj-outer.html) – [nsubj:pass](fa_seraji-dep-nsubj-pass.html) – [nummod](fa_seraji-dep-nummod.html) – [obj](fa_seraji-dep-obj.html) – [obl](fa_seraji-dep-obl.html) – [parataxis](fa_seraji-dep-parataxis.html) – [punct](fa_seraji-dep-punct.html) – [reparandum](fa_seraji-dep-reparandum.html) – [root](fa_seraji-dep-root.html) – [vocative](fa_seraji-dep-vocative.html) – [xcomp](fa_seraji-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -523,6 +523,18 @@ The conversion of the UPDT to the Persian UD has been performed by Mojgan Seraji
 <h3>Other Features</h3>
 
 
+<ul>
+  <li><a>ExtPos</a>
+    <ul>
+      <li>ADV
+        <ul>
+          <li>PRON: آن</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
 <h2>Syntax</h2>
 
 <h3>Auxiliary Verbs and Copula</h3>
@@ -542,17 +554,16 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN (3513)</li>
-      <li>VERB--NOUN-ADP(ای) (2)</li>
-      <li>VERB--NOUN-ADP(را) (8)</li>
-      <li>VERB--PRON (774)</li>
-      <li>VERB-Fin--NOUN (463)</li>
+      <li>VERB--NOUN (3471)</li>
+      <li>VERB--NOUN-ADP(را) (4)</li>
+      <li>VERB--PRON (767)</li>
+      <li>VERB-Fin--NOUN (458)</li>
       <li>VERB-Fin--NOUN-ADP(ای) (1)</li>
       <li>VERB-Fin--NOUN-ADP(را) (2)</li>
-      <li>VERB-Fin--PRON (130)</li>
+      <li>VERB-Fin--PRON (131)</li>
       <li>VERB-Fin--PRON-ADP(را) (1)</li>
-      <li>VERB-Part--NOUN (820)</li>
-      <li>VERB-Part--PRON (118)</li>
+      <li>VERB-Part--NOUN (817)</li>
+      <li>VERB-Part--PRON (117)</li>
       <li>VERB-Part--PRON-ADP(را) (1)</li>
     </ul>
   </li>
@@ -561,8 +572,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN (813)</li>
-      <li>VERB--NOUN-ADP(را) (1172)</li>
+      <li>VERB--NOUN (826)</li>
+      <li>VERB--NOUN-ADP(را) (1176)</li>
       <li>VERB--PRON (21)</li>
       <li>VERB--PRON-ADP(را) (175)</li>
       <li>VERB-Fin--NOUN (234)</li>
@@ -572,7 +583,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--PRON (9)</li>
       <li>VERB-Fin--PRON-ADP(را) (85)</li>
       <li>VERB-Part--NOUN (220)</li>
-      <li>VERB-Part--NOUN-ADP(را) (332)</li>
+      <li>VERB-Part--NOUN-ADP(را) (333)</li>
       <li>VERB-Part--PRON (6)</li>
       <li>VERB-Part--PRON-ADP(را) (35)</li>
     </ul>
@@ -582,6 +593,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
+      <li>VERB-Part--NOUN (1)</li>
     </ul>
   </li>
 </ul>
@@ -597,6 +609,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 10 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>cc:preconj</a>, <a>compound:lvc</a>, <a>compound:prt</a>, <a>det:predet</a>, <a>flat:foreign</a>, <a>nmod:poss</a>, <a>nsubj:nc</a>, <a>nsubj:pass</a></li>
-<li>The following 8 relation types are not used in this corpus at all: <a>iobj</a>, <a>csubj</a>, <a>expl</a>, <a>clf</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
+<li>This corpus uses 11 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>cc:preconj</a>, <a>compound:lvc</a>, <a>compound:prt</a>, <a>det:predet</a>, <a>flat:foreign</a>, <a>nmod:poss</a>, <a>nsubj:nc</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a></li>
+<li>The following 6 relation types are not used in this corpus at all: <a>csubj</a>, <a>expl</a>, <a>clf</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a></li>
 </ul>

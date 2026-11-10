@@ -54,6 +54,8 @@ The most frequent other feature values with which `AUX` and `ExtPos` co-occurred
 
 2 <tt><a href="mdf_jr-pos-SCONJ.html">SCONJ</a></tt> tokens (8% of all `SCONJ` tokens) have a non-empty value of `ExtPos`.
 
+The most frequent other feature values with which `SCONJ` and `ExtPos` co-occurred: <tt><a href="mdf_jr-feat-ConjType.html">ConjType</a></tt><tt>=EMPTY</tt> (2; 100%).
+
 `SCONJ` tokens may have the following values of `ExtPos`:
 
 * `ADV` (2; 100% of non-empty `ExtPos`): <em>што</em>

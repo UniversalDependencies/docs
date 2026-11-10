@@ -12,19 +12,19 @@ It occurs with 3 different values: `1`, `2`, `3`.
 32637 tokens (12%) have a non-empty value of `Person`.
 4124 types (17%) occur at least once with a non-empty value of `Person`.
 1570 lemmas (10%) occur at least once with a non-empty value of `Person`.
-The feature is used with 4 part-of-speech tags: <tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> (21244; 8% instances), <tt><a href="ar_padt-pos-PRON.html">PRON</a></tt> (10877; 4% instances), <tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> (503; 0% instances), <tt><a href="ar_padt-pos-DET.html">DET</a></tt> (13; 0% instances).
+The feature is used with 4 part-of-speech tags: <tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> (21245; 8% instances), <tt><a href="ar_padt-pos-PRON.html">PRON</a></tt> (10877; 4% instances), <tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> (502; 0% instances), <tt><a href="ar_padt-pos-DET.html">DET</a></tt> (13; 0% instances).
 
 ### `VERB`
 
-21244 <tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `Person`.
+21245 <tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="ar_padt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (20020; 94%), <tt><a href="ar_padt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (19810; 93%), <tt><a href="ar_padt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (13410; 63%), <tt><a href="ar_padt-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (11215; 53%), <tt><a href="ar_padt-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (11215; 53%), <tt><a href="ar_padt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (11215; 53%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="ar_padt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (20021; 94%), <tt><a href="ar_padt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (19811; 93%), <tt><a href="ar_padt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (13410; 63%), <tt><a href="ar_padt-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (11215; 53%), <tt><a href="ar_padt-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (11215; 53%), <tt><a href="ar_padt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (11215; 53%).
 
 `VERB` tokens may have the following values of `Person`:
 
 * `1` (228; 1% of non-empty `Person`): نرى، نريد، نجد، نستورد، نعرف، نقول، أعتقد، أعلن، أقول، أكون
 * `2` (116; 1% of non-empty `Person`): تحب، تواجه، تتجنب، تتعرض، تجد، تحصل، تخليتم، تبلي، تتوقع، تدع
-* `3` (20900; 98% of non-empty `Person`): قال، كان، أضاف، كانت، تم، أكد، يتم، يمكن، أشار، أوضح
+* `3` (20901; 98% of non-empty `Person`): قال، كان، أضاف، كانت، تم، أكد، يتم، يمكن، أشار، أوضح
 * `EMPTY` (52): حاول، د، دعوا، حث، ابحث، احرص، اخدموا، افتحوا، اكسون، انتبه
 
 <table>
@@ -82,16 +82,16 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 
 ### `AUX`
 
-503 <tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> tokens (23% of all `AUX` tokens) have a non-empty value of `Person`.
+502 <tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> tokens (24% of all `AUX` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="ar_padt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (503; 100%), <tt><a href="ar_padt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (488; 97%), <tt><a href="ar_padt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (326; 65%), <tt><a href="ar_padt-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (308; 61%).
+The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="ar_padt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (502; 100%), <tt><a href="ar_padt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (487; 97%), <tt><a href="ar_padt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (326; 65%), <tt><a href="ar_padt-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (308; 61%).
 
 `AUX` tokens may have the following values of `Person`:
 
 * `1` (8; 2% of non-empty `Person`): كنت، لسنا، أكون، اكون، نكون
 * `2` (3; 1% of non-empty `Person`): تكونون، تكون
-* `3` (492; 98% of non-empty `Person`): كان، يكون، ليس، تكون، كانت، ليست، يكن، تكن، كانوا، تعد
-* `EMPTY` (1651): س، قد، سوف، ما، هل، ربما، أ، كن، علّ، لقد
+* `3` (491; 98% of non-empty `Person`): كان، يكون، ليس، تكون، كانت، ليست، يكن، تكن، كانوا، ليسوا
+* `EMPTY` (1630): س، قد، سوف، ما، ربما، كن، علّ، لقد
 
 <table>
   <tr><th>Paradigm <i>كَان</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -124,14 +124,14 @@ The most frequent other feature values with which `DET` and `Person` co-occurred
 ## Relations with Agreement in `Person`
 
 The 10 most frequent relations where parent and child node agree in `Person`:
-<tt>VERB --[<tt><a href="ar_padt-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (2545; 97%),
-<tt>VERB --[<tt><a href="ar_padt-dep-conj.html">conj</a></tt>]--> VERB</tt> (2532; 98%),
+<tt>VERB --[<tt><a href="ar_padt-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (2544; 97%),
+<tt>VERB --[<tt><a href="ar_padt-dep-conj.html">conj</a></tt>]--> VERB</tt> (2531; 98%),
 <tt>VERB --[<tt><a href="ar_padt-dep-obj.html">obj</a></tt>]--> PRON</tt> (1225; 90%),
-<tt>VERB --[<tt><a href="ar_padt-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (1085; 97%),
+<tt>VERB --[<tt><a href="ar_padt-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (1086; 97%),
 <tt>VERB --[<tt><a href="ar_padt-dep-obl-arg.html">obl:arg</a></tt>]--> PRON</tt> (662; 90%),
 <tt>VERB --[<tt><a href="ar_padt-dep-advcl-pred.html">advcl:pred</a></tt>]--> VERB</tt> (646; 100%),
 <tt>VERB --[<tt><a href="ar_padt-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (642; 100%),
-<tt>VERB --[<tt><a href="ar_padt-dep-obl.html">obl</a></tt>]--> PRON</tt> (385; 96%),
+<tt>VERB --[<tt><a href="ar_padt-dep-obl.html">obl</a></tt>]--> PRON</tt> (384; 96%),
 <tt>VERB --[<tt><a href="ar_padt-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (260; 96%),
 <tt>VERB --[<tt><a href="ar_padt-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (248; 98%).
 

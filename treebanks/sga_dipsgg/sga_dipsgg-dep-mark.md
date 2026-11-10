@@ -13,22 +13,7 @@ This relation is universal.
 15 instances of `mark` (100%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.8.
 
-The following 4 pairs of parts of speech are connected with `mark`: <tt><a href="sga_dipsgg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sga_dipsgg-pos-SCONJ.html">SCONJ</a></tt> (5; 33% instances), <tt><a href="sga_dipsgg-pos-VERB.html">VERB</a></tt>-<tt><a href="sga_dipsgg-pos-SCONJ.html">SCONJ</a></tt> (5; 33% instances), <tt><a href="sga_dipsgg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sga_dipsgg-pos-SCONJ.html">SCONJ</a></tt> (4; 27% instances), <tt><a href="sga_dipsgg-pos-VERB.html">VERB</a></tt>-<tt><a href="sga_dipsgg-pos-PART.html">PART</a></tt> (1; 7% instances).
-
-
-~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 2 mark	color:blue
-1	.i.	.i.	ADV	_	Abbr=Yes	5	advmod	_	_
-2	amal	amal	SCONJ	_	_	5	mark	_	_
-3	bid	is	AUX	_	Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbType=Cop	5	nsubj	_	_
-4	do	do	ADP	_	AdpType=Prep|Definite=Ind	5	case	_	_
-5	dia	día	NOUN	_	Case=Dat|Number=Sing	0	root	_	_
-
-~~~
+The following 5 pairs of parts of speech are connected with `mark`: <tt><a href="sga_dipsgg-pos-VERB.html">VERB</a></tt>-<tt><a href="sga_dipsgg-pos-SCONJ.html">SCONJ</a></tt> (5; 33% instances), <tt><a href="sga_dipsgg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sga_dipsgg-pos-SCONJ.html">SCONJ</a></tt> (4; 27% instances), <tt><a href="sga_dipsgg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sga_dipsgg-pos-SCONJ.html">SCONJ</a></tt> (4; 27% instances), <tt><a href="sga_dipsgg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sga_dipsgg-pos-SCONJ.html">SCONJ</a></tt> (1; 7% instances), <tt><a href="sga_dipsgg-pos-VERB.html">VERB</a></tt>-<tt><a href="sga_dipsgg-pos-PART.html">PART</a></tt> (1; 7% instances).
 
 
 ~~~ conllu
@@ -64,6 +49,22 @@ The following 4 pairs of parts of speech are connected with `mark`: <tt><a href=
 11	·	·	PUNCT	_	_	10	punct	_	SpaceAfter=No
 12	o	_	X	_	_	8	flat	_	SpaceAfter=No
 13	·	·	PUNCT	_	_	12	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 2 mark	color:blue
+1	.i.	.i.	ADV	_	Abbr=Yes	3	advmod	_	_
+2	ut	_	SCONJ	_	Foreign=Yes	3	mark	_	Lang=la
+3	accentus	_	NOUN	_	Foreign=Yes|Typo=Yes	0	root	_	Lang=la
+4	.d.	_	X	_	Foreign=Yes	3	advcl	_	Lang=la
+5	hí	i	ADP	_	AdpType=Prep|Definite=Ind	6	case	_	_
+6	.c	_	X	_	Foreign=Yes	4	flat:foreign	_	Lang=la
 
 ~~~
 

@@ -19,17 +19,17 @@ This treebank has been part of Universal Dependencies since the UD v2.17 release
 The following people have contributed to making this treebank part of UD: Kamil Tomaszek, Alina Wróblewska, Aleksandra Wieczorek.
 
 Repository: [UD_Polish-MPDT](https://github.com/UniversalDependencies/UD_Polish-MPDT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udpl_mpdt218)<br />
-Download all treebanks: [UD 2.18](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udpl_mpdt219)<br />
+Download all treebanks: [UD 2.19](/#download)
 
 License: CC BY-SA 4.0
 
-Genre: nonfiction, bible, legal, fiction
+Genre: nonfiction, bible, legal, fiction, news, poetry
 
 Questions, comments?
 General annotation questions (either Polish-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
 You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Polish-MPDT/issues).
-If you want to collaborate, please contact [kt&nbsp;•&nbsp;tomaszek&nbsp;(æt)&nbsp;student&nbsp;•&nbsp;uw&nbsp;•&nbsp;edu&nbsp;•&nbsp;pl].
+If you want to collaborate, please contact [kamiltomaszek&nbsp;(æt)&nbsp;icloud&nbsp;•&nbsp;com].
 Development of the treebank happens directly in the UD repository, so you may submit bug fixes as pull requests against the dev branch.
 
 | Annotation | Source |
@@ -50,9 +50,14 @@ The UD_Polish-MPDT treebank contains sentences from the Middle Polish period (17
 
 The syntactic annotations originate from the [Middle Polish Dependency Treebank](https://korba.edu.pl/treebank?lang=en), a project led by Aleksandra Wieczorek, which adds a dependency layer to a selected part of KorBa. The original MPDT annotation follows the conventions of the [Polish Dependency Bank (PDB)](https://zil.ipipan.waw.pl/PDB).
 
-This initial UD release contains 2,018 sentences and approximately 47K tokens, with plans for further expansion in future versions.
+This UD release contains 2,515 sentences and approximately 59K syntactic words (58,560 surface tokens).
 
 ## Acknowledgments
+
+We thank the original Middle Polish Dependency Treebank team, led by Dr. Aleksandra Wieczorek. The data was annotated by Aleksandra Wieczorek, Bożena Itoya, Emanuel Modrzejewski, and Martyna Sabała-Bolek. Programming support for data preparation was provided by Dorota Komosińska.
+
+The conversion to the UD format was developed by Kamil Tomaszek as part of his M.A. thesis at the University of Warsaw, under the supervision of Dr. Alina Wróblewska (Institute of Computer Science, Polish Academy of Sciences).
+
 
 # Statistics of UD Polish MPDT
 
@@ -62,21 +67,21 @@ This initial UD release contains 2,018 sentences and approximately 47K tokens, w
 
 ## Features
 
-[Abbr](pl_mpdt-feat-Abbr.html) – [AdpType](pl_mpdt-feat-AdpType.html) – [Animacy](pl_mpdt-feat-Animacy.html) – [Aspect](pl_mpdt-feat-Aspect.html) – [Case](pl_mpdt-feat-Case.html) – [ConjType](pl_mpdt-feat-ConjType.html) – [Degree](pl_mpdt-feat-Degree.html) – [ExtPos](pl_mpdt-feat-ExtPos.html) – [Foreign](pl_mpdt-feat-Foreign.html) – [Gender](pl_mpdt-feat-Gender.html) – [Hyph](pl_mpdt-feat-Hyph.html) – [Mood](pl_mpdt-feat-Mood.html) – [Number](pl_mpdt-feat-Number.html) – [Number[psor]](pl_mpdt-feat-Number-psor.html) – [NumForm](pl_mpdt-feat-NumForm.html) – [NumType](pl_mpdt-feat-NumType.html) – [PartType](pl_mpdt-feat-PartType.html) – [Person](pl_mpdt-feat-Person.html) – [Polarity](pl_mpdt-feat-Polarity.html) – [Poss](pl_mpdt-feat-Poss.html) – [PrepCase](pl_mpdt-feat-PrepCase.html) – [PronType](pl_mpdt-feat-PronType.html) – [PunctSide](pl_mpdt-feat-PunctSide.html) – [PunctType](pl_mpdt-feat-PunctType.html) – [Reflex](pl_mpdt-feat-Reflex.html) – [Tense](pl_mpdt-feat-Tense.html) – [Variant](pl_mpdt-feat-Variant.html) – [VerbForm](pl_mpdt-feat-VerbForm.html) – [VerbType](pl_mpdt-feat-VerbType.html) – [Voice](pl_mpdt-feat-Voice.html)
+[Abbr](pl_mpdt-feat-Abbr.html) – [AdpType](pl_mpdt-feat-AdpType.html) – [Agglutination](pl_mpdt-feat-Agglutination.html) – [Animacy](pl_mpdt-feat-Animacy.html) – [Aspect](pl_mpdt-feat-Aspect.html) – [Case](pl_mpdt-feat-Case.html) – [ConjType](pl_mpdt-feat-ConjType.html) – [Degree](pl_mpdt-feat-Degree.html) – [ExtPos](pl_mpdt-feat-ExtPos.html) – [Foreign](pl_mpdt-feat-Foreign.html) – [Gender](pl_mpdt-feat-Gender.html) – [Hyph](pl_mpdt-feat-Hyph.html) – [Mood](pl_mpdt-feat-Mood.html) – [Number](pl_mpdt-feat-Number.html) – [Number[psor]](pl_mpdt-feat-Number-psor.html) – [NumForm](pl_mpdt-feat-NumForm.html) – [NumType](pl_mpdt-feat-NumType.html) – [PartType](pl_mpdt-feat-PartType.html) – [Person](pl_mpdt-feat-Person.html) – [Polarity](pl_mpdt-feat-Polarity.html) – [Poss](pl_mpdt-feat-Poss.html) – [PrepCase](pl_mpdt-feat-PrepCase.html) – [PronType](pl_mpdt-feat-PronType.html) – [PunctSide](pl_mpdt-feat-PunctSide.html) – [PunctType](pl_mpdt-feat-PunctType.html) – [Reflex](pl_mpdt-feat-Reflex.html) – [Tense](pl_mpdt-feat-Tense.html) – [Variant](pl_mpdt-feat-Variant.html) – [VerbForm](pl_mpdt-feat-VerbForm.html) – [VerbType](pl_mpdt-feat-VerbType.html) – [Voice](pl_mpdt-feat-Voice.html)
 
 ## Relations
 
-[acl](pl_mpdt-dep-acl.html) – [acl:relcl](pl_mpdt-dep-acl-relcl.html) – [advcl](pl_mpdt-dep-advcl.html) – [advcl:cmp](pl_mpdt-dep-advcl-cmp.html) – [advcl:relcl](pl_mpdt-dep-advcl-relcl.html) – [advmod](pl_mpdt-dep-advmod.html) – [advmod:arg](pl_mpdt-dep-advmod-arg.html) – [advmod:emph](pl_mpdt-dep-advmod-emph.html) – [advmod:neg](pl_mpdt-dep-advmod-neg.html) – [amod](pl_mpdt-dep-amod.html) – [amod:flat](pl_mpdt-dep-amod-flat.html) – [appos](pl_mpdt-dep-appos.html) – [aux](pl_mpdt-dep-aux.html) – [aux:clitic](pl_mpdt-dep-aux-clitic.html) – [aux:cnd](pl_mpdt-dep-aux-cnd.html) – [aux:imp](pl_mpdt-dep-aux-imp.html) – [aux:pass](pl_mpdt-dep-aux-pass.html) – [case](pl_mpdt-dep-case.html) – [cc](pl_mpdt-dep-cc.html) – [cc:preconj](pl_mpdt-dep-cc-preconj.html) – [ccomp](pl_mpdt-dep-ccomp.html) – [ccomp:cleft](pl_mpdt-dep-ccomp-cleft.html) – [ccomp:obj](pl_mpdt-dep-ccomp-obj.html) – [conj](pl_mpdt-dep-conj.html) – [cop](pl_mpdt-dep-cop.html) – [csubj](pl_mpdt-dep-csubj.html) – [dep](pl_mpdt-dep-dep.html) – [det](pl_mpdt-dep-det.html) – [det:poss](pl_mpdt-dep-det-poss.html) – [discourse:intj](pl_mpdt-dep-discourse-intj.html) – [expl:pv](pl_mpdt-dep-expl-pv.html) – [fixed](pl_mpdt-dep-fixed.html) – [flat](pl_mpdt-dep-flat.html) – [iobj](pl_mpdt-dep-iobj.html) – [list](pl_mpdt-dep-list.html) – [mark](pl_mpdt-dep-mark.html) – [nmod](pl_mpdt-dep-nmod.html) – [nmod:arg](pl_mpdt-dep-nmod-arg.html) – [nmod:flat](pl_mpdt-dep-nmod-flat.html) – [nmod:poss](pl_mpdt-dep-nmod-poss.html) – [nsubj](pl_mpdt-dep-nsubj.html) – [nsubj:outer](pl_mpdt-dep-nsubj-outer.html) – [nsubj:pass](pl_mpdt-dep-nsubj-pass.html) – [nummod](pl_mpdt-dep-nummod.html) – [nummod:flat](pl_mpdt-dep-nummod-flat.html) – [obj](pl_mpdt-dep-obj.html) – [obl](pl_mpdt-dep-obl.html) – [obl:agent](pl_mpdt-dep-obl-agent.html) – [obl:arg](pl_mpdt-dep-obl-arg.html) – [obl:cmp](pl_mpdt-dep-obl-cmp.html) – [orphan](pl_mpdt-dep-orphan.html) – [parataxis](pl_mpdt-dep-parataxis.html) – [parataxis:insert](pl_mpdt-dep-parataxis-insert.html) – [parataxis:obj](pl_mpdt-dep-parataxis-obj.html) – [punct](pl_mpdt-dep-punct.html) – [root](pl_mpdt-dep-root.html) – [vocative](pl_mpdt-dep-vocative.html) – [xcomp](pl_mpdt-dep-xcomp.html) – [xcomp:cleft](pl_mpdt-dep-xcomp-cleft.html) – [xcomp:pred](pl_mpdt-dep-xcomp-pred.html) – [xcomp:subj](pl_mpdt-dep-xcomp-subj.html)
+[acl](pl_mpdt-dep-acl.html) – [acl:relcl](pl_mpdt-dep-acl-relcl.html) – [advcl](pl_mpdt-dep-advcl.html) – [advcl:cmp](pl_mpdt-dep-advcl-cmp.html) – [advcl:relcl](pl_mpdt-dep-advcl-relcl.html) – [advmod](pl_mpdt-dep-advmod.html) – [advmod:arg](pl_mpdt-dep-advmod-arg.html) – [advmod:emph](pl_mpdt-dep-advmod-emph.html) – [advmod:neg](pl_mpdt-dep-advmod-neg.html) – [amod](pl_mpdt-dep-amod.html) – [amod:flat](pl_mpdt-dep-amod-flat.html) – [appos](pl_mpdt-dep-appos.html) – [aux](pl_mpdt-dep-aux.html) – [aux:clitic](pl_mpdt-dep-aux-clitic.html) – [aux:cnd](pl_mpdt-dep-aux-cnd.html) – [aux:imp](pl_mpdt-dep-aux-imp.html) – [aux:pass](pl_mpdt-dep-aux-pass.html) – [case](pl_mpdt-dep-case.html) – [cc](pl_mpdt-dep-cc.html) – [cc:preconj](pl_mpdt-dep-cc-preconj.html) – [ccomp](pl_mpdt-dep-ccomp.html) – [ccomp:cleft](pl_mpdt-dep-ccomp-cleft.html) – [ccomp:obj](pl_mpdt-dep-ccomp-obj.html) – [conj](pl_mpdt-dep-conj.html) – [cop](pl_mpdt-dep-cop.html) – [csubj](pl_mpdt-dep-csubj.html) – [dep](pl_mpdt-dep-dep.html) – [det](pl_mpdt-dep-det.html) – [det:numgov](pl_mpdt-dep-det-numgov.html) – [det:nummod](pl_mpdt-dep-det-nummod.html) – [det:poss](pl_mpdt-dep-det-poss.html) – [discourse:intj](pl_mpdt-dep-discourse-intj.html) – [expl:pv](pl_mpdt-dep-expl-pv.html) – [fixed](pl_mpdt-dep-fixed.html) – [flat](pl_mpdt-dep-flat.html) – [iobj](pl_mpdt-dep-iobj.html) – [list](pl_mpdt-dep-list.html) – [mark](pl_mpdt-dep-mark.html) – [nmod](pl_mpdt-dep-nmod.html) – [nmod:arg](pl_mpdt-dep-nmod-arg.html) – [nmod:cmp](pl_mpdt-dep-nmod-cmp.html) – [nmod:flat](pl_mpdt-dep-nmod-flat.html) – [nmod:poss](pl_mpdt-dep-nmod-poss.html) – [nsubj](pl_mpdt-dep-nsubj.html) – [nsubj:outer](pl_mpdt-dep-nsubj-outer.html) – [nsubj:pass](pl_mpdt-dep-nsubj-pass.html) – [nummod](pl_mpdt-dep-nummod.html) – [nummod:flat](pl_mpdt-dep-nummod-flat.html) – [nummod:gov](pl_mpdt-dep-nummod-gov.html) – [obj](pl_mpdt-dep-obj.html) – [obl](pl_mpdt-dep-obl.html) – [obl:agent](pl_mpdt-dep-obl-agent.html) – [obl:arg](pl_mpdt-dep-obl-arg.html) – [obl:cmp](pl_mpdt-dep-obl-cmp.html) – [orphan](pl_mpdt-dep-orphan.html) – [parataxis](pl_mpdt-dep-parataxis.html) – [parataxis:insert](pl_mpdt-dep-parataxis-insert.html) – [parataxis:obj](pl_mpdt-dep-parataxis-obj.html) – [punct](pl_mpdt-dep-punct.html) – [root](pl_mpdt-dep-root.html) – [vocative](pl_mpdt-dep-vocative.html) – [xcomp](pl_mpdt-dep-xcomp.html) – [xcomp:cleft](pl_mpdt-dep-xcomp-cleft.html) – [xcomp:pred](pl_mpdt-dep-xcomp-pred.html) – [xcomp:subj](pl_mpdt-dep-xcomp-subj.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 2018 sentences, 46670 tokens and 47273 syntactic words.</li>
+<li>This corpus contains 2515 sentences, 58560 tokens and 59300 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 8217 tokens (18%) that are not followed by a space.</li>
+<li>This corpus contains 10313 tokens (18%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -84,12 +89,12 @@ This initial UD release contains 2,018 sentences and approximately 47K tokens, w
 </ul>
 
 <ul>
-<li>This corpus contains 4 types of words that contain both letters and punctuation. Examples: Ada-, Białej-górze, J., Jam-Estaw</li>
+<li>This corpus contains 9 types of words that contain both letters and punctuation. Examples: 1-funtowe, Ada-, Arcy-Biskup, Arcy-Biskupem, Białej-górze, J., Jam-Estaw, S.J, pomie-</li>
 </ul>
 
 <ul>
-<li>This corpus contains 564 multi-word tokens. On average, one multi-word token consists of 2.07 syntactic words.</li>
-<li>There are 359 types of multi-word tokens. Examples: toż, któryby, tegoż, coby, jeśliby, tejże, tenże, tymże, abym, com, czyliż, ktoby, żem, abyś, przetoż, jakoż, jeżeliby, mogłaby, toć, Niechże, abyśmy, aleć, bom, byłoby, czemuż, dlategoż, gdybym, jakoś, któregom, któreś, otoż, tamże, też, tychże, tęż, żebym, Azaż, Stądże, Wżdyć, abych, boć, boś, byłby, byśmy, czymże, gdybyś, gdyśmy, gdzieby, jachaliśmy, jakobyś.</li>
+<li>This corpus contains 699 multi-word tokens. On average, one multi-word token consists of 2.06 syntactic words.</li>
+<li>There are 427 types of multi-word tokens. Examples: toż, któryby, tegoż, tejże, coby, jeśliby, tymże, abym, tenże, com, abyś, czyliż, jakoż, ktoby, przetoż, żem, jeżeliby, miałem, tamże, żebym, aleć, czemuż, dlategoż, gdyśmy, któregom, mogłaby, toć, tychże, tyś, tęż, Azaż, Niechże, abyśmy, bom, byłoby, czyli, gdybym, jakoś, jam, jednakże, któreś, otoż, też, żebyś, Byłam, Stądże, Tuż, Wżdyć, abych, boć.</li>
 </ul>
 
 <h2>Morphology</h2>
@@ -101,18 +106,19 @@ This initial UD release contains 2,018 sentences and approximately 47K tokens, w
 </ul>
 
 <ul>
-<li>This corpus contains 116 word types tagged as particles (PART): Ale, Ato, Azaż, Bodaj, Czyż, Jeśli, Oby, Otó, Otóż, Owa, Toż, Wszakże, a, aby, acz, ani, atoli, aza, aż, aże, blisko, by, bynajmniej, chociaż, choć, choćby, chyba, ci, co, coraz, czy, czyli, czyliż, cóż, dopiero, dosyć, dość, gdyby, gdzie, i, ino, izali, jako, jakoby, jednak, jedno, jeno, jeszcze, jeżeli, juz, już, lada, ledwie, ledwo, li, mianowicie, może, nadto, nareszcie, nawet, ni, niby, nie, niejako, nuż, około, oraz, oto, owo, owszem, pewnie, podobno, ponad, poniekąd, prawie, przecie, przecież, przecię, przeszło, przeto, przynajmniej, raczej, snadź, tak, takież, także, tam, tedy, też, to, tudzież, tylko, tylo, więc, wprawdzie, wreszcie, wszak, wszakoż, właśnie, z, za, zaiste, zapewne, zaprawdę, zaraz, zarazem, zatem, zatym, zaś, zgoła, znowu, zwłaszcza, ć, ż, że, żeby</li>
+<li>This corpus contains 132 word types tagged as particles (PART): Albo, Ale, Ato, Azaż, Bodaj, Czyż, Jeśli, Jużeż, Nich, Oby, Otó, Otóż, Owa, Przytem, Również, Toż, Wszakże, a, aby, acz, aliści, ani, atoli, aza, aż, aże, blisko, by, bynajmniej, chociaż, choć, choćby, chyba, ci, co, coraz, czy, czyli, czyliż, cóż, dopiero, dosyć, dość, gdyby, gdzie, i, ino, izali, jako, jakoby, jednak, jedno, jeno, jeszcze, jeżeli, juz, już, kiedy, lada, leda, ledwie, ledwo, lepak, li, mianowicie, może, na, nadto, nareszcie, nawet, ni, niby, nie, niejako, niemal, nuż, około, oraz, oto, owo, owszem, pewnie, podobno, ponad, poniekąd, prawie, przecie, przecież, przecię, przedsię, przeszło, przeto, przynajmniej, raczej, snadź, snać, tak, takież, także, tam, tedy, też, to, toć, tudzież, tylko, tylo, więc, wprawdzie, wreszcie, wszak, wszakoż, właśnie, z, za, zaiste, zapewne, zaprawdę, zaraz, zarazem, zasię, zatem, zatym, zaś, zgoła, znowu, zwłaszcza, ć, ś, ż, że, żeby</li>
 </ul>
 
 <ul>
-<li>This corpus contains 19 lemmas tagged as pronouns (PRON): co, cokolwiek, coś, cóż, ja, kto, ktoś, któż, my, nic, nikt, on, siebie, się, to, ty, wszyscy, wszystko, wy</li>
+<li>This corpus contains 22 lemmas tagged as pronouns (PRON): co, cokolwiek, coś, cóż, ja, jego, jej, kto, ktokolwiek, ktoś, któż, my, nic, nikt, on, siebie, się, to, ty, wszyscy, wszystko, wy</li>
 </ul>
 
 <ul>
-<li>This corpus contains 42 lemmas tagged as determiners (DET): dość, ile, jaki, jakikolwiek, jakiś, każdy, kilka, kilkadziesiąt, kilkanaście, kilkaset, który, którykolwiek, mało, mój, najmniej, najwięcej, nasz, nieco, niejaki, niektóry, niemało, oba, parę, pewien, pełno, swój, taki, takiż, tamten, ten, tenże, trochę, twój, tyle, tyleż, wasz, wiele, więcej, wszelki, wszystek, ów, żaden</li>
+<li>This corpus contains 46 lemmas tagged as determiners (DET): dosyć, dość, dużo, ile, jaki, jakikolwiek, jakiś, każdy, kilka, kilkadziesiąt, kilkanaście, kilkaset, który, którykolwiek, mało, mój, najmniej, najwięcej, nasz, nieco, niejaki, niektóry, niemało, niewiele, oba, parę, pewien, pełno, swój, taki, takiż, tamten, ten, tenże, to, trochę, twój, tyle, tyleż, wasz, wiele, więcej, wszelki, wszystek, ów, żaden</li>
 </ul>
 
 <ul>
+<li>Out of the above, 1 lemmas occurred sometimes as PRON and sometimes as DET: to</li>
 </ul>
 
 <ul>
@@ -131,7 +137,7 @@ This initial UD release contains 2,018 sentences and approximately 47K tokens, w
   <li>Conv
   <ul>
     <li>AUX: będąc</li>
-    <li>VERB: mając, mówiąc, chcąc, wziąwszy, czyniąc, idąc, prosząc, przyszedszy, rachując, słysząc</li>
+    <li>VERB: mając, mówiąc, chcąc, wziąwszy, przyszedszy, czyniąc, prosząc, widząc, będąc, idąc</li>
   </ul>
   </li>
 </ul>
@@ -139,8 +145,8 @@ This initial UD release contains 2,018 sentences and approximately 47K tokens, w
 <ul>
   <li>Fin
   <ul>
-    <li>AUX: jest, był, są, było, będzie, to, byli, była, były, będą</li>
-    <li>VERB: ma, jest, może, miał, mają, masz, trzeba, było, mieli, można</li>
+    <li>AUX: jest, był, są, będzie, to, było, była, były, byli, będą</li>
+    <li>VERB: ma, jest, może, miał, mają, masz, trzeba, będzie, było, można</li>
   </ul>
   </li>
 </ul>
@@ -149,7 +155,7 @@ This initial UD release contains 2,018 sentences and approximately 47K tokens, w
   <li>Inf
   <ul>
     <li>AUX: być</li>
-    <li>VERB: mieć, mówić, czynić, być, dać, uczynić, widzieć, znać, jeść, uważać</li>
+    <li>VERB: mieć, być, czynić, mówić, dać, widzieć, uczynić, znać, jeść, uważać</li>
   </ul>
   </li>
 </ul>
@@ -157,7 +163,7 @@ This initial UD release contains 2,018 sentences and approximately 47K tokens, w
 <ul>
   <li>Part
   <ul>
-    <li>ADJ: mający, karany, obrany, podane, postawiony, złożony, dane, następującym, opisanych, poruszony</li>
+    <li>ADJ: mający, karany, mówiący, obrany, podane, pomienionych, postawiony, położona, stworzonych, zachowany</li>
   </ul>
   </li>
 </ul>
@@ -165,7 +171,7 @@ This initial UD release contains 2,018 sentences and approximately 47K tokens, w
 <ul>
   <li>Vnoun
   <ul>
-    <li>NOUN: mówienia, podziwienie, widzenia, zabicie, żądanie, dogodzenia, karania, naśladowaniu, oczyszczenie, opisanie</li>
+    <li>NOUN: widzenia, mówienia, karania, opisaniu, pisania, podziwienie, używaniu, zabicie, zbieranie, żądanie</li>
   </ul>
   </li>
 </ul>
@@ -180,15 +186,15 @@ This initial UD release contains 2,018 sentences and approximately 47K tokens, w
 <ul>
   <li>Fem
     <ul>
-      <li>ADJ: jedna, wielką, jednej, całą, inne, jednę, sama, wielka, wielkiej, drugą</li>
-      <li>ADJ-Part: zwana, haftowana, kwitnące, mająca, nachylona, otwierana, pisane, pomienionych, położona, płynące</li>
-      <li>AUX-Fin: była, były, została</li>
-      <li>DET: tej, ta, której, która, tę, które, którą, swojej, których, tych</li>
-      <li>NOUN: rzeczy, ziemi, części, rzecz, śmierci, potrzeba, częścią, miłości, ojczyzny, wody</li>
-      <li>NUM: dwie, trzy, cztery, dwu, dwóch, moc, pięć, siła, dwadzieścia, dziesięć</li>
-      <li>PRON: jej, ją, niej, nich, ona, nią, je, ich, nie, nię</li>
-      <li>PROPN: Warszawie, Rzeczypospolitej, Polski, Polsce, Polszcze, Anglii, MARYI, Moskwa, Francji, Moskwy</li>
-      <li>VERB-Fin: miała, była, mogła, powinna, chciała, musiała, stała, mogły, były, miały</li>
+      <li>ADJ: jedna, wielką, sama, całą, jednej, drugą, jednę, różnych, wielka, wszytkie</li>
+      <li>ADJ-Part: położona, dana, nazwana, stworzonych, zwana, haftowana, kwitnące, mająca, nachylona, obsianą</li>
+      <li>AUX-Fin: była, były, została, zostały, beła</li>
+      <li>DET: tej, ta, której, która, które, tę, którą, swojej, te, tych</li>
+      <li>NOUN: rzeczy, ziemi, części, rzecz, śmierci, potrzeba, wody, częścią, miłość, ojczyzny</li>
+      <li>NUM: dwie, trzy, cztery, dwu, dwóch, dwiema, moc, ośm, pięć, siła</li>
+      <li>PRON: jej, ją, niej, ona, je, nich, nią, ich, im, nie</li>
+      <li>PROPN: Rzeczypospolitej, Warszawie, Polski, Polszcze, Moskwa, Polsce, Rzpltej, Anglii, Azji, MARYI</li>
+      <li>VERB-Fin: miała, była, mogła, powinna, chciała, musiała, były, miały, stała, mogły</li>
     </ul>
   </li>
 </ul>
@@ -196,15 +202,15 @@ This initial UD release contains 2,018 sentences and approximately 47K tokens, w
 <ul>
   <li>Masc
     <ul>
-      <li>ADJ: sam, jeden, cały, jednego, jednym, samego, wielki, drugiego, on, wszytkich</li>
-      <li>ADJ-Part: mający, karany, obrany, postawiony, złożony, podane, poruszony, zachowany, Znany, chodzący</li>
-      <li>AUX-Fin: był, byli, były, zostali, został, beł</li>
-      <li>DET: który, ten, tego, którzy, tym, tych, które, którego, których, którym</li>
-      <li>NOUN: pan, roku, czas, pana, dnia, król, króla, czasu, dzień, ludzi</li>
-      <li>NUM: dwa, pięć, sto, trzy, dwóch, cztery, dwadzieścia, dwaj, ośm, sześć</li>
-      <li>PRON: jego, ich, go, mu, kto, im, nim, on, nich, niego</li>
-      <li>PROPN: Boga, Bóg, Bogu, Boże, Jan, BÓG, Chrystusa, BOGU, Turków, BOŻE</li>
-      <li>VERB-Fin: miał, mieli, mógł, powinien, dał, był, kazał, rzekł, chciał, mówił</li>
+      <li>ADJ: sam, jeden, cały, jednego, wielki, świętego, jednym, samego, święty, drugiego</li>
+      <li>ADJ-Part: mający, karany, mówiący, obrany, postawiony, zachowany, złożony, Dan, nadanych, nazwany</li>
+      <li>AUX-Fin: był, byli, były, zostali, został, beł, bywali</li>
+      <li>DET: który, ten, tego, tym, którzy, tych, które, którego, których, którym</li>
+      <li>NOUN: pan, roku, czas, pana, dnia, król, dzień, króla, ludzi, czasu</li>
+      <li>NUM: dwa, sto, pięć, trzy, dwóch, cztery, dwadzieścia, dwaj, siedm, trzech</li>
+      <li>PRON: jego, ich, go, mu, kto, im, nim, nich, on, niego</li>
+      <li>PROPN: bóg, Boga, Bogu, Boże, Jan, Turków, Bogiem, Chrystusa, Jana, Aleksandra</li>
+      <li>VERB-Fin: miał, mieli, mógł, był, dał, powinien, chciał, kazał, rzekł, wziął</li>
     </ul>
   </li>
 </ul>
@@ -212,16 +218,16 @@ This initial UD release contains 2,018 sentences and approximately 47K tokens, w
 <ul>
   <li>Neut
     <ul>
-      <li>ADJ: całe, dobrego, wielkie, inne, nowe, wielkim, złote, Bożego, długim, jedno</li>
-      <li>ADJ-Part: dane, należące, następującym, otoczone, otrzymanego, zachowane, Apologiującego, Założone, bawiącym, błyszczące</li>
+      <li>ADJ: całe, wielkie, dobrego, inne, jedno, nowe, trzecie, wielkim, Bożego, dobre</li>
+      <li>ADJ-Part: dane, grożące, należące, następującym, otoczone, otrzymanego, zachowane, Apologiującego, Założone, bawiącym</li>
       <li>AUX-Fin: było, były, beło, zostało</li>
-      <li>DET: które, to, te, tego, moje, tym, wiele, swego, swoje, których</li>
-      <li>NOUN: serca, wojsko, miasto, miejsca, życia, miasta, prawo, wojska, prawa, drzewa</li>
-      <li>NOUN-Vnoun: mówienia, podziwienie, widzenia, zabicie, żądanie, dogodzenia, karania, naśladowaniu, oczyszczenie, opisanie</li>
-      <li>NUM: dwoje, czworo, dwie, półtrzecia, cokolwiek, czterech, cztery, dwa, dwiema, dwóch</li>
+      <li>DET: które, to, te, tego, tym, moje, swego, wiele, swoje, których</li>
+      <li>NOUN: serca, wojsko, życia, miasta, miasto, miejsca, prawo, wojska, prawa, miejsce</li>
+      <li>NOUN-Vnoun: widzenia, mówienia, karania, opisaniu, pisania, podziwienie, używaniu, zabicie, zbieranie, żądanie</li>
+      <li>NUM: dwoje, dwie, cztery, czworo, półtrzecia, sta, cokolwiek, czterech, dwa, dwanaście</li>
       <li>PRON: to, co, tym, tego, nic, czego, czym, wszystko, cóż, je</li>
-      <li>PROPN: Niemczech, Węgier, CB, Jeruzalem, A, B, BD, D, E, EB</li>
-      <li>VERB-Fin: było, stało, miało, przyszło, zostało, mogło, działo, należało, pokazało, uczyniło</li>
+      <li>PROPN: Niemczech, Węgier, CB, Jeruzalem, Włoszech, A, B, BD, D, E</li>
+      <li>VERB-Fin: było, stało, przyszło, miało, mogło, zostało, należało, działo, pokazało, uczyniło</li>
     </ul>
   </li>
 </ul>
@@ -233,15 +239,31 @@ This initial UD release contains 2,018 sentences and approximately 47K tokens, w
 <ul>
   <li>Hum
     <ul>
-      <li>ADJ: Izraelscy, inni, pierwsi, sami, Węgierscy, gotowi, insi, jednego, lepszych, postanowieni</li>
-      <li>ADJ-Part: postanowieni, zapisani, Pomienioni, Powracający, Wpisujących, Wyprawieni, Zezwani, będący, chodzący, chwytani</li>
-      <li>AUX-Fin: byli, zostali</li>
-      <li>DET: którzy, ci, wszyscy, którego, których, tych, niektórzy, naszy, niektórych, tacy</li>
-      <li>NOUN: panowie, ludzi, ludzie, synowie, drudzy, Królowie, bracia, Aniołowie, Mahometani, Malkontenci</li>
-      <li>NUM: dwaj, dwóch, dwoje, dwu, czterech, czterej, dwa, ośmiu, piąciu, siedm</li>
-      <li>PRON: ich, oni, im, wszyscy, nich, niemi, nimi, wszystkich, nim, ń</li>
-      <li>PROPN: Turcy, Polaków, Rzymianie, Żydzi, Boga, Egipcjanie, Grecy, Scytowie, Szwedowie, Ablowie</li>
-      <li>VERB-Fin: mieli, mogli, byli, powinni, widzieli, czynili, poczęli, musieli, przyprowadzili, wzięli</li>
+      <li>ADJ: sami, inni, Izraelscy, insi, jednego, pierwsi, Mciwi, Węgierscy, biegli, gnieźnieńskiego</li>
+      <li>ADJ-Part: oświeceni, postanowieni, zapisani, Pomienioni, Powracający, Wpisujących, Wyprawieni, Zezwani, atakującego, będący</li>
+      <li>AUX-Fin: byli, zostali, bywali</li>
+      <li>DET: którzy, ci, wszyscy, tych, którego, których, niektórzy, niektórych, wszystkich, nasi</li>
+      <li>NOUN: panowie, ludzie, ludzi, synowie, bracia, drudzy, królowie, Mahometani, kawalerowie, Aniołowie</li>
+      <li>NUM: dwaj, dwóch, dwoje, dwu, trzej, czterech, czterej, dwa, dwunastu, obadwaj</li>
+      <li>PRON: ich, oni, nich, im, wszyscy, niemi, nimi, wszystkich, nim, ń</li>
+      <li>PROPN: Turcy, Żydzi, Anglowie, Polaków, Rzymianie, Szwedowie, Boga, Egipcjanie, Grecy, Polacy</li>
+      <li>VERB-Fin: mieli, byli, mogli, powinni, widzieli, czynili, poczęli, chcieli, jęli, musieli</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Inan
+    <ul>
+      <li>ADJ: mówiący, wielki, Kupieckie, Ostatnie, Rycerskie, Umówiony, braterski, cały, ciężkie, drugi</li>
+      <li>ADJ-Part: mówiący, Umówiony, obite, oznaczone, podniesione, postanowiony, respektujący, ustrzyżone, wymówione, zachylone</li>
+      <li>AUX-Fin: były</li>
+      <li>DET: ten, które, te, wszystkie, każdy, kilka, który, kilkadziesiąt, niektóre, swe</li>
+      <li>NOUN: dzień, Piątek, koniec, przykład, czas, kształt, ołów, pokój, rok, sejm</li>
+      <li>NUM: sto, dwa, siedm, cztery, dwanaście, dziesięć, trzy</li>
+      <li>PRON: je, ich</li>
+      <li>PROPN: Dominik, Marywil, Sabasz</li>
+      <li>VERB-Fin: miały, przychodziły</li>
     </ul>
   </li>
 </ul>
@@ -249,12 +271,12 @@ This initial UD release contains 2,018 sentences and approximately 47K tokens, w
 <ul>
   <li>Nhum
     <ul>
-      <li>ADJ: samego, dobrego, jednego, takowego, świętego, Koronnego, Krakowskiego, Lizbońskiego, Moskiewskiego, Młodego</li>
-      <li>ADJ-Part: chowającego, jadącego, odrodzonego, okazującego, opisanego, podającego, pogrzebionego, popisującego, rytyrowanego, siedzącego</li>
-      <li>DET: swego, tego, którego, twego, naszego, owego, takiego</li>
-      <li>NOUN: Króla, Pana, męża, Biskupa, Cesarza, Wojewodę, człowieka, ducha, każdego, młodzieńca</li>
+      <li>ADJ: samego, dobrego, jednego, takowego, świętego, Dziedzicznego, Koronnego, Krakowskiego, Lizbońskiego, Moskiewskiego</li>
+      <li>ADJ-Part: chowającego, jadącego, oddającego, odrodzonego, okazującego, opisanego, podającego, pogrzebionego, popisującego, rytyrowanego</li>
+      <li>DET: swego, tego, którego, twego, naszego, owego, nasze, takiego, wiele</li>
+      <li>NOUN: Pana, Króla, człowieka, męża, Biskupa, Cesarza, Generała, Patriarchę, Wojewodę, Zbawiciela</li>
       <li>PRON: kogo</li>
-      <li>PROPN: Boga, Mikołaja, Adama, Andrzeja, Benedykta, Bobatyrskiego, CHRYSTUSA, Chrystusa, Henryka, Jerzego</li>
+      <li>PROPN: Boga, Mikołaja, Adama, Aleksandra, Andrzeja, Antoniego, Aquawiwę, BOGA, Benedykta, Bełżeckiego</li>
       <li>VERB-Fin: musiały</li>
     </ul>
   </li>
@@ -267,11 +289,11 @@ This initial UD release contains 2,018 sentences and approximately 47K tokens, w
 <ul>
   <li>Dual
     <ul>
-      <li>ADJ: tak, jako, co, miasto, to</li>
+      <li>ADJ: tak, jako, Ramię, WMPana, co, miasto, potrzeba, to, tym</li>
       <li>AUX: śwa</li>
       <li>DET: oba, takież</li>
-      <li>NOUN: oczy, oczach, oczu, ręku, ręce, tysiąca, Części, bitwie, lecie, mili</li>
-      <li>NUM: dwie, dwa, dwiema, dwóch</li>
+      <li>NOUN: oczy, oczu, oczach, ręce, ręku, oczyma, okien, tysiąca, Części, bitwie</li>
+      <li>NUM: dwie, dwa, dwiema, dwóch, obadwa</li>
     </ul>
   </li>
 </ul>
@@ -279,17 +301,17 @@ This initial UD release contains 2,018 sentences and approximately 47K tokens, w
 <ul>
   <li>Plur
     <ul>
-      <li>ADJ: inne, wszytkie, innych, wszytkich, różnych, insze, różne, takowych, wielkich, onych</li>
-      <li>ADJ-Part: podane, opisanych, płynące, gorszących, idące, kwitnące, należących, następujące, pisane, pomienionych</li>
-      <li>AUX: są, śmy, byli, były, będą, bywają, będziemy, ście, zostali, będziecie</li>
-      <li>AUX-Fin: są, byli, były, będą, bywają, będziemy, zostali, będziecie, jesteśmy</li>
-      <li>DET: które, tych, których, te, którzy, wiele, wszystkich, wszystkie, swoich, ci</li>
-      <li>NOUN: ludzi, dni, rzeczy, tysięcy, lat, ludzie, części, panowie, rzeczach, słowa</li>
-      <li>NOUN-Vnoun: Poczęcia, dociekania, karania, narzekania, oświadczeniami, przebycia, przygotowania, starania, uciemiężenia, wzdychania</li>
-      <li>NUM: dwa, trzy, pięć, cztery, dwóch, sto, dwie, dwoje, dwu, dwadzieścia</li>
-      <li>PRON: ich, nas, nich, im, nam, je, was, oni, wam, nami</li>
-      <li>PROPN: Turków, Polaków, Turcy, Rzymianie, Szwedów, Żydzi, Żydów, Czechów, Egipcjanie, Grecy</li>
-      <li>VERB-Fin: mają, mieli, są, mogą, czynią, były, mogli, byli, mamy, miały</li>
+      <li>ADJ: inne, wszytkie, różnych, wszytkich, innych, insze, różne, wielkie, same, takowych</li>
+      <li>ADJ-Part: podane, pomienionych, stworzonych, nadanych, opisanych, płynące, znalezione, ściągających, aresztowanych, gorszących</li>
+      <li>AUX: są, śmy, były, byli, będą, bywają, ście, będziemy, jesteśmy, zostali</li>
+      <li>AUX-Fin: są, były, byli, będą, bywają, będziemy, jesteśmy, zostali, zostały, bywali</li>
+      <li>DET: które, tych, te, których, którzy, wszystkie, wiele, wszystkich, ci, swoich</li>
+      <li>NOUN: rzeczy, ludzi, dni, lat, tysięcy, ludzie, części, panowie, czasów, razy</li>
+      <li>NOUN-Vnoun: Poczęcia, całopalenia, dociekania, karania, narzekania, oszukiwania, oświadczeniami, poruszeń, pragnieniu, przebycia</li>
+      <li>NUM: dwa, trzy, cztery, pięć, sto, dwóch, dwie, dwoje, dwadzieścia, dwu</li>
+      <li>PRON: ich, nich, nas, im, nam, je, was, oni, wam, niemi</li>
+      <li>PROPN: Turków, Polaków, Turcy, Żydzi, Żydów, Anglowie, Rzymianie, Szwedowie, Szwedów, Czechów</li>
+      <li>VERB-Fin: mają, mieli, są, mogą, czynią, były, byli, miały, mogli, będą</li>
     </ul>
   </li>
 </ul>
@@ -297,9 +319,9 @@ This initial UD release contains 2,018 sentences and approximately 47K tokens, w
 <ul>
   <li>Ptan
     <ul>
-      <li>NOUN: drzwi, dziatki, dóbr, dobra, drwa, naszych, usta, wszytkich, Zaloty, dziatek</li>
+      <li>NOUN: drzwi, dóbr, dobra, dziatek, dziatki, naszych, drwa, dziejach, niebios, ust</li>
       <li>PRON: wszyscy, wszystkich, wszystkim, wszem, wszytkich</li>
-      <li>PROPN: Niemczech, Węgier, Włoszech, Ateny, Bereźniaki, Bliźniąt, Brodziech, Celebes, Czech, Filipiny</li>
+      <li>PROPN: Niemczech, Węgier, Włoszech, Włoch, ryby, Ateny, Bereźniaki, Bliźniąt, Brodziech, Celebes</li>
     </ul>
   </li>
 </ul>
@@ -307,17 +329,17 @@ This initial UD release contains 2,018 sentences and approximately 47K tokens, w
 <ul>
   <li>Sing
     <ul>
-      <li>ADJ: sam, jeden, jednego, cały, jedna, jednym, samego, wielką, dobrego, drugiego</li>
-      <li>ADJ-Part: mający, karany, obrany, postawiony, złożony, następującym, poruszony, zachowany, zwana, Znany</li>
-      <li>AUX: jest, m, był, em, było, będzie, ś, była, eś, będziesz</li>
-      <li>AUX-Fin: jest, był, było, będzie, była, będziesz, będę, bywa, jestem, została</li>
-      <li>DET: który, ten, tego, tej, tym, ta, której, którego, która, to</li>
-      <li>NOUN: pan, roku, czas, pana, dnia, król, króla, ziemi, czasu, dzień</li>
-      <li>NOUN-Vnoun: mówienia, podziwienie, widzenia, zabicie, żądanie, dogodzenia, naśladowaniu, oczyszczenie, opisanie, opisaniu</li>
-      <li>NUM: pół, moc, półtrzecia, piąciu, półszósty, półtora, półtory, siła, sta, sześciu</li>
-      <li>PRON: to, co, jego, go, jej, tym, mu, mi, ja, tego</li>
-      <li>PROPN: Boga, Bóg, Bogu, Boże, Warszawie, Jan, Rzeczypospolitej, BÓG, Chrystusa, Polski</li>
-      <li>VERB-Fin: ma, jest, może, miał, masz, było, będzie, mógł, powinien, dał</li>
+      <li>ADJ: sam, jeden, jednego, cały, jedna, wielki, wielką, sama, jednym, dobrego</li>
+      <li>ADJ-Part: mający, karany, mówiący, obrany, postawiony, położona, zachowany, złożony, Dan, dana</li>
+      <li>AUX: jest, m, był, em, będzie, ś, było, była, eś, będziesz</li>
+      <li>AUX-Fin: jest, był, będzie, było, była, będziesz, bywa, będę, jestem, została</li>
+      <li>DET: który, ten, tego, tej, tym, którego, ta, swego, której, która</li>
+      <li>NOUN: pan, roku, pana, czas, ziemi, dnia, król, dzień, króla, czasu</li>
+      <li>NOUN-Vnoun: widzenia, mówienia, opisaniu, pisania, podziwienie, używaniu, zabicie, zbieranie, żądanie, budowanie</li>
+      <li>NUM: pół, moc, półtrzecia, piąciu, półszósty, półtora, półtorej, półtory, siła, sta</li>
+      <li>PRON: to, jego, co, go, jej, mi, mu, tym, ja, mnie</li>
+      <li>PROPN: bóg, Boga, Bogu, Boże, Rzeczypospolitej, Warszawie, Jan, Polski, Polszcze, Bogiem</li>
+      <li>VERB-Fin: ma, jest, może, miał, masz, będzie, było, mógł, miała, był</li>
     </ul>
   </li>
 </ul>
@@ -329,14 +351,14 @@ This initial UD release contains 2,018 sentences and approximately 47K tokens, w
 <ul>
   <li>Acc
     <ul>
-      <li>ADJ: cały, jeden, inne, wszytkie, jednę, całą, wielką, różne, Boską, całe</li>
-      <li>ADJ-Part: idące, następujące, wiszące, zachowany, Słodzony, Wpisujących, Zebrany, broniący, błyszczące, chowającego</li>
-      <li>DET: które, ten, tę, te, swoje, wiele, którą, to, który, wszystkie</li>
-      <li>NOUN: czas, dzień, raz, koniec, prawo, części, noc, rzecz, miejsce, rok</li>
-      <li>NOUN-Vnoun: podziwienie, zabicie, żądanie, oczyszczenie, ruszanie, Poczęcie, Wcielenie, erygowanie, fortifikowanie, karania</li>
-      <li>NUM: dwa, dwie, trzy, pięć, cztery, dwadzieścia, sto, dwoje, ośm, pół</li>
-      <li>PRON: to, co, go, je, ją, nas, ich, cię, mię, mnie</li>
-      <li>PROPN: Boga, Polaków, CHRYSTUSA, Cefalidę, Chrystusa, Gdańsk, Mikołaja, Podole, Turki, Adama</li>
+      <li>ADJ: inne, jeden, cały, wszytkie, jednę, całą, wielką, Boską, różne, całe</li>
+      <li>ADJ-Part: idące, grożące, mówiący, następujące, obsianą, pomienione, uczyniony, wiszące, zachowany, Słodzony</li>
+      <li>DET: które, ten, tę, te, swoje, którą, wiele, to, który, wszystkie</li>
+      <li>NOUN: dzień, czas, koniec, raz, prawo, życie, miejsce, noc, pana, rok</li>
+      <li>NOUN-Vnoun: podziwienie, zabicie, żądanie, oczyszczenie, ruszanie, wsparcie, Poczęcie, Wcielenie, bolennie, całopalenia</li>
+      <li>NUM: dwa, dwie, trzy, sto, cztery, pięć, dwadzieścia, siedm, dwoje, ośm</li>
+      <li>PRON: to, co, go, ją, je, nas, cię, ich, mię, mnie</li>
+      <li>PROPN: Boga, Katarzynę, Polaków, CHRYSTUSA, Cefalidę, Chrystusa, Gdańsk, Jana, Kijów, Mikołaja</li>
     </ul>
   </li>
 </ul>
@@ -344,13 +366,14 @@ This initial UD release contains 2,018 sentences and approximately 47K tokens, w
 <ul>
   <li>Dat
     <ul>
-      <li>ADJ: samemu, onemu, Boskiemu, Polskim, Polsku, całej, innym, inszemu, inszym, koronnemu</li>
+      <li>ADJ: samemu, onemu, Polskim, inszym, Boskiej, Boskiemu, Bożej, Polsku, Szlacheckim, całej</li>
       <li>ADJ-Part: żyjącym, Szperającemu, Utajonemu, atakującemu, będącym, chcącemu, czytającemu, kochanemu, należącym, oblegającym</li>
-      <li>DET: któremu, tym, twemu, swemu, temu, którym, swoim, twojej, każdemu, mojej</li>
-      <li>NOUN: panu, królowi, ludziom, nieprzyjacielowi, prawu, bliźniemu, synowi, światu, Bogom, Krajowi</li>
-      <li>NOUN-Vnoun: Rozkazaniu, kochaniu, naśladowaniu, poświęceniu, spłaceniu, sztrofowaniu, usiłowaniu</li>
-      <li>PRON: sobie, mu, mi, im, nam, jej, ci, komu, wam, mnie</li>
-      <li>PROPN: Bogu, BOGU, Aaronowi, Janowi, Rzpltej, Achanowi, Afrowi, Antoniemu, Bachusowi, Benedyktowi</li>
+      <li>DET: któremu, tym, swemu, twemu, którym, temu, swoim, wszystkim, każdemu, naszemu</li>
+      <li>NOUN: panu, królowi, ludziom, nieprzyjacielowi, prawu, synowi, bliźniemu, człowiekowi, światu, Bogom</li>
+      <li>NOUN-Vnoun: Rozkazaniu, kochaniu, naśladowaniu, odwróceniu, potkaniu, poświęceniu, przeszkodzeniu, ruszeniu, spłaceniu, sztrofowaniu</li>
+      <li>NUM: dwóm</li>
+      <li>PRON: sobie, mu, mi, im, nam, jej, ci, wam, komu, mnie</li>
+      <li>PROPN: Bogu, BOGU, Rzeczypospolitej, Aaronowi, Janowi, Marsowi, Rzpltej, Żydom, Achanowi, Afrowi</li>
     </ul>
   </li>
 </ul>
@@ -358,14 +381,14 @@ This initial UD release contains 2,018 sentences and approximately 47K tokens, w
 <ul>
   <li>Gen
     <ul>
-      <li>ADJ: jednego, drugiego, onego, wszytkich, dobrego, wielkiego, świętego, innego, innych, jednej</li>
-      <li>ADJ-Part: opisanych, należących, otrzymanego, pomienionego, pomienionych, stworzonych, ubranych, zabitego, Apologiującego, Drukowanych</li>
-      <li>DET: tego, tej, tych, których, którego, swego, której, swoich, swojej, mego</li>
-      <li>NOUN: dnia, roku, pana, czasu, króla, ludzi, tysięcy, ziemi, serca, życia</li>
-      <li>NOUN-Vnoun: mówienia, widzenia, dogodzenia, panowania, pisania, podania, podziwienia, pokrzepienia, poruszenia, przedłużenia</li>
-      <li>NUM: dwóch, sześciu, dwu, piąciu, trzech, dwudziestu, dwunaści, dziewięciu, obydwóch, set</li>
+      <li>ADJ: jednego, drugiego, różnych, wszytkich, całego, dobrego, onego, świętego, innego, inszych</li>
+      <li>ADJ-Part: stworzonych, nadanych, opisanych, należących, otrzymanego, pomienionego, pomienionych, ubranych, zabitego, ściągających</li>
+      <li>DET: tego, tej, tych, których, którego, swego, której, mego, żadnej, swoich</li>
+      <li>NOUN: roku, dnia, pana, czasu, króla, ziemi, lat, rzeczy, serca, tysięcy</li>
+      <li>NOUN-Vnoun: widzenia, mówienia, pisania, dogodzenia, karania, myślenia, ocalenia, omieszkania, panowania, podania</li>
+      <li>NUM: dwóch, trzech, sześciu, dwu, piąciu, dwudziestu, dwunaści, dziewięciu, obydwóch, półtorej</li>
       <li>PRON: jego, ich, jej, tego, nich, czego, nic, siebie, mnie, niego</li>
-      <li>PROPN: Boga, Rzeczypospolitej, Polski, Turków, Chrystusa, Księżyca, MARYI, Węgier, Aleksandra, Jana</li>
+      <li>PROPN: Boga, Rzeczypospolitej, Polski, Turków, Aleksandra, Augusta, Chrystusa, Jana, Księżyca, MARYI</li>
     </ul>
   </li>
 </ul>
@@ -373,14 +396,14 @@ This initial UD release contains 2,018 sentences and approximately 47K tokens, w
 <ul>
   <li>Ins
     <ul>
-      <li>ADJ: wielkim, jednym, piękną, pierwszym, wielkiemi, wielką, własną, drugim, małym, największym</li>
-      <li>ADJ-Part: bawiącym, będącymi, ciągnącym, deponowanemi, dobytą, mającemi, mającym, mianowanym, nakrytemi, należącemi</li>
-      <li>DET: tym, któremi, jakim, temi, którymi, swoją, takim, tą, jaką, moją</li>
-      <li>NOUN: sposobem, częścią, czasem, słowy, miłością, panem, przyczyną, żoną, dekretem, nieprzyjacielem</li>
-      <li>NOUN-Vnoun: podziwieniem, Narodzeniem, doniesieniem, dyszkurowaniem, dziękczynieniem, karaniem, milczeniem, oddaniem, oświadczeniami, paleniem</li>
-      <li>NUM: dwiema, sześcią, dwojgiem, dwoma, sześciu, trzema</li>
-      <li>PRON: nim, tym, sobą, mną, czym, nami, tobą, niemi, nimi, nią</li>
-      <li>PROPN: Bogiem, BOGIEM, Chersonesem, Indiany, Lublinem, Pawłem, Polakami, Rzymianami, Warszawą, Anglią</li>
+      <li>ADJ: wielkim, jednym, wielką, piękną, pierwszym, samą, drugą, różnemi, samemi, wielkiemi</li>
+      <li>ADJ-Part: bawiącym, będącymi, ciągnącym, deponowanemi, dobytą, mającemi, mającym, mianowanym, mieszaną, najętą</li>
+      <li>DET: tym, któremi, jakim, swoją, temi, twoim, swoim, tą, którymi, moją</li>
+      <li>NOUN: sposobem, częścią, czasem, ludem, panem, przyczyną, miłością, słowy, złotem, dekretem</li>
+      <li>NOUN-Vnoun: opisaniem, podziwieniem, Narodzeniem, Wypisaniem, doniesieniem, dyszkurowaniem, dziękczynieniem, karaniem, milczeniem, obwieszczeniem</li>
+      <li>NUM: dwiema, sześcią, dwojgiem, dwoma, dziesięciom, sześciu, trzema</li>
+      <li>PRON: sobą, tym, mną, nim, czym, niemi, nami, nimi, tobą, nią</li>
+      <li>PROPN: Bogiem, Pawłem, BOGIEM, Chersonesem, Indiany, Lublinem, Polakami, Rzymianami, Tatarami, Warszawą</li>
     </ul>
   </li>
 </ul>
@@ -388,14 +411,14 @@ This initial UD release contains 2,018 sentences and approximately 47K tokens, w
 <ul>
   <li>Loc
     <ul>
-      <li>ADJ: jednym, innych, różnych, wielkiej, drugim, jednej, samym, bożym, całym, czarnych</li>
-      <li>ADJ-Part: następującym, Jarzęcych, Otrzymanej, aresztowanych, czyniących, czytanej, dawanych, donoszących, dufających, gorszących</li>
-      <li>DET: którym, tym, tych, tej, której, których, wszystkich, swoim, naszym, swojej</li>
-      <li>NOUN: rzeczach, świecie, miejscu, domu, kościele, roku, ziemi, czasie, nocy, wodzie</li>
-      <li>NOUN-Vnoun: opisaniu, przeczytaniu, rozmyślaniu, używaniu, zachowaniu, atakowaniu, braniu, czytaniu, dotykaniu, jedzeniu</li>
-      <li>NUM: dwu, dwóch, trzech, czterech, dwunastu, dziewięciu, piąci, sześci</li>
-      <li>PRON: tym, nim, sobie, czym, niej, nich, tobie, nas, mnie, czem</li>
-      <li>PROPN: Warszawie, Polsce, Polszcze, Bogu, Niemczech, Jeruzalem, Rzymie, Anglii, BOGU, Francjej</li>
+      <li>ADJ: różnych, samym, jednym, innych, drugiej, drugim, jednej, wielkiej, ostatniej, bożym</li>
+      <li>ADJ-Part: następującym, pomienionych, Jarzęcych, Otrzymanej, aresztowanych, czyniących, czytanej, dawanych, dawanym, donoszących</li>
+      <li>DET: tym, którym, tych, tej, której, których, swoim, wszystkich, naszym, swoich</li>
+      <li>NOUN: domu, kościele, świecie, roku, rzeczach, miejscu, ziemi, nocy, czasie, kole</li>
+      <li>NOUN-Vnoun: opisaniu, używaniu, przeczytaniu, rozmyślaniu, rozłączeniu, zachowaniu, atakowaniu, braniu, czuciu, czytaniu</li>
+      <li>NUM: dwu, dwóch, czterech, trzech, dwunastu, dziewięciu, piąci, sześci</li>
+      <li>PRON: tym, nim, sobie, niej, czym, nich, tobie, nas, mnie, czem</li>
+      <li>PROPN: Warszawie, Polszcze, Polsce, Azji, Bogu, Niemczech, Rzymie, Jeruzalem, Włoszech, Anglii</li>
     </ul>
   </li>
 </ul>
@@ -403,14 +426,14 @@ This initial UD release contains 2,018 sentences and approximately 47K tokens, w
 <ul>
   <li>Nom
     <ul>
-      <li>ADJ: sam, jedna, jeden, insze, sama, wielka, wielkie, inne, mający, pierwszy</li>
-      <li>ADJ-Part: mający, karany, obrany, podane, postawiony, poruszony, założone, znalezione, zwana, złożony</li>
-      <li>DET: który, które, ten, którzy, ta, która, te, ci, wszystkie, jakie</li>
-      <li>NOUN: pan, król, potrzeba, jmć, wojsko, człowiek, ludzie, rzecz, książę, miasto</li>
-      <li>NOUN-Vnoun: strzeżenie, udręczenie, zbieranie, śpiewanie, Budowanie, Poczęcia, Postanowienie, Sianie, Trwanie, Urządzenie</li>
-      <li>NUM: dwa, dwaj, pięć, trzy, dwie, dwoje, sto, cztery, ośm, sześć</li>
-      <li>PRON: ja, co, kto, to, on, oni, ty, cóż, nic, ona</li>
-      <li>PROPN: Bóg, Jan, BÓG, JEZUS, Józef, Mojżesz, Moskwa, Stanisław, Turcy, Chrystus</li>
+      <li>ADJ: sam, jeden, jedna, sama, wielkie, druga, insze, mający, wielka, wielki</li>
+      <li>ADJ-Part: mający, karany, obrany, podane, postawiony, położona, znalezione, Dan, dana, nazwana</li>
+      <li>DET: który, które, ten, którzy, ta, która, te, ci, wszystkie, to</li>
+      <li>NOUN: pan, król, człowiek, jmć, potrzeba, rzecz, wojsko, książę, ludzie, miasto</li>
+      <li>NOUN-Vnoun: zbieranie, budowanie, strzeżenie, udręczenie, śpiewanie, Elektryzowanie, Oblężenie, Poczęcia, Postanowienie, Sianie</li>
+      <li>NUM: dwa, trzy, dwaj, dwie, pięć, cztery, dwoje, sto, ośm, sześć</li>
+      <li>PRON: ja, co, to, kto, on, oni, ty, cóż, ona, nikt</li>
+      <li>PROPN: bóg, Jan, Józef, Moskwa, Stanisław, JEZUS, Mojżesz, Polska, Turcy, Żydzi</li>
     </ul>
   </li>
 </ul>
@@ -418,13 +441,13 @@ This initial UD release contains 2,018 sentences and approximately 47K tokens, w
 <ul>
   <li>Voc
     <ul>
-      <li>ADJ: Święty, kochana, Ladajaki, Mciwi, Miłościwi, Nabożni, Nieszczęśliwa, Szczęśliwy, Trzeci, WSzechmogący</li>
-      <li>ADJ-Part: kochana, nieprzeczekana, ozdobiony</li>
-      <li>DET: mój, moja, Wasza</li>
-      <li>NOUN: Panie, panowie, Pani, Ojcze, Pan, Wmć, córko, duszo, Bracia, Dobrodzieju</li>
-      <li>NOUN-Vnoun: umęczenie</li>
-      <li>PRON: ty</li>
-      <li>PROPN: Boże, BOŻE, JEZU, Arnoli, BOże, Boniwecie, Elizo, Henrietko, Izraelu, Janie</li>
+      <li>ADJ: Święty, Mciwi, kochana, kochany, Jerozolimskie, Ladajaki, Miłościwi, Nabożni, Nieszczęśliwa, Przezacni</li>
+      <li>ADJ-Part: kochana, nieprzeczekana, ozdobiony, pożądane</li>
+      <li>DET: mój, moja, Wasza, moje</li>
+      <li>NOUN: Panie, panowie, Pani, Ojcze, Pan, Wmć, córko, duszo, śmierci, Bracia</li>
+      <li>NOUN-Vnoun: rozmyślanie, umęczenie</li>
+      <li>PRON: ty, wy</li>
+      <li>PROPN: Boże, BOŻE, JEZU, Saulu, Arnoli, Azo, BOże, Boniwecie, Elizo, Guilelmciu</li>
     </ul>
   </li>
 </ul>
@@ -436,7 +459,7 @@ This initial UD release contains 2,018 sentences and approximately 47K tokens, w
 <ul>
   <li>Npr
     <ul>
-      <li>PRON: jego, ich, go, jej, mu, im, je, ją, on, nim</li>
+      <li>PRON: jego, ich, go, jej, mu, im, ją, je, on, nim</li>
     </ul>
   </li>
 </ul>
@@ -444,7 +467,7 @@ This initial UD release contains 2,018 sentences and approximately 47K tokens, w
 <ul>
   <li>Pre
     <ul>
-      <li>PRON: nich, niego, niej, nim, nie, nią, ń, nimi, niemi, niemu</li>
+      <li>PRON: nich, niego, nim, niej, nie, nią, niemi, nimi, ń, niemu</li>
     </ul>
   </li>
 </ul>
@@ -460,8 +483,8 @@ This initial UD release contains 2,018 sentences and approximately 47K tokens, w
 <ul>
   <li>Cmp
     <ul>
-      <li>ADJ: większa, większe, lepsza, mniejsze, dalszą, większej, lepsze, lepszych, mniejsza, dalszego</li>
-      <li>ADV: więcej, bardziej, wyżej, mniej, dalej, barziej, lepiej, prędzej, częściej, niżej</li>
+      <li>ADJ: większa, większe, lepsza, mniejsze, większej, dalszą, mniejsza, większych, lepsze, lepszych</li>
+      <li>ADV: więcej, bardziej, wyżej, dalej, mniej, lepiej, barziej, prędzej, niżej, snadniej</li>
     </ul>
   </li>
 </ul>
@@ -469,9 +492,9 @@ This initial UD release contains 2,018 sentences and approximately 47K tokens, w
 <ul>
   <li>Pos
     <ul>
-      <li>ADJ: sam, jeden, inne, jednego, cały, wszytkie, jedna, innych, jednym, wielkie</li>
-      <li>ADJ-Part: mający, karany, obrany, podane, postawiony, złożony, dane, następującym, opisanych, poruszony</li>
-      <li>ADV: tak, potym, dobrze, bardzo, osobliwie, barzo, jak, znowu, daleko, długo</li>
+      <li>ADJ: sam, jeden, inne, jednego, wszytkie, cały, różnych, wielkie, jedna, wszytkich</li>
+      <li>ADJ-Part: mający, karany, mówiący, obrany, podane, pomienionych, postawiony, położona, stworzonych, zachowany</li>
+      <li>ADV: tak, potym, dobrze, bardzo, jak, osobliwie, barzo, znowu, długo, daleko</li>
     </ul>
   </li>
 </ul>
@@ -479,8 +502,8 @@ This initial UD release contains 2,018 sentences and approximately 47K tokens, w
 <ul>
   <li>Sup
     <ul>
-      <li>ADJ: największej, najświętszej, najmniejszego, największym, Najaśniejszego, Najjaśniejszego, Najświętszego, najlepszy, największa, największe</li>
-      <li>ADV: najlepiej, najprędzej, najwięcej, nagorzej, najNabożniej, najbardziej, najbarziej, najcieniej, najcieplej, najmniej</li>
+      <li>ADJ: największej, najświętszej, Najjaśniejszego, najmniejszego, największym, najwyższe, Najaśniejszego, Najświętszego, najlepszy, najmniejsze</li>
+      <li>ADV: najwięcej, najlepiej, najbardziej, najprędzej, nagorzej, najNabożniej, najbarziej, najcieniej, najcieplej, najmniej</li>
     </ul>
   </li>
 </ul>
@@ -492,8 +515,8 @@ This initial UD release contains 2,018 sentences and approximately 47K tokens, w
 <ul>
   <li>Neg
     <ul>
-      <li>ADJ-Part: Nieustraszony, niechcący, niechcących, niedobitego, niedotknioną, niemającej, niemogące, nienadesłanych, nienaruszone, nienaruszonym</li>
-      <li>NOUN-Vnoun: niepostrzeżenia, nieukontentowaniu, niewidzenia, niewydanie</li>
+      <li>ADJ-Part: Niedojrzana, Nieustraszony, niechcący, niechcących, niedobitego, niedobytą, niedotknioną, niemającej, niemogące, nienadesłanych</li>
+      <li>NOUN-Vnoun: niepostrzeżenia, niespanie, niestawienie, nieukontentowaniu, niewidzenia, niewydanie, niewystawienie</li>
       <li>PART: nie</li>
     </ul>
   </li>
@@ -502,8 +525,8 @@ This initial UD release contains 2,018 sentences and approximately 47K tokens, w
 <ul>
   <li>Pos
     <ul>
-      <li>ADJ-Part: mający, karany, obrany, podane, postawiony, złożony, dane, następującym, opisanych, poruszony</li>
-      <li>NOUN-Vnoun: mówienia, podziwienie, widzenia, zabicie, żądanie, dogodzenia, karania, naśladowaniu, oczyszczenie, opisanie</li>
+      <li>ADJ-Part: mający, karany, mówiący, obrany, podane, pomienionych, postawiony, położona, stworzonych, zachowany</li>
+      <li>NOUN-Vnoun: widzenia, mówienia, karania, opisaniu, pisania, podziwienie, używaniu, zabicie, zbieranie, żądanie</li>
     </ul>
   </li>
 </ul>
@@ -515,9 +538,9 @@ This initial UD release contains 2,018 sentences and approximately 47K tokens, w
 <ul>
   <li>Long
     <ul>
-      <li>ADP: ze, we, ode, nade, przede, od, pode, przeze</li>
-      <li>AUX: em, eś, eście, eśmy</li>
-      <li>PRON: jego, mnie, ciebie, niego, tobie, jemu, jej, im, on</li>
+      <li>ADP: ze, we, ode, nade, przede, beze, od, pode, przeze</li>
+      <li>AUX: em, eś, cię, eście, eśmy</li>
+      <li>PRON: jego, mnie, ciebie, niego, tobie, jemu, jej, ich, im, on</li>
     </ul>
   </li>
 </ul>
@@ -525,12 +548,12 @@ This initial UD release contains 2,018 sentences and approximately 47K tokens, w
 <ul>
   <li>Short
     <ul>
-      <li>ADJ: rad, godzien, onę, Polsku, daleka, nienagła, osobna, pełen, winien, żyw</li>
-      <li>ADJ-Part: Dan, Pisan, Pochowan, potępion, stworzono, wywyższon, zbawion, zelżon</li>
+      <li>ADJ: rad, onę, godzien, Dan, osobna, wszytkę, Polsku, daleka, nienagła, pełen</li>
+      <li>ADJ-Part: Dan, Pisan, Pochowan, chwalon, doznan, potępion, pozbawion, stworzono, widzian, wywyższon</li>
       <li>ADP: w, z, od, przez, pod, nad, bez, przed, spod</li>
       <li>AUX: m, śmy, ś, ście, ch, chmy, śwa</li>
-      <li>DET: tę, ów, swoję, twoję, moję, Pewen, Waszę, owę, tamtę</li>
-      <li>PRON: ich, go, jej, mu, mi, nich, im, nim, je, ją</li>
+      <li>DET: tę, swoję, ów, twoję, moję, Pewen, Waszę, każden, owę, tamtę</li>
+      <li>PRON: ich, go, jej, mi, mu, nich, nim, im, ją, je</li>
     </ul>
   </li>
 </ul>
@@ -545,15 +568,27 @@ This initial UD release contains 2,018 sentences and approximately 47K tokens, w
 <ul>
   <li>Imp
     <ul>
-      <li>ADJ-Part: mający, karany, następującym, płynące, zwana, Znany, chodzący, degradowany, gorszących, haftowana</li>
-      <li>AUX: jest, m, był, są, być, em, śmy, było, będzie, ś</li>
+      <li>ADJ-Part: mający, karany, mówiący, idące, następującym, płynące, zwana, ściągających, Znany, aresztowanych</li>
+      <li>AUX: jest, m, był, być, są, em, będzie, śmy, ś, było</li>
       <li>AUX-Conv: będąc</li>
-      <li>AUX-Fin: jest, był, są, było, będzie, byli, była, były, będą, będziesz</li>
+      <li>AUX-Fin: jest, był, są, będzie, było, była, były, byli, będą, będziesz</li>
       <li>AUX-Inf: być</li>
-      <li>NOUN-Vnoun: mówienia, widzenia, żądanie, karania, naśladowaniu, panowania, pisania, rozmyślaniu, ruszanie, rządzenia</li>
-      <li>VERB-Conv: mając, mówiąc, chcąc, czyniąc, idąc, prosząc, rachując, słysząc, widząc, będąc</li>
-      <li>VERB-Fin: ma, jest, może, miał, mają, masz, było, mieli, będzie, są</li>
-      <li>VERB-Inf: mieć, mówić, czynić, być, widzieć, znać, jeść, uważać, trwać, iść</li>
+      <li>NOUN-Vnoun: widzenia, mówienia, karania, pisania, używaniu, zbieranie, żądanie, budowanie, myślenia, naśladowaniu</li>
+      <li>VERB-Conv: mając, mówiąc, chcąc, czyniąc, prosząc, widząc, będąc, idąc, rachując, słysząc</li>
+      <li>VERB-Fin: ma, jest, może, miał, mają, masz, będzie, było, mieli, mógł</li>
+      <li>VERB-Inf: mieć, być, czynić, mówić, widzieć, znać, jeść, uważać, dawać, trwać</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Imp,Perf
+    <ul>
+      <li>ADJ-Part: adornowana, autoryzowanej, koronowany, mianowanym, ofiarowani, ofiarowany, ranionemi, ranioną, rytyrowanego</li>
+      <li>NOUN-Vnoun: erygowanie, promowowanie, uwłóczenia</li>
+      <li>VERB-Conv: kazawszy</li>
+      <li>VERB-Fin: kazał, każe, kazała, mianował, musiał, ofiaruje, raczył, Salwowali, aresztowali, darowała</li>
+      <li>VERB-Inf: ofiarować, awokować, darować, ekskuzować, kazać, salwować, strzymać</li>
     </ul>
   </li>
 </ul>
@@ -561,12 +596,12 @@ This initial UD release contains 2,018 sentences and approximately 47K tokens, w
 <ul>
   <li>Perf
     <ul>
-      <li>ADJ-Part: obrany, podane, postawiony, złożony, dane, opisanych, poruszony, zachowany, założone, znalezione</li>
-      <li>AUX-Fin: została, zostali, został, zostało</li>
-      <li>NOUN-Vnoun: podziwienie, zabicie, dogodzenia, oczyszczenie, opisanie, opisaniu, podania, podziwienia, podziwieniem, pokrzepienia</li>
-      <li>VERB-Conv: wziąwszy, przyszedszy, dawszy, zostawiwszy, napadłszy, obaczywszy, otworzywszy, przybywszy, puściwszy, skupiwszy</li>
-      <li>VERB-Fin: dał, rzekł, wziął, powiedział, stało, uczynił, pokazał, umarł, przyszło, oddał</li>
-      <li>VERB-Inf: dać, uczynić, przyjąć, ustąpić, wydać, powiedzieć, wprowadzić, zostać, nastąpić, oddać</li>
+      <li>ADJ-Part: obrany, podane, pomienionych, postawiony, położona, stworzonych, zachowany, znalezione, złożony, Dan</li>
+      <li>AUX-Fin: została, zostali, został, zostały, zostało</li>
+      <li>NOUN-Vnoun: opisaniu, podziwienie, zabicie, dogodzenia, oblężenie, ocalenia, oczyszczenie, omieszkania, opisanie, opisaniem</li>
+      <li>VERB-Conv: wziąwszy, przyszedszy, zostawiwszy, dawszy, obaczywszy, napadłszy, otworzywszy, przybywszy, przyjachawszy, puściwszy</li>
+      <li>VERB-Fin: dał, rzekł, wziął, powiedział, stało, pokazał, przyszło, uczynił, umarł, oddał</li>
+      <li>VERB-Inf: dać, uczynić, przyjąć, ustąpić, wydać, poddać, pokazać, powiedzieć, przyznać, utrzymać</li>
     </ul>
   </li>
 </ul>
@@ -578,8 +613,8 @@ This initial UD release contains 2,018 sentences and approximately 47K tokens, w
 <ul>
   <li>Imp
     <ul>
-      <li>AUX-Fin: bądź</li>
-      <li>VERB-Fin: powiedz, weźmi, dajmy, zmiłuj, czyń, daj, przydź, Idź, bójcie, czyńcie</li>
+      <li>AUX-Fin: bądź, bywaj</li>
+      <li>VERB-Fin: weźmi, powiedz, daj, dajmy, zmiłuj, czyń, przydź, Idź, bójcie, chciej</li>
     </ul>
   </li>
 </ul>
@@ -587,8 +622,8 @@ This initial UD release contains 2,018 sentences and approximately 47K tokens, w
 <ul>
   <li>Ind
     <ul>
-      <li>AUX-Fin: jest, był, są, było, będzie, to, byli, była, były, będą</li>
-      <li>VERB-Fin: ma, jest, może, miał, mają, masz, trzeba, było, mieli, można</li>
+      <li>AUX-Fin: jest, był, są, będzie, to, było, była, były, byli, będą</li>
+      <li>VERB-Fin: ma, jest, może, miał, mają, masz, trzeba, będzie, było, można</li>
     </ul>
   </li>
 </ul>
@@ -601,7 +636,7 @@ This initial UD release contains 2,018 sentences and approximately 47K tokens, w
   <li>Fut
     <ul>
       <li>AUX-Fin: będzie, będą, będziesz, będę, będziemy, będziecie</li>
-      <li>VERB-Fin: będzie, będą, będziesz, da, uczyni, powie, przyjdzie, weźmie, weźmiesz, znajdziesz</li>
+      <li>VERB-Fin: będzie, będą, da, weźmie, będziesz, przyjdzie, uczyni, dasz, powie, weźmiesz</li>
     </ul>
   </li>
 </ul>
@@ -609,9 +644,9 @@ This initial UD release contains 2,018 sentences and approximately 47K tokens, w
 <ul>
   <li>Past
     <ul>
-      <li>AUX-Fin: był, było, byli, była, były, została, zostali, został, beł, beło</li>
-      <li>VERB-Conv: wziąwszy, przyszedszy, dawszy, zostawiwszy, napadłszy, obaczywszy, otworzywszy, przybywszy, puściwszy, skupiwszy</li>
-      <li>VERB-Fin: miał, było, mieli, mógł, dał, miała, był, kazał, rzekł, chciał</li>
+      <li>AUX-Fin: był, było, była, były, byli, została, zostali, został, zostały, beł</li>
+      <li>VERB-Conv: wziąwszy, przyszedszy, zostawiwszy, dawszy, obaczywszy, kazawszy, napadłszy, otworzywszy, przybywszy, przyjachawszy</li>
+      <li>VERB-Fin: miał, było, mieli, mógł, miała, był, dał, chciał, kazał, była</li>
     </ul>
   </li>
 </ul>
@@ -621,8 +656,8 @@ This initial UD release contains 2,018 sentences and approximately 47K tokens, w
     <ul>
       <li>AUX-Conv: będąc</li>
       <li>AUX-Fin: jest, są, to, bywa, bywają, jestem, jesteś, jesteśmy</li>
-      <li>VERB-Conv: mając, mówiąc, chcąc, czyniąc, idąc, prosząc, rachując, słysząc, widząc, będąc</li>
-      <li>VERB-Fin: ma, jest, może, mają, masz, trzeba, można, są, powinien, mówi</li>
+      <li>VERB-Conv: mając, mówiąc, chcąc, czyniąc, prosząc, widząc, będąc, idąc, rachując, słysząc</li>
+      <li>VERB-Fin: ma, jest, może, mają, masz, trzeba, można, są, mówi, powinien</li>
     </ul>
   </li>
 </ul>
@@ -634,13 +669,13 @@ This initial UD release contains 2,018 sentences and approximately 47K tokens, w
 <ul>
   <li>Act
     <ul>
-      <li>ADJ-Part: mający, następującym, płynące, chodzący, gorszących, idące, kwitnące, mająca, mówiący, należące</li>
+      <li>ADJ-Part: mający, mówiący, idące, następującym, płynące, ściągających, chodzący, gorszących, grożące, kwitnące</li>
       <li>AUX-Conv: będąc</li>
-      <li>AUX-Fin: jest, był, są, było, byli, była, były, będzie, bywa, bywają</li>
+      <li>AUX-Fin: jest, był, są, było, była, były, byli, będzie, bywa, bywają</li>
       <li>AUX-Inf: być</li>
-      <li>VERB-Conv: mając, mówiąc, chcąc, wziąwszy, czyniąc, idąc, prosząc, przyszedszy, rachując, słysząc</li>
-      <li>VERB-Fin: ma, jest, może, miał, mają, masz, było, mieli, będzie, są</li>
-      <li>VERB-Inf: mieć, mówić, czynić, być, dać, uczynić, widzieć, znać, jeść, uważać</li>
+      <li>VERB-Conv: mając, mówiąc, chcąc, wziąwszy, przyszedszy, czyniąc, prosząc, widząc, będąc, idąc</li>
+      <li>VERB-Fin: ma, jest, może, miał, mają, masz, będzie, było, mieli, mógł</li>
+      <li>VERB-Inf: mieć, być, czynić, mówić, dać, widzieć, uczynić, znać, jeść, uważać</li>
     </ul>
   </li>
 </ul>
@@ -648,7 +683,7 @@ This initial UD release contains 2,018 sentences and approximately 47K tokens, w
 <ul>
   <li>Pass
     <ul>
-      <li>ADJ-Part: karany, obrany, podane, postawiony, złożony, dane, opisanych, poruszony, zachowany, założone</li>
+      <li>ADJ-Part: karany, obrany, podane, pomienionych, postawiony, położona, stworzonych, zachowany, znalezione, złożony</li>
     </ul>
   </li>
 </ul>
@@ -665,7 +700,7 @@ This initial UD release contains 2,018 sentences and approximately 47K tokens, w
   <li>Dem
     <ul>
       <li>ADV: tak, tam, tu, dlatego, stąd, dotąd, stamtąd, wtedy, wtenczas, Skąd</li>
-      <li>DET: ten, tego, tych, tej, tym, te, ta, to, tę, ci</li>
+      <li>DET: ten, tego, tej, tych, tym, te, ta, to, tę, ci</li>
       <li>PRON: to, tym, tego, temu, tem</li>
     </ul>
   </li>
@@ -674,9 +709,9 @@ This initial UD release contains 2,018 sentences and approximately 47K tokens, w
 <ul>
   <li>Ind
     <ul>
-      <li>ADV: kiedykolwiek, cokolwiek, jakokolwiek, kędyżkolwiek, niekiedy</li>
-      <li>DET: wiele, kilka, więcej, wielu, niektóre, niektórych, kilkanaście, kilku, mało, niektórzy</li>
-      <li>PRON: coś, cokolwiek, ktoś, czymkolwiek</li>
+      <li>ADV: kiedykolwiek, cokolwiek, jakokolwiek, kiedyś, kędyżkolwiek, niekiedy</li>
+      <li>DET: wiele, kilka, więcej, wielu, niektóre, niektórych, kilkanaście, kilku, niektórzy, kilkadziesiąt</li>
+      <li>PRON: coś, cokolwiek, ktoś, czymkolwiek, komukolwiek</li>
     </ul>
   </li>
 </ul>
@@ -685,8 +720,16 @@ This initial UD release contains 2,018 sentences and approximately 47K tokens, w
   <li>Int
     <ul>
       <li>ADV: kiedy, czemu, gdzie, ile, jak, skąd, dokąd, Odkąd, dlaczego, jakże</li>
-      <li>DET: który, jakie, które, której, których, jaki, jaką, którego, którą, jakiego</li>
-      <li>PRON: co, kto, czego, czym, cóż, komu, któż, kogo, czem, czemu</li>
+      <li>DET: który, które, jakie, której, których, jaki, którą, jaka, jaką, którego</li>
+      <li>PRON: co, kto, czego, czym, cóż, komu, kogo, któż, czemu, czem</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Int,Rel
+    <ul>
+      <li>PRON: czego, czym</li>
     </ul>
   </li>
 </ul>
@@ -695,7 +738,7 @@ This initial UD release contains 2,018 sentences and approximately 47K tokens, w
   <li>Neg
     <ul>
       <li>ADV: nigdy, nigdzie</li>
-      <li>DET: żadnej, żadnego, żadnym, żaden, żadna, żadnych, żadne, żadnemu</li>
+      <li>DET: żadnej, żadnego, żadnym, żadna, żaden, żadnych, żadne, żadnemu, żadnymi, żadną</li>
       <li>PRON: nic, nikt, nikomu, niczego, niczym, nikim, nikogo</li>
     </ul>
   </li>
@@ -704,8 +747,8 @@ This initial UD release contains 2,018 sentences and approximately 47K tokens, w
 <ul>
   <li>Prs
     <ul>
-      <li>DET: swego, swoje, swojej, swoich, mój, mego, moje, swoim, moja, naszego</li>
-      <li>PRON: się, jego, ich, sobie, go, jej, mu, mi, ja, mnie</li>
+      <li>DET: swego, swoje, swoich, swojej, mój, swoim, mego, moje, swoją, moja</li>
+      <li>PRON: się, jego, ich, sobie, go, jej, mi, mu, ja, mnie</li>
     </ul>
   </li>
 </ul>
@@ -713,9 +756,9 @@ This initial UD release contains 2,018 sentences and approximately 47K tokens, w
 <ul>
   <li>Rel
     <ul>
-      <li>ADV: gdzie, kiedy, skąd</li>
-      <li>DET: które, który, których, którzy, którego, która, której, którym, którą, któremi</li>
-      <li>PRON: co, kto, czego, czym, czem</li>
+      <li>ADV: gdzie, kiedy, ile, skąd</li>
+      <li>DET: które, który, którzy, których, którego, która, którym, której, którą, któremi</li>
+      <li>PRON: co, kto, czego, czym, czem, kogo</li>
     </ul>
   </li>
 </ul>
@@ -723,8 +766,8 @@ This initial UD release contains 2,018 sentences and approximately 47K tokens, w
 <ul>
   <li>Tot
     <ul>
-      <li>ADV: zawsze, wszędzie</li>
-      <li>DET: wszystkie, wszystkich, każdy, każdego, wszyscy, każdej, wszelkie, wszelkiej, każde, każdą</li>
+      <li>ADV: zawsze, wszędzie, zewsząd</li>
+      <li>DET: wszystkie, wszystkich, każdy, każdego, wszyscy, każdej, wszelkie, wszelkiej, wszystkim, każde</li>
       <li>PRON: wszystko, wszyscy, wszystkim, wszystkich, wszystkiego, wszem, wszystkiem, wszytkich</li>
     </ul>
   </li>
@@ -737,8 +780,7 @@ This initial UD release contains 2,018 sentences and approximately 47K tokens, w
 <ul>
   <li>Card
     <ul>
-      <li>DET: tyle, ile, tylą, tyleż, tylu</li>
-      <li>NUM: kroć</li>
+      <li>DET: tyle, ile, tyleż, tylą, tylu</li>
     </ul>
   </li>
 </ul>
@@ -746,7 +788,7 @@ This initial UD release contains 2,018 sentences and approximately 47K tokens, w
 <ul>
   <li>Ord
     <ul>
-      <li>ADJ: jeden, jednego, jedna, jednym, drugiego, pierwszy, jednej, trzeci, drugim, drugie</li>
+      <li>ADJ: jeden, jednego, jedna, jednym, drugiego, drugą, jednej, pierwszy, druga, drugie</li>
     </ul>
   </li>
 </ul>
@@ -758,7 +800,7 @@ This initial UD release contains 2,018 sentences and approximately 47K tokens, w
 <ul>
   <li>Yes
     <ul>
-      <li>DET: swego, swoje, swojej, swoich, mój, mego, moje, swoim, moja, naszego</li>
+      <li>DET: swego, swoje, swoich, swojej, mój, swoim, mego, moje, swoją, moja</li>
     </ul>
   </li>
 </ul>
@@ -770,7 +812,7 @@ This initial UD release contains 2,018 sentences and approximately 47K tokens, w
 <ul>
   <li>Yes
     <ul>
-      <li>DET: swego, swoje, swojej, swoich, swoim, swej, swoją, swój, swych, swą</li>
+      <li>DET: swego, swoje, swoich, swojej, swoim, swoją, swej, swą, swój, swoję</li>
       <li>PRON: się, sobie, siebie, sobą, sję</li>
     </ul>
   </li>
@@ -783,7 +825,7 @@ This initial UD release contains 2,018 sentences and approximately 47K tokens, w
 <ul>
   <li>0
     <ul>
-      <li>VERB-Fin: dano, wzięto, chciano, naleziono, napisano, odpuszczono, opisano, uczyniono, wypędzono, zabito</li>
+      <li>VERB-Fin: dano, napisano, wzięto, chciano, naleziono, odpuszczono, opisano, uczyniono, wyprawiono, wypędzono</li>
     </ul>
   </li>
 </ul>
@@ -791,11 +833,11 @@ This initial UD release contains 2,018 sentences and approximately 47K tokens, w
 <ul>
   <li>1
     <ul>
-      <li>AUX: m, em, śmy, będę, jestem, będziemy, ch, chmy, eśmy, jesteśmy</li>
+      <li>AUX: m, em, śmy, będę, jestem, będziemy, jesteśmy, ch, chmy, eśmy</li>
       <li>AUX-Fin: będę, jestem, będziemy, jesteśmy</li>
-      <li>DET: mój, mego, moje, moja, naszego, naszych, mojej, nasze, naszym, naszej</li>
+      <li>DET: mój, mego, moje, moja, naszego, naszych, nasze, mojej, naszym, moich</li>
       <li>PRON: mi, ja, mnie, nas, nam, mię, mną, nami, my</li>
-      <li>VERB-Fin: proszę, chcę, mówię, rozumiem, mam, mamy, dajmy, widziemy, wiem, chcemy</li>
+      <li>VERB-Fin: mam, chcę, mówię, proszę, mamy, rozumiem, wiem, mogę, chcemy, czuję</li>
     </ul>
   </li>
 </ul>
@@ -803,11 +845,11 @@ This initial UD release contains 2,018 sentences and approximately 47K tokens, w
 <ul>
   <li>2
     <ul>
-      <li>AUX: ś, eś, będziesz, jesteś, ście, bądź, będziecie, eście</li>
-      <li>AUX-Fin: będziesz, jesteś, bądź, będziecie</li>
-      <li>DET: twego, twoich, twoim, twoja, twemu, twojej, twoję, waszych, twoje, twojego</li>
-      <li>PRON: ciebie, cię, was, ty, tobie, ci, wam, tobą, wami, wy</li>
-      <li>VERB-Fin: masz, chcesz, możesz, powiedz, weźmi, będziesz, widzicie, wiesz, zmiłuj, chcecie</li>
+      <li>AUX: ś, eś, będziesz, ście, jesteś, bądź, bywaj, będziecie, cię, eście</li>
+      <li>AUX-Fin: będziesz, jesteś, bądź, bywaj, będziecie</li>
+      <li>DET: twoim, twego, twojej, twemu, twoich, twoja, twoję, twoje, waszych, twojego</li>
+      <li>PRON: ciebie, cię, was, ty, tobie, ci, wam, tobą, wy, wami</li>
+      <li>VERB-Fin: masz, chcesz, możesz, weźmi, powiedz, będziesz, czynisz, daj, widzicie, wiesz</li>
     </ul>
   </li>
 </ul>
@@ -816,8 +858,8 @@ This initial UD release contains 2,018 sentences and approximately 47K tokens, w
   <li>3
     <ul>
       <li>AUX-Fin: jest, są, będzie, będą, bywa, bywają</li>
-      <li>PRON: jego, ich, go, jej, mu, nich, im, nim, je, ją</li>
-      <li>VERB-Fin: ma, jest, może, mają, będzie, są, mówi, daje, należy, mogą</li>
+      <li>PRON: jego, ich, go, jej, mu, nich, im, nim, ją, je</li>
+      <li>VERB-Fin: ma, jest, może, mają, będzie, są, mówi, musi, należy, daje</li>
     </ul>
   </li>
 </ul>
@@ -831,7 +873,7 @@ This initial UD release contains 2,018 sentences and approximately 47K tokens, w
 <ul>
   <li>Plur
     <ul>
-      <li>DET: naszego, naszych, nasze, naszym, naszej, nasz, waszych, wasza, Waszej, nasza</li>
+      <li>DET: naszego, naszych, nasze, naszym, naszej, nasz, waszych, nasza, wasza, wasze</li>
     </ul>
   </li>
 </ul>
@@ -839,7 +881,7 @@ This initial UD release contains 2,018 sentences and approximately 47K tokens, w
 <ul>
   <li>Sing
     <ul>
-      <li>DET: mój, mego, moje, moja, mojej, twego, moją, twoich, twoim, twoja</li>
+      <li>DET: mój, mego, moje, moja, mojej, twoim, twego, moich, moją, moim</li>
     </ul>
   </li>
 </ul>
@@ -852,10 +894,11 @@ This initial UD release contains 2,018 sentences and approximately 47K tokens, w
     <ul>
       <li>Yes
         <ul>
-          <li>ADJ: ś, S, w, M, Wielm, wyż, ŚP</li>
-          <li>ADV: jm, w, J, m, kor, K, etc, p, JP, fl</li>
-          <li>NOUN: p, X, r, PP, ks, zł, Logar, dń, godź, min</li>
-          <li>PROPN: M, B, N, K, T, A, D, F, J, O</li>
+          <li>ADJ: ś, s, K, w, M, kor, p, JW, Najś, śś</li>
+          <li>ADV: J, etc, np, W, d, itd, nieco, t</li>
+          <li>NOUN: p, jm, m, w, ks, X, jmp, r, JP, stop</li>
+          <li>PROPN: M, B, N, WKsLit, AK, K, T, X, p, A</li>
+          <li>X: mpr</li>
         </ul>
       </li>
     </ul>
@@ -867,7 +910,24 @@ This initial UD release contains 2,018 sentences and approximately 47K tokens, w
     <ul>
       <li>Prep
         <ul>
-          <li>ADP: na, w, do, z, o, za, po, dla, od, przy</li>
+          <li>ADP: na, do, w, z, o, za, po, dla, od, przy</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>Agglutination</a>
+    <ul>
+      <li>Agl
+        <ul>
+          <li>VERB-Fin: Przywiozł, mogł, odprawował, postanowił, wspierał, wstapił</li>
+        </ul>
+      </li>
+      <li>Nagl
+        <ul>
+          <li>VERB-Fin: mógł, doniósł, odniósł, pomógł, przyniósł, przywiódł, przywlokł, wlokł, zawiódł, zniósł</li>
         </ul>
       </li>
     </ul>
@@ -879,7 +939,7 @@ This initial UD release contains 2,018 sentences and approximately 47K tokens, w
     <ul>
       <li>Comp
         <ul>
-          <li>SCONJ: jak, niż, niżeli, jakoby, jakby, aniżeli, niby, niźli</li>
+          <li>SCONJ: jak, niż, niżeli, jakoby, aniżeli, jakby, niby, niźli</li>
         </ul>
       </li>
     </ul>
@@ -891,44 +951,54 @@ This initial UD release contains 2,018 sentences and approximately 47K tokens, w
     <ul>
       <li>ADJ
         <ul>
-          <li>ADJ: czterdziestego, dwudziestą</li>
+          <li>ADJ: czterdziestego, dwudziestym, dwudziestą, tym</li>
         </ul>
       </li>
       <li>ADP
         <ul>
-          <li>ADP: w, Na, Z, bez, pod, za</li>
+          <li>ADP: w, z, Na, bez, pod, za</li>
           <li>ADV: wraz, razem</li>
           <li>PART: co</li>
         </ul>
       </li>
       <li>ADV
         <ul>
-          <li>ADJ: sam</li>
-          <li>ADP: dla, w, na, Za, do, pod, Mimo, Nad, nade, przed</li>
-          <li>ADV: ile, oraz, pospołu, jak, jako, rzadko, skąd</li>
+          <li>ADJ: sam, sama</li>
+          <li>ADP: dla, na, w, Za, do, pod, Mimo, Nad, nade, przed</li>
+          <li>ADV: jako, Czterykroć, ile, oraz, pospołu, jak, mniej, rzadko, skąd</li>
           <li>CCONJ: a</li>
           <li>DET: Tym</li>
-          <li>NUM: 3</li>
-          <li>PART: co, i, a, czy, jako, nie</li>
+          <li>PART: co, i, czy, a, jako, nie</li>
           <li>PRON: co</li>
         </ul>
       </li>
       <li>AUX
         <ul>
-          <li>AUX: Niech</li>
+          <li>AUX: Niech, cię</li>
         </ul>
       </li>
       <li>CCONJ
         <ul>
           <li>ADP: jako</li>
-          <li>CCONJ: ale, a, jako, i, abo, jedno, oraz, tak, albo, bądź</li>
+          <li>CCONJ: ale, a, jako, albo, abo, i, bądź, jak, jedno, oraz</li>
           <li>PART: to, a, jednak, oraz, Nie</li>
           <li>SCONJ: jako</li>
         </ul>
       </li>
       <li>DET
         <ul>
-          <li>DET: ten, tym, te</li>
+          <li>DET: ten, tym, jakiej, te, tę</li>
+        </ul>
+      </li>
+      <li>NOUN
+        <ul>
+          <li>NOUN: milion, sta, tysiący</li>
+          <li>X: kroć, współ</li>
+        </ul>
+      </li>
+      <li>PART
+        <ul>
+          <li>PART: a, czy</li>
         </ul>
       </li>
       <li>PRON
@@ -940,7 +1010,7 @@ This initial UD release contains 2,018 sentences and approximately 47K tokens, w
         <ul>
           <li>ADP: Za, jako</li>
           <li>CCONJ: czy</li>
-          <li>SCONJ: jako, gdy, jeśli, Iż, co, gdzie, jak, jeżeli, kiedy</li>
+          <li>SCONJ: jako, gdy, jeśli, jeżeli, Iż, co, gdzie, jak, kiedy</li>
         </ul>
       </li>
     </ul>
@@ -952,7 +1022,7 @@ This initial UD release contains 2,018 sentences and approximately 47K tokens, w
     <ul>
       <li>Yes
         <ul>
-          <li>X: de, ¤, Ada-, Poli, mowi, niwecz, s, sześć</li>
+          <li>X: de</li>
         </ul>
       </li>
     </ul>
@@ -976,17 +1046,17 @@ This initial UD release contains 2,018 sentences and approximately 47K tokens, w
     <ul>
       <li>Digit
         <ul>
-          <li>NUM: 2, 3, 4, 1, 10, 7, 5, 12, 8, 6</li>
+          <li>NUM: 2, 1, 3, 4, 10, 7, 6, 8, 5, 12</li>
         </ul>
       </li>
       <li>Roman
         <ul>
-          <li>X: I, III, V, II, XXIV, IV, XIII, XIV, LXIV, VI</li>
+          <li>NUM: V, I, III, II, IV, XXIV, VI, XIII, XIV, LXIV</li>
         </ul>
       </li>
       <li>Word
         <ul>
-          <li>NUM: dwa, dwie, trzy, pięć, cztery, dwóch, sto, dwoje, dwu, dwadzieścia</li>
+          <li>NUM: dwa, trzy, dwie, cztery, pięć, sto, dwóch, dwoje, dwadzieścia, dwu</li>
         </ul>
       </li>
     </ul>
@@ -1100,7 +1170,7 @@ This initial UD release contains 2,018 sentences and approximately 47K tokens, w
       <li>Quasi
         <ul>
           <li>AUX-Fin: to</li>
-          <li>VERB-Fin: trzeba, można</li>
+          <li>VERB-Fin: trzeba, można, potrzeba, wolno, Dosyć, wiadomo</li>
         </ul>
       </li>
     </ul>
@@ -1126,22 +1196,24 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB-Conv--NOUN-Nom (3)</li>
-      <li>VERB-Fin--NOUN (12)</li>
+      <li>VERB-Conv--NOUN-Nom (4)</li>
+      <li>VERB-Fin--NOUN (39)</li>
       <li>VERB-Fin--NOUN-Acc (3)</li>
-      <li>VERB-Fin--NOUN-Gen (36)</li>
+      <li>VERB-Fin--NOUN-Gen (57)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(na) (1)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(po) (1)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(z) (1)</li>
-      <li>VERB-Fin--NOUN-Nom (977)</li>
+      <li>VERB-Fin--NOUN-Loc (1)</li>
+      <li>VERB-Fin--NOUN-Nom (1231)</li>
       <li>VERB-Fin--NOUN-Voc (1)</li>
+      <li>VERB-Fin--PRON (5)</li>
       <li>VERB-Fin--PRON-Acc (1)</li>
-      <li>VERB-Fin--PRON-Gen (3)</li>
-      <li>VERB-Fin--PRON-Nom (220)</li>
+      <li>VERB-Fin--PRON-Gen (5)</li>
+      <li>VERB-Fin--PRON-Nom (269)</li>
       <li>VERB-Fin--PRON-Voc (1)</li>
-      <li>VERB-Inf--NOUN-Nom (9)</li>
+      <li>VERB-Inf--NOUN-Nom (13)</li>
       <li>VERB-Inf--PRON-Dat (1)</li>
-      <li>VERB-Inf--PRON-Nom (4)</li>
+      <li>VERB-Inf--PRON-Nom (5)</li>
     </ul>
   </li>
 </ul>
@@ -1149,26 +1221,29 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB-Conv--NOUN-Acc (92)</li>
-      <li>VERB-Conv--NOUN-Gen (18)</li>
+      <li>VERB-Conv--NOUN-Acc (111)</li>
+      <li>VERB-Conv--NOUN-Gen (25)</li>
       <li>VERB-Conv--NOUN-Ins (1)</li>
       <li>VERB-Conv--NOUN-Nom (1)</li>
-      <li>VERB-Conv--PRON-Acc (22)</li>
-      <li>VERB-Conv--PRON-Gen (3)</li>
-      <li>VERB-Fin--NOUN (2)</li>
-      <li>VERB-Fin--NOUN-Acc (654)</li>
+      <li>VERB-Conv--PRON-Acc (25)</li>
+      <li>VERB-Conv--PRON-Gen (6)</li>
+      <li>VERB-Fin--NOUN (9)</li>
+      <li>VERB-Fin--NOUN-Acc (803)</li>
       <li>VERB-Fin--NOUN-Dat (1)</li>
-      <li>VERB-Fin--NOUN-Gen (178)</li>
+      <li>VERB-Fin--NOUN-Gen (223)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(około) (1)</li>
-      <li>VERB-Fin--NOUN-Ins (3)</li>
+      <li>VERB-Fin--NOUN-Gen-ADP(po) (1)</li>
+      <li>VERB-Fin--NOUN-Ins (7)</li>
       <li>VERB-Fin--NOUN-Nom (1)</li>
-      <li>VERB-Fin--PRON-Acc (250)</li>
-      <li>VERB-Fin--PRON-Gen (59)</li>
-      <li>VERB-Inf--NOUN-Acc (192)</li>
-      <li>VERB-Inf--NOUN-Gen (66)</li>
-      <li>VERB-Inf--NOUN-Nom (1)</li>
-      <li>VERB-Inf--PRON-Acc (75)</li>
-      <li>VERB-Inf--PRON-Gen (24)</li>
+      <li>VERB-Fin--PRON (1)</li>
+      <li>VERB-Fin--PRON-Acc (314)</li>
+      <li>VERB-Fin--PRON-Gen (70)</li>
+      <li>VERB-Inf--NOUN (1)</li>
+      <li>VERB-Inf--NOUN-Acc (222)</li>
+      <li>VERB-Inf--NOUN-Gen (86)</li>
+      <li>VERB-Inf--NOUN-Nom (2)</li>
+      <li>VERB-Inf--PRON-Acc (97)</li>
+      <li>VERB-Inf--PRON-Gen (31)</li>
     </ul>
   </li>
 </ul>
@@ -1176,36 +1251,43 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB-Conv--NOUN-Acc (10)</li>
-      <li>VERB-Conv--NOUN-Dat (5)</li>
-      <li>VERB-Conv--NOUN-Gen (5)</li>
-      <li>VERB-Conv--NOUN-Ins (7)</li>
-      <li>VERB-Conv--PRON-Dat (6)</li>
+      <li>VERB-Conv--NOUN (1)</li>
+      <li>VERB-Conv--NOUN-Acc (11)</li>
+      <li>VERB-Conv--NOUN-Dat (10)</li>
+      <li>VERB-Conv--NOUN-Gen (7)</li>
+      <li>VERB-Conv--NOUN-Ins (10)</li>
+      <li>VERB-Conv--PRON (1)</li>
+      <li>VERB-Conv--PRON-Dat (11)</li>
       <li>VERB-Conv--PRON-Gen (1)</li>
-      <li>VERB-Conv--PRON-Ins (5)</li>
-      <li>VERB-Fin--NOUN (2)</li>
-      <li>VERB-Fin--NOUN-Acc (112)</li>
+      <li>VERB-Conv--PRON-Ins (6)</li>
+      <li>VERB-Fin--NOUN (9)</li>
+      <li>VERB-Fin--NOUN-Acc (138)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(nad) (1)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(w) (1)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(za) (1)</li>
-      <li>VERB-Fin--NOUN-Dat (115)</li>
-      <li>VERB-Fin--NOUN-Gen (105)</li>
-      <li>VERB-Fin--NOUN-Ins (119)</li>
+      <li>VERB-Fin--NOUN-Dat (137)</li>
+      <li>VERB-Fin--NOUN-Gen (146)</li>
+      <li>VERB-Fin--NOUN-Gen-ADP(na) (1)</li>
+      <li>VERB-Fin--NOUN-Gen-ADP(nad) (1)</li>
+      <li>VERB-Fin--NOUN-Gen-ADP(po) (1)</li>
+      <li>VERB-Fin--NOUN-Ins (151)</li>
       <li>VERB-Fin--NOUN-Nom (5)</li>
-      <li>VERB-Fin--PRON-Acc (18)</li>
-      <li>VERB-Fin--PRON-Dat (169)</li>
+      <li>VERB-Fin--PRON (2)</li>
+      <li>VERB-Fin--PRON-Acc (26)</li>
+      <li>VERB-Fin--PRON-Dat (212)</li>
       <li>VERB-Fin--PRON-Dat-ADP(przeciwko) (1)</li>
-      <li>VERB-Fin--PRON-Gen (20)</li>
+      <li>VERB-Fin--PRON-Gen (26)</li>
       <li>VERB-Fin--PRON-Gen-ADP(do) (1)</li>
-      <li>VERB-Fin--PRON-Ins (5)</li>
+      <li>VERB-Fin--PRON-Ins (6)</li>
       <li>VERB-Fin--PRON-Nom (1)</li>
-      <li>VERB-Inf--NOUN-Acc (13)</li>
-      <li>VERB-Inf--NOUN-Dat (37)</li>
-      <li>VERB-Inf--NOUN-Gen (14)</li>
-      <li>VERB-Inf--NOUN-Ins (45)</li>
+      <li>VERB-Inf--NOUN (1)</li>
+      <li>VERB-Inf--NOUN-Acc (22)</li>
+      <li>VERB-Inf--NOUN-Dat (50)</li>
+      <li>VERB-Inf--NOUN-Gen (24)</li>
+      <li>VERB-Inf--NOUN-Ins (52)</li>
       <li>VERB-Inf--PRON-Acc (7)</li>
-      <li>VERB-Inf--PRON-Dat (18)</li>
-      <li>VERB-Inf--PRON-Gen (7)</li>
+      <li>VERB-Inf--PRON-Dat (20)</li>
+      <li>VERB-Inf--PRON-Gen (10)</li>
       <li>VERB-Inf--PRON-Ins (2)</li>
     </ul>
   </li>
@@ -1214,20 +1296,20 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Reflexive Verbs</h3>
 
 <ul>
-  <li>This corpus contains 451 lemmas that occur at least once with an <a>expl:pv</a> child. Examples: stać się, pokazać się, zdawać się, bać się, dziać się, bawić się, znajdować się, modlić się, rodzić się, mieścić się, nazywać się, pokazywać się, stawić się, widzieć się, zdać się, dawać się, wrócić się, znaleźć się, ściągać się, mówić się, obawiać się, ruszyć się, spodziewać się, szerzyć się, tyczyć się, uczyć się, udać się, zwać się, dać się, dziwować się, frasować się, gotować się, mieć się, narodzić się, nauczyć się, odważyć się, poddać się, trzymać się, wydawać się, zmiłować się, zostać się, brzydzić się, czynić się, dostać się, dowiedzieć się, dzielić się, gniewać się, mścić się, naleźć się, obejść się</li>
+  <li>This corpus contains 547 lemmas that occur at least once with an <a>expl:pv</a> child. Examples: stać się, pokazać się, zdawać się, bawić się, bać się, dziać się, pokazywać się, znajdować się, nazywać się, rodzić się, znaleźć się, modlić się, ruszyć się, spodziewać się, stawić się, widzieć się, wrócić się, zdać się, mieścić się, udać się, ściągać się, dawać się, dowiedzieć się, gotować się, mieć się, uczyć się, wydawać się, czynić się, dać się, mówić się, obawiać się, poddać się, starać się, szerzyć się, tyczyć się, zwać się, dziwować się, frasować się, naleźć się, narodzić się, nauczyć się, odważyć się, podnieść się, podnosić się, podobać się, przyznać się, pytać się, rozciągać się, ruszać się, sprawować się</li>
 </ul>
 
 
 <h3>Verbs with Reflexive Core Objects</h3>
 
 <ul>
-  <li>This corpus contains 20 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: oddać sobie, wyznaczyć sobie, bogacić siebie, brzydzić sobą, czynić sobie, dać sobie, mówić sobie, nazywać siebie, oświadczyć sobie, patrzeć siebie, podobać sobie, przywłaszczyć sobie, reparować swoje, ujrzeć siebie, umieścić siebie, użyczyć sobie, wytrzeć sobie, zlecić sobie, zostawić sobie, zły sobie</li>
+  <li>This corpus contains 25 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: oddać sobie, wyznaczyć sobie, bogacić siebie, brzydzić sobą, czynić sobie, dać sobie, mówić sobie, nabywać siebie, naleźć swoję, nazywać siebie, oskarżać siebie, oświadczyć sobie, patrzeć siebie, podobać sobie, przywłaszczyć sobie, reparować swoje, ujrzeć siebie, umieścić siebie, użyczyć sobie, wydawać swoje, wyrwać siebie, wytrzeć sobie, zlecić sobie, zostawić sobie, zły sobie</li>
 </ul>
 
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 31 relation subtypes: <a>acl:relcl</a>, <a>advcl:cmp</a>, <a>advcl:relcl</a>, <a>advmod:arg</a>, <a>advmod:emph</a>, <a>advmod:neg</a>, <a>amod:flat</a>, <a>aux:clitic</a>, <a>aux:cnd</a>, <a>aux:imp</a>, <a>aux:pass</a>, <a>cc:preconj</a>, <a>ccomp:cleft</a>, <a>ccomp:obj</a>, <a>det:poss</a>, <a>discourse:intj</a>, <a>expl:pv</a>, <a>nmod:arg</a>, <a>nmod:flat</a>, <a>nmod:poss</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a>, <a>nummod:flat</a>, <a>obl:agent</a>, <a>obl:arg</a>, <a>obl:cmp</a>, <a>parataxis:insert</a>, <a>parataxis:obj</a>, <a>xcomp:cleft</a>, <a>xcomp:pred</a>, <a>xcomp:subj</a></li>
+<li>This corpus uses 35 relation subtypes: <a>acl:relcl</a>, <a>advcl:cmp</a>, <a>advcl:relcl</a>, <a>advmod:arg</a>, <a>advmod:emph</a>, <a>advmod:neg</a>, <a>amod:flat</a>, <a>aux:clitic</a>, <a>aux:cnd</a>, <a>aux:imp</a>, <a>aux:pass</a>, <a>cc:preconj</a>, <a>ccomp:cleft</a>, <a>ccomp:obj</a>, <a>det:numgov</a>, <a>det:nummod</a>, <a>det:poss</a>, <a>discourse:intj</a>, <a>expl:pv</a>, <a>nmod:arg</a>, <a>nmod:cmp</a>, <a>nmod:flat</a>, <a>nmod:poss</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a>, <a>nummod:flat</a>, <a>nummod:gov</a>, <a>obl:agent</a>, <a>obl:arg</a>, <a>obl:cmp</a>, <a>parataxis:insert</a>, <a>parataxis:obj</a>, <a>xcomp:cleft</a>, <a>xcomp:pred</a>, <a>xcomp:subj</a></li>
 <li>The following 2 main types are not used alone, they are always subtyped: <a>discourse</a>, <a>expl</a></li>
 <li>The following 5 relation types are not used in this corpus at all: <a>dislocated</a>, <a>clf</a>, <a>compound</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>

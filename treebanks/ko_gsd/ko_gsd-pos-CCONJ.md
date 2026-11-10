@@ -62,7 +62,7 @@ The 10 most frequent ambiguous types:  또는 (<tt><a href="ko_gsd-pos-CCONJ.htm
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 0.933333 (the average of all parts of speech is 1.001499).
+The form / lemma ratio of `CCONJ` is 0.933333 (the average of all parts of speech is 1.001527).
 
 The 1st highest number of forms (1) was observed with the lemma “겸”: 겸.
 

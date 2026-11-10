@@ -59,7 +59,7 @@ The following 57 pairs of parts of speech are connected with `advmod`: <tt><a hr
 2	about	about	ADP	IN	_	4	case	4:case	_
 3	right	right	ADV	RB	_	4	advmod	4:advmod	_
 4	here	here	ADV	RB	_	1	obl	1:obl:about	SpaceAfter=No
-5	?	?	PUNCT	?	_	1	punct	1:punct	_
+5	?	?	PUNCT	.	_	1	punct	1:punct	_
 
 ~~~
 

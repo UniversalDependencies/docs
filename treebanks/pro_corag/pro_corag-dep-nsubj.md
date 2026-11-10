@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-2690 nodes (5%) are attached to their parents as `nsubj`.
+3567 nodes (5%) are attached to their parents as `nsubj`.
 
-2288 instances of `nsubj` (85%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.50371747211896.
+3032 instances of `nsubj` (85%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.43930473787497.
 
-The following 14 pairs of parts of speech are connected with `nsubj`: <tt><a href="pro_corag-pos-VERB.html">VERB</a></tt>-<tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt> (1451; 54% instances), <tt><a href="pro_corag-pos-VERB.html">VERB</a></tt>-<tt><a href="pro_corag-pos-PRON.html">PRON</a></tt> (1002; 37% instances), <tt><a href="pro_corag-pos-VERB.html">VERB</a></tt>-<tt><a href="pro_corag-pos-PROPN.html">PROPN</a></tt> (47; 2% instances), <tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pro_corag-pos-PRON.html">PRON</a></tt> (39; 1% instances), <tt><a href="pro_corag-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt> (36; 1% instances), <tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pro_corag-pos-PROPN.html">PROPN</a></tt> (35; 1% instances), <tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt> (28; 1% instances), <tt><a href="pro_corag-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pro_corag-pos-PRON.html">PRON</a></tt> (19; 1% instances), <tt><a href="pro_corag-pos-PRON.html">PRON</a></tt>-<tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt> (14; 1% instances), <tt><a href="pro_corag-pos-ADV.html">ADV</a></tt>-<tt><a href="pro_corag-pos-PRON.html">PRON</a></tt> (6; 0% instances), <tt><a href="pro_corag-pos-VERB.html">VERB</a></tt>-<tt><a href="pro_corag-pos-ADJ.html">ADJ</a></tt> (5; 0% instances), <tt><a href="pro_corag-pos-PRON.html">PRON</a></tt>-<tt><a href="pro_corag-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="pro_corag-pos-VERB.html">VERB</a></tt>-<tt><a href="pro_corag-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="pro_corag-pos-NUM.html">NUM</a></tt>-<tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt> (2; 0% instances).
+The following 14 pairs of parts of speech are connected with `nsubj`: <tt><a href="pro_corag-pos-VERB.html">VERB</a></tt>-<tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt> (2014; 56% instances), <tt><a href="pro_corag-pos-VERB.html">VERB</a></tt>-<tt><a href="pro_corag-pos-PRON.html">PRON</a></tt> (1286; 36% instances), <tt><a href="pro_corag-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt> (47; 1% instances), <tt><a href="pro_corag-pos-VERB.html">VERB</a></tt>-<tt><a href="pro_corag-pos-PROPN.html">PROPN</a></tt> (47; 1% instances), <tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pro_corag-pos-PRON.html">PRON</a></tt> (42; 1% instances), <tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pro_corag-pos-PROPN.html">PROPN</a></tt> (35; 1% instances), <tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt> (34; 1% instances), <tt><a href="pro_corag-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pro_corag-pos-PRON.html">PRON</a></tt> (25; 1% instances), <tt><a href="pro_corag-pos-PRON.html">PRON</a></tt>-<tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt> (15; 0% instances), <tt><a href="pro_corag-pos-ADV.html">ADV</a></tt>-<tt><a href="pro_corag-pos-PRON.html">PRON</a></tt> (6; 0% instances), <tt><a href="pro_corag-pos-VERB.html">VERB</a></tt>-<tt><a href="pro_corag-pos-ADJ.html">ADJ</a></tt> (6; 0% instances), <tt><a href="pro_corag-pos-VERB.html">VERB</a></tt>-<tt><a href="pro_corag-pos-NUM.html">NUM</a></tt> (5; 0% instances), <tt><a href="pro_corag-pos-PRON.html">PRON</a></tt>-<tt><a href="pro_corag-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="pro_corag-pos-NUM.html">NUM</a></tt>-<tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt> (2; 0% instances).
 
 
 ~~~ conllu
@@ -24,66 +24,68 @@ The following 14 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 # visual-style 7 4 nsubj	color:blue
 1	Item	_	ADV	_	_	7	advmod	_	SpaceAfter=No
 2	,	_	PUNCT	_	_	1	punct	_	_
-3	nulh	_	DET	_	Polarity=Neg	4	det	_	_
-4	ceys	_	NOUN	_	_	7	nsubj	_	_
-5	no-	_	ADV	_	Polarity=Neg	7	advmod	_	_
-6	-s	_	PRON	_	Person=3|PronType=Prs|Reflex=Yes	8	expl	_	_
-7	deu	_	VERB	_	Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
-8	judyar	_	VERB	_	VerbForm=Inf	7	xcomp	_	_
-9	fore	_	ADP	_	_	11	case	_	_
-10	la	_	DET	_	_	11	det	_	_
-11	cadene	_	NOUN	_	_	8	obl	_	_
-12	de	_	ADP	_	_	14	case	_	_
+3	aucuns	_	DET	_	_	4	det	_	_
+4	homes	_	NOUN	_	_	7	nsubj	_	_
+5	de	_	ADP	_	_	6	case	_	_
+6	Crognon	_	PROPN	_	_	4	nmod	_	_
+7	foren	_	VERB	_	Number=Plur|Person=3|VerbForm=Fin	0	root	_	_
+8	de-	_	ADP	_	_	10	case	_	_
+9	-lo	_	DET	_	_	10	det	_	_
+10	seynhor	_	NOUN	_	_	7	obl	_	_
+11	Rey	_	NOUN	_	_	10	flat	_	SpaceAfter=No
+12	.	_	PUNCT	_	_	7	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 3 nsubj	color:blue
+1	E	_	CCONJ	_	_	9	cc	_	_
+2	si	_	SCONJ	_	_	4	mark	_	_
+3	negu	_	PRON	_	Gender=Masc|Number=Sing|PronType=Ind	4	nsubj	_	_
+4	tie	_	VERB	_	Number=Sing|Person=3|VerbForm=Fin	9	advcl	_	_
+5	mesure	_	NOUN	_	_	4	obj	_	_
+6	o	_	CCONJ	_	_	7	cc	_	_
+7	pes	_	NOUN	_	_	5	conj	_	_
+8	fauss	_	ADJ	_	_	5	amod	_	_
+9	do	_	VERB	_	Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
+10	a	_	ADP	_	_	11	case	_	_
+11	mi	_	PRON	_	Number=Sing|Person=1|PronType=Prs	9	obl	_	_
+12	daun	_	NOUN	_	_	9	obj	_	_
+13	.vi.	_	NUM	_	_	14	nummod	_	_
+14	soos	_	NOUN	_	_	12	nmod	_	SpaceAfter=No
+15	.	_	PUNCT	_	_	9	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 14	bgColor:blue
+# visual-style 14	fgColor:white
+# visual-style 16	bgColor:blue
+# visual-style 16	fgColor:white
+# visual-style 16 14 nsubj	color:blue
+1	presenti	_	VERB	_	Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
+2	se	_	PRON	_	Person=3|PronType=Prs|Reflex=Yes	1	expl	_	_
+3	de	_	ADP	_	_	4	mark	_	_
+4	proar	_	VERB	_	VerbForm=Inf	1	xcomp	_	_
+5	a	_	ADP	_	_	6	case	_	_
+6	esgard	_	NOUN	_	_	4	obl	_	_
+7	de	_	ADP	_	_	9	case	_	_
+8	la	_	DET	_	_	9	det	_	_
+9	cort	_	NOUN	_	_	6	nmod	_	_
+10	et	_	CCONJ	_	_	11	cc	_	_
+11	digue	_	VERB	_	Number=Sing|Person=3|VerbForm=Fin	1	conj	_	_
+12	que	_	SCONJ	_	_	16	mark	_	_
 13	la	_	DET	_	_	14	det	_	_
-14	viele	_	NOUN	_	_	11	nmod	_	SpaceAfter=No
-15	.	_	PUNCT	_	_	7	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 11 9 nsubj	color:blue
-1	e	_	CCONJ	_	_	11	cc	_	_
-2	si-	_	SCONJ	_	_	4	mark	_	_
-3	-no	_	ADV	_	Polarity=Neg	4	advmod	_	_
-4	pod	_	VERB	_	Number=Sing|Person=3|VerbForm=Fin	11	advcl	_	_
-5	lui	_	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obj	_	_
-6	aver	_	VERB	_	VerbForm=Inf	4	xcomp	_	_
-7	a	_	ADP	_	_	8	case	_	_
-8	dret	_	NOUN	_	_	6	obl	_	_
-9	ed	_	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	_
-10	medix	_	ADJ	_	_	9	amod	_	_
-11	fase	_	VERB	_	Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
-12	so	_	PRON	_	Gender=Neut|Number=Sing|PronType=Dem	11	obj	_	_
-13	que	_	PRON	_	PronType=Rel	16	obj	_	_
-14	ed	_	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	_
-15	deu	_	VERB	_	Number=Sing|Person=3|VerbForm=Fin	12	acl:relcl	_	_
-16	far	_	VERB	_	VerbForm=Inf	15	xcomp	_	SpaceAfter=No
-17	.	_	PUNCT	_	_	11	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 1 nsubj	color:blue
-1	Navalhes	_	PROPN	_	_	9	nsubj	_	SpaceAfter=No
-2	,	_	PUNCT	_	_	3	punct	_	_
-3	Andonhs	_	PROPN	_	_	1	conj	_	SpaceAfter=No
-4	,	_	PUNCT	_	_	5	punct	_	_
-5	Coarrasa	_	PROPN	_	_	1	conj	_	SpaceAfter=No
-6	,	_	PUNCT	_	_	7	punct	_	_
-7	Gergerest	_	PROPN	_	_	1	conj	_	_
-8	ac	_	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	9	obj	_	_
-9	judyan	_	VERB	_	Number=Plur|Person=3|VerbForm=Fin	0	root	_	SpaceAfter=No
-10	.	_	PUNCT	_	_	9	punct	_	_
+14	prave	_	NOUN	_	_	16	nsubj	_	_
+15	es	_	AUX	_	Number=Sing|Person=3|VerbForm=Fin	16	cop	_	_
+16	soe	_	ADJ	_	_	11	ccomp	_	SpaceAfter=No
+17	.	_	PUNCT	_	_	1	punct	_	_
 
 ~~~
 

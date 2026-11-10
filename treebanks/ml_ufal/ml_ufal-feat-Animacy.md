@@ -69,14 +69,14 @@ The most frequent other feature values with which `PRON` and `Animacy` co-occurr
 ## Relations with Agreement in `Animacy`
 
 The 10 most frequent relations where parent and child node agree in `Animacy`:
-<tt>NOUN --[<tt><a href="ml_ufal-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (67; 85%),
+<tt>NOUN --[<tt><a href="ml_ufal-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (71; 86%),
 <tt>PROPN --[<tt><a href="ml_ufal-dep-flat.html">flat</a></tt>]--> PROPN</tt> (60; 97%),
 <tt>NOUN --[<tt><a href="ml_ufal-dep-conj.html">conj</a></tt>]--> NOUN</tt> (39; 93%),
+<tt>NOUN --[<tt><a href="ml_ufal-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (25; 74%),
 <tt>NOUN --[<tt><a href="ml_ufal-dep-nmod-poss.html">nmod:poss</a></tt>]--> NOUN</tt> (24; 86%),
-<tt>NOUN --[<tt><a href="ml_ufal-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (24; 73%),
 <tt>NOUN --[<tt><a href="ml_ufal-dep-compound.html">compound</a></tt>]--> NOUN</tt> (21; 91%),
 <tt>PROPN --[<tt><a href="ml_ufal-dep-conj.html">conj</a></tt>]--> PROPN</tt> (20; 100%),
 <tt>NOUN --[<tt><a href="ml_ufal-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (14; 78%),
-<tt>NOUN --[<tt><a href="ml_ufal-dep-obl.html">obl</a></tt>]--> NOUN</tt> (11; 100%),
-<tt>NOUN --[<tt><a href="ml_ufal-dep-flat.html">flat</a></tt>]--> PROPN</tt> (9; 53%).
+<tt>NOUN --[<tt><a href="ml_ufal-dep-flat.html">flat</a></tt>]--> PROPN</tt> (9; 53%),
+<tt>NOUN --[<tt><a href="ml_ufal-dep-obj.html">obj</a></tt>]--> NOUN</tt> (9; 90%).
 

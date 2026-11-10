@@ -40,7 +40,7 @@ The 10 most frequent ambiguous types:  آخر (<tt><a href="ur_udtb-pos-ADV.html
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.103404).
+The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.103337).
 
 The 1st highest number of forms (1) was observed with the lemma “آخر”: آخر.
 

@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>на</em> (<tt><a href="orv_ruthenian
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 2.910891 (the average of all parts of speech is 2.698737).
+The form / lemma ratio of `ADP` is 2.910891 (the average of all parts of speech is 2.698563).
 
 The 1st highest number of forms (17) was observed with the lemma “въ”: <em>(в), (въ), [в, в, в(ъ), в], во, въ, вы, вь, вѡ, оу, оу-в, у, ѹ, ꙋ, ꙋ-в</em>.
 
@@ -74,17 +74,17 @@ Examples: <em>на, в, з, до, с, за, по, к, ѡт, оу</em>
 
 `ADP` nodes are attached to their parents using 5 different relations: <tt><a href="orv_ruthenian-dep-case.html">case</a></tt> (13179; 100% instances), <tt><a href="orv_ruthenian-dep-dep.html">dep</a></tt> (2; 0% instances), <tt><a href="orv_ruthenian-dep-fixed.html">fixed</a></tt> (2; 0% instances), <tt><a href="orv_ruthenian-dep-reparandum.html">reparandum</a></tt> (2; 0% instances), <tt><a href="orv_ruthenian-dep-mark.html">mark</a></tt> (1; 0% instances)
 
-Parents of `ADP` nodes belong to 10 different parts of speech: <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (7904; 60% instances), <tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt> (2669; 20% instances), <tt><a href="orv_ruthenian-pos-PROPN.html">PROPN</a></tt> (2079; 16% instances), <tt><a href="orv_ruthenian-pos-DET.html">DET</a></tt> (247; 2% instances), <tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt> (224; 2% instances), <tt><a href="orv_ruthenian-pos-NUM.html">NUM</a></tt> (27; 0% instances), <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt> (18; 0% instances), <tt><a href="orv_ruthenian-pos-ADV.html">ADV</a></tt> (15; 0% instances), <tt><a href="orv_ruthenian-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="orv_ruthenian-pos-PART.html">PART</a></tt> (1; 0% instances)
+Parents of `ADP` nodes belong to 10 different parts of speech: <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (7905; 60% instances), <tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt> (2669; 20% instances), <tt><a href="orv_ruthenian-pos-PROPN.html">PROPN</a></tt> (2078; 16% instances), <tt><a href="orv_ruthenian-pos-DET.html">DET</a></tt> (247; 2% instances), <tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt> (224; 2% instances), <tt><a href="orv_ruthenian-pos-NUM.html">NUM</a></tt> (27; 0% instances), <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt> (18; 0% instances), <tt><a href="orv_ruthenian-pos-ADV.html">ADV</a></tt> (15; 0% instances), <tt><a href="orv_ruthenian-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="orv_ruthenian-pos-PART.html">PART</a></tt> (1; 0% instances)
 
-13160 (100%) `ADP` nodes are leaves.
+13163 (100%) `ADP` nodes are leaves.
 
-23 (0%) `ADP` nodes have one child.
+20 (0%) `ADP` nodes have one child.
 
 3 (0%) `ADP` nodes have two children.
 
 The highest child degree of a `ADP` node is 2.
 
-Children of `ADP` nodes are attached using 8 different relations: <tt><a href="orv_ruthenian-dep-punct.html">punct</a></tt> (9; 31% instances), <tt><a href="orv_ruthenian-dep-conj.html">conj</a></tt> (7; 24% instances), <tt><a href="orv_ruthenian-dep-cc.html">cc</a></tt> (4; 14% instances), <tt><a href="orv_ruthenian-dep-obl.html">obl</a></tt> (3; 10% instances), <tt><a href="orv_ruthenian-dep-fixed.html">fixed</a></tt> (2; 7% instances), <tt><a href="orv_ruthenian-dep-reparandum.html">reparandum</a></tt> (2; 7% instances), <tt><a href="orv_ruthenian-dep-advmod.html">advmod</a></tt> (1; 3% instances), <tt><a href="orv_ruthenian-dep-goeswith.html">goeswith</a></tt> (1; 3% instances)
+Children of `ADP` nodes are attached using 7 different relations: <tt><a href="orv_ruthenian-dep-punct.html">punct</a></tt> (9; 35% instances), <tt><a href="orv_ruthenian-dep-conj.html">conj</a></tt> (7; 27% instances), <tt><a href="orv_ruthenian-dep-cc.html">cc</a></tt> (4; 15% instances), <tt><a href="orv_ruthenian-dep-fixed.html">fixed</a></tt> (2; 8% instances), <tt><a href="orv_ruthenian-dep-reparandum.html">reparandum</a></tt> (2; 8% instances), <tt><a href="orv_ruthenian-dep-advmod.html">advmod</a></tt> (1; 4% instances), <tt><a href="orv_ruthenian-dep-goeswith.html">goeswith</a></tt> (1; 4% instances)
 
-Children of `ADP` nodes belong to 7 different parts of speech: <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (11; 38% instances), <tt><a href="orv_ruthenian-pos-PUNCT.html">PUNCT</a></tt> (9; 31% instances), <tt><a href="orv_ruthenian-pos-CCONJ.html">CCONJ</a></tt> (4; 14% instances), <tt><a href="orv_ruthenian-pos-ADP.html">ADP</a></tt> (2; 7% instances), <tt><a href="orv_ruthenian-pos-PART.html">PART</a></tt> (1; 3% instances), <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt> (1; 3% instances), <tt><a href="orv_ruthenian-pos-X.html">X</a></tt> (1; 3% instances)
+Children of `ADP` nodes belong to 7 different parts of speech: <tt><a href="orv_ruthenian-pos-PUNCT.html">PUNCT</a></tt> (9; 35% instances), <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (8; 31% instances), <tt><a href="orv_ruthenian-pos-CCONJ.html">CCONJ</a></tt> (4; 15% instances), <tt><a href="orv_ruthenian-pos-ADP.html">ADP</a></tt> (2; 8% instances), <tt><a href="orv_ruthenian-pos-PART.html">PART</a></tt> (1; 4% instances), <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt> (1; 4% instances), <tt><a href="orv_ruthenian-pos-X.html">X</a></tt> (1; 4% instances)
 

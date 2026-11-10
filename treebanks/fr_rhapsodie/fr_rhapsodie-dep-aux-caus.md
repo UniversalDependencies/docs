@@ -23,13 +23,13 @@ The following 1 pairs of parts of speech are connected with `aux:caus`: <tt><a h
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 5 aux:caus	color:blue
-1	et	et	CCONJ	_	_	6	cc	_	AlignBegin=28804|AlignEnd=28864
-2	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	6	nsubj:caus	_	AlignBegin=28864|AlignEnd=29004|Exponence[Gender]=Inherent|Exponence[Number]=Inherent|Exponence[Person]=Inherent
-3	m'	moi	PRON	_	Case=Dat|Emph=No|Number=Sing|Person=1|PronType=Prs	6	iobj	_	AlignBegin=29004|AlignEnd=29034|Exponence[Number]=Inherent|Exponence[Person]=Inherent|SpaceAfter=No
-4	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	AlignBegin=29034|AlignEnd=29074
-5	fait	faire	AUX	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	aux:caus	_	AlignBegin=29074|AlignEnd=29214|Scrap=Yes|Tense[denom]=Past
-6	voir	voir	VERB	_	VerbForm=Inf	0	root	_	AlignBegin=29214|AlignEnd=29432|SpaceAfter=No|Subject=OblRaising
-7	…	…	PUNCT	_	_	6	punct	_	AlignBegin=29432|AlignEnd=29432
+1	et	et	CCONJ	_	_	6	cc	_	WordAlignmentBegin=28804|WordAlignmentEnd=28864
+2	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	6	nsubj:caus	_	Exponence[Gender]=Inherent|Exponence[Number]=Inherent|Exponence[Person]=Inherent|WordAlignmentBegin=28864|WordAlignmentEnd=29004
+3	m'	moi	PRON	_	Case=Dat|Emph=No|Number=Sing|Person=1|PronType=Prs	6	iobj	_	Exponence[Number]=Inherent|Exponence[Person]=Inherent|SpaceAfter=No|WordAlignmentBegin=29004|WordAlignmentEnd=29034
+4	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	WordAlignmentBegin=29034|WordAlignmentEnd=29074
+5	fait	faire	AUX	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	aux:caus	_	Scrap=Yes|Status[Tense]=Denom|WordAlignmentBegin=29074|WordAlignmentEnd=29214
+6	voir	voir	VERB	_	VerbForm=Inf	0	root	_	SpaceAfter=No|Subject=OblRaising|WordAlignmentBegin=29214|WordAlignmentEnd=29432
+7	…	…	PUNCT	_	_	6	punct	_	WordAlignmentBegin=29432|WordAlignmentEnd=29432
 
 ~~~
 

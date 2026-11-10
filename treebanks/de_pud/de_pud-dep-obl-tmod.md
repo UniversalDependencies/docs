@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="de_pud-dep-obl.html">obl</a></tt>.
 There are also 2 other language-specific subtypes of `obl`: <tt><a href="de_pud-dep-obl-agent.html">obl:agent</a></tt>, <tt><a href="de_pud-dep-obl-arg.html">obl:arg</a></tt>.
 
-119 nodes (1%) are attached to their parents as `obl:tmod`.
+94 nodes (0%) are attached to their parents as `obl:tmod`.
 
-68 instances of `obl:tmod` (57%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.48739495798319.
+68 instances of `obl:tmod` (72%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.82978723404255.
 
-The following 8 pairs of parts of speech are connected with `obl:tmod`: <tt><a href="de_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="de_pud-pos-NUM.html">NUM</a></tt> (42; 35% instances), <tt><a href="de_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> (37; 31% instances), <tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_pud-pos-NUM.html">NUM</a></tt> (23; 19% instances), <tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> (7; 6% instances), <tt><a href="de_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> (4; 3% instances), <tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="de_pud-pos-NUM.html">NUM</a></tt> (2; 2% instances), <tt><a href="de_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="de_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="de_pud-pos-NUM.html">NUM</a></tt> (2; 2% instances).
+The following 7 pairs of parts of speech are connected with `obl:tmod`: <tt><a href="de_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="de_pud-pos-NUM.html">NUM</a></tt> (42; 45% instances), <tt><a href="de_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> (37; 39% instances), <tt><a href="de_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> (4; 4% instances), <tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> (4; 4% instances), <tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_pud-pos-NUM.html">NUM</a></tt> (3; 3% instances), <tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="de_pud-pos-NUM.html">NUM</a></tt> (2; 2% instances), <tt><a href="de_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> (2; 2% instances).
 
 
 ~~~ conllu
@@ -58,25 +58,29 @@ The following 8 pairs of parts of speech are connected with `obl:tmod`: <tt><a h
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 8 obl:tmod	color:blue
-1	Ihr	ihr	DET	DTP$	Case=Nom|Gender=Neut|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	2	det:poss	_	_
-2	Album	Album	NOUN	NN	Case=Nom|Gender=Neut|Number=Sing	10	nsubj	_	_
-3	Wild	Wild	ADJ	JJ	Case=Nom|Degree=Pos|Number=Sing	4	amod	_	Proper=True
-4	West	West	NOUN	NN	Case=Nom|Number=Sing	2	appos	_	Proper=True
-5	aus	aus	ADP	IN	_	7	case	_	_
-6	dem	der	DET	DT	Case=Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	7	det	_	_
-7	Jahr	Jahr	NOUN	NN	Case=Dat|Gender=Neut|Number=Sing	2	nmod	_	_
-8	1981	1981	NUM	CD	NumType=Card	7	obl:tmod	_	_
-9	war	sein	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past	10	cop	_	_
-10	einer	ein	DET	NN	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|NumType=Card|PronType=Art	0	root	_	_
-11	ihrer	ihr	DET	DTP$	Case=Gen|Gender=Masc|Gender[psor]=Fem|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	13	det:poss	_	_
-12	größten	groß	ADJ	JJ	Case=Gen|Degree=Cmp|Gender=Masc|Number=Plur	13	amod	_	InflectionType=Mixed
-13	Verkaufsschlager	Verkaufsschlager	NOUN	NN	Case=Gen|Gender=Masc|Number=Plur	10	nmod	_	SpaceAfter=No
-14	.	.	PUNCT	.	_	10	punct	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 4 obl:tmod	color:blue
+1	Als	als	SCONJ	CC	_	12	mark	_	_
+2	Jutting	Jutting	PROPN	NNP	Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	_
+3	zwei	zwei	NUM	CD	NumType=Card	4	nummod	_	_
+4	Jahre	Jahr	NOUN	NN	Case=Acc|Gender=Neut|Number=Plur	5	obl:tmod	_	_
+5	später	spät	ADV	RB	Degree=Cmp	12	advmod	_	_
+6	vor	vor	ADP	IN	_	9	case	_	_
+7	den	der	DET	DT	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+8	High	High	ADJ	JJ	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	Proper=True
+9	Court	Court	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing	12	obl	_	Proper=True
+10	in	in	ADP	IN	_	11	case	_	_
+11	Hongkong	Hongkong	PROPN	NNP	Case=Dat|Gender=Neut|Number=Sing	9	nmod	_	_
+12	tritt	treten	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	14	advcl	_	SpaceAfter=No
+13	,	,	PUNCT	,	_	12	punct	_	_
+14	wirkt	wirken	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+15	er	er	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	_
+16	sehr	sehr	ADV	RB	Degree=Pos	17	advmod	_	_
+17	gefasst	gefasst	VERB	VBN	Tense=Past|VerbForm=Part	14	ccomp	_	SpaceAfter=No
+18	.	.	PUNCT	.	_	14	punct	_	_
 
 ~~~
 

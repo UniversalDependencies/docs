@@ -48,7 +48,7 @@ The 10 most frequent ambiguous types:  % (<tt><a href="ko_gsd-pos-PUNCT.html">PU
 
 ## Morphology
 
-The form / lemma ratio of `SYM` is 1.000000 (the average of all parts of speech is 1.001499).
+The form / lemma ratio of `SYM` is 1.000000 (the average of all parts of speech is 1.001527).
 
 The 1st highest number of forms (1) was observed with the lemma “%”: %.
 
@@ -61,7 +61,7 @@ The 3rd highest number of forms (1) was observed with the lemma “^”: ^.
 
 ## Relations
 
-`SYM` nodes are attached to their parents using 12 different relations: <tt><a href="ko_gsd-dep-appos.html">appos</a></tt> (208; 76% instances), <tt><a href="ko_gsd-dep-nummod.html">nummod</a></tt> (15; 5% instances), <tt><a href="ko_gsd-dep-nsubj.html">nsubj</a></tt> (14; 5% instances), <tt><a href="ko_gsd-dep-advmod.html">advmod</a></tt> (10; 4% instances), <tt><a href="ko_gsd-dep-flat.html">flat</a></tt> (8; 3% instances), <tt><a href="ko_gsd-dep-obj.html">obj</a></tt> (8; 3% instances), <tt><a href="ko_gsd-dep-nmod.html">nmod</a></tt> (4; 1% instances), <tt><a href="ko_gsd-dep-conj.html">conj</a></tt> (3; 1% instances), <tt><a href="ko_gsd-dep-nmod-poss.html">nmod:poss</a></tt> (2; 1% instances), <tt><a href="ko_gsd-dep-list.html">list</a></tt> (1; 0% instances), <tt><a href="ko_gsd-dep-nsubj-pass.html">nsubj:pass</a></tt> (1; 0% instances), <tt><a href="ko_gsd-dep-root.html">root</a></tt> (1; 0% instances)
+`SYM` nodes are attached to their parents using 13 different relations: <tt><a href="ko_gsd-dep-appos.html">appos</a></tt> (208; 76% instances), <tt><a href="ko_gsd-dep-nummod.html">nummod</a></tt> (15; 5% instances), <tt><a href="ko_gsd-dep-nsubj.html">nsubj</a></tt> (14; 5% instances), <tt><a href="ko_gsd-dep-advmod.html">advmod</a></tt> (10; 4% instances), <tt><a href="ko_gsd-dep-flat.html">flat</a></tt> (8; 3% instances), <tt><a href="ko_gsd-dep-obj.html">obj</a></tt> (7; 3% instances), <tt><a href="ko_gsd-dep-nmod.html">nmod</a></tt> (4; 1% instances), <tt><a href="ko_gsd-dep-conj.html">conj</a></tt> (3; 1% instances), <tt><a href="ko_gsd-dep-nmod-poss.html">nmod:poss</a></tt> (2; 1% instances), <tt><a href="ko_gsd-dep-list.html">list</a></tt> (1; 0% instances), <tt><a href="ko_gsd-dep-nsubj-pass.html">nsubj:pass</a></tt> (1; 0% instances), <tt><a href="ko_gsd-dep-obl.html">obl</a></tt> (1; 0% instances), <tt><a href="ko_gsd-dep-root.html">root</a></tt> (1; 0% instances)
 
 Parents of `SYM` nodes belong to 7 different parts of speech: <tt><a href="ko_gsd-pos-NOUN.html">NOUN</a></tt> (154; 56% instances), <tt><a href="ko_gsd-pos-PROPN.html">PROPN</a></tt> (73; 27% instances), <tt><a href="ko_gsd-pos-VERB.html">VERB</a></tt> (42; 15% instances), <tt><a href="ko_gsd-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="ko_gsd-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="ko_gsd-pos-NUM.html">NUM</a></tt> (1; 0% instances),  (1; 0% instances)
 

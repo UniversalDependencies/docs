@@ -19,36 +19,36 @@ The 10 most frequent ambiguous types:  <em>un</em> (<tt><a href="lv_lvtb-pos-CCO
 
 
 * <em>un</em>
-  * <tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt> 8329: <em>Tia novērsās <b>un</b> ilgi lūkojās pa logu uz viņu lielo pļavu .</em>
+  * <tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt> 8329: <em>Pēc tam varēs izstaigāt pils parku <b>un</b> apskatīt Romanovas šķirnes aitas .</em>
   * <tt><a href="lv_lvtb-pos-ADP.html">ADP</a></tt> 1: <em>„ Daži atnāk <b>un</b> šejieni un priecājas , ka nokļuvuši šeit pēc puķu dobju kopšanas karstajā laikā , ” saka Jeļena .</em>
   * <tt><a href="lv_lvtb-pos-X.html">X</a></tt> 1: <em>Par spīti tam , ka Kailija Dženere , viņas mīļotais reperis Tyga , Kima Kardašjana un Krisa Dženere kopā ieradās Francijā un apmeklēja sarkanā paklāja pasākumus , septiņpadsmit gadus vecā realitātes šovu zvaigzne ir nolēmusi izstāties no « Keeping <b>un</b> wity the Kardashians » .</em>
 * <em>vai</em>
-  * <tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt> 904: <em>Ved <b>vai</b> neved , dubļi nāk pa durvīm iekšā .</em>
+  * <tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt> 904: <em>Un viss atkal riņķo ap pacienta stāstīto <b>vai</b> nestāstīto .</em>
   * <tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> 154: <em>Protams , ir jārēķina , <b>vai</b> ir jēga to darīt .</em>
-  * <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> 130: <em>Klau , <b>vai</b> tagad arī uz palodzes negrabinās viena zilzīlīte ?</em>
+  * <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> 130: <em>" Klau , <b>vai</b> tu savu bēri nebaro ? "</em>
   * <tt><a href="lv_lvtb-pos-INTJ.html">INTJ</a></tt> 1: <em>– Vai , manu , <b>vai</b> !</em>
 * <em>gan</em>
-  * <tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt> 471: <em>Iznāk <b>gan</b> bērniem , <b>gan</b> pašai .</em>
-  * <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> 288: <em>Bet kur <b>gan</b> ir pārējie ?</em>
+  * <tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt> 471: <em>Ieguvēji būs lasītāji , sola <b>gan</b> J. Visockis , <b>gan</b> V. Gobzeme .</em>
+  * <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> 288: <em>Bijis kopā ar kalpiem smagi jāstrādā , bet alga <b>gan</b> nav maksāta .</em>
   * <tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> 1: <em>– – Varbūt , — es teicu , lai <b>gan</b> precēt viņu nepavisam netaisījos .</em>
 * <em>taču</em>
   * <tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt> 281: <em>" Viņi visi saņem vienādu terapiju , <b>taču</b> rezultāts ir atšķirīgs .</em>
-  * <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> 73: <em>Es <b>taču</b> negaidīju atbildi .</em>
+  * <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> 73: <em>Nevar <b>taču</b> būt , ka nevar kļūt vesels un laimīgs !</em>
 * <em>arī</em>
-  * <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> 1692: <em>Bet kurš ir pamanījis , ka <b>arī</b> putni vēro Liepāju ?</em>
-  * <tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt> 298: <em>Iekaucās ģitāras , skaļas , kā <b>arī</b> ļoti pazīstamas .</em>
+  * <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> 1692: <em>Grūtups ir bijis un <b>arī</b> turpmāk paliks pilnībā neizprats noslēpums .</em>
+  * <tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt> 298: <em>Kā <b>arī</b> vēlētos vairāk uzmanības veltīt didaktikas jautājumiem .</em>
 * <em>ne</em>
-  * <tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt> 279: <em>Man nebija līdzi <b>ne</b> avīzes , <b>ne</b> grāmatas .</em>
+  * <tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt> 279: <em>" Pat tvaika rokās nepalika , <b>ne</b> meitas dziļumiņa . "</em>
   * <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> 266: <em>vispār <b>ne</b> fotogrāfija</em>
   * <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> 1: <em>Tāpat komanda neaizvadīs <b>ne</b> vienu treniņu Latvijā - 21. martā dosies uz Slovākiju , kur gatavosies Senecas pilsētā , bet dienu pirms 25. martā gaidāmās spēles pārbrauks uz Čehiju .</em>
 * <em>tomēr</em>
-  * <tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt> 113: <em>Sāpīgi , <b>tomēr</b> ne tik briesmīgi , kā varētu padomāt .</em>
-  * <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> 88: <em>Vents <b>tomēr</b> saņēmās , piespieda sevi izlikties jautram .</em>
+  * <tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt> 113: <em>Diezgan precīzi , <b>tomēr</b> ir viena nianse .</em>
+  * <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> 88: <em>- Nu kā - viņa saposušies - ne pārlieku , bet <b>tomēr</b> .</em>
 * <em>kā</em>
-  * <tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> 845: <em>Tā bija <b>kā</b> īslaicīga apmātība .</em>
-  * <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> 438: <em>Tu redzi , <b>kā</b> sarunājas ?</em>
+  * <tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> 845: <em>Ilze brēc <b>kā</b> vārtrūmē pamests kaķēns .</em>
+  * <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> 438: <em>Viss atkarīgs no tā , <b>kā</b> palaimējies nodzīvot dzīvi .</em>
   * <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> 338: <em>Viss stāvs it <b>kā</b> strauji novīta - kā puķe vāzē .</em>
-  * <tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt> 49: <em>It <b>kā</b> zābakos būtu iemiesojies kāds neredzams cilvēks !</em>
+  * <tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt> 49: <em>VID ir <b>kā</b> liela , melna govs .</em>
   * <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> 34: <em>Ne no <b>kā</b> nenākas atteikties .</em>
 * <em>tātad</em>
   * <tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt> 18: <em>Viņai rokas somiņa tikai , un maza - <b>tātad</b> nenāk tieši no darba .</em>
@@ -59,7 +59,7 @@ The 10 most frequent ambiguous types:  <em>un</em> (<tt><a href="lv_lvtb-pos-CCO
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.173913 (the average of all parts of speech is 2.342815).
+The form / lemma ratio of `CCONJ` is 1.173913 (the average of all parts of speech is 2.343431).
 
 The 1st highest number of forms (2) was observed with the lemma “arī”: <em>ari, arī</em>.
 

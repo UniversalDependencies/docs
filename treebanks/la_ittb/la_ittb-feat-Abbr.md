@@ -84,7 +84,7 @@ The most frequent other feature values with which `ADV` and `Abbr` co-occurred: 
 `ADV` tokens may have the following values of `Abbr`:
 
 * `Yes` (1; 100% of non-empty `Abbr`): <em>iacob.</em>
-* `EMPTY` (22679): <em>etiam, unde, sic, ergo, tamen, uero, ita, supra, magis, solum</em>
+* `EMPTY` (22680): <em>etiam, unde, sic, ergo, tamen, uero, ita, supra, magis, solum</em>
 
 ### `PART`
 

@@ -58,7 +58,7 @@ The 10 most frequent ambiguous types:  في (<tt><a href="ar_padt-pos-ADP.html">
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 2.400000 (the average of all parts of speech is 1.761981).
+The form / lemma ratio of `ADP` is 2.400000 (the average of all parts of speech is 1.762127).
 
 The 1st highest number of forms (35) was observed with the lemma “لِ”: ل, لإيران, لاراضيه, لاندونيسيا, لسوريا, لطهران, لـ, للأردن, للاعلام, للاوقاف, للبترول, للبضائع, للتضامن, للجدل, للحادث, للداخلية, للسلام, للسودانيين, للصحة, للصناعة, للطن, للعدل, للعراق, للعلاج, للغزو, للفرعونية, للكهرباء, للمحمول, للمقاولات, للمنازل, للنقال, لمساعدتنا, لمصر, لموسكو, لهم.
 

@@ -56,7 +56,7 @@ The 10 most frequent ambiguous types:  <em>et</em> (<tt><a href="la_llct-pos-CCO
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.500000 (the average of all parts of speech is 2.623423).
+The form / lemma ratio of `CCONJ` is 1.500000 (the average of all parts of speech is 2.623868).
 
 The 1st highest number of forms (5) was observed with the lemma “atque”: <em>ac, adque, adquem, atque, hac</em>.
 
@@ -77,7 +77,7 @@ Examples: <em>et, vel, aut, seo, adque, seu, nisi, que, sive, ac</em>
 
 `CCONJ` nodes are attached to their parents using 10 different relations: <tt><a href="la_llct-dep-cc.html">cc</a></tt> (13074; 93% instances), <tt><a href="la_llct-dep-advmod-emph.html">advmod:emph</a></tt> (488; 3% instances), <tt><a href="la_llct-dep-fixed.html">fixed</a></tt> (202; 1% instances), <tt><a href="la_llct-dep-mark.html">mark</a></tt> (145; 1% instances), <tt><a href="la_llct-dep-reparandum.html">reparandum</a></tt> (71; 1% instances), <tt><a href="la_llct-dep-advmod.html">advmod</a></tt> (7; 0% instances), <tt><a href="la_llct-dep-case.html">case</a></tt> (2; 0% instances), <tt><a href="la_llct-dep-conj.html">conj</a></tt> (2; 0% instances), <tt><a href="la_llct-dep-nmod.html">nmod</a></tt> (1; 0% instances), <tt><a href="la_llct-dep-root.html">root</a></tt> (1; 0% instances)
 
-Parents of `CCONJ` nodes belong to 13 different parts of speech: <tt><a href="la_llct-pos-VERB.html">VERB</a></tt> (6301; 45% instances), <tt><a href="la_llct-pos-NOUN.html">NOUN</a></tt> (5674; 41% instances), <tt><a href="la_llct-pos-PROPN.html">PROPN</a></tt> (947; 7% instances), <tt><a href="la_llct-pos-ADJ.html">ADJ</a></tt> (546; 4% instances), <tt><a href="la_llct-pos-DET.html">DET</a></tt> (182; 1% instances), <tt><a href="la_llct-pos-CCONJ.html">CCONJ</a></tt> (116; 1% instances), <tt><a href="la_llct-pos-ADV.html">ADV</a></tt> (84; 1% instances), <tt><a href="la_llct-pos-NUM.html">NUM</a></tt> (76; 1% instances), <tt><a href="la_llct-pos-SCONJ.html">SCONJ</a></tt> (22; 0% instances), <tt><a href="la_llct-pos-PRON.html">PRON</a></tt> (18; 0% instances), <tt><a href="la_llct-pos-PART.html">PART</a></tt> (14; 0% instances), <tt><a href="la_llct-pos-AUX.html">AUX</a></tt> (12; 0% instances),  (1; 0% instances)
+Parents of `CCONJ` nodes belong to 13 different parts of speech: <tt><a href="la_llct-pos-VERB.html">VERB</a></tt> (6301; 45% instances), <tt><a href="la_llct-pos-NOUN.html">NOUN</a></tt> (5675; 41% instances), <tt><a href="la_llct-pos-PROPN.html">PROPN</a></tt> (947; 7% instances), <tt><a href="la_llct-pos-ADJ.html">ADJ</a></tt> (546; 4% instances), <tt><a href="la_llct-pos-DET.html">DET</a></tt> (182; 1% instances), <tt><a href="la_llct-pos-CCONJ.html">CCONJ</a></tt> (116; 1% instances), <tt><a href="la_llct-pos-ADV.html">ADV</a></tt> (84; 1% instances), <tt><a href="la_llct-pos-NUM.html">NUM</a></tt> (76; 1% instances), <tt><a href="la_llct-pos-SCONJ.html">SCONJ</a></tt> (22; 0% instances), <tt><a href="la_llct-pos-PRON.html">PRON</a></tt> (17; 0% instances), <tt><a href="la_llct-pos-PART.html">PART</a></tt> (14; 0% instances), <tt><a href="la_llct-pos-AUX.html">AUX</a></tt> (12; 0% instances),  (1; 0% instances)
 
 13650 (98%) `CCONJ` nodes are leaves.
 

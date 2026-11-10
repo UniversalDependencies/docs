@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-101 nodes (1%) are attached to their parents as `mark`.
+115 nodes (1%) are attached to their parents as `mark`.
 
-101 instances of `mark` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.08910891089109.
+115 instances of `mark` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.20869565217391.
 
-The following 7 pairs of parts of speech are connected with `mark`: <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-PART.html">PART</a></tt> (78; 77% instances), <tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ab_abnc-pos-PART.html">PART</a></tt> (10; 10% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-ADP.html">ADP</a></tt> (5; 5% instances), <tt><a href="ab_abnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ab_abnc-pos-PART.html">PART</a></tt> (3; 3% instances), <tt><a href="ab_abnc-pos-ADV.html">ADV</a></tt>-<tt><a href="ab_abnc-pos-PART.html">PART</a></tt> (2; 2% instances), <tt><a href="ab_abnc-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ab_abnc-pos-PART.html">PART</a></tt> (2; 2% instances), <tt><a href="ab_abnc-pos-NUM.html">NUM</a></tt>-<tt><a href="ab_abnc-pos-PART.html">PART</a></tt> (1; 1% instances).
+The following 7 pairs of parts of speech are connected with `mark`: <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-PART.html">PART</a></tt> (91; 79% instances), <tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ab_abnc-pos-PART.html">PART</a></tt> (10; 9% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-ADP.html">ADP</a></tt> (5; 4% instances), <tt><a href="ab_abnc-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ab_abnc-pos-PART.html">PART</a></tt> (3; 3% instances), <tt><a href="ab_abnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ab_abnc-pos-PART.html">PART</a></tt> (3; 3% instances), <tt><a href="ab_abnc-pos-ADV.html">ADV</a></tt>-<tt><a href="ab_abnc-pos-PART.html">PART</a></tt> (2; 2% instances), <tt><a href="ab_abnc-pos-NUM.html">NUM</a></tt>-<tt><a href="ab_abnc-pos-PART.html">PART</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -24,7 +24,7 @@ The following 7 pairs of parts of speech are connected with `mark`: <tt><a href=
 # visual-style 8 9 mark	color:blue
 1	Наҳар	Наҳар	PROPN	Noun_Prop_Anthr_M	NameType=Prs	4	nsubj	_	LMSeg:Наҳар
 2	илымҳа	а-лы́мҳа	NOUN	Noun_NH_Sg_Poss:3SgM	Animacy=Nhum|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person[psor]=3	3	obj	_	LMSeg:а-лы́мҳа
-3	кыдҵаны	а-кы́дҵара	VERB	V_Dyn_Tr_NonFin_Cnv_Abs_Aor_DO:3_DO:Ad	Dyn=Yes|Person[obj]=3|Subcat=Tran|Tense=Aor|VerbForm=NonFin	4	advcl:conv	_	LMSeg:а-кы́д·ҵа-ра
+3	кыдҵаны	а-кы́дҵара	VERB	V_Dyn_Tr_NonFin_Cnv_Abs_Aor_DO:3_DO:Ad_[LO:3SgNH]	Dyn=Yes|Gender[lo]=Neut|Number[lo]=Sing|Person[lo]=3|Person[obj]=3|Subcat=Tran|Tense=Aor|VerbForm=NonFin	4	advcl:conv	_	LMSeg:а-кы́д·ҵа-ра
 4	дӡырҩуан	а́-ӡырҩра	VERB	V_Dyn_Intr_Fin_Impf_S:3SgH	Dyn=Yes|Gender[subj]=Com|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Imp|VerbForm=Fin	0	root	_	LMSeg:а́-ӡырҩ-ра
 5	уи	уи́	PRON	Pron_Dem_Dist_Sg	Number=Sing|PronType=Dem	6	det	_	LMSeg:уи́
 6	аҧҳәыс	а-ҧҳәы́с	NOUN	Noun_H_F_Sg_Det	Animacy=Hum|Definite=Def|Number=Sing	8	nsubj	_	LMSeg:а-ҧҳәы́с

@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Old_East_Slavic-Ruthenian: Relations: `obl:depict`
 
 This relation is a language-specific subtype of <tt><a href="orv_ruthenian-dep-obl.html">obl</a></tt>.
-There are also 4 other language-specific subtypes of `obl`: <tt><a href="orv_ruthenian-dep-obl-agent.html">obl:agent</a></tt>, <tt><a href="orv_ruthenian-dep-obl-float.html">obl:float</a></tt>, <tt><a href="orv_ruthenian-dep-obl-pronmod.html">obl:pronmod</a></tt>, <tt><a href="orv_ruthenian-dep-obl-tmod.html">obl:tmod</a></tt>.
+There are also 3 other language-specific subtypes of `obl`: <tt><a href="orv_ruthenian-dep-obl-agent.html">obl:agent</a></tt>, <tt><a href="orv_ruthenian-dep-obl-float.html">obl:float</a></tt>, <tt><a href="orv_ruthenian-dep-obl-tmod.html">obl:tmod</a></tt>.
 
 16 nodes (0%) are attached to their parents as `obl:depict`.
 

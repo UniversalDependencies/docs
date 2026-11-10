@@ -8,33 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-3 nodes (1%) are attached to their parents as `cop`.
+11 nodes (2%) are attached to their parents as `cop`.
 
-3 instances of `cop` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.33333333333333.
+11 instances of `cop` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.18181818181818.
 
-The following 2 pairs of parts of speech are connected with `cop`: <tt><a href="tn_popapolelo-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tn_popapolelo-pos-AUX.html">AUX</a></tt> (2; 67% instances), <tt><a href="tn_popapolelo-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tn_popapolelo-pos-AUX.html">AUX</a></tt> (1; 33% instances).
-
-
-~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 4 cop	color:blue
-1	Rre	_	NOUN	N01a	NounClass=Bantu1	5	nsubj	_	end_char=285|start_char=282
-2	wa	_	PART	POSSC01	NounClass=Bantu1	3	case	_	end_char=288|start_char=286
-3	me	_	PRON	PROPOSSPERS	_	1	nmod	_	end_char=291|start_char=289
-4	o	_	AUX	VCOP	_	5	cop	_	end_char=293|start_char=292
-5	botoka	_	ADJ	ADJ14	NounClass=Bantu14	0	root	_	end_char=300|start_char=294
-6	go	_	PART	SCINDEF	_	10	cc	_	end_char=303|start_char=301
-7	na	_	VERB	VCOP	_	6	fixed	_	end_char=306|start_char=304
-8	le	_	PART	PART	_	6	fixed	_	end_char=309|start_char=307
-9	wa	_	PART	POSSC01	NounClass=Bantu1	10	case	_	end_char=312|start_char=310
-10	gago	_	PRON	PROPOSSPERS	_	5	nmod	_	end_char=317|SpaceAfter=No|start_char=313
-11	.	_	PUNCT	PUNC	_	5	punct	_	end_char=319|start_char=318
-
-~~~
+The following 6 pairs of parts of speech are connected with `cop`: <tt><a href="tn_popapolelo-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tn_popapolelo-pos-AUX.html">AUX</a></tt> (3; 27% instances), <tt><a href="tn_popapolelo-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tn_popapolelo-pos-AUX.html">AUX</a></tt> (2; 18% instances), <tt><a href="tn_popapolelo-pos-ADV.html">ADV</a></tt>-<tt><a href="tn_popapolelo-pos-AUX.html">AUX</a></tt> (2; 18% instances), <tt><a href="tn_popapolelo-pos-PRON.html">PRON</a></tt>-<tt><a href="tn_popapolelo-pos-AUX.html">AUX</a></tt> (2; 18% instances), <tt><a href="tn_popapolelo-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tn_popapolelo-pos-AUX.html">AUX</a></tt> (1; 9% instances), <tt><a href="tn_popapolelo-pos-VERB.html">VERB</a></tt>-<tt><a href="tn_popapolelo-pos-AUX.html">AUX</a></tt> (1; 9% instances).
 
 
 ~~~ conllu
@@ -43,17 +22,63 @@ The following 2 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 3 cop	color:blue
-1	A	_	PART	PART	_	4	discourse	_	end_char=379|start_char=378
-2	Iguazu	_	PROPN	NPP	_	4	nsubj	_	end_char=386|start_char=380
-3	ke	_	AUX	VCOP	_	4	cop	_	end_char=389|start_char=387
-4	naga	_	NOUN	N09	NounClass=Bantu9	0	root	_	end_char=394|start_char=390
-5	e	_	PART	PART	NounClass=Bantu9	6	mark	_	end_char=396|start_char=395
-6	kgolo	_	ADJ	ADJ09	NounClass=Bantu9	4	amod	_	end_char=402|start_char=397
-7	kgotsa	_	CCONJ	CONJ	_	10	cc	_	end_char=409|start_char=403
-8	ke	_	AUX	VCOP	_	10	cop	_	end_char=412|start_char=410
-9	e	_	PART	PART	NounClass=Bantu9	10	mark	_	end_char=414|start_char=413
-10	nnye	_	ADJ	ADJ09	NounClass=Bantu9	6	conj	_	end_char=419|SpaceAfter=No|start_char=415
-11	?	_	PUNCT	PUNC	_	4	punct	_	end_char=421|start_char=420
+1	A	a	PART	PART	_	4	discourse	_	end_char=379|start_char=378
+2	Iguazu	Iguazu	PROPN	NPP	_	4	nsubj	_	end_char=386|start_char=380
+3	ke	ke	AUX	VCOP	_	4	cop	_	end_char=389|start_char=387
+4	naga	naga	NOUN	N09	NounClass=Bantu9	0	root	_	end_char=394|start_char=390
+5	e	e	PART	PART	NounClass=Bantu9	6	mark	_	end_char=396|start_char=395
+6	kgolo	kgolo	ADJ	ADJ09	NounClass=Bantu9	4	amod	_	end_char=402|start_char=397
+7	kgotsa	kgotsa	CCONJ	CONJ	_	10	cc	_	end_char=409|start_char=403
+8	ke	ke	AUX	VCOP	_	10	cop	_	end_char=412|start_char=410
+9	e	e	PART	PART	NounClass=Bantu9	10	mark	_	end_char=414|start_char=413
+10	nnye	nnye	ADJ	ADJ09	NounClass=Bantu9	6	conj	_	end_char=419|SpaceAfter=No|start_char=415
+11	?	?	PUNCT	PUNC	_	4	punct	_	end_char=421|start_char=420
+
+~~~
+
+
+~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 4 cop	color:blue
+1	Rre	rre	NOUN	N01a	NounClass=Bantu1	5	nsubj	_	end_char=285|start_char=282
+2	wa	wa	PART	POSSC01	NounClass=Bantu1	3	case	_	end_char=288|start_char=286
+3	me	me	PRON	PROPOSSPERS	Poss=Yes|PronType=Prs	1	nmod	_	end_char=291|start_char=289
+4	o	o	AUX	VCOP	_	5	cop	_	end_char=293|start_char=292
+5	botoka	toka	ADJ	ADJ14	NounClass=Bantu14	0	root	_	end_char=300|start_char=294
+6	go	go	PART	SCINDEF	ExtPos=SCONJ	10	cc	_	end_char=303|start_char=301
+7	na	na	VERB	VCOP	_	6	fixed	_	end_char=306|start_char=304
+8	le	le	PART	PART	_	6	fixed	_	end_char=309|start_char=307
+9	wa	wa	PART	POSSC01	NounClass=Bantu1	10	case	_	end_char=312|start_char=310
+10	gago	gago	PRON	PROPOSSPERS	Poss=Yes|PronType=Prs	5	nmod	_	end_char=317|SpaceAfter=No|start_char=313
+11	.	.	PUNCT	PUNC	_	5	punct	_	end_char=319|start_char=318
+
+~~~
+
+
+~~~ conllu
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 14	bgColor:blue
+# visual-style 14	fgColor:white
+# visual-style 14 13 cop	color:blue
+1	"	"	PUNCT	PUNC	_	4	punct	_	end_char=1|SpaceAfter=No|start_char=0
+2	Banyalani	nyalani	NOUN	N02	NounClass=Bantu2	4	nsubj	_	end_char=10|start_char=1
+3	ba	ba	PRON	SC02	NounClass=Bantu2|PronType=Prs	4	expl	_	end_char=13|start_char=11
+4	lomana	loma	VERB	V	_	0	root	_	end_char=20|start_char=14
+5	ka	ka	PART	PART	_	6	case	_	end_char=23|start_char=21
+6	meno	no	NOUN	N06	NounClass=Bantu6	4	obl	_	end_char=28|SpaceAfter=No|start_char=24
+7	,	,	PUNCT	PUNC	_	4	punct	_	end_char=30|start_char=29
+8	Motho	tho	NOUN	N01	NounClass=Bantu1	10	nsubj	_	end_char=36|start_char=31
+9	o	o	PRON	SC01	NounClass=Bantu1|PronType=Prs	10	expl	_	end_char=38|start_char=37
+10	phuaganya	phuagana	VERB	V	_	4	parataxis	_	end_char=48|start_char=39
+11	mogatse	gatse	NOUN	N01	NounClass=Bantu1	10	obj	_	end_char=56|start_char=49
+12	tsatsi	tsatsi	NOUN	N05	NounClass=Bantu5	10	obl	_	end_char=63|start_char=57
+13	le	le	AUX	VCOP	_	14	cop	_	end_char=66|start_char=64
+14	penne	penne	ADV	ADV	_	12	advmod	_	end_char=72|SpaceAfter=No|start_char=67
+15	"	"	PUNCT	PUNC	_	4	punct	_	end_char=73|start_char=72
 
 ~~~
 

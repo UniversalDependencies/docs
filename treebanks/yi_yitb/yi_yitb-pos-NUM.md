@@ -6,18 +6,21 @@ udver: '2'
 
 ## Treebank Statistics: UD_Yiddish-YiTB: POS Tags: `NUM`
 
-There are 45 `NUM` lemmas (1%), 51 `NUM` types (1%) and 110 `NUM` tokens (0%).
-Out of 16 observed tags, the rank of `NUM` is: 8 in number of lemmas, 9 in number of types and 14 in number of tokens.
+There are 50 `NUM` lemmas (1%), 58 `NUM` types (1%) and 125 `NUM` tokens (0%).
+Out of 16 observed tags, the rank of `NUM` is: 8 in number of lemmas, 8 in number of types and 14 in number of tokens.
 
-The 10 most frequent `NUM` lemmas: <em>צװײ, אײן, דרײַען, דרײַסיק, אַכט, גנבֿה, זיבעציק, געװינס, זיבן, ליד</em>
+The 10 most frequent `NUM` lemmas: <em>אײן, צװײ, דרײַ, דרײַען, דרײַסיק, אַכט, גנבֿה, זיבעציק, געװינס, זיבן</em>
 
-The 10 most frequent `NUM` types:  <em>צוויי, איין, צװײ, דרײַ, אײן, דרײַסיק, אַכט, זיבעציק, צען, איינס</em>
+The 10 most frequent `NUM` types:  <em>צוויי, איין, דרײַ, צװײ, אײן, אײנער, דרײַסיק, צען, אַכט, זיבעציק</em>
 
-The 10 most frequent ambiguous lemmas: <em>ליד</em> (<tt><a href="yi_yitb-pos-NOUN.html">NOUN</a></tt> 5, <tt><a href="yi_yitb-pos-NUM.html">NUM</a></tt> 2), <em>מיליאָן</em> (<tt><a href="yi_yitb-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="yi_yitb-pos-NUM.html">NUM</a></tt> 2), <em>פֿיר</em> (<tt><a href="yi_yitb-pos-VERB.html">VERB</a></tt> 5, <tt><a href="yi_yitb-pos-NUM.html">NUM</a></tt> 2), <em>אַנטיסעמיט</em> (<tt><a href="yi_yitb-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="yi_yitb-pos-NUM.html">NUM</a></tt> 1), <em>הונדערן</em> (<tt><a href="yi_yitb-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="yi_yitb-pos-NUM.html">NUM</a></tt> 1), <em>הימל</em> (<tt><a href="yi_yitb-pos-NOUN.html">NOUN</a></tt> 14, <tt><a href="yi_yitb-pos-NUM.html">NUM</a></tt> 1), <em>טױזנט</em> (<tt><a href="yi_yitb-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="yi_yitb-pos-NUM.html">NUM</a></tt> 1), <em>נעבעך</em> (<tt><a href="yi_yitb-pos-ADV.html">ADV</a></tt> 2, <tt><a href="yi_yitb-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="yi_yitb-pos-NUM.html">NUM</a></tt> 1), <em>רעליגיע</em> (<tt><a href="yi_yitb-pos-NOUN.html">NOUN</a></tt> 17, <tt><a href="yi_yitb-pos-NUM.html">NUM</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>ליד</em> (<tt><a href="yi_yitb-pos-NOUN.html">NOUN</a></tt> 12, <tt><a href="yi_yitb-pos-NUM.html">NUM</a></tt> 2), <em>מיליאָן</em> (<tt><a href="yi_yitb-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="yi_yitb-pos-NUM.html">NUM</a></tt> 2), <em>פֿיר</em> (<tt><a href="yi_yitb-pos-VERB.html">VERB</a></tt> 5, <tt><a href="yi_yitb-pos-NUM.html">NUM</a></tt> 2), <em>אַנטיסעמיט</em> (<tt><a href="yi_yitb-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="yi_yitb-pos-NUM.html">NUM</a></tt> 1), <em>אײנער</em> (<tt><a href="yi_yitb-pos-DET.html">DET</a></tt> 17, <tt><a href="yi_yitb-pos-NUM.html">NUM</a></tt> 1), <em>הונדערן</em> (<tt><a href="yi_yitb-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="yi_yitb-pos-NUM.html">NUM</a></tt> 1), <em>הימל</em> (<tt><a href="yi_yitb-pos-NOUN.html">NOUN</a></tt> 15, <tt><a href="yi_yitb-pos-NUM.html">NUM</a></tt> 1), <em>טױזנט</em> (<tt><a href="yi_yitb-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="yi_yitb-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="yi_yitb-pos-NUM.html">NUM</a></tt> 1), <em>נעבעך</em> (<tt><a href="yi_yitb-pos-ADV.html">ADV</a></tt> 3, <tt><a href="yi_yitb-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="yi_yitb-pos-NUM.html">NUM</a></tt> 1), <em>רעליגיע</em> (<tt><a href="yi_yitb-pos-NOUN.html">NOUN</a></tt> 17, <tt><a href="yi_yitb-pos-NUM.html">NUM</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>מיליאָן</em> (<tt><a href="yi_yitb-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="yi_yitb-pos-NUM.html">NUM</a></tt> 2), <em>פֿיר</em> (<tt><a href="yi_yitb-pos-NUM.html">NUM</a></tt> 2, <tt><a href="yi_yitb-pos-VERB.html">VERB</a></tt> 2), <em>הונדערט</em> (<tt><a href="yi_yitb-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="yi_yitb-pos-NUM.html">NUM</a></tt> 1), <em>פֿינף</em> (<tt><a href="yi_yitb-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="yi_yitb-pos-NUM.html">NUM</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>אײנער</em> (<tt><a href="yi_yitb-pos-DET.html">DET</a></tt> 7, <tt><a href="yi_yitb-pos-NUM.html">NUM</a></tt> 5), <em>מיליאָן</em> (<tt><a href="yi_yitb-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="yi_yitb-pos-NUM.html">NUM</a></tt> 2), <em>פֿיר</em> (<tt><a href="yi_yitb-pos-NUM.html">NUM</a></tt> 2, <tt><a href="yi_yitb-pos-VERB.html">VERB</a></tt> 2), <em>הונדערט</em> (<tt><a href="yi_yitb-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="yi_yitb-pos-NUM.html">NUM</a></tt> 1), <em>פֿינף</em> (<tt><a href="yi_yitb-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="yi_yitb-pos-NUM.html">NUM</a></tt> 1)
 
 
+* <em>אײנער</em>
+  * <tt><a href="yi_yitb-pos-DET.html">DET</a></tt> 7: <em>האָט <b>אײנער</b> געזאָגט : ער איז קראַנק .</em>
+  * <tt><a href="yi_yitb-pos-NUM.html">NUM</a></tt> 5: <em><b>אײנער</b> פֿון די געסט איז אַ רוסישער אימיגראַנט .</em>
 * <em>מיליאָן</em>
   * <tt><a href="yi_yitb-pos-NOUN.html">NOUN</a></tt> 2: <em>די דינאָזאַווערס זענען אויסגעשטאָרבן פֿאַר פֿינף און זעכציק <b>מיליאָן</b> יאָר .</em>
   * <tt><a href="yi_yitb-pos-NUM.html">NUM</a></tt> 2: <em>פֿאַר דער צווייטער וועלט־מלחמה האָבן אַרום 11 <b>מיליאָן</b> יידן גערעדט יידיש אלס זייער מאַמע־לשון .</em>
@@ -33,9 +36,9 @@ The 10 most frequent ambiguous types:  <em>מיליאָן</em> (<tt><a href="yi_
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.133333 (the average of all parts of speech is 1.222136).
+The form / lemma ratio of `NUM` is 1.160000 (the average of all parts of speech is 1.227854).
 
-The 1st highest number of forms (3) was observed with the lemma “אײן”: <em>איין, איינס, אײן</em>.
+The 1st highest number of forms (6) was observed with the lemma “אײן”: <em>איין, איינס, אײן, אײנס, אײנעם, אײנער</em>.
 
 The 2nd highest number of forms (3) was observed with the lemma “גנבֿה”: <em>1.5, 11, 1917</em>.
 
@@ -46,21 +49,21 @@ The 3rd highest number of forms (2) was observed with the lemma “געװינס�
 
 ## Relations
 
-`NUM` nodes are attached to their parents using 10 different relations: <tt><a href="yi_yitb-dep-nummod.html">nummod</a></tt> (79; 72% instances), <tt><a href="yi_yitb-dep-obl.html">obl</a></tt> (7; 6% instances), <tt><a href="yi_yitb-dep-compound.html">compound</a></tt> (6; 5% instances), <tt><a href="yi_yitb-dep-conj.html">conj</a></tt> (6; 5% instances), <tt><a href="yi_yitb-dep-obj.html">obj</a></tt> (5; 5% instances), <tt><a href="yi_yitb-dep-nmod.html">nmod</a></tt> (2; 2% instances), <tt><a href="yi_yitb-dep-root.html">root</a></tt> (2; 2% instances), <tt><a href="yi_yitb-dep-fixed.html">fixed</a></tt> (1; 1% instances), <tt><a href="yi_yitb-dep-flat.html">flat</a></tt> (1; 1% instances), <tt><a href="yi_yitb-dep-nsubj.html">nsubj</a></tt> (1; 1% instances)
+`NUM` nodes are attached to their parents using 10 different relations: <tt><a href="yi_yitb-dep-nummod.html">nummod</a></tt> (83; 66% instances), <tt><a href="yi_yitb-dep-obl.html">obl</a></tt> (9; 7% instances), <tt><a href="yi_yitb-dep-root.html">root</a></tt> (8; 6% instances), <tt><a href="yi_yitb-dep-compound.html">compound</a></tt> (6; 5% instances), <tt><a href="yi_yitb-dep-conj.html">conj</a></tt> (6; 5% instances), <tt><a href="yi_yitb-dep-obj.html">obj</a></tt> (5; 4% instances), <tt><a href="yi_yitb-dep-nmod.html">nmod</a></tt> (4; 3% instances), <tt><a href="yi_yitb-dep-nsubj.html">nsubj</a></tt> (2; 2% instances), <tt><a href="yi_yitb-dep-fixed.html">fixed</a></tt> (1; 1% instances), <tt><a href="yi_yitb-dep-flat.html">flat</a></tt> (1; 1% instances)
 
-Parents of `NUM` nodes belong to 8 different parts of speech: <tt><a href="yi_yitb-pos-NOUN.html">NOUN</a></tt> (82; 75% instances), <tt><a href="yi_yitb-pos-VERB.html">VERB</a></tt> (13; 12% instances), <tt><a href="yi_yitb-pos-NUM.html">NUM</a></tt> (7; 6% instances), <tt><a href="yi_yitb-pos-PROPN.html">PROPN</a></tt> (3; 3% instances),  (2; 2% instances), <tt><a href="yi_yitb-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="yi_yitb-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="yi_yitb-pos-DET.html">DET</a></tt> (1; 1% instances)
+Parents of `NUM` nodes belong to 8 different parts of speech: <tt><a href="yi_yitb-pos-NOUN.html">NOUN</a></tt> (89; 71% instances), <tt><a href="yi_yitb-pos-VERB.html">VERB</a></tt> (14; 11% instances),  (8; 6% instances), <tt><a href="yi_yitb-pos-NUM.html">NUM</a></tt> (7; 6% instances), <tt><a href="yi_yitb-pos-PROPN.html">PROPN</a></tt> (3; 2% instances), <tt><a href="yi_yitb-pos-ADJ.html">ADJ</a></tt> (2; 2% instances), <tt><a href="yi_yitb-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="yi_yitb-pos-DET.html">DET</a></tt> (1; 1% instances)
 
-85 (77%) `NUM` nodes are leaves.
+91 (73%) `NUM` nodes are leaves.
 
-21 (19%) `NUM` nodes have one child.
+25 (20%) `NUM` nodes have one child.
 
-0 (0%) `NUM` nodes have two children.
+1 (1%) `NUM` nodes have two children.
 
-4 (4%) `NUM` nodes have three or more children.
+8 (6%) `NUM` nodes have three or more children.
 
 The highest child degree of a `NUM` node is 6.
 
-Children of `NUM` nodes are attached using 11 different relations: <tt><a href="yi_yitb-dep-case.html">case</a></tt> (8; 21% instances), <tt><a href="yi_yitb-dep-cc.html">cc</a></tt> (8; 21% instances), <tt><a href="yi_yitb-dep-compound.html">compound</a></tt> (4; 10% instances), <tt><a href="yi_yitb-dep-det.html">det</a></tt> (4; 10% instances), <tt><a href="yi_yitb-dep-advmod.html">advmod</a></tt> (3; 8% instances), <tt><a href="yi_yitb-dep-conj.html">conj</a></tt> (3; 8% instances), <tt><a href="yi_yitb-dep-punct.html">punct</a></tt> (3; 8% instances), <tt><a href="yi_yitb-dep-cop.html">cop</a></tt> (2; 5% instances), <tt><a href="yi_yitb-dep-nsubj.html">nsubj</a></tt> (2; 5% instances), <tt><a href="yi_yitb-dep-amod.html">amod</a></tt> (1; 3% instances), <tt><a href="yi_yitb-dep-discourse.html">discourse</a></tt> (1; 3% instances)
+Children of `NUM` nodes are attached using 12 different relations: <tt><a href="yi_yitb-dep-case.html">case</a></tt> (9; 15% instances), <tt><a href="yi_yitb-dep-punct.html">punct</a></tt> (9; 15% instances), <tt><a href="yi_yitb-dep-cc.html">cc</a></tt> (8; 13% instances), <tt><a href="yi_yitb-dep-cop.html">cop</a></tt> (6; 10% instances), <tt><a href="yi_yitb-dep-nsubj.html">nsubj</a></tt> (6; 10% instances), <tt><a href="yi_yitb-dep-nmod.html">nmod</a></tt> (5; 8% instances), <tt><a href="yi_yitb-dep-compound.html">compound</a></tt> (4; 7% instances), <tt><a href="yi_yitb-dep-conj.html">conj</a></tt> (4; 7% instances), <tt><a href="yi_yitb-dep-det.html">det</a></tt> (4; 7% instances), <tt><a href="yi_yitb-dep-advmod.html">advmod</a></tt> (3; 5% instances), <tt><a href="yi_yitb-dep-amod.html">amod</a></tt> (1; 2% instances), <tt><a href="yi_yitb-dep-discourse.html">discourse</a></tt> (1; 2% instances)
 
-Children of `NUM` nodes belong to 12 different parts of speech: <tt><a href="yi_yitb-pos-CCONJ.html">CCONJ</a></tt> (8; 21% instances), <tt><a href="yi_yitb-pos-ADP.html">ADP</a></tt> (7; 18% instances), <tt><a href="yi_yitb-pos-NUM.html">NUM</a></tt> (7; 18% instances), <tt><a href="yi_yitb-pos-DET.html">DET</a></tt> (5; 13% instances), <tt><a href="yi_yitb-pos-PUNCT.html">PUNCT</a></tt> (3; 8% instances), <tt><a href="yi_yitb-pos-ADJ.html">ADJ</a></tt> (2; 5% instances), <tt><a href="yi_yitb-pos-AUX.html">AUX</a></tt> (2; 5% instances), <tt><a href="yi_yitb-pos-ADV.html">ADV</a></tt> (1; 3% instances), <tt><a href="yi_yitb-pos-INTJ.html">INTJ</a></tt> (1; 3% instances), <tt><a href="yi_yitb-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="yi_yitb-pos-PART.html">PART</a></tt> (1; 3% instances), <tt><a href="yi_yitb-pos-SCONJ.html">SCONJ</a></tt> (1; 3% instances)
+Children of `NUM` nodes belong to 14 different parts of speech: <tt><a href="yi_yitb-pos-PUNCT.html">PUNCT</a></tt> (9; 15% instances), <tt><a href="yi_yitb-pos-ADP.html">ADP</a></tt> (8; 13% instances), <tt><a href="yi_yitb-pos-CCONJ.html">CCONJ</a></tt> (8; 13% instances), <tt><a href="yi_yitb-pos-NOUN.html">NOUN</a></tt> (7; 12% instances), <tt><a href="yi_yitb-pos-NUM.html">NUM</a></tt> (7; 12% instances), <tt><a href="yi_yitb-pos-AUX.html">AUX</a></tt> (6; 10% instances), <tt><a href="yi_yitb-pos-DET.html">DET</a></tt> (5; 8% instances), <tt><a href="yi_yitb-pos-ADJ.html">ADJ</a></tt> (3; 5% instances), <tt><a href="yi_yitb-pos-PROPN.html">PROPN</a></tt> (2; 3% instances), <tt><a href="yi_yitb-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="yi_yitb-pos-INTJ.html">INTJ</a></tt> (1; 2% instances), <tt><a href="yi_yitb-pos-PART.html">PART</a></tt> (1; 2% instances), <tt><a href="yi_yitb-pos-SCONJ.html">SCONJ</a></tt> (1; 2% instances), <tt><a href="yi_yitb-pos-VERB.html">VERB</a></tt> (1; 2% instances)
 

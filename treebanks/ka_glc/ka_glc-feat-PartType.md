@@ -20,9 +20,9 @@ The feature is used with 8 part-of-speech tags: <tt><a href="ka_glc-pos-PART.htm
 
 `PART` tokens may have the following values of `PartType`:
 
-* `Emp` (77; 31% of non-empty `PartType`): <em>კი, მაინც, არც, ვერც</em>
+* `Emp` (72; 29% of non-empty `PartType`): <em>კი, მაინც, ვერც</em>
 * `Int` (5; 2% of non-empty `PartType`): <em>ალბათ, ხომ, თურმე</em>
-* `Neg` (163; 67% of non-empty `PartType`): <em>არ, არა, ვერ, აღარ</em>
+* `Neg` (168; 69% of non-empty `PartType`): <em>არ, არა, ვერ, არც, აღარ</em>
 
 `PartType` seems to be **lexical feature** of `PART`. 100% lemmas (11) occur only with one value of `PartType`.
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-28 nodes (1%) are attached to their parents as `xcomp`.
+37 nodes (1%) are attached to their parents as `xcomp`.
 
-27 instances of `xcomp` (96%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.39285714285714.
+36 instances of `xcomp` (97%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.45945945945946.
 
-The following 5 pairs of parts of speech are connected with `xcomp`: <tt><a href="eo_prago-pos-VERB.html">VERB</a></tt>-<tt><a href="eo_prago-pos-VERB.html">VERB</a></tt> (20; 71% instances), <tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eo_prago-pos-VERB.html">VERB</a></tt> (4; 14% instances), <tt><a href="eo_prago-pos-VERB.html">VERB</a></tt>-<tt><a href="eo_prago-pos-ADJ.html">ADJ</a></tt> (2; 7% instances), <tt><a href="eo_prago-pos-AUX.html">AUX</a></tt>-<tt><a href="eo_prago-pos-VERB.html">VERB</a></tt> (1; 4% instances), <tt><a href="eo_prago-pos-VERB.html">VERB</a></tt>-<tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt> (1; 4% instances).
+The following 7 pairs of parts of speech are connected with `xcomp`: <tt><a href="eo_prago-pos-VERB.html">VERB</a></tt>-<tt><a href="eo_prago-pos-VERB.html">VERB</a></tt> (20; 54% instances), <tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eo_prago-pos-VERB.html">VERB</a></tt> (7; 19% instances), <tt><a href="eo_prago-pos-VERB.html">VERB</a></tt>-<tt><a href="eo_prago-pos-ADJ.html">ADJ</a></tt> (4; 11% instances), <tt><a href="eo_prago-pos-ADV.html">ADV</a></tt>-<tt><a href="eo_prago-pos-VERB.html">VERB</a></tt> (2; 5% instances), <tt><a href="eo_prago-pos-VERB.html">VERB</a></tt>-<tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt> (2; 5% instances), <tt><a href="eo_prago-pos-ADJ.html">ADJ</a></tt>-<tt><a href="eo_prago-pos-VERB.html">VERB</a></tt> (1; 3% instances), <tt><a href="eo_prago-pos-AUX.html">AUX</a></tt>-<tt><a href="eo_prago-pos-VERB.html">VERB</a></tt> (1; 3% instances).
 
 
 ~~~ conllu
@@ -36,7 +36,7 @@ The following 5 pairs of parts of speech are connected with `xcomp`: <tt><a href
 12	min	_	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	11	obj	_	_
 13	en	_	ADP	_	_	15	case	_	_
 14	la	_	DET	_	Definite=Def|PronType=Art	15	det	_	_
-15	adresaron	_	NOUN	_	Case=Acc|Number=Sing	11	nmod	_	_
+15	adresaron	_	NOUN	_	Case=Acc|Number=Sing	11	obl	_	_
 16	de	_	ADP	_	_	18	case	_	_
 17	la	_	DET	_	Definite=Def|PronType=Art	18	det	_	_
 18	Homaranoj	_	NOUN	_	Case=Nom|Number=Plur	15	nmod	_	SpaceAfter=No
@@ -57,12 +57,12 @@ The following 5 pairs of parts of speech are connected with `xcomp`: <tt><a href
 4	kaŭzo	kaŭzo	NOUN	_	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	13	punct	_	_
 6	pro	pro	ADP	_	_	7	case	_	_
-7	kiu	kiu	PRON	_	Case=Nom|Number=Sing|PronType=Rel	13	nmod	_	_
+7	kiu	kiu	PRON	_	Case=Nom|Number=Sing|PronType=Rel	13	obl	_	_
 8	mi	mi	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	13	nsubj	_	_
 9	dum	dum	ADP	_	_	12	case	_	_
 10	tre	tre	ADV	_	_	11	advmod	_	_
 11	longa	longa	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	12	amod	_	_
-12	tempo	tempo	NOUN	_	Case=Nom|Number=Sing	13	nmod	_	_
+12	tempo	tempo	NOUN	_	Case=Nom|Number=Sing	13	obl	_	_
 13	havis	havi	VERB	_	Mood=Ind|Tense=Fut|VerbForm=Fin	4	advcl:relcl	_	_
 14	la	la	DET	_	Definite=Def|PronType=Art	15	det	_	_
 15	intencon	intenco	NOUN	_	Case=Acc|Number=Sing	13	obj	_	_
@@ -125,7 +125,7 @@ The following 5 pairs of parts of speech are connected with `xcomp`: <tt><a href
 35	kaj	kaj	CCONJ	_	_	36	cc	_	_
 36	efika	efika	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	34	conj	_	_
 37	lingva	lingva	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	38	amod	_	_
-38	ordo	ordo	NOUN	_	Case=Nom|Number=Sing	32	nmod	_	SpaceAfter=No
+38	ordo	ordo	NOUN	_	Case=Nom|Number=Sing	32	obl	_	SpaceAfter=No
 39	.	.	PUNCT	_	_	25	punct	_	_
 
 ~~~

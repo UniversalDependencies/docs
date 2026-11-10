@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-8 nodes (2%) are attached to their parents as `obl`.
+7 nodes (2%) are attached to their parents as `obl`.
 
-6 instances of `obl` (75%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.25.
+5 instances of `obl` (71%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.42857142857143.
 
-The following 6 pairs of parts of speech are connected with `obl`: <tt><a href="urb_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="urb_tudet-pos-NOUN.html">NOUN</a></tt> (3; 38% instances), <tt><a href="urb_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="urb_tudet-pos-ADP.html">ADP</a></tt> (1; 13% instances), <tt><a href="urb_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="urb_tudet-pos-NOUN.html">NOUN</a></tt> (1; 13% instances), <tt><a href="urb_tudet-pos-PRON.html">PRON</a></tt>-<tt><a href="urb_tudet-pos-ADP.html">ADP</a></tt> (1; 13% instances), <tt><a href="urb_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="urb_tudet-pos-PRON.html">PRON</a></tt> (1; 13% instances), <tt><a href="urb_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="urb_tudet-pos-PROPN.html">PROPN</a></tt> (1; 13% instances).
+The following 5 pairs of parts of speech are connected with `obl`: <tt><a href="urb_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="urb_tudet-pos-NOUN.html">NOUN</a></tt> (3; 43% instances), <tt><a href="urb_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="urb_tudet-pos-ADP.html">ADP</a></tt> (1; 14% instances), <tt><a href="urb_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="urb_tudet-pos-NOUN.html">NOUN</a></tt> (1; 14% instances), <tt><a href="urb_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="urb_tudet-pos-PRON.html">PRON</a></tt> (1; 14% instances), <tt><a href="urb_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="urb_tudet-pos-PROPN.html">PROPN</a></tt> (1; 14% instances).
 
 
 ~~~ conllu

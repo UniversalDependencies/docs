@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  <em>зярдо</em> (<tt><a href="myv_jr-
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 2.080836).
+The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 2.083990).
 
 The 1st highest number of forms (1) was observed with the lemma “Коть”: <em>Коть</em>.
 
@@ -62,13 +62,13 @@ The 2nd highest number of forms (1) was observed with the lemma “бути”: 
 
 The 3rd highest number of forms (1) was observed with the lemma “буто”: <em>буто</em>.
 
-`SCONJ` occurs with 6 features: <tt><a href="myv_jr-feat-AdvType.html">AdvType</a></tt> (20; 30% instances), <tt><a href="myv_jr-feat-PronType.html">PronType</a></tt> (2; 3% instances), <tt><a href="myv_jr-feat-Case.html">Case</a></tt> (1; 2% instances), <tt><a href="myv_jr-feat-Definite.html">Definite</a></tt> (1; 2% instances), <tt><a href="myv_jr-feat-ExtPos.html">ExtPos</a></tt> (1; 2% instances), <tt><a href="myv_jr-feat-Number.html">Number</a></tt> (1; 2% instances)
+`SCONJ` occurs with 7 features: <tt><a href="myv_jr-feat-AdvType.html">AdvType</a></tt> (20; 30% instances), <tt><a href="myv_jr-feat-ConjType.html">ConjType</a></tt> (15; 23% instances), <tt><a href="myv_jr-feat-PronType.html">PronType</a></tt> (2; 3% instances), <tt><a href="myv_jr-feat-Case.html">Case</a></tt> (1; 2% instances), <tt><a href="myv_jr-feat-Definite.html">Definite</a></tt> (1; 2% instances), <tt><a href="myv_jr-feat-ExtPos.html">ExtPos</a></tt> (1; 2% instances), <tt><a href="myv_jr-feat-Number.html">Number</a></tt> (1; 2% instances)
 
-`SCONJ` occurs with 8 feature-value pairs: `AdvType=Man`, `AdvType=Tim`, `Case=Nom`, `Definite=Ind`, `ExtPos=ADV`, `Number=Sing`, `PronType=Dem`, `PronType=Int`
+`SCONJ` occurs with 9 feature-value pairs: `AdvType=Man`, `AdvType=Tim`, `Case=Nom`, `ConjType=Cnd`, `Definite=Ind`, `ExtPos=ADV`, `Number=Sing`, `PronType=Dem`, `PronType=Int`
 
-`SCONJ` occurs with 6 feature combinations.
-The most frequent feature combination is `_` (44 tokens).
-Examples: <em>бути, куш, теке, што, штобу, прок, хоть, Коли, Коть, буто</em>
+`SCONJ` occurs with 7 feature combinations.
+The most frequent feature combination is `_` (29 tokens).
+Examples: <em>куш, теке, што, штобу, прок, хоть, Коли, Коть, буто, кода</em>
 
 
 ## Relations

@@ -21,7 +21,7 @@ The feature is used with 3 part-of-speech tags: <tt><a href="ru_syntagrus-pos-PA
 `PART` tokens may have the following values of `Polarity`:
 
 * `Neg` (20188; 100% of non-empty `Polarity`): <em>не, ни, нет, Не-а, нет-нет</em>
-* `EMPTY` (30285): <em>и, же, только, даже, вот, ли, это, именно, лишь, просто</em>
+* `EMPTY` (30287): <em>и, же, только, даже, вот, ли, это, именно, лишь, просто</em>
 
 ### `VERB`
 
@@ -32,7 +32,7 @@ The most frequent other feature values with which `VERB` and `Polarity` co-occur
 `VERB` tokens may have the following values of `Polarity`:
 
 * `Neg` (899; 100% of non-empty `Polarity`): <em>нельзя, нет, нечего, не, некуда, нечем, некогда, некому, невозможно, негде</em>
-* `EMPTY` (175243): <em>может, можно, есть, надо, сказал, было, могут, нет, стал, является</em>
+* `EMPTY` (175244): <em>может, можно, есть, надо, сказал, было, могут, нет, стал, является</em>
 
 `Polarity` seems to be **lexical feature** of `VERB`. 100% lemmas (11) occur only with one value of `Polarity`.
 
@@ -49,7 +49,6 @@ The most frequent other feature values with which `VERB` and `Polarity` co-occur
 
 The 10 most frequent relations where parent and child node agree in `Polarity`:
 <tt>PART --[<tt><a href="ru_syntagrus-dep-conj.html">conj</a></tt>]--> PART</tt> (12; 100%),
-<tt>PART --[<tt><a href="ru_syntagrus-dep-cc.html">cc</a></tt>]--> PART</tt> (2; 100%),
-<tt>PART --[<tt><a href="ru_syntagrus-dep-advcl.html">advcl</a></tt>]--> PART</tt> (1; 100%),
-<tt>PART --[<tt><a href="ru_syntagrus-dep-obl.html">obl</a></tt>]--> PART</tt> (1; 100%).
+<tt>PART --[<tt><a href="ru_syntagrus-dep-advcl.html">advcl</a></tt>]--> PART</tt> (2; 100%),
+<tt>PART --[<tt><a href="ru_syntagrus-dep-cc.html">cc</a></tt>]--> PART</tt> (2; 100%).
 

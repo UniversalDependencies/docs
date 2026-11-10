@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 2 language-specific subtypes of `nmod`: <tt><a href="si_stb-dep-nmod-poss.html">nmod:poss</a></tt>, <tt><a href="si_stb-dep-nmod-tmod.html">nmod:tmod</a></tt>.
 
-53 nodes (6%) are attached to their parents as `nmod`.
+55 nodes (6%) are attached to their parents as `nmod`.
 
-51 instances of `nmod` (96%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.35849056603774.
+53 instances of `nmod` (96%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.41818181818182.
 
-The following 6 pairs of parts of speech are connected with `nmod`: <tt><a href="si_stb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="si_stb-pos-NOUN.html">NOUN</a></tt> (40; 75% instances), <tt><a href="si_stb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="si_stb-pos-ADJ.html">ADJ</a></tt> (4; 8% instances), <tt><a href="si_stb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="si_stb-pos-PROPN.html">PROPN</a></tt> (4; 8% instances), <tt><a href="si_stb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="si_stb-pos-PRON.html">PRON</a></tt> (3; 6% instances), <tt><a href="si_stb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="si_stb-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="si_stb-pos-PRON.html">PRON</a></tt>-<tt><a href="si_stb-pos-NOUN.html">NOUN</a></tt> (1; 2% instances).
+The following 6 pairs of parts of speech are connected with `nmod`: <tt><a href="si_stb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="si_stb-pos-NOUN.html">NOUN</a></tt> (41; 75% instances), <tt><a href="si_stb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="si_stb-pos-PROPN.html">PROPN</a></tt> (5; 9% instances), <tt><a href="si_stb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="si_stb-pos-ADJ.html">ADJ</a></tt> (4; 7% instances), <tt><a href="si_stb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="si_stb-pos-PRON.html">PRON</a></tt> (3; 5% instances), <tt><a href="si_stb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="si_stb-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="si_stb-pos-PRON.html">PRON</a></tt>-<tt><a href="si_stb-pos-NOUN.html">NOUN</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -37,6 +37,24 @@ The following 6 pairs of parts of speech are connected with `nmod`: <tt><a href=
 
 
 ~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 3 nmod	color:blue
+1	එබඳු	එබඳු	ADJ	_	_	2	nmod	_	Translit=ebaňdu|LTranslit=ebaňdu
+2	තැනැත්තන්	තැනැත්ත	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	5	nsubj	_	Translit=tænættan|LTranslit=tænætta
+3	ෂැවොලින්	ෂැවොලින්	PROPN	_	Foreign=Yes	4	nmod	_	Translit=ṣævolin|LTranslit=ṣævolin
+4	ආරාමවලට	ආරාම	NOUN	_	Animacy=Inan|Case=Ill|Gender=Neut|Number=Plur	5	obl:lmod	_	Translit=ārāmavalaṭa|LTranslit=ārāma
+5	වැද්දගන්නේ	වැද්දගන්	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Part|Voice=Act	0	root	_	Translit=væddagannē|LTranslit=væddagan
+6	ද	ද	PART	_	AdpType=Post	5	advmod	_	Translit=da|LTranslit=da
+7	නැත	නැත	AUX	_	Aspect=Prosp|Polarity=Neg|VerbForm=Fin	5	aux	_	Translit=næta|LTranslit=næta
+8	.	.	PUNCT	_	_	5	punct	_	Translit=.|LTranslit=.
+
+~~~
+
+
+~~~ conllu
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 2	bgColor:blue
@@ -51,24 +69,6 @@ The following 6 pairs of parts of speech are connected with `nmod`: <tt><a href=
 7	යුතු	යුතු	AUX	_	VerbForm=Fin	6	aux	_	Translit=yutu|LTranslit=yutu
 8	ය	ය	PART	_	AdpType=Post	5	dep	_	Translit=ya|LTranslit=ya
 9	.	.	PUNCT	_	_	5	punct	_	Translit=.|LTranslit=.
-
-~~~
-
-
-~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 3 nmod	color:blue
-1	එබඳු	එබඳු	ADJ	_	_	2	nmod	_	Translit=ebaňdu|LTranslit=ebaňdu
-2	තැනැත්තන්	තැනැත්ත	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	5	nsubj	_	Translit=tænættan|LTranslit=tænætta
-3	ෂැවොලින්	ෂැවොලින්	PROPN	_	Foreign=Yes	4	nmod	_	Translit=ṣævolin|LTranslit=ṣævolin
-4	ආරාමවලට	ආරාම	NOUN	_	Animacy=Inan|Case=Ill|Gender=Neut|Number=Plur	5	obl:lmod	_	Translit=ārāmavalaṭa|LTranslit=ārāma
-5	වැද්දගන්නේ	වැද්දගන්	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Part|Voice=Act	0	root	_	Translit=væddagannē|LTranslit=væddagan
-6	ද	ද	PART	_	AdpType=Post	5	advmod	_	Translit=da|LTranslit=da
-7	නැත	නැත	AUX	_	Aspect=Prosp|Polarity=Neg|VerbForm=Fin	5	aux	_	Translit=næta|LTranslit=næta
-8	.	.	PUNCT	_	_	5	punct	_	Translit=.|LTranslit=.
 
 ~~~
 

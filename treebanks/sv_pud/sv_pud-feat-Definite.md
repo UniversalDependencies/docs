@@ -11,14 +11,14 @@ It occurs with 2 different values: `Def`, `Ind`.
 
 7219 tokens (38%) have a non-empty value of `Definite`.
 3588 types (58%) occur at least once with a non-empty value of `Definite`.
-2771 lemmas (56%) occur at least once with a non-empty value of `Definite`.
+2772 lemmas (56%) occur at least once with a non-empty value of `Definite`.
 The feature is used with 7 part-of-speech tags: <tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt> (3870; 20% instances), <tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> (1265; 7% instances), <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> (1091; 6% instances), <tt><a href="sv_pud-pos-DET.html">DET</a></tt> (981; 5% instances), <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt> (7; 0% instances), <tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="sv_pud-pos-NUM.html">NUM</a></tt> (2; 0% instances).
 
 ### `NOUN`
 
 3870 <tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt> tokens (96% of all `NOUN` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `NOUN` and `Definite` co-occurred: <tt><a href="sv_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt> (3748; 97%), <tt><a href="sv_pud-feat-Gender.html">Gender</a></tt><tt>=Com</tt> (2793; 72%), <tt><a href="sv_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2750; 71%).
+The most frequent other feature values with which `NOUN` and `Definite` co-occurred: <tt><a href="sv_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt> (3749; 97%), <tt><a href="sv_pud-feat-Gender.html">Gender</a></tt><tt>=Com</tt> (2792; 72%), <tt><a href="sv_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2749; 71%).
 
 `NOUN` tokens may have the following values of `Definite`:
 
@@ -42,8 +42,8 @@ The most frequent other feature values with which `ADJ` and `Definite` co-occurr
 
 `ADJ` tokens may have the following values of `Definite`:
 
-* `Def` (467; 37% of non-empty `Definite`): <em>hela, senaste, sista, högsta, nya, brittiska, norra, största, södra, bästa</em>
-* `Ind` (798; 63% of non-empty `Definite`): <em>andra, nya, stor, samma, stora, olika, vissa, lång, direkt, egen</em>
+* `Def` (469; 37% of non-empty `Definite`): <em>hela, senaste, sista, högsta, nya, brittiska, norra, största, södra, andra</em>
+* `Ind` (796; 63% of non-empty `Definite`): <em>andra, nya, stor, samma, stora, olika, vissa, lång, direkt, egen</em>
 * `EMPTY` (300): <em>första, många, flera, fler, större, andra, tidigare, betydande, högre, bra</em>
 
 <table>

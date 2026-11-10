@@ -11,9 +11,9 @@ This relation is universal.
 2776 nodes (6%) are attached to their parents as `root`.
 
 2776 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.5421469740634.
+Average distance between parent and child is 6.38400576368876.
 
-The following 14 pairs of parts of speech are connected with `root`: -<tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt> (1869; 67% instances), -<tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt> (307; 11% instances), -<tt><a href="fr_parisstories-pos-ADJ.html">ADJ</a></tt> (241; 9% instances), -<tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt> (90; 3% instances), -<tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt> (86; 3% instances), -<tt><a href="fr_parisstories-pos-INTJ.html">INTJ</a></tt> (85; 3% instances), -<tt><a href="fr_parisstories-pos-AUX.html">AUX</a></tt> (37; 1% instances), -<tt><a href="fr_parisstories-pos-PROPN.html">PROPN</a></tt> (30; 1% instances), -<tt><a href="fr_parisstories-pos-ADP.html">ADP</a></tt> (11; 0% instances), -<tt><a href="fr_parisstories-pos-X.html">X</a></tt> (9; 0% instances), -<tt><a href="fr_parisstories-pos-CCONJ.html">CCONJ</a></tt> (6; 0% instances), -<tt><a href="fr_parisstories-pos-NUM.html">NUM</a></tt> (2; 0% instances), -<tt><a href="fr_parisstories-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), -<tt><a href="fr_parisstories-pos-DET.html">DET</a></tt> (1; 0% instances).
+The following 14 pairs of parts of speech are connected with `root`: -<tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt> (1869; 67% instances), -<tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt> (302; 11% instances), -<tt><a href="fr_parisstories-pos-ADJ.html">ADJ</a></tt> (238; 9% instances), -<tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt> (90; 3% instances), -<tt><a href="fr_parisstories-pos-INTJ.html">INTJ</a></tt> (88; 3% instances), -<tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt> (84; 3% instances), -<tt><a href="fr_parisstories-pos-AUX.html">AUX</a></tt> (39; 1% instances), -<tt><a href="fr_parisstories-pos-PROPN.html">PROPN</a></tt> (30; 1% instances), -<tt><a href="fr_parisstories-pos-ADP.html">ADP</a></tt> (16; 1% instances), -<tt><a href="fr_parisstories-pos-X.html">X</a></tt> (8; 0% instances), -<tt><a href="fr_parisstories-pos-CCONJ.html">CCONJ</a></tt> (6; 0% instances), -<tt><a href="fr_parisstories-pos-DET.html">DET</a></tt> (3; 0% instances), -<tt><a href="fr_parisstories-pos-NUM.html">NUM</a></tt> (2; 0% instances), -<tt><a href="fr_parisstories-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -57,15 +57,15 @@ The following 14 pairs of parts of speech are connected with `root`: -<tt><a hre
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 9 root	color:blue
-1	parce	parce	ADV	_	ExtPos=SCONJ	9	mark	_	Idiom=Yes
+1	parce	parce	ADV	_	ExtPos=SCONJ	9	mark	_	Idiom=Yes|SingleSpeaker=Yes
 2	que	que	SCONJ	_	_	1	fixed	_	InIdiom=Yes
-3	euh	euh	INTJ	_	_	9	discourse	_	SpaceAfter=No
+3	euh	euh	INTJ	_	_	9	discourse:filler	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	3	punct	_	_
 5	je	moi	PRON	_	Case=Nom|Emph=No|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	Exponence[Number]=Inherent|Exponence[Person]=Inherent
 6	suis	être	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	9	cop	_	_
 7	pas	pas	ADV	_	Polarity=Neg	9	advmod	_	_
 8	très	très	ADV	_	_	9	advmod	_	_
-9	douée	doué	ADJ	_	Gender=Fem|Number=Sing	0	root	_	Exponence[Gender]=Absent|Exponence[Number]=Absent|HasSpokenGender=NotInThisDialect|HasSpokenNumber=OnlyWithLiaison
+9	douée	doué	ADJ	_	Gender=Fem|Number=Sing	0	root	_	Coconstruct=mod::ParisStories_2019_devoirPhilosophie_3::9|Exponence[Gender]=Absent|Exponence[Number]=Absent|HasSpokenGender=NotInThisDialect|HasSpokenNumber=OnlyWithLiaison
 10	en	en	ADP	_	_	11	case	_	_
 11	philosophie	philosophie	NOUN	_	Gender=Fem|Number=Sing	9	obl:mod	_	Exponence[Gender]=Inherent|Exponence[Number]=Absent
 12	à	à	ADP	_	_	14	case	_	_

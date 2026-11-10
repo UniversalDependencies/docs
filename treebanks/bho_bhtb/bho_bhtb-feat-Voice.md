@@ -86,7 +86,7 @@ The most frequent other feature values with which `CCONJ` and `Voice` co-occurre
 `CCONJ` tokens may have the following values of `Voice`:
 
 * `Act` (11; 100% of non-empty `Voice`): फगुआ, आ, रउँआ
-* `EMPTY` (140): आ, बाकिर, अउर, भा, राउर, आउर, आखिर, खम्भा, खैर, बलुक
+* `EMPTY` (141): आ, बाकिर, अउर, भा, राउर, आउर, आखिर, खम्भा, खैर, बलुक
 
 ### `ADP`
 
@@ -119,7 +119,7 @@ The most frequent other feature values with which `PART` and `Voice` co-occurred
 `PART` tokens may have the following values of `Voice`:
 
 * `Act` (2; 100% of non-empty `Voice`): नइखे, नाहीं
-* `EMPTY` (189): त, ना, नइखे, बहुते, भर, बस, अतना, खाली, गमगमावे, घटना
+* `EMPTY` (188): त, ना, नइखे, बहुते, भर, बस, अतना, खाली, गमगमावे, घटना
 
 ## Relations with Agreement in `Voice`
 

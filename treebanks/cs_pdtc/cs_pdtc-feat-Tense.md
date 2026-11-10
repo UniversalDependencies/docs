@@ -109,7 +109,7 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 
 10138 <tt><a href="cs_pdtc-pos-ADJ.html">ADJ</a></tt> tokens (3% of all `ADJ` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `ADJ` and `Tense` co-occurred: <tt><a href="cs_pdtc-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (10138; 100%), <tt><a href="cs_pdtc-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (10138; 100%), <tt><a href="cs_pdtc-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (9974; 98%), <tt><a href="cs_pdtc-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (9741; 96%), <tt><a href="cs_pdtc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5861; 58%), <tt><a href="cs_pdtc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (5097; 50%).
+The most frequent other feature values with which `ADJ` and `Tense` co-occurred: <tt><a href="cs_pdtc-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (10138; 100%), <tt><a href="cs_pdtc-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (10138; 100%), <tt><a href="cs_pdtc-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (10116; 100%), <tt><a href="cs_pdtc-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (9974; 98%), <tt><a href="cs_pdtc-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (9741; 96%), <tt><a href="cs_pdtc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5861; 58%), <tt><a href="cs_pdtc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (5097; 50%).
 
 `ADJ` tokens may have the following values of `Tense`:
 
@@ -126,9 +126,9 @@ The 10 most frequent relations where parent and child node agree in `Tense`:
 <tt>VERB --[<tt><a href="cs_pdtc-dep-conj.html">conj</a></tt>]--> VERB</tt> (26912; 83%),
 <tt>VERB --[<tt><a href="cs_pdtc-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (10140; 66%),
 <tt>VERB --[<tt><a href="cs_pdtc-dep-appos.html">appos</a></tt>]--> VERB</tt> (386; 78%),
-<tt>AUX --[<tt><a href="cs_pdtc-dep-conj.html">conj</a></tt>]--> VERB</tt> (234; 80%),
-<tt>VERB --[<tt><a href="cs_pdtc-dep-conj.html">conj</a></tt>]--> AUX</tt> (218; 75%),
-<tt>VERB --[<tt><a href="cs_pdtc-dep-advcl.html">advcl</a></tt>]--> AUX</tt> (211; 70%),
+<tt>AUX --[<tt><a href="cs_pdtc-dep-conj.html">conj</a></tt>]--> VERB</tt> (230; 80%),
+<tt>VERB --[<tt><a href="cs_pdtc-dep-conj.html">conj</a></tt>]--> AUX</tt> (216; 75%),
+<tt>VERB --[<tt><a href="cs_pdtc-dep-advcl.html">advcl</a></tt>]--> AUX</tt> (211; 71%),
 <tt>AUX --[<tt><a href="cs_pdtc-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (127; 54%),
 <tt>VERB --[<tt><a href="cs_pdtc-dep-dep.html">dep</a></tt>]--> AUX</tt> (106; 96%),
 <tt>AUX --[<tt><a href="cs_pdtc-dep-conj.html">conj</a></tt>]--> AUX</tt> (65; 66%),

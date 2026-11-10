@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-18 nodes (0%) are attached to their parents as `flat`.
+21 nodes (0%) are attached to their parents as `flat`.
 
-18 instances of `flat` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.61111111111111.
+21 instances of `flat` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.57142857142857.
 
-The following 4 pairs of parts of speech are connected with `flat`: <tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt> (14; 78% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt> (2; 11% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (1; 6% instances), <tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (1; 6% instances).
+The following 5 pairs of parts of speech are connected with `flat`: <tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt> (16; 76% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt> (2; 10% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (1; 5% instances), <tt><a href="yo_ytb-pos-NUM.html">NUM</a></tt>-<tt><a href="yo_ytb-pos-NUM.html">NUM</a></tt> (1; 5% instances), <tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (1; 5% instances).
 
 
 ~~~ conllu
@@ -55,7 +55,7 @@ The following 4 pairs of parts of speech are connected with `flat`: <tt><a href=
 10	ún	ún	ADJ	_	NumType=Ord	13	nsubj	_	_
 11	jẹ́	jẹ́	AUX	_	_	13	cop	_	_
 12	"	"	PUNCT	_	_	13	punct	_	SpaceAfter=No
-13	St	St	NOUN	_	_	5	obl	_	SpaceAfter=No
+13	St	st	NOUN	_	_	5	obl	_	SpaceAfter=No
 14	.	.	PUNCT	_	_	13	punct	_	_
 15	Genevieve	Genevieve	PROPN	_	_	13	flat	_	SpaceAfter=No
 16	"	"	PUNCT	_	_	13	punct	_	SpaceAfter=No
@@ -98,10 +98,10 @@ The following 4 pairs of parts of speech are connected with `flat`: <tt><a href=
 18	pẹ̀lú	pẹ̀lú	ADP	_	_	19	case	_	_
 19	filmu	filmu	NOUN	_	_	9	obl	_	_
 20	tó	tó	SCONJ	_	_	23	mark	_	_
-21	ún	ún	PRON	_	_	23	nsubj	_	_
+21	ún	ún	PRON	_	Person=3|PronType=Prs	23	nsubj	_	_
 22	jẹ́	jẹ́	AUX	_	_	23	cop	_	_
-23	Most	Most	NOUN	_	_	19	acl	_	_
-24	Wanted	Wanted	NOUN	_	_	23	flat	_	SpaceAfter=No
+23	Most	most	NOUN	_	_	19	acl	_	_
+24	Wanted	wanted	NOUN	_	_	23	flat	_	SpaceAfter=No
 25	.	.	PUNCT	_	_	9	punct	_	_
 
 ~~~

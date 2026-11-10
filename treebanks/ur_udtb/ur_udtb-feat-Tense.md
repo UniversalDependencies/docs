@@ -25,7 +25,7 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 * `Fut` (439; 9% of non-empty `Tense`): گے، جائےگا، گا، گی، جائےگی، جائیں_گے، جائیگی، ہوں_گے، جائیں_گی، جائے_گا
 * `Past` (957; 19% of non-empty `Tense`): تھا، تھی، تھے، تھیں، جاتے
 * `Pres` (3519; 72% of non-empty `Tense`): ہے، ہیں، ہےں، ہوں، ہو، رہے
-* `EMPTY` (4206): ہوئے، گیا، جا، گئی، گئے، کر، رہے، رہی، رہا، جائے
+* `EMPTY` (4208): ہوئے، گیا، جا، گئی، گئے، کر، رہے، رہی، رہا، جائے
 
 <table>
   <tr><th>Paradigm <i>ہے</i></th><th><tt>Pres</tt></th><th><tt>Fut</tt></th></tr>
@@ -83,7 +83,7 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 * `Fut` (249; 32% of non-empty `Tense`): کریں_گے، کرےگی، دیں_گے، کریںگے، رہےگا، کرےگا، ہوگا، آئےگا، رہیں_گے، کریں_گی
 * `Past` (88; 11% of non-empty `Tense`): تھے، تھا، تھی، تھیں، آئے، رکھتی، رکھتے
 * `Pres` (442; 57% of non-empty `Tense`): ہے، ہیں، ہےں، ہوں، ہو، کرےں
-* `EMPTY` (11916): کیا، کہا، کر، کرنے، کی، ہو، دیا، کرتے، دی، بتایا
+* `EMPTY` (11914): کیا، کہا، کر، کرنے، کی، ہو، دیا، کرتے، دی، بتایا
 
 <table>
   <tr><th>Paradigm <i>ہونا</i></th><th><tt>Pres</tt></th><th><tt>Fut</tt></th></tr>
@@ -113,5 +113,5 @@ The most frequent other feature values with which `PROPN` and `Tense` co-occurre
 `PROPN` tokens may have the following values of `Tense`:
 
 * `Pres` (1; 100% of non-empty `Tense`): ہیں
-* `EMPTY` (17134): پی، سی، آئی، ایس، کانگریس، بی، ہندوستان، ریڈی، اے، سنگھ
+* `EMPTY` (17130): پی، سی، آئی، ایس، کانگریس، بی، ہندوستان، ریڈی، اے، سنگھ
 

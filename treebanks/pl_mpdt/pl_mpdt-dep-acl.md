@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `acl`: <tt><a href="pl_mpdt-dep-acl-relcl.html">acl:relcl</a></tt>.
 
-476 nodes (1%) are attached to their parents as `acl`.
+594 nodes (1%) are attached to their parents as `acl`.
 
-336 instances of `acl` (71%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.22058823529412.
+420 instances of `acl` (71%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.24747474747475.
 
-The following 7 pairs of parts of speech are connected with `acl`: <tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_mpdt-pos-ADJ.html">ADJ</a></tt> (421; 88% instances), <tt><a href="pl_mpdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pl_mpdt-pos-ADJ.html">ADJ</a></tt> (29; 6% instances), <tt><a href="pl_mpdt-pos-PRON.html">PRON</a></tt>-<tt><a href="pl_mpdt-pos-ADJ.html">ADJ</a></tt> (8; 2% instances), <tt><a href="pl_mpdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_mpdt-pos-ADJ.html">ADJ</a></tt> (7; 1% instances), <tt><a href="pl_mpdt-pos-DET.html">DET</a></tt>-<tt><a href="pl_mpdt-pos-ADJ.html">ADJ</a></tt> (5; 1% instances), <tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_mpdt-pos-VERB.html">VERB</a></tt> (3; 1% instances), <tt><a href="pl_mpdt-pos-NUM.html">NUM</a></tt>-<tt><a href="pl_mpdt-pos-ADJ.html">ADJ</a></tt> (3; 1% instances).
+The following 8 pairs of parts of speech are connected with `acl`: <tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_mpdt-pos-ADJ.html">ADJ</a></tt> (524; 88% instances), <tt><a href="pl_mpdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pl_mpdt-pos-ADJ.html">ADJ</a></tt> (37; 6% instances), <tt><a href="pl_mpdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_mpdt-pos-ADJ.html">ADJ</a></tt> (10; 2% instances), <tt><a href="pl_mpdt-pos-PRON.html">PRON</a></tt>-<tt><a href="pl_mpdt-pos-ADJ.html">ADJ</a></tt> (8; 1% instances), <tt><a href="pl_mpdt-pos-DET.html">DET</a></tt>-<tt><a href="pl_mpdt-pos-ADJ.html">ADJ</a></tt> (6; 1% instances), <tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_mpdt-pos-VERB.html">VERB</a></tt> (4; 1% instances), <tt><a href="pl_mpdt-pos-NUM.html">NUM</a></tt>-<tt><a href="pl_mpdt-pos-ADJ.html">ADJ</a></tt> (4; 1% instances), <tt><a href="pl_mpdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pl_mpdt-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -61,28 +61,23 @@ The following 7 pairs of parts of speech are connected with `acl`: <tt><a href="
 
 
 ~~~ conllu
-# visual-style 14	bgColor:blue
-# visual-style 14	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 14 acl	color:blue
-1	powiedział	powiedzieć	VERB	praet:sg:m:perf	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	Translit=powiedźiał
-2	jej	on	PRON	ppron3:sg:dat:f:ter:neut:npraep	Case=Dat|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs|Variant=Short	1	iobj	1:iobj	Translit=iey
-3	on	on	PRON	ppron3:sg:nom:m:ter:neut:npraep	Case=Nom|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs|Variant=Short	1	nsubj	1:nsubj	SpaceAfter=No|Translit=on
-4	,	,	PUNCT	interp	PunctType=Comm	7	punct	7:punct	Translit=,
-5	że	że	SCONJ	comp	_	7	mark	7:mark	Translit=że
-6	ją	on	PRON	ppron3:sg:acc:f:ter:neut:npraep	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs|Variant=Short	7	obj	7:obj	Translit=ią
-7	przywiózł	przywieźć	VERB	praet:sg:m:perf	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	1	ccomp:obj	1:ccomp:obj	Translit=przywiozł
-8	z	z	ADP	prep:gen:nwok	AdpType=Prep|Variant=Short	9	case	9:case	Case=Gen|Translit=z
-9	Węgier	Węgry	PROPN	subst:pl:gen:n:pt	Case=Gen|Gender=Neut|Number=Ptan	7	obl	7:obl	Translit=Węgier
-10	z	z	ADP	prep:inst:nwok	AdpType=Prep|Variant=Short	11	case	11:case	Case=Ins|Translit=z
-11	podwodą	podwoda	NOUN	subst:sg:inst:f	Case=Ins|Gender=Fem|Number=Sing	7	obl	7:obl	Translit=podwodą
-12	Grafa	graf	NOUN	subst:sg:gen:m	Case=Gen|Gender=Masc|Number=Sing	11	nmod	11:nmod	SpaceAfter=No|Translit=Graffa
-13	,	,	PUNCT	interp	PunctType=Comm	14	punct	14:punct	Translit=,
-14	przebraną	przebrać	ADJ	ppas:sg:acc:f:perf:aff:pos	Aspect=Perf|Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass	6	acl	6:acl	Translit=przebráną
-15	po	po	ADP	prep:dat	AdpType=Prep	16	case	16:case	Case=Dat|Translit=po
-16	Kawalersku	kawalerski	ADJ	adjb:sg:dat:n:pos	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	14	obl	14:obl	SpaceAfter=No|Translit=Káwálersku
-17	.	.	PUNCT	interp	PunctType=Peri	1	punct	1:punct	Translit=.
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 11 acl	color:blue
+1	Toskański	toskański	ADJ	adj:sg:nom:m:pos	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	nsubj	3:nsubj	Translit=Toskański
+2	jest	być	AUX	fin:sg:ter:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	3:cop	Translit=iest
+3	najprostszy	prosty	ADJ	adj:sg:nom:m:sup	Case=Nom|Degree=Sup|Gender=Masc|Number=Sing	0	root	0:root	Translit=nayprostszy
+4	siedm	siedm	NUM	num:pl:acc:f	Case=Acc|Gender=Fem|Number=Plur|NumForm=Word	5	nummod:gov	5:nummod:gov	Translit=siedm
+5	śrzednic	śrzednica	NOUN	subst:pl:gen:f	Case=Gen|Gender=Fem|Number=Plur	11	iobj	11:iobj	Translit=śrzednic
+6	grubości	grubość	NOUN	subst:sg:gen:f	Case=Gen|Gender=Fem|Number=Sing	5	nmod:arg	5:nmod:arg	Translit=grubości
+7	swego	swój	DET	adj:sg:gen:m:pos	Case=Gen|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	8	det:poss	8:det:poss	Translit=swego
+8	słupa	słup	NOUN	subst:sg:gen:m	Case=Gen|Gender=Masc|Number=Sing	6	nmod	6:nmod	Translit=słupa
+9	na	na	ADP	prep:acc	AdpType=Prep	10	case	10:case	Case=Acc|Translit=na
+10	wysokość	wysokość	NOUN	subst:sg:acc:f	Case=Acc|Gender=Fem|Number=Sing	11	obl	11:obl	Translit=wysokość
+11	mający	mieć	ADJ	pact:sg:nom:m:imperf:aff:pos	Aspect=Imp|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Act	1	acl	1:acl	SpaceAfter=No|Translit=maiący
+12	.	.	PUNCT	interp	PunctType=Peri	3	punct	3:punct	Translit=.
 
 ~~~
 

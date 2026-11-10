@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="pl_mpdt-dep-obl.html">obl</a></tt>.
 There are also 2 other language-specific subtypes of `obl`: <tt><a href="pl_mpdt-dep-obl-arg.html">obl:arg</a></tt>, <tt><a href="pl_mpdt-dep-obl-cmp.html">obl:cmp</a></tt>.
 
-91 nodes (0%) are attached to their parents as `obl:agent`.
+80 nodes (0%) are attached to their parents as `obl:agent`.
 
-47 instances of `obl:agent` (52%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.98901098901099.
+47 instances of `obl:agent` (59%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.3625.
 
-The following 11 pairs of parts of speech are connected with `obl:agent`: <tt><a href="pl_mpdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt> (34; 37% instances), <tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt> (18; 20% instances), <tt><a href="pl_mpdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_mpdt-pos-PROPN.html">PROPN</a></tt> (14; 15% instances), <tt><a href="pl_mpdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_mpdt-pos-PRON.html">PRON</a></tt> (7; 8% instances), <tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_mpdt-pos-PRON.html">PRON</a></tt> (7; 8% instances), <tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_mpdt-pos-PROPN.html">PROPN</a></tt> (5; 5% instances), <tt><a href="pl_mpdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_mpdt-pos-ADJ.html">ADJ</a></tt> (2; 2% instances), <tt><a href="pl_mpdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_mpdt-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="pl_mpdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_mpdt-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_mpdt-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="pl_mpdt-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
+The following 11 pairs of parts of speech are connected with `obl:agent`: <tt><a href="pl_mpdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt> (45; 56% instances), <tt><a href="pl_mpdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_mpdt-pos-PROPN.html">PROPN</a></tt> (16; 20% instances), <tt><a href="pl_mpdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_mpdt-pos-PRON.html">PRON</a></tt> (8; 10% instances), <tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt> (3; 4% instances), <tt><a href="pl_mpdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_mpdt-pos-ADJ.html">ADJ</a></tt> (2; 3% instances), <tt><a href="pl_mpdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_mpdt-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="pl_mpdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_mpdt-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="pl_mpdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_mpdt-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_mpdt-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_mpdt-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="pl_mpdt-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -41,27 +41,6 @@ The following 11 pairs of parts of speech are connected with `obl:agent`: <tt><a
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 6 obl:agent	color:blue
-1	Uważano	uważać	VERB	imps:imperf	Aspect=Imp|Mood=Ind|Person=0|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	Translit=Uważano
-2	przy	przy	ADP	prep:loc	AdpType=Prep	3	case	3:case	Case=Loc|SpaceAfter=No|Translit=przy
-3	tym	to	PRON	subst:sg:loc:n	Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	1	obl	1:obl	Translit=tym
-4	ruszanie	ruszać	NOUN	ger:sg:acc:n:imperf:aff	Aspect=Imp|Case=Acc|Gender=Neut|Number=Sing|Polarity=Pos|VerbForm=Vnoun	1	obj	1:obj	Translit=ruszanie
-5	się	się	PRON	part	PronType=Prs|Reflex=Yes	4	expl:pv	4:expl:pv	Translit=się
-6	wody	woda	NOUN	subst:sg:gen:f	Case=Gen|Gender=Fem|Number=Sing	4	obl:agent	4:obl:agent	SpaceAfter=No|Translit=wody
-7	,	,	PUNCT	interp	PunctType=Comm	8	punct	8:punct	Translit=,
-8	bąbele	bąbel	NOUN	subst:pl:acc:m	Case=Acc|Gender=Masc|Number=Plur	4	conj	1:obj|4:conj	SpaceAfter=No|Translit=bąbele
-9	,	,	PUNCT	interp	PunctType=Comm	10	punct	10:punct	Translit=,
-10	kolor	kolor	NOUN	subst:sg:acc:m	Case=Acc|Gender=Masc|Number=Sing	4	conj	1:obj|4:conj	SpaceAfter=No|Translit=kolor
-11	.	.	PUNCT	interp	PunctType=Peri	1	punct	1:punct	Translit=.
-
-~~~
-
-
-~~~ conllu
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 11	bgColor:blue
@@ -79,6 +58,29 @@ The following 11 pairs of parts of speech are connected with `obl:agent`: <tt><a
 10	Melchisedecha	Melchisedech	PROPN	subst:sg:gen:m	Case=Gen|Gender=Masc|Number=Sing	11	obl:agent	11:obl:agent	Translit=Melchisedecha
 11	założoną	założyć	ADJ	ppas:sg:acc:f:perf:aff:pos	Aspect=Perf|Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass	7	conj	3:acl|7:conj	SpaceAfter=No|Translit=założoną
 12	.	.	PUNCT	interp	PunctType=Peri	3	punct	3:punct	Translit=.
+
+~~~
+
+
+~~~ conllu
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 7 obl:agent	color:blue
+1	Prawdziwy	prawdziwy	ADJ	adj:sg:nom:m:pos	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	2:amod	Translit=Prawdziwy
+2	Bóg	Bóg	PROPN	subst:sg:nom:m	Case=Nom|Gender=Masc|Number=Sing	9	nsubj:pass	9:nsubj:pass	Translit=Bog
+3	czy	czy	PART	part	PartType=Int	9	advmod	9:advmod	Translit=czy
+4	nie	nie	PART	part	Polarity=Neg	5	advmod:neg	5:advmod:neg	Translit=nie
+5	był	być	AUX	praet:sg:m:imperf	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	9	aux:pass	9:aux:pass	Translit=był
+6	od	od	ADP	prep:gen:nwok	AdpType=Prep|Variant=Short	7	case	7:case	Case=Gen|Translit=od
+7	kogo	kto	PRON	subst:sg:gen:m	Case=Gen|Gender=Masc|Number=Sing|PronType=Int	9	obl:agent	9:obl:agent	Translit=kogo
+8	innego	inny	ADJ	adj:sg:gen:m:pos	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	7	amod	7:amod	Translit=innego
+9	Znany	znać	ADJ	ppas:sg:nom:m:imperf:aff:pos	Aspect=Imp|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass	0	root	0:root	Translit=Znany
+10	tylko	tylko	SCONJ	comp	_	12	mark	12:mark	Translit=tylko
+11	od	od	ADP	prep:gen:nwok	AdpType=Prep|Variant=Short	12	case	12:case	Case=Gen|Translit=od
+12	Izraelitów	Izraelita	PROPN	subst:pl:gen:m	Case=Gen|Gender=Masc|Number=Plur	8	obl:cmp	8:obl:cmp	SpaceAfter=No|Translit=Israelitow
+13	?	?	PUNCT	interp	PunctType=Qest	9	punct	9:punct	Translit=?
 
 ~~~
 

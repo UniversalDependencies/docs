@@ -33,7 +33,7 @@ The 10 most frequent ambiguous types:  <em>soli</em> (<tt><a href="sab_chibergis
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 1.068966 (the average of all parts of speech is 1.193029).
+The form / lemma ratio of `ADJ` is 1.068966 (the average of all parts of speech is 1.199461).
 
 The 1st highest number of forms (2) was observed with the lemma “kweri”: <em>kweri, kweria</em>.
 

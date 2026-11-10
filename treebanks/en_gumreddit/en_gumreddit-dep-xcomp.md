@@ -65,7 +65,7 @@ The following 12 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 15	_	_	SCONJ	IN	_	18	mark	18:mark	Discourse=causal-result:58->56:1:_|Lem=_|Len=4
 16	_	_	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	18	nsubj	18:nsubj|19:nsubj:xsubj	Entity=(65-object-giv:act-nnnnn-cf1-1-ana)|Lem=_|Len=2
 17	_	_	ADV	RB	_	18	advmod	18:advmod	Lem=_|Len=4
-18	_	_	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	advcl	2:advcl:that	Lem=become|Len=6
+18	_	_	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	advcl	2:advcl:that	Lem=become|Len=6|MSeg=be-came
 19	_	_	ADJ	JJ	Degree=Pos	18	xcomp	18:xcomp	Lem=_|Len=9|MSeg=worth-less|SpaceAfter=No
 20	_	_	PUNCT	.	_	2	punct	2:punct	Lem=_|Len=1
 
@@ -105,10 +105,10 @@ The following 12 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 25	_	_	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	28	cop	28:cop	Lem=be|Len=2
 26	_	_	DET	DT	Definite=Ind|PronType=Art	27	det	27:det	Lem=_|Len=1
 27	_	_	NOUN	NN	Number=Sing	28	obl:unmarked	28:obl:unmarked	Lem=_|Len=3
-28	_	_	ADJ	JJR	Degree=Cmp	15	conj	15:conj:and	Lem=easy|Len=6|MSeg=easi-er
+28	_	_	ADJ	JJR	Degree=Cmp	15	conj	15:conj:and	Lem=easy|Len=6|MSeg=eas-i-er
 29	_	_	PART	TO	_	30	mark	30:mark	Lem=_|Len=2
 30	_	_	VERB	VB	VerbForm=Inf	28	xcomp	28:xcomp	Lem=_|Len=4
-31	_	_	ADV	RB	Degree=Pos	28	advmod	28:advmod	Entity=139)|Lem=_|Len=3|SpaceAfter=No
+31	_	_	ADV	RB	_	28	advmod	28:advmod	Entity=139)|Lem=_|Len=3|SpaceAfter=No
 32	_	_	PUNCT	.	_	15	punct	15:punct	Lem=_|Len=1
 
 ~~~

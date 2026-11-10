@@ -17,42 +17,46 @@ The following 55 pairs of parts of speech are connected with `acl`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 7 acl	color:blue
-1	Tur	tur	ADV	r0n	PronType=Dem	2	advmod	2:advmod	LvtbNodeId=a-d1293-p3s2w1
-2	nometas	nomesties	VERB	vmyipi130an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Reflex=Yes|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-d1293-p3s2w2
-3	estēti	estēts	NOUN	ncmpn1	Case=Nom|Gender=Masc|Number=Plur	4	nmod	4:nmod	LvtbNodeId=a-d1293-p3s2w3
-4	baloži	balodis	NOUN	ncmpn2	Case=Nom|Gender=Masc|Number=Plur	2	nsubj	2:nsubj	LvtbNodeId=a-d1293-p3s2w4|SpaceAfter=No
-5	,	,	PUNCT	zc	_	7	punct	7:punct	LvtbNodeId=a-d1293-p3s2w5
-6	kas	kas	PRON	pr000nn	Case=Nom|PronType=Rel	7	nsubj	7:nsubj	LvtbNodeId=a-d1293-p3s2w6
-7	dievina	dievināt	VERB	vmnipt330an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	4	acl	4:acl	LvtbNodeId=a-d1293-p3s2w7
-8	jūgendstilu	jūgendstils	NOUN	ncmsa1	Case=Acc|Gender=Masc|Number=Sing	7	obj	7:obj	LvtbNodeId=a-d1293-p3s2w8|SpaceAfter=No
-9	.	.	PUNCT	zs	_	2	punct	2:punct	LvtbNodeId=a-d1293-p3s2w9
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 11 acl	color:blue
+1	Tikai	tikai	PART	q	_	3	discourse	3:discourse|8:discourse	LvtbNodeId=a-d62-p34s7w1
+2	mežs	mežs	NOUN	ncmsn1	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	3:nsubj|8:nsubj	LvtbNodeId=a-d62-p34s7w2
+3	slēpa	slēpt	VERB	vmnist130an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-d62-p34s7w3
+4	ceļu	ceļš	NOUN	ncmsa1	Case=Acc|Gender=Masc|Number=Sing	3	obj	3:obj	LvtbNodeId=a-d62-p34s7w4
+5	pie	pie	ADP	spsg	_	6	case	6:case	LvtbNodeId=a-d62-p34s7w5
+6	viņas	viņa	PRON	pp3fsgn	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nmod	4:nmod:pie	LvtbNodeId=a-d62-p34s7w6|SpaceAfter=No
+7	,	,	PUNCT	zc	_	8	punct	8:punct	LvtbNodeId=a-d62-p34s7w7
+8	apsedza	apsegt	VERB	vmnist130an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	3:conj	LvtbNodeId=a-d62-p34s7w8
+9	pēdas	pēda	NOUN	ncfpa4	Case=Acc|Gender=Fem|Number=Plur	8	obj	8:obj	LvtbNodeId=a-d62-p34s7w9|SpaceAfter=No
+10	,	,	PUNCT	zc	_	11	punct	11:punct	LvtbNodeId=a-d62-p34s7w10
+11	nesameklējamas	sameklēt	VERB	vmnpdfpappnpy	Case=Acc|Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Neg|Tense=Pres|VerbForm=Part|Voice=Pass	9	acl	9:acl	LvtbNodeId=a-d62-p34s7w11|SpaceAfter=No
+12	.	.	PUNCT	zs	_	3	punct	3:punct	LvtbNodeId=a-d62-p34s7w12
 
 ~~~
 
 
 ~~~ conllu
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 6 acl	color:blue
-1	Tas	tas	DET	pd3msnn	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Dem	11	nsubj	11:nsubj	LvtbNodeId=a-d178-p577s11w1|SpaceAfter=No
-2	,	,	PUNCT	zc	_	6	punct	6:punct	LvtbNodeId=a-d178-p577s11w2
-3	ko	kas	PRON	pr000an	Case=Acc|PronType=Rel	7	obj	7:obj	LvtbNodeId=a-d178-p577s11w3
-4	jūs	jūs	PRON	pp20pnn	Case=Nom|Number=Plur|Person=2|PronType=Prs	6	nsubj	6:nsubj|7:nsubj	LvtbNodeId=a-d178-p577s11w4
-5	man	es	PRON	pp10sdn	Case=Dat|Number=Sing|Person=1|PronType=Prs	7	iobj	7:iobj	LvtbNodeId=a-d178-p577s11w5
-6	varat	varēt	VERB	vonipi32pan	Evident=Fh|Mood=Ind|Number=Plur|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	1	acl	1:acl	LvtbNodeId=a-d178-p577s11w6
-7	dot	dot	VERB	vmnn0ti000n	Polarity=Pos|VerbForm=Inf	6	xcomp	6:xcomp	LvtbNodeId=a-d178-p577s11w7|SpaceAfter=No
-8	,	,	PUNCT	zc	_	6	punct	6:punct	LvtbNodeId=a-d178-p577s11w8
-9	ir	būt	AUX	vcnipii30an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	11	cop	11:cop	LvtbNodeId=a-d178-p577s11w9
-10	tikpat	tikpat	ADV	r0n	_	11	advmod	11:advmod	LvtbNodeId=a-d178-p577s11w10
-11	neaizstājams	aizstāt	VERB	vmnpdmsnppnpy	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Neg|Tense=Pres|VerbForm=Part|Voice=Pass	0	root	0:root	LvtbNodeId=a-d178-p577s11w11|SpaceAfter=No
-12	.	.	PUNCT	zs	_	11	punct	11:punct	LvtbNodeId=a-d178-p577s11w12
+# visual-style 6 9 acl	color:blue
+1	Jo	jo	SCONJ	cs	_	3	mark	3:mark	LvtbNodeId=a-p14185-p3s7w1
+2	mēs	mēs	PRON	pp10pnn	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	3:nsubj	LvtbNodeId=a-p14185-p3s7w2
+3	salīdzinām	salīdzināt	VERB	vmnipt31pan	Evident=Fh|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-p14185-p3s7w3
+4	sevi	sevis	PRON	px000an	Case=Acc|PronType=Prs|Reflex=Yes	3	obj	3:obj	LvtbNodeId=a-p14185-p3s7w4
+5	ar	ar	ADP	sppd	_	6	case	6:case	LvtbNodeId=a-p14185-p3s7w5
+6	tiem	tas	DET	pd3mpdn	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Dem	3	iobj	3:iobj	LvtbNodeId=a-p14185-p3s7w6|SpaceAfter=No
+7	,	,	PUNCT	zc	_	9	punct	9:punct	LvtbNodeId=a-p14185-p3s7w7
+8	kuri	kurš	DET	pr0mpnn	Case=Nom|Gender=Masc|Number=Plur|PronType=Rel	9	nsubj	9:nsubj	LvtbNodeId=a-p14185-p3s7w8
+9	rāda	rādīt	VERB	vmnipt330an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	6	acl	6:acl	LvtbNodeId=a-p14185-p3s7w9
+10	sevi	sevis	PRON	px000an	Case=Acc|PronType=Prs|Reflex=Yes	9	obj	9:obj	LvtbNodeId=a-p14185-p3s7w10
+11	laimīgus	laimīgs	ADJ	afmpanp	Case=Acc|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	9	dep	9:dep	LvtbNodeId=a-p14185-p3s7w11
+12	esam	būt	AUX	vcnpu0000000n	Polarity=Pos|VerbForm=Conv	11	cop	11:cop	LvtbNodeId=a-p14185-p3s7w12|SpaceAfter=No
+13	.	.	PUNCT	zs	_	3	punct	3:punct	LvtbNodeId=a-p14185-p3s7w13
 
 ~~~
 

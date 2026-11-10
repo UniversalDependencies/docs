@@ -27,7 +27,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 * `1` (9732; 65% of non-empty `Person`): <em>ego, me, nos, mihi, nobis, nus, novis, memetipsum, nosmedipsos, egu</em>
 * `2` (2844; 19% of non-empty `Person`): <em>tibi, vobis, tu, te, vos, tivi, vovis, temetipsum</em>
 * `3` (2436; 16% of non-empty `Person`): <em>eius, id, eas, eam, eorum, se, eos, eo, ei, ea</em>
-* `EMPTY` (3267): <em>qui, quas, que, quod, cui, quam, quo, quem, aliquo, quibus</em>
+* `EMPTY` (3266): <em>qui, quas, que, quod, cui, quam, quo, quem, aliquo, quibus</em>
 
 ### `VERB`
 

@@ -52,7 +52,7 @@ The following 4 pairs of parts of speech are connected with `case`: <tt><a href=
 7	di	de	ADP	_	AdpType=Prep|Definite=Ind	8	case	_	SpaceAfter=No
 8	chorp	corp	NOUN	_	Case=Dat|Number=Sing	4	obl	_	_
 9	act	acht	SCONJ	_	_	11	mark	_	_
-10	a	at	PART	_	PartType=Vb	11	compound:prt	_	SpaceAfter=No
+10	a	ad	PART	_	PartType=Vb	11	compound:prt	_	SpaceAfter=No
 11	tá	attá	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	4	advcl	_	_
 12	de	de	ADP	_	AdpType=Prep|Definite=Ind|Number=Sing|Person=3|PronType=Prs	11	obl:prep	_	_
 

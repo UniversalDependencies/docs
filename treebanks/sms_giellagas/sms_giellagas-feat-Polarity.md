@@ -16,14 +16,14 @@ The feature is used with 4 part-of-speech tags: <tt><a href="sms_giellagas-pos-A
 
 ### `AUX`
 
-54 <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> tokens (32% of all `AUX` tokens) have a non-empty value of `Polarity`.
+54 <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> tokens (31% of all `AUX` tokens) have a non-empty value of `Polarity`.
 
 The most frequent other feature values with which `AUX` and `Polarity` co-occurred: <tt><a href="sms_giellagas-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (50; 93%), <tt><a href="sms_giellagas-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (50; 93%), <tt><a href="sms_giellagas-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (49; 91%), <tt><a href="sms_giellagas-feat-Number.html">Number</a></tt><tt>=Sing</tt> (45; 83%).
 
 `AUX` tokens may have the following values of `Polarity`:
 
 * `Neg` (54; 100% of non-empty `Polarity`): <em>ij, jiõk, jiõm, i-ǥõl, jeäʹp, iʹlla, iʹlleäk, jiâ, Ij-ǥo, Jeäʹled</em>
-* `EMPTY` (116): <em>lij, leäi, õõk, liâ, õõlǥ, leäk, leäkku, leäm, leeʹd, leʹjje</em>
+* `EMPTY` (120): <em>lij, leäi, õõk, liâ, õõlǥ, leäk, leäkku, leäm, leeʹd, leʹjje</em>
 
 ### `PART`
 
@@ -52,7 +52,7 @@ The most frequent other feature values with which `VERB` and `Polarity` co-occur
 `VERB` tokens may have the following values of `Polarity`:
 
 * `Neg` (2; 100% of non-empty `Polarity`): <em>iʹlla</em>
-* `EMPTY` (674): <em>ceälkk, mõõni, puõʹđi, šõõddi, vaaʹldi, jälste, ǩieʹzzi, leäi, lij, mõõnnâd</em>
+* `EMPTY` (684): <em>ceälkk, mõõni, puõʹđi, šõõddi, vaaʹldi, jälste, ǩieʹzzi, leäi, lij, mõõnnâd</em>
 
 ## Relations with Agreement in `Polarity`
 

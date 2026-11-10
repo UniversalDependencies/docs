@@ -22,7 +22,7 @@ The following 10 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 7 acl:relcl	color:blue
-1	Vyloupena	vyloupený	ADJ	VsQW---XX-AP---	Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+1	Vyloupena	vyloupený	ADJ	VsQW---XX-AP---	Aspect=Perf|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
 2	svatyně	svatyně	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing	1	nsubj:pass	_	SpaceAfter=No
 3	,	,	PUNCT	Z:-------------	_	7	punct	_	_
 4	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	5	case	_	_

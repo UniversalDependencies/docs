@@ -71,7 +71,7 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
 `SCONJ` tokens may have the following values of `PronType`:
 
 * `Int,Rel` (50; 100% of non-empty `PronType`): <em>när, då</em>
-* `EMPTY` (334): <em>att, som, än, om, medan, eftersom, innan, fastän, huruvida, då</em>
+* `EMPTY` (333): <em>att, som, än, om, medan, eftersom, innan, fastän, huruvida, då</em>
 
 ### `ADV`
 

@@ -7,6 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Egyptian-PC: Relations: `expl:pv`
 
 This relation is a language-specific subtype of <tt><a href="egy_pc-dep-expl.html">expl</a></tt>.
+There are also 1 other language-specific subtypes of `expl`: <tt><a href="egy_pc-dep-expl-rel.html">expl:rel</a></tt>.
 
 28 nodes (0%) are attached to their parents as `expl:pv`.
 
@@ -22,9 +23,9 @@ The following 1 pairs of parts of speech are connected with `expl:pv`: <tt><a hr
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 5 expl:pv	color:blue
-1	č̣(ṭ)	č̣ṭ	VERB	_	Gender=Masc|VerbClass=2lit|VerbForm=Inf	0	root	_	Hiero=𓆓|ID=185810
+1	č̣(ṭ)	č̣ṭ	VERB	_	Gender=Masc|VerbClass=2lit|VerbForm=Inf	0	root	_	Hiero=𓆓|ID=185810|Trans=Yes
 2	mṭw	mṭw	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	Hiero=𓌃|ID=78150
-3	ś:ms.n	ms	VERB	_	Conjug=Suffix|Mood=Ind|SubForm=AbstRel|Tense=Past|VerbClass=Caus2lit|VerbForm=Fin	1	ccomp:speech	_	Hiero=𓋴𓅓𓊃𓈖|ID=135630
+3	ś:ms.n	ms	VERB	_	Conjug=Suffix|Mood=Ind|SubForm=AbstRel|Tense=Past|VerbClass=Caus2lit|VerbForm=Fin	1	ccomp:speech	_	Hiero=𓋴𓅓𓊃𓈖|ID=135630|Trans=Yes
 4	⸗f	f	PRON	_	Gender=Masc|Number=Sing|Person=3|PronClass=Suffix|PronType=Prs	3	nsubj	_	Hiero=𓆑|ID=10050
 5	św	św	PRON	_	Gender=Masc|Number=Sing|Person=3|PronClass=Dep|PronType=Prs|Reflex=Yes	3	expl:pv	_	Hiero=𓇓|ID=129490
 6	(ꞽ)r	r	ADP	_	Case=All|StatPrep=Pron	7	case	_	Hiero=𓂋|ID=91901

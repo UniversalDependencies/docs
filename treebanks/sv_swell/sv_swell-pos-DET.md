@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>en</em> (<tt><a href="sv_swell-pos-DE
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 2.400000 (the average of all parts of speech is 1.401542).
+The form / lemma ratio of `DET` is 2.400000 (the average of all parts of speech is 1.400119).
 
 The 1st highest number of forms (3) was observed with the lemma “all”: <em>all, alla, allt</em>.
 

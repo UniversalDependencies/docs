@@ -329,7 +329,7 @@ The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>VERB --[<tt><a href="tr_gb-dep-obj.html">obj</a></tt>]--> NOUN</tt> (567; 62%),
 <tt>VERB --[<tt><a href="tr_gb-dep-obl.html">obl</a></tt>]--> NOUN</tt> (440; 61%),
 <tt>VERB --[<tt><a href="tr_gb-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (352; 66%),
-<tt>NOUN --[<tt><a href="tr_gb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (345; 65%),
+<tt>NOUN --[<tt><a href="tr_gb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (346; 65%),
 <tt>VERB --[<tt><a href="tr_gb-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (311; 83%),
 <tt>VERB --[<tt><a href="tr_gb-dep-obl-tmod.html">obl:tmod</a></tt>]--> NOUN</tt> (201; 53%),
 <tt>VERB --[<tt><a href="tr_gb-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (190; 53%),

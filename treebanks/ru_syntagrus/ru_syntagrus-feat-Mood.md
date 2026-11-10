@@ -12,19 +12,19 @@ It occurs with 3 different values: `Cnd`, `Imp`, `Ind`.
 125389 tokens (8%) have a non-empty value of `Mood`.
 22694 types (16%) occur at least once with a non-empty value of `Mood`.
 7471 lemmas (14%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 3 part-of-speech tags: <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt> (111265; 7% instances), <tt><a href="ru_syntagrus-pos-AUX.html">AUX</a></tt> (12713; 1% instances), <tt><a href="ru_syntagrus-pos-SCONJ.html">SCONJ</a></tt> (1411; 0% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt> (111264; 7% instances), <tt><a href="ru_syntagrus-pos-AUX.html">AUX</a></tt> (12714; 1% instances), <tt><a href="ru_syntagrus-pos-SCONJ.html">SCONJ</a></tt> (1411; 0% instances).
 
 ### `VERB`
 
-111265 <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt> tokens (63% of all `VERB` tokens) have a non-empty value of `Mood`.
+111264 <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt> tokens (63% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="ru_syntagrus-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (111265; 100%), <tt><a href="ru_syntagrus-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (82060; 74%), <tt><a href="ru_syntagrus-feat-Number.html">Number</a></tt><tt>=Sing</tt> (75580; 68%), <tt><a href="ru_syntagrus-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (70355; 63%), <tt><a href="ru_syntagrus-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (65993; 59%), <tt><a href="ru_syntagrus-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (57868; 52%), <tt><a href="ru_syntagrus-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (57868; 52%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="ru_syntagrus-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (111264; 100%), <tt><a href="ru_syntagrus-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (82059; 74%), <tt><a href="ru_syntagrus-feat-Number.html">Number</a></tt><tt>=Sing</tt> (75580; 68%), <tt><a href="ru_syntagrus-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (70352; 63%), <tt><a href="ru_syntagrus-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (65993; 59%), <tt><a href="ru_syntagrus-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (57870; 52%), <tt><a href="ru_syntagrus-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (57870; 52%).
 
 `VERB` tokens may have the following values of `Mood`:
 
 * `Imp` (1596; 1% of non-empty `Mood`): <em>давайте, см., дай, представьте, давай, извините, иди, будь, смотри, простите</em>
-* `Ind` (109669; 99% of non-empty `Mood`): <em>может, есть, сказал, было, могут, нет, стал, является, говорит, стали</em>
-* `EMPTY` (64877): <em>можно, надо, быть, нельзя, сказать, сделать, делать, нет, говорить, работать</em>
+* `Ind` (109668; 99% of non-empty `Mood`): <em>может, есть, сказал, было, могут, нет, стал, является, говорит, стали</em>
+* `EMPTY` (64879): <em>можно, надо, быть, нельзя, сказать, сделать, делать, нет, говорить, работать</em>
 
 <table>
   <tr><th>Paradigm <i>быть</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th></tr>
@@ -47,15 +47,15 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 
 ### `AUX`
 
-12713 <tt><a href="ru_syntagrus-pos-AUX.html">AUX</a></tt> tokens (92% of all `AUX` tokens) have a non-empty value of `Mood`.
+12714 <tt><a href="ru_syntagrus-pos-AUX.html">AUX</a></tt> tokens (92% of all `AUX` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="ru_syntagrus-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (10663; 84%), <tt><a href="ru_syntagrus-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (10663; 84%), <tt><a href="ru_syntagrus-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (9886; 78%), <tt><a href="ru_syntagrus-feat-Number.html">Number</a></tt><tt>=Sing</tt> (8080; 64%), <tt><a href="ru_syntagrus-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (7836; 62%), <tt><a href="ru_syntagrus-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (6508; 51%).
+The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="ru_syntagrus-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (10664; 84%), <tt><a href="ru_syntagrus-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (10664; 84%), <tt><a href="ru_syntagrus-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (9884; 78%), <tt><a href="ru_syntagrus-feat-Number.html">Number</a></tt><tt>=Sing</tt> (8080; 64%), <tt><a href="ru_syntagrus-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (7834; 62%), <tt><a href="ru_syntagrus-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (6511; 51%).
 
 `AUX` tokens may have the following values of `Mood`:
 
 * `Cnd` (2050; 16% of non-empty `Mood`): <em>бы, б</em>
 * `Imp` (37; 0% of non-empty `Mood`): <em>будь, будьте</em>
-* `Ind` (10626; 84% of non-empty `Mood`): <em>было, был, были, будет, была, будут, есть, будем, буду, будете</em>
+* `Ind` (10627; 84% of non-empty `Mood`): <em>было, был, были, будет, была, будут, есть, будем, буду, будете</em>
 * `EMPTY` (1032): <em>быть, будучи, бывший, бывшие, Быв, бывшем</em>
 
 <table>
@@ -100,5 +100,6 @@ The 10 most frequent relations where parent and child node agree in `Mood`:
 <tt>VERB --[<tt><a href="ru_syntagrus-dep-appos.html">appos</a></tt>]--> VERB</tt> (21; 95%),
 <tt>VERB --[<tt><a href="ru_syntagrus-dep-flat.html">flat</a></tt>]--> VERB</tt> (14; 100%),
 <tt>VERB --[<tt><a href="ru_syntagrus-dep-flat-name.html">flat:name</a></tt>]--> VERB</tt> (4; 100%),
-<tt>AUX --[<tt><a href="ru_syntagrus-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (2; 100%).
+<tt>AUX --[<tt><a href="ru_syntagrus-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (2; 100%),
+<tt>AUX --[<tt><a href="ru_syntagrus-dep-conj.html">conj</a></tt>]--> VERB</tt> (1; 100%).
 

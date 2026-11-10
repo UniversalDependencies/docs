@@ -71,7 +71,7 @@ The following 3 pairs of parts of speech are connected with `fixed`: <tt><a href
 11	laŭ	laŭ	ADP	_	_	14	case	_	_
 12	la	la	DET	_	Definite=Def|PronType=Art	14	det	_	_
 13	neŭtrale-homaj	neŭtrale-homa	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	14	amod	_	_
-14	principoj	principo	NOUN	_	Case=Nom|Number=Plur	9	nmod	_	_
+14	principoj	principo	NOUN	_	Case=Nom|Number=Plur	9	obl	_	_
 15	«	«	PUNCT	_	_	16	punct	_	SpaceAfter=No
 16	homaranaj	homarana	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	14	amod	_	SpaceAfter=No
 17	»	»	PUNCT	_	_	16	punct	_	SpaceAfter=No
@@ -79,7 +79,7 @@ The following 3 pairs of parts of speech are connected with `fixed`: <tt><a href
 19	kiuj	kiu	PRON	_	Case=Nom|Number=Sing|PronType=Rel	20	nsubj	_	_
 20	konsistas	konsisti	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	14	acl:relcl	_	_
 21	en	en	ADP	_	_	22	case	_	_
-22	jeno	jeno	NOUN	_	Case=Nom|Number=Sing	20	nmod	_	SpaceAfter=No
+22	jeno	jeno	NOUN	_	Case=Nom|Number=Sing	20	obl	_	SpaceAfter=No
 23	.	.	PUNCT	_	_	9	punct	_	_
 
 ~~~
@@ -150,7 +150,7 @@ The following 3 pairs of parts of speech are connected with `fixed`: <tt><a href
 57	nek	nek	SCONJ	_	_	58	cc	_	_
 58	fari	fari	VERB	_	VerbForm=Inf	46	conj	_	_
 59	el	el	ADP	_	_	60	case	_	_
-60	ĝi	ĝi	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	58	nmod	_	_
+60	ĝi	ĝi	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	58	obl	_	_
 61	mian	mia	PRON	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	63	nmod:poss	_	_
 62	batalan	batala	ADJ	_	Case=Acc|Degree=Pos|Number=Sing	63	amod	_	_
 63	standardon	standardo	NOUN	_	Case=Acc|Number=Sing	58	obj	_	SpaceAfter=No

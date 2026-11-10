@@ -85,14 +85,14 @@ The most frequent other feature values with which `ADJ` and `VerbForm` co-occurr
 ## Relations with Agreement in `VerbForm`
 
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
-<tt>VERB --[<tt><a href="es_coser-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (145; 69%),
+<tt>VERB --[<tt><a href="es_coser-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (145; 70%),
 <tt>VERB --[<tt><a href="es_coser-dep-conj.html">conj</a></tt>]--> VERB</tt> (117; 75%),
-<tt>VERB --[<tt><a href="es_coser-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (31; 86%),
+<tt>VERB --[<tt><a href="es_coser-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (30; 86%),
 <tt>VERB --[<tt><a href="es_coser-dep-reparandum.html">reparandum</a></tt>]--> VERB</tt> (14; 100%),
 <tt>AUX --[<tt><a href="es_coser-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (12; 80%),
-<tt>VERB --[<tt><a href="es_coser-dep-advcl.html">advcl</a></tt>]--> AUX</tt> (8; 80%),
 <tt>AUX --[<tt><a href="es_coser-dep-reparandum.html">reparandum</a></tt>]--> AUX</tt> (7; 100%),
+<tt>VERB --[<tt><a href="es_coser-dep-advcl.html">advcl</a></tt>]--> AUX</tt> (7; 78%),
 <tt>VERB --[<tt><a href="es_coser-dep-conj.html">conj</a></tt>]--> AUX</tt> (5; 63%),
-<tt>VERB --[<tt><a href="es_coser-dep-obl.html">obl</a></tt>]--> VERB</tt> (5; 63%),
+<tt>VERB --[<tt><a href="es_coser-dep-obl.html">obl</a></tt>]--> VERB</tt> (5; 71%),
 <tt>AUX --[<tt><a href="es_coser-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (3; 100%).
 

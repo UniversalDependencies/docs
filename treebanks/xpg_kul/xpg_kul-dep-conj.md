@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-81 nodes (4%) are attached to their parents as `conj`.
+83 nodes (4%) are attached to their parents as `conj`.
 
-81 instances of `conj` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.96296296296296.
+83 instances of `conj` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.90361445783133.
 
-The following 14 pairs of parts of speech are connected with `conj`: <tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt> (41; 51% instances), <tt><a href="xpg_kul-pos-VERB.html">VERB</a></tt>-<tt><a href="xpg_kul-pos-VERB.html">VERB</a></tt> (14; 17% instances), <tt><a href="xpg_kul-pos-VERB.html">VERB</a></tt>-<tt><a href="xpg_kul-pos-ADJ.html">ADJ</a></tt> (5; 6% instances), <tt><a href="xpg_kul-pos-PROPN.html">PROPN</a></tt>-<tt><a href="xpg_kul-pos-PROPN.html">PROPN</a></tt> (4; 5% instances), <tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xpg_kul-pos-PROPN.html">PROPN</a></tt> (3; 4% instances), <tt><a href="xpg_kul-pos-VERB.html">VERB</a></tt>-<tt><a href="xpg_kul-pos-AUX.html">AUX</a></tt> (3; 4% instances), <tt><a href="xpg_kul-pos-AUX.html">AUX</a></tt>-<tt><a href="xpg_kul-pos-VERB.html">VERB</a></tt> (2; 2% instances), <tt><a href="xpg_kul-pos-PROPN.html">PROPN</a></tt>-<tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="xpg_kul-pos-VERB.html">VERB</a></tt>-<tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="xpg_kul-pos-ADJ.html">ADJ</a></tt>-<tt><a href="xpg_kul-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xpg_kul-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xpg_kul-pos-SYM.html">SYM</a></tt> (1; 1% instances), <tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xpg_kul-pos-X.html">X</a></tt> (1; 1% instances), <tt><a href="xpg_kul-pos-PRON.html">PRON</a></tt>-<tt><a href="xpg_kul-pos-PRON.html">PRON</a></tt> (1; 1% instances).
+The following 14 pairs of parts of speech are connected with `conj`: <tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt> (41; 49% instances), <tt><a href="xpg_kul-pos-VERB.html">VERB</a></tt>-<tt><a href="xpg_kul-pos-VERB.html">VERB</a></tt> (14; 17% instances), <tt><a href="xpg_kul-pos-PROPN.html">PROPN</a></tt>-<tt><a href="xpg_kul-pos-PROPN.html">PROPN</a></tt> (6; 7% instances), <tt><a href="xpg_kul-pos-VERB.html">VERB</a></tt>-<tt><a href="xpg_kul-pos-ADJ.html">ADJ</a></tt> (5; 6% instances), <tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xpg_kul-pos-PROPN.html">PROPN</a></tt> (3; 4% instances), <tt><a href="xpg_kul-pos-VERB.html">VERB</a></tt>-<tt><a href="xpg_kul-pos-AUX.html">AUX</a></tt> (3; 4% instances), <tt><a href="xpg_kul-pos-AUX.html">AUX</a></tt>-<tt><a href="xpg_kul-pos-VERB.html">VERB</a></tt> (2; 2% instances), <tt><a href="xpg_kul-pos-PROPN.html">PROPN</a></tt>-<tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="xpg_kul-pos-VERB.html">VERB</a></tt>-<tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="xpg_kul-pos-ADJ.html">ADJ</a></tt>-<tt><a href="xpg_kul-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xpg_kul-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xpg_kul-pos-SYM.html">SYM</a></tt> (1; 1% instances), <tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xpg_kul-pos-X.html">X</a></tt> (1; 1% instances), <tt><a href="xpg_kul-pos-PRON.html">PRON</a></tt>-<tt><a href="xpg_kul-pos-PRON.html">PRON</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -65,11 +65,9 @@ The following 14 pairs of parts of speech are connected with `conj`: <tt><a href
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 conj	color:blue
-1	ε[..]γ̣εντ̣ουμενος	ε[..]γ̣εντ̣ουμενος	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	0	root	_	Ref=TM867450-2-1
-2	νιοισιος	νιοισιος	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	1	conj	_	Ref=TM867450-2-2
-3	ναδροτος	ναδροτος	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	1	conj	_	Ref=TM867450-2-3
-4	ειτου	ituv	AUX	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	_	SpaceAfter=No|Ref=TM867450-2-4
-5	.	.	PUNCT	_	_	1	punct	_	Ref=TM867450-2-5
+1	sitoros	sitoros	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	Ref=TM984478-1-1
+2	aros	aros	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	1	conj	_	Ref=TM984478-1-2
+3	ispas	ispas	PROPN	_	Case=Nom|Number=Sing	1	conj	_	Ref=TM984478-1-3
 
 ~~~
 

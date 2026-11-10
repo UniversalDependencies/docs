@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 4 different values: `Abs`, `Cmp`, `Pos`, `Sup`.
 
-3821 tokens (4%) have a non-empty value of `Degree`.
+3819 tokens (3%) have a non-empty value of `Degree`.
 1286 types (9%) occur at least once with a non-empty value of `Degree`.
 603 lemmas (8%) occur at least once with a non-empty value of `Degree`.
-The feature is used with 3 part-of-speech tags: <tt><a href="uk_parlamint-pos-ADJ.html">ADJ</a></tt> (2627; 2% instances), <tt><a href="uk_parlamint-pos-ADV.html">ADV</a></tt> (1193; 1% instances), <tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="uk_parlamint-pos-ADJ.html">ADJ</a></tt> (2627; 2% instances), <tt><a href="uk_parlamint-pos-ADV.html">ADV</a></tt> (1191; 1% instances), <tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 ### `ADJ`
 
@@ -43,17 +43,17 @@ The feature is used with 3 part-of-speech tags: <tt><a href="uk_parlamint-pos-AD
 
 ### `ADV`
 
-1193 <tt><a href="uk_parlamint-pos-ADV.html">ADV</a></tt> tokens (22% of all `ADV` tokens) have a non-empty value of `Degree`.
+1191 <tt><a href="uk_parlamint-pos-ADV.html">ADV</a></tt> tokens (21% of all `ADV` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `ADV` and `Degree` co-occurred: <tt><a href="uk_parlamint-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (1193; 100%).
+The most frequent other feature values with which `ADV` and `Degree` co-occurred: <tt><a href="uk_parlamint-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (1191; 100%).
 
 `ADV` tokens may have the following values of `Degree`:
 
 * `Abs` (3; 0% of non-empty `Degree`): <em>якнайшвидше, щонайбільше</em>
 * `Cmp` (199; 17% of non-empty `Degree`): <em>більше, далі, краще, більш, менше, раніше, пізніше, точніше, швидше, вище</em>
-* `Pos` (970; 81% of non-empty `Degree`): <em>дуже, потрібно, необхідно, практично, добре, чітко, важливо, звичайно, багато, зрозуміло</em>
+* `Pos` (968; 81% of non-empty `Degree`): <em>дуже, потрібно, необхідно, практично, добре, чітко, важливо, звичайно, зрозуміло, терміново</em>
 * `Sup` (21; 2% of non-empty `Degree`): <em>найбільш, найбільше, найчастіше, найкраще, найперше, найменш</em>
-* `EMPTY` (4350): <em>сьогодні, тому, зараз, ще, так, треба, вже, також, тут, тоді</em>
+* `EMPTY` (4351): <em>сьогодні, тому, зараз, ще, так, треба, вже, також, тут, тоді</em>
 
 `Degree` seems to be **lexical feature** of `ADV`. 100% lemmas (195) occur only with one value of `Degree`.
 
@@ -71,7 +71,7 @@ The most frequent other feature values with which `NOUN` and `Degree` co-occurre
 ## Relations with Agreement in `Degree`
 
 The 10 most frequent relations where parent and child node agree in `Degree`:
-<tt>ADV --[<tt><a href="uk_parlamint-dep-conj.html">conj</a></tt>]--> ADV</tt> (25; 57%),
+<tt>ADV --[<tt><a href="uk_parlamint-dep-conj.html">conj</a></tt>]--> ADV</tt> (24; 56%),
 <tt>ADJ --[<tt><a href="uk_parlamint-dep-appos.html">appos</a></tt>]--> ADJ</tt> (1; 100%),
 <tt>ADJ --[<tt><a href="uk_parlamint-dep-reparandum.html">reparandum</a></tt>]--> ADJ</tt> (1; 100%).
 

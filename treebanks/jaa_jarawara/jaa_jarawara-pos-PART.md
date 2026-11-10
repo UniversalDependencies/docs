@@ -30,8 +30,8 @@ The 1st highest number of forms (2) was observed with the lemma “ke”: <em>ok
 `PART` occurs with 5 feature-value pairs: `Clusivity=Ex`, `Gender=Fem`, `Number=Plur`, `Number=Sing`, `Person=1`
 
 `PART` occurs with 2 feature combinations.
-The most frequent feature combination is `Clusivity=Ex|Gender=Fem|Number=Plur` (1 tokens).
-Examples: <em>otaake</em>
+The most frequent feature combination is `Gender=Fem|Number=Sing|Person=1` (1 tokens).
+Examples: <em>oke</em>
 
 
 ## Relations

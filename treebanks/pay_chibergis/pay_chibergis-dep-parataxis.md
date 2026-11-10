@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-88 nodes (2%) are attached to their parents as `parataxis`.
+93 nodes (2%) are attached to their parents as `parataxis`.
 
-84 instances of `parataxis` (95%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.68181818181818.
+88 instances of `parataxis` (95%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.67741935483871.
 
-The following 16 pairs of parts of speech are connected with `parataxis`: <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt> (61; 69% instances), <tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt> (6; 7% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt> (3; 3% instances), <tt><a href="pay_chibergis-pos-AUX.html">AUX</a></tt>-<tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt> (2; 2% instances), <tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt> (2; 2% instances), <tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt>-<tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt>-<tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt> (2; 2% instances), <tt><a href="pay_chibergis-pos-AUX.html">AUX</a></tt>-<tt><a href="pay_chibergis-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="pay_chibergis-pos-AUX.html">AUX</a></tt>-<tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pay_chibergis-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pay_chibergis-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="pay_chibergis-pos-NUM.html">NUM</a></tt>-<tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="pay_chibergis-pos-X.html">X</a></tt>-<tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="pay_chibergis-pos-X.html">X</a></tt>-<tt><a href="pay_chibergis-pos-X.html">X</a></tt> (1; 1% instances).
+The following 16 pairs of parts of speech are connected with `parataxis`: <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt> (61; 66% instances), <tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt> (6; 6% instances), <tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt>-<tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt> (5; 5% instances), <tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt>-<tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt> (3; 3% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt> (3; 3% instances), <tt><a href="pay_chibergis-pos-AUX.html">AUX</a></tt>-<tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt> (2; 2% instances), <tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt> (2; 2% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt> (2; 2% instances), <tt><a href="pay_chibergis-pos-AUX.html">AUX</a></tt>-<tt><a href="pay_chibergis-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="pay_chibergis-pos-AUX.html">AUX</a></tt>-<tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pay_chibergis-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pay_chibergis-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="pay_chibergis-pos-NUM.html">NUM</a></tt>-<tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="pay_chibergis-pos-X.html">X</a></tt>-<tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="pay_chibergis-pos-X.html">X</a></tt>-<tt><a href="pay_chibergis-pos-X.html">X</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -54,19 +54,23 @@ The following 16 pairs of parts of speech are connected with `parataxis`: <tt><a
 
 
 ~~~ conllu
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 6 parataxis	color:blue
-1	tʃai	tʃa	VERB	_	_	0	root	_	AlignBegin=36607|AlignEnd=37306|Gloss=be.there|MGloss=be.there -S3SG -PST|MSeg=tʃa-Ø-i|nWord=1|RX=[VI]|TokenType=Root|wordform=tʃa-Ø-i
-2	=ʔi	_	PART	_	_	1	advmod	_	AlignBegin=37306|AlignEnd=38005|Gloss==FOC|MGloss==FOC|MSeg==ʔi|nWord=2|RX=[PRT]|TokenType=Clit
-3	,	_	PUNCT	_	_	2	punct	_	AlignBegin=38005|AlignEnd=38704|MSeg=,|nWord=3
-4	aarki	arki	NOUN	_	_	6	nsubj	_	AlignBegin=38704|AlignEnd=39403|Gloss=brother|MGloss=POSS3SG- brother|MSeg=a-arki|nWord=4|RX=[N]|TokenType=Root|wordform=a-arki
-5	=pe	_	PART	_	_	4	advmod	_	AlignBegin=39403|AlignEnd=40102|Gloss==only|MGloss==only|MSeg==pe|nWord=5|RX=[PRT]|TokenType=Clit
-6	taʃ	taʃ	NOUN	_	_	1	parataxis	_	AlignBegin=40102|AlignEnd=40801|Gloss=nine|MGloss=nine|MSeg=taʃ|nWord=6|RX=[N]|TokenType=Root
-7	=leri	_	AUX	_	_	6	cop	_	AlignBegin=40801|AlignEnd=41500|Gloss==COP|MGloss==COP -S3PL -PST|MSeg==l-er-i|nWord=7|RX=[COP]|TokenType=Root|wordform==l-er-i
-8	.	_	PUNCT	_	_	1	punct	_	AlignBegin=41500|AlignEnd=42200|Gloss=.|MGloss=.|MSeg=.|nWord=8
+# visual-style 6 7 parataxis	color:blue
+1	aka	aka	NOUN	_	_	4	parataxis	_	AlignBegin=255050|AlignEnd=255726|Gloss=plate|MGloss=plate|MSeg=aka|nWord=1|RX=[N]|TokenType=Root
+2	ye	ye	NOUN	_	_	1	nmod	_	AlignBegin=255726|AlignEnd=256402|Gloss=small|MGloss=small|MSeg=ye|nWord=2|RX=[N]|TokenType=Root
+3	=s	_	DET	_	_	1	det	_	AlignBegin=256402|AlignEnd=257078|Gloss==INDF.ART|MGloss==INDF.ART|MSeg==s|nWord=3|RX=[DET]|TokenType=Clit
+4	ã	ã	PRON	_	_	6	obl:arg	_	AlignBegin=257078|AlignEnd=257754|Gloss=DIST.DEM|MGloss=DIST.DEM|MSeg=ã|nWord=4|RX=[PRO]|TokenType=Root
+5	=yo	_	ADP	_	_	4	case	_	AlignBegin=257754|AlignEnd=258430|Gloss==INS|MGloss==INS|MSeg==yo|nWord=5|RX=[POST]|TokenType=Clit
+6	awarahkawa	warahk	PRON	_	_	0	root	_	AlignBegin=258430|AlignEnd=259106|Gloss=O3SG-|MGloss=O3SG- empty -S1SG -PFV|MSeg=a-warahk-a-wa|nWord=6|RX=[VT:ANY]|TokenType=Root|wordform=a-warahk-a-wa
+7	awarahkawa	warahk	PRON	_	_	6	parataxis	_	AlignBegin=259106|AlignEnd=259782|Gloss=O3SG-|MGloss=O3SG- empty -S1SG -PFV|MSeg=a-warahk-a-wa|nWord=7|RX=[VT:ANY]|TokenType=Root|wordform=a-warahk-a-wa
+8	ã	ã	PRON	_	_	7	obl:lmod	_	AlignBegin=259782|AlignEnd=260458|Gloss=DIST.DEM|MGloss=DIST.DEM|MSeg=ã|nWord=8|RX=[PRO]|TokenType=Root
+9	=yã	_	ADP	_	_	8	case	_	AlignBegin=260458|AlignEnd=261134|Gloss==LOC|MGloss==LOC|MSeg==yã|nWord=9|RX=[POST]|TokenType=Clit
+10	atʃahawa	atʃah	PRON	_	_	7	parataxis	_	AlignBegin=261134|AlignEnd=261810|Gloss=O3SG-|MGloss=O3SG- sprinkle -S1SG -PFV|MSeg=Ø-atʃah-a-wa|nWord=10|RX=[VT:ANY]|TokenType=Root|wordform=Ø-atʃah-a-wa
+11	waroh	waroh	NOUN	_	_	10	obl:arg	_	AlignBegin=261810|AlignEnd=262486|Gloss=guaro|MGloss=guaro|MSeg=waroh|nWord=11|RX=[N]|TokenType=Root
+12	=ri	_	ADP	_	_	11	case	_	AlignBegin=262486|AlignEnd=263160|Gloss==MDT|MGloss==MDT|MSeg==ri|nWord=12|RX=[POST]|TokenType=Clit
 
 ~~~
 

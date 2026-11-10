@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Imp`, `Perf`, `Prog`.
 
-472 tokens (15%) have a non-empty value of `Aspect`.
-301 types (27%) occur at least once with a non-empty value of `Aspect`.
-212 lemmas (26%) occur at least once with a non-empty value of `Aspect`.
-The feature is used with 6 part-of-speech tags: <tt><a href="nmf_suansu-pos-VERB.html">VERB</a></tt> (362; 12% instances), <tt><a href="nmf_suansu-pos-AUX.html">AUX</a></tt> (72; 2% instances), <tt><a href="nmf_suansu-pos-NOUN.html">NOUN</a></tt> (32; 1% instances), <tt><a href="nmf_suansu-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="nmf_suansu-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="nmf_suansu-pos-ADV.html">ADV</a></tt> (1; 0% instances).
+468 tokens (15%) have a non-empty value of `Aspect`.
+299 types (27%) occur at least once with a non-empty value of `Aspect`.
+211 lemmas (26%) occur at least once with a non-empty value of `Aspect`.
+The feature is used with 6 part-of-speech tags: <tt><a href="nmf_suansu-pos-VERB.html">VERB</a></tt> (359; 12% instances), <tt><a href="nmf_suansu-pos-AUX.html">AUX</a></tt> (72; 2% instances), <tt><a href="nmf_suansu-pos-NOUN.html">NOUN</a></tt> (31; 1% instances), <tt><a href="nmf_suansu-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="nmf_suansu-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="nmf_suansu-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 ### `VERB`
 
-362 <tt><a href="nmf_suansu-pos-VERB.html">VERB</a></tt> tokens (57% of all `VERB` tokens) have a non-empty value of `Aspect`.
+359 <tt><a href="nmf_suansu-pos-VERB.html">VERB</a></tt> tokens (58% of all `VERB` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="nmf_suansu-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (312; 86%), <tt><a href="nmf_suansu-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (310; 86%), <tt><a href="nmf_suansu-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (193; 53%).
+The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="nmf_suansu-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (309; 86%), <tt><a href="nmf_suansu-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (307; 86%), <tt><a href="nmf_suansu-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (191; 53%).
 
 `VERB` tokens may have the following values of `Aspect`:
 
-* `Imp` (228; 63% of non-empty `Aspect`): <em>nue, reha, wile, kanale, manungle, rae, rue, runge, rungha, thaile</em>
+* `Imp` (225; 63% of non-empty `Aspect`): <em>nue, reha, kanale, manungle, rae, rue, rungha, thaile, wile, chule</em>
 * `Perf` (86; 24% of non-empty `Aspect`): <em>dhohnte, themate, theate, mathilate, mathunglate, myate, puiate, ruate, sahnte, thate</em>
 * `Prog` (48; 13% of non-empty `Aspect`): <em>rungganan, theganan, yoanganan, bahnganan, malungphzganan, nyamganan, phanungganan, ruganan, thyiganan, Nueganan</em>
-* `EMPTY` (272): <em>la, the, rung, yoan, phabtama, chari, mu, thaima, thungmi, dhohn</em>
+* `EMPTY` (265): <em>la, the, rung, phabtama, yoan, chari, mu, thaima, thungmi, dhohn</em>
 
 <table>
   <tr><th>Paradigm <i>the</i></th><th><tt>Imp</tt></th><th><tt>Perf</tt></th><th><tt>Prog</tt></th></tr>
@@ -38,7 +38,7 @@ The most frequent other feature values with which `VERB` and `Aspect` co-occurre
 
 ### `AUX`
 
-72 <tt><a href="nmf_suansu-pos-AUX.html">AUX</a></tt> tokens (41% of all `AUX` tokens) have a non-empty value of `Aspect`.
+72 <tt><a href="nmf_suansu-pos-AUX.html">AUX</a></tt> tokens (43% of all `AUX` tokens) have a non-empty value of `Aspect`.
 
 The most frequent other feature values with which `AUX` and `Aspect` co-occurred: <tt><a href="nmf_suansu-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (43; 60%), <tt><a href="nmf_suansu-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (43; 60%).
 
@@ -46,7 +46,7 @@ The most frequent other feature values with which `AUX` and `Aspect` co-occurred
 
 * `Imp` (58; 81% of non-empty `Aspect`): <em>lale, rahn, laha, laia</em>
 * `Perf` (14; 19% of non-empty `Aspect`): <em>rahnte, lalate, late</em>
-* `EMPTY` (104): <em>la, dai, ga, geraha, e, gu, lala, dila, gama, lama</em>
+* `EMPTY` (97): <em>la, dai, geraha, ga, e, gu, lala, dila, gama, lama</em>
 
 <table>
   <tr><th>Paradigm <i>la</i></th><th><tt>Imp</tt></th><th><tt>Perf</tt></th></tr>
@@ -57,17 +57,17 @@ The most frequent other feature values with which `AUX` and `Aspect` co-occurred
 
 ### `NOUN`
 
-32 <tt><a href="nmf_suansu-pos-NOUN.html">NOUN</a></tt> tokens (5% of all `NOUN` tokens) have a non-empty value of `Aspect`.
+31 <tt><a href="nmf_suansu-pos-NOUN.html">NOUN</a></tt> tokens (5% of all `NOUN` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `NOUN` and `Aspect` co-occurred: <tt><a href="nmf_suansu-feat-Number.html">Number</a></tt><tt>=Sing</tt> (29; 91%), <tt><a href="nmf_suansu-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (21; 66%).
+The most frequent other feature values with which `NOUN` and `Aspect` co-occurred: <tt><a href="nmf_suansu-feat-Number.html">Number</a></tt><tt>=Sing</tt> (29; 94%), <tt><a href="nmf_suansu-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (21; 68%).
 
 `NOUN` tokens may have the following values of `Aspect`:
 
-* `Imp` (31; 97% of non-empty `Aspect`): <em>runge, theyikke, rungedi, phehnne, runghapha, Tramahnne, dhohnphala, huppe, kathamme, laithiedi</em>
+* `Imp` (30; 97% of non-empty `Aspect`): <em>runge, theyikke, rungedi, phehnne, runghapha, Tramahnne, huppe, kathamme, laithiedi, matrahnne</em>
 * `Perf` (1; 3% of non-empty `Aspect`): <em>szumahnne</em>
-* `EMPTY` (638): <em>miszu, neo, baneo, insurance, leneo, rhui, puirawi, neodi, baneodi, Szukhyate</em>
+* `EMPTY` (636): <em>miszu, neo, baneo, insurance, leneo, rhui, puirawi, neodi, baneodi, Szukhyate</em>
 
-`Aspect` seems to be **lexical feature** of `NOUN`. 100% lemmas (20) occur only with one value of `Aspect`.
+`Aspect` seems to be **lexical feature** of `NOUN`. 100% lemmas (19) occur only with one value of `Aspect`.
 
 ### `ADP`
 
@@ -91,7 +91,7 @@ The most frequent other feature values with which `PART` and `Aspect` co-occurre
 
 * `Imp` (1; 50% of non-empty `Aspect`): <em>remale</em>
 * `Perf` (1; 50% of non-empty `Aspect`): <em>rehate</em>
-* `EMPTY` (48): <em>re, garhe, reha, rema, khama, gala, dinan, garhema, la, lagu</em>
+* `EMPTY` (46): <em>re, garhe, reha, rema, khama, gala, dinan, garhema, lagu, reganan</em>
 
 <table>
   <tr><th>Paradigm <i>re</i></th><th><tt>Imp</tt></th><th><tt>Perf</tt></th></tr>
@@ -108,13 +108,12 @@ The most frequent other feature values with which `ADV` and `Aspect` co-occurred
 `ADV` tokens may have the following values of `Aspect`:
 
 * `Imp` (1; 100% of non-empty `Aspect`): <em>lhia</em>
-* `EMPTY` (192): <em>li, re, bathanahn, gare, dre, hano, reganan, szuraire, rai, daichu</em>
+* `EMPTY` (189): <em>li, re, bathanahn, gare, dre, hano, reganan, szuraire, daichu, rai</em>
 
 ## Relations with Agreement in `Aspect`
 
 The 10 most frequent relations where parent and child node agree in `Aspect`:
 <tt>NOUN --[<tt><a href="nmf_suansu-dep-parataxis.html">parataxis</a></tt>]--> NOUN</tt> (1; 100%),
-<tt>VERB --[<tt><a href="nmf_suansu-dep-appos.html">appos</a></tt>]--> NOUN</tt> (1; 100%),
 <tt>VERB --[<tt><a href="nmf_suansu-dep-csubj-outer.html">csubj:outer</a></tt>]--> NOUN</tt> (1; 100%),
 <tt>VERB --[<tt><a href="nmf_suansu-dep-obl.html">obl</a></tt>]--> VERB</tt> (1; 100%),
 <tt>VERB --[<tt><a href="nmf_suansu-dep-reparandum.html">reparandum</a></tt>]--> VERB</tt> (1; 100%),

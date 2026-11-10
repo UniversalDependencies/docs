@@ -36,7 +36,7 @@ The most frequent other feature values with which `NOUN` and `Abbr` co-occurred:
 `NOUN` tokens may have the following values of `Abbr`:
 
 * `Yes` (4; 100% of non-empty `Abbr`): <em>dr, elektro, prof</em>
-* `EMPTY` (27592): <em>chvíli, život, oči, dítě, den, člověk, plod, dívka, profesor, ruce</em>
+* `EMPTY` (27597): <em>chvíli, život, oči, dítě, den, člověk, plod, dívka, profesor, ruce</em>
 
 ### `ADV`
 
@@ -47,7 +47,7 @@ The most frequent other feature values with which `ADV` and `Abbr` co-occurred: 
 `ADV` tokens may have the following values of `Abbr`:
 
 * `Yes` (1; 100% of non-empty `Abbr`): <em>apod</em>
-* `EMPTY` (10951): <em>už, tak, jak, ještě, pak, tam, proč, teď, nikdy, kde</em>
+* `EMPTY` (11217): <em>tak, už, jak, ještě, pak, tam, proč, teď, nikdy, kde</em>
 
 ## Relations with Agreement in `Abbr`
 

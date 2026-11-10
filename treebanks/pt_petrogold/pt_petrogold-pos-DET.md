@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Portuguese-PetroGold: POS Tags: `DET`
 
-There are 37 `DET` lemmas (0%), 92 `DET` types (1%) and 36327 `DET` tokens (14%).
+There are 38 `DET` lemmas (0%), 93 `DET` types (1%) and 36328 `DET` tokens (14%).
 Out of 16 observed tags, the rank of `DET` is: 10 in number of lemmas, 8 in number of types and 3 in number of tokens.
 
 The 10 most frequent `DET` lemmas: <em>o, um, este, seu, esse, todo, outro, cada, algum, tal</em>
@@ -64,7 +64,7 @@ The 10 most frequent ambiguous types:  <em>a</em> (<tt><a href="pt_petrogold-pos
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 2.486486 (the average of all parts of speech is 1.452383).
+The form / lemma ratio of `DET` is 2.447368 (the average of all parts of speech is 1.452344).
 
 The 1st highest number of forms (6) was observed with the lemma “este”: <em>Deste, esta, estas, este, estes, está</em>.
 
@@ -72,22 +72,22 @@ The 2nd highest number of forms (5) was observed with the lemma “o”: <em>a, 
 
 The 3rd highest number of forms (5) was observed with the lemma “pouco”: <em>menos, pouca, poucas, pouco, poucos</em>.
 
-`DET` occurs with 5 features: <tt><a href="pt_petrogold-feat-Gender.html">Gender</a></tt> (36327; 100% instances), <tt><a href="pt_petrogold-feat-Number.html">Number</a></tt> (36327; 100% instances), <tt><a href="pt_petrogold-feat-PronType.html">PronType</a></tt> (36326; 100% instances), <tt><a href="pt_petrogold-feat-Definite.html">Definite</a></tt> (31767; 87% instances), <tt><a href="pt_petrogold-feat-ExtPos.html">ExtPos</a></tt> (119; 0% instances)
+`DET` occurs with 5 features: <tt><a href="pt_petrogold-feat-Gender.html">Gender</a></tt> (36328; 100% instances), <tt><a href="pt_petrogold-feat-Number.html">Number</a></tt> (36328; 100% instances), <tt><a href="pt_petrogold-feat-PronType.html">PronType</a></tt> (36328; 100% instances), <tt><a href="pt_petrogold-feat-Definite.html">Definite</a></tt> (31768; 87% instances), <tt><a href="pt_petrogold-feat-ExtPos.html">ExtPos</a></tt> (119; 0% instances)
 
 `DET` occurs with 17 feature-value pairs: `Definite=Def`, `Definite=Ind`, `ExtPos=ADP`, `ExtPos=ADV`, `ExtPos=SCONJ`, `Gender=Fem`, `Gender=Masc`, `Number=Plur`, `Number=Sing`, `PronType=Art`, `PronType=Dem`, `PronType=Emp`, `PronType=Ind`, `PronType=Int`, `PronType=Prs`, `PronType=Rel`, `PronType=Tot`
 
-`DET` occurs with 44 feature combinations.
+`DET` occurs with 43 feature combinations.
 The most frequent feature combination is `Definite=Def|Gender=Fem|Number=Sing|PronType=Art` (11702 tokens).
 Examples: <em>a, µ, á</em>
 
 
 ## Relations
 
-`DET` nodes are attached to their parents using 10 different relations: <tt><a href="pt_petrogold-dep-det.html">det</a></tt> (35563; 98% instances), <tt><a href="pt_petrogold-dep-flat-name.html">flat:name</a></tt> (365; 1% instances), <tt><a href="pt_petrogold-dep-fixed.html">fixed</a></tt> (268; 1% instances), <tt><a href="pt_petrogold-dep-mark.html">mark</a></tt> (60; 0% instances), <tt><a href="pt_petrogold-dep-case.html">case</a></tt> (41; 0% instances), <tt><a href="pt_petrogold-dep-obl.html">obl</a></tt> (12; 0% instances), <tt><a href="pt_petrogold-dep-advmod.html">advmod</a></tt> (10; 0% instances), <tt><a href="pt_petrogold-dep-conj.html">conj</a></tt> (5; 0% instances), <tt><a href="pt_petrogold-dep-appos.html">appos</a></tt> (2; 0% instances), <tt><a href="pt_petrogold-dep-amod.html">amod</a></tt> (1; 0% instances)
+`DET` nodes are attached to their parents using 10 different relations: <tt><a href="pt_petrogold-dep-det.html">det</a></tt> (35564; 98% instances), <tt><a href="pt_petrogold-dep-flat-name.html">flat:name</a></tt> (365; 1% instances), <tt><a href="pt_petrogold-dep-fixed.html">fixed</a></tt> (268; 1% instances), <tt><a href="pt_petrogold-dep-mark.html">mark</a></tt> (60; 0% instances), <tt><a href="pt_petrogold-dep-case.html">case</a></tt> (41; 0% instances), <tt><a href="pt_petrogold-dep-obl.html">obl</a></tt> (12; 0% instances), <tt><a href="pt_petrogold-dep-advmod.html">advmod</a></tt> (10; 0% instances), <tt><a href="pt_petrogold-dep-conj.html">conj</a></tt> (5; 0% instances), <tt><a href="pt_petrogold-dep-appos.html">appos</a></tt> (2; 0% instances), <tt><a href="pt_petrogold-dep-amod.html">amod</a></tt> (1; 0% instances)
 
-Parents of `DET` nodes belong to 12 different parts of speech: <tt><a href="pt_petrogold-pos-NOUN.html">NOUN</a></tt> (33039; 91% instances), <tt><a href="pt_petrogold-pos-PROPN.html">PROPN</a></tt> (2492; 7% instances), <tt><a href="pt_petrogold-pos-ADP.html">ADP</a></tt> (258; 1% instances), <tt><a href="pt_petrogold-pos-PRON.html">PRON</a></tt> (247; 1% instances), <tt><a href="pt_petrogold-pos-VERB.html">VERB</a></tt> (124; 0% instances), <tt><a href="pt_petrogold-pos-ADJ.html">ADJ</a></tt> (114; 0% instances), <tt><a href="pt_petrogold-pos-NUM.html">NUM</a></tt> (19; 0% instances), <tt><a href="pt_petrogold-pos-ADV.html">ADV</a></tt> (10; 0% instances), <tt><a href="pt_petrogold-pos-SYM.html">SYM</a></tt> (10; 0% instances), <tt><a href="pt_petrogold-pos-DET.html">DET</a></tt> (7; 0% instances), <tt><a href="pt_petrogold-pos-X.html">X</a></tt> (6; 0% instances), <tt><a href="pt_petrogold-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances)
+Parents of `DET` nodes belong to 12 different parts of speech: <tt><a href="pt_petrogold-pos-NOUN.html">NOUN</a></tt> (33040; 91% instances), <tt><a href="pt_petrogold-pos-PROPN.html">PROPN</a></tt> (2492; 7% instances), <tt><a href="pt_petrogold-pos-ADP.html">ADP</a></tt> (258; 1% instances), <tt><a href="pt_petrogold-pos-PRON.html">PRON</a></tt> (247; 1% instances), <tt><a href="pt_petrogold-pos-VERB.html">VERB</a></tt> (124; 0% instances), <tt><a href="pt_petrogold-pos-ADJ.html">ADJ</a></tt> (114; 0% instances), <tt><a href="pt_petrogold-pos-NUM.html">NUM</a></tt> (19; 0% instances), <tt><a href="pt_petrogold-pos-ADV.html">ADV</a></tt> (10; 0% instances), <tt><a href="pt_petrogold-pos-SYM.html">SYM</a></tt> (10; 0% instances), <tt><a href="pt_petrogold-pos-DET.html">DET</a></tt> (7; 0% instances), <tt><a href="pt_petrogold-pos-X.html">X</a></tt> (6; 0% instances), <tt><a href="pt_petrogold-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances)
 
-36199 (100%) `DET` nodes are leaves.
+36200 (100%) `DET` nodes are leaves.
 
 57 (0%) `DET` nodes have one child.
 

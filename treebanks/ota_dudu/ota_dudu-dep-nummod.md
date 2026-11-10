@@ -8,28 +8,31 @@ udver: '2'
 
 This relation is universal.
 
-289 nodes (1%) are attached to their parents as `nummod`.
+304 nodes (1%) are attached to their parents as `nummod`.
 
-287 instances of `nummod` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.60553633217993.
+302 instances of `nummod` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.58223684210526.
 
-The following 6 pairs of parts of speech are connected with `nummod`: <tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ota_dudu-pos-NUM.html">NUM</a></tt> (273; 94% instances), <tt><a href="ota_dudu-pos-NUM.html">NUM</a></tt>-<tt><a href="ota_dudu-pos-NUM.html">NUM</a></tt> (10; 3% instances), <tt><a href="ota_dudu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ota_dudu-pos-NUM.html">NUM</a></tt> (3; 1% instances), <tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ota_dudu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ota_dudu-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt>-<tt><a href="ota_dudu-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 6 pairs of parts of speech are connected with `nummod`: <tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ota_dudu-pos-NUM.html">NUM</a></tt> (288; 95% instances), <tt><a href="ota_dudu-pos-NUM.html">NUM</a></tt>-<tt><a href="ota_dudu-pos-NUM.html">NUM</a></tt> (10; 3% instances), <tt><a href="ota_dudu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ota_dudu-pos-NUM.html">NUM</a></tt> (3; 1% instances), <tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ota_dudu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ota_dudu-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt>-<tt><a href="ota_dudu-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
-# visual-style 6 3 nummod	color:blue
-1	ammā	ammā	CCONJ	_	_	7	cc	_	_
-2	ʿarżı	ʿarż	NOUN	_	Case=Acc|Number=Sing|Person=3	6	nsubj	_	_
-3	yüz	yüz	NUM	ANum	NumType=Card	6	nummod	_	_
-4	otuz	otuz	NUM	ANum	NumType=Card	3	flat	_	_
-5	beş	beş	NUM	ANum	NumType=Card	3	flat	_	_
-6	fersaḫdan	fersaḫ	NOUN	_	Case=Abl|Number=Sing|Person=3	7	obl	_	_
-7	ziyādece	ziyādece	ADV	_	_	0	root	_	_
-8	dür	y	AUX	Zero	Aspect=Perf|Number=Sing|Person=3|Tense=Pres	7	cop	_	_
+# visual-style 6 5 nummod	color:blue
+1	ol	ol	PRON	Pers	Case=Nom|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	_daḫı	daḫı	PART	Emph	_	1	advmod:emph	_	_
+3	muncibe	muncibe	ADJ	Adj	_	0	root	_	_
+4	idi	y	AUX	Overt	Aspect=Perf|Evident=Fh|Number=Sing|Person=3|Polarity=Pos|Tense=Past	3	cop	_	_
+5	ṭoḳuz	ṭoḳuz	NUM	ANum	NumType=Card	6	nummod	_	_
+6	oġlı	oġul	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	10	nsubj	_	_
+7	ve	ve	CCONJ	_	_	9	cc	_	_
+8	bir	bir	NUM	ANum	NumType=Card	9	nummod	_	_
+9	ḳızı	ḳız	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	6	conj	_	_
+10	ṭogmış	ṭog	VERB	Ptcp	Aspect=Perf|Polarity=Pos|VerbForm=Part	3	conj	_	_
+11	ıdı	y	AUX	Zero	Aspect=Perf|Evident=Fh|Number=Sing|Person=3|Polarity=Pos|Tense=Past	10	cop	_	_
 
 ~~~
 

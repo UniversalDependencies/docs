@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  말입니다 (<tt><a href="ko_kaist-pos-I
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 0.998034).
+The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 0.998024).
 
 The 1st highest number of forms (1) was observed with the lemma “검+이여”: 검이여.
 

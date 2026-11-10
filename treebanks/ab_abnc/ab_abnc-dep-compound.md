@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 2 language-specific subtypes of `compound`: <tt><a href="ab_abnc-dep-compound-pred.html">compound:pred</a></tt>, <tt><a href="ab_abnc-dep-compound-prt.html">compound:prt</a></tt>.
 
-20 nodes (0%) are attached to their parents as `compound`.
+25 nodes (0%) are attached to their parents as `compound`.
 
-18 instances of `compound` (90%) are right-to-left (child precedes parent).
+23 instances of `compound` (92%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.
 
-The following 4 pairs of parts of speech are connected with `compound`: <tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt> (16; 80% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt> (2; 10% instances), <tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ab_abnc-pos-ADV.html">ADV</a></tt> (1; 5% instances), <tt><a href="ab_abnc-pos-NUM.html">NUM</a></tt>-<tt><a href="ab_abnc-pos-NUM.html">NUM</a></tt> (1; 5% instances).
+The following 4 pairs of parts of speech are connected with `compound`: <tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt> (21; 84% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt> (2; 8% instances), <tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ab_abnc-pos-ADV.html">ADV</a></tt> (1; 4% instances), <tt><a href="ab_abnc-pos-NUM.html">NUM</a></tt>-<tt><a href="ab_abnc-pos-NUM.html">NUM</a></tt> (1; 4% instances).
 
 
 ~~~ conllu

@@ -45,7 +45,7 @@ The 10 most frequent ambiguous types:  <em>roligt</em> (<tt><a href="sv_swell-po
 
 ## Morphology
 
-The form / lemma ratio of `X` is 3.333333 (the average of all parts of speech is 1.401542).
+The form / lemma ratio of `X` is 3.333333 (the average of all parts of speech is 1.400119).
 
 The 1st highest number of forms (8) was observed with the lemma “_”: <em>kort, läs, ofta, rik, roligt, sammans, stort, varmt</em>.
 

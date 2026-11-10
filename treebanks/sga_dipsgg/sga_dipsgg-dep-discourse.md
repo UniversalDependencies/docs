@@ -42,7 +42,7 @@ The following 3 pairs of parts of speech are connected with `discourse`: <tt><a 
 5	ó	ó	INTJ	_	_	7	discourse	_	_
 6	ní	ní	PART	_	Polarity=Neg	7	advmod	_	SpaceAfter=No
 7	epur	asbeir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	1	parataxis	_	_
-8	na	nach	DET	_	Case=Acc|Definite=Ind|Number=Sing	9	det	_	_
+8	na	nach	DET	_	Case=Acc|Number=Sing|PronType=Neg	9	det	_	_
 9	haill	aile	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	7	amod	_	_
 
 ~~~

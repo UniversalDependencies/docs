@@ -9,21 +9,21 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-16 tokens (1%) have a non-empty value of `Reflex`.
-5 types (1%) occur at least once with a non-empty value of `Reflex`.
+20 tokens (1%) have a non-empty value of `Reflex`.
+6 types (1%) occur at least once with a non-empty value of `Reflex`.
 2 lemmas (0%) occur at least once with a non-empty value of `Reflex`.
-The feature is used with 2 part-of-speech tags: <tt><a href="eo_prago-pos-PRON.html">PRON</a></tt> (14; 0% instances), <tt><a href="eo_prago-pos-DET.html">DET</a></tt> (2; 0% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="eo_prago-pos-PRON.html">PRON</a></tt> (18; 0% instances), <tt><a href="eo_prago-pos-DET.html">DET</a></tt> (2; 0% instances).
 
 ### `PRON`
 
-14 <tt><a href="eo_prago-pos-PRON.html">PRON</a></tt> tokens (5% of all `PRON` tokens) have a non-empty value of `Reflex`.
+18 <tt><a href="eo_prago-pos-PRON.html">PRON</a></tt> tokens (5% of all `PRON` tokens) have a non-empty value of `Reflex`.
 
-The most frequent other feature values with which `PRON` and `Reflex` co-occurred: <tt><a href="eo_prago-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (14; 100%), <tt><a href="eo_prago-feat-Case.html">Case</a></tt><tt>=Nom</tt> (12; 86%), <tt><a href="eo_prago-feat-Number.html">Number</a></tt><tt>=Sing</tt> (12; 86%), <tt><a href="eo_prago-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (9; 64%), <tt><a href="eo_prago-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (9; 64%), <tt><a href="eo_prago-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (9; 64%).
+The most frequent other feature values with which `PRON` and `Reflex` co-occurred: <tt><a href="eo_prago-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (18; 100%), <tt><a href="eo_prago-feat-Case.html">Case</a></tt><tt>=Nom</tt> (16; 89%), <tt><a href="eo_prago-feat-Number.html">Number</a></tt><tt>=Sing</tt> (16; 89%), <tt><a href="eo_prago-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (13; 72%), <tt><a href="eo_prago-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (13; 72%).
 
 `PRON` tokens may have the following values of `Reflex`:
 
-* `Yes` (14; 100% of non-empty `Reflex`): <em>si, sia, siaj, siajn, sian</em>
-* `EMPTY` (277): <em>mi, mia, kiu, ni, mian, min, tio, ili, miaj, kiuj</em>
+* `Yes` (18; 100% of non-empty `Reflex`): <em>si, sia, sin, siaj, siajn, sian</em>
+* `EMPTY` (334): <em>mi, kiu, mia, ni, mian, min, tio, ili, kiuj, miaj</em>
 
 ### `DET`
 
@@ -34,5 +34,5 @@ The most frequent other feature values with which `DET` and `Reflex` co-occurred
 `DET` tokens may have the following values of `Reflex`:
 
 * `Yes` (2; 100% of non-empty `Reflex`): <em>sia, siajn</em>
-* `EMPTY` (247): <em>la, ĉiu, tiun, ĉiuj, tiu, ĉiun, ia, tiuj, tiujn, Tia</em>
+* `EMPTY` (305): <em>la, ĉiu, tiun, ĉiuj, tiu, ĉiun, ia, tiuj, tiujn, Tia</em>
 

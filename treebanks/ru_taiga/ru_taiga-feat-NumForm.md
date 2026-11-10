@@ -64,12 +64,12 @@ The most frequent other feature values with which `ADJ` and `NumForm` co-occurre
 The 10 most frequent relations where parent and child node agree in `NumForm`:
 <tt>ADJ --[<tt><a href="ru_taiga-dep-nmod.html">nmod</a></tt>]--> ADJ</tt> (805; 92%),
 <tt>NUM --[<tt><a href="ru_taiga-dep-nmod.html">nmod</a></tt>]--> NUM</tt> (405; 100%),
-<tt>NUM --[<tt><a href="ru_taiga-dep-conj.html">conj</a></tt>]--> NUM</tt> (302; 100%),
+<tt>NUM --[<tt><a href="ru_taiga-dep-conj.html">conj</a></tt>]--> NUM</tt> (301; 100%),
 <tt>ADJ --[<tt><a href="ru_taiga-dep-conj.html">conj</a></tt>]--> ADJ</tt> (162; 72%),
 <tt>NUM --[<tt><a href="ru_taiga-dep-compound.html">compound</a></tt>]--> NUM</tt> (133; 100%),
 <tt>ADJ --[<tt><a href="ru_taiga-dep-compound.html">compound</a></tt>]--> NUM</tt> (36; 62%),
 <tt>NUM --[<tt><a href="ru_taiga-dep-list.html">list</a></tt>]--> NUM</tt> (21; 84%),
 <tt>NUM --[<tt><a href="ru_taiga-dep-parataxis.html">parataxis</a></tt>]--> NUM</tt> (16; 84%),
 <tt>NUM --[<tt><a href="ru_taiga-dep-nummod-gov.html">nummod:gov</a></tt>]--> NUM</tt> (13; 100%),
-<tt>ADJ --[<tt><a href="ru_taiga-dep-nmod.html">nmod</a></tt>]--> NUM</tt> (6; 86%).
+<tt>NUM --[<tt><a href="ru_taiga-dep-advcl.html">advcl</a></tt>]--> NUM</tt> (7; 100%).
 

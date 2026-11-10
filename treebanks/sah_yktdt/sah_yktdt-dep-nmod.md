@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-51 nodes (3%) are attached to their parents as `nmod`.
+53 nodes (4%) are attached to their parents as `nmod`.
 
-48 instances of `nmod` (94%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.15686274509804.
+49 instances of `nmod` (92%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.18867924528302.
 
-The following 5 pairs of parts of speech are connected with `nmod`: <tt><a href="sah_yktdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sah_yktdt-pos-NOUN.html">NOUN</a></tt> (29; 57% instances), <tt><a href="sah_yktdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sah_yktdt-pos-PRON.html">PRON</a></tt> (16; 31% instances), <tt><a href="sah_yktdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sah_yktdt-pos-VERB.html">VERB</a></tt> (3; 6% instances), <tt><a href="sah_yktdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sah_yktdt-pos-PROPN.html">PROPN</a></tt> (2; 4% instances), <tt><a href="sah_yktdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sah_yktdt-pos-NUM.html">NUM</a></tt> (1; 2% instances).
+The following 5 pairs of parts of speech are connected with `nmod`: <tt><a href="sah_yktdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sah_yktdt-pos-NOUN.html">NOUN</a></tt> (31; 58% instances), <tt><a href="sah_yktdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sah_yktdt-pos-PRON.html">PRON</a></tt> (16; 30% instances), <tt><a href="sah_yktdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sah_yktdt-pos-VERB.html">VERB</a></tt> (3; 6% instances), <tt><a href="sah_yktdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sah_yktdt-pos-PROPN.html">PROPN</a></tt> (2; 4% instances), <tt><a href="sah_yktdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sah_yktdt-pos-NUM.html">NUM</a></tt> (1; 2% instances).
 
 
 ~~~ conllu

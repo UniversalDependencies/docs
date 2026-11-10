@@ -18,7 +18,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="cs_cac-pos-ADJ.html
 
 70565 <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> tokens (95% of all `ADJ` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (69242; 98%), <tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (60476; 86%), <tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (60476; 86%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (44886; 64%), <tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (43268; 61%).
+The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (69242; 98%), <tt><a href="cs_cac-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (61863; 88%), <tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (60476; 86%), <tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (60476; 86%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (44886; 64%), <tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (43268; 61%).
 
 `ADJ` tokens may have the following values of `Degree`:
 
@@ -86,7 +86,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 
 ### `ADV`
 
-10593 <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> tokens (38% of all `ADV` tokens) have a non-empty value of `Degree`.
+10593 <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> tokens (37% of all `ADV` tokens) have a non-empty value of `Degree`.
 
 The most frequent other feature values with which `ADV` and `Degree` co-occurred: <tt><a href="cs_cac-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (10593; 100%), <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (10209; 96%).
 
@@ -95,7 +95,7 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
 * `Cmp` (1515; 14% of non-empty `Degree`): <em>více, dále, méně, později, dříve, víc, spíše, lépe, dál, výše</em>
 * `Pos` (8629; 81% of non-empty `Degree`): <em>tedy, často, stále, dobře, přímo, současně, stejně, hlavně, postupně, jistě</em>
 * `Sup` (449; 4% of non-empty `Degree`): <em>nejméně, nejlépe, nejvíce, nejdříve, nejčastěji, nejpozději, nejvíc, nejvýše, nejdéle, nejrychleji</em>
-* `EMPTY` (17482): <em>tak, také, jak, proto, již, už, ještě, pak, kde, velmi</em>
+* `EMPTY` (17701): <em>tak, také, jak, proto, již, už, ještě, pak, kde, velmi</em>
 
 <table>
   <tr><th>Paradigm <i>dobře</i></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>

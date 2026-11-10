@@ -22,6 +22,6 @@ The most frequent other feature values with which `PRON` and `Reflex` co-occurre
 
 `PRON` tokens may have the following values of `Reflex`:
 
-* `Yes` (7; 100% of non-empty `Reflex`): <em>ас, ачыт, Аскöттят, аскöттям, аскöттяс</em>
-* `EMPTY` (114): <em>сія, ме, тэ, менам, мый, тэнат, сійӧ, Сiя, меным, нія</em>
+* `Yes` (7; 100% of non-empty `Reflex`): <em>ас, ачыт, Аскӧттят, аскӧттям, аскӧттяс</em>
+* `EMPTY` (114): <em>сія, ме, тэ, менам, мый, сылӧн, тэнат, сійӧ, меным, нія</em>
 

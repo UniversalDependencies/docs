@@ -11,10 +11,10 @@ It occurs with 3 different values: `1`, `2`, `3`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="fr_partut-feat-Person.html">Person</a></tt>, <tt><a href="fr_partut-feat-Person-psor.html">Person[psor]</a></tt>.
 
-2964 tokens (10%) have a non-empty value of `Person`.
+2976 tokens (10%) have a non-empty value of `Person`.
 607 types (15%) occur at least once with a non-empty value of `Person`.
 306 lemmas (11%) occur at least once with a non-empty value of `Person`.
-The feature is used with 4 part-of-speech tags: <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> (1148; 4% instances), <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> (1134; 4% instances), <tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> (679; 2% instances), <tt><a href="fr_partut-pos-DET.html">DET</a></tt> (3; 0% instances).
+The feature is used with 4 part-of-speech tags: <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> (1148; 4% instances), <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> (1146; 4% instances), <tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> (679; 2% instances), <tt><a href="fr_partut-pos-DET.html">DET</a></tt> (3; 0% instances).
 
 ### `VERB`
 
@@ -43,15 +43,15 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 
 ### `PRON`
 
-1134 <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> tokens (70% of all `PRON` tokens) have a non-empty value of `Person`.
+1146 <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> tokens (71% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="fr_partut-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (934; 82%), <tt><a href="fr_partut-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (774; 68%), <tt><a href="fr_partut-feat-Number.html">Number</a></tt><tt>=Sing</tt> (601; 53%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="fr_partut-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (946; 83%), <tt><a href="fr_partut-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (786; 69%), <tt><a href="fr_partut-feat-Number.html">Number</a></tt><tt>=Sing</tt> (601; 52%).
 
 `PRON` tokens may have the following values of `Person`:
 
-* `1` (370; 33% of non-empty `Person`): <em>nous, je, j', me, m', moi, moi-même, -moi, -nous</em>
+* `1` (370; 32% of non-empty `Person`): <em>nous, je, j', me, m', moi, moi-même, -moi, -nous</em>
 * `2` (102; 9% of non-empty `Person`): <em>vous, -vous</em>
-* `3` (662; 58% of non-empty `Person`): <em>il, ce, s', se, y, on, ils, le, elle, elles</em>
+* `3` (674; 59% of non-empty `Person`): <em>il, ce, y, s', se, on, ils, le, elle, elles</em>
 * `EMPTY` (475): <em>qui, c', que, qu', dont, s', chacun, tous, ce, Nul</em>
 
 `Person` seems to be **lexical feature** of `PRON`. 100% lemmas (20) occur only with one value of `Person`.

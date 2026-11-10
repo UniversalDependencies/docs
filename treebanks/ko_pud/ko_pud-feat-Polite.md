@@ -131,10 +131,10 @@ The 10 most frequent relations where parent and child node agree in `Polite`:
 <tt>NOUN --[<tt><a href="ko_pud-dep-nmod-poss.html">nmod:poss</a></tt>]--> PROPN</tt> (99; 65%),
 <tt>NOUN --[<tt><a href="ko_pud-dep-conj.html">conj</a></tt>]--> NOUN</tt> (88; 53%),
 <tt>NOUN --[<tt><a href="ko_pud-dep-nmod-poss.html">nmod:poss</a></tt>]--> PRON</tt> (52; 69%),
+<tt>NOUN --[<tt><a href="ko_pud-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (8; 53%),
 <tt>PROPN --[<tt><a href="ko_pud-dep-nmod-poss.html">nmod:poss</a></tt>]--> NOUN</tt> (6; 75%),
 <tt>PROPN --[<tt><a href="ko_pud-dep-nmod-poss.html">nmod:poss</a></tt>]--> PROPN</tt> (6; 75%),
-<tt>PART --[<tt><a href="ko_pud-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (4; 67%),
 <tt>NOUN --[<tt><a href="ko_pud-dep-conj.html">conj</a></tt>]--> PROPN</tt> (3; 60%),
-<tt>PART --[<tt><a href="ko_pud-dep-compound-lvc.html">compound:lvc</a></tt>]--> NOUN</tt> (2; 100%),
-<tt>PART --[<tt><a href="ko_pud-dep-iobj.html">iobj</a></tt>]--> NOUN</tt> (2; 67%).
+<tt>PART --[<tt><a href="ko_pud-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (3; 60%),
+<tt>PART --[<tt><a href="ko_pud-dep-compound-lvc.html">compound:lvc</a></tt>]--> NOUN</tt> (2; 100%).
 

@@ -13,7 +13,7 @@ This relation is a language-specific subtype of <tt><a href="sga_dipwbg-dep-obl.
 17 instances of `obl:prep` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.11764705882353.
 
-The following 4 pairs of parts of speech are connected with `obl:prep`: <tt><a href="sga_dipwbg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sga_dipwbg-pos-ADP.html">ADP</a></tt> (7; 41% instances), <tt><a href="sga_dipwbg-pos-VERB.html">VERB</a></tt>-<tt><a href="sga_dipwbg-pos-ADP.html">ADP</a></tt> (5; 29% instances), <tt><a href="sga_dipwbg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sga_dipwbg-pos-ADP.html">ADP</a></tt> (4; 24% instances), <tt><a href="sga_dipwbg-pos-ADV.html">ADV</a></tt>-<tt><a href="sga_dipwbg-pos-ADP.html">ADP</a></tt> (1; 6% instances).
+The following 5 pairs of parts of speech are connected with `obl:prep`: <tt><a href="sga_dipwbg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sga_dipwbg-pos-ADP.html">ADP</a></tt> (6; 35% instances), <tt><a href="sga_dipwbg-pos-VERB.html">VERB</a></tt>-<tt><a href="sga_dipwbg-pos-ADP.html">ADP</a></tt> (5; 29% instances), <tt><a href="sga_dipwbg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sga_dipwbg-pos-ADP.html">ADP</a></tt> (4; 24% instances), <tt><a href="sga_dipwbg-pos-ADV.html">ADV</a></tt>-<tt><a href="sga_dipwbg-pos-ADP.html">ADP</a></tt> (1; 6% instances), <tt><a href="sga_dipwbg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sga_dipwbg-pos-ADP.html">ADP</a></tt> (1; 6% instances).
 
 
 ~~~ conllu

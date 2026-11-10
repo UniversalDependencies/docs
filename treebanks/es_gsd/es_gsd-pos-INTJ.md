@@ -31,7 +31,7 @@ The 10 most frequent ambiguous types:  <em>sí</em> (<tt><a href="es_gsd-pos-INT
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.326443).
+The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.335265).
 
 The 1st highest number of forms (1) was observed with the lemma “no”: <em>No</em>.
 
@@ -66,5 +66,5 @@ The highest child degree of a `INTJ` node is 3.
 
 Children of `INTJ` nodes are attached using 10 different relations: <tt><a href="es_gsd-dep-punct.html">punct</a></tt> (7; 41% instances), <tt><a href="es_gsd-dep-fixed.html">fixed</a></tt> (2; 12% instances), <tt><a href="es_gsd-dep-advmod.html">advmod</a></tt> (1; 6% instances), <tt><a href="es_gsd-dep-cc.html">cc</a></tt> (1; 6% instances), <tt><a href="es_gsd-dep-conj.html">conj</a></tt> (1; 6% instances), <tt><a href="es_gsd-dep-mark.html">mark</a></tt> (1; 6% instances), <tt><a href="es_gsd-dep-nmod.html">nmod</a></tt> (1; 6% instances), <tt><a href="es_gsd-dep-nsubj.html">nsubj</a></tt> (1; 6% instances), <tt><a href="es_gsd-dep-parataxis.html">parataxis</a></tt> (1; 6% instances), <tt><a href="es_gsd-dep-vocative.html">vocative</a></tt> (1; 6% instances)
 
-Children of `INTJ` nodes belong to 6 different parts of speech: <tt><a href="es_gsd-pos-PUNCT.html">PUNCT</a></tt> (7; 41% instances), <tt><a href="es_gsd-pos-CCONJ.html">CCONJ</a></tt> (3; 18% instances), <tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> (3; 18% instances), <tt><a href="es_gsd-pos-ADV.html">ADV</a></tt> (2; 12% instances), <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt> (1; 6% instances), <tt><a href="es_gsd-pos-SCONJ.html">SCONJ</a></tt> (1; 6% instances)
+Children of `INTJ` nodes belong to 6 different parts of speech: <tt><a href="es_gsd-pos-PUNCT.html">PUNCT</a></tt> (7; 41% instances), <tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> (3; 18% instances), <tt><a href="es_gsd-pos-SCONJ.html">SCONJ</a></tt> (3; 18% instances), <tt><a href="es_gsd-pos-ADV.html">ADV</a></tt> (2; 12% instances), <tt><a href="es_gsd-pos-CCONJ.html">CCONJ</a></tt> (1; 6% instances), <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt> (1; 6% instances)
 

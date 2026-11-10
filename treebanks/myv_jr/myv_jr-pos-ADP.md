@@ -6,10 +6,10 @@ udver: '2'
 
 ## Treebank Statistics: UD_Erzya-JR: POS Tags: `ADP`
 
-There are 49 `ADP` lemmas (1%), 101 `ADP` types (1%) and 479 `ADP` tokens (2%).
+There are 48 `ADP` lemmas (1%), 101 `ADP` types (1%) and 479 `ADP` tokens (2%).
 Out of 16 observed tags, the rank of `ADP` is: 7 in number of lemmas, 7 in number of types and 9 in number of tokens.
 
-The 10 most frequent `ADP` lemmas: <em>марто, мельга, эйсэ, эйстэ, кис, перька, вакссо, икеле, ваксс, каршо</em>
+The 10 most frequent `ADP` lemmas: <em>марто, мельга, эйсэ, эйстэ, кис, перька, вакссо, ваксс, икеле, каршо</em>
 
 The 10 most frequent `ADP` types:  <em>марто, мельга, кис, эйстэ, перька, мельганзо, ваксс, пачк, эйсэ, мартонзо</em>
 
@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>мельга</em> (<tt><a href="myv_j
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 2.061224 (the average of all parts of speech is 2.080836).
+The form / lemma ratio of `ADP` is 2.104167 (the average of all parts of speech is 2.083990).
 
 The 1st highest number of forms (8) was observed with the lemma “эйсэ”: <em>эйсэ, эйсэнек, эйсэнзэ, эйсэнк, эйсэнь, эйсэст, эйсэть, эснэнзэ</em>.
 
@@ -59,11 +59,11 @@ The 2nd highest number of forms (7) was observed with the lemma “вакссо�
 
 The 3rd highest number of forms (7) was observed with the lemma “марто”: <em>марто, мартонзо, мартонк, мартонок, мартост, мартот, мартояк</em>.
 
-`ADP` occurs with 10 features: <tt><a href="myv_jr-feat-AdpType.html">AdpType</a></tt> (357; 75% instances), <tt><a href="myv_jr-feat-Case.html">Case</a></tt> (248; 52% instances), <tt><a href="myv_jr-feat-AdvType.html">AdvType</a></tt> (126; 26% instances), <tt><a href="myv_jr-feat-Number-psor.html">Number[psor]</a></tt> (121; 25% instances), <tt><a href="myv_jr-feat-Person-psor.html">Person[psor]</a></tt> (121; 25% instances), <tt><a href="myv_jr-feat-Definite.html">Definite</a></tt> (13; 3% instances), <tt><a href="myv_jr-feat-Number.html">Number</a></tt> (11; 2% instances), <tt><a href="myv_jr-feat-Clitic.html">Clitic</a></tt> (8; 2% instances), <tt><a href="myv_jr-feat-Derivation.html">Derivation</a></tt> (2; 0% instances), <tt><a href="myv_jr-feat-ExtPos.html">ExtPos</a></tt> (1; 0% instances)
+`ADP` occurs with 11 features: <tt><a href="myv_jr-feat-AdpType.html">AdpType</a></tt> (357; 75% instances), <tt><a href="myv_jr-feat-Case.html">Case</a></tt> (248; 52% instances), <tt><a href="myv_jr-feat-AdvType.html">AdvType</a></tt> (126; 26% instances), <tt><a href="myv_jr-feat-Number-psor.html">Number[psor]</a></tt> (121; 25% instances), <tt><a href="myv_jr-feat-Person-psor.html">Person[psor]</a></tt> (121; 25% instances), <tt><a href="myv_jr-feat-Definite.html">Definite</a></tt> (13; 3% instances), <tt><a href="myv_jr-feat-Number.html">Number</a></tt> (11; 2% instances), <tt><a href="myv_jr-feat-Clitic.html">Clitic</a></tt> (8; 2% instances), <tt><a href="myv_jr-feat-Derivation.html">Derivation</a></tt> (2; 0% instances), <tt><a href="myv_jr-feat-ExtPos.html">ExtPos</a></tt> (1; 0% instances), <tt><a href="myv_jr-feat-Style.html">Style</a></tt> (1; 0% instances)
 
-`ADP` occurs with 23 feature-value pairs: `AdpType=Post`, `AdvType=Loc`, `AdvType=Tim`, `Case=Abl`, `Case=Dat`, `Case=Ela`, `Case=Ill`, `Case=Ine`, `Case=Lat`, `Case=Loc`, `Case=Prl`, `Clitic=Add`, `Definite=Ind`, `Derivation=AdvstO`, `Derivation=PronGak`, `ExtPos=ADV`, `Number=Plur,Sing`, `Number=Sing`, `Number[psor]=Plur`, `Number[psor]=Sing`, `Person[psor]=1`, `Person[psor]=2`, `Person[psor]=3`
+`ADP` occurs with 24 feature-value pairs: `AdpType=Post`, `AdvType=Loc`, `AdvType=Tim`, `Case=Abl`, `Case=Dat`, `Case=Ela`, `Case=Ill`, `Case=Ine`, `Case=Lat`, `Case=Loc`, `Case=Prl`, `Clitic=Add`, `Definite=Ind`, `Derivation=AdvstO`, `Derivation=PronGak`, `ExtPos=ADV`, `Number=Plur,Sing`, `Number=Sing`, `Number[psor]=Plur`, `Number[psor]=Sing`, `Person[psor]=1`, `Person[psor]=2`, `Person[psor]=3`, `Style=Arch`
 
-`ADP` occurs with 89 feature combinations.
+`ADP` occurs with 90 feature combinations.
 The most frequent feature combination is `AdpType=Post` (160 tokens).
 Examples: <em>марто, кис, мельга, эйстэ, кисэ, перька, пачк, ваксс, кувалт, перть</em>
 
@@ -84,7 +84,7 @@ Parents of `ADP` nodes belong to 10 different parts of speech: <tt><a href="myv_
 
 The highest child degree of a `ADP` node is 5.
 
-Children of `ADP` nodes are attached using 14 different relations: <tt><a href="myv_jr-dep-punct.html">punct</a></tt> (7; 23% instances), <tt><a href="myv_jr-dep-nmod.html">nmod</a></tt> (5; 17% instances), <tt><a href="myv_jr-dep-nsubj.html">nsubj</a></tt> (4; 13% instances), <tt><a href="myv_jr-dep-cop.html">cop</a></tt> (3; 10% instances), <tt><a href="myv_jr-dep-det.html">det</a></tt> (2; 7% instances), <tt><a href="myv_jr-dep-advcl.html">advcl</a></tt> (1; 3% instances), <tt><a href="myv_jr-dep-amod.html">amod</a></tt> (1; 3% instances), <tt><a href="myv_jr-dep-aux.html">aux</a></tt> (1; 3% instances), <tt><a href="myv_jr-dep-aux-neg.html">aux:neg</a></tt> (1; 3% instances), <tt><a href="myv_jr-dep-fixed.html">fixed</a></tt> (1; 3% instances), <tt><a href="myv_jr-dep-nummod.html">nummod</a></tt> (1; 3% instances), <tt><a href="myv_jr-dep-obl-cmp.html">obl:cmp</a></tt> (1; 3% instances), <tt><a href="myv_jr-dep-parataxis.html">parataxis</a></tt> (1; 3% instances), <tt><a href="myv_jr-dep-vocative.html">vocative</a></tt> (1; 3% instances)
+Children of `ADP` nodes are attached using 13 different relations: <tt><a href="myv_jr-dep-punct.html">punct</a></tt> (7; 23% instances), <tt><a href="myv_jr-dep-nmod.html">nmod</a></tt> (5; 17% instances), <tt><a href="myv_jr-dep-nsubj.html">nsubj</a></tt> (4; 13% instances), <tt><a href="myv_jr-dep-cop.html">cop</a></tt> (3; 10% instances), <tt><a href="myv_jr-dep-aux-neg.html">aux:neg</a></tt> (2; 7% instances), <tt><a href="myv_jr-dep-det.html">det</a></tt> (2; 7% instances), <tt><a href="myv_jr-dep-advcl.html">advcl</a></tt> (1; 3% instances), <tt><a href="myv_jr-dep-amod.html">amod</a></tt> (1; 3% instances), <tt><a href="myv_jr-dep-fixed.html">fixed</a></tt> (1; 3% instances), <tt><a href="myv_jr-dep-nummod.html">nummod</a></tt> (1; 3% instances), <tt><a href="myv_jr-dep-obl-cmp.html">obl:cmp</a></tt> (1; 3% instances), <tt><a href="myv_jr-dep-parataxis.html">parataxis</a></tt> (1; 3% instances), <tt><a href="myv_jr-dep-vocative.html">vocative</a></tt> (1; 3% instances)
 
 Children of `ADP` nodes belong to 10 different parts of speech: <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (7; 23% instances), <tt><a href="myv_jr-pos-PUNCT.html">PUNCT</a></tt> (7; 23% instances), <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (5; 17% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (3; 10% instances), <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (2; 7% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (2; 7% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> (1; 3% instances), <tt><a href="myv_jr-pos-DET.html">DET</a></tt> (1; 3% instances), <tt><a href="myv_jr-pos-NUM.html">NUM</a></tt> (1; 3% instances), <tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> (1; 3% instances)
 

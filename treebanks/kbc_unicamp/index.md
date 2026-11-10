@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.18 release
 The following people have contributed to making this treebank part of UD: Filomena Spatti Sandalo, Leonel Figueiredo de Alencar, Charlotte Chambelland Galves, Luiz Veronesi, Daniel Zeman.
 
 Repository: [UD_Kadiweu-Unicamp](https://github.com/UniversalDependencies/UD_Kadiweu-Unicamp)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udkbc_unicamp218)<br />
-Download all treebanks: [UD 2.18](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udkbc_unicamp219)<br />
+Download all treebanks: [UD 2.19](/#download)
 
 License: CC BY-NC-SA 4.0
 
@@ -44,18 +44,18 @@ Do not submit pull requests against the UD repository.
 
 ## Description
 
-UD_Kadiweu-UNICAMP is a treebank for [Kadiwéu](https://glottolog.org/resource/languoid/id/kadi1248) (ISO-639: `kbc`), an endangered Indigenous language of Brazil. It consists of isolated sentences produced by native speakers.
+UD_Kadiweu-Unicamp is a treebank for [Kadiwéu](https://glottolog.org/resource/languoid/id/kadi1248) (ISO-639: `kbc`), an endangered Indigenous language of Brazil. It consists of isolated sentences produced by native speakers.
 
 
 
 
 Kadiwéu is a polysynthetic language spoken in the state of Mato Grosso do Sul, Brazil. It is severely endangered: among approximately 1,500 Kadiwéu people, fewer than 300 speak the language, as many have shifted to Portuguese (Pires 2022). Kadiwéu is the only representative of the Waikurúan linguistic family in Brazil. This family includes four additional languages: Toba, Pilagá, and Mocoví, mostly spoken in Argentina, and Abipón, formerly spoken in Argentina but now extinct (Sandalo 1995).
 
-UD_Kadiweu-UNICAMP is the first treebank for a Waikurúan language in the UD collection, contributing to the documentation and computational modeling of a poorly documented and under-resourced language family. It is an ongoing project, currently consisting of isolated sentences produced by native speakers, most of which are translations of Portuguese sentences. Future versions will also include narratives and other genres.
+UD_Kadiweu-Unicamp is the first treebank for a Waikurúan language in the UD collection, contributing to the documentation and computational modeling of a poorly documented and under-resourced language family. It is an ongoing project, currently consisting of isolated sentences produced by native speakers, most of which are translations of Portuguese sentences. Future versions will also include narratives and other genres.
 
 ## Acknowledgments
 
-The construction of this treebank has been funded by the São Paulo Research Foundation (FAPESP) through the [DACILAT](https://bv.fapesp.br/57063) project (grant No. 22/09158-5). It is part of the postdoctoral research of Leonel Figueiredo de Alencar at the Department of Linguistics of the State University of Campinas (UNICAMP), under the supervision of Filomena Spatti Sandalo, coordinator of the DACILAT project, and in collaboration with Charlotte Chambelland Galves.
+The construction of this treebank has been funded by the São Paulo Research Foundation (FAPESP) through the [DACILAT](https://bv.fapesp.br/57063) project (grant No. 22/09158-5). It is part of the postdoctoral research of Leonel Figueiredo de Alencar at the Department of Linguistics of the State University of Campinas (Unicamp), under the supervision of Filomena Spatti Sandalo, coordinator of the DACILAT project, and in collaboration with Charlotte Chambelland Galves.
 
 We are much indebted to the speakers of Kadiwéu for sharing their knowledge of their language and for providing translations and acceptability judgements on constructed sentences.
 
@@ -82,25 +82,25 @@ We are much indebted to the speakers of Kadiwéu for sharing their knowledge of 
 
 ## POS Tags
 
-[ADJ](kbc_unicamp-pos-ADJ.html) – [ADV](kbc_unicamp-pos-ADV.html) – [AUX](kbc_unicamp-pos-AUX.html) – [DET](kbc_unicamp-pos-DET.html) – [NOUN](kbc_unicamp-pos-NOUN.html) – [PART](kbc_unicamp-pos-PART.html) – [PRON](kbc_unicamp-pos-PRON.html) – [PROPN](kbc_unicamp-pos-PROPN.html) – [PUNCT](kbc_unicamp-pos-PUNCT.html) – [SCONJ](kbc_unicamp-pos-SCONJ.html) – [VERB](kbc_unicamp-pos-VERB.html)
+[ADJ](kbc_unicamp-pos-ADJ.html) – [ADV](kbc_unicamp-pos-ADV.html) – [AUX](kbc_unicamp-pos-AUX.html) – [CCONJ](kbc_unicamp-pos-CCONJ.html) – [DET](kbc_unicamp-pos-DET.html) – [NOUN](kbc_unicamp-pos-NOUN.html) – [PART](kbc_unicamp-pos-PART.html) – [PRON](kbc_unicamp-pos-PRON.html) – [PROPN](kbc_unicamp-pos-PROPN.html) – [PUNCT](kbc_unicamp-pos-PUNCT.html) – [SCONJ](kbc_unicamp-pos-SCONJ.html) – [VERB](kbc_unicamp-pos-VERB.html)
 
 ## Features
 
-[AdvType](kbc_unicamp-feat-AdvType.html) – [Aspect](kbc_unicamp-feat-Aspect.html) – [Degree](kbc_unicamp-feat-Degree.html) – [Deixis](kbc_unicamp-feat-Deixis.html) – [Gender](kbc_unicamp-feat-Gender.html) – [Gender[obj]](kbc_unicamp-feat-Gender-obj.html) – [Mood](kbc_unicamp-feat-Mood.html) – [Number](kbc_unicamp-feat-Number.html) – [Number[obj]](kbc_unicamp-feat-Number-obj.html) – [Number[psor]](kbc_unicamp-feat-Number-psor.html) – [Person](kbc_unicamp-feat-Person.html) – [Person[erg]](kbc_unicamp-feat-Person-erg.html) – [Person[obj]](kbc_unicamp-feat-Person-obj.html) – [Person[psor]](kbc_unicamp-feat-Person-psor.html) – [Polarity](kbc_unicamp-feat-Polarity.html) – [Poss](kbc_unicamp-feat-Poss.html) – [PronType](kbc_unicamp-feat-PronType.html) – [VerbForm](kbc_unicamp-feat-VerbForm.html) – [Voice](kbc_unicamp-feat-Voice.html)
+[Aspect](kbc_unicamp-feat-Aspect.html) – [Degree](kbc_unicamp-feat-Degree.html) – [Gender](kbc_unicamp-feat-Gender.html) – [Gender[obj]](kbc_unicamp-feat-Gender-obj.html) – [Gender[spkr]](kbc_unicamp-feat-Gender-spkr.html) – [Mood](kbc_unicamp-feat-Mood.html) – [Number](kbc_unicamp-feat-Number.html) – [Number[erg]](kbc_unicamp-feat-Number-erg.html) – [Number[obj]](kbc_unicamp-feat-Number-obj.html) – [Number[psor]](kbc_unicamp-feat-Number-psor.html) – [Person](kbc_unicamp-feat-Person.html) – [Person[erg]](kbc_unicamp-feat-Person-erg.html) – [Person[obj]](kbc_unicamp-feat-Person-obj.html) – [Person[psor]](kbc_unicamp-feat-Person-psor.html) – [Polarity](kbc_unicamp-feat-Polarity.html) – [PronType](kbc_unicamp-feat-PronType.html) – [Typo](kbc_unicamp-feat-Typo.html) – [VerbForm](kbc_unicamp-feat-VerbForm.html) – [Voice](kbc_unicamp-feat-Voice.html)
 
 ## Relations
 
-[acl:relcl](kbc_unicamp-dep-acl-relcl.html) – [advcl](kbc_unicamp-dep-advcl.html) – [advmod](kbc_unicamp-dep-advmod.html) – [aux](kbc_unicamp-dep-aux.html) – [det](kbc_unicamp-dep-det.html) – [dislocated](kbc_unicamp-dep-dislocated.html) – [mark](kbc_unicamp-dep-mark.html) – [nmod:poss](kbc_unicamp-dep-nmod-poss.html) – [nsubj](kbc_unicamp-dep-nsubj.html) – [obj](kbc_unicamp-dep-obj.html) – [punct](kbc_unicamp-dep-punct.html) – [root](kbc_unicamp-dep-root.html)
+[acl:relcl](kbc_unicamp-dep-acl-relcl.html) – [advcl](kbc_unicamp-dep-advcl.html) – [advmod](kbc_unicamp-dep-advmod.html) – [amod](kbc_unicamp-dep-amod.html) – [aux](kbc_unicamp-dep-aux.html) – [cc](kbc_unicamp-dep-cc.html) – [conj](kbc_unicamp-dep-conj.html) – [det](kbc_unicamp-dep-det.html) – [dislocated](kbc_unicamp-dep-dislocated.html) – [expl](kbc_unicamp-dep-expl.html) – [mark](kbc_unicamp-dep-mark.html) – [nmod:poss](kbc_unicamp-dep-nmod-poss.html) – [nsubj](kbc_unicamp-dep-nsubj.html) – [obj](kbc_unicamp-dep-obj.html) – [parataxis](kbc_unicamp-dep-parataxis.html) – [punct](kbc_unicamp-dep-punct.html) – [root](kbc_unicamp-dep-root.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 71 sentences, 306 tokens and 318 syntactic words.</li>
+<li>This corpus contains 199 sentences, 857 tokens and 917 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 137 tokens (45%) that are not followed by a space.</li>
+<li>This corpus contains 398 tokens (46%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -112,8 +112,8 @@ We are much indebted to the speakers of Kadiwéu for sharing their knowledge of 
 </ul>
 
 <ul>
-<li>This corpus contains 12 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
-<li>There are 10 types of multi-word tokens. Examples: adakake, madi, aGipegetege, aGipegitegi, aidei, alidi, aneiwaGadi, anenapioi, meninitibeci, mijo.</li>
+<li>This corpus contains 59 multi-word tokens. On average, one multi-word token consists of 2.02 syntactic words.</li>
+<li>There are 28 types of multi-word tokens. Examples: adakake, midi, manitaGa, aGica, aGidininitibeci, minitaGa, aGee, ageliodi, aidejonaGa, ajipegitege, aneiwaGadi, madi, mica, aGeewi, aGeyo, aGidedonaGa, aGidejonaGa, aGipegetege, aGipegitegi, aidei, aidinitibeci, alidi, anenapioi, maditaGa, meetaGa, meninitibeci, mijo, mijotaGa.</li>
 </ul>
 
 <h2>Morphology</h2>
@@ -121,8 +121,8 @@ We are much indebted to the speakers of Kadiwéu for sharing their knowledge of 
 <h3>Tags</h3>
 
 <ul>
-<li>This corpus uses 11 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADV</a>, <a>AUX</a>, <a>DET</a>, <a>NOUN</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>VERB</a></li>
-<li>This corpus does not use the following tags: NUM, ADP, CCONJ, INTJ, SYM, X</li>
+<li>This corpus uses 12 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>NOUN</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>VERB</a></li>
+<li>This corpus does not use the following tags: NUM, ADP, INTJ, SYM, X</li>
 </ul>
 
 <ul>
@@ -130,15 +130,14 @@ We are much indebted to the speakers of Kadiwéu for sharing their knowledge of 
 </ul>
 
 <ul>
-<li>This corpus contains 10 lemmas tagged as pronouns (PRON): ane, da, di, ee, napioi, ni, niGida, niGidi, niGijo, niGina</li>
+<li>This corpus contains 6 lemmas tagged as pronouns (PRON): akaami, ane, ee, eetaGa, eeyo, oko</li>
 </ul>
 
 <ul>
-<li>This corpus contains 8 lemmas tagged as determiners (DET): adi, eliodi, ica, ijo, niGida, niGijo, niGina, niGini</li>
+<li>This corpus contains 16 lemmas tagged as determiners (DET): aditaGa, digoida, eliodi, ica, ida, idi, ijo, ijotaGa, ina, ini, ni, niGida, niGidi, niGijo, niGina, niGini</li>
 </ul>
 
 <ul>
-<li>Out of the above, 3 lemmas occurred sometimes as PRON and sometimes as DET: niGida, niGijo, niGina</li>
 </ul>
 
 <ul>
@@ -155,7 +154,7 @@ We are much indebted to the speakers of Kadiwéu for sharing their knowledge of 
 <ul>
   <li>Fin
   <ul>
-    <li>VERB: iwaGadi, idei, ipegitegi, ninitibeci, ipegetege, DapicoGo, Ninitibigiwaji, Te, dowediteloco, ipegitaGagi</li>
+    <li>VERB: iwaGadi, idei, dakake, ipegitegi, ninitibeci, ipegitege, dapicoGo, jipegitege, etee, DapicoGo</li>
   </ul>
   </li>
 </ul>
@@ -170,10 +169,10 @@ We are much indebted to the speakers of Kadiwéu for sharing their knowledge of 
 <ul>
   <li>Fem
     <ul>
-      <li>DET: ajo, NaGani, adi, NaGajo, naGana, naGani</li>
-      <li>NOUN: niwatece, wetiGa, Etogo, Iwalo, libiniena, liwatece, lomigo, nigotaGa, GanigotGa, Iwalepodi</li>
-      <li>PRON: naGada, naGadi, Ada, Adi, Ani, NaGajo, NaGana, naGajo</li>
-      <li>VERB: etadi</li>
+      <li>DET: ajo, ani, anitaGa, NaGani, adi, naGajo, naGani, NaGajo, naGada, naGadi</li>
+      <li>NOUN: nigotaGa, niwatece, wetiGa, iwaalo, etogo, liwatece, waca, etogoli, libiniena, lomigo</li>
+      <li>VERB: etadi, eteyo</li>
+      <li>VERB-Fin: eteyo</li>
     </ul>
   </li>
 </ul>
@@ -181,7 +180,7 @@ We are much indebted to the speakers of Kadiwéu for sharing their knowledge of 
 <ul>
   <li>Fem,Masc
     <ul>
-      <li>NOUN: lodawa, Gadodawa</li>
+      <li>NOUN: Gadodawa, leonigipi, lodawa, lionigipi, lodowa</li>
     </ul>
   </li>
 </ul>
@@ -189,10 +188,11 @@ We are much indebted to the speakers of Kadiwéu for sharing their knowledge of 
 <ul>
   <li>Masc
     <ul>
-      <li>DET: ica, NiGida, ijo, NiGijo</li>
-      <li>NOUN: iGeladi, libinienigi, liGeladi, looligi, naigi, weiigi, niganaGacanajo, nioladi, LotaGa, eyodi</li>
-      <li>PRON: ee</li>
+      <li>DET: ica, ijo, digoida, idi, nigidiwa, idiwa, niGijo, NiGijo, ina, initaGa</li>
+      <li>NOUN: liGeladi, iGeladi, libinienigi, weiigi, loojedi, libinienigipi, liwigo, looligi, naigi, Godoigi</li>
       <li>PROPN: João</li>
+      <li>VERB: etee, etidi, etini, etijo</li>
+      <li>VERB-Fin: etee, etidi, etini</li>
     </ul>
   </li>
 </ul>
@@ -205,9 +205,10 @@ We are much indebted to the speakers of Kadiwéu for sharing their knowledge of 
 <ul>
   <li>Plur
     <ul>
-      <li>DET: NiGinoa</li>
-      <li>NOUN: libinienaGa, libinienigipi, Iwalepodi, lionigipi, loigipodi, naodigijedi, wetiadi</li>
-      <li>VERB-Fin: Ninitibigiwaji</li>
+      <li>DET: nigidiwa, idiwa, ijoa, niGidowa, niGijoa, NiGidoa, NiGinoa, Nigijoa, idowa, ijotawece</li>
+      <li>NOUN: libinienaGa, libinienigipi, lixagotaGaGa, nigetedi, etogoli, lionaGa, lojetedi, wetiadi, bejoli, bijotedi</li>
+      <li>PRON: akaami</li>
+      <li>VERB-Fin: Ninitibigiwaji, dapikoGo</li>
     </ul>
   </li>
 </ul>
@@ -215,9 +216,11 @@ We are much indebted to the speakers of Kadiwéu for sharing their knowledge of 
 <ul>
   <li>Sing
     <ul>
-      <li>DET: ica, ajo, NaGani, NiGida, adi, ijo, NaGajo, NiGijo, naGana, naGani</li>
-      <li>NOUN: iGeladi, libinienigi, liGeladi, niwatece, looligi, naigi, weiigi, wetiGa, niganaGacanajo, nioladi</li>
-      <li>PRON: naGada, naGadi, Ada, Adi, Ani, NaGajo, NaGana, ee</li>
+      <li>DET: ica, ajo, ijo, anitaGa, digoida, niGijo, NaGani, NiGijo, adi, idi</li>
+      <li>NOUN: liGeladi, iGeladi, libinienigi, nigotaGa, weiigi, niwatece, wetiGa, iwaalo, loojedi, iGonagi</li>
+      <li>PRON: ee, eyo, Eeyo, eetaGa</li>
+      <li>VERB: etee, dapicoGo, dininitibeci, DapicoGo, eteyo, etidi, etijo, idininitebeci, idinitibeci, ixagodi</li>
+      <li>VERB-Fin: etee, dapicoGo, dininitibeci, DapicoGo, eteyo, etidi, idininitebeci, idinitibeci, ixagodi</li>
     </ul>
   </li>
 </ul>
@@ -235,7 +238,7 @@ We are much indebted to the speakers of Kadiwéu for sharing their knowledge of 
 <ul>
   <li>Dim
     <ul>
-      <li>NOUN: libinienigi, libiniena, libinienaGa, libinienigipi, niganigawanigi</li>
+      <li>NOUN: libinienigi, libinienaGa, libinienigipi, nigaanigawaanigi, libiniena, niganigawanigi, liwaGatena</li>
     </ul>
   </li>
 </ul>
@@ -275,7 +278,8 @@ We are much indebted to the speakers of Kadiwéu for sharing their knowledge of 
 <ul>
   <li>Ind
     <ul>
-      <li>VERB-Fin: iwaGadi, idei, ipegitegi, ninitibeci, ipegetege, DapicoGo, Ninitibigiwaji, Te, dowediteloco, ipegitaGagi</li>
+      <li>VERB: iwaGadi, idei, dakake, ipegitegi, ninitibeci, ipegitege, dapicoGo, jipegitege, etee, DapicoGo</li>
+      <li>VERB-Fin: iwaGadi, idei, dakake, ipegitegi, ninitibeci, ipegitege, dapicoGo, jipegitege, etee, DapicoGo</li>
     </ul>
   </li>
 </ul>
@@ -288,8 +292,8 @@ We are much indebted to the speakers of Kadiwéu for sharing their knowledge of 
 <ul>
   <li>Appl
     <ul>
-      <li>VERB: ipegitegi, eniteloco, ipegetege, dowediteloco, ipegitaGagi, ipegitege</li>
-      <li>VERB-Fin: ipegitegi, ipegetege, dowediteloco, ipegitaGagi, ipegitege</li>
+      <li>VERB: ipegitegi, ipegitege, jipegitege, eniteloco, jipacaGataGagitiwaji, ipegetege, JipecaGataGagi, dowediteloco, ipegitaGagi, jigipegitege</li>
+      <li>VERB-Fin: ipegitegi, ipegitege, jipegitege, jipacaGataGagitiwaji, eniteloco, ipegetege, JipecaGataGagi, dowediteloco, ipegitaGagi, jigipegitege</li>
     </ul>
   </li>
 </ul>
@@ -297,7 +301,8 @@ We are much indebted to the speakers of Kadiwéu for sharing their knowledge of 
 <ul>
   <li>Inv
     <ul>
-      <li>VERB: dapiko</li>
+      <li>VERB: dakake, dapico, dapicoGo, idejonaGa, DapicoGo, dininitibeci, DapipocoGo, dapikoGo, ideaGi, idedonaGa</li>
+      <li>VERB-Fin: dakake, dapicoGo, idejonaGa, DapicoGo, dininitibeci, DapipocoGo, dapikoGo, ideaGi, idedonaGa, idininitebeci</li>
     </ul>
   </li>
 </ul>
@@ -313,9 +318,7 @@ We are much indebted to the speakers of Kadiwéu for sharing their knowledge of 
 <ul>
   <li>Dem
     <ul>
-      <li>ADV: digoida</li>
-      <li>DET: ica, ajo, NaGani, NiGida, adi, ijo, NaGajo, NiGijo, NiGinoa, naGana</li>
-      <li>PRON: naGada, naGadi, Ada, Adi, Ani, NaGajo, NaGana, naGajo</li>
+      <li>DET: ica, idi, ajo, ijo, ani, anitaGa, digoida, nigidiwa, idiwa, niGijo</li>
     </ul>
   </li>
 </ul>
@@ -332,7 +335,7 @@ We are much indebted to the speakers of Kadiwéu for sharing their knowledge of 
 <ul>
   <li>Prs
     <ul>
-      <li>PRON: ee</li>
+      <li>PRON: ee, eyo, oko, Eeyo, akaami, eetaGa</li>
     </ul>
   </li>
 </ul>
@@ -346,17 +349,6 @@ We are much indebted to the speakers of Kadiwéu for sharing their knowledge of 
 </ul>
 
 
-<ul>
-  <li><a>Poss</a></li>
-</ul>
-
-<ul>
-  <li>Yes
-    <ul>
-      <li>PRON: naGajo</li>
-    </ul>
-  </li>
-</ul>
 
 
 <ul>
@@ -366,7 +358,8 @@ We are much indebted to the speakers of Kadiwéu for sharing their knowledge of 
 <ul>
   <li>1
     <ul>
-      <li>PRON: ee</li>
+      <li>PRON: ee, eyo, Eeyo, eetaGa</li>
+      <li>VERB-Fin: etee, dininitibeci, eteyo, idininitebeci, idinitibeci, idiwaaGadi</li>
     </ul>
   </li>
 </ul>
@@ -374,8 +367,8 @@ We are much indebted to the speakers of Kadiwéu for sharing their knowledge of 
 <ul>
   <li>3
     <ul>
-      <li>VERB: iwaGadi, ninitibeci, etadi, DapicoGo, Ninitibigiwaji</li>
-      <li>VERB-Fin: iwaGadi, ninitibeci, DapicoGo, Ninitibigiwaji</li>
+      <li>VERB: iwaGadi, dakake, ninitibeci, etadi, dapicoGo, ninitibigiwaji, DapicoGo, etidi, etijo, ixagodi</li>
+      <li>VERB-Fin: iwaGadi, dakake, ninitibeci, dapicoGo, ninitibigiwaji, DapicoGo, etidi, ixagodi, ninitibeke</li>
     </ul>
   </li>
 </ul>
@@ -387,9 +380,17 @@ We are much indebted to the speakers of Kadiwéu for sharing their knowledge of 
 </ul>
 
 <ul>
+  <li>Plur
+    <ul>
+      <li>NOUN: Godoigi</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li>Sing
     <ul>
-      <li>NOUN: iGeladi, eyodi, iGonagi</li>
+      <li>NOUN: iGeladi, eyodi, iGonagi, iniKGigi</li>
     </ul>
   </li>
 </ul>
@@ -398,40 +399,50 @@ We are much indebted to the speakers of Kadiwéu for sharing their knowledge of 
 
 
 <ul>
-  <li><a>AdvType</a>
-    <ul>
-      <li>Loc
-        <ul>
-          <li>ADV: digoida</li>
-        </ul>
-      </li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
-  <li><a>Deixis</a>
-    <ul>
-      <li>Remt
-        <ul>
-          <li>ADV: digoida</li>
-        </ul>
-      </li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
   <li><a>Gender[obj]</a>
     <ul>
       <li>Fem
         <ul>
-          <li>VERB-Fin: ipegetege</li>
+          <li>VERB-Fin: ipegetege, ipegitege, jigipegitege, jipegitege</li>
         </ul>
       </li>
       <li>Masc
         <ul>
-          <li>VERB-Fin: ipegitegi</li>
+          <li>VERB-Fin: ipegitegi, jigipegitegi, jipegitegi</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>Gender[spkr]</a>
+    <ul>
+      <li>Fem
+        <ul>
+          <li>PRON: eyo, Eeyo</li>
+        </ul>
+      </li>
+      <li>Masc
+        <ul>
+          <li>PRON: ee</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>Number[erg]</a>
+    <ul>
+      <li>Plur
+        <ul>
+          <li>VERB-Fin: idejonaGa, jipacaGataGagitiwaji, JipecaGataGagi, idedonaGa, jipecaGataGagi, jipecaGataGagitiwaji</li>
+        </ul>
+      </li>
+      <li>Sing
+        <ul>
+          <li>VERB-Fin: idei, jipegitege, ipegitege, ideaGi, ipegitegi, jigipegitege, jigipegitegi, jipegitegi</li>
         </ul>
       </li>
     </ul>
@@ -441,9 +452,14 @@ We are much indebted to the speakers of Kadiwéu for sharing their knowledge of 
 <ul>
   <li><a>Number[obj]</a>
     <ul>
+      <li>Plur
+        <ul>
+          <li>VERB-Fin: jipacaGataGagitiwaji, jipecaGataGagitiwaji</li>
+        </ul>
+      </li>
       <li>Sing
         <ul>
-          <li>VERB-Fin: ipegitaGagi</li>
+          <li>VERB-Fin: ipegitaGagi, jipegitege, jipegitegi</li>
         </ul>
       </li>
     </ul>
@@ -453,9 +469,14 @@ We are much indebted to the speakers of Kadiwéu for sharing their knowledge of 
 <ul>
   <li><a>Person[erg]</a>
     <ul>
+      <li>1
+        <ul>
+          <li>VERB-Fin: jipegitege, idejonaGa, jipacaGataGagitiwaji, JipecaGataGagi, eniteloco, idedonaGa, jigipegitege, jigipegitegi, jipecaGataGagi, jipecaGataGagitiwaji</li>
+        </ul>
+      </li>
       <li>3
         <ul>
-          <li>VERB-Fin: idei, ipegitegi, ipegetege, dowediteloco, ipegitaGagi, ipegitege</li>
+          <li>VERB-Fin: idei, ipegitegi, ipegitege, ipegetege, dowediteloco, eniteloco, ideaGi, ideiticoaci, ipegitaGagi, noxilece</li>
         </ul>
       </li>
     </ul>
@@ -467,12 +488,12 @@ We are much indebted to the speakers of Kadiwéu for sharing their knowledge of 
     <ul>
       <li>2
         <ul>
-          <li>VERB-Fin: ipegitaGagi</li>
+          <li>VERB-Fin: jipacaGataGagitiwaji, ipegitaGagi, jipecaGataGagi, jipecaGataGagitiwaji</li>
         </ul>
       </li>
       <li>3
         <ul>
-          <li>VERB-Fin: ipegitegi, ipegetege, ipegitege</li>
+          <li>VERB-Fin: ipegitegi, ipegitege, jipegitege, eniteloco, ipegetege, jigipegitege, jigipegitegi, jipegitegi</li>
         </ul>
       </li>
     </ul>
@@ -484,17 +505,31 @@ We are much indebted to the speakers of Kadiwéu for sharing their knowledge of 
     <ul>
       <li>1
         <ul>
-          <li>NOUN: iGeladi, eyodi, iGonagi</li>
+          <li>NOUN: iGeladi, Godoigi, eyodi, iGonagi, iniKGigi, inikeGegi</li>
         </ul>
       </li>
       <li>2
         <ul>
-          <li>NOUN: Gadodawa, GanigotGa, Ganioxoa, Ganixoa, Gawenigi</li>
+          <li>NOUN: Gadodawa, Gawenigi, GanaaginaGa, GanaginaGa, GanigotGa, Ganioxoa, Ganixoa</li>
         </ul>
       </li>
       <li>3
         <ul>
-          <li>NOUN: libinienigi, liGeladi, looligi, lidi, nioladi, LotaGa, libiniena, libinienaGa, libinienigipi, lidGegi</li>
+          <li>NOUN: ligeladi, libinienigi, libinienaGa, loojedi, libinienigipi, liwigo, looligi, liwatece, libiniena, lidi</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>Typo</a>
+    <ul>
+      <li>Yes
+        <ul>
+          <li>DET: Nigijoa</li>
+          <li>NOUN: ligeladi</li>
+          <li>VERB-Fin: DapipocoGo, eniteloco</li>
         </ul>
       </li>
     </ul>
@@ -519,9 +554,10 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN (6)</li>
-      <li>VERB-Fin--NOUN (26)</li>
-      <li>VERB-Fin--PRON (11)</li>
+      <li>VERB--NOUN (10)</li>
+      <li>VERB--PRON (2)</li>
+      <li>VERB-Fin--NOUN (80)</li>
+      <li>VERB-Fin--PRON (17)</li>
     </ul>
   </li>
 </ul>
@@ -530,7 +566,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>obj</a>
     <ul>
       <li>VERB--NOUN (3)</li>
-      <li>VERB-Fin--NOUN (15)</li>
+      <li>VERB-Fin--NOUN (40)</li>
+      <li>VERB-Fin--PRON (2)</li>
     </ul>
   </li>
 </ul>
@@ -550,5 +587,5 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
 <li>This corpus uses 2 relation subtypes: <a>acl:relcl</a>, <a>nmod:poss</a></li>
 <li>The following 2 main types are not used alone, they are always subtyped: <a>acl</a>, <a>nmod</a></li>
-<li>The following 25 relation types are not used in this corpus at all: <a>iobj</a>, <a>csubj</a>, <a>ccomp</a>, <a>xcomp</a>, <a>obl</a>, <a>vocative</a>, <a>expl</a>, <a>discourse</a>, <a>cop</a>, <a>appos</a>, <a>nummod</a>, <a>amod</a>, <a>clf</a>, <a>case</a>, <a>conj</a>, <a>cc</a>, <a>fixed</a>, <a>flat</a>, <a>compound</a>, <a>list</a>, <a>parataxis</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
+<li>The following 20 relation types are not used in this corpus at all: <a>iobj</a>, <a>csubj</a>, <a>ccomp</a>, <a>xcomp</a>, <a>obl</a>, <a>vocative</a>, <a>discourse</a>, <a>cop</a>, <a>appos</a>, <a>nummod</a>, <a>clf</a>, <a>case</a>, <a>fixed</a>, <a>flat</a>, <a>compound</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
 </ul>

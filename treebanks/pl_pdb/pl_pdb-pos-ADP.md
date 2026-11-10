@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Polish-PDB: POS Tags: `ADP`
 
-There are 71 `ADP` lemmas (0%), 82 `ADP` types (0%) and 37159 `ADP` tokens (11%).
+There are 72 `ADP` lemmas (0%), 83 `ADP` types (0%) and 37166 `ADP` tokens (11%).
 Out of 17 observed tags, the rank of `ADP` is: 9 in number of lemmas, 11 in number of types and 4 in number of tokens.
 
 The 10 most frequent `ADP` lemmas: <em>w, na, z, do, o, po, za, od, przez, dla</em>
@@ -55,7 +55,7 @@ The 10 most frequent ambiguous types:  <em>w</em> (<tt><a href="pl_pdb-pos-ADP.h
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.154930 (the average of all parts of speech is 1.965463).
+The form / lemma ratio of `ADP` is 1.152778 (the average of all parts of speech is 1.965431).
 
 The 1st highest number of forms (2) was observed with the lemma “bez”: <em>bez, beze</em>.
 
@@ -63,24 +63,24 @@ The 2nd highest number of forms (2) was observed with the lemma “do”: <em>do
 
 The 3rd highest number of forms (2) was observed with the lemma “między”: <em>miedzy, między</em>.
 
-`ADP` occurs with 5 features: <tt><a href="pl_pdb-feat-AdpType.html">AdpType</a></tt> (37143; 100% instances), <tt><a href="pl_pdb-feat-Variant.html">Variant</a></tt> (19624; 53% instances), <tt><a href="pl_pdb-feat-ExtPos.html">ExtPos</a></tt> (2537; 7% instances), <tt><a href="pl_pdb-feat-Case.html">Case</a></tt> (69; 0% instances), <tt><a href="pl_pdb-feat-Abbr.html">Abbr</a></tt> (16; 0% instances)
+`ADP` occurs with 5 features: <tt><a href="pl_pdb-feat-AdpType.html">AdpType</a></tt> (37143; 100% instances), <tt><a href="pl_pdb-feat-Variant.html">Variant</a></tt> (19624; 53% instances), <tt><a href="pl_pdb-feat-ExtPos.html">ExtPos</a></tt> (2538; 7% instances), <tt><a href="pl_pdb-feat-Case.html">Case</a></tt> (69; 0% instances), <tt><a href="pl_pdb-feat-Abbr.html">Abbr</a></tt> (23; 0% instances)
 
 `ADP` occurs with 11 feature-value pairs: `Abbr=Yes`, `AdpType=Post`, `AdpType=Prep`, `Case=Acc`, `ExtPos=ADP`, `ExtPos=ADV`, `ExtPos=CCONJ`, `ExtPos=PART`, `ExtPos=SCONJ`, `Variant=Long`, `Variant=Short`
 
 `ADP` occurs with 16 feature combinations.
-The most frequent feature combination is `AdpType=Prep|Variant=Short` (17084 tokens).
+The most frequent feature combination is `AdpType=Prep|Variant=Short` (17083 tokens).
 Examples: <em>w, z, od, przez, przed, nad, pod, bez, poprzez, spod</em>
 
 
 ## Relations
 
-`ADP` nodes are attached to their parents using 13 different relations: <tt><a href="pl_pdb-dep-case.html">case</a></tt> (35981; 97% instances), <tt><a href="pl_pdb-dep-fixed.html">fixed</a></tt> (510; 1% instances), <tt><a href="pl_pdb-dep-advmod-emph.html">advmod:emph</a></tt> (477; 1% instances), <tt><a href="pl_pdb-dep-mark.html">mark</a></tt> (87; 0% instances), <tt><a href="pl_pdb-dep-advmod.html">advmod</a></tt> (75; 0% instances), <tt><a href="pl_pdb-dep-cc.html">cc</a></tt> (8; 0% instances), <tt><a href="pl_pdb-dep-conj.html">conj</a></tt> (5; 0% instances), <tt><a href="pl_pdb-dep-dep.html">dep</a></tt> (4; 0% instances), <tt><a href="pl_pdb-dep-obl-orphan.html">obl:orphan</a></tt> (4; 0% instances), <tt><a href="pl_pdb-dep-acl-relcl.html">acl:relcl</a></tt> (2; 0% instances), <tt><a href="pl_pdb-dep-appos.html">appos</a></tt> (2; 0% instances), <tt><a href="pl_pdb-dep-nmod.html">nmod</a></tt> (2; 0% instances), <tt><a href="pl_pdb-dep-parataxis-insert.html">parataxis:insert</a></tt> (2; 0% instances)
+`ADP` nodes are attached to their parents using 13 different relations: <tt><a href="pl_pdb-dep-case.html">case</a></tt> (35988; 97% instances), <tt><a href="pl_pdb-dep-fixed.html">fixed</a></tt> (510; 1% instances), <tt><a href="pl_pdb-dep-advmod-emph.html">advmod:emph</a></tt> (477; 1% instances), <tt><a href="pl_pdb-dep-mark.html">mark</a></tt> (87; 0% instances), <tt><a href="pl_pdb-dep-advmod.html">advmod</a></tt> (75; 0% instances), <tt><a href="pl_pdb-dep-cc.html">cc</a></tt> (8; 0% instances), <tt><a href="pl_pdb-dep-conj.html">conj</a></tt> (5; 0% instances), <tt><a href="pl_pdb-dep-dep.html">dep</a></tt> (4; 0% instances), <tt><a href="pl_pdb-dep-obl-orphan.html">obl:orphan</a></tt> (4; 0% instances), <tt><a href="pl_pdb-dep-acl-relcl.html">acl:relcl</a></tt> (2; 0% instances), <tt><a href="pl_pdb-dep-appos.html">appos</a></tt> (2; 0% instances), <tt><a href="pl_pdb-dep-nmod.html">nmod</a></tt> (2; 0% instances), <tt><a href="pl_pdb-dep-parataxis-insert.html">parataxis:insert</a></tt> (2; 0% instances)
 
-Parents of `ADP` nodes belong to 12 different parts of speech: <tt><a href="pl_pdb-pos-NOUN.html">NOUN</a></tt> (29737; 80% instances), <tt><a href="pl_pdb-pos-PRON.html">PRON</a></tt> (2534; 7% instances), <tt><a href="pl_pdb-pos-PROPN.html">PROPN</a></tt> (2345; 6% instances), <tt><a href="pl_pdb-pos-ADJ.html">ADJ</a></tt> (757; 2% instances), <tt><a href="pl_pdb-pos-DET.html">DET</a></tt> (591; 2% instances), <tt><a href="pl_pdb-pos-ADV.html">ADV</a></tt> (413; 1% instances), <tt><a href="pl_pdb-pos-VERB.html">VERB</a></tt> (403; 1% instances), <tt><a href="pl_pdb-pos-ADP.html">ADP</a></tt> (266; 1% instances), <tt><a href="pl_pdb-pos-NUM.html">NUM</a></tt> (51; 0% instances), <tt><a href="pl_pdb-pos-X.html">X</a></tt> (36; 0% instances), <tt><a href="pl_pdb-pos-PART.html">PART</a></tt> (25; 0% instances), <tt><a href="pl_pdb-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
+Parents of `ADP` nodes belong to 12 different parts of speech: <tt><a href="pl_pdb-pos-NOUN.html">NOUN</a></tt> (29744; 80% instances), <tt><a href="pl_pdb-pos-PRON.html">PRON</a></tt> (2534; 7% instances), <tt><a href="pl_pdb-pos-PROPN.html">PROPN</a></tt> (2345; 6% instances), <tt><a href="pl_pdb-pos-ADJ.html">ADJ</a></tt> (757; 2% instances), <tt><a href="pl_pdb-pos-DET.html">DET</a></tt> (591; 2% instances), <tt><a href="pl_pdb-pos-ADV.html">ADV</a></tt> (413; 1% instances), <tt><a href="pl_pdb-pos-VERB.html">VERB</a></tt> (403; 1% instances), <tt><a href="pl_pdb-pos-ADP.html">ADP</a></tt> (266; 1% instances), <tt><a href="pl_pdb-pos-NUM.html">NUM</a></tt> (51; 0% instances), <tt><a href="pl_pdb-pos-X.html">X</a></tt> (36; 0% instances), <tt><a href="pl_pdb-pos-PART.html">PART</a></tt> (25; 0% instances), <tt><a href="pl_pdb-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
 
-34590 (93%) `ADP` nodes are leaves.
+34589 (93%) `ADP` nodes are leaves.
 
-2249 (6%) `ADP` nodes have one child.
+2257 (6%) `ADP` nodes have one child.
 
 308 (1%) `ADP` nodes have two children.
 
@@ -88,7 +88,7 @@ Parents of `ADP` nodes belong to 12 different parts of speech: <tt><a href="pl_p
 
 The highest child degree of a `ADP` node is 3.
 
-Children of `ADP` nodes are attached using 10 different relations: <tt><a href="pl_pdb-dep-fixed.html">fixed</a></tt> (2823; 97% instances), <tt><a href="pl_pdb-dep-punct.html">punct</a></tt> (57; 2% instances), <tt><a href="pl_pdb-dep-conj.html">conj</a></tt> (5; 0% instances), <tt><a href="pl_pdb-dep-advmod-emph.html">advmod:emph</a></tt> (4; 0% instances), <tt><a href="pl_pdb-dep-cc.html">cc</a></tt> (4; 0% instances), <tt><a href="pl_pdb-dep-nmod-flat.html">nmod:flat</a></tt> (3; 0% instances), <tt><a href="pl_pdb-dep-nsubj.html">nsubj</a></tt> (2; 0% instances), <tt><a href="pl_pdb-dep-cc-preconj.html">cc:preconj</a></tt> (1; 0% instances), <tt><a href="pl_pdb-dep-cop.html">cop</a></tt> (1; 0% instances), <tt><a href="pl_pdb-dep-obj.html">obj</a></tt> (1; 0% instances)
+Children of `ADP` nodes are attached using 10 different relations: <tt><a href="pl_pdb-dep-fixed.html">fixed</a></tt> (2824; 97% instances), <tt><a href="pl_pdb-dep-punct.html">punct</a></tt> (64; 2% instances), <tt><a href="pl_pdb-dep-conj.html">conj</a></tt> (5; 0% instances), <tt><a href="pl_pdb-dep-advmod-emph.html">advmod:emph</a></tt> (4; 0% instances), <tt><a href="pl_pdb-dep-cc.html">cc</a></tt> (4; 0% instances), <tt><a href="pl_pdb-dep-nmod-flat.html">nmod:flat</a></tt> (3; 0% instances), <tt><a href="pl_pdb-dep-nsubj.html">nsubj</a></tt> (2; 0% instances), <tt><a href="pl_pdb-dep-cc-preconj.html">cc:preconj</a></tt> (1; 0% instances), <tt><a href="pl_pdb-dep-cop.html">cop</a></tt> (1; 0% instances), <tt><a href="pl_pdb-dep-obj.html">obj</a></tt> (1; 0% instances)
 
-Children of `ADP` nodes belong to 14 different parts of speech: <tt><a href="pl_pdb-pos-NOUN.html">NOUN</a></tt> (2254; 78% instances), <tt><a href="pl_pdb-pos-ADP.html">ADP</a></tt> (266; 9% instances), <tt><a href="pl_pdb-pos-PRON.html">PRON</a></tt> (146; 5% instances), <tt><a href="pl_pdb-pos-ADV.html">ADV</a></tt> (100; 3% instances), <tt><a href="pl_pdb-pos-PUNCT.html">PUNCT</a></tt> (57; 2% instances), <tt><a href="pl_pdb-pos-SCONJ.html">SCONJ</a></tt> (27; 1% instances), <tt><a href="pl_pdb-pos-ADJ.html">ADJ</a></tt> (19; 1% instances), <tt><a href="pl_pdb-pos-CCONJ.html">CCONJ</a></tt> (13; 0% instances), <tt><a href="pl_pdb-pos-X.html">X</a></tt> (10; 0% instances), <tt><a href="pl_pdb-pos-PART.html">PART</a></tt> (4; 0% instances), <tt><a href="pl_pdb-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="pl_pdb-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="pl_pdb-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="pl_pdb-pos-NUM.html">NUM</a></tt> (1; 0% instances)
+Children of `ADP` nodes belong to 14 different parts of speech: <tt><a href="pl_pdb-pos-NOUN.html">NOUN</a></tt> (2255; 78% instances), <tt><a href="pl_pdb-pos-ADP.html">ADP</a></tt> (266; 9% instances), <tt><a href="pl_pdb-pos-PRON.html">PRON</a></tt> (146; 5% instances), <tt><a href="pl_pdb-pos-ADV.html">ADV</a></tt> (100; 3% instances), <tt><a href="pl_pdb-pos-PUNCT.html">PUNCT</a></tt> (64; 2% instances), <tt><a href="pl_pdb-pos-SCONJ.html">SCONJ</a></tt> (27; 1% instances), <tt><a href="pl_pdb-pos-ADJ.html">ADJ</a></tt> (19; 1% instances), <tt><a href="pl_pdb-pos-CCONJ.html">CCONJ</a></tt> (13; 0% instances), <tt><a href="pl_pdb-pos-X.html">X</a></tt> (10; 0% instances), <tt><a href="pl_pdb-pos-PART.html">PART</a></tt> (4; 0% instances), <tt><a href="pl_pdb-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="pl_pdb-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="pl_pdb-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="pl_pdb-pos-NUM.html">NUM</a></tt> (1; 0% instances)
 

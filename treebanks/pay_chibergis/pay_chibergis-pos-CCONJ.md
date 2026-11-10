@@ -15,7 +15,7 @@ The 10 most frequent `CCONJ` types:  <em>=arin, =rina, ĩka, =narina, =ri, akrek
 
 The 10 most frequent ambiguous lemmas: <em>=rina</em> (<tt><a href="pay_chibergis-pos-ADV.html">ADV</a></tt> 4, <tt><a href="pay_chibergis-pos-CCONJ.html">CCONJ</a></tt> 2), <em>ĩka</em> (<tt><a href="pay_chibergis-pos-PART.html">PART</a></tt> 15, <tt><a href="pay_chibergis-pos-CCONJ.html">CCONJ</a></tt> 2), <em>=ri</em> (<tt><a href="pay_chibergis-pos-ADP.html">ADP</a></tt> 7, <tt><a href="pay_chibergis-pos-PART.html">PART</a></tt> 4, <tt><a href="pay_chibergis-pos-CCONJ.html">CCONJ</a></tt> 1), <em>akreke</em> (<tt><a href="pay_chibergis-pos-ADV.html">ADV</a></tt> 1, <tt><a href="pay_chibergis-pos-CCONJ.html">CCONJ</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>=rina</em> (<tt><a href="pay_chibergis-pos-ADV.html">ADV</a></tt> 4, <tt><a href="pay_chibergis-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="pay_chibergis-pos-PART.html">PART</a></tt> 1), <em>ĩka</em> (<tt><a href="pay_chibergis-pos-PART.html">PART</a></tt> 15, <tt><a href="pay_chibergis-pos-CCONJ.html">CCONJ</a></tt> 2), <em>=ri</em> (<tt><a href="pay_chibergis-pos-AUX.html">AUX</a></tt> 20, <tt><a href="pay_chibergis-pos-ADP.html">ADP</a></tt> 17, <tt><a href="pay_chibergis-pos-PART.html">PART</a></tt> 4, <tt><a href="pay_chibergis-pos-CCONJ.html">CCONJ</a></tt> 1), <em>akreke</em> (<tt><a href="pay_chibergis-pos-ADV.html">ADV</a></tt> 1, <tt><a href="pay_chibergis-pos-CCONJ.html">CCONJ</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>=rina</em> (<tt><a href="pay_chibergis-pos-ADV.html">ADV</a></tt> 4, <tt><a href="pay_chibergis-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="pay_chibergis-pos-PART.html">PART</a></tt> 1), <em>ĩka</em> (<tt><a href="pay_chibergis-pos-PART.html">PART</a></tt> 15, <tt><a href="pay_chibergis-pos-CCONJ.html">CCONJ</a></tt> 2), <em>=ri</em> (<tt><a href="pay_chibergis-pos-AUX.html">AUX</a></tt> 20, <tt><a href="pay_chibergis-pos-ADP.html">ADP</a></tt> 19, <tt><a href="pay_chibergis-pos-PART.html">PART</a></tt> 4, <tt><a href="pay_chibergis-pos-CCONJ.html">CCONJ</a></tt> 1), <em>akreke</em> (<tt><a href="pay_chibergis-pos-ADV.html">ADV</a></tt> 1, <tt><a href="pay_chibergis-pos-CCONJ.html">CCONJ</a></tt> 1)
 
 
 * <em>=rina</em>
@@ -27,7 +27,7 @@ The 10 most frequent ambiguous types:  <em>=rina</em> (<tt><a href="pay_chibergi
   * <tt><a href="pay_chibergis-pos-CCONJ.html">CCONJ</a></tt> 2: <em><b>ĩka</b> tʃena as patasã pataya sa =yã tʃaui =kan =yã</em>
 * <em>=ri</em>
   * <tt><a href="pay_chibergis-pos-AUX.html">AUX</a></tt> 20: <em>tekiʃka <b>=ri</b> ã kaʔo =ma pẽh krahã =yo</em>
-  * <tt><a href="pay_chibergis-pos-ADP.html">ADP</a></tt> 17: <em>ĩ =kan ãri <b>=ri</b> ĩ =kan ũtas =mã nĩhã ũtatũheri ĩ =ɲa artʃuiʃbarpi =ra</em>
+  * <tt><a href="pay_chibergis-pos-ADP.html">ADP</a></tt> 19: <em>aka ye =s ã =yo awarahkawa awarahkawa ã =yã atʃahawa waroh <b>=ri</b></em>
   * <tt><a href="pay_chibergis-pos-PART.html">PART</a></tt> 4: <em>tasuwa =yo takaki =yo taoʔk aye mãyhi tas <b>=ri</b> aka taiʃbari</em>
   * <tt><a href="pay_chibergis-pos-CCONJ.html">CCONJ</a></tt> 1: <em>tas ye =rira =mã tasuwa =yo tʃaari takaki <b>=ri</b></em>
 * <em>akreke</em>
@@ -36,7 +36,7 @@ The 10 most frequent ambiguous types:  <em>=rina</em> (<tt><a href="pay_chibergi
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.743590).
+The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.736695).
 
 The 1st highest number of forms (1) was observed with the lemma “=arin”: <em>=arin</em>.
 

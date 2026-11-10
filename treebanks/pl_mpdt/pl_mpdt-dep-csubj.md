@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-33 nodes (0%) are attached to their parents as `csubj`.
+36 nodes (0%) are attached to their parents as `csubj`.
 
-26 instances of `csubj` (79%) are left-to-right (parent precedes child).
-Average distance between parent and child is 8.6969696969697.
+27 instances of `csubj` (75%) are left-to-right (parent precedes child).
+Average distance between parent and child is 8.41666666666667.
 
-The following 7 pairs of parts of speech are connected with `csubj`: <tt><a href="pl_mpdt-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_mpdt-pos-VERB.html">VERB</a></tt> (21; 64% instances), <tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_mpdt-pos-VERB.html">VERB</a></tt> (6; 18% instances), <tt><a href="pl_mpdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_mpdt-pos-VERB.html">VERB</a></tt> (2; 6% instances), <tt><a href="pl_mpdt-pos-ADV.html">ADV</a></tt>-<tt><a href="pl_mpdt-pos-VERB.html">VERB</a></tt> (1; 3% instances), <tt><a href="pl_mpdt-pos-DET.html">DET</a></tt>-<tt><a href="pl_mpdt-pos-VERB.html">VERB</a></tt> (1; 3% instances), <tt><a href="pl_mpdt-pos-PRON.html">PRON</a></tt>-<tt><a href="pl_mpdt-pos-VERB.html">VERB</a></tt> (1; 3% instances), <tt><a href="pl_mpdt-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_mpdt-pos-ADJ.html">ADJ</a></tt> (1; 3% instances).
+The following 7 pairs of parts of speech are connected with `csubj`: <tt><a href="pl_mpdt-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_mpdt-pos-VERB.html">VERB</a></tt> (23; 64% instances), <tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_mpdt-pos-VERB.html">VERB</a></tt> (7; 19% instances), <tt><a href="pl_mpdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_mpdt-pos-VERB.html">VERB</a></tt> (2; 6% instances), <tt><a href="pl_mpdt-pos-ADV.html">ADV</a></tt>-<tt><a href="pl_mpdt-pos-VERB.html">VERB</a></tt> (1; 3% instances), <tt><a href="pl_mpdt-pos-DET.html">DET</a></tt>-<tt><a href="pl_mpdt-pos-VERB.html">VERB</a></tt> (1; 3% instances), <tt><a href="pl_mpdt-pos-PRON.html">PRON</a></tt>-<tt><a href="pl_mpdt-pos-VERB.html">VERB</a></tt> (1; 3% instances), <tt><a href="pl_mpdt-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_mpdt-pos-ADJ.html">ADJ</a></tt> (1; 3% instances).
 
 
 ~~~ conllu
@@ -38,44 +38,32 @@ The following 7 pairs of parts of speech are connected with `csubj`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 16	bgColor:blue
-# visual-style 16	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 16 csubj	color:blue
-1	Czyli	czyli	PART	part	_	6	advmod:emph	6:advmod:emph	Translit=Czyli
-2	to	to	AUX	pred	Mood=Ind|Tense=Pres|VerbForm=Fin|VerbType=Quasi	6	cop	6:cop	Translit=to
-3	bowiem	bowiem	SCONJ	comp	_	6	mark	6:mark	Translit=bowiem
-4	nie	nie	PART	part	Polarity=Neg	5	advmod:neg	5:advmod:neg	Translit=nie
-5	jawna	jawny	ADJ	adj:sg:nom:f:pos	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	6	amod	6:amod	Translit=iawna
-6	rzecz	rzecz	NOUN	subst:sg:nom:f	Case=Nom|Gender=Fem|Number=Sing	0	root	0:root	SpaceAfter=No|Translit=rzecz
-7	,	,	PUNCT	interp	PunctType=Comm	16	punct	16:punct	Translit=,
-8	że	że	SCONJ	comp	_	16	mark	16:mark	Translit=że
-9	założone	założyć	ADJ	ppas:pl:nom:m:perf:aff:pos	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos|VerbForm=Part|Voice=Pass	12	acl	12:acl	Translit=założone
-10	od	od	ADP	prep:gen:nwok	AdpType=Prep|Variant=Short	11	case	11:case	Case=Gen|Translit=od
-11	nich	on	PRON	ppron3:pl:gen:m:ter:neut:praep	Case=Gen|Gender=Masc|Number=Plur|Person=3|PrepCase=Pre|PronType=Prs|Variant=Short	9	obl:agent	9:obl:agent	Translit=nich
-12	Konwikty	konwikt	NOUN	subst:pl:nom:m	Case=Nom|Gender=Masc|Number=Plur	16	nsubj	16:nsubj	Translit=Konwikty
-13	więcej	więcej	DET	num:sg:acc:m	Case=Acc|Gender=Masc|Number=Sing|PronType=Ind	17	det	17:det|20:det	Translit=więcey
-14	im	on	PRON	ppron3:pl:dat:m:ter:neut:npraep	Case=Dat|Gender=Masc|Number=Plur|Person=3|PrepCase=Npr|PronType=Prs|Variant=Short	16	iobj	16:iobj	Translit=im
-15	nierównie	nierównie	ADV	adv:pos	Degree=Pos	16	advmod	16:advmod	Translit=nierownie
-16	przynoszą	przynosić	VERB	fin:pl:ter:imperf	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	csubj	6:csubj	Translit=przynoszą
-17	zysku	zysk	NOUN	subst:sg:gen:m	Case=Gen|Gender=Masc|Number=Sing	16	obl	16:obl	SpaceAfter=No|Translit=zysku
-18	,	,	PUNCT	interp	PunctType=Comm	20	punct	20:punct	Translit=,
-19	i	i	CCONJ	conj	_	20	cc	20:cc	Translit=y
-20	intraty	intrata	NOUN	subst:sg:gen:f	Case=Gen|Gender=Fem|Number=Sing	17	conj	16:obl|17:conj	SpaceAfter=No|Translit=intraty
-21	,	,	PUNCT	interp	PunctType=Comm	32	punct	32:punct	Translit=,
-22	niżeli	niżeli	SCONJ	comp	ConjType=Comp	32	mark	32:mark	Translit=niżeli
-23	w	w	ADP	prep:loc:nwok	AdpType=Prep|Variant=Short	27	case	27:case	Case=Loc|Translit=w
-24	stałych	stały	ADJ	adj:pl:loc:n:pos	Case=Loc|Degree=Pos|Gender=Neut|Number=Plur	27	amod	27:amod	Translit=stałych
-25	i	i	CCONJ	conj	_	26	cc	26:cc	Translit=y
-26	nieruchomych	nieruchomy	ADJ	adj:pl:loc:n:pos	Case=Loc|Degree=Pos|Gender=Neut|Number=Plur	24	conj	24:conj|27:amod	Translit=nie ruchomych
-27	dobrach	dobra	NOUN	subst:pl:loc:n:pt	Case=Loc|Gender=Neut|Number=Ptan	32	nmod	32:nmod	Translit=dobrach
-28	przez	przez	ADP	prep:acc:nwok	AdpType=Prep|Variant=Short	29	case	29:case	Case=Acc|Translit=przez
-29	Konstytucje	konstytucja	NOUN	subst:pl:acc:f	Case=Acc|Gender=Fem|Number=Plur	30	obl:agent	30:obl:agent	Translit=Konstytucye
-30	pozwolone	pozwolić	ADJ	ppas:pl:nom:m:perf:aff:pos	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos|VerbForm=Part|Voice=Pass	32	acl	32:acl	Translit=pozwolone
-31	im	on	PRON	ppron3:pl:dat:m:ter:neut:npraep	Case=Dat|Gender=Masc|Number=Plur|Person=3|PrepCase=Npr|PronType=Prs|Variant=Short	30	iobj	30:iobj	Translit=im
-32	Fundusze	fundusz	NOUN	subst:pl:nom:m	Case=Nom|Gender=Masc|Number=Plur	13	obl:cmp	13:obl:cmp	SpaceAfter=No|Translit=Fundusze
-33	?	?	PUNCT	interp	PunctType=Qest	6	punct	6:punct	Translit=?
+# visual-style 14	bgColor:blue
+# visual-style 14	fgColor:white
+# visual-style 18	bgColor:blue
+# visual-style 18	fgColor:white
+# visual-style 18 14 csubj	color:blue
+1	Drugi	drugi	ADJ	adjnum:sg:nom:m:pos	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|NumType=Ord	2	amod	2:amod	Translit=Drugi
+2	sposób	sposób	NOUN	subst:sg:nom:m	Case=Nom|Gender=Masc|Number=Sing	18	nsubj:outer	18:nsubj:outer	Translit=sposob
+3	wróżenia	wróżyć	NOUN	ger:sg:gen:n:imperf:aff	Aspect=Imp|Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos|VerbForm=Vnoun	2	nmod:arg	2:nmod:arg	Translit=wrożenia
+4	był	być	AUX	praet:sg:m:imperf	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	18	cop	18:cop	SpaceAfter=No|Translit=był
+5	:	:	PUNCT	interp	PunctType=Colo	18	punct	18:punct	Translit=:
+6	rzucając	rzucać	VERB	pcon:imperf	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	14	advcl	14:advcl	Translit=rzucaiąc
+7	do	do	ADP	prep:gen	AdpType=Prep	8	case	8:case	Case=Gen|Translit=do
+8	wody	woda	NOUN	subst:sg:gen:f	Case=Gen|Gender=Fem|Number=Sing	6	obl	6:obl	Translit=wody
+9	trzy	trzy	NUM	num:pl:acc:m	Case=Acc|Gender=Masc|Number=Plur|NumForm=Word	10	nummod	10:nummod	Translit=trzy
+10	kamyczki	kamyczek	NOUN	subst:pl:acc:m	Case=Acc|Gender=Masc|Number=Plur	6	obj	6:obj	SpaceAfter=No|Translit=kamyczki
+11	:	:	PUNCT	interp	PunctType=Colo	6	punct	6:punct	Translit=:
+12	gdy	gdy	SCONJ	comp	_	14	mark	14:mark	Translit=gdy
+13	się	się	PRON	part	PronType=Prs|Reflex=Yes	14	expl:pv	14:expl:pv	Translit=się
+14	kręciły	kręcić	VERB	praet:pl:m:imperf	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	18	csubj	18:csubj	Translit=kręciły
+15	w	w	ADP	prep:acc:nwok	AdpType=Prep|Variant=Short	16	case	16:case	Case=Acc|Translit=w
+16	koło	koło	NOUN	subst:sg:acc:n	Case=Acc|Gender=Neut|Number=Sing	14	obl	14:obl	SpaceAfter=No|Translit=koło
+17	,	,	PUNCT	interp	PunctType=Comm	14	punct	14:punct	Translit=,
+18	znak	znak	NOUN	subst:sg:nom:m	Case=Nom|Gender=Masc|Number=Sing	0	root	0:root	Translit=znak
+19	był	być	AUX	praet:sg:m:imperf	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	18	cop	18:cop	Translit=był
+20	szczęścia	szczęście	NOUN	subst:sg:gen:n	Case=Gen|Gender=Neut|Number=Sing	18	nmod:arg	18:nmod:arg	SpaceAfter=No|Translit=szczęścia
+21	.	.	PUNCT	interp	PunctType=Peri	18	punct	18:punct	Translit=.
 
 ~~~
 

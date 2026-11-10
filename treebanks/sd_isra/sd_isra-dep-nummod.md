@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1116 nodes (1%) are attached to their parents as `nummod`.
+1118 nodes (1%) are attached to their parents as `nummod`.
 
-1107 instances of `nummod` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.41039426523297.
+1109 instances of `nummod` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.41502683363148.
 
-The following 9 pairs of parts of speech are connected with `nummod`: <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sd_isra-pos-NUM.html">NUM</a></tt> (1031; 92% instances), <tt><a href="sd_isra-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sd_isra-pos-NUM.html">NUM</a></tt> (25; 2% instances), <tt><a href="sd_isra-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sd_isra-pos-NUM.html">NUM</a></tt> (23; 2% instances), <tt><a href="sd_isra-pos-NUM.html">NUM</a></tt>-<tt><a href="sd_isra-pos-NUM.html">NUM</a></tt> (20; 2% instances), <tt><a href="sd_isra-pos-NUM.html">NUM</a></tt>-<tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt> (7; 1% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-NUM.html">NUM</a></tt> (5; 0% instances), <tt><a href="sd_isra-pos-AUX.html">AUX</a></tt>-<tt><a href="sd_isra-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="sd_isra-pos-PRON.html">PRON</a></tt>-<tt><a href="sd_isra-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `nummod`: <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sd_isra-pos-NUM.html">NUM</a></tt> (1032; 92% instances), <tt><a href="sd_isra-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sd_isra-pos-NUM.html">NUM</a></tt> (26; 2% instances), <tt><a href="sd_isra-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sd_isra-pos-NUM.html">NUM</a></tt> (23; 2% instances), <tt><a href="sd_isra-pos-NUM.html">NUM</a></tt>-<tt><a href="sd_isra-pos-NUM.html">NUM</a></tt> (20; 2% instances), <tt><a href="sd_isra-pos-NUM.html">NUM</a></tt>-<tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt> (7; 1% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-NUM.html">NUM</a></tt> (5; 0% instances), <tt><a href="sd_isra-pos-AUX.html">AUX</a></tt>-<tt><a href="sd_isra-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="sd_isra-pos-PRON.html">PRON</a></tt>-<tt><a href="sd_isra-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -39,26 +39,24 @@ The following 9 pairs of parts of speech are connected with `nummod`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 3 nummod	color:blue
-1	هاڻي	هاڻ	ADV	ADT	_	13	advmod	_	_
-2	هو	هو	DET	PRD	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	13	nsubj	_	_
-3	هڪ	هڪ	NUM	NUM	_	4	nummod	_	_
-4	تندرست	تندرست	ADJ	JJ	Case=Nom|Degree=Pos|Number=Sing	11	amod	_	SpaceAfter=No
-5	،	،	PUNCT	PUNCT	_	6	punct	_	_
-6	سهڻو	سهڻو	ADJ	JJ	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	conj	_	_
-7	۽	۽	CCONJ	CC	_	9	cc	_	_
-8	هڪ	هڪ	NUM	NUM	_	10	nummod	_	_
-9	ڊگهو	ڊگهو	ADJ	JJ	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	10	amod	_	_
-10	جوان	جوان	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	11	amod	_	_
-11	ماڻهو	ماڻهو	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	13	xcomp	_	_
-12	ٿي	آهي	AUX	VAUX	Number=Sing|Tense=Pres	13	aux	_	_
-13	پيو	پيو	VERB	VM	Aspect=Imp|Number=Sing|Person=3	0	root	_	_
-14	هو	آهي	AUX	VAUX	Gender=Masc|Number=Sing|Person=3|Tense=Past	13	aux	_	SpaceAfter=No
-15	.	.	PUNCT	PUNCT	_	13	punct	_	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 5 nummod	color:blue
+1	سندم	_	PRON	PRP	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nmod:poss	_	_
+2	يار	يار	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	11	nmod	_	_
+3	سُهڻو	سُهڻو	ADJ	JJ	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	SpaceAfter=No
+4	،	،	PUNCT	PUNCT	_	3	punct	_	_
+5	هزارن	_	NUM	NUM	Case=Acc|Number=Plur	7	nummod	_	_
+6	۾	۾	ADP	PSPL	_	5	case	_	_
+7	هڪڙو	هڪڙو	ADJ	JJC	Case=Nom|Gender=Masc|Number=Sing	2	amod	_	_
+8	تنھنجي	تنھنجو	PRON	PRP	Case=Gen|Number=Sing|Person=2|Poss=Yes|PronType=Prs	9	nmod:poss	_	_
+9	نيڻن	_	NOUN	NN	Case=Acc|Gender=Masc|Number=Plur	12	obl	_	_
+10	۾	۾	ADP	PSPL	_	9	case	_	_
+11	جو	جو	DET	PRD	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	12	nsubj	_	_
+12	نھاري	_	VERB	VM	Aspect=Perf|VerbForm=Conv	0	root	_	_
+13	ويو	ويو	VERB	VM	Aspect=Perf|Gender=Masc|Number=Sing|Person=3	12	compound	_	SpaceAfter=No
 
 ~~~
 
@@ -77,7 +75,7 @@ The following 9 pairs of parts of speech are connected with `nummod`: <tt><a hre
 6	ڪربلا	ڪربلا	PROPN	NNP	Case=Nom|Gender=Masc	8	nmod	_	_
 7	جي	جي	ADP	PSPG	Case=Nom|Gender=Fem|Number=Sing	6	case	_	_
 8	ياد	ياد	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	10	obj	_	_
-9	تازي	_	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	10	compound	_	_
+9	تازي	تازو	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	10	compound	_	_
 10	ڪئي	ڪئي	VERB	VM	Aspect=Perf|Gender=Fem|Number=Sing	0	root	_	_
 11	وئي	وئي	VERB	VM	Aspect=Perf|Gender=Fem|Number=Sing|Person=3	10	compound	_	SpaceAfter=No
 12	،	،	PUNCT	PUNCT	_	10	punct	_	_

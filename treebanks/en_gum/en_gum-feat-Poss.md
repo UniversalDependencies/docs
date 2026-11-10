@@ -18,12 +18,12 @@ The feature is used with 1 part-of-speech tags: <tt><a href="en_gum-pos-PRON.htm
 
 3492 <tt><a href="en_gum-pos-PRON.html">PRON</a></tt> tokens (16% of all `PRON` tokens) have a non-empty value of `Poss`.
 
-The most frequent other feature values with which `PRON` and `Poss` co-occurred: <tt><a href="en_gum-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (3465; 99%), <tt><a href="en_gum-feat-Case.html">Case</a></tt><tt>=Gen</tt> (3439; 98%), <tt><a href="en_gum-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2475; 71%), <tt><a href="en_gum-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2303; 66%).
+The most frequent other feature values with which `PRON` and `Poss` co-occurred: <tt><a href="en_gum-feat-Case.html">Case</a></tt><tt>=Gen</tt> (3465; 99%), <tt><a href="en_gum-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (3465; 99%), <tt><a href="en_gum-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2475; 71%), <tt><a href="en_gum-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2303; 66%).
 
 `PRON` tokens may have the following values of `Poss`:
 
 * `Yes` (3492; 100% of non-empty `Poss`): <em>your, his, my, our, their, its, her, whose, yours, mine</em>
-* `EMPTY` (18481): <em>i, it, you, that, we, they, he, what, this, which</em>
+* `EMPTY` (18490): <em>i, it, you, that, we, they, he, what, this, which</em>
 
 ## Relations with Agreement in `Poss`
 

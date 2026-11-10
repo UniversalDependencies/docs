@@ -28,7 +28,7 @@ The following 3 pairs of parts of speech are connected with `flat`: <tt><a href=
 3	не	не	PART	NEG	Polarity=Neg	4	advmod	_	_
 4	стало	стать	VERB	VBC	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 5	в	в	ADP	IN	_	6	case	_	_
-6	11	11	ADJ	ORD	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	4	obl	_	_
+6	11	11	ADJ	ORD	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	4	obl:tmod	_	_
 7	октября	октябрь	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	flat	_	_
 8	2010	2010	ADJ	ORD	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	_
 9	года	год	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	SpaceAfter=No

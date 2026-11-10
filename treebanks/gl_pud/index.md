@@ -16,11 +16,11 @@ Family: IE
 
 This treebank has been part of Universal Dependencies since the UD v2.14 release.
 
-The following people have contributed to making this treebank part of UD: Albina Sarymsakova, Xulia Sánchez-Rodríguez, Marcos Garcia.
+The following people have contributed to making this treebank part of UD: Albina Sarymsakova, Xulia Sánchez-Rodríguez, Helena Pérez Puente, Marcos Garcia.
 
 Repository: [UD_Galician-PUD](https://github.com/UniversalDependencies/UD_Galician-PUD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udgl_pud218)<br />
-Download all treebanks: [UD 2.18](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udgl_pud219)<br />
+Download all treebanks: [UD 2.19](/#download)
 
 License: CC BY-SA 4.0
 
@@ -474,7 +474,7 @@ pages = "587--592",
   <li>Dem
     <ul>
       <li>DET: este, esta, ese, estas, estes, eses, aquela, esa, aquelas, aquel</li>
-      <li>PRON: isto, iso, este, estes, esta, aqueles, estas, aquela, aquilo, esa</li>
+      <li>PRON: isto, iso, esta, este, estes, aqueles, estas, aquela, aquilo, esa</li>
     </ul>
   </li>
 </ul>
@@ -500,7 +500,7 @@ pages = "587--592",
 <ul>
   <li>Prs
     <ul>
-      <li>DET: os</li>
+      <li>DET: súa, seu, súas, seus, noso, nosa, meu, miña, meus, nosas</li>
       <li>PRON: se, lle, o, el, ela, eles, me, a, nos, eu</li>
     </ul>
   </li>
@@ -544,6 +544,7 @@ pages = "587--592",
   <li>Yes
     <ul>
       <li>DET: súa, seu, súas, seus, noso, nosa, meu, miña, meus, nosas</li>
+      <li>PRON: súa</li>
     </ul>
   </li>
 </ul>
@@ -719,9 +720,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN (545)</li>
+      <li>VERB--NOUN (546)</li>
       <li>VERB--NOUN-ADP(a) (4)</li>
-      <li>VERB--PRON (243)</li>
+      <li>VERB--PRON (246)</li>
       <li>VERB--PRON-ADP(a) (2)</li>
       <li>VERB--PRON-ADP(con) (1)</li>
       <li>VERB--PRON-ADP(para) (1)</li>
@@ -741,13 +742,12 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN (479)</li>
+      <li>VERB--NOUN (475)</li>
       <li>VERB--NOUN-ADP(a) (20)</li>
       <li>VERB--NOUN-ADP(ata) (1)</li>
-      <li>VERB--NOUN-ADP(até) (1)</li>
       <li>VERB--NOUN-ADP(de) (6)</li>
       <li>VERB--NOUN-ADP(por) (1)</li>
-      <li>VERB--PRON (35)</li>
+      <li>VERB--PRON (32)</li>
       <li>VERB--PRON-ADP(a) (1)</li>
       <li>VERB--PRON-Acc (24)</li>
       <li>VERB-Fin--NOUN (1)</li>
@@ -755,8 +755,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Ger--PRON (1)</li>
       <li>VERB-Ger--PRON-Acc (3)</li>
       <li>VERB-Inf--NOUN (209)</li>
-      <li>VERB-Inf--NOUN-ADP(a) (6)</li>
-      <li>VERB-Inf--NOUN-ADP(cara) (1)</li>
+      <li>VERB-Inf--NOUN-ADP(a) (5)</li>
       <li>VERB-Inf--NOUN-ADP(de)-ADP(a) (1)</li>
       <li>VERB-Inf--PRON (7)</li>
       <li>VERB-Inf--PRON-Acc (15)</li>
@@ -768,7 +767,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB--NOUN-ADP(a) (11)</li>
+      <li>VERB--NOUN-ADP(a) (12)</li>
       <li>VERB--PRON (10)</li>
       <li>VERB--PRON-Dat (26)</li>
       <li>VERB-Ger--NOUN-ADP(a) (1)</li>

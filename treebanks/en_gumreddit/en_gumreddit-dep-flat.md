@@ -90,7 +90,7 @@ The following 5 pairs of parts of speech are connected with `flat`: <tt><a href=
 4	_	_	NOUN	NN	Abbr=Yes|Number=Sing	3	parataxis	3:parataxis	Entity=(2-abstract-new-nnnnn-cf2-1,2-coref|Lem=*LOWER*|Len=4
 5	_	_	NUM	CD	NumForm=Digit|NumType=Card	4	flat	4:flat	Entity=2)|Lem=_|Len=1
 6	_	_	PUNCT	SYM	_	7	punct	7:punct	Lem=_|Len=1
-7	_	_	NOUN	NN	Number=Sing	4	appos	4:appos	Entity=(3-object-new-sssns-cf3-1-coref)|Lem=*LOWER*|Len=9
+7	_	_	NOUN	NN	Number=Sing	4	appos	4:appos	Entity=(3-object-new-sssns-cf3-1-coref)|Lem=*LOWER*|Len=9|MSeg=Poly-graph
 8	_	_	CCONJ	CC	_	11	cc	11:cc	Lem=_|Len=3
 9	_	_	NOUN	NN	Number=Sing	10	compound	10:compound	Entity=(4-object-new-nnnnn-cf4-3-sgl(5-abstract-new-nnnnn-cf5-2-coref(6-abstract-new-snsnn-cf6-1-coref)|Lem=*LOWER*|Len=9|MSeg=Decept-ion
 10	_	_	NOUN	NN	Number=Sing	11	compound	11:compound	Entity=5)|Lem=*LOWER*|Len=9|MSeg=Detect-ion

@@ -187,11 +187,11 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
 ## Relations with Agreement in `Case`
 
 The 10 most frequent relations where parent and child node agree in `Case`:
-<tt>NOUN --[<tt><a href="ru_poetry-dep-amod.html">amod</a></tt>]--> ADJ</tt> (4199; 98%),
+<tt>NOUN --[<tt><a href="ru_poetry-dep-amod.html">amod</a></tt>]--> ADJ</tt> (4200; 98%),
 <tt>NOUN --[<tt><a href="ru_poetry-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1326; 91%),
 <tt>NOUN --[<tt><a href="ru_poetry-dep-det.html">det</a></tt>]--> DET</tt> (1250; 89%),
 <tt>NOUN --[<tt><a href="ru_poetry-dep-amod.html">amod</a></tt>]--> VERB</tt> (311; 97%),
-<tt>ADJ --[<tt><a href="ru_poetry-dep-conj.html">conj</a></tt>]--> ADJ</tt> (257; 95%),
+<tt>ADJ --[<tt><a href="ru_poetry-dep-conj.html">conj</a></tt>]--> ADJ</tt> (259; 95%),
 <tt>NOUN --[<tt><a href="ru_poetry-dep-acl.html">acl</a></tt>]--> VERB</tt> (252; 86%),
 <tt>NOUN --[<tt><a href="ru_poetry-dep-appos.html">appos</a></tt>]--> NOUN</tt> (157; 89%),
 <tt>NOUN --[<tt><a href="ru_poetry-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (116; 70%),

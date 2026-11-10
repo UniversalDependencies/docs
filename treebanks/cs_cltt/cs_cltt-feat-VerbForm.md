@@ -6,19 +6,19 @@ udver: '2'
 
 ## Treebank Statistics: UD_Czech-CLTT: Features: `VerbForm`
 
-This feature is universal but the values `Conv` are language-specific.
-It occurs with 4 different values: `Conv`, `Fin`, `Inf`, `Part`.
+This feature is universal but the values `Conv`, `Vnoun` are language-specific.
+It occurs with 5 different values: `Conv`, `Fin`, `Inf`, `Part`, `Vnoun`.
 
-2984 tokens (8%) have a non-empty value of `VerbForm`.
-754 types (16%) occur at least once with a non-empty value of `VerbForm`.
-417 lemmas (15%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 3 part-of-speech tags: <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> (1819; 5% instances), <tt><a href="cs_cltt-pos-AUX.html">AUX</a></tt> (619; 2% instances), <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> (546; 2% instances).
+4377 tokens (12%) have a non-empty value of `VerbForm`.
+1009 types (22%) occur at least once with a non-empty value of `VerbForm`.
+612 lemmas (23%) occur at least once with a non-empty value of `VerbForm`.
+The feature is used with 4 part-of-speech tags: <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> (1819; 5% instances), <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> (1393; 4% instances), <tt><a href="cs_cltt-pos-AUX.html">AUX</a></tt> (619; 2% instances), <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> (546; 2% instances).
 
 ### `VERB`
 
 1819 <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (1607; 88%), <tt><a href="cs_cltt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1507; 83%), <tt><a href="cs_cltt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1394; 77%), <tt><a href="cs_cltt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1393; 77%), <tt><a href="cs_cltt-feat-Person.html">Person</a></tt><tt>=3</tt> (1393; 77%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (985; 54%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (1607; 88%), <tt><a href="cs_cltt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1507; 83%), <tt><a href="cs_cltt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1394; 77%), <tt><a href="cs_cltt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1393; 77%), <tt><a href="cs_cltt-feat-Person.html">Person</a></tt><tt>=3</tt> (1393; 77%), <tt><a href="cs_cltt-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (1188; 65%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (985; 54%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
@@ -35,6 +35,19 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
   <tr><td><tt><tt><a href="cs_cltt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_cltt-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs_cltt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cs_cltt-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>obsahují</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt></tt></td><td></td><td><em>obsahovat</em></td><td></td></tr>
 </table>
+
+### `NOUN`
+
+1393 <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> tokens (13% of all `NOUN` tokens) have a non-empty value of `VerbForm`.
+
+The most frequent other feature values with which `NOUN` and `VerbForm` co-occurred: <tt><a href="cs_cltt-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (1393; 100%), <tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=Neut</tt> (1393; 100%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1347; 97%).
+
+`NOUN` tokens may have the following values of `VerbForm`:
+
+* `Vnoun` (1393; 100% of non-empty `VerbForm`): <em>ocenění, ustanovení, vymezení, sestavení, účtování, uspořádání, použití, hospodaření, nabytí, obchodování</em>
+* `EMPTY` (9669): <em>jednotky, jednotka, majetku, období, účetnictví, položka, dni, závěrky, závazků, jednotek</em>
+
+`VerbForm` seems to be **lexical feature** of `NOUN`. 100% lemmas (195) occur only with one value of `VerbForm`.
 
 ### `AUX`
 
@@ -71,7 +84,7 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
 
 546 <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> tokens (8% of all `ADJ` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `ADJ` and `VerbForm` co-occurred: <tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (543; 99%), <tt><a href="cs_cltt-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (325; 60%), <tt><a href="cs_cltt-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (287; 53%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (283; 52%).
+The most frequent other feature values with which `ADJ` and `VerbForm` co-occurred: <tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (543; 99%), <tt><a href="cs_cltt-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (328; 60%), <tt><a href="cs_cltt-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (325; 60%), <tt><a href="cs_cltt-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (287; 53%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (283; 52%).
 
 `ADJ` tokens may have the following values of `VerbForm`:
 
@@ -88,6 +101,7 @@ The 10 most frequent relations where parent and child node agree in `VerbForm`:
 <tt>VERB --[<tt><a href="cs_cltt-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (27; 96%),
 <tt>VERB --[<tt><a href="cs_cltt-dep-advcl.html">advcl</a></tt>]--> AUX</tt> (2; 100%),
 <tt>AUX --[<tt><a href="cs_cltt-dep-conj.html">conj</a></tt>]--> AUX</tt> (1; 100%),
+<tt>NOUN --[<tt><a href="cs_cltt-dep-acl.html">acl</a></tt>]--> NOUN</tt> (1; 100%),
 <tt>VERB --[<tt><a href="cs_cltt-dep-appos.html">appos</a></tt>]--> VERB</tt> (1; 100%),
 <tt>VERB --[<tt><a href="cs_cltt-dep-csubj-pass.html">csubj:pass</a></tt>]--> VERB</tt> (1; 100%),
 <tt>VERB --[<tt><a href="cs_cltt-dep-dep.html">dep</a></tt>]--> VERB</tt> (1; 100%).

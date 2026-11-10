@@ -61,7 +61,7 @@ The 10 most frequent ambiguous types:  کہ (<tt><a href="ur_udtb-pos-SCONJ.html
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 0.790698 (the average of all parts of speech is 1.103404).
+The form / lemma ratio of `SCONJ` is 0.790698 (the average of all parts of speech is 1.103337).
 
 The 1st highest number of forms (2) was observed with the lemma “تب”: تب, تو.
 

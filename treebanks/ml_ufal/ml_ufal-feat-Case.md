@@ -138,11 +138,11 @@ The 10 most frequent relations where parent and child node agree in `Case`:
 <tt>PROPN --[<tt><a href="ml_ufal-dep-flat.html">flat</a></tt>]--> PROPN</tt> (51; 82%),
 <tt>NOUN --[<tt><a href="ml_ufal-dep-conj.html">conj</a></tt>]--> NOUN</tt> (38; 90%),
 <tt>PROPN --[<tt><a href="ml_ufal-dep-conj.html">conj</a></tt>]--> PROPN</tt> (20; 100%),
-<tt>NOUN --[<tt><a href="ml_ufal-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (17; 52%),
 <tt>NOUN --[<tt><a href="ml_ufal-dep-compound.html">compound</a></tt>]--> NOUN</tt> (16; 70%),
 <tt>NOUN --[<tt><a href="ml_ufal-dep-flat.html">flat</a></tt>]--> PROPN</tt> (14; 82%),
 <tt>NOUN --[<tt><a href="ml_ufal-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (13; 72%),
 <tt>PROPN --[<tt><a href="ml_ufal-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (8; 67%),
 <tt>NOUN --[<tt><a href="ml_ufal-dep-conj.html">conj</a></tt>]--> PROPN</tt> (7; 100%),
-<tt>NOUN --[<tt><a href="ml_ufal-dep-parataxis.html">parataxis</a></tt>]--> NOUN</tt> (6; 86%).
+<tt>NOUN --[<tt><a href="ml_ufal-dep-parataxis.html">parataxis</a></tt>]--> NOUN</tt> (6; 86%),
+<tt>NOUN --[<tt><a href="ml_ufal-dep-compound.html">compound</a></tt>]--> PROPN</tt> (3; 60%).
 

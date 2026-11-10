@@ -6,30 +6,30 @@ udver: '2'
 
 ## Treebank Statistics: UD_Estonian-EDT: POS Tags: `DET`
 
-There are 57 `DET` lemmas (0%), 411 `DET` types (0%) and 7214 `DET` tokens (2%).
+There are 57 `DET` lemmas (0%), 413 `DET` types (0%) and 7248 `DET` tokens (2%).
 Out of 17 observed tags, the rank of `DET` is: 12 in number of lemmas, 8 in number of types and 13 in number of tokens.
 
 The 10 most frequent `DET` lemmas: <em>see, üks, kõik, teine, iga, mõni, selline, mingi, sama, kogu</em>
 
 The 10 most frequent `DET` types:  <em>see, kõik, kogu, selle, üks, iga, need, seda, sel, nende</em>
 
-The 10 most frequent ambiguous lemmas: <em>see</em> (<tt><a href="et_edt-pos-PRON.html">PRON</a></tt> 4558, <tt><a href="et_edt-pos-DET.html">DET</a></tt> 1864, <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> 2), <em>üks</em> (<tt><a href="et_edt-pos-DET.html">DET</a></tt> 726, <tt><a href="et_edt-pos-NUM.html">NUM</a></tt> 459, <tt><a href="et_edt-pos-PRON.html">PRON</a></tt> 161), <em>kõik</em> (<tt><a href="et_edt-pos-DET.html">DET</a></tt> 634, <tt><a href="et_edt-pos-PRON.html">PRON</a></tt> 344, <tt><a href="et_edt-pos-ADV.html">ADV</a></tt> 2), <em>teine</em> (<tt><a href="et_edt-pos-DET.html">DET</a></tt> 543, <tt><a href="et_edt-pos-PRON.html">PRON</a></tt> 335, <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> 217, <tt><a href="et_edt-pos-NUM.html">NUM</a></tt> 2, <tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt> 1), <em>iga</em> (<tt><a href="et_edt-pos-DET.html">DET</a></tt> 419, <tt><a href="et_edt-pos-PRON.html">PRON</a></tt> 21, <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> 17), <em>mõni</em> (<tt><a href="et_edt-pos-DET.html">DET</a></tt> 395, <tt><a href="et_edt-pos-PRON.html">PRON</a></tt> 46, <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> 19), <em>selline</em> (<tt><a href="et_edt-pos-DET.html">DET</a></tt> 387, <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> 58, <tt><a href="et_edt-pos-PRON.html">PRON</a></tt> 24), <em>mingi</em> (<tt><a href="et_edt-pos-DET.html">DET</a></tt> 325, <tt><a href="et_edt-pos-PRON.html">PRON</a></tt> 2), <em>sama</em> (<tt><a href="et_edt-pos-DET.html">DET</a></tt> 323, <tt><a href="et_edt-pos-ADV.html">ADV</a></tt> 66, <tt><a href="et_edt-pos-PRON.html">PRON</a></tt> 30, <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> 22), <em>kogu</em> (<tt><a href="et_edt-pos-DET.html">DET</a></tt> 305, <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> 24, <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>see</em> (<tt><a href="et_edt-pos-PRON.html">PRON</a></tt> 4566, <tt><a href="et_edt-pos-DET.html">DET</a></tt> 1856, <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> 2), <em>üks</em> (<tt><a href="et_edt-pos-DET.html">DET</a></tt> 726, <tt><a href="et_edt-pos-NUM.html">NUM</a></tt> 459, <tt><a href="et_edt-pos-PRON.html">PRON</a></tt> 161), <em>kõik</em> (<tt><a href="et_edt-pos-DET.html">DET</a></tt> 647, <tt><a href="et_edt-pos-PRON.html">PRON</a></tt> 331, <tt><a href="et_edt-pos-ADV.html">ADV</a></tt> 2), <em>teine</em> (<tt><a href="et_edt-pos-DET.html">DET</a></tt> 543, <tt><a href="et_edt-pos-PRON.html">PRON</a></tt> 335, <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> 217, <tt><a href="et_edt-pos-NUM.html">NUM</a></tt> 2, <tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt> 1), <em>iga</em> (<tt><a href="et_edt-pos-DET.html">DET</a></tt> 419, <tt><a href="et_edt-pos-PRON.html">PRON</a></tt> 21, <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> 17), <em>mõni</em> (<tt><a href="et_edt-pos-DET.html">DET</a></tt> 395, <tt><a href="et_edt-pos-PRON.html">PRON</a></tt> 46, <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> 19), <em>selline</em> (<tt><a href="et_edt-pos-DET.html">DET</a></tt> 391, <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> 54, <tt><a href="et_edt-pos-PRON.html">PRON</a></tt> 24), <em>mingi</em> (<tt><a href="et_edt-pos-DET.html">DET</a></tt> 325, <tt><a href="et_edt-pos-PRON.html">PRON</a></tt> 2), <em>sama</em> (<tt><a href="et_edt-pos-DET.html">DET</a></tt> 323, <tt><a href="et_edt-pos-ADV.html">ADV</a></tt> 66, <tt><a href="et_edt-pos-PRON.html">PRON</a></tt> 30, <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> 22), <em>kogu</em> (<tt><a href="et_edt-pos-DET.html">DET</a></tt> 305, <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> 24, <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>see</em> (<tt><a href="et_edt-pos-PRON.html">PRON</a></tt> 1005, <tt><a href="et_edt-pos-DET.html">DET</a></tt> 301), <em>kõik</em> (<tt><a href="et_edt-pos-DET.html">DET</a></tt> 254, <tt><a href="et_edt-pos-PRON.html">PRON</a></tt> 171), <em>kogu</em> (<tt><a href="et_edt-pos-DET.html">DET</a></tt> 268, <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> 12), <em>selle</em> (<tt><a href="et_edt-pos-PRON.html">PRON</a></tt> 438, <tt><a href="et_edt-pos-DET.html">DET</a></tt> 238, <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> 1), <em>üks</em> (<tt><a href="et_edt-pos-DET.html">DET</a></tt> 206, <tt><a href="et_edt-pos-NUM.html">NUM</a></tt> 165, <tt><a href="et_edt-pos-PRON.html">PRON</a></tt> 53), <em>iga</em> (<tt><a href="et_edt-pos-DET.html">DET</a></tt> 183, <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> 4), <em>need</em> (<tt><a href="et_edt-pos-PRON.html">PRON</a></tt> 171, <tt><a href="et_edt-pos-DET.html">DET</a></tt> 154), <em>seda</em> (<tt><a href="et_edt-pos-PRON.html">PRON</a></tt> 709, <tt><a href="et_edt-pos-DET.html">DET</a></tt> 160), <em>sel</em> (<tt><a href="et_edt-pos-DET.html">DET</a></tt> 107, <tt><a href="et_edt-pos-PRON.html">PRON</a></tt> 11), <em>nende</em> (<tt><a href="et_edt-pos-PRON.html">PRON</a></tt> 458, <tt><a href="et_edt-pos-DET.html">DET</a></tt> 104)
+The 10 most frequent ambiguous types:  <em>see</em> (<tt><a href="et_edt-pos-PRON.html">PRON</a></tt> 1007, <tt><a href="et_edt-pos-DET.html">DET</a></tt> 299), <em>kõik</em> (<tt><a href="et_edt-pos-DET.html">DET</a></tt> 260, <tt><a href="et_edt-pos-PRON.html">PRON</a></tt> 165), <em>kogu</em> (<tt><a href="et_edt-pos-DET.html">DET</a></tt> 268, <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> 12), <em>selle</em> (<tt><a href="et_edt-pos-PRON.html">PRON</a></tt> 439, <tt><a href="et_edt-pos-DET.html">DET</a></tt> 237, <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> 1), <em>üks</em> (<tt><a href="et_edt-pos-DET.html">DET</a></tt> 206, <tt><a href="et_edt-pos-NUM.html">NUM</a></tt> 165, <tt><a href="et_edt-pos-PRON.html">PRON</a></tt> 53), <em>iga</em> (<tt><a href="et_edt-pos-DET.html">DET</a></tt> 183, <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> 4), <em>need</em> (<tt><a href="et_edt-pos-PRON.html">PRON</a></tt> 172, <tt><a href="et_edt-pos-DET.html">DET</a></tt> 153), <em>seda</em> (<tt><a href="et_edt-pos-PRON.html">PRON</a></tt> 710, <tt><a href="et_edt-pos-DET.html">DET</a></tt> 159), <em>sel</em> (<tt><a href="et_edt-pos-DET.html">DET</a></tt> 107, <tt><a href="et_edt-pos-PRON.html">PRON</a></tt> 11), <em>nende</em> (<tt><a href="et_edt-pos-PRON.html">PRON</a></tt> 458, <tt><a href="et_edt-pos-DET.html">DET</a></tt> 104)
 
 
 * <em>see</em>
-  * <tt><a href="et_edt-pos-PRON.html">PRON</a></tt> 1005: <em>Loomulikult on <b>see</b> küsimus maitsest .</em>
-  * <tt><a href="et_edt-pos-DET.html">DET</a></tt> 301: <em>Rootsi kirjanduses elati <b>see</b> periood läbi 1970ndatel .</em>
+  * <tt><a href="et_edt-pos-PRON.html">PRON</a></tt> 1007: <em>Loomulikult on <b>see</b> küsimus maitsest .</em>
+  * <tt><a href="et_edt-pos-DET.html">DET</a></tt> 299: <em>Rootsi kirjanduses elati <b>see</b> periood läbi 1970ndatel .</em>
 * <em>kõik</em>
-  * <tt><a href="et_edt-pos-DET.html">DET</a></tt> 254: <em>Lisaks veel <b>kõik</b> need koledused Kosovos ...</em>
-  * <tt><a href="et_edt-pos-PRON.html">PRON</a></tt> 171: <em>Selle võlusõna peale hakkasid <b>kõik</b> kergendatult naerma .</em>
+  * <tt><a href="et_edt-pos-DET.html">DET</a></tt> 260: <em>Lisaks veel <b>kõik</b> need koledused Kosovos ...</em>
+  * <tt><a href="et_edt-pos-PRON.html">PRON</a></tt> 165: <em>Selle võlusõna peale hakkasid <b>kõik</b> kergendatult naerma .</em>
 * <em>kogu</em>
   * <tt><a href="et_edt-pos-DET.html">DET</a></tt> 268: <em>Udmurdid on <b>kogu</b> aeg olnud kuidagi varjus .</em>
   * <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> 12: <em>Kõnesolev <b>kogu</b> annab tooni ka vaadeldavas valimikus .</em>
 * <em>selle</em>
-  * <tt><a href="et_edt-pos-PRON.html">PRON</a></tt> 438: <em>Vaid õrnad maitsenüansid peavad dikteerima <b>selle</b> , kumba valida .</em>
-  * <tt><a href="et_edt-pos-DET.html">DET</a></tt> 238: <em>Kuid need kõrgelennulised arutlused jäävad <b>selle</b> loo haardest välja . )</em>
+  * <tt><a href="et_edt-pos-PRON.html">PRON</a></tt> 439: <em>Vaid õrnad maitsenüansid peavad dikteerima <b>selle</b> , kumba valida .</em>
+  * <tt><a href="et_edt-pos-DET.html">DET</a></tt> 237: <em>Kuid need kõrgelennulised arutlused jäävad <b>selle</b> loo haardest välja . )</em>
   * <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> 1: <em>Ma olen elanud vaeste varjupaigas - Liverpoolis - ja näinud , et hulguste hulgas on õnnelikke <b>selle</b> küll .</em>
 * <em>üks</em>
   * <tt><a href="et_edt-pos-DET.html">DET</a></tt> 206: <em>Ja samas <b>üks</b> iseloomulikumaid baroki näiteid .</em>
@@ -39,11 +39,11 @@ The 10 most frequent ambiguous types:  <em>see</em> (<tt><a href="et_edt-pos-PRO
   * <tt><a href="et_edt-pos-DET.html">DET</a></tt> 183: <em>Just Franco teeb kohast sellise , nagu ta <b>iga</b> päev on .</em>
   * <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> 4: <em>Nende <b>iga</b> ulatub 1,5 miljardi aastani .</em>
 * <em>need</em>
-  * <tt><a href="et_edt-pos-PRON.html">PRON</a></tt> 171: <em>Kord olid <b>need</b> suunatud vasakule , kord jälle paremale .</em>
-  * <tt><a href="et_edt-pos-DET.html">DET</a></tt> 154: <em>Huvitav küsimus on , millest <b>need</b> kirjad jutustavad ?</em>
+  * <tt><a href="et_edt-pos-PRON.html">PRON</a></tt> 172: <em>Kord olid <b>need</b> suunatud vasakule , kord jälle paremale .</em>
+  * <tt><a href="et_edt-pos-DET.html">DET</a></tt> 153: <em>Huvitav küsimus on , millest <b>need</b> kirjad jutustavad ?</em>
 * <em>seda</em>
-  * <tt><a href="et_edt-pos-PRON.html">PRON</a></tt> 709: <em>Ma tahan <b>seda</b> näha .</em>
-  * <tt><a href="et_edt-pos-DET.html">DET</a></tt> 160: <em>Eestis <b>seda</b> hirmu pole .</em>
+  * <tt><a href="et_edt-pos-PRON.html">PRON</a></tt> 710: <em>Ma tahan <b>seda</b> näha .</em>
+  * <tt><a href="et_edt-pos-DET.html">DET</a></tt> 159: <em>Eestis <b>seda</b> hirmu pole .</em>
 * <em>sel</em>
   * <tt><a href="et_edt-pos-DET.html">DET</a></tt> 107: <em>Eestis ei ole <b>sel</b> näidustusel registreeritud .</em>
   * <tt><a href="et_edt-pos-PRON.html">PRON</a></tt> 11: <em>Seetõttu on <b>sel</b> juures provintsi maik .</em>
@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>see</em> (<tt><a href="et_edt-pos-PRO
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 7.210526 (the average of all parts of speech is 1.914465).
+The form / lemma ratio of `DET` is 7.245614 (the average of all parts of speech is 1.914221).
 
 The 1st highest number of forms (34) was observed with the lemma “see”: <em>Nendeks, Seks, Selgi, Selleski, need, neid, neidki, neil, neile, neilt, neis, neisse, neist, nende, nendel, nendele, nendes, nendesse, nendest, seda, see, seegi, sel, selle, selleks, sellel, sellele, sellelt, selleltki, selles, sellesse, sellest, ses, sest</em>.
 
@@ -61,24 +61,24 @@ The 2nd highest number of forms (26) was observed with the lemma “teine”: <e
 
 The 3rd highest number of forms (24) was observed with the lemma “mõni”: <em>mõnd, mõnda, mõne, mõned, mõnede, mõnedel, mõnedele, mõnedes, mõnedest, mõnedki, mõnegi, mõneks, mõnel, mõnele, mõnelegi, mõnelgi, mõnelt, mõnes, mõnesid, mõneski, mõnesse, mõnest, mõni, mõnigi</em>.
 
-`DET` occurs with 7 features: <tt><a href="et_edt-feat-PronType.html">PronType</a></tt> (7214; 100% instances), <tt><a href="et_edt-feat-Case.html">Case</a></tt> (6880; 95% instances), <tt><a href="et_edt-feat-Number.html">Number</a></tt> (6880; 95% instances), <tt><a href="et_edt-feat-Definite.html">Definite</a></tt> (30; 0% instances), <tt><a href="et_edt-feat-Person.html">Person</a></tt> (5; 0% instances), <tt><a href="et_edt-feat-Typo.html">Typo</a></tt> (3; 0% instances), <tt><a href="et_edt-feat-Gender.html">Gender</a></tt> (2; 0% instances)
+`DET` occurs with 7 features: <tt><a href="et_edt-feat-PronType.html">PronType</a></tt> (7248; 100% instances), <tt><a href="et_edt-feat-Case.html">Case</a></tt> (6914; 95% instances), <tt><a href="et_edt-feat-Number.html">Number</a></tt> (6914; 95% instances), <tt><a href="et_edt-feat-Definite.html">Definite</a></tt> (30; 0% instances), <tt><a href="et_edt-feat-Person.html">Person</a></tt> (5; 0% instances), <tt><a href="et_edt-feat-Typo.html">Typo</a></tt> (3; 0% instances), <tt><a href="et_edt-feat-Gender.html">Gender</a></tt> (2; 0% instances)
 
-`DET` occurs with 27 feature-value pairs: `Case=Abl`, `Case=Add`, `Case=Ade`, `Case=All`, `Case=Dat`, `Case=Ela`, `Case=Gen`, `Case=Ill`, `Case=Ine`, `Case=Nom`, `Case=Par`, `Case=Tra`, `Definite=Def`, `Definite=Ind`, `Gender=Fem`, `Number=Plur`, `Number=Sing`, `Person=3`, `PronType=Art`, `PronType=Dem`, `PronType=Ind`, `PronType=Int`, `PronType=Int,Rel`, `PronType=Prs`, `PronType=Rel`, `PronType=Tot`, `Typo=Yes`
+`DET` occurs with 28 feature-value pairs: `Case=Abl`, `Case=Add`, `Case=Ade`, `Case=All`, `Case=Com`, `Case=Dat`, `Case=Ela`, `Case=Gen`, `Case=Ill`, `Case=Ine`, `Case=Nom`, `Case=Par`, `Case=Tra`, `Definite=Def`, `Definite=Ind`, `Gender=Fem`, `Number=Plur`, `Number=Sing`, `Person=3`, `PronType=Art`, `PronType=Dem`, `PronType=Ind`, `PronType=Int`, `PronType=Int,Rel`, `PronType=Prs`, `PronType=Rel`, `PronType=Tot`, `Typo=Yes`
 
-`DET` occurs with 88 feature combinations.
-The most frequent feature combination is `Case=Nom|Number=Sing|PronType=Dem` (714 tokens).
+`DET` occurs with 89 feature combinations.
+The most frequent feature combination is `Case=Nom|Number=Sing|PronType=Dem` (712 tokens).
 Examples: <em>see, selline, teine, sama, niisugune, säärane, too, seesama, esimene, samasugune</em>
 
 
 ## Relations
 
-`DET` nodes are attached to their parents using 5 different relations: <tt><a href="et_edt-dep-det.html">det</a></tt> (7187; 100% instances), <tt><a href="et_edt-dep-conj.html">conj</a></tt> (22; 0% instances), <tt><a href="et_edt-dep-nmod.html">nmod</a></tt> (3; 0% instances), <tt><a href="et_edt-dep-nsubj-cop.html">nsubj:cop</a></tt> (1; 0% instances), <tt><a href="et_edt-dep-root.html">root</a></tt> (1; 0% instances)
+`DET` nodes are attached to their parents using 5 different relations: <tt><a href="et_edt-dep-det.html">det</a></tt> (7221; 100% instances), <tt><a href="et_edt-dep-conj.html">conj</a></tt> (22; 0% instances), <tt><a href="et_edt-dep-nmod.html">nmod</a></tt> (3; 0% instances), <tt><a href="et_edt-dep-nsubj-cop.html">nsubj:cop</a></tt> (1; 0% instances), <tt><a href="et_edt-dep-root.html">root</a></tt> (1; 0% instances)
 
-Parents of `DET` nodes belong to 11 different parts of speech: <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (6732; 93% instances), <tt><a href="et_edt-pos-PRON.html">PRON</a></tt> (204; 3% instances), <tt><a href="et_edt-pos-NUM.html">NUM</a></tt> (95; 1% instances), <tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt> (81; 1% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> (67; 1% instances), <tt><a href="et_edt-pos-DET.html">DET</a></tt> (20; 0% instances), <tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (10; 0% instances), <tt><a href="et_edt-pos-SYM.html">SYM</a></tt> (2; 0% instances), <tt><a href="et_edt-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances),  (1; 0% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt> (1; 0% instances)
+Parents of `DET` nodes belong to 11 different parts of speech: <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (6757; 93% instances), <tt><a href="et_edt-pos-PRON.html">PRON</a></tt> (212; 3% instances), <tt><a href="et_edt-pos-NUM.html">NUM</a></tt> (95; 1% instances), <tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt> (81; 1% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> (68; 1% instances), <tt><a href="et_edt-pos-DET.html">DET</a></tt> (20; 0% instances), <tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (10; 0% instances), <tt><a href="et_edt-pos-SYM.html">SYM</a></tt> (2; 0% instances), <tt><a href="et_edt-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances),  (1; 0% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt> (1; 0% instances)
 
-6873 (95%) `DET` nodes are leaves.
+6909 (95%) `DET` nodes are leaves.
 
-336 (5%) `DET` nodes have one child.
+334 (5%) `DET` nodes have one child.
 
 4 (0%) `DET` nodes have two children.
 
@@ -86,7 +86,7 @@ Parents of `DET` nodes belong to 11 different parts of speech: <tt><a href="et_e
 
 The highest child degree of a `DET` node is 6.
 
-Children of `DET` nodes are attached using 11 different relations: <tt><a href="et_edt-dep-advmod.html">advmod</a></tt> (275; 79% instances), <tt><a href="et_edt-dep-conj.html">conj</a></tt> (41; 12% instances), <tt><a href="et_edt-dep-cc.html">cc</a></tt> (22; 6% instances), <tt><a href="et_edt-dep-obl.html">obl</a></tt> (4; 1% instances), <tt><a href="et_edt-dep-punct.html">punct</a></tt> (2; 1% instances), <tt><a href="et_edt-dep-acl.html">acl</a></tt> (1; 0% instances), <tt><a href="et_edt-dep-cc-preconj.html">cc:preconj</a></tt> (1; 0% instances), <tt><a href="et_edt-dep-cop.html">cop</a></tt> (1; 0% instances), <tt><a href="et_edt-dep-nmod.html">nmod</a></tt> (1; 0% instances), <tt><a href="et_edt-dep-nsubj-cop.html">nsubj:cop</a></tt> (1; 0% instances), <tt><a href="et_edt-dep-obl-tmod.html">obl:tmod</a></tt> (1; 0% instances)
+Children of `DET` nodes are attached using 11 different relations: <tt><a href="et_edt-dep-advmod.html">advmod</a></tt> (273; 78% instances), <tt><a href="et_edt-dep-conj.html">conj</a></tt> (41; 12% instances), <tt><a href="et_edt-dep-cc.html">cc</a></tt> (22; 6% instances), <tt><a href="et_edt-dep-obl.html">obl</a></tt> (4; 1% instances), <tt><a href="et_edt-dep-punct.html">punct</a></tt> (2; 1% instances), <tt><a href="et_edt-dep-acl.html">acl</a></tt> (1; 0% instances), <tt><a href="et_edt-dep-cc-preconj.html">cc:preconj</a></tt> (1; 0% instances), <tt><a href="et_edt-dep-cop.html">cop</a></tt> (1; 0% instances), <tt><a href="et_edt-dep-nmod.html">nmod</a></tt> (1; 0% instances), <tt><a href="et_edt-dep-nsubj-cop.html">nsubj:cop</a></tt> (1; 0% instances), <tt><a href="et_edt-dep-obl-tmod.html">obl:tmod</a></tt> (1; 0% instances)
 
-Children of `DET` nodes belong to 10 different parts of speech: <tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (276; 79% instances), <tt><a href="et_edt-pos-CCONJ.html">CCONJ</a></tt> (22; 6% instances), <tt><a href="et_edt-pos-DET.html">DET</a></tt> (20; 6% instances), <tt><a href="et_edt-pos-PRON.html">PRON</a></tt> (16; 5% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> (5; 1% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (5; 1% instances), <tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="et_edt-pos-PUNCT.html">PUNCT</a></tt> (2; 1% instances), <tt><a href="et_edt-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt> (1; 0% instances)
+Children of `DET` nodes belong to 10 different parts of speech: <tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (274; 79% instances), <tt><a href="et_edt-pos-CCONJ.html">CCONJ</a></tt> (22; 6% instances), <tt><a href="et_edt-pos-DET.html">DET</a></tt> (20; 6% instances), <tt><a href="et_edt-pos-PRON.html">PRON</a></tt> (16; 5% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> (5; 1% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (5; 1% instances), <tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="et_edt-pos-PUNCT.html">PUNCT</a></tt> (2; 1% instances), <tt><a href="et_edt-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt> (1; 0% instances)
 

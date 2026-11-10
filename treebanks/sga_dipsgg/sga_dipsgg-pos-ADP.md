@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Old_Irish-DipSGG: POS Tags: `ADP`
 
 There are 14 `ADP` lemmas (6%), 25 `ADP` types (8%) and 41 `ADP` tokens (10%).
-Out of 16 observed tags, the rank of `ADP` is: 4 in number of lemmas, 4 in number of types and 2 in number of tokens.
+Out of 16 observed tags, the rank of `ADP` is: 5 in number of lemmas, 4 in number of types and 2 in number of tokens.
 
 The 10 most frequent `ADP` lemmas: <em>do, i, de, ar, for, fri, la, ó, úas, eter</em>
 
@@ -60,7 +60,7 @@ Examples: <em>hi, do, ar, huas, i, de, di, etar, fo, for</em>
 
 `ADP` nodes are attached to their parents using 2 different relations: <tt><a href="sga_dipsgg-dep-case.html">case</a></tt> (29; 71% instances), <tt><a href="sga_dipsgg-dep-obl-prep.html">obl:prep</a></tt> (12; 29% instances)
 
-Parents of `ADP` nodes belong to 5 different parts of speech: <tt><a href="sga_dipsgg-pos-NOUN.html">NOUN</a></tt> (33; 80% instances), <tt><a href="sga_dipsgg-pos-ADJ.html">ADJ</a></tt> (4; 10% instances), <tt><a href="sga_dipsgg-pos-PROPN.html">PROPN</a></tt> (2; 5% instances), <tt><a href="sga_dipsgg-pos-PART.html">PART</a></tt> (1; 2% instances), <tt><a href="sga_dipsgg-pos-X.html">X</a></tt> (1; 2% instances)
+Parents of `ADP` nodes belong to 5 different parts of speech: <tt><a href="sga_dipsgg-pos-NOUN.html">NOUN</a></tt> (31; 76% instances), <tt><a href="sga_dipsgg-pos-ADJ.html">ADJ</a></tt> (4; 10% instances), <tt><a href="sga_dipsgg-pos-PROPN.html">PROPN</a></tt> (4; 10% instances), <tt><a href="sga_dipsgg-pos-PART.html">PART</a></tt> (1; 2% instances), <tt><a href="sga_dipsgg-pos-X.html">X</a></tt> (1; 2% instances)
 
 40 (98%) `ADP` nodes are leaves.
 

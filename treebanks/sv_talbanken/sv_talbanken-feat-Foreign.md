@@ -36,7 +36,7 @@ The most frequent other feature values with which `ADJ` and `Foreign` co-occurre
 `ADJ` tokens may have the following values of `Foreign`:
 
 * `Yes` (14; 100% of non-empty `Foreign`): <em>European, American, Boiling, Economic, Free, Intermittent, International, National, New, North</em>
-* `EMPTY` (8539): <em>olika, andra, nya, många, stora, stor, samma, större, vissa, första</em>
+* `EMPTY` (8536): <em>olika, andra, nya, många, stora, stor, samma, större, vissa, första</em>
 
 `Foreign` seems to be **lexical feature** of `ADJ`. 100% lemmas (13) occur only with one value of `Foreign`.
 
@@ -47,7 +47,7 @@ The most frequent other feature values with which `ADJ` and `Foreign` co-occurre
 `ADP` tokens may have the following values of `Foreign`:
 
 * `Yes` (7; 100% of non-empty `Foreign`): <em>of, in, for, under</em>
-* `EMPTY` (11169): <em>i, av, på, för, till, med, om, från, vid, under</em>
+* `EMPTY` (11184): <em>i, av, på, för, till, med, om, från, vid, under</em>
 
 ### `CCONJ`
 
@@ -56,7 +56,7 @@ The most frequent other feature values with which `ADJ` and `Foreign` co-occurre
 `CCONJ` tokens may have the following values of `Foreign`:
 
 * `Yes` (3; 100% of non-empty `Foreign`): <em>and</em>
-* `EMPTY` (3667): <em>och, eller, men, både, utan, som, dels, såväl, samt, varken</em>
+* `EMPTY` (3664): <em>och, eller, men, både, utan, dels, som, såväl, samt, varken</em>
 
 ### `DET`
 

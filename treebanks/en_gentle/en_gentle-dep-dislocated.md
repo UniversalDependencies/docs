@@ -133,7 +133,7 @@ The following 9 pairs of parts of speech are connected with `dislocated`: <tt><a
 11	love	love	NOUN	NN	Number=Sing	6	obl	6:obl:than	Entity=22)
 12	Of	of	ADP	IN	_	13	case	13:case	_
 13	those	that	PRON	DT	Number=Plur|PronType=Dem	11	nmod	11:nmod:of|16:nsubj	Entity=(23-person-new-nnnnn-cf4-1-sgl
-14	who	who	PRON	WP	PronType=Rel	16	nsubj	13:ref	Discourse=elaboration-attribute:27->26:0:syn-mdf-227-_+syn-relcl-228,230-_
+14	who	who	PRON	WP	Case=Nom|PronType=Rel	16	nsubj	13:ref	Discourse=elaboration-attribute:27->26:0:syn-mdf-227-_+syn-relcl-228,230-_
 15	were	be	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	16	cop	16:cop	_
 16	older	old	ADJ	JJR	Degree=Cmp	13	acl:relcl	13:acl:relcl	MSeg=old-er
 17	than	than	ADP	IN	_	18	case	18:case	_

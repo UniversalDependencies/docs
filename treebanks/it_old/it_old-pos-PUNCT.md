@@ -25,7 +25,7 @@ The 10 most frequent ambiguous types:  <em>'</em> (<tt><a href="it_old-pos-DET.h
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 1.950381).
+The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 1.951202).
 
 The 1st highest number of forms (1) was observed with the lemma “!”: <em>!</em>.
 
@@ -40,7 +40,7 @@ The 3rd highest number of forms (1) was observed with the lemma “'”: <em>'</
 
 `PUNCT` nodes are attached to their parents using 1 different relations: <tt><a href="it_old-dep-punct.html">punct</a></tt> (17390; 100% instances)
 
-Parents of `PUNCT` nodes belong to 16 different parts of speech: <tt><a href="it_old-pos-VERB.html">VERB</a></tt> (12276; 71% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> (2243; 13% instances), <tt><a href="it_old-pos-ADJ.html">ADJ</a></tt> (887; 5% instances), <tt><a href="it_old-pos-PRON.html">PRON</a></tt> (824; 5% instances), <tt><a href="it_old-pos-PROPN.html">PROPN</a></tt> (365; 2% instances), <tt><a href="it_old-pos-ADV.html">ADV</a></tt> (363; 2% instances), <tt><a href="it_old-pos-X.html">X</a></tt> (144; 1% instances), <tt><a href="it_old-pos-DET.html">DET</a></tt> (72; 0% instances), <tt><a href="it_old-pos-AUX.html">AUX</a></tt> (50; 0% instances), <tt><a href="it_old-pos-INTJ.html">INTJ</a></tt> (44; 0% instances), <tt><a href="it_old-pos-SCONJ.html">SCONJ</a></tt> (39; 0% instances), <tt><a href="it_old-pos-CCONJ.html">CCONJ</a></tt> (35; 0% instances), <tt><a href="it_old-pos-PART.html">PART</a></tt> (24; 0% instances), <tt><a href="it_old-pos-NUM.html">NUM</a></tt> (16; 0% instances), <tt><a href="it_old-pos-ADP.html">ADP</a></tt> (7; 0% instances), <tt><a href="it_old-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances)
+Parents of `PUNCT` nodes belong to 16 different parts of speech: <tt><a href="it_old-pos-VERB.html">VERB</a></tt> (12278; 71% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> (2242; 13% instances), <tt><a href="it_old-pos-ADJ.html">ADJ</a></tt> (887; 5% instances), <tt><a href="it_old-pos-PRON.html">PRON</a></tt> (822; 5% instances), <tt><a href="it_old-pos-PROPN.html">PROPN</a></tt> (365; 2% instances), <tt><a href="it_old-pos-ADV.html">ADV</a></tt> (364; 2% instances), <tt><a href="it_old-pos-X.html">X</a></tt> (144; 1% instances), <tt><a href="it_old-pos-DET.html">DET</a></tt> (72; 0% instances), <tt><a href="it_old-pos-AUX.html">AUX</a></tt> (50; 0% instances), <tt><a href="it_old-pos-INTJ.html">INTJ</a></tt> (44; 0% instances), <tt><a href="it_old-pos-SCONJ.html">SCONJ</a></tt> (39; 0% instances), <tt><a href="it_old-pos-CCONJ.html">CCONJ</a></tt> (35; 0% instances), <tt><a href="it_old-pos-PART.html">PART</a></tt> (24; 0% instances), <tt><a href="it_old-pos-NUM.html">NUM</a></tt> (16; 0% instances), <tt><a href="it_old-pos-ADP.html">ADP</a></tt> (7; 0% instances), <tt><a href="it_old-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances)
 
 17389 (100%) `PUNCT` nodes are leaves.
 

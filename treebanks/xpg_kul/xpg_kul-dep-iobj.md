@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-120 nodes (6%) are attached to their parents as `iobj`.
+123 nodes (6%) are attached to their parents as `iobj`.
 
-106 instances of `iobj` (88%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.19166666666667.
+109 instances of `iobj` (89%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.17073170731707.
 
-The following 12 pairs of parts of speech are connected with `iobj`: <tt><a href="xpg_kul-pos-VERB.html">VERB</a></tt>-<tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt> (94; 78% instances), <tt><a href="xpg_kul-pos-SYM.html">SYM</a></tt>-<tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt> (5; 4% instances), <tt><a href="xpg_kul-pos-VERB.html">VERB</a></tt>-<tt><a href="xpg_kul-pos-PRON.html">PRON</a></tt> (5; 4% instances), <tt><a href="xpg_kul-pos-VERB.html">VERB</a></tt>-<tt><a href="xpg_kul-pos-PROPN.html">PROPN</a></tt> (4; 3% instances), <tt><a href="xpg_kul-pos-ADJ.html">ADJ</a></tt>-<tt><a href="xpg_kul-pos-PRON.html">PRON</a></tt> (3; 3% instances), <tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xpg_kul-pos-PRON.html">PRON</a></tt> (2; 2% instances), <tt><a href="xpg_kul-pos-PROPN.html">PROPN</a></tt>-<tt><a href="xpg_kul-pos-PROPN.html">PROPN</a></tt> (2; 2% instances), <tt><a href="xpg_kul-pos-ADJ.html">ADJ</a></tt>-<tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xpg_kul-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="xpg_kul-pos-SYM.html">SYM</a></tt>-<tt><a href="xpg_kul-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="xpg_kul-pos-X.html">X</a></tt>-<tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
+The following 12 pairs of parts of speech are connected with `iobj`: <tt><a href="xpg_kul-pos-VERB.html">VERB</a></tt>-<tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt> (94; 76% instances), <tt><a href="xpg_kul-pos-VERB.html">VERB</a></tt>-<tt><a href="xpg_kul-pos-PROPN.html">PROPN</a></tt> (7; 6% instances), <tt><a href="xpg_kul-pos-SYM.html">SYM</a></tt>-<tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt> (5; 4% instances), <tt><a href="xpg_kul-pos-VERB.html">VERB</a></tt>-<tt><a href="xpg_kul-pos-PRON.html">PRON</a></tt> (5; 4% instances), <tt><a href="xpg_kul-pos-ADJ.html">ADJ</a></tt>-<tt><a href="xpg_kul-pos-PRON.html">PRON</a></tt> (3; 2% instances), <tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xpg_kul-pos-PRON.html">PRON</a></tt> (2; 2% instances), <tt><a href="xpg_kul-pos-PROPN.html">PROPN</a></tt>-<tt><a href="xpg_kul-pos-PROPN.html">PROPN</a></tt> (2; 2% instances), <tt><a href="xpg_kul-pos-ADJ.html">ADJ</a></tt>-<tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xpg_kul-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="xpg_kul-pos-SYM.html">SYM</a></tt>-<tt><a href="xpg_kul-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="xpg_kul-pos-X.html">X</a></tt>-<tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -36,6 +36,23 @@ The following 12 pairs of parts of speech are connected with `iobj`: <tt><a href
 ~~~ conllu
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 4 iobj	color:blue
+1	ates	ates	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	Ref=TM756906-1-1
+2	arkiaevais	arkiaevais	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	Ref=TM756906-1-2
+3	akenanogavos	akenanogavos	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	Ref=TM756906-1-3
+4	midai	midas	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	7	iobj	_	Ref=TM756906-1-4
+5	lavagtaei	lavagtaei	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	4	appos	_	Ref=TM756906-1-5
+6	vanaktei	vanaktei	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	4	appos	_	Ref=TM756906-1-6
+7	edaes	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=TM756906-1-7
+
+~~~
+
+
+~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 4 iobj	color:blue
@@ -44,26 +61,6 @@ The following 12 pairs of parts of speech are connected with `iobj`: <tt><a href
 3	σεμου	σεμουν	DET	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	4	det	_	Ref=TM928661-2-3
 4	κνο[υμανει]	κνουμανει	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	5	iobj	_	Ref=TM928661-2-4
 5	[---]	[---]	SYM	_	_	0	root	_	Ref=TM928661-2-5
-
-~~~
-
-
-~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 6 iobj	color:blue
-1	[---]	[---]	SYM	_	_	9	dep	_	Ref=TM919096-2-1
-2	ιος	ios	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	3	nsubj	_	Ref=TM919096-2-2
-3	αδακετ	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	acl	_	SpaceAfter=No|Ref=TM919096-2-3
-4	,	,	PUNCT	_	_	3	punct	_	Ref=TM919096-2-4
-5	βας	βας	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	Ref=TM919096-2-5
-6	ιοι	ιοι	PRON	_	Case=Dat|Gender=Masc|Number=Sing|PronType=Dem	9	iobj	_	Ref=TM919096-2-6
-7	β˹ε˺κος	βεκος	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	9	obj	_	Ref=TM919096-2-7
-8	με	me2	PART	_	_	9	advmod	_	Ref=TM919096-2-8
-9	βερετ	αββερετ	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=TM919096-2-9
-10	[---]	[---]	SYM	_	_	9	dep	_	Ref=TM919096-2-10
 
 ~~~
 

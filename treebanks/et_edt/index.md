@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.2 release.
 The following people have contributed to making this treebank part of UD: Kadri Muischnek, Kaili Müürisep, Tiina Puolakainen, Andriela Rääbis, Liisi Torga.
 
 Repository: [UD_Estonian-EDT](https://github.com/UniversalDependencies/UD_Estonian-EDT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udet_edt218)<br />
-Download all treebanks: [UD 2.18](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udet_edt219)<br />
+Download all treebanks: [UD 2.19](/#download)
 
 License: CC BY-NC-SA 4.0
 
@@ -359,6 +359,7 @@ This work was financed by the [National Programme for Estonian Language Technolo
     <ul>
       <li>ADJ: viimasega, 80ndatega, II-ga, IV-ga, Viimastega, abstraktsega, auklikuga, dekoratiivsega, dementsetega, eelmisega</li>
       <li>ADJ-Part: toimuvaga</li>
+      <li>DET: kõigega</li>
       <li>NOUN: aastaga, osaajaga, käega, arhitektuuriga, nimega, punktiga, tööga, häälega, tõenäosusega, pilguga</li>
       <li>NOUN-Part: Eelnevaga, ennustatuga, koondatavaga, olemasolevaga, soovitatuga, tooduga</li>
       <li>NUM: ühega, 2/3ga, 2ga, nulliga, 17.99ga, 3.51,1-ga, 351ga, 49,38ga, 54,68ga, kümnega</li>
@@ -384,7 +385,7 @@ This work was financed by the [National Programme for Estonian Language Technolo
       <li>ADJ: keskmisest, suurest, esimesest, tavalisest, senisest, vanast, uuest, endisest, mustast, viimasest</li>
       <li>ADJ-Part: toimuvast, erinevatest, loodetust, eelnevast, mõjutavatest, olevast, toimuvatest, ümbritsevast, asuvast, erinevast</li>
       <li>AUX-Sup: olemast</li>
-      <li>DET: sellest, neist, ühest, teistest, teisest, kõigist, mõnest, paljudest, nendest, mitmest</li>
+      <li>DET: sellest, neist, ühest, teistest, teisest, kõigist, mõnest, paljudest, mitmest, nendest</li>
       <li>NOUN: aastast, ajast, aastatest, elust, peast, algusest, uksest, küljest, tervisest, üldlipiididest</li>
       <li>NOUN-Part: hõivatuist, hõivatutest, vastanuist, eeltoodust, toodust, uurituist, uuritutest, vastanutest, Eelöeldust, alustanust</li>
       <li>NUM: kahest, kolmest, kümnest, ühest, neljast, sajast, kuuest, 644-st, viiest, üheksast</li>
@@ -479,7 +480,7 @@ This work was financed by the [National Programme for Estonian Language Technolo
     <ul>
       <li>ADJ: uusi, esimest, suurt, erinevaid, uut, head, suuri, suuremat, viimast, pikka</li>
       <li>ADJ-Part: erinevaid, erinevat, huvitavaid, toimuvat, vastavat, huvitavat, täiendavaid, täiendavat, vajaminevat, sobivat</li>
-      <li>DET: seda, mingit, neid, kõiki, sellist, mingeid, mitmeid, selliseid, sama, teisi</li>
+      <li>DET: seda, mingit, neid, sellist, kõiki, mingeid, mitmeid, selliseid, sama, teisi</li>
       <li>NOUN: aastat, korda, krooni, aega, raha, tegemist, tööd, aru, inimesi, mõju</li>
       <li>NOUN-Part: uuritavat, olemasolevaid, toimunut, juhtunut, kinnipeetavat, süüdistatavaid, edasijõudnuid, eeltoodut, elusolevat, hõivatuid</li>
       <li>NUM: miljonit, kahte, miljardit, kolme, ühtegi, tuhandeid, üht, ühte, nelja, kaht</li>
@@ -511,7 +512,7 @@ This work was financed by the [National Programme for Estonian Language Technolo
       <li>NOUN: lisaks, põhjuseks, aluseks, aastaks, eesmärgiks, ajaks, lõpuks, kasuks, ülesandeks, saamiseks</li>
       <li>NOUN-Part: viibinuks, väljavalituteks</li>
       <li>NUM: kaheks, kolmeks, üheks, neljaks, viieks, paariks, kuueks, pooleks, 10ks, 51-ks</li>
-      <li>PRON: selleks, omaks, milleks, samaks, nendeks, selliseks, iseendaks, kõigeks, kelleks, paljuks</li>
+      <li>PRON: selleks, omaks, milleks, samaks, nendeks, selliseks, iseendaks, kelleks, kõigeks, paljuks</li>
       <li>PROPN: Arpanetiks, Atriumiks, Cabernet'-veiniks, Chappaquaks, Entente'iks, Franckiks, Francoks, Hitleriks, Indiaks, Iraagiks</li>
       <li>SYM: A-ks</li>
       <li>VERB-Sup: leidmaks, kirjeldamaks, vältimaks, näitamaks, rõhutamaks, selgitamaks, Andmaks, Jõudmaks, Kavandamaks, Saavutamaks</li>
@@ -723,7 +724,7 @@ This work was financed by the [National Programme for Estonian Language Technolo
 <ul>
   <li>Dem
     <ul>
-      <li>ADJ: selline, sama, samasugune, sellised, sellist, selliseid, niisugune, samad, samasugused, sedasama</li>
+      <li>ADJ: selline, sama, samasugune, sellised, selliseid, niisugune, sellist, samad, samasugused, sedasama</li>
       <li>DET: see, selle, need, seda, sel, nende, samal, sama, teiste, selline</li>
       <li>PRON: see, seda, selle, sellest, nende, need, neid, selleks, sellega, sellele</li>
       <li>PROPN: teise</li>
@@ -734,9 +735,9 @@ This work was financed by the [National Programme for Estonian Language Technolo
 <ul>
   <li>Ind
     <ul>
-      <li>ADJ: igasuguseid, mingisugust, muu, muud, muul</li>
+      <li>ADJ: igasuguseid, mingisugust, muud, muul</li>
       <li>DET: üks, ühe, mitu, mingi, mingit, mõne, mõni, mõned, paljud, ühel</li>
-      <li>PRON: midagi, keegi, muud, üks, muu, paljud, kedagi, igaüks, kellelegi, miski</li>
+      <li>PRON: midagi, keegi, üks, muud, muu, paljud, kedagi, igaüks, kellelegi, miski</li>
     </ul>
   </li>
 </ul>
@@ -1171,7 +1172,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Nom (11301)</li>
       <li>VERB-Fin--NOUN-Par (1082)</li>
       <li>VERB-Fin--PRON-Nom (5769)</li>
-      <li>VERB-Fin--PRON-Par (139)</li>
+      <li>VERB-Fin--PRON-Par (140)</li>
       <li>VERB-Inf--NOUN (4)</li>
       <li>VERB-Inf--NOUN-Gen (3)</li>
       <li>VERB-Inf--NOUN-Nom (516)</li>

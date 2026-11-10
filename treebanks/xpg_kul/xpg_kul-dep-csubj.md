@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-74 nodes (4%) are attached to their parents as `csubj`.
+75 nodes (4%) are attached to their parents as `csubj`.
 
-73 instances of `csubj` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.14864864864865.
+74 instances of `csubj` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.10666666666667.
 
-The following 3 pairs of parts of speech are connected with `csubj`: <tt><a href="xpg_kul-pos-VERB.html">VERB</a></tt>-<tt><a href="xpg_kul-pos-VERB.html">VERB</a></tt> (72; 97% instances), <tt><a href="xpg_kul-pos-AUX.html">AUX</a></tt>-<tt><a href="xpg_kul-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="xpg_kul-pos-PRON.html">PRON</a></tt>-<tt><a href="xpg_kul-pos-VERB.html">VERB</a></tt> (1; 1% instances).
+The following 3 pairs of parts of speech are connected with `csubj`: <tt><a href="xpg_kul-pos-VERB.html">VERB</a></tt>-<tt><a href="xpg_kul-pos-VERB.html">VERB</a></tt> (73; 97% instances), <tt><a href="xpg_kul-pos-AUX.html">AUX</a></tt>-<tt><a href="xpg_kul-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="xpg_kul-pos-PRON.html">PRON</a></tt>-<tt><a href="xpg_kul-pos-VERB.html">VERB</a></tt> (1; 1% instances).
 
 
 ~~~ conllu

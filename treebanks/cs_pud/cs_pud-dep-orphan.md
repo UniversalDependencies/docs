@@ -25,7 +25,7 @@ The following 12 pairs of parts of speech are connected with `orphan`: <tt><a hr
 1	Federico	Federico	PROPN	NNMS1-----A----	Animacy=Anim|Case=Nom|Foreign=Yes|Gender=Masc|NameType=Giv|Number=Sing	4	nsubj	4:nsubj	_
 2	Fellini	Fellini	PROPN	NNMS1-----A----	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	1	flat	1:flat	_
 3	jednou	jednou	ADV	Db-------------	_	4	advmod	4:advmod	LId=jednou-2
-4	řekl	říci	VERB	VpYS---XR-AA---	Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	SpaceAfter=No
+4	řekl	říci	VERB	VpYS---XR-AA---	Aspect=Perf|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	SpaceAfter=No
 5	:	:	PUNCT	Z:-------------	_	10	punct	8:punct	_
 6	„	"	PUNCT	Z:-------------	_	10	punct	8:punct	SpaceAfter=No
 7	Klaun	klaun	NOUN	NNMS1-----A----	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	10	nsubj	8:nsubj	_

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-183 nodes (7%) are attached to their parents as `obj`.
+181 nodes (7%) are attached to their parents as `obj`.
 
-182 instances of `obj` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.22950819672131.
+180 instances of `obj` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.22099447513812.
 
-The following 7 pairs of parts of speech are connected with `obj`: <tt><a href="ta_mwtt-pos-VERB.html">VERB</a></tt>-<tt><a href="ta_mwtt-pos-NOUN.html">NOUN</a></tt> (132; 72% instances), <tt><a href="ta_mwtt-pos-VERB.html">VERB</a></tt>-<tt><a href="ta_mwtt-pos-PRON.html">PRON</a></tt> (28; 15% instances), <tt><a href="ta_mwtt-pos-VERB.html">VERB</a></tt>-<tt><a href="ta_mwtt-pos-PROPN.html">PROPN</a></tt> (17; 9% instances), <tt><a href="ta_mwtt-pos-VERB.html">VERB</a></tt>-<tt><a href="ta_mwtt-pos-NUM.html">NUM</a></tt> (3; 2% instances), <tt><a href="ta_mwtt-pos-ADV.html">ADV</a></tt>-<tt><a href="ta_mwtt-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="ta_mwtt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ta_mwtt-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="ta_mwtt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ta_mwtt-pos-PRON.html">PRON</a></tt> (1; 1% instances).
+The following 7 pairs of parts of speech are connected with `obj`: <tt><a href="ta_mwtt-pos-VERB.html">VERB</a></tt>-<tt><a href="ta_mwtt-pos-NOUN.html">NOUN</a></tt> (130; 72% instances), <tt><a href="ta_mwtt-pos-VERB.html">VERB</a></tt>-<tt><a href="ta_mwtt-pos-PRON.html">PRON</a></tt> (28; 15% instances), <tt><a href="ta_mwtt-pos-VERB.html">VERB</a></tt>-<tt><a href="ta_mwtt-pos-PROPN.html">PROPN</a></tt> (17; 9% instances), <tt><a href="ta_mwtt-pos-VERB.html">VERB</a></tt>-<tt><a href="ta_mwtt-pos-NUM.html">NUM</a></tt> (3; 2% instances), <tt><a href="ta_mwtt-pos-ADV.html">ADV</a></tt>-<tt><a href="ta_mwtt-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="ta_mwtt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ta_mwtt-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="ta_mwtt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ta_mwtt-pos-PRON.html">PRON</a></tt> (1; 1% instances).
 
 
 ~~~ conllu

@@ -6,16 +6,16 @@ udver: '2'
 
 ## Treebank Statistics: UD_Latvian-LVTB: POS Tags: `SYM`
 
-There are 69 `SYM` lemmas (0%), 70 `SYM` types (0%) and 497 `SYM` tokens (0%).
+There are 71 `SYM` lemmas (0%), 72 `SYM` types (0%) and 499 `SYM` tokens (0%).
 Out of 17 observed tags, the rank of `SYM` is: 10 in number of lemmas, 13 in number of types and 16 in number of tokens.
 
 The 10 most frequent `SYM` lemmas: <em>%, *, u.c., Re, &, utt., ***, t.i., +, :)</em>
 
 The 10 most frequent `SYM` types:  <em>%, *, Re, &, u.c., utt., .u, ***, t.i., +</em>
 
-The 10 most frequent ambiguous lemmas: <em>&</em> (<tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt> 17, <tt><a href="lv_lvtb-pos-X.html">X</a></tt> 1), <em>a</em> (<tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt> 15, <tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt> 7, <tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt> 2, <tt><a href="lv_lvtb-pos-X.html">X</a></tt> 2), <em>AB.LV</em> (<tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt> 1, <tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt> 1), <em>b</em> (<tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt> 6, <tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt> 1), <em>c</em> (<tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt> 3, <tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>&</em> (<tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt> 17, <tt><a href="lv_lvtb-pos-X.html">X</a></tt> 1), <em>a</em> (<tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt> 15, <tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt> 7, <tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt> 2, <tt><a href="lv_lvtb-pos-X.html">X</a></tt> 2), <em>AB.LV</em> (<tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt> 1, <tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt> 1), <em>L</em> (<tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt> 4, <tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt> 1), <em>XVIII</em> (<tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> 1, <tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt> 1), <em>b</em> (<tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt> 6, <tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt> 1), <em>c</em> (<tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt> 3, <tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>Re</em> (<tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt> 20, <tt><a href="lv_lvtb-pos-INTJ.html">INTJ</a></tt> 7), <em>&</em> (<tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt> 17, <tt><a href="lv_lvtb-pos-X.html">X</a></tt> 1), <em>a</em> (<tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt> 15, <tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="lv_lvtb-pos-X.html">X</a></tt> 2, <tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt> 1), <em>AB.LV</em> (<tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt> 1, <tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt> 1), <em>b</em> (<tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt> 6, <tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt> 1), <em>c</em> (<tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>Re</em> (<tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt> 20, <tt><a href="lv_lvtb-pos-INTJ.html">INTJ</a></tt> 7), <em>&</em> (<tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt> 17, <tt><a href="lv_lvtb-pos-X.html">X</a></tt> 1), <em>a</em> (<tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt> 15, <tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="lv_lvtb-pos-X.html">X</a></tt> 2, <tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt> 1), <em>AB.LV</em> (<tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt> 1, <tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt> 1), <em>L</em> (<tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt> 4, <tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt> 1), <em>XVIII</em> (<tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> 1, <tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt> 1), <em>b</em> (<tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt> 6, <tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt> 1), <em>c</em> (<tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt> 1)
 
 
 * <em>Re</em>
@@ -32,6 +32,12 @@ The 10 most frequent ambiguous types:  <em>Re</em> (<tt><a href="lv_lvtb-pos-SYM
 * <em>AB.LV</em>
   * <tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt> 1: <em>Bez tam , 2012. gada oktobrī tika veiksmīgi pabeigts darījums ar Pillar grupas uzņēmuma <b>AB.LV</b> Transform Investments , SIA , īpašumu Maskavā par kopējo summu 3,4 miljoni eiro .</em>
   * <tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt> 1: <em>AS " Grindeks " lielākie akcionāri ir Lipmans - 33,29 % , Anna Lipmane - 16,69 % , " <b>AB.LV</b> Private Equity fund 2010 " - 11,38 % , " Skandinaviska Enskilda Banken " ( nomināla turētājs ) - 10,53 % , " " Swedbank " AS Clients Account " ( nomināla turētājs ) - 8,79 % .</em>
+* <em>L</em>
+  * <tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt> 4: <em>[ 4 ] OV <b>L</b> 283 , 28.10.1980. , 23. lpp.</em>
+  * <tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt> 1: <em>[ 7 ] OV <b>L</b> 206 , 29.7.1991. , 19. lpp.</em>
+* <em>XVIII</em>
+  * <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> 1: <em>Telpā nebija scenogrāfijas uzbūves vai rekvizītu , izņemot zālē iebūvētās kolonas , ap kurām riņķoja V. Varslavānes efektīgajos <b>XVIII</b> gs. modi imitējošajos tērpos ģērbtās , balti pūderētās aktrises .</em>
+  * <tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt> 1: <em>LNB direktors vēstniekam bija sarūpējis pārsteigumu : rādot 1809. gadā izdoto Luidži Lanzi darbu “ Storia pittorica della Italia dal risorgimento delle Belle Arti fin presso al fine del <b>XVIII</b> secolo " un stāstot , kā šis izdevums nokļuvis Nacionālajā bibliotēkā , noslēgumā Andris Vilks atšķīra grāmatas pēdējās lappuses , kuras rotāja unikāls fakts - Stendāla oriģinālajā rokrakstā lasāmi viņa pieraksti .</em>
 * <em>b</em>
   * <tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt> 6: <em>Par labākajām atzina 11. a , 9. a , 9. <b>b</b> un 12. a klases komandu .</em>
   * <tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt> 1: <em>Tāpēc ( a ) jāsašaurina brīvības atņemšanas piemērošanas iespējas , ( <b>b</b> ) jāpaplašina sabiedrībā izciešamo sodu klāsts , ( c ) aktualizējama dalīto sodu izciešana krimināltiesībās u.c. , proti , jāsamazina kriminālrepresijas līmenis , liberalizējot sodus un to piemērošanas kārtību ; likumdevējam un sabiedrībai jāpārvar vienaldzīgā attieksme pret sodītām personām , jau soda izciešanas procesā tās iesaistot dažādās resocializācijas programmās , tādējādi veicinot šo personu reintegrāciju sabiedrībā pēc soda izciešanas .</em>
@@ -41,7 +47,7 @@ The 10 most frequent ambiguous types:  <em>Re</em> (<tt><a href="lv_lvtb-pos-SYM
 
 ## Morphology
 
-The form / lemma ratio of `SYM` is 1.014493 (the average of all parts of speech is 2.342815).
+The form / lemma ratio of `SYM` is 1.014085 (the average of all parts of speech is 2.343431).
 
 The 1st highest number of forms (2) was observed with the lemma “u.c.”: <em>.u, u.c.</em>.
 
@@ -54,23 +60,23 @@ The 3rd highest number of forms (1) was observed with the lemma “&”: <em>&</
 `SYM` occurs with 2 feature-value pairs: `Abbr=Yes`, `Typo=Yes`
 
 `SYM` occurs with 3 feature combinations.
-The most frequent feature combination is `_` (439 tokens).
+The most frequent feature combination is `_` (441 tokens).
 Examples: <em>%, *, Re, &, ***, +, :), =, M-3, x</em>
 
 
 ## Relations
 
-`SYM` nodes are attached to their parents using 19 different relations: <tt><a href="lv_lvtb-dep-flat.html">flat</a></tt> (67; 13% instances), <tt><a href="lv_lvtb-dep-conj.html">conj</a></tt> (65; 13% instances), <tt><a href="lv_lvtb-dep-obl.html">obl</a></tt> (50; 10% instances), <tt><a href="lv_lvtb-dep-root.html">root</a></tt> (47; 9% instances), <tt><a href="lv_lvtb-dep-nsubj.html">nsubj</a></tt> (46; 9% instances), <tt><a href="lv_lvtb-dep-parataxis.html">parataxis</a></tt> (35; 7% instances), <tt><a href="lv_lvtb-dep-nmod.html">nmod</a></tt> (32; 6% instances), <tt><a href="lv_lvtb-dep-discourse.html">discourse</a></tt> (30; 6% instances), <tt><a href="lv_lvtb-dep-dep.html">dep</a></tt> (27; 5% instances), <tt><a href="lv_lvtb-dep-flat-name.html">flat:name</a></tt> (27; 5% instances), <tt><a href="lv_lvtb-dep-iobj.html">iobj</a></tt> (27; 5% instances), <tt><a href="lv_lvtb-dep-amod.html">amod</a></tt> (12; 2% instances), <tt><a href="lv_lvtb-dep-acl.html">acl</a></tt> (10; 2% instances), <tt><a href="lv_lvtb-dep-advmod.html">advmod</a></tt> (9; 2% instances), <tt><a href="lv_lvtb-dep-xcomp.html">xcomp</a></tt> (4; 1% instances), <tt><a href="lv_lvtb-dep-nsubj-pass.html">nsubj:pass</a></tt> (3; 1% instances), <tt><a href="lv_lvtb-dep-advcl.html">advcl</a></tt> (2; 0% instances), <tt><a href="lv_lvtb-dep-cc.html">cc</a></tt> (2; 0% instances), <tt><a href="lv_lvtb-dep-orphan.html">orphan</a></tt> (2; 0% instances)
+`SYM` nodes are attached to their parents using 20 different relations: <tt><a href="lv_lvtb-dep-flat.html">flat</a></tt> (67; 13% instances), <tt><a href="lv_lvtb-dep-conj.html">conj</a></tt> (65; 13% instances), <tt><a href="lv_lvtb-dep-obl.html">obl</a></tt> (50; 10% instances), <tt><a href="lv_lvtb-dep-root.html">root</a></tt> (47; 9% instances), <tt><a href="lv_lvtb-dep-nsubj.html">nsubj</a></tt> (46; 9% instances), <tt><a href="lv_lvtb-dep-parataxis.html">parataxis</a></tt> (35; 7% instances), <tt><a href="lv_lvtb-dep-nmod.html">nmod</a></tt> (32; 6% instances), <tt><a href="lv_lvtb-dep-discourse.html">discourse</a></tt> (30; 6% instances), <tt><a href="lv_lvtb-dep-flat-name.html">flat:name</a></tt> (28; 6% instances), <tt><a href="lv_lvtb-dep-dep.html">dep</a></tt> (27; 5% instances), <tt><a href="lv_lvtb-dep-iobj.html">iobj</a></tt> (27; 5% instances), <tt><a href="lv_lvtb-dep-amod.html">amod</a></tt> (12; 2% instances), <tt><a href="lv_lvtb-dep-acl.html">acl</a></tt> (10; 2% instances), <tt><a href="lv_lvtb-dep-advmod.html">advmod</a></tt> (9; 2% instances), <tt><a href="lv_lvtb-dep-xcomp.html">xcomp</a></tt> (4; 1% instances), <tt><a href="lv_lvtb-dep-nsubj-pass.html">nsubj:pass</a></tt> (3; 1% instances), <tt><a href="lv_lvtb-dep-advcl.html">advcl</a></tt> (2; 0% instances), <tt><a href="lv_lvtb-dep-cc.html">cc</a></tt> (2; 0% instances), <tt><a href="lv_lvtb-dep-orphan.html">orphan</a></tt> (2; 0% instances), <tt><a href="lv_lvtb-dep-flat-foreign.html">flat:foreign</a></tt> (1; 0% instances)
 
-Parents of `SYM` nodes belong to 10 different parts of speech: <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (164; 33% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (132; 27% instances), <tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt> (72; 14% instances),  (47; 9% instances), <tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt> (41; 8% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> (14; 3% instances), <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> (14; 3% instances), <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (6; 1% instances), <tt><a href="lv_lvtb-pos-X.html">X</a></tt> (6; 1% instances), <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> (1; 0% instances)
+Parents of `SYM` nodes belong to 10 different parts of speech: <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (164; 33% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (132; 26% instances), <tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt> (72; 14% instances),  (47; 9% instances), <tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt> (42; 8% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> (14; 3% instances), <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> (14; 3% instances), <tt><a href="lv_lvtb-pos-X.html">X</a></tt> (7; 1% instances), <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (6; 1% instances), <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> (1; 0% instances)
 
-185 (37%) `SYM` nodes are leaves.
+187 (37%) `SYM` nodes are leaves.
 
 66 (13%) `SYM` nodes have one child.
 
 154 (31%) `SYM` nodes have two children.
 
-92 (19%) `SYM` nodes have three or more children.
+92 (18%) `SYM` nodes have three or more children.
 
 The highest child degree of a `SYM` node is 8.
 

@@ -22,8 +22,8 @@ The following 11 pairs of parts of speech are connected with `root`: -<tt><a hre
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 1 root	color:blue
-1	просімъ	просити	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
-2	тѧ	тꙑ	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	obj	_	ref=
+1	просімъ	просити	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	тѧ	тꙑ	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	obj	_	_
 
 ~~~
 
@@ -34,13 +34,13 @@ The following 11 pairs of parts of speech are connected with `root`: -<tt><a hre
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 1 root	color:blue
-1	МЬШѢ	мьша	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	0	root	_	ref=
-2	НА	на	ADP	R-	_	4	case	_	ref=
-3	ВЬСѦ	вьсь	DET	Px	Case=Acc|Gender=Masc|Number=Plur	4	det	_	ref=
-4	ДЬНꙆ	дьнь	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	1	nmod	_	ref=
-5	ВСЕГО	вьсь	DET	Px	Case=Gen|Gender=Neut|Number=Sing	6	det	_	ref=
-6	ЛѢТА	лѣто	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	1	orphan	_	ref=
-7	ОБꙆДѪЦѢ	обити	VERB	V-	Case=Gen|Gender=Neut|Number=Sing|Tense=Pres|Variant=Short|VerbForm=Part|Voice=Act	6	acl	_	ref=|LId=1
+1	МЬШѢ	мьша	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+2	НА	на	ADP	R-	_	4	case	_	_
+3	ВЬСѦ	вьсь	DET	Px	Case=Acc|Gender=Masc|Number=Plur	4	det	_	_
+4	ДЬНꙆ	дьнь	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	1	nmod	_	_
+5	ВСЕГО	вьсь	DET	Px	Case=Gen|Gender=Neut|Number=Sing	6	det	_	_
+6	ЛѢТА	лѣто	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	1	orphan	_	_
+7	ОБꙆДѪЦѢ	обити	VERB	V-	Case=Gen|Gender=Neut|Number=Sing|Tense=Pres|Variant=Short|VerbForm=Part|Voice=Act	6	acl	_	LId=1
 
 ~~~
 

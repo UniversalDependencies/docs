@@ -24,7 +24,7 @@ The most frequent other feature values with which `NOUN` and `Animacy` co-occurr
 
 * `Anim` (9087; 16% of non-empty `Animacy`): <em>pracovníků, lidí, člověka, člověk, lidé, pracovník, členů, vedoucí, ředitel, pracovníci</em>
 * `Inan` (47297; 84% of non-empty `Animacy`): <em>roce, roku, úkolů, výsledky, jazyka, procesu, úkoly, podniku, života, základě</em>
-* `EMPTY` (79798): <em>práce, let, práci, oblasti, době, společnosti, hlediska, činnosti, výroby, období</em>
+* `EMPTY` (79858): <em>práce, let, práci, oblasti, době, společnosti, hlediska, činnosti, výroby, období</em>
 
 <table>
   <tr><th>Paradigm <i>druh</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
@@ -48,7 +48,7 @@ The most frequent other feature values with which `NOUN` and `Animacy` co-occurr
 
 28965 <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> tokens (39% of all `ADJ` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `ADJ` and `Animacy` co-occurred: <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (27861; 96%), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (27826; 96%), <tt><a href="cs_cac-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (26253; 91%), <tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (24019; 83%), <tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (24019; 83%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (15705; 54%).
+The most frequent other feature values with which `ADJ` and `Animacy` co-occurred: <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (27861; 96%), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (27826; 96%), <tt><a href="cs_cac-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (26253; 91%), <tt><a href="cs_cac-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (24588; 85%), <tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (24019; 83%), <tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (24019; 83%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (15705; 54%).
 
 `ADJ` tokens may have the following values of `Animacy`:
 
@@ -125,7 +125,7 @@ The most frequent other feature values with which `PROPN` and `Animacy` co-occur
 
 3180 <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> tokens (8% of all `VERB` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `VERB` and `Animacy` co-occurred: <tt><a href="cs_cac-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (3180; 100%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Plur</tt> (3180; 100%), <tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (3180; 100%), <tt><a href="cs_cac-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (3180; 100%), <tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (3180; 100%), <tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (3180; 100%), <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (2971; 93%), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (2051; 64%).
+The most frequent other feature values with which `VERB` and `Animacy` co-occurred: <tt><a href="cs_cac-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (3180; 100%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Plur</tt> (3180; 100%), <tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (3180; 100%), <tt><a href="cs_cac-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (3180; 100%), <tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (3180; 100%), <tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (3180; 100%), <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (2971; 93%), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (2051; 64%), <tt><a href="cs_cac-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (1629; 51%).
 
 `VERB` tokens may have the following values of `Animacy`:
 
@@ -211,7 +211,7 @@ The most frequent other feature values with which `NUM` and `Animacy` co-occurre
 
 * `Anim` (12; 12% of non-empty `Animacy`): <em>jednoho</em>
 * `Inan` (88; 88% of non-empty `Animacy`): <em>jeden</em>
-* `EMPTY` (7207): <em>#, dvou, dvě, tři, dva, obou, jedné, jeden, jednoho, jedním</em>
+* `EMPTY` (7147): <em>#, dvou, dvě, tři, dva, obou, jedné, jeden, jednoho, jedním</em>
 
 <table>
   <tr><th>Paradigm <i>jeden</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>

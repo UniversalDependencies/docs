@@ -16,7 +16,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="et_ewt-pos-ADJ.html
 
 ### `ADJ`
 
-4755 <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt> tokens (90% of all `ADJ` tokens) have a non-empty value of `Degree`.
+4755 <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt> tokens (91% of all `ADJ` tokens) have a non-empty value of `Degree`.
 
 The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="et_ewt-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (3938; 83%), <tt><a href="et_ewt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (3927; 83%), <tt><a href="et_ewt-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (3927; 83%), <tt><a href="et_ewt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3362; 71%), <tt><a href="et_ewt-feat-Case.html">Case</a></tt><tt>=Nom</tt> (2399; 50%).
 
@@ -25,7 +25,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 * `Cmp` (442; 9% of non-empty `Degree`): <em>parem, suurem, lihtsam, raskem, paremad, hullem, kergem, parema, suurema, suuremaks</em>
 * `Pos` (4262; 90% of non-empty `Degree`): <em>hea, suur, võimalik, õige, huvitav, head, vana, uus, lihtne, tore</em>
 * `Sup` (51; 1% of non-empty `Degree`): <em>parim, parima, suurim, parimad, parimaid, parimate, Suurimad, enim, huvitavaim, ilusaima</em>
-* `EMPTY` (501): <em>esimene, selline, inglise, eesti, sama, sellist, esimese, vene, 3., esimest</em>
+* `EMPTY` (493): <em>esimene, selline, inglise, eesti, sama, esimese, vene, 3., esimest, 27.</em>
 
 <table>
   <tr><th>Paradigm <i>parem</i></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th></tr>

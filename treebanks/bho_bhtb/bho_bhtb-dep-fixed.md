@@ -121,7 +121,7 @@ The following 8 pairs of parts of speech are connected with `fixed`: <tt><a href
 46	कहले	कह	VERB	V_VM	Mood=Sub|VerbForm=Fin|Voice=Act	62	nmod	_	Translit=kahale|LTranslit=kaha
 47	बाड़न	बा	AUX	V_VAUX	_	46	aux	_	Translit=bāṛana|LTranslit=bā
 48	,	COMMA	PUNCT	RD_PUNC	_	49	punct	_	Translit=,|LTranslit=COMMA
-49	जवना	जवना	DET	DM_DMR	Case=Acc|Gender=Fem|Number=Sing|Person=3	53	obl	_	Translit=javanā|LTranslit=javanā
+49	जवना	जवना	DET	DM_DMR	Case=Acc|Gender=Fem|Number=Sing|Person=3	53	nmod	_	Translit=javanā|LTranslit=javanā
 50	से	से	ADP	PSP	AdpType=Post	49	case	_	Translit=se|LTranslit=se
 51	उनकर	उनकर	DET	DM_DMD	_	53	det	_	Translit=unakara|LTranslit=unakara
 52	निबंध	निबंध	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	53	compound	_	Translit=nibaṁdha|LTranslit=nibaṁdha

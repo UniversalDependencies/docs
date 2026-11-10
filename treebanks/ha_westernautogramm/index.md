@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.17 release
 The following people have contributed to making this treebank part of UD: Bernard Caron.
 
 Repository: [UD_Hausa-WesternAutogramm](https://github.com/UniversalDependencies/UD_Hausa-WesternAutogramm)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udha_westernautogramm218)<br />
-Download all treebanks: [UD 2.18](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udha_westernautogramm219)<br />
+Download all treebanks: [UD 2.19](/#download)
 
 License: CC BY-SA 4.0
 
@@ -44,17 +44,15 @@ Do not submit pull requests against the UD repository.
 
 ## Description
 
-This treebank contains data of Southern Autogramm, for the (Tibiri) Gobir dialect of Niger Republic (Western Hausa).
+This treebank contains data for the (Tibiri) Gobir dialect of Niger Republic (Western Hausa).
 
 
 
-The Gobir dialect is a transition between the Standard (Kano) Hausa and the Sokoto dialect (see SUD_Hausa-NorthernAutogramm).
+The Gobir dialect is a transition between the Standard Hausa of Kano (i.e. Eastern Hausa: https://universaldependencies.org/treebanks/ha_easternautogramm/index.html) and the Ader dialect (i.e. Northern Hausa: https://universaldependencies.org/treebanks/ha_northernautogramm/index.html ) .
 
-The treebank contains 775 sentences, 14,663 tokens and 12,007 words.
+The treebank contains 6 samples, 775 sentences, 13,903 tokens.
 
 It is maintained in the [SUD](https://surfacesyntacticud.org/) framework: [SUD_Hausa-WesternAutogramm](https://universal.grew.fr/?corpus=SUD_Hausa-WesternAutogramm) and converted automatically in UD.
-
-
 
 ## Acknowledgments
 The texts annotated in this treebank were dictated to Claude Gouffé in 1968 in Tibiri (Gobir, Niger Republic).

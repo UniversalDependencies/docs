@@ -23,7 +23,7 @@ The most frequent other feature values with which `NOUN` and `Abbr` co-occurred:
 `NOUN` tokens may have the following values of `Abbr`:
 
 * `Yes` (135; 100% of non-empty `Abbr`): <em>etc, etc., mins, thx, No., b, gtee, luv, ppl, thanx</em>
-* `EMPTY` (42949): <em>time, people, service, place, thanks, food, way, year, day, number</em>
+* `EMPTY` (42940): <em>time, people, service, place, thanks, food, way, year, day, number</em>
 
 `Abbr` seems to be **lexical feature** of `NOUN`. 100% lemmas (32) occur only with one value of `Abbr`.
 
@@ -36,7 +36,7 @@ The most frequent other feature values with which `PROPN` and `Abbr` co-occurred
 `PROPN` tokens may have the following values of `Abbr`:
 
 * `Yes` (126; 100% of non-empty `Abbr`): <em>Sept., Dec., Oct, Oct., feb, Jan, Nov, Nov., Sat., Fri</em>
-* `EMPTY` (16436): <em>bush, US, al, Iraq, enron, Iran, China, states, John, Qaeda</em>
+* `EMPTY` (16445): <em>bush, US, al, Iraq, enron, Iran, China, states, John, Qaeda</em>
 
 `Abbr` seems to be **lexical feature** of `PROPN`. 100% lemmas (24) occur only with one value of `Abbr`.
 
@@ -58,7 +58,7 @@ The most frequent other feature values with which `NUM` and `Abbr` co-occurred: 
 `ADP` tokens may have the following values of `Abbr`:
 
 * `Yes` (43; 100% of non-empty `Abbr`): <em>o, thru, vs, w, ta, f, a, w/, 2, 4</em>
-* `EMPTY` (21734): <em>of, in, to, for, on, with, at, from, by, as</em>
+* `EMPTY` (21735): <em>of, in, to, for, on, with, at, from, by, as</em>
 
 `Abbr` seems to be **lexical feature** of `ADP`. 100% lemmas (10) occur only with one value of `Abbr`.
 
@@ -126,7 +126,7 @@ The most frequent other feature values with which `PRON` and `Abbr` co-occurred:
 `SCONJ` tokens may have the following values of `Abbr`:
 
 * `Yes` (11; 100% of non-empty `Abbr`): <em>b/c, 4, bc, tho, w/out, cos, coz, cus</em>
-* `EMPTY` (4589): <em>that, if, as, because, for, of, since, before, like, while</em>
+* `EMPTY` (4588): <em>that, if, as, because, for, of, since, before, like, while</em>
 
 ### `AUX`
 

@@ -16,11 +16,11 @@ Family: IE
 
 This treebank has been part of Universal Dependencies since the UD v2.2 release.
 
-The following people have contributed to making this treebank part of UD: Kim Gerdes, Sylvain Kahane, Mariam Nakhlé, Chunxiao Yan, Aline Etienne, Marine Courtin.
+The following people have contributed to making this treebank part of UD: Kim Gerdes, Sylvain Kahane, Mariam Nakhlé, Chunxiao Yan, Aline Etienne, Marine Courtin, Bruno Guillaume.
 
 Repository: [UD_French-Rhapsodie](https://github.com/UniversalDependencies/UD_French-Rhapsodie)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfr_rhapsodie218)<br />
-Download all treebanks: [UD 2.18](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfr_rhapsodie219)<br />
+Download all treebanks: [UD 2.19](/#download)
 
 License: CC BY-SA 4.0
 
@@ -47,7 +47,7 @@ A Universal Dependencies corpus for spoken French.
 
 
 The corpus was converted automatically from the [Rhapsodie treebank](https://rhapsodie.modyco.fr/) with manual corrections.
-The treebank in maintained in the repository [SUD_French-Rhapsodie](https://github.com/surfacesyntacticud/SUD_French-Rhapsodie) in the [SUD](https://surfacesyntacticud.github.io/) annotation schema.
+The treebank in maintained in the repository [SUD_French-Rhapsodie](https://github.com/surfacesyntacticud/SUD_French-Rhapsodie) in the [SUD](https://surfacesyntacticud.org/) annotation schema.
 
 The SUD version is also available with prosodic annotation (see [SUD README.md](https://github.com/surfacesyntacticud/SUD_French-Rhapsodie/blob/master/README.md)).
 
@@ -69,17 +69,17 @@ Resource maintenance has been supported by [Autogramm](https://autogramm.github.
 
 ## Relations
 
-[acl](fr_rhapsodie-dep-acl.html) – [acl:relcl](fr_rhapsodie-dep-acl-relcl.html) – [advcl](fr_rhapsodie-dep-advcl.html) – [advcl:cleft](fr_rhapsodie-dep-advcl-cleft.html) – [advmod](fr_rhapsodie-dep-advmod.html) – [amod](fr_rhapsodie-dep-amod.html) – [appos](fr_rhapsodie-dep-appos.html) – [aux](fr_rhapsodie-dep-aux.html) – [aux:caus](fr_rhapsodie-dep-aux-caus.html) – [aux:pass](fr_rhapsodie-dep-aux-pass.html) – [aux:tense](fr_rhapsodie-dep-aux-tense.html) – [case](fr_rhapsodie-dep-case.html) – [cc](fr_rhapsodie-dep-cc.html) – [ccomp](fr_rhapsodie-dep-ccomp.html) – [compound](fr_rhapsodie-dep-compound.html) – [conj](fr_rhapsodie-dep-conj.html) – [cop](fr_rhapsodie-dep-cop.html) – [csubj](fr_rhapsodie-dep-csubj.html) – [csubj:pass](fr_rhapsodie-dep-csubj-pass.html) – [dep](fr_rhapsodie-dep-dep.html) – [dep:comp](fr_rhapsodie-dep-dep-comp.html) – [det](fr_rhapsodie-dep-det.html) – [discourse](fr_rhapsodie-dep-discourse.html) – [dislocated](fr_rhapsodie-dep-dislocated.html) – [dislocated:mod](fr_rhapsodie-dep-dislocated-mod.html) – [dislocated:obj](fr_rhapsodie-dep-dislocated-obj.html) – [dislocated:obl](fr_rhapsodie-dep-dislocated-obl.html) – [dislocated:subj](fr_rhapsodie-dep-dislocated-subj.html) – [expl:comp](fr_rhapsodie-dep-expl-comp.html) – [expl:pass](fr_rhapsodie-dep-expl-pass.html) – [expl:pv](fr_rhapsodie-dep-expl-pv.html) – [expl:subj](fr_rhapsodie-dep-expl-subj.html) – [fixed](fr_rhapsodie-dep-fixed.html) – [flat](fr_rhapsodie-dep-flat.html) – [flat:foreign](fr_rhapsodie-dep-flat-foreign.html) – [flat:name](fr_rhapsodie-dep-flat-name.html) – [iobj](fr_rhapsodie-dep-iobj.html) – [mark](fr_rhapsodie-dep-mark.html) – [nmod](fr_rhapsodie-dep-nmod.html) – [nmod:appos](fr_rhapsodie-dep-nmod-appos.html) – [nsubj](fr_rhapsodie-dep-nsubj.html) – [nsubj:caus](fr_rhapsodie-dep-nsubj-caus.html) – [nsubj:outer](fr_rhapsodie-dep-nsubj-outer.html) – [nsubj:pass](fr_rhapsodie-dep-nsubj-pass.html) – [nummod](fr_rhapsodie-dep-nummod.html) – [obj](fr_rhapsodie-dep-obj.html) – [obj:lvc](fr_rhapsodie-dep-obj-lvc.html) – [obl](fr_rhapsodie-dep-obl.html) – [obl:agent](fr_rhapsodie-dep-obl-agent.html) – [obl:arg](fr_rhapsodie-dep-obl-arg.html) – [obl:mod](fr_rhapsodie-dep-obl-mod.html) – [orphan](fr_rhapsodie-dep-orphan.html) – [parataxis](fr_rhapsodie-dep-parataxis.html) – [parataxis:insert](fr_rhapsodie-dep-parataxis-insert.html) – [parataxis:parenth](fr_rhapsodie-dep-parataxis-parenth.html) – [punct](fr_rhapsodie-dep-punct.html) – [reparandum](fr_rhapsodie-dep-reparandum.html) – [root](fr_rhapsodie-dep-root.html) – [vocative](fr_rhapsodie-dep-vocative.html) – [xcomp](fr_rhapsodie-dep-xcomp.html)
+[acl](fr_rhapsodie-dep-acl.html) – [acl:relcl](fr_rhapsodie-dep-acl-relcl.html) – [advcl](fr_rhapsodie-dep-advcl.html) – [advcl:cleft](fr_rhapsodie-dep-advcl-cleft.html) – [advmod](fr_rhapsodie-dep-advmod.html) – [amod](fr_rhapsodie-dep-amod.html) – [appos](fr_rhapsodie-dep-appos.html) – [aux](fr_rhapsodie-dep-aux.html) – [aux:caus](fr_rhapsodie-dep-aux-caus.html) – [aux:pass](fr_rhapsodie-dep-aux-pass.html) – [aux:tense](fr_rhapsodie-dep-aux-tense.html) – [case](fr_rhapsodie-dep-case.html) – [cc](fr_rhapsodie-dep-cc.html) – [ccomp](fr_rhapsodie-dep-ccomp.html) – [compound](fr_rhapsodie-dep-compound.html) – [conj](fr_rhapsodie-dep-conj.html) – [conj:reform](fr_rhapsodie-dep-conj-reform.html) – [cop](fr_rhapsodie-dep-cop.html) – [csubj](fr_rhapsodie-dep-csubj.html) – [csubj:pass](fr_rhapsodie-dep-csubj-pass.html) – [dep](fr_rhapsodie-dep-dep.html) – [dep:comp](fr_rhapsodie-dep-dep-comp.html) – [det](fr_rhapsodie-dep-det.html) – [discourse](fr_rhapsodie-dep-discourse.html) – [discourse:filler](fr_rhapsodie-dep-discourse-filler.html) – [discourse:tag](fr_rhapsodie-dep-discourse-tag.html) – [dislocated](fr_rhapsodie-dep-dislocated.html) – [dislocated:mod](fr_rhapsodie-dep-dislocated-mod.html) – [dislocated:obj](fr_rhapsodie-dep-dislocated-obj.html) – [dislocated:obl](fr_rhapsodie-dep-dislocated-obl.html) – [dislocated:subj](fr_rhapsodie-dep-dislocated-subj.html) – [expl:comp](fr_rhapsodie-dep-expl-comp.html) – [expl:pass](fr_rhapsodie-dep-expl-pass.html) – [expl:pv](fr_rhapsodie-dep-expl-pv.html) – [expl:subj](fr_rhapsodie-dep-expl-subj.html) – [fixed](fr_rhapsodie-dep-fixed.html) – [flat](fr_rhapsodie-dep-flat.html) – [flat:foreign](fr_rhapsodie-dep-flat-foreign.html) – [flat:name](fr_rhapsodie-dep-flat-name.html) – [iobj](fr_rhapsodie-dep-iobj.html) – [mark](fr_rhapsodie-dep-mark.html) – [nmod](fr_rhapsodie-dep-nmod.html) – [nsubj](fr_rhapsodie-dep-nsubj.html) – [nsubj:caus](fr_rhapsodie-dep-nsubj-caus.html) – [nsubj:outer](fr_rhapsodie-dep-nsubj-outer.html) – [nsubj:pass](fr_rhapsodie-dep-nsubj-pass.html) – [nummod](fr_rhapsodie-dep-nummod.html) – [obj](fr_rhapsodie-dep-obj.html) – [obj:lvc](fr_rhapsodie-dep-obj-lvc.html) – [obl](fr_rhapsodie-dep-obl.html) – [obl:agent](fr_rhapsodie-dep-obl-agent.html) – [obl:arg](fr_rhapsodie-dep-obl-arg.html) – [obl:mod](fr_rhapsodie-dep-obl-mod.html) – [orphan](fr_rhapsodie-dep-orphan.html) – [parataxis](fr_rhapsodie-dep-parataxis.html) – [parataxis:insert](fr_rhapsodie-dep-parataxis-insert.html) – [parataxis:parenth](fr_rhapsodie-dep-parataxis-parenth.html) – [punct](fr_rhapsodie-dep-punct.html) – [reparandum](fr_rhapsodie-dep-reparandum.html) – [root](fr_rhapsodie-dep-root.html) – [vocative](fr_rhapsodie-dep-vocative.html) – [xcomp](fr_rhapsodie-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 3209 sentences, 43691 tokens and 44234 syntactic words.</li>
+<li>This corpus contains 3209 sentences, 43691 tokens and 44231 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 10956 tokens (25%) that are not followed by a space.</li>
+<li>This corpus contains 10955 tokens (25%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -91,7 +91,7 @@ Resource maintenance has been supported by [Autogramm](https://autogramm.github.
 </ul>
 
 <ul>
-<li>This corpus contains 543 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+<li>This corpus contains 540 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
 <li>There are 5 types of multi-word tokens. Examples: du, au, des, aux, auquel.</li>
 </ul>
 
@@ -108,7 +108,7 @@ Resource maintenance has been supported by [Autogramm](https://autogramm.github.
 </ul>
 
 <ul>
-<li>This corpus contains 39 lemmas tagged as pronouns (PRON): aucun, autre, ce, ceci, cela, celui, celui-là, certains, chacun, ci, dont, en, lequel, lui, lui-même, moi, moi-même, nous, on, personne, plusieurs, que, quel, quelqu'un, qui, quoi, rien, sien, soi, soi-même, tel, toi, tous, tout, un, vous, vous-même, y, ça</li>
+<li>This corpus contains 40 lemmas tagged as pronouns (PRON): aucun, autre, ce, ceci, cela, celui, celui-là, certains, chacun, ci, dont, en, lequel, lui, lui-même, mien, moi, moi-même, nous, on, personne, plusieurs, que, quel, quelqu'un, qui, quoi, rien, sien, soi, soi-même, tel, toi, tous, tout, un, vous, vous-même, y, ça</li>
 </ul>
 
 <ul>
@@ -135,7 +135,7 @@ Resource maintenance has been supported by [Autogramm](https://autogramm.github.
   <li>Fin
   <ul>
     <li>AUX: est, a, ai, était, sont, suis, ont, avez, êtes, avait</li>
-    <li>VERB: a, est, va, faut, allez, ai, peut, avait, crois, sais</li>
+    <li>VERB: a, est, va, faut, allez, peut, ai, avait, crois, sais</li>
   </ul>
   </li>
 </ul>
@@ -189,7 +189,7 @@ Resource maintenance has been supported by [Autogramm](https://autogramm.github.
       <li>DET: le, un, l', ce, mon, son, cet, du, aucun, quel</li>
       <li>NOUN: peu, fait, moment, ans, français, gens, temps, art, côté, monde</li>
       <li>PRON: c', il, on, ça, ce, ils, le, -ce, lui, rien</li>
-      <li>PROPN: Kenya, Gâtinais, Figaro, Beauceron, Christ, Parisien</li>
+      <li>PROPN: Kenya, Gâtinais, Figaro, Beauceron, Christ, Maître, Parisien</li>
       <li>VERB-Part: dit, fait, eu, pu, travaillé, vu, arrivé, compris, vécu, été</li>
     </ul>
   </li>
@@ -207,10 +207,10 @@ Resource maintenance has been supported by [Autogramm](https://autogramm.github.
       <li>AUX-Fin: sont, ont, avez, êtes, avons, étaient, sommes, avaient, étiez, soient</li>
       <li>DET: les, des, ces, ses, vos, nos, mes, de, quelques, plusieurs</li>
       <li>NOUN: ans, gens, choses, enfants, années, heures, études, livres, hommes, fonctions</li>
-      <li>NUM: deux, cent, mille, neuf, dix-huit, trois, quatre, trente, douze, quarante</li>
+      <li>NUM: deux, cent, trois, mille, neuf, dix-huit, quatre, trente, douze, quinze</li>
       <li>PRON: vous, ils, nous, les, ceux, autres, elles, -vous, tous, eux</li>
       <li>PROPN: Antilles, Mines</li>
-      <li>VERB-Fin: allez, ont, avez, continuez, disons, voulez, voyez, sont, pouvez, savez</li>
+      <li>VERB-Fin: allez, ont, continuez, avez, disons, voulez, voyez, sont, pouvez, savez</li>
       <li>VERB-Inf: réussirons</li>
       <li>VERB-Part: partis, données, eus, passées, passés, prises, rentrés, repartis, touchés, vues</li>
     </ul>
@@ -229,7 +229,7 @@ Resource maintenance has been supported by [Autogramm](https://autogramm.github.
       <li>NUM: mille, cent, un, cinquante, deux, trente, vingt, quarante-neuf, trois, cinq</li>
       <li>PRON: c', je, il, on, ça, j', ce, tu, elle, me</li>
       <li>PROPN: Nef, Kenya, Beauce, Gâtinais, Ethiopie, Figaro, Beauceron, Seine, Église, Élysée</li>
-      <li>VERB-Fin: a, est, va, faut, ai, peut, avait, crois, sais, vais</li>
+      <li>VERB-Fin: a, est, va, faut, peut, ai, avait, crois, sais, vais</li>
       <li>VERB-Part: dit, fait, eu, pu, travaillé, vu, arrivé, vécu, été, choisi</li>
     </ul>
   </li>
@@ -332,7 +332,7 @@ Resource maintenance has been supported by [Autogramm](https://autogramm.github.
   <li>Ind
     <ul>
       <li>AUX-Fin: est, a, ai, était, sont, suis, ont, avez, êtes, avait</li>
-      <li>VERB-Fin: a, est, va, faut, ai, allez, peut, avait, crois, sais</li>
+      <li>VERB-Fin: a, est, va, faut, allez, peut, ai, avait, crois, sais</li>
     </ul>
   </li>
 </ul>
@@ -373,8 +373,9 @@ Resource maintenance has been supported by [Autogramm](https://autogramm.github.
     <ul>
       <li>ADJ-Part: entendu, étonnée</li>
       <li>AUX-Fin: fut</li>
-      <li>AUX-Part: été, fait</li>
+      <li>AUX-Part: été, fait, ayant</li>
       <li>VERB-Fin: durent</li>
+      <li>VERB-Part: dit, fait, eu, pu, travaillé, vu, arrivé, compris, vécu, été</li>
     </ul>
   </li>
 </ul>
@@ -384,7 +385,8 @@ Resource maintenance has been supported by [Autogramm](https://autogramm.github.
     <ul>
       <li>AUX-Fin: est, a, ai, sont, suis, ont, avez, êtes, avons, soit</li>
       <li>AUX-Part: ayant, faisant, étant</li>
-      <li>VERB-Fin: a, est, va, faut, ai, allez, peut, crois, sais, vais</li>
+      <li>VERB-Fin: a, est, va, faut, allez, peut, ai, crois, sais, vais</li>
+      <li>VERB-Part: attendant, disant, parlant, restant, allant, croyant, donnant, entendant, faisant, longeant</li>
     </ul>
   </li>
 </ul>
@@ -548,7 +550,7 @@ Resource maintenance has been supported by [Autogramm](https://autogramm.github.
     <ul>
       <li>AUX-Fin: avez, êtes, étiez, as, aviez, ayez, es, seras, sois, soyez</li>
       <li>PRON: vous, tu, -vous, te, t', toi, -tu, vous-même, -toi</li>
-      <li>VERB-Fin: allez, avez, continuez, voulez, voyez, pouvez, savez, passez, prenez, arrives</li>
+      <li>VERB-Fin: allez, continuez, avez, voulez, voyez, pouvez, savez, passez, prenez, arrives</li>
     </ul>
   </li>
 </ul>
@@ -611,22 +613,22 @@ Resource maintenance has been supported by [Autogramm](https://autogramm.github.
     <ul>
       <li>ADJ
         <ul>
-          <li>ADP: à</li>
+          <li>ADP: d', à</li>
           <li>ADV: bien</li>
           <li>X: aus~, ex~, frai~, hédo~, portu~, qu~, éner~</li>
         </ul>
       </li>
       <li>ADP
         <ul>
-          <li>ADP: d', en, à, pour</li>
+          <li>ADP: en, à, d', pour</li>
           <li>PRON: il</li>
-          <li>X: a~, dep~, de~</li>
+          <li>X: a~, dep~, de~, s~</li>
         </ul>
       </li>
       <li>ADV
         <ul>
           <li>ADJ: petit</li>
-          <li>ADP: en, à, de, par, a, d', sur</li>
+          <li>ADP: en, à, d', de, par, du, a, au, sur</li>
           <li>ADV: bien, tout, peu, pas, non</li>
           <li>CCONJ: et</li>
           <li>DET: un, une</li>
@@ -640,6 +642,7 @@ Resource maintenance has been supported by [Autogramm](https://autogramm.github.
       </li>
       <li>CCONJ
         <ul>
+          <li>ADP: à</li>
           <li>CCONJ: et, c'est-à-dire, ou, sauf</li>
           <li>PRON: y</li>
           <li>X: c'est~</li>
@@ -649,11 +652,13 @@ Resource maintenance has been supported by [Autogramm](https://autogramm.github.
         <ul>
           <li>ADP: de</li>
           <li>ADV: n'</li>
+          <li>DET: le</li>
           <li>X: l~, u~, un~, d~</li>
         </ul>
       </li>
       <li>INTJ
         <ul>
+          <li>ADV: enfin</li>
           <li>INTJ: ah, oh, eh, ouh</li>
           <li>NOUN: bonjour, attention</li>
           <li>VERB: voilà, allez</li>
@@ -680,13 +685,15 @@ Resource maintenance has been supported by [Autogramm](https://autogramm.github.
         <ul>
           <li>ADJ: grand</li>
           <li>ADV: beaucoup, n', combien, quand</li>
-          <li>X: j~, qu~</li>
+          <li>NUM: deux, quarante, trente, mille, dix-huit, quarante-cinq, trente-neuf, cinq-cents, dix-sept, quinze</li>
+          <li>X: j~, qu~, s~</li>
         </ul>
       </li>
       <li>PROPN
         <ul>
-          <li>NOUN: Barrage, Amant, Maladie, Photographie, Voix, jeux, reflet</li>
-          <li>PROPN: Kafka</li>
+          <li>NOUN: sud, Barrage, Amant, Illusion, Chroniques, Conquête, Dictionnaire, Dépêche, Grippe, Maladie</li>
+          <li>NUM: mille, cent, neuf, deux, dix-huit, cinquante, un, trente, quatorze, vingt</li>
+          <li>PROPN: Kafka, Barrage, Landru, Lohengrin, Mille, Saules</li>
           <li>VERB-Part: lus</li>
           <li>X: XXX, A~, Bel~, Ch~, Emmanu~, Fran~, Gu~, M~, Ora~, Sor~</li>
         </ul>
@@ -766,8 +773,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>nsubj</a>
     <ul>
       <li>VERB-Fin--NOUN (185)</li>
-      <li>VERB-Fin--PRON (445)</li>
-      <li>VERB-Fin--PRON-Nom (1422)</li>
+      <li>VERB-Fin--PRON (444)</li>
+      <li>VERB-Fin--PRON-Nom (1411)</li>
       <li>VERB-Inf--NOUN (6)</li>
       <li>VERB-Inf--PRON (12)</li>
       <li>VERB-Inf--PRON-Nom (1)</li>
@@ -782,19 +789,19 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>obj</a>
     <ul>
       <li>VERB--NOUN (3)</li>
-      <li>VERB-Fin--NOUN (546)</li>
+      <li>VERB-Fin--NOUN (547)</li>
       <li>VERB-Fin--NOUN-ADP(dans) (2)</li>
       <li>VERB-Fin--NOUN-ADP(de) (17)</li>
       <li>VERB-Fin--NOUN-ADP(que) (1)</li>
       <li>VERB-Fin--PRON (188)</li>
       <li>VERB-Fin--PRON-ADP(de) (1)</li>
-      <li>VERB-Fin--PRON-Acc (104)</li>
+      <li>VERB-Fin--PRON-Acc (103)</li>
       <li>VERB-Fin--PRON-Nom (1)</li>
       <li>VERB-Inf--NOUN (233)</li>
       <li>VERB-Inf--NOUN-ADP(de) (2)</li>
       <li>VERB-Inf--PRON (71)</li>
       <li>VERB-Inf--PRON-Acc (60)</li>
-      <li>VERB-Part--NOUN (143)</li>
+      <li>VERB-Part--NOUN (142)</li>
       <li>VERB-Part--NOUN-ADP(de) (1)</li>
       <li>VERB-Part--NOUN-ADP(sur) (1)</li>
       <li>VERB-Part--PRON (43)</li>
@@ -808,12 +815,12 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB-Fin--PRON (22)</li>
+      <li>VERB-Fin--PRON (23)</li>
       <li>VERB-Fin--PRON-Acc (3)</li>
-      <li>VERB-Fin--PRON-Dat (69)</li>
+      <li>VERB-Fin--PRON-Dat (68)</li>
       <li>VERB-Fin--PRON-Nom (1)</li>
       <li>VERB-Inf--PRON (16)</li>
-      <li>VERB-Inf--PRON-Dat (26)</li>
+      <li>VERB-Inf--PRON-Dat (27)</li>
       <li>VERB-Part--PRON (11)</li>
       <li>VERB-Part--PRON-Dat (37)</li>
     </ul>
@@ -844,7 +851,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 27 relation subtypes: <a>acl:relcl</a>, <a>advcl:cleft</a>, <a>aux:caus</a>, <a>aux:pass</a>, <a>aux:tense</a>, <a>csubj:pass</a>, <a>dep:comp</a>, <a>dislocated:mod</a>, <a>dislocated:obj</a>, <a>dislocated:obl</a>, <a>dislocated:subj</a>, <a>expl:comp</a>, <a>expl:pass</a>, <a>expl:pv</a>, <a>expl:subj</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>nmod:appos</a>, <a>nsubj:caus</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a>, <a>obj:lvc</a>, <a>obl:agent</a>, <a>obl:arg</a>, <a>obl:mod</a>, <a>parataxis:insert</a>, <a>parataxis:parenth</a></li>
+<li>This corpus uses 29 relation subtypes: <a>acl:relcl</a>, <a>advcl:cleft</a>, <a>aux:caus</a>, <a>aux:pass</a>, <a>aux:tense</a>, <a>conj:reform</a>, <a>csubj:pass</a>, <a>dep:comp</a>, <a>discourse:filler</a>, <a>discourse:tag</a>, <a>dislocated:mod</a>, <a>dislocated:obj</a>, <a>dislocated:obl</a>, <a>dislocated:subj</a>, <a>expl:comp</a>, <a>expl:pass</a>, <a>expl:pv</a>, <a>expl:subj</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>nsubj:caus</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a>, <a>obj:lvc</a>, <a>obl:agent</a>, <a>obl:arg</a>, <a>obl:mod</a>, <a>parataxis:insert</a>, <a>parataxis:parenth</a></li>
 <li>The following 1 main types are not used alone, they are always subtyped: <a>expl</a></li>
 <li>The following 3 relation types are not used in this corpus at all: <a>clf</a>, <a>list</a>, <a>goeswith</a></li>
 </ul>

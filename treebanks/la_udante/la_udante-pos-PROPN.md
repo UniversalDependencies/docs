@@ -44,7 +44,7 @@ The 10 most frequent ambiguous types:  <em>Cesar</em> (<tt><a href="la_udante-po
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.520661 (the average of all parts of speech is 2.131437).
+The form / lemma ratio of `PROPN` is 1.520661 (the average of all parts of speech is 2.131634).
 
 The 1st highest number of forms (8) was observed with the lemma “christus”: <em>Christi, Christo, Christum, Christus, Cristi, Cristo, Cristum, Cristus</em>.
 

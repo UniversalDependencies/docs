@@ -58,8 +58,8 @@ The 3rd highest number of forms (1) was observed with the lemma “брзо”: 
 `ADV` occurs with 7 feature-value pairs: `Degree=Pos`, `Degree=Sup`, `NumType=Card`, `PronType=Dem`, `PronType=Int`, `PronType=Neg`, `PronType=Rel`
 
 `ADV` occurs with 9 feature combinations.
-The most frequent feature combination is `_` (20 tokens).
-Examples: <em>дома, потоа, само, Вчера, Надвор, бавно, веднаш, веројатно, вле-, десно</em>
+The most frequent feature combination is `Degree=Pos` (20 tokens).
+Examples: <em>вчера, многу, овде, Јасно, бесплатно, дента, добро, дома, единствено, пак</em>
 
 
 ## Relations

@@ -18,12 +18,12 @@ The feature is used with 4 part-of-speech tags: <tt><a href="es_gsd-pos-ADV.html
 
 1575 <tt><a href="es_gsd-pos-ADV.html">ADV</a></tt> tokens (13% of all `ADV` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `ADV` and `Degree` co-occurred: <tt><a href="es_gsd-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (1575; 100%), <tt><a href="es_gsd-feat-ExtPos.html">ExtPos</a></tt><tt>=EMPTY</tt> (1562; 99%).
+The most frequent other feature values with which `ADV` and `Degree` co-occurred: <tt><a href="es_gsd-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (1575; 100%), <tt><a href="es_gsd-feat-ExtPos.html">ExtPos</a></tt><tt>=EMPTY</tt> (1545; 98%).
 
 `ADV` tokens may have the following values of `Degree`:
 
 * `Cmp` (1575; 100% of non-empty `Degree`): <em>más, menos</em>
-* `EMPTY` (10907): <em>no, también, muy, donde, ya, además, así, después, sólo, bien</em>
+* `EMPTY` (10989): <em>no, también, muy, donde, ya, además, así, después, sólo, bien</em>
 
 ### `ADJ`
 
@@ -37,7 +37,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 * `Cmp` (482; 81% of non-empty `Degree`): <em>mayor, mejor, mejores, menor, mayores, menores, peor, peores</em>
 * `Pos` (2; 0% of non-empty `Degree`): <em>Annual, Clear</em>
 * `Sup` (79; 13% of non-empty `Degree`): <em>máximo, máxima, mínima, mínimo, mínimas, óptimo, máximas, máximos, mínimos, óptima</em>
-* `EMPTY` (24952): <em>primera, gran, primer, san, nuevo, nueva, mismo, estadounidense, total, grandes</em>
+* `EMPTY` (25068): <em>primera, gran, primer, san, nuevo, nueva, mismo, estadounidense, total, grandes</em>
 
 `Degree` seems to be **lexical feature** of `ADJ`. 100% lemmas (35) occur only with one value of `Degree`.
 
@@ -51,7 +51,7 @@ The most frequent other feature values with which `PRON` and `Degree` co-occurre
 
 * `Abs` (8; 80% of non-empty `Degree`): <em>muchísimo, muchisimo, muchisimio</em>
 * `Cmp` (2; 20% of non-empty `Degree`): <em>menos</em>
-* `EMPTY` (14034): <em>se, lo, que, le, la, me, uno, cual, los, nos</em>
+* `EMPTY` (17565): <em>se, que, lo, le, la, me, uno, cual, los, nos</em>
 
 ### `DET`
 
@@ -62,7 +62,7 @@ The most frequent other feature values with which `DET` and `Degree` co-occurred
 `DET` tokens may have the following values of `Degree`:
 
 * `Abs` (3; 100% of non-empty `Degree`): <em>muchísimas, muchisimas</em>
-* `EMPTY` (60890): <em>el, la, los, un, las, una, su, sus, este, esta</em>
+* `EMPTY` (61025): <em>el, la, los, un, las, una, su, sus, este, esta</em>
 
 ## Relations with Agreement in `Degree`
 

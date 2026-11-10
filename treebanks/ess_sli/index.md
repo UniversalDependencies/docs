@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.8 release.
 The following people have contributed to making this treebank part of UD: Hyunji Hayley Park, Lane Schwartz, Francis Tyers.
 
 Repository: [UD_Yupik-SLI](https://github.com/UniversalDependencies/UD_Yupik-SLI)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udess_sli218)<br />
-Download all treebanks: [UD 2.18](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udess_sli219)<br />
+Download all treebanks: [UD 2.19](/#download)
 
 License: CC BY-SA 4.0
 
@@ -113,13 +113,13 @@ language = {en}
 
 ## Relations
 
-[acl](ess_sli-dep-acl.html) – [advcl](ess_sli-dep-advcl.html) – [advmod](ess_sli-dep-advmod.html) – [appos](ess_sli-dep-appos.html) – [cc](ess_sli-dep-cc.html) – [conj](ess_sli-dep-conj.html) – [dep:ana](ess_sli-dep-dep-ana.html) – [dep:aux](ess_sli-dep-dep-aux.html) – [dep:cop](ess_sli-dep-dep-cop.html) – [dep:emo](ess_sli-dep-dep-emo.html) – [dep:infl](ess_sli-dep-dep-infl.html) – [dep:mark](ess_sli-dep-dep-mark.html) – [dep:pos](ess_sli-dep-dep-pos.html) – [det](ess_sli-dep-det.html) – [mark](ess_sli-dep-mark.html) – [nmod](ess_sli-dep-nmod.html) – [nmod:arg](ess_sli-dep-nmod-arg.html) – [nsubj](ess_sli-dep-nsubj.html) – [nummod](ess_sli-dep-nummod.html) – [obj](ess_sli-dep-obj.html) – [obl](ess_sli-dep-obl.html) – [obl:mod](ess_sli-dep-obl-mod.html) – [punct](ess_sli-dep-punct.html) – [root](ess_sli-dep-root.html) – [xcomp](ess_sli-dep-xcomp.html)
+[acl](ess_sli-dep-acl.html) – [advcl](ess_sli-dep-advcl.html) – [advmod](ess_sli-dep-advmod.html) – [appos](ess_sli-dep-appos.html) – [cc](ess_sli-dep-cc.html) – [conj](ess_sli-dep-conj.html) – [dep:ana](ess_sli-dep-dep-ana.html) – [dep:aux](ess_sli-dep-dep-aux.html) – [dep:cop](ess_sli-dep-dep-cop.html) – [dep:emo](ess_sli-dep-dep-emo.html) – [dep:mark](ess_sli-dep-dep-mark.html) – [dep:pos](ess_sli-dep-dep-pos.html) – [det](ess_sli-dep-det.html) – [mark](ess_sli-dep-mark.html) – [nmod](ess_sli-dep-nmod.html) – [nmod:arg](ess_sli-dep-nmod-arg.html) – [nsubj](ess_sli-dep-nsubj.html) – [nummod](ess_sli-dep-nummod.html) – [obj](ess_sli-dep-obj.html) – [obl](ess_sli-dep-obl.html) – [obl:mod](ess_sli-dep-obl-mod.html) – [punct](ess_sli-dep-punct.html) – [root](ess_sli-dep-root.html) – [xcomp](ess_sli-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 309 sentences, 1221 tokens and 2568 syntactic words.</li>
+<li>This corpus contains 309 sentences, 1221 tokens and 1481 syntactic words.</li>
 </ul>
 
 <ul>
@@ -131,12 +131,12 @@ language = {en}
 </ul>
 
 <ul>
-<li>This corpus contains 4 types of words that contain both letters and punctuation. Examples: -emun, an'gani, an'gigh, un'gani</li>
+<li>This corpus contains 4 types of words that contain both letters and punctuation. Examples: Nome-emun, an'gani, an'gigh, un'gani</li>
 </ul>
 
 <ul>
-<li>This corpus contains 773 multi-word tokens. On average, one multi-word token consists of 2.74 syntactic words.</li>
-<li>There are 650 types of multi-word tokens. Examples: aqelqat, yugem, qergesek, Kitum, esghaatunga, iflaak, mangteghameng, naagpek, taghnughhaat, ungipaataanga, yuget, Sivuqaghmeng, Tagitiki, aatgha, aatghit, apeghtughistem, ighneghten, ighneqa, kemekraga, mekelghiighet, mekestaaghhaaguq, pagunghaghmeng, qikmima, quyaaq, Aanaqukung, Aghnalqwaaghem, Kaamgek, Mekelghiighem, Naliita, Qafsinaneng, Quyillget, Sangaawa, Siivanlleghet, Teghikusat, Tengegkayuget, Ungazimi, Yupigestun, aanaqut, alquutat, anipameng, apaka, atanga, atughnaqunga, eflugameng, eglluk, eslallugughteghngaan, eslami, eslamun, gaaghpenaan, guutigu.</li>
+<li>This corpus contains 232 multi-word tokens. On average, one multi-word token consists of 2.12 syntactic words.</li>
+<li>There are 221 types of multi-word tokens. Examples: Aanaqukung, Sangaawa, aanaqut, atughnaqunga, gaaghpenaan, igleghtaqut, kavilnguq, llilukillu, naghaaghaqut, qepghaghllequq, riigteghllagmeng, Aanigatuq, Aarragkiighluku, Aawhllaget, Aghnaghllagem, Aghnaghllaget, Aghveliighsiin, Aghvightesugiinkut, Agniqelghii, Akitutaqukung, Akuzingigalkuvek, Angyangllaghyugsiin, Apalguunga, Atiimaaq, Esghaataqukut, Esghaghlleqamken, Espamani, Gaaghutaa, Gaaghyugaqa, Ingaghsugtunga, Iyataamakuvek, Kaannaqut, Kaaskaagut, Kinangaawa, Kinanguzin, Kinkungaawat, Kinkungutsi, Laalighfiknaqaqa, Laluramkenguut, Latakaagunga, Mangteghaghllangllaghyugtukut, Naakallu, Neghegkaawaa, Neghenghilkuvek, Pinighsaghlleqagka, Qavanghitunga, Qaviigatukung, Qefliqelghiim, Qefliqutamken, Qepghaghaqunga.</li>
 </ul>
 
 <h2>Morphology</h2>
@@ -186,7 +186,8 @@ language = {en}
 <ul>
   <li>Dual
     <ul>
-      <li>X: k, ek, gka, egka, gnun, kek, egken, egn, egni, gneng</li>
+      <li>NOUN: qergesek, Kaamgek, eglluk, walguyaagkek, Aghnak, Kaamgegken, Laluramkek, Nengyugka, Panigegka, Qikmigka</li>
+      <li>PRON: iingkuk</li>
     </ul>
   </li>
 </ul>
@@ -194,8 +195,12 @@ language = {en}
 <ul>
   <li>Plur
     <ul>
-      <li>PRON: whangkunnun</li>
-      <li>X: et, t, at, ten, neng, it, ma, meng, anka, enka</li>
+      <li>ADV: Allakaghmeng, Qerngaghmeng, mataghmeng</li>
+      <li>DET: Qafsinaneng</li>
+      <li>NOUN: aqelqat, taghnughhaat, yuget, aatghit, ighneghten, mekelghiighet, Quyillget, Siivanlleghet, Teghikusat, Tengegkayuget</li>
+      <li>NUM: maaghraghvinlegneng</li>
+      <li>PRON: ingkut, whangkunnun</li>
+      <li>X: taghnughhiit</li>
     </ul>
   </li>
 </ul>
@@ -203,9 +208,11 @@ language = {en}
 <ul>
   <li>Sing
     <ul>
-      <li>NOUN: lghii, Taghnughhaq, keneq, Amaa, Laluramka, Nanevgaq, Ukaziq, kufi, nefkuuraq, nguq</li>
-      <li>PRON: paamna, Iigna, Kaanyuq, Qaamna, elpenun, m, pagna</li>
-      <li>X: meng, m, mun, em, mi, ka, a, n, qa, nga</li>
+      <li>ADV: ellnginaan, ellnginaghmi</li>
+      <li>DET: Naliita, Naliit</li>
+      <li>NOUN: yugem, ghllagmeng, lghii, mangteghameng, naagpek, Sivuqaghmeng, Taghnughhaq, aatgha, apeghtughistem, ighneqa</li>
+      <li>PRON: Kitum, paamna, Iigna, Kaanyuq, Qaamna, elpenun, m, pagna, pikum</li>
+      <li>X: taghnughhaq</li>
     </ul>
   </li>
 </ul>
@@ -218,7 +225,9 @@ language = {en}
   <li>Abl
     <ul>
       <li>ADV: aagken, Pikegken, paamken</li>
-      <li>X: meng, neng, aneng, gneng</li>
+      <li>DET: Qafsinaneng</li>
+      <li>NOUN: ghllagmeng, mangteghameng, Sivuqaghmeng, pagunghaghmeng, akuutameng, anipameng, eflugameng, ighaleqetaaghmeng, legmeng, lghiimeng</li>
+      <li>NUM: maaghraghvinlegneng</li>
     </ul>
   </li>
 </ul>
@@ -226,9 +235,10 @@ language = {en}
 <ul>
   <li>Abs
     <ul>
-      <li>NOUN: lghii, Taghnughhaq, keneq, Amaa, Laluramka, Nanevgaq, Ukaziq, kufi, nefkuuraq, nguq</li>
+      <li>DET: Naliit</li>
+      <li>NOUN: aqelqat, qergesek, lghii, yuget, Taghnughhaq, aatgha, aatghit, ighneghten, ighneqa, kemekraga</li>
       <li>PRON: paamna, Iigna, Qaamna, pagna</li>
-      <li>X: et, t, ka, a, k, n, qa, nga, at, ten</li>
+      <li>X: taghnughhaq, taghnughhiit</li>
     </ul>
   </li>
 </ul>
@@ -236,7 +246,7 @@ language = {en}
 <ul>
   <li>Abs,Erg
     <ul>
-      <li>X: k, t</li>
+      <li>PRON: iingkuk, ingkut</li>
     </ul>
   </li>
 </ul>
@@ -245,8 +255,8 @@ language = {en}
   <li>All
     <ul>
       <li>ADV: kiwavek, pagavek, sakmavek, whavek</li>
+      <li>NOUN: eslamun, naayghamun, naayvamun, Nome-emun, Sivungaghmun, Sivuqaghmun, Tipelegnun, Ungazimun, aghnamun, aqumutagnun</li>
       <li>PRON: elpenun, whangkunnun</li>
-      <li>X: mun, anun, gnun, -emun, minun, nun</li>
     </ul>
   </li>
 </ul>
@@ -254,7 +264,7 @@ language = {en}
 <ul>
   <li>Equ
     <ul>
-      <li>X: estun, stun</li>
+      <li>NOUN: Yupigestun, Laluramkestun</li>
     </ul>
   </li>
 </ul>
@@ -262,8 +272,9 @@ language = {en}
 <ul>
   <li>Erg
     <ul>
-      <li>PRON: m</li>
-      <li>X: m, em, ma, gpek, ghpek, ita, am, an, et, um</li>
+      <li>DET: Naliita</li>
+      <li>NOUN: lghiim, yugem, Aghnalqwaaghem, apeghtughistem, naagpek, qikmima, Aghnaghaam, Aghnam, Apeghtughistegpek, Ighneghma</li>
+      <li>PRON: Kitum, m, pikum</li>
     </ul>
   </li>
 </ul>
@@ -271,8 +282,8 @@ language = {en}
 <ul>
   <li>Gen
     <ul>
-      <li>NOUN: sikwaan</li>
-      <li>X: em, m, ma, gpek, mi, t, an, at, et, ghpek</li>
+      <li>NOUN: Yugem, Naagpek, taghnughhaghma, Apama, Apeghtughistem, Apeghtughistet, Estugam, Mekelghiighem, Mekelghiighet, Naayvam</li>
+      <li>PRON: Kitum</li>
     </ul>
   </li>
 </ul>
@@ -281,7 +292,7 @@ language = {en}
   <li>Loc
     <ul>
       <li>ADV: Awani, Ingani, Qagani, an'gani, imani, maani, pamani, pikani, un'gani, whani</li>
-      <li>X: mi, ni, egn, egni</li>
+      <li>NOUN: Ungazimi, eslami, igaghvigmi, Sivuqami, eflugami, esnami, guyguni, kiiwegni, mangteghami, naayghani</li>
     </ul>
   </li>
 </ul>
@@ -290,7 +301,7 @@ language = {en}
   <li>Per
     <ul>
       <li>ADV: paaggun</li>
-      <li>X: kun, ngakun, teggun</li>
+      <li>NOUN: angyakun, qaayngakun, tengegkayugteggun</li>
     </ul>
   </li>
 </ul>
@@ -316,8 +327,8 @@ language = {en}
 <ul>
   <li>Neg
     <ul>
-      <li>VERB: nghit, ghpe, igat, neghin, neghit, nghil, nghite, nneghi, nneghit, ngigal</li>
-      <li>X: fqaa, yaquna</li>
+      <li>VERB: neghefqaavek, Neghyaqunaan, Pumsufqaama, Tuqutefqaan, atuqefqaagkenka, kuuvefqaan</li>
+      <li>X: nghitunga, ghpenaan, neghin, nghite, igatukung, igatuq, igatut, neghitaanga, nghilkuvek, nghitagu</li>
     </ul>
   </li>
 </ul>
@@ -333,7 +344,7 @@ language = {en}
 <ul>
   <li>Hab
     <ul>
-      <li>VERB: aq</li>
+      <li>X: aqukung, aqunga</li>
     </ul>
   </li>
 </ul>
@@ -341,7 +352,7 @@ language = {en}
 <ul>
   <li>Prog
     <ul>
-      <li>VERB: aq, iq, gaq</li>
+      <li>X: aqut, aquq, iquq, aqa, aqaa, aqsin, aqukung, aqukut, gaquq, iqa</li>
     </ul>
   </li>
 </ul>
@@ -353,7 +364,7 @@ language = {en}
 <ul>
   <li>Cn1
     <ul>
-      <li>X: ya, sa</li>
+      <li>VERB: Esghaghyagu, Esghaghyamigu, Esghaghyatni, Iyataghyama, Iyataghyamta, aanyan, aghyuughyavgu, esghaasameng, iflayamkun, iflayavgu</li>
     </ul>
   </li>
 </ul>
@@ -361,7 +372,8 @@ language = {en}
 <ul>
   <li>Cn2
     <ul>
-      <li>X: aqnga, gaqnga, iqnga</li>
+      <li>VERB: Tagiiqngan, inghwaaqngama, kiyaghtaqngami, kiyaghtaqngan, laalightaqngavnga</li>
+      <li>X: awaqngami</li>
     </ul>
   </li>
 </ul>
@@ -369,7 +381,7 @@ language = {en}
 <ul>
   <li>Cnc
     <ul>
-      <li>X: ghngaagh, ghnga, nga</li>
+      <li>VERB: Meghnughngaaghmeng, Ungipaateghngaaghpenga, anuqlighngaan, eslallugughteghngaan, negheghnaaghpek, ngaghngaaghmi, qilugngaaghminga, ughteghngaan</li>
     </ul>
   </li>
 </ul>
@@ -377,7 +389,8 @@ language = {en}
 <ul>
   <li>Cnd
     <ul>
-      <li>X: k, kw, q, gk</li>
+      <li>VERB: iikwan, piyukuvek, Aanegkufsi, Igleghtekuvek, kayusiquvnga, naavumakagkenka, qavaqata</li>
+      <li>X: amakuvek, makuni, nghilkuvek, ngigalkuvek</li>
     </ul>
   </li>
 </ul>
@@ -385,7 +398,7 @@ language = {en}
 <ul>
   <li>Ctm
     <ul>
-      <li>X: negh, ngh</li>
+      <li>VERB: qavaneghpek, qilunghata</li>
     </ul>
   </li>
 </ul>
@@ -393,7 +406,8 @@ language = {en}
 <ul>
   <li>Ind
     <ul>
-      <li>X: u, a, tu, i, gu</li>
+      <li>VERB: lguuq, esghaatunga, iflaak, lguut, ungipaataanga, mekestaaghhaaguq, quyaaq, neghaqa, neghtuq, neghtut</li>
+      <li>X: aqut, aquq, llequq, naqaqa, nghitunga, umaaq, aqukung, iquq, lleqagka, lleqii</li>
     </ul>
   </li>
 </ul>
@@ -401,7 +415,8 @@ language = {en}
 <ul>
   <li>Int
     <ul>
-      <li>X: sin, si, a, tsi, estek, ta, zin, st, zi, awa</li>
+      <li>VERB: iyataghsin, Esghaghsiki, Qawaagniighsin, aallgetsi, aghulaqsin, amqeghtaten, esghaatetsi, esghaghsigu, iknaqsin, inghuziki</li>
+      <li>X: lleqsikek, aqsin, lleqagu, lleqesta, lleqestung, lleqsikung, lleqsin, lleqsinga, naqsigu, naqsin</li>
     </ul>
   </li>
 </ul>
@@ -409,7 +424,8 @@ language = {en}
 <ul>
   <li>Opt
     <ul>
-      <li>X: i, fqaa, igu, elt, la, ghha, gu, ilt, lgha, lla</li>
+      <li>VERB: Tagitiki, guutigu, neghefqaavek, Aapnaken, Aqfalangi, Neghi, Neghyaqunaan, Piyaalghaakut, Piyugeltung, Pugimaaltung</li>
+      <li>X: utigu</li>
     </ul>
   </li>
 </ul>
@@ -417,7 +433,7 @@ language = {en}
 <ul>
   <li>Prc
     <ul>
-      <li>X: fagilga</li>
+      <li>VERB: kaatfagilgata, pangeghfagilgama</li>
     </ul>
   </li>
 </ul>
@@ -425,7 +441,7 @@ language = {en}
 <ul>
   <li>Ptc
     <ul>
-      <li>X: ka, lghii, ke</li>
+      <li>X: makanga, umalghiit, umakangi, umaken</li>
     </ul>
   </li>
 </ul>
@@ -433,7 +449,8 @@ language = {en}
 <ul>
   <li>Sbr
     <ul>
-      <li>X: lu, na, llu</li>
+      <li>VERB: lliluki, naluni, niluten, maliglluku, naavluni, naluki, naluku, nalutek, ngunateng, niluki</li>
+      <li>X: ghpenaan, maluni, umaluki, umaluteng</li>
     </ul>
   </li>
 </ul>
@@ -445,8 +462,8 @@ language = {en}
 <ul>
   <li>Fut
     <ul>
-      <li>VERB: lleq, naq, nnaq, lleqe, naqe</li>
-      <li>X: ghha, lgha, nake, yaquna</li>
+      <li>VERB: Aapnaken, Neghyaqunaan, Piyaalghaakut, naqaanga, niighhaakut</li>
+      <li>X: llequq, lleqsikek, naqaqa, lleqagka, lleqii, llequnga, llequt, llequten, naqe, naqunga</li>
     </ul>
   </li>
 </ul>
@@ -454,7 +471,7 @@ language = {en}
 <ul>
   <li>Past
     <ul>
-      <li>VERB: uma, ma, ama</li>
+      <li>X: umalghii, malghii, uma, amakuvek, makuni, maluni, umalghiit, umaluki, umaluteng</li>
     </ul>
   </li>
 </ul>
@@ -462,8 +479,8 @@ language = {en}
 <ul>
   <li>Pres
     <ul>
-      <li>VERB: aq, iq, igat, gaq, ngigal</li>
-      <li>X: i, fqaa, igu, elt, la, gu, ilt, lla, lt, ult</li>
+      <li>VERB: Tagitiki, guutigu, neghefqaavek, Aqfalangi, Neghi, Piyugeltung, Pugimaaltung, Pumsufqaama, Qayuulta, Tugugu</li>
+      <li>X: aqut, aquq, aqukung, iquq, aqa, aqaa, aqsin, aqukut, aqunga, gaquq</li>
     </ul>
   </li>
 </ul>
@@ -480,7 +497,7 @@ language = {en}
 <ul>
   <li>Dem
     <ul>
-      <li>PRON: ingku, paamna, piku, Iigna, Kaanyuq, Qaamna, m, pagna</li>
+      <li>PRON: paamna, Iigna, Kaanyuq, Qaamna, ingkut, m, pagna, pikum</li>
     </ul>
   </li>
 </ul>
@@ -489,8 +506,8 @@ language = {en}
   <li>Int
     <ul>
       <li>ADV: Qakun, Sangavek, Qavngaq, Navek, Sangan, Naken, Nani, Sangami, naten, Sangama</li>
-      <li>DET: Nali, Qafsina</li>
-      <li>PRON: Kitu, Kina, Kinku, Sameng, Kitumun</li>
+      <li>DET: Naliita, Qafsinaneng, Naliit</li>
+      <li>PRON: Kina, Kinku, Kitum, Sameng, Kitumun</li>
     </ul>
   </li>
 </ul>
@@ -504,7 +521,8 @@ language = {en}
 <ul>
   <li>Yes
     <ul>
-      <li>X: ni, meng, mi, minun</li>
+      <li>ADV: Allakaghmeng, Qerngaghmeng, ellnginaghmi, mataghmeng</li>
+      <li>NOUN: apami, atkuni, avaqutami, avaqutaminun, eltughani, gkeni, ugini, yavluni</li>
     </ul>
   </li>
 </ul>
@@ -532,7 +550,7 @@ language = {en}
 <ul>
   <li>3
     <ul>
-      <li>X: meng, an, mi</li>
+      <li>ADV: Allakaghmeng, Qerngaghmeng, ellnginaan, ellnginaghmi, mataghmeng</li>
     </ul>
   </li>
 </ul>
@@ -546,7 +564,7 @@ language = {en}
 <ul>
   <li>Dual
     <ul>
-      <li>X: gpung, mtung</li>
+      <li>NOUN: tukumtung, ullghitagpung</li>
     </ul>
   </li>
 </ul>
@@ -554,7 +572,9 @@ language = {en}
 <ul>
   <li>Plur
     <ul>
-      <li>X: it, ita, ngat, taghnughhiit</li>
+      <li>DET: Naliita, Naliit</li>
+      <li>NOUN: aatghit, atangat, naangat, nuliighit</li>
+      <li>X: taghnughhiit</li>
     </ul>
   </li>
 </ul>
@@ -562,8 +582,7 @@ language = {en}
 <ul>
   <li>Sing
     <ul>
-      <li>NOUN: nengyaa, nulaa, qikmii, sikwaan</li>
-      <li>X: ka, a, n, ma, qa, nga, gpek, ten, ni, an</li>
+      <li>NOUN: naagpek, aatgha, ighneghten, ighneqa, kemekraga, qikmima, Naaka, apaka, atanga, qikmii</li>
     </ul>
   </li>
 </ul>
@@ -576,17 +595,20 @@ language = {en}
     <ul>
       <li>Dual
         <ul>
-          <li>X: kek, gka, k, fkek, gkenka, kung</li>
+          <li>VERB: iflaak, atuqefqaagkenka, kakek, qelpeghsafkek, qelpeghtikek, umegkek</li>
+          <li>X: lleqsikek, lleqagka, lleqsikung</li>
         </ul>
       </li>
       <li>Plur
         <ul>
-          <li>X: ki, i, inkut, it, ngi, nka</li>
+          <li>VERB: Tagitiki, lliluki, Aqfalangi, Esghaghsiki, Laalighfikiikut, Lliki, aavgii, inghuziki, kanka, lliiki</li>
+          <li>X: lleqii, lleqiit, umakangi, umaluki</li>
         </ul>
       </li>
       <li>Sing
         <ul>
-          <li>X: qa, gu, a, nga, anga, igu, ku, n, an, mken</li>
+          <li>VERB: ungipaataanga, guutigu, neghaqa, Aapnaken, Esghaghyagu, Esghaghyamigu, Esghaghyatni, Igamsiqayugvikamken, Kayusighnga, Naafqaqa</li>
+          <li>X: naqaqa, ghpenaan, makanga, aqaa, lleqagu, lleqamken, lleqsinga, naqaa, naqsigu, neghitaanga</li>
         </ul>
       </li>
     </ul>
@@ -598,22 +620,26 @@ language = {en}
     <ul>
       <li>Dual
         <ul>
-          <li>X: k, kung, estek, ung, agkenka, tek, yek</li>
+          <li>VERB: iflaak, Aqiigukung, Piyugeltung, Piyugtukung, Pugimaaltung, aghulaquk, esghaatukung, iyataghtuk, lguuk, mayughestek</li>
+          <li>X: aqukung, ftuk, igatukung, imaak, lleqestung, naquk, naqukung</li>
         </ul>
       </li>
       <li>Dual,Plur,Sing
         <ul>
-          <li>X: mken, n, an, gkenka, ma</li>
+          <li>VERB: Igamsiqayugvikamken, Neghyaqunaan, Pumsufqaama, Tuqutefqaan, atuqefqaagkenka, kuuvefqaan</li>
+          <li>X: lleqamken, utamken</li>
         </ul>
       </li>
       <li>Plur
         <ul>
-          <li>X: t, a, tsi, kut, meng, akut, ata, it, si, teng</li>
+          <li>VERB: lguut, neghtut, taakut, tagiit, yugtut, Aanegkufsi, Gaaghtut, Iyataghyamta, Meghnughngaaghmeng, Neghtusi</li>
+          <li>X: aqut, llequt, naqut, umalghiit, aqukut, ftut, igatut, iqut, kaagut, lguut</li>
         </ul>
       </li>
       <li>Sing
         <ul>
-          <li>X: q, nga, qa, gu, sin, ki, a, i, lghii, n</li>
+          <li>VERB: lguuq, esghaatunga, ungipaataanga, Tagitiki, mekestaaghhaaguq, quyaaq, guutigu, iflaak, iikwan, iyataghsin</li>
+          <li>X: aquq, llequq, lleqsikek, naqaqa, ngaawa, nghitunga, umaaq, umalghii, iquq, lleqagka</li>
         </ul>
       </li>
     </ul>
@@ -625,17 +651,20 @@ language = {en}
     <ul>
       <li>1
         <ul>
-          <li>X: anga, nga, inkut, aghminga, kung, ma, penga, uvnga, vnga</li>
+          <li>VERB: ungipaataanga, Kayusighnga, Laalighfikiikut, Pumsufqaama, Ungipaateghngaaghpenga, kayusiquvnga, laalightaqngavnga, naqaanga, qiluglunga, qilugngaaghminga</li>
+          <li>X: lleqsikung, lleqsinga, neghitaanga</li>
         </ul>
       </li>
       <li>2
         <ul>
-          <li>X: mken, ten</li>
+          <li>VERB: Igamsiqayugvikamken, amqeghtaten, niluten, staten</li>
+          <li>X: lleqamken, utamken</li>
         </ul>
       </li>
       <li>3
         <ul>
-          <li>X: ki, qa, gu, a, i, igu, kek, ku, n, an</li>
+          <li>VERB: Tagitiki, guutigu, iflaak, lliluki, neghaqa, Aapnaken, Aqfalangi, Esghaghsiki, Esghaghyagu, Esghaghyamigu</li>
+          <li>X: lleqsikek, naqaqa, ghpenaan, lleqagka, lleqii, makanga, aqaa, lleqagu, lleqiit, naqaa</li>
         </ul>
       </li>
     </ul>
@@ -647,18 +676,19 @@ language = {en}
     <ul>
       <li>1
         <ul>
-          <li>X: ka, ma, qa, gka, anka, egka, enka, nka, gpung, mtung</li>
+          <li>NOUN: ighneqa, qikmima, Naaka, apaka, qulmesiitka, taghnughhaghma, Aakaqa, Apama, Ataka, Avaqutanka</li>
         </ul>
       </li>
       <li>2
         <ul>
-          <li>X: n, gpek, ten, ghpek, an, en, egken, pek</li>
+          <li>NOUN: naagpek, ighneghten, Aakaan, Apan, Apeghtughistegpek, Atkugen, Kaamgegken, Naan, Nengyughpek, Nunan</li>
         </ul>
       </li>
       <li>3
         <ul>
-          <li>NOUN: nengyaa, nulaa, qikmii, sikwaan</li>
-          <li>X: a, nga, it, ni, an, aneng, anun, i, ita, kek</li>
+          <li>DET: Naliita, Naliit</li>
+          <li>NOUN: aatgha, aatghit, kemekraga, atanga, qikmii, walguyaagkek, Apanga, aatghaneng, anengaa, apami</li>
+          <li>X: taghnughhiit</li>
         </ul>
       </li>
     </ul>
@@ -670,17 +700,20 @@ language = {en}
     <ul>
       <li>1
         <ul>
-          <li>X: nga, qa, kung, a, kut, ma, mken, ung, akut, gka</li>
+          <li>VERB: esghaatunga, neghaqa, sugtunga, Aqfalangi, Aqiigukung, Igamsiqayugvikamken, Iyataghyama, Iyataghyamta, Naafqaqa, Nallukaqa</li>
+          <li>X: naqaqa, nghitunga, aqukung, lleqagka, llequnga, naqunga, aqukut, aqunga, igatukung, kaagunga</li>
         </ul>
       </li>
       <li>2
         <ul>
-          <li>X: sin, ki, gu, igu, uvek, kek, n, tsi, estek, nga</li>
+          <li>VERB: Tagitiki, guutigu, iyataghsin, neghefqaavek, piyukuvek, Aanegkufsi, Aapnaken, Esghaghsiki, Igleghtekuvek, Kayusighnga</li>
+          <li>X: lleqsikek, llequten, amakuvek, aqsin, lleqsikung, lleqsin, lleqsinga, llequsi, naqsigu, naqsin</li>
         </ul>
       </li>
       <li>3
         <ul>
-          <li>X: q, t, k, a, gu, lghii, anga, i, an, n</li>
+          <li>VERB: lguuq, iflaak, lguut, ungipaataanga, mekestaaghhaaguq, quyaaq, iikwan, naluni, neghtuq, neghtut</li>
+          <li>X: aqut, aquq, llequq, ngaawa, umaaq, umalghii, iquq, lleqii, llequt, makanga</li>
         </ul>
       </li>
     </ul>
@@ -692,7 +725,7 @@ language = {en}
     <ul>
       <li>Yes
         <ul>
-          <li>X: tni, vgu</li>
+          <li>VERB: Esghaghyatni, aghyuughyavgu</li>
         </ul>
       </li>
     </ul>
@@ -704,7 +737,8 @@ language = {en}
     <ul>
       <li>Yes
         <ul>
-          <li>X: ni, meng, mi, teng, aghminga, migu, tek, uni</li>
+          <li>VERB: naluni, Esghaghyamigu, Meghnughngaaghmeng, esghaasameng, kiyaghtaqngami, naavluni, nalutek, ngaghngaaghmi, ngunateng, piyugluni</li>
+          <li>X: awaqngami, makuni, maluni, umaluteng</li>
         </ul>
       </li>
     </ul>
@@ -716,12 +750,14 @@ language = {en}
     <ul>
       <li>Intr
         <ul>
-          <li>X: u, tu, a, sin, gu, k, lu, ya, i, tsi</li>
+          <li>VERB: lguuq, esghaatunga, lguut, mekestaaghhaaguq, quyaaq, iflaak, iikwan, iyataghsin, naluni, neghefqaavek</li>
+          <li>X: aqut, aquq, llequq, nghitunga, umaaq, aqukung, iquq, llequnga, llequt, llequten</li>
         </ul>
       </li>
       <li>Tran
         <ul>
-          <li>X: a, i, si, lu, igu, ya, fqaa, ka, ta, la</li>
+          <li>VERB: ungipaataanga, Tagitiki, guutigu, iflaak, lliluki, neghaqa, Aapnaken, Aqfalangi, Esghaghsiki, Esghaghyagu</li>
+          <li>X: naqaqa, ghpenaan, lleqagka, lleqii, lleqsikek, makanga, aqaa, lleqagu, lleqamken, lleqiit</li>
         </ul>
       </li>
     </ul>
@@ -746,12 +782,14 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN (126)</li>
-      <li>VERB--NOUN-Abs (30)</li>
-      <li>VERB--PRON (4)</li>
+      <li>VERB--NOUN (5)</li>
+      <li>VERB--NOUN-Abs (118)</li>
+      <li>VERB--NOUN-All (5)</li>
+      <li>VERB--NOUN-Erg (28)</li>
+      <li>VERB--PRON (1)</li>
       <li>VERB--PRON-Abs (1)</li>
       <li>VERB--PRON-All (1)</li>
-      <li>VERB--PRON-Erg (1)</li>
+      <li>VERB--PRON-Erg (4)</li>
       <li>VERB--PRON-Voc (1)</li>
     </ul>
   </li>
@@ -760,8 +798,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN (92)</li>
-      <li>VERB--NOUN-Abs (25)</li>
+      <li>VERB--NOUN (26)</li>
+      <li>VERB--NOUN-Abl (4)</li>
+      <li>VERB--NOUN-Abs (86)</li>
       <li>VERB--PRON (2)</li>
     </ul>
   </li>
@@ -776,11 +815,16 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
 
 
+<h3>Verbs with Reflexive Core Objects</h3>
+
+<ul>
+  <li>This corpus contains 4 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: aa atkuni, gaagh ugini, malig eltughani, tasluq yavluni</li>
+</ul>
 
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 9 relation subtypes: <a>dep:ana</a>, <a>dep:aux</a>, <a>dep:cop</a>, <a>dep:emo</a>, <a>dep:infl</a>, <a>dep:mark</a>, <a>dep:pos</a>, <a>nmod:arg</a>, <a>obl:mod</a></li>
+<li>This corpus uses 8 relation subtypes: <a>dep:ana</a>, <a>dep:aux</a>, <a>dep:cop</a>, <a>dep:emo</a>, <a>dep:mark</a>, <a>dep:pos</a>, <a>nmod:arg</a>, <a>obl:mod</a></li>
 <li>The following 1 main types are not used alone, they are always subtyped: <a>dep</a></li>
 <li>The following 20 relation types are not used in this corpus at all: <a>iobj</a>, <a>csubj</a>, <a>ccomp</a>, <a>vocative</a>, <a>expl</a>, <a>dislocated</a>, <a>discourse</a>, <a>aux</a>, <a>cop</a>, <a>amod</a>, <a>clf</a>, <a>case</a>, <a>fixed</a>, <a>flat</a>, <a>compound</a>, <a>list</a>, <a>parataxis</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>

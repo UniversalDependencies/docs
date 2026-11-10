@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `dep`: <tt><a href="fr_sequoia-dep-dep-comp.html">dep:comp</a></tt>.
 
-72 nodes (0%) are attached to their parents as `dep`.
+67 nodes (0%) are attached to their parents as `dep`.
 
-56 instances of `dep` (78%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.18055555555556.
+56 instances of `dep` (84%) are left-to-right (parent precedes child).
+Average distance between parent and child is 6.49253731343284.
 
-The following 14 pairs of parts of speech are connected with `dep`: <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (26; 36% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (14; 19% instances), <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (5; 7% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-ADP.html">ADP</a></tt> (5; 7% instances), <tt><a href="fr_sequoia-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_sequoia-pos-ADP.html">ADP</a></tt> (5; 7% instances), <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (4; 6% instances), <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (3; 4% instances), <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt> (2; 3% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-SYM.html">SYM</a></tt> (2; 3% instances), <tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_sequoia-pos-SYM.html">SYM</a></tt> (2; 3% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_sequoia-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (1; 1% instances).
+The following 13 pairs of parts of speech are connected with `dep`: <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (26; 39% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (14; 21% instances), <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (5; 7% instances), <tt><a href="fr_sequoia-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_sequoia-pos-ADP.html">ADP</a></tt> (5; 7% instances), <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (4; 6% instances), <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (3; 4% instances), <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt> (2; 3% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-SYM.html">SYM</a></tt> (2; 3% instances), <tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_sequoia-pos-SYM.html">SYM</a></tt> (2; 3% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_sequoia-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -24,7 +24,7 @@ The following 14 pairs of parts of speech are connected with `dep`: <tt><a href=
 # visual-style 13	fgColor:white
 # visual-style 13 16 dep	color:blue
 1	S'	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	2	expl:pv	_	SpaceAfter=No
-2	agissant	agir	VERB	_	VerbForm=Part	13	advcl	_	Tense[denom]=Pres
+2	agissant	agir	VERB	_	Tense=Pres|VerbForm=Part	13	advcl	_	Status[Tense]=Denom
 3	de	de	ADP	_	_	5	case	_	_
 4	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 5	maladie	maladie	NOUN	_	Gender=Fem|Number=Sing	2	obl:arg	_	Exponence[Gender]=Inherent
@@ -33,7 +33,7 @@ The following 14 pairs of parts of speech are connected with `dep`: <tt><a href=
 8	,	,	PUNCT	_	_	2	punct	_	_
 9	Aclasta	Aclasta	PROPN	_	_	13	nsubj	_	_
 10	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	aux:tense	_	_
-11	été	être	AUX	_	VerbForm=Part	13	cop	_	Tense[denom]=Past
+11	été	être	AUX	_	Tense=Past|VerbForm=Part	13	cop	_	Status[Tense]=Denom
 12	plus	plus	ADV	_	_	13	advmod	_	_
 13	efficace	efficace	ADJ	_	Gender=Masc|Number=Sing	0	root	_	Exponence[Gender]=Absent
 14	que	que	SCONJ	_	_	16	case	_	_
@@ -77,27 +77,26 @@ The following 14 pairs of parts of speech are connected with `dep`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 10 dep	color:blue
-1	Celle-ci	celui-ci	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Dem	12	nsubj	_	SpaceAfter=No
-2	,	,	PUNCT	_	_	6	punct	_	_
-3	de	de	ADP	_	ExtPos=ADV	6	advmod	_	Idiom=Yes
-4	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	fixed	_	InIdiom=Yes
-5	moins	moins	ADV	_	_	3	fixed	_	InIdiom=Yes
-6	telle	tel	ADJ	_	Gender=Fem|Number=Sing	1	amod	_	_
-7	que	que	SCONJ	_	_	10	mark	_	_
-8	nous	nous	PRON	_	Case=Nom|Emph=No|Number=Plur|Person=1|PronType=Prs	10	nsubj	_	_
-9	la	lui	PRON	_	Case=Acc|Emph=No|Gender=Fem|Number=Sing|Person=3|PronType=Prs	10	obj	_	_
-10	concevons	concevoir	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	6	dep	_	SpaceAfter=No
-11	,	,	PUNCT	_	_	6	punct	_	_
-12	doit	devoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-13	comporter	comporter	VERB	_	VerbForm=Inf	12	xcomp	_	Subject=SubjRaising
-14	deux	deux	NUM	_	Number=Plur|NumType=Card	15	nummod	_	Exponence[Number]=Inherent
-15	éléments	élément	NOUN	_	Gender=Masc|Number=Plur	13	obj	_	Exponence[Gender]=Inherent|SpaceAfter=No
-16	.	.	PUNCT	_	_	12	punct	_	_
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 9 dep	color:blue
+1	Celle-ci	celui-ci	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Dem	11	nsubj	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	5	punct	_	_
+3	du	du	ADP	_	ExtPos=ADV	5	advmod	_	Idiom=Yes
+4	moins	moins	ADV	_	_	3	fixed	_	InIdiom=Yes
+5	telle	tel	ADJ	_	Gender=Fem|Number=Sing	1	amod	_	_
+6	que	que	SCONJ	_	_	9	mark	_	_
+7	nous	nous	PRON	_	Case=Nom|Emph=No|Number=Plur|Person=1|PronType=Prs	9	nsubj	_	_
+8	la	lui	PRON	_	Case=Acc|Emph=No|Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	obj	_	_
+9	concevons	concevoir	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	5	dep	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	5	punct	_	_
+11	doit	devoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+12	comporter	comporter	VERB	_	VerbForm=Inf	11	xcomp	_	Subject=SubjRaising
+13	deux	deux	NUM	_	Number=Plur|NumType=Card	14	nummod	_	Exponence[Number]=Inherent
+14	éléments	élément	NOUN	_	Gender=Masc|Number=Plur	12	obj	_	Exponence[Gender]=Inherent|SpaceAfter=No
+15	.	.	PUNCT	_	_	11	punct	_	_
 
 ~~~
 

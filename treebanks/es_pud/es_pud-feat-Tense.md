@@ -12,20 +12,20 @@ It occurs with 4 different values: `Fut`, `Imp`, `Past`, `Pres`.
 2252 tokens (10%) have a non-empty value of `Tense`.
 1179 types (20%) occur at least once with a non-empty value of `Tense`.
 545 lemmas (12%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 2 part-of-speech tags: <tt><a href="es_pud-pos-VERB.html">VERB</a></tt> (1687; 7% instances), <tt><a href="es_pud-pos-AUX.html">AUX</a></tt> (565; 2% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="es_pud-pos-VERB.html">VERB</a></tt> (1686; 7% instances), <tt><a href="es_pud-pos-AUX.html">AUX</a></tt> (566; 2% instances).
 
 ### `VERB`
 
-1687 <tt><a href="es_pud-pos-VERB.html">VERB</a></tt> tokens (74% of all `VERB` tokens) have a non-empty value of `Tense`.
+1686 <tt><a href="es_pud-pos-VERB.html">VERB</a></tt> tokens (74% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="es_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1304; 77%), <tt><a href="es_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1302; 77%), <tt><a href="es_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1248; 74%), <tt><a href="es_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (1241; 74%), <tt><a href="es_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1221; 72%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="es_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1303; 77%), <tt><a href="es_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1301; 77%), <tt><a href="es_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1247; 74%), <tt><a href="es_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (1240; 74%), <tt><a href="es_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1220; 72%).
 
 `VERB` tokens may have the following values of `Tense`:
 
 * `Fut` (36; 2% of non-empty `Tense`): <em>habrá, tendrá, hará, reducirá, será, Evaluaremos, Jugarán, asistirán, cambiará, contendrán</em>
 * `Imp` (202; 12% of non-empty `Tense`): <em>era, tenía, tenían, consideraba, decía, estaba, fuese, parecía, quería, Aparecía</em>
 * `Past` (918; 54% of non-empty `Tense`): <em>dijo, debido, hecho, afirmó, convirtió, declaró, empezó, tuvo, comenzó, hizo</em>
-* `Pres` (531; 31% of non-empty `Tense`): <em>tiene, es, hay, hace, está, tienen, dice, están, incluyen, encuentra</em>
+* `Pres` (530; 31% of non-empty `Tense`): <em>tiene, es, hay, hace, está, tienen, dice, están, incluyen, encuentra</em>
 * `EMPTY` (583): <em>hacer, tener, ver, establecer, escrito, ayudar, dejar, enviar, incluyendo, pesar</em>
 
 <table>
@@ -41,16 +41,16 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 ### `AUX`
 
-565 <tt><a href="es_pud-pos-AUX.html">AUX</a></tt> tokens (89% of all `AUX` tokens) have a non-empty value of `Tense`.
+566 <tt><a href="es_pud-pos-AUX.html">AUX</a></tt> tokens (89% of all `AUX` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="es_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (550; 97%), <tt><a href="es_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (522; 92%), <tt><a href="es_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (521; 92%), <tt><a href="es_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (417; 74%).
+The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="es_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (551; 97%), <tt><a href="es_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (523; 92%), <tt><a href="es_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (522; 92%), <tt><a href="es_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (418; 74%).
 
 `AUX` tokens may have the following values of `Tense`:
 
 * `Fut` (7; 1% of non-empty `Tense`): <em>será, deberán, estaré, serán</em>
 * `Imp` (74; 13% of non-empty `Tense`): <em>era, estaba, estaban, eran, podía, debía, fueran, debían, estuviese, fuera</em>
 * `Past` (253; 45% of non-empty `Tense`): <em>fue, ha, había, fueron, han, habían, sido, hayan, estado, he</em>
-* `Pres` (231; 41% of non-empty `Tense`): <em>es, está, puede, son, pueden, están, sea, debemos, debe, estamos</em>
+* `Pres` (232; 41% of non-empty `Tense`): <em>es, está, puede, son, pueden, están, sea, debemos, debe, estamos</em>
 * `EMPTY` (69): <em>ser, podría, haber, siendo, estar, sería, debería, podrían, poder, serían</em>
 
 <table>

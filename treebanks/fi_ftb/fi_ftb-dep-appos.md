@@ -28,10 +28,10 @@ The following 1 pairs of parts of speech are connected with `appos`: <tt><a href
 4	elokuvatähdet	elokuvatähti	NOUN	N,Pl,Nom	Case=Nom|Number=Plur	3	nsubj	_	_
 5	Renny	renny	PROPN	N,Prop,Sg,Nom	Case=Nom|Number=Sing	4	appos	_	Alt=name
 6	Harlin	harlin	PROPN	N,Prop,Sg,Nom	Case=Nom|Number=Sing	5	flat	_	Alt=appos
-7	,	,	PUNCT	Pun	_	5	punct	_	FTB-rel=phrm
+7	,	,	PUNCT	Pun	_	8	punct	_	FTB-rel=phrm
 8	Geena	geena	PROPN	N,Prop,Sg,Nom	Case=Nom|Number=Sing	5	conj	_	Alt=name
 9	Davis	davis	PROPN	N,Prop,Sg,Nom	Case=Nom|Number=Sing	8	flat	_	_
-10	,	,	PUNCT	Pun	_	5	punct	_	FTB-rel=phrm
+10	,	,	PUNCT	Pun	_	11	punct	_	FTB-rel=phrm
 11	Bruce	bruce	PROPN	N,Prop,Sg,Nom	Case=Nom|Number=Sing	5	conj	_	Alt=name
 12	Willis	willis	PROPN	N,Prop,Sg,Nom	Case=Nom|Number=Sing	11	flat	_	_
 13	ja	ja	CCONJ	Pcle,CC	_	14	cc	_	_

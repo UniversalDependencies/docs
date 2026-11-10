@@ -11,7 +11,7 @@ It occurs with 3 different values: `Cnd`, `Imp`, `Ind`.
 
 11157 tokens (11%) have a non-empty value of `Mood`.
 1617 types (12%) occur at least once with a non-empty value of `Mood`.
-887 lemmas (12%) occur at least once with a non-empty value of `Mood`.
+886 lemmas (12%) occur at least once with a non-empty value of `Mood`.
 The feature is used with 2 part-of-speech tags: <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> (6292; 6% instances), <tt><a href="sl_sst-pos-AUX.html">AUX</a></tt> (4865; 5% instances).
 
 ### `VERB`
@@ -56,7 +56,7 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
   <tr><td><tt></tt></td><td></td><td></td><td><em>bi</em></td></tr>
 </table>
 
-`Mood` seems to be **lexical feature** of `VERB`. 93% lemmas (826) occur only with one value of `Mood`.
+`Mood` seems to be **lexical feature** of `VERB`. 93% lemmas (825) occur only with one value of `Mood`.
 
 ### `AUX`
 

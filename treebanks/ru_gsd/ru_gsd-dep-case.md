@@ -43,7 +43,7 @@ The following 32 pairs of parts of speech are connected with `case`: <tt><a href
 # visual-style 5 4 case	color:blue
 1	Провёл	провести	VERB	VBC	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 2	полтора	полтора	NUM	CD	Case=Acc|Gender=Masc|NumType=Card	3	nummod:gov	_	_
-3	года	год	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	obl	_	_
+3	года	год	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	obl:tmod	_	_
 4	в	в	ADP	IN	_	5	case	_	_
 5	Риме	Рим	PROPN	NNP	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	1	obl	_	_
 6	и	и	CCONJ	CC	_	9	cc	_	_

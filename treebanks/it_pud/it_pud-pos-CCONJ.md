@@ -20,7 +20,7 @@ The 10 most frequent ambiguous types:  <em>e</em> (<tt><a href="it_pud-pos-CCONJ
 
 * <em>e</em>
   * <tt><a href="it_pud-pos-CCONJ.html">CCONJ</a></tt> 423: <em>Le sue affermazioni <b>e</b> le sue azioni sono , in effetti , incredibili .</em>
-  * <tt><a href="it_pud-pos-ADP.html">ADP</a></tt> 1: <em>Prima dell' Imperatore Meji , i nomi di le ere venivano cambiati più spesso <b>e</b> i nomi postumi di gli imperatori venivano scelti in modo diverso .</em>
+  * <tt><a href="it_pud-pos-ADP.html">ADP</a></tt> 1: <em>Prima di l' Imperatore Meji , i nomi di le ere venivano cambiati più spesso <b>e</b> i nomi postumi di gli imperatori venivano scelti in modo diverso .</em>
 * <em>che</em>
   * <tt><a href="it_pud-pos-PRON.html">PRON</a></tt> 173: <em>Di solito , si tratta di artisti <b>che</b> vogliono fare molte cose .</em>
   * <tt><a href="it_pud-pos-SCONJ.html">SCONJ</a></tt> 143: <em>È corretto sostenere <b>che</b> Rocco Catalano lavora , vive e respira retrò .</em>
@@ -33,7 +33,7 @@ The 10 most frequent ambiguous types:  <em>e</em> (<tt><a href="it_pud-pos-CCONJ
   * <tt><a href="it_pud-pos-VERB.html">VERB</a></tt> 2: <em>Penso che <b>sia</b> la ragione per cui si siano immersi in le fantasie e in i colori .</em>
 * <em>mentre</em>
   * <tt><a href="it_pud-pos-CCONJ.html">CCONJ</a></tt> 5: <em>È necessaria una maggioranza di i due terzi , ovvero 367 voti su 550 membri di il parlamento , <b>mentre</b> sono necessari 330 voti per indire il referendum .</em>
-  * <tt><a href="it_pud-pos-SCONJ.html">SCONJ</a></tt> 5: <em>La stessa Wintour appare brevemente ed è filmata <b>mentre</b> indossa i suoi occhiali da sole prima dell' intervista .</em>
+  * <tt><a href="it_pud-pos-SCONJ.html">SCONJ</a></tt> 5: <em>La stessa Wintour appare brevemente ed è filmata <b>mentre</b> indossa i suoi occhiali da sole prima di l' intervista .</em>
   * <tt><a href="it_pud-pos-ADP.html">ADP</a></tt> 2: <em>La porzione settentrionale di il Caucaso è conosciuta con il nome di Ciscaucasia , <b>mentre</b> quella meridionale è chiamata Transcaucasia .</em>
 * <em>quindi</em>
   * <tt><a href="it_pud-pos-ADV.html">ADV</a></tt> 6: <em>Un' appropriata teologia dovrebbe <b>quindi</b> essere creata in base a i suoi obiettivi futuri .</em>
@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  <em>e</em> (<tt><a href="it_pud-pos-CCONJ
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.055556 (the average of all parts of speech is 1.285855).
+The form / lemma ratio of `CCONJ` is 1.055556 (the average of all parts of speech is 1.282892).
 
 The 1st highest number of forms (2) was observed with the lemma “e”: <em>e, ed</em>.
 

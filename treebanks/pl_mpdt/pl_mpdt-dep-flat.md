@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-270 nodes (1%) are attached to their parents as `flat`.
+284 nodes (0%) are attached to their parents as `flat`.
 
-270 instances of `flat` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.51481481481481.
+284 instances of `flat` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.53169014084507.
 
-The following 22 pairs of parts of speech are connected with `flat`: <tt><a href="pl_mpdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pl_mpdt-pos-PROPN.html">PROPN</a></tt> (107; 40% instances), <tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_mpdt-pos-NUM.html">NUM</a></tt> (35; 13% instances), <tt><a href="pl_mpdt-pos-ADV.html">ADV</a></tt>-<tt><a href="pl_mpdt-pos-ADV.html">ADV</a></tt> (29; 11% instances), <tt><a href="pl_mpdt-pos-NUM.html">NUM</a></tt>-<tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt> (19; 7% instances), <tt><a href="pl_mpdt-pos-NUM.html">NUM</a></tt>-<tt><a href="pl_mpdt-pos-NUM.html">NUM</a></tt> (18; 7% instances), <tt><a href="pl_mpdt-pos-ADV.html">ADV</a></tt>-<tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt> (17; 6% instances), <tt><a href="pl_mpdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pl_mpdt-pos-X.html">X</a></tt> (13; 5% instances), <tt><a href="pl_mpdt-pos-X.html">X</a></tt>-<tt><a href="pl_mpdt-pos-PROPN.html">PROPN</a></tt> (7; 3% instances), <tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_mpdt-pos-PROPN.html">PROPN</a></tt> (4; 1% instances), <tt><a href="pl_mpdt-pos-PRON.html">PRON</a></tt>-<tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt> (4; 1% instances), <tt><a href="pl_mpdt-pos-DET.html">DET</a></tt>-<tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_mpdt-pos-X.html">X</a></tt> (2; 1% instances), <tt><a href="pl_mpdt-pos-PRON.html">PRON</a></tt>-<tt><a href="pl_mpdt-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="pl_mpdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_mpdt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="pl_mpdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_mpdt-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="pl_mpdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_mpdt-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="pl_mpdt-pos-ADV.html">ADV</a></tt>-<tt><a href="pl_mpdt-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="pl_mpdt-pos-DET.html">DET</a></tt>-<tt><a href="pl_mpdt-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_mpdt-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="pl_mpdt-pos-NUM.html">NUM</a></tt>-<tt><a href="pl_mpdt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="pl_mpdt-pos-X.html">X</a></tt>-<tt><a href="pl_mpdt-pos-X.html">X</a></tt> (1; 0% instances).
+The following 27 pairs of parts of speech are connected with `flat`: <tt><a href="pl_mpdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pl_mpdt-pos-PROPN.html">PROPN</a></tt> (140; 49% instances), <tt><a href="pl_mpdt-pos-NUM.html">NUM</a></tt>-<tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt> (30; 11% instances), <tt><a href="pl_mpdt-pos-PRON.html">PRON</a></tt>-<tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt> (29; 10% instances), <tt><a href="pl_mpdt-pos-NUM.html">NUM</a></tt>-<tt><a href="pl_mpdt-pos-NUM.html">NUM</a></tt> (21; 7% instances), <tt><a href="pl_mpdt-pos-DET.html">DET</a></tt>-<tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt> (9; 3% instances), <tt><a href="pl_mpdt-pos-X.html">X</a></tt>-<tt><a href="pl_mpdt-pos-PROPN.html">PROPN</a></tt> (8; 3% instances), <tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt> (6; 2% instances), <tt><a href="pl_mpdt-pos-PRON.html">PRON</a></tt>-<tt><a href="pl_mpdt-pos-ADJ.html">ADJ</a></tt> (5; 2% instances), <tt><a href="pl_mpdt-pos-ADV.html">ADV</a></tt>-<tt><a href="pl_mpdt-pos-ADJ.html">ADJ</a></tt> (4; 1% instances), <tt><a href="pl_mpdt-pos-ADV.html">ADV</a></tt>-<tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt> (4; 1% instances), <tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_mpdt-pos-PROPN.html">PROPN</a></tt> (4; 1% instances), <tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_mpdt-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="pl_mpdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_mpdt-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="pl_mpdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="pl_mpdt-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="pl_mpdt-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="pl_mpdt-pos-DET.html">DET</a></tt>-<tt><a href="pl_mpdt-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_mpdt-pos-X.html">X</a></tt> (2; 1% instances), <tt><a href="pl_mpdt-pos-X.html">X</a></tt>-<tt><a href="pl_mpdt-pos-X.html">X</a></tt> (2; 1% instances), <tt><a href="pl_mpdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_mpdt-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="pl_mpdt-pos-ADV.html">ADV</a></tt>-<tt><a href="pl_mpdt-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="pl_mpdt-pos-ADV.html">ADV</a></tt>-<tt><a href="pl_mpdt-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="pl_mpdt-pos-DET.html">DET</a></tt>-<tt><a href="pl_mpdt-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_mpdt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="pl_mpdt-pos-NUM.html">NUM</a></tt>-<tt><a href="pl_mpdt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="pl_mpdt-pos-NUM.html">NUM</a></tt>-<tt><a href="pl_mpdt-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="pl_mpdt-pos-PRON.html">PRON</a></tt>-<tt><a href="pl_mpdt-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="pl_mpdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pl_mpdt-pos-X.html">X</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -37,42 +37,47 @@ The following 22 pairs of parts of speech are connected with `flat`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 7 flat	color:blue
-1	Działo	dziać	VERB	praet:sg:n:imperf	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	Translit=Działo
-2	się	się	PRON	part	PronType=Prs|Reflex=Yes	1	expl:pv	1:expl:pv	Translit=się
-3	w	w	ADP	prep:loc:nwok	AdpType=Prep|Variant=Short	4	case	4:case	Case=Loc|Translit=w
-4	Ptaszkowej	Ptaszkowa	PROPN	subst:sg:loc:f	Case=Loc|Gender=Fem|Number=Sing	1	obl	1:obl	Translit=Ptaszkowey
-5	d	dzień	NOUN	brev:pun	Abbr=Yes	1	obl	1:obl	SpaceAfter=No|Translit=d
-6	.	.	PUNCT	interp	PunctType=Peri	5	punct	5:punct	Translit=.
-7	23	23	NUM	dig	NumForm=Digit	5	flat	5:flat	Translit=23
-8	Marca	marzec	NOUN	subst:sg:gen:m	Case=Gen|Gender=Masc|Number=Sing	7	nmod:flat	7:nmod:flat	Translit=Marca
-9	1736	1736	NUM	dig	NumForm=Digit	8	flat	8:flat	SpaceAfter=No|Translit=1736
-10	.	.	PUNCT	interp	PunctType=Peri	1	punct	1:punct	Translit=.
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 10 flat	color:blue
+1	Cena	cena	NOUN	subst:sg:nom:f	Case=Nom|Gender=Fem|Number=Sing	6	nsubj	6:nsubj	Translit=Cena
+2	dóbr	dobra	NOUN	subst:pl:gen:n:pt	Case=Gen|Gender=Neut|Number=Ptan	1	nmod:arg	1:nmod:arg	Translit=dobr
+3	Narodowych	narodowy	ADJ	adj:pl:gen:n:pos	Case=Gen|Degree=Pos|Gender=Neut|Number=Plur	2	amod	2:amod	Translit=Narodowych
+4	w	w	ADP	prep:loc:nwok	AdpType=Prep|Variant=Short	5	case	5:case	Case=Loc|Translit=w
+5	Niderlandzie	Niderland	PROPN	subst:sg:loc:m	Case=Loc|Gender=Masc|Number=Sing	2	nmod	2:nmod	Translit=Niderlandzie
+6	wynosi	wynosić	VERB	fin:sg:ter:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	Translit=wynosi
+7	do	do	ADP	prep:gen	AdpType=Prep	8	case	8:case	Case=Gen|Translit=do
+8	3,000	3,000	NUM	dig	NumForm=Digit	6	obl:arg	6:obl:arg	SpaceAfter=No|Translit=3,000
+9	.	.	PUNCT	interp	PunctType=Peri	8	punct	8:punct	Translit=.
+10	mil	milion	NOUN	brev:pun	Abbr=Yes	8	flat	8:flat	SpaceAfter=No|Translit=mill
+11	.	.	PUNCT	interp	PunctType=Peri	6	punct	6:punct	Translit=.
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 3 flat	color:blue
-1	I	jej	ADV	brev:pun	Abbr=Yes	0	root	0:root	SpaceAfter=No|Translit=I
-2	.	.	PUNCT	interp	PunctType=Peri	1	punct	1:punct	SpaceAfter=No|Translit=.
-3	M	mość	ADV	brev:pun	Abbr=Yes	1	flat	1:flat	SpaceAfter=No|Translit=M
-4	.	.	PUNCT	interp	PunctType=Peri	3	punct	3:punct	Translit=.
-5	Pani	pani	NOUN	subst:sg:nom:f	Case=Nom|Gender=Fem|Number=Sing	1	appos	1:appos	Translit=Pani
-6	Zofia	Zofia	PROPN	subst:sg:nom:f	Case=Nom|Gender=Fem|Number=Sing	5	appos	5:appos	Translit=Zophia
-7	bracławska	bracławski	ADJ	adj:sg:nom:f:pos	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	8	amod	8:amod	Translit=bracławska
-8	wojewodzina	wojewodzina	NOUN	subst:sg:nom:f	Case=Nom|Gender=Fem|Number=Sing	6	appos	6:appos	Translit=wojewodzina
-9	dziecię	dziecię	NOUN	subst:sg:acc:n	Case=Acc|Gender=Neut|Number=Sing	1	obj	1:obj	Translit=dziecię
-10	złote	złoty	ADJ	adj:sg:acc:n:pos	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	9	amod	9:amod	SpaceAfter=No|Translit=złote
-11	.	.	PUNCT	interp	PunctType=Peri	1	punct	1:punct	Translit=.
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 8 flat	color:blue
+1	Te	ten	DET	adj:pl:nom:m:pos	Case=Nom|Gender=Masc|Number=Plur|PronType=Dem	2	det	2:det	Translit=Te
+2	sobole	soból	NOUN	subst:pl:nom:m	Case=Nom|Gender=Masc|Number=Plur	3	nsubj:pass	3:nsubj:pass	Translit=sobole
+3	zrobione	zrobić	ADJ	ppas:pl:nom:m:perf:aff:pos	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos|VerbForm=Part|Voice=Pass	0	root	0:root	Translit=zrobione
+4	do	do	ADP	prep:gen	AdpType=Prep	5	case	5:case	Case=Gen|Translit=do
+5	sani	sanie	NOUN	subst:pl:gen:n:pt	Case=Gen|Gender=Neut|Number=Ptan	3	obl	3:obl	Translit=sani
+6	Króla	król	NOUN	subst:sg:gen:m	Case=Gen|Gender=Masc|Number=Sing	5	nmod	5:nmod	Translit=Króla
+7	Je	jego	PRON	brev:npun	Person=3|PronType=Prs	6	appos	6:appos	Translit=Je
+8	Mci	mć	NOUN	subst:sg:gen:m	Case=Gen|Gender=Masc|Number=Sing	7	flat	7:flat	SpaceAfter=No|Translit=Mci
+9	.	.	PUNCT	interp	PunctType=Peri	8	punct	8:punct	Translit=.
+10	J	J	PROPN	brev:pun	Abbr=Yes	7	appos	7:appos	SpaceAfter=No|Translit=J
+11	.	.	PUNCT	interp	PunctType=Peri	10	punct	10:punct	Translit=.
+12	A	A	PROPN	brev:pun	Abbr=Yes	10	flat	10:flat	SpaceAfter=No|Translit=A
+13	.	.	PUNCT	interp	PunctType=Peri	12	punct	12:punct	Translit=.
+14	K	K	PROPN	brev:pun	Abbr=Yes	12	flat	12:flat	SpaceAfter=No|Translit=K
+15	.	.	PUNCT	interp	PunctType=Peri	3	punct	3:punct	Translit=.
 
 ~~~
 

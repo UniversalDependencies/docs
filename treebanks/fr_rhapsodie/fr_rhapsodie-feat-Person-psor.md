@@ -13,7 +13,7 @@ This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with t
 
 367 tokens (1%) have a non-empty value of `Person[psor]`.
 16 types (0%) occur at least once with a non-empty value of `Person[psor]`.
-2 lemmas (0%) occur at least once with a non-empty value of `Person[psor]`.
+3 lemmas (0%) occur at least once with a non-empty value of `Person[psor]`.
 The feature is used with 2 part-of-speech tags: <tt><a href="fr_rhapsodie-pos-DET.html">DET</a></tt> (365; 1% instances), <tt><a href="fr_rhapsodie-pos-PRON.html">PRON</a></tt> (2; 0% instances).
 
 ### `DET`
@@ -51,12 +51,6 @@ The most frequent other feature values with which `PRON` and `Person[psor]` co-o
 
 `PRON` tokens may have the following values of `Person[psor]`:
 
-
-<table>
-  <tr><th>Paradigm <i>sien</i></th><th><tt>1</tt></th><th><tt>3</tt></th></tr>
-  <tr><td><tt><tt><a href="fr_rhapsodie-feat-Person-psor.html">Person[psor]</a></tt><tt>=1</tt></tt></td><td><em>mien</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="fr_rhapsodie-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td></td><td><em>sien</em></td></tr>
-</table>
 
 ## Relations with Agreement in `Person[psor]`
 

@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Fut`, `Past`, `Pres`.
 
-4476 tokens (5%) have a non-empty value of `Tense`.
+4482 tokens (5%) have a non-empty value of `Tense`.
 243 types (2%) occur at least once with a non-empty value of `Tense`.
 110 lemmas (2%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 2 part-of-speech tags: <tt><a href="sd_isra-pos-AUX.html">AUX</a></tt> (4134; 4% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt> (342; 0% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="sd_isra-pos-AUX.html">AUX</a></tt> (4140; 4% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt> (342; 0% instances).
 
 ### `AUX`
 
-4134 <tt><a href="sd_isra-pos-AUX.html">AUX</a></tt> tokens (84% of all `AUX` tokens) have a non-empty value of `Tense`.
+4140 <tt><a href="sd_isra-pos-AUX.html">AUX</a></tt> tokens (84% of all `AUX` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="sd_isra-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3098; 75%), <tt><a href="sd_isra-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (3064; 74%), <tt><a href="sd_isra-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2659; 64%).
+The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="sd_isra-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3102; 75%), <tt><a href="sd_isra-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (3070; 74%), <tt><a href="sd_isra-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2665; 64%).
 
 `AUX` tokens may have the following values of `Tense`:
 
 * `Fut` (13; 0% of non-empty `Tense`): <em>هوندو, هوندي, هوندا</em>
 * `Past` (702; 17% of non-empty `Tense`): <em>هو, هئي, هئا, ها, هيون, هئس, هئين, هي, هيو, ھا</em>
-* `Pres` (3419; 83% of non-empty `Tense`): <em>آهي, آهن, ٿي, ٿو, ٿا, ناهي, آهيان, آهيون, آھي, نٿو</em>
-* `EMPTY` (784): <em>ٿي, ٿيو, سگهي, هجي, سگهجي, سگهن, سگهان, هجن, ٿئي, سگهيو</em>
+* `Pres` (3425; 83% of non-empty `Tense`): <em>آهي, آهن, ٿي, ٿو, ٿا, ناهي, آهيان, آهيون, آھي, نٿو</em>
+* `EMPTY` (785): <em>ٿي, ٿيو, سگهي, هجي, سگهجي, سگهن, سگهان, هجن, ٿئي, سگهيو</em>
 
 <table>
   <tr><th>Paradigm <i>آهي</i></th><th><tt>Pres</tt></th><th><tt>Fut</tt></th><th><tt>Past</tt></th></tr>
@@ -85,7 +85,7 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 * `Fut` (66; 19% of non-empty `Tense`): <em>پوندو, اچجانءِ, هوندو, هوندي, ايندس, رهندي, ويندس, ويندي, پوندا, آرها</em>
 * `Past` (36; 11% of non-empty `Tense`): <em>ڏنل, ڪيل, ٽپي, رهيو, لکيل, لکيو, هلندڙ, وئي, ورتل, ويا</em>
 * `Pres` (240; 70% of non-empty `Tense`): <em>ڪري, وڃي, ڪيو, رهي, پيو, ويو, چيو, ڇڏيو, اچي, ويندو</em>
-* `EMPTY` (12729): <em>ڪري, چيو, ڪرڻ, ويو, ڪيو, وڃي, ڪئي, اچي, ويا, پيو</em>
+* `EMPTY` (12744): <em>ڪري, چيو, ڪرڻ, ويو, ڪيو, وڃي, ڪئي, اچي, ويا, پيو</em>
 
 <table>
   <tr><th>Paradigm <i>آهي</i></th><th><tt>Pres</tt></th><th><tt>Fut</tt></th><th><tt>Past</tt></th></tr>

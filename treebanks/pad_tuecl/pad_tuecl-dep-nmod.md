@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `nmod`: <tt><a href="pad_tuecl-dep-nmod-poss.html">nmod:poss</a></tt>.
 
-12 nodes (2%) are attached to their parents as `nmod`.
+13 nodes (3%) are attached to their parents as `nmod`.
 
-7 instances of `nmod` (58%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.58333333333333.
+7 instances of `nmod` (54%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.53846153846154.
 
-The following 7 pairs of parts of speech are connected with `nmod`: <tt><a href="pad_tuecl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pad_tuecl-pos-NOUN.html">NOUN</a></tt> (5; 42% instances), <tt><a href="pad_tuecl-pos-VERB.html">VERB</a></tt>-<tt><a href="pad_tuecl-pos-ADP.html">ADP</a></tt> (2; 17% instances), <tt><a href="pad_tuecl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pad_tuecl-pos-ADJ.html">ADJ</a></tt> (1; 8% instances), <tt><a href="pad_tuecl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pad_tuecl-pos-NUM.html">NUM</a></tt> (1; 8% instances), <tt><a href="pad_tuecl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pad_tuecl-pos-VERB.html">VERB</a></tt> (1; 8% instances), <tt><a href="pad_tuecl-pos-PRON.html">PRON</a></tt>-<tt><a href="pad_tuecl-pos-ADJ.html">ADJ</a></tt> (1; 8% instances), <tt><a href="pad_tuecl-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pad_tuecl-pos-NOUN.html">NOUN</a></tt> (1; 8% instances).
+The following 7 pairs of parts of speech are connected with `nmod`: <tt><a href="pad_tuecl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pad_tuecl-pos-NOUN.html">NOUN</a></tt> (6; 46% instances), <tt><a href="pad_tuecl-pos-VERB.html">VERB</a></tt>-<tt><a href="pad_tuecl-pos-ADP.html">ADP</a></tt> (2; 15% instances), <tt><a href="pad_tuecl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pad_tuecl-pos-ADJ.html">ADJ</a></tt> (1; 8% instances), <tt><a href="pad_tuecl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pad_tuecl-pos-NUM.html">NUM</a></tt> (1; 8% instances), <tt><a href="pad_tuecl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pad_tuecl-pos-VERB.html">VERB</a></tt> (1; 8% instances), <tt><a href="pad_tuecl-pos-PRON.html">PRON</a></tt>-<tt><a href="pad_tuecl-pos-ADJ.html">ADJ</a></tt> (1; 8% instances), <tt><a href="pad_tuecl-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pad_tuecl-pos-NOUN.html">NOUN</a></tt> (1; 8% instances).
 
 
 ~~~ conllu

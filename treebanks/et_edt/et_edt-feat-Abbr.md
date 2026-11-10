@@ -60,7 +60,7 @@ The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: 
 `ADJ` tokens may have the following values of `Abbr`:
 
 * `Yes` (119; 100% of non-empty `Abbr`): <em>nn, nn., van, %-lise, 80'ndate, jm, nim, nim., %-se, %-st</em>
-* `EMPTY` (36738): <em>suur, hea, võimalik, eesti, suurem, uue, suure, raske, esimene, oluline</em>
+* `EMPTY` (36733): <em>suur, hea, võimalik, eesti, suurem, uue, suure, raske, esimene, oluline</em>
 
 `Abbr` seems to be **lexical feature** of `ADJ`. 100% lemmas (10) occur only with one value of `Abbr`.
 
@@ -84,7 +84,7 @@ The most frequent other feature values with which `VERB` and `Abbr` co-occurred:
 `VERB` tokens may have the following values of `Abbr`:
 
 * `Yes` (47; 100% of non-empty `Abbr`): <em>vt, vt., vrd</em>
-* `EMPTY` (47814): <em>tuleb, on, teha, ütles, saada, sai, saanud, tuli, saab, jääb</em>
+* `EMPTY` (47815): <em>tuleb, on, teha, ütles, saada, sai, saanud, tuli, saab, jääb</em>
 
 ### `X`
 
@@ -126,7 +126,6 @@ The 10 most frequent relations where parent and child node agree in `Abbr`:
 <tt>PROPN --[<tt><a href="et_edt-dep-flat.html">flat</a></tt>]--> ADV</tt> (25; 86%),
 <tt>NOUN --[<tt><a href="et_edt-dep-flat.html">flat</a></tt>]--> NOUN</tt> (13; 65%),
 <tt>X --[<tt><a href="et_edt-dep-flat.html">flat</a></tt>]--> X</tt> (2; 100%),
-<tt>ADV --[<tt><a href="et_edt-dep-conj.html">conj</a></tt>]--> ADV</tt> (1; 100%),
 <tt>NOUN --[<tt><a href="et_edt-dep-list.html">list</a></tt>]--> NOUN</tt> (1; 100%),
 <tt>SYM --[<tt><a href="et_edt-dep-conj.html">conj</a></tt>]--> SYM</tt> (1; 100%),
 <tt>SYM --[<tt><a href="et_edt-dep-list.html">list</a></tt>]--> SYM</tt> (1; 100%),

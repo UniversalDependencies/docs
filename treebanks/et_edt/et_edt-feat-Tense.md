@@ -12,18 +12,18 @@ It occurs with 2 different values: `Past`, `Pres`.
 62314 tokens (14%) have a non-empty value of `Tense`.
 11745 types (15%) occur at least once with a non-empty value of `Tense`.
 4444 lemmas (11%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 5 part-of-speech tags: <tt><a href="et_edt-pos-VERB.html">VERB</a></tt> (36168; 8% instances), <tt><a href="et_edt-pos-AUX.html">AUX</a></tt> (18036; 4% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> (7760; 2% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (336; 0% instances), <tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt> (14; 0% instances).
+The feature is used with 5 part-of-speech tags: <tt><a href="et_edt-pos-VERB.html">VERB</a></tt> (36169; 8% instances), <tt><a href="et_edt-pos-AUX.html">AUX</a></tt> (18035; 4% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> (7760; 2% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (336; 0% instances), <tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt> (14; 0% instances).
 
 ### `VERB`
 
-36168 <tt><a href="et_edt-pos-VERB.html">VERB</a></tt> tokens (76% of all `VERB` tokens) have a non-empty value of `Tense`.
+36169 <tt><a href="et_edt-pos-VERB.html">VERB</a></tt> tokens (76% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="et_edt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (31841; 88%), <tt><a href="et_edt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (31448; 87%), <tt><a href="et_edt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (29778; 82%), <tt><a href="et_edt-feat-Person.html">Person</a></tt><tt>=3</tt> (21167; 59%), <tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (19418; 54%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="et_edt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (31842; 88%), <tt><a href="et_edt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (31449; 87%), <tt><a href="et_edt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (29779; 82%), <tt><a href="et_edt-feat-Person.html">Person</a></tt><tt>=3</tt> (21168; 59%), <tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (19419; 54%).
 
 `VERB` tokens may have the following values of `Tense`:
 
 * `Past` (18002; 50% of non-empty `Tense`): <em>ütles, sai, saanud, tuli, läks, jäi, tegi, hakkas, jäänud, võttis</em>
-* `Pres` (18166; 50% of non-empty `Tense`): <em>tuleb, on, saab, jääb, ütleb, läheb, teeb, hakkab, annab, pole</em>
+* `Pres` (18167; 50% of non-empty `Tense`): <em>tuleb, on, saab, jääb, ütleb, läheb, teeb, hakkab, annab, pole</em>
 * `EMPTY` (11693): <em>teha, saada, teada, võtta, näha, öelda, minna, kasutada, leida, panna</em>
 
 <table>
@@ -55,14 +55,14 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 ### `AUX`
 
-18036 <tt><a href="et_edt-pos-AUX.html">AUX</a></tt> tokens (80% of all `AUX` tokens) have a non-empty value of `Tense`.
+18035 <tt><a href="et_edt-pos-AUX.html">AUX</a></tt> tokens (80% of all `AUX` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="et_edt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (17988; 100%), <tt><a href="et_edt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (17693; 98%), <tt><a href="et_edt-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (16921; 94%), <tt><a href="et_edt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (16259; 90%), <tt><a href="et_edt-feat-Person.html">Person</a></tt><tt>=3</tt> (13550; 75%), <tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (11463; 64%).
+The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="et_edt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (17987; 100%), <tt><a href="et_edt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (17692; 98%), <tt><a href="et_edt-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (16920; 94%), <tt><a href="et_edt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (16258; 90%), <tt><a href="et_edt-feat-Person.html">Person</a></tt><tt>=3</tt> (13549; 75%), <tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (11462; 64%).
 
 `AUX` tokens may have the following values of `Tense`:
 
 * `Past` (3813; 21% of non-empty `Tense`): <em>oli, olid, olnud, polnud, olin, pidi, võis, sai, saanud, pidanud</em>
-* `Pres` (14223; 79% of non-empty `Tense`): <em>on, pole, võib, ole, oleks, peaks, olen, saab, peab, saa</em>
+* `Pres` (14222; 79% of non-empty `Tense`): <em>on, pole, võib, ole, oleks, peaks, olen, saab, peab, saa</em>
 * `EMPTY` (4416): <em>ei, olla, olema, olles, saama, tunduda, näikse, Olemata, en, es</em>
 
 <table>
@@ -108,7 +108,7 @@ The most frequent other feature values with which `ADJ` and `Tense` co-occurred:
 
 * `Past` (3691; 48% of non-empty `Tense`): <em>seotud, teatud, tehtud, antud, tuntud, möödunud, ülejäänud, nimetatud, jäänud, loodud</em>
 * `Pres` (4069; 52% of non-empty `Tense`): <em>erinevate, erinevad, erinevaid, huvitav, erinev, vastava, vastav, erineva, erinevat, erinevates</em>
-* `EMPTY` (29097): <em>suur, hea, võimalik, eesti, suurem, uue, suure, raske, esimene, oluline</em>
+* `EMPTY` (29092): <em>suur, hea, võimalik, eesti, suurem, uue, suure, raske, esimene, oluline</em>
 
 `Tense` seems to be **lexical feature** of `ADJ`. 100% lemmas (2271) occur only with one value of `Tense`.
 
@@ -141,8 +141,8 @@ The most frequent other feature values with which `PROPN` and `Tense` co-occurre
 ## Relations with Agreement in `Tense`
 
 The 10 most frequent relations where parent and child node agree in `Tense`:
-<tt>VERB --[<tt><a href="et_edt-dep-conj.html">conj</a></tt>]--> VERB</tt> (4232; 83%),
-<tt>VERB --[<tt><a href="et_edt-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (412; 60%),
+<tt>VERB --[<tt><a href="et_edt-dep-conj.html">conj</a></tt>]--> VERB</tt> (4233; 83%),
+<tt>VERB --[<tt><a href="et_edt-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (411; 60%),
 <tt>VERB --[<tt><a href="et_edt-dep-discourse.html">discourse</a></tt>]--> VERB</tt> (5; 71%),
 <tt>AUX --[<tt><a href="et_edt-dep-conj.html">conj</a></tt>]--> VERB</tt> (3; 100%),
 <tt>VERB --[<tt><a href="et_edt-dep-acl.html">acl</a></tt>]--> ADJ</tt> (3; 75%),

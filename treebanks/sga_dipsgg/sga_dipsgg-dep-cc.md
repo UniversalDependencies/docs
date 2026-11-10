@@ -23,7 +23,7 @@ The following 3 pairs of parts of speech are connected with `cc`: <tt><a href="s
 # visual-style 6	fgColor:white
 # visual-style 6 5 cc	color:blue
 1	hi	i	ADP	_	AdpType=Prep|Definite=Ind	3	case	_	SpaceAfter=No
-2	cach	cach	DET	_	Case=Dat|Definite=Def|Number=Sing	3	det	_	_
+2	cach	cach	DET	_	Case=Dat|Number=Sing|PronType=Tot	3	det	_	_
 3	ceniul	cenél	NOUN	_	Case=Dat|Number=Sing	0	root	_	_
 4	fis	fis	NOUN	_	Case=Gen|Number=Sing	3	nmod	_	_
 5	⁊	ocus	CCONJ	_	_	6	cc	_	_

@@ -18,7 +18,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="en_gentle-pos-PRON.
 
 239 <tt><a href="en_gentle-pos-PRON.html">PRON</a></tt> tokens (20% of all `PRON` tokens) have a non-empty value of `Poss`.
 
-The most frequent other feature values with which `PRON` and `Poss` co-occurred: <tt><a href="en_gentle-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (237; 99%), <tt><a href="en_gentle-feat-Case.html">Case</a></tt><tt>=Gen</tt> (233; 97%), <tt><a href="en_gentle-feat-Number.html">Number</a></tt><tt>=Sing</tt> (208; 87%), <tt><a href="en_gentle-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (143; 60%).
+The most frequent other feature values with which `PRON` and `Poss` co-occurred: <tt><a href="en_gentle-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (237; 99%), <tt><a href="en_gentle-feat-Case.html">Case</a></tt><tt>=Gen</tt> (235; 98%), <tt><a href="en_gentle-feat-Number.html">Number</a></tt><tt>=Sing</tt> (208; 87%), <tt><a href="en_gentle-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (143; 60%).
 
 `PRON` tokens may have the following values of `Poss`:
 

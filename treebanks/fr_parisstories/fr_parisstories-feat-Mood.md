@@ -9,24 +9,24 @@ udver: '2'
 This feature is universal.
 It occurs with 4 different values: `Cnd`, `Imp`, `Ind`, `Sub`.
 
-4472 tokens (10%) have a non-empty value of `Mood`.
+4471 tokens (10%) have a non-empty value of `Mood`.
 507 types (16%) occur at least once with a non-empty value of `Mood`.
 257 lemmas (11%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 2 part-of-speech tags: <tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt> (2281; 5% instances), <tt><a href="fr_parisstories-pos-AUX.html">AUX</a></tt> (2191; 5% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt> (2255; 5% instances), <tt><a href="fr_parisstories-pos-AUX.html">AUX</a></tt> (2216; 5% instances).
 
 ### `VERB`
 
-2281 <tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt> tokens (54% of all `VERB` tokens) have a non-empty value of `Mood`.
+2255 <tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt> tokens (54% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="fr_parisstories-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2281; 100%), <tt><a href="fr_parisstories-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (2281; 100%), <tt><a href="fr_parisstories-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2231; 98%), <tt><a href="fr_parisstories-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2141; 94%), <tt><a href="fr_parisstories-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1484; 65%), <tt><a href="fr_parisstories-feat-Person.html">Person</a></tt><tt>=3</tt> (1396; 61%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="fr_parisstories-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2255; 100%), <tt><a href="fr_parisstories-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (2255; 100%), <tt><a href="fr_parisstories-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2205; 98%), <tt><a href="fr_parisstories-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2117; 94%), <tt><a href="fr_parisstories-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1463; 65%), <tt><a href="fr_parisstories-feat-Person.html">Person</a></tt><tt>=3</tt> (1377; 61%).
 
 `VERB` tokens may have the following values of `Mood`:
 
 * `Cnd` (25; 1% of non-empty `Mood`): <em>voudrais, dirait, irait, pourrait, aimerais, changerait, connaîtrais, devrait, essaierait, faudrait</em>
 * `Imp` (29; 1% of non-empty `Mood`): <em>vas, dis, allez, inquiète, écoute, allume, attends, demande, faites, laisse</em>
-* `Ind` (2191; 96% of non-empty `Mood`): <em>avait, a, sais, fait, dit, va, avais, vois, ai, faisait</em>
+* `Ind` (2165; 96% of non-empty `Mood`): <em>avait, a, sais, fait, dit, va, vois, avais, faisait, ai</em>
 * `Sub` (36; 2% of non-empty `Mood`): <em>fasse, ait, passe, cherche, choisisse, décolle, puisse, accompagnes, appelle, crie</em>
-* `EMPTY` (1952): <em>voilà, faire, fait, aller, dit, vu, eu, dire, voir, parler</em>
+* `EMPTY` (1951): <em>voilà, faire, fait, aller, dit, vu, eu, voir, dire, parler</em>
 
 <table>
   <tr><th>Paradigm <i>faire</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Cnd</tt></th><th><tt>Sub</tt></th></tr>
@@ -44,15 +44,15 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 
 ### `AUX`
 
-2191 <tt><a href="fr_parisstories-pos-AUX.html">AUX</a></tt> tokens (96% of all `AUX` tokens) have a non-empty value of `Mood`.
+2216 <tt><a href="fr_parisstories-pos-AUX.html">AUX</a></tt> tokens (96% of all `AUX` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="fr_parisstories-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2191; 100%), <tt><a href="fr_parisstories-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2061; 94%), <tt><a href="fr_parisstories-feat-Person.html">Person</a></tt><tt>=3</tt> (1678; 77%), <tt><a href="fr_parisstories-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1515; 69%).
+The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="fr_parisstories-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2216; 100%), <tt><a href="fr_parisstories-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2084; 94%), <tt><a href="fr_parisstories-feat-Person.html">Person</a></tt><tt>=3</tt> (1696; 77%), <tt><a href="fr_parisstories-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1535; 69%).
 
 `AUX` tokens may have the following values of `Mood`:
 
 * `Cnd` (22; 1% of non-empty `Mood`): <em>serait, aurait, aurais, seraient</em>
 * `Imp` (2; 0% of non-empty `Mood`): <em>sois</em>
-* `Ind` (2155; 98% of non-empty `Mood`): <em>est, était, a, ai, suis, étais, avait, sont, avais, étaient</em>
+* `Ind` (2180; 98% of non-empty `Mood`): <em>est, était, a, ai, suis, étais, avait, sont, avais, étaient</em>
 * `Sub` (12; 1% of non-empty `Mood`): <em>soit, soient, soyez</em>
 * `EMPTY` (85): <em>été, être, fait, faire, avoir, ai, eu, refaire</em>
 
@@ -77,14 +77,14 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 ## Relations with Agreement in `Mood`
 
 The 10 most frequent relations where parent and child node agree in `Mood`:
-<tt>VERB --[<tt><a href="fr_parisstories-dep-conj.html">conj</a></tt>]--> VERB</tt> (92; 63%),
-<tt>VERB --[<tt><a href="fr_parisstories-dep-reparandum.html">reparandum</a></tt>]--> VERB</tt> (79; 75%),
-<tt>AUX --[<tt><a href="fr_parisstories-dep-conj.html">conj</a></tt>]--> VERB</tt> (8; 80%),
-<tt>VERB --[<tt><a href="fr_parisstories-dep-parataxis-parenth.html">parataxis:parenth</a></tt>]--> VERB</tt> (8; 89%),
-<tt>AUX --[<tt><a href="fr_parisstories-dep-discourse.html">discourse</a></tt>]--> VERB</tt> (4; 67%),
+<tt>VERB --[<tt><a href="fr_parisstories-dep-conj.html">conj</a></tt>]--> VERB</tt> (105; 66%),
+<tt>VERB --[<tt><a href="fr_parisstories-dep-reparandum.html">reparandum</a></tt>]--> VERB</tt> (48; 87%),
+<tt>VERB --[<tt><a href="fr_parisstories-dep-conj-reform.html">conj:reform</a></tt>]--> VERB</tt> (19; 83%),
+<tt>VERB --[<tt><a href="fr_parisstories-dep-parataxis-parenth.html">parataxis:parenth</a></tt>]--> VERB</tt> (9; 90%),
+<tt>AUX --[<tt><a href="fr_parisstories-dep-conj.html">conj</a></tt>]--> VERB</tt> (6; 75%),
+<tt>VERB --[<tt><a href="fr_parisstories-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (5; 63%),
+<tt>AUX --[<tt><a href="fr_parisstories-dep-reparandum.html">reparandum</a></tt>]--> AUX</tt> (4; 100%),
 <tt>VERB --[<tt><a href="fr_parisstories-dep-advcl-cleft.html">advcl:cleft</a></tt>]--> VERB</tt> (4; 100%),
-<tt>AUX --[<tt><a href="fr_parisstories-dep-reparandum.html">reparandum</a></tt>]--> AUX</tt> (3; 100%),
-<tt>VERB --[<tt><a href="fr_parisstories-dep-appos.html">appos</a></tt>]--> VERB</tt> (3; 100%),
-<tt>VERB --[<tt><a href="fr_parisstories-dep-ccomp.html">ccomp</a></tt>]--> AUX</tt> (3; 60%),
-<tt>VERB --[<tt><a href="fr_parisstories-dep-dislocated-obj.html">dislocated:obj</a></tt>]--> VERB</tt> (3; 75%).
+<tt>VERB --[<tt><a href="fr_parisstories-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (2; 100%),
+<tt>AUX --[<tt><a href="fr_parisstories-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (1; 100%).
 

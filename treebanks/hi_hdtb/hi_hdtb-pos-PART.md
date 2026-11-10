@@ -56,7 +56,7 @@ The 10 most frequent ambiguous types:  नहीं (<tt><a href="hi_hdtb-pos-PA
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.016393 (the average of all parts of speech is 1.200484).
+The form / lemma ratio of `PART` is 1.016393 (the average of all parts of speech is 1.200418).
 
 The 1st highest number of forms (3) was observed with the lemma “सा”: सा, सी, से.
 
@@ -77,7 +77,7 @@ Examples: भी, ही, तो, करीब, से, भर, लगभग, �
 
 `PART` nodes are attached to their parents using 9 different relations: <tt><a href="hi_hdtb-dep-dep.html">dep</a></tt> (4797; 68% instances), <tt><a href="hi_hdtb-dep-advmod.html">advmod</a></tt> (2164; 31% instances), <tt><a href="hi_hdtb-dep-obl.html">obl</a></tt> (25; 0% instances), <tt><a href="hi_hdtb-dep-dislocated.html">dislocated</a></tt> (11; 0% instances), <tt><a href="hi_hdtb-dep-amod.html">amod</a></tt> (6; 0% instances), <tt><a href="hi_hdtb-dep-obj.html">obj</a></tt> (3; 0% instances), <tt><a href="hi_hdtb-dep-conj.html">conj</a></tt> (1; 0% instances), <tt><a href="hi_hdtb-dep-nmod.html">nmod</a></tt> (1; 0% instances), <tt><a href="hi_hdtb-dep-root.html">root</a></tt> (1; 0% instances)
 
-Parents of `PART` nodes belong to 10 different parts of speech: <tt><a href="hi_hdtb-pos-NOUN.html">NOUN</a></tt> (2608; 37% instances), <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> (2185; 31% instances), <tt><a href="hi_hdtb-pos-PROPN.html">PROPN</a></tt> (652; 9% instances), <tt><a href="hi_hdtb-pos-PRON.html">PRON</a></tt> (619; 9% instances), <tt><a href="hi_hdtb-pos-NUM.html">NUM</a></tt> (386; 6% instances), <tt><a href="hi_hdtb-pos-ADV.html">ADV</a></tt> (224; 3% instances), <tt><a href="hi_hdtb-pos-ADJ.html">ADJ</a></tt> (189; 3% instances), <tt><a href="hi_hdtb-pos-DET.html">DET</a></tt> (141; 2% instances), <tt><a href="hi_hdtb-pos-PART.html">PART</a></tt> (4; 0% instances),  (1; 0% instances)
+Parents of `PART` nodes belong to 10 different parts of speech: <tt><a href="hi_hdtb-pos-NOUN.html">NOUN</a></tt> (2608; 37% instances), <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> (2185; 31% instances), <tt><a href="hi_hdtb-pos-PROPN.html">PROPN</a></tt> (652; 9% instances), <tt><a href="hi_hdtb-pos-PRON.html">PRON</a></tt> (619; 9% instances), <tt><a href="hi_hdtb-pos-NUM.html">NUM</a></tt> (386; 6% instances), <tt><a href="hi_hdtb-pos-ADV.html">ADV</a></tt> (224; 3% instances), <tt><a href="hi_hdtb-pos-ADJ.html">ADJ</a></tt> (190; 3% instances), <tt><a href="hi_hdtb-pos-DET.html">DET</a></tt> (140; 2% instances), <tt><a href="hi_hdtb-pos-PART.html">PART</a></tt> (4; 0% instances),  (1; 0% instances)
 
 6981 (100%) `PART` nodes are leaves.
 

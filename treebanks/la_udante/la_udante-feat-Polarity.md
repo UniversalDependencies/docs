@@ -56,7 +56,7 @@ The most frequent other feature values with which `SCONJ` and `Polarity` co-occu
 `SCONJ` tokens may have the following values of `Polarity`:
 
 * `Neg` (111; 100% of non-empty `Polarity`): <em>nisi, ne, quin, ni, necubi</em>
-* `EMPTY` (2394): <em>ut, quod, cum, si, quia, quam, sicut, tanquam, quemadmodum, licet</em>
+* `EMPTY` (2396): <em>ut, quod, cum, si, quia, quam, sicut, tanquam, quemadmodum, licet</em>
 
 ### `DET`
 

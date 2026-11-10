@@ -25,7 +25,7 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 * `1` (1262; 24% of non-empty `Person`): <em>sain, arvan, tean, lähen, kirjutasin, saan, panin, loodan, palun, usun</em>
 * `2` (725; 14% of non-empty `Person`): <em>saad, tead, teed, vaata, mine, tahad, mõtle, arvad, hakkad, minge</em>
 * `3` (3219; 62% of non-empty `Person`): <em>on, tuleb, saab, läheb, tuli, läks, teeb, teab, jääb, ütles</em>
-* `EMPTY` (5675): <em>teha, saada, tea, pole, minna, saa, saanud, teada, olemas, öelda</em>
+* `EMPTY` (5676): <em>teha, saada, tea, pole, minna, saa, saanud, teada, olemas, öelda</em>
 
 <table>
   <tr><th>Paradigm <i>saama</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -51,7 +51,7 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 * `1` (332; 10% of non-empty `Person`): <em>olen, oleme, olin, pean, oleksin, pidin, võin, saan, olime, peame</em>
 * `2` (165; 5% of non-empty `Person`): <em>oled, võid, ära, olete, pead, ole, saad, saate, olid, ärge</em>
 * `3` (2786; 85% of non-empty `Person`): <em>on, oli, võib, saab, peab, olid, ongi, sai, pidi, võivad</em>
-* `EMPTY` (2860): <em>ei, pole, oleks, ole, peaks, olla, olema, olnud, võiks, saa</em>
+* `EMPTY` (2859): <em>ei, pole, oleks, ole, peaks, olla, olema, olnud, võiks, saa</em>
 
 <table>
   <tr><th>Paradigm <i>olema</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -78,7 +78,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 * `1` (1446; 56% of non-empty `Person`): <em>ma, mul, minu, mina, meie, me, meil, mulle, mu, mind</em>
 * `2` (507; 19% of non-empty `Person`): <em>sa, sinu, sul, te, sina, sind, su, sulle, teie, teile</em>
 * `3` (648; 25% of non-empty `Person`): <em>ta, nad, tema, nende, talle, neile, tal, teda, neil, nemad</em>
-* `EMPTY` (3988): <em>see, mis, seda, oma, kes, midagi, mida, keegi, kõik, selle</em>
+* `EMPTY` (3986): <em>see, mis, seda, oma, kes, midagi, mida, keegi, selle, kõik</em>
 
 <table>
   <tr><th>Paradigm <i>sina</i></th><th><tt>1</tt></th><th><tt>2</tt></th></tr>

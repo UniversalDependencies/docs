@@ -6,12 +6,12 @@ udver: '2'
 
 ## Treebank Statistics: UD_Old_Irish-DipSGG: POS Tags: `PART`
 
-There are 13 `PART` lemmas (6%), 18 `PART` types (6%) and 32 `PART` tokens (8%).
+There are 13 `PART` lemmas (6%), 18 `PART` types (6%) and 35 `PART` tokens (8%).
 Out of 16 observed tags, the rank of `PART` is: 6 in number of lemmas, 5 in number of types and 3 in number of tokens.
 
-The 10 most frequent `PART` lemmas: <em>a, fo, so, ní, sin, ad, do, í, in, no</em>
+The 10 most frequent `PART` lemmas: <em>a, fo, so, ro, ní, sin, ad, do, í, in</em>
 
-The 10 most frequent `PART` types:  <em>a, fo, sin, so, ni, ní, Do, at, fu, hí</em>
+The 10 most frequent `PART` types:  <em>a, fo, ro, sin, so, ni, ní, Do, at, fu</em>
 
 The 10 most frequent ambiguous lemmas: <em>a</em> (<tt><a href="sga_dipsgg-pos-DET.html">DET</a></tt> 6, <tt><a href="sga_dipsgg-pos-PART.html">PART</a></tt> 5, <tt><a href="sga_dipsgg-pos-PRON.html">PRON</a></tt> 5), <em>fo</em> (<tt><a href="sga_dipsgg-pos-PART.html">PART</a></tt> 5, <tt><a href="sga_dipsgg-pos-ADP.html">ADP</a></tt> 1), <em>so</em> (<tt><a href="sga_dipsgg-pos-PART.html">PART</a></tt> 5, <tt><a href="sga_dipsgg-pos-PRON.html">PRON</a></tt> 2), <em>do</em> (<tt><a href="sga_dipsgg-pos-ADP.html">ADP</a></tt> 10, <tt><a href="sga_dipsgg-pos-PART.html">PART</a></tt> 2, <tt><a href="sga_dipsgg-pos-PRON.html">PRON</a></tt> 1), <em>in</em> (<tt><a href="sga_dipsgg-pos-DET.html">DET</a></tt> 22, <tt><a href="sga_dipsgg-pos-PART.html">PART</a></tt> 1), <em>ná</em> (<tt><a href="sga_dipsgg-pos-SCONJ.html">SCONJ</a></tt> 2, <tt><a href="sga_dipsgg-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="sga_dipsgg-pos-PART.html">PART</a></tt> 1)
 
@@ -29,7 +29,7 @@ The 10 most frequent ambiguous types:  <em>a</em> (<tt><a href="sga_dipsgg-pos-P
   * <tt><a href="sga_dipsgg-pos-PART.html">PART</a></tt> 3: <em>.i. i ndead inna ní <b>sin</b></em>
   * <tt><a href="sga_dipsgg-pos-DET.html">DET</a></tt> 1: <em>Gaib do chuil i <b>sin</b> charcair ni róis chluim na colcaid · truag in sin a mail bachal ro t giuil ind ṡrathar dodcaid</em>
 * <em>ní</em>
-  * <tt><a href="sga_dipsgg-pos-AUX.html">AUX</a></tt> 2: <em><b>ní</b> ǽr mall roscríbad in letráim so</em>
+  * <tt><a href="sga_dipsgg-pos-AUX.html">AUX</a></tt> 2: <em><b>ní</b> ǽr mall ro scríbad in letráim so</em>
   * <tt><a href="sga_dipsgg-pos-PART.html">PART</a></tt> 2: <em>.i. i ndead inna <b>ní</b> sin</em>
 * <em>hí</em>
   * <tt><a href="sga_dipsgg-pos-ADP.html">ADP</a></tt> 1: <em>.i. ut accentus .d. <b>hí</b> .c</em>
@@ -48,7 +48,7 @@ The 2nd highest number of forms (2) was observed with the lemma “ad”: <em>a,
 
 The 3rd highest number of forms (2) was observed with the lemma “do”: <em>Do, th</em>.
 
-`PART` occurs with 4 features: <tt><a href="sga_dipsgg-feat-PartType.html">PartType</a></tt> (20; 63% instances), <tt><a href="sga_dipsgg-feat-PronType.html">PronType</a></tt> (8; 25% instances), <tt><a href="sga_dipsgg-feat-Polarity.html">Polarity</a></tt> (4; 13% instances), <tt><a href="sga_dipsgg-feat-Prefix.html">Prefix</a></tt> (1; 3% instances)
+`PART` occurs with 4 features: <tt><a href="sga_dipsgg-feat-PartType.html">PartType</a></tt> (23; 66% instances), <tt><a href="sga_dipsgg-feat-PronType.html">PronType</a></tt> (8; 23% instances), <tt><a href="sga_dipsgg-feat-Polarity.html">Polarity</a></tt> (4; 11% instances), <tt><a href="sga_dipsgg-feat-Prefix.html">Prefix</a></tt> (1; 3% instances)
 
 `PART` occurs with 8 feature-value pairs: `PartType=Aug`, `PartType=Dct`, `PartType=Rel`, `PartType=Vb`, `PartType=Voc`, `Polarity=Neg`, `Prefix=Yes`, `PronType=Dem`
 
@@ -59,13 +59,13 @@ Examples: <em>fo, Do, a, at, fu, in, no, th</em>
 
 ## Relations
 
-`PART` nodes are attached to their parents using 7 different relations: <tt><a href="sga_dipsgg-dep-compound-prt.html">compound:prt</a></tt> (12; 38% instances), <tt><a href="sga_dipsgg-dep-amod.html">amod</a></tt> (9; 28% instances), <tt><a href="sga_dipsgg-dep-case-voc.html">case:voc</a></tt> (5; 16% instances), <tt><a href="sga_dipsgg-dep-advmod.html">advmod</a></tt> (3; 9% instances), <tt><a href="sga_dipsgg-dep-mark.html">mark</a></tt> (1; 3% instances), <tt><a href="sga_dipsgg-dep-nmod.html">nmod</a></tt> (1; 3% instances), <tt><a href="sga_dipsgg-dep-root.html">root</a></tt> (1; 3% instances)
+`PART` nodes are attached to their parents using 7 different relations: <tt><a href="sga_dipsgg-dep-compound-prt.html">compound:prt</a></tt> (15; 43% instances), <tt><a href="sga_dipsgg-dep-amod.html">amod</a></tt> (9; 26% instances), <tt><a href="sga_dipsgg-dep-case-voc.html">case:voc</a></tt> (5; 14% instances), <tt><a href="sga_dipsgg-dep-advmod.html">advmod</a></tt> (3; 9% instances), <tt><a href="sga_dipsgg-dep-mark.html">mark</a></tt> (1; 3% instances), <tt><a href="sga_dipsgg-dep-nmod.html">nmod</a></tt> (1; 3% instances), <tt><a href="sga_dipsgg-dep-root.html">root</a></tt> (1; 3% instances)
 
-Parents of `PART` nodes belong to 7 different parts of speech: <tt><a href="sga_dipsgg-pos-VERB.html">VERB</a></tt> (16; 50% instances), <tt><a href="sga_dipsgg-pos-NOUN.html">NOUN</a></tt> (10; 31% instances), <tt><a href="sga_dipsgg-pos-ADJ.html">ADJ</a></tt> (2; 6% instances), <tt><a href="sga_dipsgg-pos-PART.html">PART</a></tt> (1; 3% instances), <tt><a href="sga_dipsgg-pos-PRON.html">PRON</a></tt> (1; 3% instances), <tt><a href="sga_dipsgg-pos-PROPN.html">PROPN</a></tt> (1; 3% instances),  (1; 3% instances)
+Parents of `PART` nodes belong to 7 different parts of speech: <tt><a href="sga_dipsgg-pos-VERB.html">VERB</a></tt> (19; 54% instances), <tt><a href="sga_dipsgg-pos-NOUN.html">NOUN</a></tt> (10; 29% instances), <tt><a href="sga_dipsgg-pos-ADJ.html">ADJ</a></tt> (2; 6% instances), <tt><a href="sga_dipsgg-pos-PART.html">PART</a></tt> (1; 3% instances), <tt><a href="sga_dipsgg-pos-PRON.html">PRON</a></tt> (1; 3% instances), <tt><a href="sga_dipsgg-pos-PROPN.html">PROPN</a></tt> (1; 3% instances),  (1; 3% instances)
 
-22 (69%) `PART` nodes are leaves.
+25 (71%) `PART` nodes are leaves.
 
-8 (25%) `PART` nodes have one child.
+8 (23%) `PART` nodes have one child.
 
 1 (3%) `PART` nodes have two children.
 

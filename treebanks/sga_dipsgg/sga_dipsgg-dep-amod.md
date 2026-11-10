@@ -52,10 +52,11 @@ The following 8 pairs of parts of speech are connected with `amod`: <tt><a href=
 1	ní	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbType=Cop	3	nsubj	_	_
 2	ǽr	ér	PART	_	Prefix=Yes	3	amod	_	SpaceAfter=No
 3	mall	mall	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	0	root	_	_
-4	roscríbad	scríbaid	VERB	_	Mood=Ind|Number=Sing|PartType=Aug|Person=3|Tense=Past|Voice=Pass	3	acl:relcl	_	_
-5	in	in	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	6	det	_	SpaceAfter=No
-6	letráim	letraim	NOUN	_	Case=Nom|Number=Sing	4	obj	_	SpaceAfter=No
-7	so	so	PART	_	PronType=Dem	6	amod	_	_
+4	ro	ro	PART	_	PartType=Aug	5	compound:prt	_	SpaceAfter=No
+5	scríbad	scríbaid	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Pass	3	acl:relcl	_	_
+6	in	in	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	7	det	_	SpaceAfter=No
+7	letráim	letraim	NOUN	_	Case=Nom|Number=Sing	5	obj	_	SpaceAfter=No
+8	so	so	PART	_	PronType=Dem	7	amod	_	_
 
 ~~~
 

@@ -10,16 +10,16 @@ This feature is universal but the values `Emp`, `Exc` are language-specific.
 It occurs with 10 different values: `Dem`, `Emp`, `Exc`, `Ind`, `Int`, `Neg`, `Prs`, `Rcp`, `Rel`, `Tot`.
 Some words have combined values of the feature; 1 combinations have been observed: `Int|Rel`.
 
-145886 tokens (10%) have a non-empty value of `PronType`.
+145884 tokens (10%) have a non-empty value of `PronType`.
 1071 types (1%) occur at least once with a non-empty value of `PronType`.
 194 lemmas (0%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 3 part-of-speech tags: <tt><a href="ru_syntagrus-pos-PRON.html">PRON</a></tt> (66151; 4% instances), <tt><a href="ru_syntagrus-pos-DET.html">DET</a></tt> (54748; 4% instances), <tt><a href="ru_syntagrus-pos-ADV.html">ADV</a></tt> (24987; 2% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="ru_syntagrus-pos-PRON.html">PRON</a></tt> (66149; 4% instances), <tt><a href="ru_syntagrus-pos-DET.html">DET</a></tt> (54748; 4% instances), <tt><a href="ru_syntagrus-pos-ADV.html">ADV</a></tt> (24987; 2% instances).
 
 ### `PRON`
 
-66151 <tt><a href="ru_syntagrus-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
+66149 <tt><a href="ru_syntagrus-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="ru_syntagrus-feat-Number.html">Number</a></tt><tt>=Sing</tt> (48045; 73%), <tt><a href="ru_syntagrus-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (41405; 63%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="ru_syntagrus-feat-Number.html">Number</a></tt><tt>=Sing</tt> (48045; 73%), <tt><a href="ru_syntagrus-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (41403; 63%).
 
 `PRON` tokens may have the following values of `PronType`:
 
@@ -28,7 +28,7 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 * `Int` (41; 0% of non-empty `PronType`): <em>что, чего, кто, кому, чем, кого, кем</em>
 * `Int,Rel` (3723; 6% of non-empty `PronType`): <em>что, кто, чем, чего, кого, кому, чему, кем, ком, чём</em>
 * `Neg` (1403; 2% of non-empty `PronType`): <em>ничего, никто, никого, никому, ничем, ничто, ничему, никем, кем, кого</em>
-* `Prs` (40857; 62% of non-empty `PronType`): <em>он, я, мы, они, его, она, их, мне, нас, них</em>
+* `Prs` (40855; 62% of non-empty `PronType`): <em>он, я, мы, они, его, она, их, мне, нас, них</em>
 * `Rcp` (522; 1% of non-empty `PronType`): <em>друг, друга, другу, другом, друге, дружку, дружке</em>
 * `Rel` (159; 0% of non-empty `PronType`): <em>что, кто, чем, кого, кому, чего, чему, кем, ком</em>
 * `Tot` (3495; 5% of non-empty `PronType`): <em>все, всего, всех, всем, многие, всё, многое, многом, всему, многих</em>

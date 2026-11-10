@@ -9,20 +9,20 @@ udver: '2'
 This feature is language-specific.
 It occurs with 8 different values: `ADJ`, `ADP`, `ADV`, `CCONJ`, `DET`, `PRON`, `PROPN`, `SCONJ`.
 
-2173 tokens (1%) have a non-empty value of `ExtPos`.
-442 types (2%) occur at least once with a non-empty value of `ExtPos`.
-395 lemmas (2%) occur at least once with a non-empty value of `ExtPos`.
-The feature is used with 14 part-of-speech tags: <tt><a href="nl_alpino-pos-ADP.html">ADP</a></tt> (944; 0% instances), <tt><a href="nl_alpino-pos-NUM.html">NUM</a></tt> (321; 0% instances), <tt><a href="nl_alpino-pos-SYM.html">SYM</a></tt> (170; 0% instances), <tt><a href="nl_alpino-pos-X.html">X</a></tt> (144; 0% instances), <tt><a href="nl_alpino-pos-DET.html">DET</a></tt> (140; 0% instances), <tt><a href="nl_alpino-pos-ADJ.html">ADJ</a></tt> (124; 0% instances), <tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt> (108; 0% instances), <tt><a href="nl_alpino-pos-ADV.html">ADV</a></tt> (90; 0% instances), <tt><a href="nl_alpino-pos-PRON.html">PRON</a></tt> (67; 0% instances), <tt><a href="nl_alpino-pos-SCONJ.html">SCONJ</a></tt> (23; 0% instances), <tt><a href="nl_alpino-pos-PROPN.html">PROPN</a></tt> (16; 0% instances), <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt> (11; 0% instances), <tt><a href="nl_alpino-pos-CCONJ.html">CCONJ</a></tt> (10; 0% instances), <tt><a href="nl_alpino-pos-INTJ.html">INTJ</a></tt> (5; 0% instances).
+2166 tokens (1%) have a non-empty value of `ExtPos`.
+439 types (2%) occur at least once with a non-empty value of `ExtPos`.
+393 lemmas (2%) occur at least once with a non-empty value of `ExtPos`.
+The feature is used with 14 part-of-speech tags: <tt><a href="nl_alpino-pos-ADP.html">ADP</a></tt> (939; 0% instances), <tt><a href="nl_alpino-pos-NUM.html">NUM</a></tt> (321; 0% instances), <tt><a href="nl_alpino-pos-SYM.html">SYM</a></tt> (170; 0% instances), <tt><a href="nl_alpino-pos-X.html">X</a></tt> (144; 0% instances), <tt><a href="nl_alpino-pos-DET.html">DET</a></tt> (139; 0% instances), <tt><a href="nl_alpino-pos-ADJ.html">ADJ</a></tt> (122; 0% instances), <tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt> (108; 0% instances), <tt><a href="nl_alpino-pos-ADV.html">ADV</a></tt> (90; 0% instances), <tt><a href="nl_alpino-pos-PRON.html">PRON</a></tt> (67; 0% instances), <tt><a href="nl_alpino-pos-SCONJ.html">SCONJ</a></tt> (23; 0% instances), <tt><a href="nl_alpino-pos-PROPN.html">PROPN</a></tt> (15; 0% instances), <tt><a href="nl_alpino-pos-CCONJ.html">CCONJ</a></tt> (12; 0% instances), <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt> (11; 0% instances), <tt><a href="nl_alpino-pos-INTJ.html">INTJ</a></tt> (5; 0% instances).
 
 ### `ADP`
 
-944 <tt><a href="nl_alpino-pos-ADP.html">ADP</a></tt> tokens (4% of all `ADP` tokens) have a non-empty value of `ExtPos`.
+939 <tt><a href="nl_alpino-pos-ADP.html">ADP</a></tt> tokens (4% of all `ADP` tokens) have a non-empty value of `ExtPos`.
 
 `ADP` tokens may have the following values of `ExtPos`:
 
-* `ADJ` (49; 5% of non-empty `ExtPos`): <em>in, op, aan, van, te, achter, ter, voor</em>
-* `ADP` (654; 69% of non-empty `ExtPos`): <em>in, op, ten, van, met, ter, aan, tot, onder, naar</em>
-* `ADV` (193; 20% of non-empty `ExtPos`): <em>voor, ten, onder, op, met, in, tot, bij, ter, af</em>
+* `ADJ` (48; 5% of non-empty `ExtPos`): <em>in, op, aan, van, te, achter, ter, voor</em>
+* `ADP` (650; 69% of non-empty `ExtPos`): <em>in, op, ten, van, met, ter, aan, tot, onder, naar</em>
+* `ADV` (193; 21% of non-empty `ExtPos`): <em>voor, ten, onder, op, met, in, tot, bij, ter, af</em>
 * `CCONJ` (5; 1% of non-empty `ExtPos`): <em>tot, Ten</em>
 * `PRON` (2; 0% of non-empty `ExtPos`): <em>van</em>
 * `PROPN` (5; 1% of non-empty `ExtPos`): <em>van, Achterlangs, Door, Op</em>
@@ -84,16 +84,16 @@ The most frequent other feature values with which `X` and `ExtPos` co-occurred: 
 
 ### `DET`
 
-140 <tt><a href="nl_alpino-pos-DET.html">DET</a></tt> tokens (1% of all `DET` tokens) have a non-empty value of `ExtPos`.
+139 <tt><a href="nl_alpino-pos-DET.html">DET</a></tt> tokens (1% of all `DET` tokens) have a non-empty value of `ExtPos`.
 
-The most frequent other feature values with which `DET` and `ExtPos` co-occurred: <tt><a href="nl_alpino-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (136; 97%), <tt><a href="nl_alpino-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (126; 90%).
+The most frequent other feature values with which `DET` and `ExtPos` co-occurred: <tt><a href="nl_alpino-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (135; 97%), <tt><a href="nl_alpino-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (125; 90%).
 
 `DET` tokens may have the following values of `ExtPos`:
 
-* `ADP` (17; 12% of non-empty `ExtPos`): <em>de, het, een</em>
-* `ADV` (93; 66% of non-empty `ExtPos`): <em>het, 's, een, des, 't</em>
+* `ADP` (16; 12% of non-empty `ExtPos`): <em>de, het, een</em>
+* `ADV` (93; 67% of non-empty `ExtPos`): <em>het, 's, een, des, 't</em>
 * `PRON` (7; 5% of non-empty `ExtPos`): <em>flo, dll, een, de</em>
-* `PROPN` (23; 16% of non-empty `ExtPos`): <em>De, Het</em>
+* `PROPN` (23; 17% of non-empty `ExtPos`): <em>De, Het</em>
 
 <table>
   <tr><th>Paradigm <i>de</i></th><th><tt>ADP</tt></th><th><tt>ADV</tt></th><th><tt>PRON</tt></th><th><tt>PROPN</tt></th></tr>
@@ -102,23 +102,23 @@ The most frequent other feature values with which `DET` and `ExtPos` co-occurred
 
 ### `ADJ`
 
-124 <tt><a href="nl_alpino-pos-ADJ.html">ADJ</a></tt> tokens (1% of all `ADJ` tokens) have a non-empty value of `ExtPos`.
+122 <tt><a href="nl_alpino-pos-ADJ.html">ADJ</a></tt> tokens (1% of all `ADJ` tokens) have a non-empty value of `ExtPos`.
 
-The most frequent other feature values with which `ADJ` and `ExtPos` co-occurred: <tt><a href="nl_alpino-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (117; 94%).
+The most frequent other feature values with which `ADJ` and `ExtPos` co-occurred: <tt><a href="nl_alpino-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (115; 94%).
 
 `ADJ` tokens may have the following values of `ExtPos`:
 
 * `ADP` (9; 7% of non-empty `ExtPos`): <em>dicht, korte, makkelijk, nieuw, terwille</em>
 * `ADV` (3; 2% of non-empty `ExtPos`): <em>rustig, geleidelijk</em>
-* `PRON` (19; 15% of non-empty `ExtPos`): <em>half, Vierde</em>
-* `PROPN` (93; 75% of non-empty `ExtPos`): <em>Integraal, Internationale, Binnenlandse, Eerste, Buitenlandse, Economische, Nederlandse, Nieuwe, Sociale, Algemene</em>
+* `PRON` (19; 16% of non-empty `ExtPos`): <em>half, Vierde</em>
+* `PROPN` (91; 75% of non-empty `ExtPos`): <em>Integraal, Internationale, Binnenlandse, Eerste, Buitenlandse, Economische, Nederlandse, Nieuwe, Sociale, Algemene</em>
 
 <table>
   <tr><th>Paradigm <i>nieuw</i></th><th><tt>ADP</tt></th><th><tt>PROPN</tt></th></tr>
   <tr><td><tt></tt></td><td><em>nieuw</em></td><td><em>Nieuwe</em></td></tr>
 </table>
 
-`ExtPos` seems to be **lexical feature** of `ADJ`. 96% lemmas (50) occur only with one value of `ExtPos`.
+`ExtPos` seems to be **lexical feature** of `ADJ`. 96% lemmas (49) occur only with one value of `ExtPos`.
 
 ### `NOUN`
 
@@ -191,21 +191,35 @@ The most frequent other feature values with which `PRON` and `ExtPos` co-occurre
 
 ### `PROPN`
 
-16 <tt><a href="nl_alpino-pos-PROPN.html">PROPN</a></tt> tokens (0% of all `PROPN` tokens) have a non-empty value of `ExtPos`.
+15 <tt><a href="nl_alpino-pos-PROPN.html">PROPN</a></tt> tokens (0% of all `PROPN` tokens) have a non-empty value of `ExtPos`.
 
-The most frequent other feature values with which `PROPN` and `ExtPos` co-occurred: <tt><a href="nl_alpino-feat-Number.html">Number</a></tt><tt>=Sing</tt> (16; 100%), <tt><a href="nl_alpino-feat-Gender.html">Gender</a></tt><tt>=Com</tt> (10; 63%).
+The most frequent other feature values with which `PROPN` and `ExtPos` co-occurred: <tt><a href="nl_alpino-feat-Number.html">Number</a></tt><tt>=Sing</tt> (15; 100%), <tt><a href="nl_alpino-feat-Gender.html">Gender</a></tt><tt>=Com</tt> (9; 60%).
 
 `PROPN` tokens may have the following values of `ExtPos`:
 
 * `ADV` (2; 13% of non-empty `ExtPos`): <em>God</em>
-* `PROPN` (14; 88% of non-empty `ExtPos`): <em>Olympia's, Ulster, Adam, Balkum, Fiat, GOD, Josef, Máxima, Porsche, Sydney</em>
+* `PROPN` (13; 87% of non-empty `ExtPos`): <em>Olympia's, Ulster, Adam, Balkum, Fiat, GOD, Josef, Porsche, Sydney, TT</em>
 
 <table>
   <tr><th>Paradigm <i>God</i></th><th><tt>ADV</tt></th><th><tt>PROPN</tt></th></tr>
   <tr><td><tt></tt></td><td><em>God</em></td><td><em>GOD</em></td></tr>
 </table>
 
-`ExtPos` seems to be **lexical feature** of `PROPN`. 92% lemmas (12) occur only with one value of `ExtPos`.
+`ExtPos` seems to be **lexical feature** of `PROPN`. 92% lemmas (11) occur only with one value of `ExtPos`.
+
+### `CCONJ`
+
+12 <tt><a href="nl_alpino-pos-CCONJ.html">CCONJ</a></tt> tokens (0% of all `CCONJ` tokens) have a non-empty value of `ExtPos`.
+
+`CCONJ` tokens may have the following values of `ExtPos`:
+
+* `CCONJ` (7; 58% of non-empty `ExtPos`): <em>en, maar</em>
+* `SCONJ` (5; 42% of non-empty `ExtPos`): <em>maar, en</em>
+
+<table>
+  <tr><th>Paradigm <i>en</i></th><th><tt>CCONJ</tt></th><th><tt>SCONJ</tt></th></tr>
+  <tr><td><tt></tt></td><td><em>en</em></td><td><em>en</em></td></tr>
+</table>
 
 ### `VERB`
 
@@ -223,20 +237,6 @@ The most frequent other feature values with which `VERB` and `ExtPos` co-occurre
 <table>
   <tr><th>Paradigm <i>laten</i></th><th><tt>CCONJ</tt></th><th><tt>SCONJ</tt></th></tr>
   <tr><td><tt></tt></td><td><em>laat</em></td><td><em>laat</em></td></tr>
-</table>
-
-### `CCONJ`
-
-10 <tt><a href="nl_alpino-pos-CCONJ.html">CCONJ</a></tt> tokens (0% of all `CCONJ` tokens) have a non-empty value of `ExtPos`.
-
-`CCONJ` tokens may have the following values of `ExtPos`:
-
-* `CCONJ` (7; 70% of non-empty `ExtPos`): <em>en, maar</em>
-* `SCONJ` (3; 30% of non-empty `ExtPos`): <em>maar, en</em>
-
-<table>
-  <tr><th>Paradigm <i>en</i></th><th><tt>CCONJ</tt></th><th><tt>SCONJ</tt></th></tr>
-  <tr><td><tt></tt></td><td><em>en</em></td><td><em>en</em></td></tr>
 </table>
 
 ### `INTJ`

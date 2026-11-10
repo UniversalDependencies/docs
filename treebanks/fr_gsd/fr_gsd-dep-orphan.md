@@ -53,7 +53,7 @@ The following 36 pairs of parts of speech are connected with `orphan`: <tt><a hr
 7	mais	mais	CCONJ	_	_	9	cc	_	_
 8	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
 9	service	service	NOUN	_	Gender=Masc|Number=Sing	5	conj	_	Exponence[Gender]=Inherent
-10	Zéro	zéro	NUM	_	Number=Sing	9	orphan	_	Exponence[Number]=Inherent|wordform=zéro
+10	Zéro	zéro	NUM	_	ExtPos=PROPN|Number=Sing	9	orphan	_	Exponence[Number]=Inherent|wordform=zéro
 
 ~~~
 

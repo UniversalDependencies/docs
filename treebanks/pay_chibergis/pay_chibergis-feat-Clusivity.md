@@ -56,6 +56,8 @@ The most frequent other feature values with which `VERB` and `Clusivity` co-occu
 
 10 <tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt> tokens (2% of all `PRON` tokens) have a non-empty value of `Clusivity`.
 
+The most frequent other feature values with which `PRON` and `Clusivity` co-occurred: <tt><a href="pay_chibergis-feat-ExtPos.html">ExtPos</a></tt><tt>=EMPTY</tt> (10; 100%).
+
 `PRON` tokens may have the following values of `Clusivity`:
 
 * `Ex` (9; 90% of non-empty `Clusivity`): <em>ũtas</em>
@@ -76,9 +78,9 @@ The 10 most frequent relations where parent and child node agree in `Clusivity`:
 <tt>VERB --[<tt><a href="pay_chibergis-dep-aux.html">aux</a></tt>]--> AUX</tt> (3; 100%),
 <tt>VERB --[<tt><a href="pay_chibergis-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (3; 100%),
 <tt>NOUN --[<tt><a href="pay_chibergis-dep-reparandum.html">reparandum</a></tt>]--> NOUN</tt> (2; 100%),
-<tt>PRON --[<tt><a href="pay_chibergis-dep-reparandum.html">reparandum</a></tt>]--> NOUN</tt> (2; 67%),
 <tt>NOUN --[<tt><a href="pay_chibergis-dep-appos.html">appos</a></tt>]--> NOUN</tt> (1; 100%),
 <tt>PART --[<tt><a href="pay_chibergis-dep-reparandum.html">reparandum</a></tt>]--> NOUN</tt> (1; 100%),
+<tt>PRON --[<tt><a href="pay_chibergis-dep-reparandum.html">reparandum</a></tt>]--> NOUN</tt> (1; 100%),
 <tt>VERB --[<tt><a href="pay_chibergis-dep-conj.html">conj</a></tt>]--> AUX</tt> (1; 100%),
 <tt>VERB --[<tt><a href="pay_chibergis-dep-dep-conj.html">dep:conj</a></tt>]--> VERB</tt> (1; 100%).
 

@@ -25,7 +25,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 * `1` (2431; 21% of non-empty `Person`): <em>ik, we, ons, wij, me, mijn, mij, onze, mezelf, m'n</em>
 * `2` (622; 5% of non-empty `Person`): <em>je, u, jullie, jij, jou, uw, gij, jouw, jezelf, ge</em>
 * `3` (8334; 73% of non-empty `Person`): <em>hij, het, dat, zijn, wat, zich, ze, wie, men, hun</em>
-* `EMPTY` (1778): <em>die, meer, elkaar, veel, deze, enige, minder, weinig, velen, hetgeen</em>
+* `EMPTY` (1782): <em>die, meer, elkaar, veel, deze, enige, minder, weinig, velen, hetgeen</em>
 
 <table>
   <tr><th>Paradigm <i>gij</i></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>

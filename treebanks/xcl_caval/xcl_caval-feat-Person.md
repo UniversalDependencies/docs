@@ -60,7 +60,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 * `1` (1360; 40% of non-empty `Person`): <em>իմ, իս, ես, մեզ, ինձ, մեր, մեք, ինէն, մէնջ, ինեւ</em>
 * `2` (1562; 46% of non-empty `Person`): <em>ձեզ, քեզ, քո, դու, դուք, ձեր, քէն, ձէնջ, քեւ</em>
 * `3` (497; 15% of non-empty `Person`): <em>իւր, ինքն, իւրեանց, իւրեանս, իւրեւ, իւրոյ, իւրոց, իւրեաւ, իւրում, ինքեան</em>
-* `EMPTY` (7079): <em>նա, որ, նորա, նոսա, նմա, նոցա, ինչ, ոք, այս, զինչ</em>
+* `EMPTY` (7076): <em>նա, որ, նորա, նոսա, նմա, նոցա, ինչ, ոք, այս, զինչ</em>
 
 ### `AUX`
 
@@ -104,7 +104,7 @@ The most frequent other feature values with which `DET` and `Person` co-occurred
 * `1` (229; 37% of non-empty `Person`): <em>մեր, իմոյ, մերոյ, իմմէ, մերոց, իմոց, իմում, իմ, մերում, իմով</em>
 * `2` (137; 22% of non-empty `Person`): <em>քում, ձերոց, քոց, քումմէ, քո, ձերոյ, ձերմէ, ձերում, քոյ, քով</em>
 * `3` (249; 40% of non-empty `Person`): <em>իւրում, իւրոց, իւրոյ, իւր, իւրմէ, իւրով, իւրեանց, իւրովք, ինքն, իրում</em>
-* `EMPTY` (6488): <em>ն, ս, ամենայն, դ, մի, բազում, որ, այս, ինչ, այն</em>
+* `EMPTY` (6491): <em>ն, ս, ամենայն, դ, մի, բազում, որ, այս, ինչ, այն</em>
 
 ## Relations with Agreement in `Person`
 

@@ -30,7 +30,7 @@ The following 16 pairs of parts of speech are connected with `advmod`: <tt><a hr
 5	,	,	PUNCT	CLB	_	9	punct	_	_
 6	нинге	нинге	ADV	Adv	AdvType=Tim	9	advmod	_	_
 7	школавга	школа	NOUN	N	Case=Lat|Clitic=AddGA|Definite=Ind|Number=Plur,Sing	9	obl	_	_
-8	аф	аф	AUX	Aux	Polarity=Neg	9	aux	_	_
+8	аф	аф	AUX	Aux	Polarity=Neg	9	aux:neg	_	_
 9	якан	якамс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Pres|VerbForm=Fin	2	conj	_	SpaceAfter=No
 10	.	.	PUNCT	CLB	_	2	punct	_	_
 
@@ -50,7 +50,7 @@ The following 16 pairs of parts of speech are connected with `advmod`: <tt><a hr
 5	,	,	PUNCT	CLB	_	9	punct	_	_
 6	нинге	нинге	ADV	Adv	AdvType=Tim	9	advmod	_	_
 7	школавга	школа	NOUN	N	Case=Lat|Clitic=AddGA|Definite=Ind|Number=Plur,Sing	9	obl	_	_
-8	аф	аф	AUX	Aux	Polarity=Neg	9	aux	_	_
+8	аф	аф	AUX	Aux	Polarity=Neg	9	aux:neg	_	_
 9	якан	якамс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Pres|VerbForm=Fin	2	conj	_	SpaceAfter=No
 10	.	.	PUNCT	CLB	_	2	punct	_	_
 
@@ -63,7 +63,7 @@ The following 16 pairs of parts of speech are connected with `advmod`: <tt><a hr
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 2 advmod	color:blue
-1	Рамаль	рамамс	VERB	V	Mood=Sub|Number[subj]=Sing|Person[subj]=3|VerbForm=Fin	0	root	_	_
+1	Рамаль	рамамс	VERB	V	Mood=Cnd|Number[subj]=Sing|Person[subj]=3|VerbForm=Fin	0	root	_	_
 2	хуш	хуш	ADV	Adv	_	5	advmod	_	_
 3	тядязень	тядя	NOUN	N	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=1	5	nmod	_	_
 4	муськома	муськомс	VERB	V	Case=Nom|Definite=Ind|Number=Sing|VerbForm=Vnoun	5	nmod	_	_

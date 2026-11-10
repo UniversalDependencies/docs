@@ -192,7 +192,7 @@ The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>NOUN --[<tt><a href="fo_oft-dep-det.html">det</a></tt>]--> DET</tt> (183; 99%),
 <tt>NOUN --[<tt><a href="fo_oft-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (145; 90%),
 <tt>NOUN --[<tt><a href="fo_oft-dep-conj.html">conj</a></tt>]--> NOUN</tt> (136; 91%),
-<tt>NOUN --[<tt><a href="fo_oft-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (102; 63%),
+<tt>NOUN --[<tt><a href="fo_oft-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (104; 63%),
 <tt>ADJ --[<tt><a href="fo_oft-dep-cop.html">cop</a></tt>]--> AUX</tt> (90; 95%),
-<tt>NOUN --[<tt><a href="fo_oft-dep-obl.html">obl</a></tt>]--> PROPN</tt> (82; 84%).
+<tt>PROPN --[<tt><a href="fo_oft-dep-cop.html">cop</a></tt>]--> AUX</tt> (82; 69%).
 

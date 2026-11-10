@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.3 release.
 The following people have contributed to making this treebank part of UD: Barbora Hladká, Daniel Zeman, Martin Popel.
 
 Repository: [UD_Czech-CLTT](https://github.com/UniversalDependencies/UD_Czech-CLTT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udcs_cltt218)<br />
-Download all treebanks: [UD 2.18](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udcs_cltt219)<br />
+Download all treebanks: [UD 2.19](/#download)
 
 License: CC BY-SA 4.0
 
@@ -153,7 +153,7 @@ http://hdl.handle.net/11234/1-2498.
 </ul>
 
 <ul>
-<li>There are 4 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+<li>There are 5 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
 </ul>
 
 <ul>
@@ -188,6 +188,14 @@ http://hdl.handle.net/11234/1-2498.
     <li>ADJ: konsolidující, zanikající, stanoveno, následujícího, související, předcházejícímu, týkající, přejímající, sestavena, obchodovány</li>
     <li>AUX: byly, byl, bylo, nebyly, byla, nebyla, nebyl</li>
     <li>VERB: došlo, přestaly, nabyla, určila, staly, nastaly, překročila, sestavila, stanovila, trvalo</li>
+  </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Vnoun
+  <ul>
+    <li>NOUN: ocenění, ustanovení, vymezení, sestavení, účtování, uspořádání, použití, hospodaření, nabytí, obchodování</li>
   </ul>
   </li>
 </ul>
@@ -269,6 +277,7 @@ http://hdl.handle.net/11234/1-2498.
       <li>AUX-Part: bylo</li>
       <li>DET: které, to, která, toto, všechna, její, některá, každé, samo, takové</li>
       <li>NOUN: období, ocenění, účetnictví, ustanovení, vymezení, sestavení, účtování, uspořádání, použití, hospodaření</li>
+      <li>NOUN-Vnoun: ocenění, ustanovení, vymezení, sestavení, účtování, uspořádání, použití, hospodaření, nabytí, obchodování</li>
       <li>NUM: jedno</li>
       <li>PRON: veškeré</li>
       <li>VERB-Part: došlo, trvalo, započalo, mohlo, přešlo, uzavřelo</li>
@@ -320,6 +329,7 @@ http://hdl.handle.net/11234/1-2498.
       <li>AUX-Part: byly, nebyly</li>
       <li>DET: které, těchto, tyto, kterých, všech, která, kterým, všechny, všechna, ty</li>
       <li>NOUN: jednotky, závazků, jednotek, položek, náklady, závazky, nákladů, položky, informace, záznamy</li>
+      <li>NOUN-Vnoun: ustanovení, plnění, ocenění, opatření, sdružení, ustanoveních, ustanoveními, zařízení, řešení, Porušením</li>
       <li>NUM: tří, dvě, dvanácti, obě, dvěma, dva, dvou, obou, pěti, čtyři</li>
       <li>PRON: nichž, je, jim, jimiž, nich, veškeré, jimi, nimi, ně, veškerých</li>
       <li>VERB-Fin: mohou, použijí, sestavují, mají, účtují, nastanou, týkají, uvádějí, nepoužijí, považují</li>
@@ -348,6 +358,7 @@ http://hdl.handle.net/11234/1-2498.
       <li>AUX-Part: byl, bylo, nebyl</li>
       <li>DET: této, která, tohoto, který, které, tato, tento, kterém, kterému, to</li>
       <li>NOUN: jednotka, majetku, období, ocenění, účetnictví, položka, dni, závěrky, jednotky, ustanovení</li>
+      <li>NOUN-Vnoun: ocenění, ustanovení, vymezení, sestavení, účtování, uspořádání, použití, hospodaření, nabytí, obchodování</li>
       <li>NUM: jeden, jedné, dvanáct, jedno, jednoho, jednou, pět, deset, jednom, jednomu</li>
       <li>PRON: němž, jej, němuž, jí, jehož, ji, ní, níž, nějž, jenž</li>
       <li>VERB-Conv: počínaje</li>
@@ -369,6 +380,7 @@ http://hdl.handle.net/11234/1-2498.
       <li>ADP: na, pro, za, o, po, v, ve, mimo, mezi, pod</li>
       <li>DET: které, tuto, kterou, to, tyto, všechny, který, její, každou, tento</li>
       <li>NOUN: závěrku, závazky, období, účetnictví, položky, informace, majetek, ocenění, účely, dobu</li>
+      <li>NOUN-Vnoun: ocenění, sestavení, účtování, ustanovení, pořízení, vedení, zhodnocení, použití, povolení, uspořádání</li>
       <li>NUM: jeden, dvanáct, jedno, pět, dva, jednu, obě, čtyři</li>
       <li>PRON: se, jej, je, ji, nějž, veškeré, ně, něj, ho, jež</li>
     </ul>
@@ -383,6 +395,7 @@ http://hdl.handle.net/11234/1-2498.
       <li>ADP: k, ke, oproti, vůči, proti</li>
       <li>DET: kterému, kterým, této, tomu, takovému, jejímu, které, tomuto, téže, těmto</li>
       <li>NOUN: dni, obchodování, okamžiku, konci, majetku, osobám, užívání, členům, jednotce, jednotkám</li>
+      <li>NOUN-Vnoun: obchodování, užívání, pochopení, přijetí, podnikání, posouzení, vymezení, hospodaření, porušení, provedení</li>
       <li>NUM: jednomu</li>
       <li>PRON: němuž, jim, jí, jemu, nim, nimž, ní, si, sobě</li>
     </ul>
@@ -397,6 +410,7 @@ http://hdl.handle.net/11234/1-2498.
       <li>ADP: podle, do, z, u, od, včetně, ze, bez, ode, prostřednictvím</li>
       <li>DET: tohoto, této, těchto, všech, kterých, kterého, jejího, které, toho, své</li>
       <li>NOUN: majetku, závěrky, období, jednotky, závazků, jednotek, položek, společnosti, dne, odstavce</li>
+      <li>NOUN-Vnoun: ocenění, hospodaření, nabytí, ustanovení, oceňování, odpisování, použití, sestavení, zajištění, účtování</li>
       <li>NUM: jedné, tří, dvanácti, jednoho, dvou, obou, pěti</li>
       <li>PRON: nichž, jehož, nich, ní, veškerého, veškerých</li>
     </ul>
@@ -411,6 +425,7 @@ http://hdl.handle.net/11234/1-2498.
       <li>ADP: s, mezi, pod, se, před, za, nad, přede</li>
       <li>DET: kterým, tímto, tím, touto, kterými, jejím, jejímž, kterou, několika, svým</li>
       <li>NOUN: jednotkou, hodnotou, výjimkou, způsobem, dnem, vlivem, auditorem, cenou, osobou, zákonem</li>
+      <li>NOUN-Vnoun: uvedením, odštěpením, pořízením, oceněním, určením, nabytím, připojením, použitím, respektováním, ručením</li>
       <li>NUM: jednou, dvěma, jedním</li>
       <li>PRON: jimiž, jimi, nimi, sebou, veškerými, jí, jímž, ním, nímž</li>
     </ul>
@@ -425,6 +440,7 @@ http://hdl.handle.net/11234/1-2498.
       <li>ADP: v, o, ve, na, při, po</li>
       <li>DET: kterém, tomto, kterých, které, těchto, této, jejím, jakém, své, tom</li>
       <li>NOUN: případě, období, případech, příloze, závěrce, rozsahu, formě, přeměně, účetnictví, odstavci</li>
+      <li>NOUN-Vnoun: ocenění, znění, Ustanovení, nabytí, použití, členění, vedení, splnění, řízení, oceňování</li>
       <li>NUM: jednom</li>
       <li>PRON: němž, nichž, níž, sobě, nich, ní, veškerých</li>
     </ul>
@@ -438,6 +454,7 @@ http://hdl.handle.net/11234/1-2498.
       <li>ADJ-Part: konsolidující, související, přejímající, zanikající, týkající, jednající, opravující, rozhodující, doplňující, držící</li>
       <li>DET: které, která, který, tato, tyto, tento, to, toto, její, všechna</li>
       <li>NOUN: jednotka, jednotky, položka, ustanovení, závěrka, majetek, vymezení, náklady, záznam, informace</li>
+      <li>NOUN-Vnoun: ustanovení, vymezení, uspořádání, ocenění, označování, členění, použití, sestavení, zhodnocení, odpisování</li>
       <li>NUM: jeden, dvě, obě, deset</li>
       <li>PRON: jenž, veškeré, jež</li>
     </ul>
@@ -561,11 +578,38 @@ http://hdl.handle.net/11234/1-2498.
 <ul>
   <li>Imp
     <ul>
-      <li>ADJ-Part: konsolidující, zanikající, následujícího, související, předcházejícímu, týkající, přejímající, předcházející, souvisejících, řídících</li>
+      <li>ADJ: konsolidující, zanikající, následujícího, související, předcházejícímu, regulovaném, týkající, přejímající, obchodovány, předcházející</li>
+      <li>ADJ-Part: konsolidující, zanikající, následujícího, související, předcházejícímu, týkající, přejímající, obchodovány, předcházející, souvisejících</li>
       <li>AUX-Fin: je, jsou, není, nejsou, by, bude, budou</li>
       <li>AUX-Inf: být</li>
       <li>AUX-Part: byly, byl, bylo, nebyly, byla, nebyla, nebyl</li>
       <li>VERB-Conv: počínaje</li>
+      <li>VERB-Fin: obsahuje, rozumí, může, mohou, musí, účtuje, lze, má, sestavují, mají</li>
+      <li>VERB-Inf: vést, mít, účtovat, splňovat, obsahovat, provádět, sestavovat, pokračovat, uvádět, považovat</li>
+      <li>VERB-Part: trvalo, existovaly, podávala, mohl, mohla, mohlo, měla, navazovaly, neměla, neobsahovala</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Imp,Perf
+    <ul>
+      <li>ADJ: kvalifikovaným, emitované, emitovaných, organizován, aktivovaných, aktivována, aktivovány, kvalifikovaném, nekompenzované, realizovány</li>
+      <li>ADJ-Part: organizován, aktivována, aktivovány, realizovány</li>
+      <li>VERB-Fin: aktualizuje, dokumentuje</li>
+      <li>VERB-Inf: informovat</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Perf
+    <ul>
+      <li>ADJ: uvedené, uvedených, stanovené, stanoveno, stanovených, poskytnuté, odložené, vybraných, zjištěný, nabytému</li>
+      <li>ADJ-Part: stanoveno, sestavena, uvedeny, zahrnuty, zavedena, oprávněn, uvedena, vykázány, oceněn, připojen</li>
+      <li>VERB-Fin: uvede, použijí, stanoví, použije, nastanou, ocení, nepoužije, nepoužijí, zaúčtuje, nesestaví</li>
+      <li>VERB-Inf: použít, uvést, sestavit, zajistit, provést, určit, rozhodnout, podrobit, zjistit, prokázat</li>
+      <li>VERB-Part: došlo, přestaly, nabyla, určila, staly, nastaly, překročila, sestavila, stanovila, započalo</li>
     </ul>
   </li>
 </ul>

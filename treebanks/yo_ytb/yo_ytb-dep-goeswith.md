@@ -22,10 +22,10 @@ The following 3 pairs of parts of speech are connected with `goeswith`: <tt><a h
 # visual-style 19	bgColor:blue
 # visual-style 19	fgColor:white
 # visual-style 19 20 goeswith	color:blue
-1	Àwọn	Àwọn	DET	_	_	2	det	_	Gloss=the|Ref=MARK_5.12
+1	Àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	2	det	_	Gloss=the|Ref=MARK_5.12
 2	ẹ̀mí	ẹ̀mí	NOUN	_	_	5	nsubj	_	Gloss=spirit|Ref=MARK_5.12
 3	àìmọ́	àìmọ́	ADJ	_	_	2	amod	_	Gloss=unclean|Ref=MARK_5.12
-4	náà	náà	DET	_	_	2	det	_	Gloss=the|Ref=MARK_5.12
+4	náà	náà	DET	_	PronType=Dem	2	det	_	Gloss=the|Ref=MARK_5.12
 5	bẹ	bẹ	VERB	_	_	0	root	_	Gloss=beg|Ref=MARK_5.12
 6	Jésù	Jésù	PROPN	_	_	5	obj	_	Gloss=jesus|Ref=MARK_5.12
 7	pé	pé	SCONJ	_	_	12	mark	_	Gloss=that|Ref=MARK_5.12|SpaceAfter=No
@@ -37,7 +37,7 @@ The following 3 pairs of parts of speech are connected with `goeswith`: <tt><a h
 13	sínú	sínú	ADP	_	_	15	case	_	Gloss=into|Ref=MARK_5.12
 14	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	15	det	_	Gloss=the|Ref=MARK_5.12
 15	ẹlẹ́dẹ̀	ẹlẹ́dẹ̀	NOUN	_	_	12	obl	_	Gloss=swine|Ref=MARK_5.12
-16	wọnni	wọnni	DET	_	_	12	det	_	Gloss=those|Ref=MARK_5.12
+16	wọnni	wọnni	DET	_	Number=Plur|PronType=Dem	15	det	_	Gloss=those|Ref=MARK_5.12
 17	kí	kí	AUX	_	_	21	aux	_	Gloss=so|Ref=MARK_5.12
 18	awa	awa	PRON	_	Case=Acc|Number=Plur|Person=1|PronType=Prs	21	nsubj	_	Gloss=we|Ref=MARK_5.12
 19	le	lè	AUX	_	Typo=Yes	21	aux	_	CorrectForm=leè|Gloss=can|Ref=MARK_5.12
@@ -58,13 +58,13 @@ The following 3 pairs of parts of speech are connected with `goeswith`: <tt><a h
 # visual-style 19	bgColor:blue
 # visual-style 19	fgColor:white
 # visual-style 19 20 goeswith	color:blue
-1	Ṣùgbọ́n	Ṣùgbọ́n	CCONJ	_	_	5	cc	_	Gloss=but|Ref=MARK_5.36
+1	Ṣùgbọ́n	ṣùgbọ́n	CCONJ	_	_	5	cc	_	Gloss=but|Ref=MARK_5.36
 2	bi	bí	SCONJ	_	Typo=Yes	5	mark	_	Gloss=as|Ref=MARK_5.36
 3	Jésù	jésù	PROPN	_	_	5	nsubj	_	Gloss=jesus|Ref=MARK_5.36
 4	ti	ti	AUX	_	_	5	aux	_	Gloss=have|Ref=MARK_5.36
 5	gbọ́	gbọ́	VERB	_	_	10	advcl	_	Gloss=heard|Ref=MARK_5.36
 6	ọ̀rọ̀	ọ̀rọ̀	NOUN	_	_	5	obj	_	Gloss=word|Ref=MARK_5.36
-7	náà	náà	DET	_	_	6	det	_	Gloss=the|Ref=MARK_5.36|SpaceAfter=No
+7	náà	náà	DET	_	PronType=Dem	6	det	_	Gloss=the|Ref=MARK_5.36|SpaceAfter=No
 8	,	,	PUNCT	_	_	5	punct	_	Gloss=,|Ref=MARK_5.36
 9	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	Gloss=he|Ref=MARK_5.36
 10	wí	wí	VERB	_	_	0	root	_	Gloss=said|Ref=MARK_5.36
@@ -94,7 +94,7 @@ The following 3 pairs of parts of speech are connected with `goeswith`: <tt><a h
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 7 goeswith	color:blue
-1	Ó	Ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+1	Ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
 2	jẹ́	jẹ́	AUX	_	_	3	aux	_	_
 3	èso	èso	VERB	_	_	0	root	_	_
 4	ìfohùnṣọ̀kan	ìfohùnṣọ̀kan	ADV	_	_	3	advmod	_	SpaceAfter=No
@@ -107,7 +107,7 @@ The following 3 pairs of parts of speech are connected with `goeswith`: <tt><a h
 11	jẹ́	jẹ́	AUX	_	_	12	aux	_	_
 12	gbígbàgbọ́	gbígbàgbọ́	VERB	_	_	3	conj	_	_
 13	pé	pé	SCONJ	_	_	16	mark	_	_
-14	gbogbo	gbogbo	DET	_	_	16	det	_	_
+14	gbogbo	gbogbo	DET	_	PronType=Tot	16	det	_	_
 15	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	16	det	_	_
 16	oníṣe	oníṣe	NOUN	_	_	12	obj	_	_
 17	gbọ́dọ̀	gbọ́dọ̀	ADV	_	_	18	advmod	_	_

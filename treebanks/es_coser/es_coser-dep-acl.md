@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `acl`: <tt><a href="es_coser-dep-acl-relcl.html">acl:relcl</a></tt>.
 
-5 nodes (0%) are attached to their parents as `acl`.
+6 nodes (0%) are attached to their parents as `acl`.
 
-5 instances of `acl` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.8.
+6 instances of `acl` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.83333333333333.
 
-The following 3 pairs of parts of speech are connected with `acl`: <tt><a href="es_coser-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_coser-pos-VERB.html">VERB</a></tt> (2; 40% instances), <tt><a href="es_coser-pos-PRON.html">PRON</a></tt>-<tt><a href="es_coser-pos-VERB.html">VERB</a></tt> (2; 40% instances), <tt><a href="es_coser-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_coser-pos-ADJ.html">ADJ</a></tt> (1; 20% instances).
+The following 4 pairs of parts of speech are connected with `acl`: <tt><a href="es_coser-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_coser-pos-VERB.html">VERB</a></tt> (2; 33% instances), <tt><a href="es_coser-pos-PRON.html">PRON</a></tt>-<tt><a href="es_coser-pos-VERB.html">VERB</a></tt> (2; 33% instances), <tt><a href="es_coser-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_coser-pos-ADJ.html">ADJ</a></tt> (1; 17% instances), <tt><a href="es_coser-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_coser-pos-AUX.html">AUX</a></tt> (1; 17% instances).
 
 
 ~~~ conllu

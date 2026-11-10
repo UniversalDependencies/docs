@@ -43,7 +43,7 @@ The following 10 pairs of parts of speech are connected with `nsubj:pass`: <tt><
 # visual-style 25 17 nsubj:pass	color:blue
 1	Le	la	DET	adfp	Gender=Fem|Number=Plur|PronType=Dem	2	det	2:det	Canto=26|Verso=64|UniqueTokenId=OldItalian_Dante_Paradiso-791_1
 2	fronde	fronda	NOUN	sf1fp	Gender=Fem|Number=Plur	14	obj	14:obj	Canto=26|Verso=64|UniqueTokenId=OldItalian_Dante_Paradiso-791_2
-3	onde	onde	PRON	p	_	5	obl:lmod	5:obl:lmod	Canto=26|Verso=64|UniqueTokenId=OldItalian_Dante_Paradiso-791_3
+3	onde	onde	PRON	p	PronType=Rel	5	obl:lmod	5:obl:lmod	Canto=26|Verso=64|UniqueTokenId=OldItalian_Dante_Paradiso-791_3
 4	s'	si	PRON	pf3ypr	Person=3|PronType=Prs|Reflex=Yes	5	expl:pv	5:expl:pv	Canto=26|Clitic=Yes|Verso=64|UniqueTokenId=OldItalian_Dante_Paradiso-791_4
 5	infronda	infrondare	VERB	vi+1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	2:acl:relcl	Canto=26|Verso=64|UniqueTokenId=OldItalian_Dante_Paradiso-791_5
 6	tutto	tutto	DET	ai1ms	Gender=Masc|Number=Sing|PronType=Ind	8	det	8:det	Canto=26|Verso=64|UniqueTokenId=OldItalian_Dante_Paradiso-791_6

@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>ha</em> (<tt><a href="it_pud-pos-AUX.
 
 ## Morphology
 
-The form / lemma ratio of `VERB` is 2.121302 (the average of all parts of speech is 1.285855).
+The form / lemma ratio of `VERB` is 2.121302 (the average of all parts of speech is 1.282892).
 
 The 1st highest number of forms (15) was observed with the lemma “fare”: <em>Fa', Faceva, fa, faccia, facendo, facesse, facessero, fanno, far, fare, fatta, fatte, fatto, fece, fecero</em>.
 

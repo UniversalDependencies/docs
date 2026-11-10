@@ -7,31 +7,30 @@ udver: '2'
 ## Treebank Statistics: UD_Czech-CAC: Features: `NumType`
 
 This feature is universal.
-It occurs with 5 different values: `Card`, `Frac`, `Mult`, `Ord`, `Sets`.
+It occurs with 4 different values: `Card`, `Mult`, `Ord`, `Sets`.
 
-8992 tokens (2%) have a non-empty value of `NumType`.
-345 types (1%) occur at least once with a non-empty value of `NumType`.
-139 lemmas (0%) occur at least once with a non-empty value of `NumType`.
-The feature is used with 4 part-of-speech tags: <tt><a href="cs_cac-pos-NUM.html">NUM</a></tt> (7307; 1% instances), <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> (863; 0% instances), <tt><a href="cs_cac-pos-DET.html">DET</a></tt> (654; 0% instances), <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> (168; 0% instances).
+8932 tokens (2%) have a non-empty value of `NumType`.
+314 types (1%) occur at least once with a non-empty value of `NumType`.
+130 lemmas (0%) occur at least once with a non-empty value of `NumType`.
+The feature is used with 4 part-of-speech tags: <tt><a href="cs_cac-pos-NUM.html">NUM</a></tt> (7247; 1% instances), <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> (863; 0% instances), <tt><a href="cs_cac-pos-DET.html">DET</a></tt> (654; 0% instances), <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> (168; 0% instances).
 
 ### `NUM`
 
-7307 <tt><a href="cs_cac-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumType`.
+7247 <tt><a href="cs_cac-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (6108; 84%), <tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (4836; 66%), <tt><a href="cs_cac-feat-NumForm.html">NumForm</a></tt><tt>=Digit</tt> (4836; 66%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (4836; 66%).
+The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (6108; 84%), <tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (4836; 67%), <tt><a href="cs_cac-feat-NumForm.html">NumForm</a></tt><tt>=Digit</tt> (4836; 67%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (4836; 67%).
 
 `NUM` tokens may have the following values of `NumType`:
 
-* `Card` (7247; 99% of non-empty `NumType`): <em>#, dvou, jeden, dvě, tři, dva, obou, jedné, jednoho, jedním</em>
-* `Frac` (60; 1% of non-empty `NumType`): <em>třetinu, třetina, třetiny, čtvrtiny, dvanáctinu, třetinou, třetině, šestině, desetin, desetinu</em>
+* `Card` (7247; 100% of non-empty `NumType`): <em>#, dvou, jeden, dvě, tři, dva, obou, jedné, jednoho, jedním</em>
 
-`NumType` seems to be **lexical feature** of `NUM`. 100% lemmas (59) occur only with one value of `NumType`.
+`NumType` seems to be **lexical feature** of `NUM`. 100% lemmas (50) occur only with one value of `NumType`.
 
 ### `ADJ`
 
 863 <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> tokens (1% of all `ADJ` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `ADJ` and `NumType` co-occurred: <tt><a href="cs_cac-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (863; 100%), <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (863; 100%), <tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (863; 100%), <tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (863; 100%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (607; 70%), <tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (566; 66%).
+The most frequent other feature values with which `ADJ` and `NumType` co-occurred: <tt><a href="cs_cac-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (863; 100%), <tt><a href="cs_cac-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (863; 100%), <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (863; 100%), <tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (863; 100%), <tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (863; 100%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (607; 70%), <tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (566; 66%).
 
 `ADJ` tokens may have the following values of `NumType`:
 
@@ -64,18 +63,19 @@ The most frequent other feature values with which `ADV` and `NumType` co-occurre
 
 * `Mult` (119; 71% of non-empty `NumType`): <em>dvakrát, nejednou, několikrát, třikrát, mnohokrát, kolikrát, desetkrát, stokrát, čtyřikrát, dvanáctkrát</em>
 * `Ord` (49; 29% of non-empty `NumType`): <em>poprvé, podruhé, potřetí, potřinácté</em>
-* `EMPTY` (27907): <em>tak, také, jak, proto, již, už, ještě, pak, kde, tedy</em>
+* `EMPTY` (28126): <em>tak, také, jak, proto, již, už, ještě, pak, kde, tedy</em>
 
 `NumType` seems to be **lexical feature** of `ADV`. 100% lemmas (33) occur only with one value of `NumType`.
 
 ## Relations with Agreement in `NumType`
 
 The 10 most frequent relations where parent and child node agree in `NumType`:
-<tt>NUM --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> NUM</tt> (316; 100%),
+<tt>NUM --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> NUM</tt> (314; 100%),
 <tt>NUM --[<tt><a href="cs_cac-dep-compound.html">compound</a></tt>]--> NUM</tt> (42; 100%),
 <tt>NUM --[<tt><a href="cs_cac-dep-orphan.html">orphan</a></tt>]--> NUM</tt> (8; 100%),
 <tt>NUM --[<tt><a href="cs_cac-dep-det-nummod.html">det:nummod</a></tt>]--> DET</tt> (5; 100%),
 <tt>NUM --[<tt><a href="cs_cac-dep-appos.html">appos</a></tt>]--> DET</tt> (1; 100%),
 <tt>NUM --[<tt><a href="cs_cac-dep-dep.html">dep</a></tt>]--> NUM</tt> (1; 100%),
+<tt>NUM --[<tt><a href="cs_cac-dep-nsubj.html">nsubj</a></tt>]--> NUM</tt> (1; 100%),
 <tt>NUM --[<tt><a href="cs_cac-dep-obl.html">obl</a></tt>]--> NUM</tt> (1; 100%).
 

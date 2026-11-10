@@ -10,7 +10,7 @@ This feature is language-specific.
 It occurs with 1 different values: `Post`.
 
 17 tokens (1%) have a non-empty value of `AdpType`.
-15 types (2%) occur at least once with a non-empty value of `AdpType`.
+13 types (2%) occur at least once with a non-empty value of `AdpType`.
 12 lemmas (2%) occur at least once with a non-empty value of `AdpType`.
 The feature is used with 1 part-of-speech tags: <tt><a href="koi_uh-pos-ADP.html">ADP</a></tt> (17; 1% instances).
 
@@ -22,7 +22,7 @@ The most frequent other feature values with which `ADP` and `AdpType` co-occurre
 
 `ADP` tokens may have the following values of `AdpType`:
 
-* `Post` (17; 100% of non-empty `AdpType`): <em>вылын, гöгöр, дынӧ, бöрсянь, бердас, бердӧ, бокӧ, бӧрсянь, вылö, вылӧ</em>
+* `Post` (17; 100% of non-empty `AdpType`): <em>бӧрсянь, вылын, вылӧ, гӧгӧр, дынӧ, бердас, бердӧ, бокӧ, дорас, кежас</em>
 
 `AdpType` seems to be **lexical feature** of `ADP`. 100% lemmas (12) occur only with one value of `AdpType`.
 

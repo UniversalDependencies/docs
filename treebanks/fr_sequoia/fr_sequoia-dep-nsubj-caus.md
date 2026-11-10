@@ -26,7 +26,7 @@ The following 3 pairs of parts of speech are connected with `nsubj:caus`: <tt><a
 1	Le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	conteur	conteur	NOUN	_	Gender=Masc|Number=Sing	5	nsubj:caus	_	Exponence[Gender]=Inherent
 3	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux:tense	_	_
-4	fait	faire	AUX	_	Gender=Masc|Number=Sing|VerbForm=Part	5	aux:caus	_	Tense[denom]=Past
+4	fait	faire	AUX	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	aux:caus	_	Status[Tense]=Denom
 5	jouer	jouer	VERB	_	VerbForm=Inf	0	root	_	Subject=ObjRaising
 6	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	7	det	_	_
 7	enfants	enfant	NOUN	_	Number=Plur	5	obj:agent	_	SpaceAfter=No
@@ -44,7 +44,7 @@ The following 3 pairs of parts of speech are connected with `nsubj:caus`: <tt><a
 1	Ils	lui	PRON	_	Case=Nom|Emph=No|Gender=Masc|Number=Plur|Person=3|PronType=Prs	5	nsubj:caus	_	_
 2	lui	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	iobj:agent	_	_
 3	ont	avoir	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	aux:tense	_	_
-4	fait	faire	AUX	_	Gender=Masc|Number=Sing|VerbForm=Part	5	aux:caus	_	Tense[denom]=Past
+4	fait	faire	AUX	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	aux:caus	_	Status[Tense]=Denom
 5	subir	subir	VERB	_	VerbForm=Inf	0	root	_	_
 6	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	7	det	_	_
 7	chocs	choc	NOUN	_	Gender=Masc|Number=Plur	5	obj	_	Exponence[Gender]=Inherent
@@ -76,7 +76,7 @@ The following 3 pairs of parts of speech are connected with `nsubj:caus`: <tt><a
 7	de	de	ADP	_	_	9	case	_	_
 8	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
 9	commission	commission	NOUN	_	Gender=Fem|Number=Sing	6	nmod	_	Exponence[Gender]=Inherent
-10	promise	promettre	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	9	acl	_	Tense[denom]=Past
+10	promise	promettre	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	9	acl	_	Status[Tense]=Denom
 11	par	par	ADP	_	_	13	case	_	_
 12	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	13	det	_	_
 13	fonds	fonds	NOUN	_	Gender=Masc|Number=Plur	4	obl:agent	_	Exponence[Gender]=Inherent|Exponence[Number]=Absent

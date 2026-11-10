@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Act`, `Pass`.
 
-2209 tokens (3%) have a non-empty value of `Voice`.
+2210 tokens (3%) have a non-empty value of `Voice`.
 993 types (11%) occur at least once with a non-empty value of `Voice`.
 617 lemmas (9%) occur at least once with a non-empty value of `Voice`.
-The feature is used with 1 part-of-speech tags: <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (2209; 3% instances).
+The feature is used with 1 part-of-speech tags: <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (2210; 3% instances).
 
 ### `VERB`
 
-2209 <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> tokens (38% of all `VERB` tokens) have a non-empty value of `Voice`.
+2210 <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> tokens (38% of all `VERB` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="fr_sequoia-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (2209; 100%), <tt><a href="fr_sequoia-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (2209; 100%), <tt><a href="fr_sequoia-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (2209; 100%), <tt><a href="fr_sequoia-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (2209; 100%), <tt><a href="fr_sequoia-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1511; 68%), <tt><a href="fr_sequoia-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1501; 68%).
+The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="fr_sequoia-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (2210; 100%), <tt><a href="fr_sequoia-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (2210; 100%), <tt><a href="fr_sequoia-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (2210; 100%), <tt><a href="fr_sequoia-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (2210; 100%), <tt><a href="fr_sequoia-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1512; 68%), <tt><a href="fr_sequoia-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1502; 68%).
 
 `VERB` tokens may have the following values of `Voice`:
 
-* `Act` (677; 31% of non-empty `Voice`): <em>eu, reçu, pu, fait, pris, montré, présenté, mis, permis, subi</em>
+* `Act` (678; 31% of non-empty `Voice`): <em>eu, reçu, pu, fait, pris, montré, présenté, mis, permis, subi</em>
 * `Pass` (1532; 69% of non-empty `Voice`): <em>traités, utilisé, atteints, administré, mis, observée, recommandée, administrée, recommandé, observé</em>
-* `EMPTY` (3678): <em>doit, voir, a, peut, doivent, faire, faut, est, peuvent, concernant</em>
+* `EMPTY` (3677): <em>doit, voir, a, peut, doivent, faire, faut, est, peuvent, concernant</em>
 
 <table>
   <tr><th>Paradigm <i>devoir</i></th><th><tt>Act</tt></th><th><tt>Pass</tt></th></tr>

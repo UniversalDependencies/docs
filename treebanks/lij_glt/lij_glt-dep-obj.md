@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-287 nodes (4%) are attached to their parents as `obj`.
+278 nodes (4%) are attached to their parents as `obj`.
 
-203 instances of `obj` (71%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.11149825783972.
+188 instances of `obj` (68%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.06474820143885.
 
-The following 8 pairs of parts of speech are connected with `obj`: <tt><a href="lij_glt-pos-VERB.html">VERB</a></tt>-<tt><a href="lij_glt-pos-NOUN.html">NOUN</a></tt> (157; 55% instances), <tt><a href="lij_glt-pos-VERB.html">VERB</a></tt>-<tt><a href="lij_glt-pos-PRON.html">PRON</a></tt> (117; 41% instances), <tt><a href="lij_glt-pos-VERB.html">VERB</a></tt>-<tt><a href="lij_glt-pos-PROPN.html">PROPN</a></tt> (6; 2% instances), <tt><a href="lij_glt-pos-VERB.html">VERB</a></tt>-<tt><a href="lij_glt-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="lij_glt-pos-VERB.html">VERB</a></tt>-<tt><a href="lij_glt-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="lij_glt-pos-ADV.html">ADV</a></tt>-<tt><a href="lij_glt-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="lij_glt-pos-VERB.html">VERB</a></tt>-<tt><a href="lij_glt-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="lij_glt-pos-VERB.html">VERB</a></tt>-<tt><a href="lij_glt-pos-X.html">X</a></tt> (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `obj`: <tt><a href="lij_glt-pos-VERB.html">VERB</a></tt>-<tt><a href="lij_glt-pos-NOUN.html">NOUN</a></tt> (147; 53% instances), <tt><a href="lij_glt-pos-VERB.html">VERB</a></tt>-<tt><a href="lij_glt-pos-PRON.html">PRON</a></tt> (120; 43% instances), <tt><a href="lij_glt-pos-VERB.html">VERB</a></tt>-<tt><a href="lij_glt-pos-PROPN.html">PROPN</a></tt> (7; 3% instances), <tt><a href="lij_glt-pos-VERB.html">VERB</a></tt>-<tt><a href="lij_glt-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="lij_glt-pos-VERB.html">VERB</a></tt>-<tt><a href="lij_glt-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="lij_glt-pos-VERB.html">VERB</a></tt>-<tt><a href="lij_glt-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="lij_glt-pos-VERB.html">VERB</a></tt>-<tt><a href="lij_glt-pos-X.html">X</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -54,22 +54,28 @@ The following 8 pairs of parts of speech are connected with `obj`: <tt><a href="
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 6 obj	color:blue
-1	De	de	ADP	_	_	2	case	_	_
-2	i	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
-3	atri	atro	PRON	_	Gender=Masc|Number=Plur|PronType=Ind	4	nsubj	_	_
-4	propoñan	propoñe	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-5	"	"	PUNCT	_	_	6	punct	_	SpaceAfter=No
-6	Trilli	Trilli	PROPN	_	Gender=Masc|Number=Plur	4	obj	_	_
-7	Trilli	Trilli	PROPN	_	Gender=Masc|Number=Plur	6	flat	_	SpaceAfter=No
-8	"	"	PUNCT	_	_	6	punct	_	_
-9	e	e	CCONJ	_	_	10	cc	_	_
-10	pægi	pægio	PRON	_	Gender=Masc|Number=Plur|PronType=Ind	6	conj	_	SpaceAfter=No
-11	.	.	PUNCT	_	_	4	punct	_	_
+# visual-style 16	bgColor:blue
+# visual-style 16	fgColor:white
+# visual-style 14	bgColor:blue
+# visual-style 14	fgColor:white
+# visual-style 14 16 obj	color:blue
+1	No	no	INTJ	_	_	10	discourse	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	moæ	moæ	NOUN	_	Gender=Fem|Number=Sing	10	vocative	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	no	no	ADV	_	_	10	advmod	_	_
+6	l'	l'	PART	_	_	10	dep	_	SpaceAfter=No
+7	é	ëse	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
+8	ninte	ninte	PRON	_	Number=Sing|PronType=Neg	10	obl	_	_
+9	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	veo	veo	NOUN	_	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	14	punct	_	_
+12	mi	mi	PRON	_	Number=Sing|Person=1|PronType=Prs	14	nsubj	_	_
+13	ò	avei	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	14	aux	_	_
+14	dito	dî	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	10	parataxis	_	_
+15	San	santo	ADJ	_	Gender=Masc|Number=Sing	16	amod	_	_
+16	Frutoso	Frutoso	PROPN	_	Gender=Masc|Number=Sing	14	obj	_	SpaceAfter=No
+17	!	!	PUNCT	_	_	14	punct	_	SpacesAfter=\n
 
 ~~~
 

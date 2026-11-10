@@ -67,7 +67,7 @@ The following 18 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 2	si	si	SCONJ	_	_	5	mark	_	_
 3	vous	vous	PRON	_	Case=Nom|Emph=No|Number=Plur|Person=2|PronType=Prs	5	nsubj:pass	_	Polite=Yes
 4	êtes	être	AUX	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	5	aux:pass	_	_
-5	traité(e)	traiter	VERB	_	VerbForm=Part|Voice=Pass	0	root	_	Tense[denom]=Past
+5	traité(e)	traiter	VERB	_	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	Status[Tense]=Denom
 6	par	par	ADP	_	_	7	case	_	_
 7	Zometa	Zometa	PROPN	_	_	5	obl:mod	_	_
 8	qui	qui	PRON	_	PronType=Rel	9	nsubj	_	_

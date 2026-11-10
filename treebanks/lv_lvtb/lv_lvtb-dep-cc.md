@@ -17,59 +17,54 @@ The following 36 pairs of parts of speech are connected with `cc`: <tt><a href="
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 3 cc	color:blue
-1	Tia	Tia	PROPN	npfsn4	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	2:nsubj|5:nsubj	LvtbNodeId=a-d119-p268s3w1
-2	novērsās	novērsties	VERB	vmyisi130an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Reflex=Yes|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-d119-p268s3w2
-3	un	un	CCONJ	cc	_	5	cc	5:cc	LvtbNodeId=a-d119-p268s3w3
-4	ilgi	ilgi	ADV	rpn	Degree=Pos	5	advmod	5:advmod	LvtbNodeId=a-d119-p268s3w4
-5	lūkojās	lūkoties	VERB	vmyisi230an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Reflex=Yes|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	2:conj	LvtbNodeId=a-d119-p268s3w5
-6	pa	pa	ADP	spsa	_	7	case	7:case	LvtbNodeId=a-d119-p268s3w6
-7	logu	logs	NOUN	ncmsa1	Case=Acc|Gender=Masc|Number=Sing	5	obl	5:obl:pa	LvtbNodeId=a-d119-p268s3w7
-8	uz	uz	ADP	spsa	_	11	case	11:case	LvtbNodeId=a-d119-p268s3w8
-9	viņu	viņš	PRON	pp3mpgn	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	11	nmod	11:nmod	LvtbNodeId=a-d119-p268s3w9
-10	lielo	liels	ADJ	affsayp	Case=Acc|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing	11	amod	11:amod	LvtbNodeId=a-d119-p268s3w10
-11	pļavu	pļava	NOUN	ncfsa4	Case=Acc|Gender=Fem|Number=Sing	5	obl	5:obl:uz	LvtbNodeId=a-d119-p268s3w11|SpaceAfter=No
-12	.	.	PUNCT	zs	_	2	punct	2:punct	LvtbNodeId=a-d119-p268s3w12
-
-~~~
-
-
-~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 9 cc	color:blue
-1	Milda	Milda	PROPN	npfsn4	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	2:nsubj	LvtbNodeId=a-d173-p1637s2w1
-2	stāsta	stāstīt	VERB	vmnipt330an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-d173-p1637s2w2|SpaceAfter=No
-3	,	,	PUNCT	zc	_	6	punct	6:punct	LvtbNodeId=a-d173-p1637s2w3
-4	ka	ka	SCONJ	cs	_	6	mark	6:mark	LvtbNodeId=a-d173-p1637s2w4
-5	šos	šis	DET	pd3mpan	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Dem	6	obj	6:obj	LvtbNodeId=a-d173-p1637s2w5
-6	audīšot	aust	VERB	vmnrft100an	Evident=Nfh|Mood=Qot|Polarity=Pos|Tense=Fut|VerbForm=Fin|Voice=Act	2	ccomp	2:ccomp	LvtbNodeId=a-d173-p1637s2w6
-7	rakstā	raksts	NOUN	ncmsl1	Case=Loc|Gender=Masc|Number=Sing	6	obl	6:obl:loc	LvtbNodeId=a-d173-p1637s2w7|SpaceAfter=No
-8	,	,	PUNCT	zc	_	10	punct	10:punct	LvtbNodeId=a-d173-p1637s2w8
-9	nevis	nevis	CCONJ	cc	_	10	cc	10:cc	LvtbNodeId=a-d173-p1637s2w9
-10	strīpās	strīpa	NOUN	ncfpl4	Case=Loc|Gender=Fem|Number=Plur	7	conj	6:obl:loc|7:conj	LvtbNodeId=a-d173-p1637s2w10|SpaceAfter=No
-11	.	.	PUNCT	zs	_	2	punct	2:punct	LvtbNodeId=a-d173-p1637s2w11
-
-~~~
-
-
-~~~ conllu
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 1 cc	color:blue
+1	Un	un	CCONJ	cc	_	5	cc	5:cc	LvtbNodeId=a-p2968-p5s4w1
+2	te	te	ADV	r0n	PronType=Dem	5	advmod	5:advmod	LvtbNodeId=a-p2968-p5s4w2
+3	nu	nu	PART	q	_	5	discourse	5:discourse	LvtbNodeId=a-p2968-p5s4w3
+4	Rokfelleram	Rokfellers	PROPN	npmsd1	Case=Dat|Gender=Masc|Number=Sing	5	obl	5:obl:dat	LvtbNodeId=a-p2968-p5s4w4
+5	pavērās	pavērties	VERB	vmyisi130an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Reflex=Yes|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-p2968-p5s4w5
+6	iespēja	iespēja	NOUN	ncfsn4	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	5:nsubj	LvtbNodeId=a-p2968-p5s4w6|SpaceAfter=No
+7	.	.	PUNCT	zs	_	5	punct	5:punct	LvtbNodeId=a-p2968-p5s4w7
+
+~~~
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 4 1 cc	color:blue
-1	Tomēr	tomēr	CCONJ	cc	_	4	cc	4:cc	LvtbNodeId=a-d176-p703s6w1
-2	sirds	sirds	NOUN	ncfsn6	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	4:nsubj	LvtbNodeId=a-d176-p703s6w2
-3	bija	būt	AUX	vcnisii30an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	4	cop	4:cop	LvtbNodeId=a-d176-p703s6w3
-4	nemierīga	nemierīgs	ADJ	affsnnp	Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	0	root	0:root	LvtbNodeId=a-d176-p703s6w4|SpaceAfter=No
-5	.	.	PUNCT	zs	_	4	punct	4:punct	LvtbNodeId=a-d176-p703s6w5
+# visual-style 4 2 cc	color:blue
+1	Reklāmas	reklāma	NOUN	ncfsg4	Case=Gen|Gender=Fem|Number=Sing	5	nmod	5:nmod:gen	LvtbNodeId=a-p3767-p10s1w1
+2	un	un	CCONJ	cc	_	4	cc	4:cc	LvtbNodeId=a-p3767-p10s1w2
+3	sabiedrisko	sabiedrisks	ADJ	affpgyp	Case=Gen|Definite=Def|Degree=Pos|Gender=Fem|Number=Plur	4	amod	4:amod	LvtbNodeId=a-p3767-p10s1w3
+4	attiecību	attiecības	NOUN	ncfdg4	Case=Gen|Gender=Fem|Number=Ptan	1	conj	1:conj|5:nmod:gen	LvtbNodeId=a-p3767-p10s1w4
+5	daļas	daļa	NOUN	ncfsg4	Case=Gen|Gender=Fem|Number=Sing	6	nmod	6:nmod:gen	LvtbNodeId=a-p3767-p10s1w5
+6	vadītāja	vadītāja	NOUN	ncfsn4	Case=Nom|Gender=Fem|Number=Sing	0	root	0:root	LvtbNodeId=a-p3767-p10s1w6
+
+~~~
+
+
+~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 6 cc	color:blue
+1	Zēns	zēns	NOUN	ncmsn1	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	3:nsubj	LvtbNodeId=a-p1297-p4s2w1
+2	agri	agri	ADV	rpn	Degree=Pos	3	advmod	3:advmod	LvtbNodeId=a-p1297-p4s2w2
+3	zaudējis	zaudēt	VERB	vmnpdmsnasnpn	Aspect=Perf|Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	LvtbNodeId=a-p1297-p4s2w3
+4	mammu	mamma	NOUN	ncfsa4	Case=Acc|Gender=Fem|Number=Sing	3	obj	3:obj	LvtbNodeId=a-p1297-p4s2w4|SpaceAfter=No
+5	,	,	PUNCT	zc	_	9	punct	9:punct	LvtbNodeId=a-p1297-p4s2w5
+6	bet	bet	CCONJ	cc	_	9	cc	9:cc	LvtbNodeId=a-p1297-p4s2w6
+7	tēvs	tēvs	NOUN	ncmsn1	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	9:nsubj	LvtbNodeId=a-p1297-p4s2w7
+8	bijis	būt	AUX	vcnpdmsnasnpn	Aspect=Perf|Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	9	cop	9:cop	LvtbNodeId=a-p1297-p4s2w8
+9	bargs	bargs	ADJ	afmsnnp	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	3	conj	3:conj	LvtbNodeId=a-p1297-p4s2w9|SpaceAfter=No
+10	.	.	PUNCT	zs	_	3	punct	3:punct	LvtbNodeId=a-p1297-p4s2w10
 
 ~~~
 

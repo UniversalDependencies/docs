@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-23 nodes (3%) are attached to their parents as `obl`.
+21 nodes (3%) are attached to their parents as `obl`.
 
-15 instances of `obl` (65%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.91304347826087.
+15 instances of `obl` (71%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.95238095238095.
 
-The following 8 pairs of parts of speech are connected with `obl`: <tt><a href="ckb_mukri-pos-VERB.html">VERB</a></tt>-<tt><a href="ckb_mukri-pos-NOUN.html">NOUN</a></tt> (14; 61% instances), <tt><a href="ckb_mukri-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ckb_mukri-pos-NOUN.html">NOUN</a></tt> (2; 9% instances), <tt><a href="ckb_mukri-pos-VERB.html">VERB</a></tt>-<tt><a href="ckb_mukri-pos-ADV.html">ADV</a></tt> (2; 9% instances), <tt><a href="ckb_mukri-pos-PRON.html">PRON</a></tt>-<tt><a href="ckb_mukri-pos-DET.html">DET</a></tt> (1; 4% instances), <tt><a href="ckb_mukri-pos-VERB.html">VERB</a></tt>-<tt><a href="ckb_mukri-pos-ADJ.html">ADJ</a></tt> (1; 4% instances), <tt><a href="ckb_mukri-pos-VERB.html">VERB</a></tt>-<tt><a href="ckb_mukri-pos-DET.html">DET</a></tt> (1; 4% instances), <tt><a href="ckb_mukri-pos-VERB.html">VERB</a></tt>-<tt><a href="ckb_mukri-pos-PRON.html">PRON</a></tt> (1; 4% instances), <tt><a href="ckb_mukri-pos-VERB.html">VERB</a></tt>-<tt><a href="ckb_mukri-pos-PROPN.html">PROPN</a></tt> (1; 4% instances).
+The following 7 pairs of parts of speech are connected with `obl`: <tt><a href="ckb_mukri-pos-VERB.html">VERB</a></tt>-<tt><a href="ckb_mukri-pos-NOUN.html">NOUN</a></tt> (14; 67% instances), <tt><a href="ckb_mukri-pos-VERB.html">VERB</a></tt>-<tt><a href="ckb_mukri-pos-ADV.html">ADV</a></tt> (2; 10% instances), <tt><a href="ckb_mukri-pos-PRON.html">PRON</a></tt>-<tt><a href="ckb_mukri-pos-DET.html">DET</a></tt> (1; 5% instances), <tt><a href="ckb_mukri-pos-VERB.html">VERB</a></tt>-<tt><a href="ckb_mukri-pos-ADJ.html">ADJ</a></tt> (1; 5% instances), <tt><a href="ckb_mukri-pos-VERB.html">VERB</a></tt>-<tt><a href="ckb_mukri-pos-DET.html">DET</a></tt> (1; 5% instances), <tt><a href="ckb_mukri-pos-VERB.html">VERB</a></tt>-<tt><a href="ckb_mukri-pos-PRON.html">PRON</a></tt> (1; 5% instances), <tt><a href="ckb_mukri-pos-VERB.html">VERB</a></tt>-<tt><a href="ckb_mukri-pos-PROPN.html">PROPN</a></tt> (1; 5% instances).
 
 
 ~~~ conllu
@@ -35,22 +35,6 @@ The following 8 pairs of parts of speech are connected with `obl`: <tt><a href="
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 4 obl	color:blue
-1	Dełēn	gutin	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-2	melāyēk	melā	NOUN	_	Definite=Ind|Person=3	1	nsubj	_	_
-3	le	le	ADP	_	ExtPos=ADP	4	case	_	_
-4	dēyēkī	dē	NOUN	_	Definite=Ind|Number=Sing	2	obl	_	_
-5	köredēyekī	köredē	NOUN	_	Definite=Ind|Number=Sing	2	obl	_	_
-6	.	.	PUNCT	_	_	1	punct	_	_
-
-~~~
-
-
-~~~ conllu
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 4	bgColor:blue
@@ -63,6 +47,21 @@ The following 8 pairs of parts of speech are connected with `obl`: <tt><a href="
 5	lēre	lēre	ADV	_	_	4	obl	_	_
 6	dā	dā	ADP	_	ExtPos=ADP	5	case	_	_
 7	.	.	PUNCT	_	_	4	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 4 obl	color:blue
+1	Jā	Jā	INTJ	_	_	2	discourse	_	_
+2	eto	eto	PRON	_	Number=Sing|Person=2	0	root	_	_
+3	d	d	ADP	_	ExtPos=ADP	4	case	_	_
+4	eweydā	ewe	DET	_	Definite=Spec|Number=Sing	2	obl	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
 
 ~~~
 

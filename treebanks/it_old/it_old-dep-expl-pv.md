@@ -52,7 +52,7 @@ The following 7 pairs of parts of speech are connected with `expl:pv`: <tt><a hr
 7	ne	ne	PRON	pp3xpt	Person=3|PronType=Prs	6	obl	6:obl	Clitic=Yes|UniqueTokenId=OldItalian_Dante_Paradiso-473_7
 8	questo	questo	PRON	pd1ms	Gender=Masc|Number=Sing|PronType=Dem	6	obj	6:obj	Canto=16|SpaceAfter=No|Verso=43|UniqueTokenId=OldItalian_Dante_Paradiso-473_8
 9	:	:	PUNCT	_	_	24	punct	24:punct	UniqueTokenId=OldItalian_Dante_Paradiso-473_9
-10	chi	chi	PRON	pn	_	21	ccomp	21:ccomp	Canto=16|Verso=44|UniqueTokenId=OldItalian_Dante_Paradiso-473_10
+10	chi	chi	PRON	pn	PronType=Rel	21	ccomp	21:ccomp	Canto=16|Verso=44|UniqueTokenId=OldItalian_Dante_Paradiso-473_10
 11	ei	egli	PRON	pp3mlsoi	Gender=Masc|Person=3|PronType=Prs	10	nsubj	10:nsubj	Canto=16|Verso=44|UniqueTokenId=OldItalian_Dante_Paradiso-473_11
 12	si	si	PRON	pf3yle	Person=3|PronType=Prs|Reflex=Yes	10	expl:pv	10:expl:pv	Canto=16|Clitic=Yes|Verso=44|UniqueTokenId=OldItalian_Dante_Paradiso-473_12
 13	fosser	essere	AUX	vi+4cip3	Aspect=Imp|Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	10	cop	10:cop	Canto=16|Verso=44|UniqueTokenId=OldItalian_Dante_Paradiso-473_13

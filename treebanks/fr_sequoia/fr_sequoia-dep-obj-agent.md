@@ -26,7 +26,7 @@ The following 2 pairs of parts of speech are connected with `obj:agent`: <tt><a 
 1	Le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	conteur	conteur	NOUN	_	Gender=Masc|Number=Sing	5	nsubj:caus	_	Exponence[Gender]=Inherent
 3	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux:tense	_	_
-4	fait	faire	AUX	_	Gender=Masc|Number=Sing|VerbForm=Part	5	aux:caus	_	Tense[denom]=Past
+4	fait	faire	AUX	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	aux:caus	_	Status[Tense]=Denom
 5	jouer	jouer	VERB	_	VerbForm=Inf	0	root	_	Subject=ObjRaising
 6	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	7	det	_	_
 7	enfants	enfant	NOUN	_	Number=Plur	5	obj:agent	_	SpaceAfter=No
@@ -94,7 +94,7 @@ The following 2 pairs of parts of speech are connected with `obj:agent`: <tt><a 
 51	,	,	PUNCT	_	_	49	punct	_	_
 52	nous	nous	PRON	_	Case=Nom|Emph=No|Number=Plur|Person=1|PronType=Prs	54	nsubj	_	_
 53	avons	avoir	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	54	aux:tense	_	_
-54	admis	admettre	VERB	_	Gender=Masc|VerbForm=Part|Voice=Act	47	acl:relcl	_	Tense[denom]=Past
+54	admis	admettre	VERB	_	Gender=Masc|Tense=Past|VerbForm=Part|Voice=Act	47	acl:relcl	_	Status[Tense]=Denom
 55	jusqu'	jusque	ADP	_	_	58	case	_	SpaceAfter=No
 56	à	à	ADP	_	_	58	case	_	_
 57	ce	ce	DET	_	Gender=Masc|Number=Sing|PronType=Dem	58	det	_	_

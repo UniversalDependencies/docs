@@ -17,40 +17,43 @@ The following 12 pairs of parts of speech are connected with `nummod`: <tt><a hr
 
 
 ~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 9 nummod	color:blue
-1	Klau	klau	INTJ	i	_	8	discourse	8:discourse	LvtbNodeId=a-d1293-p7s1w1|SpaceAfter=No
-2	,	,	PUNCT	zc	_	1	punct	1:punct	LvtbNodeId=a-d1293-p7s1w2
-3	vai	vai	PART	q	_	8	discourse	8:discourse	LvtbNodeId=a-d1293-p7s1w3
-4	tagad	tagad	ADV	r0n	PronType=Dem	8	advmod	8:advmod	LvtbNodeId=a-d1293-p7s1w4
-5	arī	arī	PART	q	_	8	discourse	8:discourse	LvtbNodeId=a-d1293-p7s1w5
-6	uz	uz	ADP	spsg	_	7	case	7:case	LvtbNodeId=a-d1293-p7s1w6
-7	palodzes	palodze	NOUN	ncfsg5	Case=Gen|Gender=Fem|Number=Sing	8	obl	8:obl:uz	LvtbNodeId=a-d1293-p7s1w7
-8	negrabinās	grabināt	VERB	vmnift330ay	Evident=Fh|Mood=Ind|Person=3|Polarity=Neg|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-d1293-p7s1w8
-9	viena	viens	NUM	mcsfsn	Case=Nom|Gender=Fem|Number=Sing|NumType=Card	10	nummod	10:nummod	LvtbNodeId=a-d1293-p7s1w9
-10	zilzīlīte	zilzīlīte	NOUN	ncfsn5	Case=Nom|Gender=Fem|Number=Sing	8	nsubj	8:nsubj	LvtbNodeId=a-d1293-p7s1w10|SpaceAfter=No
-11	?	?	PUNCT	zs	_	8	punct	8:punct	LvtbNodeId=a-d1293-p7s1w11
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 4 nummod	color:blue
+1	Sporta	sports	NOUN	ncmsg1	Case=Gen|Gender=Masc|Number=Sing	2	nmod	2:nmod:gen	LvtbNodeId=a-p9974-p54s1w1
+2	hallē	halle	NOUN	ncfsl5	Case=Loc|Gender=Fem|Number=Sing	6	nmod	6:nmod:loc	LvtbNodeId=a-p9974-p54s1w2
+3	6.	6.	ADJ	xo	NumType=Ord	4	amod	4:amod	LvtbNodeId=a-p9974-p54s1w3|SpaceAfter=No
+4	II	II	NUM	xn	NumType=Card	6	nummod	6:nummod	LvtbNodeId=a-p9974-p54s1w4
+5	22.00	22.00	NUM	xn	NumType=Card	6	nummod	6:nummod	LvtbNodeId=a-p9974-p54s1w5
+6	balle	balle	NOUN	ncfsn5	Case=Nom|Gender=Fem|Number=Sing	0	root	0:root	LvtbNodeId=a-p9974-p54s1w6
+7	ar	ar	ADP	spsa	_	10	case	10:case	LvtbNodeId=a-p9974-p54s1w7
+8	grupu	grupa	NOUN	ncfsa4	Case=Acc|Gender=Fem|Number=Sing	10	nmod	10:nmod	LvtbNodeId=a-p9974-p54s1w8
+9	Brekšu	breksis	NOUN	ncmpg2	Case=Gen|Gender=Masc|Number=Plur	10	nmod	10:nmod:gen	LvtbNodeId=a-p9974-p54s1w9
+10	Pekši	Peksis	PROPN	npmpn2	Case=Nom|Gender=Masc|Number=Plur	6	nmod	6:nmod:ar	LvtbNodeId=a-p9974-p54s1w10|SpaceAfter=No
+11	.	.	PUNCT	zs	_	6	punct	6:punct	LvtbNodeId=a-p9974-p54s1w11
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 2 nummod	color:blue
-1	Cep	cept	VERB	vmnipt130an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-c59-p62s3w1
-2	225	225	NUM	xn	NumType=Card	3	nummod	3:nummod	LvtbNodeId=a-c59-p62s3w2
-3	°	°	SYM	xx	_	5	amod	5:amod	LvtbNodeId=a-c59-p62s3w3|SpaceAfter=No
-4	C	C	PROPN	yp	Abbr=Yes	3	dep	3:dep	LvtbNodeId=a-c59-p62s3w4
-5	temperatūrā	temperatūra	NOUN	ncfsl4	Case=Loc|Gender=Fem|Number=Sing	1	obl	1:obl:loc	LvtbNodeId=a-c59-p62s3w5
-6	30	30	NUM	xn	NumType=Card	7	nummod	7:nummod	LvtbNodeId=a-c59-p62s3w6
-7	minūtes	minūte	NOUN	ncfpa5	Case=Acc|Gender=Fem|Number=Plur	1	obl	1:obl:acc	LvtbNodeId=a-c59-p62s3w7|SpaceAfter=No
-8	.	.	PUNCT	zs	_	1	punct	1:punct	LvtbNodeId=a-c59-p62s3w8
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 8 nummod	color:blue
+1	Līdz	līdz	SCONJ	cs	_	7	dep	7:dep	LvtbNodeId=a-p8032-p18s4w1
+2	ar	ar	ADP	spsa	_	3	case	3:case	LvtbNodeId=a-p8032-p18s4w2
+3	to	tas	DET	pd3msan	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Dem	1	iobj	1:iobj	LvtbNodeId=a-p8032-p18s4w3
+4	patlaban	patlaban	ADV	r0n	_	7	advmod	7:advmod	LvtbNodeId=a-p8032-p18s4w4
+5	Latvijas	Latvija	PROPN	npfsg4	Case=Gen|Gender=Fem|Number=Sing	6	nmod	6:nmod:gen	LvtbNodeId=a-p8032-p18s4w5
+6	valstij	valsts	NOUN	ncfsd6	Case=Dat|Gender=Fem|Number=Sing	7	obl	7:obl:dat	LvtbNodeId=a-p8032-p18s4w6
+7	pieder	piederēt	VERB	vmnipi330an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-p8032-p18s4w7
+8	99,8	99,8	NUM	xn	NumType=Card	9	nummod	9:nummod	LvtbNodeId=a-p8032-p18s4w8|SpaceAfter=No
+9	%	%	SYM	xx	_	7	nsubj	7:nsubj	LvtbNodeId=a-p8032-p18s4w9
+10	akciju	akcija	NOUN	ncfpg4	Case=Gen|Gender=Fem|Number=Plur	9	nmod	9:nmod:gen	LvtbNodeId=a-p8032-p18s4w10|SpaceAfter=No
+11	.	.	PUNCT	zs	_	7	punct	7:punct	LvtbNodeId=a-p8032-p18s4w11
 
 ~~~
 

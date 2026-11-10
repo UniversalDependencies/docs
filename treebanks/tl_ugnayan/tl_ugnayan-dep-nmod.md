@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-91 nodes (8%) are attached to their parents as `nmod`.
+92 nodes (8%) are attached to their parents as `nmod`.
 
-79 instances of `nmod` (87%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.24175824175824.
+80 instances of `nmod` (87%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.23913043478261.
 
-The following 8 pairs of parts of speech are connected with `nmod`: <tt><a href="tl_ugnayan-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tl_ugnayan-pos-NOUN.html">NOUN</a></tt> (39; 43% instances), <tt><a href="tl_ugnayan-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tl_ugnayan-pos-PRON.html">PRON</a></tt> (32; 35% instances), <tt><a href="tl_ugnayan-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tl_ugnayan-pos-PROPN.html">PROPN</a></tt> (14; 15% instances), <tt><a href="tl_ugnayan-pos-NUM.html">NUM</a></tt>-<tt><a href="tl_ugnayan-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="tl_ugnayan-pos-PRON.html">PRON</a></tt>-<tt><a href="tl_ugnayan-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="tl_ugnayan-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tl_ugnayan-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="tl_ugnayan-pos-VERB.html">VERB</a></tt>-<tt><a href="tl_ugnayan-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="tl_ugnayan-pos-VERB.html">VERB</a></tt>-<tt><a href="tl_ugnayan-pos-PRON.html">PRON</a></tt> (1; 1% instances).
+The following 8 pairs of parts of speech are connected with `nmod`: <tt><a href="tl_ugnayan-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tl_ugnayan-pos-NOUN.html">NOUN</a></tt> (40; 43% instances), <tt><a href="tl_ugnayan-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tl_ugnayan-pos-PRON.html">PRON</a></tt> (32; 35% instances), <tt><a href="tl_ugnayan-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tl_ugnayan-pos-PROPN.html">PROPN</a></tt> (14; 15% instances), <tt><a href="tl_ugnayan-pos-NUM.html">NUM</a></tt>-<tt><a href="tl_ugnayan-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="tl_ugnayan-pos-PRON.html">PRON</a></tt>-<tt><a href="tl_ugnayan-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="tl_ugnayan-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tl_ugnayan-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="tl_ugnayan-pos-VERB.html">VERB</a></tt>-<tt><a href="tl_ugnayan-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="tl_ugnayan-pos-VERB.html">VERB</a></tt>-<tt><a href="tl_ugnayan-pos-PRON.html">PRON</a></tt> (1; 1% instances).
 
 
 ~~~ conllu

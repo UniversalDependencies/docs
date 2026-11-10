@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.13 release
 The following people have contributed to making this treebank part of UD: Sophie Prévost, Eric Villemonte de la Clergerie, Mathilde Regnault, Loïc Grobol, Benoît Crabbé, Mathieu Dehouck, Alexei Lavrentiev.
 
 Repository: [UD_Middle_French-PROFITEROLE](https://github.com/UniversalDependencies/UD_Middle_French-PROFITEROLE)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfrm_profiterole218)<br />
-Download all treebanks: [UD 2.18](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfrm_profiterole219)<br />
+Download all treebanks: [UD 2.19](/#download)
 
 License: CC BY-NC-SA 4.0
 
@@ -66,10 +66,12 @@ The following table lists the texts used in this treebank [A REMETTRE DANS L'ORD
 
 | ID | Name of the text | Author | Tokens | Trees |
 | :---------------------------- | :--------------------- | :-----------------: | -----: | ----: |
-| grchronj2c5_1381_prose | Chroniques des règnes de Jean II et de Charles V| anonymous | 2710 | 103 |
-| Jehpar_1494_prose | jehan de Paris | anonymous | 5893 | 291 |
-| Commyn_1497_prose | Mémoires, Livre 1 | Philippe de Commynes | 3422 | 118 |
-| Total | | | 12025 | 512 |
+| grchronj2c5_1381_prose | Chroniques des règnes de Jean II et de Charles V| anonymous | 14675 | 497 |
+| Jehpar_1494_prose | jehan de Paris | anonymous | 29272 | 1732 |
+| Commyn_1497_prose | Mémoires, Livre 1 | Philippe de Commynes | 25711 | 1254 |
+| Anglure_1398_prose | Récit du voyage en Terre Sainte | Ogier d'Anglure | 27610 | 1387 |
+| Jouvencel1_1461_prose | Le Jouvencel 1 et 2 | Jean de Bueil | 21733 | 1101 |
+| Total | | | 119001 | 5971 |
 
 ## Acknowledgments
 
@@ -94,21 +96,21 @@ Any deviations from the original annotation available on the [GitLab of the Prof
 
 ## Features
 
-[Definite](frm_profiterole-feat-Definite.html) – [Foreign](frm_profiterole-feat-Foreign.html) – [NumType](frm_profiterole-feat-NumType.html) – [Polarity](frm_profiterole-feat-Polarity.html) – [Poss](frm_profiterole-feat-Poss.html) – [PronType](frm_profiterole-feat-PronType.html) – [Tense](frm_profiterole-feat-Tense.html) – [Typo](frm_profiterole-feat-Typo.html) – [VerbForm](frm_profiterole-feat-VerbForm.html)
+[Definite](frm_profiterole-feat-Definite.html) – [ExtPos](frm_profiterole-feat-ExtPos.html) – [Foreign](frm_profiterole-feat-Foreign.html) – [NumType](frm_profiterole-feat-NumType.html) – [Polarity](frm_profiterole-feat-Polarity.html) – [Poss](frm_profiterole-feat-Poss.html) – [PronType](frm_profiterole-feat-PronType.html) – [Tense](frm_profiterole-feat-Tense.html) – [Typo](frm_profiterole-feat-Typo.html) – [VerbForm](frm_profiterole-feat-VerbForm.html)
 
 ## Relations
 
-[acl](frm_profiterole-dep-acl.html) – [acl:relcl](frm_profiterole-dep-acl-relcl.html) – [advcl](frm_profiterole-dep-advcl.html) – [advcl:relcl](frm_profiterole-dep-advcl-relcl.html) – [advmod](frm_profiterole-dep-advmod.html) – [amod](frm_profiterole-dep-amod.html) – [appos](frm_profiterole-dep-appos.html) – [aux](frm_profiterole-dep-aux.html) – [aux:pass](frm_profiterole-dep-aux-pass.html) – [case](frm_profiterole-dep-case.html) – [case:det](frm_profiterole-dep-case-det.html) – [cc](frm_profiterole-dep-cc.html) – [cc:nc](frm_profiterole-dep-cc-nc.html) – [ccomp](frm_profiterole-dep-ccomp.html) – [conj](frm_profiterole-dep-conj.html) – [cop](frm_profiterole-dep-cop.html) – [csubj](frm_profiterole-dep-csubj.html) – [csubj:pass](frm_profiterole-dep-csubj-pass.html) – [dep](frm_profiterole-dep-dep.html) – [det](frm_profiterole-dep-det.html) – [discourse](frm_profiterole-dep-discourse.html) – [dislocated](frm_profiterole-dep-dislocated.html) – [expl](frm_profiterole-dep-expl.html) – [expl:pass](frm_profiterole-dep-expl-pass.html) – [fixed](frm_profiterole-dep-fixed.html) – [flat](frm_profiterole-dep-flat.html) – [flat:name](frm_profiterole-dep-flat-name.html) – [iobj](frm_profiterole-dep-iobj.html) – [mark](frm_profiterole-dep-mark.html) – [nmod](frm_profiterole-dep-nmod.html) – [nsubj](frm_profiterole-dep-nsubj.html) – [nsubj:pass](frm_profiterole-dep-nsubj-pass.html) – [nummod](frm_profiterole-dep-nummod.html) – [obj](frm_profiterole-dep-obj.html) – [obl](frm_profiterole-dep-obl.html) – [obl:agent](frm_profiterole-dep-obl-agent.html) – [obl:mod](frm_profiterole-dep-obl-mod.html) – [orphan](frm_profiterole-dep-orphan.html) – [parataxis](frm_profiterole-dep-parataxis.html) – [punct](frm_profiterole-dep-punct.html) – [reparandum](frm_profiterole-dep-reparandum.html) – [root](frm_profiterole-dep-root.html) – [vocative](frm_profiterole-dep-vocative.html) – [xcomp](frm_profiterole-dep-xcomp.html)
+[acl](frm_profiterole-dep-acl.html) – [acl:relcl](frm_profiterole-dep-acl-relcl.html) – [advcl](frm_profiterole-dep-advcl.html) – [advcl:relcl](frm_profiterole-dep-advcl-relcl.html) – [advmod](frm_profiterole-dep-advmod.html) – [amod](frm_profiterole-dep-amod.html) – [appos](frm_profiterole-dep-appos.html) – [aux](frm_profiterole-dep-aux.html) – [aux:pass](frm_profiterole-dep-aux-pass.html) – [case](frm_profiterole-dep-case.html) – [case:det](frm_profiterole-dep-case-det.html) – [cc](frm_profiterole-dep-cc.html) – [cc:nc](frm_profiterole-dep-cc-nc.html) – [ccomp](frm_profiterole-dep-ccomp.html) – [conj](frm_profiterole-dep-conj.html) – [cop](frm_profiterole-dep-cop.html) – [csubj](frm_profiterole-dep-csubj.html) – [csubj:pass](frm_profiterole-dep-csubj-pass.html) – [dep](frm_profiterole-dep-dep.html) – [det](frm_profiterole-dep-det.html) – [discourse](frm_profiterole-dep-discourse.html) – [dislocated](frm_profiterole-dep-dislocated.html) – [expl](frm_profiterole-dep-expl.html) – [expl:pass](frm_profiterole-dep-expl-pass.html) – [fixed](frm_profiterole-dep-fixed.html) – [flat](frm_profiterole-dep-flat.html) – [flat:name](frm_profiterole-dep-flat-name.html) – [iobj](frm_profiterole-dep-iobj.html) – [mark](frm_profiterole-dep-mark.html) – [nmod](frm_profiterole-dep-nmod.html) – [nsubj](frm_profiterole-dep-nsubj.html) – [nsubj:pass](frm_profiterole-dep-nsubj-pass.html) – [nummod](frm_profiterole-dep-nummod.html) – [obj](frm_profiterole-dep-obj.html) – [obl](frm_profiterole-dep-obl.html) – [obl:agent](frm_profiterole-dep-obl-agent.html) – [obl:arg](frm_profiterole-dep-obl-arg.html) – [obl:mod](frm_profiterole-dep-obl-mod.html) – [orphan](frm_profiterole-dep-orphan.html) – [parataxis](frm_profiterole-dep-parataxis.html) – [punct](frm_profiterole-dep-punct.html) – [reparandum](frm_profiterole-dep-reparandum.html) – [root](frm_profiterole-dep-root.html) – [vocative](frm_profiterole-dep-vocative.html) – [xcomp](frm_profiterole-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 5971 sentences, 117419 tokens and 119001 syntactic words.</li>
+<li>This corpus contains 8418 sentences, 155379 tokens and 156961 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 15451 tokens (13%) that are not followed by a space.</li>
+<li>This corpus contains 20971 tokens (13%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -116,7 +118,7 @@ Any deviations from the original annotation available on the [GitLab of the Prof
 </ul>
 
 <ul>
-<li>This corpus contains 125 types of words that contain both letters and punctuation. Examples: d', l', qu', n', s', c', j', m', .VJ., Saint-Pol, .IIIJ., .IXe., .XL., aujourd', .IIJcIIIJxx., .V., .XV., Nostre-Dame, .VIJ., .VJe., .Ve., .XVJe., puisqu', .IIIJc., .IIIJe., .M., .VJc., .XIIJe., .XIJm., .XVe., .XXIIIJe., .XXIIJe., .XXIJe., .XXIXe., .XXX., .XXe., Chasteau-Gontier, Grant-Lande, quatre-vingts, .IV., .LX., .LXm., .VIIJ., .VIJc., .VIJe., .Vm., .XIIIJ., .XIIm., .XIJe., .XIXe.</li>
+<li>This corpus contains 210 types of words that contain both letters and punctuation. Examples: l', d', qu', n', s', c', j', m', X., t', IIJ., .IIIJ., .IXe., VJ., .VJ., Saint-Pol, .XL., .XXIIIJe., .XXIIJe., .XXIJe., .XXIXe., aujourd', puisqu', .IIJcIIIJxx., .V., .XIIJe., .XIXe., .XV., .XXe., Nostre-Dame, VIIJ., jusqu', .VIJ., .VJe., .Ve., .XVIJe., .XVJe., XV., XXX., .IIIJc., .IIIJe., .M., .VIIJ., .VIJe., .VJc., .XIJe., .XIJm., .XVe., .XXIe., .XXVIIJe.</li>
 </ul>
 
 <ul>
@@ -149,11 +151,11 @@ Any deviations from the original annotation available on the [GitLab of the Prof
 </ul>
 
 <ul>
-<li>This corpus contains 9 lemmas tagged as auxiliaries (AUX): _, avoir, devoir, falloir, pouvoir, ravoir, rêtre, vouloir, être</li>
+<li>This corpus contains 8 lemmas tagged as auxiliaries (AUX): _, avoir, devoir, pouvoir, ravoir, rêtre, vouloir, être</li>
 </ul>
 
 <ul>
-<li>Out of the above, 8 lemmas occurred sometimes as AUX and sometimes as VERB: _, avoir, devoir, falloir, pouvoir, rêtre, vouloir, être</li>
+<li>Out of the above, 7 lemmas occurred sometimes as AUX and sometimes as VERB: _, avoir, devoir, pouvoir, rêtre, vouloir, être</li>
 </ul>
 
 <ul>
@@ -376,6 +378,18 @@ Any deviations from the original annotation available on the [GitLab of the Prof
 
 
 <ul>
+  <li><a>ExtPos</a>
+    <ul>
+      <li>SCONJ
+        <ul>
+          <li>ADV: si</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li><a>Foreign</a>
     <ul>
       <li>Yes
@@ -392,6 +406,7 @@ Any deviations from the original annotation available on the [GitLab of the Prof
     <ul>
       <li>Yes
         <ul>
+          <li>PRON: l'a</li>
           <li>X: veilleusement</li>
         </ul>
       </li>
@@ -408,7 +423,7 @@ Any deviations from the original annotation available on the [GitLab of the Prof
 </ul>
 
 <ul>
-<li>This corpus uses 7 lemmas as auxiliaries (<a>aux</a>). Examples: avoir, _, pouvoir, être, devoir, rêtre, ravoir.</li>
+<li>This corpus uses 7 lemmas as auxiliaries (<a>aux</a>). Examples: _, avoir, pouvoir, être, devoir, rêtre, ravoir.</li>
 <li>This corpus uses 2 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: être, _.</li>
 </ul>
 
@@ -418,9 +433,10 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN (575)</li>
-      <li>VERB--NOUN-ADP(_) (2)</li>
-      <li>VERB--PRON (814)</li>
+      <li>VERB--NOUN (1353)</li>
+      <li>VERB--NOUN-ADP(_) (4)</li>
+      <li>VERB--PRON (2573)</li>
+      <li>VERB--PRON-ADP(_) (1)</li>
       <li>VERB-Fin--NOUN (1313)</li>
       <li>VERB-Fin--NOUN-ADP(_) (6)</li>
       <li>VERB-Fin--NOUN-ADP(de) (6)</li>
@@ -440,10 +456,10 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN (482)</li>
-      <li>VERB--NOUN-ADP(_) (18)</li>
-      <li>VERB--PRON (221)</li>
-      <li>VERB--PRON-ADP(_) (1)</li>
+      <li>VERB--NOUN (1567)</li>
+      <li>VERB--NOUN-ADP(_) (66)</li>
+      <li>VERB--PRON (921)</li>
+      <li>VERB--PRON-ADP(_) (4)</li>
       <li>VERB-Fin--NOUN (1200)</li>
       <li>VERB-Fin--NOUN-ADP(_) (18)</li>
       <li>VERB-Fin--NOUN-ADP(de) (63)</li>
@@ -471,7 +487,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB--PRON (109)</li>
+      <li>VERB--PRON (600)</li>
       <li>VERB--PRON-ADP(à) (1)</li>
       <li>VERB-Fin--PRON (542)</li>
       <li>VERB-Fin--PRON-ADP(chez) (1)</li>
@@ -495,6 +511,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 11 relation subtypes: <a>acl:relcl</a>, <a>advcl:relcl</a>, <a>aux:pass</a>, <a>case:det</a>, <a>cc:nc</a>, <a>csubj:pass</a>, <a>expl:pass</a>, <a>flat:name</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>obl:mod</a></li>
+<li>This corpus uses 12 relation subtypes: <a>acl:relcl</a>, <a>advcl:relcl</a>, <a>aux:pass</a>, <a>case:det</a>, <a>cc:nc</a>, <a>csubj:pass</a>, <a>expl:pass</a>, <a>flat:name</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>obl:arg</a>, <a>obl:mod</a></li>
 <li>The following 4 relation types are not used in this corpus at all: <a>clf</a>, <a>compound</a>, <a>list</a>, <a>goeswith</a></li>
 </ul>

@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-1488 tokens (2%) have a non-empty value of `Foreign`.
+1489 tokens (2%) have a non-empty value of `Foreign`.
 1221 types (4%) occur at least once with a non-empty value of `Foreign`.
 1223 lemmas (7%) occur at least once with a non-empty value of `Foreign`.
-The feature is used with 3 part-of-speech tags: <tt><a href="ru_gsd-pos-X.html">X</a></tt> (1483; 2% instances), <tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="ru_gsd-pos-PROPN.html">PROPN</a></tt> (2; 0% instances).
+The feature is used with 4 part-of-speech tags: <tt><a href="ru_gsd-pos-X.html">X</a></tt> (1483; 2% instances), <tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="ru_gsd-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="ru_gsd-pos-PART.html">PART</a></tt> (1; 0% instances).
 
 ### `X`
 
@@ -46,6 +46,17 @@ The most frequent other feature values with which `PROPN` and `Foreign` co-occur
 
 * `Yes` (2; 100% of non-empty `Foreign`): <em>Konquest&#39;&#39;а, Высока</em>
 * `EMPTY` (6615): <em>России, США, СССР, Украины, Франции, Германии, Европы, Испании, РФ, Александра</em>
+
+### `PART`
+
+1 <tt><a href="ru_gsd-pos-PART.html">PART</a></tt> tokens (0% of all `PART` tokens) have a non-empty value of `Foreign`.
+
+The most frequent other feature values with which `PART` and `Foreign` co-occurred: <tt><a href="ru_gsd-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (1; 100%).
+
+`PART` tokens may have the following values of `Foreign`:
+
+* `Yes` (1; 100% of non-empty `Foreign`): <em>де</em>
+* `EMPTY` (1079): <em>не, и, же, также, только, лишь, даже, де, это, ни</em>
 
 ## Relations with Agreement in `Foreign`
 

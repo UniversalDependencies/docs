@@ -29,7 +29,7 @@ The following 22 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 5	si	se	PRON	P7-X3----------	Case=Dat|PronType=Prs|Reflex=Yes|Variant=Short	9	expl:pv	9:expl:pv	LGloss=(zvr._zájmeno/částice)
 6	život	život	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	9	obj	9:obj	_
 7	vůbec	vůbec	ADV	Db-------------	_	8	advmod	8:advmod	_
-8	nedovedli	dovést	VERB	VpMP---XR-NA---	Animacy=Anim|Gender=Masc|Number=Plur|Polarity=Neg|Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	_
+8	nedovedli	dovést	VERB	VpMP---XR-NA---	Animacy=Anim|Aspect=Perf|Gender=Masc|Number=Plur|Polarity=Neg|Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	_
 9	představit	představit	VERB	Vf--------A----	Aspect=Perf|Polarity=Pos|VerbForm=Inf	8	xcomp	8:xcomp	SpaceAfter=No|LGloss=(si_něco;_něco/někoho_někomu)
 10	.	.	PUNCT	Z:-------------	_	8	punct	8:punct	_
 
@@ -46,7 +46,7 @@ The following 22 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 2	všechny	všechno	PRON	PLIP1----------	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|PronType=Tot	3	nmod	3:nmod:nom	_
 3	druhy	druh	NOUN	NNIP1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	5	nsubj	5:nsubj|7:nsubj:xsubj	LId=druh-1|LGloss=(typ)
 4	pleti	pleť	NOUN	NNFS2-----A---1	Case=Gen|Gender=Fem|Number=Sing	3	nmod	3:nmod:gen	_
-5	mohou	moci	VERB	VB-P---3P-AA--1	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	LGloss=(mít_možnost_[něco_dělat])
+5	mohou	moci	VERB	VB-P---3P-AA--1	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	LGloss=(mít_možnost_[něco_dělat])
 6	být	být	AUX	Vf--------A----	Aspect=Imp|Polarity=Pos|VerbForm=Inf	7	cop	7:cop	_
 7	dráždivé	dráždivý	ADJ	AAIP1----1A----	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos	5	xcomp	5:xcomp	SpaceAfter=No
 8	.	.	PUNCT	Z:-------------	_	5	punct	5:punct	_
@@ -63,8 +63,8 @@ The following 22 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 1	Přitom	přitom	ADV	Db-------------	_	3	advmod	3:advmod	_
 2	je	být	AUX	VB-S---3P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	3:cop	_
 3	povinen	povinný	ADJ	ACYS------A----	Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos|Variant=Short	0	root	0:root	_
-4	dbát	dbát	VERB	Vf--------A----	Polarity=Pos|VerbForm=Inf	3	xcomp	3:xcomp	_
-5	zvýšené	zvýšený	ADJ	AAFS2----1A----	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass	6	amod	6:amod	LDeriv=zvýšit
+4	dbát	dbát	VERB	Vf--------A----	Aspect=Imp|Polarity=Pos|VerbForm=Inf	3	xcomp	3:xcomp	_
+5	zvýšené	zvýšený	ADJ	AAFS2----1A----	Aspect=Perf|Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass	6	amod	6:amod	LDeriv=zvýšit
 6	opatrnosti	opatrnost	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing	4	obl:arg	4:obl:arg:gen	SpaceAfter=No|LDeriv=opatrný
 7	.	.	PUNCT	Z:-------------	_	3	punct	3:punct	_
 

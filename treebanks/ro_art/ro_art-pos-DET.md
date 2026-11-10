@@ -49,8 +49,8 @@ The 3rd highest number of forms (1) was observed with the lemma “aestu”: <em
 `DET` occurs with 13 feature-value pairs: `Case=Acc,Nom`, `Gender=Fem`, `Gender=Masc`, `Number=Plur`, `Number=Sing`, `Number[psor]=Sing`, `Person=3`, `Position=Prenom`, `Poss=Yes`, `PronType=Dem`, `PronType=Ind`, `PronType=Int,Rel`, `PronType=Prs`
 
 `DET` occurs with 9 feature combinations.
-The most frequent feature combination is `Case=Acc,Nom|Gender=Masc|Number=Sing|PronType=Ind` (4 tokens).
-Examples: <em>un</em>
+The most frequent feature combination is `Case=Acc,Nom|Gender=Fem|Number=Sing|PronType=Ind` (4 tokens).
+Examples: <em>nă, Ună</em>
 
 
 ## Relations

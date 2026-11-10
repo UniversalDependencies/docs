@@ -36,8 +36,8 @@ The 2nd highest number of forms (1) was observed with the lemma “atuku”: <em
 `ADP` occurs with 1 feature-value pairs: `AdpType=Post`
 
 `ADP` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (3 tokens).
-Examples: <em>ĩkapanhi, atuku</em>
+The most frequent feature combination is `AdpType=Post` (3 tokens).
+Examples: <em>ĩkapane</em>
 
 
 ## Relations

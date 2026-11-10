@@ -12,20 +12,20 @@ It occurs with 4 different values: `Agt`, `Neg`, `Past`, `Pres`.
 5128 tokens (3%) have a non-empty value of `PartForm`.
 2898 types (7%) occur at least once with a non-empty value of `PartForm`.
 1130 lemmas (5%) occur at least once with a non-empty value of `PartForm`.
-The feature is used with 2 part-of-speech tags: <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> (4879; 3% instances), <tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> (249; 0% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> (4848; 3% instances), <tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> (280; 0% instances).
 
 ### `VERB`
 
-4879 <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> tokens (18% of all `VERB` tokens) have a non-empty value of `PartForm`.
+4848 <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> tokens (18% of all `VERB` tokens) have a non-empty value of `PartForm`.
 
-The most frequent other feature values with which `VERB` and `PartForm` co-occurred: <tt><a href="fi_ftb-feat-InfForm.html">InfForm</a></tt><tt>=EMPTY</tt> (4879; 100%), <tt><a href="fi_ftb-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (4879; 100%), <tt><a href="fi_ftb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (4879; 100%), <tt><a href="fi_ftb-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (4879; 100%), <tt><a href="fi_ftb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (4879; 100%), <tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3946; 81%), <tt><a href="fi_ftb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (3057; 63%), <tt><a href="fi_ftb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (3046; 62%).
+The most frequent other feature values with which `VERB` and `PartForm` co-occurred: <tt><a href="fi_ftb-feat-InfForm.html">InfForm</a></tt><tt>=EMPTY</tt> (4848; 100%), <tt><a href="fi_ftb-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (4848; 100%), <tt><a href="fi_ftb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (4848; 100%), <tt><a href="fi_ftb-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (4848; 100%), <tt><a href="fi_ftb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (4848; 100%), <tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3915; 81%), <tt><a href="fi_ftb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (3031; 63%), <tt><a href="fi_ftb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (3016; 62%).
 
 `VERB` tokens may have the following values of `PartForm`:
 
 * `Agt` (213; 4% of non-empty `PartForm`): <em>aiheuttama, aiheuttamaa, aiheuttamasta, aiheuttamia, edellyttämällä, jalostama, johtama, järjestämiämme, järjestämä, ostamani</em>
 * `Neg` (90; 2% of non-empty `PartForm`): <em>sietämätön, uskomaton, kouluttamattomat, pätemätöntä, sietämättömiä, tavoittamattomissa, tietämätön, uskomattomalta, Käsittämättömän, Sietämätöntä</em>
-* `Past` (3316; 68% of non-empty `PartForm`): <em>ollut, saanut, tullut, tehty, käynyt, sanonut, tehnyt, nähnyt, ollu, saaneet</em>
-* `Pres` (1260; 26% of non-empty `PartForm`): <em>olevan, oleva, olevansa, olevat, tehtävä, olevia, tulevan, kuluvan, lähdettävä, olevaa</em>
+* `Past` (3291; 68% of non-empty `PartForm`): <em>ollut, saanut, tullut, tehty, käynyt, sanonut, tehnyt, nähnyt, saaneet, verrattuna</em>
+* `Pres` (1254; 26% of non-empty `PartForm`): <em>olevan, oleva, olevansa, olevat, tehtävä, olevia, tulevan, kuluvan, lähdettävä, olevaa</em>
 
 <table>
   <tr><th>Paradigm <i>tietää</i></th><th><tt>Agt</tt></th><th><tt>Neg</tt></th><th><tt>Past</tt></th><th><tt>Pres</tt></th></tr>
@@ -42,26 +42,27 @@ The most frequent other feature values with which `VERB` and `PartForm` co-occur
 
 ### `AUX`
 
-249 <tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> tokens (2% of all `AUX` tokens) have a non-empty value of `PartForm`.
+280 <tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> tokens (3% of all `AUX` tokens) have a non-empty value of `PartForm`.
 
-The most frequent other feature values with which `AUX` and `PartForm` co-occurred: <tt><a href="fi_ftb-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (249; 100%), <tt><a href="fi_ftb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (249; 100%), <tt><a href="fi_ftb-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (249; 100%), <tt><a href="fi_ftb-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (249; 100%), <tt><a href="fi_ftb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (249; 100%), <tt><a href="fi_ftb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (228; 92%), <tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (222; 89%).
+The most frequent other feature values with which `AUX` and `PartForm` co-occurred: <tt><a href="fi_ftb-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (280; 100%), <tt><a href="fi_ftb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (280; 100%), <tt><a href="fi_ftb-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (280; 100%), <tt><a href="fi_ftb-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (280; 100%), <tt><a href="fi_ftb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (280; 100%), <tt><a href="fi_ftb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (258; 92%), <tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (253; 90%).
 
 `AUX` tokens may have the following values of `PartForm`:
 
-* `Past` (204; 82% of non-empty `PartForm`): <em>ollut, voinut, olleet, pitänyt, ollu, voitu, täytynyt, oltu, voineet, olleen</em>
-* `Pres` (45; 18% of non-empty `PartForm`): <em>olevan, oltava, olevansa, voitavan, voivan, oleva, olevani, olevinaan, olevinasi, voivani</em>
+* `Past` (229; 82% of non-empty `PartForm`): <em>ollut, voinut, olleet, ollu, pitänyt, voitu, täytynyt, oltu, voineet, olleen</em>
+* `Pres` (51; 18% of non-empty `PartForm`): <em>olevan, oltava, olevansa, voitavan, voivan, oleva, olevani, olevankaan, olevinaan, olevinasi</em>
 
 <table>
   <tr><th>Paradigm <i>olla</i></th><th><tt>Past</tt></th><th><tt>Pres</tt></th></tr>
   <tr><td><tt><tt><a href="fi_ftb-feat-Case.html">Case</a></tt><tt>=Ess</tt>|<tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="fi_ftb-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="fi_ftb-feat-Person-psor.html">Person[psor]</a></tt><tt>=2</tt>|<tt><a href="fi_ftb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td><em>olevinasi</em></td></tr>
   <tr><td><tt><tt><a href="fi_ftb-feat-Case.html">Case</a></tt><tt>=Ess</tt>|<tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="fi_ftb-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt>|<tt><a href="fi_ftb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td><em>olevinaan</em></td></tr>
+  <tr><td><tt><tt><a href="fi_ftb-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="fi_ftb-feat-Clitic.html">Clitic</a></tt><tt>=Kaan</tt>|<tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fi_ftb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td><em>olevankaan</em></td></tr>
   <tr><td><tt><tt><a href="fi_ftb-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fi_ftb-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="fi_ftb-feat-Person-psor.html">Person[psor]</a></tt><tt>=1</tt>|<tt><a href="fi_ftb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td><em>olevani</em></td></tr>
   <tr><td><tt><tt><a href="fi_ftb-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fi_ftb-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt>|<tt><a href="fi_ftb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td><em>olevansa</em></td></tr>
   <tr><td><tt><tt><a href="fi_ftb-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fi_ftb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>olleen</em></td><td><em>olevan</em></td></tr>
   <tr><td><tt><tt><a href="fi_ftb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="fi_ftb-feat-Clitic.html">Clitic</a></tt><tt>=Kaan</tt>|<tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fi_ftb-feat-Style.html">Style</a></tt><tt>=Coll</tt>|<tt><a href="fi_ftb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>ollukkaan</em></td><td></td></tr>
   <tr><td><tt><tt><a href="fi_ftb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="fi_ftb-feat-Clitic.html">Clitic</a></tt><tt>=Kaan</tt>|<tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fi_ftb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>ollutkaan</em></td><td></td></tr>
   <tr><td><tt><tt><a href="fi_ftb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="fi_ftb-feat-Clitic.html">Clitic</a></tt><tt>=Kaan</tt>|<tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="fi_ftb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>olleetkaan</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="fi_ftb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fi_ftb-feat-Style.html">Style</a></tt><tt>=Coll</tt>|<tt><a href="fi_ftb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>ollu, olluh, olluv</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="fi_ftb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fi_ftb-feat-Style.html">Style</a></tt><tt>=Coll</tt>|<tt><a href="fi_ftb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>ollu, olluh, olluk, ollun, olluv</em></td><td></td></tr>
   <tr><td><tt><tt><a href="fi_ftb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fi_ftb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>ollut</em></td><td><em>oleva</em></td></tr>
   <tr><td><tt><tt><a href="fi_ftb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fi_ftb-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td><em>oltu</em></td><td><em>oltava</em></td></tr>
   <tr><td><tt><tt><a href="fi_ftb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="fi_ftb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>olleet</em></td><td></td></tr>

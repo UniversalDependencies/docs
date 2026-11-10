@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-134 nodes (2%) are attached to their parents as `dep`.
+132 nodes (2%) are attached to their parents as `dep`.
 
-134 instances of `dep` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.20149253731343.
+127 instances of `dep` (96%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.54545454545455.
 
-The following 5 pairs of parts of speech are connected with `dep`: <tt><a href="lij_glt-pos-VERB.html">VERB</a></tt>-<tt><a href="lij_glt-pos-PART.html">PART</a></tt> (78; 58% instances), <tt><a href="lij_glt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lij_glt-pos-PART.html">PART</a></tt> (33; 25% instances), <tt><a href="lij_glt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lij_glt-pos-PART.html">PART</a></tt> (17; 13% instances), <tt><a href="lij_glt-pos-PRON.html">PRON</a></tt>-<tt><a href="lij_glt-pos-PART.html">PART</a></tt> (5; 4% instances), <tt><a href="lij_glt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lij_glt-pos-PART.html">PART</a></tt> (1; 1% instances).
+The following 7 pairs of parts of speech are connected with `dep`: <tt><a href="lij_glt-pos-VERB.html">VERB</a></tt>-<tt><a href="lij_glt-pos-PART.html">PART</a></tt> (60; 45% instances), <tt><a href="lij_glt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lij_glt-pos-PART.html">PART</a></tt> (37; 28% instances), <tt><a href="lij_glt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lij_glt-pos-PART.html">PART</a></tt> (18; 14% instances), <tt><a href="lij_glt-pos-PRON.html">PRON</a></tt>-<tt><a href="lij_glt-pos-PART.html">PART</a></tt> (9; 7% instances), <tt><a href="lij_glt-pos-ADV.html">ADV</a></tt>-<tt><a href="lij_glt-pos-PART.html">PART</a></tt> (4; 3% instances), <tt><a href="lij_glt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lij_glt-pos-PART.html">PART</a></tt> (3; 2% instances), <tt><a href="lij_glt-pos-NUM.html">NUM</a></tt>-<tt><a href="lij_glt-pos-PART.html">PART</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -28,14 +28,14 @@ The following 5 pairs of parts of speech are connected with `dep`: <tt><a href="
 4	l'	l'	PART	_	_	6	dep	_	SpaceAfter=No
 5	é	ëse	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
 6	scentâ	scentâ	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
-7	tutt'	tutto	PRON	_	Gender=Fem|Number=Sing|PronType=Tot	6	obl	_	SpaceAfter=No|MWEPOS=ADV
-8	insemme	insemme	ADV	_	_	7	advmod	_	_
-9	e	e	CCONJ	_	_	14	cc	_	_
-10	quello	quello	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	14	nsubj	_	_
-11	o	o	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	expl	_	_
-12	stava	stâ	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	14	cop	_	_
-13	torna	torna	ADV	_	_	14	amod	_	_
-14	ben	ben	ADV	_	_	6	conj	_	SpaceAfter=No
+7	tutt'	tutto	PRON	_	ExtPos=ADV|Gender=Fem|Number=Sing|PronType=Tot	6	advmod	_	SpaceAfter=No
+8	insemme	insemme	ADV	_	_	7	fixed	_	_
+9	e	e	CCONJ	_	_	12	cc	_	_
+10	quello	quello	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	12	nsubj	_	_
+11	o	o	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	expl	_	_
+12	stava	stâ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	6	conj	_	_
+13	torna	torna	ADV	_	_	12	advmod	_	_
+14	ben	ben	ADV	_	_	12	advmod	_	SpaceAfter=No
 15	.	.	PUNCT	_	_	6	punct	_	_
 
 ~~~

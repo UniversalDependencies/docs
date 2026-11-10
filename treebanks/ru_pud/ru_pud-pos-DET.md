@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Russian-PUD: POS Tags: `DET`
 
-There are 29 `DET` lemmas (1%), 98 `DET` types (1%) and 493 `DET` tokens (3%).
-Out of 17 observed tags, the rank of `DET` is: 9 in number of lemmas, 7 in number of types and 10 in number of tokens.
+There are 22 `DET` lemmas (0%), 111 `DET` types (1%) and 636 `DET` tokens (3%).
+Out of 17 observed tags, the rank of `DET` is: 10 in number of lemmas, 8 in number of types and 9 in number of tokens.
 
-The 10 most frequent `DET` lemmas: <em>этот, свой, его, такой, весь, тот, ее, их, н., каждый</em>
+The 10 most frequent `DET` lemmas: <em>который, этот, свой, его, такой, тот, весь, ее, наш, их</em>
 
-The 10 most frequent `DET` types:  <em>его, их, ее, этот, своей, н., это, такие, этой, свои</em>
+The 10 most frequent `DET` types:  <em>его, которые, который, их, ее, этот, которая, своей, н., это</em>
 
-The 10 most frequent ambiguous lemmas: <em>его</em> (<tt><a href="ru_pud-pos-DET.html">DET</a></tt> 59, <tt><a href="ru_pud-pos-PRON.html">PRON</a></tt> 1), <em>весь</em> (<tt><a href="ru_pud-pos-DET.html">DET</a></tt> 30, <tt><a href="ru_pud-pos-ADV.html">ADV</a></tt> 1), <em>тот</em> (<tt><a href="ru_pud-pos-DET.html">DET</a></tt> 30, <tt><a href="ru_pud-pos-PRON.html">PRON</a></tt> 3), <em>ее</em> (<tt><a href="ru_pud-pos-DET.html">DET</a></tt> 28, <tt><a href="ru_pud-pos-PRON.html">PRON</a></tt> 1), <em>они</em> (<tt><a href="ru_pud-pos-PRON.html">PRON</a></tt> 72, <tt><a href="ru_pud-pos-DET.html">DET</a></tt> 9), <em>то</em> (<tt><a href="ru_pud-pos-PRON.html">PRON</a></tt> 61, <tt><a href="ru_pud-pos-SCONJ.html">SCONJ</a></tt> 7, <tt><a href="ru_pud-pos-DET.html">DET</a></tt> 5), <em>один</em> (<tt><a href="ru_pud-pos-NUM.html">NUM</a></tt> 40, <tt><a href="ru_pud-pos-DET.html">DET</a></tt> 3), <em>он</em> (<tt><a href="ru_pud-pos-PRON.html">PRON</a></tt> 147, <tt><a href="ru_pud-pos-DET.html">DET</a></tt> 3), <em>это</em> (<tt><a href="ru_pud-pos-PRON.html">PRON</a></tt> 93, <tt><a href="ru_pud-pos-DET.html">DET</a></tt> 2, <tt><a href="ru_pud-pos-PART.html">PART</a></tt> 1), <em>все</em> (<tt><a href="ru_pud-pos-PRON.html">PRON</a></tt> 14, <tt><a href="ru_pud-pos-ADV.html">ADV</a></tt> 13, <tt><a href="ru_pud-pos-DET.html">DET</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>его</em> (<tt><a href="ru_pud-pos-DET.html">DET</a></tt> 62, <tt><a href="ru_pud-pos-PRON.html">PRON</a></tt> 1), <em>весь</em> (<tt><a href="ru_pud-pos-DET.html">DET</a></tt> 32, <tt><a href="ru_pud-pos-ADV.html">ADV</a></tt> 1), <em>ее</em> (<tt><a href="ru_pud-pos-DET.html">DET</a></tt> 28, <tt><a href="ru_pud-pos-PRON.html">PRON</a></tt> 1), <em>один</em> (<tt><a href="ru_pud-pos-NUM.html">NUM</a></tt> 40, <tt><a href="ru_pud-pos-DET.html">DET</a></tt> 3)
 
 The 10 most frequent ambiguous types:  <em>его</em> (<tt><a href="ru_pud-pos-DET.html">DET</a></tt> 56, <tt><a href="ru_pud-pos-PRON.html">PRON</a></tt> 23), <em>их</em> (<tt><a href="ru_pud-pos-DET.html">DET</a></tt> 24, <tt><a href="ru_pud-pos-PRON.html">PRON</a></tt> 6), <em>ее</em> (<tt><a href="ru_pud-pos-DET.html">DET</a></tt> 23, <tt><a href="ru_pud-pos-PRON.html">PRON</a></tt> 9), <em>это</em> (<tt><a href="ru_pud-pos-PRON.html">PRON</a></tt> 46, <tt><a href="ru_pud-pos-DET.html">DET</a></tt> 12, <tt><a href="ru_pud-pos-PART.html">PART</a></tt> 1), <em>этого</em> (<tt><a href="ru_pud-pos-DET.html">DET</a></tt> 11, <tt><a href="ru_pud-pos-PRON.html">PRON</a></tt> 8), <em>то</em> (<tt><a href="ru_pud-pos-PRON.html">PRON</a></tt> 11, <tt><a href="ru_pud-pos-DET.html">DET</a></tt> 9, <tt><a href="ru_pud-pos-SCONJ.html">SCONJ</a></tt> 7), <em>всех</em> (<tt><a href="ru_pud-pos-DET.html">DET</a></tt> 8, <tt><a href="ru_pud-pos-PRON.html">PRON</a></tt> 1), <em>все</em> (<tt><a href="ru_pud-pos-ADV.html">ADV</a></tt> 12, <tt><a href="ru_pud-pos-PRON.html">PRON</a></tt> 8, <tt><a href="ru_pud-pos-DET.html">DET</a></tt> 6), <em>том</em> (<tt><a href="ru_pud-pos-PRON.html">PRON</a></tt> 11, <tt><a href="ru_pud-pos-DET.html">DET</a></tt> 7), <em>этом</em> (<tt><a href="ru_pud-pos-DET.html">DET</a></tt> 6, <tt><a href="ru_pud-pos-PRON.html">PRON</a></tt> 6)
 
@@ -54,40 +54,40 @@ The 10 most frequent ambiguous types:  <em>его</em> (<tt><a href="ru_pud-pos-
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 3.379310 (the average of all parts of speech is 1.496727).
+The form / lemma ratio of `DET` is 5.045455 (the average of all parts of speech is 1.499132).
 
-The 1st highest number of forms (11) was observed with the lemma “свой”: <em>свое, своего, своей, своем, своему, свои, своим, своими, своих, свой, свою</em>.
+The 1st highest number of forms (12) was observed with the lemma “который”: <em>которая, которого, которое, которой, котором, которому, которую, которые, который, которым, которыми, которых</em>.
 
-The 2nd highest number of forms (11) was observed with the lemma “этот”: <em>эта, эти, этими, этих, это, этого, этой, этом, этому, этот, эту</em>.
+The 2nd highest number of forms (11) was observed with the lemma “свой”: <em>свое, своего, своей, своем, своему, свои, своим, своими, своих, свой, свою</em>.
 
-The 3rd highest number of forms (10) was observed with the lemma “тот”: <em>те, тем, теми, тех, то, того, той, том, тот, ту</em>.
+The 3rd highest number of forms (11) was observed with the lemma “этот”: <em>эта, эти, этими, этих, это, этого, этой, этом, этому, этот, эту</em>.
 
-`DET` occurs with 7 features: <tt><a href="ru_pud-feat-Number.html">Number</a></tt> (376; 76% instances), <tt><a href="ru_pud-feat-Case.html">Case</a></tt> (375; 76% instances), <tt><a href="ru_pud-feat-Gender.html">Gender</a></tt> (262; 53% instances), <tt><a href="ru_pud-feat-Animacy.html">Animacy</a></tt> (45; 9% instances), <tt><a href="ru_pud-feat-Abbr.html">Abbr</a></tt> (17; 3% instances), <tt><a href="ru_pud-feat-ExtPos.html">ExtPos</a></tt> (12; 2% instances), <tt><a href="ru_pud-feat-Variant.html">Variant</a></tt> (1; 0% instances)
+`DET` occurs with 10 features: <tt><a href="ru_pud-feat-PronType.html">PronType</a></tt> (636; 100% instances), <tt><a href="ru_pud-feat-Number.html">Number</a></tt> (519; 82% instances), <tt><a href="ru_pud-feat-Case.html">Case</a></tt> (518; 81% instances), <tt><a href="ru_pud-feat-Gender.html">Gender</a></tt> (319; 50% instances), <tt><a href="ru_pud-feat-Poss.html">Poss</a></tt> (231; 36% instances), <tt><a href="ru_pud-feat-Reflex.html">Reflex</a></tt> (75; 12% instances), <tt><a href="ru_pud-feat-Animacy.html">Animacy</a></tt> (52; 8% instances), <tt><a href="ru_pud-feat-Abbr.html">Abbr</a></tt> (17; 3% instances), <tt><a href="ru_pud-feat-ExtPos.html">ExtPos</a></tt> (12; 2% instances), <tt><a href="ru_pud-feat-Variant.html">Variant</a></tt> (1; 0% instances)
 
-`DET` occurs with 16 feature-value pairs: `Abbr=Yes`, `Animacy=Anim`, `Animacy=Inan`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Ins`, `Case=Loc`, `Case=Nom`, `ExtPos=ADP`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Number=Plur`, `Number=Sing`, `Variant=Short`
+`DET` occurs with 25 feature-value pairs: `Abbr=Yes`, `Animacy=Anim`, `Animacy=Inan`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Ins`, `Case=Loc`, `Case=Nom`, `ExtPos=ADP`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Number=Plur`, `Number=Sing`, `Poss=Yes`, `PronType=Dem`, `PronType=Ind`, `PronType=Int`, `PronType=Neg`, `PronType=Prs`, `PronType=Rel`, `PronType=Tot`, `Reflex=Yes`, `Variant=Short`
 
-`DET` occurs with 35 feature combinations.
-The most frequent feature combination is `_` (117 tokens).
+`DET` occurs with 117 feature combinations.
+The most frequent feature combination is `Poss=Yes|PronType=Prs` (117 tokens).
 Examples: <em>его, их, ее, её</em>
 
 
 ## Relations
 
-`DET` nodes are attached to their parents using 10 different relations: <tt><a href="ru_pud-dep-det.html">det</a></tt> (459; 93% instances), <tt><a href="ru_pud-dep-case.html">case</a></tt> (12; 2% instances), <tt><a href="ru_pud-dep-fixed.html">fixed</a></tt> (7; 1% instances), <tt><a href="ru_pud-dep-nsubj.html">nsubj</a></tt> (5; 1% instances), <tt><a href="ru_pud-dep-obl.html">obl</a></tt> (4; 1% instances), <tt><a href="ru_pud-dep-advcl.html">advcl</a></tt> (2; 0% instances), <tt><a href="ru_pud-dep-amod.html">amod</a></tt> (1; 0% instances), <tt><a href="ru_pud-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="ru_pud-dep-conj.html">conj</a></tt> (1; 0% instances), <tt><a href="ru_pud-dep-root.html">root</a></tt> (1; 0% instances)
+`DET` nodes are attached to their parents using 14 different relations: <tt><a href="ru_pud-dep-det.html">det</a></tt> (460; 72% instances), <tt><a href="ru_pud-dep-nsubj.html">nsubj</a></tt> (89; 14% instances), <tt><a href="ru_pud-dep-obl.html">obl</a></tt> (31; 5% instances), <tt><a href="ru_pud-dep-case.html">case</a></tt> (12; 2% instances), <tt><a href="ru_pud-dep-obj.html">obj</a></tt> (12; 2% instances), <tt><a href="ru_pud-dep-nsubj-pass.html">nsubj:pass</a></tt> (11; 2% instances), <tt><a href="ru_pud-dep-fixed.html">fixed</a></tt> (7; 1% instances), <tt><a href="ru_pud-dep-nmod.html">nmod</a></tt> (5; 1% instances), <tt><a href="ru_pud-dep-iobj.html">iobj</a></tt> (3; 0% instances), <tt><a href="ru_pud-dep-advcl.html">advcl</a></tt> (2; 0% instances), <tt><a href="ru_pud-dep-amod.html">amod</a></tt> (1; 0% instances), <tt><a href="ru_pud-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="ru_pud-dep-conj.html">conj</a></tt> (1; 0% instances), <tt><a href="ru_pud-dep-root.html">root</a></tt> (1; 0% instances)
 
-Parents of `DET` nodes belong to 8 different parts of speech: <tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt> (460; 93% instances), <tt><a href="ru_pud-pos-PROPN.html">PROPN</a></tt> (10; 2% instances), <tt><a href="ru_pud-pos-VERB.html">VERB</a></tt> (10; 2% instances), <tt><a href="ru_pud-pos-ADP.html">ADP</a></tt> (7; 1% instances), <tt><a href="ru_pud-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="ru_pud-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ru_pud-pos-NUM.html">NUM</a></tt> (1; 0% instances),  (1; 0% instances)
+Parents of `DET` nodes belong to 10 different parts of speech: <tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt> (466; 73% instances), <tt><a href="ru_pud-pos-VERB.html">VERB</a></tt> (140; 22% instances), <tt><a href="ru_pud-pos-PROPN.html">PROPN</a></tt> (9; 1% instances), <tt><a href="ru_pud-pos-ADP.html">ADP</a></tt> (7; 1% instances), <tt><a href="ru_pud-pos-ADJ.html">ADJ</a></tt> (6; 1% instances), <tt><a href="ru_pud-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="ru_pud-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="ru_pud-pos-ADV.html">ADV</a></tt> (1; 0% instances),  (1; 0% instances), <tt><a href="ru_pud-pos-X.html">X</a></tt> (1; 0% instances)
 
-453 (92%) `DET` nodes are leaves.
+569 (89%) `DET` nodes are leaves.
 
-30 (6%) `DET` nodes have one child.
+56 (9%) `DET` nodes have one child.
 
-5 (1%) `DET` nodes have two children.
+6 (1%) `DET` nodes have two children.
 
 5 (1%) `DET` nodes have three or more children.
 
 The highest child degree of a `DET` node is 6.
 
-Children of `DET` nodes are attached using 11 different relations: <tt><a href="ru_pud-dep-advmod.html">advmod</a></tt> (20; 33% instances), <tt><a href="ru_pud-dep-fixed.html">fixed</a></tt> (12; 20% instances), <tt><a href="ru_pud-dep-punct.html">punct</a></tt> (7; 11% instances), <tt><a href="ru_pud-dep-acl-relcl.html">acl:relcl</a></tt> (6; 10% instances), <tt><a href="ru_pud-dep-case.html">case</a></tt> (4; 7% instances), <tt><a href="ru_pud-dep-nsubj.html">nsubj</a></tt> (4; 7% instances), <tt><a href="ru_pud-dep-cop.html">cop</a></tt> (3; 5% instances), <tt><a href="ru_pud-dep-aux.html">aux</a></tt> (2; 3% instances), <tt><a href="ru_pud-dep-cc.html">cc</a></tt> (1; 2% instances), <tt><a href="ru_pud-dep-nmod.html">nmod</a></tt> (1; 2% instances), <tt><a href="ru_pud-dep-orphan.html">orphan</a></tt> (1; 2% instances)
+Children of `DET` nodes are attached using 11 different relations: <tt><a href="ru_pud-dep-case.html">case</a></tt> (31; 35% instances), <tt><a href="ru_pud-dep-advmod.html">advmod</a></tt> (20; 22% instances), <tt><a href="ru_pud-dep-fixed.html">fixed</a></tt> (12; 13% instances), <tt><a href="ru_pud-dep-acl-relcl.html">acl:relcl</a></tt> (7; 8% instances), <tt><a href="ru_pud-dep-punct.html">punct</a></tt> (7; 8% instances), <tt><a href="ru_pud-dep-nsubj.html">nsubj</a></tt> (4; 4% instances), <tt><a href="ru_pud-dep-cop.html">cop</a></tt> (3; 3% instances), <tt><a href="ru_pud-dep-aux.html">aux</a></tt> (2; 2% instances), <tt><a href="ru_pud-dep-cc.html">cc</a></tt> (1; 1% instances), <tt><a href="ru_pud-dep-nmod.html">nmod</a></tt> (1; 1% instances), <tt><a href="ru_pud-dep-orphan.html">orphan</a></tt> (1; 1% instances)
 
-Children of `DET` nodes belong to 10 different parts of speech: <tt><a href="ru_pud-pos-PART.html">PART</a></tt> (17; 28% instances), <tt><a href="ru_pud-pos-SCONJ.html">SCONJ</a></tt> (12; 20% instances), <tt><a href="ru_pud-pos-PUNCT.html">PUNCT</a></tt> (7; 11% instances), <tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt> (6; 10% instances), <tt><a href="ru_pud-pos-AUX.html">AUX</a></tt> (5; 8% instances), <tt><a href="ru_pud-pos-VERB.html">VERB</a></tt> (5; 8% instances), <tt><a href="ru_pud-pos-ADP.html">ADP</a></tt> (4; 7% instances), <tt><a href="ru_pud-pos-ADV.html">ADV</a></tt> (3; 5% instances), <tt><a href="ru_pud-pos-CCONJ.html">CCONJ</a></tt> (1; 2% instances), <tt><a href="ru_pud-pos-PRON.html">PRON</a></tt> (1; 2% instances)
+Children of `DET` nodes belong to 10 different parts of speech: <tt><a href="ru_pud-pos-ADP.html">ADP</a></tt> (31; 35% instances), <tt><a href="ru_pud-pos-PART.html">PART</a></tt> (17; 19% instances), <tt><a href="ru_pud-pos-SCONJ.html">SCONJ</a></tt> (12; 13% instances), <tt><a href="ru_pud-pos-PUNCT.html">PUNCT</a></tt> (7; 8% instances), <tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt> (6; 7% instances), <tt><a href="ru_pud-pos-VERB.html">VERB</a></tt> (6; 7% instances), <tt><a href="ru_pud-pos-AUX.html">AUX</a></tt> (5; 6% instances), <tt><a href="ru_pud-pos-ADV.html">ADV</a></tt> (3; 3% instances), <tt><a href="ru_pud-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="ru_pud-pos-PRON.html">PRON</a></tt> (1; 1% instances)
 

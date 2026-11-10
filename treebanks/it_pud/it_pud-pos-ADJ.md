@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>prima</em> (<tt><a href="it_pud-pos-A
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 1.301691 (the average of all parts of speech is 1.285855).
+The form / lemma ratio of `ADJ` is 1.301691 (the average of all parts of speech is 1.282892).
 
 The 1st highest number of forms (6) was observed with the lemma “piccolo”: <em>piccola, piccole, piccoli, piccolissima, piccolissimi, piccolo</em>.
 

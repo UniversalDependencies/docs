@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.320249).
+The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.320386).
 
 The 1st highest number of forms (1) was observed with the lemma “bjórr”: <em>bjórr</em>.
 
@@ -56,5 +56,5 @@ The highest child degree of a `X` node is 3.
 
 Children of `X` nodes are attached using 8 different relations: <tt><a href="es_pud-dep-punct.html">punct</a></tt> (4; 29% instances), <tt><a href="es_pud-dep-nmod.html">nmod</a></tt> (3; 21% instances), <tt><a href="es_pud-dep-cc.html">cc</a></tt> (2; 14% instances), <tt><a href="es_pud-dep-appos.html">appos</a></tt> (1; 7% instances), <tt><a href="es_pud-dep-case.html">case</a></tt> (1; 7% instances), <tt><a href="es_pud-dep-conj.html">conj</a></tt> (1; 7% instances), <tt><a href="es_pud-dep-det.html">det</a></tt> (1; 7% instances), <tt><a href="es_pud-dep-flat.html">flat</a></tt> (1; 7% instances)
 
-Children of `X` nodes belong to 7 different parts of speech: <tt><a href="es_pud-pos-PUNCT.html">PUNCT</a></tt> (4; 29% instances), <tt><a href="es_pud-pos-PROPN.html">PROPN</a></tt> (3; 21% instances), <tt><a href="es_pud-pos-CCONJ.html">CCONJ</a></tt> (2; 14% instances), <tt><a href="es_pud-pos-X.html">X</a></tt> (2; 14% instances), <tt><a href="es_pud-pos-ADP.html">ADP</a></tt> (1; 7% instances), <tt><a href="es_pud-pos-DET.html">DET</a></tt> (1; 7% instances), <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> (1; 7% instances)
+Children of `X` nodes belong to 7 different parts of speech: <tt><a href="es_pud-pos-PUNCT.html">PUNCT</a></tt> (4; 29% instances), <tt><a href="es_pud-pos-PROPN.html">PROPN</a></tt> (3; 21% instances), <tt><a href="es_pud-pos-CCONJ.html">CCONJ</a></tt> (2; 14% instances), <tt><a href="es_pud-pos-X.html">X</a></tt> (2; 14% instances), <tt><a href="es_pud-pos-DET.html">DET</a></tt> (1; 7% instances), <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> (1; 7% instances), <tt><a href="es_pud-pos-SCONJ.html">SCONJ</a></tt> (1; 7% instances)
 

@@ -23,32 +23,31 @@ The following 34 pairs of parts of speech are connected with `flat`: <tt><a href
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 3 flat	color:blue
-1	Grūti	grūti	ADV	rpn	Degree=Pos	0	root	0:root	LvtbNodeId=a-d62-p19s4w1
-2	to	tas	DET	pd3msan	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Dem	4	obj	4:obj	LvtbNodeId=a-d62-p19s4w2
-3	visu	viss	DET	pg0msan	Case=Acc|Gender=Masc|Number=Sing|PronType=Tot	2	flat	2:flat	LvtbNodeId=a-d62-p19s4w3
-4	atcerēties	atcerēties	VERB	vmyn0t3000n	Polarity=Pos|Reflex=Yes|VerbForm=Inf	1	csubj	1:csubj	LvtbNodeId=a-d62-p19s4w4|SpaceAfter=No
-5	.	.	PUNCT	zs	_	1	punct	1:punct	LvtbNodeId=a-d62-p19s4w5|SpaceAfter=No
-6	"	"	PUNCT	zq	_	1	punct	1:punct	LvtbNodeId=a-d62-p19s4w6
+1	Taču	taču	CCONJ	cc	_	7	cc	7:cc	LvtbNodeId=a-s9-p20s4w1
+2	tanī	tas	DET	pd3msln	Case=Loc|Gender=Masc|Number=Sing|Person=3|PronType=Dem	4	det	4:det	LvtbNodeId=a-s9-p20s4w2
+3	pašā	pats	DET	pg0msln	Case=Loc|Gender=Masc|Number=Sing|PronType=Tot	2	flat	2:flat	LvtbNodeId=a-s9-p20s4w3
+4	laikā	laiks	NOUN	ncmsl1	Case=Loc|Gender=Masc|Number=Sing	7	obl	7:obl:loc	LvtbNodeId=a-s9-p20s4w4
+5	viņi	viņš	PRON	pp3mpnn	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	7	nsubj	7:nsubj	LvtbNodeId=a-s9-p20s4w5
+6	mandātus	mandāts	NOUN	ncmpa1	Case=Acc|Gender=Masc|Number=Plur	7	obj	7:obj	LvtbNodeId=a-s9-p20s4w6
+7	nenoliek	nolikt	VERB	vmnipt130ay	Evident=Fh|Mood=Ind|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-s9-p20s4w7|SpaceAfter=No
+8	.	.	PUNCT	zs	_	7	punct	7:punct	LvtbNodeId=a-s9-p20s4w8
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 7 flat	color:blue
-1	Te	te	ADV	r0n	PronType=Dem	4	advmod	4:advmod	LvtbNodeId=a-d29-p299s2w1
-2	tev	tu	PRON	pp20sdn	Case=Dat|Number=Sing|Person=2|PronType=Prs	4	obl	4:obl:dat	LvtbNodeId=a-d29-p299s2w2
-3	nu	nu	PART	q	_	4	discourse	4:discourse	LvtbNodeId=a-d29-p299s2w3
-4	bija	būt	VERB	vmnisii30an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	9	ccomp	9:ccomp	LvtbNodeId=a-d29-p299s2w4|SpaceAfter=No
-5	,	,	PUNCT	zc	_	4	punct	4:punct	LvtbNodeId=a-d29-p299s2w5
-6	tu	tu	PRON	pp20snn	Case=Nom|Number=Sing|Person=2|PronType=Prs	9	nsubj	9:nsubj	LvtbNodeId=a-d29-p299s2w6
-7	pats	pats	DET	pg0msnn	Case=Nom|Gender=Masc|Number=Sing|PronType=Tot	6	flat	6:flat	LvtbNodeId=a-d29-p299s2w7
-8	sev	sevis	PRON	px000dn	Case=Dat|PronType=Prs|Reflex=Yes	9	iobj	9:iobj	LvtbNodeId=a-d29-p299s2w8
-9	saki	sacīt	VERB	vmnipt32san	Evident=Fh|Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-d29-p299s2w9|SpaceAfter=No
-10	.	.	PUNCT	zs	_	9	punct	9:punct	LvtbNodeId=a-d29-p299s2w10
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 4 flat	color:blue
+1	–	–	PUNCT	zd	_	5	punct	5:punct	LvtbNodeId=a-d62-p15s5w1
+2	„	"	PUNCT	zq	_	5	punct	5:punct	LvtbNodeId=a-d62-p15s5w2|SpaceAfter=No
+3	Mēs	mēs	PRON	pp10pnn	Case=Nom|Number=Plur|Person=1|PronType=Prs	5	nsubj	5:nsubj	LvtbNodeId=a-d62-p15s5w3
+4	visi	viss	DET	pg0mpnn	Case=Nom|Gender=Masc|Number=Plur|PronType=Tot	3	flat	3:flat	LvtbNodeId=a-d62-p15s5w4
+5	sēžam	sēdēt	VERB	vmnipi31pan	Evident=Fh|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-d62-p15s5w5|SpaceAfter=No
+6	!	!	PUNCT	zs	_	5	punct	5:punct	LvtbNodeId=a-d62-p15s5w6|SpaceAfter=No
+7	"	"	PUNCT	zq	_	5	punct	5:punct	LvtbNodeId=a-d62-p15s5w7
 
 ~~~
 

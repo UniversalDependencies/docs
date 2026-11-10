@@ -12,17 +12,17 @@ It occurs with 2 different values: `Imp`, `Perf`.
 21747 tokens (8%) have a non-empty value of `Aspect`.
 4072 types (16%) occur at least once with a non-empty value of `Aspect`.
 1564 lemmas (10%) occur at least once with a non-empty value of `Aspect`.
-The feature is used with 2 part-of-speech tags: <tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> (21244; 8% instances), <tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> (503; 0% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> (21245; 8% instances), <tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> (502; 0% instances).
 
 ### `VERB`
 
-21244 <tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `Aspect`.
+21245 <tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="ar_padt-feat-Person.html">Person</a></tt><tt>=3</tt> (20900; 98%), <tt><a href="ar_padt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (20020; 94%), <tt><a href="ar_padt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (19810; 93%), <tt><a href="ar_padt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (13410; 63%), <tt><a href="ar_padt-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (11215; 53%), <tt><a href="ar_padt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (11215; 53%).
+The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="ar_padt-feat-Person.html">Person</a></tt><tt>=3</tt> (20901; 98%), <tt><a href="ar_padt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (20021; 94%), <tt><a href="ar_padt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (19811; 93%), <tt><a href="ar_padt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (13410; 63%), <tt><a href="ar_padt-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (11215; 53%), <tt><a href="ar_padt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (11215; 53%).
 
 `VERB` tokens may have the following values of `Aspect`:
 
-* `Imp` (10029; 47% of non-empty `Aspect`): يتم، يمكن، يكون، تصل، تكون، يجب، يصل، يقول، يذكر، تقوم
+* `Imp` (10030; 47% of non-empty `Aspect`): يتم، يمكن، يكون، تصل، تكون، يجب، يصل، يقول، يذكر، تقوم
 * `Perf` (11215; 53% of non-empty `Aspect`): قال، كان، أضاف، كانت، تم، أكد، أشار، أوضح، أعلن، قالت
 * `EMPTY` (52): حاول، د، دعوا، حث، ابحث، احرص، اخدموا، افتحوا، اكسون، انتبه
 
@@ -46,15 +46,15 @@ The most frequent other feature values with which `VERB` and `Aspect` co-occurre
 
 ### `AUX`
 
-503 <tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> tokens (23% of all `AUX` tokens) have a non-empty value of `Aspect`.
+502 <tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> tokens (24% of all `AUX` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `AUX` and `Aspect` co-occurred: <tt><a href="ar_padt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (503; 100%), <tt><a href="ar_padt-feat-Person.html">Person</a></tt><tt>=3</tt> (492; 98%), <tt><a href="ar_padt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (488; 97%), <tt><a href="ar_padt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (326; 65%).
+The most frequent other feature values with which `AUX` and `Aspect` co-occurred: <tt><a href="ar_padt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (502; 100%), <tt><a href="ar_padt-feat-Person.html">Person</a></tt><tt>=3</tt> (491; 98%), <tt><a href="ar_padt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (487; 97%), <tt><a href="ar_padt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (326; 65%).
 
 `AUX` tokens may have the following values of `Aspect`:
 
-* `Imp` (195; 39% of non-empty `Aspect`): يكون، تكون، يكن، تكن، تكونون، أكون، اكون، تعد، نكون، يكونا
+* `Imp` (194; 39% of non-empty `Aspect`): يكون، تكون، يكن، تكن، تكونون، أكون، اكون، نكون، يكونا
 * `Perf` (308; 61% of non-empty `Aspect`): كان، ليس، كانت، ليست، كانوا، كنت، لسنا، ليسوا
-* `EMPTY` (1651): س، قد، سوف، ما، هل، ربما، أ، كن، علّ، لقد
+* `EMPTY` (1630): س، قد، سوف، ما، ربما، كن، علّ، لقد
 
 <table>
   <tr><th>Paradigm <i>كَان</i></th><th><tt>Imp</tt></th><th><tt>Perf</tt></th></tr>
@@ -80,7 +80,7 @@ The most frequent other feature values with which `AUX` and `Aspect` co-occurred
 
 The 10 most frequent relations where parent and child node agree in `Aspect`:
 <tt>VERB --[<tt><a href="ar_padt-dep-conj.html">conj</a></tt>]--> VERB</tt> (2106; 82%),
-<tt>VERB --[<tt><a href="ar_padt-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (697; 62%),
+<tt>VERB --[<tt><a href="ar_padt-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (698; 62%),
 <tt>VERB --[<tt><a href="ar_padt-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (191; 71%),
 <tt>VERB --[<tt><a href="ar_padt-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (185; 73%),
 <tt>VERB --[<tt><a href="ar_padt-dep-dep.html">dep</a></tt>]--> VERB</tt> (37; 77%),

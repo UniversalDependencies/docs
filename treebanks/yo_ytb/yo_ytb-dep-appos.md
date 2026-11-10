@@ -8,12 +8,40 @@ udver: '2'
 
 This relation is universal.
 
-21 nodes (0%) are attached to their parents as `appos`.
+24 nodes (0%) are attached to their parents as `appos`.
 
-21 instances of `appos` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.80952380952381.
+24 instances of `appos` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.83333333333333.
 
-The following 9 pairs of parts of speech are connected with `appos`: <tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (5; 24% instances), <tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> (4; 19% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (3; 14% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> (3; 14% instances), <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt>-<tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> (2; 10% instances), <tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (1; 5% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt> (1; 5% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (1; 5% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> (1; 5% instances).
+The following 10 pairs of parts of speech are connected with `appos`: <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (5; 21% instances), <tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (5; 21% instances), <tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> (4; 17% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> (3; 13% instances), <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt>-<tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> (2; 8% instances), <tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (1; 4% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt> (1; 4% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt> (1; 4% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (1; 4% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> (1; 4% instances).
+
+
+~~~ conllu
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 10 appos	color:blue
+1	Lẹ́yìn	lẹ́yìn	ADP	_	_	2	case	_	Gloss=after
+2	rẹ̀	rẹ̀	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	Gloss=he
+3	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	5	expl	_	Gloss=he
+4	tún	tún	ADV	_	_	5	advmod	_	Gloss=also
+5	ṣe	ṣe	VERB	_	_	0	root	_	Gloss=make
+6	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	7	det	_	Gloss=them
+7	filmu	filmu	NOUN	_	_	5	obj	_	Gloss=film
+8	bíi	bíi	ADP	_	_	9	case	_	Gloss=such.as
+9	Last	last	ADJ	_	Foreign=Yes	10	amod	_	Lang=en
+10	Party	party	NOUN	_	Foreign=Yes	7	appos	_	Lang=en|SpaceAfter=No
+11	,	,	PUNCT	_	_	12	punct	_	_
+12	Mark	mark	NOUN	_	Foreign=Yes	10	conj	_	Lang=en
+13	of	of	ADP	_	Foreign=Yes	15	case	_	Lang=en
+14	the	the	DET	_	Foreign=Yes|PronType=Art	15	det	_	Lang=en
+15	Beast	beast	NOUN	_	Foreign=Yes	12	nmod	_	Lang=en
+16	àti	àti	CCONJ	_	_	17	cc	_	Gloss=and
+17	Ijele	Ijele	PROPN	_	_	10	conj	_	Gloss=Ijele|SpaceAfter=No
+18	.	.	PUNCT	_	_	5	punct	_	Gloss=.
+
+~~~
 
 
 ~~~ conllu
@@ -22,7 +50,7 @@ The following 9 pairs of parts of speech are connected with `appos`: <tt><a href
 # visual-style 16	bgColor:blue
 # visual-style 16	fgColor:white
 # visual-style 16 17 appos	color:blue
-1	Nígbà	nígbà	ADV	_	_	6	advmod	_	Gloss=when|Ref=JOHN_11.28
+1	Nígbà	nígbà	ADV	_	ExtPos=ADV	6	advmod	_	Gloss=when|Ref=JOHN_11.28
 2	tí	tí	PRON	_	PronType=Rel	1	fixed	_	Gloss=|Ref=JOHN_11.28
 3	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	Gloss=she|Ref=JOHN_11.28
 4	sì	sì	CCONJ	_	_	6	cc	_	Gloss=then|Ref=JOHN_11.28
@@ -65,7 +93,7 @@ The following 9 pairs of parts of speech are connected with `appos`: <tt><a href
 # visual-style 19	bgColor:blue
 # visual-style 19	fgColor:white
 # visual-style 19 24 appos	color:blue
-1	Ó	Ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Gloss=she|Ref=JOHN_11.27
+1	Ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Gloss=she|Ref=JOHN_11.27
 2	wí	wí	VERB	_	_	0	root	_	Gloss=said|Ref=JOHN_11.27
 3	fún	fún	ADP	_	_	4	case	_	Gloss=unto|Ref=JOHN_11.27
 4	un	un	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	2	obl	_	Gloss=him|Ref=JOHN_11.27
@@ -84,11 +112,11 @@ The following 9 pairs of parts of speech are connected with `appos`: <tt><a href
 17	ìwọ	ìwọ	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	19	nsubj	_	Gloss=thou|Ref=JOHN_11.27
 18	ni	ni	PART	_	_	17	case	_	Gloss=is|Ref=JOHN_11.27
 19	Kírísítì	kírísítì	PROPN	_	_	14	ccomp	_	Gloss=christ|Ref=JOHN_11.27
-20	náà	náà	DET	_	_	21	det	_	Gloss=the|Ref=JOHN_11.27
-21	Ọmọ	Ọmọ	NOUN	_	_	19	appos	_	Gloss=son|Ref=JOHN_11.27
-22	Ọlọ́run	Ọlọ́run	NOUN	_	_	21	nmod	_	Gloss=god|Ref=JOHN_11.27|SpaceAfter=No
+20	náà	náà	DET	_	PronType=Dem	21	det	_	Gloss=the|Ref=JOHN_11.27
+21	Ọmọ	ọmọ	NOUN	_	_	19	appos	_	Gloss=son|Ref=JOHN_11.27
+22	Ọlọ́run	ọlọ́run	NOUN	_	_	21	nmod	_	Gloss=god|Ref=JOHN_11.27|SpaceAfter=No
 23	,	,	PUNCT	_	_	24	punct	_	Gloss=,|Ref=JOHN_11.27
-24	ẹni	ẹni	PRON	_	PronType=Ind	19	appos	_	Gloss=someone|Ref=JOHN_11.27
+24	ẹni	ẹni	PRON	_	ExtPos=PRON|PronType=Ind	19	appos	_	Gloss=someone|Ref=JOHN_11.27
 25	tí	tí	PRON	_	PronType=Rel	24	fixed	_	Gloss=that|Ref=JOHN_11.27
 26	ń	ń	AUX	_	_	27	aux	_	Gloss=is|Ref=JOHN_11.27
 27	bọ̀	bọ̀	VERB	_	_	24	acl	_	Gloss=come|Ref=JOHN_11.27
@@ -97,46 +125,6 @@ The following 9 pairs of parts of speech are connected with `appos`: <tt><a href
 30	ayé	ayé	NOUN	_	_	27	obl	_	Gloss=earth|Ref=JOHN_11.27|SpaceAfter=No
 31	.	.	PUNCT	_	_	14	punct	_	Gloss=.|Ref=JOHN_11.27|SpaceAfter=No
 32	”	”	PUNCT	_	_	14	punct	_	Gloss=”|Ref=JOHN_11.27
-
-~~~
-
-
-~~~ conllu
-# visual-style 22	bgColor:blue
-# visual-style 22	fgColor:white
-# visual-style 18	bgColor:blue
-# visual-style 18	fgColor:white
-# visual-style 18 22 appos	color:blue
-1	Fún	fún	ADP	_	_	2	case	_	_
-2	àpẹrẹ	àpẹrẹ	NOUN	_	_	8	obl	_	SpaceAfter=No
-3	,	,	PUNCT	_	_	2	punct	_	_
-4	nọ́mbà	nọ́mbà	NOUN	_	_	8	nsubj	_	_
-5	gidi	gidi	ADJ	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	4	amod	_	_
-6	nìkan	nìkan	ADV	_	PronType=Ind	8	advmod	_	_
-7	kò	kò	PART	_	_	8	advmod	_	_
-8	ní	ní	VERB	_	_	0	root	_	_
-9	ojúùtú	ojúùtú	NOUN	_	_	8	obj	_	_
-10	fún	fún	ADP	_	_	11	case	_	_
-11	ìdọ́gba	ìdọ́gba	NOUN	_	_	8	obl	_	_
-12	aljebra	aljebra	NOUN	_	_	11	nmod	_	_
-13	alápọ̀ọ́nlépúpọ̀	alápọ̀ọ́nlépúpọ̀	NOUN	_	_	12	nmod	_	_
-14	(	(	PUNCT	_	_	15	punct	_	SpaceAfter=No
-15	polynomial	polynomial	NOUN	_	_	13	appos	_	SpaceAfter=No
-16	)	)	PUNCT	_	_	15	punct	_	_
-17	pẹ̀lú	pẹ̀lú	ADP	_	_	18	case	_	_
-18	nọ́mbà	nọ́mbà	NOUN	_	_	13	nmod	_	_
-19	àfise	àfise	NOUN	_	_	18	nmod	_	_
-20	gidi	gidi	ADJ	_	_	18	amod	_	_
-21	(	(	PUNCT	_	_	22	punct	_	SpaceAfter=No
-22	coefficient	coefficient	NOUN	_	_	18	appos	_	SpaceAfter=No
-23	)	)	PUNCT	_	_	22	punct	_	SpaceAfter=No
-24	,	,	PUNCT	_	_	29	punct	_	_
-25	sùgbọ̀n	sùgbọ̀n	CCONJ	_	_	29	cc	_	_
-26	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	27	det	_	_
-27	nọ́mbà	nọ́mbà	NOUN	_	_	29	nsubj	_	_
-28	tósòro	tósòro	ADJ	_	_	27	amod	_	_
-29	ní	ní	VERB	_	_	8	conj	_	SpaceAfter=No
-30	.	.	PUNCT	_	_	8	punct	_	_
 
 ~~~
 

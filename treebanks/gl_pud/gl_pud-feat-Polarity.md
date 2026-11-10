@@ -21,5 +21,5 @@ The feature is used with 1 part-of-speech tags: <tt><a href="gl_pud-pos-ADV.html
 `ADV` tokens may have the following values of `Polarity`:
 
 * `Neg` (118; 100% of non-empty `Polarity`): <em>non</em>
-* `EMPTY` (732): <em>máis, tamén, xa, despois, aínda, moi, só, así, tanto, antes</em>
+* `EMPTY` (733): <em>máis, tamén, xa, despois, aínda, moi, só, así, tanto, antes</em>
 

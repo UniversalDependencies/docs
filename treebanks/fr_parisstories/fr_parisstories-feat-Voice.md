@@ -18,13 +18,13 @@ The feature is used with 2 part-of-speech tags: <tt><a href="fr_parisstories-pos
 
 732 <tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt> tokens (17% of all `VERB` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="fr_parisstories-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (732; 100%), <tt><a href="fr_parisstories-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (732; 100%), <tt><a href="fr_parisstories-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (732; 100%), <tt><a href="fr_parisstories-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (731; 100%), <tt><a href="fr_parisstories-feat-Number.html">Number</a></tt><tt>=Sing</tt> (688; 94%), <tt><a href="fr_parisstories-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (639; 87%).
+The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="fr_parisstories-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (732; 100%), <tt><a href="fr_parisstories-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (732; 100%), <tt><a href="fr_parisstories-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (732; 100%), <tt><a href="fr_parisstories-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (731; 100%), <tt><a href="fr_parisstories-feat-Number.html">Number</a></tt><tt>=Sing</tt> (688; 94%), <tt><a href="fr_parisstories-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (639; 87%).
 
 `VERB` tokens may have the following values of `Voice`:
 
 * `Act` (629; 86% of non-empty `Voice`): <em>fait, eu, dit, vu, pris, commencé, parlé, rencontré, mis, demandé</em>
 * `Pass` (103; 14% of non-empty `Voice`): <em>amélioré, dit, fait, rentrée, repartie, tiré, assise, confrontée, déguisé, mise</em>
-* `EMPTY` (3501): <em>avait, a, sais, fait, voilà, faire, dit, va, aller, avais</em>
+* `EMPTY` (3474): <em>avait, a, sais, fait, voilà, faire, dit, va, aller, vois</em>
 
 <table>
   <tr><th>Paradigm <i>faire</i></th><th><tt>Act</tt></th><th><tt>Pass</tt></th></tr>
@@ -37,10 +37,15 @@ The most frequent other feature values with which `VERB` and `Voice` co-occurred
 
 4 <tt><a href="fr_parisstories-pos-AUX.html">AUX</a></tt> tokens (0% of all `AUX` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `AUX` and `Voice` co-occurred: <tt><a href="fr_parisstories-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="fr_parisstories-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4; 100%), <tt><a href="fr_parisstories-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="fr_parisstories-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="fr_parisstories-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (4; 100%).
+The most frequent other feature values with which `AUX` and `Voice` co-occurred: <tt><a href="fr_parisstories-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="fr_parisstories-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4; 100%), <tt><a href="fr_parisstories-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="fr_parisstories-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (4; 100%), <tt><a href="fr_parisstories-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (4; 100%).
 
 `AUX` tokens may have the following values of `Voice`:
 
 * `Act` (4; 100% of non-empty `Voice`): <em>été</em>
-* `EMPTY` (2272): <em>est, était, a, ai, suis, étais, avait, sont, avais, étaient</em>
+* `EMPTY` (2297): <em>est, était, a, ai, suis, étais, avait, sont, avais, étaient</em>
+
+## Relations with Agreement in `Voice`
+
+The 10 most frequent relations where parent and child node agree in `Voice`:
+<tt>VERB --[<tt><a href="fr_parisstories-dep-reparandum.html">reparandum</a></tt>]--> VERB</tt> (11; 65%).
 

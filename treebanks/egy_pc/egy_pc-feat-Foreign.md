@@ -16,14 +16,14 @@ The feature is used with 2 part-of-speech tags: <tt><a href="egy_pc-pos-X.html">
 
 ### `X`
 
-28 <tt><a href="egy_pc-pos-X.html">X</a></tt> tokens (12% of all `X` tokens) have a non-empty value of `Foreign`.
+28 <tt><a href="egy_pc-pos-X.html">X</a></tt> tokens (10% of all `X` tokens) have a non-empty value of `Foreign`.
 
 The most frequent other feature values with which `X` and `Foreign` co-occurred: <tt><a href="egy_pc-feat-Typo.html">Typo</a></tt><tt>=EMPTY</tt> (28; 100%).
 
 `X` tokens may have the following values of `Foreign`:
 
 * `Yes` (28; 100% of non-empty `Foreign`): <em>ꜣꜣꜣ, hꞽ, kbb, phtꞽ, pčtꞽ, ꞽmḥw, bś, bꞽ, bꞽtꞽ, tꞽtꞽ</em>
-* `EMPTY` (215): <em>[...], {⸗ꞽ}, {nb}, {⸗f}, {n}, {⸗k}, ḫwrr, {mṭw}, {r}, {č̣(ṭ)}</em>
+* `EMPTY` (258): <em>[...], {⸗ꞽ}, {⸗f}, {nb}, {n}, {⸗k}, ḫwrr, {mṭw}, {r}, {č̣(ṭ)}</em>
 
 `Foreign` seems to be **lexical feature** of `X`. 100% lemmas (17) occur only with one value of `Foreign`.
 
@@ -36,7 +36,7 @@ The most frequent other feature values with which `VERB` and `Foreign` co-occurr
 `VERB` tokens may have the following values of `Foreign`:
 
 * `Yes` (1; 100% of non-empty `Foreign`): <em>ꜣꜣꜣ</em>
-* `EMPTY` (6292): <em>č̣(ṭ), pr, m, ꞽꞽ, ꜥḥꜥ, č̣i̯, ꜥnḫ, rč̣.n, ꞽr, wꜥb</em>
+* `EMPTY` (7902): <em>č̣(ṭ), m, pr, ꞽꞽ, č̣i̯, ꜥḥꜥ, wꜥb, ꜥnḫ, č̣ꜣ, ꞽr</em>
 
 ## Relations with Agreement in `Foreign`
 

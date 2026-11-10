@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>ὡς</em> (<tt><a href="grc_ptnk-pos
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.387755 (the average of all parts of speech is 2.345984).
+The form / lemma ratio of `ADP` is 1.387755 (the average of all parts of speech is 2.346578).
 
 The 1st highest number of forms (4) was observed with the lemma “μετά”: <em>μεθ᾿, μετά, μετὰ, μετ᾿</em>.
 

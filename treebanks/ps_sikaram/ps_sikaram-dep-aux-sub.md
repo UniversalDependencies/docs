@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Pashto-Sikaram: Relations: `aux:sub`
 
 This relation is a language-specific subtype of .
-There are also 6 other language-specific subtypes of `aux`: <tt><a href="ps_sikaram-dep-aux-cnd.html">aux:cnd</a></tt>, <tt><a href="ps_sikaram-dep-aux-fut.html">aux:fut</a></tt>, <tt><a href="ps_sikaram-dep-aux-hab.html">aux:hab</a></tt>, <tt><a href="ps_sikaram-dep-aux-pass.html">aux:pass</a></tt>, <tt><a href="ps_sikaram-dep-aux-perf.html">aux:perf</a></tt>, <tt><a href="ps_sikaram-dep-aux-pot.html">aux:pot</a></tt>.
+There are also 7 other language-specific subtypes of `aux`: <tt><a href="ps_sikaram-dep-aux-cnd.html">aux:cnd</a></tt>, <tt><a href="ps_sikaram-dep-aux-fut.html">aux:fut</a></tt>, <tt><a href="ps_sikaram-dep-aux-hab.html">aux:hab</a></tt>, <tt><a href="ps_sikaram-dep-aux-pass.html">aux:pass</a></tt>, <tt><a href="ps_sikaram-dep-aux-perf.html">aux:perf</a></tt>, <tt><a href="ps_sikaram-dep-aux-pot.html">aux:pot</a></tt>, <tt><a href="ps_sikaram-dep-aux-preverb.html">aux:preverb</a></tt>.
 
 3 nodes (0%) are attached to their parents as `aux:sub`.
 

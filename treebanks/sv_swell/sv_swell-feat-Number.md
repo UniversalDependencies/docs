@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Plur`, `Sing`.
 
-4102 tokens (38%) have a non-empty value of `Number`.
-1309 types (59%) occur at least once with a non-empty value of `Number`.
+4101 tokens (38%) have a non-empty value of `Number`.
+1308 types (59%) occur at least once with a non-empty value of `Number`.
 896 lemmas (56%) occur at least once with a non-empty value of `Number`.
-The feature is used with 7 part-of-speech tags: <tt><a href="sv_swell-pos-NOUN.html">NOUN</a></tt> (1803; 17% instances), <tt><a href="sv_swell-pos-PRON.html">PRON</a></tt> (1338; 12% instances), <tt><a href="sv_swell-pos-ADJ.html">ADJ</a></tt> (546; 5% instances), <tt><a href="sv_swell-pos-DET.html">DET</a></tt> (398; 4% instances), <tt><a href="sv_swell-pos-PROPN.html">PROPN</a></tt> (7; 0% instances), <tt><a href="sv_swell-pos-NUM.html">NUM</a></tt> (5; 0% instances), <tt><a href="sv_swell-pos-VERB.html">VERB</a></tt> (5; 0% instances).
+The feature is used with 7 part-of-speech tags: <tt><a href="sv_swell-pos-NOUN.html">NOUN</a></tt> (1803; 17% instances), <tt><a href="sv_swell-pos-PRON.html">PRON</a></tt> (1338; 12% instances), <tt><a href="sv_swell-pos-ADJ.html">ADJ</a></tt> (545; 5% instances), <tt><a href="sv_swell-pos-DET.html">DET</a></tt> (398; 4% instances), <tt><a href="sv_swell-pos-PROPN.html">PROPN</a></tt> (7; 0% instances), <tt><a href="sv_swell-pos-NUM.html">NUM</a></tt> (5; 0% instances), <tt><a href="sv_swell-pos-VERB.html">VERB</a></tt> (5; 0% instances).
 
 ### `NOUN`
 
@@ -57,14 +57,14 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 ### `ADJ`
 
-546 <tt><a href="sv_swell-pos-ADJ.html">ADJ</a></tt> tokens (62% of all `ADJ` tokens) have a non-empty value of `Number`.
+545 <tt><a href="sv_swell-pos-ADJ.html">ADJ</a></tt> tokens (62% of all `ADJ` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="sv_swell-feat-Case.html">Case</a></tt><tt>=Nom</tt> (545; 100%), <tt><a href="sv_swell-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (540; 99%), <tt><a href="sv_swell-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (517; 95%).
+The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="sv_swell-feat-Case.html">Case</a></tt><tt>=Nom</tt> (544; 100%), <tt><a href="sv_swell-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (539; 99%), <tt><a href="sv_swell-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (516; 95%).
 
 `ADJ` tokens may have the following values of `Number`:
 
 * `Plur` (184; 34% of non-empty `Number`): <em>nya, andra, olika, vissa, flera, viktiga, personliga, allmänmänskliga, själva, stora</em>
-* `Sing` (362; 66% of non-empty `Number`): <em>viktigt, själv, stor, viktig, svårt, mycket, nytt, annan, glad, lång</em>
+* `Sing` (361; 66% of non-empty `Number`): <em>viktigt, själv, stor, viktig, svårt, mycket, nytt, annan, glad, lång</em>
 * `EMPTY` (331): <em>många, olika, bra, bättre, första, bästa, flesta, viktigaste, andra, mer</em>
 
 <table>

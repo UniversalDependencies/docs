@@ -57,7 +57,7 @@ The most frequent other feature values with which `NOUN` and `NumForm` co-occurr
 
 4 <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> tokens (0% of all `ADV` tokens) have a non-empty value of `NumForm`.
 
-The most frequent other feature values with which `ADV` and `NumForm` co-occurred: <tt><a href="en_pud-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (4; 100%).
+The most frequent other feature values with which `ADV` and `NumForm` co-occurred: <tt><a href="en_pud-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="en_pud-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (4; 100%).
 
 `ADV` tokens may have the following values of `NumForm`:
 

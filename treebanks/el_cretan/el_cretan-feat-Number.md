@@ -76,8 +76,8 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 
 `NOUN` tokens may have the following values of `Number`:
 
-* `Plur` (168; 28% of non-empty `Number`): <em>χρόνια, πόδια, άντρες, γυναίκες, κρίματά, μεσάνυχτα, σ, χέρια, άλογα, ανθρώπους</em>
-* `Sing` (430; 72% of non-empty `Number`): <em>σπίτι, βασιλιάς, θεια, νερό, χάρη, γάλα, κερά, κύρη, παιδί, παρέα</em>
+* `Plur` (167; 28% of non-empty `Number`): <em>χρόνια, πόδια, άντρες, γυναίκες, κρίματά, μεσάνυχτα, σ, χέρια, άλογα, ανθρώπους</em>
+* `Sing` (431; 72% of non-empty `Number`): <em>σπίτι, βασιλιάς, θεια, νερό, χάρη, γάλα, κερά, κύρη, παιδί, παρέα</em>
 * `EMPTY` (4): <em>Αϊ, γέρο, γερο, ποξημερώματα</em>
 
 <table>
@@ -225,14 +225,14 @@ The most frequent other feature values with which `INTJ` and `Number` co-occurre
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="el_cretan-dep-det.html">det</a></tt>]--> DET</tt> (405; 99%),
+<tt>NOUN --[<tt><a href="el_cretan-dep-det.html">det</a></tt>]--> DET</tt> (406; 99%),
 <tt>VERB --[<tt><a href="el_cretan-dep-conj.html">conj</a></tt>]--> VERB</tt> (170; 81%),
 <tt>PROPN --[<tt><a href="el_cretan-dep-det.html">det</a></tt>]--> DET</tt> (136; 100%),
 <tt>VERB --[<tt><a href="el_cretan-dep-obj.html">obj</a></tt>]--> PRON</tt> (125; 84%),
-<tt>VERB --[<tt><a href="el_cretan-dep-obj.html">obj</a></tt>]--> NOUN</tt> (113; 67%),
+<tt>VERB --[<tt><a href="el_cretan-dep-obj.html">obj</a></tt>]--> NOUN</tt> (114; 68%),
 <tt>NOUN --[<tt><a href="el_cretan-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (93; 70%),
 <tt>VERB --[<tt><a href="el_cretan-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (87; 97%),
 <tt>VERB --[<tt><a href="el_cretan-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (77; 96%),
-<tt>VERB --[<tt><a href="el_cretan-dep-obl.html">obl</a></tt>]--> NOUN</tt> (72; 58%),
+<tt>VERB --[<tt><a href="el_cretan-dep-obl.html">obl</a></tt>]--> NOUN</tt> (72; 57%),
 <tt>VERB --[<tt><a href="el_cretan-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (59; 80%).
 

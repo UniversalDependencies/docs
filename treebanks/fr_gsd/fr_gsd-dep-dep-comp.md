@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="fr_gsd-dep-dep.html">dep</a></tt>.
 
-15 nodes (0%) are attached to their parents as `dep:comp`.
+16 nodes (0%) are attached to their parents as `dep:comp`.
 
-11 instances of `dep:comp` (73%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.26666666666667.
+11 instances of `dep:comp` (69%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.1875.
 
-The following 4 pairs of parts of speech are connected with `dep:comp`: <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> (11; 73% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-SCONJ.html">SCONJ</a></tt> (2; 13% instances), <tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> (1; 7% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> (1; 7% instances).
+The following 5 pairs of parts of speech are connected with `dep:comp`: <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> (11; 69% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-SCONJ.html">SCONJ</a></tt> (2; 13% instances), <tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> (1; 6% instances), <tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> (1; 6% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> (1; 6% instances).
 
 
 ~~~ conllu
@@ -60,36 +60,33 @@ The following 4 pairs of parts of speech are connected with `dep:comp`: <tt><a h
 
 
 ~~~ conllu
-# visual-style 24	bgColor:blue
-# visual-style 24	fgColor:white
-# visual-style 19	bgColor:blue
-# visual-style 19	fgColor:white
-# visual-style 19 24 dep:comp	color:blue
-1	Cette	ce	DET	_	Gender=Fem|Number=Sing|PronType=Dem	2	det	_	wordform=cette
-2	théorie	théorie	NOUN	_	Gender=Fem|Number=Sing	7	nsubj	_	Exponence[Gender]=Inherent
-3	issue	issu	ADJ	_	Gender=Fem|Number=Sing	2	amod	_	_
-4	de	de	ADP	_	_	6	case	_	_
-5	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
-6	psychologie	psychologie	NOUN	_	Gender=Fem|Number=Sing	3	obl:arg	_	Exponence[Gender]=Inherent
-7	suppose	supposer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-8	que	que	SCONJ	_	_	11	mark	_	_
-9	l'	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	Exponence[Gender]=Absent|SpaceAfter=No
-10	individu	individu	NOUN	_	Gender=Masc|Number=Sing	11	nsubj	_	Exponence[Gender]=Inherent
-11	fait	faire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	ccomp	_	_
-12	sens	sens	NOUN	_	Gender=Masc|Number=Sing	11	obj:lvc	_	Exponence[Gender]=Inherent|Exponence[Number]=Absent
-13	de	de	ADP	_	_	15	case	_	_
-14	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
-15	monde	monde	NOUN	_	Gender=Masc|Number=Sing	11	obl:arg	_	Exponence[Gender]=Inherent
-16	qui	qui	PRON	_	PronType=Rel	18	nsubj	_	_
-17	l'	lui	PRON	_	Case=Acc|Emph=No|Number=Sing|Person=3|PronType=Prs	18	obj	_	SpaceAfter=No
-18	entoure	entourer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	acl:relcl	_	_
-19	à	à	ADP	_	ExtPos=ADV	11	advmod	_	Idiom=Yes
-20	partir	partir	VERB	_	VerbForm=Inf	19	fixed	_	InIdiom=Yes
-21	de	de	ADP	_	_	24	case	_	_
-22	ses	son	DET	_	Number=Plur|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	24	det	_	_
-23	propres	propre	ADJ	_	Gender=Masc|Number=Plur	24	amod	_	Exponence[Gender]=Absent
-24	construits	construire	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass	19	dep:comp	_	SpaceAfter=No|Tense[denom]=Past
-25	.	.	PUNCT	_	_	7	punct	_	_
+# visual-style 18	bgColor:blue
+# visual-style 18	fgColor:white
+# visual-style 16	bgColor:blue
+# visual-style 16	fgColor:white
+# visual-style 16 18 dep:comp	color:blue
+1	L'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	2	det	_	SpaceAfter=No|wordform=l'
+2	un	un	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	3	nsubj	_	_
+3	reste	rester	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	à	à	ADP	_	_	6	case	_	_
+5	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	bas	bas	NOUN	_	Gender=Masc|Number=Sing	3	obl:arg	_	Exponence[Gender]=Inherent|Exponence[Number]=Absent
+7	de	de	ADP	_	_	9	case	_	_
+8	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	pente	pente	NOUN	_	Gender=Fem|Number=Sing	6	nmod	_	Exponence[Gender]=Inherent
+10	alors	alors	ADV	_	ExtPos=SCONJ	15	mark	_	Idiom=Yes
+11	que	que	SCONJ	_	_	10	fixed	_	InIdiom=Yes
+12	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	second	second	NOUN	_	Gender=Masc|Number=Sing	15	nsubj	_	Exponence[Gender]=Inherent
+14	s'	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	15	expl:pv	_	SpaceAfter=No
+15	approche	approcher	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	advcl	_	_
+16	au	au	ADP	_	ExtPos=ADV	15	advmod	_	Idiom=Yes
+17	plus	plus	ADV	_	_	16	fixed	_	InIdiom=Yes
+18	près	près	ADV	_	ExtPos=PRON	16	dep:comp	_	_
+19	de	de	ADP	_	_	21	case	_	_
+20	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	21	det	_	_
+21	Saxons	Saxons	PROPN	_	Number=Plur	18	obl:arg	_	SpaceAfter=No
+22	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~
 

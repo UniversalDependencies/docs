@@ -71,7 +71,7 @@ The following 4 pairs of parts of speech are connected with `appos`: <tt><a href
 15	yabʼil	yabʼil	NOUN	_	_	11	nmod	_	_
 16	pa	pa	ADP	_	_	18	case	_	_
 17	ri	ri	DET	_	Definite=Def|PronType=Art	18	det	_	_
-18	junabʼ	junabʼ	NOUN	_	_	15	obl	_	_
+18	junabʼ	junabʼ	NOUN	_	_	15	nmod	_	_
 19	2012	2012	NUM	_	_	18	appos	_	SpaceAfter=No
 20	.	.	PUNCT	_	_	1	punct	_	_
 

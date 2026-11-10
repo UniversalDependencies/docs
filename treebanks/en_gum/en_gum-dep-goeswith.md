@@ -23,7 +23,7 @@ The following 6 pairs of parts of speech are connected with `goeswith`: <tt><a h
 # visual-style 2	fgColor:white
 # visual-style 2 3 goeswith	color:blue
 1	So	so	ADV	RB	_	6	advmod	6:advmod	Discourse=adversative-concession:32->24:1:dm-but-202-_;context-background:32->24:1:0:lex-indwd-273-_+orp-before hand-263-264-_;causal-result:32->26:1:3:orp-so-262-_|PDTB=Explicit:Contingency.Cause.Result:so:262:202-232:263-276
-2	before	beforehand	ADV	GW	Typo=Yes	6	advmod	6:advmod	CorrectForm=beforehand|PDTB=Explicit:Expansion.Conjunction:before hand:263-264:182-188:262,265-276|XML=<sic ana:::"beforehand">
+2	before	beforehand	ADV	GW	Typo=Yes	6	advmod	6:advmod	CorrectForm=beforehand|MSeg=be-fore|PDTB=Explicit:Expansion.Conjunction:before hand:263-264:182-188:262,265-276|XML=<sic ana:::"beforehand">
 3	hand	_	X	RB	_	2	goeswith	2:goeswith	CorrectForm=_|XML=</sic>
 4	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	6:nsubj	Entity=(4-person-giv:act-sssss-cf1*-1-ana)
 5	kinda	kinda	ADV	RB	Degree=Pos	6	advmod	6:advmod	MSeg=kind-a
@@ -33,7 +33,7 @@ The following 6 pairs of parts of speech are connected with `goeswith`: <tt><a h
 9	,	,	PUNCT	,	_	13	punct	13:punct	_
 10	but	but	CCONJ	CC	_	13	cc	13:cc	Discourse=adversative-contrast_m:33->32:0:dm-but-271-_|PDTB=Explicit:Comparison.Contrast:but:271:262-270:272-276
 11	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	13	nsubj	13:nsubj	Entity=(4-person-giv:act-sssss-cf1*-1-ana)
-12	never	never	ADV	RB	_	13	advmod	13:advmod	Negation=Yes
+12	never	never	ADV	RB	PronType=Neg	13	advmod	13:advmod	Negation=Yes
 13	met	meet	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	6	conj	6:conj:but	_
 14	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	obj	13:obj	Entity=(3-person-giv:act-sssss-cf2-1-ana)|SpaceAfter=No
 15	.	.	PUNCT	.	_	6	punct	6:punct	_
@@ -48,7 +48,7 @@ The following 6 pairs of parts of speech are connected with `goeswith`: <tt><a h
 # visual-style 11	fgColor:white
 # visual-style 11 12 goeswith	color:blue
 1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	3:det	Bridge=44<100:entity-associative|Discourse=adversative-contrast_m:102->97:1:_|Entity=(100-abstract-acc:inf-nnnnn-cf2-3-sgl|PDTB=Implicit:Comparison.Contrast:but:_:691-711:712-724
-2	simplest	simple	ADJ	JJS	Degree=Sup	3	amod	3:amod	_
+2	simplest	simple	ADJ	JJS	Degree=Sup	3	amod	3:amod	MSeg=simpl-est
 3	way	way	NOUN	NN	Number=Sing	7	nsubj:outer	7:nsubj:outer	Entity=100)
 4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	7:cop	_
 5	to	to	PART	TO	_	7	mark	7:mark	_

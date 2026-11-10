@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Skolt_Sami-Giellagas: POS Tags: `ADV`
 
-There are 87 `ADV` lemmas (16%), 90 `ADV` types (11%) and 308 `ADV` tokens (10%).
+There are 88 `ADV` lemmas (15%), 91 `ADV` types (10%) and 310 `ADV` tokens (10%).
 Out of 16 observed tags, the rank of `ADV` is: 3 in number of lemmas, 3 in number of types and 5 in number of tokens.
 
 The 10 most frequent `ADV` lemmas: <em>âʹtte, âʹpet, tok, de, kâʹl, mäʹhtt, pâi, teâđast, âʹte, nuʹtt</em>
@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>de</em> (<tt><a href="sms_giellagas-p
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.034483 (the average of all parts of speech is 1.487500).
+The form / lemma ratio of `ADV` is 1.034091 (the average of all parts of speech is 1.478778).
 
 The 1st highest number of forms (3) was observed with the lemma “nuʹtt”: <em>Nuʹtt, nuʹt, nuʹt-i</em>.
 
@@ -60,22 +60,22 @@ The 2nd highest number of forms (2) was observed with the lemma “eʹpet”: <e
 
 The 3rd highest number of forms (2) was observed with the lemma “koozz”: <em>koozz, koozz-a</em>.
 
-`ADV` occurs with 8 features: <tt><a href="sms_giellagas-feat-AdvType.html">AdvType</a></tt> (79; 26% instances), <tt><a href="sms_giellagas-feat-Case.html">Case</a></tt> (21; 7% instances), <tt><a href="sms_giellagas-feat-Clitic.html">Clitic</a></tt> (8; 3% instances), <tt><a href="sms_giellagas-feat-ExtPos.html">ExtPos</a></tt> (5; 2% instances), <tt><a href="sms_giellagas-feat-PronType.html">PronType</a></tt> (3; 1% instances), <tt><a href="sms_giellagas-feat-Typo.html">Typo</a></tt> (3; 1% instances), <tt><a href="sms_giellagas-feat-Number.html">Number</a></tt> (2; 1% instances), <tt><a href="sms_giellagas-feat-PartType.html">PartType</a></tt> (2; 1% instances)
+`ADV` occurs with 8 features: <tt><a href="sms_giellagas-feat-AdvType.html">AdvType</a></tt> (79; 25% instances), <tt><a href="sms_giellagas-feat-Case.html">Case</a></tt> (22; 7% instances), <tt><a href="sms_giellagas-feat-Clitic.html">Clitic</a></tt> (8; 3% instances), <tt><a href="sms_giellagas-feat-ExtPos.html">ExtPos</a></tt> (5; 2% instances), <tt><a href="sms_giellagas-feat-Number.html">Number</a></tt> (3; 1% instances), <tt><a href="sms_giellagas-feat-PronType.html">PronType</a></tt> (3; 1% instances), <tt><a href="sms_giellagas-feat-Typo.html">Typo</a></tt> (3; 1% instances), <tt><a href="sms_giellagas-feat-PartType.html">PartType</a></tt> (2; 1% instances)
 
 `ADV` occurs with 12 feature-value pairs: `AdvType=Tim`, `Case=Ill`, `Case=Loc`, `Clitic=AddI`, `Clitic=QstA`, `ExtPos=ADV`, `ExtPos=SCONJ`, `Number=Sing`, `PartType=Int`, `PronType=Int`, `PronType=Rel`, `Typo=Yes`
 
-`ADV` occurs with 16 feature combinations.
-The most frequent feature combination is `_` (199 tokens).
+`ADV` occurs with 17 feature combinations.
+The most frequent feature combination is `_` (200 tokens).
 Examples: <em>âʹpet, de, kâʹl, tok, mäʹhtt, teâđast, pâi, še, mååusat, toʹb</em>
 
 
 ## Relations
 
-`ADV` nodes are attached to their parents using 10 different relations: <tt><a href="sms_giellagas-dep-advmod.html">advmod</a></tt> (277; 90% instances), <tt><a href="sms_giellagas-dep-discourse.html">discourse</a></tt> (8; 3% instances), <tt><a href="sms_giellagas-dep-orphan.html">orphan</a></tt> (8; 3% instances), <tt><a href="sms_giellagas-dep-conj.html">conj</a></tt> (3; 1% instances), <tt><a href="sms_giellagas-dep-mark.html">mark</a></tt> (3; 1% instances), <tt><a href="sms_giellagas-dep-obl.html">obl</a></tt> (3; 1% instances), <tt><a href="sms_giellagas-dep-root.html">root</a></tt> (3; 1% instances), <tt><a href="sms_giellagas-dep-appos.html">appos</a></tt> (1; 0% instances), <tt><a href="sms_giellagas-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="sms_giellagas-dep-fixed.html">fixed</a></tt> (1; 0% instances)
+`ADV` nodes are attached to their parents using 10 different relations: <tt><a href="sms_giellagas-dep-advmod.html">advmod</a></tt> (279; 90% instances), <tt><a href="sms_giellagas-dep-discourse.html">discourse</a></tt> (8; 3% instances), <tt><a href="sms_giellagas-dep-orphan.html">orphan</a></tt> (8; 3% instances), <tt><a href="sms_giellagas-dep-conj.html">conj</a></tt> (3; 1% instances), <tt><a href="sms_giellagas-dep-mark.html">mark</a></tt> (3; 1% instances), <tt><a href="sms_giellagas-dep-obl.html">obl</a></tt> (3; 1% instances), <tt><a href="sms_giellagas-dep-root.html">root</a></tt> (3; 1% instances), <tt><a href="sms_giellagas-dep-appos.html">appos</a></tt> (1; 0% instances), <tt><a href="sms_giellagas-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="sms_giellagas-dep-fixed.html">fixed</a></tt> (1; 0% instances)
 
-Parents of `ADV` nodes belong to 9 different parts of speech: <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> (240; 78% instances), <tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> (20; 6% instances), <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> (18; 6% instances), <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (10; 3% instances), <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> (9; 3% instances), <tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt> (6; 2% instances),  (3; 1% instances), <tt><a href="sms_giellagas-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="sms_giellagas-pos-PROPN.html">PROPN</a></tt> (1; 0% instances)
+Parents of `ADV` nodes belong to 9 different parts of speech: <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> (242; 78% instances), <tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> (20; 6% instances), <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> (18; 6% instances), <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (10; 3% instances), <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> (9; 3% instances), <tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt> (6; 2% instances),  (3; 1% instances), <tt><a href="sms_giellagas-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="sms_giellagas-pos-PROPN.html">PROPN</a></tt> (1; 0% instances)
 
-281 (91%) `ADV` nodes are leaves.
+283 (91%) `ADV` nodes are leaves.
 
 20 (6%) `ADV` nodes have one child.
 

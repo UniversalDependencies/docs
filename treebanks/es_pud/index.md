@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.1 release.
 The following people have contributed to making this treebank part of UD: Hans Uszkoreit, Vivien Macketanz, Aljoscha Burchardt, Kim Harris, Katrin Marheinecke, Slav Petrov, Tolga Kayadelen, Mohammed Attia, Ali Elkahky, Zhuoran Yu, Emily Pitler, Saran Lertpradit, Hector Fernandez Alcalde, Laura Moreno Romero, Martin Popel, Daniel Zeman, Héctor Martínez Alonso.
 
 Repository: [UD_Spanish-PUD](https://github.com/UniversalDependencies/UD_Spanish-PUD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udes_pud218)<br />
-Download all treebanks: [UD 2.18](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udes_pud219)<br />
+Download all treebanks: [UD 2.19](/#download)
 
 License: CC BY-SA 3.0
 
@@ -129,7 +129,7 @@ employ ten-fold cross-validation.
 </ul>
 
 <ul>
-<li>This corpus contains 20 lemmas tagged as pronouns (PRON): I, cual, cualquiera, cuanto, cuál, cuáles, her, my, que, quien, quién, qué, su, suyo, tanto, tú, uno, yo, you, él</li>
+<li>This corpus contains 21 lemmas tagged as pronouns (PRON): I, algo, cual, cualquiera, cuanto, cuál, cuáles, her, my, que, quien, quién, qué, su, suyo, tanto, tú, uno, yo, you, él</li>
 </ul>
 
 <ul>
@@ -257,7 +257,7 @@ employ ten-fold cross-validation.
       <li>AUX-Part: sido, estado</li>
       <li>DET: el, la, un, una, este, esta, esto, cada, ese, eso</li>
       <li>NOUN: año, guerra, lugar, parte, gobierno, mar, ciudad, estado, vez, día</li>
-      <li>PRON: su, que, lo, le, cual, me, él, ella, quien, la</li>
+      <li>PRON: su, que, lo, le, cual, me, él, ella, quien, algo</li>
       <li>PROPN: China, Europa, Italia, Australia, Pekín, Albania, Francia, Trump, Bretaña, C.</li>
       <li>VERB-Fin: dijo, tiene, es, hay, hace, está, dice, afirmó, convirtió, declaró</li>
       <li>VERB-Part: debido, hecho, escrito, tenido, dado, dejado, dirigida, visto, acusado, declarado</li>
@@ -529,7 +529,7 @@ employ ten-fold cross-validation.
   <li>Ind
     <ul>
       <li>DET: muchos, muchas, otros, varios, otra, otro, algunos, varias, otras, algunas</li>
-      <li>PRON: una, Ya, cualquiera</li>
+      <li>PRON: algo, una, Ya, cualquiera</li>
     </ul>
   </li>
 </ul>
@@ -537,6 +537,7 @@ employ ten-fold cross-validation.
 <ul>
   <li>Int
     <ul>
+      <li>ADV: cómo</li>
       <li>DET: qué</li>
       <li>PRON: qué, cuál, quién, Cuáles, Quiénes</li>
     </ul>
@@ -725,7 +726,7 @@ employ ten-fold cross-validation.
     <ul>
       <li>ADP
         <ul>
-          <li>ADP: a, en, por, De, con, para</li>
+          <li>ADP: a, en, De, para</li>
           <li>ADV: acerca, junto</li>
           <li>NOUN: frente</li>
           <li>VERB-Part: debido</li>
@@ -734,7 +735,7 @@ employ ten-fold cross-validation.
       <li>ADV
         <ul>
           <li>ADJ: Tal</li>
-          <li>ADP: a, en, por, sobre, de, per</li>
+          <li>ADP: a, por, sobre, de, en, per</li>
           <li>ADV: alrededor, hoy, Claro, mas, Más</li>
           <li>SCONJ: Mientras</li>
           <li>VERB-Fin: puede, es</li>
@@ -751,7 +752,7 @@ employ ten-fold cross-validation.
         <ul>
           <li>ADV: ya, así, siempre</li>
           <li>DET: una</li>
-          <li>SCONJ: a, mientras, hasta, como, de, para, En, sin</li>
+          <li>SCONJ: mientras, hasta, como, para, En, a, sin</li>
           <li>VERB-Part: debido</li>
         </ul>
       </li>
@@ -909,8 +910,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB-Fin--NOUN (498)</li>
-      <li>VERB-Fin--PRON (132)</li>
+      <li>VERB-Fin--NOUN (496)</li>
+      <li>VERB-Fin--PRON (133)</li>
       <li>VERB-Fin--PRON-Acc,Nom (13)</li>
       <li>VERB-Fin--PRON-Nom (4)</li>
       <li>VERB-Ger--NOUN (16)</li>
@@ -930,15 +931,15 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB-Fin--NOUN (391)</li>
-      <li>VERB-Fin--PRON (24)</li>
+      <li>VERB-Fin--NOUN (389)</li>
+      <li>VERB-Fin--PRON (26)</li>
       <li>VERB-Fin--PRON-Acc (25)</li>
       <li>VERB-Fin--PRON-Acc,Dat (4)</li>
       <li>VERB-Ger--NOUN (36)</li>
       <li>VERB-Ger--PRON (2)</li>
       <li>VERB-Ger--PRON-Acc (6)</li>
-      <li>VERB-Inf--NOUN (195)</li>
-      <li>VERB-Inf--PRON (5)</li>
+      <li>VERB-Inf--NOUN (194)</li>
+      <li>VERB-Inf--PRON (6)</li>
       <li>VERB-Inf--PRON-Acc (13)</li>
       <li>VERB-Inf--PRON-Acc,Dat (1)</li>
       <li>VERB-Part--NOUN (39)</li>

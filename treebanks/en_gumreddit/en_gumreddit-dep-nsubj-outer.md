@@ -97,7 +97,7 @@ The following 6 pairs of parts of speech are connected with `nsubj:outer`: <tt><
 5	_	_	NOUN	NNS	Number=Plur	11	nsubj	11:nsubj	Entity=24)|Lem=instinct|Len=9|MSeg=instinct-s
 6	_	_	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	11	cop	11:cop	Lem=be|Len=4
 7	_	_	ADV	RBR	Degree=Cmp	8	advmod	8:advmod	Lem=_|Len=4
-8	_	_	ADV	RB	Degree=Pos	11	advmod	11:advmod	Lem=_|Len=5
+8	_	_	ADV	RB	Degree=Pos	11	advmod	11:advmod	Lem=_|Len=5|MSeg=oft-en
 9	_	_	SCONJ	IN	_	10	mark	10:mark	Lem=_|Len=4
 10	_	_	PART	RB	Polarity=Neg	8	advcl	8:advcl:than	Lem=_|Len=3|Negation=Yes
 11	_	_	ADJ	JJ	Degree=Pos	0	root	0:root	Lem=_|Len=7

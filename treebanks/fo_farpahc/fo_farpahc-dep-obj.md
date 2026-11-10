@@ -48,7 +48,7 @@ The following 27 pairs of parts of speech are connected with `obj`: <tt><a href=
 5	högru	_	ADJ	ADJ-A	Case=Acc|Degree=Pos	6	amod	_	_
 6	hond	_	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	3	obl	_	_
 7	á	_	ADP	P	_	8	case	_	_
-8	honum	_	PRON	PRO-D	Case=Dat	6	obl	_	_
+8	honum	_	PRON	PRO-D	Case=Dat	6	nmod	_	_
 9	og	_	CCONJ	CONJ	_	10	cc	_	_
 10	reisti	_	VERB	VBDI	Mood=Ind|Tense=Past	3	conj	_	OriginalHead=0
 11	hann	_	PRON	PRO-A	Case=Acc	10	obj	_	_

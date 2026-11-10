@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 4 different values: `Fin`, `Ger`, `Inf`, `Part`.
 
-2405 tokens (14%) have a non-empty value of `VerbForm`.
-908 types (25%) occur at least once with a non-empty value of `VerbForm`.
+2408 tokens (14%) have a non-empty value of `VerbForm`.
+909 types (25%) occur at least once with a non-empty value of `VerbForm`.
 562 lemmas (18%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 2 part-of-speech tags: <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt> (1652; 9% instances), <tt><a href="en_gentle-pos-AUX.html">AUX</a></tt> (753; 4% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt> (1655; 9% instances), <tt><a href="en_gentle-pos-AUX.html">AUX</a></tt> (753; 4% instances).
 
 ### `VERB`
 
-1652 <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
+1655 <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="en_gentle-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (1393; 84%), <tt><a href="en_gentle-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (1082; 65%), <tt><a href="en_gentle-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1082; 65%), <tt><a href="en_gentle-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1082; 65%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="en_gentle-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (1396; 84%), <tt><a href="en_gentle-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (1087; 66%), <tt><a href="en_gentle-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1087; 66%), <tt><a href="en_gentle-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1087; 66%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
-* `Fin` (570; 35% of non-empty `VerbForm`): <em>has, let, have, said, Suppose, follows, is, know, had, see</em>
+* `Fin` (568; 34% of non-empty `VerbForm`): <em>has, let, have, said, Suppose, follows, is, know, had, see</em>
 * `Ger` (107; 6% of non-empty `VerbForm`): <em>following, increasing, Testing, having, rapping, working, dissenting, entreating, involving, killing</em>
-* `Inf` (440; 27% of non-empty `VerbForm`): <em>have, do, get, see, make, take, try, become, continue, go</em>
+* `Inf` (445; 27% of non-empty `VerbForm`): <em>have, do, get, see, make, take, try, become, continue, go</em>
 * `Part` (535; 32% of non-empty `VerbForm`): <em>gon, done, going, noted, given, having, applied, assigned, charged, connected</em>
 * `EMPTY` (1): <em>Be</em>
 
@@ -48,12 +48,12 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 
 753 <tt><a href="en_gentle-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="en_gentle-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (462; 61%), <tt><a href="en_gentle-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (391; 52%), <tt><a href="en_gentle-feat-Person.html">Person</a></tt><tt>=3</tt> (383; 51%), <tt><a href="en_gentle-feat-Number.html">Number</a></tt><tt>=Sing</tt> (382; 51%).
+The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="en_gentle-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (462; 61%), <tt><a href="en_gentle-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (391; 52%), <tt><a href="en_gentle-feat-Number.html">Number</a></tt><tt>=Sing</tt> (386; 51%), <tt><a href="en_gentle-feat-Person.html">Person</a></tt><tt>=3</tt> (383; 51%).
 
 `AUX` tokens may have the following values of `VerbForm`:
 
-* `Fin` (647; 86% of non-empty `VerbForm`): <em>is, will, can, was, are, 's, has, may, would, should</em>
-* `Inf` (85; 11% of non-empty `VerbForm`): <em>be, have, do, get</em>
+* `Fin` (651; 86% of non-empty `VerbForm`): <em>is, will, can, was, are, 's, has, may, would, do</em>
+* `Inf` (81; 11% of non-empty `VerbForm`): <em>be, have, get</em>
 * `Part` (21; 3% of non-empty `VerbForm`): <em>been, being, Having</em>
 
 <table>
@@ -77,7 +77,7 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
 ## Relations with Agreement in `VerbForm`
 
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
-<tt>VERB --[<tt><a href="en_gentle-dep-conj.html">conj</a></tt>]--> VERB</tt> (122; 83%),
+<tt>VERB --[<tt><a href="en_gentle-dep-conj.html">conj</a></tt>]--> VERB</tt> (123; 83%),
 <tt>VERB --[<tt><a href="en_gentle-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (44; 60%),
 <tt>VERB --[<tt><a href="en_gentle-dep-advcl-relcl.html">advcl:relcl</a></tt>]--> VERB</tt> (2; 67%),
 <tt>VERB --[<tt><a href="en_gentle-dep-conj.html">conj</a></tt>]--> AUX</tt> (2; 67%),

@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Latvian-LVTB: POS Tags: `SCONJ`
 
-There are 23 `SCONJ` lemmas (0%), 27 `SCONJ` types (0%) and 7257 `SCONJ` tokens (2%).
+There are 22 `SCONJ` lemmas (0%), 26 `SCONJ` types (0%) and 7256 `SCONJ` tokens (2%).
 Out of 17 observed tags, the rank of `SCONJ` is: 16 in number of lemmas, 17 in number of types and 12 in number of tokens.
 
 The 10 most frequent `SCONJ` lemmas: <em>ka, lai, kā, ja, jo, nekā, vai, kamēr, tā, līdz</em>
 
 The 10 most frequent `SCONJ` types:  <em>ka, lai, kā, ja, jo, nekā, vai, kamēr, tā, līdz</em>
 
-The 10 most frequent ambiguous lemmas: <em>ka</em> (<tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> 3095, <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> 1), <em>lai</em> (<tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> 1025, <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> 60), <em>kā</em> (<tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> 914, <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> 612, <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> 340, <tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt> 55), <em>ja</em> (<tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> 817, <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> 2), <em>jo</em> (<tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> 723, <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> 33), <em>nekā</em> (<tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> 199, <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> 5, <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> 3), <em>vai</em> (<tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt> 938, <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> 314, <tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> 154, <tt><a href="lv_lvtb-pos-INTJ.html">INTJ</a></tt> 3), <em>kamēr</em> (<tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> 104, <tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt> 2), <em>tā</em> (<tt><a href="lv_lvtb-pos-DET.html">DET</a></tt> 1389, <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> 438, <tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> 57, <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> 29, <tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt> 10, <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> 2), <em>līdz</em> (<tt><a href="lv_lvtb-pos-ADP.html">ADP</a></tt> 492, <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> 100, <tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> 46, <tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt> 7)
+The 10 most frequent ambiguous lemmas: <em>ka</em> (<tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> 3095, <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> 1), <em>lai</em> (<tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> 1025, <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> 60), <em>kā</em> (<tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> 914, <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> 612, <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> 340, <tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt> 55), <em>ja</em> (<tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> 817, <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> 2), <em>jo</em> (<tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> 723, <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> 33), <em>nekā</em> (<tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> 199, <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> 5, <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> 3), <em>vai</em> (<tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt> 938, <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> 314, <tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> 154, <tt><a href="lv_lvtb-pos-INTJ.html">INTJ</a></tt> 3), <em>kamēr</em> (<tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> 104, <tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt> 2), <em>tā</em> (<tt><a href="lv_lvtb-pos-DET.html">DET</a></tt> 1390, <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> 438, <tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> 57, <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> 29, <tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt> 10, <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> 1), <em>līdz</em> (<tt><a href="lv_lvtb-pos-ADP.html">ADP</a></tt> 492, <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> 100, <tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> 46, <tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt> 7)
 
 The 10 most frequent ambiguous types:  <em>ka</em> (<tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> 3084, <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> 3, <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> 2), <em>lai</em> (<tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> 832, <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> 43), <em>kā</em> (<tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> 845, <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> 438, <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> 338, <tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt> 49, <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> 34), <em>ja</em> (<tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> 467, <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> 2), <em>jo</em> (<tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> 661, <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> 31), <em>nekā</em> (<tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> 198, <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> 17, <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> 6, <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> 3), <em>vai</em> (<tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt> 904, <tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> 154, <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> 130, <tt><a href="lv_lvtb-pos-INTJ.html">INTJ</a></tt> 1), <em>kamēr</em> (<tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> 86, <tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt> 2), <em>tā</em> (<tt><a href="lv_lvtb-pos-DET.html">DET</a></tt> 587, <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> 355, <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> 24, <tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> 14, <tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt> 10), <em>līdz</em> (<tt><a href="lv_lvtb-pos-ADP.html">ADP</a></tt> 446, <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> 55, <tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> 43, <tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt> 6, <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> 1)
 
@@ -23,41 +23,41 @@ The 10 most frequent ambiguous types:  <em>ka</em> (<tt><a href="lv_lvtb-pos-SCO
   * <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> 3: <em>Vecenes jau paklīdušas , pārītis vēl tikai , stumšos <b>ka</b> tālāk .</em>
   * <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> 2: <em>Un šī ir vēl viena lieto , <b>ka</b> var darīt kopā ar bērniem .</em>
 * <em>lai</em>
-  * <tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> 832: <em>Es piecietīšu visu , <b>lai</b> tas tā notiktu .</em>
-  * <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> 43: <em>Lai notiek , <b>lai</b> dusmojas .</em>
+  * <tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> 832: <em>Ātrāk jālaižas , <b>lai</b> paildzinām rūgto apiņu garšu mutē .</em>
+  * <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> 43: <em>Kā no tā <b>lai</b> atsakās ?!</em>
 * <em>kā</em>
-  * <tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> 845: <em>Tā bija <b>kā</b> īslaicīga apmātība .</em>
-  * <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> 438: <em>Tu redzi , <b>kā</b> sarunājas ?</em>
+  * <tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> 845: <em>Ilze brēc <b>kā</b> vārtrūmē pamests kaķēns .</em>
+  * <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> 438: <em>Viss atkarīgs no tā , <b>kā</b> palaimējies nodzīvot dzīvi .</em>
   * <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> 338: <em>Viss stāvs it <b>kā</b> strauji novīta - kā puķe vāzē .</em>
-  * <tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt> 49: <em>It <b>kā</b> zābakos būtu iemiesojies kāds neredzams cilvēks !</em>
+  * <tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt> 49: <em>VID ir <b>kā</b> liela , melna govs .</em>
   * <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> 34: <em>Ne no <b>kā</b> nenākas atteikties .</em>
 * <em>ja</em>
-  * <tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> 467: <em>Vai arī no zelta , jā , droši vien no zelta , <b>ja</b> jau tik sīka .</em>
+  * <tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> 467: <em>Dzīve ir pilna prieka , <b>ja</b> tā ir brīva no visām saitēm .</em>
   * <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> 2: <em>- Nu <b>ja</b> , tu jau tā gudrā , tu labāk zini .</em>
 * <em>jo</em>
-  * <tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> 661: <em>Edgars apklust , <b>jo</b> pa slimnīcas vārtiem iznāk Silvija .</em>
-  * <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> 31: <em>Vai to var saukt par mīlestību , vēl <b>jo</b> vairāk brīvu ?</em>
+  * <tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> 661: <em>Tas varētu tā būt , <b>jo</b> man likās , ka eksistē paralēlās pasaules .</em>
+  * <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> 31: <em>Vēl <b>jo</b> vairāk – atrasties pie viena galda ...</em>
 * <em>nekā</em>
-  * <tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> 198: <em>Viņa bija simtreiz spējīgāka <b>nekā</b> es .</em>
+  * <tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> 198: <em>Kaloritātes ziņā šī masa ir augstvērtīgāka <b>nekā</b> šķelda .</em>
   * <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> 17: <em>Nedzirdi <b>nekā</b> .</em>
   * <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> 6: <em>Izklausās , ka būt otrajam vīram ir grūtāk <b>nekā</b> pirmajam ?</em>
   * <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> 3: <em>Dārgajā tirgus daļā stingrāki banku aizdevumu noteikumi bagātniekus neietekmē <b>nekā</b> .</em>
 * <em>vai</em>
-  * <tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt> 904: <em>Ved <b>vai</b> neved , dubļi nāk pa durvīm iekšā .</em>
+  * <tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt> 904: <em>Un viss atkal riņķo ap pacienta stāstīto <b>vai</b> nestāstīto .</em>
   * <tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> 154: <em>Protams , ir jārēķina , <b>vai</b> ir jēga to darīt .</em>
-  * <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> 130: <em>Klau , <b>vai</b> tagad arī uz palodzes negrabinās viena zilzīlīte ?</em>
+  * <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> 130: <em>" Klau , <b>vai</b> tu savu bēri nebaro ? "</em>
   * <tt><a href="lv_lvtb-pos-INTJ.html">INTJ</a></tt> 1: <em>– Vai , manu , <b>vai</b> !</em>
 * <em>kamēr</em>
-  * <tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> 86: <em>Ārsts nevar zināt , ko sarunu biedrs domā , <b>kamēr</b> tas netiek pateikts .</em>
+  * <tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> 86: <em>Kamēr gaļa cepas , sālsūdenī vāra grūbas , <b>kamēr</b> tās mīkstas .</em>
   * <tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt> 2: <em>Priecīgu trelli uzrauj putni , <b>kamēr</b> stirnu buks aizdamsī tumšajā biezoknī , bet mērkaziņa strīķē savu skanīgo mēlīti .</em>
 * <em>tā</em>
-  * <tt><a href="lv_lvtb-pos-DET.html">DET</a></tt> 587: <em>- Klau , <b>tā</b> sieviete .</em>
-  * <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> 355: <em>Kā tu <b>tā</b> , bračkiņ ?!</em>
-  * <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> 24: <em>- Nu nav taču kur , jau <b>tā</b> kājas slapjas .</em>
+  * <tt><a href="lv_lvtb-pos-DET.html">DET</a></tt> 587: <em>Palīdzība ir nepieciešama un pieejama ikvienam , no <b>tā</b> nav jābaidās .</em>
+  * <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> 355: <em>Centos saistīt viņas sirdi — paveicās , <b>tā</b> — uz pusēm .</em>
+  * <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> 24: <em>Nu <b>tā</b> , prijehali .</em>
   * <tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> 14: <em>Viņai ir negatīvais rēzuss , <b>tā</b> ka jūs nākat kā saukts .</em>
   * <tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt> 10: <em>Kā pirka lepnas mājas par skaidru naudu agrāk , <b>tā</b> pērk tagad .</em>
 * <em>līdz</em>
-  * <tt><a href="lv_lvtb-pos-ADP.html">ADP</a></tt> 446: <em>Pēc filmas Elki pavadīju <b>līdz</b> frizētavai , kur atradās viņas mašīna .</em>
+  * <tt><a href="lv_lvtb-pos-ADP.html">ADP</a></tt> 446: <em>DIDZI , VAI PAVADĪSI mani <b>līdz</b> Rozēm ? "</em>
   * <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> 55: <em>Ierušinājos segas mīkstumā un gaidīju , <b>līdz</b> viņš aizies .</em>
   * <tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> 43: <em>( Pievienota 6. <b>līdz</b> 9. rindkopa . )</em>
   * <tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt> 6: <em>Vāra 30 <b>līdz</b> 45 minūtes , izkāš caur sietiņu .</em>
@@ -65,7 +65,7 @@ The 10 most frequent ambiguous types:  <em>ka</em> (<tt><a href="lv_lvtb-pos-SCO
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.173913 (the average of all parts of speech is 2.342815).
+The form / lemma ratio of `SCONJ` is 1.181818 (the average of all parts of speech is 2.343431).
 
 The 1st highest number of forms (3) was observed with the lemma “ka”: <em>ka, kad, kā</em>.
 
@@ -78,17 +78,17 @@ The 3rd highest number of forms (2) was observed with the lemma “ja”: <em>ja
 `SCONJ` occurs with 2 feature-value pairs: `ExtPos=SCONJ`, `Typo=Yes`
 
 `SCONJ` occurs with 3 feature combinations.
-The most frequent feature combination is `_` (7036 tokens).
+The most frequent feature combination is `_` (7035 tokens).
 Examples: <em>ka, kā, lai, ja, jo, nekā, vai, kamēr, līdz, tiklīdz</em>
 
 
 ## Relations
 
-`SCONJ` nodes are attached to their parents using 10 different relations: <tt><a href="lv_lvtb-dep-mark.html">mark</a></tt> (6905; 95% instances), <tt><a href="lv_lvtb-dep-fixed.html">fixed</a></tt> (232; 3% instances), <tt><a href="lv_lvtb-dep-discourse.html">discourse</a></tt> (49; 1% instances), <tt><a href="lv_lvtb-dep-cc.html">cc</a></tt> (43; 1% instances), <tt><a href="lv_lvtb-dep-dep.html">dep</a></tt> (14; 0% instances), <tt><a href="lv_lvtb-dep-case.html">case</a></tt> (10; 0% instances), <tt><a href="lv_lvtb-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="lv_lvtb-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="lv_lvtb-dep-conj.html">conj</a></tt> (1; 0% instances), <tt><a href="lv_lvtb-dep-nmod.html">nmod</a></tt> (1; 0% instances)
+`SCONJ` nodes are attached to their parents using 10 different relations: <tt><a href="lv_lvtb-dep-mark.html">mark</a></tt> (6905; 95% instances), <tt><a href="lv_lvtb-dep-fixed.html">fixed</a></tt> (232; 3% instances), <tt><a href="lv_lvtb-dep-discourse.html">discourse</a></tt> (49; 1% instances), <tt><a href="lv_lvtb-dep-cc.html">cc</a></tt> (43; 1% instances), <tt><a href="lv_lvtb-dep-dep.html">dep</a></tt> (13; 0% instances), <tt><a href="lv_lvtb-dep-case.html">case</a></tt> (10; 0% instances), <tt><a href="lv_lvtb-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="lv_lvtb-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="lv_lvtb-dep-conj.html">conj</a></tt> (1; 0% instances), <tt><a href="lv_lvtb-dep-nmod.html">nmod</a></tt> (1; 0% instances)
 
-Parents of `SCONJ` nodes belong to 13 different parts of speech: <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (5344; 74% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (942; 13% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> (422; 6% instances), <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (276; 4% instances), <tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> (64; 1% instances), <tt><a href="lv_lvtb-pos-DET.html">DET</a></tt> (61; 1% instances), <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> (50; 1% instances), <tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt> (37; 1% instances), <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> (28; 0% instances), <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> (18; 0% instances), <tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (9; 0% instances), <tt><a href="lv_lvtb-pos-X.html">X</a></tt> (5; 0% instances), <tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt> (1; 0% instances)
+Parents of `SCONJ` nodes belong to 13 different parts of speech: <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (5343; 74% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (942; 13% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> (422; 6% instances), <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (276; 4% instances), <tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> (64; 1% instances), <tt><a href="lv_lvtb-pos-DET.html">DET</a></tt> (61; 1% instances), <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> (50; 1% instances), <tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt> (37; 1% instances), <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> (28; 0% instances), <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> (18; 0% instances), <tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (9; 0% instances), <tt><a href="lv_lvtb-pos-X.html">X</a></tt> (5; 0% instances), <tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt> (1; 0% instances)
 
-7029 (97%) `SCONJ` nodes are leaves.
+7028 (97%) `SCONJ` nodes are leaves.
 
 224 (3%) `SCONJ` nodes have one child.
 

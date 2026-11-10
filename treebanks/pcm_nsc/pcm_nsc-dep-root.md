@@ -22,19 +22,19 @@ The following 14 pairs of parts of speech are connected with `root`: -<tt><a hre
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 4 root	color:blue
-1	#	#	PUNCT	_	_	4	punct	_	AlignBegin=10145|AlignEnd=10516|Gloss=PUNCT
-2	sey	sey	SCONJ	_	_	4	discourse	_	AlignBegin=10516|AlignEnd=10640|Gloss=COMP
-3	e	im	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	AlignBegin=10640|AlignEnd=10679|Gloss=NOM.SG.3
-4	wan	want	VERB	_	_	0	root	_	AlignBegin=10679|AlignEnd=10850|Gloss=want
-5	carry	carry	VERB	_	_	4	xcomp	_	AlignBegin=10850|AlignEnd=11170|Gloss=carry
-6	me	me	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	5	obj	_	AlignBegin=11170|AlignEnd=11370|Gloss=ACC.SG.1
-7	go	go	VERB	_	_	5	compound:svc	_	AlignBegin=11370|AlignEnd=11533|Gloss=go
-8	meh	make	SCONJ	_	_	10	mark	_	AlignBegin=11533|AlignEnd=11710|Gloss=that
-9	e	im	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	AlignBegin=11710|AlignEnd=11770|Gloss=NOM.SG.3
-10	go	go	VERB	_	_	5	advcl	_	AlignBegin=11770|AlignEnd=12120|Gloss=go
-11	train	train	VERB	_	_	10	compound:svc	_	AlignBegin=12120|AlignEnd=12430|Gloss=train
-12	me	me	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	11	obj	_	AlignBegin=12430|AlignEnd=12580|Gloss=ACC.SG.1
-13	//	//	PUNCT	_	_	4	punct	_	AlignBegin=12580|AlignEnd=12580|Gloss=PUNCT
+1	#	#	PUNCT	_	_	4	punct	_	Gloss=PUNCT|WordAlignmentBegin=10145|WordAlignmentEnd=10516
+2	sey	sey	SCONJ	_	_	4	discourse	_	Gloss=COMP|WordAlignmentBegin=10516|WordAlignmentEnd=10640
+3	e	im	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	Gloss=NOM.SG.3|WordAlignmentBegin=10640|WordAlignmentEnd=10679
+4	wan	want	VERB	_	_	0	root	_	Gloss=want|WordAlignmentBegin=10679|WordAlignmentEnd=10850
+5	carry	carry	VERB	_	_	4	xcomp	_	Gloss=carry|WordAlignmentBegin=10850|WordAlignmentEnd=11170
+6	me	me	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	5	obj	_	Gloss=ACC.SG.1|WordAlignmentBegin=11170|WordAlignmentEnd=11370
+7	go	go	VERB	_	_	5	compound:svc	_	Gloss=go|WordAlignmentBegin=11370|WordAlignmentEnd=11533
+8	meh	make	SCONJ	_	_	10	mark	_	Gloss=that|WordAlignmentBegin=11533|WordAlignmentEnd=11710
+9	e	im	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	Gloss=NOM.SG.3|WordAlignmentBegin=11710|WordAlignmentEnd=11770
+10	go	go	VERB	_	_	5	advcl	_	Gloss=go|WordAlignmentBegin=11770|WordAlignmentEnd=12120
+11	train	train	VERB	_	_	10	compound:svc	_	Gloss=train|WordAlignmentBegin=12120|WordAlignmentEnd=12430
+12	me	me	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	11	obj	_	Gloss=ACC.SG.1|WordAlignmentBegin=12430|WordAlignmentEnd=12580
+13	//	//	PUNCT	_	_	4	punct	_	Gloss=PUNCT|WordAlignmentBegin=12580|WordAlignmentEnd=12580
 
 ~~~
 
@@ -45,17 +45,17 @@ The following 14 pairs of parts of speech are connected with `root`: -<tt><a hre
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 4 root	color:blue
-1	#	#	PUNCT	_	_	4	punct	_	AlignBegin=388515|AlignEnd=388865|Gloss=PUNCT
-2	na	na	AUX	_	PartType=Cop	4	cop	_	AlignBegin=388865|AlignEnd=389054|Gloss=be
-3	dis	dis	DET	_	Number=Sing|PronType=Dem	4	det	_	AlignBegin=389054|AlignEnd=389344|Gloss=SG.DEM
-4	year	year	NOUN	_	_	0	root	_	AlignBegin=389344|AlignEnd=389491|Gloss=year
-5	own	own	ADJ	_	_	4	amod	_	AlignBegin=389491|AlignEnd=389704|Gloss=own
-6	ma	ma	PART	_	PartType=Disc	4	discourse	_	AlignBegin=389704|AlignEnd=389884|Gloss=FOC
-7	>+	>+	PUNCT	_	_	9	punct	_	AlignBegin=389884|AlignEnd=389884|Gloss=PUNCT
-8	con	con	AUX	_	Aspect=Cons	9	aux	_	AlignBegin=389884|AlignEnd=390144|Gloss=CONS
-9	worse	worse	VERB	_	_	4	advcl:cleft	_	AlignBegin=390144|AlignEnd=390381|Gloss=worse
-10	pass	pass	VERB	_	_	9	compound:svc	_	AlignBegin=390381|AlignEnd=390653|Gloss=pass
-11	//	//	PUNCT	_	_	4	punct	_	AlignBegin=390653|AlignEnd=390653|Gloss=PUNCT
+1	#	#	PUNCT	_	_	4	punct	_	Gloss=PUNCT|WordAlignmentBegin=388515|WordAlignmentEnd=388865
+2	na	na	AUX	_	PartType=Cop	4	cop	_	Gloss=be|WordAlignmentBegin=388865|WordAlignmentEnd=389054
+3	dis	dis	DET	_	Number=Sing|PronType=Dem	4	det	_	Gloss=SG.DEM|WordAlignmentBegin=389054|WordAlignmentEnd=389344
+4	year	year	NOUN	_	_	0	root	_	Gloss=year|WordAlignmentBegin=389344|WordAlignmentEnd=389491
+5	own	own	ADJ	_	_	4	amod	_	Gloss=own|WordAlignmentBegin=389491|WordAlignmentEnd=389704
+6	ma	ma	PART	_	PartType=Disc	4	discourse	_	Gloss=FOC|WordAlignmentBegin=389704|WordAlignmentEnd=389884
+7	>+	>+	PUNCT	_	_	9	punct	_	Gloss=PUNCT|WordAlignmentBegin=389884|WordAlignmentEnd=389884
+8	con	con	AUX	_	Aspect=Cons	9	aux	_	Gloss=CONS|WordAlignmentBegin=389884|WordAlignmentEnd=390144
+9	worse	worse	VERB	_	_	4	advcl:cleft	_	Gloss=worse|WordAlignmentBegin=390144|WordAlignmentEnd=390381
+10	pass	pass	VERB	_	_	9	compound:svc	_	Gloss=pass|WordAlignmentBegin=390381|WordAlignmentEnd=390653
+11	//	//	PUNCT	_	_	4	punct	_	Gloss=PUNCT|WordAlignmentBegin=390653|WordAlignmentEnd=390653
 
 ~~~
 
@@ -66,15 +66,15 @@ The following 14 pairs of parts of speech are connected with `root`: -<tt><a hre
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 2 root	color:blue
-1	sey	sey	SCONJ	_	_	2	discourse	_	AlignBegin=174550|AlignEnd=174761|Gloss=COMP
-2	wetin	wetin	PRON	_	PronType=Int	0	root	_	AlignBegin=174761|AlignEnd=175070|Gloss=what.Q
-3	me	me	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	dislocated	_	AlignBegin=175070|AlignEnd=175130|Gloss=NOM.SG.1
-4	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	AlignBegin=175130|AlignEnd=175273|Gloss=NOM.SG.1
-5	wan	want	VERB	_	_	2	advcl:cleft	_	AlignBegin=175273|AlignEnd=175460|Gloss=want
-6	go	go	VERB	_	_	5	xcomp	_	AlignBegin=175460|AlignEnd=175590|Gloss=go
-7	learn	learn	VERB	_	_	6	compound:svc	_	AlignBegin=175590|AlignEnd=175820|Gloss=learn
-8	now	now	ADV	_	_	7	advmod	_	AlignBegin=175820|AlignEnd=176080|Gloss=now
-9	?//	?//	PUNCT	_	_	2	punct	_	AlignBegin=176080|AlignEnd=176080|Gloss=PUNCT
+1	sey	sey	SCONJ	_	_	2	discourse	_	Gloss=COMP|WordAlignmentBegin=174550|WordAlignmentEnd=174761
+2	wetin	wetin	PRON	_	PronType=Int	0	root	_	Gloss=what.Q|WordAlignmentBegin=174761|WordAlignmentEnd=175070
+3	me	me	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	dislocated	_	Gloss=NOM.SG.1|WordAlignmentBegin=175070|WordAlignmentEnd=175130
+4	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	Gloss=NOM.SG.1|WordAlignmentBegin=175130|WordAlignmentEnd=175273
+5	wan	want	VERB	_	_	2	advcl:cleft	_	Gloss=want|WordAlignmentBegin=175273|WordAlignmentEnd=175460
+6	go	go	VERB	_	_	5	xcomp	_	Gloss=go|WordAlignmentBegin=175460|WordAlignmentEnd=175590
+7	learn	learn	VERB	_	_	6	compound:svc	_	Gloss=learn|WordAlignmentBegin=175590|WordAlignmentEnd=175820
+8	now	now	ADV	_	_	7	advmod	_	Gloss=now|WordAlignmentBegin=175820|WordAlignmentEnd=176080
+9	?//	?//	PUNCT	_	_	2	punct	_	Gloss=PUNCT|WordAlignmentBegin=176080|WordAlignmentEnd=176080
 
 ~~~
 

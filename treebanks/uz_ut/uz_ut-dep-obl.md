@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-602 nodes (10%) are attached to their parents as `obl`.
+555 nodes (9%) are attached to their parents as `obl`.
 
-600 instances of `obl` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.02491694352159.
+555 instances of `obl` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.17297297297297.
 
-The following 24 pairs of parts of speech are connected with `obl`: <tt><a href="uz_ut-pos-VERB.html">VERB</a></tt>-<tt><a href="uz_ut-pos-NOUN.html">NOUN</a></tt> (424; 70% instances), <tt><a href="uz_ut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uz_ut-pos-NOUN.html">NOUN</a></tt> (52; 9% instances), <tt><a href="uz_ut-pos-VERB.html">VERB</a></tt>-<tt><a href="uz_ut-pos-PRON.html">PRON</a></tt> (26; 4% instances), <tt><a href="uz_ut-pos-VERB.html">VERB</a></tt>-<tt><a href="uz_ut-pos-PROPN.html">PROPN</a></tt> (25; 4% instances), <tt><a href="uz_ut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uz_ut-pos-NOUN.html">NOUN</a></tt> (24; 4% instances), <tt><a href="uz_ut-pos-VERB.html">VERB</a></tt>-<tt><a href="uz_ut-pos-NUM.html">NUM</a></tt> (7; 1% instances), <tt><a href="uz_ut-pos-VERB.html">VERB</a></tt>-<tt><a href="uz_ut-pos-VERB.html">VERB</a></tt> (7; 1% instances), <tt><a href="uz_ut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uz_ut-pos-PRON.html">PRON</a></tt> (5; 1% instances), <tt><a href="uz_ut-pos-VERB.html">VERB</a></tt>-<tt><a href="uz_ut-pos-ADJ.html">ADJ</a></tt> (5; 1% instances), <tt><a href="uz_ut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uz_ut-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="uz_ut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uz_ut-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="uz_ut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uz_ut-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="uz_ut-pos-VERB.html">VERB</a></tt>-<tt><a href="uz_ut-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="uz_ut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uz_ut-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="uz_ut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uz_ut-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="uz_ut-pos-NUM.html">NUM</a></tt>-<tt><a href="uz_ut-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="uz_ut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="uz_ut-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="uz_ut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uz_ut-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="uz_ut-pos-ADP.html">ADP</a></tt>-<tt><a href="uz_ut-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="uz_ut-pos-ADV.html">ADV</a></tt>-<tt><a href="uz_ut-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="uz_ut-pos-DET.html">DET</a></tt>-<tt><a href="uz_ut-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="uz_ut-pos-PART.html">PART</a></tt>-<tt><a href="uz_ut-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="uz_ut-pos-PRON.html">PRON</a></tt>-<tt><a href="uz_ut-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="uz_ut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="uz_ut-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 22 pairs of parts of speech are connected with `obl`: <tt><a href="uz_ut-pos-VERB.html">VERB</a></tt>-<tt><a href="uz_ut-pos-NOUN.html">NOUN</a></tt> (424; 76% instances), <tt><a href="uz_ut-pos-VERB.html">VERB</a></tt>-<tt><a href="uz_ut-pos-PRON.html">PRON</a></tt> (26; 5% instances), <tt><a href="uz_ut-pos-VERB.html">VERB</a></tt>-<tt><a href="uz_ut-pos-PROPN.html">PROPN</a></tt> (25; 5% instances), <tt><a href="uz_ut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uz_ut-pos-NOUN.html">NOUN</a></tt> (24; 4% instances), <tt><a href="uz_ut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uz_ut-pos-NOUN.html">NOUN</a></tt> (14; 3% instances), <tt><a href="uz_ut-pos-VERB.html">VERB</a></tt>-<tt><a href="uz_ut-pos-NUM.html">NUM</a></tt> (7; 1% instances), <tt><a href="uz_ut-pos-VERB.html">VERB</a></tt>-<tt><a href="uz_ut-pos-VERB.html">VERB</a></tt> (7; 1% instances), <tt><a href="uz_ut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uz_ut-pos-PRON.html">PRON</a></tt> (5; 1% instances), <tt><a href="uz_ut-pos-VERB.html">VERB</a></tt>-<tt><a href="uz_ut-pos-ADJ.html">ADJ</a></tt> (5; 1% instances), <tt><a href="uz_ut-pos-VERB.html">VERB</a></tt>-<tt><a href="uz_ut-pos-ADV.html">ADV</a></tt> (3; 1% instances), <tt><a href="uz_ut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uz_ut-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="uz_ut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uz_ut-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="uz_ut-pos-NUM.html">NUM</a></tt>-<tt><a href="uz_ut-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="uz_ut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uz_ut-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="uz_ut-pos-ADP.html">ADP</a></tt>-<tt><a href="uz_ut-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="uz_ut-pos-ADV.html">ADV</a></tt>-<tt><a href="uz_ut-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="uz_ut-pos-DET.html">DET</a></tt>-<tt><a href="uz_ut-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="uz_ut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uz_ut-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="uz_ut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uz_ut-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="uz_ut-pos-PART.html">PART</a></tt>-<tt><a href="uz_ut-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="uz_ut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="uz_ut-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="uz_ut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="uz_ut-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -36,24 +36,6 @@ The following 24 pairs of parts of speech are connected with `obl`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 2 obl	color:blue
-1	Toshkentda	Toshkent	PROPN	_	Case=Loc|Number=Sing	7	obl	_	_
-2	dzyudo	dzyudo	NOUN	_	Case=Nom|Number=Sing	5	obl	_	_
-3	boʻyicha	boʻyicha	ADP	_	_	2	case	_	_
-4	Gran-pri	gran-pri	NOUN	_	Case=Nom|Number=Sing	5	nmod	_	_
-5	musobaqasi	musobaqa	NOUN	_	Case=Nom|Number=Sing	7	nsubj	_	_
-6	boʻlib	boʻl	VERB	_	VerbForm=Conv	7	compound:svc	_	_
-7	oʻtmoqda	oʻt	VERB	_	Aspect=Prog|Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
-8	.	.	PUNCT	_	_	7	punct	_	_
-
-~~~
-
-
-~~~ conllu
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 8	bgColor:blue
@@ -67,6 +49,25 @@ The following 24 pairs of parts of speech are connected with `obl`: <tt><a href=
 6	xizmati	xizmat	NOUN	_	Case=Nom|Number=Sing	5	compound	_	_
 7	xabar	xabar	NOUN	_	Case=Nom|Number=Sing	8	compound:lvc	_	_
 8	berdi	ber	VERB	_	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	8	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 1 obl	color:blue
+1	Hongkongda	Hongkong	PROPN	_	Case=Loc|Number=Sing	8	obl	_	_
+2	parlament	parlament	NOUN	_	Case=Nom|Number=Sing	3	nmod	_	_
+3	saylovlari	saylov	NOUN	_	Case=Nom|Number=Plur	8	nsubj	_	_
+4	4	4	NUM	_	NumType=Card	5	nummod	_	_
+5	yilda	yil	NOUN	_	Case=Loc|Number=Sing	6	obl	_	_
+6	bir	bir	NUM	_	NumType=Card	8	obl	_	_
+7	marta	marta	DET	_	_	6	det	_	_
+8	oʻtkaziladi	oʻtkaz	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	8	punct	_	_
 
 ~~~

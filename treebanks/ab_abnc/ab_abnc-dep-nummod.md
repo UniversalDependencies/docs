@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-32 nodes (0%) are attached to their parents as `nummod`.
+44 nodes (0%) are attached to their parents as `nummod`.
 
-29 instances of `nummod` (91%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.1875.
+38 instances of `nummod` (86%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.18181818181818.
 
-The following 4 pairs of parts of speech are connected with `nummod`: <tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ab_abnc-pos-NUM.html">NUM</a></tt> (27; 84% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-NUM.html">NUM</a></tt> (3; 9% instances), <tt><a href="ab_abnc-pos-NUM.html">NUM</a></tt>-<tt><a href="ab_abnc-pos-NUM.html">NUM</a></tt> (1; 3% instances), <tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt>-<tt><a href="ab_abnc-pos-NUM.html">NUM</a></tt> (1; 3% instances).
+The following 4 pairs of parts of speech are connected with `nummod`: <tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ab_abnc-pos-NUM.html">NUM</a></tt> (39; 89% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-NUM.html">NUM</a></tt> (3; 7% instances), <tt><a href="ab_abnc-pos-NUM.html">NUM</a></tt>-<tt><a href="ab_abnc-pos-NUM.html">NUM</a></tt> (1; 2% instances), <tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt>-<tt><a href="ab_abnc-pos-NUM.html">NUM</a></tt> (1; 2% instances).
 
 
 ~~~ conllu

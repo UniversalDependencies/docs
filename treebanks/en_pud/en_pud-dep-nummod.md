@@ -47,7 +47,7 @@ The following 5 pairs of parts of speech are connected with `nummod`: <tt><a hre
 5	,	,	PUNCT	,	_	1	punct	1:punct	_
 6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	7:det	_
 7	maximum	maximum	NOUN	NN	Number=Sing	1	appos	1:appos	_
-8	allowed	allow	VERB	VBN	Tense=Past|VerbForm=Part	7	acl	7:acl	SpaceAfter=No
+8	allowed	allow	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	7	acl	7:acl	SpaceAfter=No
 9	.	.	PUNCT	.	_	1	punct	1:punct	_
 
 ~~~
@@ -63,12 +63,12 @@ The following 5 pairs of parts of speech are connected with `nummod`: <tt><a hre
 2	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	5:aux	_
 3	also	also	ADV	RB	_	5	advmod	5:advmod	_
 4	been	be	AUX	VBN	Tense=Past|VerbForm=Part	5	aux:pass	5:aux:pass	_
-5	charged	charge	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
+5	charged	charge	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	_
 6	with	with	SCONJ	IN	_	7	mark	7:mark	_
 7	trying	try	VERB	VBG	VerbForm=Ger	5	advcl	5:advcl:with	_
 8	to	to	PART	TO	_	9	mark	9:mark	_
 9	kill	kill	VERB	VB	VerbForm=Inf	7	xcomp	7:xcomp	_
-10	her	her	PRON	PRP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	16	nmod:poss	16:nmod:poss	_
+10	her	her	PRON	PRP$	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	16	nmod:poss	16:nmod:poss	_
 11	two	two	NUM	CD	NumForm=Word|NumType=Card	15	nummod	15:nummod	SpaceAfter=No
 12	-	-	PUNCT	HYPH	_	15	punct	15:punct	SpaceAfter=No
 13	year	year	NOUN	NN	Number=Sing	15	obl:unmarked	15:obl:unmarked	SpaceAfter=No

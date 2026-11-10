@@ -89,8 +89,8 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 `ADJ` tokens may have the following values of `Number`:
 
-* `Plur` (636; 35% of non-empty `Number`): <em>autres, nécessaires, applicables, structurels, dangereuses, mêmes, communautaires, techniques, disponibles, publicitaires</em>
-* `Sing` (1163; 65% of non-empty `Number`): <em>présent, technique, européen, possible, communautaire, présente, autre, nécessaire, économique, applicable</em>
+* `Plur` (637; 35% of non-empty `Number`): <em>autres, nécessaires, applicables, structurels, dangereuses, mêmes, communautaires, techniques, disponibles, publicitaires</em>
+* `Sing` (1162; 65% of non-empty `Number`): <em>présent, technique, européen, possible, communautaire, présente, autre, nécessaire, économique, applicable</em>
 * `EMPTY` (41): <em>faux, divers, délictueux, malheureux, vice, quel, tiers, arbitraire, bas, clos</em>
 
 <table>
@@ -101,7 +101,7 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 ### `PRON`
 
-1071 <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> tokens (67% of all `PRON` tokens) have a non-empty value of `Number`.
+1071 <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> tokens (66% of all `PRON` tokens) have a non-empty value of `Number`.
 
 The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="fr_partut-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (764; 71%), <tt><a href="fr_partut-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (616; 58%).
 
@@ -109,7 +109,7 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 * `Plur` (404; 38% of non-empty `Number`): <em>nous, vous, ils, elles, ceux, tous, autres, ceux-ci, lesquelles, lesquels</em>
 * `Sing` (667; 62% of non-empty `Number`): <em>il, je, ce, on, j', le, elle, l', cela, chacun</em>
-* `EMPTY` (538): <em>qui, s', se, c', que, y, en, qu', dont, me</em>
+* `EMPTY` (550): <em>qui, s', y, se, c', que, en, qu', dont, me</em>
 
 <table>
   <tr><th>Paradigm <i>lui</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -161,12 +161,12 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
 
 The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>NOUN --[<tt><a href="fr_partut-dep-det.html">det</a></tt>]--> DET</tt> (4488; 100%),
-<tt>NOUN --[<tt><a href="fr_partut-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1429; 98%),
-<tt>NOUN --[<tt><a href="fr_partut-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1253; 61%),
+<tt>NOUN --[<tt><a href="fr_partut-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1430; 98%),
+<tt>NOUN --[<tt><a href="fr_partut-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1250; 61%),
 <tt>VERB --[<tt><a href="fr_partut-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (501; 74%),
-<tt>NOUN --[<tt><a href="fr_partut-dep-conj.html">conj</a></tt>]--> NOUN</tt> (413; 81%),
+<tt>NOUN --[<tt><a href="fr_partut-dep-conj.html">conj</a></tt>]--> NOUN</tt> (416; 81%),
 <tt>VERB --[<tt><a href="fr_partut-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (410; 91%),
-<tt>NOUN --[<tt><a href="fr_partut-dep-acl.html">acl</a></tt>]--> VERB</tt> (302; 68%),
+<tt>NOUN --[<tt><a href="fr_partut-dep-acl.html">acl</a></tt>]--> VERB</tt> (296; 68%),
 <tt>VERB --[<tt><a href="fr_partut-dep-aux.html">aux</a></tt>]--> AUX</tt> (186; 68%),
 <tt>VERB --[<tt><a href="fr_partut-dep-aux-pass.html">aux:pass</a></tt>]--> AUX</tt> (149; 62%),
 <tt>NOUN --[<tt><a href="fr_partut-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (144; 75%).

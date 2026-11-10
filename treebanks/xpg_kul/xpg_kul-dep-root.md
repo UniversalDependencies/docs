@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-203 nodes (11%) are attached to their parents as `root`.
+238 nodes (12%) are attached to their parents as `root`.
 
-203 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.27586206896552.
+238 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.67647058823529.
 
-The following 8 pairs of parts of speech are connected with `root`: -<tt><a href="xpg_kul-pos-VERB.html">VERB</a></tt> (121; 60% instances), -<tt><a href="xpg_kul-pos-PROPN.html">PROPN</a></tt> (26; 13% instances), -<tt><a href="xpg_kul-pos-SYM.html">SYM</a></tt> (26; 13% instances), -<tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt> (14; 7% instances), -<tt><a href="xpg_kul-pos-X.html">X</a></tt> (11; 5% instances), -<tt><a href="xpg_kul-pos-ADJ.html">ADJ</a></tt> (3; 1% instances), -<tt><a href="xpg_kul-pos-AUX.html">AUX</a></tt> (1; 0% instances), -<tt><a href="xpg_kul-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `root`: -<tt><a href="xpg_kul-pos-VERB.html">VERB</a></tt> (134; 56% instances), -<tt><a href="xpg_kul-pos-PROPN.html">PROPN</a></tt> (36; 15% instances), -<tt><a href="xpg_kul-pos-SYM.html">SYM</a></tt> (26; 11% instances), -<tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt> (19; 8% instances), -<tt><a href="xpg_kul-pos-X.html">X</a></tt> (18; 8% instances), -<tt><a href="xpg_kul-pos-ADJ.html">ADJ</a></tt> (3; 1% instances), -<tt><a href="xpg_kul-pos-AUX.html">AUX</a></tt> (1; 0% instances), -<tt><a href="xpg_kul-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

@@ -24,7 +24,7 @@ The following 19 pairs of parts of speech are connected with `amod`: <tt><a href
 # visual-style 1 2 amod	color:blue
 1	aurinko	aurinko	NOUN	N,Sg,Nom	Case=Nom|Number=Sing	4	nsubj	_	_
 2	armas	armas	ADJ	A,Sg,Nom	Case=Nom|Number=Sing	1	amod	_	_
-3	,	,	PUNCT	Pun	_	2	punct	_	_
+3	,	,	PUNCT	Pun	_	1	punct	_	_
 4	kuivas	kuivata	VERB	V,Act,Ind,Past,Sg3	Mood=Ind|Number=Sing|Person=3|Style=Coll|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 5	satehen	sade	NOUN	N,Sg,Gen	Case=Gen|Number=Sing|Style=Coll	4	obj	_	_
 

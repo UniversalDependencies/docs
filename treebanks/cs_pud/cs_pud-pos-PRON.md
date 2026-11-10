@@ -37,7 +37,7 @@ The 10 most frequent ambiguous types:  <em>se</em> (<tt><a href="cs_pud-pos-PRON
 
 ## Morphology
 
-The form / lemma ratio of `PRON` is 3.764706 (the average of all parts of speech is 1.426064).
+The form / lemma ratio of `PRON` is 3.764706 (the average of all parts of speech is 1.426223).
 
 The 1st highest number of forms (19) was observed with the lemma “on”: <em>ho, je, ji, jich, jim, jí, jím, mu, nich, nimi, ní, ním, ně, něj, něm, němu, on, ona, oni</em>.
 

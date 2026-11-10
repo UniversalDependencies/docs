@@ -23,18 +23,18 @@ The following 1 pairs of parts of speech are connected with `nsubj:caus`: <tt><a
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 4 nsubj:caus	color:blue
-1	et	et	CCONJ	_	_	8	cc	_	AlignBegin=60484|AlignEnd=60615
-2	donc	donc	ADV	_	_	8	advmod	_	AlignBegin=60615|AlignEnd=60745|SpaceAfter=No
-3	,	,	PUNCT	_	_	2	punct	_	AlignBegin=60745|AlignEnd=60745
-4	je	moi	PRON	_	Case=Nom|Emph=No|Number=Sing|Person=1|PronType=Prs	8	nsubj:caus	_	AlignBegin=61067|AlignEnd=61234|Exponence[Number]=Inherent|Exponence[Person]=Inherent
-5	le	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obj:agent	_	AlignBegin=61234|AlignEnd=61402|Exponence[Person]=Inherent
-6	fais	faire	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	aux:caus	_	AlignBegin=61402|AlignEnd=61569
-7	même	même	ADV	_	_	8	advmod	_	AlignBegin=61569|AlignEnd=61737
-8	rentrer	rentrer	VERB	_	VerbForm=Inf	0	root	_	AlignBegin=61737|AlignEnd=61904|Subject=ObjRaising
-9	dans	dans	ADP	_	_	11	case	_	AlignBegin=61904|AlignEnd=62071
-10	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	AlignBegin=62071|AlignEnd=62239|HasSpokenGender=OnlySingExceptWithLiaison
-11	maison	maison	NOUN	_	Gender=Fem|Number=Sing	8	obl:arg	_	AlignBegin=62239|AlignEnd=62406|Exponence[Gender]=Inherent|Exponence[Number]=Absent|SpaceAfter=No
-12	.	.	PUNCT	_	_	8	punct	_	AlignBegin=62406|AlignEnd=62406
+1	et	et	CCONJ	_	_	8	cc	_	WordAlignmentBegin=60484|WordAlignmentEnd=60615
+2	donc	donc	ADV	_	_	8	advmod	_	SpaceAfter=No|WordAlignmentBegin=60615|WordAlignmentEnd=60745
+3	,	,	PUNCT	_	_	2	punct	_	WordAlignmentBegin=60745|WordAlignmentEnd=60745
+4	je	moi	PRON	_	Case=Nom|Emph=No|Number=Sing|Person=1|PronType=Prs	8	nsubj:caus	_	Exponence[Number]=Inherent|Exponence[Person]=Inherent|WordAlignmentBegin=61067|WordAlignmentEnd=61234
+5	le	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obj:agent	_	Exponence[Person]=Inherent|WordAlignmentBegin=61234|WordAlignmentEnd=61402
+6	fais	faire	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	aux:caus	_	WordAlignmentBegin=61402|WordAlignmentEnd=61569
+7	même	même	ADV	_	_	8	advmod	_	WordAlignmentBegin=61569|WordAlignmentEnd=61737
+8	rentrer	rentrer	VERB	_	VerbForm=Inf	0	root	_	Subject=ObjRaising|WordAlignmentBegin=61737|WordAlignmentEnd=61904
+9	dans	dans	ADP	_	_	11	case	_	WordAlignmentBegin=61904|WordAlignmentEnd=62071
+10	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	HasSpokenGender=OnlySingExceptWithLiaison|WordAlignmentBegin=62071|WordAlignmentEnd=62239
+11	maison	maison	NOUN	_	Gender=Fem|Number=Sing	8	obl:arg	_	Exponence[Gender]=Inherent|Exponence[Number]=Absent|SpaceAfter=No|WordAlignmentBegin=62239|WordAlignmentEnd=62406
+12	.	.	PUNCT	_	_	8	punct	_	WordAlignmentBegin=62406|WordAlignmentEnd=62406
 
 ~~~
 

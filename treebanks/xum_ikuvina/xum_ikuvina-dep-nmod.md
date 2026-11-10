@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-38 nodes (3%) are attached to their parents as `nmod`.
+39 nodes (3%) are attached to their parents as `nmod`.
 
-27 instances of `nmod` (71%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.65789473684211.
+27 instances of `nmod` (69%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.71794871794872.
 
-The following 9 pairs of parts of speech are connected with `nmod`: <tt><a href="xum_ikuvina-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xum_ikuvina-pos-NOUN.html">NOUN</a></tt> (20; 53% instances), <tt><a href="xum_ikuvina-pos-PROPN.html">PROPN</a></tt>-<tt><a href="xum_ikuvina-pos-PROPN.html">PROPN</a></tt> (6; 16% instances), <tt><a href="xum_ikuvina-pos-ADJ.html">ADJ</a></tt>-<tt><a href="xum_ikuvina-pos-NOUN.html">NOUN</a></tt> (4; 11% instances), <tt><a href="xum_ikuvina-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xum_ikuvina-pos-PRON.html">PRON</a></tt> (2; 5% instances), <tt><a href="xum_ikuvina-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xum_ikuvina-pos-PROPN.html">PROPN</a></tt> (2; 5% instances), <tt><a href="xum_ikuvina-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xum_ikuvina-pos-ADJ.html">ADJ</a></tt> (1; 3% instances), <tt><a href="xum_ikuvina-pos-PRON.html">PRON</a></tt>-<tt><a href="xum_ikuvina-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="xum_ikuvina-pos-PROPN.html">PROPN</a></tt>-<tt><a href="xum_ikuvina-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="xum_ikuvina-pos-VERB.html">VERB</a></tt>-<tt><a href="xum_ikuvina-pos-PROPN.html">PROPN</a></tt> (1; 3% instances).
+The following 10 pairs of parts of speech are connected with `nmod`: <tt><a href="xum_ikuvina-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xum_ikuvina-pos-NOUN.html">NOUN</a></tt> (20; 51% instances), <tt><a href="xum_ikuvina-pos-PROPN.html">PROPN</a></tt>-<tt><a href="xum_ikuvina-pos-PROPN.html">PROPN</a></tt> (6; 15% instances), <tt><a href="xum_ikuvina-pos-ADJ.html">ADJ</a></tt>-<tt><a href="xum_ikuvina-pos-NOUN.html">NOUN</a></tt> (4; 10% instances), <tt><a href="xum_ikuvina-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xum_ikuvina-pos-PRON.html">PRON</a></tt> (2; 5% instances), <tt><a href="xum_ikuvina-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xum_ikuvina-pos-PROPN.html">PROPN</a></tt> (2; 5% instances), <tt><a href="xum_ikuvina-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xum_ikuvina-pos-ADJ.html">ADJ</a></tt> (1; 3% instances), <tt><a href="xum_ikuvina-pos-PRON.html">PRON</a></tt>-<tt><a href="xum_ikuvina-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="xum_ikuvina-pos-PROPN.html">PROPN</a></tt>-<tt><a href="xum_ikuvina-pos-ADJ.html">ADJ</a></tt> (1; 3% instances), <tt><a href="xum_ikuvina-pos-PROPN.html">PROPN</a></tt>-<tt><a href="xum_ikuvina-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="xum_ikuvina-pos-VERB.html">VERB</a></tt>-<tt><a href="xum_ikuvina-pos-PROPN.html">PROPN</a></tt> (1; 3% instances).
 
 
 ~~~ conllu

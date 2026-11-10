@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Skolt_Sami-Giellagas: Relations: `flat:name`
 
-This relation is a language-specific subtype of .
+This relation is a language-specific subtype of <tt><a href="sms_giellagas-dep-flat.html">flat</a></tt>.
 
 2 nodes (0%) are attached to their parents as `flat:name`.
 

@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.3 release.
 The following people have contributed to making this treebank part of UD: Kira Droganova, Olga Lyashevskaya, Daniel Zeman.
 
 Repository: [UD_Russian-SynTagRus](https://github.com/UniversalDependencies/UD_Russian-SynTagRus)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udru_syntagrus218)<br />
-Download all treebanks: [UD 2.18](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udru_syntagrus219)<br />
+Download all treebanks: [UD 2.19](/#download)
 
 License: CC BY-NC-SA 4.0
 
@@ -101,7 +101,7 @@ December 13–14, 2018, Oslo University, Norway (No. 155, pp. 52-65). Linköping
 
 ## Relations
 
-[acl](ru_syntagrus-dep-acl.html) – [acl:relcl](ru_syntagrus-dep-acl-relcl.html) – [advcl](ru_syntagrus-dep-advcl.html) – [advmod](ru_syntagrus-dep-advmod.html) – [amod](ru_syntagrus-dep-amod.html) – [appos](ru_syntagrus-dep-appos.html) – [aux](ru_syntagrus-dep-aux.html) – [aux:pass](ru_syntagrus-dep-aux-pass.html) – [case](ru_syntagrus-dep-case.html) – [cc](ru_syntagrus-dep-cc.html) – [ccomp](ru_syntagrus-dep-ccomp.html) – [compound](ru_syntagrus-dep-compound.html) – [conj](ru_syntagrus-dep-conj.html) – [cop](ru_syntagrus-dep-cop.html) – [csubj](ru_syntagrus-dep-csubj.html) – [csubj:pass](ru_syntagrus-dep-csubj-pass.html) – [dep](ru_syntagrus-dep-dep.html) – [det](ru_syntagrus-dep-det.html) – [discourse](ru_syntagrus-dep-discourse.html) – [dislocated](ru_syntagrus-dep-dislocated.html) – [expl](ru_syntagrus-dep-expl.html) – [fixed](ru_syntagrus-dep-fixed.html) – [flat](ru_syntagrus-dep-flat.html) – [flat:foreign](ru_syntagrus-dep-flat-foreign.html) – [flat:name](ru_syntagrus-dep-flat-name.html) – [iobj](ru_syntagrus-dep-iobj.html) – [list](ru_syntagrus-dep-list.html) – [mark](ru_syntagrus-dep-mark.html) – [nmod](ru_syntagrus-dep-nmod.html) – [nsubj](ru_syntagrus-dep-nsubj.html) – [nsubj:outer](ru_syntagrus-dep-nsubj-outer.html) – [nsubj:pass](ru_syntagrus-dep-nsubj-pass.html) – [nummod](ru_syntagrus-dep-nummod.html) – [nummod:gov](ru_syntagrus-dep-nummod-gov.html) – [obj](ru_syntagrus-dep-obj.html) – [obl](ru_syntagrus-dep-obl.html) – [obl:agent](ru_syntagrus-dep-obl-agent.html) – [obl:depict](ru_syntagrus-dep-obl-depict.html) – [obl:float](ru_syntagrus-dep-obl-float.html) – [obl:pronmod](ru_syntagrus-dep-obl-pronmod.html) – [obl:tmod](ru_syntagrus-dep-obl-tmod.html) – [orphan](ru_syntagrus-dep-orphan.html) – [parataxis](ru_syntagrus-dep-parataxis.html) – [parataxis:discourse](ru_syntagrus-dep-parataxis-discourse.html) – [punct](ru_syntagrus-dep-punct.html) – [root](ru_syntagrus-dep-root.html) – [vocative](ru_syntagrus-dep-vocative.html) – [xcomp](ru_syntagrus-dep-xcomp.html)
+[acl](ru_syntagrus-dep-acl.html) – [acl:relcl](ru_syntagrus-dep-acl-relcl.html) – [advcl](ru_syntagrus-dep-advcl.html) – [advmod](ru_syntagrus-dep-advmod.html) – [amod](ru_syntagrus-dep-amod.html) – [appos](ru_syntagrus-dep-appos.html) – [aux](ru_syntagrus-dep-aux.html) – [aux:pass](ru_syntagrus-dep-aux-pass.html) – [case](ru_syntagrus-dep-case.html) – [cc](ru_syntagrus-dep-cc.html) – [ccomp](ru_syntagrus-dep-ccomp.html) – [compound](ru_syntagrus-dep-compound.html) – [conj](ru_syntagrus-dep-conj.html) – [cop](ru_syntagrus-dep-cop.html) – [csubj](ru_syntagrus-dep-csubj.html) – [csubj:pass](ru_syntagrus-dep-csubj-pass.html) – [dep](ru_syntagrus-dep-dep.html) – [det](ru_syntagrus-dep-det.html) – [discourse](ru_syntagrus-dep-discourse.html) – [dislocated](ru_syntagrus-dep-dislocated.html) – [expl](ru_syntagrus-dep-expl.html) – [fixed](ru_syntagrus-dep-fixed.html) – [flat](ru_syntagrus-dep-flat.html) – [flat:foreign](ru_syntagrus-dep-flat-foreign.html) – [flat:name](ru_syntagrus-dep-flat-name.html) – [iobj](ru_syntagrus-dep-iobj.html) – [list](ru_syntagrus-dep-list.html) – [mark](ru_syntagrus-dep-mark.html) – [nmod](ru_syntagrus-dep-nmod.html) – [nmod:float](ru_syntagrus-dep-nmod-float.html) – [nmod:pronmod](ru_syntagrus-dep-nmod-pronmod.html) – [nsubj](ru_syntagrus-dep-nsubj.html) – [nsubj:outer](ru_syntagrus-dep-nsubj-outer.html) – [nsubj:pass](ru_syntagrus-dep-nsubj-pass.html) – [nummod](ru_syntagrus-dep-nummod.html) – [nummod:gov](ru_syntagrus-dep-nummod-gov.html) – [obj](ru_syntagrus-dep-obj.html) – [obl](ru_syntagrus-dep-obl.html) – [obl:agent](ru_syntagrus-dep-obl-agent.html) – [obl:depict](ru_syntagrus-dep-obl-depict.html) – [obl:float](ru_syntagrus-dep-obl-float.html) – [obl:tmod](ru_syntagrus-dep-obl-tmod.html) – [orphan](ru_syntagrus-dep-orphan.html) – [parataxis](ru_syntagrus-dep-parataxis.html) – [parataxis:discourse](ru_syntagrus-dep-parataxis-discourse.html) – [punct](ru_syntagrus-dep-punct.html) – [root](ru_syntagrus-dep-root.html) – [vocative](ru_syntagrus-dep-vocative.html) – [xcomp](ru_syntagrus-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -869,7 +869,7 @@ December 13–14, 2018, Oslo University, Norway (No. 155, pp. 52-65). Linköping
           <li>PRON: т.</li>
           <li>PROPN: СССР, В., А., РФ, РАН, США, М., С., И., Н.</li>
           <li>VERB: е., и., см., н.</li>
-          <li>X: H., ХВ</li>
+          <li>X: ХВ</li>
         </ul>
       </li>
     </ul>
@@ -1103,7 +1103,7 @@ December 13–14, 2018, Oslo University, Norway (No. 155, pp. 52-65). Linköping
           <li>ADV: Ка-ак, Та-ак, ни-ког-да</li>
           <li>DET: тттвою</li>
           <li>INTJ: Мда-а</li>
-          <li>NOUN: Ка-шель, зе-е-млю, инка, капита-ан, по-ток, ррррадость, с-волочь, языка</li>
+          <li>NOUN: Ка-шель, зе-е-млю, инка, капита-ан, по-ток, производство, ррррадость, с-волочь, языка</li>
           <li>PRON: ни-че-го</li>
           <li>PROPN: Вер-монт</li>
           <li>VERB-Fin: С-стоит</li>
@@ -1145,9 +1145,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Acc-ADP(с) (2)</li>
       <li>VERB-Fin--NOUN-Dat (1)</li>
       <li>VERB-Fin--NOUN-Dat-ADP(по) (9)</li>
-      <li>VERB-Fin--NOUN-Gen (2574)</li>
+      <li>VERB-Fin--NOUN-Gen (2590)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(в) (1)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(во) (1)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(до) (15)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(около) (60)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(от) (6)</li>
@@ -1155,18 +1154,18 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Gen-ADP(порядка) (4)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(свыше) (10)</li>
       <li>VERB-Fin--NOUN-Loc-ADP(на) (1)</li>
-      <li>VERB-Fin--NOUN-Nom (41689)</li>
-      <li>VERB-Fin--NOUN-Nom-ADP(во) (9)</li>
+      <li>VERB-Fin--NOUN-Nom (41695)</li>
+      <li>VERB-Fin--NOUN-Nom-ADP(во) (1)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(до) (1)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(за) (2)</li>
       <li>VERB-Fin--NOUN-Par (13)</li>
       <li>VERB-Fin--PRON (6)</li>
       <li>VERB-Fin--PRON-Acc (1)</li>
       <li>VERB-Fin--PRON-Acc-ADP(на) (1)</li>
-      <li>VERB-Fin--PRON-Gen (346)</li>
+      <li>VERB-Fin--PRON-Gen (348)</li>
       <li>VERB-Fin--PRON-Gen-ADP(у) (1)</li>
       <li>VERB-Fin--PRON-Loc-ADP(в) (2)</li>
-      <li>VERB-Fin--PRON-Nom (21918)</li>
+      <li>VERB-Fin--PRON-Nom (21920)</li>
       <li>VERB-Inf--NOUN-Gen (12)</li>
       <li>VERB-Inf--NOUN-Gen-ADP(около) (1)</li>
       <li>VERB-Inf--NOUN-Nom (529)</li>
@@ -1198,8 +1197,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Conv--PRON-Gen (34)</li>
       <li>VERB-Conv--PRON-Nom (5)</li>
       <li>VERB-Fin--NOUN (55)</li>
-      <li>VERB-Fin--NOUN-Acc (20733)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(во) (2)</li>
+      <li>VERB-Fin--NOUN-Acc (20735)</li>
       <li>VERB-Fin--NOUN-Gen (3229)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(до) (2)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(на) (2)</li>
@@ -1218,7 +1216,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--PRON-Ins (43)</li>
       <li>VERB-Fin--PRON-Nom (41)</li>
       <li>VERB-Inf--NOUN (26)</li>
-      <li>VERB-Inf--NOUN-Acc (12045)</li>
+      <li>VERB-Inf--NOUN-Acc (12046)</li>
       <li>VERB-Inf--NOUN-Acc-ADP(над) (1)</li>
       <li>VERB-Inf--NOUN-Acc-ADP(со) (1)</li>
       <li>VERB-Inf--NOUN-Dat-ADP(по) (1)</li>
@@ -1234,8 +1232,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--PRON-Ins (19)</li>
       <li>VERB-Inf--PRON-Nom (23)</li>
       <li>VERB-Part--NOUN (6)</li>
-      <li>VERB-Part--NOUN-Acc (1789)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(во) (1)</li>
+      <li>VERB-Part--NOUN-Acc (1790)</li>
       <li>VERB-Part--NOUN-Gen (229)</li>
       <li>VERB-Part--NOUN-Gen-ADP(около) (2)</li>
       <li>VERB-Part--NOUN-Ins (111)</li>
@@ -1262,8 +1259,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Conv--PRON-Ins (20)</li>
       <li>VERB-Conv--PRON-Nom (2)</li>
       <li>VERB-Fin--NOUN (16)</li>
-      <li>VERB-Fin--NOUN-Dat (2458)</li>
-      <li>VERB-Fin--NOUN-Dat-ADP(во) (1)</li>
+      <li>VERB-Fin--NOUN-Dat (2459)</li>
       <li>VERB-Fin--NOUN-Gen (62)</li>
       <li>VERB-Fin--NOUN-Ins (2082)</li>
       <li>VERB-Fin--PRON-Dat (3017)</li>
@@ -1303,6 +1299,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 14 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a>, <a>nummod:gov</a>, <a>obl:agent</a>, <a>obl:depict</a>, <a>obl:float</a>, <a>obl:pronmod</a>, <a>obl:tmod</a>, <a>parataxis:discourse</a></li>
+<li>This corpus uses 15 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>nmod:float</a>, <a>nmod:pronmod</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a>, <a>nummod:gov</a>, <a>obl:agent</a>, <a>obl:depict</a>, <a>obl:float</a>, <a>obl:tmod</a>, <a>parataxis:discourse</a></li>
 <li>The following 3 relation types are not used in this corpus at all: <a>clf</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-195 nodes (4%) are attached to their parents as `det`.
+244 nodes (4%) are attached to their parents as `det`.
 
-194 instances of `det` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.35897435897436.
+243 instances of `det` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.40983606557377.
 
-The following 4 pairs of parts of speech are connected with `det`: <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ps_sikaram-pos-DET.html">DET</a></tt> (188; 96% instances), <tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ps_sikaram-pos-DET.html">DET</a></tt> (4; 2% instances), <tt><a href="ps_sikaram-pos-PRON.html">PRON</a></tt>-<tt><a href="ps_sikaram-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="ps_sikaram-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ps_sikaram-pos-DET.html">DET</a></tt> (1; 1% instances).
+The following 6 pairs of parts of speech are connected with `det`: <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ps_sikaram-pos-DET.html">DET</a></tt> (231; 95% instances), <tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ps_sikaram-pos-DET.html">DET</a></tt> (5; 2% instances), <tt><a href="ps_sikaram-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ps_sikaram-pos-DET.html">DET</a></tt> (4; 2% instances), <tt><a href="ps_sikaram-pos-PRON.html">PRON</a></tt>-<tt><a href="ps_sikaram-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ps_sikaram-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ps_sikaram-pos-NUM.html">NUM</a></tt>-<tt><a href="ps_sikaram-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -22,13 +22,14 @@ The following 4 pairs of parts of speech are connected with `det`: <tt><a href="
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 det	color:blue
-1	نجلۍ	نجلۍ	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	6	nsubj	_	Translit=njëlë́y|LTranslit=njëlë́y|Gloss=girl
+1	نجلۍ	نجلۍ	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	7	nsubj	_	Translit=njëlë́y|LTranslit=njëlë́y|Gloss=girl
 2	خپل	خپل	DET	_	Case=Acc|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	3	det	_	Translit=xpël|LTranslit=xpël|Gloss=own
-3	ملګري	ملګری	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	6	obl	_	Translit=mëlgë́ri|LTranslit=mëlgë́ray|Gloss=friend
-4	ته	ته	ADP	_	Case=Acc	3	case	_	Translit=ta|LTranslit=ta|Gloss=to
-5	لیک	لیک	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	6	obj	_	Translit=lik|LTranslit=lik|Gloss=letter
-6	ولیکۀ	لیکل	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Translit=wë́likë|LTranslit=likë́l|Gloss=wrote|SpaceAfter=No
-7	.	.	PUNCT	_	_	6	punct	_	Translit=.|LTranslit=.|Gloss=.|SpaceAfter=No
+3	ملګري	ملګری	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	7	obl	_	Translit=mëlgë́ri|LTranslit=mëlgë́ray|Gloss=friend
+4	ته	ته	ADP	_	Case=Acc	7	case	_	Translit=ta|LTranslit=ta|Gloss=to
+5	لیک	لیک	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	7	obj	_	Translit=lik|LTranslit=lik|Gloss=letter
+6	و	و	AUX	_	Aspect=Perf	7	aux:preverb	_	Translit=wë|LTranslit=wë|Gloss=_
+7	لیکۀ	لیکل	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Translit=likë|LTranslit=likë́l|Gloss=wrote
+8	.	.	PUNCT	_	_	7	punct	_	Translit=.|LTranslit=.|Gloss=.|SpaceAfter=No
 
 ~~~
 
@@ -51,25 +52,39 @@ The following 4 pairs of parts of speech are connected with `det`: <tt><a href="
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 1 det	color:blue
-1	هغه	هغه	DET	_	Case=Nom|Deixis=Remt|PronType=Dem	2	det	_	Translit=háġa|LTranslit=háġa|Gloss=that
-2	څوک	څوک	PRON	_	Animacy=Hum|Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	13	nsubj	_	Translit=cok|LTranslit=cok|Gloss=anybody
-3	چې	چې	SCONJ	_	_	4	mark	_	Translit=če|LTranslit=če|Gloss=that
-4	غواړي	غوښتل	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	Translit=ġwâṛí|LTranslit=ġux̌të́l|Gloss=wants
-5	پاړسي	پاړسي	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	7	obj	_	Translit=pâṛsí|LTranslit=pâṛsí|Gloss=Persian
-6	زده	زده	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	7	compound:lvc	_	Translit=zda|LTranslit=zda|Gloss=learn
-7	کړي	کول	VERB	_	Mood=Sub|Number=Sing|Person=3|VerbForm=Fin	4	advcl	_	Translit=kṛi|LTranslit=kawë́l|Gloss=do|SpaceAfter=No
-8	،	،	PUNCT	_	_	4	punct	_	Translit=,|LTranslit=,|Gloss=,
-9	بايد	بايد	PART	_	_	13	advmod	_	Translit=bâyád|LTranslit=bâyád|Gloss=should
-10	عربي	عربي	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	13	obj	_	Translit=arabí|LTranslit=arabí|Gloss=Arabic
-11	هم	هم	ADV	_	_	13	advmod	_	Translit=ham|LTranslit=ham|Gloss=also
-12	زده	زده	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	13	compound:lvc	_	Translit=zda|LTranslit=zda|Gloss=learn
-13	کړي	کول	VERB	_	Mood=Sub|Number=Sing|Person=3|VerbForm=Fin	0	root	_	Translit=kṛi|LTranslit=kawë́l|Gloss=do|SpaceAfter=No
-14	.	.	PUNCT	_	_	13	punct	_	Translit=.|LTranslit=.|Gloss=.|SpaceAfter=No
+# visual-style 22	bgColor:blue
+# visual-style 22	fgColor:white
+# visual-style 23	bgColor:blue
+# visual-style 23	fgColor:white
+# visual-style 23 22 det	color:blue
+1	همدا	همدا	ADV	_	Deixis=Prox|ExtPos=ADV|PronType=Dem	27	advmod	_	Translit=hamdấ|LTranslit=hamdấ|Gloss=just
+2	اوس	اوس	ADV	_	_	1	fixed	_	Translit=os|LTranslit=os|Gloss=now
+3	هم	هم	ADV	_	_	1	fixed	_	Translit=ham|LTranslit=ham|Gloss=also
+4	که	کۀ	SCONJ	_	_	11	mark	_	Translit=kë|LTranslit=kë|Gloss=if
+5	په	پۀ	ADP	_	Case=Loc	7	case	_	Translit=pë|LTranslit=pë|Gloss=at
+6	یوه	یو	NUM	_	Case=Loc|Gender=Masc|NumType=Card	7	nummod	_	Translit=yawë́|LTranslit=yaw|Gloss=one
+7	مجلس	مجلس	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	11	obl	_	Translit=maǰlís|LTranslit=maǰlís|Gloss=meeting
+8	کې	کې	ADP	_	Case=Loc	7	case	_	Translit=ke|LTranslit=ke|Gloss=in
+9	لس	لس	NUM	_	NumType=Card	10	nummod	_	Translit=las|LTranslit=las|Gloss=ten
+10	پښتانه	پښتون	PROPN	_	Case=Nom|Gender=Masc|Number=Plur	11	nsubj	_	Translit=pëx̌tânë́|LTranslit=pax̌tún|Gloss=Pashtuns
+11	ناست	ناست	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	27	advcl	_	Translit=nâst|LTranslit=nâst|Gloss=sitting
+12	وي	ول	AUX	_	Mood=Sub|Number=Sing|Person=3|VerbForm=Fin	11	cop	_	Translit=wi|LTranslit=wël|Gloss=is|SpaceAfter=No
+13	،	،	PUNCT	_	_	11	punct	_	Translit=,|LTranslit=,|Gloss=,
+14	د	د	ADP	_	Case=Acc	17	case	_	Translit=dë|LTranslit=dë|Gloss=of
+15	یوه	یو	NUM	_	Case=Acc|Gender=Masc|NumType=Card	17	nummod	_	Translit=yawë́|LTranslit=yaw|Gloss=one
+16	دري	دري	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	17	nmod	_	Translit=darí|LTranslit=darí|Gloss=Dari
+17	ژبي	ژبی	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	27	obl	_	Translit=žë́bi|LTranslit=žë́bay|Gloss=speaker
+18	يا	يا	CCONJ	_	_	20	cc	_	Translit=yâ|LTranslit=yâ|Gloss=or
+19	اردو	اردو	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	20	nmod	_	Translit=urdú|LTranslit=urdú|Gloss=Urdu
+20	ژبي	ژبی	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	17	conj	_	Translit=žë́bi|LTranslit=žë́bay|Gloss=speaker
+21	لپاره	لپاره	ADP	_	Case=Acc	17	case	_	Translit=lapấra|LTranslit=lapấra|Gloss=for
+22	دغه	دغه	DET	_	Case=Nom|Deixis=Prox|PronType=Dem|Variant=Long	23	det	_	Translit=dáġa|LTranslit=dáġa|Gloss=this
+23	پښتانه	پښتون	PROPN	_	Case=Nom|Gender=Masc|Number=Plur	27	nsubj	_	Translit=pëx̌tânë́|LTranslit=pax̌tún|Gloss=Pashtuns
+24	دري	دري	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	27	obj	_	Translit=darí|LTranslit=darí|Gloss=Dari
+25	يا	يا	CCONJ	_	_	26	cc	_	Translit=yâ|LTranslit=yâ|Gloss=or
+26	اردو	اردو	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	24	conj	_	Translit=urdú|LTranslit=urdú|Gloss=Urdu
+27	وايي	ویل	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Translit=wâyí|LTranslit=wayë́l|Gloss=say|SpaceAfter=No
+28	.	.	PUNCT	_	_	27	punct	_	Translit=.|LTranslit=.|Gloss=.|SpaceAfter=No
 
 ~~~
 

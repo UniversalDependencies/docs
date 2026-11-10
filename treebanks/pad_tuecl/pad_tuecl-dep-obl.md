@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `obl`: <tt><a href="pad_tuecl-dep-obl-agent.html">obl:agent</a></tt>.
 
-22 nodes (4%) are attached to their parents as `obl`.
+21 nodes (4%) are attached to their parents as `obl`.
 
-15 instances of `obl` (68%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.81818181818182.
+15 instances of `obl` (71%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.85714285714286.
 
-The following 5 pairs of parts of speech are connected with `obl`: <tt><a href="pad_tuecl-pos-VERB.html">VERB</a></tt>-<tt><a href="pad_tuecl-pos-NOUN.html">NOUN</a></tt> (11; 50% instances), <tt><a href="pad_tuecl-pos-VERB.html">VERB</a></tt>-<tt><a href="pad_tuecl-pos-PRON.html">PRON</a></tt> (7; 32% instances), <tt><a href="pad_tuecl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pad_tuecl-pos-NOUN.html">NOUN</a></tt> (2; 9% instances), <tt><a href="pad_tuecl-pos-VERB.html">VERB</a></tt>-<tt><a href="pad_tuecl-pos-INTJ.html">INTJ</a></tt> (1; 5% instances), <tt><a href="pad_tuecl-pos-VERB.html">VERB</a></tt>-<tt><a href="pad_tuecl-pos-PROPN.html">PROPN</a></tt> (1; 5% instances).
+The following 5 pairs of parts of speech are connected with `obl`: <tt><a href="pad_tuecl-pos-VERB.html">VERB</a></tt>-<tt><a href="pad_tuecl-pos-NOUN.html">NOUN</a></tt> (11; 52% instances), <tt><a href="pad_tuecl-pos-VERB.html">VERB</a></tt>-<tt><a href="pad_tuecl-pos-PRON.html">PRON</a></tt> (7; 33% instances), <tt><a href="pad_tuecl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pad_tuecl-pos-NOUN.html">NOUN</a></tt> (1; 5% instances), <tt><a href="pad_tuecl-pos-VERB.html">VERB</a></tt>-<tt><a href="pad_tuecl-pos-INTJ.html">INTJ</a></tt> (1; 5% instances), <tt><a href="pad_tuecl-pos-VERB.html">VERB</a></tt>-<tt><a href="pad_tuecl-pos-PROPN.html">PROPN</a></tt> (1; 5% instances).
 
 
 ~~~ conllu
@@ -47,16 +47,22 @@ The following 5 pairs of parts of speech are connected with `obl`: <tt><a href="
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 2 obl	color:blue
-1	Safini	_	NOUN	_	_	4	obl	_	Gloss=sun
-2	ava	_	NOUN	_	_	1	obl	_	Gloss=tree
-3	miinira	_	NOUN	_	_	2	compound	_	Gloss=extremity-f-OBJ
-4	anamaakarirarivini	_	VERB	_	_	0	root	_	Gloss=STATVZR-CAUS-near-meet-DEP:TRANS|SpaceAfter=No
-5	.	_	PUNCT	_	_	4	punct	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 4 obl	color:blue
+1	Jara	_	ADJ	_	_	2	nmod	_	Gloss=non:Indian
+2	anani	_	NOUN	_	_	8	nmod	_	Gloss=woman
+3	kidiisai	_	NOUN	_	_	2	acl:relcl	_	Gloss=her-child
+4	jahani	_	NOUN	_	_	3	obl	_	Gloss=abdomen-f
+5	bodinia	_	ADV	_	_	4	advmod	_	Gloss=inside-f-OBL
+6	abiniki	_	VERB	_	_	3	nmod	_	Gloss=die-NONTHEME
+7	kani	_	ADV	_	_	9	advmod:lmod	_	Gloss=place
+8	gorani	_	NOUN	_	_	9	nmod	_	Gloss=house-f
+9	adaminini	_	NOUN	_	_	10	obl	_	Gloss=port-f
+10	ako'omisi'ianahi	_	VERB	_	_	0	root	_	Gloss=1PL-canoe-dock-again-THEME|SpaceAfter=No
+11	.	_	PUNCT	_	_	10	punct	_	_
 
 ~~~
 

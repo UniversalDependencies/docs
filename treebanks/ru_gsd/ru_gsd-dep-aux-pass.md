@@ -55,7 +55,7 @@ The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 # visual-style 17	bgColor:blue
 # visual-style 17	fgColor:white
 # visual-style 17 14 aux:pass	color:blue
-1	1	1	ADJ	ORD	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	5	obl	_	_
+1	1	1	ADJ	ORD	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	5	obl:tmod	_	_
 2	января	январь	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	flat	_	_
 3	1889	1889	ADJ	ORD	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	_
 4	года	год	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
@@ -67,7 +67,7 @@ The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 10	а	а	CCONJ	CC	_	15	cc	_	_
 11	в	в	ADP	IN	_	13	case	_	_
 12	1891	1891	ADJ	ORD	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	13	amod	_	_
-13	году	год	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	15	obl	_	_
+13	году	год	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	15	obl:tmod	_	_
 14	был	быть	AUX	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	17	aux:pass	_	_
 15	назначен	назначить	VERB	VBNH	Animacy=Anim|Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	5	conj	_	_
 16	старшим	старший	ADJ	JJL	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	17	amod	_	_

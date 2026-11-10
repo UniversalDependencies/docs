@@ -13,7 +13,7 @@ This relation is universal.
 16 instances of `nsubj` (55%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.6551724137931.
 
-The following 6 pairs of parts of speech are connected with `nsubj`: <tt><a href="sga_dipsgg-pos-VERB.html">VERB</a></tt>-<tt><a href="sga_dipsgg-pos-NOUN.html">NOUN</a></tt> (11; 38% instances), <tt><a href="sga_dipsgg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sga_dipsgg-pos-NOUN.html">NOUN</a></tt> (6; 21% instances), <tt><a href="sga_dipsgg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sga_dipsgg-pos-AUX.html">AUX</a></tt> (5; 17% instances), <tt><a href="sga_dipsgg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sga_dipsgg-pos-AUX.html">AUX</a></tt> (4; 14% instances), <tt><a href="sga_dipsgg-pos-VERB.html">VERB</a></tt>-<tt><a href="sga_dipsgg-pos-PROPN.html">PROPN</a></tt> (2; 7% instances), <tt><a href="sga_dipsgg-pos-PRON.html">PRON</a></tt>-<tt><a href="sga_dipsgg-pos-NOUN.html">NOUN</a></tt> (1; 3% instances).
+The following 7 pairs of parts of speech are connected with `nsubj`: <tt><a href="sga_dipsgg-pos-VERB.html">VERB</a></tt>-<tt><a href="sga_dipsgg-pos-NOUN.html">NOUN</a></tt> (11; 38% instances), <tt><a href="sga_dipsgg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sga_dipsgg-pos-NOUN.html">NOUN</a></tt> (6; 21% instances), <tt><a href="sga_dipsgg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sga_dipsgg-pos-AUX.html">AUX</a></tt> (5; 17% instances), <tt><a href="sga_dipsgg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sga_dipsgg-pos-AUX.html">AUX</a></tt> (3; 10% instances), <tt><a href="sga_dipsgg-pos-VERB.html">VERB</a></tt>-<tt><a href="sga_dipsgg-pos-PROPN.html">PROPN</a></tt> (2; 7% instances), <tt><a href="sga_dipsgg-pos-PRON.html">PRON</a></tt>-<tt><a href="sga_dipsgg-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="sga_dipsgg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sga_dipsgg-pos-AUX.html">AUX</a></tt> (1; 3% instances).
 
 
 ~~~ conllu
@@ -26,7 +26,7 @@ The following 6 pairs of parts of speech are connected with `nsubj`: <tt><a href
 2	a	a	PRON	_	Gender=Masc,Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	nmod:poss	_	SpaceAfter=No
 3	thitol	titul	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
 4	re	re	ADP	_	AdpType=Prep|Definite=Ind	6	case	_	_
-5	cach	cach	DET	_	Case=Dat|Definite=Def|Number=Sing	6	det	_	_
+5	cach	cach	DET	_	Case=Dat|Number=Sing|PronType=Tot	6	det	_	_
 6	libur	lebor	NOUN	_	Case=Dat|Number=Sing	3	nmod	_	_
 7	ar	ara	SCONJ	_	_	9	mark	_	_
 8	na	ná	SCONJ	_	Polarity=Neg	9	mark	_	SpaceAfter=No

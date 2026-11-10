@@ -9,16 +9,16 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Cmp`, `Pos`, `Sup`.
 
-13103 tokens (8%) have a non-empty value of `Degree`.
+13107 tokens (8%) have a non-empty value of `Degree`.
 6396 types (24%) occur at least once with a non-empty value of `Degree`.
-3379 lemmas (25%) occur at least once with a non-empty value of `Degree`.
-The feature is used with 3 part-of-speech tags: <tt><a href="cs_fictree-pos-ADJ.html">ADJ</a></tt> (10055; 6% instances), <tt><a href="cs_fictree-pos-ADV.html">ADV</a></tt> (3047; 2% instances), <tt><a href="cs_fictree-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+3380 lemmas (25%) occur at least once with a non-empty value of `Degree`.
+The feature is used with 3 part-of-speech tags: <tt><a href="cs_fictree-pos-ADJ.html">ADJ</a></tt> (10055; 6% instances), <tt><a href="cs_fictree-pos-ADV.html">ADV</a></tt> (3051; 2% instances), <tt><a href="cs_fictree-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 ### `ADJ`
 
 10055 <tt><a href="cs_fictree-pos-ADJ.html">ADJ</a></tt> tokens (92% of all `ADJ` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="cs_fictree-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (9743; 97%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7638; 76%), <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (5802; 58%).
+The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="cs_fictree-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (9743; 97%), <tt><a href="cs_fictree-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (9170; 91%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7638; 76%), <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (5802; 58%).
 
 `ADJ` tokens may have the following values of `Degree`:
 
@@ -72,16 +72,16 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 
 ### `ADV`
 
-3047 <tt><a href="cs_fictree-pos-ADV.html">ADV</a></tt> tokens (28% of all `ADV` tokens) have a non-empty value of `Degree`.
+3051 <tt><a href="cs_fictree-pos-ADV.html">ADV</a></tt> tokens (27% of all `ADV` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `ADV` and `Degree` co-occurred: <tt><a href="cs_fictree-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (3014; 99%), <tt><a href="cs_fictree-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (2931; 96%).
+The most frequent other feature values with which `ADV` and `Degree` co-occurred: <tt><a href="cs_fictree-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (3018; 99%), <tt><a href="cs_fictree-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (2935; 96%).
 
 `ADV` tokens may have the following values of `Degree`:
 
-* `Cmp` (293; 10% of non-empty `Degree`): <em>víc, později, dřív, dál, dříve, méně, raději, lépe, více, hůř</em>
-* `Pos` (2668; 88% of non-empty `Degree`): <em>dobře, často, dlouho, konečně, rychle, brzy, stejně, náhle, úplně, vždy</em>
+* `Cmp` (297; 10% of non-empty `Degree`): <em>víc, později, dřív, dál, dříve, méně, raději, lépe, více, hůř</em>
+* `Pos` (2668; 87% of non-empty `Degree`): <em>dobře, často, dlouho, konečně, rychle, brzy, stejně, náhle, úplně, vždy</em>
 * `Sup` (86; 3% of non-empty `Degree`): <em>nejvíc, nejdřív, nejméně, nejraději, nejrychleji, nejdál, nejlépe, nejvíce, nejdéle, nejmíň</em>
-* `EMPTY` (7905): <em>už, tak, jak, ještě, pak, tam, proč, teď, nikdy, kde</em>
+* `EMPTY` (8167): <em>tak, už, jak, ještě, pak, tam, proč, teď, nikdy, kde</em>
 
 <table>
   <tr><th>Paradigm <i>brzy</i></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>
@@ -89,7 +89,7 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
   <tr><td><tt><tt><a href="cs_fictree-feat-Style.html">Style</a></tt><tt>=Coll</tt></tt></td><td></td><td><em>dřív</em></td><td><em>nejdřív</em></td></tr>
 </table>
 
-`Degree` seems to be **lexical feature** of `ADV`. 96% lemmas (642) occur only with one value of `Degree`.
+`Degree` seems to be **lexical feature** of `ADV`. 96% lemmas (643) occur only with one value of `Degree`.
 
 ### `NOUN`
 
@@ -100,13 +100,13 @@ The most frequent other feature values with which `NOUN` and `Degree` co-occurre
 `NOUN` tokens may have the following values of `Degree`:
 
 * `Pos` (1; 100% of non-empty `Degree`): <em>hospodský</em>
-* `EMPTY` (27595): <em>chvíli, život, oči, dítě, den, člověk, plod, dívka, profesor, ruce</em>
+* `EMPTY` (27600): <em>chvíli, život, oči, dítě, den, člověk, plod, dívka, profesor, ruce</em>
 
 ## Relations with Agreement in `Degree`
 
 The 10 most frequent relations where parent and child node agree in `Degree`:
 <tt>ADJ --[<tt><a href="cs_fictree-dep-conj.html">conj</a></tt>]--> ADJ</tt> (493; 92%),
-<tt>ADV --[<tt><a href="cs_fictree-dep-conj.html">conj</a></tt>]--> ADV</tt> (76; 83%),
+<tt>ADV --[<tt><a href="cs_fictree-dep-conj.html">conj</a></tt>]--> ADV</tt> (76; 82%),
 <tt>ADJ --[<tt><a href="cs_fictree-dep-amod.html">amod</a></tt>]--> ADJ</tt> (13; 81%),
 <tt>ADJ --[<tt><a href="cs_fictree-dep-appos.html">appos</a></tt>]--> ADJ</tt> (12; 92%),
 <tt>ADJ --[<tt><a href="cs_fictree-dep-advcl.html">advcl</a></tt>]--> ADJ</tt> (11; 85%),

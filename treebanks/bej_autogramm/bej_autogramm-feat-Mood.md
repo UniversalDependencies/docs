@@ -24,7 +24,7 @@ The most frequent other feature values with which `PART` and `Mood` co-occurred:
 
 * `Imp` (18; 49% of non-empty `Mood`): <em>baː=</em>
 * `Opt` (19; 51% of non-empty `Mood`): <em>bi=, ba=</em>
-* `EMPTY` (284): <em>bak, ka=, han, ontʔa, ki=, jaː, bass, tʔa, geː, ʃaːwi</em>
+* `EMPTY` (284): <em>bak, ka=, ontʔa, han, ki=, jaː, bass, tʔa, geː, ʃaːwi</em>
 
 ### `VERB`
 
@@ -36,7 +36,7 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 
 * `Imp` (3; 19% of non-empty `Mood`): <em>hi</em>
 * `Opt` (13; 81% of non-empty `Mood`): <em>aakaj, ibarin, akaːj, amraːj, idʔiːn, nhaː, tdiːn, thiːw, tkatiːm, tkaːj</em>
-* `EMPTY` (2392): <em>eːn, indi, ini, jʔi, tindi, iːfi, jʔeːn, jʔeːtiːt, iːbri, akeːna</em>
+* `EMPTY` (2389): <em>eːn, indi, ini, jʔi, tindi, iːfi, jʔeːn, jʔeːtiːt, iːbri, akeːna</em>
 
 ### `AUX`
 

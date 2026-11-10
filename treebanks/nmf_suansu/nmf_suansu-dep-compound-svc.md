@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="nmf_suansu-dep-compound.html">compound</a></tt>.
 There are also 1 other language-specific subtypes of `compound`: <tt><a href="nmf_suansu-dep-compound-prt.html">compound:prt</a></tt>.
 
-19 nodes (1%) are attached to their parents as `compound:svc`.
+18 nodes (1%) are attached to their parents as `compound:svc`.
 
-16 instances of `compound:svc` (84%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.15789473684211.
+15 instances of `compound:svc` (83%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.16666666666667.
 
-The following 3 pairs of parts of speech are connected with `compound:svc`: <tt><a href="nmf_suansu-pos-VERB.html">VERB</a></tt>-<tt><a href="nmf_suansu-pos-VERB.html">VERB</a></tt> (17; 89% instances), <tt><a href="nmf_suansu-pos-VERB.html">VERB</a></tt>-<tt><a href="nmf_suansu-pos-ADP.html">ADP</a></tt> (1; 5% instances), <tt><a href="nmf_suansu-pos-VERB.html">VERB</a></tt>-<tt><a href="nmf_suansu-pos-ADV.html">ADV</a></tt> (1; 5% instances).
+The following 3 pairs of parts of speech are connected with `compound:svc`: <tt><a href="nmf_suansu-pos-VERB.html">VERB</a></tt>-<tt><a href="nmf_suansu-pos-VERB.html">VERB</a></tt> (16; 89% instances), <tt><a href="nmf_suansu-pos-VERB.html">VERB</a></tt>-<tt><a href="nmf_suansu-pos-ADP.html">ADP</a></tt> (1; 6% instances), <tt><a href="nmf_suansu-pos-VERB.html">VERB</a></tt>-<tt><a href="nmf_suansu-pos-ADV.html">ADV</a></tt> (1; 6% instances).
 
 
 ~~~ conllu

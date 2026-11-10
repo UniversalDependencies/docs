@@ -8,33 +8,27 @@ udver: '2'
 
 This relation is universal.
 
-267 nodes (1%) are attached to their parents as `cop`.
+324 nodes (0%) are attached to their parents as `cop`.
 
-208 instances of `cop` (78%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.38951310861423.
+262 instances of `cop` (81%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.36111111111111.
 
-The following 5 pairs of parts of speech are connected with `cop`: <tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pro_corag-pos-AUX.html">AUX</a></tt> (142; 53% instances), <tt><a href="pro_corag-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pro_corag-pos-AUX.html">AUX</a></tt> (96; 36% instances), <tt><a href="pro_corag-pos-PRON.html">PRON</a></tt>-<tt><a href="pro_corag-pos-AUX.html">AUX</a></tt> (25; 9% instances), <tt><a href="pro_corag-pos-NUM.html">NUM</a></tt>-<tt><a href="pro_corag-pos-AUX.html">AUX</a></tt> (3; 1% instances), <tt><a href="pro_corag-pos-ADV.html">ADV</a></tt>-<tt><a href="pro_corag-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 4 pairs of parts of speech are connected with `cop`: <tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pro_corag-pos-AUX.html">AUX</a></tt> (166; 51% instances), <tt><a href="pro_corag-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pro_corag-pos-AUX.html">AUX</a></tt> (128; 40% instances), <tt><a href="pro_corag-pos-PRON.html">PRON</a></tt>-<tt><a href="pro_corag-pos-AUX.html">AUX</a></tt> (27; 8% instances), <tt><a href="pro_corag-pos-NUM.html">NUM</a></tt>-<tt><a href="pro_corag-pos-AUX.html">AUX</a></tt> (3; 1% instances).
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 3 2 cop	color:blue
-1	et	_	CCONJ	_	_	3	cc	_	_
-2	suy	_	AUX	_	Number=Sing|Person=1|VerbForm=Fin	3	cop	_	_
-3	homicidi	_	NOUN	_	_	0	root	_	SpaceAfter=No
-4	,	_	PUNCT	_	_	3	punct	_	_
-5	speciaumentz	_	ADV	_	ExtPos=SCONJ	9	mark	_	_
-6	si	_	SCONJ	_	_	5	fixed	_	_
-7	jo	_	PRON	_	Number=Sing|Person=1|PronType=Prs	9	nsubj	_	_
-8	me	_	PRON	_	Number=Sing|Person=1|PronType=Prs|Reflex=Yes	9	expl	_	_
-9	geixi	_	VERB	_	Number=Sing|Person=1|VerbForm=Fin	3	advcl	_	_
-10	de	_	ADP	_	_	12	case	_	_
-11	la	_	DET	_	_	12	det	_	_
-12	biele	_	NOUN	_	_	9	obl	_	SpaceAfter=No
-13	.	_	PUNCT	_	_	3	punct	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 3 cop	color:blue
+1	Car	_	CCONJ	_	_	4	cc	_	_
+2	so	_	PRON	_	Gender=Neut|Number=Sing|PronType=Dem	4	nsubj	_	_
+3	es	_	AUX	_	Number=Sing|Person=3|VerbForm=Fin	4	cop	_	_
+4	consumption	_	NOUN	_	_	0	root	_	_
+5	de	_	ADP	_	_	6	case	_	_
+6	temps	_	NOUN	_	_	4	nmod	_	_
+7	,	_	PUNCT	_	_	4	punct	_	_
 
 ~~~
 

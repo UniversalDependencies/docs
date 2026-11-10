@@ -51,9 +51,8 @@ The most frequent other feature values with which `DET` and `Variant` co-occurre
 ## Relations with Agreement in `Variant`
 
 The 10 most frequent relations where parent and child node agree in `Variant`:
-<tt>ADJ --[<tt><a href="ru_poetry-dep-conj.html">conj</a></tt>]--> ADJ</tt> (158; 89%),
+<tt>ADJ --[<tt><a href="ru_poetry-dep-conj.html">conj</a></tt>]--> ADJ</tt> (159; 89%),
 <tt>ADJ --[<tt><a href="ru_poetry-dep-parataxis.html">parataxis</a></tt>]--> ADJ</tt> (10; 100%),
 <tt>ADJ --[<tt><a href="ru_poetry-dep-csubj.html">csubj</a></tt>]--> ADJ</tt> (2; 67%),
-<tt>VERB --[<tt><a href="ru_poetry-dep-acl.html">acl</a></tt>]--> VERB</tt> (1; 100%),
 <tt>VERB --[<tt><a href="ru_poetry-dep-conj.html">conj</a></tt>]--> DET</tt> (1; 100%).
 

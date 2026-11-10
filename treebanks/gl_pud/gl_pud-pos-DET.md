@@ -55,7 +55,7 @@ The 10 most frequent ambiguous types:  <em>o</em> (<tt><a href="gl_pud-pos-DET.h
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 2.535714 (the average of all parts of speech is 1.320042).
+The form / lemma ratio of `DET` is 2.535714 (the average of all parts of speech is 1.320110).
 
 The 1st highest number of forms (5) was observed with the lemma “o”: <em>a, as, la, o, os</em>.
 
@@ -63,12 +63,12 @@ The 2nd highest number of forms (4) was observed with the lemma “certo”: <em
 
 The 3rd highest number of forms (4) was observed with the lemma “ese”: <em>esa, esas, ese, eses</em>.
 
-`DET` occurs with 8 features: <tt><a href="gl_pud-feat-Gender.html">Gender</a></tt> (3809; 100% instances), <tt><a href="gl_pud-feat-Definite.html">Definite</a></tt> (3790; 99% instances), <tt><a href="gl_pud-feat-Number.html">Number</a></tt> (3784; 99% instances), <tt><a href="gl_pud-feat-PronType.html">PronType</a></tt> (3570; 94% instances), <tt><a href="gl_pud-feat-Person.html">Person</a></tt> (242; 6% instances), <tt><a href="gl_pud-feat-Poss.html">Poss</a></tt> (242; 6% instances), <tt><a href="gl_pud-feat-Number-psor.html">Number[psor]</a></tt> (15; 0% instances), <tt><a href="gl_pud-feat-ExtPos.html">ExtPos</a></tt> (2; 0% instances)
+`DET` occurs with 8 features: <tt><a href="gl_pud-feat-PronType.html">PronType</a></tt> (3815; 100% instances), <tt><a href="gl_pud-feat-Gender.html">Gender</a></tt> (3812; 100% instances), <tt><a href="gl_pud-feat-Definite.html">Definite</a></tt> (3793; 99% instances), <tt><a href="gl_pud-feat-Number.html">Number</a></tt> (3787; 99% instances), <tt><a href="gl_pud-feat-Person.html">Person</a></tt> (242; 6% instances), <tt><a href="gl_pud-feat-Poss.html">Poss</a></tt> (242; 6% instances), <tt><a href="gl_pud-feat-Number-psor.html">Number[psor]</a></tt> (15; 0% instances), <tt><a href="gl_pud-feat-ExtPos.html">ExtPos</a></tt> (2; 0% instances)
 
 `DET` occurs with 18 feature-value pairs: `Definite=Def`, `Definite=Ind`, `ExtPos=ADV`, `Gender=Fem`, `Gender=Masc`, `Number=Plur`, `Number=Sing`, `Number[psor]=Plur`, `Number[psor]=Sing`, `Person=1`, `Person=3`, `Poss=Yes`, `PronType=Art`, `PronType=Dem`, `PronType=Ind`, `PronType=Int`, `PronType=Prs`, `PronType=Rel`
 
-`DET` occurs with 37 feature combinations.
-The most frequent feature combination is `Definite=Def|Gender=Masc|Number=Sing|PronType=Art` (1186 tokens).
+`DET` occurs with 36 feature combinations.
+The most frequent feature combination is `Definite=Def|Gender=Masc|Number=Sing|PronType=Art` (1188 tokens).
 Examples: <em>o, el, a</em>
 
 

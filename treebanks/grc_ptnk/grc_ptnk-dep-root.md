@@ -47,7 +47,7 @@ The following 8 pairs of parts of speech are connected with `root`: -<tt><a href
 2	δὲ	δέ	CCONJ	_	_	4	cc	_	Gloss=but,and,however|Ref=GEN_7.6
 3	ἦν	εἰμί	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	cop	_	Gloss=to-be|Ref=GEN_7.6
 4	ἐτῶν	ἔτος	NOUN	_	Case=Gen|Gender=Neut|Number=Plur	0	root	_	Gloss=years|Ref=GEN_7.6
-5	ἑξακοσίων	ἑξακόσιοι	NUM	_	Case=Gen|Gender=Fem,Masc,Neut|Number=Plur|NumType=Card	4	nummod	_	Gloss=600|Ref=GEN_7.6|SpaceAfter=No
+5	ἑξακοσίων	ἑξακόσιοι	NUM	_	Case=Gen|Gender=Neut|Number=Plur|NumType=Card	4	nummod	_	Gloss=600|Ref=GEN_7.6|SpaceAfter=No
 6	,	,	PUNCT	_	_	7	punct	_	Ref=GEN_7.6
 7	καὶ	καί	CCONJ	_	_	10	cc	_	Gloss=and,also,even,then,next|Ref=GEN_7.6
 8	ὁ	ὁ	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	Gloss=the;-oh|Ref=GEN_7.6
@@ -70,7 +70,7 @@ The following 8 pairs of parts of speech are connected with `root`: -<tt><a href
 # visual-style 0 5 root	color:blue
 1	καὶ	καί	CCONJ	_	_	5	cc	_	Gloss=and,also,even,then,next|Ref=GEN_10.3
 2	υἱοὶ	υἱός	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	5	nsubj	_	Gloss=sons|Ref=GEN_10.3
-3	Γαμέρ	Γάμερ	PROPN	_	Case=Gen	2	nmod:poss	_	Gloss=Gomer|Ref=GEN_10.3|SpaceAfter=No
+3	Γαμέρ	Γάμερ	PROPN	_	Case=Gen|Gender=Masc	2	nmod:poss	_	Gloss=Gomer|Ref=GEN_10.3|SpaceAfter=No
 4	·	·	PUNCT	_	_	2	punct	_	Ref=GEN_10.3
 5	Ἀσχανὰζ	Ἀσχανάζ	PROPN	_	Gender=Masc	0	root	_	Gloss=Ashkenaz|Ref=GEN_10.3
 6	καὶ	καί	CCONJ	_	_	7	cc	_	Gloss=and,also,even,then,next|Ref=GEN_10.3

@@ -93,7 +93,7 @@ The following 3 pairs of parts of speech are connected with `nsubj:outer`: <tt><
 36	mi	mi	PRON	pf3xle	Person=3|PronType=Prs|Reflex=Yes	35	iobj	35:iobj	Clitic=Yes|UniqueTokenId=OldItalian_Dante_Paradiso-598_36
 37	,	,	PUNCT	_	_	31	punct	31:punct	UniqueTokenId=OldItalian_Dante_Paradiso-598_37
 38	quelli	quello	PRON	pd1mp	Gender=Masc|Number=Plur|PronType=Dem	54	nsubj:outer	54:nsubj:outer	Canto=20|Verso=35|UniqueTokenId=OldItalian_Dante_Paradiso-598_38
-39	onde	onde	PRON	p	_	45	obl:lmod	45:obl:lmod	Canto=20|Verso=35|UniqueTokenId=OldItalian_Dante_Paradiso-598_39
+39	onde	onde	PRON	p	PronType=Rel	45	obl:lmod	45:obl:lmod	Canto=20|Verso=35|UniqueTokenId=OldItalian_Dante_Paradiso-598_39
 40	l'	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	41	det	41:det	Canto=20|Verso=35|UniqueTokenId=OldItalian_Dante_Paradiso-598_40
 41	occhio	occhio	NOUN	sm2ms	Gender=Masc|Number=Sing	45	nsubj	45:nsubj	Canto=20|Verso=35|UniqueTokenId=OldItalian_Dante_Paradiso-598_41
 42	in	in	ADP	epsksl	_	43	case	43:case	Canto=20|Verso=35|UniqueTokenId=OldItalian_Dante_Paradiso-598_42

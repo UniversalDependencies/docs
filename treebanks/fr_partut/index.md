@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.0 release.
 The following people have contributed to making this treebank part of UD: Cristina Bosco, Manuela Sanguinetti.
 
 Repository: [UD_French-ParTUT](https://github.com/UniversalDependencies/UD_French-ParTUT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfr_partut218)<br />
-Download all treebanks: [UD 2.18](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfr_partut219)<br />
+Download all treebanks: [UD 2.19](/#download)
 
 License: CC BY-NC-SA 4.0
 
@@ -445,7 +445,7 @@ We are deeply grateful to Project Syndicate© for letting us download and exploi
   <li>Prs
     <ul>
       <li>DET: son, votre, sa, leur, ses, notre, leurs, mon, nos, vos</li>
-      <li>PRON: nous, il, je, vous, s', se, y, en, ils, j'</li>
+      <li>PRON: nous, il, je, vous, s', y, se, en, ils, j'</li>
     </ul>
   </li>
 </ul>
@@ -536,7 +536,7 @@ We are deeply grateful to Project Syndicate© for letting us download and exploi
       <li>AUX: est, a, sont, ont, soit, sera, soient, étaient, était, ait</li>
       <li>AUX-Fin: est, a, sont, ont, sera, soit, soient, étaient, était, ait</li>
       <li>DET: une</li>
-      <li>PRON: il, ce, s', se, y, on, ils, le, elle, elles</li>
+      <li>PRON: il, ce, y, s', se, on, ils, le, elle, elles</li>
       <li>VERB-Fin: a, peut, doit, est, devrait, convient, ont, peuvent, fait, concerne</li>
     </ul>
   </li>
@@ -595,6 +595,7 @@ We are deeply grateful to Project Syndicate© for letting us download and exploi
       <li>CCONJ
         <ul>
           <li>ADV: ainsi</li>
+          <li>PRON: y</li>
         </ul>
       </li>
       <li>PRON
@@ -607,7 +608,6 @@ We are deeply grateful to Project Syndicate© for letting us download and exploi
       <li>SCONJ
         <ul>
           <li>ADV: parce, alors, tant, tandis, Bien, autrement</li>
-          <li>SCONJ: parce</li>
         </ul>
       </li>
     </ul>

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-76 nodes (2%) are attached to their parents as `advcl`.
+87 nodes (2%) are attached to their parents as `advcl`.
 
-39 instances of `advcl` (51%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.03947368421053.
+44 instances of `advcl` (51%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.51724137931035.
 
-The following 5 pairs of parts of speech are connected with `advcl`: <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt> (67; 88% instances), <tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt> (3; 4% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt> (3; 4% instances), <tt><a href="pay_chibergis-pos-ADV.html">ADV</a></tt>-<tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt> (2; 3% instances), <tt><a href="pay_chibergis-pos-X.html">X</a></tt>-<tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
+The following 8 pairs of parts of speech are connected with `advcl`: <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt> (73; 84% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt> (4; 5% instances), <tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt> (3; 3% instances), <tt><a href="pay_chibergis-pos-ADV.html">ADV</a></tt>-<tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt> (2; 2% instances), <tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt> (2; 2% instances), <tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pay_chibergis-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="pay_chibergis-pos-X.html">X</a></tt>-<tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -30,6 +30,24 @@ The following 5 pairs of parts of speech are connected with `advcl`: <tt><a href
 6	apuru	puru	VERB	VT	Voice=Rcp	7	compound:svc	_	AlignBegin=100676|AlignEnd=100820|Gloss=lean.on|MGloss=RECP lean.on|MSeg=a-puru|nWord=6|RX=[VT]|TokenType=Root|Word=apurupiʃbarpi|wordform=a-puru
 7	piʃbarpi	piʃ	VERB	V:ANY	Clusivity=Ex	3	advcl	_	AlignBegin=100820|AlignEnd=101034|Gloss=lay.down|MGloss=lay.down -S1PL.EXCL -FUT|MSeg=piʃ-bar-pi|nWord=6|RX=[VT]|TokenType=Root|Word=apurupiʃbarpi|wordform=piʃ-bar-pi
 8	=ra	=ra	SCONJ	PRT	_	7	mark	_	AlignBegin=101034|AlignEnd=101393|Gloss==PURP|MGloss==PURP|MSeg==ra|nWord=7|RX=[PRT]|TokenType=Clit|Word=ra
+
+~~~
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 2 advcl	color:blue
+1	ama	ama	INTJ	PRT	_	2	discourse	_	AlignBegin=307866|AlignEnd=308660|Gloss=HES|MGloss=HES|MSeg=ama|nWord=1|RX=[PRT]|TokenType=Root|Word=ama
+2	apara	apara	NOUN	N	_	6	advcl	_	AlignBegin=308660|AlignEnd=309454|Gloss=youth|MGloss=youth|MSeg=apara|nWord=2|RX=[N]|TokenType=Root|Word=apara
+3	=rawa	r	AUX	V:ANY	_	2	cop	_	AlignBegin=309454|AlignEnd=310248|Gloss==COP|MGloss==COP -S1SG -PFV|MSeg==r-a-wa|nWord=3|RX=[COP]|TokenType=Root|Word=rawa|wordform==r-a-wa
+4	=ras	=ras	SCONJ	PRT	_	2	mark	_	AlignBegin=310248|AlignEnd=311042|Gloss==REAS|MGloss==REAS|MSeg==ras|nWord=4|RX=[PRT]|TokenType=Clit|Word=ras
+5	ẽɲ	ẽɲ	NOUN	N	_	6	xcomp	_	AlignBegin=311042|AlignEnd=311836|Gloss=well|MGloss=well|MSeg=ẽɲ|nWord=5|RX=[N]|TokenType=Root|Word=ẽɲ
+6	tartaiʃkiuri	iʃk	VERB	V:ANY	Voice=Mid	0	root	_	AlignBegin=311836|AlignEnd=312630|Gloss=make|MGloss=O1- APPL.P- MID- make -S3SG -HAB -PST|MSeg=ta-r-ta-iʃk-i-u-ri|nWord=6|RX=[VT]|TokenType=Root|Word=tartiʃkuri|wordform=ta-r-ta-iʃk-i-u-ri
+7	ẽɲ	ẽɲ	NOUN	N	_	8	xcomp	_	AlignBegin=312630|AlignEnd=313424|Gloss=well|MGloss=well|MSeg=ẽɲ|nWord=7|RX=[N]|TokenType=Root|Word=ẽɲ
+8	tartaiʃkwa	iʃk	VERB	V:ANY	Voice=Mid	6	parataxis	_	AlignBegin=313424|AlignEnd=314220|Gloss=make|MGloss=O1- APPL.P- MID- make -S3SG -PFV|MSeg=ta-r-ta-iʃk-Ø-wa|nWord=8|RX=[VT]|TokenType=Root|Word=tartiʃkwã|wordform=ta-r-ta-iʃk-Ø-wa
 
 ~~~
 
@@ -53,27 +71,6 @@ The following 5 pairs of parts of speech are connected with `advcl`: <tt><a href
 11	eɲẽ	eɲẽ	NOUN	_	_	12	xcomp	_	AlignBegin=247643|AlignEnd=247783|Gloss=well|MGloss=well|MSeg=eɲẽ|nWord=11|RX=[N]|TokenType=Root
 12	=ʔi	=r	PART	_	_	8	advmod	_	AlignBegin=247783|AlignEnd=247923|Gloss==COP:S3SG:PFV|MGloss==COP:S3SG:PFV|MSeg==ʔi|nWord=12|RX=[PRT]|TokenType=Clit
 13	.	_	PUNCT	_	_	1	punct	_	AlignBegin=247923|AlignEnd=248057|Gloss=.|MGloss=.|MSeg=.|nWord=13
-
-~~~
-
-
-~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 7 advcl	color:blue
-1	iʃkerpi	iʃk	VERB	_	_	3	advcl	_	AlignBegin=17020|AlignEnd=17319|Gloss=make|MGloss=O3SG- make -S3PL -FUT|MSeg=Ø-iʃk-er-pi|nWord=1|RX=[VT]|TokenType=Root|wordform=Ø-iʃk-er-pi
-2	=kan	_	PART	_	_	1	mark	_	AlignBegin=17319|AlignEnd=17618|Gloss==SIM|MGloss==SIM|MSeg==kan|nWord=2|RX=[PRT]|TokenType=Clit
-3	ʃairwa	tʃa	VERB	_	_	0	root	_	AlignBegin=17618|AlignEnd=17917|Gloss=be.there|MGloss=be.there -S3PL -PFV|MSeg=ʃa-ir-wa|nWord=3|RX=[VI]|TokenType=Root|wordform=ʃa-ir-wa
-4	,	_	PUNCT	_	_	3	punct	_	AlignBegin=17917|AlignEnd=18216|MSeg=,|nWord=4
-5	ãma	ãma	PART	_	_	3	discourse	_	AlignBegin=18216|AlignEnd=18515|Gloss=HES|MGloss=HES|MSeg=ãma|nWord=5|RX=[PRT]|TokenType=Root
-6	,	_	PUNCT	_	_	5	punct	_	AlignBegin=18515|AlignEnd=18814|MSeg=,|nWord=6
-7	peʃ	peʃ	NOUN	_	_	3	advcl	_	AlignBegin=18814|AlignEnd=19113|Gloss=people|MGloss=people|MSeg=peʃ|nWord=7|RX=[N]|TokenType=Root
-8	akwa	akwa	NOUN	_	_	7	nmod	_	AlignBegin=19113|AlignEnd=19412|Gloss=other|MGloss=other|MSeg=akwa|nWord=8|RX=[N]|TokenType=Root
-9	=leri	_	AUX	_	_	7	cop	_	AlignBegin=19412|AlignEnd=19711|Gloss==COP|MGloss==COP -S3PL -PST|MSeg==l-er-i|nWord=9|RX=[COP]|TokenType=Root|wordform==l-er-i
-10	=ken	_	PART	_	_	7	mark	_	AlignBegin=19711|AlignEnd=20010|Gloss==SIM|MGloss==SIM|MSeg==ken|nWord=10|RX=[PRT]|TokenType=Clit
-11	.	_	PUNCT	_	_	3	punct	_	AlignBegin=20010|AlignEnd=20310|Gloss=.|MGloss=.|MSeg=.|nWord=11
 
 ~~~
 

@@ -46,7 +46,7 @@ The following 10 pairs of parts of speech are connected with `nmod:poss`: <tt><a
 3	Jesu	_	PROPN	NPR-G	Case=Gen|Definite=Ind|Number=Sing	2	nmod:poss	_	_
 4	Krists	_	PROPN	NPR-G	Case=Gen|Definite=Ind|Number=Sing	3	flat:name	_	_
 5	úr	_	ADP	P	_	6	case	_	_
-6	Nasaret	_	PROPN	NPR-D	Case=Dat|Definite=Ind|Number=Sing	3	obl	_	SpaceAfter=No
+6	Nasaret	_	PROPN	NPR-D	Case=Dat|Definite=Ind|Number=Sing	3	nmod	_	SpaceAfter=No
 7	,	,	PUNCT	,	_	6	punct	_	_
 8	statt	_	VERB	VBI	Mood=Imp	0	root	_	_
 9	upp	_	ADP	RP	_	8	compound:prt	_	_
@@ -71,7 +71,7 @@ The following 10 pairs of parts of speech are connected with `nmod:poss`: <tt><a
 5	trúliga	_	ADV	ADV	Degree=Pos	4	advmod	_	_
 6	á	_	ADP	RP	_	4	compound:prt	_	_
 7	í	_	ADP	P	_	8	case	_	_
-8	bönini	_	NOUN	N-D	Case=Dat|Definite=Def|Number=Sing	11	obl	_	_
+8	bönini	_	NOUN	N-D	Case=Dat|Definite=Def|Number=Sing	11	nmod	_	_
 9	og	_	CCONJ	CONJ	_	11	cc	_	_
 10	í	_	ADP	P	_	11	case	_	_
 11	tænastu	_	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	4	obl	_	_

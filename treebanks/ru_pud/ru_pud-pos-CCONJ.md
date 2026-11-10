@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Russian-PUD: POS Tags: `CCONJ`
 
 There are 8 `CCONJ` lemmas (0%), 8 `CCONJ` types (0%) and 624 `CCONJ` tokens (3%).
-Out of 17 observed tags, the rank of `CCONJ` is: 14 in number of lemmas, 15 in number of types and 9 in number of tokens.
+Out of 17 observed tags, the rank of `CCONJ` is: 14 in number of lemmas, 15 in number of types and 10 in number of tokens.
 
 The 10 most frequent `CCONJ` lemmas: <em>и, но, а, однако, или, либо, да, иначе</em>
 
@@ -27,7 +27,7 @@ The 10 most frequent ambiguous types:  <em>и</em> (<tt><a href="ru_pud-pos-CCON
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.496727).
+The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.499132).
 
 The 1st highest number of forms (1) was observed with the lemma “а”: <em>а</em>.
 
@@ -35,14 +35,20 @@ The 2nd highest number of forms (1) was observed with the lemma “да”: <em>
 
 The 3rd highest number of forms (1) was observed with the lemma “и”: <em>и</em>.
 
-`CCONJ` does not occur with any features.
+`CCONJ` occurs with 1 features: <tt><a href="ru_pud-feat-ExtPos.html">ExtPos</a></tt> (19; 3% instances)
+
+`CCONJ` occurs with 1 feature-value pairs: `ExtPos=CCONJ`
+
+`CCONJ` occurs with 2 feature combinations.
+The most frequent feature combination is `_` (605 tokens).
+Examples: <em>и, но, а, однако, или, либо, иначе</em>
 
 
 ## Relations
 
 `CCONJ` nodes are attached to their parents using 4 different relations: <tt><a href="ru_pud-dep-cc.html">cc</a></tt> (588; 94% instances), <tt><a href="ru_pud-dep-advmod.html">advmod</a></tt> (33; 5% instances), <tt><a href="ru_pud-dep-fixed.html">fixed</a></tt> (2; 0% instances), <tt><a href="ru_pud-dep-discourse.html">discourse</a></tt> (1; 0% instances)
 
-Parents of `CCONJ` nodes belong to 10 different parts of speech: <tt><a href="ru_pud-pos-VERB.html">VERB</a></tt> (253; 41% instances), <tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt> (212; 34% instances), <tt><a href="ru_pud-pos-ADJ.html">ADJ</a></tt> (70; 11% instances), <tt><a href="ru_pud-pos-PROPN.html">PROPN</a></tt> (58; 9% instances), <tt><a href="ru_pud-pos-ADV.html">ADV</a></tt> (11; 2% instances), <tt><a href="ru_pud-pos-NUM.html">NUM</a></tt> (7; 1% instances), <tt><a href="ru_pud-pos-AUX.html">AUX</a></tt> (6; 1% instances), <tt><a href="ru_pud-pos-PRON.html">PRON</a></tt> (5; 1% instances), <tt><a href="ru_pud-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="ru_pud-pos-X.html">X</a></tt> (1; 0% instances)
+Parents of `CCONJ` nodes belong to 10 different parts of speech: <tt><a href="ru_pud-pos-VERB.html">VERB</a></tt> (253; 41% instances), <tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt> (212; 34% instances), <tt><a href="ru_pud-pos-ADJ.html">ADJ</a></tt> (70; 11% instances), <tt><a href="ru_pud-pos-PROPN.html">PROPN</a></tt> (53; 8% instances), <tt><a href="ru_pud-pos-ADV.html">ADV</a></tt> (11; 2% instances), <tt><a href="ru_pud-pos-NUM.html">NUM</a></tt> (7; 1% instances), <tt><a href="ru_pud-pos-AUX.html">AUX</a></tt> (6; 1% instances), <tt><a href="ru_pud-pos-X.html">X</a></tt> (6; 1% instances), <tt><a href="ru_pud-pos-PRON.html">PRON</a></tt> (5; 1% instances), <tt><a href="ru_pud-pos-DET.html">DET</a></tt> (1; 0% instances)
 
 603 (97%) `CCONJ` nodes are leaves.
 

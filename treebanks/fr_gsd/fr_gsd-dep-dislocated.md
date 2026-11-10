@@ -50,7 +50,7 @@ The following 15 pairs of parts of speech are connected with `dislocated`: <tt><
 4	plus	plus	SCONJ	_	_	7	cc	_	_
 5	ils	lui	PRON	_	Case=Nom|Emph=No|Gender=Masc|Number=Plur|Person=3|PronType=Prs	7	nsubj:pass	_	_
 6	sont	être	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	aux:pass	_	_
-7	réprimés	réprimer	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No|Tense[denom]=Past
+7	réprimés	réprimer	VERB	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No|Status[Tense]=Denom
 8	,	,	PUNCT	_	_	11	punct	_	_
 9	plus	plus	SCONJ	_	_	11	cc	_	_
 10	ils	lui	PRON	_	Case=Nom|Emph=No|Gender=Masc|Number=Plur|Person=3|PronType=Prs	11	nsubj	_	_

@@ -30,7 +30,7 @@ The following 3 pairs of parts of speech are connected with `amod`: <tt><a href=
 6	ʔara	ʔar	NOUN	n	Case=Ref	7	nmod	_	_
 7	sɨkeme	sɨk	NOUN	n	Mood=Sub	39	advcl	_	_
 8	,	,	PUNCT	punct	_	7	punct	_	_
-9	apɨaβamo	apɨaβ	NOUN	n	Case=Tra	14	obl	_	_
+9	apɨaβamo	apɨaβ	NOUN	n	Case=Tra	14	nmod	_	_
 10	osɨ	sɨ	NOUN	n	Reflex=Yes	11	nmod	_	_
 11	rɨge	rɨge	NOUN	n	Rel=Cont	14	nmod	_	_
 12	swi	swi	ADP	posp	_	11	case	_	_

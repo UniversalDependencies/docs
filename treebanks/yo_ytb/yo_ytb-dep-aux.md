@@ -11,9 +11,9 @@ This relation is universal.
 349 nodes (4%) are attached to their parents as `aux`.
 
 332 instances of `aux` (95%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.50429799426934.
+Average distance between parent and child is 1.4756446991404.
 
-The following 6 pairs of parts of speech are connected with `aux`: <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-AUX.html">AUX</a></tt> (330; 95% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-AUX.html">AUX</a></tt> (7; 2% instances), <tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yo_ytb-pos-AUX.html">AUX</a></tt> (5; 1% instances), <tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt>-<tt><a href="yo_ytb-pos-AUX.html">AUX</a></tt> (3; 1% instances), <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt>-<tt><a href="yo_ytb-pos-AUX.html">AUX</a></tt> (3; 1% instances), <tt><a href="yo_ytb-pos-PART.html">PART</a></tt>-<tt><a href="yo_ytb-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 6 pairs of parts of speech are connected with `aux`: <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-AUX.html">AUX</a></tt> (329; 94% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-AUX.html">AUX</a></tt> (7; 2% instances), <tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yo_ytb-pos-AUX.html">AUX</a></tt> (5; 1% instances), <tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt>-<tt><a href="yo_ytb-pos-AUX.html">AUX</a></tt> (4; 1% instances), <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt>-<tt><a href="yo_ytb-pos-AUX.html">AUX</a></tt> (3; 1% instances), <tt><a href="yo_ytb-pos-PART.html">PART</a></tt>-<tt><a href="yo_ytb-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -82,7 +82,7 @@ The following 6 pairs of parts of speech are connected with `aux`: <tt><a href="
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 8 aux	color:blue
-1	Kíyèsí	Kíyèsí	INTJ	_	_	5	discourse	_	Gloss=behold|Ref=PS_133.1|SpaceAfter=No
+1	Kíyèsí	kíyèsí	INTJ	_	_	5	discourse	_	Gloss=behold|Ref=PS_133.1|SpaceAfter=No
 2	,	,	PUNCT	_	_	5	punct	_	Gloss=,|Ref=PS_133.1
 3	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	Gloss=it|Ref=PS_133.1
 4	ti	ti	AUX	_	_	5	aux	_	Gloss=have|Ref=PS_133.1

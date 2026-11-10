@@ -12,17 +12,17 @@ It occurs with 3 different values: `Fin`, `Inf`, `Part`.
 18480 tokens (17%) have a non-empty value of `VerbForm`.
 3059 types (28%) occur at least once with a non-empty value of `VerbForm`.
 1704 lemmas (20%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 2 part-of-speech tags: <tt><a href="en_lines-pos-VERB.html">VERB</a></tt> (12551; 12% instances), <tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (5929; 6% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="en_lines-pos-VERB.html">VERB</a></tt> (12549; 12% instances), <tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (5931; 6% instances).
 
 ### `VERB`
 
-12551 <tt><a href="en_lines-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
+12549 <tt><a href="en_lines-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="en_lines-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (11190; 89%), <tt><a href="en_lines-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (6704; 53%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="en_lines-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (11188; 89%), <tt><a href="en_lines-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (6704; 53%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
-* `Fin` (5829; 46% of non-empty `VerbForm`): <em>said, was, had, is, came, seemed, looked, went, made, felt</em>
+* `Fin` (5827; 46% of non-empty `VerbForm`): <em>said, was, had, is, came, seemed, looked, went, made, felt</em>
 * `Inf` (2951; 24% of non-empty `VerbForm`): <em>see, know, do, make, go, get, have, say, take, be</em>
 * `Part` (3771; 30% of non-empty `VerbForm`): <em>going, done, using, come, made, looking, taken, trying, moving, taking</em>
 * `EMPTY` (4): <em>See, Take, fixed, salutant</em>
@@ -41,13 +41,13 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 
 ### `AUX`
 
-5929 <tt><a href="en_lines-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `VerbForm`.
+5931 <tt><a href="en_lines-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="en_lines-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (5181; 87%), <tt><a href="en_lines-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (3944; 67%), <tt><a href="en_lines-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (3943; 67%).
+The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="en_lines-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (5182; 87%), <tt><a href="en_lines-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (3946; 67%), <tt><a href="en_lines-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (3945; 67%).
 
 `AUX` tokens may have the following values of `VerbForm`:
 
-* `Fin` (5181; 87% of non-empty `VerbForm`): <em>was, had, is, were, would, are, can, could, have, 's</em>
+* `Fin` (5183; 87% of non-empty `VerbForm`): <em>was, had, is, were, would, are, can, could, have, 's</em>
 * `Inf` (402; 7% of non-empty `VerbForm`): <em>be, have, do, get</em>
 * `Part` (346; 6% of non-empty `VerbForm`): <em>been, being, having, had</em>
 * `EMPTY` (4): <em>'re, 'd, can</em>
@@ -63,6 +63,7 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
   <tr><td><tt><tt><a href="en_lines-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="en_lines-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="en_lines-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>were</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="en_lines-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="en_lines-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>were</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="en_lines-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="en_lines-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>are, 're, 'm, Be</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="en_lines-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="en_lines-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>were</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="en_lines-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td></td><td><em>been</em></td></tr>
   <tr><td><tt><tt><a href="en_lines-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td></td><td><em>being</em></td></tr>
 </table>

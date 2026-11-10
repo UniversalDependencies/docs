@@ -28,7 +28,7 @@ The following 3 pairs of parts of speech are connected with `flat:name`: <tt><a 
 4	κάτοικοι	κάτοικος	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	2	nsubj	_	Gloss=inhabitant|Ref=GEN_50.11
 5	τῆς	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	Gloss=the|Ref=GEN_50.11
 6	γῆς	γῆ	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	4	nmod:poss	_	Gloss=earth,land|Ref=GEN_50.11
-7	Χαναὰν	Χανάαν	PROPN	_	Case=Gen|Number=Sing	6	nmod:poss	_	Gloss=Canaan|Ref=GEN_50.11
+7	Χαναὰν	Χανάαν	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	6	nmod:poss	_	Gloss=Canaan|Ref=GEN_50.11
 8	τὸ	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	9	det	_	Gloss=the|Ref=GEN_50.11
 9	πένθος	πένθος	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	2	obj	_	Gloss=sorrow|Ref=GEN_50.11
 10	ἐν	ἐν	ADP	_	_	11	case	_	Gloss=in,on,by,with,to|Ref=GEN_50.11
@@ -94,7 +94,7 @@ The following 3 pairs of parts of speech are connected with `flat:name`: <tt><a 
 24	καὶ	καί	CCONJ	_	_	26	cc	_	Gloss=and,also,even,then,next|Ref=GEN_10.12
 25	ἀνὰ	ἀνά	ADP	_	_	26	case	_	Gloss=up,again|Ref=GEN_10.12
 26	μέσον	μέσος	ADJ	_	Case=Acc|Gender=Masc,Neut|Number=Sing	22	conj	_	Gloss=between,middle,among|Ref=GEN_10.12
-27	Χαλάχ	Χαλάχ	PROPN	_	Case=Gen	26	nmod:poss	_	Gloss=Calah|Ref=GEN_10.12|SpaceAfter=No
+27	Χαλάχ	Χαλάχ	PROPN	_	Case=Gen|Gender=Fem|Number=Sing	26	nmod:poss	_	Gloss=Calah|Ref=GEN_10.12|SpaceAfter=No
 28	·	·	PUNCT	_	_	29	punct	_	Ref=GEN_10.12
 29	αὕτη	οὗτος	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	31	nsubj	_	Gloss=this|Ref=GEN_10.12
 30	ἡ	ὁ	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	31	det	_	Gloss=the|Ref=GEN_10.12
@@ -143,7 +143,7 @@ The following 3 pairs of parts of speech are connected with `flat:name`: <tt><a 
 29	Ὀμμαίους	Ὀμμαίους	PROPN	_	Case=Acc|Gender=Masc|Number=Plur	17	conj	_	Gloss=Emim|Ref=GEN_14.5
 30	τοὺς	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	32	nsubj	_	Gloss=the|Ref=GEN_14.5
 31	ἐν	ἐν	ADP	_	_	32	case	_	Gloss=in,on,by,with,to|Ref=GEN_14.5
-32	Σαυῇ	Σαυῇ	PROPN	_	Case=Dat	29	acl:relcl	_	Gloss=Shaveh|Ref=GEN_14.5
+32	Σαυῇ	Σαυῇ	PROPN	_	Case=Dat|Gender=Fem|Number=Sing	29	acl:relcl	_	Gloss=Shaveh|Ref=GEN_14.5
 33	τῇ	ὁ	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	34	det	_	Gloss=the|Ref=GEN_14.5
 34	πόλει	πόλις	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	32	appos	_	Gloss=city|Ref=GEN_14.5
 35	καὶ	καί	CCONJ	_	_	37	cc	_	Gloss=and,also,even,then,next|Ref=GEN_14.6

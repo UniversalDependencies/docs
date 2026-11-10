@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="cs_fictree-dep-det.html">det</a></tt>.
 There are also 1 other language-specific subtypes of `det`: <tt><a href="cs_fictree-dep-det-nummod.html">det:nummod</a></tt>.
 
-217 nodes (0%) are attached to their parents as `det:numgov`.
+213 nodes (0%) are attached to their parents as `det:numgov`.
 
-203 instances of `det:numgov` (94%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.48847926267281.
+199 instances of `det:numgov` (93%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.45070422535211.
 
-The following 3 pairs of parts of speech are connected with `det:numgov`: <tt><a href="cs_fictree-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_fictree-pos-DET.html">DET</a></tt> (204; 94% instances), <tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt>-<tt><a href="cs_fictree-pos-DET.html">DET</a></tt> (11; 5% instances), <tt><a href="cs_fictree-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cs_fictree-pos-DET.html">DET</a></tt> (2; 1% instances).
+The following 3 pairs of parts of speech are connected with `det:numgov`: <tt><a href="cs_fictree-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_fictree-pos-DET.html">DET</a></tt> (200; 94% instances), <tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt>-<tt><a href="cs_fictree-pos-DET.html">DET</a></tt> (11; 5% instances), <tt><a href="cs_fictree-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cs_fictree-pos-DET.html">DET</a></tt> (2; 1% instances).
 
 
 ~~~ conllu
@@ -23,9 +23,9 @@ The following 3 pairs of parts of speech are connected with `det:numgov`: <tt><a
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 7 det:numgov	color:blue
-1	Víte	vědět	VERB	VB-P---2P-AA---	Mood=Ind|Number=Plur|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No
+1	Víte	vědět	VERB	VB-P---2P-AA---	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No
 2	,	,	PUNCT	Z:-------------	_	3	punct	3:punct	_
-3	mrzí	mrzet	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	0:root|1:conj	_
+3	mrzí	mrzet	VERB	VB-S---3P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	0:root|1:conj	_
 4	mě	já	PRON	PH-S4--1-------	Case=Acc|Number=Sing|Person=1|PronType=Prs|Variant=Short	3	obj	3:obj	_
 5	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	6	case	6:case	_
 6	životě	život	NOUN	NNIS6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	3	obl	3:obl:v:loc	_
@@ -48,7 +48,7 @@ The following 3 pairs of parts of speech are connected with `det:numgov`: <tt><a
 4	větru	vítr	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	nmod	3:nmod:gen	_
 5	jich	on	PRON	PPIP2--3-------	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|Person=3|PrepCase=Npr|PronType=Prs	7	nsubj	7:nsubj	_
 6	několik	několik	DET	Ca--1----------	Case=Nom|NumType=Card|PronType=Ind	5	det:numgov	5:det:numgov	_
-7	spadne	spadnout	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
+7	spadne	spadnout	VERB	VB-S---3P-AA---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
 8	na	na	ADP	RR--4----------	AdpType=Prep|Case=Acc	9	case	9:case	_
 9	zem	země	NOUN	NNFS4-----A---1	Case=Acc|Gender=Fem|Number=Sing	7	obl	7:obl:na:acc	SpaceAfter=No
 10	.	.	PUNCT	Z:-------------	_	7	punct	7:punct	_
@@ -69,10 +69,10 @@ The following 3 pairs of parts of speech are connected with `det:numgov`: <tt><a
 5	o	o	ADP	RR--4----------	AdpType=Prep|Case=Acc	6	case	6:case	_
 6	byty	byt	NOUN	NNIP4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	4	nmod	4:nmod:o:acc	SpaceAfter=No
 7	,	,	PUNCT	Z:-------------	_	8	punct	8:punct	_
-8	přišlo	přijít	VERB	VpNS----R-AA---	Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	1	conj	0:root|1:conj	_
+8	přišlo	přijít	VERB	VpNS----R-AA---	Aspect=Perf|Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	1	conj	0:root|1:conj	_
 9	sem	sem	ADV	Db-------------	_	8	advmod	8:advmod	_
 10	hodně	hodně	DET	Ca--1----------	Case=Nom|NumType=Card|PronType=Ind	12	det:numgov	12:det:numgov	_
-11	vyhnaných	vyhnaný	ADJ	AAMP2----1A----	Animacy=Anim|Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos	12	amod	12:amod	_
+11	vyhnaných	vyhnaný	ADJ	AAMP2----1A----	Animacy=Anim|Aspect=Perf|Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos	12	amod	12:amod	_
 12	Čechů	Čech	PROPN	NNMP2-----A----	Animacy=Anim|Case=Gen|Gender=Masc|NameType=Nat|Number=Plur	8	nsubj	8:nsubj	_
 13	z	z	ADP	RR--2----------	AdpType=Prep|Case=Gen	14	case	14:case	_
 14	pohraničí	pohraničí	NOUN	NNNS2-----A----	Case=Gen|Gender=Neut|Number=Sing	12	nmod	12:nmod:z:gen	_

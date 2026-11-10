@@ -11,9 +11,9 @@ This relation is universal.
 317 nodes (4%) are attached to their parents as `root`.
 
 317 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.20820189274448.
+Average distance between parent and child is 5.17665615141956.
 
-The following 7 pairs of parts of speech are connected with `root`: -<tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (269; 85% instances), -<tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (39; 12% instances), -<tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt> (3; 1% instances), -<tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> (2; 1% instances), -<tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), -<tt><a href="yo_ytb-pos-NUM.html">NUM</a></tt> (1; 0% instances), -<tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `root`: -<tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (266; 84% instances), -<tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (42; 13% instances), -<tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt> (3; 1% instances), -<tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> (2; 1% instances), -<tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), -<tt><a href="yo_ytb-pos-NUM.html">NUM</a></tt> (1; 0% instances), -<tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -25,7 +25,7 @@ The following 7 pairs of parts of speech are connected with `root`: -<tt><a href
 1	Ní	ní	ADP	_	_	2	case	_	Gloss=in|Ref=GEN_1.1
 2	ìbẹ̀rẹ̀	ìbẹ̀rẹ̀	NOUN	_	_	6	obl	_	Gloss=beginning|Ref=GEN_1.1
 3	ohun	ohun	NOUN	_	_	5	nmod	_	Gloss=things|Ref=GEN_1.1
-4	gbogbo	gbogbo	DET	_	_	5	det	_	Gloss=all|Ref=GEN_1.1
+4	gbogbo	gbogbo	DET	_	PronType=Tot	5	det	_	Gloss=all|Ref=GEN_1.1
 5	Ọlọ́run	ọlọ́run	NOUN	_	_	6	nsubj	_	Gloss=god|Ref=GEN_1.1
 6	dá	dá	VERB	_	_	0	root	_	Gloss=made|Ref=GEN_1.1
 7	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	8	det	_	Gloss=the|Ref=GEN_1.1
@@ -60,7 +60,7 @@ The following 7 pairs of parts of speech are connected with `root`: -<tt><a href
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 6 root	color:blue
-1	Alábùkún	Alábùkún	ADJ	_	_	6	nsubj	_	Gloss=blessed|Ref=MATT_5.8|SpaceAfter=No
+1	Alábùkún	alábùkún	ADJ	_	_	6	nsubj	_	Gloss=blessed|Ref=MATT_5.8|SpaceAfter=No
 2	-	-	PUNCT	_	_	3	punct	_	Gloss=-|Ref=MATT_5.8|SpaceAfter=No
 3	fún	fún	ADP	_	_	1	compound	_	Gloss=unto|Ref=MATT_5.8
 4	ni	ni	PART	_	_	6	case	_	Gloss=is|Ref=MATT_5.8
@@ -72,7 +72,7 @@ The following 7 pairs of parts of speech are connected with `root`: -<tt><a href
 10	wọn	wọn	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	12	nsubj	_	Gloss=they|Ref=MATT_5.8
 11	yóò	yóò	AUX	_	_	12	aux	_	Gloss=shall|Ref=MATT_5.8
 12	rí	rí	VERB	_	_	1	conj	_	Gloss=see|Ref=MATT_5.8
-13	Ọlọ́run	Ọlọ́run	NOUN	_	_	12	obj	_	Gloss=god|Ref=MATT_5.8|SpaceAfter=No
+13	Ọlọ́run	ọlọ́run	NOUN	_	_	12	obj	_	Gloss=god|Ref=MATT_5.8|SpaceAfter=No
 14	.	.	PUNCT	_	_	6	punct	_	Gloss=.|Ref=MATT_5.8
 
 ~~~

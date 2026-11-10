@@ -22,7 +22,7 @@ The most frequent other feature values with which `NUM` and `NumType` co-occurre
 
 `NUM` tokens may have the following values of `NumType`:
 
-* `Card` (1775; 100% of non-empty `NumType`): <em>deux, 5, trois, 2, 2006, 10, 30, 1, 3, 15</em>
+* `Card` (1775; 100% of non-empty `NumType`): <em>deux, 5, trois, 2, 2006, 10, 1, 30, 3, 4</em>
 * `EMPTY` (51): <em>50 000, 125 000, 1 500, 1 000, 1 200, 10 000, 13 819, 2 000, 2 127, 6 000</em>
 
 `NumType` seems to be **lexical feature** of `NUM`. 100% lemmas (401) occur only with one value of `NumType`.
@@ -36,7 +36,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 `ADJ` tokens may have the following values of `NumType`:
 
 * `Ord` (212; 100% of non-empty `NumType`): <em>première, premier, dernier, deuxième, 3e, premiers, troisième, quatrième, 1er, derniers</em>
-* `EMPTY` (4175): <em>autres, tous, ancien, indésirables, autre, zolédronique, européenne, rénale, politique, même</em>
+* `EMPTY` (4174): <em>autres, tous, ancien, indésirables, autre, zolédronique, européenne, rénale, politique, même</em>
 
 `NumType` seems to be **lexical feature** of `ADJ`. 100% lemmas (27) occur only with one value of `NumType`.
 
@@ -49,7 +49,7 @@ The most frequent other feature values with which `NOUN` and `NumType` co-occurr
 `NOUN` tokens may have the following values of `NumType`:
 
 * `Card` (67; 100% of non-empty `NumType`): <em>millions, milliards, milliard, million</em>
-* `EMPTY` (14961): <em>patients, affaire, bivalirudine, commission, ans, perfusion, traitement, mg, président, cas</em>
+* `EMPTY` (14959): <em>patients, affaire, bivalirudine, commission, ans, perfusion, traitement, mg, président, cas</em>
 
 ## Relations with Agreement in `NumType`
 

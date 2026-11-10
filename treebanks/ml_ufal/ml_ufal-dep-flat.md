@@ -23,13 +23,13 @@ The following 11 pairs of parts of speech are connected with `flat`: <tt><a href
 # visual-style 1	fgColor:white
 # visual-style 1 2 flat	color:blue
 1	പീറ്റർ	പീറ്റർ	PROPN	_	Animacy=Anim|Case=Nom|Number=Sing	7	nsubj	_	Translit=pīṟṟaṟ̕|LTranslit=pīṟṟaṟ̕
-2	സ്മിത്തിനെ	സ്മിത്ത്	PROPN	_	Animacy=Anim|Case=Acc|Number=Sing	1	flat	_	Translit=smittine|LTranslit=smitt
-3	ഓ	ഓ	CCONJ	_	_	1	cc	_	Translit=ō|LTranslit=ō
+2	സ്മിത്തിനെ	സ്മിത്ത്	PROPN	_	Animacy=Anim|Case=Acc|Number=Sing	1	flat	_	LTranslit=smitt|Translit=smittine
+3	ഓ	ഓ	CCONJ	_	_	1	cc	_	LTranslit=ō|Translit=ō
 4	മേരി	മേരി	PROPN	_	Animacy=Anim|Case=Nom|Number=Sing	1	conj	_	Translit=mēri|LTranslit=mēri
-5	ബ്രൗണിനെ	ബ്രൗൺ	PROPN	_	Animacy=Anim|Case=Acc|Number=Sing	4	flat	_	Translit=brauṇine|LTranslit=brauṇ̕
-6	ഓ	ഓ	CCONJ	_	_	4	cc	_	Translit=ō|LTranslit=ō
-7	തിരഞ്ഞെടുക്കാൻ	തിരഞ്ഞെടുകുക	VERB	_	Polarity=Pos|VerbForm=Inf|Voice=Act	0	root	_	Translit=tiraññeṭukkān̕|LTranslit=tiraññeṭukuka
-8	ആയില്ല	ആക്	AUX	_	Mood=Ind|Polarity=Neg|Tense=Past|VerbForm=Fin	7	aux	_	Translit=āyilla|LTranslit=āk
+5	ബ്രൗണിനെ	ബ്രൗൺ	PROPN	_	Animacy=Anim|Case=Acc|Number=Sing	4	flat	_	LTranslit=brauṇ̕|Translit=brauṇine
+6	ഓ	ഓ	CCONJ	_	_	4	cc	_	LTranslit=ō|Translit=ō
+7	തിരഞ്ഞെടുക്കാൻ	തിരഞ്ഞെടുകുക	VERB	_	Polarity=Pos|VerbForm=Inf|Voice=Act	0	root	_	LTranslit=tiraññeṭukuka|Translit=tiraññeṭukkān̕
+8	ആയില്ല	ആക്	AUX	_	Mood=Ind|Polarity=Neg|Tense=Past|VerbForm=Fin	7	aux	_	LTranslit=āk|Translit=āyilla
 9	.	.	PUNCT	_	_	7	punct	_	Translit=.|LTranslit=.
 
 ~~~

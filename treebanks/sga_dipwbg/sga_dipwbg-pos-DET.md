@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Old_Irish-DipWBG: POS Tags: `DET`
 
 There are 2 `DET` lemmas (1%), 5 `DET` types (2%) and 9 `DET` tokens (2%).
-Out of 12 observed tags, the rank of `DET` is: 11 in number of lemmas, 10 in number of types and 11 in number of tokens.
+Out of 12 observed tags, the rank of `DET` is: 11 in number of lemmas, 11 in number of types and 11 in number of tokens.
 
 The 10 most frequent `DET` lemmas: <em>in, a</em>
 
@@ -25,14 +25,14 @@ The 10 most frequent ambiguous types:  <em>a</em> (<tt><a href="sga_dipwbg-pos-P
   * <tt><a href="sga_dipwbg-pos-SCONJ.html">SCONJ</a></tt> 1: <em>.i. <b>a</b> nno ngeiss cách imm a chomalnad</em>
 * <em>in</em>
   * <tt><a href="sga_dipwbg-pos-DET.html">DET</a></tt> 2: <em>.i. ni ar formut frib si as biur sa <b>in</b> so ar ropad maith lim sa labrad il belre dúib si</em>
-  * <tt><a href="sga_dipwbg-pos-PART.html">PART</a></tt> 1: <em>.i. cain ronóibad abracham tri hiris <b>in</b> tree ǽm didiu fa nacc</em>
+  * <tt><a href="sga_dipwbg-pos-PART.html">PART</a></tt> 1: <em>.i. cain ro nóibad abracham tri hiris <b>in</b> tree ǽm didiu fa nacc</em>
 * <em>na</em>
   * <tt><a href="sga_dipwbg-pos-SCONJ.html">SCONJ</a></tt> 3: <em>.i. ar <b>na</b> érbarthar o chretsit ni n tá airli ar mban</em>
   * <tt><a href="sga_dipwbg-pos-DET.html">DET</a></tt> 1: <em>.i. ni riat <b>na</b> dánu diadi ar a nindeb domunde</em>
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 2.500000 (the average of all parts of speech is 1.430108).
+The form / lemma ratio of `DET` is 2.500000 (the average of all parts of speech is 1.435484).
 
 The 1st highest number of forms (4) was observed with the lemma “in”: <em>in, ind, inna, na</em>.
 
@@ -43,8 +43,8 @@ The 2nd highest number of forms (2) was observed with the lemma “a”: <em>a, 
 `DET` occurs with 9 feature-value pairs: `Case=Acc`, `Case=Gen`, `Case=Nom`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Number=Plur`, `Number=Sing`, `PronType=Art`
 
 `DET` occurs with 7 feature combinations.
-The most frequent feature combination is `Case=Acc|Gender=Neut|Number=Plur|PronType=Art` (2 tokens).
-Examples: <em>inna</em>
+The most frequent feature combination is `Case=Nom|Gender=Masc|Number=Sing|PronType=Art` (2 tokens).
+Examples: <em>in</em>
 
 
 ## Relations

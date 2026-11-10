@@ -10,7 +10,7 @@ This feature is universal but the values `0` are language-specific.
 It occurs with 4 different values: `0`, `1`, `2`, `3`.
 
 30410 tokens (9%) have a non-empty value of `Person`.
-5648 types (9%) occur at least once with a non-empty value of `Person`.
+5647 types (9%) occur at least once with a non-empty value of `Person`.
 2731 lemmas (10%) occur at least once with a non-empty value of `Person`.
 The feature is used with 4 part-of-speech tags: <tt><a href="pl_pdb-pos-VERB.html">VERB</a></tt> (17818; 5% instances), <tt><a href="pl_pdb-pos-PRON.html">PRON</a></tt> (6042; 2% instances), <tt><a href="pl_pdb-pos-AUX.html">AUX</a></tt> (5608; 2% instances), <tt><a href="pl_pdb-pos-DET.html">DET</a></tt> (942; 0% instances).
 

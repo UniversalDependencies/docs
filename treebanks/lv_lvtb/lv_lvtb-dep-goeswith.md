@@ -77,18 +77,24 @@ The following 7 pairs of parts of speech are connected with `goeswith`: <tt><a h
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 goeswith	color:blue
-1	Līdz	līdzko	SCONJ	cs	Typo=Yes	7	mark	7:mark	CorrectForm=Līdzko|CorrectionType=Spacing,Spelling|CorrectSpaceAfter=No|LvtbNodeId=a-p267-p2s7w1
-2	ko	_	X	_	_	1	goeswith	1:goeswith	LvtbNodeId=a-p267-p2s7w1
-3	apdzīvojamā	apdzīvot	VERB	vmnpdfsnppypn	Case=Nom|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Pass	4	amod	4:amod	LvtbNodeId=a-p267-p2s7w2
-4	teritorija	teritorija	NOUN	ncfsn4	Case=Nom|Gender=Fem|Number=Sing	7	nsubj	7:nsubj	LvtbNodeId=a-p267-p2s7w3
-5	vairs	vairs	ADV	r0n	_	7	advmod	7:advmod	LvtbNodeId=a-p267-p2s7w4
-6	nebūs	būt	AUX	vcnifii30ay	Evident=Fh|Mood=Ind|Person=3|Polarity=Neg|Tense=Fut|VerbForm=Fin|Voice=Act	7	cop	7:cop	LvtbNodeId=a-p267-p2s7w5
-7	apbūvējama	apbūvēt	VERB	vmnpdfsnppnpn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Pass	10	advcl	10:advcl	LvtbNodeId=a-p267-p2s7w6|SpaceAfter=No
-8	,	,	PUNCT	zc	_	7	punct	7:punct	LvtbNodeId=a-p267-p2s7w7
-9	tajā	tā	DET	pd3fsln	Case=Loc|Gender=Fem|Number=Sing|Person=3|PronType=Dem	10	obl	10:obl:loc	LvtbNodeId=a-p267-p2s7w8
-10	iestāsies	iestāties	VERB	vmyifi130an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Reflex=Yes|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-p267-p2s7w9
-11	stagnācija	stagnācija	NOUN	ncfsn4	Case=Nom|Gender=Fem|Number=Sing	10	nsubj	10:nsubj	LvtbNodeId=a-p267-p2s7w10|SpaceAfter=No
-12	.	.	PUNCT	zs	_	10	punct	10:punct	LvtbNodeId=a-p267-p2s7w11
+1	Līdz	līdzko	SCONJ	cs	Typo=Yes	4	mark	4:mark	CorrectForm=Līdzko|CorrectionType=Spacing,Spelling|CorrectSpaceAfter=No|LvtbNodeId=a-p1494-p5s2w1
+2	ko	_	X	_	_	1	goeswith	1:goeswith	LvtbNodeId=a-p1494-p5s2w1
+3	to	tas	DET	pd3msan	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Dem	4	obj	4:obj	LvtbNodeId=a-p1494-p5s2w2
+4	izdara	izdarīt	VERB	vmnipt330an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	9	advcl	9:advcl|14:advcl|16:advcl	LvtbNodeId=a-p1494-p5s2w3|SpaceAfter=No
+5	,	,	PUNCT	zc	_	4	punct	4:punct	LvtbNodeId=a-p1494-p5s2w4
+6	tā	tā	ADV	r0n	PronType=Dem	9	advmod	9:advmod|14:advmod|16:advmod	LvtbNodeId=a-p1494-p5s2w5
+7	kāds	kāds	DET	pi0msnn	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	8	det	8:det	LvtbNodeId=a-p1494-p5s2w6
+8	stāvvads	stāvvads	NOUN	ncmsn1	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	9:nsubj|10:nsubj	LvtbNodeId=a-p1494-p5s2w7
+9	sāk	sākt	VERB	vpnipi130an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-p1494-p5s2w8
+10	nesildīt	sildīt	VERB	vmnn0t3000y	Polarity=Neg|VerbForm=Inf	9	xcomp	9:xcomp	LvtbNodeId=a-p1494-p5s2w9|SpaceAfter=No
+11	,	,	PUNCT	zc	_	14	punct	14:punct	LvtbNodeId=a-p1494-p5s2w10
+12	kādam	kāds	DET	pi0msdn	Case=Dat|Gender=Masc|Number=Sing|PronType=Ind	14	obl	14:obl:dat	LvtbNodeId=a-p1494-p5s2w11
+13	ir	būt	AUX	vcnipii30an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	14	cop	14:cop	LvtbNodeId=a-p1494-p5s2w12
+14	auksti	auksti	ADV	rpn	Degree=Pos	9	conj	9:conj	LvtbNodeId=a-p1494-p5s2w13
+15	un	un	CCONJ	cc	_	16	cc	16:cc	LvtbNodeId=a-p1494-p5s2w14
+16	ir	būt	VERB	vmnipii30an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	9	conj	9:conj	LvtbNodeId=a-p1494-p5s2w15
+17	sūdzības	sūdzība	NOUN	ncfpn4	Case=Nom|Gender=Fem|Number=Plur	16	nsubj	16:nsubj	LvtbNodeId=a-p1494-p5s2w16|SpaceAfter=No
+18	.	.	PUNCT	zs	_	9	punct	9:punct	LvtbNodeId=a-p1494-p5s2w17
 
 ~~~
 

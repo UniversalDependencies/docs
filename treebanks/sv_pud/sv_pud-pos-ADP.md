@@ -6,16 +6,16 @@ udver: '2'
 
 ## Treebank Statistics: UD_Swedish-PUD: POS Tags: `ADP`
 
-There are 57 `ADP` lemmas (1%), 57 `ADP` types (1%) and 2434 `ADP` tokens (13%).
+There are 57 `ADP` lemmas (1%), 57 `ADP` types (1%) and 2435 `ADP` tokens (13%).
 Out of 16 observed tags, the rank of `ADP` is: 7 in number of lemmas, 8 in number of types and 2 in number of tokens.
 
 The 10 most frequent `ADP` lemmas: <em>i, av, för, på, till, med, från, under, vid, om</em>
 
 The 10 most frequent `ADP` types:  <em>i, av, för, på, till, med, från, under, vid, om</em>
 
-The 10 most frequent ambiguous lemmas: <em>i</em> (<tt><a href="sv_pud-pos-ADP.html">ADP</a></tt> 478, <tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> 1), <em>för</em> (<tt><a href="sv_pud-pos-ADP.html">ADP</a></tt> 290, <tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> 3, <tt><a href="sv_pud-pos-CCONJ.html">CCONJ</a></tt> 2), <em>till</em> (<tt><a href="sv_pud-pos-ADP.html">ADP</a></tt> 211, <tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> 5), <em>med</em> (<tt><a href="sv_pud-pos-ADP.html">ADP</a></tt> 178, <tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> 3), <em>om</em> (<tt><a href="sv_pud-pos-ADP.html">ADP</a></tt> 63, <tt><a href="sv_pud-pos-SCONJ.html">SCONJ</a></tt> 22), <em>som</em> (<tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> 238, <tt><a href="sv_pud-pos-SCONJ.html">SCONJ</a></tt> 89, <tt><a href="sv_pud-pos-ADP.html">ADP</a></tt> 39, <tt><a href="sv_pud-pos-CCONJ.html">CCONJ</a></tt> 6), <em>över</em> (<tt><a href="sv_pud-pos-ADP.html">ADP</a></tt> 30, <tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> 10), <em>utan</em> (<tt><a href="sv_pud-pos-ADP.html">ADP</a></tt> 15, <tt><a href="sv_pud-pos-CCONJ.html">CCONJ</a></tt> 1), <em>runt</em> (<tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> 12, <tt><a href="sv_pud-pos-ADP.html">ADP</a></tt> 7), <em>sedan</em> (<tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> 12, <tt><a href="sv_pud-pos-ADP.html">ADP</a></tt> 7, <tt><a href="sv_pud-pos-SCONJ.html">SCONJ</a></tt> 2)
+The 10 most frequent ambiguous lemmas: <em>i</em> (<tt><a href="sv_pud-pos-ADP.html">ADP</a></tt> 478, <tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> 1), <em>för</em> (<tt><a href="sv_pud-pos-ADP.html">ADP</a></tt> 290, <tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> 3, <tt><a href="sv_pud-pos-CCONJ.html">CCONJ</a></tt> 2), <em>till</em> (<tt><a href="sv_pud-pos-ADP.html">ADP</a></tt> 211, <tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> 5), <em>med</em> (<tt><a href="sv_pud-pos-ADP.html">ADP</a></tt> 178, <tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> 3), <em>om</em> (<tt><a href="sv_pud-pos-ADP.html">ADP</a></tt> 63, <tt><a href="sv_pud-pos-SCONJ.html">SCONJ</a></tt> 22), <em>som</em> (<tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> 238, <tt><a href="sv_pud-pos-SCONJ.html">SCONJ</a></tt> 88, <tt><a href="sv_pud-pos-ADP.html">ADP</a></tt> 40, <tt><a href="sv_pud-pos-CCONJ.html">CCONJ</a></tt> 6), <em>över</em> (<tt><a href="sv_pud-pos-ADP.html">ADP</a></tt> 30, <tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> 10), <em>utan</em> (<tt><a href="sv_pud-pos-ADP.html">ADP</a></tt> 15, <tt><a href="sv_pud-pos-CCONJ.html">CCONJ</a></tt> 1), <em>runt</em> (<tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> 12, <tt><a href="sv_pud-pos-ADP.html">ADP</a></tt> 7), <em>sedan</em> (<tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> 12, <tt><a href="sv_pud-pos-ADP.html">ADP</a></tt> 7, <tt><a href="sv_pud-pos-SCONJ.html">SCONJ</a></tt> 2)
 
-The 10 most frequent ambiguous types:  <em>i</em> (<tt><a href="sv_pud-pos-ADP.html">ADP</a></tt> 436, <tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> 1), <em>för</em> (<tt><a href="sv_pud-pos-ADP.html">ADP</a></tt> 278, <tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> 3, <tt><a href="sv_pud-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt> 1), <em>till</em> (<tt><a href="sv_pud-pos-ADP.html">ADP</a></tt> 207, <tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> 5), <em>med</em> (<tt><a href="sv_pud-pos-ADP.html">ADP</a></tt> 168, <tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> 3), <em>om</em> (<tt><a href="sv_pud-pos-ADP.html">ADP</a></tt> 62, <tt><a href="sv_pud-pos-SCONJ.html">SCONJ</a></tt> 17), <em>som</em> (<tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> 238, <tt><a href="sv_pud-pos-SCONJ.html">SCONJ</a></tt> 85, <tt><a href="sv_pud-pos-ADP.html">ADP</a></tt> 34, <tt><a href="sv_pud-pos-CCONJ.html">CCONJ</a></tt> 6), <em>över</em> (<tt><a href="sv_pud-pos-ADP.html">ADP</a></tt> 30, <tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> 10), <em>utan</em> (<tt><a href="sv_pud-pos-ADP.html">ADP</a></tt> 15, <tt><a href="sv_pud-pos-CCONJ.html">CCONJ</a></tt> 1), <em>runt</em> (<tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> 12, <tt><a href="sv_pud-pos-ADP.html">ADP</a></tt> 7), <em>sedan</em> (<tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> 11, <tt><a href="sv_pud-pos-ADP.html">ADP</a></tt> 5, <tt><a href="sv_pud-pos-SCONJ.html">SCONJ</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>i</em> (<tt><a href="sv_pud-pos-ADP.html">ADP</a></tt> 436, <tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> 1), <em>för</em> (<tt><a href="sv_pud-pos-ADP.html">ADP</a></tt> 278, <tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> 3, <tt><a href="sv_pud-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt> 1), <em>till</em> (<tt><a href="sv_pud-pos-ADP.html">ADP</a></tt> 207, <tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> 5), <em>med</em> (<tt><a href="sv_pud-pos-ADP.html">ADP</a></tt> 168, <tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> 3), <em>om</em> (<tt><a href="sv_pud-pos-ADP.html">ADP</a></tt> 62, <tt><a href="sv_pud-pos-SCONJ.html">SCONJ</a></tt> 17), <em>som</em> (<tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> 238, <tt><a href="sv_pud-pos-SCONJ.html">SCONJ</a></tt> 84, <tt><a href="sv_pud-pos-ADP.html">ADP</a></tt> 35, <tt><a href="sv_pud-pos-CCONJ.html">CCONJ</a></tt> 6), <em>över</em> (<tt><a href="sv_pud-pos-ADP.html">ADP</a></tt> 30, <tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> 10), <em>utan</em> (<tt><a href="sv_pud-pos-ADP.html">ADP</a></tt> 15, <tt><a href="sv_pud-pos-CCONJ.html">CCONJ</a></tt> 1), <em>runt</em> (<tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> 12, <tt><a href="sv_pud-pos-ADP.html">ADP</a></tt> 7), <em>sedan</em> (<tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> 11, <tt><a href="sv_pud-pos-ADP.html">ADP</a></tt> 5, <tt><a href="sv_pud-pos-SCONJ.html">SCONJ</a></tt> 1)
 
 
 * <em>i</em>
@@ -37,8 +37,8 @@ The 10 most frequent ambiguous types:  <em>i</em> (<tt><a href="sv_pud-pos-ADP.h
   * <tt><a href="sv_pud-pos-SCONJ.html">SCONJ</a></tt> 17: <em>Jag undrar också <b>om</b> Davis Cup spelade in .</em>
 * <em>som</em>
   * <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> 238: <em>5 000 dollar per person , det högsta belopp <b>som</b> tillåts .</em>
-  * <tt><a href="sv_pud-pos-SCONJ.html">SCONJ</a></tt> 85: <em>Det är <b>som</b> en superkraft ibland .</em>
-  * <tt><a href="sv_pud-pos-ADP.html">ADP</a></tt> 34: <em>Han var ytterst nådig och tog det <b>som</b> en karl , jag är bortom ursinnig .</em>
+  * <tt><a href="sv_pud-pos-SCONJ.html">SCONJ</a></tt> 84: <em>Det är <b>som</b> en superkraft ibland .</em>
+  * <tt><a href="sv_pud-pos-ADP.html">ADP</a></tt> 35: <em>Han var ytterst nådig och tog det <b>som</b> en karl , jag är bortom ursinnig .</em>
   * <tt><a href="sv_pud-pos-CCONJ.html">CCONJ</a></tt> 6: <em>Privat såväl <b>som</b> offentligt sökte Springer energiskt försoning med det judiska folket och företog många resor till Israel .</em>
 * <em>över</em>
   * <tt><a href="sv_pud-pos-ADP.html">ADP</a></tt> 30: <em>Som en följd är inte Trump särskilt oroad <b>över</b> latinamerikanernas röst på en nationell nivå .</em>
@@ -56,7 +56,7 @@ The 10 most frequent ambiguous types:  <em>i</em> (<tt><a href="sv_pud-pos-ADP.h
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.000000 (the average of all parts of speech is 1.245113).
+The form / lemma ratio of `ADP` is 1.000000 (the average of all parts of speech is 1.244870).
 
 The 1st highest number of forms (1) was observed with the lemma “Of”: <em>of</em>.
 
@@ -64,30 +64,30 @@ The 2nd highest number of forms (1) was observed with the lemma “On”: <em>On
 
 The 3rd highest number of forms (1) was observed with the lemma “av”: <em>av</em>.
 
-`ADP` occurs with 2 features: <tt><a href="sv_pud-feat-Foreign.html">Foreign</a></tt> (9; 0% instances), <tt><a href="sv_pud-feat-ExtPos.html">ExtPos</a></tt> (7; 0% instances)
+`ADP` occurs with 2 features: <tt><a href="sv_pud-feat-Foreign.html">Foreign</a></tt> (9; 0% instances), <tt><a href="sv_pud-feat-ExtPos.html">ExtPos</a></tt> (8; 0% instances)
 
-`ADP` occurs with 3 feature-value pairs: `ExtPos=ADJ`, `ExtPos=ADP`, `Foreign=Yes`
+`ADP` occurs with 4 feature-value pairs: `ExtPos=ADJ`, `ExtPos=ADP`, `ExtPos=ADV`, `Foreign=Yes`
 
-`ADP` occurs with 4 feature combinations.
+`ADP` occurs with 5 feature combinations.
 The most frequent feature combination is `_` (2418 tokens).
 Examples: <em>i, av, för, på, till, med, från, under, vid, om</em>
 
 
 ## Relations
 
-`ADP` nodes are attached to their parents using 8 different relations: <tt><a href="sv_pud-dep-case.html">case</a></tt> (2187; 90% instances), <tt><a href="sv_pud-dep-mark.html">mark</a></tt> (196; 8% instances), <tt><a href="sv_pud-dep-compound-prt.html">compound:prt</a></tt> (42; 2% instances), <tt><a href="sv_pud-dep-nmod.html">nmod</a></tt> (3; 0% instances), <tt><a href="sv_pud-dep-amod.html">amod</a></tt> (2; 0% instances), <tt><a href="sv_pud-dep-fixed.html">fixed</a></tt> (2; 0% instances), <tt><a href="sv_pud-dep-compound.html">compound</a></tt> (1; 0% instances), <tt><a href="sv_pud-dep-obl.html">obl</a></tt> (1; 0% instances)
+`ADP` nodes are attached to their parents using 9 different relations: <tt><a href="sv_pud-dep-case.html">case</a></tt> (2187; 90% instances), <tt><a href="sv_pud-dep-mark.html">mark</a></tt> (196; 8% instances), <tt><a href="sv_pud-dep-compound-prt.html">compound:prt</a></tt> (42; 2% instances), <tt><a href="sv_pud-dep-nmod.html">nmod</a></tt> (3; 0% instances), <tt><a href="sv_pud-dep-amod.html">amod</a></tt> (2; 0% instances), <tt><a href="sv_pud-dep-fixed.html">fixed</a></tt> (2; 0% instances), <tt><a href="sv_pud-dep-advmod.html">advmod</a></tt> (1; 0% instances), <tt><a href="sv_pud-dep-compound.html">compound</a></tt> (1; 0% instances), <tt><a href="sv_pud-dep-obl.html">obl</a></tt> (1; 0% instances)
 
-Parents of `ADP` nodes belong to 8 different parts of speech: <tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt> (1655; 68% instances), <tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt> (380; 16% instances), <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt> (225; 9% instances), <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> (98; 4% instances), <tt><a href="sv_pud-pos-NUM.html">NUM</a></tt> (40; 2% instances), <tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> (29; 1% instances), <tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> (6; 0% instances), <tt><a href="sv_pud-pos-ADP.html">ADP</a></tt> (1; 0% instances)
+Parents of `ADP` nodes belong to 8 different parts of speech: <tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt> (1655; 68% instances), <tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt> (380; 16% instances), <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt> (225; 9% instances), <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> (99; 4% instances), <tt><a href="sv_pud-pos-NUM.html">NUM</a></tt> (40; 2% instances), <tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> (29; 1% instances), <tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> (6; 0% instances), <tt><a href="sv_pud-pos-ADP.html">ADP</a></tt> (1; 0% instances)
 
 2426 (100%) `ADP` nodes are leaves.
 
-7 (0%) `ADP` nodes have one child.
+8 (0%) `ADP` nodes have one child.
 
 1 (0%) `ADP` nodes have two children.
 
 The highest child degree of a `ADP` node is 2.
 
-Children of `ADP` nodes are attached using 2 different relations: <tt><a href="sv_pud-dep-fixed.html">fixed</a></tt> (8; 89% instances), <tt><a href="sv_pud-dep-advmod.html">advmod</a></tt> (1; 11% instances)
+Children of `ADP` nodes are attached using 2 different relations: <tt><a href="sv_pud-dep-fixed.html">fixed</a></tt> (9; 90% instances), <tt><a href="sv_pud-dep-advmod.html">advmod</a></tt> (1; 10% instances)
 
-Children of `ADP` nodes belong to 4 different parts of speech: <tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> (5; 56% instances), <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> (2; 22% instances), <tt><a href="sv_pud-pos-ADP.html">ADP</a></tt> (1; 11% instances), <tt><a href="sv_pud-pos-CCONJ.html">CCONJ</a></tt> (1; 11% instances)
+Children of `ADP` nodes belong to 4 different parts of speech: <tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> (6; 60% instances), <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> (2; 20% instances), <tt><a href="sv_pud-pos-ADP.html">ADP</a></tt> (1; 10% instances), <tt><a href="sv_pud-pos-CCONJ.html">CCONJ</a></tt> (1; 10% instances)
 

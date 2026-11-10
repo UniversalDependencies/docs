@@ -43,19 +43,19 @@ The 1st highest number of forms (4) was observed with the lemma “_”: DSP, �
 
 ## Relations
 
-`PRON` nodes are attached to their parents using 4 different relations: <tt><a href="zh_patentchar-dep-nmod.html">nmod</a></tt> (43; 90% instances), <tt><a href="zh_patentchar-dep-obj.html">obj</a></tt> (2; 4% instances), <tt><a href="zh_patentchar-dep-obl.html">obl</a></tt> (2; 4% instances), <tt><a href="zh_patentchar-dep-conj.html">conj</a></tt> (1; 2% instances)
+`PRON` nodes are attached to their parents using 5 different relations: <tt><a href="zh_patentchar-dep-nmod.html">nmod</a></tt> (43; 90% instances), <tt><a href="zh_patentchar-dep-obl.html">obl</a></tt> (2; 4% instances), <tt><a href="zh_patentchar-dep-conj.html">conj</a></tt> (1; 2% instances), <tt><a href="zh_patentchar-dep-dep.html">dep</a></tt> (1; 2% instances), <tt><a href="zh_patentchar-dep-obj.html">obj</a></tt> (1; 2% instances)
 
 Parents of `PRON` nodes belong to 3 different parts of speech: <tt><a href="zh_patentchar-pos-NOUN.html">NOUN</a></tt> (45; 94% instances), <tt><a href="zh_patentchar-pos-VERB.html">VERB</a></tt> (2; 4% instances), <tt><a href="zh_patentchar-pos-PART.html">PART</a></tt> (1; 2% instances)
 
-44 (92%) `PRON` nodes are leaves.
+45 (94%) `PRON` nodes are leaves.
 
-3 (6%) `PRON` nodes have one child.
+2 (4%) `PRON` nodes have one child.
 
 1 (2%) `PRON` nodes have two children.
 
 The highest child degree of a `PRON` node is 2.
 
-Children of `PRON` nodes are attached using 4 different relations: <tt><a href="zh_patentchar-dep-obj.html">obj</a></tt> (2; 40% instances), <tt><a href="zh_patentchar-dep-case.html">case</a></tt> (1; 20% instances), <tt><a href="zh_patentchar-dep-cc.html">cc</a></tt> (1; 20% instances), <tt><a href="zh_patentchar-dep-nmod.html">nmod</a></tt> (1; 20% instances)
+Children of `PRON` nodes are attached using 3 different relations: <tt><a href="zh_patentchar-dep-obj.html">obj</a></tt> (2; 50% instances), <tt><a href="zh_patentchar-dep-cc.html">cc</a></tt> (1; 25% instances), <tt><a href="zh_patentchar-dep-nmod.html">nmod</a></tt> (1; 25% instances)
 
-Children of `PRON` nodes belong to 3 different parts of speech: <tt><a href="zh_patentchar-pos-NOUN.html">NOUN</a></tt> (3; 60% instances), <tt><a href="zh_patentchar-pos-CCONJ.html">CCONJ</a></tt> (1; 20% instances), <tt><a href="zh_patentchar-pos-PART.html">PART</a></tt> (1; 20% instances)
+Children of `PRON` nodes belong to 2 different parts of speech: <tt><a href="zh_patentchar-pos-NOUN.html">NOUN</a></tt> (3; 75% instances), <tt><a href="zh_patentchar-pos-CCONJ.html">CCONJ</a></tt> (1; 25% instances)
 

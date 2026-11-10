@@ -25,7 +25,7 @@ The following 1 pairs of parts of speech are connected with `acl`: <tt><a href="
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	7	nsubj	_	_
 2	doʻsti	doʻst	NOUN	_	Case=Nom|Number=Sing|Poss=Yes	3	nsubj	_	_
 3	tayyorlagan	tayyorla	VERB	_	VerbForm=Part	4	acl	_	_
-4	ovqatdan	ovqat	NOUN	_	Case=Abl|Number=Sing	6	obl	_	_
+4	ovqatdan	ovqat	NOUN	_	Case=Abl|Number=Sing	6	nmod	_	_
 5	ikki	ikki	NUM	_	NumType=Card	6	nummod	_	_
 6	likopcha	likopcha	NOUN	_	Case=Nom|Number=Sing	7	obj	_	_
 7	yedi	ye	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No

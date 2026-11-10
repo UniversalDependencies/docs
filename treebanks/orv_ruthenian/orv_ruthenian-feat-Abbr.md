@@ -47,7 +47,7 @@ The most frequent other feature values with which `VERB` and `Abbr` co-occurred:
 `VERB` tokens may have the following values of `Abbr`:
 
 * `Yes` (4; 100% of non-empty `Abbr`): <em>ре, ѡпи(с), ѡписанъ</em>
-* `EMPTY` (11780): <em>дали, казали, псан, мають, мают(ь), дал, маеть, держати, послали, записа(т)</em>
+* `EMPTY` (11781): <em>дали, казали, псан, мають, мают(ь), дал, маеть, держати, послали, записа(т)</em>
 
 ### `PROPN`
 

@@ -69,7 +69,7 @@ The 10 most frequent ambiguous types:  <em>e</em> (<tt><a href="pt_petrogold-pos
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.090909 (the average of all parts of speech is 1.452383).
+The form / lemma ratio of `CCONJ` is 1.090909 (the average of all parts of speech is 1.452344).
 
 The 1st highest number of forms (2) was observed with the lemma “como”: <em>com, como</em>.
 
@@ -92,17 +92,17 @@ Examples: <em>e, ou, mas, a, porém, portanto, entretanto, e/ou, quanto, como</e
 
 Parents of `CCONJ` nodes belong to 10 different parts of speech: <tt><a href="pt_petrogold-pos-NOUN.html">NOUN</a></tt> (3323; 52% instances), <tt><a href="pt_petrogold-pos-VERB.html">VERB</a></tt> (1183; 19% instances), <tt><a href="pt_petrogold-pos-PROPN.html">PROPN</a></tt> (759; 12% instances), <tt><a href="pt_petrogold-pos-ADJ.html">ADJ</a></tt> (580; 9% instances), <tt><a href="pt_petrogold-pos-NUM.html">NUM</a></tt> (347; 5% instances), <tt><a href="pt_petrogold-pos-PRON.html">PRON</a></tt> (59; 1% instances), <tt><a href="pt_petrogold-pos-SYM.html">SYM</a></tt> (55; 1% instances), <tt><a href="pt_petrogold-pos-ADV.html">ADV</a></tt> (41; 1% instances), <tt><a href="pt_petrogold-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="pt_petrogold-pos-X.html">X</a></tt> (2; 0% instances)
 
-6163 (97%) `CCONJ` nodes are leaves.
+6162 (97%) `CCONJ` nodes are leaves.
 
 27 (0%) `CCONJ` nodes have one child.
 
-77 (1%) `CCONJ` nodes have two children.
+78 (1%) `CCONJ` nodes have two children.
 
 87 (1%) `CCONJ` nodes have three or more children.
 
 The highest child degree of a `CCONJ` node is 3.
 
-Children of `CCONJ` nodes are attached using 2 different relations: <tt><a href="pt_petrogold-dep-punct.html">punct</a></tt> (345; 78% instances), <tt><a href="pt_petrogold-dep-fixed.html">fixed</a></tt> (97; 22% instances)
+Children of `CCONJ` nodes are attached using 2 different relations: <tt><a href="pt_petrogold-dep-punct.html">punct</a></tt> (347; 78% instances), <tt><a href="pt_petrogold-dep-fixed.html">fixed</a></tt> (97; 22% instances)
 
-Children of `CCONJ` nodes belong to 2 different parts of speech: <tt><a href="pt_petrogold-pos-PUNCT.html">PUNCT</a></tt> (345; 78% instances), <tt><a href="pt_petrogold-pos-VERB.html">VERB</a></tt> (97; 22% instances)
+Children of `CCONJ` nodes belong to 2 different parts of speech: <tt><a href="pt_petrogold-pos-PUNCT.html">PUNCT</a></tt> (347; 78% instances), <tt><a href="pt_petrogold-pos-VERB.html">VERB</a></tt> (97; 22% instances)
 

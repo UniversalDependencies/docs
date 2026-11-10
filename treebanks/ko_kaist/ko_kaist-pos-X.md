@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  프롤레타리아 (<tt><a href="ko_kaist
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 0.998034).
+The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 0.998024).
 
 The 1st highest number of forms (1) was observed with the lemma “230+b”: 230b.
 
@@ -66,7 +66,7 @@ The 3rd highest number of forms (1) was observed with the lemma “A”: A.
 
 `X` nodes are attached to their parents using 13 different relations: <tt><a href="ko_kaist-dep-appos.html">appos</a></tt> (253; 36% instances), <tt><a href="ko_kaist-dep-flat.html">flat</a></tt> (182; 26% instances), <tt><a href="ko_kaist-dep-compound.html">compound</a></tt> (170; 24% instances), <tt><a href="ko_kaist-dep-conj.html">conj</a></tt> (32; 5% instances), <tt><a href="ko_kaist-dep-dislocated.html">dislocated</a></tt> (12; 2% instances), <tt><a href="ko_kaist-dep-dep.html">dep</a></tt> (11; 2% instances), <tt><a href="ko_kaist-dep-root.html">root</a></tt> (11; 2% instances), <tt><a href="ko_kaist-dep-nmod.html">nmod</a></tt> (10; 1% instances), <tt><a href="ko_kaist-dep-obj.html">obj</a></tt> (7; 1% instances), <tt><a href="ko_kaist-dep-advcl.html">advcl</a></tt> (5; 1% instances), <tt><a href="ko_kaist-dep-nsubj.html">nsubj</a></tt> (4; 1% instances), <tt><a href="ko_kaist-dep-csubj.html">csubj</a></tt> (1; 0% instances), <tt><a href="ko_kaist-dep-obl.html">obl</a></tt> (1; 0% instances)
 
-Parents of `X` nodes belong to 12 different parts of speech: <tt><a href="ko_kaist-pos-NOUN.html">NOUN</a></tt> (311; 44% instances), <tt><a href="ko_kaist-pos-X.html">X</a></tt> (197; 28% instances), <tt><a href="ko_kaist-pos-PROPN.html">PROPN</a></tt> (79; 11% instances), <tt><a href="ko_kaist-pos-ADV.html">ADV</a></tt> (40; 6% instances), <tt><a href="ko_kaist-pos-VERB.html">VERB</a></tt> (31; 4% instances), <tt><a href="ko_kaist-pos-CCONJ.html">CCONJ</a></tt> (16; 2% instances),  (11; 2% instances), <tt><a href="ko_kaist-pos-NUM.html">NUM</a></tt> (8; 1% instances), <tt><a href="ko_kaist-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="ko_kaist-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="ko_kaist-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ko_kaist-pos-PRON.html">PRON</a></tt> (1; 0% instances)
+Parents of `X` nodes belong to 11 different parts of speech: <tt><a href="ko_kaist-pos-NOUN.html">NOUN</a></tt> (312; 45% instances), <tt><a href="ko_kaist-pos-X.html">X</a></tt> (197; 28% instances), <tt><a href="ko_kaist-pos-PROPN.html">PROPN</a></tt> (79; 11% instances), <tt><a href="ko_kaist-pos-ADV.html">ADV</a></tt> (40; 6% instances), <tt><a href="ko_kaist-pos-VERB.html">VERB</a></tt> (31; 4% instances), <tt><a href="ko_kaist-pos-CCONJ.html">CCONJ</a></tt> (16; 2% instances),  (11; 2% instances), <tt><a href="ko_kaist-pos-NUM.html">NUM</a></tt> (8; 1% instances), <tt><a href="ko_kaist-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="ko_kaist-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="ko_kaist-pos-ADJ.html">ADJ</a></tt> (1; 0% instances)
 
 334 (48%) `X` nodes are leaves.
 

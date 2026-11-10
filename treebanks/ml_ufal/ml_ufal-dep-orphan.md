@@ -23,14 +23,14 @@ The following 1 pairs of parts of speech are connected with `orphan`: <tt><a hre
 # visual-style 1	fgColor:white
 # visual-style 1 2 orphan	color:blue
 1	മേരി	മേരി	PROPN	_	Animacy=Anim|Case=Nom|Number=Sing	0	root	_	Translit=mēri|LTranslit=mēri
-2	വെങ്കലം	വെങ്കലം	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	1	orphan	_	Translit=veṅkalaṁ|LTranslit=veṅkalaṁ
-3	ഉം	ഉം	CCONJ	_	_	1	cc	_	Translit=uṁ|LTranslit=uṁ
+2	വെങ്കലം	വെങ്കലം	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	1	orphan	_	LTranslit=veṅkalaṁ|Translit=veṅkalaṁ
+3	ഉം	ഉം	CCONJ	_	_	1	cc	_	LTranslit=uṁ|Translit=uṁ
 4	പീറ്റർ	പീറ്റർ	PROPN	_	Animacy=Anim|Case=Nom|Number=Sing	1	conj	_	Translit=pīṟṟaṟ̕|LTranslit=pīṟṟaṟ̕
-5	വെള്ളി	വെള്ളി	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	4	orphan	_	Translit=veḷḷi|LTranslit=veḷḷi
-6	ഉം	ഉം	CCONJ	_	_	4	cc	_	Translit=uṁ|LTranslit=uṁ
+5	വെള്ളി	വെള്ളി	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	4	orphan	_	LTranslit=veḷḷi|Translit=veḷḷi
+6	ഉം	ഉം	CCONJ	_	_	4	cc	_	LTranslit=uṁ|Translit=uṁ
 7	ജെയിൻ	ജെയിൻ	PROPN	_	Animacy=Anim|Case=Nom|Number=Sing	10	nsubj	_	Translit=jeyin̕|LTranslit=jeyin̕
-8	സ്വർണം	സ്വർണം	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	10	obj	_	Translit=svaṟ̕ṇaṁ|LTranslit=svaṟ̕ṇaṁ
-9	ഉം	ഉം	CCONJ	_	_	10	cc	_	Translit=uṁ|LTranslit=uṁ
+8	സ്വർണം	സ്വർണം	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	10	obj	_	LTranslit=svaṟ̕ṇaṁ|Translit=svaṟ̕ṇaṁ
+9	ഉം	ഉം	CCONJ	_	_	10	cc	_	LTranslit=uṁ|Translit=uṁ
 10	നേടി	നെടുക	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	SpaceAfter=No|Translit=nēṭi|LTranslit=neṭuka
 11	.	.	PUNCT	_	_	1	punct	_	Translit=.|LTranslit=.
 

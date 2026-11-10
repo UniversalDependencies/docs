@@ -10,33 +10,33 @@ This feature is universal.
 It occurs with 1 different values: `Hum`.
 
 116 tokens (4%) have a non-empty value of `Animacy`.
-53 types (7%) occur at least once with a non-empty value of `Animacy`.
+53 types (6%) occur at least once with a non-empty value of `Animacy`.
 23 lemmas (4%) occur at least once with a non-empty value of `Animacy`.
 The feature is used with 2 part-of-speech tags: <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> (106; 3% instances), <tt><a href="sms_giellagas-pos-PROPN.html">PROPN</a></tt> (10; 0% instances).
 
 ### `NOUN`
 
-106 <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> tokens (25% of all `NOUN` tokens) have a non-empty value of `Animacy`.
+106 <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> tokens (24% of all `NOUN` tokens) have a non-empty value of `Animacy`.
 
 The most frequent other feature values with which `NOUN` and `Animacy` co-occurred: <tt><a href="sms_giellagas-feat-Number.html">Number</a></tt><tt>=Sing</tt> (97; 92%), <tt><a href="sms_giellagas-feat-Case.html">Case</a></tt><tt>=Nom</tt> (75; 71%).
 
 `NOUN` tokens may have the following values of `Animacy`:
 
 * `Hum` (106; 100% of non-empty `Animacy`): <em>ooumaž, nijdd, ääkka, eččad, niõđ, kaavân, kåʹddpäärnaž, päʹrnn, ääkkaž, jeäʹnn</em>
-* `EMPTY` (316): <em>tueʹllj, mieʹccest, heävaš, stäʹlmmstääll, vuâra, niõđâž, Peʹll, bieʹss, källsaž, muõrid</em>
+* `EMPTY` (343): <em>tueʹllj, mieʹccest, heävaš, stäʹlmmstääll, vuâra, niõđâž, Peʹll, bieʹss, källsaž, muõrid</em>
 
 `Animacy` seems to be **lexical feature** of `NOUN`. 100% lemmas (18) occur only with one value of `Animacy`.
 
 ### `PROPN`
 
-10 <tt><a href="sms_giellagas-pos-PROPN.html">PROPN</a></tt> tokens (63% of all `PROPN` tokens) have a non-empty value of `Animacy`.
+10 <tt><a href="sms_giellagas-pos-PROPN.html">PROPN</a></tt> tokens (53% of all `PROPN` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `PROPN` and `Animacy` co-occurred: <tt><a href="sms_giellagas-feat-Case.html">Case</a></tt><tt>=Nom</tt> (10; 100%), <tt><a href="sms_giellagas-feat-Number.html">Number</a></tt><tt>=Sing</tt> (10; 100%), <tt><a href="sms_giellagas-feat-NameType.html">NameType</a></tt><tt>=Giv</tt> (8; 80%).
+The most frequent other feature values with which `PROPN` and `Animacy` co-occurred: <tt><a href="sms_giellagas-feat-Case.html">Case</a></tt><tt>=Nom</tt> (10; 100%), <tt><a href="sms_giellagas-feat-Number.html">Number</a></tt><tt>=Sing</tt> (10; 100%), <tt><a href="sms_giellagas-feat-Typo.html">Typo</a></tt><tt>=EMPTY</tt> (10; 100%), <tt><a href="sms_giellagas-feat-NameType.html">NameType</a></tt><tt>=Giv</tt> (8; 80%).
 
 `PROPN` tokens may have the following values of `Animacy`:
 
 * `Hum` (10; 100% of non-empty `Animacy`): <em>Peter, Mary, Brown, Jane, Smith</em>
-* `EMPTY` (6): <em>Aanar, Franskkjânnam, Laurikainen, Njeäʹlma, Pariizzâst, Taʹrre</em>
+* `EMPTY` (9): <em>Aanar, Franskkjânnam, Laurikainen, Lääʹddjânnmest, Marin, Njeäʹlma, Pariizzâst, Sanna, Taʹrre</em>
 
 ## Relations with Agreement in `Animacy`
 

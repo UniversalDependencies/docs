@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Persian-Seraji: Relations: `nsubj:pass`
 
 This relation is a language-specific subtype of <tt><a href="fa_seraji-dep-nsubj.html">nsubj</a></tt>.
-There are also 1 other language-specific subtypes of `nsubj`: <tt><a href="fa_seraji-dep-nsubj-nc.html">nsubj:nc</a></tt>.
+There are also 2 other language-specific subtypes of `nsubj`: <tt><a href="fa_seraji-dep-nsubj-nc.html">nsubj:nc</a></tt>, <tt><a href="fa_seraji-dep-nsubj-outer.html">nsubj:outer</a></tt>.
 
 149 nodes (0%) are attached to their parents as `nsubj:pass`.
 

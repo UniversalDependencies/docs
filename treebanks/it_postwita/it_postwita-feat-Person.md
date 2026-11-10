@@ -109,7 +109,7 @@ The most frequent other feature values with which `X` and `Person` co-occurred: 
 `X` tokens may have the following values of `Person`:
 
 * `2` (1; 100% of non-empty `Person`): <em>te</em>
-* `EMPTY` (977): <em>of, Prince, i, live, a, and, on, the, in, my</em>
+* `EMPTY` (975): <em>of, Prince, i, live, a, and, on, the, in, my</em>
 
 ## Relations with Agreement in `Person`
 

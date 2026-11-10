@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Plur`, `Sing`.
 
-37659 tokens (39%) have a non-empty value of `Number`.
-10910 types (72%) occur at least once with a non-empty value of `Number`.
-7175 lemmas (67%) occur at least once with a non-empty value of `Number`.
-The feature is used with 7 part-of-speech tags: <tt><a href="sv_talbanken-pos-NOUN.html">NOUN</a></tt> (22432; 23% instances), <tt><a href="sv_talbanken-pos-ADJ.html">ADJ</a></tt> (5160; 5% instances), <tt><a href="sv_talbanken-pos-PRON.html">PRON</a></tt> (5034; 5% instances), <tt><a href="sv_talbanken-pos-DET.html">DET</a></tt> (4891; 5% instances), <tt><a href="sv_talbanken-pos-NUM.html">NUM</a></tt> (92; 0% instances), <tt><a href="sv_talbanken-pos-VERB.html">VERB</a></tt> (49; 0% instances), <tt><a href="sv_talbanken-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+37648 tokens (39%) have a non-empty value of `Number`.
+10909 types (72%) occur at least once with a non-empty value of `Number`.
+7174 lemmas (67%) occur at least once with a non-empty value of `Number`.
+The feature is used with 7 part-of-speech tags: <tt><a href="sv_talbanken-pos-NOUN.html">NOUN</a></tt> (22432; 23% instances), <tt><a href="sv_talbanken-pos-ADJ.html">ADJ</a></tt> (5149; 5% instances), <tt><a href="sv_talbanken-pos-PRON.html">PRON</a></tt> (5034; 5% instances), <tt><a href="sv_talbanken-pos-DET.html">DET</a></tt> (4891; 5% instances), <tt><a href="sv_talbanken-pos-NUM.html">NUM</a></tt> (92; 0% instances), <tt><a href="sv_talbanken-pos-VERB.html">VERB</a></tt> (49; 0% instances), <tt><a href="sv_talbanken-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
@@ -22,8 +22,8 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 
 `NOUN` tokens may have the following values of `Number`:
 
-* `Plur` (7075; 32% of non-empty `Number`): <em>barn, år, barnen, procent, människor, kvinnor, miljoner, kronor, fall, länder</em>
-* `Sing` (15357; 68% of non-empty `Number`): <em>del, äktenskapet, år, tid, samhället, familjen, arbete, barn, sätt, äktenskap</em>
+* `Plur` (7074; 32% of non-empty `Number`): <em>barn, år, barnen, procent, människor, kvinnor, miljoner, kronor, fall, länder</em>
+* `Sing` (15358; 68% of non-empty `Number`): <em>del, äktenskapet, år, tid, samhället, familjen, arbete, barn, sätt, äktenskap</em>
 * `EMPTY` (563): <em>kr, %, dr, s., kap., proc, KPI, milj, mån, kl</em>
 
 <table>
@@ -36,15 +36,15 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 
 ### `ADJ`
 
-5160 <tt><a href="sv_talbanken-pos-ADJ.html">ADJ</a></tt> tokens (60% of all `ADJ` tokens) have a non-empty value of `Number`.
+5149 <tt><a href="sv_talbanken-pos-ADJ.html">ADJ</a></tt> tokens (60% of all `ADJ` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="sv_talbanken-feat-Case.html">Case</a></tt><tt>=Nom</tt> (5153; 100%), <tt><a href="sv_talbanken-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (5051; 98%), <tt><a href="sv_talbanken-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (4979; 96%), <tt><a href="sv_talbanken-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (4444; 86%), <tt><a href="sv_talbanken-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (4444; 86%).
+The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="sv_talbanken-feat-Case.html">Case</a></tt><tt>=Nom</tt> (5142; 100%), <tt><a href="sv_talbanken-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (5040; 98%), <tt><a href="sv_talbanken-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (4968; 96%), <tt><a href="sv_talbanken-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (4433; 86%), <tt><a href="sv_talbanken-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (4433; 86%).
 
 `ADJ` tokens may have the following values of `Number`:
 
-* `Plur` (2025; 39% of non-empty `Number`): <em>olika, andra, vissa, stora, flera, nya, sådana, små, fler, psykiska</em>
-* `Sing` (3135; 61% of non-empty `Number`): <em>stor, annan, själv, sådan, viss, egen, annat, ny, svårt, hög</em>
-* `EMPTY` (3393): <em>många, samma, större, första, hela, nya, andra, svenska, flesta, högre</em>
+* `Plur` (2020; 39% of non-empty `Number`): <em>olika, andra, vissa, stora, flera, nya, sådana, små, fler, psykiska</em>
+* `Sing` (3129; 61% of non-empty `Number`): <em>stor, annan, själv, sådan, viss, egen, annat, ny, svårt, hög</em>
+* `EMPTY` (3401): <em>många, samma, större, första, hela, nya, andra, svenska, flesta, högre</em>
 
 <table>
   <tr><th>Paradigm <i>stor</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -138,14 +138,14 @@ The most frequent other feature values with which `PROPN` and `Number` co-occurr
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="sv_talbanken-dep-det.html">det</a></tt>]--> DET</tt> (4504; 99%),
-<tt>NOUN --[<tt><a href="sv_talbanken-dep-amod.html">amod</a></tt>]--> ADJ</tt> (3303; 55%),
-<tt>NOUN --[<tt><a href="sv_talbanken-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1750; 55%),
-<tt>NOUN --[<tt><a href="sv_talbanken-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1590; 76%),
-<tt>NOUN --[<tt><a href="sv_talbanken-dep-nmod-poss.html">nmod:poss</a></tt>]--> NOUN</tt> (588; 64%),
+<tt>NOUN --[<tt><a href="sv_talbanken-dep-det.html">det</a></tt>]--> DET</tt> (4514; 99%),
+<tt>NOUN --[<tt><a href="sv_talbanken-dep-amod.html">amod</a></tt>]--> ADJ</tt> (3298; 55%),
+<tt>NOUN --[<tt><a href="sv_talbanken-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1751; 55%),
+<tt>NOUN --[<tt><a href="sv_talbanken-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1591; 76%),
+<tt>NOUN --[<tt><a href="sv_talbanken-dep-nmod-poss.html">nmod:poss</a></tt>]--> NOUN</tt> (594; 64%),
 <tt>NOUN --[<tt><a href="sv_talbanken-dep-nmod-poss.html">nmod:poss</a></tt>]--> PRON</tt> (521; 76%),
 <tt>ADJ --[<tt><a href="sv_talbanken-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (372; 76%),
 <tt>ADJ --[<tt><a href="sv_talbanken-dep-conj.html">conj</a></tt>]--> ADJ</tt> (229; 79%),
 <tt>NOUN --[<tt><a href="sv_talbanken-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (189; 69%),
-<tt>NOUN --[<tt><a href="sv_talbanken-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (168; 75%).
+<tt>NOUN --[<tt><a href="sv_talbanken-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (169; 76%).
 

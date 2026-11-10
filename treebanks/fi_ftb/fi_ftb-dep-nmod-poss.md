@@ -43,13 +43,13 @@ The following 6 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 1	Se	se	PRON	Pron,Dem,Sg,Nom	Case=Nom|Number=Sing|PronType=Dem	3	nsubj:cop	_	_
 2	oli	olla	AUX	V,Act,Ind,Past,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	cop	_	_
 3	poika	poika	NOUN	N,Sg,Nom	Case=Nom|Number=Sing	0	root	_	_
-4	,	,	PUNCT	Pun	_	3	punct	_	_
+4	,	,	PUNCT	Pun	_	7	punct	_	_
 5	sellainen	sellainen	DET	A,Dem,Sg,Nom	Case=Nom|Number=Sing|PronType=Dem	7	amod	_	Alt=DET
 6	minun	minä	PRON	Pron,Pers,Sg1,Gen	Case=Gen|Number=Sing|Person=1|PronType=Prs	7	nmod:poss	_	_
 7	ikäiseni	ikäinen	ADJ	A,Sg,Nom,PxSg1	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=1	3	conj	_	_
 8	ja	ja	CCONJ	Pcle,CC	_	9	cc	_	_
 9	kokoiseni	kokoinen	ADJ	A,Sg,Nom,PxSg1	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=1	3	conj	_	_
-10	.	.	PUNCT	Pun	_	9	punct	_	_
+10	.	.	PUNCT	Pun	_	3	punct	_	_
 
 ~~~
 
@@ -68,7 +68,7 @@ The following 6 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 6	rahasi	raha	NOUN	N,Pl,Nom,PxSg2	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=2	5	obj	_	_
 7	kurkustaan	kurkku	NOUN	N,Sg,Ela,Px3	Case=Ela|Number=Sing|Person[psor]=3	5	obl	_	_
 8	alas	alas	ADV	Adv	_	5	advmod	_	_
-9	.	.	PUNCT	Pun	_	8	punct	_	_
+9	.	.	PUNCT	Pun	_	5	punct	_	_
 
 ~~~
 

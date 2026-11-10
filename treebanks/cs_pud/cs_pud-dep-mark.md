@@ -24,7 +24,7 @@ The following 12 pairs of parts of speech are connected with `mark`: <tt><a href
 # visual-style 10 5 mark	color:blue
 1	Svědek	svědek	NOUN	NNMS1-----A----	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	3:nsubj	_
 2	policii	policie	NOUN	NNFS3-----A----	Case=Dat|Gender=Fem|Number=Sing	3	obl:arg	3:obl:arg:dat	_
-3	řekl	říci	VERB	VpYS---XR-AA---	Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	SpaceAfter=No
+3	řekl	říci	VERB	VpYS---XR-AA---	Aspect=Perf|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	SpaceAfter=No
 4	,	,	PUNCT	Z:-------------	_	10	punct	10:punct	_
 5	že	že	SCONJ	J,-------------	_	10	mark	10:mark	LId=že-1
 6	oběť	oběť	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing	10	nsubj	10:nsubj	_

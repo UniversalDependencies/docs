@@ -13,7 +13,7 @@ Some words have combined values of the feature; 1 combinations have been observe
 37 tokens (8%) have a non-empty value of `Gender`.
 26 types (11%) occur at least once with a non-empty value of `Gender`.
 24 lemmas (14%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 4 part-of-speech tags: <tt><a href="sga_dipwbg-pos-ADJ.html">ADJ</a></tt> (16; 4% instances), <tt><a href="sga_dipwbg-pos-PRON.html">PRON</a></tt> (11; 3% instances), <tt><a href="sga_dipwbg-pos-DET.html">DET</a></tt> (9; 2% instances), <tt><a href="sga_dipwbg-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+The feature is used with 4 part-of-speech tags: <tt><a href="sga_dipwbg-pos-ADJ.html">ADJ</a></tt> (16; 4% instances), <tt><a href="sga_dipwbg-pos-PRON.html">PRON</a></tt> (11; 2% instances), <tt><a href="sga_dipwbg-pos-DET.html">DET</a></tt> (9; 2% instances), <tt><a href="sga_dipwbg-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 ### `ADJ`
 

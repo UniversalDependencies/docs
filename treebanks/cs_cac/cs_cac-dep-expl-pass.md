@@ -38,7 +38,7 @@ The following 3 pairs of parts of speech are connected with `expl:pass`: <tt><a 
 # visual-style 13	bgColor:blue
 # visual-style 13	fgColor:white
 # visual-style 13 6 expl:pass	color:blue
-1	Vědí	vědět	VERB	VB-P---3P-AA--1	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No
+1	Vědí	vědět	VERB	VB-P---3P-AA--1	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No
 2	,	,	PUNCT	Z:-------------	_	13	punct	13:punct	_
 3	že	že	SCONJ	J,-------------	_	13	mark	13:mark	_
 4	pro	pro	ADP	RR--4----------	AdpType=Prep|Case=Acc	5	case	5:case	LId=pro-1

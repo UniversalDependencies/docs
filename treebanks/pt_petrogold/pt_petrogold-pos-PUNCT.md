@@ -61,7 +61,7 @@ The 10 most frequent ambiguous types:  <em>,</em> (<tt><a href="pt_petrogold-pos
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 0.961538 (the average of all parts of speech is 1.452383).
+The form / lemma ratio of `PUNCT` is 0.961538 (the average of all parts of speech is 1.452344).
 
 The 1st highest number of forms (2) was observed with the lemma “"”: <em>“, ”</em>.
 
@@ -76,7 +76,7 @@ The 3rd highest number of forms (1) was observed with the lemma “#”: <em>#</
 
 `PUNCT` nodes are attached to their parents using 2 different relations: <tt><a href="pt_petrogold-dep-punct.html">punct</a></tt> (29407; 100% instances), <tt><a href="pt_petrogold-dep-root.html">root</a></tt> (21; 0% instances)
 
-Parents of `PUNCT` nodes belong to 17 different parts of speech: <tt><a href="pt_petrogold-pos-VERB.html">VERB</a></tt> (10974; 37% instances), <tt><a href="pt_petrogold-pos-NOUN.html">NOUN</a></tt> (8020; 27% instances), <tt><a href="pt_petrogold-pos-PROPN.html">PROPN</a></tt> (4361; 15% instances), <tt><a href="pt_petrogold-pos-NUM.html">NUM</a></tt> (2537; 9% instances), <tt><a href="pt_petrogold-pos-ADJ.html">ADJ</a></tt> (1437; 5% instances), <tt><a href="pt_petrogold-pos-ADV.html">ADV</a></tt> (773; 3% instances), <tt><a href="pt_petrogold-pos-CCONJ.html">CCONJ</a></tt> (345; 1% instances), <tt><a href="pt_petrogold-pos-PRON.html">PRON</a></tt> (321; 1% instances), <tt><a href="pt_petrogold-pos-ADP.html">ADP</a></tt> (299; 1% instances), <tt><a href="pt_petrogold-pos-SYM.html">SYM</a></tt> (265; 1% instances), <tt><a href="pt_petrogold-pos-X.html">X</a></tt> (47; 0% instances),  (21; 0% instances), <tt><a href="pt_petrogold-pos-AUX.html">AUX</a></tt> (11; 0% instances), <tt><a href="pt_petrogold-pos-PUNCT.html">PUNCT</a></tt> (7; 0% instances), <tt><a href="pt_petrogold-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="pt_petrogold-pos-SCONJ.html">SCONJ</a></tt> (4; 0% instances), <tt><a href="pt_petrogold-pos-INTJ.html">INTJ</a></tt> (1; 0% instances)
+Parents of `PUNCT` nodes belong to 17 different parts of speech: <tt><a href="pt_petrogold-pos-VERB.html">VERB</a></tt> (10974; 37% instances), <tt><a href="pt_petrogold-pos-NOUN.html">NOUN</a></tt> (8017; 27% instances), <tt><a href="pt_petrogold-pos-PROPN.html">PROPN</a></tt> (4360; 15% instances), <tt><a href="pt_petrogold-pos-NUM.html">NUM</a></tt> (2537; 9% instances), <tt><a href="pt_petrogold-pos-ADJ.html">ADJ</a></tt> (1439; 5% instances), <tt><a href="pt_petrogold-pos-ADV.html">ADV</a></tt> (773; 3% instances), <tt><a href="pt_petrogold-pos-CCONJ.html">CCONJ</a></tt> (347; 1% instances), <tt><a href="pt_petrogold-pos-PRON.html">PRON</a></tt> (321; 1% instances), <tt><a href="pt_petrogold-pos-ADP.html">ADP</a></tt> (299; 1% instances), <tt><a href="pt_petrogold-pos-SYM.html">SYM</a></tt> (265; 1% instances), <tt><a href="pt_petrogold-pos-X.html">X</a></tt> (47; 0% instances),  (21; 0% instances), <tt><a href="pt_petrogold-pos-AUX.html">AUX</a></tt> (11; 0% instances), <tt><a href="pt_petrogold-pos-PUNCT.html">PUNCT</a></tt> (7; 0% instances), <tt><a href="pt_petrogold-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="pt_petrogold-pos-SCONJ.html">SCONJ</a></tt> (4; 0% instances), <tt><a href="pt_petrogold-pos-INTJ.html">INTJ</a></tt> (1; 0% instances)
 
 29422 (100%) `PUNCT` nodes are leaves.
 

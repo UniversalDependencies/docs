@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.15 release
 The following people have contributed to making this treebank part of UD: Konstantinos Sampanis, Prokopis Prokopidis, Furkan Akkurt, Helin Binici.
 
 Repository: [UD_Cappadocian-AMGiC](https://github.com/UniversalDependencies/UD_Cappadocian-AMGiC)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udcpg_amgic218)<br />
-Download all treebanks: [UD 2.18](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udcpg_amgic219)<br />
+Download all treebanks: [UD 2.19](/#download)
 
 License: CC BY-SA 4.0
 
@@ -163,7 +163,7 @@ This work was supported by COST Action CA21167 — Universality, diversity and i
       <li>DET: čin, či, tes</li>
       <li>NOUN: kóri, Dunyá, enéka, mána, Güzelidyú, Güzelí, ciriás, cirjás, enékan, góri</li>
       <li>NUM: Tris, triz</li>
-      <li>PRON: či, čis, ǰis, ekín, zin, zis, ǰi</li>
+      <li>PRON: či, čis, ǰis, ekín, zis, ǰi, ǰin</li>
       <li>VERB-Part: kimizméni</li>
     </ul>
   </li>
@@ -206,7 +206,7 @@ This work was supported by COST Action CA21167 — Universality, diversity and i
       <li>NOUN: pará, Psémata, alísia, alóγata, gjavúriri, güzelmá, ksíla, líres, maχéria, méres</li>
       <li>NUM: Tris, triz</li>
       <li>PRON: emís, mas, sas, Ešís, más, tun, tus, Τúta</li>
-      <li>VERB-Fin: kásun, sikoθún, Ksevasám', dilimléisam', drúte, fam, férum, ipúmi, istedízete, kasinonǰískaši</li>
+      <li>VERB-Fin: kásun, sikoθún, Ksevasám', dilimléisam', dróte, fam, férum, ipúmi, istedízete, kasinonǰískaši</li>
     </ul>
   </li>
 </ul>
@@ -248,7 +248,7 @@ This work was supported by COST Action CA21167 — Universality, diversity and i
   <li>Gen
     <ul>
       <li>DET: tu, so</li>
-      <li>NOUN: dergizmú, patisáχu, Dunyá, Güzelidyú, cirjás, insanjú, klišás, korízju, zuliás, ölzüjü</li>
+      <li>NOUN: dergizmú, patisáχu, Dunyá, Güzelidyú, cirjás, insanjú, klišás, korízju, zuliás, ölzüǰü</li>
       <li>PRON: du, tu, mu, su, čis, mas, ǰis, m, m', s'</li>
     </ul>
   </li>
@@ -324,7 +324,7 @@ This work was supported by COST Action CA21167 — Universality, diversity and i
   <li>Imp
     <ul>
       <li>AUX-Fin: éni, 'ne, 'ni, 'ton, 'tun, ne, se, íse</li>
-      <li>VERB-Fin: laí, gréviz, leχ, éχu, (é)rχete, Rotá, cimáse, drúte, eršinónǰiska, eršístiniz</li>
+      <li>VERB-Fin: laí, gréviz, leχ, éχu, (é)rχete, Rotá, cimáse, dróte, eršinónǰiska, eršístiniz</li>
     </ul>
   </li>
 </ul>
@@ -396,8 +396,8 @@ This work was supported by COST Action CA21167 — Universality, diversity and i
   <li>Pres
     <ul>
       <li>AUX-Fin: nde, ne, 'ne, éni, 'ni, se, índe, íse, ísu</li>
-      <li>VERB: laí, gréviz, leχ, éršiti, éχu, (é)rχete, Rotá, cimáse, drúte, düšünǰísu</li>
-      <li>VERB-Fin: laí, gréviz, leχ, éršiti, éχu, (é)rχete, Rotá, cimáse, drúte, düšünǰísu</li>
+      <li>VERB: laí, gréviz, leχ, éršiti, éχu, (é)rχete, Rotá, cimáse, dróte, düšünǰísu</li>
+      <li>VERB-Fin: laí, gréviz, leχ, éršiti, éχu, (é)rχete, Rotá, cimáse, dróte, düšünǰísu</li>
     </ul>
   </li>
 </ul>
@@ -527,8 +527,8 @@ This work was supported by COST Action CA21167 — Universality, diversity and i
     <ul>
       <li>AUX-Fin: se, íse, ísu</li>
       <li>PRON: su, s', sas, se, Ešís, esí, séna, ši</li>
-      <li>VERB: gréviz, báris, cimáse, drúte, eleísis, istedízete, klóθete, ksévreté, les, pe</li>
-      <li>VERB-Fin: gréviz, báris, cimáse, drúte, eleísis, istedízete, klóθete, ksévreté, les, pe</li>
+      <li>VERB: gréviz, báris, cimáse, dróte, eleísis, istedízete, klóθete, ksévreté, les, pe</li>
+      <li>VERB-Fin: gréviz, báris, cimáse, dróte, eleísis, istedízete, klóθete, ksévreté, les, pe</li>
     </ul>
   </li>
 </ul>

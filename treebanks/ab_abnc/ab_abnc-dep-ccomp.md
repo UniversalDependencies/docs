@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 7 language-specific subtypes of `ccomp`: <tt><a href="ab_abnc-dep-ccomp-iobj.html">ccomp:iobj</a></tt>, <tt><a href="ab_abnc-dep-ccomp-lo.html">ccomp:lo</a></tt>, <tt><a href="ab_abnc-dep-ccomp-obj.html">ccomp:obj</a></tt>, <tt><a href="ab_abnc-dep-ccomp-poss.html">ccomp:poss</a></tt>, <tt><a href="ab_abnc-dep-ccomp-purp.html">ccomp:purp</a></tt>, <tt><a href="ab_abnc-dep-ccomp-quote.html">ccomp:quote</a></tt>, <tt><a href="ab_abnc-dep-ccomp-ro.html">ccomp:ro</a></tt>.
 
-3 nodes (0%) are attached to their parents as `ccomp`.
+4 nodes (0%) are attached to their parents as `ccomp`.
 
-3 instances of `ccomp` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.
+4 instances of `ccomp` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.75.
 
-The following 1 pairs of parts of speech are connected with `ccomp`: <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> (3; 100% instances).
+The following 1 pairs of parts of speech are connected with `ccomp`: <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> (4; 100% instances).
 
 
 ~~~ conllu

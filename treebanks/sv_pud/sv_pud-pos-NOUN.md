@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>del</em> (<tt><a href="sv_pud-pos-NOU
 
 ## Morphology
 
-The form / lemma ratio of `NOUN` is 1.226415 (the average of all parts of speech is 1.245113).
+The form / lemma ratio of `NOUN` is 1.226415 (the average of all parts of speech is 1.244870).
 
 The 1st highest number of forms (5) was observed with the lemma “dag”: <em>dag, dagar, dagarna, dagen, dags</em>.
 
@@ -66,7 +66,7 @@ The 3rd highest number of forms (5) was observed with the lemma “parti”: <em
 `NOUN` occurs with 10 feature-value pairs: `Abbr=Yes`, `Case=Gen`, `Case=Nom`, `Definite=Def`, `Definite=Ind`, `Foreign=Yes`, `Gender=Com`, `Gender=Neut`, `Number=Plur`, `Number=Sing`
 
 `NOUN` occurs with 28 feature combinations.
-The most frequent feature combination is `Case=Nom|Definite=Ind|Gender=Com|Number=Sing` (1146 tokens).
+The most frequent feature combination is `Case=Nom|Definite=Ind|Gender=Com|Number=Sing` (1145 tokens).
 Examples: <em>grund, oktober, del, plats, april, euro, historia, president, tid, dag</em>
 
 

@@ -8,31 +8,32 @@ udver: '2'
 
 This relation is universal.
 
-6323 nodes (12%) are attached to their parents as `det`.
+8930 nodes (12%) are attached to their parents as `det`.
 
-6321 instances of `det` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.10849280404871.
+8926 instances of `det` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.10481522956327.
 
-The following 5 pairs of parts of speech are connected with `det`: <tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pro_corag-pos-DET.html">DET</a></tt> (6034; 95% instances), <tt><a href="pro_corag-pos-PRON.html">PRON</a></tt>-<tt><a href="pro_corag-pos-DET.html">DET</a></tt> (172; 3% instances), <tt><a href="pro_corag-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pro_corag-pos-DET.html">DET</a></tt> (92; 1% instances), <tt><a href="pro_corag-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pro_corag-pos-DET.html">DET</a></tt> (19; 0% instances), <tt><a href="pro_corag-pos-NUM.html">NUM</a></tt>-<tt><a href="pro_corag-pos-DET.html">DET</a></tt> (6; 0% instances).
+The following 6 pairs of parts of speech are connected with `det`: <tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pro_corag-pos-DET.html">DET</a></tt> (8578; 96% instances), <tt><a href="pro_corag-pos-PRON.html">PRON</a></tt>-<tt><a href="pro_corag-pos-DET.html">DET</a></tt> (216; 2% instances), <tt><a href="pro_corag-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pro_corag-pos-DET.html">DET</a></tt> (91; 1% instances), <tt><a href="pro_corag-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pro_corag-pos-DET.html">DET</a></tt> (28; 0% instances), <tt><a href="pro_corag-pos-NUM.html">NUM</a></tt>-<tt><a href="pro_corag-pos-DET.html">DET</a></tt> (11; 0% instances), <tt><a href="pro_corag-pos-ADV.html">ADV</a></tt>-<tt><a href="pro_corag-pos-DET.html">DET</a></tt> (6; 0% instances).
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 6 det	color:blue
-1	e	_	CCONJ	_	_	9	cc	_	_
-2	si	_	SCONJ	_	_	5	mark	_	_
-3	no	_	ADV	_	Polarity=Neg	5	advmod	_	_
-4	las	_	PRON	_	Gender=Fem|Number=Plur|Person=3|PronType=Prs	5	obj	_	_
-5	mustre	_	VERB	_	Number=Sing|Person=3|VerbForm=Fin	9	advcl	_	_
-6	son	_	DET	_	_	7	det	_	_
-7	cors	_	NOUN	_	_	10	obj	_	_
-8	ne	_	PRON	_	Person=3|PronType=Prs	10	obl	_	_
-9	dei	_	VERB	_	Number=Sing|Person=1|VerbForm=Fin	0	root	_	_
-10	pegnerar	_	VERB	_	VerbForm=Inf	9	xcomp	_	SpaceAfter=No
-11	.	_	PUNCT	_	_	9	punct	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 2 det	color:blue
+1	mas	_	CCONJ	_	_	5	cc	_	_
+2	las	_	DET	_	_	3	det	_	_
+3	parropias	_	NOUN	_	_	5	nsubj	_	_
+4	son	_	AUX	_	Number=Plur|Person=3|VerbForm=Fin	5	cop	_	_
+5	questas	_	PRON	_	Gender=Fem|Number=Plur|PronType=Dem	0	root	_	SpaceAfter=No
+6	:	_	PUNCT	_	_	5	punct	_	_
+7	Logoiran	_	PROPN	_	_	5	appos	_	SpaceAfter=No
+8	,	_	PUNCT	_	_	7	punct	_	_
+9	Lesteac	_	PROPN	_	_	7	conj	_	SpaceAfter=No
+10	,	_	PUNCT	_	_	9	punct	_	_
+11	Fau	_	PROPN	_	_	7	conj	_	SpaceAfter=No
+12	.	_	PUNCT	_	_	5	punct	_	_
 
 ~~~
 

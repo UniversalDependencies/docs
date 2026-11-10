@@ -42,7 +42,7 @@ Examples: <em>.i.</em>
 
 `ADV` nodes are attached to their parents using 2 different relations: <tt><a href="sga_dipsgg-dep-advmod.html">advmod</a></tt> (25; 96% instances), <tt><a href="sga_dipsgg-dep-discourse.html">discourse</a></tt> (1; 4% instances)
 
-Parents of `ADV` nodes belong to 6 different parts of speech: <tt><a href="sga_dipsgg-pos-NOUN.html">NOUN</a></tt> (15; 58% instances), <tt><a href="sga_dipsgg-pos-VERB.html">VERB</a></tt> (6; 23% instances), <tt><a href="sga_dipsgg-pos-PRON.html">PRON</a></tt> (2; 8% instances), <tt><a href="sga_dipsgg-pos-ADJ.html">ADJ</a></tt> (1; 4% instances), <tt><a href="sga_dipsgg-pos-PART.html">PART</a></tt> (1; 4% instances), <tt><a href="sga_dipsgg-pos-X.html">X</a></tt> (1; 4% instances)
+Parents of `ADV` nodes belong to 7 different parts of speech: <tt><a href="sga_dipsgg-pos-NOUN.html">NOUN</a></tt> (14; 54% instances), <tt><a href="sga_dipsgg-pos-VERB.html">VERB</a></tt> (6; 23% instances), <tt><a href="sga_dipsgg-pos-PRON.html">PRON</a></tt> (2; 8% instances), <tt><a href="sga_dipsgg-pos-ADJ.html">ADJ</a></tt> (1; 4% instances), <tt><a href="sga_dipsgg-pos-PART.html">PART</a></tt> (1; 4% instances), <tt><a href="sga_dipsgg-pos-PROPN.html">PROPN</a></tt> (1; 4% instances), <tt><a href="sga_dipsgg-pos-X.html">X</a></tt> (1; 4% instances)
 
 25 (96%) `ADV` nodes are leaves.
 

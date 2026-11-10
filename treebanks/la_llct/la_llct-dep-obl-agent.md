@@ -35,7 +35,7 @@ The following 2 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 10	nepotes	nepos	NOUN	n|n|-|p|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Plur	7	conj	_	_
 11	mei	meus	DET	a|a|1|p|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Plur|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	10	det	_	_
 12	vel	uel	CCONJ	c|c|-|-|-|-|-|-|-|-	_	13	cc	_	_
-13	[pronoun]	_	PRON	Punc	_	7	conj	_	_
+13	[pronoun]	_	NOUN	Punc	_	7	conj	_	_
 14	[preposition]	_	ADP	Punc	_	16	case	_	_
 15	ipsa	ipse	DET	p|p|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	16	det	_	_
 16	ecclesia	ecclesia	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	19	obl:agent	_	_

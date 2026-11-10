@@ -80,7 +80,7 @@ The most frequent other feature values with which `PART` and `PronType` co-occur
 * `Dem` (1; 9% of non-empty `PronType`): भलही
 * `Neg` (8; 73% of non-empty `PronType`): ना, नइखे
 * `Prs` (2; 18% of non-empty `PronType`): सँ
-* `EMPTY` (180): त, ना, नइखे, बहुते, भर, बस, अतना, खाली, गमगमावे, घटना
+* `EMPTY` (179): त, ना, नइखे, बहुते, भर, बस, अतना, खाली, गमगमावे, घटना
 
 ### `VERB`
 
@@ -104,7 +104,7 @@ The most frequent other feature values with which `NUM` and `PronType` co-occurr
 
 * `Ind` (1; 20% of non-empty `PronType`): जादा
 * `Prs` (4; 80% of non-empty `PronType`): कुछ, सभ
-* `EMPTY` (144): एगो, एक, लोग, गो, दू, दोसर, 5, अनकस, कलिग, चार
+* `EMPTY` (143): एगो, एक, लोग, गो, दू, दोसर, 5, अनकस, कलिग, चार
 
 ### `AUX`
 
@@ -126,7 +126,7 @@ The most frequent other feature values with which `ADJ` and `PronType` co-occurr
 `ADJ` tokens may have the following values of `PronType`:
 
 * `Prs` (1; 100% of non-empty `PronType`): हिंदियो
-* `EMPTY` (248): पूरा, बड़, सांस्कृतिक, तथाकथित, प, छोट, भोजपुरिया, खास, चुपचाप, जरूरी
+* `EMPTY` (249): पूरा, बड़, सांस्कृतिक, तथाकथित, प, छोट, भोजपुरिया, खास, चुपचाप, जरूरी
 
 ### `CCONJ`
 
@@ -137,7 +137,7 @@ The most frequent other feature values with which `CCONJ` and `PronType` co-occu
 `CCONJ` tokens may have the following values of `PronType`:
 
 * `Ind` (1; 100% of non-empty `PronType`): आ
-* `EMPTY` (150): आ, बाकिर, अउर, फगुआ, भा, राउर, आउर, आखिर, खम्भा, खैर
+* `EMPTY` (151): आ, बाकिर, अउर, फगुआ, भा, राउर, आउर, आखिर, खम्भा, खैर
 
 ## Relations with Agreement in `PronType`
 

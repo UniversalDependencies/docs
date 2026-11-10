@@ -46,7 +46,7 @@ The following 11 pairs of parts of speech are connected with `advmod:emph`: <tt>
 # visual-style 9 4 advmod:emph	color:blue
 1	رىياسەتچى	_	NOUN	N	_	2	nmod	_	Morf=Unknown|Translit=riyasetchi
 2	بالا	بالا	NOUN	N	Case=Nom	9	nsubj	_	Translit=bala|LTranslit=bala
-3	ئۆزىنى	ئۆز	PRON	P	Case=Acc|Number[psor]=Plur,Sing|Person[psor]=3|Reflex=Yes	9	obj	_	Translit=özini|LTranslit=öz
+3	ئۆزىنى	ئۆز	PRON	P	Case=Acc|Number[psor]=Plur,Sing|Person[psor]=3|PronType=Prs|Reflex=Yes	9	obj	_	Translit=özini|LTranslit=öz
 4	شۇنچە	شۇنچە	ADV	P	_	9	advmod:emph	_	Translit=shunche|LTranslit=shunche
 5	ئەركىن	ئەركىن	ADJ	A	Case=Nom	9	advmod	_	Translit=erkin|LTranslit=erkin
 6	ۋە	ۋە	CCONJ	C	_	7	cc	_	Translit=we|LTranslit=we

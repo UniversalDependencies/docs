@@ -36,14 +36,14 @@ The most frequent other feature values with which `AUX` and `Polarity` co-occurr
 
 ### `PART`
 
-4 <tt><a href="sga_dipsgg-pos-PART.html">PART</a></tt> tokens (13% of all `PART` tokens) have a non-empty value of `Polarity`.
+4 <tt><a href="sga_dipsgg-pos-PART.html">PART</a></tt> tokens (11% of all `PART` tokens) have a non-empty value of `Polarity`.
 
 The most frequent other feature values with which `PART` and `Polarity` co-occurred: <tt><a href="sga_dipsgg-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="sga_dipsgg-feat-PartType.html">PartType</a></tt><tt>=EMPTY</tt> (3; 75%).
 
 `PART` tokens may have the following values of `Polarity`:
 
 * `Neg` (4; 100% of non-empty `Polarity`): <em>ni, ní, nad</em>
-* `EMPTY` (28): <em>a, fo, sin, so, Do, at, fu, hí, in, no</em>
+* `EMPTY` (31): <em>a, fo, ro, sin, so, Do, at, fu, hí, in</em>
 
 ### `SCONJ`
 

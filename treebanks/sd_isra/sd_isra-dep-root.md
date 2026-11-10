@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-5756 nodes (6%) are attached to their parents as `root`.
+5766 nodes (6%) are attached to their parents as `root`.
 
-5756 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 9.47602501737318.
+5766 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 9.47814776274714.
 
-The following 11 pairs of parts of speech are connected with `root`: -<tt><a href="sd_isra-pos-VERB.html">VERB</a></tt> (4431; 77% instances), -<tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt> (843; 15% instances), -<tt><a href="sd_isra-pos-ADJ.html">ADJ</a></tt> (273; 5% instances), -<tt><a href="sd_isra-pos-AUX.html">AUX</a></tt> (70; 1% instances), -<tt><a href="sd_isra-pos-DET.html">DET</a></tt> (43; 1% instances), -<tt><a href="sd_isra-pos-PROPN.html">PROPN</a></tt> (35; 1% instances), -<tt><a href="sd_isra-pos-PRON.html">PRON</a></tt> (27; 0% instances), -<tt><a href="sd_isra-pos-ADV.html">ADV</a></tt> (22; 0% instances), -<tt><a href="sd_isra-pos-NUM.html">NUM</a></tt> (8; 0% instances), -<tt><a href="sd_isra-pos-ADP.html">ADP</a></tt> (2; 0% instances), -<tt><a href="sd_isra-pos-PART.html">PART</a></tt> (2; 0% instances).
+The following 11 pairs of parts of speech are connected with `root`: -<tt><a href="sd_isra-pos-VERB.html">VERB</a></tt> (4436; 77% instances), -<tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt> (846; 15% instances), -<tt><a href="sd_isra-pos-ADJ.html">ADJ</a></tt> (274; 5% instances), -<tt><a href="sd_isra-pos-AUX.html">AUX</a></tt> (70; 1% instances), -<tt><a href="sd_isra-pos-DET.html">DET</a></tt> (44; 1% instances), -<tt><a href="sd_isra-pos-PROPN.html">PROPN</a></tt> (35; 1% instances), -<tt><a href="sd_isra-pos-PRON.html">PRON</a></tt> (28; 0% instances), -<tt><a href="sd_isra-pos-ADV.html">ADV</a></tt> (22; 0% instances), -<tt><a href="sd_isra-pos-NUM.html">NUM</a></tt> (8; 0% instances), -<tt><a href="sd_isra-pos-ADP.html">ADP</a></tt> (2; 0% instances), -<tt><a href="sd_isra-pos-PART.html">PART</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

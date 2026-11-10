@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-547 nodes (1%) are attached to their parents as `fixed`.
+743 nodes (1%) are attached to their parents as `fixed`.
 
-547 instances of `fixed` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.24680073126143.
+743 instances of `fixed` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.21265141318977.
 
-The following 30 pairs of parts of speech are connected with `fixed`: <tt><a href="pro_corag-pos-ADV.html">ADV</a></tt>-<tt><a href="pro_corag-pos-SCONJ.html">SCONJ</a></tt> (142; 26% instances), <tt><a href="pro_corag-pos-ADP.html">ADP</a></tt>-<tt><a href="pro_corag-pos-SCONJ.html">SCONJ</a></tt> (77; 14% instances), <tt><a href="pro_corag-pos-PRON.html">PRON</a></tt>-<tt><a href="pro_corag-pos-VERB.html">VERB</a></tt> (43; 8% instances), <tt><a href="pro_corag-pos-ADP.html">ADP</a></tt>-<tt><a href="pro_corag-pos-ADP.html">ADP</a></tt> (42; 8% instances), <tt><a href="pro_corag-pos-ADV.html">ADV</a></tt>-<tt><a href="pro_corag-pos-ADV.html">ADV</a></tt> (31; 6% instances), <tt><a href="pro_corag-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="pro_corag-pos-ADV.html">ADV</a></tt> (30; 5% instances), <tt><a href="pro_corag-pos-ADP.html">ADP</a></tt>-<tt><a href="pro_corag-pos-ADV.html">ADV</a></tt> (29; 5% instances), <tt><a href="pro_corag-pos-ADV.html">ADV</a></tt>-<tt><a href="pro_corag-pos-ADP.html">ADP</a></tt> (29; 5% instances), <tt><a href="pro_corag-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="pro_corag-pos-SCONJ.html">SCONJ</a></tt> (29; 5% instances), <tt><a href="pro_corag-pos-ADP.html">ADP</a></tt>-<tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt> (18; 3% instances), <tt><a href="pro_corag-pos-ADP.html">ADP</a></tt>-<tt><a href="pro_corag-pos-PRON.html">PRON</a></tt> (12; 2% instances), <tt><a href="pro_corag-pos-PRON.html">PRON</a></tt>-<tt><a href="pro_corag-pos-SCONJ.html">SCONJ</a></tt> (10; 2% instances), <tt><a href="pro_corag-pos-ADV.html">ADV</a></tt>-<tt><a href="pro_corag-pos-CCONJ.html">CCONJ</a></tt> (9; 2% instances), <tt><a href="pro_corag-pos-ADV.html">ADV</a></tt>-<tt><a href="pro_corag-pos-VERB.html">VERB</a></tt> (8; 1% instances), <tt><a href="pro_corag-pos-PRON.html">PRON</a></tt>-<tt><a href="pro_corag-pos-AUX.html">AUX</a></tt> (6; 1% instances), <tt><a href="pro_corag-pos-VERB.html">VERB</a></tt>-<tt><a href="pro_corag-pos-SCONJ.html">SCONJ</a></tt> (5; 1% instances), <tt><a href="pro_corag-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="pro_corag-pos-VERB.html">VERB</a></tt> (4; 1% instances), <tt><a href="pro_corag-pos-ADP.html">ADP</a></tt>-<tt><a href="pro_corag-pos-DET.html">DET</a></tt> (3; 1% instances), <tt><a href="pro_corag-pos-ADV.html">ADV</a></tt>-<tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="pro_corag-pos-VERB.html">VERB</a></tt>-<tt><a href="pro_corag-pos-VERB.html">VERB</a></tt> (3; 1% instances), <tt><a href="pro_corag-pos-ADV.html">ADV</a></tt>-<tt><a href="pro_corag-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="pro_corag-pos-ADV.html">ADV</a></tt>-<tt><a href="pro_corag-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pro_corag-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="pro_corag-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="pro_corag-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="pro_corag-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pro_corag-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="pro_corag-pos-PRON.html">PRON</a></tt>-<tt><a href="pro_corag-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="pro_corag-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="pro_corag-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="pro_corag-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="pro_corag-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="pro_corag-pos-VERB.html">VERB</a></tt>-<tt><a href="pro_corag-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+The following 31 pairs of parts of speech are connected with `fixed`: <tt><a href="pro_corag-pos-ADV.html">ADV</a></tt>-<tt><a href="pro_corag-pos-SCONJ.html">SCONJ</a></tt> (201; 27% instances), <tt><a href="pro_corag-pos-ADP.html">ADP</a></tt>-<tt><a href="pro_corag-pos-SCONJ.html">SCONJ</a></tt> (101; 14% instances), <tt><a href="pro_corag-pos-ADP.html">ADP</a></tt>-<tt><a href="pro_corag-pos-ADP.html">ADP</a></tt> (65; 9% instances), <tt><a href="pro_corag-pos-ADP.html">ADP</a></tt>-<tt><a href="pro_corag-pos-ADV.html">ADV</a></tt> (53; 7% instances), <tt><a href="pro_corag-pos-PRON.html">PRON</a></tt>-<tt><a href="pro_corag-pos-VERB.html">VERB</a></tt> (47; 6% instances), <tt><a href="pro_corag-pos-ADP.html">ADP</a></tt>-<tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt> (43; 6% instances), <tt><a href="pro_corag-pos-ADV.html">ADV</a></tt>-<tt><a href="pro_corag-pos-ADV.html">ADV</a></tt> (42; 6% instances), <tt><a href="pro_corag-pos-ADV.html">ADV</a></tt>-<tt><a href="pro_corag-pos-ADP.html">ADP</a></tt> (41; 6% instances), <tt><a href="pro_corag-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="pro_corag-pos-SCONJ.html">SCONJ</a></tt> (32; 4% instances), <tt><a href="pro_corag-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="pro_corag-pos-ADV.html">ADV</a></tt> (31; 4% instances), <tt><a href="pro_corag-pos-ADP.html">ADP</a></tt>-<tt><a href="pro_corag-pos-PRON.html">PRON</a></tt> (12; 2% instances), <tt><a href="pro_corag-pos-PRON.html">PRON</a></tt>-<tt><a href="pro_corag-pos-SCONJ.html">SCONJ</a></tt> (11; 1% instances), <tt><a href="pro_corag-pos-ADV.html">ADV</a></tt>-<tt><a href="pro_corag-pos-CCONJ.html">CCONJ</a></tt> (10; 1% instances), <tt><a href="pro_corag-pos-ADV.html">ADV</a></tt>-<tt><a href="pro_corag-pos-VERB.html">VERB</a></tt> (9; 1% instances), <tt><a href="pro_corag-pos-PRON.html">PRON</a></tt>-<tt><a href="pro_corag-pos-AUX.html">AUX</a></tt> (6; 1% instances), <tt><a href="pro_corag-pos-VERB.html">VERB</a></tt>-<tt><a href="pro_corag-pos-SCONJ.html">SCONJ</a></tt> (6; 1% instances), <tt><a href="pro_corag-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="pro_corag-pos-VERB.html">VERB</a></tt> (5; 1% instances), <tt><a href="pro_corag-pos-ADV.html">ADV</a></tt>-<tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt> (4; 1% instances), <tt><a href="pro_corag-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="pro_corag-pos-ADP.html">ADP</a></tt> (4; 1% instances), <tt><a href="pro_corag-pos-ADP.html">ADP</a></tt>-<tt><a href="pro_corag-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="pro_corag-pos-VERB.html">VERB</a></tt>-<tt><a href="pro_corag-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="pro_corag-pos-ADV.html">ADV</a></tt>-<tt><a href="pro_corag-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="pro_corag-pos-ADV.html">ADV</a></tt>-<tt><a href="pro_corag-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pro_corag-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="pro_corag-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="pro_corag-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="pro_corag-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pro_corag-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="pro_corag-pos-PRON.html">PRON</a></tt>-<tt><a href="pro_corag-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="pro_corag-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="pro_corag-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="pro_corag-pos-VERB.html">VERB</a></tt>-<tt><a href="pro_corag-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="pro_corag-pos-VERB.html">VERB</a></tt>-<tt><a href="pro_corag-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -68,32 +68,20 @@ The following 30 pairs of parts of speech are connected with `fixed`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 15	bgColor:blue
-# visual-style 15	fgColor:white
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 13 15 fixed	color:blue
-1	Questas	_	PRON	_	Gender=Fem|Number=Plur|PronType=Dem	0	root	_	_
-2	son	_	AUX	_	Number=Plur|Person=3|VerbForm=Fin	1	cop	_	_
-3	las	_	DET	_	_	4	det	_	_
-4	causas	_	NOUN	_	_	1	nsubj	_	_
-5	que	_	PRON	_	PronType=Rel	8	nsubj	_	_
-6	antiquament	_	ADV	_	_	8	advmod	_	_
-7	eran	_	AUX	_	Number=Plur|Person=3|VerbForm=Fin	8	aux:pass	_	_
-8	degudas	_	VERB	_	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	4	acl:relcl	_	_
-9	a-	_	ADP	_	_	11	case	_	_
-10	-lo	_	DET	_	_	11	det	_	_
-11	seynhor	_	NOUN	_	_	8	obl	_	_
-12	Rey	_	NOUN	_	_	11	flat	_	_
-13	so	_	PRON	_	ExtPos=ADV|Gender=Neut|Number=Sing|PronType=Dem	16	advmod	_	_
-14	es	_	VERB	_	Number=Sing|Person=3|VerbForm=Fin	13	fixed	_	_
-15	assaber	_	VERB	_	VerbForm=Inf	13	fixed	_	_
-16	aquo	_	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	4	appos	_	_
-17	que	_	PRON	_	PronType=Rel	20	nsubj	_	_
-18	dessus	_	ADV	_	_	20	advmod	_	_
-19	es	_	AUX	_	Number=Sing|Person=3|VerbForm=Fin	20	aux:pass	_	_
-20	expressat	_	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	16	acl:relcl	_	SpaceAfter=No
-21	.	_	PUNCT	_	_	1	punct	_	_
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 7 fixed	color:blue
+1	la	_	DET	_	_	2	det	_	_
+2	segunde	_	ADJ	_	_	0	root	_	SpaceAfter=No
+3	,	_	PUNCT	_	_	2	punct	_	_
+4	de	_	ADP	_	_	5	case	_	_
+5	Martro	_	PROPN	_	_	2	orphan	_	_
+6	entro	_	ADP	_	ExtPos=ADP	8	case	_	_
+7	a	_	ADP	_	_	6	fixed	_	_
+8	Nadal	_	PROPN	_	_	5	obl	_	SpaceAfter=No
+9	;	_	PUNCT	_	_	2	punct	_	_
 
 ~~~
 

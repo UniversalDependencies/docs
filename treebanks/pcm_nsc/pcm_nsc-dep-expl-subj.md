@@ -22,27 +22,27 @@ The following 10 pairs of parts of speech are connected with `expl:subj`: <tt><a
 # visual-style 12	bgColor:blue
 # visual-style 12	fgColor:white
 # visual-style 12 11 expl:subj	color:blue
-1	#	#	PUNCT	_	_	4	punct	_	AlignBegin=247495|AlignEnd=248115|Gloss=PUNCT
-2	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	AlignBegin=248115|AlignEnd=248182|Gloss=NOM.SG.1
-3	con	con	AUX	_	Aspect=Cons	4	aux	_	AlignBegin=248182|AlignEnd=248392|Gloss=CONS
-4	tell	tell	VERB	_	_	0	root	_	AlignBegin=248392|AlignEnd=248542|Gloss=tell
-5	my	my	PRON	_	Number=Sing|Person=1|Poss=Yes	6	nmod:poss	_	AlignBegin=248542|AlignEnd=248682|Gloss=SG.1.POSS
-6	oga	oga	NOUN	_	_	4	obl:arg	_	AlignBegin=248682|AlignEnd=248902|Gloss=boss
-7	sey	sey	SCONJ	_	_	12	mark	_	AlignBegin=248902|AlignEnd=249082|Gloss=COMP
-8	[	[	PUNCT	_	_	12	punct	_	AlignBegin=249082|AlignEnd=249082|Gloss=PUNCT
-9	toh	toh	INTJ	_	_	12	discourse	_	AlignBegin=249082|AlignEnd=249260|Gloss=alright
-10	#	#	PUNCT	_	_	9	punct	_	AlignBegin=249290|AlignEnd=249630|Gloss=PUNCT
-11	e	im	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	12	expl:subj	_	AlignBegin=249630|AlignEnd=249690|Gloss=NOM.SG.3
-12	get	get	VERB	_	_	4	ccomp	_	AlignBegin=249690|AlignEnd=249852|Gloss=get
-13	one	one	DET	_	Definite=Spec|PronType=Art	14	det	_	AlignBegin=249852|AlignEnd=250040|Gloss=SPEC.ART
-14	work	work	NOUN	_	_	12	nsubj	_	AlignBegin=250040|AlignEnd=250310|Gloss=work
-15	weh	wey	SCONJ	_	_	18	mark	_	AlignBegin=250310|AlignEnd=250410|Gloss=REL
-16	me	me	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	18	dislocated	_	AlignBegin=250410|AlignEnd=250530|Gloss=ACC.SG.1
-17	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	18	nsubj	_	AlignBegin=250530|AlignEnd=250640|Gloss=NOM.SG.1
-18	see	see	VERB	_	_	14	acl:relcl	_	AlignBegin=250640|AlignEnd=250890|Gloss=see
-19	o	o	PART	_	PartType=Disc	12	advmod	_	AlignBegin=250890|AlignEnd=251046|Gloss=EMPH
-20	]	]	PUNCT	_	_	12	punct	_	AlignBegin=251046|AlignEnd=251046|Gloss=PUNCT
-21	//	//	PUNCT	_	_	4	punct	_	AlignBegin=251016|AlignEnd=251046|Gloss=PUNCT
+1	#	#	PUNCT	_	_	4	punct	_	Gloss=PUNCT|WordAlignmentBegin=247495|WordAlignmentEnd=248115
+2	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	Gloss=NOM.SG.1|WordAlignmentBegin=248115|WordAlignmentEnd=248182
+3	con	con	AUX	_	Aspect=Cons	4	aux	_	Gloss=CONS|WordAlignmentBegin=248182|WordAlignmentEnd=248392
+4	tell	tell	VERB	_	_	0	root	_	Gloss=tell|WordAlignmentBegin=248392|WordAlignmentEnd=248542
+5	my	my	PRON	_	Number=Sing|Person=1|Poss=Yes	6	nmod:poss	_	Gloss=SG.1.POSS|WordAlignmentBegin=248542|WordAlignmentEnd=248682
+6	oga	oga	NOUN	_	_	4	obl:arg	_	Gloss=boss|WordAlignmentBegin=248682|WordAlignmentEnd=248902
+7	sey	sey	SCONJ	_	_	12	mark	_	Gloss=COMP|WordAlignmentBegin=248902|WordAlignmentEnd=249082
+8	[	[	PUNCT	_	_	12	punct	_	Gloss=PUNCT|WordAlignmentBegin=249082|WordAlignmentEnd=249082
+9	toh	toh	INTJ	_	_	12	discourse	_	Gloss=alright|WordAlignmentBegin=249082|WordAlignmentEnd=249260
+10	#	#	PUNCT	_	_	9	punct	_	Gloss=PUNCT|WordAlignmentBegin=249290|WordAlignmentEnd=249630
+11	e	im	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	12	expl:subj	_	Gloss=NOM.SG.3|WordAlignmentBegin=249630|WordAlignmentEnd=249690
+12	get	get	VERB	_	_	4	ccomp	_	Gloss=get|WordAlignmentBegin=249690|WordAlignmentEnd=249852
+13	one	one	DET	_	Definite=Spec|PronType=Art	14	det	_	Gloss=SPEC.ART|WordAlignmentBegin=249852|WordAlignmentEnd=250040
+14	work	work	NOUN	_	_	12	nsubj	_	Gloss=work|WordAlignmentBegin=250040|WordAlignmentEnd=250310
+15	weh	wey	SCONJ	_	_	18	mark	_	Gloss=REL|WordAlignmentBegin=250310|WordAlignmentEnd=250410
+16	me	me	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	18	dislocated	_	Gloss=ACC.SG.1|WordAlignmentBegin=250410|WordAlignmentEnd=250530
+17	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	18	nsubj	_	Gloss=NOM.SG.1|WordAlignmentBegin=250530|WordAlignmentEnd=250640
+18	see	see	VERB	_	_	14	acl:relcl	_	Gloss=see|WordAlignmentBegin=250640|WordAlignmentEnd=250890
+19	o	o	PART	_	PartType=Disc	12	advmod	_	Gloss=EMPH|WordAlignmentBegin=250890|WordAlignmentEnd=251046
+20	]	]	PUNCT	_	_	12	punct	_	Gloss=PUNCT|WordAlignmentBegin=251046|WordAlignmentEnd=251046
+21	//	//	PUNCT	_	_	4	punct	_	Gloss=PUNCT|WordAlignmentBegin=251016|WordAlignmentEnd=251046
 
 ~~~
 
@@ -53,11 +53,11 @@ The following 10 pairs of parts of speech are connected with `expl:subj`: <tt><a
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 2 expl:subj	color:blue
-1	#	#	PUNCT	_	_	4	punct	_	AlignBegin=285305|AlignEnd=285540|Gloss=PUNCT
-2	e	im	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	4	expl:subj	_	AlignBegin=285540|AlignEnd=285750|Gloss=NOM.SG.3
-3	go	go	AUX	_	Aspect=Prosp	4	aux	_	AlignBegin=285750|AlignEnd=285870|Gloss=PROSP
-4	better	beta	ADJ	_	Degree=Cmp|ExtPos=VERB	0	root	_	AlignBegin=285870|AlignEnd=286250|Gloss=good.CMPR
-5	//	//	PUNCT	_	_	4	punct	_	AlignBegin=286250|AlignEnd=286250|Gloss=PUNCT
+1	#	#	PUNCT	_	_	4	punct	_	Gloss=PUNCT|WordAlignmentBegin=285305|WordAlignmentEnd=285540
+2	e	im	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	4	expl:subj	_	Gloss=NOM.SG.3|WordAlignmentBegin=285540|WordAlignmentEnd=285750
+3	go	go	AUX	_	Aspect=Prosp	4	aux	_	Gloss=PROSP|WordAlignmentBegin=285750|WordAlignmentEnd=285870
+4	better	beta	ADJ	_	Degree=Cmp|ExtPos=VERB	0	root	_	Gloss=good.CMPR|WordAlignmentBegin=285870|WordAlignmentEnd=286250
+5	//	//	PUNCT	_	_	4	punct	_	Gloss=PUNCT|WordAlignmentBegin=286250|WordAlignmentEnd=286250
 
 ~~~
 
@@ -68,26 +68,26 @@ The following 10 pairs of parts of speech are connected with `expl:subj`: <tt><a
 # visual-style 18	bgColor:blue
 # visual-style 18	fgColor:white
 # visual-style 18 2 expl:subj	color:blue
-1	#	#	PUNCT	_	_	18	punct	_	AlignBegin=249726|AlignEnd=250060|Gloss=PUNCT
-2	e	im	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	18	expl:subj	_	AlignBegin=250060|AlignEnd=250150|Gloss=NOM.SG.3
-3	fit	fit	AUX	_	Mood=Pot	18	aux	_	AlignBegin=250150|AlignEnd=250280|Gloss=ABIL
-4	be	be	AUX	_	PartType=Cop	18	cop	_	AlignBegin=250280|AlignEnd=250381|Gloss=be
-5	sey	sey	SCONJ	_	_	18	mark	_	AlignBegin=250381|AlignEnd=250490|Gloss=COMP
-6	[	[	PUNCT	_	_	18	punct	_	AlignBegin=250490|AlignEnd=250490|Gloss=PUNCT
-7	di	di	DET	_	Definite=Def|PronType=Art	8	det	_	AlignBegin=250490|AlignEnd=250590|Gloss=DEF.ART
-8	person	person	NOUN	_	_	18	nsubj	_	AlignBegin=250590|AlignEnd=250840|Gloss=person
-9	wey	wey	SCONJ	_	_	11	mark	_	AlignBegin=250840|AlignEnd=250910|Gloss=REL
-10	dey	dey	AUX	_	Aspect=Imp	11	aux	_	AlignBegin=250910|AlignEnd=250970|Gloss=IPFV
-11	drive	drive	VERB	_	_	8	acl:relcl	_	AlignBegin=250970|AlignEnd=251120|Gloss=drive
-12	di	di	DET	_	Definite=Def|PronType=Art	13	det	_	AlignBegin=251120|AlignEnd=251180|Gloss=DEF.ART
-13	motor	motor	NOUN	_	_	11	obj	_	AlignBegin=251180|AlignEnd=251420|Gloss=motor
-14	no	no	AUX	_	Polarity=Neg	18	aux	_	AlignBegin=251420|AlignEnd=251640|Gloss=NEG
-15	be	be	AUX	_	PartType=Cop	18	cop	_	AlignBegin=251640|AlignEnd=251730|Gloss=be
-16	im	im	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	17	nmod:poss	_	AlignBegin=251730|AlignEnd=251867|Gloss=NOM.SG.3
-17	tribe	tribe	NOUN	_	_	18	compound	_	AlignBegin=251867|AlignEnd=252080|Gloss=tribe
-18	person	person	NOUN	_	_	0	root	_	AlignBegin=252080|AlignEnd=252429|Gloss=person
-19	]	]	PUNCT	_	_	18	punct	_	AlignBegin=252429|AlignEnd=252429|Gloss=PUNCT
-20	//	//	PUNCT	_	_	18	punct	_	AlignBegin=252399|AlignEnd=252429|Gloss=PUNCT
+1	#	#	PUNCT	_	_	18	punct	_	Gloss=PUNCT|WordAlignmentBegin=249726|WordAlignmentEnd=250060
+2	e	im	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	18	expl:subj	_	Gloss=NOM.SG.3|WordAlignmentBegin=250060|WordAlignmentEnd=250150
+3	fit	fit	AUX	_	Mood=Pot	18	aux	_	Gloss=ABIL|WordAlignmentBegin=250150|WordAlignmentEnd=250280
+4	be	be	AUX	_	PartType=Cop	18	cop	_	Gloss=be|WordAlignmentBegin=250280|WordAlignmentEnd=250381
+5	sey	sey	SCONJ	_	_	18	mark	_	Gloss=COMP|WordAlignmentBegin=250381|WordAlignmentEnd=250490
+6	[	[	PUNCT	_	_	18	punct	_	Gloss=PUNCT|WordAlignmentBegin=250490|WordAlignmentEnd=250490
+7	di	di	DET	_	Definite=Def|PronType=Art	8	det	_	Gloss=DEF.ART|WordAlignmentBegin=250490|WordAlignmentEnd=250590
+8	person	person	NOUN	_	_	18	nsubj	_	Gloss=person|WordAlignmentBegin=250590|WordAlignmentEnd=250840
+9	wey	wey	SCONJ	_	_	11	mark	_	Gloss=REL|WordAlignmentBegin=250840|WordAlignmentEnd=250910
+10	dey	dey	AUX	_	Aspect=Imp	11	aux	_	Gloss=IPFV|WordAlignmentBegin=250910|WordAlignmentEnd=250970
+11	drive	drive	VERB	_	_	8	acl:relcl	_	Gloss=drive|WordAlignmentBegin=250970|WordAlignmentEnd=251120
+12	di	di	DET	_	Definite=Def|PronType=Art	13	det	_	Gloss=DEF.ART|WordAlignmentBegin=251120|WordAlignmentEnd=251180
+13	motor	motor	NOUN	_	_	11	obj	_	Gloss=motor|WordAlignmentBegin=251180|WordAlignmentEnd=251420
+14	no	no	AUX	_	Polarity=Neg	18	aux	_	Gloss=NEG|WordAlignmentBegin=251420|WordAlignmentEnd=251640
+15	be	be	AUX	_	PartType=Cop	18	cop	_	Gloss=be|WordAlignmentBegin=251640|WordAlignmentEnd=251730
+16	im	im	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	17	nmod:poss	_	Gloss=NOM.SG.3|WordAlignmentBegin=251730|WordAlignmentEnd=251867
+17	tribe	tribe	NOUN	_	_	18	compound	_	Gloss=tribe|WordAlignmentBegin=251867|WordAlignmentEnd=252080
+18	person	person	NOUN	_	_	0	root	_	Gloss=person|WordAlignmentBegin=252080|WordAlignmentEnd=252429
+19	]	]	PUNCT	_	_	18	punct	_	Gloss=PUNCT|WordAlignmentBegin=252429|WordAlignmentEnd=252429
+20	//	//	PUNCT	_	_	18	punct	_	Gloss=PUNCT|WordAlignmentBegin=252399|WordAlignmentEnd=252429
 
 ~~~
 

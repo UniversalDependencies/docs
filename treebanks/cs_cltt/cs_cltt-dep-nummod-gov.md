@@ -37,7 +37,7 @@ The following 1 pairs of parts of speech are connected with `nummod:gov`: <tt><a
 13	-	-	PUNCT	Z:-------------	_	16	punct	16:punct	SpaceAfter=No
 14	li	li	PART	TT-------------	_	16	mark	16:mark	_
 15	dále	dále	ADV	Db------------1	_	16	advmod	16:advmod	LId=dále-3
-16	stanoveno	stanovený	ADJ	VsNS---XX-AP---	Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	3	advcl	3:advcl:li	LDeriv=stanovit
+16	stanoveno	stanovený	ADJ	VsNS---XX-AP---	Aspect=Perf|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	3	advcl	3:advcl:li	LDeriv=stanovit
 17	jinak	jinak	ADV	Db-------------	_	16	advmod	16:advmod	SpaceAfter=No
 18	.	.	PUNCT	Z:-------------	_	3	punct	3:punct	_
 

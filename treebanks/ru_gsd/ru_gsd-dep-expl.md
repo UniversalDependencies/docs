@@ -55,20 +55,20 @@ The following 2 pairs of parts of speech are connected with `expl`: <tt><a href=
 10	,	,	PUNCT	,	_	11	punct	_	_
 11	рассказывающих	рассказывать	VERB	VBNL	Animacy=Inan|Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	9	acl	_	_
 12	о	о	ADP	IN	_	14	case	_	_
-13	дальнейшей	дальнейший	ADJ	JJL	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	14	amod	_	_
+13	дальнейшей	дальнейший	ADJ	JJL	Case=Loc|Degree=Sup|Gender=Fem|Number=Sing	14	amod	_	_
 14	судьбе	судьба	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	11	obl	_	_
 15	героев	герой	NOUN	NN	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	14	nmod	_	SpaceAfter=No
 16	:	:	PUNCT	:	_	9	punct	_	_
 17	``	``	PUNCT	``	_	19	punct	_	SpaceAfter=No
 18	Это	это	PART	UH	_	19	expl	_	_
 19	Англия	Англия	PROPN	NNP	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	9	appos	_	_
-20	86	86	NUM	CD	Case=Nom|NumType=Card	19	nummod:entity	_	SpaceAfter=No
+20	86	86	NUM	CD	Case=Nom|NumType=Card	19	appos	_	SpaceAfter=No
 21	&#39;&#39;	&#39;&#39;	PUNCT	&#39;&#39;	_	25	punct	_	_
 22	и	и	CCONJ	CC	_	25	cc	_	_
 23	``	``	PUNCT	``	_	25	punct	_	SpaceAfter=No
 24	Это	это	PART	UH	_	25	expl	_	_
 25	Англия	Англия	PROPN	NNP	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	19	conj	_	_
-26	88	88	NUM	CD	Case=Nom|NumType=Card	25	nummod:entity	_	SpaceAfter=No
+26	88	88	NUM	CD	Case=Nom|NumType=Card	25	appos	_	SpaceAfter=No
 27	&#39;&#39;	&#39;&#39;	PUNCT	&#39;&#39;	_	25	punct	_	SpaceAfter=No
 28	.	.	PUNCT	.	_	1	punct	_	_
 

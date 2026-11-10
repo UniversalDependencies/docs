@@ -99,14 +99,14 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 
 275 <tt><a href="fr_pud-pos-DET.html">DET</a></tt> tokens (7% of all `DET` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="fr_pud-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (275; 100%), <tt><a href="fr_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (275; 100%), <tt><a href="fr_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (200; 73%), <tt><a href="fr_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (146; 53%).
+The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="fr_pud-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (275; 100%), <tt><a href="fr_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (275; 100%), <tt><a href="fr_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (200; 73%), <tt><a href="fr_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (148; 54%).
 
 `DET` tokens may have the following values of `Person`:
 
 * `1` (20; 7% of non-empty `Person`): <em>notre, nos, mon, ma, mes</em>
 * `2` (4; 1% of non-empty `Person`): <em>votre, vos</em>
 * `3` (251; 91% of non-empty `Person`): <em>son, sa, ses, leur, leurs, sar</em>
-* `EMPTY` (3612): <em>le, la, les, l', un, une, des, cette, ce, de</em>
+* `EMPTY` (3611): <em>le, la, les, l', un, une, des, cette, ce, de</em>
 
 <table>
   <tr><th>Paradigm <i>son</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -114,7 +114,7 @@ The most frequent other feature values with which `DET` and `Person` co-occurred
   <tr><td><tt><tt><a href="fr_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="fr_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fr_pud-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt></tt></td><td><em>notre</em></td><td><em>votre</em></td><td><em>leur</em></td></tr>
   <tr><td><tt><tt><a href="fr_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="fr_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="fr_pud-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt></tt></td><td><em>mes</em></td><td></td><td><em>ses</em></td></tr>
   <tr><td><tt><tt><a href="fr_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="fr_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="fr_pud-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt></tt></td><td><em>nos</em></td><td></td><td><em>leurs</em></td></tr>
-  <tr><td><tt><tt><a href="fr_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="fr_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fr_pud-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt></tt></td><td><em>ma</em></td><td></td><td><em>sa, son</em></td></tr>
+  <tr><td><tt><tt><a href="fr_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="fr_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fr_pud-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt></tt></td><td><em>ma, Mon</em></td><td></td><td><em>sa, son</em></td></tr>
   <tr><td><tt><tt><a href="fr_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="fr_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fr_pud-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="fr_pud-feat-Typo.html">Typo</a></tt><tt>=Yes</tt></tt></td><td></td><td></td><td><em>sar</em></td></tr>
   <tr><td><tt><tt><a href="fr_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="fr_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fr_pud-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt></tt></td><td><em>notre</em></td><td></td><td><em>leur</em></td></tr>
   <tr><td><tt><tt><a href="fr_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="fr_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="fr_pud-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>ses</em></td></tr>

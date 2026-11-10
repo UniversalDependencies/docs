@@ -40,7 +40,7 @@ The following 1 pairs of parts of speech are connected with `compound`: <tt><a h
 15	matkaa	matka	NOUN	N,Sg,Par	Case=Par|Number=Sing	8	obj	_	_
 16	kohti	kohti	ADP	Adp	_	17	case	_	_
 17	Ikaalisia	ikaalinen	PROPN	N,Prop,Pl,Par	Case=Par|Number=Plur	15	nmod	_	_
-18	.	.	PUNCT	Pun	_	17	punct	_	_
+18	.	.	PUNCT	Pun	_	5	punct	_	_
 
 ~~~
 

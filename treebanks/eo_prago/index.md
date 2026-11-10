@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.16 release
 The following people have contributed to making this treebank part of UD: Masanori Oya.
 
 Repository: [UD_Esperanto-Prago](https://github.com/UniversalDependencies/UD_Esperanto-Prago)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udeo_prago218)<br />
-Download all treebanks: [UD 2.18](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udeo_prago219)<br />
+Download all treebanks: [UD 2.19](/#download)
 
 License: CC BY-SA 4.0
 
@@ -42,7 +42,7 @@ Development of the treebank happens directly in the UD repository, so you may su
 
 ## Description
 
-UD Esperanto-Prago is the Universal Dependencies syntax annotation on Manifesto de Prago (Prague Manifesto) and Deklaratio pri Homaranismo.
+UD Esperanto-Prago is the Universal Dependencies syntax annotation on _Manifesto de Prago_ (Prague Manifesto) (1996), _Deklaratio pri Homaranismo_ (1913), and _Deklaracio pri la Esenco de la Esperantismo_ (Bulonja deklaracio) (1905).
 
 
 
@@ -54,9 +54,11 @@ Esperanto is a constructed auxiliary language for international communication, c
 ...
 
 ## References
-
 https://lingvo.org/prago/eo.php
 
+https://eo.wikisource.org/wiki/Deklaracio_pri_Homaranismo
+
+https://www.akademio-de-esperanto.org/fundamento/bulonja_deklaracio.html
 
 
 # Statistics of UD Esperanto Prago
@@ -67,21 +69,21 @@ https://lingvo.org/prago/eo.php
 
 ## Features
 
-[Case](eo_prago-feat-Case.html) – [Definite](eo_prago-feat-Definite.html) – [Degree](eo_prago-feat-Degree.html) – [ExtPos](eo_prago-feat-ExtPos.html) – [Mood](eo_prago-feat-Mood.html) – [Number](eo_prago-feat-Number.html) – [Number[psor]](eo_prago-feat-Number-psor.html) – [NumForm](eo_prago-feat-NumForm.html) – [NumType](eo_prago-feat-NumType.html) – [Person](eo_prago-feat-Person.html) – [Poss](eo_prago-feat-Poss.html) – [PronType](eo_prago-feat-PronType.html) – [Reflex](eo_prago-feat-Reflex.html) – [Tense](eo_prago-feat-Tense.html) – [VerbForm](eo_prago-feat-VerbForm.html) – [Voice](eo_prago-feat-Voice.html)
+[Case](eo_prago-feat-Case.html) – [Definite](eo_prago-feat-Definite.html) – [Degree](eo_prago-feat-Degree.html) – [ExtPos](eo_prago-feat-ExtPos.html) – [Gender](eo_prago-feat-Gender.html) – [Gender[psor]](eo_prago-feat-Gender-psor.html) – [Mood](eo_prago-feat-Mood.html) – [Number](eo_prago-feat-Number.html) – [Number[psor]](eo_prago-feat-Number-psor.html) – [NumForm](eo_prago-feat-NumForm.html) – [NumType](eo_prago-feat-NumType.html) – [Person](eo_prago-feat-Person.html) – [Person[psor]](eo_prago-feat-Person-psor.html) – [Poss](eo_prago-feat-Poss.html) – [PronType](eo_prago-feat-PronType.html) – [Reflex](eo_prago-feat-Reflex.html) – [Tense](eo_prago-feat-Tense.html) – [VerbForm](eo_prago-feat-VerbForm.html) – [Voice](eo_prago-feat-Voice.html)
 
 ## Relations
 
-[acl](eo_prago-dep-acl.html) – [acl:relcl](eo_prago-dep-acl-relcl.html) – [advcl](eo_prago-dep-advcl.html) – [advcl:relcl](eo_prago-dep-advcl-relcl.html) – [advmod](eo_prago-dep-advmod.html) – [amod](eo_prago-dep-amod.html) – [appos](eo_prago-dep-appos.html) – [aux](eo_prago-dep-aux.html) – [aux:pass](eo_prago-dep-aux-pass.html) – [case](eo_prago-dep-case.html) – [cc](eo_prago-dep-cc.html) – [cc:preconj](eo_prago-dep-cc-preconj.html) – [ccomp](eo_prago-dep-ccomp.html) – [conj](eo_prago-dep-conj.html) – [cop](eo_prago-dep-cop.html) – [csubj](eo_prago-dep-csubj.html) – [det](eo_prago-dep-det.html) – [discourse](eo_prago-dep-discourse.html) – [fixed](eo_prago-dep-fixed.html) – [iobj](eo_prago-dep-iobj.html) – [mark](eo_prago-dep-mark.html) – [nmod](eo_prago-dep-nmod.html) – [nmod:poss](eo_prago-dep-nmod-poss.html) – [nsubj](eo_prago-dep-nsubj.html) – [nsubj:pass](eo_prago-dep-nsubj-pass.html) – [nummod](eo_prago-dep-nummod.html) – [obj](eo_prago-dep-obj.html) – [obl](eo_prago-dep-obl.html) – [parataxis](eo_prago-dep-parataxis.html) – [punct](eo_prago-dep-punct.html) – [root](eo_prago-dep-root.html) – [xcomp](eo_prago-dep-xcomp.html)
+[acl](eo_prago-dep-acl.html) – [acl:relcl](eo_prago-dep-acl-relcl.html) – [advcl](eo_prago-dep-advcl.html) – [advcl:relcl](eo_prago-dep-advcl-relcl.html) – [advmod](eo_prago-dep-advmod.html) – [amod](eo_prago-dep-amod.html) – [appos](eo_prago-dep-appos.html) – [aux](eo_prago-dep-aux.html) – [aux:pass](eo_prago-dep-aux-pass.html) – [case](eo_prago-dep-case.html) – [cc](eo_prago-dep-cc.html) – [cc:preconj](eo_prago-dep-cc-preconj.html) – [ccomp](eo_prago-dep-ccomp.html) – [conj](eo_prago-dep-conj.html) – [cop](eo_prago-dep-cop.html) – [csubj](eo_prago-dep-csubj.html) – [det](eo_prago-dep-det.html) – [discourse](eo_prago-dep-discourse.html) – [fixed](eo_prago-dep-fixed.html) – [iobj](eo_prago-dep-iobj.html) – [mark](eo_prago-dep-mark.html) – [nmod](eo_prago-dep-nmod.html) – [nmod:poss](eo_prago-dep-nmod-poss.html) – [nsubj](eo_prago-dep-nsubj.html) – [nsubj:pass](eo_prago-dep-nsubj-pass.html) – [nummod](eo_prago-dep-nummod.html) – [obj](eo_prago-dep-obj.html) – [obl](eo_prago-dep-obl.html) – [obl:tmod](eo_prago-dep-obl-tmod.html) – [parataxis](eo_prago-dep-parataxis.html) – [punct](eo_prago-dep-punct.html) – [root](eo_prago-dep-root.html) – [xcomp](eo_prago-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 131 sentences and 3166 tokens.</li>
+<li>This corpus contains 146 sentences and 3832 tokens.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 455 tokens (14%) that are not followed by a space.</li>
+<li>This corpus contains 530 tokens (14%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -89,7 +91,7 @@ https://lingvo.org/prago/eo.php
 </ul>
 
 <ul>
-<li>This corpus contains 16 types of words that contain both letters and punctuation. Examples: D-ro, esperanto-komunumo, neŭtrale-homa, lingvo-instruado, neŭtrale-homan, I.a, dank', du-, gente-religian, komunikad-tekniko, naci(ar)o, neŭtrale-geografian, neŭtrale-homaj, neŭtrale-homajn, politika-religia, politika-religian</li>
+<li>This corpus contains 18 types of words that contain both letters and punctuation. Examples: D-ro, esperanto-komunumo, neŭtrale-homa, lingvo-instruado, neŭtrale-homan, 9-an, Boulogne-sur-Mer, I.a, dank', du-, gente-religian, komunikad-tekniko, naci(ar)o, neŭtrale-geografian, neŭtrale-homaj, neŭtrale-homajn, politika-religia, politika-religian</li>
 </ul>
 
 <ul>
@@ -109,7 +111,7 @@ https://lingvo.org/prago/eo.php
 </ul>
 
 <ul>
-<li>This corpus contains 30 lemmas tagged as pronouns (PRON): _, alia, il, ili, iu, kia, kies, kiu, ku, li, lia, mi, mia, neniu, ni, nia, oni, si, sia, sin, tio, tiom, tion, tiu, unu, vi, ĉio, ĉiu, ĝi, ĝia</li>
+<li>This corpus contains 41 lemmas tagged as pronouns (PRON): _, alia, il, ili, iu, kia, kies, kiu, kiuj, kiun, ku, li, lia, mi, mia, nenies, nenio, neniu, neniun, ni, nia, oni, si, sia, sin, tio, tiom, tion, tiu, tiuj, tiun, unu, vi, ĉio, ĉiu, ĉiuj, ĉiujn, ĉiun, ĝi, ĝia, ĝian</li>
 </ul>
 
 <ul>
@@ -135,8 +137,8 @@ https://lingvo.org/prago/eo.php
 <ul>
   <li>Fin
   <ul>
-    <li>AUX: estas, devas, povas, estos, estus, bezonu, ekzistu, estu, povos, povu</li>
-    <li>VERB: estas, konscias, asertas, havas, nomas, rigardas, demandas, devas, naskiĝis, prezentas</li>
+    <li>AUX: estas, devas, povas, estos, estus, povus, bezonu, ekzistu, estu, povos</li>
+    <li>VERB: havas, estas, konscias, asertas, nomas, rigardas, prezentas, demandas, devas, deziras</li>
   </ul>
   </li>
 </ul>
@@ -153,7 +155,7 @@ https://lingvo.org/prago/eo.php
   <li>Inf
   <ul>
     <li>AUX: esti</li>
-    <li>VERB: akcepti, aliĝi, nomi, fari, ludi, publikigi, resti, rigardi, akceladi, aldoni</li>
+    <li>VERB: akcepti, aliĝi, fari, nomi, doni, ludi, publikigi, resti, rigardi, servi</li>
   </ul>
   </li>
 </ul>
@@ -161,7 +163,7 @@ https://lingvo.org/prago/eo.php
 <ul>
   <li>Part
   <ul>
-    <li>VERB: Konsciante, aranĝita, ligita, supozata, Lanĉita, Planita, alskribita, barante, difinita, donante</li>
+    <li>VERB: Konsciante, aranĝita, ligita, publikigataj, supozata, Akceptita, Lanĉita, Planita, alskribita, atingata</li>
   </ul>
   </li>
 </ul>
@@ -169,6 +171,25 @@ https://lingvo.org/prago/eo.php
 <h3>Nominal Features</h3>
 
 
+<ul>
+  <li><a>Gender</a></li>
+</ul>
+
+<ul>
+  <li>Masc
+    <ul>
+      <li>PRON: li</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Neut
+    <ul>
+      <li>PRON: si, sin, ĝia, lia, ni, ĝian</li>
+    </ul>
+  </li>
+</ul>
 
 
 <ul>
@@ -178,13 +199,13 @@ https://lingvo.org/prago/eo.php
 <ul>
   <li>Plur
     <ul>
-      <li>ADJ: aliaj, lingvaj, grandaj, multaj, naciaj, aliajn, diversaj, gentaj, internaciaj, kulturaj</li>
+      <li>ADJ: aliaj, lingvaj, diversaj, grandaj, multaj, naciaj, aliajn, gentaj, internaciaj, kulturaj</li>
       <li>ADV: unuj</li>
       <li>DET: ĉiuj, tiuj, tiujn, iaj, iliaj, iujn, siajn, ĉiujn</li>
-      <li>NOUN: lingvoj, homoj, Homaranoj, aliuloj, gentoj, loĝantoj, rajtoj, homojn, landoj, aldonojn</li>
-      <li>PRON: ni, miaj, ili, kiuj, kiujn, oni, mia, vi, ĝiajn, aliaj</li>
+      <li>NOUN: lingvoj, homoj, Homaranoj, landoj, aliuloj, gentoj, loĝantoj, rajtoj, celoj, esperantistoj</li>
+      <li>PRON: ni, miaj, ĉiuj, ili, kiuj, kiujn, oni, tiuj, mia, vi</li>
       <li>VERB-Ger: parolantoj</li>
-      <li>VERB-Part: ekspluatataj, ekzistantaj, esprimitaj, esprimitajn, funkciantaj, mastrantaj, mastrataj, publikigataj, starigitaj</li>
+      <li>VERB-Part: publikigataj, donitaj, ekspluatataj, ekzistantaj, ekzistantajn, esprimitaj, esprimitajn, faritaj, funkciantaj, konfesataj</li>
     </ul>
   </li>
 </ul>
@@ -192,12 +213,12 @@ https://lingvo.org/prago/eo.php
 <ul>
   <li>Sing
     <ul>
-      <li>ADJ: lingva, alia, persona, homa, gepatra, hejma, internacia, konstanta, liberkreda, neŭtrala</li>
+      <li>ADJ: lingva, alia, internacia, homa, persona, plena, Esperantista, deviga, gepatra, hejma</li>
       <li>DET: ĉiu, tiun, tiu, ĉiun, ia, Tia, alia, sia, ĉia, ĉian</li>
-      <li>NOUN: lingvo, lingvon, gento, religio, homo, movado, homaro, lando, regno, L</li>
-      <li>PRON: mi, mia, kiu, mian, min, tio, si, ĝin, li, ĝi</li>
+      <li>NOUN: lingvo, Esperanto, lingvon, gento, mondo, homo, religio, movado, homaro, rajton</li>
+      <li>PRON: mi, kiu, mia, mian, min, tio, si, li, ĉiu, kiun</li>
       <li>PROPN: Esperanto, Homaranismo, Esperanton, L, Varsovio, HOMARANISMO, Homaranismon, Pollando, Prago, Ruslando</li>
-      <li>VERB-Part: aranĝita, ligita, supozata, Lanĉita, Planita, alskribita, difinita, donata, evoluinta, nepardoninda</li>
+      <li>VERB-Part: aranĝita, ligita, supozata, Akceptita, Lanĉita, Planita, alskribita, atingata, difinita, dirita</li>
     </ul>
   </li>
 </ul>
@@ -209,12 +230,12 @@ https://lingvo.org/prago/eo.php
 <ul>
   <li>Acc
     <ul>
-      <li>ADJ: plenan, aliajn, altan, fremdan, naturan, neŭtralan, neŭtrale-homan, socian, tutan, aktivan</li>
+      <li>ADJ: plenan, aliajn, altan, devigan, fremdan, naturan, neŭtralan, neŭtrale-homan, personan, socian</li>
       <li>DET: tiun, ĉiun, tiujn, iujn, siajn, tiu, ĉian, ĉiujn</li>
       <li>NOUN: lingvon, rajton, rolon, kredon, nomon, religion, dialekton, homojn, homon, intencon</li>
-      <li>PRON: mian, min, kiujn, ĝin, kiun, ilin, kian, ĝiajn, ĝian, iun</li>
+      <li>PRON: mian, min, kiujn, kiun, ĝin, tiun, ĝian, ilin, kian, ĝiajn</li>
       <li>PROPN: Esperanton, Homaranismo, Homaranismon</li>
-      <li>VERB-Part: esprimitajn, supozatan</li>
+      <li>VERB-Part: ekzistantajn, esprimitajn, privatan, sekvantan, supozatan</li>
     </ul>
   </li>
 </ul>
@@ -222,13 +243,13 @@ https://lingvo.org/prago/eo.php
 <ul>
   <li>Nom
     <ul>
-      <li>ADJ: lingva, alia, grandaj, lingvaj, persona, aliaj, homa, gepatra, hejma, internacia</li>
+      <li>ADJ: alia, lingva, internacia, grandaj, homa, lingvaj, persona, aliaj, diversaj, multaj</li>
       <li>DET: ĉiu, ĉiuj, tiu, ia, tiuj, Tia, alia, iaj, iliaj, sia</li>
-      <li>NOUN: lingvo, lingvoj, religio, homo, movado, homaro, homoj, lando, mondo, regno</li>
-      <li>PRON: mi, mia, kiu, ni, tio, ili, miaj, kiuj, si, oni</li>
+      <li>NOUN: lingvo, Esperanto, lingvoj, mondo, homo, religio, homoj, movado, homaro, Esperantismo</li>
+      <li>PRON: mi, kiu, mia, ni, tio, ili, kiuj, miaj, si, ĉiuj</li>
       <li>PROPN: Esperanto, Homaranismo, L, Varsovio, HOMARANISMO, Pollando, Prago, Ruslando, ZAMENHOF, Zamenhof</li>
       <li>VERB-Ger: parolantoj</li>
-      <li>VERB-Part: aranĝita, ligita, supozata, Lanĉita, Planita, alskribita, difinita, donata, ekspluatataj, ekzistantaj</li>
+      <li>VERB-Part: aranĝita, ligita, publikigataj, supozata, Akceptita, Lanĉita, Planita, alskribita, atingata, difinita</li>
     </ul>
   </li>
 </ul>
@@ -264,7 +285,7 @@ https://lingvo.org/prago/eo.php
 <ul>
   <li>Pos
     <ul>
-      <li>ADJ: lingva, lingvaj, aliaj, grandaj, persona, gepatra, hejma, homa, internacia, konstanta</li>
+      <li>ADJ: lingva, internacia, alia, lingvaj, aliaj, grandaj, homa, persona, plena, Esperantista</li>
     </ul>
   </li>
 </ul>
@@ -293,7 +314,7 @@ https://lingvo.org/prago/eo.php
   <li>Ind
     <ul>
       <li>AUX-Fin: estas, devas, povas, estos, povos</li>
-      <li>VERB-Fin: estas, konscias, asertas, havas, nomas, rigardas, demandas, devas, naskiĝis, prezentas</li>
+      <li>VERB-Fin: havas, estas, konscias, asertas, nomas, rigardas, prezentas, demandas, devas, deziras</li>
     </ul>
   </li>
 </ul>
@@ -301,8 +322,8 @@ https://lingvo.org/prago/eo.php
 <ul>
   <li>Sub
     <ul>
-      <li>AUX-Fin: estus, bezonu, povu</li>
-      <li>VERB-Fin: altrudu, amus, devus, dezirus, havu, investu, profitus</li>
+      <li>AUX-Fin: estus, povus, bezonu, povu</li>
+      <li>VERB-Fin: altrudu, amus, devus, dezirus, donus, havu, investu, profitus</li>
     </ul>
   </li>
 </ul>
@@ -315,7 +336,7 @@ https://lingvo.org/prago/eo.php
   <li>Fut
     <ul>
       <li>AUX-Fin: estos, povos</li>
-      <li>VERB-Fin: prezentos, alkutimiĝos, ekzistos, havis, identigos, montriĝos, pasos, realigos, ricevos, uzos</li>
+      <li>VERB-Fin: prezentos, alkutimiĝos, ekzistos, havis, identigos, kondukos, montriĝos, pasos, realigos, ricevos</li>
     </ul>
   </li>
 </ul>
@@ -323,8 +344,8 @@ https://lingvo.org/prago/eo.php
 <ul>
   <li>Past
     <ul>
-      <li>VERB-Fin: naskiĝis, donis, forĵetis, paralizis, parolis, perdis, raportis, trovis</li>
-      <li>VERB-Part: aranĝita, ligita, Lanĉita, Planita, alskribita, difinita, ekzistantaj, esprimitaj, evoluinta, limigite</li>
+      <li>VERB-Fin: naskiĝis, trovis, donis, forĵetis, grupiĝis, laboris, montriĝis, paralizis, parolis, perdis</li>
+      <li>VERB-Part: aranĝita, ligita, Akceptita, Lanĉita, Planita, alskribita, difinita, dirita, donitaj, ekzistantaj</li>
     </ul>
   </li>
 </ul>
@@ -333,9 +354,9 @@ https://lingvo.org/prago/eo.php
   <li>Pres
     <ul>
       <li>AUX-Fin: estas, devas, povas</li>
-      <li>VERB-Fin: estas, konscias, asertas, havas, nomas, rigardas, demandas, devas, prezentas, studas</li>
+      <li>VERB-Fin: havas, estas, konscias, asertas, nomas, rigardas, prezentas, demandas, devas, deziras</li>
       <li>VERB-Ger: parolantoj</li>
-      <li>VERB-Part: Konsciante, supozata, barante, donante, donata, ekspluatataj, esprimitajn, funkciantaj, gvidante, identigante</li>
+      <li>VERB-Part: Konsciante, publikigataj, supozata, atingata, barante, donante, donata, ekspluatataj, ekzistantajn, esprimata</li>
     </ul>
   </li>
 </ul>
@@ -348,7 +369,7 @@ https://lingvo.org/prago/eo.php
   <li>Act
     <ul>
       <li>VERB-Ger: parolantoj</li>
-      <li>VERB-Part: barante, donante, evoluinta, funkciantaj, gvidante, identigante, mastrantaj, nepardoninda, rezervante</li>
+      <li>VERB-Part: barante, donante, ekzistantajn, evoluinta, funkciantaj, gvidante, identigante, kunvenintaj, mastrantaj, nepardoninda</li>
     </ul>
   </li>
 </ul>
@@ -356,7 +377,7 @@ https://lingvo.org/prago/eo.php
 <ul>
   <li>Pass
     <ul>
-      <li>VERB-Part: aranĝita, ligita, supozata, Lanĉita, Planita, alskribita, difinita, donata, ekspluatataj, ekzistantaj</li>
+      <li>VERB-Part: aranĝita, ligita, publikigataj, supozata, Akceptita, Lanĉita, Planita, alskribita, atingata, difinita</li>
     </ul>
   </li>
 </ul>
@@ -383,7 +404,7 @@ https://lingvo.org/prago/eo.php
     <ul>
       <li>ADJ: alia</li>
       <li>DET: tiun, tiu, tiuj, tiujn, Tia, alia</li>
-      <li>PRON: tio, alia, tion, tiuj, tiun, unu</li>
+      <li>PRON: tio, tiu, tiuj, tiun, alia, tion, unu</li>
     </ul>
   </li>
 </ul>
@@ -405,9 +426,17 @@ https://lingvo.org/prago/eo.php
 </ul>
 
 <ul>
+  <li>Int
+    <ul>
+      <li>PRON: kiu, kiuj, kiun</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li>Neg
     <ul>
-      <li>PRON: neniu</li>
+      <li>PRON: neniu, nenies, nenio, neniun</li>
     </ul>
   </li>
 </ul>
@@ -416,7 +445,7 @@ https://lingvo.org/prago/eo.php
   <li>Prs
     <ul>
       <li>DET: iliaj, sia, siajn</li>
-      <li>PRON: mi, mia, ni, mian, min, ili, miaj, si, oni, ĝin</li>
+      <li>PRON: mi, mia, ni, mian, min, ili, miaj, si, li, oni</li>
     </ul>
   </li>
 </ul>
@@ -434,7 +463,7 @@ https://lingvo.org/prago/eo.php
   <li>Tot
     <ul>
       <li>DET: ĉiu, ĉiuj, ĉiun, ĉia, ĉian, ĉiujn</li>
-      <li>PRON: ĉiu, ĉion, ĉiuj</li>
+      <li>PRON: ĉiuj, ĉiu, Ĉiun, ĉion, ĉiujn</li>
     </ul>
   </li>
 </ul>
@@ -461,7 +490,7 @@ https://lingvo.org/prago/eo.php
     <ul>
       <li>ADJ: kies</li>
       <li>DET: iliaj, sia, siajn</li>
-      <li>PRON: mia, mian, miaj, lia, kies, sia, nia, ĝia, ĝiajn, ĝian</li>
+      <li>PRON: mia, mian, miaj, lia, ĝia, kies, sia, ĝian, nia, ĝiajn</li>
     </ul>
   </li>
 </ul>
@@ -474,7 +503,7 @@ https://lingvo.org/prago/eo.php
   <li>Yes
     <ul>
       <li>DET: sia, siajn</li>
-      <li>PRON: si, sia, siaj, siajn, sian</li>
+      <li>PRON: si, sia, sin, siaj, siajn, sian</li>
     </ul>
   </li>
 </ul>
@@ -503,12 +532,31 @@ https://lingvo.org/prago/eo.php
   <li>3
     <ul>
       <li>DET: iliaj, sia, siajn</li>
-      <li>PRON: ili, oni, ĝin, li, ĝi, lia, sia, ilin, ĝia, ĝiajn</li>
+      <li>PRON: li, ili, oni, ĝin, lia, ĝi, ĝia, sia, sin, ĝian</li>
     </ul>
   </li>
 </ul>
 
 
+<ul>
+  <li><a>Gender[psor]</a></li>
+</ul>
+
+<ul>
+  <li>Masc
+    <ul>
+      <li>PRON: lia</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Neut
+    <ul>
+      <li>PRON: ĝia, ĝian</li>
+    </ul>
+  </li>
+</ul>
 
 <ul>
   <li><a>Number[psor]</a></li>
@@ -526,7 +574,7 @@ https://lingvo.org/prago/eo.php
   <li>Sing
     <ul>
       <li>DET: iliaj, sia, siajn</li>
-      <li>PRON: mia, mian, miaj, lia, sia, ĝia, ĝiajn, ĝian, lian, siaj</li>
+      <li>PRON: mia, mian, miaj, lia, ĝia, sia, ĝian, ĝiajn, lian, siaj</li>
     </ul>
   </li>
 </ul>
@@ -570,6 +618,18 @@ https://lingvo.org/prago/eo.php
   </li>
 </ul>
 
+<ul>
+  <li><a>Person[psor]</a>
+    <ul>
+      <li>3
+        <ul>
+          <li>PRON: ĝia, lia, ĝian</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
 <h2>Syntax</h2>
 
 <h3>Auxiliary Verbs and Copula</h3>
@@ -579,7 +639,7 @@ https://lingvo.org/prago/eo.php
 </ul>
 
 <ul>
-<li>This corpus uses 4 lemmas as auxiliaries (<a>aux</a>). Examples: esti, devi, povi, bezoni.</li>
+<li>This corpus uses 4 lemmas as auxiliaries (<a>aux</a>). Examples: esti, povi, devi, bezoni.</li>
 <li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: esti.</li>
 </ul>
 
@@ -591,12 +651,12 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
     <ul>
       <li>VERB--NOUN-Nom (4)</li>
       <li>VERB--PRON-Nom (1)</li>
-      <li>VERB-Fin--NOUN-Nom (60)</li>
-      <li>VERB-Fin--PRON-Nom (89)</li>
-      <li>VERB-Inf--NOUN-Nom (2)</li>
-      <li>VERB-Inf--PRON-Nom (16)</li>
-      <li>VERB-Part--NOUN-Nom (4)</li>
-      <li>VERB-Part--PRON-Nom (3)</li>
+      <li>VERB-Fin--NOUN-Nom (72)</li>
+      <li>VERB-Fin--PRON-Nom (100)</li>
+      <li>VERB-Inf--NOUN-Nom (3)</li>
+      <li>VERB-Inf--PRON-Nom (18)</li>
+      <li>VERB-Part--NOUN-Nom (7)</li>
+      <li>VERB-Part--PRON-Nom (5)</li>
     </ul>
   </li>
 </ul>
@@ -606,11 +666,12 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
     <ul>
       <li>VERB--NOUN-Acc (1)</li>
       <li>VERB--PRON-Acc (2)</li>
-      <li>VERB-Fin--NOUN-Acc (60)</li>
+      <li>VERB-Fin--NOUN-Acc (70)</li>
       <li>VERB-Fin--NOUN-Nom (1)</li>
-      <li>VERB-Fin--PRON-Acc (23)</li>
-      <li>VERB-Inf--NOUN-Acc (36)</li>
+      <li>VERB-Fin--PRON-Acc (25)</li>
+      <li>VERB-Inf--NOUN-Acc (44)</li>
       <li>VERB-Inf--PRON-Acc (8)</li>
+      <li>VERB-Inf--PRON-Nom (1)</li>
       <li>VERB-Part--NOUN-Acc (4)</li>
       <li>VERB-Part--PRON-Acc (1)</li>
     </ul>
@@ -632,12 +693,12 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Verbs with Reflexive Core Objects</h3>
 
 <ul>
-  <li>This corpus contains 1 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: altrudi sian</li>
+  <li>This corpus contains 3 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: altrudi sian, entrudante sin, pravigi sin</li>
 </ul>
 
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 6 relation subtypes: <a>acl:relcl</a>, <a>advcl:relcl</a>, <a>aux:pass</a>, <a>cc:preconj</a>, <a>nmod:poss</a>, <a>nsubj:pass</a></li>
+<li>This corpus uses 7 relation subtypes: <a>acl:relcl</a>, <a>advcl:relcl</a>, <a>aux:pass</a>, <a>cc:preconj</a>, <a>nmod:poss</a>, <a>nsubj:pass</a>, <a>obl:tmod</a></li>
 <li>The following 11 relation types are not used in this corpus at all: <a>vocative</a>, <a>expl</a>, <a>dislocated</a>, <a>clf</a>, <a>flat</a>, <a>compound</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
 </ul>

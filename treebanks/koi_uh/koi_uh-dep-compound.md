@@ -25,10 +25,10 @@ The following 1 pairs of parts of speech are connected with `compound`: <tt><a h
 # visual-style 2 1 compound	color:blue
 1	Старик	старик	NOUN	N	Case=Nom|Number=Sing	2	compound	_	GTtags=Src/F,Sg,Nom
 2	гозъя	гозъя	NOUN	N	Case=Nom|Number=Sing	6	nsubj	_	GTtags=A
-3	некöр	некӧр	ADV	Adv	_	6	advmod	_	_
-4	öтамöдныскöт	ӧтамӧд	PRON	Pron	Case=Com|Number=Sing|Number[psor]=Plur|Person[psor]=3|PronType=Rcp	6	obl	_	GTtags=Recipr,Sg,Com,PxPl3
+3	некӧр	некӧр	ADV	Adv	_	6	advmod	_	_
+4	ӧтамӧдныскӧт	ӧтамӧд	PRON	Pron	Case=Com|Number=Sing|Number[psor]=Plur|Person[psor]=3|PronType=Rcp	6	obl	_	GTtags=Recipr,Sg,Com,PxPl3
 5	эз	оз	AUX	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past	6	aux:neg	_	GTtags=Neg,Ind,Prt1,Sg3
-6	видчö	видчыны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	GTtags=Ind,Prs,Sg3|SpaceAfter=No
+6	видчӧ	видчыны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	GTtags=Ind,Prs,Sg3|SpaceAfter=No
 7	.	.	PUNCT	CLB	_	6	punct	_	GTtags=CLB
 
 ~~~

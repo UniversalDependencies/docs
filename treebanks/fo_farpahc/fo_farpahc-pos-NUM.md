@@ -39,7 +39,7 @@ Examples: <em>tveir, tríggjar, fjöruti, hundrað, fýra, tólv, fimm, seks, tr
 
 ## Relations
 
-`NUM` nodes are attached to their parents using 4 different relations: <tt><a href="fo_farpahc-dep-nummod.html">nummod</a></tt> (89; 86% instances), <tt><a href="fo_farpahc-dep-obl.html">obl</a></tt> (10; 10% instances), <tt><a href="fo_farpahc-dep-conj.html">conj</a></tt> (3; 3% instances), <tt><a href="fo_farpahc-dep-obj.html">obj</a></tt> (2; 2% instances)
+`NUM` nodes are attached to their parents using 5 different relations: <tt><a href="fo_farpahc-dep-nummod.html">nummod</a></tt> (89; 86% instances), <tt><a href="fo_farpahc-dep-obl.html">obl</a></tt> (8; 8% instances), <tt><a href="fo_farpahc-dep-conj.html">conj</a></tt> (3; 3% instances), <tt><a href="fo_farpahc-dep-nmod.html">nmod</a></tt> (2; 2% instances), <tt><a href="fo_farpahc-dep-obj.html">obj</a></tt> (2; 2% instances)
 
 Parents of `NUM` nodes belong to 6 different parts of speech: <tt><a href="fo_farpahc-pos-NOUN.html">NOUN</a></tt> (70; 67% instances), <tt><a href="fo_farpahc-pos-NUM.html">NUM</a></tt> (17; 16% instances), <tt><a href="fo_farpahc-pos-VERB.html">VERB</a></tt> (8; 8% instances), <tt><a href="fo_farpahc-pos-DET.html">DET</a></tt> (5; 5% instances), <tt><a href="fo_farpahc-pos-PRON.html">PRON</a></tt> (3; 3% instances), <tt><a href="fo_farpahc-pos-PROPN.html">PROPN</a></tt> (1; 1% instances)
 

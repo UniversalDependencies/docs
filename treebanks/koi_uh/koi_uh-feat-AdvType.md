@@ -10,7 +10,7 @@ This feature is language-specific.
 It occurs with 5 different values: `Deg`, `Loc`, `Man`, `Mod`, `Tim`.
 
 60 tokens (5%) have a non-empty value of `AdvType`.
-43 types (7%) occur at least once with a non-empty value of `AdvType`.
+40 types (7%) occur at least once with a non-empty value of `AdvType`.
 37 lemmas (8%) occur at least once with a non-empty value of `AdvType`.
 The feature is used with 2 part-of-speech tags: <tt><a href="koi_uh-pos-ADV.html">ADV</a></tt> (48; 4% instances), <tt><a href="koi_uh-pos-ADP.html">ADP</a></tt> (12; 1% instances).
 
@@ -24,7 +24,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="koi_uh-pos-ADV.html
 * `Loc` (8; 17% of non-empty `AdvType`): <em>татӧн, Веськытланьын, Ордчӧн, кытӧн, кытчӧ, пыдын</em>
 * `Man` (2; 4% of non-empty `AdvType`): <em>кыдз</em>
 * `Mod` (1; 2% of non-empty `AdvType`): <em>может</em>
-* `Tim` (33; 69% of non-empty `AdvType`): <em>ни, сэсся, кӧр, талун, чожа, эшӧ, ӧддьӧн, ӧні, Мӧйму, Таво</em>
+* `Tim` (33; 69% of non-empty `AdvType`): <em>кӧр, ни, сэсся, талун, чожа, эшӧ, ӧддьӧн, ӧні, Мӧйму, Таво</em>
 
 `AdvType` seems to be **lexical feature** of `ADV`. 100% lemmas (29) occur only with one value of `AdvType`.
 
@@ -36,5 +36,5 @@ The most frequent other feature values with which `ADP` and `AdvType` co-occurre
 
 `ADP` tokens may have the following values of `AdvType`:
 
-* `Loc` (12; 100% of non-empty `AdvType`): <em>дынӧ, бöрсянь, бердас, бердӧ, бокын, бокӧ, бӧрсянь, вылö, вылын, вылӧ</em>
+* `Loc` (12; 100% of non-empty `AdvType`): <em>бӧрсянь, вылӧ, дынӧ, бердас, бердӧ, бокын, бокӧ, вылын, одзӧ</em>
 

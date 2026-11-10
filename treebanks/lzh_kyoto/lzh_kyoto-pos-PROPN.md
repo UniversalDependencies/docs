@@ -63,7 +63,7 @@ The 10 most frequent ambiguous types:  齊 (<tt><a href="lzh_kyoto-pos-PROPN.htm
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.003136 (the average of all parts of speech is 1.013130).
+The form / lemma ratio of `PROPN` is 1.003136 (the average of all parts of speech is 1.013204).
 
 The 1st highest number of forms (2) was observed with the lemma “上黨”: 上党, 上黨.
 

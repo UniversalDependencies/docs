@@ -86,7 +86,7 @@ The most frequent other feature values with which `VERB` and `Animacy` co-occurr
 `VERB` tokens may have the following values of `Animacy`:
 
 * `Anim` (15; 100% of non-empty `Animacy`): <em>выбраных, забитого, лежачого, лєжачи(х), маючого, мешкаючихъ, мє(ш)каючи(х), мѧнованы(х), подданых, прилꙋжаючогосѧ</em>
-* `EMPTY` (11769): <em>дали, казали, псан, мають, мают(ь), дал, маеть, держати, послали, записа(т)</em>
+* `EMPTY` (11770): <em>дали, казали, псан, мають, мают(ь), дал, маеть, держати, послали, записа(т)</em>
 
 `Animacy` seems to be **lexical feature** of `VERB`. 100% lemmas (13) occur only with one value of `Animacy`.
 

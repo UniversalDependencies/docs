@@ -17,15 +17,24 @@ The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 2 aux:pass	color:blue
-1	Viņa	viņa	PRON	pp3fsnn	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj:pass	3:nsubj:pass	LvtbNodeId=a-d197-p78s6w1
-2	nav	būt	AUX	vcnipii30ay	Evident=Fh|Mood=Ind|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	3	aux:pass	3:aux:pass	LvtbNodeId=a-d197-p78s6w2
-3	precēta	precēt	VERB	vmnpdfsnpsnpn	Aspect=Perf|Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	LvtbNodeId=a-d197-p78s6w3|SpaceAfter=No
-4	.	.	PUNCT	zs	_	3	punct	3:punct	LvtbNodeId=a-d197-p78s6w4
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 12 11 aux:pass	color:blue
+1	Bijis	būt	AUX	vcnpdmsnasnpn	Aspect=Perf|Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	6	aux	6:aux	LvtbNodeId=a-p1297-p4s4w1
+2	kopā	kopā	ADV	r0n	_	6	advmod	6:advmod	LvtbNodeId=a-p1297-p4s4w2
+3	ar	ar	ADP	sppd	_	4	case	4:case	LvtbNodeId=a-p1297-p4s4w3
+4	kalpiem	kalps	NOUN	ncmpd1	Case=Dat|Gender=Masc|Number=Plur	2	iobj	2:iobj	LvtbNodeId=a-p1297-p4s4w4
+5	smagi	smagi	ADV	rpn	Degree=Pos	6	advmod	6:advmod	LvtbNodeId=a-p1297-p4s4w5
+6	jāstrādā	strādāt	VERB	vmnd0t200an	Mood=Nec|Polarity=Pos|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-p1297-p4s4w6|SpaceAfter=No
+7	,	,	PUNCT	zc	_	12	punct	12:punct	LvtbNodeId=a-p1297-p4s4w7
+8	bet	bet	CCONJ	cc	_	12	cc	12:cc	LvtbNodeId=a-p1297-p4s4w8
+9	alga	alga	NOUN	ncfsn4	Case=Nom|Gender=Fem|Number=Sing	12	nsubj:pass	12:nsubj:pass	LvtbNodeId=a-p1297-p4s4w9
+10	gan	gan	PART	q	_	9	advmod:emph	9:advmod:emph	LvtbNodeId=a-p1297-p4s4w10
+11	nav	būt	AUX	vcnipii30ay	Evident=Fh|Mood=Ind|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	12	aux:pass	12:aux:pass	LvtbNodeId=a-p1297-p4s4w11
+12	maksāta	maksāt	VERB	vmnpdfsnpsnpn	Aspect=Perf|Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Pass	6	conj	6:conj	LvtbNodeId=a-p1297-p4s4w12|SpaceAfter=No
+13	.	.	PUNCT	zs	_	6	punct	6:punct	LvtbNodeId=a-p1297-p4s4w13
 
 ~~~
 

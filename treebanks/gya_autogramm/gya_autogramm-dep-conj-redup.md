@@ -7,13 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Northwest_Gbaya-Autogramm: Relations: `conj:redup`
 
 This relation is a language-specific subtype of <tt><a href="gya_autogramm-dep-conj.html">conj</a></tt>.
+There are also 1 other language-specific subtypes of `conj`: <tt><a href="gya_autogramm-dep-conj-reform.html">conj:reform</a></tt>.
 
-41 nodes (2%) are attached to their parents as `conj:redup`.
+83 nodes (2%) are attached to their parents as `conj:redup`.
 
-41 instances of `conj:redup` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.46341463414634.
+83 instances of `conj:redup` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.21686746987952.
 
-The following 4 pairs of parts of speech are connected with `conj:redup`: <tt><a href="gya_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="gya_autogramm-pos-VERB.html">VERB</a></tt> (35; 85% instances), <tt><a href="gya_autogramm-pos-PRON.html">PRON</a></tt>-<tt><a href="gya_autogramm-pos-PRON.html">PRON</a></tt> (4; 10% instances), <tt><a href="gya_autogramm-pos-AUX.html">AUX</a></tt>-<tt><a href="gya_autogramm-pos-AUX.html">AUX</a></tt> (1; 2% instances), <tt><a href="gya_autogramm-pos-PART.html">PART</a></tt>-<tt><a href="gya_autogramm-pos-PART.html">PART</a></tt> (1; 2% instances).
+The following 9 pairs of parts of speech are connected with `conj:redup`: <tt><a href="gya_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="gya_autogramm-pos-VERB.html">VERB</a></tt> (43; 52% instances), <tt><a href="gya_autogramm-pos-PART.html">PART</a></tt>-<tt><a href="gya_autogramm-pos-PART.html">PART</a></tt> (24; 29% instances), <tt><a href="gya_autogramm-pos-ADV.html">ADV</a></tt>-<tt><a href="gya_autogramm-pos-ADV.html">ADV</a></tt> (5; 6% instances), <tt><a href="gya_autogramm-pos-PRON.html">PRON</a></tt>-<tt><a href="gya_autogramm-pos-PRON.html">PRON</a></tt> (5; 6% instances), <tt><a href="gya_autogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gya_autogramm-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="gya_autogramm-pos-ADP.html">ADP</a></tt>-<tt><a href="gya_autogramm-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="gya_autogramm-pos-ADP.html">ADP</a></tt>-<tt><a href="gya_autogramm-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="gya_autogramm-pos-AUX.html">AUX</a></tt>-<tt><a href="gya_autogramm-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="gya_autogramm-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gya_autogramm-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -22,36 +23,35 @@ The following 4 pairs of parts of speech are connected with `conj:redup`: <tt><a
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 7 conj:redup	color:blue
-1	ʔá̰-nɛ̀	ʔá̰-nɛ̀	CCONJ	COORD	_	3	cc	_	AlignBegin=30458|AlignEnd=30545|Gloss=voilà_que|MGloss=voilà_que|MSeg=ʔá̰-nɛ̀|nWord=1|RX=COORD|Word=ʔá̰-nàà
-2	=à̰	ʔà̰	PRON	PERS	Number=Sing|Person=3|PronType=Prs	3	nsubj	_	AlignBegin=30545|AlignEnd=30720|Gloss=3SG|MGloss=3SG-MT|MSeg==à̰-H|nWord=1|RX=PERS|Word=ʔá̰-nàà
-3	kṵ́	kṵ	VERB	V	_	0	root	_	AlignBegin=30720|AlignEnd=30982|Gloss=traverser|MGloss=INAC-traverser|MSeg=H-kṵ|nWord=2|RX=V
-4	náŋ	náŋ	NOUN	N	_	3	obj	_	AlignBegin=30982|AlignEnd=31244|Gloss=pied|MGloss=pied|MSeg=náŋ|nWord=3|RX=N
-5	gáyá	gai	VERB	V	_	3	compound:svc	_	AlignBegin=31244|AlignEnd=31506|Gloss=écoper|MGloss=INF-INAC--écoper|MSeg=HHa-gai|nWord=4|RX=V
-6	yì	yì	NOUN	N	_	5	obj	_	AlignBegin=31506|AlignEnd=31768|Gloss=eau|MGloss=eau|MSeg=yì|nWord=5|RX=N
-7	gáyá	gai	VERB	V	_	5	conj:redup	_	AlignBegin=31768|AlignEnd=32030|Gloss=écoper|MGloss=INF-INAC--écoper|MSeg=HHa-gai|nWord=6|RX=V
-8	yì	yì	NOUN	N	_	7	obj	_	AlignBegin=32030|AlignEnd=32292|Gloss=eau|MGloss=eau|MSeg=yì|nWord=7|RX=N
-9	gáyá	gai	VERB	V	_	7	conj:redup	_	AlignBegin=32292|AlignEnd=32554|Gloss=écoper|MGloss=INF-INAC--écoper|MSeg=HHa-gai|nWord=8|RX=V
-10	yì	yì	NOUN	N	_	9	obj	_	AlignBegin=32554|AlignEnd=32812|Gloss=eau|MGloss=eau|MSeg=yì|nWord=9|RX=N
+1	ʔá̰-nɛ̀	ʔá̰-nɛ̀	CCONJ	COORD	_	3	cc	_	Gloss=voilà_que|MGloss=voilà_que|MSeg=ʔá̰-nɛ̀|nWord=1|RX=COORD|WordAlignmentBegin=30458|WordAlignmentEnd=30545
+2	=à̰	ʔà̰	PRON	PERS	Number=Sing|Person=3|PronType=Prs	3	nsubj	_	Gloss=3SG|MGloss=3SG-MT|MSeg==à̰-H|nWord=1|RX=PERS|WordAlignmentBegin=30545|WordAlignmentEnd=30720
+3	H-kṵ	kṵ	VERB	V	_	0	root	_	Gloss=traverser|MGloss=INAC-traverser|MSeg=H-kṵ|nWord=2|RX=V|WordAlignmentBegin=30720|WordAlignmentEnd=30982
+4	náŋ	náŋ	NOUN	N	_	3	obj	_	Gloss=pied|MGloss=pied|MSeg=náŋ|nWord=3|RX=N|WordAlignmentBegin=30982|WordAlignmentEnd=31244
+5	HHa-gai	gai	VERB	V	_	3	compound:svc	_	Gloss=écoper|MGloss=INF-INAC--écoper|MSeg=HHa-gai|nWord=4|RX=V|WordAlignmentBegin=31244|WordAlignmentEnd=31506
+6	yì	yì	NOUN	N	_	5	obj	_	Gloss=eau|MGloss=eau|MSeg=yì|nWord=5|RX=N|WordAlignmentBegin=31506|WordAlignmentEnd=31768
+7	HHa-gai	gai	VERB	V	_	5	conj:redup	_	Gloss=écoper|MGloss=INF-INAC--écoper|MSeg=HHa-gai|nWord=6|RX=V|WordAlignmentBegin=31768|WordAlignmentEnd=32030
+8	yì	yì	NOUN	N	_	7	obj	_	Gloss=eau|MGloss=eau|MSeg=yì|nWord=7|RX=N|WordAlignmentBegin=32030|WordAlignmentEnd=32292
+9	HHa-gai	gai	VERB	V	_	7	conj:redup	_	Gloss=écoper|MGloss=INF-INAC--écoper|MSeg=HHa-gai|nWord=8|RX=V|WordAlignmentBegin=32292|WordAlignmentEnd=32554
+10	yì	yì	NOUN	N	_	9	obj	_	Gloss=eau|MGloss=eau|MSeg=yì|nWord=9|RX=N|WordAlignmentBegin=32554|WordAlignmentEnd=32812
 
 ~~~
 
 
 ~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 3 conj:redup	color:blue
-1	Wàntò	wàntò	PROPN	NPR	_	4	discourse:participant	_	AlignBegin=160415|AlignEnd=160688|Gloss=Wàntò|MGloss=Wàntò|MSeg=wàntò|nWord=2|RX=NPR
-2	mí	mí	PRON	PERS	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	AlignBegin=160688|AlignEnd=160961|Gloss=1SG|MGloss=1SG|MSeg=mí|nWord=3|RX=PERS
-3	ʔám	ʔám	PRON	PERS	Number=Sing|Person=1|PronType=Prs	2	conj:redup	_	AlignBegin=160961|AlignEnd=161234|Gloss=1SG|MGloss=1SG|MSeg=ʔám|nWord=4|RX=PERS
-4	tɛ́-fè	fe	VERB	V	_	0	root	_	AlignBegin=161234|AlignEnd=161507|Gloss=mourir|MGloss=VIRT-INAC-mourir|MSeg=tɛ́-B-fe|nWord=5|Reported=Yes|RX=V
-5	mí	mí	PRON	PERS	Number=Sing|Person=1|PronType=Prs	7	nsubj	_	AlignBegin=161507|AlignEnd=161780|Gloss=1SG|MGloss=1SG|MSeg=mí|nWord=6|RX=PERS
-6	ʔám	ʔám	PRON	PERS	Number=Sing|Person=1|PronType=Prs	5	conj:redup	_	AlignBegin=161780|AlignEnd=162053|Gloss=1SG|MGloss=1SG|MSeg=ʔám|nWord=7|RX=PERS
-7	tɛ́-fè	fe	VERB	V	_	4	conj:redup	_	AlignBegin=162053|AlignEnd=162326|Gloss=mourir|MGloss=VIRT-INAC-mourir|MSeg=tɛ́-B-fe|nWord=8|RX=V
-8	mí	mí	PRON	PERS	Number=Sing|Person=1|PronType=Prs	10	nsubj	_	AlignBegin=162326|AlignEnd=162599|Gloss=1SG|MGloss=1SG|MSeg=mí|nWord=9|RX=PERS
-9	ʔám	ʔám	PRON	PERS	Number=Sing|Person=1|PronType=Prs	8	conj:redup	_	AlignBegin=162599|AlignEnd=162872|Gloss=1SG|MGloss=1SG|MSeg=ʔám|nWord=10|RX=PERS
-10	tɛ́-fè	fe	VERB	V	_	7	conj:redup	_	AlignBegin=162872|AlignEnd=163146|Gloss=mourir|MGloss=VIRT-INAC-mourir|MSeg=tɛ́-B-fe|nWord=11|RX=V
+# visual-style 3 4 conj:redup	color:blue
+1	ʔá̰-nɛ̀-ám	ʔá̰-nɛ̀	CCONJ	COORD	_	2	cc	_	GE=and_now|Gloss=and_now|MGloss=and_now--1SG-TM|MSeg=ʔá̰-nɛ̀-ám-H|nWord=9|RX=[COORD]|WordAlignmentBegin=22160|WordAlignmentEnd=22390
+2	H-pei	pei	VERB	V	_	0	root	_	GE=come_back|Gloss=come_back|MGloss=IPFV-come_back|MSeg=H-pei|nWord=10|RX=[V]|WordAlignmentBegin=22390|WordAlignmentEnd=22620
+3	péínɛ́	péínɛ́	PART	VM	_	2	advmod	_	GE=coming_back|Gloss=coming_back|MGloss=coming_back|MSeg=péínɛ́|nWord=11|RX=[VM]|WordAlignmentBegin=22620|WordAlignmentEnd=22850
+4	péínɛ́	péínɛ́	PART	VM	_	3	conj:redup	_	GE=coming_back|Gloss=coming_back|MGloss=coming_back|MSeg=péínɛ́|nWord=12|RX=[VM]|WordAlignmentBegin=22850|WordAlignmentEnd=23080
+5	péínɛ́	péínɛ́	PART	VM	_	4	conj:redup	_	GE=coming_back|Gloss=coming_back|MGloss=coming_back|MSeg=péínɛ́|nWord=13|RX=[VM]|WordAlignmentBegin=23080|WordAlignmentEnd=23310
+6	péínɛ́	péínɛ́	PART	VM	_	5	conj:redup	_	GE=coming_back|Gloss=coming_back|MGloss=coming_back|MSeg=péínɛ́|nWord=14|RX=[VM]|WordAlignmentBegin=23310|WordAlignmentEnd=23540
+7	hɔ́	hɔ́	ADP	PREP	_	2	obl:arg	_	GE=towards|Gloss=towards|MGloss=towards|MSeg=hɔ́|nWord=15|RX=[PREP]|WordAlignmentBegin=23540|WordAlignmentEnd=23770
+8	kɔ̀	kɔ̀	ADP	PREP	_	9	case	_	GE=inside|Gloss=inside|MGloss=inside-TM|MSeg=kɔ̀-H|nWord=16|RX=[PREP]|WordAlignmentBegin=23770|WordAlignmentEnd=24000
+9	yòé	yòé	NOUN	N.PROP	_	7	obl:arg	_	GE=river_forest_gallery sp|Gloss=river_forest_gallery sp|MGloss=river_forest_gallery sp|MSeg=yòé|nWord=17|RX=[N].[PROP]|WordAlignmentBegin=24000|WordAlignmentEnd=24230
 
 ~~~
 
@@ -59,17 +59,17 @@ The following 4 pairs of parts of speech are connected with `conj:redup`: <tt><a
 ~~~ conllu
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 6 conj:redup	color:blue
-1	dáŋáà	daŋ	VERB	V	VerbForm=Vnoun	2	csubj	_	AlignBegin=96500|AlignEnd=96878|Gloss=monter|MGloss=NV-monter-NMLS|MSeg=HHa-daŋ-à|nWord=1|RX=V
-2	ʔá̰	_	AUX	PRÉD	Case=Loc	0	root	_	AlignBegin=96878|AlignEnd=97256|Gloss=ETRE-LOC|MGloss=ETRE-LOC|MSeg=ʔá̰|nWord=2|RX=PRÉD
-3	sɛ̌n	sɛ̀n	ADP	FCT	_	4	case	_	AlignBegin=97256|AlignEnd=97634|Gloss=dans|MGloss=dans-MT|MSeg=sɛ̀n-H|nWord=3|RX=FCT
-4	hı̰̀ı̰́	hı̰̀ı̰́	ADV	ADV	_	2	obl:arg	_	AlignBegin=97634|AlignEnd=98014|Gloss=ainsi|MGloss=ainsi|MSeg=hı̰̀ı̰́|nWord=4|RX=ADV
-5	dáŋáà	daŋ	VERB	V	VerbForm=Vnoun	6	csubj	_	AlignBegin=98014|AlignEnd=98372|Gloss=monter|MGloss=NV-monter-NMLS|MSeg=HHa-daŋ-à|nWord=5|RX=V
-6	ʔá̰	_	AUX	PRÉD	Case=Loc	2	conj:redup	_	AlignBegin=98372|AlignEnd=98730|Gloss=ETRE-LOC|MGloss=ETRE-LOC|MSeg=ʔá̰|nWord=6|RX=PRÉD
-7	sɛ̌n	sɛ̀n	ADP	FCT	_	8	case	_	AlignBegin=98730|AlignEnd=99088|Gloss=dans|MGloss=dans-MT|MSeg=sɛ̀n-H|nWord=7|RX=FCT
-8	hı̰̀ı̰́	hı̰̀ı̰́	ADV	ADV	_	6	advmod	_	AlignBegin=99088|AlignEnd=99446|Gloss=ainsi|MGloss=ainsi|MSeg=hı̰̀ı̰́|nWord=8|RX=ADV
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 6 conj:redup	color:blue
+1	ʔá̰-nɛ̀-ám	_	CCONJ	COORD	_	2	cc	_	GE=and_now|Gloss=and_now|MGloss=and_now--1SG-TM|MSeg=ʔá̰-nɛ̀-ám-H|nWord=1|RX=[COORD]|WordAlignmentBegin=26320|WordAlignmentEnd=26538
+2	H-daŋ	daŋ	VERB	V	_	0	root	_	GE=go_up|Gloss=go_up|MGloss=IPFV-go_up|MSeg=H-daŋ|nWord=2|RX=[V]|WordAlignmentBegin=26538|WordAlignmentEnd=26756
+3	nɛ̀	nɛ̀	ADP	PREP	_	4	case	_	GE=en_tant_que|Gloss=en_tant_que|MGloss=en_tant_que|MSeg=nɛ̀|nWord=3|RX=[PREP]|WordAlignmentBegin=26756|WordAlignmentEnd=26974
+4	mbɔ́k-tɛ̀	_	ADV	ADV	_	2	obl:arg	_	GE=slowly|Gloss=slowly|MGloss=slowly|MSeg=mbɔ́k-tɛ̀|nWord=4|RX=[ADV]|WordAlignmentBegin=26974|WordAlignmentEnd=27192
+5	nɛ̀	nɛ̀	ADP	PREP	_	6	case	_	GE=en_tant_que|Gloss=en_tant_que|MGloss=en_tant_que|MSeg=nɛ̀|nWord=5|RX=[PREP]|WordAlignmentBegin=27192|WordAlignmentEnd=27410
+6	mbɔ́k-tɛ̀	_	ADV	ADV	_	4	conj:redup	_	GE=slowly|Gloss=slowly|MGloss=slowly|MSeg=mbɔ́k-tɛ̀|nWord=6|RX=[ADV]|WordAlignmentBegin=27410|WordAlignmentEnd=27628
+7	nɛ̀	nɛ̀	ADP	PREP	_	8	case	_	GE=en_tant_que|Gloss=en_tant_que|MGloss=en_tant_que|MSeg=nɛ̀|nWord=7|RX=[PREP]|WordAlignmentBegin=27628|WordAlignmentEnd=27846
+8	mbɔ́k-tɛ̀	_	ADV	ADV	_	6	conj:redup	_	GE=slowly|Gloss=slowly|MGloss=slowly|MSeg=mbɔ́k-tɛ̀|nWord=8|RX=[ADV]|WordAlignmentBegin=27846|WordAlignmentEnd=28064
 
 ~~~
 

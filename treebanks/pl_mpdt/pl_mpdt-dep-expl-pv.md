@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of .
 
-808 nodes (2%) are attached to their parents as `expl:pv`.
+1018 nodes (2%) are attached to their parents as `expl:pv`.
 
-409 instances of `expl:pv` (51%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.73514851485149.
+527 instances of `expl:pv` (52%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.72888015717092.
 
-The following 3 pairs of parts of speech are connected with `expl:pv`: <tt><a href="pl_mpdt-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_mpdt-pos-PRON.html">PRON</a></tt> (760; 94% instances), <tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_mpdt-pos-PRON.html">PRON</a></tt> (25; 3% instances), <tt><a href="pl_mpdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_mpdt-pos-PRON.html">PRON</a></tt> (23; 3% instances).
+The following 3 pairs of parts of speech are connected with `expl:pv`: <tt><a href="pl_mpdt-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_mpdt-pos-PRON.html">PRON</a></tt> (951; 93% instances), <tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_mpdt-pos-PRON.html">PRON</a></tt> (36; 4% instances), <tt><a href="pl_mpdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_mpdt-pos-PRON.html">PRON</a></tt> (31; 3% instances).
 
 
 ~~~ conllu
@@ -49,7 +49,7 @@ The following 3 pairs of parts of speech are connected with `expl:pv`: <tt><a hr
 3	tym	to	PRON	subst:sg:loc:n	Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	1	obl	1:obl	Translit=tym
 4	ruszanie	ruszać	NOUN	ger:sg:acc:n:imperf:aff	Aspect=Imp|Case=Acc|Gender=Neut|Number=Sing|Polarity=Pos|VerbForm=Vnoun	1	obj	1:obj	Translit=ruszanie
 5	się	się	PRON	part	PronType=Prs|Reflex=Yes	4	expl:pv	4:expl:pv	Translit=się
-6	wody	woda	NOUN	subst:sg:gen:f	Case=Gen|Gender=Fem|Number=Sing	4	obl:agent	4:obl:agent	SpaceAfter=No|Translit=wody
+6	wody	woda	NOUN	subst:sg:gen:f	Case=Gen|Gender=Fem|Number=Sing	4	nmod	4:nmod	SpaceAfter=No|Translit=wody
 7	,	,	PUNCT	interp	PunctType=Comm	8	punct	8:punct	Translit=,
 8	bąbele	bąbel	NOUN	subst:pl:acc:m	Case=Acc|Gender=Masc|Number=Plur	4	conj	1:obj|4:conj	SpaceAfter=No|Translit=bąbele
 9	,	,	PUNCT	interp	PunctType=Comm	10	punct	10:punct	Translit=,

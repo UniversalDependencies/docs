@@ -9,20 +9,20 @@ udver: '2'
 This feature is language-specific.
 It occurs with 2 different values: `Npr`, `Pre`.
 
-8295 tokens (2%) have a non-empty value of `PrepCase`.
+8294 tokens (2%) have a non-empty value of `PrepCase`.
 26 types (0%) occur at least once with a non-empty value of `PrepCase`.
 5 lemmas (0%) occur at least once with a non-empty value of `PrepCase`.
-The feature is used with 1 part-of-speech tags: <tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> (8295; 2% instances).
+The feature is used with 1 part-of-speech tags: <tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> (8294; 2% instances).
 
 ### `PRON`
 
-8295 <tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> tokens (59% of all `PRON` tokens) have a non-empty value of `PrepCase`.
+8294 <tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> tokens (47% of all `PRON` tokens) have a non-empty value of `PrepCase`.
 
-The most frequent other feature values with which `PRON` and `PrepCase` co-occurred: <tt><a href="es_gsd-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (8295; 100%), <tt><a href="es_gsd-feat-Person.html">Person</a></tt><tt>=3</tt> (7468; 90%), <tt><a href="es_gsd-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (6114; 74%), <tt><a href="es_gsd-feat-Case.html">Case</a></tt><tt>=Acc,Dat</tt> (5527; 67%), <tt><a href="es_gsd-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt> (5400; 65%), <tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (5301; 64%).
+The most frequent other feature values with which `PRON` and `PrepCase` co-occurred: <tt><a href="es_gsd-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (8294; 100%), <tt><a href="es_gsd-feat-Person.html">Person</a></tt><tt>=3</tt> (7468; 90%), <tt><a href="es_gsd-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (6114; 74%), <tt><a href="es_gsd-feat-Case.html">Case</a></tt><tt>=Acc,Dat</tt> (5528; 67%), <tt><a href="es_gsd-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt> (5402; 65%), <tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (5301; 64%).
 
 `PRON` tokens may have the following values of `PrepCase`:
 
-* `Npr` (8240; 99% of non-empty `PrepCase`): <em>se, lo, la, me, los, nos, te, las, os, ﻿Se</em>
+* `Npr` (8239; 99% of non-empty `PrepCase`): <em>se, lo, la, me, los, nos, te, las, os, ﻿Se</em>
 * `Pre` (55; 1% of non-empty `PrepCase`): <em>sí, mí, ti</em>
 
 <table>
@@ -40,6 +40,6 @@ The most frequent other feature values with which `PRON` and `PrepCase` co-occur
 ## Relations with Agreement in `PrepCase`
 
 The 10 most frequent relations where parent and child node agree in `PrepCase`:
-<tt>PRON --[<tt><a href="es_gsd-dep-conj.html">conj</a></tt>]--> PRON</tt> (8; 67%),
+<tt>PRON --[<tt><a href="es_gsd-dep-conj.html">conj</a></tt>]--> PRON</tt> (9; 69%),
 <tt>PRON --[<tt><a href="es_gsd-dep-dep.html">dep</a></tt>]--> PRON</tt> (1; 100%).
 

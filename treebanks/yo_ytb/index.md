@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.2 release.
 The following people have contributed to making this treebank part of UD: Adédayọ̀ Olúòkun, Daniel Zeman, Seyi Williams, Ọlájídé Ishola.
 
 Repository: [UD_Yoruba-YTB](https://github.com/UniversalDependencies/UD_Yoruba-YTB)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udyo_ytb218)<br />
-Download all treebanks: [UD 2.18](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udyo_ytb219)<br />
+Download all treebanks: [UD 2.19](/#download)
 
 License: CC BY-SA 4.0
 
@@ -81,7 +81,7 @@ ISBN = "979-10-95546-34-4"
 
 ## Features
 
-[Case](yo_ytb-feat-Case.html) – [Number](yo_ytb-feat-Number.html) – [NumType](yo_ytb-feat-NumType.html) – [Person](yo_ytb-feat-Person.html) – [PronType](yo_ytb-feat-PronType.html) – [Typo](yo_ytb-feat-Typo.html)
+[Case](yo_ytb-feat-Case.html) – [ExtPos](yo_ytb-feat-ExtPos.html) – [Foreign](yo_ytb-feat-Foreign.html) – [Number](yo_ytb-feat-Number.html) – [NumType](yo_ytb-feat-NumType.html) – [Person](yo_ytb-feat-Person.html) – [PronType](yo_ytb-feat-PronType.html) – [Typo](yo_ytb-feat-Typo.html)
 
 ## Relations
 
@@ -91,11 +91,11 @@ ISBN = "979-10-95546-34-4"
 
 
 <ul>
-<li>This corpus contains 317 sentences, 8198 tokens and 8243 syntactic words.</li>
+<li>This corpus contains 317 sentences, 8197 tokens and 8242 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 1156 tokens (14%) that are not followed by a space.</li>
+<li>This corpus contains 1155 tokens (14%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -120,19 +120,19 @@ ISBN = "979-10-95546-34-4"
 </ul>
 
 <ul>
-<li>This corpus contains 14 word types tagged as particles (PART): Bí, Kíni, hàn, kì, kìí, kò, kọ́, ni, nì, ní, Ìmúlò, ìkejì, í, Ǹjẹ́</li>
+<li>This corpus contains 13 word types tagged as particles (PART): Bí, Kíni, hàn, kì, kìí, kò, kọ́, ni, nì, ní, Ìmúlò, í, Ǹjẹ́</li>
 </ul>
 
 <ul>
-<li>This corpus contains 85 lemmas tagged as pronouns (PRON): Alámùójútó, Nnaji, Ta, a, alàtúnkọ, ara, awa, bi, bíi, e, fun, i, ibi, jọ, kí, kòsí, lati, lówó, maa, mi, mo, mu, mí, míi, mọ, naà, náà, o, ohunkóhun, pọn, ri, rẹ, rẹ̀, ti, tilẹ, tirẹ̀, tiwọn, tàbí, tèmi, tìpa, tìrẹ, tí, tíkòsi´, tó, u, un, wa, wo, wọn, wọ́n, yin, yín, Áfríkà, à, àpẹẹrẹ, àwa, àworan, àwọn, á, èmi, èmí, èwo, èyí, èéṣe, é, ìtọ́nisọ́nà, ìwọ, ìwọ́, í, òun, ó, ú, ún, ṣọrẹ, Ẹyin, ẹ, ẹni, ẹnikẹni, ẹnikẹ́ni, ẹnì, ẹnìkan, ẹ̀yin, ẹ́, ọ, ọ́</li>
+<li>This corpus contains 80 lemmas tagged as pronouns (PRON): a, alàtúnkọ, alámùójútó, ara, awa, bi, báyìí, bíi, e, i, ibi, jọ, kí, lati, lówó, maa, mi, mo, mu, mí, míi, mọ, naà, nnaji, náà, o, ohunkóhun, pọn, ri, rẹ, rẹ̀, ta, ti, tilẹ, tirẹ̀, tiwọn, tèmi, tìrẹ, tí, tíkòsi´, tó, u, un, wa, wo, wọn, wọ́n, yin, yín, à, àwa, àworan, àwọn, á, áfríkà, èmi, èmí, èwo, èyí, èéṣe, é, ìwọ, ìwọ́, í, òun, ó, ú, ún, ṣọrẹ, ẹ, ẹni, ẹnikẹni, ẹnikẹ́ni, ẹnì, ẹnìkan, ẹyin, ẹ̀yin, ẹ́, ọ, ọ́</li>
 </ul>
 
 <ul>
-<li>This corpus contains 20 lemmas tagged as determiners (DET): Oríṣìíríṣìí, bákanáà, báyìí, gbogbo, kọn, lo, náà, o, orísìírísìí, wọnni, wọ̀nyí, yìí, Àwon, à, àbo, àwón, àwọn, èyí, ìwọ̀nyí, ṣùgbọn</li>
+<li>This corpus contains 11 lemmas tagged as determiners (DET): gbogbo, náà, o, oríṣìíríṣìí, the, wọnni, wọ̀nyí, yìí, àwọn, èyí, ìwọ̀nyí</li>
 </ul>
 
 <ul>
-<li>Out of the above, 5 lemmas occurred sometimes as PRON and sometimes as DET: náà, o, à, àwọn, èyí</li>
+<li>Out of the above, 4 lemmas occurred sometimes as PRON and sometimes as DET: náà, o, àwọn, èyí</li>
 </ul>
 
 <ul>
@@ -160,8 +160,8 @@ ISBN = "979-10-95546-34-4"
   <li>Plur
     <ul>
       <li>AUX: maa</li>
-      <li>DET: àwọn</li>
-      <li>PRON: wọn, ẹ, a, wọ́n, yín, ẹ̀yin, wa, tiwọn, àwa, àwọn</li>
+      <li>DET: àwọn, àwon, wọnni, àwón, ìwọ̀nyí</li>
+      <li>PRON: wọn, wọ́n, ẹ, a, yín, ẹ̀yin, wa, tiwọn, àwa, àwọn</li>
       <li>PROPN: Naijiria</li>
     </ul>
   </li>
@@ -195,7 +195,7 @@ ISBN = "979-10-95546-34-4"
       <li>CCONJ: tàbi</li>
       <li>NOUN: Nnaji</li>
       <li>NUM: 2i</li>
-      <li>PRON: wọn, mi, ẹ, i, wọ́n, ọ́, ọ, mí, wa, bíi</li>
+      <li>PRON: wọn, mi, ẹ, i, wọ́n, ọ́, ọ, mí, wa, í</li>
       <li>PROPN: Alhaji</li>
       <li>SCONJ: bíi</li>
     </ul>
@@ -245,10 +245,18 @@ ISBN = "979-10-95546-34-4"
 </ul>
 
 <ul>
+  <li>Art
+    <ul>
+      <li>DET: the</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li>Dem
     <ul>
-      <li>DET: àwọn</li>
-      <li>PRON: èyí</li>
+      <li>DET: àwọn, yìí, náà, wọ̀nyí, àwon, èyí, ná, wọnni, àwón, ìwọ̀nyí</li>
+      <li>PRON: èyí, náà, báyìí, naà</li>
     </ul>
   </li>
 </ul>
@@ -266,7 +274,8 @@ ISBN = "979-10-95546-34-4"
     <ul>
       <li>ADV: nìkan</li>
       <li>CCONJ: Àti</li>
-      <li>PRON: ẹni, ẹnikẹ́ni, àwọn, ẹnì, Ibi, pọn, àworan, ẹnikẹni, ẹnìkan</li>
+      <li>DET: o, Oríṣìíríṣìí, Orísìírísìí</li>
+      <li>PRON: ẹni, ẹnikẹ́ni, àwọn, Ibi, pọn, àworan, ẹnikẹni, ẹnì, ẹnìkan</li>
     </ul>
   </li>
 </ul>
@@ -274,7 +283,7 @@ ISBN = "979-10-95546-34-4"
 <ul>
   <li>Int
     <ul>
-      <li>PRON: kí, Ta, èwo, èéṣe, kín</li>
+      <li>PRON: kí, Ta, èwo, kín, èéṣe</li>
     </ul>
   </li>
 </ul>
@@ -288,7 +297,7 @@ ISBN = "979-10-95546-34-4"
       <li>CCONJ: tàbi</li>
       <li>NOUN: Nnaji, Omi</li>
       <li>NUM: 2i</li>
-      <li>PRON: ó, rẹ̀, wọn, a, ẹ, wọ́n, yín, ìwọ, mi, èmi</li>
+      <li>PRON: ó, rẹ̀, wọn, ẹ, a, wọ́n, yín, ìwọ, mi, èmi</li>
       <li>PROPN: Alhaji, Naijiria</li>
       <li>SCONJ: bíi</li>
     </ul>
@@ -299,6 +308,14 @@ ISBN = "979-10-95546-34-4"
   <li>Rel
     <ul>
       <li>PRON: tí, ti, ohunkóhun, bi</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Tot
+    <ul>
+      <li>DET: gbogbo</li>
     </ul>
   </li>
 </ul>
@@ -319,7 +336,7 @@ ISBN = "979-10-95546-34-4"
 <ul>
   <li>Ord
     <ul>
-      <li>ADJ: kẹrin, Benin, kejì, kárùn-ún, kìn-ín-ní, lóbìnrin, ún</li>
+      <li>ADJ: kẹrin, kejì, kárùn-ún, kìn-ín-ní, lóbìnrin, ún</li>
     </ul>
   </li>
 </ul>
@@ -339,7 +356,7 @@ ISBN = "979-10-95546-34-4"
       <li>CCONJ: tàbi</li>
       <li>NOUN: Nnaji, Omi</li>
       <li>NUM: 2i</li>
-      <li>PRON: a, mi, èmi, mo, mí, wa, bíi, àwa, à, Nnaji</li>
+      <li>PRON: a, mi, èmi, mo, mí, wa, àwa, bíi, à, Nnaji</li>
       <li>PROPN: Alhaji, Naijiria</li>
       <li>SCONJ: bíi</li>
     </ul>
@@ -370,6 +387,64 @@ ISBN = "979-10-95546-34-4"
 
 
 <ul>
+  <li><a>ExtPos</a>
+    <ul>
+      <li>ADP
+        <ul>
+          <li>ADP: Lẹ́yìn</li>
+        </ul>
+      </li>
+      <li>ADV
+        <ul>
+          <li>ADV: nígbà, Lẹ́yìn, lọ́nà, níbi, tó</li>
+        </ul>
+      </li>
+      <li>AUX
+        <ul>
+          <li>AUX: ì</li>
+        </ul>
+      </li>
+      <li>CCONJ
+        <ul>
+          <li>CCONJ: Nítorì</li>
+        </ul>
+      </li>
+      <li>DET
+        <ul>
+          <li>DET: náà, Àwọn</li>
+        </ul>
+      </li>
+      <li>PRON
+        <ul>
+          <li>PRON: ẹni, ẹnì, èéṣe</li>
+        </ul>
+      </li>
+      <li>SCONJ
+        <ul>
+          <li>ADP: Lẹ́yìn</li>
+          <li>SCONJ: nítorí, Bó, bá, léyí</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>Foreign</a>
+    <ul>
+      <li>Yes
+        <ul>
+          <li>ADJ: Last</li>
+          <li>ADP: of</li>
+          <li>DET: the</li>
+          <li>NOUN: Beast, Mark, Party</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li><a>Typo</a>
     <ul>
       <li>Yes
@@ -382,7 +457,7 @@ ISBN = "979-10-95546-34-4"
           <li>DET: ná</li>
           <li>NOUN: ayọ, bẹ́, iye, lọ́wọ́, osọ́nà, ẹṣẹ̀</li>
           <li>PART: ní</li>
-          <li>PRON: rẹ, kín, o, ti</li>
+          <li>PRON: rẹ, kín, o, ti, ẹ̀</li>
           <li>PROPN: Bétanì</li>
           <li>SCONJ: bi</li>
           <li>VERB: ba, bà, gbẹ́</li>
@@ -410,7 +485,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN (206)</li>
+      <li>VERB--NOUN (204)</li>
       <li>VERB--NOUN-ADP(bá) (1)</li>
       <li>VERB--NOUN-ADP(bí) (2)</li>
       <li>VERB--NOUN-ADP(irú) (1)</li>
@@ -424,11 +499,11 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--NOUN-ADP(òní) (1)</li>
       <li>VERB--NOUN-Acc (1)</li>
       <li>VERB--PRON (143)</li>
-      <li>VERB--PRON-ADP(Bí) (1)</li>
-      <li>VERB--PRON-Acc (39)</li>
+      <li>VERB--PRON-ADP(bí) (1)</li>
+      <li>VERB--PRON-Acc (40)</li>
       <li>VERB--PRON-Gen (6)</li>
       <li>VERB--PRON-Gen-ADP(lẹ́yìn) (2)</li>
-      <li>VERB--PRON-Nom (310)</li>
+      <li>VERB--PRON-Nom (309)</li>
       <li>VERB--PRON-Nom-ADP(bá) (1)</li>
       <li>VERB--PRON-Nom-ADP(ni) (7)</li>
       <li>VERB--PRON-Nom-ADP(ní) (1)</li>
@@ -440,7 +515,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN (295)</li>
+      <li>VERB--NOUN (286)</li>
       <li>VERB--NOUN-ADP(bí) (1)</li>
       <li>VERB--NOUN-ADP(di) (1)</li>
       <li>VERB--NOUN-ADP(fún) (2)</li>
@@ -448,23 +523,21 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--NOUN-ADP(jáde) (1)</li>
       <li>VERB--NOUN-ADP(lẹ́yìn) (1)</li>
       <li>VERB--NOUN-ADP(ni) (4)</li>
-      <li>VERB--NOUN-ADP(ní) (4)</li>
+      <li>VERB--NOUN-ADP(ní) (2)</li>
       <li>VERB--NOUN-ADP(nínú) (1)</li>
       <li>VERB--NOUN-ADP(pẹ̀lú) (1)</li>
-      <li>VERB--NOUN-ADP(sí) (5)</li>
-      <li>VERB--NOUN-ADP(sí)-ADP(abẹ́) (1)</li>
+      <li>VERB--NOUN-ADP(sí) (4)</li>
       <li>VERB--NOUN-ADP(sí)-ADP(àárin) (1)</li>
-      <li>VERB--PRON (27)</li>
+      <li>VERB--PRON (30)</li>
       <li>VERB--PRON-ADP(ni) (1)</li>
       <li>VERB--PRON-Acc (77)</li>
       <li>VERB--PRON-Acc-ADP(gẹ́gẹ́) (1)</li>
       <li>VERB--PRON-Acc-ADP(inú) (1)</li>
-      <li>VERB--PRON-Acc-ADP(lé) (1)</li>
       <li>VERB--PRON-Acc-ADP(lọ́wọ́) (1)</li>
-      <li>VERB--PRON-Gen (40)</li>
+      <li>VERB--PRON-Gen (37)</li>
       <li>VERB--PRON-Gen-ADP(fún) (1)</li>
       <li>VERB--PRON-Gen-ADP(ni) (1)</li>
-      <li>VERB--PRON-Nom (11)</li>
+      <li>VERB--PRON-Nom (10)</li>
     </ul>
   </li>
 </ul>

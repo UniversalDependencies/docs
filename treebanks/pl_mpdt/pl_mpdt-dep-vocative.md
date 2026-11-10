@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-100 nodes (0%) are attached to their parents as `vocative`.
+118 nodes (0%) are attached to their parents as `vocative`.
 
-54 instances of `vocative` (54%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.67.
+65 instances of `vocative` (55%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.54237288135593.
 
-The following 14 pairs of parts of speech are connected with `vocative`: <tt><a href="pl_mpdt-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt> (52; 52% instances), <tt><a href="pl_mpdt-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_mpdt-pos-PROPN.html">PROPN</a></tt> (23; 23% instances), <tt><a href="pl_mpdt-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_mpdt-pos-ADV.html">ADV</a></tt> (8; 8% instances), <tt><a href="pl_mpdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt> (3; 3% instances), <tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_mpdt-pos-PROPN.html">PROPN</a></tt> (3; 3% instances), <tt><a href="pl_mpdt-pos-AUX.html">AUX</a></tt>-<tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="pl_mpdt-pos-ADV.html">ADV</a></tt>-<tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="pl_mpdt-pos-ADV.html">ADV</a></tt>-<tt><a href="pl_mpdt-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="pl_mpdt-pos-DET.html">DET</a></tt>-<tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="pl_mpdt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="pl_mpdt-pos-PRON.html">PRON</a></tt>-<tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="pl_mpdt-pos-PRON.html">PRON</a></tt>-<tt><a href="pl_mpdt-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="pl_mpdt-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_mpdt-pos-PRON.html">PRON</a></tt> (1; 1% instances).
+The following 14 pairs of parts of speech are connected with `vocative`: <tt><a href="pl_mpdt-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt> (73; 62% instances), <tt><a href="pl_mpdt-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_mpdt-pos-PROPN.html">PROPN</a></tt> (25; 21% instances), <tt><a href="pl_mpdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt> (3; 3% instances), <tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_mpdt-pos-PROPN.html">PROPN</a></tt> (3; 3% instances), <tt><a href="pl_mpdt-pos-PRON.html">PRON</a></tt>-<tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt> (3; 3% instances), <tt><a href="pl_mpdt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="pl_mpdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_mpdt-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="pl_mpdt-pos-ADV.html">ADV</a></tt>-<tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="pl_mpdt-pos-ADV.html">ADV</a></tt>-<tt><a href="pl_mpdt-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="pl_mpdt-pos-AUX.html">AUX</a></tt>-<tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="pl_mpdt-pos-DET.html">DET</a></tt>-<tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="pl_mpdt-pos-PRON.html">PRON</a></tt>-<tt><a href="pl_mpdt-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="pl_mpdt-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_mpdt-pos-PRON.html">PRON</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -60,27 +60,25 @@ The following 14 pairs of parts of speech are connected with `vocative`: <tt><a 
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 3 vocative	color:blue
-1	Prawosł	prawosławny	ADV	brev:pun	Abbr=Yes	3	advmod	3:advmod	SpaceAfter=No|Translit=Prawosł
-2	:	:	PUNCT	interp	PunctType=Colo	1	punct	1:punct	Translit=:
-3	Czytel	czytelnik	ADV	brev:pun	Abbr=Yes	6	vocative	6:vocative|11:vocative|15:vocative	SpaceAfter=No|Translit=Czytel
-4	:	:	PUNCT	interp	PunctType=Colo	3	punct	3:punct	Translit=:
-5	Strus	strus	NOUN	subst:sg:nom:m	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	6:nsubj|11:nsubj|15:nsubj	Translit=Strus
-6	ma	mieć	VERB	fin:sg:ter:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	Translit=ma
-7	skrzydła	skrzydło	NOUN	subst:pl:acc:n	Case=Acc|Gender=Neut|Number=Plur	6	iobj	6:iobj	SpaceAfter=No|Translit=skrzydłá
-8	/	/	PUNCT	interp	PunctType=Slsh	11	punct	11:punct	Translit=/
-9	latać	latać	VERB	inf:imperf	Aspect=Imp|VerbForm=Inf|Voice=Act	11	xcomp	11:xcomp	Translit=latać
-10	nie	nie	PART	part	Polarity=Neg	11	advmod:neg	11:advmod:neg	Translit=nie
-11	może	móc	VERB	fin:sg:ter:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	conj	6:conj	SpaceAfter=No|Translit=może
-12	/	/	PUNCT	interp	PunctType=Slsh	15	punct	15:punct	Translit=/
-13	także	także	PART	part	_	15	advmod:emph	15:advmod:emph	Translit=tákże
-14	i	i	PART	part	_	15	advmod:emph	15:advmod:emph	Translit=y
-15	pyszny	pyszny	ADJ	adj:sg:nom:m:pos	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	6	conj	6:conj	SpaceAfter=No|Translit=pyszny
-16	.	.	PUNCT	interp	PunctType=Peri	6	punct	6:punct	Translit=.
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 13 2 vocative	color:blue
+1	Szczęśliwy	szczęśliwy	ADJ	adj:sg:voc:m:pos	Case=Voc|Degree=Pos|Gender=Masc|Number=Sing	2	amod	2:amod	Translit=Szczęśliwy
+2	wieku	wiek	NOUN	subst:sg:voc:m	Case=Voc|Gender=Masc|Number=Sing	13	vocative	13:vocative	Translit=wieku
+3	Filozofii	filozofia	NOUN	subst:sg:gen:f	Case=Gen|Gender=Fem|Number=Sing	2	nmod	2:nmod	Translit=Filozofii
+4	wszystkie	wszystek	DET	adj:pl:nom:m:pos	Case=Nom|Gender=Masc|Number=Plur|PronType=Tot	6	det	6:det	Translit=wszystkie
+5	największe	wielki	ADJ	adj:pl:nom:m:sup	Case=Nom|Degree=Sup|Gender=Masc|Number=Plur	6	amod	6:amod	Translit=naywiększe
+6	wynalazki	wynalazek	NOUN	subst:pl:nom:m	Case=Nom|Gender=Masc|Number=Plur	13	nsubj:pass	13:nsubj:pass	Translit=wynalazki
+7	i	i	CCONJ	conj	_	8	cc	8:cc	Translit=i
+8	dociekania	dociekać	NOUN	ger:pl:nom:n:imperf:aff	Aspect=Imp|Case=Nom|Gender=Neut|Number=Plur|Polarity=Pos|VerbForm=Vnoun	6	conj	6:conj|13:nsubj:pass	Translit=dociekania
+9	rzeczy	rzecz	NOUN	subst:pl:gen:f	Case=Gen|Gender=Fem|Number=Plur	8	obj	8:obj	Translit=rzeczy
+10	tobie	ty	PRON	ppron12:sg:dat:sec:akc	Case=Dat|Number=Sing|Person=2|PronType=Prs|Variant=Long	13	iobj	13:iobj	Translit=tobie
+11	samemu	sam	ADJ	adj:sg:dat:m:pos	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	10	amod	10:amod	Translit=samemu
+12	były	być	AUX	praet:pl:n:imperf	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	13	aux:pass	13:aux:pass	Translit=były
+13	zachowane	zachować	ADJ	ppas:pl:nom:n:perf:aff:pos	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Neut|Number=Plur|Polarity=Pos|VerbForm=Part|Voice=Pass	0	root	0:root	SpaceAfter=No|Translit=zachowane
+14	!	!	PUNCT	interp	PunctType=Excl	13	punct	13:punct	Translit=!
 
 ~~~
 

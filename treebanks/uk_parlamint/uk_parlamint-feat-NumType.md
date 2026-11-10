@@ -63,7 +63,7 @@ The most frequent other feature values with which `DET` and `NumType` co-occurre
 `DET` tokens may have the following values of `NumType`:
 
 * `Card` (69; 100% of non-empty `NumType`): <em>багато, декілька, кілька, багатьох, скільки, декількох, кількох, один, багатьом, скількох</em>
-* `EMPTY` (4200): <em>які, цього, який, всі, цей, яка, всіх, цю, ці, це</em>
+* `EMPTY` (4201): <em>які, цього, який, всі, цей, яка, всіх, цю, ці, це</em>
 
 ## Relations with Agreement in `NumType`
 

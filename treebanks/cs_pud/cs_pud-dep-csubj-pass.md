@@ -46,7 +46,7 @@ The following 3 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 1 csubj:pass	color:blue
-1	Užít	užít	VERB	Vf--------A----	Polarity=Pos|VerbForm=Inf	9	csubj:pass	9:csubj:pass	_
+1	Užít	užít	VERB	Vf--------A----	Aspect=Perf|Polarity=Pos|VerbForm=Inf	9	csubj:pass	9:csubj:pass	_
 2	toto	tento	DET	PDNS4----------	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	3	det	3:det	_
 3	jméno	jméno	NOUN	NNNS4-----A----	Case=Acc|Gender=Neut|Number=Sing	1	obj	1:obj	_
 4	je	být	AUX	VB-S---3P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	9	aux:pass	9:aux:pass	_

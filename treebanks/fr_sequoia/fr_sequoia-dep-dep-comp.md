@@ -8,90 +8,76 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="fr_sequoia-dep-dep.html">dep</a></tt>.
 
-7 nodes (0%) are attached to their parents as `dep:comp`.
+1 nodes (0%) are attached to their parents as `dep:comp`.
 
-5 instances of `dep:comp` (71%) are right-to-left (child precedes parent).
+1 instances of `dep:comp` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.
 
-The following 2 pairs of parts of speech are connected with `dep:comp`: <tt><a href="fr_sequoia-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_sequoia-pos-ADP.html">ADP</a></tt> (5; 71% instances), <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_sequoia-pos-SCONJ.html">SCONJ</a></tt> (2; 29% instances).
+The following 1 pairs of parts of speech are connected with `dep:comp`: <tt><a href="fr_sequoia-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_sequoia-pos-NUM.html">NUM</a></tt> (1; 100% instances).
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 3 dep:comp	color:blue
-1	Ils	lui	PRON	_	Case=Nom|Emph=No|Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	_
-2	encourent	encourir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	jusqu'	jusque	ADP	_	_	4	dep:comp	_	SpaceAfter=No
-4	à	à	ADP	_	_	6	dep	_	_
-5	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
-6	an	an	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	Exponence[Gender]=Inherent
-7	de	de	ADP	_	_	8	case	_	_
-8	prison	prison	NOUN	_	Gender=Fem|Number=Sing	6	nmod	_	Exponence[Gender]=Inherent|SpaceAfter=No
-9	,	,	PUNCT	_	_	11	punct	_	_
-10	15 000	15 000	NUM	_	Number=Plur	11	nummod	_	Exponence[Number]=Inherent
-11	euros	euro	NOUN	_	Gender=Masc|Number=Plur	6	conj	_	Exponence[Gender]=Inherent
-12	d'	de	ADP	_	_	13	case	_	SpaceAfter=No
-13	amende	amende	NOUN	_	Gender=Fem|Number=Sing	11	nmod	_	Exponence[Gender]=Inherent
-14	et	et	CCONJ	_	_	16	cc	_	_
-15	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
-16	peine	peine	NOUN	_	Gender=Fem|Number=Sing	6	conj	_	Exponence[Gender]=Inherent
-17	d'	de	ADP	_	_	18	case	_	SpaceAfter=No
-18	inéligibilité	inéligibilité	NOUN	_	Gender=Fem|Number=Sing	16	nmod	_	Exponence[Gender]=Inherent|SpaceAfter=No
-19	.	.	PUNCT	_	_	2	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 7 dep:comp	color:blue
-1	Il	lui	PRON	_	Case=Nom|Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	expl:subj	_	_
-2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
-3	fort	fort	ADV	_	_	4	advmod	_	_
-4	probable	probable	ADJ	_	Gender=Masc|Number=Sing	0	root	_	Exponence[Gender]=Absent|SpaceAfter=No
-5	,	,	PUNCT	_	_	6	punct	_	_
-6	vu	voir	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	4	advcl	_	Tense[denom]=Past
-7	qu'	que	SCONJ	_	_	6	dep:comp	_	SpaceAfter=No
-8	ils	lui	PRON	_	Case=Nom|Emph=No|Gender=Masc|Number=Plur|Person=3|PronType=Prs	10	nsubj:pass	_	_
-9	sont	être	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	aux:pass	_	_
-10	accusés	accuser	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass	6	ccomp	_	Tense[denom]=Past
-11	d'	de	ADP	_	_	12	case	_	SpaceAfter=No
-12	espionnage	espionnage	NOUN	_	Gender=Masc|Number=Sing	10	obl:arg	_	Exponence[Gender]=Inherent
-13	en	en	ADP	_	_	14	case	_	_
-14	faveur	faveur	NOUN	_	Gender=Fem|Number=Sing	12	nmod	_	Exponence[Gender]=Inherent
-15	de	de	ADP	_	_	17	case	_	_
-16	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	17	det	_	_
-17	États-Unis	États-Unis	PROPN	_	Gender=Masc|Number=Plur	14	nmod	_	Exponence[Gender]=Inherent
-18	et	et	CCONJ	_	_	20	cc	_	_
-19	d'	de	ADP	_	_	20	case	_	SpaceAfter=No
-20	Israël	Israël	PROPN	_	Gender=Masc|Number=Sing	17	conj	_	Exponence[Gender]=Inherent
-21	-	-	PUNCT	_	_	26	punct	_	SpaceAfter=No
-22	lesquels	lequel	PRON	_	Gender=Masc|Number=Plur|PronType=Rel	26	nsubj	_	_
-23	ont	avoir	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	26	aux:tense	_	_
-24	par	par	ADP	_	_	25	case	_	_
-25	ailleurs	ailleurs	ADV	_	_	26	advmod	_	_
-26	démenti	démentir	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	20	acl:relcl	_	Tense[denom]=Past
-27	tout	tout	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Ind	28	det	_	_
-28	lien	lien	NOUN	_	Gender=Masc|Number=Sing	26	obj	_	Exponence[Gender]=Inherent
-29	avec	avec	ADP	_	_	31	case	_	_
-30	ces	ce	DET	_	Number=Plur|PronType=Dem	31	det	_	_
-31	personnes	personne	NOUN	_	Gender=Fem|Number=Plur	28	nmod	_	Exponence[Gender]=Inherent|SpaceAfter=No
-32	-	-	PUNCT	_	_	26	punct	_	_
-33	qu'	que	SCONJ	_	_	36	mark	_	SpaceAfter=No
-34	ils	lui	PRON	_	Case=Nom|Emph=No|Gender=Masc|Number=Plur|Person=3|PronType=Prs	36	nsubj:pass	_	_
-35	soient	être	AUX	_	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	36	aux:pass	_	_
-36	condamnés	condamner	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass	4	csubj	_	Tense[denom]=Past
-37	à	à	ADP	_	_	39	case	_	_
-38	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	39	det	_	_
-39	peine	peine	NOUN	_	Gender=Fem|Number=Sing	36	obl:arg	_	Exponence[Gender]=Inherent
-40	capitale	capital	ADJ	_	Gender=Fem|Number=Sing	39	amod	_	SpaceAfter=No
-41	.	.	PUNCT	_	_	4	punct	_	_
+# visual-style 37	bgColor:blue
+# visual-style 37	fgColor:white
+# visual-style 36	bgColor:blue
+# visual-style 36	fgColor:white
+# visual-style 36 37 dep:comp	color:blue
+1	Les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	2	det	_	_
+2	modifications	modification	NOUN	_	Gender=Fem|Number=Plur	7	nsubj	_	Exponence[Gender]=Inherent
+3	proposées	proposer	VERB	_	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	2	acl	_	Status[Tense]=Denom
+4	par	par	ADP	_	_	6	case	_	_
+5	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	Parlement	parlement	NOUN	_	Gender=Masc|Number=Sing	3	obl:agent	_	Exponence[Gender]=Inherent
+7	amélioreraient	améliorer	VERB	_	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	surtout	surtout	ADV	_	_	7	advmod	_	_
+9	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	10	det	_	_
+10	possibilités	possibilité	NOUN	_	Gender=Fem|Number=Plur	7	obj	_	Exponence[Gender]=Inherent
+11	de	de	ADP	_	_	13	case	_	_
+12	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	13	det	_	_
+13	sociétés	société	NOUN	_	Gender=Fem|Number=Plur	10	nmod	_	Exponence[Gender]=Inherent
+14	de	de	ADP	_	_	15	case	_	_
+15	médias	média	NOUN	_	Gender=Masc|Number=Plur	13	nmod	_	Exponence[Gender]=Inherent|SpaceAfter=No
+16	,	,	PUNCT	_	_	17	punct	_	_
+17	ayant	avoir	VERB	_	Tense=Pres|VerbForm=Part	13	acl	_	Status[Tense]=Denom
+18	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
+19	position	position	NOUN	_	Gender=Fem|Number=Sing	17	obj	_	Exponence[Gender]=Inherent
+20	stable	stable	ADJ	_	Gender=Fem|Number=Sing	19	amod	_	Exponence[Gender]=Absent
+21	sur	sur	ADP	_	_	23	case	_	_
+22	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	23	det	_	_
+23	marchés	marché	NOUN	_	Gender=Masc|Number=Plur	17	obl:mod	_	Exponence[Gender]=Inherent|SpaceAfter=No
+24	,	,	PUNCT	_	_	26	punct	_	_
+25	de	de	ADP	_	_	26	mark	_	_
+26	transférer	transférer	VERB	_	VerbForm=Inf	10	acl	_	Subject=Instantiated
+27	leurs	son	DET	_	Number=Plur|Number[psor]=Plur|Person[psor]=3|Poss=Yes|PronType=Prs	29	det	_	_
+28	vieilles	vieux	ADJ	_	Gender=Fem|Number=Plur	29	amod	_	_
+29	parts	part	NOUN	_	Gender=Fem|Number=Plur	26	obj	_	Exponence[Gender]=Inherent
+30	de	de	ADP	_	_	31	case	_	_
+31	marché	marché	NOUN	_	Gender=Masc|Number=Sing	29	nmod	_	Exponence[Gender]=Inherent
+32	de	de	ADP	_	_	33	case	_	_
+33	plus	plus	ADV	_	_	29	advmod	_	_
+34	de	de	ADP	_	_	36	case	_	_
+35	80	80	NUM	_	Number=Plur|NumType=Card	36	nummod	_	Exponence[Number]=Inherent
+36	pour	pour	ADP	_	ExtPos=NOUN	33	obl:arg	_	_
+37	cent	cent	NUM	_	ExtPos=PROPN|Number=Sing|NumType=Card	36	dep:comp	_	Exponence[Number]=Inherent
+38	dans	dans	ADP	_	_	41	case	_	_
+39	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	41	det	_	_
+40	nouvel	nouveau	ADJ	_	Gender=Masc|Number=Sing	41	amod	_	_
+41	environnement	environnement	NOUN	_	Gender=Masc|Number=Sing	26	obl:mod	_	Exponence[Gender]=Inherent
+42	à	à	ADP	_	_	44	case	_	_
+43	l'	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	44	det	_	Exponence[Gender]=Absent|SpaceAfter=No
+44	aide	aide	NOUN	_	Gender=Fem|Number=Sing	26	obl:mod	_	Exponence[Gender]=Inherent
+45	d'	de	ADP	_	_	47	case	_	SpaceAfter=No
+46	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	47	det	_	_
+47	réglementation	réglementation	NOUN	_	Gender=Fem|Number=Sing	44	nmod	_	Exponence[Gender]=Inherent
+48	rigide	rigide	ADJ	_	Gender=Fem|Number=Sing	47	amod	_	Exponence[Gender]=Absent
+49	et	et	CCONJ	_	_	50	cc	_	_
+50	démesurée	démesuré	ADJ	_	Gender=Fem|Number=Sing	48	conj	_	_
+51	de	de	ADP	_	_	53	case	_	_
+52	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	53	det	_	_
+53	droit	droit	NOUN	_	Gender=Masc|Number=Sing	47	nmod	_	Exponence[Gender]=Inherent
+54	d'	de	ADP	_	_	55	case	_	SpaceAfter=No
+55	auteur	auteur	NOUN	_	Gender=Masc|Number=Sing	53	nmod	_	Exponence[Gender]=Inherent|SpaceAfter=No
+56	.	.	PUNCT	_	_	7	punct	_	_
 
 ~~~
 

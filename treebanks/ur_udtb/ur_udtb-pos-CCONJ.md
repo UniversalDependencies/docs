@@ -6,16 +6,16 @@ udver: '2'
 
 ## Treebank Statistics: UD_Urdu-UDTB: POS Tags: `CCONJ`
 
-There are 21 `CCONJ` lemmas (0%), 12 `CCONJ` types (0%) and 3248 `CCONJ` tokens (2%).
+There are 21 `CCONJ` lemmas (0%), 12 `CCONJ` types (0%) and 3249 `CCONJ` tokens (2%).
 Out of 16 observed tags, the rank of `CCONJ` is: 12 in number of lemmas, 14 in number of types and 9 in number of tokens.
 
 The 10 most frequent `CCONJ` lemmas: اور، و، لیکن، جبکہ، تاہم، یا، مگر، جب، نیز، لہذا
 
 The 10 most frequent `CCONJ` types:  اور، و، لیکن، جبکہ، تاہم، یا، مگر، نیز، لہذا، آیا
 
-The 10 most frequent ambiguous lemmas: اور (<tt><a href="ur_udtb-pos-CCONJ.html">CCONJ</a></tt> 2286, <tt><a href="ur_udtb-pos-ADJ.html">ADJ</a></tt> 30, <tt><a href="ur_udtb-pos-DET.html">DET</a></tt> 10, <tt><a href="ur_udtb-pos-PROPN.html">PROPN</a></tt> 5, <tt><a href="ur_udtb-pos-PART.html">PART</a></tt> 4, <tt><a href="ur_udtb-pos-ADV.html">ADV</a></tt> 3, <tt><a href="ur_udtb-pos-PRON.html">PRON</a></tt> 1), و (<tt><a href="ur_udtb-pos-CCONJ.html">CCONJ</a></tt> 314, <tt><a href="ur_udtb-pos-PART.html">PART</a></tt> 35, <tt><a href="ur_udtb-pos-PROPN.html">PROPN</a></tt> 10, <tt><a href="ur_udtb-pos-NOUN.html">NOUN</a></tt> 4, <tt><a href="ur_udtb-pos-ADV.html">ADV</a></tt> 1), جبکہ (<tt><a href="ur_udtb-pos-CCONJ.html">CCONJ</a></tt> 162, <tt><a href="ur_udtb-pos-PRON.html">PRON</a></tt> 11, <tt><a href="ur_udtb-pos-PART.html">PART</a></tt> 6), یا (<tt><a href="ur_udtb-pos-CCONJ.html">CCONJ</a></tt> 98, <tt><a href="ur_udtb-pos-PRON.html">PRON</a></tt> 1), جب (<tt><a href="ur_udtb-pos-PRON.html">PRON</a></tt> 94, <tt><a href="ur_udtb-pos-CCONJ.html">CCONJ</a></tt> 17, <tt><a href="ur_udtb-pos-SCONJ.html">SCONJ</a></tt> 4, <tt><a href="ur_udtb-pos-NOUN.html">NOUN</a></tt> 2), نیز (<tt><a href="ur_udtb-pos-CCONJ.html">CCONJ</a></tt> 16, <tt><a href="ur_udtb-pos-NUM.html">NUM</a></tt> 1), لہذا (<tt><a href="ur_udtb-pos-CCONJ.html">CCONJ</a></tt> 13, <tt><a href="ur_udtb-pos-ADV.html">ADV</a></tt> 1), - (<tt><a href="ur_udtb-pos-PUNCT.html">PUNCT</a></tt> 217, <tt><a href="ur_udtb-pos-PROPN.html">PROPN</a></tt> 3, <tt><a href="ur_udtb-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="ur_udtb-pos-NOUN.html">NOUN</a></tt> 1), آ (<tt><a href="ur_udtb-pos-PROPN.html">PROPN</a></tt> 23, <tt><a href="ur_udtb-pos-PRON.html">PRON</a></tt> 2, <tt><a href="ur_udtb-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="ur_udtb-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="ur_udtb-pos-NOUN.html">NOUN</a></tt> 1), آیا (<tt><a href="ur_udtb-pos-PRON.html">PRON</a></tt> 5, <tt><a href="ur_udtb-pos-CCONJ.html">CCONJ</a></tt> 1)
+The 10 most frequent ambiguous lemmas: اور (<tt><a href="ur_udtb-pos-CCONJ.html">CCONJ</a></tt> 2286, <tt><a href="ur_udtb-pos-ADJ.html">ADJ</a></tt> 30, <tt><a href="ur_udtb-pos-DET.html">DET</a></tt> 10, <tt><a href="ur_udtb-pos-PROPN.html">PROPN</a></tt> 5, <tt><a href="ur_udtb-pos-PART.html">PART</a></tt> 4, <tt><a href="ur_udtb-pos-ADV.html">ADV</a></tt> 3, <tt><a href="ur_udtb-pos-PRON.html">PRON</a></tt> 1), و (<tt><a href="ur_udtb-pos-CCONJ.html">CCONJ</a></tt> 315, <tt><a href="ur_udtb-pos-PART.html">PART</a></tt> 35, <tt><a href="ur_udtb-pos-PROPN.html">PROPN</a></tt> 9, <tt><a href="ur_udtb-pos-NOUN.html">NOUN</a></tt> 4, <tt><a href="ur_udtb-pos-ADV.html">ADV</a></tt> 1), جبکہ (<tt><a href="ur_udtb-pos-CCONJ.html">CCONJ</a></tt> 162, <tt><a href="ur_udtb-pos-PRON.html">PRON</a></tt> 11, <tt><a href="ur_udtb-pos-PART.html">PART</a></tt> 6), یا (<tt><a href="ur_udtb-pos-CCONJ.html">CCONJ</a></tt> 98, <tt><a href="ur_udtb-pos-PRON.html">PRON</a></tt> 1), جب (<tt><a href="ur_udtb-pos-PRON.html">PRON</a></tt> 94, <tt><a href="ur_udtb-pos-CCONJ.html">CCONJ</a></tt> 17, <tt><a href="ur_udtb-pos-SCONJ.html">SCONJ</a></tt> 4, <tt><a href="ur_udtb-pos-NOUN.html">NOUN</a></tt> 2), نیز (<tt><a href="ur_udtb-pos-CCONJ.html">CCONJ</a></tt> 16, <tt><a href="ur_udtb-pos-NUM.html">NUM</a></tt> 1), لہذا (<tt><a href="ur_udtb-pos-CCONJ.html">CCONJ</a></tt> 13, <tt><a href="ur_udtb-pos-ADV.html">ADV</a></tt> 1), - (<tt><a href="ur_udtb-pos-PUNCT.html">PUNCT</a></tt> 217, <tt><a href="ur_udtb-pos-PROPN.html">PROPN</a></tt> 3, <tt><a href="ur_udtb-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="ur_udtb-pos-NOUN.html">NOUN</a></tt> 1), آ (<tt><a href="ur_udtb-pos-PROPN.html">PROPN</a></tt> 23, <tt><a href="ur_udtb-pos-PRON.html">PRON</a></tt> 2, <tt><a href="ur_udtb-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="ur_udtb-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="ur_udtb-pos-NOUN.html">NOUN</a></tt> 1), آیا (<tt><a href="ur_udtb-pos-PRON.html">PRON</a></tt> 5, <tt><a href="ur_udtb-pos-CCONJ.html">CCONJ</a></tt> 1)
 
-The 10 most frequent ambiguous types:  اور (<tt><a href="ur_udtb-pos-CCONJ.html">CCONJ</a></tt> 2290, <tt><a href="ur_udtb-pos-ADJ.html">ADJ</a></tt> 30, <tt><a href="ur_udtb-pos-DET.html">DET</a></tt> 10, <tt><a href="ur_udtb-pos-PART.html">PART</a></tt> 3, <tt><a href="ur_udtb-pos-PROPN.html">PROPN</a></tt> 3, <tt><a href="ur_udtb-pos-ADV.html">ADV</a></tt> 2), و (<tt><a href="ur_udtb-pos-CCONJ.html">CCONJ</a></tt> 318, <tt><a href="ur_udtb-pos-PART.html">PART</a></tt> 35, <tt><a href="ur_udtb-pos-PROPN.html">PROPN</a></tt> 10, <tt><a href="ur_udtb-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="ur_udtb-pos-ADV.html">ADV</a></tt> 1), جبکہ (<tt><a href="ur_udtb-pos-CCONJ.html">CCONJ</a></tt> 179, <tt><a href="ur_udtb-pos-PRON.html">PRON</a></tt> 4), لہذا (<tt><a href="ur_udtb-pos-CCONJ.html">CCONJ</a></tt> 13, <tt><a href="ur_udtb-pos-ADV.html">ADV</a></tt> 1), آیا (<tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt> 64, <tt><a href="ur_udtb-pos-PRON.html">PRON</a></tt> 7, <tt><a href="ur_udtb-pos-CCONJ.html">CCONJ</a></tt> 2), تو (<tt><a href="ur_udtb-pos-SCONJ.html">SCONJ</a></tt> 197, <tt><a href="ur_udtb-pos-PART.html">PART</a></tt> 39, <tt><a href="ur_udtb-pos-PRON.html">PRON</a></tt> 24, <tt><a href="ur_udtb-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="ur_udtb-pos-PROPN.html">PROPN</a></tt> 1)
+The 10 most frequent ambiguous types:  اور (<tt><a href="ur_udtb-pos-CCONJ.html">CCONJ</a></tt> 2290, <tt><a href="ur_udtb-pos-ADJ.html">ADJ</a></tt> 30, <tt><a href="ur_udtb-pos-DET.html">DET</a></tt> 10, <tt><a href="ur_udtb-pos-PART.html">PART</a></tt> 3, <tt><a href="ur_udtb-pos-PROPN.html">PROPN</a></tt> 3, <tt><a href="ur_udtb-pos-ADV.html">ADV</a></tt> 2), و (<tt><a href="ur_udtb-pos-CCONJ.html">CCONJ</a></tt> 319, <tt><a href="ur_udtb-pos-PART.html">PART</a></tt> 35, <tt><a href="ur_udtb-pos-PROPN.html">PROPN</a></tt> 9, <tt><a href="ur_udtb-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="ur_udtb-pos-ADV.html">ADV</a></tt> 1), جبکہ (<tt><a href="ur_udtb-pos-CCONJ.html">CCONJ</a></tt> 179, <tt><a href="ur_udtb-pos-PRON.html">PRON</a></tt> 4), لہذا (<tt><a href="ur_udtb-pos-CCONJ.html">CCONJ</a></tt> 13, <tt><a href="ur_udtb-pos-ADV.html">ADV</a></tt> 1), آیا (<tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt> 64, <tt><a href="ur_udtb-pos-PRON.html">PRON</a></tt> 7, <tt><a href="ur_udtb-pos-CCONJ.html">CCONJ</a></tt> 2), تو (<tt><a href="ur_udtb-pos-SCONJ.html">SCONJ</a></tt> 197, <tt><a href="ur_udtb-pos-PART.html">PART</a></tt> 39, <tt><a href="ur_udtb-pos-PRON.html">PRON</a></tt> 24, <tt><a href="ur_udtb-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="ur_udtb-pos-PROPN.html">PROPN</a></tt> 1)
 
 
 * اور
@@ -26,9 +26,9 @@ The 10 most frequent ambiguous types:  اور (<tt><a href="ur_udtb-pos-CCONJ.ht
   * <tt><a href="ur_udtb-pos-PROPN.html">PROPN</a></tt> 3: صحتمند رہنے کا آسمانی نسخہ ( مصنفہ : ساجدہ پروین ) ، تعطیلات مےں بچوں کی سرگرمیاں ( مصنفہ : ڈاکٹر نادیہ سلیم ) ، موسمی <b>اور</b> قدرتی مشروبات ( مصنف : ایم احمد ) ، لو لگنا ( مصنف : حکیم راحت نسیم سوہدردی ) ، کیڑے مکوڑے <b>اور</b> چیونٹیوں کا علاج ، زلزلے کیوں آتے ہیں ؟ ( مصنف : دانیال ) ، مونگ '' دال مونگ '' ، تربوز کے بےشمار طبی فوائد ( مصنف : حکیم جاوید عباسی ) ، ماحولیاتی آلودگی <b>اور</b> قدیم اطباء ( مصنف : حکیم محمد رمضان اطہر ) ، موسم گرما ، کچھ خاص باتیں دھیان مےں رکھیں ، لسی ، دیسی مشروب کا ولایتی ذائقہ ، لیموں ، گرمیوں کی سوغات ( مصنف : حکیم محمد خدا بخش مہر ) ، تاریخ الاطباء ( مصنف : حکیم و ڈاکٹر غلام جیلانی خان ) ، غذائی اشیاء کی صحیح پہچان کیا ہے ؟ ( مصنفہ : عائشہ نوید ) ، ٹانسل ( مصنف : ڈاکٹر شبیر عالم ۔ سیرسہ ) ، صحت کے نکتے اور میڈیکل نیوز وغیرہ شامل ہیں ۔
   * <tt><a href="ur_udtb-pos-ADV.html">ADV</a></tt> 2: پائپ لائین کی دیکھ بھال پر خاص توجہ کی ضرورت ہے اور کچرے کی صفائی پر تو <b>اور</b> بھی خاص توجہ دی جانی چاہیے ۔
 * و
-  * <tt><a href="ur_udtb-pos-CCONJ.html">CCONJ</a></tt> 318: پارٹی ارکان پارلیمنٹ <b>و</b> اسمبلی کے علاوہ دیگر عہدیداران مخاطب کریں_گے ۔
+  * <tt><a href="ur_udtb-pos-CCONJ.html">CCONJ</a></tt> 319: پارٹی ارکان پارلیمنٹ <b>و</b> اسمبلی کے علاوہ دیگر عہدیداران مخاطب کریں_گے ۔
   * <tt><a href="ur_udtb-pos-PART.html">PART</a></tt> 35: تمام طلبا <b>و</b> طالبات سے استفادہ کی خواہش کی جاتی ہے ۔
-  * <tt><a href="ur_udtb-pos-PROPN.html">PROPN</a></tt> 10: مسٹر قریشی نے مصر کے وزیر انصاف <b>و</b> مواصلات اور دو کونسلرس سے ملاقات کے بعد پریس کانفرنس طلب کی تھی ۔
+  * <tt><a href="ur_udtb-pos-PROPN.html">PROPN</a></tt> 9: مسٹر قریشی نے مصر کے وزیر انصاف <b>و</b> مواصلات اور دو کونسلرس سے ملاقات کے بعد پریس کانفرنس طلب کی تھی ۔
   * <tt><a href="ur_udtb-pos-NOUN.html">NOUN</a></tt> 3: وزیر موصوف نے کہا , " میری رائے میں , یہ بھی ضروری ہوگا کہ ایک مضبوط , اچھی طرح منتخب اور مؤثر نیا نظم <b>و</b> نسق آئی ایچ ایف کے لیے مقرر کیا جائے ۔
   * <tt><a href="ur_udtb-pos-ADV.html">ADV</a></tt> 1: شہر و اطراف <b>و</b> اکناف کے مواضعات سے تعلق رکھنے والے تلگودیشم قائدین و کارکنوں کا احساس ہے کہ شہر کے پارٹی اُمور کی نگرانی کے لیے ایک حرکیاتی اور مقبول_عام لیڈر کی ضرورت ہے جو عوامی مسائل پر حکومت کے خلاف احتجاج میں حصہ لے سکے ۔
 * جبکہ
@@ -50,7 +50,7 @@ The 10 most frequent ambiguous types:  اور (<tt><a href="ur_udtb-pos-CCONJ.ht
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 0.571429 (the average of all parts of speech is 1.103404).
+The form / lemma ratio of `CCONJ` is 0.571429 (the average of all parts of speech is 1.103337).
 
 The 1st highest number of forms (2) was observed with the lemma “جبکہ”: جبکہ, جب۔کہ.
 
@@ -63,17 +63,17 @@ The 3rd highest number of forms (1) was observed with the lemma “-”: اور.
 `CCONJ` occurs with 8 feature-value pairs: `Aspect=Perf`, `Case=Acc`, `Case=Nom`, `Gender=Fem`, `Gender=Masc`, `Number=Sing`, `Person=3`, `VerbForm=Part`
 
 `CCONJ` occurs with 5 feature combinations.
-The most frequent feature combination is `_` (3242 tokens).
+The most frequent feature combination is `_` (3243 tokens).
 Examples: اور، و، لیکن، جبکہ، تاہم، یا، مگر، نیز، لہذا، آیا
 
 
 ## Relations
 
-`CCONJ` nodes are attached to their parents using 1 different relations: <tt><a href="ur_udtb-dep-cc.html">cc</a></tt> (3248; 100% instances)
+`CCONJ` nodes are attached to their parents using 1 different relations: <tt><a href="ur_udtb-dep-cc.html">cc</a></tt> (3249; 100% instances)
 
-Parents of `CCONJ` nodes belong to 9 different parts of speech: <tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt> (1389; 43% instances), <tt><a href="ur_udtb-pos-NOUN.html">NOUN</a></tt> (1177; 36% instances), <tt><a href="ur_udtb-pos-PROPN.html">PROPN</a></tt> (449; 14% instances), <tt><a href="ur_udtb-pos-ADJ.html">ADJ</a></tt> (181; 6% instances), <tt><a href="ur_udtb-pos-PRON.html">PRON</a></tt> (25; 1% instances), <tt><a href="ur_udtb-pos-NUM.html">NUM</a></tt> (17; 1% instances), <tt><a href="ur_udtb-pos-ADV.html">ADV</a></tt> (7; 0% instances), <tt><a href="ur_udtb-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="ur_udtb-pos-PART.html">PART</a></tt> (1; 0% instances)
+Parents of `CCONJ` nodes belong to 9 different parts of speech: <tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt> (1389; 43% instances), <tt><a href="ur_udtb-pos-NOUN.html">NOUN</a></tt> (1177; 36% instances), <tt><a href="ur_udtb-pos-PROPN.html">PROPN</a></tt> (450; 14% instances), <tt><a href="ur_udtb-pos-ADJ.html">ADJ</a></tt> (181; 6% instances), <tt><a href="ur_udtb-pos-PRON.html">PRON</a></tt> (25; 1% instances), <tt><a href="ur_udtb-pos-NUM.html">NUM</a></tt> (17; 1% instances), <tt><a href="ur_udtb-pos-ADV.html">ADV</a></tt> (7; 0% instances), <tt><a href="ur_udtb-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="ur_udtb-pos-PART.html">PART</a></tt> (1; 0% instances)
 
-3248 (100%) `CCONJ` nodes are leaves.
+3249 (100%) `CCONJ` nodes are leaves.
 
 The highest child degree of a `CCONJ` node is 0.
 

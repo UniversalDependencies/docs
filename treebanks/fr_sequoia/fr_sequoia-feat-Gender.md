@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Fem`, `Masc`.
 
-30618 tokens (43%) have a non-empty value of `Gender`.
-6700 types (71%) occur at least once with a non-empty value of `Gender`.
-4801 lemmas (71%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 8 part-of-speech tags: <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (14575; 21% instances), <tt><a href="fr_sequoia-pos-DET.html">DET</a></tt> (7102; 10% instances), <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt> (4387; 6% instances), <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (2206; 3% instances), <tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt> (1425; 2% instances), <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (910; 1% instances), <tt><a href="fr_sequoia-pos-AUX.html">AUX</a></tt> (10; 0% instances), <tt><a href="fr_sequoia-pos-NUM.html">NUM</a></tt> (3; 0% instances).
+30575 tokens (43%) have a non-empty value of `Gender`.
+6699 types (71%) occur at least once with a non-empty value of `Gender`.
+4800 lemmas (71%) occur at least once with a non-empty value of `Gender`.
+The feature is used with 8 part-of-speech tags: <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (14575; 21% instances), <tt><a href="fr_sequoia-pos-DET.html">DET</a></tt> (7058; 10% instances), <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt> (4386; 6% instances), <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (2207; 3% instances), <tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt> (1426; 2% instances), <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (910; 1% instances), <tt><a href="fr_sequoia-pos-AUX.html">AUX</a></tt> (10; 0% instances), <tt><a href="fr_sequoia-pos-NUM.html">NUM</a></tt> (3; 0% instances).
 
 ### `NOUN`
 
@@ -24,7 +24,7 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
 
 * `Fem` (6959; 48% of non-empty `Gender`): <em>affaire, bivalirudine, commission, perfusion, administration, solution, dose, étude, fois, union</em>
 * `Masc` (7616; 52% of non-empty `Gender`): <em>patients, mg, ans, cas, traitement, président, effets, M., cours, ml</em>
-* `EMPTY` (453): <em>enfants, HLM, ICP, D, collègues, ACT, B, intermédiaires, A, ISBN</em>
+* `EMPTY` (451): <em>enfants, HLM, ICP, D, collègues, ACT, B, intermédiaires, A, ISBN</em>
 
 <table>
   <tr><th>Paradigm <i>patient</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
@@ -37,15 +37,15 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
 
 ### `DET`
 
-7102 <tt><a href="fr_sequoia-pos-DET.html">DET</a></tt> tokens (68% of all `DET` tokens) have a non-empty value of `Gender`.
+7058 <tt><a href="fr_sequoia-pos-DET.html">DET</a></tt> tokens (68% of all `DET` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="fr_sequoia-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7054; 99%), <tt><a href="fr_sequoia-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (6418; 90%), <tt><a href="fr_sequoia-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (5152; 73%).
+The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="fr_sequoia-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7010; 99%), <tt><a href="fr_sequoia-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (6374; 90%), <tt><a href="fr_sequoia-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (5108; 72%).
 
 `DET` tokens may have the following values of `Gender`:
 
-* `Fem` (3496; 49% of non-empty `Gender`): <em>la, l', une, cette, sa, son, aucune, certaines, toute, ma</em>
-* `Masc` (3606; 51% of non-empty `Gender`): <em>le, un, l', ce, son, cet, aucun, tout, du, certains</em>
-* `EMPTY` (3298): <em>les, des, l', ces, ses, votre, de, leur, d', plusieurs</em>
+* `Fem` (3496; 50% of non-empty `Gender`): <em>la, l', une, cette, sa, son, aucune, certaines, toute, ma</em>
+* `Masc` (3562; 50% of non-empty `Gender`): <em>le, un, l', ce, son, cet, aucun, tout, du, certains</em>
+* `EMPTY` (3299): <em>les, des, l', ces, ses, votre, de, leur, d', plusieurs</em>
 
 <table>
   <tr><th>Paradigm <i>le</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
@@ -57,14 +57,14 @@ The most frequent other feature values with which `DET` and `Gender` co-occurred
 
 ### `ADJ`
 
-4387 <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt> tokens (100% of all `ADJ` tokens) have a non-empty value of `Gender`.
+4386 <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt> tokens (100% of all `ADJ` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="fr_sequoia-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2932; 67%).
+The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="fr_sequoia-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2931; 67%).
 
 `ADJ` tokens may have the following values of `Gender`:
 
 * `Fem` (2064; 47% of non-empty `Gender`): <em>européenne, première, rénale, française, autres, toutes, clinique, nouvelle, politique, intraveineuse</em>
-* `Masc` (2323; 53% of non-empty `Gender`): <em>tous, ancien, autres, indésirables, zolédronique, premier, français, dernier, général, autre</em>
+* `Masc` (2322; 53% of non-empty `Gender`): <em>tous, ancien, autres, indésirables, zolédronique, premier, français, dernier, général, autre</em>
 
 <table>
   <tr><th>Paradigm <i>autre</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
@@ -75,15 +75,15 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
 
 ### `VERB`
 
-2206 <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> tokens (37% of all `VERB` tokens) have a non-empty value of `Gender`.
+2207 <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> tokens (37% of all `VERB` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="fr_sequoia-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (2206; 100%), <tt><a href="fr_sequoia-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (2206; 100%), <tt><a href="fr_sequoia-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (2206; 100%), <tt><a href="fr_sequoia-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (2206; 100%), <tt><a href="fr_sequoia-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1536; 70%), <tt><a href="fr_sequoia-feat-Voice.html">Voice</a></tt><tt>=Pass</tt> (1513; 69%).
+The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="fr_sequoia-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (2207; 100%), <tt><a href="fr_sequoia-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (2207; 100%), <tt><a href="fr_sequoia-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (2207; 100%), <tt><a href="fr_sequoia-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (2207; 100%), <tt><a href="fr_sequoia-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1537; 70%), <tt><a href="fr_sequoia-feat-Voice.html">Voice</a></tt><tt>=Pass</tt> (1513; 69%).
 
 `VERB` tokens may have the following values of `Gender`:
 
 * `Fem` (674; 31% of non-empty `Gender`): <em>observée, recommandée, administrée, destinée, maintenue, menée, rapportées, traitées, versées, liée</em>
-* `Masc` (1532; 69% of non-empty `Gender`): <em>mis, eu, traités, utilisé, atteints, administré, reçu, pris, fait, présenté</em>
-* `EMPTY` (3681): <em>doit, voir, a, peut, doivent, faire, faut, est, peuvent, concernant</em>
+* `Masc` (1533; 69% of non-empty `Gender`): <em>mis, eu, traités, utilisé, atteints, administré, reçu, pris, fait, présenté</em>
+* `EMPTY` (3680): <em>doit, voir, a, peut, doivent, faire, faut, est, peuvent, concernant</em>
 
 <table>
   <tr><th>Paradigm <i>devoir</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
@@ -93,14 +93,14 @@ The most frequent other feature values with which `VERB` and `Gender` co-occurre
 
 ### `PROPN`
 
-1425 <tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt> tokens (44% of all `PROPN` tokens) have a non-empty value of `Gender`.
+1426 <tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt> tokens (44% of all `PROPN` tokens) have a non-empty value of `Gender`.
 
 The most frequent other feature values with which `PROPN` and `Gender` co-occurred: <tt><a href="fr_sequoia-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1392; 98%).
 
 `PROPN` tokens may have the following values of `Gender`:
 
-* `Fem` (377; 26% of non-empty `Gender`): <em>France, Paget, Europe, Christine, Denise, Afrique, Chine, Jean, Blanche, Société</em>
-* `Masc` (1048; 74% of non-empty `Gender`): <em>paris, Jacques, Chirac, Taïwan, Michel, Hauts-de-Seine, Didier, Alain, Maupas, François</em>
+* `Fem` (378; 27% of non-empty `Gender`): <em>France, Paget, Europe, Christine, Denise, Afrique, Chine, Jean, Blanche, UE</em>
+* `Masc` (1048; 73% of non-empty `Gender`): <em>paris, Jacques, Chirac, Taïwan, Michel, Hauts-de-Seine, Didier, Alain, Maupas, François</em>
 * `EMPTY` (1825): <em>Aclasta, Angiox, RPR, Halphen, Jean-Claude, Méry, Schuller, Thomson, Francis, Éric</em>
 
 <table>
@@ -140,7 +140,7 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 
 10 <tt><a href="fr_sequoia-pos-AUX.html">AUX</a></tt> tokens (0% of all `AUX` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="fr_sequoia-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (10; 100%), <tt><a href="fr_sequoia-feat-Number.html">Number</a></tt><tt>=Sing</tt> (10; 100%), <tt><a href="fr_sequoia-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (10; 100%), <tt><a href="fr_sequoia-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (10; 100%), <tt><a href="fr_sequoia-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (10; 100%).
+The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="fr_sequoia-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (10; 100%), <tt><a href="fr_sequoia-feat-Number.html">Number</a></tt><tt>=Sing</tt> (10; 100%), <tt><a href="fr_sequoia-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (10; 100%), <tt><a href="fr_sequoia-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (10; 100%), <tt><a href="fr_sequoia-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (10; 100%).
 
 `AUX` tokens may have the following values of `Gender`:
 
@@ -151,7 +151,7 @@ The most frequent other feature values with which `AUX` and `Gender` co-occurred
 
 3 <tt><a href="fr_sequoia-pos-NUM.html">NUM</a></tt> tokens (0% of all `NUM` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `NUM` and `Gender` co-occurred: <tt><a href="fr_sequoia-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (3; 100%), <tt><a href="fr_sequoia-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3; 100%).
+The most frequent other feature values with which `NUM` and `Gender` co-occurred: <tt><a href="fr_sequoia-feat-ExtPos.html">ExtPos</a></tt><tt>=PROPN</tt> (3; 100%), <tt><a href="fr_sequoia-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (3; 100%), <tt><a href="fr_sequoia-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3; 100%).
 
 `NUM` tokens may have the following values of `Gender`:
 
@@ -164,10 +164,10 @@ The 10 most frequent relations where parent and child node agree in `Gender`:
 <tt>NOUN --[<tt><a href="fr_sequoia-dep-det.html">det</a></tt>]--> DET</tt> (6490; 69%),
 <tt>NOUN --[<tt><a href="fr_sequoia-dep-amod.html">amod</a></tt>]--> ADJ</tt> (3641; 99%),
 <tt>NOUN --[<tt><a href="fr_sequoia-dep-acl.html">acl</a></tt>]--> VERB</tt> (631; 63%),
-<tt>NOUN --[<tt><a href="fr_sequoia-dep-conj.html">conj</a></tt>]--> NOUN</tt> (572; 56%),
+<tt>NOUN --[<tt><a href="fr_sequoia-dep-conj.html">conj</a></tt>]--> NOUN</tt> (570; 56%),
 <tt>VERB --[<tt><a href="fr_sequoia-dep-nsubj-pass.html">nsubj:pass</a></tt>]--> NOUN</tt> (349; 86%),
 <tt>PROPN --[<tt><a href="fr_sequoia-dep-det.html">det</a></tt>]--> DET</tt> (270; 69%),
-<tt>NOUN --[<tt><a href="fr_sequoia-dep-appos.html">appos</a></tt>]--> NOUN</tt> (139; 58%),
+<tt>NOUN --[<tt><a href="fr_sequoia-dep-appos.html">appos</a></tt>]--> NOUN</tt> (141; 58%),
 <tt>ADJ --[<tt><a href="fr_sequoia-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (130; 100%),
 <tt>ADJ --[<tt><a href="fr_sequoia-dep-conj.html">conj</a></tt>]--> ADJ</tt> (118; 98%),
 <tt>VERB --[<tt><a href="fr_sequoia-dep-conj.html">conj</a></tt>]--> VERB</tt> (104; 52%).

@@ -60,7 +60,7 @@ The 10 most frequent ambiguous types:  <em>att</em> (<tt><a href="sv_swell-pos-S
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.133333 (the average of all parts of speech is 1.401542).
+The form / lemma ratio of `SCONJ` is 1.133333 (the average of all parts of speech is 1.400119).
 
 The 1st highest number of forms (2) was observed with the lemma “eftersom”: <em>eftersom, eftrsom</em>.
 

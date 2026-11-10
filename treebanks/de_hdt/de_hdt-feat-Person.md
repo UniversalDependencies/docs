@@ -10,8 +10,8 @@ This feature is universal.
 It occurs with 3 different values: `1`, `2`, `3`.
 
 341066 tokens (10%) have a non-empty value of `Person`.
-9343 types (5%) occur at least once with a non-empty value of `Person`.
-3400 lemmas (2%) occur at least once with a non-empty value of `Person`.
+9344 types (5%) occur at least once with a non-empty value of `Person`.
+3406 lemmas (2%) occur at least once with a non-empty value of `Person`.
 The feature is used with 4 part-of-speech tags: <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt> (134430; 4% instances), <tt><a href="de_hdt-pos-AUX.html">AUX</a></tt> (134056; 4% instances), <tt><a href="de_hdt-pos-PRON.html">PRON</a></tt> (54207; 2% instances), <tt><a href="de_hdt-pos-DET.html">DET</a></tt> (18373; 1% instances).
 
 ### `VERB`
@@ -25,7 +25,7 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 * `1` (1827; 1% of non-empty `Person`): <em>brauchen, sehen, wissen, glauben, glaube, stehen, gehen, arbeiten, denke, erwarten</em>
 * `2` (833; 1% of non-empty `Person`): <em>siehe, sprich, update, Stimm, bleibt, steht, lies, Mach, Mehr, geht</em>
 * `3` (131770; 98% of non-empty `Person`): <em>sagte, gibt, geht, steht, bietet, erklärte, kommt, sieht, gab, stellt</em>
-* `EMPTY` (129157): <em>machen, angekündigt, geben, lassen, kommen, bringen, anbieten, erhalten, gegeben, gemacht</em>
+* `EMPTY` (129145): <em>machen, angekündigt, geben, lassen, kommen, bringen, anbieten, erhalten, gegeben, gemacht</em>
 
 <table>
   <tr><th>Paradigm <i>geben</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>

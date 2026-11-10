@@ -6,10 +6,10 @@ udver: '2'
 
 ## Treebank Statistics: UD_Moksha-JR: POS Tags: `ADV`
 
-There are 162 `ADV` lemmas (11%), 169 `ADV` types (7%) and 446 `ADV` tokens (10%).
+There are 161 `ADV` lemmas (11%), 168 `ADV` types (7%) and 446 `ADV` tokens (10%).
 Out of 16 observed tags, the rank of `ADV` is: 3 in number of lemmas, 3 in number of types and 4 in number of tokens.
 
-The 10 most frequent `ADV` lemmas: <em>нинге, кода, пяк, сяда, аньцек, ни, меле, ичкозе, эста, кали</em>
+The 10 most frequent `ADV` lemmas: <em>нинге, кода, пяк, сяда, аньцек, ни, меле, ичкозе, эста, ёфси</em>
 
 The 10 most frequent `ADV` types:  <em>нинге, кода, пяк, аньцек, сяда, ни, меле, эста, ичкозе, кали</em>
 
@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>кода</em> (<tt><a href="mdf_jr-po
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.043210 (the average of all parts of speech is 1.563574).
+The form / lemma ratio of `ADV` is 1.043478 (the average of all parts of speech is 1.563961).
 
 The 1st highest number of forms (2) was observed with the lemma “весть”: <em>вестенге, весть</em>.
 

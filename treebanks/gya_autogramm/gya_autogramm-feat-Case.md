@@ -16,12 +16,12 @@ The feature is used with 1 part-of-speech tags: <tt><a href="gya_autogramm-pos-A
 
 ### `AUX`
 
-8 <tt><a href="gya_autogramm-pos-AUX.html">AUX</a></tt> tokens (32% of all `AUX` tokens) have a non-empty value of `Case`.
+8 <tt><a href="gya_autogramm-pos-AUX.html">AUX</a></tt> tokens (9% of all `AUX` tokens) have a non-empty value of `Case`.
 
 `AUX` tokens may have the following values of `Case`:
 
 * `Loc` (8; 100% of non-empty `Case`): <em>ʔá̰</em>
-* `EMPTY` (17): <em>nɛ́, ʔá̰-hı̰̀ı̰́, mɛ̀-nɛ́, ʔá̰à̰, sɔ̰́</em>
+* `EMPTY` (78): <em>nɛ́, tɛ́-B, BHa, tɛ̀ɛ́-B, mɛ́-B, ʔá̰-hı̰̀ı̰́, mɔ́-B, mɛ̀-nɛ́, ʔá̰, ʔá̰-hḭ̀ḭ́</em>
 
 ## Relations with Agreement in `Case`
 

@@ -23,10 +23,10 @@ The following 1 pairs of parts of speech are connected with `csubj:outer`: <tt><
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 1 csubj:outer	color:blue
-1	tkn.t	tkn	VERB	_	Gender=Masc|VerbClass=3lit|VerbForm=Inf	4	csubj:outer	_	Hiero=(𓏏:𓎡:𓈖)𓏏|ID=173680
+1	tkn.t	tkn	VERB	_	Gender=Masc|VerbClass=3lit|VerbForm=Inf	4	csubj:outer	_	Hiero=(𓏏:𓎡:𓈖)𓏏|ID=173680|Trans=No
 2	⸗k	k	PRON	_	Gender=Masc|Number=Sing|Person=2|Poss=Yes|PronClass=Suffix|PronType=Prs	1	nsubj	_	Hiero=𓎡|ID=10110
-3	n	n	ADP	_	Case=Ben|StatPrep=Cons	4	case	_	Hiero=𓈖|ID=400055
-4	tkn	tkn	VERB	_	Conjug=Suffix|Gender=Masc|Mood=Ind|Nominal=Yes|Number=Sing|SubForm=RelForm|Tense=Pres|VerbClass=3lit|VerbForm=Fin	0	root	_	Hiero=(𓏏:𓎡)𓈖|ID=173680
+3	n	n	SCONJ	_	Case=Ben|StatPrep=Cons	4	mark	_	Hiero=𓈖|ID=400055
+4	tkn	tkn	VERB	_	Conjug=Suffix|Gender=Masc|Mood=Ind|Nominal=Yes|Number=Sing|SubForm=RelForm|Tense=Pres|VerbClass=3lit|VerbForm=Fin	0	root	_	Hiero=(𓏏:𓎡)𓈖|ID=173680|Trans=No
 5	⸗k	k	PRON	_	Gender=Masc|Number=Sing|Person=2|PronClass=Suffix|PronType=Prs	4	nsubj	_	Hiero=𓎡|ID=10110
 6	Ꞽkn	Ꞽkn	PROPN	_	Gender=Masc|NameType=God	4	vocative	_	Hiero=𓇋(𓎡:𓈖)|ID=32600
 7	hꞽ	hꞽ	NOUN	_	Gender=Masc|Number=Sing	6	flat:name	_	Hiero=𓉔𓇋𓆙|ID=97860

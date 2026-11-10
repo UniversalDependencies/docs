@@ -26,8 +26,8 @@ The following 4 pairs of parts of speech are connected with `appos`: <tt><a href
 2	=ma	=ma	SCONJ	PRT	_	1	case	_	AlignBegin=150657|AlignEnd=151161|Gloss==TOP|MGloss==TOP|MSeg==ma|nWord=2|RX=[PRT]|TokenType=Clit|Word=ma
 3	artʃuiʃbartVi	tʃuiʃ	VERB	V:ANY	Clusivity=Ex|Voice=Appl	0	root	_	AlignBegin=151161|AlignEnd=151665|Gloss=learn|MGloss=O3SG- APPL.P- learn -S1PL.EXCL -NEG -PST|MSeg=a-r-tʃuiʃ-bar-tV-i|nWord=3|RX=[V]|TokenType=Root|Word=artʃuiʃbarti|wordform=a-r-tʃuiʃ-bar-tV-i
 4	artʃuiʃatVri	tʃuiʃ	VERB	V:ANY	Voice=Appl	3	appos	_	AlignBegin=151665|AlignEnd=152169|Gloss=learn|MGloss=O3SG- APPL.P- learn -S1SG -NEG -PST|MSeg=a-r-tʃuiʃ-a-tV-ri|nWord=4|RX=[V]|TokenType=Root|Word=artʃuiʃtari|wordform=a-r-tʃuiʃ-a-tV-ri
-5	tas	tas	PRON	PRO	_	6	dep	_	AlignBegin=152169|AlignEnd=152673|Gloss=PRO1|MGloss=PRO1|MSeg=tas|nWord=5|RX=[PRO]|TokenType=Root|Word=tas
-6	=ma	=ma	PART	PRT	_	4	dep	_	AlignBegin=152673|AlignEnd=153180|Gloss==TOP|MGloss==TOP|MSeg==ma|nWord=6|RX=[PRT]|TokenType=Clit|Word=ma
+5	tas	tas	PRON	PRO	_	4	nsubj	_	AlignBegin=152169|AlignEnd=152673|Gloss=PRO1|MGloss=PRO1|MSeg=tas|nWord=5|RX=[PRO]|TokenType=Root|Word=tas
+6	=ma	=ma	PART	PRT	_	5	case	_	AlignBegin=152673|AlignEnd=153180|Gloss==TOP|MGloss==TOP|MSeg==ma|nWord=6|RX=[PRT]|TokenType=Clit|Word=ma
 
 ~~~
 
@@ -71,13 +71,13 @@ The following 4 pairs of parts of speech are connected with `appos`: <tt><a href
 3	,	_	PUNCT	_	_	2	punct	_	AlignBegin=76705|AlignEnd=77027|MSeg=,|nWord=3|Word=,
 4	ah	ah	INTJ	_	_	22	dep:conj	_	AlignBegin=77027|AlignEnd=77349|Gloss=INTERJ|MGloss=INTERJ|MSeg=ah|nWord=4|RX=[INTERJ]|TokenType=Root|Word=aa
 5	,	_	PUNCT	_	_	4	punct	_	AlignBegin=77349|AlignEnd=77671|MSeg=,|nWord=5|Word=,
-6	ã	ã	PRON	_	_	7	det	_	AlignBegin=77671|AlignEnd=77993|Gloss=DIST.DEM|MGloss=DIST.DEM|MSeg=ã|nWord=6|RX=[PRO]|TokenType=Root|Word=ã
+6	ã	ã	PRON	_	ExtPos=DET	7	det	_	AlignBegin=77671|AlignEnd=77993|Gloss=DIST.DEM|MGloss=DIST.DEM|MSeg=ã|nWord=6|RX=[PRO]|TokenType=Root|Word=ã
 7	peʃ	peʃ	NOUN	_	_	22	nsubj	_	AlignBegin=77993|AlignEnd=78315|Gloss=people|MGloss=people|MSeg=peʃ|nWord=7|RX=[N]|TokenType=Root|Word=peʃ
 8	ʃuwa	ʃuwa	NOUN	_	_	7	nmod	_	AlignBegin=78315|AlignEnd=78637|Gloss=old.man|MGloss=old.man|MSeg=ʃuwa|nWord=8|RX=[N]|TokenType=Root|Word=wa
 9	,	_	PUNCT	_	_	8	punct	_	AlignBegin=78637|AlignEnd=78959|MSeg=,|nWord=9|Word=,
 10	ãma	ãma	PART	_	_	13	discourse	_	AlignBegin=78959|AlignEnd=79281|Gloss=HES|MGloss=HES|MSeg=ãma|nWord=10|RX=[PRT]|TokenType=Root|Word=ãma
 11	,	_	PUNCT	_	_	10	punct	_	AlignBegin=79281|AlignEnd=79603|MSeg=,|nWord=11|Word=,
-12	ã	ã	PRON	_	_	13	det	_	AlignBegin=79603|AlignEnd=79925|Gloss=DIST.DEM|MGloss=DIST.DEM|MSeg=ã|nWord=12|RX=[PRO]|TokenType=Root|Word=ã
+12	ã	ã	PRON	_	ExtPos=DET	13	det	_	AlignBegin=79603|AlignEnd=79925|Gloss=DIST.DEM|MGloss=DIST.DEM|MSeg=ã|nWord=12|RX=[PRO]|TokenType=Root|Word=ã
 13	peʃ	peʃ	NOUN	_	_	7	reparandum	_	AlignBegin=79925|AlignEnd=80247|Gloss=people|MGloss=people|MSeg=peʃ|nWord=13|RX=[N]|TokenType=Root|Word=peʃ
 14	ʃuwa	ʃuwa	NOUN	_	_	13	nmod	_	AlignBegin=80247|AlignEnd=80569|Gloss=old.man|MGloss=old.man|MSeg=ʃuwa|nWord=14|RX=[N]|TokenType=Root|Word=wa
 15	,	_	PUNCT	_	_	14	punct	_	AlignBegin=80569|AlignEnd=80891|MSeg=,|nWord=15|Word=,

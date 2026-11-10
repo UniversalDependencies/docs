@@ -13,7 +13,7 @@ This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with t
 
 11 tokens (0%) have a non-empty value of `Voice[add]`.
 11 types (0%) occur at least once with a non-empty value of `Voice[add]`.
-7 lemmas (1%) occur at least once with a non-empty value of `Voice[add]`.
+7 lemmas (0%) occur at least once with a non-empty value of `Voice[add]`.
 The feature is used with 1 part-of-speech tags: <tt><a href="ruc_rdt-pos-VERB.html">VERB</a></tt> (11; 0% instances).
 
 ### `VERB`

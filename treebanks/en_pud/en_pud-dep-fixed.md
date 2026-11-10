@@ -26,7 +26,7 @@ The following 12 pairs of parts of speech are connected with `fixed`: <tt><a hre
 2	than	than	ADP	IN	_	1	fixed	1:fixed	_
 3	330	330	NUM	CD	NumForm=Digit|NumType=Card	4	nummod	4:nummod	_
 4	crew	crew	NOUN	NNS	Number=Plur	8	nsubj	8:nsubj	_
-5	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	cop	8:cop	_
+5	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	cop	8:cop	_
 6	onboard	onboard	ADP	IN	_	8	case	8:case	_
 7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	8:det	_
 8	ship	ship	NOUN	NN	Number=Sing	0	root	0:root	SpaceAfter=No
@@ -42,7 +42,7 @@ The following 12 pairs of parts of speech are connected with `fixed`: <tt><a hre
 # visual-style 16	fgColor:white
 # visual-style 16 17 fixed	color:blue
 1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	nsubj	2:nsubj|4:nsubj:xsubj	_
-2	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+2	have	have	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 3	to	to	PART	TO	_	4	mark	4:mark	_
 4	stand	stand	VERB	VB	VerbForm=Inf	2	xcomp	2:xcomp	_
 5	up	up	ADP	RP	_	4	compound:prt	4:compound:prt	_
@@ -53,7 +53,7 @@ The following 12 pairs of parts of speech are connected with `fixed`: <tt><a hre
 10	would	would	AUX	MD	VerbForm=Fin	11	aux	11:aux	_
 11	rather	rather	VERB	VB	VerbForm=Inf	2	conj	2:conj:and	_
 12	someone	someone	PRON	NN	Number=Sing|PronType=Ind	13	nsubj	13:nsubj|19:nsubj	_
-13	ran	run	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	11	ccomp	11:ccomp	_
+13	ran	run	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	ccomp	11:ccomp	_
 14	at	at	ADP	IN	_	15	case	15:case	_
 15	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	13	obl	13:obl:at	_
 16	rather	rather	ADV	RB	ExtPos=CCONJ	19	cc	19:cc	_

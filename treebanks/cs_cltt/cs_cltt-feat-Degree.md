@@ -18,7 +18,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="cs_cltt-pos-ADJ.htm
 
 6313 <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> tokens (95% of all `ADJ` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (6183; 98%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3908; 62%), <tt><a href="cs_cltt-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (3776; 60%).
+The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (6183; 98%), <tt><a href="cs_cltt-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (5246; 83%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3908; 62%), <tt><a href="cs_cltt-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (3776; 60%).
 
 `ADJ` tokens may have the following values of `Degree`:
 
@@ -54,7 +54,7 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
 * `Cmp` (71; 26% of non-empty `Degree`): <em>více, později, nejméně, nejpozději, výše, nejvýše, dále, méně, dříve, nejblíže</em>
 * `Pos` (197; 71% of non-empty `Degree`): <em>obdobně, případně, samostatně, bezprostředně, přímo, odděleně, bezúplatně, přiměřeně, současně, vždy</em>
 * `Sup` (8; 3% of non-empty `Degree`): <em>nejpozději, nejméně, nejdříve</em>
-* `EMPTY` (499): <em>dále, zejména, popřípadě, jinak, pouze, kdy, též, například, tak, celkem</em>
+* `EMPTY` (501): <em>dále, zejména, popřípadě, jinak, pouze, kdy, též, tak, například, celkem</em>
 
 <table>
   <tr><th>Paradigm <i>pozdě</i></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>

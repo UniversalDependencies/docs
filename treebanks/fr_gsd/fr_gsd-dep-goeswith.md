@@ -64,7 +64,7 @@ The following 4 pairs of parts of speech are connected with `goeswith`: <tt><a h
 # visual-style 7	fgColor:white
 # visual-style 7 8 goeswith	color:blue
 1	En	en	ADP	_	_	2	case	_	wordform=en
-2	1866	1866	NUM	_	Number=Sing	11	obl:mod	_	Exponence[Number]=Inherent
+2	1866	1866	NUM	_	ExtPos=PROPN|Number=Sing	11	obl:mod	_	Exponence[Number]=Inherent
 3	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
 4	catégorie	catégorie	NOUN	_	Gender=Fem|Number=Sing	11	nsubj:pass	_	Exponence[Gender]=Inherent
 5	nouvelle	nouveau	ADJ	_	Gender=Fem|Number=Sing	4	amod	_	SpaceAfter=No
@@ -73,7 +73,7 @@ The following 4 pairs of parts of speech are connected with `goeswith`: <tt><a h
 8	croix	_	X	_	_	7	goeswith	_	SpaceAfter=No
 9	,	,	PUNCT	_	_	7	punct	_	_
 10	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux:pass	_	_
-11	créée	créer	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No|Tense[denom]=Past
+11	créée	créer	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No|Status[Tense]=Denom
 12	.	.	PUNCT	_	_	11	punct	_	_
 
 ~~~

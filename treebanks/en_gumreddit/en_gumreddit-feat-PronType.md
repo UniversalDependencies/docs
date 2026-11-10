@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal but the values `Emp` are language-specific.
 It occurs with 9 different values: `Art`, `Dem`, `Emp`, `Ind`, `Int`, `Neg`, `Prs`, `Rel`, `Tot`.
 
-3390 tokens (21%) have a non-empty value of `PronType`.
+3465 tokens (21%) have a non-empty value of `PronType`.
 1 types (0) occur at least once with a non-empty value of `PronType`.
 1 lemmas (0) occur at least once with a non-empty value of `PronType`.
-The feature is used with 3 part-of-speech tags: <tt><a href="en_gumreddit-pos-PRON.html">PRON</a></tt> (1963; 12% instances), <tt><a href="en_gumreddit-pos-DET.html">DET</a></tt> (1236; 8% instances), <tt><a href="en_gumreddit-pos-ADV.html">ADV</a></tt> (191; 1% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="en_gumreddit-pos-PRON.html">PRON</a></tt> (1963; 12% instances), <tt><a href="en_gumreddit-pos-DET.html">DET</a></tt> (1236; 8% instances), <tt><a href="en_gumreddit-pos-ADV.html">ADV</a></tt> (266; 2% instances).
 
 ### `PRON`
 
@@ -39,23 +39,25 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 
 * `Art` (963; 78% of non-empty `PronType`): <em>_</em>
 * `Dem` (93; 8% of non-empty `PronType`): <em>_</em>
-* `Ind` (113; 9% of non-empty `PronType`): <em>_</em>
+* `Ind` (110; 9% of non-empty `PronType`): <em>_</em>
 * `Int` (11; 1% of non-empty `PronType`): <em>_</em>
 * `Neg` (28; 2% of non-empty `PronType`): <em>_</em>
-* `Tot` (28; 2% of non-empty `PronType`): <em>_</em>
+* `Tot` (31; 3% of non-empty `PronType`): <em>_</em>
 
 ### `ADV`
 
-191 <tt><a href="en_gumreddit-pos-ADV.html">ADV</a></tt> tokens (17% of all `ADV` tokens) have a non-empty value of `PronType`.
+266 <tt><a href="en_gumreddit-pos-ADV.html">ADV</a></tt> tokens (24% of all `ADV` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `ADV` and `PronType` co-occurred: <tt><a href="en_gumreddit-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (191; 100%).
+The most frequent other feature values with which `ADV` and `PronType` co-occurred: <tt><a href="en_gumreddit-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (254; 95%).
 
 `ADV` tokens may have the following values of `PronType`:
 
-* `Dem` (62; 32% of non-empty `PronType`): <em>_</em>
-* `Int` (99; 52% of non-empty `PronType`): <em>_</em>
-* `Rel` (30; 16% of non-empty `PronType`): <em>_</em>
-* `EMPTY` (914): <em>_</em>
+* `Dem` (79; 30% of non-empty `PronType`): <em>_</em>
+* `Int` (99; 37% of non-empty `PronType`): <em>_</em>
+* `Neg` (23; 9% of non-empty `PronType`): <em>_</em>
+* `Rel` (30; 11% of non-empty `PronType`): <em>_</em>
+* `Tot` (35; 13% of non-empty `PronType`): <em>_</em>
+* `EMPTY` (838): <em>_</em>
 
 ## Relations with Agreement in `PronType`
 

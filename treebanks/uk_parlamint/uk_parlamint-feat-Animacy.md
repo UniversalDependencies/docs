@@ -62,7 +62,7 @@ The most frequent other feature values with which `PRON` and `Animacy` co-occurr
 * `Anim` (3277; 68% of non-empty `Animacy`): <em>ми, я, ви, нас, вас, нам, хто, вам, мене, вами</em>
 * `Anim,Inan` (1; 0% of non-empty `Animacy`): <em>їх</em>
 * `Inan` (1539; 32% of non-empty `Animacy`): <em>це, того, те, що, все, цього, тим, тому, цим, цьому</em>
-* `EMPTY` (1192): <em>вони, він, це, їх, вона, його, які, її, них, себе</em>
+* `EMPTY` (1190): <em>вони, він, це, їх, вона, його, які, її, них, себе</em>
 
 <table>
   <tr><th>Paradigm <i>те</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
@@ -130,7 +130,7 @@ The most frequent other feature values with which `DET` and `Animacy` co-occurre
 
 * `Anim` (63; 10% of non-empty `Animacy`): <em>всіх, наших, тих, своїх, якого, кожного, одного, усіх, яких, іншого</em>
 * `Inan` (570; 90% of non-empty `Animacy`): <em>цей, свої, всі, які, ці, який, ті, той, наш, такі</em>
-* `EMPTY` (3636): <em>які, цього, яка, який, цю, всі, це, цієї, наша, всіх</em>
+* `EMPTY` (3637): <em>які, цього, яка, який, цю, всі, це, цієї, наша, всіх</em>
 
 <table>
   <tr><th>Paradigm <i>цей</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
@@ -153,14 +153,14 @@ The most frequent other feature values with which `NUM` and `Animacy` co-occurre
 ## Relations with Agreement in `Animacy`
 
 The 10 most frequent relations where parent and child node agree in `Animacy`:
-<tt>NOUN --[<tt><a href="uk_parlamint-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (7527; 85%),
+<tt>NOUN --[<tt><a href="uk_parlamint-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (7281; 85%),
 <tt>NOUN --[<tt><a href="uk_parlamint-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1874; 95%),
 <tt>PROPN --[<tt><a href="uk_parlamint-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (973; 100%),
-<tt>NOUN --[<tt><a href="uk_parlamint-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (932; 74%),
-<tt>NOUN --[<tt><a href="uk_parlamint-dep-appos.html">appos</a></tt>]--> NOUN</tt> (466; 93%),
-<tt>NOUN --[<tt><a href="uk_parlamint-dep-appos.html">appos</a></tt>]--> PROPN</tt> (420; 97%),
-<tt>NOUN --[<tt><a href="uk_parlamint-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (254; 86%),
+<tt>NOUN --[<tt><a href="uk_parlamint-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (935; 74%),
+<tt>NOUN --[<tt><a href="uk_parlamint-dep-appos.html">appos</a></tt>]--> NOUN</tt> (432; 92%),
+<tt>NOUN --[<tt><a href="uk_parlamint-dep-appos.html">appos</a></tt>]--> PROPN</tt> (397; 97%),
+<tt>NOUN --[<tt><a href="uk_parlamint-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (253; 86%),
 <tt>PROPN --[<tt><a href="uk_parlamint-dep-conj.html">conj</a></tt>]--> PROPN</tt> (157; 100%),
-<tt>NOUN --[<tt><a href="uk_parlamint-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (136; 94%),
+<tt>NOUN --[<tt><a href="uk_parlamint-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (137; 94%),
 <tt>PROPN --[<tt><a href="uk_parlamint-dep-conj.html">conj</a></tt>]--> NOUN</tt> (103; 83%).
 

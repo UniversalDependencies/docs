@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-535 nodes (1%) are attached to their parents as `ccomp`.
+684 nodes (1%) are attached to their parents as `ccomp`.
 
-533 instances of `ccomp` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 14.7345794392523.
+682 instances of `ccomp` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 14.5482456140351.
 
-The following 8 pairs of parts of speech are connected with `ccomp`: <tt><a href="pro_corag-pos-VERB.html">VERB</a></tt>-<tt><a href="pro_corag-pos-VERB.html">VERB</a></tt> (471; 88% instances), <tt><a href="pro_corag-pos-VERB.html">VERB</a></tt>-<tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt> (22; 4% instances), <tt><a href="pro_corag-pos-VERB.html">VERB</a></tt>-<tt><a href="pro_corag-pos-ADJ.html">ADJ</a></tt> (21; 4% instances), <tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pro_corag-pos-VERB.html">VERB</a></tt> (10; 2% instances), <tt><a href="pro_corag-pos-VERB.html">VERB</a></tt>-<tt><a href="pro_corag-pos-ADV.html">ADV</a></tt> (5; 1% instances), <tt><a href="pro_corag-pos-VERB.html">VERB</a></tt>-<tt><a href="pro_corag-pos-PRON.html">PRON</a></tt> (4; 1% instances), <tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="pro_corag-pos-VERB.html">VERB</a></tt>-<tt><a href="pro_corag-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `ccomp`: <tt><a href="pro_corag-pos-VERB.html">VERB</a></tt>-<tt><a href="pro_corag-pos-VERB.html">VERB</a></tt> (612; 89% instances), <tt><a href="pro_corag-pos-VERB.html">VERB</a></tt>-<tt><a href="pro_corag-pos-ADJ.html">ADJ</a></tt> (25; 4% instances), <tt><a href="pro_corag-pos-VERB.html">VERB</a></tt>-<tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt> (25; 4% instances), <tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pro_corag-pos-VERB.html">VERB</a></tt> (10; 1% instances), <tt><a href="pro_corag-pos-VERB.html">VERB</a></tt>-<tt><a href="pro_corag-pos-ADV.html">ADV</a></tt> (5; 1% instances), <tt><a href="pro_corag-pos-VERB.html">VERB</a></tt>-<tt><a href="pro_corag-pos-PRON.html">PRON</a></tt> (4; 1% instances), <tt><a href="pro_corag-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pro_corag-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="pro_corag-pos-VERB.html">VERB</a></tt>-<tt><a href="pro_corag-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -26,7 +26,7 @@ The following 8 pairs of parts of speech are connected with `ccomp`: <tt><a href
 2	los	_	DET	_	_	3	det	_	_
 3	domengers	_	NOUN	_	_	5	nsubj	_	_
 4	que	_	SCONJ	_	_	5	mark	_	_
-5	jurin	_	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+5	jurin	_	VERB	_	Number=Plur|Person=3|VerbForm=Fin	0	root	_	SpaceAfter=No
 6	:	_	PUNCT	_	_	5	punct	_	_
 7	«	_	PUNCT	_	_	13	punct	_	_
 8	Per	_	ADP	_	_	10	case	_	_
@@ -37,6 +37,33 @@ The following 8 pairs of parts of speech are connected with `ccomp`: <tt><a href
 13	ditz	_	VERB	_	Number=Plur|Person=2|VerbForm=Fin	5	ccomp	_	SpaceAfter=No
 14	»	_	PUNCT	_	_	13	punct	_	SpaceAfter=No
 15	;	_	PUNCT	_	_	5	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 16	bgColor:blue
+# visual-style 16	fgColor:white
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 11 16 ccomp	color:blue
+1	presenti	_	VERB	_	Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
+2	se	_	PRON	_	Person=3|PronType=Prs|Reflex=Yes	1	expl	_	_
+3	de	_	ADP	_	_	4	mark	_	_
+4	proar	_	VERB	_	VerbForm=Inf	1	xcomp	_	_
+5	a	_	ADP	_	_	6	case	_	_
+6	esgard	_	NOUN	_	_	4	obl	_	_
+7	de	_	ADP	_	_	9	case	_	_
+8	la	_	DET	_	_	9	det	_	_
+9	cort	_	NOUN	_	_	6	nmod	_	_
+10	et	_	CCONJ	_	_	11	cc	_	_
+11	digue	_	VERB	_	Number=Sing|Person=3|VerbForm=Fin	1	conj	_	_
+12	que	_	SCONJ	_	_	16	mark	_	_
+13	la	_	DET	_	_	14	det	_	_
+14	prave	_	NOUN	_	_	16	nsubj	_	_
+15	es	_	AUX	_	Number=Sing|Person=3|VerbForm=Fin	16	cop	_	_
+16	soe	_	ADJ	_	_	11	ccomp	_	SpaceAfter=No
+17	.	_	PUNCT	_	_	1	punct	_	_
 
 ~~~
 
@@ -78,33 +105,6 @@ The following 8 pairs of parts of speech are connected with `ccomp`: <tt><a href
 29	son	_	DET	_	_	30	det	_	_
 30	vic	_	NOUN	_	_	27	obl	_	SpaceAfter=No
 31	.	_	PUNCT	_	_	30	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 16	bgColor:blue
-# visual-style 16	fgColor:white
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 11 16 ccomp	color:blue
-1	presenti	_	VERB	_	Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
-2	se	_	PRON	_	Person=3|PronType=Prs|Reflex=Yes	1	expl	_	_
-3	de	_	ADP	_	_	4	mark	_	_
-4	proar	_	VERB	_	VerbForm=Inf	1	xcomp	_	_
-5	a	_	ADP	_	_	6	case	_	_
-6	esgard	_	NOUN	_	_	4	obl	_	_
-7	de	_	ADP	_	_	9	case	_	_
-8	la	_	DET	_	_	9	det	_	_
-9	cort	_	NOUN	_	_	6	nmod	_	_
-10	et	_	CCONJ	_	_	11	cc	_	_
-11	digue	_	VERB	_	Number=Sing|Person=3|VerbForm=Fin	1	conj	_	_
-12	que	_	SCONJ	_	_	16	mark	_	_
-13	la	_	DET	_	_	14	det	_	_
-14	prave	_	NOUN	_	_	16	nsubj	_	_
-15	es	_	AUX	_	Number=Sing|Person=3|VerbForm=Fin	16	cop	_	_
-16	soe	_	ADJ	_	_	11	ccomp	_	SpaceAfter=No
-17	.	_	PUNCT	_	_	1	punct	_	_
 
 ~~~
 

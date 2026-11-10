@@ -23,7 +23,7 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 `VERB` tokens may have the following values of `Tense`:
 
 * `Fut` (5; 10% of non-empty `Tense`): <em>bia, chechladar, creitfess, gigeste, ririu</em>
-* `Past` (13; 25% of non-empty `Tense`): <em>anicc, bered, berinn, carad, chretsit, gníthe, nropridchissem, rocomalnisid, ronóibad, rreractid</em>
+* `Past` (13; 25% of non-empty `Tense`): <em>anicc, bered, berinn, carad, chretsit, comalnisid, gníthe, nóibad, pridchissem, rreractid</em>
 * `Pres` (33; 65% of non-empty `Tense`): <em>tá, ail, arim, beir, beo, bera, biur, biuu, certa, denim</em>
 * `EMPTY` (4): <em>amlid, gaibid, léic, mil</em>
 

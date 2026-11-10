@@ -11,9 +11,9 @@ This relation is universal.
 89 nodes (0%) are attached to their parents as `dep`.
 
 75 instances of `dep` (84%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.80898876404494.
+Average distance between parent and child is 5.78651685393258.
 
-The following 36 pairs of parts of speech are connected with `dep`: <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> (10; 11% instances), <tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> (8; 9% instances), <tt><a href="ca_ancora-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ca_ancora-pos-PROPN.html">PROPN</a></tt> (6; 7% instances), <tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="ca_ancora-pos-INTJ.html">INTJ</a></tt> (5; 6% instances), <tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt> (5; 6% instances), <tt><a href="ca_ancora-pos-ADV.html">ADV</a></tt>-<tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> (4; 4% instances), <tt><a href="ca_ancora-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ca_ancora-pos-INTJ.html">INTJ</a></tt> (4; 4% instances), <tt><a href="ca_ancora-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> (4; 4% instances), <tt><a href="ca_ancora-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> (3; 3% instances), <tt><a href="ca_ancora-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> (3; 3% instances), <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt> (3; 3% instances), <tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="ca_ancora-pos-PROPN.html">PROPN</a></tt> (3; 3% instances), <tt><a href="ca_ancora-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ca_ancora-pos-SYM.html">SYM</a></tt> (2; 2% instances), <tt><a href="ca_ancora-pos-ADV.html">ADV</a></tt>-<tt><a href="ca_ancora-pos-PROPN.html">PROPN</a></tt> (2; 2% instances), <tt><a href="ca_ancora-pos-ADV.html">ADV</a></tt>-<tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt> (2; 2% instances), <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ca_ancora-pos-ADJ.html">ADJ</a></tt> (2; 2% instances), <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ca_ancora-pos-PROPN.html">PROPN</a></tt> (2; 2% instances), <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt> (2; 2% instances), <tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt> (2; 2% instances), <tt><a href="ca_ancora-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ca_ancora-pos-INTJ.html">INTJ</a></tt> (1; 1% instances), <tt><a href="ca_ancora-pos-ADV.html">ADV</a></tt>-<tt><a href="ca_ancora-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="ca_ancora-pos-ADV.html">ADV</a></tt>-<tt><a href="ca_ancora-pos-INTJ.html">INTJ</a></tt> (1; 1% instances), <tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt>-<tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="ca_ancora-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="ca_ancora-pos-DET.html">DET</a></tt>-<tt><a href="ca_ancora-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="ca_ancora-pos-DET.html">DET</a></tt>-<tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="ca_ancora-pos-DET.html">DET</a></tt>-<tt><a href="ca_ancora-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="ca_ancora-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ca_ancora-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="ca_ancora-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ca_ancora-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="ca_ancora-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ca_ancora-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt>-<tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt>-<tt><a href="ca_ancora-pos-INTJ.html">INTJ</a></tt> (1; 1% instances), <tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt>-<tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="ca_ancora-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ca_ancora-pos-SYM.html">SYM</a></tt> (1; 1% instances).
+The following 36 pairs of parts of speech are connected with `dep`: <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> (10; 11% instances), <tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> (8; 9% instances), <tt><a href="ca_ancora-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> (5; 6% instances), <tt><a href="ca_ancora-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ca_ancora-pos-PROPN.html">PROPN</a></tt> (5; 6% instances), <tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="ca_ancora-pos-INTJ.html">INTJ</a></tt> (5; 6% instances), <tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt> (5; 6% instances), <tt><a href="ca_ancora-pos-ADV.html">ADV</a></tt>-<tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> (4; 4% instances), <tt><a href="ca_ancora-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ca_ancora-pos-INTJ.html">INTJ</a></tt> (4; 4% instances), <tt><a href="ca_ancora-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> (3; 3% instances), <tt><a href="ca_ancora-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> (3; 3% instances), <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt> (3; 3% instances), <tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="ca_ancora-pos-PROPN.html">PROPN</a></tt> (3; 3% instances), <tt><a href="ca_ancora-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ca_ancora-pos-SYM.html">SYM</a></tt> (2; 2% instances), <tt><a href="ca_ancora-pos-ADV.html">ADV</a></tt>-<tt><a href="ca_ancora-pos-PROPN.html">PROPN</a></tt> (2; 2% instances), <tt><a href="ca_ancora-pos-ADV.html">ADV</a></tt>-<tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt> (2; 2% instances), <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ca_ancora-pos-ADJ.html">ADJ</a></tt> (2; 2% instances), <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ca_ancora-pos-PROPN.html">PROPN</a></tt> (2; 2% instances), <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt> (2; 2% instances), <tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt> (2; 2% instances), <tt><a href="ca_ancora-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ca_ancora-pos-INTJ.html">INTJ</a></tt> (1; 1% instances), <tt><a href="ca_ancora-pos-ADV.html">ADV</a></tt>-<tt><a href="ca_ancora-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="ca_ancora-pos-ADV.html">ADV</a></tt>-<tt><a href="ca_ancora-pos-INTJ.html">INTJ</a></tt> (1; 1% instances), <tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt>-<tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="ca_ancora-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="ca_ancora-pos-DET.html">DET</a></tt>-<tt><a href="ca_ancora-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="ca_ancora-pos-DET.html">DET</a></tt>-<tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="ca_ancora-pos-DET.html">DET</a></tt>-<tt><a href="ca_ancora-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="ca_ancora-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ca_ancora-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="ca_ancora-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ca_ancora-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="ca_ancora-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ca_ancora-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt>-<tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt>-<tt><a href="ca_ancora-pos-INTJ.html">INTJ</a></tt> (1; 1% instances), <tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt>-<tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="ca_ancora-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ca_ancora-pos-SYM.html">SYM</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -22,10 +22,10 @@ The following 36 pairs of parts of speech are connected with `dep`: <tt><a href=
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
 # visual-style 11 14 dep	color:blue
-1	Ferran	Ferran	PROPN	np0000p	_	5	nsubj	5:nsubj	MWE=Ferran_Gallego|MWEPOS=PROPN|ArgTem=arg1:pat|Entity=(CESSCATAAP2001040243c8-person-1-gstype:spec
+1	Ferran	Ferran	PROPN	np0000p	_	5	nsubj:pass	5:nsubj:pass	MWE=Ferran_Gallego|MWEPOS=PROPN|ArgTem=arg1:pat|Entity=(CESSCATAAP2001040243c8-person-1-gstype:spec
 2	Gallego	Gallego	PROPN	_	_	1	flat	1:flat	Entity=CESSCATAAP2001040243c8)
 3	va	anar	AUX	vaip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	5:aux	_
-4	ser	ser	AUX	vsn0000	VerbForm=Inf	5	aux	5:aux	_
+4	ser	ser	AUX	vsn0000	VerbForm=Inf	5	aux:pass	5:aux:pass	_
 5	escollit	escollir	VERB	vmp00sm	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	0:root	_
 6	per	per	ADP	sps00	_	9	case	9:case	_
 7	a	a	ADP	spcms	_	9	case	9:case	_
@@ -74,55 +74,65 @@ The following 36 pairs of parts of speech are connected with `dep`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 33	bgColor:blue
-# visual-style 33	fgColor:white
-# visual-style 28	bgColor:blue
-# visual-style 28	fgColor:white
-# visual-style 28 33 dep	color:blue
-1	Per	per	ADP	sps00	_	2	mark	2:mark	_
-2	aclarir	aclarir	VERB	vmn0000	VerbForm=Inf	7	advcl	7:advcl	ArgTem=argM:fin
-3	possibles	possible	ADJ	aq0cp0	Number=Plur	4	amod	4:amod	Entity=(NOCOREF:Gen--2-gstype:gen
-4	perills	perill	NOUN	ncmp000	Gender=Masc|Number=Plur	2	obj	2:obj	ArgTem=arg1:pat|Entity=NOCOREF:Gen)
-5	s'	ell	PRON	p0000000	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	7	obj	7:obj	SpaceAfter=No
-6	ha	haver	AUX	vaip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	7:aux	_
-7	iniciat	iniciar	VERB	vmp00sm	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	0:root	_
-8	un	un	DET	di0ms0	Gender=Masc|Number=Sing|PronType=Ind	9	det	9:det	Entity=(CESSCATAAP2000050240c4-other-2-gstype:spec
-9	programa	programa	NOUN	ncms000	Gender=Masc|Number=Sing	7	nsubj	7:nsubj	ArgTem=arg1:pat
-10	europeu	europeu	ADJ	aq0ms0	Gender=Masc|Number=Sing	9	amod	9:amod	SpaceAfter=No
-11	,	,	PUNCT	fc	PunctType=Comm	12	punct	12:punct	_
-12	denominat	denominat	ADJ	aq0msp	Gender=Masc|Number=Sing|VerbForm=Part	9	amod	9:amod	_
-13	Reflex	Reflex	PROPN	np0000a	_	12	obj	12:obj	MWE=Reflex_2000-2003|MWEPOS=PROPN|ArgTem=arg2:atr|Entity=(CESSCATAAP2000050240c4-other-1-CorefType:pred.definit,gstype:spec
-14	2000-2003	2000-2003	NUM	_	NumForm=Digit|NumType=Card	13	nummod	13:nummod	SpaceAfter=No|Entity=CESSCATAAP2000050240c4)
-15	,	,	PUNCT	fc	PunctType=Comm	12	punct	12:punct	_
-16	en	en	ADP	sps00	_	17	case	17:case	_
-17	què	què	PRON	pr0cn000	PronType=Rel	18	obl:arg	18:obl:arg	ArgTem=arg1:tem|Entity=(CESSCATAAP2000050240c4-other-1-CorefType:ident,gstype:spec)
-18	participen	participar	VERB	vmip3p0	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	acl:relcl	9:acl:relcl	_
-19	nou	nou	NUM	dn0cp0	Number=Plur|NumForm=Word|NumType=Card	20	nummod	20:nummod	Entity=(CESSCATAAP2000050240c5--2-gstype:gen
-20	centres	centre	NOUN	ncmp000	Gender=Masc|Number=Plur	18	nsubj	18:nsubj	ArgTem=arg0:agt
-21	d'	de	ADP	sps00	_	22	case	22:case	SpaceAfter=No
-22	Alemanya	Alemanya	PROPN	np0000l	_	20	nmod	20:nmod	SpaceAfter=No|Entity=(NOCOREF:Spec.location-place-1-gstype:spec)
-23	,	,	PUNCT	fc	PunctType=Comm	25	punct	25:punct	_
-24	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	25	det	25:det	Entity=(NOCOREF:Spec.location-place-2-gstype:spec
-25	Gran	gran	ADJ	np0000l	_	22	flat	22:flat	MWE=Gran_Bretanya|MWEPOS=PROPN
-26	Bretanya	Bretanya	PROPN	_	_	25	flat	25:flat	SpaceAfter=No|Entity=NOCOREF:Spec.location)
-27	,	,	PUNCT	fc	PunctType=Comm	28	punct	28:punct	_
-28	Espanya	Espanya	PROPN	np0000l	_	22	flat	22:flat	Entity=(CESSCATAAP2000050240c18-place-1-gstype:spec
-29	-	-	PUNCT	fg	PunctType=Dash	33	punct	33:punct	_
-30	entre	entre	ADP	sps00	_	31	case	31:case	_
-31	ells	ell	PRON	pp3mp000	Gender=Masc|Number=Plur|Person=3|PronType=Prs	33	nmod	33:nmod	Entity=(CESSCATAAP2000050240c5--1-CorefType:ident,gstype:gen)
-32	l'	el	DET	da0cs0	Definite=Def|Number=Sing|PronType=Art	33	det	33:det	SpaceAfter=No|Entity=(NOCOREF:Spec.organization-organization-2-gstype:spec
-33	Hospital	Hospital	PROPN	np0000o	_	28	dep	28:dep	MWE=Hospital_Ramón_y_Cajal|MWEPOS=PROPN
-34	Ramón	Ramón	PROPN	_	_	33	flat	33:flat	_
-35	y	y	CCONJ	_	_	36	cc	36:cc	_
-36	Cajal	Cajal	PROPN	_	_	33	conj	33:conj	_
-37	de	de	ADP	sps00	_	38	case	38:case	_
-38	Madrid	Madrid	PROPN	np0000l	_	33	nmod	33:nmod	Entity=(NOCOREF:Spec.location-place-1-gstype:spec)NOCOREF:Spec.organization)
-39	-	-	PUNCT	fg	PunctType=Dash	33	punct	33:punct	SpaceAfter=No|Entity=CESSCATAAP2000050240c18)
-40	,	,	PUNCT	fc	PunctType=Comm	41	punct	41:punct	_
-41	Suècia	Suècia	PROPN	np0000l	_	22	flat	22:flat	Entity=(NOCOREF:Spec.location-place-1-gstype:spec)
-42	i	i	CCONJ	cc	_	43	cc	43:cc	_
-43	França	França	PROPN	np0000l	_	22	conj	22:conj	SpaceAfter=No|Entity=(NOCOREF:Spec.location-place-1-gstype:spec)CESSCATAAP2000050240c5)CESSCATAAP2000050240c4)
-44	.	.	PUNCT	fp	PunctType=Peri	7	punct	7:punct	_
+# visual-style 35	bgColor:blue
+# visual-style 35	fgColor:white
+# visual-style 26	bgColor:blue
+# visual-style 26	fgColor:white
+# visual-style 26 35 dep	color:blue
+1	També	també	ADV	rg	_	3	advmod	3:advmod	_
+2	hi	hi	PRON	pp3cn000	Case=Loc|Person=3|PronType=Prs	3	obl:arg	3:obl:arg	_
+3	ha	haver	VERB	vmip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+4	les	el	DET	da0fp0	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	5:det	Entity=(NOCOREF:Gen--2-gstype:gen,HomoDD
+5	millores	millora	NOUN	ncfp000	Gender=Fem|Number=Plur	3	obj	3:obj	ArgTem=arg1:tem
+6	de	de	ADP	sps00	_	8	case	8:case	_
+7	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	8:det	Entity=(NOCOREF:Spec.location-place-2-gstype:spec
+8	L-511	l-511	PROPN	np0000l	_	5	nmod	5:nmod	_
+9	d'	de	ADP	sps00	_	10	case	10:case	SpaceAfter=No
+10	Isona	Isona	PROPN	np0000l	_	8	nmod	8:nmod	Entity=(CESSCATAAP2001071735555c17-place-1-gstype:spec)
+11	a	a	ADP	sps00	_	12	case	12:case	_
+12	Coll	Coll	PROPN	np0000l	_	10	nmod	10:nmod	MWE=Coll_de_Nargó|MWEPOS=PROPN|Entity=(NOCOREF:Spec.location-place-1-gstype:spec
+13	de	de	ADP	_	_	14	case	14:case	_
+14	Nargó	Nargó	PROPN	_	_	12	flat	12:flat	Entity=NOCOREF:Spec.location)
+15	concretament	concretament	ADV	rg	_	17	advmod	17:advmod	_
+16	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	17:det	Entity=(NOCOREF:Gen--2-gstype:gen
+17	tram	tram	NOUN	ncms000	Gender=Masc|Number=Sing	8	appos	8:appos	_
+18	pallarès	pallarès	ADJ	aq0ms0	Gender=Masc|Number=Sing	17	amod	17:amod	Entity=NOCOREF:Gen)
+19	(	(	PUNCT	fpa	PunctSide=Ini|PunctType=Brck	21	punct	21:punct	SpaceAfter=No
+20	430	430	NUM	_	NumForm=Digit|NumType=Card	21	nummod	21:nummod	_
+21	milions	milió	NOUN	ncmp000	Gender=Masc|Number=Plur	8	dep	8:dep	SpaceAfter=No
+22	)	)	PUNCT	fpt	PunctSide=Fin|PunctType=Brck	21	punct	21:punct	Entity=NOCOREF:Spec.location)
+23	i	i	CCONJ	cc	_	26	cc	26:cc	_
+24	de	de	ADP	sps00	_	26	case	26:case	_
+25	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	26	det	26:det	Entity=(NOCOREF:Spec.location-place-2-gstype:spec
+26	L-311	l-311	PROPN	np0000l	_	8	conj	8:conj	_
+27	entre	entre	ADP	sps00	_	28	case	28:case	_
+28	Tremp	Tremp	PROPN	np0000l	_	26	nmod	26:nmod	_
+29	i	i	CCONJ	cc	_	30	cc	30:cc	_
+30	Pont	Pont	PROPN	np0000l	_	28	conj	28:conj	MWE=Pont_de_Montanyana|MWEPOS=PROPN
+31	de	de	ADP	_	_	32	case	32:case	_
+32	Montanyana	Montanyana	PROPN	_	_	30	flat	30:flat	Entity=NOCOREF:Spec.location)
+33	(	(	PUNCT	fpa	PunctSide=Ini|PunctType=Brck	35	punct	35:punct	SpaceAfter=No
+34	379	379	NUM	_	NumForm=Digit|NumType=Card	35	nummod	35:nummod	_
+35	milions	milió	NOUN	ncmp000	Gender=Masc|Number=Plur	26	dep	26:dep	SpaceAfter=No
+36	)	)	PUNCT	fpt	PunctSide=Fin|PunctType=Brck	35	punct	35:punct	SpaceAfter=No
+37	,	,	PUNCT	fc	PunctType=Comm	42	punct	42:punct	Entity=NOCOREF:Gen)
+38	a	a	ADP	sps00	ExtPos=CCONJ	42	cc	42:cc	MWE=a_més_de|MWEPOS=ADP
+39	més	més	ADV	_	Degree=Cmp	38	fixed	38:fixed	_
+40	de	de	ADP	_	_	38	fixed	38:fixed	_
+41	l'	el	DET	da0cs0	Definite=Def|Number=Sing|PronType=Art	42	det	42:det	SpaceAfter=No|Entity=(NOCOREF:Spec.other-other-2-gstype:spec
+42	estudi	estudi	NOUN	ncms000	Gender=Masc|Number=Sing	5	conj	5:conj	_
+43	de	de	ADP	sps00	_	44	case	44:case	_
+44	viabilitat	viabilitat	NOUN	ncfs000	Gender=Fem|Number=Sing	42	nmod	42:nmod	_
+45	de	de	ADP	spcms	_	47	case	47:case	_
+46	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	47	det	47:det	_
+47	túnel	túnel	NOUN	ncms000	Gender=Masc|Number=Sing	42	nmod	42:nmod	Entity=(NOCOREF:Spec.location-place-1-gstype:spec
+48	de	de	ADP	sps00	_	49	case	49:case	_
+49	Comiols	Comiols	PROPN	np0000l	_	47	nmod	47:nmod	Entity=(NOCOREF:Spec.location-place-1-gstype:spec)NOCOREF:Spec.location)
+50	(	(	PUNCT	fpa	PunctSide=Ini|PunctType=Brck	52	punct	52:punct	SpaceAfter=No
+51	50	50	NUM	_	NumForm=Digit|NumType=Card	52	nummod	52:nummod	_
+52	milions	milió	NOUN	ncmp000	Gender=Masc|Number=Plur	42	dep	42:dep	SpaceAfter=No
+53	)	)	PUNCT	fpt	PunctSide=Fin|PunctType=Brck	52	punct	52:punct	SpaceAfter=No|Entity=NOCOREF:Spec.other)
+54	.	.	PUNCT	fp	PunctType=Peri	3	punct	3:punct	_
 
 ~~~
 

@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  <em>ӧти</em> (<tt><a href="kpv_lattice
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.125000 (the average of all parts of speech is 1.477594).
+The form / lemma ratio of `NUM` is 1.125000 (the average of all parts of speech is 1.477648).
 
 The 1st highest number of forms (2) was observed with the lemma “ветымын”: <em>ветымын, ветымынъяс</em>.
 

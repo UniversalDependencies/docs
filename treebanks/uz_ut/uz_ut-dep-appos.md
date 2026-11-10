@@ -67,7 +67,7 @@ The following 4 pairs of parts of speech are connected with `appos`: <tt><a href
 1	Bozorda	bozor	NOUN	_	Case=Loc|Number=Sing	2	obl	_	_
 2	sanqib	sanqi	VERB	_	VerbForm=Conv	6	acl	_	_
 3	yurgan	yur	VERB	_	VerbForm=Part	2	compound:svc	_	_
-4	biz	biz	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	9	obl	_	_
+4	biz	biz	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	9	nmod	_	_
 5	daydi	daydi	ADJ	_	_	6	amod	_	_
 6	bolalar	bola	NOUN	_	Case=Nom|Number=Plur	4	appos	_	_
 7	uchun	uchun	ADP	_	_	4	case	_	_

@@ -28,7 +28,7 @@ The following 7 pairs of parts of speech are connected with `flat`: <tt><a href=
 4	saattanut	saattaa	VERB	V,Act,PcpNut,Sg,Nom	Case=Nom|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	0	root	_	_
 5	seppouden	seppous	NOUN	N,Sg,Gen	Case=Gen|Number=Sing	4	obj	_	_
 6	lakipisteeseen	lakipiste	NOUN	N,Sg,Ill	Case=Ill|Number=Sing	4	obl	_	_
-7	.	.	PUNCT	Pun	_	6	punct	_	_
+7	.	.	PUNCT	Pun	_	4	punct	_	_
 
 ~~~
 
@@ -42,13 +42,13 @@ The following 7 pairs of parts of speech are connected with `flat`: <tt><a href=
 1	hän	hän	PRON	Pron,Pers,Sg3,Nom	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
 2	nukkuukin	nukkua	VERB	V,Act,Ind,Pres,Sg3,Kin	Clitic=Kin|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 3	alasti	alasti	ADV	Adv	_	2	advmod	_	_
-4	,	,	PUNCT	Pun	_	3	punct	_	_
+4	,	,	PUNCT	Pun	_	9	punct	_	_
 5	vain	vain	ADV	Adv,Pcle	_	8	advmod	_	_
 6	Chanel	chanel	PROPN	N,Prop,Sg,Nom	Case=Nom|Number=Sing	8	nmod	_	Alt=name
 7	viitosen	viitonen	NOUN	N,Sg,Gen	Case=Gen|Number=Sing	6	flat	_	_
 8	tuoksu	tuoksu	NOUN	N,Sg,Nom	Case=Nom|Number=Sing	9	nmod	_	_
 9	peittonaan	peitto	NOUN	N,Sg,Ess,Px3	Case=Ess|Number=Sing|Person[psor]=3	2	obl	_	_
-10	.	.	PUNCT	Pun	_	9	punct	_	_
+10	.	.	PUNCT	Pun	_	2	punct	_	_
 
 ~~~
 

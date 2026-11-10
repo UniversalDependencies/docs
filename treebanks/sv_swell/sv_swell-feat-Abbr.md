@@ -23,7 +23,7 @@ The most frequent other feature values with which `ADV` and `Abbr` co-occurred: 
 `ADV` tokens may have the following values of `Abbr`:
 
 * `Yes` (5; 100% of non-empty `Abbr`): <em>Mvh, osv, osv., t.ex., t.ex</em>
-* `EMPTY` (750): <em>hur, så, där, mycket, därför, också, här, bara, kanske, ut</em>
+* `EMPTY` (751): <em>hur, så, där, mycket, därför, också, här, bara, kanske, ut</em>
 
 ### `NOUN`
 
@@ -56,5 +56,5 @@ The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: 
 `ADJ` tokens may have the following values of `Abbr`:
 
 * `Yes` (1; 100% of non-empty `Abbr`): <em>ex.</em>
-* `EMPTY` (876): <em>olika, många, bra, andra, nya, viktigt, bättre, första, själv, stor</em>
+* `EMPTY` (875): <em>olika, många, bra, andra, nya, viktigt, bättre, första, själv, stor</em>
 

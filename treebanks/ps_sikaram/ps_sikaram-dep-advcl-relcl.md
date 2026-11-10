@@ -11,7 +11,7 @@ This relation is a language-specific subtype of <tt><a href="ps_sikaram-dep-advc
 2 nodes (0%) are attached to their parents as `advcl:relcl`.
 
 2 instances of `advcl:relcl` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 11.
+Average distance between parent and child is 11.5.
 
 The following 1 pairs of parts of speech are connected with `advcl:relcl`: <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt> (2; 100% instances).
 

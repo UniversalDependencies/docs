@@ -42,22 +42,21 @@ The following 9 pairs of parts of speech are connected with `orphan`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 8 orphan	color:blue
-1	ve	ve	CCONJ	_	_	11	cc	_	_
-2	ḳuyruġı	ḳuyruḳ	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	11	nsubj	_	_
-3	ve	ve	CCONJ	_	_	4	cc	_	_
-4	nıṣf-ı	nıṣf	NOUN	_	Case=Nom|Number=Sing|Person=3	2	conj	_	_
-5	aʿlāsı	aʿlā	ADJ	Adj	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	4	amod	_	_
-6	ādemīye	ādemī	NOUN	_	Case=Dat|Number=Sing|Person=3	11	obl	_	_
-7	ve	ve	CCONJ	_	_	10	cc	_	_
-8	nıṣf-ı	nıṣf	NOUN	_	Case=Nom|Number=Sing|Person=3	10	orphan	_	_
-9	esfeli	esfel	ADJ	Adj	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	8	amod	_	_
-10	yılana	yılan	NOUN	_	Case=Dat|Number=Sing|Person=3	6	conj	_	_
-11	beñzer	beñze	VERB	_	Aspect=Hab|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 4 orphan	color:blue
+1	ḫūyı	ḫūy	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	2	nsubj	_	_
+2	murdār	murdār	ADJ	Adj	_	10	ccomp	_	_
+3	ve	ve	CCONJ	_	_	5	cc	_	_
+4	şekli	şekl	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	5	orphan	_	_
+5	evgār	evgār	NOUN	_	Case=Nom|Number=Sing|Person=3	2	conj	_	_
+6	ve	ve	CCONJ	_	_	8	cc	_	_
+7	ḫulḳı	ḫulḳ	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	8	orphan	_	_
+8	ṭar	ṭar	NOUN	_	Case=Nom|Number=Sing|Person=3	2	conj	_	_
+9	idügin	it	VERB	Ptcp	Aspect=Perf|Case=Acc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|Polarity=Pos|Tense=Past|VerbForm=Part	2	compound:lvc	_	_
+10	bilürleridi	bil	VERB	_	Aspect=Hab|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	0	root	_	_
 
 ~~~
 

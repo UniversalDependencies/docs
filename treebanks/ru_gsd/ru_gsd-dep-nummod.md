@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Russian-GSD: Relations: `nummod`
 
 This relation is universal.
-There are 2 language-specific subtypes of `nummod`: <tt><a href="ru_gsd-dep-nummod-entity.html">nummod:entity</a></tt>, <tt><a href="ru_gsd-dep-nummod-gov.html">nummod:gov</a></tt>.
+There are 1 language-specific subtypes of `nummod`: <tt><a href="ru_gsd-dep-nummod-gov.html">nummod:gov</a></tt>.
 
 556 nodes (1%) are attached to their parents as `nummod`.
 
@@ -71,7 +71,7 @@ The following 10 pairs of parts of speech are connected with `nummod`: <tt><a hr
 5	50	50	NUM	CD	Case=Acc|NumType=Card	3	nmod	_	_
 6	орудие	орудие	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	12	nsubj	_	_
 7	Тип	тип	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	6	nmod	_	_
-8	3	3	NUM	CD	Animacy=Inan|Case=Nom|NumType=Card	7	nummod:entity	_	_
+8	3	3	NUM	CD	Animacy=Inan|Case=Nom|NumType=Card	7	appos	_	_
 9	--	--	PUNCT	--	_	12	punct	_	_
 10	японское	японский	ADJ	JJL	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	12	amod	_	_
 11	морское	морской	ADJ	JJL	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	12	amod	_	_

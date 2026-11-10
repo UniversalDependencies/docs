@@ -120,8 +120,8 @@ The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>NOUN --[<tt><a href="uz_tuecl-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (16; 100%),
 <tt>VERB --[<tt><a href="uz_tuecl-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (14; 64%),
 <tt>VERB --[<tt><a href="uz_tuecl-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (14; 74%),
+<tt>NOUN --[<tt><a href="uz_tuecl-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (10; 77%),
 <tt>VERB --[<tt><a href="uz_tuecl-dep-obl.html">obl</a></tt>]--> PROPN</tt> (8; 100%),
 <tt>VERB --[<tt><a href="uz_tuecl-dep-compound-lvc.html">compound:lvc</a></tt>]--> NOUN</tt> (7; 88%),
-<tt>VERB --[<tt><a href="uz_tuecl-dep-obl.html">obl</a></tt>]--> PRON</tt> (7; 70%),
-<tt>NOUN --[<tt><a href="uz_tuecl-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (5; 63%).
+<tt>VERB --[<tt><a href="uz_tuecl-dep-obl.html">obl</a></tt>]--> PRON</tt> (7; 70%).
 

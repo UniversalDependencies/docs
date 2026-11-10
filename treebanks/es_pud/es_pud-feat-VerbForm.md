@@ -12,17 +12,17 @@ It occurs with 4 different values: `Fin`, `Ger`, `Inf`, `Part`.
 3012 tokens (13%) have a non-empty value of `VerbForm`.
 1633 types (28%) occur at least once with a non-empty value of `VerbForm`.
 732 lemmas (16%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 3 part-of-speech tags: <tt><a href="es_pud-pos-VERB.html">VERB</a></tt> (2270; 10% instances), <tt><a href="es_pud-pos-AUX.html">AUX</a></tt> (634; 3% instances), <tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt> (108; 0% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="es_pud-pos-VERB.html">VERB</a></tt> (2269; 10% instances), <tt><a href="es_pud-pos-AUX.html">AUX</a></tt> (635; 3% instances), <tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt> (108; 0% instances).
 
 ### `VERB`
 
-2270 <tt><a href="es_pud-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
+2269 <tt><a href="es_pud-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="es_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1873; 83%), <tt><a href="es_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1279; 56%), <tt><a href="es_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (1267; 56%), <tt><a href="es_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1221; 54%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="es_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1872; 83%), <tt><a href="es_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1278; 56%), <tt><a href="es_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (1266; 56%), <tt><a href="es_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1220; 54%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
-* `Fin` (1331; 59% of non-empty `VerbForm`): <em>dijo, tiene, es, hay, hace, está, tienen, dice, afirmó, convirtió</em>
+* `Fin` (1330; 59% of non-empty `VerbForm`): <em>dijo, tiene, es, hay, hace, está, tienen, dice, afirmó, convirtió</em>
 * `Ger` (101; 4% of non-empty `VerbForm`): <em>incluyendo, convirtiendo, creciendo, haciendo, pasando, trabajando, utilizando, ayudando, buscando, creando</em>
 * `Inf` (439; 19% of non-empty `VerbForm`): <em>hacer, tener, ver, establecer, ayudar, dejar, enviar, pesar, producir, asegurar</em>
 * `Part` (399; 18% of non-empty `VerbForm`): <em>debido, hecho, escrito, tenido, dado, dejado, dirigida, visto, acusado, declarado</em>
@@ -50,13 +50,13 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 
 ### `AUX`
 
-634 <tt><a href="es_pud-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `VerbForm`.
+635 <tt><a href="es_pud-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="es_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (548; 86%), <tt><a href="es_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (521; 82%), <tt><a href="es_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (437; 69%).
+The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="es_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (549; 86%), <tt><a href="es_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (522; 82%), <tt><a href="es_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (438; 69%).
 
 `AUX` tokens may have the following values of `VerbForm`:
 
-* `Fin` (577; 91% of non-empty `VerbForm`): <em>es, fue, ha, había, está, era, puede, son, fueron, han</em>
+* `Fin` (578; 91% of non-empty `VerbForm`): <em>es, fue, ha, había, está, era, puede, son, fueron, han</em>
 * `Ger` (7; 1% of non-empty `VerbForm`): <em>siendo, Habiendo</em>
 * `Inf` (35; 6% of non-empty `VerbForm`): <em>ser, haber, estar, poder</em>
 * `Part` (15; 2% of non-empty `VerbForm`): <em>sido, estado</em>
@@ -95,7 +95,7 @@ The most frequent other feature values with which `ADJ` and `VerbForm` co-occurr
 `ADJ` tokens may have the following values of `VerbForm`:
 
 * `Part` (108; 100% of non-empty `VerbForm`): <em>Unidos, Unido, pasado, abierto, anticipado, cualificados, involucrados, pesada, privado, abierta</em>
-* `EMPTY` (1377): <em>gran, primera, mayor, nueva, nacional, grandes, primer, últimos, británica, nuevos</em>
+* `EMPTY` (1379): <em>gran, primera, mayor, nueva, nacional, grandes, primer, últimos, británica, nuevos</em>
 
 `VerbForm` seems to be **lexical feature** of `ADJ`. 100% lemmas (72) occur only with one value of `VerbForm`.
 

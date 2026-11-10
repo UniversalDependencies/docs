@@ -101,7 +101,7 @@ The most frequent other feature values with which `DET` and `Person` co-occurred
 `DET` tokens may have the following values of `Person`:
 
 * `3` (2; 100% of non-empty `Person`): <em>sua</em>
-* `EMPTY` (3783): <em>il, la, l', i, le, un, una, gli, lo, un'</em>
+* `EMPTY` (3834): <em>il, la, l', i, le, un, una, gli, lo, un'</em>
 
 ## Relations with Agreement in `Person`
 

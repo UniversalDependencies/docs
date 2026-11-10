@@ -12,7 +12,7 @@ It occurs with 3 different values: `1`, `2`, `3`.
 166 tokens (38%) have a non-empty value of `Person`.
 104 types (42%) occur at least once with a non-empty value of `Person`.
 60 lemmas (35%) occur at least once with a non-empty value of `Person`.
-The feature is used with 4 part-of-speech tags: <tt><a href="sga_dipwbg-pos-PRON.html">PRON</a></tt> (61; 14% instances), <tt><a href="sga_dipwbg-pos-VERB.html">VERB</a></tt> (55; 13% instances), <tt><a href="sga_dipwbg-pos-AUX.html">AUX</a></tt> (32; 7% instances), <tt><a href="sga_dipwbg-pos-ADP.html">ADP</a></tt> (18; 4% instances).
+The feature is used with 4 part-of-speech tags: <tt><a href="sga_dipwbg-pos-PRON.html">PRON</a></tt> (61; 14% instances), <tt><a href="sga_dipwbg-pos-VERB.html">VERB</a></tt> (55; 12% instances), <tt><a href="sga_dipwbg-pos-AUX.html">AUX</a></tt> (32; 7% instances), <tt><a href="sga_dipwbg-pos-ADP.html">ADP</a></tt> (18; 4% instances).
 
 ### `PRON`
 
@@ -38,7 +38,7 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 `VERB` tokens may have the following values of `Person`:
 
 * `1` (19; 35% of non-empty `Person`): <em>arim, beo, berinn, biur, biuu, denim, fulsam, gessam, gníu, guidimm</em>
-* `2` (10; 18% of non-empty `Person`): <em>amlid, gaibid, gigeste, léic, mil, nducaid, ngeiss, rocomalnisid, rreractid, rérachtid</em>
+* `2` (10; 18% of non-empty `Person`): <em>amlid, comalnisid, gaibid, gigeste, léic, mil, nducaid, ngeiss, rreractid, rérachtid</em>
 * `3` (26; 47% of non-empty `Person`): <em>tá, ail, anicc, beir, bera, bered, bia, carad, certa, chechladar</em>
 
 <table>

@@ -7,13 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Old_East_Slavic-Birchbark: Relations: `parataxis`
 
 This relation is universal.
+There are 1 language-specific subtypes of `parataxis`: <tt><a href="orv_birchbark-dep-parataxis-discourse.html">parataxis:discourse</a></tt>.
 
-305 nodes (1%) are attached to their parents as `parataxis`.
+195 nodes (1%) are attached to their parents as `parataxis`.
 
-181 instances of `parataxis` (59%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.04590163934426.
+188 instances of `parataxis` (96%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.86153846153846.
 
-The following 29 pairs of parts of speech are connected with `parataxis`: <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt> (93; 30% instances), <tt><a href="orv_birchbark-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_birchbark-pos-SYM.html">SYM</a></tt> (48; 16% instances), <tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_birchbark-pos-SYM.html">SYM</a></tt> (46; 15% instances), <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_birchbark-pos-SYM.html">SYM</a></tt> (24; 8% instances), <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt> (23; 8% instances), <tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt> (13; 4% instances), <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_birchbark-pos-ADJ.html">ADJ</a></tt> (8; 3% instances), <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_birchbark-pos-PRON.html">PRON</a></tt> (6; 2% instances), <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_birchbark-pos-X.html">X</a></tt> (6; 2% instances), <tt><a href="orv_birchbark-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt> (4; 1% instances), <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_birchbark-pos-DET.html">DET</a></tt> (4; 1% instances), <tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_birchbark-pos-PROPN.html">PROPN</a></tt> (3; 1% instances), <tt><a href="orv_birchbark-pos-X.html">X</a></tt>-<tt><a href="orv_birchbark-pos-SYM.html">SYM</a></tt> (3; 1% instances), <tt><a href="orv_birchbark-pos-X.html">X</a></tt>-<tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt> (3; 1% instances), <tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_birchbark-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="orv_birchbark-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="orv_birchbark-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_birchbark-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="orv_birchbark-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="orv_birchbark-pos-ADP.html">ADP</a></tt>-<tt><a href="orv_birchbark-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="orv_birchbark-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_birchbark-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="orv_birchbark-pos-NUM.html">NUM</a></tt>-<tt><a href="orv_birchbark-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="orv_birchbark-pos-PART.html">PART</a></tt>-<tt><a href="orv_birchbark-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="orv_birchbark-pos-PART.html">PART</a></tt>-<tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="orv_birchbark-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="orv_birchbark-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_birchbark-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_birchbark-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="orv_birchbark-pos-X.html">X</a></tt>-<tt><a href="orv_birchbark-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 24 pairs of parts of speech are connected with `parataxis`: <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt> (97; 50% instances), <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt> (27; 14% instances), <tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt> (13; 7% instances), <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_birchbark-pos-ADJ.html">ADJ</a></tt> (8; 4% instances), <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_birchbark-pos-X.html">X</a></tt> (6; 3% instances), <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_birchbark-pos-PRON.html">PRON</a></tt> (5; 3% instances), <tt><a href="orv_birchbark-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt> (4; 2% instances), <tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt> (4; 2% instances), <tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_birchbark-pos-PROPN.html">PROPN</a></tt> (4; 2% instances), <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_birchbark-pos-DET.html">DET</a></tt> (4; 2% instances), <tt><a href="orv_birchbark-pos-X.html">X</a></tt>-<tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt> (4; 2% instances), <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_birchbark-pos-PROPN.html">PROPN</a></tt> (3; 2% instances), <tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_birchbark-pos-SYM.html">SYM</a></tt> (2; 1% instances), <tt><a href="orv_birchbark-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="orv_birchbark-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_birchbark-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="orv_birchbark-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="orv_birchbark-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="orv_birchbark-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="orv_birchbark-pos-NUM.html">NUM</a></tt>-<tt><a href="orv_birchbark-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="orv_birchbark-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="orv_birchbark-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="orv_birchbark-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_birchbark-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_birchbark-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_birchbark-pos-SYM.html">SYM</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -22,55 +23,62 @@ The following 29 pairs of parts of speech are connected with `parataxis`: <tt><a
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 4 parataxis	color:blue
-1	мꙑ·сливсѧ	промыслитисѧ	VERB	_	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	wf="мꙑ·сливсѧ"|addr="059:4"|line_id=4|_
-2	·	·	PUNCT	_	_	4	punct	_	wf="·"|_
-3	та·ко	тако	ADV	_	_	4	advmod	_	wf="та·ко"|addr="059:4"|_
-4	бꙋдꙋ	быти	VERB	_	Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	1	parataxis	_	wf="бꙋдꙋ"|addr="059:4"|_
-5	к	къ	ADP	_	_	6	case	_	wf="к"|addr="059:4"|_
-6	тоби	ты	PRON	_	Case=Dat|Number=Sing|Person=2	4	obl	_	wf="тоби"|comment="clitic_ton"|addr="059:4"|_
-7	:	:	PUNCT	_	_	11	punct	_	wf=":"|_
-8	а	а	CCONJ	_	_	11	cc	_	wf="а"|addr="059:4"|_
-9	тꙑ	ты	PRON	_	Case=Nom|Number=Sing|Person=2	11	nsubj	_	wf="тꙑ"|addr="059:4"|_
-10	·	·	PUNCT	_	_	11	punct	_	wf="·"|_
-11	видаеши	вѣдати	VERB	_	Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	wf="видаеши"|comment="tense_nonpast"|addr="059:4"|_
-12	а…	а…	X	_	_	11	dep	_	wf="а…"|addr="059:4"|_
+1	мꙑ·сливсѧ	промыслитисѧ	VERB	V,partcp,praet,act,sg,m,nom	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	0	root	_	wf="мыслився"|line_id="4"|addr="059:4"
+2	·	·	PUNCT	_	_	4	punct	_	wf="·"|addr="059:4"
+3	та·ко	тако	ADV	ADV	_	4	advmod	_	wf="тако"|addr="059:4"
+4	бꙋдꙋ	быти	VERB	V,fut,sg,1p	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	1	parataxis	_	wf="буду"|addr="059:4"
+5	к	къ	ADP	PR,gvrn:dat	_	6	case	_	wf="к"|comment="gvrn:dat"|addr="059:4"
+6	тоби	ты	PRON	SPRO,sg,2p,dat,ton	Case=Dat|Number=Sing|Person=2|PronType=Prs	4	obl	_	wf="тоби"|comment="clitic_ton"|addr="059:4"
+7	:	:	PUNCT	_	_	11	punct	_	wf=":"|addr="059:4"
+8	а	а	CCONJ	CONJ	_	11	cc	_	wf="а"|addr="059:4"
+9	тꙑ	ты	PRON	SPRO,sg,2p,nom	Case=Nom|Number=Sing|Person=2|PronType=Prs	11	nsubj	_	wf="ты"|addr="059:4"
+10	·	·	PUNCT	_	_	11	punct	_	wf="·"|addr="059:4"
+11	видаеши	вѣдати	VERB	V,nonpast,sg,2p	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	wf="видаеши"|comment="tense_nonpast"|addr="059:4"
+12	а…	_	X	NONLEX	_	11	dep	_	wf="а…"|addr="059:4"
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 1 parataxis	color:blue
-1	+	+	SYM	_	_	5	parataxis	_	wf="+"|line_id=1|_
-2	ѿ	отъ	ADP	_	_	3	case	_	wf="ѿ"|addr="115:1"|_
-3	прокошь	Прокша	PROPN	_	Case=Gen|Gender=Masc|NameType=Giv|Number=Sing	5	orphan	_	wf="прокошь"|addr="115:1"|_
-4	къ	къ	ADP	_	_	5	case	_	wf="къ"|addr="115:1"|_
-5	ньстьрѹ	Нестеръ	PROPN	_	Case=Dat|Gender=Masc|NameType=Giv|Number=Sing	0	root	_	wf="ньстьрѹ"|addr="115:1"|_
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 12 parataxis	color:blue
+1	а	а	CCONJ	CONJ	_	6	cc	_	wf="а"|addr="1070:2"
+2	тоби	ты	PRON	SPRO,sg,2p,dat,ton	Case=Dat|Number=Sing|Person=2|PronType=Prs	6	iobj	_	wf="тоби"|comment="clitic_ton"|addr="1070:2"
+3	·	·	PUNCT	_	_	4	punct	_	wf="·"|addr="1070:2"
+4	[м]	_	X	NONLEX	_	2	vocative	_	wf="м"|addr="1070:2"
+5	…	…	PUNCT	_	_	6	punct	_	wf="…"|addr="1070:2"
+6	бье	бити	VERB	V,nonpast,sg,3p	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	wf="бье"|comment="tense_nonpast"|line_id="3"|addr="1070:3"
+7	·	·	PUNCT	_	_	8	punct	_	wf="·"|addr="1070:3"
+8	целомо	чело	NOUN	S,n,sg,ins	Case=Ins|Gender=Neut|Number=Sing	6	obj	_	wf="целомо"|addr="1070:3"
+9	·	·	PUNCT	_	_	10	punct	_	wf="·"|addr="1070:3"
+10	ѳо[м]	Фома	PROPN	S,persn,m,sg,nom,fragment	Case=Nom|Fragment=Yes|Gender=Masc|NameType=Giv|Number=Sing	6	nsubj	_	wf="фом"|addr="1070:3"
+11	…	…	PUNCT	_	_	12	punct	_	wf="…"|addr="1070:3"
+12	орѹдие	орудьѥ	NOUN	S,n,sg,nom	Case=Nom|Gender=Neut|Number=Sing	6	parataxis	_	wf="орудие"|meaning="дело, тяжба"|line_id="4"|addr="1070:4"
+13	·	·	PUNCT	_	_	15	punct	_	wf="·"|addr="1070:4"
+14	с	съ	ADP	PR,gvrn:ins	_	15	case	_	wf="с"|comment="gvrn:ins"|addr="1070:4"
+15	то	ты	PRON	SPRO?,sg?,2p?,ins?,fragment	Case=Ins|Fragment=Yes|Number=Sing|Person=2|PronType=Prs	12	nmod	_	wf="то"|comment="SPRO?,sg?,2p?,ins?,case_unsure"|addr="1070:4"
+16	…	…	PUNCT	_	_	17	punct	_	wf="…"|addr="1070:4"
+17	ю	и	PRON	SPRO,sg,f,acc,fragment	Case=Acc|Fragment=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	15	dep	_	wf="ю"|line_id="5"|addr="1070:5"
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 1 parataxis	color:blue
-1	+	+	SYM	_	_	2	parataxis	_	wf="+"|line_id=1|_
-2	поклоно	поклонъ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	wf="поклоно"|comment=start|addr="067:1"|_
-3	ѿ	отъ	ADP	_	_	4	case	_	wf="ѿ"|addr="067:1"|_
-4	ѧкова	ꙗковъ	PROPN	_	Case=Gen|Gender=Masc|NameType=Giv|Number=Sing	2	nmod	_	wf="ѧкова"|addr="067:1"|_
-5	:	:	PUNCT	_	_	7	punct	_	wf=":"|_
-6	ко	къ	ADP	_	_	7	case	_	wf="ко"|addr="067:1"|_
-7	(ва)силью	Василии	PROPN	_	Case=Dat|Gender=Masc|NameType=Giv|Number=Sing	2	nmod	_	wf="василью"|addr="067:1"|_
-8	:	:	PUNCT	_	_	11	punct	_	wf=":"|_
-9	и	и	CCONJ	_	_	11	cc	_	wf="и"|addr="067:1"|_
-10	ко	къ	ADP	_	_	11	case	_	wf="ко"|addr="067:1"|_
-11	ва<lbr/>сильеви·и	Васильѥваꙗ	PROPN	_	Case=Dat|Gender=Fem|NameType=Hus|Number=Sing	7	conj	_	wf="васильеви·и"|addr="067:1"|_
-12	:	:	PUNCT	_	_	2	punct	_	wf=":"|line_id=2|_
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 7 parataxis	color:blue
+1	ѿ	отъ	ADP	PR,gvrn:gen	_	2	case	_	wf="отъ"|comment="gvrn:gen"|line_id="1"|addr="604:1"
+2	петрока	Петрокъ	PROPN	S,persn,m,sg,gen	Case=Gen|Gender=Masc|NameType=Giv|Number=Sing	3	nmod	_	wf="петрока"|addr="604:1"
+3	грамота	грамота	NOUN	S,f,sg,nom	Case=Nom|Gender=Fem|Number=Sing	0	root	_	wf="грамота"|addr="604:1"
+4	ко	къ	ADP	PR,gvrn:dat	_	5	case	_	wf="ко"|comment="gvrn:dat"|addr="604:1"
+5	волосѹ	Волосъ	PROPN	S,persn,m,sg,dat	Case=Dat|Gender=Masc|NameType=Giv|Number=Sing	3	nmod	_	wf="волосу"|addr="604:1"
+6	:	:	PUNCT	_	_	7	punct	_	wf=":"|addr="604:1"
+7	и[з]обид…	изобидити	VERB	V,fragment	Fragment=Yes|Voice=Act	3	parataxis	_	wf="изобид…"|addr="604:1"
 
 ~~~
 

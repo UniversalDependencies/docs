@@ -18,14 +18,14 @@ The feature is used with 3 part-of-speech tags: <tt><a href="ru_gsd-pos-VERB.htm
 
 8411 <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt> tokens (99% of all `VERB` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="ru_gsd-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (7467; 89%), <tt><a href="ru_gsd-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (6371; 76%), <tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (6369; 76%), <tt><a href="ru_gsd-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (6291; 75%), <tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5378; 64%), <tt><a href="ru_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (5250; 62%), <tt><a href="ru_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (5229; 62%), <tt><a href="ru_gsd-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (4891; 58%), <tt><a href="ru_gsd-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (4578; 54%), <tt><a href="ru_gsd-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (4352; 52%).
+The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="ru_gsd-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (7467; 89%), <tt><a href="ru_gsd-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (6371; 76%), <tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (6369; 76%), <tt><a href="ru_gsd-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (6291; 75%), <tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5378; 64%), <tt><a href="ru_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (5250; 62%), <tt><a href="ru_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (5229; 62%), <tt><a href="ru_gsd-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (4891; 58%), <tt><a href="ru_gsd-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (4578; 54%), <tt><a href="ru_gsd-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (4353; 52%).
 
 `VERB` tokens may have the following values of `Voice`:
 
 * `Act` (5218; 62% of non-empty `Voice`): <em>составляет, может, входит, получил, стал, имеет, начал, есть, было, работал</em>
 * `Mid` (1730; 21% of non-empty `Voice`): <em>является, находится, родился, являются, относится, находился, учился, становится, удалось, используются</em>
 * `Pass` (1463; 17% of non-empty `Voice`): <em>назначен, расположен, основана, основан, награждён, расположена, принято, создана, расположено, назван</em>
-* `EMPTY` (83): <em>можно, стал, надо, стала, стало, Являясь, жаль, могут, объявили, сделав</em>
+* `EMPTY` (84): <em>можно, стал, надо, стала, стало, Являясь, вправе, жаль, могут, объявили</em>
 
 <table>
   <tr><th>Paradigm <i>являться</i></th><th><tt>Act</tt></th><th><tt>Mid</tt></th></tr>
@@ -65,7 +65,7 @@ The most frequent other feature values with which `ADJ` and `Voice` co-occurred:
 
 The 10 most frequent relations where parent and child node agree in `Voice`:
 <tt>VERB --[<tt><a href="ru_gsd-dep-conj.html">conj</a></tt>]--> VERB</tt> (545; 59%),
-<tt>VERB --[<tt><a href="ru_gsd-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (296; 55%),
+<tt>VERB --[<tt><a href="ru_gsd-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (296; 54%),
 <tt>VERB --[<tt><a href="ru_gsd-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (281; 64%),
 <tt>VERB --[<tt><a href="ru_gsd-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (162; 55%),
 <tt>VERB --[<tt><a href="ru_gsd-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (93; 56%),

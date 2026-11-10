@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-66 nodes (1%) are attached to their parents as `discourse`.
+73 nodes (1%) are attached to their parents as `discourse`.
 
-60 instances of `discourse` (91%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.1969696969697.
+66 instances of `discourse` (90%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.27397260273973.
 
-The following 11 pairs of parts of speech are connected with `discourse`: <tt><a href="ruc_rdt-pos-VERB.html">VERB</a></tt>-<tt><a href="ruc_rdt-pos-INTJ.html">INTJ</a></tt> (34; 52% instances), <tt><a href="ruc_rdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ruc_rdt-pos-INTJ.html">INTJ</a></tt> (10; 15% instances), <tt><a href="ruc_rdt-pos-VERB.html">VERB</a></tt>-<tt><a href="ruc_rdt-pos-PART.html">PART</a></tt> (6; 9% instances), <tt><a href="ruc_rdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ruc_rdt-pos-INTJ.html">INTJ</a></tt> (5; 8% instances), <tt><a href="ruc_rdt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ruc_rdt-pos-INTJ.html">INTJ</a></tt> (5; 8% instances), <tt><a href="ruc_rdt-pos-ADV.html">ADV</a></tt>-<tt><a href="ruc_rdt-pos-INTJ.html">INTJ</a></tt> (1; 2% instances), <tt><a href="ruc_rdt-pos-PRON.html">PRON</a></tt>-<tt><a href="ruc_rdt-pos-INTJ.html">INTJ</a></tt> (1; 2% instances), <tt><a href="ruc_rdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ruc_rdt-pos-INTJ.html">INTJ</a></tt> (1; 2% instances), <tt><a href="ruc_rdt-pos-VERB.html">VERB</a></tt>-<tt><a href="ruc_rdt-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="ruc_rdt-pos-VERB.html">VERB</a></tt>-<tt><a href="ruc_rdt-pos-PROPN.html">PROPN</a></tt> (1; 2% instances), <tt><a href="ruc_rdt-pos-VERB.html">VERB</a></tt>-<tt><a href="ruc_rdt-pos-X.html">X</a></tt> (1; 2% instances).
+The following 12 pairs of parts of speech are connected with `discourse`: <tt><a href="ruc_rdt-pos-VERB.html">VERB</a></tt>-<tt><a href="ruc_rdt-pos-INTJ.html">INTJ</a></tt> (37; 51% instances), <tt><a href="ruc_rdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ruc_rdt-pos-INTJ.html">INTJ</a></tt> (10; 14% instances), <tt><a href="ruc_rdt-pos-VERB.html">VERB</a></tt>-<tt><a href="ruc_rdt-pos-PART.html">PART</a></tt> (8; 11% instances), <tt><a href="ruc_rdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ruc_rdt-pos-INTJ.html">INTJ</a></tt> (5; 7% instances), <tt><a href="ruc_rdt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ruc_rdt-pos-INTJ.html">INTJ</a></tt> (5; 7% instances), <tt><a href="ruc_rdt-pos-VERB.html">VERB</a></tt>-<tt><a href="ruc_rdt-pos-NOUN.html">NOUN</a></tt> (2; 3% instances), <tt><a href="ruc_rdt-pos-ADV.html">ADV</a></tt>-<tt><a href="ruc_rdt-pos-INTJ.html">INTJ</a></tt> (1; 1% instances), <tt><a href="ruc_rdt-pos-AUX.html">AUX</a></tt>-<tt><a href="ruc_rdt-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="ruc_rdt-pos-PRON.html">PRON</a></tt>-<tt><a href="ruc_rdt-pos-INTJ.html">INTJ</a></tt> (1; 1% instances), <tt><a href="ruc_rdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ruc_rdt-pos-INTJ.html">INTJ</a></tt> (1; 1% instances), <tt><a href="ruc_rdt-pos-VERB.html">VERB</a></tt>-<tt><a href="ruc_rdt-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="ruc_rdt-pos-VERB.html">VERB</a></tt>-<tt><a href="ruc_rdt-pos-X.html">X</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -46,16 +46,20 @@ The following 11 pairs of parts of speech are connected with `discourse`: <tt><a
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 3 discourse	color:blue
-1	Nje	nje	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	4:nsubj	Gloss=1sg|MSeg=nje
-2	na	na	PART	ADD.FOC	InfStruct=Foc	1	advmod:emph	1:advmod:emph	Gloss=ADD.FOC|MSeg=ni
-3	ka	ka	PART	_	Hort=Yes	4	discourse	4:discourse	Gloss=HORT|MSeg=ka
-4	nkukobere	koba	VERB	_	Mood=Sub|Number=Sing|Number[obj]=Sing|Person=1|Person[obj]=2|VerbForm=Fin|Voice=Appl	0	root	0:root	Gloss=1sgS-2sgO-say-APPL-SBJV|MSeg=n-ku-kob-er-e|SpaceAfter=No
-5	,	,	PUNCT	_	_	4	punct	4:punct	SpacesAfter=\n
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 discourse	color:blue
+1	Ka	ka	PART	_	Hort=Yes	2	discourse	2:discourse	Gloss=HORT|MSeg=ka
+2	ntwale	twala	VERB	_	Mood=Sub|Number=Sing|Person=1|VerbForm=Fin	0	root	0:root	Gloss=1sgS-take-SBJV|MSeg=n-twal-e
+3	kaisi	kaisi	INTJ	_	_	2	discourse	2:discourse	Gloss=by_the_way|MSeg=kaisi
+4	omukisa	mukisa	NOUN	_	NounClass=Bantu3|Referent=Yes	2	obj	2:obj	Gloss=AUG-3.luck|MSeg=o-mukisa
+5	guni	ni	DET	_	Deixis=Prox|NounClass=Bantu3|PronType=Dem	4	det	4:det	Gloss=3.PROX|MSeg=guni
+6	okusiima	siima	VERB	_	Referent=Yes|VerbForm=Inf	2	advcl	2:advcl	Gloss=AUG-INF-appreciate-FV|MSeg=o-ku-siim-a
+7	abantu	muntu	NOUN	_	NounClass=Bantu2|Referent=Yes	6	obj	6:obj	Gloss=AUG-2.person|MSeg=a-bantu
+8	bani	ni	DET	_	Deixis=Prox|NounClass=Bantu2|PronType=Dem	7	det	7:det	Gloss=2.PROX|MSeg=bani|SpaceAfter=No
+9	.	.	PUNCT	_	_	6	punct	6:punct	SpacesAfter=\n
 
 ~~~
 

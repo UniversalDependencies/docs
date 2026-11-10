@@ -12,7 +12,7 @@ It occurs with 3 different values: `Imp`, `Ind`, `Sub`.
 87 tokens (20%) have a non-empty value of `Mood`.
 70 types (28%) occur at least once with a non-empty value of `Mood`.
 32 lemmas (19%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 2 part-of-speech tags: <tt><a href="sga_dipwbg-pos-VERB.html">VERB</a></tt> (55; 13% instances), <tt><a href="sga_dipwbg-pos-AUX.html">AUX</a></tt> (32; 7% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="sga_dipwbg-pos-VERB.html">VERB</a></tt> (55; 12% instances), <tt><a href="sga_dipwbg-pos-AUX.html">AUX</a></tt> (32; 7% instances).
 
 ### `VERB`
 

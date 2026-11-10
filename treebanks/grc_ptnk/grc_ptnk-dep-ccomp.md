@@ -47,7 +47,7 @@ The following 13 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 1	καὶ	καί	CCONJ	_	_	2	cc	_	Gloss=and,also,even,then,next|Ref=GEN_24.34
 2	εἶπεν	εἶπον	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-say|Ref=GEN_24.34|SpaceAfter=No
 3	,	,	PUNCT	_	_	4	punct	_	Ref=GEN_24.34
-4	παῖς	παῖς	NOUN	_	Case=Nom|Gender=Fem,Masc|Number=Sing	2	ccomp	_	Gloss=child,servant|Ref=GEN_24.34
+4	παῖς	παῖς	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	ccomp	_	Gloss=child,servant|Ref=GEN_24.34
 5	Ἁβραὰμ	Ἁβραάμ	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	4	nmod:poss	_	Gloss=Abraham|Ref=GEN_24.34
 6	ἐγώ	ἐγώ	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	Gloss=I|Ref=GEN_24.34
 7	εἰμι	εἰμί	AUX	_	Mood=Ind,Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	Gloss=to-be|Ref=GEN_24.34|SpaceAfter=No

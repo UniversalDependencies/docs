@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-87 nodes (6%) are attached to their parents as `nmod`.
+97 nodes (6%) are attached to their parents as `nmod`.
 
-58 instances of `nmod` (67%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.40229885057471.
+66 instances of `nmod` (68%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.36082474226804.
 
-The following 15 pairs of parts of speech are connected with `nmod`: <tt><a href="ceb_gja-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ceb_gja-pos-PRON.html">PRON</a></tt> (47; 54% instances), <tt><a href="ceb_gja-pos-VERB.html">VERB</a></tt>-<tt><a href="ceb_gja-pos-PRON.html">PRON</a></tt> (15; 17% instances), <tt><a href="ceb_gja-pos-PRON.html">PRON</a></tt>-<tt><a href="ceb_gja-pos-NOUN.html">NOUN</a></tt> (5; 6% instances), <tt><a href="ceb_gja-pos-VERB.html">VERB</a></tt>-<tt><a href="ceb_gja-pos-NOUN.html">NOUN</a></tt> (5; 6% instances), <tt><a href="ceb_gja-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ceb_gja-pos-NOUN.html">NOUN</a></tt> (3; 3% instances), <tt><a href="ceb_gja-pos-ADV.html">ADV</a></tt>-<tt><a href="ceb_gja-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="ceb_gja-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ceb_gja-pos-PROPN.html">PROPN</a></tt> (2; 2% instances), <tt><a href="ceb_gja-pos-ADV.html">ADV</a></tt>-<tt><a href="ceb_gja-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="ceb_gja-pos-ADV.html">ADV</a></tt>-<tt><a href="ceb_gja-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="ceb_gja-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ceb_gja-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="ceb_gja-pos-PART.html">PART</a></tt>-<tt><a href="ceb_gja-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="ceb_gja-pos-PRON.html">PRON</a></tt>-<tt><a href="ceb_gja-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="ceb_gja-pos-PRON.html">PRON</a></tt>-<tt><a href="ceb_gja-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="ceb_gja-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ceb_gja-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="ceb_gja-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ceb_gja-pos-PRON.html">PRON</a></tt> (1; 1% instances).
+The following 17 pairs of parts of speech are connected with `nmod`: <tt><a href="ceb_gja-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ceb_gja-pos-PRON.html">PRON</a></tt> (51; 53% instances), <tt><a href="ceb_gja-pos-VERB.html">VERB</a></tt>-<tt><a href="ceb_gja-pos-PRON.html">PRON</a></tt> (19; 20% instances), <tt><a href="ceb_gja-pos-PRON.html">PRON</a></tt>-<tt><a href="ceb_gja-pos-NOUN.html">NOUN</a></tt> (5; 5% instances), <tt><a href="ceb_gja-pos-VERB.html">VERB</a></tt>-<tt><a href="ceb_gja-pos-NOUN.html">NOUN</a></tt> (5; 5% instances), <tt><a href="ceb_gja-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ceb_gja-pos-NOUN.html">NOUN</a></tt> (3; 3% instances), <tt><a href="ceb_gja-pos-ADV.html">ADV</a></tt>-<tt><a href="ceb_gja-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="ceb_gja-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ceb_gja-pos-PROPN.html">PROPN</a></tt> (2; 2% instances), <tt><a href="ceb_gja-pos-ADV.html">ADV</a></tt>-<tt><a href="ceb_gja-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="ceb_gja-pos-ADV.html">ADV</a></tt>-<tt><a href="ceb_gja-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="ceb_gja-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ceb_gja-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="ceb_gja-pos-PART.html">PART</a></tt>-<tt><a href="ceb_gja-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="ceb_gja-pos-PRON.html">PRON</a></tt>-<tt><a href="ceb_gja-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="ceb_gja-pos-PRON.html">PRON</a></tt>-<tt><a href="ceb_gja-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="ceb_gja-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ceb_gja-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="ceb_gja-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ceb_gja-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="ceb_gja-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ceb_gja-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="ceb_gja-pos-VERB.html">VERB</a></tt>-<tt><a href="ceb_gja-pos-ADV.html">ADV</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -27,7 +27,7 @@ The following 15 pairs of parts of speech are connected with `nmod`: <tt><a href
 3	Cebu	Cebu	PROPN	_	_	1	obl	_	Gloss=Cebu
 4	ang	ang	ADP	_	Case=Nom	7	case	_	_
 5	ako	ako	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nmod	_	Gloss=my
-6	-ng	nga	PART	_	_	5	fixed	_	Gloss=LINK
+6	-ng	nga	PART	_	_	5	mark	_	Gloss=LINK
 7	ginikanan	ginikanan	NOUN	_	_	1	nsubj	_	Gloss=parents|SpaceAfter=No
 8	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 

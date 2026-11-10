@@ -22,7 +22,7 @@ The most frequent other feature values with which `AUX` and `Polarity` co-occurr
 
 `AUX` tokens may have the following values of `Polarity`:
 
-* `Neg` (32; 100% of non-empty `Polarity`): <em>оз, эз, абу, эг, не, озӧ, эн, абуöсь, ог, он</em>
+* `Neg` (32; 100% of non-empty `Polarity`): <em>оз, эз, абу, эг, не, озӧ, эн, абуӧсь, ог, он</em>
 * `EMPTY` (13): <em>вермы, вӧлі, абу, бы, верман, вӧв, коліс, не, овлӧ, овны</em>
 
 ### `ADV`
@@ -34,7 +34,7 @@ The most frequent other feature values with which `ADV` and `Polarity` co-occurr
 `ADV` tokens may have the following values of `Polarity`:
 
 * `Neg` (2; 100% of non-empty `Polarity`): <em>нем, ни</em>
-* `EMPTY` (100): <em>кыдз, ни, сэсся, кытӧн, кӧр, сё, талун, чожа, эшӧ, дасöтiсь</em>
+* `EMPTY` (100): <em>кыдз, ни, кӧр, сэсся, кытӧн, сё, талун, татӧн, чожа, эшӧ</em>
 
 ### `PRON`
 
@@ -45,7 +45,7 @@ The most frequent other feature values with which `PRON` and `Polarity` co-occur
 `PRON` tokens may have the following values of `Polarity`:
 
 * `Neg` (2; 100% of non-empty `Polarity`): <em>некин, нем</em>
-* `EMPTY` (119): <em>сія, ме, тэ, менам, мый, тэнат, сійӧ, Сiя, меным, нія</em>
+* `EMPTY` (119): <em>сія, ме, тэ, менам, мый, сылӧн, тэнат, сійӧ, меным, нія</em>
 
 ### `VERB`
 
@@ -56,7 +56,7 @@ The most frequent other feature values with which `VERB` and `Polarity` co-occur
 `VERB` tokens may have the following values of `Polarity`:
 
 * `Neg` (1; 100% of non-empty `Polarity`): <em>эд</em>
-* `EMPTY` (205): <em>зэрӧ, быдмис, локтін, босьтіс, вашöтö, велалас, высьтіс, вӧтны, гижис, керны</em>
+* `EMPTY` (205): <em>зэрӧ, быдмис, локтін, юаліс, босьтіс, вашӧтӧ, велалас, высьтіс, вӧтны, гижис</em>
 
 ## Relations with Agreement in `Polarity`
 

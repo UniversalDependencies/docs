@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-257 nodes (9%) are attached to their parents as `obj`.
+256 nodes (9%) are attached to their parents as `obj`.
 
-254 instances of `obj` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.24513618677043.
+253 instances of `obj` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.23828125.
 
-The following 8 pairs of parts of speech are connected with `obj`: <tt><a href="sab_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="sab_chibergis-pos-NOUN.html">NOUN</a></tt> (229; 89% instances), <tt><a href="sab_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="sab_chibergis-pos-PRON.html">PRON</a></tt> (15; 6% instances), <tt><a href="sab_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="sab_chibergis-pos-PROPN.html">PROPN</a></tt> (5; 2% instances), <tt><a href="sab_chibergis-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sab_chibergis-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="sab_chibergis-pos-ADV.html">ADV</a></tt>-<tt><a href="sab_chibergis-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="sab_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="sab_chibergis-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="sab_chibergis-pos-ADV.html">ADV</a></tt>-<tt><a href="sab_chibergis-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="sab_chibergis-pos-NUM.html">NUM</a></tt>-<tt><a href="sab_chibergis-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `obj`: <tt><a href="sab_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="sab_chibergis-pos-NOUN.html">NOUN</a></tt> (228; 89% instances), <tt><a href="sab_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="sab_chibergis-pos-PRON.html">PRON</a></tt> (15; 6% instances), <tt><a href="sab_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="sab_chibergis-pos-PROPN.html">PROPN</a></tt> (5; 2% instances), <tt><a href="sab_chibergis-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sab_chibergis-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="sab_chibergis-pos-ADV.html">ADV</a></tt>-<tt><a href="sab_chibergis-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="sab_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="sab_chibergis-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="sab_chibergis-pos-ADV.html">ADV</a></tt>-<tt><a href="sab_chibergis-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="sab_chibergis-pos-NUM.html">NUM</a></tt>-<tt><a href="sab_chibergis-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

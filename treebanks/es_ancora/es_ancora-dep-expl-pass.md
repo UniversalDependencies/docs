@@ -59,11 +59,11 @@ The following 2 pairs of parts of speech are connected with `expl:pass`: <tt><a 
 12	hamburguesas	hamburguesa	NOUN	ncfp000	Gender=Fem|Number=Plur	8	nmod	8:nmod	ArgTem=arg1:pat
 13	(	(	PUNCT	fpa	PunctSide=Ini|PunctType=Brck	14	punct	14:punct	SpaceAfter=No
 14	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	appos	12:appos	_
-15	de	de	ADP	sps00	_	14	case	14:case	_
+15	de	de	ADP	sps00	_	16	case	16:case	_
 16	Barcelona	Barcelona	PROPN	np00000	_	14	nmod	14:nmod	Entity=(CESSCASTP199901023c13-place-1-CorefType:ident,gstype:spec)
 17	y	y	CCONJ	cc	_	18	cc	18:cc	_
 18	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	conj	14:conj	_
-19	de	de	ADP	sps00	_	18	case	18:case	_
+19	de	de	ADP	sps00	_	20	case	20:case	_
 20	Berlín	Berlín	PROPN	np00000	_	18	appos	18:appos	Entity=(CESSCASTP199901023c14-place-1-CorefType:ident,gstype:spec)|SpaceAfter=No
 21	)	)	PUNCT	fpt	PunctSide=Fin|PunctType=Brck	14	punct	14:punct	SpaceAfter=No
 22	,	,	PUNCT	fc	PunctType=Comm	14	punct	14:punct	Entity=NOCOREF:Gen)NOCOREF:Spec.number)

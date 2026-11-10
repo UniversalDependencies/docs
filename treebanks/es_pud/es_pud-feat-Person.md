@@ -12,19 +12,19 @@ It occurs with 3 different values: `1`, `2`, `3`.
 2684 tokens (12%) have a non-empty value of `Person`.
 971 types (16%) occur at least once with a non-empty value of `Person`.
 464 lemmas (10%) occur at least once with a non-empty value of `Person`.
-The feature is used with 4 part-of-speech tags: <tt><a href="es_pud-pos-VERB.html">VERB</a></tt> (1331; 6% instances), <tt><a href="es_pud-pos-PRON.html">PRON</a></tt> (759; 3% instances), <tt><a href="es_pud-pos-AUX.html">AUX</a></tt> (576; 2% instances), <tt><a href="es_pud-pos-DET.html">DET</a></tt> (18; 0% instances).
+The feature is used with 4 part-of-speech tags: <tt><a href="es_pud-pos-VERB.html">VERB</a></tt> (1330; 6% instances), <tt><a href="es_pud-pos-PRON.html">PRON</a></tt> (759; 3% instances), <tt><a href="es_pud-pos-AUX.html">AUX</a></tt> (577; 2% instances), <tt><a href="es_pud-pos-DET.html">DET</a></tt> (18; 0% instances).
 
 ### `VERB`
 
-1331 <tt><a href="es_pud-pos-VERB.html">VERB</a></tt> tokens (59% of all `VERB` tokens) have a non-empty value of `Person`.
+1330 <tt><a href="es_pud-pos-VERB.html">VERB</a></tt> tokens (59% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="es_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1331; 100%), <tt><a href="es_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1331; 100%), <tt><a href="es_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1221; 92%), <tt><a href="es_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (967; 73%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="es_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1330; 100%), <tt><a href="es_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1330; 100%), <tt><a href="es_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1220; 92%), <tt><a href="es_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (966; 73%).
 
 `VERB` tokens may have the following values of `Person`:
 
 * `1` (58; 4% of non-empty `Person`): <em>creo, creemos, espero, estamos, estoy, quería, sé, tenemos, tengo, Avancemos</em>
 * `2` (6; 0% of non-empty `Person`): <em>Buck, Knew, Knuck, Terminas, oyes, tienes</em>
-* `3` (1267; 95% of non-empty `Person`): <em>dijo, tiene, es, hay, hace, está, tienen, dice, afirmó, convirtió</em>
+* `3` (1266; 95% of non-empty `Person`): <em>dijo, tiene, es, hay, hace, está, tienen, dice, afirmó, convirtió</em>
 * `EMPTY` (939): <em>hacer, tener, debido, ver, hecho, establecer, escrito, tenido, ayudar, dado</em>
 
 <table>
@@ -47,7 +47,7 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 
 ### `PRON`
 
-759 <tt><a href="es_pud-pos-PRON.html">PRON</a></tt> tokens (73% of all `PRON` tokens) have a non-empty value of `Person`.
+759 <tt><a href="es_pud-pos-PRON.html">PRON</a></tt> tokens (72% of all `PRON` tokens) have a non-empty value of `Person`.
 
 The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="es_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (758; 100%), <tt><a href="es_pud-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (532; 70%), <tt><a href="es_pud-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (445; 59%), <tt><a href="es_pud-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt> (428; 56%), <tt><a href="es_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (398; 52%).
 
@@ -56,19 +56,19 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 * `1` (31; 4% of non-empty `Person`): <em>me, nos, yo, My, mí</em>
 * `2` (9; 1% of non-empty `Person`): <em>You, te, Ya, os, tú, usted, ustedes</em>
 * `3` (719; 95% of non-empty `Person`): <em>se, su, lo, sus, le, ellos, él, les, ella, la</em>
-* `EMPTY` (287): <em>que, cual, cuales, quien, tanto, cuál, qué, quienes, cuanto, quién</em>
+* `EMPTY` (294): <em>que, cual, cuales, quien, algo, tanto, cuál, qué, quienes, cuanto</em>
 
 ### `AUX`
 
-576 <tt><a href="es_pud-pos-AUX.html">AUX</a></tt> tokens (91% of all `AUX` tokens) have a non-empty value of `Person`.
+577 <tt><a href="es_pud-pos-AUX.html">AUX</a></tt> tokens (91% of all `AUX` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="es_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (576; 100%), <tt><a href="es_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (520; 90%), <tt><a href="es_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (422; 73%).
+The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="es_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (577; 100%), <tt><a href="es_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (521; 90%), <tt><a href="es_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (423; 73%).
 
 `AUX` tokens may have the following values of `Person`:
 
 * `1` (23; 4% of non-empty `Person`): <em>debemos, he, estamos, hemos, podemos, era, estaré, había, puedo, seamos</em>
 * `2` (5; 1% of non-empty `Person`): <em>Do, Tienes, habéis, has, puedes</em>
-* `3` (548; 95% of non-empty `Person`): <em>es, fue, ha, había, está, era, puede, son, fueron, han</em>
+* `3` (549; 95% of non-empty `Person`): <em>es, fue, ha, había, está, era, puede, son, fueron, han</em>
 * `EMPTY` (58): <em>ser, sido, haber, siendo, estar, estado, poder, Did, Habiendo</em>
 
 <table>

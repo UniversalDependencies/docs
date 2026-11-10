@@ -107,7 +107,7 @@ The following 3 pairs of parts of speech are connected with `det:predet`: <tt><a
 15	mio	mio	DET	as1ms	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	16	det:poss	16:det:poss	Canto=10|Verso=101|UniqueTokenId=OldItalian_Dante_Paradiso-323_15
 16	parlar	parlare	VERB	vi1fpsm3ms	Tense=Pres|VerbForm=Inf	19	obl:lmod	19:obl:lmod	Canto=10|Verso=101|UniqueTokenId=OldItalian_Dante_Paradiso-323_16
 17	te	te	PRON	_	Number=Sing|Person=2|PronType=Prs	19	iobj	19:iobj	Clitic=Yes|UniqueTokenId=OldItalian_Dante_Paradiso-323_17
-18	ne	ne	PRON	_	_	19	obl	19:obl	UniqueTokenId=OldItalian_Dante_Paradiso-323_18
+18	ne	ne	PRON	_	PronType=Prs	19	obl	19:obl	UniqueTokenId=OldItalian_Dante_Paradiso-323_18
 19	vien	venire	VERB	vi+3mps2	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	0:root	Canto=10|Verso=101|UniqueTokenId=OldItalian_Dante_Paradiso-323_19
 20	con	con	ADP	_	_	22	case	22:case	UniqueTokenId=OldItalian_Dante_Paradiso-323_20
 21	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	22:det	UniqueTokenId=OldItalian_Dante_Paradiso-323_21

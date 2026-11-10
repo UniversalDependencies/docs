@@ -9,10 +9,10 @@ udver: '2'
 This feature is language-specific.
 It occurs with 4 different values: `ADP`, `ADV`, `CCONJ`, `SCONJ`.
 
-58 tokens (0%) have a non-empty value of `ExtPos`.
-10 types (0%) occur at least once with a non-empty value of `ExtPos`.
-4 lemmas (0%) occur at least once with a non-empty value of `ExtPos`.
-The feature is used with 3 part-of-speech tags: <tt><a href="ru_gsd-pos-PRON.html">PRON</a></tt> (38; 0% instances), <tt><a href="ru_gsd-pos-DET.html">DET</a></tt> (17; 0% instances), <tt><a href="ru_gsd-pos-ADP.html">ADP</a></tt> (3; 0% instances).
+78 tokens (0%) have a non-empty value of `ExtPos`.
+13 types (0%) occur at least once with a non-empty value of `ExtPos`.
+6 lemmas (0%) occur at least once with a non-empty value of `ExtPos`.
+The feature is used with 4 part-of-speech tags: <tt><a href="ru_gsd-pos-PRON.html">PRON</a></tt> (38; 0% instances), <tt><a href="ru_gsd-pos-ADV.html">ADV</a></tt> (20; 0% instances), <tt><a href="ru_gsd-pos-DET.html">DET</a></tt> (17; 0% instances), <tt><a href="ru_gsd-pos-ADP.html">ADP</a></tt> (3; 0% instances).
 
 ### `PRON`
 
@@ -31,6 +31,16 @@ The most frequent other feature values with which `PRON` and `ExtPos` co-occurre
   <tr><td><tt><tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=Ins</tt></tt></td><td><em>тем</em></td><td></td><td><em>тем</em></td></tr>
   <tr><td><tt><tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td></td><td><em>то, т.</em></td><td></td></tr>
 </table>
+
+### `ADV`
+
+20 <tt><a href="ru_gsd-pos-ADV.html">ADV</a></tt> tokens (1% of all `ADV` tokens) have a non-empty value of `ExtPos`.
+
+The most frequent other feature values with which `ADV` and `ExtPos` co-occurred: <tt><a href="ru_gsd-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (20; 100%).
+
+`ADV` tokens may have the following values of `ExtPos`:
+
+* `ADV` (20; 100% of non-empty `ExtPos`): <em>несмотря, иначе</em>
 
 ### `DET`
 

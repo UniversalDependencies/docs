@@ -38,7 +38,7 @@ The 3rd highest number of forms (6) was observed with the lemma “велӧдн�
 
 `VERB` occurs with 36 feature combinations.
 The most frequent feature combination is `Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin` (82 tokens).
-Examples: <em>сетіс, босьтіс, вежсис, воедіс, примитіс, пукаліс, чеччис, xывнитіс, ветліс, пондіс</em>
+Examples: <em>сетіс, босьтіс, вежсис, воедіс, примитіс, пукаліс, чеччис, ветліс, пондіс, приведитчис</em>
 
 
 ## Relations

@@ -8,27 +8,28 @@ udver: '2'
 
 This relation is universal.
 
-200 nodes (4%) are attached to their parents as `root`.
+235 nodes (3%) are attached to their parents as `root`.
 
-200 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 11.315.
+235 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 12.068085106383.
 
-The following 9 pairs of parts of speech are connected with `root`: -<tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt> (134; 67% instances), -<tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt> (39; 20% instances), -<tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt> (12; 6% instances), -<tt><a href="ps_sikaram-pos-PRON.html">PRON</a></tt> (4; 2% instances), -<tt><a href="ps_sikaram-pos-X.html">X</a></tt> (4; 2% instances), -<tt><a href="ps_sikaram-pos-NUM.html">NUM</a></tt> (3; 2% instances), -<tt><a href="ps_sikaram-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), -<tt><a href="ps_sikaram-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), -<tt><a href="ps_sikaram-pos-PART.html">PART</a></tt> (1; 1% instances).
+The following 10 pairs of parts of speech are connected with `root`: -<tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt> (158; 67% instances), -<tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt> (44; 19% instances), -<tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt> (14; 6% instances), -<tt><a href="ps_sikaram-pos-PRON.html">PRON</a></tt> (5; 2% instances), -<tt><a href="ps_sikaram-pos-NUM.html">NUM</a></tt> (4; 2% instances), -<tt><a href="ps_sikaram-pos-X.html">X</a></tt> (4; 2% instances), -<tt><a href="ps_sikaram-pos-PROPN.html">PROPN</a></tt> (3; 1% instances), -<tt><a href="ps_sikaram-pos-AUX.html">AUX</a></tt> (1; 0% instances), -<tt><a href="ps_sikaram-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), -<tt><a href="ps_sikaram-pos-PART.html">PART</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
-# visual-style 0 6 root	color:blue
-1	نجلۍ	نجلۍ	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	6	nsubj	_	Translit=njëlë́y|LTranslit=njëlë́y|Gloss=girl
+# visual-style 0 7 root	color:blue
+1	نجلۍ	نجلۍ	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	7	nsubj	_	Translit=njëlë́y|LTranslit=njëlë́y|Gloss=girl
 2	خپل	خپل	DET	_	Case=Acc|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	3	det	_	Translit=xpël|LTranslit=xpël|Gloss=own
-3	ملګري	ملګری	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	6	obl	_	Translit=mëlgë́ri|LTranslit=mëlgë́ray|Gloss=friend
-4	ته	ته	ADP	_	Case=Acc	3	case	_	Translit=ta|LTranslit=ta|Gloss=to
-5	لیک	لیک	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	6	obj	_	Translit=lik|LTranslit=lik|Gloss=letter
-6	ولیکۀ	لیکل	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Translit=wë́likë|LTranslit=likë́l|Gloss=wrote|SpaceAfter=No
-7	.	.	PUNCT	_	_	6	punct	_	Translit=.|LTranslit=.|Gloss=.|SpaceAfter=No
+3	ملګري	ملګری	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	7	obl	_	Translit=mëlgë́ri|LTranslit=mëlgë́ray|Gloss=friend
+4	ته	ته	ADP	_	Case=Acc	7	case	_	Translit=ta|LTranslit=ta|Gloss=to
+5	لیک	لیک	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	7	obj	_	Translit=lik|LTranslit=lik|Gloss=letter
+6	و	و	AUX	_	Aspect=Perf	7	aux:preverb	_	Translit=wë|LTranslit=wë|Gloss=_
+7	لیکۀ	لیکل	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Translit=likë|LTranslit=likë́l|Gloss=wrote
+8	.	.	PUNCT	_	_	7	punct	_	Translit=.|LTranslit=.|Gloss=.|SpaceAfter=No
 
 ~~~
 
@@ -51,21 +52,23 @@ The following 9 pairs of parts of speech are connected with `root`: -<tt><a href
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
-# visual-style 0 8 root	color:blue
-1	زما	زۀ	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	2	nmod	_	Translit=zmâ|LTranslit=zë|Gloss=my
-2	پلار	پلار	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	Translit=plâr|LTranslit=plâr|Gloss=father
-3	ستا	تۀ	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	5	nmod	_	Translit=stâ|LTranslit=të|Gloss=your
-4	له	له	ADP	_	Case=Acc	5	case	_	Translit=la|LTranslit=la|Gloss=from
-5	پلار	پلار	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	7	nmod	_	Translit=plâr|LTranslit=plâr|Gloss=father
-6	څخه	څخه	ADP	_	Case=Acc	5	case	_	Translit=cë́xa|LTranslit=cë́xa|Gloss=from
-7	ساعت	ساعت	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	8	compound	_	Translit=sâát|LTranslit=sâát|Gloss=hour
-8	تېره	تېره	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	Translit=téra|LTranslit=téra|Gloss=spending
-9	دﺉ	ول	AUX	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	Translit=dëy|LTranslit=wël|Gloss=is|SpaceAfter=No
-10	.	.	PUNCT	_	_	8	punct	_	Translit=.|LTranslit=.|Gloss=.|SpaceAfter=No
+# visual-style 0 10 root	color:blue
+1	د	د	ADP	_	Case=Acc	2	case	_	Translit=dë|LTranslit=dë|Gloss=of
+2	ما	زۀ	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	3	nmod	_	Translit=mâ|LTranslit=zë|Gloss=me
+3	پلار	پلار	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	Translit=plâr|LTranslit=plâr|Gloss=father
+4	د	د	ADP	_	Case=Acc	5	case	_	Translit=dë|LTranslit=dë|Gloss=of
+5	تا	تۀ	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	7	nmod	_	Translit=tâ|LTranslit=të|Gloss=you
+6	له	له	ADP	_	Case=Acc	7	case	_	Translit=la|LTranslit=la|Gloss=from
+7	پلار	پلار	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	9	nmod	_	Translit=plâr|LTranslit=plâr|Gloss=father
+8	څخه	څخه	ADP	_	Case=Acc	7	case	_	Translit=cë́xa|LTranslit=cë́xa|Gloss=from
+9	ساعت	ساعت	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	10	compound	_	Translit=sâát|LTranslit=sâát|Gloss=hour
+10	تېره	تېره	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	Translit=téra|LTranslit=téra|Gloss=spending
+11	دﺉ	ول	AUX	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	Translit=dëy|LTranslit=wël|Gloss=is|SpaceAfter=No
+12	.	.	PUNCT	_	_	10	punct	_	Translit=.|LTranslit=.|Gloss=.|SpaceAfter=No
 
 ~~~
 

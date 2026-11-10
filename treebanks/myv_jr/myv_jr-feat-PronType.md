@@ -131,6 +131,8 @@ The most frequent other feature values with which `ADJ` and `PronType` co-occurr
 
 2 <tt><a href="myv_jr-pos-SCONJ.html">SCONJ</a></tt> tokens (3% of all `SCONJ` tokens) have a non-empty value of `PronType`.
 
+The most frequent other feature values with which `SCONJ` and `PronType` co-occurred: <tt><a href="myv_jr-feat-ConjType.html">ConjType</a></tt><tt>=EMPTY</tt> (2; 100%).
+
 `SCONJ` tokens may have the following values of `PronType`:
 
 * `Dem` (1; 50% of non-empty `PronType`): <em>теке</em>

@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.2 release.
 The following people have contributed to making this treebank part of UD: Alina Wróblewska, Daniel Zeman, Jan Mašek, Rudolf Rosa.
 
 Repository: [UD_Polish-PDB](https://github.com/UniversalDependencies/UD_Polish-PDB)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udpl_pdb218)<br />
-Download all treebanks: [UD 2.18](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udpl_pdb219)<br />
+Download all treebanks: [UD 2.19](/#download)
 
 License: CC BY-NC-SA 4.0
 
@@ -464,7 +464,7 @@ We want to thank all contributors to the original Polish Dependency Bank 2.0, as
   <li>Pre
     <ul>
       <li>ADJ: prostu, dawna, daleka, wolna, angielsku, niedawna, nowa, pijanemu, bliska, cichu</li>
-      <li>PRON: nich, nim, niego, niej, nią, nimi, nie, niemu, ń, on</li>
+      <li>PRON: nich, nim, niego, niej, nią, nimi, nie, niemu, on</li>
     </ul>
   </li>
 </ul>
@@ -547,7 +547,7 @@ We want to thank all contributors to the original Polish Dependency Bank 2.0, as
       <li>ADJ: gotów, ciekaw, winien, godzien</li>
       <li>ADP: w, z, od, przez, przed, pod, nad, bez, poprzez, spod</li>
       <li>AUX: m, śmy, ś, ście</li>
-      <li>PRON: go, mi, mu, ci, cię, ich, je, im, ń, jej</li>
+      <li>PRON: go, mi, mu, ci, cię, ich, je, im, niego, jej</li>
     </ul>
   </li>
 </ul>
@@ -893,9 +893,9 @@ We want to thank all contributors to the original Polish Dependency Bank 2.0, as
     <ul>
       <li>Yes
         <ul>
-          <li>ADJ: św, b, ww, Gd, d, in, kw, pn, proc, st</li>
-          <li>ADP: ds, nt</li>
-          <li>ADV: np, m.in, tzw, itp, itd, pt, a, n.p.m, tzn, b</li>
+          <li>ADJ: tzw, św, b, ww, Gd, d, in, kw, pn, proc</li>
+          <li>ADP: ds, pt, nt</li>
+          <li>ADV: np, m.in, itp, itd, a, n.p.m, tzn, b, por, SJL</li>
           <li>NOUN: r, zł, art, tys, proc, ust, %, ul, godz, mln</li>
           <li>PART: ok</li>
           <li>PROPN: K, S, A, M, J, b, c, H, G, P</li>
@@ -1026,7 +1026,7 @@ We want to thank all contributors to the original Polish Dependency Bank 2.0, as
       </li>
       <li>VERB
         <ul>
-          <li>VERB-Fin: ma, Jesteśmy</li>
+          <li>VERB-Fin: ma</li>
           <li>VERB-Inf: Być</li>
         </ul>
       </li>
@@ -1289,7 +1289,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN (57)</li>
       <li>VERB-Fin--NOUN-Acc (942)</li>
       <li>VERB-Fin--NOUN-Dat (560)</li>
-      <li>VERB-Fin--NOUN-Gen (602)</li>
+      <li>VERB-Fin--NOUN-Gen (603)</li>
       <li>VERB-Fin--NOUN-Ins (786)</li>
       <li>VERB-Fin--NOUN-Loc-ADP(o) (1)</li>
       <li>VERB-Fin--NOUN-Nom (17)</li>

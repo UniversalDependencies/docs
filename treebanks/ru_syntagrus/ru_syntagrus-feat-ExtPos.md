@@ -9,10 +9,10 @@ udver: '2'
 This feature is language-specific.
 It occurs with 12 different values: `ADJ`, `ADP`, `ADV`, `CCONJ`, `DET`, `INTJ`, `NOUN`, `NUM`, `PART`, `PRON`, `SCONJ`, `VERB`.
 
-11499 tokens (1%) have a non-empty value of `ExtPos`.
-227 types (0%) occur at least once with a non-empty value of `ExtPos`.
-120 lemmas (0%) occur at least once with a non-empty value of `ExtPos`.
-The feature is used with 11 part-of-speech tags: <tt><a href="ru_syntagrus-pos-ADP.html">ADP</a></tt> (4396; 0% instances), <tt><a href="ru_syntagrus-pos-ADV.html">ADV</a></tt> (2793; 0% instances), <tt><a href="ru_syntagrus-pos-PRON.html">PRON</a></tt> (1487; 0% instances), <tt><a href="ru_syntagrus-pos-CCONJ.html">CCONJ</a></tt> (1076; 0% instances), <tt><a href="ru_syntagrus-pos-PART.html">PART</a></tt> (901; 0% instances), <tt><a href="ru_syntagrus-pos-SCONJ.html">SCONJ</a></tt> (469; 0% instances), <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt> (191; 0% instances), <tt><a href="ru_syntagrus-pos-DET.html">DET</a></tt> (139; 0% instances), <tt><a href="ru_syntagrus-pos-NUM.html">NUM</a></tt> (23; 0% instances), <tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt> (22; 0% instances), <tt><a href="ru_syntagrus-pos-INTJ.html">INTJ</a></tt> (2; 0% instances).
+11500 tokens (1%) have a non-empty value of `ExtPos`.
+228 types (0%) occur at least once with a non-empty value of `ExtPos`.
+121 lemmas (0%) occur at least once with a non-empty value of `ExtPos`.
+The feature is used with 11 part-of-speech tags: <tt><a href="ru_syntagrus-pos-ADP.html">ADP</a></tt> (4396; 0% instances), <tt><a href="ru_syntagrus-pos-ADV.html">ADV</a></tt> (2793; 0% instances), <tt><a href="ru_syntagrus-pos-PRON.html">PRON</a></tt> (1487; 0% instances), <tt><a href="ru_syntagrus-pos-CCONJ.html">CCONJ</a></tt> (1076; 0% instances), <tt><a href="ru_syntagrus-pos-PART.html">PART</a></tt> (902; 0% instances), <tt><a href="ru_syntagrus-pos-SCONJ.html">SCONJ</a></tt> (469; 0% instances), <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt> (191; 0% instances), <tt><a href="ru_syntagrus-pos-DET.html">DET</a></tt> (139; 0% instances), <tt><a href="ru_syntagrus-pos-NUM.html">NUM</a></tt> (23; 0% instances), <tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt> (22; 0% instances), <tt><a href="ru_syntagrus-pos-INTJ.html">INTJ</a></tt> (2; 0% instances).
 
 ### `ADP`
 
@@ -98,13 +98,13 @@ The most frequent other feature values with which `PRON` and `ExtPos` co-occurre
 
 ### `PART`
 
-901 <tt><a href="ru_syntagrus-pos-PART.html">PART</a></tt> tokens (2% of all `PART` tokens) have a non-empty value of `ExtPos`.
+902 <tt><a href="ru_syntagrus-pos-PART.html">PART</a></tt> tokens (2% of all `PART` tokens) have a non-empty value of `ExtPos`.
 
-The most frequent other feature values with which `PART` and `ExtPos` co-occurred: <tt><a href="ru_syntagrus-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (648; 72%).
+The most frequent other feature values with which `PART` and `ExtPos` co-occurred: <tt><a href="ru_syntagrus-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (649; 72%).
 
 `PART` tokens may have the following values of `ExtPos`:
 
-* `ADV` (649; 72% of non-empty `ExtPos`): <em>хотя, все, только, разве, ни, будто, и, всё, не, лишь</em>
+* `ADV` (650; 72% of non-empty `ExtPos`): <em>хотя, все, только, разве, ни, будто, и, всё, не, лишь</em>
 * `CCONJ` (177; 20% of non-empty `ExtPos`): <em>не, хоть, ну, вот, да, тоже</em>
 * `INTJ` (1; 0% of non-empty `ExtPos`): <em>Ну</em>
 * `NOUN` (1; 0% of non-empty `ExtPos`): <em>нет</em>

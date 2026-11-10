@@ -22,20 +22,20 @@ The following 22 pairs of parts of speech are connected with `vocative`: <tt><a 
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 6 vocative	color:blue
-1	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	AlignBegin=115746|AlignEnd=115830|Gloss=NOM.SG.1
-2	say	say	VERB	_	_	0	root	_	AlignBegin=115830|AlignEnd=116020|Gloss=say
-3	[	[	PUNCT	_	_	9	punct	_	AlignBegin=116020|AlignEnd=116020|Gloss=PUNCT
-4	toh	toh	INTJ	_	_	9	discourse	_	AlignBegin=116020|AlignEnd=116210|Gloss=alright
-5	but	but	CCONJ	_	_	9	cc	_	AlignBegin=116210|AlignEnd=116330|Gloss=but
-6	uncle	uncle	NOUN	_	_	9	vocative	_	AlignBegin=116330|AlignEnd=116608|Gloss=uncle
-7	<	<	PUNCT	_	_	6	punct	_	AlignBegin=116608|AlignEnd=116608|Gloss=PUNCT
-8	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	AlignBegin=116608|AlignEnd=116730|Gloss=NOM.SG.1
-9	wan	want	VERB	_	_	2	parataxis	_	AlignBegin=116730|AlignEnd=116940|Gloss=want
-10	go	go	VERB	_	_	9	xcomp	_	AlignBegin=116940|AlignEnd=117140|Gloss=go
-11	school	school	NOUN	_	_	10	obl:arg	_	AlignBegin=117140|AlignEnd=117370|Gloss=school
-12	o	o	PART	_	PartType=Disc	9	advmod	_	AlignBegin=117370|AlignEnd=117617|Gloss=EMPH
-13	//]	//]	PUNCT	_	_	9	punct	_	AlignBegin=117617|AlignEnd=117617|Gloss=PUNCT
-14	//	//	PUNCT	_	_	2	punct	_	AlignBegin=117587|AlignEnd=117617|Gloss=PUNCT
+1	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	Gloss=NOM.SG.1|WordAlignmentBegin=115746|WordAlignmentEnd=115830
+2	say	say	VERB	_	_	0	root	_	Gloss=say|WordAlignmentBegin=115830|WordAlignmentEnd=116020
+3	[	[	PUNCT	_	_	9	punct	_	Gloss=PUNCT|WordAlignmentBegin=116020|WordAlignmentEnd=116020
+4	toh	toh	INTJ	_	_	9	discourse	_	Gloss=alright|WordAlignmentBegin=116020|WordAlignmentEnd=116210
+5	but	but	CCONJ	_	_	9	cc	_	Gloss=but|WordAlignmentBegin=116210|WordAlignmentEnd=116330
+6	uncle	uncle	NOUN	_	_	9	vocative	_	Gloss=uncle|WordAlignmentBegin=116330|WordAlignmentEnd=116608
+7	<	<	PUNCT	_	_	6	punct	_	Gloss=PUNCT|WordAlignmentBegin=116608|WordAlignmentEnd=116608
+8	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	Gloss=NOM.SG.1|WordAlignmentBegin=116608|WordAlignmentEnd=116730
+9	wan	want	VERB	_	_	2	parataxis	_	Gloss=want|WordAlignmentBegin=116730|WordAlignmentEnd=116940
+10	go	go	VERB	_	_	9	xcomp	_	Gloss=go|WordAlignmentBegin=116940|WordAlignmentEnd=117140
+11	school	school	NOUN	_	_	10	obl:arg	_	Gloss=school|WordAlignmentBegin=117140|WordAlignmentEnd=117370
+12	o	o	PART	_	PartType=Disc	9	advmod	_	Gloss=EMPH|WordAlignmentBegin=117370|WordAlignmentEnd=117617
+13	//]	//]	PUNCT	_	_	9	punct	_	Gloss=PUNCT|WordAlignmentBegin=117617|WordAlignmentEnd=117617
+14	//	//	PUNCT	_	_	2	punct	_	Gloss=PUNCT|WordAlignmentBegin=117587|WordAlignmentEnd=117617
 
 ~~~
 
@@ -46,17 +46,17 @@ The following 22 pairs of parts of speech are connected with `vocative`: <tt><a 
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 2 vocative	color:blue
-1	#	#	PUNCT	_	_	8	punct	_	AlignBegin=13254|AlignEnd=14060|Gloss=PUNCT
-2	God	God	PROPN	_	_	8	vocative	_	AlignBegin=14060|AlignEnd=14263|Gloss=God
-3	<	<	PUNCT	_	_	2	punct	_	AlignBegin=14263|AlignEnd=14263|Gloss=PUNCT
-4	a	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	AlignBegin=14263|AlignEnd=14360|Gloss=NOM.SG.1
-5	beg	beg	VERB	_	_	8	parataxis:discourse	_	AlignBegin=14360|AlignEnd=14610|Gloss=beg
-6	<	<	PUNCT	_	_	8	punct	_	AlignBegin=14610|AlignEnd=14610|Gloss=PUNCT
-7	just	just	ADV	_	_	8	advmod	_	AlignBegin=14610|AlignEnd=14836|Gloss=just
-8	try	try	VERB	_	_	0	root	_	AlignBegin=14836|AlignEnd=15000|Gloss=try
-9	help	help	VERB	_	_	8	xcomp	_	AlignBegin=15000|AlignEnd=15207|Gloss=help
-10	me	me	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	9	obj	_	AlignBegin=15207|AlignEnd=15463|Gloss=ACC.SG.1
-11	//	//	PUNCT	_	_	8	punct	_	AlignBegin=15463|AlignEnd=15463|Gloss=PUNCT
+1	#	#	PUNCT	_	_	8	punct	_	Gloss=PUNCT|WordAlignmentBegin=13254|WordAlignmentEnd=14060
+2	God	God	PROPN	_	_	8	vocative	_	Gloss=God|WordAlignmentBegin=14060|WordAlignmentEnd=14263
+3	<	<	PUNCT	_	_	2	punct	_	Gloss=PUNCT|WordAlignmentBegin=14263|WordAlignmentEnd=14263
+4	a	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	Gloss=NOM.SG.1|WordAlignmentBegin=14263|WordAlignmentEnd=14360
+5	beg	beg	VERB	_	_	8	parataxis:discourse	_	Gloss=beg|WordAlignmentBegin=14360|WordAlignmentEnd=14610
+6	<	<	PUNCT	_	_	8	punct	_	Gloss=PUNCT|WordAlignmentBegin=14610|WordAlignmentEnd=14610
+7	just	just	ADV	_	_	8	advmod	_	Gloss=just|WordAlignmentBegin=14610|WordAlignmentEnd=14836
+8	try	try	VERB	_	_	0	root	_	Gloss=try|WordAlignmentBegin=14836|WordAlignmentEnd=15000
+9	help	help	VERB	_	_	8	xcomp	_	Gloss=help|WordAlignmentBegin=15000|WordAlignmentEnd=15207
+10	me	me	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	9	obj	_	Gloss=ACC.SG.1|WordAlignmentBegin=15207|WordAlignmentEnd=15463
+11	//	//	PUNCT	_	_	8	punct	_	Gloss=PUNCT|WordAlignmentBegin=15463|WordAlignmentEnd=15463
 
 ~~~
 
@@ -67,13 +67,13 @@ The following 22 pairs of parts of speech are connected with `vocative`: <tt><a 
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 2 vocative	color:blue
-1	my	my	PRON	_	Number=Sing|Person=1|Poss=Yes	2	nmod:poss	_	AlignBegin=1540|AlignEnd=1705|Gloss=SG.1.POSS
-2	people	people	NOUN	_	Number=Plur	5	vocative	_	AlignBegin=1705|AlignEnd=2060|Gloss=people.PL
-3	<	<	PUNCT	_	_	2	punct	_	AlignBegin=2060|AlignEnd=2060|Gloss=PUNCT
-4	good	good	ADJ	_	_	5	amod	_	AlignBegin=2060|AlignEnd=2249|Gloss=good
-5	evening	evening	NOUN	_	_	0	root	_	AlignBegin=2249|AlignEnd=2690|Gloss=evening
-6	o	o	PART	_	PartType=Disc	5	advmod	_	AlignBegin=2690|AlignEnd=2954|Gloss=EMPH
-7	!//	!//	PUNCT	_	_	5	punct	_	AlignBegin=2954|AlignEnd=2954|Gloss=PUNCT
+1	my	my	PRON	_	Number=Sing|Person=1|Poss=Yes	2	nmod:poss	_	Gloss=SG.1.POSS|WordAlignmentBegin=1540|WordAlignmentEnd=1705
+2	people	people	NOUN	_	Number=Plur	5	vocative	_	Gloss=people.PL|WordAlignmentBegin=1705|WordAlignmentEnd=2060
+3	<	<	PUNCT	_	_	2	punct	_	Gloss=PUNCT|WordAlignmentBegin=2060|WordAlignmentEnd=2060
+4	good	good	ADJ	_	_	5	amod	_	Gloss=good|WordAlignmentBegin=2060|WordAlignmentEnd=2249
+5	evening	evening	NOUN	_	_	0	root	_	Gloss=evening|WordAlignmentBegin=2249|WordAlignmentEnd=2690
+6	o	o	PART	_	PartType=Disc	5	advmod	_	Gloss=EMPH|WordAlignmentBegin=2690|WordAlignmentEnd=2954
+7	!//	!//	PUNCT	_	_	5	punct	_	Gloss=PUNCT|WordAlignmentBegin=2954|WordAlignmentEnd=2954
 
 ~~~
 

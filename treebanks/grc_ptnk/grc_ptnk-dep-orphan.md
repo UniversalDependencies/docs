@@ -80,8 +80,8 @@ The following 12 pairs of parts of speech are connected with `orphan`: <tt><a hr
 2	δὲ	δέ	CCONJ	_	_	7	cc	_	Gloss=but,and,however|Ref=GEN_7.2
 3	τῶν	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	4	det	_	Gloss=the|Ref=GEN_7.2
 4	κτηνῶν	κτῆνος	NOUN	_	Case=Gen|Gender=Neut|Number=Plur	7	obl	_	Gloss=cattle|Ref=GEN_7.2
-5	τῶν	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Fem,Masc,Neut|Number=Plur|PronType=Art	6	det	_	Gloss=the|Ref=GEN_7.2
-6	καθαρῶν	καθαρός	ADJ	_	Case=Gen|Gender=Fem,Masc,Neut|Number=Plur	4	amod	_	Gloss=clean,pure|Ref=GEN_7.2
+5	τῶν	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	6	det	_	Gloss=the|Ref=GEN_7.2
+6	καθαρῶν	καθαρός	ADJ	_	Case=Gen|Gender=Neut|Number=Plur	4	amod	_	Gloss=clean,pure|Ref=GEN_7.2
 7	εἰσάγαγε	εἰσάγω	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-bring-in|Ref=GEN_7.2
 8	πρὸς	πρός	ADP	_	_	9	case	_	Gloss=+D=at;-+A=to,toward|Ref=GEN_7.2
 9	σὲ	σέ	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	7	obl	_	Gloss=you|Ref=GEN_7.2
@@ -95,9 +95,9 @@ The following 12 pairs of parts of speech are connected with `orphan`: <tt><a hr
 17	δὲ	δέ	CCONJ	_	_	23	cc	_	Gloss=but,and,however|Ref=GEN_7.2
 18	τῶν	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	19	det	_	Gloss=the|Ref=GEN_7.2
 19	κτηνῶν	κτῆνος	NOUN	_	Case=Gen|Gender=Neut|Number=Plur	23	orphan	_	Gloss=cattle|Ref=GEN_7.2
-20	τῶν	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Fem,Masc,Neut|Number=Plur|PronType=Art	22	det	_	Gloss=the|Ref=GEN_7.2
+20	τῶν	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	22	det	_	Gloss=the|Ref=GEN_7.2
 21	μὴ	μή	ADV	_	Polarity=Neg	22	advmod	_	Gloss=no,not|Ref=GEN_7.2
-22	καθαρῶν	καθαρός	ADJ	_	Case=Gen|Gender=Fem,Masc,Neut|Number=Plur	19	amod	_	Gloss=clean,pure|Ref=GEN_7.2
+22	καθαρῶν	καθαρός	ADJ	_	Case=Gen|Gender=Neut|Number=Plur	19	amod	_	Gloss=clean,pure|Ref=GEN_7.2
 23	δύο	δύο	NUM	_	Case=Acc,Gen,Nom|Gender=Fem,Masc,Neut|Number=Sing|NumType=Card	7	conj	_	Gloss=two|Ref=GEN_7.2
 24	δύο	δύο	NUM	_	Case=Acc,Gen,Nom|Gender=Fem,Masc,Neut|Number=Sing|NumType=Card	23	conj	_	Gloss=two|Ref=GEN_7.2
 25	ἄρσεν	ἄῤῥην	NOUN	_	Case=Acc,Nom|Gender=Neut|Number=Sing	23	orphan	_	Gloss=male,man|Ref=GEN_7.2

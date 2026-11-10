@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Bhojpuri-BHTB: POS Tags: `NUM`
 
-There are 44 `NUM` lemmas (2%), 44 `NUM` types (2%) and 149 `NUM` tokens (2%).
+There are 43 `NUM` lemmas (2%), 43 `NUM` types (2%) and 148 `NUM` tokens (2%).
 Out of 16 observed tags, the rank of `NUM` is: 8 in number of lemmas, 9 in number of types and 12 in number of tokens.
 
 The 10 most frequent `NUM` lemmas: एगो, एक, लोग, गो, दू, कुछ, दोसर, 5, अनकस, कलिग
@@ -55,7 +55,7 @@ The 10 most frequent ambiguous types:  एगो (<tt><a href="bho_bhtb-pos-NUM.
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.000000 (the average of all parts of speech is 1.035079).
+The form / lemma ratio of `NUM` is 1.000000 (the average of all parts of speech is 1.035097).
 
 The 1st highest number of forms (1) was observed with the lemma “12”: 12.
 
@@ -63,24 +63,24 @@ The 2nd highest number of forms (1) was observed with the lemma “120”: 120.
 
 The 3rd highest number of forms (1) was observed with the lemma “2”: 2.
 
-`NUM` occurs with 9 features: <tt><a href="bho_bhtb-feat-Case.html">Case</a></tt> (96; 64% instances), <tt><a href="bho_bhtb-feat-Number.html">Number</a></tt> (93; 62% instances), <tt><a href="bho_bhtb-feat-Person.html">Person</a></tt> (91; 61% instances), <tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt> (90; 60% instances), <tt><a href="bho_bhtb-feat-NumType.html">NumType</a></tt> (48; 32% instances), <tt><a href="bho_bhtb-feat-PronType.html">PronType</a></tt> (5; 3% instances), <tt><a href="bho_bhtb-feat-Aspect.html">Aspect</a></tt> (1; 1% instances), <tt><a href="bho_bhtb-feat-Echo.html">Echo</a></tt> (1; 1% instances), <tt><a href="bho_bhtb-feat-VerbForm.html">VerbForm</a></tt> (1; 1% instances)
+`NUM` occurs with 9 features: <tt><a href="bho_bhtb-feat-Case.html">Case</a></tt> (95; 64% instances), <tt><a href="bho_bhtb-feat-Number.html">Number</a></tt> (92; 62% instances), <tt><a href="bho_bhtb-feat-Person.html">Person</a></tt> (90; 61% instances), <tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt> (89; 60% instances), <tt><a href="bho_bhtb-feat-NumType.html">NumType</a></tt> (48; 32% instances), <tt><a href="bho_bhtb-feat-PronType.html">PronType</a></tt> (5; 3% instances), <tt><a href="bho_bhtb-feat-Aspect.html">Aspect</a></tt> (1; 1% instances), <tt><a href="bho_bhtb-feat-Echo.html">Echo</a></tt> (1; 1% instances), <tt><a href="bho_bhtb-feat-VerbForm.html">VerbForm</a></tt> (1; 1% instances)
 
 `NUM` occurs with 13 feature-value pairs: `Aspect=Perf`, `Case=Acc`, `Case=Nom`, `Echo=Rdp`, `Gender=Fem`, `Gender=Masc`, `NumType=Card`, `Number=Plur`, `Number=Sing`, `Person=3`, `PronType=Ind`, `PronType=Prs`, `VerbForm=Part`
 
 `NUM` occurs with 16 feature combinations.
-The most frequent feature combination is `Case=Nom|Gender=Masc|Number=Sing|Person=3` (51 tokens).
+The most frequent feature combination is `Case=Nom|Gender=Masc|Number=Sing|Person=3` (50 tokens).
 Examples: एगो, दू, 5, छठवां, दोसर, दोसरा, 2, एके, गो, तिसरा
 
 
 ## Relations
 
-`NUM` nodes are attached to their parents using 12 different relations: <tt><a href="bho_bhtb-dep-compound.html">compound</a></tt> (75; 50% instances), <tt><a href="bho_bhtb-dep-nummod.html">nummod</a></tt> (55; 37% instances), <tt><a href="bho_bhtb-dep-nsubj.html">nsubj</a></tt> (6; 4% instances), <tt><a href="bho_bhtb-dep-list.html">list</a></tt> (3; 2% instances), <tt><a href="bho_bhtb-dep-nmod.html">nmod</a></tt> (2; 1% instances), <tt><a href="bho_bhtb-dep-obl.html">obl</a></tt> (2; 1% instances), <tt><a href="bho_bhtb-dep-amod.html">amod</a></tt> (1; 1% instances), <tt><a href="bho_bhtb-dep-clf.html">clf</a></tt> (1; 1% instances), <tt><a href="bho_bhtb-dep-discourse.html">discourse</a></tt> (1; 1% instances), <tt><a href="bho_bhtb-dep-fixed.html">fixed</a></tt> (1; 1% instances), <tt><a href="bho_bhtb-dep-flat.html">flat</a></tt> (1; 1% instances), <tt><a href="bho_bhtb-dep-obj.html">obj</a></tt> (1; 1% instances)
+`NUM` nodes are attached to their parents using 12 different relations: <tt><a href="bho_bhtb-dep-compound.html">compound</a></tt> (75; 51% instances), <tt><a href="bho_bhtb-dep-nummod.html">nummod</a></tt> (54; 36% instances), <tt><a href="bho_bhtb-dep-nsubj.html">nsubj</a></tt> (6; 4% instances), <tt><a href="bho_bhtb-dep-list.html">list</a></tt> (3; 2% instances), <tt><a href="bho_bhtb-dep-nmod.html">nmod</a></tt> (2; 1% instances), <tt><a href="bho_bhtb-dep-obl.html">obl</a></tt> (2; 1% instances), <tt><a href="bho_bhtb-dep-amod.html">amod</a></tt> (1; 1% instances), <tt><a href="bho_bhtb-dep-clf.html">clf</a></tt> (1; 1% instances), <tt><a href="bho_bhtb-dep-discourse.html">discourse</a></tt> (1; 1% instances), <tt><a href="bho_bhtb-dep-fixed.html">fixed</a></tt> (1; 1% instances), <tt><a href="bho_bhtb-dep-flat.html">flat</a></tt> (1; 1% instances), <tt><a href="bho_bhtb-dep-obj.html">obj</a></tt> (1; 1% instances)
 
-Parents of `NUM` nodes belong to 8 different parts of speech: <tt><a href="bho_bhtb-pos-NOUN.html">NOUN</a></tt> (111; 74% instances), <tt><a href="bho_bhtb-pos-VERB.html">VERB</a></tt> (17; 11% instances), <tt><a href="bho_bhtb-pos-NUM.html">NUM</a></tt> (7; 5% instances), <tt><a href="bho_bhtb-pos-ADJ.html">ADJ</a></tt> (5; 3% instances), <tt><a href="bho_bhtb-pos-DET.html">DET</a></tt> (4; 3% instances), <tt><a href="bho_bhtb-pos-PRON.html">PRON</a></tt> (3; 2% instances), <tt><a href="bho_bhtb-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="bho_bhtb-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances)
+Parents of `NUM` nodes belong to 8 different parts of speech: <tt><a href="bho_bhtb-pos-NOUN.html">NOUN</a></tt> (110; 74% instances), <tt><a href="bho_bhtb-pos-VERB.html">VERB</a></tt> (17; 11% instances), <tt><a href="bho_bhtb-pos-NUM.html">NUM</a></tt> (7; 5% instances), <tt><a href="bho_bhtb-pos-ADJ.html">ADJ</a></tt> (5; 3% instances), <tt><a href="bho_bhtb-pos-DET.html">DET</a></tt> (4; 3% instances), <tt><a href="bho_bhtb-pos-PRON.html">PRON</a></tt> (3; 2% instances), <tt><a href="bho_bhtb-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="bho_bhtb-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances)
 
-115 (77%) `NUM` nodes are leaves.
+115 (78%) `NUM` nodes are leaves.
 
-21 (14%) `NUM` nodes have one child.
+20 (14%) `NUM` nodes have one child.
 
 10 (7%) `NUM` nodes have two children.
 
@@ -88,7 +88,7 @@ Parents of `NUM` nodes belong to 8 different parts of speech: <tt><a href="bho_b
 
 The highest child degree of a `NUM` node is 4.
 
-Children of `NUM` nodes are attached using 14 different relations: <tt><a href="bho_bhtb-dep-compound.html">compound</a></tt> (14; 27% instances), <tt><a href="bho_bhtb-dep-punct.html">punct</a></tt> (8; 16% instances), <tt><a href="bho_bhtb-dep-case.html">case</a></tt> (6; 12% instances), <tt><a href="bho_bhtb-dep-nmod.html">nmod</a></tt> (5; 10% instances), <tt><a href="bho_bhtb-dep-obl.html">obl</a></tt> (4; 8% instances), <tt><a href="bho_bhtb-dep-det.html">det</a></tt> (3; 6% instances), <tt><a href="bho_bhtb-dep-acl.html">acl</a></tt> (2; 4% instances), <tt><a href="bho_bhtb-dep-amod.html">amod</a></tt> (2; 4% instances), <tt><a href="bho_bhtb-dep-fixed.html">fixed</a></tt> (2; 4% instances), <tt><a href="bho_bhtb-dep-advcl.html">advcl</a></tt> (1; 2% instances), <tt><a href="bho_bhtb-dep-clf.html">clf</a></tt> (1; 2% instances), <tt><a href="bho_bhtb-dep-dep.html">dep</a></tt> (1; 2% instances), <tt><a href="bho_bhtb-dep-list.html">list</a></tt> (1; 2% instances), <tt><a href="bho_bhtb-dep-mark.html">mark</a></tt> (1; 2% instances)
+Children of `NUM` nodes are attached using 14 different relations: <tt><a href="bho_bhtb-dep-compound.html">compound</a></tt> (14; 28% instances), <tt><a href="bho_bhtb-dep-punct.html">punct</a></tt> (8; 16% instances), <tt><a href="bho_bhtb-dep-case.html">case</a></tt> (6; 12% instances), <tt><a href="bho_bhtb-dep-nmod.html">nmod</a></tt> (5; 10% instances), <tt><a href="bho_bhtb-dep-det.html">det</a></tt> (3; 6% instances), <tt><a href="bho_bhtb-dep-obl.html">obl</a></tt> (3; 6% instances), <tt><a href="bho_bhtb-dep-acl.html">acl</a></tt> (2; 4% instances), <tt><a href="bho_bhtb-dep-amod.html">amod</a></tt> (2; 4% instances), <tt><a href="bho_bhtb-dep-fixed.html">fixed</a></tt> (2; 4% instances), <tt><a href="bho_bhtb-dep-advcl.html">advcl</a></tt> (1; 2% instances), <tt><a href="bho_bhtb-dep-clf.html">clf</a></tt> (1; 2% instances), <tt><a href="bho_bhtb-dep-dep.html">dep</a></tt> (1; 2% instances), <tt><a href="bho_bhtb-dep-list.html">list</a></tt> (1; 2% instances), <tt><a href="bho_bhtb-dep-mark.html">mark</a></tt> (1; 2% instances)
 
-Children of `NUM` nodes belong to 9 different parts of speech: <tt><a href="bho_bhtb-pos-NOUN.html">NOUN</a></tt> (13; 25% instances), <tt><a href="bho_bhtb-pos-PUNCT.html">PUNCT</a></tt> (8; 16% instances), <tt><a href="bho_bhtb-pos-ADP.html">ADP</a></tt> (7; 14% instances), <tt><a href="bho_bhtb-pos-NUM.html">NUM</a></tt> (7; 14% instances), <tt><a href="bho_bhtb-pos-PART.html">PART</a></tt> (6; 12% instances), <tt><a href="bho_bhtb-pos-PROPN.html">PROPN</a></tt> (4; 8% instances), <tt><a href="bho_bhtb-pos-DET.html">DET</a></tt> (3; 6% instances), <tt><a href="bho_bhtb-pos-PRON.html">PRON</a></tt> (2; 4% instances), <tt><a href="bho_bhtb-pos-SCONJ.html">SCONJ</a></tt> (1; 2% instances)
+Children of `NUM` nodes belong to 10 different parts of speech: <tt><a href="bho_bhtb-pos-NOUN.html">NOUN</a></tt> (13; 26% instances), <tt><a href="bho_bhtb-pos-PUNCT.html">PUNCT</a></tt> (8; 16% instances), <tt><a href="bho_bhtb-pos-ADP.html">ADP</a></tt> (7; 14% instances), <tt><a href="bho_bhtb-pos-NUM.html">NUM</a></tt> (7; 14% instances), <tt><a href="bho_bhtb-pos-PART.html">PART</a></tt> (4; 8% instances), <tt><a href="bho_bhtb-pos-PROPN.html">PROPN</a></tt> (4; 8% instances), <tt><a href="bho_bhtb-pos-DET.html">DET</a></tt> (3; 6% instances), <tt><a href="bho_bhtb-pos-PRON.html">PRON</a></tt> (2; 4% instances), <tt><a href="bho_bhtb-pos-CCONJ.html">CCONJ</a></tt> (1; 2% instances), <tt><a href="bho_bhtb-pos-SCONJ.html">SCONJ</a></tt> (1; 2% instances)
 

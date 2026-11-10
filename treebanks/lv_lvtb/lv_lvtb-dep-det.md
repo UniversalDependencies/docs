@@ -13,47 +13,46 @@ This relation is universal.
 7715 instances of `det` (100%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.37749287749288.
 
-The following 16 pairs of parts of speech are connected with `det`: <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-DET.html">DET</a></tt> (7297; 94% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lv_lvtb-pos-DET.html">DET</a></tt> (128; 2% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-DET.html">DET</a></tt> (68; 1% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> (64; 1% instances), <tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lv_lvtb-pos-DET.html">DET</a></tt> (52; 1% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> (37; 0% instances), <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt>-<tt><a href="lv_lvtb-pos-DET.html">DET</a></tt> (36; 0% instances), <tt><a href="lv_lvtb-pos-DET.html">DET</a></tt>-<tt><a href="lv_lvtb-pos-DET.html">DET</a></tt> (15; 0% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> (11; 0% instances), <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt>-<tt><a href="lv_lvtb-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="lv_lvtb-pos-INTJ.html">INTJ</a></tt>-<tt><a href="lv_lvtb-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="lv_lvtb-pos-X.html">X</a></tt>-<tt><a href="lv_lvtb-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt>-<tt><a href="lv_lvtb-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="lv_lvtb-pos-DET.html">DET</a></tt>-<tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt>-<tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt>-<tt><a href="lv_lvtb-pos-DET.html">DET</a></tt> (1; 0% instances).
+The following 16 pairs of parts of speech are connected with `det`: <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-DET.html">DET</a></tt> (7298; 95% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lv_lvtb-pos-DET.html">DET</a></tt> (129; 2% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-DET.html">DET</a></tt> (68; 1% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> (63; 1% instances), <tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lv_lvtb-pos-DET.html">DET</a></tt> (51; 1% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> (37; 0% instances), <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt>-<tt><a href="lv_lvtb-pos-DET.html">DET</a></tt> (36; 0% instances), <tt><a href="lv_lvtb-pos-DET.html">DET</a></tt>-<tt><a href="lv_lvtb-pos-DET.html">DET</a></tt> (15; 0% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> (11; 0% instances), <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt>-<tt><a href="lv_lvtb-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="lv_lvtb-pos-INTJ.html">INTJ</a></tt>-<tt><a href="lv_lvtb-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="lv_lvtb-pos-X.html">X</a></tt>-<tt><a href="lv_lvtb-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt>-<tt><a href="lv_lvtb-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="lv_lvtb-pos-DET.html">DET</a></tt>-<tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt>-<tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt>-<tt><a href="lv_lvtb-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 5 det	color:blue
-1	Zinātnieki	zinātnieks	NOUN	ncmpn1	Case=Nom|Gender=Masc|Number=Plur	2	nsubj	2:nsubj	LvtbNodeId=a-c12-p51s2w1
-2	atzīst	atzīt	VERB	vmnipt130an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-c12-p51s2w2|SpaceAfter=No
-3	,	,	PUNCT	zc	_	8	punct	8:punct	LvtbNodeId=a-c12-p51s2w3
-4	ka	ka	SCONJ	cs	_	8	mark	8:mark	LvtbNodeId=a-c12-p51s2w4
-5	šāds	šāds	DET	pd0msnn	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	6	det	6:det	LvtbNodeId=a-c12-p51s2w5
-6	uzturs	uzturs	NOUN	ncmsn1	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	8:nsubj	LvtbNodeId=a-c12-p51s2w6
-7	visiem	viss	DET	pg0mpdn	Case=Dat|Gender=Masc|Number=Plur|PronType=Tot	8	iobj	8:iobj	LvtbNodeId=a-c12-p51s2w7
-8	nāks	nākt	VERB	vmnifi130an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin|Voice=Act	2	ccomp	2:ccomp	LvtbNodeId=a-c12-p51s2w8
-9	tikai	tikai	PART	q	_	11	discourse	11:discourse	LvtbNodeId=a-c12-p51s2w9
-10	par	par	ADP	spsa	_	11	case	11:case	LvtbNodeId=a-c12-p51s2w10
-11	labu	labs	ADJ	afmsanp	Case=Acc|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	8	obl	8:obl:par	LvtbNodeId=a-c12-p51s2w11
+# visual-style 5 4 det	color:blue
+1	Džons	Džons	PROPN	npmsn1	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	6:nsubj	LvtbNodeId=a-p2968-p5s1w1
+2	D.	d.	PROPN	yp	Abbr=Yes	1	flat:name	1:flat:name	LvtbNodeId=a-p2968-p5s1w2
+3	Rokfellers	Rokfellers	PROPN	npmsn1	Case=Nom|Gender=Masc|Number=Sing	1	flat:name	1:flat:name	LvtbNodeId=a-p2968-p5s1w3
+4	savas	sava	DET	ps0fsgn	Case=Gen|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	5	det	5:det	LvtbNodeId=a-p2968-p5s1w4
+5	iespējas	iespēja	NOUN	ncfpa4	Case=Acc|Gender=Fem|Number=Plur	6	obj	6:obj	LvtbNodeId=a-p2968-p5s1w5
+6	saskatīja	saskatīt	VERB	vmnist330an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-p2968-p5s1w6
+7	naftā	nafta	NOUN	ncfsl4	Case=Loc|Gender=Fem|Number=Sing	6	obl	6:obl:loc	LvtbNodeId=a-p2968-p5s1w7|SpaceAfter=No
+8	.	.	PUNCT	zs	_	6	punct	6:punct	LvtbNodeId=a-p2968-p5s1w8
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 7 det	color:blue
-1	Gados	gads	NOUN	ncmpl1	Case=Loc|Gender=Masc|Number=Plur	2	obl	2:obl:loc	LvtbNodeId=a-d197-p73s2w1
-2	jaunāki	jauns	ADJ	afmpnnc	Case=Nom|Definite=Ind|Degree=Cmp|Gender=Masc|Number=Plur	0	root	0:root	LvtbNodeId=a-d197-p73s2w2|SpaceAfter=No
-3	,	,	PUNCT	zc	_	8	punct	8:punct	LvtbNodeId=a-d197-p73s2w3
-4	no	no	ADP	spsg	_	5	case	5:case	LvtbNodeId=a-d197-p73s2w4
-5	skata	skats	NOUN	ncmsg1	Case=Gen|Gender=Masc|Number=Sing	8	obl	8:obl:no|10:obl:no	LvtbNodeId=a-d197-p73s2w5
-6	abi	abi	DET	pg0mpnn	Case=Nom|Gender=Masc|Number=Plur|PronType=Tot	8	nsubj	8:nsubj|10:nsubj	LvtbNodeId=a-d197-p73s2w6
-7	tādi	tāds	DET	pd0mpnn	Case=Nom|Gender=Masc|Number=Plur|PronType=Dem	8	det	8:det	LvtbNodeId=a-d197-p73s2w7
-8	parasti	parasts	ADJ	afmpnnp	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	2	conj	2:conj	LvtbNodeId=a-d197-p73s2w8|SpaceAfter=No
-9	,	,	PUNCT	zc	_	10	punct	10:punct	LvtbNodeId=a-d197-p73s2w9
-10	neuzkrītoši	uzkrist	VERB	vmnpdmpnapnpy	Aspect=Imp|Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Neg|Tense=Pres|VerbForm=Part|Voice=Act	8	conj	8:conj	LvtbNodeId=a-d197-p73s2w10|SpaceAfter=No
-11	.	.	PUNCT	zs	_	2	punct	2:punct	LvtbNodeId=a-d197-p73s2w11
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 4 det	color:blue
+1	Kur	kur	ADV	r0n	PronType=Int	3	advmod	3:advmod	LvtbNodeId=a-d62-p40s4w1
+2	tu	tu	PRON	pp20snn	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	3:nsubj	LvtbNodeId=a-d62-p40s4w2
+3	sagrābies	sagrābties	VERB	vmyist12san	Evident=Fh|Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Reflex=Yes|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-d62-p40s4w3
+4	šīs	šī	DET	pd3fpan	Case=Acc|Gender=Fem|Number=Plur|Person=3|PronType=Dem	5	det	5:det	LvtbNodeId=a-d62-p40s4w4
+5	gudrās	gudrs	ADJ	affpayp	Case=Acc|Definite=Def|Degree=Pos|Gender=Fem|Number=Plur	6	amod	6:amod	LvtbNodeId=a-d62-p40s4w5
+6	dzīves	dzīve	NOUN	ncfpa5	Case=Acc|Gender=Fem|Number=Plur	3	obj	3:obj	LvtbNodeId=a-d62-p40s4w6|SpaceAfter=No
+7	,	,	PUNCT	zc	_	11	punct	11:punct	LvtbNodeId=a-d62-p40s4w7
+8	par	par	ADP	sppd	_	9	case	9:case	LvtbNodeId=a-d62-p40s4w8
+9	kurām	kura	DET	pr0fpdn	Case=Dat|Gender=Fem|Number=Plur|PronType=Rel	11	iobj	11:iobj	LvtbNodeId=a-d62-p40s4w9
+10	tirgoņi	tirgonis	NOUN	ncmpn2	Case=Nom|Gender=Masc|Number=Plur	11	nsubj	11:nsubj	LvtbNodeId=a-d62-p40s4w10
+11	nemaksā	maksāt	VERB	vmnipt230ay	Evident=Fh|Mood=Ind|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	6	acl	6:acl	LvtbNodeId=a-d62-p40s4w11|SpaceAfter=No
+12	!	!	PUNCT	zs	_	3	punct	3:punct	LvtbNodeId=a-d62-p40s4w12|SpaceAfter=No
+13	"	"	PUNCT	zq	_	3	punct	3:punct	LvtbNodeId=a-d62-p40s4w13
 
 ~~~
 

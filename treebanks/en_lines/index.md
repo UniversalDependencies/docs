@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.3 release.
 The following people have contributed to making this treebank part of UD: Lars Ahrenberg.
 
 Repository: [UD_English-LinES](https://github.com/UniversalDependencies/UD_English-LinES)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uden_lines218)<br />
-Download all treebanks: [UD 2.18](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uden_lines219)<br />
+Download all treebanks: [UD 2.19](/#download)
 
 License: CC BY-NC-SA 4.0
 
@@ -258,7 +258,7 @@ analysis of translations' funded by the Swedish Research Council (Ahrenberg, 200
 <ul>
   <li>Nom
     <ul>
-      <li>PRON: he, I, it, they, we, she, itself, its, noone, Money</li>
+      <li>PRON: he, I, it, they, we, she, itself, its, Money, each</li>
     </ul>
   </li>
 </ul>
@@ -271,7 +271,7 @@ analysis of translations' funded by the Swedish Research Council (Ahrenberg, 200
 <ul>
   <li>Def
     <ul>
-      <li>DET: the, le</li>
+      <li>DET: the, le, La</li>
     </ul>
   </li>
 </ul>
@@ -374,7 +374,8 @@ analysis of translations' funded by the Swedish Research Council (Ahrenberg, 200
 <ul>
   <li>Sub
     <ul>
-      <li>VERB-Fin: were, get, lost, post</li>
+      <li>AUX-Fin: were</li>
+      <li>VERB-Fin: get, lost, post, were</li>
     </ul>
   </li>
 </ul>
@@ -401,7 +402,7 @@ analysis of translations' funded by the Swedish Research Council (Ahrenberg, 200
       <li>AUX: is, are, have, 's, do, has, being, 've, does, 're</li>
       <li>AUX-Fin: is, are, have, 's, do, has, 've, does, 'm, am</li>
       <li>AUX-Part: being, having</li>
-      <li>VERB-Fin: is, know, are, have, 's, has, want, says, see, think</li>
+      <li>VERB-Fin: is, know, have, are, 's, has, want, says, see, think</li>
       <li>VERB-Inf: filter</li>
       <li>VERB-Part: going, using, looking, trying, moving, taking, talking, making, coming, waiting</li>
     </ul>
@@ -431,7 +432,7 @@ analysis of translations' funded by the Swedish Research Council (Ahrenberg, 200
 <ul>
   <li>Art
     <ul>
-      <li>DET: the, a, an, le, what, Tha</li>
+      <li>DET: the, a, an, le, what, La, Tha</li>
     </ul>
   </li>
 </ul>
@@ -457,8 +458,8 @@ analysis of translations' funded by the Swedish Research Council (Ahrenberg, 200
 <ul>
   <li>Ind
     <ul>
-      <li>ADV: ever, sometimes, somewhere, anywhere</li>
-      <li>DET: some, any, one, another, either</li>
+      <li>ADV: ever, sometimes, somewhere, anywhere, any</li>
+      <li>DET: some, any, either, one, another</li>
       <li>PRON: one, something, someone, anything, others, some, anyone, any, another, somebody</li>
     </ul>
   </li>
@@ -479,7 +480,7 @@ analysis of translations' funded by the Swedish Research Council (Ahrenberg, 200
     <ul>
       <li>ADV: never, nowhere</li>
       <li>DET: no, none</li>
-      <li>PRON: nothing, nobody, none, neither</li>
+      <li>PRON: nothing, nobody, none, neither, noone</li>
     </ul>
   </li>
 </ul>
@@ -625,16 +626,17 @@ analysis of translations' funded by the Swedish Research Council (Ahrenberg, 200
       <li>ADP
         <ul>
           <li>ADJ: such, due, more, prior</li>
-          <li>ADP: as, because, in, instead, on</li>
-          <li>ADV: out, because, Instead, regardless</li>
+          <li>ADP: as, because, out, in, instead, on</li>
+          <li>ADV: because, Instead, out, regardless</li>
           <li>SCONJ: because</li>
           <li>VERB-Part: according</li>
         </ul>
       </li>
       <li>ADV
         <ul>
-          <li>ADP: of, at, on, in</li>
-          <li>ADV: as, all, By, no</li>
+          <li>ADJ: more</li>
+          <li>ADP: of, at, on, in, to</li>
+          <li>ADV: as, all, By, near, no</li>
           <li>DET: no, all</li>
           <li>NOUN: face, kind, Sort</li>
           <li>PRON: all</li>
@@ -670,8 +672,9 @@ analysis of translations' funded by the Swedish Research Council (Ahrenberg, 200
         <ul>
           <li>ADP: de</li>
           <li>DET: le</li>
-          <li>NOUN: calme</li>
+          <li>NOUN: calme, foie</li>
           <li>PRON: te</li>
+          <li>X: gras</li>
         </ul>
       </li>
     </ul>
@@ -710,12 +713,12 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>nsubj</a>
     <ul>
       <li>VERB--NOUN (2)</li>
-      <li>VERB-Fin--NOUN (1285)</li>
+      <li>VERB-Fin--NOUN (1283)</li>
       <li>VERB-Fin--PRON (776)</li>
       <li>VERB-Fin--PRON-Gen (1)</li>
       <li>VERB-Fin--PRON-Nom (2303)</li>
       <li>VERB-Fin--PRON-Nom-ADP(as) (1)</li>
-      <li>VERB-Inf--NOUN (213)</li>
+      <li>VERB-Inf--NOUN (214)</li>
       <li>VERB-Inf--PRON (363)</li>
       <li>VERB-Inf--PRON-ADP(for) (1)</li>
       <li>VERB-Inf--PRON-Acc (7)</li>
@@ -738,7 +741,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN (1463)</li>
       <li>VERB-Fin--NOUN-ADP(for) (1)</li>
       <li>VERB-Fin--NOUN-ADP(in) (1)</li>
-      <li>VERB-Fin--NOUN-ADP(out) (1)</li>
+      <li>VERB-Fin--NOUN-ADP(out)-ADP(of) (1)</li>
       <li>VERB-Fin--NOUN-ADP(to) (3)</li>
       <li>VERB-Fin--NOUN-ADP(up) (1)</li>
       <li>VERB-Fin--PRON (196)</li>

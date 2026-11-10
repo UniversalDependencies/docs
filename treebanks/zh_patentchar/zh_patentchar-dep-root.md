@@ -78,8 +78,8 @@ The following 4 pairs of parts of speech are connected with `root`: -<tt><a href
 7	初始	_	ADJ	_	_	8	amod	_	Gloss=_|SpaceAfter=No|Translit=chū_shǐ
 8	模型	_	NOUN	_	_	3	obj	_	Gloss=_|SpaceAfter=No|Translit=mó_xíng
 9	，	_	PUNCT	_	_	12	punct	_	Gloss=_|SpaceAfter=No|Translit=，
-10	对	_	PART	_	_	11	case	_	CpdPos=ADP|Gloss=_|SpaceAfter=No|Translit=dùi
-11	其	_	PRON	_	_	12	obj	_	Gloss=_|SpaceAfter=No|Translit=qí
+10	对	_	PART	_	_	12	mark	_	CpdPos=ADP|Gloss=_|SpaceAfter=No|Translit=dùi
+11	其	_	PRON	_	_	12	dep	_	Gloss=_|SpaceAfter=No|Translit=qí
 12	进行	_	VERB	_	_	3	parataxis	_	Gloss=_|SpaceAfter=No|Translit=jìn_xíng
 13	模态	_	NOUN	_	_	14	nmod	_	Gloss=_|SpaceAfter=No|Translit=mó_tài
 14	分析	_	NOUN	_	_	12	obj	_	Gloss=_|SpaceAfter=No|Translit=fēn_xī

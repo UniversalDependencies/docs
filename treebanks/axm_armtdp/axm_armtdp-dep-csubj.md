@@ -9,54 +9,36 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `csubj`: <tt><a href="axm_armtdp-dep-csubj-outer.html">csubj:outer</a></tt>.
 
-3 nodes (0%) are attached to their parents as `csubj`.
+6 nodes (0%) are attached to their parents as `csubj`.
 
-2 instances of `csubj` (67%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.33333333333333.
+5 instances of `csubj` (83%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.83333333333333.
 
-The following 2 pairs of parts of speech are connected with `csubj`: <tt><a href="axm_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="axm_armtdp-pos-VERB.html">VERB</a></tt> (2; 67% instances), <tt><a href="axm_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="axm_armtdp-pos-VERB.html">VERB</a></tt> (1; 33% instances).
+The following 2 pairs of parts of speech are connected with `csubj`: <tt><a href="axm_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="axm_armtdp-pos-VERB.html">VERB</a></tt> (4; 67% instances), <tt><a href="axm_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="axm_armtdp-pos-VERB.html">VERB</a></tt> (2; 33% instances).
 
 
 ~~~ conllu
-# visual-style 18	bgColor:blue
-# visual-style 18	fgColor:white
 # visual-style 15	bgColor:blue
 # visual-style 15	fgColor:white
-# visual-style 15 18 csubj	color:blue
-1	Եւ	եւ	CCONJ	_	_	15	cc	_	_
-2	ի	ի	ADP	_	AdpType=Prep	3	case	_	_
-3	կռիւ	կռիւ	NOUN	_	Animacy=Nhum|Case=Acc|Definite=Ind|Number=Sing	15	obl	_	_
-4	ուր	ուր	ADV	_	PronType=Rel	6	advmod	_	_
-5	թագաւորն	թագաւոր	NOUN	_	Animacy=Hum|Case=Nom|Definite=Def|Number=Sing	6	nsubj	_	_
-6	ուրդի	ուրդիլ	VERB	_	Aspect=Prosp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Style=Arch|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Mid	3	acl:relcl	_	SpaceAfter=No
-7	՝	՝	PUNCT	_	_	15	punct	_	_
-8	նա	նա	SCONJ	_	_	15	mark	_	_
-9	երբ	երբ	ADV	_	PronType=Rel	11	advmod	_	_
-10	սուրն	սուր	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	11	nsubj	_	_
-11	վերնա	վերնալ	VERB	_	Aspect=Prosp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Style=Arch|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Mid	15	advcl	_	SpaceAfter=No
-12	՝	՝	PUNCT	_	_	15	punct	_	_
-13	նա	նա	SCONJ	_	_	15	mark	_	_
-14	չէ	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	15	cop	_	_
-15	պատեհ	պատեհ	ADJ	_	Degree=Pos	0	root	_	_
-16	այլ	այլ	DET	_	PronType=Ind	17	det	_	_
-17	մարդ	մարդ	NOUN	_	Animacy=Hum|Case=Nom|Definite=Ind|Number=Sing	18	obj	_	_
-18	սպաննել	սպաննել	VERB	_	Polarity=Pos|Subcat=Tran|VerbForm=Inf|Voice=Act	15	csubj	_	SpaceAfter=No
-19	.	.	PUNCT	_	_	24	punct	_	_
-20	քաւէլ	քաւէլ	SCONJ	_	ExtPos=SCONJ	24	mark	_	_
-21	թէ	թէ	PART	_	_	20	fixed	_	_
-22	հայնց	հայնց	DET	_	PronType=Dem	23	det	_	_
-23	մարդիք	մարդ	NOUN	_	Animacy=Hum|Case=Nom|Definite=Ind|Number=Plur	24	nsubj	_	_
-24	լինին	լինիլ	VERB	_	Aspect=Prosp|Mood=Sub|Number=Plur|Person=3|Polarity=Pos|Style=Arch|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Mid	15	advcl	_	_
-25	յ	ի	ADP	_	AdpType=Prep	26	case	_	_
-26	այլազգեացն	այլազգի	NOUN	_	Animacy=Hum|Case=Dat|Definite=Def|Number=Plur	24	obl	_	_
-27	,	,	PUNCT	_	_	33	punct	_	_
-28	որ	որ	PRON	_	Case=Nom|Number=Sing|PronType=Rel	33	nsubj	_	_
-29	այն	այն	DET	_	Deixis=Remt|PronType=Dem	30	det	_	_
-30	շմորոյն	շմոր	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Def|Number=Sing	31	nmod:poss	_	_
-31	պատճառք	պատճառ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Plur	33	xcomp	_	_
-32	լինին	լինիլ	AUX	_	Aspect=Prosp|Mood=Sub|Number=Plur|Person=3|Polarity=Pos|Style=Arch|Tense=Pres|VerbForm=Fin	33	aux	_	_
-33	լել	լինալ	VERB	_	Aspect=Perf|Polarity=Pos|Subcat=Intr|VerbForm=Part|Voice=Mid	26	acl:relcl	_	SpaceAfter=No
-34	։	։	PUNCT	_	_	15	punct	_	_
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 12 15 csubj	color:blue
+1	Գիտացիր	գիտանալ	VERB	_	Aspect=Prosp|Mood=Imp|Number=Sing|Person=2|Subcat=Tran|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=Gitac’ir|LTranslit=gitanal
+2	,	,	PUNCT	_	_	8	punct	_	Translit=,|LTranslit=,
+3	որ	որ	SCONJ	_	_	8	mark	_	Translit=or|LTranslit=or
+4	այս	այս	DET	_	Deixis=Prox|PronType=Dem	5	det	_	Translit=ays|LTranslit=ays
+5	ցաւս	ցաւ	NOUN	_	Case=Nom|Deixis[psor]=Prox|Number=Sing	8	nsubj	_	Translit=c’aws|LTranslit=c’aw
+6	խիստ	խիստ	ADV	_	_	7	advmod	_	Translit=xist|LTranslit=xist
+7	պեղծ	պեղծ	ADJ	_	Degree=Pos	8	amod	_	Translit=peġç|LTranslit=peġç
+8	ցաւ	ցաւ	NOUN	_	Case=Nom|Definite=Ind|Number=Sing	1	ccomp	_	Translit=c’aw|LTranslit=c’aw
+9	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	8	cop	_	SpaceAfter=No|Translit=ē|LTranslit=em
+10	,	,	PUNCT	_	_	12	punct	_	Translit=,|LTranslit=,
+11	և	և	CCONJ	_	_	12	cc	_	Translit=ew|LTranslit=ew
+12	պարտ	պարտ	ADJ	_	_	1	parataxis	_	Translit=part|LTranslit=part
+13	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	12	cop	_	Translit=ē|LTranslit=em
+14	աղէկ	աղէկ	ADV	_	_	15	advmod	_	Translit=aġēk|LTranslit=aġēk
+15	ծառայել	ծառայել	VERB	_	Polarity=Pos|Subcat=Intr|VerbForm=Inf|Voice=Mid	12	csubj	_	SpaceAfter=No|Translit=çaṙayel|LTranslit=çaṙayel
+16	։	։	PUNCT	_	_	1	punct	_	Translit=.|LTranslit=.
 
 ~~~
 
@@ -67,34 +49,34 @@ The following 2 pairs of parts of speech are connected with `csubj`: <tt><a href
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 1 csubj	color:blue
-1	Զընդանելն	զընդանել	VERB	_	Case=Nom|Definite=Def|Polarity=Pos|Style=Var|Subcat=Tran|VerbForm=Inf|Voice=Act	5	csubj	_	_
-2	ըստ	ըստ	ADP	_	AdpType=Prep	4	case	_	_
-3	թագաւորին	թագաւոր	NOUN	_	Animacy=Hum|Case=Dat|Definite=Def|Number=Sing	4	nmod:poss	_	_
-4	կամացն	կամ	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Def|Number=Plur	5	obl	_	_
-5	լինի	լինիլ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Style=Arch|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	SpaceAfter=No
-6	.	.	PUNCT	_	_	9	punct	_	_
-7	զի	զի	SCONJ	_	_	9	mark	_	_
-8	այս	այս	PRON	_	Case=Nom|Deixis=Prox|Number=Sing|PronType=Dem	9	nsubj	_	_
-9	թագաւորին	թագաւոր	NOUN	_	Animacy=Hum|Case=Dat|Definite=Def|Number=Sing	5	advcl	_	_
-10	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	9	cop	_	SpaceAfter=No
-11	՝	՝	PUNCT	_	_	14	punct	_	_
-12	որ	որ	SCONJ	_	_	14	mark	_	_
-13	ինքն	ինք	PRON	_	Case=Nom|Deixis[psor]=Remt|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	_
-14	դատէ	դատել	VERB	_	Aspect=Prosp|Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	9	csubj:outer	_	SpaceAfter=No
-15	.	.	PUNCT	_	_	23	punct	_	_
-16	եւ	եւ	CCONJ	_	_	23	cc	_	_
-17	զ	զ	ADP	_	AdpType=Prep	18	case	_	_
-18	այլն	այլ	PRON	_	Case=Acc|Definite=Def|Number=Sing|PronType=Ind	23	obj	_	_
-19	ի	ի	ADP	_	AdpType=Prep	22	case	_	_
-20	յ	ի	ADP	_	AdpType=Prep	22	case	_	_
-21	այլ	այլ	DET	_	PronType=Ind	22	det	_	_
-22	դատաւորքն	դատաւոր	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Plur	23	iobj	_	_
-23	թողու	թողուլ	VERB	_	Aspect=Prosp|Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	5	parataxis	_	SpaceAfter=No
-24	՝	՝	PUNCT	_	_	27	punct	_	_
-25	որ	որ	SCONJ	_	_	27	mark	_	_
-26	նոքա	նոքա	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	27	nsubj	_	_
-27	հոգան	հոգալ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	23	advcl	_	SpaceAfter=No
-28	։	։	PUNCT	_	_	5	punct	_	_
+1	Զընդանելն	զընդանել	VERB	_	Case=Nom|Definite=Def|Polarity=Pos|Style=Var|Subcat=Tran|VerbForm=Inf|Voice=Act	5	csubj	_	Translit=Zëndaneln|LTranslit=zëndanel
+2	ըստ	ըստ	ADP	_	AdpType=Prep	4	case	_	Translit=ëst|LTranslit=ëst
+3	թագաւորին	թագաւոր	NOUN	_	Case=Dat|Definite=Def|Number=Sing	4	nmod:poss	_	Translit=t’agaworin|LTranslit=t’agawor
+4	կամացն	կամք	NOUN	_	Case=Dat|Definite=Def|Number=Ptan	5	obl	_	Translit=kamac’n|LTranslit=kamk’
+5	լինի	լինել	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Style=Arch|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	SpaceAfter=No|Translit=lini|LTranslit=linel
+6	.	.	PUNCT	_	_	9	punct	_	Translit=.|LTranslit=.
+7	զի	զի	SCONJ	_	_	9	mark	_	Translit=zi|LTranslit=zi
+8	այս	այս	PRON	_	Case=Nom|Deixis=Prox|Number=Sing|PronType=Dem	9	nsubj	_	Translit=ays|LTranslit=ays
+9	թագաւորին	թագաւոր	NOUN	_	Case=Dat|Definite=Def|Number=Sing	5	advcl	_	Translit=t’agaworin|LTranslit=t’agawor
+10	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	9	cop	_	SpaceAfter=No|Translit=ē|LTranslit=em
+11	՝	՝	PUNCT	_	_	14	punct	_	Translit=:|LTranslit=:
+12	որ	որ	SCONJ	_	_	14	mark	_	Translit=or|LTranslit=or
+13	ինքն	ինք	PRON	_	Case=Nom|Deixis[psor]=Remt|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	Translit=ink’n|LTranslit=ink’
+14	դատէ	դատել	VERB	_	Aspect=Prosp|Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	9	csubj:outer	_	SpaceAfter=No|Translit=datē|LTranslit=datel
+15	.	.	PUNCT	_	_	23	punct	_	Translit=.|LTranslit=.
+16	եւ	եւ	CCONJ	_	_	23	cc	_	Translit=ew|LTranslit=ew
+17	զ	զ	ADP	_	AdpType=Prep	18	case	_	SpaceAfter=No|Translit=z|LTranslit=z
+18	այլն	այլն	PRON	_	Case=Nom|Number=Sing|PronType=Ind	23	obj	_	Translit=ayln|LTranslit=ayln
+19	ի	ի	ADP	_	AdpType=Prep	22	case	_	Translit=i|LTranslit=i
+20	յ	ի	ADP	_	AdpType=Prep	22	case	_	SpaceAfter=No|Translit=y|LTranslit=i
+21	այլ	այլ	DET	_	PronType=Ind	22	det	_	Translit=ayl|LTranslit=ayl
+22	դատաւորքն	դատաւոր	NOUN	_	Case=Nom|Definite=Def|Number=Plur	23	iobj	_	Translit=datawork’n|LTranslit=datawor
+23	թողու	թողուլ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Style=Arch|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	5	conj	_	SpaceAfter=No|Translit=t’oġow|LTranslit=t’oġowl
+24	՝	՝	PUNCT	_	_	27	punct	_	Translit=:|LTranslit=:
+25	որ	որ	SCONJ	_	_	27	mark	_	Translit=or|LTranslit=or
+26	նոքա	նա	PRON	_	Case=Nom|Deixis=Remt|Number=Plur|PronType=Dem	27	nsubj	_	Translit=nok’a|LTranslit=na
+27	հոգան	հոգալ	VERB	_	Aspect=Prosp|Mood=Sub|Number=Plur|Person=3|Polarity=Pos|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	23	advcl	_	SpaceAfter=No|Translit=hogan|LTranslit=hogal
+28	։	։	PUNCT	_	_	5	punct	_	Translit=.|LTranslit=.
 
 ~~~
 

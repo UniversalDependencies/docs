@@ -11,9 +11,9 @@ This relation is universal.
 29107 nodes (6%) are attached to their parents as `root`.
 
 29107 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 9.85814408905074.
+Average distance between parent and child is 9.85783488507919.
 
-The following 13 pairs of parts of speech are connected with `root`: -<tt><a href="fa_perdt-pos-VERB.html">VERB</a></tt> (25739; 88% instances), -<tt><a href="fa_perdt-pos-NOUN.html">NOUN</a></tt> (1472; 5% instances), -<tt><a href="fa_perdt-pos-ADJ.html">ADJ</a></tt> (1145; 4% instances), -<tt><a href="fa_perdt-pos-PRON.html">PRON</a></tt> (248; 1% instances), -<tt><a href="fa_perdt-pos-AUX.html">AUX</a></tt> (226; 1% instances), -<tt><a href="fa_perdt-pos-INTJ.html">INTJ</a></tt> (187; 1% instances), -<tt><a href="fa_perdt-pos-PROPN.html">PROPN</a></tt> (58; 0% instances), -<tt><a href="fa_perdt-pos-ADV.html">ADV</a></tt> (12; 0% instances), -<tt><a href="fa_perdt-pos-ADP.html">ADP</a></tt> (8; 0% instances), -<tt><a href="fa_perdt-pos-SCONJ.html">SCONJ</a></tt> (7; 0% instances), -<tt><a href="fa_perdt-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances), -<tt><a href="fa_perdt-pos-DET.html">DET</a></tt> (1; 0% instances), -<tt><a href="fa_perdt-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 13 pairs of parts of speech are connected with `root`: -<tt><a href="fa_perdt-pos-VERB.html">VERB</a></tt> (25738; 88% instances), -<tt><a href="fa_perdt-pos-NOUN.html">NOUN</a></tt> (1473; 5% instances), -<tt><a href="fa_perdt-pos-ADJ.html">ADJ</a></tt> (1145; 4% instances), -<tt><a href="fa_perdt-pos-PRON.html">PRON</a></tt> (248; 1% instances), -<tt><a href="fa_perdt-pos-AUX.html">AUX</a></tt> (226; 1% instances), -<tt><a href="fa_perdt-pos-INTJ.html">INTJ</a></tt> (187; 1% instances), -<tt><a href="fa_perdt-pos-PROPN.html">PROPN</a></tt> (58; 0% instances), -<tt><a href="fa_perdt-pos-ADV.html">ADV</a></tt> (12; 0% instances), -<tt><a href="fa_perdt-pos-ADP.html">ADP</a></tt> (8; 0% instances), -<tt><a href="fa_perdt-pos-SCONJ.html">SCONJ</a></tt> (7; 0% instances), -<tt><a href="fa_perdt-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances), -<tt><a href="fa_perdt-pos-DET.html">DET</a></tt> (1; 0% instances), -<tt><a href="fa_perdt-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

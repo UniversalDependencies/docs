@@ -65,7 +65,7 @@ The following 4 pairs of parts of speech are connected with `dislocated`: <tt><a
 14	dı	_	AUX	AUX	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past	13	cop	_	_
 15	:	:	PUNCT	:	_	20	punct	_	_
 16	"	"	PUNCT	``	_	20	punct	_	SpaceAfter=No
-17	Senden	senden	PRON	PRP	Case=Abl|Number=Sing|Person=2|Polarity=Pos	19	obl	_	_
+17	Senden	senden	PRON	PRP	Case=Abl|Number=Sing|Person=2|Polarity=Pos	19	nmod	_	_
 18	daha	daha	ADV	RB	_	19	advmod	_	_
 19	Afrikalısını	Afrikalı	NOUN	NN	Case=Acc|Number=Sing	20	obj	_	Proper=True
 20	tanımadım	tanı	VERB	VB	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Past	13	dislocated	_	SpaceAfter=No
@@ -90,7 +90,7 @@ The following 4 pairs of parts of speech are connected with `dislocated`: <tt><a
 7	söyledi	söyle	VERB	VB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No
 8	:	:	PUNCT	:	_	18	punct	_	_
 9	"	"	PUNCT	``	_	18	punct	_	SpaceAfter=No
-10	Açıkçası	Açıkça	NOUN	NN	Number=Sing	18	obl	_	_
+10	Açıkçası	Açıkça	NOUN	NN	Number=Sing	18	nmod	_	_
 11	bir	bir	DET	DT	Definite=Ind|Polarity=Pos	13	det	_	_
 12	genel	genel	ADJ	JJ	Number=Sing	13	amod	_	_
 13	seçim	seçim	NOUN	NN	Case=Nom|Number=Sing	18	nsubj	_	_

@@ -8,7 +8,7 @@ udver: '2'
 
 This relation is universal.
 
-33 nodes (8%) are attached to their parents as `amod`.
+33 nodes (7%) are attached to their parents as `amod`.
 
 32 instances of `amod` (97%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.18181818181818.

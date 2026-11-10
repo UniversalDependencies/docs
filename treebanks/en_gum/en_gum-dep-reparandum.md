@@ -25,7 +25,7 @@ The following 81 pairs of parts of speech are connected with `reparandum`: <tt><
 1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	4:nsubj	Discourse=explanation-justify:194->192:1:_|Entity=(9-person-giv:inact-sssss-cf1-1-ana)|PDTB=Implicit:Contingency.Cause.Reason:because:_:1018-1022:1023-1032
 2	do	do	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux	4:aux	_
 3	n't	not	PART	RB	Polarity=Neg	4	advmod	4:advmod	Negation=Yes
-4	re-	re-	VERB	VB	VerbForm=Inf	9	reparandum	9:reparandum	MSeg=re-
+4	re-	re-	VERB	VB	VerbForm=Inf	9	reparandum	9:reparandum	_
 5	–	-	PUNCT	:	_	4	punct	4:punct	_
 6	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	9:nsubj	Discourse=restatement-repetition_m:195->194:0:ref-prs-1023,1028-_|Entity=(9-person-giv:act-sssss-cf1-1-ana)
 7	do	do	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	9	aux	9:aux	_
@@ -64,9 +64,9 @@ The following 81 pairs of parts of speech are connected with `reparandum`: <tt><
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 1 reparandum	color:blue
-1	What	what	PRON	WP	PronType=Int	3	reparandum	3:reparandum	Discourse=organization-preparation:208->210:0:ref-prs-1099,1107-_|SpaceAfter=No
+1	What	what	PRON	WP	Case=Acc|PronType=Int	3	reparandum	3:reparandum	Discourse=organization-preparation:208->210:0:ref-prs-1099,1107-_|SpaceAfter=No
 2	,	,	PUNCT	,	_	1	punct	1:punct	_
-3	what	what	PRON	WP	PronType=Int	6	obj	6:obj	CxnElt=6:Interrogative-WHInfo-Direct.WHWord
+3	what	what	PRON	WP	Case=Acc|PronType=Int	6	obj	6:obj	CxnElt=6:Interrogative-WHInfo-Direct.WHWord
 4	are	be	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	6	aux	6:aux	_
 5	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	6	nsubj	6:nsubj	Entity=(98-person-acc:com-sssss-cf1-1-ana)
 6	g-	g-	INTJ	UH	_	0	root	0:root	Cxn=Interrogative-WHInfo-Direct|CxnElt=6:Interrogative-WHInfo-Direct.Clause

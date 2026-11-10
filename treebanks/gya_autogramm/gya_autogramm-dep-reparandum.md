@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-18 nodes (1%) are attached to their parents as `reparandum`.
+18 nodes (0%) are attached to their parents as `reparandum`.
 
-18 instances of `reparandum` (100%) are right-to-left (child precedes parent).
+17 instances of `reparandum` (94%) are right-to-left (child precedes parent).
 Average distance between parent and child is 2.
 
-The following 5 pairs of parts of speech are connected with `reparandum`: <tt><a href="gya_autogramm-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="gya_autogramm-pos-CCONJ.html">CCONJ</a></tt> (5; 28% instances), <tt><a href="gya_autogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gya_autogramm-pos-NOUN.html">NOUN</a></tt> (5; 28% instances), <tt><a href="gya_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="gya_autogramm-pos-VERB.html">VERB</a></tt> (4; 22% instances), <tt><a href="gya_autogramm-pos-PRON.html">PRON</a></tt>-<tt><a href="gya_autogramm-pos-PRON.html">PRON</a></tt> (3; 17% instances), <tt><a href="gya_autogramm-pos-PRON.html">PRON</a></tt>-<tt><a href="gya_autogramm-pos-NOUN.html">NOUN</a></tt> (1; 6% instances).
+The following 5 pairs of parts of speech are connected with `reparandum`: <tt><a href="gya_autogramm-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="gya_autogramm-pos-CCONJ.html">CCONJ</a></tt> (5; 28% instances), <tt><a href="gya_autogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gya_autogramm-pos-NOUN.html">NOUN</a></tt> (5; 28% instances), <tt><a href="gya_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="gya_autogramm-pos-VERB.html">VERB</a></tt> (4; 22% instances), <tt><a href="gya_autogramm-pos-PRON.html">PRON</a></tt>-<tt><a href="gya_autogramm-pos-PRON.html">PRON</a></tt> (3; 17% instances), <tt><a href="gya_autogramm-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gya_autogramm-pos-PRON.html">PRON</a></tt> (1; 6% instances).
 
 
 ~~~ conllu
@@ -22,19 +22,19 @@ The following 5 pairs of parts of speech are connected with `reparandum`: <tt><a
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 8 reparandum	color:blue
-1	kà	kà	SCONJ	SUB	_	3	mark	_	AlignBegin=43567|AlignEnd=43659|Gloss=quand|MGloss=quand|MSeg=kà|nWord=1|RX=SUB|Word=kà̰à̰
-2	=à̰	ʔà̰	PRON	PERS	Number=Sing|Person=3|PronType=Prs	3	nsubj	_	AlignBegin=43659|AlignEnd=43751|Gloss=3SG|MGloss=3SG|MSeg==à̰|nWord=1|RX=PERS|Word=kà̰à̰
-3	pı̰́	pḭ	VERB	V	_	12	advcl	_	AlignBegin=43751|AlignEnd=43935|Gloss=mettre|MGloss=INAC-mettre|MSeg=H-pḭ|nWord=2|RX=V
-4	ʔɛ́r	ʔɛ́r	NOUN	N	_	3	obj	_	AlignBegin=43935|AlignEnd=44057|Gloss=main|MGloss=main-MT|MSeg=ʔɛ́r-H|nWord=3|RX=N|wordform=ʔɛ́r-H
-5	=à̰	ʔà̰	PRON	PERS	Number=Sing|Person=3|PronType=Prs	4	obj	_	AlignBegin=44057|AlignEnd=44119|Gloss=3SG|MGloss=3SG|MSeg==à̰|nWord=3|RX=PERS|Word=ʔɛ́ráà
-6	kɔ̀	kɔ̀	ADP	_	_	7	case	_	AlignBegin=44119|AlignEnd=44303|Gloss=à_l'intérieur|MGloss=à_l'intérieur|MSeg=kɔ̀|nWord=4|RX=FCT
-7	gúé	gúé	NOUN	N	_	3	obl:arg	_	AlignBegin=44303|AlignEnd=44487|Gloss=trou_à_poissons|MGloss=trou_à_poissons|MSeg=gúé|nWord=5|RX=N
-8	ká	ká	CCONJ	COORD	_	10	reparandum	_	AlignBegin=44487|AlignEnd=44671|Gloss=alors|MGloss=alors|MSeg=ká|nWord=6|RX=COORD
-9	gúé	gúé	NOUN	N	_	11	reparandum	_	AlignBegin=44671|AlignEnd=44854|Gloss=trou_à_poissons|MGloss=trou_à_poissons|MSeg=gúé|nWord=7|RX=N
-10	ká	ká	CCONJ	COORD	_	12	cc	_	AlignBegin=44854|AlignEnd=45232|Gloss=alors|MGloss=alors|MSeg=ká|nWord=8|RX=COORD
-11	gúé	gúé	NOUN	N	_	12	nsubj	_	AlignBegin=45232|AlignEnd=45610|Gloss=trou_à_poissons|MGloss=trou_à_poissons|MSeg=gúé|nWord=9|RX=N
-12	ʔá̰	_	AUX	PRÉD	Case=Loc	0	root	_	AlignBegin=45610|AlignEnd=45988|Gloss=ETRE-LOC|MGloss=ETRE-LOC|MSeg=ʔá̰|nWord=10|RX=PRÉD
-13	hɛ̰̀ɛ̰́-hɛ̰̀	hɛ̰̀ɛ̰́-hɛ̰̀	ADV	ADV	_	12	obl:arg	_	AlignBegin=45988|AlignEnd=46365|Gloss=ici_même|MGloss=ici_même|MSeg=hɛ̰̀ɛ̰́-hɛ̰̀|nWord=11|RX=ADV
+1	kà	kà	SCONJ	SUB	_	3	mark	_	Gloss=quand|MGloss=quand|MSeg=kà|nWord=1|RX=SUB|WordAlignmentBegin=43567|WordAlignmentEnd=43659
+2	=à̰	ʔà̰	PRON	PERS	Number=Sing|Person=3|PronType=Prs	3	nsubj	_	Gloss=3SG|MGloss=3SG|MSeg==à̰|nWord=1|RX=PERS|WordAlignmentBegin=43659|WordAlignmentEnd=43751
+3	H-pḭ	pḭ	VERB	V	_	12	advcl	_	Gloss=mettre|MGloss=INAC-mettre|MSeg=H-pḭ|nWord=2|RX=V|WordAlignmentBegin=43751|WordAlignmentEnd=43935
+4	ʔɛ́r	ʔɛ́r	NOUN	N	_	3	obj	_	Gloss=main|MGloss=main-MT|MSeg=ʔɛ́r-H|nWord=3|RX=N|WordAlignmentBegin=43935|WordAlignmentEnd=44057
+5	=à̰	ʔà̰	PRON	PERS	Number=Sing|Person=3|PronType=Prs	4	obj	_	Gloss=3SG|MGloss=3SG|MSeg==à̰|nWord=3|RX=PERS|WordAlignmentBegin=44057|WordAlignmentEnd=44119
+6	kɔ̀	kɔ̀	ADP	_	_	7	case	_	Gloss=à_l'intérieur|MGloss=à_l'intérieur|MSeg=kɔ̀|nWord=4|RX=FCT|WordAlignmentBegin=44119|WordAlignmentEnd=44303
+7	gúé	gúé	NOUN	N	_	3	obl:arg	_	Gloss=trou_à_poissons|MGloss=trou_à_poissons|MSeg=gúé|nWord=5|RX=N|WordAlignmentBegin=44303|WordAlignmentEnd=44487
+8	ká	ká	CCONJ	COORD	_	10	reparandum	_	Gloss=alors|MGloss=alors|MSeg=ká|nWord=6|RX=COORD|WordAlignmentBegin=44487|WordAlignmentEnd=44671
+9	gúé	gúé	NOUN	N	_	11	reparandum	_	Gloss=trou_à_poissons|MGloss=trou_à_poissons|MSeg=gúé|nWord=7|RX=N|WordAlignmentBegin=44671|WordAlignmentEnd=44854
+10	ká	ká	CCONJ	COORD	_	12	cc	_	Gloss=alors|MGloss=alors|MSeg=ká|nWord=8|RX=COORD|WordAlignmentBegin=44854|WordAlignmentEnd=45232
+11	gúé	gúé	NOUN	N	_	12	nsubj	_	Gloss=trou_à_poissons|MGloss=trou_à_poissons|MSeg=gúé|nWord=9|RX=N|WordAlignmentBegin=45232|WordAlignmentEnd=45610
+12	ʔá̰	_	AUX	PRÉD	Case=Loc	0	root	_	Gloss=ETRE-LOC|MGloss=ETRE-LOC|MSeg=ʔá̰|nWord=10|RX=PRÉD|WordAlignmentBegin=45610|WordAlignmentEnd=45988
+13	hɛ̰̀ɛ̰́-hɛ̰̀	hɛ̰̀ɛ̰́-hɛ̰̀	ADV	ADV	_	12	obl:arg	_	Gloss=ici_même|MGloss=ici_même|MSeg=hɛ̰̀ɛ̰́-hɛ̰̀|nWord=11|RX=ADV|WordAlignmentBegin=45988|WordAlignmentEnd=46365
 
 ~~~
 
@@ -45,38 +45,41 @@ The following 5 pairs of parts of speech are connected with `reparandum`: <tt><a
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
 # visual-style 11 9 reparandum	color:blue
-1	kà	kà	SCONJ	SUB	_	3	mark	_	AlignBegin=43567|AlignEnd=43659|Gloss=quand|MGloss=quand|MSeg=kà|nWord=1|RX=SUB|Word=kà̰à̰
-2	=à̰	ʔà̰	PRON	PERS	Number=Sing|Person=3|PronType=Prs	3	nsubj	_	AlignBegin=43659|AlignEnd=43751|Gloss=3SG|MGloss=3SG|MSeg==à̰|nWord=1|RX=PERS|Word=kà̰à̰
-3	pı̰́	pḭ	VERB	V	_	12	advcl	_	AlignBegin=43751|AlignEnd=43935|Gloss=mettre|MGloss=INAC-mettre|MSeg=H-pḭ|nWord=2|RX=V
-4	ʔɛ́r	ʔɛ́r	NOUN	N	_	3	obj	_	AlignBegin=43935|AlignEnd=44057|Gloss=main|MGloss=main-MT|MSeg=ʔɛ́r-H|nWord=3|RX=N|wordform=ʔɛ́r-H
-5	=à̰	ʔà̰	PRON	PERS	Number=Sing|Person=3|PronType=Prs	4	obj	_	AlignBegin=44057|AlignEnd=44119|Gloss=3SG|MGloss=3SG|MSeg==à̰|nWord=3|RX=PERS|Word=ʔɛ́ráà
-6	kɔ̀	kɔ̀	ADP	_	_	7	case	_	AlignBegin=44119|AlignEnd=44303|Gloss=à_l'intérieur|MGloss=à_l'intérieur|MSeg=kɔ̀|nWord=4|RX=FCT
-7	gúé	gúé	NOUN	N	_	3	obl:arg	_	AlignBegin=44303|AlignEnd=44487|Gloss=trou_à_poissons|MGloss=trou_à_poissons|MSeg=gúé|nWord=5|RX=N
-8	ká	ká	CCONJ	COORD	_	10	reparandum	_	AlignBegin=44487|AlignEnd=44671|Gloss=alors|MGloss=alors|MSeg=ká|nWord=6|RX=COORD
-9	gúé	gúé	NOUN	N	_	11	reparandum	_	AlignBegin=44671|AlignEnd=44854|Gloss=trou_à_poissons|MGloss=trou_à_poissons|MSeg=gúé|nWord=7|RX=N
-10	ká	ká	CCONJ	COORD	_	12	cc	_	AlignBegin=44854|AlignEnd=45232|Gloss=alors|MGloss=alors|MSeg=ká|nWord=8|RX=COORD
-11	gúé	gúé	NOUN	N	_	12	nsubj	_	AlignBegin=45232|AlignEnd=45610|Gloss=trou_à_poissons|MGloss=trou_à_poissons|MSeg=gúé|nWord=9|RX=N
-12	ʔá̰	_	AUX	PRÉD	Case=Loc	0	root	_	AlignBegin=45610|AlignEnd=45988|Gloss=ETRE-LOC|MGloss=ETRE-LOC|MSeg=ʔá̰|nWord=10|RX=PRÉD
-13	hɛ̰̀ɛ̰́-hɛ̰̀	hɛ̰̀ɛ̰́-hɛ̰̀	ADV	ADV	_	12	obl:arg	_	AlignBegin=45988|AlignEnd=46365|Gloss=ici_même|MGloss=ici_même|MSeg=hɛ̰̀ɛ̰́-hɛ̰̀|nWord=11|RX=ADV
+1	kà	kà	SCONJ	SUB	_	3	mark	_	Gloss=quand|MGloss=quand|MSeg=kà|nWord=1|RX=SUB|WordAlignmentBegin=43567|WordAlignmentEnd=43659
+2	=à̰	ʔà̰	PRON	PERS	Number=Sing|Person=3|PronType=Prs	3	nsubj	_	Gloss=3SG|MGloss=3SG|MSeg==à̰|nWord=1|RX=PERS|WordAlignmentBegin=43659|WordAlignmentEnd=43751
+3	H-pḭ	pḭ	VERB	V	_	12	advcl	_	Gloss=mettre|MGloss=INAC-mettre|MSeg=H-pḭ|nWord=2|RX=V|WordAlignmentBegin=43751|WordAlignmentEnd=43935
+4	ʔɛ́r	ʔɛ́r	NOUN	N	_	3	obj	_	Gloss=main|MGloss=main-MT|MSeg=ʔɛ́r-H|nWord=3|RX=N|WordAlignmentBegin=43935|WordAlignmentEnd=44057
+5	=à̰	ʔà̰	PRON	PERS	Number=Sing|Person=3|PronType=Prs	4	obj	_	Gloss=3SG|MGloss=3SG|MSeg==à̰|nWord=3|RX=PERS|WordAlignmentBegin=44057|WordAlignmentEnd=44119
+6	kɔ̀	kɔ̀	ADP	_	_	7	case	_	Gloss=à_l'intérieur|MGloss=à_l'intérieur|MSeg=kɔ̀|nWord=4|RX=FCT|WordAlignmentBegin=44119|WordAlignmentEnd=44303
+7	gúé	gúé	NOUN	N	_	3	obl:arg	_	Gloss=trou_à_poissons|MGloss=trou_à_poissons|MSeg=gúé|nWord=5|RX=N|WordAlignmentBegin=44303|WordAlignmentEnd=44487
+8	ká	ká	CCONJ	COORD	_	10	reparandum	_	Gloss=alors|MGloss=alors|MSeg=ká|nWord=6|RX=COORD|WordAlignmentBegin=44487|WordAlignmentEnd=44671
+9	gúé	gúé	NOUN	N	_	11	reparandum	_	Gloss=trou_à_poissons|MGloss=trou_à_poissons|MSeg=gúé|nWord=7|RX=N|WordAlignmentBegin=44671|WordAlignmentEnd=44854
+10	ká	ká	CCONJ	COORD	_	12	cc	_	Gloss=alors|MGloss=alors|MSeg=ká|nWord=8|RX=COORD|WordAlignmentBegin=44854|WordAlignmentEnd=45232
+11	gúé	gúé	NOUN	N	_	12	nsubj	_	Gloss=trou_à_poissons|MGloss=trou_à_poissons|MSeg=gúé|nWord=9|RX=N|WordAlignmentBegin=45232|WordAlignmentEnd=45610
+12	ʔá̰	_	AUX	PRÉD	Case=Loc	0	root	_	Gloss=ETRE-LOC|MGloss=ETRE-LOC|MSeg=ʔá̰|nWord=10|RX=PRÉD|WordAlignmentBegin=45610|WordAlignmentEnd=45988
+13	hɛ̰̀ɛ̰́-hɛ̰̀	hɛ̰̀ɛ̰́-hɛ̰̀	ADV	ADV	_	12	obl:arg	_	Gloss=ici_même|MGloss=ici_même|MSeg=hɛ̰̀ɛ̰́-hɛ̰̀|nWord=11|RX=ADV|WordAlignmentBegin=45988|WordAlignmentEnd=46365
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 5 reparandum	color:blue
-1	wàá	wàá	INTJ	INTERJ	_	4	discourse	_	AlignBegin=107418|AlignEnd=107713|Gloss=bah|MGloss=bah|MSeg=wàá|nWord=1|RX=INTERJ
-2	bé	bé	ADJ	N	_	3	amod	_	AlignBegin=107713|AlignEnd=108008|Gloss=petit|MGloss=petit|MSeg=bé|nWord=2|RX=N
-3	pɛ̀ɲá	pɛ̀ɲá	NOUN	N	_	4	nsubj	_	AlignBegin=108008|AlignEnd=108303|Gloss=cobe_de_ɓuffon|MGloss=cobe_de_ɓuffon|MSeg=pɛ̀ɲá|nWord=3|RX=N
-4	sìì	si	VERB	V	_	0	root	_	AlignBegin=108303|AlignEnd=108598|Gloss=s'en_aller|MGloss=ACC-s'en_aller-MT|MSeg=BHa-si-H|nWord=4|RX=V
-5	yɔ́	yɔ	VERB	V	_	6	reparandum	_	AlignBegin=108598|AlignEnd=108893|Gloss=être_perdu|MGloss=INF.ACC-être_perdu|MSeg=H-yɔ|nWord=5|RX=V
-6	yɔ́	yɔ	VERB	V	_	4	compound:svc	_	AlignBegin=108893|AlignEnd=109188|Gloss=perdre|MGloss=INF.ACC-perdre|MSeg=H-yɔ|nWord=6|RX=V
-7	kàyá	kàyá	NOUN	N	_	6	obj	_	AlignBegin=109188|AlignEnd=109483|Gloss=orientation|MGloss=orientation|MSeg=kàyá|nWord=7|RX=N
-8	kɔ́	kɔ́	ADP	FCT	_	9	case	_	AlignBegin=109483|AlignEnd=109778|Gloss=de|MGloss=de|MSeg=kɔ́|nWord=8|RX=FCT
-9	Wàntò	Wàntò	PROPN	NPR	_	7	nmod	_	AlignBegin=109778|AlignEnd=110075|Gloss=Wanto|MGloss=Wanto|MSeg=Wàntò|nWord=9|RX=NPR
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 11 reparandum	color:blue
+1	hó	hó	INTJ	NTERJ	_	9	discourse	_	Gloss=oh|MGloss=oh|MSeg=hó|nWord=4|RX=NTERJ|WordAlignmentBegin=52556|WordAlignmentEnd=52865
+2	dáà	dáà	NOUN	N	_	9	discourse	_	Gloss=petit_père|MGloss=petit_père|MSeg=dáà|nWord=1|RX=N|WordAlignmentBegin=52865|WordAlignmentEnd=53227
+3	ʔó	ʔó	DET	MN	Number=Plur	6	dep	_	Gloss=PL|MGloss=PL|MSeg=ʔó|nWord=2|RX=MN|WordAlignmentBegin=53227|WordAlignmentEnd=53589
+4	dí	dí	ADJ	AV	_	6	amod	_	Gloss=beau|MGloss=beau|MSeg=dí|nWord=3|RX=AV|WordAlignmentBegin=53589|WordAlignmentEnd=53951
+5	ʔó	ʔó	DET	MN	Number=Plur	6	dep	_	Gloss=PL|MGloss=PL|MSeg=ʔó|nWord=4|RX=MN|WordAlignmentBegin=53951|WordAlignmentEnd=54313
+6	bókóbêm	bókóbêm	NOUN	N	_	11	dislocated	_	Gloss=fille|MGloss=fille|MSeg=bókóbêm|nWord=5|RX=N|WordAlignmentBegin=54313|WordAlignmentEnd=54675
+7	nɛ̀	nɛ̀	CCONJ	SUB.REL	_	6	acl:relcl	_	Gloss=et_ainsi|MGloss=et_ainsi|MSeg=nɛ̀|nWord=6|RX=COORD|WordAlignmentBegin=54675|WordAlignmentEnd=54796
+8	=m	ʔám	PRON	PERS	Number=Sing|Person=1|PronType=Prs	9	nsubj	_	Gloss=1SG|MGloss=1SG-MT|MSeg==m-H|nWord=6|RX=PERS|WordAlignmentBegin=54796|WordAlignmentEnd=54917
+9	H-tɛ	tɛ	VERB	PERS	_	0	root	_	Gloss=venir|MGloss=INAC-venir|MSeg=H-tɛ|nWord=7|RX=V|WordAlignmentBegin=54796|WordAlignmentEnd=54917
+10	B-ʔám	ʔám	PRON	PERS	Number=Sing|Person=1|PronType=Prs	11	nsubj	_	Gloss=1SG|MGloss=et_donc-1SG|MSeg=B-ʔám|nWord=6|RX=PERS|WordAlignmentBegin=54917|WordAlignmentEnd=54917
+11	H-kpa	kpa	VERB	V	_	9	reparandum	_	Gloss=trouver|MGloss=INAC-trouver|MSeg=H-kpa|nWord=9|RX=V|WordAlignmentBegin=55761|WordAlignmentEnd=55941
+12	=wà	wà	PRON	PERS	Number=Plur|Person=3|PronType=Prs	11	obj	_	Gloss=3PL|MGloss=3PL|MSeg==wà|nWord=9|RX=PERS|WordAlignmentBegin=56031|WordAlignmentEnd=56120
 
 ~~~
 

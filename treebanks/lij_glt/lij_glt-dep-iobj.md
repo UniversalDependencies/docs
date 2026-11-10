@@ -10,10 +10,10 @@ This relation is universal.
 
 105 nodes (2%) are attached to their parents as `iobj`.
 
-93 instances of `iobj` (89%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.5047619047619.
+91 instances of `iobj` (87%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.57142857142857.
 
-The following 4 pairs of parts of speech are connected with `iobj`: <tt><a href="lij_glt-pos-VERB.html">VERB</a></tt>-<tt><a href="lij_glt-pos-PRON.html">PRON</a></tt> (98; 93% instances), <tt><a href="lij_glt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lij_glt-pos-PRON.html">PRON</a></tt> (3; 3% instances), <tt><a href="lij_glt-pos-VERB.html">VERB</a></tt>-<tt><a href="lij_glt-pos-ADV.html">ADV</a></tt> (3; 3% instances), <tt><a href="lij_glt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lij_glt-pos-PRON.html">PRON</a></tt> (1; 1% instances).
+The following 4 pairs of parts of speech are connected with `iobj`: <tt><a href="lij_glt-pos-VERB.html">VERB</a></tt>-<tt><a href="lij_glt-pos-PRON.html">PRON</a></tt> (100; 95% instances), <tt><a href="lij_glt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lij_glt-pos-PRON.html">PRON</a></tt> (3; 3% instances), <tt><a href="lij_glt-pos-ADV.html">ADV</a></tt>-<tt><a href="lij_glt-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="lij_glt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lij_glt-pos-PRON.html">PRON</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -58,33 +58,24 @@ The following 4 pairs of parts of speech are connected with `iobj`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 17	bgColor:blue
-# visual-style 17	fgColor:white
-# visual-style 19	bgColor:blue
-# visual-style 19	fgColor:white
-# visual-style 19 17 iobj	color:blue
-1	Comme	comme	SCONJ	_	_	7	mark	_	_
-2	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
-3	Lázaro	Lázaro	PROPN	_	Gender=Masc|Number=Sing	7	nsubj	_	_
-4	o	o	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	expl	_	_
-5	l'	l'	PART	_	_	7	dep	_	SpaceAfter=No
-6	é	ëse	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
-7	anæto	anâ	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
-8	à	à	ADP	_	_	10	case	_	_
-9	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
-10	servixo	servixo	NOUN	_	Gender=Masc|Number=Sing	7	obl	_	_
-11	de	de	ADP	_	_	13	case	_	_
-12	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
-13	cappellan	cappellan	NOUN	_	Gender=Masc|Number=Sing	10	nmod	_	SpaceAfter=No
-14	,	,	PUNCT	_	_	19	punct	_	_
-15	e	e	CCONJ	_	_	19	cc	_	_
-16	cöse	cöse	PRON	_	Number=Sing|PronType=Int	19	nsubj	_	_
-17	gh'	ghe	ADV	_	_	19	iobj	_	SpaceAfter=No
-18	é	ëse	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	aux	_	_
-19	intravegnuo	intravegnî	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	7	conj	_	_
-20	insemme	insemme	ADV	_	_	22	advmod	_	_
-21	à	à	ADP	_	_	20	fixed	_	_
-22	lê	lê	PRON	_	Number=Sing|Person=3|PronType=Prs	19	obl	_	SpacesAfter=\n
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 6 iobj	color:blue
+1	Ma	ma	CCONJ	_	_	11	cc	_	_
+2	Scimon	Scimon	PROPN	_	Gender=Masc|Number=Sing	11	nsubj	_	_
+3	e	e	CCONJ	_	_	4	cc	_	_
+4	quelli	quello	PRON	_	Gender=Masc|Number=Plur|PronType=Dem	2	conj	_	_
+5	che	che	PRON	_	PronType=Rel	8	nsubj	_	_
+6	gh'	ghe	PRON	_	Person=3|PronType=Prs	8	iobj	_	SpaceAfter=No
+7	ea	ëse	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	8	cop	_	_
+8	insemme	insemme	ADV	_	_	4	acl:relcl	_	_
+9	ghe	ghe	PRON	_	Person=3|PronType=Prs	11	iobj	_	_
+10	son	ëse	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	aux	_	_
+11	andæti	andâ	VERB	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+12	apreuvo	apreuvo	ADV	_	_	11	advmod	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	11	punct	_	_
 
 ~~~
 

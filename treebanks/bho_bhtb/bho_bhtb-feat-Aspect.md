@@ -99,7 +99,7 @@ The most frequent other feature values with which `PART` and `Aspect` co-occurre
 `PART` tokens may have the following values of `Aspect`:
 
 * `Perf` (2; 100% of non-empty `Aspect`): नइखे, नाहीं
-* `EMPTY` (189): त, ना, नइखे, बहुते, भर, बस, अतना, खाली, गमगमावे, घटना
+* `EMPTY` (188): त, ना, नइखे, बहुते, भर, बस, अतना, खाली, गमगमावे, घटना
 
 ### `PROPN`
 
@@ -121,7 +121,7 @@ The most frequent other feature values with which `ADJ` and `Aspect` co-occurred
 `ADJ` tokens may have the following values of `Aspect`:
 
 * `Perf` (1; 100% of non-empty `Aspect`): बचपनवाला
-* `EMPTY` (248): पूरा, बड़, सांस्कृतिक, तथाकथित, प, छोट, भोजपुरिया, खास, चुपचाप, जरूरी
+* `EMPTY` (249): पूरा, बड़, सांस्कृतिक, तथाकथित, प, छोट, भोजपुरिया, खास, चुपचाप, जरूरी
 
 ### `ADP`
 
@@ -154,7 +154,7 @@ The most frequent other feature values with which `NUM` and `Aspect` co-occurred
 `NUM` tokens may have the following values of `Aspect`:
 
 * `Perf` (1; 100% of non-empty `Aspect`): सन
-* `EMPTY` (148): एगो, एक, लोग, गो, दू, कुछ, दोसर, 5, अनकस, कलिग
+* `EMPTY` (147): एगो, एक, लोग, गो, दू, कुछ, दोसर, 5, अनकस, कलिग
 
 ### `SCONJ`
 

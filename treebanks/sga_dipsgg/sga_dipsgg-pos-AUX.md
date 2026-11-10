@@ -22,7 +22,7 @@ The 10 most frequent ambiguous types:  <em>d</em> (<tt><a href="sga_dipsgg-pos-A
   * <tt><a href="sga_dipsgg-pos-AUX.html">AUX</a></tt> 4: <em>.i. at tá di ṡeirc la laitnori inna grec co seichetar ci <b>d</b> a comroicniu</em>
   * <tt><a href="sga_dipsgg-pos-X.html">X</a></tt> 1: <em>tiach didiv ma d ferr lat .i. <b>d</b> · o · o ·</em>
 * <em>ní</em>
-  * <tt><a href="sga_dipsgg-pos-AUX.html">AUX</a></tt> 2: <em><b>ní</b> ǽr mall roscríbad in letráim so</em>
+  * <tt><a href="sga_dipsgg-pos-AUX.html">AUX</a></tt> 2: <em><b>ní</b> ǽr mall ro scríbad in letráim so</em>
   * <tt><a href="sga_dipsgg-pos-PART.html">PART</a></tt> 2: <em>.i. i ndead inna <b>ní</b> sin</em>
 
 ## Morphology
@@ -44,7 +44,7 @@ Examples: <em>is</em>
 
 `AUX` nodes are attached to their parents using 2 different relations: <tt><a href="sga_dipsgg-dep-nsubj.html">nsubj</a></tt> (9; 53% instances), <tt><a href="sga_dipsgg-dep-cop.html">cop</a></tt> (8; 47% instances)
 
-Parents of `AUX` nodes belong to 3 different parts of speech: <tt><a href="sga_dipsgg-pos-ADJ.html">ADJ</a></tt> (12; 71% instances), <tt><a href="sga_dipsgg-pos-NOUN.html">NOUN</a></tt> (4; 24% instances), <tt><a href="sga_dipsgg-pos-PRON.html">PRON</a></tt> (1; 6% instances)
+Parents of `AUX` nodes belong to 4 different parts of speech: <tt><a href="sga_dipsgg-pos-ADJ.html">ADJ</a></tt> (12; 71% instances), <tt><a href="sga_dipsgg-pos-NOUN.html">NOUN</a></tt> (3; 18% instances), <tt><a href="sga_dipsgg-pos-PRON.html">PRON</a></tt> (1; 6% instances), <tt><a href="sga_dipsgg-pos-PROPN.html">PROPN</a></tt> (1; 6% instances)
 
 17 (100%) `AUX` nodes are leaves.
 

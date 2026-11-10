@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="ru_gsd-dep-parataxis.html">parataxis</a></tt>.
 
-13 nodes (0%) are attached to their parents as `parataxis:discourse`.
+35 nodes (0%) are attached to their parents as `parataxis:discourse`.
 
-13 instances of `parataxis:discourse` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 7.84615384615385.
+35 instances of `parataxis:discourse` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 6.71428571428571.
 
-The following 2 pairs of parts of speech are connected with `parataxis:discourse`: <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_gsd-pos-PRON.html">PRON</a></tt> (12; 92% instances), <tt><a href="ru_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_gsd-pos-PRON.html">PRON</a></tt> (1; 8% instances).
+The following 3 pairs of parts of speech are connected with `parataxis:discourse`: <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_gsd-pos-PRON.html">PRON</a></tt> (33; 94% instances), <tt><a href="ru_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_gsd-pos-PRON.html">PRON</a></tt> (1; 3% instances), <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_gsd-pos-ADV.html">ADV</a></tt> (1; 3% instances).
 
 
 ~~~ conllu
@@ -68,6 +68,48 @@ The following 2 pairs of parts of speech are connected with `parataxis:discourse
 24	истинными	истинный	ADJ	JJL	Case=Ins|Degree=Pos|Number=Plur	25	amod	_	_
 25	существами	существо	NOUN	NN	Animacy=Anim|Case=Ins|Gender=Neut|Number=Plur	23	obj	_	SpaceAfter=No
 26	.	.	PUNCT	.	_	9	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 29	bgColor:blue
+# visual-style 29	fgColor:white
+# visual-style 31	bgColor:blue
+# visual-style 31	fgColor:white
+# visual-style 31 29 parataxis:discourse	color:blue
+1	Богомолова	Богомолов	PROPN	NNP	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	2	obj	_	_
+2	приводит	приводить	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	Сергей	Сергей	PROPN	NNP	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
+4	Трахименок	Трахименок	PROPN	NNP	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	flat:name	_	SpaceAfter=No
+5	:	:	PUNCT	:	_	17	punct	_	_
+6	``	``	PUNCT	``	_	17	punct	_	SpaceAfter=No
+7	--	--	PUNCT	--	_	17	punct	_	_
+8	У	у	ADP	IN	_	9	case	_	_
+9	меня	я	PRON	PRP	Case=Gen|Number=Sing|Person=1	17	obl	_	SpaceAfter=No
+10	,	,	PUNCT	,	_	13	punct	_	_
+11	--	--	PUNCT	--	_	13	punct	_	_
+12	медленно	медленно	ADV	RB	Degree=Pos	13	advmod	_	_
+13	произнес	произнести	VERB	VBC	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	17	parataxis	_	_
+14	Богомолов	Богомолов	PROPN	NNP	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	13	nsubj	_	_
+15	--	--	PUNCT	--	_	13	punct	_	_
+16	не	не	PART	NEG	Polarity=Neg	17	advmod	_	_
+17	было	быть	VERB	VBC	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	_
+18	прототипов	прототип	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	17	obl	_	_
+19	положительных	положительный	ADJ	JJL	Case=Gen|Degree=Pos|Number=Plur	20	amod	_	_
+20	героев	герой	NOUN	NN	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	18	nmod	_	SpaceAfter=No
+21	...	...	PUNCT	--	_	17	punct	_	_
+22	--	--	PUNCT	--	_	27	punct	_	_
+23	А	а	CCONJ	CC	_	27	cc	_	_
+24	вот	вот	PART	UH	_	25	advmod	_	_
+25	отрицательных	отрицательный	ADJ	JJL	Case=Gen|Degree=Pos|Number=Plur	27	nsubj	_	orig_deprel=amod
+26	--	--	PUNCT	--	_	27	punct	_	_
+27	были	быть	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	17	conj	_	orig_deprel=ccomp|SpaceAfter=No
+28	...	...	PUNCT	.	_	31	punct	_	_
+29	Точнее	точно	ADV	RB	Degree=Cmp	31	parataxis:discourse	_	SpaceAfter=No
+30	,	,	PUNCT	,	_	31	punct	_	_
+31	был	быть	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	27	conj	_	SpaceAfter=No
+32	.	.	PUNCT	.	_	2	punct	_	_
 
 ~~~
 

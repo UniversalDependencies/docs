@@ -26,7 +26,7 @@ The following 7 pairs of parts of speech are connected with `parataxis`: <tt><a 
 2	O	o	ADP	RR--6----------	AdpType=Prep|Case=Loc	3	case	3:case	LId=o-1
 3	zásobách	zásoba	NOUN	NNFP6-----A----	Case=Loc|Gender=Fem|Number=Plur	5	obl:arg	5:obl:arg:o:loc|10:obl:arg:o:loc	_
 4	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	5	expl:pass	5:expl:pass	_
-5	účtuje	účtovat	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
+5	účtuje	účtovat	VERB	VB-S---3P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
 6	průběžně	průběžně	ADV	Dg-------1A----	Degree=Pos|Polarity=Pos	5	advmod	5:advmod	_
 7	způsobem	způsob	NOUN	NNIS7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	5	obl	5:obl:ins	_
 8	A	a	CCONJ	J^-------------	_	7	nmod	7:nmod	LId=a-1
@@ -42,9 +42,9 @@ The following 7 pairs of parts of speech are connected with `parataxis`: <tt><a 
 18	průběhu	průběh	NOUN	NNIS6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	17	fixed	17:fixed	_
 19	účetního	účetní	ADJ	AANS2----1A----	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos	20	amod	20:amod	LId=účetní-1
 20	období	období	NOUN	NNNS2-----A----	Case=Gen|Gender=Neut|Number=Sing	21	obl	21:obl:v_průběhu:gen	_
-21	účtuje	účtovat	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	5	parataxis	5:parataxis	_
+21	účtuje	účtovat	VERB	VB-S---3P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	5	parataxis	5:parataxis	_
 22	s	s	ADP	RR--7----------	AdpType=Prep|Case=Ins	23	case	23:case	LId=s-1
-23	využitím	využití	NOUN	NNNS7-----A----	Case=Ins|Gender=Neut|Number=Sing	21	obl	21:obl:s:ins	_
+23	využitím	využití	NOUN	NNNS7-----A----	Case=Ins|Gender=Neut|Number=Sing|VerbForm=Vnoun	21	obl	21:obl:s:ins	_
 24	účtů	účet	NOUN	NNIP2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	23	nmod	23:nmod:gen	_
 25	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	27	case	27:case	LId=v-1
 26	účtové	účtový	ADJ	AAFS6----1A----	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	27	amod	27:amod	_
@@ -70,10 +70,10 @@ The following 7 pairs of parts of speech are connected with `parataxis`: <tt><a 
 6	účetní	účetní	ADJ	AAFS1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	7	amod	7:amod	LId=účetní-1
 7	jednotka	jednotka	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing	9	nsubj	9:nsubj	_
 8	pouze	pouze	ADV	Db-------------	_	9	advmod:emph	9:advmod:emph	_
-9	přerozděluje	přerozdělovat	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	2	parataxis	2:parataxis	_
+9	přerozděluje	přerozdělovat	VERB	VB-S---3P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	2	parataxis	2:parataxis	_
 10	mezi	mezi	ADP	RR--7----------	AdpType=Prep|Case=Ins	11	case	11:case	LId=mezi-1
 11	společníky	společník	NOUN	NNMP7-----A----	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	9	obl	9:obl:mezi:ins	_
-12	přijaté	přijatý	ADJ	AAFS2----1A----	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	13	amod	13:amod	_
+12	přijaté	přijatý	ADJ	AAFS2----1A----	Aspect=Perf|Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	13	amod	13:amod	_
 13	dividendy	dividenda	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing	9	obl:arg	9:obl:arg:gen	_
 14	nebo	nebo	CCONJ	J^-------------	_	15	cc	15:cc	_
 15	podíly	podíl	NOUN	NNIP4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	13	conj	9:obl:arg:gen|13:conj	_
@@ -81,7 +81,7 @@ The following 7 pairs of parts of speech are connected with `parataxis`: <tt><a 
 17	zisku	zisk	NOUN	NNIS6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	15	nmod	15:nmod:na:loc	SpaceAfter=No
 18	,	,	PUNCT	Z:-------------	_	20	punct	20:punct	_
 19	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	20	expl:pass	20:expl:pass	_
-20	uvádějí	uvádět	VERB	VB-P---3P-AA---	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
+20	uvádějí	uvádět	VERB	VB-P---3P-AA---	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
 21	tyto	tento	DET	PDFP1----------	Case=Nom|Gender=Fem|Number=Plur|PronType=Dem	22	det	22:det	_
 22	platby	platba	NOUN	NNFP1-----A----	Case=Nom|Gender=Fem|Number=Plur	20	nsubj:pass	20:nsubj:pass	_
 23	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc|ExtPos=ADP	26	case	26:case	LId=v-1
@@ -104,7 +104,7 @@ The following 7 pairs of parts of speech are connected with `parataxis`: <tt><a 
 3	dále	dále	ADV	Db------------1	_	1	advmod	1:advmod	LId=dále-3
 4	jinak	jinak	ADV	Db-------------	_	1	advmod	1:advmod	SpaceAfter=No
 5	,	,	PUNCT	Z:-------------	_	1	punct	1:punct	_
-6	ustanovení	ustanovení	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Number=Sing	14	nsubj:pass	14:nsubj:pass	_
+6	ustanovení	ustanovení	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Vnoun	14	nsubj:pass	14:nsubj:pass	_
 7	tohoto	tento	DET	PDZS2----------	Case=Gen|Gender=Masc,Neut|Number=Sing|PronType=Dem	8	det	8:det	_
 8	zákona	zákon	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	nmod	6:nmod:gen	_
 9	týkající	týkající	ADJ	AGFP1-----A----	Aspect=Imp|Case=Nom|Gender=Fem|Number=Plur|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act	6	amod	6:amod	_
@@ -112,7 +112,7 @@ The following 7 pairs of parts of speech are connected with `parataxis`: <tt><a 
 11	účetní	účetní	ADJ	AAFP1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	12	amod	12:amod	LId=účetní-1
 12	závěrky	závěrka	NOUN	NNFP1-----A----	Case=Nom|Gender=Fem|Number=Plur	9	obj	9:obj	_
 13	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	14	expl:pass	14:expl:pass	_
-14	použijí	použít	VERB	VB-P---3P-AA--1	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
+14	použijí	použít	VERB	VB-P---3P-AA--1	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
 15	i	i	CCONJ	J^-------------	_	19	advmod:emph	19:advmod:emph	LId=i-1
 16	pro	pro	ADP	RR--4----------	AdpType=Prep|Case=Acc	19	case	19:case	LId=pro-1
 17	konsolidovanou	konsolidovaný	ADJ	AAFS4----1A----	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	19	amod	19:amod	_
@@ -123,7 +123,7 @@ The following 7 pairs of parts of speech are connected with `parataxis`: <tt><a 
 22	účetní	účetní	ADJ	AAFS1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	23	amod	23:amod	LId=účetní-1
 23	závěrka	závěrka	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing	25	nsubj:pass	25:nsubj:pass	_
 24	je	být	AUX	VB-S---3P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	25	aux:pass	25:aux:pass	_
-25	ověřována	ověřovaný	ADJ	VsQW---XX-AP---	Degree=Pos|Gender=Fem,Neut|Number=Plur,Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	14	parataxis	14:parataxis	LDeriv=ověřovat
+25	ověřována	ověřovaný	ADJ	VsQW---XX-AP---	Aspect=Imp|Degree=Pos|Gender=Fem,Neut|Number=Plur,Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	14	parataxis	14:parataxis	LDeriv=ověřovat
 26	auditorem	auditor	NOUN	NNMS7-----A----	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	25	obl:arg	25:obl:arg:ins	SpaceAfter=No
 27	.	.	PUNCT	Z:-------------	_	14	punct	14:punct	_
 

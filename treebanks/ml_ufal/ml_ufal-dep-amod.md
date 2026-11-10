@@ -41,8 +41,8 @@ The following 12 pairs of parts of speech are connected with `amod`: <tt><a href
 # visual-style 3 2 amod	color:blue
 1	ഫ്രാൻസിന്റെ	ഫ്രാൻസ്	PROPN	_	Animacy=Inan|Case=Gen|Number=Sing	2	nmod:poss	_	Translit=phrān̕sinṟe|LTranslit=phrān̕s
 2	തലസ്ഥാനമായ	തലസ്ഥാനം	ADJ	_	_	3	amod	_	Translit=talasthānamāya|LTranslit=talasthānaṁ
-3	പാരീസിൽ	പാരീസ്	PROPN	_	Animacy=Inan|Case=Loc|Number=Sing	6	obl	_	Translit=pārīsil̕|LTranslit=pārīs
-4	ആണ്	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin	6	aux	_	Translit=āṇ|LTranslit=āk
+3	പാരീസിൽ	പാരീസ്	PROPN	_	Animacy=Inan|Case=Loc|Number=Sing	6	obl	_	LTranslit=pārīs|Translit=pārīsil̕
+4	ആണ്	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin	6	aux	_	LTranslit=āk|Translit=āṇ
 5	അവൾ	അവൾ	PRON	_	Case=Nom|Deixis=Remt|Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	Translit=avaḷ̕|LTranslit=avaḷ̕
 6	വളർന്നത്	വളരുക	VERB	_	Polarity=Pos|Tense=Past|VerbForm=Vnoun|Voice=Act	0	root	_	SpaceAfter=No|Translit=vaḷaṟ̕nnat|LTranslit=vaḷaruka
 7	.	.	PUNCT	_	_	6	punct	_	Translit=.|LTranslit=.
@@ -61,8 +61,8 @@ The following 12 pairs of parts of speech are connected with `amod`: <tt><a href
 3	വഴി	വഴി	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	8	nsubj	_	Translit=vaḻi|LTranslit=vaḻi
 4	ഒരുപാട്	ഒരുപാട്	ADJ	_	_	5	amod	_	Translit=orupāṭ|LTranslit=orupāṭ
 5	തപ്പിയ	തപ്പുക	ADJ	_	_	8	obl	_	Translit=tappiya|LTranslit=tappuka
-6	ശേഷം	ശേഷം	ADP	_	_	5	case	_	Translit=śēṣaṁ|LTranslit=śēṣaṁ
-7	ആണ്	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin	5	cop:emph	_	Translit=āṇ|LTranslit=āk
+6	ശേഷം	ശേഷം	ADP	_	_	5	case	_	LTranslit=śēṣaṁ|Translit=śēṣaṁ
+7	ആണ്	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin	5	cop:emph	_	LTranslit=āk|Translit=āṇ
 8	കണ്ടുപിടിച്ചത്	കണ്ടുപിടിക്കുക	VERB	_	Polarity=Pos|Tense=Past|VerbForm=Vnoun|Voice=Act	0	root	_	SpaceAfter=No|Translit=kaṇṭupiṭiccat|LTranslit=kaṇṭupiṭikkuka
 9	.	.	PUNCT	_	_	8	punct	_	Translit=.|LTranslit=.
 

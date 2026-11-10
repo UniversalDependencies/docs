@@ -12,7 +12,7 @@ It occurs with 4 different values: `Card`, `Frac`, `Mult`, `Ord`.
 5502 tokens (2%) have a non-empty value of `NumType`.
 865 types (5%) occur at least once with a non-empty value of `NumType`.
 824 lemmas (5%) occur at least once with a non-empty value of `NumType`.
-The feature is used with 6 part-of-speech tags: <tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (4624; 2% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (535; 0% instances), <tt><a href="en_gum-pos-ADV.html">ADV</a></tt> (200; 0% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (128; 0% instances), <tt><a href="en_gum-pos-DET.html">DET</a></tt> (13; 0% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (2; 0% instances).
+The feature is used with 6 part-of-speech tags: <tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (4624; 2% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (535; 0% instances), <tt><a href="en_gum-pos-ADV.html">ADV</a></tt> (200; 0% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (129; 0% instances), <tt><a href="en_gum-pos-DET.html">DET</a></tt> (12; 0% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (2; 0% instances).
 
 ### `NUM`
 
@@ -37,7 +37,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 `ADJ` tokens may have the following values of `NumType`:
 
 * `Ord` (535; 100% of non-empty `NumType`): <em>first, second, third, 19th, 20th, fourth, fifth, 30th, 3rd, 10th</em>
-* `EMPTY` (16102): <em>other, new, many, good, little, more, same, such, different, last</em>
+* `EMPTY` (16105): <em>other, new, many, good, little, more, same, such, different, last</em>
 
 `NumType` seems to be **lexical feature** of `ADJ`. 100% lemmas (64) occur only with one value of `NumType`.
 
@@ -52,34 +52,34 @@ The most frequent other feature values with which `ADV` and `NumType` co-occurre
 * `Frac` (4; 2% of non-empty `NumType`): <em>half</em>
 * `Mult` (69; 35% of non-empty `NumType`): <em>once, twice</em>
 * `Ord` (127; 64% of non-empty `NumType`): <em>first, second, third, 135th, Fifth, Fourth, 15th, sixth</em>
-* `EMPTY` (12006): <em>so, just, when, then, also, how, now, more, here, where</em>
+* `EMPTY` (12014): <em>so, just, when, then, also, how, now, more, here, where</em>
 
 `NumType` seems to be **lexical feature** of `ADV`. 100% lemmas (11) occur only with one value of `NumType`.
 
 ### `NOUN`
 
-128 <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `NumType`.
+129 <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `NOUN` and `NumType` co-occurred: <tt><a href="en_gum-feat-Number.html">Number</a></tt><tt>=Sing</tt> (77; 60%).
+The most frequent other feature values with which `NOUN` and `NumType` co-occurred: <tt><a href="en_gum-feat-Number.html">Number</a></tt><tt>=Sing</tt> (78; 60%).
 
 `NOUN` tokens may have the following values of `NumType`:
 
 * `Card` (41; 32% of non-empty `NumType`): <em>1960s, 1970s, 1980s, 1990s, 1830s, 1950s, 1920s, 1930s, 1940s, 2000s</em>
-* `Frac` (87; 68% of non-empty `NumType`): <em>half, quarter, third, thirds, quarters, fifth, fifths, halves, hundredths, millionth</em>
-* `EMPTY` (42787): <em>people, time, way, day, years, year, world, life, today, city</em>
+* `Frac` (88; 68% of non-empty `NumType`): <em>half, quarter, third, thirds, quarters, fifth, fifths, halves, hundredths, millionth</em>
+* `EMPTY` (42775): <em>people, time, way, day, years, year, world, life, today, city</em>
 
 `NumType` seems to be **lexical feature** of `NOUN`. 100% lemmas (22) occur only with one value of `NumType`.
 
 ### `DET`
 
-13 <tt><a href="en_gum-pos-DET.html">DET</a></tt> tokens (0% of all `DET` tokens) have a non-empty value of `NumType`.
+12 <tt><a href="en_gum-pos-DET.html">DET</a></tt> tokens (0% of all `DET` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `DET` and `NumType` co-occurred: <tt><a href="en_gum-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (13; 100%), <tt><a href="en_gum-feat-PronType.html">PronType</a></tt><tt>=Ind</tt> (13; 100%).
+The most frequent other feature values with which `DET` and `NumType` co-occurred: <tt><a href="en_gum-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (12; 100%), <tt><a href="en_gum-feat-PronType.html">PronType</a></tt><tt>=Ind</tt> (12; 100%).
 
 `DET` tokens may have the following values of `NumType`:
 
-* `Frac` (13; 100% of non-empty `NumType`): <em>half</em>
-* `EMPTY` (21024): <em>the, a, this, an, all, some, that, these, no, any</em>
+* `Frac` (12; 100% of non-empty `NumType`): <em>half</em>
+* `EMPTY` (21021): <em>the, a, this, an, all, some, that, these, no, any</em>
 
 ### `PROPN`
 
@@ -90,7 +90,7 @@ The most frequent other feature values with which `PROPN` and `NumType` co-occur
 `PROPN` tokens may have the following values of `NumType`:
 
 * `Card` (2; 100% of non-empty `NumType`): <em>EIGHT, One</em>
-* `EMPTY` (14544): <em>States, University, President, America, U.S., York, New, south, north, Americans</em>
+* `EMPTY` (14537): <em>States, University, President, America, U.S., York, New, south, north, Americans</em>
 
 ## Relations with Agreement in `NumType`
 

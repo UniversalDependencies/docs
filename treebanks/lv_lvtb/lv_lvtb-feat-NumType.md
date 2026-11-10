@@ -36,7 +36,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 `ADJ` tokens may have the following values of `NumType`:
 
 * `Ord` (2582; 100% of non-empty `NumType`): <em>1., 2., 3., pirmo, 2014., 2012., pirmā, 4., 9., 2010.</em>
-* `EMPTY` (14973): <em>iespējams, liela, nepieciešams, liels, jaunu, lielu, galvenais, lielā, jauna, dažādu</em>
+* `EMPTY` (14975): <em>iespējams, liela, nepieciešams, liels, jaunu, lielu, galvenais, lielā, jauna, dažādu</em>
 
 `NumType` seems to be **lexical feature** of `ADJ`. 100% lemmas (269) occur only with one value of `NumType`.
 
@@ -49,7 +49,7 @@ The most frequent other feature values with which `ADV` and `NumType` co-occurre
 `ADV` tokens may have the following values of `NumType`:
 
 * `Mult` (23; 100% of non-empty `NumType`): <em>vienreiz, divreiz</em>
-* `EMPTY` (18567): <em>kad, jau, kā, tad, vēl, ļoti, kur, tā, vairāk, tik</em>
+* `EMPTY` (18569): <em>kad, jau, kā, tad, vēl, ļoti, kur, tā, vairāk, tik</em>
 
 ## Relations with Agreement in `NumType`
 

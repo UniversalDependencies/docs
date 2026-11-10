@@ -9,20 +9,20 @@ udver: '2'
 This feature is universal but the values `Exc` are language-specific.
 It occurs with 8 different values: `Art`, `Dem`, `Exc`, `Ind`, `Int`, `Neg`, `Prs`, `Rel`.
 
-13224 tokens (19%) have a non-empty value of `PronType`.
-192 types (2%) occur at least once with a non-empty value of `PronType`.
+13181 tokens (19%) have a non-empty value of `PronType`.
+191 types (2%) occur at least once with a non-empty value of `PronType`.
 52 lemmas (1%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 3 part-of-speech tags: <tt><a href="fr_sequoia-pos-DET.html">DET</a></tt> (10400; 15% instances), <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (2741; 4% instances), <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt> (83; 0% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="fr_sequoia-pos-DET.html">DET</a></tt> (10357; 15% instances), <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (2741; 4% instances), <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt> (83; 0% instances).
 
 ### `DET`
 
-10400 <tt><a href="fr_sequoia-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
+10357 <tt><a href="fr_sequoia-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="fr_sequoia-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7570; 73%), <tt><a href="fr_sequoia-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (7441; 72%).
+The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="fr_sequoia-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7526; 73%), <tt><a href="fr_sequoia-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (7398; 71%).
 
 `DET` tokens may have the following values of `PronType`:
 
-* `Art` (9198; 88% of non-empty `PronType`): <em>le, les, la, l', une, un, des, de, d', du</em>
+* `Art` (9155; 88% of non-empty `PronType`): <em>le, les, la, l', une, un, des, de, d', du</em>
 * `Dem` (444; 4% of non-empty `PronType`): <em>cette, ce, ces, cet</em>
 * `Exc` (3; 0% of non-empty `PronType`): <em>quel</em>
 * `Ind` (172; 2% of non-empty `PronType`): <em>plusieurs, quelques, chaque, tout, certains, certaines, toute, quelque, divers, tous</em>
@@ -73,7 +73,7 @@ The most frequent other feature values with which `ADV` and `PronType` co-occurr
 
 * `Int` (38; 46% of non-empty `PronType`): <em>comment, pourquoi, où, combien</em>
 * `Rel` (45; 54% of non-empty `PronType`): <em>où</em>
-* `EMPTY` (2605): <em>pas, n', ne, plus, moins, très, également, aussi, bien, non</em>
+* `EMPTY` (2615): <em>pas, n', ne, plus, moins, très, également, aussi, bien, non</em>
 
 <table>
   <tr><th>Paradigm <i>où</i></th><th><tt>Int</tt></th><th><tt>Rel</tt></th></tr>
@@ -85,6 +85,5 @@ The most frequent other feature values with which `ADV` and `PronType` co-occurr
 The 10 most frequent relations where parent and child node agree in `PronType`:
 <tt>PRON --[<tt><a href="fr_sequoia-dep-fixed.html">fixed</a></tt>]--> PRON</tt> (9; 90%),
 <tt>PRON --[<tt><a href="fr_sequoia-dep-conj.html">conj</a></tt>]--> PRON</tt> (2; 100%),
-<tt>DET --[<tt><a href="fr_sequoia-dep-fixed.html">fixed</a></tt>]--> DET</tt> (1; 100%),
 <tt>PRON --[<tt><a href="fr_sequoia-dep-obl-mod.html">obl:mod</a></tt>]--> PRON</tt> (1; 100%).
 

@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Skolt_Sami-Giellagas: POS Tags: `PRON`
 
-There are 20 `PRON` lemmas (4%), 52 `PRON` types (6%) and 319 `PRON` tokens (10%).
+There are 20 `PRON` lemmas (3%), 52 `PRON` types (6%) and 319 `PRON` tokens (10%).
 Out of 16 observed tags, the rank of `PRON` is: 5 in number of lemmas, 4 in number of types and 4 in number of tokens.
 
 The 10 most frequent `PRON` lemmas: <em>son, tõt, mon, ton, mii, dõõt, mâiʹd, puk, tut, tät</em>
 
 The 10 most frequent `PRON` types:  <em>son, tõt, tõn, ton, mon, mâiʹd, suu, mii, muu, miʹjjid</em>
 
-The 10 most frequent ambiguous lemmas: <em>tõt</em> (<tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> 78, <tt><a href="sms_giellagas-pos-DET.html">DET</a></tt> 4), <em>mii</em> (<tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> 13, <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> 1), <em>puk</em> (<tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> 8, <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> 1), <em>tät</em> (<tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> 6, <tt><a href="sms_giellagas-pos-DET.html">DET</a></tt> 1), <em>nuʹbb</em> (<tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt> 5, <tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> 3), <em>jeeʹres</em> (<tt><a href="sms_giellagas-pos-DET.html">DET</a></tt> 1, <tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>tõt</em> (<tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> 78, <tt><a href="sms_giellagas-pos-DET.html">DET</a></tt> 4), <em>mii</em> (<tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> 13, <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> 1), <em>puk</em> (<tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> 8, <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> 1), <em>tät</em> (<tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> 6, <tt><a href="sms_giellagas-pos-DET.html">DET</a></tt> 1), <em>nuʹbb</em> (<tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt> 5, <tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> 3), <em>jeeʹres</em> (<tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="sms_giellagas-pos-DET.html">DET</a></tt> 1, <tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>tõt</em> (<tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> 29, <tt><a href="sms_giellagas-pos-DET.html">DET</a></tt> 1), <em>tõn</em> (<tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> 28, <tt><a href="sms_giellagas-pos-DET.html">DET</a></tt> 2), <em>puk</em> (<tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> 7, <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> 1), <em>nuʹbb</em> (<tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> 1), <em>jeeʹres</em> (<tt><a href="sms_giellagas-pos-DET.html">DET</a></tt> 1, <tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> 1), <em>tõʹst</em> (<tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> 7, <tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> 1)
 
@@ -39,7 +39,7 @@ The 10 most frequent ambiguous types:  <em>tõt</em> (<tt><a href="sms_giellagas
 
 ## Morphology
 
-The form / lemma ratio of `PRON` is 2.600000 (the average of all parts of speech is 1.487500).
+The form / lemma ratio of `PRON` is 2.600000 (the average of all parts of speech is 1.478778).
 
 The 1st highest number of forms (8) was observed with the lemma “mon”: <em>Muäna, mij, miʹjjid, mon, muu, muännaid, muʹnne, muʹst</em>.
 

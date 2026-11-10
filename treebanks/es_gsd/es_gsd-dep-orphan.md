@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-6 nodes (0%) are attached to their parents as `orphan`.
+7 nodes (0%) are attached to their parents as `orphan`.
 
-6 instances of `orphan` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.66666666666667.
+7 instances of `orphan` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.57142857142857.
 
-The following 5 pairs of parts of speech are connected with `orphan`: <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_gsd-pos-DET.html">DET</a></tt> (2; 33% instances), <tt><a href="es_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> (1; 17% instances), <tt><a href="es_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> (1; 17% instances), <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_gsd-pos-ADJ.html">ADJ</a></tt> (1; 17% instances), <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> (1; 17% instances).
+The following 6 pairs of parts of speech are connected with `orphan`: <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_gsd-pos-DET.html">DET</a></tt> (2; 29% instances), <tt><a href="es_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> (1; 14% instances), <tt><a href="es_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> (1; 14% instances), <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_gsd-pos-ADJ.html">ADJ</a></tt> (1; 14% instances), <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> (1; 14% instances), <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> (1; 14% instances).
 
 
 ~~~ conllu
@@ -75,7 +75,7 @@ The following 5 pairs of parts of speech are connected with `orphan`: <tt><a hre
 24	de	de	ADP	_	_	25	case	_	_
 25	Pacaca	Pacaca	PROPN	_	_	22	nmod	_	SpaceAfter=No
 26	,	,	PUNCT	_	PunctType=Comm	31	punct	_	_
-27	que	que	SCONJ	_	_	31	mark	_	_
+27	que	que	PRON	_	PronType=Rel	31	nsubj	_	_
 28	en	en	ADP	_	_	30	case	_	_
 29	esa	ese	DET	_	Gender=Fem|Number=Sing|PronType=Dem	30	det	_	_
 30	época	época	NOUN	_	Gender=Fem|Number=Sing	31	obl	_	_

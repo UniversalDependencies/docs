@@ -65,7 +65,7 @@ The following 8 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 nmod:poss	color:blue
-1	Teknoalderen	teknoalder	NOUN	subst	Gender=Masc	2	obl	_	_
+1	Teknoalderen	teknoalder	NOUN	subst	Gender=Masc	2	nmod	_	_
 2	sin	sin	PRON	det	Gender=Masc|Poss=Yes|PronType=Prs	3	nmod:poss	_	_
 3	Frankenstein	Frankenstein	PROPN	subst	_	0	root	_	_
 

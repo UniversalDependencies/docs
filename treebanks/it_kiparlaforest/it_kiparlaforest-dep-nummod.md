@@ -8,66 +8,84 @@ udver: '2'
 
 This relation is universal.
 
-110 nodes (1%) are attached to their parents as `nummod`.
+125 nodes (1%) are attached to their parents as `nummod`.
 
-95 instances of `nummod` (86%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.23636363636364.
+111 instances of `nummod` (89%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.176.
 
-The following 5 pairs of parts of speech are connected with `nummod`: <tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_kiparlaforest-pos-NUM.html">NUM</a></tt> (98; 89% instances), <tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt>-<tt><a href="it_kiparlaforest-pos-NUM.html">NUM</a></tt> (6; 5% instances), <tt><a href="it_kiparlaforest-pos-NUM.html">NUM</a></tt>-<tt><a href="it_kiparlaforest-pos-NUM.html">NUM</a></tt> (3; 3% instances), <tt><a href="it_kiparlaforest-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_kiparlaforest-pos-NUM.html">NUM</a></tt> (2; 2% instances), <tt><a href="it_kiparlaforest-pos-INTJ.html">INTJ</a></tt>-<tt><a href="it_kiparlaforest-pos-NUM.html">NUM</a></tt> (1; 1% instances).
-
-
-~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 10 nummod	color:blue
-1	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	reparandum	_	KID=16-4|Prolonged=Yes
-2	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	KID=16-5
-3	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	KID=16-6
-4	casa	casa	NOUN	_	Gender=Fem|Number=Sing	0	root	_	KID=16-7
-5	costruita	costruire	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	4	acl:relcl	_	KID=16-8|Prolonged=Yes
-6	intorno	intorno	ADV	_	ExtPos=ADP	9	case	_	KID=16-9
-7	a	a	ADP	_	_	6	fixed	_	KID=16-10a
-8	gli	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	KID=16-10b
-9	anni	anno	NOUN	_	Gender=Masc|Number=Plur	5	obl	_	KID=16-11|Prolonged=Yes
-10	cinquanta	cinquanta	NUM	_	NumType=Card	9	nummod	_	KID=16-12
-11	credo	credere	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	discourse	_	End=49.35|ExtPos=DM|KID=16-13
-
-~~~
+The following 9 pairs of parts of speech are connected with `nummod`: <tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_kiparlaforest-pos-NUM.html">NUM</a></tt> (114; 91% instances), <tt><a href="it_kiparlaforest-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_kiparlaforest-pos-NUM.html">NUM</a></tt> (2; 2% instances), <tt><a href="it_kiparlaforest-pos-NUM.html">NUM</a></tt>-<tt><a href="it_kiparlaforest-pos-NUM.html">NUM</a></tt> (2; 2% instances), <tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt>-<tt><a href="it_kiparlaforest-pos-NUM.html">NUM</a></tt> (2; 2% instances), <tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt>-<tt><a href="it_kiparlaforest-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="it_kiparlaforest-pos-INTJ.html">INTJ</a></tt>-<tt><a href="it_kiparlaforest-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="it_kiparlaforest-pos-PRON.html">PRON</a></tt>-<tt><a href="it_kiparlaforest-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="it_kiparlaforest-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_kiparlaforest-pos-NUM.html">NUM</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 2 8 nummod	color:blue
-1	volete	volere	AUX	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	2	aux	_	Begin=138.117|KID=91-0
-2	stare	stare	VERB	_	VerbForm=Inf	0	root	_	KID=91-1
-3	in	in	ADP	_	_	4	case	_	KID=91-2
-4	bisca	bisca	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	KID=91-3
-5	fino	fino	ADV	_	ExtPos=ADP	8	case	_	KID=91-4
-6	a	a	ADP	_	_	5	fixed	_	KID=91-5a
-7	le	il	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	_	KID=91-5b
-8	quattro	quattro	NUM	_	NumType=Card	2	nummod	_	KID=91-6
-9	di	di	ADP	_	_	11	case	_	KID=91-7a
-10	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	KID=91-7b
-11	mattino	mattino	NOUN	_	Gender=Masc|Number=Sing	8	nmod	_	KID=91-8
-12	stanotte	stanotte	ADV	_	_	2	advmod	_	End=140.727|Intonation=Rising|KID=91-9
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 nummod	color:blue
+1	marzo	marzo	NOUN	_	Gender=Masc	0	root	_	Begin=82.81|Coconstruct=conj:reform::BOA1009_32::3|End=83.226|Intonation=Falling|KID=34-0
+2	duemiladiciotto	duemiladiciotto	NUM	_	_	1	nummod	_	Begin=84.226|End=85.206|Intonation=Falling|KID=35-0|OverlappingGroup=16
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 1 nummod	color:blue
-1	seicentodieci	seicentodieci	NUM	_	Gender=Masc|Number=Plur	3	nummod	_	Begin=829.362|KID=342-0
-2	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	KID=342-1
-3	prima	primo	NUM	_	_	0	root	_	Interrupted=Yes|KID=342-2
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 4 nummod	color:blue
+1	ah	ah	INTJ	_	_	8	discourse	_	Begin=1017.902|KID=671-0
+2	beh	beh	INTJ	_	_	8	discourse	_	KID=671-1
+3	mo	mo	ADV	_	_	8	discourse	_	KID=671-2
+4	undici	undici	NUM	_	NumType=Card	6	nummod	_	KID=671-3
+5	e	e	CCONJ	_	_	6	cc	_	KID=671-4
+6	mezza	mezza	ADJ	_	_	8	obl	_	KID=671-5
+7	ti	ti	PRON	_	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	8	expl	_	KID=671-6
+8	prepari	preparare	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	KID=671-7
+9	prima	prima	ADV	_	_	8	advmod	_	End=1020.632|Intonation=WeaklyRising|KID=671-8
+
+~~~
+
+
+~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 6 nummod	color:blue
+1	e	e	CCONJ	_	_	8	cc	_	Begin=2331.198|KID=911-0
+2	comunque	comunque	CCONJ	_	_	8	cc	_	KID=911-1
+3	ogni	ogni	DET	_	PronType=Ind	4	det	_	KID=911-2
+4	due	due	NUM	_	NumType=Card	8	obl	_	KID=911-3
+5	per	per	ADP	_	_	6	case	_	KID=911-4
+6	tre	tre	NUM	_	NumType=Card	4	nummod	_	KID=911-5
+7	qualcuno	qualcuno	PRON	_	Gender=Masc|Number=Sing|PronType=Ind	8	nsubj	_	KID=911-6
+8	trova	trovare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=911-7
+9	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	KID=911-8
+10	sasso	sasso	NOUN	_	Gender=Masc|Number=Sing	8	obj	_	KID=911-9
+11	e	e	CCONJ	_	_	12	cc	_	KID=911-10
+12	dice	dire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	conj	_	KID=911-11
+13	guardate	guardare	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	12	ccomp	_	KID=911-12|Reported=Yes
+14	ho	avere	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	15	aux	_	KID=911-13
+15	trovato	trovare	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	13	conj	_	KID=911-14
+16	questa	questo	DET	_	Gender=Fem|Number=Sing|PronType=Dem	17	det	_	KID=911-15
+17	cosa	cosa	NOUN	_	Gender=Fem|Number=Sing	15	obj	_	KID=911-16
+18	e	e	CCONJ	_	_	20	cc	_	KID=911-17
+19	questo	questo	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	20	nsubj	_	KID=911-18
+20	rivoluziona	rivoluzionare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	conj	_	KID=911-19
+21	completamente	completamente	ADV	_	_	20	advmod	_	KID=911-20
+22	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	23	det	_	KID=911-21
+23	storia	storia	NOUN	_	Gender=Fem|Number=Sing	20	obj	_	KID=911-22
+24	di	di	ADP	_	_	27	case	_	KID=911-23
+25	tutte	tutto	DET	_	Gender=Fem|Number=Plur|PronType=Tot	27	det:predet	_	KID=911-24
+26	le	il	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	27	det	_	KID=911-25
+27	lingue	lingua	NOUN	_	Gender=Fem|Number=Plur	23	nmod	_	KID=911-26
+28	semitiche	semitico	ADJ	_	Gender=Fem|Number=Plur	27	amod	_	KID=911-27
+29	così	così	ADV	_	_	33	advmod	_	KID=911-28
+30	come	come	ADV	_	_	33	mark	_	KID=911-29
+31	noi	noi	PRON	_	Number=Plur|Person=1|PronType=Prs	33	nsubj	_	KID=911-30
+32	la	la	PRON	_	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	33	obj	_	KID=911-31
+33	conosciamo	conoscere	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	23	acl	_	End=2339.659|Intonation=Falling|KID=911-32
 
 ~~~
 

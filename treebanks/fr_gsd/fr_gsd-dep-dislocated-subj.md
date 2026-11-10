@@ -70,7 +70,7 @@ The following 7 pairs of parts of speech are connected with `dislocated:subj`: <
 9	n'	ne	ADV	_	Polarity=Neg	12	advmod	_	SpaceAfter=No
 10	ont	avoir	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	aux:tense	_	_
 11	pas	pas	ADV	_	Polarity=Neg	12	advmod	_	_
-12	aligné	aligner	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	Tense[denom]=Past
+12	aligné	aligner	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	Status[Tense]=Denom
 13	trois	trois	NUM	_	Number=Plur	14	nummod	_	Exponence[Number]=Inherent
 14	passes	passe	NOUN	_	Gender=Fem|Number=Plur	12	obj	_	Exponence[Gender]=Inherent
 15	de	de	ADP	_	_	16	case	_	_
@@ -80,7 +80,7 @@ The following 7 pairs of parts of speech are connected with `dislocated:subj`: <
 19	n'	ne	ADV	_	Polarity=Neg	22	advmod	_	SpaceAfter=No
 20	ont	avoir	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	22	aux:tense	_	_
 21	pas	pas	ADV	_	Polarity=Neg	22	advmod	_	_
-22	tiré	tirer	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	12	conj	_	Tense[denom]=Past
+22	tiré	tirer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	12	conj	_	Status[Tense]=Denom
 23	à	à	ADP	_	_	25	case	_	_
 24	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	25	det	_	_
 25	but	but	NOUN	_	Gender=Masc|Number=Sing	22	obl:mod	_	Exponence[Gender]=Inherent|SpaceAfter=No

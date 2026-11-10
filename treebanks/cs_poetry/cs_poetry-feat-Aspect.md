@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Imp`, `Perf`.
 
-942 tokens (15%) have a non-empty value of `Aspect`.
-719 types (27%) occur at least once with a non-empty value of `Aspect`.
-511 lemmas (27%) occur at least once with a non-empty value of `Aspect`.
-The feature is used with 4 part-of-speech tags: <tt><a href="cs_poetry-pos-VERB.html">VERB</a></tt> (743; 12% instances), <tt><a href="cs_poetry-pos-AUX.html">AUX</a></tt> (136; 2% instances), <tt><a href="cs_poetry-pos-ADJ.html">ADJ</a></tt> (62; 1% instances), <tt><a href="cs_poetry-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+955 tokens (15%) have a non-empty value of `Aspect`.
+730 types (27%) occur at least once with a non-empty value of `Aspect`.
+520 lemmas (27%) occur at least once with a non-empty value of `Aspect`.
+The feature is used with 4 part-of-speech tags: <tt><a href="cs_poetry-pos-VERB.html">VERB</a></tt> (743; 12% instances), <tt><a href="cs_poetry-pos-AUX.html">AUX</a></tt> (136; 2% instances), <tt><a href="cs_poetry-pos-ADJ.html">ADJ</a></tt> (75; 1% instances), <tt><a href="cs_poetry-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 ### `VERB`
 
@@ -39,22 +39,22 @@ The most frequent other feature values with which `AUX` and `Aspect` co-occurred
 
 ### `ADJ`
 
-62 <tt><a href="cs_poetry-pos-ADJ.html">ADJ</a></tt> tokens (10% of all `ADJ` tokens) have a non-empty value of `Aspect`.
+75 <tt><a href="cs_poetry-pos-ADJ.html">ADJ</a></tt> tokens (13% of all `ADJ` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `ADJ` and `Aspect` co-occurred: <tt><a href="cs_poetry-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (62; 100%), <tt><a href="cs_poetry-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (60; 97%), <tt><a href="cs_poetry-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (50; 81%), <tt><a href="cs_poetry-feat-Number.html">Number</a></tt><tt>=Sing</tt> (45; 73%), <tt><a href="cs_poetry-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (42; 68%), <tt><a href="cs_poetry-feat-Voice.html">Voice</a></tt><tt>=Pass</tt> (39; 63%).
+The most frequent other feature values with which `ADJ` and `Aspect` co-occurred: <tt><a href="cs_poetry-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (75; 100%), <tt><a href="cs_poetry-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (73; 97%), <tt><a href="cs_poetry-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (62; 83%), <tt><a href="cs_poetry-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (55; 73%), <tt><a href="cs_poetry-feat-Number.html">Number</a></tt><tt>=Sing</tt> (54; 72%), <tt><a href="cs_poetry-feat-Voice.html">Voice</a></tt><tt>=Pass</tt> (52; 69%).
 
 `ADJ` tokens may have the following values of `Aspect`:
 
-* `Imp` (26; 42% of non-empty `Aspect`): <em>Drážděné, Kypící, bijící, bičován, budoucí, drtící, hořícího, hořícím, hynoucími, kající</em>
-* `Perf` (36; 58% of non-empty `Aspect`): <em>Oněmlé, Podťata, Rozcuchán, Zsinalá, narozené, narozený, nepoznaným, nezvrácen, oblečeny, obnažená</em>
-* `EMPTY` (535): <em>věčné, bílé, celý, plný, bílý, jiné, kamenném, nové, tiché, tmavou</em>
+* `Imp` (26; 35% of non-empty `Aspect`): <em>Drážděné, Kypící, bijící, bičován, budoucí, drtící, hořícího, hořícím, hynoucími, kající</em>
+* `Perf` (49; 65% of non-empty `Aspect`): <em>Vyloupena, skrytých, Oněmlé, Očištěna, Podťata, Rozcuchán, Ukřižovaného, Zsinalá, naplněnou, narozené</em>
+* `EMPTY` (522): <em>věčné, bílé, celý, plný, bílý, jiné, kamenném, nové, tiché, tmavou</em>
 
 <table>
   <tr><th>Paradigm <i>otrávený</i></th><th><tt>Imp</tt></th><th><tt>Perf</tt></th></tr>
   <tr><td><tt></tt></td><td><em>otráven</em></td><td><em>otráven</em></td></tr>
 </table>
 
-`Aspect` seems to be **lexical feature** of `ADJ`. 98% lemmas (58) occur only with one value of `Aspect`.
+`Aspect` seems to be **lexical feature** of `ADJ`. 99% lemmas (67) occur only with one value of `Aspect`.
 
 ### `NOUN`
 
@@ -75,9 +75,9 @@ The 10 most frequent relations where parent and child node agree in `Aspect`:
 <tt>VERB --[<tt><a href="cs_poetry-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (36; 58%),
 <tt>VERB --[<tt><a href="cs_poetry-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (33; 55%),
 <tt>VERB --[<tt><a href="cs_poetry-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (5; 71%),
+<tt>VERB --[<tt><a href="cs_poetry-dep-conj.html">conj</a></tt>]--> ADJ</tt> (3; 60%),
 <tt>VERB --[<tt><a href="cs_poetry-dep-conj.html">conj</a></tt>]--> AUX</tt> (2; 100%),
 <tt>ADJ --[<tt><a href="cs_poetry-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (1; 100%),
 <tt>AUX --[<tt><a href="cs_poetry-dep-parataxis.html">parataxis</a></tt>]--> AUX</tt> (1; 100%),
-<tt>VERB --[<tt><a href="cs_poetry-dep-acl.html">acl</a></tt>]--> VERB</tt> (1; 100%),
-<tt>VERB --[<tt><a href="cs_poetry-dep-csubj.html">csubj</a></tt>]--> ADJ</tt> (1; 100%).
+<tt>VERB --[<tt><a href="cs_poetry-dep-acl.html">acl</a></tt>]--> VERB</tt> (1; 100%).
 

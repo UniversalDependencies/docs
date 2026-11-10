@@ -9,16 +9,16 @@ udver: '2'
 This feature is universal but the values `Emp` are language-specific.
 It occurs with 9 different values: `Dem`, `Emp`, `Ind`, `Int`, `Neg`, `Prs`, `Rcp`, `Rel`, `Tot`.
 
-11658 tokens (11%) have a non-empty value of `PronType`.
+11655 tokens (11%) have a non-empty value of `PronType`.
 465 types (3%) occur at least once with a non-empty value of `PronType`.
 114 lemmas (2%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 4 part-of-speech tags: <tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt> (6009; 6% instances), <tt><a href="uk_parlamint-pos-DET.html">DET</a></tt> (4269; 4% instances), <tt><a href="uk_parlamint-pos-ADV.html">ADV</a></tt> (1249; 1% instances), <tt><a href="uk_parlamint-pos-SCONJ.html">SCONJ</a></tt> (131; 0% instances).
+The feature is used with 4 part-of-speech tags: <tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt> (6007; 6% instances), <tt><a href="uk_parlamint-pos-DET.html">DET</a></tt> (4268; 4% instances), <tt><a href="uk_parlamint-pos-ADV.html">ADV</a></tt> (1249; 1% instances), <tt><a href="uk_parlamint-pos-SCONJ.html">SCONJ</a></tt> (131; 0% instances).
 
 ### `PRON`
 
-6009 <tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
+6007 <tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="uk_parlamint-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (3807; 63%), <tt><a href="uk_parlamint-feat-Case.html">Case</a></tt><tt>=Nom</tt> (3657; 61%), <tt><a href="uk_parlamint-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3354; 56%), <tt><a href="uk_parlamint-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt> (3277; 55%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="uk_parlamint-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (3805; 63%), <tt><a href="uk_parlamint-feat-Case.html">Case</a></tt><tt>=Nom</tt> (3658; 61%), <tt><a href="uk_parlamint-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3354; 56%), <tt><a href="uk_parlamint-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt> (3277; 55%).
 
 `PRON` tokens may have the following values of `PronType`:
 
@@ -27,10 +27,10 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 * `Ind` (44; 1% of non-empty `PronType`): <em>хтось, щось, інше, дехто, когось, іншого, будь-кого, декого, один, одне</em>
 * `Int` (73; 1% of non-empty `PronType`): <em>що, хто, Кому, Чим, чого</em>
 * `Neg` (62; 1% of non-empty `PronType`): <em>нічого, ніхто, нікому, нікого, нічим, ні, ніким, нічому, ніщо</em>
-* `Prs` (3892; 65% of non-empty `PronType`): <em>ми, я, ви, нас, вони, вас, нам, він, вам, їх</em>
+* `Prs` (3889; 65% of non-empty `PronType`): <em>ми, я, ви, нас, вони, вас, нам, він, вам, їх</em>
 * `Rcp` (22; 0% of non-empty `PronType`): <em>один, одного, одному</em>
 * `Rel` (433; 7% of non-empty `PronType`): <em>що, хто, які, який, яка, яке, яку, чого, кого, яких</em>
-* `Tot` (116; 2% of non-empty `PronType`): <em>все, всі, всім, всіх, весь, всіма, кожен, кожного, усім</em>
+* `Tot` (117; 2% of non-empty `PronType`): <em>все, всі, всім, всіх, весь, всіма, кожен, кожного, усім</em>
 
 <table>
   <tr><th>Paradigm <i>що</i></th><th><tt>Int</tt></th><th><tt>Rel</tt></th><th><tt>Ind</tt></th></tr>
@@ -51,9 +51,9 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 
 ### `DET`
 
-4269 <tt><a href="uk_parlamint-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
+4268 <tt><a href="uk_parlamint-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="uk_parlamint-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (3636; 85%), <tt><a href="uk_parlamint-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (3608; 85%), <tt><a href="uk_parlamint-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (3361; 79%), <tt><a href="uk_parlamint-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2589; 61%).
+The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="uk_parlamint-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (3635; 85%), <tt><a href="uk_parlamint-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (3607; 85%), <tt><a href="uk_parlamint-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (3360; 79%), <tt><a href="uk_parlamint-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2589; 61%).
 
 `DET` tokens may have the following values of `PronType`:
 
@@ -65,7 +65,8 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
 * `Prs` (915; 21% of non-empty `PronType`): <em>наша, нашої, наших, свої, наші, його, наш, свою, своїх, нашу</em>
 * `Rcp` (4; 0% of non-empty `PronType`): <em>одне, один, одного</em>
 * `Rel` (786; 18% of non-empty `PronType`): <em>які, який, яка, яку, яких, яке, якої, яким, якому, якого</em>
-* `Tot` (502; 12% of non-empty `PronType`): <em>всі, всіх, все, весь, вся, усіх, кожного, кожен, всім, кожному</em>
+* `Tot` (501; 12% of non-empty `PronType`): <em>всі, всіх, все, весь, вся, усіх, кожного, кожен, всім, кожному</em>
+* `EMPTY` (2): <em>багато</em>
 
 <table>
   <tr><th>Paradigm <i>який</i></th><th><tt>Int</tt></th><th><tt>Rel</tt></th><th><tt>Ind</tt></th></tr>
@@ -110,7 +111,7 @@ The most frequent other feature values with which `ADV` and `PronType` co-occurr
 * `Neg` (25; 2% of non-empty `PronType`): <em>ніколи, ніяк, ніде, нікуди</em>
 * `Rel` (130; 10% of non-empty `PronType`): <em>де, як, коли, чому, куди, звідки, поки, скільки</em>
 * `Tot` (18; 1% of non-empty `PronType`): <em>завжди, скрізь, всюди</em>
-* `EMPTY` (4294): <em>сьогодні, тому, ще, треба, вже, дуже, також, потрібно, далі, можна</em>
+* `EMPTY` (4293): <em>сьогодні, тому, ще, треба, вже, дуже, також, потрібно, далі, можна</em>
 
 <table>
   <tr><th>Paradigm <i>як</i></th><th><tt>Int</tt></th><th><tt>Rel</tt></th></tr>
@@ -124,7 +125,7 @@ The most frequent other feature values with which `ADV` and `PronType` co-occurr
 `SCONJ` tokens may have the following values of `PronType`:
 
 * `Rel` (131; 100% of non-empty `PronType`): <em>коли, як, поки, що, чим, доки</em>
-* `EMPTY` (2216): <em>що, щоб, як, якщо, то, бо, щоби, ніж, оскільки, адже</em>
+* `EMPTY` (2215): <em>що, щоб, як, якщо, то, бо, щоби, ніж, оскільки, адже</em>
 
 ## Relations with Agreement in `PronType`
 
@@ -132,7 +133,7 @@ The 10 most frequent relations where parent and child node agree in `PronType`:
 <tt>PRON --[<tt><a href="uk_parlamint-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (36; 95%),
 <tt>PRON --[<tt><a href="uk_parlamint-dep-conj.html">conj</a></tt>]--> PRON</tt> (13; 81%),
 <tt>PRON --[<tt><a href="uk_parlamint-dep-fixed.html">fixed</a></tt>]--> PRON</tt> (10; 91%),
-<tt>PRON --[<tt><a href="uk_parlamint-dep-reparandum.html">reparandum</a></tt>]--> PRON</tt> (4; 100%),
+<tt>PRON --[<tt><a href="uk_parlamint-dep-reparandum.html">reparandum</a></tt>]--> PRON</tt> (6; 100%),
 <tt>DET --[<tt><a href="uk_parlamint-dep-obl.html">obl</a></tt>]--> PRON</tt> (2; 100%),
 <tt>DET --[<tt><a href="uk_parlamint-dep-appos.html">appos</a></tt>]--> PRON</tt> (1; 100%),
 <tt>DET --[<tt><a href="uk_parlamint-dep-orphan.html">orphan</a></tt>]--> DET</tt> (1; 100%),

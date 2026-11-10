@@ -60,7 +60,7 @@ The 10 most frequent ambiguous types:  <em>monti</em> (<tt><a href="it_postwita-
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.011499 (the average of all parts of speech is 1.310689).
+The form / lemma ratio of `PROPN` is 1.011499 (the average of all parts of speech is 1.310732).
 
 The 1st highest number of forms (3) was observed with the lemma “Beppe”: <em>Beppe, Beppeee, Beppeeeeee</em>.
 

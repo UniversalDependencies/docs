@@ -30,7 +30,7 @@ The most frequent other feature values with which `NOUN` and `Typo` co-occurred:
 
 451 <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `VERB` and `Typo` co-occurred: <tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (372; 82%), <tt><a href="ru_taiga-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (302; 67%), <tt><a href="ru_taiga-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (273; 61%), <tt><a href="ru_taiga-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (267; 59%), <tt><a href="ru_taiga-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (235; 52%), <tt><a href="ru_taiga-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (234; 52%).
+The most frequent other feature values with which `VERB` and `Typo` co-occurred: <tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (372; 82%), <tt><a href="ru_taiga-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (302; 67%), <tt><a href="ru_taiga-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (272; 60%), <tt><a href="ru_taiga-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (267; 59%), <tt><a href="ru_taiga-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (235; 52%), <tt><a href="ru_taiga-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (234; 52%).
 
 `VERB` tokens may have the following values of `Typo`:
 

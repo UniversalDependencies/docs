@@ -23,7 +23,7 @@ The most frequent other feature values with which `NOUN` and `Animacy` co-occurr
 `NOUN` tokens may have the following values of `Animacy`:
 
 * `Anim` (982; 100% of non-empty `Animacy`): <em>людей, князя, сына, царя, игумена, Бога, брата, крестьян, человека, государя</em>
-* `EMPTY` (36804): <em>день, г., чети, государь, году, князь, государю, людей, князя, весу</em>
+* `EMPTY` (36803): <em>день, г., чети, государь, году, князь, государю, людей, князя, весу</em>
 
 `Animacy` seems to be **lexical feature** of `NOUN`. 100% lemmas (246) occur only with one value of `Animacy`.
 
@@ -82,7 +82,7 @@ The most frequent other feature values with which `VERB` and `Animacy` co-occurr
 `VERB` tokens may have the following values of `Animacy`:
 
 * `Anim` (42; 100% of non-empty `Animacy`): <em>битого, даново, живущихъ, пребывающаго, рожде(н)наго, бесѣдующа, благоугодивших, боящихся, взятыхъ, водимых</em>
-* `EMPTY` (14811): <em>смерено, взято, велел, пожаловал, дал, писал, сказал, велѣлъ, принето, послал</em>
+* `EMPTY` (14815): <em>смерено, взято, велел, пожаловал, дал, писал, сказал, велѣлъ, принето, послал</em>
 
 `Animacy` seems to be **lexical feature** of `VERB`. 100% lemmas (32) occur only with one value of `Animacy`.
 
@@ -117,7 +117,7 @@ The most frequent other feature values with which `AUX` and `Animacy` co-occurre
 `AUX` tokens may have the following values of `Animacy`:
 
 * `Anim` (1; 100% of non-empty `Animacy`): <em>бывша</em>
-* `EMPTY` (1471): <em>бы, было, будет, есть, были, есми, бысть, б, будетъ, былъ</em>
+* `EMPTY` (1468): <em>бы, было, будет, есть, были, есми, бысть, б, будетъ, былъ</em>
 
 ## Relations with Agreement in `Animacy`
 

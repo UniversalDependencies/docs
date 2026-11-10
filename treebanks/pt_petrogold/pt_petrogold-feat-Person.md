@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `1`, `2`, `3`.
 
-13310 tokens (5%) have a non-empty value of `Person`.
+13311 tokens (5%) have a non-empty value of `Person`.
 1628 types (11%) occur at least once with a non-empty value of `Person`.
 623 lemmas (6%) occur at least once with a non-empty value of `Person`.
-The feature is used with 3 part-of-speech tags: <tt><a href="pt_petrogold-pos-VERB.html">VERB</a></tt> (7461; 3% instances), <tt><a href="pt_petrogold-pos-AUX.html">AUX</a></tt> (5428; 2% instances), <tt><a href="pt_petrogold-pos-PRON.html">PRON</a></tt> (421; 0% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="pt_petrogold-pos-VERB.html">VERB</a></tt> (7461; 3% instances), <tt><a href="pt_petrogold-pos-AUX.html">AUX</a></tt> (5429; 2% instances), <tt><a href="pt_petrogold-pos-PRON.html">PRON</a></tt> (421; 0% instances).
 
 ### `VERB`
 
@@ -40,14 +40,14 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 
 ### `AUX`
 
-5428 <tt><a href="pt_petrogold-pos-AUX.html">AUX</a></tt> tokens (83% of all `AUX` tokens) have a non-empty value of `Person`.
+5429 <tt><a href="pt_petrogold-pos-AUX.html">AUX</a></tt> tokens (83% of all `AUX` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="pt_petrogold-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (5341; 98%), <tt><a href="pt_petrogold-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (5079; 94%), <tt><a href="pt_petrogold-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (3482; 64%), <tt><a href="pt_petrogold-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3396; 63%).
+The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="pt_petrogold-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (5342; 98%), <tt><a href="pt_petrogold-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (5080; 94%), <tt><a href="pt_petrogold-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (3483; 64%), <tt><a href="pt_petrogold-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3397; 63%).
 
 `AUX` tokens may have the following values of `Person`:
 
-* `3` (5428; 100% of non-empty `Person`): <em>é, são, foi, foram, estão, está, será, serão, era, seja</em>
-* `EMPTY` (1146): <em>ser, sendo, sido, estar, ter, tendo, estando, é, e, estado</em>
+* `3` (5429; 100% of non-empty `Person`): <em>é, são, foi, foram, estão, está, será, serão, era, seja</em>
+* `EMPTY` (1145): <em>ser, sendo, sido, estar, ter, tendo, estando, é, e, estado</em>
 
 ### `PRON`
 
@@ -59,7 +59,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 
 * `1` (5; 1% of non-empty `Person`): <em>nos, EU, nós</em>
 * `3` (416; 99% of non-empty `Person`): <em>a, eles, elas, ele, ela, si, as, o, lo, los</em>
-* `EMPTY` (4979): <em>se, que, o, isso, isto, este, qual, um, uma, onde</em>
+* `EMPTY` (4978): <em>se, que, o, isso, isto, este, qual, um, uma, onde</em>
 
 `Person` seems to be **lexical feature** of `PRON`. 100% lemmas (11) occur only with one value of `Person`.
 

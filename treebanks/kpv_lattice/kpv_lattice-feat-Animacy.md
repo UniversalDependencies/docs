@@ -23,7 +23,7 @@ The most frequent other feature values with which `NOUN` and `Animacy` co-occurr
 `NOUN` tokens may have the following values of `Animacy`:
 
 * `Hum` (143; 100% of non-empty `Animacy`): <em>Ваньӧ, Павел, Гриш, Свежов, Варук, Вась, Демит, Микитлӧн, Саш, Асныров</em>
-* `EMPTY` (1921): <em>урожай, удж, шонді, ва, лун, во, вӧр, керка, ю, му</em>
+* `EMPTY` (1930): <em>урожай, удж, шонді, ва, лун, во, вӧр, керка, ю, му</em>
 
 `Animacy` seems to be **lexical feature** of `NOUN`. 100% lemmas (92) occur only with one value of `Animacy`.
 
@@ -36,7 +36,7 @@ The most frequent other feature values with which `PROPN` and `Animacy` co-occur
 `PROPN` tokens may have the following values of `Animacy`:
 
 * `Hum` (8; 100% of non-empty `Animacy`): <em>Вика, Лариса, Лихачёв, Нетулика, Прокоп, Пӧлашысь, Сеня, Тулика</em>
-* `EMPTY` (41): <em>Ворошилов, Климент, Ефремович, Краснӧй, Сталин, Ёгор, Валентина, Вера, Волгалань, Ворошиловӧс</em>
+* `EMPTY` (42): <em>Ворошилов, Климент, Ефремович, Краснӧй, Сталин, Ёгор, Валентина, Вера, Волгалань, Ворошиловӧс</em>
 
 ## Relations with Agreement in `Animacy`
 

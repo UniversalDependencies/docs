@@ -6,69 +6,87 @@ udver: '2'
 
 ## Treebank Statistics: UD_Old_Georgian-GLC: POS Tags: `SCONJ`
 
-There are 17 `SCONJ` lemmas (1%), 18 `SCONJ` types (1%) and 223 `SCONJ` tokens (3%).
-Out of 14 observed tags, the rank of `SCONJ` is: 10 in number of lemmas, 11 in number of types and 9 in number of tokens.
+There are 31 `SCONJ` lemmas (1%), 35 `SCONJ` types (0%) and 1203 `SCONJ` tokens (4%).
+Out of 15 observed tags, the rank of `SCONJ` is: 10 in number of lemmas, 11 in number of types and 9 in number of tokens.
 
-The 10 most frequent `SCONJ` lemmas: <em>რაჲთა, ვითარცა, უკუეთუ, რამეთუ, ვითარმედ, ვითარ, თუ, ვიდრე, გინათუ, დაღათუ</em>
+The 10 most frequent `SCONJ` lemmas: <em>რამეთუ, რაჲთა, ვითარცა, ვითარმედ, თუ, უკუეთუ, რაჟამს, რა, ვიდრე, ვითარ</em>
 
-The 10 most frequent `SCONJ` types:  <em>რაჲთა, ვითარცა, უკუეთუ, რამეთუ, ვითარმედ, ვითარ, თუ, გინათუ, დაღათუ, ვიდრე</em>
+The 10 most frequent `SCONJ` types:  <em>რამეთუ, რაჲთა, ვითარცა, ვითარმედ, თუ, უკუეთუ, რაჟამს, რაჲ, ვიდრე, ვითარ</em>
 
-The 10 most frequent ambiguous lemmas: <em>რაჲთა</em> (<tt><a href="oge_glc-pos-SCONJ.html">SCONJ</a></tt> 54, <tt><a href="oge_glc-pos-PART.html">PART</a></tt> 1), <em>თუ</em> (<tt><a href="oge_glc-pos-SCONJ.html">SCONJ</a></tt> 7, <tt><a href="oge_glc-pos-PART.html">PART</a></tt> 5), <em>ვიდრე</em> (<tt><a href="oge_glc-pos-SCONJ.html">SCONJ</a></tt> 4, <tt><a href="oge_glc-pos-ADP.html">ADP</a></tt> 2), <em>გინათუ</em> (<tt><a href="oge_glc-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="oge_glc-pos-CCONJ.html">CCONJ</a></tt> 1), <em>ვინაჲცა</em> (<tt><a href="oge_glc-pos-SCONJ.html">SCONJ</a></tt> 2, <tt><a href="oge_glc-pos-ADV.html">ADV</a></tt> 1), <em>ოდეს</em> (<tt><a href="oge_glc-pos-ADV.html">ADV</a></tt> 1, <tt><a href="oge_glc-pos-SCONJ.html">SCONJ</a></tt> 1), <em>რაჲ</em> (<tt><a href="oge_glc-pos-PRON.html">PRON</a></tt> 13, <tt><a href="oge_glc-pos-PART.html">PART</a></tt> 4, <tt><a href="oge_glc-pos-SCONJ.html">SCONJ</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>რაჲთა</em> (<tt><a href="oge_glc-pos-SCONJ.html">SCONJ</a></tt> 191, <tt><a href="oge_glc-pos-PART.html">PART</a></tt> 2), <em>ვითარცა</em> (<tt><a href="oge_glc-pos-SCONJ.html">SCONJ</a></tt> 182, <tt><a href="oge_glc-pos-ADV.html">ADV</a></tt> 3, <tt><a href="oge_glc-pos-ADP.html">ADP</a></tt> 2), <em>რაჟამს</em> (<tt><a href="oge_glc-pos-SCONJ.html">SCONJ</a></tt> 51, <tt><a href="oge_glc-pos-ADV.html">ADV</a></tt> 9), <em>რა</em> (<tt><a href="oge_glc-pos-PRON.html">PRON</a></tt> 71, <tt><a href="oge_glc-pos-SCONJ.html">SCONJ</a></tt> 40), <em>ვითარ</em> (<tt><a href="oge_glc-pos-ADV.html">ADV</a></tt> 40, <tt><a href="oge_glc-pos-SCONJ.html">SCONJ</a></tt> 24), <em>გინა</em> (<tt><a href="oge_glc-pos-SCONJ.html">SCONJ</a></tt> 20, <tt><a href="oge_glc-pos-CCONJ.html">CCONJ</a></tt> 1), <em>რომელი</em> (<tt><a href="oge_glc-pos-PRON.html">PRON</a></tt> 511, <tt><a href="oge_glc-pos-SCONJ.html">SCONJ</a></tt> 12), <em>რომელ</em> (<tt><a href="oge_glc-pos-SCONJ.html">SCONJ</a></tt> 5, <tt><a href="oge_glc-pos-PRON.html">PRON</a></tt> 3), <em>ვიდრემდის</em> (<tt><a href="oge_glc-pos-ADV.html">ADV</a></tt> 4, <tt><a href="oge_glc-pos-SCONJ.html">SCONJ</a></tt> 4), <em>ვიდრეღა</em> (<tt><a href="oge_glc-pos-SCONJ.html">SCONJ</a></tt> 2, <tt><a href="oge_glc-pos-ADV.html">ADV</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>თუ</em> (<tt><a href="oge_glc-pos-SCONJ.html">SCONJ</a></tt> 7, <tt><a href="oge_glc-pos-PART.html">PART</a></tt> 5), <em>გინათუ</em> (<tt><a href="oge_glc-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="oge_glc-pos-CCONJ.html">CCONJ</a></tt> 1), <em>ვიდრე</em> (<tt><a href="oge_glc-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="oge_glc-pos-ADP.html">ADP</a></tt> 2), <em>რაჲთამცა</em> (<tt><a href="oge_glc-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="oge_glc-pos-PART.html">PART</a></tt> 1), <em>ვინაჲცა</em> (<tt><a href="oge_glc-pos-SCONJ.html">SCONJ</a></tt> 2, <tt><a href="oge_glc-pos-ADV.html">ADV</a></tt> 1), <em>ოდეს</em> (<tt><a href="oge_glc-pos-ADV.html">ADV</a></tt> 1, <tt><a href="oge_glc-pos-SCONJ.html">SCONJ</a></tt> 1), <em>რაჲ</em> (<tt><a href="oge_glc-pos-PRON.html">PRON</a></tt> 5, <tt><a href="oge_glc-pos-PART.html">PART</a></tt> 4, <tt><a href="oge_glc-pos-SCONJ.html">SCONJ</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>ვითარცა</em> (<tt><a href="oge_glc-pos-SCONJ.html">SCONJ</a></tt> 181, <tt><a href="oge_glc-pos-ADV.html">ADV</a></tt> 3, <tt><a href="oge_glc-pos-ADP.html">ADP</a></tt> 2), <em>რაჟამს</em> (<tt><a href="oge_glc-pos-SCONJ.html">SCONJ</a></tt> 51, <tt><a href="oge_glc-pos-ADV.html">ADV</a></tt> 9), <em>რაჲ</em> (<tt><a href="oge_glc-pos-PRON.html">PRON</a></tt> 49, <tt><a href="oge_glc-pos-SCONJ.html">SCONJ</a></tt> 37, <tt><a href="oge_glc-pos-PART.html">PART</a></tt> 6), <em>ვითარ</em> (<tt><a href="oge_glc-pos-ADV.html">ADV</a></tt> 40, <tt><a href="oge_glc-pos-SCONJ.html">SCONJ</a></tt> 23), <em>გინა</em> (<tt><a href="oge_glc-pos-SCONJ.html">SCONJ</a></tt> 20, <tt><a href="oge_glc-pos-CCONJ.html">CCONJ</a></tt> 1), <em>რომელ</em> (<tt><a href="oge_glc-pos-PRON.html">PRON</a></tt> 26, <tt><a href="oge_glc-pos-SCONJ.html">SCONJ</a></tt> 17), <em>ვიდრემდის</em> (<tt><a href="oge_glc-pos-SCONJ.html">SCONJ</a></tt> 5, <tt><a href="oge_glc-pos-ADV.html">ADV</a></tt> 4), <em>რაჲთამცა</em> (<tt><a href="oge_glc-pos-SCONJ.html">SCONJ</a></tt> 5, <tt><a href="oge_glc-pos-PART.html">PART</a></tt> 1), <em>რაჲმცა</em> (<tt><a href="oge_glc-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="oge_glc-pos-PRON.html">PRON</a></tt> 2), <em>ვიდრეღა</em> (<tt><a href="oge_glc-pos-SCONJ.html">SCONJ</a></tt> 2, <tt><a href="oge_glc-pos-ADV.html">ADV</a></tt> 1)
 
 
-* <em>თუ</em>
-  * <tt><a href="oge_glc-pos-SCONJ.html">SCONJ</a></tt> 7: <em>ხოლო <b>თუ</b> ვითარი პატივი აქუნდა მათ , ანუ რომელი ჴელთ დასხმაჲ შეიწყნარეს , საჭირო არს , რაჲთა ვისწავოთ , ნუუკუე დიაკონთაჲ გარნა ესე ეკლესიათა შინა არა არს , არამედ ხუცესთაჲ არს განმგებელობაჲ .</em>
-  * <tt><a href="oge_glc-pos-PART.html">PART</a></tt> 5: <em>და „ <b>თუ</b> შეკრულ ხარ მეუღლისადა , ნუ ეძიებ განჴსნასა “ .</em>
-* <em>გინათუ</em>
-  * <tt><a href="oge_glc-pos-SCONJ.html">SCONJ</a></tt> 3: <em>ხოლო ესევითარითა ამით მეორისა ქორწინებისა ვნებითა ვიდრემე დაცემულთა , არამედ უწინარეს უწყებისა ჩუენისა უმჯობესისა შემეცნებულთა და თავისა თჳსისა გან მომკუეთელთა და განმგდებელთა მის ბოროტისათა და შორად წარმდევნელთა უცხოჲსა მის და მორყუნილისა შეყოფისათა , <b>გინათუ</b> მეორედ ქორწინებულთა მათ ცოლნი ეგერა სიკუდილითა დასჯილ იყვნენ , <b>გინათუ</b> თჳთ სახითა ჭეშმარიტისა მოქცევისაჲთა ესწავოს მათ სიწმიდე .</em>
-  * <tt><a href="oge_glc-pos-CCONJ.html">CCONJ</a></tt> 1: <em>კბ(22) რომელნიცა წარგებითა საჴმართაჲთა , ესე იგი არს ქრთამითა ჴელთდასხმულ იქმნენ , <b>გინათუ</b> ეპისკოპოსნი , ანუ რომლისაცა სამღდელოჲსა დასისა განნი და არა გამოცდილებითა და სათნო ყოფითა ცხორებისაჲთა , განკუეთასა ვბრძანებთ მათსა , არამედ ჴელთდამსხმელთაცა მათთასა .</em>
-* <em>ვიდრე</em>
-  * <tt><a href="oge_glc-pos-SCONJ.html">SCONJ</a></tt> 3: <em>ა(1) წესი რჩეული ყოვლისავე სიტყუად და საქმედ დამწყებელისაჲ ღმრთისა გან დაწყებაჲ და ღმრთისა თანა განსუენებაჲ არს ჴმისაებრ ღმრთისმეტყუელისა , ვინაჲცა ჩუენ მიერ ეგერა ბრწყინვალედ ქადაგებულისა კეთილად მსახურებისა და ქრისტეს ზედა დაფუძნებულისა ეკლესიისა მარადის აღორძინებისა და წარმატებისა მოსწრაფენი <b>ვიდრე</b> ნაძუთა ლიბანისათა ზეშთა აღმატებად მდე მისსა .</em>
-  * <tt><a href="oge_glc-pos-ADP.html">ADP</a></tt> 2: <em>ხოლო რომელთა იგი მართალი და წრფელი სჯული ჭეშმარიტებისაჲ განრყუნეს და ერთი ნებაჲ და ერთი მოქმედებაჲ ერთისა უფლისა და ღმრთისა ჩუენისა იესუ ქრისტეს ზედა თქუმად ასწავეს ერთა , კეთილადმსახურებისა მსჯავრითა დასაჯნა , ვიტყჳთ უკუე თეოდორე ფარანელსა , კჳროზს ალექსანდრიელსა , ონორის ჰრომსა , სერგისს , პიროსს , პავლეს , პეტრეს საყდრის მპყრობელ ყოფილთა ღმრთივ დაცვულისა ამის ქალაქისათა , მაკარის ეპისკოპოსსა ანტიოქიისასა და სტეფანე მოწაფესა მისსა და ცნობავნებულსა პოლიხრონიოსს და ესრეთ განურყუნელად და შეუხებელად დაიცვა ზოგადი გუამი ქრისტეს ღმრთისა ჩუენისაჲ და რაჲთა შემოკლებულად ვიტყოდით , ყოველთავე ეკლესიასა შინა ღმრთისასა განბრწყინვებულნი კაცთა სარწმუნოებისა , რომელნი ვითარცა მნათობნი სოფელსა შინა მტჳრთველ იქმნნეს სიტყუასა ცხორებისასა მტკიცედ პყრობასა და <b>ვიდრე</b> აღსასრულად მდე სოფლისა შეურყეველად გებასა განვასაზღვრებთ და მათთა მათ ღმრთივ მოცემულთა აღწერილთა და სჯულთა ყოველთა მივითუალავთ და შევიწყნარებთ .</em>
-* <em>რაჲთამცა</em>
-  * <tt><a href="oge_glc-pos-SCONJ.html">SCONJ</a></tt> 3: <em>ხოლო მღდელობისა გან ჯმნისა ქარტათა არა თჳსით ნებსით , არამედ იძულებისა გან და შიშისა და სიქადულისა ვიეთისამე იტყჳს მიცემასა და რამეთუ არცა საეკლესიოთა წესთა მოწამე არს საქმე ესე , <b>რაჲთამცა</b> ქარტაჲ ჯმნისაჲ მიეჴადებოდა ვიეთმე სამღდელოჲსა პატივისა ღირსქმნულთა , რამეთუ უკუეთუ ღირსნი არიან მის მსახურებისანი , ეგნენ მას შინა , ხოლო უკუეთუ უღირსნი – ნუ ჯმნისა მიერ უცხო იქმნებიან მის გან , არამედ უფროჲსღა განკითხულნი საქმეთა მათ ზედა , რომელთა ზედა მრავალნი ვინმე ღაღადებაჲ იჴუმიოს , ვითარცა ყოვლისა წესიერებისა გან განვრდომით დაკლებულთა თჳს .</em>
-  * <tt><a href="oge_glc-pos-PART.html">PART</a></tt> 1: <em>იგ(13) ვინაჲთ გან ეკლესიასა შინა ჰრომთასა კანონებრივითა წესითა მოცემულად გუასმიეს , რაჲთა რომელთა ეგულებოდის დიაკონობისა ანუ ხუცობისა ჴელთ დასხმასა ღირს ყოფაჲ , აღიარებენ , რაჲთა არა შეეყვნენ მერმეცა მეუღლეთა თჳსთა , ჩუენ უკუე ძუელსავე შეუთქთ კანონსა სამოციქულოჲსა უცთომელობისასა და წესიერებისასა და სამღდელოთა კაცთა სჯულიერისა ქორწილისა ამიერით განცა დაუჴსნელად გუნებავს ყოფაჲ , არასადა განყენებითა მათითა მეუღლეთა მიმართისა თანამცხორებელ ყოფისა გან , <b>რაჲთამცა</b> დავაკლენით იგინი ჟამად-ჟამად ჯეროვნისა ურთიერთას თანაზრახვისა გან .</em>
-* <em>ვინაჲცა</em>
-  * <tt><a href="oge_glc-pos-SCONJ.html">SCONJ</a></tt> 2: <em><b>ვინაჲცა</b> უკუეთუ ქმნილ არს რაჲმე ესევითარი , უეჭუელად მაშინ აღწერილთა მოსაჴსენებელთა სიმტკიცე ამხილებს მას და ანუ თანამდებად ზედადასხმულთა მისდა ბრალობათად გამოაჩინებს და არარად უტევებს მას თქუმად , ვითარცა მიმძლავრებულსა , ანუ თავისუფალ ჰყოფს მათ გან და კუალად ჴელთ უდებს ეკლესიასა თჳსსა , რომელი პირველ ხუედრებულ იყო მისდა .</em>
-  * <tt><a href="oge_glc-pos-ADV.html">ADV</a></tt> 1: <em><b>ვინაჲცა</b> ვინცა ვინ იპოოს ღირსად ჴელთ დასხმისა მიმართ კერძო-დიაკონობისა , ანუ დიაკონობისა , ანუ ხუცობისა , ესე ნუმცა დაიყენების ესევითარსა პატივსა მოსლვად სჯულიერისა მეუღლისა თანამცხორებელ ყოფისა თჳს , ნუცამცა ჟამსა ჴელთ დასხმისასა მიიჴადების აღსაარებად , რაჲთა განეყენოს სჯულიერსა თანა ქცევასა მეუღლისა თჳსისასა , რაჲთა არა ღმრთისა მიერ სჯულდებულისა და მისლვითა მისითა კურთხეულისა ქორწილისა შეურაცხყოფად ვიიძულნეთ ამიერ , ვინაჲთ გან ჴმაჲ სახარებისაჲ ღაღადებს , ვითარმედ : „ რომელნი იგი ღმერთმან შეაუღლნა , კაცნი ნუ განაშორებნ “ .</em>
-* <em>ოდეს</em>
-  * <tt><a href="oge_glc-pos-ADV.html">ADV</a></tt> 1: <em>ვინაჲთ გან უკუე აღსაშენებელად ერისა გჳღირს ჩუენ ქმნაჲ ყოვლისაჲვე , ვითარცა პირველ ვიტყოდეთ , განიხილენინ ესე ღმრთისმსხურებამან თქუენმან და უკუეთუ გეგულებოდის ვისიმე ჴელთდასხმაჲ მღდელად , გამოიძიეთ ცხორებაჲ მისი და თუ ვინ არს , ანუ უვის მეუღლე , ანუ არა და თუ ვითარ ნუ <b>ოდეს</b> მიუთხოიეს იგი და უკუეთუ ჰნებავს მის თანა ცხორებაჲ და უკუეთუ არა განჴდილთა განი ვინმე არს ანუ სხჳსა ღმრთიმსახურისა ეპისკოპოსისა გან , ანუ მონასტრისა გან და მაშინღა ჴელთდასხმულ იქმნებოდედ , უმიზეზოდ რაჲ იპოებოდის იგი , რამეთუ ესრეთ წმიდად დავიცავთ სჳნიდისსაცა ჩუენსა და უმიზეზოდ სამღდელოსა და წმიდასა ჟამისწირვასა .</em>
-  * <tt><a href="oge_glc-pos-SCONJ.html">SCONJ</a></tt> 1: <em>ხოლო <b>ოდეს</b> ამათდა მიმართ უღონო იყვნენ , განვარდებიან ჯეროვნისა გან , რამეთუ პირველთქუმულთა ამათ მამათა მოძღურებისა მიერ მეცნიერებად სასწრაფოთა და აღსარჩეველთა და უდარესთა და განსაგდებელთა საქმეთა მოსრულნი ერნი უმჯობესისა მიმართ გარდასცვალებენ ცხორებასა და უმეცრებისა ვნებათა მიერ არა განიხრწნებიან , არამედ შედგომითა მათ მოძღურებათაჲთა განამჴნობენ თავთა თჳსთა , რაჲთა არარაჲ შეემთხჳოს მათ ვნებაჲ , და შიშითა განმზადებულთა სატანჯველთაჲთა ცხორებასა თჳსსა მოქმედებენ .</em>
+* <em>ვითარცა</em>
+  * <tt><a href="oge_glc-pos-SCONJ.html">SCONJ</a></tt> 181: <em>და უკუეთუ <b>ვითარცა</b> ღმერთი , რაჲ არს ესე ?</em>
+  * <tt><a href="oge_glc-pos-ADV.html">ADV</a></tt> 3: <em>ხოლო მისცემენ მათ გან და სართულისშინათაცა მეძავთა , ხოლო შეამკობენ მათ , <b>ვითარცა</b> კაცთა , შესამოსლებითა ღმერთთა ოქროჲსათა და ღმერთთა ვეცხლისათა და ძელისათა .</em>
+  * <tt><a href="oge_glc-pos-ADP.html">ADP</a></tt> 2: <em>ისმინე დავითის მეტყუელისაჲ ამაღლდი ცათა შინა , ღმერთო , და ყოველსა ქუეყანასა ზედა დიდებაჲ შენი . “ და კუალად ესაიაჲსი , <b>ვითარცა</b> პირითა ქრისტესითა „ აწ აღვდგე , იტყჳს უფალი , აწ ავმაღლდე , აწ ვიდიდო “ .</em>
+* <em>რაჟამს</em>
+  * <tt><a href="oge_glc-pos-SCONJ.html">SCONJ</a></tt> 51: <em>ხოლო ღმერთი <b>რაჟამს</b> ვთქუა , ვიტყჳ მამასა და ძესა და სულსა წმიდასა .</em>
+  * <tt><a href="oge_glc-pos-ADV.html">ADV</a></tt> 9: <em><b>რაჟამს</b> იესუს მივემთჳო , მვედრებელ და მეოხ ვიქმნე სულტა თქუენთა თჳს , უკუეთუ ოდენ ღირს მყოს უფალმან .</em>
 * <em>რაჲ</em>
-  * <tt><a href="oge_glc-pos-PRON.html">PRON</a></tt> 5: <em>ნუცა ქალაქსა შინა <b>რაჲ</b> იყოს და ნუცა გზასა ზედა <b>რაჲ</b> ვიდოდის , არამედ ეგევითართა შესამოსელთა იჴუმევდინ , ვითარი სამღდელოთა დასთა თანა აღრაცხილთა თჳს განჩინებულ არიან , ხოლო უკუეთუ ვინმე ქმნას რაჲმე ესევითარი , შჳდეულსა ერთსა უზიარებელ იქმენინ .</em>
-  * <tt><a href="oge_glc-pos-PART.html">PART</a></tt> 4: <em>რამეთუ მამანი მონასტერთანი სამთავროჲსა გან თიოველთაჲსა კაცნი განკრძალულნი და საკჳრველისა მოქალაქობისა მქონებელნი მოვიდეს <b>რაჲ</b> ალექსანდრიად და იკითხვებოდეს ჩემ მიერ , თუ ვითარი დაწყნარებაჲ მოუგიეს მონასტერთა მათთა , მითხრეს , ვითარმედ მრავალნი დაჰბრკოლდებიან ესევითარისა მიზეზისა თჳს .</em>
-  * <tt><a href="oge_glc-pos-SCONJ.html">SCONJ</a></tt> 1: <em>გამოუთქუმელმან და საღმრთომან მადლმან მჴსნელისა და მაცხოვრისა ჩუენისა იესუ ქრისტესმან გარე შეიცვა <b>რაჲ</b> ყოველი სოფელი და ცხორება შემოსილი ქადაგებაჲ ჭეშმარიტებისაჲ , სასმენელებისა შორის ყოველთაჲსა განითესა , ერმან უკუე მსხდომარემან ბნელსა შინა უმეცრებისასა იხილა ნათელი დიდი მეცნიერებისაჲსა საკრველთა გან საცთურთაჲსა განთავისუფლებულმან სასუფეველი ცათაჲ დაიმკჳდრა პირველისა მის მონებისა წილ .</em>
+  * <tt><a href="oge_glc-pos-PRON.html">PRON</a></tt> 49: <em>და <b>რაჲ</b> არს სიტყუაჲ , რომელი ჯერ არს ჩუენ მიერ მისდა თქუმად ?</em>
+  * <tt><a href="oge_glc-pos-SCONJ.html">SCONJ</a></tt> 37: <em>რამეთუ დავიბადენით <b>რაჲ</b> , სამოთხჱ გუერწმუნა , რაჲთა ვიშუებდეთ .</em>
+  * <tt><a href="oge_glc-pos-PART.html">PART</a></tt> 6: <em>ყოველივე მის მიერ შეიქმნა და თჳნიერ მისსა არცა ერთი რაჲ იქმნა , რაოდენი <b>რაჲ</b> იქმნა “ .</em>
+* <em>ვითარ</em>
+  * <tt><a href="oge_glc-pos-ADV.html">ADV</a></tt> 40: <em>ხოლო უკუეთუ მამასა მიეცა სისხლი მისი , <b>ვითარ</b> არს ესე ?</em>
+  * <tt><a href="oge_glc-pos-SCONJ.html">SCONJ</a></tt> 23: <em>და მიხედენ შესაწირავსა მას პასექისასა ძუელსა , <b>ვითარ</b> მისა მომასწავებელ იყო .</em>
+* <em>გინა</em>
+  * <tt><a href="oge_glc-pos-SCONJ.html">SCONJ</a></tt> 20: <em>შენ უკუე ვინ ხარ , <b>გინა</b> ვითარ კადნიერ იქმენ აქა მოსლვასა სიკუდილად თავისა თჳსისა ?</em>
+  * <tt><a href="oge_glc-pos-CCONJ.html">CCONJ</a></tt> 1: <em>ჭეშმარიტად დიდ არს ჯუარი და მრავლით კერძო წერილისაჲთ წამებულ , <b>გინა</b> წინა გამოსახულ და მის მიერ აღსრულებადთა საკჳრველებათა დღითი-დღეობისა წინაგამომსახველ სახეებსა .</em>
+* <em>რომელ</em>
+  * <tt><a href="oge_glc-pos-PRON.html">PRON</a></tt> 26: <em>ხოლო რაჲ არს , <b>რომელ</b> აწცა უზითვოდ განხუედ და უსასყიდლოდ ?</em>
+  * <tt><a href="oge_glc-pos-SCONJ.html">SCONJ</a></tt> 17: <em>და რაჲ არს შენი და ჩუენი , <b>რომელ</b> სამკჳდრებელსა ჩუენსა მოხუედ წყობად ჩუენდა ?</em>
+* <em>ვიდრემდის</em>
+  * <tt><a href="oge_glc-pos-SCONJ.html">SCONJ</a></tt> 5: <em>მღდელნი მწყსიდით სამწყსოსა ქრისტესსა , <b>ვიდრემდის</b> გამოაჩინოს ღმერთმან , რომელსა იგი ეგულების მთავრობაჲ თქუენ ზედა .</em>
+  * <tt><a href="oge_glc-pos-ADV.html">ADV</a></tt> 4: <em><b>ვიდრემდის</b> ხარღა მშჳდობით .</em>
+* <em>რაჲთამცა</em>
+  * <tt><a href="oge_glc-pos-SCONJ.html">SCONJ</a></tt> 5: <em>ვინაჲთ გან უკუე არა კმა ეყოფვოდა სახიერებასა მისსა ესე , <b>რაჲთამცა</b> თჳსითა ოდენ ხედვითა იყოფებოდა , არამედ ჯერ იყო განვრცელებაჲ და განფენაჲ კეთილთა მისთაჲ , <b>რაჲთამცა</b> მრავალ იყვნეს ქველისმოქმედებანი მისნი ( რამეთუ ესე საქმე დიდისა მის სიტკბოებისა მისისა და სახიერებისაჲ იყო ) ; ამის თჳს პირველად მოიგონნა ანგელოზთა იგი ძალნი ზეცისანი ; და მოგონებაჲ მისი საქმე იყო სიტყჳთა აღსრულებული და სულითა სრულქმნილი .</em>
+  * <tt><a href="oge_glc-pos-PART.html">PART</a></tt> 1: <em>იგ(13) ვინაჲთ გან ეკლესიასა შინა ჰრომთასა კანონებრივითა წესითა მოცემულად გუასმიეს , რაჲთა რომელთა ეგულებოდის დიაკონობისა ანუ ხუცობისა ჴელთ დასხმასა ღირს ყოფაჲ , აღიარებენ , რაჲთა არა შეეყვნენ მერმეცა მეუღლეთა თჳსთა , ჩუენ უკუე ძუელსავე შეუთქთ კანონსა სამოციქულოჲსა უცთომელობისასა და წესიერებისასა და სამღდელოთა კაცთა სჯულიერისა ქორწილისა ამიერით განცა დაუჴსნელად გუნებავს ყოფაჲ , არასადა განყენებითა მათითა მეუღლეთა მიმართისა თანამცხორებელ ყოფისა გან , <b>რაჲთამცა</b> დავაკლენით იგინი ჟამად-ჟამად ჯეროვნისა ურთიერთას თანაზრახვისა გან .</em>
+* <em>რაჲმცა</em>
+  * <tt><a href="oge_glc-pos-SCONJ.html">SCONJ</a></tt> 3: <em><b>რაჲმცა</b> იყო უპატიოსნეს ესევითარისა ამის შვილიერებისა , ანუ <b>რაჲმცა</b> შეესწორა სახილველსა ამას მხიარულ მყოფელსა .</em>
+  * <tt><a href="oge_glc-pos-PRON.html">PRON</a></tt> 2: <em>და <b>რაჲმცა</b> ამისსა უსაკჳრველეს ხილვად ღმერთი ჯუარცუმული და ესე შორის ავაზაკთა .</em>
+* <em>ვიდრეღა</em>
+  * <tt><a href="oge_glc-pos-SCONJ.html">SCONJ</a></tt> 2: <em>არამედ უკუეთუ წერილებრივიცა აღიძრა სიტყუაჲ , ნუმცა სხუა ებრ თარგმნიან მას , თჳნიერ ვითარ იგი მნათობთა ეკლესიისათა და მოძღუართა აღწერილთა თჳსთა მიერ გარდამოსცეს , და უფროჲსღა ამათ შინა აჩუენებდინ კეთილად გამოცდილებასა თჳსსა , <b>ვიდრეღა</b> თჳსთა სიტყუათა შეწყობასა ზედა .</em>
+  * <tt><a href="oge_glc-pos-ADV.html">ADV</a></tt> 1: <em>და ვისმე არა დაუკჳრდეს ესოდენთა სათნოებათა სიმაღლესა მიწდომაჲ მისი , <b>ვიდრეღა</b> დედა იქმნა ღმრთისა , რომელი - ესე უსაკჳრველეს არს ყოველთა სასმენელთა და საქმეთა აღსრულებულთა , ვინაჲცა ირწმუნოთ ო ჩემი , კუალად მისსავე აღვიდეთ , რომელი - იგი არს თავ დღესასწაულისა ჩუენისა , რაჲთა კუალად მასვე შეეყოს სიტყუაჲ , რომლისა გან ჟამ ერთ განყოფილ იქმნა .</em>
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.058824 (the average of all parts of speech is 1.566123).
+The form / lemma ratio of `SCONJ` is 1.129032 (the average of all parts of speech is 2.082144).
 
 The 1st highest number of forms (2) was observed with the lemma “ვიდრე”: <em>ვიდრე, ვიდრემდის</em>.
 
-The 2nd highest number of forms (2) was observed with the lemma “რაჲთა”: <em>რაჲთა, რაჲთამცა</em>.
+The 2nd highest number of forms (2) was observed with the lemma “ვითარ”: <em>ვითარ, ვითარმცა</em>.
 
-The 3rd highest number of forms (1) was observed with the lemma “გინათი”: <em>გინათი</em>.
+The 3rd highest number of forms (2) was observed with the lemma “ვითარმედ”: <em>ვითარმე, ვითარმედ</em>.
 
-`SCONJ` does not occur with any features.
+`SCONJ` occurs with 2 features: <tt><a href="oge_glc-feat-ExtPos.html">ExtPos</a></tt> (19; 2% instances), <tt><a href="oge_glc-feat-Typo.html">Typo</a></tt> (1; 0% instances)
+
+`SCONJ` occurs with 2 feature-value pairs: `ExtPos=SCONJ`, `Typo=Yes`
+
+`SCONJ` occurs with 3 feature combinations.
+The most frequent feature combination is `_` (1183 tokens).
+Examples: <em>რამეთუ, რაჲთა, ვითარცა, ვითარმედ, თუ, უკუეთუ, რაჟამს, რაჲ, ვიდრე, რომელ</em>
 
 
 ## Relations
 
-`SCONJ` nodes are attached to their parents using 2 different relations: <tt><a href="oge_glc-dep-mark.html">mark</a></tt> (222; 100% instances), <tt><a href="oge_glc-dep-cc.html">cc</a></tt> (1; 0% instances)
+`SCONJ` nodes are attached to their parents using 3 different relations: <tt><a href="oge_glc-dep-mark.html">mark</a></tt> (1162; 97% instances), <tt><a href="oge_glc-dep-cc.html">cc</a></tt> (23; 2% instances), <tt><a href="oge_glc-dep-fixed.html">fixed</a></tt> (18; 1% instances)
 
-Parents of `SCONJ` nodes belong to 9 different parts of speech: <tt><a href="oge_glc-pos-VERB.html">VERB</a></tt> (118; 53% instances), <tt><a href="oge_glc-pos-NOUN.html">NOUN</a></tt> (50; 22% instances), <tt><a href="oge_glc-pos-PRON.html">PRON</a></tt> (19; 9% instances), <tt><a href="oge_glc-pos-ADJ.html">ADJ</a></tt> (18; 8% instances), <tt><a href="oge_glc-pos-ADV.html">ADV</a></tt> (9; 4% instances), <tt><a href="oge_glc-pos-ADP.html">ADP</a></tt> (3; 1% instances), <tt><a href="oge_glc-pos-AUX.html">AUX</a></tt> (3; 1% instances), <tt><a href="oge_glc-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="oge_glc-pos-NUM.html">NUM</a></tt> (1; 0% instances)
+Parents of `SCONJ` nodes belong to 12 different parts of speech: <tt><a href="oge_glc-pos-VERB.html">VERB</a></tt> (745; 62% instances), <tt><a href="oge_glc-pos-NOUN.html">NOUN</a></tt> (232; 19% instances), <tt><a href="oge_glc-pos-ADJ.html">ADJ</a></tt> (95; 8% instances), <tt><a href="oge_glc-pos-PRON.html">PRON</a></tt> (46; 4% instances), <tt><a href="oge_glc-pos-AUX.html">AUX</a></tt> (33; 3% instances), <tt><a href="oge_glc-pos-PART.html">PART</a></tt> (16; 1% instances), <tt><a href="oge_glc-pos-ADV.html">ADV</a></tt> (14; 1% instances), <tt><a href="oge_glc-pos-PROPN.html">PROPN</a></tt> (10; 1% instances), <tt><a href="oge_glc-pos-NUM.html">NUM</a></tt> (4; 0% instances), <tt><a href="oge_glc-pos-SCONJ.html">SCONJ</a></tt> (4; 0% instances), <tt><a href="oge_glc-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="oge_glc-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances)
 
-203 (91%) `SCONJ` nodes are leaves.
+1152 (96%) `SCONJ` nodes are leaves.
 
-19 (9%) `SCONJ` nodes have one child.
+45 (4%) `SCONJ` nodes have one child.
 
-1 (0%) `SCONJ` nodes have two children.
+5 (0%) `SCONJ` nodes have two children.
 
-The highest child degree of a `SCONJ` node is 2.
+1 (0%) `SCONJ` nodes have three or more children.
 
-Children of `SCONJ` nodes are attached using 3 different relations: <tt><a href="oge_glc-dep-punct.html">punct</a></tt> (17; 81% instances), <tt><a href="oge_glc-dep-cc.html">cc</a></tt> (3; 14% instances), <tt><a href="oge_glc-dep-advmod-neg.html">advmod:neg</a></tt> (1; 5% instances)
+The highest child degree of a `SCONJ` node is 3.
 
-Children of `SCONJ` nodes belong to 3 different parts of speech: <tt><a href="oge_glc-pos-PUNCT.html">PUNCT</a></tt> (17; 81% instances), <tt><a href="oge_glc-pos-CCONJ.html">CCONJ</a></tt> (3; 14% instances), <tt><a href="oge_glc-pos-PART.html">PART</a></tt> (1; 5% instances)
+Children of `SCONJ` nodes are attached using 6 different relations: <tt><a href="oge_glc-dep-punct.html">punct</a></tt> (30; 52% instances), <tt><a href="oge_glc-dep-fixed.html">fixed</a></tt> (19; 33% instances), <tt><a href="oge_glc-dep-cc.html">cc</a></tt> (4; 7% instances), <tt><a href="oge_glc-dep-advmod-neg.html">advmod:neg</a></tt> (3; 5% instances), <tt><a href="oge_glc-dep-goeswith.html">goeswith</a></tt> (1; 2% instances), <tt><a href="oge_glc-dep-obl.html">obl</a></tt> (1; 2% instances)
+
+Children of `SCONJ` nodes belong to 7 different parts of speech: <tt><a href="oge_glc-pos-PUNCT.html">PUNCT</a></tt> (30; 52% instances), <tt><a href="oge_glc-pos-PRON.html">PRON</a></tt> (15; 26% instances), <tt><a href="oge_glc-pos-CCONJ.html">CCONJ</a></tt> (4; 7% instances), <tt><a href="oge_glc-pos-SCONJ.html">SCONJ</a></tt> (4; 7% instances), <tt><a href="oge_glc-pos-PART.html">PART</a></tt> (3; 5% instances), <tt><a href="oge_glc-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="oge_glc-pos-X.html">X</a></tt> (1; 2% instances)
 

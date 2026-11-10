@@ -60,6 +60,6 @@ The 10 most frequent relations where parent and child node agree in `Voice`:
 <tt>VERB --[<tt><a href="ru_poetry-dep-parataxis-discourse.html">parataxis:discourse</a></tt>]--> VERB</tt> (40; 95%),
 <tt>VERB --[<tt><a href="ru_poetry-dep-obj.html">obj</a></tt>]--> VERB</tt> (7; 78%),
 <tt>VERB --[<tt><a href="ru_poetry-dep-nsubj.html">nsubj</a></tt>]--> VERB</tt> (6; 55%),
-<tt>VERB --[<tt><a href="ru_poetry-dep-acl.html">acl</a></tt>]--> VERB</tt> (3; 100%),
-<tt>VERB --[<tt><a href="ru_poetry-dep-obl.html">obl</a></tt>]--> VERB</tt> (3; 100%).
+<tt>VERB --[<tt><a href="ru_poetry-dep-obl.html">obl</a></tt>]--> VERB</tt> (3; 100%),
+<tt>VERB --[<tt><a href="ru_poetry-dep-acl.html">acl</a></tt>]--> VERB</tt> (2; 100%).
 

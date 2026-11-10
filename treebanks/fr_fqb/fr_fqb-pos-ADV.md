@@ -48,11 +48,11 @@ The 2nd highest number of forms (2) was observed with the lemma “ne”: <em>n'
 
 The 3rd highest number of forms (2) was observed with the lemma “que”: <em>qu', que</em>.
 
-`ADV` occurs with 4 features: <tt><a href="fr_fqb-feat-PronType.html">PronType</a></tt> (586; 70% instances), <tt><a href="fr_fqb-feat-Polarity.html">Polarity</a></tt> (51; 6% instances), <tt><a href="fr_fqb-feat-ExtPos.html">ExtPos</a></tt> (8; 1% instances), <tt><a href="fr_fqb-feat-Typo.html">Typo</a></tt> (3; 0% instances)
+`ADV` occurs with 4 features: <tt><a href="fr_fqb-feat-PronType.html">PronType</a></tt> (586; 70% instances), <tt><a href="fr_fqb-feat-Polarity.html">Polarity</a></tt> (51; 6% instances), <tt><a href="fr_fqb-feat-ExtPos.html">ExtPos</a></tt> (9; 1% instances), <tt><a href="fr_fqb-feat-Typo.html">Typo</a></tt> (3; 0% instances)
 
-`ADV` occurs with 8 feature-value pairs: `ExtPos=ADP`, `ExtPos=ADV`, `ExtPos=NOUN`, `ExtPos=PRON`, `Polarity=Neg`, `PronType=Int`, `PronType=Rel`, `Typo=Yes`
+`ADV` occurs with 9 feature-value pairs: `ExtPos=ADP`, `ExtPos=ADV`, `ExtPos=NOUN`, `ExtPos=PRON`, `ExtPos=SCONJ`, `Polarity=Neg`, `PronType=Int`, `PronType=Rel`, `Typo=Yes`
 
-`ADV` occurs with 9 feature combinations.
+`ADV` occurs with 10 feature combinations.
 The most frequent feature combination is `PronType=Int` (584 tokens).
 Examples: <em>où, quand, combien, comment, pourquoi</em>
 
@@ -63,15 +63,15 @@ Examples: <em>où, quand, combien, comment, pourquoi</em>
 
 Parents of `ADV` nodes belong to 8 different parts of speech: <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> (672; 80% instances), <tt><a href="fr_fqb-pos-ADJ.html">ADJ</a></tt> (126; 15% instances), <tt><a href="fr_fqb-pos-DET.html">DET</a></tt> (15; 2% instances), <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt> (15; 2% instances), <tt><a href="fr_fqb-pos-ADP.html">ADP</a></tt> (5; 1% instances), <tt><a href="fr_fqb-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="fr_fqb-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> (1; 0% instances)
 
-690 (82%) `ADV` nodes are leaves.
+689 (82%) `ADV` nodes are leaves.
 
-143 (17%) `ADV` nodes have one child.
+144 (17%) `ADV` nodes have one child.
 
 8 (1%) `ADV` nodes have two children.
 
 The highest child degree of a `ADV` node is 2.
 
-Children of `ADV` nodes are attached using 11 different relations: <tt><a href="fr_fqb-dep-obl-arg.html">obl:arg</a></tt> (107; 67% instances), <tt><a href="fr_fqb-dep-case.html">case</a></tt> (27; 17% instances), <tt><a href="fr_fqb-dep-fixed.html">fixed</a></tt> (6; 4% instances), <tt><a href="fr_fqb-dep-punct.html">punct</a></tt> (6; 4% instances), <tt><a href="fr_fqb-dep-det.html">det</a></tt> (4; 3% instances), <tt><a href="fr_fqb-dep-ccomp.html">ccomp</a></tt> (3; 2% instances), <tt><a href="fr_fqb-dep-advmod.html">advmod</a></tt> (2; 1% instances), <tt><a href="fr_fqb-dep-acl.html">acl</a></tt> (1; 1% instances), <tt><a href="fr_fqb-dep-cc.html">cc</a></tt> (1; 1% instances), <tt><a href="fr_fqb-dep-conj.html">conj</a></tt> (1; 1% instances), <tt><a href="fr_fqb-dep-obj.html">obj</a></tt> (1; 1% instances)
+Children of `ADV` nodes are attached using 11 different relations: <tt><a href="fr_fqb-dep-obl-arg.html">obl:arg</a></tt> (107; 67% instances), <tt><a href="fr_fqb-dep-case.html">case</a></tt> (27; 17% instances), <tt><a href="fr_fqb-dep-fixed.html">fixed</a></tt> (7; 4% instances), <tt><a href="fr_fqb-dep-punct.html">punct</a></tt> (6; 4% instances), <tt><a href="fr_fqb-dep-det.html">det</a></tt> (4; 3% instances), <tt><a href="fr_fqb-dep-ccomp.html">ccomp</a></tt> (3; 2% instances), <tt><a href="fr_fqb-dep-advmod.html">advmod</a></tt> (2; 1% instances), <tt><a href="fr_fqb-dep-acl.html">acl</a></tt> (1; 1% instances), <tt><a href="fr_fqb-dep-cc.html">cc</a></tt> (1; 1% instances), <tt><a href="fr_fqb-dep-conj.html">conj</a></tt> (1; 1% instances), <tt><a href="fr_fqb-dep-obj.html">obj</a></tt> (1; 1% instances)
 
-Children of `ADV` nodes belong to 8 different parts of speech: <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt> (108; 68% instances), <tt><a href="fr_fqb-pos-ADP.html">ADP</a></tt> (31; 19% instances), <tt><a href="fr_fqb-pos-PUNCT.html">PUNCT</a></tt> (6; 4% instances), <tt><a href="fr_fqb-pos-ADV.html">ADV</a></tt> (4; 3% instances), <tt><a href="fr_fqb-pos-DET.html">DET</a></tt> (4; 3% instances), <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> (4; 3% instances), <tt><a href="fr_fqb-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="fr_fqb-pos-PROPN.html">PROPN</a></tt> (1; 1% instances)
+Children of `ADV` nodes belong to 9 different parts of speech: <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt> (108; 68% instances), <tt><a href="fr_fqb-pos-ADP.html">ADP</a></tt> (31; 19% instances), <tt><a href="fr_fqb-pos-PUNCT.html">PUNCT</a></tt> (6; 4% instances), <tt><a href="fr_fqb-pos-ADV.html">ADV</a></tt> (4; 3% instances), <tt><a href="fr_fqb-pos-DET.html">DET</a></tt> (4; 3% instances), <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> (4; 3% instances), <tt><a href="fr_fqb-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="fr_fqb-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="fr_fqb-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances)
 

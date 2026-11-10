@@ -26,7 +26,7 @@ The following 1 pairs of parts of speech are connected with `cc`: <tt><a href="m
 2	mẽnpit	mẽnpit	CCONJ	cc	_	1	cc	_	_
 3	ikukpin'ũm	kukpin	NOUN	n	Polarity=Neg|Rel=Cont	1	nmod	_	_
 4	osunuy	osunuy	X	x	_	3	dep	_	_
-5	ag̃okatkat	ag̃okatkat	NOUN	n	_	3	obl	_	_
+5	ag̃okatkat	ag̃okatkat	NOUN	n	_	3	nmod	_	_
 6	pe	pe	ADP	pp	_	5	case	_	_
 7	,	,	PUNCT	punct	_	1	punct	_	_
 8	i'e'em	'e	VERB	vi	Aspect=Imp|Rel=NCont	1	dep	_	_

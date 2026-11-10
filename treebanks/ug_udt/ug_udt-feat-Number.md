@@ -11,22 +11,22 @@ It occurs with 2 different values: `Plur`, `Sing`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="ug_udt-feat-Number.html">Number</a></tt>, <tt><a href="ug_udt-feat-Number-psor.html">Number[psor]</a></tt>.
 
-4335 tokens (11%) have a non-empty value of `Number`.
-1213 types (10%) occur at least once with a non-empty value of `Number`.
+4370 tokens (11%) have a non-empty value of `Number`.
+1217 types (10%) occur at least once with a non-empty value of `Number`.
 557 lemmas (19%) occur at least once with a non-empty value of `Number`.
-The feature is used with 5 part-of-speech tags: <tt><a href="ug_udt-pos-PRON.html">PRON</a></tt> (1364; 3% instances), <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt> (1225; 3% instances), <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> (1093; 3% instances), <tt><a href="ug_udt-pos-AUX.html">AUX</a></tt> (592; 1% instances), <tt><a href="ug_udt-pos-ADJ.html">ADJ</a></tt> (61; 0% instances).
+The feature is used with 5 part-of-speech tags: <tt><a href="ug_udt-pos-PRON.html">PRON</a></tt> (1399; 3% instances), <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt> (1225; 3% instances), <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> (1093; 3% instances), <tt><a href="ug_udt-pos-AUX.html">AUX</a></tt> (592; 1% instances), <tt><a href="ug_udt-pos-ADJ.html">ADJ</a></tt> (61; 0% instances).
 
 ### `PRON`
 
-1364 <tt><a href="ug_udt-pos-PRON.html">PRON</a></tt> tokens (51% of all `PRON` tokens) have a non-empty value of `Number`.
+1399 <tt><a href="ug_udt-pos-PRON.html">PRON</a></tt> tokens (52% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="ug_udt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (1358; 100%), <tt><a href="ug_udt-feat-Case.html">Case</a></tt><tt>=Nom</tt> (850; 62%), <tt><a href="ug_udt-feat-Person.html">Person</a></tt><tt>=3</tt> (774; 57%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="ug_udt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (1393; 100%), <tt><a href="ug_udt-feat-Case.html">Case</a></tt><tt>=Nom</tt> (850; 61%), <tt><a href="ug_udt-feat-Person.html">Person</a></tt><tt>=3</tt> (776; 55%).
 
 `PRON` tokens may have the following values of `Number`:
 
-* `Plur` (323; 24% of non-empty `Number`): ئۇلار، بىز، ئۇلارنىڭ، بىزنىڭ، ئۇلارغا، ئۇلارنى، بىزنى، ئۇلارمۇ، بىزمۇ، سىلەر
-* `Sing` (1041; 76% of non-empty `Number`): ئۇ، مەن، ئۇنىڭ، سەن، ئۇنى، ئۇنىڭغا، ماڭا، مېنىڭ، ساڭا، سىز
-* `EMPTY` (1332): بۇ، شۇ، ئەڭ، ئۆز، سېنىڭ، مېنى، ئاشۇ، ئۆزىنى، ھېلىقى، بۇنى
+* `Plur` (323; 23% of non-empty `Number`): ئۇلار، بىز، ئۇلارنىڭ، بىزنىڭ، ئۇلارغا، ئۇلارنى، بىزنى، ئۇلارمۇ، بىزمۇ، سىلەر
+* `Sing` (1076; 77% of non-empty `Number`): ئۇ، مەن، ئۇنىڭ، سەن، ئۇنى، ئۇنىڭغا، ماڭا، مېنىڭ، مېنى، ساڭا
+* `EMPTY` (1297): بۇ، شۇ، ئەڭ، ئۆز، سېنىڭ، ئاشۇ، ئۆزىنى، ھېلىقى، بۇنى، بىزگە
 
 `Number` seems to be **lexical feature** of `PRON`. 100% lemmas (10) occur only with one value of `Number`.
 

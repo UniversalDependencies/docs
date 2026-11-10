@@ -6,21 +6,21 @@ udver: '2'
 
 ## Treebank Statistics: UD_Naga-Suansu: POS Tags: `ADV`
 
-There are 74 `ADV` lemmas (8%), 75 `ADV` types (6%) and 193 `ADV` tokens (6%).
+There are 73 `ADV` lemmas (8%), 74 `ADV` types (6%) and 190 `ADV` tokens (6%).
 Out of 16 observed tags, the rank of `ADV` is: 3 in number of lemmas, 4 in number of types and 6 in number of tokens.
 
-The 10 most frequent `ADV` lemmas: <em>li, re, bathanahn, gare, dre, hano, reganan, szurai, rai, daichu</em>
+The 10 most frequent `ADV` lemmas: <em>li, re, bathanahn, gare, dre, hano, reganan, szurai, daichu, rai</em>
 
-The 10 most frequent `ADV` types:  <em>li, re, bathanahn, gare, dre, hano, reganan, szuraire, rai, daichu</em>
+The 10 most frequent `ADV` types:  <em>li, re, bathanahn, gare, dre, hano, reganan, szuraire, daichu, rai</em>
 
-The 10 most frequent ambiguous lemmas: <em>re</em> (<tt><a href="nmf_suansu-pos-ADV.html">ADV</a></tt> 29, <tt><a href="nmf_suansu-pos-PART.html">PART</a></tt> 23, <tt><a href="nmf_suansu-pos-VERB.html">VERB</a></tt> 14, <tt><a href="nmf_suansu-pos-SCONJ.html">SCONJ</a></tt> 2), <em>gare</em> (<tt><a href="nmf_suansu-pos-ADV.html">ADV</a></tt> 9, <tt><a href="nmf_suansu-pos-DET.html">DET</a></tt> 2), <em>reganan</em> (<tt><a href="nmf_suansu-pos-ADV.html">ADV</a></tt> 6, <tt><a href="nmf_suansu-pos-CCONJ.html">CCONJ</a></tt> 1), <em>szurai</em> (<tt><a href="nmf_suansu-pos-ADV.html">ADV</a></tt> 6, <tt><a href="nmf_suansu-pos-ADJ.html">ADJ</a></tt> 1), <em>szu</em> (<tt><a href="nmf_suansu-pos-VERB.html">VERB</a></tt> 4, <tt><a href="nmf_suansu-pos-ADV.html">ADV</a></tt> 3), <em>gali</em> (<tt><a href="nmf_suansu-pos-ADV.html">ADV</a></tt> 2, <tt><a href="nmf_suansu-pos-CCONJ.html">CCONJ</a></tt> 2), <em>ragu</em> (<tt><a href="nmf_suansu-pos-SCONJ.html">SCONJ</a></tt> 7, <tt><a href="nmf_suansu-pos-ADV.html">ADV</a></tt> 2), <em>athi</em> (<tt><a href="nmf_suansu-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="nmf_suansu-pos-ADV.html">ADV</a></tt> 1), <em>baneo</em> (<tt><a href="nmf_suansu-pos-NOUN.html">NOUN</a></tt> 22, <tt><a href="nmf_suansu-pos-ADV.html">ADV</a></tt> 1), <em>batha</em> (<tt><a href="nmf_suansu-pos-ADV.html">ADV</a></tt> 1, <tt><a href="nmf_suansu-pos-VERB.html">VERB</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>re</em> (<tt><a href="nmf_suansu-pos-ADV.html">ADV</a></tt> 28, <tt><a href="nmf_suansu-pos-PART.html">PART</a></tt> 22, <tt><a href="nmf_suansu-pos-VERB.html">VERB</a></tt> 14, <tt><a href="nmf_suansu-pos-SCONJ.html">SCONJ</a></tt> 2), <em>gare</em> (<tt><a href="nmf_suansu-pos-ADV.html">ADV</a></tt> 9, <tt><a href="nmf_suansu-pos-DET.html">DET</a></tt> 2), <em>reganan</em> (<tt><a href="nmf_suansu-pos-ADV.html">ADV</a></tt> 6, <tt><a href="nmf_suansu-pos-CCONJ.html">CCONJ</a></tt> 1), <em>szurai</em> (<tt><a href="nmf_suansu-pos-ADV.html">ADV</a></tt> 6, <tt><a href="nmf_suansu-pos-ADJ.html">ADJ</a></tt> 1), <em>szu</em> (<tt><a href="nmf_suansu-pos-VERB.html">VERB</a></tt> 4, <tt><a href="nmf_suansu-pos-ADV.html">ADV</a></tt> 3), <em>gali</em> (<tt><a href="nmf_suansu-pos-ADV.html">ADV</a></tt> 2, <tt><a href="nmf_suansu-pos-CCONJ.html">CCONJ</a></tt> 2), <em>ragu</em> (<tt><a href="nmf_suansu-pos-SCONJ.html">SCONJ</a></tt> 7, <tt><a href="nmf_suansu-pos-ADV.html">ADV</a></tt> 2), <em>athi</em> (<tt><a href="nmf_suansu-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="nmf_suansu-pos-ADV.html">ADV</a></tt> 1), <em>baneo</em> (<tt><a href="nmf_suansu-pos-NOUN.html">NOUN</a></tt> 22, <tt><a href="nmf_suansu-pos-ADV.html">ADV</a></tt> 1), <em>batha</em> (<tt><a href="nmf_suansu-pos-ADV.html">ADV</a></tt> 1, <tt><a href="nmf_suansu-pos-VERB.html">VERB</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>re</em> (<tt><a href="nmf_suansu-pos-ADV.html">ADV</a></tt> 25, <tt><a href="nmf_suansu-pos-PART.html">PART</a></tt> 15, <tt><a href="nmf_suansu-pos-VERB.html">VERB</a></tt> 3, <tt><a href="nmf_suansu-pos-SCONJ.html">SCONJ</a></tt> 2), <em>reganan</em> (<tt><a href="nmf_suansu-pos-ADV.html">ADV</a></tt> 6, <tt><a href="nmf_suansu-pos-PART.html">PART</a></tt> 1, <tt><a href="nmf_suansu-pos-VERB.html">VERB</a></tt> 1), <em>szuraire</em> (<tt><a href="nmf_suansu-pos-ADV.html">ADV</a></tt> 5, <tt><a href="nmf_suansu-pos-ADJ.html">ADJ</a></tt> 1), <em>gali</em> (<tt><a href="nmf_suansu-pos-ADV.html">ADV</a></tt> 2, <tt><a href="nmf_suansu-pos-CCONJ.html">CCONJ</a></tt> 2), <em>ragu</em> (<tt><a href="nmf_suansu-pos-SCONJ.html">SCONJ</a></tt> 5, <tt><a href="nmf_suansu-pos-ADV.html">ADV</a></tt> 1), <em>Ranan</em> (<tt><a href="nmf_suansu-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="nmf_suansu-pos-ADV.html">ADV</a></tt> 1), <em>baneo</em> (<tt><a href="nmf_suansu-pos-NOUN.html">NOUN</a></tt> 10, <tt><a href="nmf_suansu-pos-ADV.html">ADV</a></tt> 1), <em>danan</em> (<tt><a href="nmf_suansu-pos-ADV.html">ADV</a></tt> 1, <tt><a href="nmf_suansu-pos-SCONJ.html">SCONJ</a></tt> 1), <em>nahn</em> (<tt><a href="nmf_suansu-pos-PRON.html">PRON</a></tt> 19, <tt><a href="nmf_suansu-pos-ADV.html">ADV</a></tt> 1), <em>nungszwa</em> (<tt><a href="nmf_suansu-pos-ADV.html">ADV</a></tt> 1, <tt><a href="nmf_suansu-pos-NOUN.html">NOUN</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>re</em> (<tt><a href="nmf_suansu-pos-ADV.html">ADV</a></tt> 24, <tt><a href="nmf_suansu-pos-PART.html">PART</a></tt> 14, <tt><a href="nmf_suansu-pos-VERB.html">VERB</a></tt> 3, <tt><a href="nmf_suansu-pos-SCONJ.html">SCONJ</a></tt> 2), <em>reganan</em> (<tt><a href="nmf_suansu-pos-ADV.html">ADV</a></tt> 6, <tt><a href="nmf_suansu-pos-PART.html">PART</a></tt> 1, <tt><a href="nmf_suansu-pos-VERB.html">VERB</a></tt> 1), <em>szuraire</em> (<tt><a href="nmf_suansu-pos-ADV.html">ADV</a></tt> 5, <tt><a href="nmf_suansu-pos-ADJ.html">ADJ</a></tt> 1), <em>gali</em> (<tt><a href="nmf_suansu-pos-ADV.html">ADV</a></tt> 2, <tt><a href="nmf_suansu-pos-CCONJ.html">CCONJ</a></tt> 2), <em>ragu</em> (<tt><a href="nmf_suansu-pos-SCONJ.html">SCONJ</a></tt> 5, <tt><a href="nmf_suansu-pos-ADV.html">ADV</a></tt> 1), <em>Ranan</em> (<tt><a href="nmf_suansu-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="nmf_suansu-pos-ADV.html">ADV</a></tt> 1), <em>baneo</em> (<tt><a href="nmf_suansu-pos-NOUN.html">NOUN</a></tt> 10, <tt><a href="nmf_suansu-pos-ADV.html">ADV</a></tt> 1), <em>danan</em> (<tt><a href="nmf_suansu-pos-ADV.html">ADV</a></tt> 1, <tt><a href="nmf_suansu-pos-SCONJ.html">SCONJ</a></tt> 1), <em>nahn</em> (<tt><a href="nmf_suansu-pos-PRON.html">PRON</a></tt> 18, <tt><a href="nmf_suansu-pos-ADV.html">ADV</a></tt> 1), <em>nungszwa</em> (<tt><a href="nmf_suansu-pos-ADV.html">ADV</a></tt> 1, <tt><a href="nmf_suansu-pos-NOUN.html">NOUN</a></tt> 1)
 
 
 * <em>re</em>
-  * <tt><a href="nmf_suansu-pos-ADV.html">ADV</a></tt> 25: <em>Rerairenan , a miszu <b>re</b> rungma geraha</em>
-  * <tt><a href="nmf_suansu-pos-PART.html">PART</a></tt> 15: <em>Peternan Mariadi “ Athoo trumlehn call the ra ” <b>re</b> runge</em>
+  * <tt><a href="nmf_suansu-pos-ADV.html">ADV</a></tt> 24: <em>Rerairenan , a miszu <b>re</b> rungma geraha</em>
+  * <tt><a href="nmf_suansu-pos-PART.html">PART</a></tt> 14: <em>Peternan Mariadi “ Athoo trumlehn call the ra ” <b>re</b> runge</em>
   * <tt><a href="nmf_suansu-pos-VERB.html">VERB</a></tt> 3: <em>Tye neo <b>re</b></em>
   * <tt><a href="nmf_suansu-pos-SCONJ.html">SCONJ</a></tt> 2: <em>Nahn mwe matamda woanngam rahn <b>re</b> mazok la ?</em>
 * <em>reganan</em>
@@ -46,7 +46,7 @@ The 10 most frequent ambiguous types:  <em>re</em> (<tt><a href="nmf_suansu-pos-
   * <tt><a href="nmf_suansu-pos-ADV.html">ADV</a></tt> 1: <em>Nahn rhui hadi insurance policy $100,000 laganan , tornadonan thekhia <b>danan</b> , didi rhui ska daichu thekhiaha dai .</em>
   * <tt><a href="nmf_suansu-pos-SCONJ.html">SCONJ</a></tt> 1: <em>Bu li choklua <b>danan</b> , nahn li budi szuraire treat the di manung rahn</em>
 * <em>nahn</em>
-  * <tt><a href="nmf_suansu-pos-PRON.html">PRON</a></tt> 19: <em>Hai <b>nahn</b> rhuidi kapiu</em>
+  * <tt><a href="nmf_suansu-pos-PRON.html">PRON</a></tt> 18: <em>Hai <b>nahn</b> rhuidi kapiu</em>
   * <tt><a href="nmf_suansu-pos-ADV.html">ADV</a></tt> 1: <em>Athi , Lieutenant <b>nahn</b> yoan</em>
 * <em>nungszwa</em>
   * <tt><a href="nmf_suansu-pos-ADV.html">ADV</a></tt> 1: <em>Peter ba neodi <b>nungszwa</b> woanle .</em>
@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  <em>re</em> (<tt><a href="nmf_suansu-pos-
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.013514 (the average of all parts of speech is 1.348066).
+The form / lemma ratio of `ADV` is 1.013699 (the average of all parts of speech is 1.350446).
 
 The 1st highest number of forms (2) was observed with the lemma “re”: <em>re, rema</em>.
 
@@ -62,22 +62,22 @@ The 2nd highest number of forms (2) was observed with the lemma “szurai”: <e
 
 The 3rd highest number of forms (1) was observed with the lemma “Shingkhakhahnnan”: <em>Shingkhakhahnnan</em>.
 
-`ADV` occurs with 9 features: <tt><a href="nmf_suansu-feat-PronType.html">PronType</a></tt> (23; 12% instances), <tt><a href="nmf_suansu-feat-VerbForm.html">VerbForm</a></tt> (9; 5% instances), <tt><a href="nmf_suansu-feat-Deixis.html">Deixis</a></tt> (7; 4% instances), <tt><a href="nmf_suansu-feat-Polarity.html">Polarity</a></tt> (5; 3% instances), <tt><a href="nmf_suansu-feat-Aspect.html">Aspect</a></tt> (1; 1% instances), <tt><a href="nmf_suansu-feat-Degree.html">Degree</a></tt> (1; 1% instances), <tt><a href="nmf_suansu-feat-Modal.html">Modal</a></tt> (1; 1% instances), <tt><a href="nmf_suansu-feat-Mood.html">Mood</a></tt> (1; 1% instances), <tt><a href="nmf_suansu-feat-Tense.html">Tense</a></tt> (1; 1% instances)
+`ADV` occurs with 9 features: <tt><a href="nmf_suansu-feat-PronType.html">PronType</a></tt> (23; 12% instances), <tt><a href="nmf_suansu-feat-VerbForm.html">VerbForm</a></tt> (8; 4% instances), <tt><a href="nmf_suansu-feat-Deixis.html">Deixis</a></tt> (7; 4% instances), <tt><a href="nmf_suansu-feat-Polarity.html">Polarity</a></tt> (5; 3% instances), <tt><a href="nmf_suansu-feat-Aspect.html">Aspect</a></tt> (1; 1% instances), <tt><a href="nmf_suansu-feat-Degree.html">Degree</a></tt> (1; 1% instances), <tt><a href="nmf_suansu-feat-Modal.html">Modal</a></tt> (1; 1% instances), <tt><a href="nmf_suansu-feat-Mood.html">Mood</a></tt> (1; 1% instances), <tt><a href="nmf_suansu-feat-Tense.html">Tense</a></tt> (1; 1% instances)
 
 `ADV` occurs with 12 feature-value pairs: `Aspect=Imp`, `Degree=Cmp`, `Deixis=Prox`, `Deixis=Remt`, `Modal=Perm`, `Mood=Ind`, `Polarity=Neg`, `PronType=Dem`, `PronType=Int`, `Tense=Past`, `VerbForm=Fin`, `VerbForm=Inf`
 
 `ADV` occurs with 9 feature combinations.
-The most frequent feature combination is `_` (156 tokens).
+The most frequent feature combination is `_` (154 tokens).
 Examples: <em>li, re, bathanahn, dre, reganan, szuraire, daichu, khakhahnnan, matikza, szu</em>
 
 
 ## Relations
 
-`ADV` nodes are attached to their parents using 10 different relations: <tt><a href="nmf_suansu-dep-advmod.html">advmod</a></tt> (143; 74% instances), <tt><a href="nmf_suansu-dep-advmod-emph.html">advmod:emph</a></tt> (28; 15% instances), <tt><a href="nmf_suansu-dep-compound-prt.html">compound:prt</a></tt> (10; 5% instances), <tt><a href="nmf_suansu-dep-root.html">root</a></tt> (4; 2% instances), <tt><a href="nmf_suansu-dep-nsubj.html">nsubj</a></tt> (3; 2% instances), <tt><a href="nmf_suansu-dep-cc.html">cc</a></tt> (1; 1% instances), <tt><a href="nmf_suansu-dep-compound-svc.html">compound:svc</a></tt> (1; 1% instances), <tt><a href="nmf_suansu-dep-fixed.html">fixed</a></tt> (1; 1% instances), <tt><a href="nmf_suansu-dep-flat.html">flat</a></tt> (1; 1% instances), <tt><a href="nmf_suansu-dep-parataxis.html">parataxis</a></tt> (1; 1% instances)
+`ADV` nodes are attached to their parents using 10 different relations: <tt><a href="nmf_suansu-dep-advmod.html">advmod</a></tt> (141; 74% instances), <tt><a href="nmf_suansu-dep-advmod-emph.html">advmod:emph</a></tt> (28; 15% instances), <tt><a href="nmf_suansu-dep-compound-prt.html">compound:prt</a></tt> (9; 5% instances), <tt><a href="nmf_suansu-dep-root.html">root</a></tt> (4; 2% instances), <tt><a href="nmf_suansu-dep-nsubj.html">nsubj</a></tt> (3; 2% instances), <tt><a href="nmf_suansu-dep-cc.html">cc</a></tt> (1; 1% instances), <tt><a href="nmf_suansu-dep-compound-svc.html">compound:svc</a></tt> (1; 1% instances), <tt><a href="nmf_suansu-dep-fixed.html">fixed</a></tt> (1; 1% instances), <tt><a href="nmf_suansu-dep-flat.html">flat</a></tt> (1; 1% instances), <tt><a href="nmf_suansu-dep-parataxis.html">parataxis</a></tt> (1; 1% instances)
 
-Parents of `ADV` nodes belong to 11 different parts of speech: <tt><a href="nmf_suansu-pos-VERB.html">VERB</a></tt> (125; 65% instances), <tt><a href="nmf_suansu-pos-NOUN.html">NOUN</a></tt> (16; 8% instances), <tt><a href="nmf_suansu-pos-PRON.html">PRON</a></tt> (15; 8% instances), <tt><a href="nmf_suansu-pos-ADJ.html">ADJ</a></tt> (10; 5% instances), <tt><a href="nmf_suansu-pos-AUX.html">AUX</a></tt> (7; 4% instances), <tt><a href="nmf_suansu-pos-ADV.html">ADV</a></tt> (6; 3% instances), <tt><a href="nmf_suansu-pos-NUM.html">NUM</a></tt> (4; 2% instances), <tt><a href="nmf_suansu-pos-PROPN.html">PROPN</a></tt> (4; 2% instances),  (4; 2% instances), <tt><a href="nmf_suansu-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="nmf_suansu-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances)
+Parents of `ADV` nodes belong to 11 different parts of speech: <tt><a href="nmf_suansu-pos-VERB.html">VERB</a></tt> (122; 64% instances), <tt><a href="nmf_suansu-pos-NOUN.html">NOUN</a></tt> (16; 8% instances), <tt><a href="nmf_suansu-pos-PRON.html">PRON</a></tt> (15; 8% instances), <tt><a href="nmf_suansu-pos-ADJ.html">ADJ</a></tt> (10; 5% instances), <tt><a href="nmf_suansu-pos-AUX.html">AUX</a></tt> (7; 4% instances), <tt><a href="nmf_suansu-pos-ADV.html">ADV</a></tt> (6; 3% instances), <tt><a href="nmf_suansu-pos-NUM.html">NUM</a></tt> (4; 2% instances), <tt><a href="nmf_suansu-pos-PROPN.html">PROPN</a></tt> (4; 2% instances),  (4; 2% instances), <tt><a href="nmf_suansu-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="nmf_suansu-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances)
 
-177 (92%) `ADV` nodes are leaves.
+174 (92%) `ADV` nodes are leaves.
 
 12 (6%) `ADV` nodes have one child.
 

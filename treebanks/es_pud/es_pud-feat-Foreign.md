@@ -23,7 +23,7 @@ The most frequent other feature values with which `NOUN` and `Foreign` co-occurr
 `NOUN` tokens may have the following values of `Foreign`:
 
 * `Yes` (27; 100% of non-empty `Foreign`): <em>cápita, News, Approach, Brands, Company, Dead, Engagement, Father, Forums, Ground</em>
-* `EMPTY` (4780): <em>años, año, guerra, lugar, parte, gobierno, ciudad, mar, estado, millones</em>
+* `EMPTY` (4771): <em>años, año, guerra, lugar, parte, gobierno, ciudad, mar, estado, millones</em>
 
 `Foreign` seems to be **lexical feature** of `NOUN`. 100% lemmas (24) occur only with one value of `Foreign`.
 
@@ -36,7 +36,7 @@ The most frequent other feature values with which `VERB` and `Foreign` co-occurr
 `VERB` tokens may have the following values of `Foreign`:
 
 * `Yes` (7; 100% of non-empty `Foreign`): <em>Breaking, Buck, Controlled, Go, Knuck, Like, Love</em>
-* `EMPTY` (2263): <em>dijo, tiene, es, hacer, hay, hace, tener, está, tienen, debido</em>
+* `EMPTY` (2262): <em>dijo, tiene, es, hacer, hay, hace, tener, está, tienen, debido</em>
 
 ### `DET`
 
@@ -58,7 +58,7 @@ The most frequent other feature values with which `PRON` and `Foreign` co-occurr
 `PRON` tokens may have the following values of `Foreign`:
 
 * `Yes` (6; 100% of non-empty `Foreign`): <em>My, You, Her, Me</em>
-* `EMPTY` (1040): <em>se, que, su, lo, sus, le, cual, ellos, me, él</em>
+* `EMPTY` (1047): <em>se, que, su, lo, sus, le, cual, ellos, me, él</em>
 
 ### `ADJ`
 
@@ -69,7 +69,7 @@ The most frequent other feature values with which `ADJ` and `Foreign` co-occurre
 `ADJ` tokens may have the following values of `Foreign`:
 
 * `Yes` (3; 100% of non-empty `Foreign`): <em>American, Stranger, Talking</em>
-* `EMPTY` (1482): <em>gran, primera, mayor, nueva, nacional, grandes, primer, últimos, británica, nuevos</em>
+* `EMPTY` (1484): <em>gran, primera, mayor, nueva, nacional, grandes, primer, últimos, británica, nuevos</em>
 
 ### `ADP`
 
@@ -78,7 +78,7 @@ The most frequent other feature values with which `ADJ` and `Foreign` co-occurre
 `ADP` tokens may have the following values of `Foreign`:
 
 * `Yes` (3; 100% of non-empty `Foreign`): <em>Over, per</em>
-* `EMPTY` (3952): <em>de, en, a, por, con, para, como, que, entre, durante</em>
+* `EMPTY` (3827): <em>de, en, a, por, con, para, que, entre, durante, sobre</em>
 
 ### `ADV`
 
@@ -111,7 +111,7 @@ The most frequent other feature values with which `AUX` and `Foreign` co-occurre
 `AUX` tokens may have the following values of `Foreign`:
 
 * `Yes` (2; 100% of non-empty `Foreign`): <em>Did, Do</em>
-* `EMPTY` (632): <em>es, fue, ha, había, está, era, puede, son, ser, fueron</em>
+* `EMPTY` (633): <em>es, fue, ha, había, está, era, puede, son, ser, fueron</em>
 
 ### `NUM`
 
@@ -161,7 +161,7 @@ The most frequent other feature values with which `PUNCT` and `Foreign` co-occur
 `SCONJ` tokens may have the following values of `Foreign`:
 
 * `Yes` (1; 100% of non-empty `Foreign`): <em>If</em>
-* `EMPTY` (278): <em>que, si, mientras, como, aunque, porque, a, de, hasta, para</em>
+* `EMPTY` (403): <em>que, como, si, mientras, aunque, porque, a, de, hasta, para</em>
 
 ### `X`
 

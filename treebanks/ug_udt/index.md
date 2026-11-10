@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.4 release.
 The following people have contributed to making this treebank part of UD: Marhaba Eli, Daniel Zeman, Francis Tyers.
 
 Repository: [UD_Uyghur-UDT](https://github.com/UniversalDependencies/UD_Uyghur-UDT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udug_udt218)<br />
-Download all treebanks: [UD 2.18](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udug_udt219)<br />
+Download all treebanks: [UD 2.19](/#download)
 
 License: CC BY-SA 4.0
 
@@ -106,7 +106,7 @@ middle school, including stories, records and reports.
 </ul>
 
 <ul>
-<li>This corpus contains 30 lemmas tagged as pronouns (PRON): _, ئاشۇ, ئاۋۇ, ئۆز, ئۆزلىرىنى, ئۆزىمىز, ئۆزىڭىز, ئۇ, ئۇلار, ئەنە, ئەڭ, بىراۋ, بىز, بۇ, سىز, سىلى, سىلەر, سەن, شۇ, كىم, كىمنىڭ, ماۋۇ, مۇشۇ, مەن, نېمە, نە, ھېچ, ھېچكىم, ھېچنېمە, ھەممەيلەن</li>
+<li>This corpus contains 31 lemmas tagged as pronouns (PRON): _, ئاشۇ, ئاۋۇ, ئۆز, ئۆزلىرىنى, ئۆزىمىز, ئۆزىڭىز, ئۇ, ئۇلار, ئەنە, ئەڭ, بىراۋ, بىز, بۇ, سىز, سىلى, سىلەر, سەن, شۇ, كىم, كىمدۇر, كىمنىڭ, ماۋۇ, مۇشۇ, مەن, نېمە, نە, ھېچ, ھېچكىم, ھېچنېمە, ھەممەيلەن</li>
 </ul>
 
 <ul>
@@ -221,7 +221,7 @@ middle school, including stories, records and reports.
       <li>AUX: ئىدى, كەتتى, قالدى, بولسا, ئەمەس, بولدى, بولىدۇ, قالدىم, بولسىمۇ, بولغان</li>
       <li>AUX-Conv: بولسا, بولسىمۇ, بولسام, بولسىڭىز, تۇرسا, بولساڭ, بولساق, قالسا, تۇرسام, كەتسىمۇ</li>
       <li>AUX-Fin: ئىدى, كەتتى, قالدى, بولدى, بولىدۇ, قالدىم, بولغان, بولدۇم, تۇرىدۇ, ئىدىڭ</li>
-      <li>PRON: ئۇ, مەن, ئۇنىڭ, سەن, ئۇنى, ئۇنىڭغا, ماڭا, مېنىڭ, ساڭا, سىز</li>
+      <li>PRON: ئۇ, مەن, ئۇنىڭ, سەن, ئۇنى, ئۇنىڭغا, ماڭا, مېنىڭ, مېنى, ساڭا</li>
       <li>VERB-Conv: قارىسام, قارىسىڭىز, بەرسەم, دېسەم, دېمىسىمۇ, كەلسەم, ئالسام, بولساممۇ, قىلسام, قىلساڭ</li>
       <li>VERB-Fin: دېدى, كەلدى, باشلىدى, بولدى, بەردى, قىلدى, قىلىدۇ, بولىدۇ, دېدىم, دېگەن</li>
     </ul>
@@ -239,7 +239,7 @@ middle school, including stories, records and reports.
       <li>AUX-Ger: بولغاندىن, بولۇشىدىن, قېلىشىدىن, كېتىشتىن, كەتكەندىن</li>
       <li>NOUN: ئاندىن, يەردىن, ئەزەلدىن, بىردەمدىن, مەكتەپتىن, يىلدىن, ئارقىدىن, ئارىدىن, ئىشتىن, تەرەپتىن</li>
       <li>NUM: بىردىن, بىرىدىن</li>
-      <li>PRON: ئۇلاردىن, بىزدىن, سەندىن, مەندىن, ئۆزۈمدىن, ھېلىقى, ئۆزىدىن, سىزدىن, سىلىدىن, مەن</li>
+      <li>PRON: ئۇلاردىن, بىزدىن, سەندىن, مەندىن, ئۆزۈمدىن, ئۇنىڭدىنمۇ, ھېلىقى, ئۆزىدىن, سىزدىن, سىلىدىن</li>
       <li>PROPN: قەشقەردىن</li>
       <li>VERB-Ger: بولغاندىن, ئاڭلىغاندىن, ئۆتكەندىن, قىلغاندىن, بولۇشىدىن, بەرگەندىن, تاشتىن, دېگەندىن, قورققىنىدىن, كېتىشتىن</li>
       <li>VERB-Part: ئۆيلەنگەندىن</li>
@@ -254,7 +254,7 @@ middle school, including stories, records and reports.
       <li>AUX-Ger: بولۇشىنى</li>
       <li>NOUN: ئادەمنى, گەپنى, ئىشنى, پۇلنى, يەرنى, بېشىنى, قولىنى, بالىنى, باھارنى, قىزنى</li>
       <li>NUM: بىرىنى, بىرنى, ئالتىنى, ئىككىسىنى, سەككىزنى</li>
-      <li>PRON: ئۇنى, ئۆزىنى, ئۇلارنى, بىزنى, ئۆزۈمنى, سىزنى, ئۆزۈڭنى, سىلىنى, سىلەرنى, سىنى</li>
+      <li>PRON: ئۇنى, مېنى, ئۆزىنى, ئۇلارنى, بىزنى, ئۆزۈمنى, سىزنى, ئۆزۈڭنى, سىلىنى, سىلەرنى</li>
       <li>PROPN: قەشقەرنى, ئىمامنى</li>
       <li>VERB-Ger: قىلىشنى, بېرىشنى, تاشنى, بولۇشنى, بېرىشىنى, تونۇشىنى, دېگىنىنى, دېگەننى, كۆرۈشنى, كۆيۈنۈشنى</li>
     </ul>
@@ -521,7 +521,7 @@ middle school, including stories, records and reports.
     <ul>
       <li>AUX-Conv: بولسام, بولساق, تۇرسام, كەلسەك, بولساقمۇ, بولساممۇ, بولسامچۇ, قالسام</li>
       <li>AUX-Fin: قالدىم, بولدۇم, ئىدىم, كەلدىم, قالدۇق, ئىدۇق, كەتتىم, تۇرىمىز, بولىمىز, بولىمەن</li>
-      <li>PRON: مەن, بىز, ماڭا, مېنىڭ, بىزنىڭ, بىزنى, بىزمۇ, بىزدىن, مەندىن, مەندە</li>
+      <li>PRON: مەن, بىز, ماڭا, مېنىڭ, مېنى, بىزنىڭ, بىزنى, بىزمۇ, بىزدىن, مەندىن</li>
       <li>VERB-Conv: قارىسام, بەرسەم, دېسەم, كەلسەم, ئالسام, بولساممۇ, قىلسام, كەلسەك, چۈشسەم, ئاڭلىسام</li>
       <li>VERB-Fin: دېدىم, بەردىم, كەلدىم, يەتتىم, ئويلىدىم, بولدۇم, قىلدىم, كۆردۈم, ئالدىم, باردىم</li>
     </ul>
@@ -721,15 +721,15 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--NOUN-Dat (2)</li>
       <li>VERB--NOUN-Loc (1)</li>
       <li>VERB--NOUN-Nom (270)</li>
-      <li>VERB--PRON (52)</li>
-      <li>VERB--PRON-Acc (87)</li>
+      <li>VERB--PRON (35)</li>
+      <li>VERB--PRON-Acc (104)</li>
       <li>VERB--PRON-Nom (8)</li>
       <li>VERB-Conv--NOUN (56)</li>
       <li>VERB-Conv--NOUN-Acc (137)</li>
       <li>VERB-Conv--NOUN-Nom (58)</li>
       <li>VERB-Conv--NOUN-Nom-ADP(بىلەن) (1)</li>
-      <li>VERB-Conv--PRON (7)</li>
-      <li>VERB-Conv--PRON-Acc (10)</li>
+      <li>VERB-Conv--PRON (3)</li>
+      <li>VERB-Conv--PRON-Acc (14)</li>
       <li>VERB-Conv--PRON-Nom (2)</li>
       <li>VERB-Fin--NOUN (55)</li>
       <li>VERB-Fin--NOUN-ADP(_) (1)</li>
@@ -738,19 +738,19 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Dat (3)</li>
       <li>VERB-Fin--NOUN-Nom (54)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(تۈگۈل) (1)</li>
-      <li>VERB-Fin--PRON (19)</li>
-      <li>VERB-Fin--PRON-Acc (17)</li>
+      <li>VERB-Fin--PRON (13)</li>
+      <li>VERB-Fin--PRON-Acc (23)</li>
       <li>VERB-Ger--NOUN (31)</li>
       <li>VERB-Ger--NOUN-Acc (53)</li>
       <li>VERB-Ger--NOUN-Nom (45)</li>
-      <li>VERB-Ger--PRON (5)</li>
-      <li>VERB-Ger--PRON-Acc (7)</li>
+      <li>VERB-Ger--PRON (3)</li>
+      <li>VERB-Ger--PRON-Acc (9)</li>
       <li>VERB-Ger--PRON-Nom (1)</li>
       <li>VERB-Inf--NOUN (14)</li>
       <li>VERB-Inf--NOUN-Acc (41)</li>
       <li>VERB-Inf--NOUN-Nom (10)</li>
-      <li>VERB-Inf--PRON (5)</li>
-      <li>VERB-Inf--PRON-Acc (6)</li>
+      <li>VERB-Inf--PRON (4)</li>
+      <li>VERB-Inf--PRON-Acc (7)</li>
       <li>VERB-Part--NOUN (7)</li>
       <li>VERB-Part--NOUN-Acc (7)</li>
       <li>VERB-Part--NOUN-Nom (4)</li>

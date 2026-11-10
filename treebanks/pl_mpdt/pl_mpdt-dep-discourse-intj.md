@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of .
 
-28 nodes (0%) are attached to their parents as `discourse:intj`.
+39 nodes (0%) are attached to their parents as `discourse:intj`.
 
-25 instances of `discourse:intj` (89%) are right-to-left (child precedes parent).
-Average distance between parent and child is 6.07142857142857.
+35 instances of `discourse:intj` (90%) are right-to-left (child precedes parent).
+Average distance between parent and child is 5.35897435897436.
 
-The following 6 pairs of parts of speech are connected with `discourse:intj`: <tt><a href="pl_mpdt-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_mpdt-pos-INTJ.html">INTJ</a></tt> (14; 50% instances), <tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_mpdt-pos-INTJ.html">INTJ</a></tt> (7; 25% instances), <tt><a href="pl_mpdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_mpdt-pos-INTJ.html">INTJ</a></tt> (3; 11% instances), <tt><a href="pl_mpdt-pos-ADV.html">ADV</a></tt>-<tt><a href="pl_mpdt-pos-INTJ.html">INTJ</a></tt> (2; 7% instances), <tt><a href="pl_mpdt-pos-PRON.html">PRON</a></tt>-<tt><a href="pl_mpdt-pos-INTJ.html">INTJ</a></tt> (1; 4% instances), <tt><a href="pl_mpdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pl_mpdt-pos-INTJ.html">INTJ</a></tt> (1; 4% instances).
+The following 6 pairs of parts of speech are connected with `discourse:intj`: <tt><a href="pl_mpdt-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_mpdt-pos-INTJ.html">INTJ</a></tt> (22; 56% instances), <tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_mpdt-pos-INTJ.html">INTJ</a></tt> (10; 26% instances), <tt><a href="pl_mpdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_mpdt-pos-INTJ.html">INTJ</a></tt> (3; 8% instances), <tt><a href="pl_mpdt-pos-ADV.html">ADV</a></tt>-<tt><a href="pl_mpdt-pos-INTJ.html">INTJ</a></tt> (2; 5% instances), <tt><a href="pl_mpdt-pos-PRON.html">PRON</a></tt>-<tt><a href="pl_mpdt-pos-INTJ.html">INTJ</a></tt> (1; 3% instances), <tt><a href="pl_mpdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pl_mpdt-pos-INTJ.html">INTJ</a></tt> (1; 3% instances).
 
 
 ~~~ conllu
@@ -71,7 +71,7 @@ The following 6 pairs of parts of speech are connected with `discourse:intj`: <t
 4	mój	mój	DET	adj:sg:voc:m:pos	Case=Voc|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	3	det:poss	3:det:poss	SpaceAfter=No|Translit=moy
 5	/	/	PUNCT	interp	PunctType=Slsh	6	punct	6:punct	Translit=/
 6	Ojcze	ojciec	NOUN	subst:sg:voc:m	Case=Voc|Gender=Masc|Number=Sing	1	conj	1:conj|15:vocative	Translit=Oycze
-7	wiela	wiele	DET	num:sg:gen:n	Case=Gen|Gender=Neut|Number=Sing|PronType=Ind	8	det	8:det	Translit=wiela
+7	wiela	wiele	DET	num:sg:gen:n	Case=Gen|Gender=Neut|Number=Sing|PronType=Ind	8	det:nummod	8:det:nummod	Translit=wiela
 8	miłosierdzia	miłosierdzie	NOUN	subst:sg:gen:n	Case=Gen|Gender=Neut|Number=Sing	6	nmod:poss	6:nmod:poss	SpaceAfter=No|Translit=miłośierdźia
 9	/	/	PUNCT	interp	PunctType=Slsh	1	punct	1:punct	Translit=/
 10	o	o	INTJ	interj	_	15	discourse:intj	15:discourse:intj	Translit=o

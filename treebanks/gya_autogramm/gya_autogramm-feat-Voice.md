@@ -18,23 +18,19 @@ The feature is used with 3 part-of-speech tags: <tt><a href="gya_autogramm-pos-P
 
 2 <tt><a href="gya_autogramm-pos-PART.html">PART</a></tt> tokens (1% of all `PART` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `PART` and `Voice` co-occurred: <tt><a href="gya_autogramm-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (2; 100%).
-
 `PART` tokens may have the following values of `Voice`:
 
 * `Act` (2; 100% of non-empty `Voice`): <em>nɛ́</em>
-* `EMPTY` (149): <em>ná, nɛ̀, ndé, kàá, sɛ̀nɛ́, wó, péínɛ́, wá, yè, kàà</em>
+* `EMPTY` (297): <em>ná, sínɛ́, nɛ̀, péínɛ́, kàá, ndé, nɛ̀nɛ́, sɛ̀nɛ́, wó, yè</em>
 
 ### `AUX`
 
-1 <tt><a href="gya_autogramm-pos-AUX.html">AUX</a></tt> tokens (4% of all `AUX` tokens) have a non-empty value of `Voice`.
-
-The most frequent other feature values with which `AUX` and `Voice` co-occurred: <tt><a href="gya_autogramm-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1; 100%).
+1 <tt><a href="gya_autogramm-pos-AUX.html">AUX</a></tt> tokens (1% of all `AUX` tokens) have a non-empty value of `Voice`.
 
 `AUX` tokens may have the following values of `Voice`:
 
 * `Act` (1; 100% of non-empty `Voice`): <em>nɛ́</em>
-* `EMPTY` (24): <em>ʔá̰, nɛ́, ʔá̰-hı̰̀ı̰́, mɛ̀-nɛ́, ʔá̰à̰, sɔ̰́</em>
+* `EMPTY` (85): <em>nɛ́, tɛ́-B, ʔá̰, BHa, tɛ̀ɛ́-B, mɛ́-B, ʔá̰-hı̰̀ı̰́, mɔ́-B, mɛ̀-nɛ́, ʔá̰-hḭ̀ḭ́</em>
 
 ### `VERB`
 
@@ -42,6 +38,6 @@ The most frequent other feature values with which `AUX` and `Voice` co-occurred:
 
 `VERB` tokens may have the following values of `Voice`:
 
-* `Mid` (1; 100% of non-empty `Voice`): <em>yɔ̀á</em>
-* `EMPTY` (582): <em>ndák, dɛ́, nɛ́, gbó, kpèè, ngbòì, ʔá, bá, ɲɔ̀ŋá, ʔɔ́</em>
+* `Mid` (1; 100% of non-empty `Voice`): <em>BHa-yɔ</em>
+* `EMPTY` (977): <em>H-dɛ, H-ndak, H-nɛ, H-be, H-pḭ, H-ʔa, H-ba, H-gbo, H-kpa, BHa-kpe</em>
 

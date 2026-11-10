@@ -22,7 +22,7 @@ The following 3 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 nummod	color:blue
-1	Mga	mga	DET	_	Number=Plur	3	det	_	Gloss=around
+1	Mga	mga	DET	_	Number=Plur|PronType=Ind	3	det	_	Gloss=around
 2	tres	tres	NUM	_	_	3	nummod	_	Gloss=three
 3	pesos	pesos	NOUN	_	_	0	root	_	Gloss=pesos|SpaceAfter=No
 4	,	,	PUNCT	_	_	3	punct	_	Gloss=,

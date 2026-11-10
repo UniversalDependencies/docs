@@ -7,6 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Hindi-PUD: Relations: `nmod:poss`
 
 This relation is a language-specific subtype of <tt><a href="hi_pud-dep-nmod.html">nmod</a></tt>.
+There are also 1 other language-specific subtypes of `nmod`: <tt><a href="hi_pud-dep-nmod-tmod.html">nmod:tmod</a></tt>.
 
 1401 nodes (6%) are attached to their parents as `nmod:poss`.
 

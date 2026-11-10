@@ -50,7 +50,7 @@ Examples: <em>2, 1 mē, 20, 2 mē, 50, 30, 1 līm, 10, 1 mē 20, 1</em>
 
 ## Relations
 
-`NUM` nodes are attached to their parents using 7 different relations: <tt><a href="akk_riao-dep-nummod.html">nummod</a></tt> (317; 97% instances), <tt><a href="akk_riao-dep-obj.html">obj</a></tt> (6; 2% instances), <tt><a href="akk_riao-dep-appos.html">appos</a></tt> (1; 0% instances), <tt><a href="akk_riao-dep-conj.html">conj</a></tt> (1; 0% instances), <tt><a href="akk_riao-dep-nmod-poss.html">nmod:poss</a></tt> (1; 0% instances), <tt><a href="akk_riao-dep-obl.html">obl</a></tt> (1; 0% instances), <tt><a href="akk_riao-dep-root.html">root</a></tt> (1; 0% instances)
+`NUM` nodes are attached to their parents using 7 different relations: <tt><a href="akk_riao-dep-nummod.html">nummod</a></tt> (317; 97% instances), <tt><a href="akk_riao-dep-obj.html">obj</a></tt> (6; 2% instances), <tt><a href="akk_riao-dep-appos.html">appos</a></tt> (1; 0% instances), <tt><a href="akk_riao-dep-conj.html">conj</a></tt> (1; 0% instances), <tt><a href="akk_riao-dep-nmod.html">nmod</a></tt> (1; 0% instances), <tt><a href="akk_riao-dep-nmod-poss.html">nmod:poss</a></tt> (1; 0% instances), <tt><a href="akk_riao-dep-root.html">root</a></tt> (1; 0% instances)
 
 Parents of `NUM` nodes belong to 5 different parts of speech: <tt><a href="akk_riao-pos-NOUN.html">NOUN</a></tt> (319; 97% instances), <tt><a href="akk_riao-pos-VERB.html">VERB</a></tt> (6; 2% instances), <tt><a href="akk_riao-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="akk_riao-pos-NUM.html">NUM</a></tt> (1; 0% instances),  (1; 0% instances)
 

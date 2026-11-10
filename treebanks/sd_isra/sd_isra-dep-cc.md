@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-2180 nodes (2%) are attached to their parents as `cc`.
+2183 nodes (2%) are attached to their parents as `cc`.
 
-2164 instances of `cc` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.66330275229358.
+2167 instances of `cc` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.66055886394869.
 
-The following 11 pairs of parts of speech are connected with `cc`: <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sd_isra-pos-CCONJ.html">CCONJ</a></tt> (1029; 47% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-CCONJ.html">CCONJ</a></tt> (798; 37% instances), <tt><a href="sd_isra-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sd_isra-pos-CCONJ.html">CCONJ</a></tt> (172; 8% instances), <tt><a href="sd_isra-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sd_isra-pos-CCONJ.html">CCONJ</a></tt> (122; 6% instances), <tt><a href="sd_isra-pos-AUX.html">AUX</a></tt>-<tt><a href="sd_isra-pos-CCONJ.html">CCONJ</a></tt> (20; 1% instances), <tt><a href="sd_isra-pos-DET.html">DET</a></tt>-<tt><a href="sd_isra-pos-CCONJ.html">CCONJ</a></tt> (14; 1% instances), <tt><a href="sd_isra-pos-NUM.html">NUM</a></tt>-<tt><a href="sd_isra-pos-CCONJ.html">CCONJ</a></tt> (12; 1% instances), <tt><a href="sd_isra-pos-ADV.html">ADV</a></tt>-<tt><a href="sd_isra-pos-CCONJ.html">CCONJ</a></tt> (5; 0% instances), <tt><a href="sd_isra-pos-PRON.html">PRON</a></tt>-<tt><a href="sd_isra-pos-CCONJ.html">CCONJ</a></tt> (4; 0% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances).
+The following 11 pairs of parts of speech are connected with `cc`: <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sd_isra-pos-CCONJ.html">CCONJ</a></tt> (1031; 47% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-CCONJ.html">CCONJ</a></tt> (798; 37% instances), <tt><a href="sd_isra-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sd_isra-pos-CCONJ.html">CCONJ</a></tt> (173; 8% instances), <tt><a href="sd_isra-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sd_isra-pos-CCONJ.html">CCONJ</a></tt> (122; 6% instances), <tt><a href="sd_isra-pos-AUX.html">AUX</a></tt>-<tt><a href="sd_isra-pos-CCONJ.html">CCONJ</a></tt> (20; 1% instances), <tt><a href="sd_isra-pos-DET.html">DET</a></tt>-<tt><a href="sd_isra-pos-CCONJ.html">CCONJ</a></tt> (14; 1% instances), <tt><a href="sd_isra-pos-NUM.html">NUM</a></tt>-<tt><a href="sd_isra-pos-CCONJ.html">CCONJ</a></tt> (12; 1% instances), <tt><a href="sd_isra-pos-ADV.html">ADV</a></tt>-<tt><a href="sd_isra-pos-CCONJ.html">CCONJ</a></tt> (5; 0% instances), <tt><a href="sd_isra-pos-PRON.html">PRON</a></tt>-<tt><a href="sd_isra-pos-CCONJ.html">CCONJ</a></tt> (4; 0% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances).
 
 
 ~~~ conllu

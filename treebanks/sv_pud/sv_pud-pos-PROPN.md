@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>de</em> (<tt><a href="sv_pud-pos-DET.
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.041570 (the average of all parts of speech is 1.245113).
+The form / lemma ratio of `PROPN` is 1.041570 (the average of all parts of speech is 1.244870).
 
 The 1st highest number of forms (2) was observed with the lemma “Albanien”: <em>Albanien, Albaniens</em>.
 

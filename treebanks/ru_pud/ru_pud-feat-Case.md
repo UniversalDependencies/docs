@@ -9,26 +9,25 @@ udver: '2'
 This feature is universal.
 It occurs with 6 different values: `Acc`, `Dat`, `Gen`, `Ins`, `Loc`, `Nom`.
 
-9308 tokens (48%) have a non-empty value of `Case`.
-5801 types (75%) occur at least once with a non-empty value of `Case`.
-3726 lemmas (73%) occur at least once with a non-empty value of `Case`.
-The feature is used with 7 part-of-speech tags: <tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt> (4892; 25% instances), <tt><a href="ru_pud-pos-ADJ.html">ADJ</a></tt> (1770; 9% instances), <tt><a href="ru_pud-pos-PROPN.html">PROPN</a></tt> (1101; 6% instances), <tt><a href="ru_pud-pos-PRON.html">PRON</a></tt> (794; 4% instances), <tt><a href="ru_pud-pos-DET.html">DET</a></tt> (375; 2% instances), <tt><a href="ru_pud-pos-VERB.html">VERB</a></tt> (203; 1% instances), <tt><a href="ru_pud-pos-NUM.html">NUM</a></tt> (173; 1% instances).
+9301 tokens (48%) have a non-empty value of `Case`.
+5794 types (75%) occur at least once with a non-empty value of `Case`.
+3715 lemmas (73%) occur at least once with a non-empty value of `Case`.
+The feature is used with 7 part-of-speech tags: <tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt> (4890; 25% instances), <tt><a href="ru_pud-pos-ADJ.html">ADJ</a></tt> (1770; 9% instances), <tt><a href="ru_pud-pos-PROPN.html">PROPN</a></tt> (1094; 6% instances), <tt><a href="ru_pud-pos-PRON.html">PRON</a></tt> (653; 3% instances), <tt><a href="ru_pud-pos-DET.html">DET</a></tt> (518; 3% instances), <tt><a href="ru_pud-pos-VERB.html">VERB</a></tt> (203; 1% instances), <tt><a href="ru_pud-pos-NUM.html">NUM</a></tt> (173; 1% instances).
 
 ### `NOUN`
 
-4892 <tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Case`.
+4890 <tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="ru_pud-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt> (4263; 87%), <tt><a href="ru_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3522; 72%).
+The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="ru_pud-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt> (4263; 87%), <tt><a href="ru_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3520; 72%).
 
 `NOUN` tokens may have the following values of `Case`:
 
 * `Acc` (857; 18% of non-empty `Case`): <em>время, течение, день, место, период, влияние, внимание, раз, людей, решение</em>
-* `Dat` (264; 5% of non-empty `Case`): <em>мере, году, данным, правительству, миру, недвижимости, поводу, причине, росту, сравнению</em>
+* `Dat` (263; 5% of non-empty `Case`): <em>мере, году, данным, правительству, миру, недвижимости, поводу, причине, росту, сравнению</em>
 * `Gen` (1699; 35% of non-empty `Case`): <em>года, лет, войны, века, города, людей, компании, э., долларов, жизни</em>
 * `Ins` (449; 9% of non-empty `Case`): <em>образом, летом, помощью, президентом, судом, целью, источником, компанией, контролем, людьми</em>
 * `Loc` (645; 13% of non-empty `Case`): <em>году, результате, качестве, основном, начале, конце, мире, веке, июле, месте</em>
-* `Nom` (978; 20% of non-empty `Case`): <em>люди, часть, правительство, время, армия, год, государство, полиция, рост, фильм</em>
-* `EMPTY` (5): <em>Film, Wi-Fi, GIF</em>
+* `Nom` (977; 20% of non-empty `Case`): <em>люди, часть, правительство, время, армия, год, государство, полиция, рост, фильм</em>
 
 <table>
   <tr><th>Paradigm <i>год</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th></tr>
@@ -66,19 +65,18 @@ The most frequent other feature values with which `ADJ` and `Case` co-occurred: 
 
 ### `PROPN`
 
-1101 <tt><a href="ru_pud-pos-PROPN.html">PROPN</a></tt> tokens (91% of all `PROPN` tokens) have a non-empty value of `Case`.
+1094 <tt><a href="ru_pud-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PROPN` and `Case` co-occurred: <tt><a href="ru_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1051; 95%), <tt><a href="ru_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (728; 66%), <tt><a href="ru_pud-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt> (577; 52%).
+The most frequent other feature values with which `PROPN` and `Case` co-occurred: <tt><a href="ru_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1045; 96%), <tt><a href="ru_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (722; 66%), <tt><a href="ru_pud-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt> (577; 53%).
 
 `PROPN` tokens may have the following values of `Case`:
 
-* `Acc` (87; 8% of non-empty `Case`): <em>Антарктиду, Германию, Герцля, Европу, Киплинга, Моравию, Ричарда, Ford, Абакумова, Австралию</em>
+* `Acc` (86; 8% of non-empty `Case`): <em>Антарктиду, Германию, Герцля, Европу, Киплинга, Моравию, Ричарда, Абакумова, Австралию, Австрию</em>
 * `Dat` (41; 4% of non-empty `Case`): <em>Мартину, Средиземноморью, Альваресу, Америке, Андам, Библии, Боемер, Брекзиту, Британии, Георгу</em>
-* `Gen` (325; 30% of non-empty `Case`): <em>США, Америки, Европы, Австралии, Англии, Ахеменидов, Великобритании, Китая, Македонии, Онтарио</em>
+* `Gen` (322; 29% of non-empty `Case`): <em>США, Америки, Европы, Австралии, Англии, Ахеменидов, Великобритании, Китая, Македонии, Онтарио</em>
 * `Ins` (74; 7% of non-empty `Case`): <em>Азией, Албанией, Аткинсоном, Ауном, Аустерлицем, Брантом, Брестедом, Британией, Валентино, Ваттом</em>
-* `Loc` (126; 11% of non-empty `Case`): <em>Америке, Великобритании, США, Азии, Африке, Гвинее, Германии, Земле, Италии, Китае</em>
-* `Nom` (448; 41% of non-empty `Case`): <em>Китай, Трамп, Африка, Блант, Джон, Джордж, Испания, Кеша, Клинтон, Мисима</em>
-* `EMPTY` (108): <em>BBC, CNN, RECO, Spotify, Twitter, Uber, Academy, Adidas, Agora, Assistant</em>
+* `Loc` (125; 11% of non-empty `Case`): <em>Америке, Великобритании, США, Азии, Африке, Гвинее, Германии, Земле, Италии, Китае</em>
+* `Nom` (446; 41% of non-empty `Case`): <em>Китай, Трамп, Африка, Блант, Джон, Джордж, Испания, Кеша, Клинтон, Мисима</em>
 
 <table>
   <tr><th>Paradigm <i>Трамп</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th></tr>
@@ -88,18 +86,18 @@ The most frequent other feature values with which `PROPN` and `Case` co-occurred
 
 ### `PRON`
 
-794 <tt><a href="ru_pud-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Case`.
+653 <tt><a href="ru_pud-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="ru_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (530; 67%), <tt><a href="ru_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (399; 50%).
+The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="ru_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (499; 76%), <tt><a href="ru_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (425; 65%), <tt><a href="ru_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (423; 65%).
 
 `PRON` tokens may have the following values of `Case`:
 
-* `Acc` (112; 14% of non-empty `Case`): <em>себя, его, ее, что, это, что-то, то, их, которые, которую</em>
-* `Dat` (41; 5% of non-empty `Case`): <em>мне, ему, ей, нам, себе, им, Вам, которому, этому, eму</em>
-* `Gen` (88; 11% of non-empty `Case`): <em>того, них, чего, этого, которых, всего, него, кого, которой, нас</em>
-* `Ins` (40; 5% of non-empty `Case`): <em>собой, тем, ними, им, которыми, ним, этим, которым, ею, ими</em>
-* `Loc` (37; 5% of non-empty `Case`): <em>том, этом, котором, чем, которой, которых, нем, себе, чем-то, ней</em>
-* `Nom` (476; 60% of non-empty `Case`): <em>он, это, они, она, которые, что, я, который, мы, кто</em>
+* `Acc` (96; 15% of non-empty `Case`): <em>его, себя, ее, это, то, их, что, что-то, меня, нас</em>
+* `Dat` (40; 6% of non-empty `Case`): <em>мне, ему, ей, нам, им, Вам, себе, этому, eму, другу</em>
+* `Gen` (75; 11% of non-empty `Case`): <em>того, них, этого, всего, него, чего, нас, кого, меня, нее</em>
+* `Ins` (33; 5% of non-empty `Case`): <em>тем, собой, ними, им, ним, этим, ею, ими, ней, прочим</em>
+* `Loc` (26; 4% of non-empty `Case`): <em>том, этом, нем, чем, ней, них, себе, чем-то</em>
+* `Nom` (383; 59% of non-empty `Case`): <em>он, это, они, она, я, мы, что, кто, все, вы</em>
 
 <table>
   <tr><th>Paradigm <i>он</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th></tr>
@@ -110,28 +108,30 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 
 ### `DET`
 
-375 <tt><a href="ru_pud-pos-DET.html">DET</a></tt> tokens (76% of all `DET` tokens) have a non-empty value of `Case`.
+518 <tt><a href="ru_pud-pos-DET.html">DET</a></tt> tokens (81% of all `DET` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="ru_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (262; 70%).
+The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="ru_pud-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (443; 86%), <tt><a href="ru_pud-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (404; 78%), <tt><a href="ru_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (349; 67%).
 
 `DET` tokens may have the following values of `Case`:
 
-* `Acc` (87; 23% of non-empty `Case`): <em>свои, свою, то, этот, это, эту, свой, эти, все, всю</em>
-* `Dat` (19; 5% of non-empty `Case`): <em>всему, этой, своей, своим, этому, Никаким, всей, нашей, своему, таким</em>
-* `Gen` (100; 27% of non-empty `Case`): <em>н., этого, этих, таких, всех, своего, своей, тех, этой, всего</em>
-* `Ins` (29; 8% of non-empty `Case`): <em>своей, таким, тем, своими, нашей, своим, Какими, Моей, каждой, каким</em>
-* `Loc` (53; 14% of non-empty `Case`): <em>своей, том, своем, этой, этом, своих, всех, некоторой, некоторых, таком</em>
-* `Nom` (87; 23% of non-empty `Case`): <em>этот, такие, это, некоторые, эта, эти, все, каждый, мой, наше</em>
+* `Acc` (103; 20% of non-empty `Case`): <em>свои, свою, то, этот, это, которые, эту, которую, который, свой</em>
+* `Dat` (21; 4% of non-empty `Case`): <em>всему, этой, которому, своей, своим, этому, Никаким, всей, нашей, своему</em>
+* `Gen` (113; 22% of non-empty `Case`): <em>н., этого, этих, таких, всех, которых, своего, которой, своей, тех</em>
+* `Ins` (36; 7% of non-empty `Case`): <em>своей, таким, тем, которыми, своими, которым, нашей, своим, теми, Какими</em>
+* `Loc` (64; 12% of non-empty `Case`): <em>своей, том, своем, этой, этом, котором, своих, которой, которых, всех</em>
+* `Nom` (181; 35% of non-empty `Case`): <em>которые, который, которая, этот, такие, это, некоторые, которое, эта, эти</em>
 * `EMPTY` (118): <em>его, их, ее, её, Каковы</em>
 
 <table>
-  <tr><th>Paradigm <i>этот</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th></tr>
-  <tr><td><tt><tt><a href="ru_pud-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="ru_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ru_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>этот</em></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="ru_pud-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="ru_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>эти</em></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="ru_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ru_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>этот</em></td><td></td><td></td><td><em>этого</em></td><td><em>этом</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ru_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ru_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>эта</em></td><td><em>эту</em></td><td><em>этой</em></td><td><em>этой</em></td><td><em>этой</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ru_pud-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="ru_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>это</em></td><td><em>это</em></td><td><em>этому</em></td><td><em>этого</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="ru_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>эти</em></td><td></td><td></td><td><em>этих</em></td><td></td><td><em>этими</em></td></tr>
+  <tr><th>Paradigm <i>который</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th></tr>
+  <tr><td><tt><tt><a href="ru_pud-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="ru_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ru_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>который</em></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="ru_pud-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="ru_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>который</em></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="ru_pud-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="ru_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>которые</em></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="ru_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ru_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>который</em></td><td></td><td><em>которому</em></td><td><em>которого</em></td><td><em>котором</em></td><td><em>которым</em></td></tr>
+  <tr><td><tt><tt><a href="ru_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ru_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>которая</em></td><td><em>которую</em></td><td></td><td><em>которой</em></td><td><em>которой</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ru_pud-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="ru_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>которое</em></td><td><em>которое</em></td><td></td><td></td><td><em>котором</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ru_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>который</em></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="ru_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>которые, который</em></td><td></td><td></td><td><em>которых</em></td><td><em>которых</em></td><td><em>которыми</em></td></tr>
 </table>
 
 ### `VERB`
@@ -148,7 +148,7 @@ The most frequent other feature values with which `VERB` and `Case` co-occurred:
 * `Ins` (25; 12% of non-empty `Case`): <em>действующим, бегущим, верующим, вовлеченным, выжившим, газированной, действующей, доминирующей, живущим, занимающимися</em>
 * `Loc` (9; 4% of non-empty `Case`): <em>аннексированном, завоеванных, меняющемся, обращенной, объясняющем, предполагаемых, протянувшемся, совершенном, стоящих</em>
 * `Nom` (69; 34% of non-empty `Case`): <em>Вышедший, Говорящие, Живущие, Загрязняющие, Лишившиеся, Обладающий, Сведенная, Спешивший, Сформированная, Ухудшающееся</em>
-* `EMPTY` (1912): <em>является, может, сказал, говорит, стало, могут, можно, заявил, находится, стал</em>
+* `EMPTY` (1913): <em>является, может, сказал, говорит, стало, могут, можно, заявил, находится, стал</em>
 
 <table>
   <tr><th>Paradigm <i>сделать</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Gen</tt></th></tr>
@@ -184,13 +184,13 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
 
 The 10 most frequent relations where parent and child node agree in `Case`:
 <tt>NOUN --[<tt><a href="ru_pud-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1476; 88%),
-<tt>NOUN --[<tt><a href="ru_pud-dep-det.html">det</a></tt>]--> DET</tt> (327; 73%),
-<tt>NOUN --[<tt><a href="ru_pud-dep-conj.html">conj</a></tt>]--> NOUN</tt> (236; 96%),
+<tt>NOUN --[<tt><a href="ru_pud-dep-det.html">det</a></tt>]--> DET</tt> (328; 73%),
+<tt>NOUN --[<tt><a href="ru_pud-dep-conj.html">conj</a></tt>]--> NOUN</tt> (237; 96%),
 <tt>NOUN --[<tt><a href="ru_pud-dep-acl.html">acl</a></tt>]--> VERB</tt> (166; 86%),
-<tt>PROPN --[<tt><a href="ru_pud-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (102; 99%),
+<tt>PROPN --[<tt><a href="ru_pud-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (102; 100%),
 <tt>NOUN --[<tt><a href="ru_pud-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (95; 99%),
-<tt>PROPN --[<tt><a href="ru_pud-dep-amod.html">amod</a></tt>]--> ADJ</tt> (67; 97%),
-<tt>PROPN --[<tt><a href="ru_pud-dep-conj.html">conj</a></tt>]--> PROPN</tt> (56; 98%),
+<tt>PROPN --[<tt><a href="ru_pud-dep-amod.html">amod</a></tt>]--> ADJ</tt> (67; 99%),
+<tt>PROPN --[<tt><a href="ru_pud-dep-conj.html">conj</a></tt>]--> PROPN</tt> (56; 100%),
 <tt>ADJ --[<tt><a href="ru_pud-dep-conj.html">conj</a></tt>]--> ADJ</tt> (43; 100%),
-<tt>NOUN --[<tt><a href="ru_pud-dep-appos.html">appos</a></tt>]--> NOUN</tt> (29; 81%).
+<tt>NOUN --[<tt><a href="ru_pud-dep-appos.html">appos</a></tt>]--> NOUN</tt> (33; 83%).
 

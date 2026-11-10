@@ -18,7 +18,7 @@ The feature is used with 5 part-of-speech tags: <tt><a href="sga_dipsgg-pos-VERB
 
 28 <tt><a href="sga_dipsgg-pos-VERB.html">VERB</a></tt> tokens (88% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="sga_dipsgg-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (28; 100%), <tt><a href="sga_dipsgg-feat-Number.html">Number</a></tt><tt>=Sing</tt> (26; 93%), <tt><a href="sga_dipsgg-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (26; 93%), <tt><a href="sga_dipsgg-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (24; 86%), <tt><a href="sga_dipsgg-feat-PartType.html">PartType</a></tt><tt>=EMPTY</tt> (24; 86%), <tt><a href="sga_dipsgg-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (21; 75%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="sga_dipsgg-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (28; 100%), <tt><a href="sga_dipsgg-feat-Number.html">Number</a></tt><tt>=Sing</tt> (26; 93%), <tt><a href="sga_dipsgg-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (26; 93%), <tt><a href="sga_dipsgg-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (24; 86%), <tt><a href="sga_dipsgg-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (21; 75%).
 
 `VERB` tokens may have the following values of `Person`:
 
@@ -29,7 +29,7 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 
 <table>
   <tr><th>Paradigm <i>scríbaid</i></th><th><tt>1</tt></th><th><tt>3</tt></th></tr>
-  <tr><td><tt><tt><a href="sga_dipsgg-feat-PartType.html">PartType</a></tt><tt>=Aug</tt>|<tt><a href="sga_dipsgg-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="sga_dipsgg-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td></td><td><em>roscribad, roscríbad</em></td></tr>
+  <tr><td><tt><tt><a href="sga_dipsgg-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="sga_dipsgg-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td></td><td><em>scribad, scríbad</em></td></tr>
   <tr><td><tt><tt><a href="sga_dipsgg-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="sga_dipsgg-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>scríbaimm</em></td><td></td></tr>
 </table>
 

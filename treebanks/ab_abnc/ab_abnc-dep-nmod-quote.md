@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="ab_abnc-dep-nmod.html">nmod</a></tt>.
 There are also 1 other language-specific subtypes of `nmod`: <tt><a href="ab_abnc-dep-nmod-poss.html">nmod:poss</a></tt>.
 
-3 nodes (0%) are attached to their parents as `nmod:quote`.
+4 nodes (0%) are attached to their parents as `nmod:quote`.
 
-3 instances of `nmod:quote` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.33333333333333.
+4 instances of `nmod:quote` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.5.
 
-The following 2 pairs of parts of speech are connected with `nmod:quote`: <tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt>-<tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt> (2; 67% instances), <tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt>-<tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> (1; 33% instances).
+The following 3 pairs of parts of speech are connected with `nmod:quote`: <tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt>-<tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt> (2; 50% instances), <tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt>-<tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> (1; 25% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> (1; 25% instances).
 
 
 ~~~ conllu
@@ -54,7 +54,7 @@ The following 2 pairs of parts of speech are connected with `nmod:quote`: <tt><a
 9	дычмазаҩгәышьоуп	а́-чмазаҩзаара	VERB	V_Stat_Fin_Pres_Alas_S:3SgH	Dyn=No|Gender[subj]=Com|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin	5	conj	_	LMSeg:а́-чмазаҩ-заа-ра
 10	–	–	PUNCT	Punct_Dash	_	17	punct	_	LMSeg:–
 11	Смакәан	а-макәа́н	NOUN	Noun_NH_Sg_Poss:1Sg	Animacy=Nhum|Number=Sing|Number[psor]=Sing|Person[psor]=1	12	iobj:lo	_	LMSeg:а-макәа́н
-12	иҭоу	а-ҭа́заара	VERB	V_Stat_NonFin_Pres_Q_S:3	Dyn=No|Mood=Int|Person[subj]=3|Tense=Pres|VerbForm=NonFin	13	ccomp:obj	_	LMSeg:а-ҭа́-заа-ра
+12	иҭоу	а-ҭа́заара	VERB	V_Stat_NonFin_Pres_S:Rel_LO:3SgNH_Rel	Dyn=No|Gender[lo]=Neut|Number[lo]=Sing|Person[lo]=3|Person[subj]=Rel|Tense=Pres|VerbForm=NonFin	13	ccomp:obj	_	LMSeg:а-ҭа́-заа-ра
 13	аншәысҭа	а́-ҭара	VERB	V_Dyn_Tr_NonFin_Cnv_Aor_When_S:1Sg_DO:3_DO:Ad_IO:2Pl	Dyn=Yes|Number[io]=Plur|Number[subj]=Sing|Person[io]=2|Person[obj]=3|Person[subj]=1|RelType=Tmp|Subcat=Tran|Tense=Aor|VerbForm=NonFin	17	advcl	_	LMSeg:а́-ҭа-ра|SpaceAfter=No
 14	,	,	PUNCT	Punct_Comma	_	17	punct	_	LMSeg:,
 15	сан	а́н	NOUN	Noun_H_F_Sg_Poss:1Sg	Animacy=Hum|Number=Sing|Number[psor]=Sing|Person[psor]=1	17	obj	_	LMSeg:а́н
@@ -65,6 +65,26 @@ The following 2 pairs of parts of speech are connected with `nmod:quote`: <tt><a
 20	иҳәеит	а-ҳәара́	VERB	V_Dyn_Tr_Fin_Aor_S:3SgM_DO:3_DO:Ad	Dyn=Yes|Gender[subj]=Masc|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Aor|VerbForm=Fin	0	root	_	LMSeg:а-ҳәа-ра́
 21	азныказы	а́зныказы	ADV	Adv	_	20	advmod	_	LMSeg:а́зныказы|SpaceAfter=No
 22	.	.	PUNCT	Punct_Period	_	20	punct	_	LMSeg:.
+
+~~~
+
+
+~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 4 nmod:quote	color:blue
+1	Ҩымшҟа	а́-мш	NOUN	Noun_NH_Sg_PP:ҟа_NumPfx	Animacy=Nhum|Number=Card	2	obl	_	LMSeg:а́-мш
+2	ҵуеит	а-ҵра́	VERB	V_Dyn_Intr_Fin_Pres_S:3_S:Ad	Dyn=Yes|Mood=Ind|Person[subj]=3|Subcat=Intr|Tense=Pres|VerbForm=Fin	0	root	_	LMSeg:а-ҵ-ра́|SpaceAfter=No
+3	,	,	PUNCT	Punct_Comma	_	9	punct	_	LMSeg:,
+4	ҳцару	а-цара́	VERB	V_Dyn_Intr_NonFin_Conj-I_Q_S:1Pl	Dyn=Yes|Mood=Cnd|Number[subj]=Plur|Person[subj]=1|Subcat=Intr|VerbForm=NonFin	8	nmod:quote	_	LMSeg:а-ца-ра́|SpaceAfter=No
+5	,	,	PUNCT	Punct_Comma	_	6	punct	_	LMSeg:,
+6	ҳамцару	а-цара́	VERB	V_Dyn_Intr_NonFin_Conj-I_Neg_Q_S:1Pl	Dyn=Yes|Mood=Cnd|Number[subj]=Plur|Person[subj]=1|Polarity=Neg|Subcat=Intr|VerbForm=NonFin	4	conj	_	LMSeg:а-ца-ра́
+7	ҳәа	ҳәа́	PART	Prt_Quote	_	4	mark	_	LMSeg:ҳәа́
+8	алакҩакра	а-ла́кҩакра	VERB	VN_Dyn_Sg_Det_Intr	Definite=Def|Dyn=Yes|Number=Sing|Subcat=Intr|VerbForm=Vnoun	9	iobj:lo	_	LMSeg:а-ла́к-ҩак-ра
+9	ҳаҿуижьҭеи	а-ҿы́заара	VERB	V_Stat_NonFin_Pres_Since_S:1Pl_LO:3SgNH	Dyn=No|Gender[lo]=Neut|Number[lo]=Sing|Number[subj]=Plur|Person[lo]=3|Person[subj]=1|Tense=Pres|VerbForm=NonFin	2	advcl	_	LMSeg:а-ҿы́-заа-ра|SpaceAfter=No
+10	.	.	PUNCT	Punct_Period	_	2	punct	_	LMSeg:.
 
 ~~~
 

@@ -46,7 +46,7 @@ The following 4 pairs of parts of speech are connected with `acl`: <tt><a href="
 3	的	的	PART	_	Case=Gen	1	mark	_	SpaceAfter=No|Tone=5|Translit=de
 4	事情	事情	NOUN	_	_	5	nsubj	_	SpaceAfter=No|Tone=4_2|Translit=shì_qíng
 5	让	让	VERB	_	_	0	root	_	SpaceAfter=No|Tone=4|Translit=ràng
-6	他	他	PRON	_	Person=3	5	obj	_	SpaceAfter=No|Tone=1|Translit=tā
+6	他	他	PRON	_	Person=3	5	dep	_	SpaceAfter=No|Tone=1|Translit=tā
 7	高兴	高兴	ADJ	_	_	5	obj	_	Gloss=tall|SpaceAfter=No|Tone=1_1|Translit=gāo_xīng
 8	得	得	PART	_	_	9	mark	_	Grammar_Target=Yes|SpaceAfter=No|Tone=2|Translit=dé
 9	不得了	不得了	VERB	_	_	7	acl	_	Grammar_Target=Yes|SpaceAfter=No|Tone=4_2_5|Translit=bù_dé_le

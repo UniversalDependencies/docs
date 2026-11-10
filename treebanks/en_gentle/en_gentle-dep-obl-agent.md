@@ -25,7 +25,7 @@ The following 5 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 # visual-style 6 10 obl:agent	color:blue
 1	Labs	lab	NOUN	NNS	Number=Plur	6	nsubj:pass	6:nsubj:pass|8:nsubj:pass	Discourse=joint-other_m:166->13:4:_|Entity=(77-event-giv:inact-nsnnn-cf1-1-coref)|MSeg=Lab-s|PDTB=Implicit:Expansion.Substitution.Arg2-as-subst:instead:_:914-918:919-930
 2	and	and	CCONJ	CC	_	3	cc	3:cc	_
-3	Quizzes	quiz	NOUN	NNS	Number=Plur	1	conj	1:conj:and|6:nsubj:pass	Entity=(164-abstract-giv:inact-nnnnn-cf2-1-coref)
+3	Quizzes	quiz	NOUN	NNS	Number=Plur	1	conj	1:conj:and|6:nsubj:pass	Entity=(164-abstract-giv:inact-nnnnn-cf2-1-coref)|MSeg=Quizz-es
 4	should	should	AUX	MD	VerbForm=Fin	6	aux	6:aux|8:aux	_
 5	be	be	AUX	VB	VerbForm=Inf	6	aux:pass	6:aux:pass|8:aux:pass	_
 6	solved	solve	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	MSeg=solv-ed
@@ -63,7 +63,7 @@ The following 5 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 16	Swung	swing	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	15	acl	15:acl	Discourse=elaboration-attribute:139->138:0:syn-mdf-975-_+syn-nmn-976-_
 17	by	by	ADP	IN	_	18	case	18:case	_
 18	Seraphim	Seraphim	PROPN	NNPS	Number=Plur	16	obl:agent	16:obl:agent	Entity=(19-person-giv:inact-nnnnn-cf2-1-coref
-19	whose	whose	PRON	WP$	Poss=Yes|PronType=Rel	22	nmod:poss	18:ref|22:nmod:poss	Discourse=elaboration-attribute:140->139:0:syn-mdf-978-_+syn-relcl-983-_
+19	whose	whose	PRON	WP$	Case=Gen|Poss=Yes|PronType=Rel	22	nmod:poss	18:ref|22:nmod:poss	Discourse=elaboration-attribute:140->139:0:syn-mdf-978-_+syn-relcl-983-_
 20	foot	foot	NOUN	NN	Number=Sing	22	compound	22:compound	Entity=(101-abstract-new-nnnnn-cf4-3-sgl
 21	-	-	PUNCT	:	_	20	punct	20:punct	_
 22	falls	fall	NOUN	NNS	Number=Plur	23	nsubj	23:nsubj	Entity=101)|MSeg=fall-s

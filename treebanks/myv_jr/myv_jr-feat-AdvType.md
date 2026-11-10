@@ -73,6 +73,8 @@ The most frequent other feature values with which `NOUN` and `AdvType` co-occurr
 
 20 <tt><a href="myv_jr-pos-SCONJ.html">SCONJ</a></tt> tokens (30% of all `SCONJ` tokens) have a non-empty value of `AdvType`.
 
+The most frequent other feature values with which `SCONJ` and `AdvType` co-occurred: <tt><a href="myv_jr-feat-ConjType.html">ConjType</a></tt><tt>=EMPTY</tt> (20; 100%).
+
 `SCONJ` tokens may have the following values of `AdvType`:
 
 * `Man` (3; 15% of non-empty `AdvType`): <em>кода</em>

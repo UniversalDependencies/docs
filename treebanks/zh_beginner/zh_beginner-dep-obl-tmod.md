@@ -12,9 +12,9 @@ There are also 2 other language-specific subtypes of `obl`: <tt><a href="zh_begi
 427 nodes (2%) are attached to their parents as `obl:tmod`.
 
 424 instances of `obl:tmod` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.7423887587822.
+Average distance between parent and child is 2.73536299765808.
 
-The following 15 pairs of parts of speech are connected with `obl:tmod`: <tt><a href="zh_beginner-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_beginner-pos-NOUN.html">NOUN</a></tt> (201; 47% instances), <tt><a href="zh_beginner-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_beginner-pos-ADV.html">ADV</a></tt> (115; 27% instances), <tt><a href="zh_beginner-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_beginner-pos-VERB.html">VERB</a></tt> (32; 7% instances), <tt><a href="zh_beginner-pos-ADJ.html">ADJ</a></tt>-<tt><a href="zh_beginner-pos-NOUN.html">NOUN</a></tt> (31; 7% instances), <tt><a href="zh_beginner-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_beginner-pos-ADV.html">ADV</a></tt> (18; 4% instances), <tt><a href="zh_beginner-pos-ADJ.html">ADJ</a></tt>-<tt><a href="zh_beginner-pos-ADV.html">ADV</a></tt> (11; 3% instances), <tt><a href="zh_beginner-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_beginner-pos-NOUN.html">NOUN</a></tt> (5; 1% instances), <tt><a href="zh_beginner-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_beginner-pos-PART.html">PART</a></tt> (4; 1% instances), <tt><a href="zh_beginner-pos-PRON.html">PRON</a></tt>-<tt><a href="zh_beginner-pos-ADV.html">ADV</a></tt> (3; 1% instances), <tt><a href="zh_beginner-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_beginner-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="zh_beginner-pos-ADJ.html">ADJ</a></tt>-<tt><a href="zh_beginner-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="zh_beginner-pos-ADJ.html">ADJ</a></tt>-<tt><a href="zh_beginner-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="zh_beginner-pos-ADJ.html">ADJ</a></tt>-<tt><a href="zh_beginner-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="zh_beginner-pos-ADV.html">ADV</a></tt>-<tt><a href="zh_beginner-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="zh_beginner-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_beginner-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The following 16 pairs of parts of speech are connected with `obl:tmod`: <tt><a href="zh_beginner-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_beginner-pos-NOUN.html">NOUN</a></tt> (201; 47% instances), <tt><a href="zh_beginner-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_beginner-pos-ADV.html">ADV</a></tt> (115; 27% instances), <tt><a href="zh_beginner-pos-ADJ.html">ADJ</a></tt>-<tt><a href="zh_beginner-pos-NOUN.html">NOUN</a></tt> (31; 7% instances), <tt><a href="zh_beginner-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_beginner-pos-VERB.html">VERB</a></tt> (31; 7% instances), <tt><a href="zh_beginner-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_beginner-pos-ADV.html">ADV</a></tt> (18; 4% instances), <tt><a href="zh_beginner-pos-ADJ.html">ADJ</a></tt>-<tt><a href="zh_beginner-pos-ADV.html">ADV</a></tt> (11; 3% instances), <tt><a href="zh_beginner-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_beginner-pos-NOUN.html">NOUN</a></tt> (5; 1% instances), <tt><a href="zh_beginner-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_beginner-pos-PART.html">PART</a></tt> (4; 1% instances), <tt><a href="zh_beginner-pos-PRON.html">PRON</a></tt>-<tt><a href="zh_beginner-pos-ADV.html">ADV</a></tt> (3; 1% instances), <tt><a href="zh_beginner-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_beginner-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="zh_beginner-pos-ADJ.html">ADJ</a></tt>-<tt><a href="zh_beginner-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="zh_beginner-pos-ADJ.html">ADJ</a></tt>-<tt><a href="zh_beginner-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="zh_beginner-pos-ADJ.html">ADJ</a></tt>-<tt><a href="zh_beginner-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="zh_beginner-pos-ADV.html">ADV</a></tt>-<tt><a href="zh_beginner-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="zh_beginner-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_beginner-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="zh_beginner-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_beginner-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -52,18 +52,14 @@ The following 15 pairs of parts of speech are connected with `obl:tmod`: <tt><a 
 ~~~ conllu
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 1 obl:tmod	color:blue
-1	下	下	VERB	_	_	6	obl:tmod	_	Gloss=down|SpaceAfter=No|Tone=4|Translit=xià
-2	班	班	NOUN	_	_	1	obj	_	SpaceAfter=No|Tone=1|Translit=bān
-3	以后	以后	ADP	_	_	1	mark	_	SpaceAfter=No|Tone=3_4|Translit=yǐ_hòu
-4	你	你	PRON	_	Person=2	6	nsubj	_	Gloss=2SG|SpaceAfter=No|Tone=3|Translit=nǐ
-5	要	要	AUX	_	_	6	aux	_	Grammar_Target=Yes|SpaceAfter=No|Tone=4|Translit=yào
-6	回	回	VERB	_	_	0	root	_	Gloss=return|SpaceAfter=No|Tone=2|Translit=húi
-7	家	家	NOUN	_	_	6	obj	_	Gloss=family;home|SpaceAfter=No|Tone=1|Translit=jiā
-8	吗	吗	PART	_	_	6	discourse:sp	_	SpaceAfter=No|Tone=5|Translit=ma
-9	？	？	PUNCT	_	_	6	punct	_	SpaceAfter=No|Translit=？
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 obl:tmod	color:blue
+1	今天	今天	NOUN	_	_	2	obl:tmod	_	SpaceAfter=No|Tone=1_1|Translit=jīn_tiān
+2	累	累	ADJ	_	_	0	root	_	SpaceAfter=No|Tone=4|Translit=lèi
+3	死	死	ADV	_	_	2	advmod	_	Grammar_Target=Yes|SpaceAfter=No|Tone=3|Translit=sǐ
+4	了	了	PART	_	_	2	discourse	_	Gloss=PRF|Grammar_Target=Yes|SpaceAfter=No|Tone=5|Translit=le
+5	。	。	PUNCT	_	_	2	punct	_	SpaceAfter=No|Translit=。
 
 ~~~
 

@@ -25,7 +25,7 @@ The following 9 pairs of parts of speech are connected with `parataxis`: <tt><a 
 1	Няить	няемс	VERB	V	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=2|Tense=Past|VerbForm=Fin	0	root	_	GTtags=TV,Ind,Prt1,ScSg2,OcSg3|SpaceAfter=No
 2	,	,	PUNCT	CLB	_	5	punct	_	_
 3	тяса	тяса	ADV	Adv	_	5	advmod	_	_
-4	ёфcи	ёфcи	ADV	Adv	AdvType=Deg	5	advmod	_	GTtags=Deg
+4	ёфси	ёфси	ADV	Adv	AdvType=Deg	5	advmod	_	GTtags=Deg
 5	од	од	ADJ	A	Case=Nom|Definite=Ind|Number=Sing	1	conj	_	GTtags=Sg,Nom,Indef|SpaceAfter=No
 6	,	,	PUNCT	CLB	_	5	punct	_	_
 7	мазы	мазы	ADJ	A	Case=Nom|Definite=Ind|Number=Sing	8	amod	_	GTtags=Sg,Nom,Indef

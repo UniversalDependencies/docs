@@ -23,14 +23,14 @@ The following 4 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 2 nsubj:pass	color:blue
-1	et	et	CCONJ	_	_	5	cc	_	AlignBegin=284832|AlignEnd=284862
-2	on	on	PRON	_	Case=Nom|Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Ind	5	nsubj:pass	_	AlignBegin=284862|AlignEnd=284892|Exponence[Gender]=Absent|Exponence[Number]=Inherent|Exponence[Person]=Inherent
-3	sera	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	5	aux:pass	_	AlignBegin=284892|AlignEnd=285062
-4	pas	pas	ADV	_	Polarity=Neg	5	advmod	_	AlignBegin=285062|AlignEnd=285172
-5	payé	payer	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	0	root	_	AlignBegin=285172|AlignEnd=285382|Exponence[Gender]=Absent|Exponence[Number]=Absent|PastPartHasSpokenGender=NotInThisDialect|Tense[denom]=Past
-6	en	en	ADP	_	_	7	case	_	AlignBegin=285382|AlignEnd=285442
-7	plus	plus	ADV	_	_	5	advmod	_	AlignBegin=285442|AlignEnd=285638|SpaceAfter=No
-8	.	.	PUNCT	_	_	5	punct	_	AlignBegin=285638|AlignEnd=285638
+1	et	et	CCONJ	_	_	5	cc	_	WordAlignmentBegin=284832|WordAlignmentEnd=284862
+2	on	on	PRON	_	Case=Nom|Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Ind	5	nsubj:pass	_	Exponence[Gender]=Absent|Exponence[Number]=Inherent|Exponence[Person]=Inherent|WordAlignmentBegin=284862|WordAlignmentEnd=284892
+3	sera	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	5	aux:pass	_	WordAlignmentBegin=284892|WordAlignmentEnd=285062
+4	pas	pas	ADV	_	Polarity=Neg	5	advmod	_	WordAlignmentBegin=285062|WordAlignmentEnd=285172
+5	payé	payer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	Exponence[Gender]=Absent|Exponence[Number]=Absent|PastPartHasSpokenGender=NotInThisDialect|Status[Tense]=Denom|WordAlignmentBegin=285172|WordAlignmentEnd=285382
+6	en	en	ADP	_	_	7	case	_	WordAlignmentBegin=285382|WordAlignmentEnd=285442
+7	plus	plus	ADV	_	_	5	advmod	_	SpaceAfter=No|WordAlignmentBegin=285442|WordAlignmentEnd=285638
+8	.	.	PUNCT	_	_	5	punct	_	WordAlignmentBegin=285638|WordAlignmentEnd=285638
 
 ~~~
 
@@ -41,12 +41,12 @@ The following 4 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 2 nsubj:pass	color:blue
-1	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	AlignBegin=114815|AlignEnd=114947|HasSpokenGender=OnlySingExceptWithLiaison
-2	réunion	réunion	NOUN	_	Gender=Fem|Number=Sing	5	nsubj:pass	_	AlignBegin=114947|AlignEnd=115533|Exponence[Gender]=Inherent|Exponence[Number]=Absent
-3	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux:pass	_	AlignBegin=115533|AlignEnd=115659
-4	savamment	savamment	ADV	_	_	5	advmod	_	AlignBegin=115659|AlignEnd=116243
-5	minutée	minuter	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	0	root	_	AlignBegin=116243|AlignEnd=117021|Exponence[Gender]=Absent|Exponence[Number]=Absent|PastPartHasSpokenGender=NotInThisDialect|SpaceAfter=No|Tense[denom]=Past
-6	.	.	PUNCT	_	_	5	punct	_	AlignBegin=117021|AlignEnd=117021
+1	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	HasSpokenGender=OnlySingExceptWithLiaison|WordAlignmentBegin=114815|WordAlignmentEnd=114947
+2	réunion	réunion	NOUN	_	Gender=Fem|Number=Sing	5	nsubj:pass	_	Exponence[Gender]=Inherent|Exponence[Number]=Absent|WordAlignmentBegin=114947|WordAlignmentEnd=115533
+3	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux:pass	_	WordAlignmentBegin=115533|WordAlignmentEnd=115659
+4	savamment	savamment	ADV	_	_	5	advmod	_	WordAlignmentBegin=115659|WordAlignmentEnd=116243
+5	minutée	minuter	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	Exponence[Gender]=Absent|Exponence[Number]=Absent|PastPartHasSpokenGender=NotInThisDialect|SpaceAfter=No|Status[Tense]=Denom|WordAlignmentBegin=116243|WordAlignmentEnd=117021
+6	.	.	PUNCT	_	_	5	punct	_	WordAlignmentBegin=117021|WordAlignmentEnd=117021
 
 ~~~
 
@@ -57,12 +57,12 @@ The following 4 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 4 nsubj:pass	color:blue
-1	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	2	nsubj	_	AlignBegin=128158|AlignEnd=129314|Exponence[Gender]=Inherent|Exponence[Number]=Inherent|Exponence[Person]=Inherent|Overlap=Rhap_D2010-63|SpaceAfter=No
-2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	reparandum	_	AlignBegin=128158|AlignEnd=129314|Overlap=Rhap_D2010-63|SpaceAfter=No
-3	,	,	PUNCT	_	_	2	punct	_	AlignBegin=129314|AlignEnd=128158|Overlap=Rhap_D2010-52
-4	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	5	nsubj:pass	_	AlignBegin=128158|AlignEnd=129314|Exponence[Gender]=Inherent|Exponence[Number]=Inherent|Exponence[Person]=Inherent|Overlap=Rhap_D2010-63|SpaceAfter=No
-5	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=128158|AlignEnd=129314|Overlap=Rhap_D2010-63|Scrap=Yes|SpaceAfter=No
-6	…	…	PUNCT	_	_	5	punct	_	AlignBegin=129314|AlignEnd=129314|Overlap=Rhap_D2010-52
+1	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	2	nsubj	_	Exponence[Gender]=Inherent|Exponence[Number]=Inherent|Exponence[Person]=Inherent|Overlap=Rhap_D2010-63|SpaceAfter=No|WordAlignmentBegin=128158|WordAlignmentEnd=129314
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	reparandum	_	Overlap=Rhap_D2010-63|SpaceAfter=No|WordAlignmentBegin=128158|WordAlignmentEnd=129314
+3	,	,	PUNCT	_	_	2	punct	_	Overlap=Rhap_D2010-52|WordAlignmentBegin=129314|WordAlignmentEnd=128158
+4	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	5	nsubj:pass	_	Exponence[Gender]=Inherent|Exponence[Number]=Inherent|Exponence[Person]=Inherent|Overlap=Rhap_D2010-63|SpaceAfter=No|WordAlignmentBegin=128158|WordAlignmentEnd=129314
+5	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Overlap=Rhap_D2010-63|Scrap=Yes|SpaceAfter=No|WordAlignmentBegin=128158|WordAlignmentEnd=129314
+6	…	…	PUNCT	_	_	5	punct	_	Overlap=Rhap_D2010-52|WordAlignmentBegin=129314|WordAlignmentEnd=129314
 
 ~~~
 

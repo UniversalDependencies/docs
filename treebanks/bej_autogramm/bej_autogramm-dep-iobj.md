@@ -22,15 +22,15 @@ The following 2 pairs of parts of speech are connected with `iobj`: <tt><a href=
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 6 iobj	color:blue
-1	tak	_	NOUN	N	Gender=Masc	8	nsubj	_	AlignBegin=0|AlignEnd=190|Gloss=man|RX=[SBJ].[N].[M]|TokenType=Root
-2	/	_	PUNCT	PUNCT	_	1	punct	_	AlignBegin=190|AlignEnd=879|TokenType=Break
-3	kaːm	_	NOUN	N	_	7	nsubj	_	AlignBegin=879|AlignEnd=982|Gloss=camel|RX=[SBJ].[N]|TokenType=Root
-4	=i	_	PRON	PRO	Case=Nom|Number=Sing|Person=1|Poss=Yes	3	nmod:poss	_	AlignBegin=982|AlignEnd=1085|Gloss==POSS.1SG.NOM|RX==[PRO]|TokenType=Clit
-5	/	_	PUNCT	PUNCT	_	3	punct	_	AlignBegin=1085|AlignEnd=1815|TokenType=Break
-6	hoː	_	PRON	PRO	Case=Dat|Number=Sing|Person=1	7	iobj	_	AlignBegin=1815|AlignEnd=2092|Gloss=1SG.DAT|RX=[PRO]|TokenType=Root
-7	kʷiɖja	_	VERB	V2	Gender=Masc|Number=Sing|VerbClass=2	8	ccomp	_	AlignBegin=2092|AlignEnd=2370|Gloss=disappear|MGloss=disappear-PFV.3SG.M|MSeg=kʷiɖ-ja|Reported=Yes|RX=[V2]-[TAM].[PNG]|TokenType=Root
-8	ini	_	VERB	V1,IRG	Aspect=Perf|Gender=Masc|Number=Sing|VerbClass=1	0	root	_	AlignBegin=2370|AlignEnd=2648|Gloss=say\PFV|MGloss=3SG.M-say\PFV|MSeg=i-ni|RX=[PNG]-[V1].[IRG]|TokenType=Root
-9	//	_	PUNCT	PUNCT	_	8	punct	_	AlignBegin=2648|AlignEnd=2926|TokenType=Break
+1	tak	_	NOUN	N	Gender=Masc	8	nsubj	_	Gloss=man|RX=[SBJ].[N].[M]|TokenType=Root|WordAlignmentBegin=0|WordAlignmentEnd=190
+2	/	_	PUNCT	PUNCT	_	1	punct	_	TokenType=Break|WordAlignmentBegin=190|WordAlignmentEnd=879
+3	kaːm	_	NOUN	N	_	7	nsubj	_	Gloss=camel|RX=[SBJ].[N]|TokenType=Root|WordAlignmentBegin=879|WordAlignmentEnd=982
+4	=i	_	PRON	PRO	Case=Nom|Number=Sing|Person=1|Poss=Yes	3	nmod:poss	_	Gloss=POSS|RX==[PRO]|TokenType=Clit|WordAlignmentBegin=982|WordAlignmentEnd=1085
+5	/	_	PUNCT	PUNCT	_	3	punct	_	TokenType=Break|WordAlignmentBegin=1085|WordAlignmentEnd=1815
+6	hoː	_	PRON	PRO	Case=Dat|Number=Sing|Person=1	7	iobj	_	Gloss=1SG|RX=[PRO]|TokenType=Root|WordAlignmentBegin=1815|WordAlignmentEnd=2092
+7	kʷiɖja	_	VERB	V2	Gender=Masc|Number=Sing|VerbClass=2	8	ccomp	_	Gloss=disappear|MGloss=disappear-PFV.3SG.M|MSeg=kʷiɖ-ja|Reported=Yes|RX=[V2]-[TAM].[PNG]|TokenType=Root|WordAlignmentBegin=2092|WordAlignmentEnd=2370
+8	ini	_	VERB	V1,IRG	Aspect=Perf|Gender=Masc|Number=Sing|VerbClass=1	0	root	_	Gloss=say|MGloss=3SG.M-say\PFV|MSeg=i-ni|RX=[PNG]-[V1].[IRG]|TokenType=Root|WordAlignmentBegin=2370|WordAlignmentEnd=2648
+9	//	_	PUNCT	PUNCT	_	8	punct	_	TokenType=Break|WordAlignmentBegin=2648|WordAlignmentEnd=2926
 
 ~~~
 
@@ -41,21 +41,21 @@ The following 2 pairs of parts of speech are connected with `iobj`: <tt><a href=
 # visual-style 13	bgColor:blue
 # visual-style 13	fgColor:white
 # visual-style 13 10 iobj	color:blue
-1	beːn	_	DET	DEM	Case=Nom|Deixis=Remt|Gender=Masc|Number=Sing|PronType=Dem	3	det	_	AlignBegin=76156|AlignEnd=76440|Gloss=DIST.SG.M.NOM|RX=[DEM]|TokenType=Root
-2	aː=	_	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Plur	3	det	_	AlignBegin=76440|AlignEnd=76582|Gloss=DEF.PL.M.NOM=|RX=[DET]=|TokenType=Clit
-3	nda	_	NOUN	N	Gender=Masc|Number=Plur	4	nsubj	_	AlignBegin=76582|AlignEnd=76724|Gloss=man\PL|RX=[SBJ].[N].[M]|TokenType=Root
-4	ʔeːjaːn	_	VERB	V2,IRG	Aspect=Perf|Number=Plur|VerbClass=2	5	dep:comp	_	AlignBegin=76724|AlignEnd=76914|Gloss=come\PFV|MGloss=come\PFV-3PL|MSeg=ʔeːjaː-n|RelRole=Obj|RX=[V2].[IRG]-[PNG]|TokenType=Root
-5	=eːb	_	SCONJ	CONJ	ExtPos=SCONJ|Gender=Masc|PronType=Rel	13	dep	_	AlignBegin=76914|AlignEnd=77009|Gloss==REL.M|Idiom=Yes|RX==[CONJ]|TokenType=Clit
-6	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	5	fixed	_	AlignBegin=77009|AlignEnd=77151|Gloss=DEF.SG.M.ACC=|InIdiom=Yes|RX=[DET]=|TokenType=Clit
-7	doːr	_	NOUN	N	Gender=Masc	5	fixed	_	AlignBegin=77151|AlignEnd=77293|Gloss=time|InIdiom=Yes|RX=[N].[M]|TokenType=Root
-8	/	_	PUNCT	PUNCT	_	5	punct	_	AlignBegin=77293|AlignEnd=78459|TokenType=Break
-9	i=	_	DET	DET	Definite=Def|Gender=Masc	10	det	_	AlignBegin=78459|AlignEnd=78599|Gloss=DEF.M=|RX=[DET]=|TokenType=Clit
-10	kaːm	_	NOUN	N	_	13	iobj	_	AlignBegin=78599|AlignEnd=78739|Gloss=camel|RX=[N]|TokenType=Root
-11	=i	_	PRON	PRO	Case=Acc|Number=Sing|Person=1	10	nmod:poss	_	AlignBegin=78739|AlignEnd=78880|Gloss==POSS1.SG.ACC|RX==[PRO]|TokenType=Clit
-12	jam	_	NOUN	N	Gender=Masc|Number=Plur	13	obj	_	AlignBegin=78880|AlignEnd=79301|Gloss=water|RX=[N].[PL].[M]|TokenType=Root
-13	gʷʔasaːb	_	VERB	V2	Gender=Masc|VerbClass=2	0	root	_	AlignBegin=79301|AlignEnd=79637|Gloss=drink|MGloss=drink-CAUS-CVB.MNR-INDF.M.ACC|MSeg=gʷʔa-s-aː-b|RX=[V2]-[V2].[DER]-[PRF]-[DET]|TokenType=Root
-14	=u	_	AUX	N,COP	Number=Sing|Person=1|VerbType=Cop	13	cop	_	AlignBegin=79637|AlignEnd=79722|Gloss==COP.1SG|RX==[PRED].[N]|TokenType=Clit
-15	/	_	PUNCT	PUNCT	_	13	punct	_	AlignBegin=79722|AlignEnd=80500|TokenType=Break
+1	beːn	_	DET	DEM	Case=Nom|Deixis=Remt|Gender=Masc|Number=Sing|PronType=Dem	3	det	_	Gloss=DIST|RX=[DEM]|TokenType=Root|WordAlignmentBegin=76156|WordAlignmentEnd=76440
+2	aː=	_	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Plur	3	det	_	Gloss=DEF|RX=[DET]=|TokenType=Clit|WordAlignmentBegin=76440|WordAlignmentEnd=76582
+3	nda	_	NOUN	N	Gender=Masc|Number=Plur	4	nsubj	_	Gloss=man|RX=[SBJ].[N].[M]|TokenType=Root|WordAlignmentBegin=76582|WordAlignmentEnd=76724
+4	ʔeːjaːn	_	VERB	V2,IRG	Aspect=Perf|Number=Plur|VerbClass=2	13	advcl	_	Gloss=come|MGloss=come\PFV-3PL|MSeg=ʔeːjaː-n|RelRole=Obj|RX=[V2].[IRG]-[PNG]|TokenType=Root|WordAlignmentBegin=76724|WordAlignmentEnd=76914
+5	=eːb	_	SCONJ	CONJ	ExtPos=SCONJ|Gender=Masc|PronType=Rel	4	mark	_	Gloss=REL|Idiom=Yes|RX==[CONJ]|TokenType=Clit|WordAlignmentBegin=76914|WordAlignmentEnd=77009
+6	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	5	fixed	_	Gloss=DEF|InIdiom=Yes|RX=[DET]=|TokenType=Clit|WordAlignmentBegin=77009|WordAlignmentEnd=77151
+7	doːr	_	NOUN	N	Gender=Masc	5	fixed	_	Gloss=time|InIdiom=Yes|RX=[N].[M]|TokenType=Root|WordAlignmentBegin=77151|WordAlignmentEnd=77293
+8	/	_	PUNCT	PUNCT	_	4	punct	_	TokenType=Break|WordAlignmentBegin=77293|WordAlignmentEnd=78459
+9	i=	_	DET	DET	Definite=Def|Gender=Masc	10	det	_	Gloss=DEF|RX=[DET]=|TokenType=Clit|WordAlignmentBegin=78459|WordAlignmentEnd=78599
+10	kaːm	_	NOUN	N	_	13	iobj	_	Gloss=camel|RX=[N]|TokenType=Root|WordAlignmentBegin=78599|WordAlignmentEnd=78739
+11	=i	_	PRON	PRO	Case=Acc|Number=Sing|Person=1|Poss=Yes	10	nmod	_	Gloss=POSS|RX==[PRO]|TokenType=Clit|WordAlignmentBegin=78739|WordAlignmentEnd=78880
+12	jam	_	NOUN	N	Gender=Masc|Number=Plur	13	obj	_	Gloss=water|RX=[N].[PL].[M]|TokenType=Root|WordAlignmentBegin=78880|WordAlignmentEnd=79301
+13	gʷʔasaːb	_	VERB	V2	Gender=Masc|VerbClass=2	0	root	_	Gloss=drink.CAUS.CVB.MNR|MGloss=drink-CAUS-CVB.MNR-INDF.M.ACC|MSeg=gʷʔa-s-aː-b|RX=[V2]-[V2].[DER]-[PRF]-[DET]|TokenType=Root|WordAlignmentBegin=79301|WordAlignmentEnd=79637
+14	=u	_	AUX	N,COP	Number=Sing|Person=1|VerbType=Cop	13	cop	_	Gloss=COP|RX==[PRED].[N]|TokenType=Clit|WordAlignmentBegin=79637|WordAlignmentEnd=79722
+15	/	_	PUNCT	PUNCT	_	13	punct	_	TokenType=Break|WordAlignmentBegin=79722|WordAlignmentEnd=80500
 
 ~~~
 

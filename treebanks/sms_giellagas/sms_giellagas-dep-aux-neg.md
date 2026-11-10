@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="sms_giellagas-dep-aux.html">aux</a></tt>.
 
-1 nodes (0%) are attached to their parents as `aux:neg`.
+2 nodes (0%) are attached to their parents as `aux:neg`.
 
-1 instances of `aux:neg` (100%) are right-to-left (child precedes parent).
+2 instances of `aux:neg` (100%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.
 
-The following 1 pairs of parts of speech are connected with `aux:neg`: <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (1; 100% instances).
+The following 1 pairs of parts of speech are connected with `aux:neg`: <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (2; 100% instances).
 
 
 ~~~ conllu

@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Dual`, `Plur`, `Sing`.
 
-893561 tokens (51%) have a non-empty value of `Number`.
-149696 types (99%) occur at least once with a non-empty value of `Number`.
-47100 lemmas (85%) occur at least once with a non-empty value of `Number`.
-The feature is used with 8 part-of-speech tags: <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt> (373634; 21% instances), <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt> (166378; 9% instances), <tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt> (146580; 8% instances), <tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt> (84719; 5% instances), <tt><a href="ru_taiga-pos-DET.html">DET</a></tt> (55996; 3% instances), <tt><a href="ru_taiga-pos-PROPN.html">PROPN</a></tt> (54576; 3% instances), <tt><a href="ru_taiga-pos-AUX.html">AUX</a></tt> (9777; 1% instances), <tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> (1901; 0% instances).
+893567 tokens (51%) have a non-empty value of `Number`.
+149700 types (99%) occur at least once with a non-empty value of `Number`.
+47103 lemmas (85%) occur at least once with a non-empty value of `Number`.
+The feature is used with 8 part-of-speech tags: <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt> (373635; 21% instances), <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt> (166378; 9% instances), <tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt> (146580; 8% instances), <tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt> (84719; 5% instances), <tt><a href="ru_taiga-pos-DET.html">DET</a></tt> (55996; 3% instances), <tt><a href="ru_taiga-pos-PROPN.html">PROPN</a></tt> (54581; 3% instances), <tt><a href="ru_taiga-pos-AUX.html">AUX</a></tt> (9777; 1% instances), <tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> (1901; 0% instances).
 
 ### `NOUN`
 
-373634 <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt> tokens (99% of all `NOUN` tokens) have a non-empty value of `Number`.
+373635 <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt> tokens (99% of all `NOUN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="ru_taiga-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt> (310893; 83%).
+The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="ru_taiga-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt> (310894; 83%).
 
 `NOUN` tokens may have the following values of `Number`:
 
 * `Dual` (1; 0% of non-empty `Number`): <em>руце</em>
 * `Plur` (100802; 27% of non-empty `Number`): <em>слова, слов, глаза, людей, лет, люди, руки, детей, языков, произведения</em>
-* `Sing` (272831; 73% of non-empty `Number`): <em>время, слово, языка, жизни, слова, языке, раз, человек, язык, мама</em>
-* `EMPTY` (4488): <em>в., г., гг., э., вв., с., т., тыс., ч., см</em>
+* `Sing` (272832; 73% of non-empty `Number`): <em>время, слово, языка, жизни, слова, языке, раз, человек, язык, мама</em>
+* `EMPTY` (4472): <em>в., г., гг., э., вв., с., т., тыс., ч., см</em>
 
 <table>
   <tr><th>Paradigm <i>рука</i></th><th><tt>Sing</tt></th><th><tt>Dual</tt></th><th><tt>Plur</tt></th></tr>
@@ -81,7 +81,7 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 
 * `Plur` (40335; 28% of non-empty `Number`): <em>разных, новые, разные, различных, должны, русских, первые, новых, большие, художественных</em>
 * `Sing` (106245; 72% of non-empty `Number`): <em>русского, нужно, большой, русской, первый, русском, хорошо, хороший, должен, второй</em>
-* `EMPTY` (8495): <em>XIX, п., XVIII, лучше, XX, XVII, XVI, XV, I, XIV</em>
+* `EMPTY` (8493): <em>XIX, п., XVIII, лучше, XX, XVII, XVI, XV, I, XIV</em>
 
 <table>
   <tr><th>Paradigm <i>русский</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -216,15 +216,15 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 
 ### `PROPN`
 
-54576 <tt><a href="ru_taiga-pos-PROPN.html">PROPN</a></tt> tokens (81% of all `PROPN` tokens) have a non-empty value of `Number`.
+54581 <tt><a href="ru_taiga-pos-PROPN.html">PROPN</a></tt> tokens (81% of all `PROPN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PROPN` and `Number` co-occurred: <tt><a href="ru_taiga-feat-Abbr.html">Abbr</a></tt><tt>=EMPTY</tt> (54565; 100%), <tt><a href="ru_taiga-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt> (45261; 83%), <tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (35768; 66%), <tt><a href="ru_taiga-feat-Case.html">Case</a></tt><tt>=Nom</tt> (29185; 53%).
+The most frequent other feature values with which `PROPN` and `Number` co-occurred: <tt><a href="ru_taiga-feat-Abbr.html">Abbr</a></tt><tt>=EMPTY</tt> (54570; 100%), <tt><a href="ru_taiga-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt> (45263; 83%), <tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (35773; 66%), <tt><a href="ru_taiga-feat-Case.html">Case</a></tt><tt>=Nom</tt> (29188; 53%).
 
 `PROPN` tokens may have the following values of `Number`:
 
 * `Plur` (542; 1% of non-empty `Number`): <em>Ивановы, Карамазовы, Рыбы, Уффици, Афин, Афинах, Ахеменидов, Рюриковичей, Гримм, Ивановых</em>
-* `Sing` (54034; 99% of non-empty `Number`): <em>Толик, россии, Алёна, Лиза, Мишка, Кузька, Пушкина, Анна, Сибирочка, Мэри</em>
-* `EMPTY` (12831): <em>А., В., И., Н., М., С., П., Ф., Г., К.</em>
+* `Sing` (54039; 99% of non-empty `Number`): <em>Толик, россии, Алёна, Лиза, Мишка, Кузька, Пушкина, Анна, Сибирочка, Мэри</em>
+* `EMPTY` (12814): <em>А., В., И., Н., М., С., П., Ф., Г., К.</em>
 
 <table>
   <tr><th>Paradigm <i>Пушкин</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -239,7 +239,7 @@ The most frequent other feature values with which `PROPN` and `Number` co-occurr
   <tr><td><tt><tt><a href="ru_taiga-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="ru_taiga-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ru_taiga-feat-NameType.html">NameType</a></tt><tt>=Geo</tt></tt></td><td><em>Пушкин</em></td><td></td></tr>
 </table>
 
-`Number` seems to be **lexical feature** of `PROPN`. 98% lemmas (7847) occur only with one value of `Number`.
+`Number` seems to be **lexical feature** of `PROPN`. 98% lemmas (7849) occur only with one value of `Number`.
 
 ### `AUX`
 
@@ -295,12 +295,12 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 
 The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>NOUN --[<tt><a href="ru_taiga-dep-amod.html">amod</a></tt>]--> ADJ</tt> (104901; 98%),
-<tt>NOUN --[<tt><a href="ru_taiga-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (46735; 61%),
-<tt>VERB --[<tt><a href="ru_taiga-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (44646; 94%),
-<tt>NOUN --[<tt><a href="ru_taiga-dep-det.html">det</a></tt>]--> DET</tt> (37383; 84%),
-<tt>VERB --[<tt><a href="ru_taiga-dep-obl.html">obl</a></tt>]--> NOUN</tt> (34370; 53%),
+<tt>NOUN --[<tt><a href="ru_taiga-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (46738; 61%),
+<tt>VERB --[<tt><a href="ru_taiga-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (44648; 94%),
+<tt>NOUN --[<tt><a href="ru_taiga-dep-det.html">det</a></tt>]--> DET</tt> (37370; 84%),
+<tt>VERB --[<tt><a href="ru_taiga-dep-obl.html">obl</a></tt>]--> NOUN</tt> (34371; 53%),
 <tt>VERB --[<tt><a href="ru_taiga-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (31180; 97%),
-<tt>NOUN --[<tt><a href="ru_taiga-dep-conj.html">conj</a></tt>]--> NOUN</tt> (30662; 83%),
+<tt>NOUN --[<tt><a href="ru_taiga-dep-conj.html">conj</a></tt>]--> NOUN</tt> (30664; 83%),
 <tt>VERB --[<tt><a href="ru_taiga-dep-conj.html">conj</a></tt>]--> VERB</tt> (23694; 83%),
 <tt>VERB --[<tt><a href="ru_taiga-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (12032; 91%),
 <tt>ADJ --[<tt><a href="ru_taiga-dep-conj.html">conj</a></tt>]--> ADJ</tt> (10211; 98%).

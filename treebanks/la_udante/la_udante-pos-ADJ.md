@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>prima</em> (<tt><a href="la_udante-po
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 2.030632 (the average of all parts of speech is 2.131437).
+The form / lemma ratio of `ADJ` is 2.030632 (the average of all parts of speech is 2.131634).
 
 The 1st highest number of forms (23) was observed with the lemma “bonus”: <em>bona, bonam, bonas, bone, boni, bonorum, bonos, bonum, bonus, melior, meliora, meliorem, meliori, melioris, melius, optima, optimam, optime, optimi, optimis, optimo, optimum, optimus</em>.
 
@@ -65,8 +65,8 @@ The 3rd highest number of forms (14) was observed with the lemma “dignus”: <
 `ADJ` occurs with 34 feature-value pairs: `Case=Abl`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Nom`, `Case=Voc`, `Compound=Yes`, `Degree=Abs`, `Degree=Abs,Cmp`, `Degree=Cmp`, `Degree=Dim`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `InflClass=IndEurA`, `InflClass=IndEurI`, `InflClass=IndEurO`, `InflClass=IndEurX`, `NameType=Cal`, `NameType=Com`, `NameType=Geo`, `NameType=Giv`, `NameType=Lit`, `NameType=Nat`, `NameType=Rel`, `NameType=Sur`, `NumType=Dist`, `NumType=Ord`, `Number=Plur`, `Number=Sing`, `Polarity=Neg`, `Proper=Yes`, `Variant=Greek`, `VerbForm=Part`
 
 `ADJ` occurs with 411 feature combinations.
-The most frequent feature combination is `Case=Nom|Gender=Fem|InflClass=IndEurA|Number=Sing` (180 tokens).
-Examples: <em>humana, vera, propria, divina, ecentrica, mala, necessaria, nova, concentrica, pia</em>
+The most frequent feature combination is `Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing` (180 tokens).
+Examples: <em>humanum, verum, falsum, necessarium, endecasillabum, proprium, dignum, contrarium, mirum, divinum</em>
 
 
 ## Relations

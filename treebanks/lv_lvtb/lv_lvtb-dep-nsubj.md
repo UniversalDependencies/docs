@@ -18,46 +18,37 @@ The following 70 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 1 nsubj	color:blue
-1	Zinātnieki	zinātnieks	NOUN	ncmpn1	Case=Nom|Gender=Masc|Number=Plur	2	nsubj	2:nsubj	LvtbNodeId=a-c12-p51s2w1
-2	atzīst	atzīt	VERB	vmnipt130an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-c12-p51s2w2|SpaceAfter=No
-3	,	,	PUNCT	zc	_	8	punct	8:punct	LvtbNodeId=a-c12-p51s2w3
-4	ka	ka	SCONJ	cs	_	8	mark	8:mark	LvtbNodeId=a-c12-p51s2w4
-5	šāds	šāds	DET	pd0msnn	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	6	det	6:det	LvtbNodeId=a-c12-p51s2w5
-6	uzturs	uzturs	NOUN	ncmsn1	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	8:nsubj	LvtbNodeId=a-c12-p51s2w6
-7	visiem	viss	DET	pg0mpdn	Case=Dat|Gender=Masc|Number=Plur|PronType=Tot	8	iobj	8:iobj	LvtbNodeId=a-c12-p51s2w7
-8	nāks	nākt	VERB	vmnifi130an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin|Voice=Act	2	ccomp	2:ccomp	LvtbNodeId=a-c12-p51s2w8
-9	tikai	tikai	PART	q	_	11	discourse	11:discourse	LvtbNodeId=a-c12-p51s2w9
-10	par	par	ADP	spsa	_	11	case	11:case	LvtbNodeId=a-c12-p51s2w10
-11	labu	labs	ADJ	afmsanp	Case=Acc|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	8	obl	8:obl:par	LvtbNodeId=a-c12-p51s2w11
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 6 nsubj	color:blue
+1	Un	un	CCONJ	cc	_	5	cc	5:cc	LvtbNodeId=a-p2968-p5s4w1
+2	te	te	ADV	r0n	PronType=Dem	5	advmod	5:advmod	LvtbNodeId=a-p2968-p5s4w2
+3	nu	nu	PART	q	_	5	discourse	5:discourse	LvtbNodeId=a-p2968-p5s4w3
+4	Rokfelleram	Rokfellers	PROPN	npmsd1	Case=Dat|Gender=Masc|Number=Sing	5	obl	5:obl:dat	LvtbNodeId=a-p2968-p5s4w4
+5	pavērās	pavērties	VERB	vmyisi130an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Reflex=Yes|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-p2968-p5s4w5
+6	iespēja	iespēja	NOUN	ncfsn4	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	5:nsubj	LvtbNodeId=a-p2968-p5s4w6|SpaceAfter=No
+7	.	.	PUNCT	zs	_	5	punct	5:punct	LvtbNodeId=a-p2968-p5s4w7
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 13 11 nsubj	color:blue
-1	"	"	PUNCT	zq	_	4	punct	4:punct	LvtbNodeId=a-d119-p273s1w1|SpaceAfter=No
-2	Tur	tur	ADV	r0n	PronType=Dem	4	advmod	4:advmod|6:advmod	LvtbNodeId=a-d119-p273s1w2
-3	kāds	kāds	DET	pi0msnn	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	4	nsubj	4:nsubj|6:nsubj	LvtbNodeId=a-d119-p273s1w3
-4	ir	būt	VERB	vmnipii30an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	13	ccomp	13:ccomp	LvtbNodeId=a-d119-p273s1w4
-5	un	un	CCONJ	cc	_	6	cc	6:cc	LvtbNodeId=a-d119-p273s1w5
-6	nāk	nākt	VERB	vmnipi130an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	4:conj|13:ccomp	LvtbNodeId=a-d119-p273s1w6
-7	tieši	tieši	PART	q	_	8	discourse	8:discourse	LvtbNodeId=a-d119-p273s1w7
-8	šurp	šurp	ADV	r0n	_	6	advmod	6:advmod	LvtbNodeId=a-d119-p273s1w8|SpaceAfter=No
-9	,	,	PUNCT	zc	_	4	punct	4:punct	LvtbNodeId=a-d119-p273s1w9|SpaceAfter=No
-10	"	"	PUNCT	zq	_	4	punct	4:punct	LvtbNodeId=a-d119-p273s1w10
-11	viņa	viņa	PRON	pp3fsnn	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	13	nsubj	13:nsubj	LvtbNodeId=a-d119-p273s1w11
-12	satraukti	satraukti	ADV	rpn	Degree=Pos	13	advmod	13:advmod	LvtbNodeId=a-d119-p273s1w12
-13	iesaucās	iesaukties	VERB	vmyisi130an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Reflex=Yes|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-d119-p273s1w13|SpaceAfter=No
-14	.	.	PUNCT	zs	_	13	punct	13:punct	LvtbNodeId=a-d119-p273s1w14
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 3 nsubj	color:blue
+1	Tieši	tieši	ADV	rpn	Degree=Pos	2	advmod	2:advmod	LvtbNodeId=a-d94-p4s3w1
+2	šorīt	šorīt	ADV	r0n	_	6	advmod	6:advmod	LvtbNodeId=a-d94-p4s3w2
+3	viņš	viņš	PRON	pp3msnn	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	6:nsubj	LvtbNodeId=a-d94-p4s3w3
+4	sevī	sevis	PRON	px000ln	Case=Loc|PronType=Prs|Reflex=Yes	6	iobj	6:iobj	LvtbNodeId=a-d94-p4s3w4
+5	bija	būt	AUX	vcnisii30an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	6	aux	6:aux	LvtbNodeId=a-d94-p4s3w5
+6	sajutis	sajust	VERB	vmnpdmsnasnpn	Aspect=Perf|Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	LvtbNodeId=a-d94-p4s3w6
+7	uzmanības	uzmanība	NOUN	ncfsg4	Case=Gen|Gender=Fem|Number=Sing	8	nmod	8:nmod:gen	LvtbNodeId=a-d94-p4s3w7
+8	nepieciešamību	nepieciešamība	NOUN	ncfsa4	Case=Acc|Gender=Fem|Number=Sing	6	obj	6:obj	LvtbNodeId=a-d94-p4s3w8|SpaceAfter=No
+9	.	.	PUNCT	zs	_	6	punct	6:punct	LvtbNodeId=a-d94-p4s3w9
 
 ~~~
 
@@ -65,12 +56,17 @@ The following 70 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 ~~~ conllu
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 1 nsubj	color:blue
-1	Tia	Tia	PROPN	npfsn4	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	2:nsubj	LvtbNodeId=a-d119-p268s1w1
-2	nopūtās	nopūsties	VERB	vmyist130an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Reflex=Yes|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-d119-p268s1w2|SpaceAfter=No
-3	.	.	PUNCT	zs	_	2	punct	2:punct	LvtbNodeId=a-d119-p268s1w3
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 1 nsubj	color:blue
+1	Džons	Džons	PROPN	npmsn1	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	6:nsubj	LvtbNodeId=a-p2968-p5s1w1
+2	D.	d.	PROPN	yp	Abbr=Yes	1	flat:name	1:flat:name	LvtbNodeId=a-p2968-p5s1w2
+3	Rokfellers	Rokfellers	PROPN	npmsn1	Case=Nom|Gender=Masc|Number=Sing	1	flat:name	1:flat:name	LvtbNodeId=a-p2968-p5s1w3
+4	savas	sava	DET	ps0fsgn	Case=Gen|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	5	det	5:det	LvtbNodeId=a-p2968-p5s1w4
+5	iespējas	iespēja	NOUN	ncfpa4	Case=Acc|Gender=Fem|Number=Plur	6	obj	6:obj	LvtbNodeId=a-p2968-p5s1w5
+6	saskatīja	saskatīt	VERB	vmnist330an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-p2968-p5s1w6
+7	naftā	nafta	NOUN	ncfsl4	Case=Loc|Gender=Fem|Number=Sing	6	obl	6:obl:loc	LvtbNodeId=a-p2968-p5s1w7|SpaceAfter=No
+8	.	.	PUNCT	zs	_	6	punct	6:punct	LvtbNodeId=a-p2968-p5s1w8
 
 ~~~
 

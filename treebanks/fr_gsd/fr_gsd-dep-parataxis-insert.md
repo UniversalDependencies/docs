@@ -7,11 +7,12 @@ udver: '2'
 ## Treebank Statistics: UD_French-GSD: Relations: `parataxis:insert`
 
 This relation is a language-specific subtype of <tt><a href="fr_gsd-dep-parataxis.html">parataxis</a></tt>.
+There are also 1 other language-specific subtypes of `parataxis`: <tt><a href="fr_gsd-dep-parataxis-parenth.html">parataxis:parenth</a></tt>.
 
 183 nodes (0%) are attached to their parents as `parataxis:insert`.
 
 169 instances of `parataxis:insert` (92%) are left-to-right (parent precedes child).
-Average distance between parent and child is 17.2295081967213.
+Average distance between parent and child is 17.207650273224.
 
 The following 7 pairs of parts of speech are connected with `parataxis:insert`: <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> (134; 73% instances), <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> (23; 13% instances), <tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> (22; 12% instances), <tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="fr_gsd-pos-X.html">X</a></tt>-<tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> (1; 1% instances).
 
@@ -31,7 +32,7 @@ The following 7 pairs of parts of speech are connected with `parataxis:insert`: 
 7	,	,	PUNCT	_	_	10	punct	_	_
 8	avait	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	10	aux:tense	_	SpaceAfter=No
 9	-il	lui	PRON	_	Case=Nom|Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	wordform=il
-10	déclaré	déclarer	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	2	parataxis:insert	_	SpaceAfter=No|Tense[denom]=Past
+10	déclaré	déclarer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	2	parataxis:insert	_	SpaceAfter=No|Status[Tense]=Denom
 11	.	.	PUNCT	_	_	2	punct	_	_
 
 ~~~
@@ -52,7 +53,7 @@ The following 7 pairs of parts of speech are connected with `parataxis:insert`: 
 7	,	,	PUNCT	_	_	10	punct	_	_
 8	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux:tense	_	SpaceAfter=No
 9	-t-elle	lui	PRON	_	Emph=No|Gender=Fem|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	wordform=elle
-10	soutenu	soutenir	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	4	parataxis:insert	_	SpaceAfter=No|Tense[denom]=Past
+10	soutenu	soutenir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	4	parataxis:insert	_	SpaceAfter=No|Status[Tense]=Denom
 11	.	.	PUNCT	_	_	4	punct	_	_
 
 ~~~

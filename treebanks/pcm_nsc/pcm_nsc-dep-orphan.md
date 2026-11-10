@@ -22,51 +22,51 @@ The following 2 pairs of parts of speech are connected with `orphan`: <tt><a hre
 # visual-style 35	bgColor:blue
 # visual-style 35	fgColor:white
 # visual-style 35 38 orphan	color:blue
-1	#	#	PUNCT	_	_	2	punct	_	AlignBegin=351280|AlignEnd=352060|Gloss=PUNCT
-2	buy	buy	VERB	_	_	0	root	_	AlignBegin=352060|AlignEnd=352320|Gloss=buy
-3	#	#	PUNCT	_	_	6	punct	_	AlignBegin=352320|AlignEnd=352540|Gloss=PUNCT
-4	{	{	PUNCT	_	_	6	punct	_	AlignBegin=352540|AlignEnd=352540|Gloss=PUNCT
-5	dis	dis	DET	_	Number=Sing|PronType=Dem	6	det	_	AlignBegin=352540|AlignEnd=352790|Gloss=SG.DEM
-6	kashi	kashi	NOUN	_	_	2	obj	_	AlignBegin=352790|AlignEnd=353240|Gloss=lot
-7	#	#	PUNCT	_	_	14	punct	_	AlignBegin=353240|AlignEnd=354000|Gloss=PUNCT
-8	{	{	PUNCT	_	_	14	punct	_	AlignBegin=353970|AlignEnd=354000|Gloss=PUNCT
-9	{	{	PUNCT	_	_	12	punct	_	AlignBegin=353970|AlignEnd=354000|Gloss=PUNCT
-10	o~	X	NUM	_	_	12	reparandum	_	AlignBegin=354000|AlignEnd=354291|Gloss=X
-11	||	||	PUNCT	_	_	10	punct	_	AlignBegin=354291|AlignEnd=354291|Gloss=PUNCT
-12	hundred	hundred	NUM	_	NumType=Card	14	nummod	_	AlignBegin=354291|AlignEnd=354690|Gloss=hundred.CARD
-13	}	}	PUNCT	_	_	12	punct	_	AlignBegin=354690|AlignEnd=354690|Gloss=PUNCT
-14	naira	naira	NOUN	_	_	2	xcomp	_	AlignBegin=354690|AlignEnd=355010|Gloss=naira
-15	|c	|c	PUNCT	_	_	17	punct	_	AlignBegin=355010|AlignEnd=355010|Gloss=PUNCT
-16	{	{	PUNCT	_	_	17	punct	_	AlignBegin=354980|AlignEnd=355010|Gloss=PUNCT
-17	two	two	NUM	_	NumType=Card	14	conj	_	AlignBegin=355010|AlignEnd=355297|Gloss=two.CARD
-18	||	||	PUNCT	_	_	19	punct	_	AlignBegin=355297|AlignEnd=355297|Gloss=PUNCT
-19	two	two	NUM	_	NumType=Card	17	compound:redup	_	AlignBegin=355297|AlignEnd=355510|Gloss=two.CARD
-20	}	}	PUNCT	_	_	19	punct	_	AlignBegin=355510|AlignEnd=355510|Gloss=PUNCT
-21	hundred	hundred	NUM	_	NumType=Card	19	flat	_	AlignBegin=355510|AlignEnd=355900|Gloss=hundred.CARD
-22	}	}	PUNCT	_	_	14	punct	_	AlignBegin=355900|AlignEnd=355937|Gloss=PUNCT
-23	#	#	PUNCT	_	_	27	punct	_	AlignBegin=355900|AlignEnd=356400|Gloss=PUNCT
-24	|c	|c	PUNCT	_	_	27	punct	_	AlignBegin=356365|AlignEnd=356400|Gloss=PUNCT
-25	di	di	DET	_	Definite=Def|PronType=Art	27	det	_	AlignBegin=356400|AlignEnd=356786|Gloss=DEF.ART
-26	garden	garden	NOUN	_	_	27	compound	_	AlignBegin=356786|AlignEnd=357251|Gloss=garden
-27	egg	egg	NOUN	_	_	6	conj	_	AlignBegin=357251|AlignEnd=357431|Gloss=egg
-28	fifty	fifty	NUM	_	NumType=Card	29	nummod	_	AlignBegin=357431|AlignEnd=357899|Gloss=fifty.CARD
-29	naira	naira	NOUN	_	_	27	orphan	_	AlignBegin=357899|AlignEnd=358300|Gloss=naira
-30	#	#	PUNCT	_	_	35	punct	_	AlignBegin=358300|AlignEnd=358720|Gloss=PUNCT
-31	|c	|c	PUNCT	_	_	35	punct	_	AlignBegin=358664|AlignEnd=358720|Gloss=PUNCT
-32	{	{	PUNCT	_	_	35	punct	_	AlignBegin=358664|AlignEnd=358720|Gloss=PUNCT
-33	hip~	X	X	_	_	35	reparandum	_	AlignBegin=358720|AlignEnd=359010|Gloss=X
-34	||	||	PUNCT	_	_	33	punct	_	AlignBegin=359010|AlignEnd=359010|Gloss=PUNCT
-35	spinach	spinach	NOUN	_	_	6	conj	_	AlignBegin=359010|AlignEnd=359619|Gloss=spinach
-36	}	}	PUNCT	_	_	35	punct	_	AlignBegin=359619|AlignEnd=359619|Gloss=PUNCT
-37	fifty	fifty	NUM	_	NumType=Card	38	nummod	_	AlignBegin=359619|AlignEnd=359950|Gloss=fifty.CARD
-38	naira	naira	NOUN	_	_	35	orphan	_	AlignBegin=359950|AlignEnd=360380|Gloss=naira
-39	#	#	PUNCT	_	_	43	punct	_	AlignBegin=360380|AlignEnd=360620|Gloss=PUNCT
-40	|c	|c	PUNCT	_	_	43	punct	_	AlignBegin=360590|AlignEnd=360620|Gloss=PUNCT
-41	di	di	DET	_	Definite=Def|PronType=Art	43	det	_	AlignBegin=360620|AlignEnd=360728|Gloss=DEF.ART
-42	oder	oder	ADJ	_	_	43	amod	_	AlignBegin=360728|AlignEnd=360970|Gloss=other
-43	leaves	leaves	NOUN	_	_	6	conj	_	AlignBegin=360970|AlignEnd=361280|Gloss=leaves
-44	}	}	PUNCT	_	_	43	punct	_	AlignBegin=361280|AlignEnd=361280|Gloss=PUNCT
-45	//	//	PUNCT	_	_	2	punct	_	AlignBegin=361250|AlignEnd=361280|Gloss=PUNCT
+1	#	#	PUNCT	_	_	2	punct	_	Gloss=PUNCT|WordAlignmentBegin=351280|WordAlignmentEnd=352060
+2	buy	buy	VERB	_	_	0	root	_	Gloss=buy|WordAlignmentBegin=352060|WordAlignmentEnd=352320
+3	#	#	PUNCT	_	_	6	punct	_	Gloss=PUNCT|WordAlignmentBegin=352320|WordAlignmentEnd=352540
+4	{	{	PUNCT	_	_	6	punct	_	Gloss=PUNCT|WordAlignmentBegin=352540|WordAlignmentEnd=352540
+5	dis	dis	DET	_	Number=Sing|PronType=Dem	6	det	_	Gloss=SG.DEM|WordAlignmentBegin=352540|WordAlignmentEnd=352790
+6	kashi	kashi	NOUN	_	_	2	obj	_	Gloss=lot|WordAlignmentBegin=352790|WordAlignmentEnd=353240
+7	#	#	PUNCT	_	_	14	punct	_	Gloss=PUNCT|WordAlignmentBegin=353240|WordAlignmentEnd=354000
+8	{	{	PUNCT	_	_	14	punct	_	Gloss=PUNCT|WordAlignmentBegin=353970|WordAlignmentEnd=354000
+9	{	{	PUNCT	_	_	12	punct	_	Gloss=PUNCT|WordAlignmentBegin=353970|WordAlignmentEnd=354000
+10	o~	X	NUM	_	_	12	reparandum	_	Gloss=X|WordAlignmentBegin=354000|WordAlignmentEnd=354291
+11	||	||	PUNCT	_	_	10	punct	_	Gloss=PUNCT|WordAlignmentBegin=354291|WordAlignmentEnd=354291
+12	hundred	hundred	NUM	_	NumType=Card	14	nummod	_	Gloss=hundred.CARD|WordAlignmentBegin=354291|WordAlignmentEnd=354690
+13	}	}	PUNCT	_	_	12	punct	_	Gloss=PUNCT|WordAlignmentBegin=354690|WordAlignmentEnd=354690
+14	naira	naira	NOUN	_	_	2	xcomp	_	Gloss=naira|WordAlignmentBegin=354690|WordAlignmentEnd=355010
+15	|c	|c	PUNCT	_	_	17	punct	_	Gloss=PUNCT|WordAlignmentBegin=355010|WordAlignmentEnd=355010
+16	{	{	PUNCT	_	_	17	punct	_	Gloss=PUNCT|WordAlignmentBegin=354980|WordAlignmentEnd=355010
+17	two	two	NUM	_	NumType=Card	14	conj	_	Gloss=two.CARD|WordAlignmentBegin=355010|WordAlignmentEnd=355297
+18	||	||	PUNCT	_	_	19	punct	_	Gloss=PUNCT|WordAlignmentBegin=355297|WordAlignmentEnd=355297
+19	two	two	NUM	_	NumType=Card	17	compound:redup	_	Gloss=two.CARD|WordAlignmentBegin=355297|WordAlignmentEnd=355510
+20	}	}	PUNCT	_	_	19	punct	_	Gloss=PUNCT|WordAlignmentBegin=355510|WordAlignmentEnd=355510
+21	hundred	hundred	NUM	_	NumType=Card	19	flat	_	Gloss=hundred.CARD|WordAlignmentBegin=355510|WordAlignmentEnd=355900
+22	}	}	PUNCT	_	_	14	punct	_	Gloss=PUNCT|WordAlignmentBegin=355900|WordAlignmentEnd=355937
+23	#	#	PUNCT	_	_	27	punct	_	Gloss=PUNCT|WordAlignmentBegin=355900|WordAlignmentEnd=356400
+24	|c	|c	PUNCT	_	_	27	punct	_	Gloss=PUNCT|WordAlignmentBegin=356365|WordAlignmentEnd=356400
+25	di	di	DET	_	Definite=Def|PronType=Art	27	det	_	Gloss=DEF.ART|WordAlignmentBegin=356400|WordAlignmentEnd=356786
+26	garden	garden	NOUN	_	_	27	compound	_	Gloss=garden|WordAlignmentBegin=356786|WordAlignmentEnd=357251
+27	egg	egg	NOUN	_	_	6	conj	_	Gloss=egg|WordAlignmentBegin=357251|WordAlignmentEnd=357431
+28	fifty	fifty	NUM	_	NumType=Card	29	nummod	_	Gloss=fifty.CARD|WordAlignmentBegin=357431|WordAlignmentEnd=357899
+29	naira	naira	NOUN	_	_	27	orphan	_	Gloss=naira|WordAlignmentBegin=357899|WordAlignmentEnd=358300
+30	#	#	PUNCT	_	_	35	punct	_	Gloss=PUNCT|WordAlignmentBegin=358300|WordAlignmentEnd=358720
+31	|c	|c	PUNCT	_	_	35	punct	_	Gloss=PUNCT|WordAlignmentBegin=358664|WordAlignmentEnd=358720
+32	{	{	PUNCT	_	_	35	punct	_	Gloss=PUNCT|WordAlignmentBegin=358664|WordAlignmentEnd=358720
+33	hip~	X	X	_	_	35	reparandum	_	Gloss=X|WordAlignmentBegin=358720|WordAlignmentEnd=359010
+34	||	||	PUNCT	_	_	33	punct	_	Gloss=PUNCT|WordAlignmentBegin=359010|WordAlignmentEnd=359010
+35	spinach	spinach	NOUN	_	_	6	conj	_	Gloss=spinach|WordAlignmentBegin=359010|WordAlignmentEnd=359619
+36	}	}	PUNCT	_	_	35	punct	_	Gloss=PUNCT|WordAlignmentBegin=359619|WordAlignmentEnd=359619
+37	fifty	fifty	NUM	_	NumType=Card	38	nummod	_	Gloss=fifty.CARD|WordAlignmentBegin=359619|WordAlignmentEnd=359950
+38	naira	naira	NOUN	_	_	35	orphan	_	Gloss=naira|WordAlignmentBegin=359950|WordAlignmentEnd=360380
+39	#	#	PUNCT	_	_	43	punct	_	Gloss=PUNCT|WordAlignmentBegin=360380|WordAlignmentEnd=360620
+40	|c	|c	PUNCT	_	_	43	punct	_	Gloss=PUNCT|WordAlignmentBegin=360590|WordAlignmentEnd=360620
+41	di	di	DET	_	Definite=Def|PronType=Art	43	det	_	Gloss=DEF.ART|WordAlignmentBegin=360620|WordAlignmentEnd=360728
+42	oder	oder	ADJ	_	_	43	amod	_	Gloss=other|WordAlignmentBegin=360728|WordAlignmentEnd=360970
+43	leaves	leaves	NOUN	_	_	6	conj	_	Gloss=leaves|WordAlignmentBegin=360970|WordAlignmentEnd=361280
+44	}	}	PUNCT	_	_	43	punct	_	Gloss=PUNCT|WordAlignmentBegin=361280|WordAlignmentEnd=361280
+45	//	//	PUNCT	_	_	2	punct	_	Gloss=PUNCT|WordAlignmentBegin=361250|WordAlignmentEnd=361280
 
 ~~~
 
@@ -77,12 +77,12 @@ The following 2 pairs of parts of speech are connected with `orphan`: <tt><a hre
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 5 orphan	color:blue
-1	ehn	ehn	INTJ	_	_	4	discourse	_	AlignBegin=379080|AlignEnd=379404|Gloss=ehn
-2	tomorrow	tomorrow	NOUN	_	_	4	nsubj	_	AlignBegin=379404|AlignEnd=379728|Gloss=tomorrow
-3	na	na	AUX	_	PartType=Cop	4	cop	_	AlignBegin=379728|AlignEnd=380052|Gloss=be1
-4	Val	Val	PROPN	_	_	0	root	_	AlignBegin=380052|AlignEnd=380376|Gloss=Valentine_Day
-5	but	but	CCONJ	_	_	4	orphan	_	AlignBegin=380376|AlignEnd=380700|Gloss=but
-6	&//	&//	PUNCT	_	_	4	punct	_	AlignBegin=380700|AlignEnd=380700|Gloss=PUNCT
+1	ehn	ehn	INTJ	_	_	4	discourse	_	Gloss=ehn|WordAlignmentBegin=379080|WordAlignmentEnd=379404
+2	tomorrow	tomorrow	NOUN	_	_	4	nsubj	_	Gloss=tomorrow|WordAlignmentBegin=379404|WordAlignmentEnd=379728
+3	na	na	AUX	_	PartType=Cop	4	cop	_	Gloss=be1|WordAlignmentBegin=379728|WordAlignmentEnd=380052
+4	Val	Val	PROPN	_	_	0	root	_	Gloss=Valentine_Day|WordAlignmentBegin=380052|WordAlignmentEnd=380376
+5	but	but	CCONJ	_	_	4	orphan	_	Gloss=but|WordAlignmentBegin=380376|WordAlignmentEnd=380700
+6	&//	&//	PUNCT	_	_	4	punct	_	Gloss=PUNCT|WordAlignmentBegin=380700|WordAlignmentEnd=380700
 
 ~~~
 

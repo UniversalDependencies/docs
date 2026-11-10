@@ -11,10 +11,10 @@ There are 1 language-specific subtypes of `acl`: <tt><a href="it_old-dep-acl-rel
 
 690 nodes (1%) are attached to their parents as `acl`.
 
-489 instances of `acl` (71%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.41449275362319.
+490 instances of `acl` (71%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.40144927536232.
 
-The following 12 pairs of parts of speech are connected with `acl`: <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-VERB.html">VERB</a></tt> (604; 88% instances), <tt><a href="it_old-pos-PRON.html">PRON</a></tt>-<tt><a href="it_old-pos-VERB.html">VERB</a></tt> (24; 3% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-VERB.html">VERB</a></tt> (22; 3% instances), <tt><a href="it_old-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_old-pos-VERB.html">VERB</a></tt> (20; 3% instances), <tt><a href="it_old-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_old-pos-VERB.html">VERB</a></tt> (5; 1% instances), <tt><a href="it_old-pos-DET.html">DET</a></tt>-<tt><a href="it_old-pos-VERB.html">VERB</a></tt> (4; 1% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="it_old-pos-NUM.html">NUM</a></tt>-<tt><a href="it_old-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="it_old-pos-PRON.html">PRON</a></tt>-<tt><a href="it_old-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
+The following 13 pairs of parts of speech are connected with `acl`: <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-VERB.html">VERB</a></tt> (603; 87% instances), <tt><a href="it_old-pos-PRON.html">PRON</a></tt>-<tt><a href="it_old-pos-VERB.html">VERB</a></tt> (24; 3% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-VERB.html">VERB</a></tt> (22; 3% instances), <tt><a href="it_old-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_old-pos-VERB.html">VERB</a></tt> (20; 3% instances), <tt><a href="it_old-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_old-pos-VERB.html">VERB</a></tt> (5; 1% instances), <tt><a href="it_old-pos-DET.html">DET</a></tt>-<tt><a href="it_old-pos-VERB.html">VERB</a></tt> (4; 1% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="it_old-pos-NUM.html">NUM</a></tt>-<tt><a href="it_old-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="it_old-pos-PRON.html">PRON</a></tt>-<tt><a href="it_old-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="it_old-pos-PRON.html">PRON</a></tt>-<tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -51,7 +51,7 @@ The following 12 pairs of parts of speech are connected with `acl`: <tt><a href=
 9	da	da	ADP	epska	_	10	case	10:case	Canto=2|Verso=98|UniqueTokenId=OldItalian_Dante_Paradiso-58_9
 10	te	te	PRON	pp2slco	Person=2|Poss=Yes|PronType=Prs	8	obl:lmod	8:obl:lmod	Canto=2|Verso=98|UniqueTokenId=OldItalian_Dante_Paradiso-58_10
 11	d'	di	ADP	_	_	13	case	13:case	UniqueTokenId=OldItalian_Dante_Paradiso-58_11
-12	un	un	DET	_	Gender=Masc|Number=Sing	13	det	13:det	UniqueTokenId=OldItalian_Dante_Paradiso-58_12
+12	un	un	DET	_	Gender=Masc|Number=Sing|PronType=Art	13	det	13:det	UniqueTokenId=OldItalian_Dante_Paradiso-58_12
 13	modo	modo	NOUN	_	Gender=Masc|Number=Sing	8	obl	8:obl	SpaceAfter=No|UniqueTokenId=OldItalian_Dante_Paradiso-58_13
 14	,	,	PUNCT	_	_	29	punct	29:punct	UniqueTokenId=OldItalian_Dante_Paradiso-58_14
 15	e	e	CCONJ	cscc	_	29	cc	29:cc	Canto=2|Verso=98|UniqueTokenId=OldItalian_Dante_Paradiso-58_15

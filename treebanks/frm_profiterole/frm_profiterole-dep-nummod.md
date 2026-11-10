@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-523 nodes (0%) are attached to their parents as `nummod`.
+678 nodes (0%) are attached to their parents as `nummod`.
 
-515 instances of `nummod` (98%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.46653919694073.
+667 instances of `nummod` (98%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.41445427728614.
 
-The following 6 pairs of parts of speech are connected with `nummod`: <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-NUM.html">NUM</a></tt> (499; 95% instances), <tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="frm_profiterole-pos-NUM.html">NUM</a></tt> (14; 3% instances), <tt><a href="frm_profiterole-pos-NUM.html">NUM</a></tt>-<tt><a href="frm_profiterole-pos-NUM.html">NUM</a></tt> (5; 1% instances), <tt><a href="frm_profiterole-pos-PROPN.html">PROPN</a></tt>-<tt><a href="frm_profiterole-pos-NUM.html">NUM</a></tt> (3; 1% instances), <tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="frm_profiterole-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 6 pairs of parts of speech are connected with `nummod`: <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-NUM.html">NUM</a></tt> (653; 96% instances), <tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="frm_profiterole-pos-NUM.html">NUM</a></tt> (15; 2% instances), <tt><a href="frm_profiterole-pos-NUM.html">NUM</a></tt>-<tt><a href="frm_profiterole-pos-NUM.html">NUM</a></tt> (5; 1% instances), <tt><a href="frm_profiterole-pos-PROPN.html">PROPN</a></tt>-<tt><a href="frm_profiterole-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="frm_profiterole-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

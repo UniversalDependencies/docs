@@ -28,7 +28,7 @@ The following 15 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 4	,	,	PUNCT	Z:-------------	_	7	punct	7:punct	_
 5	kteří	který	DET	P4MP1----------	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur|PronType=Int,Rel	7	nsubj	3:ref	_
 6	toho	ten	DET	PDZS2----------	Case=Gen|Gender=Masc,Neut|Number=Sing|PronType=Dem	8	nmod	8:nmod:gen	_
-7	chtějí	chtít	VERB	VB-P---3P-AA---	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	3	acl:relcl	3:acl:relcl	_
+7	chtějí	chtít	VERB	VB-P---3P-AA---	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	3	acl:relcl	3:acl:relcl	_
 8	spoustu	spousta	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing	9	obj	9:obj	_
 9	udělat	udělat	VERB	Vf--------A----	Aspect=Perf|Polarity=Pos|VerbForm=Inf	7	xcomp	7:xcomp	SpaceAfter=No
 10	.	.	PUNCT	Z:-------------	_	1	punct	2:punct	_

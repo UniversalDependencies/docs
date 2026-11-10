@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_English-EWT: POS Tags: `PROPN`
 
-There are 5123 `PROPN` lemmas (28%), 5340 `PROPN` types (24%) and 16562 `PROPN` tokens (6%).
+There are 5125 `PROPN` lemmas (28%), 5343 `PROPN` types (24%) and 16571 `PROPN` tokens (7%).
 Out of 17 observed tags, the rank of `PROPN` is: 2 in number of lemmas, 2 in number of types and 8 in number of tokens.
 
 The 10 most frequent `PROPN` lemmas: <em>Bush, US, al, Iraq, enron, State, Iran, China, September, Qaeda</em>
@@ -56,7 +56,7 @@ The 10 most frequent ambiguous types:  <em>al</em> (<tt><a href="en_ewt-pos-PROP
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.042358 (the average of all parts of speech is 1.250484).
+The form / lemma ratio of `PROPN` is 1.042537 (the average of all parts of speech is 1.251287).
 
 The 1st highest number of forms (5) was observed with the lemma “Wednesday”: <em>WENSDAY, Wed, Wed., Wednesday, Wednesday's</em>.
 
@@ -64,22 +64,22 @@ The 2nd highest number of forms (4) was observed with the lemma “February”: 
 
 The 3rd highest number of forms (4) was observed with the lemma “Friday”: <em>Fri, Fri., Fridays, friday</em>.
 
-`PROPN` occurs with 5 features: <tt><a href="en_ewt-feat-Number.html">Number</a></tt> (16087; 97% instances), <tt><a href="en_ewt-feat-Abbr.html">Abbr</a></tt> (126; 1% instances), <tt><a href="en_ewt-feat-Typo.html">Typo</a></tt> (117; 1% instances), <tt><a href="en_ewt-feat-Style.html">Style</a></tt> (2; 0% instances), <tt><a href="en_ewt-feat-ExtPos.html">ExtPos</a></tt> (1; 0% instances)
+`PROPN` occurs with 5 features: <tt><a href="en_ewt-feat-Number.html">Number</a></tt> (16571; 100% instances), <tt><a href="en_ewt-feat-Abbr.html">Abbr</a></tt> (126; 1% instances), <tt><a href="en_ewt-feat-Typo.html">Typo</a></tt> (118; 1% instances), <tt><a href="en_ewt-feat-Style.html">Style</a></tt> (2; 0% instances), <tt><a href="en_ewt-feat-ExtPos.html">ExtPos</a></tt> (1; 0% instances)
 
 `PROPN` occurs with 7 feature-value pairs: `Abbr=Yes`, `ExtPos=PROPN`, `Number=Plur`, `Number=Ptan`, `Number=Sing`, `Style=Expr`, `Typo=Yes`
 
-`PROPN` occurs with 11 feature combinations.
-The most frequent feature combination is `Number=Sing` (15176 tokens).
+`PROPN` occurs with 9 feature combinations.
+The most frequent feature combination is `Number=Sing` (15604 tokens).
 Examples: <em>bush, US, al, Iraq, enron, Iran, China, Qaeda, John, india</em>
 
 
 ## Relations
 
-`PROPN` nodes are attached to their parents using 28 different relations: <tt><a href="en_ewt-dep-compound.html">compound</a></tt> (2986; 18% instances), <tt><a href="en_ewt-dep-nsubj.html">nsubj</a></tt> (1976; 12% instances), <tt><a href="en_ewt-dep-nmod.html">nmod</a></tt> (1958; 12% instances), <tt><a href="en_ewt-dep-flat.html">flat</a></tt> (1878; 11% instances), <tt><a href="en_ewt-dep-root.html">root</a></tt> (1626; 10% instances), <tt><a href="en_ewt-dep-obl.html">obl</a></tt> (1611; 10% instances), <tt><a href="en_ewt-dep-conj.html">conj</a></tt> (1025; 6% instances), <tt><a href="en_ewt-dep-obj.html">obj</a></tt> (625; 4% instances), <tt><a href="en_ewt-dep-nmod-unmarked.html">nmod:unmarked</a></tt> (518; 3% instances), <tt><a href="en_ewt-dep-nmod-poss.html">nmod:poss</a></tt> (482; 3% instances), <tt><a href="en_ewt-dep-appos.html">appos</a></tt> (469; 3% instances), <tt><a href="en_ewt-dep-nmod-desc.html">nmod:desc</a></tt> (352; 2% instances), <tt><a href="en_ewt-dep-list.html">list</a></tt> (299; 2% instances), <tt><a href="en_ewt-dep-obl-agent.html">obl:agent</a></tt> (140; 1% instances), <tt><a href="en_ewt-dep-vocative.html">vocative</a></tt> (134; 1% instances), <tt><a href="en_ewt-dep-nsubj-pass.html">nsubj:pass</a></tt> (124; 1% instances), <tt><a href="en_ewt-dep-iobj.html">iobj</a></tt> (77; 0% instances), <tt><a href="en_ewt-dep-parataxis.html">parataxis</a></tt> (73; 0% instances), <tt><a href="en_ewt-dep-xcomp.html">xcomp</a></tt> (66; 0% instances), <tt><a href="en_ewt-dep-obl-unmarked.html">obl:unmarked</a></tt> (65; 0% instances), <tt><a href="en_ewt-dep-ccomp.html">ccomp</a></tt> (31; 0% instances), <tt><a href="en_ewt-dep-advcl.html">advcl</a></tt> (27; 0% instances), <tt><a href="en_ewt-dep-acl-relcl.html">acl:relcl</a></tt> (8; 0% instances), <tt><a href="en_ewt-dep-acl.html">acl</a></tt> (4; 0% instances), <tt><a href="en_ewt-dep-discourse.html">discourse</a></tt> (3; 0% instances), <tt><a href="en_ewt-dep-csubj.html">csubj</a></tt> (2; 0% instances), <tt><a href="en_ewt-dep-reparandum.html">reparandum</a></tt> (2; 0% instances), <tt><a href="en_ewt-dep-amod.html">amod</a></tt> (1; 0% instances)
+`PROPN` nodes are attached to their parents using 28 different relations: <tt><a href="en_ewt-dep-compound.html">compound</a></tt> (2986; 18% instances), <tt><a href="en_ewt-dep-nsubj.html">nsubj</a></tt> (1968; 12% instances), <tt><a href="en_ewt-dep-nmod.html">nmod</a></tt> (1958; 12% instances), <tt><a href="en_ewt-dep-flat.html">flat</a></tt> (1878; 11% instances), <tt><a href="en_ewt-dep-root.html">root</a></tt> (1626; 10% instances), <tt><a href="en_ewt-dep-obl.html">obl</a></tt> (1611; 10% instances), <tt><a href="en_ewt-dep-conj.html">conj</a></tt> (1025; 6% instances), <tt><a href="en_ewt-dep-obj.html">obj</a></tt> (625; 4% instances), <tt><a href="en_ewt-dep-nmod-unmarked.html">nmod:unmarked</a></tt> (527; 3% instances), <tt><a href="en_ewt-dep-nmod-poss.html">nmod:poss</a></tt> (482; 3% instances), <tt><a href="en_ewt-dep-appos.html">appos</a></tt> (469; 3% instances), <tt><a href="en_ewt-dep-nmod-desc.html">nmod:desc</a></tt> (352; 2% instances), <tt><a href="en_ewt-dep-list.html">list</a></tt> (299; 2% instances), <tt><a href="en_ewt-dep-vocative.html">vocative</a></tt> (142; 1% instances), <tt><a href="en_ewt-dep-obl-agent.html">obl:agent</a></tt> (140; 1% instances), <tt><a href="en_ewt-dep-nsubj-pass.html">nsubj:pass</a></tt> (124; 1% instances), <tt><a href="en_ewt-dep-iobj.html">iobj</a></tt> (77; 0% instances), <tt><a href="en_ewt-dep-parataxis.html">parataxis</a></tt> (73; 0% instances), <tt><a href="en_ewt-dep-xcomp.html">xcomp</a></tt> (66; 0% instances), <tt><a href="en_ewt-dep-obl-unmarked.html">obl:unmarked</a></tt> (65; 0% instances), <tt><a href="en_ewt-dep-ccomp.html">ccomp</a></tt> (31; 0% instances), <tt><a href="en_ewt-dep-advcl.html">advcl</a></tt> (27; 0% instances), <tt><a href="en_ewt-dep-acl-relcl.html">acl:relcl</a></tt> (8; 0% instances), <tt><a href="en_ewt-dep-acl.html">acl</a></tt> (4; 0% instances), <tt><a href="en_ewt-dep-discourse.html">discourse</a></tt> (3; 0% instances), <tt><a href="en_ewt-dep-csubj.html">csubj</a></tt> (2; 0% instances), <tt><a href="en_ewt-dep-reparandum.html">reparandum</a></tt> (2; 0% instances), <tt><a href="en_ewt-dep-amod.html">amod</a></tt> (1; 0% instances)
 
-Parents of `PROPN` nodes belong to 13 different parts of speech: <tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt> (5814; 35% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> (4143; 25% instances), <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (4007; 24% instances),  (1626; 10% instances), <tt><a href="en_ewt-pos-NUM.html">NUM</a></tt> (371; 2% instances), <tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt> (366; 2% instances), <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> (99; 1% instances), <tt><a href="en_ewt-pos-PRON.html">PRON</a></tt> (76; 0% instances), <tt><a href="en_ewt-pos-AUX.html">AUX</a></tt> (19; 0% instances), <tt><a href="en_ewt-pos-INTJ.html">INTJ</a></tt> (18; 0% instances), <tt><a href="en_ewt-pos-SYM.html">SYM</a></tt> (14; 0% instances), <tt><a href="en_ewt-pos-DET.html">DET</a></tt> (8; 0% instances), <tt><a href="en_ewt-pos-ADP.html">ADP</a></tt> (1; 0% instances)
+Parents of `PROPN` nodes belong to 13 different parts of speech: <tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt> (5814; 35% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> (4143; 25% instances), <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (4007; 24% instances),  (1626; 10% instances), <tt><a href="en_ewt-pos-NUM.html">NUM</a></tt> (380; 2% instances), <tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt> (366; 2% instances), <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> (99; 1% instances), <tt><a href="en_ewt-pos-PRON.html">PRON</a></tt> (76; 0% instances), <tt><a href="en_ewt-pos-AUX.html">AUX</a></tt> (19; 0% instances), <tt><a href="en_ewt-pos-INTJ.html">INTJ</a></tt> (18; 0% instances), <tt><a href="en_ewt-pos-SYM.html">SYM</a></tt> (14; 0% instances), <tt><a href="en_ewt-pos-DET.html">DET</a></tt> (8; 0% instances), <tt><a href="en_ewt-pos-ADP.html">ADP</a></tt> (1; 0% instances)
 
-6712 (41%) `PROPN` nodes are leaves.
+6721 (41%) `PROPN` nodes are leaves.
 
 4965 (30%) `PROPN` nodes have one child.
 

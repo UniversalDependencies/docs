@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.11 release
 The following people have contributed to making this treebank part of UD: Olga Lyashevskaya, Dmitri Sitchinava, Maria Shvedova.
 
 Repository: [UD_Old_East_Slavic-Ruthenian](https://github.com/UniversalDependencies/UD_Old_East_Slavic-Ruthenian)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udorv_ruthenian218)<br />
-Download all treebanks: [UD 2.18](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udorv_ruthenian219)<br />
+Download all treebanks: [UD 2.19](/#download)
 
 License: CC BY-SA 4.0
 
@@ -70,7 +70,7 @@ We are grateful to Maria Ermolova, Vladimir Shatin, Natalia Iordani, Oksana Nika
 
 ## Relations
 
-[acl](orv_ruthenian-dep-acl.html) – [acl:relcl](orv_ruthenian-dep-acl-relcl.html) – [advcl](orv_ruthenian-dep-advcl.html) – [advmod](orv_ruthenian-dep-advmod.html) – [amod](orv_ruthenian-dep-amod.html) – [appos](orv_ruthenian-dep-appos.html) – [aux](orv_ruthenian-dep-aux.html) – [aux:pass](orv_ruthenian-dep-aux-pass.html) – [case](orv_ruthenian-dep-case.html) – [cc](orv_ruthenian-dep-cc.html) – [ccomp](orv_ruthenian-dep-ccomp.html) – [compound](orv_ruthenian-dep-compound.html) – [conj](orv_ruthenian-dep-conj.html) – [cop](orv_ruthenian-dep-cop.html) – [csubj](orv_ruthenian-dep-csubj.html) – [csubj:pass](orv_ruthenian-dep-csubj-pass.html) – [dep](orv_ruthenian-dep-dep.html) – [det](orv_ruthenian-dep-det.html) – [discourse](orv_ruthenian-dep-discourse.html) – [dislocated](orv_ruthenian-dep-dislocated.html) – [expl](orv_ruthenian-dep-expl.html) – [expl:pv](orv_ruthenian-dep-expl-pv.html) – [fixed](orv_ruthenian-dep-fixed.html) – [flat](orv_ruthenian-dep-flat.html) – [flat:foreign](orv_ruthenian-dep-flat-foreign.html) – [flat:name](orv_ruthenian-dep-flat-name.html) – [goeswith](orv_ruthenian-dep-goeswith.html) – [iobj](orv_ruthenian-dep-iobj.html) – [list](orv_ruthenian-dep-list.html) – [mark](orv_ruthenian-dep-mark.html) – [nmod](orv_ruthenian-dep-nmod.html) – [nsubj](orv_ruthenian-dep-nsubj.html) – [nsubj:outer](orv_ruthenian-dep-nsubj-outer.html) – [nsubj:pass](orv_ruthenian-dep-nsubj-pass.html) – [nummod](orv_ruthenian-dep-nummod.html) – [nummod:gov](orv_ruthenian-dep-nummod-gov.html) – [obj](orv_ruthenian-dep-obj.html) – [obl](orv_ruthenian-dep-obl.html) – [obl:agent](orv_ruthenian-dep-obl-agent.html) – [obl:depict](orv_ruthenian-dep-obl-depict.html) – [obl:float](orv_ruthenian-dep-obl-float.html) – [obl:pronmod](orv_ruthenian-dep-obl-pronmod.html) – [obl:tmod](orv_ruthenian-dep-obl-tmod.html) – [orphan](orv_ruthenian-dep-orphan.html) – [parataxis](orv_ruthenian-dep-parataxis.html) – [parataxis:discourse](orv_ruthenian-dep-parataxis-discourse.html) – [punct](orv_ruthenian-dep-punct.html) – [reparandum](orv_ruthenian-dep-reparandum.html) – [root](orv_ruthenian-dep-root.html) – [vocative](orv_ruthenian-dep-vocative.html) – [xcomp](orv_ruthenian-dep-xcomp.html)
+[acl](orv_ruthenian-dep-acl.html) – [acl:relcl](orv_ruthenian-dep-acl-relcl.html) – [advcl](orv_ruthenian-dep-advcl.html) – [advmod](orv_ruthenian-dep-advmod.html) – [amod](orv_ruthenian-dep-amod.html) – [appos](orv_ruthenian-dep-appos.html) – [aux](orv_ruthenian-dep-aux.html) – [aux:pass](orv_ruthenian-dep-aux-pass.html) – [case](orv_ruthenian-dep-case.html) – [cc](orv_ruthenian-dep-cc.html) – [ccomp](orv_ruthenian-dep-ccomp.html) – [compound](orv_ruthenian-dep-compound.html) – [conj](orv_ruthenian-dep-conj.html) – [cop](orv_ruthenian-dep-cop.html) – [csubj](orv_ruthenian-dep-csubj.html) – [csubj:pass](orv_ruthenian-dep-csubj-pass.html) – [dep](orv_ruthenian-dep-dep.html) – [det](orv_ruthenian-dep-det.html) – [discourse](orv_ruthenian-dep-discourse.html) – [dislocated](orv_ruthenian-dep-dislocated.html) – [expl](orv_ruthenian-dep-expl.html) – [expl:pv](orv_ruthenian-dep-expl-pv.html) – [fixed](orv_ruthenian-dep-fixed.html) – [flat](orv_ruthenian-dep-flat.html) – [flat:foreign](orv_ruthenian-dep-flat-foreign.html) – [flat:name](orv_ruthenian-dep-flat-name.html) – [goeswith](orv_ruthenian-dep-goeswith.html) – [iobj](orv_ruthenian-dep-iobj.html) – [list](orv_ruthenian-dep-list.html) – [mark](orv_ruthenian-dep-mark.html) – [nmod](orv_ruthenian-dep-nmod.html) – [nmod:float](orv_ruthenian-dep-nmod-float.html) – [nmod:pronmod](orv_ruthenian-dep-nmod-pronmod.html) – [nsubj](orv_ruthenian-dep-nsubj.html) – [nsubj:outer](orv_ruthenian-dep-nsubj-outer.html) – [nsubj:pass](orv_ruthenian-dep-nsubj-pass.html) – [nummod](orv_ruthenian-dep-nummod.html) – [nummod:gov](orv_ruthenian-dep-nummod-gov.html) – [obj](orv_ruthenian-dep-obj.html) – [obl](orv_ruthenian-dep-obl.html) – [obl:agent](orv_ruthenian-dep-obl-agent.html) – [obl:depict](orv_ruthenian-dep-obl-depict.html) – [obl:float](orv_ruthenian-dep-obl-float.html) – [obl:tmod](orv_ruthenian-dep-obl-tmod.html) – [orphan](orv_ruthenian-dep-orphan.html) – [parataxis](orv_ruthenian-dep-parataxis.html) – [parataxis:discourse](orv_ruthenian-dep-parataxis-discourse.html) – [punct](orv_ruthenian-dep-punct.html) – [reparandum](orv_ruthenian-dep-reparandum.html) – [root](orv_ruthenian-dep-root.html) – [vocative](orv_ruthenian-dep-vocative.html) – [xcomp](orv_ruthenian-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -134,7 +134,7 @@ We are grateful to Maria Ermolova, Vladimir Shatin, Natalia Iordani, Oksana Nika
   <li>Conv
   <ul>
     <li>AUX: будучи, бꙋдꙋчи, бы(въ)ши, бы(в)ши, бывъши, боудꙋчи, бꙋдꙋчы</li>
-    <li>VERB: ставъши, чтучи, будучи, маючи, вглядѣвъши, ви(с)луха(в)ши, ста(в)ши, чтꙋчи, идучи, розꙋмеючи</li>
+    <li>VERB: ставъши, будучи, чтучи, маючи, вглядѣвъши, ви(с)луха(в)ши, ста(в)ши, чтꙋчи, идучи, розꙋмеючи</li>
   </ul>
   </li>
 </ul>
@@ -605,7 +605,7 @@ We are grateful to Maria Ermolova, Vladimir Shatin, Natalia Iordani, Oksana Nika
       <li>AUX-Conv: будучи, бꙋдꙋчи, боудꙋчи, бꙋдꙋчы</li>
       <li>AUX-Fin: есмо, есми, есте, есть, еси, ес(ть), (с)мо, е(ст), естъ, є(ст)</li>
       <li>AUX-Part: будучи(х), будучие, будущіи, бывъшого</li>
-      <li>VERB-Conv: чтучи, будучи, маючи, чтꙋчи, идучи, розꙋмеючи, хотѧчи, хотячи, хотѧ, чтучы</li>
+      <li>VERB-Conv: будучи, чтучи, маючи, чтꙋчи, идучи, розꙋмеючи, хотѧчи, хотячи, хотѧ, чтучы</li>
       <li>VERB-Fin: мають, мают(ь), маеть, мает(ь), мови(т), чинимъ, дають, наказує(м), мовитъ, потвержаемъ</li>
       <li>VERB-Part: будучи(х), мє(ш)каючи(х), рекома, сп(а)саемых, требоующим, Ознаимуем, боудоущим, боящыхъсе, будучихъ, будущимъ</li>
     </ul>
@@ -624,7 +624,7 @@ We are grateful to Maria Ermolova, Vladimir Shatin, Natalia Iordani, Oksana Nika
       <li>AUX-Inf: быти, бы(т), быть, быт(и), быт(ь), бытъ</li>
       <li>AUX-Part: будучи(х), будучие, будущіи, бывъшого</li>
       <li>AUX-PartRes: были, было, был, былъ, была, бы(л), был(и), бы(л)ли</li>
-      <li>VERB-Conv: ставъши, чтучи, будучи, маючи, вглядѣвъши, ви(с)луха(в)ши, ста(в)ши, чтꙋчи, идучи, розꙋмеючи</li>
+      <li>VERB-Conv: ставъши, будучи, чтучи, маючи, вглядѣвъши, ви(с)луха(в)ши, ста(в)ши, чтꙋчи, идучи, розꙋмеючи</li>
       <li>VERB-Fin: мають, мают(ь), маеть, мает(ь), мови(т), чинимъ, дають, наказує(м), мовитъ, потвержаемъ</li>
       <li>VERB-Inf: держати, записа(т), дати, давати, ведати, сꙋдити, знати, продати, чинити, мети</li>
       <li>VERB-Part: будучи(х), мє(ш)каючи(х), требоующим, Видевши, боудоущим, бу(в)ши(х), будучихъ, будущимъ, будꙋчого, бꙋдꙋчии</li>
@@ -1104,7 +1104,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-PartRes--NOUN-Nom (1197)</li>
       <li>VERB-PartRes--NOUN-Nom-ADP(яко) (2)</li>
       <li>VERB-PartRes--PRON-Gen (3)</li>
-      <li>VERB-PartRes--PRON-Nom (718)</li>
+      <li>VERB-PartRes--PRON-Nom (719)</li>
     </ul>
   </li>
 </ul>
@@ -1253,6 +1253,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 15 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>expl:pv</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a>, <a>nummod:gov</a>, <a>obl:agent</a>, <a>obl:depict</a>, <a>obl:float</a>, <a>obl:pronmod</a>, <a>obl:tmod</a>, <a>parataxis:discourse</a></li>
+<li>This corpus uses 16 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>expl:pv</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>nmod:float</a>, <a>nmod:pronmod</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a>, <a>nummod:gov</a>, <a>obl:agent</a>, <a>obl:depict</a>, <a>obl:float</a>, <a>obl:tmod</a>, <a>parataxis:discourse</a></li>
 <li>The following 1 relation types are not used in this corpus at all: <a>clf</a></li>
 </ul>

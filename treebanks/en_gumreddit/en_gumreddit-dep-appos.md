@@ -35,7 +35,7 @@ The following 11 pairs of parts of speech are connected with `appos`: <tt><a hre
 11	_	_	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	acl:relcl	7:acl:relcl	Lem=mean|Len=5|MSeg=mean-s
 12	_	_	PRON	NN	Number=Sing|PronType=Neg	11	obj	11:obj	Entity=(92-abstract-new-nnnnn-cf3-1-sgl|Lem=_|Len=7|MSeg=no-thing|Negation=Yes
 13	_	_	ADP	IN	_	14	case	14:case	Discourse=adversative-antithesis:100->99:0:dm-except-621-gold|Lem=_|Len=6|PDTB=Explicit:Expansion.Exception.Arg2-as-except:except:621:618-620:622-628
-14	_	_	PRON	WP	PronType=Rel	12	nmod	7:ref	Lem=_|Len=4
+14	_	_	PRON	WP	Case=Acc|PronType=Rel	12	nmod	7:ref	Lem=_|Len=4
 15	_	_	DET	DT	Definite=Def|PronType=Art	16	det	16:det	Discourse=attribution-positive:101->102:0:sem-atsrc-623-624-_+lex-indwd-625-_+syn-rpr-626-_|Entity=(23-organization-giv:inact-nnsss-cf2-2-coref|Lem=_|Len=3
 16	_	_	NOUN	NN	Number=Sing|Typo=Yes	17	nsubj	17:nsubj	CorrectForm=government|Entity=23)|Lem=government|Len=5|XML=<sic ana:::"government"></sic>
 17	_	_	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	acl:relcl	14:acl:relcl	Lem=say|Len=4|MSeg=say-s

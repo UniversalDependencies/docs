@@ -13,9 +13,9 @@ The 10 most frequent `DET` lemmas: <em>tye, hai, mazohn, gare, mwe, rigatratrahn
 
 The 10 most frequent `DET` types:  <em>tye, hai, mazohn, Gare, mwe, rigatratrahn, za</em>
 
-The 10 most frequent ambiguous lemmas: <em>tye</em> (<tt><a href="nmf_suansu-pos-DET.html">DET</a></tt> 99, <tt><a href="nmf_suansu-pos-PRON.html">PRON</a></tt> 6), <em>hai</em> (<tt><a href="nmf_suansu-pos-DET.html">DET</a></tt> 23, <tt><a href="nmf_suansu-pos-PRON.html">PRON</a></tt> 22), <em>mazohn</em> (<tt><a href="nmf_suansu-pos-DET.html">DET</a></tt> 7, <tt><a href="nmf_suansu-pos-PRON.html">PRON</a></tt> 6, <tt><a href="nmf_suansu-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="nmf_suansu-pos-NOUN.html">NOUN</a></tt> 1), <em>gare</em> (<tt><a href="nmf_suansu-pos-ADV.html">ADV</a></tt> 9, <tt><a href="nmf_suansu-pos-DET.html">DET</a></tt> 2), <em>mwe</em> (<tt><a href="nmf_suansu-pos-PRON.html">PRON</a></tt> 4, <tt><a href="nmf_suansu-pos-DET.html">DET</a></tt> 1), <em>rigatratrahn</em> (<tt><a href="nmf_suansu-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="nmf_suansu-pos-DET.html">DET</a></tt> 1), <em>za</em> (<tt><a href="nmf_suansu-pos-INTJ.html">INTJ</a></tt> 2, <tt><a href="nmf_suansu-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="nmf_suansu-pos-DET.html">DET</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>tye</em> (<tt><a href="nmf_suansu-pos-DET.html">DET</a></tt> 99, <tt><a href="nmf_suansu-pos-PRON.html">PRON</a></tt> 6), <em>hai</em> (<tt><a href="nmf_suansu-pos-DET.html">DET</a></tt> 23, <tt><a href="nmf_suansu-pos-PRON.html">PRON</a></tt> 20), <em>mazohn</em> (<tt><a href="nmf_suansu-pos-DET.html">DET</a></tt> 7, <tt><a href="nmf_suansu-pos-PRON.html">PRON</a></tt> 6, <tt><a href="nmf_suansu-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="nmf_suansu-pos-NOUN.html">NOUN</a></tt> 1), <em>gare</em> (<tt><a href="nmf_suansu-pos-ADV.html">ADV</a></tt> 9, <tt><a href="nmf_suansu-pos-DET.html">DET</a></tt> 2), <em>mwe</em> (<tt><a href="nmf_suansu-pos-PRON.html">PRON</a></tt> 4, <tt><a href="nmf_suansu-pos-DET.html">DET</a></tt> 1), <em>rigatratrahn</em> (<tt><a href="nmf_suansu-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="nmf_suansu-pos-DET.html">DET</a></tt> 1), <em>za</em> (<tt><a href="nmf_suansu-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="nmf_suansu-pos-DET.html">DET</a></tt> 1, <tt><a href="nmf_suansu-pos-INTJ.html">INTJ</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>tye</em> (<tt><a href="nmf_suansu-pos-DET.html">DET</a></tt> 9, <tt><a href="nmf_suansu-pos-PRON.html">PRON</a></tt> 2), <em>hai</em> (<tt><a href="nmf_suansu-pos-DET.html">DET</a></tt> 14, <tt><a href="nmf_suansu-pos-PRON.html">PRON</a></tt> 5), <em>mazohn</em> (<tt><a href="nmf_suansu-pos-DET.html">DET</a></tt> 7, <tt><a href="nmf_suansu-pos-PRON.html">PRON</a></tt> 2), <em>Gare</em> (<tt><a href="nmf_suansu-pos-ADV.html">ADV</a></tt> 2, <tt><a href="nmf_suansu-pos-DET.html">DET</a></tt> 2), <em>mwe</em> (<tt><a href="nmf_suansu-pos-PRON.html">PRON</a></tt> 3, <tt><a href="nmf_suansu-pos-DET.html">DET</a></tt> 1), <em>rigatratrahn</em> (<tt><a href="nmf_suansu-pos-DET.html">DET</a></tt> 1, <tt><a href="nmf_suansu-pos-NOUN.html">NOUN</a></tt> 1), <em>za</em> (<tt><a href="nmf_suansu-pos-INTJ.html">INTJ</a></tt> 2, <tt><a href="nmf_suansu-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="nmf_suansu-pos-DET.html">DET</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>tye</em> (<tt><a href="nmf_suansu-pos-DET.html">DET</a></tt> 9, <tt><a href="nmf_suansu-pos-PRON.html">PRON</a></tt> 2), <em>hai</em> (<tt><a href="nmf_suansu-pos-DET.html">DET</a></tt> 14, <tt><a href="nmf_suansu-pos-PRON.html">PRON</a></tt> 5), <em>mazohn</em> (<tt><a href="nmf_suansu-pos-DET.html">DET</a></tt> 7, <tt><a href="nmf_suansu-pos-PRON.html">PRON</a></tt> 2), <em>Gare</em> (<tt><a href="nmf_suansu-pos-ADV.html">ADV</a></tt> 2, <tt><a href="nmf_suansu-pos-DET.html">DET</a></tt> 2), <em>mwe</em> (<tt><a href="nmf_suansu-pos-PRON.html">PRON</a></tt> 3, <tt><a href="nmf_suansu-pos-DET.html">DET</a></tt> 1), <em>rigatratrahn</em> (<tt><a href="nmf_suansu-pos-DET.html">DET</a></tt> 1, <tt><a href="nmf_suansu-pos-NOUN.html">NOUN</a></tt> 1), <em>za</em> (<tt><a href="nmf_suansu-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="nmf_suansu-pos-DET.html">DET</a></tt> 1, <tt><a href="nmf_suansu-pos-INTJ.html">INTJ</a></tt> 1)
 
 
 * <em>tye</em>
@@ -37,13 +37,13 @@ The 10 most frequent ambiguous types:  <em>tye</em> (<tt><a href="nmf_suansu-pos
   * <tt><a href="nmf_suansu-pos-DET.html">DET</a></tt> 1: <em>Nahn Soviet Union <b>rigatratrahn</b> mari lala la</em>
   * <tt><a href="nmf_suansu-pos-NOUN.html">NOUN</a></tt> 1: <em>A <b>rigatratrahn</b> raksza gase manungle</em>
 * <em>za</em>
-  * <tt><a href="nmf_suansu-pos-INTJ.html">INTJ</a></tt> 2: <em>Nahn <b>za</b> aszaszu gu thaithema ?</em>
   * <tt><a href="nmf_suansu-pos-NOUN.html">NOUN</a></tt> 2: <em>Peter <b>za</b> manungle</em>
   * <tt><a href="nmf_suansu-pos-DET.html">DET</a></tt> 1: <em>Ba bava gahedi thea geraha riri thai <b>za</b> la reganan ba dani themate .</em>
+  * <tt><a href="nmf_suansu-pos-INTJ.html">INTJ</a></tt> 1: <em>Nahn <b>za</b> aszaszu gu thaithema ?</em>
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 1.000000 (the average of all parts of speech is 1.348066).
+The form / lemma ratio of `DET` is 1.000000 (the average of all parts of speech is 1.350446).
 
 The 1st highest number of forms (1) was observed with the lemma “gare”: <em>Gare</em>.
 

@@ -6,16 +6,16 @@ udver: '2'
 
 ## Treebank Statistics: UD_Spanish-PUD: POS Tags: `SCONJ`
 
-There are 15 `SCONJ` lemmas (0%), 15 `SCONJ` types (0%) and 279 `SCONJ` tokens (1%).
+There are 15 `SCONJ` lemmas (0%), 15 `SCONJ` types (0%) and 404 `SCONJ` tokens (2%).
 Out of 17 observed tags, the rank of `SCONJ` is: 11 in number of lemmas, 12 in number of types and 13 in number of tokens.
 
-The 10 most frequent `SCONJ` lemmas: <em>que, si, mientras, como, aunque, porque, a, de, hasta, para</em>
+The 10 most frequent `SCONJ` lemmas: <em>que, como, si, mientras, aunque, porque, a, de, hasta, para</em>
 
-The 10 most frequent `SCONJ` types:  <em>que, si, mientras, como, aunque, porque, a, de, hasta, para</em>
+The 10 most frequent `SCONJ` types:  <em>que, como, si, mientras, aunque, porque, a, de, hasta, para</em>
 
-The 10 most frequent ambiguous lemmas: <em>que</em> (<tt><a href="es_pud-pos-PRON.html">PRON</a></tt> 229, <tt><a href="es_pud-pos-SCONJ.html">SCONJ</a></tt> 188, <tt><a href="es_pud-pos-ADP.html">ADP</a></tt> 75, <tt><a href="es_pud-pos-DET.html">DET</a></tt> 1), <em>si</em> (<tt><a href="es_pud-pos-SCONJ.html">SCONJ</a></tt> 25, <tt><a href="es_pud-pos-ADP.html">ADP</a></tt> 1), <em>como</em> (<tt><a href="es_pud-pos-ADP.html">ADP</a></tt> 125, <tt><a href="es_pud-pos-SCONJ.html">SCONJ</a></tt> 9, <tt><a href="es_pud-pos-ADV.html">ADV</a></tt> 5), <em>a</em> (<tt><a href="es_pud-pos-ADP.html">ADP</a></tt> 543, <tt><a href="es_pud-pos-SCONJ.html">SCONJ</a></tt> 6, <tt><a href="es_pud-pos-DET.html">DET</a></tt> 2), <em>de</em> (<tt><a href="es_pud-pos-ADP.html">ADP</a></tt> 1723, <tt><a href="es_pud-pos-SCONJ.html">SCONJ</a></tt> 4, <tt><a href="es_pud-pos-PROPN.html">PROPN</a></tt> 2), <em>hasta</em> (<tt><a href="es_pud-pos-ADP.html">ADP</a></tt> 21, <tt><a href="es_pud-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="es_pud-pos-ADV.html">ADV</a></tt> 1), <em>para</em> (<tt><a href="es_pud-pos-ADP.html">ADP</a></tt> 141, <tt><a href="es_pud-pos-SCONJ.html">SCONJ</a></tt> 3), <em>desde</em> (<tt><a href="es_pud-pos-ADP.html">ADP</a></tt> 30, <tt><a href="es_pud-pos-SCONJ.html">SCONJ</a></tt> 1), <em>en</em> (<tt><a href="es_pud-pos-ADP.html">ADP</a></tt> 689, <tt><a href="es_pud-pos-DET.html">DET</a></tt> 1, <tt><a href="es_pud-pos-SCONJ.html">SCONJ</a></tt> 1), <em>sin</em> (<tt><a href="es_pud-pos-ADP.html">ADP</a></tt> 38, <tt><a href="es_pud-pos-SCONJ.html">SCONJ</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>que</em> (<tt><a href="es_pud-pos-PRON.html">PRON</a></tt> 229, <tt><a href="es_pud-pos-SCONJ.html">SCONJ</a></tt> 188, <tt><a href="es_pud-pos-ADP.html">ADP</a></tt> 75, <tt><a href="es_pud-pos-DET.html">DET</a></tt> 1), <em>como</em> (<tt><a href="es_pud-pos-SCONJ.html">SCONJ</a></tt> 134, <tt><a href="es_pud-pos-ADV.html">ADV</a></tt> 5), <em>si</em> (<tt><a href="es_pud-pos-SCONJ.html">SCONJ</a></tt> 25, <tt><a href="es_pud-pos-ADP.html">ADP</a></tt> 1), <em>a</em> (<tt><a href="es_pud-pos-ADP.html">ADP</a></tt> 543, <tt><a href="es_pud-pos-SCONJ.html">SCONJ</a></tt> 6, <tt><a href="es_pud-pos-DET.html">DET</a></tt> 2), <em>de</em> (<tt><a href="es_pud-pos-ADP.html">ADP</a></tt> 1723, <tt><a href="es_pud-pos-SCONJ.html">SCONJ</a></tt> 4, <tt><a href="es_pud-pos-PROPN.html">PROPN</a></tt> 2), <em>hasta</em> (<tt><a href="es_pud-pos-ADP.html">ADP</a></tt> 21, <tt><a href="es_pud-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="es_pud-pos-ADV.html">ADV</a></tt> 1), <em>para</em> (<tt><a href="es_pud-pos-ADP.html">ADP</a></tt> 141, <tt><a href="es_pud-pos-SCONJ.html">SCONJ</a></tt> 3), <em>desde</em> (<tt><a href="es_pud-pos-ADP.html">ADP</a></tt> 30, <tt><a href="es_pud-pos-SCONJ.html">SCONJ</a></tt> 1), <em>en</em> (<tt><a href="es_pud-pos-ADP.html">ADP</a></tt> 689, <tt><a href="es_pud-pos-DET.html">DET</a></tt> 1, <tt><a href="es_pud-pos-SCONJ.html">SCONJ</a></tt> 1), <em>sin</em> (<tt><a href="es_pud-pos-ADP.html">ADP</a></tt> 38, <tt><a href="es_pud-pos-SCONJ.html">SCONJ</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>que</em> (<tt><a href="es_pud-pos-PRON.html">PRON</a></tt> 229, <tt><a href="es_pud-pos-SCONJ.html">SCONJ</a></tt> 188, <tt><a href="es_pud-pos-ADP.html">ADP</a></tt> 75, <tt><a href="es_pud-pos-DET.html">DET</a></tt> 1), <em>si</em> (<tt><a href="es_pud-pos-SCONJ.html">SCONJ</a></tt> 20, <tt><a href="es_pud-pos-ADP.html">ADP</a></tt> 1), <em>como</em> (<tt><a href="es_pud-pos-ADP.html">ADP</a></tt> 122, <tt><a href="es_pud-pos-SCONJ.html">SCONJ</a></tt> 7, <tt><a href="es_pud-pos-ADV.html">ADV</a></tt> 4), <em>a</em> (<tt><a href="es_pud-pos-ADP.html">ADP</a></tt> 508, <tt><a href="es_pud-pos-SCONJ.html">SCONJ</a></tt> 4, <tt><a href="es_pud-pos-DET.html">DET</a></tt> 2), <em>de</em> (<tt><a href="es_pud-pos-ADP.html">ADP</a></tt> 1710, <tt><a href="es_pud-pos-SCONJ.html">SCONJ</a></tt> 4, <tt><a href="es_pud-pos-PROPN.html">PROPN</a></tt> 2), <em>hasta</em> (<tt><a href="es_pud-pos-ADP.html">ADP</a></tt> 21, <tt><a href="es_pud-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="es_pud-pos-ADV.html">ADV</a></tt> 1), <em>para</em> (<tt><a href="es_pud-pos-ADP.html">ADP</a></tt> 133, <tt><a href="es_pud-pos-SCONJ.html">SCONJ</a></tt> 3), <em>En</em> (<tt><a href="es_pud-pos-ADP.html">ADP</a></tt> 78, <tt><a href="es_pud-pos-DET.html">DET</a></tt> 1, <tt><a href="es_pud-pos-SCONJ.html">SCONJ</a></tt> 1), <em>desde</em> (<tt><a href="es_pud-pos-ADP.html">ADP</a></tt> 21, <tt><a href="es_pud-pos-SCONJ.html">SCONJ</a></tt> 1), <em>sin</em> (<tt><a href="es_pud-pos-ADP.html">ADP</a></tt> 20, <tt><a href="es_pud-pos-SCONJ.html">SCONJ</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>que</em> (<tt><a href="es_pud-pos-PRON.html">PRON</a></tt> 229, <tt><a href="es_pud-pos-SCONJ.html">SCONJ</a></tt> 188, <tt><a href="es_pud-pos-ADP.html">ADP</a></tt> 75, <tt><a href="es_pud-pos-DET.html">DET</a></tt> 1), <em>como</em> (<tt><a href="es_pud-pos-SCONJ.html">SCONJ</a></tt> 129, <tt><a href="es_pud-pos-ADV.html">ADV</a></tt> 4), <em>si</em> (<tt><a href="es_pud-pos-SCONJ.html">SCONJ</a></tt> 20, <tt><a href="es_pud-pos-ADP.html">ADP</a></tt> 1), <em>a</em> (<tt><a href="es_pud-pos-ADP.html">ADP</a></tt> 508, <tt><a href="es_pud-pos-SCONJ.html">SCONJ</a></tt> 4, <tt><a href="es_pud-pos-DET.html">DET</a></tt> 2), <em>de</em> (<tt><a href="es_pud-pos-ADP.html">ADP</a></tt> 1710, <tt><a href="es_pud-pos-SCONJ.html">SCONJ</a></tt> 4, <tt><a href="es_pud-pos-PROPN.html">PROPN</a></tt> 2), <em>hasta</em> (<tt><a href="es_pud-pos-ADP.html">ADP</a></tt> 21, <tt><a href="es_pud-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="es_pud-pos-ADV.html">ADV</a></tt> 1), <em>para</em> (<tt><a href="es_pud-pos-ADP.html">ADP</a></tt> 133, <tt><a href="es_pud-pos-SCONJ.html">SCONJ</a></tt> 3), <em>En</em> (<tt><a href="es_pud-pos-ADP.html">ADP</a></tt> 78, <tt><a href="es_pud-pos-DET.html">DET</a></tt> 1, <tt><a href="es_pud-pos-SCONJ.html">SCONJ</a></tt> 1), <em>desde</em> (<tt><a href="es_pud-pos-ADP.html">ADP</a></tt> 21, <tt><a href="es_pud-pos-SCONJ.html">SCONJ</a></tt> 1), <em>sin</em> (<tt><a href="es_pud-pos-ADP.html">ADP</a></tt> 20, <tt><a href="es_pud-pos-SCONJ.html">SCONJ</a></tt> 1)
 
 
 * <em>que</em>
@@ -23,13 +23,12 @@ The 10 most frequent ambiguous types:  <em>que</em> (<tt><a href="es_pud-pos-PRO
   * <tt><a href="es_pud-pos-SCONJ.html">SCONJ</a></tt> 188: <em>Voy a ir a la cárcel de todas formas ; espero <b>que</b> mereciese la pena .</em>
   * <tt><a href="es_pud-pos-ADP.html">ADP</a></tt> 75: <em>Hoy en día nuestros teléfonos móviles son mucho más <b>que</b> teléfonos .</em>
   * <tt><a href="es_pud-pos-DET.html">DET</a></tt> 1: <em>No se sabe de <b>que</b> modo han trabajado juntos ambos dramaturgos .</em>
+* <em>como</em>
+  * <tt><a href="es_pud-pos-SCONJ.html">SCONJ</a></tt> 129: <em>A veces es <b>como</b> un superpoder .</em>
+  * <tt><a href="es_pud-pos-ADV.html">ADV</a></tt> 4: <em>En primer lugar , debemos educar a las personas sobre <b>como</b> proteger se mejor en línea .</em>
 * <em>si</em>
   * <tt><a href="es_pud-pos-SCONJ.html">SCONJ</a></tt> 20: <em>Le pregunté después <b>si</b> entendía por qué la gente podía votar a Trump .</em>
   * <tt><a href="es_pud-pos-ADP.html">ADP</a></tt> 1: <em>Era como <b>si</b> estuviese pasando el balón hacia delante y hacia atrás por debajo de tres copas volteadas .</em>
-* <em>como</em>
-  * <tt><a href="es_pud-pos-ADP.html">ADP</a></tt> 122: <em>A veces es <b>como</b> un superpoder .</em>
-  * <tt><a href="es_pud-pos-SCONJ.html">SCONJ</a></tt> 7: <em>Era <b>como</b> si estuviese pasando el balón hacia delante y hacia atrás por debajo de tres copas volteadas .</em>
-  * <tt><a href="es_pud-pos-ADV.html">ADV</a></tt> 4: <em>En primer lugar , debemos educar a las personas sobre <b>como</b> proteger se mejor en línea .</em>
 * <em>a</em>
   * <tt><a href="es_pud-pos-ADP.html">ADP</a></tt> 508: <em>Los nuevos gastos corren <b>a</b> cargo de la gran cuenta bancaria de Clinton .</em>
   * <tt><a href="es_pud-pos-SCONJ.html">SCONJ</a></tt> 4: <em>Van a ir a por todas y <b>a</b> intentar ganar a Inglaterra .</em>
@@ -58,7 +57,7 @@ The 10 most frequent ambiguous types:  <em>que</em> (<tt><a href="es_pud-pos-PRO
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.320249).
+The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.320386).
 
 The 1st highest number of forms (1) was observed with the lemma “a”: <em>a</em>.
 
@@ -66,32 +65,32 @@ The 2nd highest number of forms (1) was observed with the lemma “aunque”: <e
 
 The 3rd highest number of forms (1) was observed with the lemma “como”: <em>como</em>.
 
-`SCONJ` occurs with 2 features: <tt><a href="es_pud-feat-ExtPos.html">ExtPos</a></tt> (25; 9% instances), <tt><a href="es_pud-feat-Foreign.html">Foreign</a></tt> (1; 0% instances)
+`SCONJ` occurs with 2 features: <tt><a href="es_pud-feat-ExtPos.html">ExtPos</a></tt> (20; 5% instances), <tt><a href="es_pud-feat-Foreign.html">Foreign</a></tt> (1; 0% instances)
 
 `SCONJ` occurs with 3 feature-value pairs: `ExtPos=ADV`, `ExtPos=SCONJ`, `Foreign=Yes`
 
 `SCONJ` occurs with 4 feature combinations.
-The most frequent feature combination is `_` (253 tokens).
-Examples: <em>que, si, mientras, aunque, como, porque, pues, a, de, desde</em>
+The most frequent feature combination is `_` (383 tokens).
+Examples: <em>que, como, si, mientras, aunque, porque, a, de, pues, desde</em>
 
 
 ## Relations
 
-`SCONJ` nodes are attached to their parents using 3 different relations: <tt><a href="es_pud-dep-mark.html">mark</a></tt> (269; 96% instances), <tt><a href="es_pud-dep-advmod.html">advmod</a></tt> (6; 2% instances), <tt><a href="es_pud-dep-fixed.html">fixed</a></tt> (4; 1% instances)
+`SCONJ` nodes are attached to their parents using 5 different relations: <tt><a href="es_pud-dep-mark.html">mark</a></tt> (264; 65% instances), <tt><a href="es_pud-dep-case.html">case</a></tt> (116; 29% instances), <tt><a href="es_pud-dep-cc.html">cc</a></tt> (9; 2% instances), <tt><a href="es_pud-dep-fixed.html">fixed</a></tt> (9; 2% instances), <tt><a href="es_pud-dep-advmod.html">advmod</a></tt> (6; 1% instances)
 
-Parents of `SCONJ` nodes belong to 5 different parts of speech: <tt><a href="es_pud-pos-VERB.html">VERB</a></tt> (236; 85% instances), <tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt> (22; 8% instances), <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> (16; 6% instances), <tt><a href="es_pud-pos-SCONJ.html">SCONJ</a></tt> (4; 1% instances), <tt><a href="es_pud-pos-SYM.html">SYM</a></tt> (1; 0% instances)
+Parents of `SCONJ` nodes belong to 10 different parts of speech: <tt><a href="es_pud-pos-VERB.html">VERB</a></tt> (232; 57% instances), <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> (110; 27% instances), <tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt> (25; 6% instances), <tt><a href="es_pud-pos-PROPN.html">PROPN</a></tt> (21; 5% instances), <tt><a href="es_pud-pos-ADV.html">ADV</a></tt> (5; 1% instances), <tt><a href="es_pud-pos-SCONJ.html">SCONJ</a></tt> (4; 1% instances), <tt><a href="es_pud-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="es_pud-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="es_pud-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="es_pud-pos-X.html">X</a></tt> (1; 0% instances)
 
-250 (90%) `SCONJ` nodes are leaves.
+380 (94%) `SCONJ` nodes are leaves.
 
-17 (6%) `SCONJ` nodes have one child.
+17 (4%) `SCONJ` nodes have one child.
 
-11 (4%) `SCONJ` nodes have two children.
+6 (1%) `SCONJ` nodes have two children.
 
 1 (0%) `SCONJ` nodes have three or more children.
 
 The highest child degree of a `SCONJ` node is 3.
 
-Children of `SCONJ` nodes are attached using 2 different relations: <tt><a href="es_pud-dep-fixed.html">fixed</a></tt> (32; 76% instances), <tt><a href="es_pud-dep-punct.html">punct</a></tt> (10; 24% instances)
+Children of `SCONJ` nodes are attached using 2 different relations: <tt><a href="es_pud-dep-fixed.html">fixed</a></tt> (22; 69% instances), <tt><a href="es_pud-dep-punct.html">punct</a></tt> (10; 31% instances)
 
-Children of `SCONJ` nodes belong to 7 different parts of speech: <tt><a href="es_pud-pos-ADP.html">ADP</a></tt> (14; 33% instances), <tt><a href="es_pud-pos-PUNCT.html">PUNCT</a></tt> (10; 24% instances), <tt><a href="es_pud-pos-PRON.html">PRON</a></tt> (6; 14% instances), <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> (5; 12% instances), <tt><a href="es_pud-pos-SCONJ.html">SCONJ</a></tt> (4; 10% instances), <tt><a href="es_pud-pos-ADV.html">ADV</a></tt> (2; 5% instances), <tt><a href="es_pud-pos-VERB.html">VERB</a></tt> (1; 2% instances)
+Children of `SCONJ` nodes belong to 6 different parts of speech: <tt><a href="es_pud-pos-PUNCT.html">PUNCT</a></tt> (10; 31% instances), <tt><a href="es_pud-pos-ADP.html">ADP</a></tt> (9; 28% instances), <tt><a href="es_pud-pos-PRON.html">PRON</a></tt> (6; 19% instances), <tt><a href="es_pud-pos-SCONJ.html">SCONJ</a></tt> (4; 13% instances), <tt><a href="es_pud-pos-ADV.html">ADV</a></tt> (2; 6% instances), <tt><a href="es_pud-pos-VERB.html">VERB</a></tt> (1; 3% instances)
 

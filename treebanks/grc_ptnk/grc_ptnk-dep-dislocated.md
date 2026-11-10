@@ -24,7 +24,7 @@ The following 21 pairs of parts of speech are connected with `dislocated`: <tt><
 # visual-style 10 11 dislocated	color:blue
 1	Καὶ	καί	CCONJ	_	_	2	cc	_	Gloss=and,also,even,then,next|Ref=RUTH_1.3
 2	ἀπέθανεν	ἀποθνήσκω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-die|Ref=RUTH_1.3
-3	Ἀβιμέλεχ	Ἀβιμέλεχ	PROPN	_	_	2	nsubj	_	Gloss=-Elimelech|Ref=RUTH_1.3|Unknown=###no,parse###
+3	Ἀβιμέλεχ	Ἀβιμέλεχ	PROPN	_	Gender=Masc|Number=Sing	2	nsubj	_	Gloss=-Elimelech|Ref=RUTH_1.3|Unknown=###no,parse###
 4	ὁ	ὁ	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	Gloss=the;-oh|Ref=RUTH_1.3
 5	ἀνὴρ	ἀνήρ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	appos	_	Gloss=man,husband|Ref=RUTH_1.3
 6	τῆς	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	Gloss=the|Ref=RUTH_1.3
@@ -35,7 +35,7 @@ The following 21 pairs of parts of speech are connected with `dislocated`: <tt><
 11	αὐτὴ	αὐτός	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Prs	10	dislocated	_	Gloss=she,-self,same|Ref=RUTH_1.3
 12	καὶ	καί	CCONJ	_	_	15	cc	_	Gloss=and,also,even,then,next|Ref=RUTH_1.3
 13	οἱ	ὁ	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	15	det	_	Gloss=the|Ref=RUTH_1.3
-14	δύο	δύο	NUM	_	Case=Nom|Gender=Fem,Masc,Neut|Number=Sing|NumType=Card	15	nummod	_	Gloss=two|Ref=RUTH_1.3
+14	δύο	δύο	NUM	_	Case=Nom|Gender=Masc|Number=Sing|NumType=Card	15	nummod	_	Gloss=two|Ref=RUTH_1.3
 15	υἱοὶ	υἱός	NOUN	_	Case=Nom,Voc|Gender=Masc|Number=Plur	11	conj	_	Gloss=sons|Ref=RUTH_1.3
 16	αὐτῆς	αὐτός	PRON	_	Case=Gen|Gender=Fem|Number=Sing|PronType=Prs	15	nmod:poss	_	Gloss=she,-self,same|Ref=RUTH_1.3|SpaceAfter=No
 17	.	.	PUNCT	_	_	16	punct	_	Ref=RUTH_1.3

@@ -55,7 +55,7 @@ The 10 most frequent ambiguous types:  <em>было</em> (<tt><a href="ru_taiga-
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 10.000000 (the average of all parts of speech is 2.706171).
+The form / lemma ratio of `AUX` is 10.000000 (the average of all parts of speech is 2.706367).
 
 The 1st highest number of forms (28) was observed with the lemma “быть”: <em>беаше, будем, будет, будете, будешь, будте, буду, будут, будучи, будь, будьте, бывшая, бывшего, бывшие, бывший, бывших, был, была, были, было, бысть, быть, еси, есмы, есмь, есте, есть, суть</em>.
 

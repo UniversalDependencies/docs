@@ -6,59 +6,64 @@ udver: '2'
 
 ## Treebank Statistics: UD_Italian-KIParlaForest: POS Tags: `CCONJ`
 
-There are 23 `CCONJ` lemmas (1%), 22 `CCONJ` types (1%) and 1002 `CCONJ` tokens (5%).
+There are 23 `CCONJ` lemmas (1%), 21 `CCONJ` types (1%) and 1250 `CCONJ` tokens (5%).
 Out of 16 observed tags, the rank of `CCONJ` is: 12 in number of lemmas, 13 in number of types and 8 in number of tokens.
 
-The 10 most frequent `CCONJ` lemmas: <em>e, cioè, ma, quindi, però, o, comunque, che, sia, infatti</em>
+The 10 most frequent `CCONJ` lemmas: <em>e, ma, cioè, quindi, o, però, comunque, sia, che, cioé</em>
 
-The 10 most frequent `CCONJ` types:  <em>e, cioè, ma, quindi, però, o, comunque, sia, che, infatti</em>
+The 10 most frequent `CCONJ` types:  <em>e, ma, cioè, quindi, o, però, comunque, sia, che, ed</em>
 
-The 10 most frequent ambiguous lemmas: <em>e</em> (<tt><a href="it_kiparlaforest-pos-CCONJ.html">CCONJ</a></tt> 364, <tt><a href="it_kiparlaforest-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt> 1), <em>cioè</em> (<tt><a href="it_kiparlaforest-pos-CCONJ.html">CCONJ</a></tt> 164, <tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt> 9), <em>quindi</em> (<tt><a href="it_kiparlaforest-pos-CCONJ.html">CCONJ</a></tt> 113, <tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt> 23), <em>però</em> (<tt><a href="it_kiparlaforest-pos-CCONJ.html">CCONJ</a></tt> 65, <tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt> 33), <em>o</em> (<tt><a href="it_kiparlaforest-pos-CCONJ.html">CCONJ</a></tt> 59, <tt><a href="it_kiparlaforest-pos-INTJ.html">INTJ</a></tt> 1), <em>comunque</em> (<tt><a href="it_kiparlaforest-pos-CCONJ.html">CCONJ</a></tt> 55, <tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt> 28), <em>che</em> (<tt><a href="it_kiparlaforest-pos-SCONJ.html">SCONJ</a></tt> 387, <tt><a href="it_kiparlaforest-pos-PRON.html">PRON</a></tt> 93, <tt><a href="it_kiparlaforest-pos-DET.html">DET</a></tt> 31, <tt><a href="it_kiparlaforest-pos-CCONJ.html">CCONJ</a></tt> 6, <tt><a href="it_kiparlaforest-pos-ADP.html">ADP</a></tt> 3, <tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt> 1), <em>infatti</em> (<tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt> 13, <tt><a href="it_kiparlaforest-pos-CCONJ.html">CCONJ</a></tt> 5), <em>allora</em> (<tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt> 27, <tt><a href="it_kiparlaforest-pos-CCONJ.html">CCONJ</a></tt> 4), <em>invece</em> (<tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt> 11, <tt><a href="it_kiparlaforest-pos-CCONJ.html">CCONJ</a></tt> 3)
+The 10 most frequent ambiguous lemmas: <em>e</em> (<tt><a href="it_kiparlaforest-pos-CCONJ.html">CCONJ</a></tt> 463, <tt><a href="it_kiparlaforest-pos-INTJ.html">INTJ</a></tt> 6, <tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="it_kiparlaforest-pos-X.html">X</a></tt> 1), <em>cioè</em> (<tt><a href="it_kiparlaforest-pos-CCONJ.html">CCONJ</a></tt> 198, <tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt> 27, <tt><a href="it_kiparlaforest-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="it_kiparlaforest-pos-X.html">X</a></tt> 1), <em>quindi</em> (<tt><a href="it_kiparlaforest-pos-CCONJ.html">CCONJ</a></tt> 127, <tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt> 29, <tt><a href="it_kiparlaforest-pos-SCONJ.html">SCONJ</a></tt> 1), <em>o</em> (<tt><a href="it_kiparlaforest-pos-CCONJ.html">CCONJ</a></tt> 77, <tt><a href="it_kiparlaforest-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="it_kiparlaforest-pos-X.html">X</a></tt> 1), <em>però</em> (<tt><a href="it_kiparlaforest-pos-CCONJ.html">CCONJ</a></tt> 73, <tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt> 51), <em>comunque</em> (<tt><a href="it_kiparlaforest-pos-CCONJ.html">CCONJ</a></tt> 57, <tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt> 36), <em>che</em> (<tt><a href="it_kiparlaforest-pos-SCONJ.html">SCONJ</a></tt> 315, <tt><a href="it_kiparlaforest-pos-PRON.html">PRON</a></tt> 305, <tt><a href="it_kiparlaforest-pos-DET.html">DET</a></tt> 49, <tt><a href="it_kiparlaforest-pos-CCONJ.html">CCONJ</a></tt> 6, <tt><a href="it_kiparlaforest-pos-ADP.html">ADP</a></tt> 3, <tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt> 1), <em>cioé</em> (<tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt> 4, <tt><a href="it_kiparlaforest-pos-CCONJ.html">CCONJ</a></tt> 4), <em>infatti</em> (<tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt> 17, <tt><a href="it_kiparlaforest-pos-CCONJ.html">CCONJ</a></tt> 4), <em>allora</em> (<tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt> 32, <tt><a href="it_kiparlaforest-pos-CCONJ.html">CCONJ</a></tt> 3)
 
-The 10 most frequent ambiguous types:  <em>e</em> (<tt><a href="it_kiparlaforest-pos-CCONJ.html">CCONJ</a></tt> 361, <tt><a href="it_kiparlaforest-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt> 1), <em>cioè</em> (<tt><a href="it_kiparlaforest-pos-CCONJ.html">CCONJ</a></tt> 165, <tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt> 10), <em>quindi</em> (<tt><a href="it_kiparlaforest-pos-CCONJ.html">CCONJ</a></tt> 113, <tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt> 23), <em>però</em> (<tt><a href="it_kiparlaforest-pos-CCONJ.html">CCONJ</a></tt> 65, <tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt> 33), <em>o</em> (<tt><a href="it_kiparlaforest-pos-CCONJ.html">CCONJ</a></tt> 59, <tt><a href="it_kiparlaforest-pos-INTJ.html">INTJ</a></tt> 1), <em>comunque</em> (<tt><a href="it_kiparlaforest-pos-CCONJ.html">CCONJ</a></tt> 55, <tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt> 28), <em>sia</em> (<tt><a href="it_kiparlaforest-pos-CCONJ.html">CCONJ</a></tt> 7, <tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt> 7, <tt><a href="it_kiparlaforest-pos-AUX.html">AUX</a></tt> 6, <tt><a href="it_kiparlaforest-pos-SCONJ.html">SCONJ</a></tt> 1), <em>che</em> (<tt><a href="it_kiparlaforest-pos-SCONJ.html">SCONJ</a></tt> 387, <tt><a href="it_kiparlaforest-pos-PRON.html">PRON</a></tt> 93, <tt><a href="it_kiparlaforest-pos-DET.html">DET</a></tt> 31, <tt><a href="it_kiparlaforest-pos-CCONJ.html">CCONJ</a></tt> 6, <tt><a href="it_kiparlaforest-pos-ADP.html">ADP</a></tt> 3, <tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt> 1), <em>infatti</em> (<tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt> 13, <tt><a href="it_kiparlaforest-pos-CCONJ.html">CCONJ</a></tt> 5), <em>allora</em> (<tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt> 27, <tt><a href="it_kiparlaforest-pos-CCONJ.html">CCONJ</a></tt> 4)
+The 10 most frequent ambiguous types:  <em>e</em> (<tt><a href="it_kiparlaforest-pos-CCONJ.html">CCONJ</a></tt> 459, <tt><a href="it_kiparlaforest-pos-INTJ.html">INTJ</a></tt> 6, <tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="it_kiparlaforest-pos-X.html">X</a></tt> 1), <em>cioè</em> (<tt><a href="it_kiparlaforest-pos-CCONJ.html">CCONJ</a></tt> 203, <tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt> 32, <tt><a href="it_kiparlaforest-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="it_kiparlaforest-pos-X.html">X</a></tt> 1), <em>quindi</em> (<tt><a href="it_kiparlaforest-pos-CCONJ.html">CCONJ</a></tt> 127, <tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt> 29, <tt><a href="it_kiparlaforest-pos-SCONJ.html">SCONJ</a></tt> 1), <em>o</em> (<tt><a href="it_kiparlaforest-pos-CCONJ.html">CCONJ</a></tt> 77, <tt><a href="it_kiparlaforest-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="it_kiparlaforest-pos-X.html">X</a></tt> 1), <em>però</em> (<tt><a href="it_kiparlaforest-pos-CCONJ.html">CCONJ</a></tt> 73, <tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt> 51), <em>comunque</em> (<tt><a href="it_kiparlaforest-pos-CCONJ.html">CCONJ</a></tt> 57, <tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt> 36), <em>sia</em> (<tt><a href="it_kiparlaforest-pos-AUX.html">AUX</a></tt> 17, <tt><a href="it_kiparlaforest-pos-CCONJ.html">CCONJ</a></tt> 8, <tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt> 5, <tt><a href="it_kiparlaforest-pos-SCONJ.html">SCONJ</a></tt> 1), <em>che</em> (<tt><a href="it_kiparlaforest-pos-SCONJ.html">SCONJ</a></tt> 315, <tt><a href="it_kiparlaforest-pos-PRON.html">PRON</a></tt> 305, <tt><a href="it_kiparlaforest-pos-DET.html">DET</a></tt> 49, <tt><a href="it_kiparlaforest-pos-CCONJ.html">CCONJ</a></tt> 6, <tt><a href="it_kiparlaforest-pos-ADP.html">ADP</a></tt> 3, <tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt> 1), <em>infatti</em> (<tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt> 17, <tt><a href="it_kiparlaforest-pos-CCONJ.html">CCONJ</a></tt> 4), <em>allora</em> (<tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt> 32, <tt><a href="it_kiparlaforest-pos-CCONJ.html">CCONJ</a></tt> 3)
 
 
 * <em>e</em>
-  * <tt><a href="it_kiparlaforest-pos-CCONJ.html">CCONJ</a></tt> 361: <em>okay <b>e</b> si trova in centro a la città o fuori</em>
-  * <tt><a href="it_kiparlaforest-pos-INTJ.html">INTJ</a></tt> 1: <em>allora <b>e</b> come zona ho sempre amato il centro di bologna quindi fosse per me in questo momento mi ritrasferirei in centro perché questa casa comunque essendo zona [PLACE_NAME] e per andare in centro ti muovi generalmen~ cioè ti devi muovere comunque o con dei mezzi o a piedi o in bicicletta ma comunque i tempi sono sempre più prolungati</em>
+  * <tt><a href="it_kiparlaforest-pos-CCONJ.html">CCONJ</a></tt> 459: <em><b>e</b> lei quando pensava di</em>
+  * <tt><a href="it_kiparlaforest-pos-INTJ.html">INTJ</a></tt> 6: <em><b>e</b> a voi è mai capitato di incontrare qualche artista bolognese in giro per strada</em>
   * <tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt> 1: <em>non posso scrivere <b>e</b></em>
+  * <tt><a href="it_kiparlaforest-pos-X.html">X</a></tt> 1: <em>e a la ca' foscari c' era anche appunto pao~ pallotti vagoni e infatti alcuni <b>e</b> serragiotto</em>
 * <em>cioè</em>
-  * <tt><a href="it_kiparlaforest-pos-CCONJ.html">CCONJ</a></tt> 165: <em>okay però comunque è <b>cioè</b> un' atmosfera familiare x</em>
-  * <tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt> 10: <em>il fatto è che molto spesso non c' acchiappano <b>cioè</b> anche x</em>
+  * <tt><a href="it_kiparlaforest-pos-CCONJ.html">CCONJ</a></tt> 203: <em>ma già quattro <b>cioè</b> quattro poi sono tanti</em>
+  * <tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt> 32: <em>il fatto è che molto spesso non c' acchiappano <b>cioè</b> anche x</em>
+  * <tt><a href="it_kiparlaforest-pos-ADJ.html">ADJ</a></tt> 1: <em>dopo lì in quel caso hai già alcune pugnette diverse <b>cioè</b></em>
+  * <tt><a href="it_kiparlaforest-pos-X.html">X</a></tt> 1: <em>cioè <b>cioè</b> enrico tu il problema è che tu prendi la la macchina e non gir~</em>
 * <em>quindi</em>
-  * <tt><a href="it_kiparlaforest-pos-CCONJ.html">CCONJ</a></tt> 113: <em>non si fa niente in quella zona <b>quindi</b> per forza vai in centro</em>
-  * <tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt> 23: <em>okay <b>quindi</b> è fatta su diversi piani</em>
-* <em>però</em>
-  * <tt><a href="it_kiparlaforest-pos-CCONJ.html">CCONJ</a></tt> 65: <em>okay <b>però</b> comunque è cioè un' atmosfera familiare x</em>
-  * <tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt> 33: <em>vabbè <b>però</b> è anche è anche ristorante</em>
+  * <tt><a href="it_kiparlaforest-pos-CCONJ.html">CCONJ</a></tt> 127: <em><b>quindi</b> con il xx cosa dobbiamo fare</em>
+  * <tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt> 29: <em><b>quindi</b> il brokering da parte di i bambini udenti</em>
+  * <tt><a href="it_kiparlaforest-pos-SCONJ.html">SCONJ</a></tt> 1: <em>okay perfetto <b>quindi</b> a questo punto io verrei per l' orale portando questo</em>
 * <em>o</em>
-  * <tt><a href="it_kiparlaforest-pos-CCONJ.html">CCONJ</a></tt> 59: <em>okay e si trova in centro a la città <b>o</b> fuori</em>
-  * <tt><a href="it_kiparlaforest-pos-INTJ.html">INTJ</a></tt> 1: <em><b>o</b> mio dio quanti dialetti diversi ci sono</em>
+  * <tt><a href="it_kiparlaforest-pos-CCONJ.html">CCONJ</a></tt> 77: <em>persone con cui parlare <b>o</b> intervistare così posso fare</em>
+  * <tt><a href="it_kiparlaforest-pos-INTJ.html">INTJ</a></tt> 1: <em>perché son chiusi <b>o</b> son chiusi i manicomi e noi siamo noi dobbiam prendere tutto</em>
+  * <tt><a href="it_kiparlaforest-pos-X.html">X</a></tt> 1: <em>appunto c' era questa invocazione di un qualche dio allora di sicuro non ne~ non era usato per la contabilità <b>o</b> o cose di questo tipo</em>
+* <em>però</em>
+  * <tt><a href="it_kiparlaforest-pos-CCONJ.html">CCONJ</a></tt> 73: <em>non saprei come scrivere 'mbare <b>però</b> apostrofo</em>
+  * <tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt> 51: <em>eh mh volevo far la su il child language brokering <b>però</b></em>
 * <em>comunque</em>
-  * <tt><a href="it_kiparlaforest-pos-CCONJ.html">CCONJ</a></tt> 55: <em>okay però <b>comunque</b> è cioè un' atmosfera familiare x</em>
-  * <tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt> 28: <em>no vabbè ci andrò <b>comunque</b></em>
+  * <tt><a href="it_kiparlaforest-pos-CCONJ.html">CCONJ</a></tt> 57: <em><b>comunque</b> finalmente l' insalata</em>
+  * <tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt> 36: <em><b>comunque</b> con ricordi</em>
 * <em>sia</em>
-  * <tt><a href="it_kiparlaforest-pos-CCONJ.html">CCONJ</a></tt> 7: <em>e da quel punto di vista comunque ho tutto il materiale di la scuola di lingua di i segni di insegnanti <b>sia</b> sordi che udenti</em>
-  * <tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt> 7: <em>sembra che questo <b>sia</b> il luogo di nascita di la lingua araba</em>
-  * <tt><a href="it_kiparlaforest-pos-AUX.html">AUX</a></tt> 6: <em>e poi per il resto di edifici storici non penso ci <b>sia</b> niente di che</em>
-  * <tt><a href="it_kiparlaforest-pos-SCONJ.html">SCONJ</a></tt> 1: <em>cioè quali sono le differenze tra questa casa qui e l' altra casa <b>sia</b> internamente che come zona</em>
+  * <tt><a href="it_kiparlaforest-pos-AUX.html">AUX</a></tt> 17: <em>ma io penso che anche il doppiaggio <b>sia</b> difficilissimo cioè non lo so</em>
+  * <tt><a href="it_kiparlaforest-pos-CCONJ.html">CCONJ</a></tt> 8: <em>e da quel punto di vista comunque ho tutto il materiale di la scuola di lingua di i segni di insegnanti <b>sia</b> sordi che udenti</em>
+  * <tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt> 5: <em>tutti ad i~ a imola fan quello anche perché penso ci <b>sia</b> soltanto quello e un' altra cosa mh</em>
+  * <tt><a href="it_kiparlaforest-pos-SCONJ.html">SCONJ</a></tt> 1: <em>e e rispetto a l' altra casa cioè quali sono le differenze tra questa casa qui e l' altra casa <b>sia</b> internamente che come zona</em>
 * <em>che</em>
-  * <tt><a href="it_kiparlaforest-pos-SCONJ.html">SCONJ</a></tt> 387: <em>però sì diciamo <b>che</b> crescendo hai bisogno di avere uno spazio più privato</em>
-  * <tt><a href="it_kiparlaforest-pos-PRON.html">PRON</a></tt> 93: <em>okay e tipo fuori da casa tua <b>che</b> c' è tipo avete il giardino</em>
-  * <tt><a href="it_kiparlaforest-pos-DET.html">DET</a></tt> 31: <em>sì <b>che</b> bella l' università tutti insieme</em>
-  * <tt><a href="it_kiparlaforest-pos-CCONJ.html">CCONJ</a></tt> 6: <em>scritti da qualcuno <b>che</b> per caso si è trovato a contatto con degli arabi in il passato</em>
+  * <tt><a href="it_kiparlaforest-pos-SCONJ.html">SCONJ</a></tt> 315: <em>eh se lei dice <b>che</b> la rossi la può seguire</em>
+  * <tt><a href="it_kiparlaforest-pos-PRON.html">PRON</a></tt> 305: <em><b>che</b> hanno imparato sì</em>
+  * <tt><a href="it_kiparlaforest-pos-DET.html">DET</a></tt> 49: <em><b>che</b> palle</em>
+  * <tt><a href="it_kiparlaforest-pos-CCONJ.html">CCONJ</a></tt> 6: <em>no piove più a torre melissa <b>che</b> a bologna</em>
   * <tt><a href="it_kiparlaforest-pos-ADP.html">ADP</a></tt> 3: <em>no più <b>che</b> altro è che cioè a me non mi hanno parlato bene di ancona sì ah proprio perché non cioè non non organizzano</em>
   * <tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt> 1: <em>ha ha viene oscurato il nome non sapranno <b>che</b> mangio l' insalata</em>
 * <em>infatti</em>
-  * <tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt> 13: <em><b>infatti</b></em>
-  * <tt><a href="it_kiparlaforest-pos-CCONJ.html">CCONJ</a></tt> 5: <em>e <b>infatti</b> per quello</em>
+  * <tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt> 17: <em><b>infatti</b></em>
+  * <tt><a href="it_kiparlaforest-pos-CCONJ.html">CCONJ</a></tt> 4: <em>e <b>infatti</b> per quello</em>
 * <em>allora</em>
-  * <tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt> 27: <em><b>allora</b> la mia casa è una villa mh in mezzo a la natura</em>
-  * <tt><a href="it_kiparlaforest-pos-CCONJ.html">CCONJ</a></tt> 4: <em><b>allora</b></em>
+  * <tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt> 32: <em>okay <b>allora</b> si vede che in le mar~ si vede che in le marche non si usa</em>
+  * <tt><a href="it_kiparlaforest-pos-CCONJ.html">CCONJ</a></tt> 3: <em><b>allora</b></em>
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 0.956522 (the average of all parts of speech is 1.385867).
+The form / lemma ratio of `CCONJ` is 0.913043 (the average of all parts of speech is 1.397522).
 
 The 1st highest number of forms (2) was observed with the lemma “e”: <em>e, ed</em>.
 
@@ -66,28 +71,30 @@ The 2nd highest number of forms (1) was observed with the lemma “allora”: <e
 
 The 3rd highest number of forms (1) was observed with the lemma “anzi”: <em>anzi</em>.
 
-`CCONJ` occurs with 4 features: <tt><a href="it_kiparlaforest-feat-Gender.html">Gender</a></tt> (2; 0% instances), <tt><a href="it_kiparlaforest-feat-Number.html">Number</a></tt> (2; 0% instances), <tt><a href="it_kiparlaforest-feat-PronType.html">PronType</a></tt> (2; 0% instances), <tt><a href="it_kiparlaforest-feat-ExtPos.html">ExtPos</a></tt> (1; 0% instances)
+`CCONJ` occurs with 1 features: <tt><a href="it_kiparlaforest-feat-ExtPos.html">ExtPos</a></tt> (1; 0% instances)
 
-`CCONJ` occurs with 4 feature-value pairs: `ExtPos=CCONJ`, `Gender=Fem`, `Number=Plur`, `PronType=Rel`
+`CCONJ` occurs with 1 feature-value pairs: `ExtPos=CCONJ`
 
-`CCONJ` occurs with 4 feature combinations.
-The most frequent feature combination is `_` (997 tokens).
-Examples: <em>e, cioè, ma, quindi, però, o, comunque, sia, infatti, allora</em>
+`CCONJ` occurs with 2 feature combinations.
+The most frequent feature combination is `_` (1249 tokens).
+Examples: <em>e, ma, cioè, quindi, o, però, comunque, sia, che, ed</em>
 
 
 ## Relations
 
-`CCONJ` nodes are attached to their parents using 9 different relations: <tt><a href="it_kiparlaforest-dep-cc.html">cc</a></tt> (611; 61% instances), <tt><a href="it_kiparlaforest-dep-discourse.html">discourse</a></tt> (263; 26% instances), <tt><a href="it_kiparlaforest-dep-advmod.html">advmod</a></tt> (75; 7% instances), <tt><a href="it_kiparlaforest-dep-root.html">root</a></tt> (25; 2% instances), <tt><a href="it_kiparlaforest-dep-mark.html">mark</a></tt> (13; 1% instances), <tt><a href="it_kiparlaforest-dep-reparandum.html">reparandum</a></tt> (11; 1% instances), <tt><a href="it_kiparlaforest-dep-dep.html">dep</a></tt> (2; 0% instances), <tt><a href="it_kiparlaforest-dep-case.html">case</a></tt> (1; 0% instances), <tt><a href="it_kiparlaforest-dep-nsubj.html">nsubj</a></tt> (1; 0% instances)
+`CCONJ` nodes are attached to their parents using 12 different relations: <tt><a href="it_kiparlaforest-dep-cc.html">cc</a></tt> (965; 77% instances), <tt><a href="it_kiparlaforest-dep-discourse.html">discourse</a></tt> (142; 11% instances), <tt><a href="it_kiparlaforest-dep-advmod.html">advmod</a></tt> (72; 6% instances), <tt><a href="it_kiparlaforest-dep-reparandum.html">reparandum</a></tt> (19; 2% instances), <tt><a href="it_kiparlaforest-dep-root.html">root</a></tt> (17; 1% instances), <tt><a href="it_kiparlaforest-dep-discourse-filler.html">discourse:filler</a></tt> (12; 1% instances), <tt><a href="it_kiparlaforest-dep-mark.html">mark</a></tt> (11; 1% instances), <tt><a href="it_kiparlaforest-dep-conj.html">conj</a></tt> (6; 0% instances), <tt><a href="it_kiparlaforest-dep-advcl.html">advcl</a></tt> (2; 0% instances), <tt><a href="it_kiparlaforest-dep-dep.html">dep</a></tt> (2; 0% instances), <tt><a href="it_kiparlaforest-dep-case.html">case</a></tt> (1; 0% instances), <tt><a href="it_kiparlaforest-dep-cc-preconj.html">cc:preconj</a></tt> (1; 0% instances)
 
-Parents of `CCONJ` nodes belong to 15 different parts of speech: <tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt> (525; 52% instances), <tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt> (169; 17% instances), <tt><a href="it_kiparlaforest-pos-ADJ.html">ADJ</a></tt> (86; 9% instances), <tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt> (43; 4% instances), <tt><a href="it_kiparlaforest-pos-PRON.html">PRON</a></tt> (39; 4% instances), <tt><a href="it_kiparlaforest-pos-PROPN.html">PROPN</a></tt> (31; 3% instances), <tt><a href="it_kiparlaforest-pos-X.html">X</a></tt> (26; 3% instances),  (25; 2% instances), <tt><a href="it_kiparlaforest-pos-AUX.html">AUX</a></tt> (15; 1% instances), <tt><a href="it_kiparlaforest-pos-INTJ.html">INTJ</a></tt> (13; 1% instances), <tt><a href="it_kiparlaforest-pos-CCONJ.html">CCONJ</a></tt> (10; 1% instances), <tt><a href="it_kiparlaforest-pos-NUM.html">NUM</a></tt> (10; 1% instances), <tt><a href="it_kiparlaforest-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="it_kiparlaforest-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="it_kiparlaforest-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances)
+Parents of `CCONJ` nodes belong to 15 different parts of speech: <tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt> (691; 55% instances), <tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt> (214; 17% instances), <tt><a href="it_kiparlaforest-pos-ADJ.html">ADJ</a></tt> (95; 8% instances), <tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt> (59; 5% instances), <tt><a href="it_kiparlaforest-pos-PRON.html">PRON</a></tt> (40; 3% instances), <tt><a href="it_kiparlaforest-pos-PROPN.html">PROPN</a></tt> (36; 3% instances), <tt><a href="it_kiparlaforest-pos-X.html">X</a></tt> (25; 2% instances), <tt><a href="it_kiparlaforest-pos-CCONJ.html">CCONJ</a></tt> (20; 2% instances), <tt><a href="it_kiparlaforest-pos-AUX.html">AUX</a></tt> (19; 2% instances),  (17; 1% instances), <tt><a href="it_kiparlaforest-pos-INTJ.html">INTJ</a></tt> (12; 1% instances), <tt><a href="it_kiparlaforest-pos-NUM.html">NUM</a></tt> (11; 1% instances), <tt><a href="it_kiparlaforest-pos-DET.html">DET</a></tt> (6; 0% instances), <tt><a href="it_kiparlaforest-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="it_kiparlaforest-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
 
-984 (98%) `CCONJ` nodes are leaves.
+1219 (98%) `CCONJ` nodes are leaves.
 
-18 (2%) `CCONJ` nodes have one child.
+28 (2%) `CCONJ` nodes have one child.
 
-The highest child degree of a `CCONJ` node is 1.
+3 (0%) `CCONJ` nodes have two children.
 
-Children of `CCONJ` nodes are attached using 7 different relations: <tt><a href="it_kiparlaforest-dep-reparandum.html">reparandum</a></tt> (9; 50% instances), <tt><a href="it_kiparlaforest-dep-advmod.html">advmod</a></tt> (2; 11% instances), <tt><a href="it_kiparlaforest-dep-dep.html">dep</a></tt> (2; 11% instances), <tt><a href="it_kiparlaforest-dep-discourse.html">discourse</a></tt> (2; 11% instances), <tt><a href="it_kiparlaforest-dep-cc.html">cc</a></tt> (1; 6% instances), <tt><a href="it_kiparlaforest-dep-fixed.html">fixed</a></tt> (1; 6% instances), <tt><a href="it_kiparlaforest-dep-parataxis.html">parataxis</a></tt> (1; 6% instances)
+The highest child degree of a `CCONJ` node is 2.
 
-Children of `CCONJ` nodes belong to 4 different parts of speech: <tt><a href="it_kiparlaforest-pos-CCONJ.html">CCONJ</a></tt> (10; 56% instances), <tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt> (4; 22% instances), <tt><a href="it_kiparlaforest-pos-INTJ.html">INTJ</a></tt> (2; 11% instances), <tt><a href="it_kiparlaforest-pos-X.html">X</a></tt> (2; 11% instances)
+Children of `CCONJ` nodes are attached using 9 different relations: <tt><a href="it_kiparlaforest-dep-reparandum.html">reparandum</a></tt> (21; 62% instances), <tt><a href="it_kiparlaforest-dep-dep.html">dep</a></tt> (3; 9% instances), <tt><a href="it_kiparlaforest-dep-discourse-filler.html">discourse:filler</a></tt> (3; 9% instances), <tt><a href="it_kiparlaforest-dep-conj.html">conj</a></tt> (2; 6% instances), <tt><a href="it_kiparlaforest-dep-advmod.html">advmod</a></tt> (1; 3% instances), <tt><a href="it_kiparlaforest-dep-cc.html">cc</a></tt> (1; 3% instances), <tt><a href="it_kiparlaforest-dep-discourse.html">discourse</a></tt> (1; 3% instances), <tt><a href="it_kiparlaforest-dep-fixed.html">fixed</a></tt> (1; 3% instances), <tt><a href="it_kiparlaforest-dep-mark.html">mark</a></tt> (1; 3% instances)
+
+Children of `CCONJ` nodes belong to 6 different parts of speech: <tt><a href="it_kiparlaforest-pos-CCONJ.html">CCONJ</a></tt> (20; 59% instances), <tt><a href="it_kiparlaforest-pos-X.html">X</a></tt> (5; 15% instances), <tt><a href="it_kiparlaforest-pos-INTJ.html">INTJ</a></tt> (4; 12% instances), <tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt> (3; 9% instances), <tt><a href="it_kiparlaforest-pos-ADP.html">ADP</a></tt> (1; 3% instances), <tt><a href="it_kiparlaforest-pos-SCONJ.html">SCONJ</a></tt> (1; 3% instances)
 

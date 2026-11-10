@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-126 nodes (7%) are attached to their parents as `obj`.
+131 nodes (6%) are attached to their parents as `obj`.
 
-106 instances of `obj` (84%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.31746031746032.
+110 instances of `obj` (84%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.31297709923664.
 
-The following 5 pairs of parts of speech are connected with `obj`: <tt><a href="xpg_kul-pos-VERB.html">VERB</a></tt>-<tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt> (115; 91% instances), <tt><a href="xpg_kul-pos-SYM.html">SYM</a></tt>-<tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt> (5; 4% instances), <tt><a href="xpg_kul-pos-PROPN.html">PROPN</a></tt>-<tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt> (3; 2% instances), <tt><a href="xpg_kul-pos-VERB.html">VERB</a></tt>-<tt><a href="xpg_kul-pos-PRON.html">PRON</a></tt> (2; 2% instances), <tt><a href="xpg_kul-pos-X.html">X</a></tt>-<tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
+The following 5 pairs of parts of speech are connected with `obj`: <tt><a href="xpg_kul-pos-VERB.html">VERB</a></tt>-<tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt> (117; 89% instances), <tt><a href="xpg_kul-pos-SYM.html">SYM</a></tt>-<tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt> (5; 4% instances), <tt><a href="xpg_kul-pos-VERB.html">VERB</a></tt>-<tt><a href="xpg_kul-pos-PRON.html">PRON</a></tt> (5; 4% instances), <tt><a href="xpg_kul-pos-PROPN.html">PROPN</a></tt>-<tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt> (3; 2% instances), <tt><a href="xpg_kul-pos-X.html">X</a></tt>-<tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -39,8 +39,8 @@ The following 5 pairs of parts of speech are connected with `obj`: <tt><a href="
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 3 obj	color:blue
-1	eS	ešt	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	3	det	_	Ref=TM1001271-6-1
-2	k	ke	CCONJ	_	_	1	flat	_	Ref=TM1001271-6-2
+1	eS	ešt	DET	_	Case=Acc|Foreign=Yes|Gender=Neut|Number=Sing|PronType=Dem	3	det	_	OrigLang=xld|Ref=TM1001271-6-1|SpaceAfter=No
+2	-k	ke	CCONJ	_	_	1	flat	_	Ref=TM1001271-6-2
 3	ṃrey	_	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	7	obj	_	Ref=TM1001271-6-3
 4	veiṢ	va	DET	_	Case=Dat|Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	6	det	_	Ref=TM1001271-6-4|SpaceAfter=No
 5	-t	t	ADV	_	_	4	advmod	_	Ref=TM1001271-6-5
@@ -51,14 +51,16 @@ The following 5 pairs of parts of speech are connected with `obj`: <tt><a href="
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 3 obj	color:blue
-1	midas	midas	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	Ref=TM757258-1-1
-2	aiasay	aiasay	PROPN	_	Case=Dat|Number=Sing	1	iobj	_	Ref=TM757258-1-2
-3	mạ..uṇ	mạ..uṇ	NOUN	_	Case=Acc|Number=Sing	1	obj	_	Ref=TM757258-1-3
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 4 obj	color:blue
+1	ata	ata	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	Ref=TM756922-1-1
+2	niyen	niyen	DET	_	Case=Acc|Number=Sing|PronType=Emp	3	det	_	Ref=TM756922-1-2
+3	kuryaneyon	kuryaneyon	NOUN	_	Case=Acc|Number=Sing	4	nmod	_	Ref=Ref=TM756922-1-3
+4	tan	τος	PRON	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	5	obj	_	Ref=TM756922-1-4
+5	egertoy	egertoy	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	Ref=TM756922-1-5
 
 ~~~
 

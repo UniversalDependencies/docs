@@ -23,7 +23,7 @@ The following 17 pairs of parts of speech are connected with `acl`: <tt><a href=
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 6 acl	color:blue
-1	Я	я	PRON	PRP	Case=Nom|Number=Sing|Person=1	3	nsubj	_	_
+1	Я	я	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
 2	также	также	ADV	RB	Degree=Pos	3	advmod	_	_
 3	задаюсь	задаваться	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
 4	вопросом	вопрос	NOUN	NN	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	3	obj	_	SpaceAfter=No
@@ -31,7 +31,7 @@ The following 17 pairs of parts of speech are connected with `acl`: <tt><a href=
 6	повлиял	повлиять	VERB	VBC	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	acl	_	_
 7	ли	ли	PART	RP	_	6	advmod	_	_
 8	на	на	ADP	IN	_	9	case	_	_
-9	это	это	PRON	DT	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	6	obl	_	_
+9	это	это	PRON	DT	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	6	obl	_	_
 10	Кубок	кубок	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
 11	Дэвиса	Дэвис	PROPN	NNP	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	10	flat:name	_	SpaceAfter=No
 12	.	.	PUNCT	.	_	3	punct	_	_
@@ -45,14 +45,14 @@ The following 17 pairs of parts of speech are connected with `acl`: <tt><a href=
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 5 acl	color:blue
-1	То	то	PRON	DT	Case=Nom|Gender=Neut|Number=Sing	14	nsubj	_	SpaceAfter=No
+1	То	то	PRON	DT	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	14	nsubj	_	SpaceAfter=No
 2	,	,	PUNCT	,	_	5	punct	_	_
 3	что	что	SCONJ	IN	_	5	obj	_	_
-4	она	она	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3	5	nsubj	_	_
+4	она	она	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
 5	говорит	говорить	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	acl	_	_
 6	и	и	CCONJ	CC	_	9	cc	_	_
 7	что	что	SCONJ	IN	_	9	obj	_	_
-8	она	она	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3	9	nsubj	_	_
+8	она	она	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	_
 9	делает	делать	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	conj	_	SpaceAfter=No
 10	,	,	PUNCT	,	_	5	punct	_	_
 11	на	на	ADP	IN	_	13	case	_	_
@@ -70,7 +70,7 @@ The following 17 pairs of parts of speech are connected with `acl`: <tt><a href=
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 8 acl	color:blue
-1	Ее	она	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3	3	obj	_	_
+1	Ее	она	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
 2	можно	можно	VERB	PRED	_	0	root	_	_
 3	назвать	назвать	VERB	VB	Aspect=Perf|VerbForm=Inf|Voice=Act	2	csubj	_	_
 4	одной	один	NUM	CD	Case=Ins|Gender=Fem|Number=Sing	3	nummod	_	_
@@ -79,11 +79,11 @@ The following 17 pairs of parts of speech are connected with `acl`: <tt><a href=
 7	широко	широко	ADV	RB	Degree=Pos	8	advmod	_	_
 8	распространенных	распространенный	ADJ	JJ	Case=Gen|Degree=Pos|Number=Plur	9	acl	_	_
 9	культур	культура	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	4	nmod	_	_
-10	того	тот	DET	DT	Case=Gen|Gender=Neut|Number=Sing	11	det	_	_
+10	того	тот	DET	DT	Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	11	det	_	_
 11	времени	время	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	9	nmod	_	SpaceAfter=No
 12	,	,	PUNCT	,	_	15	punct	_	_
 13	для	для	ADP	IN	_	14	case	_	_
-14	которой	который	PRON	WDT	Case=Gen|Gender=Fem|Number=Sing	15	obl	_	_
+14	которой	который	DET	WDT	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	15	obl	_	_
 15	известно	известный	ADJ	PRED	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	9	acl:relcl	_	_
 16	большое	большой	ADJ	JJ	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	17	amod	_	_
 17	количество	количество	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	15	nsubj	_	_

@@ -66,7 +66,7 @@ The most frequent other feature values with which `NOUN` and `NumType` co-occurr
 * `Card` (47; 31% of non-empty `NumType`): <em>1970s, 80's, 1980s, 1990s, 1590's, 1920s, 1960s, 20s, 60's, 70's</em>
 * `Frac` (25; 17% of non-empty `NumType`): <em>half, third, fifth, fourth, tenth, thirds</em>
 * `Ord` (79; 52% of non-empty `NumType`): <em>23rd, 26th, 30th, 15th, 20th, 22nd, 13th, 1st, 29th, 4th</em>
-* `EMPTY` (42933): <em>time, people, service, place, thanks, food, way, year, day, number</em>
+* `EMPTY` (42924): <em>time, people, service, place, thanks, food, way, year, day, number</em>
 
 `NumType` seems to be **lexical feature** of `NOUN`. 100% lemmas (58) occur only with one value of `NumType`.
 

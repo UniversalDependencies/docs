@@ -62,7 +62,7 @@ The following 17 pairs of parts of speech are connected with `punct`: <tt><a hre
 9	you	you	PRON	PRP	_	10	nsubj	10:nsubj	_
 10	want	want	VERB	VB	_	5	parataxis	5:parataxis	_
 11	avocado	avocado	NOUN	NN	_	10	obj	10:obj	SpaceAfter=No
-12	?	?	PUNCT	?	_	5	punct	5:punct	_
+12	?	?	PUNCT	.	_	5	punct	5:punct	_
 
 ~~~
 

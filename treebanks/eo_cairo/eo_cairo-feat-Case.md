@@ -105,8 +105,8 @@ The most frequent other feature values with which `VERB` and `Case` co-occurred:
 The 10 most frequent relations where parent and child node agree in `Case`:
 <tt>NOUN --[<tt><a href="eo_cairo-dep-nmod-poss.html">nmod:poss</a></tt>]--> PRON</tt> (5; 100%),
 <tt>ADJ --[<tt><a href="eo_cairo-dep-conj.html">conj</a></tt>]--> ADJ</tt> (1; 100%),
-<tt>ADJ --[<tt><a href="eo_cairo-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (1; 100%),
 <tt>ADJ --[<tt><a href="eo_cairo-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (1; 100%),
+<tt>ADJ --[<tt><a href="eo_cairo-dep-obl.html">obl</a></tt>]--> PRON</tt> (1; 100%),
 <tt>NOUN --[<tt><a href="eo_cairo-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (1; 100%),
 <tt>PROPN --[<tt><a href="eo_cairo-dep-appos.html">appos</a></tt>]--> NOUN</tt> (1; 100%),
 <tt>PROPN --[<tt><a href="eo_cairo-dep-conj.html">conj</a></tt>]--> PROPN</tt> (1; 100%),

@@ -12,17 +12,17 @@ It occurs with 5 different values: `ADJ`, `ADP`, `ADV`, `CCONJ`, `SCONJ`.
 121 tokens (0%) have a non-empty value of `ExtPos`.
 25 types (0%) occur at least once with a non-empty value of `ExtPos`.
 20 lemmas (0%) occur at least once with a non-empty value of `ExtPos`.
-The feature is used with 8 part-of-speech tags: <tt><a href="sv_talbanken-pos-ADP.html">ADP</a></tt> (44; 0% instances), <tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt> (44; 0% instances), <tt><a href="sv_talbanken-pos-SCONJ.html">SCONJ</a></tt> (12; 0% instances), <tt><a href="sv_talbanken-pos-CCONJ.html">CCONJ</a></tt> (9; 0% instances), <tt><a href="sv_talbanken-pos-NOUN.html">NOUN</a></tt> (7; 0% instances), <tt><a href="sv_talbanken-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="sv_talbanken-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="sv_talbanken-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The feature is used with 7 part-of-speech tags: <tt><a href="sv_talbanken-pos-ADP.html">ADP</a></tt> (59; 0% instances), <tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt> (44; 0% instances), <tt><a href="sv_talbanken-pos-NOUN.html">NOUN</a></tt> (7; 0% instances), <tt><a href="sv_talbanken-pos-CCONJ.html">CCONJ</a></tt> (6; 0% instances), <tt><a href="sv_talbanken-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="sv_talbanken-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="sv_talbanken-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 ### `ADP`
 
-44 <tt><a href="sv_talbanken-pos-ADP.html">ADP</a></tt> tokens (0% of all `ADP` tokens) have a non-empty value of `ExtPos`.
+59 <tt><a href="sv_talbanken-pos-ADP.html">ADP</a></tt> tokens (1% of all `ADP` tokens) have a non-empty value of `ExtPos`.
 
 `ADP` tokens may have the following values of `ExtPos`:
 
 * `ADJ` (1; 2% of non-empty `ExtPos`): <em>före</em>
-* `ADP` (34; 77% of non-empty `ExtPos`): <em>för, i</em>
-* `ADV` (9; 20% of non-empty `ExtPos`): <em>i, a</em>
+* `ADP` (34; 58% of non-empty `ExtPos`): <em>för, i</em>
+* `ADV` (24; 41% of non-empty `ExtPos`): <em>som, i, a</em>
 
 <table>
   <tr><th>Paradigm <i>i</i></th><th><tt>ADP</tt></th><th><tt>ADV</tt></th></tr>
@@ -40,23 +40,6 @@ The most frequent other feature values with which `ADV` and `ExtPos` co-occurred
 * `ADV` (19; 43% of non-empty `ExtPos`): <em>så, till, rent, sent</em>
 * `SCONJ` (25; 57% of non-empty `ExtPos`): <em>därför</em>
 
-### `SCONJ`
-
-12 <tt><a href="sv_talbanken-pos-SCONJ.html">SCONJ</a></tt> tokens (1% of all `SCONJ` tokens) have a non-empty value of `ExtPos`.
-
-`SCONJ` tokens may have the following values of `ExtPos`:
-
-* `ADV` (12; 100% of non-empty `ExtPos`): <em>som</em>
-
-### `CCONJ`
-
-9 <tt><a href="sv_talbanken-pos-CCONJ.html">CCONJ</a></tt> tokens (0% of all `CCONJ` tokens) have a non-empty value of `ExtPos`.
-
-`CCONJ` tokens may have the following values of `ExtPos`:
-
-* `ADV` (3; 33% of non-empty `ExtPos`): <em>som</em>
-* `CCONJ` (6; 67% of non-empty `ExtPos`): <em>vare</em>
-
 ### `NOUN`
 
 7 <tt><a href="sv_talbanken-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `ExtPos`.
@@ -67,6 +50,14 @@ The most frequent other feature values with which `NOUN` and `ExtPos` co-occurre
 
 * `ADP` (3; 43% of non-empty `ExtPos`): <em>tack</em>
 * `ADV` (4; 57% of non-empty `ExtPos`): <em>vice, Poste, stick</em>
+
+### `CCONJ`
+
+6 <tt><a href="sv_talbanken-pos-CCONJ.html">CCONJ</a></tt> tokens (0% of all `CCONJ` tokens) have a non-empty value of `ExtPos`.
+
+`CCONJ` tokens may have the following values of `ExtPos`:
+
+* `CCONJ` (6; 100% of non-empty `ExtPos`): <em>vare</em>
 
 ### `VERB`
 

@@ -23,7 +23,7 @@ The most frequent other feature values with which `NOUN` and `Degree` co-occurre
 `NOUN` tokens may have the following values of `Degree`:
 
 * `Dim` (1771; 100% of non-empty `Degree`): <em>cartula, cartulam, cartulas, libellum, libello, cartule, ancilla, libelli, casella, livello</em>
-* `EMPTY` (49441): <em>teste, ecclesie, manus, filio, casa, loco, terra, res, signum, notarius</em>
+* `EMPTY` (49442): <em>teste, ecclesie, manus, filio, casa, loco, terra, res, signum, notarius</em>
 
 `Degree` seems to be **lexical feature** of `NOUN`. 100% lemmas (11) occur only with one value of `Degree`.
 

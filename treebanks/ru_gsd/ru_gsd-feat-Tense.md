@@ -18,14 +18,14 @@ The feature is used with 3 part-of-speech tags: <tt><a href="ru_gsd-pos-VERB.htm
 
 7591 <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt> tokens (89% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="ru_gsd-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (6647; 88%), <tt><a href="ru_gsd-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (5551; 73%), <tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (5549; 73%), <tt><a href="ru_gsd-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (5491; 72%), <tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5395; 71%), <tt><a href="ru_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (5257; 69%), <tt><a href="ru_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (5257; 69%), <tt><a href="ru_gsd-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (4527; 60%), <tt><a href="ru_gsd-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (3948; 52%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="ru_gsd-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (6647; 88%), <tt><a href="ru_gsd-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (5551; 73%), <tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (5549; 73%), <tt><a href="ru_gsd-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (5491; 72%), <tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5395; 71%), <tt><a href="ru_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (5257; 69%), <tt><a href="ru_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (5257; 69%), <tt><a href="ru_gsd-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (4527; 60%), <tt><a href="ru_gsd-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (3949; 52%).
 
 `VERB` tokens may have the following values of `Tense`:
 
 * `Fut` (88; 1% of non-empty `Tense`): <em>будет, сможет, поможет, станет, станут, выйдет, начнутся, останется, рассмотрим, смогут</em>
 * `Past` (4918; 65% of non-empty `Tense`): <em>стал, получил, родился, начал, было, работал, стала, окончил, род., назначен</em>
 * `Pres` (2585; 34% of non-empty `Tense`): <em>является, составляет, может, находится, входит, имеет, есть, занимает, могут, являются</em>
-* `EMPTY` (903): <em>можно, быть, заниматься, играть, сделать, использовать, работать, стать, надо, найти</em>
+* `EMPTY` (904): <em>можно, быть, заниматься, играть, сделать, использовать, работать, стать, надо, найти</em>
 
 <table>
   <tr><th>Paradigm <i>быть</i></th><th><tt>Pres</tt></th><th><tt>Fut</tt></th><th><tt>Past</tt></th></tr>

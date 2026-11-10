@@ -18,7 +18,7 @@ The feature is used with 8 part-of-speech tags: <tt><a href="ur_udtb-pos-PRON.ht
 
 760 <tt><a href="ur_udtb-pos-PRON.html">PRON</a></tt> tokens (14% of all `PRON` tokens) have a non-empty value of `Polite`.
 
-The most frequent other feature values with which `PRON` and `Polite` co-occurred: <tt><a href="ur_udtb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (756; 99%), <tt><a href="ur_udtb-feat-Person.html">Person</a></tt><tt>=3</tt> (720; 95%), <tt><a href="ur_udtb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (693; 91%), <tt><a href="ur_udtb-feat-Case.html">Case</a></tt><tt>=Acc</tt> (566; 74%), <tt><a href="ur_udtb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (549; 72%).
+The most frequent other feature values with which `PRON` and `Polite` co-occurred: <tt><a href="ur_udtb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (760; 100%), <tt><a href="ur_udtb-feat-Person.html">Person</a></tt><tt>=3</tt> (720; 95%), <tt><a href="ur_udtb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (693; 91%), <tt><a href="ur_udtb-feat-Case.html">Case</a></tt><tt>=Acc</tt> (566; 74%), <tt><a href="ur_udtb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (549; 72%).
 
 `PRON` tokens may have the following values of `Polite`:
 
@@ -37,7 +37,7 @@ The most frequent other feature values with which `AUX` and `Polite` co-occurred
 
 * `Form` (208; 98% of non-empty `Polite`): ہیں، ہےں، تھے، ہوئے، رہے، گے، گئے، تھیں، تھا، سکے
 * `Infm` (4; 2% of non-empty `Polite`): جاؤ، رہو
-* `EMPTY` (8909): ہے، ہوئے، گیا، ہیں، تھا، ہےں، جا، گئی، تھی، گئے
+* `EMPTY` (8911): ہے، ہوئے، گیا، ہیں، تھا، ہےں، جا، گئی، تھی، گئے
 
 <table>
   <tr><th>Paradigm <i>جانا</i></th><th><tt>Infm</tt></th><th><tt>Form</tt></th></tr>
@@ -60,7 +60,7 @@ The most frequent other feature values with which `VERB` and `Polite` co-occurre
 
 * `Form` (91; 85% of non-empty `Polite`): کریں_گے، ہوئے، چکے، دیتے، رہے، کریں، ہیں، آتے، بنے، تھے
 * `Infm` (16; 15% of non-empty `Polite`): کرو، رکھو، آؤ، جاؤں، دیکھو، سناؤ، لو، چاہو
-* `EMPTY` (12588): کیا، کہا، کر، کرنے، کی، ہو، دیا، کرتے، ہے، دی
+* `EMPTY` (12586): کیا، کہا، کر، کرنے، کی، ہو، دیا، کرتے، ہے، دی
 
 <table>
   <tr><th>Paradigm <i>کرنا</i></th><th><tt>Infm</tt></th><th><tt>Form</tt></th></tr>
@@ -131,5 +131,5 @@ The most frequent other feature values with which `PROPN` and `Polite` co-occurr
 `PROPN` tokens may have the following values of `Polite`:
 
 * `Form` (1; 100% of non-empty `Polite`): کیمون
-* `EMPTY` (17134): پی، سی، آئی، ایس، کانگریس، بی، ہندوستان، ریڈی، اے، سنگھ
+* `EMPTY` (17130): پی، سی، آئی، ایس، کانگریس، بی، ہندوستان، ریڈی، اے، سنگھ
 

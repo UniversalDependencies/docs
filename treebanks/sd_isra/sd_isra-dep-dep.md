@@ -42,7 +42,7 @@ The following 25 pairs of parts of speech are connected with `dep`: <tt><a href=
 # visual-style 4 5 dep	color:blue
 1	نه	نه	PART	PART	_	4	advmod	_	_
 2	ته	ته	SCONJ	CS	_	4	mark	_	_
-3	تنهنجو	تنهنجو	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=2	4	nsubj	_	_
+3	تنهنجو	تنهنجو	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	_
 4	خير	خير	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
 5	ڪونه	ڪونه	PART	PART	_	4	dep	_	_
 6	هوندو	آهي	AUX	VAUX	Gender=Masc|Number=Sing|Person=3|Tense=Fut	4	cop	_	_

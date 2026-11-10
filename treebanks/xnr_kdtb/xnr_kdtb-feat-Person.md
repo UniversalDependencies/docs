@@ -144,14 +144,14 @@ The most frequent other feature values with which `NUM` and `Person` co-occurred
 ## Relations with Agreement in `Person`
 
 The 10 most frequent relations where parent and child node agree in `Person`:
-<tt>NOUN --[<tt><a href="xnr_kdtb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (63; 100%),
+<tt>NOUN --[<tt><a href="xnr_kdtb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (64; 100%),
 <tt>VERB --[<tt><a href="xnr_kdtb-dep-obl.html">obl</a></tt>]--> NOUN</tt> (55; 56%),
 <tt>NOUN --[<tt><a href="xnr_kdtb-dep-cop.html">cop</a></tt>]--> AUX</tt> (35; 78%),
 <tt>NOUN --[<tt><a href="xnr_kdtb-dep-det.html">det</a></tt>]--> DET</tt> (33; 72%),
-<tt>NOUN --[<tt><a href="xnr_kdtb-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (21; 100%),
+<tt>NOUN --[<tt><a href="xnr_kdtb-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (22; 100%),
 <tt>VERB --[<tt><a href="xnr_kdtb-dep-aux-pass.html">aux:pass</a></tt>]--> AUX</tt> (21; 60%),
 <tt>PROPN --[<tt><a href="xnr_kdtb-dep-compound.html">compound</a></tt>]--> PROPN</tt> (19; 100%),
-<tt>NOUN --[<tt><a href="xnr_kdtb-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (17; 57%),
+<tt>NOUN --[<tt><a href="xnr_kdtb-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (17; 55%),
 <tt>NOUN --[<tt><a href="xnr_kdtb-dep-compound.html">compound</a></tt>]--> NOUN</tt> (14; 100%),
-<tt>NOUN --[<tt><a href="xnr_kdtb-dep-obl.html">obl</a></tt>]--> NOUN</tt> (12; 92%).
+<tt>NOUN --[<tt><a href="xnr_kdtb-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (11; 92%).
 

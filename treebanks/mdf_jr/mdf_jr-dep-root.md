@@ -49,7 +49,7 @@ The following 7 pairs of parts of speech are connected with `root`: -<tt><a href
 7	:	:	PUNCT	CLB	_	11	punct	_	_
 8	гулянять	гуляня	NOUN	N	Case=Gen|Definite=Def|Number=Sing	9	nmod	_	_
 9	пацяняц	паця	NOUN	N	Case=Nom|Degree=Dim|Number=Sing|Number[psor]=Sing|Person[psor]=3	11	obj	_	_
-10	апак	аф	AUX	Aux	PartForm=NegConvPrc|Polarity=Neg|VerbForm=Conv,Part	11	aux	_	_
+10	апак	аф	AUX	Aux	PartForm=NegConvPrc|Polarity=Neg|VerbForm=Conv,Part	11	aux:neg	_	_
 11	синтть	синдемс	VERB	V	Connegative=Yes	6	csubj	_	SpaceAfter=No
 12	.	.	PUNCT	CLB	_	6	punct	_	_
 
@@ -62,7 +62,7 @@ The following 7 pairs of parts of speech are connected with `root`: -<tt><a href
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 4 root	color:blue
-1	Касондярян	касомс	VERB	V	Derivation=Cond|Mood=Ind|Number[subj]=Sing|Person[subj]=1|VerbForm=Fin	4	advcl	_	SpaceAfter=No
+1	Касондярян	касомс	VERB	V	ConjType=Cnd|Mood=Ind|Number[subj]=Sing|Person[subj]=1|VerbForm=Fin	4	advcl	_	SpaceAfter=No
 2	,	,	PUNCT	CLB	_	1	punct	_	_
 3	улян	улемс	AUX	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Pres|VerbForm=Fin	4	cop	_	_
 4	лётчикокс	лётчик	NOUN	N	Case=Tra|Definite=Ind|Number=Plur,Sing	0	root	_	SpaceAfter=No

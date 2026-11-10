@@ -8,27 +8,26 @@ udver: '2'
 
 This relation is universal.
 
-14 nodes (4%) are attached to their parents as `mark`.
+45 nodes (5%) are attached to their parents as `mark`.
 
-13 instances of `mark` (93%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.42857142857143.
+43 instances of `mark` (96%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.44444444444444.
 
-The following 3 pairs of parts of speech are connected with `mark`: <tt><a href="kbc_unicamp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kbc_unicamp-pos-SCONJ.html">SCONJ</a></tt> (10; 71% instances), <tt><a href="kbc_unicamp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kbc_unicamp-pos-SCONJ.html">SCONJ</a></tt> (2; 14% instances), <tt><a href="kbc_unicamp-pos-VERB.html">VERB</a></tt>-<tt><a href="kbc_unicamp-pos-SCONJ.html">SCONJ</a></tt> (2; 14% instances).
+The following 4 pairs of parts of speech are connected with `mark`: <tt><a href="kbc_unicamp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kbc_unicamp-pos-SCONJ.html">SCONJ</a></tt> (24; 53% instances), <tt><a href="kbc_unicamp-pos-VERB.html">VERB</a></tt>-<tt><a href="kbc_unicamp-pos-SCONJ.html">SCONJ</a></tt> (12; 27% instances), <tt><a href="kbc_unicamp-pos-DET.html">DET</a></tt>-<tt><a href="kbc_unicamp-pos-SCONJ.html">SCONJ</a></tt> (8; 18% instances), <tt><a href="kbc_unicamp-pos-PRON.html">PRON</a></tt>-<tt><a href="kbc_unicamp-pos-SCONJ.html">SCONJ</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 5 3 mark	color:blue
+# visual-style 5 4 mark	color:blue
 1	iGeladi	Geladi	NOUN	N$	Gender=Masc|Number=Sing|Number[psor]=Sing|Person[psor]=1	2	nsubj	_	TokenRange=0:7
-2	idei	dei	VERB	VB	Mood=Ind|Person[erg]=3|VerbForm=Fin	0	root	_	TokenRange=8:12
-3	me	me	SCONJ	C	_	5	mark	_	_
-4	ijo	ijo	DET	D	Gender=Masc|Number=Sing|PronType=Dem	5	det	_	_
-5	naigi	naigi	NOUN	N	Gender=Masc|Number=Sing	2	obj	_	TokenRange=18:23
-6	naGajo	niGijo	PRON	PRO$	Gender=Fem|Poss=Yes|PronType=Dem	5	nmod:poss	_	SpaceAfter=No|TokenRange=24:30
-7	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=30:31
+2	idei	dei	VERB	VB	Mood=Ind|Number[erg]=Sing|Person[erg]=3|VerbForm=Fin	0	root	_	TokenRange=8:12
+3	naigi	naigi	NOUN	N	Gender=Masc|Number=Sing	2	obj	_	TokenRange=13:18
+4	me	me	SCONJ	C	_	5	mark	_	TokenRange=19:21
+5	napioi	napioi	NOUN	N	_	3	acl:relcl	_	SpaceAfter=No|TokenRange=22:28
+6	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=28:29
 
 ~~~
 
@@ -39,27 +38,30 @@ The following 3 pairs of parts of speech are connected with `mark`: <tt><a href=
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 4 mark	color:blue
-1	iGeladi	Geladi	NOUN	N$	Gender=Masc|Number=Sing|Number[psor]=Sing|Person[psor]=1	2	nsubj	_	_
-2	idei	dei	VERB	VB	Mood=Ind|Person[erg]=3|VerbForm=Fin	0	root	_	_
-3	naigi	naigi	NOUN	N	Gender=Masc|Number=Sing	2	obj	_	_
-4	me	me	SCONJ	C	_	5	mark	_	_
-5	napioi	napioi	ADJ	ADJ	_	3	acl:relcl	_	SpaceAfter=No
-6	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=28:29
+1	nGida	niGida	DET	D	Gender=Masc|Number=Sing|PronType=Dem	2	det	_	StandardForm=niGida|TokenRange=0:5
+2	niwenigi	wenigi	NOUN	N	Gender=Masc|Number=Sing	5	dislocated	_	TokenRange=6:14
+3	daGaxa	daGaxa	ADV	Q	_	5	advmod	_	TokenRange=15:21
+4	me	me	SCONJ	C	_	5	mark	_	TokenRange=22:24
+5	dakake	akake	VERB	VB	Mood=Ind|Person=3|VerbForm=Fin|Voice=Inv	0	root	_	TokenRange=25:31
+6	loojedi	oojedi	NOUN	N$	Gender=Masc|Number=Sing|Person[psor]=3	5	nsubj	_	SpaceAfter=No|TokenRange=32:39
+7	.	.	PUNCT	PUNCT	_	5	punct	_	SpaceAfter=No|TokenRange=39:40
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 3 mark	color:blue
-1	naGana	niGina	DET	D	Gender=Fem|Number=Sing|PronType=Dem	4	nsubj	_	_
-2	eliodi	eliodi	ADV	Q	PronType=Ind	4	advmod	_	_
-3	me	me	SCONJ	C	_	4	mark	_	_
-4	ninitibeci	nitibece	VERB	VB	Mood=Ind|Person=3|VerbForm=Fin	0	root	_	StandardLemma=-ini(tibece)
-5	.	.	PUNCT	PUNCT	_	4	punct	_	SpaceAfter=No|TokenRange=26:27
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 5 mark	color:blue
+1	niGijoa	niGijo	DET	D	Gender=Masc|Number=Plur|PronType=Dem	2	det	_	TokenRange=0:7
+2	lionigipi	iona	NOUN	N$	Gender=Fem,Masc|Number=Plur|Person[psor]=3	4	nsubj	_	TokenRange=8:17
+3	iwaalo	iwaalo	NOUN	N	Gender=Fem|Number=Sing	2	nmod:poss	_	TokenRange=18:24
+4	idei	dei	VERB	VB	Mood=Ind|Number[erg]=Sing|Person[erg]=3|VerbForm=Fin	0	root	_	TokenRange=25:29
+5	me	me	SCONJ	C	_	6	mark	_	_
+6	initaGa	ini	DET	DAPL	Gender=Masc|Number=Sing|PronType=Dem	4	obj	_	Case=Com|NumClass=Sitting
+7	.	.	PUNCT	PUNCT	_	4	punct	_	SpaceAfter=No|TokenRange=38:39
 
 ~~~
 

@@ -60,7 +60,7 @@ The following 14 pairs of parts of speech are connected with `punct`: <tt><a hre
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 3 punct	color:blue
-1	अब	अब	DET	N_NST	Case=Nom|PronType=Prs	2	obl	_	Translit=aba|LTranslit=aba
+1	अब	अब	DET	N_NST	Case=Nom|PronType=Prs	2	nmod	_	Translit=aba|LTranslit=aba
 2	भारत	भारत	PROPN	N_NNP	Case=Nom|Gender=Masc|Number=Sing|Person=3	10	nsubj	_	Translit=bhārata|LTranslit=bhārata
 3	-	-	PUNCT	RD_PUNC	_	2	punct	_	Translit=-|LTranslit=-
 4	भूमि	भूमि	NOUN	N_NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	2	compound	_	Translit=bhūmi|LTranslit=bhūmi

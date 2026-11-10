@@ -9,7 +9,7 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Fut`, `Past`, `Pres`.
 
-2492 tokens (11%) have a non-empty value of `Tense`.
+2492 tokens (10%) have a non-empty value of `Tense`.
 1177 types (19%) occur at least once with a non-empty value of `Tense`.
 573 lemmas (12%) occur at least once with a non-empty value of `Tense`.
 The feature is used with 2 part-of-speech tags: <tt><a href="it_pud-pos-VERB.html">VERB</a></tt> (1569; 7% instances), <tt><a href="it_pud-pos-AUX.html">AUX</a></tt> (923; 4% instances).

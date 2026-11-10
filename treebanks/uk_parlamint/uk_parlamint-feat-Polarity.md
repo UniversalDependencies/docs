@@ -21,7 +21,7 @@ The feature is used with 5 part-of-speech tags: <tt><a href="uk_parlamint-pos-PA
 `PART` tokens may have the following values of `Polarity`:
 
 * `Neg` (1276; 100% of non-empty `Polarity`): <em>не, ні</em>
-* `EMPTY` (1253): <em>і, тільки, ж, ну, так, саме, просто, лише, чи, навіть</em>
+* `EMPTY` (1251): <em>і, тільки, ж, ну, так, саме, просто, лише, чи, навіть</em>
 
 ### `ADV`
 
@@ -32,7 +32,7 @@ The most frequent other feature values with which `ADV` and `Polarity` co-occurr
 `ADV` tokens may have the following values of `Polarity`:
 
 * `Neg` (94; 100% of non-empty `Polarity`): <em>немає, нема, незважаючи, нікуди</em>
-* `EMPTY` (5449): <em>сьогодні, тому, зараз, ще, так, треба, вже, дуже, також, тут</em>
+* `EMPTY` (5448): <em>сьогодні, тому, зараз, ще, так, треба, вже, дуже, також, тут</em>
 
 ### `VERB`
 
@@ -52,7 +52,7 @@ The most frequent other feature values with which `VERB` and `Polarity` co-occur
 `CCONJ` tokens may have the following values of `Polarity`:
 
 * `Neg` (25; 100% of non-empty `Polarity`): <em>ні, ані</em>
-* `EMPTY` (3694): <em>і, та, а, але, чи, або, тобто, як, й, проте</em>
+* `EMPTY` (3699): <em>і, та, а, але, чи, або, тобто, як, й, проте</em>
 
 ### `INTJ`
 

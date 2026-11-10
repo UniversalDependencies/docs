@@ -43,7 +43,7 @@ The following 9 pairs of parts of speech are connected with `nummod`: <tt><a hre
 4	satoja	sata	NUM	Num,Card,Pl,Par	Case=Par|Number=Plur|NumType=Card	5	nummod	_	_
 5	tuhansia	tuhat	NUM	Num,Card,Pl,Par	Case=Par|Number=Plur|NumType=Card	6	nummod	_	_
 6	markkoja	markka	NOUN	N,Pl,Par	Case=Par|Number=Plur	3	obl	_	_
-7	.	.	PUNCT	Pun	_	6	punct	_	_
+7	.	.	PUNCT	Pun	_	3	punct	_	_
 
 ~~~
 
@@ -60,7 +60,7 @@ The following 9 pairs of parts of speech are connected with `nummod`: <tt><a hre
 4	kymmenen	kymmenen	NUM	Num,Card,Sg,Gen	Case=Gen|Number=Sing|NumType=Card	5	nummod	_	_
 5	suurimman	suuri	ADJ	A,Sup,Sg,Gen	Case=Gen|Degree=Sup|Number=Sing	2	obl	_	_
 6	joukossa	joukossa	ADP	Adp	_	5	case	_	_
-7	.	.	PUNCT	Pun	_	5	punct	_	Was18=punct:6:case
+7	.	.	PUNCT	Pun	_	2	punct	_	Was18=punct:6:case
 
 ~~~
 

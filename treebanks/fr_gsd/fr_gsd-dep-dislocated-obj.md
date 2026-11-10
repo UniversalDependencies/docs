@@ -49,12 +49,12 @@ The following 4 pairs of parts of speech are connected with `dislocated:obj`: <t
 24	,	,	PUNCT	_	_	5	punct	_	_
 25	n'	ne	ADV	_	Polarity=Neg	27	advmod	_	SpaceAfter=No
 26	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	27	aux:tense	_	_
-27	cessé	cesser	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	5	parataxis:insert	_	Tense[denom]=Past
+27	cessé	cesser	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	5	parataxis:insert	_	Status[Tense]=Denom
 28	de	de	ADP	_	_	29	mark	_	_
 29	répéter	répéter	VERB	_	VerbForm=Inf	27	xcomp	_	Subject=SubjRaising
 30	cet	ce	DET	_	Gender=Masc|Number=Sing|PronType=Dem	31	det	_	_
 31	animateur	animateur	NOUN	_	Gender=Masc|Number=Sing	27	nsubj	_	Exponence[Gender]=Inherent
-32	passé	passer	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	31	acl	_	Tense[denom]=Past
+32	passé	passer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	31	acl	_	Status[Tense]=Denom
 33	par	par	ADP	_	_	34	case	_	_
 34	Radio	Radio	PROPN	_	_	32	obl:agent	_	_
 35	Nova	Nova	PROPN	_	_	34	flat:name	_	SpaceAfter=No
@@ -83,8 +83,8 @@ The following 4 pairs of parts of speech are connected with `dislocated:obj`: <t
 12	qu'	que	SCONJ	_	_	15	mark	_	SpaceAfter=No
 13	on	on	PRON	_	Case=Nom|Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Ind	15	nsubj	_	_
 14	en	en	PRON	_	Emph=No|Person=3|PronType=Prs	16	nmod	_	_
-15	créé	créer	VERB	_	Gender=Masc|Number=Sing|Typo=Yes|VerbForm=Part|Voice=Pass	10	conj	_	CorrectForm=crée|CorrectMood=Ind|CorrectTense=Pres|CorrectVerbForm=Fin|Tense[denom]=Past
-16	20.000	20.000	NUM	_	Number=Plur	15	obj	_	Exponence[Number]=Inherent
+15	créé	créer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|Typo=Yes|VerbForm=Part|Voice=Pass	10	conj	_	CorrectForm=crée|CorrectMood=Ind|CorrectTense=Pres|CorrectVerbForm=Fin|Status[Tense]=Denom
+16	20.000	20.000	NUM	_	ExtPos=PRON|Number=Plur	15	obj	_	Exponence[Number]=Inherent
 17	tous	tout	ADJ	_	Gender=Masc|Number=Plur	19	amod	_	_
 18	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	19	det	_	_
 19	jours	jour	NOUN	_	Gender=Masc|Number=Plur	10	obl:mod	_	Exponence[Gender]=Inherent

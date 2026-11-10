@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-748 nodes (11%) are attached to their parents as `case`.
+693 nodes (10%) are attached to their parents as `case`.
 
-748 instances of `case` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.72860962566845.
+693 instances of `case` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.77777777777778.
 
-The following 12 pairs of parts of speech are connected with `case`: <tt><a href="lij_glt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lij_glt-pos-ADP.html">ADP</a></tt> (486; 65% instances), <tt><a href="lij_glt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lij_glt-pos-ADP.html">ADP</a></tt> (91; 12% instances), <tt><a href="lij_glt-pos-PRON.html">PRON</a></tt>-<tt><a href="lij_glt-pos-ADP.html">ADP</a></tt> (73; 10% instances), <tt><a href="lij_glt-pos-ADV.html">ADV</a></tt>-<tt><a href="lij_glt-pos-ADP.html">ADP</a></tt> (22; 3% instances), <tt><a href="lij_glt-pos-DET.html">DET</a></tt>-<tt><a href="lij_glt-pos-ADP.html">ADP</a></tt> (21; 3% instances), <tt><a href="lij_glt-pos-NUM.html">NUM</a></tt>-<tt><a href="lij_glt-pos-ADP.html">ADP</a></tt> (19; 3% instances), <tt><a href="lij_glt-pos-VERB.html">VERB</a></tt>-<tt><a href="lij_glt-pos-ADP.html">ADP</a></tt> (14; 2% instances), <tt><a href="lij_glt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lij_glt-pos-ADP.html">ADP</a></tt> (13; 2% instances), <tt><a href="lij_glt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lij_glt-pos-ADV.html">ADV</a></tt> (4; 1% instances), <tt><a href="lij_glt-pos-PRON.html">PRON</a></tt>-<tt><a href="lij_glt-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="lij_glt-pos-X.html">X</a></tt>-<tt><a href="lij_glt-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="lij_glt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lij_glt-pos-ADV.html">ADV</a></tt> (1; 0% instances).
+The following 13 pairs of parts of speech are connected with `case`: <tt><a href="lij_glt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lij_glt-pos-ADP.html">ADP</a></tt> (467; 67% instances), <tt><a href="lij_glt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lij_glt-pos-ADP.html">ADP</a></tt> (100; 14% instances), <tt><a href="lij_glt-pos-PRON.html">PRON</a></tt>-<tt><a href="lij_glt-pos-ADP.html">ADP</a></tt> (65; 9% instances), <tt><a href="lij_glt-pos-NUM.html">NUM</a></tt>-<tt><a href="lij_glt-pos-ADP.html">ADP</a></tt> (19; 3% instances), <tt><a href="lij_glt-pos-ADV.html">ADV</a></tt>-<tt><a href="lij_glt-pos-ADP.html">ADP</a></tt> (16; 2% instances), <tt><a href="lij_glt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lij_glt-pos-ADV.html">ADV</a></tt> (7; 1% instances), <tt><a href="lij_glt-pos-PRON.html">PRON</a></tt>-<tt><a href="lij_glt-pos-ADV.html">ADV</a></tt> (7; 1% instances), <tt><a href="lij_glt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lij_glt-pos-ADP.html">ADP</a></tt> (5; 1% instances), <tt><a href="lij_glt-pos-DET.html">DET</a></tt>-<tt><a href="lij_glt-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="lij_glt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lij_glt-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="lij_glt-pos-NUM.html">NUM</a></tt>-<tt><a href="lij_glt-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="lij_glt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lij_glt-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="lij_glt-pos-VERB.html">VERB</a></tt>-<tt><a href="lij_glt-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -25,8 +25,8 @@ The following 12 pairs of parts of speech are connected with `case`: <tt><a href
 1	À	à	ADP	_	_	3	case	_	_
 2	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
 3	sciô	sciô	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
-4	Aostin	Aostin	PROPN	_	Gender=Masc|Number=Sing	3	flat	_	_
-5	Pedevilla	Pedevilla	PROPN	_	Gender=Masc|Number=Sing	3	flat	_	_
+4	Aostin	Aostin	PROPN	_	Gender=Masc|Number=Sing	3	nmod	_	_
+5	Pedevilla	Pedevilla	PROPN	_	Gender=Masc|Number=Sing	4	flat	_	_
 6	qd.	qd.	ADV	_	_	7	advmod	_	_
 7	G.B.	G.B.	PROPN	_	Gender=Masc|Number=Sing	3	appos	_	_
 
@@ -63,12 +63,12 @@ The following 12 pairs of parts of speech are connected with `case`: <tt><a href
 # visual-style 2	fgColor:white
 # visual-style 2 1 case	color:blue
 1	À	à	ADP	_	_	2	case	_	_
-2	mi	mi	PRON	_	Number=Sing|Person=1|PronType=Prs	11	obl	_	SpaceAfter=No
-3	,	,	PUNCT	_	_	6	punct	_	_
-4	à	à	ADP	_	_	6	case	_	_
-5	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
-6	manco	manco	NOUN	_	Gender=Masc|Number=Sing	11	obl	_	SpaceAfter=No
-7	,	,	PUNCT	_	_	6	punct	_	_
+2	mi	mi	PRON	_	Number=Sing|Person=1|PronType=Prs	11	obl:arg	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	à	à	ADP	_	ExtPos=ADV	11	advmod	_	_
+5	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	fixed	_	_
+6	manco	manco	NOUN	_	Gender=Masc|Number=Sing	4	fixed	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	4	punct	_	_
 8	no	no	ADV	_	_	11	advmod	_	_
 9	m'	me	PRON	_	Number=Sing|Person=1|PronType=Prs	11	iobj	_	SpaceAfter=No
 10	ô	ô	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	obj	_	_

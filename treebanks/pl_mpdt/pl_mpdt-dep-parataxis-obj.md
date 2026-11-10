@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="pl_mpdt-dep-parataxis.html">parataxis</a></tt>.
 There are also 1 other language-specific subtypes of `parataxis`: <tt><a href="pl_mpdt-dep-parataxis-insert.html">parataxis:insert</a></tt>.
 
-86 nodes (0%) are attached to their parents as `parataxis:obj`.
+108 nodes (0%) are attached to their parents as `parataxis:obj`.
 
-80 instances of `parataxis:obj` (93%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.47674418604651.
+100 instances of `parataxis:obj` (93%) are left-to-right (parent precedes child).
+Average distance between parent and child is 6.51851851851852.
 
-The following 19 pairs of parts of speech are connected with `parataxis:obj`: <tt><a href="pl_mpdt-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_mpdt-pos-VERB.html">VERB</a></tt> (50; 58% instances), <tt><a href="pl_mpdt-pos-ADV.html">ADV</a></tt>-<tt><a href="pl_mpdt-pos-VERB.html">VERB</a></tt> (5; 6% instances), <tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_mpdt-pos-VERB.html">VERB</a></tt> (5; 6% instances), <tt><a href="pl_mpdt-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt> (5; 6% instances), <tt><a href="pl_mpdt-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_mpdt-pos-ADJ.html">ADJ</a></tt> (3; 3% instances), <tt><a href="pl_mpdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="pl_mpdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pl_mpdt-pos-VERB.html">VERB</a></tt> (2; 2% instances), <tt><a href="pl_mpdt-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_mpdt-pos-ADV.html">ADV</a></tt> (2; 2% instances), <tt><a href="pl_mpdt-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_mpdt-pos-PRON.html">PRON</a></tt> (2; 2% instances), <tt><a href="pl_mpdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="pl_mpdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_mpdt-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="pl_mpdt-pos-ADV.html">ADV</a></tt>-<tt><a href="pl_mpdt-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_mpdt-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="pl_mpdt-pos-PRON.html">PRON</a></tt>-<tt><a href="pl_mpdt-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="pl_mpdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pl_mpdt-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="pl_mpdt-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_mpdt-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="pl_mpdt-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_mpdt-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="pl_mpdt-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_mpdt-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances).
+The following 21 pairs of parts of speech are connected with `parataxis:obj`: <tt><a href="pl_mpdt-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_mpdt-pos-VERB.html">VERB</a></tt> (55; 51% instances), <tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_mpdt-pos-VERB.html">VERB</a></tt> (10; 9% instances), <tt><a href="pl_mpdt-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt> (7; 6% instances), <tt><a href="pl_mpdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pl_mpdt-pos-VERB.html">VERB</a></tt> (6; 6% instances), <tt><a href="pl_mpdt-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_mpdt-pos-ADJ.html">ADJ</a></tt> (5; 5% instances), <tt><a href="pl_mpdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_mpdt-pos-VERB.html">VERB</a></tt> (3; 3% instances), <tt><a href="pl_mpdt-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_mpdt-pos-PRON.html">PRON</a></tt> (3; 3% instances), <tt><a href="pl_mpdt-pos-ADV.html">ADV</a></tt>-<tt><a href="pl_mpdt-pos-VERB.html">VERB</a></tt> (2; 2% instances), <tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_mpdt-pos-ADJ.html">ADJ</a></tt> (2; 2% instances), <tt><a href="pl_mpdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="pl_mpdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pl_mpdt-pos-PRON.html">PRON</a></tt> (2; 2% instances), <tt><a href="pl_mpdt-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_mpdt-pos-ADV.html">ADV</a></tt> (2; 2% instances), <tt><a href="pl_mpdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="pl_mpdt-pos-ADV.html">ADV</a></tt>-<tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="pl_mpdt-pos-DET.html">DET</a></tt>-<tt><a href="pl_mpdt-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="pl_mpdt-pos-PRON.html">PRON</a></tt>-<tt><a href="pl_mpdt-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="pl_mpdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pl_mpdt-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="pl_mpdt-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_mpdt-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="pl_mpdt-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_mpdt-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="pl_mpdt-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_mpdt-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -27,7 +27,7 @@ The following 19 pairs of parts of speech are connected with `parataxis:obj`: <t
 2	do	do	ADP	prep:gen	AdpType=Prep	3	case	3:case	Case=Gen|Translit=do
 3	nich	on	PRON	ppron3:pl:gen:m:ter:neut:praep	Case=Gen|Gender=Masc|Number=Plur|Person=3|PrepCase=Pre|PronType=Prs|Variant=Short	1	obl	1:obl	SpaceAfter=No|Translit=nich
 4	;	;	PUNCT	interp	PunctType=Semi	1	punct	1:punct	Translit=;
-5	sześć	sześć	NUM	num:pl:acc:f	Case=Acc|Gender=Fem|Number=Plur|NumForm=Word	9	nummod	9:nummod	Translit=sześć
+5	sześć	sześć	NUM	num:pl:acc:f	Case=Acc|Gender=Fem|Number=Plur|NumForm=Word	9	nummod:gov	9:nummod:gov	Translit=sześć
 6	by	by	AUX	part	_	10	aux:cnd	10:aux:cnd	Translit=by
 7	m	być	AUX	aglt:sg:pri:imperf:nwok	Aspect=Imp|Number=Sing|Person=1|Variant=Short	10	aux:clitic	10:aux:clitic	Translit=m
 8	dziś	dziś	ADV	adv	_	10	advmod	10:advmod	Translit=dziś
@@ -45,7 +45,7 @@ The following 19 pairs of parts of speech are connected with `parataxis:obj`: <t
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 3 parataxis:obj	color:blue
-1	Odp	odpowiedź	ADV	brev:pun	Abbr=Yes	0	root	0:root	SpaceAfter=No|Translit=Odp
+1	Odp	odpowiedź	NOUN	brev:pun	Abbr=Yes	0	root	0:root	SpaceAfter=No|Translit=Odp
 2	:	:	PUNCT	interp	PunctType=Colo	1	punct	1:punct	Translit=:
 3	Żałowała	żałować	VERB	praet:sg:f:imperf	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	1	parataxis:obj	1:parataxis:obj	Translit=Załowała
 4	m	być	AUX	aglt:sg:pri:imperf:nwok	Aspect=Imp|Number=Sing|Person=1|Variant=Short	3	aux:clitic	3:aux:clitic	Translit=m
@@ -61,32 +61,26 @@ The following 19 pairs of parts of speech are connected with `parataxis:obj`: <t
 
 
 ~~~ conllu
-# visual-style 20	bgColor:blue
-# visual-style 20	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 20 parataxis:obj	color:blue
-1	Szołtys	szołtys	NOUN	subst:sg:nom:m	Case=Nom|Gender=Masc|Number=Sing	0	root	0:root	SpaceAfter=No|Translit=Szołtys
-2	:	:	PUNCT	interp	PunctType=Colo	1	punct	1:punct	Translit=:
-3	Ponieważ	ponieważ	SCONJ	comp	_	10	mark	10:mark	Translit=Ponieważ
-4	zeznanie	zeznanie	NOUN	subst:sg:nom:n	Case=Nom|Gender=Neut|Number=Sing	10	nsubj	10:nsubj	Translit=zeznanie
-5	jego	on	PRON	ppron3:sg:gen:m:ter:akc:npraep	Case=Gen|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs|Variant=Long	4	nmod:poss	4:nmod:poss	Translit=jego
-6	(	(	PUNCT	interp	PunctSide=Ini|PunctType=Brck	7	punct	7:punct	SpaceAfter=No|Translit=(
-7	jej	on	PRON	ppron3:sg:gen:f:ter:neut:npraep	Case=Gen|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs|Variant=Short	5	nmod	5:nmod	SpaceAfter=No|Translit=jej
-8	)	)	PUNCT	interp	PunctSide=Fin|PunctType=Brck	7	punct	7:punct	Translit=)
-9	jest	być	AUX	fin:sg:ter:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	cop	10:cop	Translit=jest
-10	przekonaniem	przekonanie	NOUN	subst:sg:inst:n	Case=Ins|Gender=Neut|Number=Sing	20	advcl	20:advcl	SpaceAfter=No|Translit=przekonaniem
-11	,	,	PUNCT	interp	PunctType=Comm	20	punct	20:punct	Translit=,
-12	czym	co	PRON	subst:sg:inst:n	Case=Ins|Gender=Neut|Number=Sing|PronType=Int	15	iobj	15:iobj	Translit=czym
-13	tedy	tedy	PART	part	_	20	advmod:emph	20:advmod:emph	Translit=tedy
-14	złoczyńca	złoczyńca	NOUN	subst:sg:nom:m	Case=Nom|Gender=Masc|Number=Sing	20	nsubj	20:nsubj	Translit=złoczyńca
-15	karany	karać	ADJ	ppas:sg:nom:m:imperf:aff:pos	Aspect=Imp|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass	20	ccomp	20:ccomp	Translit=karany
-16	(	(	PUNCT	interp	PunctSide=Ini|PunctType=Brck	17	punct	17:punct	SpaceAfter=No|Translit=(
-17	karana	karać	ADJ	ppas:sg:nom:f:imperf:aff:pos	Aspect=Imp|Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass	15	xcomp	15:xcomp	SpaceAfter=No|Translit=karana
-18	)	)	PUNCT	interp	PunctSide=Fin|PunctType=Brck	17	punct	17:punct	Translit=)
-19	być	być	AUX	inf:imperf	Aspect=Imp|VerbForm=Inf|Voice=Act	15	aux:pass	15:aux:pass	Translit=być
-20	ma	mieć	VERB	fin:sg:ter:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	parataxis:obj	1:parataxis:obj	SpaceAfter=No|Translit=ma
-21	?	?	PUNCT	interp	PunctType=Qest	20	punct	20:punct	Translit=?
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 13 parataxis:obj	color:blue
+1	ledwie	ledwie	ADV	adv	_	3	advmod	3:advmod	Translit=ledwie
+2	przestrogę	przestroga	NOUN	subst:sg:acc:f	Case=Acc|Gender=Fem|Number=Sing	3	obj	3:obj	Translit=przestrogę
+3	skończy	skończyć	VERB	fin:sg:ter:perf	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No|Translit=skończy
+4	/	/	PUNCT	interp	PunctType=Slsh	9	punct	9:punct	Translit=/
+5	aż	aż	SCONJ	comp	_	9	mark	9:mark	Translit=áż
+6	ci	ci	PART	part	_	9	advmod:emph	9:advmod:emph	Translit=ci
+7	już	już	PART	part	_	9	advmod:emph	9:advmod:emph	Translit=iuż
+8	Dworzanie	dworzanin	NOUN	subst:pl:nom:manim1	Animacy=Hum|Case=Nom|Gender=Masc|Number=Plur	9	nsubj	9:nsubj	Translit=Dworzánie
+9	pytają	pytać	VERB	fin:pl:ter:imperf	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	advcl	3:advcl	SpaceAfter=No|Translit=pytáią
+10	:	:	PUNCT	interp	PunctType=Colo	9	punct	9:punct	Translit=:
+11	A	a	CCONJ	conj	_	13	cc	13:cc	Translit=A
+12	nasz	nasz	DET	adj:sg:nom:m:pos	Case=Nom|Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	13	det:poss	13:det:poss	Translit=nász
+13	Pan	pan	NOUN	subst:sg:nom:m	Case=Nom|Gender=Masc|Number=Sing	9	parataxis:obj	9:parataxis:obj	Translit=Pan
+14	kędy	kędy	ADV	adv	_	13	advmod	13:advmod	SpaceAfter=No|Translit=kędy
+15	?	?	PUNCT	interp	PunctType=Qest	13	punct	13:punct	Translit=?
 
 ~~~
 

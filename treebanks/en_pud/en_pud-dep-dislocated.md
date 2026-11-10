@@ -55,13 +55,13 @@ The following 2 pairs of parts of speech are connected with `dislocated`: <tt><a
 3	guitarist	guitarist	NOUN	NN	Number=Sing	6	dislocated	6:dislocated	SpaceAfter=No
 4	,	,	PUNCT	,	_	6	punct	6:punct	_
 5	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	6:nsubj	_
-6	played	play	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+6	played	play	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
 7	a	a	DET	DT	Definite=Ind|PronType=Art	8	det	8:det	_
 8	concert	concert	NOUN	NN	Number=Sing	6	obj	6:obj	_
 9	there	there	ADV	RB	PronType=Dem	6	advmod	6:advmod	_
 10	the	the	DET	DT	Definite=Def|PronType=Art	12	det	12:det	_
 11	same	same	ADJ	JJ	Degree=Pos	12	amod	12:amod	_
-12	year	year	NOUN	NN	Number=Sing	6	obl:unmarked	6:obl:unmarked	TemporalNPAdjunct=Yes|SpaceAfter=No
+12	year	year	NOUN	NN	Number=Sing	6	obl:unmarked	6:obl:unmarked	SpaceAfter=No|TemporalNPAdjunct=Yes
 13	.	.	PUNCT	.	_	6	punct	6:punct	_
 
 ~~~

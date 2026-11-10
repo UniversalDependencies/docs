@@ -23,10 +23,10 @@ The following 1 pairs of parts of speech are connected with `dislocated:ccomp`: 
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 1 dislocated:ccomp	color:blue
-1	ꜥnḫ.t	ꜥnḫ	VERB	_	Conjug=Suffix|Gender=Fem|Mood=Ind|Nominal=Yes|Number=Sing|SubForm=RelForm|Tense=Pres|VerbClass=3lit|VerbForm=Fin	4	dislocated:ccomp	_	Hiero=𓋹𓏏|ID=38530
+1	ꜥnḫ.t	ꜥnḫ	VERB	_	Conjug=Suffix|Gender=Fem|Mood=Ind|Nominal=Yes|Number=Sing|SubForm=RelForm|Tense=Pres|VerbClass=3lit|VerbForm=Fin	4	dislocated:ccomp	_	Hiero=𓋹𓏏|ID=38530|Trans=No
 2	⸗f	f	PRON	_	Gender=Masc|Number=Sing|Person=3|PronClass=Suffix|PronType=Prs	1	nsubj	_	Hiero=𓆑|ID=10050
 3	ꞽm	ꞽm	ADV	_	_	1	advmod	_	Hiero=𓇋𓅓|ID=24640
-4	ꜥnḫ	ꜥnḫ	VERB	_	Conjug=Suffix|Mood=Ind|SubForm=AbstRel|Tense=Pres|VerbClass=3lit|VerbForm=Fin|Voice=Act	0	root	_	Hiero=𓋹|ID=38530
+4	ꜥnḫ	ꜥnḫ	VERB	_	Conjug=Suffix|Mood=Ind|SubForm=AbstRel|Tense=Pres|VerbClass=3lit|VerbForm=Fin|Voice=Act	0	root	_	Hiero=𓋹|ID=38530|Trans=No
 5	Wnꞽś	Wnꞽś	PROPN	_	Gender=Masc|NameType=King	4	nsubj	_	Hiero=𓍹(𓃹:𓈖)𓇋𓋴𓍺|ID=800001
 6	ꞽm	ꞽm	ADV	_	_	4	advmod	_	Hiero=𓇋𓅓|ID=24640
 

@@ -58,7 +58,6 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 * `Ind` (178; 1% of non-empty `PronType`): <em>aliquo, aliquid, quis, quit, nihil, quid, aliquit, aliquis, alico, nihel</em>
 * `Prs` (15012; 82% of non-empty `PronType`): <em>ego, me, nos, tibi, eius, mihi, vobis, id, eas, nobis</em>
 * `Rel` (3088; 17% of non-empty `PronType`): <em>qui, quas, que, quod, cui, quam, quo, quem, quibus, qua</em>
-* `EMPTY` (1): <em>[pronoun]</em>
 
 `PronType` seems to be **lexical feature** of `PRON`. 100% lemmas (15) occur only with one value of `PronType`.
 

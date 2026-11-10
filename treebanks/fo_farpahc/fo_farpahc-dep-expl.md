@@ -87,7 +87,7 @@ The following 5 pairs of parts of speech are connected with `expl`: <tt><a href=
 3	var	_	AUX	BEDI	Mood=Ind|Tense=Past	8	cop	_	_
 4	atfangadagur	_	NOUN	N-N	Case=Nom|Definite=Ind|Number=Sing	8	obl	_	_
 5	fyri	_	ADP	P	_	6	case	_	_
-6	páskir	_	PROPN	NPRS-A	Case=Acc|Definite=Ind|Number=Plur	4	obl	_	SpaceAfter=No
+6	páskir	_	PROPN	NPRS-A	Case=Acc|Definite=Ind|Number=Plur	4	nmod	_	SpaceAfter=No
 7	,	,	PUNCT	,	_	6	punct	_	_
 8	okkurt	_	DET	Q-N	Case=Nom	0	root	_	_
 9	um	_	ADP	P	_	8	case	_	_

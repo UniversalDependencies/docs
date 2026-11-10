@@ -110,7 +110,7 @@ The most frequent other feature values with which `SCONJ` and `PronType` co-occu
 
 * `Con` (13; 1% of non-empty `PronType`): <em>utrum</em>
 * `Rel` (1832; 99% of non-empty `PronType`): <em>ut, quod, cum, quia, quam, tanquam, quemadmodum, quantum, quoniam, quin</em>
-* `EMPTY` (660): <em>si, sicut, nisi, licet, velut, ne, prout, dum, ceu, dummodo</em>
+* `EMPTY` (662): <em>si, sicut, nisi, licet, velut, ne, prout, dum, ceu, dummodo</em>
 
 `PronType` seems to be **lexical feature** of `SCONJ`. 100% lemmas (28) occur only with one value of `PronType`.
 

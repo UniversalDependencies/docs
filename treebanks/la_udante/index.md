@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.8 release.
 The following people have contributed to making this treebank part of UD: Flavio Massimiliano Cecchini, Giovanni Moretti, Marco Passarotti, Rachele Sprugnoli, Daniela Corbetta, Federica Favero, Federica Gamba, Martina de Laurentiis, Giulia Pedonese, Andrea Peverelli, Elena Vagnoni, Mirko Tavoni.
 
 Repository: [UD_Latin-UDante](https://github.com/UniversalDependencies/UD_Latin-UDante)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udla_udante218)<br />
-Download all treebanks: [UD 2.18](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udla_udante219)<br />
+Download all treebanks: [UD 2.19](/#download)
 
 License: CC BY-NC-SA 3.0
 
@@ -99,7 +99,7 @@ We wish to thank all the annotators of the **UDante** treebank: Daniela Corbetta
 
 
 <ul>
-<li>This corpus contains 1723 sentences, 55286 tokens and 55553 syntactic words.</li>
+<li>This corpus contains 1723 sentences, 55286 tokens and 55555 syntactic words.</li>
 </ul>
 
 <ul>
@@ -115,8 +115,8 @@ We wish to thank all the annotators of the **UDante** treebank: Daniela Corbetta
 </ul>
 
 <ul>
-<li>This corpus contains 267 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
-<li>There are 151 types of multi-word tokens. Examples: quare, nonne, etsi, cumque, mecum, nunquid, quinymo, Quidni, nonnullos, vobiscum, Romanorumque, eademque, eamque, eiusque, eodemque, hirteque, iamque, nobiscum, nonnulla, nonnulli, romanaque, secum, seipsum, sive, tecum, torquibusque, vosmetipsos, Cesarisque, Dantisque, Estne, Francorumque, Graiumque, Hiique, Hocne, Latinorumque, Niseque, Priamique, Quadrifluumne, Quodque, Romuleoque, Utque, Verumtamen, Vosne, abmotimque, accentibusque, alipedesque, aliusque, animusque, armentaque, armisque.</li>
+<li>This corpus contains 269 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+<li>There are 152 types of multi-word tokens. Examples: quare, nonne, etsi, cumque, mecum, nunquid, quinymo, Quidni, nonnullos, vobiscum, Romanorumque, Siquidem, eademque, eamque, eiusque, eodemque, hirteque, iamque, nobiscum, nonnulla, nonnulli, romanaque, secum, seipsum, sive, tecum, torquibusque, vosmetipsos, Cesarisque, Dantisque, Estne, Francorumque, Graiumque, Hiique, Hocne, Latinorumque, Niseque, Priamique, Quadrifluumne, Quodque, Romuleoque, Utque, Verumtamen, Vosne, abmotimque, accentibusque, alipedesque, aliusque, animusque, armentaque.</li>
 </ul>
 
 <h2>Morphology</h2>
@@ -129,7 +129,7 @@ We wish to thank all the annotators of the **UDante** treebank: Daniela Corbetta
 </ul>
 
 <ul>
-<li>This corpus contains 22 word types tagged as particles (PART): Siquidem, an, autem, ecce, en, enim, equidem, etenim, heu, igitur, itaque, nam, namque, nanque, ne, nempe, ni, non, num, o, quidem, quoque</li>
+<li>This corpus contains 21 word types tagged as particles (PART): an, autem, ecce, en, enim, equidem, etenim, heu, igitur, itaque, nam, namque, nanque, ne, nempe, ni, non, num, o, quidem, quoque</li>
 </ul>
 
 <ul>
@@ -889,7 +889,7 @@ We wish to thank all the annotators of the **UDante** treebank: Daniela Corbetta
           <li>DET: huiusmodi, aliqua, aliquod, aliquo, quilibet, quodcunque, aliquam, quelibet, quicunque, qualibet</li>
           <li>NOUN: principem, iurisdictio, iurisdictionem, princeps, principe, principibus, principes, principum, Pontificis, iurisdictionis</li>
           <li>NUM: duodecim, quindecim</li>
-          <li>PART: etenim, Siquidem</li>
+          <li>PART: etenim</li>
           <li>PRON: aliquid, invicem, alicuius, aliquo, aliqua, aliquis, aliquorum, quicunque, aliquam, aliquos</li>
           <li>PROPN: Lucifer, Luciferum</li>
           <li>SCONJ: sicut, velut, prout, tanquam, quemadmodum, quoniam, quasi, quamvis, postquam, dummodo</li>

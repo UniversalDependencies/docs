@@ -68,13 +68,13 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 
 The 10 most frequent relations where parent and child node agree in `Tense`:
 <tt>VERB --[<tt><a href="es_coser-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (109; 55%),
-<tt>VERB --[<tt><a href="es_coser-dep-conj.html">conj</a></tt>]--> VERB</tt> (95; 64%),
+<tt>VERB --[<tt><a href="es_coser-dep-conj.html">conj</a></tt>]--> VERB</tt> (95; 63%),
 <tt>VERB --[<tt><a href="es_coser-dep-reparandum.html">reparandum</a></tt>]--> VERB</tt> (9; 64%),
 <tt>AUX --[<tt><a href="es_coser-dep-reparandum.html">reparandum</a></tt>]--> AUX</tt> (5; 71%),
+<tt>VERB --[<tt><a href="es_coser-dep-obl.html">obl</a></tt>]--> VERB</tt> (4; 57%),
 <tt>AUX --[<tt><a href="es_coser-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (2; 67%),
 <tt>VERB --[<tt><a href="es_coser-dep-reparandum.html">reparandum</a></tt>]--> AUX</tt> (2; 100%),
 <tt>AUX --[<tt><a href="es_coser-dep-conj.html">conj</a></tt>]--> AUX</tt> (1; 100%),
 <tt>AUX --[<tt><a href="es_coser-dep-cop.html">cop</a></tt>]--> AUX</tt> (1; 100%),
-<tt>AUX --[<tt><a href="es_coser-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (1; 100%),
-<tt>VERB --[<tt><a href="es_coser-dep-cop.html">cop</a></tt>]--> AUX</tt> (1; 100%).
+<tt>AUX --[<tt><a href="es_coser-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (1; 100%).
 

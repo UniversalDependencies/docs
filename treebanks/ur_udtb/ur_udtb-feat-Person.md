@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `1`, `2`, `3`.
 
-63893 tokens (46%) have a non-empty value of `Person`.
+63892 tokens (46%) have a non-empty value of `Person`.
 8424 types (78%) occur at least once with a non-empty value of `Person`.
 7631 lemmas (79%) occur at least once with a non-empty value of `Person`.
-The feature is used with 14 part-of-speech tags: <tt><a href="ur_udtb-pos-NOUN.html">NOUN</a></tt> (32438; 23% instances), <tt><a href="ur_udtb-pos-PROPN.html">PROPN</a></tt> (17027; 12% instances), <tt><a href="ur_udtb-pos-AUX.html">AUX</a></tt> (4821; 3% instances), <tt><a href="ur_udtb-pos-PRON.html">PRON</a></tt> (4054; 3% instances), <tt><a href="ur_udtb-pos-DET.html">DET</a></tt> (1781; 1% instances), <tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt> (1670; 1% instances), <tt><a href="ur_udtb-pos-ADP.html">ADP</a></tt> (1310; 1% instances), <tt><a href="ur_udtb-pos-ADV.html">ADV</a></tt> (412; 0% instances), <tt><a href="ur_udtb-pos-ADJ.html">ADJ</a></tt> (306; 0% instances), <tt><a href="ur_udtb-pos-PART.html">PART</a></tt> (38; 0% instances), <tt><a href="ur_udtb-pos-NUM.html">NUM</a></tt> (25; 0% instances), <tt><a href="ur_udtb-pos-SCONJ.html">SCONJ</a></tt> (5; 0% instances), <tt><a href="ur_udtb-pos-CCONJ.html">CCONJ</a></tt> (4; 0% instances), <tt><a href="ur_udtb-pos-X.html">X</a></tt> (2; 0% instances).
+The feature is used with 14 part-of-speech tags: <tt><a href="ur_udtb-pos-NOUN.html">NOUN</a></tt> (32438; 23% instances), <tt><a href="ur_udtb-pos-PROPN.html">PROPN</a></tt> (17026; 12% instances), <tt><a href="ur_udtb-pos-AUX.html">AUX</a></tt> (4823; 3% instances), <tt><a href="ur_udtb-pos-PRON.html">PRON</a></tt> (4054; 3% instances), <tt><a href="ur_udtb-pos-DET.html">DET</a></tt> (1781; 1% instances), <tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt> (1668; 1% instances), <tt><a href="ur_udtb-pos-ADP.html">ADP</a></tt> (1310; 1% instances), <tt><a href="ur_udtb-pos-ADV.html">ADV</a></tt> (412; 0% instances), <tt><a href="ur_udtb-pos-ADJ.html">ADJ</a></tt> (306; 0% instances), <tt><a href="ur_udtb-pos-PART.html">PART</a></tt> (38; 0% instances), <tt><a href="ur_udtb-pos-NUM.html">NUM</a></tt> (25; 0% instances), <tt><a href="ur_udtb-pos-SCONJ.html">SCONJ</a></tt> (5; 0% instances), <tt><a href="ur_udtb-pos-CCONJ.html">CCONJ</a></tt> (4; 0% instances), <tt><a href="ur_udtb-pos-X.html">X</a></tt> (2; 0% instances).
 
 ### `NOUN`
 
@@ -29,28 +29,28 @@ The most frequent other feature values with which `NOUN` and `Person` co-occurre
 
 ### `PROPN`
 
-17027 <tt><a href="ur_udtb-pos-PROPN.html">PROPN</a></tt> tokens (99% of all `PROPN` tokens) have a non-empty value of `Person`.
+17026 <tt><a href="ur_udtb-pos-PROPN.html">PROPN</a></tt> tokens (99% of all `PROPN` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PROPN` and `Person` co-occurred: <tt><a href="ur_udtb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (16965; 100%), <tt><a href="ur_udtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (16229; 95%), <tt><a href="ur_udtb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (9914; 58%).
+The most frequent other feature values with which `PROPN` and `Person` co-occurred: <tt><a href="ur_udtb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (16964; 100%), <tt><a href="ur_udtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (16228; 95%), <tt><a href="ur_udtb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (9913; 58%).
 
 `PROPN` tokens may have the following values of `Person`:
 
-* `3` (17027; 100% of non-empty `Person`): پی، سی، آئی، ایس، کانگریس، بی، ہندوستان، ریڈی، اے، سنگھ
-* `EMPTY` (108): ریاستی، برائے، و، -، 27، 28، ایک، کا، کے، 09
+* `3` (17026; 100% of non-empty `Person`): پی، سی، آئی، ایس، کانگریس، بی، ہندوستان، ریڈی، اے، سنگھ
+* `EMPTY` (105): ریاستی، برائے، و، -، 27، 28، ایک، کا، کے، 09
 
 `Person` seems to be **lexical feature** of `PROPN`. 100% lemmas (3690) occur only with one value of `Person`.
 
 ### `AUX`
 
-4821 <tt><a href="ur_udtb-pos-AUX.html">AUX</a></tt> tokens (53% of all `AUX` tokens) have a non-empty value of `Person`.
+4823 <tt><a href="ur_udtb-pos-AUX.html">AUX</a></tt> tokens (53% of all `AUX` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="ur_udtb-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (4354; 90%), <tt><a href="ur_udtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (4302; 89%), <tt><a href="ur_udtb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (4254; 88%), <tt><a href="ur_udtb-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (3765; 78%), <tt><a href="ur_udtb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3655; 76%), <tt><a href="ur_udtb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (3472; 72%), <tt><a href="ur_udtb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (3350; 69%).
+The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="ur_udtb-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (4354; 90%), <tt><a href="ur_udtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (4302; 89%), <tt><a href="ur_udtb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (4254; 88%), <tt><a href="ur_udtb-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (3767; 78%), <tt><a href="ur_udtb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3657; 76%), <tt><a href="ur_udtb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (3473; 72%), <tt><a href="ur_udtb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (3350; 69%).
 
 `AUX` tokens may have the following values of `Person`:
 
 * `1` (39; 1% of non-empty `Person`): ہوں، ہےں، ہے، گی، ہیں
 * `2` (5; 0% of non-empty `Person`): ہو، ہے، ہوئے
-* `3` (4777; 99% of non-empty `Person`): ہے، ہیں، ہےں، تھا، ہوئے، تھے، تھی، گے، گیا، جائےگا
+* `3` (4779; 99% of non-empty `Person`): ہے، ہیں، ہےں، تھا، ہوئے، تھے، تھی، گے، گیا، جائےگا
 * `EMPTY` (4300): گیا، ہوئے، جا، گئی، کر، رہی، گئے، رہے، رہا، جائے
 
 <table>
@@ -92,7 +92,7 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 
 4054 <tt><a href="ur_udtb-pos-PRON.html">PRON</a></tt> tokens (72% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="ur_udtb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (3991; 98%), <tt><a href="ur_udtb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (3667; 90%), <tt><a href="ur_udtb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3434; 85%), <tt><a href="ur_udtb-feat-Polite.html">Polite</a></tt><tt>=EMPTY</tt> (3294; 81%), <tt><a href="ur_udtb-feat-Case.html">Case</a></tt><tt>=Acc</tt> (2118; 52%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="ur_udtb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (4029; 99%), <tt><a href="ur_udtb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (3667; 90%), <tt><a href="ur_udtb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3434; 85%), <tt><a href="ur_udtb-feat-Polite.html">Polite</a></tt><tt>=EMPTY</tt> (3294; 81%), <tt><a href="ur_udtb-feat-Case.html">Case</a></tt><tt>=Acc</tt> (2118; 52%).
 
 `PRON` tokens may have the following values of `Person`:
 
@@ -123,7 +123,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 
 1781 <tt><a href="ur_udtb-pos-DET.html">DET</a></tt> tokens (71% of all `DET` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="ur_udtb-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (1733; 97%), <tt><a href="ur_udtb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1578; 89%), <tt><a href="ur_udtb-feat-Case.html">Case</a></tt><tt>=Acc</tt> (984; 55%).
+The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="ur_udtb-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (1738; 98%), <tt><a href="ur_udtb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1578; 89%), <tt><a href="ur_udtb-feat-Case.html">Case</a></tt><tt>=Acc</tt> (984; 55%).
 
 `DET` tokens may have the following values of `Person`:
 
@@ -136,15 +136,15 @@ The most frequent other feature values with which `DET` and `Person` co-occurred
 
 ### `VERB`
 
-1670 <tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt> tokens (13% of all `VERB` tokens) have a non-empty value of `Person`.
+1668 <tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt> tokens (13% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="ur_udtb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1644; 98%), <tt><a href="ur_udtb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1324; 79%), <tt><a href="ur_udtb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1314; 79%), <tt><a href="ur_udtb-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (984; 59%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="ur_udtb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1642; 98%), <tt><a href="ur_udtb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1324; 79%), <tt><a href="ur_udtb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1312; 79%), <tt><a href="ur_udtb-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (984; 59%).
 
 `VERB` tokens may have the following values of `Person`:
 
 * `1` (7; 0% of non-empty `Person`): کروں، دیتے، کروںگا، کریں_گے، ہے
 * `2` (13; 1% of non-empty `Person`): مانگوگے، ہوئے، دیکھو، مانگے، پڑے، پہنچے، چاہو، کہو، ہوگا، ہوں
-* `3` (1650; 99% of non-empty `Person`): ہے، ہوگا، کیا، ہیں، ہوگی، کریں، دیا، کی، کرے، ہوئے
+* `3` (1648; 99% of non-empty `Person`): ہے، ہوگا، کیا، ہیں، ہوگی، کریں، دیا، کی، کرے، ہوئے
 * `EMPTY` (11025): کیا، کہا، کر، کرنے، ہو، کی، کرتے، دیا، دی، بتایا
 
 <table>
@@ -212,7 +212,7 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
   <tr><td><tt><tt><a href="ur_udtb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td>کر, کریں</td></tr>
 </table>
 
-`Person` seems to be **lexical feature** of `VERB`. 93% lemmas (114) occur only with one value of `Person`.
+`Person` seems to be **lexical feature** of `VERB`. 93% lemmas (113) occur only with one value of `Person`.
 
 ### `ADP`
 
@@ -277,7 +277,7 @@ The most frequent other feature values with which `NUM` and `Person` co-occurred
 `NUM` tokens may have the following values of `Person`:
 
 * `3` (25; 100% of non-empty `Person`): کروڑ، ہزار، 30، ایک، لاکھ، 02، 101، 29، آدھ، ارب
-* `EMPTY` (2436): اےک، ایک، دو، تین، دونوں، لاکھ، پانچ، چار، ہزار، کروڑ
+* `EMPTY` (2438): اےک، ایک، دو، تین، دونوں، لاکھ، پانچ، چار، ہزار، کروڑ
 
 `Person` seems to be **lexical feature** of `NUM`. 100% lemmas (15) occur only with one value of `Person`.
 
@@ -298,7 +298,7 @@ The most frequent other feature values with which `NUM` and `Person` co-occurred
 `CCONJ` tokens may have the following values of `Person`:
 
 * `3` (4; 100% of non-empty `Person`): و، اور، تاہم
-* `EMPTY` (3244): اور، و، لیکن، جبکہ، تاہم، یا، مگر، نیز، لہذا، آیا
+* `EMPTY` (3245): اور، و، لیکن، جبکہ، تاہم، یا، مگر، نیز، لہذا، آیا
 
 ### `X`
 
@@ -314,14 +314,14 @@ The most frequent other feature values with which `X` and `Person` co-occurred: 
 ## Relations with Agreement in `Person`
 
 The 10 most frequent relations where parent and child node agree in `Person`:
-<tt>PROPN --[<tt><a href="ur_udtb-dep-compound.html">compound</a></tt>]--> PROPN</tt> (8053; 99%),
-<tt>NOUN --[<tt><a href="ur_udtb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (6198; 98%),
-<tt>NOUN --[<tt><a href="ur_udtb-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (2887; 98%),
+<tt>PROPN --[<tt><a href="ur_udtb-dep-compound.html">compound</a></tt>]--> PROPN</tt> (8054; 99%),
+<tt>NOUN --[<tt><a href="ur_udtb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (6267; 98%),
+<tt>NOUN --[<tt><a href="ur_udtb-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (2909; 98%),
 <tt>NOUN --[<tt><a href="ur_udtb-dep-compound.html">compound</a></tt>]--> NOUN</tt> (2170; 95%),
 <tt>NOUN --[<tt><a href="ur_udtb-dep-det.html">det</a></tt>]--> DET</tt> (1725; 73%),
-<tt>PROPN --[<tt><a href="ur_udtb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1312; 98%),
+<tt>PROPN --[<tt><a href="ur_udtb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1317; 98%),
 <tt>NOUN --[<tt><a href="ur_udtb-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1072; 98%),
 <tt>PROPN --[<tt><a href="ur_udtb-dep-conj.html">conj</a></tt>]--> PROPN</tt> (745; 99%),
-<tt>PROPN --[<tt><a href="ur_udtb-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (721; 98%),
-<tt>NOUN --[<tt><a href="ur_udtb-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (670; 54%).
+<tt>PROPN --[<tt><a href="ur_udtb-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (723; 98%),
+<tt>NOUN --[<tt><a href="ur_udtb-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (694; 55%).
 

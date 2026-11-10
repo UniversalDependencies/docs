@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.16 release
 The following people have contributed to making this treebank part of UD: Morgane Bona, Bruno Guillaume, Sylvain Kahane, Aleksandra Miletić, Nikolett Mus, Daniel Zeman.
 
 Repository: [UD_Nenets-Tundra](https://github.com/UniversalDependencies/UD_Nenets-Tundra)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udyrk_tundra218)<br />
-Download all treebanks: [UD 2.18](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udyrk_tundra219)<br />
+Download all treebanks: [UD 2.19](/#download)
 
 License: CC BY-SA 4.0
 

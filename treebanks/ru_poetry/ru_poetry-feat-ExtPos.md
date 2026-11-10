@@ -7,12 +7,12 @@ udver: '2'
 ## Treebank Statistics: UD_Russian-Poetry: Features: `ExtPos`
 
 This feature is language-specific.
-It occurs with 9 different values: `ADJ`, `ADP`, `ADV`, `CCONJ`, `DET`, `NOUN`, `PART`, `SCONJ`, `VERB`.
+It occurs with 10 different values: `ADJ`, `ADP`, `ADV`, `CCONJ`, `DET`, `NOUN`, `PART`, `PRON`, `SCONJ`, `VERB`.
 
-116 tokens (0%) have a non-empty value of `ExtPos`.
-41 types (0%) occur at least once with a non-empty value of `ExtPos`.
+118 tokens (0%) have a non-empty value of `ExtPos`.
+43 types (0%) occur at least once with a non-empty value of `ExtPos`.
 27 lemmas (0%) occur at least once with a non-empty value of `ExtPos`.
-The feature is used with 7 part-of-speech tags: <tt><a href="ru_poetry-pos-ADV.html">ADV</a></tt> (39; 0% instances), <tt><a href="ru_poetry-pos-PRON.html">PRON</a></tt> (31; 0% instances), <tt><a href="ru_poetry-pos-ADP.html">ADP</a></tt> (14; 0% instances), <tt><a href="ru_poetry-pos-CCONJ.html">CCONJ</a></tt> (9; 0% instances), <tt><a href="ru_poetry-pos-PART.html">PART</a></tt> (9; 0% instances), <tt><a href="ru_poetry-pos-SCONJ.html">SCONJ</a></tt> (8; 0% instances), <tt><a href="ru_poetry-pos-DET.html">DET</a></tt> (6; 0% instances).
+The feature is used with 7 part-of-speech tags: <tt><a href="ru_poetry-pos-ADV.html">ADV</a></tt> (39; 0% instances), <tt><a href="ru_poetry-pos-PRON.html">PRON</a></tt> (31; 0% instances), <tt><a href="ru_poetry-pos-ADP.html">ADP</a></tt> (14; 0% instances), <tt><a href="ru_poetry-pos-CCONJ.html">CCONJ</a></tt> (9; 0% instances), <tt><a href="ru_poetry-pos-PART.html">PART</a></tt> (9; 0% instances), <tt><a href="ru_poetry-pos-DET.html">DET</a></tt> (8; 0% instances), <tt><a href="ru_poetry-pos-SCONJ.html">SCONJ</a></tt> (8; 0% instances).
 
 ### `ADV`
 
@@ -86,6 +86,27 @@ The most frequent other feature values with which `PART` and `ExtPos` co-occurre
 * `ADV` (1; 11% of non-empty `ExtPos`): <em>Не</em>
 * `PART` (8; 89% of non-empty `ExtPos`): <em>хотя, Лишь, только</em>
 
+### `DET`
+
+8 <tt><a href="ru_poetry-pos-DET.html">DET</a></tt> tokens (0% of all `DET` tokens) have a non-empty value of `ExtPos`.
+
+The most frequent other feature values with which `DET` and `ExtPos` co-occurred: <tt><a href="ru_poetry-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (8; 100%), <tt><a href="ru_poetry-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (7; 88%), <tt><a href="ru_poetry-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7; 88%), <tt><a href="ru_poetry-feat-PronType.html">PronType</a></tt><tt>=Emp</tt> (7; 88%), <tt><a href="ru_poetry-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (6; 75%).
+
+`DET` tokens may have the following values of `ExtPos`:
+
+* `ADJ` (1; 13% of non-empty `ExtPos`): <em>Какого</em>
+* `ADV` (1; 13% of non-empty `ExtPos`): <em>Сам</em>
+* `NOUN` (4; 50% of non-empty `ExtPos`): <em>сам, самим</em>
+* `PRON` (2; 25% of non-empty `ExtPos`): <em>Самого, сами</em>
+
+<table>
+  <tr><th>Paradigm <i>сам</i></th><th><tt>ADV</tt></th><th><tt>NOUN</tt></th><th><tt>PRON</tt></th></tr>
+  <tr><td><tt><tt><a href="ru_poetry-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="ru_poetry-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ru_poetry-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ru_poetry-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>Самого</em></td></tr>
+  <tr><td><tt><tt><a href="ru_poetry-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="ru_poetry-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ru_poetry-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>самим</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ru_poetry-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ru_poetry-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ru_poetry-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>Сам</em></td><td><em>сам</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ru_poetry-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ru_poetry-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td><em>сами</em></td></tr>
+</table>
+
 ### `SCONJ`
 
 8 <tt><a href="ru_poetry-pos-SCONJ.html">SCONJ</a></tt> tokens (1% of all `SCONJ` tokens) have a non-empty value of `ExtPos`.
@@ -93,22 +114,4 @@ The most frequent other feature values with which `PART` and `ExtPos` co-occurre
 `SCONJ` tokens may have the following values of `ExtPos`:
 
 * `SCONJ` (8; 100% of non-empty `ExtPos`): <em>как, будто, хотя</em>
-
-### `DET`
-
-6 <tt><a href="ru_poetry-pos-DET.html">DET</a></tt> tokens (0% of all `DET` tokens) have a non-empty value of `ExtPos`.
-
-The most frequent other feature values with which `DET` and `ExtPos` co-occurred: <tt><a href="ru_poetry-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (6; 100%), <tt><a href="ru_poetry-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6; 100%), <tt><a href="ru_poetry-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (6; 100%), <tt><a href="ru_poetry-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (5; 83%), <tt><a href="ru_poetry-feat-PronType.html">PronType</a></tt><tt>=Emp</tt> (5; 83%).
-
-`DET` tokens may have the following values of `ExtPos`:
-
-* `ADJ` (1; 17% of non-empty `ExtPos`): <em>Какого</em>
-* `ADV` (1; 17% of non-empty `ExtPos`): <em>Сам</em>
-* `NOUN` (4; 67% of non-empty `ExtPos`): <em>сам, самим</em>
-
-<table>
-  <tr><th>Paradigm <i>сам</i></th><th><tt>ADV</tt></th><th><tt>NOUN</tt></th></tr>
-  <tr><td><tt><tt><a href="ru_poetry-feat-Case.html">Case</a></tt><tt>=Ins</tt></tt></td><td></td><td><em>самим</em></td></tr>
-  <tr><td><tt><tt><a href="ru_poetry-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>Сам</em></td><td><em>сам</em></td></tr>
-</table>
 

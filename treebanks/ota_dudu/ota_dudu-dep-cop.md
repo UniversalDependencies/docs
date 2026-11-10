@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-536 nodes (2%) are attached to their parents as `cop`.
+598 nodes (2%) are attached to their parents as `cop`.
 
-536 instances of `cop` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.17537313432836.
+598 instances of `cop` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.16053511705686.
 
-The following 8 pairs of parts of speech are connected with `cop`: <tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ota_dudu-pos-AUX.html">AUX</a></tt> (293; 55% instances), <tt><a href="ota_dudu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ota_dudu-pos-AUX.html">AUX</a></tt> (105; 20% instances), <tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt>-<tt><a href="ota_dudu-pos-AUX.html">AUX</a></tt> (81; 15% instances), <tt><a href="ota_dudu-pos-PRON.html">PRON</a></tt>-<tt><a href="ota_dudu-pos-AUX.html">AUX</a></tt> (28; 5% instances), <tt><a href="ota_dudu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ota_dudu-pos-AUX.html">AUX</a></tt> (26; 5% instances), <tt><a href="ota_dudu-pos-ADP.html">ADP</a></tt>-<tt><a href="ota_dudu-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="ota_dudu-pos-ADV.html">ADV</a></tt>-<tt><a href="ota_dudu-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="ota_dudu-pos-AUX.html">AUX</a></tt>-<tt><a href="ota_dudu-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `cop`: <tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ota_dudu-pos-AUX.html">AUX</a></tt> (317; 53% instances), <tt><a href="ota_dudu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ota_dudu-pos-AUX.html">AUX</a></tt> (114; 19% instances), <tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt>-<tt><a href="ota_dudu-pos-AUX.html">AUX</a></tt> (104; 17% instances), <tt><a href="ota_dudu-pos-PRON.html">PRON</a></tt>-<tt><a href="ota_dudu-pos-AUX.html">AUX</a></tt> (33; 6% instances), <tt><a href="ota_dudu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ota_dudu-pos-AUX.html">AUX</a></tt> (26; 4% instances), <tt><a href="ota_dudu-pos-ADV.html">ADV</a></tt>-<tt><a href="ota_dudu-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="ota_dudu-pos-ADP.html">ADP</a></tt>-<tt><a href="ota_dudu-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="ota_dudu-pos-AUX.html">AUX</a></tt>-<tt><a href="ota_dudu-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -22,43 +22,56 @@ The following 8 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 8 cop	color:blue
-1	kemāl-i	kemāl	NOUN	_	Case=Nom|Number=Sing|Person=3	7	obl	_	_
-2	vużūḥından	vużūḥ	NOUN	_	Case=Abl|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	1	nmod:poss	_	_
-3	eks̱er-i	eks̱er	PRON	Quant	Case=Nom|Number=Sing|Person=3|PronType=Ind	6	nmod	_	_
-4	mevāżiʿunuñ	mevżiʿ	NOUN	_	Case=Gen|Number=Plur|Number[psor]=Sing|Person=3|Person[psor]=3	3	nmod:poss	_	_
-5	şerḥe	şerḥ	NOUN	_	Case=Dat|Number=Sing|Person=3	6	nmod	_	_
-6	iḥtiyācı	iḥtiyāc	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	7	nsubj	_	_
-7	yoḳ	yoḳ	NOUN	Exist	Case=Nom|Number=Sing|Person=3|Polarity=Neg	0	root	_	_
-8	dur	y	AUX	Zero	Aspect=Perf|Number=Sing|Person=3|Tense=Pres	7	cop	_	_
+1	āḫir	āḫir	CCONJ	_	_	7	cc	_	_
+2	öldürdügi	öldür	VERB	Ptcp	Aspect=Perf|Number[psor]=Sing|Person[psor]=3|Polarity=Pos|Tense=Past|VerbForm=Part	3	acl	_	_
+3	beg	beg	NOUN	_	Case=Nom|Number=Sing|Person=3	7	nsubj	_	_
+4	hind	hind	PROPN	Place	Case=Nom|NameType=Geo|Number=Sing|Person=3	7	nmod	_	_
+5	ve	ve	CCONJ	_	_	6	cc	_	_
+6	sind	sind	PROPN	Place	Case=Nom|NameType=Geo|Number=Sing|Person=3	4	conj	_	_
+7	begi	beg	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	0	root	_	_
+8	yidi	y	AUX	Overt	Aspect=Perf|Evident=Fh|Number=Sing|Person=3|Polarity=Pos|Tense=Past	7	cop	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 6 cop	color:blue
-1	evḳātını	vaḳt	NOUN	_	Case=Acc|Gender=Fem|Number=Plur|Number[psor]=Sing|Person=3|Person[psor]=3	5	obj	_	_
-2	ʿilm	ʿilm	NOUN	_	Case=Nom|Number=Sing|Person=3	5	obl	_	_
-3	ü	ve	CCONJ	_	_	4	cc	_	_
-4	ibādete	ibādet	NOUN	_	Case=Dat|Gender=Fem|Number=Sing|Person=3	2	conj	_	_
-5	müşteġil	müşteġil	ADJ	Adj	_	0	root	_	_
-6	idi	y	AUX	Overt	Aspect=Perf|Evident=Fh|Number=Sing|Person=3|Polarity=Pos|Tense=Past	5	cop	_	_
-
-~~~
-
-
-~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 3 cop	color:blue
-1	ḍācir	ḍācir	NOUN	_	Case=Nom|Number=Sing|Person=3	2	obj	_	_
-2	dirler	di	VERB	_	Aspect=Hab|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	idi	y	AUX	Zero	Aspect=Perf|Evident=Fh|Number=Sing|Person=3|Polarity=Pos|Tense=Past	2	cop	_	_
+# visual-style 3 4 cop	color:blue
+1	ol	ol	PRON	Pers	Case=Nom|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	_daḫı	daḫı	PART	Emph	_	1	advmod:emph	_	_
+3	muncibe	muncibe	ADJ	Adj	_	0	root	_	_
+4	idi	y	AUX	Overt	Aspect=Perf|Evident=Fh|Number=Sing|Person=3|Polarity=Pos|Tense=Past	3	cop	_	_
+5	ṭoḳuz	ṭoḳuz	NUM	ANum	NumType=Card	6	nummod	_	_
+6	oġlı	oġul	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	10	nsubj	_	_
+7	ve	ve	CCONJ	_	_	9	cc	_	_
+8	bir	bir	NUM	ANum	NumType=Card	9	nummod	_	_
+9	ḳızı	ḳız	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	6	conj	_	_
+10	ṭogmış	ṭog	VERB	Ptcp	Aspect=Perf|Polarity=Pos|VerbForm=Part	3	conj	_	_
+11	ıdı	y	AUX	Zero	Aspect=Perf|Evident=Fh|Number=Sing|Person=3|Polarity=Pos|Tense=Past	10	cop	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 11 cop	color:blue
+1	ol	ol	PRON	Pers	Case=Nom|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	_daḫı	daḫı	PART	Emph	_	1	advmod:emph	_	_
+3	muncibe	muncibe	ADJ	Adj	_	0	root	_	_
+4	idi	y	AUX	Overt	Aspect=Perf|Evident=Fh|Number=Sing|Person=3|Polarity=Pos|Tense=Past	3	cop	_	_
+5	ṭoḳuz	ṭoḳuz	NUM	ANum	NumType=Card	6	nummod	_	_
+6	oġlı	oġul	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	10	nsubj	_	_
+7	ve	ve	CCONJ	_	_	9	cc	_	_
+8	bir	bir	NUM	ANum	NumType=Card	9	nummod	_	_
+9	ḳızı	ḳız	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	6	conj	_	_
+10	ṭogmış	ṭog	VERB	Ptcp	Aspect=Perf|Polarity=Pos|VerbForm=Part	3	conj	_	_
+11	ıdı	y	AUX	Zero	Aspect=Perf|Evident=Fh|Number=Sing|Person=3|Polarity=Pos|Tense=Past	10	cop	_	_
 
 ~~~
 

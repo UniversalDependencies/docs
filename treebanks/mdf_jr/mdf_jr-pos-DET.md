@@ -49,7 +49,7 @@ The 10 most frequent ambiguous types:  <em>тя</em> (<tt><a href="mdf_jr-pos-PR
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 1.117647 (the average of all parts of speech is 1.563574).
+The form / lemma ratio of `DET` is 1.117647 (the average of all parts of speech is 1.563961).
 
 The 1st highest number of forms (2) was observed with the lemma “лама”: <em>лама, ламос</em>.
 

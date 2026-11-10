@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  ئالىمى (<tt><a href="ug_udt-pos-PRO
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.500000 (the average of all parts of speech is 4.088599).
+The form / lemma ratio of `PROPN` is 1.500000 (the average of all parts of speech is 4.087268).
 
 The 1st highest number of forms (5) was observed with the lemma “قەشقەر”: قەشقەر, قەشقەردىن, قەشقەردە, قەشقەرنى, قەشقەرگە.
 

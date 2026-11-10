@@ -13,19 +13,19 @@ The 10 most frequent `NUM` lemmas: <em>viens, divi, trīs, otrs, pieci, četri, 
 
 The 10 most frequent `NUM` types:  <em>viens, trīs, vienu, viena, divas, vienā, divi, otru, desmit, 20</em>
 
-The 10 most frequent ambiguous lemmas: <em>otrs</em> (<tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> 195, <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> 2), <em>i</em> (<tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> 6, <tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> 1, <tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt> 1), <em>V</em> (<tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt> 7, <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> 2), <em>XVIII</em> (<tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> 1, <tt><a href="lv_lvtb-pos-X.html">X</a></tt> 1), <em>otrais</em> (<tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> 177, <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>otrs</em> (<tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> 195, <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> 2), <em>i</em> (<tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> 6, <tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> 1, <tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt> 1), <em>V</em> (<tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt> 7, <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> 2), <em>XVIII</em> (<tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> 1, <tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt> 1), <em>otrais</em> (<tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> 177, <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>vienu</em> (<tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> 168, <tt><a href="lv_lvtb-pos-X.html">X</a></tt> 1), <em>otrā</em> (<tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> 31, <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> 19), <em>8</em> (<tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> 18, <tt><a href="lv_lvtb-pos-X.html">X</a></tt> 1), <em>I</em> (<tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> 12, <tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="lv_lvtb-pos-X.html">X</a></tt> 1), <em>2008</em> (<tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> 7, <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> 1), <em>V</em> (<tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt> 7, <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> 2), <em>XVIII</em> (<tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> 1, <tt><a href="lv_lvtb-pos-X.html">X</a></tt> 1), <em>l</em> (<tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> 1), <em>otrās</em> (<tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> 23, <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>vienu</em> (<tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> 168, <tt><a href="lv_lvtb-pos-X.html">X</a></tt> 1), <em>otrā</em> (<tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> 31, <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> 19), <em>8</em> (<tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> 18, <tt><a href="lv_lvtb-pos-X.html">X</a></tt> 1), <em>I</em> (<tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> 12, <tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="lv_lvtb-pos-X.html">X</a></tt> 1), <em>2008</em> (<tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> 7, <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> 1), <em>V</em> (<tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt> 7, <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> 2), <em>XVIII</em> (<tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> 1, <tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt> 1), <em>l</em> (<tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> 1), <em>otrās</em> (<tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> 23, <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> 1)
 
 
 * <em>vienu</em>
-  * <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> 168: <em>Es tev <b>vienu</b> daļu iedevu .</em>
+  * <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> 168: <em>Novilkt striktu robežu starp <b>vienu</b> un otru ir neiespējami .</em>
   * <tt><a href="lv_lvtb-pos-X.html">X</a></tt> 1: <em>Tāpat komanda neaizvadīs ne <b>vienu</b> treniņu Latvijā - 21. martā dosies uz Slovākiju , kur gatavosies Senecas pilsētā , bet dienu pirms 25. martā gaidāmās spēles pārbrauks uz Čehiju .</em>
 * <em>otrā</em>
-  * <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> 31: <em>Man atņēma drosmi mana pirmā un <b>otrā</b> zīmējuma neveiksme .</em>
-  * <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> 19: <em>Virsmāsa , viņu pazinusi , pāriet <b>otrā</b> ielas pusē .</em>
+  * <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> 31: <em>Ārējie dotumi acīmredzami ir <b>otrā</b> , ja ne dažkārt trešā plāna jautājums .</em>
+  * <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> 19: <em>Pasaulei <b>otrā</b> pusē viss ir savādāk , augi ir cieti , spuraini un asi .</em>
 * <em>8</em>
-  * <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> 18: <em>Sajūtot stiepšanu , notur 5 - <b>8</b> sekundes .</em>
+  * <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> 18: <em>Negadījums noticis pirms plkst. <b>8</b> Lauku ielā .</em>
   * <tt><a href="lv_lvtb-pos-X.html">X</a></tt> 1: <em>Ja salīdzina akcīzes nodokļa likmju starpību starp dīzeļdegvielu un biodīzeļdegvielu , tad šī starpība ir nodokļa pamatlikmes apmērā , līdz ar to nodokļa likmju starpība par vienu litru produkta 2007. gadā ir ,17 <b>8</b> santīmi , 2008. gadā – 19,2 santīmi , 2011. gadā 21,1 santīmi un 2013. gadā – 23,1 santīms .</em>
 * <em>I</em>
   * <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> 12: <em>2. Direktīvas <b>I</b> iedaļu aizstāj ar šādu :</em>
@@ -39,17 +39,17 @@ The 10 most frequent ambiguous types:  <em>vienu</em> (<tt><a href="lv_lvtb-pos-
   * <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> 2: <em>Šodien aprit gads , kopš 12. Saeima sāka savu darbu , savukārt Ministru prezidentes Laimdotas Straujumas ( <b>V</b> ) vadītā valdība parlamentā tika apstiprināta 2014. gada 5. novembrī .</em>
 * <em>XVIII</em>
   * <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> 1: <em>Telpā nebija scenogrāfijas uzbūves vai rekvizītu , izņemot zālē iebūvētās kolonas , ap kurām riņķoja V. Varslavānes efektīgajos <b>XVIII</b> gs. modi imitējošajos tērpos ģērbtās , balti pūderētās aktrises .</em>
-  * <tt><a href="lv_lvtb-pos-X.html">X</a></tt> 1: <em>LNB direktors vēstniekam bija sarūpējis pārsteigumu : rādot 1809. gadā izdoto Luidži Lanzi darbu “ Storia pittorica della Italia dal risorgimento delle Belle Arti fin presso al fine del <b>XVIII</b> secolo " un stāstot , kā šis izdevums nokļuvis Nacionālajā bibliotēkā , noslēgumā Andris Vilks atšķīra grāmatas pēdējās lappuses , kuras rotāja unikāls fakts - Stendāla oriģinālajā rokrakstā lasāmi viņa pieraksti .</em>
+  * <tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt> 1: <em>LNB direktors vēstniekam bija sarūpējis pārsteigumu : rādot 1809. gadā izdoto Luidži Lanzi darbu “ Storia pittorica della Italia dal risorgimento delle Belle Arti fin presso al fine del <b>XVIII</b> secolo " un stāstot , kā šis izdevums nokļuvis Nacionālajā bibliotēkā , noslēgumā Andris Vilks atšķīra grāmatas pēdējās lappuses , kuras rotāja unikāls fakts - Stendāla oriģinālajā rokrakstā lasāmi viņa pieraksti .</em>
 * <em>l</em>
   * <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> 1: <em>Nenoskaidrota persona Limbažos no veikala Supernetto nozagusi 0,7 <b>l</b> tilpuma degvīna pudeli Vodočka 5,99 eiro vērtībā .</em>
   * <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> 1: <em>Zīmējums Nr. <b>l</b> .</em>
 * <em>otrās</em>
-  * <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> 23: <em>Bija reiz laiks , kad Mēness <b>otrās</b> puses izskats bija liela mīkla .</em>
+  * <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> 23: <em>Lielākais <b>otrās</b> laulības mīnuss ir ... salīdzināšana ar pirmo .</em>
   * <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> 1: <em>Vienās attiecībās pagaršoju ābolu , <b>otrās</b> banānu , no trešajām tagad gaidu apelsīnu ...</em>
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.105185 (the average of all parts of speech is 2.342815).
+The form / lemma ratio of `NUM` is 1.105185 (the average of all parts of speech is 2.343431).
 
 The 1st highest number of forms (12) was observed with the lemma “viens”: <em>Vienās, viena, vienai, vienam, vienas, vieni, vieniem, vienos, viens, vienu, vienā, vienām</em>.
 

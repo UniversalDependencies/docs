@@ -6,12 +6,12 @@ udver: '2'
 
 ## Treebank Statistics: UD_Old_Irish-DipSGG: POS Tags: `PROPN`
 
-There are 14 `PROPN` lemmas (6%), 14 `PROPN` types (5%) and 15 `PROPN` tokens (4%).
-Out of 16 observed tags, the rank of `PROPN` is: 5 in number of lemmas, 7 in number of types and 11 in number of tokens.
+There are 15 `PROPN` lemmas (7%), 15 `PROPN` types (5%) and 17 `PROPN` tokens (4%).
+Out of 16 observed tags, the rank of `PROPN` is: 4 in number of lemmas, 6 in number of types and 11 in number of tokens.
 
-The 10 most frequent `PROPN` lemmas: <em>dongus, _, brigit, brigtae, coirbbre, fergus, finguine, lothlend, maddoc, maellecan</em>
+The 10 most frequent `PROPN` lemmas: <em>dongus, día, _, brigit, brigtae, coirbbre, fergus, finguine, lothlend, maddoc</em>
 
-The 10 most frequent `PROPN` types:  <em>brigtae, choirbbre, dongus, donngvs, ferguso, finguine, isidorus, lothlind, maddoc, máel</em>
+The 10 most frequent `PROPN` types:  <em>brigtae, dia, choirbbre, dongus, donngvs, ferguso, finguine, isidorus, lothlind, maddoc</em>
 
 The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="sga_dipsgg-pos-NOUN.html">NOUN</a></tt> 7, <tt><a href="sga_dipsgg-pos-X.html">X</a></tt> 5, <tt><a href="sga_dipsgg-pos-VERB.html">VERB</a></tt> 4, <tt><a href="sga_dipsgg-pos-ADV.html">ADV</a></tt> 3, <tt><a href="sga_dipsgg-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="sga_dipsgg-pos-SCONJ.html">SCONJ</a></tt> 2, <tt><a href="sga_dipsgg-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="sga_dipsgg-pos-PROPN.html">PROPN</a></tt> 1, <tt><a href="sga_dipsgg-pos-PUNCT.html">PUNCT</a></tt> 1)
 
@@ -29,30 +29,32 @@ The 2nd highest number of forms (1) was observed with the lemma “_”: <em>isi
 
 The 3rd highest number of forms (1) was observed with the lemma “brigit”: <em>brigtae</em>.
 
-`PROPN` occurs with 3 features: <tt><a href="sga_dipsgg-feat-Case.html">Case</a></tt> (14; 93% instances), <tt><a href="sga_dipsgg-feat-Number.html">Number</a></tt> (14; 93% instances), <tt><a href="sga_dipsgg-feat-Foreign.html">Foreign</a></tt> (1; 7% instances)
+`PROPN` occurs with 3 features: <tt><a href="sga_dipsgg-feat-Case.html">Case</a></tt> (16; 94% instances), <tt><a href="sga_dipsgg-feat-Number.html">Number</a></tt> (16; 94% instances), <tt><a href="sga_dipsgg-feat-Foreign.html">Foreign</a></tt> (1; 6% instances)
 
 `PROPN` occurs with 7 feature-value pairs: `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Nom`, `Case=Voc`, `Foreign=Yes`, `Number=Sing`
 
 `PROPN` occurs with 6 feature combinations.
-The most frequent feature combination is `Case=Nom|Number=Sing` (5 tokens).
-Examples: <em>choirbbre, dongus, donngvs, finguine, ruadri</em>
+The most frequent feature combination is `Case=Gen|Number=Sing` (5 tokens).
+Examples: <em>brigtae, ferguso, patric, ᚋᚐᚏᚈᚐᚔᚅ</em>
 
 
 ## Relations
 
-`PROPN` nodes are attached to their parents using 5 different relations: <tt><a href="sga_dipsgg-dep-nmod.html">nmod</a></tt> (7; 47% instances), <tt><a href="sga_dipsgg-dep-root.html">root</a></tt> (3; 20% instances), <tt><a href="sga_dipsgg-dep-conj.html">conj</a></tt> (2; 13% instances), <tt><a href="sga_dipsgg-dep-nsubj.html">nsubj</a></tt> (2; 13% instances), <tt><a href="sga_dipsgg-dep-vocative.html">vocative</a></tt> (1; 7% instances)
+`PROPN` nodes are attached to their parents using 5 different relations: <tt><a href="sga_dipsgg-dep-nmod.html">nmod</a></tt> (8; 47% instances), <tt><a href="sga_dipsgg-dep-root.html">root</a></tt> (4; 24% instances), <tt><a href="sga_dipsgg-dep-conj.html">conj</a></tt> (2; 12% instances), <tt><a href="sga_dipsgg-dep-nsubj.html">nsubj</a></tt> (2; 12% instances), <tt><a href="sga_dipsgg-dep-vocative.html">vocative</a></tt> (1; 6% instances)
 
-Parents of `PROPN` nodes belong to 5 different parts of speech: <tt><a href="sga_dipsgg-pos-NOUN.html">NOUN</a></tt> (6; 40% instances),  (3; 20% instances), <tt><a href="sga_dipsgg-pos-VERB.html">VERB</a></tt> (3; 20% instances), <tt><a href="sga_dipsgg-pos-PROPN.html">PROPN</a></tt> (2; 13% instances), <tt><a href="sga_dipsgg-pos-PRON.html">PRON</a></tt> (1; 7% instances)
+Parents of `PROPN` nodes belong to 5 different parts of speech: <tt><a href="sga_dipsgg-pos-NOUN.html">NOUN</a></tt> (7; 41% instances),  (4; 24% instances), <tt><a href="sga_dipsgg-pos-VERB.html">VERB</a></tt> (3; 18% instances), <tt><a href="sga_dipsgg-pos-PROPN.html">PROPN</a></tt> (2; 12% instances), <tt><a href="sga_dipsgg-pos-PRON.html">PRON</a></tt> (1; 6% instances)
 
-9 (60%) `PROPN` nodes are leaves.
+9 (53%) `PROPN` nodes are leaves.
 
-5 (33%) `PROPN` nodes have one child.
+6 (35%) `PROPN` nodes have one child.
 
-1 (7%) `PROPN` nodes have two children.
+1 (6%) `PROPN` nodes have two children.
 
-The highest child degree of a `PROPN` node is 2.
+1 (6%) `PROPN` nodes have three or more children.
 
-Children of `PROPN` nodes are attached using 5 different relations: <tt><a href="sga_dipsgg-dep-case.html">case</a></tt> (2; 29% instances), <tt><a href="sga_dipsgg-dep-cc.html">cc</a></tt> (2; 29% instances), <tt><a href="sga_dipsgg-dep-case-voc.html">case:voc</a></tt> (1; 14% instances), <tt><a href="sga_dipsgg-dep-conj.html">conj</a></tt> (1; 14% instances), <tt><a href="sga_dipsgg-dep-nmod.html">nmod</a></tt> (1; 14% instances)
+The highest child degree of a `PROPN` node is 4.
 
-Children of `PROPN` nodes belong to 4 different parts of speech: <tt><a href="sga_dipsgg-pos-ADP.html">ADP</a></tt> (2; 29% instances), <tt><a href="sga_dipsgg-pos-CCONJ.html">CCONJ</a></tt> (2; 29% instances), <tt><a href="sga_dipsgg-pos-PROPN.html">PROPN</a></tt> (2; 29% instances), <tt><a href="sga_dipsgg-pos-PART.html">PART</a></tt> (1; 14% instances)
+Children of `PROPN` nodes are attached using 8 different relations: <tt><a href="sga_dipsgg-dep-case.html">case</a></tt> (4; 33% instances), <tt><a href="sga_dipsgg-dep-cc.html">cc</a></tt> (2; 17% instances), <tt><a href="sga_dipsgg-dep-advmod.html">advmod</a></tt> (1; 8% instances), <tt><a href="sga_dipsgg-dep-case-voc.html">case:voc</a></tt> (1; 8% instances), <tt><a href="sga_dipsgg-dep-conj.html">conj</a></tt> (1; 8% instances), <tt><a href="sga_dipsgg-dep-mark.html">mark</a></tt> (1; 8% instances), <tt><a href="sga_dipsgg-dep-nmod.html">nmod</a></tt> (1; 8% instances), <tt><a href="sga_dipsgg-dep-nsubj.html">nsubj</a></tt> (1; 8% instances)
+
+Children of `PROPN` nodes belong to 7 different parts of speech: <tt><a href="sga_dipsgg-pos-ADP.html">ADP</a></tt> (4; 33% instances), <tt><a href="sga_dipsgg-pos-CCONJ.html">CCONJ</a></tt> (2; 17% instances), <tt><a href="sga_dipsgg-pos-PROPN.html">PROPN</a></tt> (2; 17% instances), <tt><a href="sga_dipsgg-pos-ADV.html">ADV</a></tt> (1; 8% instances), <tt><a href="sga_dipsgg-pos-AUX.html">AUX</a></tt> (1; 8% instances), <tt><a href="sga_dipsgg-pos-PART.html">PART</a></tt> (1; 8% instances), <tt><a href="sga_dipsgg-pos-SCONJ.html">SCONJ</a></tt> (1; 8% instances)
 

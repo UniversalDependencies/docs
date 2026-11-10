@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `advcl`: <tt><a href="eo_prago-dep-advcl-relcl.html">advcl:relcl</a></tt>.
 
-39 nodes (1%) are attached to their parents as `advcl`.
+43 nodes (1%) are attached to their parents as `advcl`.
 
-21 instances of `advcl` (54%) are right-to-left (child precedes parent).
-Average distance between parent and child is 21.2820512820513.
+25 instances of `advcl` (58%) are right-to-left (child precedes parent).
+Average distance between parent and child is 22.906976744186.
 
-The following 5 pairs of parts of speech are connected with `advcl`: <tt><a href="eo_prago-pos-VERB.html">VERB</a></tt>-<tt><a href="eo_prago-pos-VERB.html">VERB</a></tt> (30; 77% instances), <tt><a href="eo_prago-pos-VERB.html">VERB</a></tt>-<tt><a href="eo_prago-pos-ADJ.html">ADJ</a></tt> (5; 13% instances), <tt><a href="eo_prago-pos-VERB.html">VERB</a></tt>-<tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt> (2; 5% instances), <tt><a href="eo_prago-pos-AUX.html">AUX</a></tt>-<tt><a href="eo_prago-pos-VERB.html">VERB</a></tt> (1; 3% instances), <tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt> (1; 3% instances).
+The following 6 pairs of parts of speech are connected with `advcl`: <tt><a href="eo_prago-pos-VERB.html">VERB</a></tt>-<tt><a href="eo_prago-pos-VERB.html">VERB</a></tt> (33; 77% instances), <tt><a href="eo_prago-pos-VERB.html">VERB</a></tt>-<tt><a href="eo_prago-pos-ADJ.html">ADJ</a></tt> (5; 12% instances), <tt><a href="eo_prago-pos-VERB.html">VERB</a></tt>-<tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt> (2; 5% instances), <tt><a href="eo_prago-pos-AUX.html">AUX</a></tt>-<tt><a href="eo_prago-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eo_prago-pos-VERB.html">VERB</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -62,7 +62,7 @@ The following 5 pairs of parts of speech are connected with `advcl`: <tt><a href
 11	laŭ	laŭ	ADP	_	_	14	case	_	_
 12	la	la	DET	_	Definite=Def|PronType=Art	14	det	_	_
 13	neŭtrale-homaj	neŭtrale-homa	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	14	amod	_	_
-14	principoj	principo	NOUN	_	Case=Nom|Number=Plur	9	nmod	_	_
+14	principoj	principo	NOUN	_	Case=Nom|Number=Plur	9	obl	_	_
 15	«	«	PUNCT	_	_	16	punct	_	SpaceAfter=No
 16	homaranaj	homarana	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	14	amod	_	SpaceAfter=No
 17	»	»	PUNCT	_	_	16	punct	_	SpaceAfter=No
@@ -70,7 +70,7 @@ The following 5 pairs of parts of speech are connected with `advcl`: <tt><a href
 19	kiuj	kiu	PRON	_	Case=Nom|Number=Sing|PronType=Rel	20	nsubj	_	_
 20	konsistas	konsisti	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	14	acl:relcl	_	_
 21	en	en	ADP	_	_	22	case	_	_
-22	jeno	jeno	NOUN	_	Case=Nom|Number=Sing	20	nmod	_	SpaceAfter=No
+22	jeno	jeno	NOUN	_	Case=Nom|Number=Sing	20	obl	_	SpaceAfter=No
 23	.	.	PUNCT	_	_	9	punct	_	_
 
 ~~~

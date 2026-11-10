@@ -9,40 +9,50 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Yes`.
 
-394 tokens (1%) have a non-empty value of `Analyt`.
-186 types (2%) occur at least once with a non-empty value of `Analyt`.
-48 lemmas (1%) occur at least once with a non-empty value of `Analyt`.
-The feature is used with 3 part-of-speech tags: <tt><a href="orv_birchbark-pos-AUX.html">AUX</a></tt> (326; 1% instances), <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt> (63; 0% instances), <tt><a href="orv_birchbark-pos-PRON.html">PRON</a></tt> (5; 0% instances).
+587 tokens (2%) have a non-empty value of `Analyt`.
+364 types (3%) occur at least once with a non-empty value of `Analyt`.
+135 lemmas (3%) occur at least once with a non-empty value of `Analyt`.
+The feature is used with 3 part-of-speech tags: <tt><a href="orv_birchbark-pos-AUX.html">AUX</a></tt> (304; 1% instances), <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt> (282; 1% instances), <tt><a href="orv_birchbark-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 ### `AUX`
 
-326 <tt><a href="orv_birchbark-pos-AUX.html">AUX</a></tt> tokens (85% of all `AUX` tokens) have a non-empty value of `Analyt`.
+304 <tt><a href="orv_birchbark-pos-AUX.html">AUX</a></tt> tokens (78% of all `AUX` tokens) have a non-empty value of `Analyt`.
 
-The most frequent other feature values with which `AUX` and `Analyt` co-occurred: <tt><a href="orv_birchbark-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (326; 100%), <tt><a href="orv_birchbark-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (316; 97%), <tt><a href="orv_birchbark-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (278; 85%), <tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=Sing</tt> (273; 84%).
+The most frequent other feature values with which `AUX` and `Analyt` co-occurred: <tt><a href="orv_birchbark-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (281; 92%), <tt><a href="orv_birchbark-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (280; 92%), <tt><a href="orv_birchbark-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (276; 91%), <tt><a href="orv_birchbark-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (262; 86%), <tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=Sing</tt> (256; 84%).
 
 `AUX` tokens may have the following values of `Analyt`:
 
-* `Yes` (326; 100% of non-empty `Analyt`): <em>еси, ѥси, есмь, ѥсмь, есте, есть, есемо, ѥсме, бꙑ, есме</em>
+* `Yes` (304; 100% of non-empty `Analyt`): <em>еси, ѥси, есмь, ѥсмь, есемо, ѥсме, есме, есте, есть, бꙑлъ</em>
 
 ### `VERB`
 
-63 <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt> tokens (2% of all `VERB` tokens) have a non-empty value of `Analyt`.
+282 <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt> tokens (10% of all `VERB` tokens) have a non-empty value of `Analyt`.
 
-The most frequent other feature values with which `VERB` and `Analyt` co-occurred: <tt><a href="orv_birchbark-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (59; 94%), <tt><a href="orv_birchbark-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (57; 90%), <tt><a href="orv_birchbark-feat-VerbForm.html">VerbForm</a></tt><tt>=PartRes</tt> (55; 87%), <tt><a href="orv_birchbark-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (54; 86%), <tt><a href="orv_birchbark-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (49; 78%), <tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=Sing</tt> (47; 75%), <tt><a href="orv_birchbark-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (45; 71%).
+The most frequent other feature values with which `VERB` and `Analyt` co-occurred: <tt><a href="orv_birchbark-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (262; 93%), <tt><a href="orv_birchbark-feat-VerbForm.html">VerbForm</a></tt><tt>=PartRes</tt> (253; 90%), <tt><a href="orv_birchbark-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (251; 89%), <tt><a href="orv_birchbark-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (247; 88%), <tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=Sing</tt> (230; 82%), <tt><a href="orv_birchbark-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (227; 80%).
 
 `VERB` tokens may have the following values of `Analyt`:
 
-* `Yes` (63; 100% of non-empty `Analyt`): <em>въдале, дале, торговала, (д)але, [в]ъзѧла, бꙑ, бꙑ[л](ъ), вел[ѣл](ъ), взѧла, возилесь</em>
+* `Yes` (282; 100% of non-empty `Analyt`): <em>въдале, дале, далъ, послалъ, възѧле, велѣлъ, послале, продалъ, возложило, възѧлъ</em>
 
-`Analyt` seems to be **lexical feature** of `VERB`. 100% lemmas (46) occur only with one value of `Analyt`.
+`Analyt` seems to be **lexical feature** of `VERB`. 100% lemmas (134) occur only with one value of `Analyt`.
 
 ### `PRON`
 
-5 <tt><a href="orv_birchbark-pos-PRON.html">PRON</a></tt> tokens (0% of all `PRON` tokens) have a non-empty value of `Analyt`.
+1 <tt><a href="orv_birchbark-pos-PRON.html">PRON</a></tt> tokens (0% of all `PRON` tokens) have a non-empty value of `Analyt`.
 
-The most frequent other feature values with which `PRON` and `Analyt` co-occurred: <tt><a href="orv_birchbark-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="orv_birchbark-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="orv_birchbark-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="orv_birchbark-feat-Case.html">Case</a></tt><tt>=Acc</tt> (4; 80%), <tt><a href="orv_birchbark-feat-Clitic.html">Clitic</a></tt><tt>=Yes</tt> (3; 60%).
+The most frequent other feature values with which `PRON` and `Analyt` co-occurred: <tt><a href="orv_birchbark-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="orv_birchbark-feat-Clitic.html">Clitic</a></tt><tt>=Yes</tt> (1; 100%), <tt><a href="orv_birchbark-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="orv_birchbark-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="orv_birchbark-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (1; 100%).
 
 `PRON` tokens may have the following values of `Analyt`:
 
-* `Yes` (5; 100% of non-empty `Analyt`): <em>сѧ, се, покланѧю</em>
+* `Yes` (1; 100% of non-empty `Analyt`): <em>сѧ</em>
+
+## Relations with Agreement in `Analyt`
+
+The 10 most frequent relations where parent and child node agree in `Analyt`:
+<tt>VERB --[<tt><a href="orv_birchbark-dep-aux.html">aux</a></tt>]--> AUX</tt> (257; 97%),
+<tt>VERB --[<tt><a href="orv_birchbark-dep-aux-pass.html">aux:pass</a></tt>]--> AUX</tt> (5; 100%),
+<tt>VERB --[<tt><a href="orv_birchbark-dep-advcl.html">advcl</a></tt>]--> AUX</tt> (1; 100%),
+<tt>VERB --[<tt><a href="orv_birchbark-dep-cop.html">cop</a></tt>]--> AUX</tt> (1; 100%),
+<tt>VERB --[<tt><a href="orv_birchbark-dep-iobj.html">iobj</a></tt>]--> AUX</tt> (1; 100%),
+<tt>VERB --[<tt><a href="orv_birchbark-dep-reparandum.html">reparandum</a></tt>]--> AUX</tt> (1; 100%).
 

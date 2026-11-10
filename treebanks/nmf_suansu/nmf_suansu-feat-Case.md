@@ -9,14 +9,14 @@ udver: '2'
 This feature is universal but the values `DatErg`, `ErgTop`, `GenAbl`, `GenTop`, `LocTop`, `Top` are language-specific.
 It occurs with 12 different values: `Abl`, `Ben`, `Dat`, `DatErg`, `Erg`, `ErgTop`, `Gen`, `GenAbl`, `GenTop`, `Loc`, `LocTop`, `Top`.
 
-504 tokens (16%) have a non-empty value of `Case`.
-300 types (27%) occur at least once with a non-empty value of `Case`.
-199 lemmas (25%) occur at least once with a non-empty value of `Case`.
-The feature is used with 7 part-of-speech tags: <tt><a href="nmf_suansu-pos-NOUN.html">NOUN</a></tt> (269; 9% instances), <tt><a href="nmf_suansu-pos-PRON.html">PRON</a></tt> (139; 4% instances), <tt><a href="nmf_suansu-pos-PROPN.html">PROPN</a></tt> (73; 2% instances), <tt><a href="nmf_suansu-pos-ADJ.html">ADJ</a></tt> (9; 0% instances), <tt><a href="nmf_suansu-pos-NUM.html">NUM</a></tt> (9; 0% instances), <tt><a href="nmf_suansu-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="nmf_suansu-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+498 tokens (16%) have a non-empty value of `Case`.
+297 types (27%) occur at least once with a non-empty value of `Case`.
+198 lemmas (25%) occur at least once with a non-empty value of `Case`.
+The feature is used with 7 part-of-speech tags: <tt><a href="nmf_suansu-pos-NOUN.html">NOUN</a></tt> (268; 9% instances), <tt><a href="nmf_suansu-pos-PRON.html">PRON</a></tt> (135; 4% instances), <tt><a href="nmf_suansu-pos-PROPN.html">PROPN</a></tt> (72; 2% instances), <tt><a href="nmf_suansu-pos-ADJ.html">ADJ</a></tt> (9; 0% instances), <tt><a href="nmf_suansu-pos-NUM.html">NUM</a></tt> (9; 0% instances), <tt><a href="nmf_suansu-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="nmf_suansu-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-269 <tt><a href="nmf_suansu-pos-NOUN.html">NOUN</a></tt> tokens (40% of all `NOUN` tokens) have a non-empty value of `Case`.
+268 <tt><a href="nmf_suansu-pos-NOUN.html">NOUN</a></tt> tokens (40% of all `NOUN` tokens) have a non-empty value of `Case`.
 
 The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="nmf_suansu-feat-Number.html">Number</a></tt><tt>=Sing</tt> (261; 97%).
 
@@ -24,7 +24,7 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 
 * `Abl` (37; 14% of non-empty `Case`): <em>lehnda, thungda, rhuida, anohnda, kumda, makhwada, Ada, actsda, blanketda, capitalda</em>
 * `Ben` (6; 2% of non-empty `Case`): <em>governmentbyahn, lhaibyahn, rungebyahn, yurbyahn</em>
-* `Dat` (9; 3% of non-empty `Case`): <em>spyla, baszuela, dhohnphala, neola, neolewila, neophala, puirawila, wizala</em>
+* `Dat` (8; 3% of non-empty `Case`): <em>spyla, baszuela, neola, neolewila, neophala, puirawila, wizala</em>
 * `Erg` (29; 11% of non-empty `Case`): <em>leneonan, neonan, Nahnnan, baneonan, miszunan, Ainnan, Anan, Huinan, Hwehnnan, Thamoknan</em>
 * `ErgTop` (2; 1% of non-empty `Case`): <em>baneonandi, neonandi</em>
 * `Gen` (12; 4% of non-empty `Case`): <em>miszuva, theva, a.m.-va, atomicva, caseva, companyva, courtva, huiva, neobeva, neova</em>
@@ -33,7 +33,7 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 * `Loc` (50; 19% of non-empty `Case`): <em>clientnahn, rhuinahn, gaenahn, maganahn, maramnahn, marketnahn, Airportnahn, Biknahn, CIAnahn, Dukannahn</em>
 * `LocTop` (2; 1% of non-empty `Case`): <em>desknahndi, rungenahndi</em>
 * `Top` (118; 44% of non-empty `Case`): <em>neodi, baneodi, kelasdi, rhuidi, miszudi, rungedi, badi, jehndi, letterdi, lhaidi</em>
-* `EMPTY` (401): <em>miszu, neo, baneo, insurance, leneo, rhui, puirawi, Szukhyate, bya, sir</em>
+* `EMPTY` (399): <em>miszu, neo, baneo, insurance, leneo, rhui, puirawi, Szukhyate, bya, Mr.</em>
 
 <table>
   <tr><th>Paradigm <i>neo</i></th><th><tt>Erg</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>ErgTop</tt></th><th><tt>Top</tt></th></tr>
@@ -43,23 +43,23 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 
 ### `PRON`
 
-139 <tt><a href="nmf_suansu-pos-PRON.html">PRON</a></tt> tokens (45% of all `PRON` tokens) have a non-empty value of `Case`.
+135 <tt><a href="nmf_suansu-pos-PRON.html">PRON</a></tt> tokens (44% of all `PRON` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="nmf_suansu-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (119; 86%), <tt><a href="nmf_suansu-feat-Number.html">Number</a></tt><tt>=Sing</tt> (118; 85%).
+The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="nmf_suansu-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (116; 86%), <tt><a href="nmf_suansu-feat-Number.html">Number</a></tt><tt>=Sing</tt> (115; 85%).
 
 `PRON` tokens may have the following values of `Case`:
 
-* `Abl` (3; 2% of non-empty `Case`): <em>haida, Mwetheda</em>
+* `Abl` (1; 1% of non-empty `Case`): <em>Mwetheda</em>
 * `Ben` (5; 4% of non-empty `Case`): <em>babyahn, haibyahn, nahnbyahn</em>
 * `Dat` (5; 4% of non-empty `Case`): <em>Ala, nahnla, Thuzala</em>
 * `DatErg` (1; 1% of non-empty `Case`): <em>Alanan</em>
-* `Erg` (35; 25% of non-empty `Case`): <em>Anan, nahnnan, Bunan, banan, mazohnnan, thuzanan, hainan, didinan</em>
-* `Gen` (40; 29% of non-empty `Case`): <em>bava, ava, nahnva, haiva, nava, Nahnvai, buva, haivai</em>
+* `Erg` (33; 24% of non-empty `Case`): <em>Anan, nahnnan, Bunan, banan, mazohnnan, thuzanan, hainan, didinan</em>
+* `Gen` (40; 30% of non-empty `Case`): <em>bava, ava, nahnva, haiva, nava, Nahnvai, buva, haivai</em>
 * `GenAbl` (1; 1% of non-empty `Case`): <em>nahnvada</em>
 * `GenTop` (3; 2% of non-empty `Case`): <em>Avadi, nahnvadi</em>
 * `Loc` (8; 6% of non-empty `Case`): <em>anahn, Nahnnahn, hainahn, nahn, nahnla, thuzanahn</em>
-* `Top` (38; 27% of non-empty `Case`): <em>badi, adi, nahndi, thuzadi, haidi, Budi, Chathadi, mazohndi</em>
-* `EMPTY` (172): <em>a, nahn, ba, didi, hai, bu, tye, hadi, mwe, Na</em>
+* `Top` (38; 28% of non-empty `Case`): <em>badi, adi, nahndi, thuzadi, haidi, Budi, Chathadi, mazohndi</em>
+* `EMPTY` (170): <em>a, nahn, ba, didi, hai, bu, tye, hadi, mwe, Na</em>
 
 <table>
   <tr><th>Paradigm <i>nahn</i></th><th><tt>Erg</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Ben</tt></th><th><tt>GenAbl</tt></th><th><tt>GenTop</tt></th><th><tt>Top</tt></th></tr>
@@ -71,9 +71,9 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 
 ### `PROPN`
 
-73 <tt><a href="nmf_suansu-pos-PROPN.html">PROPN</a></tt> tokens (28% of all `PROPN` tokens) have a non-empty value of `Case`.
+72 <tt><a href="nmf_suansu-pos-PROPN.html">PROPN</a></tt> tokens (28% of all `PROPN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PROPN` and `Case` co-occurred: <tt><a href="nmf_suansu-feat-Number.html">Number</a></tt><tt>=Sing</tt> (71; 97%).
+The most frequent other feature values with which `PROPN` and `Case` co-occurred: <tt><a href="nmf_suansu-feat-Number.html">Number</a></tt><tt>=Sing</tt> (70; 97%).
 
 `PROPN` tokens may have the following values of `Case`:
 
@@ -81,11 +81,11 @@ The most frequent other feature values with which `PROPN` and `Case` co-occurred
 * `Ben` (1; 1% of non-empty `Case`): <em>Abelbyahn</em>
 * `Dat` (5; 7% of non-empty `Case`): <em>Mariala, Alisonla, Unionla</em>
 * `Erg` (16; 22% of non-empty `Case`): <em>Peternan, Associationnan, Committeenan, Jessicanan, Marianan, Natalienan</em>
-* `Gen` (4; 5% of non-empty `Case`): <em>Donovanva, Franceva, Investigationva, Peterva</em>
+* `Gen` (4; 6% of non-empty `Case`): <em>Donovanva, Franceva, Investigationva, Peterva</em>
 * `GenAbl` (1; 1% of non-empty `Case`): <em>Petervada</em>
-* `Loc` (6; 8% of non-empty `Case`): <em>Earlnahn, CIAnahn, Jasonnahn, Marianahn, Predentialnahn, Unionnahn</em>
-* `Top` (38; 52% of non-empty `Case`): <em>Mariadi, Abeldi, Browndi, Iguazudi, Lynndi, Peterdi, Rosenbergwidi, Shinndi, Smithdi, Streetdi</em>
-* `EMPTY` (187): <em>Peter, Jim, Maria, Mary, Donovan, Bar, Bob, Doug, Lieutenant, Soviet</em>
+* `Loc` (5; 7% of non-empty `Case`): <em>Earlnahn, Jasonnahn, Marianahn, Predentialnahn, Unionnahn</em>
+* `Top` (38; 53% of non-empty `Case`): <em>Mariadi, Abeldi, Browndi, Iguazudi, Lynndi, Peterdi, Rosenbergwidi, Shinndi, Smithdi, Streetdi</em>
+* `EMPTY` (186): <em>Peter, Jim, Maria, Mary, Donovan, Bar, Bob, Lieutenant, Soviet, Broad</em>
 
 <table>
   <tr><th>Paradigm <i>Peter</i></th><th><tt>Erg</tt></th><th><tt>Gen</tt></th><th><tt>GenAbl</tt></th><th><tt>Top</tt></th></tr>
@@ -146,7 +146,7 @@ The most frequent other feature values with which `ADP` and `Case` co-occurred: 
 `SCONJ` tokens may have the following values of `Case`:
 
 * `Top` (1; 100% of non-empty `Case`): <em>didi</em>
-* `EMPTY` (70): <em>di, ragu, gase, byahn, laiteragu, gu, gasebyahn, re, regwenan, renan</em>
+* `EMPTY` (69): <em>di, ragu, gase, byahn, laiteragu, gu, gasebyahn, re, regwenan, renan</em>
 
 ## Relations with Agreement in `Case`
 

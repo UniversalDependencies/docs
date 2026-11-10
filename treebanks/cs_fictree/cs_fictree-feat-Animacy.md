@@ -24,7 +24,7 @@ The most frequent other feature values with which `NOUN` and `Animacy` co-occurr
 
 * `Anim` (3748; 32% of non-empty `Animacy`): <em>člověk, profesor, mistr, muž, lidé, mladík, otec, primář, lidí, pán</em>
 * `Inan` (8150; 68% of non-empty `Animacy`): <em>život, den, plod, čas, života, životě, dne, pohled, domu, dům</em>
-* `EMPTY` (15698): <em>chvíli, oči, dítě, dívka, ruce, let, dveře, paní, děti, slova</em>
+* `EMPTY` (15703): <em>chvíli, oči, dítě, dívka, ruce, let, dveře, paní, děti, slova</em>
 
 <table>
   <tr><th>Paradigm <i>duch</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
@@ -42,7 +42,7 @@ The most frequent other feature values with which `NOUN` and `Animacy` co-occurr
 
 8434 <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt> tokens (35% of all `VERB` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `VERB` and `Animacy` co-occurred: <tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (8434; 100%), <tt><a href="cs_fictree-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (8434; 100%), <tt><a href="cs_fictree-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (8434; 100%), <tt><a href="cs_fictree-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (8434; 100%), <tt><a href="cs_fictree-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (8413; 100%), <tt><a href="cs_fictree-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (8410; 100%), <tt><a href="cs_fictree-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (7605; 90%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6894; 82%).
+The most frequent other feature values with which `VERB` and `Animacy` co-occurred: <tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (8434; 100%), <tt><a href="cs_fictree-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (8434; 100%), <tt><a href="cs_fictree-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (8434; 100%), <tt><a href="cs_fictree-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (8434; 100%), <tt><a href="cs_fictree-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (8413; 100%), <tt><a href="cs_fictree-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (8410; 100%), <tt><a href="cs_fictree-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (7605; 90%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6894; 82%), <tt><a href="cs_fictree-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (4300; 51%).
 
 `VERB` tokens may have the following values of `Animacy`:
 
@@ -62,7 +62,7 @@ The most frequent other feature values with which `VERB` and `Animacy` co-occurr
 
 4616 <tt><a href="cs_fictree-pos-ADJ.html">ADJ</a></tt> tokens (42% of all `ADJ` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `ADJ` and `Animacy` co-occurred: <tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (4616; 100%), <tt><a href="cs_fictree-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (4246; 92%), <tt><a href="cs_fictree-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (4067; 88%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3362; 73%).
+The most frequent other feature values with which `ADJ` and `Animacy` co-occurred: <tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (4616; 100%), <tt><a href="cs_fictree-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (4246; 92%), <tt><a href="cs_fictree-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (4099; 89%), <tt><a href="cs_fictree-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (4067; 88%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3362; 73%).
 
 `ADJ` tokens may have the following values of `Animacy`:
 
@@ -135,7 +135,7 @@ The most frequent other feature values with which `DET` and `Animacy` co-occurre
 
 * `Anim` (1207; 45% of non-empty `Animacy`): <em>který, sám, ten, všichni, kteří, můj, svého, každý, ti, toho</em>
 * `Inan` (1486; 55% of non-empty `Animacy`): <em>ten, který, jeho, svůj, které, každý, tom, svého, nějaký, její</em>
-* `EMPTY` (5742): <em>to, jeho, která, všechno, které, tom, své, té, tím, ta</em>
+* `EMPTY` (5738): <em>to, jeho, která, všechno, které, tom, své, té, tím, ta</em>
 
 <table>
   <tr><th>Paradigm <i>ten</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
@@ -205,7 +205,7 @@ The most frequent other feature values with which `NUM` and `Animacy` co-occurre
 
 * `Anim` (213; 46% of non-empty `Animacy`): <em>jeden, dva, oba, jednoho, čtyři, tři, dvěma, jedním, jednomu, tří</em>
 * `Inan` (254; 54% of non-empty `Animacy`): <em>dva, jeden, jednoho, tři, čtyři, tisíc, dvou, jedním, dvěma, jednom</em>
-* `EMPTY` (846): <em>pár, dvě, jedna, jednu, jedné, deset, jedno, tři, dvacet, obě</em>
+* `EMPTY` (841): <em>pár, dvě, jedna, jednu, jedné, deset, jedno, tři, dvacet, obě</em>
 
 <table>
   <tr><th>Paradigm <i>jeden</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>

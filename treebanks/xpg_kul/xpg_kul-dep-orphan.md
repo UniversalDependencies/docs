@@ -8,12 +8,25 @@ udver: '2'
 
 This relation is universal.
 
-1 nodes (0%) are attached to their parents as `orphan`.
+2 nodes (0%) are attached to their parents as `orphan`.
 
-1 instances of `orphan` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.
+2 instances of `orphan` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.
 
-The following 1 pairs of parts of speech are connected with `orphan`: <tt><a href="xpg_kul-pos-X.html">X</a></tt>-<tt><a href="xpg_kul-pos-DET.html">DET</a></tt> (1; 100% instances).
+The following 2 pairs of parts of speech are connected with `orphan`: <tt><a href="xpg_kul-pos-PROPN.html">PROPN</a></tt>-<tt><a href="xpg_kul-pos-PROPN.html">PROPN</a></tt> (1; 50% instances), <tt><a href="xpg_kul-pos-X.html">X</a></tt>-<tt><a href="xpg_kul-pos-DET.html">DET</a></tt> (1; 50% instances).
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 2 orphan	color:blue
+1	per	per	ADP	_	_	2	case	_	Ref=TM757257-1-1
+2	basti	basti	PROPN	_	Case=Dat|Number=Sing	3	orphan	_	Ref=TM757257-1-2
+3	dages	dages	PROPN	_	Case=Nom|Number=Sing	0	root	_	Ref=TM757257-1-3
+
+~~~
 
 
 ~~~ conllu

@@ -22,17 +22,17 @@ The following 4 pairs of parts of speech are connected with `obj:lvc`: <tt><a hr
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 8 obj:lvc	color:blue
-1	#	#	PUNCT	_	_	3	punct	_	AlignBegin=64011|AlignEnd=64514|Gloss=PUNCT
-2	dey	dey	AUX	_	Aspect=Imp	3	aux	_	AlignBegin=64513|AlignEnd=64584|Gloss=IPFV
-3	use	use	VERB	_	_	0	root	_	AlignBegin=64584|AlignEnd=64774|Gloss=use
-4	am	am	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	3	obj	_	AlignBegin=64774|AlignEnd=64974|Gloss=ACC.SG.3
-5	//=	//=	PUNCT	_	_	7	punct	_	AlignBegin=64974|AlignEnd=64974|Gloss=PUNCT
-6	dey	dey	AUX	_	Aspect=Imp	7	aux	_	AlignBegin=64974|AlignEnd=65063|Gloss=IPFV
-7	take	take	VERB	_	_	3	parataxis:conj	_	AlignBegin=65063|AlignEnd=65263|Gloss=take
-8	care	care	NOUN	_	_	7	obj:lvc	_	AlignBegin=65263|AlignEnd=65464|Gloss=care
-9	of	of	ADP	_	_	10	case	_	AlignBegin=65464|AlignEnd=65644|Gloss=of
-10	ourself	oursef	PRON	_	Case=Acc|Number=Plur|Person=1|PronType=Prs|Reflex=Yes	7	obl:arg	_	AlignBegin=65644|AlignEnd=66032|Gloss=ACC.PL.1.REFL
-11	//	//	PUNCT	_	_	3	punct	_	AlignBegin=66032|AlignEnd=66032|Gloss=PUNCT
+1	#	#	PUNCT	_	_	3	punct	_	Gloss=PUNCT|WordAlignmentBegin=64011|WordAlignmentEnd=64514
+2	dey	dey	AUX	_	Aspect=Imp	3	aux	_	Gloss=IPFV|WordAlignmentBegin=64513|WordAlignmentEnd=64584
+3	use	use	VERB	_	_	0	root	_	Gloss=use|WordAlignmentBegin=64584|WordAlignmentEnd=64774
+4	am	am	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	3	obj	_	Gloss=ACC.SG.3|WordAlignmentBegin=64774|WordAlignmentEnd=64974
+5	//=	//=	PUNCT	_	_	7	punct	_	Gloss=PUNCT|WordAlignmentBegin=64974|WordAlignmentEnd=64974
+6	dey	dey	AUX	_	Aspect=Imp	7	aux	_	Gloss=IPFV|WordAlignmentBegin=64974|WordAlignmentEnd=65063
+7	take	take	VERB	_	_	3	parataxis:conj	_	Gloss=take|WordAlignmentBegin=65063|WordAlignmentEnd=65263
+8	care	care	NOUN	_	_	7	obj:lvc	_	Gloss=care|WordAlignmentBegin=65263|WordAlignmentEnd=65464
+9	of	of	ADP	_	_	10	case	_	Gloss=of|WordAlignmentBegin=65464|WordAlignmentEnd=65644
+10	ourself	oursef	PRON	_	Case=Acc|Number=Plur|Person=1|PronType=Prs|Reflex=Yes	7	obl:arg	_	Gloss=ACC.PL.1.REFL|WordAlignmentBegin=65644|WordAlignmentEnd=66032
+11	//	//	PUNCT	_	_	3	punct	_	Gloss=PUNCT|WordAlignmentBegin=66032|WordAlignmentEnd=66032
 
 ~~~
 
@@ -43,22 +43,22 @@ The following 4 pairs of parts of speech are connected with `obj:lvc`: <tt><a hr
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 11 obj:lvc	color:blue
-1	#	#	PUNCT	_	_	10	punct	_	AlignBegin=57536|AlignEnd=58100|Gloss=PUNCT
-2	and	and	CCONJ	_	_	10	discourse	_	AlignBegin=58100|AlignEnd=58345|Gloss=and
-3	{	{	PUNCT	_	_	6	punct	_	AlignBegin=58345|AlignEnd=58345|Gloss=PUNCT
-4	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	reparandum	_	AlignBegin=58345|AlignEnd=58564|Gloss=NOM.SG.1
-5	||	||	PUNCT	_	_	4	punct	_	AlignBegin=58564|AlignEnd=58564|Gloss=PUNCT
-6	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	AlignBegin=58564|AlignEnd=58765|Gloss=NOM.SG.1
-7	}	}	PUNCT	_	_	6	punct	_	AlignBegin=58765|AlignEnd=58765|Gloss=PUNCT
-8	do	no	AUX	_	_	10	aux	_	AlignBegin=58765|AlignEnd=58930|Gloss=NEG|Scrap=Yes|SpaceAfter=No
-9	n't	not	PART	_	Polarity=Neg	10	advmod	_	AlignBegin=58930|AlignEnd=59047|Gloss=NEG
-10	do	do	VERB	_	_	0	root	_	AlignBegin=59047|AlignEnd=59386|Gloss=do
-11	bad	bad	ADJ	_	_	10	obj:lvc	_	AlignBegin=59047|AlignEnd=59386|Gloss=bad
-12	//+	//+	PUNCT	_	_	15	punct	_	AlignBegin=59300|AlignEnd=59300|Gloss=PUNCT
-13	#	#	PUNCT	_	_	15	punct	_	AlignBegin=59386|AlignEnd=59456|Gloss=PUNCT
-14	for	for	ADP	_	_	15	case	_	AlignBegin=59456|AlignEnd=59717|Gloss=for
-15	school	school	NOUN	_	_	10	obl:arg	_	AlignBegin=59456|AlignEnd=59717|Gloss=school
-16	//	//	PUNCT	_	_	10	punct	_	AlignBegin=59717|AlignEnd=59717|Gloss=PUNCT
+1	#	#	PUNCT	_	_	10	punct	_	Gloss=PUNCT|WordAlignmentBegin=57536|WordAlignmentEnd=58100
+2	and	and	CCONJ	_	_	10	discourse	_	Gloss=and|WordAlignmentBegin=58100|WordAlignmentEnd=58345
+3	{	{	PUNCT	_	_	6	punct	_	Gloss=PUNCT|WordAlignmentBegin=58345|WordAlignmentEnd=58345
+4	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	reparandum	_	Gloss=NOM.SG.1|WordAlignmentBegin=58345|WordAlignmentEnd=58564
+5	||	||	PUNCT	_	_	4	punct	_	Gloss=PUNCT|WordAlignmentBegin=58564|WordAlignmentEnd=58564
+6	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	Gloss=NOM.SG.1|WordAlignmentBegin=58564|WordAlignmentEnd=58765
+7	}	}	PUNCT	_	_	6	punct	_	Gloss=PUNCT|WordAlignmentBegin=58765|WordAlignmentEnd=58765
+8	do	no	AUX	_	_	10	aux	_	Gloss=NEG|Scrap=Yes|SpaceAfter=No|WordAlignmentBegin=58765|WordAlignmentEnd=58930
+9	n't	not	PART	_	Polarity=Neg	10	advmod	_	Gloss=NEG|WordAlignmentBegin=58930|WordAlignmentEnd=59047
+10	do	do	VERB	_	_	0	root	_	Gloss=do|WordAlignmentBegin=59047|WordAlignmentEnd=59386
+11	bad	bad	ADJ	_	_	10	obj:lvc	_	Gloss=bad|WordAlignmentBegin=59047|WordAlignmentEnd=59386
+12	//+	//+	PUNCT	_	_	15	punct	_	Gloss=PUNCT|WordAlignmentBegin=59300|WordAlignmentEnd=59300
+13	#	#	PUNCT	_	_	15	punct	_	Gloss=PUNCT|WordAlignmentBegin=59386|WordAlignmentEnd=59456
+14	for	for	ADP	_	_	15	case	_	Gloss=for|WordAlignmentBegin=59456|WordAlignmentEnd=59717
+15	school	school	NOUN	_	_	10	obl:arg	_	Gloss=school|WordAlignmentBegin=59456|WordAlignmentEnd=59717
+16	//	//	PUNCT	_	_	10	punct	_	Gloss=PUNCT|WordAlignmentBegin=59717|WordAlignmentEnd=59717
 
 ~~~
 
@@ -69,18 +69,18 @@ The following 4 pairs of parts of speech are connected with `obj:lvc`: <tt><a hr
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 10 obj:lvc	color:blue
-1	to	to	ADP	_	_	2	case	_	AlignBegin=62052|AlignEnd=62403|Gloss=to
-2	me	me	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	7	dislocated	_	AlignBegin=62403|AlignEnd=62754|Gloss=ACC.SG.1
-3	ma	ma	PART	_	PartType=Disc	2	advmod	_	AlignBegin=62754|AlignEnd=63106|Gloss=FOC
-4	<	<	PUNCT	_	_	2	punct	_	AlignBegin=63106|AlignEnd=63106|Gloss=PUNCT
-5	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	AlignBegin=63106|AlignEnd=63457|Gloss=NOM.SG.1
-6	no	no	AUX	_	Polarity=Neg	7	aux	_	AlignBegin=63457|AlignEnd=63808|Gloss=NEG
-7	ready	ready	ADJ	_	ExtPos=VERB	0	root	_	AlignBegin=63808|AlignEnd=64159|Gloss=ready
-8	to	to	ADP	_	_	9	mark	_	AlignBegin=64159|AlignEnd=64510|Gloss=to
-9	do	do	VERB	_	_	7	ccomp	_	AlignBegin=64510|AlignEnd=64862|Gloss=do
-10	falla	follow	VERB	_	_	9	obj:lvc	_	AlignBegin=64862|AlignEnd=65213|Gloss=follow
-11	follow	follow	VERB	_	_	10	compound:svc	_	AlignBegin=65213|AlignEnd=65564|Gloss=follow
-12	//	//	PUNCT	_	_	7	punct	_	AlignBegin=65564|AlignEnd=65564|Gloss=PUNCT
+1	to	to	ADP	_	_	2	case	_	Gloss=to|WordAlignmentBegin=62052|WordAlignmentEnd=62403
+2	me	me	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	7	dislocated	_	Gloss=ACC.SG.1|WordAlignmentBegin=62403|WordAlignmentEnd=62754
+3	ma	ma	PART	_	PartType=Disc	2	advmod	_	Gloss=FOC|WordAlignmentBegin=62754|WordAlignmentEnd=63106
+4	<	<	PUNCT	_	_	2	punct	_	Gloss=PUNCT|WordAlignmentBegin=63106|WordAlignmentEnd=63106
+5	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	Gloss=NOM.SG.1|WordAlignmentBegin=63106|WordAlignmentEnd=63457
+6	no	no	AUX	_	Polarity=Neg	7	aux	_	Gloss=NEG|WordAlignmentBegin=63457|WordAlignmentEnd=63808
+7	ready	ready	ADJ	_	ExtPos=VERB	0	root	_	Gloss=ready|WordAlignmentBegin=63808|WordAlignmentEnd=64159
+8	to	to	ADP	_	_	9	mark	_	Gloss=to|WordAlignmentBegin=64159|WordAlignmentEnd=64510
+9	do	do	VERB	_	_	7	ccomp	_	Gloss=do|WordAlignmentBegin=64510|WordAlignmentEnd=64862
+10	falla	follow	VERB	_	_	9	obj:lvc	_	Gloss=follow|WordAlignmentBegin=64862|WordAlignmentEnd=65213
+11	follow	follow	VERB	_	_	10	compound:svc	_	Gloss=follow|WordAlignmentBegin=65213|WordAlignmentEnd=65564
+12	//	//	PUNCT	_	_	7	punct	_	Gloss=PUNCT|WordAlignmentBegin=65564|WordAlignmentEnd=65564
 
 ~~~
 

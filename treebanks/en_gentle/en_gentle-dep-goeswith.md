@@ -80,7 +80,7 @@ The following 3 pairs of parts of speech are connected with `goeswith`: <tt><a h
 2	ware	_	X	VB	_	1	goeswith	1:goeswith	CorrectForm=_|XML=</sic>
 3	Of	of	ADP	IN	_	5	case	5:case	_
 4	All	all	DET	DT	PronType=Ind	5	det	5:det	Entity=(52-abstract-new-nnnnn-cf1-2-sgl
-5	Actions	action	NOUN	NNS	Number=Plur	1	obl	1:obl:of	Entity=52)|MSeg=Action-s
+5	Actions	action	NOUN	NNS	Number=Plur	1	obl	1:obl:of	Entity=52)|MSeg=Act-ion-s
 6	South	South	PROPN	NNP	Number=Sing	7	compound	7:compound	Discourse=evaluation-comment:49->47:2:_|Entity=(53-person-new-nnnnn-cf2-1,2,3-sgl-White_South_Africans
 7	Africanner	African	ADJ	NNP	Degree=Cmp|Typo=Yes	8	compound	8:compound	CorrectForm=African|MSeg=Afric-ann-er|XML=<sic ana:::"African"></sic>
 8	Europeans	European	PROPN	NNPS	Number=Plur	5	compound	5:compound	Entity=53)|MSeg=Europe-an-s

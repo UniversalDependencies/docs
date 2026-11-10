@@ -6,16 +6,16 @@ udver: '2'
 
 ## Treebank Statistics: UD_Yoruba-YTB: POS Tags: `DET`
 
-There are 20 `DET` lemmas (1%), 20 `DET` types (1%) and 278 `DET` tokens (3%).
-Out of 17 observed tags, the rank of `DET` is: 10 in number of lemmas, 11 in number of types and 10 in number of tokens.
+There are 11 `DET` lemmas (1%), 15 `DET` types (1%) and 273 `DET` tokens (3%).
+Out of 17 observed tags, the rank of `DET` is: 14 in number of lemmas, 13 in number of types and 10 in number of tokens.
 
-The 10 most frequent `DET` lemmas: <em>àwọn, yìí, náà, gbogbo, o, wọ̀nyí, Oríṣìíríṣìí, báyìí, bákanáà, kọn</em>
+The 10 most frequent `DET` lemmas: <em>àwọn, yìí, náà, gbogbo, o, wọ̀nyí, oríṣìíríṣìí, the, wọnni, èyí</em>
 
-The 10 most frequent `DET` types:  <em>àwọn, yìí, náà, gbogbo, o, wọ̀nyí, Oríṣìíríṣìí, báyìí, Bákanáà, Orísìírísìí</em>
+The 10 most frequent `DET` types:  <em>àwọn, yìí, náà, gbogbo, o, wọ̀nyí, Oríṣìíríṣìí, àwon, Orísìírísìí, ná</em>
 
-The 10 most frequent ambiguous lemmas: <em>àwọn</em> (<tt><a href="yo_ytb-pos-DET.html">DET</a></tt> 127, <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> 12), <em>náà</em> (<tt><a href="yo_ytb-pos-DET.html">DET</a></tt> 39, <tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> 23, <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> 13, <tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt> 4), <em>o</em> (<tt><a href="yo_ytb-pos-DET.html">DET</a></tt> 6, <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> 1), <em>lo</em> (<tt><a href="yo_ytb-pos-DET.html">DET</a></tt> 1, <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> 1), <em>à</em> (<tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> 3, <tt><a href="yo_ytb-pos-DET.html">DET</a></tt> 1), <em>èyí</em> (<tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> 15, <tt><a href="yo_ytb-pos-DET.html">DET</a></tt> 1, <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>àwọn</em> (<tt><a href="yo_ytb-pos-DET.html">DET</a></tt> 141, <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> 12), <em>náà</em> (<tt><a href="yo_ytb-pos-DET.html">DET</a></tt> 39, <tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> 23, <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> 13, <tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt> 4), <em>o</em> (<tt><a href="yo_ytb-pos-DET.html">DET</a></tt> 6, <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> 1), <em>èyí</em> (<tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> 15, <tt><a href="yo_ytb-pos-DET.html">DET</a></tt> 1, <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> 1), <em>ìwọ̀nyí</em> (<tt><a href="yo_ytb-pos-DET.html">DET</a></tt> 1, <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>àwọn</em> (<tt><a href="yo_ytb-pos-DET.html">DET</a></tt> 120, <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> 11), <em>náà</em> (<tt><a href="yo_ytb-pos-DET.html">DET</a></tt> 38, <tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> 23, <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> 13, <tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt> 4), <em>o</em> (<tt><a href="yo_ytb-pos-DET.html">DET</a></tt> 4, <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> 2), <em>lo</em> (<tt><a href="yo_ytb-pos-DET.html">DET</a></tt> 1, <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> 1), <em>ná</em> (<tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> 2, <tt><a href="yo_ytb-pos-DET.html">DET</a></tt> 1, <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> 1), <em>èyí</em> (<tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> 15, <tt><a href="yo_ytb-pos-DET.html">DET</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>àwọn</em> (<tt><a href="yo_ytb-pos-DET.html">DET</a></tt> 120, <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> 11), <em>náà</em> (<tt><a href="yo_ytb-pos-DET.html">DET</a></tt> 38, <tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> 23, <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> 13, <tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt> 4), <em>o</em> (<tt><a href="yo_ytb-pos-DET.html">DET</a></tt> 4, <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> 2), <em>àwon</em> (<tt><a href="yo_ytb-pos-DET.html">DET</a></tt> 1, <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> 1), <em>ná</em> (<tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> 2, <tt><a href="yo_ytb-pos-DET.html">DET</a></tt> 1, <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> 1), <em>èyí</em> (<tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> 15, <tt><a href="yo_ytb-pos-DET.html">DET</a></tt> 1)
 
 
 * <em>àwọn</em>
@@ -30,9 +30,9 @@ The 10 most frequent ambiguous types:  <em>àwọn</em> (<tt><a href="yo_ytb-pos
   * <tt><a href="yo_ytb-pos-DET.html">DET</a></tt> 4: <em>O órúkọ dàbí àmì ìdánimọ̀ tí a fi ń dá ẹnìkọ̀ọ̀kan mọ̀ <b>o</b> órúkọ ló jẹ́ kí á dá Táyé mọ̀ yàtọ̀ sí Kẹ́hìndé , káàkiri àgbáyé ní a sì tí ń lo <b>o</b> órúkọ , ní ọ̀pọ̀ ìgbà <b>o</b> órúkọ sì máa ń fi bí ènìyàn ṣe jẹ́ láwùjọ hàn àti wí pe <b>o</b> órúkọ ẹni le buyì fún ènìyàn láwùjọ .</em>
   * <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> 2: <em>Oríṣìíríṣìí nǹkan ló le yọrí sí <b>o</b> órúkọ tí a sọ ọmọ .</em>
   * <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> 2: <em>Bí irì Hémónì tí <b>o</b> ṣàn sórí òke Síónì : nítorí níbẹ̀ ní Olúwa gbé pàṣẹ ìbùkún , àni ìyè láéláé .</em>
-* <em>lo</em>
-  * <tt><a href="yo_ytb-pos-DET.html">DET</a></tt> 1: <em>A gbọ́dọ̀ máa <b>lo</b> ìtọ́nisọ́nà pẹ̀lú láákáyè .</em>
-  * <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> 1: <em>O órúkọ dàbí àmì ìdánimọ̀ tí a fi ń dá ẹnìkọ̀ọ̀kan mọ̀ o órúkọ ló jẹ́ kí á dá Táyé mọ̀ yàtọ̀ sí Kẹ́hìndé , káàkiri àgbáyé ní a sì tí ń <b>lo</b> o órúkọ , ní ọ̀pọ̀ ìgbà o órúkọ sì máa ń fi bí ènìyàn ṣe jẹ́ láwùjọ hàn àti wí pe o órúkọ ẹni le buyì fún ènìyàn láwùjọ .</em>
+* <em>àwon</em>
+  * <tt><a href="yo_ytb-pos-DET.html">DET</a></tt> 1: <em>Àwon nọ́mbà tósòro se ròpọ̀ , yọkúrò , sọdipúpọ̀ tàbi sèpínpiń gẹ́gẹ́ bi a ti n se fun <b>àwon</b> nọ́mbà gidi , be ni wón sì ní ìdámọ̀ tó lẹ́wà mìíràn .</em>
+  * <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> 1: <em>Kò sì áwọ́n iyipada ni akókò yì ti o ba <b>àwon</b> ìlànà yí mu .</em>
 * <em>ná</em>
   * <tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> 2: <em>Nítorí náà nígbà tí Jésù dé , ó rí i pé a ti tẹ́ ẹ sínú ibojì ní ijọ́ mẹ́rin <b>ná</b> ,</em>
   * <tt><a href="yo_ytb-pos-DET.html">DET</a></tt> 1: <em>Ṣùgbọ́n mo wí fún yín pé , ẹnikẹ́ni tí ó bá wo obìrinrin kan ní ìwòkuwò , ti bà a ṣe panṣágà <b>ná</b> ní ọkàn rẹ̀ .</em>
@@ -43,40 +43,38 @@ The 10 most frequent ambiguous types:  <em>àwọn</em> (<tt><a href="yo_ytb-pos
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 1.000000 (the average of all parts of speech is 1.007366).
+The form / lemma ratio of `DET` is 1.363636 (the average of all parts of speech is 1.010546).
 
-The 1st highest number of forms (2) was observed with the lemma “náà”: <em>ná, náà</em>.
+The 1st highest number of forms (3) was observed with the lemma “àwọn”: <em>àwon, àwón, àwọn</em>.
 
-The 2nd highest number of forms (1) was observed with the lemma “Oríṣìíríṣìí”: <em>Oríṣìíríṣìí</em>.
+The 2nd highest number of forms (2) was observed with the lemma “náà”: <em>ná, náà</em>.
 
-The 3rd highest number of forms (1) was observed with the lemma “bákanáà”: <em>Bákanáà</em>.
+The 3rd highest number of forms (2) was observed with the lemma “oríṣìíríṣìí”: <em>Orísìírísìí, Oríṣìíríṣìí</em>.
 
-`DET` occurs with 3 features: <tt><a href="yo_ytb-feat-Number.html">Number</a></tt> (120; 43% instances), <tt><a href="yo_ytb-feat-PronType.html">PronType</a></tt> (120; 43% instances), <tt><a href="yo_ytb-feat-Typo.html">Typo</a></tt> (1; 0% instances)
+`DET` occurs with 5 features: <tt><a href="yo_ytb-feat-PronType.html">PronType</a></tt> (273; 100% instances), <tt><a href="yo_ytb-feat-Number.html">Number</a></tt> (143; 52% instances), <tt><a href="yo_ytb-feat-ExtPos.html">ExtPos</a></tt> (3; 1% instances), <tt><a href="yo_ytb-feat-Foreign.html">Foreign</a></tt> (1; 0% instances), <tt><a href="yo_ytb-feat-Typo.html">Typo</a></tt> (1; 0% instances)
 
-`DET` occurs with 3 feature-value pairs: `Number=Plur`, `PronType=Dem`, `Typo=Yes`
+`DET` occurs with 8 feature-value pairs: `ExtPos=DET`, `Foreign=Yes`, `Number=Plur`, `PronType=Art`, `PronType=Dem`, `PronType=Ind`, `PronType=Tot`, `Typo=Yes`
 
-`DET` occurs with 3 feature combinations.
-The most frequent feature combination is `_` (157 tokens).
-Examples: <em>yìí, náà, gbogbo, Àwọn, o, wọ̀nyí, Oríṣìíríṣìí, báyìí, Bákanáà, Orísìírísìí</em>
+`DET` occurs with 8 feature combinations.
+The most frequent feature combination is `Number=Plur|PronType=Dem` (142 tokens).
+Examples: <em>àwọn, àwon, wọnni, àwón, ìwọ̀nyí</em>
 
 
 ## Relations
 
-`DET` nodes are attached to their parents using 7 different relations: <tt><a href="yo_ytb-dep-det.html">det</a></tt> (269; 97% instances), <tt><a href="yo_ytb-dep-nmod.html">nmod</a></tt> (4; 1% instances), <tt><a href="yo_ytb-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="yo_ytb-dep-conj.html">conj</a></tt> (1; 0% instances), <tt><a href="yo_ytb-dep-fixed.html">fixed</a></tt> (1; 0% instances), <tt><a href="yo_ytb-dep-nsubj.html">nsubj</a></tt> (1; 0% instances), <tt><a href="yo_ytb-dep-obl.html">obl</a></tt> (1; 0% instances)
+`DET` nodes are attached to their parents using 6 different relations: <tt><a href="yo_ytb-dep-det.html">det</a></tt> (267; 98% instances), <tt><a href="yo_ytb-dep-nmod.html">nmod</a></tt> (2; 1% instances), <tt><a href="yo_ytb-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="yo_ytb-dep-fixed.html">fixed</a></tt> (1; 0% instances), <tt><a href="yo_ytb-dep-nsubj.html">nsubj</a></tt> (1; 0% instances), <tt><a href="yo_ytb-dep-obl.html">obl</a></tt> (1; 0% instances)
 
-Parents of `DET` nodes belong to 7 different parts of speech: <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (220; 79% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (18; 6% instances), <tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt> (15; 5% instances), <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> (13; 5% instances), <tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt> (7; 3% instances), <tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> (4; 1% instances), <tt><a href="yo_ytb-pos-NUM.html">NUM</a></tt> (1; 0% instances)
+Parents of `DET` nodes belong to 7 different parts of speech: <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (219; 80% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (17; 6% instances), <tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt> (15; 5% instances), <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> (11; 4% instances), <tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt> (7; 3% instances), <tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> (3; 1% instances), <tt><a href="yo_ytb-pos-NUM.html">NUM</a></tt> (1; 0% instances)
 
-264 (95%) `DET` nodes are leaves.
+260 (95%) `DET` nodes are leaves.
 
 11 (4%) `DET` nodes have one child.
 
-1 (0%) `DET` nodes have two children.
+2 (1%) `DET` nodes have two children.
 
-2 (1%) `DET` nodes have three or more children.
+The highest child degree of a `DET` node is 2.
 
-The highest child degree of a `DET` node is 3.
+Children of `DET` nodes are attached using 7 different relations: <tt><a href="yo_ytb-dep-case.html">case</a></tt> (5; 33% instances), <tt><a href="yo_ytb-dep-conj.html">conj</a></tt> (3; 20% instances), <tt><a href="yo_ytb-dep-fixed.html">fixed</a></tt> (3; 20% instances), <tt><a href="yo_ytb-dep-acl.html">acl</a></tt> (1; 7% instances), <tt><a href="yo_ytb-dep-advmod.html">advmod</a></tt> (1; 7% instances), <tt><a href="yo_ytb-dep-amod.html">amod</a></tt> (1; 7% instances), <tt><a href="yo_ytb-dep-compound-svc.html">compound:svc</a></tt> (1; 7% instances)
 
-Children of `DET` nodes are attached using 10 different relations: <tt><a href="yo_ytb-dep-case.html">case</a></tt> (5; 26% instances), <tt><a href="yo_ytb-dep-conj.html">conj</a></tt> (3; 16% instances), <tt><a href="yo_ytb-dep-fixed.html">fixed</a></tt> (3; 16% instances), <tt><a href="yo_ytb-dep-punct.html">punct</a></tt> (2; 11% instances), <tt><a href="yo_ytb-dep-acl.html">acl</a></tt> (1; 5% instances), <tt><a href="yo_ytb-dep-advmod.html">advmod</a></tt> (1; 5% instances), <tt><a href="yo_ytb-dep-amod.html">amod</a></tt> (1; 5% instances), <tt><a href="yo_ytb-dep-compound-svc.html">compound:svc</a></tt> (1; 5% instances), <tt><a href="yo_ytb-dep-nsubj.html">nsubj</a></tt> (1; 5% instances), <tt><a href="yo_ytb-dep-obj.html">obj</a></tt> (1; 5% instances)
-
-Children of `DET` nodes belong to 8 different parts of speech: <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (5; 26% instances), <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> (4; 21% instances), <tt><a href="yo_ytb-pos-PART.html">PART</a></tt> (3; 16% instances), <tt><a href="yo_ytb-pos-ADP.html">ADP</a></tt> (2; 11% instances), <tt><a href="yo_ytb-pos-PUNCT.html">PUNCT</a></tt> (2; 11% instances), <tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt> (1; 5% instances), <tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> (1; 5% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (1; 5% instances)
+Children of `DET` nodes belong to 6 different parts of speech: <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (5; 33% instances), <tt><a href="yo_ytb-pos-PART.html">PART</a></tt> (3; 20% instances), <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> (3; 20% instances), <tt><a href="yo_ytb-pos-ADP.html">ADP</a></tt> (2; 13% instances), <tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt> (1; 7% instances), <tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> (1; 7% instances)
 

@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>w</em> (<tt><a href="pl_pud-pos-ADP.h
 
 ## Morphology
 
-The form / lemma ratio of `NOUN` is 1.527415 (the average of all parts of speech is 1.436422).
+The form / lemma ratio of `NOUN` is 1.527415 (the average of all parts of speech is 1.436234).
 
 The 1st highest number of forms (8) was observed with the lemma “rok”: <em>lat, lata, latach, latami, r, rok, rokiem, roku</em>.
 

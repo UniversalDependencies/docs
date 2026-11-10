@@ -8,34 +8,34 @@ udver: '2'
 
 This relation is universal.
 
-16 nodes (0%) are attached to their parents as `dep`.
+17 nodes (0%) are attached to their parents as `dep`.
 
-9 instances of `dep` (56%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.625.
+9 instances of `dep` (53%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.58823529411765.
 
-The following 8 pairs of parts of speech are connected with `dep`: <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (4; 25% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_edt-pos-X.html">X</a></tt> (4; 25% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (2; 13% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_edt-pos-VERB.html">VERB</a></tt> (2; 13% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_edt-pos-SCONJ.html">SCONJ</a></tt> (1; 6% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_edt-pos-PRON.html">PRON</a></tt> (1; 6% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> (1; 6% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_edt-pos-PRON.html">PRON</a></tt> (1; 6% instances).
+The following 8 pairs of parts of speech are connected with `dep`: <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (5; 29% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_edt-pos-X.html">X</a></tt> (4; 24% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (2; 12% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_edt-pos-VERB.html">VERB</a></tt> (2; 12% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_edt-pos-SCONJ.html">SCONJ</a></tt> (1; 6% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_edt-pos-PRON.html">PRON</a></tt> (1; 6% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> (1; 6% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_edt-pos-PRON.html">PRON</a></tt> (1; 6% instances).
 
 
 ~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 13 9 dep	color:blue
-1	Kokkuvõttes	kokku_võte	NOUN	S	Case=Ine|Number=Sing	2	obl	2:obl	_
-2	maksis	maksma	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	Verb=maksma_1
-3	Munamägi	Muna_mägi	PROPN	S	Case=Nom|Number=Sing	2	nsubj	2:nsubj	Arg=maksma_Arg_0|NE=B-Org
-4	Feerile	Feer	PROPN	S	Case=All|Number=Sing	2	obl	2:obl	Arg=maksma_Arg_3|NE=B-Org
-5	suuri	suur	ADJ	A	Case=Par|Degree=Pos|Number=Plur	6	amod	6:amod	_
-6	summasid	summa	NOUN	S	Case=Par|Number=Plur	2	obj	2:obj	Arg=maksma_Arg_1|SpaceAfter=No
-7	:	:	PUNCT	Z	_	8	punct	8:punct	_
-8	tööraha	töö_raha	NOUN	S	Case=Nom|Number=Sing	6	appos	6:appos	_
-9	pluss	pluss	NOUN	S	Case=Nom|Number=Sing	13	dep	13:dep	_
-10	Feeri	Feer	PROPN	S	Case=Gen|Number=Sing	12	obl:agent	12:obl:agent	NE=B-Org
-11	poolt	poolt	ADP	K	AdpType=Post	10	case	10:case	_
-12	lisatud	lisa=tud	ADJ	A	Degree=Pos|Tense=Past|VerbForm=Part|Voice=Pass	13	acl	13:acl	_
-13	protsendid	protsent	NOUN	S	Case=Nom|Number=Plur	8	conj	8:conj	SpaceAfter=No
-14	.	.	PUNCT	Z	_	2	punct	2:punct	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 3 dep	color:blue
+1	See	see	DET	P	Case=Nom|Number=Sing|PronType=Dem	2	det	2:det	_
+2	asjaolu	asja_olu	NOUN	S	Case=Nom|Number=Sing	7	nsubj	7:nsubj	Arg=võimaldama_Arg_0
+3	pluss	pluss	NOUN	S	Case=Nom|Number=Sing	6	dep	6:dep	_
+4	töötute	töötu	NOUN	S	Case=Gen|Number=Plur	6	nmod	6:nmod	_
+5	suur	suur	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	6	amod	6:amod	_
+6	hulk	hulk	NOUN	S	Case=Nom|Number=Sing	2	conj	2:conj|7:nsubj	_
+7	võimaldab	võimaldama	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	Verb=võimaldama
+8	toota	tootma	VERB	V	VerbForm=Inf	7	xcomp	7:xcomp	Arg=võimaldama_Arg_1|Verb=tootma
+9	üha	üha	ADV	D	_	10	advmod	10:advmod	_
+10	odavamalt	odavamalt	ADV	D	_	8	advmod	8:advmod	_
+11	üha	üha	ADV	D	_	12	advmod	12:advmod	_
+12	uutes	uus	ADJ	A	Case=Ine|Degree=Pos|Number=Plur	13	amod	13:amod	_
+13	maades	maa	NOUN	S	Case=Ine|Number=Plur	8	obl:lmod	8:obl	SpaceAfter=No
+14	.	.	PUNCT	Z	_	7	punct	7:punct	_
 
 ~~~
 

@@ -38,7 +38,7 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 
 ### `PRON`
 
-3815 <tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt> tokens (63% of all `PRON` tokens) have a non-empty value of `Person`.
+3815 <tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt> tokens (64% of all `PRON` tokens) have a non-empty value of `Person`.
 
 The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="uk_parlamint-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (3815; 100%), <tt><a href="uk_parlamint-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (3406; 89%), <tt><a href="uk_parlamint-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt> (3072; 81%), <tt><a href="uk_parlamint-feat-Case.html">Case</a></tt><tt>=Nom</tt> (2727; 71%), <tt><a href="uk_parlamint-feat-Number.html">Number</a></tt><tt>=Plur</tt> (2135; 56%).
 
@@ -47,7 +47,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 * `1` (2510; 66% of non-empty `Person`): <em>ми, я, нас, нам, мене, мені, нами, мною</em>
 * `2` (564; 15% of non-empty `Person`): <em>ви, вас, вам, вами, тебе, тобі</em>
 * `3` (741; 19% of non-empty `Person`): <em>вони, він, їх, вона, його, її, них, їм, воно, нього</em>
-* `EMPTY` (2194): <em>це, того, те, що, хто, які, цього, все, тим, тому</em>
+* `EMPTY` (2192): <em>це, того, те, що, хто, які, цього, все, тим, тому</em>
 
 ### `DET`
 
@@ -60,7 +60,7 @@ The most frequent other feature values with which `DET` and `Person` co-occurred
 * `1` (484; 73% of non-empty `Person`): <em>наша, нашої, наших, наші, наш, нашу, нашого, нашій, наше, нашими</em>
 * `2` (61; 9% of non-empty `Person`): <em>вашу, вашого, ваші, вашої, ваших, ваша, ваше, ваш, вашими, вашому</em>
 * `3` (116; 18% of non-empty `Person`): <em>його, їх, її, їхні, їхнього, їхнім, їхніми, їхніх, їхньої, їхню</em>
-* `EMPTY` (3608): <em>які, цього, який, всі, цей, яка, всіх, цю, ці, це</em>
+* `EMPTY` (3609): <em>які, цього, який, всі, цей, яка, всіх, цю, ці, це</em>
 
 <table>
   <tr><th>Paradigm <i>ваш</i></th><th><tt>1</tt></th><th><tt>2</tt></th></tr>
@@ -122,9 +122,9 @@ The 10 most frequent relations where parent and child node agree in `Person`:
 <tt>VERB --[<tt><a href="uk_parlamint-dep-reparandum.html">reparandum</a></tt>]--> VERB</tt> (10; 77%),
 <tt>VERB --[<tt><a href="uk_parlamint-dep-nsubj-pass.html">nsubj:pass</a></tt>]--> PRON</tt> (7; 70%),
 <tt>VERB --[<tt><a href="uk_parlamint-dep-conj.html">conj</a></tt>]--> AUX</tt> (5; 71%),
-<tt>VERB --[<tt><a href="uk_parlamint-dep-nsubj-outer.html">nsubj:outer</a></tt>]--> PRON</tt> (5; 63%),
+<tt>PRON --[<tt><a href="uk_parlamint-dep-reparandum.html">reparandum</a></tt>]--> PRON</tt> (4; 67%),
 <tt>VERB --[<tt><a href="uk_parlamint-dep-parataxis-rel.html">parataxis:rel</a></tt>]--> VERB</tt> (4; 67%),
-<tt>AUX --[<tt><a href="uk_parlamint-dep-conj.html">conj</a></tt>]--> AUX</tt> (2; 100%),
-<tt>VERB --[<tt><a href="uk_parlamint-dep-dislocated.html">dislocated</a></tt>]--> PRON</tt> (2; 100%),
-<tt>VERB --[<tt><a href="uk_parlamint-dep-flat-repeat.html">flat:repeat</a></tt>]--> VERB</tt> (2; 100%).
+<tt>VERB --[<tt><a href="uk_parlamint-dep-dislocated.html">dislocated</a></tt>]--> PRON</tt> (3; 100%),
+<tt>VERB --[<tt><a href="uk_parlamint-dep-reparandum.html">reparandum</a></tt>]--> PRON</tt> (3; 75%),
+<tt>AUX --[<tt><a href="uk_parlamint-dep-conj.html">conj</a></tt>]--> AUX</tt> (2; 100%).
 

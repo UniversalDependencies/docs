@@ -61,7 +61,7 @@ The 10 most frequent ambiguous types:  <em>10</em> (<tt><a href="pl_pdb-pos-NUM.
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.130221 (the average of all parts of speech is 1.965463).
+The form / lemma ratio of `NUM` is 1.130221 (the average of all parts of speech is 1.965431).
 
 The 1st highest number of forms (10) was observed with the lemma “dwa”: <em>dwa, dwaj, dwie, dwiema, dwoje, dwojgiem, dwoma, dwu, dwóch, dwóm</em>.
 

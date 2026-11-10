@@ -51,7 +51,7 @@ The most frequent other feature values with which `DET` and `Gender` co-occurred
 * `Fem` (9530; 34% of non-empty `Gender`): <em>suam, sua, aliqua, ipsa, aliquam, una, omnis, haec, quaedam, suae</em>
 * `Masc` (6272; 22% of non-empty `Gender`): <em>ipse, ipso, quidam, ipsum, unus, omnes, ipsius, alio, hunc, hic</em>
 * `Neut` (12203; 44% of non-empty `Gender`): <em>hoc, omnia, illud, unum, aliud, omne, ipsum, his, alia, aliquod</em>
-* `EMPTY` (677): <em>huiusmodi, quantumcumque, quot, ly, tot, cuiusmodi, hic, minus, quotlibet, quotquot</em>
+* `EMPTY` (676): <em>huiusmodi, quantumcumque, quot, ly, tot, cuiusmodi, hic, quotlibet, quotquot, utriusque</em>
 
 <table>
   <tr><th>Paradigm <i>hic</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>

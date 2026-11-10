@@ -42,14 +42,14 @@ The following 9 pairs of parts of speech are connected with `flat`: <tt><a href=
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 6 flat	color:blue
-1	Their	their	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	3	nmod:poss	3:nmod:poss	_
+1	Their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	3	nmod:poss	3:nmod:poss	_
 2	first	first	ADJ	JJ	Degree=Pos|NumForm=Word|NumType=Ord	3	amod	3:amod	_
 3	king	king	NOUN	NN	Number=Sing	5	nsubj	5:nsubj	_
 4	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	5:cop	_
 5	Mojmír	Mojmír	PROPN	NNP	Number=Sing	0	root	0:root	_
 6	I	I	NUM	CD	NumForm=Roman|NumType=Card	5	flat	5:flat	_
 7	(	(	PUNCT	-LRB-	_	8	punct	8:punct	SpaceAfter=No
-8	ruled	rule	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	5	parataxis	5:parataxis	_
+8	ruled	rule	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	parataxis	5:parataxis	_
 9	830	830	NUM	CD	NumForm=Digit|NumType=Card	8	obj	8:obj	SpaceAfter=No
 10	–	–	ADP	IN	_	11	case	11:case	SpaceAfter=No
 11	846	846	NUM	CD	NumForm=Digit|NumType=Card	9	nmod	9:nmod	SpaceAfter=No
@@ -69,7 +69,7 @@ The following 9 pairs of parts of speech are connected with `flat`: <tt><a href=
 2	three	three	NUM	CD	NumForm=Word|NumType=Card	1	flat	1:flat	SpaceAfter=No
 3	,	,	PUNCT	,	_	6	punct	6:punct	_
 4	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	6:nsubj	_
-5	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	cop	6:cop	_
+5	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	6	cop	6:cop	_
 6	back	back	ADV	RB	_	0	root	0:root	_
 7	on	on	ADP	IN	_	9	case	9:case	_
 8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	9:det	_

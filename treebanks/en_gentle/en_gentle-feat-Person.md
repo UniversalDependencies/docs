@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `1`, `2`, `3`.
 
-1979 tokens (11%) have a non-empty value of `Person`.
-390 types (11%) occur at least once with a non-empty value of `Person`.
-263 lemmas (8%) occur at least once with a non-empty value of `Person`.
-The feature is used with 3 part-of-speech tags: <tt><a href="en_gentle-pos-PRON.html">PRON</a></tt> (946; 5% instances), <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt> (570; 3% instances), <tt><a href="en_gentle-pos-AUX.html">AUX</a></tt> (463; 3% instances).
+1981 tokens (11%) have a non-empty value of `Person`.
+388 types (11%) occur at least once with a non-empty value of `Person`.
+262 lemmas (8%) occur at least once with a non-empty value of `Person`.
+The feature is used with 3 part-of-speech tags: <tt><a href="en_gentle-pos-PRON.html">PRON</a></tt> (946; 5% instances), <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt> (568; 3% instances), <tt><a href="en_gentle-pos-AUX.html">AUX</a></tt> (467; 3% instances).
 
 ### `PRON`
 
@@ -35,16 +35,16 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 
 ### `VERB`
 
-570 <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt> tokens (34% of all `VERB` tokens) have a non-empty value of `Person`.
+568 <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt> tokens (34% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="en_gentle-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (570; 100%), <tt><a href="en_gentle-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (570; 100%), <tt><a href="en_gentle-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (486; 85%), <tt><a href="en_gentle-feat-Number.html">Number</a></tt><tt>=Sing</tt> (448; 79%), <tt><a href="en_gentle-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (289; 51%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="en_gentle-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (568; 100%), <tt><a href="en_gentle-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (568; 100%), <tt><a href="en_gentle-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (487; 86%), <tt><a href="en_gentle-feat-Number.html">Number</a></tt><tt>=Sing</tt> (445; 78%), <tt><a href="en_gentle-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (289; 51%).
 
 `VERB` tokens may have the following values of `Person`:
 
 * `1` (108; 19% of non-empty `Person`): <em>said, have, heard, need, had, implore, passed, stood, thought, want</em>
-* `2` (130; 23% of non-empty `Person`): <em>let, Suppose, see, get, tell, consider, know, take, think, Call</em>
-* `3` (332; 58% of non-empty `Person`): <em>has, follows, is, Quoth, are, continues, had, held, precedes, took</em>
-* `EMPTY` (1083): <em>gon, have, do, get, see, make, following, become, take, try</em>
+* `2` (127; 22% of non-empty `Person`): <em>let, Suppose, see, get, tell, consider, know, think, Call, have</em>
+* `3` (333; 59% of non-empty `Person`): <em>has, follows, is, Quoth, are, bore, continues, had, held, precedes</em>
+* `EMPTY` (1088): <em>gon, have, do, get, see, make, following, take, become, try</em>
 
 <table>
   <tr><th>Paradigm <i>have</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -56,16 +56,16 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 
 ### `AUX`
 
-463 <tt><a href="en_gentle-pos-AUX.html">AUX</a></tt> tokens (61% of all `AUX` tokens) have a non-empty value of `Person`.
+467 <tt><a href="en_gentle-pos-AUX.html">AUX</a></tt> tokens (62% of all `AUX` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="en_gentle-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (463; 100%), <tt><a href="en_gentle-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (462; 100%), <tt><a href="en_gentle-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (385; 83%), <tt><a href="en_gentle-feat-Number.html">Number</a></tt><tt>=Sing</tt> (382; 83%).
+The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="en_gentle-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (467; 100%), <tt><a href="en_gentle-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (462; 99%), <tt><a href="en_gentle-feat-Number.html">Number</a></tt><tt>=Sing</tt> (386; 83%), <tt><a href="en_gentle-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (385; 82%).
 
 `AUX` tokens may have the following values of `Person`:
 
 * `1` (50; 11% of non-empty `Person`): <em>'m, do, 've, 're, am, was, did, had, are, have</em>
-* `2` (30; 6% of non-empty `Person`): <em>are, do, 're, 've, have, be, ’re</em>
-* `3` (383; 83% of non-empty `Person`): <em>is, was, are, 's, has, were, have, does, did, do</em>
-* `EMPTY` (290): <em>be, will, can, been, may, would, should, could, shall, must</em>
+* `2` (34; 7% of non-empty `Person`): <em>are, do, 're, 've, have, be, ’re</em>
+* `3` (383; 82% of non-empty `Person`): <em>is, was, are, 's, has, were, have, does, did, do</em>
+* `EMPTY` (286): <em>be, will, can, been, may, would, should, could, shall, must</em>
 
 <table>
   <tr><th>Paradigm <i>be</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>

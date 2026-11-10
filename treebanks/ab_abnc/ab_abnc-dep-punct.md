@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-3831 nodes (29%) are attached to their parents as `punct`.
+4089 nodes (29%) are attached to their parents as `punct`.
 
-1919 instances of `punct` (50%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.76220308013573.
+2045 instances of `punct` (50%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.84103692834434.
 
-The following 12 pairs of parts of speech are connected with `punct`: <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-PUNCT.html">PUNCT</a></tt> (3439; 90% instances), <tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ab_abnc-pos-PUNCT.html">PUNCT</a></tt> (183; 5% instances), <tt><a href="ab_abnc-pos-ADV.html">ADV</a></tt>-<tt><a href="ab_abnc-pos-PUNCT.html">PUNCT</a></tt> (90; 2% instances), <tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt>-<tt><a href="ab_abnc-pos-PUNCT.html">PUNCT</a></tt> (51; 1% instances), <tt><a href="ab_abnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ab_abnc-pos-PUNCT.html">PUNCT</a></tt> (43; 1% instances), <tt><a href="ab_abnc-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ab_abnc-pos-PUNCT.html">PUNCT</a></tt> (10; 0% instances), <tt><a href="ab_abnc-pos-PART.html">PART</a></tt>-<tt><a href="ab_abnc-pos-PUNCT.html">PUNCT</a></tt> (6; 0% instances), <tt><a href="ab_abnc-pos-NUM.html">NUM</a></tt>-<tt><a href="ab_abnc-pos-PUNCT.html">PUNCT</a></tt> (4; 0% instances), <tt><a href="ab_abnc-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ab_abnc-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="ab_abnc-pos-ADP.html">ADP</a></tt>-<tt><a href="ab_abnc-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), <tt><a href="ab_abnc-pos-AUX.html">AUX</a></tt>-<tt><a href="ab_abnc-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), <tt><a href="ab_abnc-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="ab_abnc-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
+The following 12 pairs of parts of speech are connected with `punct`: <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-PUNCT.html">PUNCT</a></tt> (3678; 90% instances), <tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ab_abnc-pos-PUNCT.html">PUNCT</a></tt> (193; 5% instances), <tt><a href="ab_abnc-pos-ADV.html">ADV</a></tt>-<tt><a href="ab_abnc-pos-PUNCT.html">PUNCT</a></tt> (90; 2% instances), <tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt>-<tt><a href="ab_abnc-pos-PUNCT.html">PUNCT</a></tt> (52; 1% instances), <tt><a href="ab_abnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ab_abnc-pos-PUNCT.html">PUNCT</a></tt> (47; 1% instances), <tt><a href="ab_abnc-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ab_abnc-pos-PUNCT.html">PUNCT</a></tt> (10; 0% instances), <tt><a href="ab_abnc-pos-PART.html">PART</a></tt>-<tt><a href="ab_abnc-pos-PUNCT.html">PUNCT</a></tt> (9; 0% instances), <tt><a href="ab_abnc-pos-NUM.html">NUM</a></tt>-<tt><a href="ab_abnc-pos-PUNCT.html">PUNCT</a></tt> (5; 0% instances), <tt><a href="ab_abnc-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ab_abnc-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="ab_abnc-pos-ADP.html">ADP</a></tt>-<tt><a href="ab_abnc-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), <tt><a href="ab_abnc-pos-AUX.html">AUX</a></tt>-<tt><a href="ab_abnc-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), <tt><a href="ab_abnc-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="ab_abnc-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -24,7 +24,7 @@ The following 12 pairs of parts of speech are connected with `punct`: <tt><a hre
 # visual-style 3 8 punct	color:blue
 1	аҵабырг	а-ҵа́бырг	NOUN	Noun_NH_Sg_Det	Animacy=Nhum|Definite=Def|Number=Sing	3	obj	_	LMSeg:а-ҵа́бырг
 2	мҩа	а́-мҩа	NOUN	Noun_NH_Sg	Animacy=Nhum|Number=Sing	3	xcomp	_	LMSeg:а́-мҩа
-3	иқәиҵарц	а́-қәҵара	VERB	V_Dyn_Tr_NonFin_Purp_S:3SgM_DO:3	Dyn=Yes|Gender[subj]=Masc|Mood=Prp|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|VerbForm=NonFin	0	root	_	LMSeg:а́-қә·ҵа-ра
+3	иқәиҵарц	а́-қәҵара	VERB	V_Dyn_Tr_NonFin_Purp_S:3SgM_DO:3_LO:3SgM	Dyn=Yes|Gender[lo]=Masc|Gender[subj]=Masc|Mood=Prp|Number[lo]=Sing|Number[subj]=Sing|Person[lo]=3|Person[obj]=3|Person[subj]=3|Subcat=Tran|VerbForm=NonFin	0	root	_	LMSeg:а́-қә·ҵа-ра
 4	ари	ари́	PRON	Pron_Dem_Prox_Sg	Number=Sing|PronType=Dem	5	det	_	LMSeg:ари́
 5	адгьыл	а́дгьыл	NOUN	Noun_NH_Sg_[Det]	Animacy=Nhum|Number=Sing	7	obl	_	LMSeg:а́дгьыл
 6	ахь	а́хь	ADP	PP_Poss:3SgNH	Gender[psor]=Neut|Number[psor]=Sing|Person[psor]=3	5	case	_	LMSeg:а́хь

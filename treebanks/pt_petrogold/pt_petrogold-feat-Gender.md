@@ -12,7 +12,7 @@ It occurs with 2 different values: `Fem`, `Masc`.
 131773 tokens (53%) have a non-empty value of `Gender`.
 11833 types (78%) occur at least once with a non-empty value of `Gender`.
 8286 lemmas (79%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 10 part-of-speech tags: <tt><a href="pt_petrogold-pos-NOUN.html">NOUN</a></tt> (57531; 23% instances), <tt><a href="pt_petrogold-pos-DET.html">DET</a></tt> (36327; 14% instances), <tt><a href="pt_petrogold-pos-ADJ.html">ADJ</a></tt> (17069; 7% instances), <tt><a href="pt_petrogold-pos-VERB.html">VERB</a></tt> (8783; 4% instances), <tt><a href="pt_petrogold-pos-PROPN.html">PROPN</a></tt> (8285; 3% instances), <tt><a href="pt_petrogold-pos-PRON.html">PRON</a></tt> (3508; 1% instances), <tt><a href="pt_petrogold-pos-ADV.html">ADV</a></tt> (214; 0% instances), <tt><a href="pt_petrogold-pos-NUM.html">NUM</a></tt> (51; 0% instances), <tt><a href="pt_petrogold-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="pt_petrogold-pos-X.html">X</a></tt> (1; 0% instances).
+The feature is used with 10 part-of-speech tags: <tt><a href="pt_petrogold-pos-NOUN.html">NOUN</a></tt> (57531; 23% instances), <tt><a href="pt_petrogold-pos-DET.html">DET</a></tt> (36328; 14% instances), <tt><a href="pt_petrogold-pos-ADJ.html">ADJ</a></tt> (17069; 7% instances), <tt><a href="pt_petrogold-pos-VERB.html">VERB</a></tt> (8783; 4% instances), <tt><a href="pt_petrogold-pos-PROPN.html">PROPN</a></tt> (8285; 3% instances), <tt><a href="pt_petrogold-pos-PRON.html">PRON</a></tt> (3507; 1% instances), <tt><a href="pt_petrogold-pos-ADV.html">ADV</a></tt> (214; 0% instances), <tt><a href="pt_petrogold-pos-NUM.html">NUM</a></tt> (51; 0% instances), <tt><a href="pt_petrogold-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="pt_petrogold-pos-X.html">X</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
@@ -36,21 +36,20 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
 
 ### `DET`
 
-36327 <tt><a href="pt_petrogold-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Gender`.
+36328 <tt><a href="pt_petrogold-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="pt_petrogold-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (31749; 87%), <tt><a href="pt_petrogold-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (29007; 80%), <tt><a href="pt_petrogold-feat-Number.html">Number</a></tt><tt>=Sing</tt> (28112; 77%).
+The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="pt_petrogold-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (31750; 87%), <tt><a href="pt_petrogold-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (29008; 80%), <tt><a href="pt_petrogold-feat-Number.html">Number</a></tt><tt>=Sing</tt> (28113; 77%).
 
 `DET` tokens may have the following values of `Gender`:
 
-* `Fem` (18194; 50% of non-empty `Gender`): <em>a, as, uma, esta, sua, estas, essa, suas, cada, essas</em>
+* `Fem` (18195; 50% of non-empty `Gender`): <em>a, as, uma, esta, sua, estas, essa, suas, cada, essas</em>
 * `Masc` (18133; 50% of non-empty `Gender`): <em>o, os, um, este, estes, esse, seu, esses, todos, cada</em>
 
 <table>
   <tr><th>Paradigm <i>o</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
-  <tr><td><tt><tt><a href="pt_petrogold-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="pt_petrogold-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pt_petrogold-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>o</em></td><td><em>a, á</em></td></tr>
-  <tr><td><tt><tt><a href="pt_petrogold-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="pt_petrogold-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="pt_petrogold-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>os</em></td><td><em>as, A</em></td></tr>
-  <tr><td><tt><tt><a href="pt_petrogold-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>o</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="pt_petrogold-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="pt_petrogold-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>os</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="pt_petrogold-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="pt_petrogold-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>o</em></td><td><em>a, á</em></td></tr>
+  <tr><td><tt><tt><a href="pt_petrogold-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="pt_petrogold-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>os</em></td><td><em>as, A</em></td></tr>
+  <tr><td><tt><tt><a href="pt_petrogold-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>os</em></td><td></td></tr>
 </table>
 
 ### `ADJ`
@@ -61,8 +60,8 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
 
 `ADJ` tokens may have the following values of `Gender`:
 
-* `Fem` (8545; 50% of non-empty `Gender`): <em>maior, grande, magnética, alta, baixa, menor, mesma, magnéticas, aquosa, continental</em>
-* `Masc` (8524; 50% of non-empty `Gender`): <em>magnético, maior, possível, necessário, magnéticos, natural, presente, diferentes, mesmo, total</em>
+* `Fem` (8544; 50% of non-empty `Gender`): <em>maior, grande, magnética, alta, baixa, menor, mesma, magnéticas, aquosa, continental</em>
+* `Masc` (8525; 50% of non-empty `Gender`): <em>magnético, maior, possível, necessário, magnéticos, natural, presente, diferentes, mesmo, total</em>
 * `EMPTY` (11): <em>subsea, primeira, próximo</em>
 
 <table>
@@ -112,13 +111,13 @@ The most frequent other feature values with which `PROPN` and `Gender` co-occurr
 
 ### `PRON`
 
-3508 <tt><a href="pt_petrogold-pos-PRON.html">PRON</a></tt> tokens (65% of all `PRON` tokens) have a non-empty value of `Gender`.
+3507 <tt><a href="pt_petrogold-pos-PRON.html">PRON</a></tt> tokens (65% of all `PRON` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="pt_petrogold-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2396; 68%), <tt><a href="pt_petrogold-feat-PronType.html">PronType</a></tt><tt>=Rel</tt> (1987; 57%).
+The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="pt_petrogold-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2395; 68%), <tt><a href="pt_petrogold-feat-PronType.html">PronType</a></tt><tt>=Rel</tt> (1986; 57%).
 
 `PRON` tokens may have the following values of `Gender`:
 
-* `Fem` (1219; 35% of non-empty `Gender`): <em>que, a, uma, esta, elas, ela, qual, as, estas, mesma</em>
+* `Fem` (1218; 35% of non-empty `Gender`): <em>que, a, uma, esta, elas, ela, qual, as, estas, mesma</em>
 * `Masc` (2289; 65% of non-empty `Gender`): <em>que, o, isso, isto, este, um, qual, eles, mesmo, estes</em>
 * `EMPTY` (1892): <em>se, nos, que, nós, um</em>
 
@@ -136,7 +135,7 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 
 * `Fem` (86; 40% of non-empty `Gender`): <em>onde, SIM, melhor</em>
 * `Masc` (128; 60% of non-empty `Gender`): <em>onde</em>
-* `EMPTY` (6225): <em>mais, não, também, através, já, muito, assim, bem, ainda, além</em>
+* `EMPTY` (6223): <em>mais, não, também, através, já, muito, assim, bem, ainda, além</em>
 
 <table>
   <tr><th>Paradigm <i>onde</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
@@ -183,14 +182,14 @@ The most frequent other feature values with which `X` and `Gender` co-occurred: 
 ## Relations with Agreement in `Gender`
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
-<tt>NOUN --[<tt><a href="pt_petrogold-dep-det.html">det</a></tt>]--> DET</tt> (32956; 100%),
-<tt>NOUN --[<tt><a href="pt_petrogold-dep-amod.html">amod</a></tt>]--> ADJ</tt> (14549; 100%),
+<tt>NOUN --[<tt><a href="pt_petrogold-dep-det.html">det</a></tt>]--> DET</tt> (32957; 100%),
+<tt>NOUN --[<tt><a href="pt_petrogold-dep-amod.html">amod</a></tt>]--> ADJ</tt> (14550; 100%),
 <tt>NOUN --[<tt><a href="pt_petrogold-dep-acl.html">acl</a></tt>]--> VERB</tt> (4069; 93%),
 <tt>NOUN --[<tt><a href="pt_petrogold-dep-conj.html">conj</a></tt>]--> NOUN</tt> (2654; 61%),
 <tt>VERB --[<tt><a href="pt_petrogold-dep-nsubj-pass.html">nsubj:pass</a></tt>]--> NOUN</tt> (2123; 77%),
 <tt>PROPN --[<tt><a href="pt_petrogold-dep-det.html">det</a></tt>]--> DET</tt> (2098; 99%),
 <tt>NOUN --[<tt><a href="pt_petrogold-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (1914; 61%),
-<tt>ADJ --[<tt><a href="pt_petrogold-dep-obl.html">obl</a></tt>]--> NOUN</tt> (713; 54%),
+<tt>ADJ --[<tt><a href="pt_petrogold-dep-obl.html">obl</a></tt>]--> NOUN</tt> (711; 54%),
 <tt>ADJ --[<tt><a href="pt_petrogold-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (663; 91%),
 <tt>PROPN --[<tt><a href="pt_petrogold-dep-conj.html">conj</a></tt>]--> PROPN</tt> (661; 71%).
 

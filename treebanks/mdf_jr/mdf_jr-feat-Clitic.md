@@ -96,6 +96,8 @@ The most frequent other feature values with which `AUX` and `Clitic` co-occurred
 
 1 <tt><a href="mdf_jr-pos-SCONJ.html">SCONJ</a></tt> tokens (4% of all `SCONJ` tokens) have a non-empty value of `Clitic`.
 
+The most frequent other feature values with which `SCONJ` and `Clitic` co-occurred: <tt><a href="mdf_jr-feat-ConjType.html">ConjType</a></tt><tt>=EMPTY</tt> (1; 100%).
+
 `SCONJ` tokens may have the following values of `Clitic`:
 
 * `I` (1; 100% of non-empty `Clitic`): <em>Сясы</em>

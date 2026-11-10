@@ -43,7 +43,7 @@ The following 8 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 3 nummod	color:blue
-1	Now	now	ADV	RB	_	7	advmod	7:advmod	Discourse=adversative-contrast_m:34->33:0:_|PDTB=Implicit:Comparison.Contrast:but:_:235-253:254-261
+1	Now	now	ADV	RB	PronType=Dem	7	advmod	7:advmod	Discourse=adversative-contrast_m:34->33:0:_|PDTB=Implicit:Comparison.Contrast:but:_:235-253:254-261
 2	about	about	ADV	RB	_	3	advmod	3:advmod	Entity=(54-organization-new-nnnnn-cf2-3-sgl
 3	15	15	NUM	CD	NumForm=Digit|NumType=Card	4	nummod	4:nummod	SpaceAfter=No
 4	%	%	SYM	NN	Number=Sing	7	nsubj	7:nsubj	_

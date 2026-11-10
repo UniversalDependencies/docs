@@ -18,22 +18,20 @@ The following 7 pairs of parts of speech are connected with `aux`: <tt><a href="
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 3 aux	color:blue
-1	Bet	bet	CCONJ	cc	_	4	cc	4:cc	LvtbNodeId=a-d1293-p2s2w1
-2	kurš	kurš	DET	pq0msnn	Case=Nom|Gender=Masc|Number=Sing|PronType=Int	4	nsubj	4:nsubj	LvtbNodeId=a-d1293-p2s2w2
-3	ir	būt	AUX	vcnipii30an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	4	aux	4:aux	LvtbNodeId=a-d1293-p2s2w3
-4	pamanījis	pamanīt	VERB	vmnpdmsnasnpn	Aspect=Perf|Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	LvtbNodeId=a-d1293-p2s2w4|SpaceAfter=No
-5	,	,	PUNCT	zc	_	9	punct	9:punct	LvtbNodeId=a-d1293-p2s2w5
-6	ka	ka	SCONJ	cs	_	9	mark	9:mark	LvtbNodeId=a-d1293-p2s2w6
-7	arī	arī	PART	q	_	8	advmod:emph	8:advmod:emph	LvtbNodeId=a-d1293-p2s2w7
-8	putni	putns	NOUN	ncmpn1	Case=Nom|Gender=Masc|Number=Plur	9	nsubj	9:nsubj	LvtbNodeId=a-d1293-p2s2w8
-9	vēro	vērot	VERB	vmnipt230an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	4	ccomp	4:ccomp	LvtbNodeId=a-d1293-p2s2w9
-10	Liepāju	Liepāja	PROPN	npfsa4	Case=Acc|Gender=Fem|Number=Sing	9	obj	9:obj	LvtbNodeId=a-d1293-p2s2w10|SpaceAfter=No
-11	?	?	PUNCT	zs	_	4	punct	4:punct	LvtbNodeId=a-d1293-p2s2w11
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 5 aux	color:blue
+1	Tieši	tieši	ADV	rpn	Degree=Pos	2	advmod	2:advmod	LvtbNodeId=a-d94-p4s3w1
+2	šorīt	šorīt	ADV	r0n	_	6	advmod	6:advmod	LvtbNodeId=a-d94-p4s3w2
+3	viņš	viņš	PRON	pp3msnn	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	6:nsubj	LvtbNodeId=a-d94-p4s3w3
+4	sevī	sevis	PRON	px000ln	Case=Loc|PronType=Prs|Reflex=Yes	6	iobj	6:iobj	LvtbNodeId=a-d94-p4s3w4
+5	bija	būt	AUX	vcnisii30an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	6	aux	6:aux	LvtbNodeId=a-d94-p4s3w5
+6	sajutis	sajust	VERB	vmnpdmsnasnpn	Aspect=Perf|Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	LvtbNodeId=a-d94-p4s3w6
+7	uzmanības	uzmanība	NOUN	ncfsg4	Case=Gen|Gender=Fem|Number=Sing	8	nmod	8:nmod:gen	LvtbNodeId=a-d94-p4s3w7
+8	nepieciešamību	nepieciešamība	NOUN	ncfsa4	Case=Acc|Gender=Fem|Number=Sing	6	obj	6:obj	LvtbNodeId=a-d94-p4s3w8|SpaceAfter=No
+9	.	.	PUNCT	zs	_	6	punct	6:punct	LvtbNodeId=a-d94-p4s3w9
 
 ~~~
 
@@ -56,23 +54,21 @@ The following 7 pairs of parts of speech are connected with `aux`: <tt><a href="
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 4 aux	color:blue
-1	Nē	nē	PART	q	Polarity=Neg	5	discourse	5:discourse|8:discourse	LvtbNodeId=a-d1270-p4s20w1|SpaceAfter=No
-2	,	,	PUNCT	zc	_	1	punct	1:punct	LvtbNodeId=a-d1270-p4s20w2
-3	šīs	šī	DET	pd3fpnn	Case=Nom|Gender=Fem|Number=Plur|Person=3|PronType=Dem	5	dep	5:dep	LvtbNodeId=a-d1270-p4s20w3
-4	ir	būt	AUX	vcnipii30an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	5	aux	5:aux|8:aux	LvtbNodeId=a-d1270-p4s20w4
-5	jaunas	jauns	ADJ	affpnnp	Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	0	root	0:root	LvtbNodeId=a-d1270-p4s20w5|SpaceAfter=No
-6	,	,	PUNCT	zc	_	8	punct	8:punct	LvtbNodeId=a-d1270-p4s20w6
-7	aizvakar	aizvakar	ADV	r0n	_	8	advmod	8:advmod	LvtbNodeId=a-d1270-p4s20w7
-8	pirktas	pirkt	VERB	vmnpdfpnpsnpn	Aspect=Perf|Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Pass	5	conj	5:conj	LvtbNodeId=a-d1270-p4s20w8|SpaceAfter=No
-9	,	,	PUNCT	zc	_	11	punct	11:punct	LvtbNodeId=a-d1270-p4s20w9
-10	viņa	viņa	PRON	pp3fsnn	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	11	nsubj	11:nsubj	LvtbNodeId=a-d1270-p4s20w10
-11	irgojas	irgoties	VERB	vmyipi230an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Reflex=Yes|Tense=Pres|VerbForm=Fin|Voice=Act	5	parataxis	5:parataxis|8:parataxis	LvtbNodeId=a-d1270-p4s20w11|SpaceAfter=No
-12	.	.	PUNCT	zs	_	5	punct	5:punct	LvtbNodeId=a-d1270-p4s20w12
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 7 aux	color:blue
+1	Jāpiezīmē	piezīmēt	VERB	vmnd0t200an	Mood=Nec|Polarity=Pos|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-p8569-p4s1w1|SpaceAfter=No
+2	,	,	PUNCT	zc	_	9	punct	9:punct	LvtbNodeId=a-p8569-p4s1w2
+3	ka	ka	SCONJ	cs	_	9	mark	9:mark	LvtbNodeId=a-p8569-p4s1w3
+4	pēdējie	pēdējais	ADJ	afmpnyp	Case=Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Plur	5	amod	5:amod	LvtbNodeId=a-p8569-p4s1w4
+5	mēneši	mēnesis	NOUN	ncmpn2	Case=Nom|Gender=Masc|Number=Plur	9	nsubj	9:nsubj	LvtbNodeId=a-p8569-p4s1w5
+6	aktierim	aktieris	NOUN	ncmsd2	Case=Dat|Gender=Masc|Number=Sing	9	obl	9:obl:dat	LvtbNodeId=a-p8569-p4s1w6
+7	nav	būt	AUX	vcnipii30ay	Evident=Fh|Mood=Ind|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	9	aux	9:aux	LvtbNodeId=a-p8569-p4s1w7
+8	bijuši	būt	AUX	vcnpdmpnasnpn	Aspect=Perf|Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	9	aux	9:aux	LvtbNodeId=a-p8569-p4s1w8
+9	viegli	viegli	ADJ	afmpnnp	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	1	ccomp	1:ccomp	LvtbNodeId=a-p8569-p4s1w9|SpaceAfter=No
+10	.	.	PUNCT	zs	_	1	punct	1:punct	LvtbNodeId=a-p8569-p4s1w10
 
 ~~~
 

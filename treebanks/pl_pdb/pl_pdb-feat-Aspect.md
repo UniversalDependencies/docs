@@ -92,7 +92,7 @@ The most frequent other feature values with which `ADJ` and `Aspect` co-occurred
 
 * `Imp` (3154; 47% of non-empty `Aspect`): <em>dotyczące, dotyczących, dotyczącego, dotyczący, prowadzone, stojący, dotyczącej, lecącej, stosowane, widziana</em>
 * `Perf` (3608; 53% of non-empty `Aspect`): <em>związane, ubrany, określonych, związanych, przeznaczone, przedstawione, ubrana, przygotowane, przyjęta, określone</em>
-* `EMPTY` (29164): <em>innych, jeden, sam, inne, europejskiej, pierwszy, różnych, jednym, cały, 1</em>
+* `EMPTY` (29192): <em>innych, jeden, sam, inne, europejskiej, pierwszy, różnych, jednym, cały, 1</em>
 
 <table>
   <tr><th>Paradigm <i>mianować</i></th><th><tt>Imp</tt></th><th><tt>Perf</tt></th></tr>

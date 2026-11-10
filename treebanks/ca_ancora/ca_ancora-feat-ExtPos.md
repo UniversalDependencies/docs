@@ -9,25 +9,25 @@ udver: '2'
 This feature is language-specific.
 It occurs with 4 different values: `ADP`, `ADV`, `CCONJ`, `SCONJ`.
 
-6373 tokens (1%) have a non-empty value of `ExtPos`.
-135 types (0%) occur at least once with a non-empty value of `ExtPos`.
-90 lemmas (0%) occur at least once with a non-empty value of `ExtPos`.
-The feature is used with 8 part-of-speech tags: <tt><a href="ca_ancora-pos-ADP.html">ADP</a></tt> (3434; 1% instances), <tt><a href="ca_ancora-pos-ADV.html">ADV</a></tt> (1046; 0% instances), <tt><a href="ca_ancora-pos-SCONJ.html">SCONJ</a></tt> (771; 0% instances), <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> (617; 0% instances), <tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt> (225; 0% instances), <tt><a href="ca_ancora-pos-CCONJ.html">CCONJ</a></tt> (150; 0% instances), <tt><a href="ca_ancora-pos-DET.html">DET</a></tt> (128; 0% instances), <tt><a href="ca_ancora-pos-ADJ.html">ADJ</a></tt> (2; 0% instances).
+5199 tokens (1%) have a non-empty value of `ExtPos`.
+131 types (0%) occur at least once with a non-empty value of `ExtPos`.
+88 lemmas (0%) occur at least once with a non-empty value of `ExtPos`.
+The feature is used with 8 part-of-speech tags: <tt><a href="ca_ancora-pos-ADP.html">ADP</a></tt> (2265; 0% instances), <tt><a href="ca_ancora-pos-ADV.html">ADV</a></tt> (1046; 0% instances), <tt><a href="ca_ancora-pos-SCONJ.html">SCONJ</a></tt> (771; 0% instances), <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> (612; 0% instances), <tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt> (225; 0% instances), <tt><a href="ca_ancora-pos-CCONJ.html">CCONJ</a></tt> (150; 0% instances), <tt><a href="ca_ancora-pos-DET.html">DET</a></tt> (128; 0% instances), <tt><a href="ca_ancora-pos-ADJ.html">ADJ</a></tt> (2; 0% instances).
 
 ### `ADP`
 
-3434 <tt><a href="ca_ancora-pos-ADP.html">ADP</a></tt> tokens (4% of all `ADP` tokens) have a non-empty value of `ExtPos`.
+2265 <tt><a href="ca_ancora-pos-ADP.html">ADP</a></tt> tokens (3% of all `ADP` tokens) have a non-empty value of `ExtPos`.
 
 `ADP` tokens may have the following values of `ExtPos`:
 
-* `ADP` (2121; 62% of non-empty `ExtPos`): <em>a, des, en, pel, per, de, d', amb, pels, gràcies</em>
-* `ADV` (906; 26% of non-empty `ExtPos`): <em>a, en, per, de, amb, d', in, pel</em>
-* `CCONJ` (83; 2% of non-empty `ExtPos`): <em>a, de, en, d', des</em>
-* `SCONJ` (324; 9% of non-empty `ExtPos`): <em>per, a, en, amb, de, des, pel</em>
+* `ADP` (1182; 52% of non-empty `ExtPos`): <em>des, a, pel, d', de, per, en, gràcies, fins</em>
+* `ADV` (880; 39% of non-empty `ExtPos`): <em>a, en, per, de, d', Amb, in</em>
+* `CCONJ` (63; 3% of non-empty `ExtPos`): <em>a, de, d', des</em>
+* `SCONJ` (140; 6% of non-empty `ExtPos`): <em>per, a, en, des, de, pel</em>
 
 <table>
   <tr><th>Paradigm <i>de</i></th><th><tt>ADP</tt></th><th><tt>ADV</tt></th><th><tt>CCONJ</tt></th><th><tt>SCONJ</tt></th></tr>
-  <tr><td><tt></tt></td><td><em>de, d'</em></td><td><em>de, d'</em></td><td><em>de, d'</em></td><td><em>de</em></td></tr>
+  <tr><td><tt></tt></td><td><em>d', de</em></td><td><em>de, d'</em></td><td><em>de, d'</em></td><td><em>de</em></td></tr>
 </table>
 
 ### `ADV`
@@ -65,14 +65,14 @@ The most frequent other feature values with which `ADV` and `ExtPos` co-occurred
 
 ### `NOUN`
 
-617 <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> tokens (1% of all `NOUN` tokens) have a non-empty value of `ExtPos`.
+612 <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> tokens (1% of all `NOUN` tokens) have a non-empty value of `ExtPos`.
 
-The most frequent other feature values with which `NOUN` and `ExtPos` co-occurred: <tt><a href="ca_ancora-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (617; 100%), <tt><a href="ca_ancora-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (617; 100%).
+The most frequent other feature values with which `NOUN` and `ExtPos` co-occurred: <tt><a href="ca_ancora-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (612; 100%), <tt><a href="ca_ancora-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (612; 100%).
 
 `NOUN` tokens may have the following values of `ExtPos`:
 
-* `ADP` (340; 55% of non-empty `ExtPos`): <em>respecte, cap, gràcies, arran, conjuntament, tret, llevat, referent, degut, fruit</em>
-* `ADV` (128; 21% of non-empty `ExtPos`): <em>sí, ara, tan, és, sens, Tant, avui, ben, hores, poc</em>
+* `ADP` (340; 56% of non-empty `ExtPos`): <em>respecte, cap, gràcies, arran, conjuntament, tret, llevat, referent, degut, fruit</em>
+* `ADV` (123; 20% of non-empty `ExtPos`): <em>sí, ara, tan, és, sens, avui, ben, hores, poc, Vet</em>
 * `CCONJ` (47; 8% of non-empty `ExtPos`): <em>és, alhora, conjuntament, Malgrat, això, bé, passant</em>
 * `SCONJ` (102; 17% of non-empty `ExtPos`): <em>malgrat, tal, cada, atès, ara, gràcies, lluny, És, Després, cas</em>
 

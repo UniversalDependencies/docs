@@ -49,7 +49,7 @@ Examples: <em>rehe, rupi, rehete, nõdereheo, rehewe, rupiwe, derehe, ehe, erehe
 
 ## Relations
 
-`ADP` nodes are attached to their parents using 5 different relations: <tt><a href="eme_tudet-dep-obl.html">obl</a></tt> (74; 50% instances), <tt><a href="eme_tudet-dep-case.html">case</a></tt> (69; 46% instances), <tt><a href="eme_tudet-dep-root.html">root</a></tt> (3; 2% instances), <tt><a href="eme_tudet-dep-parataxis.html">parataxis</a></tt> (2; 1% instances), <tt><a href="eme_tudet-dep-ccomp.html">ccomp</a></tt> (1; 1% instances)
+`ADP` nodes are attached to their parents using 6 different relations: <tt><a href="eme_tudet-dep-obl.html">obl</a></tt> (70; 47% instances), <tt><a href="eme_tudet-dep-case.html">case</a></tt> (69; 46% instances), <tt><a href="eme_tudet-dep-nmod.html">nmod</a></tt> (4; 3% instances), <tt><a href="eme_tudet-dep-root.html">root</a></tt> (3; 2% instances), <tt><a href="eme_tudet-dep-parataxis.html">parataxis</a></tt> (2; 1% instances), <tt><a href="eme_tudet-dep-ccomp.html">ccomp</a></tt> (1; 1% instances)
 
 Parents of `ADP` nodes belong to 7 different parts of speech: <tt><a href="eme_tudet-pos-NOUN.html">NOUN</a></tt> (71; 48% instances), <tt><a href="eme_tudet-pos-VERB.html">VERB</a></tt> (65; 44% instances), <tt><a href="eme_tudet-pos-DET.html">DET</a></tt> (5; 3% instances),  (3; 2% instances), <tt><a href="eme_tudet-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="eme_tudet-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="eme_tudet-pos-ADP.html">ADP</a></tt> (1; 1% instances)
 

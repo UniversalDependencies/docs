@@ -8,27 +8,27 @@ udver: '2'
 
 This relation is universal.
 
-3 nodes (1%) are attached to their parents as `dislocated`.
+11 nodes (1%) are attached to their parents as `dislocated`.
 
-3 instances of `dislocated` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.66666666666667.
+11 instances of `dislocated` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.63636363636364.
 
-The following 1 pairs of parts of speech are connected with `dislocated`: <tt><a href="kbc_unicamp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kbc_unicamp-pos-NOUN.html">NOUN</a></tt> (3; 100% instances).
+The following 1 pairs of parts of speech are connected with `dislocated`: <tt><a href="kbc_unicamp-pos-VERB.html">VERB</a></tt>-<tt><a href="kbc_unicamp-pos-NOUN.html">NOUN</a></tt> (11; 100% instances).
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 5 1 dislocated	color:blue
-1	Etogo	etogo	NOUN	N	Gender=Fem|Number=Sing	5	dislocated	_	_
-2	ane	ane	PRON	WPRO	PronType=Rel	3	nsubj	_	_
-3	iwaGadi	waGadi	VERB	VB	Mood=Ind|Person=3|VerbForm=Fin	1	acl:relcl	_	_
-4	aG	aG	PART	NEG	Polarity=Neg	5	advmod	_	_
-5	dakake	dakake	ADJ	ADJ	_	0	root	_	_
-6	lojedi	ojedi	NOUN	N$	Gender=Masc|Number=Sing|Person[psor]=3	5	nsubj	_	Lemma=loojedi|SpaceAfter=No
-7	.	.	PUNCT	PUNCT	_	5	punct	_	SpaceAfter=No|TokenRange=31:32
+# visual-style 5 2 dislocated	color:blue
+1	nGida	niGida	DET	D	Gender=Masc|Number=Sing|PronType=Dem	2	det	_	StandardForm=niGida|TokenRange=0:5
+2	niwenigi	wenigi	NOUN	N	Gender=Masc|Number=Sing	5	dislocated	_	TokenRange=6:14
+3	daGaxa	daGaxa	ADV	Q	_	5	advmod	_	TokenRange=15:21
+4	me	me	SCONJ	C	_	5	mark	_	TokenRange=22:24
+5	dakake	akake	VERB	VB	Mood=Ind|Person=3|VerbForm=Fin|Voice=Inv	0	root	_	TokenRange=25:31
+6	loojedi	oojedi	NOUN	N$	Gender=Masc|Number=Sing|Person[psor]=3	5	nsubj	_	SpaceAfter=No|TokenRange=32:39
+7	.	.	PUNCT	PUNCT	_	5	punct	_	SpaceAfter=No|TokenRange=39:40
 
 ~~~
 

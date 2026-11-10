@@ -8,59 +8,54 @@ udver: '2'
 
 This relation is universal.
 
-39 nodes (0%) are attached to their parents as `discourse`.
+48 nodes (0%) are attached to their parents as `discourse`.
 
-39 instances of `discourse` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 9.43589743589744.
+48 instances of `discourse` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 9.47916666666667.
 
-The following 9 pairs of parts of speech are connected with `discourse`: <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-INTJ.html">INTJ</a></tt> (21; 54% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt> (7; 18% instances), <tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt> (2; 5% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt> (2; 5% instances), <tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt> (2; 5% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (2; 5% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-INTJ.html">INTJ</a></tt> (1; 3% instances), <tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="frm_profiterole-pos-INTJ.html">INTJ</a></tt> (1; 3% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (1; 3% instances).
+The following 10 pairs of parts of speech are connected with `discourse`: <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-INTJ.html">INTJ</a></tt> (26; 54% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt> (10; 21% instances), <tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt> (2; 4% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt> (2; 4% instances), <tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt> (2; 4% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (2; 4% instances), <tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="frm_profiterole-pos-INTJ.html">INTJ</a></tt> (1; 2% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-INTJ.html">INTJ</a></tt> (1; 2% instances), <tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="frm_profiterole-pos-INTJ.html">INTJ</a></tt> (1; 2% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 2 discourse	color:blue
-1	«	«	PUNCT	PONpga	_	8	punct	_	XmlId=w_42_21161
-2	Helas	hélas	INTJ	INJ	_	8	discourse	_	SpaceAfter=No|XmlId=w_42_21162
-3	,	,	PUNCT	PONfbl	_	4	punct	_	XmlId=w_42_21163
-4	monseigneur	monseigneur	NOUN	NOMcom	_	8	vocative	_	SpaceAfter=No|XmlId=w_42_21164
-5	,	,	PUNCT	PONfbl	_	4	punct	_	XmlId=w_42_21165
-6	nous	nous	PRON	PROper	PronType=Prs	8	nsubj	_	XmlId=w_42_21166
-7	ne	ne1	ADV	ADVneg	Polarity=Neg	8	advmod	_	XmlId=w_42_21167
-8	verrons	voir1	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_42_21168
-9	point	point2	ADV	ADVneg	Polarity=Neg	8	advmod	_	XmlId=w_42_21169
-10	ce	ce2	DET	DETdem	PronType=Dem	12	det	_	XmlId=w_42_21170
-11	beau	beau	ADJ	ADJqua	_	12	amod	_	XmlId=w_42_21171
-12	prince	prince1	NOUN	NOMcom	_	8	obj	_	SpaceAfter=No|XmlId=w_42_21172
-13	,	,	PUNCT	PONfbl	_	8	punct	_	XmlId=w_42_21173
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 2 discourse	color:blue
+1	«	_	PUNCT	_	_	9	punct	_	XmlId=w_melusine_7152
+2	Haa	_	INTJ	_	_	9	discourse	_	XmlId=w_melusine_7153|SpaceAfter=No
+3	,	_	PUNCT	_	_	4	punct	_	XmlId=w_melusine_7154
+4	monseigneur	_	NOUN	_	_	9	vocative	_	XmlId=w_melusine_7155|SpaceAfter=No
+5	,	_	PUNCT	_	_	4	punct	_	XmlId=w_melusine_7156
+6	pour	_	ADP	_	_	7	case	_	XmlId=w_melusine_7157
+7	Dieu	_	PROPN	_	_	9	obl	_	XmlId=w_melusine_7158|SpaceAfter=No
+8	,	_	PUNCT	_	_	9	punct	_	XmlId=w_melusine_7159
+9	laissiez	_	VERB	_	_	0	root	_	XmlId=w_melusine_7160
+10	telz	_	DET	_	_	11	det	_	XmlId=w_melusine_7161
+11	choses	_	NOUN	_	_	9	obj	_	XmlId=w_melusine_7162
+12	ester	_	VERB	_	_	9	xcomp	_	XmlId=w_melusine_7163|SpaceAfter=No
+13	.	_	PUNCT	_	_	9	punct	_	XmlId=w_melusine_7164
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 11 2 discourse	color:blue
-1	«	«	PUNCT	PONpga	_	2	punct	_	XmlId=w_42_08098
-2	Ouy	oui	ADV	ADVgen	_	11	discourse	_	XmlId=w_42_08099
-3	»	»	PUNCT	PONpdr	_	2	punct	_	SpaceAfter=No|XmlId=w_42_08100
-4	,	,	PUNCT	PONfbl	_	5	punct	_	XmlId=w_42_08101
-5	respondirent	répondre	VERB	VERcjg	VerbForm=Fin	11	parataxis	_	XmlId=w_42_08102
-6	les	le	DET	DETdef	Definite=Def|PronType=Art	7	det	_	XmlId=w_42_08103
-7	François	français	PROPN	NOMpro	_	5	nsubj	_	SpaceAfter=No|XmlId=w_42_08104
-8	,	,	PUNCT	PONfbl	_	5	punct	_	XmlId=w_42_08105
-9	«	«	PUNCT	PONpga	_	11	punct	_	XmlId=w_42_08106
-10	il	il	PRON	PROper	PronType=Prs	11	nsubj	_	XmlId=w_42_08107
-11	chevauche	chevaucher	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_42_08108
-12	bien	bien	ADV	ADVgen	_	13	advmod	_	XmlId=w_42_08109
-13	loing	loin	ADV	ADVgen	_	11	advmod	_	XmlId=w_42_08110
-14	devant	devant	ADV	ADVgen	_	11	advmod	_	SpaceAfter=No|XmlId=w_42_08111
-15	.	.	PUNCT	PONfrt	_	11	punct	_	XmlId=w_42_08112
-16	»	»	PUNCT	PONpdr	_	11	punct	_	XmlId=w_42_08113
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 3 discourse	color:blue
+1	“	_	PUNCT	_	_	9	punct	_	XmlId=w_melusine_10269
+2	Et	_	CCONJ	_	_	9	cc:nc	_	XmlId=w_melusine_10270
+3	comment	_	ADV	_	_	9	discourse	_	XmlId=w_melusine_10271|SpaceAfter=No
+4	,	_	PUNCT	_	_	9	punct	_	XmlId=w_melusine_10272
+5	n'	_	ADV	_	_	9	advmod	_	XmlId=w_melusine_10273|SpaceAfter=No
+6	est	_	AUX	_	_	9	aux:pass	_	XmlId=w_melusine_10274
+7	il	_	PRON	_	_	9	nsubj:pass	_	XmlId=w_melusine_10275
+8	pas	_	ADV	_	_	9	advmod	_	XmlId=w_melusine_10276
+9	repairez	_	VERB	_	_	0	root	_	XmlId=w_melusine_10277
+10	?	_	PUNCT	_	_	9	punct	_	XmlId=w_melusine_10278
+11	”	_	PUNCT	_	_	9	punct	_	XmlId=w_melusine_10279
 
 ~~~
 

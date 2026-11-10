@@ -32,7 +32,7 @@ The 10 most frequent ambiguous types:  <em>ar</em> (<tt><a href="sga_dipwbg-pos-
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.928571 (the average of all parts of speech is 1.430108).
+The form / lemma ratio of `ADP` is 1.928571 (the average of all parts of speech is 1.435484).
 
 The 1st highest number of forms (4) was observed with the lemma “do”: <em>di, dét, dúib, ṅduit</em>.
 
@@ -53,7 +53,7 @@ Examples: <em>ar, oc, dar, i, di, fri, as, dochum, hi, imm</em>
 
 `ADP` nodes are attached to their parents using 3 different relations: <tt><a href="sga_dipwbg-dep-case.html">case</a></tt> (27; 60% instances), <tt><a href="sga_dipwbg-dep-obl-prep.html">obl:prep</a></tt> (17; 38% instances), <tt><a href="sga_dipwbg-dep-parataxis.html">parataxis</a></tt> (1; 2% instances)
 
-Parents of `ADP` nodes belong to 6 different parts of speech: <tt><a href="sga_dipwbg-pos-NOUN.html">NOUN</a></tt> (31; 69% instances), <tt><a href="sga_dipwbg-pos-VERB.html">VERB</a></tt> (7; 16% instances), <tt><a href="sga_dipwbg-pos-ADJ.html">ADJ</a></tt> (4; 9% instances), <tt><a href="sga_dipwbg-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="sga_dipwbg-pos-PART.html">PART</a></tt> (1; 2% instances), <tt><a href="sga_dipwbg-pos-PROPN.html">PROPN</a></tt> (1; 2% instances)
+Parents of `ADP` nodes belong to 6 different parts of speech: <tt><a href="sga_dipwbg-pos-NOUN.html">NOUN</a></tt> (30; 67% instances), <tt><a href="sga_dipwbg-pos-VERB.html">VERB</a></tt> (7; 16% instances), <tt><a href="sga_dipwbg-pos-ADJ.html">ADJ</a></tt> (4; 9% instances), <tt><a href="sga_dipwbg-pos-PROPN.html">PROPN</a></tt> (2; 4% instances), <tt><a href="sga_dipwbg-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="sga_dipwbg-pos-PART.html">PART</a></tt> (1; 2% instances)
 
 37 (82%) `ADP` nodes are leaves.
 

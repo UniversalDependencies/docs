@@ -23,7 +23,7 @@ The following 7 pairs of parts of speech are connected with `conj`: <tt><a href=
 # visual-style 4	fgColor:white
 # visual-style 4 6 conj	color:blue
 1	hi	i	ADP	_	AdpType=Prep|Definite=Ind	3	case	_	SpaceAfter=No
-2	cach	cach	DET	_	Case=Dat|Definite=Def|Number=Sing	3	det	_	_
+2	cach	cach	DET	_	Case=Dat|Number=Sing|PronType=Tot	3	det	_	_
 3	ceniul	cenél	NOUN	_	Case=Dat|Number=Sing	0	root	_	_
 4	fis	fis	NOUN	_	Case=Gen|Number=Sing	3	nmod	_	_
 5	⁊	ocus	CCONJ	_	_	6	cc	_	_
@@ -48,7 +48,7 @@ The following 7 pairs of parts of speech are connected with `conj`: <tt><a href=
 8	ind	in	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Art	9	det	_	SpaceAfter=No
 9	inducbál	inducbál	NOUN	_	Case=Nom|Number=Sing	4	nsubj	_	_
 10	ó	ó	ADP	_	AdpType=Prep|Definite=Ind	11	case	_	_
-11	dia	día	NOUN	_	Case=Dat|Number=Sing	9	nmod	_	_
+11	dia	día	PROPN	_	Case=Dat|Number=Sing	9	nmod	_	_
 12	tar	tar	ADP	_	AdpType=Prep|Definite=Ind	13	case	_	SpaceAfter=No
 13	hési	éis	NOUN	_	Case=Acc|Number=Sing	9	nmod	_	_
 14	denmo	dénum	NOUN	_	Case=Gen|Number=Sing	13	nmod	_	_
@@ -82,7 +82,7 @@ The following 7 pairs of parts of speech are connected with `conj`: <tt><a href=
 5	ó	ó	INTJ	_	_	7	discourse	_	_
 6	ní	ní	PART	_	Polarity=Neg	7	advmod	_	SpaceAfter=No
 7	epur	asbeir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	1	parataxis	_	_
-8	na	nach	DET	_	Case=Acc|Definite=Ind|Number=Sing	9	det	_	_
+8	na	nach	DET	_	Case=Acc|Number=Sing|PronType=Neg	9	det	_	_
 9	haill	aile	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	7	amod	_	_
 
 ~~~

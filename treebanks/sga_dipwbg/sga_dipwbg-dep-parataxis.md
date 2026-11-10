@@ -17,23 +17,24 @@ The following 1 pairs of parts of speech are connected with `parataxis`: <tt><a 
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 8 parataxis	color:blue
-1	.i.	.i.	ADV	_	Abbr=Yes	3	advmod	_	_
-2	cain	cani	PRON	_	Polarity=Neg|PronType=Int	3	xcomp	_	_
-3	ronóibad	noíbaid	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Pass	0	root	_	_
-4	abracham	abracham	PROPN	_	Case=Nom|Number=Sing	3	obj	_	_
-5	tri	tre	ADP	_	AdpType=Prep|Definite=Ind	6	case	_	SpaceAfter=No
-6	hiris	iress	NOUN	_	Case=Acc|Number=Sing	3	obl	_	_
-7	in	in	PART	_	PronType=Int	8	mark:int	_	SpaceAfter=No
-8	tree	tre	ADP	_	AdpType=Prep|Definite=Ind|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	parataxis	_	_
-9	ǽm	ám	ADV	_	_	8	advmod	_	_
-10	didiu	didiu	ADV	_	_	8	advmod	_	_
-11	fa	fa	SCONJ	_	_	12	mark	_	SpaceAfter=No
-12	nacc	nacc	ADV	_	Polarity=Neg	8	advcl	_	_
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 9 parataxis	color:blue
+1	.i.	.i.	ADV	_	Abbr=Yes	4	advmod	_	_
+2	cain	cani	PRON	_	Polarity=Neg|PronType=Int	4	xcomp	_	_
+3	ro	ro	PART	_	PartType=Aug	4	compound:prt	_	SpaceAfter=No
+4	nóibad	noíbaid	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Pass	0	root	_	_
+5	abracham	abracham	PROPN	_	Case=Nom|Number=Sing	4	obj	_	_
+6	tri	tre	ADP	_	AdpType=Prep|Definite=Ind	7	case	_	SpaceAfter=No
+7	hiris	iress	NOUN	_	Case=Acc|Number=Sing	4	obl	_	_
+8	in	in	PART	_	PronType=Int	9	mark:int	_	SpaceAfter=No
+9	tree	tre	ADP	_	AdpType=Prep|Definite=Ind|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	parataxis	_	_
+10	ǽm	ám	ADV	_	_	9	advmod	_	_
+11	didiu	didiu	ADV	_	_	9	advmod	_	_
+12	fa	fa	SCONJ	_	_	13	mark	_	SpaceAfter=No
+13	nacc	nacc	ADV	_	Polarity=Neg	9	advcl	_	_
 
 ~~~
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-366 nodes (8%) are attached to their parents as `acl`.
+364 nodes (8%) are attached to their parents as `acl`.
 
-366 instances of `acl` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.16120218579235.
+364 instances of `acl` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.08241758241758.
 
-The following 5 pairs of parts of speech are connected with `acl`: <tt><a href="zh_patentchar-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_patentchar-pos-VERB.html">VERB</a></tt> (353; 96% instances), <tt><a href="zh_patentchar-pos-ADJ.html">ADJ</a></tt>-<tt><a href="zh_patentchar-pos-VERB.html">VERB</a></tt> (9; 2% instances), <tt><a href="zh_patentchar-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_patentchar-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="zh_patentchar-pos-ADJ.html">ADJ</a></tt>-<tt><a href="zh_patentchar-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="zh_patentchar-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_patentchar-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 4 pairs of parts of speech are connected with `acl`: <tt><a href="zh_patentchar-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_patentchar-pos-VERB.html">VERB</a></tt> (352; 97% instances), <tt><a href="zh_patentchar-pos-ADJ.html">ADJ</a></tt>-<tt><a href="zh_patentchar-pos-VERB.html">VERB</a></tt> (9; 2% instances), <tt><a href="zh_patentchar-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_patentchar-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="zh_patentchar-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_patentchar-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

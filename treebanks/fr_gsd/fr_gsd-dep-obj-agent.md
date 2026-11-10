@@ -26,7 +26,7 @@ The following 4 pairs of parts of speech are connected with `obj:agent`: <tt><a 
 1	Elle	lui	PRON	_	Case=Nom|Emph=No|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	wordform=elle
 2	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux:tense	_	_
 3	aussi	aussi	ADV	_	_	4	advmod	_	_
-4	contribué	contribuer	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	Tense[denom]=Past
+4	contribué	contribuer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	Status[Tense]=Denom
 5	à	à	ADP	_	_	7	mark	_	_
 6	faire	faire	AUX	_	VerbForm=Inf	7	aux:caus	_	Subject=SubjRaising
 7	reculer	reculer	VERB	_	VerbForm=Inf	4	xcomp	_	Subject=ObjRaising

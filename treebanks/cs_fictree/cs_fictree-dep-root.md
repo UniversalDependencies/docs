@@ -11,9 +11,9 @@ This relation is universal.
 12760 nodes (8%) are attached to their parents as `root`.
 
 12760 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.87123824451411.
+Average distance between parent and child is 3.87170846394984.
 
-The following 15 pairs of parts of speech are connected with `root`: -<tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt> (9695; 76% instances), -<tt><a href="cs_fictree-pos-NOUN.html">NOUN</a></tt> (1279; 10% instances), -<tt><a href="cs_fictree-pos-ADJ.html">ADJ</a></tt> (656; 5% instances), -<tt><a href="cs_fictree-pos-ADV.html">ADV</a></tt> (323; 3% instances), -<tt><a href="cs_fictree-pos-PART.html">PART</a></tt> (292; 2% instances), -<tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> (155; 1% instances), -<tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> (86; 1% instances), -<tt><a href="cs_fictree-pos-PROPN.html">PROPN</a></tt> (73; 1% instances), -<tt><a href="cs_fictree-pos-DET.html">DET</a></tt> (65; 1% instances), -<tt><a href="cs_fictree-pos-NUM.html">NUM</a></tt> (52; 0% instances), -<tt><a href="cs_fictree-pos-INTJ.html">INTJ</a></tt> (44; 0% instances), -<tt><a href="cs_fictree-pos-PUNCT.html">PUNCT</a></tt> (18; 0% instances), -<tt><a href="cs_fictree-pos-X.html">X</a></tt> (13; 0% instances), -<tt><a href="cs_fictree-pos-CCONJ.html">CCONJ</a></tt> (8; 0% instances), -<tt><a href="cs_fictree-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+The following 15 pairs of parts of speech are connected with `root`: -<tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt> (9695; 76% instances), -<tt><a href="cs_fictree-pos-NOUN.html">NOUN</a></tt> (1282; 10% instances), -<tt><a href="cs_fictree-pos-ADJ.html">ADJ</a></tt> (656; 5% instances), -<tt><a href="cs_fictree-pos-ADV.html">ADV</a></tt> (327; 3% instances), -<tt><a href="cs_fictree-pos-PART.html">PART</a></tt> (288; 2% instances), -<tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> (155; 1% instances), -<tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> (83; 1% instances), -<tt><a href="cs_fictree-pos-PROPN.html">PROPN</a></tt> (73; 1% instances), -<tt><a href="cs_fictree-pos-DET.html">DET</a></tt> (65; 1% instances), -<tt><a href="cs_fictree-pos-NUM.html">NUM</a></tt> (52; 0% instances), -<tt><a href="cs_fictree-pos-INTJ.html">INTJ</a></tt> (44; 0% instances), -<tt><a href="cs_fictree-pos-PUNCT.html">PUNCT</a></tt> (18; 0% instances), -<tt><a href="cs_fictree-pos-X.html">X</a></tt> (13; 0% instances), -<tt><a href="cs_fictree-pos-CCONJ.html">CCONJ</a></tt> (8; 0% instances), -<tt><a href="cs_fictree-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -22,7 +22,7 @@ The following 15 pairs of parts of speech are connected with `root`: -<tt><a hre
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 1 root	color:blue
-1	Daly	dát	VERB	VpFP----R-AA---	Gender=Fem|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	_
+1	Daly	dát	VERB	VpFP----R-AA---	Aspect=Perf|Gender=Fem|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	_
 2	jsme	být	AUX	VB-P---1P-AA---	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	1	aux	1:aux	_
 3	se	se	PRON	P7--4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	1	expl:pv	1:expl:pv	_
 4	do	do	ADP	RR--2----------	AdpType=Prep|Case=Gen	5	case	5:case	_
@@ -52,7 +52,7 @@ The following 15 pairs of parts of speech are connected with `root`: -<tt><a hre
 # visual-style 0 9 root	color:blue
 1	Když	když	SCONJ	J,-------------	_	3	mark	3:mark	_
 2	se	se	PRON	P7--4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	3	expl:pv	3:expl:pv	_
-3	zhroutí	zhroutit	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	9	advcl	9:advcl:když	_
+3	zhroutí	zhroutit	VERB	VB-S---3P-AA---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	9	advcl	9:advcl:když	_
 4	optimista	optimista	NOUN	NNMS1-----A----	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	3:nsubj	SpaceAfter=No
 5	,	,	PUNCT	Z:-------------	_	3	punct	3:punct	_
 6	bývá	bývat	AUX	VB-S---3P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	9	cop	9:cop	_

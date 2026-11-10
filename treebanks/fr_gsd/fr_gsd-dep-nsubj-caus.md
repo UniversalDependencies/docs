@@ -26,7 +26,7 @@ The following 3 pairs of parts of speech are connected with `nsubj:caus`: <tt><a
 1	Il	lui	PRON	_	Case=Nom|Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj:caus	_	wordform=il
 2	s'	soi	PRON	_	Emph=No|Person=3|PronType=Prs|Reflex=Yes	5	iobj	_	SpaceAfter=No
 3	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux:tense	_	_
-4	fait	faire	AUX	_	Gender=Masc|Number=Sing|VerbForm=Part	5	aux:caus	_	Tense[denom]=Past
+4	fait	faire	AUX	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	aux:caus	_	Status[Tense]=Denom
 5	poser	poser	VERB	_	VerbForm=Inf	0	root	_	Subject=Generic
 6	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	7	det	_	_
 7	points	point	NOUN	_	Gender=Masc|Number=Plur	5	obj	_	Exponence[Gender]=Inherent
@@ -69,7 +69,7 @@ The following 3 pairs of parts of speech are connected with `nsubj:caus`: <tt><a
 4	font	faire	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	aux:caus	_	_
 5	emprisonner	emprisonner	VERB	_	VerbForm=Inf	0	root	_	Subject=Generic
 6	en	en	ADP	_	_	7	case	_	_
-7	205	205	NUM	_	Number=Sing	5	obl:mod	_	Exponence[Number]=Inherent|SpaceAfter=No
+7	205	205	NUM	_	ExtPos=PROPN|Number=Sing	5	obl:mod	_	Exponence[Number]=Inherent|SpaceAfter=No
 8	.	.	PUNCT	_	_	5	punct	_	_
 
 ~~~

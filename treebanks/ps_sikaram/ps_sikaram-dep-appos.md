@@ -8,35 +8,32 @@ udver: '2'
 
 This relation is universal.
 
-25 nodes (0%) are attached to their parents as `appos`.
+29 nodes (0%) are attached to their parents as `appos`.
 
-25 instances of `appos` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.68.
+29 instances of `appos` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.13793103448276.
 
-The following 7 pairs of parts of speech are connected with `appos`: <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt> (11; 44% instances), <tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt> (8; 32% instances), <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ps_sikaram-pos-PROPN.html">PROPN</a></tt> (2; 8% instances), <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ps_sikaram-pos-PRON.html">PRON</a></tt> (1; 4% instances), <tt><a href="ps_sikaram-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt> (1; 4% instances), <tt><a href="ps_sikaram-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ps_sikaram-pos-PROPN.html">PROPN</a></tt> (1; 4% instances), <tt><a href="ps_sikaram-pos-X.html">X</a></tt>-<tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt> (1; 4% instances).
+The following 7 pairs of parts of speech are connected with `appos`: <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt> (14; 48% instances), <tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt> (8; 28% instances), <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ps_sikaram-pos-PROPN.html">PROPN</a></tt> (3; 10% instances), <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ps_sikaram-pos-PRON.html">PRON</a></tt> (1; 3% instances), <tt><a href="ps_sikaram-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="ps_sikaram-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ps_sikaram-pos-PROPN.html">PROPN</a></tt> (1; 3% instances), <tt><a href="ps_sikaram-pos-X.html">X</a></tt>-<tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt> (1; 3% instances).
 
 
 ~~~ conllu
-# visual-style 14	bgColor:blue
-# visual-style 14	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 14 appos	color:blue
-1	پښتو	پښتو	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	2	nmod	_	Translit=pax̌tó|LTranslit=pax̌tó|Gloss=Pashto
-2	نیولوجېزم	نیولوجېزم	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	Translit=niyoloǰézm|LTranslit=niyoloǰézm|Gloss=neologism|SpaceAfter=No
-3	،	،	PUNCT	_	_	4	punct	_	Translit=,|LTranslit=,|Gloss=,
-4	نیولوګېزم	نیولوګېزم	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	conj	_	Translit=niyologézm|LTranslit=niyologézm|Gloss=neologism
-5	(	(	PUNCT	_	_	7	punct	_	Translit=(|LTranslit=(|Gloss=(|SpaceAfter=No
-6	لغت	لغت	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	7	nmod	_	Translit=luġát|LTranslit=luġát|Gloss=word
-7	جوړونه	جوړونه	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|VerbForm=Vnoun	4	appos	_	Translit=ǰoṛawë́na|LTranslit=ǰoṛawë́na|Gloss=construction|LDeriv=جوړول|LDTranslit=ǰoṛawë́l|SpaceAfter=No
-8	،	،	PUNCT	_	_	10	punct	_	Translit=,|LTranslit=,|Gloss=,
-9	ويی	ويی	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	10	nmod	_	Translit=wayáy|LTranslit=wayáy|Gloss=word
-10	رغونه	رغونه	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|VerbForm=Vnoun	7	conj	_	Translit=roġawë́na|LTranslit=roġawë́na|Gloss=reconstruction|LDeriv=رغول|LDTranslit=roġawë́l|SpaceAfter=No
-11	)	)	PUNCT	_	_	7	punct	_	Translit=)|LTranslit=)|Gloss=)
-12	یوه	یو	NUM	_	Case=Nom|Gender=Fem|NumType=Card	14	nummod	_	Translit=yawá|LTranslit=yaw|Gloss=one
-13	ستره	ستر	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	14	amod	_	Translit=stë́ra|LTranslit=stër|Gloss=great
-14	اړتیا	اړتیا	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	4	appos	_	Translit=aṛtyấ|LTranslit=aṛtyấ|Gloss=need|SpaceAfter=No
-15	:	:	PUNCT	_	_	2	punct	_	Translit=:|LTranslit=:|Gloss=:|SpaceAfter=No
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 10 appos	color:blue
+1	یو	یو	NUM	_	Case=Nom|Gender=Masc|NumType=Card	5	nsubj	_	Translit=yaw|LTranslit=yaw|Gloss=one
+2	او	او	CCONJ	_	_	3	cc	_	Translit=aw|LTranslit=aw|Gloss=and
+3	یو	یو	NUM	_	Case=Nom|Gender=Masc|NumType=Card	1	conj	_	Translit=yaw|LTranslit=yaw|Gloss=one
+4	مساوي	مساوي	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	5	xcomp	_	Translit=mësâwí|LTranslit=mësâwí|Gloss=equal
+5	کېږي	کېدل	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Translit=kéǧi|LTranslit=kedë́l|Gloss=become
+6	په	پۀ	ADP	_	Case=Loc	8	case	_	Translit=pë|LTranslit=pë|Gloss=at
+7	دوو	دوه	NUM	_	Case=Loc|NumType=Card	8	nummod	_	Translit=dwo|LTranslit=dwa|Gloss=two
+8	ګولیو	ګولۍ	NOUN	_	Case=Loc|Gender=Fem|Number=Plur	5	obl	_	Translit=golë́yo|LTranslit=golë́y|Gloss=bullets
+9	(	(	PUNCT	_	_	10	punct	_	Translit=(|LTranslit=(|Gloss=(|SpaceAfter=No
+10	مردکیو	مردکۍ	NOUN	_	Case=Loc|Gender=Fem|Number=Plur	8	appos	_	Translit=mërdakë́yo|LTranslit=mërdakë́y|Gloss=balls|SpaceAfter=No
+11	)	)	PUNCT	_	_	10	punct	_	Translit=)|LTranslit=)|Gloss=)|SpaceAfter=No
+12	.	.	PUNCT	_	_	5	punct	_	Translit=.|LTranslit=.|Gloss=.|SpaceAfter=No
 
 ~~~
 
@@ -47,18 +44,19 @@ The following 7 pairs of parts of speech are connected with `appos`: <tt><a href
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 5 appos	color:blue
-1	بايد	بايد	PART	_	_	10	advmod	_	Translit=bâyád|LTranslit=bâyád|Gloss=should
+1	بايد	بايد	PART	_	_	11	advmod	_	Translit=bâyád|LTranslit=bâyád|Gloss=should
 2	د	د	ADP	_	Case=Acc	3	case	_	Translit=dë|LTranslit=dë|Gloss=of
 3	اغېزمن	_	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	8	nmod	_	Translit=aġezmán|LTranslit=|Gloss=affected
 4	(	(	PUNCT	_	_	5	punct	_	Translit=(|LTranslit=(|Gloss=(|SpaceAfter=No
 5	متاثر	_	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	3	appos	_	Translit=mutâsír|LTranslit=|Gloss=affected|SpaceAfter=No
 6	)	)	PUNCT	_	_	5	punct	_	Translit=)|LTranslit=)|Gloss=)
 7	په	پۀ	ADP	_	Case=Loc	8	case	_	Translit=pë|LTranslit=pë|Gloss=at
-8	توګه	توګه	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	10	obl	_	Translit=tóga|LTranslit=tóga|Gloss=way
-9	ونه	ونۀ	PART	_	Aspect=Perf|Polarity=Neg	10	compound:prt	_	Translit=wënë́|LTranslit=wënë́|Gloss=not
-10	کارول	کارول	VERB	_	Aspect=Imp|Case=Nom|VerbForm=Inf	0	root	_	Translit=kârawël|LTranslit=kârawë́l|Gloss=used
-11	شي	کېدل	AUX	_	Mood=Sub|Number=Sing|Person=3|VerbForm=Fin	10	aux:pass	_	Translit=ši|LTranslit=kedë́l|Gloss=be|SpaceAfter=No
-12	.	.	PUNCT	_	_	10	punct	_	Translit=.|LTranslit=.|Gloss=.|SpaceAfter=No
+8	توګه	توګه	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	11	obl	_	Translit=tóga|LTranslit=tóga|Gloss=way
+9	و	و	AUX	_	Aspect=Perf	11	aux:preverb	_	Translit=wë|LTranslit=wë|Gloss=_
+10	نه	نۀ	PART	_	Polarity=Neg	11	advmod	_	Translit=në́|LTranslit=në|Gloss=not
+11	کارول	کارول	VERB	_	Aspect=Imp|Case=Nom|VerbForm=Inf	0	root	_	Translit=kârawël|LTranslit=kârawë́l|Gloss=used
+12	شي	کېدل	AUX	_	Mood=Sub|Number=Sing|Person=3|VerbForm=Fin	11	aux:pass	_	Translit=ši|LTranslit=kedë́l|Gloss=be|SpaceAfter=No
+13	.	.	PUNCT	_	_	11	punct	_	Translit=.|LTranslit=.|Gloss=.|SpaceAfter=No
 
 ~~~
 

@@ -24,7 +24,7 @@ The most frequent other feature values with which `VERB` and `Aspect` co-occurre
 
 * `Hab` (1; 8% of non-empty `Aspect`): <em>biuu</em>
 * `Imp` (3; 25% of non-empty `Aspect`): <em>bered, carad, gníthe</em>
-* `Perf` (8; 67% of non-empty `Aspect`): <em>nropridchissem, rocomalnisid, ronóibad, rreractid, rucca, rérachtid, árbas, érbarthar</em>
+* `Perf` (8; 67% of non-empty `Aspect`): <em>comalnisid, nóibad, pridchissem, rreractid, rucca, rérachtid, árbas, érbarthar</em>
 * `EMPTY` (43): <em>tá, ail, amlid, anicc, arim, beir, beo, bera, berinn, bia</em>
 
 <table>

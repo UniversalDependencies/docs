@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-690 nodes (2%) are attached to their parents as `det`.
+1097 nodes (3%) are attached to their parents as `det`.
 
-680 instances of `det` (99%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.16811594202899.
+1045 instances of `det` (95%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.18869644484959.
 
-The following 7 pairs of parts of speech are connected with `det`: <tt><a href="egy_pc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="egy_pc-pos-DET.html">DET</a></tt> (431; 62% instances), <tt><a href="egy_pc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="egy_pc-pos-DET.html">DET</a></tt> (231; 33% instances), <tt><a href="egy_pc-pos-NUM.html">NUM</a></tt>-<tt><a href="egy_pc-pos-DET.html">DET</a></tt> (20; 3% instances), <tt><a href="egy_pc-pos-VERB.html">VERB</a></tt>-<tt><a href="egy_pc-pos-DET.html">DET</a></tt> (5; 1% instances), <tt><a href="egy_pc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="egy_pc-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="egy_pc-pos-PRON.html">PRON</a></tt>-<tt><a href="egy_pc-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="egy_pc-pos-X.html">X</a></tt>-<tt><a href="egy_pc-pos-DET.html">DET</a></tt> (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `det`: <tt><a href="egy_pc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="egy_pc-pos-DET.html">DET</a></tt> (677; 62% instances), <tt><a href="egy_pc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="egy_pc-pos-DET.html">DET</a></tt> (372; 34% instances), <tt><a href="egy_pc-pos-NUM.html">NUM</a></tt>-<tt><a href="egy_pc-pos-DET.html">DET</a></tt> (27; 2% instances), <tt><a href="egy_pc-pos-VERB.html">VERB</a></tt>-<tt><a href="egy_pc-pos-DET.html">DET</a></tt> (17; 2% instances), <tt><a href="egy_pc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="egy_pc-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="egy_pc-pos-PRON.html">PRON</a></tt>-<tt><a href="egy_pc-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="egy_pc-pos-X.html">X</a></tt>-<tt><a href="egy_pc-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -23,7 +23,7 @@ The following 7 pairs of parts of speech are connected with `det`: <tt><a href="
 # visual-style 5	fgColor:white
 # visual-style 5 6 det	color:blue
 1	Ḥr.w	Ḥr.w	PROPN	_	Gender=Masc|NameType=God	2	vocative	_	Hiero=𓅃|ID=107500
-2	ꞽ:wn	wn	VERB	_	Mood=Imp|Number=Sing|Prefix=Yodh|VerbClass=2lit|VerbForm=Fin	0	root	_	Hiero=(𓇋𓇬:𓈖)|ID=46060
+2	ꞽ:wn	wn	VERB	_	Mood=Imp|Number=Sing|Prefix=Yodh|VerbClass=2lit|VerbForm=Fin	0	root	_	Hiero=(𓇋𓇬:𓈖)|ID=46060|Trans=Yes
 3	rʾ	rʾ	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	Hiero=(𓂋:𓏤)|Hierocl=𓏤|ID=92560
 4	n(.ꞽ)	n	ADJ	_	Case=Gen|Gender=Masc|Nisba=DePrep|Number=Sing	3	amod	_	Hiero=𓈖|ID=79800
 5	Ppy	Ppy	PROPN	_	Gender=Masc|NameType=King	4	obl:nisba	_	Hiero=𓍹(𓊪:𓊪)𓇋𓇋𓍺|ID=400313
@@ -38,9 +38,9 @@ The following 7 pairs of parts of speech are connected with `det`: <tt><a href="
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 6 det	color:blue
-1	č̣(ṭ)	č̣ṭ	VERB	_	Gender=Masc|VerbClass=2lit|VerbForm=Inf	0	root	_	Hiero=𓆓|ID=185810
+1	č̣(ṭ)	č̣ṭ	VERB	_	Gender=Masc|VerbClass=2lit|VerbForm=Inf	0	root	_	Hiero=𓆓|ID=185810|Trans=Yes
 2	mṭw	mṭw	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	Hiero=𓌃|ID=78150
-3	ꞽm	m	VERB	_	Mood=Imp|Number=Sing|VerbClass=Def|VerbForm=Fin	1	ccomp:speech	_	Hiero=𓇋𓅓|ID=67780
+3	ꞽm	m	VERB	_	Mood=Imp|Number=Sing|VerbClass=Def|VerbForm=Fin	1	ccomp:speech	_	Hiero=𓇋𓅓|ID=67780|Trans=Yes
 4	ꞽr.t(ꞽ)	ꞽr.t	NOUN	_	Gender=Fem|Number=Dual	3	obj	_	Hiero=𓥳|ID=28250
 5	wr	wr	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	Hiero=𓅨|ID=47280
 6	pn	pn	DET	_	Gender=Masc|Number=Sing|PronType=Dem	5	det	_	Hiero=(𓊪:𓈖)|ID=59920
@@ -59,7 +59,7 @@ The following 7 pairs of parts of speech are connected with `det`: <tt><a href="
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 7 det	color:blue
-1	śšr	śšr	VERB	_	Conjug=Suffix|Mood=Ind|SubForm=AbstRel|Tense=Pres|VerbClass=3lit|VerbForm=Fin|Voice=Act	0	root	_	Hiero=𓋴(𓈙:𓂋)𓌓_FE02|Hierocl=𓌓_FE02|ID=145470
+1	śšr	śšr	VERB	_	Conjug=Suffix|Mood=Ind|SubForm=AbstRel|Tense=Pres|VerbClass=3lit|VerbForm=Fin|Voice=Act	0	root	_	Hiero=𓋴(𓈙:𓂋)𓌓_FE02|Hierocl=𓌓_FE02|ID=145470|Trans=Yes
 2	⸗f	f	PRON	_	Gender=Masc|Number=Sing|Person=3|PronClass=Suffix|PronType=Prs	1	nsubj	_	Hiero=𓆑|ID=10050
 3	mtw.t	mtw.t	NOUN	_	Gender=Fem|Number=Sing	1	obj	_	Hiero=𓂸𓅱(𓏏:𓂺)|Hierocl=𓂺|ID=77480
 4	⸗k	k	PRON	_	Gender=Masc|Number=Sing|Person=2|Poss=Yes|PronClass=Suffix|PronType=Prs	3	nmod	_	Hiero=𓎡|ID=10110

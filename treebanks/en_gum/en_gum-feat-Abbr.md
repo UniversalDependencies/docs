@@ -23,7 +23,7 @@ The most frequent other feature values with which `PROPN` and `Abbr` co-occurred
 `PROPN` tokens may have the following values of `Abbr`:
 
 * `Yes` (699; 100% of non-empty `Abbr`): <em>U.S., US, Mr., NASA, NATO, W., CC, T., USI, UK</em>
-* `EMPTY` (13847): <em>States, University, President, America, York, New, south, north, Americans, State</em>
+* `EMPTY` (13840): <em>States, University, President, America, York, New, south, north, Americans, State</em>
 
 `Abbr` seems to be **lexical feature** of `PROPN`. 100% lemmas (192) occur only with one value of `Abbr`.
 
@@ -36,7 +36,7 @@ The most frequent other feature values with which `NOUN` and `Abbr` co-occurred:
 `NOUN` tokens may have the following values of `Abbr`:
 
 * `Yes` (89; 100% of non-empty `Abbr`): <em>etc., AI, TV, a.m., DNA, GIS, p.m., p., No., Ph.D.</em>
-* `EMPTY` (42826): <em>people, time, way, day, years, year, world, life, today, city</em>
+* `EMPTY` (42815): <em>people, time, way, day, years, year, world, life, today, city</em>
 
 `Abbr` seems to be **lexical feature** of `NOUN`. 100% lemmas (24) occur only with one value of `Abbr`.
 
@@ -49,7 +49,7 @@ The most frequent other feature values with which `ADV` and `Abbr` co-occurred: 
 `ADV` tokens may have the following values of `Abbr`:
 
 * `Yes` (42; 100% of non-empty `Abbr`): <em>e.g., i.e., c., ca., PS, approx.</em>
-* `EMPTY` (12164): <em>so, just, when, then, also, how, now, more, here, where</em>
+* `EMPTY` (12172): <em>so, just, when, then, also, how, now, more, here, where</em>
 
 ### `X`
 
@@ -60,7 +60,7 @@ The most frequent other feature values with which `X` and `Abbr` co-occurred: <t
 `X` tokens may have the following values of `Abbr`:
 
 * `Yes` (22; 100% of non-empty `Abbr`): <em>al., P.S., Mlle., Ave</em>
-* `EMPTY` (397): <em>et, de, 1, 1., 2., in, 2, 3, situ, 3.</em>
+* `EMPTY` (398): <em>et, de, 1, 1., 2., in, 2, 3, situ, 3.</em>
 
 ### `ADP`
 
@@ -69,7 +69,7 @@ The most frequent other feature values with which `X` and `Abbr` co-occurred: <t
 `ADP` tokens may have the following values of `Abbr`:
 
 * `Yes` (12; 100% of non-empty `Abbr`): <em>@, vs., vs</em>
-* `EMPTY` (24412): <em>of, in, to, for, on, with, at, from, by, as</em>
+* `EMPTY` (24405): <em>of, in, to, for, on, with, at, from, by, as</em>
 
 ### `VERB`
 
@@ -80,7 +80,7 @@ The most frequent other feature values with which `VERB` and `Abbr` co-occurred:
 `VERB` tokens may have the following values of `Abbr`:
 
 * `Yes` (11; 100% of non-empty `Abbr`): <em>b., d., div., m., Wed, encl</em>
-* `EMPTY` (27161): <em>have, know, do, get, think, make, see, said, go, had</em>
+* `EMPTY` (27170): <em>have, know, do, get, think, make, see, said, go, had</em>
 
 ### `ADJ`
 
@@ -91,7 +91,7 @@ The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: 
 `ADJ` tokens may have the following values of `Abbr`:
 
 * `Yes` (9; 100% of non-empty `Abbr`): <em>OK, Eng., Epis., U., voc.</em>
-* `EMPTY` (16628): <em>other, first, new, many, good, little, more, same, such, different</em>
+* `EMPTY` (16631): <em>other, first, new, many, good, little, more, same, such, different</em>
 
 ### `INTJ`
 

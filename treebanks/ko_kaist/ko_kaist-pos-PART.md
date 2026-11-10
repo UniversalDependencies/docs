@@ -66,7 +66,7 @@ The 10 most frequent ambiguous types:  는 (<tt><a href="ko_kaist-pos-ADP.html">
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 0.994048 (the average of all parts of speech is 0.998034).
+The form / lemma ratio of `PART` is 0.994048 (the average of all parts of speech is 0.998024).
 
 The 1st highest number of forms (1) was observed with the lemma “고+엔트로피+의”: 고엔트로피의.
 

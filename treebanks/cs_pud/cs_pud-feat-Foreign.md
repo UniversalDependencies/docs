@@ -44,7 +44,7 @@ The most frequent other feature values with which `NOUN` and `Foreign` co-occurr
 
 31 <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> tokens (1% of all `ADJ` tokens) have a non-empty value of `Foreign`.
 
-The most frequent other feature values with which `ADJ` and `Foreign` co-occurred: <tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (31; 100%), <tt><a href="cs_pud-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (31; 100%), <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (29; 94%), <tt><a href="cs_pud-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (29; 94%), <tt><a href="cs_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (29; 94%), <tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (29; 94%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (29; 94%), <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (29; 94%).
+The most frequent other feature values with which `ADJ` and `Foreign` co-occurred: <tt><a href="cs_pud-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (31; 100%), <tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (31; 100%), <tt><a href="cs_pud-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (31; 100%), <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (29; 94%), <tt><a href="cs_pud-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (29; 94%), <tt><a href="cs_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (29; 94%), <tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (29; 94%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (29; 94%), <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (29; 94%).
 
 `ADJ` tokens may have the following values of `Foreign`:
 
@@ -71,7 +71,7 @@ The most frequent other feature values with which `ADP` and `Foreign` co-occurre
 `CCONJ` tokens may have the following values of `Foreign`:
 
 * `Yes` (4; 100% of non-empty `Foreign`): <em>and, If</em>
-* `EMPTY` (657): <em>a, ale, i, nebo, však, avšak, nicméně, až, ani, tedy</em>
+* `EMPTY` (650): <em>a, ale, i, nebo, však, avšak, nicméně, až, ani, tedy</em>
 
 ### `PRON`
 
@@ -93,7 +93,7 @@ The most frequent other feature values with which `ADV` and `Foreign` co-occurre
 `ADV` tokens may have the following values of `Foreign`:
 
 * `Yes` (1; 100% of non-empty `Foreign`): <em>cca</em>
-* `EMPTY` (832): <em>tak, také, jak, poté, už, kde, více, pouze, stejně, ještě</em>
+* `EMPTY` (839): <em>tak, jak, také, poté, už, kde, více, pouze, stejně, ještě</em>
 
 ## Relations with Agreement in `Foreign`
 

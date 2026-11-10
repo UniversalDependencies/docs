@@ -56,7 +56,7 @@ The 10 most frequent ambiguous types:  <em>dass</em> (<tt><a href="de_hdt-pos-SC
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.027778 (the average of all parts of speech is 1.295657).
+The form / lemma ratio of `SCONJ` is 1.027778 (the average of all parts of speech is 1.222261).
 
 The 1st highest number of forms (2) was observed with the lemma “dass”: <em>das, dass</em>.
 

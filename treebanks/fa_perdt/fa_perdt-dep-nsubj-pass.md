@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="fa_perdt-dep-nsubj.html">nsubj</a></tt>.
 
-533 nodes (0%) are attached to their parents as `nsubj:pass`.
+531 nodes (0%) are attached to their parents as `nsubj:pass`.
 
-532 instances of `nsubj:pass` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 8.69043151969981.
+530 instances of `nsubj:pass` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 8.64783427495292.
 
-The following 3 pairs of parts of speech are connected with `nsubj:pass`: <tt><a href="fa_perdt-pos-VERB.html">VERB</a></tt>-<tt><a href="fa_perdt-pos-NOUN.html">NOUN</a></tt> (484; 91% instances), <tt><a href="fa_perdt-pos-VERB.html">VERB</a></tt>-<tt><a href="fa_perdt-pos-PROPN.html">PROPN</a></tt> (37; 7% instances), <tt><a href="fa_perdt-pos-VERB.html">VERB</a></tt>-<tt><a href="fa_perdt-pos-PRON.html">PRON</a></tt> (12; 2% instances).
+The following 4 pairs of parts of speech are connected with `nsubj:pass`: <tt><a href="fa_perdt-pos-VERB.html">VERB</a></tt>-<tt><a href="fa_perdt-pos-NOUN.html">NOUN</a></tt> (481; 91% instances), <tt><a href="fa_perdt-pos-VERB.html">VERB</a></tt>-<tt><a href="fa_perdt-pos-PROPN.html">PROPN</a></tt> (37; 7% instances), <tt><a href="fa_perdt-pos-VERB.html">VERB</a></tt>-<tt><a href="fa_perdt-pos-PRON.html">PRON</a></tt> (12; 2% instances), <tt><a href="fa_perdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fa_perdt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

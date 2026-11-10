@@ -7,6 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Ukrainian-ParlaMint: Relations: `csubj`
 
 This relation is universal.
+There are 1 language-specific subtypes of `csubj`: <tt><a href="uk_parlamint-dep-csubj-outer.html">csubj:outer</a></tt>.
 
 455 nodes (0%) are attached to their parents as `csubj`.
 

@@ -9,27 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Plur`, `Sing`.
 
-266 tokens (61%) have a non-empty value of `Number`.
-191 types (78%) occur at least once with a non-empty value of `Number`.
+266 tokens (60%) have a non-empty value of `Number`.
+191 types (77%) occur at least once with a non-empty value of `Number`.
 136 lemmas (80%) occur at least once with a non-empty value of `Number`.
-The feature is used with 8 part-of-speech tags: <tt><a href="sga_dipwbg-pos-NOUN.html">NOUN</a></tt> (64; 15% instances), <tt><a href="sga_dipwbg-pos-PRON.html">PRON</a></tt> (63; 14% instances), <tt><a href="sga_dipwbg-pos-VERB.html">VERB</a></tt> (55; 13% instances), <tt><a href="sga_dipwbg-pos-AUX.html">AUX</a></tt> (32; 7% instances), <tt><a href="sga_dipwbg-pos-ADJ.html">ADJ</a></tt> (21; 5% instances), <tt><a href="sga_dipwbg-pos-ADP.html">ADP</a></tt> (18; 4% instances), <tt><a href="sga_dipwbg-pos-DET.html">DET</a></tt> (9; 2% instances), <tt><a href="sga_dipwbg-pos-PROPN.html">PROPN</a></tt> (4; 1% instances).
-
-### `NOUN`
-
-64 <tt><a href="sga_dipwbg-pos-NOUN.html">NOUN</a></tt> tokens (97% of all `NOUN` tokens) have a non-empty value of `Number`.
-
-`NOUN` tokens may have the following values of `Number`:
-
-* `Plur` (11; 17% of non-empty `Number`): <em>belre, biada, béssu, comairli, dánu, fochidi, gnímu, mban, soscéli, tol</em>
-* `Sing` (53; 83% of non-empty `Number`): <em>cenn, nem, precept, precepte, airli, carcair, chenél, chomalnad, chorp, chuimriug</em>
-* `EMPTY` (2): <em>gloria, legis</em>
-
-<table>
-  <tr><th>Paradigm <i>soiscélae</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt></tt></td><td><em>sosceli, soscéli</em></td><td><em>soscéli</em></td></tr>
-</table>
-
-`Number` seems to be **lexical feature** of `NOUN`. 98% lemmas (50) occur only with one value of `Number`.
+The feature is used with 8 part-of-speech tags: <tt><a href="sga_dipwbg-pos-PRON.html">PRON</a></tt> (63; 14% instances), <tt><a href="sga_dipwbg-pos-NOUN.html">NOUN</a></tt> (62; 14% instances), <tt><a href="sga_dipwbg-pos-VERB.html">VERB</a></tt> (55; 12% instances), <tt><a href="sga_dipwbg-pos-AUX.html">AUX</a></tt> (32; 7% instances), <tt><a href="sga_dipwbg-pos-ADJ.html">ADJ</a></tt> (21; 5% instances), <tt><a href="sga_dipwbg-pos-ADP.html">ADP</a></tt> (18; 4% instances), <tt><a href="sga_dipwbg-pos-DET.html">DET</a></tt> (9; 2% instances), <tt><a href="sga_dipwbg-pos-PROPN.html">PROPN</a></tt> (6; 1% instances).
 
 ### `PRON`
 
@@ -45,6 +28,23 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 `Number` seems to be **lexical feature** of `PRON`. 100% lemmas (23) occur only with one value of `Number`.
 
+### `NOUN`
+
+62 <tt><a href="sga_dipwbg-pos-NOUN.html">NOUN</a></tt> tokens (97% of all `NOUN` tokens) have a non-empty value of `Number`.
+
+`NOUN` tokens may have the following values of `Number`:
+
+* `Plur` (11; 18% of non-empty `Number`): <em>belre, biada, béssu, comairli, dánu, fochidi, gnímu, mban, soscéli, tol</em>
+* `Sing` (51; 82% of non-empty `Number`): <em>cenn, nem, precept, precepte, airli, carcair, chenél, chomalnad, chorp, chuimriug</em>
+* `EMPTY` (2): <em>gloria, legis</em>
+
+<table>
+  <tr><th>Paradigm <i>soiscélae</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt></tt></td><td><em>sosceli, soscéli</em></td><td><em>soscéli</em></td></tr>
+</table>
+
+`Number` seems to be **lexical feature** of `NOUN`. 98% lemmas (49) occur only with one value of `Number`.
+
 ### `VERB`
 
 55 <tt><a href="sga_dipwbg-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `Number`.
@@ -53,7 +53,7 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 `VERB` tokens may have the following values of `Number`:
 
-* `Plur` (13; 24% of non-empty `Number`): <em>amlid, chretsit, fulsam, gaibid, gessam, gigeste, nducaid, nropridchissem, riat, rocomalnisid</em>
+* `Plur` (13; 24% of non-empty `Number`): <em>amlid, chretsit, comalnisid, fulsam, gaibid, gessam, gigeste, nducaid, pridchissem, riat</em>
 * `Sing` (42; 76% of non-empty `Number`): <em>tá, ail, anicc, arim, beir, beo, bera, bered, berinn, bia</em>
 
 <table>
@@ -150,12 +150,12 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 
 ### `PROPN`
 
-4 <tt><a href="sga_dipwbg-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `Number`.
+6 <tt><a href="sga_dipwbg-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `Number`.
 
 `PROPN` tokens may have the following values of `Number`:
 
-* `Plur` (1; 25% of non-empty `Number`): <em>maccidóndu</em>
-* `Sing` (3; 75% of non-empty `Number`): <em>abracham, crist, moysi</em>
+* `Plur` (1; 17% of non-empty `Number`): <em>maccidóndu</em>
+* `Sing` (5; 83% of non-empty `Number`): <em>abracham, crist, dia, moysi, ṅ dǽ</em>
 
 ## Relations with Agreement in `Number`
 
@@ -164,10 +164,10 @@ The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>ADJ --[<tt><a href="sga_dipwbg-dep-nsubj.html">nsubj</a></tt>]--> AUX</tt> (13; 93%),
 <tt>NOUN --[<tt><a href="sga_dipwbg-dep-nmod-poss.html">nmod:poss</a></tt>]--> PRON</tt> (13; 65%),
 <tt>VERB --[<tt><a href="sga_dipwbg-dep-amod.html">amod</a></tt>]--> PRON</tt> (13; 100%),
-<tt>NOUN --[<tt><a href="sga_dipwbg-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (7; 54%),
 <tt>ADP --[<tt><a href="sga_dipwbg-dep-amod.html">amod</a></tt>]--> PRON</tt> (6; 100%),
 <tt>VERB --[<tt><a href="sga_dipwbg-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (6; 67%),
 <tt>VERB --[<tt><a href="sga_dipwbg-dep-conj.html">conj</a></tt>]--> VERB</tt> (6; 86%),
 <tt>NOUN --[<tt><a href="sga_dipwbg-dep-amod.html">amod</a></tt>]--> ADJ</tt> (5; 83%),
-<tt>NOUN --[<tt><a href="sga_dipwbg-dep-det.html">det</a></tt>]--> DET</tt> (5; 100%).
+<tt>NOUN --[<tt><a href="sga_dipwbg-dep-det.html">det</a></tt>]--> DET</tt> (5; 100%),
+<tt>NOUN --[<tt><a href="sga_dipwbg-dep-nsubj.html">nsubj</a></tt>]--> AUX</tt> (5; 100%).
 

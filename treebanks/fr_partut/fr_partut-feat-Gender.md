@@ -60,7 +60,7 @@ The most frequent other feature values with which `DET` and `Gender` co-occurred
 
 1309 <tt><a href="fr_partut-pos-ADJ.html">ADJ</a></tt> tokens (71% of all `ADJ` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="fr_partut-feat-Number.html">Number</a></tt><tt>=Sing</tt> (818; 62%).
+The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="fr_partut-feat-Number.html">Number</a></tt><tt>=Sing</tt> (817; 62%).
 
 `ADJ` tokens may have the following values of `Gender`:
 
@@ -101,7 +101,7 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 
 * `Fem` (86; 19% of non-empty `Gender`): <em>elle, elles, laquelle, celle, lesquelles, une, celle-ci, la, aucune, celles</em>
 * `Masc` (369; 81% of non-empty `Gender`): <em>il, on, ils, le, ceux, chacun, tous, l'on, -il, Nul</em>
-* `EMPTY` (1154): <em>qui, nous, je, vous, ce, s', se, c', que, y</em>
+* `EMPTY` (1166): <em>qui, nous, je, vous, ce, s', y, se, c', que</em>
 
 <table>
   <tr><th>Paradigm <i>lui</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
@@ -135,12 +135,12 @@ The most frequent other feature values with which `AUX` and `Gender` co-occurred
 The 10 most frequent relations where parent and child node agree in `Gender`:
 <tt>NOUN --[<tt><a href="fr_partut-dep-det.html">det</a></tt>]--> DET</tt> (2639; 59%),
 <tt>NOUN --[<tt><a href="fr_partut-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1063; 73%),
-<tt>NOUN --[<tt><a href="fr_partut-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1020; 50%),
-<tt>NOUN --[<tt><a href="fr_partut-dep-conj.html">conj</a></tt>]--> NOUN</tt> (276; 54%),
-<tt>NOUN --[<tt><a href="fr_partut-dep-acl.html">acl</a></tt>]--> VERB</tt> (233; 52%),
+<tt>NOUN --[<tt><a href="fr_partut-dep-conj.html">conj</a></tt>]--> NOUN</tt> (279; 55%),
+<tt>NOUN --[<tt><a href="fr_partut-dep-acl.html">acl</a></tt>]--> VERB</tt> (230; 53%),
 <tt>VERB --[<tt><a href="fr_partut-dep-nsubj-pass.html">nsubj:pass</a></tt>]--> NOUN</tt> (123; 78%),
 <tt>NOUN --[<tt><a href="fr_partut-dep-compound.html">compound</a></tt>]--> NOUN</tt> (60; 91%),
 <tt>ADJ --[<tt><a href="fr_partut-dep-conj.html">conj</a></tt>]--> ADJ</tt> (42; 55%),
 <tt>ADJ --[<tt><a href="fr_partut-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (40; 63%),
-<tt>NOUN --[<tt><a href="fr_partut-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (24; 53%).
+<tt>NOUN --[<tt><a href="fr_partut-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (24; 53%),
+<tt>PRON --[<tt><a href="fr_partut-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (23; 56%).
 

@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_English-CHILDES: POS Tags: `INTJ`
 
-There are 260 `INTJ` lemmas (4%), 257 `INTJ` types (3%) and 8667 `INTJ` tokens (3%).
+There are 259 `INTJ` lemmas (4%), 256 `INTJ` types (3%) and 8667 `INTJ` tokens (3%).
 Out of 17 observed tags, the rank of `INTJ` is: 6 in number of lemmas, 6 in number of types and 11 in number of tokens.
 
 The 10 most frequent `INTJ` lemmas: <em>oh, no, yes, yeah, well, um, okay, hey, please, uh</em>
@@ -64,7 +64,7 @@ The 10 most frequent ambiguous types:  <em>oh</em> (<tt><a href="en_childes-pos-
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 0.988462 (the average of all parts of speech is 1.232942).
+The form / lemma ratio of `INTJ` is 0.988417 (the average of all parts of speech is 1.233097).
 
 The 1st highest number of forms (2) was observed with the lemma “a”: <em>a, ay</em>.
 
@@ -85,7 +85,7 @@ Examples: <em>oh, no, yes, yeah, well, um, okay, hey, please, uh</em>
 
 `INTJ` nodes are attached to their parents using 23 different relations: <tt><a href="en_childes-dep-discourse.html">discourse</a></tt> (6859; 79% instances), <tt><a href="en_childes-dep-root.html">root</a></tt> (790; 9% instances), <tt><a href="en_childes-dep-conj.html">conj</a></tt> (379; 4% instances), <tt><a href="en_childes-dep-flat.html">flat</a></tt> (211; 2% instances), <tt><a href="en_childes-dep-compound.html">compound</a></tt> (104; 1% instances), <tt><a href="en_childes-dep-nsubj.html">nsubj</a></tt> (82; 1% instances), <tt><a href="en_childes-dep-obj.html">obj</a></tt> (62; 1% instances), <tt><a href="en_childes-dep-parataxis.html">parataxis</a></tt> (46; 1% instances), <tt><a href="en_childes-dep-vocative.html">vocative</a></tt> (46; 1% instances), <tt><a href="en_childes-dep-reparandum.html">reparandum</a></tt> (32; 0% instances), <tt><a href="en_childes-dep-case.html">case</a></tt> (26; 0% instances), <tt><a href="en_childes-dep-obl.html">obl</a></tt> (6; 0% instances), <tt><a href="en_childes-dep-ccomp.html">ccomp</a></tt> (5; 0% instances), <tt><a href="en_childes-dep-dislocated.html">dislocated</a></tt> (3; 0% instances), <tt><a href="en_childes-dep-nmod.html">nmod</a></tt> (3; 0% instances), <tt><a href="en_childes-dep-xcomp.html">xcomp</a></tt> (3; 0% instances), <tt><a href="en_childes-dep-dep.html">dep</a></tt> (2; 0% instances), <tt><a href="en_childes-dep-list.html">list</a></tt> (2; 0% instances), <tt><a href="en_childes-dep-nsubj-outer.html">nsubj:outer</a></tt> (2; 0% instances), <tt><a href="en_childes-dep-acl-relcl.html">acl:relcl</a></tt> (1; 0% instances), <tt><a href="en_childes-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="en_childes-dep-compound-prt.html">compound:prt</a></tt> (1; 0% instances), <tt><a href="en_childes-dep-nsubj-pass.html">nsubj:pass</a></tt> (1; 0% instances)
 
-Parents of `INTJ` nodes belong to 17 different parts of speech: <tt><a href="en_childes-pos-VERB.html">VERB</a></tt> (3880; 45% instances), <tt><a href="en_childes-pos-NOUN.html">NOUN</a></tt> (1292; 15% instances), <tt><a href="en_childes-pos-INTJ.html">INTJ</a></tt> (970; 11% instances),  (790; 9% instances), <tt><a href="en_childes-pos-ADJ.html">ADJ</a></tt> (488; 6% instances), <tt><a href="en_childes-pos-PRON.html">PRON</a></tt> (343; 4% instances), <tt><a href="en_childes-pos-AUX.html">AUX</a></tt> (282; 3% instances), <tt><a href="en_childes-pos-ADV.html">ADV</a></tt> (260; 3% instances), <tt><a href="en_childes-pos-PROPN.html">PROPN</a></tt> (195; 2% instances), <tt><a href="en_childes-pos-NUM.html">NUM</a></tt> (54; 1% instances), <tt><a href="en_childes-pos-DET.html">DET</a></tt> (29; 0% instances), <tt><a href="en_childes-pos-SCONJ.html">SCONJ</a></tt> (20; 0% instances), <tt><a href="en_childes-pos-ADP.html">ADP</a></tt> (18; 0% instances), <tt><a href="en_childes-pos-CCONJ.html">CCONJ</a></tt> (16; 0% instances), <tt><a href="en_childes-pos-PART.html">PART</a></tt> (16; 0% instances), <tt><a href="en_childes-pos-PUNCT.html">PUNCT</a></tt> (10; 0% instances), <tt><a href="en_childes-pos-SYM.html">SYM</a></tt> (4; 0% instances)
+Parents of `INTJ` nodes belong to 17 different parts of speech: <tt><a href="en_childes-pos-VERB.html">VERB</a></tt> (3879; 45% instances), <tt><a href="en_childes-pos-NOUN.html">NOUN</a></tt> (1292; 15% instances), <tt><a href="en_childes-pos-INTJ.html">INTJ</a></tt> (970; 11% instances),  (790; 9% instances), <tt><a href="en_childes-pos-ADJ.html">ADJ</a></tt> (489; 6% instances), <tt><a href="en_childes-pos-PRON.html">PRON</a></tt> (343; 4% instances), <tt><a href="en_childes-pos-AUX.html">AUX</a></tt> (282; 3% instances), <tt><a href="en_childes-pos-ADV.html">ADV</a></tt> (260; 3% instances), <tt><a href="en_childes-pos-PROPN.html">PROPN</a></tt> (195; 2% instances), <tt><a href="en_childes-pos-NUM.html">NUM</a></tt> (54; 1% instances), <tt><a href="en_childes-pos-DET.html">DET</a></tt> (29; 0% instances), <tt><a href="en_childes-pos-SCONJ.html">SCONJ</a></tt> (20; 0% instances), <tt><a href="en_childes-pos-ADP.html">ADP</a></tt> (18; 0% instances), <tt><a href="en_childes-pos-CCONJ.html">CCONJ</a></tt> (16; 0% instances), <tt><a href="en_childes-pos-PART.html">PART</a></tt> (16; 0% instances), <tt><a href="en_childes-pos-PUNCT.html">PUNCT</a></tt> (10; 0% instances), <tt><a href="en_childes-pos-SYM.html">SYM</a></tt> (4; 0% instances)
 
 7516 (87%) `INTJ` nodes are leaves.
 

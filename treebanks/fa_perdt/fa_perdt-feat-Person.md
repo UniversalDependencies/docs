@@ -112,9 +112,9 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 The 10 most frequent relations where parent and child node agree in `Person`:
 <tt>VERB --[<tt><a href="fa_perdt-dep-aux.html">aux</a></tt>]--> AUX</tt> (8890; 70%),
 <tt>VERB --[<tt><a href="fa_perdt-dep-conj.html">conj</a></tt>]--> VERB</tt> (7560; 91%),
-<tt>VERB --[<tt><a href="fa_perdt-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (3448; 75%),
+<tt>VERB --[<tt><a href="fa_perdt-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (3447; 74%),
 <tt>VERB --[<tt><a href="fa_perdt-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (3242; 81%),
-<tt>VERB --[<tt><a href="fa_perdt-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (1824; 69%),
+<tt>VERB --[<tt><a href="fa_perdt-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (1823; 69%),
 <tt>VERB --[<tt><a href="fa_perdt-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (816; 97%),
 <tt>PRON --[<tt><a href="fa_perdt-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (618; 91%),
 <tt>VERB --[<tt><a href="fa_perdt-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (74; 91%),

@@ -12,7 +12,7 @@ It occurs with 4 different values: `Combi`, `Digit`, `Roman`, `Word`.
 5502 tokens (2%) have a non-empty value of `NumForm`.
 865 types (5%) occur at least once with a non-empty value of `NumForm`.
 824 lemmas (5%) occur at least once with a non-empty value of `NumForm`.
-The feature is used with 6 part-of-speech tags: <tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (4624; 2% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (535; 0% instances), <tt><a href="en_gum-pos-ADV.html">ADV</a></tt> (200; 0% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (128; 0% instances), <tt><a href="en_gum-pos-DET.html">DET</a></tt> (13; 0% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (2; 0% instances).
+The feature is used with 6 part-of-speech tags: <tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (4624; 2% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (535; 0% instances), <tt><a href="en_gum-pos-ADV.html">ADV</a></tt> (200; 0% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (129; 0% instances), <tt><a href="en_gum-pos-DET.html">DET</a></tt> (12; 0% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (2; 0% instances).
 
 ### `NUM`
 
@@ -56,26 +56,26 @@ The most frequent other feature values with which `ADV` and `NumForm` co-occurre
 
 ### `NOUN`
 
-128 <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `NumForm`.
+129 <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `NumForm`.
 
-The most frequent other feature values with which `NOUN` and `NumForm` co-occurred: <tt><a href="en_gum-feat-Number.html">Number</a></tt><tt>=Sing</tt> (77; 60%).
+The most frequent other feature values with which `NOUN` and `NumForm` co-occurred: <tt><a href="en_gum-feat-Number.html">Number</a></tt><tt>=Sing</tt> (78; 60%).
 
 `NOUN` tokens may have the following values of `NumForm`:
 
 * `Combi` (41; 32% of non-empty `NumForm`): <em>1960s, 1970s, 1980s, 1990s, 1830s, 1950s, 1920s, 1930s, 1940s, 2000s</em>
-* `Word` (87; 68% of non-empty `NumForm`): <em>half, quarter, third, thirds, quarters, fifth, fifths, halves, hundredths, millionth</em>
+* `Word` (88; 68% of non-empty `NumForm`): <em>half, quarter, third, thirds, quarters, fifth, fifths, halves, hundredths, millionth</em>
 
 `NumForm` seems to be **lexical feature** of `NOUN`. 100% lemmas (22) occur only with one value of `NumForm`.
 
 ### `DET`
 
-13 <tt><a href="en_gum-pos-DET.html">DET</a></tt> tokens (0% of all `DET` tokens) have a non-empty value of `NumForm`.
+12 <tt><a href="en_gum-pos-DET.html">DET</a></tt> tokens (0% of all `DET` tokens) have a non-empty value of `NumForm`.
 
-The most frequent other feature values with which `DET` and `NumForm` co-occurred: <tt><a href="en_gum-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (13; 100%), <tt><a href="en_gum-feat-PronType.html">PronType</a></tt><tt>=Ind</tt> (13; 100%).
+The most frequent other feature values with which `DET` and `NumForm` co-occurred: <tt><a href="en_gum-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (12; 100%), <tt><a href="en_gum-feat-PronType.html">PronType</a></tt><tt>=Ind</tt> (12; 100%).
 
 `DET` tokens may have the following values of `NumForm`:
 
-* `Word` (13; 100% of non-empty `NumForm`): <em>half</em>
+* `Word` (12; 100% of non-empty `NumForm`): <em>half</em>
 
 ### `PROPN`
 

@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 3 language-specific subtypes of `advmod`: <tt><a href="ruc_rdt-dep-advmod-cop.html">advmod:cop</a></tt>, <tt><a href="ruc_rdt-dep-advmod-emph.html">advmod:emph</a></tt>, <tt><a href="ruc_rdt-dep-advmod-loc.html">advmod:loc</a></tt>.
 
-300 nodes (5%) are attached to their parents as `advmod`.
+325 nodes (4%) are attached to their parents as `advmod`.
 
-175 instances of `advmod` (58%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.62333333333333.
+191 instances of `advmod` (59%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.59384615384615.
 
-The following 10 pairs of parts of speech are connected with `advmod`: <tt><a href="ruc_rdt-pos-VERB.html">VERB</a></tt>-<tt><a href="ruc_rdt-pos-ADV.html">ADV</a></tt> (232; 77% instances), <tt><a href="ruc_rdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ruc_rdt-pos-ADV.html">ADV</a></tt> (21; 7% instances), <tt><a href="ruc_rdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ruc_rdt-pos-ADV.html">ADV</a></tt> (19; 6% instances), <tt><a href="ruc_rdt-pos-ADV.html">ADV</a></tt>-<tt><a href="ruc_rdt-pos-ADV.html">ADV</a></tt> (9; 3% instances), <tt><a href="ruc_rdt-pos-PRON.html">PRON</a></tt>-<tt><a href="ruc_rdt-pos-ADV.html">ADV</a></tt> (7; 2% instances), <tt><a href="ruc_rdt-pos-AUX.html">AUX</a></tt>-<tt><a href="ruc_rdt-pos-ADV.html">ADV</a></tt> (5; 2% instances), <tt><a href="ruc_rdt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ruc_rdt-pos-ADV.html">ADV</a></tt> (3; 1% instances), <tt><a href="ruc_rdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ruc_rdt-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="ruc_rdt-pos-NUM.html">NUM</a></tt>-<tt><a href="ruc_rdt-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ruc_rdt-pos-VERB.html">VERB</a></tt>-<tt><a href="ruc_rdt-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `advmod`: <tt><a href="ruc_rdt-pos-VERB.html">VERB</a></tt>-<tt><a href="ruc_rdt-pos-ADV.html">ADV</a></tt> (250; 77% instances), <tt><a href="ruc_rdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ruc_rdt-pos-ADV.html">ADV</a></tt> (24; 7% instances), <tt><a href="ruc_rdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ruc_rdt-pos-ADV.html">ADV</a></tt> (21; 6% instances), <tt><a href="ruc_rdt-pos-ADV.html">ADV</a></tt>-<tt><a href="ruc_rdt-pos-ADV.html">ADV</a></tt> (10; 3% instances), <tt><a href="ruc_rdt-pos-PRON.html">PRON</a></tt>-<tt><a href="ruc_rdt-pos-ADV.html">ADV</a></tt> (7; 2% instances), <tt><a href="ruc_rdt-pos-AUX.html">AUX</a></tt>-<tt><a href="ruc_rdt-pos-ADV.html">ADV</a></tt> (6; 2% instances), <tt><a href="ruc_rdt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ruc_rdt-pos-ADV.html">ADV</a></tt> (3; 1% instances), <tt><a href="ruc_rdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ruc_rdt-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="ruc_rdt-pos-NUM.html">NUM</a></tt>-<tt><a href="ruc_rdt-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ruc_rdt-pos-VERB.html">VERB</a></tt>-<tt><a href="ruc_rdt-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

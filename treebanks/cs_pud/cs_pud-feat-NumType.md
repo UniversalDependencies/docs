@@ -30,7 +30,7 @@ The most frequent other feature values with which `NUM` and `NumType` co-occurre
 
 76 <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> tokens (3% of all `ADJ` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `ADJ` and `NumType` co-occurred: <tt><a href="cs_pud-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (76; 100%), <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (76; 100%), <tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (76; 100%), <tt><a href="cs_pud-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (76; 100%), <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (60; 79%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (60; 79%).
+The most frequent other feature values with which `ADJ` and `NumType` co-occurred: <tt><a href="cs_pud-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (76; 100%), <tt><a href="cs_pud-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (76; 100%), <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (76; 100%), <tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (76; 100%), <tt><a href="cs_pud-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (76; 100%), <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (60; 79%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (60; 79%).
 
 `ADJ` tokens may have the following values of `NumType`:
 
@@ -61,7 +61,7 @@ The most frequent other feature values with which `ADV` and `NumType` co-occurre
 
 * `Mult` (8; 50% of non-empty `NumType`): <em>třikrát, dvakrát, jednou, několikrát, mnohokrát</em>
 * `Ord` (8; 50% of non-empty `NumType`): <em>poprvé, podruhé</em>
-* `EMPTY` (817): <em>tak, také, jak, poté, už, kde, více, pouze, stejně, ještě</em>
+* `EMPTY` (824): <em>tak, jak, také, poté, už, kde, více, pouze, stejně, ještě</em>
 
 ## Relations with Agreement in `NumType`
 

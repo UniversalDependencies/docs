@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.11 release
 The following people have contributed to making this treebank part of UD: Leonel Figueiredo de Alencar, Dominick Maia Alexandre.
 
 Repository: [UD_Nheengatu-CompLin](https://github.com/UniversalDependencies/UD_Nheengatu-CompLin)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udyrl_complin218)<br />
-Download all treebanks: [UD 2.18](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udyrl_complin219)<br />
+Download all treebanks: [UD 2.19](/#download)
 
 License: CC BY-NC-SA 4.0
 
@@ -1098,10 +1098,10 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB-Fin--NOUN (922)</li>
+      <li>VERB-Fin--NOUN (920)</li>
       <li>VERB-Fin--PRON (227)</li>
       <li>VERB-Fin--PRON-Acc,Nom (571)</li>
-      <li>VERB-Fin--PRON-Gen (96)</li>
+      <li>VERB-Fin--PRON-Gen (95)</li>
       <li>VERB-Inf--NOUN (40)</li>
       <li>VERB-Inf--PRON (4)</li>
       <li>VERB-Inf--PRON-Acc,Nom (15)</li>
@@ -1114,7 +1114,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB-Fin--NOUN (1057)</li>
+      <li>VERB-Fin--NOUN (1058)</li>
       <li>VERB-Fin--NOUN-ADP(resé) (3)</li>
       <li>VERB-Fin--PRON (212)</li>
       <li>VERB-Fin--PRON-ADP(irũ) (1)</li>

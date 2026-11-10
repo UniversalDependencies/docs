@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>Antarktidu</em> (<tt><a href="cs_pud-
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.142497 (the average of all parts of speech is 1.426064).
+The form / lemma ratio of `PROPN` is 1.142497 (the average of all parts of speech is 1.426223).
 
 The 1st highest number of forms (4) was observed with the lemma “Morava”: <em>Morava, Moravou, Moravu, Moravy</em>.
 

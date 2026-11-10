@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-153 nodes (5%) are attached to their parents as `obl`.
+151 nodes (5%) are attached to their parents as `obl`.
 
-143 instances of `obl` (93%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.73202614379085.
+141 instances of `obl` (93%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.74172185430464.
 
-The following 11 pairs of parts of speech are connected with `obl`: <tt><a href="nmf_suansu-pos-VERB.html">VERB</a></tt>-<tt><a href="nmf_suansu-pos-NOUN.html">NOUN</a></tt> (111; 73% instances), <tt><a href="nmf_suansu-pos-VERB.html">VERB</a></tt>-<tt><a href="nmf_suansu-pos-PRON.html">PRON</a></tt> (21; 14% instances), <tt><a href="nmf_suansu-pos-VERB.html">VERB</a></tt>-<tt><a href="nmf_suansu-pos-PROPN.html">PROPN</a></tt> (9; 6% instances), <tt><a href="nmf_suansu-pos-AUX.html">AUX</a></tt>-<tt><a href="nmf_suansu-pos-NOUN.html">NOUN</a></tt> (3; 2% instances), <tt><a href="nmf_suansu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nmf_suansu-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="nmf_suansu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nmf_suansu-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="nmf_suansu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nmf_suansu-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="nmf_suansu-pos-PRON.html">PRON</a></tt>-<tt><a href="nmf_suansu-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="nmf_suansu-pos-VERB.html">VERB</a></tt>-<tt><a href="nmf_suansu-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="nmf_suansu-pos-VERB.html">VERB</a></tt>-<tt><a href="nmf_suansu-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="nmf_suansu-pos-VERB.html">VERB</a></tt>-<tt><a href="nmf_suansu-pos-VERB.html">VERB</a></tt> (1; 1% instances).
+The following 11 pairs of parts of speech are connected with `obl`: <tt><a href="nmf_suansu-pos-VERB.html">VERB</a></tt>-<tt><a href="nmf_suansu-pos-NOUN.html">NOUN</a></tt> (111; 74% instances), <tt><a href="nmf_suansu-pos-VERB.html">VERB</a></tt>-<tt><a href="nmf_suansu-pos-PRON.html">PRON</a></tt> (19; 13% instances), <tt><a href="nmf_suansu-pos-VERB.html">VERB</a></tt>-<tt><a href="nmf_suansu-pos-PROPN.html">PROPN</a></tt> (9; 6% instances), <tt><a href="nmf_suansu-pos-AUX.html">AUX</a></tt>-<tt><a href="nmf_suansu-pos-NOUN.html">NOUN</a></tt> (3; 2% instances), <tt><a href="nmf_suansu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nmf_suansu-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="nmf_suansu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nmf_suansu-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="nmf_suansu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nmf_suansu-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="nmf_suansu-pos-PRON.html">PRON</a></tt>-<tt><a href="nmf_suansu-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="nmf_suansu-pos-VERB.html">VERB</a></tt>-<tt><a href="nmf_suansu-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="nmf_suansu-pos-VERB.html">VERB</a></tt>-<tt><a href="nmf_suansu-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="nmf_suansu-pos-VERB.html">VERB</a></tt>-<tt><a href="nmf_suansu-pos-VERB.html">VERB</a></tt> (1; 1% instances).
 
 
 ~~~ conllu

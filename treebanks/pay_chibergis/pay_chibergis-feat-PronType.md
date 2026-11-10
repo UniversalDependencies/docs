@@ -23,7 +23,7 @@ The most frequent other feature values with which `ADP` and `PronType` co-occurr
 `ADP` tokens may have the following values of `PronType`:
 
 * `Int` (1; 100% of non-empty `PronType`): <em>=kanki</em>
-* `EMPTY` (261): <em>=yã, =yo, =ra, =ri, =ma, =ya, =ken, =ro, =kan, =re</em>
+* `EMPTY` (269): <em>=yã, =yo, =ri, =ra, =ma, =ya, =ken, =ro, =kan, =re</em>
 
 ### `PART`
 
@@ -32,5 +32,5 @@ The most frequent other feature values with which `ADP` and `PronType` co-occurr
 `PART` tokens may have the following values of `PronType`:
 
 * `Int` (1; 100% of non-empty `PronType`): <em>=kanka</em>
-* `EMPTY` (556): <em>=ma, =kan, =hã, =na, =pe, ãma, =ras, =ken, =sa, ĩka</em>
+* `EMPTY` (564): <em>=ma, =kan, =hã, =na, =pe, ãma, =ras, =ken, =sa, ĩka</em>
 

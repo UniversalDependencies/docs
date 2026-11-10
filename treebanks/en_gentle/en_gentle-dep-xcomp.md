@@ -31,12 +31,12 @@ The following 9 pairs of parts of speech are connected with `xcomp`: <tt><a href
 7	if	if	SCONJ	IN	_	11	mark	11:mark	Discourse=contingency-condition:48->47:0:dm-if-243-gold|PDTB=Explicit:Contingency.Condition.Arg2-as-cond:if:243:237-242:244-252
 8	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nsubj	11:nsubj|13:nsubj:xsubj	Entity=(63-person-acc:com-nnnnn-cf2-1-coref)
 9	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux	11:aux	_
-10	ever	ever	ADV	RB	Degree=Pos	11	advmod	11:advmod	_
+10	ever	ever	ADV	RB	Degree=Pos|PronType=Tot	11	advmod	11:advmod	_
 11	going	go	VERB	VBG	Tense=Pres|VerbForm=Part	4	advcl	4:advcl:if	CxnElt=4:Conditional-UnspecifiedEpistemic-NoInversion.Protasis|MSeg=go-ing
 12	to	to	PART	TO	_	13	mark	13:mark	_
 13	win	win	VERB	VB	VerbForm=Inf	11	xcomp	11:xcomp	_
 14	her	she	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	13	obj	13:obj	Entity=(65-person-giv:act-nnnnn-cf1-1-ana)
-15	back	back	ADV	RB	Degree=Pos	13	advmod	13:advmod	SpaceAfter=No
+15	back	back	ADV	RB	_	13	advmod	13:advmod	SpaceAfter=No
 16	.	.	PUNCT	.	_	2	punct	2:punct	_
 
 ~~~

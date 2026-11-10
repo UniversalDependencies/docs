@@ -55,12 +55,12 @@ The following 9 pairs of parts of speech are connected with `compound`: <tt><a h
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 3 compound	color:blue
-1	ഈ	ഈ	DET	_	Deixis=Prox|PronType=Dem	2	det	_	Translit=ī|LTranslit=ī
-2	ആളെ	ആള്	NOUN	_	Animacy=Anim|Case=Acc|Number=Sing	9	obj	_	Translit=āḷe|LTranslit=āḷ
+1	ഈ	ഈ	DET	_	Deixis=Prox|PronType=Dem	2	det	_	LTranslit=ī|Translit=ī
+2	ആളെ	ആള്	NOUN	_	Animacy=Anim|Case=Acc|Number=Sing	9	obj	_	LTranslit=āḷ|Translit=āḷe
 3	പോക്‌സോ	പോക്‌സോ	PROPN	_	Animacy=Inan|Case=Nom|Number=Sing	4	compound	_	Translit=pōksō|LTranslit=pōksō
 4	കേസ്	കേസ്	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	5	obj	_	Translit=kēs|LTranslit=kēs
-5	ചുമത്തി	ചുമത്തുക	VERB	_	Tense=Past|VerbForm=Part	9	compound:svc	_	Translit=cumatti|LTranslit=cumattuka
-6	ആണ്	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin	5	cop:emph	_	Translit=āṇ|LTranslit=āk
+5	ചുമത്തി	ചുമത്തുക	VERB	_	Tense=Past|VerbForm=Part	9	compound:svc	_	LTranslit=cumattuka|Translit=cumatti
+6	ആണ്	ആക്	AUX	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin	5	cop:emph	_	LTranslit=āk|Translit=āṇ
 7	പോലീസ്	പോലീസ്	NOUN	_	Animacy=Anim|Case=Nom|Number=Sing	9	nsubj	_	Translit=pōlīs|LTranslit=pōlīs
 8	അറസ്റ്റു	അറസ്റ്റു	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	9	compound	_	Translit=aṟasṟṟu|LTranslit=aṟasṟṟu
 9	ചെയ്തത്	ചെയ്യുക	VERB	_	Polarity=Pos|Tense=Past|VerbForm=Vnoun|Voice=Act	0	root	_	SpaceAfter=No|Translit=ceytat|LTranslit=ceyyuka

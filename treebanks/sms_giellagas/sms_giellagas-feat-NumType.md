@@ -11,7 +11,7 @@ It occurs with 2 different values: `Card`, `Ord`.
 
 22 tokens (1%) have a non-empty value of `NumType`.
 11 types (1%) occur at least once with a non-empty value of `NumType`.
-8 lemmas (2%) occur at least once with a non-empty value of `NumType`.
+8 lemmas (1%) occur at least once with a non-empty value of `NumType`.
 The feature is used with 2 part-of-speech tags: <tt><a href="sms_giellagas-pos-NUM.html">NUM</a></tt> (17; 1% instances), <tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt> (5; 0% instances).
 
 ### `NUM`
@@ -26,12 +26,12 @@ The most frequent other feature values with which `NUM` and `NumType` co-occurre
 
 ### `ADJ`
 
-5 <tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt> tokens (13% of all `ADJ` tokens) have a non-empty value of `NumType`.
+5 <tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt> tokens (12% of all `ADJ` tokens) have a non-empty value of `NumType`.
 
 The most frequent other feature values with which `ADJ` and `NumType` co-occurred: <tt><a href="sms_giellagas-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (4; 80%), <tt><a href="sms_giellagas-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (4; 80%).
 
 `ADJ` tokens may have the following values of `NumType`:
 
 * `Ord` (5; 100% of non-empty `NumType`): <em>kuälmad, nuuʹbb</em>
-* `EMPTY` (35): <em>nåkkam, jõnn, šiõǥǥ, nuuʹbb, nuʹbb, tiõrvâs, ekksaž, jåʹttel, kaađâš, kuuʹǩǩ</em>
+* `EMPTY` (38): <em>nåkkam, jõnn, šiõǥǥ, nuuʹbb, nuʹbb, tiõrvâs, 28., Jeeʹres, ekksaž, jåʹttel</em>
 

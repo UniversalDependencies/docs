@@ -24,7 +24,7 @@ The most frequent other feature values with which `ADP` and `Degree` co-occurred
 
 * `Cmp` (12; 80% of non-empty `Degree`): <em>=ka</em>
 * `Equ` (3; 20% of non-empty `Degree`): <em>=eːt, =jeːt</em>
-* `EMPTY` (752): <em>=i, dhaːj, hoːj, =iːb, haːj, =ka, =da, =iː, =eːb, dh</em>
+* `EMPTY` (749): <em>=i, dhaːj, hoːj, =iːb, haːj, =ka, =da, =iː, =eːb, dh</em>
 
 ### `DET`
 
@@ -35,7 +35,7 @@ The most frequent other feature values with which `DET` and `Degree` co-occurred
 `DET` tokens may have the following values of `Degree`:
 
 * `Dim` (3; 100% of non-empty `Degree`): <em>=t</em>
-* `EMPTY` (1733): <em>=t, i=, oː=, w=, ti=, uː=, oːn, t=, uːn, j=</em>
+* `EMPTY` (1727): <em>=t, i=, oː=, w=, ti=, uː=, oːn, t=, uːn, j=</em>
 
 ### `VERB`
 
@@ -46,7 +46,7 @@ The most frequent other feature values with which `VERB` and `Degree` co-occurre
 `VERB` tokens may have the following values of `Degree`:
 
 * `Dim` (2; 100% of non-empty `Degree`): <em>daːwliiseːtiːt, liːgami</em>
-* `EMPTY` (2406): <em>eːn, indi, ini, jʔi, tindi, iːfi, jʔeːn, jʔeːtiːt, iːbri, akeːna</em>
+* `EMPTY` (2403): <em>eːn, indi, ini, jʔi, tindi, iːfi, jʔeːn, jʔeːtiːt, iːbri, akeːna</em>
 
 ### `ADJ`
 
@@ -66,5 +66,10 @@ The most frequent other feature values with which `NOUN` and `Degree` co-occurre
 `NOUN` tokens may have the following values of `Degree`:
 
 * `Dim` (1; 100% of non-empty `Degree`): <em>liːgamanaː</em>
-* `EMPTY` (1718): <em>tak, doːr, ʔar, mhiːn, naː, na, dhaj, kaːm, lhaweː, ʔoːr</em>
+* `EMPTY` (1715): <em>tak, doːr, ʔar, mhiːn, naː, na, dhaj, kaːm, lhaweː, ʔoːr</em>
+
+## Relations with Agreement in `Degree`
+
+The 10 most frequent relations where parent and child node agree in `Degree`:
+<tt>VERB --[<tt><a href="bej_autogramm-dep-vocative.html">vocative</a></tt>]--> NOUN</tt> (1; 100%).
 

@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.13 release
 The following people have contributed to making this treebank part of UD: Claudia Corbetta, Marco Passarotti, Flavio Massimiliano Cecchini, Giovanni Moretti.
 
 Repository: [UD_Italian-Old](https://github.com/UniversalDependencies/UD_Italian-Old)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udit_old218)<br />
-Download all treebanks: [UD 2.18](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udit_old219)<br />
+Download all treebanks: [UD 2.19](/#download)
 
 License: CC BY-SA 4.0
 
@@ -29,7 +29,7 @@ Genre: poetry
 Questions, comments?
 General annotation questions (either Italian-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
 You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Italian-Old/issues).
-If you want to collaborate, please contact [claudia&nbsp;•&nbsp;corbetta&nbsp;(æt)&nbsp;unibg&nbsp;•&nbsp;it].
+If you want to collaborate, please contact [claudia&nbsp;•&nbsp;corbetta&nbsp;(æt)&nbsp;univr&nbsp;•&nbsp;it].
 Development of the treebank happens directly in the UD repository, so you may submit bug fixes as pull requests against the dev branch.
 
 | Annotation | Source |
@@ -67,7 +67,7 @@ The distribution of Paradiso (tokens: 39 393) with respect to the subsets is as 
 
 The treebank also includes enhanced dependencies annotation, with a specific focus on the `orphan` dependency relation. For the criteria adopted in the enhanced annotation, please refer to the paper "«Are you Afraid of Ghosts?» A Proposal for Busting Predicate Ellipsis in Universal Dependencies" (Corbetta et al., 2025).
 
-**!! Italian-Old treebank is still under revision to check for mistakes and inconsistencies throughout the annotation of the Cantiche; therefore, its structure is subject to change. If you use the resource and find any problems, please do not hesitate to contact the author to suggest a correction or improvement.**
+** If you use the resource and find any problems, please do not hesitate to contact the author to suggest a correction or improvement.**
 
 ## Acknowledgments
 
@@ -77,7 +77,7 @@ We extend our gratitude to all the individuals who made this work possible.
 The annotation of the sonnet by Arnaut Daniel (Purgatorio, XXVI vv.140-147) was carried out by Michele Tron.
 
 
-For any doubts, suggestions, or reports, please do not hesitate to contact the person in charge: claudia.corbetta@unibg.it.
+For any doubts, suggestions, or reports, please do not hesitate to contact the person in charge: claudia.corbetta@univr.it.
 
 
 ## References
@@ -108,7 +108,7 @@ For information on the enhancement process, refer to:
 
 ## Features
 
-[Aspect](it_old-feat-Aspect.html) – [Clitic](it_old-feat-Clitic.html) – [Definite](it_old-feat-Definite.html) – [Degree](it_old-feat-Degree.html) – [Foreign](it_old-feat-Foreign.html) – [Gender](it_old-feat-Gender.html) – [Mood](it_old-feat-Mood.html) – [Number](it_old-feat-Number.html) – [NumType](it_old-feat-NumType.html) – [Person](it_old-feat-Person.html) – [Poss](it_old-feat-Poss.html) – [PronType](it_old-feat-PronType.html) – [Reflex](it_old-feat-Reflex.html) – [Tense](it_old-feat-Tense.html) – [VerbForm](it_old-feat-VerbForm.html) – [Voice](it_old-feat-Voice.html)
+[Aspect](it_old-feat-Aspect.html) – [Clitic](it_old-feat-Clitic.html) – [Definite](it_old-feat-Definite.html) – [Degree](it_old-feat-Degree.html) – [ExtPos](it_old-feat-ExtPos.html) – [Foreign](it_old-feat-Foreign.html) – [Gender](it_old-feat-Gender.html) – [Mood](it_old-feat-Mood.html) – [Number](it_old-feat-Number.html) – [NumType](it_old-feat-NumType.html) – [Person](it_old-feat-Person.html) – [Poss](it_old-feat-Poss.html) – [PronType](it_old-feat-PronType.html) – [Reflex](it_old-feat-Reflex.html) – [Tense](it_old-feat-Tense.html) – [VerbForm](it_old-feat-VerbForm.html) – [Voice](it_old-feat-Voice.html)
 
 ## Relations
 
@@ -152,11 +152,11 @@ For information on the enhancement process, refer to:
 </ul>
 
 <ul>
-<li>This corpus contains 94 lemmas tagged as pronouns (PRON): alcuno, altrettanto, altro, altrui, ambedue, ambo, assai, catuno, certo, che, chi, chiascheduno, chiunque, ci, ciascheduno, ciascuno, cio', ciò, ciò', codesto, colei, coloro, colui, costei, costoro, costui, cotale, cotanto, cui, desso, dove, egli, ella, elli, ello, entrambi, esse, esso, gli, i, ieu, il, io, la, le, lei, li, lo, loro, lui, me, mi, mio, molto, ne, nessuno, niente, noi, nostro, nulla, nullo, ognuno, onde, ove, poco, proprio, quale, qualunque, quanto, quantunque, quello, questo, se, si, suo, sé, tale, tanto, te, ti, tu, tuo, tutte, tutto, ubi, uno, uomo, ve, vi, vicenda, voi, voialtri, vos, vostro</li>
+<li>This corpus contains 92 lemmas tagged as pronouns (PRON): alcuno, altrettanto, altro, altrui, ambedue, assai, catuno, certo, che, chi, chiascheduno, chiunque, ci, ciascheduno, ciascuno, cio', ciò, ciò', codesto, colei, coloro, colui, costei, costoro, costui, cotale, cotanto, cui, desso, dove, egli, ella, elli, ello, entrambi, esse, esso, gli, i, ieu, il, io, la, le, lei, li, lo, loro, lui, me, mi, mio, molto, ne, nessuno, niente, noi, nostro, nulla, nullo, ognuno, onde, ove, poco, proprio, quale, qualunque, quanto, quantunque, quello, questo, se, si, suo, sé, tale, tanto, te, ti, tu, tuo, tutte, tutto, ubi, uno, uomo, ve, vi, voi, voialtri, vos, vostro</li>
 </ul>
 
 <ul>
-<li>This corpus contains 58 lemmas tagged as determiners (DET): alcuno, alquanto, altro, altrui, ambedue, aquel, assai, certo, che, ciascuno, codesto, cotale, cotanto, cui, entrambi, esso, i, il, la, li, lo, loro, medesimo, meno, mio, molto, mon, nessuno, nostro, nullo, ogni, ognuno, parecchio, più, poco, proprio, qualche, quale, qualunque, quanto, quantunque, quello, questo, solo, stesso, suo, tale, tanto, troppo, tuo, tutta, tutti, tutto, un, uno, veruno, vostre, vostro</li>
+<li>This corpus contains 56 lemmas tagged as determiners (DET): alcuno, alquanto, altro, altrui, ambedue, aquel, assai, certo, che, ciascuno, codesto, cotale, cotanto, cui, entrambi, esso, i, il, la, li, lo, loro, medesimo, meno, mio, molto, mon, nessuno, nostro, nullo, ogni, ognuno, parecchio, più, poco, proprio, qualche, quale, qualunque, quanto, quantunque, quello, questo, stesso, suo, tale, tanto, troppo, tuo, tutta, tutto, un, uno, veruno, vostre, vostro</li>
 </ul>
 
 <ul>
@@ -248,7 +248,6 @@ For information on the enhancement process, refer to:
       <li>PRON: lui, quel, li, elli, lo, colui, altro, un, el, quei</li>
       <li>PROPN: Tesoro</li>
       <li>VERB: fatto, detto, tratto, messo, giunto, vòlto, venuto, fatti, morti, vinto</li>
-      <li>VERB-Fin: ricolto</li>
       <li>VERB-Inf: frustato</li>
       <li>VERB-Part: fatto, detto, tratto, messo, giunto, vòlto, venuto, fatti, morti, vinto</li>
     </ul>
@@ -335,7 +334,6 @@ For information on the enhancement process, refer to:
   <li>Abs
     <ul>
       <li>ADJ: altissimo, dolcissimo, lenta, lento, alto, bassissimo, chiarissima, famoso, giustissimo, illustri</li>
-      <li>DET: poco</li>
     </ul>
   </li>
 </ul>
@@ -345,7 +343,7 @@ For information on the enhancement process, refer to:
     <ul>
       <li>ADJ: maggior, alto, dolce, tardo, bella, cara, maggiori, grande, grata, mai</li>
       <li>ADV: più, men, tosto, meglio, oltre, sù, avanti, forte, giù, mei</li>
-      <li>DET: men, troppa</li>
+      <li>DET: troppa</li>
     </ul>
   </li>
 </ul>
@@ -530,7 +528,7 @@ For information on the enhancement process, refer to:
 <ul>
   <li>Art
     <ul>
-      <li>DET: il, la, l', 'l, li, lo, i, le, un, una</li>
+      <li>DET: il, la, l', 'l, li, lo, i, un, le, una</li>
       <li>PRON: l', le</li>
     </ul>
   </li>
@@ -540,7 +538,7 @@ For information on the enhancement process, refer to:
   <li>Dem
     <ul>
       <li>ADJ: quella</li>
-      <li>DET: le, quel, quella, questa, questo, quell', quelle, queste, questi, quello</li>
+      <li>DET: le, tal, quel, quella, questa, questo, quell', quelle, queste, questi</li>
       <li>PRON: ciò, quel, colui, quella, quei, questo, questi, questa, quelli, costui</li>
     </ul>
   </li>
@@ -559,7 +557,7 @@ For information on the enhancement process, refer to:
     <ul>
       <li>ADJ: altro</li>
       <li>ADV: alquanto, poco, molto, tanto</li>
-      <li>DET: altra, altro, ogne, alcun, tutto, tutte, altri, altrui, tutti, altre</li>
+      <li>DET: altra, più, altro, ogne, alcun, tutto, tutte, altri, altrui, tutti</li>
       <li>PRON: altro, altri, un, ciascun, altrui, qual, altra, una, alcun, chi</li>
     </ul>
   </li>
@@ -568,7 +566,7 @@ For information on the enhancement process, refer to:
 <ul>
   <li>Int
     <ul>
-      <li>DET: qual, che, quai, quanto, quale, quali, quant', quanta, quanti</li>
+      <li>DET: qual, che, quai, quanto, quale, quali, quant', quanta, quante, quanti</li>
       <li>PRON: che, qual, cui, quai, quant', Quale, quali</li>
     </ul>
   </li>
@@ -586,7 +584,7 @@ For information on the enhancement process, refer to:
   <li>Prs
     <ul>
       <li>DET: mio, sua, suo, mia, lor, tua, tuo, sue, miei, suoi</li>
-      <li>PRON: si, io, mi, tu, s', ti, me, m', noi, lui</li>
+      <li>PRON: si, io, mi, tu, s', ti, me, ne, m', noi</li>
     </ul>
   </li>
 </ul>
@@ -595,7 +593,7 @@ For information on the enhancement process, refer to:
   <li>Rel
     <ul>
       <li>DET: qual, quale, quali, quante, quanto, quanta, cui, quanti, quantunque, quai</li>
-      <li>PRON: che, ch', chi, cui, ond', qual, c', quale, cu', dove</li>
+      <li>PRON: che, ch', chi, cui, onde, ond', qual, c', quale, ove</li>
       <li>SCONJ: che, ch'</li>
     </ul>
   </li>
@@ -604,8 +602,8 @@ For information on the enhancement process, refer to:
 <ul>
   <li>Tot
     <ul>
-      <li>DET: tutto, ogne, tutti, tutte, tutta, amendue, ambedue, tutt', ogn', ogni</li>
-      <li>PRON: tutti, amendue, tutto, tutte, 'mbedue, ambedue, ambedui, intrambi</li>
+      <li>DET: tutto, ogne, tutta, tutti, tutte, amendue, ambedue, tutt', ogn', ogni</li>
+      <li>PRON: amendue, tutti, tutto, tutte, 'mbedue, ambedue, ambedui, intrambi</li>
     </ul>
   </li>
 </ul>
@@ -680,7 +678,7 @@ For information on the enhancement process, refer to:
       <li>AUX: se', hai, puoi, siete, fosti, sarai, vuo', dei, avete, fossi</li>
       <li>AUX-Fin: se', hai, puoi, siete, fosti, sarai, vuo', dei, avete, fossi</li>
       <li>AUX-Part: potuto, state</li>
-      <li>PRON: tu, ti, te, voi, t', vi, tal, v', tale, ne</li>
+      <li>PRON: tu, ti, te, voi, t', vi, v', tal, ne, tue</li>
       <li>VERB: vedi, va, fa, vedrai, credi, di', sai, dì, hai, dire</li>
       <li>VERB-Fin: vedi, va, fa, vedrai, credi, di', sai, dì, hai, dire</li>
       <li>VERB-Part: venuto, fatto, tratto, veduto, assiso, disposto, giunto, riposato, accorti, caduto</li>
@@ -726,6 +724,33 @@ For information on the enhancement process, refer to:
 </ul>
 
 <ul>
+  <li><a>ExtPos</a>
+    <ul>
+      <li>ADP
+        <ul>
+          <li>ADP: con, in</li>
+        </ul>
+      </li>
+      <li>ADV
+        <ul>
+          <li>ADV: differente, non</li>
+        </ul>
+      </li>
+      <li>CCONJ
+        <ul>
+          <li>CCONJ: o</li>
+        </ul>
+      </li>
+      <li>SCONJ
+        <ul>
+          <li>ADP: in</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li><a>Foreign</a>
     <ul>
       <li>Yes
@@ -760,15 +785,15 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--PRON (36)</li>
       <li>VERB-Conv--NOUN (5)</li>
       <li>VERB-Conv--PRON (9)</li>
-      <li>VERB-Fin--NOUN (2262)</li>
+      <li>VERB-Fin--NOUN (2263)</li>
       <li>VERB-Fin--NOUN-ADP(con) (1)</li>
       <li>VERB-Fin--NOUN-ADP(di) (1)</li>
-      <li>VERB-Fin--PRON (3842)</li>
+      <li>VERB-Fin--PRON (3839)</li>
       <li>VERB-Fin--PRON-ADP(di) (2)</li>
       <li>VERB-Inf--NOUN (135)</li>
       <li>VERB-Inf--PRON (123)</li>
       <li>VERB-Part--NOUN (194)</li>
-      <li>VERB-Part--PRON (338)</li>
+      <li>VERB-Part--PRON (339)</li>
     </ul>
   </li>
 </ul>
@@ -781,19 +806,19 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Conv--NOUN (169)</li>
       <li>VERB-Conv--NOUN-ADP(di) (1)</li>
       <li>VERB-Conv--PRON (45)</li>
-      <li>VERB-Fin--NOUN (2525)</li>
+      <li>VERB-Fin--NOUN (2524)</li>
       <li>VERB-Fin--NOUN-ADP(a) (2)</li>
       <li>VERB-Fin--NOUN-ADP(di) (41)</li>
       <li>VERB-Fin--NOUN-ADP(in) (2)</li>
       <li>VERB-Fin--NOUN-ADP(in)-ADP(su) (1)</li>
       <li>VERB-Fin--NOUN-ADP(per) (1)</li>
       <li>VERB-Fin--NOUN-ADP(senza) (1)</li>
-      <li>VERB-Fin--PRON (2173)</li>
+      <li>VERB-Fin--PRON (2170)</li>
       <li>VERB-Fin--PRON-ADP(di) (16)</li>
       <li>VERB-Inf--NOUN (462)</li>
       <li>VERB-Inf--NOUN-ADP(di) (4)</li>
       <li>VERB-Inf--NOUN-ADP(senza) (1)</li>
-      <li>VERB-Inf--PRON (228)</li>
+      <li>VERB-Inf--PRON (229)</li>
       <li>VERB-Inf--PRON-ADP(di) (1)</li>
       <li>VERB-Part--NOUN (152)</li>
       <li>VERB-Part--PRON (136)</li>

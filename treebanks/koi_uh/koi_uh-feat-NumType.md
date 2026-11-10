@@ -23,7 +23,7 @@ The most frequent other feature values with which `NUM` and `NumType` co-occurre
 
 `NUM` tokens may have the following values of `NumType`:
 
-* `Card` (5; 71% of non-empty `NumType`): <em>кык, куим, öтiк</em>
+* `Card` (5; 71% of non-empty `NumType`): <em>кык, куим, ӧтік</em>
 * `Dist` (2; 29% of non-empty `NumType`): <em>Кыкӧн, кыкӧнӧсь</em>
 * `EMPTY` (2): <em>кыка, нёляӧсь</em>
 
@@ -43,8 +43,8 @@ The most frequent other feature values with which `ADV` and `NumType` co-occurre
 
 * `Card` (1; 20% of non-empty `NumType`): <em>ӧтикӧ</em>
 * `Dist,Mult` (2; 40% of non-empty `NumType`): <em>кыкисьӧн, кыкисьӧн-куимисьӧн</em>
-* `Mult,Ord` (2; 40% of non-empty `NumType`): <em>дасöтiсь</em>
-* `EMPTY` (97): <em>кыдз, ни, сэсся, кытӧн, кӧр, сё, талун, чожа, эшӧ, кынымкӧ</em>
+* `Mult,Ord` (2; 40% of non-empty `NumType`): <em>дасӧтісь</em>
+* `EMPTY` (97): <em>кыдз, ни, кӧр, сэсся, кытӧн, сё, талун, татӧн, чожа, эшӧ</em>
 
 ### `ADJ`
 
@@ -55,7 +55,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 `ADJ` tokens may have the following values of `NumType`:
 
 * `Ord` (2; 100% of non-empty `NumType`): <em>Куимӧдз, витӧдз</em>
-* `EMPTY` (36): <em>буржык, ыджыт, важ, честнӧй, Бöрья, бур, быльнӧй, веськытлань, гажаӧсь, долженöсь</em>
+* `EMPTY` (36): <em>буржык, ыджыт, важ, сьӧд, сэтшӧм, честнӧй, Бӧрья, бур, быльнӧй, веськытлань</em>
 
 ### `PRON`
 
@@ -66,5 +66,5 @@ The most frequent other feature values with which `PRON` and `NumType` co-occurr
 `PRON` tokens may have the following values of `NumType`:
 
 * `Sets` (1; 100% of non-empty `NumType`): <em>кыкнаннысӧ</em>
-* `EMPTY` (120): <em>сія, ме, тэ, менам, мый, тэнат, сійӧ, Сiя, меным, нія</em>
+* `EMPTY` (120): <em>сія, ме, тэ, менам, мый, сылӧн, тэнат, сійӧ, меным, нія</em>
 

@@ -65,10 +65,10 @@ The following 45 pairs of parts of speech are connected with `appos`: <tt><a hre
 2	vtom	vtom	ADV	Db-------------	_	5	advmod	5:advmod	_
 3	se	se	PRON	P7--4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	5	expl:pv	5:expl:pv	_
 4	to	ten	DET	PDNS1----------	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	5	nsubj	5:nsubj	_
-5	stalo	stát	VERB	VpNS----R-AA---	Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	SpaceAfter=No
+5	stalo	stát	VERB	VpNS----R-AA---	Aspect=Perf|Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	SpaceAfter=No
 6	:	:	PUNCT	Z:-------------	_	8	punct	8:punct	_
 7	porodnice	porodnice	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing	8	nsubj	8:nsubj	_
-8	dostala	dostat	VERB	VpFS----R-AA---	Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	5	appos	5:appos	_
+8	dostala	dostat	VERB	VpFS----R-AA---	Aspect=Perf|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	5	appos	5:appos	_
 9	zásah	zásah	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	8	obj	8:obj	_
 10	německou	německý	ADJ	AAFS7----1A----	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	11	amod	11:amod	_
 11	pumou	puma	NOUN	NNFS7-----A----	Case=Ins|Gender=Fem|Number=Sing	9	nmod	9:nmod:ins	SpaceAfter=No

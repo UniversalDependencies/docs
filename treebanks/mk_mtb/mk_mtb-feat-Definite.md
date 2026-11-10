@@ -117,13 +117,12 @@ The most frequent other feature values with which `NUM` and `Definite` co-occurr
 ## Relations with Agreement in `Definite`
 
 The 10 most frequent relations where parent and child node agree in `Definite`:
-<tt>NOUN --[<tt><a href="mk_mtb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (6; 55%),
+<tt>NOUN --[<tt><a href="mk_mtb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (7; 58%),
 <tt>NOUN --[<tt><a href="mk_mtb-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (5; 71%),
 <tt>NOUN --[<tt><a href="mk_mtb-dep-conj.html">conj</a></tt>]--> NOUN</tt> (4; 100%),
 <tt>ADJ --[<tt><a href="mk_mtb-dep-conj.html">conj</a></tt>]--> ADJ</tt> (3; 100%),
 <tt>NOUN --[<tt><a href="mk_mtb-dep-list.html">list</a></tt>]--> NOUN</tt> (3; 100%),
 <tt>ADJ --[<tt><a href="mk_mtb-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (2; 100%),
 <tt>VERB --[<tt><a href="mk_mtb-dep-nsubj-pass.html">nsubj:pass</a></tt>]--> NOUN</tt> (2; 67%),
-<tt>NOUN --[<tt><a href="mk_mtb-dep-obl.html">obl</a></tt>]--> NOUN</tt> (1; 100%),
 <tt>NOUN --[<tt><a href="mk_mtb-dep-orphan.html">orphan</a></tt>]--> NOUN</tt> (1; 100%).
 

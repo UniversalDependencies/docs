@@ -34,7 +34,7 @@ The most frequent other feature values with which `PRON` and `Reflex` co-occurre
 `PRON` tokens may have the following values of `Reflex`:
 
 * `Yes` (506; 100% of non-empty `Reflex`): <em>сѧ, собою, собѣ, себе, ся, собе, се, себѣ, себє, сєбє</em>
-* `EMPTY` (8565): <em>его, то, мы, што, их, того, намъ, нами, ему, нам</em>
+* `EMPTY` (8564): <em>его, то, мы, што, их, того, намъ, нами, ему, нам</em>
 
 ### `VERB`
 
@@ -45,5 +45,5 @@ The most frequent other feature values with which `VERB` and `Reflex` co-occurre
 `VERB` tokens may have the following values of `Reflex`:
 
 * `Yes` (5; 100% of non-empty `Reflex`): <em>дотикаючо(г)[о]се, зна(и)дуючиєся, зна(й)дуючи(х)се, прилꙋжаючогосѧ, ѡправуючогосѧ</em>
-* `EMPTY` (11779): <em>дали, казали, псан, мають, мают(ь), дал, маеть, держати, послали, записа(т)</em>
+* `EMPTY` (11780): <em>дали, казали, псан, мають, мают(ь), дал, маеть, держати, послали, записа(т)</em>
 

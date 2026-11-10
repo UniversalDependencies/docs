@@ -8,50 +8,37 @@ udver: '2'
 
 This relation is universal.
 
-69 nodes (4%) are attached to their parents as `case`.
+72 nodes (4%) are attached to their parents as `case`.
 
-67 instances of `case` (97%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.14492753623188.
+70 instances of `case` (97%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.13888888888889.
 
-The following 4 pairs of parts of speech are connected with `case`: <tt><a href="xpg_kul-pos-PROPN.html">PROPN</a></tt>-<tt><a href="xpg_kul-pos-ADP.html">ADP</a></tt> (38; 55% instances), <tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xpg_kul-pos-ADP.html">ADP</a></tt> (28; 41% instances), <tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt> (2; 3% instances), <tt><a href="xpg_kul-pos-PRON.html">PRON</a></tt>-<tt><a href="xpg_kul-pos-ADP.html">ADP</a></tt> (1; 1% instances).
+The following 4 pairs of parts of speech are connected with `case`: <tt><a href="xpg_kul-pos-PROPN.html">PROPN</a></tt>-<tt><a href="xpg_kul-pos-ADP.html">ADP</a></tt> (39; 54% instances), <tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xpg_kul-pos-ADP.html">ADP</a></tt> (29; 40% instances), <tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt> (2; 3% instances), <tt><a href="xpg_kul-pos-PRON.html">PRON</a></tt>-<tt><a href="xpg_kul-pos-ADP.html">ADP</a></tt> (2; 3% instances).
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 7 case	color:blue
-1	[ιος	ios	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	5	nsubj	_	Ref=TM847650-1-1
-2	σ]α	σεμουν	DET	_	Case=Dat|Gender=Fem|Number=Sing|PronType=Dem	3	det	_	Ref=TM847650-1-2
-3	μακκα	μανκα	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	5	iobj	_	Ref=TM847650-1-3
-4	κακουν	κακουν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	5	obj	_	Ref=TM847650-1-4
-5	αδακετ	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	csubj	_	SpaceAfter=No|Ref=TM847650-1-5
-6	,	,	PUNCT	_	_	9	punct	_	Ref=TM847650-1-6
-7	ατ	ad	ADP	_	_	8	case	_	Ref=TM847650-1-7
-8	τιε	τιε	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	9	obl	_	Ref=TM847650-1-8
-9	τιτετικμενος	τιττετικμενος	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	0	root	_	Ref=TM847650-1-9
-10	ειτου	ituv	AUX	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	cop	_	SpaceAfter=No|Ref=TM847650-1-10
-11	.	.	PUNCT	_	_	9	punct	_	Ref=TM847650-1-11
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 case	color:blue
+1	per	per	ADP	_	_	2	case	_	Ref=TM757257-1-1
+2	basti	basti	PROPN	_	Case=Dat|Number=Sing	3	orphan	_	Ref=TM757257-1-2
+3	dages	dages	PROPN	_	Case=Nom|Number=Sing	0	root	_	Ref=TM757257-1-3
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 5 case	color:blue
-1	μανκα	μανκα	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	8	nsubj	_	Ref=TM757243-1-1
-2	μεκας	mekas	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	1	amod	_	Ref=TM757243-1-2
-3	σας	σεμουν	DET	_	Case=Nom|Gender=Masc|PronType=Dem	1	det	_	Ref=TM757243-1-3
-4	κιυιν	κισυις	PRON	_	Gender=Neut|Number=Sing|PronType=Ind	7	det	_	Ref=TM757243-1-4
-5	εν	εν	ADP	_	_	7	case	_	Ref=TM757243-1-5
-6	κε	ke	CCONJ	_	_	5	cc	_	Ref=TM757243-1-6
-7	βιλαταδεναν	βιλαταδεναν	NOUN	_	Case=Acc|Number=Sing	8	obj	_	Ref=TM757243-1-7
-8	νεκοινουν	νεκοινουν	VERB	_	Number=Plur|Person=3	0	root	_	Ref=TM757243-1-8
-9	:	:	PUNCT	_	_	8	punct	_	Ref=TM757243-1-9
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 3 case	color:blue
+1	[...]nst[...]	[...]nst[...]	X	_	_	2	dep	_	Ref=TM756927-1-1
+2	[e]daes	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=TM756927-1-2
+3	por	por	ADP	_	_	4	case	_	Ref=TM756927-1-3
+4	mạtẹ[…]	matar	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	Ref=TM756927-1-4
 
 ~~~
 

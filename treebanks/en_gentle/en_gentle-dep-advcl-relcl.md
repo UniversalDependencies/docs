@@ -50,12 +50,12 @@ The following 4 pairs of parts of speech are connected with `advcl:relcl`: <tt><
 4	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	5	nsubj	5:nsubj	Entity=(1-person-giv:act-sssss-cf2-1-ana)
 5	shop	shop	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	advcl:relcl	2:advcl:relcl	SpaceAfter=No
 6	,	,	PUNCT	,	_	7	punct	7:punct	_
-7	who	who	PRON	WP	PronType=Rel	5	conj	2:advcl:relcl|5:conj	_
+7	who	who	PRON	WP	Case=Acc|PronType=Rel	5	conj	2:advcl:relcl|5:conj	_
 8	your	your	PRON	PRP$	Case=Gen|Number=Sing|Person=2|Poss=Yes|PronType=Prs	9	nmod:poss	9:nmod:poss	Entity=(33-person-new-nnnnn-cf3-2-sgl(1-person-giv:act-sssss-cf2-1-ana)
 9	friends	friend	NOUN	NNS	Number=Plur	10	nsubj	10:nsubj	Entity=33)|MSeg=friend-s
 10	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	acl:relcl	7:acl:relcl	SpaceAfter=No
 11	,	,	PUNCT	,	_	12	punct	12:punct	_
-12	what	what	PRON	WP	PronType=Rel	5	conj	2:advcl:relcl|5:conj	_
+12	what	what	PRON	WP	Case=Acc|PronType=Rel	5	conj	2:advcl:relcl|5:conj	_
 13	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	14	nsubj	14:nsubj	Entity=(1-person-giv:act-sssss-cf2-1-ana)
 14	drive	drive	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	12	acl:relcl	12:acl:relcl	SpaceAfter=No
 15	,	,	PUNCT	,	_	16	punct	16:punct	_
@@ -73,7 +73,7 @@ The following 4 pairs of parts of speech are connected with `advcl:relcl`: <tt><
 # visual-style 102	bgColor:blue
 # visual-style 102	fgColor:white
 # visual-style 102 105 advcl:relcl	color:blue
-1	Now	now	ADV	RB	_	48	advmod	48:advmod	Discourse=context-background:1->17:5:ref-prs-12,133-_+num-count-53-gold
+1	Now	now	ADV	RB	PronType=Dem	48	advmod	48:advmod	Discourse=context-background:1->17:5:ref-prs-12,133-_+num-count-53-gold
 2	after	after	ADP	IN	_	7	case	7:case	_
 3	last	last	ADJ	JJ	Degree=Pos	4	amod	4:amod	Entity=(1-event-new-nnnnn-cf18-5,17,39-sgl(2-abstract-new-nnnnn-cf19-2-sgl
 4	episodes	episode	NOUN	NNS	Number=Plur	7	nmod:poss	7:nmod:poss	MSeg=episode-s
@@ -107,7 +107,7 @@ The following 4 pairs of parts of speech are connected with `advcl:relcl`: <tt><
 32	leg	leg	NOUN	NN	Number=Sing	25	obl	25:obl:in	Entity=8)|SpaceAfter=No
 33	,	,	PUNCT	,	_	36	punct	36:punct	_
 34	and	and	CCONJ	CC	_	36	cc	36:cc	Discourse=joint-sequence_m:4->2:0:dm-and-34-gold+lex-indwd-35-_|PDTB=Explicit:Expansion.Conjunction:and:34:22-33:35-43;Implicit:Temporal.Asynchronous.Precedence:then:_:22-33:34-43
-35	now	now	ADV	RB	_	36	advmod	36:advmod	_
+35	now	now	ADV	RB	PronType=Dem	36	advmod	36:advmod	_
 36	advancing	advance	VERB	VBG	Tense=Pres|VerbForm=Part	11	conj	7:acl:relcl|11:conj:and	MSeg=advanc-ing
 37	into	into	ADP	IN	_	39	case	39:case	MSeg=in-to
 38	the	the	DET	DT	Definite=Def|PronType=Art	39	det	39:det	Bridge=7<9:entity-associative|Entity=(9-event-acc:inf-sssss-cf8-2,4-coref
@@ -120,7 +120,7 @@ The following 4 pairs of parts of speech are connected with `advcl:relcl`: <tt><
 45	's	's	PART	POS	_	44	case	44:case	Entity=13)|XML=</date>
 46	episode	episode	NOUN	NN	Number=Sing	48	nsubj	48:nsubj|50:nsubj:xsubj	Entity=12)
 47	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	48	aux	48:aux	_
-48	gon	go	VERB	VBG	Style=Vrnc|Tense=Pres|VerbForm=Part	0	root	0:root	XML=<w>
+48	gon	go	VERB	VBG	Style=Vrnc|Tense=Pres|VerbForm=Part	0	root	0:root	MSeg=go-n|XML=<w>
 49	na	to	PART	TO	_	50	mark	50:mark	XML=</w>
 50	start	start	VERB	VB	VerbForm=Inf	48	xcomp	48:xcomp	_
 51	off	off	ADP	RP	_	50	compound:prt	50:compound:prt	_
@@ -139,7 +139,7 @@ The following 4 pairs of parts of speech are connected with `advcl:relcl`: <tt><
 64	last	last	ADJ	JJ	Degree=Pos	65	amod	65:amod	_
 65	couple	couple	NOUN	NN	Number=Sing	61	obl	61:obl:as	_
 66	of	of	ADP	IN	_	67	case	67:case	_
-67	matches	match	NOUN	NNS	Number=Plur	65	nmod	65:nmod:of	MSeg=matche-s
+67	matches	match	NOUN	NNS	Number=Plur	65	nmod	65:nmod:of	MSeg=match-es
 68	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	70	nsubj	70:nsubj	Discourse=elaboration-attribute:9->8:0:syn-mdf-65-_+syn-relcl-70-_|Entity=(4-person-giv:act-nssss-cf1-1-ana)
 69	've	have	AUX	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	70	aux	70:aux	_
 70	had	have	VERB	VBN	Tense=Past|VerbForm=Part	65	acl:relcl	65:acl:relcl	Entity=16)14)|SpaceAfter=No
@@ -169,7 +169,7 @@ The following 4 pairs of parts of speech are connected with `advcl:relcl`: <tt><
 94	going	go	VERB	VBG	Tense=Pres|VerbForm=Part	81	advcl:relcl	81:advcl:relcl	MSeg=go-ing
 95	to	to	PART	TO	_	98	mark	98:mark	_
 96	be	be	AUX	VB	VerbForm=Inf	98	cop	98:cop	_
-97	possibly	possibly	ADV	RB	Degree=Pos	98	advmod	98:advmod	MSeg=possib-ly
+97	possibly	possibly	ADV	RB	Degree=Pos	98	advmod	98:advmod	MSeg=possibl-y
 98	one	one	NUM	CD	NumForm=Word|NumType=Card	94	xcomp	94:xcomp	Entity=(21-time-new-nnnnn-cf23-1-sgl
 99	of	of	ADP	IN	_	102	case	102:case	_
 100	the	the	DET	DT	Definite=Def|PronType=Art	102	det	102:det	_
@@ -177,7 +177,7 @@ The following 4 pairs of parts of speech are connected with `advcl:relcl`: <tt><
 102	games	game	NOUN	NNS	Number=Plur	98	nmod	98:nmod:of	MSeg=game-s
 103	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	105	nsubj	105:nsubj|108:nsubj:xsubj	Discourse=elaboration-attribute:12->11:0:syn-relcl-105-_|Entity=(22-person-acc:com-sssss-cf2-1-ana)
 104	'm	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	105	aux	105:aux	_
-105	gon	go	VERB	VBG	Style=Vrnc|Tense=Pres|VerbForm=Part	102	advcl:relcl	102:advcl:relcl	XML=<w>
+105	gon	go	VERB	VBG	Style=Vrnc|Tense=Pres|VerbForm=Part	102	advcl:relcl	102:advcl:relcl	MSeg=go-n|XML=<w>
 106	na	to	PART	TO	_	108	mark	108:mark	XML=</w>
 107	be	be	AUX	VB	VerbForm=Inf	108	aux	108:aux	_
 108	playing	play	VERB	VBG	Tense=Pres|VerbForm=Part	105	xcomp	105:xcomp	Entity=21)|MSeg=play-ing

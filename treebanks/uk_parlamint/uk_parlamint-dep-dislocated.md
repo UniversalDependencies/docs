@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-49 nodes (0%) are attached to their parents as `dislocated`.
+53 nodes (0%) are attached to their parents as `dislocated`.
 
-45 instances of `dislocated` (92%) are right-to-left (child precedes parent).
-Average distance between parent and child is 8.93877551020408.
+49 instances of `dislocated` (92%) are right-to-left (child precedes parent).
+Average distance between parent and child is 8.81132075471698.
 
-The following 9 pairs of parts of speech are connected with `dislocated`: <tt><a href="uk_parlamint-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt> (26; 53% instances), <tt><a href="uk_parlamint-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt> (13; 27% instances), <tt><a href="uk_parlamint-pos-ADV.html">ADV</a></tt>-<tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt> (2; 4% instances), <tt><a href="uk_parlamint-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_parlamint-pos-DET.html">DET</a></tt> (2; 4% instances), <tt><a href="uk_parlamint-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt> (2; 4% instances), <tt><a href="uk_parlamint-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_parlamint-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="uk_parlamint-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="uk_parlamint-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_parlamint-pos-PROPN.html">PROPN</a></tt> (1; 2% instances).
+The following 9 pairs of parts of speech are connected with `dislocated`: <tt><a href="uk_parlamint-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt> (27; 51% instances), <tt><a href="uk_parlamint-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt> (13; 25% instances), <tt><a href="uk_parlamint-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt> (3; 6% instances), <tt><a href="uk_parlamint-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_parlamint-pos-PROPN.html">PROPN</a></tt> (3; 6% instances), <tt><a href="uk_parlamint-pos-ADV.html">ADV</a></tt>-<tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt> (2; 4% instances), <tt><a href="uk_parlamint-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_parlamint-pos-DET.html">DET</a></tt> (2; 4% instances), <tt><a href="uk_parlamint-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_parlamint-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="uk_parlamint-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -56,26 +56,30 @@ The following 9 pairs of parts of speech are connected with `dislocated`: <tt><a
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
-# visual-style 11 3 dislocated	color:blue
-1	Але	але	CCONJ	CCONJ	_	11	cc	_	_
-2	багато	багато	DET	DET	Case=Acc|NumType=Card|PronType=Ind	3	det:numgov	_	_
-3	питань	питання	NOUN	NOUN	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	11	dislocated	_	SpaceAfter=No
-4	,	,	PUNCT	PUNCT	_	8	punct	_	_
-5	які	який	DET	DET	Case=Nom|Number=Plur|PronType=Rel	8	nsubj	_	_
-6	там	там	ADV	ADV	PronType=Dem	8	advmod	_	_
-7	зараз	зараз	ADV	ADV	PronType=Dem	8	advmod	_	_
-8	виникають	виникати	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	SpaceAfter=No
-9	,	,	PUNCT	PUNCT	_	8	punct	_	_
-10	їх	вони	PRON	PRON	Case=Acc|Number=Plur|Person=3|PronType=Prs	14	obj	_	_
-11	треба	треба	ADV	ADV	_	0	root	_	_
-12	зараз	зараз	ADV	ADV	PronType=Dem	14	advmod	_	_
-13	негайно	негайно	ADV	ADV	_	14	advmod	_	_
-14	вивчати	вивчати	VERB	VERB	Aspect=Imp|VerbForm=Inf	11	csubj	_	SpaceAfter=No
-15	.	.	PUNCT	PUNCT	_	11	punct	_	_
+# visual-style 11 1 dislocated	color:blue
+1	Я	я	PRON	PRON	Animacy=Anim|Case=Nom|Number=Sing|Person=1|PronType=Prs	11	dislocated	_	_
+2	просто	просто	PART	PART	_	11	advmod:emph	_	SpaceAfter=No
+3	,	,	PUNCT	PUNCT	_	4	punct	_	_
+4	ну	ну	PART	PART	_	7	discourse	_	SpaceAfter=No
+5	,	,	PUNCT	PUNCT	_	7	punct	_	_
+6	чесно	чесно	ADV	ADV	Degree=Pos	7	advmod	_	_
+7	кажу	казати	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	11	parataxis	_	SpaceAfter=No
+8	,	,	PUNCT	PUNCT	_	7	punct	_	_
+9	я	я	PRON	PRON	Animacy=Anim|Case=Nom|Number=Sing|Person=1|PronType=Prs	11	nsubj	_	_
+10	не	не	PART	PART	Polarity=Neg	11	advmod:neg	_	_
+11	маю	мати	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+12	,	,	PUNCT	PUNCT	_	14	punct	_	_
+13	щоб	щоб	SCONJ	SCONJ	_	14	mark	_	_
+14	поспати	поспати	VERB	VERB	Aspect=Perf|VerbForm=Inf	11	advcl	_	_
+15	хоча	хоча	PART	PART	ExtPos=ADV	17	advmod:emph	_	_
+16	би	би	PART	PART	_	15	fixed	_	_
+17	годину	година	NOUN	NOUN	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	11	obj	_	_
+18	вночі	вночі	ADV	ADV	_	11	advmod	_	SpaceAfter=No
+19	.	.	PUNCT	PUNCT	_	11	punct	_	_
 
 ~~~
 

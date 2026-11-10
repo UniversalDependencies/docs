@@ -56,7 +56,7 @@ The 10 most frequent ambiguous types:  <em>että</em> (<tt><a href="fi_ftb-pos-S
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 2.055556 (the average of all parts of speech is 2.049638).
+The form / lemma ratio of `SCONJ` is 2.055556 (the average of all parts of speech is 2.049502).
 
 The 1st highest number of forms (8) was observed with the lemma “kun”: <em>ko, kon, ku, kun, kunn, kup, kus, k´</em>.
 
@@ -77,19 +77,19 @@ Examples: <em>että, kuin, kun, jos, vaikka, koska, sillä, jotta, ell, joll</em
 
 `SCONJ` nodes are attached to their parents using 7 different relations: <tt><a href="fi_ftb-dep-mark.html">mark</a></tt> (3855; 93% instances), <tt><a href="fi_ftb-dep-fixed.html">fixed</a></tt> (216; 5% instances), <tt><a href="fi_ftb-dep-conj.html">conj</a></tt> (35; 1% instances), <tt><a href="fi_ftb-dep-dep.html">dep</a></tt> (16; 0% instances), <tt><a href="fi_ftb-dep-discourse.html">discourse</a></tt> (12; 0% instances), <tt><a href="fi_ftb-dep-root.html">root</a></tt> (7; 0% instances), <tt><a href="fi_ftb-dep-advcl.html">advcl</a></tt> (1; 0% instances)
 
-Parents of `SCONJ` nodes belong to 14 different parts of speech: <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> (2995; 72% instances), <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> (455; 11% instances), <tt><a href="fi_ftb-pos-ADJ.html">ADJ</a></tt> (246; 6% instances), <tt><a href="fi_ftb-pos-ADV.html">ADV</a></tt> (221; 5% instances), <tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> (99; 2% instances), <tt><a href="fi_ftb-pos-PROPN.html">PROPN</a></tt> (51; 1% instances), <tt><a href="fi_ftb-pos-SCONJ.html">SCONJ</a></tt> (36; 1% instances), <tt><a href="fi_ftb-pos-PART.html">PART</a></tt> (14; 0% instances), <tt><a href="fi_ftb-pos-NUM.html">NUM</a></tt> (12; 0% instances),  (7; 0% instances), <tt><a href="fi_ftb-pos-INTJ.html">INTJ</a></tt> (3; 0% instances), <tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="fi_ftb-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="fi_ftb-pos-X.html">X</a></tt> (1; 0% instances)
+Parents of `SCONJ` nodes belong to 14 different parts of speech: <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> (2918; 70% instances), <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> (464; 11% instances), <tt><a href="fi_ftb-pos-ADJ.html">ADJ</a></tt> (247; 6% instances), <tt><a href="fi_ftb-pos-ADV.html">ADV</a></tt> (222; 5% instances), <tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> (163; 4% instances), <tt><a href="fi_ftb-pos-PROPN.html">PROPN</a></tt> (53; 1% instances), <tt><a href="fi_ftb-pos-SCONJ.html">SCONJ</a></tt> (36; 1% instances), <tt><a href="fi_ftb-pos-PART.html">PART</a></tt> (14; 0% instances), <tt><a href="fi_ftb-pos-NUM.html">NUM</a></tt> (12; 0% instances),  (7; 0% instances), <tt><a href="fi_ftb-pos-INTJ.html">INTJ</a></tt> (3; 0% instances), <tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="fi_ftb-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="fi_ftb-pos-X.html">X</a></tt> (1; 0% instances)
 
-3996 (96%) `SCONJ` nodes are leaves.
+3788 (91%) `SCONJ` nodes are leaves.
 
-129 (3%) `SCONJ` nodes have one child.
+342 (8%) `SCONJ` nodes have one child.
 
-16 (0%) `SCONJ` nodes have two children.
+10 (0%) `SCONJ` nodes have two children.
 
-1 (0%) `SCONJ` nodes have three or more children.
+2 (0%) `SCONJ` nodes have three or more children.
 
 The highest child degree of a `SCONJ` node is 3.
 
-Children of `SCONJ` nodes are attached using 8 different relations: <tt><a href="fi_ftb-dep-punct.html">punct</a></tt> (83; 51% instances), <tt><a href="fi_ftb-dep-conj.html">conj</a></tt> (35; 21% instances), <tt><a href="fi_ftb-dep-discourse.html">discourse</a></tt> (14; 9% instances), <tt><a href="fi_ftb-dep-fixed.html">fixed</a></tt> (14; 9% instances), <tt><a href="fi_ftb-dep-cc.html">cc</a></tt> (10; 6% instances), <tt><a href="fi_ftb-dep-advmod.html">advmod</a></tt> (6; 4% instances), <tt><a href="fi_ftb-dep-mark.html">mark</a></tt> (1; 1% instances), <tt><a href="fi_ftb-dep-reparandum.html">reparandum</a></tt> (1; 1% instances)
+Children of `SCONJ` nodes are attached using 8 different relations: <tt><a href="fi_ftb-dep-punct.html">punct</a></tt> (287; 78% instances), <tt><a href="fi_ftb-dep-conj.html">conj</a></tt> (35; 10% instances), <tt><a href="fi_ftb-dep-discourse.html">discourse</a></tt> (14; 4% instances), <tt><a href="fi_ftb-dep-fixed.html">fixed</a></tt> (14; 4% instances), <tt><a href="fi_ftb-dep-cc.html">cc</a></tt> (10; 3% instances), <tt><a href="fi_ftb-dep-advmod.html">advmod</a></tt> (6; 2% instances), <tt><a href="fi_ftb-dep-mark.html">mark</a></tt> (1; 0% instances), <tt><a href="fi_ftb-dep-reparandum.html">reparandum</a></tt> (1; 0% instances)
 
-Children of `SCONJ` nodes belong to 8 different parts of speech: <tt><a href="fi_ftb-pos-PUNCT.html">PUNCT</a></tt> (83; 51% instances), <tt><a href="fi_ftb-pos-SCONJ.html">SCONJ</a></tt> (36; 22% instances), <tt><a href="fi_ftb-pos-INTJ.html">INTJ</a></tt> (14; 9% instances), <tt><a href="fi_ftb-pos-ADV.html">ADV</a></tt> (13; 8% instances), <tt><a href="fi_ftb-pos-CCONJ.html">CCONJ</a></tt> (10; 6% instances), <tt><a href="fi_ftb-pos-PART.html">PART</a></tt> (5; 3% instances), <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="fi_ftb-pos-X.html">X</a></tt> (1; 1% instances)
+Children of `SCONJ` nodes belong to 8 different parts of speech: <tt><a href="fi_ftb-pos-PUNCT.html">PUNCT</a></tt> (287; 78% instances), <tt><a href="fi_ftb-pos-SCONJ.html">SCONJ</a></tt> (36; 10% instances), <tt><a href="fi_ftb-pos-INTJ.html">INTJ</a></tt> (14; 4% instances), <tt><a href="fi_ftb-pos-ADV.html">ADV</a></tt> (13; 4% instances), <tt><a href="fi_ftb-pos-CCONJ.html">CCONJ</a></tt> (10; 3% instances), <tt><a href="fi_ftb-pos-PART.html">PART</a></tt> (5; 1% instances), <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="fi_ftb-pos-X.html">X</a></tt> (1; 0% instances)
 

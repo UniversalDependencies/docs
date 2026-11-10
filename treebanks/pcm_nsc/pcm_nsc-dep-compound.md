@@ -23,17 +23,17 @@ The following 18 pairs of parts of speech are connected with `compound`: <tt><a 
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 8 compound	color:blue
-1	#	#	PUNCT	_	_	3	punct	_	AlignBegin=296231|AlignEnd=296448|Gloss=PUNCT
-2	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	AlignBegin=296448|AlignEnd=296553|Gloss=NOM.SG.1
-3	say	say	VERB	_	_	0	root	_	AlignBegin=296553|AlignEnd=296753|Gloss=say
-4	[	[	PUNCT	_	_	6	punct	_	AlignBegin=296753|AlignEnd=296753|Gloss=PUNCT
-5	mah	make	AUX	_	Mood=Opt	6	aux	_	AlignBegin=296753|AlignEnd=296993|Gloss=SBJV
-6	go	go	VERB	_	_	3	parataxis	_	AlignBegin=296993|AlignEnd=297123|Gloss=go
-7	find	find	VERB	_	_	6	compound:svc	_	AlignBegin=297123|AlignEnd=297363|Gloss=find
-8	labourer	labourer	NOUN	_	_	9	compound	_	AlignBegin=297363|AlignEnd=297713|Gloss=labourer
-9	work	work	NOUN	_	_	7	obj	_	AlignBegin=297713|AlignEnd=297933|Gloss=work
-10	]	]	PUNCT	_	_	6	punct	_	AlignBegin=297933|AlignEnd=297933|Gloss=PUNCT
-11	//	//	PUNCT	_	_	3	punct	_	AlignBegin=297933|AlignEnd=297933|Gloss=PUNCT
+1	#	#	PUNCT	_	_	3	punct	_	Gloss=PUNCT|WordAlignmentBegin=296231|WordAlignmentEnd=296448
+2	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Gloss=NOM.SG.1|WordAlignmentBegin=296448|WordAlignmentEnd=296553
+3	say	say	VERB	_	_	0	root	_	Gloss=say|WordAlignmentBegin=296553|WordAlignmentEnd=296753
+4	[	[	PUNCT	_	_	6	punct	_	Gloss=PUNCT|WordAlignmentBegin=296753|WordAlignmentEnd=296753
+5	mah	make	AUX	_	Mood=Opt	6	aux	_	Gloss=SBJV|WordAlignmentBegin=296753|WordAlignmentEnd=296993
+6	go	go	VERB	_	_	3	parataxis	_	Gloss=go|WordAlignmentBegin=296993|WordAlignmentEnd=297123
+7	find	find	VERB	_	_	6	compound:svc	_	Gloss=find|WordAlignmentBegin=297123|WordAlignmentEnd=297363
+8	labourer	labourer	NOUN	_	_	9	compound	_	Gloss=labourer|WordAlignmentBegin=297363|WordAlignmentEnd=297713
+9	work	work	NOUN	_	_	7	obj	_	Gloss=work|WordAlignmentBegin=297713|WordAlignmentEnd=297933
+10	]	]	PUNCT	_	_	6	punct	_	Gloss=PUNCT|WordAlignmentBegin=297933|WordAlignmentEnd=297933
+11	//	//	PUNCT	_	_	3	punct	_	Gloss=PUNCT|WordAlignmentBegin=297933|WordAlignmentEnd=297933
 
 ~~~
 
@@ -44,18 +44,18 @@ The following 18 pairs of parts of speech are connected with `compound`: <tt><a 
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 3 compound	color:blue
-1	#	#	PUNCT	_	_	4	punct	_	AlignBegin=81990|AlignEnd=82540|Gloss=PUNCT
-2	na	na	AUX	_	PartType=Cop	4	cop	_	AlignBegin=82540|AlignEnd=82680|Gloss=be
-3	Malay	Malay	PROPN	_	_	4	compound	_	AlignBegin=82680|AlignEnd=82900|Gloss=Malay
-4	guy	guy	NOUN	_	_	0	root	_	AlignBegin=82900|AlignEnd=83038|Gloss=guy
-5	{	{	PUNCT	_	_	10	punct	_	AlignBegin=83038|AlignEnd=83038|Gloss=PUNCT
-6	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	AlignBegin=83038|AlignEnd=83119|Gloss=NOM.SG.1
-7	wan	want	VERB	_	_	10	reparandum	_	AlignBegin=83119|AlignEnd=83227|Gloss=want
-8	||	||	PUNCT	_	_	7	punct	_	AlignBegin=83227|AlignEnd=83227|Gloss=PUNCT
-9	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	AlignBegin=83227|AlignEnd=83370|Gloss=NOM.SG.1
-10	wan	want	VERB	_	_	4	advcl:cleft	_	AlignBegin=83370|AlignEnd=83513|Gloss=want
-11	}	}	PUNCT	_	_	10	punct	_	AlignBegin=83513|AlignEnd=83513|Gloss=PUNCT
-12	&//	&//	PUNCT	_	_	4	punct	_	AlignBegin=83483|AlignEnd=83513|Gloss=PUNCT
+1	#	#	PUNCT	_	_	4	punct	_	Gloss=PUNCT|WordAlignmentBegin=81990|WordAlignmentEnd=82540
+2	na	na	AUX	_	PartType=Cop	4	cop	_	Gloss=be|WordAlignmentBegin=82540|WordAlignmentEnd=82680
+3	Malay	Malay	PROPN	_	_	4	compound	_	Gloss=Malay|WordAlignmentBegin=82680|WordAlignmentEnd=82900
+4	guy	guy	NOUN	_	_	0	root	_	Gloss=guy|WordAlignmentBegin=82900|WordAlignmentEnd=83038
+5	{	{	PUNCT	_	_	10	punct	_	Gloss=PUNCT|WordAlignmentBegin=83038|WordAlignmentEnd=83038
+6	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	Gloss=NOM.SG.1|WordAlignmentBegin=83038|WordAlignmentEnd=83119
+7	wan	want	VERB	_	_	10	reparandum	_	Gloss=want|WordAlignmentBegin=83119|WordAlignmentEnd=83227
+8	||	||	PUNCT	_	_	7	punct	_	Gloss=PUNCT|WordAlignmentBegin=83227|WordAlignmentEnd=83227
+9	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	Gloss=NOM.SG.1|WordAlignmentBegin=83227|WordAlignmentEnd=83370
+10	wan	want	VERB	_	_	4	advcl:cleft	_	Gloss=want|WordAlignmentBegin=83370|WordAlignmentEnd=83513
+11	}	}	PUNCT	_	_	10	punct	_	Gloss=PUNCT|WordAlignmentBegin=83513|WordAlignmentEnd=83513
+12	&//	&//	PUNCT	_	_	4	punct	_	Gloss=PUNCT|WordAlignmentBegin=83483|WordAlignmentEnd=83513
 
 ~~~
 
@@ -66,18 +66,18 @@ The following 18 pairs of parts of speech are connected with `compound`: <tt><a 
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 3 compound	color:blue
-1	#	#	PUNCT	_	_	8	punct	_	AlignBegin=79018|AlignEnd=79730|Gloss=PUNCT
-2	dis	dis	DET	_	Number=Sing|PronType=Dem	4	det	_	AlignBegin=79730|AlignEnd=79890|Gloss=SG.DEM
-3	Malay	Malay	ADJ	_	_	4	compound	_	AlignBegin=79890|AlignEnd=80140|Gloss=Malay
-4	guy	guy	NOUN	_	_	8	dislocated	_	AlignBegin=80140|AlignEnd=80355|Gloss=guy
-5	<	<	PUNCT	_	_	4	punct	_	AlignBegin=80355|AlignEnd=80355|Gloss=PUNCT
-6	de	dem	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	8	nsubj	_	AlignBegin=80355|AlignEnd=80455|Gloss=NOM.PL.3
-7	dey	dey	AUX	_	Aspect=Imp	8	aux	_	AlignBegin=80455|AlignEnd=80550|Gloss=IPFV
-8	make	make	VERB	_	_	0	root	_	AlignBegin=80550|AlignEnd=80800|Gloss=make
-9	am	am	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	8	obj	_	AlignBegin=80800|AlignEnd=80930|Gloss=ACC.SG.3
-10	dere	dere	ADV	_	_	8	advmod	_	AlignBegin=80930|AlignEnd=81130|Gloss=there
-11	now	now	ADV	_	_	8	advmod	_	AlignBegin=81130|AlignEnd=81340|Gloss=now
-12	//	//	PUNCT	_	_	8	punct	_	AlignBegin=81340|AlignEnd=81340|Gloss=PUNCT
+1	#	#	PUNCT	_	_	8	punct	_	Gloss=PUNCT|WordAlignmentBegin=79018|WordAlignmentEnd=79730
+2	dis	dis	DET	_	Number=Sing|PronType=Dem	4	det	_	Gloss=SG.DEM|WordAlignmentBegin=79730|WordAlignmentEnd=79890
+3	Malay	Malay	ADJ	_	_	4	compound	_	Gloss=Malay|WordAlignmentBegin=79890|WordAlignmentEnd=80140
+4	guy	guy	NOUN	_	_	8	dislocated	_	Gloss=guy|WordAlignmentBegin=80140|WordAlignmentEnd=80355
+5	<	<	PUNCT	_	_	4	punct	_	Gloss=PUNCT|WordAlignmentBegin=80355|WordAlignmentEnd=80355
+6	de	dem	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	8	nsubj	_	Gloss=NOM.PL.3|WordAlignmentBegin=80355|WordAlignmentEnd=80455
+7	dey	dey	AUX	_	Aspect=Imp	8	aux	_	Gloss=IPFV|WordAlignmentBegin=80455|WordAlignmentEnd=80550
+8	make	make	VERB	_	_	0	root	_	Gloss=make|WordAlignmentBegin=80550|WordAlignmentEnd=80800
+9	am	am	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	8	obj	_	Gloss=ACC.SG.3|WordAlignmentBegin=80800|WordAlignmentEnd=80930
+10	dere	dere	ADV	_	_	8	advmod	_	Gloss=there|WordAlignmentBegin=80930|WordAlignmentEnd=81130
+11	now	now	ADV	_	_	8	advmod	_	Gloss=now|WordAlignmentBegin=81130|WordAlignmentEnd=81340
+12	//	//	PUNCT	_	_	8	punct	_	Gloss=PUNCT|WordAlignmentBegin=81340|WordAlignmentEnd=81340
 
 ~~~
 

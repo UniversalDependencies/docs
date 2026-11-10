@@ -26,8 +26,8 @@ The following 2 pairs of parts of speech are connected with `compound:lvc`: <tt>
 1	സംഘർഷങ്ങളിൽ	സംഘർഷം	PROPN	_	Animacy=Inan|Case=Loc|Number=Plur	4	obl	_	Translit=saṁghaṟ̕ṣaṅṅaḷil̕|LTranslit=saṁghaṟ̕ṣaṁ
 2	ഒരു	ഒരു	DET	_	Definite=Ind|PronType=Art	3	det	_	Translit=oru|LTranslit=oru
 3	ഹെഡ്കോൺസ്റ്റബിൽ	ഹെഡ്കോൺസ്റ്റബിൽ	NOUN	_	Animacy=Inan|Case=Loc|Number=Sing	4	nsubj	_	Translit=heḍkōṇ̕sṟṟabil̕|LTranslit=heḍkōṇ̕sṟṟabil̕
-4	മരിക്കുക	മരിക്കുക	VERB	_	Polarity=Pos|VerbForm=Inf	0	root	_	Translit=marikkuka|LTranslit=marikkuka
-5	ഉം	ഉം	PART	_	_	4	advmod:emph	_	Translit=uṁ|LTranslit=uṁ
+4	മരിക്കുക	മരിക്കുക	VERB	_	Polarity=Pos|VerbForm=Inf	0	root	_	LTranslit=marikkuka|Translit=marikkuka
+5	ഉം	ഉം	PART	_	_	4	advmod:emph	_	LTranslit=uṁ|Translit=uṁ
 6	ചെയ്തു	ചെയ്യുക	VERB	_	Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	4	compound:lvc	_	SpaceAfter=No|Translit=ceytu|LTranslit=ceyyuka
 7	.	.	PUNCT	_	_	4	punct	_	Translit=.|LTranslit=.
 

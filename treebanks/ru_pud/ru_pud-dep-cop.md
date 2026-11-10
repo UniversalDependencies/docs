@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-88 nodes (0%) are attached to their parents as `cop`.
+89 nodes (0%) are attached to their parents as `cop`.
 
 69 instances of `cop` (78%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.05681818181818.
+Average distance between parent and child is 2.04494382022472.
 
-The following 7 pairs of parts of speech are connected with `cop`: <tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_pud-pos-AUX.html">AUX</a></tt> (40; 45% instances), <tt><a href="ru_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_pud-pos-AUX.html">AUX</a></tt> (32; 36% instances), <tt><a href="ru_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="ru_pud-pos-AUX.html">AUX</a></tt> (5; 6% instances), <tt><a href="ru_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="ru_pud-pos-AUX.html">AUX</a></tt> (4; 5% instances), <tt><a href="ru_pud-pos-DET.html">DET</a></tt>-<tt><a href="ru_pud-pos-AUX.html">AUX</a></tt> (3; 3% instances), <tt><a href="ru_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_pud-pos-AUX.html">AUX</a></tt> (3; 3% instances), <tt><a href="ru_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="ru_pud-pos-AUX.html">AUX</a></tt> (1; 1% instances).
+The following 7 pairs of parts of speech are connected with `cop`: <tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_pud-pos-AUX.html">AUX</a></tt> (41; 46% instances), <tt><a href="ru_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_pud-pos-AUX.html">AUX</a></tt> (32; 36% instances), <tt><a href="ru_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="ru_pud-pos-AUX.html">AUX</a></tt> (5; 6% instances), <tt><a href="ru_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="ru_pud-pos-AUX.html">AUX</a></tt> (4; 4% instances), <tt><a href="ru_pud-pos-DET.html">DET</a></tt>-<tt><a href="ru_pud-pos-AUX.html">AUX</a></tt> (3; 3% instances), <tt><a href="ru_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_pud-pos-AUX.html">AUX</a></tt> (3; 3% instances), <tt><a href="ru_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="ru_pud-pos-AUX.html">AUX</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -26,12 +26,12 @@ The following 7 pairs of parts of speech are connected with `cop`: <tt><a href="
 2	страстным	страстный	ADJ	JJ	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	_
 3	гитаристом	гитарист	NOUN	NN	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	6	advcl	_	SpaceAfter=No
 4	,	,	PUNCT	,	_	3	punct	_	_
-5	он	он	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	nsubj	_	_
+5	он	он	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	_
 6	играл	играть	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 7	там	там	ADV	RB	Degree=Pos	6	advmod	_	_
 8	концерт	концерт	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	6	obj	_	_
 9	в	в	ADP	IN	_	12	case	_	_
-10	том	тот	DET	DT	Case=Loc|Gender=Masc|Number=Sing	12	det	_	_
+10	том	тот	DET	DT	Case=Loc|Gender=Masc|Number=Sing|PronType=Dem	12	det	_	_
 11	же	же	PART	UH	_	10	advmod	_	_
 12	году	год	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	6	obl	_	SpaceAfter=No
 13	.	.	PUNCT	.	_	6	punct	_	_
@@ -63,7 +63,7 @@ The following 7 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 13	fgColor:white
 # visual-style 13 12 cop	color:blue
 1	В	в	ADP	IN	_	3	case	_	_
-2	это	этот	DET	DT	Case=Acc|Gender=Neut|Number=Sing	3	det	_	_
+2	это	этот	DET	DT	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	3	det	_	_
 3	время	время	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	5	obl	_	_
 4	там	там	ADV	RB	Degree=Pos	5	advmod	_	_
 5	жили	жить	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -72,7 +72,7 @@ The following 7 pairs of parts of speech are connected with `cop`: <tt><a href="
 8	семей	семья	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	5	nsubj	_	SpaceAfter=No
 9	,	,	PUNCT	,	_	13	punct	_	_
 10	у	у	ADP	IN	_	11	case	_	_
-11	которых	который	PRON	WDT	Case=Gen|Number=Plur	13	obl	_	_
+11	которых	который	DET	WDT	Case=Gen|Number=Plur|PronType=Rel	13	obl	_	_
 12	было	быть	AUX	VBC	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	13	cop	_	_
 13	достаточно	достаточно	ADV	RB	Degree=Pos	8	acl:relcl	_	_
 14	хорошей	хороший	ADJ	JJ	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	18	amod	_	_

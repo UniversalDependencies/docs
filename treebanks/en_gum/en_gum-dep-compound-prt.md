@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="en_gum-dep-compound.html">compound</a></tt>.
 
-1040 nodes (0%) are attached to their parents as `compound:prt`.
+1044 nodes (0%) are attached to their parents as `compound:prt`.
 
-1039 instances of `compound:prt` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.27596153846154.
+1043 instances of `compound:prt` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.27586206896552.
 
-The following 6 pairs of parts of speech are connected with `compound:prt`: <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-ADP.html">ADP</a></tt> (1019; 98% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-ADP.html">ADP</a></tt> (17; 2% instances), <tt><a href="en_gum-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gum-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-AUX.html">AUX</a></tt>-<tt><a href="en_gum-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-PRON.html">PRON</a></tt>-<tt><a href="en_gum-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gum-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+The following 6 pairs of parts of speech are connected with `compound:prt`: <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-ADP.html">ADP</a></tt> (1023; 98% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-ADP.html">ADP</a></tt> (17; 2% instances), <tt><a href="en_gum-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gum-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-AUX.html">AUX</a></tt>-<tt><a href="en_gum-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-PRON.html">PRON</a></tt>-<tt><a href="en_gum-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gum-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -76,7 +76,7 @@ The following 6 pairs of parts of speech are connected with `compound:prt`: <tt>
 1	So	so	ADV	RB	_	5	advmod	5:advmod	Discourse=context-background:15->19:3:ref-dem-161-165,192-194-_+sem-synym-175,196-198-_|PDTB=Explicit:Contingency.Cause.Result:so:151:128-150:152-184
 2	Secretary	Secretary	PROPN	NNP	Number=Sing	3	nmod:desc	3:nmod:desc	Entity=(42-person-auto-snsnn-cf3-2-coref-Miguel_Cardona
 3	Cardona	Cardona	PROPN	NNP	Number=Sing	5	nsubj	5:nsubj	Entity=42)
-4	again	again	ADV	RB	Degree=Pos	5	advmod	5:advmod	_
+4	again	again	ADV	RB	_	5	advmod	5:advmod	_
 5	invoked	invoke	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	Entity=(43-event-new-nnnnn-cf8-1-disc|MSeg=in-vok-ed
 6	the	the	DET	DT	Definite=Def|PronType=Art	8	det	8:det	Entity=(30-abstract-giv:inact-sssns-cf4-2,3-coref-Higher_Education_Relief_Opportunities_For_Students_Act
 7	HEROES	HEROES	PROPN	NNP	Number=Sing	8	compound	8:compound	XML=<hi rend:::"caps"></hi>

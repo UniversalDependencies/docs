@@ -23,7 +23,7 @@ The following 9 pairs of parts of speech are connected with `mark`: <tt><a href=
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 6 mark	color:blue
-1	ᡨᠠᠴᡞᠨ	ᡨᠠᠴᡞᠨ	NOUN	_	_	4	obl	_	Translit=tacin
+1	ᡨᠠᠴᡞᠨ	ᡨᠠᠴᡞᠨ	NOUN	_	_	4	nmod	_	Translit=tacin
 2	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	1	case	_	Translit=de
 3	ᠮᠠᡢᡤᠠ	ᠮᠠᡢᡤᠠ	ADJ	_	Degree=Pos	4	amod	_	Translit=mangga
 4	ᡫᠣᠨᡪᡞᠨ	ᡫᠣᠨᡪᡞᠨ	NOUN	_	_	5	obj	_	Translit=fonjin

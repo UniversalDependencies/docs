@@ -23,7 +23,7 @@ The following 3 pairs of parts of speech are connected with `cc`: <tt><a href="k
 # visual-style 10	fgColor:white
 # visual-style 10 7 cc	color:blue
 1	그녀는	그녀	PRON	PRP+CM	Case=Nom|Person=3|Polite=Form	16	nsubj	_	MSeg=그녀-는|Translit=.geu.nyeo.neun|LTranslit=.geu.nyeo
-2	용의자가	용의자	NOUN	NN+CM	Case=Nom|Polite=Form	12	nsubj	_	MSeg=용의자-가|Translit=.yong.yi.ja.ga|LTranslit=.yong.yi.ja
+2	용의자가	용의자	NOUN	NN+CM	Case=Nom|Polite=Form	12	nsubj:outer	_	MSeg=용의자-가|Translit=.yong.yi.ja.ga|LTranslit=.yong.yi.ja
 3	이	_	DET	DT	_	4	det	_	Translit=.i
 4	학교나	학교	NOUN	NN+CP	Polite=Form	12	obl	_	MSeg=학교-나|Translit=.hag.gyo.na|LTranslit=.hag.gyo
 5	그	_	DET	DT	_	6	det	_	Translit=.geu

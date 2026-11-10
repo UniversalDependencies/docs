@@ -9,20 +9,20 @@ udver: '2'
 This feature is universal.
 It occurs with 4 different values: `Art`, `Dem`, `Ind`, `Prs`.
 
-3738 tokens (16%) have a non-empty value of `PronType`.
+3789 tokens (16%) have a non-empty value of `PronType`.
 43 types (1%) occur at least once with a non-empty value of `PronType`.
 11 lemmas (0%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 3 part-of-speech tags: <tt><a href="it_pud-pos-DET.html">DET</a></tt> (3495; 15% instances), <tt><a href="it_pud-pos-PRON.html">PRON</a></tt> (241; 1% instances), <tt><a href="it_pud-pos-NOUN.html">NOUN</a></tt> (2; 0% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="it_pud-pos-DET.html">DET</a></tt> (3546; 15% instances), <tt><a href="it_pud-pos-PRON.html">PRON</a></tt> (241; 1% instances), <tt><a href="it_pud-pos-NOUN.html">NOUN</a></tt> (2; 0% instances).
 
 ### `DET`
 
-3495 <tt><a href="it_pud-pos-DET.html">DET</a></tt> tokens (92% of all `DET` tokens) have a non-empty value of `PronType`.
+3546 <tt><a href="it_pud-pos-DET.html">DET</a></tt> tokens (92% of all `DET` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="it_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2691; 77%), <tt><a href="it_pud-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (2019; 58%), <tt><a href="it_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (2001; 57%).
+The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="it_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2738; 77%), <tt><a href="it_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (2038; 57%), <tt><a href="it_pud-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (2019; 57%).
 
 `DET` tokens may have the following values of `PronType`:
 
-* `Art` (3493; 100% of non-empty `PronType`): <em>il, la, l', i, le, un, una, gli, lo, un'</em>
+* `Art` (3544; 100% of non-empty `PronType`): <em>il, la, l', i, le, un, una, gli, lo, un'</em>
 * `Prs` (2; 0% of non-empty `PronType`): <em>sua</em>
 * `EMPTY` (290): <em>questo, questa, ogni, ciò, molti, alcuni, altri, altre, molte, queste</em>
 

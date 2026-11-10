@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="zh_patentchar-dep-obl.html">obl</a></tt>.
 
-57 nodes (1%) are attached to their parents as `obl:arg`.
+61 nodes (1%) are attached to their parents as `obl:arg`.
 
-56 instances of `obl:arg` (98%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.78947368421053.
+59 instances of `obl:arg` (97%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.9344262295082.
 
-The following 6 pairs of parts of speech are connected with `obl:arg`: <tt><a href="zh_patentchar-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_patentchar-pos-NOUN.html">NOUN</a></tt> (45; 79% instances), <tt><a href="zh_patentchar-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_patentchar-pos-ADP.html">ADP</a></tt> (4; 7% instances), <tt><a href="zh_patentchar-pos-ADJ.html">ADJ</a></tt>-<tt><a href="zh_patentchar-pos-NOUN.html">NOUN</a></tt> (3; 5% instances), <tt><a href="zh_patentchar-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_patentchar-pos-PART.html">PART</a></tt> (3; 5% instances), <tt><a href="zh_patentchar-pos-ADP.html">ADP</a></tt>-<tt><a href="zh_patentchar-pos-ADP.html">ADP</a></tt> (1; 2% instances), <tt><a href="zh_patentchar-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_patentchar-pos-PROPN.html">PROPN</a></tt> (1; 2% instances).
+The following 8 pairs of parts of speech are connected with `obl:arg`: <tt><a href="zh_patentchar-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_patentchar-pos-NOUN.html">NOUN</a></tt> (45; 74% instances), <tt><a href="zh_patentchar-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_patentchar-pos-ADP.html">ADP</a></tt> (5; 8% instances), <tt><a href="zh_patentchar-pos-ADJ.html">ADJ</a></tt>-<tt><a href="zh_patentchar-pos-NOUN.html">NOUN</a></tt> (3; 5% instances), <tt><a href="zh_patentchar-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_patentchar-pos-PART.html">PART</a></tt> (3; 5% instances), <tt><a href="zh_patentchar-pos-ADP.html">ADP</a></tt>-<tt><a href="zh_patentchar-pos-ADP.html">ADP</a></tt> (2; 3% instances), <tt><a href="zh_patentchar-pos-ADP.html">ADP</a></tt>-<tt><a href="zh_patentchar-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="zh_patentchar-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="zh_patentchar-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="zh_patentchar-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_patentchar-pos-PROPN.html">PROPN</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -43,25 +43,29 @@ The following 6 pairs of parts of speech are connected with `obl:arg`: <tt><a hr
 
 
 ~~~ conllu
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 12 13 obl:arg	color:blue
-1	2.	_	PUNCT	_	_	8	punct	_	Gloss=_|SpaceAfter=No|Translit=2.
-2	根据	_	ADP	_	_	4	mark	_	Gloss=_|SpaceAfter=No|Translit=gēn_jù
-3	权利	_	NOUN	_	_	4	obl	_	Gloss=_|SpaceAfter=No|Translit=quán_lì
-4	要求	_	VERB	_	_	6	acl	_	Gloss=_|SpaceAfter=No|Translit=yào_qíu
-5	1	_	NUM	_	_	4	obl	_	Gloss=_|SpaceAfter=No|Translit=1
-6	所述	_	ADJ	_	_	8	nmod	_	Gloss=_|SpaceAfter=No|Translit=suǒ_shù
-7	的	_	PART	_	_	6	case	_	Gloss=_|SpaceAfter=No|Translit=de
-8	系统	_	NOUN	_	_	0	root	_	Gloss=_|SpaceAfter=No|Translit=xì_tǒng
-9	，	_	PUNCT	_	_	12	punct	_	Gloss=_|SpaceAfter=No|Translit=，
-10	其	_	PRON	_	_	11	nmod	_	Gloss=_|SpaceAfter=No|Translit=qí
-11	特征	_	NOUN	_	_	12	nsubj	_	Gloss=_|SpaceAfter=No|Translit=tè_zhēng
-12	在	_	VERB	_	_	8	parataxis	_	Gloss=_|SpaceAfter=No|Translit=zài
-13	于	_	ADP	_	_	12	obl:arg	_	Gloss=_|SpaceAfter=No|Translit=yú
-14	，	_	PUNCT	_	_	8	punct	_	Gloss=_|SpaceAfter=No|Translit=，
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 5 obl:arg	color:blue
+1	处理	_	VERB	_	_	2	acl	_	Gloss=_|SpaceAfter=No|Translit=chù_lǐ
+2	单元	_	NOUN	_	_	0	root	_	Gloss=_|SpaceAfter=No|Translit=dān_yuán
+3	，	_	PUNCT	_	_	4	punct	_	Gloss=_|SpaceAfter=No|Translit=，
+4	用	_	VERB	_	_	2	parataxis	_	Gloss=_|SpaceAfter=No|Translit=yòng
+5	于	_	ADP	_	_	4	obl:arg	_	Gloss=_|SpaceAfter=No|Translit=yú
+6	对	_	PART	_	_	14	mark	_	Gloss=_|SpaceAfter=No|Translit=dùi
+7	所述	_	ADJ	_	_	10	amod	_	Gloss=_|SpaceAfter=No|Translit=suǒ_shù
+8	主	_	ADJ	_	_	10	amod	_	Gloss=_|SpaceAfter=No|Translit=zhǔ
+9	交换	_	VERB	_	_	10	acl	_	Gloss=_|SpaceAfter=No|Translit=jiāo_huàn
+10	芯片	_	NOUN	_	_	11	nsubj	_	Gloss=_|SpaceAfter=No|Translit=xīn_piàn
+11	传输	_	VERB	_	_	14	advcl	_	Gloss=_|SpaceAfter=No|Translit=chuán_shū
+12	的	_	PART	_	_	11	mark	_	Gloss=_|SpaceAfter=No|Translit=de
+13	数据	_	NOUN	_	_	14	obj	_	Gloss=_|SpaceAfter=No|Translit=shù_jù
+14	进行	_	VERB	_	_	5	ccomp	_	Gloss=_|SpaceAfter=No|Translit=jìn_xíng
+15	处理	_	VERB	_	_	14	ccomp	_	Gloss=_|SpaceAfter=No|Translit=chù_lǐ
+16	或	_	CCONJ	_	_	17	cc	_	Gloss=_|SpaceAfter=No|Translit=huò
+17	预处理	_	VERB	_	_	15	conj	_	Gloss=_|SpaceAfter=No|Translit=yù_chù_lǐ
+18	。	_	PUNCT	_	_	2	punct	_	Gloss=_|SpaceAfter=No|Translit=。
 
 ~~~
 

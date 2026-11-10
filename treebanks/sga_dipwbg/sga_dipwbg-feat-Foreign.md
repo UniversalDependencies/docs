@@ -32,5 +32,5 @@ The most frequent other feature values with which `NOUN` and `Foreign` co-occurr
 `NOUN` tokens may have the following values of `Foreign`:
 
 * `Yes` (2; 100% of non-empty `Foreign`): <em>gloria, legis</em>
-* `EMPTY` (64): <em>cenn, nem, precept, precepte, soscéli, airli, belre, biada, béssu, carcair</em>
+* `EMPTY` (62): <em>cenn, nem, precept, precepte, soscéli, airli, belre, biada, béssu, carcair</em>
 

@@ -10,24 +10,24 @@ This feature is universal.
 It occurs with 7 different values: `Acc`, `Dat`, `Gen`, `Ins`, `Loc`, `Nom`, `Voc`.
 Some words have combined values of the feature; 1 combinations have been observed: `Acc|Gen`.
 
-66912 tokens (49%) have a non-empty value of `Case`.
+66911 tokens (49%) have a non-empty value of `Case`.
 19970 types (77%) occur at least once with a non-empty value of `Case`.
-7279 lemmas (77%) occur at least once with a non-empty value of `Case`.
-The feature is used with 8 part-of-speech tags: <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (27188; 20% instances), <tt><a href="orv_ruthenian-pos-PROPN.html">PROPN</a></tt> (9866; 7% instances), <tt><a href="orv_ruthenian-pos-DET.html">DET</a></tt> (9805; 7% instances), <tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt> (8891; 6% instances), <tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt> (8837; 6% instances), <tt><a href="orv_ruthenian-pos-NUM.html">NUM</a></tt> (1292; 1% instances), <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt> (1028; 1% instances), <tt><a href="orv_ruthenian-pos-AUX.html">AUX</a></tt> (5; 0% instances).
+7280 lemmas (77%) occur at least once with a non-empty value of `Case`.
+The feature is used with 8 part-of-speech tags: <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (27188; 20% instances), <tt><a href="orv_ruthenian-pos-PROPN.html">PROPN</a></tt> (9866; 7% instances), <tt><a href="orv_ruthenian-pos-DET.html">DET</a></tt> (9805; 7% instances), <tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt> (8891; 6% instances), <tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt> (8836; 6% instances), <tt><a href="orv_ruthenian-pos-NUM.html">NUM</a></tt> (1292; 1% instances), <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt> (1028; 1% instances), <tt><a href="orv_ruthenian-pos-AUX.html">AUX</a></tt> (5; 0% instances).
 
 ### `NOUN`
 
 27188 <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="orv_ruthenian-feat-Number.html">Number</a></tt><tt>=Sing</tt> (19125; 70%), <tt><a href="orv_ruthenian-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (15822; 58%).
+The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="orv_ruthenian-feat-Number.html">Number</a></tt><tt>=Sing</tt> (19124; 70%), <tt><a href="orv_ruthenian-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (15822; 58%).
 
 `NOUN` tokens may have the following values of `Case`:
 
 * `Acc` (5716; 21% of non-empty `Case`): <em>имѧ, листъ, землю, люди, имя, д(е)нь, право, ска(р)гу, листы, земли</em>
 * `Dat` (3344; 12% of non-empty `Case`): <em>пану, м(и)л(о)сти, ратманом, паном, приятелем, ратманомъ, панꙋ, полочаном, жоне, мѣщаном</em>
-* `Gen` (7966; 29% of non-empty `Case`): <em>м(и)л(о)сти, мѣста, копъ, пана, людеи, брата, земли, права, грошеи, места</em>
+* `Gen` (7967; 29% of non-empty `Case`): <em>м(и)л(о)сти, мѣста, копъ, пана, людеи, брата, земли, права, грошеи, места</em>
 * `Ins` (2913; 11% of non-empty `Case`): <em>листом, листомъ, м(и)л(о)стью, чоломъ, чолом, атамано(м), землею, паны, гоны, люд(ь)ми</em>
-* `Loc` (1641; 6% of non-empty `Case`): <em>повете, месте, земли, сторонѣ, волости, дому, реце, повѣте, городе, листе</em>
+* `Loc` (1640; 6% of non-empty `Case`): <em>повете, месте, земли, сторонѣ, волости, дому, реце, повѣте, городе, листе</em>
 * `Nom` (5571; 20% of non-empty `Case`): <em>м(и)л(о)сть, панъ, пан, люди, воевода, корол(ь), Знак, справа, мещане, кн(ѧ)зь</em>
 * `Voc` (37; 0% of non-empty `Case`): <em>боже, ѡ(т)че, епископе, Б(о)же, вряде, кнѧж(е), местерю, мужу, Панѣ, атаманє</em>
 * `EMPTY` (56): <em>Самъ., об., м(л)., м҃(л), ве(л)., гла(в), Сам., н.[айме], ѡбыва(т)., (н.[айме])</em>
@@ -125,9 +125,9 @@ The most frequent other feature values with which `ADJ` and `Case` co-occurred: 
 
 ### `PRON`
 
-8837 <tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt> tokens (97% of all `PRON` tokens) have a non-empty value of `Case`.
+8836 <tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt> tokens (97% of all `PRON` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="orv_ruthenian-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (6046; 68%), <tt><a href="orv_ruthenian-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5383; 61%).
+The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="orv_ruthenian-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (6046; 68%), <tt><a href="orv_ruthenian-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5382; 61%).
 
 `PRON` tokens may have the following values of `Case`:
 
@@ -137,7 +137,7 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 * `Gen` (2622; 30% of non-empty `Case`): <em>его, их, того, ихъ, нас, єго, ег(о), насъ, него, ее</em>
 * `Ins` (726; 8% of non-empty `Case`): <em>нами, (м)ною, собою, тым, ними, тымъ, вами, ним, чимъ, мъною</em>
 * `Loc` (535; 6% of non-empty `Case`): <em>том, томъ, мнѣ, них, себе, чомъ, (м)нѣ, то(м), чом, собѣ</em>
-* `Nom` (1805; 20% of non-empty `Case`): <em>мы, што, то, хто, ѡни, я, ѡнъ, ѡн, вы, що</em>
+* `Nom` (1804; 20% of non-empty `Case`): <em>мы, што, то, хто, ѡни, я, ѡнъ, ѡн, вы, що</em>
 * `EMPTY` (234): <em>сѧ, ся, се, сє, сѣ, [ся, с(ѧ)</em>
 
 <table>
@@ -189,7 +189,7 @@ The most frequent other feature values with which `VERB` and `Case` co-occurred:
 * `Ins` (23; 2% of non-empty `Case`): <em>писаным, рожоны(м), биты(м), ви(с)ла(н)нымъ, выдаными, выписаною, зложонымъ, зосла(н)ными, лежачого, описа(н)ъни(м)</em>
 * `Loc` (18; 2% of non-empty `Case`): <em>видано(м), виданомь, виконано(м), выписаномъ, зготованыхъ, мененом, мурованои, оумовленом, писаномъ, поданомъ</em>
 * `Nom` (734; 71% of non-empty `Case`): <em>псан, записано, писан, дано, выписано, писанъ, псанъ, дан, данъ, писано</em>
-* `EMPTY` (10756): <em>дали, казали, мають, мают(ь), дал, маеть, держати, послали, записа(т), далъ</em>
+* `EMPTY` (10757): <em>дали, казали, мають, мают(ь), дал, маеть, держати, послали, записа(т), далъ</em>
 
 <table>
   <tr><th>Paradigm <i>писати</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th></tr>
@@ -218,7 +218,7 @@ The most frequent other feature values with which `AUX` and `Case` co-occurred: 
 * `Gen` (2; 40% of non-empty `Case`): <em>будучи(х), бывъшого</em>
 * `Ins` (1; 20% of non-empty `Case`): <em>бывъши(м)</em>
 * `Nom` (2; 40% of non-empty `Case`): <em>будучие, будущіи</em>
-* `EMPTY` (2163): <em>есмо, бы, были, было, быти, будучи, был, есми, былъ, есте</em>
+* `EMPTY` (2162): <em>есмо, бы, были, было, быти, был, будучи, есми, былъ, есте</em>
 
 <table>
   <tr><th>Paradigm <i>быти</i></th><th><tt>Nom</tt></th><th><tt>Gen</tt></th><th><tt>Ins</tt></th></tr>
@@ -230,12 +230,12 @@ The most frequent other feature values with which `AUX` and `Case` co-occurred: 
 ## Relations with Agreement in `Case`
 
 The 10 most frequent relations where parent and child node agree in `Case`:
-<tt>NOUN --[<tt><a href="orv_ruthenian-dep-det.html">det</a></tt>]--> DET</tt> (7628; 100%),
-<tt>NOUN --[<tt><a href="orv_ruthenian-dep-amod.html">amod</a></tt>]--> ADJ</tt> (6711; 99%),
+<tt>NOUN --[<tt><a href="orv_ruthenian-dep-det.html">det</a></tt>]--> DET</tt> (7629; 100%),
+<tt>NOUN --[<tt><a href="orv_ruthenian-dep-amod.html">amod</a></tt>]--> ADJ</tt> (6712; 99%),
 <tt>NOUN --[<tt><a href="orv_ruthenian-dep-conj.html">conj</a></tt>]--> NOUN</tt> (3658; 87%),
 <tt>PROPN --[<tt><a href="orv_ruthenian-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (2212; 94%),
 <tt>NOUN --[<tt><a href="orv_ruthenian-dep-appos.html">appos</a></tt>]--> PROPN</tt> (2079; 94%),
-<tt>NOUN --[<tt><a href="orv_ruthenian-dep-appos.html">appos</a></tt>]--> NOUN</tt> (1823; 90%),
+<tt>NOUN --[<tt><a href="orv_ruthenian-dep-appos.html">appos</a></tt>]--> NOUN</tt> (1824; 90%),
 <tt>PROPN --[<tt><a href="orv_ruthenian-dep-conj.html">conj</a></tt>]--> PROPN</tt> (1153; 90%),
 <tt>PROPN --[<tt><a href="orv_ruthenian-dep-appos.html">appos</a></tt>]--> NOUN</tt> (741; 87%),
 <tt>ADJ --[<tt><a href="orv_ruthenian-dep-conj.html">conj</a></tt>]--> ADJ</tt> (528; 99%),

@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="ru_taiga-dep-flat.html">flat</a></tt>.
 There are also 2 other language-specific subtypes of `flat`: <tt><a href="ru_taiga-dep-flat-goeswith.html">flat:goeswith</a></tt>, <tt><a href="ru_taiga-dep-flat-name.html">flat:name</a></tt>.
 
-1267 nodes (0%) are attached to their parents as `flat:foreign`.
+1264 nodes (0%) are attached to their parents as `flat:foreign`.
 
-1267 instances of `flat:foreign` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.96053670086819.
+1264 instances of `flat:foreign` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.96835443037975.
 
-The following 6 pairs of parts of speech are connected with `flat:foreign`: <tt><a href="ru_taiga-pos-X.html">X</a></tt>-<tt><a href="ru_taiga-pos-X.html">X</a></tt> (1257; 99% instances), <tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt>-<tt><a href="ru_taiga-pos-X.html">X</a></tt> (4; 0% instances), <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_taiga-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="ru_taiga-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_taiga-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="ru_taiga-pos-X.html">X</a></tt>-<tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 2 pairs of parts of speech are connected with `flat:foreign`: <tt><a href="ru_taiga-pos-X.html">X</a></tt>-<tt><a href="ru_taiga-pos-X.html">X</a></tt> (1260; 100% instances), <tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt>-<tt><a href="ru_taiga-pos-X.html">X</a></tt> (4; 0% instances).
 
 
 ~~~ conllu
@@ -85,23 +85,6 @@ The following 6 pairs of parts of speech are connected with `flat:foreign`: <tt>
 40	транс	транс	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	41	compound	_	_
 41	дискографии	дискография	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	38	nmod	_	_
 42	?	?	PUNCT	_	_	1	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 6 flat:foreign	color:blue
-1	—	—	PUNCT	_	_	3	punct	_	_
-2	У	у	ADP	_	_	3	case	_	_
-3	вас	вы	PRON	_	Case=Gen|Number=Plur|Person=2|PronType=Prs	0	root	_	_
-4	есть	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	_
-5	дор	дор	NOUN	_	Foreign=Yes	3	nsubj	_	_
-6	блю	блю	NOUN	_	Foreign=Yes	5	flat:foreign	_	SpaceAfter=No
-7	?	?	PUNCT	_	_	3	punct	_	_
 
 ~~~
 

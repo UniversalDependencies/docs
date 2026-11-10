@@ -71,7 +71,7 @@ The following 6 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 7	γὰρ	γάρ	SCONJ	_	_	9	mark	_	Gloss=for,because|Ref=GEN_45.11
 8	πέντε	πέντε	NUM	_	NumType=Card	9	nummod	_	Gloss=five|Ref=GEN_45.11
 9	ἔτη	ἔτος	NOUN	_	Case=Acc,Nom|Gender=Neut|Number=Plur	2	advcl	_	Gloss=years|Ref=GEN_45.11
-10	λιμός	λιμός	NOUN	_	Case=Nom|Gender=Fem,Masc|Number=Sing	9	nsubj	_	Gloss=famine|Ref=GEN_45.11|SpaceAfter=No
+10	λιμός	λιμός	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	Gloss=famine|Ref=GEN_45.11|SpaceAfter=No
 11	—,	—,	PUNCT	_	_	14	punct	_	Ref=GEN_45.11
 12	ἵνα	ἵνα	SCONJ	_	_	14	mark	_	Gloss=in-order-that|Ref=GEN_45.11
 13	μὴ	μή	ADV	_	Polarity=Neg	14	advmod	_	Gloss=no,not|Ref=GEN_45.11

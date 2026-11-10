@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.5 release.
 The following people have contributed to making this treebank part of UD: Atul Kr. Ojha, Daniel Zeman.
 
 Repository: [UD_Bhojpuri-BHTB](https://github.com/UniversalDependencies/UD_Bhojpuri-BHTB)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udbho_bhtb218)<br />
-Download all treebanks: [UD 2.18](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udbho_bhtb219)<br />
+Download all treebanks: [UD 2.19](/#download)
 
 License: CC BY-SA 4.0
 
@@ -137,7 +137,7 @@ year={2015}
 </ul>
 
 <ul>
-<li>This corpus contains 38 word types tagged as particles (PART): अतना, अलावे, उहाँसे, केहू, खानी, खाली, गमगमावे, घटना, जादा, ठाक, ढेर, त, तनिको, तिकवते, नइखी, नइखे, ना, नाहीं, पास, बनवले, बस, बहुत, बहुते, बाकिर, बिना, भर, भलही, भा, भी, वां, सँ, सन, सबले, सबसे, सभ, सी, सूखाड़, से</li>
+<li>This corpus contains 37 word types tagged as particles (PART): अतना, अलावे, उहाँसे, केहू, खानी, खाली, गमगमावे, घटना, जादा, ठाक, ढेर, त, तनिको, तिकवते, नइखी, नइखे, ना, नाहीं, पास, बनवले, बस, बहुत, बहुते, बिना, भर, भलही, भा, भी, वां, सँ, सन, सबले, सबसे, सभ, सी, सूखाड़, से</li>
 </ul>
 
 <ul>

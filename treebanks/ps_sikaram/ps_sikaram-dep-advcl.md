@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `advcl`: <tt><a href="ps_sikaram-dep-advcl-relcl.html">advcl:relcl</a></tt>.
 
-73 nodes (1%) are attached to their parents as `advcl`.
+91 nodes (1%) are attached to their parents as `advcl`.
 
-38 instances of `advcl` (52%) are left-to-right (parent precedes child).
-Average distance between parent and child is 10.8219178082192.
+47 instances of `advcl` (52%) are right-to-left (child precedes parent).
+Average distance between parent and child is 11.5274725274725.
 
-The following 9 pairs of parts of speech are connected with `advcl`: <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt> (52; 71% instances), <tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt> (8; 11% instances), <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt> (5; 7% instances), <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt> (3; 4% instances), <tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="ps_sikaram-pos-PRON.html">PRON</a></tt>-<tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="ps_sikaram-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt> (1; 1% instances).
+The following 11 pairs of parts of speech are connected with `advcl`: <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt> (65; 71% instances), <tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt> (8; 9% instances), <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt> (6; 7% instances), <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt> (5; 5% instances), <tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="ps_sikaram-pos-AUX.html">AUX</a></tt>-<tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ps_sikaram-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="ps_sikaram-pos-PRON.html">PRON</a></tt>-<tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="ps_sikaram-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -72,61 +72,63 @@ The following 9 pairs of parts of speech are connected with `advcl`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 37	bgColor:blue
-# visual-style 37	fgColor:white
-# visual-style 25	bgColor:blue
-# visual-style 25	fgColor:white
-# visual-style 25 37 advcl	color:blue
-1	د	د	ADP	_	Case=Acc	2	case	_	Translit=dë|LTranslit=dë|Gloss=of
-2	دې	دا	PRON	_	Case=Acc|Deixis=Prox|PronType=Dem	25	obl	_	Translit=de|LTranslit=dâ|Gloss=this
-3	لپاره	لپاره	ADP	_	Case=Acc	2	case	_	Translit=lapấra|LTranslit=lapấra|Gloss=for
-4	چې	چې	SCONJ	_	_	14	mark	_	Translit=če|LTranslit=če|Gloss=that
-5	دغه	دغه	DET	_	Case=Nom|Deixis=Prox|PronType=Dem|Variant=Long	10	det	_	Translit=dáġa|LTranslit=dáġa|Gloss=these
-6	مانیزې	مانیز	ADJ	_	Case=Nom|Gender=Fem|Number=Plur	10	amod	_	Translit=mâníze|LTranslit=mâníz|Gloss=mental
-7	(	(	PUNCT	_	_	8	punct	_	Translit=(|LTranslit=(|Gloss=(|SpaceAfter=No
-8	معنوي	معنوي	ADJ	_	Case=Nom|Gender=Fem|Number=Plur	6	appos	_	Translit=manawí|LTranslit=manawí|Gloss=spiritual|SpaceAfter=No
-9	)	)	PUNCT	_	_	8	punct	_	Translit=)|LTranslit=)|Gloss=)
-10	اړيکې	اړيکه	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	14	nsubj	_	Translit=aṛíke|LTranslit=aṛíka|Gloss=relationships
-11	نورې	نور	ADJ	_	Case=Nom|Gender=Fem|Number=Plur	12	advmod	_	Translit=nóre|LTranslit=nor|Gloss=further
-12	هم	هم	ADV	_	_	13	advmod	_	Translit=ham|LTranslit=ham|Gloss=more
-13	پیاوړې	پیاوړی	ADJ	_	Case=Nom|Gender=Fem|Number=Plur	14	xcomp	_	Translit=pyâwë́ṛe|LTranslit=pyâwë́ṛay|Gloss=strong
-14	شي	کېدل	VERB	_	Mood=Sub|Number=Plur|Person=3|VerbForm=Fin	2	acl	_	Translit=ši|LTranslit=kedë́l|Gloss=become
-15	او	او	CCONJ	_	_	22	cc	_	Translit=aw|LTranslit=aw|Gloss=and
-16	په	پۀ	ADP	_	Case=Loc	17	case	_	Translit=pë|LTranslit=pë|Gloss=at
-17	خلکو	خلک	NOUN	_	Case=Loc|Gender=Masc|Number=Coll	22	obl	_	Translit=xálko|LTranslit=xalk|Gloss=people
-18	کې	کې	ADP	_	Case=Loc	17	case	_	Translit=ke|LTranslit=ke|Gloss=among
-19	اسلام	اسلام	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	22	nsubj	_	Translit=islấm|LTranslit=islấm|Gloss=Islam
-20	لا	لا	ADV	_	_	22	advmod	_	Translit=lâ|LTranslit=lâ|Gloss=more
-21	غزونې	غزونه	NOUN	_	Case=Nom|Gender=Fem|Number=Plur|VerbForm=Vnoun	22	obj	_	Translit=ġazawë́ne|LTranslit=ġazawë́na|Gloss=extensions|LDeriv=غزول|LDTranslit=ġazawë́l
-22	وکړي	کول	VERB	_	Mood=Sub|Number=Plur|Person=3|Variant=Long|VerbForm=Fin	14	conj	_	Translit=wë́kṛi|LTranslit=kawë́l|Gloss=do|SpaceAfter=No
-23	،	،	PUNCT	_	_	14	punct	_	Translit=,|LTranslit=,|Gloss=,
-24	په	پۀ	ADP	_	Case=Loc	25	case	_	Translit=pë|LTranslit=pë|Gloss=at
-25	کار	کار	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	0	root	_	Translit=kâr|LTranslit=kâr|Gloss=need
-26	ده	ول	AUX	_	Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	25	cop	_	Translit=da|LTranslit=wël|Gloss=is
-27	چې	چې	SCONJ	_	_	37	mark	_	Translit=če|LTranslit=če|Gloss=that
-28	په	پۀ	ADP	_	Case=Loc	29	case	_	Translit=pë|LTranslit=pë|Gloss=at
-29	مسجدونو	مسجد	NOUN	_	Case=Loc|Gender=Masc|Number=Plur	37	obl	_	Translit=masǰidúno|LTranslit=masǰíd|Gloss=mosques
-30	کې	کې	ADP	_	Case=Loc	29	case	_	Translit=ke|LTranslit=ke|Gloss=in
-31	ماشومانو	ماشوم	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	37	obl	_	Translit=mâšumấno|LTranslit=mâšúm|Gloss=children
-32	ته	ته	ADP	_	Case=Acc	31	case	_	Translit=ta|LTranslit=ta|Gloss=to
-33	تدريسېدونکي	تدريسېدونکی	ADJ	_	Case=Nom|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act	34	amod	_	Translit=tadrisedúnki|LTranslit=tadrisedúnkay|Gloss=text|LDeriv=تدريسېدل|LDTranslit=tadrisedë́l
-34	کتابونه	کتاب	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	37	nsubj:pass	_	Translit=kitâbúna|LTranslit=kitấb|Gloss=books
-35	په	پۀ	ADP	_	Case=Loc	36	case	_	Translit=pë|LTranslit=pë|Gloss=at
-36	پښتو	پښتو	PROPN	_	Case=Loc|Gender=Fem|Number=Sing	37	obl	_	Translit=pax̌tó|LTranslit=pax̌tó|Gloss=Pashto
-37	وژباړل	ژباړل	VERB	_	Aspect=Perf|Case=Nom|VerbForm=Inf	25	advcl	_	Translit=wë́žbâṛël|LTranslit=žbâṛë́l|Gloss=translated
-38	شي	کېدل	AUX	_	Mood=Sub|Number=Plur|Person=3|VerbForm=Fin	37	aux:pass	_	Translit=ši|LTranslit=kedë́l|Gloss=are|SpaceAfter=No
-39	،	،	PUNCT	_	_	42	punct	_	Translit=,|LTranslit=,|Gloss=,
-40	البته	البته	ADV	_	_	42	advmod	_	Translit=albatá|LTranslit=albatá|Gloss=of-course
-41	هغه	هغه	DET	_	Case=Nom|Deixis=Remt|PronType=Dem	42	det	_	Translit=háġa|LTranslit=háġa|Gloss=those
-42	کتابونه	کتاب	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	34	appos	_	Translit=kitâbúna|LTranslit=kitấb|Gloss=books
-43	چې	چې	SCONJ	_	_	48	mark	_	Translit=če|LTranslit=če|Gloss=that
-44	په	پۀ	ADP	_	Case=Loc	48	case	_	Translit=pë|LTranslit=pë|Gloss=at
-45	پاړسي	پاړسي	PROPN	_	Case=Loc|Gender=Fem|Number=Sing	48	nmod	_	Translit=pâṛsí|LTranslit=pâṛsí|Gloss=Parsi
-46	يا	يا	CCONJ	_	_	47	cc	_	Translit=yâ|LTranslit=yâ|Gloss=or
-47	اردو	اردو	PROPN	_	Case=Loc|Gender=Fem|Number=Sing	45	conj	_	Translit=urdú|LTranslit=urdú|Gloss=Urdu
-48	ژبو	ژبه	NOUN	_	Case=Loc|Gender=Fem|Number=Plur	42	acl:relcl	_	Translit=žë́bo|LTranslit=žë́ba|Gloss=languages
-49	دي	ول	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	48	cop	_	Translit=di|LTranslit=wël|Gloss=are|SpaceAfter=No
-50	.	.	PUNCT	_	_	25	punct	_	Translit=.|LTranslit=.|Gloss=.|SpaceAfter=No
+# visual-style 26	bgColor:blue
+# visual-style 26	fgColor:white
+# visual-style 31	bgColor:blue
+# visual-style 31	fgColor:white
+# visual-style 31 26 advcl	color:blue
+1	که	کۀ	SCONJ	_	_	16	mark	_	Translit=kë|LTranslit=kë|Gloss=if
+2	چېرې	چېرې	ADV	_	_	16	advmod	_	Translit=čére|LTranslit=čére|Gloss=somewhere
+3	دغه	دغه	DET	_	Case=Nom|Deixis=Prox|PronType=Dem|Variant=Long	4	det	_	Translit=dáġa|LTranslit=dáġa|Gloss=this
+4	ډول	ډول	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	9	nmod	_	Translit=ḍawl|LTranslit=ḍawl|Gloss=type
+5	نور	نور	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	9	amod	_	Translit=nor|LTranslit=nor|Gloss=other
+6	پوهنیز	پوهنیز	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	9	amod	_	Translit=pohaníz|LTranslit=pohaníz|Gloss=academic
+7	او	او	CCONJ	_	_	8	cc	_	Translit=aw|LTranslit=aw|Gloss=and
+8	پوهنتوني	پوهنتوني	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	6	conj	_	Translit=pohantuní|LTranslit=pohantuní|Gloss=university
+9	کتابونه	کتاب	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	16	nsubj	_	Translit=kitâbúna|LTranslit=kitấb|Gloss=books|SpaceAfter=No
+10	،	،	PUNCT	_	_	11	punct	_	Translit=,|LTranslit=,|Gloss=,
+11	خپرونې	خپرونه	NOUN	_	Case=Nom|Gender=Fem|Number=Plur|VerbForm=Vnoun	9	conj	_	Translit=xparawë́ne|LTranslit=xparawë́na|Gloss=releases|LDeriv=خپرول|LDTranslit=xparawë́l
+12	او	او	CCONJ	_	_	13	cc	_	Translit=aw|LTranslit=aw|Gloss=and
+13	مجلې	مجله	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	9	conj	_	Translit=muǰalé|LTranslit=muǰalá|Gloss=
+14	چاپ	چاپ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	16	compound:lvc	_	Translit=čâp|LTranslit=čâp|Gloss=print
+15	هم	هم	ADV	_	_	16	advmod	_	Translit=ham|LTranslit=ham|Gloss=also
+16	شي	کېدل	AUX	_	Mood=Sub|Number=Plur|Person=3|VerbForm=Fin	31	advcl	_	Translit=ši|LTranslit=kedë́l|Gloss=became|SpaceAfter=No
+17	،	،	PUNCT	_	_	16	punct	_	Translit=,|LTranslit=,|Gloss=,
+18	که	کۀ	SCONJ	_	_	26	mark	_	Translit=kë|LTranslit=kë|Gloss=if
+19	چارواکي	چارواکی	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	26	nsubj	_	Translit=čârwấki|LTranslit=čârwấkay|Gloss=officials
+20	او	او	CCONJ	_	_	22	cc	_	Translit=aw|LTranslit=aw|Gloss=and
+21	اړونده	اړوند	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	22	amod	_	Translit=âṛwánda|LTranslit=âṛwánd|Gloss=related
+22	مسئولین	مسئول	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	19	conj	_	Translit=mas'ulín|LTranslit=mas'ul|Gloss=responsible
+23	يې	يې	PRON	_	Person=3|PronType=Prs|Variant=Weak	24	nmod	_	Translit=ye|LTranslit=ye|Gloss=its
+24	مخه	مخه	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	26	obj	_	Translit=më́xa|LTranslit=më́xa|Gloss=front
+25	و	و	AUX	_	Aspect=Perf	26	aux:preverb	_	Translit=wë|LTranslit=wë|Gloss=_
+26	نیسي	نیول	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	31	advcl	_	Translit=nisí|LTranslit=niwë́l|Gloss=caught
+27	،	،	PUNCT	_	_	26	punct	_	Translit=,|LTranslit=,|Gloss=,
+28	بیا	بیا	ADV	_	_	31	advmod	_	Translit=byâ|LTranslit=byâ|Gloss=then
+29	هم	هم	ADV	_	_	31	advmod	_	Translit=ham|LTranslit=ham|Gloss=also
+30	بې	بې	ADP	_	Case=Abl	31	case	_	Translit=be|LTranslit=be|Gloss=without
+31	ګټې	ګټه	NOUN	_	Case=Abl|Gender=Fem|Number=Sing	0	root	_	Translit=gáṭe|LTranslit=gáṭa|Gloss=benefit
+32	کار	کار	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	31	nsubj	_	Translit=kâr|LTranslit=kâr|Gloss=work
+33	دی	ول	AUX	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	31	cop	_	Translit=dëy|LTranslit=wël|Gloss=is|SpaceAfter=No
+34	،	،	PUNCT	_	_	39	punct	_	Translit=,|LTranslit=,|Gloss=,
+35	نو	نو	ADV	_	_	39	advmod	_	Translit=no|LTranslit=no|Gloss=so
+36	چارواکو	چارواکی	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	39	obl	_	Translit=čârwấko|LTranslit=čârwấkay|Gloss=authorities
+37	ته	ته	ADP	_	Case=Acc	36	case	_	Translit=ta|LTranslit=ta|Gloss=to
+38	وړانديز	وړانديز	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	39	nsubj	_	Translit=wṛândíz|LTranslit=wṛândíz|Gloss=proposal
+39	کېږي	کېدل	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	31	conj	_	Translit=kéǧi|LTranslit=kedë́l|Gloss=becomes|SpaceAfter=No
+40	،	،	PUNCT	_	_	51	punct	_	Translit=,|LTranslit=,|Gloss=,
+41	چې	چې	SCONJ	_	_	51	mark	_	Translit=če|LTranslit=če|Gloss=that
+42	پښتو	پښتو	PROPN	_	Case=Acc|Gender=Fem|Number=Sing	51	obl	_	Translit=pax̌tó|LTranslit=pax̌tó|Gloss=Pashto
+43	ته	ته	ADP	_	Case=Acc	42	case	_	Translit=ta|LTranslit=ta|Gloss=to
+44	بايد	بايد	PART	_	_	51	advmod	_	Translit=bâyád|LTranslit=bâyád|Gloss=should
+45	خپله	خپل	DET	_	Case=Nom|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	46	det	_	Translit=xpë́la|LTranslit=xpël|Gloss=own
+46	برخه	برخه	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	51	obj	_	Translit=bárxa|LTranslit=bárxa|Gloss=section
+47	او	او	CCONJ	_	_	49	cc	_	Translit=aw|LTranslit=aw|Gloss=and
+48	روا	روا	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	49	amod	_	Translit=rawấ|LTranslit=rawấ|Gloss=acceptable
+49	حقوق	حق	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	46	conj	_	Translit=huqúq|LTranslit=haq|Gloss=rights
+50	ور	ور	PRON	_	Person=3|PronType=Prs|Variant=Dir	51	compound:preverb	_	Translit=war|LTranslit=war|Gloss=to-it
+51	کړي	کول	VERB	_	Mood=Sub|Number=Plur|Person=3|VerbForm=Fin	38	acl	_	Translit=kṛi|LTranslit=kawë́l|Gloss=do
+52	.	.	PUNCT	_	_	31	punct	_	Translit=.|LTranslit=.|Gloss=.|SpaceAfter=No
 
 ~~~
 

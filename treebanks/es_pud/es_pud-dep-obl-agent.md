@@ -12,7 +12,7 @@ There are also 2 other language-specific subtypes of `obl`: <tt><a href="es_pud-
 62 nodes (0%) are attached to their parents as `obl:agent`.
 
 59 instances of `obl:agent` (95%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.51612903225806.
+Average distance between parent and child is 3.46774193548387.
 
 The following 3 pairs of parts of speech are connected with `obl:agent`: <tt><a href="es_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> (41; 66% instances), <tt><a href="es_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="es_pud-pos-PROPN.html">PROPN</a></tt> (20; 32% instances), <tt><a href="es_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="es_pud-pos-PRON.html">PRON</a></tt> (1; 2% instances).
 
@@ -106,7 +106,7 @@ The following 3 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 29	presentar	presentar	VERB	VB	VerbForm=Inf	27	xcomp	_	_
 30	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	31	det	_	_
 31	espectáculo	espectáculo	NOUN	NN	Gender=Masc|Number=Sing	29	obj	_	_
-32	como	como	ADP	IN	_	33	case	_	_
+32	como	como	SCONJ	IN	_	33	case	_	_
 33	este	este	DET	DT	Gender=Masc|Number=Sing|PronType=Dem	31	nmod	_	SpaceAfter=No
 34	.	.	PUNCT	.	PunctType=Peri	14	punct	_	_
 

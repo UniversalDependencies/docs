@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="ro_nonstandard-dep-expl.html">expl</a></tt>.
 There are also 3 other language-specific subtypes of `expl`: <tt><a href="ro_nonstandard-dep-expl-impers.html">expl:impers</a></tt>, <tt><a href="ro_nonstandard-dep-expl-pass.html">expl:pass</a></tt>, <tt><a href="ro_nonstandard-dep-expl-pv.html">expl:pv</a></tt>.
 
-112 nodes (0%) are attached to their parents as `expl:poss`.
+123 nodes (0%) are attached to their parents as `expl:poss`.
 
-85 instances of `expl:poss` (76%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.28571428571429.
+96 instances of `expl:poss` (78%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.30081300813008.
 
-The following 4 pairs of parts of speech are connected with `expl:poss`: <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (107; 96% instances), <tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (3; 3% instances), <tt><a href="ro_nonstandard-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt>-<tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (1; 1% instances).
+The following 4 pairs of parts of speech are connected with `expl:poss`: <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (117; 95% instances), <tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (3; 2% instances), <tt><a href="ro_nonstandard-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (2; 2% instances), <tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt>-<tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -62,78 +62,39 @@ The following 4 pairs of parts of speech are connected with `expl:poss`: <tt><a 
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 2 expl:poss	color:blue
-1	Când	când	ADV	Rw	PronType=Int,Rel	6	advmod:tmod	_	_
-2	ți-	tu	PRON	Pp2-sd--------w	Case=Dat|Number=Sing|Person=2|PronType=Prs|Strength=Weak	6	expl:poss	_	SpaceAfter=No
-3	a	avea	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	6	aux	_	_
-4	fi	fi	AUX	Van	VerbForm=Inf	6	cop	_	_
-5	cămașa	cămașă	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	6	nsubj	_	_
-6	neagră	negru	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	10	advcl:tcl	_	SpaceAfter=No
-7	,	,	PUNCT	COMMA	_	6	punct	_	_
-8	S-	să	PART	Qs	PartType=Sub	10	mark	_	SpaceAfter=No
-9	o	el	PRON	Pp3fsa--------w	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs|Strength=Weak	10	obj	_	_
-10	trimiți	trimite	VERB	Vmsp2s	Mood=Sub|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
-11	ca	ca	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	15	mark	_	_
-12	să	să	PART	Qs	PartType=Sub	11	fixed	_	_
-13	ți-	tu	PRON	Pp2-sd--------w	Case=Dat|Number=Sing|Person=2|PronType=Prs|Strength=Weak	15	iobj	_	SpaceAfter=No
-14	o	el	PRON	Pp3fsa--------w	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs|Strength=Weak	15	obj	_	_
-15	spăl	spăla	VERB	Vmsp1s	Mood=Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	10	advcl	_	SpaceAfter=No
-16	,	,	PUNCT	COMMA	_	19	punct	_	_
-17	Nici	nici	ADV	Rg	_	19	advmod	_	_
-18	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	19	case	_	_
-19	spumă	spumă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	15	obl	_	_
-20	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	21	case	_	_
-21	săpun	săpun	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	19	nmod	_	SpaceAfter=No
-22	,	,	PUNCT	COMMA	_	25	punct	_	_
-23	Nici	nici	CCONJ	Cccsz	Compound=Yes|Polarity=Neg	25	cc	_	_
-24	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	25	case	_	_
-25	apă	apă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	19	conj	_	_
-26	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	27	case	_	_
-27	izvor	izvor	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	25	nmod	_	SpaceAfter=No
-28	,	,	PUNCT	COMMA	_	30	punct	_	_
-29	Cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	30	case	_	_
-30	lăcrimioare	lăcrimioară	NOUN	Ncfprn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Plur	19	conj	_	_
-31	de-	de	ADP	Spsa	AdpType=Prep|Case=Acc	33	case	_	SpaceAfter=No
-32	ale	al	DET	Tsfpr	Case=Acc,Nom|Gender=Fem|Number=Plur|Poss=Yes|PronType=Art	33	det	_	_
-33	mele	meu	PRON	Ps1fp-s	Gender=Fem|Number=Plur|Number[psor]=Sing|Person=1|PronType=Prs	30	nmod	_	Rhyme=ID40|SpaceAfter=No|Type=Paired
-34	,	,	PUNCT	COMMA	_	38	punct	_	_
-35	Care	care	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	38	obj	_	_
-36	le-	el	PRON	Pp3-pr	Case=Acc,Nom|Number=Plur|Person=3|PronType=Prs	38	expl	_	SpaceAfter=No
-37	oi	vrea	AUX	Vaip1s	Mood=Ind|Number=Sing|Person=1|Tense=Pres	38	aux	_	_
-38	umplea	umple	VERB	Vmn	VerbForm=Inf	30	acl	_	_
-39	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	40	case	_	_
-40	jele	jale	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	38	obl:pmod	_	Rhyme=ID33|SpaceAfter=No|Type=Paired
-41	,	,	PUNCT	COMMA	_	38	punct	_	_
-42	Şi	și	CCONJ	Ccssp	Polarity=Pos	44	cc	_	_
-43	oi	vrea	AUX	Vaip1s	Mood=Ind|Number=Sing|Person=1|Tense=Pres	44	aux	_	_
-44	pune	pune	VERB	Vmn	VerbForm=Inf	10	conj	_	SpaceAfter=No
-45	-o	el	PRON	Pp3fsa--------w	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs|Strength=Weak	44	obj	_	_
-46	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	47	mark	_	_
-47	uscat	uscat	VERB	Vmp	VerbForm=Part	44	ccomp:pmod	_	Rhyme=ID53|SpaceAfter=No|Type=Imperf
-48	,	,	PUNCT	COMMA	_	51	punct	_	_
-49	Pe-	pe	ADP	Spsa	AdpType=Prep|Case=Acc	51	case	_	SpaceAfter=No
-50	o	un	DET	Tifsr	Case=Acc,Nom|Gender=Fem|Number=Sing|PronType=Ind	51	det	_	_
-51	creangă	creangă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	44	obl	_	_
-52	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	53	case	_	_
-53	liliac	liliac	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	51	nmod	_	Rhyme=ID47|SpaceAfter=No|Type=Imperf
-54	,	,	PUNCT	COMMA	_	58	punct	_	_
-55	Şi	și	CCONJ	Ccssp	Polarity=Pos	58	cc	_	_
-56	le-	el	PRON	Pp3fpa--------w	Case=Acc|Gender=Fem|Number=Plur|Person=3|PronType=Prs|Strength=Weak	58	obj	_	SpaceAfter=No
-57	oi	vrea	AUX	Vaip1s	Mood=Ind|Number=Sing|Person=1|Tense=Pres	58	aux	_	_
-58	strânge	strânge	VERB	Vmn	VerbForm=Inf	10	conj	_	SpaceAfter=No
-59	-n	în	ADP	Spsa	AdpType=Prep|Case=Acc	60	case	_	_
-60	păturele	păturea	NOUN	Ncfprn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Plur	58	obl	_	Rhyme=ID66|Type=Paired
-61	Să	să	PART	Qs	PartType=Sub	62	mark	_	_
-62	ai	avea	VERB	Vmip2s	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	58	advcl	_	_
-63	tu	tu	PRON	Pp2-sr	Case=Acc,Nom|Number=Sing|Person=1|PronType=Prs	62	nsubj	_	_
-64	noroc	noroc	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	62	obj	_	_
-65	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	66	case	_	_
-66	ele	el	PRON	Pp3fpa--------s	Case=Acc|Gender=Fem|Number=Plur|Person=3|PronType=Prs|Strength=Strong	64	nmod	_	Rhyme=ID60|SpaceAfter=No|Type=Paired
-67	.	.	PUNCT	PERIOD	_	10	punct	_	_
+# visual-style 17	bgColor:blue
+# visual-style 17	fgColor:white
+# visual-style 19	bgColor:blue
+# visual-style 19	fgColor:white
+# visual-style 19 17 expl:poss	color:blue
+1	Crăia	crăie	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	11	nsubj	_	Ref=PSALM.144.12
+2	ta	tău	DET	Ds2fsrs	Case=Acc,Nom|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=2|PronType=Prs	1	det	_	Ref=PSALM.144.12
+3	este	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	11	cop	_	Ref=PSALM.144.12|SpaceAfter=No
+4	,	,	PUNCT	COMMA	_	5	punct	_	Ref=PSALM.144.12
+5	Doamne	domn	NOUN	Ncmsvn	Case=Voc|Definite=Ind|Gender=Masc|Number=Sing	11	vocative	_	Ref=PSALM.144.12
+6	svinte	sfânt	ADJ	Afpmsvn	Case=Voc|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	Ref=PSALM.144.12|SpaceAfter=No
+7	,	,	PUNCT	COMMA	_	5	punct	_	Ref=PSALM.144.12
+8	În	în	ADP	Spsa	AdpType=Prep|Case=Acc	10	case	_	Ref=PSALM.144.12
+9	toț	tot	DET	Di3mpr	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Ind	10	det	_	Ref=PSALM.144.12
+10	vecii	veac	NOUN	Ncmpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	11	nmod:tmod	_	Ref=PSALM.144.12
+11	crăie	crăie	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	0	root	_	Ref=PSALM.144.12
+12	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	13	mark	_	Ref=PSALM.144.12
+13	mainte	înainte	ADV	Rg	_	11	advmod	_	Ref=PSALM.144.12|SpaceAfter=No
+14	,	,	PUNCT	COMMA	_	19	punct	_	Ref=PSALM.144.12
+15	Și	și	CCONJ	Ccssp	Polarity=Pos	19	cc	_	Ref=PSALM.144.12
+16	domnia	domnie	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	19	nsubj	_	Ref=PSALM.144.12
+17	ț-	tu	PRON	Pp2-sd--------w	Case=Dat|Number=Sing|Person=2|PronType=Prs|Strength=Weak	19	expl:poss	_	Ref=PSALM.144.12|SpaceAfter=No
+18	este	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	19	cop	_	Ref=PSALM.144.12
+19	domnitoare	domnitor	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	11	conj	_	Ref=PSALM.144.12
+20	În	în	ADP	Spsa	AdpType=Prep|Case=Acc	22	case	_	Ref=PSALM.144.12
+21	tot	tot	DET	Di3msr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Ind	22	det	_	Ref=PSALM.144.12
+22	rod	rod	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	19	nmod:tmod	_	Ref=PSALM.144.12
+23	de	de	SCONJ	Csssp	Polarity=Pos	22	nmod	_	Ref=PSALM.144.12
+24	rod	rod	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	23	case	_	Ref=PSALM.144.12
+25	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	27	mark	_	Ref=PSALM.144.12|SpaceAfter=No
+26	-i	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	27	cop	_	Ref=PSALM.144.12
+27	stătătoare	stătător	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	19	advcl	_	Ref=PSALM.144.12|SpaceAfter=No
+28	.	.	PUNCT	PERIOD	_	11	punct	_	Ref=PSALM.144.12
 
 ~~~
 

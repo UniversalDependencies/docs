@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-7971 nodes (17%) are attached to their parents as `punct`.
+10020 nodes (17%) are attached to their parents as `punct`.
 
-4229 instances of `punct` (53%) are right-to-left (child precedes parent).
-Average distance between parent and child is 6.77317776941413.
+5377 instances of `punct` (54%) are right-to-left (child precedes parent).
+Average distance between parent and child is 6.77135728542914.
 
-The following 17 pairs of parts of speech are connected with `punct`: <tt><a href="pl_mpdt-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_mpdt-pos-PUNCT.html">PUNCT</a></tt> (4135; 52% instances), <tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_mpdt-pos-PUNCT.html">PUNCT</a></tt> (1783; 22% instances), <tt><a href="pl_mpdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_mpdt-pos-PUNCT.html">PUNCT</a></tt> (812; 10% instances), <tt><a href="pl_mpdt-pos-NUM.html">NUM</a></tt>-<tt><a href="pl_mpdt-pos-PUNCT.html">PUNCT</a></tt> (357; 4% instances), <tt><a href="pl_mpdt-pos-ADV.html">ADV</a></tt>-<tt><a href="pl_mpdt-pos-PUNCT.html">PUNCT</a></tt> (302; 4% instances), <tt><a href="pl_mpdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pl_mpdt-pos-PUNCT.html">PUNCT</a></tt> (250; 3% instances), <tt><a href="pl_mpdt-pos-PRON.html">PRON</a></tt>-<tt><a href="pl_mpdt-pos-PUNCT.html">PUNCT</a></tt> (63; 1% instances), <tt><a href="pl_mpdt-pos-DET.html">DET</a></tt>-<tt><a href="pl_mpdt-pos-PUNCT.html">PUNCT</a></tt> (60; 1% instances), <tt><a href="pl_mpdt-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="pl_mpdt-pos-PUNCT.html">PUNCT</a></tt> (53; 1% instances), <tt><a href="pl_mpdt-pos-PART.html">PART</a></tt>-<tt><a href="pl_mpdt-pos-PUNCT.html">PUNCT</a></tt> (46; 1% instances), <tt><a href="pl_mpdt-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="pl_mpdt-pos-PUNCT.html">PUNCT</a></tt> (43; 1% instances), <tt><a href="pl_mpdt-pos-X.html">X</a></tt>-<tt><a href="pl_mpdt-pos-PUNCT.html">PUNCT</a></tt> (29; 0% instances), <tt><a href="pl_mpdt-pos-ADP.html">ADP</a></tt>-<tt><a href="pl_mpdt-pos-PUNCT.html">PUNCT</a></tt> (12; 0% instances), <tt><a href="pl_mpdt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="pl_mpdt-pos-PUNCT.html">PUNCT</a></tt> (12; 0% instances), <tt><a href="pl_mpdt-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="pl_mpdt-pos-PUNCT.html">PUNCT</a></tt> (11; 0% instances), <tt><a href="pl_mpdt-pos-AUX.html">AUX</a></tt>-<tt><a href="pl_mpdt-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="pl_mpdt-pos-SYM.html">SYM</a></tt>-<tt><a href="pl_mpdt-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
+The following 17 pairs of parts of speech are connected with `punct`: <tt><a href="pl_mpdt-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_mpdt-pos-PUNCT.html">PUNCT</a></tt> (5168; 52% instances), <tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_mpdt-pos-PUNCT.html">PUNCT</a></tt> (2536; 25% instances), <tt><a href="pl_mpdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_mpdt-pos-PUNCT.html">PUNCT</a></tt> (1063; 11% instances), <tt><a href="pl_mpdt-pos-NUM.html">NUM</a></tt>-<tt><a href="pl_mpdt-pos-PUNCT.html">PUNCT</a></tt> (353; 4% instances), <tt><a href="pl_mpdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pl_mpdt-pos-PUNCT.html">PUNCT</a></tt> (334; 3% instances), <tt><a href="pl_mpdt-pos-ADV.html">ADV</a></tt>-<tt><a href="pl_mpdt-pos-PUNCT.html">PUNCT</a></tt> (161; 2% instances), <tt><a href="pl_mpdt-pos-PRON.html">PRON</a></tt>-<tt><a href="pl_mpdt-pos-PUNCT.html">PUNCT</a></tt> (99; 1% instances), <tt><a href="pl_mpdt-pos-DET.html">DET</a></tt>-<tt><a href="pl_mpdt-pos-PUNCT.html">PUNCT</a></tt> (74; 1% instances), <tt><a href="pl_mpdt-pos-PART.html">PART</a></tt>-<tt><a href="pl_mpdt-pos-PUNCT.html">PUNCT</a></tt> (66; 1% instances), <tt><a href="pl_mpdt-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="pl_mpdt-pos-PUNCT.html">PUNCT</a></tt> (65; 1% instances), <tt><a href="pl_mpdt-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="pl_mpdt-pos-PUNCT.html">PUNCT</a></tt> (56; 1% instances), <tt><a href="pl_mpdt-pos-ADP.html">ADP</a></tt>-<tt><a href="pl_mpdt-pos-PUNCT.html">PUNCT</a></tt> (14; 0% instances), <tt><a href="pl_mpdt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="pl_mpdt-pos-PUNCT.html">PUNCT</a></tt> (13; 0% instances), <tt><a href="pl_mpdt-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="pl_mpdt-pos-PUNCT.html">PUNCT</a></tt> (12; 0% instances), <tt><a href="pl_mpdt-pos-X.html">X</a></tt>-<tt><a href="pl_mpdt-pos-PUNCT.html">PUNCT</a></tt> (3; 0% instances), <tt><a href="pl_mpdt-pos-AUX.html">AUX</a></tt>-<tt><a href="pl_mpdt-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="pl_mpdt-pos-SYM.html">SYM</a></tt>-<tt><a href="pl_mpdt-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -38,19 +38,19 @@ The following 17 pairs of parts of speech are connected with `punct`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 11 punct	color:blue
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 3 punct	color:blue
 1	Podwórze	podwórze	NOUN	subst:sg:nom:n	Case=Nom|Gender=Neut|Number=Sing	0	root	0:root	Translit=Podwórze
 2	ostrogowane	ostrogowany	ADJ	adj:sg:nom:n:pos	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	1	amod	1:amod	SpaceAfter=No|Translit=ostrogowane
-3	,	,	PUNCT	interp	PunctType=Comm	5	punct	5:punct	Translit=,
-4	wrót	wrota	NOUN	subst:pl:gen:n:pt	Case=Gen|Gender=Neut|Number=Ptan	5	nmod:arg	5:nmod:arg	Translit=wrót
-5	dwoje	dwa	NUM	numcol:pl:nom:n	Case=Nom|Gender=Neut|Number=Plur|NumForm=Word	1	conj	1:conj	Translit=dwoje
-6	o	o	ADP	prep:loc	AdpType=Prep	7	case	7:case	Case=Loc|Translit=o
-7	2	2	NUM	dig	NumForm=Digit	4	amod	4:amod	Translit=2
-8	drzwiach	drzwi	NOUN	subst:pl:loc:n:pt	Case=Loc|Gender=Neut|Number=Ptan	7	nmod:arg	7:nmod:arg	Translit=drzwiach
+3	,	,	PUNCT	interp	PunctType=Comm	4	punct	4:punct	Translit=,
+4	wrót	wrota	NOUN	subst:pl:gen:n:pt	Case=Gen|Gender=Neut|Number=Ptan	1	conj	1:conj	Translit=wrót
+5	dwoje	dwa	NUM	numcol:pl:nom:n	Case=Nom|Gender=Neut|Number=Plur|NumForm=Word	4	nummod:gov	4:nummod:gov	Translit=dwoje
+6	o	o	ADP	prep:loc	AdpType=Prep	8	case	8:case	Case=Loc|Translit=o
+7	2	2	NUM	dig	NumForm=Digit	8	nummod	8:nummod	Translit=2
+8	drzwiach	drzwi	NOUN	subst:pl:loc:n:pt	Case=Loc|Gender=Neut|Number=Ptan	4	nmod	4:nmod	Translit=drzwiach
 9	z	z	ADP	prep:inst:nwok	AdpType=Prep|Variant=Short	10	case	10:case	Case=Ins|Translit=z
 10	fortkami	fortka	NOUN	subst:pl:inst:f	Case=Ins|Gender=Fem|Number=Plur	8	nmod	8:nmod	SpaceAfter=No|Translit=fortkami
 11	.	.	PUNCT	interp	PunctType=Peri	1	punct	1:punct	Translit=.

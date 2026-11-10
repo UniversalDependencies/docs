@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 2 language-specific subtypes of `obl`: <tt><a href="gn_oldtudet-dep-obl-obj.html">obl:obj</a></tt>, <tt><a href="gn_oldtudet-dep-obl-subj.html">obl:subj</a></tt>.
 
-27 nodes (12%) are attached to their parents as `obl`.
+26 nodes (12%) are attached to their parents as `obl`.
 
-18 instances of `obl` (67%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.74074074074074.
+17 instances of `obl` (65%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.76923076923077.
 
-The following 6 pairs of parts of speech are connected with `obl`: <tt><a href="gn_oldtudet-pos-VERB.html">VERB</a></tt>-<tt><a href="gn_oldtudet-pos-NOUN.html">NOUN</a></tt> (9; 33% instances), <tt><a href="gn_oldtudet-pos-VERB.html">VERB</a></tt>-<tt><a href="gn_oldtudet-pos-PRON.html">PRON</a></tt> (7; 26% instances), <tt><a href="gn_oldtudet-pos-VERB.html">VERB</a></tt>-<tt><a href="gn_oldtudet-pos-ADP.html">ADP</a></tt> (4; 15% instances), <tt><a href="gn_oldtudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gn_oldtudet-pos-NOUN.html">NOUN</a></tt> (3; 11% instances), <tt><a href="gn_oldtudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gn_oldtudet-pos-ADP.html">ADP</a></tt> (2; 7% instances), <tt><a href="gn_oldtudet-pos-VERB.html">VERB</a></tt>-<tt><a href="gn_oldtudet-pos-PROPN.html">PROPN</a></tt> (2; 7% instances).
+The following 6 pairs of parts of speech are connected with `obl`: <tt><a href="gn_oldtudet-pos-VERB.html">VERB</a></tt>-<tt><a href="gn_oldtudet-pos-NOUN.html">NOUN</a></tt> (9; 35% instances), <tt><a href="gn_oldtudet-pos-VERB.html">VERB</a></tt>-<tt><a href="gn_oldtudet-pos-PRON.html">PRON</a></tt> (7; 27% instances), <tt><a href="gn_oldtudet-pos-VERB.html">VERB</a></tt>-<tt><a href="gn_oldtudet-pos-ADP.html">ADP</a></tt> (4; 15% instances), <tt><a href="gn_oldtudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gn_oldtudet-pos-NOUN.html">NOUN</a></tt> (3; 12% instances), <tt><a href="gn_oldtudet-pos-VERB.html">VERB</a></tt>-<tt><a href="gn_oldtudet-pos-PROPN.html">PROPN</a></tt> (2; 8% instances), <tt><a href="gn_oldtudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gn_oldtudet-pos-ADP.html">ADP</a></tt> (1; 4% instances).
 
 
 ~~~ conllu

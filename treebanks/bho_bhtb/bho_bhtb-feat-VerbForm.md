@@ -128,7 +128,7 @@ The most frequent other feature values with which `PART` and `VerbForm` co-occur
 `PART` tokens may have the following values of `VerbForm`:
 
 * `Part` (2; 100% of non-empty `VerbForm`): नइखे, नाहीं
-* `EMPTY` (189): त, ना, नइखे, बहुते, भर, बस, अतना, खाली, गमगमावे, घटना
+* `EMPTY` (188): त, ना, नइखे, बहुते, भर, बस, अतना, खाली, गमगमावे, घटना
 
 ### `PROPN`
 
@@ -150,7 +150,7 @@ The most frequent other feature values with which `ADJ` and `VerbForm` co-occurr
 `ADJ` tokens may have the following values of `VerbForm`:
 
 * `Part` (1; 100% of non-empty `VerbForm`): बचपनवाला
-* `EMPTY` (248): पूरा, बड़, सांस्कृतिक, तथाकथित, प, छोट, भोजपुरिया, खास, चुपचाप, जरूरी
+* `EMPTY` (249): पूरा, बड़, सांस्कृतिक, तथाकथित, प, छोट, भोजपुरिया, खास, चुपचाप, जरूरी
 
 ### `ADV`
 
@@ -172,7 +172,7 @@ The most frequent other feature values with which `NUM` and `VerbForm` co-occurr
 `NUM` tokens may have the following values of `VerbForm`:
 
 * `Part` (1; 100% of non-empty `VerbForm`): सन
-* `EMPTY` (148): एगो, एक, लोग, गो, दू, कुछ, दोसर, 5, अनकस, कलिग
+* `EMPTY` (147): एगो, एक, लोग, गो, दू, कुछ, दोसर, 5, अनकस, कलिग
 
 ### `SCONJ`
 

@@ -6,97 +6,84 @@ udver: '2'
 
 ## Treebank Statistics: UD_Lithuanian-ALKSNIS: POS Tags: `PART`
 
-There are 72 `PART` lemmas (1%), 71 `PART` types (0%) and 1553 `PART` tokens (2%).
-Out of 17 observed tags, the rank of `PART` is: 8 in number of lemmas, 10 in number of types and 13 in number of tokens.
+There are 71 `PART` lemmas (1%), 71 `PART` types (0%) and 1485 `PART` tokens (3%).
+Out of 17 observed tags, the rank of `PART` is: 8 in number of lemmas, 10 in number of types and 11 in number of tokens.
 
-The 10 most frequent `PART` lemmas: <em>ir, ne, tik, taip, net, dar, gal, jau, tai, ar</em>
+The 10 most frequent `PART` lemmas: <em>ir, ne, tik, dar, jau, net, taip pat, gal, tai, juk</em>
 
-The 10 most frequent `PART` types:  <em>ir, ne, tik, taip, net, dar, gal, jau, tai, ar</em>
+The 10 most frequent `PART` types:  <em>ir, ne, tik, dar, jau, net, taip pat, gal, tai, juk</em>
 
-The 10 most frequent ambiguous lemmas: <em>ir</em> (<tt><a href="lt_alksnis-pos-CCONJ.html">CCONJ</a></tt> 1949, <tt><a href="lt_alksnis-pos-PART.html">PART</a></tt> 350, <tt><a href="lt_alksnis-pos-X.html">X</a></tt> 1), <em>ne</em> (<tt><a href="lt_alksnis-pos-PART.html">PART</a></tt> 200, <tt><a href="lt_alksnis-pos-CCONJ.html">CCONJ</a></tt> 1), <em>tik</em> (<tt><a href="lt_alksnis-pos-PART.html">PART</a></tt> 185, <tt><a href="lt_alksnis-pos-X.html">X</a></tt> 8, <tt><a href="lt_alksnis-pos-CCONJ.html">CCONJ</a></tt> 7, <tt><a href="lt_alksnis-pos-ADV.html">ADV</a></tt> 2), <em>taip</em> (<tt><a href="lt_alksnis-pos-ADV.html">ADV</a></tt> 92, <tt><a href="lt_alksnis-pos-PART.html">PART</a></tt> 85), <em>dar</em> (<tt><a href="lt_alksnis-pos-PART.html">PART</a></tt> 73, <tt><a href="lt_alksnis-pos-ADV.html">ADV</a></tt> 33, <tt><a href="lt_alksnis-pos-X.html">X</a></tt> 9), <em>jau</em> (<tt><a href="lt_alksnis-pos-ADV.html">ADV</a></tt> 63, <tt><a href="lt_alksnis-pos-PART.html">PART</a></tt> 47), <em>tai</em> (<tt><a href="lt_alksnis-pos-PART.html">PART</a></tt> 44, <tt><a href="lt_alksnis-pos-X.html">X</a></tt> 16, <tt><a href="lt_alksnis-pos-CCONJ.html">CCONJ</a></tt> 7, <tt><a href="lt_alksnis-pos-ADV.html">ADV</a></tt> 1, <tt><a href="lt_alksnis-pos-PRON.html">PRON</a></tt> 1), <em>ar</em> (<tt><a href="lt_alksnis-pos-CCONJ.html">CCONJ</a></tt> 259, <tt><a href="lt_alksnis-pos-SCONJ.html">SCONJ</a></tt> 44, <tt><a href="lt_alksnis-pos-PART.html">PART</a></tt> 33, <tt><a href="lt_alksnis-pos-X.html">X</a></tt> 3), <em>vis</em> (<tt><a href="lt_alksnis-pos-ADV.html">ADV</a></tt> 29, <tt><a href="lt_alksnis-pos-PART.html">PART</a></tt> 25, <tt><a href="lt_alksnis-pos-CCONJ.html">CCONJ</a></tt> 15), <em>be</em> (<tt><a href="lt_alksnis-pos-ADP.html">ADP</a></tt> 30, <tt><a href="lt_alksnis-pos-PART.html">PART</a></tt> 24, <tt><a href="lt_alksnis-pos-ADV.html">ADV</a></tt> 5)
+The 10 most frequent ambiguous lemmas: <em>ir</em> (<tt><a href="lt_alksnis-pos-CCONJ.html">CCONJ</a></tt> 1524, <tt><a href="lt_alksnis-pos-PART.html">PART</a></tt> 284), <em>ne</em> (<tt><a href="lt_alksnis-pos-PART.html">PART</a></tt> 193, <tt><a href="lt_alksnis-pos-CCONJ.html">CCONJ</a></tt> 1), <em>tik</em> (<tt><a href="lt_alksnis-pos-PART.html">PART</a></tt> 174, <tt><a href="lt_alksnis-pos-CCONJ.html">CCONJ</a></tt> 7, <tt><a href="lt_alksnis-pos-ADV.html">ADV</a></tt> 2), <em>dar</em> (<tt><a href="lt_alksnis-pos-PART.html">PART</a></tt> 100, <tt><a href="lt_alksnis-pos-ADV.html">ADV</a></tt> 9), <em>jau</em> (<tt><a href="lt_alksnis-pos-PART.html">PART</a></tt> 79, <tt><a href="lt_alksnis-pos-ADV.html">ADV</a></tt> 24), <em>taip pat</em> (<tt><a href="lt_alksnis-pos-PART.html">PART</a></tt> 60, <tt><a href="lt_alksnis-pos-ADV.html">ADV</a></tt> 4), <em>tai</em> (<tt><a href="lt_alksnis-pos-PART.html">PART</a></tt> 36, <tt><a href="lt_alksnis-pos-SCONJ.html">SCONJ</a></tt> 8, <tt><a href="lt_alksnis-pos-PRON.html">PRON</a></tt> 7, <tt><a href="lt_alksnis-pos-CCONJ.html">CCONJ</a></tt> 6), <em>tarsi</em> (<tt><a href="lt_alksnis-pos-PART.html">PART</a></tt> 28, <tt><a href="lt_alksnis-pos-SCONJ.html">SCONJ</a></tt> 3), <em>ar</em> (<tt><a href="lt_alksnis-pos-CCONJ.html">CCONJ</a></tt> 193, <tt><a href="lt_alksnis-pos-SCONJ.html">SCONJ</a></tt> 46, <tt><a href="lt_alksnis-pos-PART.html">PART</a></tt> 27), <em>beveik</em> (<tt><a href="lt_alksnis-pos-PART.html">PART</a></tt> 20, <tt><a href="lt_alksnis-pos-ADV.html">ADV</a></tt> 8)
 
-The 10 most frequent ambiguous types:  <em>ir</em> (<tt><a href="lt_alksnis-pos-CCONJ.html">CCONJ</a></tt> 1891, <tt><a href="lt_alksnis-pos-PART.html">PART</a></tt> 349, <tt><a href="lt_alksnis-pos-X.html">X</a></tt> 1), <em>ne</em> (<tt><a href="lt_alksnis-pos-PART.html">PART</a></tt> 179, <tt><a href="lt_alksnis-pos-CCONJ.html">CCONJ</a></tt> 1), <em>tik</em> (<tt><a href="lt_alksnis-pos-PART.html">PART</a></tt> 175, <tt><a href="lt_alksnis-pos-X.html">X</a></tt> 8, <tt><a href="lt_alksnis-pos-ADV.html">ADV</a></tt> 2, <tt><a href="lt_alksnis-pos-CCONJ.html">CCONJ</a></tt> 2), <em>taip</em> (<tt><a href="lt_alksnis-pos-ADV.html">ADV</a></tt> 81, <tt><a href="lt_alksnis-pos-PART.html">PART</a></tt> 65), <em>dar</em> (<tt><a href="lt_alksnis-pos-PART.html">PART</a></tt> 67, <tt><a href="lt_alksnis-pos-ADV.html">ADV</a></tt> 25, <tt><a href="lt_alksnis-pos-X.html">X</a></tt> 9), <em>jau</em> (<tt><a href="lt_alksnis-pos-ADV.html">ADV</a></tt> 57, <tt><a href="lt_alksnis-pos-PART.html">PART</a></tt> 46), <em>tai</em> (<tt><a href="lt_alksnis-pos-DET.html">DET</a></tt> 156, <tt><a href="lt_alksnis-pos-PART.html">PART</a></tt> 42, <tt><a href="lt_alksnis-pos-X.html">X</a></tt> 17, <tt><a href="lt_alksnis-pos-CCONJ.html">CCONJ</a></tt> 7, <tt><a href="lt_alksnis-pos-ADV.html">ADV</a></tt> 1, <tt><a href="lt_alksnis-pos-PRON.html">PRON</a></tt> 1), <em>ar</em> (<tt><a href="lt_alksnis-pos-CCONJ.html">CCONJ</a></tt> 258, <tt><a href="lt_alksnis-pos-SCONJ.html">SCONJ</a></tt> 43, <tt><a href="lt_alksnis-pos-PART.html">PART</a></tt> 7, <tt><a href="lt_alksnis-pos-X.html">X</a></tt> 3), <em>vis</em> (<tt><a href="lt_alksnis-pos-ADV.html">ADV</a></tt> 28, <tt><a href="lt_alksnis-pos-PART.html">PART</a></tt> 23, <tt><a href="lt_alksnis-pos-CCONJ.html">CCONJ</a></tt> 5), <em>be</em> (<tt><a href="lt_alksnis-pos-ADP.html">ADP</a></tt> 25, <tt><a href="lt_alksnis-pos-PART.html">PART</a></tt> 7, <tt><a href="lt_alksnis-pos-ADV.html">ADV</a></tt> 3)
+The 10 most frequent ambiguous types:  <em>ir</em> (<tt><a href="lt_alksnis-pos-CCONJ.html">CCONJ</a></tt> 1483, <tt><a href="lt_alksnis-pos-PART.html">PART</a></tt> 282), <em>ne</em> (<tt><a href="lt_alksnis-pos-PART.html">PART</a></tt> 172, <tt><a href="lt_alksnis-pos-CCONJ.html">CCONJ</a></tt> 1), <em>tik</em> (<tt><a href="lt_alksnis-pos-PART.html">PART</a></tt> 165, <tt><a href="lt_alksnis-pos-ADV.html">ADV</a></tt> 2, <tt><a href="lt_alksnis-pos-CCONJ.html">CCONJ</a></tt> 2), <em>dar</em> (<tt><a href="lt_alksnis-pos-PART.html">PART</a></tt> 89, <tt><a href="lt_alksnis-pos-ADV.html">ADV</a></tt> 6), <em>jau</em> (<tt><a href="lt_alksnis-pos-PART.html">PART</a></tt> 75, <tt><a href="lt_alksnis-pos-ADV.html">ADV</a></tt> 21), <em>taip pat</em> (<tt><a href="lt_alksnis-pos-PART.html">PART</a></tt> 51, <tt><a href="lt_alksnis-pos-ADV.html">ADV</a></tt> 4), <em>tai</em> (<tt><a href="lt_alksnis-pos-PRON.html">PRON</a></tt> 154, <tt><a href="lt_alksnis-pos-PART.html">PART</a></tt> 34, <tt><a href="lt_alksnis-pos-SCONJ.html">SCONJ</a></tt> 8, <tt><a href="lt_alksnis-pos-CCONJ.html">CCONJ</a></tt> 6, <tt><a href="lt_alksnis-pos-DET.html">DET</a></tt> 6), <em>tarsi</em> (<tt><a href="lt_alksnis-pos-PART.html">PART</a></tt> 24, <tt><a href="lt_alksnis-pos-SCONJ.html">SCONJ</a></tt> 3), <em>ar</em> (<tt><a href="lt_alksnis-pos-CCONJ.html">CCONJ</a></tt> 192, <tt><a href="lt_alksnis-pos-SCONJ.html">SCONJ</a></tt> 44, <tt><a href="lt_alksnis-pos-PART.html">PART</a></tt> 3), <em>beveik</em> (<tt><a href="lt_alksnis-pos-PART.html">PART</a></tt> 19, <tt><a href="lt_alksnis-pos-ADV.html">ADV</a></tt> 8)
 
 
 * <em>ir</em>
-  * <tt><a href="lt_alksnis-pos-CCONJ.html">CCONJ</a></tt> 1891: <em>Pavojai <b>ir</b> pagundos</em>
-  * <tt><a href="lt_alksnis-pos-PART.html">PART</a></tt> 349: <em>Todėl net <b>ir</b> dirbdamas namuose turėkite savo darbo ir poilsio valandas .</em>
-  * <tt><a href="lt_alksnis-pos-X.html">X</a></tt> 1: <em>Laikraščio eseisto tevertos pastabos , kad paminklo Taravos Anikei atstatymas Klaipėdoje - „ lyg <b>ir</b> teikė viltį , kad prasidėjęs taikus Vokietijos „ grįžimas “ į Europą nepaliks nuošalyje ir Lietuvos “ .</em>
+  * <tt><a href="lt_alksnis-pos-CCONJ.html">CCONJ</a></tt> 1483: <em>Mes stengiamės nepanikuoti <b>ir</b> vengti rizikingų sprendimų .</em>
+  * <tt><a href="lt_alksnis-pos-PART.html">PART</a></tt> 282: <em>O <b>ir</b> apskritai – literatūra nesivelka įkandin popmuzikos ar kino .</em>
 * <em>ne</em>
-  * <tt><a href="lt_alksnis-pos-PART.html">PART</a></tt> 179: <em>Darbas namuose – tai <b>ne</b> karjera tradicine šio žodžio prasme .</em>
-  * <tt><a href="lt_alksnis-pos-CCONJ.html">CCONJ</a></tt> 1: <em>„ Kalbu <b>ne</b> vien apie K . Glavecką .</em>
+  * <tt><a href="lt_alksnis-pos-PART.html">PART</a></tt> 172: <em>Dažniausiai natūra praryja kultūrą ir kalbu čia visai <b>ne</b> apie Pompėją .</em>
+  * <tt><a href="lt_alksnis-pos-CCONJ.html">CCONJ</a></tt> 1: <em>Žmogus , didesnę vienatvės dalį praleisdamas prie savo palėpės lango , neišvengiamai kalbėsis <b>ne</b> tik su įsivaizduojamais žmonėmis , bet ir su daiktais , net poelgiais .</em>
 * <em>tik</em>
-  * <tt><a href="lt_alksnis-pos-PART.html">PART</a></tt> 175: <em>Tačiau <b>tik</b> pusė iš jų svarsto apie šią galimybę .</em>
-  * <tt><a href="lt_alksnis-pos-X.html">X</a></tt> 8: <em>Jums liks tik svetainė ir virtuvė – kaip <b>tik</b> dviem savaitėms .</em>
-  * <tt><a href="lt_alksnis-pos-ADV.html">ADV</a></tt> 2: <em>Kiek „ rėžia akį “ ir tai , kad vienur pateikti autorių pilni vardai ir pavardės , kitur – <b>tik</b> inicialai ir pavardės , dar kitur – tik pavardės</em>
-  * <tt><a href="lt_alksnis-pos-CCONJ.html">CCONJ</a></tt> 2: <em>Knygoje istoriškai gerai nušviesta tarpukario ir sovietinio laikotarpio Lietuvos socialinės apsaugos situacija , <b>tik</b> ji galėjo būti papildyta platesniu tų laikotarpių politiniu bei ekonominiu kontekstais .</em>
-* <em>taip</em>
-  * <tt><a href="lt_alksnis-pos-ADV.html">ADV</a></tt> 81: <em>Ir <b>taip</b> toliau ...</em>
-  * <tt><a href="lt_alksnis-pos-PART.html">PART</a></tt> 65: <em>Vidutinė registracijos procedūros trukmė <b>taip</b> pat sutrumpėjo 50 % .</em>
+  * <tt><a href="lt_alksnis-pos-PART.html">PART</a></tt> 165: <em>Vis dėlto paprasta ir spontaniška ši kalba yra <b>tik</b> iš pirmo žvilgsnio .</em>
+  * <tt><a href="lt_alksnis-pos-ADV.html">ADV</a></tt> 2: <em>Darbuotojai turėtų visuomet nešiotis šį aliarmo pultelį , kad bet kurią akimirką , vos <b>tik</b> prireikus , apie pavojų galėtų pranešti apsaugininkams “ , – sakė Kauno policijos atstovė spaudai Ramunė Gražulienė .</em>
+  * <tt><a href="lt_alksnis-pos-CCONJ.html">CCONJ</a></tt> 2: <em>Knygoje istoriškai gerai nušviesta tarpukario ir sovietinio laikotarpio Lietuvos socialinės apsaugos situacija , <b>tik</b> ji galėjo būti papildyta platesniu tų laikotarpių politiniu bei ekonominiu kontekstu .</em>
 * <em>dar</em>
-  * <tt><a href="lt_alksnis-pos-PART.html">PART</a></tt> 67: <em>Tačiau šie pinigai Kauno <b>dar</b> nepasiekė .</em>
-  * <tt><a href="lt_alksnis-pos-ADV.html">ADV</a></tt> 25: <em>Šitas trapus ryšys <b>dar</b> žadina man tikėjimą tautų draugyste ir idealais .</em>
-  * <tt><a href="lt_alksnis-pos-X.html">X</a></tt> 9: <em>Ji vis <b>dar</b> blogėja .</em>
+  * <tt><a href="lt_alksnis-pos-PART.html">PART</a></tt> 89: <em>Bet , matyt , nenori ar nesugeba , todėl jie <b>dar</b> pavojingesni .</em>
+  * <tt><a href="lt_alksnis-pos-ADV.html">ADV</a></tt> 6: <em>Ar esu <b>dar</b> gyva ?</em>
 * <em>jau</em>
-  * <tt><a href="lt_alksnis-pos-ADV.html">ADV</a></tt> 57: <em>O tėvas <b>jau</b> sukinėjosi aplink , ruošdamasis toliau kirpti .</em>
-  * <tt><a href="lt_alksnis-pos-PART.html">PART</a></tt> 46: <em>Pasak A . Tamausko , pirmajame sandėlyje visos patalpos <b>jau</b> išnuomotos .</em>
+  * <tt><a href="lt_alksnis-pos-PART.html">PART</a></tt> 75: <em>Greičiau <b>jau</b> atvirkščiai .</em>
+  * <tt><a href="lt_alksnis-pos-ADV.html">ADV</a></tt> 21: <em>Veik viskas manyje <b>jau</b> turi savas matricas . [...]</em>
+* <em>taip pat</em>
+  * <tt><a href="lt_alksnis-pos-PART.html">PART</a></tt> 51: <em>– Miesto valdžia <b>taip pat</b> galėtų geriau rūpintis gatvių būkle . “</em>
+  * <tt><a href="lt_alksnis-pos-ADV.html">ADV</a></tt> 4: <em>Bendravimas su šiais žmonėmis <b>taip pat</b> gali įkvėpti ir suteikti energijos .</em>
 * <em>tai</em>
-  * <tt><a href="lt_alksnis-pos-DET.html">DET</a></tt> 156: <em>Prezidentūra aiškina , kad V . Adamkus siūlė ne <b>tai</b> .</em>
-  * <tt><a href="lt_alksnis-pos-PART.html">PART</a></tt> 42: <em>Darbas namuose – <b>tai</b> ne karjera tradicine šio žodžio prasme .</em>
-  * <tt><a href="lt_alksnis-pos-X.html">X</a></tt> 17: <em>Visa <b>tai</b> sukelia tik milžinišką įtampą ir savotiškas varžybas .</em>
-  * <tt><a href="lt_alksnis-pos-CCONJ.html">CCONJ</a></tt> 7: <em>Jei ji tikrai yra stambi , <b>tai</b> pati seniai tą žino , todėl svarbu to neakcentuoti .</em>
-  * <tt><a href="lt_alksnis-pos-ADV.html">ADV</a></tt> 1: <em>Anot ULPKC specialistų , ši grėsminga liga dažniau nustatoma vyresniame amžiuje , <b>tai</b> yra 55 - 64 ir per 65 metų amžiaus žmonėms .</em>
-  * <tt><a href="lt_alksnis-pos-PRON.html">PRON</a></tt> 1: <em>Tačiau demografinių charakteristikų nustatymu tyrime neapsiribojama , o siekiama atsakyti į klausimą , „ kokia dalis išvykusiųjų neišnaudoja savo turimos kvalifikacijos ir užsienyje dirba žemesnės kvalifikacijos darbus “ ir kokią <b>tai</b> daro įtaką išvykusiųjų pajamoms , žmogiškajam kapitalui ir galimybėms grįžti ( p . 8 ) .</em>
+  * <tt><a href="lt_alksnis-pos-PRON.html">PRON</a></tt> 154: <em>Rengėjai atviri : <b>tai</b> brangiausias metų koncertas Lietuvoje .</em>
+  * <tt><a href="lt_alksnis-pos-PART.html">PART</a></tt> 34: <em>Darbas namuose – <b>tai</b> ne karjera tradicine šio žodžio prasme .</em>
+  * <tt><a href="lt_alksnis-pos-SCONJ.html">SCONJ</a></tt> 8: <em>Jeigu pradėtume svarstyti birželį , <b>tai</b> jie įsigaliotų geriausiu atveju nuo liepos 1 d.</em>
+  * <tt><a href="lt_alksnis-pos-CCONJ.html">CCONJ</a></tt> 6: <em>Mano baltą „ Ford Sierrą “ nuolat kas nors daužė : <b>tai</b> aš pats , <b>tai</b> kas nors kitas .</em>
+  * <tt><a href="lt_alksnis-pos-DET.html">DET</a></tt> 6: <em>Man neįdomu , kuris tai padarė , prieš tai kambarį radote sutvarkytą , tad dabar abiem teks <b>tai</b> sutvarkyti . “</em>
+* <em>tarsi</em>
+  * <tt><a href="lt_alksnis-pos-PART.html">PART</a></tt> 24: <em>Jeigu tų daiktų nenaudodavau , jų <b>tarsi</b> ir nebuvo .</em>
+  * <tt><a href="lt_alksnis-pos-SCONJ.html">SCONJ</a></tt> 3: <em>– Teks eiti kirpyklon , – tepasakė tėvas , <b>tarsi</b> būtų visai nekaltas dėl mano tragedijos .</em>
 * <em>ar</em>
-  * <tt><a href="lt_alksnis-pos-CCONJ.html">CCONJ</a></tt> 258: <em>Solistas <b>ar</b> choristas ?</em>
-  * <tt><a href="lt_alksnis-pos-SCONJ.html">SCONJ</a></tt> 43: <em>Spėkite , <b>ar</b> jis bus patenkintas ...</em>
-  * <tt><a href="lt_alksnis-pos-PART.html">PART</a></tt> 7: <em>Bet <b>ar</b> verta smaugti Vycką ?..</em>
-  * <tt><a href="lt_alksnis-pos-X.html">X</a></tt> 3: <em>Vargu <b>ar</b> ir pats kirpėjas jausdavo kokį malonumą , varydamas ilgus ruožus per mūsų trijų pakaušius .</em>
-* <em>vis</em>
-  * <tt><a href="lt_alksnis-pos-ADV.html">ADV</a></tt> 28: <em>Ji <b>vis</b> dar blogėja .</em>
-  * <tt><a href="lt_alksnis-pos-PART.html">PART</a></tt> 23: <em>Šis klausimas įgauna <b>vis</b> daugiau svarbos ir ES .</em>
-  * <tt><a href="lt_alksnis-pos-CCONJ.html">CCONJ</a></tt> 5: <em>Daugeliui skaitytojų šis patarimas greičiausiai neaktualus , bet <b>vis</b> dėlto verta prisiminti , kad alkoholis – karjeros priešas .</em>
-* <em>be</em>
-  * <tt><a href="lt_alksnis-pos-ADP.html">ADP</a></tt> 25: <em>Pavėluoti <b>be</b> įspėjimo – blogas tonas .</em>
-  * <tt><a href="lt_alksnis-pos-PART.html">PART</a></tt> 7: <em>Intelektinės nuosavybės teisių srityje , <b>be</b> kita ko , nepavykus įvesti Bendrijos patento , ES vis dar nesudaro palankių sąlygų inovacijų kūrimui ir sklaidai .</em>
-  * <tt><a href="lt_alksnis-pos-ADV.html">ADV</a></tt> 3: <em>Priimtame įstatyme , kuris įsigalios po pusmečio , <b>be</b> kita ko , numatyta , kad pradedantiems vairuotojams bus išduodami 2 metus galiojantys laikinieji vairuotojo pažymėjimai .</em>
+  * <tt><a href="lt_alksnis-pos-CCONJ.html">CCONJ</a></tt> 192: <em>O ir apskritai – literatūra nesivelka įkandin popmuzikos <b>ar</b> kino .</em>
+  * <tt><a href="lt_alksnis-pos-SCONJ.html">SCONJ</a></tt> 44: <em>Nežinau , <b>ar</b> tai , ką sakau , tiesa .</em>
+  * <tt><a href="lt_alksnis-pos-PART.html">PART</a></tt> 3: <em>Bet <b>ar</b> verta smaugti Vycką ?..</em>
+* <em>beveik</em>
+  * <tt><a href="lt_alksnis-pos-PART.html">PART</a></tt> 19: <em>Būsime jau <b>beveik</b> literatūra .</em>
+  * <tt><a href="lt_alksnis-pos-ADV.html">ADV</a></tt> 8: <em>Juk pasaulinės reikšmės pastatas - Valdovų rūmai - jau <b>beveik</b> pastatytas .</em>
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 0.986111 (the average of all parts of speech is 2.065341).
+The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.999756).
 
-The 1st highest number of forms (1) was observed with the lemma “antai”: <em>antai</em>.
+The 1st highest number of forms (2) was observed with the lemma “vargu ar”: <em>Vargu ar, vargu--ar</em>.
 
-The 2nd highest number of forms (1) was observed with the lemma “ar”: <em>ar</em>.
+The 2nd highest number of forms (1) was observed with the lemma “Be to”: <em>Be to</em>.
 
-The 3rd highest number of forms (1) was observed with the lemma “argi”: <em>argi</em>.
+The 3rd highest number of forms (1) was observed with the lemma “ar”: <em>ar</em>.
 
-`PART` occurs with 1 features: <tt><a href="lt_alksnis-feat-Hyph.html">Hyph</a></tt> (114; 7% instances)
-
-`PART` occurs with 1 feature-value pairs: `Hyph=Yes`
-
-`PART` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (1439 tokens).
-Examples: <em>ir, ne, tik, net, dar, gal, jau, tai, ar, juk</em>
+`PART` does not occur with any features.
 
 
 ## Relations
 
-`PART` nodes are attached to their parents using 12 different relations: <tt><a href="lt_alksnis-dep-advmod-emph.html">advmod:emph</a></tt> (1441; 93% instances), <tt><a href="lt_alksnis-dep-parataxis.html">parataxis</a></tt> (68; 4% instances), <tt><a href="lt_alksnis-dep-advmod.html">advmod</a></tt> (13; 1% instances), <tt><a href="lt_alksnis-dep-root.html">root</a></tt> (13; 1% instances), <tt><a href="lt_alksnis-dep-conj.html">conj</a></tt> (6; 0% instances), <tt><a href="lt_alksnis-dep-dep.html">dep</a></tt> (4; 0% instances), <tt><a href="lt_alksnis-dep-cc.html">cc</a></tt> (3; 0% instances), <tt><a href="lt_alksnis-dep-appos.html">appos</a></tt> (1; 0% instances), <tt><a href="lt_alksnis-dep-case.html">case</a></tt> (1; 0% instances), <tt><a href="lt_alksnis-dep-mark.html">mark</a></tt> (1; 0% instances), <tt><a href="lt_alksnis-dep-nmod.html">nmod</a></tt> (1; 0% instances), <tt><a href="lt_alksnis-dep-obj.html">obj</a></tt> (1; 0% instances)
+`PART` nodes are attached to their parents using 9 different relations: <tt><a href="lt_alksnis-dep-advmod-emph.html">advmod:emph</a></tt> (1310; 88% instances), <tt><a href="lt_alksnis-dep-fixed.html">fixed</a></tt> (92; 6% instances), <tt><a href="lt_alksnis-dep-discourse.html">discourse</a></tt> (56; 4% instances), <tt><a href="lt_alksnis-dep-root.html">root</a></tt> (11; 1% instances), <tt><a href="lt_alksnis-dep-advcl.html">advcl</a></tt> (5; 0% instances), <tt><a href="lt_alksnis-dep-advmod.html">advmod</a></tt> (5; 0% instances), <tt><a href="lt_alksnis-dep-conj.html">conj</a></tt> (4; 0% instances), <tt><a href="lt_alksnis-dep-cc.html">cc</a></tt> (1; 0% instances), <tt><a href="lt_alksnis-dep-obj.html">obj</a></tt> (1; 0% instances)
 
-Parents of `PART` nodes belong to 12 different parts of speech: <tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt> (486; 31% instances), <tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt> (417; 27% instances), <tt><a href="lt_alksnis-pos-ADV.html">ADV</a></tt> (210; 14% instances), <tt><a href="lt_alksnis-pos-ADJ.html">ADJ</a></tt> (125; 8% instances), <tt><a href="lt_alksnis-pos-PRON.html">PRON</a></tt> (90; 6% instances), <tt><a href="lt_alksnis-pos-PART.html">PART</a></tt> (84; 5% instances), <tt><a href="lt_alksnis-pos-DET.html">DET</a></tt> (59; 4% instances), <tt><a href="lt_alksnis-pos-NUM.html">NUM</a></tt> (47; 3% instances), <tt><a href="lt_alksnis-pos-PROPN.html">PROPN</a></tt> (18; 1% instances),  (13; 1% instances), <tt><a href="lt_alksnis-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="lt_alksnis-pos-SYM.html">SYM</a></tt> (1; 0% instances)
+Parents of `PART` nodes belong to 12 different parts of speech: <tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt> (508; 34% instances), <tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt> (398; 27% instances), <tt><a href="lt_alksnis-pos-ADV.html">ADV</a></tt> (180; 12% instances), <tt><a href="lt_alksnis-pos-ADJ.html">ADJ</a></tt> (127; 9% instances), <tt><a href="lt_alksnis-pos-PART.html">PART</a></tt> (61; 4% instances), <tt><a href="lt_alksnis-pos-DET.html">DET</a></tt> (55; 4% instances), <tt><a href="lt_alksnis-pos-PRON.html">PRON</a></tt> (55; 4% instances), <tt><a href="lt_alksnis-pos-NUM.html">NUM</a></tt> (38; 3% instances), <tt><a href="lt_alksnis-pos-CCONJ.html">CCONJ</a></tt> (30; 2% instances), <tt><a href="lt_alksnis-pos-PROPN.html">PROPN</a></tt> (20; 1% instances),  (11; 1% instances), <tt><a href="lt_alksnis-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances)
 
-1297 (84%) `PART` nodes are leaves.
+1352 (91%) `PART` nodes are leaves.
 
-198 (13%) `PART` nodes have one child.
+100 (7%) `PART` nodes have one child.
 
-44 (3%) `PART` nodes have two children.
+27 (2%) `PART` nodes have two children.
 
-14 (1%) `PART` nodes have three or more children.
+6 (0%) `PART` nodes have three or more children.
 
-The highest child degree of a `PART` node is 6.
+The highest child degree of a `PART` node is 5.
 
-Children of `PART` nodes are attached using 16 different relations: <tt><a href="lt_alksnis-dep-nmod.html">nmod</a></tt> (113; 34% instances), <tt><a href="lt_alksnis-dep-punct.html">punct</a></tt> (104; 31% instances), <tt><a href="lt_alksnis-dep-advmod-emph.html">advmod:emph</a></tt> (84; 25% instances), <tt><a href="lt_alksnis-dep-conj.html">conj</a></tt> (11; 3% instances), <tt><a href="lt_alksnis-dep-mark.html">mark</a></tt> (6; 2% instances), <tt><a href="lt_alksnis-dep-cc.html">cc</a></tt> (3; 1% instances), <tt><a href="lt_alksnis-dep-obl.html">obl</a></tt> (3; 1% instances), <tt><a href="lt_alksnis-dep-obl-arg.html">obl:arg</a></tt> (2; 1% instances), <tt><a href="lt_alksnis-dep-parataxis.html">parataxis</a></tt> (2; 1% instances), <tt><a href="lt_alksnis-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="lt_alksnis-dep-advmod.html">advmod</a></tt> (1; 0% instances), <tt><a href="lt_alksnis-dep-appos.html">appos</a></tt> (1; 0% instances), <tt><a href="lt_alksnis-dep-case.html">case</a></tt> (1; 0% instances), <tt><a href="lt_alksnis-dep-dep.html">dep</a></tt> (1; 0% instances), <tt><a href="lt_alksnis-dep-discourse.html">discourse</a></tt> (1; 0% instances), <tt><a href="lt_alksnis-dep-obj.html">obj</a></tt> (1; 0% instances)
+Children of `PART` nodes are attached using 11 different relations: <tt><a href="lt_alksnis-dep-punct.html">punct</a></tt> (95; 54% instances), <tt><a href="lt_alksnis-dep-fixed.html">fixed</a></tt> (51; 29% instances), <tt><a href="lt_alksnis-dep-advmod-emph.html">advmod:emph</a></tt> (11; 6% instances), <tt><a href="lt_alksnis-dep-mark.html">mark</a></tt> (5; 3% instances), <tt><a href="lt_alksnis-dep-conj.html">conj</a></tt> (4; 2% instances), <tt><a href="lt_alksnis-dep-nsubj.html">nsubj</a></tt> (3; 2% instances), <tt><a href="lt_alksnis-dep-cc.html">cc</a></tt> (2; 1% instances), <tt><a href="lt_alksnis-dep-advcl.html">advcl</a></tt> (1; 1% instances), <tt><a href="lt_alksnis-dep-csubj.html">csubj</a></tt> (1; 1% instances), <tt><a href="lt_alksnis-dep-obj.html">obj</a></tt> (1; 1% instances), <tt><a href="lt_alksnis-dep-vocative.html">vocative</a></tt> (1; 1% instances)
 
-Children of `PART` nodes belong to 14 different parts of speech: <tt><a href="lt_alksnis-pos-X.html">X</a></tt> (113; 34% instances), <tt><a href="lt_alksnis-pos-PUNCT.html">PUNCT</a></tt> (104; 31% instances), <tt><a href="lt_alksnis-pos-PART.html">PART</a></tt> (84; 25% instances), <tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt> (8; 2% instances), <tt><a href="lt_alksnis-pos-SCONJ.html">SCONJ</a></tt> (6; 2% instances), <tt><a href="lt_alksnis-pos-ADJ.html">ADJ</a></tt> (4; 1% instances), <tt><a href="lt_alksnis-pos-ADV.html">ADV</a></tt> (4; 1% instances), <tt><a href="lt_alksnis-pos-CCONJ.html">CCONJ</a></tt> (4; 1% instances), <tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt> (3; 1% instances), <tt><a href="lt_alksnis-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="lt_alksnis-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="lt_alksnis-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="lt_alksnis-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="lt_alksnis-pos-PROPN.html">PROPN</a></tt> (1; 0% instances)
+Children of `PART` nodes belong to 9 different parts of speech: <tt><a href="lt_alksnis-pos-PUNCT.html">PUNCT</a></tt> (95; 54% instances), <tt><a href="lt_alksnis-pos-PART.html">PART</a></tt> (61; 35% instances), <tt><a href="lt_alksnis-pos-SCONJ.html">SCONJ</a></tt> (5; 3% instances), <tt><a href="lt_alksnis-pos-PRON.html">PRON</a></tt> (4; 2% instances), <tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt> (3; 2% instances), <tt><a href="lt_alksnis-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="lt_alksnis-pos-CCONJ.html">CCONJ</a></tt> (2; 1% instances), <tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="lt_alksnis-pos-ADJ.html">ADJ</a></tt> (1; 1% instances)
 

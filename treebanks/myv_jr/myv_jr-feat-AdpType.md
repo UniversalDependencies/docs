@@ -11,7 +11,7 @@ It occurs with 1 different values: `Post`.
 
 358 tokens (2%) have a non-empty value of `AdpType`.
 70 types (1%) occur at least once with a non-empty value of `AdpType`.
-43 lemmas (1%) occur at least once with a non-empty value of `AdpType`.
+42 lemmas (1%) occur at least once with a non-empty value of `AdpType`.
 The feature is used with 2 part-of-speech tags: <tt><a href="myv_jr-pos-ADP.html">ADP</a></tt> (357; 2% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
 
 ### `ADP`
@@ -24,7 +24,7 @@ The most frequent other feature values with which `ADP` and `AdpType` co-occurre
 
 * `Post` (357; 100% of non-empty `AdpType`): <em>марто, кис, мельга, эйстэ, кисэ, перька, пачк, ваксс, кувалт, перть</em>
 
-`AdpType` seems to be **lexical feature** of `ADP`. 100% lemmas (42) occur only with one value of `AdpType`.
+`AdpType` seems to be **lexical feature** of `ADP`. 100% lemmas (41) occur only with one value of `AdpType`.
 
 ### `ADJ`
 

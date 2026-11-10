@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-600 nodes (6%) are attached to their parents as `obl`.
+597 nodes (6%) are attached to their parents as `obl`.
 
-532 instances of `obl` (89%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.97333333333333.
+530 instances of `obl` (89%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.97822445561139.
 
-The following 9 pairs of parts of speech are connected with `obl`: <tt><a href="quc_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="quc_iu-pos-NOUN.html">NOUN</a></tt> (471; 79% instances), <tt><a href="quc_iu-pos-PART.html">PART</a></tt>-<tt><a href="quc_iu-pos-NOUN.html">NOUN</a></tt> (64; 11% instances), <tt><a href="quc_iu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="quc_iu-pos-NOUN.html">NOUN</a></tt> (36; 6% instances), <tt><a href="quc_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="quc_iu-pos-PROPN.html">PROPN</a></tt> (16; 3% instances), <tt><a href="quc_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="quc_iu-pos-NOUN.html">NOUN</a></tt> (9; 2% instances), <tt><a href="quc_iu-pos-INTJ.html">INTJ</a></tt>-<tt><a href="quc_iu-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="quc_iu-pos-PART.html">PART</a></tt>-<tt><a href="quc_iu-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="quc_iu-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="quc_iu-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="quc_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="quc_iu-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `obl`: <tt><a href="quc_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="quc_iu-pos-NOUN.html">NOUN</a></tt> (471; 79% instances), <tt><a href="quc_iu-pos-PART.html">PART</a></tt>-<tt><a href="quc_iu-pos-NOUN.html">NOUN</a></tt> (64; 11% instances), <tt><a href="quc_iu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="quc_iu-pos-NOUN.html">NOUN</a></tt> (36; 6% instances), <tt><a href="quc_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="quc_iu-pos-PROPN.html">PROPN</a></tt> (16; 3% instances), <tt><a href="quc_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="quc_iu-pos-NOUN.html">NOUN</a></tt> (6; 1% instances), <tt><a href="quc_iu-pos-INTJ.html">INTJ</a></tt>-<tt><a href="quc_iu-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="quc_iu-pos-PART.html">PART</a></tt>-<tt><a href="quc_iu-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="quc_iu-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="quc_iu-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="quc_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="quc_iu-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

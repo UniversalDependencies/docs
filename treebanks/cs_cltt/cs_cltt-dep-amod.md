@@ -24,7 +24,7 @@ The following 7 pairs of parts of speech are connected with `amod`: <tt><a href=
 # visual-style 3 2 amod	color:blue
 1	Metoda	metoda	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing	0	root	0:root	_
 2	komponentního	komponentní	ADJ	AANS2----1A----	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos	3	amod	3:amod	_
-3	odpisování	odpisování	NOUN	NNNS2-----A----	Case=Gen|Gender=Neut|Number=Sing	1	nmod	1:nmod:gen	_
+3	odpisování	odpisování	NOUN	NNNS2-----A----	Case=Gen|Gender=Neut|Number=Sing|VerbForm=Vnoun	1	nmod	1:nmod:gen	_
 4	majetku	majetek	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	nmod	3:nmod:gen	_
 
 ~~~
@@ -45,7 +45,7 @@ The following 7 pairs of parts of speech are connected with `amod`: <tt><a href=
 7	byl	být	AUX	VpYS---XR-AA---	Aspect=Imp|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	10	aux:pass	10:aux:pass	_
 8	projekt	projekt	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	10	nsubj:pass	10:nsubj:pass	_
 9	přeměny	přeměna	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing	8	nmod	8:nmod:gen	_
-10	vypracován	vypracovaný	ADJ	VsYS---XX-AP---	Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	4	acl:relcl	4:acl:relcl	LDeriv=vypracovat
+10	vypracován	vypracovaný	ADJ	VsYS---XX-AP---	Aspect=Perf|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	4	acl:relcl	4:acl:relcl	LDeriv=vypracovat
 11	podle	podle	ADP	RR--2----------	AdpType=Prep|Case=Gen	12	case	12:case	LId=podle-2
 12	zákona_č._125/2008_Sb.	zákona_č._125/2008_Sb.	X	X@-------------	_	10	obl	10:obl:podle:gen	SpaceAfter=No
 13	,	,	PUNCT	Z:-------------	_	15	punct	15:punct	_
@@ -57,7 +57,7 @@ The following 7 pairs of parts of speech are connected with `amod`: <tt><a href=
 19	družstev	družstvo	NOUN	NNNP2-----A----	Case=Gen|Gender=Neut|Number=Plur	17	conj	15:nmod:gen|17:conj	SpaceAfter=No
 20	,	,	PUNCT	Z:-------------	_	22	punct	22:punct	_
 21	ve	v	ADP	RV--6----------	AdpType=Voc|Case=Loc	22	case	22:case	LId=v-1
-22	znění	znění	NOUN	NNNS6-----A----	Case=Loc|Gender=Neut|Number=Sing	12	nmod	12:nmod:v:loc	_
+22	znění	znění	NOUN	NNNS6-----A----	Case=Loc|Gender=Neut|Number=Sing|VerbForm=Vnoun	12	nmod	12:nmod:v:loc	_
 23	účinném	účinný	ADJ	AANS6----1A----	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos	22	amod	22:amod	_
 24	do	do	ADJ	A2--------A----	Degree=Pos|Hyph=Yes|Polarity=Pos	23	amod	23:amod	LId=do-7
 25	31	31	NUM	C}-------------	NumForm=Roman|NumType=Card	27	nummod	27:nummod	SpaceAfter=No
@@ -65,10 +65,10 @@ The following 7 pairs of parts of speech are connected with `amod`: <tt><a href=
 27	prosince	prosinec	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	24	obl	24:obl:gen	_
 28	2011	2011	NUM	C}-------------	NumForm=Roman|NumType=Card	27	nummod	27:nummod	SpaceAfter=No
 29	,	,	PUNCT	Z:-------------	_	10	punct	10:punct	_
-30	postupuje	postupovat	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
+30	postupuje	postupovat	VERB	VB-S---3P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
 31	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	30	expl:pass	30:expl:pass	_
 32	při	při	ADP	RR--6----------	AdpType=Prep|Case=Loc	33	case	33:case	LId=při-1
-33	účtování	účtování	NOUN	NNNS6-----A----	Case=Loc|Gender=Neut|Number=Sing	30	obl	30:obl:při:loc	_
+33	účtování	účtování	NOUN	NNNS6-----A----	Case=Loc|Gender=Neut|Number=Sing|VerbForm=Vnoun	30	obl	30:obl:při:loc	_
 34	o	o	ADP	RR--6----------	AdpType=Prep|Case=Loc	35	case	35:case	LId=o-1
 35	přeměně	přeměna	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing	33	nmod	33:nmod:o:loc	_
 36	společnosti	společnost	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing	35	nmod	35:nmod:gen	_
@@ -76,11 +76,11 @@ The following 7 pairs of parts of speech are connected with `amod`: <tt><a href=
 38	vyhlášky_č._500/2002_Sb.	vyhlášky_č._500/2002_Sb.	X	X@-------------	_	30	obl	30:obl:podle:gen	SpaceAfter=No
 39	,	,	PUNCT	Z:-------------	_	41	punct	41:punct	_
 40	ve	v	ADP	RV--6----------	AdpType=Voc|Case=Loc	41	case	41:case	LId=v-1
-41	znění	znění	NOUN	NNNS6-----A----	Case=Loc|Gender=Neut|Number=Sing	38	nmod	38:nmod:v:loc	_
+41	znění	znění	NOUN	NNNS6-----A----	Case=Loc|Gender=Neut|Number=Sing|VerbForm=Vnoun	38	nmod	38:nmod:v:loc	_
 42	účinném	účinný	ADJ	AANS6----1A----	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos	41	amod	41:amod	_
 43	do	do	ADP	RR--2----------	AdpType=Prep|Case=Gen	44	case	44:case	LId=do-1
 44	dne	den	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	42	obl	42:obl:do:gen	_
-45	nabytí	nabytí	NOUN	NNNS2-----A----	Case=Gen|Gender=Neut|Number=Sing	44	nmod	44:nmod:gen	_
+45	nabytí	nabytí	NOUN	NNNS2-----A----	Case=Gen|Gender=Neut|Number=Sing|VerbForm=Vnoun	44	nmod	44:nmod:gen	_
 46	účinnosti	účinnost	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing	45	nmod	45:nmod:gen	_
 47	této	tento	DET	PDFS2----------	Case=Gen|Gender=Fem|Number=Sing|PronType=Dem	48	det	48:det	_
 48	vyhlášky	vyhláška	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing	46	nmod	46:nmod:gen	SpaceAfter=No
@@ -108,9 +108,9 @@ The following 7 pairs of parts of speech are connected with `amod`: <tt><a href=
 11	,	,	PUNCT	Z:-------------	_	16	punct	16:punct	_
 12	které	který	DET	P4FP1----------	Case=Nom|Gender=Fem|Number=Plur|PronType=Int,Rel	16	nsubj	10:ref	_
 13	s	s	ADP	RR--7----------	AdpType=Prep|Case=Ins	15	case	15:case	LId=s-1
-14	převedeným	převedený	ADJ	AAIS7----1A----	Animacy=Inan|Case=Ins|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	15	amod	15:amod	_
+14	převedeným	převedený	ADJ	AAIS7----1A----	Animacy=Inan|Aspect=Perf|Case=Ins|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	15	amod	15:amod	_
 15	záznamem	záznam	NOUN	NNIS7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	16	obl:arg	16:obl:arg:s:ins	_
-16	pracují	pracovat	VERB	VB-P---3P-AA---	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	10	acl:relcl	10:acl:relcl	SpaceAfter=No
+16	pracují	pracovat	VERB	VB-P---3P-AA---	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	10	acl:relcl	10:acl:relcl	SpaceAfter=No
 17	,	,	PUNCT	Z:-------------	_	16	punct	16:punct	_
 18	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	37	expl:pass	37:expl:pass	_
 19	u	u	ADP	RR--2----------	AdpType=Prep|Case=Gen	21	case	21:case	LId=u-1
@@ -119,7 +119,7 @@ The following 7 pairs of parts of speech are connected with `amod`: <tt><a href=
 22	,	,	PUNCT	Z:-------------	_	25	punct	25:punct	_
 23	které	který	DET	P4IP1----------	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|PronType=Int,Rel	25	nsubj	21:ref	_
 24	nejsou	být	AUX	VB-P---3P-NA---	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	25	cop	25:cop	_
-25	označeny	označený	ADJ	VsTP---XX-AP---	Animacy=Inan|Degree=Pos|Gender=Fem,Masc|Number=Plur|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	21	acl:relcl	21:acl:relcl	LDeriv=označit
+25	označeny	označený	ADJ	VsTP---XX-AP---	Animacy=Inan|Aspect=Perf|Degree=Pos|Gender=Fem,Masc|Number=Plur|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	21	acl:relcl	21:acl:relcl	LDeriv=označit
 26	skartačními	skartační	ADJ	AAIP7----1A----	Animacy=Inan|Case=Ins|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos	27	amod	27:amod	_
 27	znaky	znak	NOUN	NNIP7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	25	obl	25:obl:ins	_
 28	pro	pro	ADP	RR--4----------	AdpType=Prep|Case=Acc	29	case	29:case	LId=pro-1
@@ -131,8 +131,8 @@ The following 7 pairs of parts of speech are connected with `amod`: <tt><a href=
 34	právního	právní	ADJ	AAIS2----1A----	Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	35	amod	35:amod	_
 35	předpisu	předpis	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	27	nmod	27:nmod:podle:gen	SpaceAfter=No
 36	,	,	PUNCT	Z:-------------	_	25	punct	25:punct	_
-37	nevyžaduje	vyžadovat	VERB	VB-S---3P-NA---	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
-38	předložení	předložení	NOUN	NNNS4-----A----	Case=Acc|Gender=Neut|Number=Sing	37	nsubj:pass	37:nsubj:pass	_
+37	nevyžaduje	vyžadovat	VERB	VB-S---3P-NA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
+38	předložení	předložení	NOUN	NNNS4-----A----	Case=Acc|Gender=Neut|Number=Sing|VerbForm=Vnoun	37	nsubj:pass	37:nsubj:pass	_
 39	účetního	účetní	ADJ	AAIS2----1A----	Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	40	amod	40:amod	LId=účetní-1
 40	záznamu	záznam	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	38	nmod	38:nmod:gen	_
 41	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	43	case	43:case	LId=v-1
@@ -144,8 +144,8 @@ The following 7 pairs of parts of speech are connected with `amod`: <tt><a href=
 47	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	49	case	49:case	LId=v-1
 48	původní	původní	ADJ	AAFS6----1A----	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	49	amod	49:amod	_
 49	formě	forma	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing	46	nmod	46:nmod:v:loc	_
-50	neplatí	platit	VERB	VB-S---3P-NA---	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	37	conj	0:root|37:conj	_
-51	ustanovení	ustanovení	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Number=Sing	50	nsubj	50:nsubj	_
+50	neplatí	platit	VERB	VB-S---3P-NA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	37	conj	0:root|37:conj	_
+51	ustanovení	ustanovení	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Vnoun	50	nsubj	50:nsubj	_
 52	§_31	§_31	X	X@-------------	_	51	nmod	51:nmod	SpaceAfter=No
 53	.	.	PUNCT	Z:-------------	_	37	punct	37:punct	_
 

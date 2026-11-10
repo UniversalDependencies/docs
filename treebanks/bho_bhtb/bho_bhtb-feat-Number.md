@@ -12,7 +12,7 @@ It occurs with 2 different values: `Plur`, `Sing`.
 4276 tokens (64%) have a non-empty value of `Number`.
 1395 types (83%) occur at least once with a non-empty value of `Number`.
 1341 lemmas (82%) occur at least once with a non-empty value of `Number`.
-The feature is used with 14 part-of-speech tags: <tt><a href="bho_bhtb-pos-NOUN.html">NOUN</a></tt> (1629; 24% instances), <tt><a href="bho_bhtb-pos-ADP.html">ADP</a></tt> (579; 9% instances), <tt><a href="bho_bhtb-pos-VERB.html">VERB</a></tt> (546; 8% instances), <tt><a href="bho_bhtb-pos-PROPN.html">PROPN</a></tt> (395; 6% instances), <tt><a href="bho_bhtb-pos-AUX.html">AUX</a></tt> (277; 4% instances), <tt><a href="bho_bhtb-pos-PRON.html">PRON</a></tt> (276; 4% instances), <tt><a href="bho_bhtb-pos-DET.html">DET</a></tt> (222; 3% instances), <tt><a href="bho_bhtb-pos-ADJ.html">ADJ</a></tt> (111; 2% instances), <tt><a href="bho_bhtb-pos-PART.html">PART</a></tt> (98; 1% instances), <tt><a href="bho_bhtb-pos-NUM.html">NUM</a></tt> (93; 1% instances), <tt><a href="bho_bhtb-pos-CCONJ.html">CCONJ</a></tt> (41; 1% instances), <tt><a href="bho_bhtb-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="bho_bhtb-pos-INTJ.html">INTJ</a></tt> (4; 0% instances), <tt><a href="bho_bhtb-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+The feature is used with 14 part-of-speech tags: <tt><a href="bho_bhtb-pos-NOUN.html">NOUN</a></tt> (1629; 24% instances), <tt><a href="bho_bhtb-pos-ADP.html">ADP</a></tt> (579; 9% instances), <tt><a href="bho_bhtb-pos-VERB.html">VERB</a></tt> (546; 8% instances), <tt><a href="bho_bhtb-pos-PROPN.html">PROPN</a></tt> (395; 6% instances), <tt><a href="bho_bhtb-pos-AUX.html">AUX</a></tt> (277; 4% instances), <tt><a href="bho_bhtb-pos-PRON.html">PRON</a></tt> (276; 4% instances), <tt><a href="bho_bhtb-pos-DET.html">DET</a></tt> (222; 3% instances), <tt><a href="bho_bhtb-pos-ADJ.html">ADJ</a></tt> (112; 2% instances), <tt><a href="bho_bhtb-pos-PART.html">PART</a></tt> (98; 1% instances), <tt><a href="bho_bhtb-pos-NUM.html">NUM</a></tt> (92; 1% instances), <tt><a href="bho_bhtb-pos-CCONJ.html">CCONJ</a></tt> (41; 1% instances), <tt><a href="bho_bhtb-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="bho_bhtb-pos-INTJ.html">INTJ</a></tt> (4; 0% instances), <tt><a href="bho_bhtb-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
@@ -170,14 +170,14 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 
 ### `ADJ`
 
-111 <tt><a href="bho_bhtb-pos-ADJ.html">ADJ</a></tt> tokens (45% of all `ADJ` tokens) have a non-empty value of `Number`.
+112 <tt><a href="bho_bhtb-pos-ADJ.html">ADJ</a></tt> tokens (45% of all `ADJ` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="bho_bhtb-feat-Person.html">Person</a></tt><tt>=3</tt> (98; 88%), <tt><a href="bho_bhtb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (96; 86%), <tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (95; 86%).
+The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="bho_bhtb-feat-Person.html">Person</a></tt><tt>=3</tt> (99; 88%), <tt><a href="bho_bhtb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (97; 87%), <tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (96; 86%).
 
 `ADJ` tokens may have the following values of `Number`:
 
 * `Plur` (3; 3% of non-empty `Number`): छोट, चोट
-* `Sing` (108; 97% of non-empty `Number`): पूरा, बड़, छोट, तरह, नवका, बड़हन, भोजपुरिया, अढ़ाई, अश्लील, आधा
+* `Sing` (109; 97% of non-empty `Number`): पूरा, बड़, छोट, तरह, नवका, बड़हन, भोजपुरिया, अढ़ाई, अश्लील, आधा
 * `EMPTY` (138): सांस्कृतिक, तथाकथित, प, खास, चुपचाप, जरूरी, आखिरी, आसान, काव्य, सहज
 
 <table>
@@ -186,11 +186,11 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
   <tr><td><tt><tt><a href="bho_bhtb-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td>छोट</td><td>छोट</td></tr>
 </table>
 
-`Number` seems to be **lexical feature** of `ADJ`. 99% lemmas (69) occur only with one value of `Number`.
+`Number` seems to be **lexical feature** of `ADJ`. 99% lemmas (70) occur only with one value of `Number`.
 
 ### `PART`
 
-98 <tt><a href="bho_bhtb-pos-PART.html">PART</a></tt> tokens (51% of all `PART` tokens) have a non-empty value of `Number`.
+98 <tt><a href="bho_bhtb-pos-PART.html">PART</a></tt> tokens (52% of all `PART` tokens) have a non-empty value of `Number`.
 
 The most frequent other feature values with which `PART` and `Number` co-occurred: <tt><a href="bho_bhtb-feat-Person.html">Person</a></tt><tt>=3</tt> (93; 95%), <tt><a href="bho_bhtb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (89; 91%), <tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (78; 80%).
 
@@ -198,7 +198,7 @@ The most frequent other feature values with which `PART` and `Number` co-occurre
 
 * `Plur` (17; 17% of non-empty `Number`): नइखे, बहुते, त, तिकवते, नाहीं
 * `Sing` (81; 83% of non-empty `Number`): त, ना, बस, गमगमावे, घटना, नइखे, अतना, अलावे, केहू, खाली
-* `EMPTY` (93): ना, त, नइखे, भर, ढेर, तनिको, बनवले, बिना, भी, सँ
+* `EMPTY` (92): ना, त, नइखे, भर, ढेर, तनिको, बनवले, बिना, भी, सँ
 
 <table>
   <tr><th>Paradigm <i>त</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -208,14 +208,14 @@ The most frequent other feature values with which `PART` and `Number` co-occurre
 
 ### `NUM`
 
-93 <tt><a href="bho_bhtb-pos-NUM.html">NUM</a></tt> tokens (62% of all `NUM` tokens) have a non-empty value of `Number`.
+92 <tt><a href="bho_bhtb-pos-NUM.html">NUM</a></tt> tokens (62% of all `NUM` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NUM` and `Number` co-occurred: <tt><a href="bho_bhtb-feat-NumType.html">NumType</a></tt><tt>=EMPTY</tt> (93; 100%), <tt><a href="bho_bhtb-feat-Person.html">Person</a></tt><tt>=3</tt> (88; 95%), <tt><a href="bho_bhtb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (87; 94%), <tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (75; 81%).
+The most frequent other feature values with which `NUM` and `Number` co-occurred: <tt><a href="bho_bhtb-feat-NumType.html">NumType</a></tt><tt>=EMPTY</tt> (92; 100%), <tt><a href="bho_bhtb-feat-Person.html">Person</a></tt><tt>=3</tt> (87; 95%), <tt><a href="bho_bhtb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (86; 93%), <tt><a href="bho_bhtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (74; 80%).
 
 `NUM` tokens may have the following values of `Number`:
 
 * `Plur` (21; 23% of non-empty `Number`): लोग, कलिग, उमंग, सन, सभ
-* `Sing` (72; 77% of non-empty `Number`): एगो, गो, दू, 5, छठवां, दोसर, दोसरा, दोसरो, सिलसिला, २०१२
+* `Sing` (71; 77% of non-empty `Number`): एगो, गो, दू, 5, छठवां, दोसर, दोसरा, दोसरो, सिलसिला, २०१२
 * `EMPTY` (56): एक, कुछ, अनकस, बाकि, 12, 120, 2011, 75, आठ, एगो
 
 <table>
@@ -224,7 +224,7 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
   <tr><td><tt><tt><a href="bho_bhtb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td>सभ</td></tr>
 </table>
 
-`Number` seems to be **lexical feature** of `NUM`. 96% lemmas (27) occur only with one value of `Number`.
+`Number` seems to be **lexical feature** of `NUM`. 96% lemmas (26) occur only with one value of `Number`.
 
 ### `CCONJ`
 
@@ -236,7 +236,7 @@ The most frequent other feature values with which `CCONJ` and `Number` co-occurr
 
 * `Plur` (4; 10% of non-empty `Number`): आ, फगुआ, रउँआ
 * `Sing` (37; 90% of non-empty `Number`): बाकिर, अउर, फगुआ, भा, राउर, आखिर, खम्भा, आ, आउर
-* `EMPTY` (110): आ, बाकिर, अउर, आउर, खैर, बलुक, सचहूं
+* `EMPTY` (111): आ, बाकिर, अउर, आउर, खैर, बलुक, सचहूं
 
 <table>
   <tr><th>Paradigm <i>आ</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -279,7 +279,7 @@ The most frequent other feature values with which `INTJ` and `Number` co-occurre
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="bho_bhtb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (217; 74%),
+<tt>NOUN --[<tt><a href="bho_bhtb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (231; 74%),
 <tt>NOUN --[<tt><a href="bho_bhtb-dep-compound.html">compound</a></tt>]--> NOUN</tt> (188; 77%),
 <tt>VERB --[<tt><a href="bho_bhtb-dep-compound.html">compound</a></tt>]--> NOUN</tt> (182; 54%),
 <tt>PROPN --[<tt><a href="bho_bhtb-dep-compound.html">compound</a></tt>]--> PROPN</tt> (137; 93%),

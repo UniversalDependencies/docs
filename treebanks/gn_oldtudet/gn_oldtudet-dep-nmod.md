@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-29 nodes (13%) are attached to their parents as `nmod`.
+30 nodes (14%) are attached to their parents as `nmod`.
 
-17 instances of `nmod` (59%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.13793103448276.
+17 instances of `nmod` (57%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.13333333333333.
 
-The following 7 pairs of parts of speech are connected with `nmod`: <tt><a href="gn_oldtudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gn_oldtudet-pos-NOUN.html">NOUN</a></tt> (16; 55% instances), <tt><a href="gn_oldtudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gn_oldtudet-pos-PRON.html">PRON</a></tt> (5; 17% instances), <tt><a href="gn_oldtudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gn_oldtudet-pos-PROPN.html">PROPN</a></tt> (3; 10% instances), <tt><a href="gn_oldtudet-pos-PRON.html">PRON</a></tt>-<tt><a href="gn_oldtudet-pos-NOUN.html">NOUN</a></tt> (2; 7% instances), <tt><a href="gn_oldtudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gn_oldtudet-pos-DET.html">DET</a></tt> (1; 3% instances), <tt><a href="gn_oldtudet-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gn_oldtudet-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="gn_oldtudet-pos-VERB.html">VERB</a></tt>-<tt><a href="gn_oldtudet-pos-NOUN.html">NOUN</a></tt> (1; 3% instances).
+The following 8 pairs of parts of speech are connected with `nmod`: <tt><a href="gn_oldtudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gn_oldtudet-pos-NOUN.html">NOUN</a></tt> (16; 53% instances), <tt><a href="gn_oldtudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gn_oldtudet-pos-PRON.html">PRON</a></tt> (5; 17% instances), <tt><a href="gn_oldtudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gn_oldtudet-pos-PROPN.html">PROPN</a></tt> (3; 10% instances), <tt><a href="gn_oldtudet-pos-PRON.html">PRON</a></tt>-<tt><a href="gn_oldtudet-pos-NOUN.html">NOUN</a></tt> (2; 7% instances), <tt><a href="gn_oldtudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gn_oldtudet-pos-ADP.html">ADP</a></tt> (1; 3% instances), <tt><a href="gn_oldtudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gn_oldtudet-pos-DET.html">DET</a></tt> (1; 3% instances), <tt><a href="gn_oldtudet-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gn_oldtudet-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="gn_oldtudet-pos-VERB.html">VERB</a></tt>-<tt><a href="gn_oldtudet-pos-NOUN.html">NOUN</a></tt> (1; 3% instances).
 
 
 ~~~ conllu
@@ -38,7 +38,7 @@ The following 7 pairs of parts of speech are connected with `nmod`: <tt><a href=
 1	mba'e	mba'e	NOUN	n	_	0	root	_	_
 2	ase	ase	PRON	pron	PronType=Prs	3	nmod	_	_
 3	ãnga	ãng	NOUN	n	Case=Ref	1	nmod	_	_
-4	reheguára	rehe	ADP	posp	Nomzr=CCirc	3	obl	_	_
+4	reheguára	rehe	ADP	posp	Nomzr=CCirc	3	nmod	_	_
 
 ~~~
 

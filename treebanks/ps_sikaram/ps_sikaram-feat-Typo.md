@@ -9,40 +9,64 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Yes`.
 
-22 tokens (0%) have a non-empty value of `Typo`.
-20 types (1%) occur at least once with a non-empty value of `Typo`.
-20 lemmas (2%) occur at least once with a non-empty value of `Typo`.
-The feature is used with 6 part-of-speech tags: <tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt> (10; 0% instances), <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt> (7; 0% instances), <tt><a href="ps_sikaram-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="ps_sikaram-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="ps_sikaram-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+31 tokens (0%) have a non-empty value of `Typo`.
+28 types (2%) occur at least once with a non-empty value of `Typo`.
+28 lemmas (2%) occur at least once with a non-empty value of `Typo`.
+The feature is used with 8 part-of-speech tags: <tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt> (13; 0% instances), <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt> (10; 0% instances), <tt><a href="ps_sikaram-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="ps_sikaram-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ps_sikaram-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="ps_sikaram-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="ps_sikaram-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 ### `ADJ`
 
-10 <tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt> tokens (2% of all `ADJ` tokens) have a non-empty value of `Typo`.
+13 <tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt> tokens (2% of all `ADJ` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `ADJ` and `Typo` co-occurred: <tt><a href="ps_sikaram-feat-Case.html">Case</a></tt><tt>=Nom</tt> (6; 60%), <tt><a href="ps_sikaram-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6; 60%).
+The most frequent other feature values with which `ADJ` and `Typo` co-occurred: <tt><a href="ps_sikaram-feat-Number.html">Number</a></tt><tt>=Sing</tt> (8; 62%), <tt><a href="ps_sikaram-feat-Case.html">Case</a></tt><tt>=Nom</tt> (7; 54%), <tt><a href="ps_sikaram-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (7; 54%).
 
 `ADJ` tokens may have the following values of `Typo`:
 
-* `Yes` (10; 100% of non-empty `Typo`): <em>ټولنیزو, پښتون, اورنی, اّر, جګړه, غمجنیه, ممکنه, ګنې</em>
+* `Yes` (13; 100% of non-empty `Typo`): <em>ټولنیزو, پښتون, اورنی, اّر, جګړه, شملې, غمجنیه, ممکنه, ژوندي, ګنې</em>
+
+`Typo` seems to be **lexical feature** of `ADJ`. 100% lemmas (11) occur only with one value of `Typo`.
 
 ### `NOUN`
 
-7 <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt> tokens (1% of all `NOUN` tokens) have a non-empty value of `Typo`.
+10 <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt> tokens (1% of all `NOUN` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `NOUN` and `Typo` co-occurred: <tt><a href="ps_sikaram-feat-Case.html">Case</a></tt><tt>=Nom</tt> (5; 71%), <tt><a href="ps_sikaram-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (5; 71%), <tt><a href="ps_sikaram-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5; 71%).
+The most frequent other feature values with which `NOUN` and `Typo` co-occurred: <tt><a href="ps_sikaram-feat-Number.html">Number</a></tt><tt>=Sing</tt> (8; 80%), <tt><a href="ps_sikaram-feat-Case.html">Case</a></tt><tt>=Nom</tt> (7; 70%), <tt><a href="ps_sikaram-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (7; 70%).
 
 `NOUN` tokens may have the following values of `Typo`:
 
-* `Yes` (7; 100% of non-empty `Typo`): <em>رخه, زېري, سوچه, ماتې, ولايتونو, کره, کړې</em>
+* `Yes` (10; 100% of non-empty `Typo`): <em>رخه, زېري, سوچه, ماتې, مشرتابه, معامله, ولايتونو, پېرودونکي, کره, کړې</em>
+
+`Typo` seems to be **lexical feature** of `NOUN`. 100% lemmas (10) occur only with one value of `Typo`.
 
 ### `NUM`
 
-2 <tt><a href="ps_sikaram-pos-NUM.html">NUM</a></tt> tokens (3% of all `NUM` tokens) have a non-empty value of `Typo`.
+2 <tt><a href="ps_sikaram-pos-NUM.html">NUM</a></tt> tokens (2% of all `NUM` tokens) have a non-empty value of `Typo`.
 
 The most frequent other feature values with which `NUM` and `Typo` co-occurred: <tt><a href="ps_sikaram-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="ps_sikaram-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="ps_sikaram-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (2; 100%).
 
 `NUM` tokens may have the following values of `Typo`:
 
 * `Yes` (2; 100% of non-empty `Typo`): <em>0053, 1858</em>
+
+### `VERB`
+
+2 <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Typo`.
+
+The most frequent other feature values with which `VERB` and `Typo` co-occurred: <tt><a href="ps_sikaram-feat-Number.html">Number</a></tt><tt>=Plur</tt> (2; 100%), <tt><a href="ps_sikaram-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (2; 100%).
+
+`VERB` tokens may have the following values of `Typo`:
+
+* `Yes` (2; 100% of non-empty `Typo`): <em>شوي, کوو</em>
+
+### `ADP`
+
+1 <tt><a href="ps_sikaram-pos-ADP.html">ADP</a></tt> tokens (0% of all `ADP` tokens) have a non-empty value of `Typo`.
+
+The most frequent other feature values with which `ADP` and `Typo` co-occurred: <tt><a href="ps_sikaram-feat-Case.html">Case</a></tt><tt>=Abl</tt> (1; 100%).
+
+`ADP` tokens may have the following values of `Typo`:
+
+* `Yes` (1; 100% of non-empty `Typo`): <em>تر</em>
 
 ### `AUX`
 
@@ -64,13 +88,13 @@ The most frequent other feature values with which `PART` and `Typo` co-occurred:
 
 * `Yes` (1; 100% of non-empty `Typo`): <em>پرې</em>
 
-### `VERB`
+### `PROPN`
 
-1 <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Typo`.
+1 <tt><a href="ps_sikaram-pos-PROPN.html">PROPN</a></tt> tokens (0% of all `PROPN` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `VERB` and `Typo` co-occurred: <tt><a href="ps_sikaram-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (1; 100%), <tt><a href="ps_sikaram-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="ps_sikaram-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1; 100%), <tt><a href="ps_sikaram-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1; 100%), <tt><a href="ps_sikaram-feat-Number.html">Number</a></tt><tt>=Plur</tt> (1; 100%), <tt><a href="ps_sikaram-feat-Person.html">Person</a></tt><tt>=3</tt> (1; 100%), <tt><a href="ps_sikaram-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1; 100%), <tt><a href="ps_sikaram-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1; 100%).
+The most frequent other feature values with which `PROPN` and `Typo` co-occurred: <tt><a href="ps_sikaram-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1; 100%), <tt><a href="ps_sikaram-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1; 100%), <tt><a href="ps_sikaram-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%).
 
-`VERB` tokens may have the following values of `Typo`:
+`PROPN` tokens may have the following values of `Typo`:
 
-* `Yes` (1; 100% of non-empty `Typo`): <em>کوو</em>
+* `Yes` (1; 100% of non-empty `Typo`): <em>صراط</em>
 

@@ -85,7 +85,7 @@ The following 5 pairs of parts of speech are connected with `nummod`: <tt><a hre
 14	γίνου	γίνομαι	VERB	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid,Pass	10	parataxis	_	Gloss=to-become,come-to-be|Ref=GEN_24.60
 15	εἰς	εἰς	ADP	_	_	16	case	_	Gloss=into,unto,for|Ref=GEN_24.60
 16	χιλιάδας	χιλιάς	NUM	_	Case=Acc|Gender=Fem|Number=Plur|NumType=Card	14	xcomp	_	Gloss=thousands|Ref=GEN_24.60
-17	μυριάδων	μυριάς	NUM	_	Case=Gen|Gender=Fem,Masc,Neut|Number=Plur|NumType=Card	16	nummod	_	Gloss=10,000|Ref=GEN_24.60|SpaceAfter=No
+17	μυριάδων	μυριάς	NUM	_	Case=Gen|Gender=Fem|Number=Plur|NumType=Card	16	nummod	_	Gloss=10,000|Ref=GEN_24.60|SpaceAfter=No
 18	,	,	PUNCT	_	_	19	punct	_	Ref=GEN_24.60
 19	καὶ	καί	CCONJ	_	_	20	cc	_	Gloss=and,also,even,then,next|Ref=GEN_24.60
 20	κληρονομησάτω	κληρονομέω	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	14	conj	_	Gloss=to-inherit|Ref=GEN_24.60

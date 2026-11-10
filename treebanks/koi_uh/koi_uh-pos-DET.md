@@ -7,24 +7,27 @@ udver: '2'
 ## Treebank Statistics: UD_Komi_Permyak-UH: POS Tags: `DET`
 
 There are 6 `DET` lemmas (1%), 6 `DET` types (1%) and 6 `DET` tokens (1%).
-Out of 15 observed tags, the rank of `DET` is: 11 in number of lemmas, 13 in number of types and 13 in number of tokens.
+Out of 15 observed tags, the rank of `DET` is: 11 in number of lemmas, 12 in number of types and 13 in number of tokens.
 
 The 10 most frequent `DET` lemmas: <em>ас, быд, кык, кынымкӧ, мукӧд, эта</em>
 
-The 10 most frequent `DET` types:  <em>Быд, Кыкнан, Мукӧд, ас, кынымкö, эта</em>
+The 10 most frequent `DET` types:  <em>Быд, Кыкнан, Мукӧд, ас, кынымкӧ, эта</em>
 
 The 10 most frequent ambiguous lemmas: <em>ас</em> (<tt><a href="koi_uh-pos-PRON.html">PRON</a></tt> 2, <tt><a href="koi_uh-pos-DET.html">DET</a></tt> 1), <em>быд</em> (<tt><a href="koi_uh-pos-DET.html">DET</a></tt> 1, <tt><a href="koi_uh-pos-PRON.html">PRON</a></tt> 1), <em>кык</em> (<tt><a href="koi_uh-pos-NUM.html">NUM</a></tt> 4, <tt><a href="koi_uh-pos-DET.html">DET</a></tt> 1), <em>кынымкӧ</em> (<tt><a href="koi_uh-pos-ADV.html">ADV</a></tt> 2, <tt><a href="koi_uh-pos-DET.html">DET</a></tt> 1), <em>эта</em> (<tt><a href="koi_uh-pos-PRON.html">PRON</a></tt> 3, <tt><a href="koi_uh-pos-DET.html">DET</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>ас</em> (<tt><a href="koi_uh-pos-PRON.html">PRON</a></tt> 2, <tt><a href="koi_uh-pos-DET.html">DET</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>ас</em> (<tt><a href="koi_uh-pos-PRON.html">PRON</a></tt> 2, <tt><a href="koi_uh-pos-DET.html">DET</a></tt> 1), <em>кынымкӧ</em> (<tt><a href="koi_uh-pos-ADV.html">ADV</a></tt> 2, <tt><a href="koi_uh-pos-DET.html">DET</a></tt> 1)
 
 
 * <em>ас</em>
   * <tt><a href="koi_uh-pos-PRON.html">PRON</a></tt> 2: <em>— Мый нӧ дыр эн лок ? — инькасӧ <b>ас</b> бердас жмитікӧ юаліс сія .</em>
-  * <tt><a href="koi_uh-pos-DET.html">DET</a></tt> 1: <em>Сiя <b>ас</b> мознас дугасö кöстö .</em>
+  * <tt><a href="koi_uh-pos-DET.html">DET</a></tt> 1: <em>Сія <b>ас</b> мознас дугасӧ кӧстӧ .</em>
+* <em>кынымкӧ</em>
+  * <tt><a href="koi_uh-pos-ADV.html">ADV</a></tt> 2: <em>Сэсся петкӧтіс гидсис сісь пӧв торрез , <b>кынымкӧ</b> бырӧм отопки , ӧзтіс кыдззез увтӧ би .</em>
+  * <tt><a href="koi_uh-pos-DET.html">DET</a></tt> 1: <em>Арас шедӧмась токо <b>кынымкӧ</b> чериок .</em>
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 1.000000 (the average of all parts of speech is 1.260870).
+The form / lemma ratio of `DET` is 1.000000 (the average of all parts of speech is 1.239604).
 
 The 1st highest number of forms (1) was observed with the lemma “ас”: <em>ас</em>.
 

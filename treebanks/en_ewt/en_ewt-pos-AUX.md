@@ -62,7 +62,7 @@ The 10 most frequent ambiguous types:  <em>is</em> (<tt><a href="en_ewt-pos-AUX.
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 6.071429 (the average of all parts of speech is 1.250484).
+The form / lemma ratio of `AUX` is 6.071429 (the average of all parts of speech is 1.251287).
 
 The 1st highest number of forms (33) was observed with the lemma “be”: <em>',, 'm, 're, 's, `s, ai, am, ar, are, art, b, be, been, being, by, i, iis, in, is, it, m, r, re, s, se, was, wase, we, were, where, ´m, ’m, ’s</em>.
 
@@ -70,7 +70,7 @@ The 2nd highest number of forms (16) was observed with the lemma “have”: <em
 
 The 3rd highest number of forms (9) was observed with the lemma “will”: <em>'ll, -ll, ll, wil, will, willl, wilt, with, wo</em>.
 
-`AUX` occurs with 8 features: <tt><a href="en_ewt-feat-VerbForm.html">VerbForm</a></tt> (15925; 100% instances), <tt><a href="en_ewt-feat-Tense.html">Tense</a></tt> (10252; 64% instances), <tt><a href="en_ewt-feat-Mood.html">Mood</a></tt> (9809; 62% instances), <tt><a href="en_ewt-feat-Number.html">Number</a></tt> (9651; 61% instances), <tt><a href="en_ewt-feat-Person.html">Person</a></tt> (9651; 61% instances), <tt><a href="en_ewt-feat-Typo.html">Typo</a></tt> (219; 1% instances), <tt><a href="en_ewt-feat-Style.html">Style</a></tt> (10; 0% instances), <tt><a href="en_ewt-feat-Abbr.html">Abbr</a></tt> (9; 0% instances)
+`AUX` occurs with 8 features: <tt><a href="en_ewt-feat-VerbForm.html">VerbForm</a></tt> (15925; 100% instances), <tt><a href="en_ewt-feat-Tense.html">Tense</a></tt> (10247; 64% instances), <tt><a href="en_ewt-feat-Mood.html">Mood</a></tt> (9798; 62% instances), <tt><a href="en_ewt-feat-Number.html">Number</a></tt> (9646; 61% instances), <tt><a href="en_ewt-feat-Person.html">Person</a></tt> (9646; 61% instances), <tt><a href="en_ewt-feat-Typo.html">Typo</a></tt> (219; 1% instances), <tt><a href="en_ewt-feat-Style.html">Style</a></tt> (10; 0% instances), <tt><a href="en_ewt-feat-Abbr.html">Abbr</a></tt> (9; 0% instances)
 
 `AUX` occurs with 17 feature-value pairs: `Abbr=Yes`, `Mood=Imp`, `Mood=Ind`, `Mood=Sub`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Style=Arch`, `Style=Vrnc`, `Tense=Past`, `Tense=Pres`, `Typo=Yes`, `VerbForm=Fin`, `VerbForm=Inf`, `VerbForm=Part`
 

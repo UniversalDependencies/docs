@@ -13,7 +13,7 @@ The 10 most frequent `X` lemmas: <em>_</em>
 
 The 10 most frequent `X` types:  <em>[--]</em>
 
-The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="la_llct-pos-X.html">X</a></tt> 187, <tt><a href="la_llct-pos-VERB.html">VERB</a></tt> 145, <tt><a href="la_llct-pos-PROPN.html">PROPN</a></tt> 102, <tt><a href="la_llct-pos-NOUN.html">NOUN</a></tt> 6, <tt><a href="la_llct-pos-ADP.html">ADP</a></tt> 1, <tt><a href="la_llct-pos-PRON.html">PRON</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="la_llct-pos-X.html">X</a></tt> 187, <tt><a href="la_llct-pos-VERB.html">VERB</a></tt> 145, <tt><a href="la_llct-pos-PROPN.html">PROPN</a></tt> 102, <tt><a href="la_llct-pos-NOUN.html">NOUN</a></tt> 7, <tt><a href="la_llct-pos-ADP.html">ADP</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>[--]</em> (<tt><a href="la_llct-pos-X.html">X</a></tt> 187, <tt><a href="la_llct-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="la_llct-pos-VERB.html">VERB</a></tt> 1)
 
@@ -25,7 +25,7 @@ The 10 most frequent ambiguous types:  <em>[--]</em> (<tt><a href="la_llct-pos-X
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 2.623423).
+The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 2.623868).
 
 The 1st highest number of forms (1) was observed with the lemma “_”: <em>[--]</em>.
 

@@ -40,8 +40,8 @@ The 3rd highest number of forms (1) was observed with the lemma “არა”:
 `PART` occurs with 4 feature-value pairs: `Evident=Nfh`, `PartType=Emp`, `PartType=Int`, `PartType=Neg`
 
 `PART` occurs with 5 feature combinations.
-The most frequent feature combination is `PartType=Neg` (163 tokens).
-Examples: <em>არ, არა, ვერ, აღარ</em>
+The most frequent feature combination is `PartType=Neg` (168 tokens).
+Examples: <em>არ, არა, ვერ, არც, აღარ</em>
 
 
 ## Relations

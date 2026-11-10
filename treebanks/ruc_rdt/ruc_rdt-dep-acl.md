@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `acl`: <tt><a href="ruc_rdt-dep-acl-relcl.html">acl:relcl</a></tt>.
 
-12 nodes (0%) are attached to their parents as `acl`.
+24 nodes (0%) are attached to their parents as `acl`.
 
-12 instances of `acl` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.33333333333333.
+24 instances of `acl` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.375.
 
-The following 4 pairs of parts of speech are connected with `acl`: <tt><a href="ruc_rdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ruc_rdt-pos-VERB.html">VERB</a></tt> (9; 75% instances), <tt><a href="ruc_rdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ruc_rdt-pos-AUX.html">AUX</a></tt> (1; 8% instances), <tt><a href="ruc_rdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ruc_rdt-pos-NOUN.html">NOUN</a></tt> (1; 8% instances), <tt><a href="ruc_rdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ruc_rdt-pos-VERB.html">VERB</a></tt> (1; 8% instances).
+The following 6 pairs of parts of speech are connected with `acl`: <tt><a href="ruc_rdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ruc_rdt-pos-VERB.html">VERB</a></tt> (17; 71% instances), <tt><a href="ruc_rdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ruc_rdt-pos-NOUN.html">NOUN</a></tt> (3; 13% instances), <tt><a href="ruc_rdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ruc_rdt-pos-VERB.html">VERB</a></tt> (1; 4% instances), <tt><a href="ruc_rdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ruc_rdt-pos-AUX.html">AUX</a></tt> (1; 4% instances), <tt><a href="ruc_rdt-pos-PRON.html">PRON</a></tt>-<tt><a href="ruc_rdt-pos-VERB.html">VERB</a></tt> (1; 4% instances), <tt><a href="ruc_rdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ruc_rdt-pos-VERB.html">VERB</a></tt> (1; 4% instances).
 
 
 ~~~ conllu
@@ -40,39 +40,46 @@ The following 4 pairs of parts of speech are connected with `acl`: <tt><a href="
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 3 acl	color:blue
-1	eya	a	PART	GEN	NounClass=Bantu9|Referent=Yes	2	case	2:case	Gloss=AUG-9.GEN|MSeg=e-ya
-2	mulembe	mulembe	NOUN	_	NounClass=Bantu9	5	obl	5:obl	Gloss=9.generation|MSeg=mulembe
-3	ero	li	AUX	COP	NounClass=Bantu9|Person=3|Tense=Pres	2	acl	2:acl	Gloss=9S-COP|MSeg=e-li
-4	wo	wo	ADV	LOC	NounClass=Bantu16	3	advmod:loc	3:advmod:loc	Gloss=16.LOC|MSeg=wo
-5	siika	siika	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	0:root	Gloss=fry-FV|MSeg=siik-a|SpaceAfter=No
-6	,	,	PUNCT	_	_	7	punct	7:punct	_
-7	kola	kola	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	5	parataxis	5:parataxis	Gloss=do-FV|MSeg=kol-a
-8	oti	ti	ADV	_	Referent=Yes	7	advmod	7:advmod	Gloss=AUG-like_this|MSeg=o-ti|SpaceAfter=No
-9	.	.	PUNCT	_	_	5	punct	5:punct	SpacesAfter=\n
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 11 acl	color:blue
+1	Abantu	muntu	NOUN	_	NounClass=Bantu2|Referent=Yes	3	nsubj	3:nsubj	Gloss=AUG-2.person|MSeg=a-bantu
+2	bani	ni	DET	_	Deixis=Prox|NounClass=Bantu2|PronType=Dem	1	det	1:det	Gloss=2.PROX|MSeg=bani
+3	babbanga	bba	VERB	COP	Aspect=Hab|Mood=Ind|NounClass=Bantu2|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Gloss=2S-COP-FV-HAB|MSeg=ba-bb-a-nga
+4	ku	ku	ADV	LOC	NounClass=Bantu17	5	case	5:case	Gloss=17.LOC|MSeg=ku
+5	ekitina	kitina	NOUN	_	NounClass=Bantu7|Referent=Yes	3	obl	3:obl	Gloss=AUG-7.origin|MSeg=e-kitina|SpacesAfter=\n
+6	kwe	e	PRON	_	NounClass=Bantu17|PronType=Rel	7	obl	7:obl	Gloss=17.REL|MSeg=kwe
+7	bazwa	zwa	VERB	_	Mood=Ind|NounClass=Bantu2|Person=3|Tense=Pres|VerbForm=Fin	5	acl:relcl	5:acl:relcl	Gloss=2S-come_from-FV|MSeg=ba-zw-a
+8	–	–	PUNCT	_	_	11	punct	11:punct	_
+9	nga	nga	SCONJ	_	_	11	mark	11:mark	Gloss=while|MSeg=nga
+10	nigwo	ni	AUX	COP	InfStruct=Foc|NounClass=Bantu3|Person=3|Tense=Pres	11	cop	11:cop	Gloss=COP-3|MSeg=ni-gwo
+11	muziro	muziro	NOUN	_	NounClass=Bantu3	5	acl	5:acl	Gloss=3.totem|MSeg=muziro|SpaceAfter=No
+12	.	.	PUNCT	_	_	3	punct	3:punct	SpacesAfter=\n
 
 ~~~
 
 
 ~~~ conllu
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 9 acl	color:blue
-1	We	we	PRON	_	Number=Sing|Person=2|PronType=Prs	4	nsubj	4:nsubj	Gloss=2sg|MSeg=we
-2	te	te	PART	TOP	InfStruct=Top	1	advmod:emph	1:advmod:emph	Gloss=TOP|MSeg=te
-3	n'	ni	SCONJ	_	_	4	mark	4:mark	Gloss=if|MSeg=ni
-4	osanga	sanga	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	0:root	Gloss=2sgS-find-FV|MSeg=o-sang-a
-5	yo	yo	ADV	LOC	NounClass=Bantu23	4	advmod:loc	4:advmod:loc	Gloss=23.LOC|MSeg=yo
-6	omwogo	mwogo	NOUN	_	NounClass=Bantu3|Referent=Yes	4	obj	4:obj	Gloss=AUG-3.cassava|MSeg=o-mwogo
-7	nka	nka	ADP	_	_	9	mark	9:mark	Gloss=like|MSeg=nka
-8	ogwo	gwo	PRON	_	NounClass=Bantu3|Person=3|PronType=Prs|Referent=Yes	9	nsubj	9:nsubj	Gloss=AUG-3|MSeg=o-gwo
-9	ekiyaata	kiyaata	NOUN	_	NounClass=Bantu7|Referent=Yes	6	acl	6:acl	Gloss=AUG-7.sweet.potato|MSeg=e-kiyaata|SpacesAfter=\n
+# visual-style 9 10 acl	color:blue
+1	n'amukoba	koba	VERB	_	Mood=Ind|NounClass=Bantu1|NounClass[obj]=Bantu1|Person=3|Person[obj]=3|Tense=Nar|VerbForm=Fin	0	root	0:root	Gloss=NAR-1S-1O-say-FV|MSeg=ni-a-mu-kob-a
+2	ati	ati	SCONJ	COMPL	_	5	mark	5:mark	Gloss=COMPL|MSeg=ati|SpaceAfter=No
+3	,	,	PUNCT	_	_	5	punct	5:punct	SpacesAfter=\n
+4	"	"	PUNCT	_	_	5	punct	5:punct	SpaceAfter=No
+5	Mpa	wa	VERB	_	Mood=Imp|Number[obj]=Sing|Person[obj]=1	1	ccomp	1:ccomp	Gloss=1sgO-give-FV|MSeg=n-w-a
+6	omubazi	mubazi	NOUN	_	NounClass=Bantu3|Referent=Yes	5	obj	5:obj	Gloss=AUG-3.potion|MSeg=o-mubazi
+7	nsobole	sobola	VERB	_	Mood=Sub|Number=Sing|Person=1|VerbForm=Fin	5	advcl	5:advcl	Gloss=1sgS-be_able-SBJV|MSeg=n-sobol-e
+8	okubba	bba	VERB	COP	Referent=Yes|VerbForm=Inf	7	xcomp	7:xcomp	Gloss=AUG-INF-COP|MSeg=o-ku-bba
+9	omugezi	gezi	ADJ	_	NounClass=Bantu1|Referent=Yes	8	xcomp	8:xcomp	Gloss=AUG-1-intelligent|MSeg=o-mu-gezi
+10	okusinga	singa	VERB	_	Referent=Yes|VerbForm=Inf	9	acl	9:acl	Gloss=AUG-INF-be_more-FV|MSeg=o-ku-sing-a
+11	byona	ona	PRON	_	NounClass=Bantu8|PronType=Tot	10	obj	10:obj	Gloss=8-all|MSeg=bi-ona|SpaceAfter=No
+12	"	"	PUNCT	_	_	5	punct	5:punct	SpaceAfter=No
+13	.	.	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
 
 ~~~
 

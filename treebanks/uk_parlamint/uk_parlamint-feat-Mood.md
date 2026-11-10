@@ -75,14 +75,14 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 ## Relations with Agreement in `Mood`
 
 The 10 most frequent relations where parent and child node agree in `Mood`:
-<tt>VERB --[<tt><a href="uk_parlamint-dep-conj.html">conj</a></tt>]--> VERB</tt> (799; 92%),
+<tt>VERB --[<tt><a href="uk_parlamint-dep-conj.html">conj</a></tt>]--> VERB</tt> (799; 93%),
 <tt>VERB --[<tt><a href="uk_parlamint-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (450; 67%),
-<tt>VERB --[<tt><a href="uk_parlamint-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (289; 62%),
+<tt>VERB --[<tt><a href="uk_parlamint-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (290; 62%),
 <tt>VERB --[<tt><a href="uk_parlamint-dep-aux-pass.html">aux:pass</a></tt>]--> AUX</tt> (22; 85%),
 <tt>VERB --[<tt><a href="uk_parlamint-dep-reparandum.html">reparandum</a></tt>]--> VERB</tt> (16; 100%),
 <tt>VERB --[<tt><a href="uk_parlamint-dep-conj.html">conj</a></tt>]--> AUX</tt> (7; 88%),
 <tt>AUX --[<tt><a href="uk_parlamint-dep-conj.html">conj</a></tt>]--> VERB</tt> (4; 100%),
 <tt>VERB --[<tt><a href="uk_parlamint-dep-parataxis-rel.html">parataxis:rel</a></tt>]--> VERB</tt> (4; 67%),
-<tt>AUX --[<tt><a href="uk_parlamint-dep-conj.html">conj</a></tt>]--> AUX</tt> (2; 100%),
-<tt>VERB --[<tt><a href="uk_parlamint-dep-flat-repeat.html">flat:repeat</a></tt>]--> VERB</tt> (2; 100%).
+<tt>VERB --[<tt><a href="uk_parlamint-dep-ccomp.html">ccomp</a></tt>]--> AUX</tt> (3; 60%),
+<tt>AUX --[<tt><a href="uk_parlamint-dep-conj.html">conj</a></tt>]--> AUX</tt> (2; 100%).
 

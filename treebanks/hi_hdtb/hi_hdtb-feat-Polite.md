@@ -97,7 +97,7 @@ The most frequent other feature values with which `ADJ` and `Polite` co-occurred
 `ADJ` tokens may have the following values of `Polite`:
 
 * `Form` (38; 100% of non-empty `Polite`): वाले, कुंवारे, अकेले, अच्छे, खड़े, जन्मे, जाने, तीसरे, पहले, बड़े
-* `EMPTY` (21607): वाले, शामिल, अन्य, वाली, जारी, पिछले, पूर्व, भारतीय, तैयार, स्थित
+* `EMPTY` (21617): वाले, शामिल, अन्य, वाली, जारी, पिछले, पूर्व, भारतीय, तैयार, स्थित
 
 `Polite` seems to be **lexical feature** of `ADJ`. 100% lemmas (11) occur only with one value of `Polite`.
 
@@ -133,7 +133,7 @@ The most frequent other feature values with which `DET` and `Polite` co-occurred
 `DET` tokens may have the following values of `Polite`:
 
 * `Form` (1; 100% of non-empty `Polite`): इन
-* `EMPTY` (7524): इस, यह, इन, कुछ, कई, सभी, कम, ज्यादा, काफी, उस
+* `EMPTY` (7514): इस, यह, इन, कुछ, कई, सभी, कम, ज्यादा, काफी, उस
 
 ## Relations with Agreement in `Polite`
 

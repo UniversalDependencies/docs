@@ -28,7 +28,7 @@ The following 1 pairs of parts of speech are connected with `flat:name`: <tt><a 
 3	Jesu	_	PROPN	NPR-G	Case=Gen|Definite=Ind|Number=Sing	2	nmod:poss	_	_
 4	Krists	_	PROPN	NPR-G	Case=Gen|Definite=Ind|Number=Sing	3	flat:name	_	_
 5	úr	_	ADP	P	_	6	case	_	_
-6	Nasaret	_	PROPN	NPR-D	Case=Dat|Definite=Ind|Number=Sing	3	obl	_	SpaceAfter=No
+6	Nasaret	_	PROPN	NPR-D	Case=Dat|Definite=Ind|Number=Sing	3	nmod	_	SpaceAfter=No
 7	,	,	PUNCT	,	_	6	punct	_	_
 8	statt	_	VERB	VBI	Mood=Imp	0	root	_	_
 9	upp	_	ADP	RP	_	8	compound:prt	_	_

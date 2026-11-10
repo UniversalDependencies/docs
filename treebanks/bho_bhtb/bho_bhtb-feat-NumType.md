@@ -23,7 +23,7 @@ The most frequent other feature values with which `NUM` and `NumType` co-occurre
 `NUM` tokens may have the following values of `NumType`:
 
 * `Card` (48; 100% of non-empty `NumType`): एक, अनकस, 12, 120, 2011, 75, आठ, एगो, चार, छह
-* `EMPTY` (101): एगो, लोग, गो, दू, कुछ, दोसर, 5, कलिग, छठवां, दोसरा
+* `EMPTY` (100): एगो, लोग, गो, दू, कुछ, दोसर, 5, कलिग, छठवां, दोसरा
 
 `NumType` seems to be **lexical feature** of `NUM`. 100% lemmas (17) occur only with one value of `NumType`.
 
@@ -69,7 +69,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 `ADJ` tokens may have the following values of `NumType`:
 
 * `Card` (2; 100% of non-empty `NumType`): फूहड़, बड़
-* `EMPTY` (247): पूरा, सांस्कृतिक, तथाकथित, प, बड़, छोट, भोजपुरिया, खास, चुपचाप, जरूरी
+* `EMPTY` (248): पूरा, सांस्कृतिक, तथाकथित, प, बड़, छोट, भोजपुरिया, खास, चुपचाप, जरूरी
 
 ### `PROPN`
 
@@ -91,7 +91,7 @@ The most frequent other feature values with which `PART` and `NumType` co-occurr
 `PART` tokens may have the following values of `NumType`:
 
 * `Ord` (1; 100% of non-empty `NumType`): वां
-* `EMPTY` (190): त, ना, नइखे, बहुते, भर, बस, अतना, खाली, गमगमावे, घटना
+* `EMPTY` (189): त, ना, नइखे, बहुते, भर, बस, अतना, खाली, गमगमावे, घटना
 
 ## Relations with Agreement in `NumType`
 

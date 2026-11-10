@@ -35,7 +35,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 `ADJ` tokens may have the following values of `NumType`:
 
 * `Ord` (43; 100% of non-empty `NumType`): <em>primera, primer, primeros, tercer, primeras, tercera</em>
-* `EMPTY` (1442): <em>gran, mayor, nueva, nacional, grandes, últimos, británica, nuevos, Unidos, nuevo</em>
+* `EMPTY` (1444): <em>gran, mayor, nueva, nacional, grandes, últimos, británica, nuevos, Unidos, nuevo</em>
 
 ### `DET`
 
@@ -57,7 +57,7 @@ The most frequent other feature values with which `PRON` and `NumType` co-occurr
 `PRON` tokens may have the following values of `NumType`:
 
 * `Card` (8; 100% of non-empty `NumType`): <em>tanto, cuanto</em>
-* `EMPTY` (1038): <em>se, que, su, lo, sus, le, cual, me, ellos, él</em>
+* `EMPTY` (1045): <em>se, que, su, lo, sus, le, cual, me, ellos, él</em>
 
 ## Relations with Agreement in `NumType`
 

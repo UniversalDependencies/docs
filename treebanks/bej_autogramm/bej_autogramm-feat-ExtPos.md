@@ -62,8 +62,3 @@ The most frequent other feature values with which `ADP` and `ExtPos` co-occurred
 
 * `INTJ` (1; 100% of non-empty `ExtPos`): <em>iraːnaj</em>
 
-## Relations with Agreement in `ExtPos`
-
-The 10 most frequent relations where parent and child node agree in `ExtPos`:
-<tt>SCONJ --[<tt><a href="bej_autogramm-dep-dep-conj.html">dep:conj</a></tt>]--> SCONJ</tt> (1; 100%).
-

@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.0 release.
 The following people have contributed to making this treebank part of UD: Natalia Silveira, Timothy Dozat, Christopher Manning, Sebastian Schuster, Ethan Chi, John Bauer, Miriam Connor, Marie-Catherine de Marneffe, Nathan Schneider, Sam Bowman, Hanzhi Zhu, Daniel Galbraith, John Bauer.
 
 Repository: [UD_English-EWT](https://github.com/UniversalDependencies/UD_English-EWT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uden_ewt218)<br />
-Download all treebanks: [UD 2.18](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uden_ewt219)<br />
+Download all treebanks: [UD 2.19](/#download)
 
 License: CC BY-SA 4.0
 
@@ -143,7 +143,7 @@ partially funded by a gift from Google, Inc., which we gratefully acknowledge.
 </ul>
 
 <ul>
-<li>This corpus contains 52 lemmas tagged as pronouns (PRON): I, anybody, anyone, anything, everybody, everyone, everything, he, her, herself, himself, his, it, its, itself, my, myself, no-one, nobody, none, nothing, one, our, ourselves, she, somebody, someone, something, that, their, themselves, there, they, this, thou, thy, we, what, whatever, which, who, whoever, whom, whomever, whose, wtf, y'all, ye, you, your, yourself, yourselves</li>
+<li>This corpus contains 50 lemmas tagged as pronouns (PRON): I, anybody, anyone, anything, everybody, everyone, everything, he, her, herself, himself, his, it, its, itself, my, myself, no-one, nobody, none, nothing, one, our, ourselves, she, somebody, someone, something, that, their, themselves, there, they, this, thou, thy, we, what, whatever, which, who, whoever, whose, wtf, y'all, ye, you, your, yourself, yourselves</li>
 </ul>
 
 <ul>
@@ -187,7 +187,7 @@ partially funded by a gift from Google, Inc., which we gratefully acknowledge.
   <li>Inf
   <ul>
     <li>AUX: be, have, get, do, of, 've, b, by</li>
-    <li>VERB: have, get, know, do, go, make, see, take, like, find</li>
+    <li>VERB: have, get, know, go, do, make, take, see, like, find</li>
   </ul>
   </li>
 </ul>
@@ -297,7 +297,7 @@ partially funded by a gift from Google, Inc., which we gratefully acknowledge.
 <ul>
   <li>Nom
     <ul>
-      <li>PRON: i, you, it, they, we, he, she, u, the, There</li>
+      <li>PRON: i, you, it, they, we, he, who, she, u, the</li>
     </ul>
   </li>
 </ul>
@@ -391,8 +391,8 @@ partially funded by a gift from Google, Inc., which we gratefully acknowledge.
 <ul>
   <li>Imp
     <ul>
-      <li>AUX-Fin: do, be, get</li>
-      <li>VERB-Fin: let, go, see, take, try, get, make, give, call, put</li>
+      <li>AUX-Fin: do, be</li>
+      <li>VERB-Fin: let, see, go, take, try, get, make, call, give, keep</li>
     </ul>
   </li>
 </ul>
@@ -400,7 +400,7 @@ partially funded by a gift from Google, Inc., which we gratefully acknowledge.
 <ul>
   <li>Ind
     <ul>
-      <li>AUX-Fin: is, was, are, do, have, has, were, 's, am, did</li>
+      <li>AUX-Fin: is, was, are, have, do, has, were, 's, am, did</li>
       <li>VERB-Fin: have, had, said, has, want, need, is, are, know, think</li>
     </ul>
   </li>
@@ -410,7 +410,7 @@ partially funded by a gift from Google, Inc., which we gratefully acknowledge.
   <li>Sub
     <ul>
       <li>AUX-Fin: be, were, do</li>
-      <li>VERB-Fin: go, come, get, have, take, build, buy, call, compare, comply</li>
+      <li>VERB-Fin: go, come, get, have, take, use, build, buy, call, compare</li>
     </ul>
   </li>
 </ul>
@@ -433,7 +433,7 @@ partially funded by a gift from Google, Inc., which we gratefully acknowledge.
 <ul>
   <li>Pres
     <ul>
-      <li>AUX-Fin: is, are, do, have, has, 's, am, 'm, does, 've</li>
+      <li>AUX-Fin: is, are, have, do, has, 's, am, 'm, does, 've</li>
       <li>AUX-Part: being, getting, having, been</li>
       <li>VERB-Fin: have, has, want, need, is, are, know, think, thank, get</li>
       <li>VERB-Part: going, looking, doing, trying, getting, including, having, regarding, using, according</li>
@@ -510,7 +510,7 @@ partially funded by a gift from Google, Inc., which we gratefully acknowledge.
 <ul>
   <li>Neg
     <ul>
-      <li>ADV: never, nowhere, Neither, NEEEEEEEEEVERRRR, no</li>
+      <li>ADV: never, no, nowhere, Neither, NEEEEEEEEEVERRRR, know</li>
       <li>DET: no, neither</li>
       <li>PRON: nothing, none, one, nobody, noone</li>
     </ul>
@@ -539,7 +539,7 @@ partially funded by a gift from Google, Inc., which we gratefully acknowledge.
     <ul>
       <li>ADV: where, when, why, whenever, how, were, however, wherein, wherever, where-ever</li>
       <li>DET: whatever, which, what</li>
-      <li>PRON: that, which, who, what, whom, whatever, whose, who's, whoever, whomever</li>
+      <li>PRON: that, which, who, what, whatever, whom, whose, who's, the, whhich</li>
     </ul>
   </li>
 </ul>
@@ -863,12 +863,12 @@ partially funded by a gift from Google, Inc., which we gratefully acknowledge.
           <li>NUM: 2:300, 3,, on</li>
           <li>PART: s, nt, ', too, -s, `s, ot, the</li>
           <li>PRON: you, there, it's, the, s, their, out, any, who's, my</li>
-          <li>PROPN: John, Ken, David, Lorie, Sara, Nasim, Robert, Sear's, penines, Adnan</li>
+          <li>PROPN: John, Ken, David, Lorie, Sara, Sear's, penines, Carribbean, Condoleeza, Monday's</li>
           <li>PUNCT: 1?!?!?, =</li>
           <li>SCONJ: becuse, then, wether, I'd, Seince, Whie, altough, ask, beacuse, becouse</li>
           <li>VERB-Fin: s, taste, new, recieved, know, over, reccomend, see, want, For</li>
           <li>VERB-Ger: EATTING, developiong, goin, playin, usint</li>
-          <li>VERB-Inf: loose, reccommend, recieve, recomend, sale, accomodate, advice, answers, bare, bouild</li>
+          <li>VERB-Inf: loose, reccommend, recieve, recomend, sale, Cary, accomodate, advice, answers, bare</li>
           <li>VERB-Part: effected, excepted, name, suppose, ASWERING, Compare, Over, Rcommended, U, amplifiaed</li>
           <li>X: et.</li>
         </ul>
@@ -896,25 +896,25 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB-Fin--NOUN (1798)</li>
+      <li>VERB-Fin--NOUN (1800)</li>
       <li>VERB-Fin--NOUN-ADP(in) (1)</li>
-      <li>VERB-Fin--PRON (756)</li>
+      <li>VERB-Fin--PRON (526)</li>
       <li>VERB-Fin--PRON-Acc (2)</li>
-      <li>VERB-Fin--PRON-Nom (4688)</li>
+      <li>VERB-Fin--PRON-Nom (4924)</li>
       <li>VERB-Ger--NOUN (18)</li>
       <li>VERB-Ger--PRON (2)</li>
       <li>VERB-Ger--PRON-Acc (4)</li>
       <li>VERB-Ger--PRON-Gen (4)</li>
       <li>VERB-Ger--PRON-Nom (3)</li>
-      <li>VERB-Inf--NOUN (621)</li>
-      <li>VERB-Inf--PRON (283)</li>
-      <li>VERB-Inf--PRON-Acc (29)</li>
-      <li>VERB-Inf--PRON-Nom (2582)</li>
+      <li>VERB-Inf--NOUN (616)</li>
+      <li>VERB-Inf--PRON (238)</li>
+      <li>VERB-Inf--PRON-Acc (28)</li>
+      <li>VERB-Inf--PRON-Nom (2621)</li>
       <li>VERB-Part--NOUN (484)</li>
-      <li>VERB-Part--PRON (149)</li>
+      <li>VERB-Part--PRON (99)</li>
       <li>VERB-Part--PRON-Acc (6)</li>
       <li>VERB-Part--PRON-Gen (7)</li>
-      <li>VERB-Part--PRON-Nom (1445)</li>
+      <li>VERB-Part--PRON-Nom (1495)</li>
     </ul>
   </li>
 </ul>
@@ -922,19 +922,19 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB-Fin--NOUN (3518)</li>
-      <li>VERB-Fin--PRON (320)</li>
-      <li>VERB-Fin--PRON-Acc (861)</li>
+      <li>VERB-Fin--NOUN (3492)</li>
+      <li>VERB-Fin--PRON (317)</li>
+      <li>VERB-Fin--PRON-Acc (857)</li>
       <li>VERB-Ger--NOUN (479)</li>
       <li>VERB-Ger--PRON (13)</li>
       <li>VERB-Ger--PRON-Acc (48)</li>
-      <li>VERB-Inf--NOUN (3150)</li>
+      <li>VERB-Inf--NOUN (3176)</li>
       <li>VERB-Inf--NOUN-ADP('s) (1)</li>
-      <li>VERB-Inf--PRON (332)</li>
-      <li>VERB-Inf--PRON-Acc (809)</li>
+      <li>VERB-Inf--PRON (330)</li>
+      <li>VERB-Inf--PRON-Acc (819)</li>
       <li>VERB-Part--NOUN (1326)</li>
-      <li>VERB-Part--PRON (140)</li>
-      <li>VERB-Part--PRON-Acc (161)</li>
+      <li>VERB-Part--PRON (138)</li>
+      <li>VERB-Part--PRON-Acc (163)</li>
     </ul>
   </li>
 </ul>
@@ -942,14 +942,14 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB-Fin--NOUN (60)</li>
+      <li>VERB-Fin--NOUN (59)</li>
       <li>VERB-Fin--PRON (2)</li>
-      <li>VERB-Fin--PRON-Acc (293)</li>
+      <li>VERB-Fin--PRON-Acc (290)</li>
       <li>VERB-Ger--NOUN (10)</li>
       <li>VERB-Ger--PRON-Acc (14)</li>
-      <li>VERB-Inf--NOUN (36)</li>
-      <li>VERB-Inf--PRON (6)</li>
-      <li>VERB-Inf--PRON-Acc (230)</li>
+      <li>VERB-Inf--NOUN (37)</li>
+      <li>VERB-Inf--PRON (5)</li>
+      <li>VERB-Inf--PRON-Acc (234)</li>
       <li>VERB-Part--NOUN (16)</li>
       <li>VERB-Part--PRON (1)</li>
       <li>VERB-Part--PRON-Acc (48)</li>

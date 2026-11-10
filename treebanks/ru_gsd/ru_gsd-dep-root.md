@@ -13,7 +13,7 @@ This relation is universal.
 5030 instances of `root` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 5.88071570576541.
 
-The following 10 pairs of parts of speech are connected with `root`: -<tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt> (3889; 77% instances), -<tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt> (753; 15% instances), -<tt><a href="ru_gsd-pos-ADJ.html">ADJ</a></tt> (239; 5% instances), -<tt><a href="ru_gsd-pos-NUM.html">NUM</a></tt> (65; 1% instances), -<tt><a href="ru_gsd-pos-PROPN.html">PROPN</a></tt> (56; 1% instances), -<tt><a href="ru_gsd-pos-ADV.html">ADV</a></tt> (13; 0% instances), -<tt><a href="ru_gsd-pos-PRON.html">PRON</a></tt> (5; 0% instances), -<tt><a href="ru_gsd-pos-X.html">X</a></tt> (5; 0% instances), -<tt><a href="ru_gsd-pos-DET.html">DET</a></tt> (3; 0% instances), -<tt><a href="ru_gsd-pos-SYM.html">SYM</a></tt> (2; 0% instances).
+The following 10 pairs of parts of speech are connected with `root`: -<tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt> (3890; 77% instances), -<tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt> (753; 15% instances), -<tt><a href="ru_gsd-pos-ADJ.html">ADJ</a></tt> (239; 5% instances), -<tt><a href="ru_gsd-pos-NUM.html">NUM</a></tt> (65; 1% instances), -<tt><a href="ru_gsd-pos-PROPN.html">PROPN</a></tt> (56; 1% instances), -<tt><a href="ru_gsd-pos-ADV.html">ADV</a></tt> (12; 0% instances), -<tt><a href="ru_gsd-pos-PRON.html">PRON</a></tt> (5; 0% instances), -<tt><a href="ru_gsd-pos-X.html">X</a></tt> (5; 0% instances), -<tt><a href="ru_gsd-pos-DET.html">DET</a></tt> (3; 0% instances), -<tt><a href="ru_gsd-pos-SYM.html">SYM</a></tt> (2; 0% instances).
 
 
 ~~~ conllu

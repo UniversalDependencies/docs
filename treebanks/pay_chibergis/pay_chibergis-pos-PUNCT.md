@@ -13,7 +13,7 @@ The 10 most frequent `PUNCT` lemmas: <em>_, ,, ., ?</em>
 
 The 10 most frequent `PUNCT` types:  <em>,, ., ?</em>
 
-The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="pay_chibergis-pos-PUNCT.html">PUNCT</a></tt> 681, <tt><a href="pay_chibergis-pos-PART.html">PART</a></tt> 188, <tt><a href="pay_chibergis-pos-ADP.html">ADP</a></tt> 88, <tt><a href="pay_chibergis-pos-AUX.html">AUX</a></tt> 46, <tt><a href="pay_chibergis-pos-SCONJ.html">SCONJ</a></tt> 37, <tt><a href="pay_chibergis-pos-DET.html">DET</a></tt> 6, <tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt> 4, <tt><a href="pay_chibergis-pos-X.html">X</a></tt> 3)
+The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="pay_chibergis-pos-PUNCT.html">PUNCT</a></tt> 681, <tt><a href="pay_chibergis-pos-PART.html">PART</a></tt> 196, <tt><a href="pay_chibergis-pos-ADP.html">ADP</a></tt> 95, <tt><a href="pay_chibergis-pos-AUX.html">AUX</a></tt> 48, <tt><a href="pay_chibergis-pos-SCONJ.html">SCONJ</a></tt> 39, <tt><a href="pay_chibergis-pos-DET.html">DET</a></tt> 8, <tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt> 4, <tt><a href="pay_chibergis-pos-X.html">X</a></tt> 3)
 
 The 10 most frequent ambiguous types:  
 
@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 0.750000 (the average of all parts of speech is 1.743590).
+The form / lemma ratio of `PUNCT` is 0.750000 (the average of all parts of speech is 1.736695).
 
 The 1st highest number of forms (2) was observed with the lemma “_”: <em>,, .</em>.
 

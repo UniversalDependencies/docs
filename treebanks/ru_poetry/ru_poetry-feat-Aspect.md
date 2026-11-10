@@ -55,7 +55,6 @@ The 10 most frequent relations where parent and child node agree in `Aspect`:
 <tt>VERB --[<tt><a href="ru_poetry-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (172; 53%),
 <tt>VERB --[<tt><a href="ru_poetry-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (68; 52%),
 <tt>VERB --[<tt><a href="ru_poetry-dep-nsubj.html">nsubj</a></tt>]--> VERB</tt> (7; 64%),
-<tt>VERB --[<tt><a href="ru_poetry-dep-acl.html">acl</a></tt>]--> VERB</tt> (2; 67%),
 <tt>VERB --[<tt><a href="ru_poetry-dep-iobj.html">iobj</a></tt>]--> VERB</tt> (2; 67%),
 <tt>VERB --[<tt><a href="ru_poetry-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (1; 100%),
 <tt>VERB --[<tt><a href="ru_poetry-dep-obl-agent.html">obl:agent</a></tt>]--> VERB</tt> (1; 100%).

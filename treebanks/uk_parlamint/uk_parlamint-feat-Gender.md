@@ -104,7 +104,7 @@ The most frequent other feature values with which `DET` and `Gender` co-occurred
 * `Fem` (1117; 43% of non-empty `Gender`): <em>яка, цю, цієї, наша, нашої, ця, яку, свою, цій, нашу</em>
 * `Masc` (1004; 39% of non-empty `Gender`): <em>який, цей, цього, цьому, наш, той, такий, таким, нашого, весь</em>
 * `Neut` (468; 18% of non-empty `Gender`): <em>це, цього, тому, таке, яке, все, наше, своє, його, такого</em>
-* `EMPTY` (1680): <em>які, всі, всіх, ці, тих, ті, наших, свої, інших, цих</em>
+* `EMPTY` (1681): <em>які, всі, всіх, ці, тих, ті, наших, свої, інших, цих</em>
 
 <table>
   <tr><th>Paradigm <i>цей</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
@@ -128,7 +128,7 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 * `Fem` (220; 10% of non-empty `Gender`): <em>вона, її, яка, яку, неї, нею, якої, якій, їй, сама</em>
 * `Masc` (426; 19% of non-empty `Gender`): <em>він, хто, його, який, нього, один, одного, йому, ним, кого</em>
 * `Neut` (1556; 71% of non-empty `Gender`): <em>це, того, те, що, цього, все, тим, тому, цим, цьому</em>
-* `EMPTY` (3807): <em>ми, я, ви, нас, вони, вас, нам, вам, їх, які</em>
+* `EMPTY` (3805): <em>ми, я, ви, нас, вони, вас, нам, вам, їх, які</em>
 
 <table>
   <tr><th>Paradigm <i>який</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
@@ -208,11 +208,11 @@ The most frequent other feature values with which `AUX` and `Gender` co-occurred
 ## Relations with Agreement in `Gender`
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
-<tt>NOUN --[<tt><a href="uk_parlamint-dep-amod.html">amod</a></tt>]--> ADJ</tt> (5867; 66%),
+<tt>NOUN --[<tt><a href="uk_parlamint-dep-amod.html">amod</a></tt>]--> ADJ</tt> (5868; 66%),
 <tt>NOUN --[<tt><a href="uk_parlamint-dep-det.html">det</a></tt>]--> DET</tt> (1936; 65%),
-<tt>NOUN --[<tt><a href="uk_parlamint-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1001; 51%),
+<tt>NOUN --[<tt><a href="uk_parlamint-dep-conj.html">conj</a></tt>]--> NOUN</tt> (999; 51%),
 <tt>PROPN --[<tt><a href="uk_parlamint-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (973; 100%),
-<tt>NOUN --[<tt><a href="uk_parlamint-dep-appos.html">appos</a></tt>]--> PROPN</tt> (299; 69%),
+<tt>NOUN --[<tt><a href="uk_parlamint-dep-appos.html">appos</a></tt>]--> PROPN</tt> (276; 67%),
 <tt>ADJ --[<tt><a href="uk_parlamint-dep-conj.html">conj</a></tt>]--> ADJ</tt> (185; 95%),
 <tt>ADJ --[<tt><a href="uk_parlamint-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (175; 67%),
 <tt>PROPN --[<tt><a href="uk_parlamint-dep-amod.html">amod</a></tt>]--> ADJ</tt> (132; 99%),

@@ -18,7 +18,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="cs_pdtc-pos-ADJ.htm
 
 336415 <tt><a href="cs_pdtc-pos-ADJ.html">ADJ</a></tt> tokens (93% of all `ADJ` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="cs_pdtc-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (328497; 98%), <tt><a href="cs_pdtc-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (290544; 86%), <tt><a href="cs_pdtc-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (290544; 86%), <tt><a href="cs_pdtc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (217764; 65%), <tt><a href="cs_pdtc-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (195249; 58%).
+The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="cs_pdtc-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (328497; 98%), <tt><a href="cs_pdtc-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (294659; 88%), <tt><a href="cs_pdtc-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (290544; 86%), <tt><a href="cs_pdtc-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (290544; 86%), <tt><a href="cs_pdtc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (217764; 65%), <tt><a href="cs_pdtc-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (195249; 58%).
 
 `ADJ` tokens may have the following values of `Degree`:
 
@@ -106,7 +106,7 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
 * `Cmp` (8164; 16% of non-empty `Degree`): <em>více, méně, víc, později, dříve, lépe, dřív, výše, dál, níže</em>
 * `Pos` (40223; 80% of non-empty `Degree`): <em>stále, dobře, často, dost, dlouho, stejně, doma, přibližně, úplně, rychle</em>
 * `Sup` (1799; 4% of non-empty `Degree`): <em>nejvíce, nejméně, nejvíc, nejdříve, nejlépe, nejdřív, nejčastěji, nejpozději, nejraději, nejrychleji</em>
-* `EMPTY` (115007): <em>tam, už, tak, jak, kde, pak, kdy, ještě, včera, potom</em>
+* `EMPTY` (119893): <em>tam, tak, už, jak, kde, pak, kdy, ještě, včera, potom</em>
 
 <table>
   <tr><th>Paradigm <i>často</i></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>
@@ -120,7 +120,7 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
 The 10 most frequent relations where parent and child node agree in `Degree`:
 <tt>ADJ --[<tt><a href="cs_pdtc-dep-conj.html">conj</a></tt>]--> ADJ</tt> (9166; 92%),
 <tt>ADJ --[<tt><a href="cs_pdtc-dep-amod.html">amod</a></tt>]--> ADJ</tt> (599; 96%),
-<tt>ADV --[<tt><a href="cs_pdtc-dep-conj.html">conj</a></tt>]--> ADV</tt> (580; 72%),
+<tt>ADV --[<tt><a href="cs_pdtc-dep-conj.html">conj</a></tt>]--> ADV</tt> (578; 72%),
 <tt>ADJ --[<tt><a href="cs_pdtc-dep-advcl.html">advcl</a></tt>]--> ADJ</tt> (371; 77%),
 <tt>ADJ --[<tt><a href="cs_pdtc-dep-appos.html">appos</a></tt>]--> ADJ</tt> (205; 76%),
 <tt>ADJ --[<tt><a href="cs_pdtc-dep-obl.html">obl</a></tt>]--> ADJ</tt> (130; 70%),

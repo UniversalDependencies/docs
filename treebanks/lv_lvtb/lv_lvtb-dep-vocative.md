@@ -17,40 +17,39 @@ The following 16 pairs of parts of speech are connected with `vocative`: <tt><a 
 
 
 ~~~ conllu
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 12 vocative	color:blue
-1	Ne	ne	PART	q	Polarity=Neg	4	advmod:emph	4:advmod:emph	LvtbNodeId=a-d206-p179s2w1
-2	par	par	ADP	sppd	_	4	case	4:case	LvtbNodeId=a-d206-p179s2w2
-3	tām	tā	DET	pd3fpdn	Case=Dat|Gender=Fem|Number=Plur|Person=3|PronType=Dem	4	det	4:det	LvtbNodeId=a-d206-p179s2w3
-4	asinīm	asins	NOUN	ncfpd6	Case=Dat|Gender=Fem|Number=Plur	9	iobj	9:iobj	LvtbNodeId=a-d206-p179s2w4|SpaceAfter=No
-5	,	,	PUNCT	zc	_	8	punct	8:punct	LvtbNodeId=a-d206-p179s2w5
-6	par	par	ADP	sppd	_	8	case	8:case	LvtbNodeId=a-d206-p179s2w6
-7	citām	cita	DET	pi0fpdn	Case=Dat|Gender=Fem|Number=Plur|PronType=Ind	8	det	8:det	LvtbNodeId=a-d206-p179s2w7
-8	asinīm	asins	NOUN	ncfpd6	Case=Dat|Gender=Fem|Number=Plur	4	conj	4:conj|9:iobj	LvtbNodeId=a-d206-p179s2w8
-9	iet	iet	VERB	vmnipii30an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-d206-p179s2w9
-10	runa	runa	NOUN	ncfsn4	Case=Nom|Gender=Fem|Number=Sing	9	nsubj	9:nsubj	LvtbNodeId=a-d206-p179s2w10|SpaceAfter=No
-11	,	,	PUNCT	zc	_	12	punct	12:punct	LvtbNodeId=a-d206-p179s2w11
-12	draugs	draugs	NOUN	ncmsv1	Case=Voc|Gender=Masc|Number=Sing	9	vocative	9:vocative	LvtbNodeId=a-d206-p179s2w12|SpaceAfter=No
-13	!	!	PUNCT	zs	_	9	punct	9:punct	LvtbNodeId=a-d206-p179s2w13
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 3 vocative	color:blue
+1	Ir	būt	VERB	vmnipii30an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-d60-p15s2w1|SpaceAfter=No
+2	,	,	PUNCT	zc	_	3	punct	3:punct	LvtbNodeId=a-d60-p15s2w2
+3	mīlīši	mīlītis	NOUN	ncmpn2	Case=Nom|Gender=Masc|Number=Plur	1	vocative	1:vocative	LvtbNodeId=a-d60-p15s2w3|SpaceAfter=No
+4	,	,	PUNCT	zc	_	3	punct	3:punct	LvtbNodeId=a-d60-p15s2w4
+5	un	un	CCONJ	cc	_	8	cc	8:cc	LvtbNodeId=a-d60-p15s2w5
+6	kā	kā	PART	q	_	8	discourse	8:discourse	LvtbNodeId=a-d60-p15s2w6
+7	vēl	vēl	PART	q	_	8	discourse	8:discourse	LvtbNodeId=a-d60-p15s2w7
+8	ir	būt	VERB	vmnipii30an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	1:conj	LvtbNodeId=a-d60-p15s2w8|SpaceAfter=No
+9	.	.	PUNCT	zs	_	1	punct	1:punct	LvtbNodeId=a-d60-p15s2w9
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 4 2 vocative	color:blue
-1	-	-	PUNCT	zd	_	4	punct	4:punct	LvtbNodeId=a-d174-p425s1w1
-2	Pič	Pičs	PROPN	npmsv1	Case=Voc|Gender=Masc|Number=Sing	4	vocative	4:vocative	LvtbNodeId=a-d174-p425s1w2|SpaceAfter=No
-3	,	,	PUNCT	zc	_	2	punct	2:punct	LvtbNodeId=a-d174-p425s1w3
-4	lien	līst	VERB	vmnm0i12san	Mood=Imp|Number=Sing|Person=2|Polarity=Pos|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-d174-p425s1w4
-5	zemē	zeme	NOUN	ncfsl5	Case=Loc|Gender=Fem|Number=Sing	4	obl	4:obl:loc	LvtbNodeId=a-d174-p425s1w5|SpaceAfter=No
-6	!	!	PUNCT	zs	_	4	punct	4:punct	LvtbNodeId=a-d174-p425s1w6
+# visual-style 4 1 vocative	color:blue
+1	DIDZI	Didzis	PROPN	npmsv2	Case=Voc|Gender=Masc|Number=Sing	4	vocative	4:vocative	LvtbNodeId=a-d62-p2s1w1|SpaceAfter=No
+2	,	,	PUNCT	zc	_	1	punct	1:punct	LvtbNodeId=a-d62-p2s1w2
+3	VAI	vai	PART	q	_	4	discourse	4:discourse	LvtbNodeId=a-d62-p2s1w3
+4	PAVADĪSI	pavadīt	VERB	vmnift32san	Evident=Fh|Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-d62-p2s1w4
+5	mani	es	PRON	pp10san	Case=Acc|Number=Sing|Person=1|PronType=Prs	4	obj	4:obj	LvtbNodeId=a-d62-p2s1w5
+6	līdz	līdz	ADP	sppd	_	7	case	7:case	LvtbNodeId=a-d62-p2s1w6
+7	Rozēm	Rozes	PROPN	npfdd5	Case=Dat|Gender=Fem|Number=Ptan	4	obl	4:obl:līdz	LvtbNodeId=a-d62-p2s1w7|SpaceAfter=No
+8	?	?	PUNCT	zs	_	4	punct	4:punct	LvtbNodeId=a-d62-p2s1w8|SpaceAfter=No
+9	"	"	PUNCT	zq	_	4	punct	4:punct	LvtbNodeId=a-d62-p2s1w9
 
 ~~~
 

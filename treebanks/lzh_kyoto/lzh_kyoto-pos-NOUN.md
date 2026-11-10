@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Classical_Chinese-Kyoto: POS Tags: `NOUN`
 
-There are 3800 `NOUN` lemmas (28%), 3857 `NOUN` types (28%) and 123065 `NOUN` tokens (28%).
+There are 3799 `NOUN` lemmas (28%), 3857 `NOUN` types (28%) and 123065 `NOUN` tokens (28%).
 Out of 14 observed tags, the rank of `NOUN` is: 2 in number of lemmas, 2 in number of types and 2 in number of tokens.
 
 The 10 most frequent `NOUN` lemmas: 王、 人、 子、 君、 天、 國、 下、 臣、 公、 上
@@ -65,7 +65,7 @@ The 10 most frequent ambiguous types:  王 (<tt><a href="lzh_kyoto-pos-NOUN.html
 
 ## Morphology
 
-The form / lemma ratio of `NOUN` is 1.015000 (the average of all parts of speech is 1.013130).
+The form / lemma ratio of `NOUN` is 1.015267 (the average of all parts of speech is 1.013204).
 
 The 1st highest number of forms (2) was observed with the lemma “內”: 內, 内.
 

@@ -221,14 +221,14 @@ The most frequent other feature values with which `SCONJ` and `VerbForm` co-occu
 `SCONJ` tokens may have the following values of `VerbForm`:
 
 * `Fin` (36; 100% of non-empty `VerbForm`): <em>licet, dumtaxat</em>
-* `EMPTY` (2469): <em>ut, quod, cum, si, quia, quam, sicut, nisi, tanquam, quemadmodum</em>
+* `EMPTY` (2471): <em>ut, quod, cum, si, quia, quam, sicut, nisi, tanquam, quemadmodum</em>
 
 ## Relations with Agreement in `VerbForm`
 
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
-<tt>VERB --[<tt><a href="la_udante-dep-conj.html">conj</a></tt>]--> VERB</tt> (995; 89%),
-<tt>VERB --[<tt><a href="la_udante-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (632; 71%),
-<tt>VERB --[<tt><a href="la_udante-dep-advcl-cmp.html">advcl:cmp</a></tt>]--> VERB</tt> (182; 65%),
+<tt>VERB --[<tt><a href="la_udante-dep-conj.html">conj</a></tt>]--> VERB</tt> (993; 89%),
+<tt>VERB --[<tt><a href="la_udante-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (633; 71%),
+<tt>VERB --[<tt><a href="la_udante-dep-advcl-cmp.html">advcl:cmp</a></tt>]--> VERB</tt> (182; 64%),
 <tt>VERB --[<tt><a href="la_udante-dep-ccomp-reported.html">ccomp:reported</a></tt>]--> VERB</tt> (63; 72%),
 <tt>VERB --[<tt><a href="la_udante-dep-advcl-relcl.html">advcl:relcl</a></tt>]--> VERB</tt> (48; 87%),
 <tt>VERB --[<tt><a href="la_udante-dep-csubj-relcl.html">csubj:relcl</a></tt>]--> VERB</tt> (41; 67%),

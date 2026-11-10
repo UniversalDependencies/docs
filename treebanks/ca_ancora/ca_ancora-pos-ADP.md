@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Catalan-AnCora: POS Tags: `ADP`
 
-There are 46 `ADP` lemmas (0%), 47 `ADP` types (0%) and 87978 `ADP` tokens (16%).
+There are 45 `ADP` lemmas (0%), 46 `ADP` types (0%) and 87975 `ADP` tokens (16%).
 Out of 15 observed tags, the rank of `ADP` is: 9 in number of lemmas, 10 in number of types and 2 in number of tokens.
 
 The 10 most frequent `ADP` lemmas: <em>de, a, per, en, amb, entre, sobre, segons, des, durant</em>
@@ -61,7 +61,7 @@ The 10 most frequent ambiguous types:  <em>a</em> (<tt><a href="ca_ancora-pos-AD
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.021739 (the average of all parts of speech is 1.418372).
+The form / lemma ratio of `ADP` is 1.022222 (the average of all parts of speech is 1.418321).
 
 The 1st highest number of forms (2) was observed with the lemma “de”: <em>d', de</em>.
 
@@ -69,32 +69,32 @@ The 2nd highest number of forms (1) was observed with the lemma “a”: <em>a</
 
 The 3rd highest number of forms (1) was observed with the lemma “amb”: <em>amb</em>.
 
-`ADP` occurs with 2 features: <tt><a href="ca_ancora-feat-ExtPos.html">ExtPos</a></tt> (3434; 4% instances), <tt><a href="ca_ancora-feat-Foreign.html">Foreign</a></tt> (6; 0% instances)
+`ADP` occurs with 2 features: <tt><a href="ca_ancora-feat-ExtPos.html">ExtPos</a></tt> (2265; 3% instances), <tt><a href="ca_ancora-feat-Foreign.html">Foreign</a></tt> (6; 0% instances)
 
 `ADP` occurs with 5 feature-value pairs: `ExtPos=ADP`, `ExtPos=ADV`, `ExtPos=CCONJ`, `ExtPos=SCONJ`, `Foreign=Yes`
 
 `ADP` occurs with 6 feature combinations.
-The most frequent feature combination is `_` (84538 tokens).
+The most frequent feature combination is `_` (85704 tokens).
 Examples: <em>de, a, d', per, en, amb, entre, sobre, segons, durant</em>
 
 
 ## Relations
 
-`ADP` nodes are attached to their parents using 17 different relations: <tt><a href="ca_ancora-dep-case.html">case</a></tt> (77186; 88% instances), <tt><a href="ca_ancora-dep-mark.html">mark</a></tt> (6158; 7% instances), <tt><a href="ca_ancora-dep-fixed.html">fixed</a></tt> (3886; 4% instances), <tt><a href="ca_ancora-dep-advmod.html">advmod</a></tt> (499; 1% instances), <tt><a href="ca_ancora-dep-cc.html">cc</a></tt> (120; 0% instances), <tt><a href="ca_ancora-dep-compound.html">compound</a></tt> (37; 0% instances), <tt><a href="ca_ancora-dep-conj.html">conj</a></tt> (23; 0% instances), <tt><a href="ca_ancora-dep-nmod.html">nmod</a></tt> (16; 0% instances), <tt><a href="ca_ancora-dep-obj.html">obj</a></tt> (15; 0% instances), <tt><a href="ca_ancora-dep-obl-arg.html">obl:arg</a></tt> (14; 0% instances), <tt><a href="ca_ancora-dep-root.html">root</a></tt> (12; 0% instances), <tt><a href="ca_ancora-dep-flat.html">flat</a></tt> (4; 0% instances), <tt><a href="ca_ancora-dep-obl.html">obl</a></tt> (3; 0% instances), <tt><a href="ca_ancora-dep-appos.html">appos</a></tt> (2; 0% instances), <tt><a href="ca_ancora-dep-acl-relcl.html">acl:relcl</a></tt> (1; 0% instances), <tt><a href="ca_ancora-dep-dep.html">dep</a></tt> (1; 0% instances), <tt><a href="ca_ancora-dep-xcomp.html">xcomp</a></tt> (1; 0% instances)
+`ADP` nodes are attached to their parents using 17 different relations: <tt><a href="ca_ancora-dep-case.html">case</a></tt> (78421; 89% instances), <tt><a href="ca_ancora-dep-mark.html">mark</a></tt> (6021; 7% instances), <tt><a href="ca_ancora-dep-fixed.html">fixed</a></tt> (2832; 3% instances), <tt><a href="ca_ancora-dep-advmod.html">advmod</a></tt> (472; 1% instances), <tt><a href="ca_ancora-dep-cc.html">cc</a></tt> (100; 0% instances), <tt><a href="ca_ancora-dep-compound.html">compound</a></tt> (37; 0% instances), <tt><a href="ca_ancora-dep-conj.html">conj</a></tt> (23; 0% instances), <tt><a href="ca_ancora-dep-nmod.html">nmod</a></tt> (16; 0% instances), <tt><a href="ca_ancora-dep-obj.html">obj</a></tt> (15; 0% instances), <tt><a href="ca_ancora-dep-obl-arg.html">obl:arg</a></tt> (14; 0% instances), <tt><a href="ca_ancora-dep-root.html">root</a></tt> (12; 0% instances), <tt><a href="ca_ancora-dep-flat.html">flat</a></tt> (4; 0% instances), <tt><a href="ca_ancora-dep-obl.html">obl</a></tt> (3; 0% instances), <tt><a href="ca_ancora-dep-appos.html">appos</a></tt> (2; 0% instances), <tt><a href="ca_ancora-dep-acl-relcl.html">acl:relcl</a></tt> (1; 0% instances), <tt><a href="ca_ancora-dep-dep.html">dep</a></tt> (1; 0% instances), <tt><a href="ca_ancora-dep-xcomp.html">xcomp</a></tt> (1; 0% instances)
 
-Parents of `ADP` nodes belong to 15 different parts of speech: <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> (51450; 58% instances), <tt><a href="ca_ancora-pos-PROPN.html">PROPN</a></tt> (20152; 23% instances), <tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt> (6719; 8% instances), <tt><a href="ca_ancora-pos-ADP.html">ADP</a></tt> (2534; 3% instances), <tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt> (1907; 2% instances), <tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt> (1584; 2% instances), <tt><a href="ca_ancora-pos-ADV.html">ADV</a></tt> (1298; 1% instances), <tt><a href="ca_ancora-pos-ADJ.html">ADJ</a></tt> (716; 1% instances), <tt><a href="ca_ancora-pos-SCONJ.html">SCONJ</a></tt> (703; 1% instances), <tt><a href="ca_ancora-pos-DET.html">DET</a></tt> (599; 1% instances), <tt><a href="ca_ancora-pos-SYM.html">SYM</a></tt> (251; 0% instances), <tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (37; 0% instances), <tt><a href="ca_ancora-pos-CCONJ.html">CCONJ</a></tt> (14; 0% instances),  (12; 0% instances), <tt><a href="ca_ancora-pos-INTJ.html">INTJ</a></tt> (2; 0% instances)
+Parents of `ADP` nodes belong to 15 different parts of speech: <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> (52600; 60% instances), <tt><a href="ca_ancora-pos-PROPN.html">PROPN</a></tt> (20152; 23% instances), <tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt> (6625; 8% instances), <tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt> (1907; 2% instances), <tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt> (1584; 2% instances), <tt><a href="ca_ancora-pos-ADP.html">ADP</a></tt> (1480; 2% instances), <tt><a href="ca_ancora-pos-ADV.html">ADV</a></tt> (1309; 1% instances), <tt><a href="ca_ancora-pos-ADJ.html">ADJ</a></tt> (703; 1% instances), <tt><a href="ca_ancora-pos-SCONJ.html">SCONJ</a></tt> (703; 1% instances), <tt><a href="ca_ancora-pos-DET.html">DET</a></tt> (598; 1% instances), <tt><a href="ca_ancora-pos-SYM.html">SYM</a></tt> (251; 0% instances), <tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (35; 0% instances), <tt><a href="ca_ancora-pos-CCONJ.html">CCONJ</a></tt> (14; 0% instances),  (12; 0% instances), <tt><a href="ca_ancora-pos-INTJ.html">INTJ</a></tt> (2; 0% instances)
 
-84610 (96%) `ADP` nodes are leaves.
+85776 (98%) `ADP` nodes are leaves.
 
-916 (1%) `ADP` nodes have one child.
+915 (1%) `ADP` nodes have one child.
 
-1881 (2%) `ADP` nodes have two children.
+830 (1%) `ADP` nodes have two children.
 
-571 (1%) `ADP` nodes have three or more children.
+454 (1%) `ADP` nodes have three or more children.
 
 The highest child degree of a `ADP` node is 7.
 
-Children of `ADP` nodes are attached using 16 different relations: <tt><a href="ca_ancora-dep-fixed.html">fixed</a></tt> (5657; 85% instances), <tt><a href="ca_ancora-dep-punct.html">punct</a></tt> (573; 9% instances), <tt><a href="ca_ancora-dep-conj.html">conj</a></tt> (220; 3% instances), <tt><a href="ca_ancora-dep-obl.html">obl</a></tt> (56; 1% instances), <tt><a href="ca_ancora-dep-advmod.html">advmod</a></tt> (35; 1% instances), <tt><a href="ca_ancora-dep-cc.html">cc</a></tt> (35; 1% instances), <tt><a href="ca_ancora-dep-case.html">case</a></tt> (18; 0% instances), <tt><a href="ca_ancora-dep-parataxis.html">parataxis</a></tt> (17; 0% instances), <tt><a href="ca_ancora-dep-advcl.html">advcl</a></tt> (14; 0% instances), <tt><a href="ca_ancora-dep-nmod.html">nmod</a></tt> (14; 0% instances), <tt><a href="ca_ancora-dep-cop.html">cop</a></tt> (5; 0% instances), <tt><a href="ca_ancora-dep-det.html">det</a></tt> (4; 0% instances), <tt><a href="ca_ancora-dep-nsubj.html">nsubj</a></tt> (4; 0% instances), <tt><a href="ca_ancora-dep-compound.html">compound</a></tt> (2; 0% instances), <tt><a href="ca_ancora-dep-acl.html">acl</a></tt> (1; 0% instances), <tt><a href="ca_ancora-dep-amod.html">amod</a></tt> (1; 0% instances)
+Children of `ADP` nodes are attached using 16 different relations: <tt><a href="ca_ancora-dep-fixed.html">fixed</a></tt> (3220; 77% instances), <tt><a href="ca_ancora-dep-punct.html">punct</a></tt> (552; 13% instances), <tt><a href="ca_ancora-dep-conj.html">conj</a></tt> (220; 5% instances), <tt><a href="ca_ancora-dep-obl.html">obl</a></tt> (56; 1% instances), <tt><a href="ca_ancora-dep-advmod.html">advmod</a></tt> (35; 1% instances), <tt><a href="ca_ancora-dep-cc.html">cc</a></tt> (35; 1% instances), <tt><a href="ca_ancora-dep-case.html">case</a></tt> (18; 0% instances), <tt><a href="ca_ancora-dep-parataxis.html">parataxis</a></tt> (17; 0% instances), <tt><a href="ca_ancora-dep-advcl.html">advcl</a></tt> (14; 0% instances), <tt><a href="ca_ancora-dep-nmod.html">nmod</a></tt> (14; 0% instances), <tt><a href="ca_ancora-dep-cop.html">cop</a></tt> (5; 0% instances), <tt><a href="ca_ancora-dep-det.html">det</a></tt> (4; 0% instances), <tt><a href="ca_ancora-dep-nsubj.html">nsubj</a></tt> (4; 0% instances), <tt><a href="ca_ancora-dep-compound.html">compound</a></tt> (2; 0% instances), <tt><a href="ca_ancora-dep-acl.html">acl</a></tt> (1; 0% instances), <tt><a href="ca_ancora-dep-amod.html">amod</a></tt> (1; 0% instances)
 
-Children of `ADP` nodes belong to 14 different parts of speech: <tt><a href="ca_ancora-pos-ADP.html">ADP</a></tt> (2534; 38% instances), <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> (2334; 35% instances), <tt><a href="ca_ancora-pos-PUNCT.html">PUNCT</a></tt> (573; 9% instances), <tt><a href="ca_ancora-pos-ADV.html">ADV</a></tt> (494; 7% instances), <tt><a href="ca_ancora-pos-SCONJ.html">SCONJ</a></tt> (287; 4% instances), <tt><a href="ca_ancora-pos-DET.html">DET</a></tt> (139; 2% instances), <tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt> (60; 1% instances), <tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt> (57; 1% instances), <tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt> (53; 1% instances), <tt><a href="ca_ancora-pos-CCONJ.html">CCONJ</a></tt> (45; 1% instances), <tt><a href="ca_ancora-pos-ADJ.html">ADJ</a></tt> (42; 1% instances), <tt><a href="ca_ancora-pos-PROPN.html">PROPN</a></tt> (31; 0% instances), <tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (5; 0% instances), <tt><a href="ca_ancora-pos-SYM.html">SYM</a></tt> (2; 0% instances)
+Children of `ADP` nodes belong to 14 different parts of speech: <tt><a href="ca_ancora-pos-ADP.html">ADP</a></tt> (1480; 35% instances), <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> (1067; 25% instances), <tt><a href="ca_ancora-pos-ADV.html">ADV</a></tt> (563; 13% instances), <tt><a href="ca_ancora-pos-PUNCT.html">PUNCT</a></tt> (552; 13% instances), <tt><a href="ca_ancora-pos-SCONJ.html">SCONJ</a></tt> (197; 5% instances), <tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt> (66; 2% instances), <tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt> (58; 1% instances), <tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt> (53; 1% instances), <tt><a href="ca_ancora-pos-CCONJ.html">CCONJ</a></tt> (45; 1% instances), <tt><a href="ca_ancora-pos-DET.html">DET</a></tt> (40; 1% instances), <tt><a href="ca_ancora-pos-ADJ.html">ADJ</a></tt> (39; 1% instances), <tt><a href="ca_ancora-pos-PROPN.html">PROPN</a></tt> (31; 1% instances), <tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (5; 0% instances), <tt><a href="ca_ancora-pos-SYM.html">SYM</a></tt> (2; 0% instances)
 

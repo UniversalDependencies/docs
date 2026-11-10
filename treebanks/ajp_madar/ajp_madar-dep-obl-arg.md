@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="ajp_madar-dep-obl.html">obl</a></tt>.
 
-20 nodes (3%) are attached to their parents as `obl:arg`.
+18 nodes (2%) are attached to their parents as `obl:arg`.
 
-20 instances of `obl:arg` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.4.
+18 instances of `obl:arg` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.44444444444444.
 
-The following 9 pairs of parts of speech are connected with `obl:arg`: <tt><a href="ajp_madar-pos-VERB.html">VERB</a></tt>-<tt><a href="ajp_madar-pos-PRON.html">PRON</a></tt> (6; 30% instances), <tt><a href="ajp_madar-pos-VERB.html">VERB</a></tt>-<tt><a href="ajp_madar-pos-NOUN.html">NOUN</a></tt> (5; 25% instances), <tt><a href="ajp_madar-pos-VERB.html">VERB</a></tt>-<tt><a href="ajp_madar-pos-ADJ.html">ADJ</a></tt> (2; 10% instances), <tt><a href="ajp_madar-pos-VERB.html">VERB</a></tt>-<tt><a href="ajp_madar-pos-PROPN.html">PROPN</a></tt> (2; 10% instances), <tt><a href="ajp_madar-pos-ADP.html">ADP</a></tt>-<tt><a href="ajp_madar-pos-ADP.html">ADP</a></tt> (1; 5% instances), <tt><a href="ajp_madar-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ajp_madar-pos-NOUN.html">NOUN</a></tt> (1; 5% instances), <tt><a href="ajp_madar-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ajp_madar-pos-VERB.html">VERB</a></tt> (1; 5% instances), <tt><a href="ajp_madar-pos-PRON.html">PRON</a></tt>-<tt><a href="ajp_madar-pos-NOUN.html">NOUN</a></tt> (1; 5% instances), <tt><a href="ajp_madar-pos-VERB.html">VERB</a></tt>-<tt><a href="ajp_madar-pos-ADV.html">ADV</a></tt> (1; 5% instances).
+The following 7 pairs of parts of speech are connected with `obl:arg`: <tt><a href="ajp_madar-pos-VERB.html">VERB</a></tt>-<tt><a href="ajp_madar-pos-PRON.html">PRON</a></tt> (6; 33% instances), <tt><a href="ajp_madar-pos-VERB.html">VERB</a></tt>-<tt><a href="ajp_madar-pos-NOUN.html">NOUN</a></tt> (5; 28% instances), <tt><a href="ajp_madar-pos-VERB.html">VERB</a></tt>-<tt><a href="ajp_madar-pos-ADJ.html">ADJ</a></tt> (2; 11% instances), <tt><a href="ajp_madar-pos-VERB.html">VERB</a></tt>-<tt><a href="ajp_madar-pos-PROPN.html">PROPN</a></tt> (2; 11% instances), <tt><a href="ajp_madar-pos-ADP.html">ADP</a></tt>-<tt><a href="ajp_madar-pos-ADP.html">ADP</a></tt> (1; 6% instances), <tt><a href="ajp_madar-pos-PRON.html">PRON</a></tt>-<tt><a href="ajp_madar-pos-NOUN.html">NOUN</a></tt> (1; 6% instances), <tt><a href="ajp_madar-pos-VERB.html">VERB</a></tt>-<tt><a href="ajp_madar-pos-ADV.html">ADV</a></tt> (1; 6% instances).
 
 
 ~~~ conllu

@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Old_East_Slavic-Ruthenian: POS Tags: `CCONJ`
 
-There are 52 `CCONJ` lemmas (1%), 96 `CCONJ` types (0%) and 11454 `CCONJ` tokens (8%).
+There are 52 `CCONJ` lemmas (1%), 97 `CCONJ` types (0%) and 11455 `CCONJ` tokens (8%).
 Out of 17 observed tags, the rank of `CCONJ` is: 12 in number of lemmas, 14 in number of types and 5 in number of tokens.
 
 The 10 most frequent `CCONJ` lemmas: <em>и, а, ино, або, также, ни, да, але, любо, или</em>
@@ -56,7 +56,7 @@ The 10 most frequent ambiguous types:  <em>и</em> (<tt><a href="orv_ruthenian-p
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.846154 (the average of all parts of speech is 2.698737).
+The form / lemma ratio of `CCONJ` is 1.865385 (the average of all parts of speech is 2.698563).
 
 The 1st highest number of forms (17) was observed with the lemma “также”: <em>Такежъ, Такжо, Такжь, Такожь, Такъжо, Такѡж, Такѣж, та(к)же, та(к)жє, такеж, также, такжѣ, також, такоже, такъже, такьже, такѣжъ</em>.
 
@@ -69,17 +69,17 @@ The 3rd highest number of forms (4) was observed with the lemma “а”: <em>[�
 `CCONJ` occurs with 2 feature-value pairs: `ExtPos=CCONJ`, `Polarity=Neg`
 
 `CCONJ` occurs with 3 feature combinations.
-The most frequent feature combination is `_` (11237 tokens).
+The most frequent feature combination is `_` (11238 tokens).
 Examples: <em>и, а, ино, або, да, але, любо, или, і, такъ</em>
 
 
 ## Relations
 
-`CCONJ` nodes are attached to their parents using 15 different relations: <tt><a href="orv_ruthenian-dep-cc.html">cc</a></tt> (11196; 98% instances), <tt><a href="orv_ruthenian-dep-fixed.html">fixed</a></tt> (169; 1% instances), <tt><a href="orv_ruthenian-dep-advmod.html">advmod</a></tt> (55; 0% instances), <tt><a href="orv_ruthenian-dep-obj.html">obj</a></tt> (8; 0% instances), <tt><a href="orv_ruthenian-dep-mark.html">mark</a></tt> (6; 0% instances), <tt><a href="orv_ruthenian-dep-nsubj.html">nsubj</a></tt> (5; 0% instances), <tt><a href="orv_ruthenian-dep-reparandum.html">reparandum</a></tt> (4; 0% instances), <tt><a href="orv_ruthenian-dep-case.html">case</a></tt> (3; 0% instances), <tt><a href="orv_ruthenian-dep-orphan.html">orphan</a></tt> (2; 0% instances), <tt><a href="orv_ruthenian-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="orv_ruthenian-dep-conj.html">conj</a></tt> (1; 0% instances), <tt><a href="orv_ruthenian-dep-dep.html">dep</a></tt> (1; 0% instances), <tt><a href="orv_ruthenian-dep-dislocated.html">dislocated</a></tt> (1; 0% instances), <tt><a href="orv_ruthenian-dep-nsubj-pass.html">nsubj:pass</a></tt> (1; 0% instances), <tt><a href="orv_ruthenian-dep-root.html">root</a></tt> (1; 0% instances)
+`CCONJ` nodes are attached to their parents using 15 different relations: <tt><a href="orv_ruthenian-dep-cc.html">cc</a></tt> (11197; 98% instances), <tt><a href="orv_ruthenian-dep-fixed.html">fixed</a></tt> (169; 1% instances), <tt><a href="orv_ruthenian-dep-advmod.html">advmod</a></tt> (55; 0% instances), <tt><a href="orv_ruthenian-dep-obj.html">obj</a></tt> (8; 0% instances), <tt><a href="orv_ruthenian-dep-mark.html">mark</a></tt> (6; 0% instances), <tt><a href="orv_ruthenian-dep-nsubj.html">nsubj</a></tt> (5; 0% instances), <tt><a href="orv_ruthenian-dep-reparandum.html">reparandum</a></tt> (4; 0% instances), <tt><a href="orv_ruthenian-dep-case.html">case</a></tt> (3; 0% instances), <tt><a href="orv_ruthenian-dep-orphan.html">orphan</a></tt> (2; 0% instances), <tt><a href="orv_ruthenian-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="orv_ruthenian-dep-conj.html">conj</a></tt> (1; 0% instances), <tt><a href="orv_ruthenian-dep-dep.html">dep</a></tt> (1; 0% instances), <tt><a href="orv_ruthenian-dep-dislocated.html">dislocated</a></tt> (1; 0% instances), <tt><a href="orv_ruthenian-dep-nsubj-pass.html">nsubj:pass</a></tt> (1; 0% instances), <tt><a href="orv_ruthenian-dep-root.html">root</a></tt> (1; 0% instances)
 
-Parents of `CCONJ` nodes belong to 15 different parts of speech: <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (4537; 40% instances), <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt> (4478; 39% instances), <tt><a href="orv_ruthenian-pos-PROPN.html">PROPN</a></tt> (1092; 10% instances), <tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt> (648; 6% instances), <tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt> (200; 2% instances), <tt><a href="orv_ruthenian-pos-CCONJ.html">CCONJ</a></tt> (143; 1% instances), <tt><a href="orv_ruthenian-pos-ADV.html">ADV</a></tt> (134; 1% instances), <tt><a href="orv_ruthenian-pos-DET.html">DET</a></tt> (132; 1% instances), <tt><a href="orv_ruthenian-pos-NUM.html">NUM</a></tt> (46; 0% instances), <tt><a href="orv_ruthenian-pos-SCONJ.html">SCONJ</a></tt> (19; 0% instances), <tt><a href="orv_ruthenian-pos-AUX.html">AUX</a></tt> (13; 0% instances), <tt><a href="orv_ruthenian-pos-PART.html">PART</a></tt> (5; 0% instances), <tt><a href="orv_ruthenian-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="orv_ruthenian-pos-X.html">X</a></tt> (2; 0% instances),  (1; 0% instances)
+Parents of `CCONJ` nodes belong to 15 different parts of speech: <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (4538; 40% instances), <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt> (4478; 39% instances), <tt><a href="orv_ruthenian-pos-PROPN.html">PROPN</a></tt> (1092; 10% instances), <tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt> (648; 6% instances), <tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt> (200; 2% instances), <tt><a href="orv_ruthenian-pos-CCONJ.html">CCONJ</a></tt> (143; 1% instances), <tt><a href="orv_ruthenian-pos-ADV.html">ADV</a></tt> (134; 1% instances), <tt><a href="orv_ruthenian-pos-DET.html">DET</a></tt> (132; 1% instances), <tt><a href="orv_ruthenian-pos-NUM.html">NUM</a></tt> (46; 0% instances), <tt><a href="orv_ruthenian-pos-SCONJ.html">SCONJ</a></tt> (19; 0% instances), <tt><a href="orv_ruthenian-pos-AUX.html">AUX</a></tt> (13; 0% instances), <tt><a href="orv_ruthenian-pos-PART.html">PART</a></tt> (5; 0% instances), <tt><a href="orv_ruthenian-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="orv_ruthenian-pos-X.html">X</a></tt> (2; 0% instances),  (1; 0% instances)
 
-11168 (98%) `CCONJ` nodes are leaves.
+11169 (98%) `CCONJ` nodes are leaves.
 
 279 (2%) `CCONJ` nodes have one child.
 

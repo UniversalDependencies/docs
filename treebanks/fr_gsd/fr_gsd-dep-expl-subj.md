@@ -12,7 +12,7 @@ There are also 3 other language-specific subtypes of `expl`: <tt><a href="fr_gsd
 931 nodes (0%) are attached to their parents as `expl:subj`.
 
 872 instances of `expl:subj` (94%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.26208378088077.
+Average distance between parent and child is 2.2610096670247.
 
 The following 10 pairs of parts of speech are connected with `expl:subj`: <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> (591; 63% instances), <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> (142; 15% instances), <tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> (108; 12% instances), <tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> (28; 3% instances), <tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> (26; 3% instances), <tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> (26; 3% instances), <tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> (5; 1% instances), <tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt>-<tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="fr_gsd-pos-X.html">X</a></tt>-<tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
@@ -53,7 +53,7 @@ The following 10 pairs of parts of speech are connected with `expl:subj`: <tt><a
 7	audace	audace	NOUN	_	Gender=Fem|Number=Sing	2	conj	_	Exponence[Gender]=Inherent
 8	qui	qui	PRON	_	PronType=Rel	10	nsubj:pass	_	_
 9	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux:pass	_	Filler=subj
-10	récompensée	récompenser	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	7	advcl:cleft	_	SpaceAfter=No|Tense[denom]=Past
+10	récompensée	récompenser	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	7	advcl:cleft	_	SpaceAfter=No|Status[Tense]=Denom
 11	.	.	PUNCT	_	_	2	punct	_	_
 
 ~~~

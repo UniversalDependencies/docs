@@ -144,7 +144,7 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
 The 10 most frequent relations where parent and child node agree in `Gender`:
 <tt>NOUN --[<tt><a href="qtd_sagt-dep-det.html">det</a></tt>]--> DET</tt> (869; 86%),
 <tt>NOUN --[<tt><a href="qtd_sagt-dep-amod.html">amod</a></tt>]--> ADJ</tt> (200; 76%),
-<tt>NOUN --[<tt><a href="qtd_sagt-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (93; 52%),
+<tt>NOUN --[<tt><a href="qtd_sagt-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (94; 52%),
 <tt>PROPN --[<tt><a href="qtd_sagt-dep-det.html">det</a></tt>]--> DET</tt> (37; 73%),
 <tt>NOUN --[<tt><a href="qtd_sagt-dep-reparandum.html">reparandum</a></tt>]--> NOUN</tt> (23; 51%),
 <tt>PROPN --[<tt><a href="qtd_sagt-dep-amod.html">amod</a></tt>]--> ADJ</tt> (10; 71%),

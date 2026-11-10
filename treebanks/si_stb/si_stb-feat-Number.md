@@ -93,6 +93,7 @@ The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>NOUN --[<tt><a href="si_stb-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (7; 78%),
 <tt>PROPN --[<tt><a href="si_stb-dep-flat.html">flat</a></tt>]--> NOUN</tt> (7; 88%),
 <tt>PROPN --[<tt><a href="si_stb-dep-flat.html">flat</a></tt>]--> PROPN</tt> (6; 67%),
+<tt>NOUN --[<tt><a href="si_stb-dep-obl-lmod.html">obl:lmod</a></tt>]--> NOUN</tt> (2; 67%),
 <tt>NOUN --[<tt><a href="si_stb-dep-acl.html">acl</a></tt>]--> NOUN</tt> (1; 100%),
 <tt>NOUN --[<tt><a href="si_stb-dep-compound-prt.html">compound:prt</a></tt>]--> NOUN</tt> (1; 100%),
 <tt>NOUN --[<tt><a href="si_stb-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1; 100%),

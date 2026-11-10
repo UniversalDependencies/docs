@@ -62,7 +62,7 @@ The following 2 pairs of parts of speech are connected with `iobj`: <tt><a href=
 38	sole	sole	ADV	_	_	39	advmod	_	_
 39	komentarii	komentarii	VERB	_	VerbForm=Inf	34	xcomp	_	_
 40	al	al	ADP	_	_	41	cc	_	_
-41	si	si	PRON	_	Case=Nom|Number=Sing|PronType=Prs|Reflex=Yes	39	nmod	_	_
+41	si	si	PRON	_	Case=Nom|Number=Sing|PronType=Prs|Reflex=Yes	39	obl	_	_
 42	tiel	tiel	ADV	_	_	39	advmod	_	SpaceAfter=No
 43	,	,	PUNCT	_	_	46	punct	_	_
 44	kiel	kiel	ADV	_	_	46	advmod	_	_

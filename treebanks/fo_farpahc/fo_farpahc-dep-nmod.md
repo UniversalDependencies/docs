@@ -9,12 +9,57 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `nmod`: <tt><a href="fo_farpahc-dep-nmod-poss.html">nmod:poss</a></tt>.
 
-70 nodes (0%) are attached to their parents as `nmod`.
+390 nodes (1%) are attached to their parents as `nmod`.
 
-61 instances of `nmod` (87%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.61428571428571.
+255 instances of `nmod` (65%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.71794871794872.
 
-The following 8 pairs of parts of speech are connected with `nmod`: <tt><a href="fo_farpahc-pos-PRON.html">PRON</a></tt>-<tt><a href="fo_farpahc-pos-PRON.html">PRON</a></tt> (48; 69% instances), <tt><a href="fo_farpahc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fo_farpahc-pos-PRON.html">PRON</a></tt> (9; 13% instances), <tt><a href="fo_farpahc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fo_farpahc-pos-PRON.html">PRON</a></tt> (6; 9% instances), <tt><a href="fo_farpahc-pos-NUM.html">NUM</a></tt>-<tt><a href="fo_farpahc-pos-PRON.html">PRON</a></tt> (3; 4% instances), <tt><a href="fo_farpahc-pos-ADV.html">ADV</a></tt>-<tt><a href="fo_farpahc-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="fo_farpahc-pos-AUX.html">AUX</a></tt>-<tt><a href="fo_farpahc-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="fo_farpahc-pos-DET.html">DET</a></tt>-<tt><a href="fo_farpahc-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="fo_farpahc-pos-VERB.html">VERB</a></tt>-<tt><a href="fo_farpahc-pos-PRON.html">PRON</a></tt> (1; 1% instances).
+The following 24 pairs of parts of speech are connected with `nmod`: <tt><a href="fo_farpahc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fo_farpahc-pos-NOUN.html">NOUN</a></tt> (132; 34% instances), <tt><a href="fo_farpahc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fo_farpahc-pos-PROPN.html">PROPN</a></tt> (58; 15% instances), <tt><a href="fo_farpahc-pos-PRON.html">PRON</a></tt>-<tt><a href="fo_farpahc-pos-PRON.html">PRON</a></tt> (55; 14% instances), <tt><a href="fo_farpahc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fo_farpahc-pos-PRON.html">PRON</a></tt> (38; 10% instances), <tt><a href="fo_farpahc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fo_farpahc-pos-PROPN.html">PROPN</a></tt> (24; 6% instances), <tt><a href="fo_farpahc-pos-PRON.html">PRON</a></tt>-<tt><a href="fo_farpahc-pos-NOUN.html">NOUN</a></tt> (20; 5% instances), <tt><a href="fo_farpahc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fo_farpahc-pos-NOUN.html">NOUN</a></tt> (10; 3% instances), <tt><a href="fo_farpahc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fo_farpahc-pos-DET.html">DET</a></tt> (9; 2% instances), <tt><a href="fo_farpahc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fo_farpahc-pos-PRON.html">PRON</a></tt> (8; 2% instances), <tt><a href="fo_farpahc-pos-PRON.html">PRON</a></tt>-<tt><a href="fo_farpahc-pos-ADP.html">ADP</a></tt> (7; 2% instances), <tt><a href="fo_farpahc-pos-PRON.html">PRON</a></tt>-<tt><a href="fo_farpahc-pos-PROPN.html">PROPN</a></tt> (6; 2% instances), <tt><a href="fo_farpahc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fo_farpahc-pos-ADJ.html">ADJ</a></tt> (5; 1% instances), <tt><a href="fo_farpahc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fo_farpahc-pos-ADP.html">ADP</a></tt> (4; 1% instances), <tt><a href="fo_farpahc-pos-NUM.html">NUM</a></tt>-<tt><a href="fo_farpahc-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="fo_farpahc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fo_farpahc-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="fo_farpahc-pos-ADV.html">ADV</a></tt>-<tt><a href="fo_farpahc-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="fo_farpahc-pos-AUX.html">AUX</a></tt>-<tt><a href="fo_farpahc-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="fo_farpahc-pos-DET.html">DET</a></tt>-<tt><a href="fo_farpahc-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="fo_farpahc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fo_farpahc-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="fo_farpahc-pos-PRON.html">PRON</a></tt>-<tt><a href="fo_farpahc-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="fo_farpahc-pos-PRON.html">PRON</a></tt>-<tt><a href="fo_farpahc-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="fo_farpahc-pos-PRON.html">PRON</a></tt>-<tt><a href="fo_farpahc-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="fo_farpahc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fo_farpahc-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="fo_farpahc-pos-VERB.html">VERB</a></tt>-<tt><a href="fo_farpahc-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+
+
+~~~ conllu
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 11 8 nmod	color:blue
+1	Men	_	CCONJ	CONJ	_	4	cc	_	_
+2	vit	_	PRON	PRO-N	Case=Nom	4	nsubj	_	_
+3	vilja	_	AUX	MDPI	Mood=Ind|Tense=Pres	4	aux	_	_
+4	halda	_	VERB	VB	VerbForm=Inf	0	root	_	_
+5	trúliga	_	ADV	ADV	Degree=Pos	4	advmod	_	_
+6	á	_	ADP	RP	_	4	compound:prt	_	_
+7	í	_	ADP	P	_	8	case	_	_
+8	bönini	_	NOUN	N-D	Case=Dat|Definite=Def|Number=Sing	11	nmod	_	_
+9	og	_	CCONJ	CONJ	_	11	cc	_	_
+10	í	_	ADP	P	_	11	case	_	_
+11	tænastu	_	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	4	obl	_	_
+12	orðsins	_	NOUN	N-G	Case=Gen|Definite=Def|Number=Sing	11	nmod:poss	_	SpaceAfter=No
+13	.	.	PUNCT	.	_	12	punct	_	SpaceAfter=No
+14	"	_	PUNCT	"	_	13	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 8 nmod	color:blue
+1	Hann	_	PRON	PRO-N	Case=Nom	2	nsubj	_	_
+2	hevði	_	VERB	HVDI	Mood=Ind|Tense=Past	0	root	_	_
+3	gott	_	ADJ	ADJ-A	Case=Acc|Degree=Pos	4	amod	_	_
+4	ummæli	_	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	2	obj	_	_
+5	hjá	_	ADP	P	_	6	case	_	_
+6	bröðrunum	_	NOUN	NS-D	Case=Dat|Definite=Def|Number=Plur	2	obl	_	_
+7	í	_	ADP	P	_	8	case	_	_
+8	Lýstru	_	PROPN	NPR-D	Case=Dat|Definite=Ind|Number=Sing	6	nmod	_	_
+9	og	_	CCONJ	CONJ	_	8	cc	_	_
+10	Ikonium	_	NOUN	NS-D	Case=Dat|Definite=Ind|Number=Plur	8	conj	_	SpaceAfter=No
+11	.	.	PUNCT	.	_	10	punct	_	_
+
+~~~
 
 
 ~~~ conllu
@@ -32,69 +77,6 @@ The following 8 pairs of parts of speech are connected with `nmod`: <tt><a href=
 7	annan	_	PRON	OTHER-A	Case=Acc	6	det	_	SpaceAfter=No
 8	?	?	PUNCT	.	_	7	punct	_	SpaceAfter=No
 9	"	_	PUNCT	"	_	8	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 23	bgColor:blue
-# visual-style 23	fgColor:white
-# visual-style 24	bgColor:blue
-# visual-style 24	fgColor:white
-# visual-style 24 23 nmod	color:blue
-1	Trúgvið	_	VERB	VBI	Mood=Imp	0	root	_	_
-2	mær	_	PRON	PRO-D	Case=Dat	1	obj	_	SpaceAfter=No
-3	,	,	PUNCT	,	_	2	punct	_	_
-4	at	_	SCONJ	C	_	5	mark	_	_
-5	eg	_	PRON	PRO-N	Case=Nom	1	xcomp	_	_
-6	eri	_	AUX	BEPI	Mood=Ind|Tense=Pres	5	cop	_	_
-7	í	_	ADP	P	_	8	case	_	_
-8	faðirinum	_	NOUN	N-D	Case=Dat|Definite=Def|Number=Sing	5	obl	_	SpaceAfter=No
-9	,	,	PUNCT	,	_	8	punct	_	_
-10	og	_	CCONJ	CONJ	_	11	cc	_	_
-11	faðirin	_	NOUN	N-N	Case=Nom|Definite=Def|Number=Sing	5	conj	_	_
-12	í	_	ADP	P	_	13	case	_	_
-13	mær	_	PRON	PRO-D	Case=Dat	11	obl	_	SpaceAfter=No
-14	;	;	PUNCT	.	_	13	punct	_	_
-15	men	_	CCONJ	CONJ	_	20	cc	_	_
-16	um	_	ADP	P	_	17	case	_	_
-17	ikki	_	ADV	NEG	_	20	obl	_	SpaceAfter=No
-18	,	,	PUNCT	,	_	17	punct	_	_
-19	tá	_	ADV	ADV	Degree=Pos	20	advmod	_	_
-20	trúgvið	_	VERB	VBI	Mood=Imp	1	conj	_	OriginalHead=0
-21	mær	_	PRON	PRO-D	Case=Dat	20	obj	_	_
-22	fyri	_	ADP	P	_	25	case	_	_
-23	sjálva	_	PRON	PRO-G	Case=Gen	24	nmod	_	_
-24	gerninganna	_	NOUN	NS-G	Case=Gen|Definite=Def|Number=Plur	25	nmod:poss	_	_
-25	skuld	_	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	20	obl	_	SpaceAfter=No
-26	!	!	PUNCT	.	_	25	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 15	bgColor:blue
-# visual-style 15	fgColor:white
-# visual-style 15 12 nmod	color:blue
-1	Teir	_	PRON	PRO-N	Case=Nom	2	nsubj	_	_
-2	rópaðu	_	VERB	VBPI	Mood=Ind|Tense=Pres	0	root	_	_
-3	tá	_	ADV	ADV	Degree=Pos	2	advmod	_	_
-4	aftur	_	ADV	ADV	Degree=Pos	2	advmod	_	_
-5	og	_	CCONJ	CONJ	_	6	cc	_	_
-6	sögdu	_	VERB	VBDI	Mood=Ind|Tense=Past	2	conj	_	OriginalHead=0|SpaceAfter=No
-7	:	:	PUNCT	,	_	6	punct	_	_
-8	"	_	PUNCT	"	_	7	punct	_	_
-9	Nei	_	INTJ	INTJ	_	15	discourse	_	SpaceAfter=No
-10	,	,	PUNCT	,	_	9	punct	_	_
-11	ikki	_	ADV	NEG	_	15	advmod	_	_
-12	honum	_	PRON	PRO-D	Case=Dat	15	nmod	_	SpaceAfter=No
-13	,	,	PUNCT	,	_	12	punct	_	_
-14	men	_	CCONJ	CONJ	_	15	cc	_	_
-15	Barabbasi	_	PROPN	NPR-D	Case=Dat|Definite=Ind|Number=Sing	6	dep	_	SpaceAfter=No
-16	.	.	PUNCT	.	_	15	punct	_	SpaceAfter=No
-17	"	_	PUNCT	"	_	16	punct	_	_
 
 ~~~
 

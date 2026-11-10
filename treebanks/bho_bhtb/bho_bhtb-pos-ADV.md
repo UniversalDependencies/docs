@@ -55,7 +55,7 @@ The 10 most frequent ambiguous types:  जइसे (<tt><a href="bho_bhtb-pos-A
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 0.916667 (the average of all parts of speech is 1.035079).
+The form / lemma ratio of `ADV` is 0.916667 (the average of all parts of speech is 1.035097).
 
 The 1st highest number of forms (1) was observed with the lemma “आजुओ”: आजुओ.
 
@@ -74,7 +74,7 @@ Examples: जइसे, हिन्दी, गद्य, सभ्य, आन�
 
 ## Relations
 
-`ADV` nodes are attached to their parents using 7 different relations: <tt><a href="bho_bhtb-dep-advmod.html">advmod</a></tt> (15; 48% instances), <tt><a href="bho_bhtb-dep-compound.html">compound</a></tt> (7; 23% instances), <tt><a href="bho_bhtb-dep-amod.html">amod</a></tt> (3; 10% instances), <tt><a href="bho_bhtb-dep-obl.html">obl</a></tt> (3; 10% instances), <tt><a href="bho_bhtb-dep-acl.html">acl</a></tt> (1; 3% instances), <tt><a href="bho_bhtb-dep-case.html">case</a></tt> (1; 3% instances), <tt><a href="bho_bhtb-dep-obj.html">obj</a></tt> (1; 3% instances)
+`ADV` nodes are attached to their parents using 7 different relations: <tt><a href="bho_bhtb-dep-advmod.html">advmod</a></tt> (16; 52% instances), <tt><a href="bho_bhtb-dep-compound.html">compound</a></tt> (7; 23% instances), <tt><a href="bho_bhtb-dep-amod.html">amod</a></tt> (3; 10% instances), <tt><a href="bho_bhtb-dep-obl.html">obl</a></tt> (2; 6% instances), <tt><a href="bho_bhtb-dep-acl.html">acl</a></tt> (1; 3% instances), <tt><a href="bho_bhtb-dep-case.html">case</a></tt> (1; 3% instances), <tt><a href="bho_bhtb-dep-obj.html">obj</a></tt> (1; 3% instances)
 
 Parents of `ADV` nodes belong to 3 different parts of speech: <tt><a href="bho_bhtb-pos-VERB.html">VERB</a></tt> (23; 74% instances), <tt><a href="bho_bhtb-pos-NOUN.html">NOUN</a></tt> (6; 19% instances), <tt><a href="bho_bhtb-pos-ADV.html">ADV</a></tt> (2; 6% instances)
 

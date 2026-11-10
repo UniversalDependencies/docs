@@ -7,13 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Ligurian-GLT: Relations: `advcl`
 
 This relation is universal.
+There are 1 language-specific subtypes of `advcl`: <tt><a href="lij_glt-dep-advcl-relcl.html">advcl:relcl</a></tt>.
 
-95 nodes (1%) are attached to their parents as `advcl`.
+94 nodes (1%) are attached to their parents as `advcl`.
 
-53 instances of `advcl` (56%) are left-to-right (parent precedes child).
-Average distance between parent and child is 8.53684210526316.
+50 instances of `advcl` (53%) are left-to-right (parent precedes child).
+Average distance between parent and child is 8.58510638297872.
 
-The following 10 pairs of parts of speech are connected with `advcl`: <tt><a href="lij_glt-pos-VERB.html">VERB</a></tt>-<tt><a href="lij_glt-pos-VERB.html">VERB</a></tt> (71; 75% instances), <tt><a href="lij_glt-pos-VERB.html">VERB</a></tt>-<tt><a href="lij_glt-pos-ADJ.html">ADJ</a></tt> (6; 6% instances), <tt><a href="lij_glt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lij_glt-pos-VERB.html">VERB</a></tt> (4; 4% instances), <tt><a href="lij_glt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lij_glt-pos-VERB.html">VERB</a></tt> (4; 4% instances), <tt><a href="lij_glt-pos-ADV.html">ADV</a></tt>-<tt><a href="lij_glt-pos-VERB.html">VERB</a></tt> (2; 2% instances), <tt><a href="lij_glt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="lij_glt-pos-VERB.html">VERB</a></tt> (2; 2% instances), <tt><a href="lij_glt-pos-PRON.html">PRON</a></tt>-<tt><a href="lij_glt-pos-VERB.html">VERB</a></tt> (2; 2% instances), <tt><a href="lij_glt-pos-VERB.html">VERB</a></tt>-<tt><a href="lij_glt-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="lij_glt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lij_glt-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="lij_glt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lij_glt-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
+The following 12 pairs of parts of speech are connected with `advcl`: <tt><a href="lij_glt-pos-VERB.html">VERB</a></tt>-<tt><a href="lij_glt-pos-VERB.html">VERB</a></tt> (70; 74% instances), <tt><a href="lij_glt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lij_glt-pos-VERB.html">VERB</a></tt> (4; 4% instances), <tt><a href="lij_glt-pos-VERB.html">VERB</a></tt>-<tt><a href="lij_glt-pos-ADJ.html">ADJ</a></tt> (4; 4% instances), <tt><a href="lij_glt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lij_glt-pos-VERB.html">VERB</a></tt> (3; 3% instances), <tt><a href="lij_glt-pos-ADV.html">ADV</a></tt>-<tt><a href="lij_glt-pos-VERB.html">VERB</a></tt> (3; 3% instances), <tt><a href="lij_glt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="lij_glt-pos-VERB.html">VERB</a></tt> (2; 2% instances), <tt><a href="lij_glt-pos-PRON.html">PRON</a></tt>-<tt><a href="lij_glt-pos-PRON.html">PRON</a></tt> (2; 2% instances), <tt><a href="lij_glt-pos-VERB.html">VERB</a></tt>-<tt><a href="lij_glt-pos-ADV.html">ADV</a></tt> (2; 2% instances), <tt><a href="lij_glt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lij_glt-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="lij_glt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lij_glt-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="lij_glt-pos-PRON.html">PRON</a></tt>-<tt><a href="lij_glt-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="lij_glt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lij_glt-pos-VERB.html">VERB</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -37,12 +38,34 @@ The following 10 pairs of parts of speech are connected with `advcl`: <tt><a hre
 
 
 ~~~ conllu
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 8 advcl	color:blue
+1	L'	l'	PART	_	_	4	dep	_	SpaceAfter=No
+2	ea	ëse	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	cop	_	_
+3	trent'	trenta	NUM	_	NumType=Card	4	nummod	_	SpaceAfter=No
+4	anni	anno	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_
+5	che	che	SCONJ	_	_	8	mark	_	_
+6	no	no	ADV	_	_	8	advmod	_	_
+7	me	me	PRON	_	Number=Sing|Person=1|PronType=Prs	8	expl:pv	_	_
+8	metteiva	mette	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	4	advcl	_	_
+9	à	à	ADP	_	_	10	mark	_	_
+10	corrî	corrî	VERB	_	Tense=Pres|VerbForm=Inf	8	xcomp	_	_
+11	coscì	coscì	ADV	_	_	10	advmod	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	4	punct	_	_
+
+~~~
+
+
+~~~ conllu
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 13	bgColor:blue
 # visual-style 13	fgColor:white
 # visual-style 13 7 advcl	color:blue
-1	Con	con	ADP	_	_	7	mark	_	MWEPOS=SCONJ
+1	Con	con	ADP	_	ExtPos=SCONJ	7	mark	_	_
 2	tutto	tutto	PRON	_	Gender=Masc|Number=Sing|PronType=Tot	1	fixed	_	_
 3	ch'	che	SCONJ	_	_	1	fixed	_	SpaceAfter=No
 4	o	o	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_
@@ -57,26 +80,6 @@ The following 10 pairs of parts of speech are connected with `advcl`: <tt><a hre
 13	partî	partî	VERB	_	Tense=Pres|VerbForm=Inf	0	root	_	_
 14	pægio	pægio	ADV	_	_	13	advmod	_	SpaceAfter=No
 15	.	.	PUNCT	_	_	13	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 9 advcl	color:blue
-1	Me	me	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
-2	ne	ne	PRON	_	_	4	expl:pv	_	_
-3	son	ëse	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
-4	andæto	andâ	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
-5	convinto	convinto	ADJ	_	Gender=Masc|Number=Sing	4	xcomp	_	_
-6	d'	de	ADP	_	_	9	mark	_	SpaceAfter=No
-7	avei	avei	AUX	_	Tense=Pres|VerbForm=Inf	9	aux	_	_
-8	lo	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obj	_	_
-9	appaxentou	appaxentâ	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	advcl	_	SpaceAfter=No
-10	.	.	PUNCT	_	_	4	punct	_	_
 
 ~~~
 

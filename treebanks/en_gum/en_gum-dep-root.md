@@ -13,7 +13,7 @@ This relation is universal.
 14353 instances of `root` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 5.63833344945308.
 
-The following 15 pairs of parts of speech are connected with `root`: -<tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (9164; 64% instances), -<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (2007; 14% instances), -<tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (1146; 8% instances), -<tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (687; 5% instances), -<tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> (521; 4% instances), -<tt><a href="en_gum-pos-ADV.html">ADV</a></tt> (263; 2% instances), -<tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (197; 1% instances), -<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (160; 1% instances), -<tt><a href="en_gum-pos-AUX.html">AUX</a></tt> (127; 1% instances), -<tt><a href="en_gum-pos-X.html">X</a></tt> (23; 0% instances), -<tt><a href="en_gum-pos-DET.html">DET</a></tt> (18; 0% instances), -<tt><a href="en_gum-pos-PART.html">PART</a></tt> (13; 0% instances), -<tt><a href="en_gum-pos-SYM.html">SYM</a></tt> (10; 0% instances), -<tt><a href="en_gum-pos-ADP.html">ADP</a></tt> (9; 0% instances), -<tt><a href="en_gum-pos-CCONJ.html">CCONJ</a></tt> (8; 0% instances).
+The following 15 pairs of parts of speech are connected with `root`: -<tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (9165; 64% instances), -<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (2006; 14% instances), -<tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (1146; 8% instances), -<tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (687; 5% instances), -<tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> (521; 4% instances), -<tt><a href="en_gum-pos-ADV.html">ADV</a></tt> (263; 2% instances), -<tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (197; 1% instances), -<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (160; 1% instances), -<tt><a href="en_gum-pos-AUX.html">AUX</a></tt> (127; 1% instances), -<tt><a href="en_gum-pos-X.html">X</a></tt> (23; 0% instances), -<tt><a href="en_gum-pos-DET.html">DET</a></tt> (18; 0% instances), -<tt><a href="en_gum-pos-PART.html">PART</a></tt> (13; 0% instances), -<tt><a href="en_gum-pos-SYM.html">SYM</a></tt> (10; 0% instances), -<tt><a href="en_gum-pos-ADP.html">ADP</a></tt> (9; 0% instances), -<tt><a href="en_gum-pos-CCONJ.html">CCONJ</a></tt> (8; 0% instances).
 
 
 ~~~ conllu
@@ -58,7 +58,7 @@ The following 15 pairs of parts of speech are connected with `root`: -<tt><a hre
 8	have	have	AUX	VB	VerbForm=Inf	9	aux	9:aux	_
 9	attained	attain	VERB	VBN	Tense=Past|VerbForm=Part	6	csubj	6:csubj	MSeg=attain-ed
 10	such	such	ADJ	JJ	_	14	amod	14:amod	Entity=(13-abstract-giv:act-nnnnn-cf1*-5-coref
-11	native	native	ADJ	JJ	Degree=Pos	13	compound	13:compound	SpaceAfter=No|XML=<w>
+11	native	native	ADJ	JJ	Degree=Pos	13	compound	13:compound	MSeg=nat-ive|SpaceAfter=No|XML=<w>
 12	-	-	PUNCT	HYPH	_	11	punct	11:punct	SpaceAfter=No
 13	like	like	ADJ	JJ	Degree=Pos	14	amod	14:amod	XML=</w>
 14	levels	level	NOUN	NNS	Number=Plur	9	obj	9:obj	Entity=13)18)|MSeg=level-s|SpaceAfter=No

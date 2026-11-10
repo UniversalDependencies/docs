@@ -44,7 +44,7 @@ The following 17 pairs of parts of speech are connected with `dislocated`: <tt><
 5	what	what	PRON	WP	_	7	obj	7:obj	_
 6	that	that	PRON	DT	_	7	nsubj	7:nsubj	_
 7	says	say	VERB	VBZ	_	4	ccomp	4:ccomp	SpaceAfter=No
-8	?	?	PUNCT	?	_	4	punct	4:punct	_
+8	?	?	PUNCT	.	_	4	punct	4:punct	_
 
 ~~~
 
@@ -62,7 +62,7 @@ The following 17 pairs of parts of speech are connected with `dislocated`: <tt><
 5	a	a	DET	DT	_	7	det	7:det	_
 6	good	good	ADJ	JJ	_	7	amod	7:amod	_
 7	idea	idea	NOUN	NN	_	0	root	0:root	SpaceAfter=No
-8	!	!	PUNCT	!	_	7	punct	7:punct	_
+8	!	!	PUNCT	.	_	7	punct	7:punct	_
 
 ~~~
 

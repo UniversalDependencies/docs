@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-59 nodes (3%) are attached to their parents as `nmod`.
+65 nodes (3%) are attached to their parents as `nmod`.
 
-36 instances of `nmod` (61%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.23728813559322.
+36 instances of `nmod` (55%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.24615384615385.
 
-The following 6 pairs of parts of speech are connected with `nmod`: <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt> (46; 78% instances), <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> (9; 15% instances), <tt><a href="xav_xdt-pos-ADP.html">ADP</a></tt>-<tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xav_xdt-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xav_xdt-pos-PART.html">PART</a></tt> (1; 2% instances), <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt> (1; 2% instances).
+The following 7 pairs of parts of speech are connected with `nmod`: <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt> (48; 74% instances), <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> (9; 14% instances), <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xav_xdt-pos-ADP.html">ADP</a></tt> (4; 6% instances), <tt><a href="xav_xdt-pos-ADP.html">ADP</a></tt>-<tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xav_xdt-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xav_xdt-pos-PART.html">PART</a></tt> (1; 2% instances), <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -53,30 +53,24 @@ The following 6 pairs of parts of speech are connected with `nmod`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 9 nmod	color:blue
-1	A'uwẽ	a'uwẽ	NOUN	n	_	14	dislocated	_	_
-2	ãma	ãma	ADP	posp	_	1	case	_	_
-3	hã	hã	PART	prcl	_	1	dep	_	_
-4	,	,	PUNCT	punct	_	1	punct	_	_
-5	wapté	wapté	NOUN	n	_	14	nsubj	_	_
-6	norĩ	_	PART	prcl	Number=Coll	5	dep	_	_
-7	hã	hã	PART	prcl	_	5	dep	_	_
-8	,	,	PUNCT	punct	_	5	punct	_	_
-9	mara	mara	NOUN	n	_	10	nmod	_	_
-10	wa'wa	wa'wa	ADP	posp	_	14	obl	_	no meio
-11	,	,	PUNCT	punct	_	10	punct	_	_
-12	te	te	AUX	aux	Person=Non1|Tense=Pres	14	aux	_	_
-13	're	're	PART	prcl	_	14	dep	_	_
-14	utu	utu	VERB	v	_	0	root	_	leventar-se
-15	za'ra	za'ra	PART	prcl	Number=Plur	5	dep	_	_
-16	sõ're	sõ're	VERB	v	_	14	advcl	_	cantar
-17	da	da	SCONJ	_	_	16	mark	_	para,afim de
-18	hã	hã	PART	prcl	_	16	dep	_	_
-19	.	.	PUNCT	punct	_	16	punct	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 6 nmod	color:blue
+1	Waptéb	wapté	NOUN	n	_	11	nsubj	_	teenager;adolescente
+2	norĩ	norĩ	PART	prcl	Number=Coll	1	dep	_	_
+3	hã	hã	DET	det	_	1	det	_	_
+4	,	,	PUNCT	punct	_	11	punct	_	_
+5	bötö	bötö	NOUN	n	_	11	obl	_	day,sun,time;dia,sol,hora
+6	ré	ré	ADP	posp	_	5	nmod	_	full.of,inside.of,during,while;cheio.de,dentro,do,durante,enquanto,sendo
+7	hã	hã	DET	det	_	5	det	_	_
+8	hö	hö	NOUN	n	_	11	obl	_	singles.house;casa.dos.solteiros
+9	ba	ba	ADP	posp	_	8	case	_	inside,in;dentro.de,em
+10	te	te	AUX	aux	Person=Non1	11	dep	_	_
+11	höimana	höimana	VERB	v	_	0	root	_	be,live,exist;ser,viver,existir
+12	za'ra	za'ra	PART	prcl	Number=Plur	11	dep	_	_
+13	.	.	PUNCT	punct	_	11	punct	_	_
 
 ~~~
 

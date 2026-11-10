@@ -52,7 +52,7 @@ Examples: <em>ci, amal, ar, co, con, ma</em>
 
 `SCONJ` nodes are attached to their parents using 1 different relations: <tt><a href="sga_dipsgg-dep-mark.html">mark</a></tt> (14; 100% instances)
 
-Parents of `SCONJ` nodes belong to 3 different parts of speech: <tt><a href="sga_dipsgg-pos-NOUN.html">NOUN</a></tt> (5; 36% instances), <tt><a href="sga_dipsgg-pos-VERB.html">VERB</a></tt> (5; 36% instances), <tt><a href="sga_dipsgg-pos-ADJ.html">ADJ</a></tt> (4; 29% instances)
+Parents of `SCONJ` nodes belong to 4 different parts of speech: <tt><a href="sga_dipsgg-pos-VERB.html">VERB</a></tt> (5; 36% instances), <tt><a href="sga_dipsgg-pos-ADJ.html">ADJ</a></tt> (4; 29% instances), <tt><a href="sga_dipsgg-pos-NOUN.html">NOUN</a></tt> (4; 29% instances), <tt><a href="sga_dipsgg-pos-PROPN.html">PROPN</a></tt> (1; 7% instances)
 
 14 (100%) `SCONJ` nodes are leaves.
 

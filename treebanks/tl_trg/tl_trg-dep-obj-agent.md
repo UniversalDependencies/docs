@@ -57,7 +57,7 @@ The following 3 pairs of parts of speech are connected with `obj:agent`: <tt><a 
 2	ni	ni	ADP	_	Case=Gen	3	case	_	Gloss=DET
 3	John	John	PROPN	_	Gender=Masc	1	obj:agent	_	Gloss=John
 4	ng	ng	ADP	_	Case=Gen	5	case	_	Gloss=DET
-5	liham	liham	NOUN	_	_	1	obj	_	Gloss=letter
+5	liham	liham	NOUN	_	_	1	iobj:patient	_	Gloss=letter
 6	kay	kay	ADP	_	Case=Dat	7	case	_	Gloss=to
 7	Mary	Mary	PROPN	_	Gender=Fem	1	obl	_	Gloss=Mary
 8	ang	ang	ADP	_	Case=Nom	9	case	_	Gloss=the|MGloss=PIV

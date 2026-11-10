@@ -29,7 +29,7 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 * `Com` (1; 0% of non-empty `Case`): <em>consigo</em>
 * `Dat` (53; 10% of non-empty `Case`): <em>le, les, me, nos</em>
 * `Nom` (8; 2% of non-empty `Case`): <em>yo, Ya, tú</em>
-* `EMPTY` (520): <em>que, su, sus, cual, cuales, quien, tanto, cuál, qué, quienes</em>
+* `EMPTY` (527): <em>que, su, sus, cual, cuales, quien, algo, tanto, cuál, qué</em>
 
 <table>
   <tr><th>Paradigm <i>él</i></th><th><tt>Acc,Dat</tt></th><th><tt>Acc,Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Com</tt></th></tr>

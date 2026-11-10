@@ -17,54 +17,56 @@ The following 24 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 2 xcomp	color:blue
-1	Prot	prast	VERB	vonipi130an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-c13-p43s6w1
-2	panākt	panākt	VERB	vmnn0t1000n	Polarity=Pos|VerbForm=Inf	1	xcomp	1:xcomp	LvtbNodeId=a-c13-p43s6w2|SpaceAfter=No
-3	,	,	PUNCT	zc	_	7	punct	7:punct	LvtbNodeId=a-c13-p43s6w3
-4	ka	ka	SCONJ	cs	_	7	mark	7:mark	LvtbNodeId=a-c13-p43s6w4
-5	viņu	viņš	PRON	pp3msan	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obj	7:obj	LvtbNodeId=a-c13-p43s6w5
-6	visi	viss	DET	pg0mpnn	Case=Nom|Gender=Masc|Number=Plur|PronType=Tot	7	nsubj	7:nsubj	LvtbNodeId=a-c13-p43s6w6
-7	mīl	mīlēt	VERB	vmnipt330an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	2	ccomp	2:ccomp	LvtbNodeId=a-c13-p43s6w7|SpaceAfter=No
-8	.	.	PUNCT	zs	_	1	punct	1:punct	LvtbNodeId=a-c13-p43s6w8
-
-~~~
-
-
-~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 8 xcomp	color:blue
-1	Viņi	viņš	PRON	pp3mpnn	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	4	nsubj	4:nsubj|6:nsubj|8:nsubj	LvtbNodeId=a-c13-p43s2w1
-2	ir	būt	AUX	vcnipii30an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	4:cop	LvtbNodeId=a-c13-p43s2w2
-3	lieli	liels	ADJ	afmpnnp	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	4	amod	4:amod	LvtbNodeId=a-c13-p43s2w3
-4	diplomāti	diplomāts	NOUN	ncmpn1	Case=Nom|Gender=Masc|Number=Plur	0	root	0:root	LvtbNodeId=a-c13-p43s2w4|SpaceAfter=No
-5	,	,	PUNCT	zc	_	6	punct	6:punct	LvtbNodeId=a-c13-p43s2w5
-6	prot	prast	VERB	vonipi130an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	4:conj	LvtbNodeId=a-c13-p43s2w6
-7	būt	būt	AUX	vcnn0ii000n	Polarity=Pos|VerbForm=Inf	8	cop	8:cop	LvtbNodeId=a-c13-p43s2w7
-8	plastiski	plastisks	ADJ	afmpnnp	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	6	xcomp	6:xcomp	LvtbNodeId=a-c13-p43s2w8|SpaceAfter=No
-9	.	.	PUNCT	zs	_	4	punct	4:punct	LvtbNodeId=a-c13-p43s2w9
-
-~~~
-
-
-~~~ conllu
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 5 xcomp	color:blue
-1	Man	es	PRON	pp10sdn	Case=Dat|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj|5:nsubj	LvtbNodeId=a-d197-p115s3w1
-2	gribējās	gribēties	VERB	voyisi330an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Reflex=Yes|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-d197-p115s3w2
-3	būt	būt	AUX	vcnn0ii000n	Polarity=Pos|VerbForm=Inf	5	cop	5:cop	LvtbNodeId=a-d197-p115s3w3
-4	tam	tas	DET	pd3msdn	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Dem	5	det	5:det	LvtbNodeId=a-d197-p115s3w4
-5	draugam	draugs	NOUN	ncmsd1	Case=Dat|Gender=Masc|Number=Sing	2	xcomp	2:xcomp	LvtbNodeId=a-d197-p115s3w5|SpaceAfter=No
-6	.	.	PUNCT	zs	_	2	punct	2:punct	LvtbNodeId=a-d197-p115s3w6
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 5 xcomp	color:blue
+1	Mamma	mamma	NOUN	ncfsn4	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	4:nsubj	LvtbNodeId=a-d123-p76s2w1
+2	ar	ar	ADP	spsa	_	3	case	3:case	LvtbNodeId=a-d123-p76s2w2
+3	procesiju	procesija	NOUN	ncfsa4	Case=Acc|Gender=Fem|Number=Sing	1	nmod	1:nmod:ar	LvtbNodeId=a-d123-p76s2w3
+4	soļoja	soļot	VERB	vmnisi230an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-d123-p76s2w4
+5	neatskatīdamās	atskatīties	VERB	vmyppf0n0000y	Case=Nom|Gender=Fem|Polarity=Neg|Reflex=Yes|VerbForm=Conv	4	xcomp	4:xcomp	LvtbNodeId=a-d123-p76s2w5|SpaceAfter=No
+6	.	.	PUNCT	zs	_	4	punct	4:punct	LvtbNodeId=a-d123-p76s2w6
+
+~~~
+
+
+~~~ conllu
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 7 xcomp	color:blue
+1	Līdz	līdz	ADV	r0n	_	6	advmod	6:advmod	LvtbNodeId=a-p3739-p3s3w1
+2	ar	ar	ADP	spsa	_	3	case	3:case	LvtbNodeId=a-p3739-p3s3w2
+3	to	tas	DET	pd3msan	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Dem	1	iobj	1:iobj	LvtbNodeId=a-p3739-p3s3w3
+4	loģistikas	loģistika	NOUN	ncfsg4	Case=Gen|Gender=Fem|Number=Sing	5	nmod	5:nmod:gen	LvtbNodeId=a-p3739-p3s3w4
+5	pašizmaksa	pašizmaksa	NOUN	ncfsn4	Case=Nom|Gender=Fem|Number=Sing	6	nsubj	6:nsubj|7:nsubj	LvtbNodeId=a-p3739-p3s3w5
+6	kļūšot	kļūt	VERB	vtnrfi100an	Evident=Nfh|Mood=Qot|Polarity=Pos|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-p3739-p3s3w6
+7	lētāka	lēts	ADJ	affsnnc	Case=Nom|Definite=Ind|Degree=Cmp|Gender=Fem|Number=Sing	6	xcomp	6:xcomp	LvtbNodeId=a-p3739-p3s3w7|SpaceAfter=No
+8	.	.	PUNCT	zs	_	6	punct	6:punct	LvtbNodeId=a-p3739-p3s3w8
+
+~~~
+
+
+~~~ conllu
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 10 xcomp	color:blue
+1	Drebēja	drebēt	VERB	vmnisi330an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-d62-p33s7w1
+2	Vidas	Vida	PROPN	npfsg4	Case=Gen|Gender=Fem|Number=Sing	3	nmod	3:nmod:gen	LvtbNodeId=a-d62-p33s7w2
+3	rokas	roka	NOUN	ncfpn4	Case=Nom|Gender=Fem|Number=Plur	1	nsubj	1:nsubj	LvtbNodeId=a-d62-p33s7w3|SpaceAfter=No
+4	,	,	PUNCT	zc	_	5	punct	5:punct	LvtbNodeId=a-d62-p33s7w4
+5	neēda	ēst	VERB	vmnist130ay	Evident=Fh|Mood=Ind|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	1:conj	LvtbNodeId=a-d62-p33s7w5
+6	meita	meita	NOUN	ncfsn4	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	5:nsubj|8:nsubj|10:nsubj	LvtbNodeId=a-d62-p33s7w6|SpaceAfter=No
+7	,	,	PUNCT	zc	_	8	punct	8:punct	LvtbNodeId=a-d62-p33s7w7
+8	palika	palikt	VERB	vtnisi130an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	5:conj	LvtbNodeId=a-d62-p33s7w8
+9	kā	kā	SCONJ	cs	_	10	discourse	10:discourse	LvtbNodeId=a-d62-p33s7w9
+10	skals	skals	NOUN	ncmsn1	Case=Nom|Gender=Masc|Number=Sing	8	xcomp	8:xcomp	LvtbNodeId=a-d62-p33s7w10|SpaceAfter=No
+11	.	.	PUNCT	zs	_	1	punct	1:punct	LvtbNodeId=a-d62-p33s7w11
 
 ~~~
 

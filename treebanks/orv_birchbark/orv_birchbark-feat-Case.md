@@ -10,112 +10,119 @@ This feature is universal.
 It occurs with 7 different values: `Acc`, `Dat`, `Gen`, `Ins`, `Loc`, `Nom`, `Voc`.
 Some words have combined values of the feature; 2 combinations have been observed: `Acc|Gen`, `Acc|Nom`.
 
-11300 tokens (40%) have a non-empty value of `Case`.
-7625 types (66%) occur at least once with a non-empty value of `Case`.
-3102 lemmas (65%) occur at least once with a non-empty value of `Case`.
-The feature is used with 7 part-of-speech tags: <tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt> (4827; 17% instances), <tt><a href="orv_birchbark-pos-PROPN.html">PROPN</a></tt> (2787; 10% instances), <tt><a href="orv_birchbark-pos-PRON.html">PRON</a></tt> (1291; 5% instances), <tt><a href="orv_birchbark-pos-ADJ.html">ADJ</a></tt> (924; 3% instances), <tt><a href="orv_birchbark-pos-DET.html">DET</a></tt> (723; 3% instances), <tt><a href="orv_birchbark-pos-NUM.html">NUM</a></tt> (557; 2% instances), <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt> (191; 1% instances).
+12029 tokens (41%) have a non-empty value of `Case`.
+8114 types (66%) occur at least once with a non-empty value of `Case`.
+3210 lemmas (76%) occur at least once with a non-empty value of `Case`.
+The feature is used with 7 part-of-speech tags: <tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt> (5298; 18% instances), <tt><a href="orv_birchbark-pos-PROPN.html">PROPN</a></tt> (2984; 10% instances), <tt><a href="orv_birchbark-pos-PRON.html">PRON</a></tt> (1392; 5% instances), <tt><a href="orv_birchbark-pos-ADJ.html">ADJ</a></tt> (958; 3% instances), <tt><a href="orv_birchbark-pos-DET.html">DET</a></tt> (731; 2% instances), <tt><a href="orv_birchbark-pos-NUM.html">NUM</a></tt> (458; 2% instances), <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt> (208; 1% instances).
 
 ### `NOUN`
 
-4827 <tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt> tokens (97% of all `NOUN` tokens) have a non-empty value of `Case`.
+5298 <tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt> tokens (97% of all `NOUN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3458; 72%).
+The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3824; 72%).
 
 `NOUN` tokens may have the following values of `Case`:
 
-* `Acc` (1062; 22% of non-empty `Case`): <em>землю, конь, рубль, грамоту, село, грамотѹ, дворъ, коне, кони, отрокъ</em>
-* `Acc,Gen` (7; 0% of non-empty `Case`): <em>брата<lbr/>на, исца, отро{ӏ}ка, родника, сꙑна, трет[ь], ѹѥча</em>
-* `Acc,Nom` (2; 0% of non-empty `Case`): <em>гривнѣ, животъ</em>
-* `Dat` (338; 7% of non-empty `Case`): <em>гн҃у, брату, кꙋне, матери, братѹ, бц҃и, дѣтемъ, дѣтемь, жене, жени</em>
-* `Gen` (1372; 28% of non-empty `Case`): <em>ржи, кѹно, кѹнъ, соли, жита, гривьнъ, гривено, рожи, села, серебра</em>
-* `Ins` (234; 5% of non-empty `Case`): <em>челомъ, целомъ, цоломъ, (челомъ, людми, людьми, братьею, гривьною, дѣтми, женою</em>
-* `Loc` (254; 5% of non-empty `Case`): <em>животѣ, городѣ, дни, землѣ, кони, рꙑбахъ, соли, бозѣ, дн҃и, дорѣ</em>
-* `Nom` (1377; 29% of non-empty `Case`): <em>поклонъ, поклоно, грамота, покланѧние, гривна, кад, приказъ, землѧ, полтин, полтина</em>
-* `Voc` (181; 4% of non-empty `Case`): <em>гн҃е, господине, ѡсподине, ѻсподине, брате, брать, ги҃, ꙩсподине, сподине, ӧсподо</em>
-* `EMPTY` (146): <em>(кѹ)не, [к], гривьнѣ, грив…, коробьи, (бе)<lbr/>рковеска, (бл҃)гослв(лениѥ), (бьр)ковьскь, (г)[р]в҃не, (г)р[а](мота)</em>
+* `Acc` (1145; 22% of non-empty `Case`): <em>поло, полъ, землю, конь, рубль, грамоту, село, городъ, грамотѹ, гривене</em>
+* `Acc,Gen` (11; 0% of non-empty `Case`): <em>татѧ, бра, брата<lbr/>на, д[ѣт](ӏи, исца, отро{ӏ}ка, родника, сꙑна, трет[ь], целовика</em>
+* `Acc,Nom` (5; 0% of non-empty `Case`): <em>(бьрковьс)ка, животъ, се(р)ебро, сꙑно, …адꙑ</em>
+* `Dat` (362; 7% of non-empty `Case`): <em>гн҃у, брату, кꙋне, матери, сн҃у, братѹ, бц҃и, дѣтемъ, дѣтемь, жене</em>
+* `Gen` (1466; 28% of non-empty `Case`): <em>ржи, кѹно, кѹнъ, жита, соли, гривено, рожи, гривьнъ, блъ, села</em>
+* `Ins` (244; 5% of non-empty `Case`): <em>целомъ, челомъ, людми, цоломъ, (челомъ, гривьною, людьми, чоломъ, братьею, дѣтми</em>
+* `Loc` (270; 5% of non-empty `Case`): <em>животѣ, городѣ, дни, землѣ, кони, рꙑбахъ, соли, бозѣ, горь, дн҃и</em>
+* `Nom` (1607; 30% of non-empty `Case`): <em>поклонъ, поклоно, поло, полъ, покланѧние, грамота, гривна, пло, кад, приказъ</em>
+* `Voc` (188; 4% of non-empty `Case`): <em>гн҃е, господине, ѡсподине, ѻсподине, брате, брать, гн҃ь, ꙩсподине, ги҃, ꙩспн҃е</em>
+* `EMPTY` (145): <em>(кѹ)не, гривн…, гривьнѣ, коробьи, (бл҃)гослв(лениѥ), (бьр)ковьскь, (г)[р]в҃не, (г)р[а](мота), (гр)[и]в[ь]нъ, (гра)<lbr/>мтоту</em>
 
 <table>
-  <tr><th>Paradigm <i>сынъ</i></th><th><tt>Acc,Gen</tt></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Voc</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th></tr>
-  <tr><td><tt><tt><a href="orv_birchbark-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>(с)[н҃а]</em></td><td></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="orv_birchbark-feat-Fragment.html">Fragment</a></tt><tt>=Yes</tt>|<tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>с…</em></td><td></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>сꙑна</em></td><td><em>сꙑно, сꙑнъ, сино, сн҃о, снъ, снъ</em></td><td><em>сн҃а, сꙑно, сн҃(а), сна, соно</em></td><td><em>сн҃у, сину, (съну, (сꙑ)[ну], с)ꙑнꙋ, синови, синю, сн҃]ꙋ, сн҃ѹ, сну</em></td><td><em>сн҃а, сꙑна, съ҃на, сꙑнѹ</em></td><td><em>сѹнѹ</em></td><td><em>снꙑ</em></td><td><em>[с]ꙑн[ъ]мъ, нъмн, сꙑном</em></td></tr>
-  <tr><td><tt><tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td></td><td><em>синъ<lbr/>(мъ</em></td><td></td><td></td><td></td><td></td></tr>
+  <tr><th>Paradigm <i>сынъ</i></th><th><tt>Acc,Gen</tt></th><th><tt>Acc,Nom</tt></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Voc</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th></tr>
+  <tr><td><tt><tt><a href="orv_birchbark-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td></td><td><em>(с)[н҃а]</em></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="orv_birchbark-feat-Fragment.html">Fragment</a></tt><tt>=Yes</tt>|<tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>с҃](нъ)</em></td><td><em>с…</em></td><td><em>(сꙑ)[ну], сꙑн[о](у)</em></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>сꙑна</em></td><td><em>сꙑно</em></td><td><em>сꙑно, сꙑнъ, сино, сн҃о, снъ, снъ</em></td><td><em>сн҃а, сн҃(а), сна, сꙑно</em></td><td><em>сн҃у, сину, с)ꙑнꙋ, синови, синю, сн҃]ꙋ, сн҃ѹ, сну</em></td><td><em>сн҃а, сꙑна, сина, съ҃на, сꙑнѹ</em></td><td><em>сѹнѹ</em></td><td></td><td><em>[с]ꙑн[ъ]мъ, сн҃омъ, сꙑном</em></td></tr>
+  <tr><td><tt><tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="orv_birchbark-feat-Typo.html">Typo</a></tt><tt>=Yes</tt></tt></td><td></td><td></td><td></td><td><em>соно</em></td><td></td><td><em>сн҃са</em></td><td></td><td><em>снꙑ</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td></td><td></td><td><em>синъ<lbr/>(мъ</em></td><td></td><td></td><td></td><td></td></tr>
 </table>
 
 ### `PROPN`
 
-2787 <tt><a href="orv_birchbark-pos-PROPN.html">PROPN</a></tt> tokens (98% of all `PROPN` tokens) have a non-empty value of `Case`.
+2984 <tt><a href="orv_birchbark-pos-PROPN.html">PROPN</a></tt> tokens (98% of all `PROPN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PROPN` and `Case` co-occurred: <tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2654; 95%), <tt><a href="orv_birchbark-feat-NameType.html">NameType</a></tt><tt>=Giv</tt> (2346; 84%), <tt><a href="orv_birchbark-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (2232; 80%).
+The most frequent other feature values with which `PROPN` and `Case` co-occurred: <tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2847; 95%), <tt><a href="orv_birchbark-feat-NameType.html">NameType</a></tt><tt>=Giv</tt> (2535; 85%), <tt><a href="orv_birchbark-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (2407; 81%).
 
 `PROPN` tokens may have the following values of `Case`:
 
-* `Acc` (134; 5% of non-empty `Case`): <em>евана, ѳедора, ивана, лугу, (с)[мо]на, ---[и]ж[ин](а), [сл]а[в]…, борана, бꙑковщи[н]у, в]игуѧ</em>
-* `Acc,Gen` (8; 0% of non-empty `Case`): <em>вицка, ивана, иванца, кондратка, мꙑсла…, орка, павла, теретиѧ</em>
-* `Dat` (636; 23% of non-empty `Case`): <em>ивану, максиму, сидору, смену, юрью, гюргю, иванѹ, михаилу, петръкѹ, савѣ</em>
-* `Gen` (1164; 42% of non-empty `Case`): <em>петра, ивана, бориса, степана, павла, смена, евана, завида, михалѧ, стьпана</em>
-* `Ins` (91; 3% of non-empty `Case`): <em>ѥлбугою, (кл)имом, (ѡк)сент[и]ѥмо, -----(-)<lbr/>вичомꙑ, --<lbr/>аномо, асафъмь, борисоглибом<lbr/>о, борисомо, васил[ь]ѥмъ, велицковѣ</em>
-* `Loc` (202; 7% of non-empty `Case`): <em>городищи, куролѣ, кшетахъ, лаидиколѣ, мълъвотицѣхъ, м…, озеревахъ, рѹсѣ, сидоре, шидовицихъ</em>
-* `Nom` (534; 19% of non-empty `Case`): <em>мариѧ, сихаилъ, хрс҃тъ, иване, ѧна, давꙑдъ, настасиѧ, сихаїлъ, ѧкиме, ӏѡ҃</em>
-* `Voc` (18; 1% of non-empty `Case`): <em>[л]авре, ·ꙩ·стафе, Маренко, данило, захарие, илько, куре, марие, марке, милѧто</em>
-* `EMPTY` (56): <em>мароѳу, (к)оромилице, (ѥ)[р]мълѣ, -------, -осогорꙋ, Жид[ѧ]…, аѳон-, аѳ…, а…, би<lbr/>…</em>
+* `Acc` (135; 5% of non-empty `Case`): <em>евана, ѳедора, ивана, лугу, (с)[мо]на, ---[и]ж[ин](а), [сл]а[в]…, борана, бꙑковщи[н]у, в]игуѧ</em>
+* `Acc,Gen` (13; 0% of non-empty `Case`): <em>вицка, ивана, иванца, иг҃нат<lbr/>ъ·ꙗ, иевана, кондратка, мꙑсла…, орка, павла, теретиѧ</em>
+* `Dat` (663; 22% of non-empty `Case`): <em>ивану, максиму, сидору, смену, юрью, гюргю, иванѹ, михаилу, петръкѹ, савѣ</em>
+* `Gen` (1313; 44% of non-empty `Case`): <em>петра, ивана, бориса, смена, степана, павла, евана, завида, лазорѧ, михалѧ</em>
+* `Ins` (89; 3% of non-empty `Case`): <em>волосомо, ѥлбугою, (кл)имом, (ѡк)сент[и]ѥмо, -----(-)<lbr/>вичомꙑ, --<lbr/>аномо, [ѧ]рꙑшьмъ, асафъмь, борисоглибом<lbr/>о, борисомо</em>
+* `Loc` (204; 7% of non-empty `Case`): <em>городищи, куролѣ, кшетахъ, лаидиколѣ, мълъвотицѣхъ, м…, озеревахъ, рѹсѣ, сидоре, шидовицихъ</em>
+* `Nom` (548; 18% of non-empty `Case`): <em>мариѧ, сихаилъ, хрс҃тъ, ѧна, иване, давꙑдъ, настасиѧ, сихаїлъ, ѧкиме, ѳедоре</em>
+* `Voc` (19; 1% of non-empty `Case`): <em>[л]авре, ·ꙩ·стафе, Маренко, данило, захарие, илько, куре, марие, марке, милѧто</em>
+* `EMPTY` (56): <em>мароѳу, (Га)[вр]и[л]о, (к)оромилице, (к)осогорѫ, (ѥ)[р]мълѣ, [м]икифо(р)…, [н]а, Жид[ѧ]…, аѳон-, аѳ…</em>
 
 <table>
   <tr><th>Paradigm <i>Иванъ</i></th><th><tt>Acc,Gen</tt></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th></tr>
-  <tr><td><tt></tt></td><td><em>ивана</em></td><td><em>иване, ӏване, и[ва](н)…, и[ва]не, ива</em></td><td><em>ивана</em></td><td><em>ивану, иванѹ, [·ӏ]·вану, виванѹ, ив<lbr/>ану, иван-, иван, їванѹ</em></td><td><em>ивана, [и]вана, вана, ива(на)</em></td><td><em>ивани</em></td><td><em>ꙑваномъ</em></td></tr>
-  <tr><td><tt><tt><a href="orv_birchbark-feat-Typo.html">Typo</a></tt><tt>=Yes</tt></tt></td><td></td><td></td><td></td><td></td><td><em>ивана</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="orv_birchbark-feat-Fragment.html">Fragment</a></tt><tt>=Yes</tt></tt></td><td></td><td><em>и[ва](н)…</em></td><td></td><td></td><td><em>ива(на)</em></td><td></td><td></td></tr>
+  <tr><td><tt></tt></td><td><em>ивана</em></td><td><em>иване, ӏване, и[ва]не</em></td><td><em>ивана</em></td><td><em>ивану, иванѹ, [·ӏ]·вану, виванѹ, ив<lbr/>ану, иван-, иван, їванѹ, ꙑванѹ</em></td><td><em>ивана, [:ӏ:]вана, [и]вана, вана</em></td><td><em>ивани</em></td><td><em>иваномъ, ꙑваномъ</em></td></tr>
+  <tr><td><tt><tt><a href="orv_birchbark-feat-Typo.html">Typo</a></tt><tt>=Yes</tt></tt></td><td></td><td></td><td></td><td></td><td><em>ивана, иванна</em></td><td></td><td></td></tr>
 </table>
 
 ### `PRON`
 
-1291 <tt><a href="orv_birchbark-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Case`.
+1392 <tt><a href="orv_birchbark-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="orv_birchbark-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1137; 88%), <tt><a href="orv_birchbark-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (1071; 83%), <tt><a href="orv_birchbark-feat-Clitic.html">Clitic</a></tt><tt>=EMPTY</tt> (984; 76%), <tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=Sing</tt> (892; 69%).
+The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="orv_birchbark-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (1216; 87%), <tt><a href="orv_birchbark-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1085; 78%), <tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1081; 78%), <tt><a href="orv_birchbark-feat-Clitic.html">Clitic</a></tt><tt>=EMPTY</tt> (1066; 77%).
 
 `PRON` tokens may have the following values of `Case`:
 
-* `Acc` (285; 22% of non-empty `Case`): <em>сѧ, мѧ, тѧ, мене, что, ю, цто, се, ѥго, его</em>
-* `Acc,Gen` (11; 1% of non-empty `Case`): <em>ѥго, ме, насъ, васъ, его, не, нихъ</em>
-* `Dat` (425; 33% of non-empty `Case`): <em>ми, ти, тобѣ, мнѣ, намъ, собѣ, тоби, тобе, вамъ, емѹ</em>
-* `Gen` (160; 12% of non-empty `Case`): <em>мене, тебе, ѥго, его, мьнь, насъ, него, себе, кого, васъ</em>
-* `Ins` (70; 5% of non-empty `Case`): <em>мною, тобою, вами, мъною, нами, кꙑмъ, ними, нимо, нимь, собо<lbr/>ю</em>
-* `Loc` (35; 3% of non-empty `Case`): <em>собѣ, мнѣ, [соби], неи, немь, собе, томъ, в[а]ю, васо, васъ</em>
-* `Nom` (305; 24% of non-empty `Case`): <em>тꙑ, ѧ, ѧзъ, ѧзо, цто, что, азъ, вꙑ, ꙗзъ, мꙑ</em>
-* `EMPTY` (5): <em>мни, себѣ, сѧ, ѧ<lbr/>(зъ), ӏ(хъ</em>
+* `Acc` (305; 22% of non-empty `Case`): <em>сѧ, мѧ, тѧ, мене, что, ю, цто, ѥго, его, то</em>
+* `Acc,Gen` (15; 1% of non-empty `Case`): <em>насъ, ѥго, его, ме, ме(н)ѧ, мене, мьне, насо, не, нихъ</em>
+* `Dat` (465; 33% of non-empty `Case`): <em>ми, ти, тобѣ, мнѣ, намъ, тобе, тоби, вамъ, емѹ, мни</em>
+* `Gen` (174; 13% of non-empty `Case`): <em>мене, тебе, ѥго, его, мьнь, насъ, него, васъ, кого, себе</em>
+* `Ins` (73; 5% of non-empty `Case`): <em>мною, тобою, вами, нами, кꙑмъ, мъною, ними, нимо, нимь, ницимъ</em>
+* `Loc` (37; 3% of non-empty `Case`): <em>мнѣ, собѣ, неи, немъ, немь, томъ, [них, [соби], в[а]ю, васо</em>
+* `Nom` (323; 23% of non-empty `Case`): <em>тꙑ, ѧ, ѧзъ, ѧзо, что, цто, вꙑ, азъ, мꙑ, ꙗзъ</em>
+* `EMPTY` (3): <em>мни, сѧ, ѧ<lbr/>(зъ)</em>
 
 <table>
   <tr><th>Paradigm <i>ꙗзъ</i></th><th><tt>Acc,Gen</tt></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th></tr>
-  <tr><td><tt><tt><a href="orv_birchbark-feat-Clitic.html">Clitic</a></tt><tt>=No</tt>|<tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="orv_birchbark-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td></td><td></td><td><em>мне</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="orv_birchbark-feat-Clitic.html">Clitic</a></tt><tt>=No</tt>|<tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="orv_birchbark-feat-PronType.html">PronType</a></tt><tt>=Prs</tt>|<tt><a href="orv_birchbark-feat-Typo.html">Typo</a></tt><tt>=Yes</tt></tt></td><td><em>не</em></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="orv_birchbark-feat-Clitic.html">Clitic</a></tt><tt>=Yes</tt>|<tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>мѧ, [м]ѧ, [мѧ]</em></td><td><em>ми, [м]и, {м}ми, м[и]</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="orv_birchbark-feat-Clitic.html">Clitic</a></tt><tt>=Yes</tt>|<tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="orv_birchbark-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td></td><td></td><td><em>ми</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>ме</em></td><td><em>ѧ, ѧзъ, ѧзо, азъ, ꙗзъ, [ѧ, азо, ꙗзо, (ѧ)[зъ], (ѧ)зъ, [ѧ]зо, [ꙗз]ъ, ·ѧ·, а<lbr/>зъ, ѧ[зъ], ѧ]з[ъ], ѧз(ъ), ѧз[ъ], ѧза, ѧс, ѧсо, …<lbr/>ѧ, …ѧ, ꙗз[ъ]</em></td><td><em>мене, менѧ, мьне, мьнь, [мѧ], ме(не)</em></td><td><em>мнѣ, ми, мни, мне, мънѣ, моне, мъне, (мъ)нѣ, -ъне, м[и], м[нь, м]не, мон(е), монь, монѣ, мьне</em></td><td><em>мене, мьнь, м)ене, м<lbr/>ене, ме<lbr/>не, мен[е], мень, менѧ, ми, мьн<lbr/>ь, мьне</em></td><td><em>мнѣ, мне</em></td><td><em>мною, мъною, [м]ною, м[ъ](но)[ю], мно, мнъю, моною</em></td></tr>
-  <tr><td><tt><tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="orv_birchbark-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td><em>ѧ, ꙗзъ</em></td><td></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt></tt></td><td></td><td></td><td><em>ме)[н]ѧ</em></td><td><em>мне</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="orv_birchbark-feat-Clitic.html">Clitic</a></tt><tt>=Yes</tt>|<tt><a href="orv_birchbark-feat-Fragment.html">Fragment</a></tt><tt>=Yes</tt>|<tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="orv_birchbark-feat-Person.html">Person</a></tt><tt>=1</tt></tt></td><td></td><td></td><td></td><td><em>ми</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="orv_birchbark-feat-Clitic.html">Clitic</a></tt><tt>=Yes</tt>|<tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="orv_birchbark-feat-Person.html">Person</a></tt><tt>=1</tt></tt></td><td></td><td></td><td><em>мѧ, [мѧ], [м]ѧ</em></td><td><em>ми, м[и], [м]и, {м}ми</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="orv_birchbark-feat-Fragment.html">Fragment</a></tt><tt>=Yes</tt>|<tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="orv_birchbark-feat-Person.html">Person</a></tt><tt>=1</tt></tt></td><td></td><td><em>(ѧ)[зъ], ѧз(ъ), …<lbr/>ѧ, …ѧ</em></td><td><em>ме(не</em></td><td><em>(мъ)нѣ, -ъне, [м]н(е)</em></td><td><em>м)ене</em></td><td></td><td><em>м[ъ](но)[ю]</em></td></tr>
+  <tr><td><tt><tt><a href="orv_birchbark-feat-Fragment.html">Fragment</a></tt><tt>=Yes</tt>|<tt><a href="orv_birchbark-feat-Person.html">Person</a></tt><tt>=1</tt></tt></td><td></td><td></td><td><em>ме)[н]ѧ</em></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="orv_birchbark-feat-Person.html">Person</a></tt><tt>=1</tt></tt></td><td><em>ме, ме(н)ѧ, мене, мьне</em></td><td><em>ѧ, ѧзъ, ѧзо, азъ, ꙗзъ, [ѧ, азо, ꙗзо, [ѧ]зо, [ꙗз]ъ, ·ѧ·, а<lbr/>зъ, ѧ)зъ, ѧ[зъ], ѧ]з[ъ], ѧз[ъ], ѧза, ѧс, ѧсо, ꙗз[ъ]</em></td><td><em>мене, менѧ, мьне, мьнь, ме[·]не</em></td><td><em>мнѣ, мни, мне, мънѣ, моне, мъне, (мъ)нѣ, м[нь, м]не, мн[ѣ], мо[нѣ], мон(е), монь, монѣ, мън, мьне</em></td><td><em>мене, мьнь, м<lbr/>ене, ме<lbr/>не, мен[е], мень, менѧ, мне, мнѣ, мьн<lbr/>ь, мьне</em></td><td><em>мнѣ, мне</em></td><td><em>мною, мъною, [м]ною, м)ною, мно, мнъю, моною, мъною}</em></td></tr>
+  <tr><td><tt><tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="orv_birchbark-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="orv_birchbark-feat-Typo.html">Typo</a></tt><tt>=Yes</tt></tt></td><td><em>не</em></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>ѧзо</em></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="orv_birchbark-feat-Person.html">Person</a></tt><tt>=1</tt></tt></td><td></td><td></td><td></td><td><em>мне</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt></tt></td><td></td><td></td><td><em>мене</em></td><td></td><td></td><td></td><td></td></tr>
 </table>
 
 ### `ADJ`
 
-924 <tt><a href="orv_birchbark-pos-ADJ.html">ADJ</a></tt> tokens (97% of all `ADJ` tokens) have a non-empty value of `Case`.
+958 <tt><a href="orv_birchbark-pos-ADJ.html">ADJ</a></tt> tokens (97% of all `ADJ` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=Sing</tt> (713; 77%), <tt><a href="orv_birchbark-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (655; 71%), <tt><a href="orv_birchbark-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (632; 68%).
+The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="orv_birchbark-feat-NumForm.html">NumForm</a></tt><tt>=EMPTY</tt> (865; 90%), <tt><a href="orv_birchbark-feat-NumType.html">NumType</a></tt><tt>=EMPTY</tt> (865; 90%), <tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=Sing</tt> (739; 77%), <tt><a href="orv_birchbark-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (671; 70%), <tt><a href="orv_birchbark-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (647; 68%).
 
 `ADJ` tokens may have the following values of `Case`:
 
-* `Acc` (159; 17% of non-empty `Case`): <em>дворнюю, другую, (в)ѣ[чьн](у), (д)анилово, --------<lbr/>вуѥва, --[х]имовѣ, [тре]<lbr/>теее, Вьцерьнѧѧ, бесудну<lbr/>(ю), бесудную</em>
+* `Acc` (155; 16% of non-empty `Case`): <em>дворнюю, (в)ѣ[чьн](у), (д)анилово, --------<lbr/>вуѥва, --[х]имовѣ, [тре]<lbr/>теее, Вьцерьнѧѧ, бесудну<lbr/>(ю), бесудную, бж҃ии</em>
 * `Acc,Gen` (2; 0% of non-empty `Case`): <em>дро<lbr/>здова, ꙩнцифорова</em>
-* `Dat` (51; 6% of non-empty `Case`): <em>варѧж<lbr/>…, ст҃ѣ, турабьѥвѣ, (с)тар[ѣ]шимъ, -----<lbr/>скини, [ст҃](м)[у], бьсудьнои, вьликомѹ, вѣ<lbr/>ликее, гробенꙑимо</em>
-* `Gen` (277; 30% of non-empty `Case`): <em>проста, трьтиѧ, велика, пѧта, ст҃го, добра, зелоного, пѧте, пѧть, пѧтѣ</em>
-* `Ins` (23; 2% of non-empty `Case`): <em>(л)юдними, [л]уговою, [с]ѣроӏ, болшимо, гу(р)ьѥвꙑм, доброю, добрꙑ<lbr/>мъ, дубницкимъ, желутковꙑмъ, илиӏн<lbr/>скимъ</em>
-* `Loc` (63; 7% of non-empty `Case`): <em>борзи, борзѣ, коневꙑхъ, (с)[т]арои, б[ор](зи), бо)<lbr/>рзѣхо, борзе, борожь, борозе, борозѣ</em>
-* `Nom` (346; 37% of non-empty `Case`): <em>добро, гнѣд, здорово, бж҃и, бѣла, бѣлонога, виновате, ворон, годьнъ, десѧтаꙗ</em>
+* `Acc,Nom` (1; 0% of non-empty `Case`): <em>…льша…ѥво</em>
+* `Dat` (52; 5% of non-empty `Case`): <em>ст҃ѣ, турабьѥвѣ, (с)тар[ѣ]шимъ, -----<lbr/>скини, [мику]<lbr/>линьскому, [р](а)[з]ум[ну, [ст҃](м)[у], бьсудьнои, варѧж<lbr/>…, вьликомѹ</em>
+* `Gen` (298; 31% of non-empty `Case`): <em>проста, велика, пѧта, ст҃го, трьтиѧ, добра, зелоного, пѧте, пѧть, пѧтѣ</em>
+* `Ins` (29; 3% of non-empty `Case`): <em>(л)юдними, -арин[овꙑ]…, [л]уговою, бедена{на}ми, болшимо, гу(р)ьѥвꙑм, доброю, добрꙑ<lbr/>мъ, дубницкимъ, желутковꙑмъ</em>
+* `Loc` (63; 7% of non-empty `Case`): <em>борзи, борзѣ, коневꙑхъ, (с)[т]арои, [в](аси)<lbr/>левѣ, б[ор](зи), бо)<lbr/>рзѣхо, борзе, борожь, борозе</em>
+* `Nom` (355; 37% of non-empty `Case`): <em>добро, гнѣд, здорово, бж҃и, бѣла, бѣлонога, виновате, ворон, годьнъ, десѧтаꙗ</em>
 * `Voc` (3; 0% of non-empty `Case`): <em>(свѧ)<lbr/>тꙑе, злаѧ, поганꙑи</em>
-* `EMPTY` (28): <em>(д)митрову, (св)[об]однꙑхо, :ѕ҃:, [д]рѹ[г]…, [д҃:], [р]жа, болша, в҃:, горъзно, г҃:]</em>
+* `EMPTY` (27): <em>(д)митрову, (мь)[ртъвъ], (св)[об]однꙑхо, :[д҃:], :в҃:, :г҃:], :е҃:, :з҃:, :и҃:, :ѕ҃:</em>
 
 <table>
   <tr><th>Paradigm <i>свѧтыи</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Voc</tt></th></tr>
   <tr><td><tt><tt><a href="orv_birchbark-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="orv_birchbark-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td></td><td><em>ст҃го, ст҃ого</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="orv_birchbark-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>свѧтꙑ, ст҃ꙑ, ст҃ꙑ[и, ст҃ꙑи</em></td><td><em>ст҃го</em></td><td><em>[ст҃](м)[у], ст҃ому</em></td><td><em>ст҃го, (св҃)[т]аго, свгто, свѧ[т]-[го, св҃ѧ[т]о<lbr/>(го, сгто, ст҃ого, ст[о]го</em></td><td><em>(свѧ)<lbr/>тꙑе</em></td></tr>
+  <tr><td><tt><tt><a href="orv_birchbark-feat-Fragment.html">Fragment</a></tt><tt>=Yes</tt>|<tt><a href="orv_birchbark-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td></td><td><em>(св҃)[т]аго, св҃ѧ[т]о<lbr/>(го</em></td><td><em>(свѧ)<lbr/>тꙑе</em></td></tr>
+  <tr><td><tt><tt><a href="orv_birchbark-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>свѧтꙑ, ст҃ꙑ, ст҃ꙑ[и, ст҃ꙑи</em></td><td><em>ст҃го</em></td><td><em>[ст҃](м)[у], ст҃ому</em></td><td><em>ст҃го, свгто, свѧ[т]-[го, ст҃ого, ст[о]го</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="orv_birchbark-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="orv_birchbark-feat-Typo.html">Typo</a></tt><tt>=Yes</tt></tt></td><td></td><td></td><td></td><td><em>сгто</em></td><td></td></tr>
   <tr><td><tt><tt><a href="orv_birchbark-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td></td><td><em>ст҃хъ, ст҃ꙑх</em></td><td></td></tr>
   <tr><td><tt><tt><a href="orv_birchbark-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>свѧтее, ст҃ѣ</em></td><td><em>ст҃<lbr/>ѣ, ст҃е<lbr/>е, ст҃ье, ст҃ѣ</em></td><td></td></tr>
   <tr><td><tt><tt><a href="orv_birchbark-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="orv_birchbark-feat-Variant.html">Variant</a></tt><tt>=Short</tt></tt></td><td></td><td></td><td><em>ст҃ѣ</em></td><td><em>ст҃ѣ</em></td><td></td></tr>
@@ -126,87 +133,93 @@ The most frequent other feature values with which `ADJ` and `Case` co-occurred: 
 
 ### `DET`
 
-723 <tt><a href="orv_birchbark-pos-DET.html">DET</a></tt> tokens (98% of all `DET` tokens) have a non-empty value of `Case`.
+731 <tt><a href="orv_birchbark-pos-DET.html">DET</a></tt> tokens (99% of all `DET` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=Sing</tt> (578; 80%).
+The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="orv_birchbark-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (627; 86%), <tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=Sing</tt> (594; 81%), <tt><a href="orv_birchbark-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (419; 57%).
 
 `DET` tokens may have the following values of `Case`:
 
-* `Acc` (198; 27% of non-empty `Case`): <em>то, свои, свою, мою, ту, мое, твою, твоѥ, того, [т]о</em>
-* `Acc,Gen` (2; 0% of non-empty `Case`): <em>моѥго, своѥго</em>
-* `Dat` (121; 17% of non-empty `Case`): <em>своѥму, моѥму, моѥи, никому, никомѹ, семѹ, тому, моѥӏ, своему, своѥи</em>
-* `Gen` (104; 14% of non-empty `Case`): <em>того, моего, моѥго, сего, твоѥго, всѣхъ, вхого, мъихъ, нашихо, св[о]…</em>
-* `Ins` (38; 5% of non-empty `Case`): <em>ницимъ, же, моими, своими, тими, томо, (моӏ)мо, [т]вое[ӏ], вашимъ, всимо</em>
-* `Loc` (64; 9% of non-empty `Case`): <em>томъ, томо, томь, своѥмь, своѥмъ, (т)омо, (то)<lbr/>мъ, [них, [т]омь, анихъ</em>
-* `Nom` (196; 27% of non-empty `Case`): <em>то, моѧ, мои, твои, саме, самь, сама, твоѧ, иже, само</em>
-* `EMPTY` (16): <em>(с)въѥи, [в]…, [вох](о, азо, в)[ꙑ], д]ру…, дрꙋ[г]-[ѣ], же, кот<lbr/>…, которои</em>
+* `Acc` (195; 27% of non-empty `Case`): <em>то, свою, свои, мою, ту, мое, другую, твою, твоѥ, [т]о</em>
+* `Acc,Gen` (5; 1% of non-empty `Case`): <em>моѥго, своего, своѥго, своӏхъ, того</em>
+* `Acc,Nom` (1; 0% of non-empty `Case`): <em>т[в]…</em>
+* `Dat` (113; 15% of non-empty `Case`): <em>своѥму, моѥму, моѥи, своѥи, семѹ, тому, моѥӏ, своему, моеи, моемѹ</em>
+* `Gen` (109; 15% of non-empty `Case`): <em>того, моѥго, моего, сего, всихъ, твоѥго, всѣхъ, вхого, мъихъ, нашихо</em>
+* `Ins` (30; 4% of non-empty `Case`): <em>моими, своими, тими, (моӏ)мо, [т]вое[ӏ], вашимъ, всимо, вхим[и], вь<lbr/>сьмь, мо(ѥю)</em>
+* `Loc` (70; 10% of non-empty `Case`): <em>томъ, томо, томь, своѥмь, своѥмъ, (то)<lbr/>мъ, [т]омь, анихъ, ва<lbr/>шемо, вашеи</em>
+* `Nom` (208; 28% of non-empty `Case`): <em>то, моѧ, мои, твои, саме, самь, сама, твоѧ, иже, моӏ</em>
+* `EMPTY` (10): <em>(с)въѥи, [в]…, [д]рѹ[г]…, д]ру…, кот<lbr/>…, которои, мое[и, моѥ, мо…, свъѥ<lbr/>…</em>
 
 <table>
-  <tr><th>Paradigm <i>мои</i></th><th><tt>Acc,Gen</tt></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th></tr>
-  <tr><td><tt><tt><a href="orv_birchbark-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="orv_birchbark-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>моего</em></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="orv_birchbark-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td><em>моӏхъ</em></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="orv_birchbark-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>моѥго</em></td><td><em>мои, мо(и), моӏ, мъ<lbr/>ѥ, мъѥ</em></td><td><em>моега, мои, моѥго, мъи</em></td><td><em>моѥму, моемѹ, м(ое)<lbr/>мꙋ, м)[ое]му, мо)<lbr/>ѥмо, моемꙋ</em></td><td><em>моѥго, моего, мо:е:го</em></td><td><em>мо<lbr/>(ѥ)[м]о</em></td><td><em>(моӏ)мо, моимъ, моӏмо</em></td></tr>
-  <tr><td><tt><tt><a href="orv_birchbark-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=Dual</tt></tt></td><td></td><td><em>моѧ</em></td><td></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="orv_birchbark-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>моӏ, [мо]ӏ</em></td><td><em>мое</em></td><td><em>моимъ</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="orv_birchbark-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>моѧ</em></td><td><em>мою, мо:ю, мою], мъю</em></td><td><em>моѥи, моѥӏ, моеи, [моеи]…, м<lbr/>оеи, мое, моѥ, мъѥи</em></td><td></td><td><em>м[о](ѥи), м[о]є[и], м]оѥи</em></td><td><em>мо(ѥю)</em></td></tr>
-  <tr><td><tt><tt><a href="orv_birchbark-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>мо[и</em></td><td><em>моӏ</em></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="orv_birchbark-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>мое</em></td><td><em>-[ое, мое</em></td><td></td><td><em>моего, мо<lbr/>ѥго, моѥго</em></td><td><em>моемо</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="orv_birchbark-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=Dual</tt></tt></td><td></td><td></td><td><em>мое</em></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="orv_birchbark-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>моѧ</em></td><td></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td></td><td><em>м(о)имъ, мои[м](ъ), моимъ</em></td><td><em>мъихъ, моихъ, моӏхо, моӏхь</em></td><td><em>мо[их]о</em></td><td><em>моими</em></td></tr>
+  <tr><th>Paradigm <i>тотъ</i></th><th><tt>Acc,Gen</tt></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th></tr>
+  <tr><td><tt><tt><a href="orv_birchbark-feat-Fragment.html">Fragment</a></tt><tt>=Yes</tt>|<tt><a href="orv_birchbark-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td></td><td></td><td><em>того</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="orv_birchbark-feat-Fragment.html">Fragment</a></tt><tt>=Yes</tt>|<tt><a href="orv_birchbark-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>то, т(о</em></td><td></td><td><em>(т)[о]го</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="orv_birchbark-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>того</em></td><td><em>тъ, те, то, тъто</em></td><td><em>того, то, тото</em></td><td><em>томѹ, томуо, тъмѹ</em></td><td><em>того</em></td><td><em>томо, томъ, томь</em></td><td><em>т[ꙑ](мъ), тиме</em></td></tr>
+  <tr><td><tt><tt><a href="orv_birchbark-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>те, ти, тѣ</em></td><td><em>тꙑ, тꙑи, тꙑхъ</em></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="orv_birchbark-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>та</em></td><td><em>ту, тꙋ, [т]ѹ</em></td><td><em>тои, то:е</em></td><td><em>тои, тоѣ</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="orv_birchbark-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=Dual</tt></tt></td><td></td><td></td><td><em>тѣ</em></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="orv_birchbark-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>тѣ</em></td><td><em>тѣ, тꙑи</em></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="orv_birchbark-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>то, [т]о, [то</em></td><td><em>то, [т]о, (т)о, т[о]</em></td><td><em>тому, то<lbr/>мѹ</em></td><td><em>того, тога, [тог]о, то[го]</em></td><td><em>томъ, томо, томь, (то)<lbr/>мъ, [т]омь, то<lbr/>мо, том</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="orv_birchbark-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td><em>таѧ</em></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=Dual</tt></tt></td><td></td><td></td><td></td><td></td><td></td><td><em>тию</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td></td><td><em>тимъ</em></td><td><em>техъ, тихъ, тѣх, тꙑх</em></td><td><em>тꙑх, тꙑхъ</em></td><td><em>тими, тим[ъ], тꙑми</em></td></tr>
 </table>
 
 ### `NUM`
 
-557 <tt><a href="orv_birchbark-pos-NUM.html">NUM</a></tt> tokens (43% of all `NUM` tokens) have a non-empty value of `Case`.
+458 <tt><a href="orv_birchbark-pos-NUM.html">NUM</a></tt> tokens (38% of all `NUM` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NUM` and `Case` co-occurred: <tt><a href="orv_birchbark-feat-NumForm.html">NumForm</a></tt><tt>=EMPTY</tt> (527; 95%), <tt><a href="orv_birchbark-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (400; 72%), <tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (356; 64%).
+The most frequent other feature values with which `NUM` and `Case` co-occurred: <tt><a href="orv_birchbark-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (422; 92%), <tt><a href="orv_birchbark-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (401; 88%), <tt><a href="orv_birchbark-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (288; 63%).
 
 `NUM` tokens may have the following values of `Case`:
 
-* `Acc` (157; 28% of non-empty `Case`): <em>три, поло, полъ, два, цетꙑри, дова, колико, двь, осмь, дви</em>
-* `Acc,Nom` (1; 0% of non-empty `Case`): <em>(т)ри</em>
-* `Dat` (22; 4% of non-empty `Case`): <em>бьма, полѹ, пѧти, двема, девѧти, десѧтьма, дъвѣма, дь)[в]ѧти, дьсѧти, одинои</em>
-* `Gen` (49; 9% of non-empty `Case`): <em>пѧти, полѹ, дву, девѧти, десѧтъ, довѹ, дьсѧ, дьсѧто, дьсѧть, шести</em>
+* `Acc` (126; 28% of non-empty `Case`): <em>три, два, цетꙑри, дова, колико, двь, осмь, в҃е, дви, двоѥ</em>
+* `Dat` (18; 4% of non-empty `Case`): <em>бьма, пѧти, [се]<lbr/>(ми), двема, девѧти, десѧтьма, дъвѣма, дь)[в]ѧти, дьсѧти, одинои</em>
+* `Gen` (45; 10% of non-empty `Case`): <em>пѧти, дву, девѧти, десѧтъ, довѹ, дьсѧ, дьсѧто, дьсѧть, шести, (оди)н(о)<lbr/>го</em>
 * `Ins` (3; 1% of non-empty `Case`): <em>:м҃:ми, [ос]м[ию, тримѧ</em>
-* `Loc` (42; 8% of non-empty `Case`): <em>дьсѧть, довѹ, десѧте, десѧть, дьсѧте, наца, нацате, [десѧ]ти, д-сѧ]ть, д[е]</em>
-* `Nom` (283; 51% of non-empty `Case`): <em>поло, полъ, три, пло, пѧть, два, двь, шьсть, дви, десѧте</em>
-* `EMPTY` (728): <em>·в҃·, ·г҃·, :в҃:, :в:, ·ӏ҃·, ·г·, в҃, г҃, :г҃:, :е҃:</em>
+* `Loc` (48; 10% of non-empty `Case`): <em>десѧте, дьсѧть, довѹ, десѧть, нацате, [д](вуо), [десѧ]ти, д-сѧ]ть, д[е], дву</em>
+* `Nom` (218; 48% of non-empty `Case`): <em>три, пѧть, два, в҃е, двь, дове, шьсть, дви, десѧте, десѧть</em>
+* `EMPTY` (762): <em>·в҃·, ·г҃·, :в҃:, :в:, ·ӏ҃·, ·г·, в҃, г҃, :г҃:, :д҃:</em>
 
 <table>
   <tr><th>Paradigm <i>осмь</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th></tr>
   <tr><td><tt><tt><a href="orv_birchbark-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>осьмь</em></td><td></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt></tt></td><td><em>осмь, [о]смь, осьмь, ѡсми</em></td><td><em>осмь</em></td><td><em>ос(м)и, осми</em></td><td><em>осми</em></td><td><em>ѡсми</em></td><td><em>[ос]м[ию</em></td></tr>
+  <tr><td><tt></tt></td><td><em>осмь, [о]смь, осм[ь, осьмь, ѡсми</em></td><td><em>осмь</em></td><td><em>ос(м)и, осми</em></td><td><em>осми</em></td><td><em>ѡсми</em></td><td><em>[ос]м[ию</em></td></tr>
 </table>
 
 ### `VERB`
 
-191 <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt> tokens (7% of all `VERB` tokens) have a non-empty value of `Case`.
+208 <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt> tokens (8% of all `VERB` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="orv_birchbark-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (191; 100%), <tt><a href="orv_birchbark-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (190; 99%), <tt><a href="orv_birchbark-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (190; 99%), <tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=Sing</tt> (159; 83%), <tt><a href="orv_birchbark-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (130; 68%), <tt><a href="orv_birchbark-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (128; 67%), <tt><a href="orv_birchbark-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (119; 62%).
+The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="orv_birchbark-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (207; 100%), <tt><a href="orv_birchbark-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (205; 99%), <tt><a href="orv_birchbark-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (205; 99%), <tt><a href="orv_birchbark-feat-Analyt.html">Analyt</a></tt><tt>=EMPTY</tt> (196; 94%), <tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=Sing</tt> (172; 83%), <tt><a href="orv_birchbark-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (142; 68%), <tt><a href="orv_birchbark-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (134; 64%), <tt><a href="orv_birchbark-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (130; 63%).
 
 `VERB` tokens may have the following values of `Case`:
 
-* `Acc` (5; 3% of non-empty `Case`): <em>д[ѣ](ржа)ща, зап[е]<lbr/>…, имуще, летѧ<lbr/>ща, шити</em>
-* `Dat` (1; 1% of non-empty `Case`): <em>воскрьсошь<lbr/>мѹ</em>
-* `Gen` (2; 1% of non-empty `Case`): <em>мѧтꙑхъ, рѹжьнꙑхо</em>
-* `Loc` (2; 1% of non-empty `Case`): <em>чимо, ꙑзьѣжьнои</em>
-* `Nom` (181; 95% of non-empty `Case`): <em>сътворѧ, водѧ, възьмъши, куплено, пеюци, платѧце, створѧ, стоѧ, (п)[рисл]а[в]о, (полу)<lbr/>чеше</em>
-* `EMPTY` (2450): <em>возми, даи, далъ, пришли, шло, възьми, посли, присъли, възѧле, дале</em>
+* `Acc` (6; 3% of non-empty `Case`): <em>-т[ое], д[ѣ](ржа)ща, зап[е]<lbr/>(цата)…, имуще, летѧ<lbr/>ща, шити</em>
+* `Dat` (1; 0% of non-empty `Case`): <em>воскрьсошь<lbr/>мѹ</em>
+* `Gen` (3; 1% of non-empty `Case`): <em>лежѧца, мѧтꙑхъ, рѹжьнꙑхо</em>
+* `Loc` (1; 0% of non-empty `Case`): <em>ꙑзьѣжьнои</em>
+* `Nom` (197; 95% of non-empty `Case`): <em>сътворѧ, водѧ, възьмъши, пеюци, створѧ, стоѧ, (мо)лвѧ, (п)[рисл]а[в]о, (поз)вавъ, (полу)<lbr/>чеше</em>
+* `EMPTY` (2559): <em>возми, даи, далъ, пришли, шло, възьми, посли, присъли, възѧле, иди</em>
 
-`Case` seems to be **lexical feature** of `VERB`. 100% lemmas (125) occur only with one value of `Case`.
+<table>
+  <tr><th>Paradigm <i>лежати</i></th><th><tt>Nom</tt></th><th><tt>Gen</tt></th></tr>
+  <tr><td><tt><tt><a href="orv_birchbark-feat-Variant.html">Variant</a></tt><tt>=Short</tt></tt></td><td></td><td><em>лежѧца</em></td></tr>
+  <tr><td><tt></tt></td><td><em>лежѧ</em></td><td></td></tr>
+</table>
+
+`Case` seems to be **lexical feature** of `VERB`. 98% lemmas (128) occur only with one value of `Case`.
 
 ## Relations with Agreement in `Case`
 
 The 10 most frequent relations where parent and child node agree in `Case`:
-<tt>PROPN --[<tt><a href="orv_birchbark-dep-conj.html">conj</a></tt>]--> PROPN</tt> (476; 86%),
-<tt>NOUN --[<tt><a href="orv_birchbark-dep-amod.html">amod</a></tt>]--> ADJ</tt> (409; 95%),
-<tt>NOUN --[<tt><a href="orv_birchbark-dep-conj.html">conj</a></tt>]--> NOUN</tt> (366; 66%),
-<tt>NOUN --[<tt><a href="orv_birchbark-dep-det.html">det</a></tt>]--> DET</tt> (347; 96%),
-<tt>NOUN --[<tt><a href="orv_birchbark-dep-appos.html">appos</a></tt>]--> PROPN</tt> (121; 95%),
-<tt>PROPN --[<tt><a href="orv_birchbark-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (92; 97%),
-<tt>PROPN --[<tt><a href="orv_birchbark-dep-flat-name.html">flat:name</a></tt>]--> ADJ</tt> (86; 98%),
-<tt>PROPN --[<tt><a href="orv_birchbark-dep-appos.html">appos</a></tt>]--> NOUN</tt> (79; 95%),
-<tt>PROPN --[<tt><a href="orv_birchbark-dep-conj.html">conj</a></tt>]--> NOUN</tt> (54; 77%),
-<tt>NOUN --[<tt><a href="orv_birchbark-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (43; 60%).
+<tt>PROPN --[<tt><a href="orv_birchbark-dep-conj.html">conj</a></tt>]--> PROPN</tt> (520; 86%),
+<tt>NOUN --[<tt><a href="orv_birchbark-dep-amod.html">amod</a></tt>]--> ADJ</tt> (419; 95%),
+<tt>NOUN --[<tt><a href="orv_birchbark-dep-conj.html">conj</a></tt>]--> NOUN</tt> (383; 65%),
+<tt>NOUN --[<tt><a href="orv_birchbark-dep-det.html">det</a></tt>]--> DET</tt> (370; 96%),
+<tt>NOUN --[<tt><a href="orv_birchbark-dep-appos.html">appos</a></tt>]--> PROPN</tt> (119; 95%),
+<tt>PROPN --[<tt><a href="orv_birchbark-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (93; 98%),
+<tt>PROPN --[<tt><a href="orv_birchbark-dep-flat-name.html">flat:name</a></tt>]--> ADJ</tt> (89; 97%),
+<tt>PROPN --[<tt><a href="orv_birchbark-dep-appos.html">appos</a></tt>]--> NOUN</tt> (80; 98%),
+<tt>PROPN --[<tt><a href="orv_birchbark-dep-conj.html">conj</a></tt>]--> NOUN</tt> (60; 78%),
+<tt>NOUN --[<tt><a href="orv_birchbark-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (52; 51%).
 

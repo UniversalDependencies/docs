@@ -36,7 +36,7 @@ The following 2 pairs of parts of speech are connected with `discourse`: <tt><a 
 12	Glenn	Glenn	PROPN	_	Gender=Masc|Number=Sing	11	flat:name	_	Exponence[Gender]=Inherent|SpaceAfter=No
 13	,	,	PUNCT	_	_	10	punct	_	_
 14	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	aux:tense	_	_
-15	parti	partir	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	Tense[denom]=Past
+15	parti	partir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	Status[Tense]=Denom
 16	dans	dans	ADP	_	_	18	case	_	_
 17	l'	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	Exponence[Gender]=Absent|SpaceAfter=No
 18	espace	espace	NOUN	_	Gender=Masc|Number=Sing	15	obl:arg	_	Exponence[Gender]=Inherent

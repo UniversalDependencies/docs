@@ -46,7 +46,7 @@ The 10 most frequent ambiguous types:  <em>тя</em> (<tt><a href="mdf_jr-pos-PR
 
 ## Morphology
 
-The form / lemma ratio of `PRON` is 2.433333 (the average of all parts of speech is 1.563574).
+The form / lemma ratio of `PRON` is 2.433333 (the average of all parts of speech is 1.563961).
 
 The 1st highest number of forms (11) was observed with the lemma “сон”: <em>Сондеенза, Сондейнза, синь, синьге, сон, сонценнеть, сонь, теенза, теест, тейнза, тейст</em>.
 

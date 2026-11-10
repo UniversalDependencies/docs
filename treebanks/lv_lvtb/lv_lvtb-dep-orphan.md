@@ -17,41 +17,33 @@ The following 55 pairs of parts of speech are connected with `orphan`: <tt><a hr
 
 
 ~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
-# visual-style 6 10 orphan	color:blue
-1	Un	un	CCONJ	cc	_	6	cc	6.1:cc	LvtbNodeId=a-d197-p80s6w1
-2	divas	divi	NUM	mcsfpn	Case=Nom|Gender=Fem|Number=Plur|NumType=Card	6	nummod	6:nummod	LvtbNodeId=a-d197-p80s6w2
-3	«	"	PUNCT	zq	_	4	punct	4:punct	LvtbNodeId=a-d197-p80s6w3|SpaceAfter=No
-4	Rimi	Rimi	PROPN	np0000	_	6	nmod	6:nmod	LvtbNodeId=a-d197-p80s6w4|SpaceAfter=No
-5	»	"	PUNCT	zq	_	4	punct	4:punct	LvtbNodeId=a-d197-p80s6w5
-6	kulītes	kulīte	NOUN	ncfpn5	Case=Nom|Gender=Fem|Number=Plur	0	root	6.1:nsubj	LvtbNodeId=a-d197-p80s6w6
-7	ar	ar	ADP	sppd	_	8	case	8:case	LvtbNodeId=a-d197-p80s6w7
-8	pirkumiem	pirkums	NOUN	ncmpd1	Case=Dat|Gender=Masc|Number=Plur	6	nmod	6:nmod:ar	LvtbNodeId=a-d197-p80s6w8
-9	aiz	aiz	ADP	spsg	_	10	case	10:case	LvtbNodeId=a-d197-p80s6w9
-10	krēsla	krēsls	NOUN	ncmsg1	Case=Gen|Gender=Masc|Number=Sing	6	orphan	6.1:obl:aiz	LvtbNodeId=a-d197-p80s6w10|SpaceAfter=No
-11	.	.	PUNCT	zs	_	6	punct	6.1:punct	LvtbNodeId=a-d197-p80s6w11
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 6 orphan	color:blue
+1	Bet	bet	CCONJ	cc	_	3	cc	3.1:cc	LvtbNodeId=a-d62-p10s2w1
+2	ceļam	ceļš	NOUN	ncmsd1	Case=Dat|Gender=Masc|Number=Sing	3	obl	3.1:obl:dat	LvtbNodeId=a-d62-p10s2w2
+3	gals	gals	NOUN	ncmsn1	Case=Nom|Gender=Masc|Number=Sing	0	root	3.1:nsubj	LvtbNodeId=a-d62-p10s2w3
+4	tikai	tikai	PART	q	_	6	advmod:emph	6:advmod:emph	LvtbNodeId=a-d62-p10s2w4
+5	pie	pie	ADP	sppd	_	6	case	6:case	LvtbNodeId=a-d62-p10s2w5
+6	vārtiem	vārti	NOUN	ncmdd1	Case=Dat|Gender=Masc|Number=Ptan	3	orphan	3.1:obl:pie	LvtbNodeId=a-d62-p10s2w6|SpaceAfter=No
+7	.	.	PUNCT	zs	_	3	punct	3.1:punct	LvtbNodeId=a-d62-p10s2w7
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 5 orphan	color:blue
-1	Bet	bet	CCONJ	cc	_	2	cc	3.1:cc	LvtbNodeId=a-d197-p80s4w1
-2	vīrietis	vīrietis	NOUN	ncmsn2	Case=Nom|Gender=Masc|Number=Sing	0	root	3.1:nsubj	LvtbNodeId=a-d197-p80s4w2
-3	-	-	PUNCT	zd	_	2	punct	3.1:punct	LvtbNodeId=a-d197-p80s4w3
-4	ne	ne	CCONJ	cc	Polarity=Neg	5	cc	5:cc	LvtbNodeId=a-d197-p80s4w4
-5	tā	tā	ADV	r0n	PronType=Dem	2	orphan	3.1:advmod	LvtbNodeId=a-d197-p80s4w5|SpaceAfter=No
-6	,	,	PUNCT	zc	_	8	punct	8:punct	LvtbNodeId=a-d197-p80s4w6
-7	ne	ne	CCONJ	cc	Polarity=Neg	8	cc	8:cc	LvtbNodeId=a-d197-p80s4w7
-8	šitā	šitā	ADV	r0n	_	5	conj	3.1:advmod|5:conj	LvtbNodeId=a-d197-p80s4w8|SpaceAfter=No
-9	.	.	PUNCT	zs	_	2	punct	3.1:punct	LvtbNodeId=a-d197-p80s4w9
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 4 orphan	color:blue
+1	Veseli	vesels	ADJ	afmpnnp	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	3	amod	3:amod	LvtbNodeId=a-d62-p10s3w1
+2	mežu	mežs	NOUN	ncmpg1	Case=Gen|Gender=Masc|Number=Plur	3	nmod	3:nmod:gen	LvtbNodeId=a-d62-p10s3w2
+3	meži	mežs	NOUN	ncmpn1	Case=Nom|Gender=Masc|Number=Plur	0	root	3.1:nsubj	LvtbNodeId=a-d62-p10s3w3
+4	priekšā	priekšā	ADV	r0n	_	3	orphan	3.1:advmod	LvtbNodeId=a-d62-p10s3w4|SpaceAfter=No
+5	.	.	PUNCT	zs	_	3	punct	3.1:punct	LvtbNodeId=a-d62-p10s3w5
 
 ~~~
 

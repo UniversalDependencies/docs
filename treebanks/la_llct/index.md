@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.6 release.
 The following people have contributed to making this treebank part of UD: Timo Korkiakangas, Flavio Massimiliano Cecchini, Marco Passarotti.
 
 Repository: [UD_Latin-LLCT](https://github.com/UniversalDependencies/UD_Latin-LLCT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udla_llct218)<br />
-Download all treebanks: [UD 2.18](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udla_llct219)<br />
+Download all treebanks: [UD 2.19](/#download)
 
 License: CC BY-SA 4.0
 
@@ -111,7 +111,7 @@ The conversion of the LLCT2 into the Universal Dependencies was realized by Flav
 </ul>
 
 <ul>
-<li>This corpus contains 16 lemmas tagged as pronouns (PRON): _, aliquis, ego, egometipse, is, nihil, nos, nosmetipse, quandoque, qui, quis, quisquis, sui, tu, tumetipse, uos</li>
+<li>This corpus contains 15 lemmas tagged as pronouns (PRON): aliquis, ego, egometipse, is, nihil, nos, nosmetipse, quandoque, qui, quis, quisquis, sui, tu, tumetipse, uos</li>
 </ul>
 
 <ul>

@@ -6,34 +6,40 @@ udver: '2'
 
 ## Treebank Statistics: UD_Phrygian-KUL: POS Tags: `SYM`
 
-There are 7 `SYM` lemmas (2%), 27 `SYM` types (3%) and 80 `SYM` tokens (4%).
+There are 7 `SYM` lemmas (2%), 27 `SYM` types (3%) and 81 `SYM` tokens (4%).
 Out of 16 observed tags, the rank of `SYM` is: 11 in number of lemmas, 10 in number of types and 11 in number of tokens.
 
 The 10 most frequent `SYM` lemmas: <em>[---], ❧, [...], ☩, [.], _, ∙</em>
 
 The 10 most frequent `SYM` types:  <em>[---], ❧, [...], ---], [---, [-?-], ....], [...........], [], ☩</em>
 
-The 10 most frequent ambiguous lemmas: <em>[---]</em> (<tt><a href="xpg_kul-pos-SYM.html">SYM</a></tt> 55, <tt><a href="xpg_kul-pos-X.html">X</a></tt> 4), <em>_</em> (<tt><a href="xpg_kul-pos-X.html">X</a></tt> 9, <tt><a href="xpg_kul-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="xpg_kul-pos-DET.html">DET</a></tt> 1, <tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="xpg_kul-pos-PRON.html">PRON</a></tt> 1, <tt><a href="xpg_kul-pos-SYM.html">SYM</a></tt> 1, <tt><a href="xpg_kul-pos-VERB.html">VERB</a></tt> 1), <em>∙</em> (<tt><a href="xpg_kul-pos-PUNCT.html">PUNCT</a></tt> 2, <tt><a href="xpg_kul-pos-SYM.html">SYM</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>[---]</em> (<tt><a href="xpg_kul-pos-SYM.html">SYM</a></tt> 56, <tt><a href="xpg_kul-pos-X.html">X</a></tt> 5), <em>_</em> (<tt><a href="xpg_kul-pos-X.html">X</a></tt> 9, <tt><a href="xpg_kul-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="xpg_kul-pos-DET.html">DET</a></tt> 1, <tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="xpg_kul-pos-PRON.html">PRON</a></tt> 1, <tt><a href="xpg_kul-pos-SYM.html">SYM</a></tt> 1, <tt><a href="xpg_kul-pos-VERB.html">VERB</a></tt> 1), <em>∙</em> (<tt><a href="xpg_kul-pos-PUNCT.html">PUNCT</a></tt> 2, <tt><a href="xpg_kul-pos-SYM.html">SYM</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>---]</em> (<tt><a href="xpg_kul-pos-SYM.html">SYM</a></tt> 5, <tt><a href="xpg_kul-pos-X.html">X</a></tt> 1), <em>.</em> (<tt><a href="xpg_kul-pos-PUNCT.html">PUNCT</a></tt> 105, <tt><a href="xpg_kul-pos-SYM.html">SYM</a></tt> 1), <em>[.]</em> (<tt><a href="xpg_kul-pos-PUNCT.html">PUNCT</a></tt> 1, <tt><a href="xpg_kul-pos-SYM.html">SYM</a></tt> 1), <em>∙</em> (<tt><a href="xpg_kul-pos-PUNCT.html">PUNCT</a></tt> 1, <tt><a href="xpg_kul-pos-SYM.html">SYM</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>[---]</em> (<tt><a href="xpg_kul-pos-SYM.html">SYM</a></tt> 23, <tt><a href="xpg_kul-pos-X.html">X</a></tt> 1), <em>---]</em> (<tt><a href="xpg_kul-pos-SYM.html">SYM</a></tt> 5, <tt><a href="xpg_kul-pos-X.html">X</a></tt> 1), <em>[-?-]</em> (<tt><a href="xpg_kul-pos-SYM.html">SYM</a></tt> 4, <tt><a href="xpg_kul-pos-X.html">X</a></tt> 2), <em>.</em> (<tt><a href="xpg_kul-pos-PUNCT.html">PUNCT</a></tt> 106, <tt><a href="xpg_kul-pos-SYM.html">SYM</a></tt> 1), <em>[.]</em> (<tt><a href="xpg_kul-pos-PUNCT.html">PUNCT</a></tt> 1, <tt><a href="xpg_kul-pos-SYM.html">SYM</a></tt> 1), <em>∙</em> (<tt><a href="xpg_kul-pos-PUNCT.html">PUNCT</a></tt> 1, <tt><a href="xpg_kul-pos-SYM.html">SYM</a></tt> 1)
 
 
+* <em>[---]</em>
+  * <tt><a href="xpg_kul-pos-SYM.html">SYM</a></tt> 23: <em><b>[---]</b> materey <b>[---]</b></em>
+  * <tt><a href="xpg_kul-pos-X.html">X</a></tt> 1: <em>[---]ṭ[---] [---]ṇ[---] ẹsagas akenạṣ <b>[---]</b></em>
 * <em>---]</em>
   * <tt><a href="xpg_kul-pos-SYM.html">SYM</a></tt> 5: <em>ιος νι σε[μουν <b>---]</b></em>
   * <tt><a href="xpg_kul-pos-X.html">X</a></tt> 1: <em>ιος σεμ[ουν του] κνου[μανει <b>---]</b></em>
+* <em>[-?-]</em>
+  * <tt><a href="xpg_kul-pos-SYM.html">SYM</a></tt> 4: <em><b>[-?-]</b> ates agomoi sa𐤒?ta tedaes</em>
+  * <tt><a href="xpg_kul-pos-X.html">X</a></tt> 2: <em><b>[-?-]</b> matạṛ <b>[-?-]</b></em>
 * <em>.</em>
-  * <tt><a href="xpg_kul-pos-PUNCT.html">PUNCT</a></tt> 105: <em>[] <b>.</b></em>
+  * <tt><a href="xpg_kul-pos-PUNCT.html">PUNCT</a></tt> 106: <em>tata niyeṇ? ẹḍaes [---]le.[---] <b>.</b></em>
   * <tt><a href="xpg_kul-pos-SYM.html">SYM</a></tt> 1: <em>30? ṿ?ṛ?ekeṣ <b>.</b></em>
 * <em>[.]</em>
   * <tt><a href="xpg_kul-pos-PUNCT.html">PUNCT</a></tt> 1: <em>ξ̣ε̣υνε ιοσος κε δετον̣ [ο?υ]ψοδ̣αν κε τα̣ν σαυναμαν [.?] κ̣νο̣υμαν κ' ακροδμαν κε λο̣δ̣ιμ̣ον μειομον ριδιτι ται τοα̣ μ̣ε̣ ο̣ν̣ομανιας εναρκε⟨ς⟩ ερμω[λ]α̣ο̣ς̣ κναικο⟨ς⟩ εκατηας ο̣μ̣ο̣υσασαι ποσεκανες ακα[.?]δ̣εο ποκ γονιον τευτωσι ιε[.]ν̣ο̣υταις εδαες πινκε τας δ̣[α?]κ̣ερης ονομανιαις μ̣ι̣ρου ικ[.] κ̣ναικαν εδαες , ις αργμενα[.?] ο̣π̣αρικο οαν οεαυται ις κε εν̣ τοισ̣ινιοι κνουμαν τιαν τε <b>[.]</b></em>
   * <tt><a href="xpg_kul-pos-SYM.html">SYM</a></tt> 1: <em>ιος [νι κε σ]εμ̣ουν κ[νο]υ⟨μανει⟩ {σεμον} κακον αδακετ , [τ]ιτετικμεν̣ος [ατ] τι αδ̣ειτ̣ου , [αι] κος κ̣[ακον αδα]κκιτορ , <b>[.]</b> κε [........]ε αυ̣τος ειτου . ☩</em>
 * <em>∙</em>
-  * <tt><a href="xpg_kul-pos-PUNCT.html">PUNCT</a></tt> 1: <em>[...] antiyokoy <b>∙</b> Silẹṿkoỵ kẹỵ</em>
-  * <tt><a href="xpg_kul-pos-SYM.html">SYM</a></tt> 1: <em>[...]ṇin key oḷvomun <b>∙</b></em>
+  * <tt><a href="xpg_kul-pos-PUNCT.html">PUNCT</a></tt> 1: <em>[...] antiyokoy <b>∙</b> Silẹṿkoỵ -kẹỵ</em>
+  * <tt><a href="xpg_kul-pos-SYM.html">SYM</a></tt> 1: <em>[...]ṇin -key oḷvomun <b>∙</b></em>
 
 ## Morphology
 
-The form / lemma ratio of `SYM` is 3.857143 (the average of all parts of speech is 2.442308).
+The form / lemma ratio of `SYM` is 3.857143 (the average of all parts of speech is 2.307512).
 
 The 1st highest number of forms (20) was observed with the lemma “[---]”: <em>---, ---], ., .., ....], .?, [---, [---], [-?-], [......., [............, [...........], [.........], [.......], [.....], [....], [..], [.?], [], […</em>.
 
@@ -46,15 +52,15 @@ The 3rd highest number of forms (1) was observed with the lemma “[.]”: <em>[
 
 ## Relations
 
-`SYM` nodes are attached to their parents using 3 different relations: <tt><a href="xpg_kul-dep-dep.html">dep</a></tt> (53; 66% instances), <tt><a href="xpg_kul-dep-root.html">root</a></tt> (26; 33% instances), <tt><a href="xpg_kul-dep-conj.html">conj</a></tt> (1; 1% instances)
+`SYM` nodes are attached to their parents using 3 different relations: <tt><a href="xpg_kul-dep-dep.html">dep</a></tt> (54; 67% instances), <tt><a href="xpg_kul-dep-root.html">root</a></tt> (26; 32% instances), <tt><a href="xpg_kul-dep-conj.html">conj</a></tt> (1; 1% instances)
 
-Parents of `SYM` nodes belong to 7 different parts of speech: <tt><a href="xpg_kul-pos-VERB.html">VERB</a></tt> (36; 45% instances),  (26; 33% instances), <tt><a href="xpg_kul-pos-SYM.html">SYM</a></tt> (6; 8% instances), <tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt> (5; 6% instances), <tt><a href="xpg_kul-pos-X.html">X</a></tt> (4; 5% instances), <tt><a href="xpg_kul-pos-PRON.html">PRON</a></tt> (2; 3% instances), <tt><a href="xpg_kul-pos-PROPN.html">PROPN</a></tt> (1; 1% instances)
+Parents of `SYM` nodes belong to 7 different parts of speech: <tt><a href="xpg_kul-pos-VERB.html">VERB</a></tt> (37; 46% instances),  (26; 32% instances), <tt><a href="xpg_kul-pos-SYM.html">SYM</a></tt> (6; 7% instances), <tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt> (5; 6% instances), <tt><a href="xpg_kul-pos-X.html">X</a></tt> (4; 5% instances), <tt><a href="xpg_kul-pos-PRON.html">PRON</a></tt> (2; 2% instances), <tt><a href="xpg_kul-pos-PROPN.html">PROPN</a></tt> (1; 1% instances)
 
-56 (70%) `SYM` nodes are leaves.
+57 (70%) `SYM` nodes are leaves.
 
 7 (9%) `SYM` nodes have one child.
 
-10 (13%) `SYM` nodes have two children.
+10 (12%) `SYM` nodes have two children.
 
 7 (9%) `SYM` nodes have three or more children.
 

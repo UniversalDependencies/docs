@@ -28,7 +28,7 @@ The following 1 pairs of parts of speech are connected with `discourse`: <tt><a 
 4	de	de	ADP	_	_	6	case	_	_
 5	la	la	DET	_	Definite=Def|PronType=Art	6	det	_	_
 6	Homaranoj	Homarano	NOUN	_	Case=Nom|Number=Plur	3	nmod	_	_
-7	estos	esti	AUX	_	Mood=Ind|Tense=Fut|VerbForm=Fin	9	cop	_	_
+7	estos	esti	AUX	_	Mood=Ind|Tense=Fut|VerbForm=Fin	9	aux	_	_
 8	sufiĉe	sufiĉe	ADV	_	_	9	advmod	_	_
 9	granda	granda	ADJ	_	_	13	advcl	_	SpaceAfter=No
 10	,	,	PUNCT	_	_	13	punct	_	_
@@ -68,7 +68,7 @@ The following 1 pairs of parts of speech are connected with `discourse`: <tt><a 
 44	interkonsento	interkonsento	NOUN	_	Case=Nom|Number=Sing	42	conj	_	_
 45	fari	fari	VERB	_	VerbForm=Inf	27	conj	_	_
 46	en	en	ADP	_	_	47	case	_	_
-47	ĝi	ĝi	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	45	nmod	_	_
+47	ĝi	ĝi	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	45	obl	_	_
 48	ĉiujn	ĉiu	DET	_	Case=Acc|Number=Plur|PronType=Tot	49	det	_	_
 49	ŝanĝojn	ŝanĝo	NOUN	_	Case=Acc|Number=Plur	45	obj	_	SpaceAfter=No
 50	,	,	PUNCT	_	_	51	punct	_	_

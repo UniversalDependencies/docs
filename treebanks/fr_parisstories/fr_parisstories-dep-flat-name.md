@@ -23,7 +23,7 @@ The following 4 pairs of parts of speech are connected with `flat:name`: <tt><a 
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 9 flat:name	color:blue
-1	euh	euh	INTJ	_	_	3	discourse	_	_
+1	euh	euh	INTJ	_	_	3	discourse:filler	_	_
 2	je	moi	PRON	_	Case=Nom|Emph=No|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Exponence[Number]=Inherent|Exponence[Person]=Inherent
 3	sais	savoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Exponence[Person]=Absent
 4	plus	plus	ADV	_	_	3	advmod	_	_
@@ -67,7 +67,7 @@ The following 4 pairs of parts of speech are connected with `flat:name`: <tt><a 
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 5 flat:name	color:blue
-1	euh	euh	INTJ	_	_	12	discourse	_	_
+1	euh	euh	INTJ	_	_	12	discourse:filler	_	_
 2	à	à	ADP	_	_	3	case	_	_
 3	Roissy	Roissy	PROPN	_	_	12	obl:mod	_	_
 4	Charles	Charles	PROPN	_	_	3	flat:name	_	_
@@ -75,10 +75,10 @@ The following 4 pairs of parts of speech are connected with `flat:name`: <tt><a 
 6	Gaulle	Gaulle	PROPN	_	_	3	flat:name	_	SpaceAfter=No
 7	,	,	PUNCT	_	_	12	punct	_	_
 8	et	et	CCONJ	_	_	12	cc	_	_
-9	euh	euh	INTJ	_	_	12	discourse	_	_
+9	euh	euh	INTJ	_	_	12	discourse:filler	_	_
 10	on	on	PRON	_	Case=Nom|Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Ind	12	nsubj	_	Exponence[Gender]=Absent|Exponence[Number]=Inherent|Exponence[Person]=Inherent
 11	avait	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	12	aux:tense	_	_
-12	attendu	attendre	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	Exponence[Gender]=Absent|Exponence[Number]=Absent|PastPartHasSpokenGender=NotInThisDialect|Tense[denom]=Past
+12	attendu	attendre	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	Exponence[Gender]=Absent|Exponence[Number]=Absent|PastPartHasSpokenGender=NotInThisDialect|Status[Tense]=Denom
 13	une	un	NUM	_	Number=Plur	16	nummod	_	Exponence[Number]=Inherent
 14	ou	ou	CCONJ	_	_	15	cc	_	_
 15	deux	deux	NUM	_	Number=Plur	13	conj	_	Exponence[Number]=Inherent

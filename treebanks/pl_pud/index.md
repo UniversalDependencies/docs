@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.4 release.
 The following people have contributed to making this treebank part of UD: Alina Wróblewska.
 
 Repository: [UD_Polish-PUD](https://github.com/UniversalDependencies/UD_Polish-PUD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udpl_pud218)<br />
-Download all treebanks: [UD 2.18](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udpl_pud219)<br />
+Download all treebanks: [UD 2.19](/#download)
 
 License: CC BY-SA 4.0
 
@@ -226,7 +226,7 @@ year = {2018}
       <li>DET: który, tym, ten, którzy, tego, każdy, którego, które, tych, wielu</li>
       <li>NOUN: lat, roku, latach, ludzi, raz, wieku, świecie, czasów, dolarów, funtów</li>
       <li>NUM: dwa, dwóch, 3, trzy, 5, 1,5, 10, 100, 2, 20</li>
-      <li>PRON: jego, ich, go, mu, ktoś, im, nich, niego, ja, kto</li>
+      <li>PRON: jego, ich, go, mu, ktoś, niego, im, nich, ja, kto</li>
       <li>PROPN: Trumpa, Hongkongu, Pekinu, Qing, American, Chińczyków, Disneya, Joseph, Mishima, Totmesa</li>
       <li>VERB-Fin: powiedział, miał, napisał, ogłosił, pracował, spotkał, miały, mógł, postanowił, uznał</li>
     </ul>
@@ -279,7 +279,7 @@ year = {2018}
       <li>DET: tym, ten, który, tego, które, każdy, swojego, którego, swój, wiele</li>
       <li>NOUN: lat, roku, latach, raz, wieku, świecie, czasów, października, czasie, koniec</li>
       <li>NUM: dwa, 3, trzy, dwóch, 5, 10, 100, 2, 20, dziesięć</li>
-      <li>PRON: go, ich, jego, niego, one, je, on, ń</li>
+      <li>PRON: go, ich, niego, jego, one, je, on</li>
       <li>PROPN: Hongkongu, Pekinu, American, Bonds, Egiptu, GCA, Ground, Hongkong, Internecie, Internet</li>
       <li>VERB-Fin: miał, miały, stał, mogły, musiał, odniósł, pozwolił, spowodowały, utrzymał, uznał</li>
     </ul>
@@ -343,7 +343,7 @@ year = {2018}
       <li>NOUN: roku, miejsce, wojny, części, raz, wieku, większość, pracy, świecie, część</li>
       <li>NOUN-Vnoun: zniszczenie, kręcenia, ograniczaniu, ograniczenia, opuszczenia, otwarcie, poszukiwaniu, powstrzymania, przejęcia, przekroczenie</li>
       <li>NUM: 0, 1,5, pół, półtora</li>
-      <li>PRON: jego, to, jej, tym, co, go, ją, tego, mu, ktoś</li>
+      <li>PRON: jego, to, jej, tym, co, go, ją, tego, mu, niego</li>
       <li>PROPN: Brytanii, Clinton, Morze, Trumpa, Azji, BBC, Danevirke, Europy, Francji, Hongkongu</li>
       <li>VERB-Fin: może, ma, powiedział, było, miał, jest, miała, mówi, powiedziała, udało</li>
     </ul>
@@ -394,7 +394,7 @@ year = {2018}
       <li>NOUN: lat, wojny, osób, czasów, dolarów, funtów, ludzi, października, pracy, euro</li>
       <li>NOUN-Vnoun: kręcenia, ograniczenia, opuszczenia, powstrzymania, przejęcia, przyjęcia, uzyskania, wprowadzenia, wytwarzania, wzięcia</li>
       <li>NUM: dwóch, 3, 20, 14, 2, 5, czterech, sześciu, 1,5, 10</li>
-      <li>PRON: jego, jej, ich, tego, siebie, nich, niego, mnie, niej, go</li>
+      <li>PRON: jego, jej, ich, tego, niego, siebie, nich, mnie, niej, go</li>
       <li>PROPN: Europy, Francji, Pekinu, USA, Albanii, Ameryki, BBC, Clinton, Disneya, Morza</li>
     </ul>
   </li>
@@ -469,7 +469,7 @@ year = {2018}
   <li>Pre
     <ul>
       <li>ADJ: prostu, angielsku, męsku, niedawna, późna</li>
-      <li>PRON: nich, niego, niej, nim, nimi, nie, nią, ń</li>
+      <li>PRON: nich, niego, niej, nim, nimi, nie, nią</li>
     </ul>
   </li>
 </ul>
@@ -551,7 +551,7 @@ year = {2018}
       <li>ADJ: gotów</li>
       <li>ADP: w, z, przez, od, pod, przed, bez, nad, poprzez, ponad</li>
       <li>AUX: m, śmy, ście</li>
-      <li>PRON: go, mu, mi, ń</li>
+      <li>PRON: go, mu, mi, niego</li>
     </ul>
   </li>
 </ul>
@@ -842,7 +842,7 @@ year = {2018}
   <li>3
     <ul>
       <li>AUX-Fin: jest, są, będzie, będą, zostają, zostanie, zostaną</li>
-      <li>PRON: jego, jej, ich, go, ją, mu, nich, im, je, niego</li>
+      <li>PRON: jego, jej, ich, go, ją, mu, nich, niego, im, je</li>
       <li>VERB-Fin: może, ma, mogą, jest, mówi, należy, znajduje, będzie, chce, mają</li>
     </ul>
   </li>

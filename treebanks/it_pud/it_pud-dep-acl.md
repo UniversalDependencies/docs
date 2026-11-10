@@ -12,7 +12,7 @@ There are 1 language-specific subtypes of `acl`: <tt><a href="it_pud-dep-acl-rel
 208 nodes (1%) are attached to their parents as `acl`.
 
 203 instances of `acl` (98%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.87980769230769.
+Average distance between parent and child is 2.88461538461538.
 
 The following 10 pairs of parts of speech are connected with `acl`: <tt><a href="it_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_pud-pos-VERB.html">VERB</a></tt> (187; 90% instances), <tt><a href="it_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_pud-pos-VERB.html">VERB</a></tt> (7; 3% instances), <tt><a href="it_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="it_pud-pos-VERB.html">VERB</a></tt> (3; 1% instances), <tt><a href="it_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_pud-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="it_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_pud-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="it_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="it_pud-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="it_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="it_pud-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="it_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_pud-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="it_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="it_pud-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="it_pud-pos-SYM.html">SYM</a></tt>-<tt><a href="it_pud-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 

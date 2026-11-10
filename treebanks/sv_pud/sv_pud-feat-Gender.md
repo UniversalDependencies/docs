@@ -18,12 +18,12 @@ The feature is used with 7 part-of-speech tags: <tt><a href="sv_pud-pos-NOUN.htm
 
 3879 <tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt> tokens (96% of all `NOUN` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="sv_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt> (3746; 97%), <tt><a href="sv_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2750; 71%), <tt><a href="sv_pud-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (2521; 65%).
+The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="sv_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt> (3747; 97%), <tt><a href="sv_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2749; 71%), <tt><a href="sv_pud-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (2521; 65%).
 
 `NOUN` tokens may have the following values of `Gender`:
 
-* `Com` (2804; 72% of non-empty `Gender`): <em>personer, miljoner, grund, oktober, världen, del, delen, tiden, plats, dollar</em>
-* `Neut` (1075; 28% of non-empty `Gender`): <em>år, havet, fall, kriget, liv, antal, barn, åren, land, slutet</em>
+* `Com` (2803; 72% of non-empty `Gender`): <em>personer, miljoner, grund, oktober, världen, del, delen, tiden, plats, dollar</em>
+* `Neut` (1076; 28% of non-empty `Gender`): <em>år, havet, fall, kriget, liv, antal, barn, åren, land, slutet</em>
 * `EMPTY` (159): <em>%, f.Kr., University, Ms, md, mr, morse, school, Association, Bank</em>
 
 <table>
@@ -127,7 +127,7 @@ The most frequent other feature values with which `PROPN` and `Gender` co-occurr
 ## Relations with Agreement in `Gender`
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
-<tt>NOUN --[<tt><a href="sv_pud-dep-det.html">det</a></tt>]--> DET</tt> (784; 83%),
+<tt>NOUN --[<tt><a href="sv_pud-dep-det.html">det</a></tt>]--> DET</tt> (785; 83%),
 <tt>NOUN --[<tt><a href="sv_pud-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (386; 58%),
 <tt>NOUN --[<tt><a href="sv_pud-dep-conj.html">conj</a></tt>]--> NOUN</tt> (141; 60%),
 <tt>NOUN --[<tt><a href="sv_pud-dep-nmod-poss.html">nmod:poss</a></tt>]--> NOUN</tt> (61; 55%),

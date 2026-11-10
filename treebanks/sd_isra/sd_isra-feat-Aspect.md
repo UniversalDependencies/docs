@@ -9,21 +9,21 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Imp`, `Perf`, `Prog`.
 
-13080 tokens (14%) have a non-empty value of `Aspect`.
-1940 types (20%) occur at least once with a non-empty value of `Aspect`.
-792 lemmas (16%) occur at least once with a non-empty value of `Aspect`.
-The feature is used with 2 part-of-speech tags: <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt> (12889; 14% instances), <tt><a href="sd_isra-pos-AUX.html">AUX</a></tt> (191; 0% instances).
+13096 tokens (14%) have a non-empty value of `Aspect`.
+1949 types (20%) occur at least once with a non-empty value of `Aspect`.
+792 lemmas (15%) occur at least once with a non-empty value of `Aspect`.
+The feature is used with 2 part-of-speech tags: <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt> (12904; 14% instances), <tt><a href="sd_isra-pos-AUX.html">AUX</a></tt> (192; 0% instances).
 
 ### `VERB`
 
-12889 <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt> tokens (99% of all `VERB` tokens) have a non-empty value of `Aspect`.
+12904 <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt> tokens (99% of all `VERB` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="sd_isra-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (9692; 75%), <tt><a href="sd_isra-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (9496; 74%), <tt><a href="sd_isra-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (8682; 67%), <tt><a href="sd_isra-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (8415; 65%).
+The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="sd_isra-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (9706; 75%), <tt><a href="sd_isra-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (9506; 74%), <tt><a href="sd_isra-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (8693; 67%), <tt><a href="sd_isra-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (8426; 65%).
 
 `VERB` tokens may have the following values of `Aspect`:
 
-* `Imp` (6086; 47% of non-empty `Aspect`): <em>ڪرڻ, ڪري, وڃي, پئي, ٿيڻ, رهي, ڪندي, ڏيڻ, اچي, چوڻ</em>
-* `Perf` (6802; 53% of non-empty `Aspect`): <em>چيو, ويو, ڪيو, ڪري, ڪئي, ويا, ٿيل, ڏنو, ڇڏيو, آيو</em>
+* `Imp` (6092; 47% of non-empty `Aspect`): <em>ڪرڻ, ڪري, وڃي, پئي, ٿيڻ, رهي, ڪندي, ڏيڻ, اچي, چوڻ</em>
+* `Perf` (6811; 53% of non-empty `Aspect`): <em>چيو, ويو, ڪيو, ڪري, ڪئي, ويا, ٿيل, ڏنو, ڇڏيو, آيو</em>
 * `Prog` (1; 0% of non-empty `Aspect`): <em>پيو</em>
 * `EMPTY` (182): <em>ڪر, اچان, پيو, وڃان, وڃن, پي, پيش, ايندس, لڳس, هل</em>
 
@@ -63,15 +63,15 @@ The most frequent other feature values with which `VERB` and `Aspect` co-occurre
 
 ### `AUX`
 
-191 <tt><a href="sd_isra-pos-AUX.html">AUX</a></tt> tokens (4% of all `AUX` tokens) have a non-empty value of `Aspect`.
+192 <tt><a href="sd_isra-pos-AUX.html">AUX</a></tt> tokens (4% of all `AUX` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `AUX` and `Aspect` co-occurred: <tt><a href="sd_isra-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (186; 97%), <tt><a href="sd_isra-feat-Number.html">Number</a></tt><tt>=Sing</tt> (165; 86%), <tt><a href="sd_isra-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (148; 77%), <tt><a href="sd_isra-feat-Person.html">Person</a></tt><tt>=3</tt> (148; 77%).
+The most frequent other feature values with which `AUX` and `Aspect` co-occurred: <tt><a href="sd_isra-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (187; 97%), <tt><a href="sd_isra-feat-Number.html">Number</a></tt><tt>=Sing</tt> (166; 86%), <tt><a href="sd_isra-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (149; 78%), <tt><a href="sd_isra-feat-Person.html">Person</a></tt><tt>=3</tt> (149; 78%).
 
 `AUX` tokens may have the following values of `Aspect`:
 
 * `Imp` (53; 28% of non-empty `Aspect`): <em>ٿي, هوندو, سگهندا, سگهيو, هوندي, آ, سگهندو, سگهنديون, سگهيون, هجن</em>
-* `Perf` (138; 72% of non-empty `Aspect`): <em>ٿيو, سگهيو, ٿيس, ٿيا, سگھيس, هوس, هيون</em>
-* `EMPTY` (4727): <em>آهي, ٿي, آهن, هو, ٿو, ٿا, هئي, ناهي, هئا, سگهي</em>
+* `Perf` (139; 72% of non-empty `Aspect`): <em>ٿيو, سگهيو, ٿيس, ٿيا, سگھيس, هوس, هيون</em>
+* `EMPTY` (4733): <em>آهي, ٿي, آهن, هو, ٿو, ٿا, هئي, ناهي, هئا, سگهي</em>
 
 <table>
   <tr><th>Paradigm <i>آهي</i></th><th><tt>Imp</tt></th><th><tt>Perf</tt></th></tr>
@@ -100,7 +100,7 @@ The most frequent other feature values with which `AUX` and `Aspect` co-occurred
 
 The 10 most frequent relations where parent and child node agree in `Aspect`:
 <tt>VERB --[<tt><a href="sd_isra-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (1853; 57%),
-<tt>VERB --[<tt><a href="sd_isra-dep-compound.html">compound</a></tt>]--> VERB</tt> (1144; 53%),
+<tt>VERB --[<tt><a href="sd_isra-dep-compound.html">compound</a></tt>]--> VERB</tt> (1148; 53%),
 <tt>VERB --[<tt><a href="sd_isra-dep-conj.html">conj</a></tt>]--> VERB</tt> (529; 76%),
 <tt>VERB --[<tt><a href="sd_isra-dep-compound-redup.html">compound:redup</a></tt>]--> VERB</tt> (3; 75%),
 <tt>VERB --[<tt><a href="sd_isra-dep-nmod.html">nmod</a></tt>]--> VERB</tt> (1; 100%).

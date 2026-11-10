@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>aristoteles</em> (<tt><a href="la_itt
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.898148 (the average of all parts of speech is 3.337170).
+The form / lemma ratio of `PROPN` is 1.898148 (the average of all parts of speech is 3.337008).
 
 The 1st highest number of forms (6) was observed with the lemma “iohannes”: <em>io., ioan., ioann., ioannem, ioannes, ioannis</em>.
 

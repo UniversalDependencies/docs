@@ -39,10 +39,11 @@ The following 2 pairs of parts of speech are connected with `acl`: <tt><a href="
 14	ar	ar	ADP	_	AdpType=Prep|Definite=Def	16	case	_	SpaceAfter=No
 15	in	a	DET	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Art	16	det	_	SpaceAfter=No
 16	scribund	scríbend	NOUN	_	Case=Dat|Number=Sing	10	nmod	_	_
-17	roscribad	scríbaid	VERB	_	Mood=Ind|Number=Sing|PartType=Aug|Person=3|Tense=Past|Voice=Pass	16	acl:relcl	_	_
-18	in	in	DET	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Art	19	det	_	SpaceAfter=No
-19	dul	dul	NOUN	_	Case=Acc|Number=Sing	17	obl	_	SpaceAfter=No
-20	so	so	PART	_	PronType=Dem	19	amod	_	_
+17	ro	ro	PART	_	PartType=Aug	18	compound:prt	_	SpaceAfter=No
+18	scribad	scríbaid	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Pass	16	acl:relcl	_	_
+19	in	in	DET	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Art	20	det	_	SpaceAfter=No
+20	dul	dul	NOUN	_	Case=Acc|Number=Sing	18	obl	_	SpaceAfter=No
+21	so	so	PART	_	PronType=Dem	20	amod	_	_
 
 ~~~
 
@@ -57,7 +58,7 @@ The following 2 pairs of parts of speech are connected with `acl`: <tt><a href="
 2	a	a	PRON	_	Gender=Masc,Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	nmod:poss	_	SpaceAfter=No
 3	thitol	titul	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
 4	re	re	ADP	_	AdpType=Prep|Definite=Ind	6	case	_	_
-5	cach	cach	DET	_	Case=Dat|Definite=Def|Number=Sing	6	det	_	_
+5	cach	cach	DET	_	Case=Dat|Number=Sing|PronType=Tot	6	det	_	_
 6	libur	lebor	NOUN	_	Case=Dat|Number=Sing	3	nmod	_	_
 7	ar	ara	SCONJ	_	_	9	mark	_	_
 8	na	ná	SCONJ	_	Polarity=Neg	9	mark	_	SpaceAfter=No

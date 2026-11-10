@@ -42,7 +42,7 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 `VERB` tokens may have the following values of `Number`:
 
-* `Plur` (22; 19% of non-empty `Number`): <em>kásun, sikoθún, Ksevasám', dilimléisam', drúte, fam, férum, ipúmi, istedízete, kasinonǰískaši</em>
+* `Plur` (22; 19% of non-empty `Number`): <em>kásun, sikoθún, Ksevasám', dilimléisam', dróte, fam, férum, ipúmi, istedízete, kasinonǰískaši</em>
 * `Sing` (96; 81% of non-empty `Number`): <em>laí, leχ, eksévin, gréviz, qazánǰisi, éršiti, éχu, írten, írtis, (é)rχete</em>
 * `EMPTY` (13): <em>baγərdά, bári, emóšh, galaǰévγi, kašinónǰiska, peyéni, péri, púmi, éni, érč</em>
 
@@ -65,7 +65,7 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 86 <tt><a href="cpg_amgic-pos-PRON.html">PRON</a></tt> tokens (91% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="cpg_amgic-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (76; 88%), <tt><a href="cpg_amgic-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (59; 69%), <tt><a href="cpg_amgic-feat-Person.html">Person</a></tt><tt>=3</tt> (54; 63%), <tt><a href="cpg_amgic-feat-Clitic.html">Clitic</a></tt><tt>=Yes</tt> (47; 55%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="cpg_amgic-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (76; 88%), <tt><a href="cpg_amgic-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (59; 69%), <tt><a href="cpg_amgic-feat-Person.html">Person</a></tt><tt>=3</tt> (54; 63%), <tt><a href="cpg_amgic-feat-Clitic.html">Clitic</a></tt><tt>=Yes</tt> (48; 56%).
 
 `PRON` tokens may have the following values of `Number`:
 
@@ -76,12 +76,11 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 <table>
   <tr><th>Paradigm <i>(e)γó</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
   <tr><td><tt><tt><a href="cpg_amgic-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cpg_amgic-feat-Clitic.html">Clitic</a></tt><tt>=Yes</tt>|<tt><a href="cpg_amgic-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="cpg_amgic-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>do</em></td><td><em>tus</em></td></tr>
-  <tr><td><tt><tt><a href="cpg_amgic-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cpg_amgic-feat-Clitic.html">Clitic</a></tt><tt>=Yes</tt>|<tt><a href="cpg_amgic-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="cpg_amgic-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>či, ǰi</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="cpg_amgic-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cpg_amgic-feat-Clitic.html">Clitic</a></tt><tt>=Yes</tt>|<tt><a href="cpg_amgic-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="cpg_amgic-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>či, ǰi, ǰin</em></td><td></td></tr>
   <tr><td><tt><tt><a href="cpg_amgic-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cpg_amgic-feat-Clitic.html">Clitic</a></tt><tt>=Yes</tt>|<tt><a href="cpg_amgic-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="cpg_amgic-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>da, ta, to, do, δa</em></td><td></td></tr>
   <tr><td><tt><tt><a href="cpg_amgic-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cpg_amgic-feat-Clitic.html">Clitic</a></tt><tt>=Yes</tt>|<tt><a href="cpg_amgic-feat-Person.html">Person</a></tt><tt>=1</tt></tt></td><td><em>m</em></td><td></td></tr>
   <tr><td><tt><tt><a href="cpg_amgic-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cpg_amgic-feat-Clitic.html">Clitic</a></tt><tt>=Yes</tt>|<tt><a href="cpg_amgic-feat-Person.html">Person</a></tt><tt>=2</tt></tt></td><td><em>su</em></td><td></td></tr>
   <tr><td><tt><tt><a href="cpg_amgic-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cpg_amgic-feat-Clitic.html">Clitic</a></tt><tt>=Yes</tt>|<tt><a href="cpg_amgic-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td><em>tun</em></td></tr>
-  <tr><td><tt><tt><a href="cpg_amgic-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cpg_amgic-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="cpg_amgic-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>zin</em></td><td></td></tr>
   <tr><td><tt><tt><a href="cpg_amgic-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cpg_amgic-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="cpg_amgic-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>ta</em></td><td></td></tr>
   <tr><td><tt><tt><a href="cpg_amgic-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cpg_amgic-feat-Person.html">Person</a></tt><tt>=1</tt></tt></td><td><em>me</em></td><td></td></tr>
   <tr><td><tt><tt><a href="cpg_amgic-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cpg_amgic-feat-Person.html">Person</a></tt><tt>=2</tt></tt></td><td><em>se, s', séna</em></td><td><em>sas</em></td></tr>

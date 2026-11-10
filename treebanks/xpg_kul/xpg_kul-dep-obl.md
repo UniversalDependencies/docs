@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-98 nodes (5%) are attached to their parents as `obl`.
+102 nodes (5%) are attached to their parents as `obl`.
 
-56 instances of `obl` (57%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.3469387755102.
+58 instances of `obl` (57%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.40196078431373.
 
-The following 11 pairs of parts of speech are connected with `obl`: <tt><a href="xpg_kul-pos-VERB.html">VERB</a></tt>-<tt><a href="xpg_kul-pos-PROPN.html">PROPN</a></tt> (49; 50% instances), <tt><a href="xpg_kul-pos-VERB.html">VERB</a></tt>-<tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt> (35; 36% instances), <tt><a href="xpg_kul-pos-SYM.html">SYM</a></tt>-<tt><a href="xpg_kul-pos-PROPN.html">PROPN</a></tt> (3; 3% instances), <tt><a href="xpg_kul-pos-AUX.html">AUX</a></tt>-<tt><a href="xpg_kul-pos-PROPN.html">PROPN</a></tt> (2; 2% instances), <tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xpg_kul-pos-PROPN.html">PROPN</a></tt> (2; 2% instances), <tt><a href="xpg_kul-pos-X.html">X</a></tt>-<tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="xpg_kul-pos-ADP.html">ADP</a></tt>-<tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="xpg_kul-pos-PRON.html">PRON</a></tt>-<tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="xpg_kul-pos-VERB.html">VERB</a></tt>-<tt><a href="xpg_kul-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="xpg_kul-pos-VERB.html">VERB</a></tt>-<tt><a href="xpg_kul-pos-PRON.html">PRON</a></tt> (1; 1% instances).
+The following 11 pairs of parts of speech are connected with `obl`: <tt><a href="xpg_kul-pos-VERB.html">VERB</a></tt>-<tt><a href="xpg_kul-pos-PROPN.html">PROPN</a></tt> (49; 48% instances), <tt><a href="xpg_kul-pos-VERB.html">VERB</a></tt>-<tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt> (39; 38% instances), <tt><a href="xpg_kul-pos-SYM.html">SYM</a></tt>-<tt><a href="xpg_kul-pos-PROPN.html">PROPN</a></tt> (3; 3% instances), <tt><a href="xpg_kul-pos-AUX.html">AUX</a></tt>-<tt><a href="xpg_kul-pos-PROPN.html">PROPN</a></tt> (2; 2% instances), <tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xpg_kul-pos-PROPN.html">PROPN</a></tt> (2; 2% instances), <tt><a href="xpg_kul-pos-X.html">X</a></tt>-<tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="xpg_kul-pos-ADP.html">ADP</a></tt>-<tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="xpg_kul-pos-PRON.html">PRON</a></tt>-<tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="xpg_kul-pos-VERB.html">VERB</a></tt>-<tt><a href="xpg_kul-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="xpg_kul-pos-VERB.html">VERB</a></tt>-<tt><a href="xpg_kul-pos-PRON.html">PRON</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -38,20 +38,17 @@ The following 11 pairs of parts of speech are connected with `obl`: <tt><a href=
 
 
 ~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 6 obl	color:blue
-1	μ̣ο̣.κρος	μ̣ο̣.κρος	NOUN	_	Case=Nom|Number=Sing	2	dep	_	Ref=TM757243-5-1
-2	υιταν	υιταν	VERB	_	Mood=Opt|Number=Plur|Person=3|Voice=Act	0	root	_	Ref=TM757243-5-2
-3	παρτιας	παρτιας	X	_	_	2	dep	_	Ref=TM757243-5-3
-4	πλαδε	πλαδε	ADV	_	_	2	advmod	_	Ref=TM757243-5-4
-5	πορ	πορ	ADP	_	_	6	case	_	Ref=TM757243-5-5
-6	κοροος̣	κοροαν	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	2	obl	_	Ref=TM757243-5-6
-7	..ρ̣ο̣ς̣	..ρ̣ο̣ς̣	NOUN	_	_	2	dep	_	Ref=TM757243-5-7
-8	παντης	panta	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	2	nsubj	_	Ref=TM757243-5-8
-9	:	:	PUNCT	_	_	2	punct	_	Ref=TM757243-5-9
+# visual-style 6 1 obl	color:blue
+1	materan	matar	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	6	obl	_	Ref=TM756920-1-1
+2	areyastin	areyastin	PROPN	_	Case=Acc|Gender=Fem|Number=Sing	1	appos	_	Ref=TM756920-1-2
+3	bonok	bonok	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	Ref=TM756920-1-3
+4	akenanogavọṣ	akenanogavos	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	nmod	_	Ref=TM756920-1-4
+5	vrekun	vrekun	NOUN	_	Case=Acc|Number=Sing	1	nmod	_	Ref=TM756920-1-5
+6	tedatoy	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	Ref=TM756920-1-6
 
 ~~~
 
@@ -65,8 +62,8 @@ The following 11 pairs of parts of speech are connected with `obl`: <tt><a href=
 1	[...]	[...]	SYM	_	_	0	root	_	Ref=TM1001271-1-2
 2	antiyokoy	antiyokoy	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	1	obl	_	Ref=TM1001271-1-2
 3	∙	∙	PUNCT	_	_	1	punct	_	Ref=TM1001271-1-3
-4	Silẹṿkoỵ	Silevkoy	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	1	obl	_	Ref=TM1001271-1-4
-5	kẹỵ	ke	CCONJ	_	_	4	cc	_	Ref=TM1001271-1-5
+4	Silẹṿkoỵ	Silevkoy	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	1	obl	_	Ref=TM1001271-1-4|SpaceAfter=No
+5	-kẹỵ	ke	CCONJ	_	_	4	cc	_	Ref=TM1001271-1-5
 
 ~~~
 

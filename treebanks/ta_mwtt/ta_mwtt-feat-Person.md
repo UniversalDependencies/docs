@@ -152,7 +152,7 @@ The most frequent other feature values with which `ADV` and `Person` co-occurred
 The 10 most frequent relations where parent and child node agree in `Person`:
 <tt>VERB --[<tt><a href="ta_mwtt-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (168; 77%),
 <tt>VERB --[<tt><a href="ta_mwtt-dep-obl.html">obl</a></tt>]--> NOUN</tt> (85; 80%),
-<tt>VERB --[<tt><a href="ta_mwtt-dep-obj.html">obj</a></tt>]--> NOUN</tt> (82; 63%),
+<tt>VERB --[<tt><a href="ta_mwtt-dep-obj.html">obj</a></tt>]--> NOUN</tt> (82; 64%),
 <tt>VERB --[<tt><a href="ta_mwtt-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (71; 70%),
 <tt>VERB --[<tt><a href="ta_mwtt-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (39; 56%),
 <tt>VERB --[<tt><a href="ta_mwtt-dep-nsubj-nc.html">nsubj:nc</a></tt>]--> PROPN</tt> (20; 74%),

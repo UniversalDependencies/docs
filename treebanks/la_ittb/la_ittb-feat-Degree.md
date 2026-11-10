@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal but the values `Dim` are language-specific.
 It occurs with 3 different values: `Abs`, `Cmp`, `Dim`.
 
-5035 tokens (1%) have a non-empty value of `Degree`.
+5036 tokens (1%) have a non-empty value of `Degree`.
 571 types (3%) occur at least once with a non-empty value of `Degree`.
-237 lemmas (4%) occur at least once with a non-empty value of `Degree`.
-The feature is used with 5 part-of-speech tags: <tt><a href="la_ittb-pos-ADJ.html">ADJ</a></tt> (2975; 1% instances), <tt><a href="la_ittb-pos-ADV.html">ADV</a></tt> (1571; 0% instances), <tt><a href="la_ittb-pos-DET.html">DET</a></tt> (353; 0% instances), <tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt> (75; 0% instances), <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> (61; 0% instances).
+238 lemmas (4%) occur at least once with a non-empty value of `Degree`.
+The feature is used with 5 part-of-speech tags: <tt><a href="la_ittb-pos-ADJ.html">ADJ</a></tt> (2975; 1% instances), <tt><a href="la_ittb-pos-ADV.html">ADV</a></tt> (1572; 0% instances), <tt><a href="la_ittb-pos-DET.html">DET</a></tt> (353; 0% instances), <tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt> (75; 0% instances), <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> (61; 0% instances).
 
 ### `ADJ`
 
@@ -56,14 +56,14 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 
 ### `ADV`
 
-1571 <tt><a href="la_ittb-pos-ADV.html">ADV</a></tt> tokens (7% of all `ADV` tokens) have a non-empty value of `Degree`.
+1572 <tt><a href="la_ittb-pos-ADV.html">ADV</a></tt> tokens (7% of all `ADV` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `ADV` and `Degree` co-occurred: <tt><a href="la_ittb-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (1571; 100%), <tt><a href="la_ittb-feat-Compound.html">Compound</a></tt><tt>=EMPTY</tt> (1569; 100%), <tt><a href="la_ittb-feat-AdvType.html">AdvType</a></tt><tt>=EMPTY</tt> (1452; 92%).
+The most frequent other feature values with which `ADV` and `Degree` co-occurred: <tt><a href="la_ittb-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (1572; 100%), <tt><a href="la_ittb-feat-Compound.html">Compound</a></tt><tt>=EMPTY</tt> (1570; 100%), <tt><a href="la_ittb-feat-AdvType.html">AdvType</a></tt><tt>=EMPTY</tt> (1453; 92%).
 
 `ADV` tokens may have the following values of `Degree`:
 
 * `Abs` (445; 28% of non-empty `Degree`): <em>primo, maxime, perfectissime, conuenientissime, optime, potissime, minime, primum, summe, ultimo</em>
-* `Cmp` (1126; 72% of non-empty `Degree`): <em>amplius, minus, ulterius, prius, perfectius, superius, potius, exterius, melius, plus</em>
+* `Cmp` (1127; 72% of non-empty `Degree`): <em>amplius, minus, ulterius, prius, perfectius, superius, potius, exterius, melius, plus</em>
 * `EMPTY` (21109): <em>etiam, unde, sic, ergo, tamen, uero, ita, supra, magis, solum</em>
 
 <table>
@@ -71,7 +71,7 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
   <tr><td><tt></tt></td><td><em>perfectius</em></td><td><em>perfectissime</em></td></tr>
 </table>
 
-`Degree` seems to be **lexical feature** of `ADV`. 91% lemmas (90) occur only with one value of `Degree`.
+`Degree` seems to be **lexical feature** of `ADV`. 91% lemmas (91) occur only with one value of `Degree`.
 
 ### `DET`
 
@@ -83,7 +83,7 @@ The most frequent other feature values with which `DET` and `Degree` co-occurred
 
 * `Abs` (28; 8% of non-empty `Degree`): <em>plurima, plurimi, plurimas, plurimae, plurimum, paucissimis, paucissimos, plurimam, plurimis, plurimorum</em>
 * `Cmp` (325; 92% of non-empty `Degree`): <em>plures, pluribus, plura, plus, plurium, plerumque, paucioribus, pauciores, pauciora, pleraque</em>
-* `EMPTY` (28329): <em>hoc, omnia, huiusmodi, ipsum, alia, aliqua, unum, suam, sua, haec</em>
+* `EMPTY` (28328): <em>hoc, omnia, huiusmodi, ipsum, alia, aliqua, unum, suam, sua, haec</em>
 
 <table>
   <tr><th>Paradigm <i>multus</i></th><th><tt>Cmp</tt></th><th><tt>Abs</tt></th></tr>

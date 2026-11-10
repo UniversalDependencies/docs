@@ -68,9 +68,9 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 The 10 most frequent relations where parent and child node agree in `Tense`:
 <tt>VERB --[<tt><a href="ru_poetry-dep-conj.html">conj</a></tt>]--> VERB</tt> (1281; 76%),
 <tt>VERB --[<tt><a href="ru_poetry-dep-nsubj.html">nsubj</a></tt>]--> VERB</tt> (8; 73%),
-<tt>VERB --[<tt><a href="ru_poetry-dep-obl-depict.html">obl:depict</a></tt>]--> VERB</tt> (4; 100%),
+<tt>VERB --[<tt><a href="ru_poetry-dep-obl-depict.html">obl:depict</a></tt>]--> VERB</tt> (5; 100%),
 <tt>VERB --[<tt><a href="ru_poetry-dep-iobj.html">iobj</a></tt>]--> VERB</tt> (3; 100%),
-<tt>VERB --[<tt><a href="ru_poetry-dep-acl.html">acl</a></tt>]--> VERB</tt> (2; 100%),
 <tt>VERB --[<tt><a href="ru_poetry-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (1; 100%),
+<tt>VERB --[<tt><a href="ru_poetry-dep-acl.html">acl</a></tt>]--> VERB</tt> (1; 100%),
 <tt>VERB --[<tt><a href="ru_poetry-dep-obl-agent.html">obl:agent</a></tt>]--> VERB</tt> (1; 100%).
 

@@ -6,16 +6,16 @@ udver: '2'
 
 ## Treebank Statistics: UD_Yoruba-YTB: POS Tags: `ADP`
 
-There are 121 `ADP` lemmas (7%), 121 `ADP` types (7%) and 691 `ADP` tokens (8%).
+There are 114 `ADP` lemmas (7%), 114 `ADP` types (7%) and 687 `ADP` tokens (8%).
 Out of 17 observed tags, the rank of `ADP` is: 4 in number of lemmas, 4 in number of types and 5 in number of tokens.
 
 The 10 most frequent `ADP` lemmas: <em>ní, fún, sí, láti, nínú, ti, inú, kúrò, lẹ́yìn, nípa</em>
 
 The 10 most frequent `ADP` types:  <em>ní, fún, sí, láti, nínú, ti, inú, kúrò, lẹ́yìn, nípa</em>
 
-The 10 most frequent ambiguous lemmas: <em>ní</em> (<tt><a href="yo_ytb-pos-ADP.html">ADP</a></tt> 137, <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> 28, <tt><a href="yo_ytb-pos-AUX.html">AUX</a></tt> 8, <tt><a href="yo_ytb-pos-PART.html">PART</a></tt> 1), <em>fún</em> (<tt><a href="yo_ytb-pos-ADP.html">ADP</a></tt> 109, <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> 3, <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> 1), <em>sí</em> (<tt><a href="yo_ytb-pos-ADP.html">ADP</a></tt> 78, <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> 8, <tt><a href="yo_ytb-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt> 1), <em>láti</em> (<tt><a href="yo_ytb-pos-ADP.html">ADP</a></tt> 53, <tt><a href="yo_ytb-pos-CCONJ.html">CCONJ</a></tt> 1), <em>ti</em> (<tt><a href="yo_ytb-pos-AUX.html">AUX</a></tt> 70, <tt><a href="yo_ytb-pos-ADP.html">ADP</a></tt> 17, <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> 4), <em>lẹ́yìn</em> (<tt><a href="yo_ytb-pos-ADP.html">ADP</a></tt> 11, <tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> 1), <em>nípa</em> (<tt><a href="yo_ytb-pos-ADP.html">ADP</a></tt> 9, <tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> 1), <em>lọ́wọ́</em> (<tt><a href="yo_ytb-pos-ADP.html">ADP</a></tt> 7, <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> 1), <em>bá</em> (<tt><a href="yo_ytb-pos-SCONJ.html">SCONJ</a></tt> 46, <tt><a href="yo_ytb-pos-ADP.html">ADP</a></tt> 6, <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> 4, <tt><a href="yo_ytb-pos-AUX.html">AUX</a></tt> 2), <em>ilé</em> (<tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> 24, <tt><a href="yo_ytb-pos-ADP.html">ADP</a></tt> 5)
+The 10 most frequent ambiguous lemmas: <em>ní</em> (<tt><a href="yo_ytb-pos-ADP.html">ADP</a></tt> 137, <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> 28, <tt><a href="yo_ytb-pos-AUX.html">AUX</a></tt> 8, <tt><a href="yo_ytb-pos-PART.html">PART</a></tt> 1), <em>fún</em> (<tt><a href="yo_ytb-pos-ADP.html">ADP</a></tt> 109, <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> 3, <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> 1), <em>sí</em> (<tt><a href="yo_ytb-pos-ADP.html">ADP</a></tt> 78, <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> 8, <tt><a href="yo_ytb-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt> 1), <em>láti</em> (<tt><a href="yo_ytb-pos-ADP.html">ADP</a></tt> 53, <tt><a href="yo_ytb-pos-CCONJ.html">CCONJ</a></tt> 1), <em>ti</em> (<tt><a href="yo_ytb-pos-AUX.html">AUX</a></tt> 70, <tt><a href="yo_ytb-pos-ADP.html">ADP</a></tt> 18, <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> 3), <em>lẹ́yìn</em> (<tt><a href="yo_ytb-pos-ADP.html">ADP</a></tt> 11, <tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> 1), <em>nípa</em> (<tt><a href="yo_ytb-pos-ADP.html">ADP</a></tt> 9, <tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> 1), <em>lọ́wọ́</em> (<tt><a href="yo_ytb-pos-ADP.html">ADP</a></tt> 7, <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> 1), <em>bá</em> (<tt><a href="yo_ytb-pos-SCONJ.html">SCONJ</a></tt> 46, <tt><a href="yo_ytb-pos-ADP.html">ADP</a></tt> 6, <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> 4, <tt><a href="yo_ytb-pos-AUX.html">AUX</a></tt> 2), <em>ilé</em> (<tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> 24, <tt><a href="yo_ytb-pos-ADP.html">ADP</a></tt> 5)
 
-The 10 most frequent ambiguous types:  <em>ní</em> (<tt><a href="yo_ytb-pos-ADP.html">ADP</a></tt> 128, <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> 28, <tt><a href="yo_ytb-pos-AUX.html">AUX</a></tt> 8, <tt><a href="yo_ytb-pos-PART.html">PART</a></tt> 3), <em>fún</em> (<tt><a href="yo_ytb-pos-ADP.html">ADP</a></tt> 107, <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> 3), <em>sí</em> (<tt><a href="yo_ytb-pos-ADP.html">ADP</a></tt> 78, <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> 8, <tt><a href="yo_ytb-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt> 1), <em>ti</em> (<tt><a href="yo_ytb-pos-AUX.html">AUX</a></tt> 68, <tt><a href="yo_ytb-pos-ADP.html">ADP</a></tt> 16, <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> 6, <tt><a href="yo_ytb-pos-CCONJ.html">CCONJ</a></tt> 1), <em>nípa</em> (<tt><a href="yo_ytb-pos-ADP.html">ADP</a></tt> 9, <tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> 1), <em>lọ́wọ́</em> (<tt><a href="yo_ytb-pos-ADP.html">ADP</a></tt> 7, <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> 2), <em>bá</em> (<tt><a href="yo_ytb-pos-SCONJ.html">SCONJ</a></tt> 46, <tt><a href="yo_ytb-pos-ADP.html">ADP</a></tt> 5, <tt><a href="yo_ytb-pos-AUX.html">AUX</a></tt> 2, <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> 2), <em>si</em> (<tt><a href="yo_ytb-pos-ADP.html">ADP</a></tt> 6, <tt><a href="yo_ytb-pos-CCONJ.html">CCONJ</a></tt> 2), <em>ilé</em> (<tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> 23, <tt><a href="yo_ytb-pos-ADP.html">ADP</a></tt> 4), <em>sókè</em> (<tt><a href="yo_ytb-pos-ADP.html">ADP</a></tt> 5, <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>ní</em> (<tt><a href="yo_ytb-pos-ADP.html">ADP</a></tt> 128, <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> 28, <tt><a href="yo_ytb-pos-AUX.html">AUX</a></tt> 8, <tt><a href="yo_ytb-pos-PART.html">PART</a></tt> 3), <em>fún</em> (<tt><a href="yo_ytb-pos-ADP.html">ADP</a></tt> 107, <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> 3), <em>sí</em> (<tt><a href="yo_ytb-pos-ADP.html">ADP</a></tt> 78, <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> 8, <tt><a href="yo_ytb-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt> 1), <em>ti</em> (<tt><a href="yo_ytb-pos-AUX.html">AUX</a></tt> 68, <tt><a href="yo_ytb-pos-ADP.html">ADP</a></tt> 17, <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> 5, <tt><a href="yo_ytb-pos-CCONJ.html">CCONJ</a></tt> 1), <em>nípa</em> (<tt><a href="yo_ytb-pos-ADP.html">ADP</a></tt> 9, <tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> 1), <em>lọ́wọ́</em> (<tt><a href="yo_ytb-pos-ADP.html">ADP</a></tt> 7, <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> 2), <em>bá</em> (<tt><a href="yo_ytb-pos-SCONJ.html">SCONJ</a></tt> 46, <tt><a href="yo_ytb-pos-ADP.html">ADP</a></tt> 5, <tt><a href="yo_ytb-pos-AUX.html">AUX</a></tt> 2, <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> 2), <em>si</em> (<tt><a href="yo_ytb-pos-ADP.html">ADP</a></tt> 6, <tt><a href="yo_ytb-pos-CCONJ.html">CCONJ</a></tt> 2), <em>ilé</em> (<tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> 23, <tt><a href="yo_ytb-pos-ADP.html">ADP</a></tt> 4), <em>sókè</em> (<tt><a href="yo_ytb-pos-ADP.html">ADP</a></tt> 5, <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> 1)
 
 
 * <em>ní</em>
@@ -33,8 +33,8 @@ The 10 most frequent ambiguous types:  <em>ní</em> (<tt><a href="yo_ytb-pos-ADP
   * <tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt> 1: <em>À únfẹ́ ìrànlọ́wọ́ láti ṣe ìyípadà ìjúwe gbogbo àwọn àwòrán náà , ṣíṣèyẹ̀wò wọn ní irocks.com bóyá àwòrán kan kò <b>sí</b> , àti láti rù wọ́n sókè sí Commons.</em>
 * <em>ti</em>
   * <tt><a href="yo_ytb-pos-AUX.html">AUX</a></tt> 68: <em>Ṣùgbọ́n ẹni tí ó bá <b>ti</b> ẹnu - ọ̀nà wọlé , Òun ni olùṣọ́ àwọn àgùntàn .</em>
-  * <tt><a href="yo_ytb-pos-ADP.html">ADP</a></tt> 16: <em>Ísírẹ́lì , ìwọ ní ìrètí ní <b>ti</b> Olúwa láti ìsinsinyí lọ àti láéláé .</em>
-  * <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> 6: <em>Nítorí <b>ti</b> ó rò ní ọkàn rẹ̀ pé , “ Bí mo bá ṣá à lè fi ọwọ́ kan aṣọ rẹ̀ , ara mi yóò dá . ”</em>
+  * <tt><a href="yo_ytb-pos-ADP.html">ADP</a></tt> 17: <em>Ísírẹ́lì , ìwọ ní ìrètí ní <b>ti</b> Olúwa láti ìsinsinyí lọ àti láéláé .</em>
+  * <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> 5: <em>Nítorí <b>ti</b> ó rò ní ọkàn rẹ̀ pé , “ Bí mo bá ṣá à lè fi ọwọ́ kan aṣọ rẹ̀ , ara mi yóò dá . ”</em>
   * <tt><a href="yo_ytb-pos-CCONJ.html">CCONJ</a></tt> 1: <em>“ Alábùkún - fún ni ẹ̀yin nígbà tí àwọn ènìyàn bá fi àbùkù kàn yín tí wọn bá ṣe inúnibíni sí yín , <b>ti</b> wọn fi ètè èké sọ̀rọ̀ búburú gbogbo sí yín nítorí mi .</em>
 * <em>nípa</em>
   * <tt><a href="yo_ytb-pos-ADP.html">ADP</a></tt> 9: <em>Orígun máàrún Wikipédíà ṣe àlàyé ránpẹ́ <b>nípa</b> ìlànà Wikipédíà .</em>
@@ -59,7 +59,7 @@ The 10 most frequent ambiguous types:  <em>ní</em> (<tt><a href="yo_ytb-pos-ADP
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.000000 (the average of all parts of speech is 1.007366).
+The form / lemma ratio of `ADP` is 1.000000 (the average of all parts of speech is 1.010546).
 
 The 1st highest number of forms (2) was observed with the lemma “ní”: <em>ni, ní</em>.
 
@@ -67,22 +67,22 @@ The 2nd highest number of forms (2) was observed with the lemma “sí”: <em>s
 
 The 3rd highest number of forms (2) was observed with the lemma “ti”: <em>sí, ti</em>.
 
-`ADP` occurs with 6 features: <tt><a href="yo_ytb-feat-Typo.html">Typo</a></tt> (5; 1% instances), <tt><a href="yo_ytb-feat-Case.html">Case</a></tt> (2; 0% instances), <tt><a href="yo_ytb-feat-Number.html">Number</a></tt> (2; 0% instances), <tt><a href="yo_ytb-feat-Person.html">Person</a></tt> (2; 0% instances), <tt><a href="yo_ytb-feat-PronType.html">PronType</a></tt> (2; 0% instances), <tt><a href="yo_ytb-feat-NumType.html">NumType</a></tt> (1; 0% instances)
+`ADP` occurs with 8 features: <tt><a href="yo_ytb-feat-Typo.html">Typo</a></tt> (5; 1% instances), <tt><a href="yo_ytb-feat-Case.html">Case</a></tt> (2; 0% instances), <tt><a href="yo_ytb-feat-ExtPos.html">ExtPos</a></tt> (2; 0% instances), <tt><a href="yo_ytb-feat-Number.html">Number</a></tt> (2; 0% instances), <tt><a href="yo_ytb-feat-Person.html">Person</a></tt> (2; 0% instances), <tt><a href="yo_ytb-feat-PronType.html">PronType</a></tt> (2; 0% instances), <tt><a href="yo_ytb-feat-Foreign.html">Foreign</a></tt> (1; 0% instances), <tt><a href="yo_ytb-feat-NumType.html">NumType</a></tt> (1; 0% instances)
 
-`ADP` occurs with 6 feature-value pairs: `Case=Acc`, `NumType=Card`, `Number=Sing`, `Person=1`, `PronType=Prs`, `Typo=Yes`
+`ADP` occurs with 9 feature-value pairs: `Case=Acc`, `ExtPos=ADP`, `ExtPos=SCONJ`, `Foreign=Yes`, `NumType=Card`, `Number=Sing`, `Person=1`, `PronType=Prs`, `Typo=Yes`
 
-`ADP` occurs with 4 feature combinations.
-The most frequent feature combination is `_` (683 tokens).
+`ADP` occurs with 7 feature combinations.
+The most frequent feature combination is `_` (676 tokens).
 Examples: <em>ní, fún, sí, láti, nínú, ti, inú, kúrò, lẹ́yìn, nípa</em>
 
 
 ## Relations
 
-`ADP` nodes are attached to their parents using 6 different relations: <tt><a href="yo_ytb-dep-case.html">case</a></tt> (653; 95% instances), <tt><a href="yo_ytb-dep-mark.html">mark</a></tt> (17; 2% instances), <tt><a href="yo_ytb-dep-compound.html">compound</a></tt> (8; 1% instances), <tt><a href="yo_ytb-dep-obl.html">obl</a></tt> (8; 1% instances), <tt><a href="yo_ytb-dep-compound-prt.html">compound:prt</a></tt> (4; 1% instances), <tt><a href="yo_ytb-dep-nmod.html">nmod</a></tt> (1; 0% instances)
+`ADP` nodes are attached to their parents using 6 different relations: <tt><a href="yo_ytb-dep-case.html">case</a></tt> (648; 94% instances), <tt><a href="yo_ytb-dep-mark.html">mark</a></tt> (17; 2% instances), <tt><a href="yo_ytb-dep-compound.html">compound</a></tt> (8; 1% instances), <tt><a href="yo_ytb-dep-obl.html">obl</a></tt> (7; 1% instances), <tt><a href="yo_ytb-dep-compound-prt.html">compound:prt</a></tt> (4; 1% instances), <tt><a href="yo_ytb-dep-nmod.html">nmod</a></tt> (3; 0% instances)
 
-Parents of `ADP` nodes belong to 10 different parts of speech: <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (427; 62% instances), <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> (118; 17% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (88; 13% instances), <tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt> (21; 3% instances), <tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt> (16; 2% instances), <tt><a href="yo_ytb-pos-NUM.html">NUM</a></tt> (8; 1% instances), <tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> (7; 1% instances), <tt><a href="yo_ytb-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="yo_ytb-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="yo_ytb-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
+Parents of `ADP` nodes belong to 10 different parts of speech: <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (418; 61% instances), <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> (119; 17% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (89; 13% instances), <tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt> (23; 3% instances), <tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt> (17; 2% instances), <tt><a href="yo_ytb-pos-NUM.html">NUM</a></tt> (8; 1% instances), <tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> (7; 1% instances), <tt><a href="yo_ytb-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="yo_ytb-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="yo_ytb-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
 
-674 (98%) `ADP` nodes are leaves.
+670 (98%) `ADP` nodes are leaves.
 
 13 (2%) `ADP` nodes have one child.
 

@@ -22,15 +22,15 @@ The following 14 pairs of parts of speech are connected with `appos`: <tt><a hre
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 5 appos	color:blue
-1	Her	her	PRON	PRP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	nmod:poss	3:nmod:poss	_
+1	Her	her	PRON	PRP$	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	nmod:poss	3:nmod:poss	_
 2	1981	1981	NUM	CD	NumForm=Digit|NumType=Card	3	compound	3:compound	_
 3	album	album	NOUN	NN	Number=Sing	7	nsubj	7:nsubj	_
 4	Wild	Wild	ADJ	JJ	Degree=Pos	5	amod	5:amod	Proper=True
-5	West	West	PROPN	NNP	_	3	appos	3:appos	_
+5	West	West	PROPN	NNP	Number=Sing	3	appos	3:appos	_
 6	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	cop	7:cop	_
 7	one	one	NUM	CD	NumForm=Word|NumType=Card	0	root	0:root	_
 8	of	of	ADP	IN	_	11	case	11:case	_
-9	her	her	PRON	PRP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	11	nmod:poss	11:nmod:poss	_
+9	her	her	PRON	PRP$	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	11	nmod:poss	11:nmod:poss	_
 10	biggest	big	ADJ	JJS	Degree=Sup	11	amod	11:amod	_
 11	sellers	seller	NOUN	NNS	Number=Plur	7	nmod	7:nmod:of	SpaceAfter=No
 12	.	.	PUNCT	.	_	7	punct	7:punct	_
@@ -46,14 +46,14 @@ The following 14 pairs of parts of speech are connected with `appos`: <tt><a hre
 # visual-style 14 16 appos	color:blue
 1	Wright	Wright	PROPN	NNP	Number=Sing	3	nsubj:pass	3:nsubj:pass|10:nsubj:pass	_
 2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	aux:pass	3:aux:pass	_
-3	born	bear	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
+3	born	bear	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	_
 4	in	in	ADP	IN	_	5	case	5:case	_
 5	Poole	Poole	PROPN	NNP	Number=Sing	3	obl	3:obl:in	SpaceAfter=No
 6	,	,	PUNCT	,	_	7	punct	7:punct	_
 7	Dorset	Dorset	PROPN	NNP	Number=Sing	5	appos	5:appos	SpaceAfter=No
 8	,	,	PUNCT	,	_	7	punct	7:punct	_
 9	but	but	CCONJ	CC	_	10	cc	10:cc	_
-10	grew	grow	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	3	conj	3:conj:but	_
+10	grew	grow	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	conj	3:conj:but	_
 11	up	up	ADP	RP	_	10	compound:prt	10:compound:prt	_
 12	predominantly	predominantly	ADV	RB	_	10	advmod	10:advmod	_
 13	in	in	ADP	IN	_	14	case	14:case	_
@@ -73,8 +73,8 @@ The following 14 pairs of parts of speech are connected with `appos`: <tt><a hre
 # visual-style 6 12 appos	color:blue
 1	New	new	ADJ	JJ	Degree=Pos	2	amod	2:amod	_
 2	episodes	episode	NOUN	NNS	Number=Plur	4	nsubj:pass	4:nsubj:pass	_
-3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux:pass	4:aux:pass	_
-4	followed	follow	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
+3	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	aux:pass	4:aux:pass	_
+4	followed	follow	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	_
 5	by	by	ADP	IN	_	6	case	6:case	_
 6	after	aftershow	NOUN	GW	Number=Sing|Typo=Yes	4	obl	4:obl:by	_
 7	show	_	X	NN	_	6	goeswith	6:goeswith	SpaceAfter=No

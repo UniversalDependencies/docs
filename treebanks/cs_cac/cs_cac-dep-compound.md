@@ -50,7 +50,7 @@ The following 4 pairs of parts of speech are connected with `compound`: <tt><a h
 6	dětských	dětský	ADJ	AANP2----1A----	Case=Gen|Degree=Pos|Gender=Neut|Number=Plur|Polarity=Pos	8	amod	8:amod	_
 7	tanečních	taneční	ADJ	AANP2----1A----	Case=Gen|Degree=Pos|Gender=Neut|Number=Plur|Polarity=Pos	8	amod	8:amod	LId=taneční-1
 8	těles	těleso	NOUN	NNNP2-----A----	Case=Gen|Gender=Neut|Number=Plur	3	nmod	3:nmod:z:gen	_
-9	má	mít	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	1	ccomp	1:ccomp	_
+9	má	mít	VERB	VB-S---3P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	1	ccomp	1:ccomp	_
 10	postoupit	postoupit	VERB	Vf--------A----	Aspect=Perf|Polarity=Pos|VerbForm=Inf	9	xcomp	9:xcomp	_
 11	dál	daleko	ADV	Dg-------2A----	Degree=Cmp|Polarity=Pos	10	advmod	10:advmod	SpaceAfter=No|LId=daleko-1|LGloss=(dojít_dále_než_...)
 12	,	,	PUNCT	Z:-------------	_	15	punct	15:punct	_
@@ -68,7 +68,7 @@ The following 4 pairs of parts of speech are connected with `compound`: <tt><a h
 24	Bruntále	Bruntál	PROPN	NNIS6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|NameType=Geo|Number=Sing	20	nmod	20:nmod:v:loc	SpaceAfter=No
 25	,	,	PUNCT	Z:-------------	_	9	punct	9:punct	_
 26	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	27	expl:pv	27:expl:pv	LGloss=(zvr._zájmeno/částice)
-27	zdálo	zdát	VERB	VpNS---XR-AA---	Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	_
+27	zdálo	zdát	VERB	VpNS---XR-AA---	Aspect=Imp|Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	_
 28	skoro	skoro	ADV	Db-------------	_	29	advmod:emph	29:advmod:emph	_
 29	nemožné	možný	ADJ	AANS1----1N----	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Neg	27	advcl:pred	27:advcl:pred	SpaceAfter=No
 30	.	.	PUNCT	Z:-------------	_	27	punct	27:punct	_
@@ -110,7 +110,7 @@ The following 4 pairs of parts of speech are connected with `compound`: <tt><a h
 26	kde	kde	ADV	Db-------------	PronType=Int,Rel	29	advmod	24:ref	_
 27	není	být	AUX	VB-S---3P-NA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	28	cop	28:cop	_
 28	možno	možný	ADJ	ACNS------A----	Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos|Variant=Short	24	acl:relcl	24:acl:relcl	_
-29	větrat	větrat	VERB	Vf--------A----	Polarity=Pos|VerbForm=Inf	28	csubj	28:csubj	SpaceAfter=No
+29	větrat	větrat	VERB	Vf--------A----	Aspect=Imp|Polarity=Pos|VerbForm=Inf	28	csubj	28:csubj	SpaceAfter=No
 30	.	.	PUNCT	Z:-------------	_	1	punct	1:punct	_
 
 ~~~

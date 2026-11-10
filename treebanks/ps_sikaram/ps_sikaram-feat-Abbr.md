@@ -23,7 +23,7 @@ The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: 
 `ADJ` tokens may have the following values of `Abbr`:
 
 * `Yes` (7; 100% of non-empty `Abbr`): <em>ق, هـ, م</em>
-* `EMPTY` (579): <em>نورو, زده, زيات, ښه, سمه, ټولنیز, ټولنیزو, پوهنیزو, اړ, جوړ</em>
+* `EMPTY` (719): <em>زده, نورو, زيات, پوهنیزو, نور, ښه, سمه, پوهنیز, جوړ, ټولنیز</em>
 
 ## Relations with Agreement in `Abbr`
 

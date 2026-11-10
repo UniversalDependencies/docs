@@ -25,7 +25,7 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 * `1` (552; 13% of non-empty `Person`): <em>δώσω, εἶδον, ποιήσω, εἶπα, ἐποίησα, εἰσῆλθον, εὐλογήσω, εὗρον, πληθυνῶ, στήσω</em>
 * `2` (673; 15% of non-empty `Person`): <em>ποιήσεις, λήμψῃ, ἐποίησας, λαβὲ, λάβετε, πληθύνεσθε, πορεύσῃ, φοβοῦ, αὐξάνεσθε, εἴπατε</em>
 * `3` (3188; 72% of non-empty `Person`): <em>εἶπεν, ἐγένετο, ἐκάλεσεν, ἐγέννησεν, ἔτεκεν, ἐποίησεν, ἔδωκεν, εἶδεν, ἔλαβεν, εἶπαν</em>
-* `EMPTY` (912): <em>λέγων, γεννῆσαι, λέγοντες, ἀναστὰς, λέγουσα, ἐλθεῖν, ἀποκριθεὶς, ὑπάρχοντα, ἰδὼν, συλλαβοῦσα</em>
+* `EMPTY` (913): <em>λέγων, γεννῆσαι, λέγοντες, ἀναστὰς, λέγουσα, ἐλθεῖν, ἀποκριθεὶς, ὑπάρχοντα, ἰδὼν, συλλαβοῦσα</em>
 
 <table>
   <tr><th>Paradigm <i>εἶπον</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -93,7 +93,7 @@ The most frequent other feature values with which `ADJ` and `Person` co-occurred
 `ADJ` tokens may have the following values of `Person`:
 
 * `1` (1; 100% of non-empty `Person`): <em>ἡμετέραν</em>
-* `EMPTY` (1347): <em>κύριος, πάντα, μέσον, πάντων, ὅσα, πᾶν, πᾶσαν, πάσης, πᾶσαι, πάντας</em>
+* `EMPTY` (1346): <em>κύριος, πάντα, μέσον, πάντων, ὅσα, πᾶν, πᾶσαν, πάσης, πᾶσαι, πάντας</em>
 
 ## Relations with Agreement in `Person`
 

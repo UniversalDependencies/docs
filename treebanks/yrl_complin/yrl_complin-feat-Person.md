@@ -47,7 +47,7 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 
 2666 <tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> tokens (76% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="yrl_complin-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (2666; 100%), <tt><a href="yrl_complin-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1921; 72%), <tt><a href="yrl_complin-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (1719; 64%), <tt><a href="yrl_complin-feat-Case.html">Case</a></tt><tt>=Gen</tt> (1504; 56%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="yrl_complin-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (2666; 100%), <tt><a href="yrl_complin-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1921; 72%), <tt><a href="yrl_complin-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (1719; 64%), <tt><a href="yrl_complin-feat-Case.html">Case</a></tt><tt>=Gen</tt> (1502; 56%).
 
 `PRON` tokens may have the following values of `Person`:
 
@@ -84,7 +84,7 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 ## Relations with Agreement in `Person`
 
 The 10 most frequent relations where parent and child node agree in `Person`:
-<tt>VERB --[<tt><a href="yrl_complin-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (542; 60%),
+<tt>VERB --[<tt><a href="yrl_complin-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (541; 60%),
 <tt>VERB --[<tt><a href="yrl_complin-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (536; 78%),
 <tt>VERB --[<tt><a href="yrl_complin-dep-aux.html">aux</a></tt>]--> AUX</tt> (359; 63%),
 <tt>VERB --[<tt><a href="yrl_complin-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (314; 66%),

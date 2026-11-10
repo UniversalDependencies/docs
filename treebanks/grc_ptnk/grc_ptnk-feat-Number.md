@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Plur`, `Sing`.
 
-25020 tokens (63%) have a non-empty value of `Number`.
-4748 types (90%) occur at least once with a non-empty value of `Number`.
-1838 lemmas (83%) occur at least once with a non-empty value of `Number`.
-The feature is used with 8 part-of-speech tags: <tt><a href="grc_ptnk-pos-NOUN.html">NOUN</a></tt> (6074; 15% instances), <tt><a href="grc_ptnk-pos-DET.html">DET</a></tt> (5157; 13% instances), <tt><a href="grc_ptnk-pos-VERB.html">VERB</a></tt> (5025; 13% instances), <tt><a href="grc_ptnk-pos-PRON.html">PRON</a></tt> (4287; 11% instances), <tt><a href="grc_ptnk-pos-PROPN.html">PROPN</a></tt> (2350; 6% instances), <tt><a href="grc_ptnk-pos-ADJ.html">ADJ</a></tt> (1348; 3% instances), <tt><a href="grc_ptnk-pos-AUX.html">AUX</a></tt> (522; 1% instances), <tt><a href="grc_ptnk-pos-NUM.html">NUM</a></tt> (257; 1% instances).
+25066 tokens (63%) have a non-empty value of `Number`.
+4756 types (90%) occur at least once with a non-empty value of `Number`.
+1837 lemmas (83%) occur at least once with a non-empty value of `Number`.
+The feature is used with 8 part-of-speech tags: <tt><a href="grc_ptnk-pos-NOUN.html">NOUN</a></tt> (6074; 15% instances), <tt><a href="grc_ptnk-pos-DET.html">DET</a></tt> (5157; 13% instances), <tt><a href="grc_ptnk-pos-VERB.html">VERB</a></tt> (5026; 13% instances), <tt><a href="grc_ptnk-pos-PRON.html">PRON</a></tt> (4287; 11% instances), <tt><a href="grc_ptnk-pos-PROPN.html">PROPN</a></tt> (2396; 6% instances), <tt><a href="grc_ptnk-pos-ADJ.html">ADJ</a></tt> (1347; 3% instances), <tt><a href="grc_ptnk-pos-AUX.html">AUX</a></tt> (522; 1% instances), <tt><a href="grc_ptnk-pos-NUM.html">NUM</a></tt> (257; 1% instances).
 
 ### `NOUN`
 
@@ -67,14 +67,14 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 
 ### `VERB`
 
-5025 <tt><a href="grc_ptnk-pos-VERB.html">VERB</a></tt> tokens (94% of all `VERB` tokens) have a non-empty value of `Number`.
+5026 <tt><a href="grc_ptnk-pos-VERB.html">VERB</a></tt> tokens (94% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="grc_ptnk-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (4413; 88%), <tt><a href="grc_ptnk-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (4413; 88%), <tt><a href="grc_ptnk-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (4412; 88%), <tt><a href="grc_ptnk-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (3845; 77%), <tt><a href="grc_ptnk-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (3836; 76%), <tt><a href="grc_ptnk-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (3637; 72%), <tt><a href="grc_ptnk-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (3565; 71%), <tt><a href="grc_ptnk-feat-Person.html">Person</a></tt><tt>=3</tt> (3188; 63%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="grc_ptnk-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (4413; 88%), <tt><a href="grc_ptnk-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (4413; 88%), <tt><a href="grc_ptnk-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (4412; 88%), <tt><a href="grc_ptnk-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (3846; 77%), <tt><a href="grc_ptnk-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (3837; 76%), <tt><a href="grc_ptnk-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (3637; 72%), <tt><a href="grc_ptnk-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (3566; 71%), <tt><a href="grc_ptnk-feat-Person.html">Person</a></tt><tt>=3</tt> (3188; 63%).
 
 `VERB` tokens may have the following values of `Number`:
 
 * `Plur` (1026; 20% of non-empty `Number`): <em>εἶπαν, ἐγένοντο, λέγοντες, ἦλθον, ἔλαβον, ἔφαγον, προσεκύνησαν, ἔθαψαν, ἀνέβαινον, ἐποίησαν</em>
-* `Sing` (3999; 80% of non-empty `Number`): <em>εἶπεν, ἐγένετο, ἐκάλεσεν, ἐγέννησεν, λέγων, ἔτεκεν, ἐποίησεν, ἔδωκεν, εἶδεν, ἔλαβεν</em>
+* `Sing` (4000; 80% of non-empty `Number`): <em>εἶπεν, ἐγένετο, ἐκάλεσεν, ἐγέννησεν, λέγων, ἔτεκεν, ἐποίησεν, ἔδωκεν, εἶδεν, ἔλαβεν</em>
 * `EMPTY` (300): <em>γεννῆσαι, ἐλθεῖν, ἰδεῖν, φαγεῖν, ἀποθανεῖν, δοῦναι, κοιμηθῆναι, λαβεῖν, τίκτειν, δοῦναί</em>
 
 <table>
@@ -109,9 +109,10 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
   <tr><td><tt><tt><a href="grc_ptnk-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="grc_ptnk-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>αὐτὴν, αὐτήν</em></td><td><em>αὐτὰς, αὐτάς</em></td></tr>
   <tr><td><tt><tt><a href="grc_ptnk-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="grc_ptnk-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>αὐτὸ, αὐτό</em></td><td><em>αὐτὰ, αὐτά</em></td></tr>
   <tr><td><tt><tt><a href="grc_ptnk-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="grc_ptnk-feat-Gender.html">Gender</a></tt><tt>=Masc,Neut</tt></tt></td><td><em>αὐτῷ</em></td><td><em>αὐτοῖς</em></td></tr>
+  <tr><td><tt><tt><a href="grc_ptnk-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="grc_ptnk-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td></td><td><em>αὐτοῖς</em></td></tr>
   <tr><td><tt><tt><a href="grc_ptnk-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="grc_ptnk-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>αὐτῇ</em></td><td><em>αὐταῖς</em></td></tr>
   <tr><td><tt><tt><a href="grc_ptnk-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="grc_ptnk-feat-Gender.html">Gender</a></tt><tt>=Masc,Neut</tt></tt></td><td><em>αὐτοῦ</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="grc_ptnk-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="grc_ptnk-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>αὐτοῦ</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="grc_ptnk-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="grc_ptnk-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>αὐτοῦ</em></td><td><em>αὐτῶν</em></td></tr>
   <tr><td><tt><tt><a href="grc_ptnk-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="grc_ptnk-feat-Gender.html">Gender</a></tt><tt>=Fem,Masc,Neut</tt></tt></td><td></td><td><em>αὐτῶν</em></td></tr>
   <tr><td><tt><tt><a href="grc_ptnk-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="grc_ptnk-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>αὐτῆς</em></td><td></td></tr>
   <tr><td><tt><tt><a href="grc_ptnk-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="grc_ptnk-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td></td><td><em>αὐτῶν</em></td></tr>
@@ -122,15 +123,15 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 ### `PROPN`
 
-2350 <tt><a href="grc_ptnk-pos-PROPN.html">PROPN</a></tt> tokens (87% of all `PROPN` tokens) have a non-empty value of `Number`.
+2396 <tt><a href="grc_ptnk-pos-PROPN.html">PROPN</a></tt> tokens (89% of all `PROPN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PROPN` and `Number` co-occurred: <tt><a href="grc_ptnk-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1787; 76%).
+The most frequent other feature values with which `PROPN` and `Number` co-occurred: <tt><a href="grc_ptnk-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1900; 79%).
 
 `PROPN` tokens may have the following values of `Number`:
 
 * `Plur` (97; 4% of non-empty `Number`): <em>Σοδόμων, Αἰγυπτίοις, Αἰγύπτιοι, Γεράρων, Χαναναίων, Σοδόμοις, Φυλιστιὶμ, Φυλιστιίμ, Χαλδαίων, Γεράροις</em>
-* `Sing` (2253; 96% of non-empty `Number`): <em>Ἰακὼβ, Ἰωσὴφ, Ἁβραὰμ, Ἡσαῦ, Ἰσαὰκ, Ἅβραμ, Ἰακώβ, Φαραὼ, Ἰωσήφ, Νῶε</em>
-* `EMPTY` (352): <em>Ἀβιμέλεχ, Βαιθλεὲμ, Θαμνά, Σεβεγών, Χὲτ, Ἀρρὰν, Ἐφραθᾶ, Ἰούδα, Δησών, Κάδης</em>
+* `Sing` (2299; 96% of non-empty `Number`): <em>Ἰακὼβ, Ἰωσὴφ, Ἁβραὰμ, Ἡσαῦ, Ἰσαὰκ, Ἅβραμ, Ἰακώβ, Φαραὼ, Ἰωσήφ, Νῶε</em>
+* `EMPTY` (306): <em>Θαμνά, Σεβεγών, Ἐφραθᾶ, Ἰούδα, Δησών, Κάδης, Λωτάν, Μααλὼν, Σεβωῒμ, Σενναὰρ</em>
 
 <table>
   <tr><th>Paradigm <i>Αἰγύπτιος</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -147,12 +148,12 @@ The most frequent other feature values with which `PROPN` and `Number` co-occurr
 
 ### `ADJ`
 
-1348 <tt><a href="grc_ptnk-pos-ADJ.html">ADJ</a></tt> tokens (100% of all `ADJ` tokens) have a non-empty value of `Number`.
+1347 <tt><a href="grc_ptnk-pos-ADJ.html">ADJ</a></tt> tokens (100% of all `ADJ` tokens) have a non-empty value of `Number`.
 
 `ADJ` tokens may have the following values of `Number`:
 
 * `Plur` (441; 33% of non-empty `Number`): <em>πάντων, ὅσα, πᾶσαι, πάντας, πάντες, πᾶσι, πᾶσιν, καθαρῶν, πάσας, εἰρηνικοί</em>
-* `Sing` (907; 67% of non-empty `Number`): <em>κύριος, πάντα, μέσον, πᾶν, πᾶσαν, πάσης, πάσῃ, πᾶς, πᾶσα, νεώτερος</em>
+* `Sing` (906; 67% of non-empty `Number`): <em>κύριος, πάντα, μέσον, πᾶν, πᾶσαν, πάσης, πάσῃ, πᾶς, πᾶσα, νεώτερος</em>
 
 <table>
   <tr><th>Paradigm <i>πᾶς</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -162,9 +163,11 @@ The most frequent other feature values with which `PROPN` and `Number` co-occurr
   <tr><td><tt><tt><a href="grc_ptnk-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="grc_ptnk-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>πᾶν</em></td><td></td></tr>
   <tr><td><tt><tt><a href="grc_ptnk-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="grc_ptnk-feat-Gender.html">Gender</a></tt><tt>=Masc,Neut</tt></tt></td><td><em>παντὶ</em></td><td><em>πᾶσι, πᾶσιν</em></td></tr>
   <tr><td><tt><tt><a href="grc_ptnk-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="grc_ptnk-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>πάσῃ</em></td><td><em>πάσαις</em></td></tr>
+  <tr><td><tt><tt><a href="grc_ptnk-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="grc_ptnk-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td></td><td><em>πάντων</em></td></tr>
   <tr><td><tt><tt><a href="grc_ptnk-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="grc_ptnk-feat-Gender.html">Gender</a></tt><tt>=Masc,Neut</tt></tt></td><td><em>παντὸς</em></td><td></td></tr>
   <tr><td><tt><tt><a href="grc_ptnk-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="grc_ptnk-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>πάσης</em></td><td><em>πασῶν</em></td></tr>
   <tr><td><tt><tt><a href="grc_ptnk-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="grc_ptnk-feat-Gender.html">Gender</a></tt><tt>=Fem,Masc,Neut</tt></tt></td><td></td><td><em>πάντων</em></td></tr>
+  <tr><td><tt><tt><a href="grc_ptnk-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="grc_ptnk-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td></td><td><em>πάντων</em></td></tr>
   <tr><td><tt><tt><a href="grc_ptnk-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="grc_ptnk-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>πᾶς</em></td><td><em>πάντες</em></td></tr>
   <tr><td><tt><tt><a href="grc_ptnk-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="grc_ptnk-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>πᾶσα</em></td><td><em>πᾶσαι</em></td></tr>
   <tr><td><tt><tt><a href="grc_ptnk-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="grc_ptnk-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>πᾶν</em></td><td></td></tr>
@@ -226,12 +229,15 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 
 <table>
   <tr><th>Paradigm <i>δύο</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt><tt><a href="grc_ptnk-feat-Case.html">Case</a></tt><tt>=Acc,Gen,Nom</tt>|<tt><a href="grc_ptnk-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>δύο</em></td><td></td></tr>
   <tr><td><tt><tt><a href="grc_ptnk-feat-Case.html">Case</a></tt><tt>=Acc,Gen,Nom</tt>|<tt><a href="grc_ptnk-feat-Gender.html">Gender</a></tt><tt>=Fem,Masc,Neut</tt></tt></td><td><em>δύο</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="grc_ptnk-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="grc_ptnk-feat-Gender.html">Gender</a></tt><tt>=Fem,Masc</tt></tt></td><td></td><td><em>δυσὶν</em></td></tr>
+  <tr><td><tt><tt><a href="grc_ptnk-feat-Case.html">Case</a></tt><tt>=Acc,Gen,Nom</tt>|<tt><a href="grc_ptnk-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>δύο</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="grc_ptnk-feat-Case.html">Case</a></tt><tt>=Acc,Gen,Nom</tt>|<tt><a href="grc_ptnk-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>δύο</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="grc_ptnk-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="grc_ptnk-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td></td><td><em>δυσὶν</em></td></tr>
   <tr><td><tt><tt><a href="grc_ptnk-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="grc_ptnk-feat-Gender.html">Gender</a></tt><tt>=Fem,Masc,Neut</tt></tt></td><td><em>δύο</em></td><td></td></tr>
   <tr><td><tt><tt><a href="grc_ptnk-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="grc_ptnk-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>δύο</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="grc_ptnk-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="grc_ptnk-feat-Gender.html">Gender</a></tt><tt>=Fem,Masc,Neut</tt></tt></td><td><em>δύο</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="grc_ptnk-feat-Gender.html">Gender</a></tt><tt>=Fem,Masc,Neut</tt></tt></td><td><em>δύο</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="grc_ptnk-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>δύο</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="grc_ptnk-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>δύο</em></td><td></td></tr>
 </table>
 
 ## Relations with Agreement in `Number`
@@ -242,9 +248,9 @@ The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>NOUN --[<tt><a href="grc_ptnk-dep-nmod-poss.html">nmod:poss</a></tt>]--> PRON</tt> (1034; 70%),
 <tt>VERB --[<tt><a href="grc_ptnk-dep-obl.html">obl</a></tt>]--> NOUN</tt> (717; 62%),
 <tt>VERB --[<tt><a href="grc_ptnk-dep-obj.html">obj</a></tt>]--> NOUN</tt> (664; 59%),
-<tt>VERB --[<tt><a href="grc_ptnk-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (654; 94%),
+<tt>VERB --[<tt><a href="grc_ptnk-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (660; 95%),
 <tt>VERB --[<tt><a href="grc_ptnk-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (575; 93%),
 <tt>VERB --[<tt><a href="grc_ptnk-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (539; 83%),
-<tt>PROPN --[<tt><a href="grc_ptnk-dep-det.html">det</a></tt>]--> DET</tt> (494; 96%),
-<tt>NOUN --[<tt><a href="grc_ptnk-dep-nmod-poss.html">nmod:poss</a></tt>]--> NOUN</tt> (417; 69%).
+<tt>PROPN --[<tt><a href="grc_ptnk-dep-det.html">det</a></tt>]--> DET</tt> (498; 97%),
+<tt>NOUN --[<tt><a href="grc_ptnk-dep-amod.html">amod</a></tt>]--> ADJ</tt> (417; 92%).
 

@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Acc`, `Gen`, `Nom`.
 
-933 tokens (5%) have a non-empty value of `Case`.
-46 types (1%) occur at least once with a non-empty value of `Case`.
-22 lemmas (1%) occur at least once with a non-empty value of `Case`.
-The feature is used with 1 part-of-speech tags: <tt><a href="en_gentle-pos-PRON.html">PRON</a></tt> (933; 5% instances).
+992 tokens (6%) have a non-empty value of `Case`.
+52 types (1%) occur at least once with a non-empty value of `Case`.
+26 lemmas (1%) occur at least once with a non-empty value of `Case`.
+The feature is used with 1 part-of-speech tags: <tt><a href="en_gentle-pos-PRON.html">PRON</a></tt> (992; 6% instances).
 
 ### `PRON`
 
-933 <tt><a href="en_gentle-pos-PRON.html">PRON</a></tt> tokens (79% of all `PRON` tokens) have a non-empty value of `Case`.
+992 <tt><a href="en_gentle-pos-PRON.html">PRON</a></tt> tokens (84% of all `PRON` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="en_gentle-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (932; 100%), <tt><a href="en_gentle-feat-Number.html">Number</a></tt><tt>=Sing</tt> (775; 83%), <tt><a href="en_gentle-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (700; 75%), <tt><a href="en_gentle-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (603; 65%).
+The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="en_gentle-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (932; 94%), <tt><a href="en_gentle-feat-Number.html">Number</a></tt><tt>=Sing</tt> (775; 78%), <tt><a href="en_gentle-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (757; 76%), <tt><a href="en_gentle-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (662; 67%).
 
 `PRON` tokens may have the following values of `Case`:
 
-* `Acc` (176; 19% of non-empty `Case`): <em>it, me, you, him, them, her, us, thee, yourself, himself</em>
-* `Gen` (234; 25% of non-empty `Case`): <em>his, my, your, its, our, her, their, you</em>
-* `Nom` (523; 56% of non-empty `Case`): <em>I, you, he, we, it, they, she, 't, him, Ii</em>
-* `EMPTY` (255): <em>that, what, which, this, there, who, nothing, something, thy, whom</em>
+* `Acc` (209; 21% of non-empty `Case`): <em>it, me, you, what, him, them, her, us, whom, thee</em>
+* `Gen` (236; 24% of non-empty `Case`): <em>his, my, your, its, our, her, their, whose, you</em>
+* `Nom` (547; 55% of non-empty `Case`): <em>I, you, he, we, it, they, who, she, what, 't</em>
+* `EMPTY` (196): <em>that, which, this, there, nothing, something, thy, anything, those, anyone</em>
 
 <table>
   <tr><th>Paradigm <i>I</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th></tr>
@@ -36,5 +36,6 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 ## Relations with Agreement in `Case`
 
 The 10 most frequent relations where parent and child node agree in `Case`:
-<tt>PRON --[<tt><a href="en_gentle-dep-conj.html">conj</a></tt>]--> PRON</tt> (3; 100%).
+<tt>PRON --[<tt><a href="en_gentle-dep-conj.html">conj</a></tt>]--> PRON</tt> (3; 100%),
+<tt>PRON --[<tt><a href="en_gentle-dep-reparandum.html">reparandum</a></tt>]--> PRON</tt> (2; 100%).
 

@@ -24,7 +24,7 @@ The following 13 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 # visual-style 4 7 acl:relcl	color:blue
 1	*	*	PUNCT	G---------	_	4	punct	4:punct	Vform=ذ|Translit=*
 2	ما	مَا	DET	S---------	PronType=Int	4	nsubj	4:nsubj	Vform=مَا|Gloss=what,which|Root=mA|Translit=mā|LTranslit=mā
-3	هي	هُوَ	PRON	SP---3FS1-	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nmod	4:nmod:nom	Vform=هِيَ|Gloss=he,she,it|Translit=hiya|LTranslit=huwa
+3	هي	هُوَ	PRON	SP---3FS1-	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	cop	4:cop	Vform=هِيَ|Gloss=he,she,it|Translit=hiya|LTranslit=huwa
 4	التهم	تُهمَة	NOUN	N------P1D	Case=Nom|Definite=Def|Number=Plur	0	root	0:root|7:nsubj:pass	Vform=اَلتُّهَمُ|Gloss=accusation,charge|Root=w h m|Translit=at-tuhamu|LTranslit=tuhmat
 5	التي	اَلَّذِي	DET	SR----FS1-	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	7	nsubj:pass	4:ref	Vform=اَلَّتِي|Gloss=that,which|Root=l|Translit=allatī|LTranslit=allaḏī
 6	س	سَ	AUX	F---------	_	7	aux:pass	7:aux:pass	Gloss=will|LTranslit=sa|Root=sa|Translit=sa|Vform=سَ

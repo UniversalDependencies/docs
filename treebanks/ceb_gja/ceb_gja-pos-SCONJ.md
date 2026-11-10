@@ -6,33 +6,37 @@ udver: '2'
 
 ## Treebank Statistics: UD_Cebuano-GJA: POS Tags: `SCONJ`
 
-There are 9 `SCONJ` lemmas (2%), 9 `SCONJ` types (2%) and 18 `SCONJ` tokens (1%).
+There are 11 `SCONJ` lemmas (2%), 11 `SCONJ` types (2%) and 22 `SCONJ` tokens (1%).
 Out of 14 observed tags, the rank of `SCONJ` is: 9 in number of lemmas, 9 in number of types and 10 in number of tokens.
 
-The 10 most frequent `SCONJ` lemmas: <em>kay, nga, apan, basta, kaysa, kon, sukad, suma, tungod</em>
+The 10 most frequent `SCONJ` lemmas: <em>kay, nga, apan, basta, kaysa, kon, kung, sukad, suma, tungod</em>
 
-The 10 most frequent `SCONJ` types:  <em>kay, nga, Basta, apan, kaysa, kon, sukad, suma, tungod</em>
+The 10 most frequent `SCONJ` types:  <em>kay, nga, Basta, apan, kaysa, kon, kung, og, sukad, suma</em>
 
-The 10 most frequent ambiguous lemmas: <em>kay</em> (<tt><a href="ceb_gja-pos-SCONJ.html">SCONJ</a></tt> 8, <tt><a href="ceb_gja-pos-PART.html">PART</a></tt> 2, <tt><a href="ceb_gja-pos-ADP.html">ADP</a></tt> 1), <em>nga</em> (<tt><a href="ceb_gja-pos-PART.html">PART</a></tt> 88, <tt><a href="ceb_gja-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="ceb_gja-pos-ADP.html">ADP</a></tt> 2), <em>apan</em> (<tt><a href="ceb_gja-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="ceb_gja-pos-SCONJ.html">SCONJ</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>kay</em> (<tt><a href="ceb_gja-pos-SCONJ.html">SCONJ</a></tt> 10, <tt><a href="ceb_gja-pos-PART.html">PART</a></tt> 5, <tt><a href="ceb_gja-pos-ADP.html">ADP</a></tt> 2), <em>nga</em> (<tt><a href="ceb_gja-pos-PART.html">PART</a></tt> 97, <tt><a href="ceb_gja-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="ceb_gja-pos-ADP.html">ADP</a></tt> 2, <tt><a href="ceb_gja-pos-ADV.html">ADV</a></tt> 1), <em>apan</em> (<tt><a href="ceb_gja-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="ceb_gja-pos-SCONJ.html">SCONJ</a></tt> 1), <em>ug</em> (<tt><a href="ceb_gja-pos-ADP.html">ADP</a></tt> 36, <tt><a href="ceb_gja-pos-CCONJ.html">CCONJ</a></tt> 13, <tt><a href="ceb_gja-pos-SCONJ.html">SCONJ</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>kay</em> (<tt><a href="ceb_gja-pos-SCONJ.html">SCONJ</a></tt> 8, <tt><a href="ceb_gja-pos-PART.html">PART</a></tt> 2, <tt><a href="ceb_gja-pos-ADP.html">ADP</a></tt> 1), <em>nga</em> (<tt><a href="ceb_gja-pos-PART.html">PART</a></tt> 13, <tt><a href="ceb_gja-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="ceb_gja-pos-ADP.html">ADP</a></tt> 2), <em>apan</em> (<tt><a href="ceb_gja-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="ceb_gja-pos-SCONJ.html">SCONJ</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>kay</em> (<tt><a href="ceb_gja-pos-SCONJ.html">SCONJ</a></tt> 10, <tt><a href="ceb_gja-pos-PART.html">PART</a></tt> 5, <tt><a href="ceb_gja-pos-ADP.html">ADP</a></tt> 2), <em>nga</em> (<tt><a href="ceb_gja-pos-PART.html">PART</a></tt> 15, <tt><a href="ceb_gja-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="ceb_gja-pos-ADP.html">ADP</a></tt> 1), <em>apan</em> (<tt><a href="ceb_gja-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="ceb_gja-pos-SCONJ.html">SCONJ</a></tt> 1), <em>og</em> (<tt><a href="ceb_gja-pos-ADP.html">ADP</a></tt> 6, <tt><a href="ceb_gja-pos-CCONJ.html">CCONJ</a></tt> 5, <tt><a href="ceb_gja-pos-SCONJ.html">SCONJ</a></tt> 1)
 
 
 * <em>kay</em>
-  * <tt><a href="ceb_gja-pos-SCONJ.html">SCONJ</a></tt> 8: <em>Gitawag si Ben sa iya -ng amigo <b>kay</b> may bisita kini .</em>
-  * <tt><a href="ceb_gja-pos-PART.html">PART</a></tt> 2: <em>Ang ako -ng amahan <b>kay</b> mas kuyaw kaysa sa imo -ng amahan .</em>
-  * <tt><a href="ceb_gja-pos-ADP.html">ADP</a></tt> 1: <em>Nasuka siya <b>kay</b> Pedro .</em>
+  * <tt><a href="ceb_gja-pos-SCONJ.html">SCONJ</a></tt> 10: <em>Gitawag si Ben sa iya -ng amigo <b>kay</b> may bisita kini .</em>
+  * <tt><a href="ceb_gja-pos-PART.html">PART</a></tt> 5: <em>Ang ako -ng amahan <b>kay</b> mas kuyaw kaysa sa imo -ng amahan .</em>
+  * <tt><a href="ceb_gja-pos-ADP.html">ADP</a></tt> 2: <em>Nasuka siya <b>kay</b> Pedro .</em>
 * <em>nga</em>
-  * <tt><a href="ceb_gja-pos-PART.html">PART</a></tt> 13: <em>Aduna siyay plano <b>nga</b> magparty sa ila -ng balay .</em>
+  * <tt><a href="ceb_gja-pos-PART.html">PART</a></tt> 15: <em>Aduna siyay plano <b>nga</b> magparty sa ila -ng balay .</em>
   * <tt><a href="ceb_gja-pos-SCONJ.html">SCONJ</a></tt> 3: <em>Ningsaad ko nimo <b>nga</b> tabangan tika ani .</em>
-  * <tt><a href="ceb_gja-pos-ADP.html">ADP</a></tt> 2: <em>Imo -ng giluwas ang bata sa balay <b>nga</b> nasunog .</em>
+  * <tt><a href="ceb_gja-pos-ADP.html">ADP</a></tt> 1: <em>Imo -ng giluwas ang bata sa balay <b>nga</b> nasunog .</em>
 * <em>apan</em>
   * <tt><a href="ceb_gja-pos-CCONJ.html">CCONJ</a></tt> 1: <em>Daghan -g mitigulang <b>apan</b> wala manigulang .</em>
   * <tt><a href="ceb_gja-pos-SCONJ.html">SCONJ</a></tt> 1: <em>Gisulayan ug buhat ni Tom <b>apan</b> pakyas .</em>
+* <em>og</em>
+  * <tt><a href="ceb_gja-pos-ADP.html">ADP</a></tt> 6: <em>Dili ko ganahan <b>og</b> kemistri .</em>
+  * <tt><a href="ceb_gja-pos-CCONJ.html">CCONJ</a></tt> 5: <em>Nakadaog si Mary og bronze , si Peter og silver , <b>og</b> si Jane og gold .</em>
+  * <tt><a href="ceb_gja-pos-SCONJ.html">SCONJ</a></tt> 1: <em>mura <b>og</b> naga-ulan .</em>
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.162584).
+The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.182590).
 
 The 1st highest number of forms (1) was observed with the lemma “apan”: <em>apan</em>.
 
@@ -40,18 +44,24 @@ The 2nd highest number of forms (1) was observed with the lemma “basta”: <em
 
 The 3rd highest number of forms (1) was observed with the lemma “kay”: <em>kay</em>.
 
-`SCONJ` does not occur with any features.
+`SCONJ` occurs with 1 features: <tt><a href="ceb_gja-feat-ExtPos.html">ExtPos</a></tt> (2; 9% instances)
+
+`SCONJ` occurs with 1 feature-value pairs: `ExtPos=SCONJ`
+
+`SCONJ` occurs with 2 feature combinations.
+The most frequent feature combination is `_` (20 tokens).
+Examples: <em>kay, nga, Basta, apan, kaysa, kon, kung, og, suma</em>
 
 
 ## Relations
 
-`SCONJ` nodes are attached to their parents using 2 different relations: <tt><a href="ceb_gja-dep-mark.html">mark</a></tt> (16; 89% instances), <tt><a href="ceb_gja-dep-case.html">case</a></tt> (2; 11% instances)
+`SCONJ` nodes are attached to their parents using 2 different relations: <tt><a href="ceb_gja-dep-mark.html">mark</a></tt> (20; 91% instances), <tt><a href="ceb_gja-dep-case.html">case</a></tt> (2; 9% instances)
 
-Parents of `SCONJ` nodes belong to 5 different parts of speech: <tt><a href="ceb_gja-pos-VERB.html">VERB</a></tt> (7; 39% instances), <tt><a href="ceb_gja-pos-NOUN.html">NOUN</a></tt> (6; 33% instances), <tt><a href="ceb_gja-pos-ADJ.html">ADJ</a></tt> (3; 17% instances), <tt><a href="ceb_gja-pos-ADV.html">ADV</a></tt> (1; 6% instances), <tt><a href="ceb_gja-pos-PROPN.html">PROPN</a></tt> (1; 6% instances)
+Parents of `SCONJ` nodes belong to 5 different parts of speech: <tt><a href="ceb_gja-pos-VERB.html">VERB</a></tt> (10; 45% instances), <tt><a href="ceb_gja-pos-NOUN.html">NOUN</a></tt> (6; 27% instances), <tt><a href="ceb_gja-pos-ADJ.html">ADJ</a></tt> (3; 14% instances), <tt><a href="ceb_gja-pos-ADV.html">ADV</a></tt> (2; 9% instances), <tt><a href="ceb_gja-pos-PROPN.html">PROPN</a></tt> (1; 5% instances)
 
-16 (89%) `SCONJ` nodes are leaves.
+20 (91%) `SCONJ` nodes are leaves.
 
-2 (11%) `SCONJ` nodes have one child.
+2 (9%) `SCONJ` nodes have one child.
 
 The highest child degree of a `SCONJ` node is 1.
 

@@ -9,27 +9,27 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Def`, `Ind`.
 
-63498 tokens (12%) have a non-empty value of `Definite`.
+63499 tokens (12%) have a non-empty value of `Definite`.
 20 types (0%) occur at least once with a non-empty value of `Definite`.
 6 lemmas (0%) occur at least once with a non-empty value of `Definite`.
-The feature is used with 1 part-of-speech tags: <tt><a href="ca_ancora-pos-DET.html">DET</a></tt> (63498; 12% instances).
+The feature is used with 1 part-of-speech tags: <tt><a href="ca_ancora-pos-DET.html">DET</a></tt> (63499; 12% instances).
 
 ### `DET`
 
-63498 <tt><a href="ca_ancora-pos-DET.html">DET</a></tt> tokens (73% of all `DET` tokens) have a non-empty value of `Definite`.
+63499 <tt><a href="ca_ancora-pos-DET.html">DET</a></tt> tokens (73% of all `DET` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `DET` and `Definite` co-occurred: <tt><a href="ca_ancora-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (63498; 100%), <tt><a href="ca_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt> (49423; 78%).
+The most frequent other feature values with which `DET` and `Definite` co-occurred: <tt><a href="ca_ancora-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (63499; 100%), <tt><a href="ca_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt> (49424; 78%).
 
 `DET` tokens may have the following values of `Definite`:
 
-* `Def` (63482; 100% of non-empty `Definite`): <em>el, la, l', els, les</em>
+* `Def` (63483; 100% of non-empty `Definite`): <em>el, la, l', els, les</em>
 * `Ind` (16; 0% of non-empty `Definite`): <em>en, l', al, col·laboració, la, sa, ses, suficient</em>
-* `EMPTY` (23769): <em>un, una, la, aquest, seva, aquesta, el, seu, les, seus</em>
+* `EMPTY` (23779): <em>un, una, la, aquest, seva, aquesta, el, seu, les, seus</em>
 
 <table>
   <tr><th>Paradigm <i>el</i></th><th><tt>Ind</tt></th><th><tt>Def</tt></th></tr>
   <tr><td><tt><tt><a href="ca_ancora-feat-Foreign.html">Foreign</a></tt><tt>=Yes</tt>|<tt><a href="ca_ancora-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ca_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>el</em></td></tr>
-  <tr><td><tt><tt><a href="ca_ancora-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ca_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>el</em></td></tr>
+  <tr><td><tt><tt><a href="ca_ancora-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ca_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>el, l'</em></td></tr>
   <tr><td><tt><tt><a href="ca_ancora-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ca_ancora-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>els</em></td></tr>
   <tr><td><tt><tt><a href="ca_ancora-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ca_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>la</em></td><td><em>la, L'</em></td></tr>
   <tr><td><tt><tt><a href="ca_ancora-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ca_ancora-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>les</em></td></tr>

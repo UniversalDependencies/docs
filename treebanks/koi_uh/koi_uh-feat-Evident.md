@@ -22,6 +22,6 @@ The most frequent other feature values with which `VERB` and `Evident` co-occurr
 
 `VERB` tokens may have the following values of `Evident`:
 
-* `Nfh` (9; 100% of non-empty `Evident`): <em>краситӧм, краситӧма, велöтчылöма, вӧвдӧм, чужӧма, шедöмась, ылӧстӧма</em>
-* `EMPTY` (197): <em>зэрӧ, быдмис, локтін, босьтіс, вашöтö, велалас, высьтіс, вӧтны, гижис, керны</em>
+* `Nfh` (9; 100% of non-empty `Evident`): <em>краситӧм, краситӧма, велӧтчылӧма, вӧвдӧм, чужӧма, шедӧмась, ылӧстӧма</em>
+* `EMPTY` (197): <em>зэрӧ, быдмис, локтін, юаліс, босьтіс, вашӧтӧ, велалас, высьтіс, вӧтны, гижис</em>
 

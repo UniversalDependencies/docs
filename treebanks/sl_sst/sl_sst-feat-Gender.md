@@ -13,7 +13,7 @@ This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with t
 
 28078 tokens (29%) have a non-empty value of `Gender`.
 10263 types (77%) occur at least once with a non-empty value of `Gender`.
-5817 lemmas (76%) occur at least once with a non-empty value of `Gender`.
+5816 lemmas (76%) occur at least once with a non-empty value of `Gender`.
 The feature is used with 8 part-of-speech tags: <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> (11395; 12% instances), <tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> (5272; 5% instances), <tt><a href="sl_sst-pos-DET.html">DET</a></tt> (4585; 5% instances), <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> (3048; 3% instances), <tt><a href="sl_sst-pos-PRON.html">PRON</a></tt> (1677; 2% instances), <tt><a href="sl_sst-pos-PROPN.html">PROPN</a></tt> (1271; 1% instances), <tt><a href="sl_sst-pos-NUM.html">NUM</a></tt> (496; 1% instances), <tt><a href="sl_sst-pos-AUX.html">AUX</a></tt> (334; 0% instances).
 
 ### `NOUN`
@@ -39,7 +39,7 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
   <tr><td><tt><tt><a href="sl_sst-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="sl_sst-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>del</em></td><td></td></tr>
 </table>
 
-`Gender` seems to be **lexical feature** of `NOUN`. 100% lemmas (2935) occur only with one value of `Gender`.
+`Gender` seems to be **lexical feature** of `NOUN`. 100% lemmas (2934) occur only with one value of `Gender`.
 
 ### `ADJ`
 

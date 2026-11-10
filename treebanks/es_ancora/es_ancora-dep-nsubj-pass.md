@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="es_ancora-dep-nsubj.html">nsubj</a></tt>.
 There are also 1 other language-specific subtypes of `nsubj`: <tt><a href="es_ancora-dep-nsubj-outer.html">nsubj:outer</a></tt>.
 
-61 nodes (0%) are attached to their parents as `nsubj:pass`.
+750 nodes (0%) are attached to their parents as `nsubj:pass`.
 
-40 instances of `nsubj:pass` (66%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.52459016393443.
+692 instances of `nsubj:pass` (92%) are right-to-left (child precedes parent).
+Average distance between parent and child is 6.15066666666667.
 
-The following 6 pairs of parts of speech are connected with `nsubj:pass`: <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt> (39; 64% instances), <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> (12; 20% instances), <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="es_ancora-pos-PROPN.html">PROPN</a></tt> (6; 10% instances), <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="es_ancora-pos-ADJ.html">ADJ</a></tt> (2; 3% instances), <tt><a href="es_ancora-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="es_ancora-pos-PRON.html">PRON</a></tt>-<tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt> (1; 2% instances).
+The following 6 pairs of parts of speech are connected with `nsubj:pass`: <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt> (473; 63% instances), <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> (174; 23% instances), <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="es_ancora-pos-PROPN.html">PROPN</a></tt> (83; 11% instances), <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="es_ancora-pos-ADJ.html">ADJ</a></tt> (10; 1% instances), <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="es_ancora-pos-NUM.html">NUM</a></tt> (9; 1% instances), <tt><a href="es_ancora-pos-PRON.html">PRON</a></tt>-<tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -35,24 +35,19 @@ The following 6 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 
 
 ~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 12 9 nsubj:pass	color:blue
-1	Tampoco	tampoco	ADV	rg	_	2	advmod	2:advmod	_
-2	quiso	querer	VERB	vmis3s0	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
-3	revelar	revelar	VERB	vmn0000	VerbForm=Inf	2	xcomp	2:xcomp	ArgTem=arg1:pat
-4	los	el	DET	da0mp0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	5:det	Entity=(NOCOREF:Gen--2-gstype:gen,HomoDD
-5	nombres	nombre	NOUN	ncmp000	Gender=Masc|Number=Plur	3	obj	3:obj	ArgTem=arg1:pat
-6	de	de	ADP	sps00	_	8	case	8:case	_
-7	las	el	DET	da0fp0	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	8:det	Entity=(CESSCASTP2001080246c18--2-gstype:gen,HomoDD
-8	empresas	empresa	NOUN	ncfp000	Gender=Fem|Number=Plur	5	nmod	5:nmod	_
-9	que	que	PRON	pr0cn000	PronType=Rel	12	nsubj:pass	12:nsubj:pass	ArgTem=arg1:pat|Entity=(CESSCASTP2001080246c18--1-CorefType:ident,gstype:gen)
-10	están	estar	AUX	vmip3p0	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	aux	12:aux	_
-11	siendo	ser	AUX	vsg0000	VerbForm=Ger	12	aux:pass	12:aux:pass	_
-12	investigadas	investigar	VERB	vmp00pf	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	8	acl:relcl	8:acl:relcl	Entity=CESSCASTP2001080246c18)NOCOREF:Gen)|SpaceAfter=No
-13	.	.	PUNCT	fp	PunctType=Peri	2	punct	2:punct	_
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 1 nsubj:pass	color:blue
+1	Todos	todo	PRON	pi0mp000	Gender=Masc|Number=Plur|PronType=Tot	3	nsubj:pass	3:nsubj:pass	ArgTem=arg1:pat|Entity=(CESSCASTP2001050169c11_PLUS_CESSCASTP2001050169c17--1-CorefType:ident,gstype:gen)|SplitAnte=CESSCASTP2001050169c11<CESSCASTP2001050169c11_PLUS_CESSCASTP2001050169c17,CESSCASTP2001050169c17<CESSCASTP2001050169c11_PLUS_CESSCASTP2001050169c17
+2	fueron	ser	AUX	vsis3p0	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	3	aux:pass	3:aux:pass	_
+3	dados	dar	VERB	vmp00pm	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	0:root	_
+4	de	de	ADP	rg	ExtPos=ADV	3	advmod	3:advmod	ArgTem=argL:|MWE=de_alta|MWEPOS=ADV
+5	alta	alta	NOUN	_	_	4	fixed	4:fixed	_
+6	poco	poco	PRON	pi0ms000	Gender=Masc|Number=Sing|NumType=Card|PronType=Ind	7	nmod	7:nmod	_
+7	después	después	ADV	rg	_	3	advmod	3:advmod	ArgTem=argM:tmp|SpaceAfter=No
+8	.	.	PUNCT	fp	PunctType=Peri	3	punct	3:punct	_
 
 ~~~
 
@@ -64,7 +59,7 @@ The following 6 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 # visual-style 6	fgColor:white
 # visual-style 6 2 nsubj:pass	color:blue
 1	LA	el	DET	dd0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	2:det	Entity=(CESSCASTAA200002065003c45--2-CorefType:ident,Title
-2	REAL	real	PROPN	np00000	_	6	nsubj:pass	6:nsubj:pass	MWE=REAL_SOCIEDAD|MWEPOS=PROPN|ArgTem=arg0:agt
+2	REAL	real	PROPN	np00000	_	6	nsubj:pass	6:nsubj:pass	ArgTem=arg0:agt|MWE=REAL_SOCIEDAD|MWEPOS=PROPN
 3	SOCIEDAD	sociedad	PROPN	_	_	2	flat	2:flat	Entity=CESSCASTAA200002065003c45)
 4	NO	no	ADV	rn	Polarity=Neg	6	advmod	6:advmod	_
 5	SE	él	PRON	p0000000	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	6	obj	6:obj	_

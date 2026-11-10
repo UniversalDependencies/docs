@@ -10,19 +10,19 @@ This feature is language-specific.
 It occurs with 13 different values: `ADJ`, `ADP`, `ADV`, `CCONJ`, `DET`, `INTJ`, `NOUN`, `PART`, `PRON`, `SCONJ`, `SYM`, `VERB`, `X`.
 
 3549 tokens (1%) have a non-empty value of `ExtPos`.
-159 types (0%) occur at least once with a non-empty value of `ExtPos`.
+158 types (0%) occur at least once with a non-empty value of `ExtPos`.
 98 lemmas (0%) occur at least once with a non-empty value of `ExtPos`.
-The feature is used with 13 part-of-speech tags: <tt><a href="pl_pdb-pos-ADP.html">ADP</a></tt> (2537; 1% instances), <tt><a href="pl_pdb-pos-ADV.html">ADV</a></tt> (328; 0% instances), <tt><a href="pl_pdb-pos-CCONJ.html">CCONJ</a></tt> (224; 0% instances), <tt><a href="pl_pdb-pos-PART.html">PART</a></tt> (187; 0% instances), <tt><a href="pl_pdb-pos-DET.html">DET</a></tt> (129; 0% instances), <tt><a href="pl_pdb-pos-VERB.html">VERB</a></tt> (62; 0% instances), <tt><a href="pl_pdb-pos-NOUN.html">NOUN</a></tt> (29; 0% instances), <tt><a href="pl_pdb-pos-SCONJ.html">SCONJ</a></tt> (24; 0% instances), <tt><a href="pl_pdb-pos-ADJ.html">ADJ</a></tt> (12; 0% instances), <tt><a href="pl_pdb-pos-X.html">X</a></tt> (10; 0% instances), <tt><a href="pl_pdb-pos-INTJ.html">INTJ</a></tt> (4; 0% instances), <tt><a href="pl_pdb-pos-SYM.html">SYM</a></tt> (2; 0% instances), <tt><a href="pl_pdb-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The feature is used with 13 part-of-speech tags: <tt><a href="pl_pdb-pos-ADP.html">ADP</a></tt> (2538; 1% instances), <tt><a href="pl_pdb-pos-ADV.html">ADV</a></tt> (328; 0% instances), <tt><a href="pl_pdb-pos-CCONJ.html">CCONJ</a></tt> (224; 0% instances), <tt><a href="pl_pdb-pos-PART.html">PART</a></tt> (187; 0% instances), <tt><a href="pl_pdb-pos-DET.html">DET</a></tt> (129; 0% instances), <tt><a href="pl_pdb-pos-VERB.html">VERB</a></tt> (61; 0% instances), <tt><a href="pl_pdb-pos-NOUN.html">NOUN</a></tt> (29; 0% instances), <tt><a href="pl_pdb-pos-SCONJ.html">SCONJ</a></tt> (24; 0% instances), <tt><a href="pl_pdb-pos-ADJ.html">ADJ</a></tt> (12; 0% instances), <tt><a href="pl_pdb-pos-X.html">X</a></tt> (10; 0% instances), <tt><a href="pl_pdb-pos-INTJ.html">INTJ</a></tt> (4; 0% instances), <tt><a href="pl_pdb-pos-SYM.html">SYM</a></tt> (2; 0% instances), <tt><a href="pl_pdb-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 ### `ADP`
 
-2537 <tt><a href="pl_pdb-pos-ADP.html">ADP</a></tt> tokens (7% of all `ADP` tokens) have a non-empty value of `ExtPos`.
+2538 <tt><a href="pl_pdb-pos-ADP.html">ADP</a></tt> tokens (7% of all `ADP` tokens) have a non-empty value of `ExtPos`.
 
-The most frequent other feature values with which `ADP` and `ExtPos` co-occurred: <tt><a href="pl_pdb-feat-AdpType.html">AdpType</a></tt><tt>=Prep</tt> (2537; 100%), <tt><a href="pl_pdb-feat-Variant.html">Variant</a></tt><tt>=Short</tt> (1724; 68%).
+The most frequent other feature values with which `ADP` and `ExtPos` co-occurred: <tt><a href="pl_pdb-feat-AdpType.html">AdpType</a></tt><tt>=Prep</tt> (2538; 100%), <tt><a href="pl_pdb-feat-Variant.html">Variant</a></tt><tt>=Short</tt> (1725; 68%).
 
 `ADP` tokens may have the following values of `ExtPos`:
 
-* `ADP` (1888; 74% of non-empty `ExtPos`): <em>w, na, z, pod, ze, za, do, przy, bez, od</em>
+* `ADP` (1889; 74% of non-empty `ExtPos`): <em>w, na, z, pod, ze, za, do, przy, bez, od</em>
 * `ADV` (77; 3% of non-empty `ExtPos`): <em>w, z, na, Po, do, od, u</em>
 * `CCONJ` (8; 0% of non-empty `ExtPos`): <em>przy</em>
 * `PART` (477; 19% of non-empty `ExtPos`): <em>w, na, przede, z, poza, mimo, między, przy, bez, do</em>
@@ -98,15 +98,15 @@ The most frequent other feature values with which `DET` and `ExtPos` co-occurred
 
 ### `VERB`
 
-62 <tt><a href="pl_pdb-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `ExtPos`.
+61 <tt><a href="pl_pdb-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `ExtPos`.
 
-The most frequent other feature values with which `VERB` and `ExtPos` co-occurred: <tt><a href="pl_pdb-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (62; 100%), <tt><a href="pl_pdb-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (62; 100%), <tt><a href="pl_pdb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (62; 100%), <tt><a href="pl_pdb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (62; 100%), <tt><a href="pl_pdb-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (42; 68%), <tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (42; 68%), <tt><a href="pl_pdb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (42; 68%), <tt><a href="pl_pdb-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (41; 66%), <tt><a href="pl_pdb-feat-VerbForm.html">VerbForm</a></tt><tt>=Inf</tt> (41; 66%).
+The most frequent other feature values with which `VERB` and `ExtPos` co-occurred: <tt><a href="pl_pdb-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (61; 100%), <tt><a href="pl_pdb-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (61; 100%), <tt><a href="pl_pdb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (61; 100%), <tt><a href="pl_pdb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (61; 100%), <tt><a href="pl_pdb-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (42; 69%), <tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (42; 69%), <tt><a href="pl_pdb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (42; 69%), <tt><a href="pl_pdb-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (41; 67%), <tt><a href="pl_pdb-feat-VerbForm.html">VerbForm</a></tt><tt>=Inf</tt> (41; 67%).
 
 `VERB` tokens may have the following values of `ExtPos`:
 
 * `ADV` (2; 3% of non-empty `ExtPos`): <em>Chcąc, ma</em>
-* `PART` (40; 65% of non-empty `ExtPos`): <em>być</em>
-* `VERB` (20; 32% of non-empty `ExtPos`): <em>ma, Być, Jesteśmy</em>
+* `PART` (40; 66% of non-empty `ExtPos`): <em>być</em>
+* `VERB` (19; 31% of non-empty `ExtPos`): <em>ma, Być</em>
 
 <table>
   <tr><th>Paradigm <i>mieć</i></th><th><tt>ADV</tt></th><th><tt>VERB</tt></th></tr>

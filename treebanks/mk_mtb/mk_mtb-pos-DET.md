@@ -46,8 +46,8 @@ The 3rd highest number of forms (2) was observed with the lemma “ова”: <e
 `DET` occurs with 19 feature-value pairs: `Case=Nom`, `Definite=Def`, `Definite=Ind`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Gender[psor]=Masc`, `Number=Plur`, `Number=Sing`, `Number[psor]=Sing`, `Person=1`, `Person=2`, `Person=3`, `Poss=Yes`, `PronType=Dem`, `PronType=Ind`, `PronType=Int`, `PronType=Prs`, `Reflex=Yes`
 
 `DET` occurs with 14 feature combinations.
-The most frequent feature combination is `Definite=Def|Number=Plur|Person=1|Poss=Yes|PronType=Prs` (3 tokens).
-Examples: <em>моите</em>
+The most frequent feature combination is `Case=Nom|Gender=Neut|Number=Sing|PronType=Dem` (3 tokens).
+Examples: <em>она, тоа</em>
 
 
 ## Relations

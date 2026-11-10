@@ -13,7 +13,7 @@ This relation is universal.
 912 instances of `amod` (70%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.15560640732265.
 
-The following 5 pairs of parts of speech are connected with `amod`: <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt> (1248; 95% instances), <tt><a href="es_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt> (59; 5% instances), <tt><a href="es_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_pud-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="es_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
+The following 5 pairs of parts of speech are connected with `amod`: <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt> (1243; 95% instances), <tt><a href="es_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt> (59; 5% instances), <tt><a href="es_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt> (7; 1% instances), <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_pud-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="es_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -63,39 +63,26 @@ The following 5 pairs of parts of speech are connected with `amod`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 21	bgColor:blue
-# visual-style 21	fgColor:white
-# visual-style 20	bgColor:blue
-# visual-style 20	fgColor:white
-# visual-style 20 21 amod	color:blue
-1	Se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	3	compound:prt	_	_
-2	halla	hallar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	solo	solo	ADJ	JJ	Gender=Masc|Number=Sing	2	xcomp	_	_
-4	frente	frente	NOUN	NN	ExtPos=ADP|Gender=Fem|Number=Sing	7	case	_	_
-5	a	a	ADP	INDT	_	4	fixed	_	_
-6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
-7	público	público	NOUN	NN	Gender=Masc|Number=Sing	2	obl	_	_
-8	y	y	CCONJ	CC	_	14	cc	_	SpaceAfter=No
-9	,	,	PUNCT	,	PunctType=Comm	8	punct	_	_
-10	en	en	ADP	IN	_	14	discourse	_	_
-11	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	fixed	_	_
-12	fondo	fondo	NOUN	NN	Gender=Masc|Number=Sing	10	fixed	_	SpaceAfter=No
-13	,	,	PUNCT	,	PunctType=Comm	10	punct	_	_
-14	tiene	tener	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
-15	que	que	ADP	IN	_	16	mark	_	_
-16	sacar	sacar	VERB	VB	VerbForm=Inf	14	xcomp	_	_
-17	lo	él	PRON	DT	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	18	det	_	_
-18	mejor	mejor	NOUN	NN	Gender=Masc|Number=Sing	14	obj	_	_
-19	de	de	ADP	IN	_	20	case	_	_
-20	sí	él	PRON	PRP	Case=Acc|Person=3|PrepCase=Pre|PronType=Prs|Reflex=Yes	18	nmod	_	_
-21	mismo	mismo	ADJ	JJ	Gender=Masc|Number=Sing	20	amod	_	_
-22	para	para	ADP	IN	_	23	case	_	_
-23	hacer	hacer	VERB	VB	VerbForm=Inf	16	xcomp	_	_
-24	reír	reír	VERB	VB	VerbForm=Inf	23	xcomp	_	_
-25	a	a	ADP	INDT	_	27	case	_	_
-26	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	27	det	_	_
-27	espectador	espectador	NOUN	NN	Gender=Masc|Number=Sing	23	obl	_	SpaceAfter=No
-28	.	.	PUNCT	.	PunctType=Peri	2	punct	_	_
+# visual-style 14	bgColor:blue
+# visual-style 14	fgColor:white
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 12 14 amod	color:blue
+1	Puede	poder	VERB	VBC	ExtPos=ADV|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	advmod	_	_
+2	que	que	ADP	IN	_	1	fixed	_	_
+3	BA	BA	PROPN	NNP	Number=Sing	8	nsubj	_	_
+4	e	e	CCONJ	CC	_	5	cc	_	_
+5	IAG	IAG	PROPN	NNP	Number=Sing	3	conj	_	_
+6	lo	él	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	8	obj	_	_
+7	hayan	haber	AUX	VBC	Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	8	aux	_	_
+8	descubierto	descubrir	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+9	y	y	CCONJ	CC	_	11	cc	_	_
+10	puedan	poder	AUX	VBC	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	aux	_	_
+11	ofrecer	ofrecer	VERB	VB	VerbForm=Inf	8	conj	_	_
+12	algo	algo	PRON	NN	Number=Sing|PronType=Ind	11	obj	_	_
+13	relativamente	relativamente	ADV	RB	_	14	advmod	_	_
+14	fiable	fiable	ADJ	JJ	Number=Sing	12	amod	_	SpaceAfter=No
+15	.	.	PUNCT	.	PunctType=Peri	8	punct	_	_
 
 ~~~
 

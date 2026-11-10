@@ -22,10 +22,10 @@ The following 30 pairs of parts of speech are connected with `flat:foreign`: <tt
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 flat:foreign	color:blue
-1	kanapotelli	kanapotelli	X	_	_	0	root	_	AlignBegin=424294|AlignEnd=425080|Gloss=X
-2	zaga	X	X	_	_	1	flat:foreign	_	AlignBegin=425080|AlignEnd=425520|Gloss=X
-3	za	za	X	_	_	1	flat:foreign	_	AlignBegin=425520|AlignEnd=425719|Gloss=X
-4	//	//	PUNCT	_	_	1	punct	_	AlignBegin=425719|AlignEnd=425719|Gloss=PUNCT
+1	kanapotelli	kanapotelli	X	_	_	0	root	_	Gloss=X|WordAlignmentBegin=424294|WordAlignmentEnd=425080
+2	zaga	X	X	_	_	1	flat:foreign	_	Gloss=X|WordAlignmentBegin=425080|WordAlignmentEnd=425520
+3	za	za	X	_	_	1	flat:foreign	_	Gloss=X|WordAlignmentBegin=425520|WordAlignmentEnd=425719
+4	//	//	PUNCT	_	_	1	punct	_	Gloss=PUNCT|WordAlignmentBegin=425719|WordAlignmentEnd=425719
 
 ~~~
 
@@ -36,18 +36,18 @@ The following 30 pairs of parts of speech are connected with `flat:foreign`: <tt
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 10 flat:foreign	color:blue
-1	Baba	baba	NOUN	_	_	3	nsubj	_	AlignBegin=14340|AlignEnd=14800|Gloss=father|Lang=en
-2	have	have	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	_	AlignBegin=14800|AlignEnd=15110|Gloss=have.IND.PRS.FIN|Lang=en
-3	come	come	VERB	_	_	0	root	_	AlignBegin=15110|AlignEnd=15480|Gloss=come|Lang=en
-4	!//=	!//=	PUNCT	_	_	7	punct	_	AlignBegin=15480|AlignEnd=15480|Gloss=PUNCT
-5	Daddy	daddy	NOUN	_	_	7	nsubj	_	AlignBegin=15480|AlignEnd=15849|Gloss=daddy|Lang=en
-6	have	have	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	7	aux	_	AlignBegin=15849|AlignEnd=16030|Gloss=have.IND.PRS.FIN|Lang=en
-7	arrive	arrive	VERB	_	_	3	parataxis:conj	_	AlignBegin=16030|AlignEnd=16562|Gloss=arrive|Lang=en
-8	!//=	!//=	PUNCT	_	_	7	punct	_	AlignBegin=16562|AlignEnd=16562|Gloss=PUNCT
-9	Papa	papa	NOUN	_	_	7	parataxis:conj	_	AlignBegin=16562|AlignEnd=17054|Gloss=papa|Lang=yo
-10	tete	tete	X	_	_	9	flat:foreign	_	AlignBegin=17054|AlignEnd=17610|Gloss=X|Lang=yo
-11	oyoyo	oyoyo	X	_	_	9	flat:foreign	_	AlignBegin=17610|AlignEnd=18440|Gloss=X|Lang=yo
-12	!//	!//	PUNCT	_	_	3	punct	_	AlignBegin=18440|AlignEnd=18440|Gloss=PUNCT
+1	Baba	baba	NOUN	_	_	3	nsubj	_	Gloss=father|Lang=en|WordAlignmentBegin=14340|WordAlignmentEnd=14800
+2	have	have	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	_	Gloss=have.IND.PRS.FIN|Lang=en|WordAlignmentBegin=14800|WordAlignmentEnd=15110
+3	come	come	VERB	_	_	0	root	_	Gloss=come|Lang=en|WordAlignmentBegin=15110|WordAlignmentEnd=15480
+4	!//=	!//=	PUNCT	_	_	7	punct	_	Gloss=PUNCT|WordAlignmentBegin=15480|WordAlignmentEnd=15480
+5	Daddy	daddy	NOUN	_	_	7	nsubj	_	Gloss=daddy|Lang=en|WordAlignmentBegin=15480|WordAlignmentEnd=15849
+6	have	have	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	7	aux	_	Gloss=have.IND.PRS.FIN|Lang=en|WordAlignmentBegin=15849|WordAlignmentEnd=16030
+7	arrive	arrive	VERB	_	_	3	parataxis:conj	_	Gloss=arrive|Lang=en|WordAlignmentBegin=16030|WordAlignmentEnd=16562
+8	!//=	!//=	PUNCT	_	_	7	punct	_	Gloss=PUNCT|WordAlignmentBegin=16562|WordAlignmentEnd=16562
+9	Papa	papa	NOUN	_	_	7	parataxis:conj	_	Gloss=papa|Lang=yo|WordAlignmentBegin=16562|WordAlignmentEnd=17054
+10	tete	tete	X	_	_	9	flat:foreign	_	Gloss=X|Lang=yo|WordAlignmentBegin=17054|WordAlignmentEnd=17610
+11	oyoyo	oyoyo	X	_	_	9	flat:foreign	_	Gloss=X|Lang=yo|WordAlignmentBegin=17610|WordAlignmentEnd=18440
+12	!//	!//	PUNCT	_	_	3	punct	_	Gloss=PUNCT|WordAlignmentBegin=18440|WordAlignmentEnd=18440
 
 ~~~
 
@@ -58,17 +58,17 @@ The following 30 pairs of parts of speech are connected with `flat:foreign`: <tt
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 5 flat:foreign	color:blue
-1	under	under	ADP	_	_	3	case	_	AlignBegin=345207|AlignEnd=345727|Gloss=under
-2	dis	dis	DET	_	Number=Sing|PronType=Dem	3	det	_	AlignBegin=345727|AlignEnd=345967|Gloss=SG.DEM
-3	government	government	NOUN	_	_	4	nmod	_	AlignBegin=345967|AlignEnd=346575|Gloss=government
-4	naa	naa	X	_	_	0	root	_	AlignBegin=346575|AlignEnd=346837|Gloss=X|Lang=yo
-5	ni	ni	PART	_	_	4	flat:foreign	_	AlignBegin=346837|AlignEnd=347047|Gloss=FOC|Lang=yo
-6	olorun	olorun	X	_	_	4	flat:foreign	_	AlignBegin=347047|AlignEnd=347357|Gloss=X|Lang=yo
-7	ma	ma	X	_	_	4	flat:foreign	_	AlignBegin=347357|AlignEnd=347517|Gloss=X|Lang=yo
-8	wa	X	X	_	_	4	flat:foreign	_	AlignBegin=347517|AlignEnd=347687|Gloss=X|Lang=yo
-9	saanu	saanu	X	_	_	4	flat:foreign	_	AlignBegin=347687|AlignEnd=348047|Gloss=X|Lang=yo
-10	wa	X	X	_	_	4	flat	_	AlignBegin=348047|AlignEnd=348240|Gloss=X|Lang=yo
-11	//	//	PUNCT	_	_	4	punct	_	AlignBegin=348240|AlignEnd=348240|Gloss=PUNCT
+1	under	under	ADP	_	_	3	case	_	Gloss=under|WordAlignmentBegin=345207|WordAlignmentEnd=345727
+2	dis	dis	DET	_	Number=Sing|PronType=Dem	3	det	_	Gloss=SG.DEM|WordAlignmentBegin=345727|WordAlignmentEnd=345967
+3	government	government	NOUN	_	_	4	nmod	_	Gloss=government|WordAlignmentBegin=345967|WordAlignmentEnd=346575
+4	naa	naa	X	_	_	0	root	_	Gloss=X|Lang=yo|WordAlignmentBegin=346575|WordAlignmentEnd=346837
+5	ni	ni	PART	_	_	4	flat:foreign	_	Gloss=FOC|Lang=yo|WordAlignmentBegin=346837|WordAlignmentEnd=347047
+6	olorun	olorun	X	_	_	4	flat:foreign	_	Gloss=X|Lang=yo|WordAlignmentBegin=347047|WordAlignmentEnd=347357
+7	ma	ma	X	_	_	4	flat:foreign	_	Gloss=X|Lang=yo|WordAlignmentBegin=347357|WordAlignmentEnd=347517
+8	wa	X	X	_	_	4	flat:foreign	_	Gloss=X|Lang=yo|WordAlignmentBegin=347517|WordAlignmentEnd=347687
+9	saanu	saanu	X	_	_	4	flat:foreign	_	Gloss=X|Lang=yo|WordAlignmentBegin=347687|WordAlignmentEnd=348047
+10	wa	X	X	_	_	4	flat	_	Gloss=X|Lang=yo|WordAlignmentBegin=348047|WordAlignmentEnd=348240
+11	//	//	PUNCT	_	_	4	punct	_	Gloss=PUNCT|WordAlignmentBegin=348240|WordAlignmentEnd=348240
 
 ~~~
 

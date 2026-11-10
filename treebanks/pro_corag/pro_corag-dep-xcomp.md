@@ -8,37 +8,31 @@ udver: '2'
 
 This relation is universal.
 
-1112 nodes (2%) are attached to their parents as `xcomp`.
+1560 nodes (2%) are attached to their parents as `xcomp`.
 
-1032 instances of `xcomp` (93%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.78507194244604.
+1463 instances of `xcomp` (94%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.06538461538462.
 
-The following 8 pairs of parts of speech are connected with `xcomp`: <tt><a href="pro_corag-pos-VERB.html">VERB</a></tt>-<tt><a href="pro_corag-pos-VERB.html">VERB</a></tt> (1009; 91% instances), <tt><a href="pro_corag-pos-VERB.html">VERB</a></tt>-<tt><a href="pro_corag-pos-ADJ.html">ADJ</a></tt> (52; 5% instances), <tt><a href="pro_corag-pos-VERB.html">VERB</a></tt>-<tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt> (27; 2% instances), <tt><a href="pro_corag-pos-VERB.html">VERB</a></tt>-<tt><a href="pro_corag-pos-PROPN.html">PROPN</a></tt> (10; 1% instances), <tt><a href="pro_corag-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pro_corag-pos-VERB.html">VERB</a></tt> (6; 1% instances), <tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pro_corag-pos-VERB.html">VERB</a></tt> (5; 0% instances), <tt><a href="pro_corag-pos-VERB.html">VERB</a></tt>-<tt><a href="pro_corag-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="pro_corag-pos-ADV.html">ADV</a></tt>-<tt><a href="pro_corag-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `xcomp`: <tt><a href="pro_corag-pos-VERB.html">VERB</a></tt>-<tt><a href="pro_corag-pos-VERB.html">VERB</a></tt> (1407; 90% instances), <tt><a href="pro_corag-pos-VERB.html">VERB</a></tt>-<tt><a href="pro_corag-pos-ADJ.html">ADJ</a></tt> (87; 6% instances), <tt><a href="pro_corag-pos-VERB.html">VERB</a></tt>-<tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt> (33; 2% instances), <tt><a href="pro_corag-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pro_corag-pos-VERB.html">VERB</a></tt> (11; 1% instances), <tt><a href="pro_corag-pos-VERB.html">VERB</a></tt>-<tt><a href="pro_corag-pos-PROPN.html">PROPN</a></tt> (10; 1% instances), <tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pro_corag-pos-VERB.html">VERB</a></tt> (7; 0% instances), <tt><a href="pro_corag-pos-VERB.html">VERB</a></tt>-<tt><a href="pro_corag-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="pro_corag-pos-ADV.html">ADV</a></tt>-<tt><a href="pro_corag-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="pro_corag-pos-VERB.html">VERB</a></tt>-<tt><a href="pro_corag-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 6 xcomp	color:blue
-1	e	_	CCONJ	_	_	11	cc	_	_
-2	si-	_	SCONJ	_	_	4	mark	_	_
-3	-no	_	ADV	_	Polarity=Neg	4	advmod	_	_
-4	pod	_	VERB	_	Number=Sing|Person=3|VerbForm=Fin	11	advcl	_	_
-5	lui	_	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obj	_	_
-6	aver	_	VERB	_	VerbForm=Inf	4	xcomp	_	_
-7	a	_	ADP	_	_	8	case	_	_
-8	dret	_	NOUN	_	_	6	obl	_	_
-9	ed	_	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	_
-10	medix	_	ADJ	_	_	9	amod	_	_
-11	fase	_	VERB	_	Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
-12	so	_	PRON	_	Gender=Neut|Number=Sing|PronType=Dem	11	obj	_	_
-13	que	_	PRON	_	PronType=Rel	16	obj	_	_
-14	ed	_	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	_
-15	deu	_	VERB	_	Number=Sing|Person=3|VerbForm=Fin	12	acl:relcl	_	_
-16	far	_	VERB	_	VerbForm=Inf	15	xcomp	_	SpaceAfter=No
-17	.	_	PUNCT	_	_	11	punct	_	_
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 10 xcomp	color:blue
+1	e	_	CCONJ	_	_	9	cc	_	_
+2	si	_	SCONJ	_	_	5	mark	_	_
+3	no	_	ADV	_	Polarity=Neg	5	advmod	_	_
+4	las	_	PRON	_	Gender=Fem|Number=Plur|Person=3|PronType=Prs	5	obj	_	_
+5	mustre	_	VERB	_	Number=Sing|Person=3|VerbForm=Fin	9	advcl	_	_
+6	son	_	DET	_	_	7	det	_	_
+7	cors	_	NOUN	_	_	10	obj	_	_
+8	ne	_	PRON	_	Person=3|PronType=Prs	10	obl	_	_
+9	dei	_	VERB	_	Number=Sing|Person=1|VerbForm=Fin	0	root	_	_
+10	pegnerar	_	VERB	_	VerbForm=Inf	9	xcomp	_	SpaceAfter=No
+11	.	_	PUNCT	_	_	9	punct	_	_
 
 ~~~
 

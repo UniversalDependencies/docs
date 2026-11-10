@@ -25,7 +25,7 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 * `Imp` (4; 0% of non-empty `Mood`): جاؤ، رہو
 * `Ind` (4915; 96% of non-empty `Mood`): ہے، ہیں، تھا، ہےں، تھی، تھے، گے، جائےگا، گا، گی
 * `Sub` (193; 4% of non-empty `Mood`): جائے، جائیں، چاہیے، چاہئے، چاہیئے، سکے، سکیں، پائیں، چاہئیں، جائےں
-* `EMPTY` (4009): ہوئے، گیا، جا، گئی، گئے، کر، رہے، رہی، رہا، جانے
+* `EMPTY` (4011): ہوئے، گیا، جا، گئی، گئے، کر، رہے، رہی، رہا، جانے
 
 <table>
   <tr><th>Paradigm <i>جانا</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Sub</tt></th></tr>
@@ -73,7 +73,7 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 * `Imp` (16; 2% of non-empty `Mood`): کرو، رکھو، آؤ، جاؤں، دیکھو، سناؤ، لو، چاہو
 * `Ind` (779; 74% of non-empty `Mood`): ہے، ہیں، کریں_گے، ہےں، تھے، تھا، تھی، کرےگی، دیں_گے، کریںگے
 * `Sub` (256; 24% of non-empty `Mood`): کریں، دیں، کرے، لیں، بنائیں، رکھیں، چاہیئے، رہے، چاہیے، آئیں
-* `EMPTY` (11644): کیا، کہا، کر، کرنے، کی، ہو، دیا، کرتے، دی، بتایا
+* `EMPTY` (11642): کیا، کہا، کر، کرنے، کی، ہو، دیا، کرتے، دی، بتایا
 
 <table>
   <tr><th>Paradigm <i>کرنا</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Sub</tt></th></tr>
@@ -139,5 +139,5 @@ The most frequent other feature values with which `PROPN` and `Mood` co-occurred
 
 * `Ind` (1; 33% of non-empty `Mood`): ہیں
 * `Sub` (2; 67% of non-empty `Mood`): رکھیں، کریں
-* `EMPTY` (17132): پی، سی، آئی، ایس، کانگریس، بی، ہندوستان، ریڈی، اے، سنگھ
+* `EMPTY` (17128): پی، سی، آئی، ایس، کانگریس، بی، ہندوستان، ریڈی، اے، سنگھ
 

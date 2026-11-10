@@ -12,19 +12,19 @@ It occurs with 4 different values: `Acc`, `Dat`, `Gen`, `Nom`.
 100 tokens (23%) have a non-empty value of `Case`.
 88 types (36%) occur at least once with a non-empty value of `Case`.
 77 lemmas (45%) occur at least once with a non-empty value of `Case`.
-The feature is used with 5 part-of-speech tags: <tt><a href="sga_dipwbg-pos-NOUN.html">NOUN</a></tt> (64; 15% instances), <tt><a href="sga_dipwbg-pos-ADJ.html">ADJ</a></tt> (21; 5% instances), <tt><a href="sga_dipwbg-pos-DET.html">DET</a></tt> (9; 2% instances), <tt><a href="sga_dipwbg-pos-PROPN.html">PROPN</a></tt> (4; 1% instances), <tt><a href="sga_dipwbg-pos-PRON.html">PRON</a></tt> (2; 0% instances).
+The feature is used with 5 part-of-speech tags: <tt><a href="sga_dipwbg-pos-NOUN.html">NOUN</a></tt> (62; 14% instances), <tt><a href="sga_dipwbg-pos-ADJ.html">ADJ</a></tt> (21; 5% instances), <tt><a href="sga_dipwbg-pos-DET.html">DET</a></tt> (9; 2% instances), <tt><a href="sga_dipwbg-pos-PROPN.html">PROPN</a></tt> (6; 1% instances), <tt><a href="sga_dipwbg-pos-PRON.html">PRON</a></tt> (2; 0% instances).
 
 ### `NOUN`
 
-64 <tt><a href="sga_dipwbg-pos-NOUN.html">NOUN</a></tt> tokens (97% of all `NOUN` tokens) have a non-empty value of `Case`.
+62 <tt><a href="sga_dipwbg-pos-NOUN.html">NOUN</a></tt> tokens (97% of all `NOUN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="sga_dipwbg-feat-Number.html">Number</a></tt><tt>=Sing</tt> (53; 83%).
+The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="sga_dipwbg-feat-Number.html">Number</a></tt><tt>=Sing</tt> (51; 82%).
 
 `NOUN` tokens may have the following values of `Case`:
 
-* `Acc` (27; 42% of non-empty `Case`): <em>cenn, biada, béssu, chomalnad, chumang, comarbus, dia, dánu, etargne, etiuth</em>
+* `Acc` (26; 42% of non-empty `Case`): <em>cenn, biada, béssu, chomalnad, chumang, comarbus, dánu, etargne, etiuth, fochidi</em>
 * `Dat` (12; 19% of non-empty `Case`): <em>precept, carcair, chorp, chuimriug, eícndarcus, formut, irbáig, nem, nícc, nóinur</em>
-* `Gen` (13; 20% of non-empty `Case`): <em>precepte, soscéli, belre, firinne, hirisse, mban, nanme, nathar, sosceli, tol</em>
+* `Gen` (12; 19% of non-empty `Case`): <em>precepte, soscéli, belre, firinne, hirisse, mban, nanme, nathar, sosceli, tol</em>
 * `Nom` (12; 19% of non-empty `Case`): <em>airli, chenél, comairli, fochricc, foirbthetu, labrad, machthad, temel, thorbe, threte</em>
 * `EMPTY` (2): <em>gloria, legis</em>
 
@@ -33,7 +33,7 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
   <tr><td><tt></tt></td><td><em>precept</em></td><td><em>precepte</em></td></tr>
 </table>
 
-`Case` seems to be **lexical feature** of `NOUN`. 90% lemmas (46) occur only with one value of `Case`.
+`Case` seems to be **lexical feature** of `NOUN`. 92% lemmas (46) occur only with one value of `Case`.
 
 ### `ADJ`
 
@@ -78,15 +78,20 @@ The most frequent other feature values with which `DET` and `Case` co-occurred: 
 
 ### `PROPN`
 
-4 <tt><a href="sga_dipwbg-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `Case`.
+6 <tt><a href="sga_dipwbg-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PROPN` and `Case` co-occurred: <tt><a href="sga_dipwbg-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3; 75%).
+The most frequent other feature values with which `PROPN` and `Case` co-occurred: <tt><a href="sga_dipwbg-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5; 83%).
 
 `PROPN` tokens may have the following values of `Case`:
 
-* `Acc` (1; 25% of non-empty `Case`): <em>maccidóndu</em>
-* `Gen` (1; 25% of non-empty `Case`): <em>crist</em>
-* `Nom` (2; 50% of non-empty `Case`): <em>abracham, moysi</em>
+* `Acc` (2; 33% of non-empty `Case`): <em>dia, maccidóndu</em>
+* `Gen` (2; 33% of non-empty `Case`): <em>crist, ṅ dǽ</em>
+* `Nom` (2; 33% of non-empty `Case`): <em>abracham, moysi</em>
+
+<table>
+  <tr><th>Paradigm <i>día</i></th><th><tt>Acc</tt></th><th><tt>Gen</tt></th></tr>
+  <tr><td><tt></tt></td><td><em>dia</em></td><td><em>ṅ dǽ</em></td></tr>
+</table>
 
 ### `PRON`
 

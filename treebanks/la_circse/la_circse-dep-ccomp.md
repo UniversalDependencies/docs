@@ -44,7 +44,7 @@ The following 8 pairs of parts of speech are connected with `ccomp`: <tt><a href
 1	quis	quis	PRON	K	Case=Nom|Gender=Fem,Masc|InflClass=LatPron|Number=Sing|PronType=Int	3	nsubj	_	LASLAVariant=1|LiLaflcat=p
 2	esse	sum	AUX	B6	Aspect=Imp|InflClass=LatAnom|InflClass[nominal]=Ind|VerbForm=Inf	4	cop	_	LASLAVariant=1|LiLaflcat=v6
 3	credat	credo	VERB	B3	Aspect=Imp|InflClass=LatX|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LiLaflcat=v3
-4	uirginem	uirgo	NOUN	A3	Case=Acc|Gender=Fem,Masc|InflClass=IndEurX|Number=Sing	3	ccomp	_	LiLaflcat=n3
+4	uirginem	uirgo	NOUN	A3	Case=Acc|Gender=Fem,Masc|InflClass=IndEurX|Number=Sing	3	ccomp	_	LiLaflcat=n3|Scrap=Yes
 
 ~~~
 

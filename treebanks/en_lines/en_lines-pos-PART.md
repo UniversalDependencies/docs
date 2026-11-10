@@ -13,15 +13,15 @@ The 10 most frequent `PART` lemmas: <em>to, not, 's</em>
 
 The 10 most frequent `PART` types:  <em>to, not, 's, n't, ', t'</em>
 
-The 10 most frequent ambiguous lemmas: <em>to</em> (<tt><a href="en_lines-pos-PART.html">PART</a></tt> 1500, <tt><a href="en_lines-pos-ADP.html">ADP</a></tt> 1024, <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> 3), <em>not</em> (<tt><a href="en_lines-pos-PART.html">PART</a></tt> 872, <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>to</em> (<tt><a href="en_lines-pos-PART.html">PART</a></tt> 1500, <tt><a href="en_lines-pos-ADP.html">ADP</a></tt> 1025, <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> 2), <em>not</em> (<tt><a href="en_lines-pos-PART.html">PART</a></tt> 872, <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>to</em> (<tt><a href="en_lines-pos-PART.html">PART</a></tt> 1466, <tt><a href="en_lines-pos-ADP.html">ADP</a></tt> 1011, <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> 3), <em>not</em> (<tt><a href="en_lines-pos-PART.html">PART</a></tt> 518, <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> 1), <em>'s</em> (<tt><a href="en_lines-pos-PART.html">PART</a></tt> 362, <tt><a href="en_lines-pos-AUX.html">AUX</a></tt> 173, <tt><a href="en_lines-pos-VERB.html">VERB</a></tt> 45, <tt><a href="en_lines-pos-PRON.html">PRON</a></tt> 1), <em>'</em> (<tt><a href="en_lines-pos-PUNCT.html">PUNCT</a></tt> 280, <tt><a href="en_lines-pos-PART.html">PART</a></tt> 32)
+The 10 most frequent ambiguous types:  <em>to</em> (<tt><a href="en_lines-pos-PART.html">PART</a></tt> 1466, <tt><a href="en_lines-pos-ADP.html">ADP</a></tt> 1012, <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> 2), <em>not</em> (<tt><a href="en_lines-pos-PART.html">PART</a></tt> 518, <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> 1), <em>'s</em> (<tt><a href="en_lines-pos-PART.html">PART</a></tt> 362, <tt><a href="en_lines-pos-AUX.html">AUX</a></tt> 173, <tt><a href="en_lines-pos-VERB.html">VERB</a></tt> 45, <tt><a href="en_lines-pos-PRON.html">PRON</a></tt> 1), <em>'</em> (<tt><a href="en_lines-pos-PUNCT.html">PUNCT</a></tt> 280, <tt><a href="en_lines-pos-PART.html">PART</a></tt> 32)
 
 
 * <em>to</em>
   * <tt><a href="en_lines-pos-PART.html">PART</a></tt> 1466: <em>Filter settings are retained when you move fields <b>to</b> change the layout .</em>
-  * <tt><a href="en_lines-pos-ADP.html">ADP</a></tt> 1011: <em>Some of the hyperlinks in this topic go <b>to</b> the Web .</em>
-  * <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> 3: <em>Black rags were wound round their loins , and the short ends behind wagged <b>to</b> and fro like tails .</em>
+  * <tt><a href="en_lines-pos-ADP.html">ADP</a></tt> 1012: <em>Some of the hyperlinks in this topic go <b>to</b> the Web .</em>
+  * <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> 2: <em>The flood had made , the wind was nearly calm , and being bound down the river , the only thing for it was to come <b>to</b> and wait for the turn of the tide .</em>
 * <em>not</em>
   * <tt><a href="en_lines-pos-PART.html">PART</a></tt> 518: <em>But I 'm <b>not</b> a detective .</em>
   * <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> 1: <em>My self-esteem is a jigsaw I can <b>not</b> complete .</em>
@@ -36,7 +36,7 @@ The 10 most frequent ambiguous types:  <em>to</em> (<tt><a href="en_lines-pos-PA
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 2.000000 (the average of all parts of speech is 1.236968).
+The form / lemma ratio of `PART` is 2.000000 (the average of all parts of speech is 1.237042).
 
 The 1st highest number of forms (2) was observed with the lemma “'s”: <em>', 's</em>.
 

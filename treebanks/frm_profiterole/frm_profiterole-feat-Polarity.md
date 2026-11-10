@@ -16,10 +16,10 @@ The feature is used with 1 part-of-speech tags: <tt><a href="frm_profiterole-pos
 
 ### `ADV`
 
-1236 <tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt> tokens (13% of all `ADV` tokens) have a non-empty value of `Polarity`.
+1236 <tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt> tokens (10% of all `ADV` tokens) have a non-empty value of `Polarity`.
 
 `ADV` tokens may have the following values of `Polarity`:
 
 * `Neg` (1236; 100% of non-empty `Polarity`): <em>ne, n', pas, point, non, nenny, nem, poinct, mye</em>
-* `EMPTY` (8201): <em>si, y, en, bien, plus, moult, ainsi, item, tant, tout</em>
+* `EMPTY` (11516): <em>en, si, y, bien, plus, moult, ne, ainsi, tant, n'</em>
 

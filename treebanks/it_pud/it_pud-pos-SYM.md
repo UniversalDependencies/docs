@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `SYM` is 1.000000 (the average of all parts of speech is 1.285855).
+The form / lemma ratio of `SYM` is 1.000000 (the average of all parts of speech is 1.282892).
 
 The 1st highest number of forms (1) was observed with the lemma “%”: <em>%</em>.
 
@@ -48,7 +48,7 @@ Parents of `SYM` nodes belong to 6 different parts of speech: <tt><a href="it_pu
 
 The highest child degree of a `SYM` node is 5.
 
-Children of `SYM` nodes are attached using 10 different relations: <tt><a href="it_pud-dep-nummod.html">nummod</a></tt> (33; 32% instances), <tt><a href="it_pud-dep-det.html">det</a></tt> (22; 22% instances), <tt><a href="it_pud-dep-case.html">case</a></tt> (19; 19% instances), <tt><a href="it_pud-dep-nmod.html">nmod</a></tt> (12; 12% instances), <tt><a href="it_pud-dep-advmod.html">advmod</a></tt> (9; 9% instances), <tt><a href="it_pud-dep-appos.html">appos</a></tt> (2; 2% instances), <tt><a href="it_pud-dep-punct.html">punct</a></tt> (2; 2% instances), <tt><a href="it_pud-dep-acl.html">acl</a></tt> (1; 1% instances), <tt><a href="it_pud-dep-cc.html">cc</a></tt> (1; 1% instances), <tt><a href="it_pud-dep-conj.html">conj</a></tt> (1; 1% instances)
+Children of `SYM` nodes are attached using 10 different relations: <tt><a href="it_pud-dep-nummod.html">nummod</a></tt> (33; 32% instances), <tt><a href="it_pud-dep-det.html">det</a></tt> (23; 22% instances), <tt><a href="it_pud-dep-case.html">case</a></tt> (19; 18% instances), <tt><a href="it_pud-dep-nmod.html">nmod</a></tt> (12; 12% instances), <tt><a href="it_pud-dep-advmod.html">advmod</a></tt> (9; 9% instances), <tt><a href="it_pud-dep-appos.html">appos</a></tt> (2; 2% instances), <tt><a href="it_pud-dep-punct.html">punct</a></tt> (2; 2% instances), <tt><a href="it_pud-dep-acl.html">acl</a></tt> (1; 1% instances), <tt><a href="it_pud-dep-cc.html">cc</a></tt> (1; 1% instances), <tt><a href="it_pud-dep-conj.html">conj</a></tt> (1; 1% instances)
 
-Children of `SYM` nodes belong to 9 different parts of speech: <tt><a href="it_pud-pos-NUM.html">NUM</a></tt> (33; 32% instances), <tt><a href="it_pud-pos-DET.html">DET</a></tt> (22; 22% instances), <tt><a href="it_pud-pos-ADP.html">ADP</a></tt> (19; 19% instances), <tt><a href="it_pud-pos-NOUN.html">NOUN</a></tt> (11; 11% instances), <tt><a href="it_pud-pos-ADV.html">ADV</a></tt> (9; 9% instances), <tt><a href="it_pud-pos-SYM.html">SYM</a></tt> (4; 4% instances), <tt><a href="it_pud-pos-PUNCT.html">PUNCT</a></tt> (2; 2% instances), <tt><a href="it_pud-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="it_pud-pos-VERB.html">VERB</a></tt> (1; 1% instances)
+Children of `SYM` nodes belong to 9 different parts of speech: <tt><a href="it_pud-pos-NUM.html">NUM</a></tt> (33; 32% instances), <tt><a href="it_pud-pos-DET.html">DET</a></tt> (23; 22% instances), <tt><a href="it_pud-pos-ADP.html">ADP</a></tt> (19; 18% instances), <tt><a href="it_pud-pos-NOUN.html">NOUN</a></tt> (11; 11% instances), <tt><a href="it_pud-pos-ADV.html">ADV</a></tt> (9; 9% instances), <tt><a href="it_pud-pos-SYM.html">SYM</a></tt> (4; 4% instances), <tt><a href="it_pud-pos-PUNCT.html">PUNCT</a></tt> (2; 2% instances), <tt><a href="it_pud-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="it_pud-pos-VERB.html">VERB</a></tt> (1; 1% instances)
 

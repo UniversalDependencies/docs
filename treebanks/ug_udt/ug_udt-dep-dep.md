@@ -41,7 +41,7 @@ The following 19 pairs of parts of speech are connected with `dep`: <tt><a href=
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
 # visual-style 11 10 dep	color:blue
-1	ئىلگىرى	ئىلگىرى	NOUN	D	Case=Nom	5	obl	_	Translit=ilgiri|LTranslit=ilgiri
+1	ئىلگىرى	ئىلگىرى	NOUN	D	Case=Nom	5	nmod	_	Translit=ilgiri|LTranslit=ilgiri
 2	ئۈ	_	NOUN	N	_	5	nsubj	_	Morf=Unknown|Translit=ü
 3	قىپقىزىل	قىپقىزىل	ADJ	A	Case=Nom	4	amod	_	Translit=qipqizil|LTranslit=qipqizil
 4	تاشلىق	تاشلىق	NOUN	N	Case=Nom	5	amod	_	Translit=tashliq|LTranslit=tashliq

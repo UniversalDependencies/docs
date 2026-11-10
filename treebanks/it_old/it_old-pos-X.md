@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>Beati</em> (<tt><a href="it_old-pos-X
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.033113 (the average of all parts of speech is 1.950381).
+The form / lemma ratio of `X` is 1.033113 (the average of all parts of speech is 1.951202).
 
 The 1st highest number of forms (4) was observed with the lemma “deus”: <em>Dei, Deo, Deum, Deus</em>.
 

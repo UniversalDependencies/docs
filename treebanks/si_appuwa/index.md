@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.18 release
 The following people have contributed to making this treebank part of UD: Warangana Sammani, Luigi Talamo, Annemarie Verkerk.
 
 Repository: [UD_Sinhala-Appuwa](https://github.com/UniversalDependencies/UD_Sinhala-Appuwa)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsi_appuwa218)<br />
-Download all treebanks: [UD 2.18](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsi_appuwa219)<br />
+Download all treebanks: [UD 2.19](/#download)
 
 License: CC BY-SA 4.0
 

@@ -9,41 +9,42 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="pl_mpdt-dep-advcl.html">advcl</a></tt>.
 There are also 1 other language-specific subtypes of `advcl`: <tt><a href="pl_mpdt-dep-advcl-relcl.html">advcl:relcl</a></tt>.
 
-21 nodes (0%) are attached to their parents as `advcl:cmp`.
+41 nodes (0%) are attached to their parents as `advcl:cmp`.
 
-20 instances of `advcl:cmp` (95%) are left-to-right (parent precedes child).
-Average distance between parent and child is 7.47619047619048.
+39 instances of `advcl:cmp` (95%) are left-to-right (parent precedes child).
+Average distance between parent and child is 6.78048780487805.
 
-The following 6 pairs of parts of speech are connected with `advcl:cmp`: <tt><a href="pl_mpdt-pos-ADV.html">ADV</a></tt>-<tt><a href="pl_mpdt-pos-VERB.html">VERB</a></tt> (7; 33% instances), <tt><a href="pl_mpdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_mpdt-pos-VERB.html">VERB</a></tt> (4; 19% instances), <tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_mpdt-pos-VERB.html">VERB</a></tt> (4; 19% instances), <tt><a href="pl_mpdt-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_mpdt-pos-VERB.html">VERB</a></tt> (3; 14% instances), <tt><a href="pl_mpdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_mpdt-pos-ADJ.html">ADJ</a></tt> (2; 10% instances), <tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_mpdt-pos-ADJ.html">ADJ</a></tt> (1; 5% instances).
+The following 6 pairs of parts of speech are connected with `advcl:cmp`: <tt><a href="pl_mpdt-pos-ADV.html">ADV</a></tt>-<tt><a href="pl_mpdt-pos-VERB.html">VERB</a></tt> (19; 46% instances), <tt><a href="pl_mpdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_mpdt-pos-VERB.html">VERB</a></tt> (8; 20% instances), <tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_mpdt-pos-VERB.html">VERB</a></tt> (5; 12% instances), <tt><a href="pl_mpdt-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_mpdt-pos-VERB.html">VERB</a></tt> (5; 12% instances), <tt><a href="pl_mpdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_mpdt-pos-ADJ.html">ADJ</a></tt> (3; 7% instances), <tt><a href="pl_mpdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_mpdt-pos-ADJ.html">ADJ</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
-# visual-style 20	bgColor:blue
-# visual-style 20	fgColor:white
-# visual-style 17	bgColor:blue
-# visual-style 17	fgColor:white
-# visual-style 17 20 advcl:cmp	color:blue
-1	Daruj	darować	VERB	impt:sg:sec:imperf	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	0:root	Translit=Daruy
-2	Wmć	wmć	NOUN	subst:sg:voc:f	Case=Voc|Gender=Fem|Number=Sing	1	vocative	1:vocative	Translit=Wmc
-3	Pani	pani	NOUN	subst:sg:voc:f	Case=Voc|Gender=Fem|Number=Sing	2	appos	2:appos	Translit=Pani
-4	prostocie	prostota	NOUN	subst:sg:dat:f	Case=Dat|Gender=Fem|Number=Sing	1	iobj	1:iobj	Translit=prostocie
-5	wyrazów	wyraz	NOUN	subst:pl:gen:m	Case=Gen|Gender=Masc|Number=Plur	4	nmod:arg	4:nmod:arg	Translit=wyrazow
-6	kobiety	kobieta	NOUN	subst:sg:gen:f	Case=Gen|Gender=Fem|Number=Sing	5	nmod:poss	5:nmod:poss	Translit=kobiety
-7	wychowanej	wychować	ADJ	ppas:sg:gen:f:perf:aff:pos	Aspect=Perf|Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass	6	acl	6:acl	Translit=wychowaney
-8	w	w	ADP	prep:loc:nwok	AdpType=Prep|Variant=Short	9	case	9:case	Case=Loc|Translit=w
-9	stanie	stan	NOUN	subst:sg:loc:m	Case=Loc|Gender=Masc|Number=Sing	7	obl	7:obl	Translit=stanie
-10	natury	natura	NOUN	subst:sg:gen:f	Case=Gen|Gender=Fem|Number=Sing	9	nmod:arg	9:nmod:arg	SpaceAfter=No|Translit=natury
-11	,	,	PUNCT	interp	PunctType=Comm	12	punct	12:punct	Translit=,
-12	nieumiejącej	umieć	ADJ	pact:sg:gen:f:imperf:neg:pos	Aspect=Imp|Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Neg|VerbForm=Part|Voice=Act	7	conj	6:acl|7:conj	Translit=nie umieiącey
-13	inaczej	inaczej	ADV	adv	_	14	advmod	14:advmod	Translit=inaczey
-14	pisać	pisać	VERB	inf:imperf	Aspect=Imp|VerbForm=Inf|Voice=Act	12	xcomp	12:xcomp	SpaceAfter=No|Translit=pisać
-15	,	,	PUNCT	interp	PunctType=Comm	17	punct	17:punct	Translit=,
-16	tylko	tylko	SCONJ	comp	_	17	mark	17:mark	Translit=tylko
-17	tak	tak	ADV	adv	PronType=Dem	13	obl:cmp	13:obl:cmp	SpaceAfter=No|Translit=tak
-18	,	,	PUNCT	interp	PunctType=Comm	20	punct	20:punct	Translit=,
-19	jak	jak	SCONJ	comp	ConjType=Comp	20	mark	20:mark	Translit=iak
-20	myśli	myśleć	VERB	fin:sg:ter:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	17	advcl:cmp	17:advcl:cmp	SpaceAfter=No|Translit=myśli
-21	.	.	PUNCT	interp	PunctType=Peri	1	punct	1:punct	Translit=.
+# visual-style 21	bgColor:blue
+# visual-style 21	fgColor:white
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 13 21 advcl:cmp	color:blue
+1	„	„	PUNCT	interp	PunctSide=Ini|PunctType=Quot	2	punct	2:punct	SpaceAfter=No|Translit=„
+2	Wiem	wiedzieć	VERB	fin:sg:pri:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	Translit=Wiem
+3	iż	iż	SCONJ	comp	_	6	mark	6:mark	Translit=iż
+4	jest	być	AUX	fin:sg:ter:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	cop	6:cop	Translit=iest
+5	moją	mój	DET	adj:sg:inst:f:pos	Case=Ins|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	6	det:poss	6:det:poss	Translit=moią
+6	powinnością	powinność	NOUN	subst:sg:inst:f	Case=Ins|Gender=Fem|Number=Sing	2	ccomp	2:ccomp	Translit=powinnością
+7	bronić	bronić	VERB	inf:imperf	Aspect=Imp|VerbForm=Inf|Voice=Act	6	xcomp:subj	6:xcomp:subj	Translit=bronić
+8	się	się	PRON	part	PronType=Prs|Reflex=Yes	7	expl:pv	7:expl:pv	Translit=się
+9	do	do	ADP	prep:gen	AdpType=Prep	10	case	10:case	Case=Gen|Translit=do
+10	upadłej	upadły	ADJ	adj:sg:gen:f:pos	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	7	obl	7:obl	SpaceAfter=No|Translit=upadłey
+11	,	,	PUNCT	interp	PunctType=Comm	17	punct	17:punct	Translit=,
+12	i	i	CCONJ	conj	_	17	cc	17:cc	Translit=i
+13	pierwej	pierwej	ADV	adv	_	17	advmod	17:advmod	Translit=pierwey
+14	życie	życie	NOUN	subst:sg:acc:n	Case=Acc|Gender=Neut|Number=Sing	17	obj	17:obj	Translit=życie
+15	na	na	ADP	prep:loc	AdpType=Prep	16	case	16:case	Case=Loc|Translit=na
+16	placu	plac	NOUN	subst:sg:loc:m	Case=Loc|Gender=Masc|Number=Sing	17	obl	17:obl	Translit=placu
+17	położyć	położyć	VERB	inf:perf	Aspect=Perf|VerbForm=Inf|Voice=Act	7	conj	6:xcomp:subj|7:conj	SpaceAfter=No|Translit=położyć
+18	,	,	PUNCT	interp	PunctType=Comm	21	punct	21:punct	Translit=,
+19	niżeli	niżeli	SCONJ	comp	ConjType=Comp	21	mark	21:mark	Translit=niżeli
+20	się	się	PRON	part	PronType=Prs|Reflex=Yes	21	expl:pv	21:expl:pv	Translit=się
+21	poddać	poddać	VERB	inf:perf	Aspect=Perf|VerbForm=Inf|Voice=Act	13	advcl:cmp	13:advcl:cmp	SpaceAfter=No|Translit=poddać
+22	.	.	PUNCT	interp	PunctType=Peri	2	punct	2:punct	Translit=.
 
 ~~~
 

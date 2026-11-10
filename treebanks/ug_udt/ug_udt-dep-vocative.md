@@ -25,7 +25,7 @@ The following 8 pairs of parts of speech are connected with `vocative`: <tt><a h
 1	-	-	PUNCT	Y	_	5	punct	_	Translit=-|LTranslit=-
 2	كاپىتان	_	NOUN	N	_	5	vocative	_	SpaceAfter=No|Morf=Unknown|Translit=kapitan
 3	،	،	PUNCT	Y	_	2	punct	_	Translit=,|LTranslit=,
-4	مېنى	_	PRON	P	_	5	obj	_	Morf=Unknown|Translit=mëni
+4	مېنى	مەن	PRON	P	Case=Acc|Number=Sing|Person=1|PronType=Prs	5	obj	_	Gloss=me|LTranslit=men|Translit=mëni
 5	چاقىردىڭىزمۇ	چاقىر	VERB	V	Mood=Ind|Number=Sing|Person=2|Polite=Form|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No|Translit=chaqirdingizmu|LTranslit=chaqir
 6	؟	؟	PUNCT	Y	_	5	punct	_	Translit=?|LTranslit=?
 

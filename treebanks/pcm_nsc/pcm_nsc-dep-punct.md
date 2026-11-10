@@ -10,10 +10,10 @@ This relation is universal.
 
 39702 nodes (28%) are attached to their parents as `punct`.
 
-21359 instances of `punct` (54%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.46360384867261.
+21357 instances of `punct` (54%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.46367941161654.
 
-The following 16 pairs of parts of speech are connected with `punct`: <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-PUNCT.html">PUNCT</a></tt> (20737; 52% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-PUNCT.html">PUNCT</a></tt> (7344; 18% instances), <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt>-<tt><a href="pcm_nsc-pos-PUNCT.html">PUNCT</a></tt> (2608; 7% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt>-<tt><a href="pcm_nsc-pos-PUNCT.html">PUNCT</a></tt> (2517; 6% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pcm_nsc-pos-PUNCT.html">PUNCT</a></tt> (1558; 4% instances), <tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pcm_nsc-pos-PUNCT.html">PUNCT</a></tt> (1051; 3% instances), <tt><a href="pcm_nsc-pos-INTJ.html">INTJ</a></tt>-<tt><a href="pcm_nsc-pos-PUNCT.html">PUNCT</a></tt> (945; 2% instances), <tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt>-<tt><a href="pcm_nsc-pos-PUNCT.html">PUNCT</a></tt> (760; 2% instances), <tt><a href="pcm_nsc-pos-X.html">X</a></tt>-<tt><a href="pcm_nsc-pos-PUNCT.html">PUNCT</a></tt> (493; 1% instances), <tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt>-<tt><a href="pcm_nsc-pos-PUNCT.html">PUNCT</a></tt> (463; 1% instances), <tt><a href="pcm_nsc-pos-DET.html">DET</a></tt>-<tt><a href="pcm_nsc-pos-PUNCT.html">PUNCT</a></tt> (374; 1% instances), <tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt>-<tt><a href="pcm_nsc-pos-PUNCT.html">PUNCT</a></tt> (311; 1% instances), <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt>-<tt><a href="pcm_nsc-pos-PUNCT.html">PUNCT</a></tt> (296; 1% instances), <tt><a href="pcm_nsc-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="pcm_nsc-pos-PUNCT.html">PUNCT</a></tt> (147; 0% instances), <tt><a href="pcm_nsc-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="pcm_nsc-pos-PUNCT.html">PUNCT</a></tt> (75; 0% instances), <tt><a href="pcm_nsc-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="pcm_nsc-pos-PUNCT.html">PUNCT</a></tt> (23; 0% instances).
+The following 16 pairs of parts of speech are connected with `punct`: <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-PUNCT.html">PUNCT</a></tt> (20737; 52% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-PUNCT.html">PUNCT</a></tt> (7344; 18% instances), <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt>-<tt><a href="pcm_nsc-pos-PUNCT.html">PUNCT</a></tt> (2608; 7% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt>-<tt><a href="pcm_nsc-pos-PUNCT.html">PUNCT</a></tt> (2517; 6% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pcm_nsc-pos-PUNCT.html">PUNCT</a></tt> (1558; 4% instances), <tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pcm_nsc-pos-PUNCT.html">PUNCT</a></tt> (1051; 3% instances), <tt><a href="pcm_nsc-pos-INTJ.html">INTJ</a></tt>-<tt><a href="pcm_nsc-pos-PUNCT.html">PUNCT</a></tt> (944; 2% instances), <tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt>-<tt><a href="pcm_nsc-pos-PUNCT.html">PUNCT</a></tt> (760; 2% instances), <tt><a href="pcm_nsc-pos-X.html">X</a></tt>-<tt><a href="pcm_nsc-pos-PUNCT.html">PUNCT</a></tt> (491; 1% instances), <tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt>-<tt><a href="pcm_nsc-pos-PUNCT.html">PUNCT</a></tt> (463; 1% instances), <tt><a href="pcm_nsc-pos-DET.html">DET</a></tt>-<tt><a href="pcm_nsc-pos-PUNCT.html">PUNCT</a></tt> (375; 1% instances), <tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt>-<tt><a href="pcm_nsc-pos-PUNCT.html">PUNCT</a></tt> (311; 1% instances), <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt>-<tt><a href="pcm_nsc-pos-PUNCT.html">PUNCT</a></tt> (296; 1% instances), <tt><a href="pcm_nsc-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="pcm_nsc-pos-PUNCT.html">PUNCT</a></tt> (150; 0% instances), <tt><a href="pcm_nsc-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="pcm_nsc-pos-PUNCT.html">PUNCT</a></tt> (75; 0% instances), <tt><a href="pcm_nsc-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="pcm_nsc-pos-PUNCT.html">PUNCT</a></tt> (22; 0% instances).
 
 
 ~~~ conllu
@@ -22,19 +22,19 @@ The following 16 pairs of parts of speech are connected with `punct`: <tt><a hre
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 1 punct	color:blue
-1	#	#	PUNCT	_	_	4	punct	_	AlignBegin=10145|AlignEnd=10516|Gloss=PUNCT
-2	sey	sey	SCONJ	_	_	4	discourse	_	AlignBegin=10516|AlignEnd=10640|Gloss=COMP
-3	e	im	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	AlignBegin=10640|AlignEnd=10679|Gloss=NOM.SG.3
-4	wan	want	VERB	_	_	0	root	_	AlignBegin=10679|AlignEnd=10850|Gloss=want
-5	carry	carry	VERB	_	_	4	xcomp	_	AlignBegin=10850|AlignEnd=11170|Gloss=carry
-6	me	me	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	5	obj	_	AlignBegin=11170|AlignEnd=11370|Gloss=ACC.SG.1
-7	go	go	VERB	_	_	5	compound:svc	_	AlignBegin=11370|AlignEnd=11533|Gloss=go
-8	meh	make	SCONJ	_	_	10	mark	_	AlignBegin=11533|AlignEnd=11710|Gloss=that
-9	e	im	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	AlignBegin=11710|AlignEnd=11770|Gloss=NOM.SG.3
-10	go	go	VERB	_	_	5	advcl	_	AlignBegin=11770|AlignEnd=12120|Gloss=go
-11	train	train	VERB	_	_	10	compound:svc	_	AlignBegin=12120|AlignEnd=12430|Gloss=train
-12	me	me	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	11	obj	_	AlignBegin=12430|AlignEnd=12580|Gloss=ACC.SG.1
-13	//	//	PUNCT	_	_	4	punct	_	AlignBegin=12580|AlignEnd=12580|Gloss=PUNCT
+1	#	#	PUNCT	_	_	4	punct	_	Gloss=PUNCT|WordAlignmentBegin=10145|WordAlignmentEnd=10516
+2	sey	sey	SCONJ	_	_	4	discourse	_	Gloss=COMP|WordAlignmentBegin=10516|WordAlignmentEnd=10640
+3	e	im	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	Gloss=NOM.SG.3|WordAlignmentBegin=10640|WordAlignmentEnd=10679
+4	wan	want	VERB	_	_	0	root	_	Gloss=want|WordAlignmentBegin=10679|WordAlignmentEnd=10850
+5	carry	carry	VERB	_	_	4	xcomp	_	Gloss=carry|WordAlignmentBegin=10850|WordAlignmentEnd=11170
+6	me	me	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	5	obj	_	Gloss=ACC.SG.1|WordAlignmentBegin=11170|WordAlignmentEnd=11370
+7	go	go	VERB	_	_	5	compound:svc	_	Gloss=go|WordAlignmentBegin=11370|WordAlignmentEnd=11533
+8	meh	make	SCONJ	_	_	10	mark	_	Gloss=that|WordAlignmentBegin=11533|WordAlignmentEnd=11710
+9	e	im	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	Gloss=NOM.SG.3|WordAlignmentBegin=11710|WordAlignmentEnd=11770
+10	go	go	VERB	_	_	5	advcl	_	Gloss=go|WordAlignmentBegin=11770|WordAlignmentEnd=12120
+11	train	train	VERB	_	_	10	compound:svc	_	Gloss=train|WordAlignmentBegin=12120|WordAlignmentEnd=12430
+12	me	me	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	11	obj	_	Gloss=ACC.SG.1|WordAlignmentBegin=12430|WordAlignmentEnd=12580
+13	//	//	PUNCT	_	_	4	punct	_	Gloss=PUNCT|WordAlignmentBegin=12580|WordAlignmentEnd=12580
 
 ~~~
 
@@ -45,19 +45,19 @@ The following 16 pairs of parts of speech are connected with `punct`: <tt><a hre
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 11 punct	color:blue
-1	#	#	PUNCT	_	_	3	punct	_	AlignBegin=24856|AlignEnd=25408|Gloss=PUNCT
-2	con	con	AUX	_	Aspect=Cons	3	aux	_	AlignBegin=25408|AlignEnd=25566|Gloss=CONS
-3	go	go	VERB	_	_	0	root	_	AlignBegin=25566|AlignEnd=25676|Gloss=go
-4	my	my	PRON	_	Number=Sing|Person=1|Poss=Yes	7	nmod	_	AlignBegin=25676|AlignEnd=25856|Gloss=SG.1.POSS
-5	grand	grand	NOUN	_	_	7	compound	_	AlignBegin=25856|AlignEnd=26136|Gloss=grand
-6	{	{	PUNCT	_	_	7	punct	_	AlignBegin=26136|AlignEnd=26136|Gloss=PUNCT
-7	f~	X	X	_	_	10	reparandum	_	AlignBegin=26136|AlignEnd=26176|Gloss=father
-8	||	||	PUNCT	_	_	7	punct	_	AlignBegin=26176|AlignEnd=26205|Gloss=PUNCT
-9	#	#	PUNCT	_	_	7	punct	_	AlignBegin=26205|AlignEnd=26485|Gloss=PUNCT
-10	moder	moder	NOUN	_	_	12	nmod	_	AlignBegin=26485|AlignEnd=26787|Gloss=mother
-11	}	}	PUNCT	_	_	10	punct	_	AlignBegin=26787|AlignEnd=26787|Gloss=PUNCT
-12	place	place	NOUN	_	_	3	obl:arg	_	AlignBegin=26787|AlignEnd=27115|Gloss=place
-13	//	//	PUNCT	_	_	3	punct	_	AlignBegin=27115|AlignEnd=27115|Gloss=PUNCT
+1	#	#	PUNCT	_	_	3	punct	_	Gloss=PUNCT|WordAlignmentBegin=24856|WordAlignmentEnd=25408
+2	con	con	AUX	_	Aspect=Cons	3	aux	_	Gloss=CONS|WordAlignmentBegin=25408|WordAlignmentEnd=25566
+3	go	go	VERB	_	_	0	root	_	Gloss=go|WordAlignmentBegin=25566|WordAlignmentEnd=25676
+4	my	my	PRON	_	Number=Sing|Person=1|Poss=Yes	7	nmod	_	Gloss=SG.1.POSS|WordAlignmentBegin=25676|WordAlignmentEnd=25856
+5	grand	grand	NOUN	_	_	7	compound	_	Gloss=grand|WordAlignmentBegin=25856|WordAlignmentEnd=26136
+6	{	{	PUNCT	_	_	7	punct	_	Gloss=PUNCT|WordAlignmentBegin=26136|WordAlignmentEnd=26136
+7	f~	X	X	_	_	10	reparandum	_	Gloss=father|WordAlignmentBegin=26136|WordAlignmentEnd=26176
+8	||	||	PUNCT	_	_	7	punct	_	Gloss=PUNCT|WordAlignmentBegin=26176|WordAlignmentEnd=26205
+9	#	#	PUNCT	_	_	7	punct	_	Gloss=PUNCT|WordAlignmentBegin=26205|WordAlignmentEnd=26485
+10	moder	moder	NOUN	_	_	12	nmod	_	Gloss=mother|WordAlignmentBegin=26485|WordAlignmentEnd=26787
+11	}	}	PUNCT	_	_	10	punct	_	Gloss=PUNCT|WordAlignmentBegin=26787|WordAlignmentEnd=26787
+12	place	place	NOUN	_	_	3	obl:arg	_	Gloss=place|WordAlignmentBegin=26787|WordAlignmentEnd=27115
+13	//	//	PUNCT	_	_	3	punct	_	Gloss=PUNCT|WordAlignmentBegin=27115|WordAlignmentEnd=27115
 
 ~~~
 
@@ -68,20 +68,20 @@ The following 16 pairs of parts of speech are connected with `punct`: <tt><a hre
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
 # visual-style 11 10 punct	color:blue
-1	#	#	PUNCT	_	_	3	punct	_	AlignBegin=27115|AlignEnd=27579|Gloss=PUNCT
-2	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	AlignBegin=27579|AlignEnd=27670|Gloss=NOM.SG.1
-3	dey	dey	VERB	_	VerbType=Cop	0	root	_	AlignBegin=27670|AlignEnd=27840|Gloss=be
-4	dere	dere	ADV	_	_	3	xcomp	_	AlignBegin=27840|AlignEnd=27980|Gloss=there
-5	o	o	PART	_	PartType=Disc	4	advmod	_	AlignBegin=27980|AlignEnd=28270|Gloss=EMPH
-6	//=	//=	PUNCT	_	_	8	punct	_	AlignBegin=28270|AlignEnd=28270|Gloss=PUNCT
-7	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	AlignBegin=28270|AlignEnd=28450|Gloss=NOM.SG.1
-8	school	school	VERB	_	_	3	parataxis:conj	_	AlignBegin=28450|AlignEnd=28830|Gloss=school
-9	o	o	PART	_	PartType=Disc	8	advmod	_	AlignBegin=28830|AlignEnd=29030|Gloss=EMPH
-10	//=	//=	PUNCT	_	_	11	punct	_	AlignBegin=28830|AlignEnd=29030|Gloss=PUNCT
-11	setay	sotay	ADV	_	_	8	parataxis:conj	_	AlignBegin=29060|AlignEnd=29610|Gloss=such_that
-12	four	four	NUM	_	NumType=Card	13	nummod	_	AlignBegin=29610|AlignEnd=29950|Gloss=four.CARD
-13	years	year	NOUN	_	Number=Plur	11	obl:mod	_	AlignBegin=29950|AlignEnd=30300|Gloss=year.PL
-14	//	//	PUNCT	_	_	3	punct	_	AlignBegin=30300|AlignEnd=30300|Gloss=PUNCT
+1	#	#	PUNCT	_	_	3	punct	_	Gloss=PUNCT|WordAlignmentBegin=27115|WordAlignmentEnd=27579
+2	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Gloss=NOM.SG.1|WordAlignmentBegin=27579|WordAlignmentEnd=27670
+3	dey	dey	VERB	_	VerbType=Cop	0	root	_	Gloss=be|WordAlignmentBegin=27670|WordAlignmentEnd=27840
+4	dere	dere	ADV	_	_	3	xcomp	_	Gloss=there|WordAlignmentBegin=27840|WordAlignmentEnd=27980
+5	o	o	PART	_	PartType=Disc	4	advmod	_	Gloss=EMPH|WordAlignmentBegin=27980|WordAlignmentEnd=28270
+6	//=	//=	PUNCT	_	_	8	punct	_	Gloss=PUNCT|WordAlignmentBegin=28270|WordAlignmentEnd=28270
+7	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	Gloss=NOM.SG.1|WordAlignmentBegin=28270|WordAlignmentEnd=28450
+8	school	school	VERB	_	_	3	parataxis:conj	_	Gloss=school|WordAlignmentBegin=28450|WordAlignmentEnd=28830
+9	o	o	PART	_	PartType=Disc	8	advmod	_	Gloss=EMPH|WordAlignmentBegin=28830|WordAlignmentEnd=29030
+10	//=	//=	PUNCT	_	_	11	punct	_	Gloss=PUNCT|WordAlignmentBegin=28830|WordAlignmentEnd=29030
+11	setay	sotay	ADV	_	_	8	parataxis:conj	_	Gloss=such_that|WordAlignmentBegin=29060|WordAlignmentEnd=29610
+12	four	four	NUM	_	NumType=Card	13	nummod	_	Gloss=four.CARD|WordAlignmentBegin=29610|WordAlignmentEnd=29950
+13	years	year	NOUN	_	Number=Plur	11	obl:mod	_	Gloss=year.PL|WordAlignmentBegin=29950|WordAlignmentEnd=30300
+14	//	//	PUNCT	_	_	3	punct	_	Gloss=PUNCT|WordAlignmentBegin=30300|WordAlignmentEnd=30300
 
 ~~~
 

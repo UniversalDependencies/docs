@@ -47,9 +47,9 @@ The 1st highest number of forms (31) was observed with the lemma “_”: DIRECT
 
 Parents of `PROPN` nodes belong to 4 different parts of speech: <tt><a href="zh_patentchar-pos-NOUN.html">NOUN</a></tt> (39; 65% instances), <tt><a href="zh_patentchar-pos-VERB.html">VERB</a></tt> (16; 27% instances), <tt><a href="zh_patentchar-pos-PROPN.html">PROPN</a></tt> (4; 7% instances), <tt><a href="zh_patentchar-pos-PART.html">PART</a></tt> (1; 2% instances)
 
-30 (50%) `PROPN` nodes are leaves.
+31 (52%) `PROPN` nodes are leaves.
 
-23 (38%) `PROPN` nodes have one child.
+22 (37%) `PROPN` nodes have one child.
 
 5 (8%) `PROPN` nodes have two children.
 
@@ -57,7 +57,7 @@ Parents of `PROPN` nodes belong to 4 different parts of speech: <tt><a href="zh_
 
 The highest child degree of a `PROPN` node is 4.
 
-Children of `PROPN` nodes are attached using 8 different relations: <tt><a href="zh_patentchar-dep-case.html">case</a></tt> (16; 40% instances), <tt><a href="zh_patentchar-dep-amod.html">amod</a></tt> (9; 23% instances), <tt><a href="zh_patentchar-dep-conj.html">conj</a></tt> (4; 10% instances), <tt><a href="zh_patentchar-dep-punct.html">punct</a></tt> (4; 10% instances), <tt><a href="zh_patentchar-dep-nmod.html">nmod</a></tt> (3; 8% instances), <tt><a href="zh_patentchar-dep-cc.html">cc</a></tt> (2; 5% instances), <tt><a href="zh_patentchar-dep-det.html">det</a></tt> (1; 3% instances), <tt><a href="zh_patentchar-dep-obj.html">obj</a></tt> (1; 3% instances)
+Children of `PROPN` nodes are attached using 8 different relations: <tt><a href="zh_patentchar-dep-case.html">case</a></tt> (15; 38% instances), <tt><a href="zh_patentchar-dep-amod.html">amod</a></tt> (9; 23% instances), <tt><a href="zh_patentchar-dep-conj.html">conj</a></tt> (4; 10% instances), <tt><a href="zh_patentchar-dep-punct.html">punct</a></tt> (4; 10% instances), <tt><a href="zh_patentchar-dep-nmod.html">nmod</a></tt> (3; 8% instances), <tt><a href="zh_patentchar-dep-cc.html">cc</a></tt> (2; 5% instances), <tt><a href="zh_patentchar-dep-det.html">det</a></tt> (1; 3% instances), <tt><a href="zh_patentchar-dep-obj.html">obj</a></tt> (1; 3% instances)
 
-Children of `PROPN` nodes belong to 8 different parts of speech: <tt><a href="zh_patentchar-pos-PART.html">PART</a></tt> (12; 30% instances), <tt><a href="zh_patentchar-pos-ADJ.html">ADJ</a></tt> (9; 23% instances), <tt><a href="zh_patentchar-pos-ADP.html">ADP</a></tt> (4; 10% instances), <tt><a href="zh_patentchar-pos-NOUN.html">NOUN</a></tt> (4; 10% instances), <tt><a href="zh_patentchar-pos-PROPN.html">PROPN</a></tt> (4; 10% instances), <tt><a href="zh_patentchar-pos-PUNCT.html">PUNCT</a></tt> (4; 10% instances), <tt><a href="zh_patentchar-pos-CCONJ.html">CCONJ</a></tt> (2; 5% instances), <tt><a href="zh_patentchar-pos-DET.html">DET</a></tt> (1; 3% instances)
+Children of `PROPN` nodes belong to 8 different parts of speech: <tt><a href="zh_patentchar-pos-PART.html">PART</a></tt> (11; 28% instances), <tt><a href="zh_patentchar-pos-ADJ.html">ADJ</a></tt> (9; 23% instances), <tt><a href="zh_patentchar-pos-ADP.html">ADP</a></tt> (4; 10% instances), <tt><a href="zh_patentchar-pos-NOUN.html">NOUN</a></tt> (4; 10% instances), <tt><a href="zh_patentchar-pos-PROPN.html">PROPN</a></tt> (4; 10% instances), <tt><a href="zh_patentchar-pos-PUNCT.html">PUNCT</a></tt> (4; 10% instances), <tt><a href="zh_patentchar-pos-CCONJ.html">CCONJ</a></tt> (2; 5% instances), <tt><a href="zh_patentchar-pos-DET.html">DET</a></tt> (1; 3% instances)
 

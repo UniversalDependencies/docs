@@ -39,6 +39,6 @@ The most frequent other feature values with which `ADJ` and `Poss` co-occurred: 
 ## Relations with Agreement in `Poss`
 
 The 10 most frequent relations where parent and child node agree in `Poss`:
-<tt>PRON --[<tt><a href="pcm_nsc-dep-reparandum.html">reparandum</a></tt>]--> PRON</tt> (22; 81%),
+<tt>PRON --[<tt><a href="pcm_nsc-dep-reparandum.html">reparandum</a></tt>]--> PRON</tt> (21; 81%),
 <tt>ADJ --[<tt><a href="pcm_nsc-dep-reparandum.html">reparandum</a></tt>]--> PRON</tt> (3; 100%).
 

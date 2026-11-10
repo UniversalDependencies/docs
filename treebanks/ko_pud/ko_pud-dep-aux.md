@@ -49,7 +49,7 @@ The following 3 pairs of parts of speech are connected with `aux`: <tt><a href="
 1	한	_	DET	DT	_	3	det	_	Translit=.han
 2	유명	_	NOUN	NN	_	3	compound	_	SpaceAfter=No|Translit=.yu.myeong
 3	인사의	인사	NOUN	NN+CM	Case=Gen|Polite=Form	4	nmod:poss	_	MSeg=인사-의|Translit=.in.sa.yi|LTranslit=.in.sa
-4	이름은	이름	NOUN	NN+CM	Case=Nom|Polite=Form	12	nsubj	_	MSeg=이름-은|Translit=.i.reum.eun|LTranslit=.i.reum
+4	이름은	이름	NOUN	NN+CM	Case=Nom|Polite=Form	12	nsubj:outer	_	MSeg=이름-은|Translit=.i.reum.eun|LTranslit=.i.reum
 5	처음에는	처음	NOUN	NN+CM	Polite=Form	9	obl	_	MSeg=처음-에는|Translit=.cheo.eum.e.neun|LTranslit=.cheo.eum
 6	매우	_	ADV	RB	_	7	advmod	_	Translit=.mae.u
 7	흔치	_	ADJ	JJ	Form=Aux	9	acl:relcl	_	Translit=.heun.chi

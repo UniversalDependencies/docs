@@ -11,7 +11,7 @@ This relation is universal.
 879 nodes (1%) are attached to their parents as `xcomp`.
 
 877 instances of `xcomp` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.37656427758817.
+Average distance between parent and child is 2.37542662116041.
 
 The following 9 pairs of parts of speech are connected with `xcomp`: <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (711; 81% instances), <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (69; 8% instances), <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt> (68; 8% instances), <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (18; 2% instances), <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt> (5; 1% instances), <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="fr_sequoia-pos-AUX.html">AUX</a></tt>-<tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
@@ -34,7 +34,7 @@ The following 9 pairs of parts of speech are connected with `xcomp`: <tt><a href
 10	PGR	PGR	NOUN	_	Gender=Masc|Number=Sing	5	nmod	_	Exponence[Gender]=Inherent
 11	devra	devoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
 12	être	être	AUX	_	VerbForm=Inf	13	aux:pass	_	Subject=SubjRaising
-13	soumise	soumettre	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	11	xcomp	_	Tense[denom]=Past
+13	soumise	soumettre	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	11	xcomp	_	Status[Tense]=Denom
 14	:	:	PUNCT	_	_	11	punct	_	_
 
 ~~~

@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.16 release
 The following people have contributed to making this treebank part of UD: Jessica K. Ivani, Kira Tulchynska.
 
 Repository: [UD_Naga-Suansu](https://github.com/UniversalDependencies/UD_Naga-Suansu)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udnmf_suansu218)<br />
-Download all treebanks: [UD 2.18](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udnmf_suansu219)<br />
+Download all treebanks: [UD 2.19](/#download)
 
 License: CC BY-SA 4.0
 
@@ -102,11 +102,11 @@ Leipzig: Max Planck Institute for Evolutionary Anthropology.
 
 
 <ul>
-<li>This corpus contains 584 sentences, 3098 tokens and 3123 syntactic words.</li>
+<li>This corpus contains 578 sentences, 3057 tokens and 3082 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 387 tokens (12%) that are not followed by a space.</li>
+<li>This corpus contains 381 tokens (12%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -132,7 +132,7 @@ Leipzig: Max Planck Institute for Evolutionary Anthropology.
 </ul>
 
 <ul>
-<li>This corpus contains 14 word types tagged as particles (PART): dinan, gala, garhe, garhema, khama, la, lagu, re, reganan, reha, rehate, rema, remale, zahai</li>
+<li>This corpus contains 13 word types tagged as particles (PART): dinan, gala, garhe, garhema, khama, lagu, re, reganan, reha, rehate, rema, remale, zahai</li>
 </ul>
 
 <ul>
@@ -148,7 +148,7 @@ Leipzig: Max Planck Institute for Evolutionary Anthropology.
 </ul>
 
 <ul>
-<li>This corpus contains 13 lemmas tagged as auxiliaries (AUX): dai, diga, dila, dima, e, ga, geraha, gu, la, ra, raga, rahn, tha</li>
+<li>This corpus contains 11 lemmas tagged as auxiliaries (AUX): dai, dila, dima, e, ga, geraha, gu, la, ra, rahn, tha</li>
 </ul>
 
 <ul>
@@ -175,7 +175,7 @@ Leipzig: Max Planck Institute for Evolutionary Anthropology.
     <li>ADV: lhia</li>
     <li>AUX: lale, laha, lala, lalate, laia, lalama, late</li>
     <li>PART: remale</li>
-    <li>VERB: dhohnte, nue, reha, wile, kanale, manungle, rae, rue, runge, rungha</li>
+    <li>VERB: dhohnte, nue, reha, kanale, manungle, rae, rue, rungha, thaile, themate</li>
   </ul>
   </li>
 </ul>
@@ -184,7 +184,7 @@ Leipzig: Max Planck Institute for Evolutionary Anthropology.
   <li>Inf
   <ul>
     <li>ADP: thohn</li>
-    <li>ADV: rai, kai, chaszuma</li>
+    <li>ADV: kai, rai, chaszuma</li>
     <li>AUX: la, lama</li>
     <li>VERB: la, the, rung, yoan, chari, mu, thungmi, dhohn, rike, ru</li>
   </ul>
@@ -194,7 +194,7 @@ Leipzig: Max Planck Institute for Evolutionary Anthropology.
 <ul>
   <li>Vnoun
   <ul>
-    <li>NOUN: runge, theyikke, phehnne, rungedi, runghapha, Tramahnne, dhohnphala, huppe, kathamme, laithiedi</li>
+    <li>NOUN: runge, theyikke, phehnne, rungedi, runghapha, Tramahnne, huppe, kathamme, laithiedi, matrahnne</li>
   </ul>
   </li>
 </ul>
@@ -212,7 +212,7 @@ Leipzig: Max Planck Institute for Evolutionary Anthropology.
   <li>Plur
     <ul>
       <li>NOUN: trahnpha, baneopha, neopha, thathokpha, Duhpha, Katrahnpha, Offerpha, Russianla, bikpha, chokeypha</li>
-      <li>NOUN-Vnoun: runghapha, dhohnphala</li>
+      <li>NOUN-Vnoun: runghapha</li>
       <li>PRON: hai, bu, Bunan, Na, banan, haidi, hainan, Budi, buva, haibyahn</li>
       <li>PROPN: Rosenbergwidi</li>
     </ul>
@@ -223,10 +223,10 @@ Leipzig: Max Planck Institute for Evolutionary Anthropology.
   <li>Sing
     <ul>
       <li>ADJ: canned</li>
-      <li>NOUN: miszu, neo, baneo, insurance, leneo, rhui, puirawi, Szukhyate, bya, sir</li>
+      <li>NOUN: miszu, neo, baneo, insurance, leneo, rhui, puirawi, Szukhyate, bya, Mr.</li>
       <li>NOUN-Vnoun: runge, theyikke, phehnne, rungedi, Tramahnne, huppe, kathamme, laithiedi, matrahnne, nungae</li>
-      <li>PRON: a, nahn, ba, bava, ava, Anan, badi, didi, adi, nahndi</li>
-      <li>PROPN: Peter, Mariadi, Jim, Maria, Peternan, Donovan, Mary, Bar, Bob, Doug</li>
+      <li>PRON: a, nahn, ba, bava, ava, badi, didi, Anan, adi, nahndi</li>
+      <li>PROPN: Peter, Mariadi, Jim, Maria, Peternan, Donovan, Mary, Bar, Bob, Lieutenant</li>
     </ul>
   </li>
 </ul>
@@ -242,7 +242,7 @@ Leipzig: Max Planck Institute for Evolutionary Anthropology.
       <li>NOUN: lehnda, thungda, rhuida, anohnda, kumda, makhwada, Ada, actsda, blanketda, capitalda</li>
       <li>NOUN-Vnoun: rueda, ruweda</li>
       <li>NUM: 1941da</li>
-      <li>PRON: haida, Mwetheda</li>
+      <li>PRON: Mwetheda</li>
       <li>PROPN: Nurembergda, Parisda</li>
     </ul>
   </li>
@@ -264,8 +264,7 @@ Leipzig: Max Planck Institute for Evolutionary Anthropology.
   <li>Dat
     <ul>
       <li>ADJ: puidungrela</li>
-      <li>NOUN: spyla, baszuela, dhohnphala, neola, neolewila, neophala, puirawila, wizala</li>
-      <li>NOUN-Vnoun: dhohnphala</li>
+      <li>NOUN: spyla, baszuela, neola, neolewila, neophala, puirawila, wizala</li>
       <li>PRON: Ala, nahnla, Thuzala</li>
       <li>PROPN: Mariala, Alisonla, Unionla</li>
     </ul>
@@ -338,7 +337,7 @@ Leipzig: Max Planck Institute for Evolutionary Anthropology.
       <li>NOUN-Vnoun: phethenahn, wienahn</li>
       <li>NUM: phangenahn, 19nahn</li>
       <li>PRON: anahn, Nahnnahn, hainahn, nahn, nahnla, thuzanahn</li>
-      <li>PROPN: Earlnahn, CIAnahn, Jasonnahn, Marianahn, Predentialnahn, Unionnahn</li>
+      <li>PROPN: Earlnahn, Jasonnahn, Marianahn, Predentialnahn, Unionnahn</li>
     </ul>
   </li>
 </ul>
@@ -445,10 +444,10 @@ Leipzig: Max Planck Institute for Evolutionary Anthropology.
       <li>ADV-Fin: lhia</li>
       <li>AUX: lale, rahn, laha, laia</li>
       <li>AUX-Fin: lale, laha, laia</li>
-      <li>NOUN: runge, theyikke, rungedi, phehnne, runghapha, Tramahnne, dhohnphala, huppe, kathamme, laithiedi</li>
-      <li>NOUN-Vnoun: runge, theyikke, phehnne, rungedi, runghapha, Tramahnne, dhohnphala, huppe, kathamme, laithiedi</li>
+      <li>NOUN: runge, theyikke, rungedi, phehnne, runghapha, Tramahnne, huppe, kathamme, laithiedi, matrahnne</li>
+      <li>NOUN-Vnoun: runge, theyikke, phehnne, rungedi, runghapha, Tramahnne, huppe, kathamme, laithiedi, matrahnne</li>
       <li>PART-Fin: remale</li>
-      <li>VERB-Fin: nue, reha, wile, kanale, manungle, rae, rue, runge, rungha, thaile</li>
+      <li>VERB-Fin: nue, reha, kanale, manungle, rae, rue, rungha, thaile, wile, chule</li>
     </ul>
   </li>
 </ul>
@@ -488,14 +487,6 @@ Leipzig: Max Planck Institute for Evolutionary Anthropology.
 </ul>
 
 <ul>
-  <li>Hrt
-    <ul>
-      <li>AUX: ga, diga, raga</li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
   <li>Imp
     <ul>
       <li>AUX: ra</li>
@@ -511,7 +502,7 @@ Leipzig: Max Planck Institute for Evolutionary Anthropology.
       <li>ADV-Fin: lhia</li>
       <li>AUX-Fin: lale, laha, lalate, laia, late</li>
       <li>PART-Fin: remale</li>
-      <li>VERB-Fin: dhohnte, nue, reha, wile, kanale, manungle, rae, rue, runge, rungha</li>
+      <li>VERB-Fin: dhohnte, nue, reha, kanale, manungle, rae, rue, rungha, thaile, themate</li>
     </ul>
   </li>
 </ul>
@@ -552,7 +543,7 @@ Leipzig: Max Planck Institute for Evolutionary Anthropology.
       <li>ADP-Fin: dhohnte, zwehnne</li>
       <li>ADV-Fin: lhia</li>
       <li>AUX-Fin: lalate, laia, late</li>
-      <li>VERB-Fin: dhohnte, nue, rae, rue, runge, themate, thea, theate, bahnne, makhe</li>
+      <li>VERB-Fin: dhohnte, nue, rae, rue, themate, runge, thea, theate, bahnne, makhe</li>
     </ul>
   </li>
 </ul>
@@ -573,7 +564,7 @@ Leipzig: Max Planck Institute for Evolutionary Anthropology.
     <ul>
       <li>AUX-Fin: lale</li>
       <li>PART-Fin: remale</li>
-      <li>VERB-Fin: wile, kanale, manungle, thaile, chule, matrehnle, phabtale, rele, thele, woanle</li>
+      <li>VERB-Fin: kanale, manungle, thaile, wile, chule, matrehnle, phabtale, rele, thele, woanle</li>
     </ul>
   </li>
 </ul>
@@ -611,7 +602,7 @@ Leipzig: Max Planck Institute for Evolutionary Anthropology.
     <ul>
       <li>ADV: hano, dino</li>
       <li>DET: tye, hai</li>
-      <li>PRON: didi, tye, hadi, Avadi, Haida, didinan, nahnvadi</li>
+      <li>PRON: didi, tye, hadi, Avadi, didinan, nahnvadi</li>
     </ul>
   </li>
 </ul>
@@ -638,7 +629,7 @@ Leipzig: Max Planck Institute for Evolutionary Anthropology.
 <ul>
   <li>Prs
     <ul>
-      <li>PRON: a, nahn, ba, bava, ava, Anan, badi, hai, adi, nahndi</li>
+      <li>PRON: a, nahn, ba, bava, ava, badi, hai, Anan, adi, nahndi</li>
     </ul>
   </li>
 </ul>
@@ -673,7 +664,7 @@ Leipzig: Max Planck Institute for Evolutionary Anthropology.
 <ul>
   <li>1
     <ul>
-      <li>PRON: a, ava, Anan, hai, adi, bava, anahn, haidi, Ala, banan</li>
+      <li>PRON: a, ava, hai, Anan, adi, bava, anahn, haidi, Ala, banan</li>
     </ul>
   </li>
 </ul>
@@ -706,7 +697,6 @@ Leipzig: Max Planck Institute for Evolutionary Anthropology.
       <li>Yes
         <ul>
           <li>NOUN: CIAnahn</li>
-          <li>PROPN: CIAnahn</li>
         </ul>
       </li>
     </ul>
@@ -720,7 +710,7 @@ Leipzig: Max Planck Institute for Evolutionary Anthropology.
         <ul>
           <li>ADV: hano</li>
           <li>DET: hai</li>
-          <li>PRON: hadi, Haida</li>
+          <li>PRON: hadi</li>
         </ul>
       </li>
       <li>Remt
@@ -813,7 +803,7 @@ Leipzig: Max Planck Institute for Evolutionary Anthropology.
 </ul>
 
 <ul>
-<li>This corpus uses 12 lemmas as auxiliaries (<a>aux</a>). Examples: la, rahn, dai, ga, geraha, gu, dila, ra, tha, diga, dima, raga.</li>
+<li>This corpus uses 10 lemmas as auxiliaries (<a>aux</a>). Examples: la, rahn, dai, ga, geraha, gu, dila, tha, ra, dima.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -833,7 +823,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-ErgTop (2)</li>
       <li>VERB-Fin--NOUN-Top (16)</li>
       <li>VERB-Fin--PRON (36)</li>
-      <li>VERB-Fin--PRON-Erg (9)</li>
+      <li>VERB-Fin--PRON-Erg (8)</li>
       <li>VERB-Fin--PRON-Gen (1)</li>
       <li>VERB-Fin--PRON-Top (3)</li>
       <li>VERB-Inf--NOUN (12)</li>

@@ -29,7 +29,7 @@ The following 20 pairs of parts of speech are connected with `fixed`: <tt><a hre
 5	you	you	PRON	PRP	_	6	nsubj	6:nsubj	_
 6	opened	open	VERB	VBD	_	0	root	0:root	_
 7	it	it	PRON	PRP	_	6	obj	6:obj	SpaceAfter=No
-8	?	?	PUNCT	?	_	6	punct	6:punct	_
+8	?	?	PUNCT	.	_	6	punct	6:punct	_
 
 ~~~
 

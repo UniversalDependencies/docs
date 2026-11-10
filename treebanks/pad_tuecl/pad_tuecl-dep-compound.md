@@ -23,7 +23,7 @@ The following 1 pairs of parts of speech are connected with `compound`: <tt><a h
 # visual-style 2	fgColor:white
 # visual-style 2 3 compound	color:blue
 1	Safini	_	NOUN	_	_	4	obl	_	Gloss=sun
-2	ava	_	NOUN	_	_	1	obl	_	Gloss=tree
+2	ava	_	NOUN	_	_	1	nmod	_	Gloss=tree
 3	miinira	_	NOUN	_	_	2	compound	_	Gloss=extremity-f-OBJ
 4	anamaakarirarivini	_	VERB	_	_	0	root	_	Gloss=STATVZR-CAUS-near-meet-DEP:TRANS|SpaceAfter=No
 5	.	_	PUNCT	_	_	4	punct	_	_

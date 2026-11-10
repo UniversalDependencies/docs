@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-141 nodes (3%) are attached to their parents as `case`.
+142 nodes (3%) are attached to their parents as `case`.
 
-141 instances of `case` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.01418439716312.
+142 instances of `case` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.01408450704225.
 
-The following 14 pairs of parts of speech are connected with `case`: <tt><a href="el_cretan-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_cretan-pos-ADP.html">ADP</a></tt> (103; 73% instances), <tt><a href="el_cretan-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_cretan-pos-ADV.html">ADV</a></tt> (8; 6% instances), <tt><a href="el_cretan-pos-DET.html">DET</a></tt>-<tt><a href="el_cretan-pos-ADP.html">ADP</a></tt> (6; 4% instances), <tt><a href="el_cretan-pos-PROPN.html">PROPN</a></tt>-<tt><a href="el_cretan-pos-ADP.html">ADP</a></tt> (6; 4% instances), <tt><a href="el_cretan-pos-ADJ.html">ADJ</a></tt>-<tt><a href="el_cretan-pos-ADP.html">ADP</a></tt> (5; 4% instances), <tt><a href="el_cretan-pos-ADV.html">ADV</a></tt>-<tt><a href="el_cretan-pos-ADP.html">ADP</a></tt> (4; 3% instances), <tt><a href="el_cretan-pos-NUM.html">NUM</a></tt>-<tt><a href="el_cretan-pos-ADP.html">ADP</a></tt> (2; 1% instances), <tt><a href="el_cretan-pos-ADJ.html">ADJ</a></tt>-<tt><a href="el_cretan-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="el_cretan-pos-DET.html">DET</a></tt>-<tt><a href="el_cretan-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="el_cretan-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_cretan-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="el_cretan-pos-NUM.html">NUM</a></tt>-<tt><a href="el_cretan-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="el_cretan-pos-PRON.html">PRON</a></tt>-<tt><a href="el_cretan-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="el_cretan-pos-PROPN.html">PROPN</a></tt>-<tt><a href="el_cretan-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="el_cretan-pos-VERB.html">VERB</a></tt>-<tt><a href="el_cretan-pos-ADP.html">ADP</a></tt> (1; 1% instances).
+The following 14 pairs of parts of speech are connected with `case`: <tt><a href="el_cretan-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_cretan-pos-ADP.html">ADP</a></tt> (103; 73% instances), <tt><a href="el_cretan-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_cretan-pos-ADV.html">ADV</a></tt> (8; 6% instances), <tt><a href="el_cretan-pos-PROPN.html">PROPN</a></tt>-<tt><a href="el_cretan-pos-ADP.html">ADP</a></tt> (7; 5% instances), <tt><a href="el_cretan-pos-DET.html">DET</a></tt>-<tt><a href="el_cretan-pos-ADP.html">ADP</a></tt> (6; 4% instances), <tt><a href="el_cretan-pos-ADJ.html">ADJ</a></tt>-<tt><a href="el_cretan-pos-ADP.html">ADP</a></tt> (5; 4% instances), <tt><a href="el_cretan-pos-ADV.html">ADV</a></tt>-<tt><a href="el_cretan-pos-ADP.html">ADP</a></tt> (4; 3% instances), <tt><a href="el_cretan-pos-NUM.html">NUM</a></tt>-<tt><a href="el_cretan-pos-ADP.html">ADP</a></tt> (2; 1% instances), <tt><a href="el_cretan-pos-ADJ.html">ADJ</a></tt>-<tt><a href="el_cretan-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="el_cretan-pos-DET.html">DET</a></tt>-<tt><a href="el_cretan-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="el_cretan-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_cretan-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="el_cretan-pos-NUM.html">NUM</a></tt>-<tt><a href="el_cretan-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="el_cretan-pos-PRON.html">PRON</a></tt>-<tt><a href="el_cretan-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="el_cretan-pos-PROPN.html">PROPN</a></tt>-<tt><a href="el_cretan-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="el_cretan-pos-VERB.html">VERB</a></tt>-<tt><a href="el_cretan-pos-ADP.html">ADP</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -60,17 +60,21 @@ The following 14 pairs of parts of speech are connected with `case`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 1 case	color:blue
-1	Γι'	για	ADP	Ij	_	2	case	_	_
-2	αυτό	αυτός	DET	PnDm	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	3	obl	_	_
-3	κάμε	κάμω	VERB	VbMn	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	_
-4	μου	εγώ	PRON	PnPe	Case=Gen|Number=Sing|Person=1|PronType=Prs	3	obl	_	_
-5	τηνε	εγώ	PRON	PnPe	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	obj	_	MGloss=her-euphonic|MSeg=την-ε|SpaceAfter=No
-6	.	.	PUNCT	PTERMP	_	3	punct	_	PunctType=Peri
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 3 case	color:blue
+1	Παράπονα	παράπονο	NOUN	NoCm	Case=Acc|Gender=Neut|Number=Plur	2	obj	_	_
+2	ήκανε	κάνω	VERB	VbMn	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	σ	σε	ADP	AsPpSp	_	5	case	_	_
+4	το	ο	DET	AtDf	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	Θιο	Θεός	PROPN	NoPr	Case=Acc|Gender=Masc|Number=Sing	2	obl	_	_
+6	ο	ο	DET	AtDf	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	Αδάμης	Αδάμης	PROPN	NoPr	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	SpaceAfter=No
+8	,	,	PUNCT	PUNCT	_	9	punct	_	PunctType=Comm
+9	παράπονα	παράπονο	NOUN	NoCm	Case=Acc|Gender=Neut|Number=Plur	2	parataxis	_	SpaceAfter=No
+10	.	.	PUNCT	PTERMP	_	2	punct	_	PunctType=Peri
 
 ~~~
 

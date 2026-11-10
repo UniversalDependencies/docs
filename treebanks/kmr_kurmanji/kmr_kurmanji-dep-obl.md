@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `obl`: <tt><a href="kmr_kurmanji-dep-obl-dat.html">obl:dat</a></tt>.
 
-18 nodes (0%) are attached to their parents as `obl`.
+17 nodes (0%) are attached to their parents as `obl`.
 
-17 instances of `obl` (94%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.66666666666667.
+16 instances of `obl` (94%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.82352941176471.
 
-The following 5 pairs of parts of speech are connected with `obl`: <tt><a href="kmr_kurmanji-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_kurmanji-pos-NOUN.html">NOUN</a></tt> (7; 39% instances), <tt><a href="kmr_kurmanji-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_kurmanji-pos-PRON.html">PRON</a></tt> (6; 33% instances), <tt><a href="kmr_kurmanji-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kmr_kurmanji-pos-NOUN.html">NOUN</a></tt> (3; 17% instances), <tt><a href="kmr_kurmanji-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kmr_kurmanji-pos-DET.html">DET</a></tt> (1; 6% instances), <tt><a href="kmr_kurmanji-pos-PROPN.html">PROPN</a></tt>-<tt><a href="kmr_kurmanji-pos-PRON.html">PRON</a></tt> (1; 6% instances).
+The following 4 pairs of parts of speech are connected with `obl`: <tt><a href="kmr_kurmanji-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_kurmanji-pos-NOUN.html">NOUN</a></tt> (7; 41% instances), <tt><a href="kmr_kurmanji-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_kurmanji-pos-PRON.html">PRON</a></tt> (6; 35% instances), <tt><a href="kmr_kurmanji-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kmr_kurmanji-pos-NOUN.html">NOUN</a></tt> (3; 18% instances), <tt><a href="kmr_kurmanji-pos-PROPN.html">PROPN</a></tt>-<tt><a href="kmr_kurmanji-pos-PRON.html">PRON</a></tt> (1; 6% instances).
 
 
 ~~~ conllu

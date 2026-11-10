@@ -26,7 +26,7 @@ The following 5 pairs of parts of speech are connected with `aux:tense`: <tt><a 
 1	Le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	conteur	conteur	NOUN	_	Gender=Masc|Number=Sing	5	nsubj:caus	_	Exponence[Gender]=Inherent
 3	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux:tense	_	_
-4	fait	faire	AUX	_	Gender=Masc|Number=Sing|VerbForm=Part	5	aux:caus	_	Tense[denom]=Past
+4	fait	faire	AUX	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	aux:caus	_	Status[Tense]=Denom
 5	jouer	jouer	VERB	_	VerbForm=Inf	0	root	_	Subject=ObjRaising
 6	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	7	det	_	_
 7	enfants	enfant	NOUN	_	Number=Plur	5	obj:agent	_	SpaceAfter=No
@@ -49,7 +49,7 @@ The following 5 pairs of parts of speech are connected with `aux:tense`: <tt><a 
 6	l'	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	Exponence[Gender]=Absent|SpaceAfter=No
 7	évolution	évolution	NOUN	_	Gender=Fem|Number=Sing	10	nsubj	_	Exponence[Gender]=Inherent
 8	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux:tense	_	_
-9	été	être	AUX	_	VerbForm=Part	10	cop	_	Tense[denom]=Past
+9	été	être	AUX	_	Tense=Past|VerbForm=Part	10	cop	_	Status[Tense]=Denom
 10	favorable	favorable	ADJ	_	Gender=Fem|Number=Sing	0	root	_	Exponence[Gender]=Absent|SpaceAfter=No
 11	.	.	PUNCT	_	_	10	punct	_	_
 
@@ -65,10 +65,10 @@ The following 5 pairs of parts of speech are connected with `aux:tense`: <tt><a 
 1	M.	monsieur	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	Exponence[Gender]=Inherent
 2	Birdal	Birdal	PROPN	_	_	1	flat:name	_	_
 3	avait	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	aux:tense	_	_
-4	demandé	demander	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	Tense[denom]=Past
+4	demandé	demander	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	Status[Tense]=Denom
 5	à	à	ADP	_	_	7	mark	_	_
 6	être	être	AUX	_	VerbForm=Inf	7	aux:pass	_	Subject=SubjRaising
-7	libéré	libérer	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	4	xcomp	_	Tense[denom]=Past
+7	libéré	libérer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	4	xcomp	_	Status[Tense]=Denom
 8	pour	pour	ADP	_	_	9	case	_	_
 9	raison	raison	NOUN	_	Gender=Fem|Number=Sing	7	obl:mod	_	Exponence[Gender]=Inherent
 10	de	de	ADP	_	_	11	case	_	_
@@ -81,7 +81,7 @@ The following 5 pairs of parts of speech are connected with `aux:tense`: <tt><a 
 17	dont	dont	PRON	_	PronType=Rel	22	nmod	_	_
 18	il	lui	PRON	_	Case=Nom|Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	22	nsubj	_	_
 19	avait	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	22	aux:tense	_	_
-20	été	être	AUX	_	VerbForm=Part	22	cop	_	Tense[denom]=Past
+20	été	être	AUX	_	Tense=Past|VerbForm=Part	22	cop	_	Status[Tense]=Denom
 21	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	_
 22	victime	victime	NOUN	_	Gender=Fem|Number=Sing	16	acl:relcl	_	Exponence[Gender]=Inherent|SpaceAfter=No
 23	.	.	PUNCT	_	_	4	punct	_	_

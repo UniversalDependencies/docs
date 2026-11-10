@@ -62,7 +62,7 @@ The following 11 pairs of parts of speech are connected with `nsubj:pass`: <tt><
 # visual-style 8 6 nsubj:pass	color:blue
 1	На	на	ADP	IN	_	3	case	_	_
 2	следующий	следующий	ADJ	JJL	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	_
-3	день	день	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	8	obl	_	_
+3	день	день	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	8	obl:tmod	_	_
 4	после	после	ADP	IN	_	5	case	_	_
 5	возвращения	возвращение	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	8	obl	_	_
 6	он	он	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3	8	nsubj:pass	_	_

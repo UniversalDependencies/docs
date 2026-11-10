@@ -10,8 +10,8 @@ This feature is universal.
 It occurs with 2 different values: `Past`, `Pres`.
 
 266522 tokens (8%) have a non-empty value of `Tense`.
-8961 types (5%) occur at least once with a non-empty value of `Tense`.
-3370 lemmas (2%) occur at least once with a non-empty value of `Tense`.
+8962 types (5%) occur at least once with a non-empty value of `Tense`.
+3371 lemmas (2%) occur at least once with a non-empty value of `Tense`.
 The feature is used with 2 part-of-speech tags: <tt><a href="de_hdt-pos-AUX.html">AUX</a></tt> (133536; 4% instances), <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt> (132986; 4% instances).
 
 ### `AUX`
@@ -46,7 +46,7 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 * `Past` (30109; 23% of non-empty `Tense`): <em>sagte, gab, erklärte, hieß, kündigte, meinte, teilte, stieg, betonte, ging</em>
 * `Pres` (102877; 77% of non-empty `Tense`): <em>gibt, geht, steht, bietet, kommt, sieht, stellt, liegt, heißt, stehen</em>
-* `EMPTY` (130601): <em>machen, angekündigt, geben, lassen, kommen, bringen, anbieten, erhalten, gegeben, gemacht</em>
+* `EMPTY` (130589): <em>machen, angekündigt, geben, lassen, kommen, bringen, anbieten, erhalten, gegeben, gemacht</em>
 
 <table>
   <tr><th>Paradigm <i>geben</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th></tr>

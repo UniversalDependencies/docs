@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Pashto-Sikaram: Relations: `orphan:objobl`
 
-This relation is a language-specific subtype of .
+This relation is a language-specific subtype of <tt><a href="ps_sikaram-dep-orphan.html">orphan</a></tt>.
 There are also 1 other language-specific subtypes of `orphan`: <tt><a href="ps_sikaram-dep-orphan-nsubjobj.html">orphan:nsubjobj</a></tt>.
 
 1 nodes (0%) are attached to their parents as `orphan:objobl`.
@@ -53,7 +53,7 @@ The following 1 pairs of parts of speech are connected with `orphan:objobl`: <tt
 28	يا	يا	CCONJ	_	_	36	cc	_	Translit=yâ|LTranslit=yâ|Gloss=or
 29	د	د	ADP	_	Case=Acc	30	case	_	Translit=dë|LTranslit=dë|Gloss=of
 30	پښتنو	پښتون	PROPN	_	Case=Acc|Gender=Masc|Number=Plur	32	nmod	_	Translit=pëx̌tanó|LTranslit=pax̌tún|Gloss=Pashtuns
-31	ټولنیزو	ټولنیز	ADJ	_	Case=Nom|Gender=Masc|Number=Plur|Typo=Yes	32	amod	_	Translit=ṭolanízo|LTranslit=ṭolaníz|Gloss=social|CFTranslit=ṭolaníz|CorrectForm=ټولنیز
+31	ټولنیزو	ټولنیز	ADJ	_	Case=Nom|Gender=Masc|Number=Plur|Typo=Yes	32	amod	_	Translit=ṭolanízo|LTranslit=ṭolaníz|Gloss=social|CorrectForm=ټولنیز|CFTranslit=ṭolaníz
 32	ارزښتونه	ارزښت	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	36	obj	_	Translit=arzëx̌túna|LTranslit=arzë́x̌t|Gloss=values
 33	په	پۀ	ADP	_	Case=Loc	35	case	_	Translit=pë|LTranslit=pë|Gloss=to
 34	نورو	نور	ADJ	_	Case=Loc|Gender=Fem|Number=Plur	35	amod	_	Translit=nóro|LTranslit=nor|Gloss=others

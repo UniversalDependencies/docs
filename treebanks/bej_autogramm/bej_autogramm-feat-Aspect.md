@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal but the values `Aor` are language-specific.
 It occurs with 3 different values: `Aor`, `Imp`, `Perf`.
 
-1362 tokens (11%) have a non-empty value of `Aspect`.
+1361 tokens (11%) have a non-empty value of `Aspect`.
 376 types (20%) occur at least once with a non-empty value of `Aspect`.
 1 lemmas (0) occur at least once with a non-empty value of `Aspect`.
-The feature is used with 3 part-of-speech tags: <tt><a href="bej_autogramm-pos-VERB.html">VERB</a></tt> (1166; 10% instances), <tt><a href="bej_autogramm-pos-AUX.html">AUX</a></tt> (135; 1% instances), <tt><a href="bej_autogramm-pos-PART.html">PART</a></tt> (61; 1% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="bej_autogramm-pos-VERB.html">VERB</a></tt> (1165; 10% instances), <tt><a href="bej_autogramm-pos-AUX.html">AUX</a></tt> (135; 1% instances), <tt><a href="bej_autogramm-pos-PART.html">PART</a></tt> (61; 1% instances).
 
 ### `VERB`
 
-1166 <tt><a href="bej_autogramm-pos-VERB.html">VERB</a></tt> tokens (48% of all `VERB` tokens) have a non-empty value of `Aspect`.
+1165 <tt><a href="bej_autogramm-pos-VERB.html">VERB</a></tt> tokens (48% of all `VERB` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="bej_autogramm-feat-VerbClass.html">VerbClass</a></tt><tt>=1</tt> (1112; 95%), <tt><a href="bej_autogramm-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (861; 74%), <tt><a href="bej_autogramm-feat-Number.html">Number</a></tt><tt>=Sing</tt> (774; 66%), <tt><a href="bej_autogramm-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (615; 53%).
+The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="bej_autogramm-feat-VerbClass.html">VerbClass</a></tt><tt>=1</tt> (1111; 95%), <tt><a href="bej_autogramm-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (861; 74%), <tt><a href="bej_autogramm-feat-Number.html">Number</a></tt><tt>=Sing</tt> (774; 66%), <tt><a href="bej_autogramm-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (614; 53%).
 
 `VERB` tokens may have the following values of `Aspect`:
 
 * `Aor` (155; 13% of non-empty `Aspect`): <em>iːfi, iːbri, tiːd, tiːfi, iːd, iːkti, iːfiina, ʔeːti, iːdn, hiːn</em>
 * `Imp` (393; 34% of non-empty `Aspect`): <em>indi, tindi, ikati, eːdna, manri, eːbi, dannʔi, ijadna, imoːra~rimna, tikati</em>
-* `Perf` (618; 53% of non-empty `Aspect`): <em>eːn, ini, ani, tini, tidi, id, isni, tifirʔa, akan, idi</em>
-* `EMPTY` (1242): <em>jʔi, jʔeːn, jʔeːtiːt, akeːna, eːn, diːtiːt, diːt, rhan, akajeː, difeː</em>
+* `Perf` (617; 53% of non-empty `Aspect`): <em>eːn, ini, ani, tini, tidi, id, isni, tifirʔa, akan, idi</em>
+* `EMPTY` (1240): <em>jʔi, jʔeːn, jʔeːtiːt, akeːna, eːn, diːtiːt, diːt, rhan, akajeː, difeː</em>
 
 ### `AUX`
 
@@ -49,7 +49,7 @@ The most frequent other feature values with which `PART` and `Aspect` co-occurre
 `PART` tokens may have the following values of `Aspect`:
 
 * `Imp` (61; 100% of non-empty `Aspect`): <em>ka=, ki=</em>
-* `EMPTY` (260): <em>bak, han, ontʔa, baː=, bi=, jaː, bass, tʔa, geː, ʃaːwi</em>
+* `EMPTY` (260): <em>bak, ontʔa, han, baː=, bi=, jaː, bass, tʔa, geː, ʃaːwi</em>
 
 ## Relations with Agreement in `Aspect`
 

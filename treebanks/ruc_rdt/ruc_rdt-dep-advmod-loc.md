@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="ruc_rdt-dep-advmod.html">advmod</a></tt>.
 There are also 2 other language-specific subtypes of `advmod`: <tt><a href="ruc_rdt-dep-advmod-cop.html">advmod:cop</a></tt>, <tt><a href="ruc_rdt-dep-advmod-emph.html">advmod:emph</a></tt>.
 
-194 nodes (3%) are attached to their parents as `advmod:loc`.
+247 nodes (3%) are attached to their parents as `advmod:loc`.
 
-190 instances of `advmod:loc` (98%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.01546391752577.
+243 instances of `advmod:loc` (98%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.01214574898785.
 
-The following 5 pairs of parts of speech are connected with `advmod:loc`: <tt><a href="ruc_rdt-pos-VERB.html">VERB</a></tt>-<tt><a href="ruc_rdt-pos-ADV.html">ADV</a></tt> (154; 79% instances), <tt><a href="ruc_rdt-pos-AUX.html">AUX</a></tt>-<tt><a href="ruc_rdt-pos-ADV.html">ADV</a></tt> (26; 13% instances), <tt><a href="ruc_rdt-pos-ADV.html">ADV</a></tt>-<tt><a href="ruc_rdt-pos-ADV.html">ADV</a></tt> (10; 5% instances), <tt><a href="ruc_rdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ruc_rdt-pos-ADV.html">ADV</a></tt> (3; 2% instances), <tt><a href="ruc_rdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ruc_rdt-pos-ADV.html">ADV</a></tt> (1; 1% instances).
+The following 5 pairs of parts of speech are connected with `advmod:loc`: <tt><a href="ruc_rdt-pos-VERB.html">VERB</a></tt>-<tt><a href="ruc_rdt-pos-ADV.html">ADV</a></tt> (190; 77% instances), <tt><a href="ruc_rdt-pos-AUX.html">AUX</a></tt>-<tt><a href="ruc_rdt-pos-ADV.html">ADV</a></tt> (43; 17% instances), <tt><a href="ruc_rdt-pos-ADV.html">ADV</a></tt>-<tt><a href="ruc_rdt-pos-ADV.html">ADV</a></tt> (10; 4% instances), <tt><a href="ruc_rdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ruc_rdt-pos-ADV.html">ADV</a></tt> (3; 1% instances), <tt><a href="ruc_rdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ruc_rdt-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

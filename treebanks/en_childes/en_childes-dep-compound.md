@@ -47,7 +47,7 @@ The following 38 pairs of parts of speech are connected with `compound`: <tt><a 
 4	get	get	VERB	VB	_	3	compound	3:compound	_
 5	your	you	PRON	PRP$	_	6	nmod:poss	6:nmod:poss	_
 6	cards	card	NOUN	NNS	_	4	obj	4:obj	SpaceAfter=No
-7	?	?	PUNCT	?	_	1	punct	1:punct	_
+7	?	?	PUNCT	.	_	1	punct	1:punct	_
 
 ~~~
 

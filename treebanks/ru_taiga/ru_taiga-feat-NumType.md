@@ -45,7 +45,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 
 * `Frac` (1; 0% of non-empty `NumType`): <em>1\5</em>
 * `Ord` (9710; 100% of non-empty `NumType`): <em>XIX, первый, XVIII, второй, XX, XVII, первой, первые, XVI, первая</em>
-* `EMPTY` (145364): <em>русского, нужно, большой, русской, русском, разных, п., хорошо, хороший, должен</em>
+* `EMPTY` (145362): <em>русского, нужно, большой, русской, русском, разных, п., хорошо, хороший, должен</em>
 
 `NumType` seems to be **lexical feature** of `ADJ`. 100% lemmas (843) occur only with one value of `NumType`.
 
@@ -54,12 +54,12 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 The 10 most frequent relations where parent and child node agree in `NumType`:
 <tt>ADJ --[<tt><a href="ru_taiga-dep-nmod.html">nmod</a></tt>]--> ADJ</tt> (876; 100%),
 <tt>NUM --[<tt><a href="ru_taiga-dep-nmod.html">nmod</a></tt>]--> NUM</tt> (388; 96%),
-<tt>NUM --[<tt><a href="ru_taiga-dep-conj.html">conj</a></tt>]--> NUM</tt> (290; 96%),
+<tt>NUM --[<tt><a href="ru_taiga-dep-conj.html">conj</a></tt>]--> NUM</tt> (289; 96%),
 <tt>ADJ --[<tt><a href="ru_taiga-dep-conj.html">conj</a></tt>]--> ADJ</tt> (171; 76%),
 <tt>NUM --[<tt><a href="ru_taiga-dep-compound.html">compound</a></tt>]--> NUM</tt> (133; 100%),
 <tt>NUM --[<tt><a href="ru_taiga-dep-list.html">list</a></tt>]--> NUM</tt> (25; 100%),
 <tt>NUM --[<tt><a href="ru_taiga-dep-parataxis.html">parataxis</a></tt>]--> NUM</tt> (18; 95%),
 <tt>NUM --[<tt><a href="ru_taiga-dep-nummod-gov.html">nummod:gov</a></tt>]--> NUM</tt> (13; 100%),
-<tt>NUM --[<tt><a href="ru_taiga-dep-advcl.html">advcl</a></tt>]--> NUM</tt> (6; 100%),
+<tt>NUM --[<tt><a href="ru_taiga-dep-advcl.html">advcl</a></tt>]--> NUM</tt> (7; 100%),
 <tt>NUM --[<tt><a href="ru_taiga-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (5; 100%).
 

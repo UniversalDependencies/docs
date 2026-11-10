@@ -62,7 +62,7 @@ Examples: <em>we, le, naw, era, e, wer, l, eray</em>
 
 ## Relations
 
-`ADP` nodes are attached to their parents using 4 different relations: <tt><a href="sdh_garrusi-dep-case.html">case</a></tt> (126; 92% instances), <tt><a href="sdh_garrusi-dep-fixed.html">fixed</a></tt> (8; 6% instances), <tt><a href="sdh_garrusi-dep-obl.html">obl</a></tt> (2; 1% instances), <tt><a href="sdh_garrusi-dep-compound-lvc.html">compound:lvc</a></tt> (1; 1% instances)
+`ADP` nodes are attached to their parents using 5 different relations: <tt><a href="sdh_garrusi-dep-case.html">case</a></tt> (126; 92% instances), <tt><a href="sdh_garrusi-dep-fixed.html">fixed</a></tt> (8; 6% instances), <tt><a href="sdh_garrusi-dep-compound-lvc.html">compound:lvc</a></tt> (1; 1% instances), <tt><a href="sdh_garrusi-dep-nmod.html">nmod</a></tt> (1; 1% instances), <tt><a href="sdh_garrusi-dep-obl.html">obl</a></tt> (1; 1% instances)
 
 Parents of `ADP` nodes belong to 6 different parts of speech: <tt><a href="sdh_garrusi-pos-NOUN.html">NOUN</a></tt> (78; 57% instances), <tt><a href="sdh_garrusi-pos-PRON.html">PRON</a></tt> (27; 20% instances), <tt><a href="sdh_garrusi-pos-ADV.html">ADV</a></tt> (15; 11% instances), <tt><a href="sdh_garrusi-pos-ADP.html">ADP</a></tt> (9; 7% instances), <tt><a href="sdh_garrusi-pos-DET.html">DET</a></tt> (5; 4% instances), <tt><a href="sdh_garrusi-pos-VERB.html">VERB</a></tt> (3; 2% instances)
 

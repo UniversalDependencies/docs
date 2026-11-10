@@ -10,10 +10,10 @@ This feature is universal.
 It occurs with 7 different values: `Acc`, `Dat`, `Gen`, `Ins`, `Loc`, `Nom`, `Voc`.
 Some words have combined values of the feature; 1 combinations have been observed: `Dat|Gen`.
 
-62130 tokens (57%) have a non-empty value of `Case`.
+62132 tokens (57%) have a non-empty value of `Case`.
 11235 types (76%) occur at least once with a non-empty value of `Case`.
 5373 lemmas (71%) occur at least once with a non-empty value of `Case`.
-The feature is used with 7 part-of-speech tags: <tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt> (26806; 25% instances), <tt><a href="uk_parlamint-pos-ADJ.html">ADJ</a></tt> (10909; 10% instances), <tt><a href="uk_parlamint-pos-ADP.html">ADP</a></tt> (9001; 8% instances), <tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt> (5928; 5% instances), <tt><a href="uk_parlamint-pos-DET.html">DET</a></tt> (4267; 4% instances), <tt><a href="uk_parlamint-pos-PROPN.html">PROPN</a></tt> (4084; 4% instances), <tt><a href="uk_parlamint-pos-NUM.html">NUM</a></tt> (1135; 1% instances).
+The feature is used with 7 part-of-speech tags: <tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt> (26806; 25% instances), <tt><a href="uk_parlamint-pos-ADJ.html">ADJ</a></tt> (10909; 10% instances), <tt><a href="uk_parlamint-pos-ADP.html">ADP</a></tt> (9006; 8% instances), <tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt> (5926; 5% instances), <tt><a href="uk_parlamint-pos-DET.html">DET</a></tt> (4266; 4% instances), <tt><a href="uk_parlamint-pos-PROPN.html">PROPN</a></tt> (4084; 4% instances), <tt><a href="uk_parlamint-pos-NUM.html">NUM</a></tt> (1135; 1% instances).
 
 ### `NOUN`
 
@@ -71,38 +71,39 @@ The most frequent other feature values with which `ADJ` and `Case` co-occurred: 
 
 ### `ADP`
 
-9001 <tt><a href="uk_parlamint-pos-ADP.html">ADP</a></tt> tokens (98% of all `ADP` tokens) have a non-empty value of `Case`.
+9006 <tt><a href="uk_parlamint-pos-ADP.html">ADP</a></tt> tokens (99% of all `ADP` tokens) have a non-empty value of `Case`.
 
 `ADP` tokens may have the following values of `Case`:
 
 * `Acc` (2561; 28% of non-empty `Case`): <em>на, про, за, в, у, через, під, по, понад, попри</em>
 * `Dat` (7; 0% of non-empty `Case`): <em>завдяки, назустріч</em>
-* `Gen` (3084; 34% of non-empty `Case`): <em>до, з, для, щодо, від, у, після, проти, із, без</em>
+* `Gen` (3086; 34% of non-empty `Case`): <em>до, з, для, щодо, від, у, після, проти, із, без</em>
 * `Ins` (938; 10% of non-empty `Case`): <em>з, за, із, перед, під, між, над, зі, поза, всупереч</em>
-* `Loc` (2411; 27% of non-empty `Case`): <em>в, у, на, по, при, о, з, об</em>
-* `EMPTY` (142): <em>в, про, до, за, на, з, у, плюс, без, о</em>
+* `Loc` (2414; 27% of non-empty `Case`): <em>в, у, на, по, при, о, з, об</em>
+* `EMPTY` (137): <em>в, про, до, за, на, з, плюс, без, у, о</em>
 
 <table>
   <tr><th>Paradigm <i>в</i></th><th><tt>Acc</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th></tr>
   <tr><td><tt>_</tt></td><td><em>в</em></td><td><em>в</em></td><td><em>в</em></td></tr>
-  <tr><td><tt><tt><a href="uk_parlamint-feat-ExtPos.html">ExtPos</a></tt><tt>=ADP</tt></tt></td><td></td><td></td><td><em>в</em></td></tr>
+  <tr><td><tt><tt><a href="uk_parlamint-feat-ExtPos.html">ExtPos</a></tt><tt>=ADP</tt></tt></td><td><em>в</em></td><td></td><td><em>в</em></td></tr>
   <tr><td><tt><tt><a href="uk_parlamint-feat-ExtPos.html">ExtPos</a></tt><tt>=ADV</tt></tt></td><td><em>в</em></td><td></td><td><em>в</em></td></tr>
+  <tr><td><tt><tt><a href="uk_parlamint-feat-ExtPos.html">ExtPos</a></tt><tt>=CCONJ</tt></tt></td><td></td><td></td><td><em>в</em></td></tr>
 </table>
 
 ### `PRON`
 
-5928 <tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt> tokens (99% of all `PRON` tokens) have a non-empty value of `Case`.
+5926 <tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt> tokens (99% of all `PRON` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="uk_parlamint-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (3892; 66%), <tt><a href="uk_parlamint-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (3726; 63%), <tt><a href="uk_parlamint-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3354; 57%), <tt><a href="uk_parlamint-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt> (3277; 55%).
+The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="uk_parlamint-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (3889; 66%), <tt><a href="uk_parlamint-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (3724; 63%), <tt><a href="uk_parlamint-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3354; 57%), <tt><a href="uk_parlamint-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt> (3277; 55%).
 
 `PRON` tokens may have the following values of `Case`:
 
 * `Acc` (850; 14% of non-empty `Case`): <em>це, те, вас, що, його, їх, все, її, нас, себе</em>
-* `Dat` (367; 6% of non-empty `Case`): <em>нам, вам, мені, їм, собі, всім, йому, кому, нікому, тому</em>
+* `Dat` (364; 6% of non-empty `Case`): <em>нам, вам, мені, їм, собі, всім, йому, кому, нікому, тому</em>
 * `Gen` (691; 12% of non-empty `Case`): <em>того, нас, цього, вас, мене, них, їх, нічого, нього, чого</em>
 * `Ins` (253; 4% of non-empty `Case`): <em>тим, вами, цим, такими, нами, собою, ним, нею, мною, ними</em>
 * `Loc` (110; 2% of non-empty `Case`): <em>тому, цьому, собі, чому, них, ньому, якій, тім, яких, всіх</em>
-* `Nom` (3657; 62% of non-empty `Case`): <em>ми, я, це, ви, вони, хто, він, вона, що, які</em>
+* `Nom` (3658; 62% of non-empty `Case`): <em>ми, я, це, ви, вони, хто, він, вона, що, які</em>
 * `EMPTY` (81): <em>це, як</em>
 
 <table>
@@ -114,9 +115,9 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 
 ### `DET`
 
-4267 <tt><a href="uk_parlamint-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Case`.
+4266 <tt><a href="uk_parlamint-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="uk_parlamint-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (3634; 85%), <tt><a href="uk_parlamint-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (3606; 85%), <tt><a href="uk_parlamint-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (3359; 79%), <tt><a href="uk_parlamint-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2589; 61%).
+The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="uk_parlamint-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (3633; 85%), <tt><a href="uk_parlamint-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (3605; 85%), <tt><a href="uk_parlamint-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (3358; 79%), <tt><a href="uk_parlamint-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2589; 61%).
 
 `DET` tokens may have the following values of `Case`:
 
@@ -125,9 +126,9 @@ The most frequent other feature values with which `DET` and `Case` co-occurred: 
 * `Gen` (1035; 24% of non-empty `Case`): <em>цього, цієї, нашої, тих, всіх, наших, інших, цих, нашого, своїх</em>
 * `Ins` (241; 6% of non-empty `Case`): <em>таким, нашими, цим, тими, усіма, яким, іншими, своїми, цією, якою</em>
 * `Loc` (404; 9% of non-empty `Case`): <em>цьому, тому, цій, нашій, всіх, якому, своєму, яких, цих, всій</em>
-* `Nom` (1355; 32% of non-empty `Case`): <em>які, яка, який, всі, наша, ця, цей, ці, ті, таке</em>
+* `Nom` (1354; 32% of non-empty `Case`): <em>які, яка, який, всі, наша, ця, цей, ці, ті, таке</em>
 * `Voc` (3; 0% of non-empty `Case`): <em>всі, мої, наші</em>
-* `EMPTY` (2): <em>Скільки, само</em>
+* `EMPTY` (4): <em>багато, Скільки, само</em>
 
 <table>
   <tr><th>Paradigm <i>наш</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Voc</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th></tr>
@@ -153,12 +154,12 @@ The most frequent other feature values with which `PROPN` and `Case` co-occurred
 `PROPN` tokens may have the following values of `Case`:
 
 * `Acc` (184; 5% of non-empty `Case`): <em>Україну, Сергія, Росію, Володимировича, Київ, Крим, Івановича, Анатолійовича, Анатолія, Бориспіль</em>
-* `Dat` (363; 9% of non-empty `Case`): <em>Україні, Олександру, Івановичу, Михайловичу, Нестору, Петру, Роману, Симоненку, Віталійовичу, Зваричу</em>
+* `Dat` (360; 9% of non-empty `Case`): <em>Україні, Олександру, Івановичу, Михайловичу, Нестору, Петру, Роману, Симоненку, Віталійовичу, Зваричу</em>
 * `Gen` (1361; 33% of non-empty `Case`): <em>України, Росії, Криму, Тимошенко, Віктора, Януковича, Путіна, Юлії, Ющенка, Європи</em>
 * `Ins` (72; 2% of non-empty `Case`): <em>Україною, Росією, Януковичем, Віктором, Кримом, Федоровичем, Іваном, Андрієм, Байденом, Беркутом</em>
 * `Loc` (302; 7% of non-empty `Case`): <em>Україні, Криму, Києві, Сіднеї, Росії, Львові, Одесі, Європі, Афінах, Сході</em>
 * `Nom` (1581; 39% of non-empty `Case`): <em>Україна, Олександр, Іванович, Батьківщина, Володимир, Михайло, Крим, Сергій, Михайлович, Симоненко</em>
-* `Voc` (221; 5% of non-empty `Case`): <em>Михайловичу, Володимире, Олександре, Валентиновичу, Вікторе, Павловичу, Федоровичу, Миколо, Сергію, Івановичу</em>
+* `Voc` (224; 5% of non-empty `Case`): <em>Михайловичу, Володимире, Олександре, Валентиновичу, Вікторе, Павловичу, Федоровичу, Івановичу, Миколо, Сергію</em>
 
 <table>
   <tr><th>Paradigm <i>Україна</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th></tr>
@@ -198,14 +199,14 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
 ## Relations with Agreement in `Case`
 
 The 10 most frequent relations where parent and child node agree in `Case`:
-<tt>NOUN --[<tt><a href="uk_parlamint-dep-amod.html">amod</a></tt>]--> ADJ</tt> (8944; 99%),
-<tt>NOUN --[<tt><a href="uk_parlamint-dep-case.html">case</a></tt>]--> ADP</tt> (6727; 96%),
+<tt>NOUN --[<tt><a href="uk_parlamint-dep-amod.html">amod</a></tt>]--> ADJ</tt> (8945; 99%),
+<tt>NOUN --[<tt><a href="uk_parlamint-dep-case.html">case</a></tt>]--> ADP</tt> (6522; 94%),
 <tt>NOUN --[<tt><a href="uk_parlamint-dep-det.html">det</a></tt>]--> DET</tt> (2965; 99%),
-<tt>NOUN --[<tt><a href="uk_parlamint-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1819; 92%),
-<tt>PRON --[<tt><a href="uk_parlamint-dep-case.html">case</a></tt>]--> ADP</tt> (1016; 97%),
-<tt>PROPN --[<tt><a href="uk_parlamint-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (963; 99%),
-<tt>NOUN --[<tt><a href="uk_parlamint-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (632; 50%),
-<tt>PROPN --[<tt><a href="uk_parlamint-dep-case.html">case</a></tt>]--> ADP</tt> (426; 96%),
-<tt>NOUN --[<tt><a href="uk_parlamint-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (359; 90%),
-<tt>NOUN --[<tt><a href="uk_parlamint-dep-appos.html">appos</a></tt>]--> PROPN</tt> (334; 77%).
+<tt>NOUN --[<tt><a href="uk_parlamint-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1816; 92%),
+<tt>PRON --[<tt><a href="uk_parlamint-dep-case.html">case</a></tt>]--> ADP</tt> (1009; 96%),
+<tt>PROPN --[<tt><a href="uk_parlamint-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (966; 99%),
+<tt>NOUN --[<tt><a href="uk_parlamint-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (631; 50%),
+<tt>ADP --[<tt><a href="uk_parlamint-dep-fixed.html">fixed</a></tt>]--> NOUN</tt> (470; 99%),
+<tt>PROPN --[<tt><a href="uk_parlamint-dep-case.html">case</a></tt>]--> ADP</tt> (428; 96%),
+<tt>NOUN --[<tt><a href="uk_parlamint-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (359; 90%).
 

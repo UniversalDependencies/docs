@@ -47,7 +47,7 @@ The following 8 pairs of parts of speech are connected with `flat:name`: <tt><a 
 # visual-style 6	fgColor:white
 # visual-style 6 7 flat:name	color:blue
 1	O	o	DET	DA0MS0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
-2	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes	4	det	_	_
+2	seu	seu	DET	DP3MS0	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	4	det	_	_
 3	primeiro	primeiro	ADJ	AQ0MS	_	4	amod	_	_
 4	rei	rei	NOUN	NCMS000	Gender=Masc|Number=Sing	0	root	_	_
 5	foi	ser	AUX	VSIS3S0	Mood=Ind|Number=Sing|Person=3|Tense=Past	4	cop	_	_

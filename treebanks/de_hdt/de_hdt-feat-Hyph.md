@@ -11,7 +11,7 @@ It occurs with 1 different values: `Yes`.
 
 6087 tokens (0%) have a non-empty value of `Hyph`.
 2161 types (1%) occur at least once with a non-empty value of `Hyph`.
-2161 lemmas (1%) occur at least once with a non-empty value of `Hyph`.
+2158 lemmas (1%) occur at least once with a non-empty value of `Hyph`.
 The feature is used with 1 part-of-speech tags: <tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt> (6087; 0% instances).
 
 ### `NOUN`
@@ -24,5 +24,5 @@ The most frequent other feature values with which `NOUN` and `Hyph` co-occurred:
 
 * `Yes` (6087; 100% of non-empty `Hyph`): <em>informations-, internet-, Rück-, Audio-, computer-, Industrie-, Telekommunikations-, Telefon-, Hard-, Umsatz-</em>
 
-`Hyph` seems to be **lexical feature** of `NOUN`. 100% lemmas (2161) occur only with one value of `Hyph`.
+`Hyph` seems to be **lexical feature** of `NOUN`. 100% lemmas (2158) occur only with one value of `Hyph`.
 

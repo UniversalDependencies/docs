@@ -6,25 +6,22 @@ udver: '2'
 
 ## Treebank Statistics: UD_Bhojpuri-BHTB: POS Tags: `CCONJ`
 
-There are 13 `CCONJ` lemmas (1%), 13 `CCONJ` types (1%) and 151 `CCONJ` tokens (2%).
+There are 13 `CCONJ` lemmas (1%), 13 `CCONJ` types (1%) and 152 `CCONJ` tokens (2%).
 Out of 16 observed tags, the rank of `CCONJ` is: 13 in number of lemmas, 13 in number of types and 11 in number of tokens.
 
 The 10 most frequent `CCONJ` lemmas: आ, बाकिर, अउर, फगुआ, भा, राउर, आउर, आखिर, खम्भा, खैर
 
 The 10 most frequent `CCONJ` types:  आ, बाकिर, अउर, फगुआ, भा, राउर, आउर, आखिर, खम्भा, खैर
 
-The 10 most frequent ambiguous lemmas: आ (<tt><a href="bho_bhtb-pos-CCONJ.html">CCONJ</a></tt> 99, <tt><a href="bho_bhtb-pos-VERB.html">VERB</a></tt> 17, <tt><a href="bho_bhtb-pos-AUX.html">AUX</a></tt> 4), बाकिर (<tt><a href="bho_bhtb-pos-CCONJ.html">CCONJ</a></tt> 15, <tt><a href="bho_bhtb-pos-PART.html">PART</a></tt> 1), फगुआ (<tt><a href="bho_bhtb-pos-CCONJ.html">CCONJ</a></tt> 7, <tt><a href="bho_bhtb-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="bho_bhtb-pos-VERB.html">VERB</a></tt> 3), भा (<tt><a href="bho_bhtb-pos-CCONJ.html">CCONJ</a></tt> 5, <tt><a href="bho_bhtb-pos-AUX.html">AUX</a></tt> 1, <tt><a href="bho_bhtb-pos-PART.html">PART</a></tt> 1), राउर (<tt><a href="bho_bhtb-pos-CCONJ.html">CCONJ</a></tt> 4, <tt><a href="bho_bhtb-pos-PRON.html">PRON</a></tt> 3, <tt><a href="bho_bhtb-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="bho_bhtb-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="bho_bhtb-pos-PROPN.html">PROPN</a></tt> 1)
+The 10 most frequent ambiguous lemmas: आ (<tt><a href="bho_bhtb-pos-CCONJ.html">CCONJ</a></tt> 99, <tt><a href="bho_bhtb-pos-VERB.html">VERB</a></tt> 17, <tt><a href="bho_bhtb-pos-AUX.html">AUX</a></tt> 4), फगुआ (<tt><a href="bho_bhtb-pos-CCONJ.html">CCONJ</a></tt> 7, <tt><a href="bho_bhtb-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="bho_bhtb-pos-VERB.html">VERB</a></tt> 3), भा (<tt><a href="bho_bhtb-pos-CCONJ.html">CCONJ</a></tt> 5, <tt><a href="bho_bhtb-pos-AUX.html">AUX</a></tt> 1, <tt><a href="bho_bhtb-pos-PART.html">PART</a></tt> 1), राउर (<tt><a href="bho_bhtb-pos-CCONJ.html">CCONJ</a></tt> 4, <tt><a href="bho_bhtb-pos-PRON.html">PRON</a></tt> 3, <tt><a href="bho_bhtb-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="bho_bhtb-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="bho_bhtb-pos-PROPN.html">PROPN</a></tt> 1)
 
-The 10 most frequent ambiguous types:  आ (<tt><a href="bho_bhtb-pos-CCONJ.html">CCONJ</a></tt> 99, <tt><a href="bho_bhtb-pos-AUX.html">AUX</a></tt> 1, <tt><a href="bho_bhtb-pos-VERB.html">VERB</a></tt> 1), बाकिर (<tt><a href="bho_bhtb-pos-CCONJ.html">CCONJ</a></tt> 15, <tt><a href="bho_bhtb-pos-PART.html">PART</a></tt> 1), फगुआ (<tt><a href="bho_bhtb-pos-CCONJ.html">CCONJ</a></tt> 7, <tt><a href="bho_bhtb-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="bho_bhtb-pos-VERB.html">VERB</a></tt> 3), भा (<tt><a href="bho_bhtb-pos-CCONJ.html">CCONJ</a></tt> 5, <tt><a href="bho_bhtb-pos-AUX.html">AUX</a></tt> 1, <tt><a href="bho_bhtb-pos-PART.html">PART</a></tt> 1), राउर (<tt><a href="bho_bhtb-pos-CCONJ.html">CCONJ</a></tt> 4, <tt><a href="bho_bhtb-pos-PRON.html">PRON</a></tt> 3, <tt><a href="bho_bhtb-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="bho_bhtb-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="bho_bhtb-pos-PROPN.html">PROPN</a></tt> 1)
+The 10 most frequent ambiguous types:  आ (<tt><a href="bho_bhtb-pos-CCONJ.html">CCONJ</a></tt> 99, <tt><a href="bho_bhtb-pos-AUX.html">AUX</a></tt> 1, <tt><a href="bho_bhtb-pos-VERB.html">VERB</a></tt> 1), फगुआ (<tt><a href="bho_bhtb-pos-CCONJ.html">CCONJ</a></tt> 7, <tt><a href="bho_bhtb-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="bho_bhtb-pos-VERB.html">VERB</a></tt> 3), भा (<tt><a href="bho_bhtb-pos-CCONJ.html">CCONJ</a></tt> 5, <tt><a href="bho_bhtb-pos-AUX.html">AUX</a></tt> 1, <tt><a href="bho_bhtb-pos-PART.html">PART</a></tt> 1), राउर (<tt><a href="bho_bhtb-pos-CCONJ.html">CCONJ</a></tt> 4, <tt><a href="bho_bhtb-pos-PRON.html">PRON</a></tt> 3, <tt><a href="bho_bhtb-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="bho_bhtb-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="bho_bhtb-pos-PROPN.html">PROPN</a></tt> 1)
 
 
 * आ
   * <tt><a href="bho_bhtb-pos-CCONJ.html">CCONJ</a></tt> 99: लोकरंजन <b>आ</b> सांस्कृतिक गीत -
   * <tt><a href="bho_bhtb-pos-AUX.html">AUX</a></tt> 1: ई राज घरे तब खुलल जब उनुका सङ के पढ़ल एगो डॉक्टर घरे आइल <b>आ</b> बचपनवाला स्टाइल में मुक्का - मुक्की शुरू कइलस ।
   * <tt><a href="bho_bhtb-pos-VERB.html">VERB</a></tt> 1: देखतानी एगो चैनल पर ब्रेकिंग न्यूज <b>आ</b> रहल बा – सबले पहिले हम बताएब कि प्रियंका अपना बिआह वाला लहँगा कवना दोकान से खरीदिहें ।
-* बाकिर
-  * <tt><a href="bho_bhtb-pos-CCONJ.html">CCONJ</a></tt> 15: <b>बाकिर</b> प्रियंका के बिआह त एके बेर होखी ।
-  * <tt><a href="bho_bhtb-pos-PART.html">PART</a></tt> 1: <b>बाकिर</b> एक बेरि हिंदियो गीतन पर त ध्यान दीहल जाव ।
 * फगुआ
   * <tt><a href="bho_bhtb-pos-CCONJ.html">CCONJ</a></tt> 7: फेरु <b>फगुआ</b> बदनाम होई ।
   * <tt><a href="bho_bhtb-pos-NOUN.html">NOUN</a></tt> 3: <b>फगुआ</b> जइसे - जइसे नगिचात जाता , हमार साँस फूलल जाता ।
@@ -42,7 +39,7 @@ The 10 most frequent ambiguous types:  आ (<tt><a href="bho_bhtb-pos-CCONJ.html
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.035079).
+The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.035097).
 
 The 1st highest number of forms (1) was observed with the lemma “अउर”: अउर.
 
@@ -55,17 +52,17 @@ The 3rd highest number of forms (1) was observed with the lemma “आउर”:
 `CCONJ` occurs with 8 feature-value pairs: `Case=Nom`, `Gender=Fem`, `Gender=Masc`, `Number=Plur`, `Number=Sing`, `Person=3`, `PronType=Ind`, `Voice=Act`
 
 `CCONJ` occurs with 6 feature combinations.
-The most frequent feature combination is `_` (109 tokens).
+The most frequent feature combination is `_` (110 tokens).
 Examples: आ, बाकिर, अउर, आउर, खैर, बलुक, सचहूं
 
 
 ## Relations
 
-`CCONJ` nodes are attached to their parents using 12 different relations: <tt><a href="bho_bhtb-dep-advcl.html">advcl</a></tt> (48; 32% instances), <tt><a href="bho_bhtb-dep-compound.html">compound</a></tt> (29; 19% instances), <tt><a href="bho_bhtb-dep-conj.html">conj</a></tt> (29; 19% instances), <tt><a href="bho_bhtb-dep-cc.html">cc</a></tt> (24; 16% instances), <tt><a href="bho_bhtb-dep-acl.html">acl</a></tt> (5; 3% instances), <tt><a href="bho_bhtb-dep-nsubj.html">nsubj</a></tt> (4; 3% instances), <tt><a href="bho_bhtb-dep-nmod.html">nmod</a></tt> (3; 2% instances), <tt><a href="bho_bhtb-dep-advmod.html">advmod</a></tt> (2; 1% instances), <tt><a href="bho_bhtb-dep-csubj.html">csubj</a></tt> (2; 1% instances), <tt><a href="bho_bhtb-dep-dep.html">dep</a></tt> (2; 1% instances), <tt><a href="bho_bhtb-dep-root.html">root</a></tt> (2; 1% instances), <tt><a href="bho_bhtb-dep-obl.html">obl</a></tt> (1; 1% instances)
+`CCONJ` nodes are attached to their parents using 12 different relations: <tt><a href="bho_bhtb-dep-advcl.html">advcl</a></tt> (48; 32% instances), <tt><a href="bho_bhtb-dep-compound.html">compound</a></tt> (29; 19% instances), <tt><a href="bho_bhtb-dep-conj.html">conj</a></tt> (29; 19% instances), <tt><a href="bho_bhtb-dep-cc.html">cc</a></tt> (24; 16% instances), <tt><a href="bho_bhtb-dep-acl.html">acl</a></tt> (5; 3% instances), <tt><a href="bho_bhtb-dep-nsubj.html">nsubj</a></tt> (4; 3% instances), <tt><a href="bho_bhtb-dep-dep.html">dep</a></tt> (3; 2% instances), <tt><a href="bho_bhtb-dep-nmod.html">nmod</a></tt> (3; 2% instances), <tt><a href="bho_bhtb-dep-advmod.html">advmod</a></tt> (2; 1% instances), <tt><a href="bho_bhtb-dep-csubj.html">csubj</a></tt> (2; 1% instances), <tt><a href="bho_bhtb-dep-root.html">root</a></tt> (2; 1% instances), <tt><a href="bho_bhtb-dep-obl.html">obl</a></tt> (1; 1% instances)
 
-Parents of `CCONJ` nodes belong to 10 different parts of speech: <tt><a href="bho_bhtb-pos-VERB.html">VERB</a></tt> (79; 52% instances), <tt><a href="bho_bhtb-pos-NOUN.html">NOUN</a></tt> (41; 27% instances), <tt><a href="bho_bhtb-pos-PROPN.html">PROPN</a></tt> (19; 13% instances), <tt><a href="bho_bhtb-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="bho_bhtb-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="bho_bhtb-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="bho_bhtb-pos-PRON.html">PRON</a></tt> (2; 1% instances),  (2; 1% instances), <tt><a href="bho_bhtb-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="bho_bhtb-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances)
+Parents of `CCONJ` nodes belong to 11 different parts of speech: <tt><a href="bho_bhtb-pos-VERB.html">VERB</a></tt> (79; 52% instances), <tt><a href="bho_bhtb-pos-NOUN.html">NOUN</a></tt> (41; 27% instances), <tt><a href="bho_bhtb-pos-PROPN.html">PROPN</a></tt> (19; 13% instances), <tt><a href="bho_bhtb-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="bho_bhtb-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="bho_bhtb-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="bho_bhtb-pos-PRON.html">PRON</a></tt> (2; 1% instances),  (2; 1% instances), <tt><a href="bho_bhtb-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="bho_bhtb-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="bho_bhtb-pos-NUM.html">NUM</a></tt> (1; 1% instances)
 
-125 (83%) `CCONJ` nodes are leaves.
+126 (83%) `CCONJ` nodes are leaves.
 
 15 (10%) `CCONJ` nodes have one child.
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-23 nodes (6%) are attached to their parents as `nmod`.
+24 nodes (7%) are attached to their parents as `nmod`.
 
-15 instances of `nmod` (65%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.26086956521739.
+15 instances of `nmod` (63%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.25.
 
-The following 10 pairs of parts of speech are connected with `nmod`: <tt><a href="urb_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="urb_tudet-pos-NOUN.html">NOUN</a></tt> (9; 39% instances), <tt><a href="urb_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="urb_tudet-pos-DET.html">DET</a></tt> (2; 9% instances), <tt><a href="urb_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="urb_tudet-pos-PART.html">PART</a></tt> (2; 9% instances), <tt><a href="urb_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="urb_tudet-pos-PRON.html">PRON</a></tt> (2; 9% instances), <tt><a href="urb_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="urb_tudet-pos-PROPN.html">PROPN</a></tt> (2; 9% instances), <tt><a href="urb_tudet-pos-PRON.html">PRON</a></tt>-<tt><a href="urb_tudet-pos-PART.html">PART</a></tt> (2; 9% instances), <tt><a href="urb_tudet-pos-PRON.html">PRON</a></tt>-<tt><a href="urb_tudet-pos-PRON.html">PRON</a></tt> (1; 4% instances), <tt><a href="urb_tudet-pos-PROPN.html">PROPN</a></tt>-<tt><a href="urb_tudet-pos-PRON.html">PRON</a></tt> (1; 4% instances), <tt><a href="urb_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="urb_tudet-pos-PART.html">PART</a></tt> (1; 4% instances), <tt><a href="urb_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="urb_tudet-pos-PRON.html">PRON</a></tt> (1; 4% instances).
+The following 11 pairs of parts of speech are connected with `nmod`: <tt><a href="urb_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="urb_tudet-pos-NOUN.html">NOUN</a></tt> (9; 38% instances), <tt><a href="urb_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="urb_tudet-pos-DET.html">DET</a></tt> (2; 8% instances), <tt><a href="urb_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="urb_tudet-pos-PART.html">PART</a></tt> (2; 8% instances), <tt><a href="urb_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="urb_tudet-pos-PRON.html">PRON</a></tt> (2; 8% instances), <tt><a href="urb_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="urb_tudet-pos-PROPN.html">PROPN</a></tt> (2; 8% instances), <tt><a href="urb_tudet-pos-PRON.html">PRON</a></tt>-<tt><a href="urb_tudet-pos-PART.html">PART</a></tt> (2; 8% instances), <tt><a href="urb_tudet-pos-PRON.html">PRON</a></tt>-<tt><a href="urb_tudet-pos-ADP.html">ADP</a></tt> (1; 4% instances), <tt><a href="urb_tudet-pos-PRON.html">PRON</a></tt>-<tt><a href="urb_tudet-pos-PRON.html">PRON</a></tt> (1; 4% instances), <tt><a href="urb_tudet-pos-PROPN.html">PROPN</a></tt>-<tt><a href="urb_tudet-pos-PRON.html">PRON</a></tt> (1; 4% instances), <tt><a href="urb_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="urb_tudet-pos-PART.html">PART</a></tt> (1; 4% instances), <tt><a href="urb_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="urb_tudet-pos-PRON.html">PRON</a></tt> (1; 4% instances).
 
 
 ~~~ conllu
@@ -26,7 +26,7 @@ The following 10 pairs of parts of speech are connected with `nmod`: <tt><a href
 2	ma’e	ma’e	NOUN	n	_	3	nmod	_	_
 3	jukwahá	jukwa	NOUN	n	Rel=Cont	6	obj	_	_
 4	ihẽke	ihẽ	PRON	pro	Case=Aff	6	obl	_	_
-5	pe	pe	ADP	pp	_	4	obl	_	_
+5	pe	pe	ADP	pp	_	4	nmod	_	_
 6	me’ẽ	me	VERB	vt	Person=3	0	root	_	_
 
 ~~~

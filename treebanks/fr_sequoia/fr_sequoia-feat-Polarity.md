@@ -21,7 +21,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="fr_sequoia-pos-ADV.
 `ADV` tokens may have the following values of `Polarity`:
 
 * `Neg` (791; 100% of non-empty `Polarity`): <em>pas, n', ne, non, que, plus, jamais, qu', guère</em>
-* `EMPTY` (1897): <em>plus, moins, très, également, aussi, bien, où, alors, lors, peu</em>
+* `EMPTY` (1907): <em>plus, moins, très, également, aussi, bien, où, alors, lors, peu</em>
 
 ### `INTJ`
 

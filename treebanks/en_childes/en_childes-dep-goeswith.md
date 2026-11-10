@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-32 nodes (0%) are attached to their parents as `goeswith`.
+31 nodes (0%) are attached to their parents as `goeswith`.
 
-32 instances of `goeswith` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.1875.
+31 instances of `goeswith` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.19354838709677.
 
-The following 7 pairs of parts of speech are connected with `goeswith`: <tt><a href="en_childes-pos-INTJ.html">INTJ</a></tt>-<tt><a href="en_childes-pos-X.html">X</a></tt> (10; 31% instances), <tt><a href="en_childes-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_childes-pos-X.html">X</a></tt> (9; 28% instances), <tt><a href="en_childes-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_childes-pos-X.html">X</a></tt> (6; 19% instances), <tt><a href="en_childes-pos-ADP.html">ADP</a></tt>-<tt><a href="en_childes-pos-X.html">X</a></tt> (2; 6% instances), <tt><a href="en_childes-pos-ADV.html">ADV</a></tt>-<tt><a href="en_childes-pos-X.html">X</a></tt> (2; 6% instances), <tt><a href="en_childes-pos-PRON.html">PRON</a></tt>-<tt><a href="en_childes-pos-X.html">X</a></tt> (2; 6% instances), <tt><a href="en_childes-pos-VERB.html">VERB</a></tt>-<tt><a href="en_childes-pos-X.html">X</a></tt> (1; 3% instances).
+The following 7 pairs of parts of speech are connected with `goeswith`: <tt><a href="en_childes-pos-INTJ.html">INTJ</a></tt>-<tt><a href="en_childes-pos-X.html">X</a></tt> (10; 32% instances), <tt><a href="en_childes-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_childes-pos-X.html">X</a></tt> (9; 29% instances), <tt><a href="en_childes-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_childes-pos-X.html">X</a></tt> (6; 19% instances), <tt><a href="en_childes-pos-ADP.html">ADP</a></tt>-<tt><a href="en_childes-pos-X.html">X</a></tt> (2; 6% instances), <tt><a href="en_childes-pos-ADV.html">ADV</a></tt>-<tt><a href="en_childes-pos-X.html">X</a></tt> (2; 6% instances), <tt><a href="en_childes-pos-PRON.html">PRON</a></tt>-<tt><a href="en_childes-pos-X.html">X</a></tt> (1; 3% instances), <tt><a href="en_childes-pos-VERB.html">VERB</a></tt>-<tt><a href="en_childes-pos-X.html">X</a></tt> (1; 3% instances).
 
 
 ~~~ conllu
@@ -53,7 +53,7 @@ The following 7 pairs of parts of speech are connected with `goeswith`: <tt><a h
 1	Go	go	VERB	VB	_	0	root	0:root	_
 2	pa	papa	PROPN	NNP	Typo=Yes	1	vocative	1:vocative	_
 3	pa	_	X	NNP	_	2	goeswith	2:goeswith	SpaceAfter=No
-4	?	?	PUNCT	?	_	1	punct	1:punct	_
+4	?	?	PUNCT	.	_	1	punct	1:punct	_
 
 ~~~
 

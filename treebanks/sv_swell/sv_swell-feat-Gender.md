@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Com`, `Fem`, `Neut`.
 
-3627 tokens (33%) have a non-empty value of `Gender`.
-1162 types (52%) occur at least once with a non-empty value of `Gender`.
+3626 tokens (33%) have a non-empty value of `Gender`.
+1161 types (52%) occur at least once with a non-empty value of `Gender`.
 817 lemmas (51%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 7 part-of-speech tags: <tt><a href="sv_swell-pos-NOUN.html">NOUN</a></tt> (1798; 17% instances), <tt><a href="sv_swell-pos-PRON.html">PRON</a></tt> (1168; 11% instances), <tt><a href="sv_swell-pos-ADJ.html">ADJ</a></tt> (326; 3% instances), <tt><a href="sv_swell-pos-DET.html">DET</a></tt> (320; 3% instances), <tt><a href="sv_swell-pos-PROPN.html">PROPN</a></tt> (7; 0% instances), <tt><a href="sv_swell-pos-NUM.html">NUM</a></tt> (5; 0% instances), <tt><a href="sv_swell-pos-VERB.html">VERB</a></tt> (3; 0% instances).
+The feature is used with 7 part-of-speech tags: <tt><a href="sv_swell-pos-NOUN.html">NOUN</a></tt> (1798; 17% instances), <tt><a href="sv_swell-pos-PRON.html">PRON</a></tt> (1168; 11% instances), <tt><a href="sv_swell-pos-ADJ.html">ADJ</a></tt> (325; 3% instances), <tt><a href="sv_swell-pos-DET.html">DET</a></tt> (320; 3% instances), <tt><a href="sv_swell-pos-PROPN.html">PROPN</a></tt> (7; 0% instances), <tt><a href="sv_swell-pos-NUM.html">NUM</a></tt> (5; 0% instances), <tt><a href="sv_swell-pos-VERB.html">VERB</a></tt> (3; 0% instances).
 
 ### `NOUN`
 
@@ -61,14 +61,14 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 
 ### `ADJ`
 
-326 <tt><a href="sv_swell-pos-ADJ.html">ADJ</a></tt> tokens (37% of all `ADJ` tokens) have a non-empty value of `Gender`.
+325 <tt><a href="sv_swell-pos-ADJ.html">ADJ</a></tt> tokens (37% of all `ADJ` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="sv_swell-feat-Case.html">Case</a></tt><tt>=Nom</tt> (326; 100%), <tt><a href="sv_swell-feat-Number.html">Number</a></tt><tt>=Sing</tt> (324; 99%), <tt><a href="sv_swell-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (323; 99%), <tt><a href="sv_swell-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (322; 99%).
+The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="sv_swell-feat-Case.html">Case</a></tt><tt>=Nom</tt> (325; 100%), <tt><a href="sv_swell-feat-Number.html">Number</a></tt><tt>=Sing</tt> (323; 99%), <tt><a href="sv_swell-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (322; 99%), <tt><a href="sv_swell-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (321; 99%).
 
 `ADJ` tokens may have the following values of `Gender`:
 
 * `Com` (206; 63% of non-empty `Gender`): <em>själv, stor, viktig, annan, glad, lång, ny, gammal, lycklig, rik</em>
-* `Neut` (120; 37% of non-empty `Gender`): <em>viktigt, svårt, nytt, annat, dyrt, allmänmänskligt, eget, gammalt, gott, jämfört</em>
+* `Neut` (119; 37% of non-empty `Gender`): <em>viktigt, svårt, nytt, annat, dyrt, allmänmänskligt, eget, gammalt, gott, jämfört</em>
 * `EMPTY` (551): <em>olika, många, bra, andra, nya, bättre, första, bästa, flesta, viktigaste</em>
 
 <table>

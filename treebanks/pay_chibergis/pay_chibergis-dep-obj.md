@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-156 nodes (4%) are attached to their parents as `obj`.
+157 nodes (4%) are attached to their parents as `obj`.
 
-142 instances of `obj` (91%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.17948717948718.
+144 instances of `obj` (92%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.20382165605096.
 
-The following 13 pairs of parts of speech are connected with `obj`: <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt> (80; 51% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt> (40; 26% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-X.html">X</a></tt> (12; 8% instances), <tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt> (7; 4% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-NUM.html">NUM</a></tt> (4; 3% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt> (3; 2% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="pay_chibergis-pos-X.html">X</a></tt>-<tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="pay_chibergis-pos-X.html">X</a></tt>-<tt><a href="pay_chibergis-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="pay_chibergis-pos-ADV.html">ADV</a></tt>-<tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-INTJ.html">INTJ</a></tt> (1; 1% instances), <tt><a href="pay_chibergis-pos-X.html">X</a></tt>-<tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt> (1; 1% instances).
+The following 14 pairs of parts of speech are connected with `obj`: <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt> (81; 52% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt> (40; 25% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-X.html">X</a></tt> (11; 7% instances), <tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt> (7; 4% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-NUM.html">NUM</a></tt> (4; 3% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt> (3; 2% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="pay_chibergis-pos-X.html">X</a></tt>-<tt><a href="pay_chibergis-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="pay_chibergis-pos-X.html">X</a></tt>-<tt><a href="pay_chibergis-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="pay_chibergis-pos-ADV.html">ADV</a></tt>-<tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt>-<tt><a href="pay_chibergis-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="pay_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="pay_chibergis-pos-INTJ.html">INTJ</a></tt> (1; 1% instances), <tt><a href="pay_chibergis-pos-X.html">X</a></tt>-<tt><a href="pay_chibergis-pos-PRON.html">PRON</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -61,10 +61,10 @@ The following 13 pairs of parts of speech are connected with `obj`: <tt><a href=
 3	ʔãã	ʔãã	INTJ	<NOT_SURE>	_	1	discourse	_	AlignBegin=504204|AlignEnd=504686|Gloss=HES|MGloss=HES|MSeg=ʔãã|nWord=3|RX=[<NOT_SURE>]|TokenType=Root|Word=ʔãã
 4	ũtas	tas	PRON	PRO	Clusivity=Ex	8	reparandum	_	AlignBegin=504686|AlignEnd=505168|Gloss=PRO1|MGloss=EXCL- PRO1|MSeg=ũ-tas|nWord=4|RX=[PRO]|TokenType=Root|Word=ũtas|wordform=ũ-tas
 5	ʔãã	ʔãã	INTJ	<NOT_SURE>	_	4	discourse	_	AlignBegin=505168|AlignEnd=505650|Gloss=HES|MGloss=HES|MSeg=ʔãã|nWord=5|RX=[<NOT_SURE>]|TokenType=Root|Word=ʔãã
-6	ũtaoryah	oryah	NOUN	N	Clusivity=Ex	4	reparandum	_	AlignBegin=505650|AlignEnd=506132|Gloss=culture|MGloss=EXCL- POSS1- culture|MSeg=ũ-ta-oryah|nWord=6|RX=[N]|TokenType=Root|Word=ũtaoryah|wordform=ũ-ta-oryah
-7	toʔ	toʔ	PRON	PRO	_	9	det	_	AlignBegin=506132|AlignEnd=506614|Gloss=MED.DEM|MGloss=MED.DEM|MSeg=toʔ|nWord=7|RX=[PRO]|TokenType=Root|Word=toʔ
+6	ũtaoryah	oryah	NOUN	N	Clusivity=Ex	8	reparandum	_	AlignBegin=505650|AlignEnd=506132|Gloss=culture|MGloss=EXCL- POSS1- culture|MSeg=ũ-ta-oryah|nWord=6|RX=[N]|TokenType=Root|Word=ũtaoryah|wordform=ũ-ta-oryah
+7	toʔ	toʔ	PRON	PRO	ExtPos=DET	9	det	_	AlignBegin=506132|AlignEnd=506614|Gloss=MED.DEM|MGloss=MED.DEM|MSeg=toʔ|nWord=7|RX=[PRO]|TokenType=Root|Word=toʔ
 8	ãɲw	ãɲw	X	_	_	11	obj	_	AlignBegin=506614|AlignEnd=507096|Gloss=HES|MGloss=HES|MSeg=ãɲw|nWord=8|Word=ãɲw
-9	arah	arah	NOUN	N	_	4	reparandum	_	AlignBegin=507096|AlignEnd=507578|Gloss=bag|MGloss=bag|MSeg=arah|nWord=9|RX=[N]|TokenType=Root|Word=arah
+9	arah	arah	NOUN	N	_	8	reparandum	_	AlignBegin=507096|AlignEnd=507578|Gloss=bag|MGloss=bag|MSeg=arah|nWord=9|RX=[N]|TokenType=Root|Word=arah
 10	ye	ye	NOUN	N	_	9	nmod	_	AlignBegin=507578|AlignEnd=508060|Gloss=small|MGloss=small|MSeg=ye|nWord=10|RX=[N]|TokenType=Root|Word=ye
 11	porkawa	pork	VERB	V:ANY	_	0	root	_	AlignBegin=508060|AlignEnd=508546|Gloss=sink.in|MGloss=O3SG- sink.in -S1SG -PFV|MSeg=Ø-pork-a-wa|nWord=11|RX=[VT]|TokenType=Root|Word=porka|wordform=Ø-pork-a-wa
 

@@ -22,16 +22,16 @@ The following 7 pairs of parts of speech are connected with `fixed`: <tt><a href
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 fixed	color:blue
-1	jaː	_	PART	PTCL	ExtPos=INTJ	7	discourse	_	AlignBegin=382634|AlignEnd=382898|Gloss=ADRF|Idiom=Yes|RX=[PTCL]|TokenType=Root
-2	iraːnaj	_	INTJ	_	_	1	fixed	_	AlignBegin=382898|AlignEnd=383162|Gloss=gosh|InIdiom=Yes|RX=[EXCL]|TokenType=Root
-3	bak	_	PART	DEICT	_	4	advmod	_	AlignBegin=383162|AlignEnd=383426|Gloss=thus|RX=[DEICT].[MNR]|TokenType=Root
-4	tʔiit	_	NOUN	V1	_	5	dep:comp	_	AlignBegin=383426|AlignEnd=383558|Gloss=resemble|MGloss=resemble-VN|MSeg=tʔi-it|RelRole=Obj|RX=[V1].[IRG]-[N].[V]|TokenType=Root
-5	=eː	_	SCONJ	CONJ.REL	PronType=Rel	6	acl:relcl	_	AlignBegin=383558|AlignEnd=383624|Gloss==REL|RX==[CONJ]|TokenType=Clit
-6	=na	_	NOUN	CONJ	_	7	obj	_	AlignBegin=383624|AlignEnd=383690|Gloss==thing|RX==[N.F]|TokenType=Clit
-7	hadran	_	VERB	V2	Number=Sing|VerbClass=2	8	ccomp	_	AlignBegin=383690|AlignEnd=383954|Gloss=attend|MGloss=attend-PFV.1SG|MSeg=hadr-an|Reported=Yes|RX=[V2]-[TAM].[PNG]|TokenType=Root
-8	adi	_	VERB	V1	Aspect=Perf|Number=Sing|VerbClass=1	9	dep:comp	_	AlignBegin=383954|AlignEnd=384130|Gloss=say\PFV|MGloss=1SG-say\PFV|MSeg=a-di|RX=[PNG]-[V1].[IRG]|TokenType=Root
-9	=hoːb	_	SCONJ	CONJ	_	0	root	_	AlignBegin=384130|AlignEnd=384218|Gloss==when|RX==[CONJ]|TokenType=Clit
-10	/	_	PUNCT	_	_	9	punct	_	AlignBegin=384218|AlignEnd=384483|Gloss=/|TokenType=Break
+1	jaː	_	PART	PTCL	ExtPos=INTJ	7	discourse	_	Gloss=ADRF|Idiom=Yes|RX=[PTCL]|TokenType=Root|WordAlignmentBegin=382634|WordAlignmentEnd=382898
+2	iraːnaj	_	INTJ	_	_	1	fixed	_	Gloss=gosh|InIdiom=Yes|RX=[EXCL]|TokenType=Root|WordAlignmentBegin=382898|WordAlignmentEnd=383162
+3	bak	_	PART	DEICT	_	4	advmod	_	Gloss=thus|RX=[DEICT].[MNR]|TokenType=Root|WordAlignmentBegin=383162|WordAlignmentEnd=383426
+4	tʔiit	_	NOUN	V1	_	6	acl:relcl	_	Gloss=resemble.VN|MGloss=resemble-VN|MSeg=tʔi-it|RelRole=Obj|RX=[V1].[IRG]-[N].[V]|TokenType=Root|WordAlignmentBegin=383426|WordAlignmentEnd=383558
+5	=eː	_	SCONJ	CONJ.REL	PronType=Rel	4	case	_	Gloss=REL|RX==[CONJ]|TokenType=Clit|WordAlignmentBegin=383558|WordAlignmentEnd=383624
+6	=na	_	NOUN	CONJ	_	7	obj	_	Gloss=thing|RX==[N.F]|TokenType=Clit|WordAlignmentBegin=383624|WordAlignmentEnd=383690
+7	hadran	_	VERB	V2	Number=Sing|VerbClass=2	8	ccomp	_	Gloss=attend|MGloss=attend-PFV.1SG|MSeg=hadr-an|Reported=Yes|RX=[V2]-[TAM].[PNG]|TokenType=Root|WordAlignmentBegin=383690|WordAlignmentEnd=383954
+8	adi	_	VERB	V1	Aspect=Perf|Number=Sing|VerbClass=1	0	root	_	Gloss=say|MGloss=1SG-say\PFV|MSeg=a-di|RX=[PNG]-[V1].[IRG]|TokenType=Root|WordAlignmentBegin=383954|WordAlignmentEnd=384130
+9	=hoːb	_	SCONJ	CONJ	_	8	mark	_	Gloss=when|RX==[CONJ]|TokenType=Clit|WordAlignmentBegin=384130|WordAlignmentEnd=384218
+10	/	_	PUNCT	_	_	8	punct	_	Gloss=/|TokenType=Break|WordAlignmentBegin=384218|WordAlignmentEnd=384483
 
 ~~~
 
@@ -42,16 +42,16 @@ The following 7 pairs of parts of speech are connected with `fixed`: <tt><a href
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 5 fixed	color:blue
-1	faʤil	_	NOUN	N	Gender=Masc	2	dep:comp	_	AlignBegin=106632|AlignEnd=106778|Gloss=morning|RX=[N].[M]|TokenType=Root
-2	=ka	_	ADP	POSTP	Case=Dis	3	dep	_	AlignBegin=106778|AlignEnd=106925|Gloss==DISTR|RX==[POSTP]|TokenType=Clit
-3	jʔi	_	VERB	V2	Gender=Masc|Number=Sing|VerbClass=2	4	dep:comp	_	AlignBegin=106925|AlignEnd=107071|Gloss=come|MGloss=come-AOR.3SG.M|MSeg=jʔ-i|RX=[V2].[IRG]-[TAM].[PNG]|TokenType=Root
-4	=jeːb	_	SCONJ	CONJ.REL	ExtPos=SCONJ|Gender=Masc	7	dep	_	AlignBegin=107071|AlignEnd=107144|Gloss==REL.M|Idiom=Yes|RX==[CONJ]|TokenType=Clit
-5	=ka	_	ADP	POSTP	Case=Dis	4	fixed	_	AlignBegin=107144|AlignEnd=107218|Gloss==DISTR|InIdiom=Yes|RX==[POSTP]|TokenType=Clit
-6	/	_	PUNCT	PUNCT	_	4	punct	_	AlignBegin=107218|AlignEnd=107512|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
-7	amhajdaːt	_	VERB	V1	Gender=Fem|VerbClass=1	9	advcl	_	AlignBegin=107512|AlignEnd=107849|Gloss=sew|MGloss=PASS-sew-CVB.MNR-INDF.F|MSeg=am-hajd-aː-t|RX=[V1].[DER]-[V1]-[PRF]-[DET]|TokenType=Root
-8	akajeː	_	AUX	AUX	Aspect=Perf	7	aux	_	AlignBegin=107849|AlignEnd=108187|Gloss=become|MGloss=become-CVB.SMLT|MSeg=aka-jeː|RX=[AUX].[PRF]-.|TokenType=Root
-9	isiːnna	_	VERB	V1	Aspect=Aor|Number=Plur|VerbClass=1	0	root	_	AlignBegin=108187|AlignEnd=108524|Gloss=wait\AOR|MGloss=3-wait\AOR-PL|MSeg=i-siːn-na|RX=[PNG]-[V1]-[PNG]|TokenType=Root
-10	/	_	PUNCT	PUNCT	_	9	punct	_	AlignBegin=108524|AlignEnd=108862|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
+1	faʤil	_	NOUN	N	Gender=Masc	3	obl:mod	_	Gloss=morning|RX=[N].[M]|TokenType=Root|WordAlignmentBegin=106632|WordAlignmentEnd=106778
+2	=ka	_	ADP	POSTP	Case=Dis	1	case	_	Gloss=DISTR|RX==[POSTP]|TokenType=Clit|WordAlignmentBegin=106778|WordAlignmentEnd=106925
+3	jʔi	_	VERB	V2	Gender=Masc|Number=Sing|VerbClass=2	7	advcl	_	Gloss=come|MGloss=come-AOR.3SG.M|MSeg=jʔ-i|RX=[V2].[IRG]-[TAM].[PNG]|TokenType=Root|WordAlignmentBegin=106925|WordAlignmentEnd=107071
+4	=jeːb	_	SCONJ	CONJ.REL	ExtPos=SCONJ|Gender=Masc	3	mark	_	Gloss=REL|Idiom=Yes|RX==[CONJ]|TokenType=Clit|WordAlignmentBegin=107071|WordAlignmentEnd=107144
+5	=ka	_	ADP	POSTP	Case=Dis	4	fixed	_	Gloss=DISTR|InIdiom=Yes|RX==[POSTP]|TokenType=Clit|WordAlignmentBegin=107144|WordAlignmentEnd=107218
+6	/	_	PUNCT	PUNCT	_	3	punct	_	Gloss=PUNCT|RX=[PUNCT]|TokenType=Break|WordAlignmentBegin=107218|WordAlignmentEnd=107512
+7	amhajdaːt	_	VERB	V1	Gender=Fem|VerbClass=1	9	advcl	_	Gloss=PASS.sew.CVB.MNR|MGloss=PASS-sew-CVB.MNR-INDF.F|MSeg=am-hajd-aː-t|RX=[V1].[DER]-[V1]-[PRF]-[DET]|TokenType=Root|WordAlignmentBegin=107512|WordAlignmentEnd=107849
+8	akajeː	_	AUX	AUX	Aspect=Perf	7	aux	_	Gloss=become.CVB.SMLT|MGloss=become-CVB.SMLT|MSeg=aka-jeː|RX=[AUX].[PRF]-.|TokenType=Root|WordAlignmentBegin=107849|WordAlignmentEnd=108187
+9	isiːnna	_	VERB	V1	Aspect=Aor|Number=Plur|VerbClass=1	0	root	_	Gloss=wait|MGloss=3-wait\AOR-PL|MSeg=i-siːn-na|RX=[PNG]-[V1]-[PNG]|TokenType=Root|WordAlignmentBegin=108187|WordAlignmentEnd=108524
+10	/	_	PUNCT	PUNCT	_	9	punct	_	Gloss=PUNCT|RX=[PUNCT]|TokenType=Break|WordAlignmentBegin=108524|WordAlignmentEnd=108862
 
 ~~~
 
@@ -62,21 +62,21 @@ The following 7 pairs of parts of speech are connected with `fixed`: <tt><a href
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 6 fixed	color:blue
-1	beːn	_	DET	DEM	Case=Nom|Deixis=Remt|Gender=Masc|Number=Sing|PronType=Dem	3	det	_	AlignBegin=76156|AlignEnd=76440|Gloss=DIST.SG.M.NOM|RX=[DEM]|TokenType=Root
-2	aː=	_	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Plur	3	det	_	AlignBegin=76440|AlignEnd=76582|Gloss=DEF.PL.M.NOM=|RX=[DET]=|TokenType=Clit
-3	nda	_	NOUN	N	Gender=Masc|Number=Plur	4	nsubj	_	AlignBegin=76582|AlignEnd=76724|Gloss=man\PL|RX=[SBJ].[N].[M]|TokenType=Root
-4	ʔeːjaːn	_	VERB	V2,IRG	Aspect=Perf|Number=Plur|VerbClass=2	5	dep:comp	_	AlignBegin=76724|AlignEnd=76914|Gloss=come\PFV|MGloss=come\PFV-3PL|MSeg=ʔeːjaː-n|RelRole=Obj|RX=[V2].[IRG]-[PNG]|TokenType=Root
-5	=eːb	_	SCONJ	CONJ	ExtPos=SCONJ|Gender=Masc|PronType=Rel	13	dep	_	AlignBegin=76914|AlignEnd=77009|Gloss==REL.M|Idiom=Yes|RX==[CONJ]|TokenType=Clit
-6	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	5	fixed	_	AlignBegin=77009|AlignEnd=77151|Gloss=DEF.SG.M.ACC=|InIdiom=Yes|RX=[DET]=|TokenType=Clit
-7	doːr	_	NOUN	N	Gender=Masc	5	fixed	_	AlignBegin=77151|AlignEnd=77293|Gloss=time|InIdiom=Yes|RX=[N].[M]|TokenType=Root
-8	/	_	PUNCT	PUNCT	_	5	punct	_	AlignBegin=77293|AlignEnd=78459|TokenType=Break
-9	i=	_	DET	DET	Definite=Def|Gender=Masc	10	det	_	AlignBegin=78459|AlignEnd=78599|Gloss=DEF.M=|RX=[DET]=|TokenType=Clit
-10	kaːm	_	NOUN	N	_	13	iobj	_	AlignBegin=78599|AlignEnd=78739|Gloss=camel|RX=[N]|TokenType=Root
-11	=i	_	PRON	PRO	Case=Acc|Number=Sing|Person=1	10	nmod:poss	_	AlignBegin=78739|AlignEnd=78880|Gloss==POSS1.SG.ACC|RX==[PRO]|TokenType=Clit
-12	jam	_	NOUN	N	Gender=Masc|Number=Plur	13	obj	_	AlignBegin=78880|AlignEnd=79301|Gloss=water|RX=[N].[PL].[M]|TokenType=Root
-13	gʷʔasaːb	_	VERB	V2	Gender=Masc|VerbClass=2	0	root	_	AlignBegin=79301|AlignEnd=79637|Gloss=drink|MGloss=drink-CAUS-CVB.MNR-INDF.M.ACC|MSeg=gʷʔa-s-aː-b|RX=[V2]-[V2].[DER]-[PRF]-[DET]|TokenType=Root
-14	=u	_	AUX	N,COP	Number=Sing|Person=1|VerbType=Cop	13	cop	_	AlignBegin=79637|AlignEnd=79722|Gloss==COP.1SG|RX==[PRED].[N]|TokenType=Clit
-15	/	_	PUNCT	PUNCT	_	13	punct	_	AlignBegin=79722|AlignEnd=80500|TokenType=Break
+1	beːn	_	DET	DEM	Case=Nom|Deixis=Remt|Gender=Masc|Number=Sing|PronType=Dem	3	det	_	Gloss=DIST|RX=[DEM]|TokenType=Root|WordAlignmentBegin=76156|WordAlignmentEnd=76440
+2	aː=	_	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Plur	3	det	_	Gloss=DEF|RX=[DET]=|TokenType=Clit|WordAlignmentBegin=76440|WordAlignmentEnd=76582
+3	nda	_	NOUN	N	Gender=Masc|Number=Plur	4	nsubj	_	Gloss=man|RX=[SBJ].[N].[M]|TokenType=Root|WordAlignmentBegin=76582|WordAlignmentEnd=76724
+4	ʔeːjaːn	_	VERB	V2,IRG	Aspect=Perf|Number=Plur|VerbClass=2	13	advcl	_	Gloss=come|MGloss=come\PFV-3PL|MSeg=ʔeːjaː-n|RelRole=Obj|RX=[V2].[IRG]-[PNG]|TokenType=Root|WordAlignmentBegin=76724|WordAlignmentEnd=76914
+5	=eːb	_	SCONJ	CONJ	ExtPos=SCONJ|Gender=Masc|PronType=Rel	4	mark	_	Gloss=REL|Idiom=Yes|RX==[CONJ]|TokenType=Clit|WordAlignmentBegin=76914|WordAlignmentEnd=77009
+6	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	5	fixed	_	Gloss=DEF|InIdiom=Yes|RX=[DET]=|TokenType=Clit|WordAlignmentBegin=77009|WordAlignmentEnd=77151
+7	doːr	_	NOUN	N	Gender=Masc	5	fixed	_	Gloss=time|InIdiom=Yes|RX=[N].[M]|TokenType=Root|WordAlignmentBegin=77151|WordAlignmentEnd=77293
+8	/	_	PUNCT	PUNCT	_	4	punct	_	TokenType=Break|WordAlignmentBegin=77293|WordAlignmentEnd=78459
+9	i=	_	DET	DET	Definite=Def|Gender=Masc	10	det	_	Gloss=DEF|RX=[DET]=|TokenType=Clit|WordAlignmentBegin=78459|WordAlignmentEnd=78599
+10	kaːm	_	NOUN	N	_	13	iobj	_	Gloss=camel|RX=[N]|TokenType=Root|WordAlignmentBegin=78599|WordAlignmentEnd=78739
+11	=i	_	PRON	PRO	Case=Acc|Number=Sing|Person=1|Poss=Yes	10	nmod	_	Gloss=POSS|RX==[PRO]|TokenType=Clit|WordAlignmentBegin=78739|WordAlignmentEnd=78880
+12	jam	_	NOUN	N	Gender=Masc|Number=Plur	13	obj	_	Gloss=water|RX=[N].[PL].[M]|TokenType=Root|WordAlignmentBegin=78880|WordAlignmentEnd=79301
+13	gʷʔasaːb	_	VERB	V2	Gender=Masc|VerbClass=2	0	root	_	Gloss=drink.CAUS.CVB.MNR|MGloss=drink-CAUS-CVB.MNR-INDF.M.ACC|MSeg=gʷʔa-s-aː-b|RX=[V2]-[V2].[DER]-[PRF]-[DET]|TokenType=Root|WordAlignmentBegin=79301|WordAlignmentEnd=79637
+14	=u	_	AUX	N,COP	Number=Sing|Person=1|VerbType=Cop	13	cop	_	Gloss=COP|RX==[PRED].[N]|TokenType=Clit|WordAlignmentBegin=79637|WordAlignmentEnd=79722
+15	/	_	PUNCT	PUNCT	_	13	punct	_	TokenType=Break|WordAlignmentBegin=79722|WordAlignmentEnd=80500
 
 ~~~
 

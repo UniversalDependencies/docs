@@ -8,12 +8,38 @@ udver: '2'
 
 This relation is universal.
 
-387 nodes (8%) are attached to their parents as `case`.
+352 nodes (7%) are attached to their parents as `case`.
 
-209 instances of `case` (54%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.01808785529716.
+179 instances of `case` (51%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.87784090909091.
 
-The following 10 pairs of parts of speech are connected with `case`: <tt><a href="zh_patentchar-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_patentchar-pos-PART.html">PART</a></tt> (169; 44% instances), <tt><a href="zh_patentchar-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_patentchar-pos-ADP.html">ADP</a></tt> (157; 41% instances), <tt><a href="zh_patentchar-pos-ADJ.html">ADJ</a></tt>-<tt><a href="zh_patentchar-pos-PART.html">PART</a></tt> (27; 7% instances), <tt><a href="zh_patentchar-pos-PROPN.html">PROPN</a></tt>-<tt><a href="zh_patentchar-pos-PART.html">PART</a></tt> (12; 3% instances), <tt><a href="zh_patentchar-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_patentchar-pos-CCONJ.html">CCONJ</a></tt> (10; 3% instances), <tt><a href="zh_patentchar-pos-ADJ.html">ADJ</a></tt>-<tt><a href="zh_patentchar-pos-ADP.html">ADP</a></tt> (4; 1% instances), <tt><a href="zh_patentchar-pos-PROPN.html">PROPN</a></tt>-<tt><a href="zh_patentchar-pos-ADP.html">ADP</a></tt> (4; 1% instances), <tt><a href="zh_patentchar-pos-NUM.html">NUM</a></tt>-<tt><a href="zh_patentchar-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="zh_patentchar-pos-ADV.html">ADV</a></tt>-<tt><a href="zh_patentchar-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="zh_patentchar-pos-PRON.html">PRON</a></tt>-<tt><a href="zh_patentchar-pos-PART.html">PART</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `case`: <tt><a href="zh_patentchar-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_patentchar-pos-ADP.html">ADP</a></tt> (152; 43% instances), <tt><a href="zh_patentchar-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_patentchar-pos-PART.html">PART</a></tt> (140; 40% instances), <tt><a href="zh_patentchar-pos-ADJ.html">ADJ</a></tt>-<tt><a href="zh_patentchar-pos-PART.html">PART</a></tt> (27; 8% instances), <tt><a href="zh_patentchar-pos-PROPN.html">PROPN</a></tt>-<tt><a href="zh_patentchar-pos-PART.html">PART</a></tt> (11; 3% instances), <tt><a href="zh_patentchar-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_patentchar-pos-CCONJ.html">CCONJ</a></tt> (10; 3% instances), <tt><a href="zh_patentchar-pos-ADJ.html">ADJ</a></tt>-<tt><a href="zh_patentchar-pos-ADP.html">ADP</a></tt> (4; 1% instances), <tt><a href="zh_patentchar-pos-PROPN.html">PROPN</a></tt>-<tt><a href="zh_patentchar-pos-ADP.html">ADP</a></tt> (4; 1% instances), <tt><a href="zh_patentchar-pos-ADV.html">ADV</a></tt>-<tt><a href="zh_patentchar-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="zh_patentchar-pos-NUM.html">NUM</a></tt>-<tt><a href="zh_patentchar-pos-PART.html">PART</a></tt> (2; 1% instances).
+
+
+~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 15	bgColor:blue
+# visual-style 15	fgColor:white
+# visual-style 15 5 case	color:blue
+1	第一	_	NUM	_	_	2	nummod	_	Gloss=_|SpaceAfter=No|Translit=dì_yī
+2	导体	_	NOUN	_	_	4	nsubj	_	Gloss=_|SpaceAfter=No|Translit=dǎo_tǐ
+3	，	_	PUNCT	_	_	2	punct	_	Gloss=_|SpaceAfter=No|Translit=，
+4	位	_	VERB	_	_	0	root	_	Gloss=_|SpaceAfter=No|Translit=wèi
+5	于	_	ADP	_	_	15	case	_	Gloss=_|SpaceAfter=No|Translit=yú
+6	包括	_	VERB	_	_	14	acl	_	Gloss=_|SpaceAfter=No|Translit=bāo_kuò
+7	第一	_	NUM	_	_	8	nummod	_	Gloss=_|SpaceAfter=No|Translit=dì_yī
+8	感测区	_	NOUN	_	_	6	obj	_	Gloss=_|SpaceAfter=No|Translit=gǎn_cè_qū
+9	和	_	CCONJ	_	_	11	cc	_	Gloss=_|SpaceAfter=No|Translit=hé
+10	第二	_	NUM	_	_	11	nummod	_	Gloss=_|SpaceAfter=No|Translit=dì_èr
+11	感测区	_	NOUN	_	_	8	conj	_	Gloss=_|SpaceAfter=No|Translit=gǎn_cè_qū
+12	的	_	PART	_	_	6	mark	_	Gloss=_|SpaceAfter=No|Translit=de
+13	压力	_	NOUN	_	_	14	nmod	_	Gloss=_|SpaceAfter=No|Translit=yā_lì
+14	感测区	_	NOUN	_	_	15	obj	_	Gloss=_|SpaceAfter=No|Translit=gǎn_cè_qū
+15	中	_	NOUN	_	_	4	obl:arg	_	Gloss=_|SpaceAfter=No|Translit=zhōng
+16	；	_	PUNCT	_	_	4	punct	_	Gloss=_|SpaceAfter=No|Translit=；
+
+~~~
 
 
 ~~~ conllu
@@ -43,32 +69,6 @@ The following 10 pairs of parts of speech are connected with `case`: <tt><a href
 19	的	_	PART	_	_	18	case	_	Gloss=_|SpaceAfter=No|Translit=de
 20	均值	_	NOUN	_	_	15	obj	_	Gloss=_|SpaceAfter=No|Translit=jūn_zhí
 21	；	_	PUNCT	_	_	14	punct	_	Gloss=_|SpaceAfter=No|Translit=；
-
-~~~
-
-
-~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 15	bgColor:blue
-# visual-style 15	fgColor:white
-# visual-style 15 5 case	color:blue
-1	第一	_	NUM	_	_	2	nummod	_	Gloss=_|SpaceAfter=No|Translit=dì_yī
-2	导体	_	NOUN	_	_	4	nsubj	_	Gloss=_|SpaceAfter=No|Translit=dǎo_tǐ
-3	，	_	PUNCT	_	_	2	punct	_	Gloss=_|SpaceAfter=No|Translit=，
-4	位	_	VERB	_	_	0	root	_	Gloss=_|SpaceAfter=No|Translit=wèi
-5	于	_	ADP	_	_	15	case	_	Gloss=_|SpaceAfter=No|Translit=yú
-6	包括	_	VERB	_	_	14	acl	_	Gloss=_|SpaceAfter=No|Translit=bāo_kuò
-7	第一	_	NUM	_	_	8	nummod	_	Gloss=_|SpaceAfter=No|Translit=dì_yī
-8	感测区	_	NOUN	_	_	6	obj	_	Gloss=_|SpaceAfter=No|Translit=gǎn_cè_qū
-9	和	_	CCONJ	_	_	11	cc	_	Gloss=_|SpaceAfter=No|Translit=hé
-10	第二	_	NUM	_	_	11	nummod	_	Gloss=_|SpaceAfter=No|Translit=dì_èr
-11	感测区	_	NOUN	_	_	8	conj	_	Gloss=_|SpaceAfter=No|Translit=gǎn_cè_qū
-12	的	_	PART	_	_	6	mark	_	Gloss=_|SpaceAfter=No|Translit=de
-13	压力	_	NOUN	_	_	14	nmod	_	Gloss=_|SpaceAfter=No|Translit=yā_lì
-14	感测区	_	NOUN	_	_	15	obj	_	Gloss=_|SpaceAfter=No|Translit=gǎn_cè_qū
-15	中	_	NOUN	_	_	4	obl:arg	_	Gloss=_|SpaceAfter=No|Translit=zhōng
-16	；	_	PUNCT	_	_	4	punct	_	Gloss=_|SpaceAfter=No|Translit=；
 
 ~~~
 

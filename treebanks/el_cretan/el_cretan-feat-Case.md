@@ -43,7 +43,7 @@ The most frequent other feature values with which `DET` and `Case` co-occurred: 
 
 596 <tt><a href="el_cretan-pos-NOUN.html">NOUN</a></tt> tokens (99% of all `NOUN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="el_cretan-feat-Number.html">Number</a></tt><tt>=Sing</tt> (428; 72%).
+The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="el_cretan-feat-Number.html">Number</a></tt><tt>=Sing</tt> (429; 72%).
 
 `NOUN` tokens may have the following values of `Case`:
 
@@ -208,11 +208,11 @@ The most frequent other feature values with which `INTJ` and `Case` co-occurred:
 ## Relations with Agreement in `Case`
 
 The 10 most frequent relations where parent and child node agree in `Case`:
-<tt>NOUN --[<tt><a href="el_cretan-dep-det.html">det</a></tt>]--> DET</tt> (404; 98%),
+<tt>NOUN --[<tt><a href="el_cretan-dep-det.html">det</a></tt>]--> DET</tt> (405; 98%),
 <tt>PROPN --[<tt><a href="el_cretan-dep-det.html">det</a></tt>]--> DET</tt> (134; 99%),
 <tt>NOUN --[<tt><a href="el_cretan-dep-amod.html">amod</a></tt>]--> ADJ</tt> (38; 97%),
 <tt>NOUN --[<tt><a href="el_cretan-dep-conj.html">conj</a></tt>]--> NOUN</tt> (30; 94%),
-<tt>ADJ --[<tt><a href="el_cretan-dep-det.html">det</a></tt>]--> DET</tt> (28; 97%),
+<tt>ADJ --[<tt><a href="el_cretan-dep-det.html">det</a></tt>]--> DET</tt> (27; 96%),
 <tt>NOUN --[<tt><a href="el_cretan-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (12; 92%),
 <tt>ADJ --[<tt><a href="el_cretan-dep-conj.html">conj</a></tt>]--> ADJ</tt> (9; 100%),
 <tt>ADJ --[<tt><a href="el_cretan-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (7; 100%),

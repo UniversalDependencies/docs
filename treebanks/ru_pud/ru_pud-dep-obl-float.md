@@ -24,7 +24,7 @@ The following 1 pairs of parts of speech are connected with `obl:float`: <tt><a 
 # visual-style 6	fgColor:white
 # visual-style 6 7 obl:float	color:blue
 1	В	в	ADP	IN	_	3	case	_	_
-2	это	этот	DET	DT	Case=Acc|Gender=Neut|Number=Sing	3	det	_	_
+2	это	этот	DET	DT	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	3	det	_	_
 3	время	время	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	6	obl	_	_
 4	Марселя	Марсель	PROPN	NNP	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	6	obj	_	_
 5	часто	часто	ADV	RB	Degree=Pos	6	advmod	_	_

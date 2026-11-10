@@ -45,13 +45,13 @@ The following 2 pairs of parts of speech are connected with `dep:conj`: <tt><a h
 3	,	_	PUNCT	_	_	2	punct	_	AlignBegin=76705|AlignEnd=77027|MSeg=,|nWord=3|Word=,
 4	ah	ah	INTJ	_	_	22	dep:conj	_	AlignBegin=77027|AlignEnd=77349|Gloss=INTERJ|MGloss=INTERJ|MSeg=ah|nWord=4|RX=[INTERJ]|TokenType=Root|Word=aa
 5	,	_	PUNCT	_	_	4	punct	_	AlignBegin=77349|AlignEnd=77671|MSeg=,|nWord=5|Word=,
-6	ã	ã	PRON	_	_	7	det	_	AlignBegin=77671|AlignEnd=77993|Gloss=DIST.DEM|MGloss=DIST.DEM|MSeg=ã|nWord=6|RX=[PRO]|TokenType=Root|Word=ã
+6	ã	ã	PRON	_	ExtPos=DET	7	det	_	AlignBegin=77671|AlignEnd=77993|Gloss=DIST.DEM|MGloss=DIST.DEM|MSeg=ã|nWord=6|RX=[PRO]|TokenType=Root|Word=ã
 7	peʃ	peʃ	NOUN	_	_	22	nsubj	_	AlignBegin=77993|AlignEnd=78315|Gloss=people|MGloss=people|MSeg=peʃ|nWord=7|RX=[N]|TokenType=Root|Word=peʃ
 8	ʃuwa	ʃuwa	NOUN	_	_	7	nmod	_	AlignBegin=78315|AlignEnd=78637|Gloss=old.man|MGloss=old.man|MSeg=ʃuwa|nWord=8|RX=[N]|TokenType=Root|Word=wa
 9	,	_	PUNCT	_	_	8	punct	_	AlignBegin=78637|AlignEnd=78959|MSeg=,|nWord=9|Word=,
 10	ãma	ãma	PART	_	_	13	discourse	_	AlignBegin=78959|AlignEnd=79281|Gloss=HES|MGloss=HES|MSeg=ãma|nWord=10|RX=[PRT]|TokenType=Root|Word=ãma
 11	,	_	PUNCT	_	_	10	punct	_	AlignBegin=79281|AlignEnd=79603|MSeg=,|nWord=11|Word=,
-12	ã	ã	PRON	_	_	13	det	_	AlignBegin=79603|AlignEnd=79925|Gloss=DIST.DEM|MGloss=DIST.DEM|MSeg=ã|nWord=12|RX=[PRO]|TokenType=Root|Word=ã
+12	ã	ã	PRON	_	ExtPos=DET	13	det	_	AlignBegin=79603|AlignEnd=79925|Gloss=DIST.DEM|MGloss=DIST.DEM|MSeg=ã|nWord=12|RX=[PRO]|TokenType=Root|Word=ã
 13	peʃ	peʃ	NOUN	_	_	7	reparandum	_	AlignBegin=79925|AlignEnd=80247|Gloss=people|MGloss=people|MSeg=peʃ|nWord=13|RX=[N]|TokenType=Root|Word=peʃ
 14	ʃuwa	ʃuwa	NOUN	_	_	13	nmod	_	AlignBegin=80247|AlignEnd=80569|Gloss=old.man|MGloss=old.man|MSeg=ʃuwa|nWord=14|RX=[N]|TokenType=Root|Word=wa
 15	,	_	PUNCT	_	_	14	punct	_	AlignBegin=80569|AlignEnd=80891|MSeg=,|nWord=15|Word=,

@@ -66,7 +66,7 @@ The following 40 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 3	what	what	DET	WDT	_	0	root	0:root	_
 4	mothers	mother	NOUN	NNS	_	5	nsubj	5:nsubj	_
 5	do	do	VERB	VBP	_	3	acl:relcl	3:acl:relcl	SpaceAfter=No
-6	?	?	PUNCT	?	_	3	punct	3:punct	_
+6	?	?	PUNCT	.	_	3	punct	3:punct	_
 
 ~~~
 

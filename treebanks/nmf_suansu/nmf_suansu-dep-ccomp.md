@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-23 nodes (1%) are attached to their parents as `ccomp`.
+21 nodes (1%) are attached to their parents as `ccomp`.
 
-17 instances of `ccomp` (74%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.52173913043478.
+15 instances of `ccomp` (71%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.47619047619048.
 
-The following 6 pairs of parts of speech are connected with `ccomp`: <tt><a href="nmf_suansu-pos-VERB.html">VERB</a></tt>-<tt><a href="nmf_suansu-pos-VERB.html">VERB</a></tt> (13; 57% instances), <tt><a href="nmf_suansu-pos-VERB.html">VERB</a></tt>-<tt><a href="nmf_suansu-pos-INTJ.html">INTJ</a></tt> (5; 22% instances), <tt><a href="nmf_suansu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nmf_suansu-pos-VERB.html">VERB</a></tt> (2; 9% instances), <tt><a href="nmf_suansu-pos-PRON.html">PRON</a></tt>-<tt><a href="nmf_suansu-pos-VERB.html">VERB</a></tt> (1; 4% instances), <tt><a href="nmf_suansu-pos-VERB.html">VERB</a></tt>-<tt><a href="nmf_suansu-pos-ADJ.html">ADJ</a></tt> (1; 4% instances), <tt><a href="nmf_suansu-pos-VERB.html">VERB</a></tt>-<tt><a href="nmf_suansu-pos-PRON.html">PRON</a></tt> (1; 4% instances).
+The following 6 pairs of parts of speech are connected with `ccomp`: <tt><a href="nmf_suansu-pos-VERB.html">VERB</a></tt>-<tt><a href="nmf_suansu-pos-VERB.html">VERB</a></tt> (12; 57% instances), <tt><a href="nmf_suansu-pos-VERB.html">VERB</a></tt>-<tt><a href="nmf_suansu-pos-INTJ.html">INTJ</a></tt> (5; 24% instances), <tt><a href="nmf_suansu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nmf_suansu-pos-VERB.html">VERB</a></tt> (1; 5% instances), <tt><a href="nmf_suansu-pos-PRON.html">PRON</a></tt>-<tt><a href="nmf_suansu-pos-VERB.html">VERB</a></tt> (1; 5% instances), <tt><a href="nmf_suansu-pos-VERB.html">VERB</a></tt>-<tt><a href="nmf_suansu-pos-ADJ.html">ADJ</a></tt> (1; 5% instances), <tt><a href="nmf_suansu-pos-VERB.html">VERB</a></tt>-<tt><a href="nmf_suansu-pos-PRON.html">PRON</a></tt> (1; 5% instances).
 
 
 ~~~ conllu
@@ -61,23 +61,22 @@ The following 6 pairs of parts of speech are connected with `ccomp`: <tt><a href
 ~~~ conllu
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 13 9 ccomp	color:blue
-1	Nahnnan	nahn	PRON	_	Case=Erg|Number=Sing|Person=2|PronType=Prs	13	nsubj	13:nsubj	_
-2	la	la	PART	_	_	13	discourse	13:discourse	_
-3	za	za	INTJ	_	_	13	discourse	13:discourse	_
-4	nahn	nahn	PRON	_	Number=Sing|Person=2|PronType=Prs	5	nmod:poss	5:nmod:poss	_
-5	baswe	basw	VERB	_	Aspect=Imp|Mood=Ind|Tense=Past|VerbForm=Fin	13	iobj	13:iobj	_
-6	CIAnahn	CIA	PROPN	_	Abbr=Yes|Case=Loc|Number=Sing	5	nmod	5:nmod	OrigLang=en
-7	dhohnphala	dhohn	NOUN	_	Aspect=Imp|Case=Dat|Number=Plur|VerbForm=Vnoun	5	appos	5:appos	_
-8	Anan	a	PRON	_	Case=Erg|Number=Sing|Person=1|PronType=Prs	9	nsubj	9:nsubj	_
-9	runge	rung	VERB	_	Aspect=Imp|Mood=Ind|Tense=Past|VerbForm=Fin	13	ccomp	13:ccomp	_
-10	di	di	SCONJ	NMLZ	_	9	mark	9:mark	_
-11	kathathahn	kathathahn	ADV	_	_	9	advmod	9:advmod	_
-12	re	re	PART	REP	_	9	mark	9:mark	_
-13	rungami	rungami	NOUN	_	Number=Sing	0	root	0:root	_
-14	raga	raga	AUX	HORT	Mood=Hrt	13	aux	13:aux	SpacesAfter=\n
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 9 ccomp	color:blue
+1	Nahnnan	nahn	PRON	_	Case=Erg|Number=Sing|Person=2|PronType=Prs	2	nsubj	2:nsubj	_
+2	rungedi	runge	NOUN	_	Aspect=Imp|Case=Top|Number=Sing	0	root	0:root	_
+3	Ava	a	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	4	nmod:poss	4:nmod:poss	_
+4	client	client	NOUN	_	Number=Sing	5	reparandum	5:reparandum	OrigLang=en
+5	banan	ba	PRON	_	Case=Erg|Number=Plur|Person=1|PronType=Prs	7	nmod	7:nmod	_
+6	makhwada	makhwa	NOUN	_	Case=Abl|Number=Sing	7	nmod	7:nmod	_
+7	runghapha	rungha	NOUN	_	Aspect=Imp|Number=Plur|Tense=Pqp|VerbForm=Vnoun	9	obj	9:obj	_
+8	di	di	SCONJ	NMLZ	_	7	mark	7:mark	_
+9	thema	the	VERB	_	Polarity=Neg|VerbForm=Inf	2	ccomp	2:ccomp	_
+10	ga	ga	AUX	_	Evident=Nfh	9	aux	9:aux	_
+11	reha	reha	PART	REP	_	9	mark	9:mark	_
+12	la	la	AUX	Q	Mood=Int	2	aux	2:aux	SpaceAfter=No
+13	?	?	PUNCT	_	_	2	punct	2:punct	_
 
 ~~~
 

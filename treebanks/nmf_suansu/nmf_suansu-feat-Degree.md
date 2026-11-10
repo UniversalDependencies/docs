@@ -37,7 +37,7 @@ The most frequent other feature values with which `VERB` and `Degree` co-occurre
 
 * `Cmp` (2; 50% of non-empty `Degree`): <em>szumahn, szumahnle</em>
 * `Pos` (2; 50% of non-empty `Degree`): <em>nungaikhama, phehnszuma</em>
-* `EMPTY` (630): <em>la, the, rung, yoan, phabtama, chari, mu, thaima, dhohnte, nue</em>
+* `EMPTY` (620): <em>la, the, rung, phabtama, yoan, chari, mu, thaima, dhohnte, nue</em>
 
 ### `ADV`
 
@@ -48,5 +48,5 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
 `ADV` tokens may have the following values of `Degree`:
 
 * `Cmp` (1; 100% of non-empty `Degree`): <em>szumahnnan</em>
-* `EMPTY` (192): <em>li, re, bathanahn, gare, dre, hano, reganan, szuraire, rai, daichu</em>
+* `EMPTY` (189): <em>li, re, bathanahn, gare, dre, hano, reganan, szuraire, daichu, rai</em>
 

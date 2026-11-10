@@ -22,7 +22,7 @@ The most frequent other feature values with which `VERB` and `Connegative` co-oc
 
 `VERB` tokens may have the following values of `Connegative`:
 
-* `Yes` (19; 100% of non-empty `Connegative`): <em>адззыв, аркмы, артав, артась, вöрзьöт, вежöрт, вежӧртӧ, вермы, видз, висьтав</em>
+* `Yes` (19; 100% of non-empty `Connegative`): <em>адззыв, аркмы, артав, артась, вежӧрт, вежӧртӧ, вермы, видз, висьтав, вӧрзьӧт</em>
 
 `Connegative` seems to be **lexical feature** of `VERB`. 100% lemmas (17) occur only with one value of `Connegative`.
 

@@ -45,7 +45,7 @@ The most frequent other feature values with which `VERB` and `Polarity` co-occur
 
 589 <tt><a href="cs_poetry-pos-ADJ.html">ADJ</a></tt> tokens (99% of all `ADJ` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `ADJ` and `Polarity` co-occurred: <tt><a href="cs_poetry-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (560; 95%), <tt><a href="cs_poetry-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (527; 89%), <tt><a href="cs_poetry-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (487; 83%), <tt><a href="cs_poetry-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (486; 83%), <tt><a href="cs_poetry-feat-Number.html">Number</a></tt><tt>=Sing</tt> (419; 71%), <tt><a href="cs_poetry-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (365; 62%).
+The most frequent other feature values with which `ADJ` and `Polarity` co-occurred: <tt><a href="cs_poetry-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (560; 95%), <tt><a href="cs_poetry-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (514; 87%), <tt><a href="cs_poetry-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (487; 83%), <tt><a href="cs_poetry-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (486; 83%), <tt><a href="cs_poetry-feat-Number.html">Number</a></tt><tt>=Sing</tt> (419; 71%), <tt><a href="cs_poetry-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (365; 62%).
 
 `ADJ` tokens may have the following values of `Polarity`:
 
@@ -105,7 +105,7 @@ The most frequent other feature values with which `ADV` and `Polarity` co-occurr
 
 * `Neg` (2; 2% of non-empty `Polarity`): <em>nehlučně, nerozborně</em>
 * `Pos` (107; 98% of non-empty `Polarity`): <em>Blaze, náhle, níž, dál, kol, volně, víc, dosti, dávno, hluboko</em>
-* `EMPTY` (294): <em>jak, kde, tak, tam, ještě, vždy, zas, tu, teď, zde</em>
+* `EMPTY` (296): <em>jak, tak, kde, tam, ještě, vždy, zas, tu, teď, zde</em>
 
 `Polarity` seems to be **lexical feature** of `ADV`. 100% lemmas (76) occur only with one value of `Polarity`.
 

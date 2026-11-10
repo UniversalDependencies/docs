@@ -9,30 +9,31 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `acl`: <tt><a href="pro_corag-dep-acl-relcl.html">acl:relcl</a></tt>.
 
-317 nodes (1%) are attached to their parents as `acl`.
+470 nodes (1%) are attached to their parents as `acl`.
 
-315 instances of `acl` (99%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.38170347003155.
+467 instances of `acl` (99%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.26382978723404.
 
-The following 12 pairs of parts of speech are connected with `acl`: <tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pro_corag-pos-VERB.html">VERB</a></tt> (262; 83% instances), <tt><a href="pro_corag-pos-PRON.html">PRON</a></tt>-<tt><a href="pro_corag-pos-VERB.html">VERB</a></tt> (25; 8% instances), <tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt> (12; 4% instances), <tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pro_corag-pos-ADJ.html">ADJ</a></tt> (6; 2% instances), <tt><a href="pro_corag-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pro_corag-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="pro_corag-pos-ADV.html">ADV</a></tt>-<tt><a href="pro_corag-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="pro_corag-pos-NUM.html">NUM</a></tt>-<tt><a href="pro_corag-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="pro_corag-pos-PRON.html">PRON</a></tt>-<tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="pro_corag-pos-ADV.html">ADV</a></tt>-<tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pro_corag-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="pro_corag-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pro_corag-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="pro_corag-pos-VERB.html">VERB</a></tt>-<tt><a href="pro_corag-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 12 pairs of parts of speech are connected with `acl`: <tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pro_corag-pos-VERB.html">VERB</a></tt> (413; 88% instances), <tt><a href="pro_corag-pos-PRON.html">PRON</a></tt>-<tt><a href="pro_corag-pos-VERB.html">VERB</a></tt> (27; 6% instances), <tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt> (13; 3% instances), <tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pro_corag-pos-ADJ.html">ADJ</a></tt> (6; 1% instances), <tt><a href="pro_corag-pos-ADV.html">ADV</a></tt>-<tt><a href="pro_corag-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="pro_corag-pos-NUM.html">NUM</a></tt>-<tt><a href="pro_corag-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="pro_corag-pos-PRON.html">PRON</a></tt>-<tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="pro_corag-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pro_corag-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="pro_corag-pos-ADV.html">ADV</a></tt>-<tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pro_corag-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="pro_corag-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pro_corag-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="pro_corag-pos-VERB.html">VERB</a></tt>-<tt><a href="pro_corag-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 4 acl	color:blue
-1	Quar	_	CCONJ	_	_	7	cc	_	_
-2	quascun	_	DET	_	_	3	det	_	_
-3	bayle	_	NOUN	_	_	7	nsubj	_	_
-4	succeden	_	VERB	_	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	3	acl	_	_
-5	ad	_	ADP	_	_	6	case	_	_
-6	etz	_	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	4	obl	_	_
-7	vouguo	_	VERB	_	Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
-8	haber	_	VERB	_	VerbForm=Inf	7	xcomp	_	_
-9	aqueras	_	PRON	_	Gender=Fem|Number=Plur|PronType=Dem	8	obj	_	SpaceAfter=No
-10	.	_	PUNCT	_	_	7	punct	_	_
+# visual-style 4 6 acl	color:blue
+1	mes	_	CCONJ	_	_	2	cc	_	_
+2	reserueran	_	VERB	_	Number=Plur|Person=3|VerbForm=Fin	0	root	_	_
+3	las	_	DET	_	_	4	det	_	_
+4	raisons	_	NOUN	_	_	2	obj	_	_
+5	à	_	ADP	_	_	6	mark	_	_
+6	diser	_	VERB	_	VerbForm=Inf	4	acl	_	_
+7	quand	_	SCONJ	_	_	8	mark	_	_
+8	viendra	_	VERB	_	Number=Sing|Person=3|VerbForm=Fin	2	advcl	_	_
+9	lor	_	DET	_	_	10	det	_	_
+10	opiniō	_	NOUN	_	_	8	nsubj	_	_
+11	.	_	PUNCT	_	_	2	punct	_	_
 
 ~~~
 

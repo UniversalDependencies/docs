@@ -21,7 +21,7 @@ The feature is used with 3 part-of-speech tags: <tt><a href="ko_gsd-pos-NUM.html
 `NUM` tokens may have the following values of `NumType`:
 
 * `Card` (531; 100% of non-empty `NumType`): 한, 두, 첫, 세, 하나, 1, 다섯, 하나는, 하나의, 네
-* `EMPTY` (317): 10, 60, 40, 30, 50, 100, 3, 3.3, 4, 0.5
+* `EMPTY` (318): 10, 60, 40, 30, 50, 100, 3, 3.3, 4, 0.5
 
 `NumType` seems to be **lexical feature** of `NUM`. 100% lemmas (216) occur only with one value of `NumType`.
 
@@ -38,10 +38,12 @@ The feature is used with 3 part-of-speech tags: <tt><a href="ko_gsd-pos-NUM.html
 
 2 <tt><a href="ko_gsd-pos-DET.html">DET</a></tt> tokens (0% of all `DET` tokens) have a non-empty value of `NumType`.
 
+The most frequent other feature values with which `DET` and `NumType` co-occurred: <tt><a href="ko_gsd-feat-PronType.html">PronType</a></tt><tt>=Ind</tt> (2; 100%).
+
 `DET` tokens may have the following values of `NumType`:
 
 * `Card` (2; 100% of non-empty `NumType`): 한
-* `EMPTY` (571): 이, 그, 몇, 모든, 각, 어떤, 어느, 이들, 약, 무슨
+* `EMPTY` (565): 이, 그, 몇, 모든, 각, 어떤, 어느, 이들, 약, 무슨
 
 ## Relations with Agreement in `NumType`
 

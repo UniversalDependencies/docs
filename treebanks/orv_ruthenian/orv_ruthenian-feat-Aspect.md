@@ -24,7 +24,7 @@ The most frequent other feature values with which `VERB` and `Aspect` co-occurre
 
 * `Imp` (4451; 48% of non-empty `Aspect`): <em>мають, мают(ь), маеть, держати, бил, давати, мает(ь), ведати, били, билъ</em>
 * `Perf` (4803; 52% of non-empty `Aspect`): <em>дали, дал, послали, записа(т), далъ, дати, записано, кꙋпил, поведил, потвердили</em>
-* `EMPTY` (2530): <em>казали, псан, жаловал, было, жаловали, были, сꙋдити, надобе, питали, писан</em>
+* `EMPTY` (2531): <em>казали, псан, жаловал, было, жаловали, были, сꙋдити, надобе, питали, писан</em>
 
 <table>
   <tr><th>Paradigm <i>держати</i></th><th><tt>Imp</tt></th><th><tt>Perf</tt></th></tr>
@@ -60,7 +60,7 @@ The most frequent other feature values with which `AUX` and `Aspect` co-occurred
 `AUX` tokens may have the following values of `Aspect`:
 
 * `Perf` (7; 100% of non-empty `Aspect`): <em>бы(въ)ши, бы(в)ши, бывъши</em>
-* `EMPTY` (2161): <em>есмо, бы, были, было, быти, будучи, был, есми, былъ, есте</em>
+* `EMPTY` (2160): <em>есмо, бы, были, было, быти, был, будучи, есми, былъ, есте</em>
 
 ## Relations with Agreement in `Aspect`
 

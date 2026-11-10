@@ -57,17 +57,17 @@ The 1st highest number of forms (22) was observed with the lemma “_”: 不, �
 
 ## Relations
 
-`ADV` nodes are attached to their parents using 4 different relations: <tt><a href="zh_patentchar-dep-advmod.html">advmod</a></tt> (65; 96% instances), <tt><a href="zh_patentchar-dep-dep.html">dep</a></tt> (1; 1% instances), <tt><a href="zh_patentchar-dep-obl.html">obl</a></tt> (1; 1% instances), <tt><a href="zh_patentchar-dep-parataxis.html">parataxis</a></tt> (1; 1% instances)
+`ADV` nodes are attached to their parents using 3 different relations: <tt><a href="zh_patentchar-dep-advmod.html">advmod</a></tt> (65; 96% instances), <tt><a href="zh_patentchar-dep-obl.html">obl</a></tt> (2; 3% instances), <tt><a href="zh_patentchar-dep-parataxis.html">parataxis</a></tt> (1; 1% instances)
 
-Parents of `ADV` nodes belong to 5 different parts of speech: <tt><a href="zh_patentchar-pos-VERB.html">VERB</a></tt> (40; 59% instances), <tt><a href="zh_patentchar-pos-NOUN.html">NOUN</a></tt> (17; 25% instances), <tt><a href="zh_patentchar-pos-ADJ.html">ADJ</a></tt> (8; 12% instances), <tt><a href="zh_patentchar-pos-DET.html">DET</a></tt> (2; 3% instances), <tt><a href="zh_patentchar-pos-PART.html">PART</a></tt> (1; 1% instances)
+Parents of `ADV` nodes belong to 4 different parts of speech: <tt><a href="zh_patentchar-pos-VERB.html">VERB</a></tt> (41; 60% instances), <tt><a href="zh_patentchar-pos-NOUN.html">NOUN</a></tt> (17; 25% instances), <tt><a href="zh_patentchar-pos-ADJ.html">ADJ</a></tt> (8; 12% instances), <tt><a href="zh_patentchar-pos-DET.html">DET</a></tt> (2; 3% instances)
 
-59 (87%) `ADV` nodes are leaves.
+58 (85%) `ADV` nodes are leaves.
 
-9 (13%) `ADV` nodes have one child.
+10 (15%) `ADV` nodes have one child.
 
 The highest child degree of a `ADV` node is 1.
 
-Children of `ADV` nodes are attached using 4 different relations: <tt><a href="zh_patentchar-dep-punct.html">punct</a></tt> (5; 56% instances), <tt><a href="zh_patentchar-dep-nsubj.html">nsubj</a></tt> (2; 22% instances), <tt><a href="zh_patentchar-dep-case.html">case</a></tt> (1; 11% instances), <tt><a href="zh_patentchar-dep-obj.html">obj</a></tt> (1; 11% instances)
+Children of `ADV` nodes are attached using 4 different relations: <tt><a href="zh_patentchar-dep-punct.html">punct</a></tt> (5; 50% instances), <tt><a href="zh_patentchar-dep-case.html">case</a></tt> (2; 20% instances), <tt><a href="zh_patentchar-dep-nsubj.html">nsubj</a></tt> (2; 20% instances), <tt><a href="zh_patentchar-dep-obj.html">obj</a></tt> (1; 10% instances)
 
-Children of `ADV` nodes belong to 3 different parts of speech: <tt><a href="zh_patentchar-pos-PUNCT.html">PUNCT</a></tt> (5; 56% instances), <tt><a href="zh_patentchar-pos-NOUN.html">NOUN</a></tt> (3; 33% instances), <tt><a href="zh_patentchar-pos-PART.html">PART</a></tt> (1; 11% instances)
+Children of `ADV` nodes belong to 3 different parts of speech: <tt><a href="zh_patentchar-pos-PUNCT.html">PUNCT</a></tt> (5; 50% instances), <tt><a href="zh_patentchar-pos-NOUN.html">NOUN</a></tt> (3; 30% instances), <tt><a href="zh_patentchar-pos-PART.html">PART</a></tt> (2; 20% instances)
 

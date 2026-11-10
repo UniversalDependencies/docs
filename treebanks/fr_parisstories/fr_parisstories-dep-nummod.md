@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-159 nodes (0%) are attached to their parents as `nummod`.
+142 nodes (0%) are attached to their parents as `nummod`.
 
-155 instances of `nummod` (97%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.11949685534591.
+142 instances of `nummod` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.16197183098592.
 
-The following 3 pairs of parts of speech are connected with `nummod`: <tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_parisstories-pos-NUM.html">NUM</a></tt> (156; 98% instances), <tt><a href="fr_parisstories-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_parisstories-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="fr_parisstories-pos-X.html">X</a></tt>-<tt><a href="fr_parisstories-pos-NUM.html">NUM</a></tt> (1; 1% instances).
+The following 2 pairs of parts of speech are connected with `nummod`: <tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_parisstories-pos-NUM.html">NUM</a></tt> (140; 99% instances), <tt><a href="fr_parisstories-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_parisstories-pos-NUM.html">NUM</a></tt> (2; 1% instances).
 
 
 ~~~ conllu
@@ -66,26 +66,6 @@ The following 3 pairs of parts of speech are connected with `nummod`: <tt><a hre
 24	marques	marque	NOUN	_	Gender=Fem|Number=Plur	22	obj	_	Exponence[Gender]=Inherent|Exponence[Number]=Absent
 25	etc	etc	ADV	_	_	24	conj	_	SpaceAfter=No|wordform=etcétéra
 26	.	.	PUNCT	_	_	10	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 1 nummod	color:blue
-1	quatre-vingt	quatre-vingt	NUM	_	_	2	nummod	_	AlignBegin=58217|AlignEnd=58590
-2	s~	s~	X	_	_	7	reparandum	_	AlignBegin=58590|AlignEnd=58963|SpaceAfter=No
-3	,	,	PUNCT	_	_	4	punct	_	AlignBegin=58963|AlignEnd=58963
-4	euh	euh	INTJ	_	_	2	discourse	_	AlignBegin=58963|AlignEnd=59337|SpaceAfter=No
-5	,	,	PUNCT	_	_	2	punct	_	AlignBegin=59337|AlignEnd=59337
-6	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	AlignBegin=59337|AlignEnd=59710|HasSpokenGender=OnlySingExceptWithLiaison
-7	génération	génération	NOUN	_	Gender=Fem|Number=Sing	0	root	_	AlignBegin=59710|AlignEnd=60083|Exponence[Gender]=Inherent|Exponence[Number]=Absent|SpaceAfter=No
-8	,	,	PUNCT	_	_	9	punct	_	AlignBegin=60083|AlignEnd=60083
-9	euh	euh	INTJ	_	_	7	discourse	_	AlignBegin=60083|AlignEnd=60456
-10	…	…	PUNCT	_	_	7	punct	_	AlignBegin=60456|AlignEnd=60456
 
 ~~~
 

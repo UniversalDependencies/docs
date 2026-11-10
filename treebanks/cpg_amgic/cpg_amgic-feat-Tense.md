@@ -24,7 +24,7 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 * `Fut` (4; 4% of non-empty `Tense`): <em>eleísis, pári, páru, vlépis</em>
 * `Past` (45; 45% of non-empty `Tense`): <em>eksévin, qazánǰisi, írten, írtis, Ksevasám', Ránsen, dilimléisam', déken, emóšh, eršinónǰiska</em>
-* `Pres` (52; 51% of non-empty `Tense`): <em>laí, gréviz, leχ, éršiti, éχu, (é)rχete, Rotá, cimáse, drúte, düšünǰísu</em>
+* `Pres` (52; 51% of non-empty `Tense`): <em>laí, gréviz, leχ, éršiti, éχu, (é)rχete, Rotá, cimáse, dróte, düšünǰísu</em>
 * `EMPTY` (30): <em>kásun, sikoθún, baγərdά, baγərtzísi, bári, báris, erzí, galatzépši, galaǰévγi, kašinónǰiska</em>
 
 <table>

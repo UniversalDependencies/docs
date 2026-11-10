@@ -10,7 +10,7 @@ This feature is universal.
 It occurs with 7 different values: `Acc`, `Dat`, `Gen`, `Ins`, `Loc`, `Nom`, `Voc`.
 
 157065 tokens (45%) have a non-empty value of `Case`.
-49703 types (82%) occur at least once with a non-empty value of `Case`.
+49702 types (82%) occur at least once with a non-empty value of `Case`.
 23589 lemmas (85%) occur at least once with a non-empty value of `Case`.
 The feature is used with 7 part-of-speech tags: <tt><a href="pl_pdb-pos-NOUN.html">NOUN</a></tt> (87133; 25% instances), <tt><a href="pl_pdb-pos-ADJ.html">ADJ</a></tt> (35593; 10% instances), <tt><a href="pl_pdb-pos-PROPN.html">PROPN</a></tt> (11685; 3% instances), <tt><a href="pl_pdb-pos-PRON.html">PRON</a></tt> (10604; 3% instances), <tt><a href="pl_pdb-pos-DET.html">DET</a></tt> (9348; 3% instances), <tt><a href="pl_pdb-pos-NUM.html">NUM</a></tt> (2633; 1% instances), <tt><a href="pl_pdb-pos-ADP.html">ADP</a></tt> (69; 0% instances).
 
@@ -53,7 +53,7 @@ The most frequent other feature values with which `ADJ` and `Case` co-occurred: 
 * `Loc` (4487; 13% of non-empty `Case`): <em>czerwonej, jednym, sportowym, jednej, samym, czarnym, całym, innych, czerwonym, białej</em>
 * `Nom` (11057; 31% of non-empty `Case`): <em>jeden, sam, jedna, inne, mały, drugi, pierwszy, sama, europejska, członkowskie</em>
 * `Voc` (20; 0% of non-empty `Case`): <em>droga, szanowny, głupi, młody, Drodzy, Nowy, Wspaniaty, Wysoki, dobrzy, duży</em>
-* `EMPTY` (333): <em>czarno, św, biało, polsko, czerwono, południowo, żółto, brązowo, gotów, budowlano</em>
+* `EMPTY` (361): <em>tzw, czarno, św, biało, polsko, czerwono, południowo, żółto, brązowo, gotów</em>
 
 <table>
   <tr><th>Paradigm <i>duży</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Voc</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th></tr>
@@ -200,13 +200,13 @@ The most frequent other feature values with which `ADP` and `Case` co-occurred: 
 `ADP` tokens may have the following values of `Case`:
 
 * `Acc` (69; 100% of non-empty `Case`): <em>temu</em>
-* `EMPTY` (37090): <em>w, na, z, do, o, po, za, od, przez, dla</em>
+* `EMPTY` (37097): <em>w, na, z, do, o, po, za, od, przez, dla</em>
 
 ## Relations with Agreement in `Case`
 
 The 10 most frequent relations where parent and child node agree in `Case`:
 <tt>NOUN --[<tt><a href="pl_pdb-dep-amod.html">amod</a></tt>]--> ADJ</tt> (26204; 98%),
-<tt>NOUN --[<tt><a href="pl_pdb-dep-conj.html">conj</a></tt>]--> NOUN</tt> (5315; 96%),
+<tt>NOUN --[<tt><a href="pl_pdb-dep-conj.html">conj</a></tt>]--> NOUN</tt> (5313; 96%),
 <tt>NOUN --[<tt><a href="pl_pdb-dep-det.html">det</a></tt>]--> DET</tt> (3868; 99%),
 <tt>PROPN --[<tt><a href="pl_pdb-dep-flat.html">flat</a></tt>]--> PROPN</tt> (1747; 90%),
 <tt>NOUN --[<tt><a href="pl_pdb-dep-det-poss.html">det:poss</a></tt>]--> DET</tt> (1659; 100%),

@@ -9,10 +9,10 @@ udver: '2'
 This feature is language-specific.
 It occurs with 5 different values: `ADJ`, `ADP`, `ADV`, `CCONJ`, `SCONJ`.
 
-9628 tokens (0%) have a non-empty value of `ExtPos`.
-125 types (0%) occur at least once with a non-empty value of `ExtPos`.
+10546 tokens (0%) have a non-empty value of `ExtPos`.
+127 types (0%) occur at least once with a non-empty value of `ExtPos`.
 72 lemmas (0%) occur at least once with a non-empty value of `ExtPos`.
-The feature is used with 9 part-of-speech tags: <tt><a href="cs_pdtc-pos-ADP.html">ADP</a></tt> (6425; 0% instances), <tt><a href="cs_pdtc-pos-CCONJ.html">CCONJ</a></tt> (1784; 0% instances), <tt><a href="cs_pdtc-pos-ADV.html">ADV</a></tt> (831; 0% instances), <tt><a href="cs_pdtc-pos-NOUN.html">NOUN</a></tt> (201; 0% instances), <tt><a href="cs_pdtc-pos-PART.html">PART</a></tt> (172; 0% instances), <tt><a href="cs_pdtc-pos-DET.html">DET</a></tt> (147; 0% instances), <tt><a href="cs_pdtc-pos-X.html">X</a></tt> (56; 0% instances), <tt><a href="cs_pdtc-pos-VERB.html">VERB</a></tt> (9; 0% instances), <tt><a href="cs_pdtc-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances).
+The feature is used with 9 part-of-speech tags: <tt><a href="cs_pdtc-pos-ADP.html">ADP</a></tt> (6425; 0% instances), <tt><a href="cs_pdtc-pos-CCONJ.html">CCONJ</a></tt> (1784; 0% instances), <tt><a href="cs_pdtc-pos-ADV.html">ADV</a></tt> (1749; 0% instances), <tt><a href="cs_pdtc-pos-NOUN.html">NOUN</a></tt> (201; 0% instances), <tt><a href="cs_pdtc-pos-PART.html">PART</a></tt> (172; 0% instances), <tt><a href="cs_pdtc-pos-DET.html">DET</a></tt> (147; 0% instances), <tt><a href="cs_pdtc-pos-X.html">X</a></tt> (56; 0% instances), <tt><a href="cs_pdtc-pos-VERB.html">VERB</a></tt> (9; 0% instances), <tt><a href="cs_pdtc-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances).
 
 ### `ADP`
 
@@ -38,14 +38,14 @@ The most frequent other feature values with which `ADP` and `ExtPos` co-occurred
 
 ### `ADV`
 
-831 <tt><a href="cs_pdtc-pos-ADV.html">ADV</a></tt> tokens (1% of all `ADV` tokens) have a non-empty value of `ExtPos`.
+1749 <tt><a href="cs_pdtc-pos-ADV.html">ADV</a></tt> tokens (1% of all `ADV` tokens) have a non-empty value of `ExtPos`.
 
-The most frequent other feature values with which `ADV` and `ExtPos` co-occurred: <tt><a href="cs_pdtc-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (830; 100%), <tt><a href="cs_pdtc-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (446; 54%), <tt><a href="cs_pdtc-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (446; 54%).
+The most frequent other feature values with which `ADV` and `ExtPos` co-occurred: <tt><a href="cs_pdtc-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (1748; 100%), <tt><a href="cs_pdtc-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (1255; 72%), <tt><a href="cs_pdtc-feat-Degree.html">Degree</a></tt><tt>=Cmp</tt> (1073; 61%).
 
 `ADV` tokens may have the following values of `ExtPos`:
 
-* `ADP` (664; 80% of non-empty `ExtPos`): <em>spolu, společně, co, nezávisle, současně, zároveň, blíž, souběžně, blíže, kolem</em>
-* `ADV` (163; 20% of non-empty `ExtPos`): <em>více, nejen, víc, co, méně</em>
+* `ADP` (664; 38% of non-empty `ExtPos`): <em>spolu, společně, co, nezávisle, současně, zároveň, blíž, souběžně, blíže, kolem</em>
+* `ADV` (1081; 62% of non-empty `ExtPos`): <em>více, méně, víc, nejen, co</em>
 * `CCONJ` (2; 0% of non-empty `ExtPos`): <em>neřku</em>
 * `SCONJ` (2; 0% of non-empty `ExtPos`): <em>poté, zatím</em>
 

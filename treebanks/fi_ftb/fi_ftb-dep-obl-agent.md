@@ -45,7 +45,7 @@ The following 5 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 6	herkästi	herkästi	ADV	Adv	_	4	advmod	_	_
 7	ja	ja	CCONJ	Pcle,CC	_	8	cc	_	_
 8	kauniisti	kauniisti	ADV	Adv	_	6	conj	_	_
-9	.	.	PUNCT	Pun	_	8	punct	_	_
+9	.	.	PUNCT	Pun	_	4	punct	_	_
 
 ~~~
 

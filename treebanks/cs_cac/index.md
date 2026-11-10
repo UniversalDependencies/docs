@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.3 release.
 The following people have contributed to making this treebank part of UD: Barbora Hladká, Daniel Zeman.
 
 Repository: [UD_Czech-CAC](https://github.com/UniversalDependencies/UD_Czech-CAC)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udcs_cac218)<br />
-Download all treebanks: [UD 2.18](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udcs_cac219)<br />
+Download all treebanks: [UD 2.19](/#download)
 
 License: CC BY-SA 4.0
 
@@ -233,7 +233,7 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
       <li>DET: které, která, této, své, naší, tato, svou, tyto, kterou, tuto</li>
       <li>NOUN: práce, práci, oblasti, době, společnosti, činnosti, výroby, teorie, organizace, strany</li>
       <li>NOUN-Vnoun: shromažďování</li>
-      <li>NUM: jedné, jednu, jedna, jednou, třetinu, třetina, třetiny, čtvrtiny, dvanáctinu, třetinou</li>
+      <li>NUM: jedné, jednu, jedna, jednou, dvěma, oběma</li>
       <li>PRON: ji, všechny, níž, ní, jí, jež, ni, veškeré, jíž, veškerou</li>
       <li>PROPN: KSČ, Praze, Praha, ČSAV, ČSSR, SSM, Škoda, Prahy, ČSR, NDR</li>
       <li>VERB-Conv: Počínajíc, chtíc, nechtíc, ponechávajíc, přejímajíc</li>
@@ -444,7 +444,7 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
       <li>DET: tomu, tomuto, této, kterým, těmto, svému, těm, každému, některým, jejímu</li>
       <li>NOUN: pracovníkům, práci, dispozici, výročí, lidem, řešení, dětem, rozvoji, zlepšení, skutečnosti</li>
       <li>NOUN-Vnoun: řešení, zlepšení, plnění, povstání, poznání, zajištění, zabezpečení, pojetí, splnění, vedení</li>
-      <li>NUM: jednomu, oběma, jedné, dvěma, třetině, šestině, jedenácti, osmi, pár, pěti</li>
+      <li>NUM: jednomu, oběma, jedné, dvěma, jedenácti, osmi, pár, pěti, sedmi, třem</li>
       <li>PRON: si, nám, jim, mu, mi, vám, všem, nim, jí, sobě</li>
       <li>PROPN: Erbenovi, Karlu, Pasákovi, Vietnamu, Zemi, Františku, Fučíkovi, Ivo, Janu, Křikavové</li>
     </ul>
@@ -649,7 +649,8 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
 <ul>
   <li>Imp
     <ul>
-      <li>ADJ-Part: pracujících, rozhodující, pracující, vedoucí, odpovídající, následující, věnována, řídící, týkající, budoucí</li>
+      <li>ADJ: pracujících, rozhodující, pracující, vedoucí, odpovídající, plánovaných, následující, věnována, řídící, týkající</li>
+      <li>ADJ-Part: pracujících, rozhodující, pracující, vedoucí, odpovídající, plánovaných, následující, věnována, řídící, týkající</li>
       <li>AUX-Conv: byvše, jsouc, jsouce</li>
       <li>AUX-Fin: je, jsou, by, bude, není, jsme, jsem, budou, bychom, nejsou</li>
       <li>AUX-Inf: být, býti, nebýt</li>
@@ -657,9 +658,20 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
       <li>CCONJ: buď</li>
       <li>NOUN: tváří</li>
       <li>VERB-Conv: počínaje, nemluvě, nevyjímaje, říkajíc, Chráníce, Počínajíc, chtíc, dožívaje, klusaje, konče</li>
-      <li>VERB-Fin: patří, tvoří, znamená, odpovídá, stává, mění, představuje, dochází, ukazuje, říká</li>
-      <li>VERB-Inf: dělat, řešit, věnovat, provádět, pracovat, sledovat, používat, rozvíjet, vytvářet, považovat</li>
-      <li>VERB-Part: zabýval, pracoval, pracovali, konal, pracovalo, snažili, hovořil, pokračovalo, sloužila, znamenalo</li>
+      <li>VERB-Fin: má, mají, musí, může, jde, lze, mohou, můžeme, patří, nelze</li>
+      <li>VERB-Inf: mít, vidět, dělat, řešit, věnovat, provádět, pracovat, sledovat, používat, rozvíjet</li>
+      <li>VERB-Part: měl, měla, mohli, mohl, měli, měly, mělo, chtěl, mohla, mohly</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Imp,Perf
+    <ul>
+      <li>ADJ-Part: specializovaných, charakterizována, charakterizovány, kvalifikovaných, orientované, charakterizován, realizována, specializované, orientovaná, orientovaných</li>
+      <li>VERB-Fin: charakterizuje, realizuje, charakterizují, konstatuje, organizuje, realizují, orientují, jmenuje, jmenujeme, modifikují</li>
+      <li>VERB-Inf: realizovat, charakterizovat, organizovat, definovat, konstatovat, aplikovat, orientovat, formulovat, jmenovat, redukovat</li>
+      <li>VERB-Part: informoval, jmenoval, formuloval, informovala, informovali, izoloval, publikovali, konstatoval, realizoval, realizovaly</li>
     </ul>
   </li>
 </ul>
@@ -667,13 +679,14 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
 <ul>
   <li>Perf
     <ul>
-      <li>ADJ-Part: splněny, zahájena, založena, splněn, stanovena, spojeno, spojeny, stanoveny, vybudována, připraveny</li>
+      <li>ADJ: uvedených, uvedené, řečeno, dané, dosaženo, spojené, daného, spojených, dána, provedena</li>
+      <li>ADJ-Part: uvedených, uvedené, řečeno, dosaženo, spojené, dána, provedena, spojených, uvedeny, získaných</li>
       <li>NOUN: oprav, vyhovění</li>
       <li>NOUN-Vnoun: vyhovění</li>
       <li>VERB-Conv: vyměně</li>
-      <li>VERB-Fin: stanoví, viz, objeví, zajistí, vytvoří, umožní, uskuteční, spotřebuje, připraví, vznikne</li>
-      <li>VERB-Inf: zajistit, vytvořit, vyjádřit, vysvětlit, získat, splnit, odstranit, poskytnout, udělat, zabezpečit</li>
-      <li>VERB-Part: podařilo, vznikl, zdůraznil, vznikly, projevilo, zúčastnilo, postavili, vznikla, objevil, získal</li>
+      <li>VERB-Fin: stojí, dá, dojde, stanoví, viz, nedá, objeví, stane, přijde, zajistí</li>
+      <li>VERB-Inf: zajistit, říci, použít, dosáhnout, stát, vytvořit, vyjádřit, vysvětlit, uvést, získat</li>
+      <li>VERB-Part: došlo, řekl, podařilo, stal, ukázal, stalo, dostal, stala, dal, dosáhl</li>
     </ul>
   </li>
 </ul>
@@ -865,14 +878,6 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
     <ul>
       <li>DET: několik, mnoho, několika, mnoha, kolik, tolik, málo, nejeden, mála, nejednom</li>
       <li>NUM: #, dvou, jeden, dvě, tři, dva, obou, jedné, jednoho, jedním</li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
-  <li>Frac
-    <ul>
-      <li>NUM: třetinu, třetina, třetiny, čtvrtiny, dvanáctinu, třetinou, třetině, šestině, desetin, desetinu</li>
     </ul>
   </li>
 </ul>
@@ -1089,7 +1094,7 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
       </li>
       <li>ADV
         <ul>
-          <li>ADV: co, nejen, stejně</li>
+          <li>ADV: více, co, víc, nejen, stejně</li>
           <li>NOUN: rok, večer</li>
           <li>PART: přece</li>
           <li>VERB-Conv: chtíc</li>
@@ -1356,11 +1361,11 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
     <ul>
       <li>VERB-Fin--NOUN (28)</li>
       <li>VERB-Fin--NOUN-Acc (34)</li>
-      <li>VERB-Fin--NOUN-Gen (113)</li>
+      <li>VERB-Fin--NOUN-Gen (115)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(kolem) (3)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(na) (2)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(přes) (3)</li>
-      <li>VERB-Fin--NOUN-Nom (7654)</li>
+      <li>VERB-Fin--NOUN-Nom (7660)</li>
       <li>VERB-Fin--PRON (28)</li>
       <li>VERB-Fin--PRON-Acc (3)</li>
       <li>VERB-Fin--PRON-Dat (1)</li>
@@ -1396,15 +1401,15 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Conv--NOUN-Gen (1)</li>
       <li>VERB-Conv--PRON-Acc (1)</li>
       <li>VERB-Fin--NOUN (3)</li>
-      <li>VERB-Fin--NOUN-Acc (5619)</li>
-      <li>VERB-Fin--NOUN-Gen (149)</li>
+      <li>VERB-Fin--NOUN-Acc (5624)</li>
+      <li>VERB-Fin--NOUN-Gen (151)</li>
       <li>VERB-Fin--NOUN-Nom (85)</li>
       <li>VERB-Fin--PRON (18)</li>
       <li>VERB-Fin--PRON-Acc (629)</li>
       <li>VERB-Fin--PRON-Gen (4)</li>
       <li>VERB-Fin--PRON-Nom (6)</li>
       <li>VERB-Inf--NOUN (5)</li>
-      <li>VERB-Inf--NOUN-Acc (3542)</li>
+      <li>VERB-Inf--NOUN-Acc (3544)</li>
       <li>VERB-Inf--NOUN-Gen (34)</li>
       <li>VERB-Inf--NOUN-Gen-ADP(z) (1)</li>
       <li>VERB-Inf--NOUN-Nom (23)</li>
@@ -1413,8 +1418,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--PRON-Gen (2)</li>
       <li>VERB-Inf--PRON-Nom (1)</li>
       <li>VERB-Part--NOUN (20)</li>
-      <li>VERB-Part--NOUN-Acc (2814)</li>
-      <li>VERB-Part--NOUN-Gen (124)</li>
+      <li>VERB-Part--NOUN-Acc (2815)</li>
+      <li>VERB-Part--NOUN-Gen (125)</li>
       <li>VERB-Part--NOUN-Nom (14)</li>
       <li>VERB-Part--PRON (16)</li>
       <li>VERB-Part--PRON-Acc (383)</li>

@@ -68,7 +68,7 @@ The 10 most frequent ambiguous types:  <em>one</em> (<tt><a href="en_childes-pos
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.025000 (the average of all parts of speech is 1.232942).
+The form / lemma ratio of `NUM` is 1.025000 (the average of all parts of speech is 1.233097).
 
 The 1st highest number of forms (2) was observed with the lemma “three”: <em>free, three</em>.
 

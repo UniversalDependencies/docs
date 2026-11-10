@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Phrygian-KUL: POS Tags: `PART`
 
-There are 4 `PART` lemmas (1%), 14 `PART` types (2%) and 88 `PART` tokens (5%).
+There are 4 `PART` lemmas (1%), 14 `PART` types (1%) and 88 `PART` tokens (4%).
 Out of 16 observed tags, the rank of `PART` is: 13 in number of lemmas, 13 in number of types and 10 in number of tokens.
 
 The 10 most frequent `PART` lemmas: <em>ni, τος, me2, υ</em>
 
 The 10 most frequent `PART` types:  <em>νι, του, [νι, με, τι, το, ν[ι, ν̣[ι, ν̣ι̣, τ[ο]υ</em>
 
-The 10 most frequent ambiguous lemmas: <em>τος</em> (<tt><a href="xpg_kul-pos-PART.html">PART</a></tt> 14, <tt><a href="xpg_kul-pos-PRON.html">PRON</a></tt> 12, <tt><a href="xpg_kul-pos-DET.html">DET</a></tt> 5), <em>me2</em> (<tt><a href="xpg_kul-pos-PART.html">PART</a></tt> 3, <tt><a href="xpg_kul-pos-ADV.html">ADV</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>τος</em> (<tt><a href="xpg_kul-pos-PART.html">PART</a></tt> 14, <tt><a href="xpg_kul-pos-PRON.html">PRON</a></tt> 13, <tt><a href="xpg_kul-pos-DET.html">DET</a></tt> 5), <em>me2</em> (<tt><a href="xpg_kul-pos-PART.html">PART</a></tt> 3, <tt><a href="xpg_kul-pos-ADV.html">ADV</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>με</em> (<tt><a href="xpg_kul-pos-ADP.html">ADP</a></tt> 14, <tt><a href="xpg_kul-pos-PART.html">PART</a></tt> 3, <tt><a href="xpg_kul-pos-ADV.html">ADV</a></tt> 1), <em>τι</em> (<tt><a href="xpg_kul-pos-PROPN.html">PROPN</a></tt> 13, <tt><a href="xpg_kul-pos-DET.html">DET</a></tt> 2, <tt><a href="xpg_kul-pos-PART.html">PART</a></tt> 2)
 
@@ -29,7 +29,7 @@ The 10 most frequent ambiguous types:  <em>με</em> (<tt><a href="xpg_kul-pos-A
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 3.500000 (the average of all parts of speech is 2.442308).
+The form / lemma ratio of `PART` is 3.500000 (the average of all parts of speech is 2.307512).
 
 The 1st highest number of forms (7) was observed with the lemma “τος”: <em>τ[ο]υ, τ[ου], τ̣ο, τι, το, του, του]</em>.
 

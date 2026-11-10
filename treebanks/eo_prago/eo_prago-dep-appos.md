@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-17 nodes (1%) are attached to their parents as `appos`.
+27 nodes (1%) are attached to their parents as `appos`.
 
-17 instances of `appos` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.70588235294118.
+27 instances of `appos` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.2962962962963.
 
-The following 5 pairs of parts of speech are connected with `appos`: <tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt> (13; 76% instances), <tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eo_prago-pos-ADJ.html">ADJ</a></tt> (1; 6% instances), <tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eo_prago-pos-PROPN.html">PROPN</a></tt> (1; 6% instances), <tt><a href="eo_prago-pos-PRON.html">PRON</a></tt>-<tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt> (1; 6% instances), <tt><a href="eo_prago-pos-PROPN.html">PROPN</a></tt>-<tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt> (1; 6% instances).
+The following 7 pairs of parts of speech are connected with `appos`: <tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt> (20; 74% instances), <tt><a href="eo_prago-pos-PRON.html">PRON</a></tt>-<tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt> (2; 7% instances), <tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eo_prago-pos-ADJ.html">ADJ</a></tt> (1; 4% instances), <tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eo_prago-pos-PRON.html">PRON</a></tt> (1; 4% instances), <tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eo_prago-pos-PROPN.html">PROPN</a></tt> (1; 4% instances), <tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eo_prago-pos-VERB.html">VERB</a></tt> (1; 4% instances), <tt><a href="eo_prago-pos-PROPN.html">PROPN</a></tt>-<tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt> (1; 4% instances).
 
 
 ~~~ conllu
@@ -46,6 +46,71 @@ The following 5 pairs of parts of speech are connected with `appos`: <tt><a href
 
 
 ~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 3 appos	color:blue
+1	Ni	ni	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	14	nsubj	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	anoj	ano	NOUN	_	Case=Nom|Number=Plur	1	appos	_	_
+4	de	de	ADP	_	_	7	case	_	_
+5	la	la	DET	_	Definite=Def|PronType=Art	7	det	_	_
+6	tutmonda	tutmonda	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	7	amod	_	_
+7	movado	movado	NOUN	_	Case=Nom|Number=Sing	3	nmod	_	_
+8	por	por	ADP	_	_	10	case	_	_
+9	la	la	DET	_	Definite=Def|PronType=Art	10	det	_	_
+10	progresigo	progresigo	NOUN	_	Case=Nom|Number=Sing	7	nmod	_	_
+11	de	de	ADP	_	_	12	case	_	_
+12	Esperanto	Esperanto	PROPN	_	Case=Nom|Number=Sing	10	nmod	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	14	punct	_	_
+14	direktas	direkti	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
+15	ĉi	ĉi	PART	_	_	16	advmod	_	_
+16	tiun	tiu	DET	_	Case=Acc|Number=Sing|PronType=Dem	17	det	_	_
+17	manifeston	manifesto	NOUN	_	Case=Acc|Number=Sing	14	obj	_	_
+18	al	al	ADP	_	_	20	case	_	_
+19	ĉiuj	ĉiu	DET	_	Case=Nom|Number=Plur|PronType=Tot	20	det	_	_
+20	registaroj	registaro	NOUN	_	Case=Nom|Number=Plur	14	obl	_	SpaceAfter=No
+21	,	,	PUNCT	_	_	23	punct	_	_
+22	internaciaj	internacia	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	23	amod	_	_
+23	organizaĵoj	organizaĵo	NOUN	_	Case=Nom|Number=Plur	20	conj	_	SpaceAfter=No
+24	,	,	PUNCT	_	_	26	punct	_	_
+25	kaj	kaj	CCONJ	_	_	26	cc	_	_
+26	homoj	homo	NOUN	_	Case=Nom|Number=Plur	23	conj	_	_
+27	de	de	ADP	_	_	29	case	_	_
+28	bona	bona	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	29	amod	_	_
+29	volo	volo	NOUN	_	Case=Nom|Number=Sing	26	nmod	_	SpaceAfter=No
+30	,	,	PUNCT	_	_	31	punct	_	_
+31	deklaras	deklari	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	14	conj	_	_
+32	nian	ni	PRON	_	Case=Acc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	33	nmod:poss	_	_
+33	intencon	intenco	NOUN	_	Case=Acc|Number=Sing	31	obj	_	_
+34	firmvole	firmvole	ADV	_	_	36	advmod	_	_
+35	plu	plu	ADV	_	_	36	advmod	_	_
+36	labori	labori	VERB	_	VerbForm=Inf	33	acl	_	_
+37	por	por	ADP	_	_	39	case	_	_
+38	la	la	DET	_	Definite=Def|PronType=Art	39	det	_	_
+39	celoj	celo	NOUN	_	Case=Nom|Number=Plur	36	obl	_	_
+40	ĉi	ĉi	PART	_	_	42	advmod	_	_
+41	tie	tie	ADV	_	_	42	advmod	_	_
+42	esprimitaj	esprimi	VERB	_	Case=Nom|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	39	acl	_	SpaceAfter=No
+43	,	,	PUNCT	_	_	45	punct	_	_
+44	kaj	kaj	CCONJ	_	_	45	cc	_	_
+45	invitas	inviti	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	31	conj	_	_
+46	ĉiun	ĉiu	DET	_	Case=Acc|Number=Sing|PronType=Tot	48	det	_	_
+47	unuopan	unuopa	ADJ	_	Case=Acc|Degree=Pos|Number=Sing	48	amod	_	_
+48	organizaĵon	organizaĵo	NOUN	_	Case=Acc|Number=Sing	45	obj	_	_
+49	kaj	kaj	CCONJ	_	_	50	cc	_	_
+50	homon	homo	NOUN	_	Case=Acc|Number=Sing	48	conj	_	_
+51	aliĝi	aliĝi	VERB	_	VerbForm=Inf	45	xcomp	_	_
+52	al	al	ADP	_	_	54	case	_	_
+53	nia	ni	PRON	_	Case=Nom|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	54	nmod:poss	_	_
+54	strebado	strebado	NOUN	_	Case=Nom|Number=Sing	51	obl	_	SpaceAfter=No
+55	.	.	PUNCT	_	_	14	punct	_	_
+
+~~~
+
+
+~~~ conllu
 # visual-style 129	bgColor:blue
 # visual-style 129	fgColor:white
 # visual-style 127	bgColor:blue
@@ -69,7 +134,7 @@ The following 5 pairs of parts of speech are connected with `appos`: <tt><a href
 16	liberkredanoj	liberkredanoj	NOUN	_	Case=Nom|Number=Plur	14	nmod	_	SpaceAfter=No
 17	,	,	PUNCT	_	_	22	punct	_	_
 18	al	al	ADP	_	_	19	case	_	_
-19	kiu	kiu	PRON	_	Case=Nom|Number=Sing|PronType=Rel	22	nmod	_	_
+19	kiu	kiu	PRON	_	Case=Nom|Number=Sing|PronType=Rel	22	obl	_	_
 20	mi	mi	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	22	nsubj	_	_
 21	povos	povi	AUX	_	Mood=Ind|Tense=Fut|VerbForm=Fin	22	aux	_	_
 22	aliĝi	aliĝi	VERB	_	VerbForm=Inf	14	acl:relcl	_	_
@@ -102,7 +167,7 @@ The following 5 pairs of parts of speech are connected with `appos`: <tt><a href
 49	mian	mia	PRON	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	50	nmod:poss	_	_
 50	posteularon	posteularo	NOUN	_	Case=Acc|Number=Sing	48	obj	_	_
 51	kontraŭ	kontraŭ	ADP	_	_	52	case	_	_
-52	senprogrameco	senprogrameco	NOUN	_	Case=Nom|Number=Sing	48	nmod	_	_
+52	senprogrameco	senprogrameco	NOUN	_	Case=Nom|Number=Sing	48	obl	_	_
 53	kaj	kaj	CCONJ	_	_	56	cc	_	_
 54	konsekvence	konsekvence	ADV	_	_	56	advmod	_	_
 55	kontraŭ	kontraŭ	ADP	_	_	56	case	_	_
@@ -115,9 +180,9 @@ The following 5 pairs of parts of speech are connected with `appos`: <tt><a href
 62	devas	devi	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	63	aux	_	_
 63	aliĝi	aliĝi	VERB	_	VerbForm=Inf	0	root	_	_
 64	al	al	ADP	_	_	67	case	_	_
-65	tiu	tiu	DET	_	Case=Nom|Number=Sing|PronType=Dem	63	nmod	_	_
+65	tiu	tiu	DET	_	Case=Nom|Number=Sing|PronType=Dem	67	det	_	_
 66	liberkreda	liberkreda	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	67	amod	_	_
-67	komunumo	komunumo	NOUN	_	Case=Nom|Number=Sing	63	nmod	_	_
+67	komunumo	komunumo	NOUN	_	Case=Nom|Number=Sing	63	obl	_	_
 68	tute	tute	ADV	_	_	69	advmod	_	_
 69	oficiale	oficiale	ADV	_	_	63	advmod	_	_
 70	kaj	kaj	CCONJ	_	_	71	cc	_	_
@@ -125,7 +190,7 @@ The following 5 pairs of parts of speech are connected with `appos`: <tt><a href
 72	kaj	kaj	CCONJ	_	_	73	cc	_	_
 73	akcepti	akcepti	VERB	_	VerbForm=Inf	63	conj	_	_
 74	por	por	ADP	_	_	75	case	_	_
-75	mi	mi	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	73	nmod	_	_
+75	mi	mi	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	73	obl	_	_
 76	ĝian	ĝia	PRON	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	78	nmod:poss	_	_
 77	neŭtralan	neŭtrala	ADJ	_	Case=Acc|Degree=Pos|Number=Sing	78	amod	_	_
 78	nomon	nomo	NOUN	_	Case=Acc|Number=Sing	73	obj	_	SpaceAfter=No
@@ -153,7 +218,7 @@ The following 5 pairs of parts of speech are connected with `appos`: <tt><a href
 100	;	_	PUNCT	_	_	106	punct	_	_
 101	ĝis	ĝis	ADP	_	_	103	case	_	_
 102	tiu	tiu	DET	_	Case=Nom|Number=Sing|PronType=Dem	103	det	_	_
-103	tempo	tempo	NOUN	_	Case=Nom|Number=Sing	106	nmod	_	_
+103	tempo	tempo	NOUN	_	Case=Nom|Number=Sing	106	obl	_	_
 104	mi	mi	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	106	nsubj	_	_
 105	povas	povi	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	106	aux	_	_
 106	resti	resti	VERB	_	VerbForm=Inf	63	advcl	_	_
@@ -175,7 +240,7 @@ The following 5 pairs of parts of speech are connected with `appos`: <tt><a href
 122	aldoni	aldoni	VERB	_	VerbForm=Inf	106	advcl	_	_
 123	al	al	ADP	_	_	125	case	_	_
 124	ĝia	ĝia	PRON	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	125	amod	_	_
-125	nomo	nomo	NOUN	_	Case=Nom|Number=Sing	122	nmod	_	_
+125	nomo	nomo	NOUN	_	Case=Nom|Number=Sing	122	obl	_	_
 126	la	la	DET	_	Definite=Def|PronType=Art	127	det	_	_
 127	vorton	vorto	NOUN	_	Case=Acc|Number=Sing	122	obj	_	_
 128	«	«	PUNCT	_	_	129	punct	_	SpaceAfter=No
@@ -190,7 +255,7 @@ The following 5 pairs of parts of speech are connected with `appos`: <tt><a href
 137	alkalkulas	alkalkuli	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	133	ccomp	_	_
 138	min	mi	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	137	obj	_	_
 139	al	al	ADP	_	_	140	case	_	_
-140	ĝi	ĝi	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	137	nmod	_	_
+140	ĝi	ĝi	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	137	obl	_	_
 141	nur	nur	ADV	_	_	142	advmod	_	_
 142	provizore	provizore	ADV	_	_	137	advmod	_	SpaceAfter=No
 143	,	,	PUNCT	_	_	144	punct	_	_
@@ -198,27 +263,6 @@ The following 5 pairs of parts of speech are connected with `appos`: <tt><a href
 145	kaj	kaj	PUNCT	_	_	146	punct	_	_
 146	administre	administre	ADV	_	_	144	advmod	_	SpaceAfter=No
 147	.	.	PUNCT	_	_	63	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 11 appos	color:blue
-1	Manifesto	manifesto	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
-2	de	de	ADP	_	_	3	case	_	_
-3	Prago	Prago	PROPN	_	Case=Nom|Number=Sing	1	nmod	_	_
-4	de	de	ADP	_	_	6	case	_	_
-5	la	la	DET	_	Definite=Def|PronType=Art	6	det	_	_
-6	movado	movado	NOUN	_	Case=Nom|Number=Sing	3	nmod	_	_
-7	por	por	ADP	_	_	10	case	_	_
-8	la	la	DET	_	Definite=Def|PronType=Art	10	det	_	_
-9	internacia	internacia	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	10	amod	_	_
-10	lingvo	lingvo	NOUN	_	Case=Nom|Number=Sing	6	nmod	_	_
-11	Esperanto	Esperanto	PROPN	_	Case=Nom|Number=Sing	10	appos	_	_
 
 ~~~
 

@@ -6,20 +6,20 @@ udver: '2'
 
 ## Treebank Statistics: UD_Esperanto-Prago: POS Tags: `AUX`
 
-There are 4 `AUX` lemmas (0%), 11 `AUX` types (1%) and 73 `AUX` tokens (2%).
-Out of 14 observed tags, the rank of `AUX` is: 13 in number of lemmas, 11 in number of types and 11 in number of tokens.
+There are 4 `AUX` lemmas (0%), 12 `AUX` types (1%) and 94 `AUX` tokens (2%).
+Out of 14 observed tags, the rank of `AUX` is: 13 in number of lemmas, 9 in number of types and 10 in number of tokens.
 
 The 10 most frequent `AUX` lemmas: <em>esti, devi, povi, bezoni</em>
 
-The 10 most frequent `AUX` types:  <em>estas, devas, povas, estos, esti, estus, bezonu, ekzistu, estu, povos</em>
+The 10 most frequent `AUX` types:  <em>estas, devas, povas, esti, estos, estus, povus, bezonu, ekzistu, estu</em>
 
-The 10 most frequent ambiguous lemmas: <em>esti</em> (<tt><a href="eo_prago-pos-AUX.html">AUX</a></tt> 51, <tt><a href="eo_prago-pos-VERB.html">VERB</a></tt> 9), <em>devi</em> (<tt><a href="eo_prago-pos-AUX.html">AUX</a></tt> 14, <tt><a href="eo_prago-pos-VERB.html">VERB</a></tt> 4), <em>povi</em> (<tt><a href="eo_prago-pos-AUX.html">AUX</a></tt> 7, <tt><a href="eo_prago-pos-VERB.html">VERB</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>esti</em> (<tt><a href="eo_prago-pos-AUX.html">AUX</a></tt> 65, <tt><a href="eo_prago-pos-VERB.html">VERB</a></tt> 9), <em>devi</em> (<tt><a href="eo_prago-pos-AUX.html">AUX</a></tt> 14, <tt><a href="eo_prago-pos-VERB.html">VERB</a></tt> 4), <em>povi</em> (<tt><a href="eo_prago-pos-AUX.html">AUX</a></tt> 14, <tt><a href="eo_prago-pos-VERB.html">VERB</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>estas</em> (<tt><a href="eo_prago-pos-AUX.html">AUX</a></tt> 40, <tt><a href="eo_prago-pos-VERB.html">VERB</a></tt> 9), <em>devas</em> (<tt><a href="eo_prago-pos-AUX.html">AUX</a></tt> 14, <tt><a href="eo_prago-pos-VERB.html">VERB</a></tt> 3), <em>povu</em> (<tt><a href="eo_prago-pos-AUX.html">AUX</a></tt> 1, <tt><a href="eo_prago-pos-VERB.html">VERB</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>estas</em> (<tt><a href="eo_prago-pos-AUX.html">AUX</a></tt> 47, <tt><a href="eo_prago-pos-VERB.html">VERB</a></tt> 9), <em>devas</em> (<tt><a href="eo_prago-pos-AUX.html">AUX</a></tt> 14, <tt><a href="eo_prago-pos-VERB.html">VERB</a></tt> 3), <em>povu</em> (<tt><a href="eo_prago-pos-AUX.html">AUX</a></tt> 1, <tt><a href="eo_prago-pos-VERB.html">VERB</a></tt> 1)
 
 
 * <em>estas</em>
-  * <tt><a href="eo_prago-pos-AUX.html">AUX</a></tt> 40: <em>Ni <b>estas</b> movado por demokratia komunikado .</em>
+  * <tt><a href="eo_prago-pos-AUX.html">AUX</a></tt> 47: <em>Ni <b>estas</b> movado por demokratia komunikado .</em>
   * <tt><a href="eo_prago-pos-VERB.html">VERB</a></tt> 9: <em>1 . Mia nomo familia <b>estas</b> :</em>
 * <em>devas</em>
   * <tt><a href="eo_prago-pos-AUX.html">AUX</a></tt> 14: <em>Neniam mi <b>devas</b> malami moki aŭ persekuti iun pro tio , ke lia kredo pri Dio estas alia ol mia .</em>
@@ -30,36 +30,36 @@ The 10 most frequent ambiguous types:  <em>estas</em> (<tt><a href="eo_prago-pos
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 2.750000 (the average of all parts of speech is 1.222222).
+The form / lemma ratio of `AUX` is 3.000000 (the average of all parts of speech is 1.237748).
 
 The 1st highest number of forms (6) was observed with the lemma “esti”: <em>ekzistu, estas, esti, estos, estu, estus</em>.
 
-The 2nd highest number of forms (3) was observed with the lemma “povi”: <em>povas, povos, povu</em>.
+The 2nd highest number of forms (4) was observed with the lemma “povi”: <em>povas, povos, povu, povus</em>.
 
 The 3rd highest number of forms (1) was observed with the lemma “bezoni”: <em>bezonu</em>.
 
-`AUX` occurs with 3 features: <tt><a href="eo_prago-feat-VerbForm.html">VerbForm</a></tt> (72; 99% instances), <tt><a href="eo_prago-feat-Mood.html">Mood</a></tt> (69; 95% instances), <tt><a href="eo_prago-feat-Tense.html">Tense</a></tt> (63; 86% instances)
+`AUX` occurs with 3 features: <tt><a href="eo_prago-feat-VerbForm.html">VerbForm</a></tt> (93; 99% instances), <tt><a href="eo_prago-feat-Mood.html">Mood</a></tt> (86; 91% instances), <tt><a href="eo_prago-feat-Tense.html">Tense</a></tt> (78; 83% instances)
 
 `AUX` occurs with 7 feature-value pairs: `Mood=Imp`, `Mood=Ind`, `Mood=Sub`, `Tense=Fut`, `Tense=Pres`, `VerbForm=Fin`, `VerbForm=Inf`
 
 `AUX` occurs with 6 feature combinations.
-The most frequent feature combination is `Mood=Ind|Tense=Pres|VerbForm=Fin` (58 tokens).
+The most frequent feature combination is `Mood=Ind|Tense=Pres|VerbForm=Fin` (70 tokens).
 Examples: <em>estas, devas, povas</em>
 
 
 ## Relations
 
-`AUX` nodes are attached to their parents using 5 different relations: <tt><a href="eo_prago-dep-aux.html">aux</a></tt> (48; 66% instances), <tt><a href="eo_prago-dep-cop.html">cop</a></tt> (20; 27% instances), <tt><a href="eo_prago-dep-aux-pass.html">aux:pass</a></tt> (2; 3% instances), <tt><a href="eo_prago-dep-conj.html">conj</a></tt> (2; 3% instances), <tt><a href="eo_prago-dep-acl-relcl.html">acl:relcl</a></tt> (1; 1% instances)
+`AUX` nodes are attached to their parents using 5 different relations: <tt><a href="eo_prago-dep-aux.html">aux</a></tt> (73; 78% instances), <tt><a href="eo_prago-dep-cop.html">cop</a></tt> (16; 17% instances), <tt><a href="eo_prago-dep-aux-pass.html">aux:pass</a></tt> (2; 2% instances), <tt><a href="eo_prago-dep-conj.html">conj</a></tt> (2; 2% instances), <tt><a href="eo_prago-dep-acl-relcl.html">acl:relcl</a></tt> (1; 1% instances)
 
-Parents of `AUX` nodes belong to 6 different parts of speech: <tt><a href="eo_prago-pos-VERB.html">VERB</a></tt> (31; 42% instances), <tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt> (26; 36% instances), <tt><a href="eo_prago-pos-ADJ.html">ADJ</a></tt> (11; 15% instances), <tt><a href="eo_prago-pos-NUM.html">NUM</a></tt> (2; 3% instances), <tt><a href="eo_prago-pos-PRON.html">PRON</a></tt> (2; 3% instances), <tt><a href="eo_prago-pos-ADV.html">ADV</a></tt> (1; 1% instances)
+Parents of `AUX` nodes belong to 6 different parts of speech: <tt><a href="eo_prago-pos-VERB.html">VERB</a></tt> (42; 45% instances), <tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt> (33; 35% instances), <tt><a href="eo_prago-pos-ADJ.html">ADJ</a></tt> (12; 13% instances), <tt><a href="eo_prago-pos-ADV.html">ADV</a></tt> (3; 3% instances), <tt><a href="eo_prago-pos-NUM.html">NUM</a></tt> (2; 2% instances), <tt><a href="eo_prago-pos-PRON.html">PRON</a></tt> (2; 2% instances)
 
-70 (96%) `AUX` nodes are leaves.
+91 (97%) `AUX` nodes are leaves.
 
 0 (0%) `AUX` nodes have one child.
 
 0 (0%) `AUX` nodes have two children.
 
-3 (4%) `AUX` nodes have three or more children.
+3 (3%) `AUX` nodes have three or more children.
 
 The highest child degree of a `AUX` node is 9.
 

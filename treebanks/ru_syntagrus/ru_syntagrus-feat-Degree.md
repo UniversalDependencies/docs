@@ -25,7 +25,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 * `Cmp` (1671; 1% of non-empty `Degree`): <em>лучше, выше, хуже, больше, ниже, легче, меньше, проще, сложнее, ближе</em>
 * `Pos` (133046; 98% of non-empty `Degree`): <em>нужно, должны, должен, первый, второй, новые, российской, последние, должна, большой</em>
 * `Sup` (1124; 1% of non-empty `Degree`): <em>ближайшие, дальнейшем, ближайшее, высшее, дальнейшее, дальнейшего, важнейших, лучшее, крупнейших, важнейшим</em>
-* `EMPTY` (5820): <em>первую, XX, XIX, 2003, 2004, 2008, 2001, 2002, 2010, 2000</em>
+* `EMPTY` (5819): <em>первую, XX, XIX, 2003, 2004, 2008, 2001, 2002, 2010, 2000</em>
 
 <table>
   <tr><th>Paradigm <i>старший</i></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>
@@ -84,7 +84,7 @@ The most frequent other feature values with which `NUM` and `Degree` co-occurred
 `NUM` tokens may have the following values of `Degree`:
 
 * `Cmp` (100; 100% of non-empty `Degree`): <em>больше, меньше</em>
-* `EMPTY` (17816): <em>один, несколько, два, три, одной, 1, 10, двух, две, 20</em>
+* `EMPTY` (17818): <em>один, несколько, два, три, одной, 1, 10, двух, две, 20</em>
 
 ## Relations with Agreement in `Degree`
 

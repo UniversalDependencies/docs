@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="pro_corag-dep-aux.html">aux</a></tt>.
 
-729 nodes (1%) are attached to their parents as `aux:pass`.
+1197 nodes (2%) are attached to their parents as `aux:pass`.
 
-658 instances of `aux:pass` (90%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.09327846364883.
+1125 instances of `aux:pass` (94%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.10860484544695.
 
-The following 1 pairs of parts of speech are connected with `aux:pass`: <tt><a href="pro_corag-pos-VERB.html">VERB</a></tt>-<tt><a href="pro_corag-pos-AUX.html">AUX</a></tt> (729; 100% instances).
+The following 1 pairs of parts of speech are connected with `aux:pass`: <tt><a href="pro_corag-pos-VERB.html">VERB</a></tt>-<tt><a href="pro_corag-pos-AUX.html">AUX</a></tt> (1197; 100% instances).
 
 
 ~~~ conllu

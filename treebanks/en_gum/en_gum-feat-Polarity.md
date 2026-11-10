@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Neg`, `Pos`.
 
-2417 tokens (1%) have a non-empty value of `Polarity`.
+2392 tokens (1%) have a non-empty value of `Polarity`.
 17 types (0%) occur at least once with a non-empty value of `Polarity`.
 7 lemmas (0%) occur at least once with a non-empty value of `Polarity`.
-The feature is used with 4 part-of-speech tags: <tt><a href="en_gum-pos-PART.html">PART</a></tt> (1885; 1% instances), <tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> (477; 0% instances), <tt><a href="en_gum-pos-CCONJ.html">CCONJ</a></tt> (30; 0% instances), <tt><a href="en_gum-pos-ADV.html">ADV</a></tt> (25; 0% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="en_gum-pos-PART.html">PART</a></tt> (1885; 1% instances), <tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> (477; 0% instances), <tt><a href="en_gum-pos-CCONJ.html">CCONJ</a></tt> (30; 0% instances).
 
 ### `PART`
 
@@ -41,17 +41,6 @@ The feature is used with 4 part-of-speech tags: <tt><a href="en_gum-pos-PART.htm
 
 * `Neg` (30; 100% of non-empty `Polarity`): <em>nor, neither</em>
 * `EMPTY` (8612): <em>and, or, but, both, &, either, yet, plus, n, minus</em>
-
-### `ADV`
-
-25 <tt><a href="en_gum-pos-ADV.html">ADV</a></tt> tokens (0% of all `ADV` tokens) have a non-empty value of `Polarity`.
-
-The most frequent other feature values with which `ADV` and `Polarity` co-occurred: <tt><a href="en_gum-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (25; 100%), <tt><a href="en_gum-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (25; 100%).
-
-`ADV` tokens may have the following values of `Polarity`:
-
-* `Neg` (25; 100% of non-empty `Polarity`): <em>no</em>
-* `EMPTY` (12181): <em>so, just, when, then, also, how, now, more, here, where</em>
 
 ## Relations with Agreement in `Polarity`
 

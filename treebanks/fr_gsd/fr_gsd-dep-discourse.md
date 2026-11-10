@@ -43,7 +43,7 @@ The following 7 pairs of parts of speech are connected with `discourse`: <tt><a 
 2	ma	son	DET	_	Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	3	det	_	_
 3	vigne	vigne	NOUN	_	Gender=Fem|Number=Sing	0	root	_	Exponence[Gender]=Inherent
 4	bien	bien	ADV	_	_	5	advmod	_	_
-5	aimée	aimer	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	3	acl	_	SpaceAfter=No|Tense[denom]=Past
+5	aimée	aimer	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	3	acl	_	SpaceAfter=No|Status[Tense]=Denom
 6	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~

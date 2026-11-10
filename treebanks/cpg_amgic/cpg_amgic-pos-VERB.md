@@ -30,7 +30,7 @@ The 1st highest number of forms (11) was observed with the lemma “érχumu”:
 
 The 2nd highest number of forms (5) was observed with the lemma “pérno”: <em>par, pán, páro, píra, píren</em>.
 
-The 3rd highest number of forms (5) was observed with the lemma “tróo”: <em>drúte, fam, tron, trói, éfaγen</em>.
+The 3rd highest number of forms (5) was observed with the lemma “tróo”: <em>dróte, fam, tron, trói, éfaγen</em>.
 
 `VERB` occurs with 9 features: <tt><a href="cpg_amgic-feat-Person.html">Person</a></tt> (119; 91% instances), <tt><a href="cpg_amgic-feat-Aspect.html">Aspect</a></tt> (118; 90% instances), <tt><a href="cpg_amgic-feat-Mood.html">Mood</a></tt> (118; 90% instances), <tt><a href="cpg_amgic-feat-Number.html">Number</a></tt> (118; 90% instances), <tt><a href="cpg_amgic-feat-VerbForm.html">VerbForm</a></tt> (116; 89% instances), <tt><a href="cpg_amgic-feat-Tense.html">Tense</a></tt> (101; 77% instances), <tt><a href="cpg_amgic-feat-Voice.html">Voice</a></tt> (67; 51% instances), <tt><a href="cpg_amgic-feat-Case.html">Case</a></tt> (1; 1% instances), <tt><a href="cpg_amgic-feat-Gender.html">Gender</a></tt> (1; 1% instances)
 

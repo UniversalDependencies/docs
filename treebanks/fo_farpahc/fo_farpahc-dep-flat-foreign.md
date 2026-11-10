@@ -49,9 +49,9 @@ The following 1 pairs of parts of speech are connected with `flat:foreign`: <tt>
 24	pund	_	NOUN	NS-A	Case=Acc|Definite=Ind|Number=Plur	21	obl	_	_
 25	av	_	ADP	P	_	27	case	_	_
 26	eini	_	DET	ONE-D	Case=Dat	27	det	_	_
-27	blanding	_	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	24	obl	_	_
+27	blanding	_	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	24	nmod	_	_
 28	av	_	ADP	P	_	29	case	_	_
-29	myrru	_	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	27	obl	_	_
+29	myrru	_	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	27	nmod	_	_
 30	og	_	CCONJ	CONJ	_	29	cc	_	_
 31	aloe	_	X	FW	Foreign=Yes	29	flat:foreign	_	SpaceAfter=No
 32	.	.	PUNCT	.	_	31	punct	_	_

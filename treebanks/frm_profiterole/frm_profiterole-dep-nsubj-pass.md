@@ -8,33 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="frm_profiterole-dep-nsubj.html">nsubj</a></tt>.
 
-521 nodes (0%) are attached to their parents as `nsubj:pass`.
+548 nodes (0%) are attached to their parents as `nsubj:pass`.
 
-426 instances of `nsubj:pass` (82%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.67946257197697.
+449 instances of `nsubj:pass` (82%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.63321167883212.
 
-The following 8 pairs of parts of speech are connected with `nsubj:pass`: <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (253; 49% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (247; 47% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-PROPN.html">PROPN</a></tt> (16; 3% instances), <tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (1; 0% instances).
-
-
-~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 5 nsubj:pass	color:blue
-1	et	et	CCONJ	CONcoo	_	2	cc:nc	_	XmlId=w_42_04093
-2	gardez	garder	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_42_04094
-3	bien	bien	ADV	ADVgen	_	2	advmod	_	XmlId=w_42_04095
-4	qu'	que	SCONJ	CONsub	_	8	mark	_	SpaceAfter=No|XmlId=w_42_04096
-5	ilz	il	PRON	PROper	PronType=Prs	8	nsubj:pass	_	XmlId=w_42_04097
-6	ne	ne1	ADV	ADVneg	Polarity=Neg	8	advmod	_	XmlId=w_42_04098
-7	soient	être	AUX	VERcjg	VerbForm=Fin	8	aux:pass	_	XmlId=w_42_04099
-8	opprimez	opprimer	VERB	VERppe	Tense=Past|VerbForm=Part	2	ccomp	_	XmlId=w_42_04100
-9	ne	ne2	CCONJ	CONcoo	_	10	cc	_	XmlId=w_42_04101
-10	follez	foler2	VERB	VERppe	Tense=Past|VerbForm=Part	8	conj	_	SpaceAfter=No|XmlId=w_42_04102
-11	,	,	PUNCT	PONfbl	_	2	punct	_	XmlId=w_42_04103
-
-~~~
+The following 8 pairs of parts of speech are connected with `nsubj:pass`: <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (264; 48% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (263; 48% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-PROPN.html">PROPN</a></tt> (16; 3% instances), <tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -54,6 +33,27 @@ The following 8 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 9	fut	être	AUX	VERcjg	VerbForm=Fin	11	aux:pass	_	XmlId=w_32_02450
 10	jamais	jamais	ADV	ADVgen	_	11	advmod	_	XmlId=w_32_02451
 11	descouvert	découvrir	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_32_02452
+
+~~~
+
+
+~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 5 nsubj:pass	color:blue
+1	et	et	CCONJ	CONcoo	_	2	cc:nc	_	XmlId=w_42_04093
+2	gardez	garder	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_42_04094
+3	bien	bien	ADV	ADVgen	_	2	advmod	_	XmlId=w_42_04095
+4	qu'	que	SCONJ	CONsub	_	8	mark	_	SpaceAfter=No|XmlId=w_42_04096
+5	ilz	il	PRON	PROper	PronType=Prs	8	nsubj:pass	_	XmlId=w_42_04097
+6	ne	ne1	ADV	ADVneg	Polarity=Neg	8	advmod	_	XmlId=w_42_04098
+7	soient	être	AUX	VERcjg	VerbForm=Fin	8	aux:pass	_	XmlId=w_42_04099
+8	opprimez	opprimer	VERB	VERppe	Tense=Past|VerbForm=Part	2	ccomp	_	XmlId=w_42_04100
+9	ne	ne2	CCONJ	CONcoo	_	10	cc	_	XmlId=w_42_04101
+10	follez	foler2	VERB	VERppe	Tense=Past|VerbForm=Part	8	conj	_	SpaceAfter=No|XmlId=w_42_04102
+11	,	,	PUNCT	PONfbl	_	2	punct	_	XmlId=w_42_04103
 
 ~~~
 

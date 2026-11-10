@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.16 release
 The following people have contributed to making this treebank part of UD: Masanori Oya.
 
 Repository: [UD_Esperanto-Cairo](https://github.com/UniversalDependencies/UD_Esperanto-Cairo)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udeo_cairo218)<br />
-Download all treebanks: [UD 2.18](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udeo_cairo219)<br />
+Download all treebanks: [UD 2.19](/#download)
 
 License: CC BY-SA 4.0
 
@@ -64,7 +64,7 @@ This treebank contains the 20 Cairo example sentences and is meant to be a quick
 
 ## Relations
 
-[acl:relcl](eo_cairo-dep-acl-relcl.html) – [advcl](eo_cairo-dep-advcl.html) – [advmod](eo_cairo-dep-advmod.html) – [amod](eo_cairo-dep-amod.html) – [appos](eo_cairo-dep-appos.html) – [aux](eo_cairo-dep-aux.html) – [aux:pass](eo_cairo-dep-aux-pass.html) – [case](eo_cairo-dep-case.html) – [cc](eo_cairo-dep-cc.html) – [ccomp](eo_cairo-dep-ccomp.html) – [compound](eo_cairo-dep-compound.html) – [conj](eo_cairo-dep-conj.html) – [cop](eo_cairo-dep-cop.html) – [det](eo_cairo-dep-det.html) – [mark](eo_cairo-dep-mark.html) – [nmod](eo_cairo-dep-nmod.html) – [nmod:poss](eo_cairo-dep-nmod-poss.html) – [nsubj](eo_cairo-dep-nsubj.html) – [nsubj:pass](eo_cairo-dep-nsubj-pass.html) – [obj](eo_cairo-dep-obj.html) – [orphan](eo_cairo-dep-orphan.html) – [parataxis](eo_cairo-dep-parataxis.html) – [punct](eo_cairo-dep-punct.html) – [root](eo_cairo-dep-root.html) – [vocative](eo_cairo-dep-vocative.html) – [xcomp](eo_cairo-dep-xcomp.html)
+[acl:relcl](eo_cairo-dep-acl-relcl.html) – [advcl](eo_cairo-dep-advcl.html) – [advmod](eo_cairo-dep-advmod.html) – [amod](eo_cairo-dep-amod.html) – [appos](eo_cairo-dep-appos.html) – [aux](eo_cairo-dep-aux.html) – [aux:pass](eo_cairo-dep-aux-pass.html) – [case](eo_cairo-dep-case.html) – [cc](eo_cairo-dep-cc.html) – [ccomp](eo_cairo-dep-ccomp.html) – [compound](eo_cairo-dep-compound.html) – [conj](eo_cairo-dep-conj.html) – [cop](eo_cairo-dep-cop.html) – [det](eo_cairo-dep-det.html) – [mark](eo_cairo-dep-mark.html) – [nmod](eo_cairo-dep-nmod.html) – [nmod:poss](eo_cairo-dep-nmod-poss.html) – [nsubj](eo_cairo-dep-nsubj.html) – [nsubj:pass](eo_cairo-dep-nsubj-pass.html) – [obj](eo_cairo-dep-obj.html) – [obl](eo_cairo-dep-obl.html) – [orphan](eo_cairo-dep-orphan.html) – [parataxis](eo_cairo-dep-parataxis.html) – [punct](eo_cairo-dep-punct.html) – [root](eo_cairo-dep-root.html) – [vocative](eo_cairo-dep-vocative.html) – [xcomp](eo_cairo-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -505,5 +505,5 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
 <li>This corpus uses 4 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>nmod:poss</a>, <a>nsubj:pass</a></li>
 <li>The following 1 main types are not used alone, they are always subtyped: <a>acl</a></li>
-<li>The following 14 relation types are not used in this corpus at all: <a>iobj</a>, <a>csubj</a>, <a>obl</a>, <a>expl</a>, <a>dislocated</a>, <a>discourse</a>, <a>nummod</a>, <a>clf</a>, <a>fixed</a>, <a>flat</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
+<li>The following 13 relation types are not used in this corpus at all: <a>iobj</a>, <a>csubj</a>, <a>expl</a>, <a>dislocated</a>, <a>discourse</a>, <a>nummod</a>, <a>clf</a>, <a>fixed</a>, <a>flat</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
 </ul>

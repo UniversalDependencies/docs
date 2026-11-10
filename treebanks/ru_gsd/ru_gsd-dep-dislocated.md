@@ -29,7 +29,7 @@ The following 1 pairs of parts of speech are connected with `dislocated`: <tt><a
 5	родился	родиться	VERB	VBC	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
 6	в	в	ADP	IN	_	8	case	_	_
 7	1808	1808	ADJ	ORD	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	_
-8	г.	год	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	5	obl	_	_
+8	г.	год	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	5	obl:tmod	_	_
 9	и	и	CCONJ	CC	_	10	cc	_	_
 10	воспитывался	воспитываться	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	5	conj	_	_
 11	в	в	ADP	IN	_	13	case	_	_
@@ -42,11 +42,11 @@ The following 1 pairs of parts of speech are connected with `dislocated`: <tt><a
 18	курс	курс	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	17	obj	_	_
 19	в	в	ADP	IN	_	21	case	_	_
 20	1820	1820	ADJ	ORD	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	21	amod	_	_
-21	г.	год	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	17	obl	_	SpaceAfter=No
+21	г.	год	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	17	obl:tmod	_	SpaceAfter=No
 22	;	;	PUNCT	:	_	5	punct	_	_
 23	в	в	ADP	IN	_	25	case	_	_
 24	1823	1823	ADJ	ORD	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	25	amod	_	_
-25	г.	год	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	27	obl	_	_
+25	г.	год	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	27	obl:tmod	_	_
 26	он	он	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3	27	nsubj	_	_
 27	поступил	поступить	VERB	VBC	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	parataxis	_	_
 28	в	в	ADP	IN	_	30	case	_	_
@@ -60,7 +60,7 @@ The following 1 pairs of parts of speech are connected with `dislocated`: <tt><a
 36	из	из	ADP	IN	_	37	case	_	_
 37	которого	который	PRON	AWP	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	38	obl	_	_
 38	вышел	выйти	VERB	VBC	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	30	acl:relcl	_	_
-39	28-го	28-й	ADJ	ORD	Case=Gen|Gender=Neut|Number=Sing	38	obl	_	_
+39	28-го	28-й	ADJ	ORD	Case=Gen|Gender=Neut|Number=Sing	38	obl:tmod	_	_
 40	июня	июнь	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	39	flat	_	_
 41	1826	1826	ADJ	ORD	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	42	amod	_	_
 42	г.	год	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	38	nmod	_	_
@@ -69,7 +69,7 @@ The following 1 pairs of parts of speech are connected with `dislocated`: <tt><a
 45	кандидата	кандидат	NOUN	NN	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	44	nmod	_	SpaceAfter=No
 46	,	,	PUNCT	,	_	49	punct	_	_
 47	после	после	ADP	IN	_	48	case	_	_
-48	чего	что	PRON	WP	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	49	obl	_	_
+48	чего	что	PRON	WP	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	49	obl:tmod	_	_
 49	определился	определиться	VERB	VBC	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	38	conj	_	_
 50	учителем	учитель	NOUN	NN	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	49	xcomp	_	_
 51	средних	средний	ADJ	JJL	Case=Gen|Degree=Pos|Number=Plur	52	amod	_	_

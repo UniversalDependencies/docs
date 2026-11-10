@@ -6,34 +6,34 @@ udver: '2'
 
 ## Treebank Statistics: UD_Komi_Permyak-UH: POS Tags: `SCONJ`
 
-There are 6 `SCONJ` lemmas (1%), 7 `SCONJ` types (1%) and 10 `SCONJ` tokens (1%).
-Out of 15 observed tags, the rank of `SCONJ` is: 13 in number of lemmas, 11 in number of types and 11 in number of tokens.
+There are 6 `SCONJ` lemmas (1%), 6 `SCONJ` types (1%) and 10 `SCONJ` tokens (1%).
+Out of 15 observed tags, the rank of `SCONJ` is: 13 in number of lemmas, 13 in number of types and 11 in number of tokens.
 
 The 10 most frequent `SCONJ` lemmas: <em>что, кӧть, да, кӧр, мед, нежели</em>
 
-The 10 most frequent `SCONJ` types:  <em>что, Кӧть, да, кöть, кӧр, мед, нежели</em>
+The 10 most frequent `SCONJ` types:  <em>что, кӧть, да, кӧр, мед, нежели</em>
 
 The 10 most frequent ambiguous lemmas: <em>да</em> (<tt><a href="koi_uh-pos-CCONJ.html">CCONJ</a></tt> 8, <tt><a href="koi_uh-pos-SCONJ.html">SCONJ</a></tt> 1), <em>кӧр</em> (<tt><a href="koi_uh-pos-ADV.html">ADV</a></tt> 4, <tt><a href="koi_uh-pos-SCONJ.html">SCONJ</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>да</em> (<tt><a href="koi_uh-pos-CCONJ.html">CCONJ</a></tt> 8, <tt><a href="koi_uh-pos-SCONJ.html">SCONJ</a></tt> 1), <em>кӧр</em> (<tt><a href="koi_uh-pos-ADV.html">ADV</a></tt> 3, <tt><a href="koi_uh-pos-SCONJ.html">SCONJ</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>да</em> (<tt><a href="koi_uh-pos-CCONJ.html">CCONJ</a></tt> 8, <tt><a href="koi_uh-pos-SCONJ.html">SCONJ</a></tt> 1), <em>кӧр</em> (<tt><a href="koi_uh-pos-ADV.html">ADV</a></tt> 4, <tt><a href="koi_uh-pos-SCONJ.html">SCONJ</a></tt> 1)
 
 
 * <em>да</em>
   * <tt><a href="koi_uh-pos-CCONJ.html">CCONJ</a></tt> 8: <em>Окаліс Митя кыкнаннысӧ <b>да</b> пуксьӧтіс пызан сайӧ .</em>
   * <tt><a href="koi_uh-pos-SCONJ.html">SCONJ</a></tt> 1: <em>Ме эг вермы сійӧ вӧтны , ӧддьӧн чожа котӧртіс <b>да</b> .</em>
 * <em>кӧр</em>
-  * <tt><a href="koi_uh-pos-ADV.html">ADV</a></tt> 3: <em>А сія эд видзчисьны оз понды , <b>кӧр</b> дугда боньгыныт .</em>
+  * <tt><a href="koi_uh-pos-ADV.html">ADV</a></tt> 4: <em>А сія эд видзчисьны оз понды , <b>кӧр</b> дугда боньгыныт .</em>
   * <tt><a href="koi_uh-pos-SCONJ.html">SCONJ</a></tt> 1: <em>Кыдз тэ думайтан , <b>кӧр</b> тэ верман локны ?</em>
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.166667 (the average of all parts of speech is 1.260870).
+The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.239604).
 
-The 1st highest number of forms (2) was observed with the lemma “кӧть”: <em>Кӧть, кöть</em>.
+The 1st highest number of forms (1) was observed with the lemma “да”: <em>да</em>.
 
-The 2nd highest number of forms (1) was observed with the lemma “да”: <em>да</em>.
+The 2nd highest number of forms (1) was observed with the lemma “кӧр”: <em>кӧр</em>.
 
-The 3rd highest number of forms (1) was observed with the lemma “кӧр”: <em>кӧр</em>.
+The 3rd highest number of forms (1) was observed with the lemma “кӧть”: <em>кӧть</em>.
 
 `SCONJ` does not occur with any features.
 

@@ -13,7 +13,7 @@ The 10 most frequent `AUX` lemmas: <em>kle, be, me, gna, hoke, tiene, ponia</em>
 
 The 10 most frequent `AUX` types:  <em>kle, be, me, gna, hoke, mim, tiene, ho, ponia</em>
 
-The 10 most frequent ambiguous lemmas: <em>be</em> (<tt><a href="sab_chibergis-pos-AUX.html">AUX</a></tt> 42, <tt><a href="sab_chibergis-pos-NOUN.html">NOUN</a></tt> 2), <em>hoke</em> (<tt><a href="sab_chibergis-pos-VERB.html">VERB</a></tt> 71, <tt><a href="sab_chibergis-pos-AUX.html">AUX</a></tt> 5)
+The 10 most frequent ambiguous lemmas: <em>be</em> (<tt><a href="sab_chibergis-pos-AUX.html">AUX</a></tt> 42, <tt><a href="sab_chibergis-pos-NOUN.html">NOUN</a></tt> 2), <em>hoke</em> (<tt><a href="sab_chibergis-pos-VERB.html">VERB</a></tt> 75, <tt><a href="sab_chibergis-pos-AUX.html">AUX</a></tt> 5)
 
 The 10 most frequent ambiguous types:  <em>be</em> (<tt><a href="sab_chibergis-pos-AUX.html">AUX</a></tt> 42, <tt><a href="sab_chibergis-pos-NOUN.html">NOUN</a></tt> 2), <em>hoke</em> (<tt><a href="sab_chibergis-pos-VERB.html">VERB</a></tt> 57, <tt><a href="sab_chibergis-pos-AUX.html">AUX</a></tt> 4), <em>ho</em> (<tt><a href="sab_chibergis-pos-VERB.html">VERB</a></tt> 12, <tt><a href="sab_chibergis-pos-AUX.html">AUX</a></tt> 1)
 
@@ -30,7 +30,7 @@ The 10 most frequent ambiguous types:  <em>be</em> (<tt><a href="sab_chibergis-p
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 1.285714 (the average of all parts of speech is 1.193029).
+The form / lemma ratio of `AUX` is 1.285714 (the average of all parts of speech is 1.199461).
 
 The 1st highest number of forms (2) was observed with the lemma “hoke”: <em>ho, hoke</em>.
 

@@ -25,7 +25,7 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 * `Acc` (243; 9% of non-empty `Case`): <em>le, vous, l', les, m', nous, me, la, t', te</em>
 * `Dat` (136; 5% of non-empty `Case`): <em>me, m', vous, nous, lui, leur, te, t'</em>
 * `Nom` (2354; 86% of non-empty `Case`): <em>je, il, vous, on, j', ils, tu, nous, elle, elles</em>
-* `EMPTY` (2547): <em>c', qui, ça, y, ce, se, que, s', qu', moi</em>
+* `EMPTY` (2548): <em>c', qui, ça, y, ce, se, que, s', qu', moi</em>
 
 <table>
   <tr><th>Paradigm <i>moi</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th></tr>
@@ -35,6 +35,5 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 ## Relations with Agreement in `Case`
 
 The 10 most frequent relations where parent and child node agree in `Case`:
-<tt>PRON --[<tt><a href="fr_rhapsodie-dep-reparandum.html">reparandum</a></tt>]--> PRON</tt> (66; 90%),
-<tt>PRON --[<tt><a href="fr_rhapsodie-dep-obj.html">obj</a></tt>]--> PRON</tt> (1; 100%).
+<tt>PRON --[<tt><a href="fr_rhapsodie-dep-reparandum.html">reparandum</a></tt>]--> PRON</tt> (68; 93%).
 

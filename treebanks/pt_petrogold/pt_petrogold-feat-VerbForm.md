@@ -22,9 +22,9 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 
 `VERB` tokens may have the following values of `VerbForm`:
 
-* `Fin` (7392; 36% of non-empty `VerbForm`): <em>pode, podem, apresenta, tem, apresentam, deve, mostra, ocorre, possui, seja</em>
+* `Fin` (7391; 36% of non-empty `VerbForm`): <em>pode, podem, apresenta, tem, apresentam, deve, mostra, ocorre, possui, seja</em>
 * `Ger` (1561; 8% of non-empty `VerbForm`): <em>utilizando, podendo, formando, contendo, visando, apresentando, usando, permitindo, variando, reduzindo</em>
-* `Inf` (2559; 13% of non-empty `VerbForm`): <em>partir, observar, seguir, aumentar, obter, apresentar, ter, produzir, determinar, verificar</em>
+* `Inf` (2560; 13% of non-empty `VerbForm`): <em>partir, observar, seguir, aumentar, obter, apresentar, ter, produzir, determinar, verificar</em>
 * `Part` (8839; 43% of non-empty `VerbForm`): <em>devido, utilizado, utilizados, obtidos, apresentados, utilizada, observado, produzida, obtido, realizados</em>
 * `EMPTY` (6): <em>é, Dias-Brito, esperado, ilustrados</em>
 
@@ -54,7 +54,7 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 
 6571 <tt><a href="pt_petrogold-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="pt_petrogold-feat-Person.html">Person</a></tt><tt>=3</tt> (5428; 83%), <tt><a href="pt_petrogold-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (5079; 77%), <tt><a href="pt_petrogold-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (3483; 53%), <tt><a href="pt_petrogold-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3402; 52%).
+The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="pt_petrogold-feat-Person.html">Person</a></tt><tt>=3</tt> (5429; 83%), <tt><a href="pt_petrogold-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (5080; 77%), <tt><a href="pt_petrogold-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (3483; 53%), <tt><a href="pt_petrogold-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3402; 52%).
 
 `AUX` tokens may have the following values of `VerbForm`:
 
@@ -89,7 +89,6 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
   <tr><td><tt><tt><a href="pt_petrogold-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="pt_petrogold-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="pt_petrogold-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="pt_petrogold-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>sejam</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="pt_petrogold-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>sido</em></td><td></td></tr>
   <tr><td><tt><tt><a href="pt_petrogold-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pt_petrogold-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td><em>ser</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="pt_petrogold-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pt_petrogold-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>é</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="pt_petrogold-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="pt_petrogold-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td><em>serem</em></td><td></td><td></td></tr>
 </table>
 

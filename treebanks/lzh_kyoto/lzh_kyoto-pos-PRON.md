@@ -65,7 +65,7 @@ The 10 most frequent ambiguous types:  之 (<tt><a href="lzh_kyoto-pos-SCONJ.htm
 
 ## Morphology
 
-The form / lemma ratio of `PRON` is 1.037736 (the average of all parts of speech is 1.013130).
+The form / lemma ratio of `PRON` is 1.037736 (the average of all parts of speech is 1.013204).
 
 The 1st highest number of forms (3) was observed with the lemma “茲”: 兹, 玆, 茲.
 

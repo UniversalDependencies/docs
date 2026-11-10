@@ -44,10 +44,10 @@ The following 3 pairs of parts of speech are connected with `compound:svc`: <tt>
 2	,	,	PUNCT	_	_	17	punct	_	Translit=,|LTranslit=,
 3	ഒറ്റയ്ക്ക്	ഒറ്റയ്ക്ക്	ADV	_	_	4	advmod	_	Translit=oṟṟaykk|LTranslit=oṟṟaykk
 4	ഭരിക്കാൻ	ഭരിക്കുക	VERB	_	Polarity=Pos|VerbForm=Inf	5	xcomp	_	Translit=bharikkān̕|LTranslit=bharikkuka
-5	ഭൂരിപക്ഷം	ഭൂരിപക്ഷം	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	6	nsubj	_	Translit=bhūripakṣaṁ|LTranslit=bhūripakṣaṁ
-6	ഇല്ലാത്തതിനാൽ	ആക്	AUX	_	Polarity=Neg|Tense=Pres|VerbForm=Vnoun	16	advcl	_	Translit=illāttatināl̕|LTranslit=āk
-7	സഖ്യകക്ഷികളുടെ	സഖ്യകക്ഷി	NOUN	_	Animacy=Inan|Case=Gen|Number=Plur	9	nmod:poss	_	Translit=sakhyakakṣikaḷuṭe|LTranslit=sakhyakakṣi
-8	എല്ലാം	എല്ലാം	DET	_	PronType=Tot	7	det	_	Translit=ellāṁ|LTranslit=ellāṁ
+5	ഭൂരിപക്ഷം	ഭൂരിപക്ഷം	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	6	nsubj	_	LTranslit=bhūripakṣaṁ|Translit=bhūripakṣaṁ
+6	ഇല്ലാത്തതിനാൽ	ആക്	AUX	_	Polarity=Neg|Tense=Pres|VerbForm=Vnoun	16	advcl	_	LTranslit=āk|Translit=illāttatināl̕
+7	സഖ്യകക്ഷികളുടെ	സഖ്യകക്ഷി	NOUN	_	Animacy=Inan|Case=Gen|Number=Plur	9	nmod:poss	_	LTranslit=sakhyakakṣi|Translit=sakhyakakṣikaḷuṭe
+8	എല്ലാം	എല്ലാം	DET	_	PronType=Tot	7	det	_	LTranslit=ellāṁ|Translit=ellāṁ
 9	ഇംഗിതത്തിനു	ഇംഗിതം	NOUN	_	Animacy=Inan|Case=Dat|Number=Plur	11	obl	_	Translit=iṁgitattinu|LTranslit=iṁgitaṁ
 10	വഴങ്ങി	വഴങ്ങുക	VERB	_	Tense=Past|VerbForm=Part	11	compound:svc	_	Translit=vaḻaṅṅi|LTranslit=vaḻaṅṅuka
 11	ഭരിക്കുന്ന	ഭരിക്കുക	ADJ	_	VerbForm=Part	12	amod	_	Translit=bharikkunna|LTranslit=bharikkuka
@@ -56,8 +56,8 @@ The following 3 pairs of parts of speech are connected with `compound:svc`: <tt>
 14	ശക്തമായ	ശക്തം	ADJ	_	_	15	amod	_	Translit=śaktamāya|LTranslit=śaktaṁ
 15	ഭരണം	ഭരണം	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	16	obj	_	Translit=bharaṇaṁ|LTranslit=bharaṇaṁ
 16	കാഴ്ചവയ്ക്കുക	കാഴ്ചവയ്ക്കുക	VERB	_	VerbForm=Inf	17	csubj	_	Translit=kāḻcavaykkuka|LTranslit=kāḻcavaykkuka
-17	സാധ്യം	സാധ്യം	ADJ	_	_	0	root	_	Translit=sādhyaṁ|LTranslit=sādhyaṁ
-18	അല്ല	ആക്	AUX	_	Mood=Ind|Polarity=Neg|Tense=Pres|VerbForm=Fin	17	cop	_	Translit=alla|LTranslit=āk
+17	സാധ്യം	സാധ്യം	ADJ	_	_	0	root	_	LTranslit=sādhyaṁ|Translit=sādhyaṁ
+18	അല്ല	ആക്	AUX	_	Mood=Ind|Polarity=Neg|Tense=Pres|VerbForm=Fin	17	cop	_	LTranslit=āk|Translit=alla
 19	.	.	PUNCT	_	_	17	punct	_	Translit=.|LTranslit=.
 
 ~~~
@@ -75,8 +75,8 @@ The following 3 pairs of parts of speech are connected with `compound:svc`: <tt>
 4	കത്ത്	കത്ത്	NOUN	_	Animacy=Inan|Case=Acc|Number=Sing	5	obj	_	Translit=katt|LTranslit=katt
 5	ലഭിച്ചതായി	ലഭിക്കുക	ADV	_	_	14	advcl	_	Translit=labhiccatāyi|LTranslit=labhikkuka
 6	ശിവസേന	ശിവസേന	PROPN	_	Animacy=Inan|Case=Nom|Number=Sing	7	nmod	_	Translit=śivasēna|LTranslit=śivasēna
-7	നേതാവ്	നേതാവ്	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	12	nmod	_	Translit=nētāv|LTranslit=nētāv
-8	ഉം	ഉം	CCONJ	_	_	7	cc	_	Translit=uṁ|LTranslit=uṁ
+7	നേതാവ്	നേതാവ്	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	12	nmod	_	LTranslit=nētāv|Translit=nētāv
+8	ഉം	ഉം	CCONJ	_	_	7	cc	_	LTranslit=uṁ|Translit=uṁ
 9	വനിതാ	വനിതാ	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing	10	compound	_	Translit=vanitā|LTranslit=vanitā
 10	സംഘടനാ	സംഘടന	NOUN	_	Animacy=Inan|Case=Nom|Number=Sing|Typo=Yes	11	nmod	_	CorrectForm=saṅghaṭana|Translit=saṁghaṭanā|LTranslit=saṁghaṭana
 11	പ്രവർത്തകയുമായ	പ്രവർത്തക	ADJ	_	_	7	conj	_	Translit=pravaṟ̕ttakayumāya|LTranslit=pravaṟ̕ttaka

@@ -34,7 +34,7 @@ The most frequent other feature values with which `ADJ` and `Foreign` co-occurre
 `ADJ` tokens may have the following values of `Foreign`:
 
 * `Yes` (5; 100% of non-empty `Foreign`): <em>second, best</em>
-* `EMPTY` (872): <em>olika, många, bra, andra, nya, viktigt, bättre, första, själv, stor</em>
+* `EMPTY` (871): <em>olika, många, bra, andra, nya, viktigt, bättre, första, själv, stor</em>
 
 ### `DET`
 

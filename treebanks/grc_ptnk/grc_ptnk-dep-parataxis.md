@@ -51,7 +51,7 @@ The following 33 pairs of parts of speech are connected with `parataxis`: <tt><a
 7	ἀδικίαν	ἀδικία	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	6	obj	_	Gloss=injustice,iniquity|Ref=GEN_49.5
 8	ἐξ	ἐκ	ADP	_	_	9	case	_	Gloss=out,out-of|Ref=GEN_49.5
 9	αἱρέσεως	αἵρεσις	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	6	obl	_	Gloss=sect,heresy|Ref=GEN_49.5
-10	αὐτῶν	αὐτός	PRON	_	Case=Gen|Gender=Fem,Masc,Neut|Number=Plur|PronType=Prs	9	nmod:poss	_	Gloss=he,she,it,-self,same|Ref=GEN_49.5|SpaceAfter=No
+10	αὐτῶν	αὐτός	PRON	_	Case=Gen|Gender=Masc|Number=Plur|PronType=Prs	9	nmod:poss	_	Gloss=he,she,it,-self,same|Ref=GEN_49.5|SpaceAfter=No
 11	.	.	PUNCT	_	_	10	punct	_	Ref=GEN_49.5
 
 ~~~

@@ -45,7 +45,7 @@ The following 23 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 3	not	not	PART	RB	Polarity=Neg	4	advmod	4:advmod	Negation=Yes|XML=</w>
 4	trust	trust	VERB	VB	VerbForm=Inf	0	root	0:root	XML=<hi rend:::"bold"></hi>
 5	anyone	anyone	PRON	NN	Number=Sing|PronType=Ind	4	obj	4:obj|7:nsubj	Entity=(149-person-new-nnnnn-cf2-1-sgl|MSeg=any-one
-6	who	who	PRON	WP	PronType=Rel	7	nsubj	5:ref	Discourse=elaboration-attribute:114->113:0:syn-mdf-564-_+syn-relcl-565-566-_
+6	who	who	PRON	WP	Case=Nom|PronType=Rel	7	nsubj	5:ref	Discourse=elaboration-attribute:114->113:0:syn-mdf-564-_+syn-relcl-565-566-_
 7	deceives	deceive	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	acl:relcl	5:acl:relcl	_
 8	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	7	obj	7:obj	Entity=(148-person-giv:act-nnnnn-cf1-1-ana)149)|SpaceAfter=No
 9	.	.	PUNCT	.	_	4	punct	4:punct	_

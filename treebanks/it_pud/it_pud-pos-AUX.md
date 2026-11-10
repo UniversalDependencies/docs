@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>è</em> (<tt><a href="it_pud-pos-AUX.
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 10.875000 (the average of all parts of speech is 1.285855).
+The form / lemma ratio of `AUX` is 10.875000 (the average of all parts of speech is 1.282892).
 
 The 1st highest number of forms (25) was observed with the lemma “essere”: <em>Essendo, Sarei, Siamo, era, erano, ero, esser, essere, fosse, fossero, fossimo, fu, furono, saranno, sarebbe, sarebbero, sarà, sia, siano, sono, stata, state, stati, stato, è</em>.
 

@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.0 release.
 The following people have contributed to making this treebank part of UD: Ryan McDonald, Joakim Nivre, Daniel Zeman, Jinho Choi, Na-Rae Han, Jena Hwang, Jayeol Chun.
 
 Repository: [UD_Korean-GSD](https://github.com/UniversalDependencies/UD_Korean-GSD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udko_gsd218)<br />
-Download all treebanks: [UD 2.18](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udko_gsd219)<br />
+Download all treebanks: [UD 2.19](/#download)
 
 License: CC BY-SA 4.0
 
@@ -70,17 +70,17 @@ The project repository: https://github.com/emorynlp/ud-korean
 
 ## Features
 
-[NumType](ko_gsd-feat-NumType.html)
+[ExtPos](ko_gsd-feat-ExtPos.html) – [NumType](ko_gsd-feat-NumType.html) – [PronType](ko_gsd-feat-PronType.html)
 
 ## Relations
 
-[acl](ko_gsd-dep-acl.html) – [acl:relcl](ko_gsd-dep-acl-relcl.html) – [advcl](ko_gsd-dep-advcl.html) – [advmod](ko_gsd-dep-advmod.html) – [amod](ko_gsd-dep-amod.html) – [appos](ko_gsd-dep-appos.html) – [aux](ko_gsd-dep-aux.html) – [case](ko_gsd-dep-case.html) – [cc](ko_gsd-dep-cc.html) – [ccomp](ko_gsd-dep-ccomp.html) – [compound](ko_gsd-dep-compound.html) – [conj](ko_gsd-dep-conj.html) – [cop](ko_gsd-dep-cop.html) – [csubj](ko_gsd-dep-csubj.html) – [dep](ko_gsd-dep-dep.html) – [det](ko_gsd-dep-det.html) – [det:poss](ko_gsd-dep-det-poss.html) – [discourse](ko_gsd-dep-discourse.html) – [fixed](ko_gsd-dep-fixed.html) – [flat](ko_gsd-dep-flat.html) – [iobj](ko_gsd-dep-iobj.html) – [list](ko_gsd-dep-list.html) – [mark](ko_gsd-dep-mark.html) – [nmod](ko_gsd-dep-nmod.html) – [nmod:poss](ko_gsd-dep-nmod-poss.html) – [nsubj](ko_gsd-dep-nsubj.html) – [nsubj:pass](ko_gsd-dep-nsubj-pass.html) – [nummod](ko_gsd-dep-nummod.html) – [obj](ko_gsd-dep-obj.html) – [obl](ko_gsd-dep-obl.html) – [parataxis](ko_gsd-dep-parataxis.html) – [punct](ko_gsd-dep-punct.html) – [root](ko_gsd-dep-root.html) – [xcomp](ko_gsd-dep-xcomp.html)
+[acl](ko_gsd-dep-acl.html) – [acl:relcl](ko_gsd-dep-acl-relcl.html) – [advcl](ko_gsd-dep-advcl.html) – [advmod](ko_gsd-dep-advmod.html) – [amod](ko_gsd-dep-amod.html) – [appos](ko_gsd-dep-appos.html) – [aux](ko_gsd-dep-aux.html) – [case](ko_gsd-dep-case.html) – [cc](ko_gsd-dep-cc.html) – [ccomp](ko_gsd-dep-ccomp.html) – [compound](ko_gsd-dep-compound.html) – [compound:lvc](ko_gsd-dep-compound-lvc.html) – [conj](ko_gsd-dep-conj.html) – [cop](ko_gsd-dep-cop.html) – [csubj](ko_gsd-dep-csubj.html) – [dep](ko_gsd-dep-dep.html) – [det](ko_gsd-dep-det.html) – [det:poss](ko_gsd-dep-det-poss.html) – [discourse](ko_gsd-dep-discourse.html) – [dislocated](ko_gsd-dep-dislocated.html) – [fixed](ko_gsd-dep-fixed.html) – [flat](ko_gsd-dep-flat.html) – [iobj](ko_gsd-dep-iobj.html) – [list](ko_gsd-dep-list.html) – [mark](ko_gsd-dep-mark.html) – [nmod](ko_gsd-dep-nmod.html) – [nmod:poss](ko_gsd-dep-nmod-poss.html) – [nsubj](ko_gsd-dep-nsubj.html) – [nsubj:outer](ko_gsd-dep-nsubj-outer.html) – [nsubj:pass](ko_gsd-dep-nsubj-pass.html) – [nummod](ko_gsd-dep-nummod.html) – [obj](ko_gsd-dep-obj.html) – [obl](ko_gsd-dep-obl.html) – [orphan](ko_gsd-dep-orphan.html) – [parataxis](ko_gsd-dep-parataxis.html) – [punct](ko_gsd-dep-punct.html) – [root](ko_gsd-dep-root.html) – [xcomp](ko_gsd-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 6339 sentences and 80322 tokens.</li>
+<li>This corpus contains 6339 sentences and 80321 tokens.</li>
 </ul>
 
 <ul>
@@ -112,15 +112,15 @@ The project repository: https://github.com/emorynlp/ud-korean
 </ul>
 
 <ul>
-<li>This corpus contains 112 lemmas tagged as pronouns (PRON): 거기+는, 그, 그+가, 그+는, 그+들, 그+들+은, 그+들+을, 그+들+의, 그+들+이, 그+를, 그+만+의, 그+에게, 그+와+의, 그+의, 그거, 그것+ㄴ, 그것+은, 그것+을, 그것+이, 그녀, 그녀+가, 그녀+는, 그녀+들+의, 그녀+의, 그분+의, 나, 나+ㄴ, 나+가수, 나+는, 나+를, 나+만+의, 나+의, 나+이, 내+가, 너+의, 너희, 누+가, 누구, 누구+가, 누구+나, 누구+를, 누구+이+든지, 당신, 당신+도, 맨유+는, 무엇+을, 뭐, 뭐+가, 뭐+지, 셧다운제+가, 어디, 어디+가, 여기, 여기+ㄴ, 여기+가, 여기+는, 여기+를, 여기+만, 여러분+의, 우리, 우리+가, 우리+나라, 우리+는, 우리+도, 우리+들+의, 우리+땅, 우리+의, 울, 울+ㄹ, 이, 이+는, 이+들, 이+들+과, 이+들+에게, 이+들+은, 이+들+을, 이+들+의, 이+들+이, 이+를, 이+의, 이+조차+도, 이건, 이것+ㄴ, 이것+은, 이것+을, 이것+이, 이곳+은, 이곳+을, 이곳+이, 자기, 자기+부정, 자신+들+의, 자신+들+이, 자신+을, 자신+의, 자신+이, 저, 저+는, 저+도, 저+두, 저+의, 저기, 저도, 저희, 저희+도, 저희+들, 저희+를, 전, 절, 절+는, 제, 제+가</li>
+<li>This corpus contains 109 lemmas tagged as pronouns (PRON): 거기+는, 그, 그+가, 그+는, 그+들, 그+들+은, 그+들+을, 그+들+의, 그+들+이, 그+를, 그+만+의, 그+에게, 그+와+의, 그+의, 그거, 그것+ㄴ, 그것+은, 그것+을, 그것+이, 그녀, 그녀+가, 그녀+는, 그녀+들+의, 그녀+의, 그분+의, 나, 나+ㄴ, 나+가수, 나+는, 나+를, 나+만+의, 나+의, 나+이, 내+가, 너+의, 너희, 누구, 누구+가, 누구+나, 누구+를, 누구+이+든지, 당신, 당신+도, 무엇+을, 뭐, 뭐+가, 뭐+지, 어디, 어디+가, 여기, 여기+ㄴ, 여기+가, 여기+는, 여기+를, 여기+만, 여러분+의, 우리, 우리+가, 우리+나라, 우리+는, 우리+도, 우리+들+의, 우리+땅, 우리+의, 울, 울+ㄹ, 이, 이+는, 이+들, 이+들+과, 이+들+에게, 이+들+은, 이+들+을, 이+들+의, 이+들+이, 이+를, 이+의, 이+조차+도, 이건, 이것+ㄴ, 이것+은, 이것+을, 이것+이, 이곳+은, 이곳+을, 이곳+이, 자기, 자기+부정, 자신+들+의, 자신+들+이, 자신+을, 자신+의, 자신+이, 저, 저+는, 저+도, 저+두, 저+의, 저기, 저도, 저희, 저희+도, 저희+들, 저희+를, 전, 절, 절+는, 제, 제+가</li>
 </ul>
 
 <ul>
-<li>This corpus contains 29 lemmas tagged as determiners (DET): 각, 그, 그런, 두, 몇, 몇몇, 모, 모든, 무슨, 뭔, 아무, 약, 양, 어느, 어떠+하+ㄴ, 어떤, 여느, 옛, 오+ㄴ, 올, 이, 이+들, 이러+하+ㄴ, 이런, 이번, 전, 제, 한, 현</li>
+<li>This corpus contains 25 lemmas tagged as determiners (DET): 각, 그, 그런, 몇, 몇몇, 모, 모든, 무슨, 뭔, 아무, 약, 양, 어느, 어떠+하+ㄴ, 어떤, 여느, 온, 올, 이, 이+들, 이러+하+ㄴ, 이런, 이번, 한, 현</li>
 </ul>
 
 <ul>
-<li>Out of the above, 5 lemmas occurred sometimes as PRON and sometimes as DET: 그, 이, 이+들, 전, 제</li>
+<li>Out of the above, 3 lemmas occurred sometimes as PRON and sometimes as DET: 그, 이, 이+들</li>
 </ul>
 
 <ul>
@@ -160,6 +160,51 @@ The project repository: https://github.com/emorynlp/ud-korean
 <h3>Pronouns, Determiners, Quantifiers</h3>
 
 
+<ul>
+  <li><a>PronType</a></li>
+</ul>
+
+<ul>
+  <li>Dem
+    <ul>
+      <li>DET: 이, 그, 이들, 이러한, 그런, 올, 현, 이런, 이번</li>
+      <li>PRON: 이를, 그, 이는, 이, 여기, 이들은, 이것은, 이들의, 그것은, 여기가</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Ind
+    <ul>
+      <li>DET: 어떤, 어느, 약, 여느, 한, 몇몇, 아무, 모, 어떠한</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Int
+    <ul>
+      <li>DET: 몇, 무슨, 뭔</li>
+      <li>PRON: 누가, 누구, 뭐가, 누구나, 누구든지, 뭐, 어디, 누구를, 무엇을, 뭐지</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Prs
+    <ul>
+      <li>PRON: 그는, 그의, 우리, 자신의, 제가, 내가, 저는, 그가, 우리는, 전</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Tot
+    <ul>
+      <li>DET: 모든, 각, 양, 온</li>
+    </ul>
+  </li>
+</ul>
 
 <ul>
   <li><a>NumType</a></li>
@@ -184,6 +229,18 @@ The project repository: https://github.com/emorynlp/ud-korean
 <h3>Other Features</h3>
 
 
+<ul>
+  <li><a>ExtPos</a>
+    <ul>
+      <li>AUX
+        <ul>
+          <li>NOUN: 뿐만, 뿐</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
 <h2>Syntax</h2>
 
 <h3>Auxiliary Verbs and Copula</h3>
@@ -202,7 +259,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN (5505)</li>
+      <li>VERB--NOUN (5258)</li>
       <li>VERB--NOUN-ADP(까지) (1)</li>
       <li>VERB--NOUN-ADP(는) (14)</li>
       <li>VERB--NOUN-ADP(도) (3)</li>
@@ -217,7 +274,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--NOUN-ADP(중) (1)</li>
       <li>VERB--NOUN-ADP(측+은) (1)</li>
       <li>VERB--NOUN-ADP(측+이) (1)</li>
-      <li>VERB--PRON (285)</li>
+      <li>VERB--PRON (275)</li>
     </ul>
   </li>
 </ul>
@@ -225,8 +282,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN (5017)</li>
-      <li>VERB--NOUN-ADP(는) (1)</li>
+      <li>VERB--NOUN (4965)</li>
       <li>VERB--NOUN-ADP(도) (1)</li>
       <li>VERB--NOUN-ADP(마저+를) (1)</li>
       <li>VERB--NOUN-ADP(만) (1)</li>
@@ -236,7 +292,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--NOUN-ADP(의) (3)</li>
       <li>VERB--NOUN-ADP(이란) (1)</li>
       <li>VERB--NOUN-ADP(정도+를) (1)</li>
-      <li>VERB--PRON (63)</li>
+      <li>VERB--PRON (62)</li>
     </ul>
   </li>
 </ul>
@@ -256,6 +312,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 4 relation subtypes: <a>acl:relcl</a>, <a>det:poss</a>, <a>nmod:poss</a>, <a>nsubj:pass</a></li>
-<li>The following 7 relation types are not used in this corpus at all: <a>vocative</a>, <a>expl</a>, <a>dislocated</a>, <a>clf</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
+<li>This corpus uses 6 relation subtypes: <a>acl:relcl</a>, <a>compound:lvc</a>, <a>det:poss</a>, <a>nmod:poss</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a></li>
+<li>The following 5 relation types are not used in this corpus at all: <a>vocative</a>, <a>expl</a>, <a>clf</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>

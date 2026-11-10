@@ -9,45 +9,45 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Fem`, `Masc`.
 
-12548 tokens (51%) have a non-empty value of `Gender`.
+12547 tokens (51%) have a non-empty value of `Gender`.
 4394 types (74%) occur at least once with a non-empty value of `Gender`.
 3536 lemmas (77%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 8 part-of-speech tags: <tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt> (4669; 19% instances), <tt><a href="fr_pud-pos-DET.html">DET</a></tt> (3880; 16% instances), <tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt> (1609; 7% instances), <tt><a href="fr_pud-pos-PROPN.html">PROPN</a></tt> (970; 4% instances), <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> (836; 3% instances), <tt><a href="fr_pud-pos-PRON.html">PRON</a></tt> (481; 2% instances), <tt><a href="fr_pud-pos-AUX.html">AUX</a></tt> (99; 0% instances), <tt><a href="fr_pud-pos-NUM.html">NUM</a></tt> (4; 0% instances).
+The feature is used with 8 part-of-speech tags: <tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt> (4669; 19% instances), <tt><a href="fr_pud-pos-DET.html">DET</a></tt> (3879; 16% instances), <tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt> (1609; 7% instances), <tt><a href="fr_pud-pos-PROPN.html">PROPN</a></tt> (970; 4% instances), <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> (836; 3% instances), <tt><a href="fr_pud-pos-PRON.html">PRON</a></tt> (481; 2% instances), <tt><a href="fr_pud-pos-AUX.html">AUX</a></tt> (99; 0% instances), <tt><a href="fr_pud-pos-NUM.html">NUM</a></tt> (4; 0% instances).
 
 ### `NOUN`
 
 4669 <tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="fr_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3365; 72%).
+The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="fr_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3364; 72%).
 
 `NOUN` tokens may have the following values of `Gender`:
 
-* `Fem` (2173; 47% of non-empty `Gender`): <em>années, guerre, partie, ville, année, fois, mer, personnes, région, histoire</em>
-* `Masc` (2496; 53% of non-empty `Gender`): <em>ans, nord, état, gouvernement, siècle, jour, monde, pays, sud, temps</em>
+* `Fem` (2174; 47% of non-empty `Gender`): <em>années, guerre, partie, ville, année, fois, mer, personnes, région, histoire</em>
+* `Masc` (2495; 53% of non-empty `Gender`): <em>ans, nord, état, gouvernement, siècle, jour, monde, pays, sud, temps</em>
 
 <table>
   <tr><th>Paradigm <i>sud</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
   <tr><td><tt></tt></td><td><em>sud</em></td><td><em>sud</em></td></tr>
 </table>
 
-`Gender` seems to be **lexical feature** of `NOUN`. 99% lemmas (1828) occur only with one value of `Gender`.
+`Gender` seems to be **lexical feature** of `NOUN`. 99% lemmas (1827) occur only with one value of `Gender`.
 
 ### `DET`
 
-3880 <tt><a href="fr_pud-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Gender`.
+3879 <tt><a href="fr_pud-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="fr_pud-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (3451; 89%), <tt><a href="fr_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2863; 74%), <tt><a href="fr_pud-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (2781; 72%).
+The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="fr_pud-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (3450; 89%), <tt><a href="fr_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2862; 74%), <tt><a href="fr_pud-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (2781; 72%).
 
 `DET` tokens may have the following values of `Gender`:
 
-* `Fem` (1858; 48% of non-empty `Gender`): <em>la, les, l', une, sa, des, cette, leur, ses, de</em>
-* `Masc` (2022; 52% of non-empty `Gender`): <em>le, les, un, l', des, son, ce, ses, ces, de</em>
+* `Fem` (1861; 48% of non-empty `Gender`): <em>la, les, l', une, sa, des, cette, leur, ses, de</em>
+* `Masc` (2018; 52% of non-empty `Gender`): <em>le, les, un, l', des, son, ce, ses, ces, leur</em>
 * `EMPTY` (7): <em>les, quelque, d', l', le</em>
 
 <table>
   <tr><th>Paradigm <i>le</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
   <tr><td><tt><tt><a href="fr_pud-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="fr_pud-feat-ExtPos.html">ExtPos</a></tt><tt>=PRON</tt>|<tt><a href="fr_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>l'</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="fr_pud-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="fr_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>le, l', les, l‘</em></td><td><em>la, l', l‘</em></td></tr>
+  <tr><td><tt><tt><a href="fr_pud-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="fr_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>le, l', l‘</em></td><td><em>la, l', l‘</em></td></tr>
   <tr><td><tt><tt><a href="fr_pud-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="fr_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>les</em></td><td><em>les</em></td></tr>
   <tr><td><tt><tt><a href="fr_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>L', La</em></td></tr>
 </table>
@@ -56,12 +56,12 @@ The most frequent other feature values with which `DET` and `Gender` co-occurred
 
 1609 <tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt> tokens (100% of all `ADJ` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="fr_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1084; 67%).
+The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="fr_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1083; 67%).
 
 `ADJ` tokens may have the following values of `Gender`:
 
-* `Fem` (788; 49% of non-empty `Gender`): <em>première, grande, nouvelle, dernière, dernières, plusieurs, nombreuses, nouvelles, autres, deuxième</em>
-* `Masc` (821; 51% of non-empty `Gender`): <em>autres, grand, dernier, derniers, général, nouveaux, plusieurs, certains, nouveau, chaque</em>
+* `Fem` (789; 49% of non-empty `Gender`): <em>première, grande, nouvelle, dernière, dernières, plusieurs, nombreuses, nouvelles, autres, deuxième</em>
+* `Masc` (820; 51% of non-empty `Gender`): <em>autres, grand, dernier, derniers, général, nouveaux, plusieurs, certains, nouveau, chaque</em>
 * `EMPTY` (5): <em>Associated, New, North, Select, Simple</em>
 
 <table>
@@ -149,13 +149,13 @@ The most frequent other feature values with which `AUX` and `Gender` co-occurred
 ## Relations with Agreement in `Gender`
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
-<tt>NOUN --[<tt><a href="fr_pud-dep-det.html">det</a></tt>]--> DET</tt> (3478; 100%),
-<tt>NOUN --[<tt><a href="fr_pud-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1343; 100%),
-<tt>NOUN --[<tt><a href="fr_pud-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (684; 52%),
-<tt>PROPN --[<tt><a href="fr_pud-dep-det.html">det</a></tt>]--> DET</tt> (244; 96%),
+<tt>NOUN --[<tt><a href="fr_pud-dep-det.html">det</a></tt>]--> DET</tt> (3485; 100%),
+<tt>NOUN --[<tt><a href="fr_pud-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1346; 100%),
+<tt>NOUN --[<tt><a href="fr_pud-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (686; 53%),
+<tt>PROPN --[<tt><a href="fr_pud-dep-det.html">det</a></tt>]--> DET</tt> (247; 97%),
 <tt>PROPN --[<tt><a href="fr_pud-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (189; 96%),
 <tt>NOUN --[<tt><a href="fr_pud-dep-conj.html">conj</a></tt>]--> NOUN</tt> (151; 60%),
-<tt>VERB --[<tt><a href="fr_pud-dep-nsubj-pass.html">nsubj:pass</a></tt>]--> NOUN</tt> (121; 96%),
+<tt>VERB --[<tt><a href="fr_pud-dep-nsubj-pass.html">nsubj:pass</a></tt>]--> NOUN</tt> (122; 97%),
 <tt>NOUN --[<tt><a href="fr_pud-dep-acl.html">acl</a></tt>]--> VERB</tt> (105; 70%),
 <tt>NOUN --[<tt><a href="fr_pud-dep-appos.html">appos</a></tt>]--> PROPN</tt> (74; 62%),
 <tt>VERB --[<tt><a href="fr_pud-dep-conj.html">conj</a></tt>]--> VERB</tt> (53; 54%).

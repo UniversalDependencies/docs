@@ -84,6 +84,7 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 <table>
   <tr><th>Paradigm <i>آن</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt><tt><a href="fa_seraji-feat-ExtPos.html">ExtPos</a></tt><tt>=ADV</tt>|<tt><a href="fa_seraji-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td>آن</td><td></td></tr>
   <tr><td><tt><tt><a href="fa_seraji-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="fa_seraji-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td>ش, اش</td><td></td></tr>
   <tr><td><tt><tt><a href="fa_seraji-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td>آن, دان, اش</td><td>آن‌ها, آنان, آنها, آن‌هایی</td></tr>
 </table>
@@ -124,14 +125,14 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="fa_seraji-dep-nmod-poss.html">nmod:poss</a></tt>]--> NOUN</tt> (9874; 70%),
-<tt>VERB --[<tt><a href="fa_seraji-dep-obl.html">obl</a></tt>]--> NOUN</tt> (5360; 69%),
-<tt>VERB --[<tt><a href="fa_seraji-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (3929; 82%),
-<tt>NOUN --[<tt><a href="fa_seraji-dep-conj.html">conj</a></tt>]--> NOUN</tt> (3649; 86%),
-<tt>NOUN --[<tt><a href="fa_seraji-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (3591; 72%),
+<tt>NOUN --[<tt><a href="fa_seraji-dep-nmod-poss.html">nmod:poss</a></tt>]--> NOUN</tt> (9875; 70%),
+<tt>VERB --[<tt><a href="fa_seraji-dep-obl.html">obl</a></tt>]--> NOUN</tt> (5363; 69%),
+<tt>VERB --[<tt><a href="fa_seraji-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (3887; 82%),
+<tt>NOUN --[<tt><a href="fa_seraji-dep-conj.html">conj</a></tt>]--> NOUN</tt> (3655; 86%),
+<tt>NOUN --[<tt><a href="fa_seraji-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (3590; 72%),
 <tt>NOUN --[<tt><a href="fa_seraji-dep-flat.html">flat</a></tt>]--> NOUN</tt> (3109; 96%),
 <tt>VERB --[<tt><a href="fa_seraji-dep-compound-lvc.html">compound:lvc</a></tt>]--> NOUN</tt> (3107; 69%),
-<tt>VERB --[<tt><a href="fa_seraji-dep-obj.html">obj</a></tt>]--> NOUN</tt> (2081; 63%),
+<tt>VERB --[<tt><a href="fa_seraji-dep-obj.html">obj</a></tt>]--> NOUN</tt> (2094; 63%),
 <tt>NOUN --[<tt><a href="fa_seraji-dep-nmod-poss.html">nmod:poss</a></tt>]--> PRON</tt> (1518; 65%),
 <tt>VERB --[<tt><a href="fa_seraji-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (1467; 69%).
 

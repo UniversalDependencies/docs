@@ -52,8 +52,8 @@ The following 6 pairs of parts of speech are connected with `cc`: <tt><a href="z
 2	单元	_	NOUN	_	_	0	root	_	Gloss=_|SpaceAfter=No|Translit=dān_yuán
 3	，	_	PUNCT	_	_	4	punct	_	Gloss=_|SpaceAfter=No|Translit=，
 4	用	_	VERB	_	_	2	parataxis	_	Gloss=_|SpaceAfter=No|Translit=yòng
-5	于	_	ADP	_	_	14	mark	_	Gloss=_|SpaceAfter=No|Translit=yú
-6	对	_	PART	_	_	13	case	_	Gloss=_|SpaceAfter=No|Translit=dùi
+5	于	_	ADP	_	_	4	obl:arg	_	Gloss=_|SpaceAfter=No|Translit=yú
+6	对	_	PART	_	_	14	mark	_	Gloss=_|SpaceAfter=No|Translit=dùi
 7	所述	_	ADJ	_	_	10	amod	_	Gloss=_|SpaceAfter=No|Translit=suǒ_shù
 8	主	_	ADJ	_	_	10	amod	_	Gloss=_|SpaceAfter=No|Translit=zhǔ
 9	交换	_	VERB	_	_	10	acl	_	Gloss=_|SpaceAfter=No|Translit=jiāo_huàn
@@ -61,7 +61,7 @@ The following 6 pairs of parts of speech are connected with `cc`: <tt><a href="z
 11	传输	_	VERB	_	_	14	advcl	_	Gloss=_|SpaceAfter=No|Translit=chuán_shū
 12	的	_	PART	_	_	11	mark	_	Gloss=_|SpaceAfter=No|Translit=de
 13	数据	_	NOUN	_	_	14	obj	_	Gloss=_|SpaceAfter=No|Translit=shù_jù
-14	进行	_	VERB	_	_	4	ccomp	_	Gloss=_|SpaceAfter=No|Translit=jìn_xíng
+14	进行	_	VERB	_	_	5	ccomp	_	Gloss=_|SpaceAfter=No|Translit=jìn_xíng
 15	处理	_	VERB	_	_	14	ccomp	_	Gloss=_|SpaceAfter=No|Translit=chù_lǐ
 16	或	_	CCONJ	_	_	17	cc	_	Gloss=_|SpaceAfter=No|Translit=huò
 17	预处理	_	VERB	_	_	15	conj	_	Gloss=_|SpaceAfter=No|Translit=yù_chù_lǐ

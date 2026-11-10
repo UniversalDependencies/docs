@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-164 nodes (2%) are attached to their parents as `acl`.
+165 nodes (2%) are attached to their parents as `acl`.
 
-164 instances of `acl` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.84146341463415.
+165 instances of `acl` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.93333333333333.
 
-The following 14 pairs of parts of speech are connected with `acl`: <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (77; 47% instances), <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt>-<tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (39; 24% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (9; 5% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt> (6; 4% instances), <tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (6; 4% instances), <tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (5; 3% instances), <tt><a href="yo_ytb-pos-NUM.html">NUM</a></tt>-<tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (5; 3% instances), <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt>-<tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt> (5; 3% instances), <tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt>-<tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (3; 2% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (3; 2% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="yo_ytb-pos-DET.html">DET</a></tt>-<tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
+The following 15 pairs of parts of speech are connected with `acl`: <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (80; 48% instances), <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt>-<tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (38; 23% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (10; 6% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt> (8; 5% instances), <tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (7; 4% instances), <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt>-<tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt> (5; 3% instances), <tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (3; 2% instances), <tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt>-<tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (3; 2% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (3; 2% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="yo_ytb-pos-NUM.html">NUM</a></tt>-<tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="yo_ytb-pos-DET.html">DET</a></tt>-<tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -23,7 +23,7 @@ The following 14 pairs of parts of speech are connected with `acl`: <tt><a href=
 # visual-style 7	fgColor:white
 # visual-style 7 10 acl	color:blue
 1	“	“	PUNCT	_	_	4	punct	_	Gloss=“|Ref=MATT_5.14|SpaceAfter=No
-2	Ẹyin	Ẹyin	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	4	nsubj	_	Gloss=you|Ref=MATT_5.14
+2	Ẹyin	ẹyin	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	4	nsubj	_	Gloss=you|Ref=MATT_5.14
 3	ni	ni	PART	_	_	2	case	_	Gloss=is|Ref=MATT_5.14
 4	ìmọ́lẹ̀	ìmọ́lẹ̀	NOUN	_	_	0	root	_	Gloss=light|Ref=MATT_5.14
 5	ayé	ayé	NOUN	_	_	4	nmod	_	Gloss=earth|Ref=MATT_5.14|SpaceAfter=No
@@ -49,8 +49,8 @@ The following 14 pairs of parts of speech are connected with `acl`: <tt><a href=
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
 # visual-style 11 15 acl	color:blue
-1	Nítorí	nítorí	SCONJ	_	_	5	mark	_	Gloss=for|Ref=JOHN_11.36
-2	náà	náà	PRON	_	_	1	fixed	_	Gloss=that|Ref=JOHN_11.36
+1	Nítorí	nítorí	SCONJ	_	ExtPos=SCONJ	5	mark	_	Gloss=for|Ref=JOHN_11.36
+2	náà	náà	PRON	_	PronType=Dem	1	fixed	_	Gloss=that|Ref=JOHN_11.36
 3	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	4	det	_	Gloss=the|Ref=JOHN_11.36
 4	Júù	júù	PROPN	_	_	5	nsubj	_	Gloss=jews|Ref=JOHN_11.36
 5	wí	wí	VERB	_	_	0	root	_	Gloss=said|Ref=JOHN_11.36
@@ -80,8 +80,8 @@ The following 14 pairs of parts of speech are connected with `acl`: <tt><a href=
 # visual-style 5 13 acl	color:blue
 1	Ní	ní	ADP	_	_	2	case	_	_
 2	Nollywood,	nollywood,	NOUN	_	_	0	root	_	_
-3	Genevieve	Genevieve	NOUN	_	_	2	nmod	_	_
-4	Nnaji	Nnaji	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	3	nmod	_	_
+3	Genevieve	genevieve	NOUN	_	_	2	nmod	_	_
+4	Nnaji	nnaji	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	3	nmod	_	_
 5	jẹ́	jẹ́	VERB	_	_	2	advcl	_	_
 6	ọ̀kan	ọ̀kan	NOUN	_	_	5	obj	_	_
 7	nínú	nínú	ADP	_	_	9	case	_	_

@@ -14,7 +14,7 @@ There are 2 language-specific subtypes of `nmod`: <tt><a href="sga_dipsgg-dep-nm
 38 instances of `nmod` (97%) are left-to-right (parent precedes child).
 Average distance between parent and child is 2.17948717948718.
 
-The following 5 pairs of parts of speech are connected with `nmod`: <tt><a href="sga_dipsgg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sga_dipsgg-pos-NOUN.html">NOUN</a></tt> (29; 74% instances), <tt><a href="sga_dipsgg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sga_dipsgg-pos-PROPN.html">PROPN</a></tt> (6; 15% instances), <tt><a href="sga_dipsgg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sga_dipsgg-pos-NOUN.html">NOUN</a></tt> (2; 5% instances), <tt><a href="sga_dipsgg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sga_dipsgg-pos-PART.html">PART</a></tt> (1; 3% instances), <tt><a href="sga_dipsgg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sga_dipsgg-pos-PROPN.html">PROPN</a></tt> (1; 3% instances).
+The following 5 pairs of parts of speech are connected with `nmod`: <tt><a href="sga_dipsgg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sga_dipsgg-pos-NOUN.html">NOUN</a></tt> (28; 72% instances), <tt><a href="sga_dipsgg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sga_dipsgg-pos-PROPN.html">PROPN</a></tt> (7; 18% instances), <tt><a href="sga_dipsgg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sga_dipsgg-pos-NOUN.html">NOUN</a></tt> (2; 5% instances), <tt><a href="sga_dipsgg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sga_dipsgg-pos-PART.html">PART</a></tt> (1; 3% instances), <tt><a href="sga_dipsgg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sga_dipsgg-pos-PROPN.html">PROPN</a></tt> (1; 3% instances).
 
 
 ~~~ conllu
@@ -70,10 +70,11 @@ The following 5 pairs of parts of speech are connected with `nmod`: <tt><a href=
 14	ar	ar	ADP	_	AdpType=Prep|Definite=Def	16	case	_	SpaceAfter=No
 15	in	a	DET	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Art	16	det	_	SpaceAfter=No
 16	scribund	scríbend	NOUN	_	Case=Dat|Number=Sing	10	nmod	_	_
-17	roscribad	scríbaid	VERB	_	Mood=Ind|Number=Sing|PartType=Aug|Person=3|Tense=Past|Voice=Pass	16	acl:relcl	_	_
-18	in	in	DET	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Art	19	det	_	SpaceAfter=No
-19	dul	dul	NOUN	_	Case=Acc|Number=Sing	17	obl	_	SpaceAfter=No
-20	so	so	PART	_	PronType=Dem	19	amod	_	_
+17	ro	ro	PART	_	PartType=Aug	18	compound:prt	_	SpaceAfter=No
+18	scribad	scríbaid	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Pass	16	acl:relcl	_	_
+19	in	in	DET	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Art	20	det	_	SpaceAfter=No
+20	dul	dul	NOUN	_	Case=Acc|Number=Sing	18	obl	_	SpaceAfter=No
+21	so	so	PART	_	PronType=Dem	20	amod	_	_
 
 ~~~
 

@@ -75,7 +75,7 @@ The 10 most frequent relations where parent and child node agree in `PronType`:
 <tt>PRON --[<tt><a href="no_nynorsk-dep-expl.html">expl</a></tt>]--> PRON</tt> (57; 80%),
 <tt>PRON --[<tt><a href="no_nynorsk-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (38; 72%),
 <tt>PRON --[<tt><a href="no_nynorsk-dep-conj.html">conj</a></tt>]--> PRON</tt> (22; 96%),
-<tt>PRON --[<tt><a href="no_nynorsk-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (12; 80%),
+<tt>PRON --[<tt><a href="no_nynorsk-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (12; 67%),
 <tt>DET --[<tt><a href="no_nynorsk-dep-nmod-poss.html">nmod:poss</a></tt>]--> PRON</tt> (8; 89%),
 <tt>PRON --[<tt><a href="no_nynorsk-dep-appos.html">appos</a></tt>]--> PRON</tt> (6; 100%),
 <tt>DET --[<tt><a href="no_nynorsk-dep-flat-name.html">flat:name</a></tt>]--> DET</tt> (1; 100%).

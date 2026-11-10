@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.18 release
 The following people have contributed to making this treebank part of UD: Bernard Caron.
 
 Repository: [UD_Hausa-EasternAutogramm](https://github.com/UniversalDependencies/UD_Hausa-EasternAutogramm)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udha_easternautogramm218)<br />
-Download all treebanks: [UD 2.18](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udha_easternautogramm219)<br />
+Download all treebanks: [UD 2.19](/#download)
 
 License: CC BY-SA 4.0
 
@@ -584,7 +584,7 @@ Jaggar, Philip J. 1992. An advanced Hausa reader with grammatical notes and exer
     <ul>
       <li>ADP
         <ul>
-          <li>ADP: à, dàgà</li>
+          <li>ADP: à, dàgà, gab</li>
           <li>ADV: duk</li>
           <li>NOUN: danganèː</li>
         </ul>

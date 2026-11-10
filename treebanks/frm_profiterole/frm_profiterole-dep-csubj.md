@@ -9,30 +9,29 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `csubj`: <tt><a href="frm_profiterole-dep-csubj-pass.html">csubj:pass</a></tt>.
 
-69 nodes (0%) are attached to their parents as `csubj`.
+96 nodes (0%) are attached to their parents as `csubj`.
 
-63 instances of `csubj` (91%) are left-to-right (parent precedes child).
-Average distance between parent and child is 7.95652173913043.
+80 instances of `csubj` (83%) are left-to-right (parent precedes child).
+Average distance between parent and child is 9.03125.
 
-The following 8 pairs of parts of speech are connected with `csubj`: <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (25; 36% instances), <tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (19; 28% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (10; 14% instances), <tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (7; 10% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt> (4; 6% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (2; 3% instances), <tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (1; 1% instances).
+The following 10 pairs of parts of speech are connected with `csubj`: <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (30; 31% instances), <tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (26; 27% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (21; 22% instances), <tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (7; 7% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt> (4; 4% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (4; 4% instances), <tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="frm_profiterole-pos-AUX.html">AUX</a></tt>-<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 6 csubj	color:blue
-1	et	et	CCONJ	CONcoo	_	3	cc:nc	_	XmlId=w_32_14592
-2	est	être	AUX	VERcjg	VerbForm=Fin	3	cop	_	XmlId=w_32_14593
-3	temps	temps	NOUN	NOMcom	_	0	root	_	XmlId=w_32_14594
-4	que	que	SCONJ	CONsub	_	6	mark	_	XmlId=w_32_14595
-5	je	je	PRON	PROper	PronType=Prs	6	nsubj	_	XmlId=w_32_14596
-6	retourne	retourner	VERB	VERcjg	VerbForm=Fin	3	csubj	_	XmlId=w_32_14597
-7	a	_	ADP	_	_	9	case	_	_
-8	le	_	DET	_	Definite=Def|PronType=Art	9	det	_	_
-9	myen	mien	PRON	PROpos	Poss=Yes	6	obl	_	SpaceAfter=No|XmlId=w_32_14599
-10	.	.	PUNCT	PONfrt	_	3	punct	_	XmlId=w_32_14600
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 5 csubj	color:blue
+1	ne	_	CCONJ	_	_	7	cc:nc	_	XmlId=w_melusine_130648
+2	aussi	_	ADV	_	_	7	advmod	_	XmlId=w_melusine_130649
+3	de	_	ADP	_	_	5	mark	_	XmlId=w_melusine_130650
+4	lui	_	PRON	_	_	5	iobj	_	XmlId=w_melusine_130651
+5	conseillier	_	VERB	_	_	7	csubj	_	XmlId=w_melusine_130652
+6	est	_	AUX	_	_	7	cop	_	XmlId=w_melusine_130653
+7	peine	_	NOUN	_	_	0	root	_	XmlId=w_melusine_130654
+8	perdue	_	VERB	_	_	7	acl	_	XmlId=w_melusine_130655|SpaceAfter=No
+9	,	_	PUNCT	_	_	7	punct	_	XmlId=w_melusine_130656
 
 ~~~
 

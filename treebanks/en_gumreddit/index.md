@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.6 release.
 The following people have contributed to making this treebank part of UD: Siyao Peng, Amir Zeldes.
 
 Repository: [UD_English-GUMReddit](https://github.com/UniversalDependencies/UD_English-GUMReddit)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uden_gumreddit218)<br />
-Download all treebanks: [UD 2.18](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uden_gumreddit219)<br />
+Download all treebanks: [UD 2.19](/#download)
 
 License: CC BY 4.0. The underlying text is not included; the user must obtain it separately and then merge with the UD annotation using a script distributed with UD
 
@@ -380,7 +380,6 @@ doi = {http://dx.doi.org/10.1007/s10579-016-9343-x}
 <ul>
   <li>Neg
     <ul>
-      <li>ADV: _</li>
       <li>CCONJ: _</li>
       <li>INTJ: _</li>
       <li>PART: _</li>
@@ -526,6 +525,7 @@ doi = {http://dx.doi.org/10.1007/s10579-016-9343-x}
 <ul>
   <li>Neg
     <ul>
+      <li>ADV: _</li>
       <li>DET: _</li>
       <li>PRON: _</li>
     </ul>
@@ -552,6 +552,7 @@ doi = {http://dx.doi.org/10.1007/s10579-016-9343-x}
 <ul>
   <li>Tot
     <ul>
+      <li>ADV: _</li>
       <li>DET: _</li>
       <li>PRON: _</li>
     </ul>
@@ -808,15 +809,15 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
     <ul>
       <li>VERB--NOUN (1)</li>
       <li>VERB-Fin--NOUN (189)</li>
-      <li>VERB-Fin--PRON (93)</li>
-      <li>VERB-Fin--PRON-Nom (368)</li>
+      <li>VERB-Fin--PRON (78)</li>
+      <li>VERB-Fin--PRON-Nom (383)</li>
       <li>VERB-Ger--NOUN (4)</li>
       <li>VERB-Inf--NOUN (52)</li>
-      <li>VERB-Inf--PRON (31)</li>
-      <li>VERB-Inf--PRON-Nom (182)</li>
+      <li>VERB-Inf--PRON (27)</li>
+      <li>VERB-Inf--PRON-Nom (186)</li>
       <li>VERB-Part--NOUN (22)</li>
-      <li>VERB-Part--PRON (16)</li>
-      <li>VERB-Part--PRON-Nom (121)</li>
+      <li>VERB-Part--PRON (13)</li>
+      <li>VERB-Part--PRON-Nom (124)</li>
     </ul>
   </li>
 </ul>
@@ -825,19 +826,19 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>obj</a>
     <ul>
       <li>VERB--NOUN (1)</li>
-      <li>VERB-Fin--NOUN (235)</li>
-      <li>VERB-Fin--PRON (37)</li>
-      <li>VERB-Fin--PRON-Acc (45)</li>
+      <li>VERB-Fin--NOUN (233)</li>
+      <li>VERB-Fin--PRON (28)</li>
+      <li>VERB-Fin--PRON-Acc (52)</li>
       <li>VERB-Ger--NOUN (26)</li>
       <li>VERB-Ger--PRON (2)</li>
       <li>VERB-Ger--PRON-Acc (6)</li>
-      <li>VERB-Inf--NOUN (208)</li>
-      <li>VERB-Inf--PRON (44)</li>
-      <li>VERB-Inf--PRON-Acc (55)</li>
+      <li>VERB-Inf--NOUN (210)</li>
+      <li>VERB-Inf--PRON (33)</li>
+      <li>VERB-Inf--PRON-Acc (68)</li>
       <li>VERB-Inf--PRON-Gen (1)</li>
       <li>VERB-Part--NOUN (82)</li>
-      <li>VERB-Part--PRON (17)</li>
-      <li>VERB-Part--PRON-Acc (18)</li>
+      <li>VERB-Part--PRON (13)</li>
+      <li>VERB-Part--PRON-Acc (22)</li>
     </ul>
   </li>
 </ul>

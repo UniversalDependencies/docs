@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.4 release.
 The following people have contributed to making this treebank part of UD: Olga Lyashevskaya, Dmitri Sitchinava.
 
 Repository: [UD_Old_East_Slavic-RNC](https://github.com/UniversalDependencies/UD_Old_East_Slavic-RNC)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udorv_rnc218)<br />
-Download all treebanks: [UD 2.18](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udorv_rnc219)<br />
+Download all treebanks: [UD 2.19](/#download)
 
 License: CC BY-SA 4.0
 
@@ -137,7 +137,7 @@ Proceedings of the International Conference Dialogue 2019. Moscow, May 29 - June
 
 ## Relations
 
-[acl](orv_rnc-dep-acl.html) – [acl:relcl](orv_rnc-dep-acl-relcl.html) – [advcl](orv_rnc-dep-advcl.html) – [advmod](orv_rnc-dep-advmod.html) – [amod](orv_rnc-dep-amod.html) – [appos](orv_rnc-dep-appos.html) – [aux](orv_rnc-dep-aux.html) – [aux:pass](orv_rnc-dep-aux-pass.html) – [case](orv_rnc-dep-case.html) – [cc](orv_rnc-dep-cc.html) – [ccomp](orv_rnc-dep-ccomp.html) – [compound](orv_rnc-dep-compound.html) – [conj](orv_rnc-dep-conj.html) – [cop](orv_rnc-dep-cop.html) – [csubj](orv_rnc-dep-csubj.html) – [csubj:outer](orv_rnc-dep-csubj-outer.html) – [csubj:pass](orv_rnc-dep-csubj-pass.html) – [dep](orv_rnc-dep-dep.html) – [det](orv_rnc-dep-det.html) – [discourse](orv_rnc-dep-discourse.html) – [dislocated](orv_rnc-dep-dislocated.html) – [expl](orv_rnc-dep-expl.html) – [expl:pv](orv_rnc-dep-expl-pv.html) – [fixed](orv_rnc-dep-fixed.html) – [flat](orv_rnc-dep-flat.html) – [flat:foreign](orv_rnc-dep-flat-foreign.html) – [flat:name](orv_rnc-dep-flat-name.html) – [goeswith](orv_rnc-dep-goeswith.html) – [iobj](orv_rnc-dep-iobj.html) – [list](orv_rnc-dep-list.html) – [mark](orv_rnc-dep-mark.html) – [nmod](orv_rnc-dep-nmod.html) – [nsubj](orv_rnc-dep-nsubj.html) – [nsubj:outer](orv_rnc-dep-nsubj-outer.html) – [nsubj:pass](orv_rnc-dep-nsubj-pass.html) – [nummod](orv_rnc-dep-nummod.html) – [nummod:gov](orv_rnc-dep-nummod-gov.html) – [obj](orv_rnc-dep-obj.html) – [obl](orv_rnc-dep-obl.html) – [obl:agent](orv_rnc-dep-obl-agent.html) – [obl:depict](orv_rnc-dep-obl-depict.html) – [obl:float](orv_rnc-dep-obl-float.html) – [obl:pronmod](orv_rnc-dep-obl-pronmod.html) – [obl:tmod](orv_rnc-dep-obl-tmod.html) – [orphan](orv_rnc-dep-orphan.html) – [parataxis](orv_rnc-dep-parataxis.html) – [parataxis:discourse](orv_rnc-dep-parataxis-discourse.html) – [punct](orv_rnc-dep-punct.html) – [reparandum](orv_rnc-dep-reparandum.html) – [root](orv_rnc-dep-root.html) – [vocative](orv_rnc-dep-vocative.html) – [xcomp](orv_rnc-dep-xcomp.html)
+[acl](orv_rnc-dep-acl.html) – [acl:relcl](orv_rnc-dep-acl-relcl.html) – [advcl](orv_rnc-dep-advcl.html) – [advmod](orv_rnc-dep-advmod.html) – [amod](orv_rnc-dep-amod.html) – [appos](orv_rnc-dep-appos.html) – [aux](orv_rnc-dep-aux.html) – [aux:pass](orv_rnc-dep-aux-pass.html) – [case](orv_rnc-dep-case.html) – [cc](orv_rnc-dep-cc.html) – [ccomp](orv_rnc-dep-ccomp.html) – [compound](orv_rnc-dep-compound.html) – [conj](orv_rnc-dep-conj.html) – [cop](orv_rnc-dep-cop.html) – [csubj](orv_rnc-dep-csubj.html) – [csubj:outer](orv_rnc-dep-csubj-outer.html) – [csubj:pass](orv_rnc-dep-csubj-pass.html) – [dep](orv_rnc-dep-dep.html) – [det](orv_rnc-dep-det.html) – [discourse](orv_rnc-dep-discourse.html) – [dislocated](orv_rnc-dep-dislocated.html) – [expl](orv_rnc-dep-expl.html) – [expl:pv](orv_rnc-dep-expl-pv.html) – [fixed](orv_rnc-dep-fixed.html) – [flat](orv_rnc-dep-flat.html) – [flat:foreign](orv_rnc-dep-flat-foreign.html) – [flat:name](orv_rnc-dep-flat-name.html) – [goeswith](orv_rnc-dep-goeswith.html) – [iobj](orv_rnc-dep-iobj.html) – [list](orv_rnc-dep-list.html) – [mark](orv_rnc-dep-mark.html) – [nmod](orv_rnc-dep-nmod.html) – [nmod:float](orv_rnc-dep-nmod-float.html) – [nmod:pronmod](orv_rnc-dep-nmod-pronmod.html) – [nsubj](orv_rnc-dep-nsubj.html) – [nsubj:outer](orv_rnc-dep-nsubj-outer.html) – [nsubj:pass](orv_rnc-dep-nsubj-pass.html) – [nummod](orv_rnc-dep-nummod.html) – [nummod:gov](orv_rnc-dep-nummod-gov.html) – [obj](orv_rnc-dep-obj.html) – [obl](orv_rnc-dep-obl.html) – [obl:agent](orv_rnc-dep-obl-agent.html) – [obl:depict](orv_rnc-dep-obl-depict.html) – [obl:float](orv_rnc-dep-obl-float.html) – [obl:tmod](orv_rnc-dep-obl-tmod.html) – [orphan](orv_rnc-dep-orphan.html) – [parataxis](orv_rnc-dep-parataxis.html) – [parataxis:discourse](orv_rnc-dep-parataxis-discourse.html) – [punct](orv_rnc-dep-punct.html) – [reparandum](orv_rnc-dep-reparandum.html) – [root](orv_rnc-dep-root.html) – [vocative](orv_rnc-dep-vocative.html) – [xcomp](orv_rnc-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -219,7 +219,7 @@ Proceedings of the International Conference Dialogue 2019. Moscow, May 29 - June
   <li>Inf
   <ul>
     <li>AUX: быти, быть, быт(ь), быт[и], быт, быти], есть</li>
-    <li>VERB: имати, дати, взять, ѣхати, быть, писать, дать, жити, платить, велеть</li>
+    <li>VERB: имати, дати, взять, быть, ѣхати, писать, дать, жити, платить, велеть</li>
   </ul>
   </li>
 </ul>
@@ -303,7 +303,7 @@ Proceedings of the International Conference Dialogue 2019. Moscow, May 29 - June
       <li>NUM: два, 2, едино, 3, оба, дву, однем, три, 4, одно</li>
       <li>PRON: что, то, того, том, томъ, тому, чем, сего, семъ, еже</li>
       <li>PROPN: Кон(ь)кова, Павловском, Павловское, Предтечинскомъ, Тихоновского, Кон(ь)кове, Кан(ь)кова, Воронине, Ермолова, Исакове</li>
-      <li>VERB: смерено, взято, принето, написано, дано, велѣно, велено, умолочено, было, писано</li>
+      <li>VERB: смерено, взято, принето, написано, дано, велѣно, велено, было, умолочено, писано</li>
       <li>VERB-Part: смерено, взято, принето, написано, дано, велѣно, велено, умолочено, писано, послано</li>
       <li>VERB-PartRes: было, стало, прибыло, убыло, запустело, потѧгло, потягло, пошло, осталось, пришло</li>
     </ul>
@@ -592,7 +592,7 @@ Proceedings of the International Conference Dialogue 2019. Moscow, May 29 - June
       <li>VERB-Conv: сидя, дожидаясь, росчитая, смотря, зря, поминая, предстоя, приличествꙋющаꙗ, пропущая, славяще</li>
       <li>VERB-Fin: стоитъ, сказывают, называют, стоит, дают, проѣзжаютъ, всылают, лежит, называет, бранят</li>
       <li>VERB-Inf: сбирать, давать, давати, служити, владѣти, стояти, держати, отпущати, держать, сечь</li>
-      <li>VERB-Part: давано, допрашиванъ, любимъ, обретающихся, осматриванъ, подаваемая, распрашиван, Покаряющаяся, Судяи, Храбров[ав]шу</li>
+      <li>VERB-Part: давано, допрашиванъ, любимъ, обретающихся, осматриванъ, подаваемая, распрашиван, Писавыі, Покаряющаяся, Судяи</li>
       <li>VERB-PartRes: давали, стоял, сказывал, бывало, приезжали, бивалъ, держали, стояли, держалъ, приезжал</li>
       <li>VERB-Sup: записыватъ</li>
     </ul>
@@ -711,7 +711,7 @@ Proceedings of the International Conference Dialogue 2019. Moscow, May 29 - June
       <li>AUX-PartRes: было, были, былъ, была, был, былѡ</li>
       <li>VERB-Conv: перелезчи, видя, выслушав, слыша, творяще, прося, сидя, смотря, бивъ, вышед</li>
       <li>VERB-Fin: бысть, бью, бьет, будет, рече, есть, пожалуй, вели, стоитъ, пожалуи</li>
-      <li>VERB-Inf: имати, дати, взять, ѣхати, быть, писать, дать, жити, платить, велеть</li>
+      <li>VERB-Inf: имати, дати, взять, быть, ѣхати, писать, дать, жити, платить, велеть</li>
       <li>VERB-Part: бывших, пришедше, пришед, будущими, видѣвше, глаголюще, рекше, слышавше, требꙋющꙋ, живущии</li>
       <li>VERB-PartRes: велел, пожаловал, дал, писал, сказал, велѣлъ, послал, пришли, пошли, приложил</li>
       <li>VERB-Sup: записыватъ</li>
@@ -1199,7 +1199,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Part--PRON-Nom (10)</li>
       <li>VERB-PartRes--NOUN (1)</li>
       <li>VERB-PartRes--NOUN-Acc (8)</li>
-      <li>VERB-PartRes--NOUN-Gen (107)</li>
+      <li>VERB-PartRes--NOUN-Gen (108)</li>
       <li>VERB-PartRes--NOUN-Gen-ADP(сверхъ) (1)</li>
       <li>VERB-PartRes--NOUN-Ins (3)</li>
       <li>VERB-PartRes--NOUN-Nom (1111)</li>
@@ -1312,7 +1312,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--PRON-Dat-ADP(о) (1)</li>
       <li>VERB-Fin--PRON-Ins (28)</li>
       <li>VERB-Inf--NOUN-Acc (2)</li>
-      <li>VERB-Inf--NOUN-Dat (249)</li>
+      <li>VERB-Inf--NOUN-Dat (250)</li>
       <li>VERB-Inf--NOUN-Dat-ADP(въ) (1)</li>
       <li>VERB-Inf--NOUN-Dat-ADP(къ) (1)</li>
       <li>VERB-Inf--NOUN-Gen (3)</li>
@@ -1361,6 +1361,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 16 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>csubj:outer</a>, <a>csubj:pass</a>, <a>expl:pv</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a>, <a>nummod:gov</a>, <a>obl:agent</a>, <a>obl:depict</a>, <a>obl:float</a>, <a>obl:pronmod</a>, <a>obl:tmod</a>, <a>parataxis:discourse</a></li>
+<li>This corpus uses 17 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>csubj:outer</a>, <a>csubj:pass</a>, <a>expl:pv</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>nmod:float</a>, <a>nmod:pronmod</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a>, <a>nummod:gov</a>, <a>obl:agent</a>, <a>obl:depict</a>, <a>obl:float</a>, <a>obl:tmod</a>, <a>parataxis:discourse</a></li>
 <li>The following 1 relation types are not used in this corpus at all: <a>clf</a></li>
 </ul>

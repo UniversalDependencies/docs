@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Fin`, `Inf`, `Part`.
 
-83730 tokens (19%) have a non-empty value of `VerbForm`.
-9622 types (49%) occur at least once with a non-empty value of `VerbForm`.
-1444 lemmas (25%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 7 part-of-speech tags: <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> (59766; 13% instances), <tt><a href="la_ittb-pos-AUX.html">AUX</a></tt> (23590; 5% instances), <tt><a href="la_ittb-pos-CCONJ.html">CCONJ</a></tt> (205; 0% instances), <tt><a href="la_ittb-pos-ADJ.html">ADJ</a></tt> (58; 0% instances), <tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt> (57; 0% instances), <tt><a href="la_ittb-pos-SCONJ.html">SCONJ</a></tt> (42; 0% instances), <tt><a href="la_ittb-pos-ADV.html">ADV</a></tt> (12; 0% instances).
+83356 tokens (19%) have a non-empty value of `VerbForm`.
+9606 types (49%) occur at least once with a non-empty value of `VerbForm`.
+1431 lemmas (25%) occur at least once with a non-empty value of `VerbForm`.
+The feature is used with 2 part-of-speech tags: <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> (59766; 13% instances), <tt><a href="la_ittb-pos-AUX.html">AUX</a></tt> (23590; 5% instances).
 
 ### `VERB`
 
@@ -200,60 +200,6 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
   <tr><td><tt><tt><a href="la_ittb-feat-Aspect.html">Aspect</a></tt><tt>=Prosp</tt>|<tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_ittb-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="la_ittb-feat-InflClass-nominal.html">InflClass[nominal]</a></tt><tt>=IndEurO</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>futurum</em></td></tr>
   <tr><td><tt><tt><a href="la_ittb-feat-Aspect.html">Aspect</a></tt><tt>=Prosp</tt>|<tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_ittb-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="la_ittb-feat-InflClass-nominal.html">InflClass[nominal]</a></tt><tt>=IndEurO</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td><em>futura</em></td></tr>
 </table>
-
-### `CCONJ`
-
-205 <tt><a href="la_ittb-pos-CCONJ.html">CCONJ</a></tt> tokens (1% of all `CCONJ` tokens) have a non-empty value of `VerbForm`.
-
-`CCONJ` tokens may have the following values of `VerbForm`:
-
-* `Fin` (205; 100% of non-empty `VerbForm`): <em>scilicet, idest, puta, uidelicet</em>
-* `EMPTY` (18944): <em>et, sed, uel, nec, neque, aut, scilicet, siue, ac, tum</em>
-
-### `ADJ`
-
-58 <tt><a href="la_ittb-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `VerbForm`.
-
-The most frequent other feature values with which `ADJ` and `VerbForm` co-occurred: <tt><a href="la_ittb-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (54; 93%), <tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (53; 91%), <tt><a href="la_ittb-feat-InflClass.html">InflClass</a></tt><tt>=IndEurO</tt> (50; 86%), <tt><a href="la_ittb-feat-Gender.html">Gender</a></tt><tt>=Neut</tt> (45; 78%), <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (40; 69%).
-
-`ADJ` tokens may have the following values of `VerbForm`:
-
-* `Part` (58; 100% of non-empty `VerbForm`): <em>notum, nota, notae, notissima, notus, inconueniens, inhaerens, noti, notissimas, notissimum</em>
-* `EMPTY` (28744): <em>diuina, impossibile, diuinae, diuinam, prima, christi, primum, humana, manifestum, necesse</em>
-
-### `NOUN`
-
-57 <tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `VerbForm`.
-
-The most frequent other feature values with which `NOUN` and `VerbForm` co-occurred: <tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (35; 61%), <tt><a href="la_ittb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (35; 61%), <tt><a href="la_ittb-feat-InflClass.html">InflClass</a></tt><tt>=EMPTY</tt> (35; 61%), <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (35; 61%).
-
-`NOUN` tokens may have the following values of `VerbForm`:
-
-* `Inf` (35; 61% of non-empty `VerbForm`): <em>necesse-esse</em>
-* `Part` (22; 39% of non-empty `VerbForm`): <em>accidens, agens, conuerso, agente, agentia, debitum, patiens, praedicatum</em>
-* `EMPTY` (93364): <em>forma, deus, esse, intellectus, formam, dei, deo, formae, materia, anima</em>
-
-### `SCONJ`
-
-42 <tt><a href="la_ittb-pos-SCONJ.html">SCONJ</a></tt> tokens (0% of all `SCONJ` tokens) have a non-empty value of `VerbForm`.
-
-The most frequent other feature values with which `SCONJ` and `VerbForm` co-occurred: <tt><a href="la_ittb-feat-Compound.html">Compound</a></tt><tt>=EMPTY</tt> (42; 100%), <tt><a href="la_ittb-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (42; 100%).
-
-`SCONJ` tokens may have the following values of `VerbForm`:
-
-* `Fin` (42; 100% of non-empty `VerbForm`): <em>puta</em>
-* `EMPTY` (22906): <em>quod, ut, sicut, quia, si, cum, nisi, quam, inquantum, licet</em>
-
-### `ADV`
-
-12 <tt><a href="la_ittb-pos-ADV.html">ADV</a></tt> tokens (0% of all `ADV` tokens) have a non-empty value of `VerbForm`.
-
-The most frequent other feature values with which `ADV` and `VerbForm` co-occurred: <tt><a href="la_ittb-feat-AdvType.html">AdvType</a></tt><tt>=EMPTY</tt> (12; 100%), <tt><a href="la_ittb-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (12; 100%), <tt><a href="la_ittb-feat-Compound.html">Compound</a></tt><tt>=EMPTY</tt> (9; 75%).
-
-`ADV` tokens may have the following values of `VerbForm`:
-
-* `Fin` (12; 100% of non-empty `VerbForm`): <em>puta, scilicet, idest</em>
-* `EMPTY` (22668): <em>etiam, unde, sic, ergo, tamen, uero, ita, supra, magis, solum</em>
 
 ## Relations with Agreement in `VerbForm`
 

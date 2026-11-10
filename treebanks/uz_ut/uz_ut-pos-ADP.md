@@ -59,7 +59,7 @@ The 3rd highest number of forms (2) was observed with the lemma “tomon”: <em
 
 ## Relations
 
-`ADP` nodes are attached to their parents using 6 different relations: <tt><a href="uz_ut-dep-case.html">case</a></tt> (173; 94% instances), <tt><a href="uz_ut-dep-compound.html">compound</a></tt> (4; 2% instances), <tt><a href="uz_ut-dep-cc.html">cc</a></tt> (3; 2% instances), <tt><a href="uz_ut-dep-obl.html">obl</a></tt> (2; 1% instances), <tt><a href="uz_ut-dep-acl.html">acl</a></tt> (1; 1% instances), <tt><a href="uz_ut-dep-mark.html">mark</a></tt> (1; 1% instances)
+`ADP` nodes are attached to their parents using 6 different relations: <tt><a href="uz_ut-dep-case.html">case</a></tt> (173; 94% instances), <tt><a href="uz_ut-dep-compound.html">compound</a></tt> (4; 2% instances), <tt><a href="uz_ut-dep-cc.html">cc</a></tt> (3; 2% instances), <tt><a href="uz_ut-dep-nmod.html">nmod</a></tt> (2; 1% instances), <tt><a href="uz_ut-dep-acl.html">acl</a></tt> (1; 1% instances), <tt><a href="uz_ut-dep-mark.html">mark</a></tt> (1; 1% instances)
 
 Parents of `ADP` nodes belong to 8 different parts of speech: <tt><a href="uz_ut-pos-NOUN.html">NOUN</a></tt> (127; 69% instances), <tt><a href="uz_ut-pos-VERB.html">VERB</a></tt> (28; 15% instances), <tt><a href="uz_ut-pos-PRON.html">PRON</a></tt> (17; 9% instances), <tt><a href="uz_ut-pos-PROPN.html">PROPN</a></tt> (6; 3% instances), <tt><a href="uz_ut-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="uz_ut-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="uz_ut-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="uz_ut-pos-NUM.html">NUM</a></tt> (1; 1% instances)
 

@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.15 release
 The following people have contributed to making this treebank part of UD: Natalia Cáceres Arandia, Claudine Chamoreau, Sylvain Kahane, Bruno Guillaume.
 
 Repository: [UD_Pesh-ChibErgIS](https://github.com/UniversalDependencies/UD_Pesh-ChibErgIS)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udpay_chibergis218)<br />
-Download all treebanks: [UD 2.18](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udpay_chibergis219)<br />
+Download all treebanks: [UD 2.19](/#download)
 
 License: CC BY-SA 4.0
 
@@ -50,36 +50,70 @@ A Universal Dependencies corpus for Pesh (aka Paya), a member of the Chibchan la
 
 The treebank is an automatic conversion of the SUD_Pesh-ChibErgIS, which is an automatic conversion of the [mSUD_Pesh-ChibErgIS](https://github.com/surfacesyntacticud/mSUD_Pesh-ChibErgIS) which was extracted from Claudine Chamoreau and Natalia Cáceres interlinearized corpus in Flex format, itself an extension of an oral corpus documented by Claudine Chamoreau (https://www.elararchive.org/dk0392).
 
-## Acknowledgments
+The corpus can be found [here](https://universal.grew.fr/?corpus=mSUD_Pesh-ChibErgIS@filter)
+
+## Metadata
 
 Sentences are annotated with the following metadata:
-`speaker_id` (which identifies the turn of speech)
+- `speaker_id` (which identifies the turn of speech)
 - `sent_timecode` (which will enable playback of the sentence)
-- `morphemic_text`: (original segmentation of the text into morphemes)
-- `text`: (lexical tokenization)
-- `text_en`: (English interpretation)
-- `text_phrase-gls-de`: (original id)
-- `text_phrase-gls-es`: (Spanish interpretation)
-- `text_phrase-gls-it`: (IPA transcription)
-- `text_phrase-gls-pro`: (prosodic transcription)
-- `text_phrase-gls-tl`: (original comments in Flex)
-- `text_phrase-gls-wg`: (original word-gloss in Flex) -
+- `morphemic_text` (original segmentation of the text into morphemes)
+- `text` (lexical tokenization)
+- `text_en` (English interpretation)
+- `text_phrase-gls-de` (original id)
+- `text_phrase-gls-es` (Spanish interpretation)
+- `text_phrase-gls-it` (IPA transcription)
+- `text_phrase-gls-pro` (prosodic transcription)
+- `text_phrase-gls-tl` (original comments in Flex)
+- `text_phrase-gls-wg` (original word-gloss in Flex) -
 
-## Structure
-This version of the treebank is a dependency parsing of the original corpus first four files.
+## Description
 
-The original data are spoken data, which were originally segmented in words with concatenated clitics, then interlinearized and glossed in Flex with clitics as separate tokens. Tokens comprize words and affixes (preceded by a "=" sign).
+The original Pesh data are spoken data, which were segmented in words with concatenated clitics, then interlinearized and glossed in Flex with clitics as separate tokens. Tokens include words and clitics (preceded by a "=" sign).
 
-The **UD_Pesh-ChibErgIS** counts 2,507 tokens for 307 sentences.
+-- 2024-11-15 v2.15 --
+This version of the treebank is a dependency parsing of four initial text files (008_Childhood, 086_Wisinka, 103_MotherFish, 165_RabbitTiger).
+
+Total count: 2,507 tokens for 307 sentences.
+
+-- 2025-05-15 v2.16 --
+This version of the treebank contains three additional text files (085_MotheFishPrankster, 100_Laguna, 151_Hunting).
+
+Total count: 4,275 tokens for 524 sentences.
+
+-- 2026-11-15 v2.19 --
+This version of the treebank contains one additional partially annotated text (005_EvilEye) and some annotation revisions.
+
+Total count: 4,330 tokens for 529 sentences.
+
+## Development
+
+The corpus is maintained [here](https://github.com/surfacesyntacticud/mSUD_Pesh-ChibErgIS) in the [SUD](https://surfacesyntacticud.org/) framework and automatically converted into UD using the [Grew](https://grew.fr) software with the conversions rules described [here](https://github.com/surfacesyntacticud/conversions).
 
 ## References
 
 - Chamoreau, Claudine. 2015. A cross-varietal documentation and description of Pesh, a Chibchan language of Honduras. Endangered Languages Archive. Handle: http://hdl.handle.net/2196/00-0000-0000-000F-BF49-B
+- Chamoreau, Claudine & Cáceres Arandia, Natalia. 2024. Texts in Indigenous Languages of the Americas: Texts in
+Three Varieties of Pesh \[TILA 4\]. International Journal of American Linguistics, 90 (S1).
 
 ## Acknowledgments
 
-This treebank was produced as part of the ChibErgIS and Autogramm ANR projects. With special thanks to Bruno Guillaume for the conversion from SUD to UD, Sylvain Kahane, Christian Chanard, Uyên-To Rabier and Aleksandra Miletic.
+This treebank was produced as part of the ChibErgIS and Autogramm ANR projects.
 
+Data collection: Claudine Chamoreau
+
+Morphological interlinearization: Claudine Chamoreau, Natalia Cáceres Arandia
+
+Syntactic annotation: Natalia Cáceres Arandia
+
+Discussion and advice on SUD annotation: Sylvain Kahane, Bruno Guillaume, Aleksandra Miletic
+
+Conversion to CoNLLu format: Christian Chanard, Uyên-To Rabier
+
+UD conversion and handling of data validation : Bruno Guillaume
+
+
+## Acknowledgments
 
 # Statistics of UD Pesh ChibErgIS
 
@@ -89,7 +123,7 @@ This treebank was produced as part of the ChibErgIS and Autogramm ANR projects. 
 
 ## Features
 
-[AdvType](pay_chibergis-feat-AdvType.html) – [Animacy](pay_chibergis-feat-Animacy.html) – [Case](pay_chibergis-feat-Case.html) – [Clusivity](pay_chibergis-feat-Clusivity.html) – [Person](pay_chibergis-feat-Person.html) – [PronType](pay_chibergis-feat-PronType.html) – [VerbForm](pay_chibergis-feat-VerbForm.html) – [Voice](pay_chibergis-feat-Voice.html)
+[AdvType](pay_chibergis-feat-AdvType.html) – [Animacy](pay_chibergis-feat-Animacy.html) – [Case](pay_chibergis-feat-Case.html) – [Clusivity](pay_chibergis-feat-Clusivity.html) – [ExtPos](pay_chibergis-feat-ExtPos.html) – [Person](pay_chibergis-feat-Person.html) – [PronType](pay_chibergis-feat-PronType.html) – [VerbForm](pay_chibergis-feat-VerbForm.html) – [Voice](pay_chibergis-feat-Voice.html)
 
 ## Relations
 
@@ -99,7 +133,7 @@ This treebank was produced as part of the ChibErgIS and Autogramm ANR projects. 
 
 
 <ul>
-<li>This corpus contains 524 sentences and 4275 tokens.</li>
+<li>This corpus contains 529 sentences and 4331 tokens.</li>
 </ul>
 
 <ul>
@@ -131,7 +165,7 @@ This treebank was produced as part of the ChibErgIS and Autogramm ANR projects. 
 </ul>
 
 <ul>
-<li>This corpus contains 15 lemmas tagged as pronouns (PRON): =wa, _, ata, eka, este, pa, ta, tas, to, toʔ, wa, ã, ĩ, ẽh, ẽka</li>
+<li>This corpus contains 22 lemmas tagged as pronouns (PRON): =wa, _, ata, atʃah, bersk, eka, este, ka, pa, pak, sã, ta, tas, to, tokk, toʔ, wa, warahk, ã, ĩ, ẽh, ẽka</li>
 </ul>
 
 <ul>
@@ -351,6 +385,18 @@ This treebank was produced as part of the ChibErgIS and Autogramm ANR projects. 
   </li>
 </ul>
 
+<ul>
+  <li><a>ExtPos</a>
+    <ul>
+      <li>DET
+        <ul>
+          <li>PRON: ã, ĩ, toʔ, to</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
 <h2>Syntax</h2>
 
 <h3>Auxiliary Verbs and Copula</h3>
@@ -375,7 +421,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--NOUN-ADP(=ya) (5)</li>
       <li>VERB--NOUN-ADP(_) (8)</li>
       <li>VERB--PRON (16)</li>
-      <li>VERB--PRON-ADP(=ma) (8)</li>
+      <li>VERB--PRON-ADP(=ma) (9)</li>
       <li>VERB--PRON-ADP(=ma)-ADP(=ma) (1)</li>
       <li>VERB--PRON-ADP(=mã) (2)</li>
       <li>VERB--PRON-ADP(_) (9)</li>
@@ -387,7 +433,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>obj</a>
     <ul>
       <li>VERB--NOUN (66)</li>
-      <li>VERB--NOUN-ADP(=ma) (4)</li>
+      <li>VERB--NOUN-ADP(=ma) (5)</li>
       <li>VERB--NOUN-ADP(=ra) (2)</li>
       <li>VERB--NOUN-ADP(=yo) (1)</li>
       <li>VERB--NOUN-ADP(_) (7)</li>

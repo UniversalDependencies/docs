@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal but the values `Exc` are language-specific.
 It occurs with 8 different values: `Art`, `Dem`, `Exc`, `Ind`, `Int`, `Neg`, `Prs`, `Rel`.
 
-6395 tokens (22%) have a non-empty value of `PronType`.
+6407 tokens (22%) have a non-empty value of `PronType`.
 155 types (4%) occur at least once with a non-empty value of `PronType`.
 50 lemmas (2%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 4 part-of-speech tags: <tt><a href="fr_partut-pos-DET.html">DET</a></tt> (4750; 17% instances), <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> (1609; 6% instances), <tt><a href="fr_partut-pos-ADV.html">ADV</a></tt> (34; 0% instances), <tt><a href="fr_partut-pos-ADJ.html">ADJ</a></tt> (2; 0% instances).
+The feature is used with 4 part-of-speech tags: <tt><a href="fr_partut-pos-DET.html">DET</a></tt> (4750; 17% instances), <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> (1621; 6% instances), <tt><a href="fr_partut-pos-ADV.html">ADV</a></tt> (34; 0% instances), <tt><a href="fr_partut-pos-ADJ.html">ADJ</a></tt> (2; 0% instances).
 
 ### `DET`
 
@@ -41,9 +41,9 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
 
 ### `PRON`
 
-1609 <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
+1621 <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="fr_partut-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1154; 72%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="fr_partut-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1166; 72%).
 
 `PRON` tokens may have the following values of `PronType`:
 
@@ -51,7 +51,7 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 * `Ind` (120; 7% of non-empty `PronType`): <em>on, chacun, tous, l'on, Nul, un, autres, beaucoup, une, certains</em>
 * `Int` (5; 0% of non-empty `PronType`): <em>quelle, Quel, Quels, quelles</em>
 * `Neg` (1; 0% of non-empty `PronType`): <em>personne</em>
-* `Prs` (964; 60% of non-empty `PronType`): <em>nous, il, je, vous, s', se, y, en, ils, j'</em>
+* `Prs` (976; 60% of non-empty `PronType`): <em>nous, il, je, vous, s', y, se, en, ils, j'</em>
 * `Rel` (305; 19% of non-empty `PronType`): <em>qui, que, qu', dont, laquelle, quoi, lequel, lesquelles, lesquels</em>
 
 `PronType` seems to be **lexical feature** of `PRON`. 100% lemmas (40) occur only with one value of `PronType`.
@@ -66,7 +66,7 @@ The most frequent other feature values with which `ADV` and `PronType` co-occurr
 
 * `Neg` (17; 50% of non-empty `PronType`): <em>non</em>
 * `Rel` (17; 50% of non-empty `PronType`): <em>où</em>
-* `EMPTY` (999): <em>pas, plus, également, tout, ainsi, très, donc, lors, moins, bien</em>
+* `EMPTY` (988): <em>pas, plus, également, tout, ainsi, très, donc, lors, moins, bien</em>
 
 ### `ADJ`
 
@@ -84,5 +84,6 @@ The most frequent other feature values with which `ADJ` and `PronType` co-occurr
 The 10 most frequent relations where parent and child node agree in `PronType`:
 <tt>PRON --[<tt><a href="fr_partut-dep-fixed.html">fixed</a></tt>]--> PRON</tt> (6; 100%),
 <tt>PRON --[<tt><a href="fr_partut-dep-conj.html">conj</a></tt>]--> PRON</tt> (2; 100%),
-<tt>DET --[<tt><a href="fr_partut-dep-conj.html">conj</a></tt>]--> DET</tt> (1; 100%).
+<tt>DET --[<tt><a href="fr_partut-dep-conj.html">conj</a></tt>]--> DET</tt> (1; 100%),
+<tt>PRON --[<tt><a href="fr_partut-dep-cc.html">cc</a></tt>]--> PRON</tt> (1; 100%).
 

@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="ab_abnc-dep-csubj.html">csubj</a></tt>.
 There are also 1 other language-specific subtypes of `csubj`: <tt><a href="ab_abnc-dep-csubj-quote.html">csubj:quote</a></tt>.
 
-10 nodes (0%) are attached to their parents as `csubj:outer`.
+11 nodes (0%) are attached to their parents as `csubj:outer`.
 
-8 instances of `csubj:outer` (80%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.3.
+9 instances of `csubj:outer` (82%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.18181818181818.
 
-The following 1 pairs of parts of speech are connected with `csubj:outer`: <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> (10; 100% instances).
+The following 1 pairs of parts of speech are connected with `csubj:outer`: <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> (11; 100% instances).
 
 
 ~~~ conllu

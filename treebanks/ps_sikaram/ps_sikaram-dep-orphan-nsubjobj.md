@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Pashto-Sikaram: Relations: `orphan:nsubjobj`
 
-This relation is a language-specific subtype of .
+This relation is a language-specific subtype of <tt><a href="ps_sikaram-dep-orphan.html">orphan</a></tt>.
 There are also 1 other language-specific subtypes of `orphan`: <tt><a href="ps_sikaram-dep-orphan-objobl.html">orphan:objobl</a></tt>.
 
 3 nodes (0%) are attached to their parents as `orphan:nsubjobj`.
@@ -30,30 +30,32 @@ The following 2 pairs of parts of speech are connected with `orphan:nsubjobj`: <
 5	سپین	سپین	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	6	amod	_	Translit=spin|LTranslit=spin|Gloss=white
 6	زر	زر	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	orphan:nsubjobj	_	Translit=zar|LTranslit=zar|Gloss=metal
 7	او	او	CCONJ	_	_	8	cc	_	Translit=aw|LTranslit=aw|Gloss=and
-8	جانې	جانه	PROPN	_	Case=Acc|Gender=Fem|Number=Sing	11	nsubj	_	Translit=jấne|LTranslit=ǰấna|Gloss=Jane
+8	جانې	جانه	PROPN	_	Case=Acc|Gender=Fem|Number=Sing	12	nsubj	_	Translit=jấne|LTranslit=ǰấna|Gloss=Jane
 9	سرۀ	سرۀ	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	10	amod	_	Translit=srë|LTranslit=srë|Gloss=yellow
-10	زر	زر	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	11	obj	_	Translit=zar|LTranslit=zar|Gloss=metal
-11	وګټله	ګټل	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	conj	_	Translit=wë́gaṭëla|LTranslit=gaṭë́l|Gloss=won|SpaceAfter=No
-12	.	.	PUNCT	_	_	1	punct	_	Translit=.|LTranslit=.|Gloss=.|SpaceAfter=No
+10	زر	زر	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	12	obj	_	Translit=zar|LTranslit=zar|Gloss=metal
+11	و	و	AUX	_	Aspect=Perf	12	aux:preverb	_	Translit=wë|LTranslit=wë|Gloss=_
+12	ګټله	ګټل	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	conj	_	Translit=gaṭë́la|LTranslit=gaṭë́l|Gloss=won
+13	.	.	PUNCT	_	_	1	punct	_	Translit=.|LTranslit=.|Gloss=.|SpaceAfter=No
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 8 orphan:nsubjobj	color:blue
-1	هغۀ	هغه	PRON	_	Case=Acc|Deixis=Remt|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	Translit=haġë́|LTranslit=haġá|Gloss=he
-2	موټر	موټر	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	obj	_	Translit=moṭár|LTranslit=moṭár|Gloss=car
-3	واخيستۀ	اخيستل	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Translit=wấxistë|LTranslit=axistë́l|Gloss=bought
-4	مګر	مګر	CCONJ	_	_	5	cc	_	Translit=magár|LTranslit=magár|Gloss=but
-5	ورور	ورور	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	3	conj	_	Translit=wror|LTranslit=wror|Gloss=brother
-6	یې	یې	PRON	_	Person=3|Poss=Yes|PronType=Prs|Variant=Weak	5	nmod	_	Translit=ye|LTranslit=ye|Gloss=his
-7	یوازې	یوازې	ADV	_	_	8	advmod	_	Translit=yawấze|LTranslit=yawấze|Gloss=only
-8	بایسکل	بایسکل	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	5	orphan:nsubjobj	_	Translit=bâysíkl|LTranslit=bâysíkl|Gloss=bicycle|SpaceAfter=No
-9	.	.	PUNCT	_	_	3	punct	_	Translit=.|LTranslit=.|Gloss=.|SpaceAfter=No
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 9 orphan:nsubjobj	color:blue
+1	هغۀ	هغه	PRON	_	Case=Acc|Deixis=Remt|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	Translit=haġë́|LTranslit=haġá|Gloss=he
+2	موټر	موټر	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	obj	_	Translit=moṭár|LTranslit=moṭár|Gloss=car
+3	و	و	AUX	_	Aspect=Perf	4	aux:preverb	_	Translit=wë|LTranslit=wë|Gloss=_
+4	اخيستۀ	اخيستل	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Translit=axistë́|LTranslit=axistë́l|Gloss=bought
+5	مګر	مګر	CCONJ	_	_	6	cc	_	Translit=magár|LTranslit=magár|Gloss=but
+6	ورور	ورور	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	4	conj	_	Translit=wror|LTranslit=wror|Gloss=brother
+7	یې	یې	PRON	_	Person=3|Poss=Yes|PronType=Prs|Variant=Weak	6	nmod	_	Translit=ye|LTranslit=ye|Gloss=his
+8	یوازې	یوازې	ADV	_	_	9	advmod	_	Translit=yawấze|LTranslit=yawấze|Gloss=only
+9	بایسکل	بایسکل	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	6	orphan:nsubjobj	_	Translit=bâysíkl|LTranslit=bâysíkl|Gloss=bicycle|SpaceAfter=No
+10	.	.	PUNCT	_	_	4	punct	_	Translit=.|LTranslit=.|Gloss=.|SpaceAfter=No
 
 ~~~
 

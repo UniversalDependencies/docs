@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-10 nodes (1%) are attached to their parents as `advcl`.
+16 nodes (1%) are attached to their parents as `advcl`.
 
-9 instances of `advcl` (90%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.3.
+14 instances of `advcl` (88%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.
 
-The following 4 pairs of parts of speech are connected with `advcl`: <tt><a href="ceb_gja-pos-VERB.html">VERB</a></tt>-<tt><a href="ceb_gja-pos-NOUN.html">NOUN</a></tt> (5; 50% instances), <tt><a href="ceb_gja-pos-VERB.html">VERB</a></tt>-<tt><a href="ceb_gja-pos-ADJ.html">ADJ</a></tt> (3; 30% instances), <tt><a href="ceb_gja-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ceb_gja-pos-VERB.html">VERB</a></tt> (1; 10% instances), <tt><a href="ceb_gja-pos-VERB.html">VERB</a></tt>-<tt><a href="ceb_gja-pos-VERB.html">VERB</a></tt> (1; 10% instances).
+The following 4 pairs of parts of speech are connected with `advcl`: <tt><a href="ceb_gja-pos-VERB.html">VERB</a></tt>-<tt><a href="ceb_gja-pos-NOUN.html">NOUN</a></tt> (7; 44% instances), <tt><a href="ceb_gja-pos-VERB.html">VERB</a></tt>-<tt><a href="ceb_gja-pos-VERB.html">VERB</a></tt> (5; 31% instances), <tt><a href="ceb_gja-pos-VERB.html">VERB</a></tt>-<tt><a href="ceb_gja-pos-ADJ.html">ADJ</a></tt> (3; 19% instances), <tt><a href="ceb_gja-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ceb_gja-pos-VERB.html">VERB</a></tt> (1; 6% instances).
 
 
 ~~~ conllu
@@ -27,6 +27,28 @@ The following 4 pairs of parts of speech are connected with `advcl`: <tt><a href
 3	hapon	hapon	NOUN	_	_	1	advcl	_	Gloss=afternoon
 4	na	na	ADV	_	_	3	advmod	_	Gloss=already|SpaceAfter=No
 5	.	.	PUNCT	_	_	1	punct	_	Gloss=.
+
+~~~
+
+
+~~~ conllu
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 9 advcl	color:blue
+1	Gitawag	tawag	VERB	_	Aspect=Perf|Mood=Ind|Voice=Pass	0	root	_	Gloss=was.called
+2	si	si	ADP	_	Case=Nom	3	case	_	_
+3	Ben	Ben	PROPN	_	_	1	nsubj	_	Gloss=Ben
+4	sa	sa	ADP	_	Case=Gen	7	case	_	_
+5	iya	siya	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	7	nmod	_	Gloss=his
+6	-ng	nga	PART	_	_	5	mark	_	Gloss=LINK
+7	amigo	amigo	NOUN	_	_	1	obj	_	Gloss=friend
+8	kay	kay	SCONJ	_	_	9	mark	_	Gloss=because
+9	may	may	VERB	_	_	1	advcl	_	Gloss=has
+10	bisita	bisita	NOUN	_	_	9	obj	_	Gloss=visitor
+11	kini	kini	PRON	_	Deixis=Prox|PronType=Dem	9	nmod	_	Gloss=he|SpaceAfter=No
+12	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
 ~~~
 
@@ -48,23 +70,6 @@ The following 4 pairs of parts of speech are connected with `advcl`: <tt><a href
 9	sa	sa	ADP	_	Case=Dat	10	case	_	Gloss=at.the
 10	dama	dama	NOUN	_	_	4	obl	_	Gloss=game.of.dama|SpaceAfter=No
 11	.	.	PUNCT	_	_	4	punct	_	Gloss=.
-
-~~~
-
-
-~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 6 advcl	color:blue
-1	Buutan	buutan	ADJ	_	Degree=Pos	0	root	_	Gloss=well.behaved
-2	man	man	PART	_	_	1	advmod	_	_
-3	siya	siya	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	1	amod	_	Gloss=he
-4	pero	pero	CCONJ	_	_	6	cc	_	Gloss=but
-5	di	dili	PART	_	Polarity=Neg	6	advmod	_	Gloss=does.not
-6	patoo	tuo	VERB	_	Mood=Imp|Voice=Pass	1	advcl	_	Gloss=listen|SpaceAfter=No
-7	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
 ~~~
 

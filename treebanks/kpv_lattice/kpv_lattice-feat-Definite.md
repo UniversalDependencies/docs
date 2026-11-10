@@ -9,21 +9,21 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Ind`.
 
-24 tokens (0%) have a non-empty value of `Definite`.
+25 tokens (0%) have a non-empty value of `Definite`.
 16 types (0%) occur at least once with a non-empty value of `Definite`.
 16 lemmas (1%) occur at least once with a non-empty value of `Definite`.
-The feature is used with 4 part-of-speech tags: <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> (17; 0% instances), <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> (5; 0% instances), <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="kpv_lattice-pos-DET.html">DET</a></tt> (1; 0% instances).
+The feature is used with 4 part-of-speech tags: <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> (18; 0% instances), <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> (5; 0% instances), <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="kpv_lattice-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 ### `ADV`
 
-17 <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> tokens (2% of all `ADV` tokens) have a non-empty value of `Definite`.
+18 <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> tokens (2% of all `ADV` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `ADV` and `Definite` co-occurred: <tt><a href="kpv_lattice-feat-AdvType.html">AdvType</a></tt><tt>=EMPTY</tt> (12; 71%), <tt><a href="kpv_lattice-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (9; 53%).
+The most frequent other feature values with which `ADV` and `Definite` co-occurred: <tt><a href="kpv_lattice-feat-AdvType.html">AdvType</a></tt><tt>=EMPTY</tt> (13; 72%).
 
 `ADV` tokens may have the following values of `Definite`:
 
-* `Ind` (17; 100% of non-empty `Definite`): <em>кӧнкӧ, кытчӧкӧ, коркӧ, мыйтакӧ, Корсюрӧ, Кыськӧ, коркӧясас, кыдзисюрӧ, кыдзкӧ, кытсюрӧясті</em>
-* `EMPTY` (871): <em>нин, жӧ, на, и, сӧмын, сэсся, зэв, кыдзи, пыр, бара</em>
+* `Ind` (18; 100% of non-empty `Definite`): <em>кӧнкӧ, кытчӧкӧ, Кыськӧ, коркӧ, мыйтакӧ, Корсюрӧ, коркӧясас, кыдзисюрӧ, кыдзкӧ, кытсюрӧясті</em>
+* `EMPTY` (873): <em>нин, жӧ, на, и, сӧмын, сэсся, зэв, кыдзи, пыр, бара</em>
 
 `Definite` seems to be **lexical feature** of `ADV`. 100% lemmas (12) occur only with one value of `Definite`.
 
@@ -47,7 +47,7 @@ The most frequent other feature values with which `ADJ` and `Definite` co-occurr
 `ADJ` tokens may have the following values of `Definite`:
 
 * `Ind` (1; 100% of non-empty `Definite`): <em>кутшӧмкӧ</em>
-* `EMPTY` (498): <em>ыджыд, кодь, бур, важ, мича, еджыд, ичӧтик, сэтшӧм, том, выль</em>
+* `EMPTY` (499): <em>ыджыд, кодь, бур, важ, мича, еджыд, ичӧтик, сэтшӧм, том, выль</em>
 
 ### `DET`
 

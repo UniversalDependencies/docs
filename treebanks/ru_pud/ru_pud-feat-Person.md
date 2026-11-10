@@ -12,19 +12,19 @@ It occurs with 3 different values: `1`, `2`, `3`.
 1010 tokens (5%) have a non-empty value of `Person`.
 388 types (5%) occur at least once with a non-empty value of `Person`.
 285 lemmas (6%) occur at least once with a non-empty value of `Person`.
-The feature is used with 3 part-of-speech tags: <tt><a href="ru_pud-pos-VERB.html">VERB</a></tt> (563; 3% instances), <tt><a href="ru_pud-pos-PRON.html">PRON</a></tt> (395; 2% instances), <tt><a href="ru_pud-pos-AUX.html">AUX</a></tt> (52; 0% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="ru_pud-pos-VERB.html">VERB</a></tt> (564; 3% instances), <tt><a href="ru_pud-pos-PRON.html">PRON</a></tt> (395; 2% instances), <tt><a href="ru_pud-pos-AUX.html">AUX</a></tt> (51; 0% instances).
 
 ### `VERB`
 
-563 <tt><a href="ru_pud-pos-VERB.html">VERB</a></tt> tokens (27% of all `VERB` tokens) have a non-empty value of `Person`.
+564 <tt><a href="ru_pud-pos-VERB.html">VERB</a></tt> tokens (27% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="ru_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (563; 100%), <tt><a href="ru_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (563; 100%), <tt><a href="ru_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (560; 99%), <tt><a href="ru_pud-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (518; 92%), <tt><a href="ru_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (515; 91%), <tt><a href="ru_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (396; 70%), <tt><a href="ru_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (363; 64%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="ru_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (564; 100%), <tt><a href="ru_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (564; 100%), <tt><a href="ru_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (561; 99%), <tt><a href="ru_pud-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (518; 92%), <tt><a href="ru_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (515; 91%), <tt><a href="ru_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (397; 70%), <tt><a href="ru_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (364; 65%).
 
 `VERB` tokens may have the following values of `Person`:
 
 * `1` (44; 8% of non-empty `Person`): <em>можем, думаю, видим, думаем, могу, Разрешу, Ухожу, возвращаюсь, встречаемся, говорим</em>
 * `2` (14; 2% of non-empty `Person`): <em>Давайте, делаешь, ждешь, заплатишь, злишься, знаете, найдете, ругаетесь, сидишь, скажешь</em>
-* `3` (505; 90% of non-empty `Person`): <em>является, может, говорит, могут, находится, имеет, нет, работает, составляет, являются</em>
+* `3` (506; 90% of non-empty `Person`): <em>является, может, говорит, могут, находится, имеет, нет, работает, составляет, являются</em>
 * `EMPTY` (1552): <em>сказал, стало, можно, заявил, стал, сделать, сказала, получили, получить, привести</em>
 
 <table>
@@ -33,34 +33,34 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
   <tr><td><tt><tt><a href="ru_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>знаете</em></td><td></td></tr>
 </table>
 
-`Person` seems to be **lexical feature** of `VERB`. 93% lemmas (255) occur only with one value of `Person`.
+`Person` seems to be **lexical feature** of `VERB`. 93% lemmas (256) occur only with one value of `Person`.
 
 ### `PRON`
 
-395 <tt><a href="ru_pud-pos-PRON.html">PRON</a></tt> tokens (50% of all `PRON` tokens) have a non-empty value of `Person`.
+395 <tt><a href="ru_pud-pos-PRON.html">PRON</a></tt> tokens (60% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="ru_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (274; 69%), <tt><a href="ru_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt> (267; 68%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="ru_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (395; 100%), <tt><a href="ru_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (395; 100%), <tt><a href="ru_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (274; 69%), <tt><a href="ru_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt> (267; 68%).
 
 `PRON` tokens may have the following values of `Person`:
 
 * `1` (88; 22% of non-empty `Person`): <em>я, мы, мне, нас, меня, нам</em>
 * `2` (13; 3% of non-empty `Person`): <em>вы, вас, Вам, ты</em>
 * `3` (294; 74% of non-empty `Person`): <em>он, они, она, его, них, ее, ему, него, им, их</em>
-* `EMPTY` (399): <em>это, которые, который, того, что, себя, которая, то, том, которое</em>
+* `EMPTY` (258): <em>это, того, что, себя, то, том, кто, тем, все, этого</em>
 
 `Person` seems to be **lexical feature** of `PRON`. 100% lemmas (10) occur only with one value of `Person`.
 
 ### `AUX`
 
-52 <tt><a href="ru_pud-pos-AUX.html">AUX</a></tt> tokens (18% of all `AUX` tokens) have a non-empty value of `Person`.
+51 <tt><a href="ru_pud-pos-AUX.html">AUX</a></tt> tokens (17% of all `AUX` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="ru_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (52; 100%), <tt><a href="ru_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (52; 100%), <tt><a href="ru_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (52; 100%), <tt><a href="ru_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (51; 98%), <tt><a href="ru_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (39; 75%), <tt><a href="ru_pud-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (38; 73%), <tt><a href="ru_pud-feat-Tense.html">Tense</a></tt><tt>=Fut</tt> (38; 73%).
+The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="ru_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (51; 100%), <tt><a href="ru_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (51; 100%), <tt><a href="ru_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (51; 100%), <tt><a href="ru_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (50; 98%), <tt><a href="ru_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (38; 75%), <tt><a href="ru_pud-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (37; 73%), <tt><a href="ru_pud-feat-Tense.html">Tense</a></tt><tt>=Fut</tt> (37; 73%).
 
 `AUX` tokens may have the following values of `Person`:
 
 * `1` (2; 4% of non-empty `Person`): <em>буду</em>
 * `2` (1; 2% of non-empty `Person`): <em>будь</em>
-* `3` (49; 94% of non-empty `Person`): <em>будет, есть, будут</em>
+* `3` (48; 94% of non-empty `Person`): <em>будет, есть, будут</em>
 * `EMPTY` (244): <em>был, было, были, была, бы, быть, будучи</em>
 
 <table>
@@ -77,5 +77,6 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 The 10 most frequent relations where parent and child node agree in `Person`:
 <tt>VERB --[<tt><a href="ru_pud-dep-conj.html">conj</a></tt>]--> VERB</tt> (50; 68%),
 <tt>VERB --[<tt><a href="ru_pud-dep-conj.html">conj</a></tt>]--> AUX</tt> (2; 67%),
-<tt>AUX --[<tt><a href="ru_pud-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (1; 100%).
+<tt>AUX --[<tt><a href="ru_pud-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (1; 100%),
+<tt>VERB --[<tt><a href="ru_pud-dep-ccomp.html">ccomp</a></tt>]--> AUX</tt> (1; 100%).
 

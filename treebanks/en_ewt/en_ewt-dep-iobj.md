@@ -67,7 +67,7 @@ The following 5 pairs of parts of speech are connected with `iobj`: <tt><a href=
 8	but	but	CCONJ	CC	_	11	cc	11:cc	_
 9	do	do	AUX	VB	Mood=Imp|VerbForm=Fin	11	aux	11:aux	_
 10	n't	not	PART	RB	Polarity=Neg	11	advmod	11:advmod	_
-11	tell	tell	VERB	VB	Mood=Imp|VerbForm=Fin	4	conj	4:conj:but	_
+11	tell	tell	VERB	VB	VerbForm=Inf	4	conj	4:conj:but	_
 12	val	Val	PROPN	NNP	Number=Sing	11	iobj	11:iobj	SpaceAfter=No
 13	.	.	PUNCT	.	_	4	punct	4:punct	_
 

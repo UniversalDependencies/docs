@@ -73,7 +73,7 @@ The following 6 pairs of parts of speech are connected with `conj`: <tt><a href=
 6	ang	ang	ADP	_	_	7	case	_	_
 7	sumasakay	sakay	NOUN	_	_	5	nsubj	_	_
 8	sa	sa	ADP	_	_	9	case	_	_
-9	jeepney	jeepney	NOUN	_	_	7	obl	_	_
+9	jeepney	jeepney	NOUN	_	_	7	nmod	_	_
 10	ni	ni	ADP	_	_	11	case	_	_
 11	Tatay	Tatay	PROPN	_	_	9	nmod	_	SpaceAfter=No
 12	.	.	PUNCT	_	_	5	punct	_	_

@@ -38,7 +38,7 @@ The following 2 pairs of parts of speech are connected with `csubj`: <tt><a href
 # visual-style 6	fgColor:white
 # visual-style 6 3 csubj	color:blue
 1	Ang	ang	ADP	_	Case=Nom	3	case	_	Gloss=The
-2	mga	mga	DET	_	Number=Plur	3	det	_	Gloss=PLUR
+2	mga	mga	DET	_	Number=Plur|PronType=Ind	3	det	_	Gloss=PLUR
 3	bata	bata	NOUN	_	_	6	csubj	_	Gloss=children
 4	niya	siya	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	3	nmod	_	Gloss=his
 5	ang	ang	ADP	_	Case=Nom	6	case	_	_

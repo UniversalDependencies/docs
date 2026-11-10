@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>%-l</em> (<tt><a href="et_edt-pos-SYM
 
 ## Morphology
 
-The form / lemma ratio of `SYM` is 1.136752 (the average of all parts of speech is 1.914465).
+The form / lemma ratio of `SYM` is 1.136752 (the average of all parts of speech is 1.914221).
 
 The 1st highest number of forms (8) was observed with the lemma “%”: <em>%, %-ga, %-l, %-le, %-lt, %-ni, %l, %ni</em>.
 

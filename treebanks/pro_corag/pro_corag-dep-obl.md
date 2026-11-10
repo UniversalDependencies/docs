@@ -8,37 +8,32 @@ udver: '2'
 
 This relation is universal.
 
-4350 nodes (8%) are attached to their parents as `obl`.
+6173 nodes (8%) are attached to their parents as `obl`.
 
-3075 instances of `obl` (71%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.08459770114943.
+4388 instances of `obl` (71%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.22922404017496.
 
-The following 22 pairs of parts of speech are connected with `obl`: <tt><a href="pro_corag-pos-VERB.html">VERB</a></tt>-<tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt> (3044; 70% instances), <tt><a href="pro_corag-pos-VERB.html">VERB</a></tt>-<tt><a href="pro_corag-pos-PRON.html">PRON</a></tt> (946; 22% instances), <tt><a href="pro_corag-pos-VERB.html">VERB</a></tt>-<tt><a href="pro_corag-pos-PROPN.html">PROPN</a></tt> (136; 3% instances), <tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt> (70; 2% instances), <tt><a href="pro_corag-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt> (46; 1% instances), <tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pro_corag-pos-PROPN.html">PROPN</a></tt> (18; 0% instances), <tt><a href="pro_corag-pos-VERB.html">VERB</a></tt>-<tt><a href="pro_corag-pos-ADV.html">ADV</a></tt> (17; 0% instances), <tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pro_corag-pos-PRON.html">PRON</a></tt> (15; 0% instances), <tt><a href="pro_corag-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pro_corag-pos-PRON.html">PRON</a></tt> (13; 0% instances), <tt><a href="pro_corag-pos-ADV.html">ADV</a></tt>-<tt><a href="pro_corag-pos-ADV.html">ADV</a></tt> (13; 0% instances), <tt><a href="pro_corag-pos-PRON.html">PRON</a></tt>-<tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt> (6; 0% instances), <tt><a href="pro_corag-pos-ADV.html">ADV</a></tt>-<tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="pro_corag-pos-VERB.html">VERB</a></tt>-<tt><a href="pro_corag-pos-NUM.html">NUM</a></tt> (4; 0% instances), <tt><a href="pro_corag-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pro_corag-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="pro_corag-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="pro_corag-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pro_corag-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="pro_corag-pos-VERB.html">VERB</a></tt>-<tt><a href="pro_corag-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="pro_corag-pos-VERB.html">VERB</a></tt>-<tt><a href="pro_corag-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="pro_corag-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pro_corag-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="pro_corag-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pro_corag-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="pro_corag-pos-ADV.html">ADV</a></tt>-<tt><a href="pro_corag-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pro_corag-pos-ADV.html">ADV</a></tt> (1; 0% instances).
+The following 19 pairs of parts of speech are connected with `obl`: <tt><a href="pro_corag-pos-VERB.html">VERB</a></tt>-<tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt> (4431; 72% instances), <tt><a href="pro_corag-pos-VERB.html">VERB</a></tt>-<tt><a href="pro_corag-pos-PRON.html">PRON</a></tt> (1285; 21% instances), <tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt> (149; 2% instances), <tt><a href="pro_corag-pos-VERB.html">VERB</a></tt>-<tt><a href="pro_corag-pos-PROPN.html">PROPN</a></tt> (136; 2% instances), <tt><a href="pro_corag-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt> (66; 1% instances), <tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pro_corag-pos-PRON.html">PRON</a></tt> (25; 0% instances), <tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pro_corag-pos-PROPN.html">PROPN</a></tt> (18; 0% instances), <tt><a href="pro_corag-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pro_corag-pos-PRON.html">PRON</a></tt> (17; 0% instances), <tt><a href="pro_corag-pos-VERB.html">VERB</a></tt>-<tt><a href="pro_corag-pos-NUM.html">NUM</a></tt> (11; 0% instances), <tt><a href="pro_corag-pos-PRON.html">PRON</a></tt>-<tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt> (7; 0% instances), <tt><a href="pro_corag-pos-VERB.html">VERB</a></tt>-<tt><a href="pro_corag-pos-ADJ.html">ADJ</a></tt> (7; 0% instances), <tt><a href="pro_corag-pos-ADV.html">ADV</a></tt>-<tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt> (5; 0% instances), <tt><a href="pro_corag-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="pro_corag-pos-VERB.html">VERB</a></tt>-<tt><a href="pro_corag-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="pro_corag-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pro_corag-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="pro_corag-pos-VERB.html">VERB</a></tt>-<tt><a href="pro_corag-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="pro_corag-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pro_corag-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="pro_corag-pos-ADV.html">ADV</a></tt>-<tt><a href="pro_corag-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="pro_corag-pos-ADV.html">ADV</a></tt>-<tt><a href="pro_corag-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 8 obl	color:blue
-1	e	_	CCONJ	_	_	11	cc	_	_
-2	si-	_	SCONJ	_	_	4	mark	_	_
-3	-no	_	ADV	_	Polarity=Neg	4	advmod	_	_
-4	pod	_	VERB	_	Number=Sing|Person=3|VerbForm=Fin	11	advcl	_	_
-5	lui	_	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obj	_	_
-6	aver	_	VERB	_	VerbForm=Inf	4	xcomp	_	_
-7	a	_	ADP	_	_	8	case	_	_
-8	dret	_	NOUN	_	_	6	obl	_	_
-9	ed	_	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	_
-10	medix	_	ADJ	_	_	9	amod	_	_
-11	fase	_	VERB	_	Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
-12	so	_	PRON	_	Gender=Neut|Number=Sing|PronType=Dem	11	obj	_	_
-13	que	_	PRON	_	PronType=Rel	16	obj	_	_
-14	ed	_	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	_
-15	deu	_	VERB	_	Number=Sing|Person=3|VerbForm=Fin	12	acl:relcl	_	_
-16	far	_	VERB	_	VerbForm=Inf	15	xcomp	_	SpaceAfter=No
-17	.	_	PUNCT	_	_	11	punct	_	_
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 10 obl	color:blue
+1	Item	_	ADV	_	_	7	advmod	_	SpaceAfter=No
+2	,	_	PUNCT	_	_	1	punct	_	_
+3	aucuns	_	DET	_	_	4	det	_	_
+4	homes	_	NOUN	_	_	7	nsubj	_	_
+5	de	_	ADP	_	_	6	case	_	_
+6	Crognon	_	PROPN	_	_	4	nmod	_	_
+7	foren	_	VERB	_	Number=Plur|Person=3|VerbForm=Fin	0	root	_	_
+8	de-	_	ADP	_	_	10	case	_	_
+9	-lo	_	DET	_	_	10	det	_	_
+10	seynhor	_	NOUN	_	_	7	obl	_	_
+11	Rey	_	NOUN	_	_	10	flat	_	SpaceAfter=No
+12	.	_	PUNCT	_	_	7	punct	_	_
 
 ~~~
 
@@ -65,22 +60,24 @@ The following 22 pairs of parts of speech are connected with `obl`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 8 obl	color:blue
-1	Item	_	ADV	_	_	10	advmod	_	SpaceAfter=No
-2	,	_	PUNCT	_	_	1	punct	_	_
-3	quant	_	SCONJ	_	_	6	mark	_	_
-4	lo	_	DET	_	_	5	det	_	_
-5	Rey	_	NOUN	_	_	6	nsubj	_	_
-6	fut	_	VERB	_	Number=Sing|Person=3|VerbForm=Fin	10	advcl	_	_
-7	bert	_	ADP	_	_	8	case	_	_
-8	Bordeu	_	PROPN	_	_	6	obl	_	_
-9	LX	_	NUM	_	_	10	nummod	_	_
-10	soudz	_	NOUN	_	_	0	root	_	SpaceAfter=No
-11	.	_	PUNCT	_	_	10	punct	_	_
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 10 obl	color:blue
+1	Testimoni	_	NOUN	_	_	0	root	_	_
+2	jo	_	PRON	_	Number=Sing|Person=1|PronType=Prs	1	nsubj	_	_
+3	medeys	_	ADJ	_	_	2	amod	_	SpaceAfter=No
+4	,	_	PUNCT	_	_	1	punct	_	_
+5	vert	_	ADP	_	_	6	case	_	_
+6	Wudestoc	_	PROPN	_	_	1	obl	_	SpaceAfter=No
+7	,	_	PUNCT	_	_	6	punct	_	_
+8	lo	_	DET	_	_	10	det	_	_
+9	XXVIII	_	ADJ	_	_	10	amod	_	_
+10	jorn	_	NOUN	_	_	1	obl	_	_
+11	de	_	ADP	_	_	12	case	_	_
+12	novembre	_	NOUN	_	_	10	nmod	_	SpaceAfter=No
+13	.	_	PUNCT	_	_	1	punct	_	_
 
 ~~~
 

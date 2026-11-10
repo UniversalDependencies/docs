@@ -8,58 +8,47 @@ udver: '2'
 
 This relation is universal.
 
-446 nodes (1%) are attached to their parents as `flat`.
+460 nodes (1%) are attached to their parents as `flat`.
 
-446 instances of `flat` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.06053811659193.
+460 instances of `flat` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.08695652173913.
 
-The following 11 pairs of parts of speech are connected with `flat`: <tt><a href="pro_corag-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pro_corag-pos-PROPN.html">PROPN</a></tt> (187; 42% instances), <tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pro_corag-pos-PROPN.html">PROPN</a></tt> (167; 37% instances), <tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt> (78; 17% instances), <tt><a href="pro_corag-pos-DET.html">DET</a></tt>-<tt><a href="pro_corag-pos-PROPN.html">PROPN</a></tt> (3; 1% instances), <tt><a href="pro_corag-pos-NUM.html">NUM</a></tt>-<tt><a href="pro_corag-pos-NUM.html">NUM</a></tt> (3; 1% instances), <tt><a href="pro_corag-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="pro_corag-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="pro_corag-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pro_corag-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pro_corag-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="pro_corag-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pro_corag-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="pro_corag-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pro_corag-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+The following 12 pairs of parts of speech are connected with `flat`: <tt><a href="pro_corag-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pro_corag-pos-PROPN.html">PROPN</a></tt> (187; 41% instances), <tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pro_corag-pos-PROPN.html">PROPN</a></tt> (169; 37% instances), <tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt> (78; 17% instances), <tt><a href="pro_corag-pos-NUM.html">NUM</a></tt>-<tt><a href="pro_corag-pos-NUM.html">NUM</a></tt> (11; 2% instances), <tt><a href="pro_corag-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt> (4; 1% instances), <tt><a href="pro_corag-pos-DET.html">DET</a></tt>-<tt><a href="pro_corag-pos-PROPN.html">PROPN</a></tt> (3; 1% instances), <tt><a href="pro_corag-pos-NUM.html">NUM</a></tt>-<tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="pro_corag-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="pro_corag-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pro_corag-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pro_corag-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="pro_corag-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pro_corag-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="pro_corag-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pro_corag-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 6 flat	color:blue
-1	Sober	_	ADP	_	_	3	case	_	_
-2	lo	_	DET	_	_	3	det	_	_
-3	pleyt	_	NOUN	_	_	0	root	_	_
-4	de	_	ADP	_	_	5	case	_	_
-5	Guilhem	_	PROPN	_	_	3	nmod	_	_
-6	Ramon	_	PROPN	_	_	5	flat	_	_
-7	de	_	ADP	_	_	8	case	_	_
-8	Navalhes	_	PROPN	_	_	5	nmod	_	_
-9	et	_	CCONJ	_	_	12	cc	_	_
-10	de	_	ADP	_	_	12	case	_	_
-11	une	_	DET	_	_	12	det	_	_
-12	femne	_	NOUN	_	_	5	conj	_	SpaceAfter=No
-13	.	_	PUNCT	_	_	3	punct	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 flat	color:blue
+1	Guilhem	_	PROPN	_	_	0	root	_	_
+2	Richart	_	PROPN	_	_	1	flat	_	SpaceAfter=No
+3	,	_	PUNCT	_	_	1	punct	_	_
+4	prebost	_	NOUN	_	_	1	appos	_	_
+5	aladonquas	_	ADV	_	_	4	advmod	_	_
+6	XX	_	NUM	_	_	7	nummod	_	_
+7	soudz	_	NOUN	_	_	1	orphan	_	SpaceAfter=No
+8	;	_	PUNCT	_	_	1	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 6 flat	color:blue
-1	Sover	_	ADP	_	_	3	case	_	_
-2	lo	_	DET	_	_	3	det	_	_
-3	pleyt	_	NOUN	_	_	0	root	_	_
-4	d'	_	ADP	_	_	5	case	_	SpaceAfter=No
-5	En	_	NOUN	_	_	3	nmod	_	_
-6	Bernat	_	PROPN	_	_	5	flat	_	_
-7	de	_	ADP	_	_	8	case	_	_
-8	Salier	_	PROPN	_	_	6	nmod	_	_
-9	et	_	CCONJ	_	_	11	cc	_	_
-10	d'	_	ADP	_	_	11	case	_	SpaceAfter=No
-11	En	_	NOUN	_	_	5	conj	_	_
-12	Bernat	_	PROPN	_	_	11	flat	_	_
-13	lo	_	DET	_	_	14	det	_	_
-14	Bon	_	NOUN	_	_	12	appos	_	SpaceAfter=No
-15	.	_	PUNCT	_	_	3	punct	_	_
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 8 flat	color:blue
+1	Seguen	_	VERB	_	Number=Plur|Person=3|VerbForm=Fin	0	root	_	_
+2	se	_	PRON	_	Person=3|PronType=Prs|Reflex=Yes	1	expl	_	_
+3	las	_	DET	_	_	4	det	_	_
+4	lettras	_	NOUN	_	_	1	nsubj	_	_
+5	de-	_	ADP	_	_	7	case	_	_
+6	-lo	_	DET	_	_	7	det	_	_
+7	rey	_	NOUN	_	_	4	nmod	_	_
+8	Helias	_	PROPN	_	_	7	flat	_	SpaceAfter=No
+9	.	_	PUNCT	_	_	1	punct	_	_
 
 ~~~
 

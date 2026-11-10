@@ -77,11 +77,11 @@ The following 5 pairs of parts of speech are connected with `appos`: <tt><a href
 6	горизонт	горизонт	NOUN	_	Case=Nom|Number=Sing	7	nmod	_	GTtags=Sg,Nom
 7	вылын	выв	NOUN	N	Case=Ine|NounType=Relat|Number=Sing	3	appos	_	SpaceAfter=No
 8	,	,	PUNCT	CLB	_	7	punct	_	_
-9	лэбтіcиcӧ	лэбтіcьны	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	GTtags=Ind,Prt1,Pl3
+9	лэбтісисӧ	лэбтісьны	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	GTtags=Ind,Prt1,Pl3
 10	кык	кык	NUM	_	Case=Nom|Number=Sing|NumType=Card	13	nummod	_	GTtags=Card,Sg,Nom
 11	ыджыт	ыджыт	ADJ	_	Case=Nom|Number=Sing	13	amod	_	GTtags=Sg,Nom
 12	коричневӧй	коричневӧй	ADJ	_	Case=Nom|Number=Sing	13	amod	_	GTtags=Sg,Nom
-13	кымӧp	кымӧp	NOUN	_	Case=Nom|Number=Sing	9	nsubj	_	SpaceAfter=No
+13	кымӧр	кымӧр	NOUN	_	Case=Nom|Number=Sing	9	nsubj	_	SpaceAfter=No
 14	.	.	PUNCT	CLB	_	9	punct	_	_
 
 ~~~

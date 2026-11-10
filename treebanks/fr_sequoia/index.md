@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.0 release.
 The following people have contributed to making this treebank part of UD: Marie Candito, Djamé Seddah, Guy Perrier, Bruno Guillaume.
 
 Repository: [UD_French-Sequoia](https://github.com/UniversalDependencies/UD_French-Sequoia)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfr_sequoia218)<br />
-Download all treebanks: [UD 2.18](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfr_sequoia219)<br />
+Download all treebanks: [UD 2.19](/#download)
 
 License: LGPL-LR
 
@@ -47,20 +47,20 @@ Do not submit pull requests against the UD repository.
 
 
 **UD_French-Sequoia** is an automatic conversion of the [SUD_French-Sequoia](https://github.com/surfacesyntacticud/SUD_French-Sequoia) treebank, which comes from the former corpus [French Sequoia corpus](http://deep-sequoia.inria.fr).
-The French Sequoia corpus was converted in April 2023 to SUD with the Grew rewriting system [described here](https://gitlab.inria.fr/grew/DSQ_SUD).
+The French Sequoia corpus was converted in April 2023 to SUD with the Grew rewriting system [described here](https://gitlab.inria.fr/grew/DSQtoSUD).
 Since this date, the corpus is maintained in SUD and converted to UD.
 
 ## Origin
 The first version of the Sequoia Corpus was presented in [(Candito & Seddah, 2012)](https://hal-univ-diderot.archives-ouvertes.fr/hal-00698938/).
 
 ## Splitting
-The whole corpus contains 70,546 tokens in 3,099 sentences.
+The whole corpus contains 70,502 tokens in 3,099 sentences.
 
 In **UD_French-Sequoia**, data were randomly split into:
 
-* `fr_sequoia-ud-test.conllu`: 10,044 tokens in 456 sentences
-* `fr_sequoia-ud-dev.conllu`: 9,999 tokens in 412 sentences
-* `fr_sequoia-ud-train.conllu`: 50,503 tokens in 2,231 sentences
+* `fr_sequoia-ud-test.conllu`: 10,036 tokens in 456 sentences
+* `fr_sequoia-ud-dev.conllu`: 9,988 tokens in 412 sentences
+* `fr_sequoia-ud-train.conllu`: 50,478 tokens in 2,231 sentences
 
 ## Genres
 The original sentences of the corpus are taken from:
@@ -95,7 +95,7 @@ The Sequoia Corpus was presented in [(Candito & Seddah, 2012)](https://hal-univ-
 
 
 <ul>
-<li>This corpus contains 3099 sentences, 68593 tokens and 70545 syntactic words.</li>
+<li>This corpus contains 3099 sentences, 68593 tokens and 70502 syntactic words.</li>
 </ul>
 
 <ul>
@@ -111,8 +111,8 @@ The Sequoia Corpus was presented in [(Candito & Seddah, 2012)](https://hal-univ-
 </ul>
 
 <ul>
-<li>This corpus contains 1952 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
-<li>There are 8 types of multi-word tokens. Examples: des, du, au, aux, auxquels, auxquelles, duquel, desdites.</li>
+<li>This corpus contains 1909 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+<li>There are 7 types of multi-word tokens. Examples: des, du, au, aux, auxquels, auxquelles, duquel.</li>
 </ul>
 
 <h2>Morphology</h2>
@@ -173,7 +173,7 @@ The Sequoia Corpus was presented in [(Candito & Seddah, 2012)](https://hal-univ-
   <li>Part
   <ul>
     <li>AUX: été, ayant, étant, fait, faisant</li>
-    <li>VERB: concernant, mis, eu, traités, utilisé, suivant, atteints, administré, reçu, présentant</li>
+    <li>VERB: mis, eu, traités, utilisé, atteints, administré, reçu, concernant, pris, pu</li>
   </ul>
   </li>
 </ul>
@@ -192,7 +192,7 @@ The Sequoia Corpus was presented in [(Candito & Seddah, 2012)](https://hal-univ-
       <li>DET: la, l', une, cette, sa, son, aucune, certaines, toute, ma</li>
       <li>NOUN: affaire, bivalirudine, commission, perfusion, administration, solution, dose, étude, fois, union</li>
       <li>PRON: elle, laquelle, elles, la, lesquelles, une, celle-ci, celles, celle, chacune</li>
-      <li>PROPN: France, Paget, Europe, Christine, Denise, Afrique, Chine, Jean, Blanche, Société</li>
+      <li>PROPN: France, Paget, Europe, Christine, Denise, Afrique, Chine, Jean, Blanche, UE</li>
       <li>VERB-Part: observée, recommandée, administrée, destinée, maintenue, menée, rapportées, traitées, versées, liée</li>
     </ul>
   </li>
@@ -288,7 +288,7 @@ The Sequoia Corpus was presented in [(Candito & Seddah, 2012)](https://hal-univ-
 <ul>
   <li>Def
     <ul>
-      <li>DET: le, les, la, l', ladite, lesdites</li>
+      <li>DET: le, les, la, l', ladite</li>
     </ul>
   </li>
 </ul>
@@ -388,7 +388,9 @@ The Sequoia Corpus was presented in [(Candito & Seddah, 2012)](https://hal-univ-
   <li>Past
     <ul>
       <li>AUX-Fin: fut, furent, eut</li>
+      <li>AUX-Part: été, fait</li>
       <li>VERB-Fin: agit, eut, avéra, mit, revint, aboutisse, aboutit, accrochèrent, adonnèrent, adoucit</li>
+      <li>VERB-Part: mis, eu, traités, utilisé, atteints, administré, reçu, pris, pu, fait</li>
     </ul>
   </li>
 </ul>
@@ -397,7 +399,9 @@ The Sequoia Corpus was presented in [(Candito & Seddah, 2012)](https://hal-univ-
   <li>Pres
     <ul>
       <li>AUX-Fin: est, a, ont, sont, ai, soit, avez, avons, aurait, soient</li>
+      <li>AUX-Part: ayant, étant, faisant</li>
       <li>VERB-Fin: doit, a, peut, doivent, faut, est, peuvent, voudrais, pense, devons</li>
+      <li>VERB-Part: concernant, suivant, présentant, ayant, souffrant, subissant, correspondant, recevant, résultant, portant</li>
     </ul>
   </li>
 </ul>
@@ -509,7 +513,7 @@ The Sequoia Corpus was presented in [(Candito & Seddah, 2012)](https://hal-univ-
   <li>Card
     <ul>
       <li>NOUN: millions, milliards, milliard, million</li>
-      <li>NUM: deux, 5, trois, 2, 2006, 10, 30, 1, 3, 15</li>
+      <li>NUM: deux, 5, trois, 2, 2006, 10, 1, 30, 3, 4</li>
     </ul>
   </li>
 </ul>
@@ -640,13 +644,13 @@ The Sequoia Corpus was presented in [(Candito & Seddah, 2012)](https://hal-univ-
           <li>ADV: tout, non</li>
           <li>PRON: il, Y</li>
           <li>SYM: /, <</li>
-          <li>VERB: vu</li>
+          <li>VERB-Part: vu</li>
         </ul>
       </li>
       <li>ADV
         <ul>
           <li>ADJ: petit</li>
-          <li>ADP: à, de, en, d', dès, entre, pour, A, Par, comme</li>
+          <li>ADP: au, en, à, d', de, dès, par, du, entre, pour</li>
           <li>ADV: bien, quant, tout, non, aussi, ne</li>
           <li>DET: un, une, le</li>
           <li>NOUN: suite, grâce, face, compte</li>
@@ -678,6 +682,7 @@ The Sequoia Corpus was presented in [(Candito & Seddah, 2012)](https://hal-univ-
       <li>NOUN
         <ul>
           <li>ADP: pour</li>
+          <li>NUM: 11.01.02.</li>
           <li>SYM: %</li>
           <li>X: 220725478X, B01AE06</li>
         </ul>
@@ -687,20 +692,22 @@ The Sequoia Corpus was presented in [(Candito & Seddah, 2012)](https://hal-univ-
           <li>ADP: de</li>
           <li>ADV: plus, près, moins, beaucoup, davantage, peu, trop, autant, suffisamment, combien</li>
           <li>DET: le</li>
+          <li>NUM: deux, 1, 100, 10, 2, 3 852, 3 862, 6, 96, six</li>
           <li>PRON: qui</li>
         </ul>
       </li>
       <li>PROPN
         <ul>
           <li>NOUN: Fusillé, Fusillés, charniers, honneur, possession</li>
+          <li>NUM: 2006, 2000, 1995, 2, 2002, 2001, 1994, 5, 2004, 1989</li>
           <li>X: M05BA08</li>
         </ul>
       </li>
       <li>SCONJ
         <ul>
           <li>ADP: dans</li>
-          <li>ADV: alors, bien, parce, même, tandis, quand</li>
-          <li>SCONJ: parce</li>
+          <li>ADV: parce, alors, bien, même, tandis</li>
+          <li>SCONJ: Parce, quand</li>
         </ul>
       </li>
       <li>VERB
@@ -800,11 +807,12 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB-Fin--NOUN (613)</li>
-      <li>VERB-Fin--NOUN-ADP(jusque)-ADP(à) (1)</li>
+      <li>VERB-Fin--NOUN (612)</li>
+      <li>VERB-Fin--NOUN-ADP(jusque)-ADP(à) (2)</li>
       <li>VERB-Fin--PRON (93)</li>
       <li>VERB-Fin--PRON-Acc (46)</li>
-      <li>VERB-Inf--NOUN (685)</li>
+      <li>VERB-Inf--NOUN (684)</li>
+      <li>VERB-Inf--NOUN-ADP(jusque)-ADP(à) (1)</li>
       <li>VERB-Inf--NOUN-ADP(à) (1)</li>
       <li>VERB-Inf--PRON (38)</li>
       <li>VERB-Inf--PRON-Acc (36)</li>

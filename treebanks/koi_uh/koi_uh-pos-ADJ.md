@@ -6,12 +6,12 @@ udver: '2'
 
 ## Treebank Statistics: UD_Komi_Permyak-UH: POS Tags: `ADJ`
 
-There are 27 `ADJ` lemmas (5%), 30 `ADJ` types (5%) and 38 `ADJ` tokens (3%).
+There are 27 `ADJ` lemmas (5%), 28 `ADJ` types (4%) and 38 `ADJ` tokens (3%).
 Out of 15 observed tags, the rank of `ADJ` is: 4 in number of lemmas, 5 in number of types and 8 in number of tokens.
 
 The 10 most frequent `ADJ` lemmas: <em>бур, ыджыт, важ, сьӧд, сэтшӧм, честнӧй, Куим, быльнӧй, бӧрья, веськыт</em>
 
-The 10 most frequent `ADJ` types:  <em>буржык, ыджыт, важ, честнӧй, Бöрья, Куимӧдз, бур, быльнӧй, веськытлань, витӧдз</em>
+The 10 most frequent `ADJ` types:  <em>буржык, ыджыт, важ, сьӧд, сэтшӧм, честнӧй, Бӧрья, Куимӧдз, бур, быльнӧй</em>
 
 The 10 most frequent ambiguous lemmas: <em>том</em> (<tt><a href="koi_uh-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> 1)
 
@@ -21,13 +21,13 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 1.111111 (the average of all parts of speech is 1.260870).
+The form / lemma ratio of `ADJ` is 1.037037 (the average of all parts of speech is 1.239604).
 
 The 1st highest number of forms (2) was observed with the lemma “бур”: <em>бур, буржык</em>.
 
-The 2nd highest number of forms (2) was observed with the lemma “сьӧд”: <em>сьöд, сьӧд</em>.
+The 2nd highest number of forms (1) was observed with the lemma “Куим”: <em>Куимӧдз</em>.
 
-The 3rd highest number of forms (2) was observed with the lemma “сэтшӧм”: <em>сэтшöм, сэтшӧм</em>.
+The 3rd highest number of forms (1) was observed with the lemma “быльнӧй”: <em>быльнӧй</em>.
 
 `ADJ` occurs with 7 features: <tt><a href="koi_uh-feat-Number.html">Number</a></tt> (11; 29% instances), <tt><a href="koi_uh-feat-Case.html">Case</a></tt> (9; 24% instances), <tt><a href="koi_uh-feat-Degree.html">Degree</a></tt> (5; 13% instances), <tt><a href="koi_uh-feat-NumType.html">NumType</a></tt> (2; 5% instances), <tt><a href="koi_uh-feat-PronType.html">PronType</a></tt> (2; 5% instances), <tt><a href="koi_uh-feat-Animacy.html">Animacy</a></tt> (1; 3% instances), <tt><a href="koi_uh-feat-Number-subj.html">Number[subj]</a></tt> (1; 3% instances)
 
@@ -35,7 +35,7 @@ The 3rd highest number of forms (2) was observed with the lemma “сэтшӧм�
 
 `ADJ` occurs with 10 feature combinations.
 The most frequent feature combination is `_` (20 tokens).
-Examples: <em>важ, честнӧй, ыджыт, Бöрья, быльнӧй, долженöсь, долыт, интереснöй, июльскӧй, лажмытик</em>
+Examples: <em>важ, сьӧд, честнӧй, ыджыт, Бӧрья, быльнӧй, долженӧсь, долыт, интереснӧй, июльскӧй</em>
 
 
 ## Relations

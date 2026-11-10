@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Fem`, `Masc`.
 
-12701 tokens (54%) have a non-empty value of `Gender`.
-4689 types (77%) occur at least once with a non-empty value of `Gender`.
-3977 lemmas (85%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 11 part-of-speech tags: <tt><a href="it_pud-pos-NOUN.html">NOUN</a></tt> (4384; 18% instances), <tt><a href="it_pud-pos-DET.html">DET</a></tt> (3783; 16% instances), <tt><a href="it_pud-pos-PROPN.html">PROPN</a></tt> (1739; 7% instances), <tt><a href="it_pud-pos-ADJ.html">ADJ</a></tt> (1599; 7% instances), <tt><a href="it_pud-pos-PRON.html">PRON</a></tt> (609; 3% instances), <tt><a href="it_pud-pos-VERB.html">VERB</a></tt> (449; 2% instances), <tt><a href="it_pud-pos-AUX.html">AUX</a></tt> (60; 0% instances), <tt><a href="it_pud-pos-ADP.html">ADP</a></tt> (54; 0% instances), <tt><a href="it_pud-pos-NUM.html">NUM</a></tt> (20; 0% instances), <tt><a href="it_pud-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="it_pud-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances).
+12701 tokens (53%) have a non-empty value of `Gender`.
+4676 types (77%) occur at least once with a non-empty value of `Gender`.
+3976 lemmas (85%) occur at least once with a non-empty value of `Gender`.
+The feature is used with 11 part-of-speech tags: <tt><a href="it_pud-pos-NOUN.html">NOUN</a></tt> (4384; 18% instances), <tt><a href="it_pud-pos-DET.html">DET</a></tt> (3834; 16% instances), <tt><a href="it_pud-pos-PROPN.html">PROPN</a></tt> (1739; 7% instances), <tt><a href="it_pud-pos-ADJ.html">ADJ</a></tt> (1599; 7% instances), <tt><a href="it_pud-pos-PRON.html">PRON</a></tt> (609; 3% instances), <tt><a href="it_pud-pos-VERB.html">VERB</a></tt> (449; 2% instances), <tt><a href="it_pud-pos-AUX.html">AUX</a></tt> (60; 0% instances), <tt><a href="it_pud-pos-NUM.html">NUM</a></tt> (20; 0% instances), <tt><a href="it_pud-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="it_pud-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="it_pud-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances).
 
 ### `NOUN`
 
@@ -36,14 +36,14 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
 
 ### `DET`
 
-3783 <tt><a href="it_pud-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Gender`.
+3834 <tt><a href="it_pud-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="it_pud-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (3492; 92%), <tt><a href="it_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2838; 75%), <tt><a href="it_pud-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (2308; 61%).
+The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="it_pud-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (3543; 92%), <tt><a href="it_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2885; 75%), <tt><a href="it_pud-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (2308; 60%).
 
 `DET` tokens may have the following values of `Gender`:
 
-* `Fem` (1600; 42% of non-empty `Gender`): <em>la, le, l', una, un', questa, altre, molte, queste, diverse</em>
-* `Masc` (2183; 58% of non-empty `Gender`): <em>il, i, un, l', gli, lo, questo, ciò, molti, altri</em>
+* `Fem` (1614; 42% of non-empty `Gender`): <em>la, le, l', una, un', questa, altre, molte, queste, diverse</em>
+* `Masc` (2220; 58% of non-empty `Gender`): <em>il, i, un, l', gli, lo, questo, ciò, molti, altri</em>
 * `EMPTY` (2): <em>Ciò, l'</em>
 
 <table>
@@ -147,21 +147,6 @@ The most frequent other feature values with which `AUX` and `Gender` co-occurred
   <tr><td><tt><tt><a href="it_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>stati</em></td><td><em>state</em></td></tr>
 </table>
 
-### `ADP`
-
-54 <tt><a href="it_pud-pos-ADP.html">ADP</a></tt> tokens (1% of all `ADP` tokens) have a non-empty value of `Gender`.
-
-`ADP` tokens may have the following values of `Gender`:
-
-* `Fem` (14; 26% of non-empty `Gender`): <em>alla, della, alle, dalla, dell', nella</em>
-* `Masc` (40; 74% of non-empty `Gender`): <em>al, del, dell', all', Da, Sulla, ai, allo, dagli, dai</em>
-* `EMPTY` (3754): <em>di, in, a, per, da, con, su, come, tra, dopo</em>
-
-<table>
-  <tr><th>Paradigm <i>di</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
-  <tr><td><tt></tt></td><td><em>del, dell', dello</em></td><td><em>della, dell'</em></td></tr>
-</table>
-
 ### `NUM`
 
 20 <tt><a href="it_pud-pos-NUM.html">NUM</a></tt> tokens (5% of all `NUM` tokens) have a non-empty value of `Gender`.
@@ -176,6 +161,15 @@ The most frequent other feature values with which `AUX` and `Gender` co-occurred
   <tr><th>Paradigm <i>uno</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
   <tr><td><tt></tt></td><td><em>uno, un</em></td><td><em>una</em></td></tr>
 </table>
+
+### `ADP`
+
+3 <tt><a href="it_pud-pos-ADP.html">ADP</a></tt> tokens (0% of all `ADP` tokens) have a non-empty value of `Gender`.
+
+`ADP` tokens may have the following values of `Gender`:
+
+* `Masc` (3; 100% of non-empty `Gender`): <em>Da, Sulla, del</em>
+* `EMPTY` (3805): <em>di, in, a, da, per, con, su, come, tra, dopo</em>
 
 ### `ADV`
 
@@ -206,9 +200,9 @@ The most frequent other feature values with which `ADV` and `Gender` co-occurred
 ## Relations with Agreement in `Gender`
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
-<tt>NOUN --[<tt><a href="it_pud-dep-det.html">det</a></tt>]--> DET</tt> (3023; 100%),
+<tt>NOUN --[<tt><a href="it_pud-dep-det.html">det</a></tt>]--> DET</tt> (3061; 100%),
 <tt>NOUN --[<tt><a href="it_pud-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1219; 99%),
-<tt>PROPN --[<tt><a href="it_pud-dep-det.html">det</a></tt>]--> DET</tt> (516; 100%),
+<tt>PROPN --[<tt><a href="it_pud-dep-det.html">det</a></tt>]--> DET</tt> (519; 100%),
 <tt>PROPN --[<tt><a href="it_pud-dep-flat.html">flat</a></tt>]--> PROPN</tt> (401; 99%),
 <tt>NOUN --[<tt><a href="it_pud-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (276; 61%),
 <tt>NOUN --[<tt><a href="it_pud-dep-det-poss.html">det:poss</a></tt>]--> PRON</tt> (225; 99%),

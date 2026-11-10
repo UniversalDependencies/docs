@@ -92,13 +92,13 @@ The following 8 pairs of parts of speech are connected with `advcl:relcl`: <tt><
 # visual-style 22 25 advcl:relcl	color:blue
 1	_	_	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	4:nsubj	Discourse=joint-other_m:31->16:3:_;explanation-justify:31->35:1:1:orp-so-230-gold|Entity=(24-person-acc:com-nsnnn-cf1-1-ana)|Lem=_|Len=1
 2	_	_	AUX	MD	VerbForm=Fin	4	aux	4:aux	Lem=_|Len=5
-3	_	_	ADV	RB	_	4	advmod	4:advmod	Lem=_|Len=6|MSeg=al-way-s
+3	_	_	ADV	RB	PronType=Tot	4	advmod	4:advmod	Lem=_|Len=6|MSeg=al-way-s
 4	_	_	VERB	VB	VerbForm=Inf	0	root	0:root	Entity=(25-event-new-nnnnn-cf2-1-disc)|Lem=_|Len=5
 5	_	_	ADP	IN	_	7	case	7:case	Lem=_|Len=2
 6	_	_	DET	DT	PronType=Ind	7	det	7:det	Lem=_|Len=4
 7	_	_	NOUN	NN	Number=Sing	4	obl	4:obl:to	Lem=_|Len=6|SpaceAfter=No
 8	_	_	PUNCT	,	_	12	punct	12:punct	Lem=_|Len=1
-9	_	_	ADV	RB	_	12	advmod	12:advmod	Discourse=adversative-concession:32->33:0:dm-but-225-gold|Lem=_|Len=9|MSeg=sometime-s
+9	_	_	ADV	RB	PronType=Tot	12	advmod	12:advmod	Discourse=adversative-concession:32->33:0:dm-but-225-gold|Lem=_|Len=9|MSeg=some-time-s
 10	_	_	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	12	nsubj	12:nsubj	Entity=(25-event-giv:act-nnnnn-cf2-1-coref)|Lem=_|Len=2
 11	_	_	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	cop	12:cop	Lem=be|Len=3
 12	_	_	ADJ	JJ	Degree=Pos	4	parataxis	4:parataxis	Entity=(25-event-giv:act-nnnnn-cf2-1-coref)|Lem=_|Len=9

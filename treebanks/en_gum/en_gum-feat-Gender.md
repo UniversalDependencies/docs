@@ -27,7 +27,7 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 * `Fem,Masc` (3; 0% of non-empty `Gender`): <em>s/he</em>
 * `Masc` (1740; 31% of non-empty `Gender`): <em>he, his, him, himself</em>
 * `Neut` (3005; 54% of non-empty `Gender`): <em>it, its, itself, it's</em>
-* `EMPTY` (16379): <em>i, you, that, we, they, your, my, what, this, which</em>
+* `EMPTY` (16388): <em>i, you, that, we, they, your, my, what, this, which</em>
 
 `Gender` seems to be **lexical feature** of `PRON`. 100% lemmas (10) occur only with one value of `Gender`.
 

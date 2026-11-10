@@ -50,7 +50,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 `ADV` tokens may have the following values of `Degree`:
 
 * `Cmp` (75; 10% of non-empty `Degree`): <em>более, больше, менее, ранее, лучше, позже, раньше, чаще, Позднее, безопаснее</em>
-* `Pos` (645; 89% of non-empty `Degree`): <em>также, еще, где, так, там, очень, уже, все, примерно, часто</em>
+* `Pos` (645; 89% of non-empty `Degree`): <em>также, еще, где, там, так, очень, уже, все, примерно, часто</em>
 * `Sup` (6; 1% of non-empty `Degree`): <em>наиболее</em>
 
 <table>
@@ -67,10 +67,10 @@ The 10 most frequent relations where parent and child node agree in `Degree`:
 <tt>ADJ --[<tt><a href="ru_pud-dep-conj.html">conj</a></tt>]--> ADJ</tt> (49; 100%),
 <tt>ADJ --[<tt><a href="ru_pud-dep-amod.html">amod</a></tt>]--> ADJ</tt> (27; 96%),
 <tt>ADV --[<tt><a href="ru_pud-dep-advmod.html">advmod</a></tt>]--> ADV</tt> (18; 55%),
+<tt>ADV --[<tt><a href="ru_pud-dep-conj.html">conj</a></tt>]--> ADV</tt> (4; 100%),
 <tt>ADJ --[<tt><a href="ru_pud-dep-parataxis.html">parataxis</a></tt>]--> ADV</tt> (3; 75%),
-<tt>ADV --[<tt><a href="ru_pud-dep-conj.html">conj</a></tt>]--> ADV</tt> (3; 100%),
-<tt>ADJ --[<tt><a href="ru_pud-dep-mark.html">mark</a></tt>]--> ADV</tt> (2; 100%),
 <tt>ADJ --[<tt><a href="ru_pud-dep-obl.html">obl</a></tt>]--> ADV</tt> (2; 100%),
 <tt>ADJ --[<tt><a href="ru_pud-dep-advcl.html">advcl</a></tt>]--> ADJ</tt> (1; 100%),
+<tt>ADJ --[<tt><a href="ru_pud-dep-cc.html">cc</a></tt>]--> ADV</tt> (1; 100%),
 <tt>ADJ --[<tt><a href="ru_pud-dep-conj.html">conj</a></tt>]--> ADV</tt> (1; 100%).
 

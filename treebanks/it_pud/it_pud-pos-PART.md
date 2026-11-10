@@ -25,16 +25,16 @@ The 10 most frequent ambiguous types:  <em>avanti</em> (<tt><a href="it_pud-pos-
   * <tt><a href="it_pud-pos-PRON.html">PRON</a></tt> 19: <em>In il sito web Yas Marina Circuit <b>ci</b> sono gli orari esatti .</em>
   * <tt><a href="it_pud-pos-PART.html">PART</a></tt> 1: <em>Sfortunatamente ancora una volta per colpa di qualcuno <b>ci</b> rimettono in molti , ha scritto Jesse LaBrocca , fondatrice di Hack Forums , in un messaggio volto a spiegare i motivi che hanno portato a la chiusura di la sezione .</em>
 * <em>fuori</em>
-  * <tt><a href="it_pud-pos-ADV.html">ADV</a></tt> 5: <em>In i film di guerra o western e in quelli indiani le battaglie , le lotte e le risse erano <b>fuori</b> dal mondo .</em>
+  * <tt><a href="it_pud-pos-ADV.html">ADV</a></tt> 5: <em>In i film di guerra o western e in quelli indiani le battaglie , le lotte e le risse erano <b>fuori</b> da il mondo .</em>
   * <tt><a href="it_pud-pos-ADP.html">ADP</a></tt> 1: <em>Ma in questo momento tutto è <b>fuori</b> controllo e lui sembra costantemente a la ricerca di risposte .</em>
   * <tt><a href="it_pud-pos-PART.html">PART</a></tt> 1: <em>Sta in piedi da solo di fronte a il pubblico e , a la fine , deve tirare <b>fuori</b> il meglio di sé per far ridere il pubblico .</em>
 * <em>via</em>
-  * <tt><a href="it_pud-pos-NOUN.html">NOUN</a></tt> 1: <em>Il Mar di i Caraibi fu sconosciuto a le popolazioni di l' Eurasia fino al 1492 , anno in cui Cristoforo Colombo navigò per la prima volta in le acque caraibiche a la ricerca di una <b>via</b> di comunicazione con l' Asia .</em>
+  * <tt><a href="it_pud-pos-NOUN.html">NOUN</a></tt> 1: <em>Il Mar di i Caraibi fu sconosciuto a le popolazioni di l' Eurasia fino a il 1492 , anno in cui Cristoforo Colombo navigò per la prima volta in le acque caraibiche a la ricerca di una <b>via</b> di comunicazione con l' Asia .</em>
   * <tt><a href="it_pud-pos-PART.html">PART</a></tt> 1: <em>Le tempeste di polvere hanno origine solitamente a i margini di i deserti più che a l' interno di i deserti stessi , dove i materiali più fini sono già stati spazzati <b>via</b> .</em>
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.285855).
+The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.282892).
 
 The 1st highest number of forms (1) was observed with the lemma “'s”: <em>'s</em>.
 

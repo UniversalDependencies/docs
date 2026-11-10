@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-229 nodes (1%) are attached to their parents as `mark`.
+228 nodes (1%) are attached to their parents as `mark`.
 
-154 instances of `mark` (67%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.8646288209607.
+153 instances of `mark` (67%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.84649122807018.
 
-The following 8 pairs of parts of speech are connected with `mark`: <tt><a href="zh_beginner-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_beginner-pos-PART.html">PART</a></tt> (136; 59% instances), <tt><a href="zh_beginner-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_beginner-pos-ADP.html">ADP</a></tt> (43; 19% instances), <tt><a href="zh_beginner-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_beginner-pos-SCONJ.html">SCONJ</a></tt> (33; 14% instances), <tt><a href="zh_beginner-pos-ADJ.html">ADJ</a></tt>-<tt><a href="zh_beginner-pos-SCONJ.html">SCONJ</a></tt> (10; 4% instances), <tt><a href="zh_beginner-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_beginner-pos-SCONJ.html">SCONJ</a></tt> (3; 1% instances), <tt><a href="zh_beginner-pos-AUX.html">AUX</a></tt>-<tt><a href="zh_beginner-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="zh_beginner-pos-PRON.html">PRON</a></tt>-<tt><a href="zh_beginner-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="zh_beginner-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_beginner-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `mark`: <tt><a href="zh_beginner-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_beginner-pos-PART.html">PART</a></tt> (137; 60% instances), <tt><a href="zh_beginner-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_beginner-pos-ADP.html">ADP</a></tt> (42; 18% instances), <tt><a href="zh_beginner-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_beginner-pos-SCONJ.html">SCONJ</a></tt> (33; 14% instances), <tt><a href="zh_beginner-pos-ADJ.html">ADJ</a></tt>-<tt><a href="zh_beginner-pos-SCONJ.html">SCONJ</a></tt> (10; 4% instances), <tt><a href="zh_beginner-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_beginner-pos-SCONJ.html">SCONJ</a></tt> (3; 1% instances), <tt><a href="zh_beginner-pos-AUX.html">AUX</a></tt>-<tt><a href="zh_beginner-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="zh_beginner-pos-PRON.html">PRON</a></tt>-<tt><a href="zh_beginner-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="zh_beginner-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_beginner-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

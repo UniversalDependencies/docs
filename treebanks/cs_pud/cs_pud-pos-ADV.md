@@ -6,24 +6,18 @@ udver: '2'
 
 ## Treebank Statistics: UD_Czech-PUD: POS Tags: `ADV`
 
-There are 266 `ADV` lemmas (5%), 284 `ADV` types (4%) and 833 `ADV` tokens (4%).
+There are 266 `ADV` lemmas (5%), 284 `ADV` types (4%) and 840 `ADV` tokens (5%).
 Out of 15 observed tags, the rank of `ADV` is: 5 in number of lemmas, 5 in number of types and 8 in number of tokens.
 
-The 10 most frequent `ADV` lemmas: <em>tak, také, jak, poté, už, kde, hodně, pouze, stejně, ještě</em>
+The 10 most frequent `ADV` lemmas: <em>tak, jak, také, poté, už, kde, hodně, pouze, stejně, ještě</em>
 
-The 10 most frequent `ADV` types:  <em>tak, také, jak, poté, už, kde, více, pouze, stejně, ještě</em>
+The 10 most frequent `ADV` types:  <em>tak, jak, také, poté, už, kde, více, pouze, stejně, ještě</em>
 
-The 10 most frequent ambiguous lemmas: <em>tak</em> (<tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> 38, <tt><a href="cs_pud-pos-CCONJ.html">CCONJ</a></tt> 5), <em>jak</em> (<tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> 32, <tt><a href="cs_pud-pos-CCONJ.html">CCONJ</a></tt> 2), <em>hodně</em> (<tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> 15, <tt><a href="cs_pud-pos-DET.html">DET</a></tt> 13), <em>málo</em> (<tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> 5, <tt><a href="cs_pud-pos-DET.html">DET</a></tt> 3), <em>jen</em> (<tt><a href="cs_pud-pos-PART.html">PART</a></tt> 16, <tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> 3), <em>moc</em> (<tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 6, <tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> 2), <em>proto</em> (<tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> 2, <tt><a href="cs_pud-pos-CCONJ.html">CCONJ</a></tt> 2), <em>rád</em> (<tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> 2), <em>až</em> (<tt><a href="cs_pud-pos-PART.html">PART</a></tt> 12, <tt><a href="cs_pud-pos-CCONJ.html">CCONJ</a></tt> 7, <tt><a href="cs_pud-pos-SCONJ.html">SCONJ</a></tt> 2, <tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> 1), <em>co</em> (<tt><a href="cs_pud-pos-PRON.html">PRON</a></tt> 18, <tt><a href="cs_pud-pos-SCONJ.html">SCONJ</a></tt> 17, <tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>hodně</em> (<tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> 15, <tt><a href="cs_pud-pos-DET.html">DET</a></tt> 13), <em>málo</em> (<tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> 5, <tt><a href="cs_pud-pos-DET.html">DET</a></tt> 3), <em>jen</em> (<tt><a href="cs_pud-pos-PART.html">PART</a></tt> 16, <tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> 3), <em>moc</em> (<tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 6, <tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> 2), <em>proto</em> (<tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> 2, <tt><a href="cs_pud-pos-CCONJ.html">CCONJ</a></tt> 2), <em>rád</em> (<tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> 2), <em>až</em> (<tt><a href="cs_pud-pos-PART.html">PART</a></tt> 12, <tt><a href="cs_pud-pos-CCONJ.html">CCONJ</a></tt> 7, <tt><a href="cs_pud-pos-SCONJ.html">SCONJ</a></tt> 2, <tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> 1), <em>co</em> (<tt><a href="cs_pud-pos-PRON.html">PRON</a></tt> 18, <tt><a href="cs_pud-pos-SCONJ.html">SCONJ</a></tt> 17, <tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>tak</em> (<tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> 37, <tt><a href="cs_pud-pos-CCONJ.html">CCONJ</a></tt> 5), <em>jak</em> (<tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> 27, <tt><a href="cs_pud-pos-CCONJ.html">CCONJ</a></tt> 1), <em>více</em> (<tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> 16, <tt><a href="cs_pud-pos-DET.html">DET</a></tt> 9), <em>víc</em> (<tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> 6, <tt><a href="cs_pud-pos-DET.html">DET</a></tt> 4), <em>jen</em> (<tt><a href="cs_pud-pos-PART.html">PART</a></tt> 13, <tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> 3), <em>méně</em> (<tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> 3, <tt><a href="cs_pud-pos-DET.html">DET</a></tt> 1), <em>jednou</em> (<tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> 2, <tt><a href="cs_pud-pos-NUM.html">NUM</a></tt> 1), <em>moc</em> (<tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> 2, <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 1), <em>proto</em> (<tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> 2, <tt><a href="cs_pud-pos-CCONJ.html">CCONJ</a></tt> 1), <em>až</em> (<tt><a href="cs_pud-pos-PART.html">PART</a></tt> 11, <tt><a href="cs_pud-pos-CCONJ.html">CCONJ</a></tt> 7, <tt><a href="cs_pud-pos-SCONJ.html">SCONJ</a></tt> 2, <tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>více</em> (<tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> 16, <tt><a href="cs_pud-pos-DET.html">DET</a></tt> 9), <em>víc</em> (<tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> 6, <tt><a href="cs_pud-pos-DET.html">DET</a></tt> 4), <em>jen</em> (<tt><a href="cs_pud-pos-PART.html">PART</a></tt> 13, <tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> 3), <em>méně</em> (<tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> 3, <tt><a href="cs_pud-pos-DET.html">DET</a></tt> 1), <em>jednou</em> (<tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> 2, <tt><a href="cs_pud-pos-NUM.html">NUM</a></tt> 1), <em>moc</em> (<tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> 2, <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 1), <em>proto</em> (<tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> 2, <tt><a href="cs_pud-pos-CCONJ.html">CCONJ</a></tt> 1), <em>až</em> (<tt><a href="cs_pud-pos-PART.html">PART</a></tt> 11, <tt><a href="cs_pud-pos-CCONJ.html">CCONJ</a></tt> 7, <tt><a href="cs_pud-pos-SCONJ.html">SCONJ</a></tt> 2, <tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> 1), <em>co</em> (<tt><a href="cs_pud-pos-SCONJ.html">SCONJ</a></tt> 17, <tt><a href="cs_pud-pos-PRON.html">PRON</a></tt> 14, <tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> 1), <em>málo</em> (<tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> 1, <tt><a href="cs_pud-pos-DET.html">DET</a></tt> 1)
 
 
-* <em>tak</em>
-  * <tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> 37: <em>Jeho styl má jak ostré hrany , <b>tak</b> jemnou ruku .</em>
-  * <tt><a href="cs_pud-pos-CCONJ.html">CCONJ</a></tt> 5: <em>RHS shromáždilo připomínky z řad účastníků pokusů , jak žáků , <b>tak</b> i učitelů .</em>
-* <em>jak</em>
-  * <tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> 27: <em>Jeho styl má <b>jak</b> ostré hrany , tak jemnou ruku .</em>
-  * <tt><a href="cs_pud-pos-CCONJ.html">CCONJ</a></tt> 1: <em>Významný vliv na snížení pravděpodobnosti občanské války měl <b>jak</b> vyšší podíl mužů studujících vyšší střední školy , tak příjem na hlavu a hodnota ekonomického růstu .</em>
 * <em>více</em>
   * <tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> 16: <em>Na lodi je <b>více</b> než 330 členů posádky .</em>
   * <tt><a href="cs_pud-pos-DET.html">DET</a></tt> 9: <em>Nové směrnice pro železo znamenají , že je třeba <b>více</b> dárců .</em>
@@ -50,10 +44,17 @@ The 10 most frequent ambiguous types:  <em>tak</em> (<tt><a href="cs_pud-pos-ADV
   * <tt><a href="cs_pud-pos-CCONJ.html">CCONJ</a></tt> 7: <em>Mezi lety 1991 <b>až</b> 1997 vedla školu pro děti s poruchami učení .</em>
   * <tt><a href="cs_pud-pos-SCONJ.html">SCONJ</a></tt> 2: <em>Současně s růstem města Brisbane se kvalita vody v řece zhoršovala , <b>až</b> se z ní v nejhorších obdobích stala doslova otevřená stoka a smetiště .</em>
   * <tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> 1: <em>Wilks byl znovu zvolen a dvakrát vypovězen , <b>až</b> sněmovna rozhodla , že je Wilksova kandidatura neplatná , a jako vítěze uznala kandidáta , který byl v pořadí za ním .</em>
+* <em>co</em>
+  * <tt><a href="cs_pud-pos-SCONJ.html">SCONJ</a></tt> 17: <em>V říjnu 2015 , měsíc poté , <b>co</b> skandál vyšel najevo , byl povýšen na předsedu .</em>
+  * <tt><a href="cs_pud-pos-PRON.html">PRON</a></tt> 14: <em>Co říká a <b>co</b> dělá , to je – no , je to neuvěřitelné .</em>
+  * <tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> 1: <em>To má <b>co</b> do činění s jednou z mála budov v centru města , které byly ušetřeny před zničením na konci druhé světové války .</em>
+* <em>málo</em>
+  * <tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> 1: <em>Po sedmnácti dnech bylo naživu přes 70 % rostlin ze semínek ze Země , tedy jen o <b>málo</b> více , než úspěšnost těsně přes 66 % u rostlin z vesmírných semínek .</em>
+  * <tt><a href="cs_pud-pos-DET.html">DET</a></tt> 1: <em>V Pchjongjangu jsem sice viděl pár lidí používat chytré telefony , ale bylo jich opravdu <b>málo</b> .</em>
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.067669 (the average of all parts of speech is 1.426064).
+The form / lemma ratio of `ADV` is 1.067669 (the average of all parts of speech is 1.426223).
 
 The 1st highest number of forms (4) was observed with the lemma “hodně”: <em>hodně, nejvíce, víc, více</em>.
 
@@ -61,22 +62,22 @@ The 2nd highest number of forms (3) was observed with the lemma “daleko”: <e
 
 The 3rd highest number of forms (3) was observed with the lemma “dobře”: <em>dobře, lépe, nejlépe</em>.
 
-`ADV` occurs with 7 features: <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt> (283; 34% instances), <tt><a href="cs_pud-feat-Degree.html">Degree</a></tt> (275; 33% instances), <tt><a href="cs_pud-feat-PronType.html">PronType</a></tt> (155; 19% instances), <tt><a href="cs_pud-feat-ExtPos.html">ExtPos</a></tt> (16; 2% instances), <tt><a href="cs_pud-feat-NumType.html">NumType</a></tt> (16; 2% instances), <tt><a href="cs_pud-feat-Abbr.html">Abbr</a></tt> (1; 0% instances), <tt><a href="cs_pud-feat-Foreign.html">Foreign</a></tt> (1; 0% instances)
+`ADV` occurs with 7 features: <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt> (283; 34% instances), <tt><a href="cs_pud-feat-Degree.html">Degree</a></tt> (275; 33% instances), <tt><a href="cs_pud-feat-PronType.html">PronType</a></tt> (163; 19% instances), <tt><a href="cs_pud-feat-ExtPos.html">ExtPos</a></tt> (16; 2% instances), <tt><a href="cs_pud-feat-NumType.html">NumType</a></tt> (16; 2% instances), <tt><a href="cs_pud-feat-Abbr.html">Abbr</a></tt> (1; 0% instances), <tt><a href="cs_pud-feat-Foreign.html">Foreign</a></tt> (1; 0% instances)
 
 `ADV` occurs with 17 feature-value pairs: `Abbr=Yes`, `Degree=Cmp`, `Degree=Pos`, `Degree=Sup`, `ExtPos=ADP`, `ExtPos=ADV`, `Foreign=Yes`, `NumType=Mult`, `NumType=Ord`, `Polarity=Neg`, `Polarity=Pos`, `PronType=Dem`, `PronType=Ind`, `PronType=Int,Rel`, `PronType=Neg`, `PronType=Rel`, `PronType=Tot`
 
 `ADV` occurs with 20 feature combinations.
-The most frequent feature combination is `_` (384 tokens).
+The most frequent feature combination is `_` (383 tokens).
 Examples: <em>také, poté, už, pouze, ještě, velmi, zcela, nakonec, například, pak</em>
 
 
 ## Relations
 
-`ADV` nodes are attached to their parents using 17 different relations: <tt><a href="cs_pud-dep-advmod.html">advmod</a></tt> (648; 78% instances), <tt><a href="cs_pud-dep-advmod-emph.html">advmod:emph</a></tt> (97; 12% instances), <tt><a href="cs_pud-dep-cc.html">cc</a></tt> (26; 3% instances), <tt><a href="cs_pud-dep-root.html">root</a></tt> (11; 1% instances), <tt><a href="cs_pud-dep-conj.html">conj</a></tt> (10; 1% instances), <tt><a href="cs_pud-dep-case.html">case</a></tt> (7; 1% instances), <tt><a href="cs_pud-dep-ccomp.html">ccomp</a></tt> (7; 1% instances), <tt><a href="cs_pud-dep-appos.html">appos</a></tt> (5; 1% instances), <tt><a href="cs_pud-dep-advcl.html">advcl</a></tt> (4; 0% instances), <tt><a href="cs_pud-dep-compound.html">compound</a></tt> (4; 0% instances), <tt><a href="cs_pud-dep-orphan.html">orphan</a></tt> (4; 0% instances), <tt><a href="cs_pud-dep-mark.html">mark</a></tt> (3; 0% instances), <tt><a href="cs_pud-dep-acl.html">acl</a></tt> (2; 0% instances), <tt><a href="cs_pud-dep-discourse.html">discourse</a></tt> (2; 0% instances), <tt><a href="cs_pud-dep-nmod.html">nmod</a></tt> (1; 0% instances), <tt><a href="cs_pud-dep-obj.html">obj</a></tt> (1; 0% instances), <tt><a href="cs_pud-dep-obl.html">obl</a></tt> (1; 0% instances)
+`ADV` nodes are attached to their parents using 17 different relations: <tt><a href="cs_pud-dep-advmod.html">advmod</a></tt> (648; 77% instances), <tt><a href="cs_pud-dep-advmod-emph.html">advmod:emph</a></tt> (97; 12% instances), <tt><a href="cs_pud-dep-cc.html">cc</a></tt> (33; 4% instances), <tt><a href="cs_pud-dep-root.html">root</a></tt> (11; 1% instances), <tt><a href="cs_pud-dep-conj.html">conj</a></tt> (10; 1% instances), <tt><a href="cs_pud-dep-case.html">case</a></tt> (7; 1% instances), <tt><a href="cs_pud-dep-ccomp.html">ccomp</a></tt> (7; 1% instances), <tt><a href="cs_pud-dep-appos.html">appos</a></tt> (5; 1% instances), <tt><a href="cs_pud-dep-advcl.html">advcl</a></tt> (4; 0% instances), <tt><a href="cs_pud-dep-compound.html">compound</a></tt> (4; 0% instances), <tt><a href="cs_pud-dep-orphan.html">orphan</a></tt> (4; 0% instances), <tt><a href="cs_pud-dep-mark.html">mark</a></tt> (3; 0% instances), <tt><a href="cs_pud-dep-acl.html">acl</a></tt> (2; 0% instances), <tt><a href="cs_pud-dep-discourse.html">discourse</a></tt> (2; 0% instances), <tt><a href="cs_pud-dep-nmod.html">nmod</a></tt> (1; 0% instances), <tt><a href="cs_pud-dep-obj.html">obj</a></tt> (1; 0% instances), <tt><a href="cs_pud-dep-obl.html">obl</a></tt> (1; 0% instances)
 
-Parents of `ADV` nodes belong to 12 different parts of speech: <tt><a href="cs_pud-pos-VERB.html">VERB</a></tt> (419; 50% instances), <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> (183; 22% instances), <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> (131; 16% instances), <tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> (38; 5% instances), <tt><a href="cs_pud-pos-PROPN.html">PROPN</a></tt> (20; 2% instances), <tt><a href="cs_pud-pos-DET.html">DET</a></tt> (12; 1% instances),  (11; 1% instances), <tt><a href="cs_pud-pos-NUM.html">NUM</a></tt> (10; 1% instances), <tt><a href="cs_pud-pos-SYM.html">SYM</a></tt> (5; 1% instances), <tt><a href="cs_pud-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="cs_pud-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="cs_pud-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
+Parents of `ADV` nodes belong to 12 different parts of speech: <tt><a href="cs_pud-pos-VERB.html">VERB</a></tt> (421; 50% instances), <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> (183; 22% instances), <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> (136; 16% instances), <tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> (38; 5% instances), <tt><a href="cs_pud-pos-PROPN.html">PROPN</a></tt> (20; 2% instances), <tt><a href="cs_pud-pos-DET.html">DET</a></tt> (12; 1% instances),  (11; 1% instances), <tt><a href="cs_pud-pos-NUM.html">NUM</a></tt> (10; 1% instances), <tt><a href="cs_pud-pos-SYM.html">SYM</a></tt> (5; 1% instances), <tt><a href="cs_pud-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="cs_pud-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="cs_pud-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
 
-686 (82%) `ADV` nodes are leaves.
+693 (83%) `ADV` nodes are leaves.
 
 101 (12%) `ADV` nodes have one child.
 

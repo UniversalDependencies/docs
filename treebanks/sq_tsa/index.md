@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.6 release.
 The following people have contributed to making this treebank part of UD: Marsida Toska.
 
 Repository: [UD_Albanian-TSA](https://github.com/UniversalDependencies/UD_Albanian-TSA)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsq_tsa218)<br />
-Download all treebanks: [UD 2.18](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsq_tsa219)<br />
+Download all treebanks: [UD 2.19](/#download)
 
 License: CC BY-SA 4.0
 
@@ -58,7 +58,7 @@ This treebank was created by Marsida Toska at Uppsala University under the super
 
 ## Features
 
-[Aspect](sq_tsa-feat-Aspect.html) – [Case](sq_tsa-feat-Case.html) – [Definite](sq_tsa-feat-Definite.html) – [Gender](sq_tsa-feat-Gender.html) – [Mood](sq_tsa-feat-Mood.html) – [NounType](sq_tsa-feat-NounType.html) – [Number](sq_tsa-feat-Number.html) – [Person](sq_tsa-feat-Person.html) – [Polarity](sq_tsa-feat-Polarity.html) – [Poss](sq_tsa-feat-Poss.html) – [PronType](sq_tsa-feat-PronType.html) – [Tense](sq_tsa-feat-Tense.html) – [VerbForm](sq_tsa-feat-VerbForm.html) – [Voice](sq_tsa-feat-Voice.html)
+[Aspect](sq_tsa-feat-Aspect.html) – [Case](sq_tsa-feat-Case.html) – [Definite](sq_tsa-feat-Definite.html) – [ExtPos](sq_tsa-feat-ExtPos.html) – [Gender](sq_tsa-feat-Gender.html) – [Mood](sq_tsa-feat-Mood.html) – [NounType](sq_tsa-feat-NounType.html) – [Number](sq_tsa-feat-Number.html) – [Person](sq_tsa-feat-Person.html) – [Polarity](sq_tsa-feat-Polarity.html) – [Poss](sq_tsa-feat-Poss.html) – [PronType](sq_tsa-feat-PronType.html) – [Tense](sq_tsa-feat-Tense.html) – [VerbForm](sq_tsa-feat-VerbForm.html) – [Voice](sq_tsa-feat-Voice.html)
 
 ## Relations
 
@@ -527,6 +527,18 @@ This treebank was created by Marsida Toska at Uppsala University under the super
 
 <h3>Other Features</h3>
 
+
+<ul>
+  <li><a>ExtPos</a>
+    <ul>
+      <li>ADV
+        <ul>
+          <li>ADP: për</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
 
 <ul>
   <li><a>NounType</a>

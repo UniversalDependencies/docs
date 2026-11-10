@@ -73,7 +73,7 @@ Examples: <em>vê, wê, _</em>
 
 ## Relations
 
-`DET` nodes are attached to their parents using 5 different relations: <tt><a href="kmr_kurmanji-dep-det.html">det</a></tt> (212; 95% instances), <tt><a href="kmr_kurmanji-dep-advmod.html">advmod</a></tt> (5; 2% instances), <tt><a href="kmr_kurmanji-dep-nsubj.html">nsubj</a></tt> (4; 2% instances), <tt><a href="kmr_kurmanji-dep-fixed.html">fixed</a></tt> (1; 0% instances), <tt><a href="kmr_kurmanji-dep-obl.html">obl</a></tt> (1; 0% instances)
+`DET` nodes are attached to their parents using 5 different relations: <tt><a href="kmr_kurmanji-dep-det.html">det</a></tt> (212; 95% instances), <tt><a href="kmr_kurmanji-dep-advmod.html">advmod</a></tt> (5; 2% instances), <tt><a href="kmr_kurmanji-dep-nsubj.html">nsubj</a></tt> (4; 2% instances), <tt><a href="kmr_kurmanji-dep-fixed.html">fixed</a></tt> (1; 0% instances), <tt><a href="kmr_kurmanji-dep-nmod.html">nmod</a></tt> (1; 0% instances)
 
 Parents of `DET` nodes belong to 6 different parts of speech: <tt><a href="kmr_kurmanji-pos-NOUN.html">NOUN</a></tt> (202; 91% instances), <tt><a href="kmr_kurmanji-pos-NUM.html">NUM</a></tt> (10; 4% instances), <tt><a href="kmr_kurmanji-pos-VERB.html">VERB</a></tt> (6; 3% instances), <tt><a href="kmr_kurmanji-pos-ADJ.html">ADJ</a></tt> (3; 1% instances), <tt><a href="kmr_kurmanji-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="kmr_kurmanji-pos-DET.html">DET</a></tt> (1; 0% instances)
 

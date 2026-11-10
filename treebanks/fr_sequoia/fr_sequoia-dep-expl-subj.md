@@ -27,7 +27,7 @@ The following 5 pairs of parts of speech are connected with `expl:subj`: <tt><a 
 2	Angiox	Angiox	PROPN	_	_	5	nsubj:pass	_	_
 3	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux:pass	_	SpaceAfter=No
 4	-il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	expl:subj	_	_
-5	utilisé	utiliser	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	0	root	_	Tense[denom]=Past
+5	utilisé	utiliser	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	Status[Tense]=Denom
 6	?	?	PUNCT	_	_	5	punct	_	_
 
 ~~~
@@ -66,7 +66,7 @@ The following 5 pairs of parts of speech are connected with `expl:subj`: <tt><a 
 1	Il	lui	PRON	_	Case=Nom|Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	expl:subj	_	_
 2	était	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	cop	_	_
 3	alors	alors	ADV	_	_	5	advmod	_	_
-4	20	20	NUM	_	NumType=Card	5	nummod	_	SpaceAfter=No
+4	20	20	NUM	_	ExtPos=PROPN|NumType=Card	5	nmod	_	SpaceAfter=No
 5	h	h	NOUN	_	Gender=Fem|Number=Sing	0	root	_	Exponence[Gender]=Inherent|SpaceAfter=No
 6	.	.	PUNCT	_	_	5	punct	_	_
 

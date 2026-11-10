@@ -11,9 +11,9 @@ This relation is universal.
 18723 nodes (12%) are attached to their parents as `root`.
 
 18723 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.45890081717673.
+Average distance between parent and child is 3.44122202638466.
 
-The following 12 pairs of parts of speech are connected with `root`: -<tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> (14173; 76% instances), -<tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> (2406; 13% instances), -<tt><a href="fi_ftb-pos-ADJ.html">ADJ</a></tt> (1517; 8% instances), -<tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> (217; 1% instances), -<tt><a href="fi_ftb-pos-PROPN.html">PROPN</a></tt> (161; 1% instances), -<tt><a href="fi_ftb-pos-ADV.html">ADV</a></tt> (102; 1% instances), -<tt><a href="fi_ftb-pos-INTJ.html">INTJ</a></tt> (38; 0% instances), -<tt><a href="fi_ftb-pos-NUM.html">NUM</a></tt> (37; 0% instances), -<tt><a href="fi_ftb-pos-X.html">X</a></tt> (33; 0% instances), -<tt><a href="fi_ftb-pos-PART.html">PART</a></tt> (31; 0% instances), -<tt><a href="fi_ftb-pos-SCONJ.html">SCONJ</a></tt> (7; 0% instances), -<tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 12 pairs of parts of speech are connected with `root`: -<tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> (13888; 74% instances), -<tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> (2454; 13% instances), -<tt><a href="fi_ftb-pos-ADJ.html">ADJ</a></tt> (1512; 8% instances), -<tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> (432; 2% instances), -<tt><a href="fi_ftb-pos-PROPN.html">PROPN</a></tt> (187; 1% instances), -<tt><a href="fi_ftb-pos-ADV.html">ADV</a></tt> (102; 1% instances), -<tt><a href="fi_ftb-pos-INTJ.html">INTJ</a></tt> (38; 0% instances), -<tt><a href="fi_ftb-pos-NUM.html">NUM</a></tt> (38; 0% instances), -<tt><a href="fi_ftb-pos-X.html">X</a></tt> (33; 0% instances), -<tt><a href="fi_ftb-pos-PART.html">PART</a></tt> (31; 0% instances), -<tt><a href="fi_ftb-pos-SCONJ.html">SCONJ</a></tt> (7; 0% instances), -<tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -31,7 +31,7 @@ The following 12 pairs of parts of speech are connected with `root`: -<tt><a hre
 7	ikinä	ikinä	ADV	Adv	_	9	advmod	_	_
 8	olis	olla	AUX	V,Act,Cond,Sg3	Mood=Cnd|Number=Sing|Person=3|Style=Coll|VerbForm=Fin|Voice=Act	9	cop	_	_
 9	vakinaisia	vakinainen	ADJ	A,Pl,Par	Case=Par|Number=Plur	3	ccomp	_	_
-10	.	.	PUNCT	Pun	_	9	punct	_	_
+10	.	.	PUNCT	Pun	_	3	punct	_	_
 
 ~~~
 

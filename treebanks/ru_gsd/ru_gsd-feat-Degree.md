@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Cmp`, `Pos`, `Sup`.
 
-14224 tokens (15%) have a non-empty value of `Degree`.
-7632 types (25%) occur at least once with a non-empty value of `Degree`.
-4271 lemmas (23%) occur at least once with a non-empty value of `Degree`.
-The feature is used with 2 part-of-speech tags: <tt><a href="ru_gsd-pos-ADJ.html">ADJ</a></tt> (12211; 12% instances), <tt><a href="ru_gsd-pos-ADV.html">ADV</a></tt> (2013; 2% instances).
+14223 tokens (15%) have a non-empty value of `Degree`.
+7631 types (25%) occur at least once with a non-empty value of `Degree`.
+4270 lemmas (23%) occur at least once with a non-empty value of `Degree`.
+The feature is used with 2 part-of-speech tags: <tt><a href="ru_gsd-pos-ADJ.html">ADJ</a></tt> (12211; 12% instances), <tt><a href="ru_gsd-pos-ADV.html">ADV</a></tt> (2012; 2% instances).
 
 ### `ADJ`
 
@@ -22,9 +22,9 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 
 `ADJ` tokens may have the following values of `Degree`:
 
-* `Cmp` (36; 0% of non-empty `Degree`): <em>старше, выше, лучше, мельче, меньше, ниже, умнее, Труднее, агрессивнее, быстрее</em>
-* `Pos` (12158; 100% of non-empty `Degree`): <em>второй, 2008, 2010, других, 2004, первый, 2012, 1, 2006, 2011</em>
-* `Sup` (17; 0% of non-empty `Degree`): <em>лучшую, крупнейший, лучшее, Высший, ближайшую, высшую, лучшему, лучшие, лучший, наибольшее</em>
+* `Cmp` (43; 0% of non-empty `Degree`): <em>старше, выше, большее, лучше, мельче, меньше, ниже, умнее, Труднее, агрессивнее</em>
+* `Pos` (12098; 99% of non-empty `Degree`): <em>второй, 2008, 2010, других, 2004, первый, 2012, 1, 2006, 2011</em>
+* `Sup` (70; 1% of non-empty `Degree`): <em>крупнейший, крупнейших, дальнейшего, дальнейшей, ближайшими, лучшую, Ближайшие, Дальнейшая, ближайшая, дальнейшее</em>
 * `EMPTY` (62): <em>1-й, 1990-х, 1930-х, 1980-е, 28-го, 3-й, X, активных, 1-м, 10-очковым</em>
 
 <table>
@@ -50,12 +50,12 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 
 ### `ADV`
 
-2013 <tt><a href="ru_gsd-pos-ADV.html">ADV</a></tt> tokens (89% of all `ADV` tokens) have a non-empty value of `Degree`.
+2012 <tt><a href="ru_gsd-pos-ADV.html">ADV</a></tt> tokens (89% of all `ADV` tokens) have a non-empty value of `Degree`.
 
 `ADV` tokens may have the following values of `Degree`:
 
-* `Cmp` (254; 13% of non-empty `Degree`): <em>более, менее, позже, больше, позднее, ранее, далее, чаще, раньше, выше</em>
-* `Pos` (1731; 86% of non-empty `Degree`): <em>так, уже, ещё, вместе, затем, впервые, здесь, очень, иногда, например</em>
+* `Cmp` (257; 13% of non-empty `Degree`): <em>более, менее, позже, ранее, больше, далее, позднее, чаще, раньше, выше</em>
+* `Pos` (1727; 86% of non-empty `Degree`): <em>так, уже, ещё, вместе, затем, впервые, здесь, очень, иногда, например</em>
 * `Sup` (28; 1% of non-empty `Degree`): <em>наиболее</em>
 * `EMPTY` (252): <em>где, как, когда, куда, д, откуда, эйәһе, 人, Кэртэ, М</em>
 
@@ -69,8 +69,8 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 ## Relations with Agreement in `Degree`
 
 The 10 most frequent relations where parent and child node agree in `Degree`:
-<tt>ADJ --[<tt><a href="ru_gsd-dep-conj.html">conj</a></tt>]--> ADJ</tt> (423; 99%),
-<tt>ADJ --[<tt><a href="ru_gsd-dep-advmod.html">advmod</a></tt>]--> ADV</tt> (191; 69%),
+<tt>ADJ --[<tt><a href="ru_gsd-dep-conj.html">conj</a></tt>]--> ADJ</tt> (421; 99%),
+<tt>ADJ --[<tt><a href="ru_gsd-dep-advmod.html">advmod</a></tt>]--> ADV</tt> (188; 68%),
 <tt>ADJ --[<tt><a href="ru_gsd-dep-nmod.html">nmod</a></tt>]--> ADJ</tt> (124; 98%),
 <tt>ADJ --[<tt><a href="ru_gsd-dep-amod.html">amod</a></tt>]--> ADJ</tt> (68; 100%),
 <tt>ADV --[<tt><a href="ru_gsd-dep-advmod.html">advmod</a></tt>]--> ADV</tt> (43; 63%),

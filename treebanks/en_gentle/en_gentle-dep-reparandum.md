@@ -24,15 +24,15 @@ The following 15 pairs of parts of speech are connected with `reparandum`: <tt><
 # visual-style 6 1 reparandum	color:blue
 1	How	how	ADV	WRB	PronType=Int	6	reparandum	6:reparandum	Discourse=restatement-repetition_m:83->82:0:_
 2	...	…	PUNCT	:	_	1	punct	1:punct	_
-3	what	what	PRON	WP	PronType=Int	5	reparandum	5:reparandum	Discourse=joint-sequence_m:84->61:0:_
+3	what	what	PRON	WP	Case=Acc|PronType=Int	5	reparandum	5:reparandum	Discourse=joint-sequence_m:84->61:0:_
 4	sorry	sorry	ADJ	JJ	Degree=Pos	5	discourse	5:discourse	MSeg=sorr-y
-5	what	what	PRON	WP	PronType=Int	6	reparandum	6:reparandum	_
+5	what	what	PRON	WP	Case=Acc|PronType=Int	6	reparandum	6:reparandum	_
 6	how	how	ADV	WRB	PronType=Int	7	advmod	7:advmod	CxnElt=7:Interrogative-WHInfo-Direct.WHWord
 7	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Cxn=Existential-CopPred-ThereExpl,Interrogative-WHInfo-Direct|CxnElt=7:Interrogative-WHInfo-Direct.Clause
 8	there	there	PRON	EX	PronType=Dem	7	expl	7:expl	_
 9	a	a	DET	DT	Definite=Ind|PronType=Art	10	det	10:det	Entity=(81-event-new-nnsnn-cf1-2-coref
 10	penalty	penalty	NOUN	NN	Number=Sing	7	nsubj	7:nsubj	CxnElt=7:Existential-CopPred-ThereExpl.Pivot|Entity=81)|MSeg=penal-ty
-11	what	what	PRON	WP	PronType=Int	13	nsubj	13:nsubj	Discourse=restatement-partial:85->84:0:_
+11	what	what	PRON	WP	Case=Nom|PronType=Int	13	nsubj	13:nsubj	Discourse=restatement-partial:85->84:0:_
 12	just	just	ADV	RB	_	13	advmod	13:advmod	_
 13	happened	happen	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	parataxis	7:parataxis	MSeg=happen-ed|SpaceAfter=No
 14	?	?	PUNCT	.	_	7	punct	7:punct	_
@@ -82,15 +82,15 @@ The following 15 pairs of parts of speech are connected with `reparandum`: <tt><
 # visual-style 5 3 reparandum	color:blue
 1	How	how	ADV	WRB	PronType=Int	6	reparandum	6:reparandum	Discourse=restatement-repetition_m:83->82:0:_
 2	...	…	PUNCT	:	_	1	punct	1:punct	_
-3	what	what	PRON	WP	PronType=Int	5	reparandum	5:reparandum	Discourse=joint-sequence_m:84->61:0:_
+3	what	what	PRON	WP	Case=Acc|PronType=Int	5	reparandum	5:reparandum	Discourse=joint-sequence_m:84->61:0:_
 4	sorry	sorry	ADJ	JJ	Degree=Pos	5	discourse	5:discourse	MSeg=sorr-y
-5	what	what	PRON	WP	PronType=Int	6	reparandum	6:reparandum	_
+5	what	what	PRON	WP	Case=Acc|PronType=Int	6	reparandum	6:reparandum	_
 6	how	how	ADV	WRB	PronType=Int	7	advmod	7:advmod	CxnElt=7:Interrogative-WHInfo-Direct.WHWord
 7	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Cxn=Existential-CopPred-ThereExpl,Interrogative-WHInfo-Direct|CxnElt=7:Interrogative-WHInfo-Direct.Clause
 8	there	there	PRON	EX	PronType=Dem	7	expl	7:expl	_
 9	a	a	DET	DT	Definite=Ind|PronType=Art	10	det	10:det	Entity=(81-event-new-nnsnn-cf1-2-coref
 10	penalty	penalty	NOUN	NN	Number=Sing	7	nsubj	7:nsubj	CxnElt=7:Existential-CopPred-ThereExpl.Pivot|Entity=81)|MSeg=penal-ty
-11	what	what	PRON	WP	PronType=Int	13	nsubj	13:nsubj	Discourse=restatement-partial:85->84:0:_
+11	what	what	PRON	WP	Case=Nom|PronType=Int	13	nsubj	13:nsubj	Discourse=restatement-partial:85->84:0:_
 12	just	just	ADV	RB	_	13	advmod	13:advmod	_
 13	happened	happen	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	parataxis	7:parataxis	MSeg=happen-ed|SpaceAfter=No
 14	?	?	PUNCT	.	_	7	punct	7:punct	_

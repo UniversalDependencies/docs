@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-7796 nodes (2%) are attached to their parents as `det`.
+7800 nodes (2%) are attached to their parents as `det`.
 
-7793 instances of `det` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.21395587480759.
+7797 instances of `det` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.21423076923077.
 
-The following 10 pairs of parts of speech are connected with `det`: <tt><a href="hi_hdtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hi_hdtb-pos-DET.html">DET</a></tt> (6709; 86% instances), <tt><a href="hi_hdtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hi_hdtb-pos-PRON.html">PRON</a></tt> (655; 8% instances), <tt><a href="hi_hdtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hi_hdtb-pos-DET.html">DET</a></tt> (172; 2% instances), <tt><a href="hi_hdtb-pos-ADV.html">ADV</a></tt>-<tt><a href="hi_hdtb-pos-DET.html">DET</a></tt> (142; 2% instances), <tt><a href="hi_hdtb-pos-PRON.html">PRON</a></tt>-<tt><a href="hi_hdtb-pos-DET.html">DET</a></tt> (49; 1% instances), <tt><a href="hi_hdtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hi_hdtb-pos-DET.html">DET</a></tt> (41; 1% instances), <tt><a href="hi_hdtb-pos-DET.html">DET</a></tt>-<tt><a href="hi_hdtb-pos-DET.html">DET</a></tt> (16; 0% instances), <tt><a href="hi_hdtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hi_hdtb-pos-PRON.html">PRON</a></tt> (5; 0% instances), <tt><a href="hi_hdtb-pos-PRON.html">PRON</a></tt>-<tt><a href="hi_hdtb-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="hi_hdtb-pos-NUM.html">NUM</a></tt>-<tt><a href="hi_hdtb-pos-DET.html">DET</a></tt> (3; 0% instances).
+The following 10 pairs of parts of speech are connected with `det`: <tt><a href="hi_hdtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hi_hdtb-pos-DET.html">DET</a></tt> (6702; 86% instances), <tt><a href="hi_hdtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hi_hdtb-pos-PRON.html">PRON</a></tt> (668; 9% instances), <tt><a href="hi_hdtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hi_hdtb-pos-DET.html">DET</a></tt> (170; 2% instances), <tt><a href="hi_hdtb-pos-ADV.html">ADV</a></tt>-<tt><a href="hi_hdtb-pos-DET.html">DET</a></tt> (142; 2% instances), <tt><a href="hi_hdtb-pos-PRON.html">PRON</a></tt>-<tt><a href="hi_hdtb-pos-DET.html">DET</a></tt> (49; 1% instances), <tt><a href="hi_hdtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hi_hdtb-pos-DET.html">DET</a></tt> (41; 1% instances), <tt><a href="hi_hdtb-pos-DET.html">DET</a></tt>-<tt><a href="hi_hdtb-pos-DET.html">DET</a></tt> (16; 0% instances), <tt><a href="hi_hdtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hi_hdtb-pos-PRON.html">PRON</a></tt> (5; 0% instances), <tt><a href="hi_hdtb-pos-PRON.html">PRON</a></tt>-<tt><a href="hi_hdtb-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="hi_hdtb-pos-NUM.html">NUM</a></tt>-<tt><a href="hi_hdtb-pos-DET.html">DET</a></tt> (3; 0% instances).
 
 
 ~~~ conllu
@@ -70,7 +70,7 @@ The following 10 pairs of parts of speech are connected with `det`: <tt><a href=
 # visual-style 4 3 det	color:blue
 1	यह	यह	DET	DEM	Case=Nom|Number=Sing|Person=3|PronType=Dem	2	det	_	ChunkId=NP|ChunkType=child|LTranslit=yaha|Translit=yaha
 2	संबंध	संबंध	NOUN	NN	Case=Nom|Gender=Masc|Number=Plur|Person=3	5	nsubj	_	ChunkId=NP|ChunkType=head|LTranslit=saṁbaṁdha|Tam=0|Translit=saṁbaṁdha|Vib=0
-3	इतने	इतना	DET	QF	Gender=Masc|Number=Plur	4	det	_	ChunkId=JJP|ChunkType=child|LTranslit=itanā|Translit=itane
+3	इतने	इतना	DET	QF	Gender=Masc|Number=Plur|PronType=Dem	4	det	_	ChunkId=JJP|ChunkType=child|LTranslit=itanā|Translit=itane
 4	बेहतर	बेहतर	ADJ	JJ	_	5	amod	_	ChunkId=JJP|ChunkType=head|LTranslit=behatara|Translit=behatara
 5	कभी	कभी	PRON	PRP	PronType=Prs	0	root	_	ChunkId=NP2|ChunkType=head|LTranslit=kabhī|Translit=kabhī
 6	नहीं	नहीं	PART	NEG	Polarity=Neg|PronType=Neg	5	advmod	_	ChunkId=VGF|ChunkType=child|LTranslit=nahīṁ|Translit=nahīṁ

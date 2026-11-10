@@ -18,7 +18,7 @@ The feature is used with 3 part-of-speech tags: <tt><a href="ru_gsd-pos-VERB.htm
 
 8443 <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt> tokens (99% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="ru_gsd-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (7499; 89%), <tt><a href="ru_gsd-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (6403; 76%), <tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (6401; 76%), <tt><a href="ru_gsd-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (6322; 75%), <tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5402; 64%), <tt><a href="ru_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (5257; 62%), <tt><a href="ru_gsd-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (5218; 62%), <tt><a href="ru_gsd-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (4918; 58%), <tt><a href="ru_gsd-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (4586; 54%), <tt><a href="ru_gsd-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (4357; 52%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="ru_gsd-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (7499; 89%), <tt><a href="ru_gsd-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (6403; 76%), <tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (6401; 76%), <tt><a href="ru_gsd-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (6322; 75%), <tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5402; 64%), <tt><a href="ru_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (5257; 62%), <tt><a href="ru_gsd-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (5218; 62%), <tt><a href="ru_gsd-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (4918; 58%), <tt><a href="ru_gsd-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (4586; 54%), <tt><a href="ru_gsd-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (4358; 52%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
@@ -26,7 +26,7 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 * `Fin` (5278; 63% of non-empty `VerbForm`): <em>является, стал, составляет, может, находится, входит, получил, родился, имеет, начал</em>
 * `Inf` (828; 10% of non-empty `VerbForm`): <em>быть, заниматься, играть, сделать, использовать, работать, стать, найти, считать, принимать</em>
 * `Part` (2042; 24% of non-empty `VerbForm`): <em>назначен, расположен, основана, основан, награждён, расположена, принято, создана, расположено, назван</em>
-* `EMPTY` (51): <em>можно, надо, жаль</em>
+* `EMPTY` (52): <em>можно, надо, вправе, жаль</em>
 
 <table>
   <tr><th>Paradigm <i>стать</i></th><th><tt>Fin</tt></th><th><tt>Inf</tt></th><th><tt>Part</tt></th><th><tt>Conv</tt></th></tr>

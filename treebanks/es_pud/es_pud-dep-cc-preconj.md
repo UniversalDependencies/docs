@@ -25,7 +25,7 @@ The following 5 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 1	Tanto	tanto	ADV	RB	PronType=Dem	3	cc:preconj	_	_
 2	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
 3	investigación	investigación	NOUN	NN	Gender=Fem|Number=Sing	10	nsubj	_	_
-4	como	como	ADP	IN	_	6	cc	_	_
+4	como	como	SCONJ	IN	_	6	cc	_	_
 5	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
 6	expediciones	expedición	NOUN	NN	Gender=Fem|Number=Plur	3	conj	_	_
 7	a	a	ADP	IN	_	9	case	_	_
@@ -52,7 +52,7 @@ The following 5 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 7	tanto	tanto	ADV	RB	PronType=Dem	9	cc:preconj	_	_
 8	de	de	ADP	IN	_	9	case	_	_
 9	Morricone	Morricone	PROPN	NNP	Gender=Masc|Number=Sing	5	nmod	_	_
-10	como	como	ADP	IN	_	11	cc	_	_
+10	como	como	SCONJ	IN	_	11	cc	_	_
 11	Metti	Metti	PROPN	NNP	Gender=Masc|Number=Sing	9	conj	_	SpaceAfter=No
 12	,	,	PUNCT	,	PunctType=Comm	13	punct	_	_
 13	juntos	junto	ADJ	JJ	Gender=Masc|Number=Plur	9	amod	_	_

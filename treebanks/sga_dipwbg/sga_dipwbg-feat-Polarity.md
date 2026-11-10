@@ -9,7 +9,7 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Neg`, `Pos`.
 
-46 tokens (11%) have a non-empty value of `Polarity`.
+46 tokens (10%) have a non-empty value of `Polarity`.
 21 types (9%) occur at least once with a non-empty value of `Polarity`.
 6 lemmas (4%) occur at least once with a non-empty value of `Polarity`.
 The feature is used with 5 part-of-speech tags: <tt><a href="sga_dipwbg-pos-AUX.html">AUX</a></tt> (32; 7% instances), <tt><a href="sga_dipwbg-pos-PART.html">PART</a></tt> (7; 2% instances), <tt><a href="sga_dipwbg-pos-SCONJ.html">SCONJ</a></tt> (5; 1% instances), <tt><a href="sga_dipwbg-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="sga_dipwbg-pos-PRON.html">PRON</a></tt> (1; 0% instances).
@@ -42,14 +42,14 @@ The most frequent other feature values with which `AUX` and `Polarity` co-occurr
 
 ### `PART`
 
-7 <tt><a href="sga_dipwbg-pos-PART.html">PART</a></tt> tokens (15% of all `PART` tokens) have a non-empty value of `Polarity`.
+7 <tt><a href="sga_dipwbg-pos-PART.html">PART</a></tt> tokens (14% of all `PART` tokens) have a non-empty value of `Polarity`.
 
 The most frequent other feature values with which `PART` and `Polarity` co-occurred: <tt><a href="sga_dipwbg-feat-PartType.html">PartType</a></tt><tt>=EMPTY</tt> (7; 100%), <tt><a href="sga_dipwbg-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (7; 100%).
 
 `PART` tokens may have the following values of `Polarity`:
 
 * `Neg` (7; 100% of non-empty `Polarity`): <em>ni, ní</em>
-* `EMPTY` (40): <em>no, do, a, as, nas, so, at, con, d, eter</em>
+* `EMPTY` (43): <em>no, do, a, ro, as, nas, so, at, con, d</em>
 
 ### `SCONJ`
 

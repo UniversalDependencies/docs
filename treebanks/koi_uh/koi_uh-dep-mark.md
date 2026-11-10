@@ -22,8 +22,8 @@ The following 6 pairs of parts of speech are connected with `mark`: <tt><a href=
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 4 mark	color:blue
-1	Кагасö	кага	NOUN	N	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	2	obj	_	GTtags=Prop,Sg,Acc,PxSg3
-2	видзöтлы	видзӧтлыны	VERB	V	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	GTtags=ConNeg|SpaceAfter=No
+1	Кагасӧ	кага	NOUN	N	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	2	obj	_	GTtags=Prop,Sg,Acc,PxSg3
+2	видзӧтлы	видзӧтлыны	VERB	V	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	GTtags=ConNeg|SpaceAfter=No
 3	,	,	PUNCT	CLB	_	2	punct	_	GTtags=CLB
 4	мед	мед	SCONJ	CS	_	6	mark	_	GTtags=
 5	эз	оз	AUX	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past	6	aux:neg	_	GTtags=Neg,Ind,Prt1,Sg3

@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `1`, `2`, `3`.
 
-263 tokens (8%) have a non-empty value of `Person`.
-52 types (5%) occur at least once with a non-empty value of `Person`.
+258 tokens (8%) have a non-empty value of `Person`.
+51 types (5%) occur at least once with a non-empty value of `Person`.
 6 lemmas (1%) occur at least once with a non-empty value of `Person`.
-The feature is used with 1 part-of-speech tags: <tt><a href="nmf_suansu-pos-PRON.html">PRON</a></tt> (263; 8% instances).
+The feature is used with 1 part-of-speech tags: <tt><a href="nmf_suansu-pos-PRON.html">PRON</a></tt> (258; 8% instances).
 
 ### `PRON`
 
-263 <tt><a href="nmf_suansu-pos-PRON.html">PRON</a></tt> tokens (85% of all `PRON` tokens) have a non-empty value of `Person`.
+258 <tt><a href="nmf_suansu-pos-PRON.html">PRON</a></tt> tokens (85% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="nmf_suansu-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (263; 100%), <tt><a href="nmf_suansu-feat-Number.html">Number</a></tt><tt>=Sing</tt> (228; 87%), <tt><a href="nmf_suansu-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (144; 55%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="nmf_suansu-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (258; 100%), <tt><a href="nmf_suansu-feat-Number.html">Number</a></tt><tt>=Sing</tt> (224; 87%), <tt><a href="nmf_suansu-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (142; 55%).
 
 `PRON` tokens may have the following values of `Person`:
 
-* `1` (115; 44% of non-empty `Person`): <em>a, ava, Anan, hai, adi, bava, anahn, haidi, Ala, banan</em>
-* `2` (74; 28% of non-empty `Person`): <em>nahn, nahndi, nahnnan, nahnla, Na, nahnbyahn, nahnva, Nahnnahn, Nahnvai, nahnvada</em>
-* `3` (74; 28% of non-empty `Person`): <em>ba, bava, badi, bu, Bunan, babyahn, nahnva, Banan, Budi, buva</em>
-* `EMPTY` (48): <em>didi, tye, hadi, mwe, thuzadi, mazohnnan, thuzanan, Avadi, mazohn, thuza</em>
+* `1` (112; 43% of non-empty `Person`): <em>a, ava, hai, Anan, adi, bava, anahn, haidi, Ala, banan</em>
+* `2` (72; 28% of non-empty `Person`): <em>nahn, nahndi, nahnnan, nahnla, Na, nahnbyahn, nahnva, Nahnnahn, Nahnvai, nahnvada</em>
+* `3` (74; 29% of non-empty `Person`): <em>ba, bava, badi, bu, Bunan, babyahn, nahnva, Banan, Budi, buva</em>
+* `EMPTY` (47): <em>didi, tye, hadi, mwe, thuzadi, mazohnnan, thuzanan, Avadi, mazohn, thuza</em>
 
 <table>
   <tr><th>Paradigm <i>nahn</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>

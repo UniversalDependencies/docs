@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>vero</em> (<tt><a href="la_udante-pos
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.117073 (the average of all parts of speech is 2.131437).
+The form / lemma ratio of `ADV` is 1.117073 (the average of all parts of speech is 2.131634).
 
 The 1st highest number of forms (3) was observed with the lemma “affectuose”: <em>affectuose, affectuosissime, affectuosius</em>.
 

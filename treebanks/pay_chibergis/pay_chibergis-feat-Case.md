@@ -23,7 +23,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="pay_chibergis-pos-A
 * `Abs` (26; 65% of non-empty `Case`): <em>=ra, =ro</em>
 * `Erg` (13; 33% of non-empty `Case`): <em>=ya, =yã</em>
 * `Nom` (1; 3% of non-empty `Case`): <em>=ma</em>
-* `EMPTY` (222): <em>=yã, =yo, =ri, =ma, =ken, =kan, =ra, =re, =mã, =ni</em>
+* `EMPTY` (230): <em>=yã, =yo, =ri, =ma, =ken, =kan, =ra, =re, =mã, =ni</em>
 
 ### `SCONJ`
 
@@ -32,5 +32,5 @@ The feature is used with 2 part-of-speech tags: <tt><a href="pay_chibergis-pos-A
 `SCONJ` tokens may have the following values of `Case`:
 
 * `Abs` (1; 100% of non-empty `Case`): <em>=ro</em>
-* `EMPTY` (117): <em>=ma, =ras, =yã, =mã, =kan, =ken, =ra, =yo, =ro, =reke</em>
+* `EMPTY` (119): <em>=ma, =ras, =yã, =mã, =kan, =ken, =ra, =yo, =ro, =reke</em>
 

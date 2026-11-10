@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Portuguese-PetroGold: Features: `ExtPos`
 
 This feature is language-specific.
-It occurs with 4 different values: `ADP`, `ADV`, `CCONJ`, `SCONJ`.
+It occurs with 5 different values: `ADJ`, `ADP`, `ADV`, `CCONJ`, `SCONJ`.
 
 2471 tokens (1%) have a non-empty value of `ExtPos`.
 62 types (0%) occur at least once with a non-empty value of `ExtPos`.
@@ -20,8 +20,9 @@ The feature is used with 9 part-of-speech tags: <tt><a href="pt_petrogold-pos-AD
 
 `ADP` tokens may have the following values of `ExtPos`:
 
-* `ADP` (774; 53% of non-empty `ExtPos`): <em>a, em, de, com, por, como</em>
-* `ADV` (357; 25% of non-empty `ExtPos`): <em>a, por, em, com, de, Para</em>
+* `ADJ` (38; 3% of non-empty `ExtPos`): <em>a</em>
+* `ADP` (804; 56% of non-empty `ExtPos`): <em>a, em, de, por, com, como</em>
+* `ADV` (289; 20% of non-empty `ExtPos`): <em>por, em, a, com, de, Para</em>
 * `CCONJ` (81; 6% of non-empty `ExtPos`): <em>em, por</em>
 * `SCONJ` (236; 16% of non-empty `ExtPos`): <em>a, para, de, até, com, sem, em, desde, apesarem</em>
 

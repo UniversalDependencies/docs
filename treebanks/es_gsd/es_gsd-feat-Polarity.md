@@ -23,7 +23,7 @@ The most frequent other feature values with which `ADV` and `Polarity` co-occurr
 `ADV` tokens may have the following values of `Polarity`:
 
 * `Neg` (1866; 100% of non-empty `Polarity`): <em>no, nunca, tampoco, jamás, ni, o, sino, so</em>
-* `EMPTY` (10616): <em>más, también, muy, donde, ya, además, así, después, sólo, bien</em>
+* `EMPTY` (10698): <em>más, también, muy, donde, ya, además, así, después, sólo, bien</em>
 
 ### `CCONJ`
 
@@ -32,7 +32,7 @@ The most frequent other feature values with which `ADV` and `Polarity` co-occurr
 `CCONJ` tokens may have the following values of `Polarity`:
 
 * `Neg` (28; 100% of non-empty `Polarity`): <em>ni</em>
-* `EMPTY` (13624): <em>y, o, pero, que, e, como, ni, sino, si, pues</em>
+* `EMPTY` (12837): <em>y, o, pero, e, ni, sino, que, pues, u, i</em>
 
 ### `PART`
 

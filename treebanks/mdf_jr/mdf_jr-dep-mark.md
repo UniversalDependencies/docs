@@ -24,7 +24,7 @@ The following 10 pairs of parts of speech are connected with `mark`: <tt><a href
 # visual-style 4 3 mark	color:blue
 1	А	а	CCONJ	CC	_	4	cc	_	_
 2	мезе	мезе	PRON	Pron	Case=Nom|Number=Sing|PronType=Int	0	root	_	_
-3	кда	кда	SCONJ	CS	_	4	mark	_	_
+3	кда	кда	SCONJ	CS	ConjType=Cnd	4	mark	_	_
 4	рамась	рамамс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin	2	advcl	_	SpaceAfter=No
 5	,	,	PUNCT	CLB	_	7	punct	_	_
 6	аньцек	аньцек	ADV	Adv	_	7	advmod	_	_
@@ -45,7 +45,7 @@ The following 10 pairs of parts of speech are connected with `mark`: <tt><a href
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 4 mark	color:blue
-1	Афи	аф	AUX	Aux	Clitic=I|Polarity=Neg	2	aux	_	_
+1	Афи	аф	AUX	Aux	Clitic=I|Polarity=Neg	2	aux:neg	_	_
 2	шарьхкодень	шарьхкодемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 3	,	,	PUNCT	CLB	_	5	punct	_	_
 4	кода	кода	ADV	Adv	_	5	mark	_	_

@@ -26,35 +26,27 @@ The following 2 pairs of parts of speech are connected with `acl`: <tt><a href="
 2	qinuyu	qinuyu	VERB	_	_	3	acl	_	Analysis=qinuyug(V)|Gloss=to-get-sick
 3	lghii	lghii	NOUN	_	Case=Abs|Number=Sing	1	appos	_	Analysis=@–lghii(V→N)^[Abs.Sg]|Gloss=one-that-is-V-ing
 4	iitgh	iitgh	VERB	_	_	0	root	_	Analysis=itegh(V)|Gloss=to-go-in
-5	uma	uma	VERB	_	_	4	dep:aux	_	Analysis=@~:(i/u)ma(V→V)|Gloss=to-have-V-ed
-6	a	a	X	_	Mood=Ind|Subcat=Intr	5	dep:infl	_	Analysis=[Ind.Intr]
-7	q	q	X	_	Number[subj]=Sing|Person[subj]=3	5	dep:infl	_	Analysis=[3Sg]
-8	apa	apa	NOUN	_	_	10	nmod	_	Analysis=apa(N)|Gloss=grandfather
-9	mi	mi	X	_	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3|Reflex=Yes	8	dep:infl	_	Analysis=[Rel.4SgPoss.Sg]
-10	mangtegha	mangtegha	NOUN	_	_	4	obl	_	Analysis=mangteghagh(N)|Gloss=house
-11	anun	anun	X	_	Case=All|Number=Sing|Number[psor]=Sing|Person[psor]=3	10	dep:infl	_	Analysis=[All.3SgPoss.Sg]
-12	.	.	PUNCT	_	_	4	punct	_	Analysis=.
+5	umaaq	uma	X	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr	4	dep:aux	_	Analysis=@~:(i/u)ma(V→V)^[Ind.Intr]^[3Sg]|Gloss=to-have-V-ed|MSeg=uma+a+q
+6	apami	apa	NOUN	_	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3|Reflex=Yes	7	nmod	_	Analysis=apa(N)^[Rel.4SgPoss.Sg]|Gloss=his-grandfather's|MSeg=apa+mi
+7	mangteghaanun	mangtegha	NOUN	_	Case=All|Number=Sing|Number[psor]=Sing|Person[psor]=3	4	obl	_	Analysis=mangteghagh(N)^[All.3SgPoss.Sg]|Gloss=to-his-house|MSeg=mangtegha+anun|SpaceAfter=No
+8	.	.	PUNCT	_	_	4	punct	_	Analysis=.
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 7 acl	color:blue
-1	Ighnegh	ighnegh	NOUN	_	_	9	nsubj	_	Analysis=ighnegh(N)|Gloss=son
-2	ma	ma	X	_	Case=Erg|Number=Plur|Number[psor]=Sing|Person[psor]=1	1	dep:infl	_	Analysis=[Rel.1SgPoss.Pl]
-3	qughsatku	qughsatku	NOUN	_	_	7	nsubj	_	Analysis=qughsatku(N)|Gloss=king-polar-bear
-4	mun	mun	X	_	Case=All|Number=Sing	3	dep:infl	_	Analysis=[All.Sg]
-5	qazigya	qazigya	NOUN	_	_	7	obj	_	Analysis=qazigyagh(N)|Gloss=spotted-seal
-6	t	t	X	_	Case=Abs|Number=Plur	5	dep:infl	_	Analysis=[Abs.Pl]
-7	negh	negh	VERB	_	_	9	acl	_	Analysis=negh(V)|Gloss=to-eat
-8	uma	uma	VERB	_	Tense=Past	7	dep:aux	_	Analysis=@~:(i/u)ma(V→V)|Gloss=to-have-V-ed
-9	ni	ni	VERB	_	_	0	root	_	Analysis=@~fni(CmpdVbl)|Gloss=to-say-that-one-is-V-ing
-10	it	it	X	_	Number[obj]=Plur|Number[subj]=Plur|Person[obj]=3|Person[subj]=3	9	dep:infl	_	Analysis=[Ind.Trns]^[3Pl.3Pl]
-11	.	.	PUNCT	_	_	9	punct	_	Analysis=.
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 4 acl	color:blue
+1	Ighneghma	ighnegh	NOUN	_	Case=Erg|Number=Plur|Number[psor]=Sing|Person[psor]=1	6	nsubj	_	Analysis=ighnegh(N)^[Rel.1SgPoss.Pl]|Gloss=my-sons|MSeg=Ighnegh+ma
+2	qughsatkumun	qughsatku	NOUN	_	Case=All|Number=Sing	4	nsubj	_	Analysis=qughsatku(N)^[All.Sg]|Gloss=the-king-polar-bear|MSeg=qughsatku+mun
+3	qazigyat	qazigya	NOUN	_	Case=Abs|Number=Plur	4	obj	_	Analysis=qazigyagh(N)^[Abs.Pl]|Gloss=the-spotted-seals|MSeg=qazigya+t
+4	negh	negh	VERB	_	_	6	acl	_	Analysis=negh(V)|Gloss=to-eat
+5	uma	uma	X	_	Tense=Past	4	dep:aux	_	Analysis=@~:(i/u)ma(V→V)|Gloss=to-have-V-ed
+6	niit	ni	VERB	_	Number[obj]=Plur|Number[subj]=Plur|Person[obj]=3|Person[subj]=3	0	root	_	Analysis=@~fni(CmpdVbl)^[Ind.Trns]^[3Pl.3Pl]|Gloss=to-say-that-one-is-V-ing|MSeg=ni+it
+7	.	.	PUNCT	_	_	6	punct	_	Analysis=.
 
 ~~~
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-239 nodes (6%) are attached to their parents as `obl`.
+237 nodes (6%) are attached to their parents as `obl`.
 
-177 instances of `obl` (74%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.38493723849372.
+176 instances of `obl` (74%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.39662447257384.
 
-The following 12 pairs of parts of speech are connected with `obl`: <tt><a href="cpg_tuecl-pos-VERB.html">VERB</a></tt>-<tt><a href="cpg_tuecl-pos-NOUN.html">NOUN</a></tt> (206; 86% instances), <tt><a href="cpg_tuecl-pos-VERB.html">VERB</a></tt>-<tt><a href="cpg_tuecl-pos-PRON.html">PRON</a></tt> (10; 4% instances), <tt><a href="cpg_tuecl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cpg_tuecl-pos-NOUN.html">NOUN</a></tt> (6; 3% instances), <tt><a href="cpg_tuecl-pos-VERB.html">VERB</a></tt>-<tt><a href="cpg_tuecl-pos-NUM.html">NUM</a></tt> (6; 3% instances), <tt><a href="cpg_tuecl-pos-PRON.html">PRON</a></tt>-<tt><a href="cpg_tuecl-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="cpg_tuecl-pos-VERB.html">VERB</a></tt>-<tt><a href="cpg_tuecl-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="cpg_tuecl-pos-VERB.html">VERB</a></tt>-<tt><a href="cpg_tuecl-pos-X.html">X</a></tt> (2; 1% instances), <tt><a href="cpg_tuecl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cpg_tuecl-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="cpg_tuecl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cpg_tuecl-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="cpg_tuecl-pos-VERB.html">VERB</a></tt>-<tt><a href="cpg_tuecl-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="cpg_tuecl-pos-VERB.html">VERB</a></tt>-<tt><a href="cpg_tuecl-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="cpg_tuecl-pos-VERB.html">VERB</a></tt>-<tt><a href="cpg_tuecl-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+The following 12 pairs of parts of speech are connected with `obl`: <tt><a href="cpg_tuecl-pos-VERB.html">VERB</a></tt>-<tt><a href="cpg_tuecl-pos-NOUN.html">NOUN</a></tt> (206; 87% instances), <tt><a href="cpg_tuecl-pos-VERB.html">VERB</a></tt>-<tt><a href="cpg_tuecl-pos-PRON.html">PRON</a></tt> (10; 4% instances), <tt><a href="cpg_tuecl-pos-VERB.html">VERB</a></tt>-<tt><a href="cpg_tuecl-pos-NUM.html">NUM</a></tt> (6; 3% instances), <tt><a href="cpg_tuecl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cpg_tuecl-pos-NOUN.html">NOUN</a></tt> (4; 2% instances), <tt><a href="cpg_tuecl-pos-PRON.html">PRON</a></tt>-<tt><a href="cpg_tuecl-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="cpg_tuecl-pos-VERB.html">VERB</a></tt>-<tt><a href="cpg_tuecl-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="cpg_tuecl-pos-VERB.html">VERB</a></tt>-<tt><a href="cpg_tuecl-pos-X.html">X</a></tt> (2; 1% instances), <tt><a href="cpg_tuecl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cpg_tuecl-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="cpg_tuecl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cpg_tuecl-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="cpg_tuecl-pos-VERB.html">VERB</a></tt>-<tt><a href="cpg_tuecl-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="cpg_tuecl-pos-VERB.html">VERB</a></tt>-<tt><a href="cpg_tuecl-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="cpg_tuecl-pos-VERB.html">VERB</a></tt>-<tt><a href="cpg_tuecl-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -59,24 +59,22 @@ The following 12 pairs of parts of speech are connected with `obl`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 5 obl	color:blue
-1	Σ	σε	ADP	ADP	_	5	case	_	_
-2	ον	ο	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
-3	παλό	παλαιός	ADJ	ADJ	Case=Acc|Gender=Masc|Number=Sing	5	amod	_	_
-4	τον	ο	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
-5	ταρό	ταρός	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Sing	8	obl	_	_
-6	ήτουν	είμαι	AUX	AUX	_	8	cop	_	_
-7	α	α	NUM	NUM	Case=Nom|Gender=Masc|Number=Sing	8	nummod	_	_
-8	βασιλός	βασιλιάς	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
-9	τζ΄	jαι	CCONJ	CCONJ	_	12	cc	_	_
-10	είσεν	είμαι	AUX	AUX	_	12	cop	_	_
-11	τρία	τρείς	NUM	NUM	Case=Nom|Gender=Masc|Number=Plur	12	nummod	_	_
-12	γιοί	γιός	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Plur	8	conj	_	SpaceAfter=No
-13	.	.	PUNCT	PUNCT	_	8	punct	_	_
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 7 obl	color:blue
+1	Σα	σα	PART	PART	_	3	advmod	_	_
+2	τα	η	DET	DET	Case=Acc|Gender=Fem|Number=Sing|PronType=Art	3	obj	_	_
+3	είδεν	βλέπω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	PUNCT	_	10	punct	_	_
+5	ατέ	ατή	PRON	PRON	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	7	det	_	_
+6	τη	η	DET	DET	Case=Acc|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	μία	μία	NUM	NUM	Case=Acc|Gender=Fem|Number=Sing	10	obl	_	_
+8	το	το	DET	DET	Case=Nom|Gender=Neut|Number=Sing|PronType=Art	9	det	_	_
+9	φσάχι	φσάχ	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	10	nsubj	_	_
+10	παΐντζεν	bayelmaq	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	SpaceAfter=No
+11	.	.	PUNCT	PUNCT	_	3	punct	_	_
 
 ~~~
 

@@ -42,7 +42,7 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 
 337099 <tt><a href="cs_pdtc-pos-ADJ.html">ADJ</a></tt> tokens (93% of all `ADJ` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="cs_pdtc-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (314386; 93%), <tt><a href="cs_pdtc-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (299422; 89%), <tt><a href="cs_pdtc-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (299422; 89%), <tt><a href="cs_pdtc-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (297570; 88%), <tt><a href="cs_pdtc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (225548; 67%), <tt><a href="cs_pdtc-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (191242; 57%).
+The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="cs_pdtc-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (314386; 93%), <tt><a href="cs_pdtc-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (303680; 90%), <tt><a href="cs_pdtc-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (299422; 89%), <tt><a href="cs_pdtc-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (299422; 89%), <tt><a href="cs_pdtc-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (297570; 88%), <tt><a href="cs_pdtc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (225548; 67%), <tt><a href="cs_pdtc-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (191242; 57%).
 
 `ADJ` tokens may have the following values of `Case`:
 
@@ -218,10 +218,10 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
 
 The 10 most frequent relations where parent and child node agree in `Case`:
 <tt>NOUN --[<tt><a href="cs_pdtc-dep-amod.html">amod</a></tt>]--> ADJ</tt> (285562; 99%),
-<tt>NOUN --[<tt><a href="cs_pdtc-dep-case.html">case</a></tt>]--> ADP</tt> (232511; 94%),
-<tt>NOUN --[<tt><a href="cs_pdtc-dep-det.html">det</a></tt>]--> DET</tt> (61683; 87%),
-<tt>NOUN --[<tt><a href="cs_pdtc-dep-conj.html">conj</a></tt>]--> NOUN</tt> (38756; 93%),
-<tt>PROPN --[<tt><a href="cs_pdtc-dep-case.html">case</a></tt>]--> ADP</tt> (27190; 90%),
+<tt>NOUN --[<tt><a href="cs_pdtc-dep-case.html">case</a></tt>]--> ADP</tt> (232579; 94%),
+<tt>NOUN --[<tt><a href="cs_pdtc-dep-det.html">det</a></tt>]--> DET</tt> (61681; 87%),
+<tt>NOUN --[<tt><a href="cs_pdtc-dep-conj.html">conj</a></tt>]--> NOUN</tt> (38768; 93%),
+<tt>PROPN --[<tt><a href="cs_pdtc-dep-case.html">case</a></tt>]--> ADP</tt> (27191; 90%),
 <tt>NOUN --[<tt><a href="cs_pdtc-dep-flat.html">flat</a></tt>]--> PROPN</tt> (17025; 99%),
 <tt>PRON --[<tt><a href="cs_pdtc-dep-case.html">case</a></tt>]--> ADP</tt> (13992; 100%),
 <tt>PROPN --[<tt><a href="cs_pdtc-dep-flat.html">flat</a></tt>]--> PROPN</tt> (12445; 93%),

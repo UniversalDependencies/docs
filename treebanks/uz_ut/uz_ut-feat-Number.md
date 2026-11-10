@@ -134,14 +134,14 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="uz_ut-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (167; 65%),
+<tt>NOUN --[<tt><a href="uz_ut-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (193; 65%),
 <tt>NOUN --[<tt><a href="uz_ut-dep-conj.html">conj</a></tt>]--> NOUN</tt> (90; 84%),
 <tt>NOUN --[<tt><a href="uz_ut-dep-compound.html">compound</a></tt>]--> NOUN</tt> (66; 66%),
 <tt>NOUN --[<tt><a href="uz_ut-dep-nmod-poss.html">nmod:poss</a></tt>]--> NOUN</tt> (61; 66%),
 <tt>NOUN --[<tt><a href="uz_ut-dep-flat.html">flat</a></tt>]--> PROPN</tt> (57; 93%),
-<tt>NOUN --[<tt><a href="uz_ut-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (42; 76%),
-<tt>NOUN --[<tt><a href="uz_ut-dep-obl.html">obl</a></tt>]--> NOUN</tt> (37; 71%),
+<tt>NOUN --[<tt><a href="uz_ut-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (43; 75%),
 <tt>NOUN --[<tt><a href="uz_ut-dep-compound.html">compound</a></tt>]--> PROPN</tt> (27; 84%),
 <tt>PROPN --[<tt><a href="uz_ut-dep-flat.html">flat</a></tt>]--> PROPN</tt> (23; 100%),
-<tt>NOUN --[<tt><a href="uz_ut-dep-case.html">case</a></tt>]--> NOUN</tt> (18; 67%).
+<tt>NOUN --[<tt><a href="uz_ut-dep-case.html">case</a></tt>]--> NOUN</tt> (18; 67%),
+<tt>NOUN --[<tt><a href="uz_ut-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (17; 77%).
 

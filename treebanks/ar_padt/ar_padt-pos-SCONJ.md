@@ -43,7 +43,7 @@ The 10 most frequent ambiguous types:  أن (<tt><a href="ar_padt-pos-SCONJ.html
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.761981).
+The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.762127).
 
 The 1st highest number of forms (3) was observed with the lemma “إِنَّ”: أن, إن, ان.
 
@@ -64,7 +64,7 @@ Examples: أن، ان، إن، اذا، إذا
 
 `SCONJ` nodes are attached to their parents using 11 different relations: <tt><a href="ar_padt-dep-mark.html">mark</a></tt> (5179; 95% instances), <tt><a href="ar_padt-dep-cc.html">cc</a></tt> (133; 2% instances), <tt><a href="ar_padt-dep-fixed.html">fixed</a></tt> (116; 2% instances), <tt><a href="ar_padt-dep-case.html">case</a></tt> (11; 0% instances), <tt><a href="ar_padt-dep-conj.html">conj</a></tt> (11; 0% instances), <tt><a href="ar_padt-dep-obj.html">obj</a></tt> (10; 0% instances), <tt><a href="ar_padt-dep-dep.html">dep</a></tt> (5; 0% instances), <tt><a href="ar_padt-dep-nmod.html">nmod</a></tt> (3; 0% instances), <tt><a href="ar_padt-dep-root.html">root</a></tt> (3; 0% instances), <tt><a href="ar_padt-dep-obl-arg.html">obl:arg</a></tt> (2; 0% instances), <tt><a href="ar_padt-dep-parataxis.html">parataxis</a></tt> (2; 0% instances)
 
-Parents of `SCONJ` nodes belong to 13 different parts of speech: <tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> (4112; 75% instances), <tt><a href="ar_padt-pos-NOUN.html">NOUN</a></tt> (478; 9% instances), <tt><a href="ar_padt-pos-ADJ.html">ADJ</a></tt> (381; 7% instances), <tt><a href="ar_padt-pos-X.html">X</a></tt> (195; 4% instances), <tt><a href="ar_padt-pos-ADV.html">ADV</a></tt> (85; 2% instances), <tt><a href="ar_padt-pos-ADP.html">ADP</a></tt> (44; 1% instances), <tt><a href="ar_padt-pos-PRON.html">PRON</a></tt> (43; 1% instances), <tt><a href="ar_padt-pos-DET.html">DET</a></tt> (41; 1% instances), <tt><a href="ar_padt-pos-CCONJ.html">CCONJ</a></tt> (39; 1% instances), <tt><a href="ar_padt-pos-PART.html">PART</a></tt> (31; 1% instances), <tt><a href="ar_padt-pos-NUM.html">NUM</a></tt> (15; 0% instances), <tt><a href="ar_padt-pos-SCONJ.html">SCONJ</a></tt> (8; 0% instances),  (3; 0% instances)
+Parents of `SCONJ` nodes belong to 13 different parts of speech: <tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> (4110; 75% instances), <tt><a href="ar_padt-pos-NOUN.html">NOUN</a></tt> (479; 9% instances), <tt><a href="ar_padt-pos-ADJ.html">ADJ</a></tt> (382; 7% instances), <tt><a href="ar_padt-pos-X.html">X</a></tt> (195; 4% instances), <tt><a href="ar_padt-pos-ADV.html">ADV</a></tt> (85; 2% instances), <tt><a href="ar_padt-pos-ADP.html">ADP</a></tt> (44; 1% instances), <tt><a href="ar_padt-pos-PRON.html">PRON</a></tt> (43; 1% instances), <tt><a href="ar_padt-pos-DET.html">DET</a></tt> (41; 1% instances), <tt><a href="ar_padt-pos-CCONJ.html">CCONJ</a></tt> (39; 1% instances), <tt><a href="ar_padt-pos-PART.html">PART</a></tt> (31; 1% instances), <tt><a href="ar_padt-pos-NUM.html">NUM</a></tt> (15; 0% instances), <tt><a href="ar_padt-pos-SCONJ.html">SCONJ</a></tt> (8; 0% instances),  (3; 0% instances)
 
 5105 (93%) `SCONJ` nodes are leaves.
 

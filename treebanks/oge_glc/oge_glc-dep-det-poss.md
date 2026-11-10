@@ -8,79 +8,69 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="oge_glc-dep-det.html">det</a></tt>.
 
-18 nodes (0%) are attached to their parents as `det:poss`.
+545 nodes (2%) are attached to their parents as `det:poss`.
 
-16 instances of `det:poss` (89%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.11111111111111.
+509 instances of `det:poss` (93%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.19449541284404.
 
-The following 2 pairs of parts of speech are connected with `det:poss`: <tt><a href="oge_glc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="oge_glc-pos-PRON.html">PRON</a></tt> (16; 89% instances), <tt><a href="oge_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="oge_glc-pos-PRON.html">PRON</a></tt> (2; 11% instances).
+The following 6 pairs of parts of speech are connected with `det:poss`: <tt><a href="oge_glc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="oge_glc-pos-PRON.html">PRON</a></tt> (496; 91% instances), <tt><a href="oge_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="oge_glc-pos-PRON.html">PRON</a></tt> (25; 5% instances), <tt><a href="oge_glc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="oge_glc-pos-PRON.html">PRON</a></tt> (14; 3% instances), <tt><a href="oge_glc-pos-PRON.html">PRON</a></tt>-<tt><a href="oge_glc-pos-PRON.html">PRON</a></tt> (5; 1% instances), <tt><a href="oge_glc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="oge_glc-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="oge_glc-pos-ADV.html">ADV</a></tt>-<tt><a href="oge_glc-pos-PRON.html">PRON</a></tt> (2; 0% instances).
 
 
 ~~~ conllu
-# visual-style 27	bgColor:blue
-# visual-style 27	fgColor:white
-# visual-style 26	bgColor:blue
-# visual-style 26	fgColor:white
-# visual-style 26 27 det:poss	color:blue
-1	ჯერ	ჯერ	ADV	Adv	AdvType=Tim	11	advmod	_	Translit=jer
-2	უკუე	უკუე	ADV	Adv	_	11	advmod	_	Translit=ukʻue
-3	იყო	ყოფა	AUX	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Act	11	cop	_	Translit=iqʻo
-4	ანუ	ანუ	CCONJ	Conj	_	11	discourse	_	Translit=anu
-5	სახელსა	სახელი	NOUN	Noun	Case=Dat|Number=Sing	11	obj	_	Translit=saxelsa
-6	მღდელობისასა	მღდელობა	NOUN	Noun	Case=Gen|Number=Sing	5	nmod	_	Translit=mġdelobisasa
-7	თჳთ	თჳთ	PART	Part	PartType=Emp	5	advmod:emph	_	Translit=tʻwtʻ
-8	მის	მისი	PRON	Pron	Case=Gen|Number=Sing|PronType=Prs	9	nmod	_	Translit=mis
-9	საქმისა	საქმე	NOUN	Noun	Case=Gen|Number=Sing	10	obl	_	Translit=sakʻmisa
-10	თანა	თანა	ADP	Post	AdpType=Post|Case=Gen	11	obl	_	Translit=tʻana
-11	ქონებად	ქონება	VERB	Verb	VerbForm=Vnoun	0	root	_	Translit=kʻonebad
-12	მისსა	მისი	PRON	Pron	Case=Dat|Number=Sing|PronType=Prs	11	det:poss	_	SpaceAfter=No|Translit=missa
-13	,	,	PUNCT	F	PunctType=Comm	11	punct	_	Translit=,
-14	ანუ	ანუ	CCONJ	Conj	_	16	cc	_	Translit=anu
-15	უკუე	უკუე	ADV	Adv	_	16	advmod	_	Translit=ukue
-16	უღირს	უღირს	ADJ	Adj	Case=Nom|Degree=Pos|Number=Sing	11	conj	_	Translit=uġirs
-17	იყო	ყოფა	AUX	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Act	16	cop	_	Translit=iqo
-18	წინადგომასა	წინადგომა	VERB	Verb	VerbForm=Vnoun	16	xcomp	_	Translit=cinadgomasa
-19	საღმრთოჲსა	საღმრთოჲ	ADJ	Adj	Case=Gen|Number=Sing	20	amod	_	Translit=saġmrtʻoysa
-20	საკურთხეველისასა	საკურთხეველი	NOUN	Noun	Case=Gen|Number=Sing	18	nmod	_	SpaceAfter=No|Translit=sakurtʻxevelisasa
-21	,	,	PUNCT	F	PunctType=Comm	16	punct	_	Translit=,
-22	არცაღათუ	არცა	PART	Part	PartType=Neg	26	advmod:neg	_	Translit=arcʻaġatʻu
-23	თჳთ	თჳთ	PART	Part	PartType=Emp	24	advmod:emph	_	Translit=tʻwtʻ
-24	წოდებითა	წოდება	NOUN	Noun	Case=Ins|Number=Sing	26	obl	_	Translit=codebitʻa
-25	ეპისკოპოსობისაჲთა	ეპისკოპოსობა	NOUN	Noun	Case=Ins|Number=Sing	24	nmod	_	Translit=episkoposobisaytʻa
-26	პატივსცემაჲ	პატივსცემაჲ	NOUN	Noun	Case=Nom|Number=Sing	16	conj	_	Translit=pativscʻemay
-27	მისი	მისი	PRON	Pron	Case=Gen|Number=Sing|PronType=Prs	26	det:poss	_	SpaceAfter=No|Translit=misi
-28	.	.	PUNCT	F	PunctType=Peri	11	punct	_	Translit=.
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 2 det:poss	color:blue
+1	რომელთაცა	რომელი	PRON	Pron	Case=Erg|Number=Plur|PartType=Emp|PronType=Rel	7	nsubj	_	Translit=romeltʻacʻa
+2	მისთა	მისი	PRON	Pron	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	3	det:poss	_	Translit=mistʻa
+3	ვნებათა	ვნება	NOUN	Noun	Case=Gen|Number=Plur	5	nmod	_	Translit=vnebatʻa
+4	თანა	თან	ADP	Post	AdpType=Post|Case=Dat	3	case	_	Translit=tʻana
+5	ზიარებაჲ	ზიარება	NOUN	Noun	Case=Nom|Number=Sing	7	obj	_	Translit=ziarebay
+6	თავს	თავი	NOUN	Noun	Case=Dat|Number=Sing	7	compound	_	Translit=tʻavs
+7	იდვან	დება	VERB	Verb	Aspect=Perf|Mood=Sub|Number[obj]=Plur|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	Translit=idvan
+8	.	.	PUNCT	F	PunctType=Peri	7	punct	_	Translit=.
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 9 det:poss	color:blue
-1	მათ	იგი	PRON	Pron	Case=Gen|Number=Plur|PronType=Prs	5	nmod	_	Translit=matʻ
-2	ერთა	ერთი	PRON	Pron	Case=Gen|Number=Plur|PronType=Tot	3	det	_	Translit=ertʻa
-3	საზოგადოსა	საზოგადო	ADJ	Adj	Case=Dat|Number=Sing	4	amod	_	Translit=sazogadosa
-4	საჴმრისა	საჴმარი	NOUN	Noun	Case=Gen|Number=Sing	5	nmod	_	Translit=sax̣mrisa
-5	განმგებელობასა	განმგებელობა	NOUN	Noun	Case=Dat|Number=Sing	6	obl	_	Translit=ganmgebelobasa
-6	რწმუნებულთაჲ	რწმუნებული	VERB	Verb	Case=Nom|Number=Plur|VerbForm=Part|Voice=Pass	8	nsubj	_	Translit=rcmunebultʻay
-7	არს	ყოფა	AUX	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	cop	_	Translit=ars
-8	მსახურებაჲ	მსახურება	VERB	Verb	Case=Nom|Number=Sing|VerbForm=Vnoun	0	root	_	Translit=msaxurebay
-9	მათი	მათი	PRON	Pron	Case=Gen|Number=Plur|PronType=Prs	8	det:poss	_	SpaceAfter=No|Translit=matʻi
-10	,	,	PUNCT	F	PunctType=Comm	8	punct	_	Translit=,
-11	რაჲთა	რაჲთა	SCONJ	Conj	_	13	mark	_	Translit=raytʻa
-12	ამიერცა	ამიერ	ADV	Adv	AdvType=Man|PartType=Emp	13	advmod	_	Translit=amiercʻa
-13	მივიღოთ	მიღება	VERB	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Plur|Person[subj]=1|Tense=Pres|VerbForm=Fin|Voice=Act	8	advcl	_	Translit=miviġotʻ
-14	ჩუენ	ჩუენ	PRON	Pron	Case=Nom|Number=Plur|Person=1|PronType=Prs	13	nsubj	_	Translit=čʻuen
-15	სახე	სახე	NOUN	Noun	Case=Nom|Number=Sing	13	obj	_	Translit=saxe
-16	მოქენეთა	მოქენე	NOUN	Noun	Case=Gen|Number=Plur	17	nmod	_	Translit=mokʻenetʻa
-17	მიმართისა	მიმართ	ADP	Post	AdpType=Post|Case=Gen	15	nmod	_	Translit=mimartʻisa
-18	კაცთმოყუარებისა	კაცთმოყუარება	NOUN	Noun	Case=Gen|Number=Sing	15	nmod	_	Translit=kacʻtʻmoquarebisa
-19	და	და	CCONJ	Conj	_	20	cc	_	Translit=da
-20	მოსწრაფებისაჲ	მოსწრაფება	NOUN	Noun	Case=Gen|Number=Sing	18	conj	_	SpaceAfter=No|Translit=moscrapʻebisay
-21	.	.	PUNCT	F	PunctType=Peri	8	punct	_	Translit=.
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 5 det:poss	color:blue
+1	აგრძნა	გრძნობა	VERB	Verb	Aspect=Perf|Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	Translit=agrʒna
+2	უკუე	უკუე	ADV	Adv	AdvType=Man	1	advmod	_	Translit=ukue
+3	განსლვაჲცა	განსლვა	VERB	VerbalNoun	Case=Nom|Number=Sing|PartType=Emp|VerbForm=Vnoun	1	obj	_	Translit=ganslvaycʻa
+4	იგი	იგი	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Dem	3	nmod	_	Translit=igi
+5	თჳსი	თჳსი	PRON	Pron	Case=Nom|Number=Sing|Poss=Yes|PronType=Prs	3	det:poss	_	Translit=tʻwsi
+6	ნეტარმან	ნეტარი	ADJ	Adj	Case=Erg|Degree=Pos|Number=Sing	1	nsubj	_	Translit=netarman
+7	წინაჲსწარ	წინაჲსწარ	ADV	Adv	AdvType=Tim	1	advmod	_	SpaceAfter=No|Translit=cinayscar
+8	.	.	PUNCT	F	PunctType=Peri	1	punct	_	Translit=.
+
+~~~
+
+
+~~~ conllu
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 11 12 det:poss	color:blue
+1	ხოლო	ხოლო	CCONJ	Conj	_	3	cc	_	Translit=xolo
+2	უფალმან	უფალი	NOUN	Noun	Case=Erg|Number=Sing	3	nsubj	_	Translit=upʻalman
+3	მიუგო	მიგება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=miugo
+4	მას	იგი	PRON	Pron	Case=Dat|Number=Sing|Person=3|PronType=Dem	3	iobj	_	SpaceAfter=No|Translit=mas
+5	:	:	PUNCT	F	PunctType=Colo	3	punct	_	Translit=:
+6	გეყავნ	გაყოლა	VERB	Verb	Aspect=Iter|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Mid	3	parataxis	_	Translit=geqavn
+7	შენ	შენ	PRON	Pron	Case=Nom|Number=Sing|Person=2|PronType=Prs	6	nsubj	_	Translit=šen
+8	თხოვაჲ	თხოვა	NOUN	Noun	Case=Nom|Number=Sing	6	obj	_	Translit=tʻxovay
+9	შენი	შენი	PRON	Pron	Case=Nom|Number=Sing|Person=2|Poss=Yes|PronType=Prs	8	det:poss	_	SpaceAfter=No|Translit=šeni
+10	,	,	PUNCT	F	PunctType=Comm	6	punct	_	Translit=,
+11	სათნოო	სათნო	ADJ	Adj	Case=Voc|Degree=Pos|Number=Sing	6	vocative	_	Translit=satʻnoo
+12	ჩემო	ჩემი	PRON	Pron	Case=Voc|Number=Sing|Person=1|Poss=Yes|PronType=Prs	11	det:poss	_	SpaceAfter=No|Translit=čʻemo
+13	.	.	PUNCT	F	PunctType=Peri	6	punct	_	Translit=.
 
 ~~~
 

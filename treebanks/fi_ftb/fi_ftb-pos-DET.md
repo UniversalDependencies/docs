@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Finnish-FTB: POS Tags: `DET`
 
-There are 46 `DET` lemmas (0%), 522 `DET` types (1%) and 3684 `DET` tokens (2%).
+There are 46 `DET` lemmas (0%), 522 `DET` types (1%) and 3683 `DET` tokens (2%).
 Out of 17 observed tags, the rank of `DET` is: 11 in number of lemmas, 8 in number of types and 11 in number of tokens.
 
 The 10 most frequent `DET` lemmas: <em>se, tämä, kaikki, jokin, mikään, muu, mikä, ne, moni, nämä</em>
@@ -56,7 +56,7 @@ The 10 most frequent ambiguous types:  <em>se</em> (<tt><a href="fi_ftb-pos-PRON
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 11.347826 (the average of all parts of speech is 2.049638).
+The form / lemma ratio of `DET` is 11.347826 (the average of all parts of speech is 2.049502).
 
 The 1st highest number of forms (30) was observed with the lemma “jokin”: <em>Joillakin, Jollekin, Jossaki, johonki, johonkin, joidenkin, joihinkin, joillekin, joissakin, joistakin, joitain, joitaki, joitakin, jokin, jollain, jollakin, joltakin, jonain, jonakin, jonkin, jossai, jossain, jossakin, jostain, jostakin, jotai, jotain, jotaki, jotakin, jottais</em>.
 
@@ -64,7 +64,7 @@ The 2nd highest number of forms (29) was observed with the lemma “muu”: <em>
 
 The 3rd highest number of forms (27) was observed with the lemma “tämä”: <em>Tämähän, Tämäkään, Tämäkö, Tänäkään, tähän, täksi, täl, tälle, tällä, tältä, tämä, tämän, tämänkin, tämänkään, tän, tänä, tänäkin, täs, tässä, tässäkin, täst, tästä, täsä, tätä, tätäkä, tää, tään</em>.
 
-`DET` occurs with 9 features: <tt><a href="fi_ftb-feat-PronType.html">PronType</a></tt> (3684; 100% instances), <tt><a href="fi_ftb-feat-Case.html">Case</a></tt> (3555; 96% instances), <tt><a href="fi_ftb-feat-Number.html">Number</a></tt> (3175; 86% instances), <tt><a href="fi_ftb-feat-Style.html">Style</a></tt> (266; 7% instances), <tt><a href="fi_ftb-feat-Clitic.html">Clitic</a></tt> (73; 2% instances), <tt><a href="fi_ftb-feat-Degree.html">Degree</a></tt> (21; 1% instances), <tt><a href="fi_ftb-feat-Reflex.html">Reflex</a></tt> (20; 1% instances), <tt><a href="fi_ftb-feat-Person-psor.html">Person[psor]</a></tt> (13; 0% instances), <tt><a href="fi_ftb-feat-Person.html">Person</a></tt> (1; 0% instances)
+`DET` occurs with 9 features: <tt><a href="fi_ftb-feat-PronType.html">PronType</a></tt> (3683; 100% instances), <tt><a href="fi_ftb-feat-Case.html">Case</a></tt> (3554; 96% instances), <tt><a href="fi_ftb-feat-Number.html">Number</a></tt> (3174; 86% instances), <tt><a href="fi_ftb-feat-Style.html">Style</a></tt> (266; 7% instances), <tt><a href="fi_ftb-feat-Clitic.html">Clitic</a></tt> (73; 2% instances), <tt><a href="fi_ftb-feat-Degree.html">Degree</a></tt> (21; 1% instances), <tt><a href="fi_ftb-feat-Reflex.html">Reflex</a></tt> (20; 1% instances), <tt><a href="fi_ftb-feat-Person-psor.html">Person[psor]</a></tt> (13; 0% instances), <tt><a href="fi_ftb-feat-Person.html">Person</a></tt> (1; 0% instances)
 
 `DET` occurs with 35 feature-value pairs: `Case=Abe`, `Case=Abl`, `Case=Ade`, `Case=All`, `Case=Com`, `Case=Ela`, `Case=Ess`, `Case=Gen`, `Case=Ill`, `Case=Ine`, `Case=Ins`, `Case=Nom`, `Case=Par`, `Case=Tra`, `Clitic=Han`, `Clitic=Ka,S`, `Clitic=Kaan`, `Clitic=Kin`, `Clitic=Ko`, `Clitic=Ko,S`, `Clitic=S`, `Degree=Cmp`, `Degree=Sup`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person[psor]=3`, `PronType=Dem`, `PronType=Ind`, `PronType=Int`, `PronType=Prs`, `PronType=Rcp`, `PronType=Rel`, `Reflex=Yes`, `Style=Coll`
 
@@ -75,19 +75,19 @@ Examples: <em>se, tämä, tuo, sellainen, semmoinen, tällainen, tuollainen, tä
 
 ## Relations
 
-`DET` nodes are attached to their parents using 4 different relations: <tt><a href="fi_ftb-dep-det.html">det</a></tt> (3440; 93% instances), <tt><a href="fi_ftb-dep-amod.html">amod</a></tt> (238; 6% instances), <tt><a href="fi_ftb-dep-conj.html">conj</a></tt> (3; 0% instances), <tt><a href="fi_ftb-dep-fixed.html">fixed</a></tt> (3; 0% instances)
+`DET` nodes are attached to their parents using 4 different relations: <tt><a href="fi_ftb-dep-det.html">det</a></tt> (3439; 93% instances), <tt><a href="fi_ftb-dep-amod.html">amod</a></tt> (238; 6% instances), <tt><a href="fi_ftb-dep-conj.html">conj</a></tt> (3; 0% instances), <tt><a href="fi_ftb-dep-fixed.html">fixed</a></tt> (3; 0% instances)
 
-Parents of `DET` nodes belong to 9 different parts of speech: <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> (3138; 85% instances), <tt><a href="fi_ftb-pos-ADJ.html">ADJ</a></tt> (228; 6% instances), <tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> (93; 3% instances), <tt><a href="fi_ftb-pos-PROPN.html">PROPN</a></tt> (81; 2% instances), <tt><a href="fi_ftb-pos-NUM.html">NUM</a></tt> (66; 2% instances), <tt><a href="fi_ftb-pos-ADV.html">ADV</a></tt> (40; 1% instances), <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> (33; 1% instances), <tt><a href="fi_ftb-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="fi_ftb-pos-X.html">X</a></tt> (1; 0% instances)
+Parents of `DET` nodes belong to 9 different parts of speech: <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> (3137; 85% instances), <tt><a href="fi_ftb-pos-ADJ.html">ADJ</a></tt> (228; 6% instances), <tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> (93; 3% instances), <tt><a href="fi_ftb-pos-PROPN.html">PROPN</a></tt> (81; 2% instances), <tt><a href="fi_ftb-pos-NUM.html">NUM</a></tt> (66; 2% instances), <tt><a href="fi_ftb-pos-ADV.html">ADV</a></tt> (40; 1% instances), <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> (33; 1% instances), <tt><a href="fi_ftb-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="fi_ftb-pos-X.html">X</a></tt> (1; 0% instances)
 
-3534 (96%) `DET` nodes are leaves.
+3540 (96%) `DET` nodes are leaves.
 
-145 (4%) `DET` nodes have one child.
+142 (4%) `DET` nodes have one child.
 
-5 (0%) `DET` nodes have two children.
+1 (0%) `DET` nodes have two children.
 
 The highest child degree of a `DET` node is 2.
 
-Children of `DET` nodes are attached using 8 different relations: <tt><a href="fi_ftb-dep-advmod.html">advmod</a></tt> (107; 69% instances), <tt><a href="fi_ftb-dep-punct.html">punct</a></tt> (25; 16% instances), <tt><a href="fi_ftb-dep-conj.html">conj</a></tt> (15; 10% instances), <tt><a href="fi_ftb-dep-advcl.html">advcl</a></tt> (3; 2% instances), <tt><a href="fi_ftb-dep-amod.html">amod</a></tt> (2; 1% instances), <tt><a href="fi_ftb-dep-cc-preconj.html">cc:preconj</a></tt> (1; 1% instances), <tt><a href="fi_ftb-dep-det.html">det</a></tt> (1; 1% instances), <tt><a href="fi_ftb-dep-reparandum.html">reparandum</a></tt> (1; 1% instances)
+Children of `DET` nodes are attached using 8 different relations: <tt><a href="fi_ftb-dep-advmod.html">advmod</a></tt> (107; 74% instances), <tt><a href="fi_ftb-dep-conj.html">conj</a></tt> (15; 10% instances), <tt><a href="fi_ftb-dep-punct.html">punct</a></tt> (14; 10% instances), <tt><a href="fi_ftb-dep-advcl.html">advcl</a></tt> (3; 2% instances), <tt><a href="fi_ftb-dep-amod.html">amod</a></tt> (2; 1% instances), <tt><a href="fi_ftb-dep-cc-preconj.html">cc:preconj</a></tt> (1; 1% instances), <tt><a href="fi_ftb-dep-det.html">det</a></tt> (1; 1% instances), <tt><a href="fi_ftb-dep-reparandum.html">reparandum</a></tt> (1; 1% instances)
 
-Children of `DET` nodes belong to 11 different parts of speech: <tt><a href="fi_ftb-pos-ADV.html">ADV</a></tt> (59; 38% instances), <tt><a href="fi_ftb-pos-PART.html">PART</a></tt> (48; 31% instances), <tt><a href="fi_ftb-pos-PUNCT.html">PUNCT</a></tt> (25; 16% instances), <tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> (11; 7% instances), <tt><a href="fi_ftb-pos-DET.html">DET</a></tt> (4; 3% instances), <tt><a href="fi_ftb-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="fi_ftb-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="fi_ftb-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="fi_ftb-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="fi_ftb-pos-X.html">X</a></tt> (1; 1% instances)
+Children of `DET` nodes belong to 11 different parts of speech: <tt><a href="fi_ftb-pos-ADV.html">ADV</a></tt> (59; 41% instances), <tt><a href="fi_ftb-pos-PART.html">PART</a></tt> (48; 33% instances), <tt><a href="fi_ftb-pos-PUNCT.html">PUNCT</a></tt> (14; 10% instances), <tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> (11; 8% instances), <tt><a href="fi_ftb-pos-DET.html">DET</a></tt> (4; 3% instances), <tt><a href="fi_ftb-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="fi_ftb-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="fi_ftb-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="fi_ftb-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="fi_ftb-pos-X.html">X</a></tt> (1; 1% instances)
 

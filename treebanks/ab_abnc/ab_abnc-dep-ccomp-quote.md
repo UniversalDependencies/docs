@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="ab_abnc-dep-ccomp.html">ccomp</a></tt>.
 There are also 6 other language-specific subtypes of `ccomp`: <tt><a href="ab_abnc-dep-ccomp-iobj.html">ccomp:iobj</a></tt>, <tt><a href="ab_abnc-dep-ccomp-lo.html">ccomp:lo</a></tt>, <tt><a href="ab_abnc-dep-ccomp-obj.html">ccomp:obj</a></tt>, <tt><a href="ab_abnc-dep-ccomp-poss.html">ccomp:poss</a></tt>, <tt><a href="ab_abnc-dep-ccomp-purp.html">ccomp:purp</a></tt>, <tt><a href="ab_abnc-dep-ccomp-ro.html">ccomp:ro</a></tt>.
 
-174 nodes (1%) are attached to their parents as `ccomp:quote`.
+182 nodes (1%) are attached to their parents as `ccomp:quote`.
 
-166 instances of `ccomp:quote` (95%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.66091954022988.
+174 instances of `ccomp:quote` (96%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.55494505494505.
 
-The following 6 pairs of parts of speech are connected with `ccomp:quote`: <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> (159; 91% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt> (8; 5% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-ADV.html">ADV</a></tt> (4; 2% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-INTJ.html">INTJ</a></tt> (1; 1% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt> (1; 1% instances).
+The following 6 pairs of parts of speech are connected with `ccomp:quote`: <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> (167; 92% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt> (7; 4% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-ADV.html">ADV</a></tt> (4; 2% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-INTJ.html">INTJ</a></tt> (2; 1% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -39,17 +39,22 @@ The following 6 pairs of parts of speech are connected with `ccomp:quote`: <tt><
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 4 ccomp:quote	color:blue
-1	Алахша	а-лахша́	NOUN	Noun_NH_Sg_Det	Animacy=Nhum|Definite=Def|Number=Sing	5	vocative	_	LMSeg:а-лахша́|SpaceAfter=No
-2	,	,	PUNCT	Punct_Comma	_	5	punct	_	LMSeg:,
-3	унапы	а-напы́	NOUN	Noun_NH_Sg_Poss:2SgM	Animacy=Nhum|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person[psor]=2	4	obj	_	LMSeg:а-напы́
-4	анҵа	анҵа́	NOUN	Noun_NH_Sg_[Det]	Animacy=Nhum|Number=Sing	5	ccomp:quote	_	LMSeg:анҵа́
-5	сҳәеит	а-ҳәара́	VERB	V_Dyn_Tr_Fin_Aor_S:1Sg_DO:3_DO:Ad	Dyn=Yes|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Subcat=Tran|Tense=Aor|VerbForm=Fin	0	root	_	LMSeg:а-ҳәа-ра́|SpaceAfter=No
-6	!	!	PUNCT	Punct_ExclPoint	_	5	punct	_	LMSeg:!
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 2 ccomp:quote	color:blue
+1	–	–	PUNCT	Punct_Dash	_	7	punct	_	LMSeg:–
+2	Афырхаҵа	а-фырха́ҵа	NOUN	Noun_H_Sg_Det	Animacy=Hum|Definite=Def|Number=Sing	7	ccomp:quote	_	LMSeg:а-фырха́ҵа|SpaceAfter=No
+3	,	,	PUNCT	Punct_Comma	_	4	punct	_	LMSeg:,
+4	Ҧачулиа	Ҧачулиа	PROPN	Noun_Prop_Anthr_LastName	NameType=Prs	2	conj	_	LMSeg:Ҧачулиа|SpaceAfter=No
+5	!	!	PUNCT	Punct_ExclPoint	_	2	punct	_	LMSeg:!
+6	–	–	PUNCT	Punct_Dash	_	7	punct	_	LMSeg:–
+7	иҳәеит	а-ҳәара́	VERB	V_Dyn_Tr_Fin_Aor_S:3SgM_DO:3_DO:Ad	Dyn=Yes|Gender[subj]=Masc|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Aor|VerbForm=Fin	0	root	_	LMSeg:а-ҳәа-ра́
+8	Бериа	Бериа	PROPN	Noun_Prop_Anthr_LastName	NameType=Prs	7	nsubj	_	LMSeg:Бериа
+9	дгыланы	а-гы́лара	VERB	V_Dyn_Intr_NonFin_Cnv_Abs_Aor_S:3SgH	Dyn=Yes|Gender[subj]=Com|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Aor|VerbForm=NonFin	10	advcl:conv	_	LMSeg:а-гы́ла-ра
+10	данцоз	а-цара́	VERB	V_Dyn_Intr_NonFin_Cnv_Impf_When_S:3SgH	Dyn=Yes|Gender[subj]=Com|Number[subj]=Sing|Person[subj]=3|RelType=Tmp|Subcat=Intr|Tense=Imp|VerbForm=NonFin	7	advcl	_	LMSeg:а-ца-ра́|SpaceAfter=No
+11	.	.	PUNCT	Punct_Period	_	7	punct	_	LMSeg:.
 
 ~~~
 

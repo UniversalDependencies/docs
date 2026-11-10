@@ -10,7 +10,7 @@ This feature is language-specific.
 It occurs with 1 different values: `Cop`.
 
 32 tokens (7%) have a non-empty value of `VerbType`.
-16 types (7%) occur at least once with a non-empty value of `VerbType`.
+16 types (6%) occur at least once with a non-empty value of `VerbType`.
 1 lemmas (1%) occur at least once with a non-empty value of `VerbType`.
 The feature is used with 1 part-of-speech tags: <tt><a href="sga_dipwbg-pos-AUX.html">AUX</a></tt> (32; 7% instances).
 

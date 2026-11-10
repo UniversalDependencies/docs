@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>może</em> (<tt><a href="pl_pud-pos-V
 
 ## Morphology
 
-The form / lemma ratio of `VERB` is 1.633427 (the average of all parts of speech is 1.436422).
+The form / lemma ratio of `VERB` is 1.633427 (the average of all parts of speech is 1.436234).
 
 The 1st highest number of forms (10) was observed with the lemma “mieć”: <em>Mamy, ma, mają, mam, miał, miała, miało, miały, mieli, mieć</em>.
 

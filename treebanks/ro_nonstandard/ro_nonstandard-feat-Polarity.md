@@ -9,19 +9,19 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Neg`, `Pos`.
 
-64858 tokens (11%) have a non-empty value of `Polarity`.
-3895 types (12%) occur at least once with a non-empty value of `Polarity`.
+64859 tokens (11%) have a non-empty value of `Polarity`.
+3894 types (12%) occur at least once with a non-empty value of `Polarity`.
 1219 lemmas (10%) occur at least once with a non-empty value of `Polarity`.
-The feature is used with 7 part-of-speech tags: <tt><a href="ro_nonstandard-pos-CCONJ.html">CCONJ</a></tt> (32957; 6% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt> (11918; 2% instances), <tt><a href="ro_nonstandard-pos-SCONJ.html">SCONJ</a></tt> (11120; 2% instances), <tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt> (8506; 1% instances), <tt><a href="ro_nonstandard-pos-AUX.html">AUX</a></tt> (355; 0% instances), <tt><a href="ro_nonstandard-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The feature is used with 7 part-of-speech tags: <tt><a href="ro_nonstandard-pos-CCONJ.html">CCONJ</a></tt> (32959; 6% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt> (11917; 2% instances), <tt><a href="ro_nonstandard-pos-SCONJ.html">SCONJ</a></tt> (11120; 2% instances), <tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt> (8506; 1% instances), <tt><a href="ro_nonstandard-pos-AUX.html">AUX</a></tt> (355; 0% instances), <tt><a href="ro_nonstandard-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ro_nonstandard-pos-PART.html">PART</a></tt> (1; 0% instances).
 
 ### `CCONJ`
 
-32957 <tt><a href="ro_nonstandard-pos-CCONJ.html">CCONJ</a></tt> tokens (100% of all `CCONJ` tokens) have a non-empty value of `Polarity`.
+32959 <tt><a href="ro_nonstandard-pos-CCONJ.html">CCONJ</a></tt> tokens (100% of all `CCONJ` tokens) have a non-empty value of `Polarity`.
 
 `CCONJ` tokens may have the following values of `Polarity`:
 
 * `Neg` (600; 2% of non-empty `Polarity`): <em>nici, nece, nice, neci, ce, ci, Nice-, Nîci</em>
-* `Pos` (32357; 98% of non-empty `Polarity`): <em>și, şi, iară, ce, iar, sau, dar, ș-, au, ş-</em>
+* `Pos` (32359; 98% of non-empty `Polarity`): <em>și, şi, iară, ce, iar, sau, dar, ș-, au, ş-</em>
 * `EMPTY` (2): <em>și</em>
 
 <table>
@@ -34,15 +34,15 @@ The feature is used with 7 part-of-speech tags: <tt><a href="ro_nonstandard-pos-
 
 ### `VERB`
 
-11918 <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt> tokens (16% of all `VERB` tokens) have a non-empty value of `Polarity`.
+11917 <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt> tokens (16% of all `VERB` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `VERB` and `Polarity` co-occurred: <tt><a href="ro_nonstandard-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (11918; 100%), <tt><a href="ro_nonstandard-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (9899; 83%), <tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (9899; 83%).
+The most frequent other feature values with which `VERB` and `Polarity` co-occurred: <tt><a href="ro_nonstandard-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (11917; 100%), <tt><a href="ro_nonstandard-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (9898; 83%), <tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (9898; 83%).
 
 `VERB` tokens may have the following values of `Polarity`:
 
 * `Neg` (726; 6% of non-empty `Polarity`): <em>neavînd, lăsa, neștiind, face, neapărată, pleca, da, Neajunse, lua, nescris</em>
-* `Pos` (11192; 94% of non-empty `Polarity`): <em>zicînd, avînd, scris, răspunzînd, văzînd, auzind, făcut, grăind, scrisă, dă</em>
-* `EMPTY` (63205): <em>zise, făcut, face, da, dat, era, zice, veni, luat, avea</em>
+* `Pos` (11191; 94% of non-empty `Polarity`): <em>zicînd, avînd, scris, răspunzînd, văzînd, auzind, făcut, grăind, scrisă, dă</em>
+* `EMPTY` (63210): <em>zise, făcut, face, da, dat, era, zice, veni, luat, avea</em>
 
 <table>
   <tr><th>Paradigm <i>zice</i></th><th><tt>Pos</tt></th><th><tt>Neg</tt></th></tr>
@@ -72,7 +72,7 @@ The most frequent other feature values with which `ADV` and `Polarity` co-occurr
 `ADV` tokens may have the following values of `Polarity`:
 
 * `Neg` (8506; 100% of non-empty `Polarity`): <em>nu, n-, nici, nice, nece, nu-, n, niceodată, niciodată, neceodată</em>
-* `EMPTY` (26090): <em>mai, și, cum, cînd, numai, şi, tot, unde, încă, acolo</em>
+* `EMPTY` (26093): <em>mai, și, cum, cînd, numai, şi, tot, unde, încă, acolo</em>
 
 `Polarity` seems to be **lexical feature** of `ADV`. 100% lemmas (18) occur only with one value of `Polarity`.
 
@@ -86,7 +86,7 @@ The most frequent other feature values with which `AUX` and `Polarity` co-occurr
 
 * `Neg` (31; 9% of non-empty `Polarity`): <em>nefiind, fii, neputînd, neputîndu, fi, neputând, Nefiindu, hii, nefind, neputîndu-</em>
 * `Pos` (324; 91% of non-empty `Polarity`): <em>fiind, fiindu, fii, fîindu, fost, hiind, putîndu, vrut</em>
-* `EMPTY` (31571): <em>au, va, -i, -au, era, am, a, iaste, vor, fi</em>
+* `EMPTY` (31565): <em>au, va, -i, -au, era, am, a, iaste, vor, fi</em>
 
 <table>
   <tr><th>Paradigm <i>fi</i></th><th><tt>Pos</tt></th><th><tt>Neg</tt></th></tr>
@@ -105,18 +105,18 @@ The most frequent other feature values with which `ADP` and `Polarity` co-occurr
 `ADP` tokens may have the following values of `Polarity`:
 
 * `Pos` (1; 100% of non-empty `Polarity`): <em>ca</em>
-* `EMPTY` (66981): <em>de, cu, la, în, pre, din, pe, ca, pentru, după</em>
+* `EMPTY` (66979): <em>de, cu, la, în, pre, din, pe, ca, pentru, după</em>
 
-### `PRON`
+### `PART`
 
-1 <tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> tokens (0% of all `PRON` tokens) have a non-empty value of `Polarity`.
+1 <tt><a href="ro_nonstandard-pos-PART.html">PART</a></tt> tokens (0% of all `PART` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `PRON` and `Polarity` co-occurred: <tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="ro_nonstandard-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="ro_nonstandard-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="ro_nonstandard-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="ro_nonstandard-feat-Strength.html">Strength</a></tt><tt>=EMPTY</tt> (1; 100%).
+The most frequent other feature values with which `PART` and `Polarity` co-occurred: <tt><a href="ro_nonstandard-feat-PartType.html">PartType</a></tt><tt>=EMPTY</tt> (1; 100%).
 
-`PRON` tokens may have the following values of `Polarity`:
+`PART` tokens may have the following values of `Polarity`:
 
-* `Pos` (1; 100% of non-empty `Polarity`): <em>ce</em>
-* `EMPTY` (64626): <em>să, ce, lui, el, -i, -l, s-, lor, ei, carele</em>
+* `Neg` (1; 100% of non-empty `Polarity`): <em>nu</em>
+* `EMPTY` (12455): <em>să, a, s-, să-, -a, a-, se, n-, sâ, -să</em>
 
 ## Relations with Agreement in `Polarity`
 

@@ -23,7 +23,7 @@ The following 16 pairs of parts of speech are connected with `case`: <tt><a href
 # visual-style 2	fgColor:white
 # visual-style 2 3 case	color:blue
 1	Toshkentda	Toshkent	PROPN	_	Case=Loc|Number=Sing	7	obl	_	_
-2	dzyudo	dzyudo	NOUN	_	Case=Nom|Number=Sing	5	obl	_	_
+2	dzyudo	dzyudo	NOUN	_	Case=Nom|Number=Sing	5	nmod	_	_
 3	boʻyicha	boʻyicha	ADP	_	_	2	case	_	_
 4	Gran-pri	gran-pri	NOUN	_	Case=Nom|Number=Sing	5	nmod	_	_
 5	musobaqasi	musobaqa	NOUN	_	Case=Nom|Number=Sing	7	nsubj	_	_

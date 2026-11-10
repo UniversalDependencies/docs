@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-474 nodes (2%) are attached to their parents as `nummod`.
+471 nodes (2%) are attached to their parents as `nummod`.
 
-474 instances of `nummod` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.82067510548523.
+471 instances of `nummod` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.82165605095541.
 
-The following 6 pairs of parts of speech are connected with `nummod`: <tt><a href="zh_beginner-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_beginner-pos-NUM.html">NUM</a></tt> (446; 94% instances), <tt><a href="zh_beginner-pos-NUM.html">NUM</a></tt>-<tt><a href="zh_beginner-pos-NUM.html">NUM</a></tt> (16; 3% instances), <tt><a href="zh_beginner-pos-ADJ.html">ADJ</a></tt>-<tt><a href="zh_beginner-pos-NUM.html">NUM</a></tt> (6; 1% instances), <tt><a href="zh_beginner-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_beginner-pos-NUM.html">NUM</a></tt> (3; 1% instances), <tt><a href="zh_beginner-pos-PROPN.html">PROPN</a></tt>-<tt><a href="zh_beginner-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="zh_beginner-pos-PART.html">PART</a></tt>-<tt><a href="zh_beginner-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 6 pairs of parts of speech are connected with `nummod`: <tt><a href="zh_beginner-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_beginner-pos-NUM.html">NUM</a></tt> (443; 94% instances), <tt><a href="zh_beginner-pos-NUM.html">NUM</a></tt>-<tt><a href="zh_beginner-pos-NUM.html">NUM</a></tt> (16; 3% instances), <tt><a href="zh_beginner-pos-ADJ.html">ADJ</a></tt>-<tt><a href="zh_beginner-pos-NUM.html">NUM</a></tt> (6; 1% instances), <tt><a href="zh_beginner-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_beginner-pos-NUM.html">NUM</a></tt> (3; 1% instances), <tt><a href="zh_beginner-pos-PROPN.html">PROPN</a></tt>-<tt><a href="zh_beginner-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="zh_beginner-pos-PART.html">PART</a></tt>-<tt><a href="zh_beginner-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

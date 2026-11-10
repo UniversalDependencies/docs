@@ -23,18 +23,18 @@ The following 20 pairs of parts of speech are connected with `parataxis`: <tt><a
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 8 parataxis	color:blue
-1	#	#	PUNCT	_	_	5	punct	_	AlignBegin=70083|AlignEnd=70516|Gloss=PUNCT
-2	all	all	PRON	_	_	5	nsubj	_	AlignBegin=70516|AlignEnd=70614|Gloss=all
-3	of	of	ADP	_	_	4	case	_	AlignBegin=70614|AlignEnd=70776|Gloss=of
-4	us	us	PRON	_	Case=Acc|Number=Plur|Person=1|PronType=Prs	2	nmod	_	AlignBegin=70776|AlignEnd=70966|Gloss=ACC.PL.1
-5	say	say	VERB	_	_	0	root	_	AlignBegin=70966|AlignEnd=71098|Gloss=say
-6	[	[	PUNCT	_	_	8	punct	_	AlignBegin=71098|AlignEnd=71098|Gloss=PUNCT
-7	we	we	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	8	nsubj	_	AlignBegin=71098|AlignEnd=71206|Gloss=NOM.PL.1
-8	wan	want	VERB	_	_	5	parataxis	_	AlignBegin=71206|AlignEnd=71376|Gloss=want
-9	go	go	VERB	_	_	8	xcomp	_	AlignBegin=71376|AlignEnd=71546|Gloss=go
-10	school	school	NOUN	_	_	9	obl:arg	_	AlignBegin=71546|AlignEnd=71865|Gloss=school
-11	//]	//]	PUNCT	_	_	8	punct	_	AlignBegin=71865|AlignEnd=71865|Gloss=PUNCT
-12	//	//	PUNCT	_	_	5	punct	_	AlignBegin=71865|AlignEnd=71865|Gloss=PUNCT
+1	#	#	PUNCT	_	_	5	punct	_	Gloss=PUNCT|WordAlignmentBegin=70083|WordAlignmentEnd=70516
+2	all	all	PRON	_	_	5	nsubj	_	Gloss=all|WordAlignmentBegin=70516|WordAlignmentEnd=70614
+3	of	of	ADP	_	_	4	case	_	Gloss=of|WordAlignmentBegin=70614|WordAlignmentEnd=70776
+4	us	us	PRON	_	Case=Acc|Number=Plur|Person=1|PronType=Prs	2	nmod	_	Gloss=ACC.PL.1|WordAlignmentBegin=70776|WordAlignmentEnd=70966
+5	say	say	VERB	_	_	0	root	_	Gloss=say|WordAlignmentBegin=70966|WordAlignmentEnd=71098
+6	[	[	PUNCT	_	_	8	punct	_	Gloss=PUNCT|WordAlignmentBegin=71098|WordAlignmentEnd=71098
+7	we	we	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	8	nsubj	_	Gloss=NOM.PL.1|WordAlignmentBegin=71098|WordAlignmentEnd=71206
+8	wan	want	VERB	_	_	5	parataxis	_	Gloss=want|WordAlignmentBegin=71206|WordAlignmentEnd=71376
+9	go	go	VERB	_	_	8	xcomp	_	Gloss=go|WordAlignmentBegin=71376|WordAlignmentEnd=71546
+10	school	school	NOUN	_	_	9	obl:arg	_	Gloss=school|WordAlignmentBegin=71546|WordAlignmentEnd=71865
+11	//]	//]	PUNCT	_	_	8	punct	_	Gloss=PUNCT|WordAlignmentBegin=71865|WordAlignmentEnd=71865
+12	//	//	PUNCT	_	_	5	punct	_	Gloss=PUNCT|WordAlignmentBegin=71865|WordAlignmentEnd=71865
 
 ~~~
 
@@ -45,15 +45,15 @@ The following 20 pairs of parts of speech are connected with `parataxis`: <tt><a
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 7 parataxis	color:blue
-1	#	#	PUNCT	_	_	4	punct	_	AlignBegin=360493|AlignEnd=361175|Gloss=PUNCT
-2	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	AlignBegin=361175|AlignEnd=361295|Gloss=NOM.SG.1
-3	con	con	AUX	_	Aspect=Cons	4	aux	_	AlignBegin=361295|AlignEnd=361435|Gloss=CONS
-4	say	say	VERB	_	_	0	root	_	AlignBegin=361435|AlignEnd=361585|Gloss=say
-5	[	[	PUNCT	_	_	7	punct	_	AlignBegin=361585|AlignEnd=361855|Gloss=PUNCT
-6	some	some	DET	_	_	7	det	_	AlignBegin=361585|AlignEnd=361855|Gloss=some
-7	week	week	NOUN	_	_	4	parataxis	_	AlignBegin=361855|AlignEnd=362075|Gloss=week
-8	?//]	?//]	PUNCT	_	_	7	punct	_	AlignBegin=362075|AlignEnd=362075|Gloss=PUNCT
-9	//	//	PUNCT	_	_	4	punct	_	AlignBegin=362045|AlignEnd=362075|Gloss=PUNCT
+1	#	#	PUNCT	_	_	4	punct	_	Gloss=PUNCT|WordAlignmentBegin=360493|WordAlignmentEnd=361175
+2	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	Gloss=NOM.SG.1|WordAlignmentBegin=361175|WordAlignmentEnd=361295
+3	con	con	AUX	_	Aspect=Cons	4	aux	_	Gloss=CONS|WordAlignmentBegin=361295|WordAlignmentEnd=361435
+4	say	say	VERB	_	_	0	root	_	Gloss=say|WordAlignmentBegin=361435|WordAlignmentEnd=361585
+5	[	[	PUNCT	_	_	7	punct	_	Gloss=PUNCT|WordAlignmentBegin=361585|WordAlignmentEnd=361855
+6	some	some	DET	_	_	7	det	_	Gloss=some|WordAlignmentBegin=361585|WordAlignmentEnd=361855
+7	week	week	NOUN	_	_	4	parataxis	_	Gloss=week|WordAlignmentBegin=361855|WordAlignmentEnd=362075
+8	?//]	?//]	PUNCT	_	_	7	punct	_	Gloss=PUNCT|WordAlignmentBegin=362075|WordAlignmentEnd=362075
+9	//	//	PUNCT	_	_	4	punct	_	Gloss=PUNCT|WordAlignmentBegin=362045|WordAlignmentEnd=362075
 
 ~~~
 
@@ -64,11 +64,11 @@ The following 20 pairs of parts of speech are connected with `parataxis`: <tt><a
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 4 parataxis	color:blue
-1	#	#	PUNCT	_	_	3	punct	_	AlignBegin=93860|AlignEnd=94428|Gloss=PUNCT
-2	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	AlignBegin=94428|AlignEnd=94519|Gloss=NOM.SG.1
-3	say	say	VERB	_	_	0	root	_	AlignBegin=94519|AlignEnd=94649|Gloss=say
-4	okay	OK	INTJ	_	_	3	parataxis	_	AlignBegin=94649|AlignEnd=94899|Gloss=OK
-5	//	//	PUNCT	_	_	3	punct	_	AlignBegin=94899|AlignEnd=94899|Gloss=PUNCT
+1	#	#	PUNCT	_	_	3	punct	_	Gloss=PUNCT|WordAlignmentBegin=93860|WordAlignmentEnd=94428
+2	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Gloss=NOM.SG.1|WordAlignmentBegin=94428|WordAlignmentEnd=94519
+3	say	say	VERB	_	_	0	root	_	Gloss=say|WordAlignmentBegin=94519|WordAlignmentEnd=94649
+4	okay	OK	INTJ	_	_	3	parataxis	_	Gloss=OK|WordAlignmentBegin=94649|WordAlignmentEnd=94899
+5	//	//	PUNCT	_	_	3	punct	_	Gloss=PUNCT|WordAlignmentBegin=94899|WordAlignmentEnd=94899
 
 ~~~
 

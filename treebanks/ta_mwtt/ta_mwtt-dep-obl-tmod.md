@@ -12,9 +12,9 @@ There are also 6 other language-specific subtypes of `obl`: <tt><a href="ta_mwtt
 45 nodes (2%) are attached to their parents as `obl:tmod`.
 
 45 instances of `obl:tmod` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.97777777777778.
+Average distance between parent and child is 2.
 
-The following 4 pairs of parts of speech are connected with `obl:tmod`: <tt><a href="ta_mwtt-pos-VERB.html">VERB</a></tt>-<tt><a href="ta_mwtt-pos-NOUN.html">NOUN</a></tt> (26; 58% instances), <tt><a href="ta_mwtt-pos-VERB.html">VERB</a></tt>-<tt><a href="ta_mwtt-pos-ADV.html">ADV</a></tt> (13; 29% instances), <tt><a href="ta_mwtt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ta_mwtt-pos-NOUN.html">NOUN</a></tt> (5; 11% instances), <tt><a href="ta_mwtt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ta_mwtt-pos-ADV.html">ADV</a></tt> (1; 2% instances).
+The following 3 pairs of parts of speech are connected with `obl:tmod`: <tt><a href="ta_mwtt-pos-VERB.html">VERB</a></tt>-<tt><a href="ta_mwtt-pos-NOUN.html">NOUN</a></tt> (26; 58% instances), <tt><a href="ta_mwtt-pos-VERB.html">VERB</a></tt>-<tt><a href="ta_mwtt-pos-ADV.html">ADV</a></tt> (14; 31% instances), <tt><a href="ta_mwtt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ta_mwtt-pos-NOUN.html">NOUN</a></tt> (5; 11% instances).
 
 
 ~~~ conllu

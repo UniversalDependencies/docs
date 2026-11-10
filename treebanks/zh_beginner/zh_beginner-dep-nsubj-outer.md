@@ -73,7 +73,7 @@ The following 6 pairs of parts of speech are connected with `nsubj:outer`: <tt><
 10	是	是	AUX	_	_	14	cop	_	SpaceAfter=No|Tone=4|Translit=shì
 11	辆	辆	NOUN	_	_	12	obj	_	SpaceAfter=No|Tone=4|Translit=liàng
 12	普通	普通	ADJ	_	_	14	nmod	_	SpaceAfter=No|Tone=3_1|Translit=pǔ_tōng
-13	的	的	PART	_	Case=Gen	11	case	_	SpaceAfter=No|Tone=5|Translit=de
+13	的	的	PART	_	Case=Gen	12	case	_	SpaceAfter=No|Tone=5|Translit=de
 14	汽车	汽车	NOUN	_	_	6	parataxis	_	SpaceAfter=No|Tone=4_1|Translit=qì_chē
 15	而已	而已	SCONJ	_	_	14	discourse	_	Grammar_Target=Yes|SpaceAfter=No|Tone=2_3|Translit=ér_yǐ
 16	。	。	PUNCT	_	_	14	punct	_	SpaceAfter=No|Translit=。

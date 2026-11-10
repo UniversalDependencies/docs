@@ -10,7 +10,7 @@ This feature is universal.
 It occurs with 7 different values: `Dem`, `Ind`, `Int`, `Neg`, `Prs`, `Rel`, `Tot`.
 
 29037 tokens (8%) have a non-empty value of `PronType`.
-625 types (1%) occur at least once with a non-empty value of `PronType`.
+624 types (1%) occur at least once with a non-empty value of `PronType`.
 111 lemmas (0%) occur at least once with a non-empty value of `PronType`.
 The feature is used with 3 part-of-speech tags: <tt><a href="pl_pdb-pos-PRON.html">PRON</a></tt> (16480; 5% instances), <tt><a href="pl_pdb-pos-DET.html">DET</a></tt> (9348; 3% instances), <tt><a href="pl_pdb-pos-ADV.html">ADV</a></tt> (3209; 1% instances).
 
@@ -134,7 +134,7 @@ The most frequent other feature values with which `ADV` and `PronType` co-occurr
 * `Neg` (142; 4% of non-empty `PronType`): <em>nigdy, nigdzie</em>
 * `Rel` (306; 10% of non-empty `PronType`): <em>kiedy, gdzie, jak, skąd</em>
 * `Tot` (159; 5% of non-empty `PronType`): <em>zawsze, wszędzie</em>
-* `EMPTY` (8227): <em>gdy, bardzo, teraz, potem, bardziej, wczoraj, dziś, dobrze, zbyt, zgodnie</em>
+* `EMPTY` (8192): <em>gdy, bardzo, teraz, potem, bardziej, wczoraj, dziś, dobrze, zbyt, zgodnie</em>
 
 <table>
   <tr><th>Paradigm <i>kiedy</i></th><th><tt>Int</tt></th><th><tt>Rel</tt></th></tr>

@@ -8,23 +8,25 @@ udver: '2'
 
 This feature is universal.
 It occurs with 2 different values: `Imp`, `Perf`.
+Some words have combined values of the feature; 1 combinations have been observed: `Imp|Perf`.
 
-1926 tokens (10%) have a non-empty value of `Aspect`.
-1078 types (14%) occur at least once with a non-empty value of `Aspect`.
-717 lemmas (14%) occur at least once with a non-empty value of `Aspect`.
-The feature is used with 4 part-of-speech tags: <tt><a href="cs_pud-pos-VERB.html">VERB</a></tt> (1059; 6% instances), <tt><a href="cs_pud-pos-AUX.html">AUX</a></tt> (682; 4% instances), <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> (184; 1% instances), <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+2780 tokens (15%) have a non-empty value of `Aspect`.
+1622 types (21%) occur at least once with a non-empty value of `Aspect`.
+999 lemmas (19%) occur at least once with a non-empty value of `Aspect`.
+The feature is used with 4 part-of-speech tags: <tt><a href="cs_pud-pos-VERB.html">VERB</a></tt> (1710; 9% instances), <tt><a href="cs_pud-pos-AUX.html">AUX</a></tt> (682; 4% instances), <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> (387; 2% instances), <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 ### `VERB`
 
-1059 <tt><a href="cs_pud-pos-VERB.html">VERB</a></tt> tokens (62% of all `VERB` tokens) have a non-empty value of `Aspect`.
+1710 <tt><a href="cs_pud-pos-VERB.html">VERB</a></tt> tokens (99% of all `VERB` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (1016; 96%), <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (944; 89%), <tt><a href="cs_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (861; 81%), <tt><a href="cs_pud-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (707; 67%), <tt><a href="cs_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (707; 67%), <tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (550; 52%).
+The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (1621; 95%), <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (1525; 89%), <tt><a href="cs_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1419; 83%), <tt><a href="cs_pud-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (1162; 68%), <tt><a href="cs_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1162; 68%), <tt><a href="cs_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (870; 51%), <tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (869; 51%).
 
 `VERB` tokens may have the following values of `Aspect`:
 
-* `Imp` (645; 61% of non-empty `Aspect`): <em>říká, obsahuje, pomáhá, pracoval, ukazuje, existují, patří, pokračovat, tvrdí, dělat</em>
-* `Perf` (414; 39% of non-empty `Aspect`): <em>rozhodl, vrátil, objevil, opustit, vydala, získat, navštívil, rozhodli, setkal, udělat</em>
-* `EMPTY` (660): <em>řekl, má, může, mohou, mají, mohl, měl, stal, lze, mít</em>
+* `Imp` (947; 55% of non-empty `Aspect`): <em>má, může, říká, mohou, mají, mohl, měl, lze, mít, obsahuje</em>
+* `Imp,Perf` (24; 1% of non-empty `Aspect`): <em>informoval, absorbují, charakterizovala, degradovalo, eliminuje, emigrovali, informovaly, inscenovat, integrovala, interpretovala</em>
+* `Perf` (739; 43% of non-empty `Aspect`): <em>řekl, stal, stala, uvedla, rozhodl, uvedl, vrátil, začal, dostal, ukázala</em>
+* `EMPTY` (9): <em>myslel, mysleli, myslet, nemyslel, přepluly, uhnala, vymyslel, zamyslela</em>
 
 <table>
   <tr><th>Paradigm <i>rozvíjet</i></th><th><tt>Imp</tt></th><th><tt>Perf</tt></th></tr>
@@ -32,7 +34,7 @@ The most frequent other feature values with which `VERB` and `Aspect` co-occurre
   <tr><td><tt><tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Inf</tt></tt></td><td><em>rozvíjet</em></td><td></td></tr>
 </table>
 
-`Aspect` seems to be **lexical feature** of `VERB`. 100% lemmas (571) occur only with one value of `Aspect`.
+`Aspect` seems to be **lexical feature** of `VERB`. 100% lemmas (728) occur only with one value of `Aspect`.
 
 ### `AUX`
 
@@ -46,17 +48,18 @@ The most frequent other feature values with which `AUX` and `Aspect` co-occurred
 
 ### `ADJ`
 
-184 <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> tokens (8% of all `ADJ` tokens) have a non-empty value of `Aspect`.
+387 <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> tokens (17% of all `ADJ` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `ADJ` and `Aspect` co-occurred: <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (184; 100%), <tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (184; 100%), <tt><a href="cs_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (122; 66%), <tt><a href="cs_pud-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (121; 66%), <tt><a href="cs_pud-feat-Voice.html">Voice</a></tt><tt>=Pass</tt> (121; 66%), <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (118; 64%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (96; 52%).
+The most frequent other feature values with which `ADJ` and `Aspect` co-occurred: <tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (386; 100%), <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (379; 98%), <tt><a href="cs_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (323; 83%), <tt><a href="cs_pud-feat-Voice.html">Voice</a></tt><tt>=Pass</tt> (323; 83%), <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (240; 62%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (211; 55%), <tt><a href="cs_pud-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (201; 52%).
 
 `ADJ` tokens may have the following values of `Aspect`:
 
-* `Imp` (105; 57% of non-empty `Aspect`): <em>vedoucí, následující, používán, považováno, považovány, probíhající, sestávající, studujících, aktivovány, budoucího</em>
-* `Perf` (79; 43% of non-empty `Aspect`): <em>nabídnuto, označen, prodán, rozděleno, vytvořen, vytvořena, založena, zamítnuto, dovoleno, namontován</em>
-* `EMPTY` (2085): <em>první, další, nové, jižní, druhé, severní, hlavní, velká, velké, vlastní</em>
+* `Imp` (133; 34% of non-empty `Aspect`): <em>vedoucí, následující, používán, považováno, považovány, probíhající, psáno, sestávající, studujících, aktivovány</em>
+* `Imp,Perf` (18; 5% of non-empty `Aspect`): <em>kvalifikovaných, Konzultované, definována, informován, inspirovaná, investované, investováno, jmenovaný, nejmenovaný, nekvalifikovaný</em>
+* `Perf` (236; 61% of non-empty `Aspect`): <em>Spojených, řečeno, propuštěn, Spojené, Spojeným, nabídnuto, otevřenou, otevřená, označen, poražena</em>
+* `EMPTY` (1882): <em>první, další, nové, jižní, druhé, severní, hlavní, velká, velké, vlastní</em>
 
-`Aspect` seems to be **lexical feature** of `ADJ`. 100% lemmas (143) occur only with one value of `Aspect`.
+`Aspect` seems to be **lexical feature** of `ADJ`. 100% lemmas (268) occur only with one value of `Aspect`.
 
 ### `NOUN`
 
@@ -72,8 +75,14 @@ The most frequent other feature values with which `NOUN` and `Aspect` co-occurre
 ## Relations with Agreement in `Aspect`
 
 The 10 most frequent relations where parent and child node agree in `Aspect`:
-<tt>VERB --[<tt><a href="cs_pud-dep-csubj-pass.html">csubj:pass</a></tt>]--> VERB</tt> (5; 83%),
+<tt>VERB --[<tt><a href="cs_pud-dep-conj.html">conj</a></tt>]--> VERB</tt> (124; 69%),
+<tt>VERB --[<tt><a href="cs_pud-dep-aux.html">aux</a></tt>]--> AUX</tt> (93; 68%),
+<tt>VERB --[<tt><a href="cs_pud-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (54; 61%),
+<tt>ADJ --[<tt><a href="cs_pud-dep-conj.html">conj</a></tt>]--> ADJ</tt> (8; 57%),
+<tt>VERB --[<tt><a href="cs_pud-dep-csubj-pass.html">csubj:pass</a></tt>]--> VERB</tt> (6; 86%),
+<tt>AUX --[<tt><a href="cs_pud-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (2; 100%),
 <tt>AUX --[<tt><a href="cs_pud-dep-conj.html">conj</a></tt>]--> VERB</tt> (2; 100%),
 <tt>AUX --[<tt><a href="cs_pud-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (1; 100%),
-<tt>VERB --[<tt><a href="cs_pud-dep-ccomp.html">ccomp</a></tt>]--> AUX</tt> (1; 100%).
+<tt>VERB --[<tt><a href="cs_pud-dep-ccomp.html">ccomp</a></tt>]--> AUX</tt> (1; 100%),
+<tt>VERB --[<tt><a href="cs_pud-dep-compound.html">compound</a></tt>]--> ADJ</tt> (1; 100%).
 

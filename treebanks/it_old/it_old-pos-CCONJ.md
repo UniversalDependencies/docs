@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Italian-Old: POS Tags: `CCONJ`
 
-There are 14 `CCONJ` lemmas (0%), 18 `CCONJ` types (0%) and 5133 `CCONJ` tokens (4%).
+There are 14 `CCONJ` lemmas (0%), 18 `CCONJ` types (0%) and 5138 `CCONJ` tokens (4%).
 Out of 16 observed tags, the rank of `CCONJ` is: 13 in number of lemmas, 13 in number of types and 9 in number of tokens.
 
-The 10 most frequent `CCONJ` lemmas: <em>e, ma, né, o, onde, però, dunque, ora, anzi, ovvero</em>
+The 10 most frequent `CCONJ` lemmas: <em>e, ma, né, o, onde, però, dunque, ora, ovvero, anzi</em>
 
 The 10 most frequent `CCONJ` types:  <em>e, ma, né, o, ed, però, ond', onde, dunque, or</em>
 
-The 10 most frequent ambiguous lemmas: <em>e</em> (<tt><a href="it_old-pos-CCONJ.html">CCONJ</a></tt> 4185, <tt><a href="it_old-pos-SCONJ.html">SCONJ</a></tt> 4), <em>ma</em> (<tt><a href="it_old-pos-CCONJ.html">CCONJ</a></tt> 501, <tt><a href="it_old-pos-SCONJ.html">SCONJ</a></tt> 4), <em>né</em> (<tt><a href="it_old-pos-CCONJ.html">CCONJ</a></tt> 167, <tt><a href="it_old-pos-SCONJ.html">SCONJ</a></tt> 6), <em>o</em> (<tt><a href="it_old-pos-CCONJ.html">CCONJ</a></tt> 167, <tt><a href="it_old-pos-PART.html">PART</a></tt> 75, <tt><a href="it_old-pos-INTJ.html">INTJ</a></tt> 69, <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="it_old-pos-X.html">X</a></tt> 2, <tt><a href="it_old-pos-SCONJ.html">SCONJ</a></tt> 1), <em>onde</em> (<tt><a href="it_old-pos-ADV.html">ADV</a></tt> 110, <tt><a href="it_old-pos-PRON.html">PRON</a></tt> 89, <tt><a href="it_old-pos-CCONJ.html">CCONJ</a></tt> 39, <tt><a href="it_old-pos-SCONJ.html">SCONJ</a></tt> 22, <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> 1), <em>però</em> (<tt><a href="it_old-pos-ADV.html">ADV</a></tt> 113, <tt><a href="it_old-pos-CCONJ.html">CCONJ</a></tt> 29, <tt><a href="it_old-pos-SCONJ.html">SCONJ</a></tt> 21), <em>dunque</em> (<tt><a href="it_old-pos-CCONJ.html">CCONJ</a></tt> 17, <tt><a href="it_old-pos-ADV.html">ADV</a></tt> 7, <tt><a href="it_old-pos-SCONJ.html">SCONJ</a></tt> 3), <em>ora</em> (<tt><a href="it_old-pos-ADV.html">ADV</a></tt> 195, <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> 37, <tt><a href="it_old-pos-CCONJ.html">CCONJ</a></tt> 16, <tt><a href="it_old-pos-SCONJ.html">SCONJ</a></tt> 1), <em>anzi</em> (<tt><a href="it_old-pos-ADV.html">ADV</a></tt> 11, <tt><a href="it_old-pos-ADP.html">ADP</a></tt> 7, <tt><a href="it_old-pos-CCONJ.html">CCONJ</a></tt> 5, <tt><a href="it_old-pos-SCONJ.html">SCONJ</a></tt> 4), <em>ovvero</em> (<tt><a href="it_old-pos-CCONJ.html">CCONJ</a></tt> 3, <tt><a href="it_old-pos-SCONJ.html">SCONJ</a></tt> 2, <tt><a href="it_old-pos-ADV.html">ADV</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>e</em> (<tt><a href="it_old-pos-CCONJ.html">CCONJ</a></tt> 4185, <tt><a href="it_old-pos-SCONJ.html">SCONJ</a></tt> 4), <em>ma</em> (<tt><a href="it_old-pos-CCONJ.html">CCONJ</a></tt> 501, <tt><a href="it_old-pos-SCONJ.html">SCONJ</a></tt> 4), <em>né</em> (<tt><a href="it_old-pos-CCONJ.html">CCONJ</a></tt> 167, <tt><a href="it_old-pos-SCONJ.html">SCONJ</a></tt> 6), <em>o</em> (<tt><a href="it_old-pos-CCONJ.html">CCONJ</a></tt> 167, <tt><a href="it_old-pos-PART.html">PART</a></tt> 75, <tt><a href="it_old-pos-INTJ.html">INTJ</a></tt> 69, <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="it_old-pos-X.html">X</a></tt> 2, <tt><a href="it_old-pos-SCONJ.html">SCONJ</a></tt> 1), <em>onde</em> (<tt><a href="it_old-pos-ADV.html">ADV</a></tt> 110, <tt><a href="it_old-pos-PRON.html">PRON</a></tt> 89, <tt><a href="it_old-pos-CCONJ.html">CCONJ</a></tt> 39, <tt><a href="it_old-pos-SCONJ.html">SCONJ</a></tt> 22, <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> 1), <em>però</em> (<tt><a href="it_old-pos-ADV.html">ADV</a></tt> 113, <tt><a href="it_old-pos-CCONJ.html">CCONJ</a></tt> 29, <tt><a href="it_old-pos-SCONJ.html">SCONJ</a></tt> 21), <em>dunque</em> (<tt><a href="it_old-pos-CCONJ.html">CCONJ</a></tt> 17, <tt><a href="it_old-pos-ADV.html">ADV</a></tt> 7, <tt><a href="it_old-pos-SCONJ.html">SCONJ</a></tt> 3), <em>ora</em> (<tt><a href="it_old-pos-ADV.html">ADV</a></tt> 195, <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> 37, <tt><a href="it_old-pos-CCONJ.html">CCONJ</a></tt> 16, <tt><a href="it_old-pos-SCONJ.html">SCONJ</a></tt> 1), <em>anzi</em> (<tt><a href="it_old-pos-ADV.html">ADV</a></tt> 11, <tt><a href="it_old-pos-ADP.html">ADP</a></tt> 7, <tt><a href="it_old-pos-CCONJ.html">CCONJ</a></tt> 5, <tt><a href="it_old-pos-SCONJ.html">SCONJ</a></tt> 4), <em>quando</em> (<tt><a href="it_old-pos-SCONJ.html">SCONJ</a></tt> 304, <tt><a href="it_old-pos-ADV.html">ADV</a></tt> 23, <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="it_old-pos-CCONJ.html">CCONJ</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>e</em> (<tt><a href="it_old-pos-CCONJ.html">CCONJ</a></tt> 3648, <tt><a href="it_old-pos-SCONJ.html">SCONJ</a></tt> 4, <tt><a href="it_old-pos-X.html">X</a></tt> 1), <em>ma</em> (<tt><a href="it_old-pos-CCONJ.html">CCONJ</a></tt> 359, <tt><a href="it_old-pos-SCONJ.html">SCONJ</a></tt> 4, <tt><a href="it_old-pos-DET.html">DET</a></tt> 1), <em>né</em> (<tt><a href="it_old-pos-CCONJ.html">CCONJ</a></tt> 150, <tt><a href="it_old-pos-SCONJ.html">SCONJ</a></tt> 5), <em>o</em> (<tt><a href="it_old-pos-CCONJ.html">CCONJ</a></tt> 161, <tt><a href="it_old-pos-PART.html">PART</a></tt> 18, <tt><a href="it_old-pos-INTJ.html">INTJ</a></tt> 7, <tt><a href="it_old-pos-SCONJ.html">SCONJ</a></tt> 1, <tt><a href="it_old-pos-X.html">X</a></tt> 1), <em>però</em> (<tt><a href="it_old-pos-ADV.html">ADV</a></tt> 91, <tt><a href="it_old-pos-CCONJ.html">CCONJ</a></tt> 19, <tt><a href="it_old-pos-SCONJ.html">SCONJ</a></tt> 17), <em>ond'</em> (<tt><a href="it_old-pos-PRON.html">PRON</a></tt> 43, <tt><a href="it_old-pos-ADV.html">ADV</a></tt> 37, <tt><a href="it_old-pos-CCONJ.html">CCONJ</a></tt> 9, <tt><a href="it_old-pos-SCONJ.html">SCONJ</a></tt> 6), <em>onde</em> (<tt><a href="it_old-pos-ADV.html">ADV</a></tt> 51, <tt><a href="it_old-pos-PRON.html">PRON</a></tt> 46, <tt><a href="it_old-pos-CCONJ.html">CCONJ</a></tt> 14, <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> 10, <tt><a href="it_old-pos-SCONJ.html">SCONJ</a></tt> 10), <em>dunque</em> (<tt><a href="it_old-pos-CCONJ.html">CCONJ</a></tt> 7, <tt><a href="it_old-pos-ADV.html">ADV</a></tt> 6, <tt><a href="it_old-pos-SCONJ.html">SCONJ</a></tt> 3), <em>or</em> (<tt><a href="it_old-pos-ADV.html">ADV</a></tt> 92, <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="it_old-pos-CCONJ.html">CCONJ</a></tt> 1), <em>anzi</em> (<tt><a href="it_old-pos-ADV.html">ADV</a></tt> 10, <tt><a href="it_old-pos-ADP.html">ADP</a></tt> 7, <tt><a href="it_old-pos-CCONJ.html">CCONJ</a></tt> 4, <tt><a href="it_old-pos-SCONJ.html">SCONJ</a></tt> 3)
 
@@ -66,7 +66,7 @@ The 10 most frequent ambiguous types:  <em>e</em> (<tt><a href="it_old-pos-CCONJ
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.285714 (the average of all parts of speech is 1.950381).
+The form / lemma ratio of `CCONJ` is 1.285714 (the average of all parts of speech is 1.951202).
 
 The 1st highest number of forms (2) was observed with the lemma “e”: <em>e, ed</em>.
 
@@ -74,18 +74,24 @@ The 2nd highest number of forms (2) was observed with the lemma “o”: <em>o, 
 
 The 3rd highest number of forms (2) was observed with the lemma “onde”: <em>ond', onde</em>.
 
-`CCONJ` does not occur with any features.
+`CCONJ` occurs with 1 features: <tt><a href="it_old-feat-ExtPos.html">ExtPos</a></tt> (8; 0% instances)
+
+`CCONJ` occurs with 1 feature-value pairs: `ExtPos=CCONJ`
+
+`CCONJ` occurs with 2 feature combinations.
+The most frequent feature combination is `_` (5130 tokens).
+Examples: <em>e, ma, né, ed, o, però, ond', onde, dunque, or</em>
 
 
 ## Relations
 
-`CCONJ` nodes are attached to their parents using 11 different relations: <tt><a href="it_old-dep-cc.html">cc</a></tt> (5067; 99% instances), <tt><a href="it_old-dep-mark.html">mark</a></tt> (25; 0% instances), <tt><a href="it_old-dep-advmod.html">advmod</a></tt> (20; 0% instances), <tt><a href="it_old-dep-discourse.html">discourse</a></tt> (7; 0% instances), <tt><a href="it_old-dep-obl.html">obl</a></tt> (4; 0% instances), <tt><a href="it_old-dep-case.html">case</a></tt> (2; 0% instances), <tt><a href="it_old-dep-conj.html">conj</a></tt> (2; 0% instances), <tt><a href="it_old-dep-fixed.html">fixed</a></tt> (2; 0% instances), <tt><a href="it_old-dep-orphan.html">orphan</a></tt> (2; 0% instances), <tt><a href="it_old-dep-advmod-lmod.html">advmod:lmod</a></tt> (1; 0% instances), <tt><a href="it_old-dep-advmod-tmod.html">advmod:tmod</a></tt> (1; 0% instances)
+`CCONJ` nodes are attached to their parents using 11 different relations: <tt><a href="it_old-dep-cc.html">cc</a></tt> (5066; 99% instances), <tt><a href="it_old-dep-mark.html">mark</a></tt> (25; 0% instances), <tt><a href="it_old-dep-advmod.html">advmod</a></tt> (20; 0% instances), <tt><a href="it_old-dep-fixed.html">fixed</a></tt> (8; 0% instances), <tt><a href="it_old-dep-discourse.html">discourse</a></tt> (7; 0% instances), <tt><a href="it_old-dep-obl.html">obl</a></tt> (4; 0% instances), <tt><a href="it_old-dep-case.html">case</a></tt> (2; 0% instances), <tt><a href="it_old-dep-conj.html">conj</a></tt> (2; 0% instances), <tt><a href="it_old-dep-orphan.html">orphan</a></tt> (2; 0% instances), <tt><a href="it_old-dep-advmod-lmod.html">advmod:lmod</a></tt> (1; 0% instances), <tt><a href="it_old-dep-advmod-tmod.html">advmod:tmod</a></tt> (1; 0% instances)
 
-Parents of `CCONJ` nodes belong to 12 different parts of speech: <tt><a href="it_old-pos-VERB.html">VERB</a></tt> (2984; 58% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> (1001; 20% instances), <tt><a href="it_old-pos-ADJ.html">ADJ</a></tt> (404; 8% instances), <tt><a href="it_old-pos-PRON.html">PRON</a></tt> (344; 7% instances), <tt><a href="it_old-pos-PROPN.html">PROPN</a></tt> (208; 4% instances), <tt><a href="it_old-pos-ADV.html">ADV</a></tt> (115; 2% instances), <tt><a href="it_old-pos-DET.html">DET</a></tt> (42; 1% instances), <tt><a href="it_old-pos-NUM.html">NUM</a></tt> (22; 0% instances), <tt><a href="it_old-pos-AUX.html">AUX</a></tt> (7; 0% instances), <tt><a href="it_old-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="it_old-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="it_old-pos-X.html">X</a></tt> (2; 0% instances)
+Parents of `CCONJ` nodes belong to 12 different parts of speech: <tt><a href="it_old-pos-VERB.html">VERB</a></tt> (2984; 58% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> (1000; 19% instances), <tt><a href="it_old-pos-ADJ.html">ADJ</a></tt> (405; 8% instances), <tt><a href="it_old-pos-PRON.html">PRON</a></tt> (344; 7% instances), <tt><a href="it_old-pos-PROPN.html">PROPN</a></tt> (208; 4% instances), <tt><a href="it_old-pos-ADV.html">ADV</a></tt> (115; 2% instances), <tt><a href="it_old-pos-DET.html">DET</a></tt> (41; 1% instances), <tt><a href="it_old-pos-NUM.html">NUM</a></tt> (22; 0% instances), <tt><a href="it_old-pos-CCONJ.html">CCONJ</a></tt> (8; 0% instances), <tt><a href="it_old-pos-AUX.html">AUX</a></tt> (7; 0% instances), <tt><a href="it_old-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="it_old-pos-X.html">X</a></tt> (2; 0% instances)
 
-5096 (99%) `CCONJ` nodes are leaves.
+5097 (99%) `CCONJ` nodes are leaves.
 
-34 (1%) `CCONJ` nodes have one child.
+38 (1%) `CCONJ` nodes have one child.
 
 2 (0%) `CCONJ` nodes have two children.
 
@@ -93,7 +99,7 @@ Parents of `CCONJ` nodes belong to 12 different parts of speech: <tt><a href="it
 
 The highest child degree of a `CCONJ` node is 5.
 
-Children of `CCONJ` nodes are attached using 4 different relations: <tt><a href="it_old-dep-punct.html">punct</a></tt> (35; 81% instances), <tt><a href="it_old-dep-fixed.html">fixed</a></tt> (4; 9% instances), <tt><a href="it_old-dep-ccomp-reported.html">ccomp:reported</a></tt> (2; 5% instances), <tt><a href="it_old-dep-orphan.html">orphan</a></tt> (2; 5% instances)
+Children of `CCONJ` nodes are attached using 4 different relations: <tt><a href="it_old-dep-punct.html">punct</a></tt> (35; 74% instances), <tt><a href="it_old-dep-fixed.html">fixed</a></tt> (8; 17% instances), <tt><a href="it_old-dep-ccomp-reported.html">ccomp:reported</a></tt> (2; 4% instances), <tt><a href="it_old-dep-orphan.html">orphan</a></tt> (2; 4% instances)
 
-Children of `CCONJ` nodes belong to 5 different parts of speech: <tt><a href="it_old-pos-PUNCT.html">PUNCT</a></tt> (35; 81% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt> (3; 7% instances), <tt><a href="it_old-pos-CCONJ.html">CCONJ</a></tt> (2; 5% instances), <tt><a href="it_old-pos-SCONJ.html">SCONJ</a></tt> (2; 5% instances), <tt><a href="it_old-pos-X.html">X</a></tt> (1; 2% instances)
+Children of `CCONJ` nodes belong to 4 different parts of speech: <tt><a href="it_old-pos-PUNCT.html">PUNCT</a></tt> (35; 74% instances), <tt><a href="it_old-pos-CCONJ.html">CCONJ</a></tt> (8; 17% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt> (3; 6% instances), <tt><a href="it_old-pos-X.html">X</a></tt> (1; 2% instances)
 

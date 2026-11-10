@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.12 release
 The following people have contributed to making this treebank part of UD: Adrian Doyle.
 
 Repository: [UD_Old_Irish-DipWBG](https://github.com/UniversalDependencies/UD_Old_Irish-DipWBG)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsga_dipwbg218)<br />
-Download all treebanks: [UD 2.18](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsga_dipwbg219)<br />
+Download all treebanks: [UD 2.19](/#download)
 
 License: CC BY-SA 4.0
 
@@ -88,11 +88,11 @@ This research has been supported by NUIG through the Digital Arts and Humanities
 
 
 <ul>
-<li>This corpus contains 34 sentences and 438 tokens.</li>
+<li>This corpus contains 34 sentences and 441 tokens.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 168 tokens (38%) that are not followed by a space.</li>
+<li>This corpus contains 171 tokens (39%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -116,7 +116,7 @@ This research has been supported by NUIG through the Digital Arts and Humanities
 </ul>
 
 <ul>
-<li>This corpus contains 22 word types tagged as particles (PART): a, as, at, con, d, do, eter, hí, in, int, nas, ni, nno, no, ní, r, ro, se, sin, siu, so, to</li>
+<li>This corpus contains 23 word types tagged as particles (PART): a, as, at, con, d, do, eter, hí, in, int, nas, ni, nno, no, nro, ní, r, ro, se, sin, siu, so, to</li>
 </ul>
 
 <ul>
@@ -201,7 +201,7 @@ This research has been supported by NUIG through the Digital Arts and Humanities
       <li>NOUN: belre, biada, béssu, comairli, dánu, fochidi, gnímu, mban, soscéli, tol</li>
       <li>PRON: si, for, ar, far, ni, b, n, ndob, s</li>
       <li>PROPN: maccidóndu</li>
-      <li>VERB: amlid, chretsit, fulsam, gaibid, gessam, gigeste, nducaid, nropridchissem, riat, rocomalnisid</li>
+      <li>VERB: amlid, chretsit, comalnisid, fulsam, gaibid, gessam, gigeste, nducaid, pridchissem, riat</li>
     </ul>
   </li>
 </ul>
@@ -215,7 +215,7 @@ This research has been supported by NUIG through the Digital Arts and Humanities
       <li>DET: a, in, ind</li>
       <li>NOUN: cenn, nem, precept, precepte, airli, carcair, chenél, chomalnad, chorp, chuimriug</li>
       <li>PRON: sa, mo, a, m, se, t, hed, hé, cáich, d</li>
-      <li>PROPN: abracham, crist, moysi</li>
+      <li>PROPN: abracham, crist, dia, moysi, ṅ dǽ</li>
       <li>VERB: tá, ail, anicc, arim, beir, beo, bera, bered, berinn, bia</li>
     </ul>
   </li>
@@ -230,9 +230,9 @@ This research has been supported by NUIG through the Digital Arts and Humanities
     <ul>
       <li>ADJ: diadi, domunde, macthi, mílsi</li>
       <li>DET: inna, a, na</li>
-      <li>NOUN: cenn, biada, béssu, chomalnad, chumang, comarbus, dia, dánu, etargne, etiuth</li>
+      <li>NOUN: cenn, biada, béssu, chomalnad, chumang, comarbus, dánu, etargne, etiuth, fochidi</li>
       <li>PRON: són</li>
-      <li>PROPN: maccidóndu</li>
+      <li>PROPN: dia, maccidóndu</li>
     </ul>
   </li>
 </ul>
@@ -253,7 +253,7 @@ This research has been supported by NUIG through the Digital Arts and Humanities
       <li>DET: ind, inna</li>
       <li>NOUN: precepte, soscéli, belre, firinne, hirisse, mban, nanme, nathar, sosceli, tol</li>
       <li>PRON: cáich</li>
-      <li>PROPN: crist</li>
+      <li>PROPN: crist, ṅ dǽ</li>
     </ul>
   </li>
 </ul>
@@ -357,7 +357,7 @@ This research has been supported by NUIG through the Digital Arts and Humanities
   <li>Perf
     <ul>
       <li>AUX: nirubtar</li>
-      <li>VERB: nropridchissem, rocomalnisid, ronóibad, rreractid, rucca, rérachtid, árbas, érbarthar</li>
+      <li>VERB: comalnisid, nóibad, pridchissem, rreractid, rucca, rérachtid, árbas, érbarthar</li>
     </ul>
   </li>
 </ul>
@@ -410,7 +410,7 @@ This research has been supported by NUIG through the Digital Arts and Humanities
   <li>Past
     <ul>
       <li>AUX: nirubtar, ropad</li>
-      <li>VERB: anicc, bered, berinn, carad, chretsit, gníthe, nropridchissem, rocomalnisid, ronóibad, rreractid</li>
+      <li>VERB: anicc, bered, berinn, carad, chretsit, comalnisid, gníthe, nóibad, pridchissem, rreractid</li>
     </ul>
   </li>
 </ul>
@@ -439,7 +439,7 @@ This research has been supported by NUIG through the Digital Arts and Humanities
 <ul>
   <li>Pass
     <ul>
-      <li>VERB: etar, gníthe, ronóibad, árbas, érbarthar</li>
+      <li>VERB: etar, gníthe, nóibad, árbas, érbarthar</li>
     </ul>
   </li>
 </ul>
@@ -553,7 +553,7 @@ This research has been supported by NUIG through the Digital Arts and Humanities
       <li>ADP: dúib, dét, frib, fuirib, indib, lib, uáit, ṅduit</li>
       <li>AUX: ba, bed, naba</li>
       <li>PRON: si, for, t, far, b, do, ndob, so, tú</li>
-      <li>VERB: amlid, gaibid, gigeste, léic, mil, nducaid, ngeiss, rocomalnisid, rreractid, rérachtid</li>
+      <li>VERB: amlid, comalnisid, gaibid, gigeste, léic, mil, nducaid, ngeiss, rreractid, rérachtid</li>
     </ul>
   </li>
 </ul>
@@ -615,6 +615,11 @@ This research has been supported by NUIG through the Digital Arts and Humanities
 <ul>
   <li><a>PartType</a>
     <ul>
+      <li>Aug
+        <ul>
+          <li>PART: ro, nro</li>
+        </ul>
+      </li>
       <li>Dct
         <ul>
           <li>PART: hí, ni</li>
@@ -704,7 +709,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>obj</a>
     <ul>
       <li>VERB--NOUN (1)</li>
-      <li>VERB--NOUN-Acc (13)</li>
+      <li>VERB--NOUN-Acc (12)</li>
       <li>VERB--PRON (2)</li>
     </ul>
   </li>

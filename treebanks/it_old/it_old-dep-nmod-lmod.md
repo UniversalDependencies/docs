@@ -210,7 +210,7 @@ The following 3 pairs of parts of speech are connected with `nmod:lmod`: <tt><a 
 26	di	di	ADP	_	_	28	case	28:case	Canto=18|Comment=de-l|Verso=142|UniqueTokenId=OldItalian_Dante_Purgatorio-655_26
 27	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	28	det	28:det	Canto=18|Comment=de-l|Verso=142|UniqueTokenId=OldItalian_Dante_Purgatorio-655_27
 28	qual	quale	PRON	pr2ms	Number=Sing|PronType=Rel	31	obl	31:obl	Canto=18|Verso=142|UniqueTokenId=OldItalian_Dante_Purgatorio-655_28
-29	più	più	DET	a	_	30	det	30:det	Canto=18|Verso=142|UniqueTokenId=OldItalian_Dante_Purgatorio-655_29
+29	più	più	DET	a	PronType=Ind	30	det	30:det	Canto=18|Verso=142|UniqueTokenId=OldItalian_Dante_Purgatorio-655_29
 30	altri	altro	PRON	pi	Gender=Masc|Number=Plur|PronType=Ind	31	nsubj	31:nsubj	Canto=18|Verso=142|UniqueTokenId=OldItalian_Dante_Purgatorio-655_30
 31	nacquero	nascere	VERB	vi2irp3	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	19	acl:relcl	19:acl:relcl	Canto=18|Verso=142|UniqueTokenId=OldItalian_Dante_Purgatorio-655_31
 32	e	e	CCONJ	cscc	_	33	cc	33:cc	Canto=18|Verso=142|UniqueTokenId=OldItalian_Dante_Purgatorio-655_32

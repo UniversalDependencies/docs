@@ -49,7 +49,7 @@ The following 3 pairs of parts of speech are connected with `compound`: <tt><a h
 7	хах	хах	INTJ	Interj	_	9	discourse	_	SpaceAfter=No
 8	,	,	PUNCT	PUNCT	_	7	punct	_	_
 9	вонас	во	NOUN	N	Case=Ins|Number=Sing|Number[psor]=Sing|Person[psor]=3	12	obl	_	GTtags=Sg,Ins,PxSg3,So/CP
-10	олэмад	овны	VERB	V	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=2|VerbForm=Vnoun	12	advcl	_	GTtags=Err/Dial,Der,Der/ӧм,Der/NomAct,N,Sg,Ine|PxSg2
+10	олэмад	овны	VERB	V	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=2|VerbForm=Vnoun	12	advcl	_	GTtags=Err/Dial,Der,Der/ӧм,Der/NomAct,N,Sg,Ine,PxSg2
 11	мый	мый	PRON	Pron	Case=Nom|Number=Sing|PronType=Int	12	nsubj	_	GTtags=Interr,Sg,Nom
 12	лоис	лоны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	GTtags=Ind,Prt1,Sg3|SpaceAfter=No
 13	?	?	PUNCT	PUNCT	_	12	punct	_	_

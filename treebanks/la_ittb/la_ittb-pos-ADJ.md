@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  <em>diuina</em> (<tt><a href="la_ittb-pos
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 3.274470 (the average of all parts of speech is 3.337170).
+The form / lemma ratio of `ADJ` is 3.274470 (the average of all parts of speech is 3.337008).
 
 The 1st highest number of forms (26) was observed with the lemma “bonus”: <em>bona, bonae, bonam, bonas, boni, bonis, bono, bonorum, bonos, bonum, bonus, melior, meliora, meliorem, meliores, meliori, melioribus, melioris, melius, optima, optimam, optimi, optimis, optimo, optimum, optimus</em>.
 
@@ -62,11 +62,11 @@ The 2nd highest number of forms (25) was observed with the lemma “magnus”: <
 
 The 3rd highest number of forms (24) was observed with the lemma “perfectus”: <em>perfecta, perfectae, perfectam, perfectas, perfecti, perfectior, perfectiora, perfectiorem, perfectiores, perfectiori, perfectioris, perfectis, perfectissima, perfectissimae, perfectissimam, perfectissimo, perfectissimum, perfectissimus, perfectius, perfecto, perfectorum, perfectos, perfectum, perfectus</em>.
 
-`ADJ` occurs with 12 features: <tt><a href="la_ittb-feat-Case.html">Case</a></tt> (27992; 97% instances), <tt><a href="la_ittb-feat-InflClass.html">InflClass</a></tt> (27992; 97% instances), <tt><a href="la_ittb-feat-Number.html">Number</a></tt> (27992; 97% instances), <tt><a href="la_ittb-feat-Gender.html">Gender</a></tt> (27991; 97% instances), <tt><a href="la_ittb-feat-Degree.html">Degree</a></tt> (2975; 10% instances), <tt><a href="la_ittb-feat-NumType.html">NumType</a></tt> (1805; 6% instances), <tt><a href="la_ittb-feat-Compound.html">Compound</a></tt> (602; 2% instances), <tt><a href="la_ittb-feat-Abbr.html">Abbr</a></tt> (538; 2% instances), <tt><a href="la_ittb-feat-Proper.html">Proper</a></tt> (532; 2% instances), <tt><a href="la_ittb-feat-NameType.html">NameType</a></tt> (425; 1% instances), <tt><a href="la_ittb-feat-VerbForm.html">VerbForm</a></tt> (58; 0% instances), <tt><a href="la_ittb-feat-Variant.html">Variant</a></tt> (15; 0% instances)
+`ADJ` occurs with 11 features: <tt><a href="la_ittb-feat-Case.html">Case</a></tt> (27992; 97% instances), <tt><a href="la_ittb-feat-InflClass.html">InflClass</a></tt> (27992; 97% instances), <tt><a href="la_ittb-feat-Number.html">Number</a></tt> (27992; 97% instances), <tt><a href="la_ittb-feat-Gender.html">Gender</a></tt> (27991; 97% instances), <tt><a href="la_ittb-feat-Degree.html">Degree</a></tt> (2975; 10% instances), <tt><a href="la_ittb-feat-NumType.html">NumType</a></tt> (1805; 6% instances), <tt><a href="la_ittb-feat-Compound.html">Compound</a></tt> (602; 2% instances), <tt><a href="la_ittb-feat-Abbr.html">Abbr</a></tt> (538; 2% instances), <tt><a href="la_ittb-feat-Proper.html">Proper</a></tt> (532; 2% instances), <tt><a href="la_ittb-feat-NameType.html">NameType</a></tt> (425; 1% instances), <tt><a href="la_ittb-feat-Variant.html">Variant</a></tt> (15; 0% instances)
 
-`ADJ` occurs with 31 feature-value pairs: `Abbr=Yes`, `Case=Abl`, `Case=Acc`, `Case=Acc,Nom`, `Case=Dat`, `Case=Gen`, `Case=Nom`, `Case=Voc`, `Compound=Yes`, `Degree=Abs`, `Degree=Cmp`, `Degree=Dim`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `InflClass=IndEurA`, `InflClass=IndEurI`, `InflClass=IndEurO`, `InflClass=IndEurX`, `NameType=Geo`, `NameType=Giv`, `NameType=Lit`, `NameType=Nat`, `NameType=Rel`, `NumType=Dist`, `NumType=Ord`, `Number=Plur`, `Number=Sing`, `Proper=Yes`, `Variant=Greek`, `VerbForm=Part`
+`ADJ` occurs with 30 feature-value pairs: `Abbr=Yes`, `Case=Abl`, `Case=Acc`, `Case=Acc,Nom`, `Case=Dat`, `Case=Gen`, `Case=Nom`, `Case=Voc`, `Compound=Yes`, `Degree=Abs`, `Degree=Cmp`, `Degree=Dim`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `InflClass=IndEurA`, `InflClass=IndEurI`, `InflClass=IndEurO`, `InflClass=IndEurX`, `NameType=Geo`, `NameType=Giv`, `NameType=Lit`, `NameType=Nat`, `NameType=Rel`, `NumType=Dist`, `NumType=Ord`, `Number=Plur`, `Number=Sing`, `Proper=Yes`, `Variant=Greek`
 
-`ADJ` occurs with 347 feature combinations.
+`ADJ` occurs with 332 feature combinations.
 The most frequent feature combination is `Case=Nom|Gender=Fem|InflClass=IndEurA|Number=Sing` (1896 tokens).
 Examples: <em>diuina, humana, propria, actiua, intellectiua, infinita, uera, sensitiua, aeterna, perfecta</em>
 

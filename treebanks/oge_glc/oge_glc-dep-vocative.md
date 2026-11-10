@@ -8,45 +8,70 @@ udver: '2'
 
 This relation is universal.
 
-2 nodes (0%) are attached to their parents as `vocative`.
+116 nodes (0%) are attached to their parents as `vocative`.
 
-1 instances of `vocative` (50%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.5.
+96 instances of `vocative` (83%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.37068965517241.
 
-The following 1 pairs of parts of speech are connected with `vocative`: <tt><a href="oge_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="oge_glc-pos-NOUN.html">NOUN</a></tt> (2; 100% instances).
+The following 11 pairs of parts of speech are connected with `vocative`: <tt><a href="oge_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="oge_glc-pos-NOUN.html">NOUN</a></tt> (68; 59% instances), <tt><a href="oge_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="oge_glc-pos-PROPN.html">PROPN</a></tt> (18; 16% instances), <tt><a href="oge_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="oge_glc-pos-ADJ.html">ADJ</a></tt> (8; 7% instances), <tt><a href="oge_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="oge_glc-pos-VERB.html">VERB</a></tt> (5; 4% instances), <tt><a href="oge_glc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="oge_glc-pos-NOUN.html">NOUN</a></tt> (4; 3% instances), <tt><a href="oge_glc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="oge_glc-pos-NOUN.html">NOUN</a></tt> (3; 3% instances), <tt><a href="oge_glc-pos-PRON.html">PRON</a></tt>-<tt><a href="oge_glc-pos-NOUN.html">NOUN</a></tt> (3; 3% instances), <tt><a href="oge_glc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="oge_glc-pos-PROPN.html">PROPN</a></tt> (2; 2% instances), <tt><a href="oge_glc-pos-ADV.html">ADV</a></tt>-<tt><a href="oge_glc-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="oge_glc-pos-AUX.html">AUX</a></tt>-<tt><a href="oge_glc-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="oge_glc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="oge_glc-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 1 4 vocative	color:blue
-1	გამოარჩიენით	გამორჩევა	VERB	Verb	Aspect=Perf|Mood=Imp|Number[subj]=Plur|Person[subj]=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=gamoarčʻienitʻ
-2	უკუე	უკუე	ADV	Adv	_	1	advmod	_	SpaceAfter=No|Translit=ukue
-3	,	,	PUNCT	F	PunctType=Comm	1	punct	_	Translit=,
-4	ძმანო	ძმა	NOUN	Noun	Case=Voc|Number=Plur	1	vocative	_	SpaceAfter=No|Translit=żmano
-5	,	,	PUNCT	F	PunctType=Comm	1	punct	_	Translit=,
-6	კაცნი	კაცი	NOUN	Noun	Case=Nom|Number=Plur	1	obj	_	Translit=kacʻni
-7	თქუენ	თქუენ	PRON	Pron	Case=Gen|Number=Plur|Person=2|PronType=Prs	6	nmod	_	Translit=tʻkʻuen
-8	განნი	გან	ADP	Post	AdpType=Post|Case=Gen	7	case	_	Translit=ganni
-9	,	,	PUNCT	F	PunctType=Comm	6	punct	_	Translit=,
-10	რომელნი	რომელი	PRON	Pron	Case=Nom|Number=Plur|PronType=Rel	11	nsubj	_	Translit=romelni
-11	წამებულ	წამებული	VERB	Verb	VerbForm=Part|Voice=Pass	6	acl:relcl	_	Translit=camebul
-12	იყვნენ	ყოფა	AUX	Verb	Aspect=Imp|Mood=Sub|Number[subj]=Plur|Person[subj]=3|Tense=Past|VerbForm=Fin|Voice=Act	11	cop	_	SpaceAfter=No|Translit=iqvnen
-13	,	,	PUNCT	F	PunctType=Comm	12	punct	_	Translit=,
-14	სავსენი	სავსე	ADJ	Adj	Case=Nom|Number=Plur	10	acl	_	Translit=savseni
-15	სულითა	სული	NOUN	Noun	Case=Ins|Number=Sing	14	obl	_	Translit=sulitʻa
-16	წმიდითა	წმიდაჲ	ADJ	Adj	Case=Ins|Degree=Pos|Number=Sing	15	amod	_	Translit=cmiditʻa
-17	და	და	CCONJ	Conj	_	18	cc	_	Translit=da
-18	სიბრძნითა	სიბრძნე	NOUN	Noun	Case=Ins|Number=Sing	15	conj	_	SpaceAfter=No|Translit=sibrżnitʻa
-19	,	,	PUNCT	F	PunctType=Comm	14	punct	_	Translit=,
-20	რომელნი	რომელი	PRON	Pron	Case=Nom|Number=Plur|PronType=Rel	21	obj	_	Translit=romelni
-21	დავადგინნეთ	დადგინება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[obj]=Plur|Number[subj]=Plur|Person[obj]=3|Person[subj]=1|Tense=Fut|VerbForm=Fin|Voice=Act	6	acl:relcl	_	Translit=davadginnetʻ
-22	საჴმარსა	საჴმარი	NOUN	Noun	Case=Dat|Number=Sing	21	obl	_	Translit=sax̣marsa
-23	ამას	ესე	PRON	Pron	Case=Dat|Number=Sing|PronType=Dem	22	det	_	Translit=amas
-24	ზედა	ზედა	ADP	Post	AdpType=Post|Case=Dat	22	case	_	SpaceAfter=No|Translit=zeda
-25	.	.	PUNCT	F	PunctType=Peri	1	punct	_	Translit=.
+# visual-style 1 3 vocative	color:blue
+1	გიხაროდენ	ხარება	VERB	Verb	Aspect=Imp|Mood=Imp|Number[subj]=Sing|Person[obj]=3|Person[subj]=2|Tense=Fut|VerbForm=Fin|Voice=Pass	0	root	_	SpaceAfter=No|Translit=gixaroden
+2	,	,	PUNCT	F	PunctType=Comm	1	punct	_	Translit=,
+3	დასაბამო	დასაბამი	NOUN	Noun	Case=Voc|Number=Sing	1	vocative	_	Translit=dasabamo
+4	კურთხევისაო	კურთხევა	NOUN	Noun	Case=Voc|Case[stack]=Gen|Number=Sing	3	nmod	_	Translit=kurtʻxevisao
+5	და	და	CCONJ	Conj	_	6	cc	_	Translit=da
+6	დასასრულო	დასასრული	NOUN	Noun	Case=Voc|Number=Sing	3	conj	_	Translit=dasasrulo
+7	წყევისაო	წყევა	NOUN	Noun	Case=Voc|Case[stack]=Gen|Number=Sing	6	nmod	_	SpaceAfter=No|Translit=cqevisao
+8	.	.	PUNCT	F	PunctType=Peri	1	punct	_	Translit=.
+
+~~~
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 3 vocative	color:blue
+1	ისმინენ	სმენა	VERB	Verb	Aspect=Perf|Mood=Imp|Number[subj]=Sing|Person[subj]=2|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=isminen
+2	,	,	PUNCT	F	PunctType=Comm	1	punct	_	Translit=,
+3	ისრაილ	ისრაელი	PROPN	Prop	Case=Voc|NameType=Geo|Number=Sing	1	vocative	_	SpaceAfter=No|Translit=israil
+4	,	,	PUNCT	F	PunctType=Comm	1	punct	_	Translit=,
+5	მცნებანი	მცნება	NOUN	Noun	Case=Nom|Number=Plur	1	obj	_	Translit=mcʻnebani
+6	ცხოვრებისანი	ცხოვრება	NOUN	Noun	Case=Nom|Case[stack]=Gen|Number=Plur	5	nmod	_	SpaceAfter=No|Translit=cʻxovrebisani
+7	,	,	PUNCT	F	PunctType=Comm	1	punct	_	Translit=,
+8	ყურად	ყური	NOUN	Noun	Case=Dat|Number=Sing	9	obl	_	Translit=qurad
+9	იღეთ	ღება	VERB	Verb	Aspect=Perf|Mood=Imp|Number[subj]=Plur|Person[subj]=2|Tense=Fut|VerbForm=Fin|Voice=Act	1	parataxis	_	Translit=iġetʻ
+10	ცნობად	ცნობა	NOUN	Noun	Case=Ess|Number=Sing	9	xcomp	_	Translit=cʻnobad
+11	გონიერებისა	გონიერება	NOUN	Noun	Case=Gen|Number=Sing	10	nmod	_	SpaceAfter=No|Translit=gonierebisa
+12	.	.	PUNCT	F	PunctType=Peri	1	punct	_	Translit=.
+
+~~~
+
+
+~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 6 vocative	color:blue
+1	რაჲსა	რა	PRON	Pron	Case=Gen|Number=Sing|PronType=Int	3	obl	_	Translit=raysa
+2	თჳს	თჳს	ADP	Post	AdpType=Post|Case=Gen	1	case	_	Translit=tʻws
+3	აბრალებ	ბრალება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=abraleb
+4	ღმერთსა	ღმერთი	NOUN	Noun	Case=Dat|Number=Sing	3	iobj	_	SpaceAfter=No|Translit=ġmertʻsa
+5	,	,	PUNCT	F	PunctType=Comm	6	punct	_	Translit=,
+6	უგუნურო	უგუნური	ADJ	Adj	Case=Voc|Degree=Pos|Number=Sing	3	vocative	_	SpaceAfter=No|Translit=ugunuro
+7	,	,	PUNCT	F	PunctType=Comm	6	punct	_	Translit=,
+8	ქველისმოქმედებისა	ქველისმოქმედება	NOUN	Noun	Case=Gen|Number=Sing	3	obl	_	Translit=kʻvelismokʻmedebisa
+9	თჳს	თჳს	ADP	Post	AdpType=Post|Case=Gen	8	case	_	Translit=tʻws
+10	?	?	PUNCT	F	PunctType=Qest	3	punct	_	Translit=?
 
 ~~~
 

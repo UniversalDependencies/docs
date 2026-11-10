@@ -218,7 +218,7 @@ The most frequent other feature values with which `DET` and `Person` co-occurred
 
 * `1` (24; 1% of non-empty `Person`): हम, इसी
 * `3` (4546; 99% of non-empty `Person`): इस, यह, इन, उस, इसी, ये, जो, उन, जिस, यही
-* `EMPTY` (2955): कुछ, कई, सभी, कम, ज्यादा, काफी, अधिक, और, हर, ऐसे
+* `EMPTY` (2945): कुछ, कई, सभी, कम, ज्यादा, काफी, अधिक, और, हर, ऐसे
 
 <table>
   <tr><th>Paradigm <i>यह</i></th><th><tt>1</tt></th><th><tt>3</tt></th></tr>
@@ -289,7 +289,7 @@ The most frequent other feature values with which `ADJ` and `Person` co-occurred
 `ADJ` tokens may have the following values of `Person`:
 
 * `3` (300; 100% of non-empty `Person`): वाले, वाली, वाला, उत्तर, भूकंप, सुरक्षा, नक्सल, विश्व, दक्षिण, मानसून
-* `EMPTY` (21345): वाले, शामिल, अन्य, जारी, पिछले, वाली, पूर्व, भारतीय, तैयार, स्थित
+* `EMPTY` (21355): वाले, शामिल, अन्य, जारी, पिछले, वाली, पूर्व, भारतीय, तैयार, स्थित
 
 `Person` seems to be **lexical feature** of `ADJ`. 100% lemmas (145) occur only with one value of `Person`.
 
@@ -338,14 +338,14 @@ The most frequent other feature values with which `NUM` and `Person` co-occurred
 ## Relations with Agreement in `Person`
 
 The 10 most frequent relations where parent and child node agree in `Person`:
-<tt>PROPN --[<tt><a href="hi_hdtb-dep-compound.html">compound</a></tt>]--> PROPN</tt> (13598; 90%),
-<tt>NOUN --[<tt><a href="hi_hdtb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (13296; 100%),
-<tt>NOUN --[<tt><a href="hi_hdtb-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (8331; 100%),
+<tt>PROPN --[<tt><a href="hi_hdtb-dep-compound.html">compound</a></tt>]--> PROPN</tt> (13597; 90%),
+<tt>NOUN --[<tt><a href="hi_hdtb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (13302; 100%),
+<tt>NOUN --[<tt><a href="hi_hdtb-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (8334; 100%),
 <tt>NOUN --[<tt><a href="hi_hdtb-dep-compound.html">compound</a></tt>]--> NOUN</tt> (6277; 91%),
 <tt>VERB --[<tt><a href="hi_hdtb-dep-aux-pass.html">aux:pass</a></tt>]--> AUX</tt> (5124; 68%),
 <tt>VERB --[<tt><a href="hi_hdtb-dep-aux.html">aux</a></tt>]--> AUX</tt> (4517; 73%),
 <tt>NOUN --[<tt><a href="hi_hdtb-dep-det.html">det</a></tt>]--> DET</tt> (4364; 65%),
-<tt>VERB --[<tt><a href="hi_hdtb-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (4304; 51%),
-<tt>PROPN --[<tt><a href="hi_hdtb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (2786; 100%),
-<tt>PROPN --[<tt><a href="hi_hdtb-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (2396; 100%).
+<tt>VERB --[<tt><a href="hi_hdtb-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (4253; 51%),
+<tt>PROPN --[<tt><a href="hi_hdtb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (2787; 100%),
+<tt>PROPN --[<tt><a href="hi_hdtb-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (2397; 100%).
 

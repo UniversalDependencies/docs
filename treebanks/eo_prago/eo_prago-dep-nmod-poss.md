@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="eo_prago-dep-nmod.html">nmod</a></tt>.
 
-76 nodes (2%) are attached to their parents as `nmod:poss`.
+81 nodes (2%) are attached to their parents as `nmod:poss`.
 
-76 instances of `nmod:poss` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.27631578947368.
+81 instances of `nmod:poss` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.25925925925926.
 
-The following 4 pairs of parts of speech are connected with `nmod:poss`: <tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eo_prago-pos-PRON.html">PRON</a></tt> (72; 95% instances), <tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eo_prago-pos-DET.html">DET</a></tt> (2; 3% instances), <tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eo_prago-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="eo_prago-pos-VERB.html">VERB</a></tt>-<tt><a href="eo_prago-pos-PRON.html">PRON</a></tt> (1; 1% instances).
+The following 4 pairs of parts of speech are connected with `nmod:poss`: <tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eo_prago-pos-PRON.html">PRON</a></tt> (77; 95% instances), <tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eo_prago-pos-DET.html">DET</a></tt> (2; 2% instances), <tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eo_prago-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="eo_prago-pos-VERB.html">VERB</a></tt>-<tt><a href="eo_prago-pos-PRON.html">PRON</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -128,13 +128,13 @@ The following 4 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 14	kuŝas	kuŝi	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	4	ccomp	_	_
 15	en	en	ADP	_	_	17	case	_	_
 16	la	la	DET	_	Definite=Def|PronType=Art	17	det	_	_
-17	koro	koro	NOUN	_	Case=Nom|Number=Sing	14	nmod	_	_
+17	koro	koro	NOUN	_	Case=Nom|Number=Sing	14	obl	_	_
 18	de	de	ADP	_	_	20	case	_	_
 19	ĉiu	ĉiu	DET	_	Case=Nom|Number=Sing|PronType=Tot	20	det	_	_
 20	homo	homo	NOUN	_	Case=Nom|Number=Sing	17	nmod	_	_
 21	sub	sub	ADP	_	_	23	case	_	_
 22	la	la	DET	_	Definite=Def|PronType=Art	23	det	_	_
-23	formo	formo	NOUN	_	Case=Nom|Number=Sing	14	nmod	_	_
+23	formo	formo	NOUN	_	Case=Nom|Number=Sing	14	obl	_	_
 24	de	de	ADP	_	_	25	case	_	_
 25	konscienco	konscienco	NOUN	_	Case=Nom|Number=Sing	23	nmod	_	_
 26	kaj	kaj	CCONJ	_	_	41	cc	_	_
@@ -144,7 +144,7 @@ The following 4 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 30	,	,	PUNCT	_	_	34	punct	_	_
 31	por	por	ADP	_	_	33	case	_	_
 32	ĉiuj	ĉiu	DET	_	Case=Nom|Number=Plur|PronType=Tot	33	det	_	_
-33	homoj	homo	NOUN	_	Case=Nom|Number=Plur	34	nmod	_	_
+33	homoj	homo	NOUN	_	Case=Nom|Number=Plur	34	obl	_	_
 34	deviga	deviga	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	35	amod	_	_
 35	principo	principo	NOUN	_	Case=Nom|Number=Sing	41	nsubj	_	_
 36	de	de	ADP	_	_	38	case	_	_
@@ -154,7 +154,7 @@ The following 4 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 40	:	:	PUNCT	_	_	41	punct	_	_
 41	agu	agi	VERB	_	Mood=Imp|VerbForm=Fin	14	conj	_	_
 42	kun	kun	ADP	_	_	43	case	_	_
-43	aliuloj	aliulo	NOUN	_	Case=Nom|Number=Plur	41	nmod	_	_
+43	aliuloj	aliulo	NOUN	_	Case=Nom|Number=Plur	41	obl	_	_
 44	tiel	tiel	ADV	_	_	41	advmod	_	SpaceAfter=No
 45	,	,	PUNCT	_	_	48	punct	_	_
 46	kiel	kiel	ADV	_	_	48	advmod	_	_
@@ -165,7 +165,7 @@ The following 4 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 51	aliuloj	aliulo	NOUN	_	Case=Nom|Number=Plur	52	nsubj	_	_
 52	agu	agi	VERB	_	Mood=Imp|VerbForm=Fin	48	ccomp	_	_
 53	kun	kun	ADP	_	_	54	case	_	_
-54	vi	vi	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	52	nmod	_	SpaceAfter=No
+54	vi	vi	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	52	obl	_	SpaceAfter=No
 55	;	;	PUNCT	_	_	62	punct	_	_
 56	ĉion	ĉio	PRON	_	Case=Acc|Number=Sing|PronType=Tot	62	obj	_	_
 57	alian	alia	ADJ	_	Case=Acc|Degree=Pos|Number=Sing	56	amod	_	_
@@ -184,7 +184,7 @@ The following 4 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 70	konforme	konforme_	ADV	_	_	75	advmod	_	_
 71	al	al	ADP	_	_	73	case	_	_
 72	sia	sia	PRON	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs|Reflex=Yes	73	nmod:poss	_	_
-73	kredo	kredo	NOUN	_	Case=Nom|Number=Sing	70	nmod	_	SpaceAfter=No
+73	kredo	kredo	NOUN	_	Case=Nom|Number=Sing	70	obl	_	SpaceAfter=No
 74	,	,	PUNCT	_	_	75	punct	_	_
 75	havas	havi	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	64	acl:relcl	_	_
 76	la	la	DET	_	Definite=Def|PronType=Art	77	det	_	_
@@ -194,7 +194,7 @@ The following 4 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 80	kiel	kiel	ADV	_	_	84	case	_	_
 81	devigajn	deviga	ADJ	_	Case=Acc|Degree=Pos|Number=Plur	84	amod	_	_
 82	por	por	ADP	_	_	83	case	_	_
-83	li	li	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	81	nmod	_	_
+83	li	li	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	81	obl	_	_
 84	dirojn	diro	NOUN	_	Case=Acc|Number=Plur	64	conj	_	_
 85	de	de	ADP	_	_	86	case	_	_
 86	Dio	dio	NOUN	_	Case=Nom|Number=Sing	84	nmod	_	SpaceAfter=No
@@ -206,7 +206,7 @@ The following 4 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 92	kiujn	kiu	PRON	_	Case=Acc|Number=Plur|PronType=Rel	96	obj	_	_
 93	miksite	miksi	VERB	_	Tense=Past|VerbForm=Part|Voice=Pass	96	advcl	_	_
 94	kun	kun	ADP	_	_	95	case	_	_
-95	legendoj	legendo	NOUN	_	Case=Nom|Number=Plur	96	nmod	_	_
+95	legendoj	legendo	NOUN	_	Case=Nom|Number=Plur	96	obl	_	_
 96	donis	doni	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	90	acl:relcl	_	_
 97	al	al	ADP	_	_	98	case	_	_
 98	ni	ni	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	96	obl	_	_
@@ -225,7 +225,7 @@ The following 4 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 111	estas	esti	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	112	aux	_	_
 112	starigitaj	starigi	VERB	_	Case=Nom|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	108	acl:relcl	_	_
 113	de	de	ADP	_	_	114	case	_	_
-114	homoj	homo	NOUN	_	Case=Nom|Number=Plur	112	nmod	_	_
+114	homoj	homo	NOUN	_	Case=Nom|Number=Plur	112	obl	_	_
 115	kaj	kaj	CCONJ	_	_	120	cc	_	_
 116	kies	kies	ADJ	_	Poss=Yes|PronType=Rel	117	nmod:poss	_	_
 117	plenumado	plenumado	NOUN	_	Case=Nom|Number=Sing	120	nsubj	_	_
@@ -234,7 +234,7 @@ The following 4 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 120	dependas	dependi	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	108	acl:relcl	_	_
 121	de	de	ADP	_	_	123	case	_	_
 122	nia	nia	PRON	_	Case=Nom|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	123	nmod:poss	_	_
-123	volo	volo	NOUN	_	Case=Nom|Number=Sing	120	nmod	_	SpaceAfter=No
+123	volo	volo	NOUN	_	Case=Nom|Number=Sing	120	obl	_	SpaceAfter=No
 124	.	.	PUNCT	_	_	4	punct	_	_
 
 ~~~

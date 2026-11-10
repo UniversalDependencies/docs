@@ -62,11 +62,11 @@ The following 3 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 2 3 cop	color:blue
 1	जरूरी	जरूरी	ADJ	JJ	Case=Nom	2	amod	_	Translit=jarūrī|LTranslit=jarūrī
 2	ईहो	ईहो	DET	DM_DMD	Case=Nom|Number=Sing|Person=3|PronType=Prs	0	root	_	Translit=īho|LTranslit=īho
-3	बा	बा	AUX	V_VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	cop	_	Translit=bā|LTranslit=bā
-4	कि	कि	SCONJ	CC	_	18	mark	_	Translit=ki|LTranslit=ki
+3	बा	बा	AUX	V_VAUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	cop	_	Translit=bā|LTranslit=bā
+4	कि	कि	SCONJ	CC_CCS	_	18	mark	_	Translit=ki|LTranslit=ki
 5	जवन	जवन	DET	DM_DMR	Case=Nom|Number=Sing|Person=3|PronType=Dem	6	det	_	Translit=javana|LTranslit=javana
-6	काम	काम	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	7	nsubj	_	Translit=kāma|LTranslit=kāma
-7	हो	हो	VERB	VM	Gender=Masc|Number=Sing|Person=3|Voice=Act	10	acl	_	Translit=ho|LTranslit=ho
+6	काम	काम	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	7	nsubj	_	Translit=kāma|LTranslit=kāma
+7	हो	हो	VERB	V_VM	Gender=Masc|Number=Sing|Person=3|Voice=Act	10	acl	_	Translit=ho|LTranslit=ho
 8	रहल	रह	AUX	V_VAUX	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	7	aux	_	Translit=rahala|LTranslit=raha
 9	बा	बा	AUX	V_VAUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	Translit=bā|LTranslit=bā
 10	ओकरा	ओकरा	PRON	PR_PRP	Case=Acc,Dat|Number=Plur|Person=3|PronType=Prs	12	obl	_	Translit=okarā|LTranslit=okarā

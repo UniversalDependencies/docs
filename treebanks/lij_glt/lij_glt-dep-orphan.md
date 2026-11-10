@@ -22,7 +22,7 @@ The following 2 pairs of parts of speech are connected with `orphan`: <tt><a hre
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 11 orphan	color:blue
-1	Mary	Mary	PROPN	_	Gender=Masc|Number=Sing	5	nsubj	_	_
+1	Mary	Mary	PROPN	_	Gender=Fem|Number=Sing	5	nsubj	_	_
 2	a	o	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	expl	_	_
 3	l'	l'	PART	_	_	5	dep	_	SpaceAfter=No
 4	à	avei	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
@@ -55,10 +55,10 @@ The following 2 pairs of parts of speech are connected with `orphan`: <tt><a hre
 5	unna	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
 6	machina	machina	NOUN	_	Gender=Fem|Number=Sing	4	obj	_	SpaceAfter=No
 7	,	,	PUNCT	_	_	9	punct	_	_
-8	seu	seu	PRON	_	Poss=Yes|PronType=Prs	9	det	_	_
+8	seu	seu	DET	_	Poss=Yes|PronType=Prs	9	det	_	_
 9	fræ	fræ	NOUN	_	Gender=Masc|Number=Sing	4	conj	_	_
 10	incangio	incangio	ADV	_	_	14	advmod	_	_
-11	solo	solo	ADV	_	_	14	advmod	_	_
+11	solo	solo	ADV	_	ExtPos=ADV	14	advmod	_	_
 12	che	che	ADP	_	_	11	fixed	_	_
 13	unna	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
 14	biçicletta	biçicletta	NOUN	_	Gender=Fem|Number=Sing	9	orphan	_	SpaceAfter=No

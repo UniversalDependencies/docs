@@ -33,7 +33,7 @@ The 10 most frequent ambiguous types:  <em>.</em> (<tt><a href="ru_gsd-pos-PUNCT
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 0.950000 (the average of all parts of speech is 1.598617).
+The form / lemma ratio of `PUNCT` is 0.950000 (the average of all parts of speech is 1.598534).
 
 The 1st highest number of forms (1) was observed with the lemma “!”: <em>!</em>.
 
@@ -48,7 +48,7 @@ The 3rd highest number of forms (1) was observed with the lemma “'”: <em>'</
 
 `PUNCT` nodes are attached to their parents using 1 different relations: <tt><a href="ru_gsd-dep-punct.html">punct</a></tt> (18125; 100% instances)
 
-Parents of `PUNCT` nodes belong to 14 different parts of speech: <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt> (7444; 41% instances), <tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt> (5916; 33% instances), <tt><a href="ru_gsd-pos-PROPN.html">PROPN</a></tt> (1915; 11% instances), <tt><a href="ru_gsd-pos-ADJ.html">ADJ</a></tt> (1349; 7% instances), <tt><a href="ru_gsd-pos-X.html">X</a></tt> (680; 4% instances), <tt><a href="ru_gsd-pos-NUM.html">NUM</a></tt> (391; 2% instances), <tt><a href="ru_gsd-pos-ADV.html">ADV</a></tt> (231; 1% instances), <tt><a href="ru_gsd-pos-PRON.html">PRON</a></tt> (89; 0% instances), <tt><a href="ru_gsd-pos-SYM.html">SYM</a></tt> (45; 0% instances), <tt><a href="ru_gsd-pos-PART.html">PART</a></tt> (23; 0% instances), <tt><a href="ru_gsd-pos-DET.html">DET</a></tt> (20; 0% instances), <tt><a href="ru_gsd-pos-PUNCT.html">PUNCT</a></tt> (11; 0% instances), <tt><a href="ru_gsd-pos-ADP.html">ADP</a></tt> (9; 0% instances), <tt><a href="ru_gsd-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances)
+Parents of `PUNCT` nodes belong to 14 different parts of speech: <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt> (7445; 41% instances), <tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt> (5916; 33% instances), <tt><a href="ru_gsd-pos-PROPN.html">PROPN</a></tt> (1915; 11% instances), <tt><a href="ru_gsd-pos-ADJ.html">ADJ</a></tt> (1349; 7% instances), <tt><a href="ru_gsd-pos-X.html">X</a></tt> (680; 4% instances), <tt><a href="ru_gsd-pos-NUM.html">NUM</a></tt> (391; 2% instances), <tt><a href="ru_gsd-pos-ADV.html">ADV</a></tt> (230; 1% instances), <tt><a href="ru_gsd-pos-PRON.html">PRON</a></tt> (89; 0% instances), <tt><a href="ru_gsd-pos-SYM.html">SYM</a></tt> (45; 0% instances), <tt><a href="ru_gsd-pos-PART.html">PART</a></tt> (23; 0% instances), <tt><a href="ru_gsd-pos-DET.html">DET</a></tt> (20; 0% instances), <tt><a href="ru_gsd-pos-PUNCT.html">PUNCT</a></tt> (11; 0% instances), <tt><a href="ru_gsd-pos-ADP.html">ADP</a></tt> (9; 0% instances), <tt><a href="ru_gsd-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances)
 
 18118 (100%) `PUNCT` nodes are leaves.
 

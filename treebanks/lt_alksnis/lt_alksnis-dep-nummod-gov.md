@@ -8,74 +8,80 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="lt_alksnis-dep-nummod.html">nummod</a></tt>.
 
-51 nodes (0%) are attached to their parents as `nummod:gov`.
+208 nodes (0%) are attached to their parents as `nummod:gov`.
 
-50 instances of `nummod:gov` (98%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.41176470588235.
+207 instances of `nummod:gov` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.3125.
 
-The following 2 pairs of parts of speech are connected with `nummod:gov`: <tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lt_alksnis-pos-NUM.html">NUM</a></tt> (50; 98% instances), <tt><a href="lt_alksnis-pos-PRON.html">PRON</a></tt>-<tt><a href="lt_alksnis-pos-NUM.html">NUM</a></tt> (1; 2% instances).
+The following 5 pairs of parts of speech are connected with `nummod:gov`: <tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lt_alksnis-pos-NUM.html">NUM</a></tt> (168; 81% instances), <tt><a href="lt_alksnis-pos-NUM.html">NUM</a></tt>-<tt><a href="lt_alksnis-pos-NUM.html">NUM</a></tt> (34; 16% instances), <tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="lt_alksnis-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lt_alksnis-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="lt_alksnis-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lt_alksnis-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 9 nummod:gov	color:blue
-1	Į	į	ADP	prl.G.	AdpType=Prep|Case=Acc	2	case	2:case	_
-2	miestelį	miestelis	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	6	obl:arg	6:obl:arg:į:acc	_
-3	bendrovė	bendrovė	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	6	nsubj	6:nsubj	_
-4	iš	iš	ADV	sampl.prv.nelygin.	Degree=Pos|Hyph=Yes	6	advmod	6:advmod	_
-5	viso	viso	X	tęs.	Hyph=Yes	4	nmod	4:nmod	_
-6	investuos	investuoti	VERB	vksm.asm.tiesiog.būs.vns.3.	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin	0	root	0:root	_
-7	apie	apie	ADP	prl.G.	AdpType=Prep|Case=Acc	8	case	8:case	_
-8	120	120	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	6	obl	6:obl:apie:acc	_
-9	milijonų	milijonas	NUM	sktv.raid.kiek.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur|NumForm=Word|NumType=Card	10	nummod:gov	10:nummod:gov	_
-10	litų	litas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	8	nmod	8:nmod:gen	SpaceAfter=No
-11	.	.	PUNCT	skyr.	_	6	punct	6:punct	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 4 nummod:gov	color:blue
+1	Žuvo	žūti	VERB	vksm.asm.tiesiog.būt-k.3.	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2	1523	1523	NUM	sktv.arab.	NumForm=Digit	1	nsubj	_	_
+3	iš	iš	ADP	prl.K.	Case=Gen	5	case	_	_
+4	2200	2200	NUM	sktv.arab.	NumForm=Digit	5	nummod:gov	_	_
+5	keleivių	keleivis	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	2	nmod	_	_
+6	ir	ir	CCONJ	jng.	_	8	cc	_	_
+7	įgulos	įgula	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	_
+8	narių	narys	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	5	conj	_	SpaceAfter=No
+9	.	.	PUNCT	skyr.	_	1	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 6 nummod:gov	color:blue
-1	Nors	nors	SCONJ	jng.	_	24	mark	24:mark	_
-2	kaltinti	kaltinti	VERB	vksm.bndr.	Polarity=Pos|VerbForm=Inf	24	xcomp	24:xcomp	SpaceAfter=No
-3	,	,	PUNCT	skyr.	_	18	punct	18:punct	_
-4	kad	kad	SCONJ	jng.	_	18	mark	18:mark	_
-5	kelių	keli	PRON	įv.vyr.K.	Case=Gen|Definite=Ind|Gender=Masc|PronType=Ind	16	nmod	16:nmod:gen	_
-6	šimtų	šimtas	NUM	sktv.raid.kiek.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur|NumForm=Word|NumType=Card	5	nummod:gov	5:nummod:gov	_
-7	vienaip	vienaip	ADV	prv.nelygin.	Degree=Pos	14	advmod	14:advmod	_
-8	ar	ar	CCONJ	jng.	_	9	cc	9:cc	_
-9	kitaip	kitaip	ADV	prv.nelygin.	Degree=Pos	7	conj	7:conj|14:advmod	_
-10	su	su	ADP	prl.Įn.	AdpType=Prep|Case=Ins	13	case	13:case	_
-11	Sąjūdžio	sąjūdis	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	12	nmod	12:nmod:gen	_
-12	veiklos	veikla	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	13	nmod	13:nmod:gen	_
-13	laikotarpiu	laikotarpis	NOUN	dkt.vyr.vns.Įn.	Case=Ins|Gender=Masc|Number=Sing	14	obl:arg	14:obl:arg:su:ins	_
-14	susijusių	susyti	VERB	vksm.dlv.veik.būt-k.vyr.dgs.K.	Aspect=Perf|Case=Gen|Definite=Ind|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	15	acl	15:acl	_
-15	tekstų	tekstas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	6	nmod	6:nmod:gen	_
-16	jūroje	jūra	NOUN	dkt.mot.vns.Vt.	Case=Loc|Gender=Fem|Number=Sing	18	obl	18:obl:loc	_
-17	nebuvo	nebūti	VERB	vksm.asm.neig.tiesiog.būt-k.vns.3.	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin	18	csubj	18:csubj	_
-18	panaudota	panaudoti	VERB	vksm.dlv.neveik.būt.mot.vns.V.	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Pass	2	advcl	2:advcl:kad	_
-19	nė	nė	PRON	sampl.įv.mot.vns.V.	Case=Nom|Definite=Ind|Gender=Fem|Hyph=Yes|Number=Sing|PronType=Ind	21	nmod	21:nmod:nom	_
-20	viena	vienas	X	tęs.	Hyph=Yes	19	nmod	19:nmod	_
-21	knyga	knyga	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	18	dep	18:dep	SpaceAfter=No
-22	,	,	PUNCT	skyr.	_	18	punct	18:punct	_
-23	būtų	būti	AUX	vksm.asm.tar.3.	Mood=Cnd|Person=3|Polarity=Pos|VerbForm=Fin	24	cop	24:cop	_
-24	nekorektiška	nekorektiškas	ADJ	bdv.nelygin.bev.	Definite=Ind|Degree=Pos|Gender=Neut	0	root	0:root	SpaceAfter=No
-25	,	,	PUNCT	skyr.	_	24	punct	24:punct	_
-26	tačiau	tačiau	CCONJ	jng.	_	24	mark	24:mark	_
-27	keli	keli	PRON	įv.vyr.V.	Case=Nom|Definite=Ind|Gender=Masc|PronType=Ind	28	nmod	28:nmod:nom	_
-28	trūkumai	trūkumas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	30	nsubj	30:nsubj	_
-29	tiesiog	tiesiog	ADV	prv.nelygin.	Degree=Pos	30	advmod	30:advmod	_
-30	krinta	kristi	VERB	vksm.asm.tiesiog.es.dgs.3.	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	24	parataxis	24:parataxis	_
-31	į	į	ADP	prl.G.	AdpType=Prep|Case=Acc	32	case	32:case	_
-32	akis	akis	NOUN	dkt.mot.dgs.G.	Case=Acc|Gender=Fem|Number=Plur	30	obl:arg	30:obl:arg:į:acc	SpaceAfter=No
-33	.	.	PUNCT	skyr.	_	24	punct	24:punct	_
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 7 nummod:gov	color:blue
+1	Į	į	ADP	prl.G.	Case=Acc	2	case	_	_
+2	miestelį	miestelis	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	5	obl:arg	_	_
+3	bendrovė	bendrovė	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	_
+4	iš viso	iš viso	ADV	prv.nelygin.	Degree=Pos	5	advmod	_	_
+5	investuos	investuoti	VERB	vksm.asm.tiesiog.būs.3.	Mood=Ind|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+6	apie	apie	ADP	prl.G.	Case=Acc	7	case	_	_
+7	120	120	NUM	sktv.arab.	NumForm=Digit	8	nummod:gov	_	_
+8	milijonų	milijonas	NUM	sktv.raid.kiek.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur|NumForm=Word|NumType=Card	9	nummod:gov	_	_
+9	litų	litas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	5	obj	_	SpaceAfter=No
+10	.	.	PUNCT	skyr.	_	5	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 19	bgColor:blue
+# visual-style 19	fgColor:white
+# visual-style 20	bgColor:blue
+# visual-style 20	fgColor:white
+# visual-style 20 19 nummod:gov	color:blue
+1	Šiuolaikiniai	šiuolaikinis	ADJ	bdv.nelygin.vyr.dgs.V.	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	2	amod	_	_
+2	daiktai	daiktas	NOUN	dkt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur	3	nsubj:pass	_	_
+3	pagaminti	pagaminti	VERB	vksm.dlv.neveik.būt.vyr.dgs.V.	Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+4	taip	taip	ADV	prv.nelygin.	Degree=Pos|PronType=Dem	3	advmod	_	SpaceAfter=No
+5	,	,	PUNCT	skyr.	_	7	punct	_	_
+6	kad	kad	SCONJ	jng.	_	7	mark	_	_
+7	ištvertų	ištverti	VERB	vksm.asm.tar.3.	Mood=Cnd|Person=3|VerbForm=Fin	3	acl	_	_
+8	truputį	truputis	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	7	obl	_	_
+9	ilgiau	ilgai	ADV	prv.aukšt.	Degree=Cmp	8	advmod	_	SpaceAfter=No
+10	,	,	PUNCT	skyr.	_	16	punct	_	_
+11	nei	nei	SCONJ	jng.	_	16	mark	_	_
+12	gamintojų	gamintojas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	15	obl:agent	_	_
+13	ir	ir	CCONJ	jng.	_	14	cc	_	_
+14	pardavėjų	pardavėjas	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	12	conj	_	_
+15	teikiama	teikti	VERB	vksm.dlv.neveik.es.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	16	amod	_	_
+16	garantija	garantija	NOUN	dkt.mot.vns.V.	Case=Nom|Gender=Fem|Number=Sing	9	obl	_	_
+17	–	–	PUNCT	skyr.	_	20	punct	_	_
+18	apytikriai	apytikriai	ADV	prv.nelygin.	Degree=Pos	19	advmod	_	_
+19	trejetą	trejetas	NOUN	sktv.raid.kuopin.G.	Case=Acc|NumType=Sets	20	nummod:gov	_	_
+20	metų	metai	NOUN	dkt.vyr.dgs.K.	Case=Gen|Gender=Masc|Number=Plur	9	obl	_	SpaceAfter=No
+21	.	.	PUNCT	skyr.	_	3	punct	_	_
 
 ~~~
 

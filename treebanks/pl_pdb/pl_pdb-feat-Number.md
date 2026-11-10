@@ -12,7 +12,7 @@ It occurs with 3 different values: `Plur`, `Ptan`, `Sing`.
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="pl_pdb-feat-Number.html">Number</a></tt>, <tt><a href="pl_pdb-feat-Number-psor.html">Number[psor]</a></tt>.
 
 194458 tokens (56%) have a non-empty value of `Number`.
-60749 types (101%) occur at least once with a non-empty value of `Number`.
+60748 types (101%) occur at least once with a non-empty value of `Number`.
 26076 lemmas (94%) occur at least once with a non-empty value of `Number`.
 The feature is used with 8 part-of-speech tags: <tt><a href="pl_pdb-pos-NOUN.html">NOUN</a></tt> (87133; 25% instances), <tt><a href="pl_pdb-pos-ADJ.html">ADJ</a></tt> (35430; 10% instances), <tt><a href="pl_pdb-pos-VERB.html">VERB</a></tt> (31406; 9% instances), <tt><a href="pl_pdb-pos-PROPN.html">PROPN</a></tt> (11685; 3% instances), <tt><a href="pl_pdb-pos-PRON.html">PRON</a></tt> (9865; 3% instances), <tt><a href="pl_pdb-pos-DET.html">DET</a></tt> (9348; 3% instances), <tt><a href="pl_pdb-pos-AUX.html">AUX</a></tt> (6958; 2% instances), <tt><a href="pl_pdb-pos-NUM.html">NUM</a></tt> (2633; 1% instances).
 
@@ -50,7 +50,7 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 
 * `Plur` (11387; 32% of non-empty `Number`): <em>innych, inne, różnych, nowych, dotyczące, dotyczących, członkowskich, członkowskie, europejskich, młodych</em>
 * `Sing` (24043; 68% of non-empty `Number`): <em>jeden, sam, europejskiej, pierwszy, jednym, cały, 1, jednej, drugiej, drugi</em>
-* `EMPTY` (496): <em>prostu, czarno, św, biało, polsko, dawna, daleka, wolna, czerwono, południowo</em>
+* `EMPTY` (524): <em>prostu, tzw, czarno, św, biało, polsko, dawna, daleka, wolna, czerwono</em>
 
 <table>
   <tr><th>Paradigm <i>jeden</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -283,11 +283,11 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="pl_pdb-dep-amod.html">amod</a></tt>]--> ADJ</tt> (25728; 97%),
+<tt>NOUN --[<tt><a href="pl_pdb-dep-amod.html">amod</a></tt>]--> ADJ</tt> (25728; 96%),
 <tt>VERB --[<tt><a href="pl_pdb-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (11379; 92%),
-<tt>NOUN --[<tt><a href="pl_pdb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (7819; 64%),
+<tt>NOUN --[<tt><a href="pl_pdb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (7818; 64%),
 <tt>VERB --[<tt><a href="pl_pdb-dep-obl.html">obl</a></tt>]--> NOUN</tt> (6930; 55%),
-<tt>NOUN --[<tt><a href="pl_pdb-dep-nmod-arg.html">nmod:arg</a></tt>]--> NOUN</tt> (4824; 59%),
+<tt>NOUN --[<tt><a href="pl_pdb-dep-nmod-arg.html">nmod:arg</a></tt>]--> NOUN</tt> (4823; 59%),
 <tt>NOUN --[<tt><a href="pl_pdb-dep-conj.html">conj</a></tt>]--> NOUN</tt> (4285; 78%),
 <tt>NOUN --[<tt><a href="pl_pdb-dep-det.html">det</a></tt>]--> DET</tt> (3853; 98%),
 <tt>VERB --[<tt><a href="pl_pdb-dep-conj.html">conj</a></tt>]--> VERB</tt> (3695; 83%),

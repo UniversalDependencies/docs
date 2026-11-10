@@ -7,50 +7,53 @@ udver: '2'
 ## Treebank Statistics: UD_Esperanto-Prago: Features: `PronType`
 
 This feature is universal but the values `Emp` are language-specific.
-It occurs with 8 different values: `Art`, `Dem`, `Emp`, `Ind`, `Neg`, `Prs`, `Rel`, `Tot`.
+It occurs with 9 different values: `Art`, `Dem`, `Emp`, `Ind`, `Int`, `Neg`, `Prs`, `Rel`, `Tot`.
 
-543 tokens (17%) have a non-empty value of `PronType`.
-69 types (7%) occur at least once with a non-empty value of `PronType`.
-36 lemmas (4%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 3 part-of-speech tags: <tt><a href="eo_prago-pos-PRON.html">PRON</a></tt> (291; 9% instances), <tt><a href="eo_prago-pos-DET.html">DET</a></tt> (249; 8% instances), <tt><a href="eo_prago-pos-ADJ.html">ADJ</a></tt> (3; 0% instances).
+662 tokens (17%) have a non-empty value of `PronType`.
+74 types (6%) occur at least once with a non-empty value of `PronType`.
+47 lemmas (5%) occur at least once with a non-empty value of `PronType`.
+The feature is used with 3 part-of-speech tags: <tt><a href="eo_prago-pos-PRON.html">PRON</a></tt> (352; 9% instances), <tt><a href="eo_prago-pos-DET.html">DET</a></tt> (307; 8% instances), <tt><a href="eo_prago-pos-ADJ.html">ADJ</a></tt> (3; 0% instances).
 
 ### `PRON`
 
-291 <tt><a href="eo_prago-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
+352 <tt><a href="eo_prago-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="eo_prago-feat-Case.html">Case</a></tt><tt>=Nom</tt> (230; 79%), <tt><a href="eo_prago-feat-Number.html">Number</a></tt><tt>=Sing</tt> (220; 76%), <tt><a href="eo_prago-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (220; 76%), <tt><a href="eo_prago-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (217; 75%), <tt><a href="eo_prago-feat-Person.html">Person</a></tt><tt>=1</tt> (160; 55%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="eo_prago-feat-Case.html">Case</a></tt><tt>=Nom</tt> (282; 80%), <tt><a href="eo_prago-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (277; 79%), <tt><a href="eo_prago-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (274; 78%), <tt><a href="eo_prago-feat-Number.html">Number</a></tt><tt>=Sing</tt> (265; 75%).
 
 `PRON` tokens may have the following values of `PronType`:
 
-* `Art` (2; 1% of non-empty `PronType`): <em>iu, iun</em>
-* `Dem` (16; 5% of non-empty `PronType`): <em>tio, alia, tion, tiuj, tiun, unu</em>
+* `Art` (3; 1% of non-empty `PronType`): <em>iu, iun</em>
+* `Dem` (28; 8% of non-empty `PronType`): <em>tio, tiu, tiuj, tiun, alia, tion, unu</em>
 * `Emp` (1; 0% of non-empty `PronType`): <em>tiom</em>
-* `Neg` (1; 0% of non-empty `PronType`): <em>neniu</em>
-* `Prs` (224; 77% of non-empty `PronType`): <em>mi, mia, ni, mian, min, ili, miaj, si, oni, ĝin</em>
-* `Rel` (43; 15% of non-empty `PronType`): <em>kiu, kiuj, kiujn, kiun, kies, kian, kia</em>
-* `Tot` (4; 1% of non-empty `PronType`): <em>ĉiu, ĉion, ĉiuj</em>
+* `Int` (13; 4% of non-empty `PronType`): <em>kiu, kiuj, kiun</em>
+* `Neg` (8; 2% of non-empty `PronType`): <em>neniu, nenies, nenio, neniun</em>
+* `Prs` (236; 67% of non-empty `PronType`): <em>mi, mia, ni, mian, min, ili, miaj, si, li, oni</em>
+* `Rel` (43; 12% of non-empty `PronType`): <em>kiu, kiuj, kiujn, kiun, kies, kian, kia</em>
+* `Tot` (20; 6% of non-empty `PronType`): <em>ĉiuj, ĉiu, Ĉiun, ĉion, ĉiujn</em>
 
 <table>
-  <tr><th>Paradigm <i>alia</i></th><th><tt>Prs</tt></th><th><tt>Dem</tt></th></tr>
-  <tr><td><tt><tt><a href="eo_prago-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>alia</em></td></tr>
-  <tr><td><tt><tt><a href="eo_prago-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>aliaj</em></td><td></td></tr>
+  <tr><th>Paradigm <i>kiu</i></th><th><tt>Int</tt></th><th><tt>Rel</tt></th></tr>
+  <tr><td><tt><tt><a href="eo_prago-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="eo_prago-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>kiun</em></td></tr>
+  <tr><td><tt><tt><a href="eo_prago-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="eo_prago-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>kiujn</em></td></tr>
+  <tr><td><tt><tt><a href="eo_prago-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="eo_prago-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>kiu</em></td><td><em>kiu, kiuj</em></td></tr>
+  <tr><td><tt><tt><a href="eo_prago-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="eo_prago-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>kiuj</em></td></tr>
 </table>
 
-`PronType` seems to be **lexical feature** of `PRON`. 97% lemmas (29) occur only with one value of `PronType`.
+`PronType` seems to be **lexical feature** of `PRON`. 95% lemmas (39) occur only with one value of `PronType`.
 
 ### `DET`
 
-249 <tt><a href="eo_prago-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
+307 <tt><a href="eo_prago-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="eo_prago-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (183; 73%), <tt><a href="eo_prago-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (183; 73%), <tt><a href="eo_prago-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (181; 73%).
+The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="eo_prago-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (241; 79%), <tt><a href="eo_prago-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (241; 79%), <tt><a href="eo_prago-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (239; 78%).
 
 `DET` tokens may have the following values of `PronType`:
 
-* `Art` (184; 74% of non-empty `PronType`): <em>la, iu, iujn, kelkaj</em>
-* `Dem` (26; 10% of non-empty `PronType`): <em>tiun, tiu, tiuj, tiujn, Tia, alia</em>
+* `Art` (242; 79% of non-empty `PronType`): <em>la, iu, iujn, kelkaj</em>
+* `Dem` (26; 8% of non-empty `PronType`): <em>tiun, tiu, tiuj, tiujn, Tia, alia</em>
 * `Ind` (3; 1% of non-empty `PronType`): <em>ia, iaj</em>
 * `Prs` (3; 1% of non-empty `PronType`): <em>iliaj, sia, siajn</em>
-* `Tot` (33; 13% of non-empty `PronType`): <em>ĉiu, ĉiuj, ĉiun, ĉia, ĉian, ĉiujn</em>
+* `Tot` (33; 11% of non-empty `PronType`): <em>ĉiu, ĉiuj, ĉiun, ĉia, ĉian, ĉiujn</em>
 
 `PronType` seems to be **lexical feature** of `DET`. 100% lemmas (12) occur only with one value of `PronType`.
 
@@ -64,7 +67,7 @@ The most frequent other feature values with which `ADJ` and `PronType` co-occurr
 
 * `Dem` (1; 33% of non-empty `PronType`): <em>alia</em>
 * `Rel` (2; 67% of non-empty `PronType`): <em>kia, kies</em>
-* `EMPTY` (286): <em>lingva, alia, persona, aliaj, grandaj, homa, lingvaj, gepatra, hejma, internacia</em>
+* `EMPTY` (347): <em>alia, lingva, homa, internacia, persona, aliaj, grandaj, lingvaj, diversaj, multaj</em>
 
 ## Relations with Agreement in `PronType`
 

@@ -11,7 +11,7 @@ It occurs with 4 different values: `Acc`, `Dat`, `Gen`, `Nom`.
 
 1668242 tokens (48%) have a non-empty value of `Case`.
 109398 types (58%) occur at least once with a non-empty value of `Case`.
-87458 lemmas (60%) occur at least once with a non-empty value of `Case`.
+87526 lemmas (58%) occur at least once with a non-empty value of `Case`.
 The feature is used with 9 part-of-speech tags: <tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt> (529106; 15% instances), <tt><a href="de_hdt-pos-DET.html">DET</a></tt> (489419; 14% instances), <tt><a href="de_hdt-pos-ADP.html">ADP</a></tt> (345545; 10% instances), <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt> (147865; 4% instances), <tt><a href="de_hdt-pos-PRON.html">PRON</a></tt> (93577; 3% instances), <tt><a href="de_hdt-pos-PROPN.html">PROPN</a></tt> (61547; 2% instances), <tt><a href="de_hdt-pos-ADV.html">ADV</a></tt> (1074; 0% instances), <tt><a href="de_hdt-pos-X.html">X</a></tt> (61; 0% instances), <tt><a href="de_hdt-pos-NUM.html">NUM</a></tt> (48; 0% instances).
 
 ### `NOUN`
@@ -29,13 +29,9 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 * `EMPTY` (199994): <em>Millionen, Prozent, Milliarden, Mark, US-Dollar, Ende, Kunden, Unternehmen, AG, anfang</em>
 
 <table>
-  <tr><th>Paradigm <i>unknown</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th></tr>
-  <tr><td><tt>_</tt></td><td><em>Hacker, Initialisieren, Massachusetts, Met@box-Infonet, Online-Store, Portierung, Statement</em></td><td><em>G3-Minitower, IE, Java-VM, Nachfrager, Newsgroups, Pf./Min., Pf/Min., TLD, URL, Zersplitterung</em></td><td><em>Navigator, Kriminellen, Dot.Com-Companies, 1133-MHz-Pentium, 3.10a, Backups, Beiteiligten, Beschenkten, Bonnern, Boygroups, Breathe, Browser-Release, CCDs, Celera, Cern, Chattern, Clients, Colorama, Comdirect, Connectivity, Crusoe, Cyber-Entrepeneuren, Dauer-Rennerin, Desktop-Coppermines, Deut, E-Commercelern, ECMA, ECommerce, EFF, Einzelnen, Entrechtung, Excite.de, Firmenehe, GFlops, GMD, Gebaren, Gehetzten, Gehörlosen, Guides, Heavyweights, Heise-Ticker, Herstellter, Hightech, ICANN, ISPs, Internet-Appliances, Internetties, Iridium, Itanium, Jüngsten, Krawattis, Kritischeres, LANL, Lingubot, Lyan, Lüfter, MRJ-Plugin, Matloff, NCs, NSA, Nahost, Nicht-Windows-Clients, Nneben, Object, PC-Videobegeisterten, Password-Sniffern, Paybox, Pentium, Philanthropie, Plugin, Rechteverletzer, Registries, Resellern, S/390-Mainframes, Salinger, Schnellebigkeit, Schwerhörigen, Startup-Companies, Symbian, Taiwanern, Text-Mining, Threads, Tumorart, Tux, USB, VRML, Verleiher, Vice-President, W3C, Wang, What's, iCast-Clients, Ältestenrat, Öffentlich-Rechtlichen</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="de_hdt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>256bittigen</em></td><td></td><td><em>Internationbalen</em></td></tr>
-  <tr><td><tt><tt><a href="de_hdt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td></td><td><em>Rekonfigurierbaren</em></td></tr>
-  <tr><td><tt><tt><a href="de_hdt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>Milliardstel</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="de_hdt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td><em>Milliaren</em></td><td><em>128bittigen, Zellularen</em></td></tr>
-  <tr><td><tt><tt><a href="de_hdt-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>48bittige, COmputergestütztes</em></td><td><em>Wirtschaftswissenschaftlichen</em></td><td></td></tr>
+  <tr><th>Paradigm <i>Jahr</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th></tr>
+  <tr><td><tt><tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>Jahr</em></td><td><em>Jahr</em></td><td><em>Jahr, Jahre</em></td><td><em>Jahres, Jahrs, Jahr</em></td></tr>
+  <tr><td><tt><tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>Jahre</em></td><td><em>Jahre</em></td><td><em>Jahren, Jahre</em></td><td><em>Jahre</em></td></tr>
 </table>
 
 ### `DET`
@@ -97,7 +93,7 @@ The most frequent other feature values with which `ADJ` and `Case` co-occurred: 
 * `Dat` (52355; 35% of non-empty `Case`): <em>neuen, ersten, vergangenen, eigenen, letzten, deutschen, nächsten, heutigen, zweiten, 1.</em>
 * `Gen` (20585; 14% of non-empty `Case`): <em>neuen, deutschen, nächsten, letzten, neuer, europäischen, ersten, amerikanischen, vergangenen, beiden</em>
 * `Nom` (33302; 23% of non-empty `Case`): <em>neue, deutsche, erste, beiden, größte, amerikanische, neuer, neuen, große, europäische</em>
-* `EMPTY` (114746): <em>neue, weitere, möglich, gut, ganz, deutsche, weltweit, deutlich, knapp, künftig</em>
+* `EMPTY` (114757): <em>neue, weitere, möglich, gut, ganz, deutsche, weltweit, deutlich, knapp, künftig</em>
 
 <table>
   <tr><th>Paradigm <i>neu</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th></tr>
@@ -201,7 +197,7 @@ The most frequent other feature values with which `X` and `Case` co-occurred: <t
 * `Acc` (1; 2% of non-empty `Case`): <em>Internetbanking</em>
 * `Dat` (54; 89% of non-empty `Case`): <em>Internet, World, Baby, France, Instant, Open, Vice, endlich, .web-Domain, Abstract</em>
 * `Nom` (6; 10% of non-empty `Case`): <em>AID, Anti-Spam-Petition, Digital, Push, Telekom-Mitarbeiter, dmmv</em>
-* `EMPTY` (53630): <em>of, internet, the, and, digital, mobile, media, for, OS, network</em>
+* `EMPTY` (53631): <em>of, internet, the, and, digital, mobile, media, for, OS, network</em>
 
 <table>
   <tr><th>Paradigm <i>Digital</i></th><th><tt>Nom</tt></th><th><tt>Dat</tt></th></tr>

@@ -98,7 +98,7 @@ The most frequent other feature values with which `AUX` and `PronType` co-occurr
 The 10 most frequent relations where parent and child node agree in `PronType`:
 <tt>PRON --[<tt><a href="pcm_nsc-dep-reparandum.html">reparandum</a></tt>]--> PRON</tt> (127; 93%),
 <tt>PRON --[<tt><a href="pcm_nsc-dep-conj.html">conj</a></tt>]--> PRON</tt> (39; 89%),
-<tt>DET --[<tt><a href="pcm_nsc-dep-reparandum.html">reparandum</a></tt>]--> DET</tt> (36; 68%),
+<tt>DET --[<tt><a href="pcm_nsc-dep-reparandum.html">reparandum</a></tt>]--> DET</tt> (35; 67%),
 <tt>ADV --[<tt><a href="pcm_nsc-dep-reparandum.html">reparandum</a></tt>]--> ADV</tt> (16; 57%),
 <tt>PRON --[<tt><a href="pcm_nsc-dep-parataxis-conj.html">parataxis:conj</a></tt>]--> PRON</tt> (15; 88%),
 <tt>ADV --[<tt><a href="pcm_nsc-dep-conj.html">conj</a></tt>]--> ADV</tt> (10; 83%),

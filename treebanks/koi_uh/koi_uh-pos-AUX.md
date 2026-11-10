@@ -11,7 +11,7 @@ Out of 15 observed tags, the rank of `AUX` is: 8 in number of lemmas, 6 in numbe
 
 The 10 most frequent `AUX` lemmas: <em>оз, абу, вермыны, вӧвны, не, бы, ковны, овлыны, овны, позьны</em>
 
-The 10 most frequent `AUX` types:  <em>оз, эз, абу, эг, вермы, вӧлі, не, озӧ, эн, абуöсь</em>
+The 10 most frequent `AUX` types:  <em>оз, эз, абу, эг, вермы, вӧлі, не, озӧ, эн, абуӧсь</em>
 
 The 10 most frequent ambiguous lemmas: <em>оз</em> (<tt><a href="koi_uh-pos-AUX.html">AUX</a></tt> 27, <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> 1), <em>абу</em> (<tt><a href="koi_uh-pos-AUX.html">AUX</a></tt> 5, <tt><a href="koi_uh-pos-INTJ.html">INTJ</a></tt> 1), <em>вермыны</em> (<tt><a href="koi_uh-pos-AUX.html">AUX</a></tt> 3, <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> 1), <em>не</em> (<tt><a href="koi_uh-pos-AUX.html">AUX</a></tt> 2, <tt><a href="koi_uh-pos-CCONJ.html">CCONJ</a></tt> 2), <em>ковны</em> (<tt><a href="koi_uh-pos-AUX.html">AUX</a></tt> 1, <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> 1), <em>овны</em> (<tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> 2, <tt><a href="koi_uh-pos-AUX.html">AUX</a></tt> 1)
 
@@ -33,11 +33,11 @@ The 10 most frequent ambiguous types:  <em>вермы</em> (<tt><a href="koi_uh-
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 2.100000 (the average of all parts of speech is 1.260870).
+The form / lemma ratio of `AUX` is 2.100000 (the average of all parts of speech is 1.239604).
 
-The 1st highest number of forms (9) was observed with the lemma “оз”: <em>ог, оз, озӧ, он, эг, эгö, эд, эз, эн</em>.
+The 1st highest number of forms (9) was observed with the lemma “оз”: <em>ог, оз, озӧ, он, эг, эгӧ, эд, эз, эн</em>.
 
-The 2nd highest number of forms (2) was observed with the lemma “абу”: <em>абу, абуöсь</em>.
+The 2nd highest number of forms (2) was observed with the lemma “абу”: <em>абу, абуӧсь</em>.
 
 The 3rd highest number of forms (2) was observed with the lemma “вермыны”: <em>верман, вермы</em>.
 

@@ -9,20 +9,20 @@ udver: '2'
 This feature is language-specific.
 It occurs with 5 different values: `ADP`, `ADV`, `DET`, `PRON`, `SCONJ`.
 
-660 tokens (1%) have a non-empty value of `ExtPos`.
-24 types (0%) occur at least once with a non-empty value of `ExtPos`.
-20 lemmas (1%) occur at least once with a non-empty value of `ExtPos`.
-The feature is used with 4 part-of-speech tags: <tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt> (633; 1% instances), <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> (24; 0% instances), <tt><a href="xcl_caval-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+665 tokens (1%) have a non-empty value of `ExtPos`.
+27 types (0%) occur at least once with a non-empty value of `ExtPos`.
+23 lemmas (1%) occur at least once with a non-empty value of `ExtPos`.
+The feature is used with 5 part-of-speech tags: <tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt> (635; 1% instances), <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> (24; 0% instances), <tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="xcl_caval-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 ### `ADP`
 
-633 <tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt> tokens (5% of all `ADP` tokens) have a non-empty value of `ExtPos`.
+635 <tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt> tokens (5% of all `ADP` tokens) have a non-empty value of `ExtPos`.
 
-The most frequent other feature values with which `ADP` and `ExtPos` co-occurred: <tt><a href="xcl_caval-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (632; 100%).
+The most frequent other feature values with which `ADP` and `ExtPos` co-occurred: <tt><a href="xcl_caval-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (634; 100%).
 
 `ADP` tokens may have the following values of `ExtPos`:
 
-* `ADP` (517; 82% of non-empty `ExtPos`): <em>ի, մինչեւ, առ, ընդ, մերձ, շուրջ, մաւտ, մինչ, վասն, բայց</em>
+* `ADP` (519; 82% of non-empty `ExtPos`): <em>ի, մինչեւ, առ, ընդ, մերձ, շուրջ, մաւտ, մինչ, վասն, բայց</em>
 * `ADV` (109; 17% of non-empty `ExtPos`): <em>ի, առ, մինչեւ, յ</em>
 * `SCONJ` (7; 1% of non-empty `ExtPos`): <em>վասն, փոխանակ, մինչ</em>
 
@@ -47,6 +47,16 @@ The most frequent other feature values with which `ADV` and `ExtPos` co-occurred
   <tr><td><tt>_</tt></td><td></td><td><em>որպէս</em></td></tr>
   <tr><td><tt><tt><a href="xcl_caval-feat-PronType.html">PronType</a></tt><tt>=Rel</tt></tt></td><td><em>որպէս</em></td><td><em>որպէս</em></td></tr>
 </table>
+
+### `NOUN`
+
+3 <tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `ExtPos`.
+
+The most frequent other feature values with which `NOUN` and `ExtPos` co-occurred: <tt><a href="xcl_caval-feat-Case.html">Case</a></tt><tt>=Acc</tt> (3; 100%), <tt><a href="xcl_caval-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3; 100%).
+
+`NOUN` tokens may have the following values of `ExtPos`:
+
+* `ADV` (3; 100% of non-empty `ExtPos`): <em>աւրինակ, լու, ցան</em>
 
 ### `PART`
 

@@ -107,6 +107,5 @@ The most frequent other feature values with which `PRON` and `Abbr` co-occurred:
 The 10 most frequent relations where parent and child node agree in `Abbr`:
 <tt>NOUN --[<tt><a href="no_nynorsk-dep-conj.html">conj</a></tt>]--> NOUN</tt> (7; 54%),
 <tt>VERB --[<tt><a href="no_nynorsk-dep-expl.html">expl</a></tt>]--> PRON</tt> (4; 100%),
-<tt>NOUN --[<tt><a href="no_nynorsk-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (1; 100%),
-<tt>PROPN --[<tt><a href="no_nynorsk-dep-obl.html">obl</a></tt>]--> PROPN</tt> (1; 100%).
+<tt>NOUN --[<tt><a href="no_nynorsk-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (1; 100%).
 

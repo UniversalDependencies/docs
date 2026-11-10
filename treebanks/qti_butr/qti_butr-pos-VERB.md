@@ -34,8 +34,8 @@ The 3rd highest number of forms (3) was observed with the lemma “de”: <em>de
 `VERB` occurs with 34 feature-value pairs: `Aspect=Hab`, `Aspect=Imp`, `Aspect=Perf`, `Aspect=Prog`, `Aspect=Prosp`, `Case=Abl`, `Case=Acc`, `Case=Dat`, `Case=Nom`, `Evident=Fh`, `Evident=Nfh`, `Mood=Cnd`, `Mood=Imp`, `Mood=Ind`, `Mood=Opt`, `Mood=Pot`, `Number=Plur`, `Number=Sing`, `Number[psor]=Sing`, `Person=1`, `Person=2`, `Person=3`, `Person[psor]=3`, `Polarity=Neg`, `Polarity=Pos`, `Tense=Fut`, `Tense=Past`, `Tense=Pres`, `VerbForm=Conv`, `VerbForm=Fin`, `VerbForm=Inf`, `VerbForm=Part`, `VerbForm=Vnoun`, `Voice=Pass`
 
 `VERB` occurs with 52 feature combinations.
-The most frequent feature combination is `Aspect=Perf|Number=Sing|Person=3|Polarity=Pos|Tense=Past` (5 tokens).
-Examples: <em>geldi, dedi, gönderdi, oldu</em>
+The most frequent feature combination is `Aspect=Perf|Number=Sing|Person=1|Polarity=Pos|Tense=Past` (5 tokens).
+Examples: <em>ettim, düşündüm, overthinkledim, sevdim</em>
 
 
 ## Relations

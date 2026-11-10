@@ -59,7 +59,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 
 * `Card` (3; 0% of non-empty `NumType`): <em>17, 20, Teine</em>
 * `Ord` (2659; 100% of non-empty `NumType`): <em>esimene, 1., esimest, esimese, teine, 2000., 2., teise, 1997., 1999.</em>
-* `EMPTY` (34195): <em>suur, hea, võimalik, eesti, suurem, uue, suure, raske, oluline, viimase</em>
+* `EMPTY` (34190): <em>suur, hea, võimalik, eesti, suurem, uue, suure, raske, oluline, viimase</em>
 
 <table>
   <tr><th>Paradigm <i>teine</i></th><th><tt>Card</tt></th><th><tt>Ord</tt></th></tr>

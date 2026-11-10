@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-89 nodes (5%) are attached to their parents as `cop`.
+90 nodes (4%) are attached to their parents as `cop`.
 
-89 instances of `cop` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.60674157303371.
+90 instances of `cop` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.6.
 
-The following 3 pairs of parts of speech are connected with `cop`: <tt><a href="xpg_kul-pos-VERB.html">VERB</a></tt>-<tt><a href="xpg_kul-pos-AUX.html">AUX</a></tt> (84; 94% instances), <tt><a href="xpg_kul-pos-ADJ.html">ADJ</a></tt>-<tt><a href="xpg_kul-pos-AUX.html">AUX</a></tt> (4; 4% instances), <tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xpg_kul-pos-AUX.html">AUX</a></tt> (1; 1% instances).
+The following 3 pairs of parts of speech are connected with `cop`: <tt><a href="xpg_kul-pos-VERB.html">VERB</a></tt>-<tt><a href="xpg_kul-pos-AUX.html">AUX</a></tt> (84; 93% instances), <tt><a href="xpg_kul-pos-ADJ.html">ADJ</a></tt>-<tt><a href="xpg_kul-pos-AUX.html">AUX</a></tt> (4; 4% instances), <tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xpg_kul-pos-AUX.html">AUX</a></tt> (2; 2% instances).
 
 
 ~~~ conllu
@@ -44,25 +44,16 @@ The following 3 pairs of parts of speech are connected with `cop`: <tt><a href="
 
 
 ~~~ conllu
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 12 13 cop	color:blue
-1	ιος	ios	PRON	_	Case=Nom|ExtPos=PRON|Gender=Masc|Number=Sing|PronType=Rel	5	nsubj	_	Ref=TM867072-2-1
-2	νι	ni	PART	_	_	1	fixed	_	Ref=TM867072-2-2
-3	σαι	σεμουν	DET	_	Case=Dat|Gender=Fem|Number=Sing|PronType=Dem	6	det	_	Ref=TM867072-2-3
-4	κακουν	κακουν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	5	obj	_	Ref=TM867072-2-4
-5	αδδακεμ	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	acl	_	Ref=TM867072-2-5
-6	μανκαι	μανκα	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	5	iobj	_	SpaceAfter=No|Ref=TM867072-2-6
-7	,	,	PUNCT	_	_	5	punct	_	Ref=TM867072-2-7
-8	ας	as	ADP	_	_	9	case	_	Ref=TM867072-2-8
-9	ανανκαι	ανανκαι	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	12	obl	_	Ref=TM867072-2-9
-10	οι	ιοι	PRON	_	Case=Dat|Gender=Masc|Number=Sing|PronType=Prs	12	iobj	_	Ref=TM867072-2-10
-11	παντα	panta	ADJ	_	Case=Nom|Gender=Neut|Number=Plur	12	nsubj	_	Ref=TM867072-2-11
-12	κενα	κενα	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	0	root	_	Ref=TM867072-2-12
-13	⟨ι⟩ννου	ituv	AUX	_	Mood=Imp|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	cop	_	SpaceAfter=No|Ref=TM867072-2-13
-14	.	.	PUNCT	_	_	12	punct	_	Ref=TM867072-2-14
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 5 cop	color:blue
+1	yos	ios	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	4	dep	_	Ref=TM756920-2-1
+2	tutut	tutut[..]	X	_	_	4	dep	_	Ref=TM756920-2-2
+3	[---]ạ[.]m[.?]noy	[---]ạ[.]m[.?]noy	X	_	_	4	dep	_	Ref=TM756920-2-3
+4	akenanogavos	akenanogavos	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	Ref=TM756920-2-4
+5	aey	ituv	AUX	_	_	4	cop	_	Ref=TM756920-2-5
 
 ~~~
 

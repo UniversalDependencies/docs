@@ -43,13 +43,13 @@ The following 16 pairs of parts of speech are connected with `case`: <tt><a href
 1	Muistatkos	muistaa	VERB	V,Act,Ind,Pres,Sg2,Ko,S	Clitic=Ko,S|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 2	sen	se	DET	Pron,Dem,Sg,Gen	Case=Gen|Number=Sing|PronType=Dem	3	det	_	_
 3	Maijan	maija	PROPN	N,Prop,Sg,Gen	Case=Gen|Number=Sing	1	obj	_	_
-4	,	,	PUNCT	Pun	_	3	punct	_	_
+4	,	,	PUNCT	Pun	_	6	punct	_	_
 5	joka	joka	PRON	Pron,Rel,Sg,Nom	Case=Nom|Number=Sing|PronType=Rel	6	nsubj	_	_
 6	asui	asua	VERB	V,Act,Ind,Past,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	acl	_	_
 7	täällä	täällä	ADV	Adv,Dem	PronType=Dem	6	advmod	_	_
 8	ennen	ennen	ADP	Adp	_	9	case	_	_
 9	meitä	minä	PRON	Pron,Pers,Pl1,Par	Case=Par|Number=Plur|Person=1|PronType=Prs	6	obl	_	_
-10	?	?	PUNCT	Pun	_	9	punct	_	_
+10	?	?	PUNCT	Pun	_	1	punct	_	_
 
 ~~~
 

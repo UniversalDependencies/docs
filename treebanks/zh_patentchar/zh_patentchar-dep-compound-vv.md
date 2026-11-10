@@ -101,7 +101,7 @@ The following 4 pairs of parts of speech are connected with `compound:vv`: <tt><
 9	的	_	PART	_	_	8	case	_	Gloss=_|SpaceAfter=No|Translit=de
 10	值	_	NOUN	_	_	7	obj	_	Gloss=_|SpaceAfter=No|Translit=zhí
 11	，	_	PUNCT	_	_	20	punct	_	Gloss=_|SpaceAfter=No|Translit=，
-12	将	_	PART	_	_	15	case	_	Gloss=_|SpaceAfter=No|Translit=jiāng
+12	将	_	PART	_	_	20	mark	_	Gloss=_|SpaceAfter=No|Translit=jiāng
 13	paddr_vmcoreinfo_xen	_	PROPN	_	_	20	obl	_	Gloss=_|SpaceAfter=No|Translit=paddr_vmcoreinfo_xen
 14	的	_	PART	_	_	13	case	_	Gloss=_|SpaceAfter=No|Translit=de
 15	值	_	NOUN	_	_	20	obj	_	Gloss=_|SpaceAfter=No|Translit=zhí

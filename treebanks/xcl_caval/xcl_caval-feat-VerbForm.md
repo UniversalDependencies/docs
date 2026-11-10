@@ -18,15 +18,15 @@ The feature is used with 2 part-of-speech tags: <tt><a href="xcl_caval-pos-VERB.
 
 14615 <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="xcl_caval-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (12686; 87%), <tt><a href="xcl_caval-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9335; 64%), <tt><a href="xcl_caval-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (8594; 59%), <tt><a href="xcl_caval-feat-Person.html">Person</a></tt><tt>=3</tt> (8455; 58%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="xcl_caval-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (12686; 87%), <tt><a href="xcl_caval-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9336; 64%), <tt><a href="xcl_caval-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (8594; 59%), <tt><a href="xcl_caval-feat-Person.html">Person</a></tt><tt>=3</tt> (8455; 58%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
-* `Conv` (69; 0% of non-empty `VerbForm`): <em>գալոց, մատնելոց, ըմպելոց, լինելոց, մեռանելոց, մկրտելոց, անցանելոց, առնելոց, գայթագղելոց, կատարելոց</em>
+* `Conv` (70; 0% of non-empty `VerbForm`): <em>գալոց, մատնելոց, ըմպելոց, լինելոց, մեռանելոց, մկրտելոց, անցանելոց, առնելոց, գայթագղելոց, կատարելոց</em>
 * `Fin` (11514; 79% of non-empty `VerbForm`): <em>ասէ, ետ, ասեն, ասեմ, ասեին, եկն, ասաց, գայ, ել, ասէր</em>
-* `Inf` (1106; 8% of non-empty `VerbForm`): <em>ասել, առնել, տալ, մտանել, ունել, գալ, տեսանել, առնուլ, ուտել, կալ</em>
-* `Part` (1719; 12% of non-empty `VerbForm`): <em>եկեալ, առեալ, մատուցեալ, գրեալ, ելեալ, տեսեալ, յարուցեալ, մտեալ, հասեալ, թողեալ</em>
-* `Vnoun` (207; 1% of non-empty `VerbForm`): <em>ելանել, լսելոյ, մտանել, ծնանելոյ, հասանել, գալ, զարմանալ, կալ, կատարել, մեռանել</em>
+* `Inf` (1105; 8% of non-empty `VerbForm`): <em>ասել, առնել, տալ, մտանել, ունել, գալ, տեսանել, առնուլ, ուտել, կալ</em>
+* `Part` (1718; 12% of non-empty `VerbForm`): <em>եկեալ, առեալ, մատուցեալ, գրեալ, ելեալ, տեսեալ, յարուցեալ, մտեալ, հասեալ, թողեալ</em>
+* `Vnoun` (208; 1% of non-empty `VerbForm`): <em>ելանել, լսելոյ, մտանել, ծնանելոյ, հասանել, գալ, կալ, կատարել, մեռանել, սերմանել</em>
 * `EMPTY` (1): <em>տարջիք</em>
 
 <table>
@@ -139,9 +139,9 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
 ## Relations with Agreement in `VerbForm`
 
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
-<tt>VERB --[<tt><a href="xcl_caval-dep-conj.html">conj</a></tt>]--> VERB</tt> (3015; 96%),
-<tt>VERB --[<tt><a href="xcl_caval-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (1672; 89%),
-<tt>VERB --[<tt><a href="xcl_caval-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (1079; 52%),
+<tt>VERB --[<tt><a href="xcl_caval-dep-conj.html">conj</a></tt>]--> VERB</tt> (3017; 96%),
+<tt>VERB --[<tt><a href="xcl_caval-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (1671; 89%),
+<tt>VERB --[<tt><a href="xcl_caval-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (1078; 52%),
 <tt>VERB --[<tt><a href="xcl_caval-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (227; 97%),
 <tt>VERB --[<tt><a href="xcl_caval-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (129; 87%),
 <tt>AUX --[<tt><a href="xcl_caval-dep-conj.html">conj</a></tt>]--> VERB</tt> (29; 88%),

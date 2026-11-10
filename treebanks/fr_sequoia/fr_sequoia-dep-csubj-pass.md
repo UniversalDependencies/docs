@@ -30,13 +30,13 @@ The following 2 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 6	pas	pas	ADV	_	Polarity=Neg	7	advmod	_	_
 7	suffisante	suffisant	ADJ	_	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
 8	,	,	PUNCT	_	_	10	punct	_	_
-9	étant	être	AUX	_	VerbForm=Part	10	aux:pass	_	Tense[denom]=Pres
-10	donné	donner	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	7	advcl	_	Tense[denom]=Past
+9	étant	être	AUX	_	Tense=Pres|VerbForm=Part	10	aux:pass	_	Status[Tense]=Denom
+10	donné	donner	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	7	advcl	_	Status[Tense]=Denom
 11	que	que	SCONJ	_	_	15	mark	_	_
 12	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	13	det	_	_
 13	avions	avion	NOUN	_	Gender=Masc|Number=Plur	15	nsubj:pass	_	Exponence[Gender]=Inherent
 14	sont	être	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	15	aux:pass	_	_
-15	produits	produire	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass	10	csubj:pass	_	Tense[denom]=Past
+15	produits	produire	VERB	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	10	csubj:pass	_	Status[Tense]=Denom
 16	sur	sur	ADP	_	_	18	case	_	_
 17	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
 18	marché	marché	NOUN	_	Gender=Masc|Number=Sing	15	obl:mod	_	Exponence[Gender]=Inherent
@@ -52,8 +52,8 @@ The following 2 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 15 csubj:pass	color:blue
-1	Étant	être	AUX	_	VerbForm=Part	2	aux:pass	_	Tense[denom]=Pres
-2	donné	donner	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	25	advcl	_	Tense[denom]=Past
+1	Étant	être	AUX	_	Tense=Pres|VerbForm=Part	2	aux:pass	_	Status[Tense]=Denom
+2	donné	donner	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	25	advcl	_	Status[Tense]=Denom
 3	que	que	SCONJ	_	_	15	mark	_	_
 4	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 5	durée	durée	NOUN	_	Gender=Fem|Number=Sing	15	nsubj	_	Exponence[Gender]=Inherent

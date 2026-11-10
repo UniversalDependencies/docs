@@ -22,7 +22,7 @@ The following 7 pairs of parts of speech are connected with `discourse`: <tt><a 
 # visual-style 22	bgColor:blue
 # visual-style 22	fgColor:white
 # visual-style 22 1 discourse	color:blue
-1	Тем	то	PRON	DT	Case=Ins|Gender=Neut|Number=Sing	22	discourse	_	_
+1	Тем	то	PRON	DT	Animacy=Inan|Case=Ins|ExtPos=ADV|Gender=Neut|Number=Sing|PronType=Dem	22	discourse	_	_
 2	не	не	PART	NEG	Polarity=Neg	1	fixed	_	_
 3	менее	менее	ADV	RBR	Degree=Cmp	1	fixed	_	SpaceAfter=No
 4	,	,	PUNCT	,	_	1	punct	_	_
@@ -42,7 +42,7 @@ The following 7 pairs of parts of speech are connected with `discourse`: <tt><a 
 18	V	v	ADJ	ORD	_	17	flat:name	_	Proper=True
 19	и	и	CCONJ	CC	_	20	cc	_	_
 20	Карла	Карл	PROPN	NNP	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	14	conj	_	_
-21	IV	iv	ADJ	ORD	_	20	flat:name	_	Proper=True
+21	IV	IV	ADJ	ORD	_	20	flat:name	_	Proper=True
 22	было	быть	AUX	VBC	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 23	бы	бы	AUX	RP	Mood=Cnd	22	aux	_	_
 24	больше	много	NUM	RBR	_	25	nummod	_	_
@@ -52,7 +52,7 @@ The following 7 pairs of parts of speech are connected with `discourse`: <tt><a 
 28	,	,	PUNCT	,	_	32	punct	_	_
 29	чем	чем	SCONJ	IN	_	32	case	_	_
 30	у	у	ADP	IN	_	32	case	_	_
-31	их	их	DET	PRP$	_	32	det	_	_
+31	их	их	DET	PRP$	Poss=Yes|PronType=Prs	32	det	_	_
 32	тетки	тетка	NOUN	NN	Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing	25	nmod	_	_
 33	Изабеллы	Изабелла	PROPN	NNP	Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing	32	flat:name	_	_
 34	Французской	французский	ADJ	JJ	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	32	flat:name	_	SpaceAfter=No
@@ -75,9 +75,9 @@ The following 7 pairs of parts of speech are connected with `discourse`: <tt><a 
 6	Соединенных	соединенный	ADJ	JJ	Case=Gen|Degree=Pos|Number=Plur	7	amod	_	Proper=True
 7	Штатов	Штат	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	5	nmod	_	SpaceAfter=No
 8	,	,	PUNCT	,	_	13	punct	_	_
-9	кто	кто	PRON	WP	Case=Nom	13	nsubj	_	_
+9	кто	кто	PRON	WP	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	13	nsubj	_	_
 10	бы	бы	AUX	RP	Mood=Cnd	13	aux	_	_
-11	им	он	PRON	PRP	Case=Ins|Gender=Masc|Number=Sing|Person=3	13	iobj	_	_
+11	им	он	PRON	PRP	Case=Ins|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	iobj	_	_
 12	ни	ни	PART	NEG	Polarity=Neg	13	advmod	_	_
 13	стал	стать	VERB	VBC	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	SpaceAfter=No
 14	.	.	PUNCT	.	_	2	punct	_	_
@@ -94,7 +94,7 @@ The following 7 pairs of parts of speech are connected with `discourse`: <tt><a 
 1	Ведь	ведь	PART	UH	_	6	discourse	_	_
 2	интернет	интернет	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
 3	—	—	PUNCT	-	_	2	punct	_	_
-4	это	это	PRON	DT	Case=Nom|Gender=Neut|Number=Sing	6	expl	_	_
+4	это	это	PRON	DT	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	6	expl	_	_
 5	не	не	PART	NEG	Polarity=Neg	6	advmod	_	_
 6	роскошь	роскошь	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
 7	,	,	PUNCT	,	_	10	punct	_	_

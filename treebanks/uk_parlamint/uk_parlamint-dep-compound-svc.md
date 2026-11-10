@@ -54,7 +54,7 @@ The following 2 pairs of parts of speech are connected with `compound:svc`: <tt>
 6	Михайловичу	Михайлович	PROPN	PROPN	Animacy=Anim|Case=Voc|Gender=Masc|NameType=Pat|Number=Sing	5	flat:name	_	SpaceAfter=No
 7	,	,	PUNCT	PUNCT	_	5	punct	_	_
 8	давайте	давати	VERB	VERB	Aspect=Imp|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	3	parataxis	_	_
-9	ж	ж	PART	PART	_	8	discourse	_	_
+9	ж	ж	PART	PART	_	8	advmod:emph	_	_
 10	будемо	бути	AUX	AUX	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	13	cop	_	_
 11	всі	весь	PRON	PRON	Case=Nom|Number=Plur|PronType=Tot	13	nsubj	_	_
 12	зараз	зараз	ADV	ADV	PronType=Dem	13	advmod	_	_

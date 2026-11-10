@@ -9,110 +9,146 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Yes`.
 
-29 tokens (0%) have a non-empty value of `Typo`.
-29 types (0%) occur at least once with a non-empty value of `Typo`.
-28 lemmas (1%) occur at least once with a non-empty value of `Typo`.
-The feature is used with 11 part-of-speech tags: <tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt> (9; 0% instances), <tt><a href="orv_birchbark-pos-PROPN.html">PROPN</a></tt> (6; 0% instances), <tt><a href="orv_birchbark-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="orv_birchbark-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="orv_birchbark-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="orv_birchbark-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="orv_birchbark-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="orv_birchbark-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="orv_birchbark-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="orv_birchbark-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+190 tokens (1%) have a non-empty value of `Typo`.
+183 types (1%) occur at least once with a non-empty value of `Typo`.
+142 lemmas (3%) occur at least once with a non-empty value of `Typo`.
+The feature is used with 13 part-of-speech tags: <tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt> (70; 0% instances), <tt><a href="orv_birchbark-pos-PROPN.html">PROPN</a></tt> (41; 0% instances), <tt><a href="orv_birchbark-pos-ADJ.html">ADJ</a></tt> (19; 0% instances), <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt> (15; 0% instances), <tt><a href="orv_birchbark-pos-ADP.html">ADP</a></tt> (12; 0% instances), <tt><a href="orv_birchbark-pos-PRON.html">PRON</a></tt> (8; 0% instances), <tt><a href="orv_birchbark-pos-ADV.html">ADV</a></tt> (7; 0% instances), <tt><a href="orv_birchbark-pos-DET.html">DET</a></tt> (7; 0% instances), <tt><a href="orv_birchbark-pos-NUM.html">NUM</a></tt> (5; 0% instances), <tt><a href="orv_birchbark-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="orv_birchbark-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="orv_birchbark-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="orv_birchbark-pos-PART.html">PART</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-9 <tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Typo`.
+70 <tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt> tokens (1% of all `NOUN` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `NOUN` and `Typo` co-occurred: <tt><a href="orv_birchbark-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (7; 78%), <tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=Plur</tt> (5; 56%).
+The most frequent other feature values with which `NOUN` and `Typo` co-occurred: <tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=Sing</tt> (56; 80%), <tt><a href="orv_birchbark-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (39; 56%).
 
 `NOUN` tokens may have the following values of `Typo`:
 
-* `Yes` (9; 100% of non-empty `Typo`): <em>верх{о}ъ, кѹ, лисид{н}ци<lbr/>никѣ, поклонъ{н}, поконо, р<lbr/>е, рубри, скотника, смедри</em>
+* `Yes` (70; 100% of non-empty `Typo`): <em>грива, гриви, (б)еркꙋ<lbr/>веск[о], (гр)[и]ва, (съ)<lbr/>рицека, -ижицѹ, {к}кнѧжь, {л}лꙋ<lbr/>дие, {п}чоломъ, {пло}</em>
+
+`Typo` seems to be **lexical feature** of `NOUN`. 100% lemmas (46) occur only with one value of `Typo`.
 
 ### `PROPN`
 
-6 <tt><a href="orv_birchbark-pos-PROPN.html">PROPN</a></tt> tokens (0% of all `PROPN` tokens) have a non-empty value of `Typo`.
+41 <tt><a href="orv_birchbark-pos-PROPN.html">PROPN</a></tt> tokens (1% of all `PROPN` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `PROPN` and `Typo` co-occurred: <tt><a href="orv_birchbark-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (6; 100%), <tt><a href="orv_birchbark-feat-NameType.html">NameType</a></tt><tt>=Giv</tt> (6; 100%), <tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6; 100%).
+The most frequent other feature values with which `PROPN` and `Typo` co-occurred: <tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=Sing</tt> (38; 93%), <tt><a href="orv_birchbark-feat-NameType.html">NameType</a></tt><tt>=Giv</tt> (35; 85%), <tt><a href="orv_birchbark-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (34; 83%).
 
 `PROPN` tokens may have the following values of `Typo`:
 
-* `Yes` (6; 100% of non-empty `Typo`): <em>борицк, ивана, косноти{ти}ни, ме:ке, сепоне, ѥва</em>
+* `Yes` (41; 100% of non-empty `Typo`): <em>[п]рошик, [ѳ]ам[и], {офн}, богош, бори<lbr/>{си}се, борицк, бꙑко<lbr/>щинѣ, вавоцо, васиилѣ, гравриѧ</em>
+
+`Typo` seems to be **lexical feature** of `PROPN`. 100% lemmas (40) occur only with one value of `Typo`.
 
 ### `ADJ`
 
-4 <tt><a href="orv_birchbark-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `Typo`.
+19 <tt><a href="orv_birchbark-pos-ADJ.html">ADJ</a></tt> tokens (2% of all `ADJ` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `ADJ` and `Typo` co-occurred: <tt><a href="orv_birchbark-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (4; 100%), <tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4; 100%), <tt><a href="orv_birchbark-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="orv_birchbark-feat-Case.html">Case</a></tt><tt>=Acc</tt> (3; 75%), <tt><a href="orv_birchbark-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (3; 75%).
+The most frequent other feature values with which `ADJ` and `Typo` co-occurred: <tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=Sing</tt> (14; 74%), <tt><a href="orv_birchbark-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (14; 74%), <tt><a href="orv_birchbark-feat-NumForm.html">NumForm</a></tt><tt>=EMPTY</tt> (13; 68%), <tt><a href="orv_birchbark-feat-NumType.html">NumType</a></tt><tt>=EMPTY</tt> (13; 68%), <tt><a href="orv_birchbark-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (12; 63%).
 
 `ADJ` tokens may have the following values of `Typo`:
 
-* `Yes` (4; 100% of non-empty `Typo`): <em>вели, жеѧ, иван{ав}ова, силв{н}а<lbr/>нова</em>
+* `Yes` (19; 100% of non-empty `Typo`): <em>бедена{на}ми, вели, жеѧ, иван{ав}ова, коуро, м<lbr/>шкинъ, мьртꙑ<lbr/>ихо, нꙑне[ши][х](о), ольѯ[н]о, рти</em>
+
+`Typo` seems to be **lexical feature** of `ADJ`. 100% lemmas (16) occur only with one value of `Typo`.
+
+### `VERB`
+
+15 <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt> tokens (1% of all `VERB` tokens) have a non-empty value of `Typo`.
+
+The most frequent other feature values with which `VERB` and `Typo` co-occurred: <tt><a href="orv_birchbark-feat-Analyt.html">Analyt</a></tt><tt>=EMPTY</tt> (15; 100%), <tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=Sing</tt> (11; 73%), <tt><a href="orv_birchbark-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (11; 73%), <tt><a href="orv_birchbark-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (9; 60%), <tt><a href="orv_birchbark-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (9; 60%), <tt><a href="orv_birchbark-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (8; 53%).
+
+`VERB` tokens may have the following values of `Typo`:
+
+* `Yes` (15; 100% of non-empty `Typo`): <em>[кне]<lbr/>ни, вовѣсѧ, вонемъш{ш}и, емьль, печали, плати, пло[щ]…, покꙋшти, поциваѥмо, присл{л}а<lbr/>въши</em>
+
+`Typo` seems to be **lexical feature** of `VERB`. 100% lemmas (15) occur only with one value of `Typo`.
 
 ### `ADP`
 
-3 <tt><a href="orv_birchbark-pos-ADP.html">ADP</a></tt> tokens (0% of all `ADP` tokens) have a non-empty value of `Typo`.
+12 <tt><a href="orv_birchbark-pos-ADP.html">ADP</a></tt> tokens (0% of all `ADP` tokens) have a non-empty value of `Typo`.
 
 `ADP` tokens may have the following values of `Typo`:
 
-* `Yes` (3; 100% of non-empty `Typo`): <em>ко{и}, педъ, ѡ</em>
+* `Yes` (12; 100% of non-empty `Typo`): <em>о, ѡ, {с}со, ко{и}, н, не, п, педъ, у, церосъ</em>
 
-### `CCONJ`
+### `PRON`
 
-1 <tt><a href="orv_birchbark-pos-CCONJ.html">CCONJ</a></tt> tokens (0% of all `CCONJ` tokens) have a non-empty value of `Typo`.
+8 <tt><a href="orv_birchbark-pos-PRON.html">PRON</a></tt> tokens (1% of all `PRON` tokens) have a non-empty value of `Typo`.
 
-`CCONJ` tokens may have the following values of `Typo`:
+The most frequent other feature values with which `PRON` and `Typo` co-occurred: <tt><a href="orv_birchbark-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (8; 100%), <tt><a href="orv_birchbark-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (6; 75%), <tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6; 75%), <tt><a href="orv_birchbark-feat-Clitic.html">Clitic</a></tt><tt>=EMPTY</tt> (5; 63%).
 
-* `Yes` (1; 100% of non-empty `Typo`): <em>ӏ</em>
+`PRON` tokens may have the following values of `Typo`:
+
+* `Yes` (8; 100% of non-empty `Typo`): <em>[н]и, дѧ, не, не<lbr/>мь<lbr/>{мь}, нхо, та, ю, ѧ</em>
+
+### `ADV`
+
+7 <tt><a href="orv_birchbark-pos-ADV.html">ADV</a></tt> tokens (2% of all `ADV` tokens) have a non-empty value of `Typo`.
+
+`ADV` tokens may have the following values of `Typo`:
+
+* `Yes` (7; 100% of non-empty `Typo`): <em>нии, нѣ, нꙑ, нꙑнꙑ, та, такоко, …тъгꙑдъ…</em>
 
 ### `DET`
 
-1 <tt><a href="orv_birchbark-pos-DET.html">DET</a></tt> tokens (0% of all `DET` tokens) have a non-empty value of `Typo`.
+7 <tt><a href="orv_birchbark-pos-DET.html">DET</a></tt> tokens (1% of all `DET` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `DET` and `Typo` co-occurred: <tt><a href="orv_birchbark-feat-Case.html">Case</a></tt><tt>=Dat</tt> (1; 100%), <tt><a href="orv_birchbark-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (1; 100%), <tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%).
+The most frequent other feature values with which `DET` and `Typo` co-occurred: <tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6; 86%), <tt><a href="orv_birchbark-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (5; 71%), <tt><a href="orv_birchbark-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (4; 57%), <tt><a href="orv_birchbark-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (4; 57%).
 
 `DET` tokens may have the following values of `Typo`:
 
-* `Yes` (1; 100% of non-empty `Typo`): <em>нее</em>
+* `Yes` (7; 100% of non-empty `Typo`): <em>ва, иого, мо)<lbr/>ѥмо, нееже, нꙑхъ, своӏ, свъѥ<lbr/>…</em>
 
 ### `NUM`
 
-1 <tt><a href="orv_birchbark-pos-NUM.html">NUM</a></tt> tokens (0% of all `NUM` tokens) have a non-empty value of `Typo`.
+5 <tt><a href="orv_birchbark-pos-NUM.html">NUM</a></tt> tokens (0% of all `NUM` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `NUM` and `Typo` co-occurred: <tt><a href="orv_birchbark-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1; 100%), <tt><a href="orv_birchbark-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="orv_birchbark-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (1; 100%), <tt><a href="orv_birchbark-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (1; 100%), <tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1; 100%).
+The most frequent other feature values with which `NUM` and `Typo` co-occurred: <tt><a href="orv_birchbark-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (5; 100%), <tt><a href="orv_birchbark-feat-Case.html">Case</a></tt><tt>=Nom</tt> (4; 80%), <tt><a href="orv_birchbark-feat-NumType.html">NumType</a></tt><tt>=Frac</tt> (3; 60%).
 
 `NUM` tokens may have the following values of `Typo`:
 
-* `Yes` (1; 100% of non-empty `Typo`): <em>монаго</em>
+* `Yes` (5; 100% of non-empty `Typo`): <em>{п}полътора, монаго, нмого, полтри, ⟦по|луто⟧</em>
+
+### `CCONJ`
+
+2 <tt><a href="orv_birchbark-pos-CCONJ.html">CCONJ</a></tt> tokens (0% of all `CCONJ` tokens) have a non-empty value of `Typo`.
+
+`CCONJ` tokens may have the following values of `Typo`:
+
+* `Yes` (2; 100% of non-empty `Typo`): <em>д, ӏ</em>
+
+### `SCONJ`
+
+2 <tt><a href="orv_birchbark-pos-SCONJ.html">SCONJ</a></tt> tokens (1% of all `SCONJ` tokens) have a non-empty value of `Typo`.
+
+The most frequent other feature values with which `SCONJ` and `Typo` co-occurred: <tt><a href="orv_birchbark-feat-ExtPos.html">ExtPos</a></tt><tt>=EMPTY</tt> (2; 100%).
+
+`SCONJ` tokens may have the following values of `Typo`:
+
+* `Yes` (2; 100% of non-empty `Typo`): <em>ааи, же</em>
+
+### `AUX`
+
+1 <tt><a href="orv_birchbark-pos-AUX.html">AUX</a></tt> tokens (0% of all `AUX` tokens) have a non-empty value of `Typo`.
+
+The most frequent other feature values with which `AUX` and `Typo` co-occurred: <tt><a href="orv_birchbark-feat-Analyt.html">Analyt</a></tt><tt>=Yes</tt> (1; 100%), <tt><a href="orv_birchbark-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%), <tt><a href="orv_birchbark-feat-Person.html">Person</a></tt><tt>=1</tt> (1; 100%), <tt><a href="orv_birchbark-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1; 100%), <tt><a href="orv_birchbark-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="orv_birchbark-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (1; 100%).
+
+`AUX` tokens may have the following values of `Typo`:
+
+* `Yes` (1; 100% of non-empty `Typo`): <em>ѥмь</em>
 
 ### `PART`
 
 1 <tt><a href="orv_birchbark-pos-PART.html">PART</a></tt> tokens (0% of all `PART` tokens) have a non-empty value of `Typo`.
 
+The most frequent other feature values with which `PART` and `Typo` co-occurred: <tt><a href="orv_birchbark-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (1; 100%).
+
 `PART` tokens may have the following values of `Typo`:
 
-* `Yes` (1; 100% of non-empty `Typo`): <em>ти</em>
+* `Yes` (1; 100% of non-empty `Typo`): <em>ше</em>
 
-### `PRON`
+## Relations with Agreement in `Typo`
 
-1 <tt><a href="orv_birchbark-pos-PRON.html">PRON</a></tt> tokens (0% of all `PRON` tokens) have a non-empty value of `Typo`.
-
-The most frequent other feature values with which `PRON` and `Typo` co-occurred: <tt><a href="orv_birchbark-feat-Case.html">Case</a></tt><tt>=Acc,Gen</tt> (1; 100%), <tt><a href="orv_birchbark-feat-Clitic.html">Clitic</a></tt><tt>=No</tt> (1; 100%), <tt><a href="orv_birchbark-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%), <tt><a href="orv_birchbark-feat-Person.html">Person</a></tt><tt>=1</tt> (1; 100%), <tt><a href="orv_birchbark-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (1; 100%).
-
-`PRON` tokens may have the following values of `Typo`:
-
-* `Yes` (1; 100% of non-empty `Typo`): <em>не</em>
-
-### `SCONJ`
-
-1 <tt><a href="orv_birchbark-pos-SCONJ.html">SCONJ</a></tt> tokens (0% of all `SCONJ` tokens) have a non-empty value of `Typo`.
-
-`SCONJ` tokens may have the following values of `Typo`:
-
-* `Yes` (1; 100% of non-empty `Typo`): <em>ааи</em>
-
-### `VERB`
-
-1 <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Typo`.
-
-The most frequent other feature values with which `VERB` and `Typo` co-occurred: <tt><a href="orv_birchbark-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="orv_birchbark-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="orv_birchbark-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="orv_birchbark-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="orv_birchbark-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="orv_birchbark-feat-VerbForm.html">VerbForm</a></tt><tt>=Inf</tt> (1; 100%), <tt><a href="orv_birchbark-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1; 100%).
-
-`VERB` tokens may have the following values of `Typo`:
-
-* `Yes` (1; 100% of non-empty `Typo`): <em>ѥ{д}здити</em>
+The 10 most frequent relations where parent and child node agree in `Typo`:
+<tt>NOUN --[<tt><a href="orv_birchbark-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (1; 100%),
+<tt>PROPN --[<tt><a href="orv_birchbark-dep-det.html">det</a></tt>]--> DET</tt> (1; 100%).
 

@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Abs`, `Cmp`, `Sup`.
 
-317 tokens (0%) have a non-empty value of `Degree`.
-147 types (1%) occur at least once with a non-empty value of `Degree`.
+315 tokens (0%) have a non-empty value of `Degree`.
+146 types (1%) occur at least once with a non-empty value of `Degree`.
 104 lemmas (2%) occur at least once with a non-empty value of `Degree`.
-The feature is used with 3 part-of-speech tags: <tt><a href="it_old-pos-ADJ.html">ADJ</a></tt> (178; 0% instances), <tt><a href="it_old-pos-ADV.html">ADV</a></tt> (135; 0% instances), <tt><a href="it_old-pos-DET.html">DET</a></tt> (4; 0% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="it_old-pos-ADJ.html">ADJ</a></tt> (179; 0% instances), <tt><a href="it_old-pos-ADV.html">ADV</a></tt> (135; 0% instances), <tt><a href="it_old-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 ### `ADJ`
 
-178 <tt><a href="it_old-pos-ADJ.html">ADJ</a></tt> tokens (3% of all `ADJ` tokens) have a non-empty value of `Degree`.
+179 <tt><a href="it_old-pos-ADJ.html">ADJ</a></tt> tokens (3% of all `ADJ` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="it_old-feat-Number.html">Number</a></tt><tt>=Sing</tt> (144; 81%), <tt><a href="it_old-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (91; 51%).
+The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="it_old-feat-Number.html">Number</a></tt><tt>=Sing</tt> (144; 80%), <tt><a href="it_old-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (91; 51%).
 
 `ADJ` tokens may have the following values of `Degree`:
 
 * `Abs` (31; 17% of non-empty `Degree`): <em>altissimo, dolcissimo, lenta, lento, alto, bassissimo, chiarissima, famoso, giustissimo, illustri</em>
-* `Cmp` (131; 74% of non-empty `Degree`): <em>maggior, alto, dolce, tardo, bella, cara, maggiori, grande, grata, mai</em>
+* `Cmp` (132; 74% of non-empty `Degree`): <em>maggior, alto, dolce, tardo, bella, cara, maggiori, grande, grata, mai</em>
 * `Sup` (16; 9% of non-empty `Degree`): <em>basso, bella, alte, alto, cara, caro, dia, lontan, lontana, luculenta</em>
-* `EMPTY` (5021): <em>gran, dolce, primo, prima, alto, buon, bella, alta, etterno, grande</em>
+* `EMPTY` (5024): <em>gran, dolce, primo, prima, alto, buon, bella, alta, etterno, grande</em>
 
 <table>
   <tr><th>Paradigm <i>alto</i></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th><th><tt>Abs</tt></th></tr>
@@ -44,21 +44,20 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
 `ADV` tokens may have the following values of `Degree`:
 
 * `Cmp` (135; 100% of non-empty `Degree`): <em>più, men, tosto, meglio, oltre, sù, avanti, forte, giù, mei</em>
-* `EMPTY` (10246): <em>non, sì, come, più, poi, così, là, già, tanto, qui</em>
+* `EMPTY` (10251): <em>non, sì, come, più, poi, così, là, già, tanto, qui</em>
 
 `Degree` seems to be **lexical feature** of `ADV`. 100% lemmas (17) occur only with one value of `Degree`.
 
 ### `DET`
 
-4 <tt><a href="it_old-pos-DET.html">DET</a></tt> tokens (0% of all `DET` tokens) have a non-empty value of `Degree`.
+1 <tt><a href="it_old-pos-DET.html">DET</a></tt> tokens (0% of all `DET` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `DET` and `Degree` co-occurred: <tt><a href="it_old-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="it_old-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="it_old-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (3; 75%).
+The most frequent other feature values with which `DET` and `Degree` co-occurred: <tt><a href="it_old-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="it_old-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (1; 100%), <tt><a href="it_old-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%), <tt><a href="it_old-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="it_old-feat-PronType.html">PronType</a></tt><tt>=Ind</tt> (1; 100%).
 
 `DET` tokens may have the following values of `Degree`:
 
-* `Abs` (1; 25% of non-empty `Degree`): <em>poco</em>
-* `Cmp` (3; 75% of non-empty `Degree`): <em>men, troppa</em>
-* `EMPTY` (14964): <em>il, la, l', 'l, le, li, lo, un, i, mio</em>
+* `Cmp` (1; 100% of non-empty `Degree`): <em>troppa</em>
+* `EMPTY` (14957): <em>il, la, l', 'l, le, li, lo, un, i, mio</em>
 
 ## Relations with Agreement in `Degree`
 

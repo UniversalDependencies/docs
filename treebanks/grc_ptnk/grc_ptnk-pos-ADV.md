@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>καθὰ</em> (<tt><a href="grc_ptnk
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.076923 (the average of all parts of speech is 2.345984).
+The form / lemma ratio of `ADV` is 1.076923 (the average of all parts of speech is 2.346578).
 
 The 1st highest number of forms (4) was observed with the lemma “οὐ”: <em>οὐ, οὐκ, οὐχ, οὔκ</em>.
 

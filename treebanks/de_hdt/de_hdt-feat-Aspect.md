@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Perf`.
 
-62615 tokens (2%) have a non-empty value of `Aspect`.
-3788 types (2%) occur at least once with a non-empty value of `Aspect`.
-3191 lemmas (2%) occur at least once with a non-empty value of `Aspect`.
-The feature is used with 2 part-of-speech tags: <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt> (59655; 2% instances), <tt><a href="de_hdt-pos-AUX.html">AUX</a></tt> (2960; 0% instances).
+62606 tokens (2%) have a non-empty value of `Aspect`.
+3782 types (2%) occur at least once with a non-empty value of `Aspect`.
+3200 lemmas (2%) occur at least once with a non-empty value of `Aspect`.
+The feature is used with 2 part-of-speech tags: <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt> (59646; 2% instances), <tt><a href="de_hdt-pos-AUX.html">AUX</a></tt> (2960; 0% instances).
 
 ### `VERB`
 
-59655 <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt> tokens (23% of all `VERB` tokens) have a non-empty value of `Aspect`.
+59646 <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt> tokens (23% of all `VERB` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="de_hdt-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (59655; 100%), <tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (59655; 100%), <tt><a href="de_hdt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (59655; 100%), <tt><a href="de_hdt-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (59655; 100%), <tt><a href="de_hdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (59655; 100%).
+The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="de_hdt-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (59646; 100%), <tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (59646; 100%), <tt><a href="de_hdt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (59646; 100%), <tt><a href="de_hdt-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (59646; 100%), <tt><a href="de_hdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (59646; 100%).
 
 `VERB` tokens may have the following values of `Aspect`:
 
-* `Perf` (59655; 100% of non-empty `Aspect`): <em>angekündigt, gegeben, gemacht, geplant, erwartet, entwickelt, betroffen, gestellt, vorgestellt, verkauft</em>
-* `EMPTY` (203932): <em>sagte, gibt, lassen, machen, kommen, geht, steht, bietet, erklärte, kommt</em>
+* `Perf` (59646; 100% of non-empty `Aspect`): <em>angekündigt, gegeben, gemacht, geplant, erwartet, entwickelt, betroffen, gestellt, vorgestellt, verkauft</em>
+* `EMPTY` (203929): <em>sagte, gibt, lassen, machen, kommen, geht, steht, bietet, erklärte, kommt</em>
 
-`Aspect` seems to be **lexical feature** of `VERB`. 100% lemmas (3187) occur only with one value of `Aspect`.
+`Aspect` seems to be **lexical feature** of `VERB`. 100% lemmas (3196) occur only with one value of `Aspect`.
 
 ### `AUX`
 
