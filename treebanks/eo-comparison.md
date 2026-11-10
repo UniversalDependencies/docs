@@ -32,7 +32,7 @@ udver: '2'
     </td>
     <td width="50%" valign="top">
       <ul>
-      <li>This corpus contains 131 sentences and 3166 tokens.</li>
+      <li>This corpus contains 146 sentences and 3832 tokens.</li>
       </ul>
     </td>
   </tr>
@@ -44,7 +44,7 @@ udver: '2'
     </td>
     <td width="50%" valign="top">
       <ul>
-      <li>This corpus contains 455 tokens (14%) that are not followed by a space.</li>
+      <li>This corpus contains 530 tokens (14%) that are not followed by a space.</li>
       </ul>
     </td>
   </tr>
@@ -68,7 +68,7 @@ udver: '2'
     </td>
     <td width="50%" valign="top">
       <ul>
-      <li>This corpus contains 16 types of words that contain both letters and punctuation. Examples: D-ro, esperanto-komunumo, neŭtrale-homa, lingvo-instruado, neŭtrale-homan, I.a, dank', du-, gente-religian, komunikad-tekniko, naci(ar)o, neŭtrale-geografian, neŭtrale-homaj, neŭtrale-homajn, politika-religia, politika-religian</li>
+      <li>This corpus contains 18 types of words that contain both letters and punctuation. Examples: D-ro, esperanto-komunumo, neŭtrale-homa, lingvo-instruado, neŭtrale-homan, 9-an, Boulogne-sur-Mer, I.a, dank', du-, gente-religian, komunikad-tekniko, naci(ar)o, neŭtrale-geografian, neŭtrale-homaj, neŭtrale-homajn, politika-religia, politika-religian</li>
       </ul>
     </td>
   </tr>
@@ -124,7 +124,7 @@ udver: '2'
     </td>
     <td width="50%" valign="top">
       <ul>
-      <li>This corpus contains 30 lemmas tagged as pronouns (PRON): _, alia, il, ili, iu, kia, kies, kiu, ku, li, lia, mi, mia, neniu, ni, nia, oni, si, sia, sin, tio, tiom, tion, tiu, unu, vi, ĉio, ĉiu, ĝi, ĝia</li>
+      <li>This corpus contains 41 lemmas tagged as pronouns (PRON): _, alia, il, ili, iu, kia, kies, kiu, kiuj, kiun, ku, li, lia, mi, mia, nenies, nenio, neniu, neniun, ni, nia, oni, si, sia, sin, tio, tiom, tion, tiu, tiuj, tiun, unu, vi, ĉio, ĉiu, ĉiuj, ĉiujn, ĉiun, ĝi, ĝia, ĝian</li>
       </ul>
     </td>
   </tr>
@@ -201,8 +201,8 @@ udver: '2'
       <ul>
         <li>Fin
         <ul>
-          <li>AUX: estas, devas, povas, estos, estus, bezonu, ekzistu, estu, povos, povu</li>
-          <li>VERB: estas, konscias, asertas, havas, nomas, rigardas, demandas, devas, naskiĝis, prezentas</li>
+          <li>AUX: estas, devas, povas, estos, estus, povus, bezonu, ekzistu, estu, povos</li>
+          <li>VERB: havas, estas, konscias, asertas, nomas, rigardas, prezentas, demandas, devas, deziras</li>
         </ul>
         </li>
       </ul>
@@ -238,7 +238,7 @@ udver: '2'
         <li>Inf
         <ul>
           <li>AUX: esti</li>
-          <li>VERB: akcepti, aliĝi, nomi, fari, ludi, publikigi, resti, rigardi, akceladi, aldoni</li>
+          <li>VERB: akcepti, aliĝi, fari, nomi, doni, ludi, publikigi, resti, rigardi, servi</li>
         </ul>
         </li>
       </ul>
@@ -258,7 +258,7 @@ udver: '2'
       <ul>
         <li>Part
         <ul>
-          <li>VERB: Konsciante, aranĝita, ligita, supozata, Lanĉita, Planita, alskribita, barante, difinita, donante</li>
+          <li>VERB: Konsciante, aranĝita, ligita, publikigataj, supozata, Akceptita, Lanĉita, Planita, alskribita, atingata</li>
         </ul>
         </li>
       </ul>
@@ -279,7 +279,9 @@ udver: '2'
       </ul>
     </td>
     <td width="50%" valign="top">
-
+      <ul>
+        <li><a>Gender</a></li>
+      </ul>
     </td>
   </tr>
   <tr>
@@ -307,7 +309,27 @@ udver: '2'
       </ul>
     </td>
     <td width="50%" valign="top">
+      <ul>
+        <li>Masc
+          <ul>
+            <li>PRON: li</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
 
+    </td>
+    <td width="50%" valign="top">
+      <ul>
+        <li>Neut
+          <ul>
+            <li>PRON: si, sin, ĝia, lia, ni, ĝian</li>
+          </ul>
+        </li>
+      </ul>
     </td>
   </tr>
   <tr>
@@ -345,13 +367,13 @@ udver: '2'
       <ul>
         <li>Plur
           <ul>
-            <li>ADJ: aliaj, lingvaj, grandaj, multaj, naciaj, aliajn, diversaj, gentaj, internaciaj, kulturaj</li>
+            <li>ADJ: aliaj, lingvaj, diversaj, grandaj, multaj, naciaj, aliajn, gentaj, internaciaj, kulturaj</li>
             <li>ADV: unuj</li>
             <li>DET: ĉiuj, tiuj, tiujn, iaj, iliaj, iujn, siajn, ĉiujn</li>
-            <li>NOUN: lingvoj, homoj, Homaranoj, aliuloj, gentoj, loĝantoj, rajtoj, homojn, landoj, aldonojn</li>
-            <li>PRON: ni, miaj, ili, kiuj, kiujn, oni, mia, vi, ĝiajn, aliaj</li>
+            <li>NOUN: lingvoj, homoj, Homaranoj, landoj, aliuloj, gentoj, loĝantoj, rajtoj, celoj, esperantistoj</li>
+            <li>PRON: ni, miaj, ĉiuj, ili, kiuj, kiujn, oni, tiuj, mia, vi</li>
             <li>VERB-Ger: parolantoj</li>
-            <li>VERB-Part: ekspluatataj, ekzistantaj, esprimitaj, esprimitajn, funkciantaj, mastrantaj, mastrataj, publikigataj, starigitaj</li>
+            <li>VERB-Part: publikigataj, donitaj, ekspluatataj, ekzistantaj, ekzistantajn, esprimitaj, esprimitajn, faritaj, funkciantaj, konfesataj</li>
           </ul>
         </li>
       </ul>
@@ -376,12 +398,12 @@ udver: '2'
       <ul>
         <li>Sing
           <ul>
-            <li>ADJ: lingva, alia, persona, homa, gepatra, hejma, internacia, konstanta, liberkreda, neŭtrala</li>
+            <li>ADJ: lingva, alia, internacia, homa, persona, plena, Esperantista, deviga, gepatra, hejma</li>
             <li>DET: ĉiu, tiun, tiu, ĉiun, ia, Tia, alia, sia, ĉia, ĉian</li>
-            <li>NOUN: lingvo, lingvon, gento, religio, homo, movado, homaro, lando, regno, L</li>
-            <li>PRON: mi, mia, kiu, mian, min, tio, si, ĝin, li, ĝi</li>
+            <li>NOUN: lingvo, Esperanto, lingvon, gento, mondo, homo, religio, movado, homaro, rajton</li>
+            <li>PRON: mi, kiu, mia, mian, min, tio, si, li, ĉiu, kiun</li>
             <li>PROPN: Esperanto, Homaranismo, Esperanton, L, Varsovio, HOMARANISMO, Homaranismon, Pollando, Prago, Ruslando</li>
-            <li>VERB-Part: aranĝita, ligita, supozata, Lanĉita, Planita, alskribita, difinita, donata, evoluinta, nepardoninda</li>
+            <li>VERB-Part: aranĝita, ligita, supozata, Akceptita, Lanĉita, Planita, alskribita, atingata, difinita, dirita</li>
           </ul>
         </li>
       </ul>
@@ -416,12 +438,12 @@ udver: '2'
       <ul>
         <li>Acc
           <ul>
-            <li>ADJ: plenan, aliajn, altan, fremdan, naturan, neŭtralan, neŭtrale-homan, socian, tutan, aktivan</li>
+            <li>ADJ: plenan, aliajn, altan, devigan, fremdan, naturan, neŭtralan, neŭtrale-homan, personan, socian</li>
             <li>DET: tiun, ĉiun, tiujn, iujn, siajn, tiu, ĉian, ĉiujn</li>
             <li>NOUN: lingvon, rajton, rolon, kredon, nomon, religion, dialekton, homojn, homon, intencon</li>
-            <li>PRON: mian, min, kiujn, ĝin, kiun, ilin, kian, ĝiajn, ĝian, iun</li>
+            <li>PRON: mian, min, kiujn, kiun, ĝin, tiun, ĝian, ilin, kian, ĝiajn</li>
             <li>PROPN: Esperanton, Homaranismo, Homaranismon</li>
-            <li>VERB-Part: esprimitajn, supozatan</li>
+            <li>VERB-Part: ekzistantajn, esprimitajn, privatan, sekvantan, supozatan</li>
           </ul>
         </li>
       </ul>
@@ -446,13 +468,13 @@ udver: '2'
       <ul>
         <li>Nom
           <ul>
-            <li>ADJ: lingva, alia, grandaj, lingvaj, persona, aliaj, homa, gepatra, hejma, internacia</li>
+            <li>ADJ: alia, lingva, internacia, grandaj, homa, lingvaj, persona, aliaj, diversaj, multaj</li>
             <li>DET: ĉiu, ĉiuj, tiu, ia, tiuj, Tia, alia, iaj, iliaj, sia</li>
-            <li>NOUN: lingvo, lingvoj, religio, homo, movado, homaro, homoj, lando, mondo, regno</li>
-            <li>PRON: mi, mia, kiu, ni, tio, ili, miaj, kiuj, si, oni</li>
+            <li>NOUN: lingvo, Esperanto, lingvoj, mondo, homo, religio, homoj, movado, homaro, Esperantismo</li>
+            <li>PRON: mi, kiu, mia, ni, tio, ili, kiuj, miaj, si, ĉiuj</li>
             <li>PROPN: Esperanto, Homaranismo, L, Varsovio, HOMARANISMO, Pollando, Prago, Ruslando, ZAMENHOF, Zamenhof</li>
             <li>VERB-Ger: parolantoj</li>
-            <li>VERB-Part: aranĝita, ligita, supozata, Lanĉita, Planita, alskribita, difinita, donata, ekspluatataj, ekzistantaj</li>
+            <li>VERB-Part: aranĝita, ligita, publikigataj, supozata, Akceptita, Lanĉita, Planita, alskribita, atingata, difinita</li>
           </ul>
         </li>
       </ul>
@@ -546,7 +568,7 @@ udver: '2'
       <ul>
         <li>Pos
           <ul>
-            <li>ADJ: lingva, lingvaj, aliaj, grandaj, persona, gepatra, hejma, homa, internacia, konstanta</li>
+            <li>ADJ: lingva, internacia, alia, lingvaj, aliaj, grandaj, homa, persona, plena, Esperantista</li>
           </ul>
         </li>
       </ul>
@@ -635,7 +657,7 @@ udver: '2'
         <li>Ind
           <ul>
             <li>AUX-Fin: estas, devas, povas, estos, povos</li>
-            <li>VERB-Fin: estas, konscias, asertas, havas, nomas, rigardas, demandas, devas, naskiĝis, prezentas</li>
+            <li>VERB-Fin: havas, estas, konscias, asertas, nomas, rigardas, prezentas, demandas, devas, deziras</li>
           </ul>
         </li>
       </ul>
@@ -655,8 +677,8 @@ udver: '2'
       <ul>
         <li>Sub
           <ul>
-            <li>AUX-Fin: estus, bezonu, povu</li>
-            <li>VERB-Fin: altrudu, amus, devus, dezirus, havu, investu, profitus</li>
+            <li>AUX-Fin: estus, povus, bezonu, povu</li>
+            <li>VERB-Fin: altrudu, amus, devus, dezirus, donus, havu, investu, profitus</li>
           </ul>
         </li>
       </ul>
@@ -683,7 +705,7 @@ udver: '2'
         <li>Fut
           <ul>
             <li>AUX-Fin: estos, povos</li>
-            <li>VERB-Fin: prezentos, alkutimiĝos, ekzistos, havis, identigos, montriĝos, pasos, realigos, ricevos, uzos</li>
+            <li>VERB-Fin: prezentos, alkutimiĝos, ekzistos, havis, identigos, kondukos, montriĝos, pasos, realigos, ricevos</li>
           </ul>
         </li>
       </ul>
@@ -705,8 +727,8 @@ udver: '2'
       <ul>
         <li>Past
           <ul>
-            <li>VERB-Fin: naskiĝis, donis, forĵetis, paralizis, parolis, perdis, raportis, trovis</li>
-            <li>VERB-Part: aranĝita, ligita, Lanĉita, Planita, alskribita, difinita, ekzistantaj, esprimitaj, evoluinta, limigite</li>
+            <li>VERB-Fin: naskiĝis, trovis, donis, forĵetis, grupiĝis, laboris, montriĝis, paralizis, parolis, perdis</li>
+            <li>VERB-Part: aranĝita, ligita, Akceptita, Lanĉita, Planita, alskribita, difinita, dirita, donitaj, ekzistantaj</li>
           </ul>
         </li>
       </ul>
@@ -729,9 +751,9 @@ udver: '2'
         <li>Pres
           <ul>
             <li>AUX-Fin: estas, devas, povas</li>
-            <li>VERB-Fin: estas, konscias, asertas, havas, nomas, rigardas, demandas, devas, prezentas, studas</li>
+            <li>VERB-Fin: havas, estas, konscias, asertas, nomas, rigardas, prezentas, demandas, devas, deziras</li>
             <li>VERB-Ger: parolantoj</li>
-            <li>VERB-Part: Konsciante, supozata, barante, donante, donata, ekspluatataj, esprimitajn, funkciantaj, gvidante, identigante</li>
+            <li>VERB-Part: Konsciante, publikigataj, supozata, atingata, barante, donante, donata, ekspluatataj, ekzistantajn, esprimata</li>
           </ul>
         </li>
       </ul>
@@ -764,7 +786,7 @@ udver: '2'
         <li>Act
           <ul>
             <li>VERB-Ger: parolantoj</li>
-            <li>VERB-Part: barante, donante, evoluinta, funkciantaj, gvidante, identigante, mastrantaj, nepardoninda, rezervante</li>
+            <li>VERB-Part: barante, donante, ekzistantajn, evoluinta, funkciantaj, gvidante, identigante, kunvenintaj, mastrantaj, nepardoninda</li>
           </ul>
         </li>
       </ul>
@@ -784,7 +806,7 @@ udver: '2'
       <ul>
         <li>Pass
           <ul>
-            <li>VERB-Part: aranĝita, ligita, supozata, Lanĉita, Planita, alskribita, difinita, donata, ekspluatataj, ekzistantaj</li>
+            <li>VERB-Part: aranĝita, ligita, publikigataj, supozata, Akceptita, Lanĉita, Planita, alskribita, atingata, difinita</li>
           </ul>
         </li>
       </ul>
@@ -856,7 +878,7 @@ udver: '2'
           <ul>
             <li>ADJ: alia</li>
             <li>DET: tiun, tiu, tiuj, tiujn, Tia, alia</li>
-            <li>PRON: tio, alia, tion, tiuj, tiun, unu</li>
+            <li>PRON: tio, tiu, tiuj, tiun, alia, tion, unu</li>
           </ul>
         </li>
       </ul>
@@ -901,7 +923,13 @@ udver: '2'
       </ul>
     </td>
     <td width="50%" valign="top">
-
+      <ul>
+        <li>Int
+          <ul>
+            <li>PRON: kiu, kiuj, kiun</li>
+          </ul>
+        </li>
+      </ul>
     </td>
   </tr>
   <tr>
@@ -912,7 +940,7 @@ udver: '2'
       <ul>
         <li>Neg
           <ul>
-            <li>PRON: neniu</li>
+            <li>PRON: neniu, nenies, nenio, neniun</li>
           </ul>
         </li>
       </ul>
@@ -933,7 +961,7 @@ udver: '2'
         <li>Prs
           <ul>
             <li>DET: iliaj, sia, siajn</li>
-            <li>PRON: mi, mia, ni, mian, min, ili, miaj, si, oni, ĝin</li>
+            <li>PRON: mi, mia, ni, mian, min, ili, miaj, si, li, oni</li>
           </ul>
         </li>
       </ul>
@@ -969,7 +997,7 @@ udver: '2'
         <li>Tot
           <ul>
             <li>DET: ĉiu, ĉiuj, ĉiun, ĉia, ĉian, ĉiujn</li>
-            <li>PRON: ĉiu, ĉion, ĉiuj</li>
+            <li>PRON: ĉiuj, ĉiu, Ĉiun, ĉion, ĉiujn</li>
           </ul>
         </li>
       </ul>
@@ -1028,7 +1056,7 @@ udver: '2'
           <ul>
             <li>ADJ: kies</li>
             <li>DET: iliaj, sia, siajn</li>
-            <li>PRON: mia, mian, miaj, lia, kies, sia, nia, ĝia, ĝiajn, ĝian</li>
+            <li>PRON: mia, mian, miaj, lia, ĝia, kies, sia, ĝian, nia, ĝiajn</li>
           </ul>
         </li>
       </ul>
@@ -1061,7 +1089,7 @@ udver: '2'
         <li>Yes
           <ul>
             <li>DET: sia, siajn</li>
-            <li>PRON: si, sia, siaj, siajn, sian</li>
+            <li>PRON: si, sia, sin, siaj, siajn, sian</li>
           </ul>
         </li>
       </ul>
@@ -1134,7 +1162,7 @@ udver: '2'
         <li>3
           <ul>
             <li>DET: iliaj, sia, siajn</li>
-            <li>PRON: ili, oni, ĝin, li, ĝi, lia, sia, ilin, ĝia, ĝiajn</li>
+            <li>PRON: li, ili, oni, ĝin, lia, ĝi, ĝia, sia, sin, ĝian</li>
           </ul>
         </li>
       </ul>
@@ -1153,7 +1181,37 @@ udver: '2'
 
     </td>
     <td width="50%" valign="top">
+      <ul>
+        <li><a>Gender[psor]</a></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
 
+    </td>
+    <td width="50%" valign="top">
+      <ul>
+        <li>Masc
+          <ul>
+            <li>PRON: lia</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+    </td>
+    <td width="50%" valign="top">
+      <ul>
+        <li>Neut
+          <ul>
+            <li>PRON: ĝia, ĝian</li>
+          </ul>
+        </li>
+      </ul>
     </td>
   </tr>
   <tr>
@@ -1197,7 +1255,7 @@ udver: '2'
         <li>Sing
           <ul>
             <li>DET: iliaj, sia, siajn</li>
-            <li>PRON: mia, mian, miaj, lia, sia, ĝia, ĝiajn, ĝian, lian, siaj</li>
+            <li>PRON: mia, mian, miaj, lia, ĝia, sia, ĝian, ĝiajn, lian, siaj</li>
           </ul>
         </li>
       </ul>
@@ -1261,6 +1319,24 @@ udver: '2'
   </tr>
   <tr>
     <td width="50%" valign="top">
+
+    </td>
+    <td width="50%" valign="top">
+      <ul>
+        <li><a>Person[psor]</a>
+          <ul>
+            <li>3
+              <ul>
+                <li>PRON: ĝia, lia, ĝian</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h2>Syntax</h2>
       
       <h3>Auxiliary Verbs and Copula</h3>
@@ -1288,7 +1364,7 @@ udver: '2'
     </td>
     <td width="50%" valign="top">
       <ul>
-      <li>This corpus uses 4 lemmas as auxiliaries (<a>aux</a>). Examples: esti, devi, povi, bezoni.</li>
+      <li>This corpus uses 4 lemmas as auxiliaries (<a>aux</a>). Examples: esti, povi, devi, bezoni.</li>
       <li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: esti.</li>
       </ul>
     </td>
@@ -1316,12 +1392,12 @@ udver: '2'
           <ul>
             <li>VERB--NOUN-Nom (4)</li>
             <li>VERB--PRON-Nom (1)</li>
-            <li>VERB-Fin--NOUN-Nom (60)</li>
-            <li>VERB-Fin--PRON-Nom (89)</li>
-            <li>VERB-Inf--NOUN-Nom (2)</li>
-            <li>VERB-Inf--PRON-Nom (16)</li>
-            <li>VERB-Part--NOUN-Nom (4)</li>
-            <li>VERB-Part--PRON-Nom (3)</li>
+            <li>VERB-Fin--NOUN-Nom (72)</li>
+            <li>VERB-Fin--PRON-Nom (100)</li>
+            <li>VERB-Inf--NOUN-Nom (3)</li>
+            <li>VERB-Inf--PRON-Nom (18)</li>
+            <li>VERB-Part--NOUN-Nom (7)</li>
+            <li>VERB-Part--PRON-Nom (5)</li>
           </ul>
         </li>
       </ul>
@@ -1346,11 +1422,12 @@ udver: '2'
           <ul>
             <li>VERB--NOUN-Acc (1)</li>
             <li>VERB--PRON-Acc (2)</li>
-            <li>VERB-Fin--NOUN-Acc (60)</li>
+            <li>VERB-Fin--NOUN-Acc (70)</li>
             <li>VERB-Fin--NOUN-Nom (1)</li>
-            <li>VERB-Fin--PRON-Acc (23)</li>
-            <li>VERB-Inf--NOUN-Acc (36)</li>
+            <li>VERB-Fin--PRON-Acc (25)</li>
+            <li>VERB-Inf--NOUN-Acc (44)</li>
             <li>VERB-Inf--PRON-Acc (8)</li>
+            <li>VERB-Inf--PRON-Nom (1)</li>
             <li>VERB-Part--NOUN-Acc (4)</li>
             <li>VERB-Part--PRON-Acc (1)</li>
           </ul>
@@ -1403,7 +1480,7 @@ udver: '2'
       <h3>Verbs with Reflexive Core Objects</h3>
       
       <ul>
-        <li>This corpus contains 1 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: altrudi sian</li>
+        <li>This corpus contains 3 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: altrudi sian, entrudante sin, pravigi sin</li>
       </ul>
     </td>
   </tr>
@@ -1414,14 +1491,14 @@ udver: '2'
       <ul>
       <li>This corpus uses 4 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>nmod:poss</a>, <a>nsubj:pass</a></li>
       <li>The following 1 main types are not used alone, they are always subtyped: <a>acl</a></li>
-      <li>The following 14 relation types are not used in this corpus at all: <a>iobj</a>, <a>csubj</a>, <a>obl</a>, <a>expl</a>, <a>dislocated</a>, <a>discourse</a>, <a>nummod</a>, <a>clf</a>, <a>fixed</a>, <a>flat</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
+      <li>The following 13 relation types are not used in this corpus at all: <a>iobj</a>, <a>csubj</a>, <a>expl</a>, <a>dislocated</a>, <a>discourse</a>, <a>nummod</a>, <a>clf</a>, <a>fixed</a>, <a>flat</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h3>Relations Overview</h3>
       
       <ul>
-      <li>This corpus uses 6 relation subtypes: <a>acl:relcl</a>, <a>advcl:relcl</a>, <a>aux:pass</a>, <a>cc:preconj</a>, <a>nmod:poss</a>, <a>nsubj:pass</a></li>
+      <li>This corpus uses 7 relation subtypes: <a>acl:relcl</a>, <a>advcl:relcl</a>, <a>aux:pass</a>, <a>cc:preconj</a>, <a>nmod:poss</a>, <a>nsubj:pass</a>, <a>obl:tmod</a></li>
       <li>The following 11 relation types are not used in this corpus at all: <a>vocative</a>, <a>expl</a>, <a>dislocated</a>, <a>clf</a>, <a>flat</a>, <a>compound</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
       </ul>
     </td>

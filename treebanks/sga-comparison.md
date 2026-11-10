@@ -27,24 +27,24 @@ udver: '2'
   <tr>
     <td width="50%" valign="top">
       <ul>
-      <li>This corpus contains 64 sentences and 418 tokens.</li>
+      <li>This corpus contains 64 sentences and 421 tokens.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <ul>
-      <li>This corpus contains 34 sentences and 438 tokens.</li>
+      <li>This corpus contains 34 sentences and 441 tokens.</li>
       </ul>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <ul>
-      <li>This corpus contains 114 tokens (27%) that are not followed by a space.</li>
+      <li>This corpus contains 117 tokens (28%) that are not followed by a space.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <ul>
-      <li>This corpus contains 168 tokens (38%) that are not followed by a space.</li>
+      <li>This corpus contains 171 tokens (39%) that are not followed by a space.</li>
       </ul>
     </td>
   </tr>
@@ -112,7 +112,7 @@ udver: '2'
     </td>
     <td width="50%" valign="top">
       <ul>
-      <li>This corpus contains 22 word types tagged as particles (PART): a, as, at, con, d, do, eter, hí, in, int, nas, ni, nno, no, ní, r, ro, se, sin, siu, so, to</li>
+      <li>This corpus contains 23 word types tagged as particles (PART): a, as, at, con, d, do, eter, hí, in, int, nas, ni, nno, no, nro, ní, r, ro, se, sin, siu, so, to</li>
       </ul>
     </td>
   </tr>
@@ -358,7 +358,7 @@ udver: '2'
             <li>NOUN: belre, biada, béssu, comairli, dánu, fochidi, gnímu, mban, soscéli, tol</li>
             <li>PRON: si, for, ar, far, ni, b, n, ndob, s</li>
             <li>PROPN: maccidóndu</li>
-            <li>VERB: amlid, chretsit, fulsam, gaibid, gessam, gigeste, nducaid, nropridchissem, riat, rocomalnisid</li>
+            <li>VERB: amlid, chretsit, comalnisid, fulsam, gaibid, gessam, gigeste, nducaid, pridchissem, riat</li>
           </ul>
         </li>
       </ul>
@@ -373,9 +373,9 @@ udver: '2'
             <li>ADP: dom, and, dait, de, foir, frimm, lat, oco</li>
             <li>AUX: is, d, ní, bid, bith, mba</li>
             <li>DET: in, a, ind, cach, inna, inḍt, na, nd, sin, ᚔᚅ</li>
-            <li>NOUN: ᚉᚑᚉᚐᚏᚈ, dia, dias, ingen, ainm, airdircus, aite, aithne, anmmain, bendacht</li>
+            <li>NOUN: ᚉᚑᚉᚐᚏᚈ, dias, ingen, ainm, airdircus, aite, aithne, anmmain, bendacht, bruach</li>
             <li>PRON: m, a, mo, do, mei, mm, siu, som, sse, sv</li>
-            <li>PROPN: brigtae, choirbbre, dongus, donngvs, ferguso, finguine, lothlind, maddoc, máel, máelecán</li>
+            <li>PROPN: brigtae, dia, choirbbre, dongus, donngvs, ferguso, finguine, lothlind, maddoc, máel</li>
             <li>SCONJ: nach</li>
             <li>VERB: chain, Gaib, braigim, cél, cóima, epur, farcai, fuasna, giuil, llega</li>
           </ul>
@@ -392,7 +392,7 @@ udver: '2'
             <li>DET: a, in, ind</li>
             <li>NOUN: cenn, nem, precept, precepte, airli, carcair, chenél, chomalnad, chorp, chuimriug</li>
             <li>PRON: sa, mo, a, m, se, t, hed, hé, cáich, d</li>
-            <li>PROPN: abracham, crist, moysi</li>
+            <li>PROPN: abracham, crist, dia, moysi, ṅ dǽ</li>
             <li>VERB: tá, ail, anicc, arim, beir, beo, bera, bered, berinn, bia</li>
           </ul>
         </li>
@@ -430,9 +430,9 @@ udver: '2'
           <ul>
             <li>ADJ: diadi, domunde, macthi, mílsi</li>
             <li>DET: inna, a, na</li>
-            <li>NOUN: cenn, biada, béssu, chomalnad, chumang, comarbus, dia, dánu, etargne, etiuth</li>
+            <li>NOUN: cenn, biada, béssu, chomalnad, chumang, comarbus, dánu, etargne, etiuth, fochidi</li>
             <li>PRON: són</li>
-            <li>PROPN: maccidóndu</li>
+            <li>PROPN: dia, maccidóndu</li>
           </ul>
         </li>
       </ul>
@@ -445,8 +445,8 @@ udver: '2'
           <ul>
             <li>ADJ: glass, lainn, libardaib</li>
             <li>DET: cach, in, naib, nd, sin</li>
-            <li>NOUN: dia, anmmain, buith, ceniul, charcair, coimthecht, comṡuidiguth, dindgnaib, déainmmnichdechaib, inis</li>
-            <li>PROPN: lothlind, maddoc</li>
+            <li>NOUN: anmmain, buith, ceniul, charcair, coimthecht, comṡuidiguth, dindgnaib, déainmmnichdechaib, inis, libur</li>
+            <li>PROPN: dia, lothlind, maddoc</li>
           </ul>
         </li>
       </ul>
@@ -483,7 +483,7 @@ udver: '2'
             <li>DET: ind, inna</li>
             <li>NOUN: precepte, soscéli, belre, firinne, hirisse, mban, nanme, nathar, sosceli, tol</li>
             <li>PRON: cáich</li>
-            <li>PROPN: crist</li>
+            <li>PROPN: crist, ṅ dǽ</li>
           </ul>
         </li>
       </ul>
@@ -556,7 +556,6 @@ udver: '2'
         <li>Def
           <ul>
             <li>ADP: do, ar, di, i</li>
-            <li>DET: cach</li>
           </ul>
         </li>
       </ul>
@@ -571,7 +570,6 @@ udver: '2'
         <li>Ind
           <ul>
             <li>ADP: hi, do, dom, ar, de, huas, i, and, dait, di</li>
-            <li>DET: na</li>
           </ul>
         </li>
       </ul>
@@ -776,7 +774,7 @@ udver: '2'
         <li>Perf
           <ul>
             <li>AUX: nirubtar</li>
-            <li>VERB: nropridchissem, rocomalnisid, ronóibad, rreractid, rucca, rérachtid, árbas, érbarthar</li>
+            <li>VERB: comalnisid, nóibad, pridchissem, rreractid, rucca, rérachtid, árbas, érbarthar</li>
           </ul>
         </li>
       </ul>
@@ -899,7 +897,7 @@ udver: '2'
         <li>Past
           <ul>
             <li>AUX: bid</li>
-            <li>VERB: giuil, roscribad, roscríbad, rosechestar</li>
+            <li>VERB: giuil, scribad, scríbad, sechestar</li>
           </ul>
         </li>
       </ul>
@@ -909,7 +907,7 @@ udver: '2'
         <li>Past
           <ul>
             <li>AUX: nirubtar, ropad</li>
-            <li>VERB: anicc, bered, berinn, carad, chretsit, gníthe, nropridchissem, rocomalnisid, ronóibad, rreractid</li>
+            <li>VERB: anicc, bered, berinn, carad, chretsit, comalnisid, gníthe, nóibad, pridchissem, rreractid</li>
           </ul>
         </li>
       </ul>
@@ -974,7 +972,7 @@ udver: '2'
       <ul>
         <li>Pass
           <ul>
-            <li>VERB: roscribad, roscríbad</li>
+            <li>VERB: scribad, scríbad</li>
           </ul>
         </li>
       </ul>
@@ -983,7 +981,7 @@ udver: '2'
       <ul>
         <li>Pass
           <ul>
-            <li>VERB: etar, gníthe, ronóibad, árbas, érbarthar</li>
+            <li>VERB: etar, gníthe, nóibad, árbas, érbarthar</li>
           </ul>
         </li>
       </ul>
@@ -1123,6 +1121,20 @@ udver: '2'
   <tr>
     <td width="50%" valign="top">
       <ul>
+        <li>Neg
+          <ul>
+            <li>DET: na</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <ul>
         <li>Prs
           <ul>
             <li>ADP: dom, and, dait, de, dv́n, foir, frimm, friu, lat, oco</li>
@@ -1161,6 +1173,20 @@ udver: '2'
           </ul>
         </li>
       </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <ul>
+        <li>Tot
+          <ul>
+            <li>DET: cach</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+
     </td>
   </tr>
   <tr>
@@ -1297,7 +1323,7 @@ udver: '2'
             <li>ADP: dúib, dét, frib, fuirib, indib, lib, uáit, ṅduit</li>
             <li>AUX: ba, bed, naba</li>
             <li>PRON: si, for, t, far, b, do, ndob, so, tú</li>
-            <li>VERB: amlid, gaibid, gigeste, léic, mil, nducaid, ngeiss, rocomalnisid, rreractid, rérachtid</li>
+            <li>VERB: amlid, comalnisid, gaibid, gigeste, léic, mil, nducaid, ngeiss, rreractid, rérachtid</li>
           </ul>
         </li>
       </ul>
@@ -1462,7 +1488,7 @@ udver: '2'
             <li>Aug
               <ul>
                 <li>PART: ro</li>
-                <li>VERB: roib, roscribad, roscríbad, rosechestar</li>
+                <li>VERB: roib</li>
               </ul>
             </li>
             <li>Dct
@@ -1493,6 +1519,11 @@ udver: '2'
       <ul>
         <li><a>PartType</a>
           <ul>
+            <li>Aug
+              <ul>
+                <li>PART: ro, nro</li>
+              </ul>
+            </li>
             <li>Dct
               <ul>
                 <li>PART: hí, ni</li>
@@ -1702,7 +1733,7 @@ udver: '2'
         <li><a>obj</a>
           <ul>
             <li>VERB--NOUN (1)</li>
-            <li>VERB--NOUN-Acc (13)</li>
+            <li>VERB--NOUN-Acc (12)</li>
             <li>VERB--PRON (2)</li>
           </ul>
         </li>

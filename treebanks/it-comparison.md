@@ -86,7 +86,7 @@ udver: '2'
     </td>
     <td width="9%" valign="top">
       <ul>
-      <li>This corpus contains 2221 sentences, 18050 tokens and 18680 syntactic words.</li>
+      <li>This corpus contains 2481 sentences, 23943 tokens and 24704 syntactic words.</li>
       </ul>
     </td>
     <td width="9%" valign="top">
@@ -101,7 +101,7 @@ udver: '2'
     </td>
     <td width="9%" valign="top">
       <ul>
-      <li>This corpus contains 1000 sentences, 22183 tokens and 23732 syntactic words.</li>
+      <li>This corpus contains 1000 sentences, 22183 tokens and 23783 syntactic words.</li>
       </ul>
     </td>
     <td width="9%" valign="top">
@@ -143,7 +143,7 @@ udver: '2'
     </td>
     <td width="9%" valign="top">
       <ul>
-      <li>This corpus contains 292 tokens (2%) that are not followed by a space.</li>
+      <li>This corpus contains 648 tokens (3%) that are not followed by a space.</li>
       </ul>
     </td>
     <td width="9%" valign="top">
@@ -257,7 +257,7 @@ udver: '2'
     </td>
     <td width="9%" valign="top">
       <ul>
-      <li>This corpus contains 57 types of words that contain both letters and punctuation. Examples: l', c', po', un', [TOWN_NAME], d', cos', m', [PLACE_NAME], anda', quest', com', fa', s', anch', n', quand', quell', 'sta, 'sto, mezz', quant', sta', t', 'mbare, 'ste, 'sti, [PERSON_NAME], di', dov', pranza', 'nte, [INHABITANTS_NAME], bell', ca', co', consegna', da', do', entra', ex-brokers, mado', magna', mangia', neanch', organizza', parla', picc', pre-islamico, qualcun'</li>
+      <li>This corpus contains 69 types of words that contain both letters and punctuation. Examples: l', c', po', un', [TOWN_NAME], d', m', cos', com', [PLACE_NAME], anda', quest', anch', fa', s', n', quand', quant', quell', 'sta, 'sto, bo', cinquant', mezz', sta', t', 'mbare, 'ste, 'sti, [PERSON_NAME], di', dov', pranza', quarant', sant', 'aarada, 'nte, 'umar, S.O.S, [INHABITANTS_NAME], al-kitāb, bell', ca', co', consegna', da', dell', do', entra', ex-broker</li>
       </ul>
     </td>
     <td width="9%" valign="top">
@@ -272,7 +272,7 @@ udver: '2'
     </td>
     <td width="9%" valign="top">
       <ul>
-      <li>This corpus contains 38 types of words that contain both letters and punctuation. Examples: l', un', d', c', a.C., quest', dell', e-mail, all', d.C., Trent', a.C, nord-occidentale, p.e.v., quell', 's, B-29, Didn', Don', Fa', N., Sant', St., Z., austro-prussiano, co-protagonisti, dall', dopo-show, franco-monegasco, indo-australiana, nord-orientale, nord-ovest, po', post-classico, s', storico-culturale, sud-occidentale, thai-cinesi</li>
+      <li>This corpus contains 36 types of words that contain both letters and punctuation. Examples: l', un', d', c', a.C., quest', e-mail, d.C., Trent', a.C, nord-occidentale, p.e.v., quell', 's, B-29, Didn', Don', Fa', N., Sant', St., Z., austro-prussiano, co-protagonisti, dell', dopo-show, franco-monegasco, indo-australiana, nord-orientale, nord-ovest, po', post-classico, s', storico-culturale, sud-occidentale, thai-cinesi</li>
       </ul>
     </td>
     <td width="9%" valign="top">
@@ -315,8 +315,8 @@ udver: '2'
     </td>
     <td width="9%" valign="top">
       <ul>
-      <li>This corpus contains 629 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
-      <li>There are 85 types of multi-word tokens. Examples: nel, della, delle, dei, del, al, dell', nella, alla, sulla, dal, all', alle, sui, nelle, sul, nei, nell', dai, dalla, farlo, glielo, ai, col, dall', degli, allo, agli, arrivederci, coi, dalle, farmi, gliel', negli, preparati, chiederle, darsi, farci, farla, farli, tradurli, addormentamme, aspettarvi, averlo, collocarla, compraglielo, datemi, dello, descriverlo, divertirmi.</li>
+      <li>This corpus contains 757 multi-word tokens. On average, one multi-word token consists of 2.01 syntactic words.</li>
+      <li>There are 107 types of multi-word tokens. Examples: nel, della, dei, del, dell', al, delle, alla, nella, all', dal, sulla, alle, nei, nelle, dalla, ai, sui, sul, nell', allo, coi, dai, degli, farlo, glielo, col, dall', negli, dirlo, farmi, agli, dalle, gliel', preparati, andarci, chiederle, darsi, essercene, farci, farla, farli, guardarlo, spostarsi, suonarci, tradurli, addormentamme, aspettarvi, averci, averlo.</li>
       </ul>
     </td>
     <td width="9%" valign="top">
@@ -333,8 +333,8 @@ udver: '2'
     </td>
     <td width="9%" valign="top">
       <ul>
-      <li>This corpus contains 1547 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
-      <li>There are 99 types of multi-word tokens. Examples: del, della, nel, dell', al, dei, alla, delle, all', nella, degli, nell', dal, nei, nelle, dalla, sul, ai, dai, dall', negli, alle, sulla, dalle, sull', agli, sui, dagli, dello, sulle, nello, dallo, essersi, allo, col, sullo, dandogli, farlo, Formatasi, Rivolgendosi, abrogandola, accentratesi, accusandolo, allontanandosi, allontanarsi, amarla, andarsene, aspettarsi, assumersi, averlo.</li>
+      <li>This corpus contains 1598 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+      <li>There are 99 types of multi-word tokens. Examples: del, della, nel, al, dell', dei, alla, delle, all', nella, degli, nell', dal, nei, dalla, nelle, ai, dai, sul, dall', negli, alle, sulla, dalle, sull', agli, sui, dagli, dello, sulle, nello, allo, dallo, essersi, col, sullo, dandogli, farlo, Formatasi, Rivolgendosi, abrogandola, accentratesi, accusandolo, allontanandosi, allontanarsi, amarla, andarsene, aspettarsi, assumersi, averlo.</li>
       </ul>
     </td>
     <td width="9%" valign="top">
@@ -492,7 +492,7 @@ udver: '2'
     </td>
     <td width="9%" valign="top">
       <ul>
-      <li>This corpus contains 1 word types tagged as particles (PART): ex</li>
+      <li>This corpus contains 5 word types tagged as particles (PART): dia, ex, pre, proto, tris</li>
       </ul>
     </td>
     <td width="9%" valign="top">
@@ -543,7 +543,7 @@ udver: '2'
     </td>
     <td width="9%" valign="top">
       <ul>
-      <li>This corpus contains 66 lemmas tagged as pronouns (PRON): alcuno, altro, c, ce, che, chi, chiunque, ci, ciò, cosa, cui, c~, egli, entrambi, essi, gli, glie, il, inoltro, io, l', la, le, lei, li, lo, loro, lui, me, mi, miei, mio, molto, ne, nessuno, niente, noi, nulla, ognuno, parecchio, po', poco, primo, qualcosa, qualcuno, quale, quanti, quanto, quello, quel~, questo, se, si, stesso, sì, tantissimo, te, ti, tu, tua, tutto, una, uno, ve, vi, voi</li>
+      <li>This corpus contains 67 lemmas tagged as pronouns (PRON): Sībawayh, alcuno, altro, ce, che, chi, chiunque, ci, ciò, come, cosa, cui, dove, egli, entrambi, essi, gli, glie, il, io, la, le, lei, li, lo, loro, lui, me, mi, miei, mio, molto, ne, nessuno, niente, noi, nulla, ognuno, poche, poco, primo, qual, qualcosa, qualcuno, quale, quanti, quanto, quello, questo, sa, se, si, stesso, suo, tantissimo, te, ti, tu, tua, tutti, tutto, una, uno, ve, vi, voi, you</li>
       </ul>
     </td>
     <td width="9%" valign="top">
@@ -553,7 +553,7 @@ udver: '2'
     </td>
     <td width="9%" valign="top">
       <ul>
-      <li>This corpus contains 94 lemmas tagged as pronouns (PRON): alcuno, altrettanto, altro, altrui, ambedue, ambo, assai, catuno, certo, che, chi, chiascheduno, chiunque, ci, ciascheduno, ciascuno, cio', ciò, ciò', codesto, colei, coloro, colui, costei, costoro, costui, cotale, cotanto, cui, desso, dove, egli, ella, elli, ello, entrambi, esse, esso, gli, i, ieu, il, io, la, le, lei, li, lo, loro, lui, me, mi, mio, molto, ne, nessuno, niente, noi, nostro, nulla, nullo, ognuno, onde, ove, poco, proprio, quale, qualunque, quanto, quantunque, quello, questo, se, si, suo, sé, tale, tanto, te, ti, tu, tuo, tutte, tutto, ubi, uno, uomo, ve, vi, vicenda, voi, voialtri, vos, vostro</li>
+      <li>This corpus contains 92 lemmas tagged as pronouns (PRON): alcuno, altrettanto, altro, altrui, ambedue, assai, catuno, certo, che, chi, chiascheduno, chiunque, ci, ciascheduno, ciascuno, cio', ciò, ciò', codesto, colei, coloro, colui, costei, costoro, costui, cotale, cotanto, cui, desso, dove, egli, ella, elli, ello, entrambi, esse, esso, gli, i, ieu, il, io, la, le, lei, li, lo, loro, lui, me, mi, mio, molto, ne, nessuno, niente, noi, nostro, nulla, nullo, ognuno, onde, ove, poco, proprio, quale, qualunque, quanto, quantunque, quello, questo, se, si, suo, sé, tale, tanto, te, ti, tu, tuo, tutte, tutto, ubi, uno, uomo, ve, vi, voi, voialtri, vos, vostro</li>
       </ul>
     </td>
     <td width="9%" valign="top">
@@ -600,7 +600,7 @@ udver: '2'
     </td>
     <td width="9%" valign="top">
       <ul>
-      <li>This corpus contains 54 lemmas tagged as determiners (DET): abbastanza, alcuno, altro, certo, che, degli, dei, del, delle, di, diverso, ello, email, i, il, la, le, lo, loro, mio, molto, nel, nessuno, nostro, ogni, ottavo, più, plurimo, poco, primo, qualche, qualcuno, quale, qualsiasi, qualunque, quanto, quello, questa, questo, quinto, secondo, seicento, sesto, settimo, stesso, suo, tanto, tuo, tutto, u, un, una, uno, un~</li>
+      <li>This corpus contains 50 lemmas tagged as determiners (DET): abbastanza, al, alcuno, altro, certo, che, degli, del, delle, determinato, di, diverso, il, loro, mio, molto, nessuno, nostro, ogni, ottavo, parecchio, più, plurimo, poco, primo, qualche, qualcuno, quale, qualsiasi, qualunque, quanto, quello, questa, questo, quinto, secondo, seicento, sesto, settimo, stesso, suo, tanto, troppo, tuo, tutto, u, un, una, uno, vostro</li>
       </ul>
     </td>
     <td width="9%" valign="top">
@@ -610,7 +610,7 @@ udver: '2'
     </td>
     <td width="9%" valign="top">
       <ul>
-      <li>This corpus contains 58 lemmas tagged as determiners (DET): alcuno, alquanto, altro, altrui, ambedue, aquel, assai, certo, che, ciascuno, codesto, cotale, cotanto, cui, entrambi, esso, i, il, la, li, lo, loro, medesimo, meno, mio, molto, mon, nessuno, nostro, nullo, ogni, ognuno, parecchio, più, poco, proprio, qualche, quale, qualunque, quanto, quantunque, quello, questo, solo, stesso, suo, tale, tanto, troppo, tuo, tutta, tutti, tutto, un, uno, veruno, vostre, vostro</li>
+      <li>This corpus contains 56 lemmas tagged as determiners (DET): alcuno, alquanto, altro, altrui, ambedue, aquel, assai, certo, che, ciascuno, codesto, cotale, cotanto, cui, entrambi, esso, i, il, la, li, lo, loro, medesimo, meno, mio, molto, mon, nessuno, nostro, nullo, ogni, ognuno, parecchio, più, poco, proprio, qualche, quale, qualunque, quanto, quantunque, quello, questo, stesso, suo, tale, tanto, troppo, tuo, tutta, tutto, un, uno, veruno, vostre, vostro</li>
       </ul>
     </td>
     <td width="9%" valign="top">
@@ -657,7 +657,7 @@ udver: '2'
     </td>
     <td width="9%" valign="top">
       <ul>
-      <li>Out of the above, 22 lemmas occurred sometimes as PRON and sometimes as DET: alcuno, altro, che, il, la, le, lo, loro, mio, molto, nessuno, poco, primo, qualcuno, quale, quanto, quello, questo, stesso, tutto, una, uno</li>
+      <li>Out of the above, 20 lemmas occurred sometimes as PRON and sometimes as DET: alcuno, altro, che, il, loro, mio, molto, nessuno, poco, primo, qualcuno, quale, quanto, quello, questo, stesso, suo, tutto, una, uno</li>
       </ul>
     </td>
     <td width="9%" valign="top">
@@ -714,7 +714,7 @@ udver: '2'
     </td>
     <td width="9%" valign="top">
       <ul>
-      <li>This corpus contains 10 lemmas tagged as auxiliaries (AUX): andare, avere, dovere, essere, fare, potere, sapere, stare, venire, volere</li>
+      <li>This corpus contains 11 lemmas tagged as auxiliaries (AUX): andare, avere, dovere, esse, essere, fare, potere, sapere, stare, venire, volere</li>
       </ul>
     </td>
     <td width="9%" valign="top">
@@ -934,10 +934,8 @@ udver: '2'
       <ul>
         <li>Fin
         <ul>
-          <li>ADV: fa</li>
-          <li>AUX: è, sono, ho, ha, era, hanno, devi, possiamo, abbiamo, son</li>
-          <li>NOUN: tipo, incentivo, apostrofo, assistente, interrompo, mezzogiorno, raga, ragazzi</li>
-          <li>VERB: è, so, sono, fa, abbiamo, era, ha, va, diciamo, erano</li>
+          <li>AUX: è, sono, ho, ha, era, son, devi, hanno, hai, abbiamo</li>
+          <li>VERB: è, sono, so, era, fa, ho, ha, abbiamo, va, diciamo</li>
         </ul>
         </li>
       </ul>
@@ -1046,7 +1044,7 @@ udver: '2'
         <li>Ger
         <ul>
           <li>AUX: essendo, avendo</li>
-          <li>VERB: mando, parlando, precipitando, prendo, studiando, accorgendo, cercando, crescendo, dicendo, uscendo</li>
+          <li>VERB: parlando, pensando, precipitando, studiando, vedendo, accorgendo, cercando, crescendo, dicendo, lavorando</li>
         </ul>
         </li>
       </ul>
@@ -1143,8 +1141,8 @@ udver: '2'
       <ul>
         <li>Inf
         <ul>
-          <li>AUX: essere, esse, aver, esser, fare, poter</li>
-          <li>VERB: fare, dire, far, scrivere, andare, essere, vedere, parlare, trovare, stare</li>
+          <li>AUX: essere, esser, aver, poter</li>
+          <li>VERB: fare, andare, dire, far, lavorare, scrivere, vedere, stare, essere, parlare</li>
         </ul>
         </li>
       </ul>
@@ -1249,10 +1247,8 @@ udver: '2'
       <ul>
         <li>Part
         <ul>
-          <li>ADJ: estinta, immersa, preferita, scritta, scritto, colorate, consistenti, disseminata, diversa, fortunata</li>
-          <li>AUX: stata, stato, state, stati</li>
-          <li>NOUN: cioccolato, linguisti, ristorante, scritto, stato</li>
-          <li>VERB: detto, fatto, scritto, sentito, fatta, trovata, visto, imparato, parlato, trovato</li>
+          <li>AUX: stata, stato, stati, state, dovuto, potuto</li>
+          <li>VERB: detto, fatto, visto, scritto, capito, fatta, sentito, stato, andati, parlato</li>
         </ul>
         </li>
       </ul>
@@ -1460,22 +1456,12 @@ udver: '2'
       <ul>
         <li>Fem
           <ul>
-            <li>ADJ: araba, mia, piccola, prima, semitica, bella, buona, tua, mezza, altra</li>
-            <li>ADJ-Part: immersa, preferita, scritta, colorate, disseminata, diversa, fortunata, interessata, isolata, offerte</li>
-            <li>ADP: a</li>
-            <li>ADV: cosa, etcetera, lì, più, invece, molte, quali, tutta, tutte, vicina</li>
-            <li>AUX: stata, state, son, esser</li>
+            <li>ADJ: mia, altra, piccola, prima, araba, bella, vecchia, buona, semitica, tua</li>
             <li>AUX-Part: stata, state</li>
-            <li>CCONJ: oppure</li>
-            <li>DET: la, le, una, questa, un', queste, delle, mia, quella, tutte</li>
-            <li>NOUN: città, realtà, casa, lingua, cosa, parte, università, cose, persone, storia</li>
-            <li>NUM: prima, seconda, sedicimila, terza</li>
-            <li>PRON: questa, le, la, lei, quella, una, altra, queste, alcune, quelle</li>
-            <li>PROPN: arabia, siria, giordania, saudita, saba, turchia, arancioni, marina, palestina, palmira</li>
-            <li>VERB: fatta, trovata, datata, morte, scritte, andata, andate, basta, chiusa, coperta</li>
-            <li>VERB-Inf: sta'</li>
-            <li>VERB-Part: fatta, trovata, datata, andata, andate, coperta, costruita, data, legata, mangiata</li>
-            <li>X: s~</li>
+            <li>DET: la, le, una, questa, delle, un', queste, tutta, tutte, mia</li>
+            <li>NOUN: città, realtà, casa, cosa, lingua, parte, cose, lingue, università, volta</li>
+            <li>PRON: la, questa, le, lei, quella, altra, quelle, queste, alcune, tutta</li>
+            <li>VERB-Part: fatta, trovata, andata, cambiata, scritte, datata, morte, presa, vista, abitata</li>
           </ul>
         </li>
       </ul>
@@ -1519,7 +1505,6 @@ udver: '2'
         <li>Fem
           <ul>
             <li>ADJ: prima, maggior, gran, grande, alta, maggiore, meridionale, americana, nuova, seconda</li>
-            <li>ADP: alla, della, alle, dalla, dell', nella</li>
             <li>AUX: stata, state</li>
             <li>CCONJ: che</li>
             <li>DET: la, le, l', una, un', questa, altre, molte, queste, diverse</li>
@@ -1651,21 +1636,13 @@ udver: '2'
       <ul>
         <li>Masc
           <ul>
-            <li>ADJ: esatto, arabo, miei, proto, stesso, strano, antico, bel, islamico, perfetto</li>
-            <li>ADJ-Part: scritto, indaffarato, rotto, salato, suffissi, zitto</li>
-            <li>ADP: in</li>
-            <li>ADV: quanto, giusto, lì, meno, almeno, bene, esatto, fino, lontano, manco</li>
-            <li>AUX: stato, son, stati, abbiamo, avevo, ero, stavo</li>
-            <li>AUX-Part: stato, stati</li>
-            <li>DET: il, un, i, gli, questo, lo, questi, dei, uno, tutti</li>
-            <li>INTJ: mh, eh</li>
-            <li>NOUN: tipo, arabo, centro, anni, dialetti, alfabeto, sud, sacco, senso, periodo</li>
-            <li>NOUN-Part: cioccolato, linguisti, scritto, stato</li>
-            <li>NUM: primi, primo, seicento, trecentoventotto, duecento, duemiladiciotto, milleseicento, ottocento, secondo, sedici</li>
-            <li>PRON: lo, quello, questo, l', tutti, li, qualcuno, uno, questi, tutto</li>
-            <li>PROPN: rossi, oman, kitab, nabatei, qays, erodoto, sinai, arab, egitto, fermo</li>
-            <li>VERB: detto, fatto, scritto, sentito, visto, imparato, parlato, trovato, usato, vissuto</li>
-            <li>VERB-Part: detto, fatto, scritto, sentito, visto, imparato, parlato, trovato, usato, vissuto</li>
+            <li>ADJ: san, arabo, esatto, bel, certo, piccolo, stesso, strano, altro, vero</li>
+            <li>AUX-Part: stato, stati, dovuto, potuto</li>
+            <li>DET: il, i, un, gli, lo, questo, tutti, dei, questi, tutto</li>
+            <li>NOUN: tipo, anni, centro, arabo, lavoro, portici, dialetti, tempo, alfabeto, sacco</li>
+            <li>NUM: primo</li>
+            <li>PRON: lo, quello, questo, li, tutti, qualcuno, uno, questi, tutto, quelli</li>
+            <li>VERB-Part: detto, fatto, visto, scritto, capito, sentito, stato, andati, parlato, trovato</li>
           </ul>
         </li>
       </ul>
@@ -1702,7 +1679,6 @@ udver: '2'
             <li>PRON: lui, quel, li, elli, lo, colui, altro, un, el, quei</li>
             <li>PROPN: Tesoro</li>
             <li>VERB: fatto, detto, tratto, messo, giunto, vòlto, venuto, fatti, morti, vinto</li>
-            <li>VERB-Fin: ricolto</li>
             <li>VERB-Inf: frustato</li>
             <li>VERB-Part: fatto, detto, tratto, messo, giunto, vòlto, venuto, fatti, morti, vinto</li>
           </ul>
@@ -1714,7 +1690,7 @@ udver: '2'
         <li>Masc
           <ul>
             <li>ADJ: ultimi, nuovi, nuovo, stesso, primo, tutti, tutto, grande, scorso, ultimo</li>
-            <li>ADP: al, del, dell', all', Da, Sulla, ai, allo, dagli, dai</li>
+            <li>ADP: Da, Sulla, del</li>
             <li>ADV: più</li>
             <li>AUX: stato, stati</li>
             <li>CCONJ: che</li>
@@ -1950,22 +1926,14 @@ udver: '2'
       <ul>
         <li>Plur
           <ul>
-            <li>ADJ: miei, udenti, grande, indipendenti, arabi, disabili, fertili, importanti, pari, ricchi</li>
-            <li>ADJ-Part: consistenti, offerte, recenti, suffissi, urbanizzate</li>
-            <li>ADV: molte, quali, quanti, tutte</li>
-            <li>AUX: sono, hanno, possiamo, abbiamo, potete, son, siamo, dobbiamo, avevano, stiamo</li>
-            <li>AUX-Fin: sono, hanno, possiamo, abbiamo, potete, son, siamo, dobbiamo, avevano, stiamo</li>
+            <li>ADJ: giovani, grandi, altri, indipendenti, altre, ricchi, arabi, disabili, diversi, fertili</li>
+            <li>AUX-Fin: sono, hanno, abbiamo, possiamo, son, siamo, potete, erano, dobbiamo, han</li>
             <li>AUX-Part: stati, state</li>
-            <li>CCONJ: oppure</li>
-            <li>DET: i, le, gli, queste, questi, dei, delle, tutti, tutte, tante</li>
-            <li>NOUN: anni, dialetti, cose, persone, iscrizioni, segni, lingue, sassi, bambini, arabi</li>
-            <li>NOUN-Part: linguisti</li>
-            <li>NUM: primi, sedici, seicentodieci</li>
-            <li>PRON: c', ci, noi, tutti, li, loro, questi, ce, voi, vi</li>
-            <li>PROPN: rossi, verdi, nabatei, sinai, gialli, arancioni, gerusalemme, vagoni</li>
-            <li>VERB: sono, abbiamo, diciamo, erano, hanno, avete, scrivevano, avevano, stanno, dicono</li>
-            <li>VERB-Fin: sono, abbiamo, diciamo, erano, hanno, avete, scrivevano, avevano, stanno, dicono</li>
-            <li>VERB-Part: andate, sposti, avessi, citate, convinte, datati, divisi, esiste, fatte, impegnate</li>
+            <li>DET: i, le, gli, delle, queste, tutti, dei, questi, tutte, miei</li>
+            <li>NOUN: anni, cose, lingue, portici, dialetti, persone, giovani, segni, iscrizioni, piedi</li>
+            <li>PRON: c', ci, noi, li, tutti, ce, vi, voi, loro, questi</li>
+            <li>VERB-Fin: sono, abbiamo, diciamo, hanno, erano, avete, scrivevano, dicono, avevano, stanno</li>
+            <li>VERB-Part: andati, scritte, chiusi, morte, diventati, rispettati, scritti, visti, andate, arricchiti</li>
           </ul>
         </li>
       </ul>
@@ -2013,7 +1981,7 @@ udver: '2'
         <li>Plur
           <ul>
             <li>ADJ: ultimi, nuovi, grandi, tutti, nuove, primi, americani, entrambi, nazionali, olimpici</li>
-            <li>ADP: Da, ai, alle, dagli, dai</li>
+            <li>ADP: Da</li>
             <li>AUX: sono, hanno, erano, vennero, furono, possono, avevano, stati, vengono, fossero</li>
             <li>DET: i, le, gli, molti, alcuni, altri, altre, molte, queste, questi</li>
             <li>NOUN: anni, persone, dati, dollari, mesi, agenti, città, giorni, membri, effetti</li>
@@ -2160,26 +2128,16 @@ udver: '2'
       <ul>
         <li>Sing
           <ul>
-            <li>ADJ: grande, difficile, esatto, araba, mia, arabo, piccola, comune, prima, proto</li>
-            <li>ADJ-Part: immersa, preferita, scritta, scritto, colorate, disseminata, diversa, fortunata, indaffarato, interessata</li>
-            <li>ADP: a, in</li>
-            <li>ADV: quanto, cosa, etcetera, giusto, almeno, bene, esatto, fa, fino, invece</li>
-            <li>ADV-Fin: fa</li>
-            <li>AUX: è, ho, ha, era, devi, sono, avevo, posso, stata, hai</li>
-            <li>AUX-Fin: è, ho, ha, era, devi, sono, posso, avevo, hai, può</li>
-            <li>AUX-Part: stata, stato, state</li>
-            <li>DET: la, il, un, l', una, questa, questo, un', lo, mia</li>
-            <li>NOUN: tipo, casa, lingua, cosa, arabo, parte, centro, alfabeto, sacco, senso</li>
-            <li>NOUN-Fin: tipo, incentivo, apostrofo, assistente, interrompo, mezzogiorno, raga, ragazzi</li>
-            <li>NOUN-Part: cioccolato, ristorante, scritto, stato</li>
-            <li>NUM: prima, primo, seicento, trecentoventotto, duecento, duemiladiciotto, milleseicento, ottocento, seconda, secondo</li>
-            <li>PRON: lo, io, mi, me, quello, l', questo, ti, lei, questa</li>
-            <li>PROPN: arabia, siria, giordania, saudita, yemen, erodoto, saba, turchia, egitto, fermo</li>
-            <li>SCONJ: che</li>
-            <li>VERB: è, so, detto, fa, era, fatto, ha, va, dice, ho</li>
-            <li>VERB-Fin: è, so, fa, era, ha, va, dice, ho, chiama, vuoi</li>
-            <li>VERB-Inf: sta'</li>
-            <li>VERB-Part: detto, fatto, scritto, sentito, fatta, trovata, visto, imparato, parlato, trovato</li>
+            <li>ADJ: san, difficile, arabo, esatto, generale, mia, altra, piccola, prima, araba</li>
+            <li>ADV: qual</li>
+            <li>AUX-Fin: è, ho, ha, era, sono, devi, hai, son, posso, sei</li>
+            <li>AUX-Part: stata, stato, dovuto, potuto</li>
+            <li>DET: la, il, un, l', una, questa, lo, questo, un', tutta</li>
+            <li>NOUN: tipo, casa, centro, cosa, lingua, parte, arabo, lavoro, fine, volta</li>
+            <li>NUM: primo</li>
+            <li>PRON: io, lo, mi, me, quello, ti, l', te, questo, la</li>
+            <li>VERB-Fin: è, so, era, fa, ho, ha, va, dice, piace, chiama</li>
+            <li>VERB-Part: detto, fatto, visto, scritto, capito, fatta, sentito, stato, parlato, trovata</li>
           </ul>
         </li>
       </ul>
@@ -2236,7 +2194,7 @@ udver: '2'
         <li>Sing
           <ul>
             <li>ADJ: prima, grande, maggior, nuovo, stesso, maggiore, gran, nazionale, primo, meridionale</li>
-            <li>ADP: al, alla, dell', del, all', della, Sulla, allo, dal, dall'</li>
+            <li>ADP: Sulla, del</li>
             <li>ADV: più</li>
             <li>AUX: è, ha, era, fu, stato, venne, può, aveva, stata, fosse</li>
             <li>CCONJ: che</li>
@@ -2590,8 +2548,7 @@ udver: '2'
       <ul>
         <li>Def
           <ul>
-            <li>DET: la, il, i, l', le, gli, lo, dei, delle, email</li>
-            <li>PRON: la, l', le, lo</li>
+            <li>DET: la, il, i, l', le, gli, lo, del, u</li>
           </ul>
         </li>
       </ul>
@@ -2695,8 +2652,7 @@ udver: '2'
       <ul>
         <li>Ind
           <ul>
-            <li>DET: un, una, un', uno, un~, qualcun'</li>
-            <li>PRON: una, uno</li>
+            <li>DET: un, una, un', uno, dei, del, della</li>
           </ul>
         </li>
       </ul>
@@ -2888,8 +2844,8 @@ udver: '2'
       <ul>
         <li>Abs
           <ul>
-            <li>ADJ: bellissimo, difficilissimo, bellissima, bravissimo, bruttissimo, fighissimi, fighissimo, notevolissima, piccolissimo, pochissimo</li>
-            <li>ADV: tantissimo, benissimo</li>
+            <li>ADJ: bellissimo, bellissima, difficilissimo, bravissimo, bruttissimo, buonissima, diversissimi, notevolissima, piccolissimo, pochissimo</li>
+            <li>ADV: benissimo</li>
           </ul>
         </li>
       </ul>
@@ -2910,7 +2866,6 @@ udver: '2'
         <li>Abs
           <ul>
             <li>ADJ: altissimo, dolcissimo, lenta, lento, alto, bassissimo, chiarissima, famoso, giustissimo, illustri</li>
-            <li>DET: poco</li>
           </ul>
         </li>
       </ul>
@@ -2996,7 +2951,13 @@ udver: '2'
       </ul>
     </td>
     <td width="9%" valign="top">
-
+      <ul>
+        <li>Cmp
+          <ul>
+            <li>ADJ: migliore, peggiori</li>
+          </ul>
+        </li>
+      </ul>
     </td>
     <td width="9%" valign="top">
       <ul>
@@ -3013,7 +2974,7 @@ udver: '2'
           <ul>
             <li>ADJ: maggior, alto, dolce, tardo, bella, cara, maggiori, grande, grata, mai</li>
             <li>ADV: più, men, tosto, meglio, oltre, sù, avanti, forte, giù, mei</li>
-            <li>DET: men, troppa</li>
+            <li>DET: troppa</li>
           </ul>
         </li>
       </ul>
@@ -3130,9 +3091,7 @@ udver: '2'
       </ul>
     </td>
     <td width="9%" valign="top">
-      <ul>
-        <li><a>Polarity</a></li>
-      </ul>
+
     </td>
     <td width="9%" valign="top">
 
@@ -3257,13 +3216,7 @@ udver: '2'
       </ul>
     </td>
     <td width="9%" valign="top">
-      <ul>
-        <li>Pos
-          <ul>
-            <li>ADV: sì</li>
-          </ul>
-        </li>
-      </ul>
+
     </td>
     <td width="9%" valign="top">
 
@@ -3589,8 +3542,8 @@ udver: '2'
       <ul>
         <li>Cnd
           <ul>
-            <li>AUX-Fin: potrebbe, sarebbe, dovrebbe, potrebbero, vorrei, avrebbero, avrei, dovrei, dovremmo, dovresti</li>
-            <li>VERB-Fin: abiterei, sarebbe, direi, piacerebbe, abiteresti, avrei, avremmo, chiamerebbe, continuereste, mancherebbe</li>
+            <li>AUX-Fin: potrebbe, sarebbe, dovrebbe, potrebbero, saresti, vorrei, avrebbero, avrei, dovrei, dovremmo</li>
+            <li>VERB-Fin: piacerebbe, abiterei, sarebbe, direi, abiteresti, avrei, avremmo, cambiereste, chiamerebbe, chiuderei</li>
           </ul>
         </li>
       </ul>
@@ -3701,9 +3654,8 @@ udver: '2'
       <ul>
         <li>Imp
           <ul>
-            <li>AUX-Fin: abbiamo, stiamo, potete, state</li>
-            <li>VERB-Fin: prendi, facciamo, trascrivi, vai, diciamo, guarda, sapete, scusate, torniamo, vedi</li>
-            <li>VERB-Part: sgozzati</li>
+            <li>AUX-Fin: dovete</li>
+            <li>VERB-Fin: trascrivi, guarda, scusate, dai, scusa, vai, di', evitiamo, fai, senti</li>
           </ul>
         </li>
       </ul>
@@ -3811,10 +3763,8 @@ udver: '2'
       <ul>
         <li>Ind
           <ul>
-            <li>ADV-Fin: fa</li>
-            <li>AUX-Fin: è, sono, ho, ha, era, hanno, devi, possiamo, son, potete</li>
-            <li>NOUN-Fin: tipo, incentivo, apostrofo, assistente, interrompo, mezzogiorno, raga, ragazzi</li>
-            <li>VERB-Fin: è, so, sono, fa, abbiamo, era, ha, va, erano, dice</li>
+            <li>AUX-Fin: è, sono, ho, ha, era, son, devi, hanno, hai, abbiamo</li>
+            <li>VERB-Fin: è, sono, so, era, fa, ho, ha, abbiamo, va, dice</li>
           </ul>
         </li>
       </ul>
@@ -3931,8 +3881,8 @@ udver: '2'
       <ul>
         <li>Sub
           <ul>
-            <li>AUX-Fin: fosse, sia, possa, abbiano, avessero, dovessero, dovessi, siano, stia, volesse</li>
-            <li>VERB-Fin: sia, siano, trovi, fosse, fossero, scrissero, sposti, stavi, abbia, aspiri</li>
+            <li>AUX-Fin: sia, fosse, siano, avessi, possa, abbiano, avessero, dovessero, stia, volesse</li>
+            <li>VERB-Fin: sia, siano, avessi, consideri, fossero, abbia, aspiri, avesse, aveste, chiamasse</li>
           </ul>
         </li>
       </ul>
@@ -4100,8 +4050,8 @@ udver: '2'
       <ul>
         <li>Fut
           <ul>
-            <li>AUX-Fin: sarà, avrete, dovrò, potrò, saremo, vorrò</li>
-            <li>VERB-Fin: divertirò, avrà, avrò, capirai, chiameranno, costerà, darà, discuteremo, diventerà, divertirai</li>
+            <li>AUX-Fin: sarà, avrete, dovrò, potrò, saremo</li>
+            <li>VERB-Fin: avrà, divertirò, andrà, andrò, avrò, capirai, chiameranno, costerà, darà, discuteremo</li>
           </ul>
         </li>
       </ul>
@@ -4212,8 +4162,8 @@ udver: '2'
       <ul>
         <li>Imp
           <ul>
-            <li>AUX-Fin: era, avevo, volevo, fosse, avevano, ero, poteva, erano, doveva, stava</li>
-            <li>VERB-Fin: era, erano, scrivevano, avevano, parlavano, avevo, pensavo, aveva, chiamavano, compravano</li>
+            <li>AUX-Fin: era, avevo, erano, fosse, volevo, ero, avevano, poteva, dovevo, stava</li>
+            <li>VERB-Fin: era, erano, scrivevano, avevano, parlavano, avevo, pensavo, aveva, andavamo, chiamavano</li>
           </ul>
         </li>
       </ul>
@@ -4320,12 +4270,10 @@ udver: '2'
       <ul>
         <li>Past
           <ul>
-            <li>ADJ-Part: immersa, preferita, scritta, colorate, disseminata, diversa, fortunata, indaffarato, interessata, isolata</li>
-            <li>AUX-Fin: fu, potreste, vorrò</li>
-            <li>AUX-Part: stata, stato, state, stati</li>
-            <li>NOUN-Part: cioccolato, linguisti, scritto, stato</li>
-            <li>VERB-Fin: stai, scrisse, andrò, comunicherò, fece, manderò, visiterò, vorrò</li>
-            <li>VERB-Part: detto, fatto, scritto, sentito, fatta, trovata, visto, imparato, parlato, trovato</li>
+            <li>AUX-Fin: fu</li>
+            <li>AUX-Part: stata, stato, stati, state, dovuto, potuto</li>
+            <li>VERB-Fin: furono, scrisse, fece, imparò, presi, scrissero</li>
+            <li>VERB-Part: detto, fatto, visto, scritto, capito, fatta, sentito, stato, andati, parlato</li>
           </ul>
         </li>
       </ul>
@@ -4460,13 +4408,8 @@ udver: '2'
       <ul>
         <li>Pres
           <ul>
-            <li>ADJ-Part: consistenti, recenti, vivente</li>
-            <li>ADV-Fin: fa</li>
-            <li>AUX-Fin: è, sono, ho, ha, hanno, devi, possiamo, abbiamo, son, potete</li>
-            <li>NOUN-Fin: tipo, incentivo, apostrofo, assistente, interrompo, mezzogiorno, raga, ragazzi</li>
-            <li>NOUN-Part: ristorante</li>
-            <li>VERB-Fin: è, so, sono, fa, abbiamo, ha, va, diciamo, dice, ho</li>
-            <li>VERB-Part: sgozzati</li>
+            <li>AUX-Fin: è, sono, ho, ha, son, devi, hanno, hai, abbiamo, possiamo</li>
+            <li>VERB-Fin: è, sono, so, fa, ho, ha, abbiamo, va, diciamo, dice</li>
           </ul>
         </li>
       </ul>
@@ -4871,8 +4814,7 @@ udver: '2'
       <ul>
         <li>Art
           <ul>
-            <li>DET: la, il, un, i, l', le, una, gli, un', lo</li>
-            <li>PRON: la, una, uno, l', le, lo</li>
+            <li>DET: la, il, i, un, l', le, una, gli, lo, un'</li>
           </ul>
         </li>
       </ul>
@@ -4891,7 +4833,7 @@ udver: '2'
       <ul>
         <li>Art
           <ul>
-            <li>DET: il, la, l', 'l, li, lo, i, le, un, una</li>
+            <li>DET: il, la, l', 'l, li, lo, i, un, le, una</li>
             <li>PRON: l', le</li>
           </ul>
         </li>
@@ -4980,9 +4922,8 @@ udver: '2'
       <ul>
         <li>Dem
           <ul>
-            <li>ADJ: stessa</li>
-            <li>DET: questa, questo, queste, questi, quest', quella, quel, quell', sta, 'sta</li>
-            <li>PRON: quello, questo, questa, questi, quella, quelli, queste, quelle, 'sta, 'ste</li>
+            <li>DET: questa, questo, queste, questi, quel, quest', quella, sta, quell', 'sto</li>
+            <li>PRON: quello, questo, questa, quella, questi, quelli, quelle, queste, ciò, quel</li>
           </ul>
         </li>
       </ul>
@@ -5002,7 +4943,7 @@ udver: '2'
         <li>Dem
           <ul>
             <li>ADJ: quella</li>
-            <li>DET: le, quel, quella, questa, questo, quell', quelle, queste, questi, quello</li>
+            <li>DET: le, tal, quel, quella, questa, questo, quell', quelle, queste, questi</li>
             <li>PRON: ciò, quel, colui, quella, quei, questo, questi, questa, quelli, costui</li>
           </ul>
         </li>
@@ -5090,13 +5031,7 @@ udver: '2'
       </ul>
     </td>
     <td width="9%" valign="top">
-      <ul>
-        <li>Exc
-          <ul>
-            <li>DET: che, quanti</li>
-          </ul>
-        </li>
-      </ul>
+
     </td>
     <td width="9%" valign="top">
 
@@ -5171,12 +5106,8 @@ udver: '2'
       <ul>
         <li>Ind
           <ul>
-            <li>ADJ: diverse, altro, altra, pochi, vari, pochissimi, tanti, tutto</li>
-            <li>ADV: quant', tutte</li>
-            <li>DET: tutto, tutti, alcuni, qualche, tutta, altra, dei, delle, tutte, altre</li>
-            <li>NOUN: granché, po'</li>
-            <li>PRON: niente, tutti, qualcosa, qualcuno, uno, altro, tutto, alcuni, altra, nessuno</li>
-            <li>VERB: leggimi</li>
+            <li>DET: qualche, delle, altre, dei, alcuni, poca, altra, altri, nessun, ogni</li>
+            <li>PRON: niente, qualcosa, tutti, qualcuno, uno, tutto, po', altro, nessuno, altra</li>
           </ul>
         </li>
       </ul>
@@ -5198,7 +5129,7 @@ udver: '2'
           <ul>
             <li>ADJ: altro</li>
             <li>ADV: alquanto, poco, molto, tanto</li>
-            <li>DET: altra, altro, ogne, alcun, tutto, tutte, altri, altrui, tutti, altre</li>
+            <li>DET: altra, più, altro, ogne, alcun, tutto, tutte, altri, altrui, tutti</li>
             <li>PRON: altro, altri, un, ciascun, altrui, qual, altra, una, alcun, chi</li>
           </ul>
         </li>
@@ -5293,9 +5224,9 @@ udver: '2'
       <ul>
         <li>Int
           <ul>
-            <li>ADV: cos', cosa, quant', quanto, quali, quanti</li>
-            <li>DET: che, quanti, quale</li>
-            <li>PRON: cosa, che, cos', quanto, co~, quale, qual, quante</li>
+            <li>ADV: qual</li>
+            <li>DET: che, quanti, quante, quale, quanto</li>
+            <li>PRON: cosa, chi, cos', qual, come, com', quali, quale, quante, quanto</li>
           </ul>
         </li>
       </ul>
@@ -5314,7 +5245,7 @@ udver: '2'
       <ul>
         <li>Int
           <ul>
-            <li>DET: qual, che, quai, quanto, quale, quali, quant', quanta, quanti</li>
+            <li>DET: qual, che, quai, quanto, quale, quali, quant', quanta, quante, quanti</li>
             <li>PRON: che, qual, cui, quai, quant', Quale, quali</li>
           </ul>
         </li>
@@ -5399,7 +5330,7 @@ udver: '2'
       <ul>
         <li>Neg
           <ul>
-            <li>ADV: non, no, neanche, nemmeno</li>
+            <li>ADV: non, no, neanche, mica, nemmeno</li>
           </ul>
         </li>
       </ul>
@@ -5496,10 +5427,8 @@ udver: '2'
       <ul>
         <li>Prs
           <ul>
-            <li>ADJ: mia, miei, tua, loro, nostro, propria, proprio, suo, suoi, tue</li>
-            <li>ADV: cos', proprio</li>
-            <li>DET: loro, mia, mio, suo, la, lo, nostro, sua, tua, miei</li>
-            <li>PRON: c', ci, lo, si, io, mi, ne, me, l', ti</li>
+            <li>DET: mia, mio, loro, miei, tua, suo, nostra, nostro, sua, tuo</li>
+            <li>PRON: c', io, ci, lo, mi, si, me, ti, l', te</li>
           </ul>
         </li>
       </ul>
@@ -5520,7 +5449,7 @@ udver: '2'
         <li>Prs
           <ul>
             <li>DET: mio, sua, suo, mia, lor, tua, tuo, sue, miei, suoi</li>
-            <li>PRON: si, io, mi, tu, s', ti, me, m', noi, lui</li>
+            <li>PRON: si, io, mi, tu, s', ti, me, ne, m', noi</li>
           </ul>
         </li>
       </ul>
@@ -5617,10 +5546,7 @@ udver: '2'
       <ul>
         <li>Rel
           <ul>
-            <li>CCONJ: che</li>
-            <li>DET: che</li>
-            <li>PRON: che, cui, chi, quanto, io, quali, quanta, chiunque</li>
-            <li>SCONJ: che</li>
+            <li>PRON: che, cui, chi, quanto, cosa, dove, quanta, quali, quanti</li>
           </ul>
         </li>
       </ul>
@@ -5640,7 +5566,7 @@ udver: '2'
         <li>Rel
           <ul>
             <li>DET: qual, quale, quali, quante, quanto, quanta, cui, quanti, quantunque, quai</li>
-            <li>PRON: che, ch', chi, cui, ond', qual, c', quale, cu', dove</li>
+            <li>PRON: che, ch', chi, cui, onde, ond', qual, c', quale, ove</li>
             <li>SCONJ: che, ch'</li>
           </ul>
         </li>
@@ -5724,8 +5650,7 @@ udver: '2'
       <ul>
         <li>Tot
           <ul>
-            <li>DET: tutti, tutte, tutta, tutto</li>
-            <li>PRON: quanti, tutta</li>
+            <li>DET: tutti, tutto, tutte, tutta</li>
           </ul>
         </li>
       </ul>
@@ -5743,8 +5668,8 @@ udver: '2'
       <ul>
         <li>Tot
           <ul>
-            <li>DET: tutto, ogne, tutti, tutte, tutta, amendue, ambedue, tutt', ogn', ogni</li>
-            <li>PRON: tutti, amendue, tutto, tutte, 'mbedue, ambedue, ambedui, intrambi</li>
+            <li>DET: tutto, ogne, tutta, tutti, tutte, amendue, ambedue, tutt', ogn', ogni</li>
+            <li>PRON: amendue, tutti, tutto, tutte, 'mbedue, ambedue, ambedui, intrambi</li>
           </ul>
         </li>
       </ul>
@@ -5877,9 +5802,7 @@ udver: '2'
       <ul>
         <li>Card
           <ul>
-            <li>ADJ: mezz'</li>
-            <li>NOUN: enne</li>
-            <li>NUM: due, quattro, tre, cinque, quattordici, sette, dieci, mille, dodici, nove</li>
+            <li>NUM: due, quattro, tre, cinque, quattordici, cinquanta, mille, sette, dieci, dodici</li>
           </ul>
         </li>
       </ul>
@@ -5979,8 +5902,8 @@ udver: '2'
       <ul>
         <li>Ord
           <ul>
-            <li>ADJ: prima, seconda, primo, terzo, i, ottavo, primi, quarti, ultima, ultimi</li>
-            <li>NUM: prima, primi, primo, secondo, terza</li>
+            <li>ADJ: prima, seconda, ultima, primo, terzo, ultimi, ultimo, ottavo, primi, secondo</li>
+            <li>NUM: primo</li>
           </ul>
         </li>
       </ul>
@@ -6181,10 +6104,8 @@ udver: '2'
       <ul>
         <li>Yes
           <ul>
-            <li>ADJ: mia, miei, tua, loro, propria, proprio, suo, suoi, tue, tuo</li>
-            <li>ADV: proprio</li>
-            <li>DET: loro, mia, mio, suo, nostro, sua, tua, miei, nostra, nostre</li>
-            <li>PRON: loro, miei, mie, tue</li>
+            <li>DET: mia, mio, loro, miei, tua, suo, nostra, nostro, sua, tuo</li>
+            <li>PRON: miei, loro, mie, sua</li>
           </ul>
         </li>
       </ul>
@@ -6444,10 +6365,9 @@ udver: '2'
       <ul>
         <li>1
           <ul>
-            <li>AUX-Fin: ho, possiamo, abbiamo, sono, posso, avevo, devo, sto, volevo, siamo</li>
-            <li>NOUN-Fin: tipo, incentivo, apostrofo, interrompo, mezzogiorno</li>
-            <li>PRON: io, mi, c', ci, me, noi, ce, m', c~, m~</li>
-            <li>VERB-Fin: so, abbiamo, diciamo, ho, dico, penso, visto, sappiamo, avevo, credo</li>
+            <li>AUX-Fin: ho, sono, son, abbiamo, possiamo, posso, devo, siamo, avevo, sto</li>
+            <li>PRON: c', io, ci, mi, me, noi, ce, m'</li>
+            <li>VERB-Fin: so, ho, abbiamo, diciamo, vado, penso, dico, faccio, ricordo, credo</li>
           </ul>
         </li>
       </ul>
@@ -6574,10 +6494,9 @@ udver: '2'
       <ul>
         <li>2
           <ul>
-            <li>AUX-Fin: devi, potete, hai, sei, puoi, vuoi, avete, potreste, volete, avrete</li>
-            <li>PRON: ti, te, voi, vi, tu, t', ve, ci</li>
-            <li>VERB-Fin: avete, vuoi, fai, hai, sai, dici, prendi, stai, vai, vedete</li>
-            <li>VERB-Part: sgozzati</li>
+            <li>AUX-Fin: devi, hai, sei, potete, vuoi, puoi, avete, siete, saresti, dovete</li>
+            <li>PRON: ti, te, tu, vi, voi, t', ve</li>
+            <li>VERB-Fin: avete, fai, vuoi, vai, hai, sai, dici, stai, vedi, prendi</li>
           </ul>
         </li>
       </ul>
@@ -6600,7 +6519,7 @@ udver: '2'
             <li>AUX: se', hai, puoi, siete, fosti, sarai, vuo', dei, avete, fossi</li>
             <li>AUX-Fin: se', hai, puoi, siete, fosti, sarai, vuo', dei, avete, fossi</li>
             <li>AUX-Part: potuto, state</li>
-            <li>PRON: tu, ti, te, voi, t', vi, tal, v', tale, ne</li>
+            <li>PRON: tu, ti, te, voi, t', vi, v', tal, ne, tue</li>
             <li>VERB: vedi, va, fa, vedrai, credi, di', sai, dì, hai, dire</li>
             <li>VERB-Fin: vedi, va, fa, vedrai, credi, di', sai, dì, hai, dire</li>
             <li>VERB-Part: venuto, fatto, tratto, veduto, assiso, disposto, giunto, riposato, accorti, caduto</li>
@@ -6706,13 +6625,9 @@ udver: '2'
       <ul>
         <li>3
           <ul>
-            <li>ADV: cos', fa</li>
-            <li>ADV-Fin: fa</li>
-            <li>AUX-Fin: è, sono, ha, era, hanno, son, può, potrebbe, fosse, deve</li>
-            <li>DET: la, lo, l'</li>
-            <li>NOUN-Fin: assistente, raga, ragazzi</li>
-            <li>PRON: lo, si, l', le, li, la, lei, loro, lui, gli</li>
-            <li>VERB-Fin: è, sono, fa, era, ha, va, erano, dice, hanno, scrivevano</li>
+            <li>AUX-Fin: è, sono, ha, era, hanno, son, sia, può, potrebbe, erano</li>
+            <li>PRON: lo, si, l', li, la, lei, le, loro, gli, lui</li>
+            <li>VERB-Fin: è, sono, era, fa, ha, va, dice, hanno, erano, piace</li>
           </ul>
         </li>
       </ul>
@@ -7069,7 +6984,17 @@ udver: '2'
       </ul>
     </td>
     <td width="9%" valign="top">
-
+      <ul>
+        <li><a>Clitic</a>
+          <ul>
+            <li>Yes
+              <ul>
+                <li>PRON: c', ci, lo, mi, si, me, ti, l', te, ne</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
     </td>
     <td width="9%" valign="top">
       <ul>
@@ -7242,8 +7167,8 @@ udver: '2'
           <ul>
             <li>ADP
               <ul>
-                <li>ADP: fin, a, da, in</li>
-                <li>ADV: fuori, rispetto, fino, intorno, vicino, davanti, più, prima</li>
+                <li>ADP: fin, a, da, di, grazie, in</li>
+                <li>ADV: fuori, fino, rispetto, prima, vicino, davanti, intorno, invece, oltre, più</li>
               </ul>
             </li>
             <li>ADV
@@ -7259,7 +7184,7 @@ udver: '2'
             <li>SCONJ
               <ul>
                 <li>ADP: a, per, da</li>
-                <li>ADV: anche, comunque, prima</li>
+                <li>ADV: anche, comunque, meno, piuttosto, prima</li>
               </ul>
             </li>
           </ul>
@@ -7270,7 +7195,32 @@ udver: '2'
 
     </td>
     <td width="9%" valign="top">
-
+      <ul>
+        <li><a>ExtPos</a>
+          <ul>
+            <li>ADP
+              <ul>
+                <li>ADP: con, in</li>
+              </ul>
+            </li>
+            <li>ADV
+              <ul>
+                <li>ADV: differente, non</li>
+              </ul>
+            </li>
+            <li>CCONJ
+              <ul>
+                <li>CCONJ: o</li>
+              </ul>
+            </li>
+            <li>SCONJ
+              <ul>
+                <li>ADP: in</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
     </td>
     <td width="9%" valign="top">
 
@@ -7406,8 +7356,11 @@ udver: '2'
           <ul>
             <li>Yes
               <ul>
-                <li>NOUN: brokering, child, language, translation</li>
-                <li>X: day, may, slut, fuck, ja, wunderbar, you</li>
+                <li>AUX: sugn</li>
+                <li>NOUN: around, tamarra, turn</li>
+                <li>PRON: sa</li>
+                <li>VERB: vut</li>
+                <li>X: i~</li>
               </ul>
             </li>
           </ul>
@@ -7620,7 +7573,7 @@ udver: '2'
       <h3>Auxiliary Verbs and Copula</h3>
       
       <ul>
-      <li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: essere.</li>
+      <li>This corpus uses 2 lemmas as copulas (<a>cop</a>). Examples: essere, esse.</li>
       </ul>
     </td>
     <td width="9%" valign="top">
@@ -7714,7 +7667,7 @@ udver: '2'
     </td>
     <td width="9%" valign="top">
       <ul>
-      <li>This corpus uses 9 lemmas as auxiliaries (<a>aux</a>). Examples: avere, essere, potere, dovere, volere, stare, venire, sapere, andare.</li>
+      <li>This corpus uses 7 lemmas as auxiliaries (<a>aux</a>). Examples: avere, essere, potere, dovere, volere, stare, andare.</li>
       <li>This corpus uses 4 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: essere, venire, andare, stare.</li>
       </ul>
     </td>
@@ -7800,18 +7753,19 @@ udver: '2'
       <ul>
         <li><a>nsubj</a>
           <ul>
-            <li>VERB--NOUN (5)</li>
-            <li>VERB--PRON (15)</li>
-            <li>VERB-Fin--NOUN (223)</li>
-            <li>VERB-Fin--NOUN-ADP(di) (12)</li>
-            <li>VERB-Fin--PRON (243)</li>
-            <li>VERB-Fin--PRON-ADP(come) (1)</li>
+            <li>VERB--NOUN (4)</li>
+            <li>VERB--PRON (14)</li>
+            <li>VERB-Fin--NOUN (299)</li>
+            <li>VERB-Fin--NOUN-ADP(di) (4)</li>
+            <li>VERB-Fin--NOUN-ADP(il) (1)</li>
+            <li>VERB-Fin--PRON (400)</li>
+            <li>VERB-Fin--PRON-ADP(con) (1)</li>
             <li>VERB-Ger--NOUN (1)</li>
-            <li>VERB-Ger--PRON (4)</li>
-            <li>VERB-Inf--NOUN (11)</li>
-            <li>VERB-Inf--PRON (20)</li>
-            <li>VERB-Part--NOUN (19)</li>
-            <li>VERB-Part--PRON (52)</li>
+            <li>VERB-Ger--PRON (5)</li>
+            <li>VERB-Inf--NOUN (9)</li>
+            <li>VERB-Inf--PRON (35)</li>
+            <li>VERB-Part--NOUN (35)</li>
+            <li>VERB-Part--PRON (86)</li>
           </ul>
         </li>
       </ul>
@@ -7848,15 +7802,15 @@ udver: '2'
             <li>VERB--PRON (36)</li>
             <li>VERB-Conv--NOUN (5)</li>
             <li>VERB-Conv--PRON (9)</li>
-            <li>VERB-Fin--NOUN (2262)</li>
+            <li>VERB-Fin--NOUN (2263)</li>
             <li>VERB-Fin--NOUN-ADP(con) (1)</li>
             <li>VERB-Fin--NOUN-ADP(di) (1)</li>
-            <li>VERB-Fin--PRON (3842)</li>
+            <li>VERB-Fin--PRON (3839)</li>
             <li>VERB-Fin--PRON-ADP(di) (2)</li>
             <li>VERB-Inf--NOUN (135)</li>
             <li>VERB-Inf--PRON (123)</li>
             <li>VERB-Part--NOUN (194)</li>
-            <li>VERB-Part--PRON (338)</li>
+            <li>VERB-Part--PRON (339)</li>
           </ul>
         </li>
       </ul>
@@ -8024,23 +7978,24 @@ udver: '2'
       <ul>
         <li><a>obj</a>
           <ul>
-            <li>VERB--NOUN (16)</li>
+            <li>VERB--NOUN (14)</li>
+            <li>VERB--NOUN-ADP(di) (1)</li>
             <li>VERB--PRON (14)</li>
-            <li>VERB-Fin--NOUN (275)</li>
+            <li>VERB-Fin--NOUN (351)</li>
             <li>VERB-Fin--NOUN-ADP(con) (1)</li>
             <li>VERB-Fin--NOUN-ADP(da) (1)</li>
-            <li>VERB-Fin--NOUN-ADP(di) (14)</li>
-            <li>VERB-Fin--PRON (217)</li>
-            <li>VERB-Ger--NOUN (11)</li>
+            <li>VERB-Fin--NOUN-ADP(di) (9)</li>
+            <li>VERB-Fin--PRON (308)</li>
+            <li>VERB-Ger--NOUN (5)</li>
             <li>VERB-Ger--NOUN-ADP(di) (1)</li>
-            <li>VERB-Ger--PRON (4)</li>
-            <li>VERB-Inf--NOUN (100)</li>
-            <li>VERB-Inf--NOUN-ADP(di) (2)</li>
-            <li>VERB-Inf--PRON (75)</li>
-            <li>VERB-Inf--PRON-ADP(di) (1)</li>
-            <li>VERB-Part--NOUN (60)</li>
-            <li>VERB-Part--NOUN-ADP(di) (3)</li>
-            <li>VERB-Part--PRON (67)</li>
+            <li>VERB-Ger--PRON (7)</li>
+            <li>VERB-Inf--NOUN (128)</li>
+            <li>VERB-Inf--NOUN-ADP(di) (1)</li>
+            <li>VERB-Inf--PRON (94)</li>
+            <li>VERB-Part--NOUN (77)</li>
+            <li>VERB-Part--NOUN-ADP(di) (2)</li>
+            <li>VERB-Part--NOUN-ADP(su) (1)</li>
+            <li>VERB-Part--PRON (83)</li>
           </ul>
         </li>
       </ul>
@@ -8076,19 +8031,19 @@ udver: '2'
             <li>VERB-Conv--NOUN (169)</li>
             <li>VERB-Conv--NOUN-ADP(di) (1)</li>
             <li>VERB-Conv--PRON (45)</li>
-            <li>VERB-Fin--NOUN (2525)</li>
+            <li>VERB-Fin--NOUN (2524)</li>
             <li>VERB-Fin--NOUN-ADP(a) (2)</li>
             <li>VERB-Fin--NOUN-ADP(di) (41)</li>
             <li>VERB-Fin--NOUN-ADP(in) (2)</li>
             <li>VERB-Fin--NOUN-ADP(in)-ADP(su) (1)</li>
             <li>VERB-Fin--NOUN-ADP(per) (1)</li>
             <li>VERB-Fin--NOUN-ADP(senza) (1)</li>
-            <li>VERB-Fin--PRON (2173)</li>
+            <li>VERB-Fin--PRON (2170)</li>
             <li>VERB-Fin--PRON-ADP(di) (16)</li>
             <li>VERB-Inf--NOUN (462)</li>
             <li>VERB-Inf--NOUN-ADP(di) (4)</li>
             <li>VERB-Inf--NOUN-ADP(senza) (1)</li>
-            <li>VERB-Inf--PRON (228)</li>
+            <li>VERB-Inf--PRON (229)</li>
             <li>VERB-Inf--PRON-ADP(di) (1)</li>
             <li>VERB-Part--NOUN (152)</li>
             <li>VERB-Part--PRON (136)</li>
@@ -8237,16 +8192,15 @@ udver: '2'
       <ul>
         <li><a>iobj</a>
           <ul>
-            <li>VERB--PRON (4)</li>
-            <li>VERB-Fin--NOUN-ADP(a) (4)</li>
-            <li>VERB-Fin--PRON (125)</li>
+            <li>VERB--PRON (7)</li>
+            <li>VERB-Fin--PRON (172)</li>
             <li>VERB-Fin--PRON-ADP(a) (4)</li>
-            <li>VERB-Ger--PRON (4)</li>
+            <li>VERB-Ger--PRON (2)</li>
             <li>VERB-Ger--PRON-ADP(a) (1)</li>
-            <li>VERB-Inf--NOUN-ADP(a) (1)</li>
-            <li>VERB-Inf--PRON (18)</li>
-            <li>VERB-Part--PRON (38)</li>
-            <li>VERB-Part--PRON-ADP(come) (1)</li>
+            <li>VERB-Inf--PRON (17)</li>
+            <li>VERB-Inf--PRON-ADP(a) (1)</li>
+            <li>VERB-Part--PRON (47)</li>
+            <li>VERB-Part--PRON-ADP(a) (2)</li>
           </ul>
         </li>
       </ul>
@@ -8426,7 +8380,7 @@ udver: '2'
       <h3>Reflexive Passive</h3>
       
       <ul>
-        <li>This corpus contains 6 lemmas that occur at least once with an <a>expl:pass</a> child. Examples: chiamare si, datare si, operare si, raccontare si, sapere si, segnare si</li>
+        <li>This corpus contains 7 lemmas that occur at least once with an <a>expl:pass</a> child. Examples: vedere si, bruciare si, datare si, operare si, raccontare si, sapere si, segnare si</li>
       </ul>
     </td>
     <td width="9%" valign="top">
@@ -8540,7 +8494,7 @@ udver: '2'
       <h3>Relations Overview</h3>
       
       <ul>
-      <li>This corpus uses 13 relation subtypes: <a>acl:relcl</a>, <a>advcl:relcl</a>, <a>aux:pass</a>, <a>ccomp:reported</a>, <a>det:poss</a>, <a>det:predet</a>, <a>expl:impers</a>, <a>expl:pass</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>obl:tmod</a></li>
+      <li>This corpus uses 20 relation subtypes: <a>acl:relcl</a>, <a>advcl:relcl</a>, <a>aux:pass</a>, <a>cc:preconj</a>, <a>ccomp:reported</a>, <a>conj:reform</a>, <a>det:poss</a>, <a>det:predet</a>, <a>discourse:filler</a>, <a>discourse:tag</a>, <a>expl:impers</a>, <a>expl:pass</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>obl:tmod</a>, <a>parataxis:insert</a>, <a>parataxis:parenth</a>, <a>parataxis:restart</a></li>
       <li>The following 4 relation types are not used in this corpus at all: <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>punct</a></li>
       </ul>
     </td>

@@ -1101,7 +1101,7 @@ udver: '2'
         <li><a>obj</a>
           <ul>
             <li>VERB--NOUN (5)</li>
-            <li>VERB--NOUN-ADP(ng) (21)</li>
+            <li>VERB--NOUN-ADP(ng) (20)</li>
             <li>VERB--PRON-ADP(ang) (1)</li>
             <li>VERB--PRON-Gen (1)</li>
             <li>VERB--PRON-Nom (1)</li>

@@ -131,7 +131,7 @@ udver: '2'
   <tr>
     <td width="50%" valign="top">
       <ul>
-      <li>This corpus contains 69 lemmas tagged as determiners (DET): अति, अधिक, अधिकतर, अधिकांश, अनगिनत, अनेक, असंख्य, आधा, इतना, इन, इस, उतना, ऐसा, ऐसे, और, कई, कतिपय, कम, कहीं, काफी, कितना, किस, कुछ, कुछेक, कुल, कौन, क्या, क्‍या, खासा, खूब, गुना, चंद, जरा, जितना, जो, ज्यादा, ज्यादातर, डबल, ढेर, तमाम, तिगुना, थोड़ा, थोड़ी, थोडा, थोडी, दोगुना, दोहरा, पर्याप्त, पौन, पौना, प्रत्येक, बडा, बहुत, बाकी, बेहद, यह, यही, य़ह, वह, वही, वैसा, सब, सभी, समस्त, सारा, से, हम, हर, हाफ</li>
+      <li>This corpus contains 65 lemmas tagged as determiners (DET): अति, अधिक, अधिकतर, अधिकांश, अनगिनत, अनेक, असंख्य, आधा, इतना, इन, इस, उतना, ऐसा, ऐसे, और, कई, कतिपय, कम, कहीं, काफी, कितना, किस, कुछ, कुछेक, कुल, कौन, क्या, क्‍या, खूब, गुना, चंद, जरा, जितना, जो, ज्यादा, ज्यादातर, डबल, ढेर, तमाम, थोड़ा, थोड़ी, थोडा, थोडी, दोगुना, पर्याप्त, पौन, पौना, प्रत्येक, बहुत, बाकी, बेहद, यह, यही, य़ह, वह, वही, वैसा, सब, सभी, समस्त, सारा, से, हम, हर, हाफ</li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -1223,6 +1223,7 @@ udver: '2'
         <li>Ind
           <ul>
             <li>DET: कुछ, कई, सभी, कम, ज्यादा, काफी, अधिक, और, हर, बहुत</li>
+            <li>PRON: और</li>
           </ul>
         </li>
       </ul>
@@ -1236,7 +1237,7 @@ udver: '2'
       <ul>
         <li>Int
           <ul>
-            <li>DET: क्या, किस, किन, कितने, कौन, कितना, कितनी, क्‍या</li>
+            <li>DET: क्या, किस, कितने, कितनी, किन, कितना, कौन, क्‍या</li>
             <li>PRON: क्या, कैसे, क्यों, कब, कौन, कहाँ, कहां, किस, किसने, कैसा</li>
           </ul>
         </li>
@@ -1283,7 +1284,13 @@ udver: '2'
   </tr>
   <tr>
     <td width="50%" valign="top">
-
+      <ul>
+        <li>Rel
+          <ul>
+            <li>DET: जितनी, जितने</li>
+          </ul>
+        </li>
+      </ul>
     </td>
     <td width="50%" valign="top">
       <ul>
@@ -1293,6 +1300,21 @@ udver: '2'
           </ul>
         </li>
       </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <ul>
+        <li>Tot
+          <ul>
+            <li>DET: सारी, सारे, सारा</li>
+            <li>PRON: सब, सबसे</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+
     </td>
   </tr>
   <tr>
@@ -1779,10 +1801,10 @@ udver: '2'
       <ul>
         <li><a>nsubj</a>
           <ul>
-            <li>VERB--NOUN-Acc (18)</li>
+            <li>VERB--NOUN-Acc (17)</li>
             <li>VERB--NOUN-Acc-ADP(का) (13)</li>
             <li>VERB--NOUN-Acc-ADP(के)-ADP(लिए) (1)</li>
-            <li>VERB--NOUN-Acc-ADP(को) (44)</li>
+            <li>VERB--NOUN-Acc-ADP(को) (32)</li>
             <li>VERB--NOUN-Acc-ADP(तक) (1)</li>
             <li>VERB--NOUN-Acc-ADP(द्वारा) (5)</li>
             <li>VERB--NOUN-Acc-ADP(ने) (533)</li>
@@ -1791,12 +1813,11 @@ udver: '2'
             <li>VERB--NOUN-Nom-ADP(बतौर) (1)</li>
             <li>VERB--PRON (3)</li>
             <li>VERB--PRON-Acc (7)</li>
-            <li>VERB--PRON-Acc,Dat (31)</li>
+            <li>VERB--PRON-Acc,Dat (18)</li>
             <li>VERB--PRON-Acc,Erg (114)</li>
             <li>VERB--PRON-Acc,Gen (1)</li>
-            <li>VERB--PRON-Acc,Gen-ADP(लिए) (1)</li>
             <li>VERB--PRON-Acc,Ins (1)</li>
-            <li>VERB--PRON-Acc-ADP(को) (4)</li>
+            <li>VERB--PRON-Acc-ADP(को) (2)</li>
             <li>VERB--PRON-Acc-ADP(ने) (1)</li>
             <li>VERB--PRON-Nom (465)</li>
             <li>VERB-Conv--NOUN-Acc (1)</li>
@@ -1805,64 +1826,62 @@ udver: '2'
             <li>VERB-Conv--NOUN-Acc-ADP(ने) (6)</li>
             <li>VERB-Conv--NOUN-Acc-ADP(से) (1)</li>
             <li>VERB-Conv--NOUN-Nom (37)</li>
-            <li>VERB-Conv--PRON-Acc,Dat (1)</li>
             <li>VERB-Conv--PRON-Nom (8)</li>
-            <li>VERB-Fin--NOUN-Acc (6)</li>
+            <li>VERB-Fin--NOUN-Acc (5)</li>
             <li>VERB-Fin--NOUN-Acc-ADP(का) (2)</li>
-            <li>VERB-Fin--NOUN-Acc-ADP(को) (41)</li>
+            <li>VERB-Fin--NOUN-Acc-ADP(को) (19)</li>
             <li>VERB-Fin--NOUN-Acc-ADP(द्वारा) (2)</li>
             <li>VERB-Fin--NOUN-Acc-ADP(ने) (2)</li>
             <li>VERB-Fin--NOUN-Acc-ADP(से) (1)</li>
             <li>VERB-Fin--NOUN-Nom (963)</li>
             <li>VERB-Fin--PRON (4)</li>
             <li>VERB-Fin--PRON-Acc (4)</li>
-            <li>VERB-Fin--PRON-Acc,Dat (30)</li>
+            <li>VERB-Fin--PRON-Acc,Dat (15)</li>
             <li>VERB-Fin--PRON-Acc,Erg (1)</li>
             <li>VERB-Fin--PRON-Acc,Gen-ADP(पास) (1)</li>
             <li>VERB-Fin--PRON-Acc,Ins (1)</li>
-            <li>VERB-Fin--PRON-Acc-ADP(को) (3)</li>
             <li>VERB-Fin--PRON-Nom (419)</li>
-            <li>VERB-Inf--NOUN-Acc (13)</li>
+            <li>VERB-Inf--NOUN-Acc (12)</li>
             <li>VERB-Inf--NOUN-Acc-ADP(का) (265)</li>
             <li>VERB-Inf--NOUN-Acc-ADP(के) (12)</li>
-            <li>VERB-Inf--NOUN-Acc-ADP(को) (219)</li>
+            <li>VERB-Inf--NOUN-Acc-ADP(को) (215)</li>
             <li>VERB-Inf--NOUN-Acc-ADP(द्वारा) (44)</li>
             <li>VERB-Inf--NOUN-Acc-ADP(ने) (10)</li>
             <li>VERB-Inf--NOUN-Acc-ADP(पर) (2)</li>
             <li>VERB-Inf--NOUN-Acc-ADP(से) (4)</li>
-            <li>VERB-Inf--NOUN-Nom (499)</li>
+            <li>VERB-Inf--NOUN-Nom (497)</li>
             <li>VERB-Inf--NOUN-Nom-ADP(का) (1)</li>
-            <li>VERB-Inf--PRON-Acc,Dat (123)</li>
+            <li>VERB-Inf--PRON-Acc,Dat (121)</li>
             <li>VERB-Inf--PRON-Acc,Dat-ADP(का) (1)</li>
             <li>VERB-Inf--PRON-Acc,Dat-ADP(को) (1)</li>
             <li>VERB-Inf--PRON-Acc,Erg (1)</li>
             <li>VERB-Inf--PRON-Acc,Gen (97)</li>
             <li>VERB-Inf--PRON-Acc,Ins (3)</li>
             <li>VERB-Inf--PRON-Acc-ADP(का) (4)</li>
-            <li>VERB-Inf--PRON-Acc-ADP(को) (3)</li>
+            <li>VERB-Inf--PRON-Acc-ADP(को) (1)</li>
             <li>VERB-Inf--PRON-Nom (41)</li>
             <li>VERB-Part--NOUN-Acc (22)</li>
             <li>VERB-Part--NOUN-Acc-ADP(का) (11)</li>
             <li>VERB-Part--NOUN-Acc-ADP(का)-ADP(ओर)-ADP(से) (1)</li>
             <li>VERB-Part--NOUN-Acc-ADP(के) (3)</li>
-            <li>VERB-Part--NOUN-Acc-ADP(के)-ADP(साथ) (4)</li>
-            <li>VERB-Part--NOUN-Acc-ADP(को) (72)</li>
+            <li>VERB-Part--NOUN-Acc-ADP(के)-ADP(साथ) (3)</li>
+            <li>VERB-Part--NOUN-Acc-ADP(को) (38)</li>
             <li>VERB-Part--NOUN-Acc-ADP(तक) (1)</li>
             <li>VERB-Part--NOUN-Acc-ADP(द्वारा) (8)</li>
             <li>VERB-Part--NOUN-Acc-ADP(ने) (1759)</li>
             <li>VERB-Part--NOUN-Acc-ADP(में) (3)</li>
-            <li>VERB-Part--NOUN-Nom (2073)</li>
+            <li>VERB-Part--NOUN-Nom (2070)</li>
             <li>VERB-Part--NOUN-Nom-ADP(ने) (1)</li>
             <li>VERB-Part--PRON (3)</li>
             <li>VERB-Part--PRON-Acc (8)</li>
-            <li>VERB-Part--PRON-Acc,Dat (43)</li>
+            <li>VERB-Part--PRON-Acc,Dat (20)</li>
             <li>VERB-Part--PRON-Acc,Erg (1637)</li>
             <li>VERB-Part--PRON-Acc,Erg-ADP(ने) (1)</li>
             <li>VERB-Part--PRON-Acc,Gen (2)</li>
             <li>VERB-Part--PRON-Acc,Ine (2)</li>
-            <li>VERB-Part--PRON-Acc,Ins (4)</li>
+            <li>VERB-Part--PRON-Acc,Ins (3)</li>
             <li>VERB-Part--PRON-Acc-ADP(का) (1)</li>
-            <li>VERB-Part--PRON-Acc-ADP(को) (3)</li>
+            <li>VERB-Part--PRON-Acc-ADP(को) (2)</li>
             <li>VERB-Part--PRON-Acc-ADP(ने) (14)</li>
             <li>VERB-Part--PRON-Nom (520)</li>
             <li>VERB-Part--PRON-Nom-ADP(ने) (1)</li>
@@ -1913,7 +1932,7 @@ udver: '2'
             <li>VERB--NOUN-Acc-ADP(का) (1)</li>
             <li>VERB--NOUN-Acc-ADP(के)-ADP(लिए) (1)</li>
             <li>VERB--NOUN-Acc-ADP(के)-ADP(साथ) (1)</li>
-            <li>VERB--NOUN-Acc-ADP(को) (447)</li>
+            <li>VERB--NOUN-Acc-ADP(को) (449)</li>
             <li>VERB--NOUN-Acc-ADP(तक) (2)</li>
             <li>VERB--NOUN-Acc-ADP(पर) (6)</li>
             <li>VERB--NOUN-Acc-ADP(में) (2)</li>
@@ -1922,10 +1941,10 @@ udver: '2'
             <li>VERB--NOUN-Nom-ADP(से) (1)</li>
             <li>VERB--PRON (3)</li>
             <li>VERB--PRON-Acc (3)</li>
-            <li>VERB--PRON-Acc,Dat (143)</li>
+            <li>VERB--PRON-Acc,Dat (145)</li>
             <li>VERB--PRON-Acc,Gen (1)</li>
             <li>VERB--PRON-Acc,Ins (7)</li>
-            <li>VERB--PRON-Acc-ADP(को) (16)</li>
+            <li>VERB--PRON-Acc-ADP(को) (18)</li>
             <li>VERB--PRON-Acc-ADP(से) (1)</li>
             <li>VERB--PRON-Nom (38)</li>
             <li>VERB-Conv--NOUN (1)</li>
@@ -1961,13 +1980,13 @@ udver: '2'
             <li>VERB-Inf--NOUN-Acc-ADP(के)-ADP(बराबर) (1)</li>
             <li>VERB-Inf--NOUN-Acc-ADP(के)-ADP(बारे)-ADP(में) (1)</li>
             <li>VERB-Inf--NOUN-Acc-ADP(के)-ADP(साथ) (2)</li>
-            <li>VERB-Inf--NOUN-Acc-ADP(को) (792)</li>
+            <li>VERB-Inf--NOUN-Acc-ADP(को) (793)</li>
             <li>VERB-Inf--NOUN-Acc-ADP(तक) (1)</li>
             <li>VERB-Inf--NOUN-Acc-ADP(पर) (2)</li>
             <li>VERB-Inf--NOUN-Acc-ADP(में) (9)</li>
             <li>VERB-Inf--NOUN-Acc-ADP(से) (87)</li>
             <li>VERB-Inf--NOUN-Acc-ADP(से)-ADP(दूर) (1)</li>
-            <li>VERB-Inf--NOUN-Nom (2018)</li>
+            <li>VERB-Inf--NOUN-Nom (2019)</li>
             <li>VERB-Inf--PRON (2)</li>
             <li>VERB-Inf--PRON-Acc,Dat (100)</li>
             <li>VERB-Inf--PRON-Acc,Gen (1)</li>
@@ -1997,7 +2016,7 @@ udver: '2'
             <li>VERB-Part--NOUN-Acc-ADP(को) (1011)</li>
             <li>VERB-Part--NOUN-Acc-ADP(जैसा) (2)</li>
             <li>VERB-Part--NOUN-Acc-ADP(तक) (2)</li>
-            <li>VERB-Part--NOUN-Acc-ADP(द्वारा) (4)</li>
+            <li>VERB-Part--NOUN-Acc-ADP(द्वारा) (3)</li>
             <li>VERB-Part--NOUN-Acc-ADP(ने) (1)</li>
             <li>VERB-Part--NOUN-Acc-ADP(पर) (18)</li>
             <li>VERB-Part--NOUN-Acc-ADP(बतौर) (1)</li>
@@ -2005,7 +2024,7 @@ udver: '2'
             <li>VERB-Part--NOUN-Acc-ADP(में)-ADP(से) (1)</li>
             <li>VERB-Part--NOUN-Acc-ADP(से) (155)</li>
             <li>VERB-Part--NOUN-Acc-ADP(से)-ADP(परे) (1)</li>
-            <li>VERB-Part--NOUN-Nom (3376)</li>
+            <li>VERB-Part--NOUN-Nom (3375)</li>
             <li>VERB-Part--NOUN-Nom-ADP(के)-ADP(बीच) (1)</li>
             <li>VERB-Part--NOUN-Nom-ADP(को) (2)</li>
             <li>VERB-Part--NOUN-Nom-ADP(दूर) (1)</li>
@@ -2013,7 +2032,7 @@ udver: '2'
             <li>VERB-Part--NOUN-Nom-ADP(से) (1)</li>
             <li>VERB-Part--PRON (7)</li>
             <li>VERB-Part--PRON-Acc (1)</li>
-            <li>VERB-Part--PRON-Acc,Dat (258)</li>
+            <li>VERB-Part--PRON-Acc,Dat (260)</li>
             <li>VERB-Part--PRON-Acc,Gen (3)</li>
             <li>VERB-Part--PRON-Acc,Gen-ADP(पास) (1)</li>
             <li>VERB-Part--PRON-Acc,Gen-ADP(साथ) (6)</li>
@@ -2070,12 +2089,12 @@ udver: '2'
       <ul>
         <li><a>iobj</a>
           <ul>
-            <li>VERB--NOUN-Acc (6)</li>
+            <li>VERB--NOUN-Acc (7)</li>
             <li>VERB--NOUN-Acc-ADP(के)-ADP(लिए) (1)</li>
-            <li>VERB--NOUN-Acc-ADP(को) (181)</li>
+            <li>VERB--NOUN-Acc-ADP(को) (191)</li>
             <li>VERB--NOUN-Acc-ADP(से) (13)</li>
             <li>VERB--NOUN-Nom (4)</li>
-            <li>VERB--PRON-Acc,Dat (39)</li>
+            <li>VERB--PRON-Acc,Dat (50)</li>
             <li>VERB--PRON-Acc,Ins (2)</li>
             <li>VERB--PRON-Acc-ADP(को) (3)</li>
             <li>VERB--PRON-Acc-ADP(से) (1)</li>
@@ -2083,43 +2102,43 @@ udver: '2'
             <li>VERB-Conv--NOUN-Acc (1)</li>
             <li>VERB-Conv--NOUN-Acc-ADP(को) (15)</li>
             <li>VERB-Conv--NOUN-Acc-ADP(से) (2)</li>
-            <li>VERB-Conv--PRON-Acc,Dat (6)</li>
+            <li>VERB-Conv--PRON-Acc,Dat (7)</li>
             <li>VERB-Conv--PRON-Acc,Ins (1)</li>
             <li>VERB-Conv--PRON-Acc-ADP(को) (1)</li>
-            <li>VERB-Fin--NOUN-Acc (1)</li>
+            <li>VERB-Fin--NOUN-Acc (2)</li>
             <li>VERB-Fin--NOUN-Acc-ADP(के)-ADP(लिए) (1)</li>
-            <li>VERB-Fin--NOUN-Acc-ADP(को) (78)</li>
+            <li>VERB-Fin--NOUN-Acc-ADP(को) (99)</li>
             <li>VERB-Fin--NOUN-Acc-ADP(से) (15)</li>
             <li>VERB-Fin--NOUN-Nom (1)</li>
-            <li>VERB-Fin--PRON-Acc,Dat (21)</li>
+            <li>VERB-Fin--PRON-Acc,Dat (36)</li>
             <li>VERB-Fin--PRON-Acc,Gen-ADP(खिलाफ) (1)</li>
             <li>VERB-Fin--PRON-Acc,Ins (1)</li>
-            <li>VERB-Fin--PRON-Acc-ADP(को) (2)</li>
+            <li>VERB-Fin--PRON-Acc-ADP(को) (5)</li>
             <li>VERB-Inf--NOUN-Acc (5)</li>
             <li>VERB-Inf--NOUN-Acc-ADP(के)-ADP(पास) (1)</li>
             <li>VERB-Inf--NOUN-Acc-ADP(के)-ADP(साथ) (1)</li>
-            <li>VERB-Inf--NOUN-Acc-ADP(को) (238)</li>
+            <li>VERB-Inf--NOUN-Acc-ADP(को) (243)</li>
             <li>VERB-Inf--NOUN-Acc-ADP(तक) (1)</li>
             <li>VERB-Inf--NOUN-Acc-ADP(से) (20)</li>
             <li>VERB-Inf--NOUN-Nom (3)</li>
-            <li>VERB-Inf--PRON-Acc,Dat (26)</li>
+            <li>VERB-Inf--PRON-Acc,Dat (28)</li>
             <li>VERB-Inf--PRON-Acc,Gen (2)</li>
             <li>VERB-Inf--PRON-Acc,Ins (2)</li>
-            <li>VERB-Inf--PRON-Acc-ADP(को) (4)</li>
+            <li>VERB-Inf--PRON-Acc-ADP(को) (6)</li>
             <li>VERB-Part--NOUN-Acc (18)</li>
             <li>VERB-Part--NOUN-Acc,Dat (1)</li>
             <li>VERB-Part--NOUN-Acc-ADP(के)-ADP(पास) (1)</li>
             <li>VERB-Part--NOUN-Acc-ADP(के)-ADP(बीच) (1)</li>
             <li>VERB-Part--NOUN-Acc-ADP(के)-ADP(लिए) (1)</li>
             <li>VERB-Part--NOUN-Acc-ADP(के)-ADP(समक्ष) (1)</li>
-            <li>VERB-Part--NOUN-Acc-ADP(को) (588)</li>
+            <li>VERB-Part--NOUN-Acc-ADP(को) (621)</li>
             <li>VERB-Part--NOUN-Acc-ADP(से) (188)</li>
             <li>VERB-Part--NOUN-Nom-ADP(को) (1)</li>
             <li>VERB-Part--PRON-Acc (1)</li>
-            <li>VERB-Part--PRON-Acc,Dat (189)</li>
+            <li>VERB-Part--PRON-Acc,Dat (210)</li>
             <li>VERB-Part--PRON-Acc,Dat-ADP(को) (1)</li>
             <li>VERB-Part--PRON-Acc,Ins (17)</li>
-            <li>VERB-Part--PRON-Acc-ADP(को) (9)</li>
+            <li>VERB-Part--PRON-Acc-ADP(को) (10)</li>
             <li>VERB-Part--PRON-Nom (1)</li>
           </ul>
         </li>
@@ -2182,14 +2201,14 @@ udver: '2'
       
       <ul>
       <li>This corpus uses 3 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>nsubj:pass</a></li>
-      <li>The following 12 relation types are not used in this corpus at all: <a>csubj</a>, <a>expl</a>, <a>discourse</a>, <a>appos</a>, <a>clf</a>, <a>fixed</a>, <a>flat</a>, <a>list</a>, <a>parataxis</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
+      <li>The following 11 relation types are not used in this corpus at all: <a>csubj</a>, <a>expl</a>, <a>discourse</a>, <a>appos</a>, <a>clf</a>, <a>fixed</a>, <a>list</a>, <a>parataxis</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h3>Relations Overview</h3>
       
       <ul>
-      <li>This corpus uses 9 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>compound:lvc</a>, <a>compound:redup</a>, <a>flat:name</a>, <a>nmod:poss</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>obl:tmod</a></li>
+      <li>This corpus uses 10 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>compound:lvc</a>, <a>compound:redup</a>, <a>flat:name</a>, <a>nmod:poss</a>, <a>nmod:tmod</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>obl:tmod</a></li>
       <li>The following 8 relation types are not used in this corpus at all: <a>csubj</a>, <a>vocative</a>, <a>expl</a>, <a>dislocated</a>, <a>clf</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
       </ul>
     </td>

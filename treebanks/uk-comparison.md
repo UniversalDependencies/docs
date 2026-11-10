@@ -8,84 +8,116 @@ udver: '2'
 <table>
   <thead>
   <tr>
-    <th width="50%" valign="top">
+    <th width="33%" valign="top">
       <h1>UD_Ukrainian-IU</h1>
     </th>
-    <th width="50%" valign="top">
+    <th width="33%" valign="top">
       <h1>UD_Ukrainian-ParlaMint</h1>
+    </th>
+    <th width="33%" valign="top">
+      <h1>UD_Ukrainian-Zhelekhivka</h1>
     </th>
   </tr>
   </thead>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h2>Tokenization and Word Segmentation</h2>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <h2>Tokenization and Word Segmentation</h2>
+    </td>
+    <td width="33%" valign="top">
       <h2>Tokenization and Word Segmentation</h2>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
       <li>This corpus contains 7092 sentences, 122701 tokens and 122750 syntactic words.</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
-      <li>This corpus contains 7142 sentences and 109166 tokens.</li>
+      <li>This corpus contains 7142 sentences and 109165 tokens.</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <ul>
+      <li>This corpus contains 348 sentences, 9274 tokens and 9348 syntactic words.</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
       <li>This corpus contains 22891 tokens (19%) that are not followed by a space.</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
-      <li>This corpus contains 18512 tokens (17%) that are not followed by a space.</li>
+      <li>This corpus contains 18629 tokens (17%) that are not followed by a space.</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <ul>
+      <li>This corpus contains 1465 tokens (16%) that are not followed by a space.</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
       <li>This corpus contains 15 types of words with spaces. Examples: 1 010, 12 000, 127 806, 19 700, 2 750, 241 233, 26 000, 29 037 892, 3 079, 4 000, 442 509, 5 244 190, 7 222 035, 70 118, 8 440 042</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
       <li>This corpus contains 1 types of words with spaces. Examples: 900 000</li>
       </ul>
     </td>
+    <td width="33%" valign="top">
+      <ul>
+      <li>This corpus does not contain words with spaces.</li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
       <li>This corpus contains 660 types of words that contain both letters and punctuation. Examples: здоров’я, об’єднання, пам’яток, пов’язані, п’яти, сім’ї, з-під, зв’язку, прем'єр, п’ять, ім’я, будь-який, м’язів, об’єднаної, пам’ятки, пам’яті, будь-якого, зв'язку, здоров'я, пам'ятати, 1930-х, будь-яких, будь-якому, з’явився, пам'ять, пам’ятці, пов’язаних, п’ятдесят, 1920-х, 2015-го, 2017-го, будь-яку, де-не-де, дев’ять, з-за, зобов’язань, з’ясувати, кров’ю, об’єкта, руків'я, слов'янських, слов’янських, слов’янські, суб’єкта, ім'я, 100-ї, 11-ї, 1995-му, 2-х, 2014-го</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
       <li>This corpus contains 423 types of words that contain both letters and punctuation. Examples: зв'язку, житлово-комунального, житлово-комунальні, об'єднання, по-перше, все-таки, об'єктів, здоров'я, обов'язково, по-друге, будь-які, будь-яких, обов'язки, житлово-комунальних, осінньо-зимовий, СДПУ(о), пов'язані, млн., п'ять, пов'язаної, соціал-демократичної, В'ячеслав, Об'єднаних, По-третє, Прем'єр-міністр, дев'ятого, обов'язків, техніко-юридичними, тис., 6055-П, будь-якого, будь-якої, врешті-решт, житлово-комунальному, зобов'язання, об'єкти, розв'язання, сім'ї, українсько-російського, 21-го, 36-а, В'ячеслава, Прем'єр-міністра, військово-морських, експрес-відправленнях, з'ясування, зобов'язані, матеріально-технічної, об'єднати, об'єктах</li>
       </ul>
     </td>
+    <td width="33%" valign="top">
+      <ul>
+      <li>This corpus contains 53 types of words that contain both letters and punctuation. Examples: що-б, укр., XX., р., Ельзас-Льотаринґії, з-єднаних, ін., Ельзас-Льотаринґію, загально-европейської, народно-национальної, 10-лїтного, 12-го, 14-го, 15-го, 16-го, 1845-го, 1868-го, 1875-го, 1875-ім, 1886-го, 6-го, 70-их, I., ІІІ.-ої, Австро-Угорської, Австро-Угорщина, Д-ра, Ельзас-Льотаринґцї, Луі-Бонапарт, Наполєона-авантуристу, Сен-Клю, в., вже-ж, вп., гл., д-р, де-кілько, дївчата-селянки, зах.-европейської, західно-европейська, ляцько-австрійських, н.пр., напр., проф., південно-західних, південно-східної, социяльно-економічний, тяжко-трудне, узурпатора-шахрая, українсько-руським</li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
       <li>This corpus contains 49 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
       <li>There are 24 types of multi-word tokens. Examples: нікому, ніколи, ніде, нікуди, нічим, півгодини, півроку, ніким, ніяк, півдороги, нізвідки, нікого, нічого, пів'ярда, півгарнізона, півгодинки, півметра, півсела, півукраїни, півхати, півхвилини, пів’ягняти, пів’язика, пів’ящика.</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <ul>
+      <li>This corpus contains 74 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+      <li>There are 59 types of multi-word tokens. Examples: але-ж, бож, жеж, малаб, ся-б, тай, що-ж, Зноваж, Коли-ж, Таж, Те-ж, Тіж, Яка-ж, вдовольнила-б, вже-ж, висловили-б, виступила-б, вона-б, все-ж, двадцятипяти, значилоби, коли-б, легко-б, могла-б, моглаб, могли-б, мусїла-б, мігби, неслід, неї-б, обовязували-б, от-що, повинні-б, потягли-б, почувавби, притягла-б, самими-собою, своєїж, се-б, сказатиб, склали-б, стала-б, стали-б, такаж, такийже, таку-ж, такі-ж, такійже, тимбільше, тоїж.</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h2>Morphology</h2>
       
       <h3>Tags</h3>
@@ -94,7 +126,17 @@ udver: '2'
       <li>This corpus uses 17 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>SYM</a>, <a>VERB</a>, <a>X</a></li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <h2>Morphology</h2>
+      
+      <h3>Tags</h3>
+      
+      <ul>
+      <li>This corpus uses 16 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>VERB</a>, <a>X</a></li>
+      <li>This corpus does not use the following tags: SYM</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <h2>Morphology</h2>
       
       <h3>Tags</h3>
@@ -106,91 +148,126 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
       <li>This corpus contains 108 word types tagged as particles (PART): Авжеж, Ачей, Аякже, Ба, Гаразд, Дю, Казна, Коли, Ле, На, Он, Тобто, Тож, Чиж, Якби, а, аж, ані, б, би, бо, бодай, вже, власне, все, все-таки, всього, всього-навсього, геть, да, де, десь, ж, же, за, завгодно, й, куди, лиш, лише, лишень, мало, мов, мовби, навіть, най, наче, начебто, не, невже, немов, немовби, неначе, нехай, но, ну, ні, ніби, нібито, о, ось, осьо, от, отже, ото, отож, оце, пак, попросту, просто, прямо, саме, само, собі, справді, та, так, таки, там, типу, то, тощо, тіке, тільки, тілько, уже, усе, усе-таки, усього, фон, хай, хан, хоч, хоча, хіба, це, чи, чисто, шо, ще, що, щоб, щойно, щось, як, якраз, і, іще</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
       <li>This corpus contains 55 word types tagged as particles (PART): Но, Нічого, Отож, Правда, а, аж, б, би, бодай, буцімто, власне, вряд, все, все-таки, всього, да, ж, же, завгодно, й, лише, мовляв, може, навіть, начебто, не, невже, нехай, ну, ні, ніби, нібито, ось, от, отже, просто, саме, собі, так, таки, там, то, тощо, тільки, хай, хоч, хоча, хіба, це, чи, ще, що, щось, якраз, і</li>
       </ul>
     </td>
+    <td width="33%" valign="top">
+      <ul>
+      <li>This corpus contains 44 word types tagged as particles (PART): Але, Ні, Отже, Отсе, аж, б, вже, вже-ж, властиво, все, геть, ж, же, й, ледві, лишень, мовляв, може, навіть, наприклад, не, небудь, немов, нехай, нї, нїби, одначе, от, правда, просто, саме, собі, так, таки, то, тільки, тілько, хай, хиба, хоч, хочби, чи, що, і</li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
       <li>This corpus contains 37 lemmas tagged as pronouns (PRON): абихто, будь-хто, весь, ви, вона, вони, воно, все, всьо, всяке, він, дехто, дещо, ми, ніхто, ніщо, ото, оце, се, себе, ся, т., таке, те, ти, то, усе, хто, хто-небудь, хтось, це, шо, що, щось, я, інше, її</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
       <li>This corpus contains 38 lemmas tagged as pronouns (PRON): будь-хто, весь, ви, вона, вони, воно, все, всі, він, дехто, кожний, ми, ніхто, ніщо, один, одне, оце, оцей, сам, себе, таке, такий, те, ти, той, усі, хто, хтось, це, цей, що, щось, я, як, який, інше, інший, їх</li>
       </ul>
     </td>
+    <td width="33%" valign="top">
+      <ul>
+      <li>This corpus contains 36 lemmas tagged as pronouns (PRON): весь, вона, вони, воно, все, він, дехто, другий, и., кожний, котрий, ми, ніхто, ніщо, один, оце, сам, свій, се, себе, ся, такий, те, то, той, усе, хто, це, що, щось, я, який, які, інше, інший, її</li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
       <li>This corpus contains 63 lemmas tagged as determiners (DET): багато, будь-який, ваш, ввесь, весь, всенький, всякий, всілякий, декотрий, декілька, деякий, другий, жадний, жодний, ин., його, кожне, кожний, кожній, котрий, котрийсь, кілька, кількасот, мій, наш, небагато, ніякий, один, одне, отакий, отой, оцей, сам, самий, свій, сей, скілька, скільки, стільки, сякий, т., такий, тамтой, твій, то, той, увесь, усякий, усілякий, цей, чий, чийсь, який, який-небудь, якийсь, і., ін., інакший, інш., інший, їх, їхній, її</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
       <li>This corpus contains 50 lemmas tagged as determiners (DET): багато, будь-чий, будь-який, ваш, весь, все, всякий, всі, всілякий, декілька, деякий, другий, жодний, його, кожний, котрий, кілька, мій, наш, ніякий, один, отакий, отой, оцей, сам, самий, само, свій, сей, скільки, стільки, такий, те, той, тот, увесь, усякий, це, цей, чийсь, який, який-небудь, якийсь, якість, інакший, інше, інший, їх, їхній, її</li>
       </ul>
     </td>
+    <td width="33%" valign="top">
+      <ul>
+      <li>This corpus contains 37 lemmas tagged as determiners (DET): весь, все, всякий, декілька, жадний, жодний, його, кожний, кілька, наш, один, отой, оцей, сам, самий, свій, сей, ся, т., така, такий, таку, той, тої, увесь, усякий, це, цей, чий, яка, який, який-будь, якийсь, ін., інший, їх, її</li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
       <li>Out of the above, 4 lemmas occurred sometimes as PRON and sometimes as DET: весь, т., то, її</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
       <li>Out of the above, 16 lemmas occurred sometimes as PRON and sometimes as DET: весь, все, всі, кожний, один, оцей, сам, такий, те, той, це, цей, який, інше, інший, їх</li>
       </ul>
     </td>
+    <td width="33%" valign="top">
+      <ul>
+      <li>Out of the above, 13 lemmas occurred sometimes as PRON and sometimes as DET: весь, все, кожний, один, сам, свій, ся, такий, той, це, який, інший, її</li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
       <li>This corpus contains 4 lemmas tagged as auxiliaries (AUX): б, би, бувати, бути</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
       <li>This corpus contains 4 lemmas tagged as auxiliaries (AUX): б, би, бувати, бути</li>
       </ul>
     </td>
+    <td width="33%" valign="top">
+      <ul>
+      <li>This corpus contains 4 lemmas tagged as auxiliaries (AUX): б, би, бути, мати</li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
       <li>Out of the above, 2 lemmas occurred sometimes as AUX and sometimes as VERB: бувати, бути</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
       <li>Out of the above, 2 lemmas occurred sometimes as AUX and sometimes as VERB: бувати, бути</li>
       </ul>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
-      <li>There are 4 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <ul>
-      <li>There are 4 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+      <li>Out of the above, 2 lemmas occurred sometimes as AUX and sometimes as VERB: бути, мати</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+      <li>There are 4 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <ul>
+      <li>There are 4 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <ul>
+      <li>There are 4 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
       <ul>
         <li>Conv
         <ul>
@@ -200,7 +277,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Conv
         <ul>
@@ -209,9 +286,18 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="33%" valign="top">
+      <ul>
+        <li>Conv
+        <ul>
+          <li>VERB: працюючи, Беручи, Живучи, вважаючи, стоячи, Взявши, Виписуючи, Переказуючи, Розбираючи, Спираючися</li>
+        </ul>
+        </li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Fin
         <ul>
@@ -221,7 +307,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Fin
         <ul>
@@ -231,9 +317,19 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="33%" valign="top">
+      <ul>
+        <li>Fin
+        <ul>
+          <li>AUX: буде, ме, будуть, муть, є, була, єсть, був, були, було</li>
+          <li>VERB: може, має, живе, буде, віщує, каже, здаєть, міг, являється, є</li>
+        </ul>
+        </li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Inf
         <ul>
@@ -243,7 +339,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Inf
         <ul>
@@ -253,9 +349,19 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="33%" valign="top">
+      <ul>
+        <li>Inf
+        <ul>
+          <li>AUX: бути</li>
+          <li>VERB: мати, сказати, гадати, дати, сподївати, стати, говорити, йти, признати, істнувати</li>
+        </ul>
+        </li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Part
         <ul>
@@ -264,7 +370,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Part
         <ul>
@@ -273,29 +379,46 @@ udver: '2'
         </li>
       </ul>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Nominal Features</h3>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Nominal Features</h3>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
-        <li><a>Gender</a></li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <ul>
-        <li><a>Gender</a></li>
+        <li>Part
+        <ul>
+          <li>ADJ: з-єднаних, заінтересовані, зневолених, зрабованих, наведених, Здійснений, Наведені, виведене, визволені, висловлених</li>
+        </ul>
+        </li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <h3>Nominal Features</h3>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Nominal Features</h3>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Nominal Features</h3>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <ul>
+        <li><a>Gender</a></li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <ul>
+        <li><a>Gender</a></li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <ul>
+        <li><a>Gender</a></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
       <ul>
         <li>Fem
           <ul>
@@ -313,7 +436,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Fem
           <ul>
@@ -330,12 +453,29 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="33%" valign="top">
+      <ul>
+        <li>Fem
+          <ul>
+            <li>ADJ: української, певна, велику, народної, повинна, великою, можлива, першої, сучасна, укр.</li>
+            <li>ADJ-Part: висловленою, висловленої, заборонена, займаючою, заокруглена, зневолена, знївечена, зрабована, зубожена, коронована</li>
+            <li>AUX-Fin: була</li>
+            <li>DET: своєї, нашу, нашої, така, таку, тої, яка, його, та, ту</li>
+            <li>NOUN: війни, річ, сотню, людности, молодіжи, війна, молодіж, праці, волї, причини</li>
+            <li>NUM: одна, одною, двома, одну</li>
+            <li>PRON: вона, її, яка, неї, їй, нею, якою, яку, котра, самій</li>
+            <li>PROPN: Росиї, Европи, Росия, Европі, Франциї, Австрия, Нїмеччина, Нїмеччинї, Росиєю, Австриї</li>
+            <li>VERB-Fin: була, мала, лила, могла, перемінила, стала, вабила, вдовольнила, виповняла, виступила</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Fem,Masc
           <ul>
@@ -344,9 +484,12 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="33%" valign="top">
+
+    </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Masc
           <ul>
@@ -364,7 +507,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Masc
           <ul>
@@ -381,9 +524,26 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="33%" valign="top">
+      <ul>
+        <li>Masc
+          <ul>
+            <li>ADJ: великого, XX, XX., великий, 1992, Драгоманового, високий, економічний, молодого, росийський</li>
+            <li>ADJ-Part: Здійснений, висловленого, відзначений, знаний, зробленого, наведеним, обраному, оголошеним, ознаємлений, перенятого</li>
+            <li>AUX-Fin: був</li>
+            <li>DET: нашого, того, свойого, такий, таким, його, наш, тим, усякому, кожного</li>
+            <li>NOUN: народів, р, характеру, народи, народу, %, часу, вік, віку, чином</li>
+            <li>NUM: одним, два, одного</li>
+            <li>PRON: він, який, єго, його, хто, йому, якому, другого, другому, кожний</li>
+            <li>PROPN: Драгоманова, Рише, Драгоманів, Ельзас, Калужняцький, Ельзаса, Кавказї, Мих, Драгомановим, Наполеон</li>
+            <li>VERB-Fin: міг, мав, став, розумів, виправдував, дав, займав, найшов, писав, Родив</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Neut
           <ul>
@@ -401,7 +561,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Neut
           <ul>
@@ -419,21 +579,43 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="33%" valign="top">
+      <ul>
+        <li>Neut
+          <ul>
+            <li>ADJ: суспільного, сучасне, ціле, важне, громадського, економічне, 6-го, XIX, Оттакому, балканське</li>
+            <li>ADJ-Part: виведене, застрашаючого, знївеченим, пристосоване</li>
+            <li>AUX-Fin: було</li>
+            <li>DET: все, се, таке, те, тим, це, її, всего, отсе, свого</li>
+            <li>NOUN: життя, питаннє, питання, віщовання, життє, право, бажання, почуттє, добро, діла</li>
+            <li>NUM: одно</li>
+            <li>PRON: те, це, се, що, того, все, тим, єго, воно, яке</li>
+            <li>PROPN: Поморю</li>
+            <li>VERB-Fin: було, билось, дійшлося, жило, значило, знївечило, зраджувало, минуло, могло, поклало</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li><a>Animacy</a></li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li><a>Animacy</a></li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li><a>Animacy</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Anim
           <ul>
@@ -449,7 +631,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Anim
           <ul>
@@ -464,12 +646,25 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="33%" valign="top">
+      <ul>
+        <li>Anim
+          <ul>
+            <li>ADJ: І, Австрийських, громадських, фінляндських, характерних, чистих</li>
+            <li>DET: тих, якого, ін.</li>
+            <li>NOUN: люди, проф, громадянина, людина, третчиків, Ельзасцїв, Українця, людий, невольниками, невільників</li>
+            <li>PRON: нам, ми, нас, хто, нами, дехто, єго, Я, всїх, инші</li>
+            <li>PROPN: Драгоманова, Рише, Драгоманів, Калужняцький, Мих, Драгомановим, Наполеон, Омелян, Франко, Анни</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Anim,Inan
           <ul>
@@ -478,9 +673,12 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="33%" valign="top">
+
+    </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Inan
           <ul>
@@ -496,7 +694,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Inan
           <ul>
@@ -511,21 +709,40 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="33%" valign="top">
+      <ul>
+        <li>Inan
+          <ul>
+            <li>ADJ: високий, власні, державні, економічний, моральний, национальні, нові, останнї, страшенні, сучасні</li>
+            <li>ADJ-Part: осьвічені</li>
+            <li>DET: такі, всі, єго, свої, ті, все, свій, всякий, всї, той</li>
+            <li>NOUN: життя, народів, війни, річ, лїт, р, сотню, характеру, людности, молодіжи</li>
+            <li>PRON: те, це, се, що, єго, того, все, тим, цього, чим</li>
+            <li>PROPN: Росиї, Европи, Росия, Европі, Франциї, Австрия, Нїмеччина, Нїмеччинї, Росиєю, Австриї</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li><a>Number</a></li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li><a>Number</a></li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li><a>Number</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Plur
           <ul>
@@ -543,7 +760,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Plur
           <ul>
@@ -560,9 +777,24 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="33%" valign="top">
+      <ul>
+        <li>Plur
+          <ul>
+            <li>ADJ: державні, национальні, релїгійні, балканських, вільних, з-єднаних, повинні, чистих, вдячні, власних</li>
+            <li>ADJ-Part: з-єднаних, заінтересовані, зневолених, зрабованих, наведених, Наведені, визволені, висловлених, висловлені, витворені</li>
+            <li>AUX-Fin: будуть, муть, були, є, будемо</li>
+            <li>DET: ті, своїх, такі, його, всі, всіх, таких, тих, інчі, їх</li>
+            <li>NOUN: народів, народи, причини, війни, держав, ідеї, люди, мілїонів, обставини, років</li>
+            <li>PRON: нам, ми, вони, нас, які, них, їх, їм, нами, такими</li>
+            <li>VERB-Fin: бачимо, мають, дають, знаємо, лишать, можемо, перемінять, стоять, є, Згадаймо</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Ptan
           <ul>
@@ -572,7 +804,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Ptan
           <ul>
@@ -584,9 +816,19 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="33%" valign="top">
+      <ul>
+        <li>Ptan
+          <ul>
+            <li>NOUN: лїт, дверми, відносин, відносинах, відносини, грудях, літ, літа, обійми, спомини</li>
+            <li>PROPN: Пруси, Балканах, Прус, Прусами, Чернівцях, Чернівці, Чех</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Sing
           <ul>
@@ -603,7 +845,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Sing
           <ul>
@@ -621,21 +863,43 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="33%" valign="top">
+      <ul>
+        <li>Sing
+          <ul>
+            <li>ADJ: великого, української, XX, певна, велику, народної, повинна, суспільного, укр., XX.</li>
+            <li>ADJ-Part: Здійснений, виведене, висловленого, висловленою, висловленої, відзначений, заборонена, займаючою, заокруглена, застрашаючого</li>
+            <li>AUX-Fin: буде, ме, була, є, єсть, був, було, будь</li>
+            <li>DET: нашого, того, своєї, нашу, його, її, тим, все, нашої, свойого</li>
+            <li>NOUN: життя, річ, р, сотню, характеру, людности, молодіжи, народу, питаннє, війна</li>
+            <li>NUM: одна, одно, одною, одним, одну, одного</li>
+            <li>PRON: він, те, вона, це, се, єго, що, того, все, який</li>
+            <li>PROPN: Росиї, Драгоманова, Рише, Драгоманів, Европи, Росия, Европі, Франциї, Австрия, Нїмеччина</li>
+            <li>VERB-Fin: може, має, живе, буде, віщує, каже, являється, здаєть, міг, стане</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li><a>Case</a></li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li><a>Case</a></li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li><a>Case</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Acc
           <ul>
@@ -651,7 +915,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Acc
           <ul>
@@ -667,9 +931,25 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="33%" valign="top">
+      <ul>
+        <li>Acc
+          <ul>
+            <li>ADJ: велику, високий, национальні, XX., власну, власні, державні, економічний, моральний, нові</li>
+            <li>ADJ-Part: осьвічені, перенятого</li>
+            <li>ADP: на, за, про, в, через, під, о, попри, у</li>
+            <li>DET: нашу, таку, такі, всі, ту, все, свої, се, ті, свою</li>
+            <li>NOUN: сотню, війну, війни, питання, життя, право, вагу, думку, науку, питаннє</li>
+            <li>NUM: 20, одну, 1,5, 10—15, 167, 20—25, 50, 50—60, три, шість</li>
+            <li>PRON: те, єго, все, нас, їх, її, його, що, це, се</li>
+            <li>PROPN: Росию, Ельзас, Льотаринґію, Францию, Европу, Ельзас-Льотаринґію, Азию, Буковину, Галичину, Драгоманова</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Dat
           <ul>
@@ -685,7 +965,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Dat
           <ul>
@@ -701,12 +981,27 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="33%" valign="top">
+      <ul>
+        <li>Dat
+          <ul>
+            <li>ADJ: Новому, Оттакому, Старшим, австрійським, балканським, власним, дивній, межинародному, найменчому, народній</li>
+            <li>ADP: відповідно, завдяки, по</li>
+            <li>DET: всему, всій, всім, нашому, нашій, самому, сему, таким, такій, тим</li>
+            <li>NOUN: волї, людям, народам, народові, побільшанню, членам, Мексиканцям, Полякам, Русинам, Чехам</li>
+            <li>NUM: двом</li>
+            <li>PRON: нам, собі, їм, йому, їй, єму, другому, кожному, нїкому, одному</li>
+            <li>PROPN: Голштинови, Драгоманову, Ельзасу, Льотаринґії, Наполєону, Поморю, Росиї</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Dat,Gen
           <ul>
@@ -715,9 +1010,12 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="33%" valign="top">
+
+    </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Gen
           <ul>
@@ -734,7 +1032,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Gen
           <ul>
@@ -750,9 +1048,25 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="33%" valign="top">
+      <ul>
+        <li>Gen
+          <ul>
+            <li>ADJ: великого, української, народної, суспільного, першої, укр., 1992, Драгоманового, академічної, балканських</li>
+            <li>ADJ-Part: з-єднаних, зневолених, зрабованих, висловлених, висловленого, висловленої, даних, застрашаючого, зробленого, наведених</li>
+            <li>ADP: до, з, для, у, від, проти, без, за, опріч, замісць</li>
+            <li>DET: нашого, того, своєї, своїх, нашої, свойого, тої, його, таких, всеї</li>
+            <li>NOUN: народів, лїт, р, характеру, людности, народу, молодіжи, війни, життя, праці</li>
+            <li>NUM: 1,4, 110, 2½, 340, 375, 49, 50, 778, двадцяти, одного</li>
+            <li>PRON: того, нас, них, цього, неї, себе, другого, єго, чого, Я</li>
+            <li>PROPN: Драгоманова, Европи, Росиї, Рише, Франциї, Ельзас-Льотаринґії, Ельзаса, Льотаринґії, Нїмеччини, Австриї</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Ins
           <ul>
@@ -768,7 +1082,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Ins
           <ul>
@@ -784,9 +1098,25 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="33%" valign="top">
+      <ul>
+        <li>Ins
+          <ul>
+            <li>ADJ: великою, вільним, головним, можливою, народною, незалежною, необхідною, нестримною, неустрашимою, чистою</li>
+            <li>ADJ-Part: висловленою, займаючою, знївеченим, наведеним, незбагнутою, оголошеним, оголошеними, осьвіченими, розєднаними, сіяючою</li>
+            <li>ADP: з, за, між, під, над, перед, поза, поміж, м</li>
+            <li>DET: тим, таким, своєю, своїм, своїми, тими, тою, жадним, кожним, кількома</li>
+            <li>NOUN: волею, чином, думкою, наукою, невольниками, силою, ділами, життям, народами, принципами</li>
+            <li>NUM: одною, двома, одним, кількома</li>
+            <li>PRON: тим, нами, чим, нею, ним, нїчим, такими, якими, якою, інчими</li>
+            <li>PROPN: Росиєю, Франциєю, Австриєю, Драгомановим, Нїмеччиною, Італїєю, Волгою, Дунаєм, Льомбардиєю, Окою</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Loc
           <ul>
@@ -802,7 +1132,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Loc
           <ul>
@@ -818,9 +1148,24 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="33%" valign="top">
+      <ul>
+        <li>Loc
+          <ul>
+            <li>ADJ: XX, більшій, західній, меншій, повній, 1875-ім, 1892, XX., Пиринейському, Самбірській</li>
+            <li>ADJ-Part: наведених, обраному, понятім</li>
+            <li>ADP: в, на, по, у, при</li>
+            <li>DET: своїй, усякому, його, свойому, цьому, якій, єго, всякій, всіх, тій</li>
+            <li>NOUN: думцї, разї, загалї, народї, берегах, в, основі, унїверситетї, ґімназиї, боротьбі</li>
+            <li>PRON: якому, собі, чому, другому, них, нїм, сему, цьому, яких</li>
+            <li>PROPN: Росиї, Европі, Нїмеччинї, Азиї, Англїї, Кавказї, Франциї, Австриї, Галичинї, Познанщинї</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Nom
           <ul>
@@ -836,7 +1181,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Nom
           <ul>
@@ -851,9 +1196,24 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="33%" valign="top">
+      <ul>
+        <li>Nom
+          <ul>
+            <li>ADJ: певна, повинна, можлива, сучасна, українська, XX, великий, геройська, остання, повинні</li>
+            <li>ADJ-Part: заінтересовані, Здійснений, Наведені, виведене, визволені, висловлені, витворені, відзначений, заборонена, заведені</li>
+            <li>DET: ті, його, така, яка, її, та, кожна, самі, таке, ця</li>
+            <li>NOUN: річ, війна, народи, молодіж, питаннє, причини, життя, люди, проф, сміливість</li>
+            <li>NUM: одна, одно, 0,98, 115, 129½, 161, 2,43, 39, 5,5, 52</li>
+            <li>PRON: він, вона, ми, вони, це, се, які, хто, що, яка</li>
+            <li>PROPN: Драгоманів, Рише, Росия, Австрия, Нїмеччина, Калужняцький, Франция, Европа, Пруси, Англїя</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Voc
           <ul>
@@ -867,7 +1227,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Voc
           <ul>
@@ -875,50 +1235,73 @@ udver: '2'
             <li>ADJ-Part: головуючий, запрошені, шановані</li>
             <li>DET: всі, мої, наші</li>
             <li>NOUN: колеги, депутати, пане, Голово, друзі, громадяни, українці, члени, головуючий, радіослухачі</li>
-            <li>PROPN: Михайловичу, Володимире, Олександре, Валентиновичу, Вікторе, Павловичу, Федоровичу, Миколо, Сергію, Івановичу</li>
+            <li>PROPN: Михайловичу, Володимире, Олександре, Валентиновичу, Вікторе, Павловичу, Федоровичу, Івановичу, Миколо, Сергію</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <ul>
+        <li>Voc
+          <ul>
+            <li>NOUN: чоловіче</li>
           </ul>
         </li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-    </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
+
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
       <h3>Degree and Polarity</h3>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <h3>Degree and Polarity</h3>
+    </td>
+    <td width="33%" valign="top">
       <h3>Degree and Polarity</h3>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li><a>Degree</a></li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li><a>Degree</a></li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li><a>Degree</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Abs
           <ul>
@@ -927,7 +1310,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Abs
           <ul>
@@ -936,9 +1319,12 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="33%" valign="top">
+
+    </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Cmp
           <ul>
@@ -948,7 +1334,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Cmp
           <ul>
@@ -958,9 +1344,19 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="33%" valign="top">
+      <ul>
+        <li>Cmp
+          <ul>
+            <li>ADJ: більшій, вигіднійше, меншій, ширшу, Старшим, більшою, більшої, більші, видатнїйші, виразніщих</li>
+            <li>ADV: далї, більше, більш, швидче, гірше, д, менш, блище, вище, глибше</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Pos
           <ul>
@@ -971,20 +1367,31 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Pos
           <ul>
             <li>ADJ: шановні, шановний, корисних, відповідні, відповідних, нові, останні, новий, нового, останніх</li>
             <li>ADJ-Part: впевнений, відкритим, впевнена, закритим, керованої, обгрунтовану, обмежений, обмежені, виважений, визначений</li>
-            <li>ADV: дуже, потрібно, необхідно, практично, добре, чітко, важливо, звичайно, багато, зрозуміло</li>
+            <li>ADV: дуже, потрібно, необхідно, практично, добре, чітко, важливо, звичайно, зрозуміло, терміново</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <ul>
+        <li>Pos
+          <ul>
+            <li>ADJ: великого, певна, велику, великий, великою, сучасна, великої, високий, вільних, молодого</li>
+            <li>ADJ-Part: знаний, осьвіченими</li>
+            <li>ADV: дуже, легко, добре, богато, сміло, імовірно, головно, мало, виразно, коротко</li>
           </ul>
         </li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Sup
           <ul>
@@ -994,7 +1401,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Sup
           <ul>
@@ -1005,21 +1412,36 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="33%" valign="top">
+      <ul>
+        <li>Sup
+          <ul>
+            <li>ADJ: найлїпших, Найбільший, найбільша, найгрубійший, найгуманнїйших, найкращий, найкращою, найлїпшому, найменчому, найпростїйша</li>
+            <li>ADV: найбільш, найбільше, найкраще, найменш</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li><a>Polarity</a></li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li><a>Polarity</a></li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li><a>Polarity</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Neg
           <ul>
@@ -1031,7 +1453,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Neg
           <ul>
@@ -1044,21 +1466,38 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="33%" valign="top">
+      <ul>
+        <li>Neg
+          <ul>
+            <li>ADV: нема</li>
+            <li>CCONJ: нї, ні</li>
+            <li>INTJ: Ні</li>
+            <li>PART: не, нї, Ні</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li><a>Variant</a></li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li><a>Variant</a></li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li><a>Variant</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Short
           <ul>
@@ -1068,7 +1507,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Short
           <ul>
@@ -1081,9 +1520,22 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="33%" valign="top">
+      <ul>
+        <li>Short
+          <ul>
+            <li>ADJ: спроможен</li>
+            <li>ADV: більш, менш, перш, найбільш, щобільш, найменш, чом</li>
+            <li>DET: кожен</li>
+            <li>PRON: кожен</li>
+            <li>VERB-Inf: вчить, дочекатись</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Uncontr
           <ul>
@@ -1093,32 +1545,49 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Verbal Features</h3>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Verbal Features</h3>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
-        <li><a>Aspect</a></li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <ul>
-        <li><a>Aspect</a></li>
+        <li>Uncontr
+          <ul>
+            <li>VERB-Conv: Спираючися</li>
+          </ul>
+        </li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <h3>Verbal Features</h3>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Verbal Features</h3>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Verbal Features</h3>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <ul>
+        <li><a>Aspect</a></li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <ul>
+        <li><a>Aspect</a></li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <ul>
+        <li><a>Aspect</a></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
       <ul>
         <li>Imp
           <ul>
@@ -1134,7 +1603,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Imp
           <ul>
@@ -1149,9 +1618,23 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="33%" valign="top">
+      <ul>
+        <li>Imp
+          <ul>
+            <li>ADJ-Part: займаючою, застрашаючого, звані, знаний, невгаваючої, немислима, поступаючої, сіяючою</li>
+            <li>AUX-Fin: буде, ме, будуть, муть, є, була, єсть, був, були, було</li>
+            <li>AUX-Inf: бути</li>
+            <li>VERB-Conv: працюючи, Беручи, Живучи, вважаючи, стоячи, Виписуючи, Переказуючи, Розбираючи, Спираючися, Уважаючи</li>
+            <li>VERB-Fin: може, має, живе, буде, віщує, каже, здаєть, міг, являється, є</li>
+            <li>VERB-Inf: мати, гадати, сподївати, говорити, йти, істнувати, здіймати, стреміти, бачити, бити</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Perf
           <ul>
@@ -1163,7 +1646,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Perf
           <ul>
@@ -1175,21 +1658,38 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="33%" valign="top">
+      <ul>
+        <li>Perf
+          <ul>
+            <li>ADJ-Part: з-єднаних, заінтересовані, зневолених, зрабованих, наведених, Здійснений, Наведені, виведене, визволені, висловлених</li>
+            <li>VERB-Conv: Взявши, звернувши, здавши, намножившись, орґанїзувавши, ошахрувавши, проминувши, ставши</li>
+            <li>VERB-Fin: стане, став, перемінять, станеть, Згадаймо, висловили, відцурають, дав, дасть, заховали</li>
+            <li>VERB-Inf: сказати, дати, стати, признати, визволити, завести, засіяти, знївечити, придбати, спостерегти</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li><a>Mood</a></li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li><a>Mood</a></li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li><a>Mood</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Cnd
           <ul>
@@ -1198,7 +1698,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Cnd
           <ul>
@@ -1207,9 +1707,12 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="33%" valign="top">
+
+    </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Imp
           <ul>
@@ -1219,7 +1722,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Imp
           <ul>
@@ -1229,9 +1732,19 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="33%" valign="top">
+      <ul>
+        <li>Imp
+          <ul>
+            <li>AUX-Fin: будь</li>
+            <li>VERB-Fin: Згадаймо, нагадаймо, Живи, Пригляньмося, втішайся, поміркуймо</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -1241,7 +1754,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -1252,21 +1765,36 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="33%" valign="top">
+      <ul>
+        <li>Ind
+          <ul>
+            <li>AUX-Fin: буде, ме, будуть, муть, є, була, єсть, був, були, було</li>
+            <li>VERB-Fin: може, має, живе, буде, віщує, каже, здаєть, міг, являється, є</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li><a>Tense</a></li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li><a>Tense</a></li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li><a>Tense</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Fut
           <ul>
@@ -1276,7 +1804,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Fut
           <ul>
@@ -1286,9 +1814,19 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="33%" valign="top">
+      <ul>
+        <li>Fut
+          <ul>
+            <li>AUX-Fin: буде, ме, будуть, муть, будемо</li>
+            <li>VERB-Fin: буде, стане, лишать, перемінять, станеть, відцурають, дасть, збережуть, згодить, знївечать</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Past
           <ul>
@@ -1300,7 +1838,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Past
           <ul>
@@ -1312,9 +1850,20 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="33%" valign="top">
+      <ul>
+        <li>Past
+          <ul>
+            <li>AUX-Fin: була, був, були, було</li>
+            <li>VERB-Conv: Взявши, звернувши, здавши, намножившись, орґанїзувавши, ошахрувавши, проминувши, ставши</li>
+            <li>VERB-Fin: міг, мав, став, була, мала, розумів, бачили, були, було, виправдував</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Pres
           <ul>
@@ -1327,7 +1876,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Pres
           <ul>
@@ -1340,21 +1889,37 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="33%" valign="top">
+      <ul>
+        <li>Pres
+          <ul>
+            <li>AUX-Fin: є, єсть</li>
+            <li>VERB-Conv: працюючи, Беручи, Живучи, вважаючи, стоячи, Виписуючи, Переказуючи, Розбираючи, Спираючися, Уважаючи</li>
+            <li>VERB-Fin: може, має, живе, віщує, каже, здаєть, являється, є, бачимо, йде</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li><a>Voice</a></li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li><a>Voice</a></li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li><a>Voice</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Act
           <ul>
@@ -1363,7 +1928,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Act
           <ul>
@@ -1372,9 +1937,18 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="33%" valign="top">
+      <ul>
+        <li>Act
+          <ul>
+            <li>ADJ-Part: займаючою, застрашаючого, невгаваючої, поступаючої, сіяючою</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Pass
           <ul>
@@ -1383,7 +1957,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Pass
           <ul>
@@ -1392,37 +1966,57 @@ udver: '2'
         </li>
       </ul>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-    </td>
-    <td width="50%" valign="top">
-
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Pronouns, Determiners, Quantifiers</h3>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Pronouns, Determiners, Quantifiers</h3>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
-        <li><a>PronType</a></li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <ul>
-        <li><a>PronType</a></li>
+        <li>Pass
+          <ul>
+            <li>ADJ-Part: з-єднаних, заінтересовані, зневолених, зрабованих, наведених, Здійснений, Наведені, виведене, визволені, висловлених</li>
+          </ul>
+        </li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
+
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>Pronouns, Determiners, Quantifiers</h3>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Pronouns, Determiners, Quantifiers</h3>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Pronouns, Determiners, Quantifiers</h3>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <ul>
+        <li><a>PronType</a></li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <ul>
+        <li><a>PronType</a></li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <ul>
+        <li><a>PronType</a></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
       <ul>
         <li>Dem
           <ul>
@@ -1433,7 +2027,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Dem
           <ul>
@@ -1444,12 +2038,23 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="33%" valign="top">
+      <ul>
+        <li>Dem
+          <ul>
+            <li>ADV: так, тут, тепер, тоді, тодї, там, доти, стілько, т, досї</li>
+            <li>DET: ті, того, такі, тим, така, таким, таку, тої, та, такий</li>
+            <li>PRON: те, це, се, того, тим, цього, то, отсе, такими, сего</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Emp
           <ul>
@@ -1459,9 +2064,18 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="33%" valign="top">
+      <ul>
+        <li>Emp
+          <ul>
+            <li>DET: самої, самі, самого, сама, саме, самий, самими, самих, самій</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -1472,7 +2086,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -1483,9 +2097,20 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="33%" valign="top">
+      <ul>
+        <li>Ind
+          <ul>
+            <li>ADV: деінде, подекуди, інак, інакше, інодї</li>
+            <li>DET: інчі, інчих, якась, де-кілько, одного, якихсь, ін., кілька, кілько, кількома</li>
+            <li>PRON: другого, дехто, другому, інчими, Ті, другим, других, и, инші, одному</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Int
           <ul>
@@ -1496,7 +2121,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Int
           <ul>
@@ -1507,9 +2132,20 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="33%" valign="top">
+      <ul>
+        <li>Int
+          <ul>
+            <li>ADV: коли, як, чом</li>
+            <li>DET: Яка, Які, чия</li>
+            <li>PRON: що, хто, Чим, чому, які</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Neg
           <ul>
@@ -1520,7 +2156,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Neg
           <ul>
@@ -1531,9 +2167,20 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="33%" valign="top">
+      <ul>
+        <li>Neg
+          <ul>
+            <li>ADV: нїгде, нїколи</li>
+            <li>DET: жадної, жадним, жадного</li>
+            <li>PRON: нїчим, ніхто, нічого, нїкому, нїхто, нїчого</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Prs
           <ul>
@@ -1546,7 +2193,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Prs
           <ul>
@@ -1556,12 +2203,22 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="33%" valign="top">
+      <ul>
+        <li>Prs
+          <ul>
+            <li>DET: його, нашого, своєї, своїх, її, нашу, єго, їх, нашої, свойого</li>
+            <li>PRON: ся, він, нам, вона, ми, вони, нас, собі, єго, них</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Rcp
           <ul>
@@ -1571,9 +2228,12 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="33%" valign="top">
+
+    </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Rel
           <ul>
@@ -1584,7 +2244,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Rel
           <ul>
@@ -1596,9 +2256,21 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="33%" valign="top">
+      <ul>
+        <li>Rel
+          <ul>
+            <li>ADV: де, доки, Коли, як</li>
+            <li>DET: яка, яких, якій, який, якого, яку, які, якої</li>
+            <li>PRON: які, який, що, яка, яке, якому, хто, котрий, чим, якими</li>
+            <li>SCONJ: коли, доки, як</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Tot
           <ul>
@@ -1609,7 +2281,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Tot
           <ul>
@@ -1620,21 +2292,37 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="33%" valign="top">
+      <ul>
+        <li>Tot
+          <ul>
+            <li>ADV: скрізь, всюди</li>
+            <li>DET: все, всі, всіх, всеї, кожна, усякому, усїх, кожного, весь, всего</li>
+            <li>PRON: все, кожний, Усе, всїх, кожен, кожному</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li><a>NumType</a></li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li><a>NumType</a></li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li><a>NumType</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Card
           <ul>
@@ -1645,7 +2333,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Card
           <ul>
@@ -1656,9 +2344,20 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="33%" valign="top">
+      <ul>
+        <li>Card
+          <ul>
+            <li>DET: кілька, кілько, кількома, кількох</li>
+            <li>NOUN: мілїонів, міліонів, мілїонам, мілїони, мілїярда</li>
+            <li>NUM: одна, одно, 20, 50, двома, одним, одною, одну, 0,98, 1,4</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Ord
           <ul>
@@ -1667,7 +2366,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Ord
           <ul>
@@ -1677,21 +2376,35 @@ udver: '2'
         </li>
       </ul>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
-        <li><a>Poss</a></li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <ul>
-        <li><a>Poss</a></li>
+        <li>Ord
+          <ul>
+            <li>ADJ: XX, першої, 1992, 1792, 1870, 1871, 1889, XIX, І, 12-го</li>
+          </ul>
+        </li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li><a>Poss</a></li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <ul>
+        <li><a>Poss</a></li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <ul>
+        <li><a>Poss</a></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
       <ul>
         <li>Yes
           <ul>
@@ -1701,7 +2414,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Yes
           <ul>
@@ -1710,21 +2423,35 @@ udver: '2'
         </li>
       </ul>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
-        <li><a>Reflex</a></li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <ul>
-        <li><a>Reflex</a></li>
+        <li>Yes
+          <ul>
+            <li>DET: його, нашого, своєї, своїх, її, нашу, єго, нашої, свойого, їх</li>
+          </ul>
+        </li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li><a>Reflex</a></li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <ul>
+        <li><a>Reflex</a></li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <ul>
+        <li><a>Reflex</a></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
       <ul>
         <li>Yes
           <ul>
@@ -1734,7 +2461,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Yes
           <ul>
@@ -1747,21 +2474,39 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="33%" valign="top">
+      <ul>
+        <li>Yes
+          <ul>
+            <li>DET: своїх, своєї, свойого, своєю, свої, своїй, своїм, сам, свого, свойому</li>
+            <li>PRON: ся, собі, себе, самій, своє, собою</li>
+            <li>VERB-Conv: Спираючися, відхрещуючись, займаючись, лякаючись, мішаючись, намножившись</li>
+            <li>VERB-Fin: являється, здаєть, Пригляньмося, билось, вагається, вивчився, вкрилася, втішайся, відріклась, гуртувалась</li>
+            <li>VERB-Inf: Запевнити, боятись, боятися, визначатися, дочекатись, згодити, кинутися, корити, оглянутися, опиратися</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li><a>Person</a></li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li><a>Person</a></li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li><a>Person</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>0
           <ul>
@@ -1770,7 +2515,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>0
           <ul>
@@ -1779,9 +2524,18 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="33%" valign="top">
+      <ul>
+        <li>0
+          <ul>
+            <li>VERB-Fin: зібрано, призначено</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>1
           <ul>
@@ -1794,7 +2548,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>1
           <ul>
@@ -1806,9 +2560,21 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="33%" valign="top">
+      <ul>
+        <li>1
+          <ul>
+            <li>AUX-Fin: будемо</li>
+            <li>DET: нашого, нашу, нашої, наш, наші, наша, наших, нашій, нашому, нашім</li>
+            <li>PRON: нам, ми, нас, нами, Я, мене</li>
+            <li>VERB-Fin: бачимо, знаємо, можемо, Згадаймо, мусимо, нагадаймо, хочемо, Вернїмо, Гадаємо, Нагадаємо</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>2
           <ul>
@@ -1821,7 +2587,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>2
           <ul>
@@ -1833,9 +2599,19 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="33%" valign="top">
+      <ul>
+        <li>2
+          <ul>
+            <li>AUX-Fin: будь</li>
+            <li>VERB-Fin: Живи, втішайся</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>3
           <ul>
@@ -1847,7 +2623,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>3
           <ul>
@@ -1859,22 +2635,37 @@ udver: '2'
         </li>
       </ul>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-    </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
-        <li><a>Polite</a></li>
+        <li>3
+          <ul>
+            <li>AUX-Fin: буде, ме, будуть, муть, є, єсть</li>
+            <li>DET: його, її, єго, їх, єї</li>
+            <li>PRON: він, вона, вони, єго, них, її, їх, його, їм, воно</li>
+            <li>VERB-Fin: може, має, живе, буде, віщує, каже, здаєть, являється, є, стане</li>
+          </ul>
+        </li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li><a>Polite</a></li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Form
           <ul>
@@ -1884,33 +2675,45 @@ udver: '2'
         </li>
       </ul>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-    </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
+
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
       <h3>Other Features</h3>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <h3>Other Features</h3>
+    </td>
+    <td width="33%" valign="top">
       <h3>Other Features</h3>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li><a>Abbr</a>
           <ul>
@@ -1931,7 +2734,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li><a>Abbr</a>
           <ul>
@@ -1947,9 +2750,28 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="33%" valign="top">
+      <ul>
+        <li><a>Abbr</a>
+          <ul>
+            <li>Yes
+              <ul>
+                <li>ADJ: укр., слов, Північ, вп., зах.-европейської, зв, св, ін</li>
+                <li>ADP: м, н</li>
+                <li>ADV: т, д, напр, н.пр., напр.</li>
+                <li>DET: ін., т</li>
+                <li>NOUN: р, проф, в, пр, п, р., д, ф, Д-ра, д-р</li>
+                <li>PRON: и</li>
+                <li>PROPN: Мих, Яр</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li><a>Animacy[gram]</a>
           <ul>
@@ -1967,7 +2789,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li><a>Animacy[gram]</a>
           <ul>
@@ -1980,12 +2802,28 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="33%" valign="top">
+      <ul>
+        <li><a>Animacy[gram]</a>
+          <ul>
+            <li>Anim
+              <ul>
+                <li>ADJ: живого, останніх, перенятого, радісного</li>
+                <li>ADJ-Part: перенятого</li>
+                <li>NOUN: духа</li>
+                <li>PRON: яких</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li><a>BadStyle</a>
           <ul>
@@ -2011,12 +2849,15 @@ udver: '2'
         </li>
       </ul>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
-    <td width="50%" valign="top">
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li><a>ExtPos</a>
           <ul>
@@ -2027,27 +2868,29 @@ udver: '2'
             </li>
             <li>ADP
               <ul>
-                <li>ADP: у, з, під, в, на, по, Згідно, відповідно, крім, поруч</li>
-                <li>ADV: відповідно, згідно, поряд, незважаючи, разом, спільно</li>
+                <li>ADP: з, у, в, за, на, під, до, по, Згідно, відповідно</li>
+                <li>ADV: відповідно, згідно, поряд, незалежно, незважаючи, всупереч, одночасно, разом, спільно</li>
+                <li>PART: не</li>
                 <li>PRON: що</li>
-                <li>VERB-Conv: починаючи</li>
+                <li>VERB-Conv: зважаючи, починаючи</li>
               </ul>
             </li>
             <li>ADV
               <ul>
-                <li>ADP: в, у</li>
-                <li>ADV: так, поки, перш, більш, знову, більше, все, ще, врешті, навряд</li>
+                <li>ADP: в, у, До</li>
+                <li>ADV: так, поки, знову, перш, більш, більше, все, ще, врешті, навряд</li>
                 <li>CCONJ: і</li>
                 <li>DET: таким, один, тим</li>
-                <li>PART: все, хоча, так, тільки, вряд, всього, не</li>
+                <li>PART: все, хоча, так, тільки, вряд, всього, і, не</li>
                 <li>PRON: все, сама, тим</li>
                 <li>X: ad</li>
               </ul>
             </li>
             <li>CCONJ
               <ul>
+                <li>ADP: в</li>
                 <li>ADV: так</li>
-                <li>CCONJ: а, але, так, чи, та</li>
+                <li>CCONJ: а, так, але, чи, та, або</li>
                 <li>PART: не, чи</li>
                 <li>PRON: тим</li>
               </ul>
@@ -2068,7 +2911,7 @@ udver: '2'
             </li>
             <li>PART
               <ul>
-                <li>PART: чи, все, Так</li>
+                <li>PART: чи, Так</li>
               </ul>
             </li>
             <li>PRON
@@ -2090,9 +2933,76 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="33%" valign="top">
+      <ul>
+        <li><a>ExtPos</a>
+          <ul>
+            <li>ADJ
+              <ul>
+                <li>ADV: т</li>
+              </ul>
+            </li>
+            <li>ADP
+              <ul>
+                <li>ADP: з, на, в, по</li>
+                <li>ADV: вкупі, враз, згідно</li>
+                <li>PART: не</li>
+                <li>PRON: Що</li>
+                <li>SCONJ: що, як</li>
+              </ul>
+            </li>
+            <li>ADV
+              <ul>
+                <li>ADP: м, н, на</li>
+                <li>ADV: перш, більш, ледві, поки, де, так</li>
+                <li>PART: що</li>
+                <li>PRON: тим</li>
+              </ul>
+            </li>
+            <li>CCONJ
+              <ul>
+                <li>CCONJ: але, як</li>
+                <li>PART: не</li>
+                <li>PRON: се</li>
+              </ul>
+            </li>
+            <li>DET
+              <ul>
+                <li>DET: сама, якого</li>
+                <li>PART: нї</li>
+                <li>PRON: які</li>
+              </ul>
+            </li>
+            <li>INTJ
+              <ul>
+                <li>CCONJ: А</li>
+              </ul>
+            </li>
+            <li>PART
+              <ul>
+                <li>ADV: ледві</li>
+                <li>PART: ледві, От, все, нїби</li>
+              </ul>
+            </li>
+            <li>PRON
+              <ul>
+                <li>ADV: де</li>
+                <li>DET: якої</li>
+              </ul>
+            </li>
+            <li>SCONJ
+              <ul>
+                <li>PART: не</li>
+                <li>SCONJ: як, що</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li><a>Foreign</a>
           <ul>
@@ -2105,7 +3015,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li><a>Foreign</a>
           <ul>
@@ -2118,9 +3028,22 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="33%" valign="top">
+      <ul>
+        <li><a>Foreign</a>
+          <ul>
+            <li>Yes
+              <ul>
+                <li>X: 1888, 1896, Actus, Dans, Dokumenta, Dеr, Evangeliarium, Lwowa, Putmanum, Revue</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li><a>Hyph</a>
           <ul>
@@ -2133,15 +3056,18 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li><a>InflClass</a>
           <ul>
@@ -2158,9 +3084,26 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="33%" valign="top">
+      <ul>
+        <li><a>InflClass</a>
+          <ul>
+            <li>Ind
+              <ul>
+                <li>ADJ: укр., слов, Північ, вп., зв, св, ін</li>
+                <li>DET: його, її, їх, єго, ін., т, єї</li>
+                <li>NOUN: р, проф, в, пр, п, р., д, ф, кл, проф.</li>
+                <li>PRON: Я, и</li>
+                <li>PROPN: Рише, Мих, Гарибальді, Сен-Клю, Яр</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li><a>NameType</a>
           <ul>
@@ -2183,7 +3126,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li><a>NameType</a>
           <ul>
@@ -2211,9 +3154,32 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="33%" valign="top">
+      <ul>
+        <li><a>NameType</a>
+          <ul>
+            <li>Geo
+              <ul>
+                <li>PROPN: Росиї, Европи, Росия, Европі, Франциї, Австрия, Нїмеччина, Нїмеччинї, Росиєю, Австриї</li>
+              </ul>
+            </li>
+            <li>Giv
+              <ul>
+                <li>PROPN: Мих, Наполеон, Омелян, Анни, Василь, Максимилїяна, Михайло, Міляна, Наполєона, Наполєона-авантуристу</li>
+              </ul>
+            </li>
+            <li>Sur
+              <ul>
+                <li>PROPN: Драгоманова, Рише, Драгоманів, Калужняцький, Драгомановим, Франко, Бонапарт, Гарибальді, Драгоманову, Калужняцького</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li><a>Orth</a>
           <ul>
@@ -2230,7 +3196,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li><a>Orth</a>
           <ul>
@@ -2243,9 +3209,22 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="33%" valign="top">
+      <ul>
+        <li><a>Orth</a>
+          <ul>
+            <li>Alt
+              <ul>
+                <li>ADJ-Part: осьвіченими</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li><a>PartType</a>
           <ul>
@@ -2258,12 +3237,15 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li><a>PunctType</a>
           <ul>
@@ -2291,15 +3273,18 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li><a>Style</a>
           <ul>
@@ -2314,9 +3299,12 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="33%" valign="top">
+
+    </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li><a>Typo</a>
           <ul>
@@ -2332,7 +3320,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li><a>Typo</a>
           <ul>
@@ -2343,7 +3331,7 @@ udver: '2'
                 <li>ADP: в, збоку, у, з, за</li>
                 <li>ADV: в, вцілому, неможна, пилко, потрібно</li>
                 <li>DET: всім, Наш, багатьом, будь, деяким, ніякою, таке, тот, яким, якість</li>
-                <li>NOUN: напрямкам, не, уособлення, Голову, Держжитлокомунгос, Мінюсті, НКРЄ, Стрижнем, депутати, категоріям</li>
+                <li>NOUN: напрямкам, не, уособлення, Голову, Держжитлокомунгос, Мінюсті, НКРЄ, Стрижнем, виконання, депутати</li>
                 <li>PRON: ні, яке</li>
                 <li>PROPN: Бандурко, Володимиру, Железняк, Мукачево, Ображіївкі, Піхоті, Руслана, Стефанчука, Челомбітко, Ющенко</li>
                 <li>PUNCT: ., ...</li>
@@ -2356,9 +3344,12 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="33%" valign="top">
+
+    </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li><a>Uninflect</a>
           <ul>
@@ -2377,7 +3368,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li><a>Uninflect</a>
           <ul>
@@ -2393,9 +3384,12 @@ udver: '2'
         </li>
       </ul>
     </td>
+    <td width="33%" valign="top">
+
+    </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h2>Syntax</h2>
       
       <h3>Auxiliary Verbs and Copula</h3>
@@ -2404,7 +3398,7 @@ udver: '2'
       <li>This corpus uses 2 lemmas as copulas (<a>cop</a>). Examples: бути, бувати.</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h2>Syntax</h2>
       
       <h3>Auxiliary Verbs and Copula</h3>
@@ -2413,22 +3407,36 @@ udver: '2'
       <li>This corpus uses 2 lemmas as copulas (<a>cop</a>). Examples: бути, бувати.</li>
       </ul>
     </td>
+    <td width="33%" valign="top">
+      <h2>Syntax</h2>
+      
+      <h3>Auxiliary Verbs and Copula</h3>
+      
+      <ul>
+      <li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: бути.</li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
       <li>This corpus uses 4 lemmas as auxiliaries (<a>aux</a>). Examples: бути, б, би, бувати.</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
       <li>This corpus uses 3 lemmas as auxiliaries (<a>aux</a>). Examples: бути, би, б.</li>
       <li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: бути.</li>
       </ul>
     </td>
+    <td width="33%" valign="top">
+      <ul>
+      <li>This corpus uses 4 lemmas as auxiliaries (<a>aux</a>). Examples: мати, б, би, бути.</li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
       
       Here we consider only relations between verbs (parent) and nouns or pronouns (child).
@@ -2448,7 +3456,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
       
       Here we consider only relations between verbs (parent) and nouns or pronouns (child).
@@ -2456,23 +3464,43 @@ udver: '2'
         <li><a>nsubj</a>
           <ul>
             <li>VERB-Conv--PRON-Nom (1)</li>
-            <li>VERB-Fin--NOUN-Gen (140)</li>
+            <li>VERB-Fin--NOUN-Gen (139)</li>
             <li>VERB-Fin--NOUN-Gen-ADP(до) (1)</li>
             <li>VERB-Fin--NOUN-Gen-ADP(з) (1)</li>
             <li>VERB-Fin--NOUN-Gen-ADP(понад) (1)</li>
-            <li>VERB-Fin--NOUN-Nom (1833)</li>
+            <li>VERB-Fin--NOUN-Nom (1838)</li>
             <li>VERB-Fin--PRON-Gen (15)</li>
-            <li>VERB-Fin--PRON-Nom (2696)</li>
+            <li>VERB-Fin--PRON-Nom (2694)</li>
+            <li>VERB-Inf--NOUN-Dat (1)</li>
             <li>VERB-Inf--NOUN-Gen (1)</li>
-            <li>VERB-Inf--NOUN-Nom (89)</li>
+            <li>VERB-Inf--NOUN-Nom (90)</li>
+            <li>VERB-Inf--PRON-Dat (2)</li>
             <li>VERB-Inf--PRON-Nom (110)</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
+      
+      Here we consider only relations between verbs (parent) and nouns or pronouns (child).
+      <ul>
+        <li><a>nsubj</a>
+          <ul>
+            <li>VERB-Fin--NOUN-Gen (4)</li>
+            <li>VERB-Fin--NOUN-Nom (227)</li>
+            <li>VERB-Fin--PRON-Gen (1)</li>
+            <li>VERB-Fin--PRON-Nom (116)</li>
+            <li>VERB-Inf--NOUN-Gen (1)</li>
+            <li>VERB-Inf--NOUN-Nom (19)</li>
+            <li>VERB-Inf--PRON-Nom (4)</li>
           </ul>
         </li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li><a>obj</a>
           <ul>
@@ -2506,41 +3534,64 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li><a>obj</a>
           <ul>
             <li>VERB-Conv--NOUN-Acc (63)</li>
             <li>VERB-Conv--NOUN-Gen (5)</li>
             <li>VERB-Conv--PRON-Acc (9)</li>
-            <li>VERB-Fin--NOUN-Acc (1794)</li>
-            <li>VERB-Fin--NOUN-Dat (2)</li>
+            <li>VERB-Fin--NOUN-Acc (1792)</li>
+            <li>VERB-Fin--NOUN-Dat (16)</li>
             <li>VERB-Fin--NOUN-Dat-ADP(в) (1)</li>
-            <li>VERB-Fin--NOUN-Gen (299)</li>
+            <li>VERB-Fin--NOUN-Gen (301)</li>
             <li>VERB-Fin--NOUN-Gen-ADP(близько) (1)</li>
             <li>VERB-Fin--NOUN-Gen-ADP(плюс) (1)</li>
             <li>VERB-Fin--NOUN-Loc-ADP(по) (1)</li>
             <li>VERB-Fin--NOUN-Nom (1)</li>
             <li>VERB-Fin--PRON-Acc (320)</li>
-            <li>VERB-Fin--PRON-Dat (2)</li>
-            <li>VERB-Fin--PRON-Gen (15)</li>
+            <li>VERB-Fin--PRON-Dat (17)</li>
+            <li>VERB-Fin--PRON-Gen (16)</li>
             <li>VERB-Fin--PRON-Gen-ADP(з) (1)</li>
             <li>VERB-Fin--PRON-Nom (1)</li>
             <li>VERB-Inf--NOUN-Acc (1463)</li>
             <li>VERB-Inf--NOUN-Acc-ADP(про) (1)</li>
-            <li>VERB-Inf--NOUN-Dat (3)</li>
+            <li>VERB-Inf--NOUN-Dat (15)</li>
             <li>VERB-Inf--NOUN-Gen (72)</li>
             <li>VERB-Inf--NOUN-Gen-ADP(з) (1)</li>
+            <li>VERB-Inf--NOUN-Ins (1)</li>
             <li>VERB-Inf--PRON-Acc (235)</li>
-            <li>VERB-Inf--PRON-Dat (1)</li>
+            <li>VERB-Inf--PRON-Dat (5)</li>
             <li>VERB-Inf--PRON-Gen (11)</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <ul>
+        <li><a>obj</a>
+          <ul>
+            <li>VERB-Conv--NOUN-Acc (17)</li>
+            <li>VERB-Conv--NOUN-Gen (3)</li>
+            <li>VERB-Fin--NOUN-Acc (95)</li>
+            <li>VERB-Fin--NOUN-Dat (1)</li>
+            <li>VERB-Fin--NOUN-Gen (21)</li>
+            <li>VERB-Fin--NOUN-Gen-ADP(до) (1)</li>
+            <li>VERB-Fin--PRON-Acc (42)</li>
+            <li>VERB-Fin--PRON-Gen (6)</li>
+            <li>VERB-Inf--NOUN-Acc (81)</li>
+            <li>VERB-Inf--NOUN-Dat (1)</li>
+            <li>VERB-Inf--NOUN-Gen (15)</li>
+            <li>VERB-Inf--PRON (1)</li>
+            <li>VERB-Inf--PRON-Acc (20)</li>
+            <li>VERB-Inf--PRON-Gen (2)</li>
           </ul>
         </li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li><a>iobj</a>
           <ul>
@@ -2559,44 +3610,67 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li><a>iobj</a>
           <ul>
-            <li>VERB-Conv--NOUN-Dat (4)</li>
-            <li>VERB-Fin--NOUN-Dat (165)</li>
+            <li>VERB-Conv--NOUN-Dat (2)</li>
+            <li>VERB-Fin--NOUN-Dat (127)</li>
             <li>VERB-Fin--NOUN-Dat,Gen (1)</li>
             <li>VERB-Fin--NOUN-Gen (1)</li>
             <li>VERB-Fin--NOUN-Ins (8)</li>
-            <li>VERB-Fin--PRON-Dat (180)</li>
-            <li>VERB-Inf--NOUN-Dat (93)</li>
-            <li>VERB-Inf--NOUN-Ins (9)</li>
+            <li>VERB-Fin--PRON-Dat (155)</li>
+            <li>VERB-Inf--NOUN-Dat (74)</li>
+            <li>VERB-Inf--NOUN-Ins (6)</li>
             <li>VERB-Inf--PRON-Acc (1)</li>
-            <li>VERB-Inf--PRON-Dat (50)</li>
+            <li>VERB-Inf--PRON-Dat (43)</li>
             <li>VERB-Inf--PRON-Ins (1)</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <ul>
+        <li><a>iobj</a>
+          <ul>
+            <li>VERB-Fin--NOUN-Dat (5)</li>
+            <li>VERB-Fin--NOUN-Ins (1)</li>
+            <li>VERB-Fin--PRON-Dat (16)</li>
+            <li>VERB-Inf--NOUN-Dat (4)</li>
+            <li>VERB-Inf--PRON-Dat (10)</li>
           </ul>
         </li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
+      <h3>Reflexive Verbs</h3>
+      
+      <ul>
+        <li>This corpus contains 62 lemmas that occur at least once with an <a>expl:pv</a> child. Examples: здавати ся, перемінити ся, сподівати ся, втручати ся, згодити ся, стати ся, лишати ся, лишити ся, визволити ся, визначати ся, відцурати ся, звати ся, зупинити ся, тлумити ся, бити ся, бороти ся, вдати ся, вернути ся, взяти ся, виховати ся, вступити ся, відважити ся, відрікати ся, з'єднати ся, займати ся, запевнити ся, заходити ся, зберегти ся, здати ся, змагати ся, зупиняти ся, користувати ся, корити ся, лити ся, набирати ся, називати ся, насовувати ся, обмежити ся, обійти ся, організувати ся, переняти ся, питати ся, позбути ся, посоромити ся, поступити ся, починати ся, провинити ся, прокинути ся, піклувати ся, родити ся</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-
-    </td>
-    <td width="50%" valign="top">
-
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3>Verbs with Reflexive Core Objects</h3>
       
       <ul>
@@ -2606,7 +3680,7 @@ udver: '2'
           </ul>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3>Verbs with Reflexive Core Objects</h3>
       
       <ul>
@@ -2616,9 +3690,19 @@ udver: '2'
           </ul>
       </ul>
     </td>
+    <td width="33%" valign="top">
+      <h3>Verbs with Reflexive Core Objects</h3>
+      
+      <ul>
+        <li>This corpus contains 11 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: придбати собі, поставити себе, визволити ся, виправдувати себе, забрати собі, здавати собі, могти собі, поступати собі, почував себе, присвоювати собі, склали собі</li>
+          <ul>
+            <li>Out of those, 2 lemmas occurred more than once, but never without a reflexive dependent. Examples: придбати, поставити</li>
+          </ul>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3>Relations Overview</h3>
       
       <ul>
@@ -2626,12 +3710,20 @@ udver: '2'
       <li>The following 2 relation types are not used in this corpus at all: <a>clf</a>, <a>dep</a></li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3>Relations Overview</h3>
       
       <ul>
-      <li>This corpus uses 21 relation subtypes: <a>acl:relcl</a>, <a>advmod:det</a>, <a>advmod:emph</a>, <a>advmod:neg</a>, <a>aux:pass</a>, <a>compound:svc</a>, <a>det:numgov</a>, <a>det:nummod</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>flat:range</a>, <a>flat:repeat</a>, <a>flat:title</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a>, <a>nummod:gov</a>, <a>obl:agent</a>, <a>obl:arg</a>, <a>parataxis:discourse</a>, <a>parataxis:rel</a>, <a>xcomp:pred</a></li>
+      <li>This corpus uses 21 relation subtypes: <a>acl:relcl</a>, <a>advmod:det</a>, <a>advmod:emph</a>, <a>advmod:neg</a>, <a>aux:pass</a>, <a>compound:svc</a>, <a>csubj:outer</a>, <a>det:numgov</a>, <a>det:nummod</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>flat:range</a>, <a>flat:repeat</a>, <a>flat:title</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a>, <a>nummod:gov</a>, <a>obl:agent</a>, <a>obl:arg</a>, <a>parataxis:rel</a>, <a>xcomp:pred</a></li>
       <li>The following 2 relation types are not used in this corpus at all: <a>clf</a>, <a>dep</a></li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Relations Overview</h3>
+      
+      <ul>
+      <li>This corpus uses 14 relation subtypes: <a>acl:relcl</a>, <a>advmod:det</a>, <a>advmod:emph</a>, <a>advmod:neg</a>, <a>det:numgov</a>, <a>det:nummod</a>, <a>expl:pv</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a>, <a>nummod:gov</a>, <a>obl:agent</a>, <a>obl:arg</a></li>
+      <li>The following 6 relation types are not used in this corpus at all: <a>dislocated</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
       </ul>
     </td>
   </tr>

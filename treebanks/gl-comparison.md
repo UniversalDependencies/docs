@@ -1304,7 +1304,7 @@ udver: '2'
         <li>Dem
           <ul>
             <li>DET: este, esta, ese, estas, estes, eses, aquela, esa, aquelas, aquel</li>
-            <li>PRON: isto, iso, este, estes, esta, aqueles, estas, aquela, aquilo, esa</li>
+            <li>PRON: isto, iso, esta, este, estes, aqueles, estas, aquela, aquilo, esa</li>
           </ul>
         </li>
       </ul>
@@ -1417,7 +1417,7 @@ udver: '2'
       <ul>
         <li>Prs
           <ul>
-            <li>DET: os</li>
+            <li>DET: súa, seu, súas, seus, noso, nosa, meu, miña, meus, nosas</li>
             <li>PRON: se, lle, o, el, ela, eles, me, a, nos, eu</li>
           </ul>
         </li>
@@ -1578,6 +1578,7 @@ udver: '2'
         <li>Yes
           <ul>
             <li>DET: súa, seu, súas, seus, noso, nosa, meu, miña, meus, nosas</li>
+            <li>PRON: súa</li>
           </ul>
         </li>
       </ul>
@@ -2176,9 +2177,9 @@ udver: '2'
       <ul>
         <li><a>nsubj</a>
           <ul>
-            <li>VERB--NOUN (545)</li>
+            <li>VERB--NOUN (546)</li>
             <li>VERB--NOUN-ADP(a) (4)</li>
-            <li>VERB--PRON (243)</li>
+            <li>VERB--PRON (246)</li>
             <li>VERB--PRON-ADP(a) (2)</li>
             <li>VERB--PRON-ADP(con) (1)</li>
             <li>VERB--PRON-ADP(para) (1)</li>
@@ -2262,13 +2263,12 @@ udver: '2'
       <ul>
         <li><a>obj</a>
           <ul>
-            <li>VERB--NOUN (479)</li>
+            <li>VERB--NOUN (475)</li>
             <li>VERB--NOUN-ADP(a) (20)</li>
             <li>VERB--NOUN-ADP(ata) (1)</li>
-            <li>VERB--NOUN-ADP(até) (1)</li>
             <li>VERB--NOUN-ADP(de) (6)</li>
             <li>VERB--NOUN-ADP(por) (1)</li>
-            <li>VERB--PRON (35)</li>
+            <li>VERB--PRON (32)</li>
             <li>VERB--PRON-ADP(a) (1)</li>
             <li>VERB--PRON-Acc (24)</li>
             <li>VERB-Fin--NOUN (1)</li>
@@ -2276,8 +2276,7 @@ udver: '2'
             <li>VERB-Ger--PRON (1)</li>
             <li>VERB-Ger--PRON-Acc (3)</li>
             <li>VERB-Inf--NOUN (209)</li>
-            <li>VERB-Inf--NOUN-ADP(a) (6)</li>
-            <li>VERB-Inf--NOUN-ADP(cara) (1)</li>
+            <li>VERB-Inf--NOUN-ADP(a) (5)</li>
             <li>VERB-Inf--NOUN-ADP(de)-ADP(a) (1)</li>
             <li>VERB-Inf--PRON (7)</li>
             <li>VERB-Inf--PRON-Acc (15)</li>
@@ -2350,7 +2349,7 @@ udver: '2'
       <ul>
         <li><a>iobj</a>
           <ul>
-            <li>VERB--NOUN-ADP(a) (11)</li>
+            <li>VERB--NOUN-ADP(a) (12)</li>
             <li>VERB--PRON (10)</li>
             <li>VERB--PRON-Dat (26)</li>
             <li>VERB-Ger--NOUN-ADP(a) (1)</li>
