@@ -217,6 +217,8 @@ It is meant for the maintenance task force rather than individual treebank teams
 
 ## Releasing the data
 
+* Check again that <tt>tools</tt> does not contain any <tt>__pycache__</tt>! It could appear there
+  even during the release process, regardless that we cleaned it up in the beginning!
 * Run the script <tt>tools/package_ud_release.sh</tt>, which must find the release number in the environment,
   and its arguments are names of folders to be released.<br />
   <code>RELEASE=2.19 tools/package_ud_release.sh $(cat released_treebanks.txt)</code>
