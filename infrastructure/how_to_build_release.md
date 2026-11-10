@@ -148,7 +148,7 @@ It is meant for the maintenance task force rather than individual treebank teams
 * Re-evaluate the treebanks for the star ranking on the website. This is done only in the master branch and the result is stored there.
 
 	```bash
-	for i in $(cat released_treebanks.txt) ; do echo $i ; cd $i ; git checkout master ; cd .. ; perl -I ./tools ./tools/evaluate_treebank.pl $i --verbose &gt;&amp; $i/eval.log ; cd $i ; git add eval.log ; git commit -m 'Updated treebank evaluation.' ; git push ; git checkout dev ; cd .. ; done
+	for i in $(cat released_treebanks.txt) ; do echo $i ; cd $i ; git checkout master ; cd .. ; perl -I ./tools ./tools/evaluate_treebank.pl $i --verbose >& $i/eval.log ; cd $i ; git add eval.log ; git commit -m 'Updated treebank evaluation.' ; git push ; git checkout dev ; cd .. ; done
 	```
 
 ## Updating automatically generated parts of documentation
