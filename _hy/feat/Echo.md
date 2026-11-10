@@ -36,4 +36,4 @@ In some cases, one of the components of a reduplicative compound may itself be m
 
 * _ինձ ու ինձ_/_inj ow inj_ “to myself”,
 * _րոպե առ րոպե_/_rope aṙ rope_ “minute by minute”.
-<!-- Interlanguage links updated Út 30. června 2026, 10:58:51 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:40 CET -->

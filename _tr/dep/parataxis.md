@@ -19,4 +19,4 @@ parataxis(kalkacakmışız, diyor)
 Kitabı okudun , değil mi ? \n You read the book , aren't you ?
 parataxis(okudun, değil)
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 11:00:39 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:39:10 CET -->

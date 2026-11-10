@@ -117,4 +117,4 @@ Note that the locative case is not recognized as a distinct case in the UD annot
 * _Ձագերն ձայն ածեն <b>յայգին</b>։_/_Jagern jayn açen yaygin_ “(Some animals') young ones are making noise <b>in the garden</b>”
 * _<b>յաւազանն</b> մտանէ_/_yawazann mtanē_ “he gets <b>into the pool</b>”
   
-<!-- Interlanguage links updated Út 30. června 2026, 10:58:44 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:35 CET -->

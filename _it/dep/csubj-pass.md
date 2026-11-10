@@ -27,4 +27,4 @@ iobj(detto, Mi)
 aux(detto, è)
 aux:pass(detto, stato)
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:57 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:37 CET -->

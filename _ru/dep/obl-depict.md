@@ -13,4 +13,4 @@ The `obl:depict` relation is used for oblique dependents in depictive uses.
 obl(Пришёл, пьяный)
 obl(came, drunk)
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 11:00:32 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:39:05 CET -->

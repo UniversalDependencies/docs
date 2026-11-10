@@ -26,3 +26,4 @@ The `cop` relation links the copular verb _ëse_ “to be” to the predicate, w
 ~~~
 
 In existential constructions such as _gh’é_ “there is”, by contrast, _ëse_ is the verbal head of the clause. For locative _lì_ “there” with `cop`, see the [contrastive example under advcl:relcl](advcl-relcl.html#locative-predicate).
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:35 CET -->

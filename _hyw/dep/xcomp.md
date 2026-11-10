@@ -24,4 +24,4 @@ The name `xcomp` is borrowed from Lexical-Functional Grammar.
 9	ապրեցան	ապրիլ	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Subcat=Intr|Tense=Past|VerbForm=Fin|Voice=Mid	3	ccomp	_	Translit=aprec’an|LTranslit=april
 ~~~
 
-<!-- Interlanguage links updated Út 30. června 2026, 11:00:44 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:39:14 CET -->

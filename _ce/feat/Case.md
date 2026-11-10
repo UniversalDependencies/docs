@@ -140,3 +140,4 @@ Following the UD convention, the value `Acc` is used to mark the oblique case.
   V-old-**OBL** man-ALL ask-PRF<br>
   '(They) asked the old man…'
 
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:35 CET -->

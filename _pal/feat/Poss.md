@@ -22,4 +22,4 @@ The reflexive [pronoun](PRON) _xwēš_ "own" usually denotes a possessive relati
 - personal pronoun as nominal modifier: _ardaxšīr abāg dō bārag <b>ī ašmāh</b> nē pad gyāg ast_ "Ardaxšīr and (lit. with) two horses of **yours** are not at place (i.e. are gone)."
 
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:13 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:59 CET -->

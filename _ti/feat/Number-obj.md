@@ -18,3 +18,4 @@ Number of the object suffix of a verb. The feature records the number of the pro
 #### Examples
 
 * ኣዚዙዎም / *ʔazizuwom* "he ordered them": `Number=Sing|Number[obj]=Plur` (ti_ref_77)
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:53 CET -->

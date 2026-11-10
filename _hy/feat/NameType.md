@@ -80,4 +80,4 @@ Names of stadiums, guerrilla bases, events, etc.
 #### Examples
 
 * _«Հրազդան»_/_«Hrazdan»_ “Hrazdan”, _«Դինամո»_/_«Dinamo»_ “Dinamo”, _«Զվարթնոց»_/_«Zvartʼnocʼ»_ “Zvartnots”, _Զատիկ_/_Zatik_ “Easter”
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:01 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:48 CET -->

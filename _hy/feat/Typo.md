@@ -19,4 +19,4 @@ Indicates bad spelling, grammatical error etc. Does not say how the correct form
 #### Examples
 
 * _<b>զեխչ</b>_/_zexč_ (vs. _զեղչ_/_zeġč_) “discount”
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:21 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:06 CET -->

@@ -23,3 +23,4 @@ It differs from [discourse](), which covers discourse particles and markers with
 4	è	essere	AUX	_	_	5	cop	_	_
 5	suo	suo	DET	_	_	2	conj	_	_
 ~~~
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:42 CET -->

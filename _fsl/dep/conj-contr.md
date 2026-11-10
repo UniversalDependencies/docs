@@ -21,4 +21,4 @@ conj:contr ([DIFFÉRENT],[CALANQUE])
 
 Furthermore, we can see with this example, that the central ’Negation’ constituent, doesn’t have to be the sign [NO] but can any sign with a negative reading, like here with [DIFFERENT]. Here, the focus in on [ROCKY-INLET], since the alternative of the setting of [BEACH] is excluded.
 
-<!-- Interlanguage links updated Út 30. června 2026, 11:00:34 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:33 CET -->

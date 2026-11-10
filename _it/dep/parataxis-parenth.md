@@ -24,3 +24,4 @@ The specialization is used in KIParla, a corpus of spoken Italian, for parenthet
 11	la	il	DET	_	_	12	det	_	_
 12	analisi	analisi	NOUN	_	_	3	obl	_	_
 ~~~
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:39:11 CET -->

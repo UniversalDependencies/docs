@@ -24,3 +24,4 @@ Person of the applicative suffix of a verb. The applicative suffixes, with the e
 #### Examples
 
 * ገዚአሉ / *gəziʔɛlu* "I bought (it) for him" (beneficiary): `Person=1|Person[app]=3` (ti_ref_110)
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:56 CET -->

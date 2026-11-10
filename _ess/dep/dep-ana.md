@@ -18,4 +18,4 @@ ta  an'gani \n Anaphor the-one-down-there-at-the-water
 dep:ana(an'gani, ta)
 dep:ana(the-one-down-there-at-the-water, Anaphor)
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:59 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:38 CET -->

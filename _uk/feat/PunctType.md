@@ -102,4 +102,4 @@ _Купити:_
 
 * _прем’єр-ліга 2016<b>/</b>17_ “2016/17 Premier League”
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:15 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:01 CET -->

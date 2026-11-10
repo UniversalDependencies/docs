@@ -132,4 +132,4 @@ Some of these auxiliaries can also be used as the main verb of a clause:
 - make
 
 See more about the auxiliaries in the [AUX]() page.
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:43 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:24 CET -->

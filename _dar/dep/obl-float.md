@@ -20,4 +20,4 @@ gloss: I-ERG you.pl two-ORD-ADD rescue HPL-do:PFV-FUT.EGO one-one rouble-INTER(L
 
 #### References
 Я. Г. Тестелец. Введение в общий синтаксис. М.: РГГУ, 2001.
-<!-- Interlanguage links updated Út 30. června 2026, 11:00:32 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:39:05 CET -->

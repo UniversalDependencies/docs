@@ -22,3 +22,4 @@ Because the last part of the compound is inflected, we treat that part as the ro
 
 Compounds should always be annotated with a token range (e.g. `10-12`). The `compound` relations should only be used for such tokens. Sandhi should not be treated as a token range but should be treated instead as two separate tokens with the first token getting `SpaceAfter=No` to mark the lack of a space after it. Pāli UD expresses the difference between sandhi and compounds in this way.
 
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:29 CET -->

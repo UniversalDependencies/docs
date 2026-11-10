@@ -28,4 +28,4 @@ obj(freue, mich)
 Ich wasche mir dir Hände . \n I wash my hands .
 iobj(wasche, mir)
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 11:00:08 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:45 CET -->

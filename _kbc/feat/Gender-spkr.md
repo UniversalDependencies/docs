@@ -33,4 +33,4 @@ Griffiths (2002: 40–41) identifies _eeyo_ as the feminine-speaker form and _ee
 
 * Griffiths, Glyn. 2002. _Dicionário da língua Kadiwéu_. Sociedade Internacional de Linguística, pp. 40–41.
 
-<!-- Interlanguage links updated 22 Oct 2026 -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:44 CET -->

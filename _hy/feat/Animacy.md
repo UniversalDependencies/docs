@@ -36,4 +36,4 @@ This value is used for all non-human referents, including both animals and inani
 
 * _տարի_/_tari_ “year”, _օրենք_/_òrenk’_ “law”, _պետություն_/_petowt’yown_ “state”, _լեռ_/_leṙ_ “mountain”, _ծառ_/_çaṙ_ “tree”
 * _ձի_/_ji_ “horse”, _կով_/_kov_ “cow”, _առյուծ_/_aṙyowç_ “lion”, _արագիլ_/_aragil_ “stork”, _ձուկ_/_jowk_ “fish”
-<!-- Interlanguage links updated Út 30. června 2026, 10:58:42 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:33 CET -->

@@ -28,3 +28,4 @@ cop(ሓው, እዩ)
 ~~~
 
 "He is not my brother." (ti_ref_132)
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:16 CET -->

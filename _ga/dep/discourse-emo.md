@@ -11,4 +11,4 @@ The subtype `discourse:emo` is used in TwittIrish for emoticons, emoji and other
 @Irish_Dave1 Go raibh maith agat :)
 discourse:emo(raibh, :)) 
 ~~~ 
-<!-- Interlanguage links updated Út 30. června 2026, 11:00:03 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:42 CET -->

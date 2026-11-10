@@ -39,4 +39,4 @@ then it should be analyzed with these more standard relations, even if it is lai
 8	Համալսարան	համալսարան	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	1	list	_	Translit=Hamalsaran|LTranslit=hamalsaran
 ~~~
 
-<!-- Interlanguage links updated Út 30. června 2026, 11:00:14 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:50 CET -->

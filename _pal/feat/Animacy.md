@@ -42,4 +42,4 @@ Non-human is used for animals but not for plants.
 - *sag* "dog".
 
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:58:42 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:33 CET -->

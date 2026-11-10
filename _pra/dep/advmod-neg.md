@@ -20,3 +20,4 @@ Used for negative particles.
 7	ārabhisare	ārabha	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Pass	0	root	_	Gloss=shall-be-killed
 
 ~~~
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:18 CET -->

@@ -66,4 +66,4 @@ This value is used for variant forms of the same word.
 
 * _դատւոր, դատուոր_/_datwor, datowor_, _թեպուր, թեփուր_/_t’epowr, t’ep’owr_, _մգռա, մքռա_/_mgṙa, mk’ṙa_
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:19 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:04 CET -->

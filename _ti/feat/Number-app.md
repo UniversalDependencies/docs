@@ -19,3 +19,4 @@ Number of the applicative suffix of a verb. The applicative suffixes, with the e
 #### Examples
 
 * ገዚአሎም / *gəziʔɛlom* "I bought (it) for them" (beneficiary)
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:52 CET -->

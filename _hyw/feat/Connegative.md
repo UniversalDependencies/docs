@@ -31,4 +31,4 @@ Note that there is no `No` value. If the word is not connegative, the `Connegati
 * _չեմ, չես, չի (չ’), չենք, չէք, չեն <b>թողուր</b>_/_čem, čes, či (č’), čenk’, čēk’, čen <b>t’oġowr</b>_ “I, you, he/she/it, we, you, they will not <b>allow</b>”,
 * _չէի, չէիր, չէր, չէինք, չէիք, չէին <b>թողուր</b>_/_čēi, čēir, čēr, čēink’, čēik’, čēin <b>t’oġowr</b>_ “I, you, he/she/it, we, you, they would not <b>allow</b>”.
 * _մի՛ <b>գրեր, կարդար, խօսիր, թողուր</b>_/_mi՛ <b>grer, kardar, xòsir, t’oġowr</b>_ “don't <b>write, read, speak, allow</b>”
-<!-- Interlanguage links updated Út 30. června 2026, 10:58:48 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:37 CET -->

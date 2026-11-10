@@ -43,4 +43,4 @@ The following are the main genitive case pronouns:
 
 Note that _her_ is ambiguous between the oblique case and the genitive case, and _his_ is ambiguous between a dependent (`Case=Gen`) possessive and an independent possessive (no `Case`).
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:58:44 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:35 CET -->

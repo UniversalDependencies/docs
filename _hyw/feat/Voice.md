@@ -95,4 +95,4 @@ The reciprocal is expressed by the passive suffix _-ու-_/_-ow-_. However, the 
 
 * _Գաղտնի ու անձայն <b>պսակուեցան</b>_/_Gaġtni ow anjayn <b>psakowecʼan</b>_ “They <b>got married</b> (lit. married each other) secretly and quietly”,
 * _պայմանաւորուեցանք_/_paymanaworowecʼankʼ_ “we came to an agreement (with each other)”.
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:23 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:07 CET -->

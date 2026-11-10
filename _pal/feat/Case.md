@@ -45,4 +45,4 @@ This corresponds to the direct case, which is also used for the object in an erg
 The oblique forms _mādar, mādarān_ are generalised and not annotated as marked for case.
 
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:58:44 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:35 CET -->

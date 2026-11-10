@@ -118,3 +118,4 @@ By contrast, in _e critiche de ciù governi_ “criticism from several governmen
 5	governi	governo	NOUN	_	_	2	nmod	_	Gloss=governments
 
 ~~~
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:45 CET -->

@@ -22,3 +22,4 @@ nip- purisehi \n without men
 compound:bv(purisehi, nip-)
 compound:bv(men, without)
 ~~~
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:30 CET -->

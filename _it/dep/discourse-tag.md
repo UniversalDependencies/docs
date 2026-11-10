@@ -31,3 +31,4 @@ The specialization is used in KIParlaForest for tag questions: short elements ad
 9	adesso	adesso	ADV	_	_	6	advmod	_	_
 10	giusto	giusto	ADJ	_	_	6	discourse:tag	_	_
 ~~~
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:42 CET -->

@@ -27,3 +27,4 @@ cop(ገዛእኩዋ, እያ)
 "But the best one is the one that I bought." (ti_ref_184)
 
 When the predicate clause has no subject of its own, the clausal subject is plain [csubj](https://universaldependencies.org/u/dep/csubj.html).
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:36 CET -->

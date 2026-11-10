@@ -61,4 +61,4 @@ There is a slight deviation from the [universal](u-dep/appos) standard in case o
 13	կայքէջի	կայքէջ	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	14	nmod:poss	_	Translit=kayk’ēǰi|LTranslit=kayk’ēǰ
 14	ներկայացում	ներկայացում	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	5	list	_	Translit=nerkayac’owm|LTranslit=nerkayac’owm
 15	https://us02web.zoom.us/j/87386495798	https://us02web.zoom.us/j/87386495798	SYM	_	_	14	appos	_	Translit=https.//us02web.zoom.us/j/87386495798|LTranslit=https.//us02web.zoom.us/j/87386495798
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:39 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:21 CET -->

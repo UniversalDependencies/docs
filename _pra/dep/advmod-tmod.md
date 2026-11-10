@@ -13,3 +13,4 @@ advmod:tmod(ārabhare, aja)
 advmod:tmod(killed, today)
 
 ~~~
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:19 CET -->

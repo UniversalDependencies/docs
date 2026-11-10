@@ -25,4 +25,4 @@ The entity is close to the reference point (e.g., to the speaker).
 * _<b>օրերս</b> են դիմել կառավարությանը_/_<b>òrers</b> en dimel kaṙavarowtʼyanë_ “They have applied to the government in recent days.” lit. _these days_,
 * _<b>վերջինիս</b> շնորհիվ է, որ..._/_<b>verǰinis</b> šnorhiv ē, or..._ “It is thanks to the latter that...”.
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:58:50 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:39 CET -->

@@ -34,4 +34,4 @@ The initial agent of the action described by the sentence is demoted and annotat
 6	խեղճին	խեղճ	NOUN	_	Animacy=Hum|Case=Dat|Definite=Def|Number=Sing	3	iobj:agent	_	Translit=xeġč̣in|LTranslit=xeġč̣|SpaceAfter=No
 For more details see [specific-syntax](http://universaldependencies.org/hyw/overview/specific-syntax.html).
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:40 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:21 CET -->

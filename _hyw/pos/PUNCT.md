@@ -24,4 +24,4 @@ Note that in Western Armenian words can contain _“infixed” punctuation_ (exc
 -	Emphasis mark (acute accent): _<b>՛</b>_
 -	Apostrophe: _<b>՚</b>_
 -	Armenian hyphen (yentamna): _<b>֊</b>_
-<!-- Interlanguage links updated Út 30. června 2026, 10:58:38 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:29 CET -->

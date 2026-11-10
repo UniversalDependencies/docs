@@ -41,4 +41,4 @@ The singular is the unmarked category in Middle Persian. This form can also be u
 - _hamgōnag paydāg wahman pad **=iš** mehmānīh rāy pad zāyišn bē **xandīd**_ "Likewise (it is) that (Zardušt) **laughed** because of the presence of Wahman in **him** during his birth."
 
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:04 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:51 CET -->

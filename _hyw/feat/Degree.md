@@ -63,4 +63,4 @@ The quality of the given object is so strong that there is hardly any other obje
 
 * _հզօր_/_hzòr_ “powerful”; _<b>գերհզօր</b>_/_<b>gerhzòr</b>_ “super powerful”
 * _զգայուն_/_zgayown_ “sensitive”; _<b>գերզգայուն</b>_/_gerzgayown_ “hypersensitive”
-<!-- Interlanguage links updated Út 30. června 2026, 10:58:49 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:39 CET -->

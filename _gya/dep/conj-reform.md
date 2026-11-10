@@ -15,4 +15,4 @@ wà wàntò mɛ́-B H-ɗoŋ wán táá hɛ̀n ɗòŋ mɔ̀ hɛ̰̀ ɗòŋ =ám h
 conj:reform (mɔ̀,=ám)
 ~~~
 
-<!-- Interlanguage links updated Út 30. června 2026, 11:00:34 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:34 CET -->

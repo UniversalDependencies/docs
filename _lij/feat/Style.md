@@ -34,3 +34,4 @@ Ordinary elisions used across written registers do not receive `Style=Expr`. The
 
 * _eiva_ “had” (`Style=Vrnc`, `CommonForm=aiva`)
 * _lasciao_ “left” (`Style=Vrnc`, `CommonForm=lasciou`)
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:04 CET -->

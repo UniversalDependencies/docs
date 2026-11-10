@@ -31,4 +31,4 @@ _tel.: (05) 4321 6014&nbsp;_ is analyzed as eight tokens (`NOUN PUNCT PUNCT PUNC
 ### References
 
 - [Wikipedia](http://en.wikipedia.org/wiki/Punctuation)
-<!-- Interlanguage links updated Út 30. června 2026, 10:58:38 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:29 CET -->

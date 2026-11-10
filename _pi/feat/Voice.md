@@ -72,3 +72,4 @@ It is constructed by attaching a second causative infix (typically *-āpe-*) to 
 - _Rājaputto ca purohitaputto ca yānāni <b>yojāpetvā</b> yānehi niyyiṁsu_ "The prince and the high priest's son, <b>having had</b> the carriages <b>yolked</b>, set out by carriage." (*yuñjati* "joins" → *yojeti* "causes to join = harnesses" → *yojāpeti* "causes [others] to harness")
 
 
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:08 CET -->

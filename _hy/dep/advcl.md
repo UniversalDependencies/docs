@@ -42,4 +42,4 @@ This relation is also used for optional depictive adjectives, where the adjectiv
 ~~~
 
 _գոհ_/_goh_ “pleased” describes the subject of _վերադարձանք_/_veradarjankʼ_ “we came back”, not the manner of the action—but is still taken to modify the verb.
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:28 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:11 CET -->

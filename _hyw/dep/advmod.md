@@ -27,4 +27,4 @@ A limited set of adverbs can also modify nominals. When such an adverb functions
 3	էի	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Imp|VerbForm=Fin	2	aux	_	Translit=ēi|LTranslit=em|SpaceAfter=No
 ~~~
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:33 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:15 CET -->

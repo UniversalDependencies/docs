@@ -17,4 +17,4 @@ All punctuation marks are transcribed by a comma. Only if a punctuation mark app
 - ⳼
 - •
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:58:38 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:29 CET -->

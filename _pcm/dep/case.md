@@ -97,4 +97,4 @@ Naija also uses `case` for verbal predicates when the adposition plays the same 
 8	around	_	_	_	_	0	_	_	_
 ~~~
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:44 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:24 CET -->

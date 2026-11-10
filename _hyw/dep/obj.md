@@ -35,4 +35,4 @@ If there are two or more objects, one of them should be `obj` and the others sho
 
 There is more discussion of constructions with multiple objects on the page for [iobj]().
 
-<!-- Interlanguage links updated Út 30. června 2026, 11:00:28 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:39:01 CET -->

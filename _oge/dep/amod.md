@@ -12,4 +12,4 @@ An adjectival modifier is any adjective that serves to modify the meaning of a n
 'The blessed father John was praying to God at all times.'
 amod(მამაჲ, ნეტარი)
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:38 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:20 CET -->

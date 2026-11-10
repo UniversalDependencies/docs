@@ -75,4 +75,4 @@ Present-tense forms in the subjunctive mood may have future reference. They are 
 * _գիտնամ_/_gitnam_ “(if) I know `Sub`”,
 * _կարենամ_/_karenam_ “(if) I can `Sub`”,
 * _ըլլամ_/_ëllam_ “I am / I will be `Sub`”.
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:20 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:05 CET -->

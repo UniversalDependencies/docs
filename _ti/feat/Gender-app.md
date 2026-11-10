@@ -19,3 +19,4 @@ Gender of the applicative suffix of a verb. Tigrinya verbs can take an applicati
 #### Examples
 
 * ገዚአላ / *gəziʔɛla* "I bought (it) for her" (beneficiary)
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:43 CET -->

@@ -16,4 +16,4 @@ nsubj:instrument(UV2.rea-cook-1SG, pan)
 ~~~
 
 “\[I\] cook fish with the pan.” (instrument voice)
-<!-- Interlanguage links updated Út 30. června 2026, 11:00:24 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:58 CET -->

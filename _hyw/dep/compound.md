@@ -64,4 +64,4 @@ The `compound` relation is one of three relations for multiword expressions (MWE
 
 `compound` in Western Armenian is used also for serial verbs (with the subtype [compound:svc]()), for light verbs (with the subtype [compound:lvc]()).
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:49 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:29 CET -->

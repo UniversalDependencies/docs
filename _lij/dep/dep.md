@@ -15,3 +15,4 @@ Euphonic _l’_ is a separate [PART]() token attached to the head of its clause 
 5	arriva	arrivâ	VERB	_	_	0	root	_	Gloss=arrives
 
 ~~~
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:37 CET -->

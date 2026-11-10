@@ -72,4 +72,4 @@ Names of stadiums, guerrilla bases, events, etc.
 #### Examples
 
 * _«Սավուա»_/_«Savowa»_ “Savoie” (hotel), _Եղեռն_/_Eġeṙn_ “Genocide”, _Զատիկ_/_Zatik_ “Easter”
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:01 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:48 CET -->

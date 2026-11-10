@@ -20,4 +20,4 @@ This feature further subclassifies the parts of speech [CCONJ]() and [SCONJ](); 
 
 * _<b>ոչ եթե</b>... <b>այլ</b>_/_<b>oč et’e</b>... <b>ayl</b>_ “not... but”
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:58:47 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:37 CET -->

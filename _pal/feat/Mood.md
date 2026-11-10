@@ -71,4 +71,4 @@ The subjunctive mood expresses a possibility.
 - optative: _agar=im pad tīr bē zanē weh <b>sahē</b> kū abar ēn pad gām rawam_ "(Even) if you shoot me with an arrow, it **would seem** better than going on this (bridge) by (one) step!"
 - subjunctive: _ud pidar pad ēn kū tā hamāg tan zahr nē rasēd frazand nē <b>mīrād</b> angust ī frazand brīnēd_ "And the father cuts the finger of the child so that the poison does not spread to the whole body (and) the child **would die**."
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:00 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:48 CET -->

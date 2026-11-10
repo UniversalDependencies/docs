@@ -17,3 +17,4 @@ This feature takes the following values:
 Abbreviations are common in ceremonial texts where repetitive words are abbreviated and usually followed by a punctuation mark.
 #### Examples:
 - _yazamaide_ "the name of a litany"
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:32 CET -->

@@ -29,4 +29,4 @@ Hyphenated compound [adjectives](ADJ), such as _անգլո-ամերիկյան_/_
 * _տեղեկացնում է «Արմենպրես»-<b>ը</b>_/_teġekacʼnowm ē «Armenpres»-<b>ë</b>_ “Armenpress reports”
 * _60-<b>ամյակ</b>_/_60-<b>amyak</b>_ “60th anniversary”
 * _92-<b>րդ</b>_/_92-<b>rd</b>_ “92nd”
-<!-- Interlanguage links updated Út 30. června 2026, 10:58:57 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:45 CET -->

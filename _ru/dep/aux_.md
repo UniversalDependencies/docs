@@ -30,4 +30,4 @@ aux(come, had)
 aux(пропустил, бы-8)
 aux(have-missed, would)
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:43 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:24 CET -->

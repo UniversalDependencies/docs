@@ -24,4 +24,4 @@ cop(Podstatou, je)
 csubj(The-essence, splits)
 cop(The-essence, is)
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:56 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:35 CET -->

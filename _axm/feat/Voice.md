@@ -86,4 +86,4 @@ The reciprocal is expressed by the passive suffix _-ու- (-ւ-, -վ-)/-ow- (-w-
 #### Examples
 
 * _...որ ունին զկապողութեան ուժն, եւ ունին զլուծման ուժն, եւ յիրար <b>խառնուեցան</b>_/_or ownin zkapoġowt’ean owžn, ew ownin zlowçman owžn, ew yirar <b>xaṙnowec’an</b>_ “...which possess the power of binding and the power of dissolving, and which <b>mixed with each other</b>”.
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:23 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:07 CET -->

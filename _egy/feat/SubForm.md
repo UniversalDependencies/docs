@@ -80,4 +80,4 @@ Wolfgang Schenkel, 2012. Tübinger Einführung in die klassisch-ägyptische Spra
 * TBA
 
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:19 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:04 CET -->

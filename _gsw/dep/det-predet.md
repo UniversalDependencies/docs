@@ -11,4 +11,4 @@ A predeterminer is the relation between the head of an NP and a word that preced
 in àlle die Lander \n In all these countries
 det:predet(Lander, àlle)
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 11:00:02 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:41 CET -->

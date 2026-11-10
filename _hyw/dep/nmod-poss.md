@@ -26,4 +26,4 @@ This relation is a subtype of the [nmod]() relation, which covers only those pos
 14	վիճակը	վիճակ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	10	nsubj	_	Translit=vič̣akë|LTranslit=vič̣ak|SpaceAfter=No
 ~~~
 
-<!-- Interlanguage links updated Út 30. června 2026, 11:00:20 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:55 CET -->

@@ -18,3 +18,4 @@ The value is applied to a third-person reflexive pronoun when it functions logop
   treat-CVBsim J-AUX **3SG.REFL** say.PRF<br>
   "(He) treated **me** like that," (he) said. (`Log`=`Yes` on _shie_, which is identical in form with the third person reflexive pronoun.)
 
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:47 CET -->

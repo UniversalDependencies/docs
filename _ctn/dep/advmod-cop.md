@@ -18,4 +18,4 @@ det:nmlz(NMLZ, down_there)
 nsubj(Igol, go)
 nsubj(Your_ball, NMLZ)
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:34 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:16 CET -->

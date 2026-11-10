@@ -42,4 +42,4 @@ See also the related features `Number[psor]` and `Deixis[psor]`.
 
 * _Թագուոր մի կայր, աչուի<b>ն</b> էր խաժ_/_T’agowor mi kayr, ačowin ēr xaž_ “There was a king; <b>his</b> eyes were sea-blue” `Number=Plur|Number[psor]=Sing|Person[psor]=3`
   
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:11 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:57 CET -->

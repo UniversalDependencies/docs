@@ -99,4 +99,4 @@ Converbs with the suffix _-alc_ (on the infinitive stem) occur in adverbial clau
 
 * _caarna naab qett-<b>alc</b>_<br>
   3PL.DAT sleep strike-**CVBuntil**<br>
-  'until they fell asleep'
+  'until they fell asleep'<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:38 CET -->

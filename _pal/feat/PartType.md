@@ -39,4 +39,4 @@ The adverbs _bē_ "out, away" and _hamē(w)_ "continuously" develop to aspect an
 - _čē andar zamīg be mānd az ān tōhmag xrafstar <b>hamē hambūsēnēnd</b>_ "Whatever remained inside the earth, (they) **developed** (imperfective) noxious creatues out of that seed."
 - _asmān ǰudgōhrīh rāy ōwōn <b>be tarsīd</b> čiyōn mēš az gurg larzēd_ "The sky **was** so **afraid** (perfective) due to its substantial differentness, just like a sheep trembling before a wolf."
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:08 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:55 CET -->

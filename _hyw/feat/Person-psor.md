@@ -56,4 +56,4 @@ See also the related features `Number[psor]` and `Deixis[psor]`.
 * _նոյնինք<b>ն</b>_/_noyninkʼ<b>n</b>_ “the very / himself / herself / itself” `Number=Sing|Person[psor]=3`
 
 Note that forms containing _-ն_/_-n_ or _-ը_/_-ë_ may be ambiguous, since these morphemes are also definite articles, and their function can only be determined from the context (see above).
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:11 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:57 CET -->

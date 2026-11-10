@@ -26,3 +26,4 @@ acl:relcl(dastwarān, mad)
 ~~~
 
 The relation "*hēnd* is auxiliary of *mad*" holds for both and only by checking for the absence or presence of another auxiliary, it is possible to decide whether the auxiliary verb is inflected and it is a plurperfect, or not, and it is a 'past tense'. Hence, the 'past tense' cannot be identified by the relation only.
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:24 CET -->

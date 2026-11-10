@@ -36,4 +36,4 @@ According to Demotic grammars, the infinitive has three forms: the absolute, the
 
 
 Interlanguage links updated St 12. listopadu 2025, 09:20:49 CET -->
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:19 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:03 CET -->

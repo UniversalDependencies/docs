@@ -38,3 +38,4 @@ obl(xwānīhēd, čim)
 xcomp(xwānīhēd, nasāy)
 nsubj:xsubj(nasāy, tan)
 ~~~
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:39:00 CET -->

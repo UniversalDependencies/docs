@@ -69,4 +69,4 @@ Similarly there may be other nodes (such as punctuation) that are attached to th
 
 Dates are annotated as follows: if present, the day is the head, the month is _nmod:poss_ and the year is _nummod_:
 
-<!-- Interlanguage links updated Út 30. června 2026, 11:00:26 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:39:00 CET -->

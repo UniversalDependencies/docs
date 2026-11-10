@@ -44,4 +44,4 @@ _Tháinig an féar glas <b>ann</b>_ 'The grass became green <b>there</b>'
 Tháinig an féar glas ann . \n Came the grass green in_it . 
 obl:prep(Tháinig, ann)
 ~~~ 
-<!-- Interlanguage links updated Út 30. června 2026, 11:00:36 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:39:07 CET -->

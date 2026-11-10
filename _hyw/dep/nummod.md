@@ -86,3 +86,4 @@ Dates in the day–month–year order are annotated with the day as the head, wh
 
 In addresses, a house number is attached to the street name with the `nmod` relation.
 
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:39:00 CET -->

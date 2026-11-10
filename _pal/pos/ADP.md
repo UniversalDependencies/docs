@@ -48,4 +48,4 @@ As especially locative relations can be unflagged, denominal adpositions cannot 
 If adverbs follow a prepositional phrase, we do *not* consider them postpositions of that prepositional phrase:
 - _pad šnūg <b>andar</b> ōbast_ "(he) fell on (his) knee" <br>as (pad šnūg) + (andar ōbast) and not (pad šnūg andar) + (ōbast).
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:58:33 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:25 CET -->

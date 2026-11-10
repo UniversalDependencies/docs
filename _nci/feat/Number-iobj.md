@@ -26,4 +26,4 @@ Examples:
 Examples: 
 
 * [nci] 
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:05 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:52 CET -->

@@ -98,4 +98,4 @@ The auxiliary _պիտի_/_piti_ is derived from the present-tense form of the ve
 * _<b>պիտի</b> որ ելնէ յ իրմէ զէդ կորեկի հատեր_/_<b>piti</b> or elnē y irmē zēd koreki hater_ “grains like millet should come out from it”,
 * _հիւանդութիւնն երկար <b>կամի</b> քաշել_/_hiwandowtʼiwnn erkar <b>kami</b> kʼašel_ “the illness tends to last for a long time”.
 
-  <!-- Interlanguage links updated Út 30. června 2026, 10:59:00 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:47 CET -->

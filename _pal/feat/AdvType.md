@@ -41,4 +41,4 @@ Adverbs indicating time.
 _ud andak āhōg ī xwēš be wirāstan <b>pas</b> āhōg kasān bē guftan_ "And (one) has to correct one's own smallest fault, **then** point the fault of others!"
 
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:58:41 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:32 CET -->

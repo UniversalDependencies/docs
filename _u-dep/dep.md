@@ -20,4 +20,4 @@ advmod(good, not)
 advmod(good, that)
 ~~~
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:58 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:37 CET -->

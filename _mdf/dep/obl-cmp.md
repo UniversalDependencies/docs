@@ -16,4 +16,4 @@ obl:cmp(пароль, пародонга)
 
 ~~~
 
-<!-- Interlanguage links updated Út 30. června 2026, 11:00:32 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:39:04 CET -->

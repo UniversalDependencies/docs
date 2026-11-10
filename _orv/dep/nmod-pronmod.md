@@ -14,4 +14,4 @@ nmod:pronmod(any, be)
 advmod(буди, ни)
 advmod(be, not)
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 11:00:36 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:55 CET -->

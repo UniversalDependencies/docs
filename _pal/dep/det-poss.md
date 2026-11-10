@@ -29,3 +29,4 @@ pid ī man \n father EZ I
 det(man, ī)
 nmod(pid, man)
 ~~~
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:41 CET -->

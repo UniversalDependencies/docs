@@ -18,3 +18,4 @@ The `expl:pass` relation is used for _se_ when it functions as a passivising cli
 ~~~
 
 Impersonal _se_ takes [expl:impers](). An inherently reflexive clitic takes [expl:pv](), while a reflexive clitic that realises an argument takes [obj]() or [iobj]().
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:45 CET -->

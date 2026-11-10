@@ -33,3 +33,4 @@ for example as the predicate of "X is mine/yours".
 * [cux] _Kuetíchi kon <b>ñeʼed</b>._ "Esa canasta es tuya."
 * [cux] _Gua yana <b>ñeʼë</b>._ "No tengo perro."
 * [cux] _Ká ama it dítuu tumin techkó noʼo <b>nukut</b>._ "Compré una mula para acarrear leña."
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:50 CET -->

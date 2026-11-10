@@ -72,4 +72,4 @@ fixed(Oleh, itu)
 advmod(berobat, Oleh)
 advmod(seek, Therefore)
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 11:00:08 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:45 CET -->

@@ -23,4 +23,4 @@ Ukrainian uses the `advcl:pred` relation for optional depictives. See issue [#47
 4	.	_	_	_	_	0	root	_	_
 
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:32 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:14 CET -->

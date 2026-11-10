@@ -26,4 +26,4 @@ et era deyt que ed sabia melhs las costumas de la terra \and it was said that he
 aux:pass(deyt, era)
 ~~~
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:42 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:23 CET -->

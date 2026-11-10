@@ -24,4 +24,4 @@ etymologically explained as fusions of multiple words, e.g., _despre = de + spre
 * _<b>după</b>_ “after”
 * _<b>prin</b>_ “through”
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:58:47 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:37 CET -->

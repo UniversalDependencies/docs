@@ -103,4 +103,4 @@ On the other hand, leaving out _մտահոգիչ_ “worrying” in _նա որո
 
 The result is that in _Նա մոլոր մտավ սենյակ,_ “She entered the room errant”, _մոլոր_ “errant” will depend on _Նա_ “She” and the relation will be [acl]() instead of `xcomp`.
 
-<!-- Interlanguage links updated Út 30. června 2026, 11:00:44 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:39:14 CET -->

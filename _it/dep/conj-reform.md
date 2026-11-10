@@ -19,3 +19,4 @@ The specialization is used in KIParla, a corpus of spoken Italian, for reformula
 8	stesso	stesso	ADJ	_	_	7	amod	_	_
 9	e	e	CCONJ	_	_	2	cc	_	_
 ~~~
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:34 CET -->

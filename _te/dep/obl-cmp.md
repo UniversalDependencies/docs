@@ -30,4 +30,4 @@ punct(చిన్న, .-4)
 
 ~~~
 
-<!-- Interlanguage links updated Út 30. června 2026, 11:00:32 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:39:04 CET -->

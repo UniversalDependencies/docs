@@ -31,4 +31,4 @@ This is a special class of [adverbial modifiers](advmod). While other adverbial 
 7	ետ	ետ	ADV	_	_	8	compound:lvc	_	Translit=et|LTranslit=et
 8	դարձաւ	դառնալ	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Subcat=Intr|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	Translit=darjaw|LTranslit=daṙnal
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:34 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:17 CET -->

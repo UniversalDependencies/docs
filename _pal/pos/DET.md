@@ -35,4 +35,4 @@ The _ezāfe_ particle has also been analysed as a preposition, which is challeng
 The numeral _ēw_ "one" has an enclitic variant, which can also be interpreted as "one specific" or "any one", as such developing to a determiner. Its use is apparent with the antecedent of relative clauses, where its use becomes regular in New Persian.
 - _<b>band=ē</b> ī az band=ē saxttar waran_ "a chain, which (is) stronger than whatever chain, (is) desire"
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:58:35 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:26 CET -->

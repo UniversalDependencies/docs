@@ -25,4 +25,4 @@ The entity is close to the reference point (e.g., to the speaker).
 * _մարդիկ կան որ դերասաններ են <b>աշխարհիս</b> վրայ_/_mardik kan or derasanner en <b>ašxarhis</b> vray_ “there are people who are actors in this world”,
 * _<b>մարդուս</b> աչքերը կը շլանան_/_<b>mardows</b> ačkʼerë kë šlanan_ “a person's eyes get dazzled”.
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:58:50 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:39 CET -->

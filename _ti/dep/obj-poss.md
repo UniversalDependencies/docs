@@ -23,3 +23,4 @@ obj:poss(ኣላታ, ኣስቴር)
 ~~~
 
 "Aster has a car." (ti_ref_7b)
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:39:03 CET -->

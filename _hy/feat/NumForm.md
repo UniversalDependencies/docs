@@ -47,4 +47,4 @@ Feature of all [number types](NumType). Is the number expressed by digits or as 
 #### Examples
 
 * _1-ին_/_1-in_ “1st”, _15-րդ_/_15-rd_ “15th”
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:03 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:50 CET -->

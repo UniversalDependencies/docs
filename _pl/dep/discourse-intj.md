@@ -38,4 +38,4 @@ The `discourse:intj` relation in the Polish [PDB-UD](http://universaldependencie
 11	questions	_	_	_	_	_	_	_	_
 12	.	_	_	_	_	_	_	_	_
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 11:00:04 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:42 CET -->

@@ -31,4 +31,4 @@ Transitive verbs show accusative alignment with verb forms derived from the so-c
 - object (_ašmāh_) in agreement with the verb (_hēd_): _wizīd=uš **hēd ašmā** u=š druyist kird **hēd**_ "he (obl.) has chosen **you** and he (obl.) has made **(you)** well"
 - passive interpretation: _ōy kē **xwadāymard** az=iš āzard ēstēd dūr waštan_ "The one by whom **the master** has been hurt is to be removed!"
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:20 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:04 CET -->

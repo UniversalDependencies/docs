@@ -35,4 +35,4 @@ See also the related feature [Person[psor]]() and [Deixis[psor]]().
 * _տուն<b>ներս</b>_/_town<b>ners</b>_ “<b>our</b> houses” `Number[psor]=Plur|Number=Plur`
 * _գալ<b>ներս</b>_/_gal<b>ners</b>_ “<b>our</b> coming” `Number[psor]=Plur|Number=Coll`
 * _հետ<b>ներս</b>_/_het<b>ners</b>_ “with <b>us</b>” `Number[psor]=Plur`
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:06 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:53 CET -->

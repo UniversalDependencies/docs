@@ -22,4 +22,4 @@ The `appos` relation is used when a noun phrase is apposed to another one.
 8	!	!	PUNCT	_	_	5	punct	_	_
 ~~~
 'King Allah blessed me!'
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:39 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:20 CET -->

@@ -34,4 +34,4 @@ onanka oiba \n what's_his_name husband
 nmod:desc(onanka, oiba)
 nmod:desc(onanka, husband)
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 11:00:18 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:53 CET -->

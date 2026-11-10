@@ -7,4 +7,4 @@ udver: '2'
 
 `ccomp` is a complement of a verb that is a clause. The deverbal forms that are
 lexicalised as non-verbs should not have ccomps, but use [acl]() instead.
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:47 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:27 CET -->

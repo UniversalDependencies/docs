@@ -18,4 +18,4 @@ case(-ზე, ცა)
 'They come the hard way.'
 obl(მოდიან, გზებით)
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 11:00:30 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:39:03 CET -->

@@ -32,3 +32,4 @@ det(ōy, ī)
 mark(gōwēd, kē)
 acl:cleft(ōy, gōwēd)
 ~~~
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:09 CET -->

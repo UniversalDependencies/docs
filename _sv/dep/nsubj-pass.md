@@ -12,4 +12,4 @@ subject of a passive clause.
 En ändring krävs av politiker . \n A change is required by politicians .
 nsubj:pass(krävs, ändring)
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 11:00:25 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:59 CET -->

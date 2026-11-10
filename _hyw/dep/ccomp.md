@@ -106,4 +106,4 @@ If the speech verb interrupts the reported speech content, [parataxis]() is used
 11	։	։	PUNCT	_	_	2	punct	_	Translit=.|LTranslit=.
 ~~~
 
-<!-- Interlanguage links updated Út 30. června 2026, 11:00:44 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:26 CET -->

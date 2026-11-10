@@ -34,3 +34,4 @@ aux(ጠምዩዎ, ኣሎ)
 "The child is hungry." (ti_ref_182)
 
 With the same verb, the experiencer can also be the subject, agreeing with the subject marking of the verb (እቲ ቆልዓ ጠምዩ ኣሎ / *ʔti k'olʕa t'əmyu ʔallo*, ti_ref_180); it is then [nsubj](https://universaldependencies.org/u/dep/nsubj.html)
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:39:02 CET -->

@@ -28,4 +28,4 @@ This subtype of `compound` covers light verbs in Western Armenian.
 6	չեն	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	7	aux	_	Translit=čen|LTranslit=em
 7	առներ	առնել	VERB	_	Aspect=Imp|Connegative=Yes|Subcat=Tran|VerbForm=Part|Voice=Act	0	root	_	Translit=aṙner|LTranslit=aṙnel
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:51 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:30 CET -->

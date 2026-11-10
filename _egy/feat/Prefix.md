@@ -28,4 +28,4 @@ In Demotic, most adjective verbs are formed using the prefix nꜣ to express a �
 #### Example
 
 * _pꜣy.n nb ꜥꜣ nꜣ:nḫṱ swr ḳlby (n) Km(.t)_ “Our lord, drinking a vat of Egyptian wine is overpowering”.
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:13 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:59 CET -->

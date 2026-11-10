@@ -80,4 +80,4 @@ Date expressions that have a clear syntactic structure should be annotated with 
 6	2021	2021	NUM	_	NumForm=Digit|NumType=Card	3	flat	_	Translit=2021|LTranslit=2021
 ~~~
 
-<!-- Interlanguage links updated Út 30. června 2026, 11:00:09 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:46 CET -->

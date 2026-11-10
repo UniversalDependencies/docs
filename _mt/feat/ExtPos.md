@@ -76,4 +76,4 @@ In Maltese, this is the most common type of fixed expression, typically consisti
 
 This also includes the circumstantial `SCONJ` that consists of a `PRON` and the `CCONJ` _u_:
 * [mt] _Niftakar <b>jien u</b> nilbisha ħassejtha tiżloq fuqi._ "I remember how <b>when I</b> put it on, it felt slippery on me.
-<!-- Interlanguage links updated Út 30. června 2026, 10:58:52 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:41 CET -->

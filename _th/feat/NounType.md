@@ -52,4 +52,4 @@ To nominalize a clause semantically, each of them follows a particular pattern.
 * เขามี<b>ความ</b>มั่นใจใน<b>การ</b>ทำงาน / khǎw miː <b>khwaːm</b> mân-caj naj <b>kaːn</b> tham-ŋaːn "He is confident in his work."
 * <b>การ</b>ที่เราวิ่งอย่างสม่ำเสมอทำให้ร่างกายแข็งแรง / <b>kaːn</b> thîː raw wîŋ jàːŋ sà-màm-sà-mɤ̌ː tham-hâj râːŋ-kaːj khɛ̌ːŋ-rɛːŋ "Running regularly keeps us healthy and strong."
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:03 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:50 CET -->

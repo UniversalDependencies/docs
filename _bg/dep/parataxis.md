@@ -19,4 +19,4 @@ parataxis(каза-7, отиват-3)
 These means go for medicine , said boss_the .
 parataxis(said-7, go-3)
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 11:00:38 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:39:09 CET -->

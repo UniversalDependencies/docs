@@ -25,3 +25,4 @@ Person of the object suffix of a verb. The feature records the person of the pro
 #### Examples
 
 * ሂቡዎ / *hibuwo* "he gave it": `Person=3|Person[obj]=3` (ti_ref_147)
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:57 CET -->

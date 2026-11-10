@@ -18,3 +18,4 @@ Gender of the object suffix of a verb. Tigrinya verbs agree with their object by
 #### Examples
 
 * ቀሊዑዋ / *k'əliʕuwa* "he hit it (fem.)": `Gender=Masc|Gender[obj]=Fem` (ti_ref_152)
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:44 CET -->

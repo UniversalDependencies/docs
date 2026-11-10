@@ -39,4 +39,4 @@ The future tense denotes actions that will happen after the current moment. In I
 * _Fan<b>faidh</b> sé_ "He will stay"
 * _Tos<b>óidh</b> sí_ "She will start"
 * _<b>Beidh</b> siad_ "They will be"
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:20 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:05 CET -->

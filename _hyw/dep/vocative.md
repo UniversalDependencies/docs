@@ -33,4 +33,4 @@ In Armenian vocative is always [indefinite](Definite) and always in nominative [
 13	։	։	PUNCT	_	_	3	punct	_	Translit=.|LTranslit=.
 ~~~
 
-<!-- Interlanguage links updated Út 30. června 2026, 11:00:44 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:39:14 CET -->

@@ -16,4 +16,4 @@ aux(vrea, Aș)
 ~~~
 
 Exception: The auxiliary verb used to construct the passive voice is not labeled 'aux', but 'auxpass'.
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:43 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:24 CET -->

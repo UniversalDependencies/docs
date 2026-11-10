@@ -91,4 +91,4 @@ Multiword adpositions are often grammaticalized prepositional phrases.
 #### Examples
 
 * _<b>ափսոս որ</b>_/_apʼsos vor_ (a multiword interjection paraphrasable as “it's a pity that”; _ափսոս_/_apʼsos_ = [INTJ]())
-<!-- Interlanguage links updated Út 30. června 2026, 10:58:52 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:41 CET -->

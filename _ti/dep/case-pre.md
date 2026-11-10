@@ -26,3 +26,4 @@ obl(ተባሕጒጉ, ማይ)
 ~~~
 
 "The road was eroded with water." (ti_ref_16)
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:25 CET -->

@@ -45,4 +45,4 @@ These fill a valency slot in the frame of the subordinate predicate, and are lab
 7	.	.	PUNCT	_	_	10	punct	_	Translit=.|LTranslit=.
 ~~~
 
-<!-- Interlanguage links updated Út 30. června 2026, 11:00:14 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:50 CET -->

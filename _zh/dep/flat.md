@@ -72,4 +72,4 @@ The `flat` relation is used to link names without internal structure (unlikely i
 3	2012"	_	_	_	_	0	_	_	_
 
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 11:00:09 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:46 CET -->

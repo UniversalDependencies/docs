@@ -23,4 +23,4 @@ For example, in meta-ritual and exegetical discussions, Avestan words are often 
 #### Examples:
 - _pad harw <b>xsaoϑra</b> ēsm ud bōy tāg=ē ō ātaxš dahišn_ "At each (pronunciaton of the word) **xsaoϑra**, he should put one twig of ritual fire wood and incense onto the fire."
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:58:53 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:42 CET -->

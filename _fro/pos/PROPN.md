@@ -15,4 +15,4 @@ A proper noun is a noun (or nominal content word) that is the name (or part of t
 - _Lancelot_
 - _Arimacie_
 - _Bretaigne_
-<!-- Interlanguage links updated Út 30. června 2026, 10:58:38 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:29 CET -->

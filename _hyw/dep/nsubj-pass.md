@@ -39,5 +39,5 @@ A passive nominal subject is a noun phrase which is the syntactic subject of a p
 17	քարոզելու	քարոզել	VERB	_	Case=Dat|Definite=Ind|Polarity=Pos|Subcat=Tran|VerbForm=Inf|Voice=Act	8	advcl	_	Translit=k’arozelow|LTranslit=k’arozel
 ~~~
 
-<!-- Interlanguage links updated Út 30. června 2026, 11:00:25 CEST -->
 
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:59 CET -->

@@ -98,4 +98,4 @@ Additionally, the object in a verb-object compound may be modified (by an adject
 
 Note that when both the verb and the object are monosyllabic and they are adjacent without intervening material, they are treated as a single word in the tokenization/word segmentation stage.
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:53 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:32 CET -->

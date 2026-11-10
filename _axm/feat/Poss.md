@@ -24,4 +24,4 @@ Note that there is no `No` value. If the word is not possessive, the `Poss` feat
 
 * possessive personal pronouns / determiners: _իմ_/_im_ “my”, _քո_/_ko_ “your”, _իւր(իր)_/_iwr (ir)_ “his/her/its”, _մեր_/_mer_ “our”, _ձեր_/_jer_ “your” (pl.), _իրենց (իրանց, իւրեանց, իւրենց)_/_irenc’ (iranc’, iwreanc’,  iwrenc’)_ “their”
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:13 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:58 CET -->

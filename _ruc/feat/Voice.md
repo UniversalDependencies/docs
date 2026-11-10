@@ -72,4 +72,4 @@ It shows that the object argument is referentially identical with the subject ar
 #### Examples
 
 * _w<b>ee</b>sweke_ "cover yourself"
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:24 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:08 CET -->

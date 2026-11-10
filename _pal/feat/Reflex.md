@@ -25,4 +25,4 @@ There are no inherently reflexive verbs in Middle Persian.
 - anaphoric _xwēštan_: _čē kē xešm aweštābēd u=š <b>xwēštan</b> wirāstan tuwān pad wehīh_ "For whoever is overcome by anger can (once again) calm **themselves** through goodness."
 - possessive _xwēš_: _mard=ē kē duxt <b>ī xwēš</b> rāy gōwēd_ "a man says about **his** daughter"
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:17 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:02 CET -->

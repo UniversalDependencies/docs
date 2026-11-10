@@ -118,4 +118,4 @@ may be expressed using other cases (e.g. because those cases are required by a p
 
 * _Նա 7-10 օր անցկացնելու է <b>Հայաստանում</b>։_/_Na 7-10 òr anc’kac’nelow ē <b>Hayastanowm</b>։_ “He/She will spend 7-10 days <b>in Armenia</b>.”
 * _փլվեց տասը <b>օրում</b>_/_p’lvec’ tasë <b>òrowm</b>_ “it collapsed <b>in ten days</b>”
-<!-- Interlanguage links updated Út 30. června 2026, 10:58:44 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:35 CET -->

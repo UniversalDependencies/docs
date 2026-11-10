@@ -25,3 +25,4 @@ obl:agent(kunišn, dūdag)
 nsubj:pass(kunišn, tōzišn)
 advmod(kunišn, bē)
 ~~~
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:39:04 CET -->

@@ -45,4 +45,4 @@ Between active and passive, needed for the reflexive verbs (in all forms except 
 Anna Siewierska. 2013. Passive Constructions. In: Dryer, Matthew S. & Haspelmath, Martin (eds.)
 The World Atlas of Language Structures Online. Leipzig: Max Planck Institute for Evolutionary Anthropology.
 (http://wals.info/chapter/107)
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:24 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:08 CET -->

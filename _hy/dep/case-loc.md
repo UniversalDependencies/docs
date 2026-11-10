@@ -36,4 +36,4 @@ A localizer is attached either to the noun it follows or directly to the main ve
 12	։	։	PUNCT	_	_	5	punct	_	Translit=.|LTranslit=.
 ~~~
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:45 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:25 CET -->

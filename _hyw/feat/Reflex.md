@@ -25,4 +25,4 @@ Note that there is no `No` value. If the word is not reflexive, the `Reflex` fea
 
 * reflexive personal pronouns: _իր, իրեն_/_ir, iren_ “himself/herself/itself”, _իրենց_/_irencʼ_“themselves” (occur in various cases but not in nominative and distinguish [Number]())
 * reflexive possessive determiners: _իր_/_ir_ “his/her/its own”, _իրենց_/_irencʼ_ “their own”
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:16 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:02 CET -->

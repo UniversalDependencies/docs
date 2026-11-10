@@ -45,4 +45,4 @@ objects within a set.
 #### Examples
 
 * _toto je <b>nejmladší</b> muž v našem týmu&nbsp;_ “this is the <b>youngest</b> man in our team”
-<!-- Interlanguage links updated Út 30. června 2026, 10:58:49 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:38 CET -->

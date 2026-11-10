@@ -42,4 +42,4 @@ between languages.
 
 Since VerbForms are so various in Uralics, the language-specific documentation
 should include an overview to this.
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:23 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:07 CET -->

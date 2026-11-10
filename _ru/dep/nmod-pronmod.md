@@ -16,4 +16,4 @@ advmod(came, where)
 advmod(знает, Бог)
 advmod(knows, God)
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 11:00:36 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:55 CET -->

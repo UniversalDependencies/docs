@@ -42,4 +42,4 @@ The `aux:ex` relation links the future and resultative participles (i.e. the gov
 ~~~
 
 For more details see [specific-syntax](http://universaldependencies.org/hyw/overview/specific-syntax.html).
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:41 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:22 CET -->

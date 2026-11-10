@@ -25,4 +25,4 @@ For coordinating conjunctions, see [CCONJ]().
 - _եթե_/_et’e_ “if”
 - _քան_/_k’an_ “than”
 - _ուստի_/_owsti_ “hence”
-<!-- Interlanguage links updated Út 30. června 2026, 10:58:38 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:29 CET -->

@@ -25,3 +25,4 @@ The `nsubj:pass` relation is used for the passive subject of a verb in Tangut.
 4	handcuff	_	_	_	_	0	_	_	_
 5	put	_	_	_	_	0	_	_	_
 ~~~
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:59 CET -->

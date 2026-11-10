@@ -68,4 +68,4 @@ Jos yra dviese . \n They are two .
 cop(dviese, yra)
 Cop(two, are)
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:55 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:35 CET -->

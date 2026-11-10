@@ -78,4 +78,4 @@ Present-tense forms in the subjunctive, conditional, and necessitative moods may
 * _գիտենամ_/_gitenam_ “(if) I know `Sub`”,
 * _արժենամ_/_arženam_ “(if) I am worth `Sub`”
 * _լինեմ_/_linem_ “I am / I will be `Sub`”.
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:20 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:05 CET -->

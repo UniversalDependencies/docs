@@ -38,4 +38,4 @@ Moreover, dates are also connected with the relation `flat`.
 flat(24, Dezember)
 flat(24, 2011)
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 11:00:09 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:46 CET -->

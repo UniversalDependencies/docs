@@ -28,4 +28,4 @@ Doubling a word to express distribution ("one X each"), separation (e.g. "sit se
 - _drust drust_ "completely whole" (lit. whole whole)
 - _gyāg gyāg_ "everywhere" (lit. place place)
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:58:51 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:40 CET -->

@@ -61,3 +61,4 @@ It is marked with the prefix _b-_.
 
 ## References
 Komen, Erwin R., Zarina Molochieva, and Johanna Nichols, 'Chechen and Ingush', in Maria Polinsky (ed.), 317–365. The Oxford Handbook of Languages of the Caucasus. Oxford: Oxford University Press.
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:50 CET -->

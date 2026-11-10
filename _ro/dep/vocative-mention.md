@@ -18,4 +18,4 @@ However, just like hashtags, whenever they are syntactically integrated into the
 vorba lui @user
 nmod(vorba, @user)
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 11:00:44 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:39:14 CET -->

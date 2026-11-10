@@ -13,4 +13,4 @@ Both speaker and addressee are analysed with a new relation called `discourse:pa
 discourse:participant (tɛ́-ʔɔ̀, wà)
 ~~~
 
-<!-- Interlanguage links updated Út 30. června 2026, 11:00:04 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:42 CET -->

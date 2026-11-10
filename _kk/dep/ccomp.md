@@ -51,4 +51,4 @@ obl(шық-3, Төрге-2)
 punct(демепті-10, .-11)
 ~~~
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:46 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:26 CET -->

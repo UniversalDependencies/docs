@@ -20,4 +20,4 @@ conj (pláštašo, čülǽkove)
 cc (pláštašo, - dush)
 ~~~
 -->
-<!-- Interlanguage links updated Út 30. června 2026, 11:00:31 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:39:04 CET -->

@@ -12,4 +12,4 @@ The deprel `conj:dbl` is used for dependency relation of cases of doubling. Doub
 conj:dbl ([QUOI]-10,[QUOI]-12)
 ~~~
 
-<!-- Interlanguage links updated Út 30. června 2026, 11:00:34 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:33 CET -->

@@ -36,4 +36,4 @@ See also the related features of [Person[psor]]() and [Number[psor]]().
 #### Examples
 
 * _<b>իշխանքն</b>_/_išxank’n_ “princes-the”
-<!-- Interlanguage links updated Út 30. června 2026, 10:58:48 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:38 CET -->

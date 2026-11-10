@@ -15,4 +15,4 @@ This usage does not extend to ordinary loan words, which should instead be assig
 
 Note that the articles, prepositions, and filiation markers occurring in foreign names (_դը_/_dë_, _դե_/_de_, _դ՚_/_d՚_, _ֆոն_/_fon_, _դել_/_del_, _վան_/_van_, _օղլու_/_òġlow_, _աբու_/_abow_) are also tagged [X]().
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:58:39 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:30 CET -->

@@ -67,4 +67,4 @@ The `Polarity` feature can be also used to distinguish response
 * [en] _<b>nor</b>_
 * [en] _<b>no</b>_ as in _no, I don't think so;_ but not as in _we have no bananas_
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:12 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:58 CET -->

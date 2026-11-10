@@ -29,4 +29,4 @@ Hyphenated compound [adjectives](ADJ), such as _առասպելա-բանաստե�
 * _60-<b>ականներէն</b>_/_60-<b>akannerēn</b>_ “since the '60s”
 * _20:00-<b>ին</b>_/_20:00-<b>in</b>_ “at 20:00”
 * _ԱՄՆ-<b>ի</b> մէջ_/_AMN-<b>i</b> mēǰ_ “in the USA”
-<!-- Interlanguage links updated Út 30. června 2026, 10:58:57 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:45 CET -->

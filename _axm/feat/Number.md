@@ -84,4 +84,4 @@ Some geographical or biological/botanical names appear only in the plural form e
 * _<b>երանք</b>_/_erank’_ “loins”
 * _<b>մեղանք</b>_/_meġank’_ “wickedness”
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:04 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:51 CET -->

@@ -18,3 +18,4 @@ mark(በጽሐ, ዝ-)
 "It was in the evening that he arrived home." (ti_ref_39a)
 
 When the clefted element is itself a clause with its own subject, the relativized clause is annotated as [csubj:outer](https://universaldependencies.org/ti/dep/csubj-outer.html) instead.
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:36 CET -->

@@ -16,4 +16,4 @@ nmod:lfrom(to_close-2, house-1)
 
 ~~~
 
-<!-- Interlanguage links updated Út 30. června 2026, 11:00:19 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:54 CET -->

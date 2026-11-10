@@ -33,4 +33,4 @@ Other examples:
 * _Chceme se sejít <b>ještě</b> tento týden._ lit. _We-want to meet <b>still</b> this week._ “We want to meet before this week ends.”
 * _u <b>asi</b> 20 titulů_ “by <b>around/approximately</b> 20 items”
 * _Dá se to dokumentovat <b>právě</b> na početné skupině dětí._ “It can be shown <b>just</b> on a large group of children.”
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:35 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:17 CET -->

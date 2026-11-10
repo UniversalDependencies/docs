@@ -20,3 +20,4 @@ The `csubj:pass` relation is used for a clause that functions as the syntactic s
 ~~~
 
 A clausal subject of a non-passive predicate takes the plain [csubj]() relation.
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:37 CET -->

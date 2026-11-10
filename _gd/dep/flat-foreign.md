@@ -21,4 +21,4 @@ pw08\_018
 8	esan	e	PRON	Pp3sm-e	Form=Emp|Gender=Masc|Number=Sing|Person=3	7	nsubj	_	SpaceAfter=No
 9	.	.	PUNCT	Fe	_	2	punct	_	_
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 11:00:09 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:46 CET -->

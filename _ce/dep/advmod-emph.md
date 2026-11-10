@@ -42,3 +42,4 @@ uh     hwra ju       q   dik  hum   t'e tasa      'a
 INTERJ DEM  J-be.PRS CL  good thing on  cover.INF CL
 "Oh, this is a good thing to cover (with)."
 ~~~
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:17 CET -->

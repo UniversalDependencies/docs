@@ -67,4 +67,4 @@ Note that in Middle Armenian copulas are also tagged `AUX` and the definition of
 
 - Causative voice. The finite form of _տալ_/_tal_ (in various tenses and moods) is combined with infinitive of the content verb. The auxiliary expresses aspect, person, number, tense, and mood. The auxiliary carries the feature `Voice=Cau`. There will also be voice information at the infinitive:
   * _զամէնն հնազանդութեամբ բերէ եւ <b>չտայ</b> `Cau` <b>սպաննել</b>_ `Act`/_amēnn hnazandowt’eamb berē ew <b>čtay spannel</b>_ lit. he will bring them all into submission and <b>will not have</b> them <b>killed</b>.
-<!-- Interlanguage links updated Út 30. června 2026, 10:58:34 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:25 CET -->

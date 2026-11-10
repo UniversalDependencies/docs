@@ -119,4 +119,4 @@ marks the property being compared. It occurs in Turkish.
 
 * _ben_ "I"; _<b>bence</b>_ "like me"
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:58:44 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:35 CET -->

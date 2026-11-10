@@ -10,4 +10,4 @@ A proper noun is a noun that is the name (or part of the name) of a specific ind
 See [NOUN]() for nouns and [PRON]() for pronouns.
 
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:58:37 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:29 CET -->

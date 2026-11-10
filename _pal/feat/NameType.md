@@ -53,4 +53,4 @@ Personal name is only used if one cannot decide whether a name is a given name o
 #### Examples:
 - _hanǰamanīyān ī narān ud mādagān yazam ud **amahrspandān** kē nar =iz mādag =iz awēšān weh hēnd_ "I worship the pantheon of the male and female. **Amahraspandān** of whom both the male and female are the best."
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:01 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:48 CET -->

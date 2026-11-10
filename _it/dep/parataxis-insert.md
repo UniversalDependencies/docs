@@ -44,4 +44,4 @@ In the following example the first *dicono* is the root and governs the reported
 It differs from [parataxis:parenth](parataxis-parenth), which marks a parenthetical clause with content of its own (*così come descritto sul programma*), and from [parataxis:restart](parataxis-restart), where the speaker abandons a construction and restarts it.
 
 
-<!-- Interlanguage links updated Út 30. června 2026, 11:00:40 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:39:10 CET -->

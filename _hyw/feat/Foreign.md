@@ -24,4 +24,4 @@ Note that the articles and prepositions in foreign names (_դը_/_dë_, _դե_/_
 
 * _<b>աղորիմու</b> (յունարէն՝ մանչս)_/_<b>aġorimow</b> (yownarēn, mančs)_ “aghorimu (Greek for “my boy”)”,
 * _ունեցանք էջ <b>Instagram</b> վրայ_/_ownecʼankʼ ēǰ <b>Instagram</b> vray_ “We created an Instagram page”.
-<!-- Interlanguage links updated Út 30. června 2026, 10:58:53 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:42 CET -->

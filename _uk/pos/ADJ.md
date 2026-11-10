@@ -64,4 +64,4 @@ Most Ukrainian adjectives inflect for
 
 <!--Here both groups are `ADJ`. The nominal forms are used in predication,-->
 <!--the standard forms both in predication and to modify nouns.-->
-<!-- Interlanguage links updated Út 30. června 2026, 10:58:33 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:24 CET -->

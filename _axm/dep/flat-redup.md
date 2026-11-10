@@ -52,4 +52,4 @@ Reduplication is a common process especially for [adverbs](ADV) and [adjectives]
 
 ~~~
 
-<!-- Interlanguage links updated Út 30. června 2026, 11:00:11 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:47 CET -->

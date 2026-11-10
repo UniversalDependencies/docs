@@ -29,4 +29,4 @@ _<b>fidbaidae</b> fál_ "a hedge <b>of trees</b>"
 fidbaidae fál \n of_trees a_hedge
 nmod:pre(fál, fidbaidae)
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 11:00:20 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:55 CET -->

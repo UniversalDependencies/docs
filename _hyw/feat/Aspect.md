@@ -96,4 +96,4 @@ Note that in Western Armenian iterative is considered as a lexical feature of [v
 * _թռչիլ_/_t’ṙčil_ “to jump”, _<b>թռչկոտիլ</b>_/_<b>t’ṙčkotil</b>_ “to hop”,
 * _կտրել_/_ktrel_ “to cut”, _<b>կտրտել</b>_/_<b>ktrtel</b>_ “to chop, to dice”,
 * _կռուիլ_/_kṙowil_ “to quarrel”, _<b>կռուըտիլ</b>_/_<b>kṙowëtil</b>_ “to bicker, to squabble”.
-<!-- Interlanguage links updated Út 30. června 2026, 10:58:43 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:34 CET -->

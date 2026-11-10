@@ -26,3 +26,4 @@ The `discourse:sp` relation is used for sentence-final particles in Tangut.
 4	said	_	_	_	_	0	_	_	_
 5	many	_	_	_	_	0	_	_	_
 ~~~
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:42 CET -->

@@ -17,3 +17,4 @@ This feature is applied to reported speech introduced as the complement of an ut
 6	.	.	PUNCT	_	_	5	punct
 
 ~~~
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:28 CET -->

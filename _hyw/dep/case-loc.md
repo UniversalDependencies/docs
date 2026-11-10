@@ -52,4 +52,4 @@ A localizer is attached either to the noun it follows or directly to the main ve
 13	նետեց	նետել	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Subcat=Tran|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	Translit=netec’|LTranslit=netel
 14	վրայէն	վրայ	ADP	_	AdpType=Post|Case=Abl|Definite=Def	13	obl	_	Translit=vrayēn|LTranslit=vray
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:45 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:25 CET -->

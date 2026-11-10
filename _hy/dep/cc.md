@@ -53,4 +53,4 @@ cc(heard, or)
 conj(տեսել, լսել)
 conj(seen, heard)
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:46 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:26 CET -->

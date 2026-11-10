@@ -27,4 +27,4 @@ Auxiliary verbs are not annotated as `VERB` but as `AUX`.
 [Verbal nouns](VerbForm) typically appear as `NOUN`s but can also be used as [necessitatives](Mood), in case of which they are annotated as `VERB`s. Infinitival clauses are considered as being headed by a `VERB`. This also includes periphrastic constructions (e.g. with modal verbs) where the dependent verb appears in its infinitival form.<br/>
 In Middle Persian translations of Avestan text, deverbal nominal derivations appear to be used as predicates (e.g. nomina agentes), probably in an attempt to find an equivalent for the more complex Avestan verbal morphology. If syntax suggests a clausal structure, such heads are annotated as `VERB` as well.
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:58:39 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:30 CET -->

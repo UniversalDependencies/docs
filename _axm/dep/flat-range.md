@@ -27,4 +27,4 @@ Middle Armenian uses `flat:range` for numerical, spacial and time ranges.
 
 ~~~
 
-<!-- Interlanguage links updated Út 30. června 2026, 11:00:11 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:47 CET -->

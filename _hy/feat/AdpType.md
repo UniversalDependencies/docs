@@ -42,4 +42,4 @@ This value marks the dependent part of a compound adposition. Such words cannot 
 #### Examples
 
 * _ի <b>հեճուկս</b>_/_i heč̣owks_ “to spite”, _ի <b>փառս</b>_/_i p’aṙs_ “in praise of”
-<!-- Interlanguage links updated Út 30. června 2026, 10:58:41 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:32 CET -->

@@ -42,4 +42,4 @@ This value marks the dependent first or second part of a compound adposition. Su
 #### Examples
 
 * _ի <b>հետ</b>_/_i het_ “together with”, _ի <b>մէնջ</b>_/_i mēnǰ_ “in, between”
-<!-- Interlanguage links updated Út 30. června 2026, 10:58:41 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:32 CET -->

@@ -47,4 +47,4 @@ The `mark` link is used between a marker and its head. A marker is the word intr
 11	another	_	_	_	_	0	_	_	_
 
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 11:00:14 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:50 CET -->

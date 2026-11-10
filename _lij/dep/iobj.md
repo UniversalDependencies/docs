@@ -24,3 +24,4 @@ A recipient expressed by a full prepositional phrase, by contrast, takes [obl:ar
 5	moæ	moæ	NOUN	_	_	1	obl:arg	_	Gloss=mother
 
 ~~~
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:49 CET -->

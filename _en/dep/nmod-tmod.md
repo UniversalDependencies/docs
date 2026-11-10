@@ -19,4 +19,4 @@ nmod:tmod(day, week)
 det(week, this)
 ~~~
 
-<!-- Interlanguage links updated Út 30. června 2026, 11:00:21 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:56 CET -->

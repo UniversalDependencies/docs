@@ -26,4 +26,4 @@ The governor of this relation might not always be a verb: when the verb is a cop
 10	alt	_	VERB	VERcjg	_	0	root	_	_
 
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:56 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:35 CET -->

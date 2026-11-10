@@ -38,4 +38,4 @@ Resultative, subject, and future participles are word forms that may share prope
 -	Resultative: _<b>քանդուած</b> եկեղեցի_/_<b>k’andowaç</b> ekeġec’i_ “a <b>ruined</b> church”,
 -	Subject: _<b>տիրող</b> կարգեր_/_<b>tiroġ</b> karger_ “<b>ruling</b> order”,
 -	Future-II: _<b>տարուելիք</b> աշխատանքներ_/_<b>tarowelik’</b> ašxatank’ner_ “the work to be carried out”.
-<!-- Interlanguage links updated Út 30. června 2026, 10:58:39 CEST --> 
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:30 CET -->

@@ -57,4 +57,4 @@ The prospective aspect is used to convey intentions, plans, or expectations of c
 #### Example
 
 * _tire go <b>come</b> burst_ "the tire would explode"
-<!-- Interlanguage links updated Út 30. června 2026, 10:58:43 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:34 CET -->

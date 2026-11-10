@@ -70,4 +70,4 @@ Typical examples of words with expressive or emotional coloring in the Armenian 
 #### Examples
 
 * _հանըմ_/_hanëm_
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:19 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:04 CET -->

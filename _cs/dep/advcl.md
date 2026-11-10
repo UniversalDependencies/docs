@@ -30,4 +30,4 @@ advcl(He-rushed, come)
 Beginning with release 2.17, optional depictives (secondary predication) are annotated with the dedicated relation
 subtype [advcl:pred]() instead of plain `advcl`.
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:27 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:11 CET -->

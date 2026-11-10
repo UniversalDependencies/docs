@@ -40,4 +40,4 @@ The `advcl:relcl` relation applies to a relative clause that modifies a clause (
 12	նկարներով	նկար	NOUN	_	Animacy=Nhum|Case=Ins|Definite=Ind|Number=Plur	8	obl	_	Translit=nkarnerov|LTranslit=nkar|SpaceAfter=No
 ~~~
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:32 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:15 CET -->

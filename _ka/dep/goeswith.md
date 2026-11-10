@@ -11,4 +11,4 @@ udver: '2'
 მე ვისწავლი ლაპარაკს და	ხანდა ხან	ჩუმად ვიქნები... \n 'I will learn to speak up, and be silent sometimes...'
 goeswith(ხანდა, ხან)
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 11:00:12 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:48 CET -->

@@ -24,4 +24,4 @@ Dialectal, colloquial, archaic, or intentionally expressive forms are not normal
 34	მად	მადლი	NOUN	Noun	Case=Dat|Number=Sing|Typo=Yes	37	obj	_	CorrectForm=მადლსა|Translit=madl
 35	ლსა	_	X	_	_	34	goeswith	_	Translit=lsa
 
-<!-- Interlanguage links updated So 10. května 2025, 18:14:37 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:06 CET -->

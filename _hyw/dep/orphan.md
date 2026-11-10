@@ -22,4 +22,4 @@ The `orphan` relation is used to provide a satisfactory treatment of certain ins
 
 In this example, the subject _կինս_/_kins_ “my wife” is promoted to the head position in the second conjunct. Attaching the object _ձայն_/_jayn_ “vote” to the subject is necessary to preserve the integrity of the clause, but using the standard relation [obj]() would be misleading because _ձայն_ “vote” is not the object of _կինս_ “my wife”. Therefore, the `orphan` relation is used to indicate that this is a non-standard attachment.
 
-<!-- Interlanguage links updated Út 30. června 2026, 11:00:38 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:39:09 CET -->

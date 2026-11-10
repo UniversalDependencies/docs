@@ -26,4 +26,4 @@ nmod:tmod(report, 2020-5)
 ~~~
 
 
-<!-- Interlanguage links updated Út 30. června 2026, 11:00:21 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:56 CET -->

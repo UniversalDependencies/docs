@@ -30,3 +30,4 @@ as the predicate of a clause, with no copula.
 
 * [cux] _Bakun <b>cheatea</b>._ "Mi casa es grande."
 * [cux] _Baʼa kun gua <b>cheatea</b>._ "Esta casa no es grande."
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:07 CET -->

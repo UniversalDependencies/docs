@@ -96,4 +96,4 @@ Used when the verb has the applicative suffix _-ba_ followed by the reflexive su
 
 * _ǁîb ge audosa go <b>ǁamabasen</b>._ “He <b>bought for himself</b> a car.”
 * _Sâuǁkhāsibab ge nî <b>ūǂuibasen</b>._ “He should <b>take</b> some insurance <b>out on himself</b>.”
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:24 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:07 CET -->

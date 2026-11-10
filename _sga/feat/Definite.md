@@ -34,4 +34,4 @@ Prepositions which precede determiners other than the article, such as _<b>cach<
 * _cosmail <b>leiss</b>_ "alike <b>to him</b>"
 * _arropad maith <b>lim</b>sa_ "for it should be fine <b>with me</b>"
 * _isairdircc <b>í</b>cachthír_ "it is well known <b>in</b> every country"
-<!-- Interlanguage links updated Út 30. června 2026, 10:58:49 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:38 CET -->

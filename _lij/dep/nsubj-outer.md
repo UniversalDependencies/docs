@@ -22,3 +22,4 @@ The `nsubj:outer` relation is used for the nominal subject of a copular clause w
 ~~~
 
 When an infinitival clause instead functions as the subject of a nominal copular predicate, the nominal predicate is the head and the infinitival clause takes plain [csubj]().
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:59 CET -->

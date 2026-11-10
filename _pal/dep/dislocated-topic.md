@@ -31,4 +31,4 @@ kē pad xēm kāmēd būdan gōw kū dildard bawāy \ who with character wishes 
 nsubj(kāmēd, kē)
 dislocated:topic(gōw, kāmēd)
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 11:00:07 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:44 CET -->

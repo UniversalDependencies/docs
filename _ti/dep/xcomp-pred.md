@@ -25,3 +25,4 @@ xcomp:pred(ኮይና, ሃብታም)
 ~~~
 
 "Aster became rich in a short time." (ti_ref_144)
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:39:15 CET -->

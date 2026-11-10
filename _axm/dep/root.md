@@ -22,4 +22,4 @@ The `root` grammatical relation points to the root of the sentence. A fake node 
 
 There is just one node with the `root` dependency relation in every tree. If the main predicate is not present (due to [ellipsis](http://universaldependencies.org/hy/overview/specific-syntax.html))  and there are multiple orphaned dependents, the dependent that is highest in the obliqueness hierarchy is promoted to the head (root) position and the other orphans are attached to it.
 
-<!-- Interlanguage links updated Út 30. června 2026, 11:00:43 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:39:13 CET -->

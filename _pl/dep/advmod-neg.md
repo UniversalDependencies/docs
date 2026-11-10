@@ -29,4 +29,4 @@ The `advmod:neg` relation is used in the Polish [PDB-UD](http://universaldepende
 7	said	_	_	_	_	_	_	_	_
 8	.	_	_	_	_	_	_	_	_
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 10:59:37 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:18 CET -->

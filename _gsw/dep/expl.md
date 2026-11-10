@@ -12,4 +12,4 @@ Es macht Spaß , das zu lernen . \n It is fun to learn that .
 expl(macht, Es)
 csubj(macht, lernen)
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 11:00:07 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:44 CET -->

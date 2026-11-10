@@ -29,4 +29,4 @@ CS: Subordinative conjunction
 - _È successo <b>mentre</b> ero al lavoro._ "It happened while I was at work"
 - _Vado a casa <b>prima che</b> piova._ "I go home before it starts raining"
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:58:38 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:29 CET -->

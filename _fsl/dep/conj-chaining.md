@@ -13,4 +13,4 @@ conj:chaining ([tomber],[AVOIR-MAL])
 conj:chaining ([AVOIR-MAL],[gésir-sol])
 ~~~
 
-<!-- Interlanguage links updated Út 30. června 2026, 11:00:34 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:33 CET -->

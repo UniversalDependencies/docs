@@ -16,3 +16,4 @@ The specialization is used in KIParla, a corpus of spoken Italian, when the spea
 5	dovrei	dovere	AUX	_	_	6	aux	_	_
 6	riuscire	riuscire	VERB	_	_	2	parataxis:restart	_	_
 ~~~
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:39:11 CET -->

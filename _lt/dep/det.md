@@ -39,4 +39,4 @@ Kurio namo jūs norite ? \n Which house do you want ?
 det(namo, Kurio)
 det(house, Which)
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 11:00:01 CEST -->
+<!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:40 CET -->
