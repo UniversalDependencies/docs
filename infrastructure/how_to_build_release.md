@@ -175,10 +175,10 @@ It is meant for the maintenance task force rather than individual treebank teams
   relation subtypes for the docs repository.
 
 	```bash
-	perl tools/survey_features.pl --tbklist released_treebanks.txt &gt; docs/survey-feats.md
-	perl tools/survey_deprel_subtypes.pl --tbklist released_treebanks.txt &gt; docs/survey-deprel.md
-	perl tools/survey_misc.pl --tbklist released_treebanks.txt &gt; docs/survey-misc.md
-	perl tools/survey_scripts.pl --tbklist released_treebanks.txt --countby treebank &gt; docs/survey-scripts.md
+	perl tools/survey_features.pl --tbklist released_treebanks.txt > docs/survey-feats.md
+	perl tools/survey_deprel_subtypes.pl --tbklist released_treebanks.txt > docs/survey-deprel.md
+	perl tools/survey_misc.pl --tbklist released_treebanks.txt > docs/survey-misc.md
+	perl tools/survey_scripts.pl --tbklist released_treebanks.txt --countby treebank > docs/survey-scripts.md
 	cd docs ; git pull --no-edit ; git status ; git commit -a -m 'Updated list of features and relations.' ; git push ; cd ..
 	```
 
