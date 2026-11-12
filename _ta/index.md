@@ -17,7 +17,7 @@ These guidelines should be used together with the official UD documentation. Ann
 | Section | Description | Link |
 |---|---|---|
 | Preprocessing | Guidelines for Unicode normalisation, replacement of ambiguous characters, and preparation of text before annotation. | [Preprocessing](preprocessing.html) |
-| Tokenisation and Multiword Tokenisation | Guidelines for sentence tokenisation, word tokenisation, multiword tokenisation, clitic segmentation, ADP segmentation, and cases where forms should not be split. | [Tokenisation](./mwe/tokenisation.html) |
+| Tokenisation and Multiword Tokenisation | Guidelines for sentence tokenisation, word tokenisation, multiword tokenisation, clitic segmentation, ADP segmentation, and cases where forms should not be split. | [Tokenisation](tokenisation.html) |
 | Morphological Features | Guidelines for annotating UD morphological features in Tamil, including Tamil-specific features such as deixis,  sandhi, and case. | [Morphological Features](features.html) |
 | Dependency Relations | Guidelines for Annotating UD Dependency Relations: Core Arguments, Oblique Nominals, Clausal Structures, Coordination, Complex Predicates, and Tamil-Specific Syntactic Relations in the MWTT Treebank | [Dependency Relations](relations.html) |
 
