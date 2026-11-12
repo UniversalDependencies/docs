@@ -3,6 +3,9 @@ udver: '2'
 layout: relation
 title: 'aux'
 shortdef: 'auxiliary'
+# The filename "aux" is not allowed on Windows, so we redirect instead
+# (see https://github.com/UniversalDependencies/docs/issues/20)
+redirect_from: "gsw/dep/aux.html"
 ---
 
 An `aux` (auxiliary) of a clause is a function word associated (a verb) with a verbal predicate that expresses categories such as tense, mood, aspect, voice or evidentiality. In German this includes verbs sein and haben when they indicate past tense, verb werden when it indicates future tense or a poosibility, as well as modal verbs. 
