@@ -9,7 +9,7 @@ udver: '2'
 The data is released through [LINDAT/CLARIAH-CZ](https://lindat.mff.cuni.cz/repository/).
 
 * The next release (v2.20) is scheduled for May 15, 2027 (data freeze on May 1).
-* Version 2.19 treebanks will be available at <a href="http://hdl.handle.net/11234/1-6316">http://hdl.handle.net/11234/1-6316</a>. 402 treebanks, 226 languages, released November 15, 2026.
+* Version 2.19 treebanks are available at <a href="http://hdl.handle.net/11234/1-6316">http://hdl.handle.net/11234/1-6316</a>. 402 treebanks, 226 languages, released November 15, 2026.
 * Version 2.18 treebanks are archived at http://hdl.handle.net/11234/1-6149. 353 treebanks, 193 languages, released May 15, 2026.
 * Version 2.17 treebanks are archived at http://hdl.handle.net/11234/1-6036. 339 treebanks, 186 languages, released November 15, 2025.
 * Version 2.16 treebanks are archived at http://hdl.handle.net/11234/1-5901. 319 treebanks, 179 languages, released May 15, 2025.
