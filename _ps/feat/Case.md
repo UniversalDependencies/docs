@@ -13,7 +13,6 @@ udver: '2'
   <td><a href="#Acc">Acc</a></td>
   <td><a href="#Abl">Abl</a></td>
   <td><a href="#Voc">Voc</a></td>
-  <td><a href="#Gen">Gen</a></td>
 </tr>
 </table>
 
@@ -92,7 +91,6 @@ TODO doplnit priklady
 * (b) **ړنده پېغله** _**ṛandá péġla**_ “blind girl”
 * (c) **نوي کورونه** _**në́wi korúna**_ “new houses”
 * (d) **سړی** راځي _**saṛáy** rấżi_ “the man comes”
-* (e) **سړی** راځي _**saṛáy** rấżi_ “the man comes”
 
 
 ### <a name="Acc">`Acc`</a>: oblique
@@ -159,9 +157,5 @@ Other nouns and adjectives (all masculine/feminine, singular/plural) share the f
 * **نوو کورونو**، دلته راشئ _**në́wo korúno**, dë́lta rấšëy_ “new houses, come here”
 
 
-### <a name="Gen">`Gen`</a>: genitive
-
-
-#### Examples
 
 <!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:35 CET -->
