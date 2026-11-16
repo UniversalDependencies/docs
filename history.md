@@ -56,7 +56,9 @@ or by [searching for “Universal Dependencies” on Google Scholar](https://sch
 
 #### 2019
 
-* Kim Gerdes, Bruno Guillaume, Sylvain Kahane, Guy Perrier. 2019. [Improving Surface-syntactic Universal Dependencies (SUD): surface-syntactic functions and deep-syntactic features](https://www.aclweb.org/anthology/W19-7814.pdf), _Proceedings of the 17th international conference on Treebanks and Linguistic Theories (TLT)_, SyntaxFest, Paris.
+* Kim Gerdes, Bruno Guillaume, Sylvain Kahane, Guy Perrier. 2019.
+  [Improving Surface-syntactic Universal Dependencies (SUD): surface-syntactic functions and deep-syntactic features](https://aclanthology.org/W19-7814.pdf),
+  _Proceedings of the 17th international conference on Treebanks and Linguistic Theories (TLT)_, SyntaxFest, Paris.
 
 #### 2018
 
@@ -77,7 +79,7 @@ or by [searching for “Universal Dependencies” on Google Scholar](https://sch
   Kim Harris, Katrin Marheinecke, Georg Rehm, Tolga Kayadelen, Mohammed Attia, Ali Elkahky, Zhuoran Yu, Emily Pitler, Saran Lertpradit,
   Michael Mandl, Jesse Kirchner, Hector Fernandez Alcalde, Jana Strnadová, Esha Banerjee, Ruli Manurung, Antonio Stella, Atsuko Shimada,
   Sookyoung Kwak, Gustavo Mendonça, Tatiana Lando, Rattima Nitisaroj, Josie Li. 2017.
-  [CoNLL 2017 Shared Task: Multilingual Parsing from Raw Text to Universal Dependencies](https://www.aclweb.org/anthology/K17-3001.pdf).
+  [CoNLL 2017 Shared Task: Multilingual Parsing from Raw Text to Universal Dependencies](https://aclanthology.org/K17-3001.pdf).
   In *Proceedings of the CoNLL 2017 Shared Task: Multilingual Parsing from Raw Text to Universal Dependencies*, pp. 1-19.
 
 #### 2016
@@ -159,18 +161,19 @@ or by [searching for “Universal Dependencies” on Google Scholar](https://sch
 * Katri Haverinen, Jenna Nyblom, Timo Viljanen, Veronika Laippala, Samuel Kohonen, Anna Missilä, Stina Ojala, Tapio Salakoski, and Filip Ginter. 2013.
   [Building the essential resources for Finnish: the Turku Dependency Treebank](http://dx.doi.org/10.1007/s10579-013-9244-1). Language Resources and Evaluation. Volume 48, Issue 3, pp 493-531.
 
-* Janna Lipenkova and Milan Souček. 2014. [Converting Russian Dependency Treebank to Stanford Typed
-Dependencies Representation](http://www.aclweb.org/anthology/E14-4028). In *Proceedings of the 14th Conference of the European Chapter of the Association for Computational Linguistics*, pp. 143-147.
+* Janna Lipenkova and Milan Souček. 2014.
+  [Converting Russian Dependency Treebank to Stanford Typed Dependencies Representation](https://aclanthology.org/E14-4028).
+  In *Proceedings of the 14th Conference of the European Chapter of the Association for Computational Linguistics*, pp. 143-147.
 
 * Teresa Lynn, Jennifer Foster, Mark Dras and Lamia Tounsi. 2014.
-[Cross-lingual Transfer Parsing for Low-Resourced Languages: An Irish Case Study](https://www.aclweb.org/anthology/W14-4606/) In *Proceedings of the First Celtic Language Technology Workshop (CLTW 2014)*
+[Cross-lingual Transfer Parsing for Low-Resourced Languages: An Irish Case Study](https://aclanthology.org/W14-4606/) In *Proceedings of the First Celtic Language Technology Workshop (CLTW 2014)*
 
 * Marie-Catherine de Marneffe, Miriam Connor, Natalia Silveira, Samuel R. Bowman, Timothy Dozat, and Christopher D. Manning. 2013.
-  [More constructions, more genres: extending Stanfod Dependencies](http://anthology.aclweb.org/W/W13/W13-3721.pdf).
+  [More constructions, more genres: extending Stanfod Dependencies](https://aclanthology.org/W13-3721.pdf).
   In *Proceedings of the Second International Conference on Dependency Linguistics (DepLing 2013)*.
-  
+
 * Ryan McDonald, and Joakim Nivre. 2007.
-  [Characterizing the errors of data-driven dependency parsing models](http://www.aclweb.org/anthology/D/D07/D07-1013.pdf).
+  [Characterizing the errors of data-driven dependency parsing models](https://aclanthology.org/D07-1013.pdf).
   In *Proceedings of EMNLP-CoNLL*.
 
 * Mojgan Seraji, Carina Jahani, Beáta Megyesi, and Joakim Nivre. 2013.
