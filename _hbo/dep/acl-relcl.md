@@ -150,6 +150,8 @@ _ṿehayah bayom hashishi ṿehekhinu ʼet ʼasher yaviʼu ṿehayah mishneh ʻa
 
 _And it shall be on the sixth day, and they shall prepare that which they have gathered and it shall be twice what they gather day by day._
 
+This analysis is discussed in [Issue #1192](https://github.com/UniversalDependencies/docs/issues/1192).
+
 Participial clauses are also marked with `acl:relcl`.
 These often take the form of a noun immediately followed by a participle which agrees in gender, number, and definiteness (like an [ADJ]() would), and then other arguments to the verb.
 
@@ -285,4 +287,5 @@ _ושם אחיו יובל הוא היה אבי כל־תפש כנור ועוגב�
 _ṿeshem ʼaḥiṿ uval huʼ hayah ʼavi kal tofeś kinor ṿeʻugav_
 
 _And the name of his brother was Jubal; he was the father all Zither and Flute players._
+
 <!-- Interlanguage links updated Út 10. listopadu 2026, 22:38:11 CET -->

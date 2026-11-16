@@ -135,6 +135,8 @@ _"And I saw in my dream and behold! seven heads of grain ascending from one stal
 
 ## Paragraph Breaks
 
+The tagging of these marks is discussed in [Issue #1117](https://github.com/UniversalDependencies/docs/issues/1117).
+
 ### Setumah
 
 The Setumah indicates a break within a paragraph.
@@ -201,4 +203,5 @@ _ויסע אברם הלוך ונסוע הנגבה׃ פ_
 _ṿayisaʻ ʼavram halokh ṿenasoʻa hanegbah  p_
 
 _And Abram departed, walking and departing, to the south._
+
 <!-- Interlanguage links updated Út 10. listopadu 2026, 22:37:29 CET -->
