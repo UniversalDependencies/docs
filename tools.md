@@ -52,6 +52,7 @@ You may also want to announce your tool in the
     * [UDon2](#udon2)
     * [ACoLi CoNLL Libraries](#acoli-conll-libraries)
     * [EUD Annotation for Portuguese](#eud-annotation-for-portuguese)
+    * [UDAgent](#ud-agent-skills-mcps-plugins-and-extensions-for-harnesses-and-qslms)
   * Visualization tools
     * [Deptreeviz](#deptreeviz)
     * [CoNLL-U viewer](#conll-u-viewer)
@@ -492,6 +493,16 @@ It is a specialized web-based pipeline for producing Enhanced Universal Dependen
 * License: MIT license
 * Homepage: https://eud-portugues.souelvis.dev/
 * References: [De Souza et al., 2024](https://aclanthology.org/2024.stil-1.3.pdf)
+
+#### UD Agent Skills, MCPs, Plugins, and Extensions for Harnesses and QSLMs
+
+**UDAgent** (UD Agent, `ud-agent`) provides agent skills, a Model Context Protocol (MCP) server, plugins and extensions for working with Universal Dependencies treebanks and CoNLL-U data in agent harnesses, including workflows for quantized small local language models. It runs pinned versions of upstream tools for validation and treebank checks, and supports editing, comparison, fix planning, and local previews of documentation and dependency trees, and prepares necessary dependencies automatically in containers or userspace environments.
+
+* Category: validation, editing and analysis
+* Platform: Linux, macOS, Windows
+* Implementation: TypeScript, Python, Rust
+* License: MIT
+* Homepage: <https://github.com/mehmetoguzderin/ud-agent-skill-mcp-plugin>
 
 ### Visualization tools
 
