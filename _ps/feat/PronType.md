@@ -78,8 +78,8 @@ Personal pronouns for the first and the second person and reflexive personal pro
   <td align="middle">زموږ zmuǧ<br/>زمونږ zmunǧ</td>
   <td align="middle">ستا stâ</td>
   <td align="middle">ستاسو stấso<br/>ستاسې stấse</td>
-  <td align="middle">(خپل xpël) **</td>
-  <td align="middle">⇐</td>
+  <td align="middle" style="background-color:lightgray">(خپل xpël) **</td>
+  <td align="middle" style="background-color:lightgray"></td>
 </tr>
 </table>
 
