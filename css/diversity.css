@@ -1,0 +1,132 @@
+#diversity {
+	position: relative;
+	max-width: 1000px;
+}
+
+#diversity .div-slider {
+	margin-bottom: .5em;
+}
+
+#diversity .div-slider input {
+	display: block;
+	width: 100%;
+	max-width: 600px;
+	margin: .2em 0;
+}
+
+#diversity .div-approx {
+	color: #b45f06;
+}
+
+#diversity .div-crumbs {
+	min-height: 1.5em;
+}
+
+#diversity .div-crumbs a {
+	cursor: pointer;
+	text-decoration: underline;
+}
+
+#diversity .div-panes {
+	display: flex;
+	flex-wrap: wrap;
+	gap: .5em 1em;
+}
+
+#diversity figure {
+	margin: 0;
+	flex: 1 1 380px;
+	min-width: 0;
+}
+
+#diversity figcaption {
+	font-weight: bold;
+	text-align: center;
+}
+
+#diversity .div-pie {
+	width: 100%;
+	height: auto;
+	aspect-ratio: 420 / 250;
+	border: 0;
+}
+
+#diversity .div-pie path {
+	pointer-events: auto; /* style-vis.css disables it for all paths */
+	stroke: #fff;
+	stroke-width: .8;
+	cursor: pointer;
+	transition: opacity .15s;
+}
+
+#diversity .div-pie path.leaf {
+	cursor: default;
+}
+
+#diversity .div-pie:hover path:not(:hover) {
+	opacity: .6;
+}
+
+#diversity .div-pie text {
+	font-size: 9px;
+	fill: currentColor;
+	pointer-events: none;
+}
+
+#diversity .div-pie polyline {
+	fill: none;
+	stroke: #999;
+	stroke-width: .5;
+	pointer-events: none;
+}
+
+#diversity .div-table {
+	border-collapse: collapse;
+	font-size: .9em;
+	margin-top: .5em;
+}
+
+#diversity .div-table th, #diversity .div-table td {
+	padding: 1px 10px;
+	text-align: right;
+}
+
+#diversity .div-table th:first-child, #diversity .div-table td:first-child {
+	text-align: left;
+}
+
+#diversity .div-table tbody tr {
+	cursor: pointer;
+}
+
+#diversity .div-table tbody tr.leaf {
+	cursor: default;
+}
+
+#diversity .div-table tbody tr:hover {
+	background: #f0f0f0;
+}
+
+#diversity .div-table i {
+	display: inline-block;
+	width: .8em;
+	height: .8em;
+	margin-right: .4em;
+}
+
+#diversity .div-hint {
+	font-size: .85em;
+	color: #666;
+}
+
+#diversity .div-tip {
+	position: absolute;
+	pointer-events: none;
+	background: #222;
+	color: #fff;
+	padding: 3px 8px;
+	border-radius: 4px;
+	font-size: .85em;
+	white-space: nowrap;
+	z-index: 5;
+}

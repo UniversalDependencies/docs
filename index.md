@@ -95,17 +95,11 @@ longer maintained and they have been excluded from the most recent release.
 
 <small>Disclaimer: Our use of flags to symbolise languages is only intended as a visual enhancement of the website and should not be interpreted as a political statement in any way.</small>
 
-## Diversity of the Latest Release
+## Language Diversity Across Releases
 
-### Languages per Family (Genus)
-
-<img style="max-height: 300px" src="img/lang_per_fam.png" />
-<img style="max-height: 300px" src="img/lang_per_gen_ie.png" />
-
-### Words per Family (Genus)
-
-<img style="max-height: 300px" src="img/word_per_fam.png" />
-<img style="max-height: 300px" src="img/word_per_gen_ie.png" />
+{::nomarkdown}
+{% include diversity.html %}
+{:/nomarkdown}
 
 See also separate pages with a [list of UD languages](languages.html) and
 a [list of scripts](survey-scripts.html) used in UD treebanks.
