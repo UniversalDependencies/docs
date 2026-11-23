@@ -263,7 +263,16 @@ The weak pronouns bear the special `Variant=Weak` feature (see [Variant]()).
 The demonstrative pronouns distinguish the deixis, like the third person personal pronouns.
 However, there are two series of proximate pronouns: long and short.
 The short one is the obvious counterpart of the personal series, while the long series is unique to demonstrative pronouns.
-The long proximate pronouns bear the feature `Variant=Long`.
+The long proximate pronouns bear the feature `Variant=Long` (see [Variant]()).
+
+The prefix -همـ _ham-_ provides the meaning of identity “same”.
+
+The suffix ـسې- _-se_ provides the meaning of comparison “like this/these/that/those”.
+It can be combined also with the prefix -همـ _ham-_ “same”.
+These forms are indeclinable.
+
+
+#### Examples
 
 <table class="typeindex" border="1">
 <tr>
@@ -353,9 +362,7 @@ The long proximate pronouns bear the feature `Variant=Long`.
 </tr>
 </table>
 
-The remote series is stressed on the first syllable, not on the second one like its demonstrative counterpart.
-
-The prefix -همـ _ham-_ provides the meaning of identity “same”:
+NOTE: The remote series is stressed on the first syllable, not on the second one like its demonstrative counterpart.
 
 <table class="typeindex" border="1">
 <tr>
@@ -445,10 +452,6 @@ The prefix -همـ _ham-_ provides the meaning of identity “same”:
 </tr>
 </table>
 
-The suffix ـسې- _-se_ provides the meaning of comparison “like this/these/that/those”.
-It can be combined also with the prefix -همـ _ham-_ “same”.
-These forms are indeclinable.
-
 <table class="typeindex" border="1">
 <tr>
   <td align="middle"><b>remote</b></td>
@@ -479,8 +482,6 @@ These forms are indeclinable.
   <td align="middle">همداسې hamdấse</td>
 </tr>
 </table>
-
-#### Examples
 
 
 ### <a name="Int">`Int`</a>: interrogative
