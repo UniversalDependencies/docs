@@ -162,7 +162,7 @@ For the third person, the variant with the separated preposition is more frequen
 the multi-word token with little or no phonological change.
 The remote series lacks separate genitive forms at all, using only the prepositional construction for expressing possession.
 
-The possessive counterpart of the both reflexive pronouns is the determiner **خپل _xpël_** which declines like common adjectives in agreement with the possessed object. Only this pronoun bears the `Poss=Yes` feature (alongside with the weak pronouns in the possessive meaning - see below or [feat/Poss]())
+The possessive counterpart of the both reflexive pronouns is the determiner **خپل _xpël_** which declines like common adjectives in agreement with the possessed object. Only this pronoun bears the `Poss=Yes` feature (alongside with the weak pronouns in the possessive meaning - see below or [Poss]())
 
 #### Examples
 
@@ -191,14 +191,14 @@ The possessive counterpart of the both reflexive pronouns is the determiner **خ
     <b>3 M</b>
   </td>
   <td align="middle">ددۀ dadë́</td>
-  <td align="middle" style="background-color:yellow">ددوی dëdúy</td>
+  <td align="middle" style="background-color:lightgray">ددوی dëdúy</td>
 </tr>
 <tr>
   <td align="middle">
     <b>3 F</b>
   </td>
   <td align="middle">ددې dëdé</td>
-  <td align="middle" style="background-color:yellow"</td>
+  <td align="middle" style="background-color:lightgray"></td>
 </tr>
 </table>
 
@@ -207,8 +207,8 @@ The possessive counterpart of the both reflexive pronouns is the determiner **خ
 
 **Weak personal pronouns** are used as unstressed predicate arguments or unstressed possessive pronouns.
 They are also used in contracted forms (which are separeted in UD annotation) with several prepositions.
-When used in the possessive meaning, they are marked with `Poss=Yes` feature (see also [feat/Poss]().
-The weak pronouns bear the special `Variant=Weak` feature (see [feat/Variant]()).
+When used in the possessive meaning, they are marked with `Poss=Yes` feature (see also [Poss]().
+The weak pronouns bear the special `Variant=Weak` feature (see [Variant]()).
 
 #### Examples
 
@@ -238,7 +238,7 @@ The weak pronouns bear the special `Variant=Weak` feature (see [feat/Variant]())
 
 ------------
 
-**Directional personal pronouns** are used in two multi-word tokens, wither with several postpositions or as prefixes of many motion verbs, where they express the direction of the motion. They are marked with `Variant=Dir` feature (see [feat/Variant]).
+**Directional personal pronouns** are used in two multi-word tokens, wither with several postpositions or as prefixes of many motion verbs, where they express the direction of the motion. They are marked with `Variant=Dir` feature (see [Variant]).
 
 #### Examples
 
