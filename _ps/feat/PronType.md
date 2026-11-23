@@ -238,7 +238,7 @@ The weak pronouns bear the special `Variant=Weak` feature (see [Variant]()).
 
 ------------
 
-**Directional personal pronouns** are used in two multi-word tokens, wither with several postpositions or as prefixes of many motion verbs, where they express the direction of the motion. They are marked with `Variant=Dir` feature (see [Variant]).
+**Directional personal pronouns** are used in two multi-word tokens, wither with several postpositions or as prefixes of many motion verbs, where they express the direction of the motion. They are marked with `Variant=Dir` feature (see [Variant]()).
 
 #### Examples
 
