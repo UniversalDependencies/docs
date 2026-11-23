@@ -11,7 +11,6 @@ udver: '2'
   <td><a href="#Prs">Prs</a></td>
   <td><a href="#Dem">Dem</a></td>
   <td><a href="#Int">Int</a></td>
-  <td><a href="#Rel">Rel</a></td>
   <td><a href="#Rcp">Rcp</a></td>
   <td><a href="#Ind">Ind</a></td>
   <td><a href="#Tot">Tot</a></td>
@@ -452,6 +451,7 @@ NOTE: The remote series is stressed on the first syllable, not on the second one
 </tr>
 </table>
 
+
 <table class="typeindex" border="1">
 <tr>
   <td align="middle"><b>remote</b></td>
@@ -530,17 +530,12 @@ It can mean also “any” in negative sentences (marked as indefinite - see bel
 * (f) **څۀ** رنګه کتاب په مېز دی؟ _**cë** ránga kitấb pë mez dëy?_ “What kind of book is on the table?” (= what is it like, asking about the quality)
 * (g) **کوم** کتاب په میز دی؟ _**kum** kitấb pë mez dëy?_ “Which book is on the table?” (= which one, asking about the identity)
 
-### <a name="Rel">`Rel`</a>: relative
-
-The only relative pronoun in Pashto is indeclinable چې <i>če</i> “that”, “which”, “who” etc.
-
-#### Examples
-
 ### <a name="Rcp">`Rcp`</a>: reciprocal
 
-The only reciprocal pronoun in Pashto is indeclinable یوبل <i>yë́wbël</i> “each other”.
-
 #### Examples
+
+* (a) یوبل <i>yë́wbël</i> “each other” (indeclinable)
+
 
 ### <a name="Ind">`Ind`</a>: indefinite
 
